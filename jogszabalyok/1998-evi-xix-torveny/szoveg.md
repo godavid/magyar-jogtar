@@ -719,6 +719,8 @@ bírálja el.
 
 (6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
 
+(7) A kiskorú idézésében, illetve értesítésében egyidejűleg a kiskorú korára, érettségére figyelemmel, számára érthető módon tájékoztatást kell adni az idézés, illetve értesítés tartalmáról.
+
 67/A. §
 
 68. § (1) Katonát [Btk. 122. § (1) bek.] rendszerint az elöljárója útján kell idézni, illetve értesíteni. Az idézés, illetve az értesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a megidézettnek, illetve az értesítettnek az idézés, illetve az értesítés küldőjének a székhelyén nincs elöljárója, és a késedelem az eljárási cselekmény elvégzését veszélyeztetné. A Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény esetén a katonai ügyész vagy a katonai nyomozó hatóság a gyanúsítottkénti kihallgatásra idézéssel egyidejűleg, az elöljáró útján tájékoztatja a büntetőeljárás megindításáról a szolgálati beosztásból való felfüggesztésre jogosult elöljárót is.

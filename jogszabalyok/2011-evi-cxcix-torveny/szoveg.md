@@ -583,7 +583,14 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (2) Központi államigazgatási szerv alaptevékenysége keretében – ide nem értve a funkcionális tevékenységet – középiskolai végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, a Miniszterelnökséget vezető államtitkár, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
 
-#### 41. §
+41. § (1) A hivatásos szolgálati, illetve katonai szolgálati jogviszonyban állók a tartalékállomány (73. §) útján kormányzati szolgálati jogviszonyt létesíthetnek
+
+- a) a munkakör betöltéséhez előírt képesítési feltétel hiányában is, ha a képesítés megszerzésére irányuló tanulmányaikat legkésőbb a kormányzati szolgálati jogviszony létesítésére vonatkozó kinevezésükkel egyidejűleg megkezdik és vállalják, hogy azokat két éven belül befejezik,
+- b) próbaidő kikötése nélkül.
+
+(2) Az (1) bekezdés a) pontjában meghatározott kétéves határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
+
+(3) Ha a kormánytisztviselő az (1) bekezdés a) pontja szerinti képesítést határidőn belül nem szerzi meg, kormányzati szolgálati jogviszonya a törvény erejénél fogva megszűnik.
 
 42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
@@ -1100,7 +1107,9 @@ alakul át.
 
 73. § (1) Ha az államigazgatási szervnél alkalmazott kormánytisztviselőt – ide nem értve a vezetőt – kormányzati szolgálati jogviszonyából a 63. § (1) bekezdés a)–c) pontjaiban meghatározott okból, vagy a 63. § (2) bekezdés b)–d) pontjaiban meghatározott okból mentik fel vagy a 60. § (1) bekezdés g) pontja alapján szűnik meg a jogviszonya, akkor a felmentési idejére, illetve a felmentési idővel azonos időtartamra tartalékállományba kell helyezni, abból a célból, hogy számára másik közigazgatási szervnél képzettségének, besorolásának megfelelő állást ajánljanak fel. Ha a kormánytisztviselőt kérésére a tartalékállományból törlik, a reá irányadó végkielégítés felére jogosult, kivéve, ha munkaviszony létesítése miatt kéri a törlését. A kormányzati szolgálati jogviszony megszűnésével a tartalékállományba helyezés is megszűnik.
 
-(2)–(3)
+(2) A hivatásos szolgálati, illetve katonai szolgálati jogviszonyban állók tartalékállományba helyezésének szabályait külön törvény állapítja meg. Az adatokat a külön jogszabályban kijelölt személyügyi szerv adja át a személyügyi központnak.
+
+(3) A hivatali szervezet vezetője – a Kormány által meghatározott módon – bejelenti az üres álláshelyet.
 
 (4) Ha a munkáltató tartalékállományba helyezett kormánytisztviselőt nevez ki, akkor külön törvény kedvezményt írhat elő. A kedvezmény összegét a munkáltató személyi juttatásokra használhatja fel.
 
@@ -2375,7 +2384,9 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 
 (3) A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
 
-181. § A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
+181. § (1) A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
+
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.
 
 182. § (1) A személyügyi központ nyilvántartja és kezeli az általa lefolytatott pályázati eljárással, a kompetencia vizsgálattal, és a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a személyügyi központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a személyügyi központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A személyügyi központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
 

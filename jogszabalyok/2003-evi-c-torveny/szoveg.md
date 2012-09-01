@@ -760,6 +760,8 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (8) Az Elnök és Hivatal piacfelügyeleti terven kívül is folytathat hivatalból piacfelügyeleti tevékenységet.
 
+(9) Az Elnök és a Hivatal a piacfelügyeleti feladat- és hatáskörét e törvény, valamint külön jogszabály alapján gyakorolja.
+
 54/A. § (1) A piacfelügyeleti eljárást – ideértve a piacfelügyeleti terv alapján indítandó piacfelügyeleti eljárást is – megelőzheti piacfelügyeleti ellenőrzés.
 
 (2) A piacfelügyeleti ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók azzal, hogy amennyiben az Elnök vagy a Hivatal a piacfelügyeleti ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor az Elnök vagy a Hivatal – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.

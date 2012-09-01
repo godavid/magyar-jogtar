@@ -452,13 +452,13 @@ teszi szükségessé.
 - b) az ebtartó nevét, lakcímét, telefonszámát, elektronikus levélcímét,
 - c) az eb fajtáját, nemét, születési idejét, színét, hívónevét,
 - d) az eb tartási helyét,
-- e) a beültetett transzponder sorszámát, a beültetés időpontját, a beültetést végző magánállatorvos nevét, kamarai bélyegzője számát,
-- f) ivartalanított eb esetén az ivartalanítás időpontját, az ivartalanítást végző magánállatorvos nevét, kamarai bélyegzője számát,
-- g) az eb oltási könyvének számát, az azt kiadó magánállatorvos nevét, kamarai bélyegzője számát,
+- e) a beültetett transzponder sorszámát, a beültetés időpontját, a beültetést végző szolgáltató állatorvos nevét, kamarai bélyegzője számát,
+- f) ivartalanított eb esetén az ivartalanítás időpontját, az ivartalanítást végző szolgáltató állatorvos nevét, kamarai bélyegzője számát,
+- g) az eb oltási könyvének számát, az azt kiadó szolgáltató állatorvos nevét, kamarai bélyegzője számát,
 - h) az eb veszettség elleni védőoltásainak időpontját,
-- i) az eb veszettség elleni védőoltásai során használt oltóanyagot, annak gyártási számát, valamint az oltást végző magánállatorvos nevét, kamarai bélyegzője számát,
+- i) az eb veszettség elleni védőoltásai során használt oltóanyagot, annak gyártási számát, valamint az oltást végző szolgáltató állatorvos nevét, kamarai bélyegzője számát,
 - j) a veszettség szempontjából aggályos eb megfigyelési státuszának tényét, időpontját,
-- k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító magánállatorvos nevét, kamarai bélyegzője számát,
+- k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító szolgáltató állatorvos nevét, kamarai bélyegzője számát,
 - l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot,
 - m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 

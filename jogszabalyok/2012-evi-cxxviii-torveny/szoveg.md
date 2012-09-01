@@ -7,7 +7,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 1. § (1) E törvény hatálya kiterjed
 
 - a) a mezőgazdasági és élelmiszer-ipari termékre,
-- b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó természetes személyre és családi gazdálkodóra, jogi személyre és jogi személyiséggel nem rendelkező szervezetre,
+- b) az a) pont szerinti terméket termelő, feldolgozó, valamint forgalmazó jogi személyre, jogi személyiség nélküli gazdasági társaságra és egyéb gazdálkodó szervezetre, természetes személyre és családi gazdálkodóra,
 - c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: tanácsi rendelet) hatálya alá tartozó ágazatok termékeinek előállításához, forgalmazásához, illetve feldolgozásához kapcsolódó gazdasági tevékenységek képviselőiből álló és elismert, és szakmaközi elismerés iránt folyamodó szervezetekre,
 - d) a tanácsi rendelet II. Rész II. Cím II. Fejezetében foglalt termelői szervezetekre, termelői csoportokra, és azok társulásaira.
 
@@ -21,10 +21,10 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 - a) ágazat: a tanácsi rendelet 1. cikk (1) bekezdésében felsorolt ágazatok;
 - b) kiterjesztés: a reprezentatív szakmaközi szervezet egyes piacszervezési intézkedéseinek jogszabályban történő kihirdetése;
-- c) piacszervezési intézkedés: szakmaközi szervezeten vagy annak jogelődjén belül létrejött megállapodás, döntés vagy összehangolt magatartás;
-- d)
+- c) piacszervezési intézkedés: szakmaközi szervezeten belül létrejött megállapodás, döntés vagy összehangolt magatartás;
+- d) piaci árinformációs rendszer: az egyes ágazati szabályozásokban meghatározott körben, tartalommal és rendszerességgel gyűjtött piaci árak nyilvántartási rendszere;
 - e) reprezentatív szakmaközi szervezet: a zöldség-gyümölcs ágazatban a tanácsi rendelet 125l. cikk (2) bekezdésében meghatározott, más ágazatokban a tagságát tekintve az alapanyag-előállítás, feldolgozás vagy kereskedelem területeiből legalább kettőben – amely egyike az alapanyag-előállítás – legalább kétharmados mennyiségi részesedéssel rendelkező szakmaközi szervezet;
-- f) szakmaközi szervezet: a törvény hatálya alá tartozó terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek által az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrehozott, bírósági nyilvántartásba vett, a tanácsi rendelet előírásainak megfelelő és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által elismert egyesület vagy köztestület.
+- f) szakmaközi szervezet: a törvény hatálya alá tartozó terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek által az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény alapján létrehozott, bírósági nyilvántartásba vett, a tanácsi rendelet előírásainak megfelelő és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által elismert egyesület.
 
 (2) A tanácsi rendelet II. Rész II. Cím II. Fejezetének vonatkozásában Magyarország egyetlen régiónak minősül.
 
@@ -32,7 +32,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 3. § A miniszter
 
-- a) a tanácsi rendelet 123. cikk (2) bekezdésében foglalt esetek kivételével, a szervezet kérelme alapján – amennyiben a tanácsi rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
+- a) a szervezet kérelme alapján – a tanácsi rendelet 123. cikk (2) bekezdésében foglalt esetek kivételével – dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének visszavonásáról;
 - b) a szakmaközi szervezet kérelme és az adott ágazatra vonatkozó gazdasági adatok alapján egyedileg vizsgálja az elismerési feltételek, a szakmaközi célok megvalósítására való alkalmasság, illetve a reprezentativitás és a 4. § (1) bekezdése e) pontjának ec) alpontja szerinti jelentős arány meglétét;
 - c) ellátja az ellenőrzéssel kapcsolatos feladatokat;
 - d) gondoskodik az elismerésről és annak visszavonásáról szóló döntésnek a Hivatalos Értesítőben és a miniszter által vezetett minisztérium honlapján (a továbbiakban: honlap) történő közzétételéről;
@@ -49,8 +49,6 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
   - ea) megfelel a tanácsi rendelet 123. cikk (1) bekezdés c) pontjában meghatározott feltételeknek, valamint
   - eb) a tanácsi rendelet 123. cikk (3) bekezdés c) pontjában felsorolt tevékenységek közül – az ii, iv, x, xi. pontok kivételével – legalább egyet folytat,
   - ec) a tagságát tekintve az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát képviseli.
-
-(1a) Tej és tejtermékágazat esetében a tanácsi rendelet 126b. cikkének (2) bekezdésében foglaltakat alkalmazni kell.
 
 (2) Egy ágazatban csak egy szakmaközi szervezet ismerhető el.
 
@@ -103,7 +101,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (5) A kiterjesztett piacszervezési intézkedéssel ellentétes szerződési kikötés semmis.
 
-9. § (1) A 8. §-ban foglaltaktól eltérő ágazatban az elismert reprezentatív szakmaközi szervezet által kezdeményezett piacszervezési intézkedések kiterjesztésére a 8. § rendelkezéseit e §-ban foglalt eltéréssel kell alkalmazni.
+9. § (1) A 8. §-ban foglaltaktól eltérő ágazatban a piacszervezési intézkedések kiterjesztésére a 8. § rendelkezéseit e §-ban foglalt eltéréssel kell alkalmazni.
 
 (2) Piacszervezési intézkedés kiterjesztése a következő célok elérése érdekében kezdeményezhető:
 
@@ -115,13 +113,8 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - f) a termékekben rejlő lehetőségek előmozdítását és hasznosítását szolgáló intézkedések;
 - g) az ökológiai gazdálkodás, valamint az eredetmegjelölések, a minőséget igazoló jelölések és a földrajzi jelzések védelmét szolgáló intézkedések;
 - h) közösségi és ágazati promóciós intézkedések.
-- i) a termékek értékének különösen a közegészségügyet nem veszélyeztető új felhasználási módok által történő növelésére irányuló kutatások;
-- j) a termékek minőségének javítását célzó tanulmányok;
-- k) kutatás, különösen az olyan művelési módszerek területén, amelyek lehetővé teszik a növényvédő szerek és az állatgyógyászati készítmények használatának csökkentését, és biztosítják a talaj és a környezet védelmét;
-- l) a minőségi minimumkövetelmények, valamint a csomagolásra és a kiszerelésre vonatkozó minimumszabályok meghatározása;
-- m) minősített vetőmag használata és a termékminőség ellenőrzése.
 
-(3)
+(3) Piacszervezési intézkedés kiterjesztése abban az esetben kezdeményezhető, ha az intézkedés a szakmaközi szervezetnél már legalább egy éve hatályban van.
 
 (4) Piacszervezési intézkedés kiterjesztése legfeljebb három gazdasági évre alkalmazható.
 
@@ -147,7 +140,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (4) Az ágazatfelügyeleti bírság mértékét az eset összes körülményére – így különösen a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a piaci szereplő gazdasági súlyára – tekintettel kell meghatározni.
 
-12. § (1) A jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezett, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
+12. § (1) A jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezett, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
 
 (2) A piacszervezési hozzájárulás, ha azt a kötelezett a teljesítésre nyitva álló határidőn belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a mezőgazdasági igazgatási szerv megkeresésére az állami adóhatóság szed be.
 
@@ -159,7 +152,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (4) A szakmaközi szervezet saját tagjait érintő, a (2) bekezdés szerinti jogellenes magatartásból eredő kárigény érvényesítésére irányuló perben – a polgári perrendtartásról szóló törvény rendelkezései szerint – eljárhat.
 
-14. § (1) A szakmaközi szervezet – az e törvényben foglalt célok megvalósításának elősegítése érdekében – a tagjai által vállalt befizetésekből támogatást nyújthat. A szakmaközi szervezet tagja az e célra történt befizetést az adott ágazathoz tartozó termékek értékesítéséből származó árbevétele 3 százalékának megfelelő mértékben számolhatja el az egyéb ráfordításai, illetőleg költségei között.
+14. § (1) A szakmaközi szervezet – az e törvényben foglalt célok megvalósításának elősegítése érdekében – a tagjai által vállalt befizetésekből támogatást nyújthat. A szakmaközi szervezet tagja az e célra történt befizetést az adott termékpályához tartozó termékek értékesítéséből származó árbevétele 3 százalékának megfelelő mértékben számolhatja el az egyéb ráfordításai, illetőleg költségei között.
 
 (2) A miniszter és az államháztartásért felelős miniszter együttes egyedi döntése alapján adott szakmaközi szervezet vonatkozásában az (1) bekezdésben meghatározott befizetés elszámolható mértéke – az (1) bekezdésben szereplő mértéktől eltérően – elérheti az árbevétel 7 százalékát.
 
@@ -182,65 +175,35 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 17. § A külön jogszabályban meghatározott állatokat a levágás során az Európai Unió közvetlenül alkalmazandó jogi aktusában, illetve a külön jogszabályban meghatározott módon és feltételek szerint minősíteni kell.
 
-17/A. § (1) A nyerstej Magyarországon történő értékesítésére irányuló szerződést – a végső fogyasztó részére történő közvetlen értékesítés kivételével – a nyerstej feldolgozásáig a tanácsi rendelet 185f. cikk (2) bekezdésében meghatározott tartalommal írásba kell foglalni.
-
-(2) A felek között a határozott időre kötött szerződés időtartama legalább 6 hónap. A felek a határozatlan időre kötött szerződést rendes felmondással hat hónapos felmondási idővel szüntethetik meg.
-
-(3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. Amennyiben a felek a határidő leteltével sem teljesítik kötelezettségeiket, a mezőgazdasági igazgatási szerv visszavonja a felek működési engedélyét.
-
 18. § (1) A termékpálya szereplőinek érdekképviseletét ellátó szakmai és szakmaközi szervezetek a termékpálya vertikális működésének elősegítése érdekében – így különösen a termékek felvásárlásával, forgalmazásával, beszerzések ütemezésével, ösztönző eszközök alkalmazásával, a már megtermelt termékek piacra jutási feltételeinek, illetve piaci helyzetének romlását előidéző magatartásoktól való tartózkodással összefüggő kérdésekben – történő együttműködésükkel kapcsolatban önszabályozó megállapodást köthetnek. A megkötött megállapodás nyilvános és ahhoz az érdekképviseletet ellátó szakmai vagy szakmaközi szervezetekhez nem tartozó további termékpálya-szereplők írásos nyilatkozatban csatlakozhatnak. A csatlakozás feltételeit a felek a megállapodásban határozzák meg.
 
 (2) A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) szerinti beszállítók érdekképviseletét ellátó szakmai és szakmaközi szervezet tagjai számára az adott piacra, illetve az ott alkalmazásra kerülő árakra, beszerzési és értékesítési lehetőségekre, ösztönzők alkalmazására, a termékek piaci helyzetének javítására, illetve kiegyensúlyozott piaci viszonyok biztosítására vonatkozó felmérést végezhet, információt adhat, valamint a tagok között erre irányuló koordinatív egyeztetést folytathat, amennyiben az ilyen tevékenység révén megvalósuló gazdasági és társadalmi előnyök meghaladják a tevékenység révén kialakuló versenyt korlátozó magatartásból adódó hátrányokat. Az ilyen tevékenység nem minősül a versenytörvény 11. §-ában foglalt tilalom megsértésének.
 
-18/A. § (1) Mezőgazdasági termék vonatkozásában nem állapítható meg a versenytörvény 11. §-ában meghatározott tilalom megsértése, ha a versenytörvény 11. §-a szerinti megállapodásból eredően a gazdasági verseny torzítása, korlátozása vagy megakadályozása a gazdaságilag indokolt, méltányolható jövedelem eléréséhez szükséges mértéket nem haladja meg, és e jövedelem megszerzésétől a megállapodás által érintett piac szereplője nincs elzárva, továbbá az Európai Unió Működéséről szóló Szerződés 101. cikkének alkalmazására nem került sor.
+19. § (1) A termelő és feldolgozó, illetve felvásárló viszonylatában a mezőgazdasági és élelmiszeripari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, illetve felvásárló részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a termelő a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a feldolgozó, illetve felvásárló rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni.
 
-(2) Az (1) bekezdésben foglalt mentesülési feltételek fennállását a miniszter állapítja meg.
+(2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
 
-(3) A versenytörvény 11. §-ában szereplő tilalom mezőgazdasági termék vonatkozásában történő megsértésének vizsgálata során a Gazdasági Versenyhivatalnak a miniszter (2) bekezdés szerinti állásfoglalását be kell szerezni, és az abban foglaltak alapján kell eljárnia. A miniszternek az állásfoglalását a Gazdasági Versenyhivatal megkeresésének beérkezésétől számított hatvan napon belül kell kiadnia, amely időtartamra a Gazdasági Versenyhivatal az eljárását felfüggeszti.
+(3) A termelő és feldolgozó, illetve felvásárló közti, a mezőgazdasági és élelmiszeripari termék átruházására irányuló szerződésnek tartalmaznia kell a fizetésre kötelezett részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatójának adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát, arra az esetre, ha az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
 
-(4) Az eljáró versenytanács a bírság kiszabását felfüggeszti a 11. §-ba ütköző olyan megállapodás vagy az Európai Unió Működéséről szóló Szerződés 101. cikkébe ütköző olyan versenytársak közötti megállapodás vagy összehangolt magatartás esetén, ahol azt mezőgazdasági termék vonatkozásában követték el. Ez esetben az eljáró versenytanács határidő tűzésével felszólítja a megállapodásban vagy összehangolt magatartásban résztvevő feleket, hogy magatartásukat hozzák összhangba a jogszabályi rendelkezésekkel. A határidő eredménytelen elteltét követően az eljáró versenytanács bírságot szab ki.
+20. § (1) A miniszter a statisztikai adatszolgáltatási rendszerrel összehangolt, de különálló piaci árinformációs rendszert működtet.
 
-19. § (1) A termelő és feldolgozó, illetve felvásárló viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, illetve felvásárló részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a termelő a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a feldolgozó, illetve felvásárló rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni. A mezőgazdasági és élelmiszeripari termék ellenértékének kifizetésére egyebekben a Polgári Törvénykönyvnek a pénztartozás teljesítésére vonatkozó rendelkezéseit kell alkalmazni.
+(2) A miniszter az (1) bekezdés szerinti feladatot egyes ágazatok vonatkozásában az ágazaton belül működő elismert szakmaközi szervezetre a 13. § (1) bekezdésében foglaltaknak megfelelően átruházhatja. Az átruházásra vonatkozó döntést vissza kell vonni, ha a szakmaközi szervezet a feladat ellátása során ismétlődően vagy tartósan jogsértően jár el.
 
-(2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a Polgári Törvénykönyvben meghatározott késedelmi kamattal, de összességében legalább a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
-
-(3) A termelő és a feldolgozó, illetve a felvásárló közötti mezőgazdasági és élelmiszer-ipari termék átruházására irányuló szerződésnek tartalmaznia kell a fizetésre kötelezett késedelmes teljesítése esetére a fizetésre kötelezettnek a pénzforgalmi szolgáltatója részére adott,
-
-- a) a termék ellenértékére és
-- b) a termék ellenértéke után fizetendő késedelmi kamatra vonatkozó beszedési megbízás teljesítésére irányuló hozzájárulását, felhatalmazó nyilatkozatát.
-
-19/A. § (1) Mezőgazdasági termelővel mint eladóval az általa használt mezőgazdasági földterületen megtermelt mezőgazdasági termény szolgáltatására annak betakarítása előtt csak
-
-- a) a Polgári törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:232. §-a szerinti, a saját termelésű mezőgazdasági áru szolgáltatására kötött adásvételi szerződés, valamint
-- b) a Ptk. 6:233. §-a szerinti, a vevő közreműködésével előállított mezőgazdasági áru szolgáltatására kötött adásvételi szerződés köthető.
-
-(2) Az (1) bekezdés alkalmazásában eladónak minősül mezőgazdasági termelőként az a személy, aki az általa használt mezőgazdasági földterületen a szerződés tárgyát képező mezőgazdasági terményt saját nevében és saját kockázatára termeli meg.
-
-(3) Az (1) bekezdés szerinti szerződések esetében a Ptk. rendelkezéseit az e törvényben foglalt kiegészítéssel együtt kell alkalmazni.
-
-19/B. § (1) Az agrárgazdaság megalapozott irányítása, valamint az Európai Unió felé történő adatszolgáltatási kötelezettség teljesítése érdekében statisztikai célra állami adatbázisokat kell működtetni.
-
-(2) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet – agrárgazdasági adatbázisokat működtető szervként – működteti
-
-- a) a tesztüzemi információs rendszert,
-- b) a piaci árinformációs rendszert.
-
-(3) A tesztüzemi információs rendszer és a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
+(3) A piaci árinformációs rendszer működéséről, az adatszolgáltatás tartalmáról, gyakoriságáról, az adatok felhasználásáról, az adatszolgáltatásra kötelezettek köréről, továbbá az adatszolgáltatás módjáról a miniszter külön jogszabályban rendelkezik.
 
 (4) A piaci árinformációs rendszer belföldi árjelentési feladatokat, valamint az európai uniós tagságból fakadó árjelentési kötelezettségeket lát el a nemzeti és a közös piacszabályozás működtetése érdekében. Az (5) bekezdésben meghatározott ágazatokban a valós piaci folyamatok nyomon követése egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi feladatok gyűjtésén, kötelező adatszolgáltatáson és azok feldolgozásán keresztül valósul meg. Az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagok rendszeres jelentése az Európai Bizottság, a nemzeti irányító szervek és a magyarországi piaci szereplők felé történik.
 
 (5) A (4) bekezdés szerinti kötelező adatszolgáltatásra kötelezettek a
 
-- a) sertés, szarvasmarha, juh,
-- b) baromfi és tojás,
-- c) bor,
-- d) dohány,
-- e) gabona,
-- f) olajnövény,
-- g) tej,
-- h) zöldség és gyümölcs
-
-ágazatok e törvény hatálya alá tartozó szereplői.
+- a) sertés, marha, juhhús,
+- b) vágóbaromfi és baromfihús, tyúktojás,
+- c) földrajzi jelzés nélküli bor,
+- d) nyers dohány,
+- e) gabonafélék (búza, takarmánybúza, kukorica, árpa, zab, rozs, rizs, cirok és takarmánytápok), vetőmag, hibrid vetőmag,
+- f) napraforgómag, olaj és dara,
+- g) sörárpa,
+- h) tej és tejtermékek,
+- i) zöldség-gyümölcs ágazatok e törvény hatálya alá tartozó szereplői.
 
 (6) A kötelező adatszolgáltatás körében nyilatkozni kell
 
@@ -250,62 +213,13 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - d) a vonatkozó mennyiségi adatokról,
 - e) a megfigyelésre vont termékek köréről.
 
-19/C. § (1) Az agrártámogatás igénybevevője külön jogszabályban foglaltak alapján, az abban meghatározott adatok szolgáltatására köteles.
-
-(2) A mezőgazdasági termelő a mezőgazdasági igazgatási szerv részére termésbecslési célból, illetve agrárgazdasági adatbázis működtetése céljából az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni. Az adatszolgáltatás keretében az e törvény végrehajtására kiadott rendeletben meghatározott gazdálkodási adatokon túl a mezőgazdasági termelő köteles szolgáltatni családi és utóneve, születési családi és utóneve, lakcíme, székhelye (telephelye), regisztrációs száma adatait. A termésbecslési adatok, illetve az agrárgazdasági adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a mezőgazdasági igazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
-
-19/D. § (1) Mezőgazdasági termelővel mint eladóval saját termelésű mezőgazdasági termény szolgáltatására annak betakarítása előtt kötött adásvételi szerződésnek tartalmaznia kell
-
-- a) az eladó nyilatkozatát arról, hogy a szerződés teljesítését szolgáló mezőgazdasági terményt mezőgazdasági termelőként saját nevében és saját kockázatára termeli,
-- b) egyedi azonosításra alkalmas módon azon mezőgazdasági földterületek megjelölését, amelyen megtermelt terménnyel az eladó a szerződésben foglaltakat teljesíti,
-- c) rögzített mennyiség szolgáltatására vállalt kötelezettség esetén az eladó nyilatkozatát a b) pont szerinti területeken hektáronként megtermelhető szokásos termény mennyiségről,
-- d) a szerződés teljesítését akadályozó ellenőrzési körön kívül eső ok vevő részére történő bejelentésének és igazolásának részletes feltételeit,
-- e) a minőség meghatározásának módját, valamint
-- f) a teljesítési és a minőségi vita rendezésének rendjét.
-
-(2) A mezőgazdasági termelő egészben vagy részben csak abban az esetben mentesül a szerződésben rögzített mennyiségű mezőgazdasági termény szolgáltatási kötelezettsége alól ha
-
-- a) az (1) bekezdés b) pontja szerinti területen az (1) bekezdés c) pontja szerint rögzített mennyiségű mezőgazdasági termény a mezőgazdasági termelő ellenőrzésén kívüli ok miatt nem termett meg, amelyről másik szerződő felet még a termény betakarítása előtt értesítette, és
-- b) az (1) bekezdés b) pontja szerinti területen ellenőrzési körén kívül eső mezőgazdasági káresemény bekövetkezését a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvénynek megfelelően az agrárkár-megállapító szervhez történt bejelentés alapján meghozott döntéssel igazolta.
-
-(3) A (2) bekezdésben foglaltak alkalmazása nem érinti a szerződő felek megállapodását arról, hogy a mezőgazdasági termelő a (2) bekezdésben foglalt okok miatt kieső termény mennyiséget az általa használt más mezőgazdasági földterületen megtermelt mezőgazdasági terménnyel pótolja. Ebben az esetben a mezőgazdasági termelő csak akkor mentesül a szerződésben rögzített mezőgazdasági termény szolgáltatásának kötelezettsége alól, ha az ellenőrzési körén kívül eső okot az általa használt összes földterület vonatkozásában a (2) bekezdés b) pontja szerinti módon bejelentette és igazolta.
-
-19/E. § (1) A vevő közreműködésével előállított mezőgazdasági termény szolgáltatására annak betakarítása előtt kötött adásvételi szerződés esetében a 19/D. §-ban foglaltakat megfelelően alkalmazni kell.
-
-(2) A vevő az általa mezőgazdasági termelőtől, mint eladótól megvásárolt mezőgazdasági termény harmadik személy javára történő tovább értékesítése esetén a harmadik személlyel szemben csak abban az esetben hivatkozhat a 19/D. § (2) bekezdésen alapuló felelőssége korlátozására, ha a harmadik személlyel kötött szerződés ezt lehetővé teszi.
-
-20. § (1) A szakmaközi szervezet a szakmaközi célok megvalósítása, az adott ágazat fejlesztése és piacszervezése érdekében szakmai adatbázist működtethet.
-
-(2) Az elismert reprezentatív szakmaközi szervezet a 8. § és 9.§ szerinti piacszervezési intézkedés kiterjesztése iránti kezdeményezése keretében az (1) bekezdésben meghatározott adatbázishoz kapcsolódó adatszolgáltatás kiterjesztését kezdeményezheti olyan módon, hogy az a szakmaközi szervezet tagjának nem minősülő ágazati piaci szereplő számára is kötelező legyen.
-
-(3) A (2) bekezdés szerinti kiterjesztés esetén az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
-
-20/A. § (1) Ha jogszabály az agrárgazdasági és az agrár-vidékfejlesztési szakterületeken szakértő igénybevételét írja elő vagy szakértő igénybevételéhez jogkövetkezményt állapít meg – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény, valamint a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény szerinti szakértők kivételével –, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki rendelkezik a miniszter által rendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. Aki ilyen szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a mezőgazdasági igazgatási szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
-
-(2) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a személy tevékenykedhet, aki erre a miniszter rendeletében meghatározottak szerint engedélyt kapott, és büntetlen előéletű. Az engedély iránti kérelem – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a kérelmező természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a kérelmezett szaktanácsadói szakterületet, illetve részszakterületet, valamint a kérelmező szakmai gyakorlatát bemutató, a miniszter által rendeletben meghatározottak szerinti összefoglalót.
-
-(3) A mezőgazdasági igazgatási szerv a szakértői tevékenység folytatására jogosult, az (1) bekezdés szerinti bejelentést tevő személyekről, valamint a (2) bekezdés szerinti szaktanácsadói engedéllyel rendelkezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az érintett természetes személy szakértő, szaktanácsadó természetes személyazonosító adatait, értesítési címét és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, valamint szakirányú végzettségét és szakértői, szaktanácsadói szakterületét, illetve részszakterületét. A nyilvántartásból kizárólag a szakértői, szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
-
-(4) A szaktanácsadói tevékenység engedélyezésére, a szaktanácsadói nyilvántartás vezetésére, valamint az ezekhez kapcsolódó ellenőrzési feladatok végzésére a Kormány mezőgazdasági igazgatási szervként nem közigazgatási feladat ellátására létrehozott szervezetet is kijelölhet.
-
-(5) A (4) bekezdés szerinti szerv hatósági eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
-
-(6) Az (1) bekezdés szerinti szakértői tevékenység folytatásával, illetve a (2) bekezdés szerinti szaktanácsadói tevékenység engedélyezésével kapcsolatos közigazgatási eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
-
 #### 5. Záró rendelkezések
 
 21. § (1) Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 
 (2) E törvény hatálybalépését megelőzően elismert szakmaközi szervezetek elismerését a törvény hatálybalépése nem érinti.
 
-21/A. § E törvénynek a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló 2012. évi CXXVIII. törvény módosításáról szóló 2012. évi CLXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és megismételt eljárásokban is alkalmazni kell.
-
-22. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
-
-- a) a mezőgazdasági igazgatási szervet,
-- b) az agrárgazdasági adatbázisokat működtető szervet,
-- c) az agrárgazdasági és agrárvidékfejlesztési szakterületen a szakértők és szaktanácsadók tevékenységét engedélyező szervet,
-- d) a területi szaktanácsadó központok nyilvántartásba vétele céljából eljáró szervet.
+22. § Felhatalmazást kap a Kormány, hogy a mezőgazdasági igazgatási szervet rendeletben jelölje ki.
 
 23. § Felhatalmazást kap a miniszter, hogy
 
@@ -314,18 +228,30 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - c) a piacszervezési hozzájárulás mértékét, a kedvezmények, mentességek körét, a fizetési kötelezettség teljesítésének időpontját;
 - d) a termelői csoportok, termelői szervezetek, azok társulásai elismerését, az elismerés visszavonását, beszámolási kötelezettségét, működésük ellenőrzését, működésük során feltárt szabálytalanságokkal kapcsolatban kiszabható szankciók körét;
 - e) a vágás utáni minősítési rendjét, és a minősítő hatóság kijelölését;
-- f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat;
-- g) a tesztüzemi információs rendszer működését érintő szabályokat,
-- h) a termésbecsléssel kapcsolatos adatszolgáltatás részletes szabályait,
-- i) az agrártámogatás igénybevevőjét terhelő adatszolgáltatás részletes szabályait,
-- j) az agrárgazdasági és agrár-vidékfejlesztési szakértők szakterületeinek körét, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- k) az agrárgazdasági és agrár-vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának feltételeit és rendjét, a szaktanácsadók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- l) a szakértői tevékenység bejelentésével és szaktanácsadói tevékenység engedélyezésével kapcsolatos igazgatási szolgáltatási díjak mértékét és megfizetésének szabályait az adópolitikáért felelős miniszterrel egyetértésben,
-- m) a szakmaközi szervezet által működtetett adatbázishoz kapcsolódó adatszolgáltatás kiterjesztésével kapcsolatos szabályokat, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját rendeletben állapítsa meg.
+- f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat rendeletben állapítsa meg.
 
-24. § Az egyes törvényeknek a költségvetési tervezéssel, valamint a pénzpiaci és a közüzemi szolgáltatások hatékonyabb nyújtásával összefüggő módosításáról szóló 2014. évi XXXIX. törvénnyel hatályon kívül helyezett 9. § (3) bekezdését a hatályon kívül helyezés időpontjában már benyújtott, de még el nem bírált kiterjesztés iránti kérelmek esetében sem kell alkalmazni.
+24. § Hatályát veszti
 
-25–26. §
+- a) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény,
+- b) az állattenyésztésről szóló 1993. évi CXIV. törvény 8. § (2) bekezdése, valamint 49. § (1) bekezdés a) pont 17. alpontja.
+
+25. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 21. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerint közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.”
+
+26. § (1) A Tfmtv. 3. § (2) bekezdés t) pontja helyébe a következő rendelkezés lép:
+
+[Tisztességtelen forgalmazói magatartásnak minősül]
+
+„t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;”
+
+(2) A Tfmtv. 3. §-a a következő (2c) bekezdéssel egészül ki:
+
+„(2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.”
+
+(3) A Tfmtv. 3. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) E § alkalmazásában végső fogyasztónak kell tekinteni mindazokat, akik számára a kereskedő a terméket értékesíti.”
 
 27. § Ez a törvény
 
@@ -333,3 +259,31 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - b) az 1234/2007/EK tanácsi rendeletnek a tej- és tejtermék-ágazati szerződéses kapcsolatok tekintetében történő módosításáról szóló, 2012. március 14-i 261/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet a 2012. évi CXXVIII. törvényhez
+
+A törvény 9. §-a alapján kiterjeszthető piacszervezési intézkedések
+
+a) a termelésre és a piacra vonatkozó jelentéstétel;
+
+b) a termelésre vonatkozóan az európai uniós vagy nemzeti szabályokban meghatározottaknál szigorúbb szabályok;
+
+c) az európai uniós szabályoknak megfelelő szabványos szerződésminták kidolgozása;
+
+d) forgalmazási szabályok;
+
+e) környezetvédelmi szabályok;
+
+f) a termékekben rejlő lehetőségek előmozdítását és kiaknázását szolgáló intézkedések;
+
+g) az ökológiai gazdálkodás, valamint az eredetmegjelölések, a minőséget igazoló címkék és a földrajzi árujelzők védelmét szolgáló intézkedések;
+
+h) a termékek értékének különösen a közegészségügyet nem veszélyeztető új felhasználási módok által történő növelésére irányuló kutatások;
+
+i) a termékek minőségének javítását célzó tanulmányok;
+
+j) kutatás, különösen az olyan művelési módszerek területén, amelyek lehetővé teszik a növényvédő szerek és az állatgyógyászati készítmények használatának csökkentését, és biztosítják a talaj és a környezet védelmét;
+
+k) a minőségi minimumkövetelmények, valamint a csomagolásra és a kiszerelésre vonatkozó minimumszabályok meghatározása;
+
+l) minősített vetőmag használata és a termékminőség ellenőrzése;
+
+m) közösségi vagy ágazati promóciós intézkedések.

@@ -27,15 +27,21 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 - b) állat-egészségügyi szolgáltató tevékenység: a 33. § (1) bekezdése szerinti tevékenységek megrendelésre, szolgáltatásként, az élelmiszerláncról és hatósági felügyeletéről szóló törvény alapján állami feladatkörbe nem vont módon történő ellátása;
 - c) állatklinika: olyan állatkórház, amely az állat-egészségügyi szolgáltatói tevékenységén túlmenően közvetlenül részt vesz az állatorvosi felsőfokú alap- és továbbképzésben, valamint a szakirányú kutatásban;
 - d) állatkórház: állatorvosi végzettséggel rendelkező személy által irányított olyan állatorvosi szakrendelő, amelyben szervezett és tervszerű formában biztosított az állatok gyógykezelés céljából történő elhelyezése, ápolása, bentlakásos utókezelése és folyamatos állat-egészségügyi felügyelete;
-- e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségekből álló állat-egészségügyi szolgáltató intézmény, amelyben állatorvosi alapellátás és sürgősségi (baleseti) sebészeti és testfelszíni beavatkozások mellett elkülönített műtőhelyiségben teljeskörűen végezhető testüreget, ízületet érintő steril sebészeti, szülészeti, szemészeti, valamint diagnosztikai célú műtét;
+- e) állatorvosi rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségekből álló állat-egészségügyi szolgáltató intézmény;
 - f) állatorvosi szakrendelő (rendelőintézet): több állatorvost foglalkoztató olyan állatorvosi rendelő, ahol az állatok szakirányú speciális vizsgálata, sürgősségi, szakosított és egyéb speciális szakmai követelményeket igénylő gyógykezelése is folyamatosan – előre meghatározott, tervezett rendelési időben – biztosított;
-- g) nagy létszámú állattartó telep: olyan állat-egészségügyi felügyelet alá tartozó hely, amely jogszabályban meghatározott létszámú állat tartására alkalmas;
-- h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;
-- i) állatorvosi alapellátó rendelő: állatorvosi végzettséggel rendelkező személy által szakmailag irányított, az állatorvosi tevékenység végzésére alkalmas helyiségből vagy helyiségekből álló állatorvosi alapellátást végző állat-egészségügyi szolgáltató intézmény, amelyben elkülönített műtőhelyiség hiányában – sürgősségi (baleseti) sebészeti és kisebb testfelszíni beavatkozások kivételével – nem végezhető testüreget, ízületet érintő steril sebészeti, szülészeti, szemészeti, valamint diagnosztikai célú műtét.
+- g) nagy létszámú állattartó telep: olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
+  - ga) harminc ló,
+  - gb) ötven szarvasmarha,
+  - gc) kétszáz juh,
+  - gd) kétszáz kecske,
+  - ge) száz sertés,
+  - gf) kétezer broiler baromfi,
+  - gg) ötszáz kifejlett baromfi,
+  - gh) ötven strucc vagy
+  - gi) ötven anyanyúl és szaporulata;
+- h) szolgáltató állatorvos: állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos.
 
 (2) E törvényben szereplő iratok kézbesítésére a hivatalos iratok kézbesítésére vonatkozó általános szabályokat kell alkalmazni.
-
-(3) A Kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
 ### II. Fejezet — A MAGYAR ÁLLATORVOSI KAMARA
 
@@ -101,18 +107,14 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (7) A Kamara értesíti az illetékes élelmiszerlánc-felügyeleti szervet a (6) bekezdés i) pontjában foglalt ellenőrzése során feltárt hiányosságokról.
 
-(8) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el
+(8) A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el
 
-- a) a kamarai tagfelvétel, a kamarából történő kizárás kivételével a kamarai tagsági jogviszony megszüntetése, a tagsági jogviszony megszűnésének megállapítása,
-- b) a tagsági jogviszony szüneteltetésének engedélyezése,
+- a) a kamarai tagfelvétel,
+- b) a tagsági jogviszony szüneteltetése,
 - c) a praxisengedély kiadása, visszavonása,
-- d) az állategészségügyi szolgáltató tevékenység szüneteltetésének engedélyezése,
-- e) az állatorvosi és asszisztensi névjegyzékkel kapcsolatos nyilvántartás vezetése,
-- f) az asszisztensi tevékenység szüneteltetésének engedélyezése,
-- g) az állategészségügyi intézményekkel és az engedélyezett állategészségügyi szolgáltatókkal kapcsolatos nyilvántartás vezetése,
-- h) a kedvtelésből tartott állatok nem kereskedelmi célú mozgásához szükséges útlevél kiállításával kapcsolatos nyilvántartás vezetése,
-- i) a hatósági ellenőrzés lefolytatása,
-- j) hatósági bizonyítvány kiállítása
+- d) az állat-egészségügyi szolgáltató tevékenység szüneteltetése,
+- e) az asszisztensi névjegyzékbe történő felvétel,
+- f) az asszisztensi tevékenység végzésének szüneteltetése
 
 során.
 
@@ -126,19 +128,17 @@ során.
 - d) székhelyét, szakmai működési körét,
 - e) bejelentésére az állat-egészségügyi szolgáltató tevékenység végzése szünetelésének tényét és időtartamát,
 - f) kérésére a nyelvtudására vonatkozó adatokat, kitüntetéseit és a telefonos elérhetőségét,
-- g) végleges döntéssel elbírált etikai vétségeit, az elmarasztaló határozat véglegessé válásától számított két évig.
+- g) jogerősen elbírált etikai vétségeit, az elmarasztaló határozat jogerőre emelkedésétől számított két évig.
 
 (2) Az állatorvosi névjegyzékben a Kamara az állat-egészségügyi szolgáltató tevékenységet végző tagjainak az (1) bekezdés a)–f) pontja szerinti adatai a tagsági jogviszony megszűnéséig nyilvánosak, azokat a Kamara a honlapján naprakészen közzéteszi.
 
 (3) Az (1) bekezdésben szereplő adatokat a Kamara a tagsági jogviszony megszűnését követő öt évig kezeli az állat-egészségügyi feladatok ellátásához kapcsolódó közfeladatai ellátása érdekében.
 
-(4) A Kamara az állatorvosi névjegyzék vezetéséhez az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott adatokat használja.
-
 #### 3. A területi szervezetek
 
 6. § (1) A területi szervezet testületi szervei a közgyűlés, valamint a 8. és 9. §-ban meghatározott szervek (a továbbiakban együtt: területi ügyintéző szervek). A területi szervezet önálló költségvetés alapján működik és ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
 
-(2) A területi szervezet az Alapszabályban meghatározott területen és székhelyen működik. A területi szervezet területe összefüggő, legalább egy vármegye területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet.
+(2) A területi szervezet az Alapszabályban meghatározott területen és székhelyen működik. A területi szervezet területe összefüggő, legalább egy megye területére terjedhet ki. Egy megye területén kizárólag egy területi szervezet működhet.
 
 (3) A területi szervezet elnevezésében utalni kell annak illetékességi területére.
 
@@ -146,7 +146,7 @@ során.
 
 (2) A területi közgyűlés kizárólagos hatáskörébe tartozik:
 
-- a) a területi tisztségviselők, az országos elsőfokú etikai bizottság tagjának és póttagjának, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
+- a) a területi tisztségviselők, az etikai bizottság, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
 - b) a területi szervezet vezetősége (a továbbiakban: vezetőség) és a felügyelőbizottság éves beszámolójának az elfogadása,
 - c) a területi szervezet éves költségvetésének, valamint a költségvetés végrehajtásáról szóló beszámolónak az elfogadása,
 - d) minden olyan ügy, amelyet e törvény vagy az Alapszabály a közgyűlés hatáskörébe utal.
@@ -166,7 +166,7 @@ során.
 
 (3) A vezetőség az új vezetőség megválasztásáig látja el a feladatait. E rendelkezést megfelelően alkalmazni kell a 9. § (1), (2) és (4) bekezdésében szereplő szervek esetében.
 
-9. § (1) A területi közgyűlés az országos elsőfokú etikai bizottság egy tagját és egy póttagját titkos szavazással négy évre választja meg.
+9. § (1) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
 (2) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló felügyelőbizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
@@ -174,7 +174,7 @@ során.
 
 (4) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló oktatási bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
-(5) A felügyelőbizottság és az oktatási bizottság elnöke tisztségviselőként látja el feladatait.
+(5) Az etikai bizottság, a felügyelőbizottság és az oktatási bizottság elnöke tisztségviselőként látja el feladatait.
 
 (6) Az Alapszabály rendelkezhet a területi szervezeten belül egyéb szervek megalakításáról.
 
@@ -185,7 +185,7 @@ során.
 - a) az országos küldöttközgyűlésből (a továbbiakban: küldöttközgyűlés),
 - b) az országos elnökségből (a továbbiakban: elnökség),
 - c) az országos felügyelőbizottságból,
-- d) az országos első- és másodfokú etikai bizottságból,
+- d) az országos etikai bizottságból,
 - e) az országos oktatási bizottságból,
 - f) az Alapszabályban meghatározott egyéb állandó és eseti bizottságokból [b)–f) pont a továbbiakban együtt: országos ügyintéző szervek]
 
@@ -195,7 +195,7 @@ során.
 
 - a) a (3) bekezdésben meghatározott személyek,
 - b) az országos felügyelőbizottság elnöke,
-- c) az országos első- és másodfokú etikai bizottság elnöke,
+- c) az országos etikai bizottság elnöke,
 - d) az országos oktatási bizottság elnöke,
 - e) az Alapszabály szerint választott egyéb állandó bizottság elnöke.
 
@@ -204,7 +204,7 @@ során.
 - a) az elnök,
 - b) az alelnök,
 - c) a főtitkár, valamint
-- d) további hat választott és két delegált elnökségi tag.
+- d) további hat elnökségi tag.
 
 (4) Az országos szervezetet az elnök, akadályoztatása esetén – az Alapszabályban meghatározott körben – az alelnök, az elnök és az alelnök együttes akadályoztatása esetén a főtitkár képviseli.
 
@@ -213,7 +213,7 @@ során.
 (2) A küldöttközgyűlés kizárólagos hatáskörébe tartozik:
 
 - a) az Alapszabály, a szakmai irányelvek, a kamarai szabályzatok, valamint az etikai szabályzat megalkotása és módosítása,
-- b) az országos tisztségviselők, az országos másodfokú etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
+- b) az országos tisztségviselők, az országos etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
 - c) az elnökség és az országos felügyelőbizottság éves beszámolójának az elfogadása,
 - d) a Kamara éves költségvetésének, ennek részeként a kamarai tagsági díjnak, a tagsági díjból származó bevétel – a területi szervezet és az országos szervezet közötti – megosztása arányának, valamint a költségvetés végrehajtásáról szóló beszámolónak az elfogadása,
 - e) minden olyan ügy, amelyet e törvény vagy az Alapszabály a küldöttközgyűlés hatáskörébe utal.
@@ -224,9 +224,7 @@ során.
 
 (5) A küldöttközgyűlés döntéseihez a jelen lévő tagok többségének szavazata szükséges.
 
-12. § (1) A küldöttközgyűlés elnökséget hoz létre, amelynek hat tagját a Kamara tagjai közül titkos szavazással négy évre választja meg. Az elnökség két delegált tagja (a továbbiakban: delegált elnökségi tag) a mindenkori országos főállatorvos és az Állatorvostudományi Egyetem mindenkori rektora.
-
-(1a) A delegált elnökségi tagot az elnökségi ülésen a kamarai szervezeti tagságától függetlenül tanácskozási jog illeti meg.
+12. § (1) A küldöttközgyűlés elnökséget hoz létre, amelynek tagjait titkos szavazással négy évre választja meg.
 
 (2) Az elnökség ellátja mindazokat a feladatokat, amelyeket e törvény, az Alapszabály és a küldöttközgyűlés részére meghatároz.
 
@@ -244,7 +242,7 @@ során.
 
 (6) Az elnökség az új elnökség megválasztásáig látja el feladatait. E rendelkezést megfelelően kell alkalmazni a 13. §-ban szereplő szervek esetében.
 
-13. § (1) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább öt tagból álló országos másodfokú etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
+13. § (1) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább öt tagból álló országos etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
 (2) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló országos felügyelőbizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
@@ -256,18 +254,18 @@ során.
 
 15. § (1) Kamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden kamarai tag, ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
 
-(2) A delegált elnökségi tagok kivételével összeférhetetlen a kamarai tisztség viselésével, ha a tag
+(2) Összeférhetetlen a kamarai tisztség viselésével, ha a tag
 
 - a) az élelmiszerlánc-felügyeleti szervnél vezetői munkakört betöltve közszolgálati tisztviselői jogviszonyban áll,
 - b) olyan államigazgatási szervnél folytat főállásban (legalább heti 36 órás) állatorvosi végzettséghez kötött közszolgálati tisztviselői tevékenységet, amely államigazgatási szerv illetékességi területe részben vagy egészben egybeesik az adott kamarai szervezet illetékességi területével,
 - c) politikai pártban tisztséget tölt be,
-- d) országgyűlési vagy európai parlamenti képviselő, állami vezető, vármegyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
+- d) országgyűlési vagy európai parlamenti képviselő, állami vezető, megyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
 
 (3) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében, amennyiben az kétséges, a politikai párt nyilatkozata az irányadó.
 
 (4) A tisztségviselő azonos kamarai szervezeten belül egyidejűleg egy kamarai tisztséget tölthet be. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet elnöke, alelnöke vagy főtitkára.
 
-(5) A vezetőségnek, az elnökségnek, az országos első- és másodfokú etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
+(5) A vezetőségnek, az elnökségnek, az etikai, az országos etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (6) A (2), (4) és (5) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén harminc napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 
@@ -292,11 +290,11 @@ során.
 
 - a) a területi szervezet esetén
   - aa) a megválasztására jogosult testület tagjainak legalább fele,
-  - ab)
+  - ab) az etikai bizottság,
   - ac) a felügyelőbizottság,
 - b) az országos szervezet esetén
   - ba) a megválasztására jogosult testület tagjainak legalább fele,
-  - bb) az országos másodfokú etikai bizottság,
+  - bb) az országos etikai bizottság,
   - bc) az országos felügyelőbizottság
 
 kezdeményezheti írásban, indokolással ellátva a megválasztásra jogosult testületnél vagy szervnél.
@@ -313,7 +311,7 @@ kezdeményezheti írásban, indokolással ellátva a megválasztásra jogosult t
 
 19. § (1) A Kamara tagja lehet az, aki
 
-- a) az Európai Gazdasági Térségről szóló Megállapodásban részes valamely állam állampolgára vagy azzal azonos megítélés alá eső személy,
+- a) az Európai Gazdasági Térségről szóló Megállapodásban részes valamely állam állampolgára,
 - b) magyar egyetemen állatorvosi diplomát szerzett vagy külföldi egyetemen szerzett állatorvosi diplomáját honosították vagy egyenértékűnek nyilvánították, illetve szakképesítését elismerték,
 - c) Magyarország területén állatorvosi diplomához kötött tevékenységet folytatott, folytat vagy kíván folytatni,
 - d) vállalja, hogy a kamarai tagdíjat az Alapszabályban meghatározott módon fizeti, és
@@ -323,20 +321,20 @@ kezdeményezheti írásban, indokolással ellátva a megválasztásra jogosult t
 
 (3) Nem vehető fel tagként a Kamarába
 
-- a) az etikai büntetés jogerőre emelkedésétől számított három évig az, akivel szemben „kizárás” etikai büntetést alkalmaztak,
+- a) az etikai büntetés jogerőre emelkedésétől számított két évig az, akivel szemben „kizárás” etikai büntetést alkalmaztak,
 - b) aki olyan tevékenységet folytat, amelyet jogszabály vagy a Kamara etikai szabályzatában foglalt állatorvos-etikai szabályok az állatorvosi tevékenységgel összeférhetetlennek minősítenek, e tevékenység folytatásának megszüntetéséig,
 - c) aki cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll vagy gondnokság alá helyezés nélkül is cselekvőképtelen,
-- d) akit állat-egészségügyi szolgáltató tevékenység jogosulatlan végzése miatt jogerős bírósági határozattal elmarasztaltak a jogerőre emelkedést követő három évig,
+- d) akit állat-egészségügyi szolgáltató tevékenység jogosulatlan végzése miatt jogerős bírósági határozattal elmarasztaltak a jogerőre emelkedést követő két évig,
 - e) akit a bíróság végrehajtandó szabadságvesztésre ítélt és a büntetett előélethez fűződő hátrányos jogkövetkezmények alól még nem mentesült,
 - f) aki az állatorvosi foglalkozástól eltiltás hatálya alatt áll.
 
 (4) A kamarai tagfelvétel iránti kérelem benyújtásával egyidejűleg a kérelmező igazolja a kamarai tagfelvételhez szükséges, az (1) bekezdés a)–c) pontja szerinti tényeket, csatolja az (1) bekezdés d) és e) pontja szerinti nyilatkozatokat, továbbá igazolja, hogy a (3) bekezdésben meghatározott körülmények vele szemben nem állnak fenn. A kérelmező kérheti, hogy a bűnügyi nyilvántartó szerv a (3) bekezdés e) és f) pontjában foglalt tények fennállására vonatkozó adatokat a Kamara részére – annak a kamarai tagfelvételi kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Ha a kérelmező a kamarai tagfelvétel iránti kérelem benyújtásakor nem csatolja a (3) bekezdés e) és f) pontjaiban foglaltakra vonatkozó igazolást, a Kamara adatszolgáltatás iránti kérelemmel fordul a bűnügyi nyilvántartó szervhez.
 
-(5) A Kamara elutasíthatja annak az állatorvosnak a kamarai tagfelvétel iránti kérelmét, akivel szemben olyan etikai kifogás merül fel, amely kamarai tag esetében a tagsági jogviszony felfüggesztését vagy kizárás etikai büntetést vonna maga után, abban az esetben, ha az elutasítás okaként megjelölt cselekmény vagy mulasztás elkövetésétől számított három év még nem telt el.
+(5) A Kamara elutasíthatja annak az állatorvosnak a kamarai tagfelvétel iránti kérelmét, akivel szemben olyan etikai kifogás merül fel, amely kamarai tag esetében a tagsági jogviszony felfüggesztését vagy kizárás etikai büntetést vonna maga után, abban az esetben, ha az elutasítás okaként megjelölt cselekmény vagy mulasztás elkövetésétől számított két év még nem telt el.
 
 (6) A kamarai tagfelvétel iránti eljárás során megismert személyes adatokat a Kamara
 
-- a) a kérelem elutasítása esetén a felvételi eljárásban hozott határozat véglegessé válásáig vagy
+- a) a kérelem elutasítása esetén a felvételi eljárás jogerős befejezéséig vagy
 - b) a kérelmező felvétele esetén a tagsági jogviszony megszűnéséig
 
 kezeli.
@@ -349,9 +347,9 @@ kezeli.
 
 (2) Az az állatorvos, aki több területi szervezet illetékességi területén kíván folytatni állat-egészségügyi szolgáltató tevékenységet, a székhelye szerint illetékes területi szervezet vezetőségénél kérheti tagfelvételét.
 
-(3) Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
+(3) A vezetőség a tagfelvétel és a praxisengedély engedély iránti kérelemről a beérkezését követő ülésén, de legkésőbb a beérkezésétől számított harminc napon belül dönt. Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
 
-(4) A tagfelvételt és a praxisengedély iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító döntés ellen az elnökséghez fellebbezhet.
+(4) A tagfelvételt és a praxisengedély iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen annak kézhezvételétől számított harminc napon belül az elnökséghez fellebbezhet.
 
 21. § (1) A vezetőség írásbeli indokolt határozattal felfüggeszti a tagsági jogviszonyát annak a kamarai tagnak,
 
@@ -361,8 +359,6 @@ kezeli.
 - d) aki az Alapszabályban meghatározott időközönként, valamint az ott meghatározott módon szervezett szakmai továbbképzésen való eredményes részvételt nem tudja igazolni, a szakmai továbbképzésen való eredményes részvétel igazolásáig.
 
 (2) A felfüggesztés időtartama alatt a tagsági jogviszonyból eredő valamennyi jog és kötelezettség szünetel és erre az időtartamra a praxisengedélyt és a kamarai bélyegzőt be kell vonni.
-
-(2a) Az (1) bekezdés c) pontja szerinti esetben a Kamara a felfüggesztésről haladéktalanul értesíti az élelmiszerlánc-felügyeleti szervet.
 
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági jogviszonyt a vezetőség a tag kérelmére állítja helyre, az (1) bekezdés b)–d) pontjai alapján felfüggesztett tagsági jogviszony pedig az ott megállapított időtartam lejártát követő napon áll helyre.
 
@@ -381,8 +377,6 @@ kezeli.
 
 (3) Kamarai tagságának megszűnésekor a Kamara az érintett személyt törli az állatorvosi névjegyzékből és a tagsági igazolványát, valamint a kamarai bélyegzőjét visszavonja.
 
-(3a) A (2) bekezdés b) pontja szerinti esetben a Kamara a tagsági jogviszony megszüntetéséről haladéktalanul értesíti az élelmiszerlánc-felügyeleti szervet.
-
 (4) Azt az állatorvost, akinek tagsági jogviszonya az (1) bekezdés b) pontja alapján szűnt meg, kérelemre a tagfelvételre egyébként illetékes vezetőség ismét felveszi a Kamara tagjai közé.
 
 (5) Akinek tagsági jogviszonya az (1) bekezdés c) pontjában meghatározott okból szűnt meg, amennyiben az Alapszabály ennél rövidebb időt nem állapít meg vagy a területi közgyűlés ettől eltérően nem rendelkezik, az etikai büntetés jogerőre emelkedésétől számított két éven belül a Kamarába tagként nem vehető fel.
@@ -397,7 +391,7 @@ kezeli.
 - b) e törvényben és az Alapszabályban foglalt feltételek teljesítése esetén tisztséget viselni a Kamara bármely szervében,
 - c) igénybe venni a Kamara által nyújtott szolgáltatásokat,
 - d) a Kamara tisztségviselőitől a Kamara működéséről érdemi felvilágosítást kérni,
-- e)
+- e) a Kamara jogsértő testületi határozatának bíróság általi felülvizsgálatát kezdeményezni,
 - f) az Alapszabályt sértő határozatnak az országos szervezet felügyelőbizottsága általi felülvizsgálatát kezdeményezni,
 - g) az e törvényben, miniszteri rendeletben és az Alapszabályban meghatározott feltételek teljesítése esetén állat-egészségügyi szolgáltató tevékenységet végezni.
 
@@ -433,15 +427,11 @@ kezeli.
 
 25. § (1) Etikai vétséget követ el az a kamarai tag, aki a Kamara szakmai irányelveit, a Kamara etikai szabályzatában foglalt állatorvos-etikai szabályokat, az Alapszabályban és a Kamara más szabályzataiban foglalt kötelezettségeket, valamint a választott kamarai tisztségből eredő kötelezettségeket vétkes módon megszegi, vagy egyéb olyan vétkes magatartást tanúsít, amely az állatorvosi kar tekintélyét csorbítja.
 
-(2) Az országos első- és másodfokú etikai bizottság a kifogásolt állatorvosi szolgáltatás szakmai tartalmát – különösen a szakmailag helyes diagnózist vagy helyes gyógykezelést – nem vizsgálja.
+(2) Az etikai bizottság és az országos etikai bizottság a kifogásolt állatorvosi szolgáltatás szakmai tartalmát – különösen a szakmailag helyes diagnózist vagy helyes gyógykezelést – nem vizsgálja.
 
-(3) Elsőfokú etikai bizottságként az országos elsőfokú etikai bizottság jár el. Az országos elsőfokú etikai bizottság az elsőfokú etikai eljárás lefolytatására legalább három főből álló eseti etikai bizottságot (a továbbiakban: eseti etikai bizottság) hoz létre.
+(3) Elsőfokú etikai bizottságként a területi szervezet etikai bizottsága jár el. Fellebbezés esetén másodfokon az országos etikai bizottság jár el. Az etikai bizottság és az országos etikai bizottság elnöke és tagjai az etikai eljárás intézése során függetlenek, kizárólag a törvénynek vannak alárendelve és döntéseikkel kapcsolatban nem befolyásolhatók.
 
-(3a) Az országos elsőfokú etikai bizottság elnöke az országos elsőfokú etikai bizottság tagjai közül határozattal jelöli ki az eseti etikai bizottság tagjait és elnökét. Az etikai ügy tárgyalására létrehozott eseti etikai bizottságba ki kell jelölni az etikai eljárás alá vont kamarai tag szervezeti tagsága szerinti területi szervezet közgyűlése által megválasztott országos elsőfokú etikai bizottsági tagot, annak akadályoztatása esetén a megválasztott póttagot.
-
-(3b) Fellebbezés esetén másodfokon az országos másodfokú etikai bizottság jár el.
-
-(4) Az országos első- és másodfokú etikai bizottság elnökeként és tagjaként az első- és másodfokú etikai eljárásban nem vehet részt az,
+(4) Etikai bizottság és országos etikai bizottság elnökeként és tagjaként az első- és másodfokú etikai eljárásban nem vehet részt az,
 
 - a) aki ellen etikai eljárás folyik,
 - b) aki az a) pont alá eső személy Polgári Törvénykönyv szerinti közeli hozzátartozója, korábbi házastársa, korábbi bejegyzett élettársa, képviselője, ezen ügyben eljárt korábbi képviselője,
@@ -449,25 +439,25 @@ kezeli.
 
 (5) A másodfokú etikai eljárásban nem vehet részt az sem, aki az elsőfokú etikai eljárásban, illetve az elsőfokú eljárást lezáró határozat (a továbbiakban: elsőfokú határozat) meghozatalában részt vett.
 
-(6) Akivel szemben a (4) és (5) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont és az etikai eljárást kezdeményező kamarai tag is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró országos elsőfokú etikai bizottság elnökének, az országos első- és a másodfokú etikai bizottság elnökével szembeni kizárási okot a Kamara elnökének kell bejelenteni, aki határoz az eljárásból való kizárás tárgyában, és kijelöli az etikai eljárásban részt vevő póttagot.
+(6) Akivel szemben a (4) és (5) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont és az etikai eljárást kezdeményező kamarai tag is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró etikai bizottság elnökének, az elnökkel szembeni kizárási okot az országos etikai bizottság elnökének, az országos etikai bizottság elnökével szembeni kizárási okot a Kamara elnökének kell bejelenteni, aki határoz az eljárásból való kizárás tárgyában, és kijelöli az etikai eljárásban részt vevő póttagot.
 
 (7) A póttaggal szemben sem állhat fenn a (4) és (5) bekezdésben meghatározott kizárási ok. Tisztségviselő és országos, illetve területi ügyintéző szerv nem tisztségviselő tagja nem lehet póttag.
 
 26. § (1) Etikai vétség elkövetésének alapos gyanúja esetén vagy ha azt maga a kamarai tag kéri, etikai eljárást kell lefolytatni.
 
-(2) Az etikai eljárás megindítását bárki kezdeményezheti. Az országos elsőfokú etikai bizottság hivatalból megindítja az etikai eljárást, ha etikai vétség elkövetéséről szerez tudomást.
+(2) Az etikai eljárás megindítását bárki kezdeményezheti. Az etikai bizottság hivatalból megindítja az etikai eljárást, ha etikai vétség elkövetéséről szerez tudomást.
 
-(3)
+(3) Az etikai eljárást az etikai vétség elkövetési helye szerinti etikai bizottság folytatja le. Ha az eljárás alá vont kamarai tag több területi szervezet területén is követett el etikai vétséget, akkor az az etikai bizottság jár el, amelyik előbb indította meg az etikai eljárást.
 
-(4) Az etikai eljárást a megindításától számított harminc napon belül le kell folytatni. Az eljáró eseti etikai bizottság egyszer legfeljebb harminc nappal meghosszabbíthatja az etikai eljárást, ha a bizonyítási eljárás lefolytatása ezt indokolttá teszi. Az etikai eljárás megindítását az eljáró eseti etikai bizottság haladéktalanul közli az eljárás alá vont kamarai taggal.
+(4) Az etikai eljárást a megindításától számított harminc napon belül le kell folytatni. Az eljáró etikai bizottság egyszer legfeljebb harminc nappal meghosszabbíthatja az etikai eljárást, ha a bizonyítási eljárás lefolytatása ezt indokolttá teszi. Az etikai eljárás megindítását az eljáró etikai bizottság haladéktalanul közli az eljárás alá vont kamarai taggal.
 
-(5) Az országos elsőfokú etikai bizottság nem indíthatja meg az etikai eljárást az etikai vétség tudomására jutásától számított kilencven napon túl, valamint akkor sem, ha a vétség elkövetése óta már három év eltelt.
+(5) Az etikai bizottság nem indíthatja meg az etikai eljárást az etikai vétség tudomására jutásától számított kilencven napon túl, valamint akkor sem, ha a vétség elkövetése óta már három év eltelt.
 
-27. § (1) Ha az etikai vétségnek is minősülő ügyben az etikai eljárás megindítása előtt büntető- vagy szabálysértési eljárás indult, a kilencvennapos határidő a szabálysértési eljárásban hozott jogerős határozat, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának a területi szervezettel történt közlésétől, a hároméves határidő pedig a szabálysértési eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számít.
+27. § (1) Ha az etikai vétségnek is minősülő ügyben az etikai eljárás megindítása előtt büntető- vagy szabálysértési eljárás indult, a kilencven napos határidő a jogerős határozat területi szervezettel történt közlésétől, a három éves határidő pedig az eljárás jogerős befejezésétől számít.
 
 (2) A bíróság vagy szabálysértési hatóság az (1) bekezdés szerinti határozatát a jogerőre emelkedését követő harminc napon belül megküldi a Kamarának.
 
-(3) Ha az etikai vétségnek is minősülő ügyben etikai eljárás folyik, és eközben büntető- vagy szabálysértési eljárás indul, az etikai eljárást a szabálysértési eljárásban hozott jogerős határozat, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatának területi szervezettel történő közléséig fel kell függeszteni.
+(3) Ha az etikai vétségnek is minősülő ügyben etikai eljárás folyik, és eközben büntető- vagy szabálysértési eljárás indul, az etikai eljárást a büntető- vagy szabálysértési eljárásban hozott jogerős határozat területi szervezettel történő közléséig fel kell függeszteni.
 
 (4) Az etikai eljárást meg kell szüntetni, ha
 
@@ -476,7 +466,7 @@ kezeli.
 - c) az etikai eljárás alá vont kamarai tag etikai eljárás tárgyává tett cselekményét már jogerősen elbírálták,
 - d) az etikai eljárás alá vont kamarai tag tagsági jogviszonya megszűnik.
 
-(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet az országos első- vagy másodfokú etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
+(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet a területi etikai bizottság vagy az országos etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
 
 28. § (1) Az etikai eljárás alá vont kamarai tag
 
@@ -490,7 +480,7 @@ kezeli.
 
 (2) Az etikai eljárás alá vont kamarai tag képviselője jogosult az (1) bekezdés b)–f) pontjában foglaltak megtételére.
 
-(3) Az elsőfokú etikai eljárásban a tényállás megállapításához szükséges tények és körülmények vizsgálata és tisztázása érdekében tárgyalás tartása kötelező. A másodfokú eljárásban az országos másodfokú etikai bizottság tárgyalást tart, ha azt az elsőfokú eljárásban nem ismert tények és körülmények vizsgálata vagy már az elsőfokú eljárásban ismert tények és körülmények további vizsgálata szükségessé teszi.
+(3) Az elsőfokú etikai eljárásban a tényállás megállapításához szükséges tények és körülmények vizsgálata és tisztázása érdekében tárgyalás tartása kötelező. A másodfokú eljárásban az országos etikai bizottság tárgyalást tart, ha azt az elsőfokú eljárásban nem ismert tények és körülmények vizsgálata vagy már az elsőfokú eljárásban ismert tények és körülmények további vizsgálata szükségessé teszi.
 
 (4) Az eljárás alá vont kamarai tagot az eljáró etikai bizottság a tárgyalásra megidézi. Az idézés tartalmazza az etikai eljárás tárgyává tett cselekmény megnevezését, a tárgyalás helyét, idejét és a távolmaradás jogkövetkezményeire való figyelmeztetést.
 
@@ -512,11 +502,11 @@ kezeli.
 
 (3) A tagsági jogviszony felfüggesztése esetén a 21. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos részére.
+(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag részére.
 
-30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró elsőfokú etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos másodfokú etikai bizottságnak.
+30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
 
-(2) Az országos másodfokú etikai bizottság az elsőfokú etikai bizottság határozatát
+(2) Az országos etikai bizottság az elsőfokú etikai bizottság határozatát
 
 - a) helybenhagyja és a fellebbezést elutasítja, ha a rendelkezésre álló iratok alapján a tényállást tisztázottnak és az elsőfokú etikai bizottság határozatát helyénvalónak ítéli meg,
 - b) megváltoztatja, ha az iratok alapján a tényállást tisztázottnak találja, de az arra alapozott állásfoglalást tévesnek ítéli meg,
@@ -525,9 +515,9 @@ kezeli.
   - cb) ha az elsőfokú etikai bizottság hatáskörének vagy illetékességének hiányát állapítja meg és felkéri az elsőfokon eljárt etikai bizottságot, hogy az ügyben keletkezett iratokat küldje meg a hatáskörrel rendelkező szervnek további intézkedés céljából,
   - cc) ha elévülést állapít meg, illetve ha olyan tény vagy körülmény fennállását állapítja meg, amelynek következtében etikai eljárás lefolytatásának nincs helye, és az etikai eljárást megszünteti.
 
-(3) A másodfokú etikai eljárást lezáró határozatot (a továbbiakban: másodfokú határozat) az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos a másodfokú határozat közlésétől számított tizenöt napon belül támadhatja meg.
+(3) A másodfokú etikai eljárást lezáró határozat (a továbbiakban: másodfokú határozat) ellen az eljárás alá vont kamarai tag a másodfokú határozat közlésétől számított tizenöt napon belül bírósághoz fordulhat. A jogerős határozat végrehajtható, kivéve, ha a bíróság a végrehajtás felfüggesztéséről dönt.
 
-(4) A bíróság által el nem bírált ügyben az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elévülési időn belül új eljárást kezdeményezhet, ha
+(4) Az eljárás alá vont kamarai tag az elévülési időn belül új eljárást kezdeményezhet, ha
 
 - a) a jogerősen elbírált cselekményével kapcsolatban olyan új tény vagy bizonyíték kerül elő, vagy olyan bírósági vagy egyéb határozatra hivatkozik, amelyet az eljáró etikai bizottság nem bírált el, és amely alkalmas a jogerős határozat megváltoztatására vagy
 - b) az első- vagy másodfokú eljárás során az eljáró etikai bizottság valamely tagja kötelességét az Büntető Törvénykönyvbe ütköző módon szegte meg.
@@ -540,7 +530,14 @@ kezeli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az Alapszabály vagy más kamarai szabályzat vagy kamarai szerv, továbbá tisztségviselő határozata jogsértő, megfelelő határidő tűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szervezet vezetője köteles a felhívásban foglaltakat megvizsgálni és – a felhívásban megadott határidőn belül – a jogsértést megszüntetni, és intézkedéséről vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3)–(4)
+(3) Ha az érintett kamarai szervezet vezetője a jogsértést nem szüntette meg, a miniszter – a felhívásban megadott határidő lejártától számított harminc napon belül – a Polgári Perrendtartásról szóló törvénynek a közigazgatási perekre irányadó szabályai szerint bírósághoz fordulhat.
+
+(4) Ha a bíróság a (3) bekezdés alapján indított eljárás eredményeként a jogsértést megállapítja,
+
+- a) a jogsértő Alapszabályt, más szabályzatot, határozatot vagy annak jogsértő részét hatályon kívül helyezi és új döntés meghozatalát rendeli el,
+- b) a működés törvényességének helyreállítása érdekében elrendeli a választásra jogosult kamarai szerv összehívását,
+- c) a jogsértően működő kamarai szerv működését felfüggesztheti,
+- d) a kamarai szerv ellenőrzésére felügyelőbiztost rendelhet ki, ha a működés törvényessége másként nem biztosítható.
 
 #### 9. A Kamara gazdálkodása
 
@@ -582,26 +579,13 @@ fedezi.
 
 (2) Állatorvosi tevékenységet szolgáltatásként állat-egészségügyi szolgáltató nyújthat. Az állat-egészségügyi szolgáltató működéséhez – a (3) bekezdésben foglalt kivétellel – a Kamara által kiadott praxisengedély szükséges.
 
-(3) Az Állatorvostudományi Egyetemen állatorvosként, továbbá az állami fenntartású állategészségügyi kutató intézményekben, az állami fenntartású állategészségügyi intézetekben, valamint a fegyveres testületek, a polgári nemzetbiztonsági szolgálatok és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység FELIR azonosítóval, praxisengedély nélkül is végezhető.
-
-33/A. § (1) Az üzemi állatorvos állatorvosi tevékenységet folytató állategészségügyi szolgáltatónak nem minősülő munkáltatója, munkáltatójának kapcsolt vállalkozása vagy munkáltatójával irányítási vagy fenntartói viszonyban álló szerv számára munkaviszony vagy tagsági viszony, továbbá a közérdekű önkéntes tevékenységről szóló törvény szerint a fogadó szervezet (e § alkalmazásában munkáltató és fogadó szervezet együtt a továbbiakban: munkáltató) számára önkéntes jogviszony formájában (e § alkalmazásában munkaviszony, tagsági viszony és önkéntes jogviszony együtt a továbbiakban: munkaviszony).
-
-(2) Az üzemi állatorvos – kapcsolt vállalkozások kivételével – legfeljebb egy, az (1) bekezdés szerinti jogalannyal állhat állatorvosi tevékenység folytatására irányuló munkaviszonyban.
-
-(3) Az üzemi állatorvos állatorvosi tevékenység folytatására a munka törvénykönyvéről szóló törvény szerinti több munkáltató által létesített munkaviszonyt csak olyan munkáltatókkal létesíthet, amelyek egymásnak kapcsolt vállalkozásai.
-
-(4) Az üzemi állatorvos munkáltatóján kívüli harmadik személy számára nem végezhet állatorvosi tevékenységet.
-
-(5) Az üzemi állatorvos e tevékenységét praxisengedély nélkül végezheti.
-
-(6) A munkáltató a kamarai tagdíj és a szakmai felelősségbiztosítás díjának megfizetését az üzemi állatorvostól átvállalhatja.
+(3) A Szent István Egyetem Állatorvos-tudományi Karának állatklinikáin, továbbá az állami fenntartású állat-egészségügyi kutató intézményekben, az állami fenntartású állat-egészségügyi intézetekben, valamint a fegyveres testületek és rendvédelmi szervek intézményeiben a szolgálati állatok vonatkozásában, a felsorolt intézményeken belül végzett állatorvosi tevékenység praxisengedély nélkül is végezhető.
 
 34. § (1) Állat-egészségügyi szolgáltatónál állatorvosi tevékenységet, illetve az abban való közreműködést az az állatorvos végezhet, aki
 
 - a) szerepel az állatorvosi névjegyzékben,
 - b) rendelkezik a kamarai állatorvosi névjegyzékbe bejegyzett székhellyel és
-- c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással,
-- d) rendelkezik FELIR azonosítóval.
+- c) rendelkezik a személyére, mint biztosítottra az állatorvosi tevékenységére vonatkozó érvényes szakmai felelősségbiztosítással.
 
 (2) Állat-egészségügyi szolgáltatónál állatorvosi tevékenység, illetve az abban történő közreműködés – a rendelkezésre álló lehetőségek között – az alábbi jogviszonyok keretében végezhető
 
@@ -632,15 +616,7 @@ fedezi.
 
 36. § (1) A 34. § (1) bekezdésében meghatározott feltételeknek megfelelő állatorvos jogosult önálló tevékenység formájában a saját nevében és felelősségére állat-egészségügyi szolgáltatóként működni.
 
-(2) Önálló tevékenység keretében állatorvosi tevékenység folytatására az az állatorvos jogosult, aki legalább 5 éves szakmai gyakorlattal rendelkezik.
-
-(3) A (2) bekezdés szerinti feltételen túlmenően állatorvosi tevékenység önálló tevékenység formájában történő végzésére az az állatorvos jogosult, aki rendelkezik
-
-- a) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
-- b) a Kamara specialistája (kamarai specialista vagy praxisvezetői) végzettséggel,
-- c) legalább PhD tudományos fokozattal,
-- d) európai állatorvosi szakkollégiumi tagsággal, vagy
-- e) a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.
+(2)–(3)
 
 37. § (1) A 34. § (1) bekezdésében meghatározott feltételeknek megfelelő állatorvos jogosult gazdasági társaság vagy szövetkezet tagjaként, az állat-egészségügyi szolgáltatóként működő gazdasági társaság vagy szövetkezet nevében és felelősségére állatorvosi tevékenységet végezni.
 
@@ -648,32 +624,15 @@ fedezi.
 
 (3) A kamarai tagdíj és a szakmai felelősségbiztosítás díjának megfizetését az állatorvostól az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet átvállalhatja.
 
-(4)
-
-(5)
+(4)–(5)
 
 #### 11. A praxisengedély
 
-38. § (1) Praxisengedélyt kérelemre annak az állategészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állategészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, a tevékenység folytatásához az állategészségügyi szolgáltató szakmai munkáját irányító, FELIR azonosítóval rendelkező állatorvossal.
+38. § (1) Praxisengedélyt kérelemre annak az állat-egészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állat-egészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, valamint a tevékenység folytatásához az állat-egészségügyi szolgáltató szakmai munkáját irányító állatorvossal.
 
-(2) Gazdasági társaság vagy szövetkezet formájában működő állategészségügyi szolgáltató akkor jogosult praxisengedélyre, ha működése során a 34. § (2) bekezdésének a), b), d) vagy e) pontja alapján foglalkoztat legalább egy olyan
+(2)
 
-- a) legalább 5 éves szakmai gyakorlattal rendelkező állatorvost, aki rendelkezik
-  - aa) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
-  - ab) a Kamara specialistája végzettséggel,
-  - ac) legalább PhD tudományos fokozattal, vagy
-  - ad) európai állatorvosi szakkollégiumi tagsággal, vagy
-- b) állatorvossal, aki rendelkezik a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.
-
-(2a) Gazdasági társaság akkor jogosult praxisengedélyre, ha a tulajdoni hányadának és a legfőbb döntéshozó szervét megillető szavazati jogoknak a többségével a gazdasági társaság állategészségügyi szolgáltatásában személyesen közreműködő állatorvos rendelkezik.
-
-(2b) A (2a) bekezdésben foglalt feltételt teljesítettnek kell tekinteni, ha a gazdasági társaság állategészségügyi szolgáltató tulajdoni hányadának és a legfőbb döntéshozó szervét megillető szavazati jognak a többségével rendelkező és a gazdasági társaságban személyesen közreműködő állatorvos elhalálozik, és az állategészségügyi szolgáltató a (2a) bekezdésben foglaltak kivételével továbbra is megfelel a praxisengedélyre való jogosultság feltételeinek és a gazdasági társaság állategészségügyi szolgáltató tulajdoni hányadának és a legfőbb döntéshozó szervét megillető szavazati jognak a többségével az elhunyt házastársa vagy egyenes ági hozzátartozója vagy örökbe fogadott, mostoha vagy nevelt gyermeke jogosult rendelkezni.
-
-(2c) Ha az önálló tevékenység keretében praxisengedéllyel rendelkező állatorvos elhalálozik, a Kamara a praxisengedélyt a házastársa vagy egyenes ági hozzátartozója vagy örökbe fogadott, mostoha vagy nevelt gyermeke részére kérelemre kiadja, ha a hagyatékátadó végzés a praxisengedély jogosultjaként jelölte meg, feltéve, hogy a 34. § (1) bekezdésében meghatározottaknak megfelelő állatorvost foglalkoztat. A Kamara a hagyatékátadó végzés bevárása nélkül adja meg a praxisengedélyt, ha a praxisengedély elhunyt jogosultja a jogosultságról még életében halála esetére közjegyzői okiratban rendelkezett.
-
-(2d) Az állategészségügyi szolgáltatónak a (2b) vagy (2c) bekezdés szerinti jogosult által ellenérték fejében történő átengedése esetén elővásárlási joggal rendelkezik az állategészségügyi szolgáltatónál szabadfoglalkozás vagy munkaviszony keretében legalább egy éve foglalkoztatott és a 34. § (1) bekezdésében foglaltaknak megfelelő állatorvos.
-
-(3) Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
+(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított harminc napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
 
 (4) A praxisengedély kiadása iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen az elnökséghez fellebbezhet.
 
@@ -695,7 +654,7 @@ fedezi.
 
 (2) A szüneteltetés engedélyezését a Kamara abban az esetben tagadhatja meg, ha az állat-egészségügyi szolgáltató a szüneteltetés időtartamára nem gondoskodott megfelelően feladatainak ellátásában más állat-egészségügyi szolgáltató általi helyettesítéséről.
 
-(3)
+(3) A vezetőség a szüneteltetés iránti kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő harminc napon belül dönt.
 
 (4) Ha az állat-egészségügyi szolgáltató a tevékenységét a szüneteltetés iránti kérelemben megjelölt határidő lejárta előtt folytatni kívánja, ezt köteles a Kamarának bejelenteni. A Kamara a tevékenység szüneteltetésének tényére és időtartamára vonatkozó adatot törli a praxisnyilvántartásból.
 
@@ -714,35 +673,13 @@ fedezi.
 - a) részére az egyes állat-egészségügyi igazgatási szolgáltatások díjáról szóló miniszteri rendeletben meghatározott díjat és költségtérítést kell fizetni,
 - b) az eljáró állatorvos a hatósági állatorvost megillető védelemben részesül.
 
-42. § (1)
+42. § (1) Az állatorvos az állatorvosi tevékenységet, az adott helyzetben általában elvárható gondossággal, a szakmai követelmények keretei között, az etikai szabályok megtartásával, legjobb tudása, erkölcsi felfogása és lelkiismereti meggyőződése szerint, a rendelkezésére álló tárgyi és személyi feltételek által meghatározott szinten, szakmai kompetenciájának megfelelően nyújtja.
 
-(2)
+(2) Az állatorvos a szakmai irányelvek, az etikai szabályzatban foglaltak, valamint a hatósági rendelkezések figyelembevételével – a (3) bekezdésben foglalt kivétellel – jogosult dönteni abban a kérdésben, hogy az adott esetben vállalkozik-e az állatorvosi feladatok végzésére, továbbá szolgáltatás nyújtására. Visszautasítás esetén az állattartót – kérésére írásban is – tájékoztatni kell a szakszerű ellátás legközelebbi lehetőségéről.
 
-(3)
+(3) Az állatorvos nem utasíthatja el az elsősegélynyújtást, valamint a bejelentési kötelezettség alá tartozó fertőző állatbetegség gyanúja esetén a szükséges intézkedések megtételét.
 
 (4) Az állatorvosi tevékenységet végző állatorvos köteles a Kamara által megállapított időközönként szakmai továbbképzésen részt venni.
-
-42/A. § (1) Az állat kezelésére irányuló kérelem elfogadásával az állattartó és az állategészségügyi szolgáltató között kezelési szerződés jön létre. A kezelési szerződés alapján az állategészségügyi szolgáltató az állat részére szakszerű és a szakmai követelményeknek megfelelő állatorvosi tevékenységet nyújt és annak eredményére törekszik az eredmény bekövetkezésének garantálása nélkül, kivéve, ha a felek megállapodása alapján az állategészségügyi szolgáltató kifejezetten meghatározott eredmény létrehozására vállalkozott. Az állategészségügyi szolgáltatót tevékenységéért az állattartó részéről díjazás illeti meg, kivéve, ha a felek kifejezetten térítésmentességben állapodtak meg.
-
-(2) Az állategészségügyi szolgáltató – a (3) bekezdésben foglaltak kivételével – indokolás nélkül visszautasíthatja a kezelési szerződés megkötését. Visszautasítás esetén az állattartót – kérésére írásban is – tájékoztatni kell a szakszerű ellátás legközelebbi lehetőségéről.
-
-(3) Az állategészségügyi szolgáltató nem tagadhatja meg az elsősegélynyújtást, valamint a bejelentési kötelezettség alá tartozó fertőző állatbetegség gyanúja esetén a szükséges intézkedések megtételét.
-
-(4) Az állategészségügyi szolgáltató köteles az állattartó részére felvilágosítást adni a diagnózisról, a kezelésről, valamint a betegség várható lefolyásának prognózisáról.
-
-(5) Az állategészségügyi szolgáltató felel a kezelési hiba elkövetésével, illetve a szükséges beavatkozás el nem végzésével az állattartót ért kárért.
-
-(6) Az állategészségügyi szolgáltató a kezeléshez további állategészségügyi szolgáltatót vehet igénybe, kivéve, ha ez ellen az állattartó tiltakozik. Az állategészségügyi szolgáltató úgy felel az általa igénybe vett másik állategészségügyi szolgáltató tevékenységéért, mintha maga járt volna el.
-
-(7) Ha az állategészségügyi szolgáltató a kezelést térítésmentesen vállalta, a térítésmentesség – a felek eltérő rendelkezése hiányában – kiterjed a (6) bekezdés szerinti esetre is.
-
-(8) Az állategészségügyi szolgáltató a kezelési szerződést azonnali hatállyal felmondhatja, ha az állattartó a szükséges együttműködést megtagadja, viselkedésével a további kezelést veszélyezteti vagy az állategészségügyi szolgáltató üzemszerű működését zavarja.
-
-(9) Az állattartó a kezelési szerződést bármikor indokolás nélkül felmondhatja, azonban köteles megtéríteni az állategészségügyi szolgáltató által elvégzett kezelés ellenértéke mellett az állategészségügyi szolgáltatónak a díj teljesítéssel arányos része mellett a kezelési szerződés alapján felmerült további indokolt költségeit. Ha az állattartó a kezelési szerződést azért mondta fel, mert súlyos kezelési hiba miatt megrendült az állategészségügyi szolgáltató szakmai alkalmasságába vetett bizalma, a szerződésszegésre vonatkozó szabályok szerint igényelheti a kárának megtérítését.
-
-(10) Az állatorvos az állatorvosi tevékenységet az adott helyzetben általában elvárható gondossággal, a szakmai követelmények keretei között, az etikai szabályok megtartásával, legjobb tudása, erkölcsi felfogása és lelkiismereti meggyőződése szerint, a rendelkezésére álló tárgyi és személyi feltételek által meghatározott szinten, szakmai kompetenciájának megfelelően nyújtja.
-
-(11) Az állatorvos a szakmai irányelvek, az etikai szabályzatban foglaltak, valamint a hatósági rendelkezések figyelembevételével – a (3) bekezdésben foglalt kivétellel – jogosult dönteni abban a kérdésben, hogy az adott esetben vállalkozik-e az állatorvosi feladatok végzésére.
 
 43. § (1) Az állat-egészségügyi szolgáltató köteles
 
@@ -777,7 +714,7 @@ fedezi.
 
 45. § (1) Állatorvosi asszisztensi tevékenységet az a személy végezhet, aki
 
-- a) állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
+- a) akkreditált állatorvosi asszisztensi, illetve azzal egyenértékűként elismert képzettséggel rendelkezik,
 - b) szerepel az asszisztensi névjegyzékben,
 - c) praxisengedéllyel rendelkező állatorvos vagy állat-egészségügyi intézmény foglalkoztatottja, és
 - d) betartja a Kamara állatorvosi asszisztensekre vonatkozó szakmai irányelveinek rendelkezéseit.
@@ -810,9 +747,9 @@ fedezi.
 
 (2) A bírság legalacsonyabb összege százezer forint, legmagasabb összege tízmillió forint. A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel kell meghatározni.
 
-(3) A bírságot az azt kiszabó határozat véglegessé válásától számított tizenötödik napig meg kell fizetni.
+(3) A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenötödik napig meg kell fizetni.
 
-(4) Ha a jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
+(4) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
 
 (5) A bírság összegét az azt kiszabó szerv számlájára kell befizetni.
 
@@ -845,7 +782,7 @@ fedezi.
 
 (7) Aki az e törvény hatálybalépése napján olyan tevékenységet végez, amely e törvény szerint csak praxisengedéllyel végezhető, a praxisengedély iránti kérelmét legkésőbb e törvény hatálybalépését követő hatvanadik napig kell benyújtania. A Kamara a praxisengedélyt kérelemre e törvény rendelkezései szerint adja ki.
 
-(8) A 36. § (2) és (3) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek való megfelelést a praxisengedély jogosultjának legkésőbb 2022. január 1-jéig igazolnia kell a Kamara felé. 2022. január 1-jét követően a Kamara a 36. § (2) és (3) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek meg nem felelő állat-egészségügyi szolgáltató praxisengedélyét visszavonja.
+(8) A 36. § (2) és (3) bekezdése, a 37. § (4) és (5) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek való megfelelést a praxisengedély jogosultjának legkésőbb 2022. január 1-jéig igazolnia kell a Kamara felé. 2022. január 1-jét követően a Kamara a 36. § (2) és (3) bekezdése, a 37. § (4) és (5) bekezdése, valamint a 38. § (2) bekezdése szerinti feltételeknek meg nem felelő állat-egészségügyi szolgáltató praxisengedélyét visszavonja.
 
 (9) A Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény rendelkezései szerint kiadott bélyegző e törvény szerint kiadott bélyegzőnek minősül.
 
@@ -863,14 +800,33 @@ fedezi.
 
 51. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-#### 52. §
+52. § (1) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) Melléklet 41. pontja helyébe a következő rendelkezés lép:
 
-#### 53. §
+[E törvény alkalmazásában:]
 
-54. § Az állatorvosi tevékenység végzését önálló tevékenység formájában 2016. december 31. napját követően megkezdő és az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépésekor folytató állatorvos vonatkozásában a 36. § (2) bekezdését az önálló tevékenység megkezdésének évét követő hatodik év első napjától, a 36. § (3) bekezdését 2023. január 1-jétől kell alkalmazni.
+„41. szolgáltató állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló törvény szerinti állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;”
 
-55. § (1) A 21. § (2a) bekezdése és a 22. § (3a) bekezdése a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 56a. cikk (2) bekezdésének való megfelelést szolgálja.
+(2) Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 2. § (2) bekezdés b) pontjában a „magán-állatorvosi” szövegrész helyébe a „szolgáltató állatorvosi” szöveg lép.
 
-(2) A 38. § (2a) és (2b) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (2) bekezdés c) pontjának való megfelelést szolgálja.
+(3) Az Éltv.
 
-56. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról szóló 2020. évi LIII. törvény hatálybalépésekor már praxisengedéllyel rendelkező társas vállalkozás esetében a 38. § (2a) bekezdésében foglalt feltételnek a tulajdoni hányad, illetve a legfőbb döntéshozó szervben fennálló szavazati jogok arányának az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvény hatálybalépését követő első megváltoztatásától kell megfelelni.
+- a) 18. § (1) bekezdés b) pontjában a „magán-állatorvossal” szövegrész helyébe a „szolgáltató állatorvossal”,
+- b) 18. § (1) bekezdés c) és f) pontjában és a 27. § (2) bekezdésében a „magánállatorvost” szövegrész helyébe a „szolgáltató állatorvost”,
+- c) 18. § (1) bekezdés f) és h) pontjában a „magánállatorvosnak” szövegrész helyébe a „szolgáltató állatorvosnak”,
+- d) 18. § (1) bekezdés i) pontjában a „magánállatorvossal” szövegrész helyébe a „szolgáltató állatorvossal”,
+- e) 20. § (1) bekezdésében a „magánállatorvostól” szövegrész helyébe a „szolgáltató állatorvostól”,
+- f) 20. § (2) és (3) bekezdésében, 27. § (3) és (4) bekezdésében, 53. § (1), (2) bekezdésében, (3) bekezdés első és második mondatában és 76. § (1) bekezdés e) pontjában a „magánállatorvos” szövegrész helyébe a „szolgáltató állatorvos”,
+- g) 34. § (2) bekezdés a) pontjában a „magánállatorvosok” szövegrész helyébe a „szolgáltató állatorvosok”,
+- h) 76. § (5) bekezdés g) pontjában a „növényvédő szerek, valamint termésnövelő anyagok mező- és erdőgazdasági célú” szövegrész helyébe a „növényvédő szerek, biocid termékek, valamint termésnövelő anyagok” szöveg lép.
+
+(4) Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 21. § (1) bekezdés 1. pont f) alpontjában a „magán-állatorvosi” szövegrész helyébe a „szolgáltató állatorvosi” szöveg lép.
+
+(5) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pont 2. alpontjában a „magán-állatorvosi” szövegrész helyébe a „szolgáltató állatorvosi” szöveg lép.
+
+(6) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 17. pont f) alpontjában a „magán-állatorvosi” szövegrész helyébe a „szolgáltató állatorvosi” szöveg lép.
+
+(7) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 22. § b) pontjában az „az ügyvédi fegyelmi hatóságnak” szövegrész helyébe az „a Magyar Állatorvosi Kamara etikai bizottságának és országos etikai bizottságának, az ügyvédi fegyelmi hatóságnak” szöveg lép.
+
+(8) Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 42/A. § (4) bekezdés e), f), g) i) és k) pontjában a „magánállatorvos” szövegrész helyébe a „szolgáltató állatorvos” szöveg lép.
+
+53. § Hatályát veszti a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény.

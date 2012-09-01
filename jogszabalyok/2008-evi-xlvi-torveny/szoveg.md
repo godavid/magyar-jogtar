@@ -245,14 +245,14 @@ valamint intézkedni annak megsemmisítéséről.
 18. § (1) Az állattartó köteles
 
 - a) állata rendszeres ellátásáról és felügyeletéről gondoskodni;
-- b) e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott fajú és létszámú állat tartása esetén állomány-nyilvántartást vezetni, továbbá e törvény végrehajtására kiadott jogszabályban foglaltak szerint az állatok állat-egészségügyi felügyeletét magán-állatorvossal kötött írásbeli szerződéssel biztosítani;
-- c) az állat állat-egészségügyi felügyeletét ellátó magánállatorvost a tartott állatok fajáról, létszámáról, az állatok tartási helyéről az állattartó tevékenység megkezdésétől számított öt napon belül tájékoztatni;
+- b) e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott fajú és létszámú állat tartása esetén állomány-nyilvántartást vezetni, továbbá e törvény végrehajtására kiadott jogszabályban foglaltak szerint az állatok állat-egészségügyi felügyeletét szolgáltató állatorvossal kötött írásbeli szerződéssel biztosítani;
+- c) az állat állat-egészségügyi felügyeletét ellátó szolgáltató állatorvost a tartott állatok fajáról, létszámáról, az állatok tartási helyéről az állattartó tevékenység megkezdésétől számított öt napon belül tájékoztatni;
 - d) az egyedi jelölésre kötelezett állatok esetében az egyedi jelölésről az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott határidőn belül és módon gondoskodni;
 - e) az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben az állatok tartását, tartási helyét, jelölését és mozgatását bejelenteni az élelmiszerlánc-felügyeleti szervnek;
-- f) állata betegségéről vagy annak gyanújáról haladéktalanul értesíteni az élelmiszerlánc-felügyeleti szervet, illetve a magánállatorvost, a beteg, illetve betegségre gyanús állatát megvizsgáltatni, járványos állatbetegség esetén az élelmiszerlánc-felügyeleti szervnek, illetve a magánállatorvosnak az állat (állomány) kezelésére és a betegség továbbvitelének megakadályozására adott utasításait végrehajtani, az elrendelt járványügyi intézkedésben foglalt kötelezettségeket teljesíteni;
+- f) állata betegségéről vagy annak gyanújáról haladéktalanul értesíteni az élelmiszerlánc-felügyeleti szervet, illetve a szolgáltató állatorvost, a beteg, illetve betegségre gyanús állatát megvizsgáltatni, járványos állatbetegség esetén az élelmiszerlánc-felügyeleti szervnek, illetve a szolgáltató állatorvosnak az állat (állomány) kezelésére és a betegség továbbvitelének megakadályozására adott utasításait végrehajtani, az elrendelt járványügyi intézkedésben foglalt kötelezettségeket teljesíteni;
 - g) állatának az élelmiszerlánc-felügyeleti szerv által elrendelt vizsgálatát, kezelését, védőoltását, elszállítását, levágatását, illetve leölését tűrni, ezen feladatokat ellátó állatorvos részére segédszemélyzetről gondoskodni, és a kárenyhítési kötelezettségének megfelelően közreműködni;
-- h) az állat elhullását vagy kényszervágását az élelmiszerlánc-felügyeleti szervnek, illetve a magánállatorvosnak – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – bejelenteni, és az állati testet vizsgálatra bemutatni;
-- i) az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak szerint a levágott állatát az élelmiszerlánc-felügyeleti szervvel, illetve a magánállatorvossal megvizsgáltatni;
+- h) az állat elhullását vagy kényszervágását az élelmiszerlánc-felügyeleti szervnek, illetve a szolgáltató állatorvosnak – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – bejelenteni, és az állati testet vizsgálatra bemutatni;
+- i) az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak szerint a levágott állatát az élelmiszerlánc-felügyeleti szervvel, illetve a szolgáltató állatorvossal megvizsgáltatni;
 - j) állatának az e törvény végrehajtására kiadott jogszabályban meghatározott állat-egészségügyi vizsgálata elvégzéséről – amennyiben jogszabály másként nem rendeli – saját költségén gondoskodni.
 
 (2) Az (1) bekezdés f) pontjában meghatározott kötelezettség vonatkozik
@@ -285,11 +285,11 @@ terheli.
 
 (4) Bejelentési kötelezettség alá tartozó állatbetegség (a továbbiakban: bejelentendő állatbetegség) megelőzése, felderítése és felszámolása során keletkezett állati eredetű melléktermék ártalmatlanná tételéről az élelmiszerlánc-felügyeleti szerv intézkedik.
 
-20. § (1) Az állattartó – e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – eldöntheti, hogy az állatorvosi szolgáltató tevékenységet mely – arra működési engedéllyel rendelkező – magánállatorvostól veszi igénybe.
+20. § (1) Az állattartó – e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – eldöntheti, hogy az állatorvosi szolgáltató tevékenységet mely – arra működési engedéllyel rendelkező – szolgáltató állatorvostól veszi igénybe.
 
-(2) A magánállatorvos köteles az állattartó részére az állat tartásával, takarmányozásával, egészségi állapotával, a megteendő intézkedésekkel, ezek várható anyagi és jogi kihatásával kapcsolatos legjobb tudása szerint felvilágosítást adni.
+(2) A szolgáltató állatorvos köteles az állattartó részére az állat tartásával, takarmányozásával, egészségi állapotával, a megteendő intézkedésekkel, ezek várható anyagi és jogi kihatásával kapcsolatos legjobb tudása szerint felvilágosítást adni.
 
-(3) A magánállatorvos köteles tőle elvárható módon elsősegélyt nyújtani, és az állattartót a további állatorvosi szolgáltatás igénybevételének lehetőségéről, illetve kötelezettségéről tájékoztatni.
+(3) A szolgáltató állatorvos köteles tőle elvárható módon elsősegélyt nyújtani, és az állattartót a további állatorvosi szolgáltatás igénybevételének lehetőségéről, illetve kötelezettségéről tájékoztatni.
 
 (4) Az állatorvos az e törvény végrehajtására kiadott jogszabály szerint jogosult a törzskönyvezett, valamint a hatályos Európai, illetve a Magyar Gyógyszerkönyvben szereplő készítmények és anyagok rendelésére.
 
@@ -365,11 +365,11 @@ terheli.
 - d) az élelmiszerlánc-felügyeleti szerv,
 - e) az országos főállatorvos.
 
-(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a magánállatorvost.
+(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a szolgáltató állatorvost.
 
-(3) Az állami feladatok elvégzésére feljogosított magánállatorvos állami feladatainak végzése közben az élelmiszerlánc-felügyeleti szerv nevében, az e törvényben és a végrehajtására kiadott jogszabályokban foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
+(3) Az állami feladatok elvégzésére feljogosított szolgáltató állatorvos állami feladatainak végzése közben az élelmiszerlánc-felügyeleti szerv nevében, az e törvényben és a végrehajtására kiadott jogszabályokban foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
 
-(4) Az állami feladatok elvégzésére feljogosított magánállatorvos a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a külön jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
+(4) Az állami feladatok elvégzésére feljogosított szolgáltató állatorvos a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a külön jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
 
 (5) A 10/A. § szerinti tanúsítványt az élelmiszerlánc-felügyeleti szerv által – az e törvény végrehajtására kiadott jogszabály szerint – elismert tanúsító szervezet (a továbbiakban: tanúsító szervezet), vagy tanúsító szervezet hiányában az élelmiszerlánc-felügyeleti szerv adja ki.
 
@@ -498,7 +498,7 @@ terheli.
 
 (2) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint ellenőrzi
 
-- a) törvényességi szempontból a magánállatorvosok tevékenységét;
+- a) törvényességi szempontból a szolgáltató állatorvosok tevékenységét;
 - b) az állati eredetű melléktermék kezelését, a járványügyi szempontból szigorúbb eljárást igénylő állati eredetű melléktermék, anyag, eszköz ártalmatlanná tételét;
 - c) állat-egészségügyi és takarmányhigiéniai szempontból az állatok etetésére felhasználandó takarmányt, a legelőt, az itatóvizet, az állatok elhelyezésére szolgáló épületet, az állattartás során használt gépet, berendezést, valamint alkalmazott technológiát;
 - d) az állat-egészségügyi szabályok megtartását, így különösen az állatok egészségi állapotát, az előírt dokumentációt az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint állat-egészségügyi felügyelet alá tartozó helyeken;
@@ -989,11 +989,11 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (4) Amennyiben az a fertőző állatbetegség leküzdéséhez szükséges, a rendőrség közreműködik a járványveszély elhárításában.
 
-53. § (1) A magánállatorvos, illetve a nem állami állat-egészségügyi laboratórium járványos állatbetegség gyanúja esetén a járványveszély elhárítása érdekében köteles az adott helyzetben tőle elvárható módon a szükséges intézkedéseket megtenni, valamint a további intézkedésre jogosult szervet haladéktalanul értesíteni.
+53. § (1) A szolgáltató állatorvos, illetve a nem állami állat-egészségügyi laboratórium járványos állatbetegség gyanúja esetén a járványveszély elhárítása érdekében köteles az adott helyzetben tőle elvárható módon a szükséges intézkedéseket megtenni, valamint a további intézkedésre jogosult szervet haladéktalanul értesíteni.
 
-(2) Az e törvény végrehajtására kiadott jogszabályban foglaltak szerint bejelentendő állatbetegség vagy gyanújának észlelése esetén a magánállatorvos köteles haladéktalanul jelentést tenni az intézkedésre jogosult élelmiszerlánc-felügyeleti szervnek, továbbá ellátni a járványügyi feladatokat, megtenni a járvány megelőzéséhez és felszámolásához szükséges mindazon feladatokat, amelyeket e törvény, illetve a végrehajtására kiadott jogszabály a feladat-, illetve hatáskörébe utal, valamint az állattartót a szükséges utasításokkal ellátni.
+(2) Az e törvény végrehajtására kiadott jogszabályban foglaltak szerint bejelentendő állatbetegség vagy gyanújának észlelése esetén a szolgáltató állatorvos köteles haladéktalanul jelentést tenni az intézkedésre jogosult élelmiszerlánc-felügyeleti szervnek, továbbá ellátni a járványügyi feladatokat, megtenni a járvány megelőzéséhez és felszámolásához szükséges mindazon feladatokat, amelyeket e törvény, illetve a végrehajtására kiadott jogszabály a feladat-, illetve hatáskörébe utal, valamint az állattartót a szükséges utasításokkal ellátni.
 
-(3) Járványveszély vagy rendkívüli élelmiszerlánc-esemény esetén a magánállatorvos – a Magyar Állatorvosi Kamarával kötött megállapodás szerint – az élelmiszerlánc-felügyeleti szerv által közcélú munkavégzésre – díjfizetés és költségtérítés ellenében – igénybe vehető. A magánállatorvos a közcélú igénybevételnek köteles eleget tenni.
+(3) Járványveszély vagy rendkívüli élelmiszerlánc-esemény esetén a szolgáltató állatorvos – a Magyar Állatorvosi Kamarával kötött megállapodás szerint – az élelmiszerlánc-felügyeleti szerv által közcélú munkavégzésre – díjfizetés és költségtérítés ellenében – igénybe vehető. A szolgáltató állatorvos a közcélú igénybevételnek köteles eleget tenni.
 
 ### Kártalanítás
 
@@ -1324,7 +1324,7 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
 - b)
 - c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény összeállításának, közzétételének szabályait, az élelmiszerkönyvi és a takarmánykódex-irányelvek kiadásának rendjét, továbbá jelölje ki a gondozásukat, valamint a FAO/WHO Codex Alimentarius Bizottság munkájában való magyar részvétel szakmai irányítását végző szervet;
 - d) határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és mértékét;
-- e) állapítsa meg az állami feladatok végzésére feljogosított magánállatorvos jogállását, feladat- és hatáskörét;
+- e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos jogállását, feladat- és hatáskörét;
 - f) határozza meg az állami, illetve a közérdekű védekezés költségei megállapításának és a költségvetési törvényben meghatározott előirányzatból való igénylésének részletes szabályait;
 - g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásának részletes eljárási szabályait;
 - h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántartásának, az azonosító okmányának kiállításának, valamint az azonosító okmány használatának és hatósági ellenőrzésének szabályait.
@@ -1394,7 +1394,7 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
 - d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
 - e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges tulajdonságú mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
 - f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
-- g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, valamint termésnövelő anyagok mező- és erdőgazdasági célú légi kijuttatásának részletes szabályait;
+- g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 - h) a környezetvédelemért felelős miniszterrel egyetértésben az állati hulladékokból készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
 - i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 - j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket.
@@ -1523,7 +1523,7 @@ E törvény alkalmazásában:
 - 39. kötelező védekezés: az élelmiszerlánc-felügyeleti szerv által elrendelt állami, közérdekű vagy termelői védekezés;
 - 39/A. közös ügyfél törzsadat-kezelő rendszer: a 38/A. § (2) bekezdése a) pontja aa) alpontja szerinti, az élelmiszerlánc-felügyeleti hatóság által működtetett ügyfélnyilvántartási rendszer és a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti Egységes Mezőgazdasági és Ügyfél-nyilvántartási Rendszer összekapcsolásával kialakított ügyfél törzsadat-kezelő rendszer, melynek célja, hogy az ügyfelek egyidejűleg egyértelműen azonosíthatóak legyenek mind a támogatási szerv, mind az élelmiszerlánc-felügyeleti hatóság számára.
 - 40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, enthomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium;
-- 41. magánállatorvos: a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvényben előírtak szerinti magán-állatorvosi tevékenység végzésére engedéllyel rendelkező állatorvos;
+- 41. szolgáltató állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló törvény szerinti állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;
 - 42. monitoring: az élelmiszerlánc felügyelete során végzett tervezett, kockázatbecslésen alapuló, folyamatos, ellenőrző, országos laboratóriumi vizsgálat-program;
 - 43. növény: növény-egészségügyi vonatkozásban az élő növény és a növény meghatározott élő részei (beleértve a friss gyümölcsöt és a magvakat), így különösen:
   - a) a termés botanikai értelemben, a gyorsfagyasztással tartósítottak kivételével;

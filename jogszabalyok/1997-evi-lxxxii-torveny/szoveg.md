@@ -328,7 +328,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - a) más pénztárba való átlépéssel, az átlépés napját megelőző nappal;
 - b) elhalálozással, az elhalálozás napjával;
 - c) zárt pénztárban a tagsági viszony SzMSz szerinti feltételének megszűnésével; vagy
-- d)
+- d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerinti nyugdíjbiztosítási átutalás esetén a nyugdíjbiztosítási átutalás teljesítésének az uniós intézmény felhívásában megjelölt időpontjában;
 - e)
 - f) a törvény 123. § (6) bekezdése szerinti visszalépéssel, a visszalépés napjával,
 - g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – amennyiben a Tbj.-ben foglaltak alapján harmadik állam állampolgárának vagy hontalannak minősül – döntése szerint, a nyugdíjbiztosítási jogviszonya megszűnésének napjával;

@@ -299,6 +299,8 @@ KÜLSŐ OK (VIS MAIOR) MIATTI KÁRESEMÉNYEK KEZELÉSE
 
 (2) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell a mezőgazdasági termény harmadik személy javára történő termeltetése esetén is.
 
+(3) A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerint közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.
+
 22. § Ha a haszonbérlő e törvény szerinti elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, akkor őt a termőföldről szóló törvényben foglaltak alapján haszonbér-mérséklés illeti meg.
 
 23. § (1) A mező- és erdőgazdaságot sújtó időjárási és más természeti jellegű elháríthatatlan külső oknak (vis maior) minősül:

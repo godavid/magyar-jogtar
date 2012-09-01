@@ -11,10 +11,10 @@ A nemzetgazdaság és a munkaerőpiac követelményeihez, a társadalmi folyamat
 1. § A szakképzés költségeihez való hozzájárulást (a továbbiakban: szakképzési hozzájárulás) e törvény szerint kell teljesíteni. A szakképzési hozzájárulás célja
 
 - a) a szakképzésről szóló törvény hatálya alá tartozó, iskolai rendszerű képzések támogatása,
-- b) a felsőoktatásról szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
-- c)
-- d) az a)–b) pont szerinti képzés fejlesztésének támogatása,
-- e)
+- b)
+- c) a nemzeti felsőoktatási rendszerről szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
+- d)
+- e) az a) és c) pont szerinti képzés fejlesztésének támogatása,
 - f) az iskolarendszeren kívüli felnőttképzésnek a felnőttképzésről szóló törvény alapján történő támogatása.
 
 #### 2. A szakképzési hozzájárulásra kötelezettek köre
@@ -74,8 +74,8 @@ A nemzetgazdaság és a munkaerőpiac követelményeihez, a társadalmi folyamat
 - a) a szakképzésről szóló törvényben foglaltak szerint
   - aa) a szakközépiskola vagy szakiskola (a továbbiakban együtt: szakképző iskola) és a hozzájárulásra kötelezett között létrejött együttműködési megállapodás alapján, az iskolai rendszerű szakképzésben a nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, vagy
   - ab) a szakképző iskola tanulója és a hozzájárulásra kötelezett között létrejött tanulószerződés alapján folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését követő összefüggő szakmai gyakorlatot is – szervezésével,
-- b) a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés szervezésével, amennyiben a gyakorlati képzésre a felsőoktatási intézmény és a hozzájárulásra kötelezett a felsőoktatásról szóló törvény 31. § (1) bekezdése alapján együttműködési megállapodást kötött,
-- c)
+- b)
+- c) a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlattal, amennyiben a szakmai gyakorlatra külső képzőhelyen, a hallgatóval kötött hallgatói munkaszerződés alapján kerül sor.
 
 6. § Az a hozzájárulásra kötelezett, aki hozzájárulási kötelezettségének nem vagy részben vagy időszakosan tesz eleget az 5. § szerinti gyakorlati képzés szervezésével, a bruttó kötelezettségét vagy a 9. § (1) bekezdés c) pontja szerinti nettó kötelezettségét az állami adóhatóságnál vezetett számlára történő befizetéssel teljesíti.
 

@@ -45,7 +45,7 @@ terjed ki.
 
 - a) a helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségét,
 - b) a magyar állam az egészségügyi szakellátási kötelezettségét,
-- c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát járóbeteg-szakellátások tekintetében a 2012. április 30-án lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen, a fekvőbeteg-szakellátások tekintetében az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartás szerinti ellátási területen teljesíti.
+- c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát a 3. § (1) bekezdés a) pontja szerinti esetben az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2012. augusztus 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
 
 (2) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen a magyar állam köteles az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról gondoskodni, kivéve, ha a 8/A. § szerinti eljárás során másik közszolgáltatásért felelős szervhez kerül a szakellátási feladat.
 
@@ -182,10 +182,10 @@ köthet.
 
 3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
 
-- a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő fekvőbeteg-szakellátási kapacitások,
-- b) az a) pont alá nem tartozó kapacitások tekintetében a 2012. április 30-án lekötött kapacitások,
-- c) a 14. § (8) bekezdése szerinti tartalékkapacitások és
-- d) az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitások
+- a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
+- b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. augusztus 31-én lekötött kapacitások,
+- c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
+- d) a 14. § (8) bekezdése szerinti tartalékkapacitások
 
 összessége.
 
@@ -360,7 +360,7 @@ köthet.
 
 8. § (1) Az egészségbiztosító felelős
 
-- a) a 3. § (1) bekezdés a)–c) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
+- a) a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
 - b)–c)
 - d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
 - e) a külön jogszabály szerinti eljárásban előzetesen befogadott kapacitásokon nyújtott szakellátások, valamint
@@ -404,7 +404,7 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 (2) Amennyiben az előzetes többletkapacitás-befogadás az (1) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségbiztosító, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – kormányrendeletben foglaltak szerint – egyetértett.
 
-(3) Az (1) bekezdés szerinti előzetes többletkapacitás-befogadást az egészségbiztosítási szerv tartja nyilván, és honlapján közzéteszi.
+(3) Az (1) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 12. § (1) Az az egészségügyi szolgáltató, amely
 
