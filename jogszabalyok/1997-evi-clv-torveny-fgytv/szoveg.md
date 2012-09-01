@@ -37,69 +37,15 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - p)
 - q) kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
 - r) forgalmazás: valamely termék vállalkozás által – értékesítés, fogyasztás vagy használat céljára ellenérték fejében vagy ingyenesen – történő rendelkezésre bocsátása, ideértve a fogyasztó számára történő felkínálást is,
-- s) forgalomból történő kivonás: olyan intézkedés, amelynek célja a nem biztonságos termék forgalmazásának, bemutatásának, illetve a fogyasztó számára történő felajánlásának megakadályozása,
-- t) visszahívás: olyan intézkedés, amelynek célja a fogyasztó számára forgalmazott nem biztonságos termék visszaszolgáltatása,
-- u) honosított harmonizált szabvány: európai szabványügyi testület által az általános termékbiztonságról szóló 2001/95/EK európai parlamenti és tanácsi irányelv 4. cikkében megállapított eljárással összhangban az európai követelmények meghatározása céljából elfogadott műszaki leírás, amelyet nemzeti szabványként közzétettek,
+- s)
+- t)
+- u)
 - v) szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
 - w) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott fogalom.
 
-### II. Fejezet — A fogyasztók életének, egészségének és biztonságának védelme
+### II. Fejezet
 
-3. § (1) Csak biztonságos termék forgalmazható.
-
-(2) A gyártó köteles gondoskodni a termék biztonságosságáról.
-
-(3) A forgalmazó nem forgalmazhat olyan terméket, amelyről tudja vagy a rendelkezésére álló tájékoztatás vagy szakmai ismeret alapján tudnia kellene, hogy nem biztonságos.
-
-(4) A forgalmazó a külön jogszabályban meghatározottak szerint köteles elősegíteni az általa forgalmazott termék biztonságosságának ellenőrzését, és a veszélyek elkerülése érdekében a gyártókkal és a hatóságokkal együttműködni. Ennek során köteles különösen
-
-- a) a termék által jelentett veszélyekre vonatkozó tájékoztatás továbbadására,
-- b) a termék származási helyének megállapításához és forgalmazásának nyomon követéséhez szükséges dokumentáció megőrzésére és rendelkezésre bocsátására, valamint
-- c) annak biztosítására, hogy a gyártó – a 4/A. § (2) bekezdésének b) pontjában meghatározott kötelezettségének teljesítése érdekében – a forgalmazott termék biztonságosságát ellenőrizhesse.
-
-(5) Az a gyártó vagy forgalmazó, akinek a rendelkezésére álló tájékoztatás vagy szakmai ismeret alapján tudnia kell, hogy az általa forgalmazott termék nem felel meg a 4. § (1) bekezdésében meghatározott biztonságossági követelménynek, a külön jogszabályban meghatározottak szerint köteles a hatáskörrel rendelkező hatóságot haladéktalanul tájékoztatni, egyidejűleg rendelkezésére bocsátani különösen a fogyasztókat érintő veszély elhárítására tett intézkedéseire vonatkozó adatokat.
-
-4. § (1) A termék akkor biztonságos, ha a fogyasztó életét, egészségét, testi épségét a rendeltetésszerű vagy az ésszerűen várható használat mellett – ideértve a használhatóság időtartamát, valamint az üzembe helyezési, beszerelési, karbantartási előírások betartását – nem, vagy csak a rendeltetésszerű vagy ésszerűen várható használatával járó legkisebb mértékben veszélyezteti.
-
-(2) A termék biztonságosságát elsősorban a következők alapján kell megítélni:
-
-- a) a termék (összetétele, csomagolása, valamint összeszerelésére, beszerelésére és karbantartására, felhasználására vonatkozó előírások) alapvető ismérvei,
-- b) a terméknek más termékre gyakorolt – az együttes használat során ésszerűen várható – hatásai,
-- c) a termék külső megjelenítése, címkézése, használati és kezelési útmutatója, hulladékkezelési vagy más tájékoztatója,
-- d) a termék használatának hatása a fokozott veszélynek kitett – különösen a gyermek- és az időskorú – fogyasztókra.
-
-(3) Ha jogszabály vagy közvetlenül alkalmazandó európai uniós jogi aktus a termék meghatározott tulajdonságai tekintetében biztonságossági követelményeket határoz meg, az e követelményeknek megfelelő terméket az ilyen tulajdonságok tekintetében biztonságosnak kell tekinteni.
-
-(4) A honosított harmonizált szabványban meghatározott biztonságossági követelményeknek megfelelő termék biztonságosságát a szabványban meghatározott tulajdonságok tekintetében vélelmezni kell.
-
-(5) A termék biztonságosságának megítélését nem befolyásolja önmagában az a tény, hogy később nagyobb biztonságot nyújtó termék kerül forgalomba.
-
-4/A. § (1) Ha a kockázat figyelmeztetés nélkül nem észlelhető azonnal, a gyártó köteles a fogyasztót írásban figyelmeztetni olyan módon, hogy a fogyasztó felmérhesse a termék rendeltetésszerű vagy ésszerűen várható használatával járó veszélyt, illetve megtehesse a veszély elleni óvintézkedéseket. A figyelmeztetés nem mentesíti a gyártót és a forgalmazót a termék biztonságosságával kapcsolatos kötelezettségei alól.
-
-(2) A gyártó köteles a forgalmazott termékkel kapcsolatos kockázati tényezőket felmérni, és megtenni a megelőzésükhöz, illetve az elhárításukhoz szükséges intézkedéseket, így különösen
-
-- a) a terméket azonosításra alkalmas jelöléssel ellátni,
-- b) a forgalmazott termék biztonságosságát mintavétel útján rendszeresen ellenőrizni,
-- c) a termék biztonságosságával kapcsolatos kifogásokat kivizsgálni,
-- d) a forgalmazót az ellenőrzések megállapításairól tájékoztatni,
-- e) a nem biztonságos terméket a forgalomból kivonni, illetve – a külön jogszabályban meghatározottak szerint – visszahívni.
-
-(3) Ha a gyártó nem tesz eleget a (2) bekezdés a) pontjában foglalt kötelezettségének, a forgalmazó – a gyártó által rendelkezésére bocsátott azonosító jelölések felhasználásával – köteles azt pótolni.
-
-5. § (1) E fejezetet az olyan termékre kell alkalmazni, amelyet a fogyasztóknak szántak, vagy bár nem erre a célra szánták, de fogyasztók által ésszerűen előreláthatóan használható, és gazdasági tevékenység keretében új, használt vagy helyreállított állapotban forgalmaznak.
-
-(2) A fejezet rendelkezéseit megfelelően alkalmazni kell a szolgáltatás nyújtása során, azzal összefüggésben forgalmazott termékre is.
-
-(3) Nem kell alkalmazni e fejezet rendelkezéseit, ha a forgalmazó a termék forgalmazásakor egyértelműen közli a fogyasztóval, hogy
-
-- a) a termék régiség, vagy
-- b) a terméket használat előtt meg kell javítani, rendbe kell hozni, illetve helyre kell állítani.
-
-(4) E fejezet alkalmazásában
-
-- a) a 2. § a) pontjától eltérően fogyasztó az, akinek – önálló foglalkozása és gazdasági tevékenysége körén kívül – fogyasztás vagy használat céljából a terméket forgalmazzák,
-- b) a 2. § c) pontjában meghatározottakon túlmenően gyártó az értékesítési láncban részt vevő valamennyi egyéb olyan vállalkozás, amelynek a tevékenysége a termék biztonságosságát befolyásolhatja,
-- c) a 2. § d) pontjától eltérően forgalmazó az értékesítési láncban részt vevő valamennyi vállalkozás, feltéve, hogy tevékenysége a termék biztonsági jellemzőit nem befolyásolja.
+3–5. §
 
 ### III. Fejezet
 
@@ -115,17 +61,9 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 9–11. §
 
-### A használati és kezelési útmutató
+12. §
 
-12. § (1) Külön jogszabályban meghatározott termék csak használati és kezelési útmutatóval forgalmazható.
-
-(2) Az ilyen használati és kezelési útmutatóban a fogyasztót magyar nyelven, közérthetően és egyértelműen tájékoztatni kell a termék rendeltetésszerű használatának, felhasználásának, eltarthatóságának és kezelésének módjáról.
-
-(3) Az (1) bekezdés szerinti esetben a termékhez csatolt magyar nyelvű használati és kezelési útmutatónak a (2) bekezdésben említett körben tartalmaznia kell mindazt az információt, amelyet a gyártó által csatolt idegen nyelvű használati és kezelési útmutató tartalmaz.
-
-### A megfelelőség értékelése
-
-13. § Olyan termék, amelyre vonatkozóan jogszabály megfelelőségértékelési kötelezettséget ír elő, csak a vonatkozó megfelelőségértékelési eljáráshoz tartozó megfelelőségi tanúsítvánnyal, megfelelőségi nyilatkozattal, illetve megfelelőségi jelöléssel együtt forgalmazható.
+13. §
 
 ### Az ár feltüntetése
 
@@ -151,15 +89,15 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### Különös felelősségi szabályok
 
-16. § (1) A használati és kezelési útmutatóra, a megfelelőség értékelésére, valamint a csomagolásra vonatkozó rendelkezések megtartására a gyártó, az ár feltüntetésére vonatkozó rendelkezések megtartására a forgalmazó, illetve a szolgáltatást értékesítő vállalkozás köteles.
+16. § (1) A csomagolásra vonatkozó rendelkezések megtartására a gyártó, az ár feltüntetésére vonatkozó rendelkezések megtartására a forgalmazó, illetve a szolgáltatást értékesítő vállalkozás köteles.
 
 (2) Ha a gyártó nem tesz eleget az (1) bekezdésben említett kötelezettségeinek, a forgalmazó köteles azt pótolni.
 
-(3) Az eljáró hatóság felhívására a vállalkozás köteles igazolni, hogy a használati és kezelési útmutatóra, a megfelelőség értékelésére, a csomagolásra, illetve az árfeltüntetésre vonatkozó kötelezettségeinek eleget tett.
+(3) Az eljáró hatóság felhívására a vállalkozás köteles igazolni, hogy a csomagolásra, illetve az árfeltüntetésre vonatkozó kötelezettségeinek eleget tett.
 
-(4) A fogyasztó, ha nem kapta meg a jogszabályban előírt használati és kezelési útmutatót, illetve megfelelőségi tanúsítványt vagy megfelelőségi nyilatkozatot, annak pótlását a forgalmazótól is kérheti, függetlenül attól, hogy az megnevezte-e a gyártót.
+(4) A (2) bekezdésben foglalt rendelkezések nem érintik a forgalmazónak a gyártóval szemben érvényesíthető igényeit.
 
-(5) A (2) és (4) bekezdésben foglalt rendelkezések nem érintik a forgalmazónak a gyártóval szemben érvényesíthető igényeit.
+(5)
 
 ### IV/A. Fejezet — A gyermek- és fiatalkorúak védelmét szolgáló különös rendelkezések
 
@@ -679,7 +617,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 (3) Az (1) és (2) bekezdésben meghatározott rendelkezéseken túl, ha külön törvény vagy kormányrendelet eltérően nem rendelkezik, a fogyasztóvédelmi hatóság ellenőrzi
 
 - a) az áru fogyasztók számára való értékesítésére,
-- b) a fogyasztóknak forgalmazott termék minőségére, összetételére, csomagolására, megfelelőségértékelésére, megfelelőségi jelölésére,
+- b) a fogyasztóknak forgalmazott termék minőségére, összetételére, csomagolására,,
 - c) a fogyasztóknak értékesítésre szánt, illetve értékesített áru mérésére, hatósági árára vagy egyébként kötelezően megállapított árára,
 - d) a fogyasztói panaszok intézésére,
 - e) a fogyasztói szerződés keretében érvényesített szavatossági és jótállási igények intézésére,
@@ -701,21 +639,23 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
+(4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
+
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
 - a) elrendelheti a jogsértő állapot megszüntetését,
 - b) megtilthatja a jogsértő magatartás folytatását,
 - c) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti a vállalkozást,
 - d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilthatja az áru forgalmazását, illetve értékesítését,
-- e) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék forgalomból való kivonását vagy visszahívását,
-- f) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék megsemmisítését a környezetvédelmi szempontok figyelembevételével,
+- e)
+- f)
 - g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
 - h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 - i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
-(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
+(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg. A fogyasztóvédelmi hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
 (4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
 
@@ -729,7 +669,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 
-(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék biztonságosságának, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
+(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
@@ -777,7 +717,7 @@ terjedhet.
 (5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
 
 - a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
-- b) a jogsértés a fogyasztók életét, testi épségét, egészségét sérti vagy veszélyezteti, vagy a fogyasztók széles körét érinti, továbbá
+- b) a jogsértés a fogyasztók széles körét érinti, továbbá
 - c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor.
 
 48. § (1)–(2)
@@ -798,8 +738,8 @@ terjedhet.
 
 - a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapítása esetén,
 - b) környezetvédelmi okból,
-- c) a fogyasztók testi épségének, egészségének védelme érdekében,
-- d) a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében,
+- c)
+- d)
 - e) a fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének védelme érdekében, továbbá
 - f) jogsértő tartalmú kereskedelmi kommunikáció vagy internetes honlap esetén.
 
@@ -810,8 +750,8 @@ terjedhet.
 51. § (1) A fogyasztóvédelmi hatóság határozatát – jogorvoslatra tekintet nélkül – közzéteszi, ha
 
 - a) a határozat fellebbezésre tekintet nélkül történő végrehajtását rendelte el a 49. § (2) bekezdése alapján,
-- b) a határozathozatalra azért került sor, mert a fogyasztóvédelmi hatóság az 55. § (1) bekezdésének a) pontja alapján kiadott kormányrendelet szerinti eljárása során megállapítja, hogy a vizsgált termék nem felel meg a biztonságossági követelményeknek, vagy
-- c) a jogsértéssel érintett üzlet ideiglenes bezárását vagy az áru forgalmazásának, illetve értékesítésének megtiltását rendelte el.
+- b)
+- c)
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 
@@ -867,7 +807,7 @@ terjedhet.
 
 55. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) e törvény II. fejezetének végrehajtására, valamint a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre,
+- a)
 - b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 - c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
 - d) az üzleten kívül fogyasztóval kötött szerződésekre,
@@ -884,15 +824,15 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
-56. § Felhatalmazást kapnak az ágazati irányításért felelős miniszterek, hogy a feladat- és hatáskörükbe tartozó termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőségértékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározzák.
+56. §
 
 56/A. § (1)
 
 (2)
 
-(3) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter – hogy az érdekelt miniszterrel egyetértésben – rendeletben állapítsa meg a kizárólag használati és kezelési útmutatóval együtt forgalmazható termékek körét.
+(3)
 
-(4) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben részletes szabályokat állapítson meg a külön jogszabályban meghatározott termékek (termékkörök) használati és kezelési útmutatójának tartalmára.
+(4)
 
 (5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a fogyasztóknak megvételre kínált termékek ára és egységára, illetve szolgáltatások díja feltüntetésére, valamint az egységár meghatározásának alapjául szolgáló mértékegységre vonatkozó részletes szabályokat.
 
@@ -905,7 +845,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - a)
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (7) bekezdése, a 39. § (2) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
-- d) az Európai Parlament és a Tanács 2001/95/EK irányelve (2001. december 3.) az általános termékbiztonságról [a 2. § c) és s)–u) pontja és a 3–5. §, a törvény végrehajtására az 55. § (1) bek. a) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt];
+- d)
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
 - f)–h)
 

@@ -36,7 +36,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 - a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 - b)
-- c) tanköteles: a közoktatásról szóló 1993. évi LXXIX. törvény rendelkezése értelmében az a gyermek, akit az iskola igazgatója tankötelesnek nyilvánított;
+- c)
 - d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
 - e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 - f) tartósan beteg, illetve súlyosan fogyatékos személy:
@@ -85,7 +85,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
   - ab) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 - b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
 
-(2) A súlyos és halmozottan fogyatékos tanuló [a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §] szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
+(2) A súlyos és halmozottan fogyatékos tanuló szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 
 (3) Saját jogán jogosult iskoláztatási támogatásra az a közoktatási intézményben a tankötelezettsége megszűnését követően tanulmányokat folytató személy,
 
@@ -162,12 +162,10 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 ### A tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha a tanköteles, továbbá a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a közoktatási intézmény igazgatójának jelzése alapján a települési önkormányzat jegyzője gyámhatóságként eljárva
+15. § (1) Ha a tanköteles vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény igazgatójának jelzése alapján a gyámhatóság
 
-- a) az adott tanévben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után végzéssel felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményekre,
-- b) az adott tanévben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 15 napon belül –
-  - ba) felfüggeszti az iskoláztatási támogatás folyósítását, ha a gyermek az a) pont szerinti végzés meghozataláig a 16. életévét nem töltötte be, vagy
-  - bb) kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését, ha a gyermek az a) pont szerinti végzés meghozataláig a 16. életévét betöltötte.
+- a) az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményre,
+- b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a kincstárnál az ellátás szüneteltetését.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
 
@@ -176,7 +174,12 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - c) javítóintézetben nevelt vagy büntetés-végrehajtási intézetben lévő, gyermekvédelmi gondoskodás alatt álló,
 - d) szociális intézményben elhelyezett
 
-tanköteles gyermek mulasztott.
+gyermek mulasztott.
+
+(3) A kincstár a gyámhatóság kezdeményezésére megszünteti az iskoláztatási támogatás szüneteltetését, ha
+
+- a) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban nem haladta meg az ötöt, vagy
+- b) a (2) bekezdésben meghatározott esetek valamelyike bekövetkezett.
 
 16–18. §
 
@@ -230,12 +233,12 @@ tanköteles gyermek mulasztott.
 
 21/A. § (1) A gyermekgondozási segélyben részesülő nagyszülő kereső tevékenységet a gyermek hároméves kora után, a 21. § (1) bekezdés b) pontjában meghatározottak szerint folytathat.
 
-(2) A 27. § (1) bekezdésében foglaltakon túl nem jár gyermekgondozási segély a nagyszülőnek, ha – kormányrendeletben meghatározott kivétellel – a gyermeket napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.] helyezik el.
+(2) A 27. § (1) bekezdésében foglaltakon túl nem jár gyermekgondozási segély a nagyszülőnek, ha – kormányrendeletben meghatározott kivétellel – a gyermeket napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben helyezik el.
 
 22. § A kincstár vezetője méltányossági jogkörben eljárva – a 27. §-ban foglalt rendelkezések figyelembevételével – a gyermekgondozási segélyre való jogosultságot
 
 - a) megállapíthatja a gyermeket nevelő személynek, ha a gyermek szülei a gyermek nevelésében három hónapot meghaladóan akadályoztatva vannak;
-- b) megállapíthatja, illetőleg meghosszabbíthatja a gyermek általános iskolai tanulmányainak megkezdéséig, legfeljebb azonban a gyermek 8. életévének betöltéséig, ha a gyermek betegsége miatt gyermekek napközbeni ellátását biztosító intézményben [Gyvt. 41. § (3) bek.] nem gondozható.
+- b) megállapíthatja, illetőleg meghosszabbíthatja a gyermek általános iskolai tanulmányainak megkezdéséig, legfeljebb azonban a gyermek 8. életévének betöltéséig, ha a gyermek betegsége miatt gyermekek napközbeni ellátását biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem gondozható.
 
 ### Gyermeknevelési támogatás
 
@@ -340,13 +343,15 @@ tanköteles gyermek mulasztott.
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
 
-(5) Ha a gyámhatóságként eljáró jegyző a családi pótlék természetbeni nyújtását vagy az iskoláztatási támogatás felfüggesztését rendeli el, a kincstár a jegyző határozatában foglaltak szerint intézkedik az ellátás természetbeni nyújtását, illetve a felfüggesztést elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) utalásáról.
+(5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a kincstár a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak a természetbeni nyújtást elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára utalásáról.
 
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
-(7) A felfüggesztett iskoláztatási támogatást a felfüggesztés elrendelését, illetve megszüntetését követő második hónaptól kell a családtámogatási folyószámlára, illetve a jogosult számára folyósítani.
+(7) Az iskoláztatási támogatás szüneteltetése esetén a kincstár – a (8) bekezdésben foglalt kivétellel – az iskoláztatási támogatás szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
 
-(8) A 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás szüneteltetését a gyámhatóságként eljáró jegyző jelzésének beérkezését követő második hónap első napjától kell elrendelni.
+(8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
+
+(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésének hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a kincstárnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
 
 38. § (1) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, úgy a jogszabálysértés megállapításától visszafelé számított három éven belül járó összeget ki kell fizetni.
 
@@ -468,6 +473,13 @@ tanköteles gyermek mulasztott.
 
 - a) azon ügyekben, amelyekben a közoktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, 15. § (1) bekezdés a) pontja, ennek hiányában 15. § (1) bekezdés b) pontja szerinti jelzése 2012. január 31-ét követően érkezik meg a települési önkormányzat jegyzőjéhez, és
 - b) az iskoláztatási támogatás folyósítása felfüggesztésének 2012. január 31-ét követő, Gyvt. szerinti felülvizsgálata során.
+
+50/B. § (1) Az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel módosított 15. §-t és 37. § (5), (7), (8) és (9) bekezdést azokban az ügyekben kell alkalmazni, amelyekben
+
+- a) a nevelési-oktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, a 15. § (1) bekezdés szerinti jelzése 2012. augusztus 31-ét követően érkezik meg a gyámhatósághoz, vagy
+- b) az iskoláztatási támogatás felfüggesztésének vagy szüneteltetésének felülvizsgálatára 2012. augusztus 31-ét követően kerül sor.
+
+(2) Ha az iskoláztatási támogatás felfüggesztésének (1) bekezdés b) pontja szerinti felülvizsgálata eredményeként a gyámhatóság az iskoláztatási támogatás felfüggesztését megszünteti, és ezzel egyidejűleg intézkedik az iskoláztatási támogatás szüneteltetésének kezdeményezése iránt, az iskoláztatási támogatást a kincstárnak abban az esetben kell ismételten folyósítani, ha az iskoláztatási támogatás szüneteltetésének elrendelésére valamely okból mégsem kerül sor.
 
 51. § Felhatalmazást kap
 

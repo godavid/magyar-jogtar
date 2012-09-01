@@ -167,7 +167,7 @@ a bírósági végrehajtásról
 22. § A bíróság végrehajtási záradékkal látja el
 
 - a) a községi, városi, fővárosi kerületi jegyzőnek a birtokvitában hozott, az elmaradt haszon, a kár és a költség megtérítésére kötelező határozatát,
-- b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
+- b) a Magyar Állatorvosi Kamara etikai bizottságának és országos etikai bizottságának, az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
 - c)
 - d) azt a teljes bizonyító erejű magánokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját,
 - e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
@@ -403,6 +403,67 @@ a bírósági végrehajtásról
 
 (5) A végrehajtó az eljárási cselekményről a jegyzőkönyvön kívül indokolt esetben kép- és hangfelvételt is készíthet. A végrehajtó a felvételeket az iratoktól elkülönítve, az ügy irattárba helyezésétől számított 5 évig tárolja, ezt követően azokat megsemmisíti. A felvételeket a végrehajtó csak a bíróság és a büntetőügyben eljáró hatóság részére adhatja ki, és részükre teheti lehetővé a felvételekbe való betekintést.
 
+### Végrehajtási iratok elektronikus kézbesítési rendszere
+
+35/A. § (1) Az önálló bírósági végrehajtó (a 35/A–35/D. § alkalmazásában: végrehajtó) az e törvényben meghatározott egyes végrehajtói iratok kézbesítése és iratbetekintés biztosítása során a kamarának a végrehajtók, valamint a felek és az eljárásban részt vevő egyéb személyek részére rendelkezésre álló, az interneten elérhető, országosan egységes számítástechnikai rendszere (a továbbiakban: kézbesítési rendszer) használatával, gépi adatfeldolgozással jár el.
+
+(2) Az e törvényben meghatározott végrehajtási iratok adattartama és egyes eljárási cselekmények megtételének ténye a kézbesítési rendszerbe kerül bevitelre, illetve rögzítésre. A kézbesítési rendszerben – a felek eljárási jogainak érvényesülése, azok gyakorlásának egyszerűsítése, gyorsítása érdekében – rögzített adatokat a végrehajtó és a kamara kezeli.
+
+(3) A kézbesítési rendszer titkosítással biztosítja, hogy az adott ügyben keletkezett és a kézbesítési rendszerben kezelt adatokat csak az ismerhesse meg, akinek az eljárás irataiba való betekintést törvény biztosítja. E törvény alkalmazásában titkosítás a közölt információ, adat hozzáférhetetlenné tétele azzal, hogy az csak valamely előre meghatározott vagy meghatározható műszaki megoldás alkalmazásával válik elérhetővé. Az iratbetekintés keretében megismert iratokról vélelmezni kell, hogy azok adatai megegyeznek a kézbesítési rendszerben kezelt iratok adataival.
+
+(4) A kézbesítési rendszer a felhasználók számára fenntartott műveletek elvégzését a felhasználók azonosítását követően teszi lehetővé, és naplózza. A kézbesítési rendszerben a beadványok adatainak rögzítését – azonosítását követően – a végrehajtó (végrehajtói iroda) alkalmazottja is végezheti.
+
+(5) A kamara 30 napig őrzi a kézbesítési rendszerben rögzített, kézbesítendő és kézbesített iratokat, 10 évig pedig a feladás és a kézbesítés igazolásához szükséges elektronikus tértivevényeket, valamint a kézbesítendő és kézbesített iratok adatainak leírását, tulajdonságaik rögzítését szolgáló adatokat (metaadatok).
+
+(6) A kézbesítendő iratokat a kézbesítéstől, illetve a kézbesítési vélelem beálltától számított 30 nap elteltével törölni kell. A kézbesítési rendszer útján előállított elektronikus iratokat archiválni kell, a kamara az archivált elektronikus iratokat 10 évig megőrzi.
+
+(7) A kézbesítési rendszernek alkalmasnak kell lennie arra, hogy
+
+- a) a végrehajtó által meghatározott címzettek részére kézbesítendő elektronikus közokiratot a kézbesítési rendszer felhasználói felületén keresztül, hivatalos elektronikus aláírással és időbélyeggel ellátva, meghatározott formátumban, a meghatározott címzetti kör tagjai részére küldje meg;
+- b) az a) pont szerinti címzettek által a végrehajtónak kézbesítendő iratot a kézbesítési rendszer felhasználói felületén keresztül és minősített elektronikus aláírással és időbélyeggel ellátva, meghatározott formátumban, a címzett végrehajtó részére küldje meg.
+
+(8) A kézbesítési rendszernek alkalmasnak kell lennie a (7) bekezdés szerint kézbesítendő iratok informatikai megfelelőségének ellenőrzésére, és annak során a hibák megjelölésével a kijavításra történő automatizált felszólításra.
+
+35/B. § (1) A kézbesítési rendszer – kivéve az üzemszerű karbantartás idejét – folyamatosan elérhető.
+
+(2) A kézbesítési rendszer működésében keletkezett üzemzavarról és annak megszűnéséről a kézbesítési rendszer a végrehajtókat elektronikus levélben, az üzemzavar idején szolgáltatást igénybe venni kívánó, egyéb felhasználókat pedig a kamara rendszere igénybevételének megkísérlésekor elektronikus üzenetben értesíti.
+
+(3) A törvény által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át fennálló, a kézbesítési rendszerben felmerült üzemzavar akadályozta a kézbesítési rendszer működését.
+
+(4) E törvény alkalmazása során üzemzavarnak kell tekinteni a kézbesítési rendszerben végzett olyan karbantartásokat, tervezett leállításokat is, amelyek a kézbesítési rendszer szolgáltatásainak igénybevételét korlátozzák vagy megakadályozzák.
+
+### Elektronikus kapcsolattartás a végrehajtás foganatosítása során
+
+35/C. § (1) A végrehajtó a kézbesítési rendszer igénybevételével, elektronikus úton tart kapcsolatot a féllel, a végrehajtási eljárás egyéb résztvevőjével, más végrehajtóval, a kamarával, bírósággal, megkeresett hatósággal, személlyel vagy szervezettel (a továbbiakban ezen alcím alatt: fél), ha azt a fél igényli és a kézbesítési rendszer felhasználási szabályzatát írásban elfogadta, vagy ha azt a fél számára törvény kötelezővé teszi.
+
+(2) A fél, illetve, aki a végrehajtóval való kapcsolattartásra jogszabály alapján köteles, a kézbesítési rendszer igénybevételével, elektronikus úton jogosult kapcsolatot tartani a végrehajtóval, a törvényben meghatározott, elektronikus kapcsolattartásra köteles felhasználó pedig a kézbesítési rendszer igénybevételével, elektronikus úton tart kapcsolatot a végrehajtóval.
+
+(3) Az elektronikus kapcsolattartás során a feladó felhasználó az iratot a kézbesítési rendszer igénybevételével kézbesítteti a címzett felhasználónak.
+
+(4) A kézbesítési rendszer felhasználási szabályzata a kamarára, a végrehajtóra, és az elektronikus kapcsolattartásra köteles felhasználóra külön elfogadás nélkül kötelező, egyéb felhasználóra pedig annak kifejezett, írásbeli elfogadásával válik kötelezővé.
+
+(5) Nem tartozik e § hatálya alá az elektronikus árverési rendszer, valamint a fizetési meghagyás alapján kiállított végrehajtható okiratok végrehajtónak történő megküldésére szolgáló elektronikus rendszer útján történő kapcsolattartás.
+
+35/D. § (1) Az elektronikus kapcsolattartás igénylése iránti, legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel ellátott, elektronikus iratba foglalt kérelmet és annak jogszabályban meghatározott mellékleteit a kézbesítési rendszer felhasználói szabályzatának elfogadása mellett bárki előterjeszthet a végrehajtónál. A végrehajtó a kérelem teljesítéseként rögzíti a kézbesítési rendszerben az elektronikus kapcsolattartásra jogosult fél:
+
+- a) természetes személyazonosító adatait, lakóhelyét, személyazonosítás céljából bemutatott okmányának típusát és számát, valamint törvényes képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát; szervezet esetében elnevezését, székhelyét, a nyilvántartását vezető hatóság elnevezését, nyilvántartási számát, valamint a képviselőjének nevét, lakóhelyét és személyazonosítás céljából mellékelt okmányának típusát, számát;
+- b) kézbesítési rendszer használatához szükséges felhasználói nevét és jelszavát;
+- c) kézbesítési rendszer által küldött értesítések fogadására szolgáló elektronikus levelezési címét.
+
+(2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására mellékelt okirat érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat és az azok igazolására szolgáló iratokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
+
+(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább az elektronikus aláírásról szóló törvény szerinti fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegzővel, továbbá titkosító és hitelesítési tanúsítvánnyal.
+
+(4) A fél köteles az (1) bekezdésben meghatározott adataiban bekövetkezett változást haladéktalanul bejelenteni.
+
+(5) A végrehajtó kérelemre rögzíti a kézbesítési rendszerben annak tényét, ha a fél nem kíván a továbbiakban elektronikus kapcsolattartást igényelni.
+
+(6) Az elektronikus kapcsolattartást igénylők (1) bekezdésben foglalt adatait az ügyben eljáró végrehajtó ismerheti meg; az adatok pedig annak a bíróságnak, nemzetbiztonsági szolgálatoknak és büntetőügyben eljáró hatóságnak továbbíthatók, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelöli annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+
+(7) A végrehajtó tájékoztatja a felet az első kapcsolatfelvétel alkalmával az elektronikus kapcsolattartás és az elektronikus kapcsolattartás igénylése iránti kérelem előterjesztésének lehetőségéről.
+
+(8) A végrehajtó a fél kérelmére az elektronikus kapcsolattartási szabályok alkalmazása esetén is engedélyt adhat a papír alapú írásbeli kapcsolattartásra, ha az iratok kézbesítése – az iratok nagy terjedelme miatt – más módon nem vagy csak jelentős költségráfordítással lenne lehetséges.
+
 ### Kézbesítés
 
 36. § (1) A végrehajtó a végrehajtás foganatosításának megkezdésekor a helyszínen adja át a végrehajtható okiratot az adósnak, és egyúttal felhívja őt az azonnali teljesítésre.
@@ -426,6 +487,31 @@ a bírósági végrehajtásról
 (3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
 
 (4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet és a 4/2009/EK tanácsi rendelet szerinti határozat végrehajtására indult eljárásban.
+
+37/C. § (1) A végrehajtó a végrehajtás foganatosítása során keletkezett iratokat – ha a kézbesítési rendszer használata e törvény szerint kötelező – a kézbesítési rendszer igénybevételével elektronikus úton kézbesíti.
+
+(2) A kézbesítési rendszer az irat feladásának tényéről elektronikus okirati formában
+
+- a) a feladó számára a feladást tanúsító elektronikus tértivevényt állít ki a jogszabályban meghatározott tartalommal és megküldi a feladó elektronikus levélcímére;
+- b) a címzett számára elektronikus tértivevényt állít ki a jogszabályban meghatározott tartalommal és megküldi a címzett elektronikus levélcímére.
+
+(3) A kézbesítési rendszer az irat átvételének tényéről elektronikus okirati formában a feladó számára az átvételt tanúsító, elektronikus tértivevényt állít ki a jogszabályban meghatározott tartalommal és megküldi a feladó elektronikus levélcímére.
+
+(4) A kamara a kézbesítési rendszer működtetése során
+
+- a) a kézbesítési rendszerben kézbesítendő és kézbesített elektronikus iratoknak,
+- b) a feladás és a kézbesítés igazolásához, a feladásról szóló értesítéshez szükséges elektronikus tértivevényeknek, valamint
+- c) a kézbesítendő és kézbesített elektronikus iratok metaadatainak elkülönített elhelyezésére szolgáló tárhely fenntartásával biztosítja a felhasználók számára a kézbesítési rendszerben rögzített iratok és értesítések megismerésének lehetőségét.
+
+(5) Az irat átvételének napja az a nap, amikor a címzett az iratot tartalmazó dokumentumnak a kézbesítési rendszerből való letöltésének feltételéül szolgáló tértivevényen az átvételt igazoló tértivevényt kitölti és elektronikus aláírásával, valamit időbélyegzővel látja el.
+
+(6) Ha a címzett az iratot a kézbesítési rendszerben részére fenntartott tárhelyen való elhelyezésétől és az erről szóló értesítés elektronikus levélcímére történő elküldésétől számított ötödik munkanapon sem veszi át, a következő munkanapon az iratot kézbesítettnek kell tekinteni (kézbesítési vélelem). A kézbesítési vélelem beálltáról a kézbesítési rendszer a címzett és a feladó részére értesítést helyez el a részükre fenntartott tárhelyeken, valamint a címzett részére a titkosított küldeményt közvetlenül is megküldi.
+
+(7) A címzett a neki szóló iratot a kézbesítési rendszerben az őrzési időn belül nyithatja meg.
+
+(8) A végrehajtó az elektronikusan kézbesítendő, de papír alapon rendelkezésre álló iratok másolatát hivatalos elektronikus irattá alakítja és intézkedik azok a kézbesítési rendszeren keresztül történő elektronikus kézbesítéséről; illetve a papír alapon kézbesítendő, de elektronikusan rendelkezésre álló iratok másolatát a kézbesítési rendszerből a végrehajtó egyedileg nyomtatja ki és intézkedik azok papír alapú kézbesítéséről.
+
+(9) A kézbesítési rendszer üzemeltetési költségei a kamarát terhelik, a felhasználók számára annak használata ingyenes.
 
 ### A végrehajtást kérő részvétele az eljárásban
 
@@ -949,6 +1035,10 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Az adós szabad rendelkezése alól zárolás iránti végrehajtói felhívás alapján kikerült összeg a zárolással biztosított követelés behajtása érdekében kiadott átutalási végzés vagy hatósági átutalási megbízás alapján utalható át vagy utalható ki.
 
+79/G. § (1) A bank és a takarékszövetkezet az adós pénzforgalmi szolgáltatónál kezelt összegeinek a felkutatása iránti végrehajtói intézkedések fogadása és a végrehajtói megkeresések megválaszolása érdekében e törvény szerinti elektronikus kapcsolattartásra köteles.
+
+(2) Az (1) bekezdés szerinti végrehajtói intézkedést tartalmazó, több címzett megjelölésével feladásra kerülő irat, valamint a megkeresésre adott válaszokat tartalmazó iratok tekintetében a kézbesítési rendszer a 35/A. § (7) bekezdése szerinti szolgáltatást nyújtja.
+
 ### Átutalási végzés
 
 80. § (1) A végrehajtást kérő kérelmére a végrehajtási lap kiállítására, illetve a végrehajtási záradékolásra jogosult bíróság a pénzkövetelés behajtása céljából a pénzforgalmi szolgáltatónál kezelt, adós rendelkezése alatt álló, a 7. § (3) bekezdésének a) pontjában meghatározott összeg – ideértve a nem pénzforgalmi számlán kezelt összegeket is – végrehajtás alá vonására átutalási végzést hoz.
@@ -1292,7 +1382,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 - a) a felek nevét,
 - b) az árverés helyét és idejét,
-- c) az árverésre kerülő ingóságokat és becsértéküket,
+- c) az árverésre kerülő ingóságokat és becsértéküket, valamint a becsérték 2%-ának megfelelő, ötszázezer Ft-ot meg nem haladó becsérték esetén száz forintra, egymillió Ft-ot meghaladó becsérték felett pedig ezer forintra kerekített licitküszöböt,
 - d) azt, hogy az ingóságokat az árverés előtt hol és mikor lehet megnézni.
 
 121. § Az árverési hirdetményt kézbesíteni kell:
@@ -1310,11 +1400,11 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3)
 
-(4) A végrehajtó az árverési hirdetményt közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az elektronikus árverési rendszer az árverést követő napon automatikusan törli a hirdetményt az elektronikus árverési hirdetmények nyilvántartásából.
+(4) A végrehajtó az árverési hirdetményt – legalább a (2) bekezdésben foglalt időtartamban – közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az elektronikus árverési rendszer az árverést követő napon automatikusan törli a hirdetményt az elektronikus árverési hirdetmények nyilvántartásából.
 
 (5) A végrehajtó bármelyik fél kérelmére gondoskodik arról, hogy az árverést egyéb megfelelő módon is közhírré tegyék.
 
-(6) Az árverés közhírré tételéhez fűződő jogkövetkezmény a bíróság hirdetőtábláján történt kifüggesztéshez kapcsolódik.
+(6) Az árverés közhírré tételéhez fűződő jogkövetkezmény az elektronikus árverési hirdetmények nyilvántartásában történő közzétételhez kapcsolódik.
 
 123. § (1) Az árverező személyesen vagy megbízottja, illetve képviselője útján árverezhet.
 
@@ -1330,13 +1420,23 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (4) Az árverező a vételi ajánlatot nem vonhatja vissza.
 
-123/A. §
+123/A. § (1) Ha törvény a dologra nézve elővásárlási jogot enged annak kényszerértékesítésére, azt e törvény alkalmazásában előárverezési jognak kell tekinteni (a továbbiakban: előárverezési jog). Előárverezési jog szerződéssel nem alapítható. Az előárverezési jog bírósági végrehajtás során történő gyakorlásának feltételeit e törvény határozza meg.
+
+(2) Az előárverezésre jogosult az árverésről az árverési hirdetmény közzétételével, ha pedig részére e törvény a hirdetmény kézbesítését írja elő, annak kézbesítésével szerezhet tudomást.
+
+(3) Az előárverezésre jogosultat az árverésen az árverező jogállása illeti meg, ha igazolja az (1) bekezdés szerinti jog fennállását és teljesíti e törvénynek az árverezőre vonatkozó feltételeit. Az előárverezésre jogosult ebben az esetben – amellett, hogy az árverésen árverezőként is részt vehet – valamennyi vételi ajánlat vonatkozásában az árverés (és annak esetleges meghosszabbítását követő) befejezéséig a legmagasabb összegű, érvényes vételi ajánlattal megegyező összegű vételi ajánlat tételével gyakorolhatja előárverezési jogát.
+
+(4) Ha az előárverezésre jogosult a végrehajtóhoz intézett nyilatkozatában a vételi ajánlat tartalmát magáévá teszi és az árverés befejezéséig nem érkezik magasabb, érvényes vételi ajánlat, az előárverezésre jogosultat a legtöbbet felajánló árverező jogállása illeti meg.
+
+(5) Ha törvény eltérően nem rendelkezik, az előárverezési jog a jogutódra átszáll. Az előárverezési jog átruházása semmis.
+
+(6) Az elővásárlási jog bírósági végrehajtás során az előárverezési jog alkalmazási körén kívül nem gyakorolható.
 
 124. § (1) Az adós meghatározhatja az ingóságok árverezésének sorrendjét. Ha nem élt ezzel a jogával, az ingóságokat a foglalási jegyzőkönyvben feltüntetett sorrendben kell elárverezni.
 
-(2) Az árverés megkezdésekor a végrehajtó az árverezőkkel közli az ingóság becsértékét (a kikiáltási árat), és felhívja őket ajánlatuk megtételére.
+(2) Az árverés megkezdésekor a végrehajtó az árverezőkkel közli az ingóság becsértékét (a kikiáltási árat), és felhívja őket ajánlatuk megtételére. A vételi ajánlat akkor érvényes, ha az legalább a licitküszöb összegével meghaladja az előzőleg tett vételi ajánlatot.
 
-(3) Ha a felajánlott vételár nem éri el a kikiáltási árat, azt fokozatosan lejjebb kell szállítani a becsérték egynegyedéig.
+(3) Ha a felajánlott vételár nem éri el a kikiáltási árat, azt fokozatosan lejjebb kell szállítani a becsérték 35%-áig.
 
 (4) Az árverést addig kell folytatni, amíg ajánlatot tesznek. Ha nincs további ajánlat, a végrehajtó a felajánlott legmagasabb vételár háromszori kikiáltása után kijelenti, hogy az ingóságot a legtöbbet ajánló megvette.
 
@@ -1350,7 +1450,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3) A miniszter az adópolitikáért felelős miniszterrel egyetértésben az árverési vételár megfizetésének az (1) bekezdésben foglalttól eltérő módját rendeletben is meghatározhatja.
 
-126. § (1) A végrehajtást kérőnek joga van követelése és járulékai erejéig az árverésen készpénzfizetés nélkül venni, feltéve, hogy az ingóságot csak az ő követelése fejében foglalták le, illetőleg — több végrehajtást kérő esetén — valamennyien hozzájárultak a készpénzfizetés nélküli vételéhez; az elsőbbségi igényt bejelentő hozzájárulása is szükséges.
+126. § (1) A végrehajtást kérőnek joga van követelése és járulékai erejéig az árverésen készpénzfizetés nélkül venni, feltéve, hogy az ingóságot csak az ő követelése fejében foglalták le, illetőleg — több végrehajtást kérő esetén — valamennyien hozzájárultak a készpénzfizetés nélküli vételéhez; a végrehajtási eljárásba bekapcsolódott zálogjogosult hozzájárulása is szükséges.
 
 (2) Az (1) bekezdés akkor alkalmazható, ha a meg nem fizetett illeték, az állam által előlegezett költség, illetőleg a végrehajtási eljárás költsége már fedezve van, vagy azokat a végrehajtást kérő azonnal kifizeti.
 
@@ -1366,7 +1466,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) A végrehajtó a helyszínen ellenőrizheti, hogy a forgalmazó eleget tesz-e bizományosi kötelezettségének.
 
-(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték egynegyedére szállítja le. Ha az értékesítés sikertelen, nincs helye a végrehajtást kérő által történő átvételnek (134. §), az ingóságot vissza kell adni az adósnak.
+(3) Ha a dolgot nem sikerült értékesíteni, 45 nap elteltével a végrehajtó a vételárat 15 napos határidőkkel fokozatosan a becsérték 35%-ára szállítja le. Ha az értékesítés sikertelen, nincs helye a végrehajtást kérő által történő átvételnek (134. §), az ingóságot vissza kell adni az adósnak.
 
 128. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 35. §-ban említetteken kívül – feltünteti:
 
@@ -1397,7 +1497,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 131. § (1) A névre szóló, tagsági jogról szóló vagy egyébként korlátozottan forgalomba hozható értékpapír értékesítése céljából a végrehajtó befektetési szolgáltatót bíz meg azzal, hogy az értékpapírt zárgondnokként kezelje, és a belőle származó jövedelmet utalja át a végrehajtói letéti számlára. Dematerializált értékpapír értékesítésével elsősorban a számlavezető befektetési szolgáltatót kell megbízni; ha ez nem lehetséges, bármely befektetési szolgáltató részére adható megbízás.
 
-(2) Ha a végrehajtást kérő kívánja, az (1) bekezdés alkalmazása helyett az értékpapírt — a forgalmi korlátozására vonatkozó rendelkezésre tekintet nélkül — árverésen kell értékesíteni. Ilyenkor az adóssal azonos jellegű tagsági joggal rendelkező másik tagot az értékpapírra elővásárlási jog illeti meg.
+(2) Ha a végrehajtást kérő kívánja, az (1) bekezdés alkalmazása helyett az értékpapírt — a forgalmi korlátozására vonatkozó rendelkezésre tekintet nélkül — árverésen kell értékesíteni. Ilyenkor az adóssal azonos jellegű tagsági joggal rendelkező másik tagot az értékpapírra előárverezési jog illeti meg.
 
 (3) Az első árverés sikertelensége esetén az (1) bekezdés szerint kell eljárni.
 
@@ -1405,7 +1505,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 132. § (1) A gazdálkodó szervezet vagyonából az adóst megillető üzletrészt a végrehajtó árverésen értékesíti.
 
-(2) Az árverésen az érintett gazdálkodó szervezet tagját, a gazdálkodó szervezetet, illetőleg az általa kijelölt személyt — ebben a sorrendben — az üzletrészre elővásárlási jog illeti meg.
+(2) Az árverésen az érintett gazdálkodó szervezet tagját, a gazdálkodó szervezetet, illetőleg az általa kijelölt személyt — ebben a sorrendben — az üzletrészre előárverezési jog illeti meg.
 
 (3) A végrehajtó az árverési jegyzőkönyv másolatát az üzletrész tulajdonosában bekövetkezett változás bejegyzése végett megküldi a gazdálkodó szervezetnek és a cégbíróságnak.
 
@@ -1415,13 +1515,18 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Elektronikus árverés
 
-132/B. § (1) A végrehajtást kérő kérelmére a 100 ezer Ft-ot elérő becsértékű ingóságot a végrehajtó elektronikus árverés útján értékesíti, ha a szállítási és tárolási költségeket a végrehajtást kérő megelőlegezte.
+132/B. § (1) A végrehajtó elektronikus árverés útján értékesíti
+
+- a) a végrehajtást kérő kérelmére a 100 ezer Ft-ot elérő becsértékű ingóságot, ha a szállítási és tárolási költségeket a végrehajtást kérő megelőlegezte,
+- b) az ingóságot, ha annak őrzése vagy tárolása egyébként biztosított,
+- c) az üzletrészt és
+- d) az értékpapírt, ha e törvény az értékpapír értékesítésére árverés tartását írja elő.
 
 (2) Nem tartható elektronikus árverés romlandó dolgok értékesítésére, vagy ha e törvény az ingóság bizományosi értékesítését írja elő.
 
 (3) A végrehajtó az ingóságot elszállítja és gondoskodik a tárolásáról.
 
-(4) Elektronikus árverés tartása során az árverés szabályait a 132/C–G. §-okban foglalt eltérésekkel kell alkalmazni.
+(4) Elektronikus ingóárverés tartása során az ingóárverés szabályait a 132/C–G. §-okban foglalt eltérésekkel kell alkalmazni.
 
 132/C. § (1) Az ingó- és ingatlan-árverési hirdetmény elektronikus úton történő közzétételére és a vételi ajánlatok elektronikus úton történő megtételére a kamara által működtetett, az interneten folyamatosan elérhető informatikai keretrendszer (a továbbiakban: elektronikus árverési rendszer) szolgál, amelyen keresztül elérhető a felhasználók számára az elektronikus árverési hirdetmények nyilvántartása, az árverezők elektronikus nyilvántartása és a licitnapló.
 
@@ -1431,7 +1536,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 132/D. § (1) A végrehajtó az árverési hirdetményt az elektronikus árverési hirdetmények nyilvántartásában teszi közzé; az árverés közhírré tételéhez fűződő jogkövetkezmény a hirdetmény közzétételétől a licitnapló lezárásáig (a továbbiakban: közzétételi időtartam) történő közzétételhez fűződik. Nem tekinthető közzétettnek az árverés, ha az elektronikus árverési hirdetmények nyilvántartása a közzétételi időtartam 10%-át meghaladó időtartamban nem volt elérhető a felhasználók számára.
 
-(2) Az árverési hirdetmény a 120. §-ban foglaltak mellett az árverési előleg és a legalacsonyabb vételár összegét, az árverés időtartamát és a vételi ajánlat megtételének módját, valamint a végrehajtói letéti számla számát tartalmazza.
+(2) Az árverési hirdetmény a 120. §-ban foglaltak mellett az árverési előleg és a legalacsonyabb vételár összegét, az árverés időtartamát és a vételi ajánlat megtételének módját, valamint a végrehajtói letéti számla számát tartalmazza. Az elektronikus árverési hirdetmények nyilvántartásában a hirdetmény mellett közzé kell tenni az ingóságnak a rendelkezésre álló adatok szerinti leírását és a 132/B. § (1) bekezdés a) és b) pontja szerinti ingóságról készült képfelvételt.
 
 (3) Az elektronikus árverési rendszer az árverési hirdetmény közzétételének és a licitnapló lezárásának (az árverés befejezésének) időpontját automatikusan rávezeti a hirdetményre, amely ezzel kiegészülve jelenik meg az elektronikus árverési hirdetmények nyilvántartásában.
 
@@ -1465,13 +1570,13 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 - a) a becsérték 10%-ának megfelelő árverési előleget a végrehajtónál letétbe helyezte, vagy átutalta és azt a végrehajtói letéti számlán jóváírták;
 - b) az árverésből nincs kizárva; és
-- c) igazolta azt, hogy üzletrész árverésén a törvény szerint elővásárlásra jogosult.
+- c) – előárverezési jog gyakorlására is lehetőséget adó felhasználói jogosultság igénylése esetén – igazolta azt, hogy az árverésen e törvény szerint előárverezésre jogosult.
 
 (2) Az árverező az árverési hirdetménynek az elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követően az árveréshez tartozó licitnapló lezárásáig az aktivált felhasználói nevének és jelszavának, valamint a vételi ajánlat összegének megadásával elektronikus úton vételi ajánlatot tehet az ingóságra.
 
-(3) A vételi ajánlatot az elektronikus árverési rendszer automatikusan rögzíti, és egyidejűleg közzéteszi az árveréshez tartozó licitnaplóban. Nem teszi közzé a vételi ajánlatot az elektronikus árverési rendszer, ha az nem éri el a becsérték egynegyedét vagy a 124. § (5) bekezdésében meghatározott összeget.
+(3) A vételi ajánlatot az elektronikus árverési rendszer automatikusan rögzíti, és egyidejűleg közzéteszi az árveréshez tartozó licitnaplóban. Nem teszi közzé a vételi ajánlatot az elektronikus árverési rendszer, ha az nem haladja meg legalább a licitküszöb összegével az előzőleg közzétett vételi ajánlatot, és akkor sem, ha nem éri el a becsérték 35%-át vagy a 124. § (5) bekezdésében meghatározott összeget.
 
-(4) Az árverező az elektronikus vételi ajánlatot nem vonhatja vissza.
+(4) Ha az árverező vételi ajánlatának közzétételét követően az elektronikus árverési rendszer újabb vételi ajánlatot tesz közzé a licitnaplóban, az árverező kérelmére a végrehajtó 3 munkanapon belül intézkedik az árverési előleg átutalási költséggel csökkentett részének visszautalásáról; kérelem hiányában az árverési vevőn kívüli többi árverezőnek az előleget az árverés befejezése után kell visszautalni.
 
 (5) A licitnapló az érkezés sorrendjében a következő adatokkal tartalmazza a megtett vételi ajánlatokat:
 
@@ -1479,28 +1584,25 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - b) az árverező egyedi azonosítója,
 - c) a vételi ajánlat közzétételének időpontja.
 
-(6) Az árverés az árverési hirdetmény közzétételét követő 30. nap 20 órájáig tart; az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, továbbá azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában nem volt elérhető a felhasználók számára.
+(6) Az árverés az árverési hirdetmény közzétételét követő 30. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart, azzal, hogy ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó vételi ajánlat megtételét követő ötödik perc végéig. Az árverés befejezésének időpontjában az elektronikus árverési rendszer a licitnaplót automatikusan lezárja és közzéteszi abban a lezárás időpontját, azt, hogy az árverési hirdetmény a közzétételi időtartam hány százalékában volt elérhető a felhasználók számára, és azt a kezdő és befejező időpontot, melyek között a hirdetmény nem volt elérhető a felhasználók számára.
 
 (7) Ha a végrehajtás a licitnapló automatikus lezárása előtt befejeződik, vagy már nem állnak fenn az ingóság árverési értékesítésének feltételei, a végrehajtó – ennek feltüntetésével – zárja le a licitnaplót.
 
-(8) A licitnapló nyilvános, díjmentesen megtekinthető; de az utolsóként közzétett vételi ajánlatokat megelőzően közzétett vételi ajánlatokat csak az elektronikus árverési rendszer árverezőként történő használatára jogosult felhasználók tekinthetik meg.
+(8) A licitnapló nyilvános, díjmentesen megtekinthető.
 
 132/G. § (1) Az ingóság árverési vevője – a (2) bekezdésben foglalt kivétellel – az automatikusan lezárt licitnaplóban utolsóként közzétett ajánlatot tevő árverező.
 
-(2) Üzletrész árverezése esetén az elővásárlásra jogosult
+(2) Az előárverezési jog jogosultja – a 132/F. § (1) bekezdés c) pontja szerinti aktiválást követően – az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatja előárverezési jogát. Az előárverezési jogot gyakorló nyilatkozatot az elektronikus árverési rendszer az előzőleg közzétett, legmagasabb összegű, érvényes vételi ajánlattal megegyező összegű vételi ajánlatként teszi közzé automatikusan a licitnaplóban.
 
-- a) valamennyi közzétett ajánlat vonatkozásában az árverés befejezéséig,
-- b) az utolsóként közzétett vételi ajánlat vonatkozásában a licitnapló lezárását követő 5. munkanap 20 órájáig
-
-az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatja elővásárlási jogát; az elővásárlási jogot gyakorló nyilatkozatot az elektronikus árverési rendszer automatikusan közzéteszi az árverési hirdetményen.
-
-(3) A végrehajtó az árverés befejezését követően felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követően a végrehajtó átadja az ingóságot az árverési vevőnek.
+(3) A végrehajtó az árverés befejezését követően felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követően a végrehajtó átadja az ingóságot az árverési vevőnek. Az árverési vevő letétbe helyezett előlegét be kell számítani a vételárba.
 
 (4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
 
 (5) Az árverés sikertelen, ha nem tettek közzé a licitnaplóban vételi ajánlatot, vagy az árverési vevő a vételárat nem fizette meg a (3) bekezdésben foglaltak szerint.
 
-(6) Az árverés sikertelensége esetén a második árverést az általános szabályok szerint kell megtartani. Nem kell megtartani a második árverést, ha az árverési vevő annak megkezdése előtt befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget; ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a (3) bekezdés alapján elvesztett előleget.
+(6) Az árverés sikertelensége esetén a második árverést az első árverésre vonatkozó szabályok megfelelő alkalmazásával kell megtartani azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet. Nem kell megtartani a második árverést, ha az árverési vevő annak megkezdése előtt befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget; ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a (3) bekezdés alapján elvesztett előleget.
+
+(7) Ha a második árverésen az ingóságot alacsonyabb áron adták el, mint amelyet az első árverésen a legmagasabb ajánlatot tett árverező felajánlott, a különbözetet a korábbi legmagasabb ajánlatot tevő és a vételár fizetését elmulasztó árverező a végrehajtó felszólítására 15 napon belül köteles megtéríteni. Ha ezt elmulasztja, a végrehajtó az erről szóló iratokat beterjeszti a végrehajtást foganatosító bírósághoz, amely végzéssel kötelezi a fizetést elmulasztó árverezőt a különbözet megtérítésére; a megtérítendő összegbe az elvesztett előleget be kell számítani. Az elvesztett előleg és a fizetést elmulasztott árverező által megtérített különbözet a végrehajtás során befolyt összeget növeli.
 
 ### Ingóság árverésen kívüli eladása
 
@@ -1514,15 +1616,17 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### Az ingóság átvétele a végrehajtást kérő által
 
-134. § (1) Ha az ingóságot nem sikerült értékesíteni, a végrehajtást kérő az ingóságot a becsérték egynegyedének megfelelő összeg fejében átveheti.
+134. § (1) Ha az ingóságot nem sikerült értékesíteni, a végrehajtást kérő az ingóságot a becsérték 35%-ának megfelelő összeg fejében átveheti.
 
-(2) Ha több végrehajtást kérő van, vagy elsőbbségi igényt jelentettek be, az ingóságot az veheti át, aki a becsérték egynegyedét meghaladó legmagasabb árajánlatot tette. Ha a becsérték egynegyedének megfelelően vagy azt meghaladóan több egyenlő árajánlatot tettek, az átvételi jogosultság a 165. §-ban meghatározott sorrend szerint alakul.
+(2) Ha több végrehajtást kérő van, vagy a zálogjogosult végrehajtási eljárásba történő bekapcsolódását a bíróság engedélyezte, az ingóságot az veheti át, aki a becsérték 35%-át meghaladó legmagasabb árajánlatot tette. Ha a becsérték 35%-ának megfelelően vagy azt meghaladóan több egyenlő árajánlatot tettek, az átvételi jogosultság a 165. §-ban meghatározott sorrend szerint alakul.
 
-(3) A becsérték egynegyedének, illetőleg az azt meghaladó átvételi árnak megfelelő összeget be kell számítani a végrehajtást kérő követelésébe.
+(3) A becsérték 35%-ának, illetőleg az azt meghaladó átvételi árnak megfelelő összeget be kell számítani a végrehajtást kérő követelésébe.
+
+(4) Ha a második árverés az árverési vételár megfizetésének elmulasztása [132/G. § (5) bekezdés] miatt volt sikertelen és az ingóságot alacsonyabb átvételi áron vették át, mint amelyet az árverésen a legmagasabb ajánlatot tevő és a vételár fizetését elmulasztó árverező felajánlott, a 132/G. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a fizetést elmulasztó árverező által megtérítendő különbözet az általa felajánlott vételár és az átvételi ár különbségének – az elvesztett előleggel csökkentett – összege.
 
 ### Az ingóság visszaadása az adósnak
 
-135. § (1) Ha az ingóságot nem sikerült értékesíteni, és azt a végrehajtást kérő nem vette át, a végrehajtó felhívja az adóst, hogy az ingóságot 30 napon belül vigye el.
+135. § (1) Ha az ingóságot nem sikerült elektronikus árverésen értékesíteni, és azt a végrehajtást kérő nem vette át, a végrehajtó olyan ingóság esetében, amelynek őrzése vagy tárolása biztosított – immár a kikiáltási ár korlátlan leszállítása mellett – újabb elektronikus árverést tarthat. Egyéb ingóságok esetében, vagy ha az utóbb kitűzött elektronikus árverés is sikertelen maradt, a végrehajtó felhívja az adóst, hogy az ingóságot 30 napon belül vigye el.
 
 (2) Ha az adós az ingóságért a végrehajtónál jelentkezett, a végrehajtó az ingóságot feloldja a foglalás alól, és visszaadja az adósnak.
 
@@ -1555,7 +1659,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését – ideértve az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését – követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
 
-(2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van. A foglalás a végrehajtási jog bejegyzésével valósul meg.
+(2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, valamint a lefoglalt ingatlant érintően a földhasználati nyilvántartásba bejegyzett földhasználat jogcíméről és időtartamáról. A foglalás a végrehajtási jog bejegyzésével valósul meg.
 
 (3) Az ingatlanügyi hatóság a végrehajtási jog bejegyzését – ideértve a megelőző beadványokat is – soron kívül intézi el.
 
@@ -1571,15 +1675,15 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### Az ingatlan értékesítésének időpontja
 
-139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap eltelt.
+139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt a végrehajtást kérő kérelmére akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap eltelt.
 
 (2) Ha a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt az igényper jogerős befejezése után lehet intézkedni.
 
-(3) A végrehajtó az ingatlan árveréséről szóló hirdetményt a becsérték megállapításától, végrehajtási kifogás előterjesztése esetén a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől számított 3 hónapon belül köteles közzétenni az elektronikus árverési hirdetmények nyilvántartásában.
+(3) A végrehajtó az ingatlan árveréséről szóló hirdetményt a becsérték megállapításától, végrehajtási kifogás előterjesztése esetén a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől számított 30 napon belül köteles közzétenni az elektronikus árverési hirdetmények nyilvántartásában.
 
 ### Az ingatlan becsértéke
 
-140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – szakértő becsüs véleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a szakértő becsüs véleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
+140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
 
 (2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van.
 
@@ -1591,7 +1695,9 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
 
-(7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság — szükség esetén szakértő közreműködésével — állapítja meg.
+(7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság – szükség esetén szakértő közreműködésével – állapítja meg. A becsérték megállapításával szemben előterjesztett, a becsérték bíróság általi megállapítására irányuló végrehajtási kifogás előterjesztésével együtt letétbe kell helyezni az igazságügyi szakértő díjának fedezésére szolgáló, az igazságügyért felelős miniszter rendeletében meghatározott összeget.
+
+(8) Ha a becsérték megállapítása (kifogás esetén bíróság általi jogerős megállapítása) óta három év eltelt, és az ingatlan még nem került értékesítésre, a végrehajtó bármelyik fél kérelmére az árverés kitűzése előtt a becsértéket az (1) és (2) bekezdésben foglaltak alkalmazásával ismételten megállapítja.
 
 ### A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
@@ -1620,27 +1726,25 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (4) Ha a (3) bekezdés e) pontjában foglalt esetben a végrehajtást kérők nem egyeztek bele a lakottan történő értékesítésbe, az adósnak a lakásban maradására vonatkozó korábbi szerződéses kikötések a hatályukat vesztik.
 
-142. § Az árverést a következő helyeken lehet megtartani:
+(5) A (3) bekezdés c) pontjában foglalt esetben is beköltözhetően kell értékesíteni az adós tulajdoni hányadát, ha a tulajdonostársak ingatlan használatára vonatkozó megállapodása vagy bíróság határozata alapján az adós a nem adós tulajdonostárs által használt ingatlan- vagy épületrésztől elkülönülten használható ingatlan- vagy épületrész használatára jogosult.
 
-- a) a bíróság épületében,
-- b) a községi, városi, fővárosi kerületi önkormányzat épületében vagy a felsorolt önkormányzatok jegyzője által kijelölt helyiségben,
-- c) az ingatlan fekvésének helyén,
-- d) a végrehajtó által kijelölt más helyen.
+142. § Az ingatlan árverése során az elektronikus ingóárverés szabályait a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
-143. § Az árverést a végrehajtó árverési hirdetménnyel tűzi ki, és ebben feltünteti:
+143. § (1) Az árverést a végrehajtó árverési hirdetménnyel tűzi ki, és ebben feltünteti:
 
 - a) nevét, hivatali helyiségének címét, telefonszámát, letéti számlájának számát,
 - b) a felek nevét, a főkövetelések jogcímét és összegét,
-- c) az ingatlan ingatlan-nyilvántartási adatait [helyrajzi szám, művelési ág, a fekvés helye, tulajdonos, a 137. § (1) bekezdése szerinti terhek],
+- c) az ingatlan ingatlan-nyilvántartási adatait [helyrajzi szám, művelési ág, a fekvés helye, tulajdonos, a 137. § (1) bekezdése szerinti terhek] és a földhasználati nyilvántartásba bejegyzett földhasználat jogcímét és időtartamát,
 - d) az ingatlan tartozékait, jellemző sajátosságait,
 - e) az ingatlan lakott vagy beköltözhető állapotban történő értékesítését,
-- f) az ingatlan becsértékét,
+- f) az ingatlan kikiáltási árát,
 - g) az árverési előleg (a továbbiakban: előleg) összegét,
-- h) azt, hogy az árverésen a kikiáltási ár összege a 147. § (2) és (3) bekezdésében foglaltak alapján milyen mértékben csökkenthető, és hogy a lakóingatlanra van-e a lakóingatlan fekvése szerinti települési önkormányzatnak az árverésen gyakorolható elővásárlási joga,
-- i) az árverés helyét és időpontját,
-- j) 10 millió Ft-ot meg nem haladó becsérték esetén a becsérték 2%-ának megfelelő, de legalább 1000 Ft összegű, 10 millió Ft-ot meghaladó becsérték felett a becsérték 1%-ának megfelelő összegű licitküszöböt,
-- k) e törvénynek az árverezőket közvetlenül érintő rendelkezéseit (árverési feltételek, vételár megfizetése, végrehajtói letéti számla száma, második árverés tartása),
-- l) az elektronikus ajánlattétel feltételeit és határidejének lejártát.
+- h) az árverésen a 147. § (2) és (3) bekezdésében foglaltak alapján tehető legalacsonyabb vételi ajánlat összegét, és azt, hogy a lakóingatlanra van-e a lakóingatlan fekvése szerinti települési önkormányzatnak előárverezési joga,
+- i) az árverés kezdő és befejező időpontját, az ingatlan megtekintésének időpontját,
+- j) 10 millió Ft-ot meg nem haladó becsérték esetén a becsérték 2%-ának megfelelő, de legalább 1000 Ft összegű, 10 millió Ft-ot meghaladó becsérték felett a becsérték 1%-ának megfelelő összegű, ezer forintra kerekített licitküszöböt,
+- k) tájékoztatást arról, hogy az árverezőkre vonatkozó törvényi rendelkezésekről, az elektronikus ajánlattétel feltételeiről és határidejének lejártáról, a vételár megfizetéséről, második árverés tartásáról szóló tájékoztatás az elektronikus árverési hirdetmények nyilvántartásában érhető el.
+
+(2) A kamara az (1) bekezdés k) pontjában foglaltakról szóló általános tájékoztatást folyamatosan közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.
 
 144. § (1) Az árverési hirdetményt kézbesíteni kell
 
@@ -1657,7 +1761,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 - b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal hirdetőtábláján,
 - c) az ingatlanügyi hatóság hirdetőtábláján.
 
-(2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
+(2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell a hirdetőtáblán kifüggesztve tartani.
 
 (3)
 
@@ -1665,81 +1769,66 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (5)
 
-145/A. § (1) A végrehajtó az árverési hirdetményt közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az árverés közhírré tételéhez fűződő jogkövetkezmény a licitnapló lezárásáig történő közzétételhez fűződik. Nem tekinthető közzétettnek az árverés, ha a közzétételi időtartamban az elektronikus árverési hirdetmények nyilvántartása a közzétételi időtartam 10%-át meghaladó időtartamban nem volt elérhető a felhasználók számára.
+145/A. § Az árverési hirdetménynek az elektronikus árverési hirdetmények nyilvántartásában történő közzétételére a 132/D. §-t azzal kell alkalmazni, hogy a hirdetmény mellett az ingatlanról készült képfelvételt is közzé kell tenni az elektronikus árverési hirdetmények nyilvántartásában.
 
-(2) Az elektronikus árverési rendszer az árverési hirdetmény közzétételének időpontját és a licitnapló lezárásának időpontját automatikusan rávezeti a hirdetményre, amely ezzel kiegészülve jelenik meg az elektronikus árverési hirdetmények nyilvántartásában.
-
-(3) Az árverés időpontját úgy kell meghatározni, hogy az a hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételének napját követő 60. napnál későbbi időpontra essen.
-
-145/B. § Az árverezők elektronikus nyilvántartásának vezetése a 132/E. §-ban foglaltak szerint történik.
+145/B. § A 132/F. § (6) bekezdésének az árverés időtartamára vonatkozó rendelkezését az ingatlanárverés során azzal az eltéréssel kell alkalmazni, hogy az árverés az árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követő 60. napnak a végrehajtó által meghatározott, 8 és 20 óra közé eső órájáig tart; ha az árverés befejezését megelőző öt percen belül újabb vételi ajánlat érkezik, az árverés időtartama ezen vételi ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó vételi ajánlat megtételét követő ötödik perc végéig.
 
 145/C. § (1) A vételi ajánlatok elektronikus úton történő megtételére a 132/F. § rendelkezéseit kell alkalmazni az e §-ban foglalt eltérésekkel.
 
-(2) Ha az árverező ingatlanszerzése engedélyhez kötött, az elektronikus árverési rendszer árverezőként történő használatához szükséges felhasználói név és jelszó aktiválásának az is feltétele, hogy az ingatlanszerzési engedélyét a végrehajtónak bemutassa. A beköltözhetően értékesítendő lakóingatlan fekvése szerinti, külön törvény alapján elővásárlási joggal rendelkező települési önkormányzat felhasználói nevének és jelszavának aktiválása az elővásárlási jog gyakorlását lehetővé tévő módon történik meg.
+(2) Ha az árverező ingatlanszerzése engedélyhez kötött, az elektronikus árverési rendszer árverezőként történő használatához szükséges felhasználói név és jelszó aktiválásának az is feltétele, hogy az ingatlanszerzési engedélyét a végrehajtónak bemutassa.
 
 (3) A vételi ajánlatot az elektronikus árverési rendszer akkor nem teszi közzé az árveréshez tartozó licitnaplóban, ha az
 
 - a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén 70%-át, vagy
-- b) nem haladja meg legalább a licitküszöb összegével vagy annak többszörösével az előzőleg közzétett vételi ajánlatot.
+- b) nem haladja meg legalább a licitküszöb összegével az előzőleg közzétett vételi ajánlatot.
 
 (4)–(5)
 
 (6)
 
-146. § (1) Ingatlanra az árverezhet, aki előlegként az ingatlan becsértékének 10%-át legkésőbb az árverési ajánlatának megtétele előtt a végrehajtónál letétbe helyezte. Az előleg letétbe helyezése átutalással is történhet, az előleg összegét olyan időpontban kell átutalni, hogy az az árverés időpontját megelőzően megérkezzen a végrehajtói letéti számlára. A letétbe helyező az utóbbi esetben akkor árverezhet, ha az átutalásról szóló terhelési értesítőt legkésőbb az árverési ajánlatának megtétele előtt a végrehajtónak bemutatja, annak másolatát pedig részére átadja.
+146. §
 
-(2) Akinek az ingatlanszerzése engedélyhez van kötve, az árverezése előtt igazolni köteles, hogy az engedélyt megkapta.
+147. § (1) Az ingatlan kikiáltási ára a becsérték összege.
 
-(3) A 123. §-nak az árverezésre vonatkozó rendelkezései ingatlanárverés esetén is irányadók.
+(2) Az ingatlanra – a (3) bekezdésben foglalt kivétellel – legalább a kikiáltási ár felének megfelelő összeggel tehető érvényes vételi ajánlat.
 
-(4) Az árverésen az a vételi ajánlat érvényes, amely az előző vételi ajánlatot a licitküszöb összegével vagy annak többszörösével meghaladja. A települési önkormányzat a külön jogszabály szerinti elővásárlási jogát – a felajánlott legmagasabb vételár háromszori kikiáltásáig – a vételi ajánlattal megegyező összegű vételi ajánlat megtételével gyakorolhatja.
-
-147. § (1) Az árverés megkezdésekor a végrehajtó közli az árverezőkkel a becsértéket és a kikiáltási árat, ismerteti az árverési feltételeket és felhívja az árverezőket ajánlatuk megtételére. A kikiáltási ár a becsérték összege. Ha a licitnaplóban tettek közzé vételi ajánlatot, a kikiáltási ár az utolsóként közzétett vételi ajánlat összege.
-
-(2) Ha a felajánlott vételár nem éri el a kikiáltási árat, azt fokozatosan lejjebb kell szállítani a becsérték feléig. Ha a licitnaplóban már tettek közzé vételi ajánlatot, a kikiáltási ár nem szállítható le.
-
-(3) Lakóingatlan esetén a kikiáltási ár a becsérték 70%-ának megfelelő összegre szállítható le, ha az adósnak ez az egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben volt.
+(3) Lakóingatlanra legalább a kikiáltási ár 70%-ának megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben volt.
 
 (4) Lakóingatlannak kell tekinteni
 
 - a) a lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlant (tulajdoni illetőséget) a hozzá tartozó földrészlettel, ha arra használatbavételi engedélyt adtak ki,
 - b) az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épületet, épületcsoportot és az azonos helyrajzi szám alatt hozzá tartozó föld együttesét.
 
-(5) Az árverést addig kell folytatni, amíg ajánlatot tesznek. Ha nincs további ajánlat, a végrehajtó a felajánlott legmagasabb vételár háromszori kikiáltása után kijelenti, hogy az ingatlant a legtöbbet ajánló árverező, az elővásárlási jog gyakorlása esetén pedig az elővásárlásra jogosult települési önkormányzat megvette. Az árverési vétel tényét és az árverési vételár összegét a végrehajtó rögzíti az elektronikus árverési rendszerben, amelyet az automatikusan közzétesz az árverési hirdetményen.
+(5)
 
-148. § (1) Az árverési vevő letétbe helyezett előlegét be kell számítani a vételárba.
+148. §
 
-(2) Az árvevési vevőn kívüli többi árverezőnek az előleget az árverés befejezése után azonnal vissza kell adni, illetőleg visszautalásáról intézkedni kell.
-
-149. § (1) Az árverési vevő köteles a teljes vételárat az árveréstől – ha pedig az árverést jogorvoslattal támadták meg, a jogorvoslatot elbíráló határozat rendelkezése szerint annak jogerőre emelkedésétől – számított 15 napon belül befizetni vagy átutalni a végrehajtói letéti számlára; ha ezt elmulasztja, előlegét elveszti. Elektronikus úton tett vételi ajánlat esetében a vételár megfizetésének határideje – jogorvoslat előterjesztését kivéve – az árverési jegyzőkönyv aláírását követő napon kezdődik.
+149. § (1) Az árverési vevő köteles a teljes vételárat az árverési jegyzőkönyv aláírásának napjától – ha pedig az árverést jogorvoslattal támadták meg, a jogorvoslatot elbíráló határozat rendelkezése szerint annak jogerőre emelkedésétől – számított 15 napon belül befizetni vagy átutalni a végrehajtói letéti számlára; ha ezt elmulasztja, előlegét elveszti.
 
 (2) A végrehajtó a vételár megfizetésére legfeljebb 2 hónapig terjedő halasztást adhat, ha ezt a vételár nagyobb összege vagy más fontos körülmény indokolttá teszi.
 
 (3) A vételár előleggel csökkentett összege után az esedékesség napjától a Polgári Törvénykönyv szerinti késedelmi kamatot kell fizetni, amely a végrehajtás során befolyt összeget növeli.
 
-150. § (1) Ha az árverési vevőnek az adóssal szemben olyan követelése van, amelyre vonatkozólag a végrehajtási jog az elárverezett ingatlanra be van jegyezve az ingatlan-nyilvántartásba, az árverési vevő visszatarthatja az árverési vételárat, illetőleg azt a részét, amely a követelésének a kielégítéséhez szükséges.
+150. § (1) Ha az árverési vevőnek az adóssal szemben olyan követelése van, amelyre vonatkozóan a végrehajtást elrendelték, az árverési vevő – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg kivételével – visszatarthatja az árverési vételárat, vagy azt a részét, amely a követelésének a kielégítéséhez szükséges.
 
 (2) Ha az árverési vevőnek az (1) bekezdésben említett követelését a vételár felosztásakor nem lehet kielégíteni, az árverési vevő köteles a vételárat, illetőleg visszatartott részét, továbbá a Polgári Törvénykönyv szerint a szerződéses kapcsolatokban járó — az árverést követő 15. naptól esetékes — kamatot a végrehajtó felhívásától számított 15 napon belül befizetni a végrehajtói letéti számlára.
 
 151. § (1) Az árverési vevő megállapodhat a jelzálogos hitelezővel, hogy a jelzálogjog — amennyiben a vételárból a jelzálogos hitelező kielégítéshez jutna — az ingatlanon továbbra is fennmarad.
 
-(2) Ha az árverési vevő a végrehajtónál a megállapodást igazolta, visszatarthatja a vételárat, illetőleg azt a részét, amely a jelzálogos hitelező követelésének kielégítéséhez szükséges.
+(2) Ha az árverési vevő a végrehajtónál a megállapodást igazolta, – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg kivételével – visszatarthatja a vételárat, illetőleg azt a részét, amely a jelzálogos hitelező követelésének kielégítéséhez szükséges.
 
 (3) Ha a jelzálogos hitelező követelését a vételár felosztásakor nem lehet kielégíteni, a 150. § (2) bekezdése szerint kell eljárni.
 
 152. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 35. §-ban említetteken kívül – feltünteti:
 
-- a) az elárverezett ingatlannak az ingatlan-nyilvántartási adatait, lakott vagy beköltözhető állapotban történt értékesítését, a becsértéket, azt, hogy a becsérték leszállítása milyen szabályok szerint történt (147. §) és az árverési vételárat,
+- a) az elárverezett ingatlannak az ingatlan-nyilvántartási adatait, lakott vagy beköltözhető állapotban történt értékesítését, a kikiáltási árat, azt, hogy a legalacsonyabb érvényes vételi ajánlat összegére mely szabályok vonatkoztak (147. §), és az árverési vételárat,
 - b) az árverési vevő nevét, személyazonosító adatait, lakóhelyét, illetőleg székhelyét.
 
-(2) Az árverési jegyzőkönyvet az árverési vevő is aláírja.
+(2) A végrehajtó felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása céljából a végrehajtó irodájában a felhívás kézhezvételétől számított 15 napon belül jelenjen meg; ha ezt elmulasztja, előlegét elveszti.
 
-(3) A végrehajtó az árverésről a jegyzőkönyv mellett kép- és hangfelvételt készít.
+(3) A végrehajtó az árverési jegyzőkönyv aláírásával egyidejűleg adhat az árverési vevő részére halasztást – a 149. § (2) bekezdése szerinti feltételekkel – a vételár megfizetésére.
 
-(4) Ha az árverési vevő elektronikus úton tett vételi ajánlatot,
-
-- a) a végrehajtó felhívja, hogy az árverési jegyzőkönyv aláírása céljából a végrehajtó irodájában a felhívás kézhezvételétől számított 15 napon belül jelenjen meg; ha ezt elmulasztja, előlegét elveszti;
-- b) a végrehajtó az árverési jegyzőkönyv aláírásával egyidejűleg adhat részére halasztást – a 149. § (2) bekezdése szerinti feltételekkel – a vételár megfizetésére.
+(4)
 
 153. § (1) Az árverési jegyzőkönyv másolatát kézbesíteni kell a feleknek és azoknak, akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van.
 
@@ -1750,7 +1839,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (3) A végrehajtó a tulajdonjog bejegyzési eljárás megindítása iránti megkeresésében tájékoztatja az ingatlanügyi hatóságot az adós adóazonosító jeléről, adóazonosító jel hiányában az adós nevéről, születési helyéről, idejéről, anyja leánykori nevéről és lakóhelyéről (nem magyar állampolgárságú magánszemélynek az útlevélszámáról), továbbá arról, hogy az árverés jogerőre emelkedett, és az árverési vételárat kifizették.
 
-(4) Az elektronikus árverési rendszer az árverést – ha pedig arra nem került sor, a licitnapló végrehajtó általi lezárását – követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
+(4) Az elektronikus árverési rendszer az árverés befejezését – ha pedig arra nem került sor, a licitnapló végrehajtó általi lezárását – követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
 
 154. § (1) Ha az árverési vevő a teljes vételárat kifizette, és az árveréstől számított 30 nap eltelt, a végrehajtó az árverésen megvett ingatlant átadja az árverési vevőnek.
 
@@ -1778,23 +1867,31 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (10) Ha a kiköltözésre az (1) és (5) bekezdésben foglalt időpontig nem került sor, a végrehajtó az árverési vevőnek a kiköltözési határidő lejártát követő 15. napig előterjesztett kérelmére – szükség esetén rendőrség közreműködésével – haladéktalanul intézkedik az ingatlan kiürítése iránt a 182–182/A. § megfelelő alkalmazásával. Az ingatlan kiürítése során a végrehajtást kérő jogai és kötelezettségei az árverési vevőt illetik meg, illetve terhelik.
 
-155. § Az árverés sikertelen, ha
+154/B. § (1) Ha az adós a kiköltözési kötelezettségének a 154/A. § (1) és (5) bekezdésben foglalt határidőben eleget tett, és az ingatlant kiürített állapotban, az árverési hirdetményben feltüntetett tartozékokkal együtt átadja az árverési vevőnek, az ingatlan kiürítését, de legkésőbb a kiköltözési határidő lejártát követő 8 napon belül előterjesztett kérelmére megilleti
+
+- a) az 5 millió forint alatti árverési vételár esetén annak 1%-ának,
+- b) 5 millió forint és azt meghaladó összegű árverési vételár esetén 50 000 forint és az 5 millió forint feletti rész 0,5%-ának,
+- c) 10 millió Ft és azt meghaladó összegű árverési vételár esetén 75 000 forint és az a 10 millió forint feletti rész 0,25%-ának megfelelő összeg.
+
+(2) A végrehajtó a kifizetés feltételeinek fennállását jegyzőkönyvben rögzíti, melyet a feleknek kézbesít; az összeg kifizetése iránt a jegyzőkönyv kézbesítését követő 15. nap elteltével, kifogás esetén a jogerős elbírálásáról szóló végzés alapján, annak kézhezvételét követő 15 napon belül intézkedik. A kifizetés után fennmaradó összeg minősül végrehajtás során befolyt összegnek, ez használható fel a végrehajtási költségek és a követelés kielégítésére.
+
+155. § (1) Az árverés sikertelen, ha
 
 - a) nem tettek vételi ajánlatot, vagy a felajánlott vételár nem érte el az ingatlan becsértékének felét vagy lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a 70%-át;
-- b) az elektronikus úton vételi ajánlatot tevő árverési vevő az árverési jegyzőkönyvet nem írta alá;
+- b) az árverési vevő az árverési jegyzőkönyvet nem írta alá; vagy
 - c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat az árveréstől számított 15 napon belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül.
 
-156. § (1) Az első árverés sikertelenségének megállapításától számított 3 hónapon belül — a végrehajtó által kitűzött időpontban — második árverést kell tartani.
+(2) Az árverés sikertelenségének megállapításával egyidejűleg a végrehajtó az ingatlannak a 143. § (1) bekezdés c)–h) és j) pontban foglalt adatait és az ingatlanról készült képfelvételt – az árverés későbbi kitűzéséről szóló tájékoztatással együtt – közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.
+
+156. § (1) Az első árverés sikertelenségének megállapításától számított 3 hónapon belül — a végrehajtó által kitűzött időpontban — második árverést kell tartani. Az elektronikus árverési rendszer a második árverés kitűzésével egyidejűleg automatikusan törli az ingatlan 155. § (2) bekezdése szerint közzétett adatait az elektronikus árverési hirdetmények nyilvántartásából.
 
 (2) Nem kell megtartani a második árverést, ha az árverési vevő az árverési jegyzőkönyvet aláírta és befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget, mielőtt a licitnaplóban vételi ajánlatot tesznek közzé. A vételár megfizetését a végrehajtó haladéktalanul rögzíti a licitnaplóba, és a licitnaplót lezárja. Ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a 149. § alapján elvesztett előleget.
 
-(3) A második árverésen a korábbi árverési vevő nem árverezhet.
+(3)
 
-(4) A vételi ajánlatok összegére, a kikiáltási árra és annak leszállítására az első árverésre vonatkozó szabályokat kell alkalmazni.
+(4) A vételi ajánlatok összegére, a kikiáltási árra és annak leszállítására – a 140. § (8) bekezdésének figyelembevételével – az első árverésre vonatkozó szabályokat kell alkalmazni.
 
-(5) Ha a második árverésen az ingatlant alacsonyabb áron adták el, mint amelyet az első árverésen a korábbi árverési vevő felajánlott, a különbözetet a korábbi árverési vevő köteles a végrehajtást foganatosító bíróság végzése alapján megtéríteni. A megtérítendő összegbe az elvesztett előleget be kell számítani.
-
-(6) Az elvesztett előleg és a korábbi árverési vevő által megtérített különbözet a végrehajtás során befolyt összeget növeli.
+(5)–(6)
 
 ### Nyilvános pályázat
 
@@ -1816,27 +1913,49 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### Az ingatlan átvétele a végrehajtást kérő által
 
-158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant.
+158. § (1) Ha a 156. § alapján megtartott második árverés is sikertelen volt, úgy a végrehajtást kérő veheti át az ingatlant a becsérték felének, a 147. § (3) bekezdése szerinti ingatlan esetében pedig 70%-ának megfelelő átvételi összegben. Ha több végrehajtást kérő van, az ingatlant az veheti át, aki a becsérték felét vagy 70%-át meghaladó legmagasabb összegű árajánlatot tette.
 
-(2) Ha több végrehajtást kérő van, a végrehajtó megállapítja a becsérték felét meghaladó legmagasabb árajánlatot az ingatlant az veheti át, aki a becsérték felét meghaladó legmagasabb árajánlatot tette. Ha a becsérték felének megfelelően vagy azt meghaladóan több egyenlő árajánlatot tettek, az átvételi jogosultság a 165. §-ban meghatározott sorrend szerint alakul.
+(2) Az árverés sikertelenségének tényéről a végrehajtó 15 napon belül értesíti a végrehajtást kérőt és
 
-(3) A becsérték felének, illetőleg az azt meghaladó átvételi árnak megfelelő összeget be kell számítani a végrehajtást kérő követelésébe.
+- a) 15 napos határidőt biztosít részére az átvételre vonatkozó nyilatkozat megtételére,
+- b) több végrehajtást kérő esetében tájékoztatást ad arról, hogy elektronikus átvételi eljárás tartására kerül sor.
 
-(4) Ha a végrehajtást kérő követelésének összege nem éri el az ingatlan becsértékének felét, a különbözetet a végrehajtást kérő köteles az árverési vevőre nézve irányadó szabályok szerint befizetni.
+(3) Több végrehajtást kérő esetén a végrehajtó elektronikus átvételi eljárást tart, amelyre az ingatlanárverés szabályait kell alkalmazni az e §-ban foglalt eltérésekkel Az elektronikus átvételi eljárást a végrehajtó hirdetménnyel tűzi ki; a hirdetményt csak az elektronikus árverési hirdetmények nyilvántartásában kell közzétenni és a feleknek kell kézbesíteni. A hirdetmény a következő adatokat tartalmazza:
 
-(5) Ha az árverésen a kikiáltási ár csak a becsérték 70%-ának megfelelő összegig szállítható le, az ingatlant ennél alacsonyabb összeg fejében nem lehet átvenni; az átvételre megfelelően alkalmazni kell a (2)–(4) bekezdésben foglalt rendelkezéseket is.
+- a) a 143. § (1) bekezdés a)–f) pontjában foglalt adatok,
+- b) a minimális átvételi ár és az ahhoz tartozó licitküszöb,
+- c) az átvételi eljárás kezdő és befejező időpontja és
+- d) az átvételi ajánlattétel feltételei és módja.
 
-(6) Az átvétel jogkövetkezménye azonos az árverési vétel jogkövetkezményével.
+(4) Az ingatlanra a végrehajtást kérők a vételi ajánlatok megtételére vonatkozó szabályok szerint tehetnek átvételi ajánlatot. Az átvételi ajánlatot az elektronikus árverési rendszer az átvételi ajánlat összegével, a közzététel időpontjával és az átvételi ajánlatot tevő végrehajtást kérő nevének (elnevezésének) feltüntetésével teszi közzé a licitnaplóban.
 
-159. § (1) Ha a végrehajtást kérő nem vette át az ingatlant, a végrehajtás a második árverésről szóló jegyzőkönyvnek a végrehajtást kérő részére történt kézbesítésétől számított 15 nap elteltétől mindaddig szünetel, amíg a végrehajtást kérő újabb árverés kitűzését nem kérte.
+(5) Az elektronikus átvételi eljárás az átvételi hirdetmény közzétételétől számított 15. napnak a végrehajtó által meghatározott 8 és 20 óra közé eső órájáig tart azzal, hogy ha az átvételi eljárás befejezését megelőző öt percen belül újabb átvételi ajánlat érkezik, az átvételi eljárás időtartama ezen ajánlattételtől számított öt perccel automatikusan meghosszabbodik az utolsó átvételi ajánlat megtételét követő ötödik perc végéig.
 
-(2) A szünetelés kezdő időpontjától számított 6 hónapnál korábban nem lehet újabb árverést kitűzni.
+(6) Az ingatlan átvevője az automatikusan lezárt licitnaplóban utolsóként közzétett átvételi ajánlatot tevő végrehajtást kérő. Az átvétel jogkövetkezménye azonos az árverési vétel jogkövetkezményével.
 
-(3) Az újabb árverésre a második árverés szabályait kell megfelelően alkalmazni.
+(7) Az átvételi ár 50%-ának megfelelő összeget be kell számítani a végrehajtást kérő követelésébe. A végrehajtást kérő az átvételi ár fennmaradó 50%-át, továbbá ha a követelésének összege nem éri el az átvételi ár 50%-át sem, úgy az 50%-áig terjedő különbözetet is köteles az árverési vevőre nézve irányadó szabályok szerint befizetni, melyből a végrehajtási költségek és több végrehajtást kérő esetén a többi végrehajtást kérő követelésének kielégítését követően részesülhet. A 171. § (2) bekezdését az átvételi ár felosztása során is alkalmazni kell.
 
-160. § (1) Ha az újabb árverés is sikertelen volt, a végrehajtást kérő kívánsága szerint a 158., illetőleg a 159. §-nak megfelelően kell eljárni.
+(8) Ha a második árverés a 155. § (1) bekezdés b) vagy c) pontjában foglalt okból volt sikertelen és az ingatlant alacsonyabb átvételi áron vették át, mint amelyet az árverésen a korábbi árverési vevő felajánlott, a 132/G. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a korábbi árverési vevő által megtérítendő különbözet a felajánlott vételár és az átvételi ár különbségének – az elvesztett előleggel csökkentett – összege.
 
-(2) Az (1) bekezdésben említett árverést követően tartott újabb árverésekre is a második árverés szabályait kell megfelelően alkalmazni azzal, hogy a kikiáltási árat lakóingatlan esetén is a becsérték feléig lehet leszállítani, sikertelen árverés esetén pedig a becsérték felének megfelelő összeg fejében vehető át az ingatlan.
+159. § (1) Ha a végrehajtást kérő nem vette át az ingatlant, a végrehajtó az átvételi ajánlatok megtételére nyitva álló határidő eredménytelen elteltétől számított 15 napon belül közzéteszi az ingatlan folyamatos árverezése iránti hirdetményt, valamint az ingatlanról készült képfelvételt az árverési hirdetmények elektronikus nyilvántartásában. A hirdetmény a 143. § (1) bekezdés a)–h) és j) pontjában foglalt adatokat tartalmazza.
+
+(2) Az ingatlan folyamatos árverezése iránti hirdetménynek az árverési hirdetmények elektronikus nyilvántartásában történő közzétételétől az árverés mindaddig szünetel, amíg az ingatlanra vételi ajánlatot tenni kívánó árverező nem kéri felhasználói nevének és jelszavának aktiválását, vagy a végrehajtást kérő a hirdetmény közzétételétől számított 3 hónap elteltével újabb árverés kitűzését nem kérte.
+
+(3) Az ingatlanra az árverési vételi ajánlatra vonatkozó szabályok szerint tehető vételi ajánlat.
+
+(4) A vételi ajánlat közzétételével az elektronikus árverési rendszerben automatikusan közzétételre kerül az újabb árverés árverési hirdetménye, valamint a hozzátartozó licitnaplóban a vételi ajánlat, a végrehajtó pedig az általános szabályok szerint intézkedik az újabb árverés közhírré tételével kapcsolatos egyéb intézkedések megtétele iránt. Az árverés befejező időpontja – a 145/B. §-ban foglaltak figyelembe vételével, valamint azzal, hogy az árverés ebben az esetben 30 napig tart – automatikusan kerül meghatározásra azzal, hogy ha a közzétételt követő 30. nap nem munkanapra esik, akkor a következő munkanap meghatározott óráját kell befejező időpontként meghatározni.
+
+(5) Ha az újabb árverés kitűzését a végrehajtást kérő kérte, a végrehajtó az általános szabályok szerint intézkedik az árverés közhírré tétele és lefolytatása iránt.
+
+(6) Az újabb árverésre a második árverés szabályait kell megfelelően alkalmazni.
+
+(7) A becsérték ismételt megállapítása iránti kérelem beérkezését követő munkanapon a végrehajtó törli az ingatlan folyamatos árverezése iránti hirdetményét az elektronikus árverési hirdetmények nyilvántartásából, a becsérték ismételt megállapításától – végrehajtási kifogás előterjesztése esetén pedig a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől – számított 30 napon belül pedig közzéteszi az ismételten megállapított becsérték alapján elkészített, folyamatos árverezés iránti új hirdetményt. Ha a kérelem beérkezésének időpontjában az árverési hirdetmény már közzétételre került, a végrehajtó az árverés befejezését követően sikertelen árverés esetén intézkedik a becsértéknek a 140. § (8) bekezdése szerinti ismételt megállapítása iránt.
+
+160. § (1) Ha az újabb árverés is sikertelen volt, a 159. § szerint kell eljárni.
+
+(2) Az (1) bekezdésben említett árverést követően tartott újabb árverésekre is a második árverés szabályait kell megfelelően alkalmazni azzal, hogy a kikiáltási árat lakóingatlan esetén is a becsérték feléig lehet leszállítani.
+
+(3) Ha a (2) bekezdés alapján tartott utolsó eredménytelen árverést követően 5 év eltelt és nincs folyamatban újabb kitűzött árverés, vagy egyébként a végrehajtás érdemi befejezésére került sor, végrehajtó intézkedik az ingatlan folyamatos árverezése iránti hirdetménynek az elektronikus árverési hirdetmények nyilvántartásából történő törlése iránt.
 
 ### Közös tulajdonban levő ingatlan árverése
 
@@ -1851,16 +1970,18 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 - c) a tulajdonostárs hozzájárulásával lehet az ő tulajdoni hányadát a becsértékénél alacsonyabb áron elárverezni,
 - d) a tulajdonostárs tulajdoni hányadának értékesítéséből befolyt összegből a végrehajtó levonja az értékesítésnek a tulajdoni hányadra eső, külön jogszabályban meghatározott költségét.
 
-162. § (1) Ha az ingatlan közös tulajdonát — bírósági határozat, a bíróság által jóváhagyott egyezség vagy bírósági végrehajtási záradékkal ellátott okirat alapján — árveréssel kell megszüntetni, e törvénynek az ingatlanárverésre vonatkozó szabályai az alábbi (2)—(4) bekezdésben foglalt eltérésekkel irányadók.
+162. § (1) Ha az ingatlan közös tulajdonát — bírósági határozat, a bíróság által jóváhagyott egyezség vagy bírósági végrehajtási záradékkal ellátott okirat alapján — árveréssel kell megszüntetni, e törvénynek az ingatlanárverésre vonatkozó szabályai az alábbi (2)—(5) bekezdésben foglalt eltérésekkel irányadók.
 
 (2) A végrehajtást a bíróság bármelyik tulajdonostárs kérelmére elrendelheti.
 
 (3) A végrehajtást elrendelő bíróság állapítja meg
 
-- a) az ingatlan becsértékét, és azt a 140. § megfelelő alkalmazásával az árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételéig bármelyik tulajdonostárs kérelmére módosíthatja,
+- a) az ingatlan becsértékét, és azt a 140. § (8) bekezdésének alkalmazásával az első árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételéig bármelyik tulajdonostárs kérelmére módosíthatja,
 - b) az árverési feltételeket [143. § l) pont], továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját.
 
 (4) Az ingatlanra bármelyik tulajdonostárs is árverezhet.
+
+(5) Az első árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követően a végrehajtó a 140. § (8) bekezdése szerint módosítja az ingatlan becsértékét bármelyik tulajdonostárs kérelmére.
 
 163. §
 
@@ -3183,6 +3304,21 @@ kérhetnek adatszolgáltatást.
 
 (7) A naplóból adatszolgáltatás írásbeli kérelemre vagy megkeresésre teljesíthető.
 
+253/G. § (1) A kamara naplót készít a kézbesítési rendszer működéséről a következő adatokkal:
+
+- a) üzemben tartási idő,
+- b) a felhasználók adatbevitelének és adatrögzítésének ténye az adatbevitel, illetve adatrögzítés időpontjának, valamint az azt végző személy nevének megjelölésével,
+- c) a rendszer által automatikusan elvégzett műveletek, a művelet és az időpontja feltüntetésével,
+- d) az üzemzavar terjedelme és időtartama,
+- e) az iratbetekintés iránti kérelem vagy megkeresés teljesítése az iratokba betekintő nevének és címének, az iratbetekintés jogalapjának, időpontjának, az érintett iratnak, valamint az iratbetekintést engedélyező személy nevének feltüntetésével,
+- f) a naplóból történt adatszolgáltatás a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, az adatszolgáltatás időpontjának, valamint az adatszolgáltatást végző azonosító adatainak feltüntetésével.
+
+(2) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket.
+
+(3) A napló adatairól megkeresésre annak a bíróságnak, ügyésznek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének felügyeletét ellátó szervnek továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+
+(4) A kamara a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a miniszter hagyja jóvá.
+
 ### A végrehajtó díjazása
 
 254. § (1) A végrehajtót a tevékenységéért — a jogszabályba foglalt végrehajtói díjszabás szerint megállapított — díj és költségtérítés illeti meg.
@@ -3845,8 +3981,8 @@ kérhetnek adatszolgáltatást.
 - k) az általános költségátalány megfizetéséről szóló szabályokat,
 - l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
 - m) a végrehajtó tevékenységével okozott kár fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
-- n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját,
-- o) az elektronikus árverési rendszer informatikai alkalmazásának működtetésére vonatkozó részletes szabályokat.
+- n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
+- o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
 308. §
 

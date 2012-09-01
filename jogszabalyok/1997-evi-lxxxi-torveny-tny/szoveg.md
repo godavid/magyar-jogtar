@@ -87,7 +87,7 @@ is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, 
 
 (4) Ha jogszabály kivételt nem tesz, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni.
 
-(5) Az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) VIII. melléklet 11. cikk (1) bekezdése alapján erre jogosult személy kérheti a szerzett nyugdíjjogosultság biztosításmatematikai egyenértékének a Nyugdíjbiztosítási Alapnak történő átadását. Az SR. VIII. melléklet 11. cikk (1) és (2) bekezdésének végrehajtásához szükséges egyéb szabályokról külön törvény rendelkezik.
+(5)
 
 6/A. §
 
@@ -419,7 +419,7 @@ szolgálati idő (év) a havi bruttó átlagkereset százaléka
 - a) az 1988. január 1-je és 1996. december 31-e közötti, illetőleg az 1988. január 1-je előtti keresetek, jövedelmek esetén az 1996. december 31. napján érvényes társadalombiztosítási szabályok szerint a főfoglalkozásban elért jövedelmet, az ezen időszak alatt kifizetett év végi részesedést, prémiumot, jutalmat és a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 - b) 1997. január 1-jétől az 1998. január 1-je előtti rendelkezések szerinti, illetőleg 1998. január 1-jétől a Tbj.-ben meghatározott biztosítással járó jogviszonyból származó – nyugdíjjárulék-alapot képező – keresetet, jövedelmet, több biztosítással járó jogviszony esetén a nyugdíjjárulék-fizetési kötelezettségre meghatározott összeghatárig összeszámított keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 - c) amennyiben a nyugdíjjárulékot a biztosítási jogviszony keretében meghatározott összeg után kellett fizetni, ezt az összeget,
-- d)
+- d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során meghatározott beszámított jövedelmet, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
 - e) a felszolgálási díj 81%-át,
 - f) a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 - g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
@@ -477,7 +477,8 @@ kell keresetként figyelembe venni.
 - f) a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 - g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint szolgálati időnek minősült,
 - h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció keretében foglalkoztatott személy tekintetében a munka-rehabilitációs díj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
-- i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették.
+- i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+- j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 
@@ -1263,3 +1264,4 @@ rendeletben határozza meg.
 |  | a teljes elismert szolgálati idő |
 
 - 2. A h értékének kiszámítása során a számlálóban és a nevezőben megjelölt időtartamot is napokban kell meghatározni, és a hányadost két tizedes jegyre kell kerekíteni.
+- 3. Ha az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerinti nyugdíjbiztosítási visszautalással érintett, 2010. október 1-jét megelőző időszakban az uniós tisztviselő magánnyugdíjpénztár tagja volt, ezen időszak napjainak számát a h értékének kiszámítása során a számlálóhoz hozzá kell adni. Ha az uniós tisztviselő ebben az időszakban a magyar nyugdíjrendszerben is szerzett szolgálati időt, a számlálót a nyugdíjbiztosítási visszautalás során beszámított jövedelem és az ugyanarra a napra elismert beszámított jövedelem és nyugdíjjárulék-alapot képező kereset, jövedelem összegének hányadosával kell megnövelni.

@@ -109,7 +109,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - c) az önálló bírósági végrehajtó a bírósági végrehajtásról szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét végrehajtói iroda tagjaként folytatja);
   - d) az egyéni szabadalmi ügyvivő a szabadalmi ügyvivőkről szóló törvényben meghatározott tevékenysége tekintetében;
   - e) az ügyvéd az ügyvédekről szóló törvényben meghatározott tevékenysége tekintetében (kivéve, amennyiben e tevékenységét ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja);
-  - f) a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
+  - f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély e tevékenysége tekintetében;
   - g)
   - h)
 - 18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
@@ -291,6 +291,7 @@ a magánszemély helyett más személy fizet meg (mindkét esetben ideértve bá
   - jc) a magánszemély nyugdíj-előtakarékossági számlájáról teljesített átutalás, átvezetés esetén a külön törvény nyugdíjszolgáltatásnak minősít;
   - jd) a magánszemély kérelmére, munkaviszonyának megszűnése esetén a foglalkoztatói nyugdíjszolgáltató intézményben fennálló követelésének terhére az intézmény más ilyen intézménybe utal át;
   - je) a foglalkoztatói nyugdíjszolgáltató intézmény a tagot megillető követelése javára jóváír;
+  - jf) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a Nyugdíjbiztosítási Alapnak utalnak át, vagy önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlán, foglalkoztatói nyugdíjszolgáltató intézményben tagi kiegészítésként vagy nyugdíj-előtakarékossági számlán jóváírnak azzal, hogy az így jóváírt összeg a 28. § (17) bekezdésének alkalmazásában nem tekinthető a számlatulajdonos által teljesített befizetésnek, és nem jogosít az adó feletti rendelkezésre;
 - k) azt az összeget, amelyet a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint
   - ka) tagdíj fizetésére kötött támogatási megállapodás alapján a magánszemély helyett más fizet meg;
   - kb) a magánnyugdíjpénztár a kedvezményezett részére nem nyugdíjszolgáltatásként fizet ki;
