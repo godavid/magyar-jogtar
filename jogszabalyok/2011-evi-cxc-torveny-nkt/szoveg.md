@@ -1805,6 +1805,7 @@ ellenőrzés.
 - r) a tanév, ezen belül a tanítási év rendjét, a tanév szervezésével kapcsolatos feladatokat, így különösen a tanév kezdő és befejező napját, azt az időszakot, amelynek keretében az iskolai nevelés és oktatás folyik, a tanítási szünetek szervezésének időszakát és időtartamát, a felvételi kérelmek elbírálásának, az érettségi vizsga és a szakmai vizsga időszakát,
 - s) az országos tanulmányi verseny szabályzatát,
 - t) a Köznevelési Hídprogram megszervezésének feltételeit, a Köznevelési Hídprogramban folytatott képzéshez szükséges nevelési-oktatási programokat, a Köznevelési Hídprogramba történő bekapcsolódás részletes szabályait,
+- u) az elektronikus és a papírformátumú nyomtatványok előállításához és forgalmazásához, a tanügyi nyilvántartások elektronikus alkalmazásához szükséges engedély kiadásának szabályait, valamint az engedélyezési eljárással összefüggő igazgatási szolgáltatási díj megállapításának, befizetésének és felhasználásának kérdéseit,
 
 rendeletben állapítsa meg.
 
@@ -1857,7 +1858,7 @@ rendeletben állapítsa meg.
 
 (5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2016. január 1-jén lép hatályba.
 
-(6) Hatályát veszti a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 1–3. §-a, 4. § (1)–(3) bekezdése, 4. § (5)–(7) bekezdése, 4/A–5. §-a, 6. § (1) és (3)–(6) bekezdése, 7–11. §-a, 12. § (1) bekezdés b)–h) pontja, (2)–(6) bekezdése, 13–14. §-a, 15. § (1)–(2) és (5)–(6) bekezdése, 16. § (2)–(3) és (5)–(7) bekezdése, 17. §-a, 18–20. §-a, 22–23. §-a, 24. § (1) bekezdése, 25–26. §-a, 28. §-a, 30–33. §, 36–38. §-a, 39. § (1)–(2) és (4) bekezdése, 40–51. §-a, 52. § (15)–(16) bekezdése, 54. §-a, 55. § (1)–(4) bekezdése, 56–65. §-a, 66. § (1)–(8) bekezdése és (10)–(11) bekezdése, 67–68. §-a, 69. § (3)–(5) bekezdése, 70–73. §-a, 75–77. §-a, 78. § (1) bekezdése, 78. § (3)–(7) bekezdése, 79–84. §-a, 92–93. §-a, 94. § (1)–(2) bekezdése, 94. § (3) bekezdés a)–e), g)–k) pontja, m)–p) pontjai, 94. § (4)–(7) bekezdése, 95–117. §, 118. § (1)–(2) bekezdése és (7)–(11) bekezdése, 119–120. §-a, 121. § (1) bekezdés 1–13. pontja, 15–46. pontja, (2)–(10) bekezdése, 122. § (2)–(15) bekezdése, 122/A–127. §-a, 128. § (1)–(7), (9)–(23), 129–133. §-a és 2. számú melléklete.
+(6)
 
 (7)
 
@@ -1880,6 +1881,18 @@ rendeletben állapítsa meg.
 (6) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai nevelés-oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.
 
 (7) Ahol jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
+
+(8) Ha a nevelési-oktatási intézmény alapító okiratában, működési engedélyében, nyilvántartásba vételi határozatában az intézmény alaptevékenységei között
+
+- a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető, vagy vissza nem vezethető tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátása,
+- b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos, vagy súlyos rendellenességével küzdő gyermekek, tanulók ellátása szerepel, azon 2013. január 1-ig az egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzdő gyermekek, tanulók ellátását is érteni kell.
+
+(9) Ha a sajátos nevelési igényű gyermek, tanuló szakértői véleményében a sajátos nevelési igényt
+
+- a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető, vagy vissza nem vezethető tartós és súlyos rendellenessége,
+- b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos, vagy súlyos rendellenessége
+
+alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de legkésőbb 2015. szeptember 1-ig az egyéb pszichés fejlődési zavart (súlyos tanulási, figyelem- vagy magatartásszabályozási zavart) is érteni kell.
 
 97. § (1) Azok a tanulók, akik tanulmányaikat az iskolai nevelés-oktatás kilencedik évfolyamán a 2011/2012. tanévben vagy azt megelőzően kezdték meg, tankötelezettségük azon tanítási év végéig tart, amelyben a tizennyolcadik életévüket betöltik vagy sikeres érettségi vizsgát vagy szakmai vizsgát tettek. Azon sajátos nevelési igényű tanulók tankötelezettsége, akik esetében a szakértői és rehabilitációs bizottság e törvény hatálybalépése előtt a tankötelezettség huszadik életévükig történő meghosszabbításáról döntött, annak a tanévnek a végéig tart, amelyben a huszadik életévüket betöltik.
 
@@ -1925,6 +1938,17 @@ rendeletben állapítsa meg.
 
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
 
+(23) A 76. § (1) bekezdés szerint a működtető tulajdonát azok a taneszközök képezik, amelyeket a 2013. január 1-jei leltár tartalmaz.
+
+(24) 2012. évben szeptember 30-ig szándékát nyilvánítja az állami intézményfenntartó központnak és 2012. október 30-ig dönt a települési önkormányzat arról, hogy a rendelkezésére álló saját és átengedett bevételek terhére a következő naptári évben kezdődő tanévtől
+
+- a) 3000 főt meg nem haladó lakosságszámú település esetén a működtetést az államtól képes átvállalni,
+- b) 3000 fő lakosságszám feletti település esetén a működtetést nem képes vállalni.
+
+(25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
+
+(26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
+
 98. § (1) Egyéb foglalkozást a nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott alkalmazott tarthat.
 
 (2) Középiskolában a művészetek és a technika-gyakorlati foglalkozás tantárgyakat főiskolai végzettséggel és a tantárgynak megfelelő tanári szakképzettséggel rendelkező pedagógus is taníthatja.
@@ -1949,6 +1973,10 @@ rendeletben állapítsa meg.
 (9) Gyakorlati oktató munkakörben történő alkalmazáskor a képzés szakirányának megfelelő főiskolai végzettségnek kell elfogadni a – képzésről rendelkező jogszabály szerint – felsőfokú végzettséget tanúsító műszaki oktatói, technikus tanári, szakoktatói oklevelet, bizonyítványt. A felsőfokú végzettséget nem tanúsító, tanfolyami képzésben szerzett műszaki szakoktatói (oktatói) bizonyítványt az alkalmazáskor a képzés szakirányának megfelelő középfokú szakképesítésnek kell elfogadni.
 
 (10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
+
+(11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól.
+
+(12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
 99. § (1) A Gépírás- és Gyorsírástanítókat Vizsgáztató Országos Bizottság által kiállított gépírás és gyorsírás tanítására jogosító bizonyítvány gép- és gyorsírás oktatására, e körben pedagógus-munkakör betöltésére jogosító felsőfokú szakképesítés.
 
@@ -1980,6 +2008,8 @@ rendeletben állapítsa meg.
 - b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e törvény hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
 
 (11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása 2013. szeptember 1-jén megszűnik.
+
+(12) 2012. szeptember 3-án jogutód nélkül megszűnik az Országos Diákjogi Tanács, Országos Szülői Érdek-képviseleti Tanács.
 
 #### 55. Az Európai Unió jogának való megfelelés
 
