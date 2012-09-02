@@ -134,12 +134,7 @@ rendeletben állapítsa meg.
 
 1992. évi LXXXIV. törvény módosítása
 
-15. § A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény
-
-- a) 4. § (2) bekezdésében az „egyéb kiadásra használható fel” szövegrész helyébe az „egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét” szöveg,
-- b) 4. § (3) bekezdés g) pontjában a „bevételként elszámolt összeg” szövegrész helyébe a „bevételként elszámolt összeg és az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot megillető összeg” szöveg
-
-lép.
+#### 15. §
 
 #### 8. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
@@ -151,13 +146,7 @@ lép.
 
 #### 10. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-18. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 7. § (1) bekezdés j) pontja a következő jf) alponttal egészül ki:
-
-(A jövedelem kiszámításánál nem kell figyelembe venni a következő bevételeket:
-
-azt az összeget, amelyet)
-
-„jf) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a Nyugdíjbiztosítási Alapnak utalnak át, vagy önkéntes kölcsönös nyugdíjpénztárban vezetett egyéni számlán, foglalkoztatói nyugdíjszolgáltató intézményben tagi kiegészítésként vagy nyugdíj-előtakarékossági számlán jóváírnak azzal, hogy az így jóváírt összeg a 28. § (17) bekezdésének alkalmazásában nem tekinthető a számlatulajdonos által teljesített befizetésnek, és nem jogosít az adó feletti rendelkezésre;”
+18. § (1)
 
 (2)–(3)
 
@@ -167,19 +156,11 @@ azt az összeget, amelyet)
 
 21. § (1)
 
-(2) A Tny. 22. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Keresetként, jövedelemként kell figyelembe venni:)
-
-„d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során meghatározott beszámított jövedelmet, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,”
+(2)
 
 (3)–(5)
 
-22. § A Tny. 38. § (1) bekezdése a következő j) ponttal egészül ki:
-
-(Szolgálati időként kell továbbá figyelembe venni)
-
-„j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták.”
+#### 22. §
 
 #### 23–25. §
 
@@ -189,7 +170,7 @@ azt az összeget, amelyet)
 
 30. § (1)
 
-(2) A Tny. 1. melléklete a 2. melléklet szerint módosul.
+(2)
 
 (3)
 
@@ -199,19 +180,13 @@ azt az összeget, amelyet)
 
 32. § (1)
 
-(2) Hatályát veszti a Tny. 6. § (5) bekezdése.
+(2)
 
 (3)
 
 #### 12. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-33. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 23. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(A pénztártag tagsági jogviszonya)
-
-„d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerinti nyugdíjbiztosítási átutalás esetén a nyugdíjbiztosítási átutalás teljesítésének az uniós intézmény felhívásában megjelölt időpontjában;”
-
-(szűnik meg.)
+#### 33. §
 
 #### 34–38. §
 
@@ -226,9 +201,5 @@ azt az összeget, amelyet)
 ### 1. melléklet a 2012. évi CXII. törvényhez
 
 ### 2. melléklet a 2012. évi CXII. törvényhez
-
-A Tny. 1. melléklete a következő 3. ponttal egészül ki:
-
-„3. Ha az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerinti nyugdíjbiztosítási visszautalással érintett, 2010. október 1-jét megelőző időszakban az uniós tisztviselő magánnyugdíjpénztár tagja volt, ezen időszak napjainak számát a h értékének kiszámítása során a számlálóhoz hozzá kell adni. Ha az uniós tisztviselő ebben az időszakban a magyar nyugdíjrendszerben is szerzett szolgálati időt, a számlálót a nyugdíjbiztosítási visszautalás során beszámított jövedelem és az ugyanarra a napra elismert beszámított jövedelem és nyugdíjjárulék-alapot képező kereset, jövedelem összegének hányadosával kell megnövelni.”
 
 ### 3. melléklet a 2012. évi CXII. törvényhez
