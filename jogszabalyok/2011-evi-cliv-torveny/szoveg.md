@@ -193,7 +193,7 @@ kell meghatározni.
 - a) nem közalkalmazotti jogviszonyban foglalkoztatott vezetőjének, gazdasági vezetőjének, vezető tisztségviselőjének, kuratóriuma vezetőjének a foglalkoztatási jogviszonya,
 - b) közalkalmazotti jogviszonyban foglalkoztatott vezetőjének, gazdasági vezetőjének a vezetői megbízása.
 
-A megszűnés nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot. Az átvett közoktatási intézmény vezetője megbízásának és a megbízás visszavonásának jogát e törvény hatálybalépése és 2012. szeptember 1-je között az oktatásért felelős miniszter gyakorolja.
+A megszűnés nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
 
 (2) Az egészségügyi szolgáltató főigazgatójának és gazdasági igazgatójának e törvény hatálybalépésekor fennálló foglalkoztatásra irányuló jogviszonya, vagy az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására kapott vezetői megbízása a főigazgatói, gazdasági igazgatói munkakör, illetve a vezetői megbízás (4) és (5) bekezdés alapján történő betöltéséig fennmarad.
 

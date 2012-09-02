@@ -100,37 +100,11 @@ lép.
 
 ### Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
-84. § Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi közszolgáltatásért felelős szervek közül
-
-a) a helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségét,
-
-b) a magyar állam az egészségügyi szakellátási kötelezettségét,
-
-c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
-
-a 3. § (1) bekezdés a) pontja szerinti esetben az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2012. augusztus 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.”
-
-85. § Az Eftv. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
-
-a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
-
-b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. augusztus 31-én lekötött kapacitások,
-
-c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
-
-d) a 14. § (8) bekezdése szerinti tartalékkapacitások
-
-összessége.”
+84–85. §
 
 86–88. §
 
-89. § Az Eftv. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az (1) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.”
+89. §
 
 90. § (1)
 
@@ -145,7 +119,7 @@ d) a 14. § (8) bekezdése szerinti tartalékkapacitások
 (2) Az Eftv.
 
 - a)–h)
-- i) 8. § (1) bekezdésében a „3. § (1) bekezdés a)–c) pontja szerinti” szövegrész helyébe a „3. § (1) bekezdés a), b) és d) pontja szerinti” szöveg,
+- i)
 - j)–k)
 
 lép.

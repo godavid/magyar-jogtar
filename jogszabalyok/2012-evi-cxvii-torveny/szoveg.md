@@ -6,81 +6,11 @@ az igazságügyi és közigazgatási tárgyú törvények módosításáról
 
 1–5. §
 
-6. § (1) A Pp. 271. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezés lép:
-
-[Nincs helye felülvizsgálatnak]
-
-„c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen,
-
-d) a jogerős határozatnak csupán a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős határozatnak csupán az indokolása ellen,”
-
-(2) A Pp. 271. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-[Nincs helye felülvizsgálatnak]
-
-„i) a birtokvédelmi eljárást követő birtokvédelmi perben hozott ítélet ellen,”
-
-7. § A Pp. 271. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre.”
-
-8. § A Pp. 271. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre utalással hagyta helyben
-
-a) a 23. § (1) bekezdés ec) pontjában foglalt perekben és
-
-b) a társasház tulajdonostársai közösségének szervei által hozott határozatok tárgyában hozott döntéssel szemben.”
-
-9. § A Pp. 272. §-a helyébe a következő rendelkezés lép:
-
-„272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van.
-
-(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, azt, hogy a fél milyen tartalmú határozat meghozatalát kívánja, továbbá elő kell adni – a jogszabálysértés és a megsértett jogszabályhely megjelölése mellett –, hogy a fél a határozat megváltoztatását milyen okból kívánja.
-
-(3) Ha a felülvizsgálati kérelemben tartalmilag helyesen történik hivatkozás a jogszabálysértés tényére, de a megsértett jogszabályhely megjelölése téves, ezen okból a felülvizsgálati kérelem nem utasítható el.
-
-(4) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
-
-(5) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.”
-
-10. § A Pp. 275. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette, illetve az első fokú határozat helyett a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.”
+6–10. §
 
 11. §
 
-12. § A Pp. 340/A. §-a helyébe a következő rendelkezés lép:
-
-„340/A. § (1) A 271. § (1) bekezdés a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
-
-(2) Nincs helye felülvizsgálatnak
-
-a) az adóhatóságnál fennálló, továbbá az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító,
-
-b) a bírságot kiszabó és
-
-c) a kisajátítási
-
-ügyekben, ha a közigazgatási hatósági ügyben vagy a bírságot kiszabó határozatban megállapított fizetési kötelezettség, illetőleg kártalanítási összeg az egymillió forintot nem haladja meg.
-
-(3) A Kúria a felülvizsgálati kérelem tárgyában a kérelemnek a Kúriához való beérkezésétől számított százhúsz napon belül dönt.
-
-(4) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Kúria erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
-
-(5) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.”
-
-13. § A Pp. 358. §-a a következő (2) és (3) bekezdéssel egészül ki:
-
-„(2) Nincs helye felülvizsgálatnak – a (3) bekezdésben foglalt kivétellel – ha a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a teljes munkaidőre megállapított kötelező legkisebb havi munkabér (minimálbér) ötszörösét nem haladja meg.
-
-(3) A (2) bekezdésben meghatározott értékhatár alatt is helye van felülvizsgálatnak, ha
-
-a) a jogviszony keletkezésének, módosulásának, megszüntetésének jogszerűsége vitás,
-
-b) a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény vitás vagy
-
-c) a fegyelmi vétség miatt vagy a méltatlansági eljárásban alkalmazott jogkövetkezmény vitás.”
+12–13. §
 
 14. §
 
@@ -95,11 +25,7 @@ lép.
 
 #### 2. A polgári perrendtartásról szóló 1952. évi III. törvény hatálybaléptetéséről, végrehajtásáról szóló1952. évi 22. törvényerejű rendelet módosítása
 
-17. § A polgári perrendtartásról szóló 1952. évi III. törvény hatálybaléptetéséről, végrehajtásáról szóló 1952. évi 22. törvényerejű rendelet a következő 23. és 24. §-sal egészül ki:
-
-„23. § A Pp.-nek az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvénnyel módosított 23. § (1) bekezdés a) pontját az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 16. § a) pontjának hatályba lépését követően indult ügyekben kell alkalmazni.
-
-24. § A Pp.-nek az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvénnyel megállapított 271. § (1) bekezdés c), d) és i) pontját, 271. § (2) és (4) bekezdését, 272. §-át, 275. § (4) bekezdését, 340/A. §-át és 358. § (2) és (3) bekezdését az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 6–10., 12. és 13. §-ának hatályba lépését követő 60. nap után jogerőre emelkedett határozatok tekintetében kell alkalmazni.”
+17. §
 
 #### 3. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény módosítása
 

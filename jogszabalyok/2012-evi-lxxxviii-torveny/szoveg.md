@@ -411,73 +411,19 @@ rendeletben határozza meg.
 
 #### 21. Módosító rendelkezések
 
-33. § A bányászatról szóló 1993. évi XLVIII. törvény 43. §-a a következő (11) bekezdéssel egészül ki:
+#### 33. §
 
-„(11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.”
+#### 34. §
 
-34. § (1) A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Ttv.) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 35. §
 
-„(1) Forgalomba hozni, forgalmazni, beépíteni, használni és készenlétben tartani csak megfelelőségi igazolással rendelkező építési terméket, tűzvédelmi megfelelőségi tanúsítvánnyal rendelkező tűzoltó-technikai terméket, tűz- vagy robbanásveszélyes készüléket, gépet, berendezést (a továbbiakban együtt: termék) lehet.”
+#### 36. §
 
-(2) A Ttv. 13/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A megfelelőségi igazolással, tűzvédelmi megfelelőségi tanúsítvánnyal vagy a 13. § (2) bekezdésében meghatározott hatósági engedéllyel nem rendelkező termék forgalomba hozatalát, forgalmazását a piacfelügyeleti hatóság megtiltja, és piacfelügyeleti bírságot szabhat ki.”
-
-(3) A Ttv. 13/A. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A piacfelügyeleti hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint jogszabály alapján gyakorolja.”
-
-35. § (1) Az Fgytv. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A csomagolásra vonatkozó rendelkezések megtartására a gyártó, az ár feltüntetésére vonatkozó rendelkezések megtartására a forgalmazó, illetve a szolgáltatást értékesítő vállalkozás köteles.”
-
-(2) Az Fgytv. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az eljáró hatóság felhívására a vállalkozás köteles igazolni, hogy a csomagolásra, illetve az árfeltüntetésre vonatkozó kötelezettségeinek eleget tett.”
-
-(3) Az Fgytv. 16. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) bekezdésben foglalt rendelkezések nem érintik a forgalmazónak a gyártóval szemben érvényesíthető igényeit.”
-
-(4) Az Fgytv. 46. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.”
-
-(5) Az Fgytv. 47. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg. A fogyasztóvédelmi hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.”
-
-36. § A kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvény és a végrehajtását szolgáló jogszabályok, valamint a REACH és a CLP betartásának hatósági ellenőrzését)
-
-„e) a tárolás szabályai tekintetében, ha azok megsértése a fogyasztóvédelemről szóló törvény 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontjában meghatározott fogyasztó biztonságát, egészségét, testi épségét sérti vagy veszélyezteti, továbbá a csomagolás, zárás szabályainak fogyasztóval szembeni megsértése esetén a fogyasztóvédelmi hatóság az Fgytv. és a termékek piacfelügyeletéről szóló törvény szabályai szerint,”
-
-(végzi, és hatáskörében eljár a rendelkezések megsértése esetén.)
-
-37. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 54. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az Elnök és a Hivatal a piacfelügyeleti feladat- és hatáskörét e törvény, valamint külön jogszabály alapján gyakorolja.”
+#### 37. §
 
 #### 22. Hatályon kívül helyező rendelkezések
 
-38. § Hatályát veszti az Fgytv.
-
-- a) 2. § s), t) és u) pontja,
-- b) II. fejezete,
-- c) 12. §-át megelőző alcíme és 12. §-a,
-- d) 13. §-át megelőző alcíme és 13. §-a,
-- e) 16. § (5) bekezdése,
-- f) 45/A. § (3) bekezdés b) pontjában a „megfelelőségértékelésére, megfelelőségi jelölésére” szövegrész,
-- g) 47. § (1) bekezdés e) és f) pontja,
-- h) 47. § (10) bekezdésében a „biztonságosságának” szövegrész,
-- i) 47/C. § (5) bekezdés b) pontjában az „a fogyasztók életét, testi épségét, egészségét sérti vagy veszélyezteti, vagy” szövegrész,
-- j) 49. § (2) bekezdés c) és d) pontja,
-- k) 51. § (1) bekezdés b) és c) pontja,
-- l) 55. § (1) bekezdés a) pontja,
-- m) 56. §-a,
-- n) 56/A. § (3) és (4) bekezdése,
-- o) 57. § (1) bekezdés d) pontja.
+#### 38. §
 
 #### 23. Az Európai Unió jogának való megfelelés
 

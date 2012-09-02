@@ -230,28 +230,7 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 - e) a vágás utáni minősítési rendjét, és a minősítő hatóság kijelölését;
 - f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat rendeletben állapítsa meg.
 
-24. § Hatályát veszti
-
-- a) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény,
-- b) az állattenyésztésről szóló 1993. évi CXIV. törvény 8. § (2) bekezdése, valamint 49. § (1) bekezdés a) pont 17. alpontja.
-
-25. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 21. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerint közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.”
-
-26. § (1) A Tfmtv. 3. § (2) bekezdés t) pontja helyébe a következő rendelkezés lép:
-
-[Tisztességtelen forgalmazói magatartásnak minősül]
-
-„t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;”
-
-(2) A Tfmtv. 3. §-a a következő (2c) bekezdéssel egészül ki:
-
-„(2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.”
-
-(3) A Tfmtv. 3. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) E § alkalmazásában végső fogyasztónak kell tekinteni mindazokat, akik számára a kereskedő a terméket értékesíti.”
+24–26. §
 
 27. § Ez a törvény
 
