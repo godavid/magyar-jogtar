@@ -20,7 +20,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (2)
 
-(3) Hatályát veszti a bírósági végrehajtással kapcsolatos és egyéb igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvény.
+(3)
 
 (4)
 
