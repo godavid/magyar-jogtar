@@ -690,9 +690,9 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 #### 21/B. §
 
-### A központi közlekedési közigazgatási bírságnyilvántartás
+### A központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás
 
-21/C. § (1) A központi közlekedési közigazgatási bírságnyilvántartás (a továbbiakban: közigazgatási bírságnyilvántartás) célja a 20. §-ban meghatározott szabályszegések elkövetése alapján eljárás alá vont természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezetre (a továbbiakban együtt: szabályszegőre), a szabályszegésre, továbbá a kiszabott bírság megfizetésére vonatkozó adatok nyilvántartása a közigazgatási eljárás gyors és pontos lefolytatása, a végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása.
+21/C. § (1) A központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás (a továbbiakban: közigazgatási bírságnyilvántartás) célja a 20. §-ban meghatározott szabályszegések elkövetése alapján eljárás alá vont természetes személyre, jogi személyre, illetve jogi személyiséggel nem rendelkező szervezetre (a továbbiakban együtt: szabályszegőre), a szabályszegésre, továbbá a kiszabott bírság megfizetésére vonatkozó adatok nyilvántartása, a külföldi rendszámmal ellátott járművek belföldi használatára vonatkozó egyes előírások hatékony ellenőrzésének biztosítása, a közigazgatási eljárás gyors és pontos lefolytatása, a végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása.
 
 (2) A közigazgatási bírságnyilvántartás tekintetében az adatkezelői feladatokat a közlekedési hatóság látja el.
 
@@ -719,7 +719,12 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) A közigazgatási bírságnyilvántartás részére az (1) bekezdésben meghatározott adatokat az eljáró hatóság, illetve a bíróság jogszabályban meghatározott formában és módon közli.
 
-21/E. § (1) A nyilvántartó szerv a közigazgatási bírságnyilvántartásba felvett adatokat a bírság megfizetését, illetve bírságfizetési kötelezettség megszűnését követően hat hónapig kezeli.
+21/E. § (1) A nyilvántartó szerv a közigazgatási bírságnyilvántartásba felvett adatokat
+
+- a) a bírság megfizetését, vagy a bírságfizetési kötelezettség megszűnését, és
+- b) a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat az ellenőrzést
+
+követő hat hónapig kezeli.
 
 (2) Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
 
@@ -904,8 +909,8 @@ nem terjednek ki.
 (4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető
 
 - a) szokásos tartózkodási helye nem Magyarország területén van,
-- b) a járművet egy napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
-- c) a járművet Magyarország területén kívüli rendszeres munkavégzés érdekében használja.
+- b) a járművet – hat hónapon belül összességében – 30 nap időtartamot meg nem haladóan használja Magyarország területén és a használathoz az üzemben tartó a jármű birtokba adása időpontjának, továbbá a használati jogosultság időtartamának megjelölését is tartalmazó okiratba foglalt nyilatkozatával hozzájárult, vagy
+- c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra.
 
 (4a) Az (1) bekezdésben foglaltakat nem kell alkalmazni a következő feltételek fennállásának ideje alatt és az azt követő 30 napig, ha a járművezető vagy az üzemben tartó
 
@@ -917,6 +922,8 @@ nem terjednek ki.
 (5) A (2) és (4) bekezdésben meghatározott feltételek fennállását az ellenőrzés során a jármű üzemben tartója, valamint a jármű vezetője magyar nyelvű, vagy magyar nyelvű hiteles fordítással vagy hiteles fordításnak nem minősülő egyszerű fordítással is ellátott közokirattal vagy teljes bizonyító erejű magánokirattal köteles igazolni.
 
 (6) Az ellenőrző hatóság az (1) bekezdésben meghatározottak megsértéséről a jármű hatósági engedélyében feltüntetett, a jármű tulajdonosára és az üzemben tartójára vonatkozó adatok, valamint a jármű azonosító- és műszaki adatainak továbbításával értesíti az állami adóhatóságot is.
+
+(7) Az ellenőrző hatóság a külföldi rendszámmal ellátott gépjármű közúti ellenőrzése során a közigazgatási bírságnyilvántartásban rögzíti a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat, ha a jármű használata a (4) bekezdés b) pontjában meghatározottak alapján történik.
 
 26. § A járműállomány zavartalan üzemeltetése érdekében hazai gyártású járműveknél a gyártó, importból származó járműveknél az importáló feladata
 
