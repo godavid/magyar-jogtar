@@ -16,41 +16,19 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 14. §
 
-15. § A Kkt. 21/C. § előtti alcím megjelölése helyébe a következő megjelölés lép, és egyidejűleg a 21/C. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„A központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás
-
-(1) A központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás (a továbbiakban: közigazgatási bírságnyilvántartás) célja a 20. §-ban meghatározott szabályszegések elkövetése alapján eljárás alá vont természetes személyre, jogi személyre, illetve jogi személyiséggel nem rendelkező szervezetre (a továbbiakban együtt: szabályszegőre), a szabályszegésre, továbbá a kiszabott bírság megfizetésére vonatkozó adatok nyilvántartása, a külföldi rendszámmal ellátott járművek belföldi használatára vonatkozó egyes előírások hatékony ellenőrzésének biztosítása, a közigazgatási eljárás gyors és pontos lefolytatása, a végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása.”
+15. §
 
 16. §
 
-17. § A Kkt. 21/E. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nyilvántartó szerv a közigazgatási bírságnyilvántartásba felvett adatokat
-
-a) a bírság megfizetését, vagy a bírságfizetési kötelezettség megszűnését, és
-
-b) a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat az ellenőrzést
-
-követő hat hónapig kezeli.”
+17. §
 
 18–19. §
 
-20. § (1) A Kkt. 25/B. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető
-
-a) szokásos tartózkodási helye nem Magyarország területén van,
-
-b) a járművet – hat hónapon belül összességében – 30 nap időtartamot meg nem haladóan használja Magyarország területén és a használathoz az üzemben tartó a jármű birtokba adása időpontjának, továbbá a használati jogosultság időtartamának megjelölését is tartalmazó okiratba foglalt nyilatkozatával hozzájárult, vagy
-
-c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra.”
+20. § (1)
 
 (2)–(3)
 
-(4) A Kkt. 25/B. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az ellenőrző hatóság a külföldi rendszámmal ellátott gépjármű közúti ellenőrzése során a közigazgatási bírságnyilvántartásban rögzíti a 21/D. § (1) bekezdés j) pontjában meghatározott adatokat, ha a jármű használata a (4) bekezdés b) pontjában meghatározottak alapján történik.”
+(4)
 
 21–25. §
 
