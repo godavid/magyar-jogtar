@@ -687,6 +687,8 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 (12) Amennyiben az adószám megállapítását követő egy éven belül az állami adóhatóság tudomására jut, hogy az adózó adószámának megállapítására a (2) bekezdésben meghatározott valamely akadály fennállása ellenére került sor, az állami adóhatóság a 24/D. § rendelkezéseinek megfelelő alkalmazásával jár el az adózóval szemben.
 
+(13) Ha az adózó vezető tisztségviselője vagy tagja olyan gazdasági társaság, vagy olyan gazdasági társaság jelenlegi vagy volt vezető tisztségviselője, illetve tagja, amelyben a Magyar Állam, vagy az államot megillető tulajdonosi jogokat gyakorló szervezet közvetlenül, vagy közvetett módon 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkezik, az érintett személy az adószám megállapítását megtagadó határozat, vagy az állami adóhatóság Art. 24/D. § (2) bekezdése szerinti felszólításának kézbesítését követő 8 napos jogvesztő határidőn belül az adóregisztrációs eljárás megszüntetése érdekében kérelmet nyújthat be az állami adóhatósághoz. A kérelem alapján az állami adóhatóság az adószám megállapítását megtagadó határozatot visszavonja, és az adószámot megállapítja, illetve az adóregisztrációs eljárást megszünteti.
+
 24/D. § (1) Az állami adóhatóság a 17. § (1) bekezdés b) pontja szerinti adózók vezető tisztségviselőjének, képviseletre jogosult tagjának, vagy a korlátolt felelősségű társaság, zártkörűen működő részvénytársaság esetében az 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező tagja, vagy részvényese (e szakasz alkalmazásában: tag) személyében történt változásról történt tudomásszerzést követően 30 napon belül megvizsgálja, hogy a változás miatt bekövetkezett-e a 24/C. § (2) bekezdésben meghatározott valamely akadály.
 
 (2) Az állami adóhatóság az akadály megállapítása esetén felszólítja az adózót, hogy a felszólítás kézbesítésétől számított 15 napon belül hárítsa el azt. Abban az esetben, ha az adózó nem tesz eleget a felszólításnak és mulasztását nem menti ki, a 24/B. § szerint jár el, azzal, hogy az adószám törlését elrendelő határozatot – a hirdetményi úton történő közlés mellőzésével – közvetlenül az adózóval közli.
@@ -3897,6 +3899,8 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (12) A Mód. törvénnyel megállapított 141. § (5) bekezdését a hatálybalépését követően indult ügyekben kell alkalmazni.
 
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
+
+(15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 

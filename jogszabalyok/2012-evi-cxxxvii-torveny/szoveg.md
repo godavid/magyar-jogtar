@@ -2,7 +2,25 @@
 
 a Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezményhez fűzött fenntartásról és az egyezmény módosításának kihirdetéséről
 
-1. §
+1. § A Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezmény kihirdetéséről szóló 2003. évi XXXII. törvény (a továbbiakban: Tv.) a következő 2/A. §-sal egészül ki:
+
+„2/A. § Az Országgyűlés felhatalmazást ad arra, hogy Magyarország a Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezményhez a következő fenntartást tegye:
+
+Az Egyezmény XVI. és XXIII. cikke alapján Magyarország fenntartással él az India által az Egyezmény III. Függelékébe felvett következő taxonokra vonatkozóan:
+
+1. Vulpes vulpes griffithii
+
+2. Vulpes vulpes montana
+
+3. Vulpes vulpes pusilla
+
+4. Mustela altaica
+
+5. Mustela erminea ferghanae
+
+6. Mustela kathiah
+
+7. Mustela sibirica”
 
 2. § Az Országgyűlés a Tv.-nyel kihirdetett egyezmény módosított I., II. és III. Függelékét e törvénnyel hirdeti ki.
 
@@ -3264,6 +3282,8 @@ b) a „var(s)” rövidítés a változato(ka)t,
 
 4. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2)–(3)
+(2) Hatályát veszti a Washingtonban, 1973. március 3. napján elfogadott, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelméről szóló egyezmény módosításának kihirdetéséről szóló 2010. évi CLV. törvény.
+
+(3) A Tv. 1. §-ában az „egyezményt” szövegrész helyébe az „egyezményt (a továbbiakban: Egyezmény)” szöveg lép.
 
 (4) Az 1. §-ban szereplő fenntartásnak Magyarország részéről a letéteményes kormány felé való közléséről a külpolitikáért felelős miniszter, e törvény végrehajtásához szükséges egyéb intézkedésekről a természetvédelemért felelős miniszter gondoskodik.

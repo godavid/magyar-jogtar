@@ -112,6 +112,8 @@ képezi.
 
 (3) Az (1) bekezdés szerinti korlátozás mindaddig vonatkozik az (1) bekezdésben meghatározott gazdasági társaságokra, amíg azok – közvetlen vagy közvetett – többségi állami tulajdonban vannak.
 
+9/A. § Az állam a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság számára 2012. évben nyújtandó tulajdonosi kölcsönt legfeljebb 150 000,0 millió forint összegben állampapírok átadásával is teljesítheti. A külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter mint a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság tekintetében tulajdonosi jogok gyakorlására jogosult, a tulajdonosi kölcsönnyújtás keretében történő állampapír-átadást az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság útján teljesíti.
+
 #### 4. A központi költségvetési szervekkel és a fejezeti kezelésű előirányzatokkal kapcsolatos rendelkezések
 
 10. § (1) A Magyar Kereskedelmi Engedélyezési Hivatal 1316,8 millió forintot, a Magyar Bányászati és Földtani Hivatal 607,2 millió forintot, a Nemzeti Közlekedési Hatóság 20 730,5 millió forintot, az Országos Atomenergia Hivatal 333,8 millió forintot, a Közlekedésfejlesztési Koordinációs Központ 185,3 millió forintot köteles 2012. évben befizetni a bevételeiből – az államháztartásért felelős miniszter által jóváhagyott ütemezési terv szerint – a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
