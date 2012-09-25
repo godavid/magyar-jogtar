@@ -71,12 +71,9 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (4) Egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött vezető tisztségviselői megbízatás, valamint legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött felügyelőbizottsági tagság után részesülhet javadalmazásban.
 
-7. § (1) A cégbíróság nem alkalmazza a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény eltiltási jogkövetkezményét, ha
+7. § (1) A cégbíróság nem alkalmazza a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény eltiltás jogkövetkezményét az állammal, az államot megillető tulajdonosi jogokat gyakorló szervezettel vagy ilyen szervezet közvetlen vagy közvetett többségi befolyása alatt álló szervezettel szemben.
 
-- a) az államháztartás alrendszerébe tartozó szerv a gazdasági társaságban jogszabály rendelkezése alapján szerzett legalább többségi befolyást, és a kényszertörlési eljárás megindítására okot adó körülmény a tulajdonátszállás időpontját megelőzően következett be, vagy
-- b) a kényszertörlési eljárás megindítására okot adó körülmény azért következett be, mert az államháztartás alrendszerébe tartozó szervnek – mint a legalább többségi befolyással rendelkező tagnak (részvényesnek) – jogszabály rendelkezései alapján vagy közjogi, nemzetközi jogi, vagy az alapvető közszolgáltatásokkal való ellátási kötelezettségeire tekintettel nem volt lehetősége olyan tulajdonosi döntés meghozatalára, amellyel elháríthatta volna a kényszertörlés megindítási okának bekövetkeztét.
-
-(2) Az a gazdasági társaság, amelyben az államháztartás alrendszerébe tartozó szerv külön-külön vagy együttesen számítva többségi befolyással rendelkezik, az állami adóhatósághoz kérelmet nyújthat be annak érdekében, hogy az adószám megállapításának nincs akadálya az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 24/C. § (5) és (6) bekezdésében felsorolt okokon kívül akkor sem, ha az államháztartás alrendszerébe tartozó szervnek, mint tulajdonosi joggyakorlónak közjogi, nemzetközi jogi vagy az alapvető közszolgáltatásokkal való ellátási kötelezettségeire tekintettel nem volt lehetősége olyan tulajdonosi döntés meghozatalára, amellyel elháríthatta volna a kényszertörlési eljárás megindítására alapot adó körülményt. Vezető tisztségviselő esetében az Art. 24/C. § (5) és (6) bekezdésében és az e bekezdésben meghatározott okokon kívül az állami adóhatóság akkor állapíthatja meg, hogy az adószám megállapításának nincs akadálya, ha a vezető tisztségviselő megbízására korábban vagy a bejegyzés alatt álló gazdasági társaság esetében kifejezetten a fizetésképtelenséget elhárító intézkedések, illetve a reorganizáció végrehajtása érdekében kerül sor.
+(2)
 
 8. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -96,4 +93,4 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (2) E törvény 5. § (1) bekezdését, valamint 7. § (1)–(3) bekezdését az e törvény hatálybalépését követően kötött vagy a javadalmazásra vonatkozó részében módosított munkaszerződésekre kell alkalmazni.
 
-(3) E törvénynek az állami vagyonnal összefüggő egyes rendelkezésekről szóló 2012. évi CXIV. törvénnyel (a továbbiakban: Mód.tv.) megállapított 7. §-át a Mód.tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+(3) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 7. § (1) bekezdésében foglaltakat a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
