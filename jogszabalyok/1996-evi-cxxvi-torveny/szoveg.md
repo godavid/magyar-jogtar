@@ -44,10 +44,11 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 4. § (1) E törvény alkalmazásában kedvezményezett
 
-- a) azon
-  - aa) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil. tv.) szerinti egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet), amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, és
-  - ab) alapítvány, amelyet a bíróság a magánszemély rendelkező nyilatkozata évének első napja előtt legalább két évvel, továbbá
-  - ac) közhasznú alapítvány, egyesület és közalapítvány, amelyet a bíróság a rendelkező nyilatkozat évének első napja előtt legalább egy évvel – vagy ez idő letelte előtt, amennyiben az aa)–ab) pontban foglalt feltételeknek egyébként megfelel –, közhasznú szervezetként jogerősen nyilvántartásba vett, és az alapszabálya, illetőleg az alapító okirata szerint a rendelkező nyilatkozat(ok) évét megelőző év első napja óta megszakítás nélkül – törvény szerinti – közhasznú tevékenységgel ténylegesen foglalkozik;
+- a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
+  - aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
+  - ab) két évvel korábban bíróság által nyilvántartásba vett – a polgári törvénykönyvről szóló törvény szerinti – alapítvány,
+  - ac) egy évvel korábban bíróság által nyilvántartásba vett olyan közhasznú alapítvány vagy közhasznú egyesület, amely tevékenységét állami szervvel vagy helyi önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi, valamint
+  - ad) egy évvel korábban bíróság által nyilvántartásba vett közalapítvány, ha az alapcél szerinti közhasznú tevékenységét a magánszemély rendelkező nyilatkozata évét megelőző év első napja óta megszakítás nélkül végzi;
 - b) a Magyar Tudományos Akadémia;
 - c) az Országos Tudományos Kutatási Alapprogramok (OTKA);
 - d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 2. és 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Országos Széchényi Könyvtár, 4. Magyar Nemzeti Filmarchívum, 5. Neumann János Multimédia Központ és Digitális Könyvtár;
@@ -63,9 +64,11 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 - b) magyarországi közösség, illetve a határon túli magyarság érdekében működik, és
 - c) alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek, és
 - d) nyilatkozik arról, hogy a rendelkező nyilatkozat évének augusztus 1. napja és az általa tett nyilatkozat időpontja között nem volt olyan lejárt esedékességű köztartozása, amelyre fizetési halasztást vagy részletfizetési kedvezményt nem kapott, és
-- e) nyilatkozik arról, hogy az alapszabálya, alapító okirata szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
-- f) az (1) bekezdés a) pont ac) pontjában meghatározott közhasznú alapítvány, egyesület a szerződés másolatának az adóhatósághoz történő becsatolásával igazolja, hogy tevékenységét állami szervvel vagy önkormányzattal a rendelkező nyilatkozat évének első napja előtt legalább egy évvel kötött szerződés alapján végzi;
+- e) nyilatkozik arról, hogy az alapcél szerinti közhasznú tevékenységét a rendelkező nyilatkozat évét megelőző év első napja óta megszakítás nélkül ténylegesen folytatja;
+- f)
 - g)
+
+(2a) Az (1) bekezdés a) pont ac) alpontja szerinti kedvezményezett az állami szervvel vagy helyi önkormányzattal kötött szerződése másolatának az adóhatósághoz történő becsatolásával igazolja, hogy közhasznú tevékenységét közfeladat-ellátási kötelezettség mellett végzi.
 
 (3) Ha az (1) bekezdés szerinti kedvezményezett a (2) bekezdés d) pontjában meghatározott feltételt, és az (5) bekezdésben megjelölt határidőt nem teljesíti, kivételes méltányosságot érdemlő esetben az adóhatóság eltekinthet e feltételek meglététől. Kivételes méltányosságot érdemel különösen, ha a rendelkezett összeg átutalásának meghiúsulása a kedvezményezett alapvető céljának elérését súlyosan veszélyezteti. A kivételes méltányosság gyakorlása esetén a 6. § (1) bekezdése szerinti átutalást – legkésőbb a rendelkező nyilatkozat éve utolsó napját követő egy éven belül – az adóhatóság akkor teljesítheti, ha ezt megelőzően a kedvezményezett a köztartozását rendezi.
 
@@ -206,7 +209,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (8) A felhasználás abban az esetben tekinthető – a közcélú tevékenység szempontjából – megfelelőnek, amennyiben a költségvetési támogatást
 
-- a) a 4. § (1) bekezdés a) pont aa)–ac) pontja szerinti kedvezményezett az alapító okiratában, alapszabályában alaptevékenységként meghatározott – a Civil tv. szerinti – közhasznú tevékenység megvalósítására fordítja,
+- a) a 4. § (1) bekezdés a) pont aa)–ad) alpontja szerinti kedvezményezett az alapcél szerinti közhasznú tevékenysége megvalósítására fordítja,
 - b) a 4. § (1) bekezdés b)–g) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 
 (9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6/C. § (1) bekezdése szerinti tartalékolás esetén, ideértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege a felhasználás évében nem haladhatja meg a felhasznált összeg ötven százalékát.
@@ -251,4 +254,27 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 8/B. § A 4. § (2) bekezdés a Magyarország 2012 . évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel hatályon kívül helyezett g) pontját a hatályvesztését megelőzően tett rendelkező nyilatkozatok tekintetében alkalmazni kell.
 
-9. §
+9. § A kedvezményezett a 2012. és 2013. évben a 4. § (2) bekezdés e) pontja szerinti nyilatkozatát a következő tevékenységekre vonatkozóan teszi:
+
+- 1. egészségmegőrzés, betegségmegelőzés, gyógyító-, egészségügyi rehabilitációs tevékenység,
+- 2. szociális tevékenység, családsegítés, időskorúak gondozása,
+- 3. tudományos tevékenység, kutatás,
+- 4. nevelés és oktatás, képességfejlesztés, ismeretterjesztés,
+- 5. kulturális tevékenység,
+- 6. kulturális örökség megóvása,
+- 7. műemlékvédelem,
+- 8. természetvédelem, állatvédelem,
+- 9. környezetvédelem,
+- 10. gyermek- és ifjúságvédelem, gyermek- és ifjúsági érdekképviselet,
+- 11. hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése,
+- 12. emberi és állampolgári jogok védelme,
+- 13. a magyarországi nemzetiségekkel, valamint a határon túli magyarsággal kapcsolatos tevékenység,
+- 14. sport, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével,
+- 15. közrend és közlekedésbiztonság védelme, önkéntes tűzoltás, mentés, katasztrófaelhárítás,
+- 16. fogyasztóvédelem,
+- 17. rehabilitációs foglalkoztatás,
+- 18. munkaerőpiacon hátrányos helyzetű rétegek képzésének, foglalkoztatásának elősegítése – ideértve a munkaerő-kölcsönzést is – és a kapcsolódó szolgáltatások,
+- 19. euroatlanti integráció elősegítése,
+- 20. közhasznú jogállású szervezetek számára biztosított – csak közhasznú jogállású szervezetek által igénybe vehető – szolgáltatások,
+- 21. ár- és belvízvédelem ellátásához kapcsolódó tevékenység,
+- 22. bűnmegelőzés és áldozatvédelem.

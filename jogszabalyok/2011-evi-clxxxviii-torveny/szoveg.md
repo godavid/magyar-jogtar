@@ -475,7 +475,7 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (3) A Nemzetközi Újjáépítési és Fejlesztési Banktól (Világbank), az Európai Beruházási Banktól (EIB), az Európai Újjáépítési és Fejlesztési Banktól (EBRD), a német Újjáépítési és Hitelbanktól (KfW), az Északi Beruházási Banktól (NIB), valamint az Európa Tanács Fejlesztési Bankjától (CEB) felveendő hitelekhez vállalható egyedi állami kezességek és állami garanciák nem terhelik az (1) bekezdés szerinti keretösszeget.
 
-42. § A 2012. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg a 250 000,0 millió forintot.
+42. § A 2012. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg a 320 000,0 millió forintot.
 
 43. § (1) A Magyar Fejlesztési Bank Zrt. (a továbbiakban: MFB Zrt.) állami kezesség mellett forrásszerzés céljából felvett hiteleinek, kölcsöneinek, valamint kötvénykibocsátásainak együttes állománya a 2012. év folyamán legfeljebb 1 750 000,0 millió forint lehet.
 

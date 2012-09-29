@@ -8,7 +8,7 @@ A magyarság hosszú, nehéz történelme során, különösen a honfoglalás é
 
 2. § Az Országgyűlés a magyar nemzet soha el nem múló hálája jeléül, a ma élő és a jövő nemzedékek okulására, a hősök dicsőségére minden esztendő május hónapjának utolsó vasárnapját a Magyar Hősök Emlékünnepévé nyilvánítja.
 
-3. § Az Országgyűlés kifejezi azon meggyőződését, hogy az állami szervek, a helyi önkormányzatok, az egyházak, az egyesületek, a magyar nemzet fiai és leányai minden évben, a Magyar Hősök Emlékünnepén méltó megemlékezés keretében leróják hálájukat és kegyeletüket az elmúlt ezredév magyar hőseinek.
+3. § Az Országgyűlés kifejezi azon meggyőződését, hogy az állami szervek, a helyi önkormányzatok, az egyházak, a civil szervezetek, a magyar nemzet fiai és leányai minden évben, a Magyar Hősök Emlékünnepén méltó megemlékezés keretében leróják hálájukat és kegyeletüket az elmúlt ezredév magyar hőseinek.
 
 4. § (1) Az Országgyűlés elismeréssel adózik az elődöknek, akik a budapesti Hősök terén a Millenniumi Emlékmű és a Hősök Emlékköve felállításával méltó emléket állítottak a Haza megmentőinek, megtartóinak és hőseinek.
 
