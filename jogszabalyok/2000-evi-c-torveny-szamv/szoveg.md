@@ -2731,13 +2731,25 @@ került sor.
 - a) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása iránti eljárás jogerős befejezéséig vagy
 - b) a könyvviteli szolgáltatás végzésére jogosító engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-152. § (1) A könyvviteli szolgáltatást végzők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelesek szakmai továbbképzésen részt venni.
+152. § (1) A könyvviteli szolgáltatást végzők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelező számukra a szakmai továbbképzés.
 
-(2) Az (1) bekezdés szerinti továbbképzés tematikáját, időtartamát – a szakmai szervezetek és az Országos Számviteli Bizottság bevonásával – a miniszter határozza meg.
+(2) Az (1) bekezdés szerinti továbbképzést – ide nem értve a (3) bekezdés szerinti eseteket – a miniszter által akkreditált szervezet, a miniszter által kreditpont-minősítési eljárásban minősített szakmai továbbképzési program alapján végezheti.
 
-(3) Az (1) bekezdés szerinti továbbképzést a miniszter által akkreditált szervezet végezheti.
+(3) Az (1) bekezdés szerinti továbbképzési kötelezettség a 151. § (4) bekezdés szerinti kormányrendeletben meghatározott egyéb módon is teljesíthető.
 
-152/A. § A 151. § szerinti engedélyezési eljárásért, valamint a 152. § (3) bekezdése szerinti akkreditációs eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(4) A továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet nyilvántartást vezet, amely alapján a 151. § (4) bekezdésben hivatkozott kormányrendeletben meghatározott módon és az alábbi adattartalommal megküldi a továbbképzési kötelezettség igazolásához szükséges adatokat a miniszternek:
+
+- a) az akkreditált szervezet sorszáma, neve, címe,
+- b) a résztvevők adatai:
+  - ba) regisztrálási szám,
+  - bb) családi és utónév,
+  - bc) születési családi és utónév,
+  - bd) születési hely, idő,
+  - be) anyja születési családi és utóneve,
+  - bf) nyilvántartásban szereplő címe (irányítószám, helység, utca, házszám),
+- c) a képzés azonosítója és kreditpontértéke.
+
+152/A. § A 151. § (5) bekezdés szerinti engedélyezési eljárásért, a 152. § (2) bekezdése szerinti akkreditációs eljárásért, valamint kreditpont-minősítési eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
 152/B. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező természetes személy szolgáltató Magyarország területén a 151. § (1) bekezdése szerinti könyvviteli szolgáltatás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire is figyelemmel – a nyilvántartásba vételt végző szervezetnek bejelenteni. A nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatás végzésére jogosult bejelentést tevőt nyilvántartásba veszi.
 
@@ -3178,6 +3190,10 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (16) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 3. § (4) bekezdés 10. pont e) alpontját, 3. § (8) bekezdés 12. pontját, 9. § (3)–(4) bekezdését, 11. § (3) bekezdését, 33. § (6) bekezdését, 47. § (8) bekezdését, 59/C. § (2) bekezdését, 60. § (2) bekezdését, 60. § (6) bekezdését, 60. § (10) bekezdését, 84. § (8) bekezdését, 85. § (4) bekezdését, 86. § (9) bekezdését, 93. § (1) bekezdés b) pontját, 96. § (4)–(6) bekezdését, 116. § (1) bekezdésének felvezető szövegét, 116. § (2) bekezdését, 116. § (6) bekezdését, 140. § (6) bekezdését, 141. § (4) bekezdését, 153. § (5) bekezdését, 154/A. § (5) bekezdését, valamint 6. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (17) E törvénynek a (16) bekezdésben hivatkozott, az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított rendelkezései a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(18) A könyvviteli szolgáltatást végzők a 2012. évi továbbképzési kötelezettségüknek a 2012. április 1-jén akkreditációval rendelkező szervezeteknél, a 2012. április 1-jén hatályos szabályok szerint lebonyolított továbbképzések teljesítésével kötelesek eleget tenni.
+
+(19) A 152. § alapján a 2012. évben kreditrendszerű továbbképzések teljesítésével megszerzett kreditpontok a 2013. évi továbbképzési kötelezettség vonatkozásában vehetők figyelembe.
 
 (20) E törvénynek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény 25. §-ának i) pontjával módosított 155. §-a (3) bekezdése a) pontját először a 2012. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
