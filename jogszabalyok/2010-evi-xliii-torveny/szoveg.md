@@ -191,6 +191,8 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter és az államtitkár özvegyét – özvegy hiányában a miniszter és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
 
+(3a) A miniszterelnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori miniszterelnöki illetmény havi összegét kell a miniszterelnök öregségi nyugdíjaként figyelembe venni.
+
 (4) Ha a politikai vezető megbízatása a (2) bekezdésben meghatározott okokból
 
 - a) miniszterelnök esetében két évnél,
@@ -875,7 +877,7 @@ helyettesíti.
 
 (2) Azokra az állami vezetőkre, akiknek megbízatása e törvény hatálybalépését megelőzően szűnt meg, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény rendelkezéseit kell alkalmazni a 12/A. § kivételével.
 
-(3)
+(3) A 13. § (3a) bekezdését a hatálybalépése előtt megállapított hozzátartozói nyugellátásra is alkalmazni kell az 1990. május 23-át követően miniszterelnöki tisztséget betöltött személy hozzátartozója esetében.
 
 (4) Az e törvény hatálybalépését megelőzően a központi államigazgatási szervek, valamint területi és helyi szerveik, továbbá a minisztérium főosztályának vezetésére adott vezetői megbízásokra a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 31. § (10)–(17) bekezdésének e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 

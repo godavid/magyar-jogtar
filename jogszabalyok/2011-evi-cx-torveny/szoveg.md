@@ -78,7 +78,9 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 12. § A köztársasági elnök, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 
-13. § A köztársasági elnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
+13. § (1) A köztársasági elnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
+
+(2) A köztársasági elnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori köztársasági elnöki tiszteletdíj havi összegét kell a köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
 14. § (1) A köztársasági elnök a részére járó juttatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
 

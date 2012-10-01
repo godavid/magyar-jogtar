@@ -367,7 +367,7 @@ gyakorolja.
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
 - a) a 148. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
-- b) a 20/A. §-ban meghatározott pénzbeli támogatásnak,
+- b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 - c) a külön jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
@@ -421,14 +421,12 @@ meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szül
 
 20/A. § (1) A települési önkormányzat jegyzője annak a gyermeknek, fiatal felnőttnek, akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága
 
-- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában,
-- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában
+- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjára tekintettel,
+- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjára tekintettel
 
-pénzbeli támogatást folyósít.
+természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható Erzsébet-utalvány formájában.
 
-(2) Az (1) bekezdés szerinti pénzbeli támogatás esetenkénti összege 2006. évben gyermekenként 5000 forint. A 2006. évet követően a pénzbeli támogatás összegének emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
-
-(3) Az (1) bekezdés szerinti támogatás – a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározott feltételek és eljárás szerint – természetben is nyújtható.
+(2) Az (1) bekezdés szerinti támogatás esetenkénti összegéről az Országgyűlés a központi költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
 ### Kiegészítő gyermekvédelmi támogatás
 
@@ -3112,6 +3110,8 @@ gyermek után az intézményi térítési díj 100%-át,
 
 - a) azon ügyekben, amelyekben a közoktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, Cst. 15. § (1) bekezdés a) pontja, ennek hiányában a Cst. 15. § (1) bekezdés b) pontja szerinti jelzése 2012. január 31-ét követően érkezik meg a települési önkormányzat jegyzőjéhez, és
 - b) az iskoláztatási támogatás folyósítása felfüggesztésének 2012. január 31-ét követő felülvizsgálata során.
+
+161/I. § A 20/A. §-nak az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel megállapított rendelkezéseit a 2012. október 1-jét megelőzően megállapított rendszeres gyermekvédelmi kedvezményre való jogosultság esetében a határozat módosítása nélkül kell alkalmazni.
 
 161/J. § (1) E törvénynek az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel módosított 68/A. §-át azokban az ügyekben kell alkalmazni, amelyekben
 
