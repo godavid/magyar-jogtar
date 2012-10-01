@@ -70,29 +70,36 @@ kérheti.
 
 (7) Az oktatásért felelős miniszter, illetve a szakképesítésért felelős miniszter pályázatot írhat ki elektronikus adathordozón rögzített tananyag elkészítésére és forgalmazására, illetve az iskolák részére történő eljuttatására.
 
-4. § (1) A közoktatási feladatkörében eljáró oktatási hivatal elkészíti a tankönyvek hivatalos jegyzékét és közzéteszi azt az oktatásért felelős miniszter által vezetett minisztérium honlapján, továbbá gondoskodik a jegyzék folyamatos felülvizsgálatáról és frissítéséről. A tankönyvek hivatalos jegyzékébe fel kell venni a tankönyvvé nyilvánított digitális tananyagot és az oktatási program (pedagógiai rendszer) részét alkotó, tankönyvvé nyilvánított információhordozót.
+4. § (1) A hivatal elkészíti a tankönyvek hivatalos jegyzékét, és közzéteszi azt az oktatásért felelős miniszter által vezetett minisztérium honlapján, továbbá gondoskodik a jegyzék folyamatos felülvizsgálatáról és frissítéséről. A tankönyvek hivatalos jegyzékébe fel kell venni a tankönyvvé nyilvánított digitális tananyagot és a nevelési-oktatási program részét alkotó, tankönyvvé nyilvánított információhordozót, feladathordozót.
 
 (2) Nem tagadható meg a tankönyvjegyzékre történő felvétele annak a könyvnek, amelyik megfelel az e törvényben és a miniszteri rendeletben foglaltaknak.
 
-(3) A tankönyvjegyzékre kerülés feltétele, hogy a kiadó vállalja
+(3) Azt a tankönyvet, amelyet adott évfolyamra, műveltségi területre, tantárgyra az oktatásért felelős miniszter nyilvános pályázati eljárás során választott ki, a hivatal a miniszter döntése alapján felveszi a tankönyvek hivatalos jegyzékére.
 
-- a) a tankönyv elektronikus úton történő átadását a Magyar Vakok és Gyengénlátók Országos Szövetsége részére (a továbbiakban: Szövetség), a Szövetség megkeresésére, az e törvényben meghatározott feltételek szerint,
+(4) A tankönyvjegyzékre kerülés feltétele, hogy a kiadó vállalja
+
+- a) a tankönyv elektronikus úton történő átadását a Magyar Vakok és Gyengénlátók Országos Szövetsége (a továbbiakban: Szövetség) részére, a Szövetség megkeresésére, az e törvényben meghatározott feltételek szerint,
 - b) a tankönyvnek az oktatásért felelős miniszter által meghatározott összeghatáron belüli fogyasztói áron történő értékesítését az iskolai tankönyvellátás keretében.
 
-(4) Az oktatásért felelős miniszter – a Tankönyves Vállalkozók Országos Testülete véleményének kikérésével – meghatározza azt az összeghatárt, amelynél magasabb fogyasztói ár (a továbbiakban: árkorlát) alkalmazása esetén a tankönyv nem kerülhet fel a tankönyvjegyzékre. A szakképzés szakmai tantárgyainak tankönyvei tekintetében az oktatásért felelős miniszter az árkorlátot a szakképesítésért felelős miniszter egyetértésével határozza meg. Az árkorlát meghatározásakor a tankönyv-előállítás és -forgalmazás tényleges és várható költségeit, így különösen a tankönyv terjedelmét, kivitelezését, várható példányszámát kell mérlegelni. Az oktatásért felelős miniszter több összeghatárt is meghatározhat.
+(5) Az oktatásért felelős miniszter – a Tankönyves Vállalkozók Országos Testülete véleményének kikérésével – meghatározza azt az összeghatárt, amelynél magasabb fogyasztói ár (a továbbiakban: árkorlát) alkalmazása esetén a tankönyv nem kerülhet fel a tankönyvjegyzékre. A szakképzés szakmai tantárgyainak tankönyvei tekintetében az oktatásért felelős miniszter az árkorlátot a szakképesítésért felelős miniszter egyetértésével határozza meg. Az árkorlát meghatározásakor a tankönyv-előállítás és -forgalmazás tényleges és várható költségeit, így különösen a tankönyv terjedelmét, kivitelezését, várható példányszámát kell mérlegelni. Az oktatásért felelős miniszter több összeghatárt is meghatározhat.
 
-(5) A forgalmazó köteles biztosítani, hogy a tanuló az e törvényben szabályozott iskolai tankönyvellátásban, legfeljebb a jegyzékben feltüntetett legmagasabb fogyasztói áron (a továbbiakban: iskolai terjesztési áron) jusson hozzá a tankönyvhöz. Az iskolai terjesztési ár tartalmazza az általános forgalmi adó összegét is.
+(6) A tankönyvek országos megrendelése, beszerzése és az iskoláknak történő eljuttatásának megszervezése, valamint a tankönyvek vételárának iskoláktól való beszedése (a továbbiakban: tankönyvellátás) állami közérdekű feladat, amelyet az állam a Könyvtárellátó Kiemelten Közhasznú Nonprofit Korlátolt Felelősségű Társaságon (a továbbiakban: Könyvtárellátó) keresztül lát el. A Könyvtárellátó biztosítja, hogy a tanuló legfeljebb a jegyzékben feltüntetett legmagasabb fogyasztói áron (a továbbiakban: iskolai terjesztési áron) jusson hozzá a tankönyvhöz. Az iskola biztosítja, hogy a tanuló az iskolai tankönyvellátás keretében jusson hozzá a tankönyvhöz, a 8/A. §-ban foglaltak szerint. Az iskolai terjesztési ár tartalmazza az általános forgalmi adó összegét is.
 
-(6) El kell utasítani a tankönyvjegyzékre történő felvételre benyújtott kérelmet, ha a kiadó
+(7) El kell utasítani a tankönyvjegyzékre történő felvételre benyújtott kérelmet, ha a kiadó
 
 - a) az iskolai terjesztési árat az előző évi iskolai terjesztési árhoz képest aránytalanul meg kívánja növelni,
-- b) nem vállalja a (3) bekezdésben meghatározott kötelezettséget.
+- b) nem vállalja a (4) bekezdésben meghatározott kötelezettséget,
+- c) adott könyvét, amellyel az oktatásért felelős miniszter a nyilvános pályázati eljárásban részt vett, de a miniszter nem választotta ki.
 
-(7) A tankönyvet törölni kell a tankönyvjegyzékről, ha utóbb bebizonyosodik, hogy a tankönyvjegyzékre kerülés iránti kérelmet el kellett volna utasítani, vagy a kiadó utóbb nem tesz eleget a tankönyvvé válás valamely feltételének.
+(8) A tankönyvet törölni kell a tankönyvjegyzékről, ha utóbb bebizonyosodik, hogy
 
-(8) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről – a (9) bekezdésben meghatározott kivétellel – közoktatási feladatkörében eljáró oktatási hivatal dönt.
+- a) a tankönyvjegyzékre kerülés iránti kérelmet el kellett volna utasítani, vagy
+- b) a kiadó utóbb nem tesz eleget a tankönyvvé nyilvánítás valamely feltételének vagy
+- c) az oktatásért felelős miniszter által szervezett nyilvános pályázati eljárás során vállalt bármely feltételének.
 
-(9) A szakképzés szakmai tankönyveinek a tankönyvjegyzékre történő felvételéről a szakképesítésért felelős miniszter dönt. A szakképesítésért felelős miniszter az általa jóváhagyott, illetőleg a jegyzékről törölt tankönyvek jegyzékét megküldi a közoktatási feladatkörében eljáró oktatási hivatalnak, amely gondoskodik a tankönyvek jegyzékre vételéről, illetve törléséről.
+(9) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről – a (3) és (10) bekezdésben meghatározott kivétellel – a hivatal dönt.
+
+(10) A szakképzés szakmai tankönyveinek a tankönyvjegyzékre történő felvételéről a szakképesítésért felelős miniszter dönt. A szakképesítésért felelős miniszter az általa jóváhagyott, illetőleg a jegyzékről törölt tankönyvek jegyzékét megküldi a hivatalnak, amely gondoskodik a tankönyvek jegyzékre vételéről, illetve törléséről.
 
 5. § A tankönyvvé nyilvánítás és a tankönyvjegyzék elkészítésének költségei a kérelem benyújtóját terhelik, melyet az oktatásért felelős miniszter által – az adópolitikáért felelős miniszterrel egyetértésben – meghatározott igazgatási szolgáltatási díj befizetésével kell megfizetni.
 
@@ -151,21 +158,19 @@ foglaltakat kell alkalmazni.
 
 (11) A normatív kedvezmények biztosításában a kollégium is közreműködhet. A kollégium közreműködése esetén a (8) bekezdésben foglaltakat a kollégiumi könyvtári kölcsönzés tekintetében is alkalmazni kell. A kollégium közreműködése esetén az iskolai könyvtár fejlesztésére rendelkezésre álló összeg a kollégiumi könyvtár fejlesztésére is felhasználható az e törvény 7. §-ának (4) bekezdésében és e § (10) bekezdésében meghatározottak szerint.
 
-(12) Az iskolai tankönyvrendelést az iskola – jogszabályban meghatározottak szerint, elektronikus formában – megküldi a kiadónak és a köznevelés információs rendszerének.
+(12) Az iskolai tankönyvrendelést az iskola – jogszabályban meghatározottak szerint, elektronikus formában – megküldi a köznevelés információs rendszerének. A Könyvtárellátó számára a köznevelés információs rendszerének kezelője a tankönyvrendeléssel kapcsolatos, a 8/B. § (3) bekezdése szerinti adatokat átadja. A Könyvtárellátó a köznevelés információs rendszere adatai alapján a tankönyvrendeléseket összesíti, majd gondoskodik a tankönyvellátásról. A tankönyvellátás megszervezése során úgy köteles eljárni, hogy azzal a tankönyvellátás országos szinten leggazdaságosabb megvalósítását biztosítsa.
 
-(13) Az iskolai tankönyvellátás feladatainak végrehajtásában, az iskolai tankönyvrendelés teljesítésében – az iskolával kötött megállapodás alapján – közreműködhet a Könyvtárellátó Közhasznú Társaság, továbbá más tankönyvkiadó és tankönyvforgalmazó. Jogszabály határozza meg, hogy a Könyvtárellátó Közhasznú Társaság milyen esetben köteles részt venni a tankönyvellátás feladatainak a végrehajtásában, a tankönyvkölcsönzés megszervezésében.
+(13) A tankönyvellátás feladatainak végrehajtásában – a Könyvtárellátóval kötött megállapodás alapján – közreműködhet más tankönyvkiadó és tankönyvforgalmazó, vagy egyéb teljesítési segéd. Iskola a tankönyvellátás tárgyában szerződéses viszonyban (a továbbiakban: tankönyvellátási szerződés) csak a Könyvtárellátóval állhat. A tankönyvellátási szerződést minden év január utolsó munkanapjáig kell megkötni, illetve szükség szerint módosítani. Jogszabály határozza meg, hogy a Könyvtárellátó milyen módon köteles részt venni a tankönyvellátás feladatainak a végrehajtásában, a tankönyvkölcsönzés megszervezésében.
 
 ### Az iskolai tankönyvellátás megszervezése
 
-8/A. § (1) Az iskolai tankönyvellátás keretében kell biztosítani, hogy az iskolában alkalmazott tankönyvek az egész tanítási év során az iskola tanulói részére megvásárolhatók legyenek (a továbbiakban: iskolai tankönyvellátás). Az iskolai tankönyvellátás feladatai: a tankönyv beszerzése és a tanulókhoz történő eljuttatása. Az iskolai tankönyvellátás megszervezése az iskola feladata. Az iskolai tankönyvellátás vagy annak egy része lebonyolítható az iskolában, illetve az iskolán kívül. Az iskolai tankönyvellátás feladatait vagy annak egy részét elláthatja az iskola, illetve a tankönyvforgalmazó. Az iskolai tankönyvellátás zavartalan megszervezéséért akkor is az iskola felel, ha a feladatokat vagy azok egy részét a tankönyvforgalmazónak adja át.
+8/A. § (1) Az iskolai tankönyvellátás megszervezése és lebonyolítása, amely a Könyvtárellátó által beszerzett és az iskolákhoz leszállított tankönyveknek a tanulók és az iskolai könyvtár részére történő átadását, a sérült, elveszett, hibás tankönyvek pótlása és a visszárú kezelés iskolán belüli feladatainak ellátását, illetve az ehhez kapcsolódó adminisztratív és elszámolási feladatok elvégzését jelenti, az iskola feladata és felelőssége. Az iskolai tankönyvellátás keretében kell biztosítani, hogy az iskolában alkalmazott tankönyvek az egész tanítási év során az iskola tanulói részére megvásárolhatók legyenek. Az iskolai tankönyvellátás vagy annak egy része lebonyolítható az iskolában, illetve indokolt esetben az iskolán kívül. A hibás teljesítésért – a tankönyvek darabszám szerint történő átadását kivéve – a Könyvtárellátó felel.
 
-(2) Az iskola a tankönyvellátás feladatainak végrehajtására – ha arról vagy egy részének elvégzéséről nem saját maga gondoskodik – egy vagy több tankönyvforgalmazóval megállapodást köt (a továbbiakban: tankönyvellátási szerződés). A tankönyvellátási szerződést minden év február utolsó munkanapjáig kell megkötni, illetve szükség szerint módosítani. Tankönyvellátási szerződés olyan tankönyvforgalmazóval köthető, amelyik a kiadótól kapott igazolás alapján rendelkezik a tankönyv forgalmazásának jogával. A tankönyvellátási szerződés megkötéséhez be kell szerezni az iskolai szülői szervezet (közösség) egyetértését.
+(2) Az iskolai tankönyvellátás feladatainak végrehajtására – ha arról vagy egy részének elvégzéséről az iskola neki fel nem róható okból nem képes saját maga gondoskodni – a Könyvtárellátó és az iskola a tankönyvellátási szerződés keretében megállapodik. Az iskolai tankönyvellátás zavartalan megszervezéséért akkor is az iskola felel, ha a feladatokat vagy azok egy részét a Könyvtárellátó látja el.
 
 (3) Az iskolai tankönyvellátás keretében a tanuló évfolyamonként legfeljebb kettő alkalommal jogosult a tankönyvjegyzékben szereplő áron megvásárolni ugyanazt a tankönyvet. Második alkalommal a tanuló e jogával akkor élhet, ha a tankönyv használhatatlanná vált, megsemmisült, elveszett, feltéve, hogy nem terheli szándékosság ezek bekövetkeztében, és ezt az iskola igazolja. Ha a tanuló iskolát vált – az e tényről kiállított iskolai igazolás felmutatásával – az új iskolában alkalmazott tankönyvet a tankönyvjegyzékben szereplő áron jogosult megvásárolni.
 
-(4) Ha az iskola a tankönyveket a tankönyvforgalmazótól értékesítésre átveszi, a tankönyvforgalmazó nevében értékesíti azokat. A beszedett vételárral elszámol a tankönyvforgalmazónak. A hibás teljesítésért – a tankönyvek darabszám szerint történő átadását kivéve – a tankönyvforgalmazó felel.
-
-(5) A (4) bekezdésben meghatározott esetben az iskolát díjazás illeti meg. A díjazás összegét a tankönyvforgalmazó fizeti ki az iskola részére. A díjazás összegéből kell az iskolának a tankönyv-értékesítésben közreműködő személy és a tankönyvfelelős díjazását kifizetni, kivéve, ha a feladatellátásban való közreműködés valamelyikük munkaköri feladata.
+(4) Az iskola a Könyvtárellátótól átvett tankönyveket a Könyvtárellátó nevében értékesíti, a beszedett vételárral elszámol a Könyvtárellátóval. A Könyvtárellátó az iskola által beszedett vételárából az iskola részére a Könyvtárellátó javaslata alapján az oktatásügyért felelős miniszter által megállapított mértékű jutalékot az iskolai tankönyvellátás megszervezése és lebonyolítása jogcímén visszatéríti, amely az iskolai tankönyvellátás vagy az iskola működésének egyéb költségeire fordítandó.
 
 8/B. § (1) A tankönyvellátási szerződés tartalmát a felek szabadon állapítják meg, azzal a megkötéssel, hogy a szerződésnek tartalmaznia kell:
 
@@ -173,23 +178,23 @@ foglaltakat kell alkalmazni.
 - b) az iskolai tankönyvellátás keretében értékesített tankönyvek adatait,
 - c) azt a tanévet (tanéveket), amelyre a szerződés szól,
 - d) az iskolai tankönyvellátás megszervezésének helyét, az iskolai közreműködés kereteit,
-- e) annak a személynek a nevét, aki a tankönyvforgalmazó, illetve az iskola részéről (a továbbiakban: iskolai tankönyvfelelős) a tankönyvellátás végrehajtásáért felel,
+- e) annak a személynek a nevét, aki a Könyvtárellátó, illetve az iskola részéről (a továbbiakban: iskolai tankönyvfelelős) a tankönyvellátás végrehajtásáért felel,
 - f) szükség esetén a használt tankönyvek visszavásárlásával és forgalmazásával kapcsolatos feladatmegosztást,
 - g) az előzetes megállapodást az iskola legalacsonyabb évfolyamára belépő tanulók ellátására.
 
-(2) Ha az iskolai tankönyvellátásban tankönyvforgalmazó vesz részt, az iskola
+(2) Ha az iskolai tankönyvellátásban a Könyvtárellátó a 8/A. § (2) bekezdés szerint közreműködik, az iskola
 
-- a) a forgalmazónak átadja a tanulóknak a (3) bekezdésben felsorolt adatait, a tankönyvek tanulókra lebontott címlistájával,
+- a) a Könyvtárellátónak átadja a tanulóknak a (3) bekezdésben felsorolt adatait, a tankönyvek tanulókra lebontott címlistájával,
 - b) tájékoztatja a tanulót, a kiskorú tanuló szülőjét a tankönyv értékesítésének helyszínéről, valamint az értékesítés időpontjairól,
 - c) a tankönyvellátási szerződésben meghatározottak szerint helyet biztosít az értékesítéshez, illetve a tankönyvek biztonságos őrzéséhez.
 
-(3) A tankönyvellátási szerződés keretei között a forgalmazó jogosult nyilvántartani a tanulók következő személyes adatait: a tanuló neve, diákigazolványának száma, ha a tanulónak nincs diákigazolványa az anyja neve és a születési ideje, továbbá minden tanuló esetén az iskolai tankönyvellátás keretében megvásárolt tankönyvek, illetve a vételhez kapott támogatás összege. A személyes adatok kizárólag a tankönyvjegyzékben meghatározott áron történő tankönyvvásárláshoz való jogosultság megállapítására használhatók fel. Az e bekezdés alapján átadott személyes adatok az átadásuk napját követő tizenkettő hónapig tárolhatók.
+(3) A tankönyvellátási szerződés keretei között a Könyvtárellátó és – kizárólag az iskolai tankönyvellátásban való közreműködése körében – annak teljesítési segéde jogosult nyilvántartani a tanulók következő személyes adatait: a tanuló neve, diákigazolványának száma, ha a tanulónak nincs diákigazolványa az anyja neve és a születési ideje, továbbá minden tanuló esetén az iskolai tankönyvellátás keretében megvásárolt tankönyvek, illetve a vételhez kapott támogatás összege. A személyes adatok kizárólag a tankönyvjegyzékben meghatározott áron történő tankönyvvásárláshoz való jogosultság megállapítására használhatók fel. Az e bekezdés alapján átadott személyes adatok az átadásuk napját követő tizenkettő hónapig tárolhatók.
 
 (4) Ha az iskolai tankönyvellátást nem az iskolában szervezik meg, a tankönyvforgalmazónak – a megállapodásban meghatározottak szerint – biztosítania kell a tankönyv-értékesítés elkülönített megszervezését.
 
-8/C. § (1) Ha az iskola a tankönyvek megvásárlásához pénzben támogatást biztosít a tanuló részére, az erről szóló értesítést megküldi a tanulónak, kiskorú tanuló esetén a szülőnek, tankönyvellátási szerződés esetén a tankönyvforgalmazónak is. Az iskola által nyújtott támogatással megvásárolt könyv a tanuló tulajdonába kerül.
+8/C. § (1) Ha az iskola a tankönyvek megvásárlásához pénzben támogatást biztosít a tanuló részére, az erről szóló értesítést megküldi a tanulónak, kiskorú tanuló esetén a szülőnek és a Könyvtárellátónak. Az iskola által nyújtott támogatással megvásárolt tankönyv – jogszabály eltérő rendelkezése hiányában – a tanuló tulajdonába kerül.
 
-(2) A tankönyvtámogatás összegét az iskola a tankönyvforgalmazónak utalja át.
+(2) A tankönyvtámogatás összegét az iskola a Könyvtárellátónak utalja át.
 
 (3) A tankönyvtámogatás összegéről a tanuló, illetve a szülő nevére szóló számla nem állítható ki.
 
@@ -205,11 +210,11 @@ foglaltakat kell alkalmazni.
 
 ### Összeférhetetlenség
 
-8/F. § (1) Az iskolai tankönyvellátás megszervezéséhez nem vehető igénybe az a tankönyvkiadó, illetve az a tankönyvforgalmazó, amelyben az iskola vezetői megbízással rendelkező alkalmazottja, valamint a Ptk. 685. § b) pontja szerinti közeli hozzátartozója üzletrésszel rendelkezik, vagy részt vesz az ügyvezetésében, a felügyelő bizottságában, továbbá amellyel az iskola vezetői megbízással rendelkező alkalmazottja munkavégzésre irányuló jogviszonyban áll.
+8/F. § (1) A Könyvtárellátó az iskolai tankönyvellátás megszervezéséhez nem vehet igénybe olyan teljesítési segédet, amelyben a Könyvtárellátó vezetői megbízással rendelkező alkalmazottja, valamint a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontja szerinti közeli hozzátartozója üzletrésszel rendelkezik, vagy részt vesz az ügyvezetésében, a felügyelő bizottságában, továbbá amellyel az iskola vezetői megbízással rendelkező alkalmazottja munkavégzésre irányuló jogviszonyban áll.
 
-(2) Nem vehet részt az iskolai tankönyvrendelés elkészítésében és az iskolai tankönyvellátás megszervezésében az iskolának az az alkalmazottja, aki a tankönyvforgalmazóval munkavégzésre irányuló jogviszonyban áll.
+(2) Nem vehet részt az iskolai tankönyvrendelés elkészítésében és az iskolai tankönyvellátás megszervezésében az iskolának az az alkalmazottja, aki a Könyvtárellátóval munkavégzésre irányuló jogviszonyban áll.
 
-(3) Az iskolai tankönyvválasztásban közreműködő pedagógus és az iskolai tankönyvellátás szervezésben közreműködő személy az iskolai tankönyvellátásban részt vevő tankönyvkiadótól, tankönyvforgalmazótól juttatást, kedvezményt semmilyen formában nem fogadhat el.
+(3) Az iskolai tankönyvválasztásban közreműködő pedagógus és az iskolai tankönyvellátás szervezésben közreműködő személy a Könyvtárellátótól és teljesítési segédjétől juttatást, kedvezményt semmilyen formában nem fogadhat el.
 
 ### II. Fejezet — A TANKÖNYVKIADÓI ÉS TANKÖNYVFORGALMAZÓI TEVÉKENYSÉG
 
@@ -503,7 +508,7 @@ foglaltakat kell alkalmazni.
 
 ### Eljárás a tankönyvforgalmazóval, illetve tankönyvkiadóval szemben
 
-30. § (1) A fogyasztóvédelemről szóló 1997. évi CLV. törvény 46–51/A. §-a szerinti fogyasztóvédelmi eljárás indítható az ellen, aki nem tagja a Testületnek és nem tartja meg a tankönyvforgalmazói vagy tankönyvkiadói tevékenységre vonatkozó előírásokat. A kiszabott fogyasztóvédelmi bírságot a minisztérium által meghatározott számlára kell befizetni. A befizetett bírságot a tankönyvfejlesztéssel, tankönyvtámogatással összefüggő feladatokra lehet felhasználni.
+30. § (1) A fogyasztóvédelemről szóló 1997. évi CLV. törvény 46–51/A. §-a szerinti fogyasztóvédelmi eljárás indítható az ellen, aki nem tagja a Testületnek és nem tartja meg a tankönyvforgalmazói vagy tankönyvkiadói tevékenységre vonatkozó előírásokat. A fogyasztóvédelmi bírságot a fogyasztóvédelemről szóló 1997. évi CLV. törvény 48. § (3) bekezdésében megjelölt számlára kell befizetni.
 
 (2) Fogyasztóvédelmi eljárás megindítására akkor kerülhet sor, ha e törvény alapján etikai eljárás lefolytatásának lenne helye, de a tankönyvkiadó, illetve a tankönyvforgalmazó nem tagja a Testületnek. Abban a kérdésben, hogy az etikai eljárás megindításának feltételei fennállnak az oktatásért felelős miniszter a Testület véleménye alapján dönt.
 

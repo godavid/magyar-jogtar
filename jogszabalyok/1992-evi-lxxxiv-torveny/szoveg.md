@@ -64,6 +64,8 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 (4) A Nyugdíjbiztosítási Alap a rokkantsági, rehabilitációs ellátások fedezetére az Egészségbiztosítási Alapnak, a korhatár alatti ellátások fedezetére a Nemzeti Család- és Szociálpolitikai Alapnak a központi költségvetésről szóló törvényben meghatározott összegű pénzeszközt ad át.
 
+(5) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény és a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerint megállapított hozzátartozói nyugellátások fedezetét a központi költségvetés megtéríti a Nyugdíjbiztosítási Alapnak.
+
 ### Az Egészségbiztosítási Alap
 
 5. § (1) Az Egészségbiztosítási Alap

@@ -98,6 +98,8 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 (5) Állat tartását csak állat-egészségügyi, közegészségügyi, állatjóléti, környezetvédelmi, illetve természetvédelmi indokkal lehet korlátozni.
 
+(6) Mezőgazdasági haszonállat tartása önkormányzati rendeletben nem korlátozható.
+
 7. § A takarmány előállítása, forgalomba hozatala és felhasználása során a takarmány
 
 - a) az állat termelőképességét károsan nem befolyásolhatja, közvetlenül az állat vagy közvetve az ember egészségét nem veszélyeztetheti, illetve károsíthatja;
