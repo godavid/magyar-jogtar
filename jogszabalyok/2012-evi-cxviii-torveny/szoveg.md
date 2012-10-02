@@ -46,25 +46,9 @@ egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról
 
 13. §
 
-14. § A Gyvt. 19. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+14. §
 
-(A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult)
-
-„b) a 20/A. §-ban meghatározott természetbeni támogatásnak,”
-
-(az igénybevételére.)
-
-15. § A Gyvt. 20/A. §-a helyébe a következő rendelkezés lép:
-
-„20/A. § (1) A települési önkormányzat jegyzője annak a gyermeknek, fiatal felnőttnek, akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága
-
-a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjára tekintettel,
-
-b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjára tekintettel
-
-természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható Erzsébet-utalvány formájában.
-
-(2) Az (1) bekezdés szerinti támogatás esetenkénti összegéről az Országgyűlés a központi költségvetésről szóló törvény elfogadásával egyidejűleg dönt.”
+15. §
 
 16. §
 
@@ -84,9 +68,7 @@ természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint
 
 24. §
 
-25. § A Gyvt. a következő 161/I. §-sal egészül ki:
-
-„161/I. § A 20/A. §-nak az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel megállapított rendelkezéseit a 2012. október 1-jét megelőzően megállapított rendszeres gyermekvédelmi kedvezményre való jogosultság esetében a határozat módosítása nélkül kell alkalmazni.”
+25. §
 
 26. §
 
