@@ -4,9 +4,7 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 1–4. §
 
-5. § Az Éltv. 6. § a következő (6) bekezdéssel egészül ki:
-
-„(6) Mezőgazdasági haszonállat tartása önkormányzati rendeletben nem korlátozható.”
+5. §
 
 6–15. §
 
