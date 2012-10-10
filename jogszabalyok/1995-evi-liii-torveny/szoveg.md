@@ -501,9 +501,9 @@ képviselői.
 
 #### 47. §
 
-48. § (1) A települési önkormányzat képviselő-testülete, illetőleg a fővárosi önkormányzat esetén a fővárosi közgyűlés önkormányzati rendeletben — törvényben vagy kormányrendeletben meghatározott módon és mértékben — illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
+48. § (1) A települési önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat esetén a környezeti zajjal összefüggő szabályozás tekintetében a kerületi önkormányzat képviselő testülete, egyéb környezetvédelmi előírásokkal összefüggésben a fővárosi közgyűlés önkormányzati rendeletben – törvényben vagy kormányrendeletben meghatározott módon és mértékben – illetékességi területére a más jogszabályokban előírtaknál kizárólag nagyobb mértékben korlátozó környezetvédelmi előírásokat határozhat meg.
 
-(2) A települési önkormányzat képviselő-testülete, illetőleg a fővárosi önkormányzat esetén a fővárosi közgyűlés önkormányzati rendeletben más törvény hatálya alá nem tartozó egyes fás szárú növények védelme érdekében tulajdonjogot korlátozó előírásokat határozhat meg.
+(2) A települési önkormányzat képviselőtestülete önkormányzati rendeletben más törvény hatálya alá nem tartozó egyes fás szárú növények védelme érdekében tulajdonjogot korlátozó előírásokat határozhat meg.
 
 (3) A települési önkormányzat környezetvédelmi tárgyú rendeleteinek, határozatainak tervezetét, illetve a környezet állapotát érintő terveinek tervezetét, a környezetvédelmi programot [46. § (1) bekezdés b) pont] a szomszédos és az érintett önkormányzatoknak tájékoztatásul, az illetékes környezetvédelmi igazgatási szervnek véleményezésre megküldi. A környezetvédelmi igazgatási szerv szakmai véleményéről harminc napon belül tájékoztatja a települési önkormányzatot.
 
@@ -513,9 +513,9 @@ képviselői.
 - b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása, valamint
 - c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés.
 
-(5) A (3) bekezdés a)–b) pontjában meghatározottak rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
+(5) A (4) bekezdés a)–b) pontjában meghatározottak rendelettel történő megállapítása Budapesten a Fővárosi Közgyűlés hatáskörébe tartozik.
 
-(6) A polgármester (főpolgármester) levegőtisztaság-védelmi feladatkörébe, illetőleg államigazgatási, hatósági hatáskörébe tartozik:
+(6) A polgármester (főpolgármester) levegőtisztaságvédelmi feladatkörébe, illetőleg államigazgatási, hatósági hatáskörébe tartozik:
 
 - a) a füstködriadó terv kidolgoztatása és végrehajtása;
 - b) a füstködriadó terv végrehajtása során a légszennyezést okozó, szolgáltató, illetve termelő tevékenységet ellátó létesítmények üzemeltetőinek más energiahordozó, üzemmód használatára kötelezése, az üzemeltető tevékenységének, valamint a közúti közlekedési eszközök üzemeltetésének időleges korlátozása vagy felfüggesztése;

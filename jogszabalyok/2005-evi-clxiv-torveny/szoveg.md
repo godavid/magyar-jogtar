@@ -34,6 +34,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 21. termék: minden birtokba vehető forgalomképes ingó dolog, ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőt;
 - 22. szálláshely: szálláshely-szolgáltatás folytatása céljából létesített vagy használt épület, önálló rendeltetési egységet képező épületrész vagy terület;
 - 23. szálláshely-szolgáltatás: üzletszerű gazdasági tevékenység keretében rendszerint nem huzamos jellegű, éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szálláshely nyújtása és az ezzel közvetlenül összefüggő szolgáltatások nyújtása;
+- 23a. szeszes ital: minden alkohol tartalmú ital, kivéve a gyógynövények gyógyászati jellegű szeszes kivonatát és az ezek felhasználásával készült terméket, továbbá az 1,2%-nál kevesebb alkoholtartalmú üdítőitalokat;
 - 24. tartós szálláshasználati szolgáltatási tevékenység: üzletszerű gazdasági tevékenység keretében éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szolgáló szállás rendszeres időközönként ismétlődő, meghatározott, nem huzamos időtartamra történő használata jogának (üdülési jog) biztosítása;
 - 25. utazásszervezői tevékenység: üzletszerű gazdasági tevékenység keretében személyszállítási, szállás- és egyéb turisztikai szolgáltatások (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) közül legalább kettőnek az együttesét tartalmazó szolgáltatás (a továbbiakban: utazási szolgáltatás) összeállítása és nyújtása;
 - 26. utazásközvetítői tevékenység: üzletszerű gazdasági tevékenység keretében utazási szolgáltatás nyújtására az utazásszervező megbízása alapján, annak nevében szerződések kötése;
@@ -121,6 +122,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 (6) A kereskedelmi tevékenységhez kapcsolódóan nem használható hirdetés vagy figyelemfelhívás céljára olyan hanghatást okozó eszköz, amely a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár.
 
 (7) Vendéglátó üzletben a vendégek szórakoztatására zeneszolgáltatás, műsoros előadás, táncrendezvény vagy egyéb szórakoztató szolgáltatás olyan módon nyújtható, illetve szervezhető, hogy az nem járhat a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal.
+
+(8) Világörökségi területen a szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet 24 óra és 6 óra közötti nyitva tartásához a jegyző engedélye szükséges. Az engedélyezési eljárásban a rendőrség szakhatóságként vesz részt, amely szakhatósági eljárás a tevékenység közbiztonságra gyakorolt hatásával, a személy- és vagyonbiztonsággal kapcsolatos szakkérdésre irányul. A rendőrség a szakhatósági hozzájárulást hivatalból évente felülvizsgálja, illetve lakossági bejelentés alapján bármikor felülvizsgálhatja. Amennyiben a rendőrség a felülvizsgálat során megállapítja a szakhatósági hozzájárulásban előírtak megsértését, a szakhatósági hozzájárulását visszavonja.
 
 ### A kereskedelmet kiszolgáló szolgáltató tevékenység folytatásának általános feltételei
 
@@ -257,7 +260,7 @@ nyilvántartást vezet.
 
 (2)
 
-11. §
+11. § A 6. § (8) bekezdés hatálybalépése előtt kiadott, működési engedéllyel vagy igazolással rendelkező, a 6. § (8) bekezdés hatálya alá tartozó üzletek nyilvántartását a helyi önkormányzat haladéktalanul megküldi a területileg illetékes rendőrkapitányságnak a szakhatósági hozzájárulási eljárás lefolytatására. Amennyiben a rendőrség az üzlet ellenőrzése során vagy hivatalból megállapítja, hogy annak tevékenysége sérti a személy-, vagyon- és közbiztonságot, kezdeményezi a területileg illetékes jegyzőnél az üzlet 24 és 6 óra közötti zárva tartásának elrendelését.
 
 12. § (1) Felhatalmazást kap a Kormány, hogy
 

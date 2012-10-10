@@ -2,7 +2,7 @@
 
 a szerencsejáték szervezéséről
 
-Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával kapcsolatos feladatok meghatározása, a szerencsejátékok szervezése iránt jelentkező igények kielégítése, az engedély nélküli, illetőleg a jó erkölcsbe ütköző szerencsejátékok megelőzése, a szerencsejáték szervező tevékenység ellenőrzése, valamint a szerencsejátékokból származó jövedelmek egy részének közcélra fordítása érdekében a következő törvényt alkotja:
+Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával kapcsolatos feladatok meghatározása, a szerencsejátékok szervezése iránt jelentkező igények kielégítése, az engedély nélküli, illetve a jó erkölcsbe ütköző szerencsejátékok megelőzése, a szerencsejáték szervező tevékenység ellenőrzése, a pénznyerő automaták kizárólag játékkaszinókban történő üzemeltethetőségének lehetősége, valamint a szerencsejátékokból származó jövedelmek egy részének közcélra fordítása érdekében a következő törvényt alkotja:
 
 ### ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -10,16 +10,16 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 1. § (1) Szerencsejáték minden olyan játék, amelyben a játékos pénz fizetése, vagy vagyoni érték nyújtása fejében, meghatározott feltételek fennállása vagy bekövetkezése esetén pénznyereményre, vagy más vagyoni értékű nyereményre válik jogosulttá. A nyerés vagy a vesztés kizárólag, vagy túlnyomó részt a véletlentől függ.
 
-(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás, a pénznyerő automata, a helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára és az ajándéksorsolásra is.
+(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára és az ajándéksorsolásra is.
 
 (3) A koncesszióról szóló 1991. évi XVI. tv. (a továbbakban: Ktv) 1. § (1) bekezdésének i) pontjában meghatározott szerencsejátékok szervezésére irányuló tevékenységnek minősül
 
 - a) sorsolásos játék szervezése,
-- b) pénznyerő automaták üzemeltetése,
+- b)
 - c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
 - d) kártyaterem üzemeltetése,
-- e) helyhez kötött szerver alapú pénznyerő automata üzemeltetése,
-- f) nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése,
+- e)
+- f)
 - g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
 (4) Magyarország területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
@@ -32,19 +32,19 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - b) erről és a szervező által tétfizetés érdekében megjelölt pénzforgalmi számláról tájékoztatja a pénzügyi intézményt, illetve egyidejűleg felhívja a pénzforgalmi szolgáltatót arra, hogy az érintett pénzforgalmi számláról és pénzforgalmi számlára átutalás, beszedés, egyéb fizetési megbízás, művelet teljesítésében a – legfeljebb 90 napos – tilalom feloldásáig ne működjön közre.
 - c)
 
-(5b) A nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetője, és a távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
+(5b) A távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
 
 (6) Szerencsejátékban – a 16. § szerinti nem folyamatosan szervezett sorsolásos játék kivételével – 18 éven aluli személyek nem vehetnek részt.
 
-(7) A kötelező hitelesítésű szerencsejáték eszközök – kivéve a helyhez kötött szerver alapú pénznyerő automaták és a nem helyhez kötött szerver alapú pénznyerő rendszerek központi szerverét, valamint az azon futó játékszoftverek – típusvizsgálatát és hitelesítését – a mérésügyi és a szerencsejáték eszközökre vonatkozó jogszabályok alapján – a mérésügyi szerv végzi.
+(7) A kötelező hitelesítésű szerencsejáték eszközök típusvizsgálatát és hitelesítését – a mérésügyi és a szerencsejáték eszközökre vonatkozó jogszabályok alapján – a mérésügyi szerv végzi.
 
 (7a)
 
 (7b)
 
-(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét, valamint pénznyerő automatából származó nyeremény esetén a pénznyerő automata gyártási számát és a mérésügyi szerv által adott azonosító számát. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
+(8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
 
-2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdésének b), d), e) és f) pontjaiban meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (továbbiakban együtt: távszerencsejáték).
+2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (továbbiakban együtt: távszerencsejáték).
 
 (2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
 
@@ -156,7 +156,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 9. § (1) Szerencsejáték csak jóváhagyott játékterv alapján szervezhető. A szerencsejáték-szervezőnek biztosítania kell a szerencsejátékkal összefüggő valamennyi tudnivaló (különösen a szerencsejáték lebonyolításának módja, a nyerési esélyek, a nyeremények felosztásának módja, feltételei, át nem vett nyeremények kezelése) játékosok számára való nyilvánosságát. A szerencsejáték-szervezőnek fel kell hívnia a figyelmet a túlzásba vitt szerencsejáték ártalmaira, a szenvedélybetegség kialakulásának veszélyére. A szerencsejáték-szervező az értékesítőhelyen köteles ilyen tartalmú tájékoztató hirdetmények elhelyezésére.
 
-(2) Az engedély kizárólag az abban foglalt, illetőleg az engedélyben meghatározott tagokból álló szerencsejáték szervezőre, az ott meghatározott időtartamra, az abban foglalt feltételekkel és jóváhagyott játéktervre, a játékkaszinó, játékterem, kártyaterem és bingójáték esetén – a 27. § (3) bekezdés figyelembevételével – az engedélyben meghatározott épületre, vagy helyiségre vonatkozik. Az engedély másra át nem ruházható. A játéktervtől csak az állami adóhatóság engedélyével lehet eltérni. Az eltérés a játékosok érdekeit vagy mások jóhiszeműen szerzett jogait nem sértheti.
+(2) Az engedély kizárólag az abban foglalt, illetőleg az engedélyben meghatározott tagokból álló szerencsejáték szervezőre, az ott meghatározott időtartamra, az abban foglalt feltételekkel és jóváhagyott játéktervre, a játékkaszinó, kártyaterem és bingójáték esetén – a 27. § (3) bekezdés figyelembevételével – az engedélyben meghatározott épületre, vagy helyiségre vonatkozik. Az engedély másra át nem ruházható. A játéktervtől csak az állami adóhatóság engedélyével lehet eltérni. Az eltérés a játékosok érdekeit vagy mások jóhiszeműen szerzett jogait nem sértheti.
 
 (3) A szerencsejáték szervező tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény vagy körülmény változásáról az állami adóhatóságot harminc 30 belül köteles értesíteni.
 
@@ -170,11 +170,11 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 11. § (1) A szerencsejáték szervezésének engedélyezéséért, ellenőrzéséért, az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
 
-(1a) Helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése esetén a központi szerver működtetője részére a szerencsejáték-szervező szolgáltatási díjat fizet.
+(1a)
 
 (2) A szerencsejáték-szervező tevékenységre jogosító engedély iránti, a játékterv felülvizsgálatára, továbbá a játékterv módosítására irányuló kérelem benyújtásával egyidejűleg – külön felhívás nélkül – kell az igazgatási-szolgáltatási díjat készpénz-átutalási megbízással vagy átutalással megfizetni.
 
-(3) A szerencsejátékot és ajándéksorsolást szervező működésének felügyeleti ellenőrzéséért folyamatos sorsolásos játék és totalizatőri rendszerű fogadás, bukmékeri rendszerű fogadás, pénznyerő automata üzemeltetése, helyhez kötött szerver alapú pénznyerő automata üzemeltetése, nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése, központi szerver üzemeltetése, játékkaszinó üzemeltetése esetén negyedévenként a tárgynegyedévet követő hó 15. napjáig, nem folyamatos sorsolásos játék és nem folyamatos fogadás, valamint ajándéksorsolás esetén pedig a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül kell a díjat megfizetni.
+(3) A szerencsejátékot és ajándéksorsolást szervező működésének felügyeleti ellenőrzéséért folyamatos sorsolásos játék és totalizatőri rendszerű fogadás, bukmékeri rendszerű fogadás, játékkaszinó üzemeltetése esetén negyedévenként a tárgynegyedévet követő hó 15. napjáig, nem folyamatos sorsolásos játék és nem folyamatos fogadás, valamint ajándéksorsolás esetén pedig a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül kell a díjat megfizetni.
 
 (4) A szerencsejáték szervezésére kiírt koncessziós pályázaton való részvételért fizetendő díjat a koncessziós pályázat benyújtásával egyidejűleg kell megfizetni.
 
@@ -200,8 +200,8 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (3) A bírság
 
 - a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 11. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe,
-- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (2), (4), (7), (12), (13), (20) bekezdéseibe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
-- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 26. § (15) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+- b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
+- c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 - d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
 (4)
@@ -227,9 +227,11 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - b) a szerencsejáték-szervező súlyos jogszabálysértést követ el, amellyel a játék tisztaságát sérti,
 - c) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, amely miatt az engedély-kérelem elutasításának lett volna helye,
 - d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget,
-- e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem teljesíti a játékadó bevallásával, vagy megfizetésével kapcsolatos kötelezettségét. Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékteremben, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
+- e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem teljesíti a játékadó bevallásával, vagy megfizetésével kapcsolatos kötelezettségét.
 
-(3) Az állami adóhatóság a játékkaszinó, az elektronikus kaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
+(2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
+
+(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -239,84 +241,11 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (7) Ha a szerencsejáték-szervező a személyi megfelelőség meghosszabbítása iránti kötelezettségének jogszabályban meghatározott határidőben nem tesz eleget, vagy személyi megfelelősége nem áll fenn, az állami adóhatóság a szerencsejáték-szervező részére kiállított engedélyek érvénytelenségét és a szerencsejáték-szervezői tevékenység megszűnését megállapítja. Az állami adóhatóság a szerencsejáték-szervezői tevékenység megszűnéséig benyújtott engedély iránti kérelmek alapján indult eljárásokat megszünteti. A személyi megfelelőség hivatalból indult vizsgálata esetében a 2. § (4) bekezdésének d) pontjában és a 2. § (5) bekezdésében meghatározott időtartamokat az eljárás hivatalból történő megindításától kell számítani.
 
-#### 3. Helyhez kötött szerver alapú pénznyerő automaták és nem helyhez kötött szerver alapú pénznyerő rendszerek központi szerverével, és az azon futó játéklogikával kapcsolatos általános rendelkezések
+#### 3.
 
-13/A. § (1) A helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver (a továbbiakban: központi szerver) az államháztartásért felelős miniszter engedélyével működtethető. Az államháztartásért felelős miniszter a központi szerver üzemeltetését 10 éves időtartamra engedélyezi.
+13/A–13/D. §
 
-(2) Központi szerver működtetésére engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amely a központi szerver üzemeltetését kizárólagos tevékenységként végzi, és amelynek a szavazatok legalább 51%-val rendelkező tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozó gazdasági társaságnak volt tagja (részvényese) vagy vezető tisztségviselője. A központi szerver üzemeltető gazdasági társaság egyidejűleg csak egy központi szerver üzemeltetésére rendelkezhet engedéllyel. A központi szerver működtetésére vonatkozó engedély iránti kérelem előterjesztésekor és érvényességi ideje alatt a társaság tagjai, részvényesei, illetve vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói nem lehetnek tagjai, részvényesei vagy vezető tisztségviselői szerencsejáték-szervező, pénznyerő automata-gyártó vagy más központi szervert üzemeltető gazdálkodó szervezetnek. A központi szerver üzemeltető társaság tagjai, részvényesei, vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói a központi szerver auditálásáról kiadott okirat keltét megelőző egy évben és az azt követő tizenkét évben nem lehetnek tagjai, részvényesei, vezető tisztségviselői az okiratot kiadó auditáló szervezetnek.
-
-(3) A (2) bekezdés szerinti gazdasági társaság által üzemeltetésre kerülő központi szervert informatikai biztonsági és zártsági szempontból, továbbá a rendszerben a központi szerver által futtatott játékprogramokat a jogszabályoknak való megfelelőség szempontjából auditálni kell. Az auditról kiállított tanúsítvány nem ruházható át. Az auditálást abban az esetben kell megújítani, ha a technikai eszközökben, a technológiában vagy informatikai vagy biztonsági környezetben vagy alkalmazásban jelentős változás áll be. A rendszer vizsgálatára és auditálására kizárólag az a szervezet jogosult, amely
-
-- a) az aláírás-létrehozó eszközök és egyéb elektronikus aláírási termékek tanúsítására kijelölt és a Nemzeti Média- és Hírközlési Hatóság nyilvántartásába bejegyzett szervezet,
-- b) legalább 8 éves tapasztalattal rendelkezik az elektronikus aláírás tanúsítás területén, és
-- c) szaktudással rendelkezik az alábbi területek mindegyikén:
-  - ca) véletlenszám-generátorok,
-  - cb) informatikai biztonság tanúsítása és értékelése,
-  - cc) aláírás-létrehozó eszközök,
-  - cd) aláírás-létrehozó eszközön az aláírás-létrehozó adat elhelyezése,
-  - ce) aláírás-létrehozó és ellenőrző alkalmazások,
-  - cf) elektronikus archiválás szolgáltatás.
-
-(3a) A (3) bekezdés c) pontjában foglaltak esetén az auditáló szervezet akkor tekinthető szaktudással rendelkezőnek, ha
-
-- a) a (3) bekezdés ca) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik kriptográfiai funkciókat megvalósító szoftvertermékek és rendszerek terén;
-- b) a (3) bekezdés cb) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik informatikai biztonsági funkciókat megvalósító szoftver termékek és rendszerek tanúsítása terén;
-- c) a (3) bekezdés cc)–ce) alpontja szerinti szakterületek tekintetében legalább egy éve akkreditációval rendelkezik elektronikus aláírási termékek és rendszerek tanúsítása terén, és
-- d) a (3) bekezdés cf) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik digitális archiválást végző alkalmazások tanúsítása terén.
-
-(3b) Az auditáló szervezet a (3) bekezdés a)–c) pontokban és (3a) bekezdésben meghatározott feltételeknek való megfelelésről a központi szerver auditálásáról kiadott okiratban nyilatkozik. Az okiratban a szaktudással rendelkező személy nevét, szakterületét, az auditáló szervezettel fennálló jogviszonya jellegét (munkaviszony, megbízási jogviszony, egyéb munkavégzésre irányuló jogviszony) fel kell tüntetni és az okirat rá vonatkozó részét a szaktudással rendelkező személy aláírásával kell ellátni.
-
-(3c) Az auditáló szervezet tagjai, részvényesei, vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói a központi szerver auditálásáról kiadott okirat keltét megelőző egy évben és az azt követő tizenkét évben nem lehetnek tagjai, részvényesei, vezető tisztségviselői a központi szervert üzemeltető gazdasági társaságnak.
-
-(4) A központi szerver tranzakciós szervere adattartalmából a játékszervezői tevékenységből származó elektronikus tranzakciók alapján adatszolgáltatást nyújtani kizárólag abban az esetben lehet, ha az abban foglalt adattartalom sértetlensége és eredetiségének hitelessége biztosított. Ezen követelménynek való megfelelés érdekében a játékszervezői tevékenységből származó, elektronikus formában kibocsátott adatszolgáltatást és azok alapját jelentő tranzakciós adatokat az elektronikus aláírásról szóló törvény rendelkezései szerinti, legalább fokozott biztonságú elektronikus aláírással és minősített szolgáltató által kibocsátott időbélyegzővel kell ellátni.
-
-(5) A központi szerver tranzakciós szervere az elektronikus dokumentumok digitális archiválását, elsősorban az elektronikus tranzakciók alapján készített jelentések megőrzését a megőrzési kötelezettség lejártáig (10 évig) folyamatosan köteles biztosítani, úgy hogy az elektronikus dokumentumok megőrzése olyan módon történjen, amely kizárja az utólagos módosítás lehetőségét, valamint védi az elektronikus dokumentumokat a módosítás, a törlés, a megsemmisítés, a véletlen megsemmisülés és sérülés, illetve a jogosulatlan hozzáférés ellen. Az archiválás szabályaira a digitális archiválás szabályairól szóló 114/2007. (XII. 29.) GKM rendelet az irányadó.
-
-(6) A játékszervezői tevékenységből származó tranzakciók gyűjtésére, valamint a tranzakciós adatok és jelentések megőrzésére kizárólag olyan hardver-szoftver környezet használható, amelyről az aláíró eszközök és egyéb elektronikus aláírási termékek tanúsítására kijelölt státuszú, a Nemzeti Média- és Hírközlési Hatóság adatbázisában nyilvántartott tanúsító szervezett által kiállított tanúsítvány igazolja, hogy megfelel a megőrzési köztelezettségben foglalt, zárt rendszer követelményeinek. A kijelölt státuszú tanúsító szervezet a tanúsítványt valamely – informatikai termékek és rendszerek technológiai biztonsági értékelési követelményeit tartalmazó – szabvány vagy nyilvános műszaki követelményrendszer előírásainak való megfelelés alapján állítja ki, de legalább CommonCriteria EAL4 garanciaszinttel ekvivalens szoftverbiztonságot ír elő.
-
-(7) A központi szerver tranzakciós szervere kizárólag olyan szervezeti és környezeti biztonsági szinten üzemeltethető, amely megfelel a COBIT szerinti előírásoknak. A központi szervert működtető szervezet működési kialakításának meg kell felelnie a Pénzügyi Szervezetek Állami Felügyeletének 1/2007. számú módszertani útmutatójában foglalt kritériumoknak.
-
-(8) Az állami adóhatóság részére biztosítani kell, hogy a helyszínen, valamint távoli hozzáféréssel a központi szerveren tárolt adatokat valós időben bármikor ellenőrizhesse.
-
-(9) Az államháztartásért felelős miniszter az (1) bekezdésben foglalt hatáskörének gyakorlásához a helyhez kötött szerver alapú pénznyerő automatával, nem helyhez kötött szerver alapú pénznyerő rendszerrel és a központi szerverrel kapcsolatos szerencsejáték ügyben rendelkezésre álló adatokról egyedi tájékoztatást, illetve ilyen üggyel kapcsolatban adatszolgáltatást kérhet az állami adóhatóságtól.
-
-13/B. § (1) Az állami adóhatóság hatósági felügyeletet gyakorol a központi szerver üzemetetési tevékenység felett, melynek keretében folyamatosan ellenőrzi, hogy a tevékenység a jogszabályoknak és az engedélyben foglaltaknak megfelel-e. A felügyeleti tevékenység során a szerencsejáték szervezésre, illetve szerencsejáték ügyre vonatkozó ezen címben, valamint a 36. § (2) és (3) bekezdésében foglaltakat megfelelően kell alkalmazni.
-
-(2) Az állami adóhatóság (1) bekezdésben foglalt hatáskörének gyakorlásához a központi szerver engedélyezése iránti ügyben rendelkezésre álló adatokról egyedi tájékoztatást, illetve ilyen üggyel kapcsolatban adatszolgáltatást kérhet az államháztartásért felelős minisztertől.
-
-(3) Az államháztartásért felelős miniszter a központi szerver üzemeltetésre kiadott engedély másolati példányát az erről szóló döntés jogerőre emelkedése napját követő 5 napon belül megküldi az állami adóhatóság részére és az engedély bármely változásáról, visszavonásáról a változás bekövetkezését (döntés jogerőre emelkedését) követő 5 napon belül tájékoztatja az állami adóhatóságot. Az államháztartásért felelős miniszter az állami adóhatóság megkeresésére tájékoztatja, illetve előzetes megkeresés nélkül tájékoztathatja az állami adóhatóságot minden olyan adatról, körülményről, tényről, amely az engedélyezési eljárással kapcsolatban rendelkezésre áll és a központi szerver üzemeltetés hatósági felügyelete szempontjából jelentőséggel bírhat.
-
-(4) Az állami adóhatóság az (1) bekezdés szerinti hatósági felügyelet keretében tett intézkedéseiről, meghozott döntéseiről az intézkedés foganatosítását, illetve a döntés jogerőre emelkedését követő 5 napon belül tájékoztatja az államháztartásért felelős minisztert. Az állami adóhatóság az államháztartásért felelős miniszter megkeresésére tájékoztatja, illetve előzetes megkeresés nélkül tájékoztathatja az államháztartásért felelős minisztert minden olyan adatról, körülményről, tényről, amely a hatósági felügyelettel kapcsolatban rendelkezésre áll és a központi szerver engedélyezése szempontjából jelentőséggel bírhat.
-
-(5) Az állami hatóság a helyhez kötött szerver alapú pénznyerő automaták, illetve nem helyhez kötött szerver alapú pénznyerő rendszerek esetén a szerencsejáték szervezői tevékenység engedélyezése, hatósági felügyelete körében rendelkezésére álló adatokról megkeresésre tájékoztatja, előzetes megkeresés nélkül tájékoztathatja az államháztartásért felelős minisztert, ha az adatátadás a központi szerver üzemeltetés hatósági felügyelete és engedélyezése szempontjából jelentőséggel bírhat.
-
-13/C. § (1) Az államháztartásért felelős miniszter a központi szerver üzemeltetési engedélyt visszavonja, ha
-
-- a) az engedélyezési feltételek nem állnak fenn, vagy az engedély kiadását követően merül fel olyan tény, adat vagy körülmény, amely miatt az engedélykérelem elutasításának lett volna helye, vagy
-- b) az állami adóhatóság tájékoztatása szerint az üzemeltető 30 napnál régebben lejárt, az állami adóhatóság által nyilvántartott 1 millió forintot meghaladó köztartozással rendelkezik, vagy
-- c) az állami adóhatóság tájékoztatása szerint az üzemeltető felügyeleti-ellenőrzési igazgatatási szolgáltatási díj fizetési kötelezettsége teljesítésével 45 napot meghaladó késedelembe esett, vagy
-- d) a külön jogszabályban meghatározott számú helyhez kötött szerver alapú pénznyerő automata kiszolgálását a központi szerver a külön rendeletben meghatározott időtartamban nem teljesíti, vagy
-- e) az üzemeltető az engedély felfüggesztése esetén
-  - ea) a felfüggesztést elrendelő határozatban előírt feltételeket a határozatban megállapított határidőben nem teljesíti, vagy
-  - eb) a határozott időtartam lejártát követően a felfüggesztés időtartamának (további) meghosszabbítására nincs lehetőség és a jogszabályszerű állapot nem állítható helyre.
-
-(2) Az államháztartásért felelős miniszter a központi szerver üzemeltetési engedélyt határozott időtartamra – legalább 30 és legfeljebb 90 napra – felfüggesztheti, ha az állami adóhatóság jogerős határozatában megállapítja, hogy az üzemeltető a központi szerver üzemeltetésével kapcsolatban az e törvényben és a külön jogszabályokban meghatározott személyi, műszaki vagy informatikai rendelkezéseket megsértette. A felfüggesztés időtartama egy alkalommal, legfeljebb 60 nappal meghosszabbítható. Az államháztartásért felelős miniszter a felfüggesztés elrendelése, illetve a felfüggesztés időtartamának meghosszabbítása során mérlegeli az elkövetett jogszabálysértés súlyát, ismételt jellegét, a központi szerver által üzemeltetett helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött szerver alapú pénznyerő rendszerek számát, a jogszabálysértő cselekmény központi szerver által üzemeltetett helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött szerver alapú pénznyerő rendszerek jogszabályszerű üzemeltetésre gyakorolt hatását. Az államháztartásért felelős miniszter a felfüggesztést elrendelő határozatban az üzemeltető részére a jogszabályszerű állapot helyreállításához szükséges feltételek tejesítését írhatja elő.
-
-(3) Az államháztartásért felelős miniszter a központi szerver üzemeltetési engedélyt haladéktalanul felfüggeszti, ha az állami adóhatóság határozatában megállapítja, hogy az üzemeltető a központi szerver üzemeltetésével kapcsolatban az e törvényben vagy a külön jogszabályokban meghatározott személyi, műszaki vagy informatikai rendelkezéseket súlyosan megsértette. E rendelkezés alkalmazásában súlyos jogszabálysértésnek minősül különösen, ha:
-
-- a) az üzemeltető nem teszi lehetővé a központi szerveren tárolt adatok valós időben történő ellenőrzését, vagy nem teljesíti az előírt adatszolgáltatási kötelezettségét az állami adóhatóság részére, illetve az ellenőrzést egyéb módon akadályozza,
-- b) a központi szerveren tárolt adatok rögzítésével, tárolásával, megőrzésével kapcsolatos előírásokat megsértik,
-- c) a központi szerver működését meg nem engedett módon befolyásolják,
-- d) a központi szerverhez jogosulatlanul hozzáférnek,
-- e) a központi szerver jogsértő működése a szerencsejáték lebonyolításának tisztaságát veszélyezteti.
-
-(4) A (3) bekezdés szerinti felfüggesztés időtartamára, meghosszabbítására, a feltételek előírására a (2) bekezdésben, a felfüggesztést követően az engedély visszavonására az (1) bekezdésben foglaltakat kell megfelelően alkalmazni.
-
-13/D. § Az államháztartásért felelős miniszter a központi szerver engedélyezése, az engedély visszavonása, illetve felfüggesztése ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy az államháztartásért felelős miniszter az engedély elbírálásáról három hónapon belül dönt, illetve a hiányosan benyújtott kérelem esetén annak beérkezésétől számított tizenöt napon belül hiánypótlási felhívást bocsát ki. Az államháztartásért felelős miniszter által hozott határozat (végzés) ellen fellebbezésnek nincs helye. Az állami adóhatóság jogsértést megállapító határozatának hatályon kívül helyezése esetén az államháztartásért felelős miniszter a felfüggesztést a határozott időtartam lejárta előtt megszünteti. Az engedély felfüggesztését elrendelő, illetve a felfüggesztést megszüntető határozat jogorvoslatra tekintet nélkül azonnal végrehajtható.
-
-13/E. § (1) A központi szerver üzemeltető és a helyhez kötött szerveralapú pénznyerő automata üzemeltetője, illetve a központi szerver üzemeltető és a nem helyhez kötött szerveralapú pénznyerő rendszer üzemeltetője kizárólag – legalább egy évre szóló – határozott időtartamú csatlakozási szerződést köthet, a szerződés érvényességéhez annak írásba foglalása szükséges. Ha a csatlakozási szerződést két évet meghaladó határozott időtartamra kötik, úgy a két év lejárta után bármely fél, az adott naptári év végére szóló legalább hat hónapos felmondási idő alkalmazásával indokolás nélkül felmondhatja (rendes felmondás).
-
-(2) A központi szerver üzemeltető az engedély érvényességi időtartama alatt egyidejűleg helyhez kötött szerveralapú pénznyerő automatákat üzemeltető központi szerver esetén legalább 1000 helyhez kötött szerveralapú pénznyerő automata üzemeltetésére vonatkozó, legalább egy éves időtartamra szóló csatlakozási szerződéssel és legfeljebb 12 000 helyhez kötött szerveralapú pénznyerő automata üzemeltetésére vonatkozó csatlakozási szerződéssel rendelkezhet.
+13/E. §
 
 ### KÜLÖNÖS RENDELKEZÉSEK
 
@@ -326,12 +255,11 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 - a) sorsolásos játék,
 - b) nem sorsolásos játék,
-- c) pénznyerő automata üzemeltetése,
+- c)
 - d) kaszinójáték,
 - e) fogadás,
 - f) kártyajáték,
-- g) helyhez kötött szerver alapú pénznyerő automata,
-- h) nem helyhez kötött szerver alapú pénznyerő rendszer.
+- g)–h)
 
 ### 1. CÍM — Sorsolásos játék
 
@@ -406,104 +334,60 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 26. § (1) Pénznyerő automatának minősül a tétfizetés fejében játék céljára alkalmas mechanikusan vagy elektronikusan vezérelt berendezés, ha nyerés esetén a játékos bármely formában vagyoni értékű nyereményre válhat jogosulttá. Az állami adóhatóság dönt abban a kérdésben, hogy valamely berendezés pénznyerő automatának minősül-e.
 
-(1a) Helyhez kötött szerver alapú pénznyerő automatának minősül az a műszaki egység (terminál, konzol), amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a hozzácsatlakoztatott műszaki egység (terminál, konzol) pedig játékteremben, játékkaszinóban található.
+(1a)
 
-(1b) Nem helyhez kötött szerver alapú pénznyerő rendszernek minősül az a szerencsejáték szervező által üzemeltett rendszer, amely az internet, mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és amelynek játékprogramja(i) egy külön erre a tevékenységre az e törvény rendelkezései alapján feljogosított szervezet által működtetett központi szerveren egy zárt, ellenőrzött rendszerben fut, a játékosok – a nem helyhez kötött szerver alapú pénznyerő rendszerhez – szintén az internet mint távközlési rendszer útján kapcsolódnak.
+(1b)
 
-(1c) A helyhez kötött szerver alapú pénznyerő automatára és a nem helyhez kötött szerver alapú pénznyerő rendszerre e törvénynek a pénznyerő automatákra vonatkozó előírásait megfelelően alkalmazni kell.
+(1c)
 
-(2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
+(2)
 
-- a) I. kategóriába tartozó pénznyerő automatának az a berendezés minősül, amely 1. 100 000 játékonként az összes tét legalább 80%-át nyereményként kiadja, 2. az e kategóriára jogszabályban előírt szempontok alapján hitelesíthető, és 3. biztosítja, hogy egy tét megtételével, egy játék alkalmával — a játékkaszinóban elhelyezett pénznyerő automatát kivéve — a nyeremény a tét kétszázszorosát nem haladja meg;
-- b) II. kategóriába tartozó pénznyerő automatának az a berendezés minősül, amelynél 1. az egy játékhelyen maximálisan megtehető tét 200 forint, 2. az elérhető nyeremény a tét huszonötszörösét nem haladja meg, és 3. az e kategóriára jogszabályban előírt hitelesítési feltételek fennállnak. Nem adható engedély olyan pénznyerő automatára, amely az e bekezdés a) vagy b) pontjában foglalt feltételeknek nem felel meg.
+(3) Pénznyerő automata kizárólag játékkaszinóban üzemeltethető. Egy játékkaszinó-egységben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
 
-(3) Pénznyerő automata csak játékkaszinóban vagy — kizárólag e célból alapított gazdasági társaság által — játékteremben üzemeltethető. Egy játékkaszinó-egységben vagy egy játékteremben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
-
-(4) A játékkaszinóban üzemeltetett pénznyerő automatának
+(4) A pénznyerő automatának
 
 - a) 100 000 játékonként az összes tét legalább 80%-át, vagy
 - b) a normális eloszlás sűrűségfüggvényének megfelelően, az összes tét legalább 85%-át legalább 95%-os valószínűséggel nyereményként ki kell adnia.
 
-(5) A játéktermet az állami adóhatóság az engedélyben I. vagy II. kategóriába sorolja be. A II. kategóriába tartozó játékteremben legfeljebb 2 db II. kategóriába tartozó pénznyerő automata üzemeltethető.
+(5)
 
 (6)
 
-(7) I. kategóriába tartozó játékteremnek minősül a közterület felől saját bejárattal rendelkező épület vagy olyan külön bejárattal rendelkező, építészetileg zárt helyiség, amely – gépenként legalább 2 m2 figyelembevételével – legalább 10 pénznyerő automata elhelyezésére alkalmas. II. kategóriába tartozó játékteremnek minősíthető a külön jogszabályban meghatározott vendéglátóipari üzlet. Nem működtethető játékterem olyan épületben, helyiségben, helyiségrészben, amelyre vonatkozóan a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét az elnevezésben vagy a kereskedelmi kommunikációban szerepeltetik, illetve amelyet ilyen helyiségből lehet megközelíteni. Az „elektronikus kaszinó” elnevezésre, az „e-kaszinó” rövidítésre és jelzős alakjára, valamint idegen nyelvű megfelelőjére a tilalom nem vonatkozik, ha a játékterem elektronikus kaszinóként üzemel.
-
-(8) Az állami adóhatóság az engedélyben meghatározza
-
-- a) a játékterem helyét, az üzemeltetésével és ellenőrzésével kapcsolatos előírásokat;
-- b) a játékterem működéséhez szükséges feltételeket;
-- c) az egy gazdasági társaság által egy játékteremben működtethető pénznyerő automaták számát;
-- d) a pénznyerő automaták kiürítésével és az ellenőrző készülékkel kapcsolatos előírásokat;
-- e) pénznyerő automatánként a legmagasabb tét és nyeremény összegét;
-- f) azokat a tényeket és körülményeket, amelyeket a pénznyerő automaták és játéktermek működésével kapcsolatos jogszabály ír elő.
-
-(9) Pénznyerő automata üzemeltetésére csak olyan gazdasági társaságnak adható engedély, amely
-
-- a) biztosítani tudja a pénznyerő automaták és a játékterem működésének a feltételeit, a személyzettel kapcsolatban a jogszabályban előírt követelményeket és a játékterem állandó ellenőrzését, továbbá
-- b) az engedély megadására irányuló kérelem benyújtásával egyidejűleg, a külön jogszabályban meghatározott összegű igazgatási-szolgáltatási díj megfizetését igazolta. A b) pontban foglalt igazgatási-szolgáltatási díjat a játékkaszinók nem kötelesek megfizetni.
-
-(10) Nem adható működési engedély az olyan pénznyerő automatára, amely
-
-- a) nem rendelkezik az azonosítására alkalmas — magyar hatóság által hitelesített — eredeti jelzéssel (gyártási szám, gyártás időpontja stb.),
-- b) nem rendelkezik gyárilag beépített és hatóságilag hitelesített ellenőrző készülékkel,
-- c)
-- d) nem felel meg jogszabályban meghatározott egyéb követelményeknek.
+(7)–(10)
 
 (11) Pénznyerő automata működtetésére a gyártás időpontjától számított 5 éven túli időtartamra nem adható engedély.
 
-(12) Az I. kategóriába tartozó játéktermet 18 éven aluliak nem látogathatják, a II. kategóriába tartozó játékteremben pedig pénznyerő automatán nem játszhatnak. Ifjúsági, gyermek-, oktatási vagy nevelési intézmény, ifjúsági klub, továbbá egyházi, illetőleg egészségügyi intézmény 200 méteres körzetében I. kategóriába tartozó játékterem nem működhet.
+(12)
 
-(13) Az állami adóhatóság a pénznyerő automata működését – az évenkénti igazgatási-szolgáltatási díj megfizetése mellett – legfeljebb 2 éves időtartamra engedélyezi. A szerencsejáték-szervező azon időtartam 11. hónap végéig, amelyre az igazgatási-szolgáltatási díjat megfizette, köteles a következő évre járó igazgatási-szolgáltatási díjat megfizetni vagy ezen időpontig a 12. hónap utolsó napján történő engedélyleadási szándékáról nyilatkozni.
+(13)
 
-(14) Az állami adóhatóság az általa kiállított pénznyerőautomata- és játékterem-engedélyeket hirdetmény útján köteles közölni. A 13. § (4) bekezdésében foglaltak kivételével az állami adóhatóság által kiállított pénznyerőautomata-engedélyeket azok közlésétől számított 6 hónapon belül, a játékterem-engedélyeket pedig 30 napon belül köteles a szerencsejáték-szervező az állami adóhatóságnál átvenni. A határidők elteltével át nem vett engedélyek érvénytelenségét az állami adóhatóság hivatalból megállapítja.
+(14)
 
-(15) Ha a pénznyerő automata működtetése nem felel meg a játéktervnek, az engedélynek, valamint a hiteles állapotnak, az állami adóhatóság a pénznyerő automata működtetését felfüggeszti. Az állami adóhatóság akkor is köteles a pénznyerő automata, illetve a játékterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a játékteremben a szerencsejáték-szervező engedély nélkül üzemeltet pénznyerő automatát, az állami adóhatóság a játékterem engedélyét felfüggeszti, vagy az engedélyt visszavonhatja.
+(15)
 
-(16) A játékterem működése – indoklás nélküli kérelemre – megszakítás nélkül legfeljebb 180 nap időtartamra szüneteltethető. A szüneteltetést az állami adóhatóság nyilvántartásba veszi. A szüneteltetés nyilvántartásba vételének részletes szabályait az e törvény végrehajtására a miniszter által kiadott rendelet állapítja meg azzal, hogy szüneteltetés csak abban az esetben kezdeményezhető, ha annak kezdő időpontját megelőzően a játékterem legalább 60 napot folyamatosan üzemel, ide nem értve a játékterem-engedély első felvételét követő 60 napot. A külön, a miniszter által kiadott rendeletben meghatározott szezonális üzemeltetés nem minősül a játékterem szüneteltetésének.
+(16)
 
-(17) Az üzembe helyezett pénznyerő automata és a játékterem jogszerű birtoklásának igazolását az állami adóhatóság a szerencsejáték-szervezőtől a pénznyerő automata és a játékterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, az állami adóhatóság az engedélyt visszavonhatja.
+(17)
 
 (18)
 
 (19) A pénznyerő automata a gyártásának időpontjától számított 5 éven túl – illetve annak letelte előtt, ha a szervező a pénznyerő automata üzemeltetésének végleges megszüntetéséről dönt – teljes egészében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény és annak végrehajtási rendeletei szerint meghatározott elektronikus berendezés hulladékának minősül.
 
-(20) A játékteremben és a nem helyhez kötött szerver alapú pénznyerő rendszerben jackpot rendszer üzemeltethető. Játékterem esetén jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták és helyhez kötött szerver alapú pénznyerő automaták köthetők.
+(20)
 
-(21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
+(21)
 
-(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben kizárólag helyhez kötött szerver alapú pénznyerő automata üzemeltethető.
+(22)
 
-(23) Az elektronikus kaszinóban szerver alapú pénznyerő automata is üzemeltethető. Az elektronikus kaszinóban üzemeltetett pénznyerő automata ellenőrző készülékét abban az esetben is online kapcsolati módon a szerver alapú pénznyerő automatákat üzemeltető szerverhez kell csatlakoztatni, ha a pénznyerő automata nem minősül szerver alapú pénznyerő automatának.
+(23)
 
 (24)
 
-(25) Nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetésére engedély annak a Magyarországon bejegyzett székhellyel rendelkező gazdasági társaságnak adható, amely
-
-- a) jegyzett tőkéje eléri az 50 millió forintot,
-- b) rendelkezik legalább egy magyar állampolgárságú vezető tisztségviselővel,
-- c) valamennyi tagja (részvényese), a kérelem benyújtását megelőzően – a benyújtás időpontjától számítva – legalább 10 éven át folyamatosan, Magyarországon szerencsejáték szervezésével foglalkozó gazdasági társaságnak volt tagja (részvényese) vagy vezető tisztségviselője;
-- d) többségi tulajdonosa az engedély benyújtását megelőzően – a benyújtás időpontjától számítva – legalább 10 éven át folyamatosan olyan Magyarországon engedélyezett szerencsejáték szervezésére irányuló tevékenységet folytatott, ahol a játékosok személyazonossága kétséget kizáró módon ellenőrzésre került és adataik nyilvántartása és kezelése a jogszabályi előírásoknak megfelelően történt.
+(25)
 
 26/A. § Ha megállapítást nyer, hogy az üzletben engedély nélkül pénznyerő automatát működtetnek, akkor a települési önkormányzat jegyzője köteles az üzletet legalább 30 napra – ismételt jogsértés esetén legalább 90 napra – ideiglenesen bezáratni.
 
-26/B. § (1) Az I. kategóriába sorolható játéktermet az állami adóhatóság erre irányuló kérelem esetén „elektronikus kaszinóként” engedélyezheti.
-
-(2) Az állami adóhatóság abban az esetben engedélyezi elektronikus kaszinóként az I. kategóriába sorolható játéktermet, ha a szerencsejáték-szervező, a pénznyerő automata, valamint a játékterem megfelel a következő feltételeknek:
-
-- a) a szervező legalább 50 millió forint alap- vagy törzstőkével rendelkező gazdasági társaság,
-- b) a játékteremnek videó-technikai ellenőrzési rendszerrel kell rendelkeznie,
-- c) a játékteremben legalább 25 játékhelyen lehetséges a játék és a játékhelyek legalább 70%-ának folyamatosan üzemelnie kell,
-- d) a játékterem játékhelyenként legalább 3 m2 alapterülettel rendelkezik,
-- e) a játékteremben legalább egy darab olyan I. kategóriába sorolt pénznyerő automata is üzemel, amely biztosítja, hogy egy tét megtételével, egy játék alkalmával az elérhető nyeremény a tét ötszázszorosát is elérheti, azonban azt nem haladja meg,
-- f) a játékteremben pénznyerő automata és játékautomata üzemeltetésen kívül a játékosok vendéglátásához szorosan kapcsolódó tevékenységet is folytatnak, figyelembe véve a 26. § (3) bekezdést.
-
-(3) Az elektronikus kaszinóra és a (2) bekezdés e) pontja szerinti pénznyerő automatára egyebekben az I. kategóriába sorolt játékteremre és az I. kategóriájú pénznyerő automatára vonatkozó szabályokat kell alkalmazni.
-
-(4) Az elektronikus kaszinóban a videotechnikai ellenőrzési rendszert a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében kell működtetni.
-
-(5) Az elektronikus kaszinóban működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 30 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit az elektronikus kaszinóban történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított nyolc napon belül kérheti, hogy a videofelvétel a szervező panasza kivizsgálásáig ne törölje.
+26/B. §
 
 ### 3. CÍM — Kaszinójáték
 
@@ -526,7 +410,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (8) A miniszter a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.
 
-(9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. Az állami adóhatóság által elektronikus kaszinóként engedélyezett, I. kategóriába sorolt játéktermet üzemeltető szervező jogosult a kereskedelmi kommunikációjában az „elektronikus kaszinó” elnevezést, „e-kaszinó” rövidítést és jelzős alakját, valamint idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
+(9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
 
 (10)
 
@@ -596,7 +480,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) Kártyaterem kizárólag a közterület felől saját bejárattal rendelkező épületben, vagy külön bejárattal rendelkező építészetileg zárt helyiségben létesíthető. A kártyateremben legalább 5 kártyaasztalnak kell üzemelnie és legfeljebb 10 kártyaasztal helyezhető el. Egy kártyaasztalnál legfeljebb 10 játékos játszhat. A kártyaterem alapterületének akkorának kell lennie, hogy kártyaasztalonként legalább 16 m2 álljon a játékosok rendelkezésre, melybe a vendéglátásra szolgáló terület nem számítható be.
 
-(6) Ifjúsági, gyermek-, oktatási vagy nevelési intézmény, ifjúsági klub, egyházi, illetőleg egészségügyi intézmény, továbbá I. kategóriába sorolt játékterem és a kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
+(6) Ifjúsági, gyermek, oktatási vagy nevelési intézmény, ifjúsági klub, egyházi vagy egészségügyi intézmény, továbbá kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
 
 (7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
 
@@ -676,31 +560,9 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) A távszerencsejátékok játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.
 
-### Pénznyerő- és játékautomaták játékadója
+### Játékautomaták játékadója játékadója
 
-33. § (1) A 26. § (1) bekezdés szerinti pénznyerő automata üzemeltető (szerencsejáték-szervező) az I. és II. kategóriájú játékteremben üzemelő pénznyerő automata esetén havonta játékhelyenként 500 000 forint, az elektronikus kaszinóban üzemeltetett pénznyerő automata esetén havonta játékhelyenként 700 000 forint tételes játékadó fizetésére köteles. A tételes játékadót minden megkezdett hónap után meg kell fizetni. E bekezdés rendelkezéseit játékkaszinóban üzemeltetett pénznyerő automatára nem lehet alkalmazni.
-
-(2) A 26. § (1) bekezdés szerinti pénznyerő automata üzemeltetője (szerencsejáték-szervező) negyedévente százalékos mértékű játékadó fizetésére is köteles, ha a pénznyerő automata tiszta játékbevétele a tárgynegyedévben a 1 600 000 forintot – elektronikus kaszinóban üzemeltetett pénznyerő automata esetén a 2 200 000 forintot – eléri vagy meghaladja. A százalékos mértékű játékadó a pénznyerő automata tárgynegyedévi tiszta játékbevétele 1 600 000 forintot – elektronikus kaszinóban üzemeltetett pénznyerő automata esetén a 2 200 000 forintot – meghaladó részének 20%-a. Több játékhellyel működtetett pénznyerő automata esetén 1 600 000 forint – elektronikus kaszinóban üzemeltetett pénznyerő automata esetén a 2 200 000 forint és a játékhelyek számának szorzatát kell a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár számításánál figyelembe venni. Tárgynegyedéven belül törtidőszaki üzemeltetés esetén a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár arányos részét kell figyelembe venni azzal, hogy egy üzemeltetéssel érintett naptári napra a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár kilencvened részét kell alapul venni. E bekezdés rendelkezéseit játékkaszinóban üzemeltetett pénznyerő automatára nem lehet alkalmazni.
-
-(3) Helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer esetén a szerencsejáték szervező negyedévente százalékos mértékű játékadó fizetésére köteles. A százalékos mértékű játékadó a helyhez kötött szerver alapú pénznyerő automata és a nem helyhez kötött szerver alapú pénznyerő rendszer tárgynegyedévi pozitív előjelű tiszta játékbevételének 33%-a. A jackpot nyeremény a tiszta játékbevételt csökkenti.
-
-(4) A szerencsejáték-szervező (1)–(3) bekezdés szerinti játékadó-fizetési kötelezettsége a pénznyerő automata üzemeltetésére jogosító engedély átvételét követő naptól keletkezik.
-
-(5) A pénznyerő automata üzemeltetése után nem kell az (1)–(3) bekezdésben meghatározott játékadót fizetni, ha az állami adóhatóság megállapította, hogy
-
-- a) a pénznyerő automata megsemmisült, vagy tartósan üzemképtelenné vált,
-- b) a jogszabály szerinti üzemeltetés nem lehetséges.
-
-(6) A pénznyerő automaták (1)–(3) bekezdés szerinti játékadójára az adózás rendjéről szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-- a) a szerencsejáték-szervező
-  - aa) az (1) bekezdés szerinti tételes játékadót havonta,
-  - ab) a (2) bekezdés szerinti 20%-os százalékos mértékű játékadót negyedévente,
-  - ac) a (3) bekezdés szerinti 33%-os százalékos mértékű játékadót negyedévente köteles bevallani;
-- b) a játékadó befizetése a bevallással egy időben esedékes;
-- c) a játékadóra részletfizetés vagy fizetési halasztás nem engedélyezhető.
-
-(7) Az (1)–(3) bekezdés szerinti adófizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtható.
+33. §
 
 33/A. § (1) A játékautomata éves adója gépenként 60 000 forint. A játékautomata üzemeltetője köteles az első féléves adóösszeget a gép nyilvántartásba vétele iránti kérelem benyújtását megelőzően, a további időszakokra vonatkozó adóösszeget pedig félévente előre bevallani, és ezzel egyidejűleg megfizetni. Ha a nyilvántartásba vétel a hitelesítési bizonyítvány érvényessége miatt nem lehetséges teljes 6 hónapra, akkor a játékadó arányos részét kell bevallani és megfizetni.
 
@@ -765,7 +627,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 37. §
 
 - 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
-- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények – ideértve a jackpot nyereményt is – különbözete.
+- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények különbözete.
 - 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 - 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 - 5. Közérdekű cél: a szerencsejáték szervező tevékenységi körét meghaladó, saját, vagy alkalmazottai érdekein túli, közösségi érdekeket szolgáló cél. A közösségi érdek meghatározásához a közérdekű célként meghatározott tevékenység felügyeletét ellátó szerv egyetértése szükséges. Lóversenyfogadás esetében közérdekű célnak minősül a versenyló tenyésztés is.
@@ -785,8 +647,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
 - 18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek.
 - 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
-- 20. Jackpot rendszer: olyan rendszer, amely a játékos felé megjeleníti a tétként eljátszott összeg előre meghatározott hányadával növelt halmozott nyereményígéretet, és amennyiben a nyereményígéret az előre meghatározott alsó és felső határok között véletlenszerűen beállított értéket elérte, valamennyi, az adott játékteremben éppen játékban lévő – a rendszer részét képező – pénznyerő automata között véletlenszerű sorsolással nyereményt fizet ki.
-- 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás, valamint a központi szerver üzemeltetés hatósági felügyeletének ellátása során ellenőrzési és bírság kiszabása iránti eljárás.
+- 20.
+- 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 - 22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
 - 23. Távszerencsejáték: a lóversenyfogadás és a kártyajáték, ha azt hírközlő eszköz és rendszer útján szervezik.
 - 24. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
@@ -802,15 +664,15 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - b) az egyes szerencsejátékok lebonyolításával, ellenőrzésével,
 - c) a játéktervvel,
 - d) a sorsolásos játékokkal és a fogadásokkal,
-- e) a pénznyerő automaták, helyhez kötött szerver alapú pénznyerő automaták, nem helyhez kötött szerver alapú pénznyerő rendszerek, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
-- f) a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének személyi, pénzügyi műszaki és informatikai feltételeivel, valamint a központi szerver működtetőjét megillető szolgáltatási díjjal,;
+- e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
+- f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával,
-- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival, kapcsolatos részletes szabályokat jogszabályban határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak jogszabályban történő megállapítására.
+- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival, kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 
 (3)
 
-(4) Felhatalmazást kap a miniszter és a kereskedelemért felelős miniszter, hogy rendeletben határozza meg azon vendéglátóipari üzletek körét, amelyben II. kategóriájú játékterem működtetésére engedély adható.
+(4)
 
 39. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (1), (4)–(5), (7)–(8) bekezdéseit első alkalommal 2011. november tárgyhónapra kell alkalmazni.
 
@@ -820,16 +682,20 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) A 2011. december 31-én távszerencsejátéknak minősülő szerencsejáték szervezésére engedéllyel rendelkező szervező tevékenységét a részére kiadott engedély érvényességéig a korábbi jogszabályi feltételek és játékterv alapján végezheti.
 
-(3) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított Szjtv. 26. § (1a) bekezdését, 26. § (22), (23) és (24) bekezdését, 38. § (2) bekezdés f) pontját a 2011. október 31. napját követően indult eljárásokban kell alkalmazni. Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben pénznyerő automata üzemeltetésére 2011. november 1. napja előtt indult eljárásban kiadott engedélyek az Szjtv. 2011. december 31. napján hatályos rendelkezései szerint és az engedélyben foglalt időtartamban, de legfeljebb 2012. december 31. napjáig érvényesek és ezen engedélyek alapján a pénznyerő automaták az engedélyben foglaltak szerint üzemeltethetők.
+(3)
 
 (4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdését és 33. § (6) bekezdés a) pont ab) alpontját 2012. január 1-jétől és első alkalommal 2012. január-március tárgynegyedévre kell alkalmazni.
 
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
 
-(6) E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 13/A. § (3), (3a), (3b) és (3c) bekezdéseit az e rendelkezés hatálybalépését követően indult központi szerverüzemeltetés engedélyezése iránti eljárásokban alkalmazni kell.
+(6)
+
+40/A. § (1) Az e törvény alapján a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosításáról szóló 2012. évi CXLIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően kiállított játékterem-engedélyek, valamint a pénznyerőautomata üzemeltetésére jogosító engedélyek a Módtv. hatálybalépését követő napon hatályukat vesztik. Az engedélyeket a szerencsejáték szervező a Módtv. hatálybalépését követő 15 napon belül köteles leadni az állami adóhatóságnak. E törvénynek a Módtv.-nyel megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A Módtv. hatálybalépését megelőző időszakra vonatkozó, e törvény szerinti adófizetési, bevallási és adatszolgáltatási kötelezettséget e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezései szerint kell teljesíteni. E törvény a Módtv.-nyel hatályon kívül helyezett rendelkezéseibe ütköző jogsértésekkel kapcsolatos hatósági eljárás lefolytatására, valamint az esetleges jogkövetkezmények megállapítására e törvény a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 ### Jogszabály tervezetének egyeztetése
 
-41. § Az e törvény 1. § (3) bekezdés e) és f) pontja, 1. § (5b) bekezdése, 1. § (7) bekezdése, 2. § (1) bekezdése, 13/A. §-a, 26. § (1a) és (1b) bekezdése, 26. § (22)–(25) bekezdése, 29/C. § (4)–(8) bekezdése, 37. § 23. pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/96/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+41. § Az e törvény 1. § (3) bekezdés e) és f) pontja, 1. § (5b) bekezdése, 1. § (7) bekezdése, 2. § (1) bekezdése, 13/A. §-a, 26. § (1a) és (1b) bekezdése, 26. § (3) és (4) bekezdése, 26. § (22)–(25) bekezdése, 29/C. § (4)–(8) bekezdése, 37. § 23. pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/96/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Melléklet az 1991. évi XXXIV. törvényhez
