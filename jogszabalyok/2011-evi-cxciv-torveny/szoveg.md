@@ -2,7 +2,7 @@
 
 Magyarország gazdasági stabilitásáról
 
-Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (5) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
+Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (5) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -29,34 +29,38 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 3. § (1) Adósságot keletkeztető ügylet és annak értéke:
 
-- a) hitel, kölcsön felvétele, átvállalása a folyósítás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
+- a) hitel, kölcsön felvétele, átvállalása a folyósítás, átvállalás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
 - b) a számvitelről szóló törvény (a továbbiakban: Szt.) szerinti hitelviszonyt megtestesítő értékpapír forgalomba hozatala a forgalomba hozatal napjától a beváltás napjáig, kamatozó értékpapír esetén annak névértéke, egyéb értékpapír esetén annak vételára,
 - c) váltó kibocsátása a kibocsátás napjától a beváltás napjáig, és annak a váltóval kiváltott kötelezettséggel megegyező, kamatot nem tartalmazó értéke,
 - d) az Szt. szerint pénzügyi lízing lízingbevevői félként történő megkötése a lízing futamideje alatt, és a lízingszerződésben kikötött tőkerész hátralévő összege,
 - e) a visszavásárlási kötelezettség kikötésével megkötött adásvételi szerződés eladói félként történő megkötése – ideértve az Szt. szerinti valódi penziós és óvadéki repóügyleteket is – a visszavásárlásig, és a kikötött visszavásárlási ár,
 - f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú halasztott fizetés, részletfizetés, és a még ki nem fizetett ellenérték,
-- g) külföldi hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
+- g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
 
-(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét. Az előfinanszírozás céljából adósságot keletkeztető ügyletből származó összeget egy elkülönített letéti számlán kell tárolni, és a keletkezés évében azt nem lehet elkölteni.
+(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét.
 
 #### 2. Az adósságcsökkentés
 
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás központi alrendszerének, az államháztartás önkormányzati alrendszerének és a kormányzati szektorba sorolt egyéb szervezetek adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (5) és (6) bekezdésének megfelelően – tervezett értékét.
+4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás központi alrendszerének, az államháztartás önkormányzati alrendszerének és a kormányzati szektorba sorolt egyéb szervezetek adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (4) és (5) bekezdésének megfelelően – tervezett értékét.
 
 (2)
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
+
+(3a) Nem érinti az Alaptörvény 37. cikk (3) bekezdése szerinti kölcsön felvételére, pénzügyi kötelezettség vállalására irányuló szerződés érvényességét, ha a kölcsön felvételekor, a pénzügyi kötelezettség vállalásakor nem ismert okból a költségvetési év utolsó napján az államadósság-mutató meghaladja az (3) bekezdés szerinti tervezett értéket.
 
 (4) Az (1) bekezdés által érintett szervezetek kötelesek a törvényben foglaltak végrehajtásához szükséges adatokat az államháztartásért felelős miniszter rendelkezésére bocsátani.
 
 5. § (1) A Kormány a féléves adatok alapján felülvizsgálja az adósság-szabály érvényesülését, melynek eredményéről tájékoztatja az Országgyűlés illetékes bizottságát és a Költségvetési Tanácsot. A felülvizsgálat eredményeként a Kormány a központi költségvetésről szóló törvény módosítására törvényjavaslatot nyújt be az Országgyűlésnek, ha
 
 - a) a viszonyítási év utolsó napján fennálló államadósság, illetve a viszonyítási év bruttó hazai termék előzetes tényadatai, vagy
-- b) az államháztartási, makrogazdasági folyamatok alapján a költségvetési év utolsó napján várható államadósság, illetve a költségvetési év bruttó hazai termék várható adata olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, hogy az eltérés a költségvetési év utolsó napján számított államadósság-mutató a viszonyítási év utolsó napján fennálló államadósság-mutatóhoz képest a 4. § (1) bekezdése szerinti csökkenést veszélyeztetné.
+- b) az államháztartási, makrogazdasági folyamatok alapján a költségvetési év utolsó napján várható államadósság, illetve a költségvetési év bruttó hazai termék várható adata
+
+olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, amely az államadósság-mutató növekedését eredményezné.
 
 (2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott értékek teljesítési kötelezettségének felfüggesztésére irányul.
 
-6. § (1) Az államadósság-mutató számításakor a külföldi pénznemben fennálló adósságot keletkeztető ügyleteket azonos árfolyamon kell figyelembe venni.
+6. § (1) Az államadósság-mutató számításakor a külföldi pénznemben fennálló adósságot keletkeztető ügyleteket azonos, a központi költségvetésről szóló törvényben meghatározott árfolyamon kell figyelembe venni.
 
 (2) A 44. § (1) bekezdés b) pontja szerinti kölcsönnyújtás, illetve annak visszafizetése miatt kialakuló többletfinanszírozási igény, illetve finanszírozási igény csökkenés következtében történő államadósságmutató-változást nem kell figyelembe venni az államadósság-mutató számításakor.
 
@@ -111,6 +115,13 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 (11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettségek összege.
 
 (12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
+
+(13) A megkötött adósságot keletkeztető ügyletekre vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+
+- a) a szerződésmódosítást követően előálló szerződési feltételek mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
+- b) a módosított szerződés az eredetihez képest hosszabb futamidejű, vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket.
+
+(14) A szerződésmódosításra vonatkozó, a (13) bekezdés szerinti ügyletekre a (10) bekezdés szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
 
 ### III. Fejezet — AZ ÁLLAMADÓSSÁG KEZELŐ KÖZPONT
 
@@ -194,11 +205,11 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 18. § (1) A Tanács elnökének büntetlen előéletű, magyar állampolgárságú, kiemelkedő szakmai ismeretekkel, illetve tapasztalattal rendelkező közgazdász nevezhető ki.
 
-(2) Az elnökjelölt a kinevezését megelőzően hatósági bizonyítvánnyal igazolja a köztársasági elnök részére azt a tényt, hogy büntetlen előéletű, valamint nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. Az elnökjelölt a kinevezése előtt a köztársasági elnöknek a magyar állampolgárságát igazoló irat, a felsőfokú közgazdász végzettségét igazoló oklevél és a szakmai életútját bemutató önéletrajz benyújtásával igazolja az (1) bekezdés szerinti feltételek teljesítését.
+(2) A kinevezni tervezett személy a kinevezését megelőzően hatósági bizonyítvánnyal igazolja a köztársasági elnök részére azt a tényt, hogy büntetlen előéletű, valamint nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A kinevezni tervezett személy a kinevezése előtt a köztársasági elnöknek a magyar állampolgárságát igazoló irat, a felsőfokú közgazdász végzettségét igazoló oklevél és a szakmai életútját bemutató önéletrajz benyújtásával igazolja az (1) bekezdés szerinti feltételek teljesítését.
 
 (3) A Tanács elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
-(4) Tanács elnöke az elődje megbízatásának megszűnésekor, illetve ha elődje megbízatásának megszűnését követően nevezték ki, a kinevezésével lép hivatalba.
+(4) A Tanács elnöke az elődje megbízatásának megszűnésekor, illetve ha elődje megbízatásának megszűnését követően nevezték ki, a kinevezésével lép hivatalba.
 
 (5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a lektori, a szerzői jogi védelem alá eső, továbbá a lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
 
@@ -206,7 +217,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 (7) A Tanács elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
 
-(8) A Tanács elnöke illetményének és juttatásainak fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. Az illetmény folyósításával és a juttatások biztosításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
+(8) A Tanács és a Tanács titkársága működésének, valamint a Tanács elnöke illetményének és egyéb juttatásainak pénzügyi fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. A Tanács és a Tanács titkársága működésének biztosításával, az illetmény és az egyéb juttatások folyósításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
 
 19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
@@ -252,15 +263,18 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 #### 6. A Költségvetési Tanács feladata, hatásköre, működésének szabályai
 
-23. § A Tanács
+23. § (1) A Tanács
 
 - a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről,
 - b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
-- c) véleményt nyilváníthat a költségvetés tervezésével, végrehajtásával, a közpénzek felhasználásával, továbbá az államháztartás helyzetével kapcsolatos bármely kérdésről,
-- d) félévente véleményt nyilvánít a költségvetés tervezésével, végrehajtásával, a közpénzek felhasználásával kapcsolatos, vagy azzal összefüggő bármely kérdésről,
-- e) megállapítja a Tanács ügyrendjét.
+- c) félévente véleményt nyilvánít a központi költségvetésről szóló törvény végrehajtásának helyzetéről és az államadósság várható alakulásáról,
+- d) véleményt nyilváníthat a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatokról, ideértve a 28. § szerinti fizetési kötelezettségre vonatkozó törvényjavaslatot is,
+- e) véleményt nyilváníthat a központi költségvetés tervezésével, végrehajtásával, a közpénzek egyéb módon történő felhasználásával kapcsolatos bármely kérdésről,
+- f) megállapítja ügyrendjét.
 
-24. § (1) A Kormány a központi költségvetésről szóló törvény tervezetét – ideértve a központi költségvetés bevételi vagy kiadási főösszegét megváltoztató, vagy a költségvetési hiány mértékét növelő módosítást is – (a továbbiakban: tervezet) részletes számításokkal alátámasztva, és a jogszabályváltozások költségvetési hatását bemutatva véleménynyilvánítás céljából megküldi a Tanácsnak, amely a tervezet kézhezvételét követő tíz napon belül a tervezetre vonatkozó véleményét megküldi a Kormány részére.
+(2) Az Állami Számvevőszék és a Magyar Nemzeti Bank az Állami Számvevőszék elnökének és a Magyar Nemzeti Bank elnökének a Tanács tagjaként ellátandó feladatait a Tanács által tárgyalt kérdésekhez kapcsolódó elemzéseknek és megállapításoknak a Tanács rendelkezésére bocsátásával segíti.
+
+24. § (1) A Kormány a központi költségvetésről szóló törvény tervezetét – ideértve a központi költségvetés bevételi vagy kiadási főösszegét megváltoztató, vagy a költségvetési hiány mértékét növelő módosítást is – (a továbbiakban: tervezet) részletes számításokkal alátámasztva véleménynyilvánítás céljából megküldi a Tanácsnak, amely a tervezet kézhezvételét követő tíz napon belül a tervezetre vonatkozó véleményét megküldi a Kormány részére.
 
 (2) A Tanács az (1) bekezdés szerinti véleményében a tervezetre észrevételeket tehet, valamint – ha a tervezettel kapcsolatban annak hitelességére vagy végrehajthatóságára vonatkozóan alapvető ellenvetései vannak – a tervezettel való egyet nem értését jelzi.
 
@@ -292,6 +306,8 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 (6) Az (1)–(5) bekezdésben foglalt eljárást azzal, hogy az így megismételt eljárásban kizárólag a Kormány jogosult módosító javaslatot benyújtani, mindaddig kell folytatni, amíg a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja.
 
+(7) A (2)–(6) bekezdést megfelelően kell alkalmazni, ha külön törvény felhatalmazása alapján, a Kormány által benyújtott zárószavazás előtti módosító javaslat a költségvetési egyenleg mértékét és a központi költségvetésről szóló törvény fejezetei bevételi és kiadási főösszegeit érinti.
+
 26. § (1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat, amely – a megszavazott módosító javaslatokra tekintettel – a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná, vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása alapján bocsátható zárószavazásra.
 
 (2) Az Országgyűlés elnöke az (1) bekezdés szerinti törvényjavaslatot annak benyújtását követően és az ahhoz kapcsolódóan megszavazott módosító javaslatokat azok elfogadását követően – az előzetes hozzájárulás megadása céljából – haladéktalanul megküldi a Tanács részére.
@@ -315,6 +331,10 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 (4) A Tanács ülései nem nyilvánosak.
 
 (5) A Tanács üléseit a napirend közlésével az elnök hívja össze és vezeti. Az elnök akadályoztatása esetére az ülés összehívásával és vezetésével a Tanács valamely más tagját bízza meg. Egyebekben a Tanács ülésein helyettesítésnek nincs helye.
+
+(5a) Azokban az esetekben, ahol e törvény a Tanács részére egynapos határidőt állapít meg, a Tanács tagjai az ülésen való személyes részvétel helyett elektronikus hírközlő eszköz igénybevételével is gyakorolhatják az e törvényben meghatározott jogaikat.
+
+(5b) A Tanács az ülés napirendjén nem szereplő kérdést csak akkor tárgyalhat meg, ha az ülésen valamennyi tag jelen van, és egyhangúlag hozzájárul a napirenden nem szereplő kérdés megtárgyalásához.
 
 (6) A Tanács döntését tartalmazó dokumentumot – az akadályoztatás esetét kivéve – a Tanács valamennyi tagja aláírja.
 
