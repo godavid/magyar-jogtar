@@ -462,7 +462,7 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 részesülő személy ellátását a Kormány által kijelölt szerv 2012. január 1-jétől rokkantsági ellátásként folyósítja tovább azzal, hogy az ellátás összege megegyezik a 2011. december hónapra járó – az a) és b) pont szerinti esetben a 2012. januári nyugdíjemelés mértékével növelt – ellátás összegével. Az átalakítás nem érinti a soros felülvizsgálati kötelezettséget. A b) és c) pont alkalmazásában az minősül az öregségi nyugdíjkorhatárt 5 éven belül betöltő személynek, aki 2011. december 31-éig az 57. életévét betöltötte.
 
-(1a) Az (1) bekezdés c) és d) pontja szerinti személy ellátása összegének meghatározásakor az özvegyi nyugdíjra tekintettel megállapított csökkentést 2012. szeptember 1-jétől figyelmen kívül kell hagyni. Erről a Kormány által kijelölt folyósító szerv határozatot hoz.
+(1a)
 
 (2) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy ellátását meg kell szüntetni, ha keresőtevékenységet folytat és a jövedelme 3 egymást követő hónapra vonatkozó havi átlaga meghaladja a minimálbér 150 százalékát. E bekezdés alkalmazása során a 2012. július 1-jétől szerzett jövedelem vehető figyelembe.
 
@@ -472,7 +472,7 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 33. § (1) A 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesülő – a 30. § (3)–(5) bekezdése, a 31. § és a 32. § (1) bekezdés b) és c) pontja alá nem tartozó – személyek ellátását a Kormány által kijelölt szerv 2012. január 1-jétől rehabilitációs ellátásként folyósítja azzal, hogy az ellátás összege megegyezik a 2011. december hónapra járó – a III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülők esetén a 2012. januári nyugdíjemelés mértékével növelt – ellátás összegével.
 
-(1a) Az (1) bekezdés szerinti, 2011. december 31-én rendszeres szociális járadékban részesülő személy ellátása összegének meghatározásakor az özvegyi nyugdíjra tekintettel megállapított csökkentést 2012. szeptember 1-jétől figyelmen kívül kell hagyni. Erről a Kormány által kijelölt folyósító szerv határozatot hoz.
+(1a)
 
 (2) Az (1) bekezdés szerinti rehabilitációs ellátásra a 6. § (2) és (3) bekezdésében, a 7–9. §-ban és a 10. § (2) bekezdés b) és f) pontjában foglalt rendelkezéseket nem kell alkalmazni, az ellátott a (7) bekezdésben meghatározott időpontig keresőtevékenységet a Tny., illetve az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet 2011. december 31-én hatályos rendelkezései szerint végezhet.
 
@@ -495,7 +495,9 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 (7) A felülvizsgálatot követően a jogosultsági feltételek fennállása esetén az e törvényben meghatározott ellátást az erről szóló döntést követő harmadik hónap első napjával kell megállapítani, rehabilitációs ellátásra való jogosultság esetén az ellátás határozott időtartama ezzel a nappal kezdődik. A jogosultsági feltételek közül nem kell vizsgálni az előzetesen biztosításban töltött időt.
 
-(8)–(9)
+(8) A rokkantsági ellátás és a rehabilitációs ellátás – a 32. § (1a) bekezdésének és az (1a) bekezdésnek a 2012. szeptember 1-jén hatályos szabályai szerinti – emelése, valamint az özvegyi nyugdíj – a Tny. 102/F. §-ának a 2012. szeptember 1-jén hatályos szabályai szerinti – csökkentése nem hajtható végre, az erről szóló határozatokat vissza kell vonni.
+
+(9) A megváltozott munkaképességű személyek ellátásait folyósító szerv az özvegyi nyugdíjra és rokkantsági vagy rehabilitációs ellátásra együttesen jogosult személyek esetében megállapítja a 32. § (1a) bekezdésének és az (1a) bekezdésnek, valamint a Tny. 102/F. §-ának – 2012. szeptember 1-jén hatályos – rendelkezései alapján csökkentett özvegyi nyugdíj és megemelt rokkantsági vagy rehabilitációs ellátás együttes havi összegének, valamint ezen ellátások 2012 augusztusára járó együttes havi összegének különbözetét. Ha a különbözet pozitív, a rokkantsági ellátást, illetve a rehabilitációs ellátást e különbözet havi összegével 2012. szeptember 1-jei időponttól kezdődően meg kell emelni. Az emelésről a megváltozott munkaképességű személyek ellátásait folyósító szerv 2012. október 15-éig határozattal intézkedik.
 
 33/A. § (1) Amennyiben a 32. § (1) bekezdése alapján rokkantsági ellátásban részesülő személy vagy a 33. § (1) bekezdése alapján rehabilitációs ellátásban részesülő személy felülvizsgálatát követően az ellátott
 
