@@ -515,6 +515,8 @@ kell alkalmazni.
 
 (3) A korlátolt felelősségű társaság törzstőkéjének és a részvénytársaság alaptőkéjének veszteség folytán való csökkenése jogkövetkezményeire törvény eltérő szabályokat állapíthat meg.
 
+(4) Mentesül a gazdasági társaság az (1) bekezdés szerinti kötelezettség alól, ha a második év számviteli törvény szerinti beszámolójának elfogadásától számított három hónapon belül, három hónapnál nem régebbi mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy az (1) bekezdés szerinti intézkedésekre okot adó körülmény már nem áll fenn.
+
 ### V. Fejezet — BEFOLYÁSSZERZÉS. ELISMERT VÁLLALATCSOPORT
 
 ### 1. CÍM — A minősített többséget biztosító befolyásszerzésre vonatkozó szabályok
@@ -1248,7 +1250,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - a) a társaság saját tőkéje veszteség folytán a törzstőke felére csökkent, vagy
 - b) a társaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve, ha vagyona tartozásait nem fedezi.
 
-(3) A (2) bekezdésben megjelölt esetekben a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
+(3) A (2) bekezdésben megjelölt esetekben – amennyiben a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleg szerint azok fennállnak – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
 
 144. § (1) A taggyűlést – a társasági szerződés eltérő rendelkezése hiányában – a társaság székhelyére vagy telephelyére kell összehívni, ettől eltérni csak a tagok egyszerű szótöbbséggel hozott előzetes hozzájárulásával lehet.
 
@@ -1975,7 +1977,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - b) saját tőkéje a 207. § (1) bekezdésében meghatározott összeg alá csökkent, vagy
 - c) a részvénytársaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve ha vagyona tartozásait nem fedezi.
 
-(2) Az (1) bekezdésben megjelölt esetekben a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
+(2) Az (1) bekezdésben megjelölt esetekben – amennyiben a közgyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleg szerint azok fennállnak – a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
 
 246. § Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, a 245. § (1) bekezdésének a) pontja szerinti körülmény változatlanul fennáll, az alaptőke leszállítása kötelező.
 
@@ -2677,6 +2679,8 @@ történik.
 (4) A Módtv.-vel megállapított 85. § (4) bekezdését a Módtv. hatálybalépését követően elhatározott szétválásokra kell alkalmazni.
 
 336/E. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel megállapított 23. § (3) és (4) bekezdésében foglaltakat a 2009. szeptember 1. és 2012. március 1. közötti időszakban indult megszüntetési eljárásokra és felszámolási eljárásokkal összefüggésben megállapított felelősségre kell alkalmazni.
+
+336/F. § Az 51. § (1) bekezdése, a 143. § (2) bekezdés a) pontja, valamint 245. § (1) bekezdés a) és b) pontja alkalmazásában a saját tőke hiányának megállapítása során a 2011-ben, valamint a 2012-ben induló üzleti évről készített számvitelről szóló 2000. évi C. törvény szerinti beszámolóban kimutatott, a külföldi pénzértékre szóló eszközök és kötelezettségek számviteli törvény 60. § (3) bekezdés a) pontja szerint elszámolt összevont árfolyamvesztesége 2014. május 31-éig figyelmen kívül hagyható.
 
 ### Jogharmonizációs záradék
 

@@ -473,9 +473,10 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 - e) az Európai Közösség más tagállamában illetőséggel bíró adóalannyal kereskedelmi kapcsolatot kíván létesíteni,
 - f) az általános forgalmi adóról szóló törvény szerint kizárólag az adómentes termékimportot megalapozó Közösségen belüli termékértékesítés miatt válik az általános forgalmi adó alanyává, és az adómentes termékimportot nem közvetett vámjogi képviselő igénybevételével teljesíti,
 - g) az általános forgalmi adóról szóló törvény 96. §-ában meghatározott közvetett vámjogi képviselőként jár el,
-- h) tevékenységére az adómegállapításnak az általános forgalmi adóról szóló törvényben meghatározott általános szabályait alkalmazza.
+- h) tevékenységére az adómegállapításnak az általános forgalmi adóról szóló törvényben meghatározott általános szabályait alkalmazza,
+- i) pénzforgalmi elszámolást választ.
 
-(2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) pontok kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott adómentes termékimportot megalapozó közösségi adómentes termékértékesítést, mint közösségi kereskedelmi kapcsolatot közvetett vámjogi képviselő igénybevételével létesít.
+(2) Az (1) bekezdés szerinti nyilatkozat megváltoztatását – az e)–g) pontok kivételével – a változtatást megelőző adóév utolsó napjáig kell bejelenteni. Ha az adózó az alanyi adómentességre, illetve a pénzforgalmi elszámolás választására jogosító értékhatárt az adóév közben lépte túl, a bejelentést a 23. § (3) bekezdés szerint kell megtenni. Az adózó az (1) bekezdés e) pontja szerinti nyilatkozattétel és annak változásának bejelentése alól mentesül, ha kizárólag az általános forgalmi adóról szóló törvényben meghatározott adómentes termékimportot megalapozó közösségi adómentes termékértékesítést, mint közösségi kereskedelmi kapcsolatot közvetett vámjogi képviselő igénybevételével létesít.
 
 (3) Ha az adózó az (1)–(2) bekezdésben foglalt bejelentést törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző adóévről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, az adóév első napjára visszamenően módosíthatja.
 
@@ -3901,6 +3902,10 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
 
 (15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+194. § (1) A munkahelyvédelmi akciótervben foglaltak megvalósítása érdekében szükséges egyes törvények módosításáról szóló 2012. évi CXLVI. törvénnyel megállapított 22. § (1) bekezdés i) pontja szerinti választást csak 2013. január 1-jén, vagy ezt követően kezdődő általános forgalmi adó megállapítási időszakra vonatkozóan lehet bejelenteni.
+
+(2) A munkahelyvédelmi akciótervben foglaltak megvalósítása érdekében szükséges egyes törvények módosításáról szóló 2012. évi CXLVI. törvénnyel megállapított 3. számú melléklet J) pontja 2. alpontjának hatályba lépését megelőző három évben, az adókedvezményre jogosító igazolást kiállító szerv által kiállított adókedvezményre jogosító igazolásban szereplő adatokat az adókedvezményre jogosító igazolást kiállító szerv 2013. március 31-ig elektronikus úton hivatalból megküldi az állami adóhatóság részére.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
