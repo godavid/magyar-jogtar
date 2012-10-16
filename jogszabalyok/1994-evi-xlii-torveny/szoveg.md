@@ -93,6 +93,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (4) A 2. § (2) bekezdése szerint nyújtott hitelek kamatának, valamint az e célt szolgáló finanszírozási költségek különbözetének (a továbbiakban: egyenleg) forrását az Eximbank részére a központi költségvetés – kormányrendeletben megállapított feltételek szerint és módon – közvetlenül biztosítja (kamatkiegyenlítési rendszer).
 
+(5) Az (1) és (2) bekezdés alapján fennálló állami kezesség esetén a jogosult az állami készfizető kezességvállaláson túlmenően további biztosíték előírására nem köteles.
+
 7. § (1) Az éves költségvetési törvényben meg kell határozni:
 
 - a) az Eximbank által forrásszerzés céljából kül- és belföldi hitelintézetektől felvehető betétek és hitelek, valamint a kibocsátott kötvények együttes állományának felső határát,
@@ -221,6 +223,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 26/B. § (1) Az állami vagyonnal összefüggő egyes rendelkezésekről szóló 2012. évi CXIV. törvény (a továbbiakban: Mód.tv.) hatálybalépését követő 30 napon belül a miniszter az e törvény a Mód.tv.-vel megállapított rendelkezéseinek megfelelően módosítja az Eximbank és a Mehib Rt. alapító okiratát.
 
 (2) A Mód.tv.-vel megállapított 14. § szerinti igazgatóságot első alkalommal a Mód.tv. hatálybalépését követő 30 napon belül kell a Mód.tv-vel megállapított 17. § szerint megválasztani, kinevezni.
+
+26/C. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosításáról szóló 2012. évi CXLVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (5) bekezdését a Módtv2. hatálybalépését megelőzően létrejött valamennyi állami kezességre is alkalmazni kell.
 
 27. § (1) E törvény a kihirdetését követő harmincadik napon lép hatályba.
 
