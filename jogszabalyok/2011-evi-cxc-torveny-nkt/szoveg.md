@@ -1424,7 +1424,15 @@ dönt.
 
 #### 44. A köznevelés közfeladatai, a feladatellátásra kötelezettek
 
-#### 74–76. §
+74. § (1)–(3)
+
+(4)–(6)
+
+(6a) A (4) és (5) bekezdésben meghatározott működtetés egyedi feltételeit az állami intézményfenntartó központtal kötött, a köznevelési intézmény által ellátott feladatokhoz igazodó szerződésben kell megállapítani.
+
+(7)
+
+#### 75–76. §
 
 #### 45. Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
 
@@ -1837,7 +1845,7 @@ egyetértésben gyakorolja.
 - l) a kormányhivatalok hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
 - m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a diákigazolvány, a pedagógusigazolvány kiállításával összefüggő igazgatási szolgáltatási díj megállapításának, befizetésének és felhasználásának kérdéseit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógusigazolvány igénylésével kapcsolatos igazgatási szolgáltatási díj megállapításának és beszedésének, befizetésének rendjét, valamint a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv kijelölését, a települési önkormányzati fenntartású köznevelési intézmények fenntartói joga állam általi átvételének, az állami fenntartással összefüggő adatváltozások KIR-ben történő átvezetésének részletes szabályait,
-- o) az állami köznevelési intézmény feladatait szolgáló ingatlan működtetési kötelezettsége alóli mentesülés, továbbá annak vállalása részletes szabályait, a 74. § (6) bekezdése szerinti adatszolgáltatás tartalmát és a működtetési képesség hiányának vizsgálata során figyelembe vételre kerülő szempontokat, valamint a vizsgálathoz kapcsolódó eljárás részletes szabályait,
+- o) a 74. § (4) bekezdés szerinti mentesülés iránti kérelem és a 74. § (5) bekezdés szerinti vállalásra vonatkozó kérelem benyújtásának és elbírálásának szabályait,
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 - q) az állami intézményfenntartó központtal a köznevelési intézmény feladatait szolgáló ingatlan működtetése céljából köthető szerződés részletes tartalmát,
 - r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét
@@ -1850,9 +1858,11 @@ rendeletben állapítsa meg.
 
 95. § (1) Ez a törvény – a (2)–(5) bekezdésben foglalt kivételekkel – 2012. szeptember 1-jén lép hatályba.
 
-(2) A 7. § (1) bekezdés i) pont, 18. §, a 45. § (2) és (4) bekezdés, az 50. § (7) bekezdés, a 67. § (2) bekezdés, a 74–76. §, 95. § (7) bekezdés 2013. január 1-jén lép hatályba.
+(2) A 7. § (1) bekezdés i) pontja, a 18. §, a 45. § (2) és (4) bekezdése, az 50. § (7) bekezdése, a 67. § (2) bekezdése, a 74. § (1)–(3) és (7) bekezdése, a 75–76. §, a 95. § (7) bekezdése 2013. január 1-jén lép hatályba.
 
 (3) A 4. § 13. pont b) alpont, a 8. § (3) bekezdés, a 12–14. §, a 17. § (2) bekezdés második mondata, a 25. § (7) bekezdés, a 27. § (1)–(10) bekezdés, 27. § (12)–(13) bekezdés, 28–29. §, a 35. §, a 46. § (1) bekezdés a) pont, a 46. § (5) bekezdés, a 47. § (7) bekezdés, az 55. § (1) bekezdés, a 60. § (2) bekezdés, a 61. § (3) és (5) bekezdés, a 62. § (3) és (5)–(14) bekezdés, a 64–65. §, a 69. § (5)–(6) bekezdés, a 88. § (4)–(5) bekezdés, a 89. § (1)–(2) bekezdés, 95. § (8) bekezdés, az 1. melléklet, a 2. melléklet, a 4. melléklet, az 5. melléklet, a 6. melléklet, a 7. melléklet, a 8. melléklet 2013. szeptember 1-jén lép hatályba.
+
+(3a) A 74. § (4)–(6) bekezdése 2012. október 27-én lép hatályba.
 
 (4) A 8. § (2) bekezdés, az 53. § (1) bekezdés, 95. § (9) bekezdés 2014. szeptember 1-jén lép hatályba.
 
@@ -1940,10 +1950,12 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (23) A 76. § (1) bekezdés szerint a működtető tulajdonát azok a taneszközök képezik, amelyeket a 2013. január 1-jei leltár tartalmaz.
 
-(24) 2012. évben szeptember 30-ig szándékát nyilvánítja az állami intézményfenntartó központnak és 2012. október 30-ig dönt a települési önkormányzat arról, hogy a rendelkezésére álló saját és átengedett bevételek terhére a következő naptári évben kezdődő tanévtől
+(24) A 74. § (4)–(6) bekezdését 2013. január 1-jétől kell alkalmazni azzal, hogy
 
-- a) 3000 főt meg nem haladó lakosságszámú település esetén a működtetést az államtól képes átvállalni,
-- b) 3000 fő lakosságszám feletti település esetén a működtetést nem képes vállalni.
+- a) a települési önkormányzat – a 76. § (4) bekezdésében foglaltaktól eltérően – első alkalommal 2012. november 15-ig nyújthatja be
+  - aa) a 74. § (5) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést az államtól képes átvállalni, vagy
+  - ab) a 74. (4) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést nem képes vállalni,
+- b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányzat saját tulajdonában álló vagyonnak minősül az a vagyon is, amely a települési önkormányzat illetékességi területén van és 2012. szeptember 30-án intézményi társulás vagy többcélú kistérségi társulás tulajdonában volt.
 
 (25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
 

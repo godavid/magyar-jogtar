@@ -1681,6 +1681,8 @@ a törléstől számított egy évig,
 - d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
 - e) a munkáltató nevét, címét, adószámát és bankszámla számát.
 
+(5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
+
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a szakorvosjelöltnek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az
@@ -2200,6 +2202,8 @@ költségének fedezetét.
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az (1) bekezdés g) pontja szerinti országos intézetek segítik.
 
+(4) A miniszter az egészségügyi felsőfokú szakirányú szakképzésért való feladatkörében az egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre tekintettel támogatást nyújthat.
+
 151. § (1) A miniszter az egészségügy területén működő civil szervezetekkel a Nemzeti Betegfórum útján is kapcsolatot tart.
 
 (2) A Nemzeti Betegfórumot az adott betegségben szenvedő személyeket képviselő civil szervezetek alkotják. A Nemzeti Betegfórum
@@ -2257,7 +2261,9 @@ költségének fedezetét.
 - a) az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételeket, valamint
 - b) az egészségügyi intézmény működőképességét és szükség szerinti fejlesztését.
 
-(3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartási törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartóként kormányrendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
+(2a) A fenntartó, valamint a (3) bekezdés szerint egyes fenntartói jogkörök gyakorlására rendeletben kijelölt szervezet a (2) bekezdésben meghatározott cél érdekében az általa fenntartott egészségügyi intézmény részére támogatást – ideértve az államháztartásról szóló törvény szerinti költségvetési támogatást –, adományt nyújthat, valamint más ellenérték nélküli kötelezettséget vállalhat, kifizetést teljesíthet.
+
+(3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartásról szóló törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartói jogok gyakorlására rendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
 
 (4) Az állam tulajdonában és fenntartásában lévő fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében – azon egészségügyi szolgáltatók kivételével, amelyek nem az egészségügyért felelős miniszter irányítása alá tartoznak vagy fenntartásában vannak – az (1) bekezdésben foglalt jogkörök közül a miniszter kizárólagos irányítási jogkörébe tartozik az egyes fenntartói jogokat gyakorló szervezet javaslatára
 
@@ -3374,6 +3380,8 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 244/B. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel (a továbbiakban: Módosító tv.) megállapított 146. § (1) bekezdésében meghatározott térségi egészségügyi fejlesztési programot 2012. december 31-éig kell elkészíteni.
 
 (2) A Módosító tv.-nyel megállapított 148. § (1) bekezdés szerint létrehozásra kerülő Térségi Egészségügyi Tanácsot 2012. május 1-jétől kell működtetni.
+
+244/C. § E törvény az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 155. § (2a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő eljárás és benyújtott kérelem tekintetében is alkalmazni kell.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
