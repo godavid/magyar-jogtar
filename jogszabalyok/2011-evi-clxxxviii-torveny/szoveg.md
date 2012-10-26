@@ -55,7 +55,7 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 - a) 28. § (4) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2012. évben 25,0 millió forint,
 - b) 33. § (2) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2012. évben 25,0 millió forint,
 - c) 35. § (2) bekezdés i) pontjában meghatározott egyedi bruttó forgalmi érték a 2012. évben 25,0 millió forint,
-- d) 36. § (4) bekezdésében meghatározott ingyenesen átruházható vagyontárgyak 2012. évi összesített bruttó forgalmi értéke – a (4) bekezdésben foglalt kivétellel – 5000,0 millió forint lehet.
+- d) 36. § (4) bekezdésében meghatározott ingyenesen átruházható vagyontárgyak 2012. évi összesített bruttó forgalmi értéke – a (4) bekezdésben foglalt kivétellel – 15 000,0 millió forint lehet.
 
 (4) A Nemzeti Eszközkezelő Zrt. vagyonkezelésében álló, az állam javára megszerzett ingatlanok, valamint a PPP-konstrukcióban létrehozott és az állam által megvásárolt sportlétesítmények (így különösen tornatermek, tanuszodák, sportcsarnokok) és oktatási létesítmények a Kormány határozata alapján megvalósuló ingyenes önkormányzati tulajdonba adását a (3) bekezdés d) pontja szerinti mértékbe nem kell beszámítani.
 
