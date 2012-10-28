@@ -175,7 +175,8 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 - a) jogszabály felhatalmazása alapján állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, ezzel kapcsolatos tanácsadási feladatokat láthat el,
 - b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet az állam, az önkormányzat, valamint ezek többségi tulajdonában álló gazdálkodó szervezete hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
 - c) közreműködhet az Országos Betétbiztosítási Alap szabad pénzeszközeinek kezelésében,
-- d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében.
+- d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében,
+- e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
 (5) Az ÁKK Zrt. (1) bekezdés szerinti tevékenysége körében az állam által kibocsátott, vagy állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)-d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjában meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
 

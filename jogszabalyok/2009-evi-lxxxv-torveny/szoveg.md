@@ -251,6 +251,8 @@ vonatkoznak.
 
 (2) A meghatározott célból elkülönített, a számlatulajdonos szabad rendelkezése alól kikerült pénzeszközök az elkülönítés tartama alatt csak a meghatározott célra használhatók fel.
 
+(2a) A számlatulajdonos fizetési számlája terhére benyújtott hatósági átutalás és átutalási végzés teljesítéséhez szükséges fedezetet a pénzforgalmi szolgáltató a fizetési megbízásban szereplő név és egyedi azonosító fizető féllel történő egyezőségének megállapítása után azonnal elkülöníti.
+
 (3) A fizetési számlaszerződésre a Polgári Törvénykönyvben foglalt bankszámlaszerződésre vonatkozó szabályokat kell alkalmazni azzal, hogy a hitelintézetnek nem minősülő pénzforgalmi szolgáltató a fizetési számlára befolyó pénzeszközöket nem használhatja.
 
 ### V. Fejezet — KERETSZERZŐDÉSEN ALAPULÓ FIZETÉSI MEGBÍZÁS
@@ -572,7 +574,7 @@ vonatkoznak.
 
 ### XII. Fejezet — SORBAÁLLÍTÁS
 
-60. § (1) A pénzügyi fedezet hiánya miatt részben vagy egészben nem teljesíthető, hatósági átutalást és átutalási végzés alapján teljesített átutalást a kedvezményezett azonnali visszaküldést kérő rendelkezése hiányában a teljesítéshez szükséges fedezet biztosításáig – legfeljebb azonban harmincöt napig – a pénzforgalmi szolgáltató sorba állítja.
+60. § (1) A pénzügyi fedezet hiánya miatt részben vagy egészben nem teljesíthető hatósági átutalást és átutalási végzésen alapuló átutalást a kedvezményezett azonnali visszaküldést kérő rendelkezése hiányában a teljesítéshez szükséges fedezet biztosításáig – legfeljebb azonban harmincöt napig – a pénzforgalmi szolgáltató sorba állítja.
 
 (2) A teljesítés sorrendjét az átvétel időpontja határozza meg.
 

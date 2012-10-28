@@ -35,15 +35,14 @@ végez befektetési szolgáltatási tevékenységet,
 
 3. § (1) A 8. §, 13. §, 22. §, 24. §, 27–31. §, 37–39. §, 97–107. §, 121. §, 124–141. §, 155–170. § és 172–175. § kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni
 
-- a) a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett,
-- b) az Államadósság Kezelő Központ Zrt.-nek (a továbbiakban: ÁKK Zrt.) törvényben meghatározottak szerinti államadósság-kezelésen kívül végzett, és
-- c) az államkincstárnak (a továbbiakban: kincstár) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett
+- a) a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett, és
+- b) a kincstárnak az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
-befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
-
-(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, 13. §, 15–16. §, 22. § (1)–(3) bekezdése, 25. § (1) bekezdése, 37–39. §, 60. §, 97–99. §, 100. § (1) bekezdés e) pont, 105–107. §, 121. §, 124–139. § és 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
+(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, 13. §, 15–16. §, 22. § (1)–(3) bekezdése, 25. § (1) bekezdése, 37–39. §, 60. §, 97–99. §, 100. § (1) bekezdés e) pont, 105–107. §, 121. §, 124–135. §, 136. § (2)–(5) bekezdése, 137–139. § és 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
 
 (3) A Batv. szerinti befektetési alapkezelő a Batv.-ben meghatározott körben befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat azzal, hogy e tevékenysége, illetve szolgáltatása tekintetében – a 8. § (5) bekezdésének a)–e) pontja, 22. §, 24–26. §, 37–39. §, 73–75. §, 100–107. § és 124–139. § kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
+
+(4) Az (1) bekezdésben meghatározott rendelkezések és a 25. § (1) bekezdése kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni az Államadósság Kezelő Központ Zrt.-nek (a továbbiakban: ÁKK Zrt.) törvényben meghatározottak szerinti államadósság-kezelésen kívül végzett befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -465,7 +464,8 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - i) közigazgatási szervnél,
 - j) árutőzsdei szolgáltatónál,
 - k) központi értéktárnál, vagy
-- l) központi szerződő félnél
+- l) központi szerződő félnél,
+- m) biztosítónál vagy nyugdíjpénztárnál,
 
 tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
@@ -2125,7 +2125,7 @@ teszi közzé.
 - d) megakadályozza, hogy az a személy, aki a befektetési szolgáltatási tevékenység vagy kiegészítő szolgáltatás keretében nem rendelkezik feladattal, bármilyen módon befolyásolhassa azt az alkalmazottat, aki ilyen feladatot lát el,
 - e) megakadályozza, hogy a befektetési szolgáltatási tevékenység vagy kiegészítő szolgáltatás keretében feladatot ellátó alkalmazott párhuzamosan ellátandó vagy egymásra épülő feladatai ellátása során esetleg kialakuló érdekkonfliktus ellenőrzése akadályokba ütközzön.
 
-(6) A befektetési vállalkozás folyamatos nyilvántartást vezet az általa végzett azon befektetési szolgáltatásokról, illetve kiegészítő szolgáltatások nyújtásáról, amelyekkel kapcsolatban a (2) bekezdés a) pontjában meghatározott körülmények felmerülhetnek.
+(6) A befektetési vállalkozás folyamatos nyilvántartást vezet az általa végzett azon befektetési szolgáltatásokról, illetve kiegészítő szolgáltatások nyújtásáról, amelyekkel kapcsolatban a (3) bekezdés a) pontjában meghatározott körülmények felmerülhetnek.
 
 ### XXI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ TEVÉKENYSÉGÉVEL ÖSSZEFÜGGŐ EGYÉB KÜLÖNLEGES SZABÁLYOK
 
@@ -2335,7 +2335,9 @@ részére,
 - m) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása,
 - n) a Felügyelet által a Tpt. 181/J. § (15) bekezdés szerinti válsághelyzetben a más EGT-állam központi bankjának vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
 - o) a tulajdonosi megfeleltetés érdekében a központi értéktár részére nyújtott adatszolgáltatás,
-- p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás.
+- p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás,
+- q) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésére álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérése alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
+- r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás.
 
 ### A panaszkezelés
 
@@ -3094,9 +3096,10 @@ vonatkozó részletes szabályokat.
 
 - a) az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről,
 - b) a Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról,
-- c) az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről,
+- c) az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről,
 - d) az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról,
-- e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
+- f) az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról.
 
 (2) E törvény a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -1012,7 +1012,7 @@ igazolását.
 (2) A független biztosításközvetítő és a szaktanácsadó köteles a Felügyeletnek 2 munkanapon belül bejelenteni
 
 - a) a független biztosításközvetítői tevékenységet irányító személyében, a vezető szaktanácsadó személyében történt változást, továbbá a felelősségbiztosítási szerződés megszűnését,
-- b) a székhely vagy telephely címének megváltozását.
+- b) a székhely címének megváltozását.
 
 (3) A független biztosításközvetítő az (1) bekezdésben foglaltakon túl köteles a Felügyeletnek 30 napon belül bejelenteni a törzstőke (alaptőke) felemelését vagy leszállítását.
 
@@ -2184,7 +2184,7 @@ van összefüggésben.
 
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító, biztosításközvetítő és a biztosítási szaktanácsadó az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(8)
+(8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
 
 157/A. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a magyar bűnüldöző szerv, illetőleg az Országos Rendőr-főkapitányság – a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi XV. törvényben meghatározott feladatkörében eljárva, vagy nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv, illetőleg külföldi Pénzügyi Információs Egység írásbeli megkeresése teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot a biztosítótól, amennyiben a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot.
 
@@ -3260,7 +3260,7 @@ rendeletben állapítsa meg.
 - e)
 - f) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 - g) a befektetési egységhez kötött életbiztosítások esetén az ügyfeleknek szóló adatszolgáltatás formáját és tartalmát,
-- h) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat,
+- h)
 - i) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait,
 - j) a nagykockázatok és a nagykárok határértékeit,
 - k)

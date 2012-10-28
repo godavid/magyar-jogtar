@@ -300,9 +300,9 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 ### Átmeneti rendelkezések
 
-24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2012. június 30-ig dönthet.
+24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2012. december 31-ig dönthet.
 
-(2) A 2012. június 30-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek az 5–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
+(2) A 2012. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek az 5–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
 
 (3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 127. és 128. §-ával megállapított 10. § (2a) bekezdés, 12. § (6) és (7) bekezdés a hatálybalépését megelőzően megvalósult tőkeemelésre is alkalmazható.
 

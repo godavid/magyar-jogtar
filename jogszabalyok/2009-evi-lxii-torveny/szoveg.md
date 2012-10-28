@@ -134,7 +134,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (5) A szerződésre a Polgári Törvénykönyvről szóló törvény rendelkezései akkor alkalmazhatók, ha e törvény eltérő rendelkezést nem tartalmaz.
 
-9. § (1) Az üzemben tartó a szerződéskötéskor köteles minden, a biztosítás elvállalása szempontjából lényeges körülményt közölni a biztosítóval, így különösen – fennálló szerződés esetén a biztosítási időszak vagy a tartam utolsó napját követő – az új biztosítási időszak vagy a határozott tartam kezdő napját, biztosítóváltás esetén az előző biztosítási időszakra vonatkozóan a fedezetet nyújtó biztosító megnevezését és a biztosítást igazoló okirat számát.
+9. § (1) Az üzemben tartó a szerződéskötéskor köteles minden, a biztosítás elvállalása szempontjából lényeges körülményt közölni a biztosítóval, így különösen – fennálló szerződés esetén a biztosítási időszak vagy a tartam utolsó napját követő – az új biztosítási időszak vagy a határozott tartam kezdő napját, biztosítóváltás esetén az előző biztosítási időszakra vonatkozóan a fedezetet nyújtó biztosító megnevezését és a biztosítást igazoló okirat számát, továbbá – amennyiben az üzemben tartó már rendelkezik vele – a kártörténeti rendszerazonosító számot.
 
 (2) Az üzemben tartó a szerződéskötéskor köteles a fedezetlenségi díj megállapításához szükséges adatokat a biztosítóval vagy annak képviselőjével közölni.
 
@@ -595,7 +595,10 @@ változás következik be.
 
 (4) A kárnyilvántartás tartalmazza az üzemben tartó, a gépjármű, a szerződés és a káresemény alább felsorolt adatait:
 
-- a) a szerződő üzemben tartó, illetve a 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartó nevét (jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezését, továbbá cégjegyzékszámát, illetve nyilvántartási számát), születési helyét, születési idejét, anyja nevét és lakcímét (székhelyét, telephelyét);
+- a) a szerződő üzemben tartó, és a 36. § (8) bekezdés a), b) és e) pontjában meghatározott üzemben tartó
+  - aa) nevét, születési helyét, születési idejét, anyja nevét és lakcímét,
+  - ab) jogi személy és jogi személyiséggel nem rendelkező szervezet esetén annak megnevezését, továbbá cégjegyzékszámát vagy nyilvántartási számát, székhelyét, telephelyét, továbbá
+  - ac) 52. § (6) bekezdése szerint képzett kártörténeti rendszer azonosító számát;
 - b) a gépjármű hatósági jelzését (rendszámát) és alvázszámát, típusát, kategóriáját;
 - c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 - d) a biztosító nevét, a biztosítást igazoló okirat számát;
@@ -636,6 +639,8 @@ részére.
 (4) A kárnyilvántartó szerv a biztosító által a részére megküldött, az üzemben tartó természetes személy természetes személyazonosító adatait (név, születési hely, születési idő, anyja neve) és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartó szerv részére. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartó kapcsolati kódot képez, amelyet azonosítás céljából megküld a kárnyilvántartó szerv részére.
 
 (5) A személyiadat- és lakcímnyilvántartó szerv az azonosított természetes személy adatainak a személyiadat- és lakcímnyilvántartásban bekövetkezett változásairól a (4) bekezdésben meghatározott kapcsolati kódon értesíti a kárnyilvántartó szervet.
+
+(6) A kárnyilvántartó szerv az üzemben tartó személyi adat- és lakcímnyilvántartó szerv általi sikeres azonosítását követően a kapcsolati kód alapján, a kártörténeti nyilvántartási rendszerben történő folyamatos azonosíthatóság érdekében kártörténeti rendszer azonosító számot képez, amelyet a biztosító írásban közöl az üzemben tartóval. A kártörténeti rendszer azonosító számot a biztosító a 8. § (3) bekezdése, 17. § (4) bekezdése és 21. § (5) bekezdése szerinti értesítéseken szerepelteti.
 
 53. § (1) A nyilvántartással érintett személyes adatok tekintetében az adatkezelő az Információs Központ.
 
@@ -746,6 +751,12 @@ késedelem nélkül megkapja.
 (6) Érdekmúlással megszűnik a gépjárműflottára kötött szerződés, ha 2011. január 1-jén nem felel meg az e törvény gépjárműflottára kötött szerződésekre vonatkozó szabályainak.
 
 62. §
+
+62/A. § (1) A biztosító a 2012. október 30-áig meghirdetendő díjtarifáját a 23. § (3) bekezdésétől eltérően 2013. január 1-től alkalmazandó tarifájaként hirdeti meg.
+
+(2) A biztosító a 2012. október 30. és 2012. december 31. közötti időszakban a 2013. március 1-jét követően kezdődő biztosítási időszakra szóló ajánlatot nem fogadhatja el, és ezen időponttól kezdődő biztosítási időszakra szóló szerződést nem köthet, az így létrejött szerződés érvénytelen. A biztosító az ajánlat elutasításáról annak beérkezésétől számított tizenöt napon belül értesíti az üzemben tartót.
+
+(3) A biztosító a kártörténeti rendszer azonosító számot az e törvény – egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 52. § (6) bekezdésében foglaltak szerint legkésőbb 2013. január 1-jétől köteles szerepeltetni az e törvény 8. § (3) bekezdése, 17. § (4) bekezdése és 21. § (5) bekezdése szerinti értesítéseken.
 
 ### Módosuló és hatályukat vesztő rendelkezések
 
