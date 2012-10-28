@@ -8,7 +8,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 1. § (1) Ha nemzetközi szerződés másként nem rendelkezik, e törvény rendelkezéseit kell alkalmazni:
 
-- a) Magyarország területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, valamint betétbiztosításra,
+- a) Magyarország területén végzett, e törvényben meghatározott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, önkéntes intézményvédelemre, valamint betétbiztosításra,
 - b) Magyarország területén székhellyel rendelkező hitelintézet által külföldön alapított hitelintézet, pénzügyi vállalkozás e törvényben meghatározott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységének c) pont szerinti felügyeletére,
 - c) a magyar hatóság által ellátott – e törvényben meghatározott – felügyeleti tevékenységre,
 - d) pénzügyi intézménynek nem minősülő, az összevont alapú felügyelet hatálya alá tartozó hitelintézettel, illetőleg a pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holding társaságra,
@@ -688,7 +688,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (6) A pénzügyi holding társaság engedély iránti kérelméhez mellékelni kell
 
-- a) az (1) bekezdés a) és c)–e) pontjában foglaltakat,
+- a) az (1) bekezdés a) és c)–e) pontjában, valamint a (2) bekezdésben foglaltakat,
 - b) a középtávú – az első három évre vonatkozó – üzleti tervet,
 - c) a 18. § (2) bekezdés f) és h) pontjában foglaltakat,
 - d) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást a Felügyelet rendelkezésére bocsátja
@@ -1575,7 +1575,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
 - a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
-- b) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
+- b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
 - e) a büntető-, valamint polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
@@ -1588,6 +1588,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - l) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Közösségeket létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó állami támogatások – az Európai Közösségeket létrehozó Szerződés I. mellékletében szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 - m) lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző kincstárral,
 - n) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+- o) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 
@@ -1656,6 +1657,8 @@ van összefüggésben.
 - q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
 - r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
 - s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
+- t) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
+- u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltató által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás.
 
 (2)–(10)
 
@@ -1900,6 +1903,8 @@ a belső szabályzatban meghatározott mértékig.
 69/E. § (1) A hitelintézet ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 
 (2) A hitelintézet vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
+
+69/F. § Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe a hitelintézet székhelye szerinti állam javadalmazási politikára vonatkozó joga szerinti szabályokat alkalmazza.
 
 ## III. RÉSZ — A PRUDENS MŰKÖDÉSRE VONATKOZÓ KÖVETELMÉNYEK
 
@@ -3052,7 +3057,7 @@ tekintetében.
 - c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 - d) a betétes magyar nyelvű tájékoztatása, illetőleg magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták.
 
-(2) Az Alap a betétestől és más hitelezőtől kapott megbízás alapján ellátja a képviseletet az (1) bekezdésben meghatározott feladatkörében egyezségi tárgyaláson, illetve a felszámolási eljárás során.
+(2) Az Alap az államtól kapott megbízás alapján ellátja a képviseletet az (1) bekezdésben meghatározott feladatkörében egyezségi tárgyaláson, illetve felszámolási eljárás során.
 
 ### Az Alap által biztosított betétek
 
@@ -3126,13 +3131,13 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (3) Fedezetül szolgáló betét esetén az Alap akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
 
-103. § (1) Az állam által 1993. június 30-át követően biztosítani kívánt betétek biztosítását az Alap – megegyezés szerinti térítés ellenében – átvállalhatja.
+103. § (1) Az állami kezességvállalás mellett elhelyezett betétek esetén a kártalanítás kifizetését és az államot megillető követelés érvényesítését az Alap – megegyezés szerinti térítés ellenében – az állammal írásban kötött szerződés alapján átvállalhatja. Amennyiben az állami kezesség érvényesítése az Alapon keresztül történik, a kifizetésre és az államot megillető követelésre a (2)–(4) bekezdésben foglaltakat kell alkalmazni.
 
-(2) Az állami garanciával vagy kezességgel fedezett betétek esetén a központi költségvetés a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjától számított húsz munkanapon belül bocsátja a garancia beváltásához szükséges pénzeszközöket az Alap rendelkezésére. Ezt az összeget az Alap kizárólag az állami garancia vagy kezesség beváltásból származó fizetési kötelezettség teljesítésére használhatja fel, amely kifizetéseket az államháztartásért felelős miniszter képviselője a hitelintézetnél a helyszínen ellenőrizheti.
+(2) Az állami kezesség beváltása és az ebből eredő állami követelés érvényesítése során az állam nevében az államháztartásért felelős miniszter jár el. Amennyiben az Alap észleli, hogy a befagyott betétek között van állami kezességvállalás mellett elhelyezett betét, írásban keresi meg az államháztartásért felelős minisztert.
 
-(3) Az Alap az (1) és (2) bekezdés szerinti feladatot az állammal írásban kötött szerződés alapján végezheti.
+(3) Az állami kezességvállalás mellett elhelyezett betétek esetén az államháztartásért felelős miniszter a központi költségvetés terhére a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjától számított negyvenöt munkanapon belül bocsátja a kezesség beváltásához szükséges pénzeszközöket az Alap rendelkezésére. Ezt az összeget az Alap kizárólag a kezesség beváltásból származó fizetési kötelezettség teljesítésére használhatja fel, amely kifizetéseket az államháztartásért felelős miniszter képviselője a hitelintézetnél a helyszínen ellenőrizheti.
 
-(4) Az állami garancia beváltása címén kifizetett összegek erejéig a hitelintézettel szembeni követelés a betétesről az államra száll át. A követelés átszállásával az állam a korábbi jogosult helyébe lép. Az állam a követeléseit a hitelintézet tevékenységi engedélyének a 30. § (1) bekezdés b) pontja szerinti visszavonása alapján indított végelszámolási eljárásban vagy a hitelintézet felszámolási eljárásában jogosult érvényesíteni. A hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az állam azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből származó jogok még nem szálltak át az államra, ha az állam garancia alapján egyébként fizetni köteles.
+(4) Az állami kezesség beváltása címén kifizetett összegek erejéig a hitelintézettel szembeni követelés a betétesről az államra száll át. A követelés átszállásával az állam a korábbi jogosult helyébe lép. Az állam a követeléseit a hitelintézet tevékenységi engedélyének a 30. § (1) bekezdés b) pontja szerinti visszavonása alapján indított végelszámolási eljárásban vagy a hitelintézet felszámolási eljárásában jogosult érvényesíteni. A hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az állam azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből származó jogok még nem szálltak át az államra, ha az állam kezességvállalás alapján egyébként fizetni köteles.
 
 ### XVI. Fejezet — Kártalanítás
 
@@ -3148,7 +3153,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (4) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 3. számú mellékletben felsoroltak közül az Alap előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
 
-(5) A kifizetések teljesítése hitelintézetnek adott megbízás, a kártalanítási összeg más hitelintézethez betétként való áthelyezése, postai átutalás, csekk kiállítása vagy közvetlen kifizetés útján az elhelyezés országának törvényes fizetőeszközében történik. Az ötszáz forintnak megfelelő összegnél kisebb összegű kártalanítás nem fizethető ki.
+(5) A kifizetések teljesítése hitelintézetnek adott megbízás, a kártalanítási összeg hitelintézethez a betétes részére történő átutalása, fizetési számláról a Postai Elszámoló Központot működtető intézményen keresztül történő készpénz kifizetés vagy közvetlen kifizetés útján az elhelyezés országának törvényes fizetőeszközében történik. Az ötszáz forintnak megfelelő összegnél kisebb összegű kártalanítás nem fizethető ki.
 
 106. § A kártalanítással érintett hitelintézet az Alap kezdeményezése esetén az Alap által biztosított betétek alapján járó kártalanítási kifizetéssel együtt járó feladatok ellátására köteles az Alappal megállapodást kötni. E feladatok ellátásáért a hitelintézet a működése során hatályban volt legutolsó üzletszabályzata szerinti, vagy a legutolsó üzletszabályzata tartalmilag leginkább hasonló tételének megfelelő térítésre jogosult.
 
@@ -3160,7 +3165,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (3) Hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az Alap azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az Alapra, de amelyekért a 101. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
 
-(4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az Alapnál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség és a kommunikációs költség.
+(4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az Alapnál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség, a kommunikációs költség, a számítástechnikai költség és a jogi költség.
 
 ### XVII. Fejezet — Az Alap jogállása és szervezete
 
@@ -3297,7 +3302,7 @@ a kért információt megadni.
 - a) az MNB-től, illetve
 - b) hitelintézettől.
 
-(3) A Kormány az Alap által a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett kölcsönre az Áht. 92. §-ára tekintettel készfizető kezességet vállal.
+(3) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – hiteleiből, kölcsöneiből erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat nem kell fizetnie.
 
 (4)
 
@@ -3359,11 +3364,11 @@ az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetés�
 - a) a hitelintézet meghozta az előírásokhoz való alkalmazkodást vagy szabálytalanság megszüntetését célzó intézkedéseket;
 - b)
 
-125. § A hitelintézetet az Alap azonnali hatállyal kizárja, ha a Felügyelet határozata alapján a hitelintézet nem gyűjthet betétet.
+125. § A hitelintézet Alapban fennálló tagsága megszűnik, ha a Felügyelet határozata alapján a hitelintézet nem gyűjthet betétet.
 
 126. § (1) A hitelintézet kizárása vagy a tagsági jogviszony megszüntetése – a (4) bekezdésben foglalt eltéréssel – nem érinti a tagság fennállása alatt a hitelintézetnél elhelyezett betétekre vonatkozó biztosítást.
 
-(2) Ha a hitelintézetet az Alapból kizárták, vagy tagsági jogviszonyát megszüntették, a korábban teljesített befizetését nem igényelheti vissza. A kizárás vagy a tagsági viszony megszüntetése nem érinti a kizárt hitelintézetnek azt a kötelezettségét, hogy a biztosítás alá eső betétek után a 121. §-nak megfelelően éves díjat fizessen.
+(2) Ha a hitelintézetet az Alapból kizárták, vagy tagsági jogviszonya megszűnt, illetve azt megszüntették, a korábban teljesített befizetését nem igényelheti vissza. A kizárás vagy a tagsági viszony megszűnése, illetve megszüntetése nem érinti a kizárt hitelintézetnek azt a kötelezettségét, hogy a biztosítás alá eső betétek után a 121. §-nak megfelelően éves díjat fizessen.
 
 (3) A hitelintézet a jegyzett tőkéjének felemelése, illetve csökkentése esetén nem köteles az emelés összege után csatlakozási díjat fizetni, illetve a már megfizetett csatlakozási díj arányos részét nem igényelheti vissza.
 
@@ -3598,7 +3603,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (4) Az (1)–(3) bekezdés szerinti rendelkezések nem alkalmazandók
 
-- a) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény alapján kijelölt rendszerre,
+- a) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alapján kijelölt rendszerre,
 - b) a kizárólag ugyanazon csoporthoz tartozó pénzforgalmi szolgáltatók által működtetett fizetési rendszerre, ha a pénzforgalmi szolgáltatókat olyan tőkeszerkezet köti össze, ahol az egyik pénzforgalmi szolgáltató a csoporthoz tartozó többi pénzforgalmi szolgáltató felett ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
 - c) az olyan fizetési rendszerre, amelyet működtető pénzforgalmi szolgáltató akár önállóan akár csoportként
   - ca) egyidejűleg pénzforgalmi szolgáltatója a fizető félnek és a kedvezményezettnek és kizárólagosan felel a fizetési rendszer működtetéséért, valamint
@@ -3818,7 +3823,7 @@ nem köteles nyilvánosságra hozni.
 - b) a külföldi hitelintézet vagy annak bármely államban működő fióktelepe fizetésképtelenné vált,
 - c) a külföldi hitelintézet főirodája, illetőleg székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-143. § A pénzügyi intézmény; a pénzforgalmi intézmény; az elektronikuspénz-kibocsátó intézmény és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban előírt tartalommal, módon és formában, rendszeres időközönként – köteles az MNB-nek és a Felügyeletnek adatszolgáltatást teljesíteni.
+143. § A pénzügyi intézmény és magyarországi fióktelepe, a pénzforgalmi intézmény és magyarországi fióktelepe, az elektronikuspénz-kibocsátó intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – az MNB-nek és a Felügyeletnek adatszolgáltatást teljesít.
 
 144. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
 
@@ -4098,7 +4103,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (2) Az (1) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
 
-166. § A Felügyelet a 153. § (2) bekezdés c) pont 6. alpont, a 176/B. § (5) bekezdés és a 181. § (2) bekezdés szerinti intézkedés mellett az erről való értesítés kézhezvételét követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerben tagsággal rendelkező intézmény javára érkező fizetési megbízásoknak a fizetési rendszer általi elszámolását, kiegyenlítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét és a fizetési és értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény szerinti kijelölt rendszer esetén a kijelölő hatóságot.
+166. § Ha a Felügyelet a 153. § (2) bekezdés c) pont 6. alpontja, a 176/B. § (5) bekezdése és a 181. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való értesítés kézhezvételét követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerben tagsággal rendelkező intézmény javára érkező fizetési megbízásoknak a fizetési rendszer általi elszámolását, kiegyenlítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét, ideértve a Tvt. 9. § (4) bekezdésével kijelölt rendszer vonatkozásában az MNB-t is – és a Tvt. szerinti kijelölt rendszer esetén a kijelölő hatóságot.
 
 167. §
 
@@ -4234,9 +4239,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (3)
 
-185. § (1)
-
-(2)
+185. § Hitelintézet tevékenységi engedélyének 30. § (1) bekezdés b) pontja alapján történt visszavonását követően engedményezett, a hitelintézettel szemben fennálló követelések beszámításának a végelszámolási eljárás során nincs helye.
 
 ### Hitelintézet végelszámolásának vagy felszámolásának különleges szabályai
 
@@ -4332,7 +4335,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy nevét és az (1) bekezdés h) pont ha) alpontja szerinti adatát a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
 
-189. § A Felügyelet saját feladatai ellátására szolgáló banktitkot, üzleti titkot és egyéb adatot vagy információt kizárólag az 51. § (2)–(3) bekezdésében megjelölt szerveknek – a törvényben meghatározott feladataik ellátásához szükséges mértékben –, valamint nemzetközi együttműködési megállapodásban rögzítettek szerint szolgáltathat. A külföldi felügyeleti hatóságtól származó bank- vagy üzleti titoknak minősülő adatot és információt a Felügyelet nem közölhet harmadik féllel, azt csak a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban foglaltak szerint kezelheti és kizárólag az érintett külföldi felügyelet hozzájárulásával továbbíthatja
+189. § A Felügyelet saját feladatai ellátására szolgáló banktitkot, üzleti titkot és egyéb adatot vagy információt kizárólag az 51. § (2) és (3) bekezdésében megjelölt szerveknek – törvényben meghatározott feladataik ellátásához szükséges mértékben –, valamint nemzetközi együttműködési megállapodásban foglaltak szerint szolgáltathat. A külföldi felügyeleti hatóságtól származó banktitoknak vagy üzleti titoknak minősülő adatot és információt a Felügyelet nem közölheti harmadik féllel. Az ilyen adatot kizárólag a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban foglaltak szerint kezelheti és az érintett külföldi felügyelet hozzájárulásával továbbíthatja. Nem jelenti a banktitok és üzleti titok sérelmét a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
 
 190. § (1) A Felügyelet az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
 
@@ -4574,7 +4577,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (6) Amennyiben a fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
 
-(7) Az (1) bekezdésben meghatározott szerződés esetében, ha a (4) bekezdésben meghatározott feltételek változása a kamat csökkentését teszi indokolttá, azt is érvényesíteni kell.
+(7)
 
 210/B. § (1) Fogyasztóval, ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett kötött kölcsönszerződésre (a továbbiakban: jelzáloghitel-szerződés) a 210. § (3)–(5), (6)–(7) és (9) bekezdésétől eltérően a (2)–(10) bekezdésben foglaltakat kell alkalmazni.
 
@@ -4610,7 +4613,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (2) Ha az Alapban tagsággal rendelkező hitelintézet a 14. § (1) bekezdésének h) pontja alapján más jogi személy útján végez betétügyletet, a jogi személynek közölnie kell azt is, hogy mely hitelintézet megbízásából történik a betét elfogadása.
 
-(3) Az értékpapírszerű formában kiállított betétokiraton feltűnően fel kell tüntetni, hogy az alapjául szolgáló szerződés takarékbetét szerződés.
+(3) Az értékpapírszerű formában kiállított betétokiraton feltűnően fel kell tüntetni, hogy az alapjául szolgáló szerződés betétszerződés vagy takarékbetét szerződés.
 
 212–213. §
 
@@ -5005,6 +5008,8 @@ esetében kell alkalmazni.
 
 (5) A szerződés (2) bekezdésben meghatározott módosításának, újrakötésének vagy a kiváltásának és az ehhez kapcsolódó egyéb pénzügyi szolgáltatásoknak a közvetítésére, valamint egyéb közreműködői feladatok ellátására, továbbá egyéb együttműködés részeként történő részvételre közvetítő nem jogosult akkor sem, ha a váltás más szolgáltatások értékesítése részeként vagy ehhez kapcsolódóan történik.
 
+(6) Ha a fogyasztó nem él a (2)–(5) bekezdésben foglalt lehetőséggel, a szerződés módosítására a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseket kell alkalmazni.
+
 234/I. § (1) E törvénynek az egyes pénz- és tőkepiaci tárgyú törvények módosításáról szóló 2002. évi LXIV. törvénnyel megállapított 54. §-át a Diákhitel Központ kölcsönszerződései tekintetében a 2003. január 1-jét követően megkötött kölcsönszerződésekre kell alkalmazni.
 
 (2) E törvénynek az egyes pénz- és tőkepiaci tárgyú törvények módosításáról szóló 2002. évi LXIV. törvénnyel megállapított 100. § (1) bekezdését nem kell alkalmazni az árutőzsdei szolgáltató és a Pénztárak Garancia Alapja 2003. január 1-jét megelőzően elhelyezett betétjére.
@@ -5068,7 +5073,7 @@ vonatkozó részletes szabályokat.
 - k)
 - l) a deviza nyitott pozícióra,
 - m) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre,
-- n) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére,
+- n)
 - o)
 - p) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire, továbbá
 - q)

@@ -1443,7 +1443,7 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítási piac bizton
 
 - a) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 - b)–d)
-- e) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes rendelkezéseket
+- e)
 
 rendeletben szabályozza.
 

@@ -45,8 +45,8 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 - 21. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
 - 22. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom;
 - 23. érintett személy:
-  - a) a befektetési alapkezelő vezető állású személye, tulajdonosa, alkalmazottja,
-  - b) bármely olyan természetes személy, aki tevékenységét a befektetési alapkezelő érdekeinek megfelelően végzi, és aki részt vesz a befektetési alapkezelő által végzett befektetési alapkezelésben, vagy
+  - a) a befektetési alapkezelő ügyvezetője, tulajdonosa,
+  - b) a befektetési alapkezelő olyan alkalmazottja, illetve bármely olyan természetes személy, aki tevékenységét a befektetési alapkezelő érdekeinek megfelelően végzi, és aki részt vesz a befektetési alapkezelő által végzett befektetési alapkezelésben, vagy
   - c) bármely olyan természetes személy, aki harmadik fél részére szóló, befektetési alapkezelő által nyújtandó befektetési alapkezelési szolgáltatásra vonatkozó kiszervezésre irányuló szerződés alapján közvetlenül részt vesz a befektetési alapkezelés szolgáltatásának nyújtásában;
 - 24. értékpapír: a Tpt.-ben meghatározott fogalom;
 - 25. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után fizet;
@@ -102,7 +102,7 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 - 66. tőkenövekmény: az egy jegyre jutó nettó eszközérték és a befektetési jegy névértéke közötti különbség, amennyiben az pozitív;
 - 67. ügyfél: aki e törvény alapján a befektetési alapkezelőtől szolgáltatást vesz igénybe, ide nem értve a befektetőt;
 - 68. ügyvezető: a befektetési alapkezelő vezetésére kinevezett első számú vezető, valamint e vezető valamennyi helyettese;
-- 69. vezető állású személy: az ügyvezető, az igazgatóság tagja és a felügyelőbizottság elnöke, tagja, az igazgatótanács tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
+- 69. vezető állású személy: az ügyvezető, az igazgatóság elnöke, tagja és a felügyelőbizottság elnöke, tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
 
 ## MÁSODIK RÉSZ — ALAPKEZELŐRE, LETÉTKEZELŐRE VONATKOZÓ SZABÁLYOK
 
@@ -135,7 +135,7 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 - c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése és az ezzel kapcsolatos adminisztratív szolgáltatások, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja,
 - d) értékpapír-kölcsönzés.
 
-(4) A befektetési alapkezelő a (2) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. A befektetési alapkezelő a (3) bekezdésben meghatározott tevékenységek végzésére önállóan, a (2) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. A (2) bekezdés c) pontjában foglalt tevékenység végzése esetén a befektetési alapkezelő akkor vehet fel közvetlenül a befektetőktől kollektív befektetési értékpapírokra szóló vételi és eladási megbízásokat, ha rendelkezik a (3) bekezdés c) pontjában foglalt tevékenységre szóló engedéllyel.
+(4) A befektetési alapkezelő a (2) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. A befektetési alapkezelő a (3) bekezdésben meghatározott tevékenységek végzésére önállóan, a (2) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat.
 
 (5) A befektetési alapkezelő a (2) bekezdésben meghatározott kollektív portfóliókezelési tevékenységet – kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 
@@ -195,9 +195,9 @@ alá.
 
 (8) A (2) és (5)–(7) bekezdés esetében
 
-- a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál befektetésekkel, illetve hitelintézetnél letétkezeléssel foglalkozó területen,
+- a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál
 - b) az MNB-nél, a Felügyeletnél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében, ingatlanforgalmazónál, valamint
+- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
 - d) az a)–c) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
 
 (9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni: Btk. XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények.
@@ -229,11 +229,13 @@ alá.
 
 #### 5. Összeférhetetlenség
 
-11. § (1) A befektetési alapkezelő vezető állású személye, illetve a befektetési döntéshozatalban, végrehajtásban résztvevő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye nem lehet közvetlenül
+11. § (1) A befektetési alapkezelő vezető állású személye, illetve a befektetési döntéshozatalban, végrehajtásban résztvevő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye nem lehet
 
 - a) a befektetési alapkezelő által megbízott letétkezelőnek,
 - b) a befektetési alapkezelő által hozott befektetési döntések végrehajtásában közreműködő befektetési vállalkozásnak, hitelintézetnek, ingatlanértékelőnek, ingatlanforgalmazónak, valamint
-- c) a befektetési alapkezelő ügyfelének a befektetési alapkezeléshez kapcsolódó területen tevékenykedő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye.
+- c) a befektetési alapkezelő ügyfelének
+
+a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenykedő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye.
 
 (2) Az a személy, aki esetében az (1) bekezdésben meghatározott összeférhetetlenség merül fel, köteles azt haladéktalanul a Felügyeletnek bejelenteni és az összeférhetetlenséget haladéktalanul megszüntetni.
 
@@ -589,7 +591,7 @@ alá.
 
 ### V. Fejezet — LETÉTKEZELŐKRE VONATKOZÓ SZABÁLYOK
 
-43. § (1) A befektetési alapkezelő az általa kezelt befektetési alap letétkezelésével a 3. § 46. pont a) alpontja szerinti, a 3. § 1. pont b) alpont szerinti ÁÉKBV letétkezelésével az adott ÁÉKBV székhely országában székhellyel rendelkező 3. § 46. pont b) alpont szerinti letétkezelőt köteles megbízni. A letétkezelési szerződés hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
+43. § (1) A befektetési alapkezelő az általa kezelt befektetési alap letétkezelésével a 3. § 46. pont a) alpontja szerinti, a 3. § 1. pont b) alpont szerinti ÁÉKBV letétkezelésével az adott ÁÉKBV székhely országában székhellyel rendelkező 3. § 46. pont b) alpont szerinti letétkezelőt köteles megbízni. A letétkezelési szerződés és annak módosítása hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
 
 (2) Amennyiben egy magyarországi székhelyű ÁÉKBV-t kezelő befektetési alapkezelő székhelye más EGT-államban van, vagy más EGT-államban székhellyel rendelkező ÁÉKBV-t magyarországi székhelyű ÁÉKBV-alapkezelő kezel, a letétkezelő írásbeli megállapodást köt az ÁÉKBV-alapkezelővel a funkcióinak ellátásához szükséges információáramlás szabályozásáról. A letétkezelő és az ÁÉKBV-alapkezelő közötti megállapodás részletszabályait a 9. melléklet tartalmazza.
 
@@ -671,7 +673,7 @@ alá.
 - c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
 - d) ingatlanalap esetében a könyvvizsgáló megbízására irányuló szerződést.
 
-(3) Ingatlanalap esetében az (1)–(2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
+(3) Ingatlanalap esetében az (1)–(2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
 
 (4) Amennyiben új befektetési alap létrehozatalára a befektetési alapok egyesülése, szétválása keretén belül kerül sor, a Felügyelet az új alap nyilvántartásba vételéről az egyesülési, szétválási eljárás keretén belül határoz azzal, hogy az új befektetési alap nyilvántartásba vételének napja megegyezik az egyesülés, szétválás napjával.
 
@@ -706,7 +708,7 @@ alá.
 
 #### 18. A kezelési szabályzat
 
-52. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. A kezelési szabályzat tartalmának kötelező elemeit a 3. melléklet határozza meg.
+52. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetébe, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetébe foglalt minta szerinti formában és tartalommal kell elkészíteni.
 
 (2) A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket, különös tekintettel a befektetési jegyhez fűződő kockázatokra, valamint arról, hogy a befektetés a kockázatviselő képességének megfelel.
 
@@ -910,7 +912,7 @@ alá.
 - a) magyarországi székhelyű beolvadó ÁÉKBV esetén a Felügyelet,
 - b) magyarországi székhelyű átvevő ÁÉKBV esetén a beolvadó ÁÉKBV székhelye szerinti EGT-állam hatáskörrel rendelkező hatósága engedélyezte a tervezett egyesülést.
 
-(4) A tájékoztatást a 73. § (1) bekezdésében említett pótdíjfizetés nélküli visszavásárlási, visszaváltási vagy átváltási kérelmek benyújtására vonatkozó határidő lejárati napja előtt legalább 30 nappal megelőzően meg kell adni.
+(4) A tájékoztatást a 73. § (1) bekezdésében említett térítésmentes visszavásárlási, visszaváltási vagy átváltási kérelmek benyújtására vonatkozó határidő lejárati napja előtt legalább 30 nappal megelőzően meg kell adni.
 
 #### 24. A befektetők tájékoztatásának kötelező tartalmi elemei
 
@@ -954,7 +956,7 @@ alá.
 
 #### 26. A befektetők egyéb jogai
 
-73. § (1) Mind a beolvadó, mind az átvevő ÁÉKBV befektetője kérheti kollektív befektetési értékpapírjainak – az ÁÉKBV által a tőkekivonás fedezeteként visszatartott költségeken kívüli – térítésmentes visszaváltását, vagy ha lehetséges, egy másik, hasonló befektetési politikát folytató, és ugyanazon befektetési alapkezelő, vagy a befektetési alapkezelővel közös vezetés vagy ellenőrzés által, vagy befolyásoló részesedésen keresztül kapcsolatban álló bármely más társaság által kezelt ÁÉKBV kollektív befektetési értékpapírjaira való átváltását. Ez a jog a beolvadó ÁÉKBV és az átvevő ÁÉKBV befektetőit a 68. és 69. §-ban foglaltak szerinti a tervezett egyesülésről szóló tájékoztatástól a 75. § szerinti átváltási arány kiszámításának időpontja előtt 5 munkanapig illeti meg.
+73. § (1) Mind a beolvadó, mind az átvevő ÁÉKBV befektetője kérheti kollektív befektetési értékpapírjainak – az ÁÉKBV által a tőkekivonás fedezeteként visszatartott költségeken kívüli – térítésmentes visszaváltását, vagy ha lehetséges, egy másik, hasonló befektetési politikát folytató, és ugyanazon befektetési alapkezelő, vagy a befektetési alapkezelővel közös vezetés vagy ellenőrzés által, vagy befolyásoló részesedésen keresztül kapcsolatban álló bármely más társaság által kezelt ÁÉKBV kollektív befektetési értékpapírjaira való átváltását. Ez a jog a beolvadó ÁÉKBV és az átvevő ÁÉKBV befektetőit a 68. és 69. §-ban foglaltak szerinti a tervezett egyesülésről szóló tájékoztatástól a 75. § szerinti átváltási arány kiszámításának időpontja előtti 5. munkanapig illeti meg.
 
 (2) A befektetők (1) bekezdésben foglalt jogának biztosítása mellett a Felügyelet engedélyezheti a beolvadó, illetve az átvevő ÁÉKBV alapkezelője számára, hogy az egyesülés lebonyolítási idejére felfüggesszék a kollektív befektetési értékpapírok forgalmazását, amennyiben ezt a befektetők érdekeinek védelme indokolja.
 
@@ -1053,11 +1055,11 @@ alá.
 
 82. § (1) A befektetési jegy forgalomba hozatalának általános feltétele, hogy a befektetési alapkezelő a befektetési alap kezelési szabályzatát elfogadja.
 
-(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. mellékletben meghatározott tartalommal és sorrendben összeállított kezelési szabályzatot, az 5. mellékletben meghatározott tartalommal és sorrendben összeállított tájékoztatót, a 105. § szerinti kiemelt befektetői információt, a 83. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 84. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
+(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. melléklet I. Fejezet szerinti kezelési szabályzatot, az 5. mellékletbe foglalt minta szerinti formában és tartalommal összeállított tájékoztatót, a 105. § szerinti kiemelt befektetői információt, a 83. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 84. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
 
 (3) A zárt végű befektetési jegyek nyilvános forgalomba hozatalára a Tpt. Második Részének rendelkezései irányadók.
 
-(4) befektetési jegyek zárt körben történő forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a jegyzést legalább 7 nappal megelőzően a 3. mellékletnek megfelelő tartalommal kezelési szabályzatot tegyen hozzáférhetővé lehetséges befektetői számára. A hozzáférhetővé tétel zártkörű befektetési alapok esetén a nyilvánosság kizárása mellett a befektetők részére való közlést jelenti.
+(4) A befektetési jegyek zárt körben történő forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a jegyzést legalább 7 nappal megelőzően a 3. melléklet II. Fejezet szerinti kezelési szabályzatot tegyen hozzáférhetővé lehetséges befektetői számára. A hozzáférhetővé tétel zártkörű befektetési alapok esetén a nyilvánosság kizárása mellett a befektetők részére való közlést jelenti.
 
 (5) Tilos a befektetési jegyek forgalomba hozatalához kapcsolódóan a befektetési jegyeket lejegyző befektetők közötti sorsolás, így a (2) és (4) bekezdések szerinti dokumentumokban és a befektetési alap kereskedelmi kommunikációjában erre vonatkozó információ közzététele.
 
@@ -1076,13 +1078,13 @@ alá.
 
 (3) Befektetési jegyek zárt végű befektetési alapra történő forgalomba hozatala kibocsátási program keretében is történhet. A kibocsátási program keretében egymást követően, akár több alkalommal, értékpapír forgalomba hozatallal kerülnek a befektetési jegyek kibocsátásra úgy, hogy a kibocsátási program alapfeltételeit a befektetési alapkezelő a kibocsátási program indításakor a program feltételeit tartalmazó dokumentumban rögzíti, és az egyes részkibocsátások során a kibocsátási program keretében végleges feltételekben határozza meg az adott forgalomba hozatal egyedi adatait. Nyilvános alapok esetében a kibocsátási program keretében történő egyes kibocsátások végleges feltételeihez a Felügyelet engedélye nem szükséges, a befektetési alapkezelő köteles azonban a végleges feltételeket az adott forgalomba hozatalt megelőzően legalább 10 nappal a Felügyelet részére tájékoztatásul megküldeni.
 
-85. § (1) A forgalmazó köteles – a kezelési szabályzatban meghatározott határidő figyelembevételével – tájékoztatni a befektetési alapkezelőt és a letétkezelőt az általa értékesített befektetési jegyek darabszámáról, valamint – amennyiben ezt a tájékoztató vagy a kezelési szabályzat lehetővé teszi és a forgalmazó és a befektetési alapkezelő erről megállapodott –, a befektetési alapkezelőt a befektetők és képviselőik forgalmazó által felvett adatairól. Az ilyen adattovábbítás nem minősül a Tpt. szerinti értékpapírtitok vagy az üzleti titok megsértésének. A befektetési alapkezelő a jelen bekezdés alapján a részére átadásra kerülő adatokat kizárólag az értékpapírtitokra vonatkozó rendelkezések keretében, a befektetési alapkezelési tevékenységéhez szükséges célra, különösen a befektetők tájékoztatása, a befektetési alapkezelő vagy a befektetési alapok kereskedelmi kommunikációja céljára használhatja fel.
+85. § (1) A forgalmazó köteles – a kezelési szabályzatban meghatározott határidő figyelembevételével – tájékoztatni a befektetési alapkezelőt és a letétkezelőt a befektetési jegyekre vonatkozó vételi és visszaváltási megbízások összegéről vagy darabszámáról, valamint – amennyiben ezt a tájékoztató vagy a kezelési szabályzat lehetővé teszi és a forgalmazó és a befektetési alapkezelő erről megállapodott –, a befektetési alapkezelőt a befektetők és képviselőik forgalmazó által felvett adatairól. Az ilyen adattovábbítás nem minősül a Tpt. szerinti értékpapírtitok vagy az üzleti titok megsértésének. A befektetési alapkezelő a jelen bekezdés alapján a részére átadásra kerülő adatokat kizárólag az értékpapírtitokra vonatkozó rendelkezések keretében, a befektetési alapkezelési tevékenységéhez szükséges célra, különösen a befektetők tájékoztatása, a befektetési alapkezelő vagy a befektetési alapok kereskedelmi kommunikációja céljára használhatja fel.
 
 (2) Ha a befektetési alapkezelő a forgalomba hozandó befektetési jegy mennyiségére felső korlátot állapított meg (forgalomba hozatali maximum), annak elérésekor a jegyzést a forgalmazó lezárja.
 
 86. § (1) A nyílt végű befektetési alap által forgalomba hozott befektetési jegyek befektetők részére történő folyamatos forgalmazására a befektetési alapkezelő, illetve az általa megbízott egy vagy több forgalmazó jogosult. A folyamatos forgalmazás során leadott vételi és visszaváltási megbízások teljesítéséért a befektetők felé a forgalmazást végző felel.
 
-(2) A 85. § (1) bekezdés rendelkezései értelemszerűen irányadók a befektetési jegyek folyamatos forgalmazására is azzal, hogy a tájékoztatás vonatkozik a befektetők által visszaváltott befektetési jegyek darabszámára is.
+(2) A 85. § (1) bekezdés rendelkezései értelemszerűen irányadók a befektetési jegyek folyamatos forgalmazására is.
 
 87. § (1) Nyilvános nyílt végű befektetési alapok esetében – a forgalmazás felfüggesztésének és szünetelésének eseteit, továbbá az érintett forgalmazó vonatkozásában a forgalmazó ügyfélfogadásának szünetelését kivéve – a befektetési alap futamideje alatt a forgalmazó, illetve – amennyiben a befektetési alapkezelő végez a befektetők felé közvetlen forgalmazási tevékenységet – a befektetési alapkezelő minden munkanapon köteles elfogadni a befektetési jegyre vonatkozó vételi és visszaváltási megbízásokat.
 
@@ -1106,7 +1108,7 @@ alá.
 
 #### 28. Közvetítő igénybevétele a folyamatos forgalmazás során
 
-91. § A befektetési jegyek forgalmazója a befektetési jegyek értékesítésére, illetve visszaváltására közvetítőt vehet igénybe. A közvetítőre alkalmazni kell a Bszt. 111–116. §-aiban foglaltakat. A forgalmazó az általa igénybe vett közvetítő tevékenységéért a befektetők felé, mint a sajátjáért felel.
+91. § A befektetési jegyek forgalmazója a befektetési jegyek értékesítésére, illetve visszaváltására közvetítőt vehet igénybe. A közvetítőre alkalmazni kell a Bszt. 111–116. §-ában, a 123. § (1) bekezdés e) pontjában, a 123. § (4) bekezdés a) pontjában, valamint a 159. § (2)–(4) bekezdéseiben foglaltakat. A forgalmazó az általa igénybe vett közvetítő tevékenységéért a befektetők felé mint a sajátjáért felel.
 
 #### 29. A befektetési jegyek folyamatos forgalmazásának szünetelésére és felfüggesztésére vonatkozó általános szabályok
 
@@ -1133,9 +1135,9 @@ alá.
 
 95. § (1) A felfüggesztés időtartama ingatlanalap esetében legfeljebb 1 év, minden egyéb befektetési alap esetében legfeljebb 30 nap, azzal, hogy az eszközeit legalább 20 százalékban más befektetési alapba fektető befektetési alap esetében a felfüggesztés időtartama a mögöttes befektetési alap felfüggesztési szabályaihoz igazodik. A Felügyelet indokolt esetben a befektetési alapkezelő kérelmére a felfüggesztést további 1 évvel meghosszabbíthatja.
 
-(2) A befektetési jegyek forgalmazását a forgalmazást kiváltó ok megszűnését követően, vagy amennyiben azt a Felügyelet határozatban elrendeli, haladéktalanul folytatni kell.
+(2) A befektetési jegyek forgalmazását a forgalmazás felfüggesztését kiváltó ok megszűnését követően, vagy amennyiben azt a Felügyelet határozatban elrendeli, haladéktalanul folytatni kell.
 
-(3) A befektetési alap nettó eszközértékét a felfüggesztés ideje alatt is meg kell állapítani és közzé kell tenni.
+(3) A befektetési alap nettó eszközértékét – a 93. § (1) bekezdés a) pontjában foglalt eset kivételével – a felfüggesztés ideje alatt is meg kell állapítani és közzé kell tenni.
 
 ### XV. Fejezet — ÁÉKBV ÁLTAL FORGALOMBA HOZOTT KOLLEKTÍV BEFEKTETÉSI ÉRTÉKPAPÍROK HATÁRON ÁTNYÚLÓ FORGALOMBA HOZATALA ÉS FOLYAMATOS FORGALMAZÁSA
 
@@ -1156,7 +1158,7 @@ alá.
 
 (4) ÁÉKBV a (1) bekezdés szerint a bejelentéshez mellékelt dokumentumokat köteles naprakészen tartani és azok módosulásáról, illetve elektronikus elérési módjáról, a (3) bekezdésben meghatározott nyelven haladéktalanul tájékoztatja a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát. A forgalmazással kapcsolatos rendelkezések vagy a forgalmazni kívánt részvényosztályok változása esetén az ÁÉKBV a változások hatálybalépése előtt 10 nappal köteles értesíteni a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát.
 
-(5) A Felügyelet az 584/2010/EU bizottsági rendelet 3. cikkével összhangban kijelöl egy e-mail címet az (1)–(4) bekezdésekben meghatározott dokumentumok bejelentésének céljára.
+(5)
 
 #### 31. Más EGT-államban engedélyezett ÁÉKBV kollektív befektetési értékpapírjainak belföldi forgalomba hozatala
 
@@ -1181,7 +1183,7 @@ alá.
 - g) a befektetők részére történő kifizetésekkel, a kollektív befektetési értékpapír visszaváltásával, és az ÁÉKBV által kötelezően nyújtandó tájékoztatás elérhetőségével kapcsolatos követelmények;
 - h) az ÁÉKBV által folytatott forgalmazás megszüntetésének feltételei;
 - i) az 584/2010/EU bizottsági rendelet 1. cikkében említett bejelentő levélben feltüntetendő információk részletes tartalma;
-- j) a 97. § (5) bekezdésében megjelölt e-mail cím.
+- j) a (4) bekezdésben meghatározott bejelentési kötelezettség teljesítésére szolgáló e-mail cím.
 
 ### XVI. Fejezet — A NETTÓ ESZKÖZÉRTÉK, A BEFEKTETŐKNEK TÖRTÉNŐ KIFIZETÉSEK ÁLTALÁNOS SZABÁLYAI, AZ ILLIKVID ESZKÖZÖK ELKÜLÖNÍTÉSE
 
@@ -1239,7 +1241,7 @@ alá.
 
 (7) Az eszközök elkülönítéséről, az elkülönítés részben vagy egészben történő megszüntetéséről, illetve az ezzel kapcsolatos döntés indokáról a befektetési alapkezelő a rendkívüli tájékoztatás szabályai szerint tájékoztatja a befektetőket és a Felügyeletet. A befektetési alap éves, féléves jelentésében részletes tájékoztatást kell adni az elkülönített eszközök összetételéről.
 
-(8) A befektetési alap befektetési jegyeinek forgalmazását az elkülönítésről szóló döntés közzétételével egy időben, az elkülönítés végrehajtásáig fel kell függeszteni.
+(8) A befektetési alapkezelő a befektetési alap befektetési jegyeinek forgalmazását az elkülönítésről szóló döntés közzétételével egy időben, az elkülönítés végrehajtásáig felfüggeszti.
 
 ### XVII. Fejezet — TÁJÉKOZTATÁSI KÖTELEZETTSÉG
 
@@ -1331,7 +1333,7 @@ alá.
 
 (2) Felügyelet a kereskedelmi kommunikációt betilthatja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
 
-113. § Amennyiben a befektetési alapkezelő több befektetési alapot kezel, a befektetők tájékoztatására szolgáló, e fejezet szerinti dokumentumok egységes szerkezetben is elkészíthetők.
+113. § A befektetési alapkezelő által kezelt nyilvános befektetési alapok kezelési szabályzatai és tájékoztatói összevont kezelési szabályzatként illetve összevont tájékoztatóként is elkészíthetőek a 3. melléklet I. Fejezetében és az 5. mellékletben foglaltak megfelelő alkalmazásával, akként, hogy ilyen esetben a kezelési szabályzat, illetve a tájékoztató azon tartalmi elemeit, amelyek több vagy valamennyi befektetési alap esetében azonosak, elegendő egy ízben a dokumentum részévé tenni, azokat – az esettől függően – több vagy valamennyi befektetési alapra vonatkoztatva, míg a kezelési szabályzat, illetve a tájékoztató egyes alapokra vonatkozó részeiben csak az adott alapra speciálisan jellemző elemeket kell feltüntetni.
 
 #### 40. A nyilvános befektetési alapokra vonatkozó rendkívüli tájékoztatási kötelezettség
 
@@ -1377,7 +1379,7 @@ alá.
 116. § (1) A befektetési alapkezelő a saját magára és a befektetési alapra vonatkozó, az e törvény szerinti közzétételi kötelezettségeit, amennyiben az adott törvényi előírás másképpen nem rendelkezik,
 
 - a) a befektetési alapkezelő és az érintett befektetési alap honlapján, és
-- b) ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételek céljára, a hivatalosan kijelölt információtárolási rendszeren való közzététellel teljesíti.
+- b) ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételek céljára, a hivatalosan kijelölt információtárolási rendszeren való közzététellel teljesíti, a nettó eszközérték adatok kivételével.
 
 (2) A letétkezelő és a forgalmazó az e törvény szerinti közzétételi kötelezettségeit az információnak a saját honlapján, és ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételek céljára, a hivatalosan kijelölt információtárolási rendszeren való megjelentetésével teljesíti.
 
@@ -1604,7 +1606,7 @@ kapja meg; valamint
 
 (4) A Felügyelet 20 munkanapon belül dönt arról, hogy jóváhagyja-e a gyűjtő-ÁÉKBV részére a cél-ÁÉKBV-be történő befektetést.
 
-(5) Engedélyezésre irányuló kérelem esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
+(5) Engedélyezésre irányuló kérelem, illetve megszűnéssel kapcsolatos hatósági eljárás esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
 
 (6) A kérelmező a kérelmét a befektetési alapok létrehozásával, működésével, megszűnésével kapcsolatos nyilvántartásba vételi, engedélyezési, illetve törlési eljárások, valamint az ingatlanértékelő megbízásának a befektetési alapok befektetési és hitelfelvételi szabályok szerinti engedélyezésére vonatkozó eljárás során köteles az e célra rendszeresített elektronikus űrlapon benyújtani.
 
@@ -1681,7 +1683,7 @@ kapja meg; valamint
 - i) a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámoló, a beszámoló elfogadását követő 15 napon belül;
 - j) a cégjegyzékben nyilvántartott adatainak változását, a cégbírósági határozat jogerőre emelkedését követő 5 napon belül;
 - k) ha vele szemben törvényességi felügyeleti eljárás indult, a tudomására jutástól számított 5 napon belül, és
-- l) az általa kezelt befektetési alap 132. § (1) bekezdésének b) pontja szerinti adataiban bekövetkezett változást a változás hatálybalépését követő 2 munkanapon belül.
+- l) az általa kezelt befektetési alap 132. § (1) bekezdés b) pontja szerinti adataiban bekövetkezett változást a változás hatálybalépését követő 5 munkanapon belül, a változás hatálybalépése napjának megjelölésével.
 
 (2) A befektetési alapkezelő köteles a Felügyeletnek való megküldéssel egyidejűleg honlapján közzétenni az (1) bekezdés a), c), e), f), g), i), j) és k) pontjában foglalt változásokat.
 
@@ -1812,11 +1814,11 @@ kapja meg; valamint
 
 146. § Ha a Felügyelet a befektetési alap könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
 
-147. § (1) A befektetési alapkezelő köteles az általa kezelt befektetési alap könyvvizsgálójával – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+147. § (1) A befektetési alapkezelő köteles az általa kezelt befektetési alap könyvvizsgálójával – az éves jelentés könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves jelentéssel kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
-(2) A Felügyelet jogosult a könyvvizsgáló 145. § (2) bekezdés b) pont szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a befektetési alap befektetési alapkezelőjénél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, és gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
+(2) A Felügyelet jogosult a könyvvizsgáló 145. § (2) bekezdés b) pont szerinti tájékoztatása alapján – az éves jelentés jóváhagyása előtt – a befektetési alap befektetési alapkezelőjénél kezdeményezni, hogy a helytelen adatokat tartalmazó jelentést helyesbítsék, és gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
 
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a befektetési alapot kezelő befektetési alapkezelőt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a befektetési alapkezelő köteles a Felügyeletnek bemutatni.
+(3) Ha az éves jelentés jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves jelentés lényeges hibát tartalmaz, a Felügyelet kötelezheti a befektetési alapot kezelő befektetési alapkezelőt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a befektetési alapkezelő köteles a Felügyeletnek bemutatni.
 
 ### XXI. Fejezet — TITOKTARTÁSI KÖTELEZETTSÉG
 
@@ -1984,12 +1986,14 @@ részére,
 (2) A befektetési alapkezelő az általa kezelt, e törvény hatálybalépése napját megelőzően létrejött befektetési alap e törvénynek való megfelelésének biztosítása érdekében
 
 - a) 2012. július 1. napjáig köteles benyújtani a Felügyelethez az ÁÉKBV kezelési szabályzatának, tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását, valamint a 105. § szerinti kiemelt befektetői információt;
-- b) 2012. október 31. napjáig köteles benyújtani a Felügyelethez
+- b) 2012. december 31. napjáig köteles benyújtani a Felügyelethez
   - ba) a befektetési alap kezelési szabályzatának és – nyilvános befektetési alap esetében – tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását;
   - bb) nyilvános, nyíltvégű alap esetében a befektetési alapra vonatkozó, 105. § szerinti kiemelt befektetői információt;
-- c) köteles gondoskodni arról, hogy a befektetési alap a ba) pont szerint módosított kezelési szabályzat hatálybalépése napján, de legkésőbb 2012. december 31. napján befektetései és működése tekintetében is megfeleljen az e törvényben és a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben foglalt rendelkezéseknek.
+- c) köteles gondoskodni arról, hogy a befektetési alap a ba) pont szerint módosított kezelési szabályzat hatályba lépése napján befektetései és működése tekintetében is megfeleljen az e törvényben és a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben foglalt rendelkezéseknek.
 
 (3) A (2) bekezdésben megállapított rendelkezés 2012. június 1-jével alkalmazandó.
+
+(4) A befektetési alapkezelő köteles gondoskodni arról, hogy az általa kezelt befektetési alap kezelési szabályzata és – nyilvános befektetési alap esetében – tájékoztatója az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény hatálybalépését követően elhatározott első módosítása során, de legkésőbb 2013. december 31. napjáig megfeleljen az e törvény 3., illetve 5. mellékletének.
 
 ### Jogharmonizációs záradék
 
@@ -2127,79 +2131,647 @@ Az alapkezelő működési szabályzatának kötelező tartalmi elemei
 
 ### 3. melléklet a 2011. évi CXCIII. törvényhez
 
-A kezelési szabályzat kötelező tartalmi elemei
+I. FEJEZET
 
-1. A befektetési alapra vonatkozó információk
+A NYILVÁNOS BEFEKTETÉSI ALAP KEZELÉSI SZABÁLYZATA
 
-1.1. A befektetési alap neve, típusa
+KEZELÉSI SZABÁLYZAT
 
-1.2. A befektetési alap nyilvántartásba vételének dátuma. Határozott futamidő esetén a futamidő végének feltüntetése.
+I. A befektetési alapra vonatkozó alapinformációk
 
-1.3. Elszámolási és hozamfizetési napok.
+1. A befektetési alap alapadatai
 
-1.4. A befektetési jegyek forgalomba hozatalának és értékesítésének módja, feltételei.
+1.1. A befektetési alap neve
 
-1.5. A befektetési jegyek visszaváltásának módja, feltételei, valamint azok a körülmények, amelyek miatt a visszaváltás felfüggeszthető. A részalapok közötti váltás feltételei, költségei.
+1.2. A befektetési alap rövid neve
 
-1.6. A hozam megállapításának és kifizetésének szabályai, tőke és hozamígéret esetén ennek pontos feltételei
+1.3. A befektetési alap székhelye
 
-1.7. A befektetési jegyek eladási vagy forgalomba hozatali, illetve visszaváltási árának meghatározása, különös tekintettel az alábbiakra:
+1.4. A befektetési alap nyilvántartásba vételének időpontja, nyilvántartási száma
 
-– a fenti árak kiszámításának módszere és gyakorisága,
+1.5. A befektetési alapkezelő neve
 
-– a befektetési jegyek eladásával vagy forgalomba hozatalával, illetve visszaváltásával kapcsolatban felszámított költségek,
+1.6. A letétkezelő neve
 
-– fenti árak közzétételének módja, helye és gyakorisága.
+1.7. A forgalmazó neve
 
-2. A befektetési alap kezelésének alapvető szabályai
+1.8. A befektetési alap működési formája (zártkörű vagy nyilvános)
 
-2.1. A befektetési alap befektetési céljainak leírása, feltüntetve a pénzügyi célokat is (pl.: tőkenövekedés vagy jövedelem), befektetési politikáját (pl.: földrajzi vagy iparági specializáció), a befektetési politika minden esetleges korlátozása, valamint bármely olyan technika, eszköz vagy hitelfelvételi jogosítvány, amely a befektetési alap kezeléséhez felhasználható.
+1.9. A befektetési alap fajtája (nyíltvégű vagy zártvégű)
 
-2.2. A befektetési alap részletes befektetési politikája és céljai, ezen belül különösen:
+1.10. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
 
-a) a befektetési stratégia,
+1.11. Annak feltüntetése, ha a befektetési alap ÁÉKBV-irányelv alapján harmonizált alap
 
-b) a portfólió lehetséges elemei, azok tervezett arányai,
+1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
 
-c) az egyes értékpapírfajták – beleértve az egy devizában denominált értékpapírok körének – maximális, illetve minimális vagy tervezett aránya,
+1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
 
-d) a származtatott termékek, illetve a származtatott ügyletek lehetséges köre, alkalmazásuk célja, feltételei,
+1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet bankgarancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 
-e) ha a tőke-, illetve hozamígéret a befektetési alap befektetési politikájával van alátámasztva, akkor a mögöttes tervezett tranzakciók leírása,
+2. A befektetési alapra vonatkozó egyéb alapinformációk
 
-f) az ingatlanalap portfóliójában lévő ingatlanok megterhelésének lehetősége és szabályai,
+3. A befektetési alapkezelésre, továbbá a befektetési jegyek forgalomba hozatalára és forgalmazására vonatkozó, valamint az alap és a befektető közötti jogviszonyt szabályozó jogszabályok felsorolása
 
-g) hitelfelvételi szabályok.
+II. A befektetési jegyre vonatkozó információk (sorozatonként)
 
-2.3 A befektetési alap tulajdonában lévő pénzügyi eszközök kölcsönzésének, az eszközök terhelhetőségének szabályai.
+4. A befektetési jegy ISIN azonosítója
 
-2.4 A befektetési alap által az alapkezelő társaság, a letétkezelő vagy harmadik felek részére fizetendő díjak, valamint a fentiek részére történő költségtérítés módjának, összegének és kiszámításának leírása.
+5. A befektetési jegy névértéke
 
-2.5 Az összesített és az egy befektetési jegyre jutó nettó eszközérték számítási módja, gyakorisága, közzétételének módja, helye, ideje, ideértve a hibás nettó eszközérték számítás miatt szükséges elszámolási kötelezettség részletes eljárási szabályai.
+6. A befektetési jegy devizaneme
 
-3. Tájékoztatási szabályok
+7. A befektetési jegy előállításának módja
 
-3.1 Befektetők rendszeres és rendkívüli tájékoztatásának szabályai, annak módja, helye, ideje.
+8. A befektetési jegyre vonatkozó tulajdonjog igazolásának és nyilvántartásának módja
 
-3.2 Annak a helynek a megnevezése, ahol a befektetési alap kezelési szabályzata, valamint a rendszeres tájékoztatás célját szolgáló jelentések beszerezhetők.
+9. A befektetőnek a befektetési jegy által biztosított jogai
 
-4. A kezelési szabályzat jóváhagyásáról, módosításáról szóló felügyeleti és alapkezelői határozatok száma, ideje.
+10. Az adott tárgykörre vonatkozó egyéb információk
 
-5. Közreműködő szervezetek
+III. A befektetési alap befektetési politikája és céljai, ezen belül különösen:
 
-5.1 Az alapkezelő neve, székhelye, tevékenységi köre, alapításának időpontja, jegyzett tőkéje, saját tőkéje és alkalmazottainak száma, általa kezelt további befektetési alapok felsorolása;
+11. A befektetési alap befektetési céljainak, specializációjának leírása, feltüntetve a pénzügyi célokat is (pl. tőkenövekedés vagy jövedelem, földrajzi vagy iparági specifikáció)
 
-5.2 A letétkezelő neve, székhelye, tevékenységi köre, alapításának időpontja, jegyzett tőkéje, az utolsó független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje és alkalmazottainak száma;
+12. Befektetési stratégia, a befektetési alap céljai megvalósításának eszközei
 
-5.3 Amennyiben alkalmazandó, a forgalmazók neve, székhelye, tevékenységi köre, alapításának időpontja, jegyzett tőkéje, az utolsó, független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje;
+13. Azon eszközkategóriák megjelölése, amelyekbe a befektetési alap befektethet, külön utalással arra vonatkozóan, hogy a befektetési alap számára engedélyezett-e a származtatott ügyletek alkalmazása
 
-5.4 Amennyiben alkalmazandó, a könyvvizsgáló cég neve a jogi forma megjelölésével, székhelye, kamarai nyilvántartási száma; természetes személy könyvvizsgáló esetén neve, címe, kamarai nyilvántartási száma;
+14. Az egyes portfolióelemek maximális, illetve minimális vagy tervezett aránya
 
-5.5 Amennyiben alkalmazandó, az ingatlanértékelő neve, székhelye, tevékenységi köre, alapításának időpontja, jegyzett tőkéje, saját tőkéje és alkalmazottainak száma;
+15. A befektetési politika minden esetleges korlátozása, valamint bármely olyan technika, eszköz vagy hitelfelvételi jogosítvány, amely a befektetési alap kezeléséhez felhasználható
 
-5.6 Azon szerződéses tanácsadó cégek vagy külső befektetési tanácsadók, amelyek díjazása a befektetési alap eszközeiből történik, nevük, székhelyük, szolgáltatásuk.
+16. A portfólió devizális kitettsége
 
-6. A befektetési alapra vonatkozó, befektetőket is érintő adózási szabályok rövid leírása. Részletes tájékoztatás arra vonatkozóan, hogy a befektetők részére kifizetett jövedelmet és árfolyamnyereséget terheli-e levonás a forrásnál.
+17. Ha a tőke-, illetve hozamígéret a befektetési alap befektetési politikájával van alátámasztva, akkor a mögöttes tervezett tranzakciók leírása
+
+18. Hitelfelvételi szabályok
+
+19. Azon értékpapírokat kibocsátó vagy garantáló államok, önkormányzatok vagy nemzetközi szervezetek, amelyeknek az értékpapírjaiba az alap eszközeinek több mint 35 százalékát fekteti
+
+20. A leképezett index bemutatása és az egyes értékpapírok indexbeli súlyától való eltérésének maximális nagysága
+
+21. Azon befektetési alap befektetési politikája, amelybe a befektetési alapba fektető befektetési alap eszközeinek legalább 20 százalékát meghaladó mértékben kíván befektetni
+
+22. A cél-ÁÉKBV , illetve annak részalapjának megnevezése
+
+23. Az adott tárgykörre vonatkozó egyéb információk
+
+24. Származtatott ügyletekkel kapcsolatos információk
+
+24.1. Származtatott ügyletek alkalmazása esetén arra vonatkozó információ, hogy a származtatott ügyletek alkalmazására fedezeti célból vagy a befektetési célok megvalósítása érdekében van lehetőség
+
+24.2. A származtatott termékek, illetve a származtatott ügyletek lehetséges köre
+
+24.3. Azon jogszabályhely megjelölése, amelynek alapján a befektetési alap eltérési lehetőséggel élt
+
+24.4. A származtatott ügylettel kapcsolatos befektetési korlátok
+
+24.5. Az egyes eszközökben meglévő pozíciók nettósítási szabályai
+
+24.6. Az indexekben, egyéb összetett eszközökben meglévő pozíciók kezelése
+
+24.7. Az értékeléshez felhasználni kívánt árinformációk forrása
+
+24.8. Amennyiben azon származtatott ügylet jellemzői, amelybe a befektetési alap befektet, különböznek a jogszabály által a származtatott ügyletekre vonatkozóan meghatározott általános jellemzőktől, az erre vonatkozó figyelemfelhívás, meghatározva az adott származtatott ügylet jellemzőit és kockázatát
+
+24.9. Az adott tárgykörre vonatkozó egyéb információk
+
+25. Ingatlanalapra vonatkozó speciális rendelkezések
+
+25.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
+
+25.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
+
+25.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+
+25.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
+
+25.5. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma az összes eszközhöz viszonyítottan
+
+25.6. Az építés alatt álló ingatlanok maximum aránya
+
+25.7. Az ingatlanalapra háruló kockázatok
+
+25.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+
+25.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
+
+IV. A kockázatok
+
+26. A kockázati tényezők bemutatása
+
+V. Az eszközök értékelése
+
+27. A nettó eszközérték megállapítása, közzétételének helye és ideje, a hibás nettó eszközérték számítás esetén követendő eljárás
+
+28. A portfólió elemeinek értékelése
+
+29. A származtatott ügyletek értékelése
+
+30. Az adott tárgykörre vonatkozó egyéb információk
+
+VI. A hozammal kapcsolatos információk
+
+31. A hozam megállapításának és kifizetésének feltételei és eljárása
+
+32. Hozamfizetési napok
+
+33. Az adott tárgykörre vonatkozó egyéb információk
+
+VII. A befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéret és teljesítésének biztosítása
+
+34. A tőke megóvására, illetve a hozamra vonatkozó ígéret
+
+34.1. A tőke megóvására, illetve a hozamra vonatkozó ígéret teljesülését biztosító bankgarancia vagy kezesi biztosítás (tőke-, illetve hozamgarancia)
+
+34.2. A tőke megóvására, illetve a hozamra vonatkozó ígéretet alátámasztó befektetési politika (tőke-, illetve hozamvédelem)
+
+35. Az adott tárgykörre vonatkozó egyéb információk
+
+VIII. Díjak és költségek
+
+36. A befektetési alapot terhelő díjak, költségek mértéke és az alapra terhelésük módja
+
+36.1. A befektetési alap által az alapkezelő társaság részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+36.2. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által a letétkezelő részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+36.3. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által egyéb felek, harmadik személyek részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+37. A befektetési alapot és a befektetőket terhelő egyéb lehetséges költségek vagy díjak, kivéve a 36. pontban említett költségeket
+
+38. Ha a befektetési alap eszközeinek legalább 20 százalékát más kollektív befektetési formákba fekteti, a befektetési célként szereplő egyéb kollektív befektetési formákat terhelő alapkezelési díjak legmagasabb mértéke
+
+39. A részalapok közötti váltás feltételei és költségei
+
+40. Az adott tárgykörre vonatkozó egyéb információk
+
+IX. A befektetési jegyek folyamatos forgalmazása
+
+41. A befektetési jegyek vétele
+
+41.1. A vételi megbízások felvétele, elszámolása, teljesítése, felvételének napon belüli határideje
+
+41.2. A vételi megbízásokra vonatkozó forgalmazás-elszámolási nap
+
+41.3. A vételi megbízásokra vonatkozó forgalmazás-teljesítési nap
+
+42. A befektetési jegyek visszaváltása
+
+42.1. Visszaváltási megbízások felvétele, elszámolása, teljesítése, felvételének napon belüli határideje
+
+42.2. A visszaváltási megbízásokra vonatkozó forgalmazás-elszámolási nap
+
+42.3. A visszaváltási megbízásokra vonatkozó forgalmazás-teljesítési nap
+
+43. A befektetési jegyek folyamatos forgalmazásának részletszabályai
+
+43.1. A forgalmazási maximum mértéke
+
+43.2. A forgalmazási maximum elérését követő eljárás, az értékesítés újraindításának pontos feltételei
+
+44. A befektetési jegyek vételi, illetve visszaváltási árának meghatározása
+
+44.1. A fenti árak kiszámításának módszere és gyakorisága
+
+44.2. A befektetési jegyek vételével, visszaváltásával kapcsolatban felszámított forgalmazási jutalékok maximális mértéke és annak megjelölése, hogy ez – részben vagy egészben – a befektetési alapot vagy a forgalmazót vagy a befektetési alapkezelőt illeti meg
+
+45. Azoknak a szabályozott piacoknak a feltüntetése, ahol a befektetési jegyeket jegyzik, illetve forgalmazzák
+
+46. Azoknak az államoknak (forgalmazási területeknek) a feltüntetése, ahol a befektetési jegyeket forgalmazzák
+
+47. Az adott tárgykörre vonatkozó egyéb információk
+
+X. A befektetési alapra vonatkozó további információ
+
+48. Befektetési alap múltbeli teljesítménye – az ilyen információ szerepelhet a kezelési szabályzatban vagy ahhoz csatolható
+
+49. Amennyiben az adott alap esetében mód van a befektetési jegyek bevonására, ennek feltételei
+
+50. A befektetési alap megszűnését kiváltó körülmények, a megszűnés hatása a befektetők jogaira
+
+51. Minden olyan további információ, amely alapján a befektetők kellő tájékozottsággal tudnak határozni a felkínált befektetési lehetőségről
+
+XI. Közreműködő szervezetekre vonatkozó alapinformációk
+
+52. A befektetési alapkezelőre vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám)
+
+53. A letétkezelőre vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám)
+
+54. A könyvvizsgálóra vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám)
+
+55. Az olyan tanácsadóra vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám), amelynek díjazása a befektetési alap eszközeiből történik
+
+56. A forgalmazóra vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám)
+
+57. Az ingatlanértékelőre vonatkozó alapinformációk (cégnév, cégforma, cégjegyzékszám)
+
+A fenti tagolás összevont kezelési szabályzat esetében az e törvény 113. §-ában írtakra is tekintettel, értelemszerűen alkalmazandó.
+
+II. FEJEZET
+
+A ZÁRTKÖRŰ BEFEKTETÉSI ALAP KEZELÉSI SZABÁLYZATA
+
+KEZELÉSI SZABÁLYZAT
+
+I. A befektetési alapra vonatkozó alapinformációk
+
+1. A befektetési alap alapadatai
+
+1.1. A befektetési alap neve
+
+1.2. A befektetési alap rövid neve
+
+1.3. A befektetési alap székhelye
+
+1.4. A befektetési alap nyilvántartásba vételének időpontja, nyilvántartási száma
+
+1.5. A befektetési alapkezelő neve
+
+1.6. A letétkezelő neve
+
+1.7. A forgalmazó neve
+
+1.8. A befektetési alap működési formája (zártkörű vagy nyilvános)
+
+1.9. A befektetési alap fajtája (nyíltvégű vagy zártvégű)
+
+1.10. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
+
+1.11. Annak feltüntetése, hogy a befektetési alap az ÁÉKBV-irányelv alapján nem harmonizált alap
+
+1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
+
+1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
+
+1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet bankgarancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
+
+2. A befektetési alapra vonatkozó egyéb alapinformációk
+
+3. A befektetési alapkezelésre, továbbá a befektetési jegyek forgalomba hozatalára és forgalmazására vonatkozó, valamint az alap és a befektető közötti jogviszonyt szabályozó jogszabályok felsorolása
+
+II. A befektetési alappal kapcsolatos határozatok
+
+4. A befektetési alap kezelési szabályzata alapkezelő általi elfogadásának, megállapításának időpontja, az alapkezelői határozat száma (forgalomba hozatalonként, azaz sorozatonként)
+
+5. A befektetési alap Felügyelet általi nyilvántartásba vételéről hozott határozat száma, kelte
+
+6. A befektetési alap nyilvántartási száma (lajstromszáma) a Felügyelet által vezetett nyilvántartásban
+
+7. A befektetési alap kezelési szabályzatának módosításáról szóló alapkezelői határozatok száma, kelte
+
+8. Az adott tárgykörre vonatkozó egyéb információ
+
+III. A kezelési szabályzat módosítására vonatkozó eljárás
+
+9. A kezelési szabályzat azon feltételeinek, rendelkezéseinek megjelölése, amelyek módosításához a befektetési jegy birtokosok meghatározott arányú (többségű) jóváhagyása is szükséges; továbbá az arány megjelölése
+
+10. Amennyiben a kezelési szabályzat módosításához a befektetési jegy birtokosok jóváhagyására is szükség van, úgy az ennek megszerzésére irányuló eljárás szabályozása, határidők meghatározása
+
+IV. A befektetők részére szóló tájékoztatás elérhetősége
+
+11. Annak a módnak a megjelölése, ahogy a befektetési alap kezelési szabályzata és a rendszeres tájékoztatás célját szolgáló jelentések befektetők rendelkezésére bocsátása megtörténik
+
+12. Figyelemfelhívás arra vonatkozóan, hogy az éves, illetve a féléves jelentésben közölt számviteli információkat nem kell könyvvizsgálóval felülvizsgáltatni
+
+13. Az adott tárgykörre vonatkozó egyéb információ
+
+V. A befektetési jegyre vonatkozó információk (sorozatonként)
+
+14. A befektetési jegy ISIN azonosítója
+
+15. A befektetési jegy névértéke
+
+16. A befektetési jegy devizaneme
+
+17. A befektetési jegy előállításának módja
+
+18. A befektetési jegyre vonatkozó tulajdonjog igazolásának és nyilvántartásának módja
+
+19. A befektetőnek a befektetési jegy által biztosított jogai
+
+20. Az adott tárgykörre vonatkozó egyéb információk
+
+VI. A befektetési alap befektetési politikája és céljai, ezen belül különösen:
+
+21. A befektetési alap befektetési céljainak, specializációjának leírása, feltüntetve a pénzügyi célokat is (pl. tőkenövekedés vagy jövedelem, földrajzi vagy iparági specifikáció)
+
+22. Befektetési stratégia, a befektetési alap céljai megvalósításának eszközei
+
+23. Azon eszközkategóriák megjelölése, amelyekbe a befektetési alap befektethet, külön utalással arra vonatkozóan, hogy a befektetési alap számára engedélyezett-e a származtatott ügyletek alkalmazása
+
+24. Az egyes portfolióelemek maximális, illetve minimális vagy tervezett aránya
+
+25. A befektetési politika minden esetleges korlátozása, valamint bármely olyan technika, eszköz vagy hitelfelvételi jogosítvány, amely a befektetési alap kezeléséhez felhasználható
+
+26. A portfólió devizális kitettsége
+
+27. Ha a tőke-, illetve hozamígéret a befektetési alap befektetési politikájával van alátámasztva, akkor a mögöttes tervezett tranzakciók leírása
+
+28. Hitelfelvételi szabályok
+
+29. Azon értékpapírokat kibocsátó vagy garantáló államok, önkormányzatok vagy nemzetközi szervezetek, amelyeknek az értékpapírjaiba az alap eszközeinek több mint 35 százalékát fekteti
+
+30. A leképezett index bemutatása és az egyes értékpapírok indexbeli súlyától való eltérésének maximális nagysága
+
+31. Azon befektetési alap befektetési politikája, amelybe a befektetési alapba fektető befektetési alap eszközeinek legalább 20 százalékát meghaladó mértékben kíván befektetni
+
+32. Amennyiben a befektetési alap befektetési politikája alapján egy adott intézménnyel szembeni, az adott intézmény által kibocsátott átruházható értékpapírokba vagy pénzpiaci eszközökbe történő befektetésekből, az adott intézménynél elhelyezett betétekből, és az adott intézménnyel kötött tőzsdén kívüli származtatott ügyletekből eredő összevont kockázati kitettsége meghaladhatja a befektetési alap eszközeinek 20 százalékát, figyelemfelhívás az ebből fakadó speciális kockázatokra
+
+33. Azon jogszabályhely megjelölése, amelynek alapján a befektetési alap eltérési lehetőséggel élt
+
+34. Az adott tárgykörre vonatkozó egyéb információk
+
+35. Származtatott ügyletekkel kapcsolatos információk
+
+35.1. Származtatott ügyletek alkalmazása esetén arra vonatkozó információ, hogy a származtatott ügyletek alkalmazására fedezeti célból vagy a befektetési célok megvalósítása érdekében van lehetőség
+
+35.2. A származtatott termékek, illetve a származtatott ügyletek lehetséges köre
+
+35.3. Azon jogszabályhely megjelölése, amelynek alapján a befektetési alap eltérési lehetőséggel élt
+
+35.4. A származtatott ügylettel kapcsolatos befektetési korlátok
+
+35.5. Az egyes eszközökben meglévő pozíciók nettósítási szabályai
+
+35.6. Az indexekben, egyéb összetett eszközökben meglévő pozíciók kezelése
+
+35.7. Az értékeléshez felhasználni kívánt árinformációk forrása
+
+35.8. Amennyiben azon származtatott ügylet jellemzői, amelybe a befektetési alap befektet, különböznek a jogszabály által a származtatott ügyletekre vonatkozóan meghatározott általános jellemzőktől, az erre vonatkozó figyelemfelhívás, meghatározva az adott származtatott ügylet jellemzőit és kockázatát
+
+35.9. A származtatott ügyletekben lévő pozíciók összesített kockázati kitettségének mértéke
+
+35.10. Az adott tárgykörre vonatkozó egyéb információk
+
+36. Ingatlanalapra vonatkozó speciális rendelkezések
+
+36.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
+
+36.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
+
+36.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+
+36.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
+
+36.5. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma az összes eszközhöz viszonyítottan
+
+36.6. Az építés alatt álló ingatlanok maximum aránya
+
+36.7. Az ingatlanalapra háruló kockázatok
+
+36.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+
+36.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
+
+36.10. Amennyiben a befektetési alap eltér a nyilvános ingatlanbefektetési alapokra vonatkozó kölcsön felvételi korlátoktól, az eltérés lehetőségének és indokának részletes bemutatása
+
+VII. A kockázatok
+
+37. A kockázati tényezők bemutatása
+
+37.1. Amennyiben a befektetési alap befektetési politikája alapján egy adott intézménnyel szembeni, az adott intézmény által kibocsátott átruházható értékpapírokba vagy pénzpiaci eszközökbe történő befektetésekből, az adott intézménynél elhelyezett betétekből, és az adott intézménnyel kötött tőzsdén kívüli származtatott ügyletekből eredő összevont kockázati kitettsége meghaladhatja a befektetési alap eszközeinek 20 százalékát, figyelemfelhívás az ebből fakadó speciális kockázatokra
+
+37.2. Amennyiben a befektetési alap alapvetően nem az átruházható értékpapírok vagy pénzügyi eszközök közé tartozó eszközkategóriákba fektet be, vagy leképez egy meghatározott indexet, figyelemfelhívás a befektetési alap befektetési politikájának ezen elemére
+
+37.3. Amennyiben a befektetési alap nettó eszközértéke a portfolió lehetséges összetételénél vagy az alkalmazható kezelési technikáinál fogva erőteljesen ingadozhat, az erre vonatkozó figyelemfelhívás
+
+37.4. Amennyiben a befektetési alap – a Felügyelet engedélye alapján – eszközeinek akár 100 százalékát fektetheti olyan, különböző átruházható értékpapírokba és pénzpiaci eszközökbe, amelyeket valamely EGT-állam, annak önkormányzata, harmadik ország, illetve olyan nemzetközi szervezet bocsátott ki, amelynek egy vagy több tagállam is tagja, az erre vonatkozó figyelemfelhívás
+
+38. Az adott tárgykörre vonatkozó egyéb információ
+
+VIII. Az eszközök értékelése
+
+39. A nettó eszközérték megállapítása, közzétételének helye és ideje, a hibás nettó eszközérték számítás esetén követendő eljárás
+
+40. A portfólió elemeinek értékelése
+
+41. A származtatott ügyletek értékelése
+
+42. Az adott tárgykörre vonatkozó egyéb információk
+
+IX. A hozammal kapcsolatos információk
+
+43. A hozam megállapításának és kifizetésének feltételei és eljárása
+
+44. Hozamfizetési napok
+
+45. Az adott tárgykörre vonatkozó egyéb információk
+
+X. A befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéret és teljesítésének biztosítása
+
+46. A tőke megóvására, illetve a hozamra vonatkozó ígéret
+
+46.1. A tőke megóvására, illetve a hozamra vonatkozó ígéret teljesülését biztosító bankgarancia vagy kezesi biztosítás (tőke-, illetve hozamgarancia)
+
+46.2. A tőke megóvására, illetve a hozamra vonatkozó ígéretet alátámasztó befektetési politika (tőke-, illetve hozamvédelem)
+
+47. Az adott tárgykörre vonatkozó egyéb információk
+
+XI. Díjak és költségek
+
+48. Az alapot terhelő díjak, költségek mértéke és az alapra terhelésük módja
+
+48.1. A befektetési alap által az alapkezelő társaság részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+48.2. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által a letétkezelő részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+48.3. Amennyiben azt a befektetési alap közvetlenül fizeti, a befektetési alap által egyéb felek, harmadik személyek részére fizetendő díjak, költségek összege, kiszámításának leírása, az alapra terhelésük és kiegyenlítésük módja
+
+49. A befektetési alapot és a befektetőket terhelő egyéb lehetséges költségek vagy díjak, kivéve a 48. pontban említett költségeket
+
+50. Ha a befektetési alap eszközeinek legalább 20 százalékát más kollektív befektetési formákba fekteti, a befektetési célként szereplő egyéb kollektív befektetési formákat terhelő alapkezelési díjak legmagasabb mértéke
+
+51. A részalapok közötti váltás feltételei és költségei
+
+52. Az adott tárgykörre vonatkozó egyéb információk
+
+XII. Adózási információk
+
+53. A befektetési alapra alkalmazandó adózási rendszer befektetők szempontjából releváns elemeinek rövid összefoglalása
+
+54. A befektetők részére kifizetett hozamot és árfolyamnyereséget a forrásnál terhelő levonásokra vonatkozó információ
+
+XIII. A forgalomba hozatallal kapcsolatos információk
+
+55. A befektetési jegyek forgalomba hozatala
+
+55.1. A befektetési jegyek forgalomba hozatalának módja, feltételei
+
+55.2. Azon befektetők körének megjelölése, amelyek a befektetési jegyeket jegyezhetik, illetve akik körében a befektetési jegy a folyamatos forgalmazás során forgalmazható, továbbá azon feltételek megjelölése, amely alapján a forgalomba hozatal zártkörűnek minősül
+
+55.3. A forgalomba hozatali mennyiség maximum, illetve minimum mértéke
+
+55.4. A befektetési jegyek forgalomba hozatali ára
+
+55.5. Az allokáció feltételei
+
+55.5.1. A jegyzési maximum elérését követő allokáció módja
+
+55.5.2. A jegyzési maximum elérését követő allokáció lezárásának időpontja
+
+55.5.3. Az allokációról való értesítés módja
+
+55.6. A befektetési jegyek forgalomba hozatalával kapcsolatban felszámított költségek
+
+XIV. A befektetési jegyek folyamatos forgalmazása
+
+56. A befektetési jegyek vétele
+
+56.1. A vételi megbízások felvétele, elszámolása, teljesítése, felvételének napon belüli határideje
+
+56.2. A vételi megbízásokra vonatkozó forgalmazás-elszámolási nap
+
+56.3. A vételi megbízásokra vonatkozó forgalmazás-teljesítési nap
+
+57. A befektetési jegyek visszaváltása
+
+57.1. Visszaváltási megbízások felvétele, elszámolása, teljesítése, felvételének napon belüli határideje
+
+57.2. A visszaváltási megbízásokra vonatkozó forgalmazás-elszámolási nap
+
+57.3. A visszaváltási megbízásokra vonatkozó forgalmazás-teljesítési nap
+
+58. A befektetési jegyek folyamatos forgalmazásának részletszabályai
+
+58.1. A forgalmazási maximum mértéke
+
+58.2. A forgalmazási maximum elérését követő eljárás, az értékesítés újraindításának pontos feltételei
+
+59. A befektetési jegyek vételi, illetve visszaváltási árának meghatározása
+
+59.1. A fenti árak kiszámításának módszere és gyakorisága
+
+59.2. A befektetési jegyek vételével, visszaváltásával kapcsolatban felszámított forgalmazási jutalékok maximális mértéke és annak megjelölése, hogy ez – részben vagy egészben – a befektetési alapot vagy a forgalmazót vagy a befektetési alapkezelőt illeti meg
+
+60. Az adott tárgykörre vonatkozó egyéb információk
+
+XV. A befektetési alapra vonatkozó további információ
+
+61. Befektetési alap múltbeli teljesítménye – az ilyen információ szerepelhet a kezelési szabályzatban vagy ahhoz csatolható
+
+62. Amennyiben az adott alap esetében mód van a befektetési jegyek bevonására, ennek feltételei
+
+63. A befektetési alap megszűnését kiváltó körülmények, a megszűnés hatása a befektetők jogaira
+
+64. A befektetési alap átalakulásának, más alappal való egyesülésének, szétválásának feltételei, az erre meghatározott eljárásrend, az előbbiek hatása a befektetők jogaira
+
+65. Minden olyan további információ, amely alapján a befektetők kellő tájékozottsággal tudnak határozni a felkínált befektetési lehetőségről
+
+XVI. A közreműködő szervezetekre vonatkozó részletes információk
+
+66. A befektetési alapkezelőre vonatkozó információk
+
+66.1. A befektetési alapkezelő neve, cégformája
+
+66.2. A befektetési alapkezelő székhelye
+
+66.3. A befektetési alapkezelő cégjegyzékszáma
+
+66.4. A befektetési alapkezelő alapításának dátuma, határozott időtartamra alapított társaság esetén az időtartam feltüntetése
+
+66.5. Ha a befektetési alapkezelő más befektetési alapokat is kezel, ezek felsorolása
+
+66.6. Egyéb kezelt vagyon nagysága
+
+66.7. A befektetési alapkezelő munkaszervezetének operatív vezetését ellátó, ügyvezető és felügyelő szerveinek tagjai és beosztásuk, azon társaságon kívüli főbb tevékenységeik megjelölése mellett, ahol ezek az adott társaságra nézve jelentőséggel bírnak
+
+66.8. A befektetési alapkezelő jegyzett tőkéjének összege, jelezve a már befizetett részt
+
+66.9. A befektetési alapkezelő saját tőkéjének összege
+
+66.10. A befektetési alapkezelő alkalmazottainak száma
+
+66.11. Azon tevékenységek és feladatok megjelölése, amelyekre a befektetési alapkezelő harmadik személyt vehet igénybe
+
+66.12. A befektetés-kezelésre igénybe vett vállalkozások megjelölése
+
+67. A letétkezelőre vonatkozó információk
+
+67.1. A letétkezelő neve, cégformája
+
+67.2. A letétkezelő székhelye
+
+67.3. A letétkezelő cégjegyzékszáma
+
+67.4. A letétkezelő fő tevékenysége
+
+67.5. A letétkezelő tevékenységi köre
+
+67.6. A letétkezelő alapításának időpontja
+
+67.7. A letétkezelő jegyzett tőkéje
+
+67.8. A letétkezelő utolsó független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje
+
+67.9. A letétkezelő alkalmazottainak száma
+
+68. A könyvvizsgálóra vonatkozó információk
+
+68.1. A könyvvizsgáló társaság neve, cégformája
+
+68.2. A könyvvizsgáló társaság székhelye
+
+68.3. A könyvvizsgáló társaság kamarai nyilvántartási száma
+
+68.4. Természetes személy könyvvizsgáló neve
+
+68.5. Természetes személy könyvvizsgáló címe
+
+68.6. Természetes személy könyvvizsgáló kamarai nyilvántartási száma
+
+68.7. Figyelmeztetés arra, hogy a zártkörű befektetési alap éves és féléves jelentésében közölt számviteli információkat nem kell könyvvizsgálóval felülvizsgáltatni
+
+69. Olyan tanácsadókkal kapcsolatos információk, amelyek díjazása a befektetési alap eszközeiből történik
+
+69.1. A tanácsadó neve, cégformája
+
+69.2. A tanácsadó székhelye
+
+69.3. A tanácsadó cégjegyzékszáma, a cégjegyzéket vezető bíróság vagy más szervezet neve
+
+69.4. A befektetési alapkezelővel kötött szerződés lényeges rendelkezései, a tanácsadó díjazására vonatkozók kivételével, amelyek fontosak lehetnek a befektetőkre nézve
+
+70. A tanácsadó egyéb lényeges tevékenységei
+
+71. A forgalmazóra vonatkozó információk (forgalmazónként)
+
+71.1. A forgalmazó neve, cégformája
+
+71.2. A forgalmazó székhelye
+
+71.3. A forgalmazó cégjegyzékszáma
+
+71.4. A forgalmazó tevékenységi köre
+
+71.5. A forgalmazó alapításának időpontja
+
+71.6. A forgalmazó jegyzett tőkéje
+
+71.7. A forgalmazó utolsó, független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje
+
+71.8. A befektetőkre, illetve képviselőikre vonatkozó, a forgalmazó által felvett adatoknak a befektetési alapkezelő felé történő továbbításának lehetősége
+
+72. Az ingatlanértékelőre vonatkozó információk
+
+72.1. Az ingatlanértékelő neve
+
+72.2. Az ingatlanértékelő székhelye
+
+72.3. Az ingatlanértékelő cégjegyzékszáma, egyéb nyilvántartási száma
+
+72.4. Az ingatlanértékelő tevékenységi köre
+
+72.5. Az ingatlanértékelő alapításának időpontja
+
+72.6. Az ingatlanértékelő jegyzett tőkéje
+
+72.7. Az ingatlanértékelő saját tőkéje
+
+72.8. Az ingatlanértékelő alkalmazottainak száma
+
+73. Az adott tárgykörre vonatkozó egyéb információk
 
 ### 4. melléklet a 2011. évi CXCIII. törvényhez
 
@@ -2227,93 +2799,231 @@ A megszűnési jelentésnek legalább az alábbiakat kell tartalmaznia:
 
 ### 5. melléklet a 2011. évi CXCIII. törvényhez
 
-A nyilvános befektetési alap tájékoztatójának kötelező tartalmi elemei
+A NYILVÁNOS BEFEKTETÉSI ALAP TÁJÉKOZTATÓJA
 
-1. A befektetési alapra vonatkozó információk (amennyiben a kezelési szabályzat nem része a tájékoztatónak, vagy a tájékoztatóhoz csatolt kezelési szabályzat az adott információkat nem tartalmazza)
+TÁJÉKOZTATÓ
 
-1.1. A befektetési alap neve, típusa
+I. A befektetési alapra vonatkozó információk
 
-1.2. A befektetési alap nyilvántartásba vételének dátuma. Határozott futamidő esetén a futamidő végének feltüntetése.
+1. A befektetési alap alapadatai
 
-1.3. Annak a helynek a megnevezése, ahol a befektetési alap kezelési szabályzata, valamint a rendszeres tájékoztatás célját szolgáló jelentések beszerezhetők.
+1.1. A befektetési alap neve
 
-1.4. A befektetési alapra vonatkozó, befektetőket is érintő adózási szabályok rövid leírása. Részletes tájékoztatás arra vonatkozóan, hogy a befektetők részére kifizetett jövedelmet és árfolyamnyereséget terheli-e levonás a forrásnál.
+1.2. A befektetési alap rövid neve
 
-1.5. Elszámolási és hozamfizetési napok.
+1.3. A befektetési alap székhelye
 
-1.6. A befektetési alap könyvvizsgálójának megnevezése.
+1.4. A befektetési alapkezelő neve
 
-1.7. A befektetési jegyek fajtájának és főbb jellemzőinek részletezése, különös tekintettel az alábbiakra:
+1.5. A letétkezelő neve
 
-– a befektetési jegy által megtestesített (dologi, személyi vagy egyéb) jog,
+1.6. A forgalmazó neve
 
-– a tulajdonjog igazolásának, nyilvántartásának módja,
+1.7. A befektetési alap működési formája (zártkörű vagy nyilvános)
 
-– a befektetési jegyek jellemzői,
+1.8. A befektetési alap fajtája (nyíltvégű vagy zártvégű)
 
-– a befektetési alap megszűnésére vonatkozó döntéshez szükséges körülmények meghatározása és a megszűnési eljárás leírása, különös tekintettel ezeknek a befektetők jogaira gyakorolt hatására.
+1.9. A befektetési alap futamideje (határozatlan vagy határozott), határozott futamidő esetén a futamidő lejáratának feltüntetése
 
-1.8. Azoknak a tőzsdéknek vagy piacoknak a feltüntetése (ha vannak ilyenek), ahol a befektetési jegyeket jegyzik, illetve forgalmazzák.
+1.10. Annak feltüntetése, ha a befektetési alap ÁÉKBV-irányelv alapján harmonizált alap.
 
-1.9. A befektetési jegyek forgalomba hozatalának és értékesítésének módja, feltételei.
+1.11. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
 
-1.10. A befektetési jegyek visszaváltásának módja, feltételei, valamint azok a körülmények, amelyek miatt a visszaváltás felfüggeszthető. A részalapok közötti váltás feltételei, költségei.
+1.12. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
 
-1.11. A hozam megállapításának és kifizetésének szabályai.
+1.13. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet bankgarancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 
-1.12. A befektetési alap befektetési céljainak leírása, feltüntetve a pénzügyi célokat is (pl.: tőkenövekedés vagy jövedelem), befektetési politikáját (pl.: földrajzi vagy iparági specializáció), a befektetési politika minden esetleges korlátozása, valamint bármely olyan technika, eszköz vagy hitelfelvételi jogosítvány, amely a befektetési alap kezeléséhez felhasználható.
+1.14. Az adott tárgykörre vonatkozó egyéb információ
 
-Amennyiben a befektetési alap befektetési alapba fektető alap és eszközeinek legalább 20 százalékát meghaladó mértékben kíván befektetni egyetlen befektetési alapba, akkor ezen befektetési alap befektetési politikája és működési költségei.
+2. A befektetési alappal kapcsolatos határozatok
 
-1.13. Az eszközök értékelésének főbb szabályai.
+2.1. A befektetési alap működési formájától és fajtájától függően a kezelési szabályzat, a tájékoztató, a kiemelt befektetői információ és a hirdetmény alapkezelő általi elfogadásának, megállapításának időpontja, az alapkezelői határozat száma (forgalomba hozatalonként, azaz sorozatonként)
 
-1.14. A befektetési jegyek eladási vagy forgalomba hozatali, illetve visszaváltási árának meghatározása, különös tekintettel az alábbiakra:
+2.2. A befektetési alap működési formájától és fajtájától függően a kezelési szabályzat, a tájékoztató, a kiemelt befektetői információ és a hirdetmény jóváhagyásáról, valamint a nyilvános forgalomba hozatal engedélyezéséről hozott felügyeleti határozat száma, kelte (sorozatonként)
 
-– a fenti árak kiszámításának módszere és gyakorisága,
+2.3. A befektetési alap Felügyelet általi nyilvántartásba vételéről hozott határozat száma, kelte
 
-– a befektetési jegyek eladásával vagy forgalomba hozatalával, illetve visszaváltásával kapcsolatban felszámított költségek,
+2.4. A befektetési alap nyilvántartási száma (lajstromszáma) a Felügyelet által vezetett nyilvántartásban
 
-– fenti árak közzétételének módja, helye és gyakorisága.
+2.5. A befektetési alap működési formájától és fajtájától függően a kezelési szabályzat, a tájékoztató és a kiemelt befektetői információ módosításáról szóló alapkezelői határozatok száma, kelte
 
-1.15. A befektetési alap által az alapkezelő társaság, a letétkezelő vagy harmadik felek részére fizetendő díjak, valamint a fentiek részére történő költségtérítés módjának, összegének és kiszámításának leírása.
+2.6. A kezelési szabályzat módosításának jóváhagyásáról szóló felügyeleti határozatok száma, kelte
 
-2. Az alapkezelő társaságra vonatkozó információk
+2.7. Az adott tárgykörre vonatkozó egyéb információ
 
-2.1. Cégjegyzés, jogi forma, alapító okirat szerinti iroda és székhely, ha az utóbbi az alapító okirat szerinti irodától eltér. Annak feltüntetése, hogy az alapkezelő társaság székhelye a befektetési alap székhelye szerinti tagállamtól eltérő tagállamban található-e.
+3. A befektetési alap kockázati profilja
 
-2.2. A társaság alapításának dátuma. Határozott időtartamra alapított társaság esetén az időtartam feltüntetése.
+3.1. A befektetési alap célja
 
-2.3. Ha a társaság más nyilvános befektetési alapokat is kezel, ezek felsorolása, továbbá az egyéb kezelt vagyon nagyságának jelzése.
+3.2. Annak a jellemző befektetőnek a profilja, akinek a befektetési alap befektetési jegyeit szánják
 
-2.4. A társaság ügyvivő, ügyvezető és felügyeleti szerveinek tagjai és beosztásuk. Részletezni kell a társaságon kívüli főbb tevékenységeiket, ahol ezek a társaságra nézve jelentőséggel bírnak.
+3.3. Azon eszközkategóriák, amelyekbe a befektetési alap befektethet, külön utalással arra vonatkozóan, hogy a befektetési alap számára engedélyezett-e a származtatott ügyletek alkalmazása
 
-2.5. A jegyzett tőke összege, jelezve a már befizetett részt.
+3.4. Figyelemfelhívás a befektetési alap kezelési szabályzatának azon pontjára vonatkozóan, mely a befektetési alap kockázati tényezőinek bemutatását tartalmazza
 
-3. A letétkezelőre vonatkozó információk:
+3.5. A származtatott ügyletek alkalmazásának célja (fedezeti vagy a befektetési célok megvalósítása), lehetséges hatása a kockázati tényezők alakulására
 
-3.1. A letétkezelő neve, jogi formája, alapító okirat szerinti irodája és székhelye, ha az utóbbi az alapító okirat szerinti irodától eltér;
+3.6. Amennyiben a befektetési alap befektetési politikája alapján egy adott intézménnyel szembeni, az adott intézmény által kibocsátott átruházható értékpapírokba vagy pénzpiaci eszközökbe történő befektetésekből, az adott intézménynél elhelyezett betétekből, és az adott intézménnyel kötött tőzsdén kívüli származtatott ügyletekből eredő összevont kockázati kitettsége meghaladhatja a befektetési alap eszközeinek 20 százalékát, figyelemfelhívás az ebből fakadó speciális kockázatokra
 
-3.2. Fő tevékenysége.
+3.7. Amennyiben a befektetési alap alapvetően nem az átruházható értékpapírok vagy pénzügyi eszközök közé tartozó eszközkategóriákba fektet be, vagy leképez egy meghatározott indexet, figyelemfelhívás a befektetési alap befektetési politikájának ezen elemére
 
-4. Olyan szerződéses tanácsadó cégekkel vagy külső befektetési tanácsadókkal kapcsolatos információk, amelyek díjazása a befektetési alap eszközeiből történik:
+3.8. Amennyiben a befektetési alap nettó eszközértéke a portfolió lehetséges összetételénél vagy az alkalmazható kezelési technikáinál fogva erőteljesen ingadozhat, az erre vonatkozó figyelemfelhívás
 
-4.1. A cég neve vagy cégjegyzése, vagy a tanácsadó neve;
+3.9. Amennyiben a befektetési alap – a Felügyelet engedélye alapján – eszközeinek akár 100 százalékát fektetheti olyan, különböző átruházható értékpapírokba és pénzpiaci eszközökbe, amelyeket valamely EGT-állam, annak önkormányzata, harmadik ország, illetve olyan nemzetközi szervezet bocsátott ki, amelynek egy vagy több tagállam is tagja, az erre vonatkozó figyelemfelhívás
 
-4.2. Az alapkezelő társasággal kötött szerződés lényeges rendelkezései, a tanácsadó díjazására vonatkozók kivételével, amelyek fontosak lehetnek a befektetőkre nézve;
+3.10. Az adott tárgykörre vonatkozó egyéb információ
 
-4.3. A tanácsadó egyéb lényeges tevékenységei.
+4. A befektetők részére szóló tájékoztatás elérhetősége
 
-5. A befektetők részére történő kifizetésekkel, a befektetési jegyek visszaváltásával és a befektetési alappal kapcsolatos egyéb információk közzétételének módja. Amennyiben a befektetési jegyeket más tagállamokban is forgalmazzák, a fenti információkat az ott kiadott tájékoztatóban az érintett tagállam vonatkozásában is meg kell adni.
+4.1. Annak a helynek a megnevezése, ahol a befektetési alap tájékoztatója, kezelési szabályzata, a kiemelt befektetői információ, a rendszeres tájékoztatás célját szolgáló jelentések, valamint a rendkívüli tájékoztatás célját szolgáló közlemények – ezen belül a befektetők részére történő kifizetésekkel, a befektetési jegyek visszaváltásával kapcsolatos információk – hozzáférhetőek
 
-6. Egyéb befektetési információk
+4.2. Az adott tárgykörre vonatkozó egyéb információ
 
-6.1. Befektetési alap múltbeli teljesítménye – az ilyen információ szerepelhet a tájékoztatóban vagy ahhoz csatolható;
+5. Adózási információk
 
-6.2. Annak a jellemző befektetőnek a profilja, akinek a befektetési alap befektetési jegyeit elsődlegesen szánják.
+5.1 A befektetési alapra alkalmazandó adózási rendszer befektetők szempontjából releváns elemeinek rövid összefoglalása
 
-7. Egyéb pénzügyi információk
+5.2. A befektetők részére kifizetett hozamot és árfolyamnyereséget a forrásnál terhelő levonásokra vonatkozó információ
 
-7.1. A befektetési alapot és a befektetőket terhelő egyéb lehetséges költségek vagy díjak, kivéve az 1.14. pontban említett költségeket.
+II. A forgalomba hozatallal kapcsolatos információk
+
+6. A befektetési jegyek forgalomba hozatala
+
+6.1. A befektetési jegyek forgalomba hozatalának módja, feltételei
+
+6.2. A forgalomba hozatali mennyiség maximum, illetve minimum mértéke
+
+6.3. Az allokáció feltételei
+
+6.3.1. A jegyzési maximum elérését követő allokáció módja
+
+6.3.2. A jegyzési maximum elérését követő allokáció lezárásának időpontja
+
+6.3.3. Az allokációról való értesítés módja
+
+6.4. A befektetési jegyek forgalomba hozatali ára
+
+6.4.1. A fenti ár közzétételének módja
+
+6.4.2. A fenti ár közzétételének helye
+
+6.5. A befektetési jegyek forgalomba hozatalával kapcsolatban felszámított költségek
+
+III. A közreműködő szervezetekre vonatkozó részletes információk
+
+7. A befektetési alapkezelőre vonatkozó információk
+
+7.1. A befektetési alapkezelő neve, cégformája
+
+7.2. A befektetési alapkezelő székhelye
+
+7.3. A befektetési alapkezelő cégjegyzékszáma
+
+7.4. A befektetési alapkezelő alapításának dátuma, határozott időtartamra alapított társaság esetén az időtartam feltüntetése
+
+7.5. Ha a befektetési alapkezelő más befektetési alapokat is kezel, ezek felsorolása
+
+7.6. Egyéb kezelt vagyon nagysága
+
+7.7. A befektetési alapkezelő munkaszervezetének operatív vezetését ellátó, ügyvezető és felügyelő szerveinek tagjai és beosztásuk, azon társaságon kívüli főbb tevékenységeik megjelölése mellett, ahol ezek az adott társaságra nézve jelentőséggel bírnak
+
+7.8. A befektetési alapkezelő jegyzett tőkéjének összege, jelezve a már befizetett részt
+
+7.9. A befektetési alapkezelő saját tőkéjének összege
+
+7.10. A befektetési alapkezelő alkalmazottainak száma
+
+7.11. Azon tevékenységek és feladatok megjelölése, amelyekre a befektetési alapkezelő harmadik személyt vehet igénybe
+
+7.12. A befektetéskezelésre igénybe vett vállalkozások megjelölése
+
+8. A letétkezelőre vonatkozó információk
+
+8.1. A letétkezelő neve, cégformája
+
+8.2. A letétkezelő székhelye
+
+8.3. A letétkezelő cégjegyzékszáma
+
+8.4. A letétkezelő fő tevékenysége
+
+8.5. A letétkezelő tevékenységi köre
+
+8.6. A letétkezelő alapításának időpontja
+
+8.7. A letétkezelő jegyzett tőkéje
+
+8.8. A letétkezelő utolsó független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje
+
+8.9. A letétkezelő alkalmazottainak száma
+
+9. A könyvvizsgálóra vonatkozó információk
+
+9.1. A könyvvizsgáló társaság neve, cégformája
+
+9.2. A könyvvizsgáló társaság székhelye
+
+9.3. A könyvvizsgáló társaság kamarai nyilvántartási száma
+
+9.4. Természetes személy könyvvizsgáló neve
+
+9.5. Természetes személy könyvvizsgáló címe
+
+9.6. Természetes személy könyvvizsgáló kamarai nyilvántartási száma
+
+9.7. Figyelmeztetés arra, hogy a zártkörű befektetési alap éves és féléves jelentésében közölt számviteli információkat nem kell könyvvizsgálóval felülvizsgáltatni
+
+10. Olyan tanácsadókkal kapcsolatos információk, amelyek díjazása a befektetési alap eszközeiből történik
+
+10.1. A tanácsadó neve, cégformája
+
+10.2. A tanácsadó székhelye
+
+10.3. A tanácsadó cégjegyzékszáma, a cégjegyzéket vezető bíróság vagy más szervezet neve
+
+10.4. A befektetési alapkezelővel kötött szerződés lényeges rendelkezései, a tanácsadó díjazására vonatkozók kivételével, amelyek fontosak lehetnek a befektetőkre nézve
+
+10.5. A tanácsadó egyéb lényeges tevékenységei
+
+11. A forgalmazóra vonatkozó információk (forgalmazónként)
+
+11.1. A forgalmazó neve, cégformája
+
+11.2. A forgalmazó székhelye
+
+11.3. A forgalmazó cégjegyzékszáma
+
+11.4. A forgalmazó tevékenységi köre
+
+11.5. A forgalmazó alapításának időpontja
+
+11.6. A forgalmazó jegyzett tőkéje
+
+11.7. A forgalmazó utolsó, független könyvvizsgálói jelentéssel ellátott számviteli beszámolója szerinti saját tőkéje
+
+11.8. A befektetőkre, illetve képviselőikre vonatkozó, a forgalmazó által felvett adatoknak a befektetési alapkezelő felé történő továbbításának lehetősége
+
+12. Az ingatlanértékelőre vonatkozó információk
+
+12.1. Az ingatlanértékelő neve
+
+12.2. Az ingatlanértékelő székhelye
+
+12.3. Az ingatlanértékelő cégjegyzékszáma, egyéb nyilvántartási száma
+
+12.4. Az ingatlanértékelő tevékenységi köre
+
+12.5. Az ingatlanértékelő alapításának időpontja
+
+12.6. Az ingatlanértékelő jegyzett tőkéje
+
+12.7. Az ingatlanértékelő saját tőkéje
+
+12.8. Az ingatlanértékelő alkalmazottainak száma
+
+13. Az adott tárgykörre vonatkozó egyéb információk
+
+A fenti tagolás összevont tájékoztató esetében az e törvény 113. §-ában írtakra is tekintettel, értelemszerűen alkalmazandó.
 
 ### 6. melléklet a 2011. évi CXCIII. törvényhez
 
@@ -2491,7 +3201,7 @@ A panaszkezelés menete
 
 6. A befektetési alapkezelő az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő 30 napon belül megküldi a panaszosnak.
 
-7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint – a Felügyelet vagy a békéltető testület eljárását kezdeményezheti, továbbá meg kell adni a Felügyelet és a békéltető testület levelezési címét.
+7. A panasz elutasítása esetén a befektetési alapkezelő válaszában tájékoztatja a panaszost arról, hogy panaszával – annak jellege szerint – a Felügyelet vagy a pénzügyi békéltető testület eljárását kezdeményezheti, továbbá meg kell adni a Felügyelet és a pénzügyi békéltető testület levelezési címét.
 
 8. A befektetési alapkezelő a panaszt és az arra adott választ a szabályzatában meghatározott ideig, legalább azonban 3 évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 

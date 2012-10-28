@@ -153,14 +153,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 89. letétkezelés: a Bszt.-ben meghatározott szolgáltatás,
 - 90. likvid eszköz: a pénz, hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, bármikor pénzzé tehető állampapír, továbbá a felmondhatóságában nem korlátozott bankbetét,
 - 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
-- 92. minősített befektető:
-  - a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, kollektív befektetési formát, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
-  - b) nemzeti és regionális kormányok, központi bankok, nemzetközi és nemzetek feletti pénzügyi szervezetek,
-  - c) kis- és középvállalkozásnak nem minősülő vállalkozás,
-  - d) olyan természetes személy, akit a Felügyelet, illetőleg a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
-  - e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
+- 92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
 - 93.
-- 94. nyilvános ajánlattétel: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
+- 94. nyilvános ajánlattétel, nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 - 95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
 - 96. nyilvános vételi ajánlat (vételi ajánlat): olyan, a céltársaság részvényeseihez szóló, a céltársaság részvényei vagy azok egy részének megszerzésére tett (nem a céltársaságtól származó) nyilvános felhívás, amelynek célja vagy eredménye a céltársaságban való befolyásszerzés, illetőleg a meglévő befolyás mértékének a növelése,
 - 97. nyilvántartott: a Hpt.-ben meghatározott fogalom,
@@ -181,7 +176,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 112. rövid pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, árcsökkenés hatására értéknövekedésben nyilvánul meg,
 - 113. sorozatban kibocsátott értékpapír: ha jogszabály másként nem rendelkezik, az alapjául szolgáló jogviszonyból eredő jogokat és kötelezettségeket több azonos, egymással egyenértékű részre (névérték) osztva megtestesítő értékpapír,
 - 114. szabályozott piac: az Európai Unió tagállamának tőzsdéje és minden más olyan piaca, amely megfelel a következő feltételeknek:
-  - a) a Bszt.-ben meghatározott piacműködtető által működtetett és/vagy irányított multilaterális rendszer,
+  - a) piacműködtető által működtetett, illetve irányított multilaterális rendszer,
   - b) megkülönböztetésmentesen, szabályaival összhangban összehozza több harmadik fél pénzügyi eszközökben lévő vételi és eladási szándékát, vagy elősegíti ezt oly módon, hogy az szerződést eredményez a szabályai alapján kereskedésre bevezetett pénzügyi eszköz tekintetében,
   - c) a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságának engedélyével rendelkezik,
   - d) rendszeres időszakonként, meghatározott időben működik,
@@ -220,7 +215,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 139. szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése: szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése
   - a) valamennyi szabályozott piacon (kivezetés),
   - b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott piacon forgalmazzák (átvezetés),
-- 140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található.
+- 140. székhely szerinti tagállam: szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
+- 141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát.
 
 (2) E törvény alkalmazásában
 
@@ -265,7 +261,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) A dematerializált értékpapír olyan névreszóló értékpapír, amelynek nincs sorszáma, a tulajdonos nevét, egyértelmű azonosítására szolgáló adatokat pedig az értékpapír-számla tartalmazza.
 
-8. § (1) Ha a kibocsátó azonos sorozatú értékpapír további kibocsátásáról rendelkező döntése alapján a 7. § (2) bekezdés c) és d) pontjában szereplő adatokban bármilyen változás áll be, a korábban kibocsátott okirat érvénytelenítésével egyidejűleg új okiratot kell kiállítani.
+8. § (1) Ha a kibocsátó döntése alapján a 7. § (2) bekezdés a), c) és d) pontban szereplő adatokban bármilyen változás áll be, a korábban kibocsátott okirat érvénytelenítésével egyidejűleg új okiratot kell kiállítani.
 
 (2) Amennyiben a kibocsátás jegyzési eljárással történik, a 7. § (2) bekezdése szerinti okiratot a kibocsátó a jegyzés tényleges lezárását követő napon állítja ki. Amennyiben a jegyzést követően allokációra kerül sor, az okiratot az allokáció lezárását követő napon kell kiállítani. Ha a kibocsátó a forgalomba hozatal más módját választja, az okiratot az azt követő napon állítja ki, amikor a kibocsátandó értékpapír mennyisége véglegessé vált.
 
@@ -299,7 +295,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 12. § (1) Az átalakítás napjával a kibocsátó az átalakított értékpapír-sorozatot érvénytelenné nyilvánítja, dematerializált értékpapírrá alakítja. Az átalakításra érvényesen be nem nyújtott értékpapírok sorszámát a kibocsátó nyilvántartásba veszi. Hitelviszonyt megtestesítő értékpapír és befektetési jegy átalakítása esetén a nyomdai úton előállított értékpapír tulajdonosa – az értékpapír benyújtásával és az értékpapírszámlát vezető befektetési vállalkozás, hitelintézet, befektetési alapkezelő megjelölésével – az értékpapír lejáratáig, a befektetési jegyet kibocsátó befektetési alap megszűnéséig kérheti a dematerializált értékpapír értékpapírszámláján történő jóváírását. Részvény, egyéb tulajdonviszonyt megtestesítő értékpapír esetében a kibocsátó az átalakított értékpapírokat – az átalakítástól számított hat hónapon belül – befektetési vállalkozás, hitelintézet közreműködésével értékesíti. Az értékesítés szabályait a kibocsátó az átalakításról szóló hirdetményben jelenteti meg. Az értékesítés eredménytelensége esetén a kibocsátó az értékesítésre nyitva álló határidő lejártát követő első közgyűlésen az alaptőkét leszállítja.
 
-(2) Az érvénytelenné nyilvánított értékpapír forgalom tárgya nem lehet, azonban annak bemutatásával tulajdonosa követelheti részére a dematerializált értékpapír kiadását, vagy ha az értékesítés megtörtént, illetőleg a hitelviszonyt megtestesítő értékpapír lejárt, vagy a befektetési jegyet kibocsátó befektetési alap megszűnt, az értékesített dematerializált értékpapír ellenértékét, illetőleg a lejáratkor esedékes összeget. Az értékesített értékpapír ellenértékét, illetve a lejáratkor esedékes összeget a tulajdonos jelentkezéséig a kibocsátó hitelintézetnél nyitott letéti számlán tartja. A benyújtási határidőt elmulasztó értékpapír-tulajdonos az igényének érvényesítéséig felmerült költségeket köteles megfizetni. Az értékpapír kiadása iránti követelés helyébe lépő pénzkövetelés elévülésére az értékpapírban megtestesített követelés elévülésére irányadó szabályok érvényesek.
+(2) Az érvénytelenné nyilvánított értékpapír forgalom tárgya nem lehet, azonban annak bemutatásával tulajdonosa követelheti részére a dematerializált értékpapír kiadását, vagy ha az értékesítés megtörtént, a hitelviszonyt megtestesítő értékpapír lejárt, vagy a befektetési jegyet kibocsátó befektetési alap megszűnt, az értékesített dematerializált értékpapír ellenértékét vagy a lejáratkor esedékes összeget. Az értékesített értékpapír ellenértékét, illetve a lejáratkor esedékes összeget a tulajdonos jelentkezéséig a kibocsátó hitelintézetnél nyitott letéti számlán tartja. A benyújtási határidőt elmulasztó értékpapír-tulajdonos az igényének érvényesítéséig felmerült költségeket köteles megfizetni. Az értékpapír kiadása iránti követelés helyébe lépő pénzkövetelés elévülésére az értékpapírban megtestesített vagyoni igény elévülésére irányadó szabályok érvényesek.
 
 ### IV. Fejezet — AZ ÉRTÉKPAPÍROK FORGALOMBA HOZATALA, SZABÁLYOZOTT PIACRA TÖRTÉNŐ BEVEZETÉSE
 
@@ -313,17 +309,17 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 14. § (1) Az értékpapír forgalomba hozatala zártkörűnek minősül (a továbbiakban: zártkörű forgalomba hozatal), ha
 
 - a) az értékpapírt kizárólag minősített befektetők részére ajánlják fel;
-- b) az értékpapírt minősített befektetőnek nem minősülő, tagállamonként száznál kevesebb személy részére ajánlják fel;
-- c) az értékpapírt kizárólag olyan befektetők részére ajánlják fel, akik egyenként legalább ötvenezer euró vagy annak megfelelő értékben vásárolnak a felajánlott értékpapírokból;
-- d) az értékpapír névértéke legalább ötvenezer euró vagy annak megfelelő összeg; vagy
-- e) az összes forgalomba hozott értékpapír kibocsátási értéke az ajánlattételtől számított tizenkét hónapon belül nem haladja meg a százezer eurót vagy az annak megfelelő összeget;
+- b) az értékpapírt minősített befektetőnek nem minősülő, tagállamonként százötvennél kevesebb személy részére ajánlják fel;
+- c) az értékpapírt kizárólag olyan befektetők részére ajánlják fel, akik egyenként legalább százezer euró vagy annak megfelelő értékben vásárolnak a felajánlott értékpapírokból;
+- d) az értékpapír névértéke legalább százezer euró vagy annak megfelelő összeg; vagy
+- e) az összes forgalomba hozott értékpapír uniós szinten számított kibocsátási értéke az ajánlattételtől számított tizenkét hónapon belül nem haladja meg a százezer eurót vagy az annak megfelelő összeget;
 - f) a részvénytársaság szövetkezet átalakulásával jön létre és a részvényeket kizárólag az átalakuló szövetkezet tagjainak, üzletrész tulajdonosainak ajánlják fel.
 
 (2) Már zártkörűen forgalomba hozott értékpapír esetében zártkörű forgalomba hozatalnak minősül az is, ha
 
 - a) a kibocsátó korábban már kibocsátott részvényekkel azonos fajtájú, illetve azonos osztályba tartozó, azokat helyettesítő részvényeket bocsát ki, és az ilyen új részvények kibocsátása nem jelenti a kibocsátott alaptőke növelését;
 - b) az értékpapírt részvénytársaságban, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel;
-- c) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel;
+- c) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel;
 - d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket vagy osztalékként ezekkel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
 - e) az értékpapírt a kibocsátó, illetőleg kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelő bizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelő bizottsági tagjának ajánlja fel, értékesíti, illetőleg juttatja, ha a kibocsátó valamely értékpapírja valamely szabályozott piacra már be van vezetve.
 
@@ -331,7 +327,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4)
 
-15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdésének f) és g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
+15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdésének f) vagy g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
 
 - a) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírt hoz forgalomba, illetve az állampapír kibocsátója saját maga végzi a forgalomba hozatalt;
 - b) a külföldi hitelintézet, illetve a külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba;
@@ -347,19 +343,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 18. § Zártkörű forgalomba hozatallal kapcsolatban készített bármely írásos dokumentumban feltűnő módon fel kell tüntetni a forgalomba hozatal zártkörű voltát.
 
-19. § (1) Természetes személy, illetve kis- és középvállalkozás a Felügyelethez benyújtott kérelmében kezdeményezheti, hogy a 14. § alkalmazásában minősített befektetőnek minősüljön. A kérelmezőt a Felügyelet egy évre felveszi a minősített befektetőkről vezetett nyilvántartásba.
-
-(2) A természetes személy kérelmezőt a Felügyelet akkor veszi fel a minősített befektetők nyilvántartásába, ha magyar állampolgár vagy legalább egy éve életvitelszerűen Magyarországon tartózkodik és az a)–c) pontban foglalt feltételek közül legalább kettőnek megfelel:
-
-- a) az előző négy negyedévben negyedévente legalább tíz, egyenként legalább ötvenezer euró vagy az ügyletkötés napján érvényes MNB hivatalos devizaárfolyamon számítva annak megfelelő összegű ügyletet kötött értékpapírokra;
-- b) értékpapír portfóliója a kérelem benyújtásakor meghaladja az ötszázezer eurót, illetve az MNB hivatalos devizaárfolyamon számított annak megfelelő összeget;
-- c) az 5. § (1) bekezdése 92. pontjának a) alpontjában felsorolt jogi személyek valamelyikénél olyan beosztásban dolgozik, vagy legalább egy éven keresztül olyan beosztásban dolgozott, amelyhez szükséges az értékpapír befektetések ismerete.
-
-(3) A Felügyelet a minősített befektetők nyilvántartását a kibocsátó erre irányuló kérelme esetén rendelkezésére bocsátja.
-
-(4) A minősített befektetők nyilvántartásában szereplő bármely személy bármikor kérelmezheti a nyilvántartásból történő törlését.
-
-(5) A Felügyelet a nyilvántartás módosításakor gondoskodik a korábbi állapot megőrzéséről.
+19. §
 
 ### Az értékpapírok nyilvános forgalomba hozatala
 
@@ -380,7 +364,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - a) tizenkét hónapnál rövidebb eredeti lejáratú pénzpiaci eszköz forgalomba hozatala esetén;
 - b) nyílt végű befektetési alapra kibocsátott befektetési jegy forgalomba hozatala esetén;
 - c) értékpapír szabályozott piacra történő bevezetése esetén, ha
-  - ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg a két és fél millió eurót vagy az annak megfelelő összeget, és
+  - ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg a ötmillió eurót vagy az annak megfelelő összeget, és
   - cb) az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
 - d) a 22. §-ban meghatározott esetben.
 
@@ -392,11 +376,11 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 - a) a kibocsátó korábban már forgalomba hozott részvényekkel azonos fajtájú, illetve azonos osztályba tartozó, azokat helyettesítő részvényeket bocsát ki, és az ilyen új részvények forgalomba hozatala nem jelenti a kibocsátott alaptőke növelését;
 - b) az értékpapírt részvénytársaságban történő, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
-- c) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
-- d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket vagy osztalékként ezekkel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
-- e) az értékpapírt a kibocsátó, illetőleg annak kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelő bizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelő bizottsági tagjának értékesíti, illetőleg juttatja, ha
-  - ea) a kibocsátó valamely értékpapírja szabályozott piacra már be van vezetve, és
-  - eb) az értékpapírok számára és jellegére, valamint az értékesítés, illetőleg juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak.
+- c) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
+- d) a részvénytársaság a részvényeseinek osztalékként olyan azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
+- e) az értékpapírt a kibocsátó, annak kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelőbizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelőbizottsági tagjának értékesíti, juttatja, ha
+  - ea) a kibocsátó létesítő okirat szerinti székhelye az Európai Unió területén található, és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak, vagy
+  - eb) a harmadik országban székhellyel rendelkező kibocsátó valamely értékpapírja szabályozott piacra, Bszt.-ben meghatározott elismert tőzsdére már be van vezetve és az értékpapírok számára és jellegére, valamint az értékesítés, juttatás indokaira és részleteire vonatkozó információk rendelkezésre állnak.
 
 (2) Az (1) bekezdés b)–c) pontjában foglalt esetben akkor nincs szükség tájékoztató és hirdetmény közzétételére, ha a felajánlott értékpapírra, illetve annak kibocsátójára vonatkozóan a Felügyelet által a tájékoztatóban foglalt információkkal egyenértékűnek elfogadott információkat tartalmazó dokumentum az érintett befektetők rendelkezésére áll.
 
@@ -407,7 +391,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - a) az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanarra a szabályozott piacra már korábban bevezették, és tizenkét hónapon belül a bevezetendő részvények darabszáma nem haladja meg a korábban a szabályozott piacra bevezetett részvény darabszám tíz százalékát;
 - b) a részvény a korábban ugyanazon szabályozott piacra bevezetett, azonos fajtájú, illetve azonos osztályba tartozó részvény helyébe lép, ha a részvénycsere nem jelenti a kibocsátott alaptőke növelését;
 - c) az értékpapírt részvénytársaságban, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
-- d) az értékpapírt a társaságok egyesülésével kapcsolatosan ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
+- d) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
 - e) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket, vagy osztalékként azzal a részvénnyel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, amelyre tekintettel az osztalékfizetés történik, ha ezeket a részvényeket korábban ugyanazon szabályozott piacra már bevezették;
 - f) az értékpapírt kibocsátó vagy annak kapcsolt vállalkozása bármelyikük munkavállalóinak, vezető tisztségviselőinek, felügyelőbizottsági tagjainak, illetve volt munkavállalóinak, vezető tisztségviselőinek és felügyelőbizottsági tagjainak értékesíti, illetőleg juttatja, ha az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
 - g) valamely értékpapír átváltásából, vagy az általa megtestesített jog gyakorlásából származó részvény bevezetése esetén, ha az azzal azonos fajtájú, illetve azonos osztályba tartozó részvényt ugyanazon szabályozott piacra már bevezették;
@@ -455,14 +439,22 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) A tájékoztató a regisztrációs okmányból, az értékpapírjegyzékből és az összefoglalóból áll. A tájékoztató egyetlen összevont dokumentumként is elkészíthető (összevont tájékoztató).
 
-(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése céljából készült, amelynek névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra és a tájékoztatót nem magyar nyelven készítették el.
+(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra és a tájékoztatót nem magyar nyelven készítették el.
 
-27. § (1) Az összefoglalóban röviden, közérthetően, a tájékoztató eredeti nyelvén ismertetni kell a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, illetőleg az értékpapír lényeges jellemzőit és fő kockázatait. Az összefoglalóban fel kell hívni a figyelmet arra, hogy:
+27. § (1) Az összefoglalóban röviden, közérthetően, a tájékoztató eredeti nyelvén, olyan formában és tartalommal kell ismertetni az értékpapír lényeges jellemzőit és fő kockázatait, hogy az a befektetők értékpapírra vonatkozó befektetési döntésének meghozatalát elősegítse. Az összefoglalót az értékpapírok jellemzőinek összehasonlíthatóságát biztosító, az (1a) bekezdés szerinti kiemelt információt is tartalmazó formátumban kell elkészíteni. Az összefoglalóban fel kell hívni a figyelmet arra, hogy
 
 - a) az összefoglaló a tájékoztató bevezető része;
 - b) a befektetési döntést a tájékoztató egészének ismeretében lehet meghozni;
 - c) ha a tájékoztatóban foglalt információkkal kapcsolatban keresetindításra kerül sor, előfordulhat, hogy a tagállamok nemzeti jogszabályai alapján a felperes befektetőnek kell viselnie a bírósági eljárás megindítását megelőzően a tájékoztató fordításának költségeit; és
-- d) az összefoglaló tartalmáért felelősséget vállaló személyt, illetve az összefoglaló fordítását végző személyt kártérítési felelősség terheli a befektetőknek okozott kárért abban az esetben, ha az összefoglaló félrevezető, pontatlan, vagy nincs összhangban a tájékoztató más elemeivel.
+- d) az összefoglaló tartalmáért felelősséget vállaló személyt, illetve azt, hogy az összefoglaló fordítását végző személyt kártérítési felelősség terheli a befektetőknek okozott kárért abban az esetben, ha az összefoglaló félrevezető, pontatlan, nincs összhangban a tájékoztató más elemeivel, vagy nem tartalmazza az (1a) bekezdés szerinti kiemelt információt.
+
+(1a) A kiemelt információ tartalmazza:
+
+- a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személyre vonatkozó alapvető adatokat, kockázatainak, pénzügyi helyzetének megítéléséhez szükséges adatokat,
+- b) az értékpapírral kapcsolatos kockázatok, valamint az értékpapír által megtestesített jogok befektető általi megismeréséhez szükséges információkat,
+- c) a nyilvános ajánlattétel általános feltételeit, ideértve a kibocsátó vagy az ajánlattevő által felszámított, a befektetőt terhelő díjakat, költségeket,
+- d) a forgalomba hozatal, illetve a szabályozott piacra történő bevezetés részleteit,
+- e) a forgalomba hozatal céljának és a forgalomba hozataltól várható haszon felhasználásának ismertetését.
 
 (2) Ha a felajánlott értékpapír mennyisége, illetőleg végleges ajánlati ára a tájékoztatóban nem jeleníthető meg, akkor
 
@@ -475,7 +467,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (5) Az alaptájékoztató a kibocsátási program egészére, az adagolt kibocsátás keretében történő minden forgalomba hozatal összességére, valamint a tizenkét hónapon belül tervezett több forgalomba hozatalra együttesen vonatkozó összes információt egyetlen dokumentumban tartalmazza.
 
-(6) Alaptájékoztató közzététele esetében az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeiről (így különösen: a forgalomba hozatal össznévértéke, az értékpapír futamideje, lejárata, kamata vagy egyéb járulékai, a forgalomba hozatal módja és helye, továbbá az új értékpapír-sorozat értékpapírkódja) a Felügyeletet tájékoztatja, és a forgalomba hozatal végleges feltételeit közzéteszi.
+(6) Amennyiben a forgalomba hozatal végleges feltételeit (így különösen: a forgalomba hozatal össznévértéke, az értékpapír futamideje, lejárata, kamata vagy egyéb járulékai, a forgalomba hozatal módja és helye, továbbá az új értékpapír-sorozat értékpapírkódja) sem az alaptájékoztató, sem a 32. § szerinti kiegészítés nem tartalmazza, az egyes részkibocsátásokra vonatkozóan a kibocsátó a forgalomba hozatal kezdő napját megelőzően a forgalomba hozatal végleges feltételeiről a Felügyeletet és a fogadó tagállam hatáskörrel rendelkező hatóságát tájékoztatja, és a forgalomba hozatal végleges feltételeit közzéteszi.
 
 (7) A Felügyelet engedélyezheti valamely információnak a tájékoztatóból való elhagyását, ha:
 
@@ -493,17 +485,20 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (2) A tájékoztatót az (1) bekezdés szerint felelős valamennyi személy köteles külön aláírt felelősségvállaló nyilatkozattal ellátni. A nyilatkozatnak tartalmaznia kell azt, hogy a tájékoztató a valóságnak megfelelő adatokat és állításokat tartalmazza, illetve nem hallgat el olyan tényeket és információkat, amelyek az értékpapír, valamint a kibocsátó és az értékpapírban foglalt kötelezettségért kezességet (garanciát) vállaló személy helyzetének megítélése szempontjából jelentőséggel bírnak.
 
-(3) Felelősség nem állapítható meg kizárólag az összefoglaló alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha az összefoglaló félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz.
+(3) Felelősség nem állapítható meg kizárólag az összefoglaló alapján – ideértve annak bármely nyelvre lefordított változatát is – kivéve, ha
+
+- a) az összefoglaló félrevezető, pontatlan vagy a tájékoztatóban foglalt információnak nem megfelelő információt tartalmaz, vagy
+- b) az összefoglaló nem tartalmazza a 27. § (1a) bekezdés szerinti kiemelt információt.
 
 30. § A 29. § (1) bekezdésében meghatározott személyt a tájékoztató, illetőleg a hirdetmény közzétételétől számított öt évig terheli a 29. §-ban meghatározott felelősség. E felelősség érvényesen nem zárható ki és nem korlátozható.
 
-31. § (1) A tájékoztató tizenkét hónapig hatályos. Az értékpapírt a tájékoztató közzétételét követő tizenkét hónapon belül, de legkésőbb a tájékoztató hatályosságának időszaka alatt lehet nyilvánosan forgalomba hozni vagy szabályozott piacra bevezetni.
+31. § (1) A tájékoztató a közzététel Felügyelet általi engedélyezését követő tizenkét hónapig érvényes. Az értékpapírt – a 32. §-ban foglaltak figyelembevételével – legkésőbb a tájékoztató érvényességének időszaka alatt lehet nyilvánosan forgalomba hozni vagy szabályozott piacra bevezetni. A tájékoztató érvényességének időszaka alatt az értékpapír forgalmazásához nem szükséges újabb tájékoztató készítése, feltéve, hogy a tájékoztató kiegészítésére a 32. §-ban foglaltak szerint sor kerül, és a tájékoztató használatához a tájékoztatót készítő személy írásban hozzájárult.
 
 (2) Kibocsátási programra vonatkozóan közzétett alaptájékoztató tizenkét hónapig hatályos. Jelzáloglevél adagolt kibocsátás keretében történő forgalomba hozatala, illetőleg tizenkét hónapon belül legalább két alkalommal történő forgalomba hozatala esetén az alaptájékoztató az összes forgalomba hozatali eljárás lezárásáig hatályos, azzal, hogy az utolsó forgalomba hozatali eljárást tizenkét hónapon belül meg kell kezdeni.
 
-(3) A regisztrációs okmány tizenkét hónapig érvényes, ha a kibocsátó teljesíti az 52/A. § (1) bekezdésében meghatározott tájékoztatási kötelezettségét.
+(3) A regisztrációs okmány a Felügyelet által történő jóváhagyást követő tizenkét hónapig érvényes.
 
-(4) Ha a kibocsátó rendelkezik tizenkét hónapnál nem régebben jóváhagyott regisztrációs okmánnyal, értékpapír nyilvános forgalomba hozatala esetén elegendő az értékpapírjegyzéket és az összefoglalót közzétennie. Ebben az esetben az értékpapírjegyzéknek tartalmaznia kell a kibocsátóra vonatkozó, a regisztrációs okmány engedélyezése óta bekövetkezett lényeges változásokat, amelyek befolyásolják a kibocsátó megítélését. A külön eljárás keretében engedélyezett értékpapírjegyzék és összefoglaló a regisztrációs okmánnyal együttesen érvényes tájékoztatót képez.
+(4) Ha a kibocsátó rendelkezik tizenkét hónapnál nem régebben jóváhagyott regisztrációs okmánnyal, értékpapír nyilvános forgalomba hozatala esetén elegendő az értékpapírjegyzéket és az összefoglalót közzétennie. Ebben az esetben az értékpapírjegyzéknek tartalmaznia kell a kibocsátóra vonatkozó, a regisztrációs okmány engedélyezése óta bekövetkezett lényeges változásokat, amelyek befolyásolják a kibocsátó megítélését, kivéve, ha a tájékoztató kiegészítésére a 32. §-ban foglaltak szerint sor került. A külön eljárás keretében engedélyezett értékpapírjegyzék és összefoglaló a regisztrációs okmánnyal együtt érvényes tájékoztatónak minősül.
 
 32. § (1) Ha a közzététel engedélyezése és forgalomba hozatali eljárás lezárása, illetőleg az értékpapírral történő kereskedésnek a szabályozott piacon való megkezdése között olyan lényeges tény vagy körülmény jut a Felügyelet tudomására, ami a tájékoztató, illetőleg az alaptájékoztató kiegészítését teszi szükségessé, a Felügyelet a kibocsátó és a forgalmazó meghallgatása után elrendeli a tájékoztató, illetőleg az alaptájékoztató kiegészítését.
 
@@ -515,7 +510,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (5) Az (1) és (2) bekezdésben meghatározott esetekben a kiegészítés közzétételéig a Felügyelet a forgalomba hozatali eljárást felfüggesztheti.
 
-33. § (1) Ha a tájékoztató a forgalomba hozatali eljárás időtartama alatt, vagy a szabályozott piacon történő kereskedés megkezdése előtt kiegészítésre kerül, az a befektető, aki a kiegészítés közzététele előtt az értékpapír lejegyzésére vagy megvásárlására megállapodást kötött, jogosult elfogadó nyilatkozata visszavonására, illetőleg a megállapodástól való elállásra. A befektető az elállási jogát a kiegészítés közzétételét követő tizenöt napon belül gyakorolhatja. A befektető elállása esetén a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy a vásárlással kapcsolatos költségét és kárát megtéríteni. A kiegészítés közzétételét követő tizenöt napos időtartam alatt az allokáció nem folytatható le.
+33. § (1) Ha a tájékoztatót az értékpapír forgalomba hozatalára irányuló eljárás időtartama alatt vagy a szabályozott piacra történő bevezetés előtt kiegészítették, az a befektető, aki a kiegészítés közzététele előtt az értékpapírt lejegyezte vagy megvételére megállapodást kötött, jogosult a jegyzési nyilatkozat visszavonására, a megállapodástól való elállásra. A befektető az elállás jogát a kiegészítés közzétételét követő két munkanapon belül gyakorolhatja. Az elállás jogának gyakorlására nyitva álló határidőt a kibocsátó vagy az ajánlattevő meghosszabbíthatja, az elállási jog gyakorlására nyitva álló határidőt azonban a kiegészítésnek tartalmaznia kell. A befektető elállása esetén a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy az értékpapírvétellel kapcsolatos költségét és kárát megtéríteni. A kiegészítés közzétételét követő két munkanapos időtartam alatt az allokáció nem folytatható le.
 
 (2) Ha jogszabály vagy a kibocsátó, illetőleg az ajánlattevő a forgalomba hozatali eljárás eredményességének feltételéül a forgalomba hozandó értékpapír legkisebb mennyiségét megjelölte és a megjelölt mennyiségre a forgalomba hozatali eljárás zárónapjáig nem történik kötelezettségvállalás, a kibocsátó, az ajánlattevő vagy a forgalmazó a forgalomba hozatali eljárás zárónapját követő hét napon belül köteles a már befizetett teljes összeget a tájékoztatóban meghirdetett módon – kamatfizetési kötelezettség nélkül – visszafizetni.
 
@@ -527,17 +522,18 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) A tájékoztató teljes szövegét az (1)–(2) bekezdésben meghatározott időpontban
 
-- a) közzé kell tenni a (4) bekezdésben meghatározott helyen, vagy
-- b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani.
+- a) közzé kell tenni a kibocsátó és – ha van – a forgalmazó, valamint a Felügyelet honlapján, ha a Felügyelet nyújt ilyen szolgáltatást,
+- b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
+- c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés l)–s) pontjaiban meghatározott – a tájékoztató tartalmával megegyező – adatokat.
 
-(4) A közzététel helye:
+(4) A (3) bekezdésen kívüli esetekben a közzététel helye:
 
-- a) legalább egy országos terjesztésű napilap, vagy
-- b) a kibocsátó és – ha van – a forgalmazó honlapja, vagy
-- c) annak a szabályozott piacnak a honlapja, amelyen az értékpapírral kereskednek, vagy
+- a) legalább egy országos terjesztésű napilap,
+- b) a kibocsátó és – ha van – a forgalmazó honlapja,
+- c) annak a szabályozott piacnak a honlapja, amelyen az értékpapírral kereskednek vagy
 - d) a Felügyelet honlapja, ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételi kötelezettség teljesítése céljából.
 
-(5) Ha a kibocsátó a tájékoztatót a (3) bekezdés b) pontja, vagy a (4) bekezdés a) pontja szerint teszi közzé, a Felügyelet kötelezheti a kibocsátót, hogy a tájékoztatót a (4) bekezdés b) pontja szerint honlapján is közzétegye.
+(5)
 
 (6) A (4) bekezdés a) pontja szerinti közzététel esetén a tájékoztatót minden olyan tagállamban, ahol az értékpapírt nyilvánosan forgalomba hozzák, vagy szabályozott piacra be kívánják vezetni, legalább egy, széles körben terjesztett napilapban meg kell jelentetni.
 
@@ -616,7 +612,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (2) Ha a Felügyelet a 27. § (5) bekezdése alapján valamely információnak a tájékoztatóból való elhagyását engedélyezte, ennek tényét, valamint indokát is megjelöli a hatósági bizonyítványban.
 
-(3) A Felügyelet a hatósági bizonyítványt a kérelem kézhezvételét követő három munkanapon belül, illetőleg ha a kérelmet a tájékoztató közzétételének engedélyezésére vonatkozó kérelemmel egyidejűleg nyújtották be, a tájékoztató közzétételének engedélyezését követő munkanapon küldi meg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának.
+(3) A Felügyelet a hatósági bizonyítványt a kérelem kézhezvételét követő három munkanapon belül, vagy ha a kérelmet a tájékoztató közzétételének engedélyezésére vonatkozó kérelemmel egyidejűleg nyújtották be, a tájékoztató közzétételének engedélyezését követő munkanapon küldi meg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának a kérelmező egyidejű értesítése mellett.
 
 (4) Az (1)–(3) bekezdésben foglaltakat kell alkalmazni a tájékoztató minden kiegészítésére is.
 
@@ -638,7 +634,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (6) Ha a kérelmező az értékpapírt Magyarországon nyilvánosan forgalomba kívánja hozni és a tájékoztatót nem magyar nyelven készíti el, az összefoglalót magyar nyelven is el kell készíteni. Ha a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy a tájékoztatót más tagállam hatáskörrel rendelkező felügyeleti hatósága által megadott engedély alapján teszi közzé Magyarországon, az összefoglalót magyar nyelven is el kell készíteni.
 
-(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, amelynek névértéke legalább ötvenezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni és közzé kell tenni.
+(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni és közzé kell tenni.
 
 43/A. §
 
@@ -659,7 +655,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 (2) Hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalához, illetőleg szabályozott piacra történő bevezetéséhez – ha a forgalomba hozatalra, illetőleg a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertető tehető közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé:
 
 - a) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetén, ha az értékpapírok 1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, 2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez, 3. betétgyűjtést valósítanak meg, és 4. kiterjed rájuk az Országos Betétbiztosítási Alap által nyújtott biztosítás;
-- b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el az ötvenmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok 1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és 2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
+- b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok 1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és 2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
 
 (3) Az ismertető a felügyeleti jóváhagyástól számított tizenkét hónapig hatályos.
 
@@ -710,7 +706,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 52. § (1) E fejezetben foglaltakat kell alkalmazni a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésekor, ha:
 
 - a) a részvények kibocsátója, továbbá az 1000 eurónál, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összegnél kisebb névértékű hitelviszonyt megtestesítő értékpapír kibocsátója olyan, az Európai Unió tagállamában bejegyzett társaság, amelynek létesítő okirat szerinti székhelye Magyarországon van,
-- b) az 1000 eurónál, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összegnél nagyobb névértékű hitelviszonyt megtestesítő értékpapír kibocsátójának vagy a létesítő okirat szerinti székhelye Magyarországon van, vagy Magyarország területén lévő szabályozott piacra értékpapírját bevezették, és Magyarországot választotta székhely szerinti tagállamnak,
+- b) az 1000 euróval, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeggel megegyező vagy ennél nagyobb névértékű hitelviszonyt megtestesítő értékpapír kibocsátójának a létesítő okirat szerinti székhelye Magyarországon van, vagy Magyarország területén lévő szabályozott piacra értékpapírját bevezették, és Magyarországot választotta székhely szerinti tagállamnak,
 - c) a harmadik országban bejegyzett kibocsátó értékpapírjainak nyilvános forgalomba hozatalához, illetőleg tőzsdei bevezetéséhez készített tájékoztató közzétételét a Felügyelet engedélyezte.
 
 (2) Az e fejezetben foglaltakat nem kell alkalmazni a nyílt végű befektetési alapra kibocsátott befektetési jegyre, illetve az ilyen befektetési alapban megvásárolt vagy eladott befektetési jegyre.
@@ -733,7 +729,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 - b) éves jelentés,
 - c) nyilvánosan forgalomba hozott részvény kibocsátója időközi vezetőségi beszámoló formájában teljesíti.
 
-(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
+(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
 
 (4) A kibocsátónak az egyes pénzügyi évek végét követő legkésőbb négy hónapon belül közzé kell tennie az éves jelentését. A helyi önkormányzatnak az éves jelentést a jogszabályban előírt határidőben kell nyilvánosságra hoznia.
 
@@ -770,9 +766,9 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (3) A kibocsátó köteles megküldeni a szabályozott információt a hivatalosan kijelölt információtárolási rendszer számára, amely megfelel a biztonsággal, az információforrás bizonyosságával, az időpont rögzítésével és a végfelhasználók általi egyszerű hozzáféréssel kapcsolatos minimális minőségi előírásoknak, és azok összhangban vannak az elektronikus irattározási eljárással.
 
-(4) A kibocsátó a szabályozott információt egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni. A rendszeres és rendkívüli tájékoztatás körébe tartozó információkat a Felügyelet közzéteszi a hivatalosan kijelölt információtárolási rendszeren.
+(4) A kibocsátó a szabályozott információt egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni. A rendszeres és a rendkívüli tájékoztatás körébe tartozó információk hivatalos információtárolási rendszeren történő közzétételét a Felügyelet biztosítja.
 
-(5) Az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat a miniszter rendeletben állapítja meg.
+(5)
 
 57. § (1) A szabályozott információk nyilvánosságra hozatalának elmaradásával, illetve félrevezető tartalmával okozott kár megtérítéséért a kibocsátó felel.
 
@@ -791,7 +787,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (4) A 61. § szerinti információ egy, a nemzetközi pénzügyi piacokon általában használt nyelven is bejelenthető, illetve közzétehető.
 
-(5) Az egy vagy több tagállamban nyilvánosan forgalomba hozott, ötvenezer euró, illetve a kibocsátás napján az annak megfelelő névértékű hitelviszonyt megtestesítő értékpapírokra vonatkozó szabályozott információkat vagy a Felügyelet és a fogadó tagállam felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni a kibocsátó választása alapján.
+(5) Az egy vagy több tagállamban nyilvánosan forgalomba hozott, százezer euró, illetve a kibocsátás napján az annak megfelelő névértékű hitelviszonyt megtestesítő értékpapírokra vonatkozó szabályozott információkat vagy a Felügyelet és a fogadó tagállam felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni a kibocsátó választása alapján.
 
 (6) Ha a szabályozott információk tartalmával kapcsolatban bíróság vagy választottbíróság előtt keresetindításra kerül sor, a fordítás költségeinek viselésére az adott tagállam jogszabályai alapján kerül sor.
 
@@ -972,6 +968,8 @@ kell figyelembe venni.
 
 (4) Összehangoltan eljáró személyeknek minősülnek – tekintet nélkül a célzatra – a csoport [5. § (1) bekezdés 27. pont] tagjai.
 
+(5) A csoport tagja a nyilvánosan működő részvénytársaságban való befolyásszerzését – tekintet nélkül annak mértékére – az anyavállalat részére haladéktalanul, de legkésőbb a befolyásszerzéstől számított két napon belül köteles bejelenteni. Az anyavállalat haladéktalanul, de legkésőbb két napon belül értesíti a csoport azon tagjait, amelyek a 68. § (2) bekezdés d) pontja alapján nyilvános vételi ajánlatot kötelesek tenni.
+
 ### Hatáskörrel rendelkező felügyeletés az alkalmazandó jog
 
 66. § (1) Ha a céltársaság részvényei több tagállam szabályozott piacára be vannak vezetve, a vételi ajánlat felügyeletét azon tagállam felügyeleti hatósága látja el, amely területén működő szabályozott piacra a társaság részvényeit legkorábban vezették be.
@@ -1106,7 +1104,7 @@ közül a legmagasabb összeg.
 
 (5) Saját tőkeként
 
-- a) a legutolsó, könyvvizsgáló által hitelesített éves beszámolóban, vagy
+- a) a legutolsó, közgyűlés által jóváhagyott, könyvvizsgáló által hitelesített éves beszámolóban, vagy
 - b) ha a céltársaság nem készített még könyvvizsgáló által hitelesített éves beszámolót, akkor a Felügyelet részére benyújtott éves vagy féléves gyorsjelentésben
 
 szereplő értéket kell figyelembe venni azzal, hogy ha a céltársaság a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor saját tőkén a konszolidált saját tőke értendő.
@@ -2006,7 +2004,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (6) A kibocsátó a 201/B. § (3) bekezdése alapján hozzá érkezett bejelentést haladéktalanul, de legkésőbb két naptári napon belül köteles közzétenni az 56. §. szerint.
 
-201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a 378. § i) pontjában foglalt feladatának ellátása érdekében a nyilvántartást vezető személy köteles átadni.
+201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a nyilvántartást vezető személy köteles átadni.
 
 (2) Amennyiben az (1) bekezdésben meghatározott nyilvántartás vezetésére kötelezett személy más javára vagy nevében eljárva több kibocsátóra vonatkozóan fér hozzá bennfentes információhoz, a nyilvántartást kibocsátónként elkülönítve köteles vezetni.
 
@@ -2311,7 +2309,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (4)
 
-214. § (1) Az Alap a tagok nyilvántartása céljából indokolt mértékben adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet és az MNB az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
+214. § (1) Az Alap a tevékenysége ellátásához szükséges adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet és az MNB az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
 
 (2) Az Alap a kártalanításra jogosult befektetőtől kapott megbízás alapján elláthatja a befektető képviseletét az egyezségi tárgyaláson, illetve felszámolási eljárás során.
 
@@ -2474,6 +2472,8 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 (2) Az (1) bekezdés a) pontjában írott kivétellel az Alap szabályzata a tagjaira nem írhat elő kötelezettséget. A szabályzat az Alap egyes tagjaira vonatkozóan nem sértheti az egyenlő bánásmód követelményét, és nem veszélyeztetheti az Alap biztonságos kezelését.
 
 (3) Az Alap a szabályzatait és az igazgatóság nyilvánossá minősített határozatait a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. Az (1) bekezdés d) pontjában meghatározott szabályzat közzétételétől az Alap eltekinthet.
+
+(4) Az Alap igazgatósága a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj kockázatarányos módosításának szabályozásával kapcsolatban véleményt kér a Felügyelettől és az MNB-től.
 
 ### Az Alap forrásai
 
@@ -4246,14 +4246,13 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 - l) a kibocsátó neve, székhelye;
 - m) a kibocsátó alapításának időpontja;
 - n) a kibocsátó jegyzett tőkéjének nagysága;
-- o) a kibocsátó vezető állású személyeinek neve, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
-- p) a kibocsátó tulajdonosainak neve (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
+- o) a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+- p) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
 - q) a forgalomba hozatal adatai;
-- r) a bennfentes személyek azonosító adatai;
-- s) a nyilvánosan működő részvénytársaság tulajdonosainak a 67. §-ban szabályozott, a befolyásszerzéshez kapcsolódó bejelentési kötelezettség alapján tudomására jutott adatai;
+- r) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
+- s) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 - t)
-- u) a minősített befektetőnek minősített természetes személy személyazonosító adatai;
-- v) a minősített befektetőnek minősített kis- és középvállalkozás neve, székhelye;
+- u)–v)
 - x) az engedélyezett tájékoztató;
 - y) a közzétételre kötelezett által megjelölt közzétételi hely.
 
@@ -4291,7 +4290,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 - i) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozással szoros kapcsolatban álló személy adatait;
 - j) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy adatait;
 - k) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek;
-- l) a minősített befektetőnek nyilvánított természetes személy természetes személyazonosító adatait;
+- l)
 - m) a piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó, az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával kapcsolatos személyes adatot (családi és utónév, születési név, lakóhely, tartózkodási hely), ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges. Az adat megismeréséhez az ügyész előzetes jóváhagyása szükséges. A jóváhagyást az ügyész abban az esetben tagadja meg, ha a Felügyelet nem valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges vagy az adatkezelés egyéb törvényi feltételei nem állnak fenn.
 
 (2) Az (1) bekezdés, a 391. § (1) bekezdésének u) pontja, valamint a 391. § (2) bekezdése vonatkozásában a Felügyelet az érintett természetes személyazonosító adatait, állampolgárságát és lakcímét, tartózkodási helyét, valamint az engedélyezési és ellenőrzési célú adatkezelés során a befektetés, tulajdoni részesedés, szakképzettség, szakmai gyakorlat, választott tisztség, beosztás, munkaviszony, büntetlenség és a 357. §-ban meghatározott kizáró okok megállapításához szükséges adatokat kezeli.
@@ -4562,7 +4561,9 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 96. §-ával megállapított VI/A. Fejezetnek megfelelően a szabályozott piacra bevezetett részvény kibocsátója legkésőbb a következő éves beszámolót elfogadó közgyűlésen módosítja alapszabályát úgy, hogy az megfeleljen a módosított rendelkezéseknek.
 
-409–411. §
+409. § A 14. § (1) bekezdés c)–d) pontjában, a 21. § (2) bekezdés c) pont ca) alpontjában, a 26. § (5) bekezdésében, a 45. § (2) bekezdés b) pontjában és az 54. § (3) bekezdésében előírt rendelkezéseknek való megfelelést 2013. január 1-től kell biztosítani.
+
+410–411. §
 
 412. § (1)–(3)
 
@@ -4697,7 +4698,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - a)
 - b)
 - c)
-- d) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
+- d)
 - e) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség részletes szabályait;
 - f) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre vonatkozó részletes szabályokat,
 - g)
@@ -5137,6 +5138,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 23.
 - 24. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 - 25. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- 26. Az Európai Parlament és a Tanács 2010. november 24-i 2010/73/EU irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK és a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv módosításáról.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
 
