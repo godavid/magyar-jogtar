@@ -4,9 +4,7 @@ a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakói
 
 1–2. §
 
-3. § A Tv. 4. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A Magyar Állam a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezességgel biztosított kölcsönrészéhez kapcsolódó gyűjtőszámlahitelből eredő tartozás arányos fedezetének megteremtése érdekében készfizető kezességet vállal a gyűjtőszámlahitelre. E kezességvállalás mértéke – a devizakölcsön fedezeteként ténylegesen érvényesített kezességgel együttesen – nem haladhatja meg a devizakölcsön-szerződés megkötésekor a Magyar Államot eredetileg terhelő legmagasabb összeget. E korlátozott készfizető kezesség egyéb feltételei megegyeznek a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a és a végrehajtására kiadott jogszabály alapján vállalt kezességgel azzal, hogy a devizakölcsönre és a hozzá kapcsolódó gyűjtőszámlahitelre vonatkozó állami kezességvállalásból eredő hitelezői igények a Magyar Állammal szemben csak egyidejűleg érvényesíthetőek.”
+3. §
 
 4. §
 
