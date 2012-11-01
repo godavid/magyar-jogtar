@@ -5447,7 +5447,7 @@ Nem minősül versengő szolgáltatásnak a kézizálog fedezete mellett nyújto
 
 20. Ügyfélcsoport (kapcsolatban álló ügyfelek csoportja): két vagy több ügyfél, akikkel szemben a hitelintézet (vagy azon vállalkozás, amelyre az összevont alapú felügyelet kiterjed) kockázatot vállalt és ez egyetlen kockázatnak minősül, mert
 
-a) az egyik ügyfél közvetve vagy közvetlenül az Szmt. 3. § (2) bekezdésének 1. pontja szerinti meghatározó befolyást gyakorol a csoport másik tagja felett,
+a) az egyik ügyfél közvetve vagy közvetlenül az Szmt. 3. § (2) bekezdésének 1. pontja szerinti meghatározó befolyást, vagy az összevont alapú, valamint a kiegészítő felügyelethez kapcsolódó fogalommeghatározások szerinti ellenőrző befolyást gyakorol a csoport másik tagja felett,
 
 b) az ügyfelek olyan kapcsolatban állnak egymással, hogy ha az egyiknél pénzügyi – különösen finanszírozási vagy visszafizetési – problémák merülnek fel, valószínűsíthető, hogy a másik is finanszírozási vagy visszafizetési nehézségekkel kénytelen számolni; ilyen kapcsolatnak számít különösen a
 
