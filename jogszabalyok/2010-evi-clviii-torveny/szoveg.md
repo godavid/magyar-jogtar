@@ -95,6 +95,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (6) A Felügyelet látja el a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvényben meghatározott feladatkörében az 583/2010/EU bizottsági rendelet, valamint az 584/2010/EU bizottsági rendelet végrehajtását.
 
+(7) A short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet (2012. március 14.) (a továbbiakban: a 236/2012/EU európai parlamenti és tanácsi rendelet) 32. cikke szerinti illetékes hatóságként a Felügyelet látja el a 236/2012/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
 7. § A Felügyelet feladata
 
 - a) engedélykérelmek és más beadványok elbírálása,
@@ -104,7 +106,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - e) ha törvény eltérően nem rendelkezik, eljárás a d) pontban foglaltak megsértése esetén, és ennek során intézkedések alkalmazása, kivételes intézkedések alkalmazása, bírság kiszabása,
 - f) a 4. §-ban meghatározott törvények hatálya alá tartozó személyektől és szervezetektől származó információk és adatok, továbbá a hivatalosan ismert és a köztudomású tények alapján a pénzügyi piacok folyamatos felügyelete,
 - g) az Országos Betétbiztosítási Alap igazgatótanácsa működésének, döntései előkészítésének és végrehajtásának segítése,
-- h) bennfentes kereskedelem, piacbefolyásolás, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja és a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
+- h) bennfentes kereskedelem, piacbefolyásolás, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén, a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése esetén, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
 - i) külföldi pénzügyi hatóságokkal, különösen az Európai Gazdasági Térség államaiban pénzügyi felügyeleti hatóságokkal való együttműködés,
 - j) feladatkörében a nyilvánosságra hozatali és az Európai Bizottság felé fennálló bejelentési kötelezettségek teljesítése,
 - k) a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettség teljesítése, valamint a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az Európai Gazdasági Térség államaiban pénzügyi hatósági feladatokat ellátó hatóságokkal való együttműködés,
@@ -887,7 +889,13 @@ végez.
 
 ### Piacfelügyeleti eljárás
 
-75. § (1) Felügyeleti engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, központi értéktári, elszámolóházi, önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári, viszontbiztosítási, biztosítási, biztosítási szaktanácsadói, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység, illetve bennfentes kereskedelem vagy piacbefolyásolás észlelése esetén, továbbá a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok, valamint a vállalatfelvásárlásra vonatkozó szabályok (a továbbiakban: piacfelügyeleti rendelkezések) ellenőrzése céljából a Felügyelet ellenőrzési eljárást indít (a továbbiakban együtt: piacfelügyeleti eljárás).
+75. § (1) A Felügyelet eljárást indít (a továbbiakban: piacfelügyeleti eljárás)
+
+- a) felügyeleti engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, központi értéktári, elszámolóházi, önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári, viszontbiztosítási, biztosítási, biztosítási szaktanácsadói, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység észlelése esetén,
+- b) bennfentes kereskedelem vagy piacbefolyásolás észlelése esetén,
+- c) bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából,
+- d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
+- e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából.
 
 (2) Az engedély nélküli vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló eljárásban, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során az ügyintézési határidő az eljárás hivatalból történő megindításának napjától számított hat hónap. Az ügyintézési határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
@@ -905,10 +913,13 @@ végez.
 - b) az ellenőrzést lezáró, de intézkedést nem tartalmazó határozat jogerőre emelkedéséig, intézkedést elrendelő határozat végrehajtásáig, vagy a végrehajthatóság elévüléséig,
 - c) ha a Felügyelet döntésének bírósági felülvizsgálatát kérték vagy a Felügyelet büntetőeljárást kezdeményez, akkor – ha rendkívüli jogorvoslattal nem éltek – a bírósági eljárás jogerős befejezéséig kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon belül megsemmisíti.
 
-76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
+76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, a bennfentes kereskedelem, a piacbefolyásolás megállapítására, a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére és a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében meghatározott bejelentési és közzétételi kötelezettségre és 12–14. cikkében meghatározott fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
 
-- a) az értékpapír-, ügyfél- és fizetési számla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával, valamint
-- b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával kapcsolatos személyes adat (családi és utónév, születési név, lakóhely, tartózkodási hely) megismerésére és kezelésére.
+- a) az értékpapír-, ügyfél- és fizetésiszámla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos,
+- b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával kapcsolatos,
+- c) az eljárás alá vont ügyfél fizetési számlája és értékpapírszámlája forgalma alapján megismert, a piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges
+
+családi és utónév, születési név és lakcím megismerésére és kezelésére.
 
 (2) Az (1) bekezdésben meghatározott adat igénylésekor a Felügyelet köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
 
@@ -939,25 +950,34 @@ a Felügyelet piacfelügyeleti eljárásban hozott döntését postai szolgálta
 - b) hatósági intézkedést, kivételes intézkedést alkalmaz, illetve
 - c) piacfelügyeleti bírságot szab ki.
 
-(3) A piacfelügyeleti eljárásban hozott határozatának végrehajtása érdekében a Felügyelet biztosítási intézkedést rendel el a Ket.-ben meghatározotton túl abban az esetben is, ha úgy ítéli meg, hogy a piacfelügyeleti bírság behajthatóságának biztosítása vagy a jogosulatlanul tevékenységet végző személy vagy szervezet ügyfelei érdekeinek megóvása ezt indokolja.
+(3) A Felügyelet
 
-(4) Piacfelügyeleti eljárás során
+- a) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség megsértése esetén a közzétételi kötelezettségének teljesítését elmulasztó személyt vagy szervezetet az elmulasztott közzététel pótlására kötelezi,
+- b) a 236/2012/EU európai parlamenti és tanácsi rendelet 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok megsértése esetén az ügyletkötési korlátozást megsértő személyt vagy szervezetet az ügyletkötési feltételeknek való megfelelésre szólítja fel, és
+- c) az a)–b) pontban foglalt esetekben piacfelügyeleti bírságot szab ki.
+
+(4) A Felügyelet piacfelügyeleti eljárásban ideiglenes biztosítási intézkedést rendelhet el abban az esetben is, ha úgy ítéli meg, hogy a jogosulatlanul tevékenységet végző személy vagy szervezet ügyfelei érdekeinek megóvása ezt indokolja. A Felügyelet piacfelügyeleti eljárásban hozott döntésének végrehajtása érdekében biztosítási intézkedést rendel el a Ket.-ben meghatározotton túl abban az esetben is, ha úgy ítéli meg, hogy a piacfelügyeleti bírság behajthatóságának biztosítása vagy a jogosulatlanul tevékenységet végző személy vagy szervezet ügyfelei érdekeinek megóvása ezt indokolja.
+
+(5) Piacfelügyeleti eljárás során
 
 - a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a piacfelügyeleti bírság összege százezer forinttól ötszázmillió forintig,
-- b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig
-- c) a bennfentes személyre vonatkozó bejelentési kötelezettség megsértése esetén a bírság összege százezer forinttól ötmillió forintig terjedhet.
+- b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig,
+- c) a bennfentes személyre vonatkozó bejelentési kötelezettség megsértése esetén a bírság összege százezer forinttól ötmillió forintig,
+- d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig
 
-(5) A kiszabható piacfelügyeleti bírság felső határa a (4) bekezdés b) pontjától eltérően az elért árfolyamnyereség, illetőleg elkerült árfolyamveszteség négyszáz százaléka, amennyiben az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint a (4) bekezdés b) pontjában meghatározott bírságtétel felső határa.
+terjedhet.
 
-(6) Ha a Felügyelet a piacfelügyeleti rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az eljárásra a 75–76. §-t is megfelelően alkalmazni kell.
+(6) A kiszabható piacfelügyeleti bírság felső határa az (5) bekezdés b) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (5) bekezdés b) pontjában meghatározott bírságtétel felső határa.
 
-(7) Ha a Felügyelet a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(5) bekezdésekben meghatározott intézkedéseket alkalmazhatja.
+(7) Ha a Felügyelet a piacfelügyeleti rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az eljárásra a 75–76. §-t is alkalmazni kell.
 
-(8) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 61. § (1) bekezdés a)–c) pontjaiban meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, a Felügyelet valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 61–62. §-okban meghatározottakon kívül kiterjed az (1)–(5) bekezdésekben foglalt intézkedésekre is.
+(8) Ha a Felügyelet a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(6) bekezdésekben meghatározott intézkedéseket alkalmazhatja.
 
-(9) Ha a Felügyelet a 4. §-ban meghatározott szervezetekre és személyekre vonatkozó jogszabályi rendelkezések, vagy a felügyelet által hozott határozatban, vagy a 4. §-ban meghatározott szervezetek és személyek belső szabályzatában foglaltak megsértését piacfelügyeleti eljárás során észleli, akkor e rendelkezések megsértése miatt a 61. §-ban meghatározott intézkedéseket alkalmazhatja.
+(9) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 61. § (1) bekezdés a)–c) pontjában meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, a Felügyelet valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 61–62. §-okban meghatározottakon kívül kiterjed az (1)–(6) bekezdésekben foglalt intézkedésekre is.
 
-(10) A piacfelügyeleti eljárás során az ellenőrzési eljárás szabályai – az 54. § (1) és (3)–(8) bekezdései, az 55. §, az 57. § és a 62. § kivételével – megfelelően alkalmazandóak.
+(10) Ha a Felügyelet a 4. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre vonatkozó jogszabályi rendelkezések vagy a felügyelet által hozott határozatban vagy a 4. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek belső szabályzatában foglaltak megsértését piacfelügyeleti eljárás során észleli, akkor e rendelkezések megsértése miatt a 61. §-ban meghatározott intézkedéseket alkalmazhatja.
+
+(11) A piacfelügyeleti eljárás során a Ket. 29. § (4) bekezdését és 70. §-át, valamint az e törvény szerinti ellenőrzési eljárás szabályait az 54. § (1) és (3)–(8) bekezdése, az 55. §, az 57–57/C. § és a 62. § kivételével alkalmazni kell.
 
 ### V. Fejezet — A PÉNZÜGYI BÉKÉLTETŐ TESTÜLET
 
