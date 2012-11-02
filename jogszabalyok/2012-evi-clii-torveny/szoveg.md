@@ -2,67 +2,13 @@
 
 a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról
 
-#### 1. §
-
-#### 2. §
-
-#### 3. §
-
-#### 4. §
-
-#### 5. §
-
-#### 6. §
-
-#### 7. §
-
-#### 8. §
-
-#### 9. §
-
-#### 10. §
-
-#### 11. §
-
-#### 12. §
-
-#### 13. §
-
-#### 14. §
-
-#### 15. §
-
-#### 16. §
-
-#### 17. §
-
-#### 18. §
-
-#### 19. §
-
-#### 20. §
-
-#### 21. §
-
-#### 22. §
-
-#### 23. §
-
-#### 24. §
-
-#### 25. §
-
-#### 26. §
-
-#### 27. §
-
-28. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az e törvény alapján a megyei intézményfenntartó központok fenntartásából a települési önkormányzatok fenntartásába kerülő intézmények átadás-átvételi eljárására, valamint a feladat ellátásához szükséges vagyon átadására vonatkozó szabályokat.
+1–28. §
 
 29. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
 (2) Az 1–28. § és a 31–33. § 2013. január 1-jén lép hatályba.
 
-30. § (1) A 2012. január 1-jén állami tulajdonba és fenntartásba került megyei könyvtárak 2013. január 1-jétől a feladat ellátásához rendelkezésre álló személyi, tárgyi és pénzügyi feltételek egyidejű átadásával a megyeszékhely megyei jogú városok – Pest megyében Szentendre Város Önkormányzata – fenntartásába és a feladat ellátását közvetlenül szolgáló, ahhoz szükséges ingó vagyontárgyak – beleértve az állomány nyilvántartásban szereplő könyvtári dokumentumokat is – térítésmentesen a fenntartó önkormányzat tulajdonába kerülnek.
+30. § (1) A 2012. január 1-jén állami tulajdonba és fenntartásba került megyei könyvtárak 2013. január 1-jétől a feladat ellátásához rendelkezésre álló személyi, tárgyi és pénzügyi feltételek egyidejű átadásával a megyeszékhely megyei jogú városok – Pest megyében Szentendre Város Önkormányzata – fenntartásába és a feladat ellátását közvetlenül szolgáló, ahhoz szükséges ingó vagyontárgyak – beleértve az állomány nyilvántartásban szereplő könyvtári dokumentumokat is – térítésmentesen a fenntartó önkormányzat tulajdonába kerülnek. A tulajdonváltozásra vonatkozó szerződést a magyar állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg.
 
 (2) A 2012. január 1-jén állami tulajdonba és fenntartásba került megyeszékhely megyei jogú városok területén lévő megyei múzeumok, valamint azok megyeszékhely megyei jogú városok területén lévő tagintézményei 2013. január 1-jétől a feladat ellátásához rendelkezésre álló személyi, tárgyi és pénzügyi feltételek egyidejű átadásával a megyeszékhely megyei jogú városok – Pest megyében Szentendre Város Önkormányzata, Komárom-Esztergom megyében Tata Város Önkormányzata – fenntartásába kerülnek.
 
@@ -76,10 +22,32 @@ a muzeális intézményekről, a nyilvános könyvtári ellátásról és a köz
 
 (7) Az (1)–(6) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
 
-31. § A 11. § és a 21. § az Európai Bizottság N 357/2007. számú határozatának (HL C 87, 2008.4.8. 1. o.) hatálya alá tartozó támogatást tartalmaz.
-
-#### 32. §
-
-#### 33. §
+31–33. §
 
 ### 1. melléklet a 2012. évi CLII. törvényhez
+
+„3. számú melléklet az 1997. évi CXL. törvényhez
+
+Országos szakkönyvtár:
+
+a) a Budapesti Műszaki Egyetem Országos Műszaki Információs Központ és Könyvtár,
+
+b) az Országos Egészségpolitikai Szakkönyvtár,
+
+c) a Magyar Tudományos Akadémia Könyvtára,
+
+d) az Országos Mezőgazdasági Könyvtár és Dokumentációs Központ,
+
+e) az Országgyűlési Könyvtár,
+
+f) az Országos Idegen nyelvű Könyvtár,
+
+g) az Oktatáskutató és Fejlesztő Intézet Pedagógiai Könyvtár és Múzeum,
+
+h) a Fővárosi Szabó Ervin Könyvtár,
+
+i) a Központi Statisztikai Hivatal Könyvtár,
+
+j) a Magyar Nemzeti Digitális Archívum és Filmintézet Könyvtára,
+
+k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár.”
