@@ -6,15 +6,7 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 1–8. §
 
-9. § A Kkt. a következő 14/A. §-sal egészül ki:
-
-„14/A. § (1) A gyorsforgalmi közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
-
-(2) A jármű elszállítása során a járműhasználat akadályoztatása folytán a keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
-
-(3) Amennyiben az üzemben tartó a jármű eltávolításáról előzetesen nem értesíthető, a közút kezelője a járművet elszállíthatja vagy elszállíttathatja. Az üzemben tartót a jármű eltávolításáról és a tárolás helyéről ilyen esetben utólag értesíteni kell.
-
-(4) Az üzemben tartó a közútkezelő utólagos értesítése alapján köteles a járművet az elszállítás és a tárolás igazolt költségeinek megtérítését követően elszállítani. Amennyiben az üzemben tartó ezen kötelezettségének a közútkezelő második értesítését követő 180 napon belül sem tesz eleget, vagy az üzemben tartó 180 napon belül nem állapítható meg, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Amennyiben az elszállított jármű tulajdonosa az értékesítést, vagy más módon történő hasznosítást követő 60 napon belül jelentkezik, részére az értékesítésből, vagy a más módon történő hasznosításból befolyt, a szállítással, a tárolással, és az értékesítéssel kapcsolatban felmerült igazolt költségekkel csökkentett ellenértéket ki kell fizetni.
+9. §
 
 10–12. §
 
@@ -52,15 +44,7 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 35. § (1)–(7)
 
-(8) A Kkt. 48. § (3) bekezdés b) pontja a következő 37. alponttal egészül ki:
-
-[Felhatalmazást kap
-
-b) a miniszter, hogy]
-
-„37. a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályait”
-
-(rendeletben állapítsa meg.)
+(8)
 
 36. § (1)
 
