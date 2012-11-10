@@ -13,7 +13,10 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - a) az állam tulajdonában lévő dolog, valamint a dolog módjára hasznosítható természeti erő,
 - b) az a) pont hatálya alá nem tartozó mindazon vagyon, amely vonatkozásában törvény az állam kizárólagos tulajdonjogát nevesíti,
 - c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
-- d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít.
+- d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
+- e) az állam tulajdonában lévő pénzügyi eszközök.
+
+(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a 35. § (2a) bekezdés tekintetében terjed ki.
 
 (3) Külön törvény rendelkezik:
 
@@ -404,6 +407,8 @@ lehet végezni.
 - l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
 - m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
 - n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
+
+(2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
 
