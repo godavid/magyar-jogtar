@@ -14,6 +14,10 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (4) Kamarai tagság nélkül végezhetnek mérnöki, illetve építészeti tevékenységet azok a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező személyek, akik szakmájukat – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire figyelemmel – határon átnyúló szolgáltatásnyújtás keretében kívánják gyakorolni. Ezen személyekre e törvény etikai-fegyelmi rendelkezéseit a 34. §-ban meghatározott eltéréssel kell alkalmazni.
 
+(5) Ha az épített környezet alakításáról és védelméről szóló törvény szerinti szakmagyakorlási tevékenységet, valamint az (1) bekezdésben megjelölt mérnöki, illetve építészeti tevékenységet cég vagy egyéni vállalkozó (a továbbiakban együtt: vállalkozás) főtevékenységként folytatja, akkor – a főtevékenységnek cég esetén a cégjegyzékbe való bejegyzését, az egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásában történő rögzítését követő öt munkanapon belül – köteles a tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény rendelkezései szerint bejelenteni a székhelye szerint illetékes területi kamarának. A területi kamara a vállalkozást nyilvántartásba veszi.
+
+(6) Kamarai tagság nélkül végezhetnek mérnöki, illetve építészeti tevékenységet a 39. § (6) bekezdésben meghatározott személyek az ott megjelölt időtartam alatt.
+
 2. § (1) A megyékben (több megyére kiterjedően vagy megyénként) és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki, illetve építész kamarák (a továbbiakban együtt: területi kamara) nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetők.
 
 (2) A területi kamarák az e törvényben szabályozott módon hozzák létre az országos mérnöki kamarát (Magyar Mérnöki Kamarák), illetve az országos építész kamarát (Magyar Építész Kamara) (a továbbiakban együtt: országos kamarák). Az országos kamarák országos feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetők .
@@ -31,10 +35,10 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 3. § (1) A területi kamara az 1. § (1) bekezdésében meghatározott mérnöki, illetve építészeti tevékenység jogszerűségének biztosítása és szakmai színvonalának javítása érdekében az alábbi közfeladatokat látja el:
 
 - a) névjegyzéket vezető szervként az adott tevékenység folytatására való jogosultságot szabályozó kormányrendeletben meghatározottak szerint első fokon engedélyezi a mérnöki, illetve építészeti tevékenység, valamint külön törvény vagy kormányrendelet alapján az egyéb szakmagyakorlási tevékenység folytatását, és vezeti az e tevékenységek folytatására jogosultak névjegyzékét,
-- b) figyelemmel kíséri, hogy az a) pont szerinti tevékenységet csak az arra jogosultak végezzék, ennek keretében érdekeltsége területén
-  - ba) a tervező jogosultságának megállapítása céljából: – az építési engedélyek nyilvántartásába betekinthet, – az építésügyi- és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat, – az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá – az építésügyi-, illetve az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
+- b) ellenőrzi, hogy az a) pont szerinti tevékenységet – az összeférhetetlenségi előírásokat is figyelembe véve – csak az arra jogosultak végezzék, ennek keretében illetékességi területén
+  - ba) a tervező jogosultságának megállapítása céljából az építési engedélyek nyilvántartásába betekinthet, az építésügyi és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat, az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá az építésügyi, és az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
   - bb) az illetékes hatóságtól tájékoztatást kérhet,
-  - bc) szükség esetén az intézkedésre jogosult hatóságnál eljárást kezdeményezhet;
+  - bc) szükség esetén az intézkedésre jogosult hatóságnál eljárást kezdeményez,
 - c) ellenőrzi, hogy tagjainak tevékenysége és annak minősége megfelel-e a vonatkozó jogszabályoknak, hatósági előírásoknak és a szakmai követelményeknek, szükség esetén saját hatáskörben eljár, vagy az intézkedésre jogosult hatóságnál eljárást kezdeményez,
 - d) kivizsgálja a tagjait és az 1. § (4) bekezdése szerinti szakmagyakorlókat érintő szakmai és etikai panaszokat, eljár ezen panaszok okának mielőbbi megszüntetésében,
 - e) együttműködik az a) pont szerinti tevékenységet érintő kérdésekben az illetékes hatóságokkal, valamint a helyi önkormányzati szervekkel,
@@ -81,7 +85,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - a) e törvény keretei között a területi alapszabály elfogadása, módosítása;
 - b) a területi kamarák egyesüléséről, szétválásáról szóló döntés;
 - c) a területi kamara elnökének – ha a taglétszám indokolja: alelnökének –, elnökségének és a bizottságok tagjainak, valamint póttagjainak megválasztása;
-- d) az országos kamara küldöttgyűlésébe az országos alapszabályban meghatározott számú tag után egy-egy küldött, valamint pótküldöttek megválasztása;
+- d) az országos kamara küldöttgyűlésébe a választási év kezdő időpontja szerinti taglétszám alapján – a ciklus közbeni taglétszám változásától függetlenül a választási ciklusra érvényesen – az országos alapszabályban meghatározott számú tag után egy-egy küldött, valamint a pótküldöttek megválasztása;
 - e) a területi kamara éves tevékenységének, költségvetési tervének és éves költségvetési beszámolójának, valamint a területi ügyintéző szervek éves tevékenységéről készített beszámolóknak az elfogadása.
 
 (2) Törvény és az alapszabály az (1) bekezdésben meghatározottakon túl más feladat meghatározását is a taggyűlés hatáskörébe utalhatja.
@@ -159,6 +163,8 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (6) A területi kamarák egyesülése, illetve szétválása nem érinti tagjaik jogait és kötelességeit.
 
+(7) Két vagy több területi kamara az alapszabályukban szabályozottan egyesülés nélkül is létrehozhat közös etikai-fegyelmi bizottságot. A közös etikai-fegyelmi bizottságba az együttműködő kamarák csak egyenlő arányban választhatnak tagot.
+
 ### III. Fejezet — Az országos kamara
 
 11. § (1) Az országos kamarák országos feladat- és hatáskörrel rendelkező köztestületek.
@@ -211,11 +217,12 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - b) az országos elnökség,
 - c) az országos felügyelő bizottság,
 - d) az országos etikai-fegyelmi bizottság,
-- e) az országos alapszabály szerint létrehozott szakmai tagozatok,
-- f) az országos alapszabály szerint létrehozott más állandó bizottságok,
-- g) országos titkárság.
+- e) az országos alapszabály szerint létrehozott más állandó bizottságok,
+- f) az országos titkárság,
+- g) az országos alapszabály szerint létrehozott szakmai tagozatok, valamint
+- h) az országos alapszabály szerint létrehozott szakmai kollégiumok.
 
-(2) Az országos kamara legfelsőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–e) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
+(2) Az országos kamara legfelsőbb szerve a küldöttgyűlés. Az (1) bekezdés b)–f) pontjaiban meghatározott szervek az országos kamara ügyintéző, illetve ellenőrző szervei (a továbbiakban együtt: országos ügyintéző szervek).
 
 (3) Az országos kamara tisztségviselői: az elnök, az alelnök(ök), az elnökség tagjai, a főtitkár, az országos felügyelőbizottság elnöke, valamint az országos etikai-fegyelmi bizottság elnöke.
 
@@ -229,8 +236,8 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 - a) az országos alapszabály megállapítása, módosítása,
 - b) az országos kamara tisztségviselőinek – a főtitkár kivételével – és a bizottságok tagjainak megválasztása,
-- c) az éves költségvetési terv – ennek részeként az éves tagdíj rendszerének és összegének megállapítása és ebből az országos kamara részesedési arányának – meghatározása, továbbá az éves költségvetési beszámoló elfogadása,
-- d) az etikai-fegyelmi, valamint más országos – önkormányzati – szabályzat elfogadása,
+- c) az éves költségvetési terv meghatározása, ennek részeként az éves tagdíj rendszerének és összegének megállapítása, beleértve a területi kamarák által az országos kamarának fizetendő tagdíjrészesedést is, a kamarai tagsághoz nem kötött jogosultak éves, költségekkel arányos névjegyzéki nyilvántartási díjának megállapítása, továbbá az éves költségvetési beszámoló elfogadása,
+- d) az etikai-fegyelmi, a továbbképzési, valamint más országos – szakmai önkormányzati – szabályzat elfogadása,
 - e) az országos ügyintéző szervek beszámolóinak elfogadása.
 
 (2) Az országos alapszabály – e törvény keretei között – a küldöttgyűlés részére más kizárólagos hatáskört is megállapíthat.
@@ -292,9 +299,9 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) A szakmai tagozat működését és feladatait érintő alapszabály-módosítás előtt ki kell kérni a szakmai tagozat véleményét.
 
-(4) A szakmai tagozatok véleményezési és – saját szakmai területüket illető ügyekben – egyetértési joggal rendelkeznek, amely a kamarai állásfoglalások előkészítése során az érintett szakmai tagozattól nem vonható el, véleményüket a kamara állásfoglalásában képviselni köteles.
+(4) a szakmai tagozatok a saját szakmai területüket illető ügyekben véleményezési joggal rendelkeznek, amely a kamarai állásfoglalások előkészítése során az érintett szakmai tagozattól nem vonható el.
 
-(5) Több érintett szakmai tagozat eltérő véleménye esetén az országos kamara elnöke vagy az általa kijelölt tisztségviselők a tagozatokkal történt egyeztetés és egyetértésük alapján alakítják ki a kamara állásfoglalását.
+(5) Több érintett szakmai tagozat eltérő véleménye esetén az országos kamara elnöke vagy az általa kijelölt tisztségviselők a tagozatokkal történt egyeztetés alapján alakítják ki a kamara állásfoglalását.
 
 (6) Az országos kamara szakmai állásfoglalásától a területi kamarák és a szakmai tagozatok nem térhetnek el.
 
@@ -324,10 +331,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) A kamarai tag tisztségviselőként azonos kamarai szervezeten belül egy tisztséget tölthet be.
 
-(4) Nem lehet
-
-- a) a területi kamara elnöke, alelnöke, etikai-fegyelmi bizottságának elnöke, titkára az, aki a területi kamara illetékességi területén építésügyi vagy építésfelügyeleti hatósági feladatot ellátó köztisztviselő, ideértve a sajátos építményfajták szerinti hatóságokat is,
-- b) az országos kamara tisztségviselője az, aki az építésügy irányításáért felelős központi közigazgatási szerv ügyintéző vagy vezető köztisztviselője.
+(4) Nem lehet az országos kamara tisztségviselője, bizottságának elnöke, szakmai tagozatának, szakmai kollégiumának vezetője, továbbá a területi kamara tisztségviselője, bizottságának elnöke az, aki az építésügy irányításáért felelős központi közigazgatási szerv kormánytisztviselője, vagy a területi kamara illetékességi területén építésügyi, építésfelügyeleti hatósági vagy főépítészi feladatot ellátó köztisztviselő, kormánytisztviselő.
 
 (5) A (4) bekezdés szerinti összeférhetetlenséget a megválasztástól számított 60 napon belül meg kell szüntetni. Ha a határidőn belül a megválasztott tisztségviselő az összeférhetetlenséget nem szünteti meg, a kamarai tisztségviselői megbízatása megszűnik. A megválasztott tisztségviselő az összeférhetetlenség fennállása alatt a kamarai tisztségével kapcsolatos feladatait nem láthatja el.
 
@@ -349,10 +353,11 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 23. § (1) A kamara a működésével járó költségeket a következő bevételekből fedezi:
 
-- a) a tagdíjakból,
-- b) az eljárási díjakból,
-- c) a kamara szakmai szolgáltatásaiért fizetett díjakból,
-- d) az egyéb bevételekből.
+- a) a kamarai tagdíjakból,
+- b) az igazgatási szolgáltatási díjakból,
+- c) a nyilvántartási díjakból,
+- d) a befizetett bírságokból, regisztrációs és adminisztrációs díjakból, valamint
+- e) az egyéb bevételekből, támogatásokból, ideértve a pályázati forrásokat és az önkéntesen felajánlott hozzájárulásokat is.
 
 (2) Az (1) bekezdés a)–c) pontjaiban meghatározott díjak országosan egységes mértékűek.
 
@@ -377,7 +382,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - a) magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy, vagy
 - b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és Magyarországon lakóhellyel vagy tartózkodási engedéllyel rendelkezik, vagy
 - c) az a) és b) pont alá nem tartozó külföldi állampolgár nemzetközi egyezmény vagy viszonosság alapján, és
-- d) nem áll büntetőeljárás vagy büntető ügyben hozott ítélet, illetőleg foglalkozástól való eltiltás hatálya alatt, illetve a büntetett előélethez fűződő hátrányos jogkövetkezmények alól mentesült,
+- d) nem áll büntetőügyben hozott ítélet alapján foglalkozástól való eltiltás hatálya alatt, illetve a büntetett előélethez fűződő hátrányos jogkövetkezmények alól mentesült,
 - e) a (3) bekezdésben meghatározott szakmai feltétellel rendelkezik,
 
 (2) Az (1) bekezdés c) pontja szerinti viszonosság fennállásáról a kamara nyilatkozik.
@@ -393,9 +398,11 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - a) akit a kamarából kizártak, a kizárástól számított 3 évig,
 - b) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll.
 
-(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet.
+(7) A kamarai tag Magyarországon egyidejűleg a lakóhelye szerint illetékes területi mérnöki és területi építész kamara tagja is lehet, de a kettős kamarai tagság kényszere nélkül, egyik területi kamarai tagsága esetén – az általános szabályoknak megfelelően – a másik területi kamara szakterületén is szakmagyakorlási jogosultságot kérhet. Ebben az esetben a két területi kamara megállapodik az érintett tag tagdíjának megosztásáról.
 
 (8) A kamarai tagot a választása szerinti – a szakképesítése, tevékenysége alapján meghatározott – szakmai tagozatba vagy tagozatokba is fel kell venni.
+
+(9) Kérelemre az 1. § (5) bekezdése szerinti vállalkozást a szakmai kollégiumba is fel kell venni.
 
 26. § (1) A tagfelvételi kérelmet írásban ahhoz a területi kamarához kell előterjeszteni, amelynek területén a tevékenységet folytató természetes személy lakóhelye van.
 
@@ -458,7 +465,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 ### VII. Fejezet — Az etikai-fegyelmi eljárás
 
-34. § (1) Fegyelmi vétséget követ el az a tag, aki az építészeti, illetve mérnöki tevékenységre vonatkozó jogszabályok, szakmai szabályok, illetve kamarai szabályzatok rendelkezéseit szándékosan vagy gondatlanul megszegi.
+34. § (1) Fegyelmi vétséget követ el az a tag, aki az e törvény hatálya alá tartozó tevékenységre vonatkozó jogszabályok, szakmai szabályok, kamarai szabályzatok rendelkezéseit szándékosan vagy gondatlanul megszegi. Nem vonható felelősségre a tag, ha az e törvénnyel vagy más jogszabályi rendelkezéssel ellentétes vagy attól eltérő kamarai szabályzati rendelkezés helyett a jogszabályi rendelkezések szerint járt el.
 
 (2) A fegyelmi felelősséget az elkövetés idején hatályban lévő jogszabályok, illetve kamarai szabályzatok szerint kell elbírálni. Ha az elbíráláskor hatályban lévő rendelkezések enyhébb elbírálást tesznek lehetővé, úgy ezeket kell alkalmazni.
 
@@ -469,7 +476,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 fegyelmi büntetés alkalmazható.
 
-(4) Az 1. § (5) bekezdés szerinti személyekkel szemben lefolytatott fegyelmi eljárásról – annak jogerős és végrehajtható lezárását követően – az illetékes területi kamara értesíti a letelepedés helye szerinti eljáró hatóságot.
+(4)
 
 34/A. § (1) A fegyelmi vétség esetén kiszabható büntetések:
 
@@ -512,22 +519,22 @@ folytatja le.
 
 (3) Legalább öt tagból álló fegyelmi tanács jár el másodfokon, ha az első fokú fegyelmi tanács a 34/A. § (1) bekezdés e) pontja szerinti kamarából történő kizárás fegyelmi büntetést szabott ki.
 
-34/D. § (1) A fegyelmi tanács elnökeként és tagjaként, valamint vizsgálóbiztosként nem járhat el:
+34/D. § (1) A fegyelmi tanács elnökeként és tagjaként nem járhat el:
 
 - a) a panaszos, az eljárás alá vont személy és azok hozzátartozója [Ptk. 685. § b) pont],
 - b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek jogerős befejezéséig, illetve ha az eljárás során büntetés kiszabására került sor, a büntetés alóli mentesítésig,
 - c) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat,
 - d) a területi kamara elnöke, alelnöke, elnökségi tagja,
 - e) a másodfokú eljárásban az, aki az első fokú eljárásban eljárt,
-- f) akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
+- f) aki az első fokú eljárásba közvetlenül vagy közvetve beavatkozott, részt vett és akitől az ügy elfogulatlan elbírálása egyéb okból nem várható.
 
-(2) Az (1) bekezdésben meghatározottakon túlmenően nem járhat el a fegyelmi tanács tagja vizsgálóbiztosként, a vizsgálóbiztos a fegyelmi tanács tagjaként.
+(2)
 
 (3) A kizárásra vonatkozó rendelkezéseket a jegyzőkönyvvezetőre és a szakértőre is megfelelően alkalmazni kell.
 
 (4) A kizárási okot az érintettek kötelesek az etikai-fegyelmi bizottság elnökének bejelenteni.
 
-(5) Az eljárás alá vont tag a fegyelmi tanács elnöke, tagjai vagy a vizsgálóbiztos ellen kizárási okot jelenthet be. A kizárással érintett személy meghallgatása után a kizáró okról az etikai-fegyelmi bizottság elnöke határoz. A területi kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara elnökének javaslatára az országos kamara felügyelőbizottsága határoz.
+(5) Az eljárás alá vont tag a fegyelmi tanács elnöke, tagjai ellen kizárási okot jelenthet be. A kizárással érintett személy meghallgatása után a kizáró okról az etikai-fegyelmi bizottság elnöke határoz. A területi kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke ellen bejelentett kizárási ok kérdésében az országos kamara felügyelőbizottsága határoz.
 
 (6) Ha a kizárásnak a területi kamara etikai-fegyelmi bizottságának elnöke, az országos kamara etikai-fegyelmi bizottságának elnöke vagy országos kamara felügyelőbizottsága helyt ad, kijelöli az eljáró tanácsot.
 
@@ -535,7 +542,7 @@ folytatja le.
 
 (8) A fegyelmi eljárást
 
-- a) a területi kamara elnökével, alelnökével, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben – ideértve az előzetes vizsgálat elrendelését is – az országos kamara etikai-fegyelmi bizottsága által kijelölt kamara,
+- a) a területi kamara elnökével, alelnökével, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben az országos kamara etikai-fegyelmi bizottsága által kijelölt kamara,
 - b) az országos kamara elnökével, alelnökével, elnökségi tagjával, titkárával, etikai-fegyelmi bizottság elnökével és tagjával szemben a lakhelye szerint illetékes kamara
 
 folytatja le.
@@ -546,15 +553,15 @@ folytatja le.
 - b) a kamara szerve, tisztségviselője, tagja,
 - c) hatáskörében eljárva a szakmagyakorlási jogosultságról névjegyzéket vezető szerv, az építésügyi (létesítési) és építésfelügyeleti hatóságok.
 
-(2) A fegyelmi eljárást fegyelmi vétség gyanúja esetén, illetve ha azt a tag maga kéri, az etikai-fegyelmi bizottság elnöke írásban rendeli el, a hozzá beérkezett írásbeli bejelentés, megkeresés, illetve a feladatkörében tudomására jutott tények alapján. A fegyelmi eljárásról a határozat egy példányának megküldésével az etikai-fegyelmi bizottság elnöke haladéktalanul értesíti az eljárás alá vont személyt, a panaszost, a területi kamara elnökét, valamint az etikai-fegyelmi bizottság tagjai közül kijelöli a vizsgálóbiztost.
+(2) A fegyelmi eljárást fegyelmi vétség gyanúja esetén vagy ha azt a tag maga kéri, az etikai-fegyelmi bizottság elnöke írásban rendeli el a hozzá beérkezett írásbeli bejelentés, megkeresés vagy a feladatkörében tudomására jutott tények alapján, és kijelöli az eljáró fegyelmi tanács elnökét és tagjait. A fegyelmi eljárásról az etikai-fegyelmi bizottság elnöke haladéktalanul értesíti az eljárás alá vont személyt és a panaszost.
 
 (3) A panasz visszavonása a fegyelmi eljárás lefolytatását nem akadályozza.
 
-(4) A fegyelmi eljárás megindításának nincs helye, ha azt a területi kamara a kötelezettségszegésről szóló panasz beérkezésétől, illetve a hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított egy éven belül nem indította meg, illetve az elkövetéstől számított 10 év eltelt. Ha a cselekmény miatt büntető- vagy szabálysértési eljárás indult, és az nem végződött felmentéssel, az egy éves határidőt a jogerős határozatnak a kamarával való közlésétől, a 10 éves határidőt pedig az eljárás jogerős befejezésétől kell számítani.
+(4) A fegyelmi eljárás megindításának nincs helye, ha azt a területi kamara a kötelezettségszegésről szóló panasz beérkezésétől, hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított három hónapon belül nem indította meg vagy az elkövetéstől számított két év eltelt. Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a három hónapos határidőt a jogerős határozatnak a kamarával való közlésétől, a kétéves határidőt pedig az eljárás jogerős befejezésétől kell számítani.
 
-(5) A fegyelmi eljárást annak megindításától számított 120 napon belül be kell fejezni.
+(5) A fegyelmi eljárást annak megindításától számított 90 napon belül be kell fejezni.
 
-35/A. § (1) Meg kell tagadni a fegyelmi eljárás elrendelését, ha
+35/A. § (1) A fegyelmi tanácsnak további vizsgálat nélkül el kell utasítania a panaszt, ha
 
 - a) a bejelentés nyilvánvalóan megalapozatlan, vagy a bejelentett tények alapján fegyelmi vétség elkövetésének alapos gyanúja nem állapítható meg,
 - b) a bejelentésben foglalt tények miatt fegyelmi eljárás van folyamatban vagy már jogerős fegyelmi határozatot hoztak.
@@ -563,46 +570,30 @@ folytatja le.
 
 (3) A fegyelmi eljárás elrendelését megtagadó határozatot ismert panaszos esetén a panaszosnak és annak kell megküldeni, aki ellen a panasz irányult.
 
-(4) A fegyelmi eljárás elrendelését megtagadó határozat kézhezvételétől számított 15 napon belül a 35. § (1) bekezdésének a) pontja szerinti, ismert panaszos kezdeményezheti a fegyelmi eljárás lefolytatását az etikai-fegyelmi bizottságnál. A fegyelmi eljárás lefolytatásáról az etikai-fegyelmi bizottság határoz.
+(4)–(5)
 
-(5) A (4) bekezdés szerinti esetben a fegyelmi eljárás során a panaszos jár el a vizsgálóbiztos helyett, a 35/B–35/C. § szerinti jogosítványokra és vizsgálat lefolytatására azonban nem jogosult.
+35/B. §
 
-35/B. § (1) A vizsgálóbiztos köteles vizsgálatot lefolytatni és ennek keretében a tényállás megállapításához szükséges körülményeket felderíteni, az eljárás alá vont személy javára és terhére szóló bizonyítékokat beszerezni.
+35/C. §
 
-(2) A vizsgálóbiztos az eljárás alá vont személyt nyilatkozattételre hívja fel azzal, hogy az ügyre vonatkozó iratokat 8 napon belül jogosult a területi kamarának megküldeni.
-
-(3) A vizsgálóbiztos meghallgathatja a panaszost (sértettet), az eljárás alá vont személyt és az általuk megjelölt tanúkat, megvizsgálja a rendelkezésére bocsátott iratokat, szükség esetén szakértő közreműködését veheti igénybe. A vizsgálóbiztos vizsgálatának nem akadálya, ha az eljárás alá vont személy a meghallgatáson nem jelent meg, vagy nem nyilatkozik. Erről az eljárás alá vont személyt tájékoztatni kell.
-
-(4) Az eljárási cselekményekről jegyzőkönyvet kell készíteni. A jegyzőkönyvet a meghallgatott személy, a vizsgálóbiztos, valamint a jegyzőkönyvvezető írja alá.
-
-35/C. § (1) A vizsgálóbiztos az eljárás eredményéről összefoglaló jelentést készít és az iratokat indítványával együtt az etikai-fegyelmi bizottság elnökének átadja.
-
-(2) A vizsgálatot 30 nap alatt be kell fejezni. Ez a határidő indokolt esetben egy alkalommal, a területi kamara elnöke által 30 nappal meghosszabbítható.
-
-36. § (1) Az etikai-fegyelmi bizottság a vizsgálat alapján
-
-- a) megszünteti az eljárást,
-- b) elrendeli fegyelmi tárgyalás megtartását,
-- c) fegyelmi tárgyalás nélküli figyelmeztetés fegyelmi büntetés megállapítását kezdeményezi.
-
-(2) Az (1) bekezdésben foglalt határozatról az etikai-fegyelmi bizottság elnöke az eljárás alá vont személyt és a panaszost értesíti.
-
-(3) Az etikai-fegyelmi bizottság elnöke a fegyelmi tárgyalás megtartásának elrendelésével egyidejűleg az etikai-fegyelmi bizottság tagjai közül kijelöli az eljáró fegyelmi tanács elnökét és tagjait.
+36. §
 
 36/A. § (1) A fegyelmi tanács elnöke
 
 - a) tárgyalás nélkül a 34/A. § (1) bekezdés a) pont szerinti figyelmeztetés fegyelmi büntetés megállapítását kezdeményezheti,
-- b) kitűzi a fegyelmi tárgyalást, megidézi az eljárás alá vont személyt, a képviselőjét, a tanúkat, a vizsgálóbiztost, és további bizonyítást rendelhet el. A fegyelmi tanács elnöke intézkedéseiről a vizsgálóbiztost értesíti.
+- b) kitűzi a fegyelmi tárgyalást, megidézi az eljárás alá vont személyt, a képviselőjét, a tanúkat, és további bizonyítást rendelhet el.
 
-(2) A fegyelmi tanács elnöke az eljárás alá vont személyt az idézéssel egyidejűleg tájékoztatja, hogy a vizsgálóbiztos jelentésére legkésőbb a tárgyaláson észrevételt tehet. Figyelmezteti arra is, hogy ha alapos ok nélkül az eljárásban nem vesz részt, ez az eljárás lefolytatását nem akadályozza.
+(2) A fegyelmi tanács elnöke az eljárás alá vont személyt az idézéssel egyidejűleg tájékoztatja, hogy ha alapos ok nélkül az eljárásban nem vesz részt, ez az eljárás lefolytatását nem akadályozza.
 
 (3) Ha az eljárás alá vont személy a szabályszerű idézés ellenére a fegyelmi tárgyaláson nem jelenik meg, azt távollétében is meg lehet tartani.
 
+(4) A fegyelmi tanács meghallgatja a panaszost (sértettet), az eljárás alá vont személyt és az általuk megjelölt tanúkat, megvizsgálja a rendelkezésére bocsátott iratokat, szükség esetén szakértő közreműködését veheti igénybe.
+
 36/B. § (1) A fegyelmi tanács tárgyalás tartása nélkül figyelmeztetést állapít meg, ha az eljárás alá vont személy a fegyelmi vétség elkövetését elismerte, a fegyelmi vétség egyértelmű és a kötelességszegés kisebb súlyú.
 
-(2) Ha a figyelmeztetésről szóló határozat kézbesítésétől számított 15 napon belül az eljárás alá vont személy vagy képviselője tárgyalás tartását kérte, a figyelmeztetés hatályát veszti és a fegyelmi tanács elnöke tárgyalást tűz ki, és erről a vizsgálóbiztost értesíti.
+(2) Ha a figyelmeztetésről szóló határozat kézbesítésétől számított 15 napon belül az eljárás alá vont személy vagy képviselője tárgyalás tartását kérte, a figyelmeztetés hatályát veszti és a fegyelmi tanács elnöke tárgyalást tűz ki.
 
-36/C. § (1) A vizsgálóbiztos, az eljárás alá vont személy és képviselője a tárgyalás bármely szakában bizonyítási indítványt tehet.
+36/C. § (1) Az eljárás alá vont személy és képviselője a tárgyalás bármely szakában bizonyítási indítványt tehet.
 
 (2) A fegyelmi tárgyalásról jegyzőkönyvet kell készíteni. A fegyelmi tanács elrendelheti a tárgyalás anyagának hangszalagra történő rögzítését. Ez esetben a tárgyalásról készült jegyzőkönyvet 8 napon belül el kell készíteni.
 
@@ -637,15 +628,15 @@ folytatja le.
 - b) a levont ténybeli és jogi következtetést,
 - c) a büntetés kiszabása esetén a súlyosbító és enyhítő körülményeket.
 
-(5) A fegyelmi határozatot a tárgyalás befejezése után 15 napon belül meg kell küldeni az eljárás alá vont személynek és képviselőjének, a vizsgálóbiztosnak, valamint a panaszosnak.
+(5) A fegyelmi határozatot a tárgyalás befejezése után 15 napon belül meg kell küldeni az eljárás alá vont személynek és képviselőjének, valamint a panaszosnak.
 
-(6) Az első fokú fegyelmi tanács határozata ellen a határozat kézhezvételétől számított 15 napon belül az eljárás alá vont személy, a képviselője, a vizsgálóbiztos, valamint a panaszos az országos kamara etikai-fegyelmi bizottsága elnökéhez fellebbezhet. A fellebbezés a határozat jogerőre emelkedésére halasztó hatályú.
+(6) Az első fokú fegyelmi tanács határozata ellen a határozat kézhezvételétől számított 15 napon belül az eljárás alá vont személy, a képviselője, valamint a panaszos az országos kamara etikai-fegyelmi bizottsága elnökéhez fellebbezhet. A fellebbezés a határozat jogerőre emelkedésére halasztó hatályú.
 
 37/A. § (1) Az első fokú fegyelmi határozat ellen benyújtott fellebbezést az etikai-fegyelmi bizottság az országos kamara etikai-fegyelmi bizottsága elnökének küldi meg.
 
 (2) Az országos kamara etikai-fegyelmi bizottságának elnöke a fellebbezés kézhezvételét követő 5 napon belül kijelöli az országos kamara etikai-fegyelmi bizottság tagjai közül a másodfokon eljáró fegyelmi tanácsot és annak elnökét, valamint a vizsgálóbiztost, továbbá a kijelöléssel egyidejűleg a vizsgálóbiztos részére az ügy iratait megküldi azzal, hogy a fellebbezésre észrevételeit 15 napon belül tegye meg.
 
-(3) Ha a 37/B–37/D. §-ok másként nem rendelkeznek, a másodfokú eljárásban a 36/A. §, a 36/C. §, valamint a 37. § rendelkezéseit kell megfelelően alkalmazni.
+(3) Ha a 37/B–37/D. §-ok másként nem rendelkeznek, a másodfokú eljárásban a 36/A. § – a 36/A. § (1) bekezdés a) pontja kivételével –,, a 36/C. §, valamint a 37. § rendelkezéseit kell megfelelően alkalmazni.
 
 37/B. § (1) A másodfokon eljáró fegyelmi tanács tárgyaláson kívül hozott határozattal elutasítja a fellebbezést, ha az elkésett, vagy ha azt nem az eljárás kezdeményezésére jogosult terjesztette elő.
 
@@ -655,24 +646,11 @@ folytatja le.
 
 (4) Hatályon kívül kell helyezni az első fokú határozatot akkor is, ha azt az első fokú eljárás lényeges szabályainak megsértésével hozták meg.
 
-(5) A másodfokú határozat ellen az eljárás alá vont személy, a képviselője, a vizsgálóbiztos, valamint a panaszos a kézbesítéstől számított 30 napon belül a közigazgatási perekre irányadó szabályok szerint bírósághoz fordulhat.
+(5) A másodfokú határozat ellen az eljárás alá vont személy, a képviselője, valamint a panaszos a kézbesítéstől számított 30 napon belül a közigazgatási perekre irányadó szabályok szerint bírósághoz fordulhat.
 
 (6) A másodfokú határozat a közléssel válik jogerőssé és végrehajthatóvá, de az (5) bekezdés szerinti esetben a végrehajtás felfüggesztése kérhető a bíróságtól.
 
-37/C. § (1) A jogerős fegyelmi határozat meghozatalát követően a panaszos, az eljárás alá vont személy és képviselője új eljárás lefolytatását kérheti. Új eljárás lefolytatására az eljárás alá vont személy életében, az eljárás jogerős befejezésétől számított öt éven belül van lehetőség.
-
-(2) Új eljárásnak van helye akkor is, ha az alapügyben az eljáró fegyelmi tanács valamely tagja kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
-
-(3) A területi kamara etikai-fegyelmi bizottságának elnöke új eljárás lefolytatását akkor rendeli el, ha
-
-- a) az ügyben hozott határozat bírósági felülvizsgálatára nem került sor, illetve az arra nyitva álló idő már letelt, és
-- b) olyan tényre vagy bizonyítékra, vagy olyan jogerős bírói vagy más hatósági határozatra hivatkoznak, amit az eljáró fegyelmi tanács nem bírált el, amennyiben ezen bizonyítékok alkalmasak a kihirdetett fegyelmi határozat megváltoztatására.
-
-(4) Az új eljárás lefolytatásáról a területi kamara etikai-fegyelmi bizottsága dönt. Az elutasító határozat ellen a kézbesítéstől számított 15 napon belül az eljárás kezdeményezője az országos kamara fegyelmi tanácsához fellebbezéssel élhet.
-
-(5) Az új eljárás során az első és másodfokú eljárásra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
-
-(6) Az eljárást elrendelő határozatnak a jogerősen kiszabott fegyelmi büntetés végrehajtására halasztó hatálya nincsen, kivéve, ha ezt az eljáró fegyelmi tanács kifejezetten kimondja, és határozattal intézkedik a kiszabott fegyelmi büntetés végrehajtásának felfüggesztése iránt.
+37/C. §
 
 37/D. § Az elsőfokú fegyelmi eljárás költségeit az első fokon eljáró területi kamara, a másodfokú fegyelmi eljárás költségeit az eljáró országos kamara előlegezi meg. A fegyelmi eljárás költsége az országos kamarák alapszabálya szerint megállapított, a fegyelmi tanács működését fedező költségátalány, valamint a fegyelmi tanács tagjainak és az eljárás résztvevőinek igazolt utazási költsége.
 
@@ -700,6 +678,17 @@ folytatja le.
 39. § (1) A területi és országos kamarák az alapszabályt, a szabályzatokat az elfogadásuktól számított 15 napon belül kötelesek megküldeni a miniszternek törvényességi felügyeleti vizsgálat céljából.
 
 (2) A miniszter ellenőrzi, hogy az alapszabály, a szabályzatok megfelelnek-e a jogszabályoknak, és szükség esetén a 38. § (4) bekezdésében foglaltak szerint jár el.
+
+(3) Az alapszabály, a területi alapszabály, a szabályzat és a területi szabályzat nem lehet jogszabállyal ellentétes, a jogszabályba ütköző rendelkezése semmis.
+
+(4) A 20. § (1) bekezdés szerinti tisztségviselő megbízatásának megszűnése és eredményes választás hiányában, a kamara működése törvényességének helyreállítása érdekében a miniszter a 38. § (4) bekezdése szerint a bírósághoz fordul.
+
+(5) A kamarák 3. § (1) bekezdés a) pontja szerinti közigazgatási hatósági feladatainak törvényes ellátása érdekében a miniszter, mint a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltak szerinti felügyeleti szerv, a (4) bekezdésben és a 38. § (4) bekezdésben meghatározott esetben miniszteri rendeletben – a kamarai működés törvényességének helyreállításáig – a közigazgatási feladatok ellátására más eljáró területi kamarát jelöl ki.
+
+(6) Ezen időszak alatt az 1. § (1) bekezdésben kamarai tagsághoz kötött mérnöki, illetve építészeti tevékenység kamarai tagság nélkül, a külön jogszabály szerinti ideiglenes névjegyzékbevétel mellett gyakorolható. A területi kamara működése törvényességének helyreálltát követően a kamara dönt az ideiglenes névjegyzéken lévő személyek kamarai tagságáról és
+
+- a) kamarai tagfelvétel esetén az visszamenőleges hatállyal állapítható meg a névjegyzéki bejegyzés véglegesítése mellett, vagy
+- b) kamarai tagfelvétel megtagadása esetén a névjegyzéki bejegyzés törlésre kerül.
 
 ### Jogsértő határozatok bírósági felülvizsgálata
 
@@ -730,7 +719,7 @@ folytatja le.
 - a) mérnöki, illetve építészeti tevékenység engedélyezése, az engedély visszavonása és az ezzel összefüggő névjegyzékbevétel, illetve a névjegyzékből való törlés, a mérnöki, illetve az építészeti tevékenységre való jogosultságról hatósági igazolvány kiállítása, valamint a külön jogszabály szerinti szakmai továbbképzési kötelezettség teljesítésének igazolására szolgáló hatósági bizonyítvány kiállítása,
 - b) törvénnyel vagy kormányrendelettel a kamarák hatáskörébe utalt egyéb igazgatási ügyek intézése.
 
-(2) A közigazgatási ügyben a területi, illetve országos kamara titkára, illetve főtitkára jár el. Közigazgatási ügyben ügyintézőként csak az működhet közre, aki a köztisztviselők jogállásáról törvény szerint köztisztviselőnek – engedélyezés és névjegyzék vezetése esetén ügykezelőnek – kinevezhető lenne, továbbá a külön jogszabályban foglalt feltételeknek megfelel.
+(2) A közigazgatási hatósági ügyben a területi vagy országos kamara titkára, főtitkára a hatáskör gyakorlója.
 
 (3) A titkár, illetve főtitkár
 
@@ -768,14 +757,14 @@ folytatja le.
 - o) az adatváltozás bejelentésének időpontja,
 - p) a nyilvántartás megszűnése esetén az iratok átadásának vagy irattárba helyezésének napja.
 
-(3) A kamara, ha a mérnöki, illetve építészeti tevékenységet folytató jogi személy vagy jogi személyiséggel nem rendelkező nem természetes személy jogalany (a továbbiakban: vállalkozás) adatait e célból bejelenti, az ilyen tevékenységet folytatókról nyilvántartást vezet a következő adattartalommal:
+(3) Az 1. § (5) bekezdése szerinti vállalkozások nyilvántartása a következő adatokat tartalmazza:
 
 - a) a vállalkozás neve,
 - b) a vállalkozás székhelye,
 - c) a vállalkozás tagjainak, vezetőinek természetes személyazonosító adatai,
 - d) a mérnöki, illetve építészeti tevékenység folytatására jogosultsággal rendelkező alkalmazottak vagy tagok természetes személyazonosító adatai, névjegyzéki száma,
 - e) a cégjegyzékbe bejegyzett vállalkozás esetén a bejegyzés időpontja, cégjegyzékszáma,
-- f) a nyilvántartásba történő felvétel időpontja,
+- f) a nyilvántartásba történő felvétel időpontja, valamint
 - g) a nyilvántartásból történő törlés időpontja.
 
 (4) A névjegyzékben szereplő személy, illetve a kamarai tag családi és utóneve, valamint a (2) bekezdés b), d), g) és h) pontjai szerinti adatai, a vállalkozás (3) bekezdés a) és b) pontjai szerinti adatai, valamint a vállalkozás (3) bekezdés d) pontja szerinti tagjának, alkalmazottjának családi és utóneve nyilvánosak, azokat a kamara az interneten bárki számára ingyenesen és korlátozásmentesen megismerhető módon közzéteszi.
@@ -790,7 +779,9 @@ folytatja le.
 
 51. § A 3. §-ban és a 11. §-ban meghatározott közigazgatási feladatok tekintetében az e törvény hatálybalépése előtt kiadott jogszabályban nevesített eljáró hatóságon, feladatkörüknek megfelelően az e törvényben szabályozott kamarákat kell érteni.
 
-52. §
+52. § (1) Az a vállalkozás, amely a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvény (a továbbiakban: Módtv.) hatálybalépésekor az épített környezet alakításáról és védelméről szóló törvény szerinti szakmagyakorlási tevékenységet, valamint az 1. § (1) bekezdésében megjelölt mérnöki, illetve építészeti tevékenységet főtevékenységként folytatja, az 1. § (5) bekezdése szerinti bejelentést 2013. március 31-ig teszi meg.
+
+(2) E törvénynek a Módtv.-vel meghatározott 21. § (4) bekezdésében foglaltaknak legkésőbb 2013. április 30-ig kell eleget tenni.
 
 52/A. §
 
@@ -802,7 +793,7 @@ folytatja le.
 
 ### Felhatalmazó rendelkezés
 
-54. §
+54. § Felhatalmazást kap a miniszter arra, hogy a területi kamara működése törvényességének helyreálltáig a közigazgatási feladatok ellátására más eljáró területi kamarát rendeletben jelöljön ki.
 
 55. § Felhatalmazást kap a kormány arra, hogy
 

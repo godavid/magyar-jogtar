@@ -122,6 +122,10 @@ szakaszból áll.
 
 (2)
 
+6/C. § (1) Kiemelt jelentőségű ügyben a kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendelet vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály az e törvényben foglalt határidőknél rövidebbet is megállapíthat.
+
+(2) A Kormány rendeletével nemzetgazdasági szempontból kiemelt jelentőségűvé minősített beruházással összefüggő építésügyi hatósági ügyben a beruházással érintett ingatlanon fennálló közös tulajdon esetén a többségi tulajdonos építtető építésügyi hatósági engedély iránti kérelmével összefüggésben a többi tulajdonostárs, illetve egyéb jogosult hozzájárulását az eljárásban megadottnak kell tekinteni, ha e tulajdonostársak a beruházás megvalósításához vagyoni hozzájárulásra nem kötelesek. A tulajdonostársat ezzel összefüggésben az őt ért kár tekintetében kártalanítás illeti meg, amelyet a polgári jog szabályai szerint követelhet, vagy a kisajátításról szóló törvény szerinti kártalanítás szabályai szerint megállapított vételárért kérheti tulajdoni hányadának az építtető általi megvételét.
+
 ### A hatósági határozat bírósági felülvizsgálata
 
 7. § A törvény hatálya alá tartozó hatósági ügyekben hozott határozat bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit az e törvény 8–10. §-aiban meghatározott eltérésekkel kell alkalmazni.
