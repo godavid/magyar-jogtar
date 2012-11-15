@@ -1791,7 +1791,7 @@ teljesíti.
 
 (8) Ha az ügyfél a jogsértést nem ismeri el, a hatóság köteles hivatalból megindítani a hatáskörébe tartozó eljárást és erről az ügyfelet a helyszínen értesíti a 29. § (5) bekezdésében meghatározott, rendelkezésre álló adatok közlésével.
 
-94/B. § (1) Ha törvény vagy önkormányzati rendelet lehetővé teszi, a hatóság elkobozza azt a dolgot,
+94/B. § (1) Ha törvény lehetővé teszi, a hatóság elkobozza azt a dolgot,
 
 - a) amelyet a jogsértés elkövetéséhez eszközül használtak vagy arra szántak,
 - b) amelynek birtoklása jogszabályba ütközik, vagy amely veszélyezteti a közbiztonságot,
@@ -1799,12 +1799,12 @@ teljesíti.
 - d) amelyre a jogsértést elkövették, vagy amelyet a jogsértés befejezését követően e dolog elszállítása céljából használtak,
 - e) amelyet a jogsértő a jogsértés elkövetéséért a tulajdonostól vagy annak hozzájárulásával mástól kapott.
 
-(2) Ha törvény vagy önkormányzati rendelet eltérően nem rendelkezik, az (1) bekezdés a) és d) pontja esetében
+(2) Ha törvény eltérően nem rendelkezik, az (1) bekezdés a) és d) pontja esetében
 
 - a) az elkobzást nem lehet elrendelni, ha a dolog nem a jogsértő tulajdona, kivéve, ha a tulajdonos a jogsértésről előzetesen tudott és a dolog ilyen célú használatába beleegyezett,
 - b) az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene.
 
-(3) Ha törvény vagy önkormányzati rendelet eltérően nem rendelkezik, az elkobzott dolog tulajdonjoga az államra száll.
+(3) Ha törvény eltérően nem rendelkezik, az elkobzott dolog tulajdonjoga az államra száll.
 
 ### VII. Fejezet — Jogorvoslat és döntés-felülvizsgálat
 
