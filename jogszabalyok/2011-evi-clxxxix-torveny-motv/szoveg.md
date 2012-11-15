@@ -130,7 +130,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 51. § (1)–(3)
 
-(4) A helyi önkormányzat képviselő-testülete önkormányzati rendeletben meghatározhat tiltott, közösségellenes magatartásokat. A helyi önkormányzat képviselő-testülete e magatartás elkövetőjével szemben önkormányzati rendeletben ötvenezer forintig terjedő helyszíni bírság, illetve százötvenezer forintig terjedő közigazgatási bírság kiszabását rendelheti el, amely az önkormányzat saját bevételét képezi.
+(4)
 
 (5)–(6)
 
@@ -468,7 +468,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
 - a)–d)
-- e) a kirívóan közösségellenes magatartásokat, valamint a magatartás elkövetőjével szembeni pénzbírság kiszabásának szabályait;
+- e)
 - f)
 - g)–h)
 - i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
