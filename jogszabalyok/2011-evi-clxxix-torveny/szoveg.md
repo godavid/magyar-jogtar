@@ -1104,13 +1104,15 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (3) A 219. § (1) bekezdés e) pontja és a 234. § 2012. március 31-én lép hatályba.
 
+(3a) A 102. § (1) bekezdés d) pontja és a 106–108. § az egyes önkormányzati tárgyú törvények módosításáról szóló 2012. évi CXLV. törvény hatálybalépését követő napon lép hatályba. A 107. § (1) bekezdés c) pontját az egyes önkormányzati tárgyú törvények módosításáról szóló 2012. évi CXLV. törvény hatálybalépést követően jogerőre emelkedett ítéletekre kell alkalmazni.
+
 (4) A 2. § 4. és 13. pontja, a 12. § (1) bekezdés b) pontja, a 19. § b) és c) pontja, a 22. § (2) és (3) bekezdése, a 23–26. §, 28. §, a 29. §, a 81. § (2) bekezdése, a 118. § (2) bekezdése, a 151. § e) pontja, a 156. § (3) bekezdése 2012. szeptember 1-jén lép hatályba.
 
 (5) A 10. § (4)–(9) bekezdése, a 105. § (4) és (5) bekezdése, a 126. § (2) bekezdés a) pontja, a 128. §, a 130. §, a 156. § (1) bekezdés b) pontja és a 182. § 2013. január 1-jén lép hatályba.
 
 (6) A 22. § (4) és (5) bekezdése 2013. szeptember 1-jén lép hatályba.
 
-(7) Az 1. § (2) bekezdése, a 2. § 14. pontja, az 5. § (3) bekezdésében az „és a nemzetiségi szószóló” szövegrész, az 5. § (5) bekezdése, a 6. § (1)–(4) bekezdése, a 77. § (3) bekezdése, a 88. § (1) bekezdés második mondata, a 91. § (2) bekezdés b) pontja, a 100. §, a 101. § (1) bekezdés e) pontja, a 101. § (3) bekezdése, a 102. § (1) bekezdés d) pontja, a 103. §, a 104. §, a 105. § (1)–(3) bekezdése, a 106–108. §, a 109. § (3)–(9) bekezdése, a 110. §, a 111. §, a 117. § (1) bekezdésében a „legfeljebb négy elnökhelyettest választ, továbbá” szövegrész, a 119. § (4) bekezdése, a 123. § (1)–(3) bekezdése, a 123. § (4) bekezdés a) pontja, a 138. § (2) bekezdése, a 155. § a 2014. évi általános nemzetiségi önkormányzati választások kitűzésének napján lép hatályba.
+(7) Az 1. § (2) bekezdése, a 2. § 14. pontja, az 5. § (3) bekezdésében az „és a nemzetiségi szószóló” szövegrész, az 5. § (5) bekezdése, a 6. § (1)–(4) bekezdése, a 77. § (3) bekezdése, a 88. § (1) bekezdés második mondata, a 91. § (2) bekezdés b) pontja, a 100. §, a 101. § (1) bekezdés e) pontja, a 101. § (3) bekezdése, a 103. §, a 104. §, a 105. § (1)–(3) bekezdése, a 109. § (3)–(9) bekezdése, a 110. §, a 111. §, a 117. § (1) bekezdésében a „legfeljebb négy elnökhelyettest választ, továbbá” szövegrész, a 119. § (4) bekezdése, a 123. § (1)–(3) bekezdése, a 123. § (4) bekezdés a) pontja, a 138. § (2) bekezdése, a 155. § a 2014. évi általános nemzetiségi önkormányzati választások kitűzésének napján lép hatályba.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményeknek való megfelelés
 
