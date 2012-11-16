@@ -708,7 +708,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) a megválasztását követő általános nemzetiségi önkormányzati választás napján, jelöltek hiányában elmaradt választás esetén az időközi választás napján,
 - b) választójogának elvesztésével,
 - c) összeférhetetlenségének kimondásával,
-- d)
+- d) méltatlanság megállapításával,
 - e) lemondással,
 - f) a képviselő-testület, közgyűlés feloszlatásával,
 - g) a képviselő-testület feloszlásával,
@@ -748,11 +748,76 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### A nemzetiségi önkormányzat tisztségviselőjének és tagjának összeférhetetlensége
 
-106. §
+106. § (1) Nem lehet a helyi nemzetiségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, köztisztviselője, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott és kormánytisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott települési, területi nemzetiségi önkormányzatot érintő ügyek tartoznak, és illetékessége a helyi nemzetiségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője, körjegyzője, főjegyzője, hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a helyi nemzetiségi önkormányzatnál a helyi nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke.
+
+(2) Nem lehet az átalakult nemzetiségi önkormányzat elnöke: aki nem lehet a helyi nemzetiségi önkormányzat elnöke, továbbá aki összeférhetetlen a helyi önkormányzat polgármesterére vonatkozó szabályozás alapján.
+
+(3) Nem lehet az országos nemzetiségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, köztisztviselője, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott és kormánytisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak, helyi önkormányzat jegyzője, körjegyzője, hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál az országos nemzetiségi önkormányzatnál az országos nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, az országos nemzetiségi önkormányzati hivatal munkavállalója, vagy a hivatallal munkavégzésre irányuló egyéb jogviszonyban álló személy, és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke.
+
+(4) Az elnök az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben a külön jogszabály szerint nem lehetséges az összeférhetetlenség alapjául szolgáló jogviszony megszüntetése, az elnök a jogviszony megszüntetéséről szóló, az arra jogosult által megerősített nyilatkozatát a képviselő-testület, közgyűlés elé terjeszti és egyidejűleg megküldi a fővárosi és megyei kormányhivatalnak.
+
+(5) Ha az elnök a (4) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára a képviselő-testület, közgyűlés a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő harminc napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget. A képviselő-testület határozatát az ülést követő munkanapon az elnöknek és a fővárosi és megyei kormányhivatalnak kézbesíteni kell.
+
+(6) Az elnök az összeférhetetlenségét, vagy a megbízatás megszűnését megállapító képviselő-testületi, közgyűlési határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a törvényszéktől.
+
+(7) A törvényszék a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A törvényszék a polgármestert, a keresettel megtámadott határozatot hozó képviselő-testület, közgyűlés képviselőjét és a kereset előterjesztőjét meghallgathatja. A törvényszék döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
+
+(8) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti az elnök összeférhetetlenségének a kimondását, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A törvényszék eljárására a (9) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a törvényszék döntése ellen – annak kézhezvételétől számított nyolc napon belül – az elnök, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a Kúria nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
+
+(9) Az összeférhetetlenségre vonatkozó rendelkezések az elnökhelyettesre és a nemzetiségi önkormányzati képviselőre is alkalmazni kell.
+
+(10) A települési nemzetiségi önkormányzati képviselői, elnökhelyettesi, elnöki megbízatással nem összeférhetetlen egy területi nemzetiségi önkormányzati képviselő-testületi elnöki (elnökhelyettesi, képviselői) vagy az országos nemzetiségi önkormányzati képviselő-testületi, közgyűlési elnöki (elnökhelyettesi, képviselői) megbízatás.
+
+(11) Az országos nemzetiségi önkormányzat főállású elnöke, elnökhelyettese tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, és e tevékenységet nem végezheti gazdasági társaság személyesen közreműködő tagjaként, egyéb tevékenységéért díjazást nem fogadhat el.
 
 ### A méltatlanság
 
-107–108. §
+107. § (1) Méltatlanság miatt a nemzetiségi önkormányzat képviselő-testülete, közgyűlése megszünteti annak az önkormányzati képviselőnek a megbízatását,
+
+- a) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi,
+- b) akinek a gazdasági társaságokról szóló törvény rendelkezései alapján a felszámolás során ki nem elégített követelésekért a bíróság jogerősen megállapította a felelősségét, és a bírósági határozat szerinti helytállási kötelezettségét nem teljesítette,
+- c) akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek,
+- d) aki a valóságnak nem megfelelő vagyonnyilatkozatot tett.
+
+(2) A képviselő köteles az (1) bekezdés b)–c) pontban foglaltakról, a jogerős ítélet kézhezvételétől, illetve az (1) bekezdés a)–c) pontban foglaltak beálltától számított három napon belül tájékoztatni a képviselő-testületet, közgyűlést, az illetékes választási bizottságot és a fővárosi és megyei kormányhivatalt.
+
+(3) A nemzetiségi önkormányzati képviselő megválasztásától számított harminc napon belül köteles kérelmezni felvételét az adózás rendjéről szóló törvényben meghatározott köztartozásmentes adózói adatbázisba (a továbbiakban: adatbázis). A nemzetiségi önkormányzati képviselő az adatbázisba történő felvételére irányuló kérelme benyújtásának hónapját követő hónap utolsó napjáig köteles a képviselő-testületnél, közgyűlésnél igazolni az adatbázisba való felvételének megtörténtét. Amennyiben az állami adóhatóság az adatbázisba történő felvételt követően megállapítja, hogy az önkormányzati képviselő az adatbázisba történő felvétel feltételeinek nem felel meg, az adatbázisból törli, amelyről írásban értesíti a képviselő-testületet, közgyűlést és a fővárosi és megyei kormányhivatalt.
+
+(4) A méltatlansági eljárásra egyebekben az összeférhetetlenségi eljárás szabályait kell alkalmazni.
+
+108. § (1) Az elnök megbízatása megszűnik:
+
+- a) a választójog elveszítésével,
+- b) a képviselői megbízatás megszűnésével,
+- c) a képviselő-testület, közgyűlés feloszlatása vagy feloszlása kimondása esetén,
+- d) az elnöki tisztségről történő lemondással,
+- e) összeférhetetlenség kimondásával,
+- f) méltatlanság megállapításával,
+- g) az elnöki tisztségnek a bíróság által történő megszüntetésével,
+- h) halálával.
+
+(2) Az (1) bekezdés b)–f) pontja esetén a képviselő-testület, közgyűlés határozatban állapítja meg az elnöki megbízatás megszűnését. Határozatát a döntéshozatalt követő munkanapon megküldi
+
+- a) az elnöknek,
+- b) a választási bizottságnak és
+- c) a fővárosi és megyei kormányhivatalnak.
+
+(3) Az elnök által írásban benyújtott vagy a képviselő-testületi, közgyűlési ülés jegyzőkönyvébe foglalt lemondása nem vonható vissza.
+
+(4) Az írásban benyújtott lemondást a soron következő testületi ülésen ismertetni kell. Lemondás alapján az elnök megbízatása megszűnik
+
+- a) a lemondásban meghatározott, a lemondás benyújtását követő harminc napon belüli időpontban, ennek hiányában
+- b) a lemondás bejelentésének, vagy írásbeli benyújtás esetén a nemzetiségi önkormányzat által történő átvétele napján.
+
+(5) Az elnök – elnöki megbízatásával egyidejűleg – külön nyilatkozatban képviselői megbízatásáról is lemondhat.
+
+(6) Az elnök sorozatos törvénysértő tevékenysége, mulasztása miatt a nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – keresetet nyújthat be az elnök ellen a nemzetiségi önkormányzat székhelye szerint illetékes törvényszékhez az elnök tisztségének megszüntetése érdekében. Egyidejűleg kérheti az elnöknek e tisztségből történő felfüggesztését is. A döntéshozatalban az elnök nem vehet részt.
+
+(7) Amennyiben a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem nyújt be keresetet az elnöki tisztség megszüntetése érdekében, a fővárosi és megyei kormányhivatal közvetlenül bírósághoz fordulhat az elnöki tisztség megszüntetése és egyidejűleg az elnöknek e tisztségéből történő felfüggesztése érdekében.
+
+(8) A bíróság soron kívüli eljárása során a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+
+(9) Az elnökhelyettesre az elnökre irányadó szabályokat kell alkalmazni.
 
 ### A nemzetiségi önkormányzat elnökének, elnökhelyettesének, képviselőjének, bizottsága elnökének és tagjának díjazása
 
