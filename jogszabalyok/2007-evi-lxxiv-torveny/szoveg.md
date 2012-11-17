@@ -83,6 +83,19 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 (7) A Hatóság a műsorterjesztés e törvény szerinti jogszerűségét általános hatósági felügyeleti eljárásban ellenőrzi.
 
+(8) A műsorterjesztő köteles a Hivatal számára minden év február 28-ig – a Hivatal erre irányuló külön felhívása vagy döntése nélkül – az alábbi, a tárgyév január 1-i állapot szerinti adatokat szolgáltatni:
+
+- a) a műsorterjesztő által terjesztett programcsomagok megnevezése, a programcsomagok előfizetési díja, a műsorterjesztésre alkalmazott technológia meghatározása,
+- b) az egyes terjesztett médiaszolgáltatásokhoz tartozó előfizetői számok megjelölése településenkénti – Budapest esetében kerületenkénti – bontásban,
+- c) a műsorterjesztő által terjesztett médiaszolgáltatások állandó megnevezése, nyelve, tematikája,
+- d) a műsorterjesztő által terjesztett információs csatorna megnevezése.
+
+(9) A Hivatal a (8) bekezdés szerinti adatok benyújtására elektronikus űrlapot rendszeresít, amelyet a kötelezettség teljesítésére meghatározott határidő kezdete előtt legalább 30 nappal közzétesz internetes honlapján. A műsorterjesztő e § szerinti adatszolgáltatási kötelezettségét az elektronikus űrlap kitöltésével is teljesítheti.
+
+(10) Amennyiben az adatszolgáltatásra kötelezett a (8)–(9) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hivatal bírságot szab ki, amelynek mértéke – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,25%-a, de legalább 100 000 Ft. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb harmincmillió forint. Ezen túlmenően az adatszolgáltatás nem, vagy nem megfelelő teljesítése esetén a Hivatal ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő szolgáltató vezető tisztségviselőjét is.
+
+(11) A (10) bekezdésben foglalt határozat ellen az Eht. szerinti jogorvoslatnak van helye.
+
 6/A. § (1) A lineáris audiovizuális médiaszolgáltató Mttv. 9. § (7) bekezdése szerinti, VI. kategóriába sorolt vagy annak minősülő műsorszámát a műsorterjesztő nem terjesztheti.
 
 (2) Az (1) bekezdésben foglalt előírást nem kell alkalmazni, ha a médiaszolgáltatás titkosított formában tartalmazza a műsorszámot, és a titkosítás feloldásához olyan kódra van szükség, amelyet a médiaszolgáltató vagy a műsorterjesztő csak tizennyolcadik életévét betöltött előfizető számára tett hozzáférhetővé, vagy amely valamely más hatékony műszaki megoldást alkalmaz annak érdekében, hogy a műsorszám kizárólag tizennyolc éven felüli nézők vagy hallgatók számára legyen elérhető.
@@ -616,21 +629,21 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 44. § (1) A közszolgálati médiaszolgáltató műsora analóg szórásának leállítására a műsorszóró hálózatban található adónként vagy az adó és átjátszóadói vagy több adó és az átjátszóadók által meghatározott területenként a Hatóság elnöke által rendeletben meghatározott módon és időben kerülhet sor.
 
-(2) A közszolgálati televízió médiaszolgáltatások analóg műsorszórásának leállítását pályázati kiírásban kell meghatározni.
+(2) A digitális televízió, illetve rádió műsorszóró hálózat, illetve műsorszóró adó üzemeltetője az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatásokat ingyenesen köteles a felhasználók számára elérhetővé tenni. Ez a kötelezettség nem vonatkozik az Mttv. 75. § (3) bekezdés alapján továbbított közszolgálati médiaszolgáltatásokra.
 
-(3) A digitális televízió, illetve rádió műsorszóró hálózat, illetve műsorszóró adó üzemeltetője az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatásokat ingyenesen köteles a felhasználók számára elérhetővé tenni. Ez a kötelezettség nem vonatkozik az Mttv. 75. § (3) bekezdés alapján továbbított közszolgálati médiaszolgáltatásokra.
+(3) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton köteles terjeszteni.
 
-(4) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton és a mobil vételű digitális televízió műsorszóró hálózaton köteles terjeszteni.
+(4) Az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatások digitális vételének ingyenesen, illetve az Mttv. 74. § (1) bekezdése szerinti díjon történő biztosítása érdekében a digitális vevődekóderek állami támogatására, illetve a vevődekóderek – helyszínen történő – beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján, a Hatóság elnöke rendeletében meghatározott módon kerülhet sor. Az állami támogatás részletes szabályait a Hatóság elnöke rendeletben határozza meg.
 
-(5) Az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatások digitális vételének ingyenesen, illetve az Mttv. 74. § (1) bekezdése szerinti díjon történő biztosítása érdekében a digitális vevődekóderek állami támogatására, illetve a vevődekóderek – helyszínen történő – beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására a közszolgálati analóg műsorszórás leállítását megelőzően legalább három hónapig, a közszolgálati analóg műsorszórás leállítását követően pedig legalább egy hónapig, versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján, a Hatóság elnöke rendeletében meghatározott módon kerülhet sor. Az állami támogatás részletes szabályait a Hatóság elnöke rendeletben határozza meg.
+(5) Az állami támogatásra jogosult felhasználók személyes megkeresését és tájékoztatását, illetve a támogatási igényre vonatkozó felmérést a Központi Statisztikai Hivatal (a továbbiakban: KSH) végzi, amennyiben a Hatóság a fenti feladatok ellátására a KSH-val együttműködési megállapodást köt. Az együttműködési megállapodás megkötése esetén abban részletesen szabályozni kell a KSH általi feladatellátás kereteit, illetve a KSH és a Hatóság közötti feladatmegosztást és a feladatok végrehajtása pénzügyi fedezetének átadását. Az együttműködési megállapodásban foglalt feladatok pénzügyi fedezetét a Hatóság a 45. §-ban meghatározott forrásokból biztosítja a KSH részére. Az együttműködési megállapodásban meghatározott feladatok ellátása érdekében a KSH megbízási szerződéseket köthet, célfeladatot tűzhet ki.
 
 ### Adatkezelés a vevőeszköz-támogatás érdekében
 
-44/A. § (1) A Hatóság a digitális vevődekóderek állami támogatására vonatkozó közfeladat ellátása során a támogatásra jogosultság megállapítása és a támogatás felhasználása jogszerűségének ellenőrzése céljából jogosult a támogatási jogosultsággal összefüggő – a (4)–(6) bekezdésben meghatározott – személyes és különleges adatok kezelésére.
+44/A. § (1) A Hatóság a digitális vevődekóderek állami támogatására vonatkozó közfeladat ellátása során a támogatásra jogosultság megállapítása és a támogatás felhasználása jogszerűségének ellenőrzése céljából jogosult a támogatási jogosultsággal összefüggő – a (4)–(6a) bekezdésben meghatározott – személyes és különleges adatok kezelésére. A (6) bekezdésben meghatározott adatokat a települési önkormányzatok jegyzőivel, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalaival központi, közvetlen informatikai kapcsolattal rendelkező Közigazgatási és Igazságügyi Hivatal (a továbbiakban: KIH) változtatás nélkül, egységes adatbázis formájában dolgozza fel a Hatóság részére. A KIH biztosítja, hogy az általa feldogozott adatok legalább olyan védelemben részesüljenek, mint amilyenben a települési önkormányzatok jegyzőinél, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainál és a Hatóságnál részesülnek.
 
 (2) Az állami támogatásra való jogosultsággal összefüggő adatokat kezelő – a (3)–(6) bekezdés szerinti – állami, önkormányzati szerv a Hatóság megkeresésére 30 napon belül köteles adatot szolgáltatni a Hatóság részére. A megkeresés eljárási szabályait, az adatszolgáltatás teljesítésére vonatkozó rendelkezéseket a Hatóság elnöke – e törvény keretei között – az 53. § (2) bekezdésében foglalt felhatalmazás alapján kiadott rendeletében (e § alkalmazásában a továbbiakban: támogatási rendelet) határozza meg.
 
-(3) A Hatóság a támogatást igénylő jogosultakra vonatkozóan a nyugdíjbiztosítási igazgatási szervtől, a kincstártól és a települési önkormányzat jegyzőjétől kérhet adatszolgáltatást, a támogatási jogosultságot megalapozó ellátások szerinti csoportosításban.
+(3) A Hatóság a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében adható állami támogatás rendjét szabályozó rendeletben meghatározott szociális ellátásokban részesülő támogatást igénylő jogosultakra vonatkozóan a nyugdíjbiztosítási igazgatási szervtől, a kincstártól, a települési önkormányzat jegyzőjétől, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától kérhet adatszolgáltatást, a támogatási jogosultságot megalapozó ellátások szerinti csoportosításban.
 
 (4) A nyugdíjbiztosítási igazgatási szervtől a Hatóság a társadalombiztosítási ellátásokkal összefüggésben
 
@@ -650,13 +663,21 @@ igényelhet megkeresésében.
 
 igényelhet megkeresésében.
 
-(6) A települési önkormányzat jegyzőjétől a Hatóság a szociális ellátásokkal összefüggésben
+(6) A települési önkormányzat jegyzőjétől, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától a Hatóság a szociális ellátásokkal összefüggésben
 
 - a) természetes személyazonosító adatokat,
 - b) a lakóhely (tartózkodási hely) adatait, valamint
 - c) a szociális ellátásra vonatkozó adatokat
 
 igényelhet megkeresésében.
+
+(6a) A Hatóság a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező háztartások azonosítása érdekében az elektronikus hírközlési szolgáltatókat az előfizetőik
+
+- a) természetes személyazonosító adatai,
+- b) lakóhely (tartózkodási hely) adatai, valamint
+- c) szolgáltatás telepítési helyével összefüggő adatai
+
+vonatkozásában adatszolgáltatásra kötelezheti.
 
 (7) Az adatkezelés során a Hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint amilyenben az átadó állami, önkormányzati szervnél részesülnek.
 
@@ -666,7 +687,7 @@ igényelhet megkeresésében.
 
 (10) A Hatóság az adatkezelésre a digitális átállással összefüggő állami vevőeszköz-támogatás igénylésére nyitva álló határidőt követően is, legfeljebb azonban a digitális átállást követő két évig jogosult. Ezt követően a Hatóság a részére átadott adatokat törli.
 
-(11) A Hatóság a támogatási jogosultsággal összefüggő, a (4) bekezdés a) és b) pontjában, az (5) bekezdés a) és b) pontjában, valamint a (6) bekezdés a) és b) pontjában meghatározott adatokat átadhatja a vevőeszköz-támogatás lebonyolítását végző szervezetnek, gazdasági társaságnak, amelynek keretében a Hatóság az átadott adatoknak legalább olyan védelmét biztosítja, mint amilyenben a Hatóságnál, illetve az átadó állami, önkormányzati szervnél részesülnek.
+(11) A Hatóság a támogatási jogosultsággal összefüggő, a (4) bekezdés a) és b) pontjában, az (5) bekezdés a) és b) pontjában, a (6) bekezdés a) és b) pontjában, valamint a (6a) bekezdés a), b) és c) pontjában meghatározott adatokat átadhatja a vevőeszköz-támogatás lebonyolítását végző szervezetnek, gazdasági társaságnak, amelynek keretében a Hatóság az átadott adatoknak legalább olyan védelmét biztosítja, mint amilyenben a Hatóságnál, illetve az átadó állami, önkormányzati szervnél részesülnek.
 
 ### A digitális átállás forrásai
 
@@ -718,7 +739,9 @@ igényelhet megkeresésében.
 
 (5)
 
-48. §
+### Átmeneti rendelkezések
+
+48. § 2013. január 1-jéig a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vonatkozásában a 44/A. § (1), (3) és (6) bekezdés rendelkezéseit nem kell alkalmazni.
 
 49–52. §
 
