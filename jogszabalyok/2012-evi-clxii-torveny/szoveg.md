@@ -54,6 +54,6 @@ a MÁV Általános Biztosító Egyesülettel kötött kötelező gépjármű-fel
 
 (4) A (3) bekezdés c) pontjában meghatározott esetben az Egyesület egyezség megkötését kezdeményezi olyan méltányos összegre vonatkozóan, amely – az eset összes körülményének a figyelembevételével – alkalmas a kártérítési igénnyel kapcsolatban már felmerült és a jövőben jelentkező követelés lezárására.
 
-8. § A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank az e törvényben meghatározott rendelkezések végrehajtásának ellenőrzése céljából adatszolgáltatást kérhet a MABISZ-tól a Technikai számlával kapcsolatos információkra vonatkozóan, továbbá a MABISZ-tól és az Egyesülettől a Technikai számla és az Egyesület közötti elszámolásokkal kapcsolatban.
+8. § A Pénzügyi Szervezetek Állami Felügyelete az e törvényben meghatározott rendelkezések végrehajtásának ellenőrzése céljából adatszolgáltatást kérhet a MABISZ-tól a Technikai számlával kapcsolatos információkra vonatkozóan, továbbá a MABISZ-tól és az Egyesülettől a Technikai számla és az Egyesület közötti elszámolásokkal kapcsolatban.
 
 9. § Ez a törvény a kihirdetését követő tizenötödik napon lép hatályba.
