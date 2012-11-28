@@ -138,6 +138,8 @@ a következő törvényt alkotja:
 
 (7) Az (1) bekezdés a) pontja alapján vállalt jogszabályi állami kezességgel kapcsolatosan az állam kezességvállalási díjat nem számol fel.
 
+(8) Az MFB Zrt. javára vagy érdekében fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség – az államháztartásért felelős miniszter külön hozzájárulása nélkül – az alapjogviszony változásához igazodva áll fenn, feltéve, ha a változás nem érinti a fennálló kezességvállalással biztosított alapjogviszonynak az állami kezességvállalásra vonatkozó jogszabályokban vagy kormányhatározatban rögzített feltételeit.
+
 ### Az MFB Zrt. kormányzati kapcsolatai
 
 6. § (1) Az MFB Zrt. előző évi tevékenységéről a Magyar Államot mint tulajdonost képviselő miniszter (a továbbiakban: a tulajdonosi jogok gyakorlója) legkésőbb augusztus 31-ig beszámol a Kormánynak.
@@ -191,6 +193,8 @@ szerezhet.
 
 (3) Az MFB Zrt. által befektetési alapokba, illetőleg kockázati tőkealapokba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjét.
 
+9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
+
 ### Az üzleti könyvek vezetése. Az éves beszámoló
 
 10. § (1) Az MFB Zrt. köteles a tulajdonosi jogok gyakorlója által elfogadott – a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó – éves beszámolót és az összevont (konszolidált) éves beszámolót az adott üzleti év mérlegfordulónapjától számított 180 napon belül cégbíróságnál letétbe helyezni ugyanolyan formában és tartalommal (szövegezésben), mint amelynek alapján a könyvvizsgáló az éves beszámolót és az összevont (konszolidált) éves beszámolót felülvizsgálta.
@@ -199,7 +203,7 @@ szerezhet.
 
 ### V. Fejezet — AZ MFB ZRT. FELÜGYELETE
 
-11. § (1) Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) látja el.
+11. § (1) Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – a Felügyelet látja el.
 
 (2) A Felügyelet az általa végzett vizsgálat eredményéről készült jelentést a tulajdonosi jogok gyakorlójának küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
 
