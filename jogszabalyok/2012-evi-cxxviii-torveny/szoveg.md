@@ -179,6 +179,14 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 
 (2) A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) szerinti beszállítók érdekképviseletét ellátó szakmai és szakmaközi szervezet tagjai számára az adott piacra, illetve az ott alkalmazásra kerülő árakra, beszerzési és értékesítési lehetőségekre, ösztönzők alkalmazására, a termékek piaci helyzetének javítására, illetve kiegyensúlyozott piaci viszonyok biztosítására vonatkozó felmérést végezhet, információt adhat, valamint a tagok között erre irányuló koordinatív egyeztetést folytathat, amennyiben az ilyen tevékenység révén megvalósuló gazdasági és társadalmi előnyök meghaladják a tevékenység révén kialakuló versenyt korlátozó magatartásból adódó hátrányokat. Az ilyen tevékenység nem minősül a versenytörvény 11. §-ában foglalt tilalom megsértésének.
 
+18/A. § (1) Mezőgazdasági termék vonatkozásában nem állapítható meg a versenytörvény 11. §-ában meghatározott tilalom megsértése, ha a versenytörvény 11. §-a szerinti megállapodásból eredően a gazdasági verseny torzítása, korlátozása vagy megakadályozása a gazdaságilag indokolt, méltányolható jövedelem eléréséhez szükséges mértéket nem haladja meg, és e jövedelem megszerzésétől a megállapodás által érintett piac szereplője nincs elzárva, továbbá az Európai Unió Működéséről szóló Szerződés 101. cikkének alkalmazására nem került sor.
+
+(2) Az (1) bekezdésben foglalt mentesülési feltételek fennállását a miniszter állapítja meg.
+
+(3) A versenytörvény 11. §-ában szereplő tilalom mezőgazdasági termék vonatkozásában történő megsértésének vizsgálata során a Gazdasági Versenyhivatalnak a miniszter (2) bekezdés szerinti állásfoglalását be kell szerezni, és az abban foglaltak alapján kell eljárnia. A miniszternek az állásfoglalását a Gazdasági Versenyhivatal megkeresésének beérkezésétől számított hatvan napon belül kell kiadnia, amely időtartamra a Gazdasági Versenyhivatal az eljárását felfüggeszti.
+
+(4) Az eljáró versenytanács a bírság kiszabását felfüggeszti a 11. §-ba ütköző olyan megállapodás vagy az Európai Unió Működéséről szóló Szerződés 101. cikkébe ütköző olyan versenytársak közötti megállapodás vagy összehangolt magatartás esetén, ahol azt mezőgazdasági termék vonatkozásában követték el. Ez esetben az eljáró versenytanács határidő tűzésével felszólítja a megállapodásban vagy összehangolt magatartásban résztvevő feleket, hogy magatartásukat hozzák összhangba a jogszabályi rendelkezésekkel. A határidő eredménytelen elteltét követően az eljáró versenytanács bírságot szab ki.
+
 19. § (1) A termelő és feldolgozó, illetve felvásárló viszonylatában a mezőgazdasági és élelmiszeripari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, illetve felvásárló részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a termelő a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a feldolgozó, illetve felvásárló rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni.
 
 (2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
@@ -218,6 +226,8 @@ a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseir
 21. § (1) Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 
 (2) E törvény hatálybalépését megelőzően elismert szakmaközi szervezetek elismerését a törvény hatálybalépése nem érinti.
+
+21/A. § E törvénynek a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló 2012. évi CXXVIII. törvény módosításáról szóló 2012. évi CLXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és megismételt eljárásokban is alkalmazni kell.
 
 22. § Felhatalmazást kap a Kormány, hogy a mezőgazdasági igazgatási szervet rendeletben jelölje ki.
 
