@@ -1369,6 +1369,8 @@ szükséges,
 - a) a mezőgazdasági és vidékfejlesztési támogatási szerv az adózó használatában lévő földterület művelési ágáról és nagyságáról,
 - b) az erdészeti hatóság az adózó használatában lévő erdőterületen folytatott erdőgazdasági tevékenységről, a faállomány nagyságáról, annak változásáról.
 
+(13a) Az élelmiszerlánc-felügyeleti hatóság az állami adó- és vámhatóság megkeresésére adatot szolgáltat a nyilvántartásában szereplő adatokról, amennyiben az az ellenőrzés lefolytatásához szükséges.
+
 (14) A mezőgazdasági és vidékfejlesztési támogatási szerv az adóévet követő év január 31-éig adatot szolgáltat az állami adóhatósághoz az általa kifizetett támogatás jogcíméről, összegéről a magánszemély nevének, adóazonosító jelének feltüntetésével.
 
 (15) Az állami adóhatóság nyilvántartja az adózó nevében eljáró állandó meghatalmazott, megbízott magánszemély adóazonosító jelét.
@@ -3644,7 +3646,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 177. § (1) Az állami adóhatóság az adóévet követő év október 31-éig a fizetésre kötelezett adóazonosító jelét tartalmazó megkeresésre a Diákhitel Központ Rt.-nek adatot szolgáltat a hallgatói hitel törlesztésére kötelezett magánszemélynek az adóévben keletkezett, a törlesztési kötelezettség alapját képező jövedelméről.
 
-(2) Amennyiben a magánszemély hallgatóihitel-törlesztési kötelezettségének nem tesz eleget, tartozását a Diákhitel Központ Rt. megkeresésére az állami adóhatóság adók módjára hajtja be. A behajtás iránti megkereséshez a Diákhitel Központ Rt. a hallgatói hitel törlesztésére kötelezett magánszemély részére igazoltan kézbesített fizetési felszólítás egy példányát köteles csatolni.
+(2) Amennyiben a magánszemély hallgatóihitel-törlesztési kötelezettségének nem tesz eleget, tartozását a Diákhitel Központ Zrt. megkeresésére az állami adóhatóság adók módjára hajtja be. A behajtás iránti megkereséshez a Diákhitel Központ Zrt. a hallgatói hitel törlesztésére kötelezett magánszemély részére igazoltan kézbesített fizetési felszólítás egy példányát köteles csatolni. Amennyiben az állami adóhatósági eljárásban a Diákhitel szervezet teljes követelése nem térült meg, és a követelés polgári jogi érvényesítésének feltételei fennállnak, a Diákhitel szervezet – az állami adóhatóság 161. § (5) bekezdés szerinti tájékoztatását követően – polgári jogi eljárást indíthat.
 
 (3) Amennyiben a törlesztésre kötelezett magánszemélynek a megkeresésben közölt és az állami adóhatóság által nyilvántartott adatai között eltérés van, az adatokat a Diákhitel Központ Rt. és az állami adóhatóság egyezteti. Amennyiben az egyeztetés nem vezet eredményre, a magánszeméllyel a Diákhitel Központ Rt. tisztázza az adateltérés okát.
 
@@ -3839,7 +3841,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított Art. 28. § (1) bekezdését a 2011. adóévről benyújtandó egyszerűsített bevallással kapcsolatban is alkalmazni kell.
 
-(5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 3. számú melléklet G. pont 7. alpontját 2012. január 1-jén vagy azt követően létesített vagy megszüntetett ügyfélkapu vonatkozásában kell alkalmazni, azzal, hogy az okmányiroda a 2012. január 1-jén ügyfélkapuval rendelkező személyek adatait 2012. március 31-ig – elektronikus úton – megküldi az állami adóhatóság részére.
+(5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 3. számú melléklet G. pont 7. alpontját 2012. január 1-jén vagy azt követően létesített vagy megszüntetett ügyfélkapu vonatkozásában kell alkalmazni, azzal, hogy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a 2012. január 1-jén ügyfélkapuval rendelkező személyek adatait 2012. december 31-ig – elektronikus úton – megküldi az állami adóhatóság részére.
 
 (6) A 3. számú melléklet N) pontjának – az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel történő – hatályon kívül helyezését 2012. január 1-jétől kell alkalmazni, azzal, hogy az ezt megelőző időszakokra vonatkozó adatszolgáltatási kötelezettséggel kapcsolatosan mulasztási bírság kiszabásának nincs helye.
 
@@ -3937,7 +3939,7 @@ bevallást tesz.
 
 6. A tárgyévben végzett, valamely korábbi adóbevallási időszakot érintő önellenőrzés, a határidőt követően benyújtott bevallás, illetőleg az utólagos adómegállapítás nem érinti a tárgyévi adóbevallás gyakoriságát.
 
-7. A fogyasztói árkiegészítésről szolgáltatáscsoportonkénti részletességgel éves összesítő, a havi vagy évközi bevallás benyújtására kötelezett adózónak negyedéves összesítő bevallást kell benyújtania.
+7. A szociálpolitikai menetdíj–támogatásról szolgáltatáscsoportonkénti részletességgel éves összesítő, a havi vagy évközi bevallás benyújtására kötelezett adózónak negyedéves összesítő bevallást kell benyújtania.
 
 8. Az adózó adójáról és költségvetési támogatásáról e melléklet B) pontjában meghatározott határidő utolsó napja előtt is benyújthatja bevallását. Ebben az esetben a bevallást csak önellenőrzéssel lehet helyesbíteni, az önellenőrzési pótlékot azonban a bevallás benyújtására előírt határidőt követő első naptól kell felszámítani.
 
@@ -4077,6 +4079,8 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni. A felszámolás alatt álló adózó a 33. § (6) bekezdése szerint a tevékenységet lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a tevékenységet lezáró adóbevallásra vonatkozó rendelkezések szerint, a felszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a felszámolást lezáró adóbevallásra vonatkozó rendelkezések szerint teljesíti adófizetési kötelezettségét. A végelszámolás alatt álló adózó adófizetési kötelezettségét a tevékenységét lezáró bevallás és a záró adóbevallás benyújtásával egyidejűleg, illetve a két bevallás közötti időszakról eltérő rendelkezés hiányában az általános szabályok szerint benyújtandó bevallásokra irányadó szabályok szerint köteles teljesíteni. A végelszámolás alatt álló adózó a 33. § (6) bekezdése szerint a tevékenységet lezáró adóbevallással, illetve a végelszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás benyújtásával egyidejűleg az adót is köteles megfizetni.
 
+2a. Az adózó a 33. § (12) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
+
 3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket, a cégautóadót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve – , a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózó a 100 forintot el nem érő adóját nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést, visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
@@ -4149,13 +4153,13 @@ a kérelem benyújtását megelőző két éven belül
 
 – az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása, ellenőrzés akadályoztatása miatt – jogerősen mulasztási bírsággal sújtotta,
 
-– legalább három alkalommal székhelyet változtatott,
-
 – szerepel(t) az 55. § (3) bekezdése vagy (5) bekezdése alapján közzéteendő adózói listán,
 
 – 25 millió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt/folyik ellene.
 
 A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
+
+Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
 
 3. A társasági adó
 
@@ -4385,7 +4389,7 @@ b) Ha az adóhatóság az adózó kérelmére gyakoribb (öt-tíz-tizenöt napon
 
 a tárgyhót követő hó 20. napjától
 
-lehet igényelni, vagy eddig kell megfizetni.
+lehet igényelni, vagy eddig kell megfizetni. Az adóhatóság a gyakoribb igénybevételt engedélyező határozatát visszavonja, ha a határozat alapján igényelt előleg összege rendszeresen – egymást követő hat hónapon belül legalább három hónapban – legalább 10%-kal meghaladja a ténylegesen járó támogatás összegét.
 
 c) Egyszeri előleg igénybevételének engedélyezése esetén az igénybevétel lehetősége a tárgynegyedév első hónapjának 20. napjától nyílik meg, és azt
 
@@ -4515,7 +4519,7 @@ a) az építési helyszín címe, helyrajzi száma,
 
 b) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazonosító száma, kivitelezési jogosultságának (vállalkozói engedély, cégbírósági bejegyzés) külön jogszabály szerinti igazolása.
 
-7. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton, kapcsolati kód alkalmazásával – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, állampolgárságát, elektronikus levélcímét, ügyfélkapu azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg.
+7. A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala – minden hónap 15. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően, elektronikus úton, kapcsolati kód alkalmazásával – megküldi az állami adóhatóság részére azon személyek természetes személyazonosító adatait, állampolgárságát, elektronikus levélcímét, ügyfélkapu-azonosítóját, akik ügyfélkaput létesítettek vagy szüntettek meg, továbbá az ügyfélkapu-létesítés, illetve -megszüntetés időpontját.
 
 8. A kötelező gépjármű-felelősségbiztosítási kötvényeket nyilvántartó szerv, a közúti közlekedési nyilvántartási szerv a kötvénynyilvántartásból, illetve a közúti járműnyilvántartásból a tárgyévet követő év január 31-ig a kötelező gépjárműfelelősség-biztosítási jogviszony díj nemfizetési okból való megszűnéséről, továbbá ha a biztosító értesítése alapján a gépjármű forgalomból való kivonása iránti eljárás indul, az állami adóhatósághoz – elektronikus úton – adatot szolgáltat a következő tartalommal:
 

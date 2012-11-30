@@ -859,6 +859,8 @@ Tbj. 56/H. § (1) A társadalombiztosítási nyugdíjrendszerbe visszalépett ta
 
 Tbj. 56/I. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény 251. § (9) bekezdése a társadalombiztosítási nyugdíjrendszerbe visszalépett tag esetében nem alkalmazható.
 
+Tbj. 56/J. § A 2012. december 31-éig magán-nyugdíjpénztári tagdíj, önellenőrzési pótlék és késedelmi pótlék beszedési számlákra teljesített befizetéseket az állami adóhatóság a Nyugdíjbiztosítási Alap számlájára utalja.
+
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybaléptetés

@@ -859,7 +859,7 @@ felelős szakmai tagozatok működnek.
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
 - f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
-- g) – a (2a) bekezdésben foglaltakra is figyelemmel – ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
+- g) – a (2a) bekezdésben foglaltakra is figyelemmel – ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
   - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
   - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
   - gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,

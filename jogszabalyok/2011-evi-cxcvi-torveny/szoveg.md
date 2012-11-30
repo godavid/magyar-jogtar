@@ -419,6 +419,15 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 
 (3) Magyarország határa által körbezárt területen lévő nemzeti vagyonra vonatkozó polgári jogi szerződésben a nemzeti vagyonnal rendelkezni jogosult irányadóként kizárólag a magyar nyelvet, valamint a magyar jog alkalmazását, és jogvita esetére kizárólag a magyar bíróság – ide nem értve a választottbíróságot – joghatóságát kötheti ki. A nemzeti vagyonnal rendelkezni jogosult e jogviták eldöntésére választottbírósági eljárást nem köthet ki.
 
+(4) A (3) bekezdés nem alkalmazható a nemzeti vagyont érintő, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott következő pénzügyi eszközökre vonatkozó nemzetközi pénz- és tőkepiaci ügyletekre:
+
+- a) az átruházható értékpapír,
+- b) a pénzpiaci eszköz,
+- c) a kollektív befektetési forma által kibocsátott értékpapír,
+- d) az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, pénzügyi index vagy intézkedés, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető.
+
+(5) Ha a (4) bekezdés szerinti ügylethez kapcsolódóan két- vagy többoldalú polgári jogi szerződés kerül megkötésére, e szerződést magyar nyelven is alá kell írni.
+
 18. § (1) A helyi önkormányzat a rendelete alapján forgalomképtelennek minősülő vagyonából – az e törvény hatálybalépésétől számított 60 napon belül – rendeletben köteles megjelölni azokat a tulajdonában álló vagyonelemeket, amelyeket az 5. § (4) bekezdés szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként forgalomképtelen törzsvagyonnak minősít.
 
 (2) Aki nemzeti vagyonnak az e törvény hatálybalépését megelőzően kötött, e törvény hatálybalépésekor fennálló szerződés alapján a használója, 2012. december 31-éig köteles feltárni a 3. § (1) bekezdés 1. pontja szerint a tulajdonosi szerkezetét.
