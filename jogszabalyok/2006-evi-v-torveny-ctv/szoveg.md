@@ -1206,7 +1206,17 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (5) E cím szerinti eljárásban fogalmazó vagy bírósági ügyintéző önállóan jár el, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
-#### 91–93. §
+### 6. CÍM — Adószámtörléssel érintett cégek megszüntetésére irányuló eljárás
+
+91. § (1) Ha a cégbíróság az állami adóhatóság elektronikus úton történő értesítése alapján tudomást szerez arról, hogy a cég adószámának jogerős törlésére került sor, a cégbíróság a céget – legkésőbb az állami adóhatóság értesítését követő tizenöt munkanapon belül – megszűntnek nyilvánítja.
+
+(2) Az (1) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye.
+
+(3) A cégbíróság az e § szerinti eljárását hivatalból megszünteti, ha tudomására jut, hogy az állami adóhatóság az adószám törléséről szóló határozatát visszavonta, megsemmisítette vagy azt a bíróság hatályon kívül helyezte.
+
+(4) E cím szerinti eljárásban fogalmazó vagy bírósági ügyintéző önállóan jár el, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+
+#### 92–93. §
 
 ### VIII. Fejezet — A VÉGELSZÁMOLÁS
 
@@ -1322,7 +1332,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (2) Ha a cég törlésére irányuló kérelem benyújtása három éven belül nem történik meg, kényszertörlési eljárás lefolytatására kerül sor.
 
-(3) A cégbíróság a kényszertörlési eljárás megindításával egyidejűleg rendelkezik a végelszámoló tisztségének megszűnéséről, azzal, hogy a kényszertörlési eljárás során a végelszámoló köteles a cégbírósággal együttműködni, és a kényszertörlési eljárás lefolytatása érdekében valamennyi rendelkezésére álló információról a cégbíróságot tájékoztatni.
+(3) A cégbíróság a kényszertörlési eljárás megindításával egyidejűleg rendelkezik a végelszámoló tisztségének megszűnéséről, azzal, hogy a kényszertörlési eljárás során a volt végelszámoló köteles a cégbírósággal és az adóhatósággal együttműködni, és a kényszertörlési eljárás lefolytatása érdekében valamennyi rendelkezésére álló információról a cégbíróságot és az adóhatóságot tájékoztatni.
 
 106. § (1) A cég hitelezői a követeléseiket a végelszámolás megindításának közzétételét követő negyven napon belül jelenthetik be a végelszámolónak. A bejelentés akkor is szükséges, ha a céggel szemben a követeléssel kapcsolatban hatósági vagy bírósági eljárás van folyamatban. A bejelentés elmulasztása vagy késedelmes teljesítése nem jár jogvesztéssel, de a zárómérleg és a vagyonfelosztási határozat elfogadását követően hitelezői igényt már csak a megszűnt cég tartozásaiért történő helytállásra vonatkozó szabályok szerint lehet érvényesíteni.
 
@@ -1428,14 +1438,14 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 116. § (1) A cégbíróság kényszertörlési eljárás megindítását rendeli el, ha
 
-- a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését és a 90. § (3) bekezdését is,
+- a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését, a 90. § (3) bekezdését és a 91. § (1) bekezdését is,
 - b) a cég a végelszámolást három éven belül nem fejezte be, és a 34. § (1) bekezdés szerinti határidőn belül törlése iránt szabályszerű kérelmet nem terjesztett elő,
 - c) a cég a végelszámolás általános szabályaira történő áttérést nem hajtotta végre, vagy
 - d) a cég jogutód nélküli megszűnését előidéző ok következett be, és végelszámolási eljárás lefolytatásának nincs helye.
 
 (2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
 
-(3) A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, illetve a kényszertörlési eljárás megszüntetéséről. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
+(3) A kényszertörlési eljárás alá került cég gazdasági tevékenységet nem végezhet. A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, a kényszertörlési eljárás megszüntetéséről, valamint a cég átalakulásáról. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
 
 (4) A cégbíróság nem dönthet a kényszertörlési eljárás megszüntetéséről.
 
@@ -1455,6 +1465,14 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (5) Az (1) bekezdés szerinti végzés meghozatalára fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
+(6) A cégbíróság a kényszertörlési eljárás kezdő és befejező időpontjáról a kényszertörlési eljárás elrendelését, illetve befejezését követően haladéktalanul, elektronikus úton értesíti az állami adóhatóságot. Az adóhatóság az értesítést követően haladéktalanul, elektronikus úton tájékoztatja a cégbíróságot, ha a cég az adóhatóság nyilvántartása szerint munkavállalót foglalkoztat.
+
+117/A. § (1) A kényszertörlési eljárás során a vezető tisztségviselő köteles a kényszertörlési eljárást elrendelő végzés közzétételét követő 20 napon belül a kényszertörlés alatt álló társasággal jogviszonyban álló munkavállalók részére a kényszertörlési eljárás elrendeléséig esedékes bért kifizetni.
+
+(2) A kényszertörlési eljárás során a Ctv. 117. § (3) bekezdése alapján a vezető tisztségviselő, vezető tisztségviselő hiányában a volt végelszámoló köteles az Art. szerint az adókötelezettségeket teljesíteni, valamint a kényszertörlési eljárást megelőző nappal, mint mérlegfordulónappal, számviteli beszámolót készíteni, majd a számviteli törvényben foglaltak szerint letétbe helyezni és közzétenni.
+
+(3) A (2) bekezdés szerint elkészített számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
+
 118. § (1) Amennyiben a cégbíróság azt állapítja meg, hogy
 
 - a) a céggel szemben követelés bejelentésére nem került sor, valamint
@@ -1466,7 +1484,13 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni. A (2) és (3) bekezdés szerinti lekérdezésre, megkeresésre fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
-(5) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
+(5) Ha a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy
+
+- a) a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket,
+- b) a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, vagy
+- c) a cégnek munkavállalója van,
+
+a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
 
 (6) Az (5) bekezdés alkalmazásában felszámolási költség a Cstv. 57. § (2) bekezdés f) és g) pontjában meghatározott költségek.
 

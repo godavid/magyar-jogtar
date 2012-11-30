@@ -410,34 +410,42 @@ juttatott támogatást;
 
 ### Adónyilatkozat
 
-11/A. § (1) A magánszemély (2)–(4) bekezdés szerint adónyilatkozatot tehet, ha egyébként nem keletkezett olyan kötelezettsége, vagy nem él olyan jogosultsággal, amely miatt bevallási kötelezettségét munkáltatói adómegállapítással vagy adóbevallással kell teljesítenie.
+11/A. § (1) A magánszemély az adóbevallási kötelezettségét adónyilatkozat benyújtásával teljesítheti, ha megfelel a (2) bekezdésben foglalt feltételeknek és
 
-(2) A magánszemély adónyilatkozattal teljesítheti bevallási kötelezettségét, ha az összes jövedelme – ide nem értve azt, amelyet nem kell bevallania [11. § (3) bekezdés] – az adóévben kizárólag ugyanazon – adóelőleget megállapító – munkáltatótól [e § alkalmazásában a 46. § (6) bekezdés b) pontja szerinti kifizetőtől] származik, és a levont adó/adóelőleg, valamint a ténylegesen fizetendő adó különbözete az adóévben összesen az ezer forintot nem haladja meg, feltéve, hogy
+- a) az adóévben kizárólag adóelőleget megállapító munkáltatótól [e § alkalmazásában a 46. § (6) bekezdés b) pontja szerinti kifizető], kifizetőtől szerzett jövedelmet;
+- b) az adóelőleget megállapító munkáltató által levont adó, adóelőleg és a ténylegesen fizetendő adó különbözete az adóévben az ezer forintot nem haladja meg;
+- c) a b) pontba nem tartozó kifizető az adót, adóelőleget hiánytalanul levonta;
+- d) tételes költségelszámolással költséget, költséghányadot (kivéve a 10 százalék költséghányadot), adóelőleg megállapítása során nem számol, nem számolt el;
+- e) az adóévben belföldi illetőségű volt;
+- f) az adóévben nem volt egyéni vállalkozó;
+- g) mezőgazdasági őstermelőként nem köteles adóbevallás, nemleges nyilatkozat benyújtására;
+- h) az adóévben nem választotta fizető-vendéglátó tevékenységére a tételes átalányadózást;
+- i) az adóévben nem szerzett olyan jövedelmet, amely után az adót a magánszemélynek az adóbevallásban kell megállapítania, így különösen nem szerzett ingatlan, vagyoni értékű jog átruházásából származó vagy ellenőrzött tőkepiaci ügyletből származó jövedelmet;
+- j) az adóévben nem szerzett olyan jövedelmet, amely után az egészségügyi hozzájárulást saját magának kell, kellett megfizetnie;
+- k) az adóévben a közterhek teljesítéséhez nem választotta az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti közteherfizetést;
+- l) az adóévben nem szerzett külföldön (is) adóztatható jövedelmet;
+- m) az adóévben nem szerzett osztalékká nem váló osztalékelőleget, továbbá a jóváhagyott osztalék adójával szemben az adóévet megelőzően felvett osztalékelőlegből levont adót nem számol el; és
+- n) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad.
 
-- a) tételes költségelszámolással költséget nem számolt, számol el, és
-- b) a bevételből levonást, a jövedelemből családi kedvezményt – megosztás nélkül –, az adóból adójóváírást, adókedvezményt annyiban érvényesít, amennyiben az adóelőleg-nyilatkozata szerint a munkáltató azt figyelembe vette, és
-- c) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad.
+(2) A magánszemély az (1) bekezdésre is figyelemmel adónyilatkozatot akkor tehet, ha
 
-(3) A magánszemély bevallási kötelezettségét adónyilatkozattal teljesítheti, ha az adóévben kizárólag kifizetőtől származó olyan bevételt – ide nem értve azt, amelyet nem kell bevallania [11. § (3) bekezdés] – szerzett, amely kifizetésenként a 100 ezer forintot nem haladta meg,
+- a) az adóelőleg megállapítása során a jövedelemből családi kedvezményt, az adóból adókedvezményt nem érvényesített; vagy
+- b) az adóelőleg megállapítása során csak egy adóelőleget megállapító munkáltatónál érvényesített a jövedelemből – megosztás nélkül – családi kedvezményt, az adóból adókedvezményt; vagy
+- c) a magánszemély az adóéven belül több adóelőleget megállapító munkáltatónál is érvényesített a jövedelemből – megosztás nélkül – családi kedvezményt, az adóból adókedvezményt, ha
+  - ca) a magánszemélynek nem állt fenn párhuzamosan munkaviszonya a több adóelőleget megállapító munkáltatóval,
+  - cb) a korábbi munkaviszony megszűnésekor a munkáltató által az adózás rendjéről szóló törvény rendelkezései szerint kiállított adatlapot a magánszemély a következő munkáltatója számára átadta,
+  - cc) a későbbi munkáltató az adó-, adóelőleg megállapításakor, a családi kedvezmény, adókedvezmény figyelembevételekor az előző munkáltató által igazolt adatokat is figyelembe vette azzal, hogy az adónyilatkozatban érvényesített, érvényesíthető családi kedvezmény, adókedvezmény összege megegyezik az adóelőlege megállapítása során a munkáltató(k) által figyelembe vett családi kedvezmény, adókedvezmény összegével.
 
-feltéve, hogy
+(3) Ha az (1) és (2) bekezdésben foglalt, az adóelőleget megállapító munkáltató, a kifizető által megállapítható feltételek fennállnak, az adóelőleget megállapító munkáltató, a kifizető az adózás rendjéről szóló törvény előírása szerint kiadott összesített igazoláson kötelezően tájékoztatja a magánszemélyt, hogy a bevételre vonatkozóan adónyilatkozatot adhat (nem indokolt munkáltatói adómegállapítást kérnie vagy adóbevallást beadnia), továbbá az összesített igazoláson szerepelteti, hogy a magánszemélynek az adónyilatkozat egyes soraiban milyen adatokat kell feltüntetnie. Ha az adóelőleget megállapító munkáltató, a kifizető rendelkezésére álló adatok alapján a magánszemély az adóévre nem választhatja az adónyilatkozatot, erről a kiadott összesített igazoláson kötelezően tájékoztatni kell a magánszemélyt.
 
-- a) tételes költségelszámolással költséget, költséghányadot (kivéve a 10 százalék költséghányadot), nem számolt, számol el, és
-- b) a bevételből levonást, a jövedelemből családi kedvezményt, az adóból adójóváírást, adókedvezményt nem vett/vesz igénybe, és
-- c) az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad, és
-- d) az adót, adóelőleget a kifizető hiánytalanul levonta.
+(4) Az (1) bekezdés b) pontja szerinti legfeljebb ezer forint különbözetet az adóhatóság nem tartja nyilván, azt a magánszemélynek nem kell megfizetnie, illetve az adóhatóság nem téríti vissza, nem utalja ki.
 
-(4) A bevallási kötelezettség adónyilatkozattal teljesíthető akkor is, ha a magánszemély az adóévben
+11/B. § (1) A 2012. adóévre vonatkozóan az adónyilatkozat választására a magánszemély az e §-ban foglalt eltérésekkel jogosult.
 
-- a) adóelőleget megállapító munkáltató(k)tól szerzett jövedelmet úgy, hogy a levont adó/adóelőleg és a ténylegesen fizetendő adó különbözete az adóévben összesen az ezer forintot nem haladja meg, és emellett
-- b) más kifizető(k)től is szerzett kifizetésenként 100 ezer forintot meg nem haladó bevételt, feltéve, hogy 1. tételes költségelszámolással költséget, költséghányadot (kivéve a 10 százalék költséghányadot), nem számolt/számol el, és 2. a bevételből levonást, a jövedelemből családi kedvezményt – megosztás nélkül –, az adóból adójóváírást, adókedvezményt csak egy – adóelőleget megállapító – munkáltatónál érvényesített, és csak annyiban érvényesít, amennyiben az adóelőleg-nyilatkozata szerint ez a munkáltató azt figyelembe vette, és 3. az adójáról rendelkező önkéntes kölcsönös pénztári nyilatkozatot, valamint nyugdíj-előtakarékossági nyilatkozatot nem ad, és 4. az adót, adóelőleget a kifizető hiánytalanul levonta 5.
+(2) A magánszemély csak abban az esetben élhet az adónyilatkozat lehetőségével, ha
 
-(5) Ha a (2)–(3) bekezdésben foglalt, a kifizető ismeretében megállapítható feltételek fennállnak,
-
-- a) az adóelőleget megállapító munkáltató az adóévben általa kifizetett (juttatott) bevételről – ha annak ténylegesen megfizetendő adója és az abból levont adóelőleg megegyezik vagy a különbözete nem több ezer forintnál –,
-- b) 100 ezer forintot meg nem haladó kifizetések esetén bármely kifizető az általa kifizetett (juttatott) bevételről (bevételekről) – amennyiben a levont adó, adóelőleg és a ténylegesen fizetendő adó összege megegyezik – az adózás rendjéről szóló törvény előírása szerint kiadott összesített igazoláson kötelezően tájékoztatja a magánszemélyt – a (2)–(4) bekezdésben foglalt feltételek ismertetésével – hogy a bevételre vonatkozóan adónyilatkozatot adhat (nem indokolt munkáltatói adómegállapítást kérnie vagy adóbevallást beadnia).
-
-(6) A (2) bekezdés szerinti és a (4) bekezdés a) pontja szerinti legfeljebb ezer forint különbözetet az adóhatóság nem tartja nyilván, azt a magánszemélynek nem kell megfizetnie, illetve az adóhatóság nem téríti vissza (nem utalja ki).
+- a) kizárólag egy adóelőleget megállapító munkáltatótól [e § alkalmazásában a 46. § (6) bekezdés b) pontja szerinti kifizető] szerzett összevonás alá eső jövedelmet, továbbá
+- b) az a) pontba nem tartozó kifizetőtől kizárólag külön adózó jövedelmet szerzett.
 
 ### Egyszerűsített bevallás adóhatósági közreműködéssel
 
@@ -2394,7 +2402,7 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 - b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
 - c) a közlekedési kedvezmények azon körét, amely adómentes természetbeni juttatásnak minősül;
 - d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
-- e) a mezőgazdasági őstermelői igazolvány kiadásával összefüggő előírásokat;
+- e) a mezőgazdasági őstermelői igazolvány kiadásával, visszavonásával, használata jogszerűségének, az abban foglalt adatok valódiságának ellenőrzésével és elektronikus ügyintézésével összefüggő előírásokat;
 - f)
 - g) azon betegségek körét, amelyekben szenvedő személyek a személyi kedvezmény érvényesítése szempontjából súlyosan fogyatékosnak minősülnek.
 
