@@ -185,8 +185,8 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - f) kidolgozza a tisztességes piaci magatartásra vonatkozó etikai szabályokat tartalmazó etikai szabályzatot;
 - g) külön törvények rendelkezései szerint részt vesz az országosan működtetett tanácsok és testületek munkájában;
 - h) megállapítja a közfeladatok ellátásához nyújtott költségvetési támogatás területi gazdasági kamarák közötti elosztásának elveit;
-- i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot.
-- j)
+- i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot;
+- j) közreműködik a külkereskedelem fejlesztésében, részt vesz a külkereskedelem fellendítését elősegítő gazdálkodó szervezetek rendszerének kialakításában és működtetésében.
 
 (2) Az országos kamarák Állandó Választottbíróságot működtethetnek. A Magyar Kereskedelmi és Iparkamara biztosítja a nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság működési feltételeit, megválasztja és visszahívja a választottbírókat.
 
@@ -197,6 +197,14 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 13. § (1) A gazdasági kamarák – ideértve az országos kamarákat is – a 9–12. §-okban foglalt közfeladatokat – a 10. § (1) bekezdésének c)–e) pontjaiban foglalt eltérések figyelembevételével – minden gazdálkodó szervezet vonatkozásában ellátják.
 
 (2) Az országos gazdasági érdekképviseleti szervezetek a 9–10. §-okban és a 12. §-ban foglalt közfeladatok ellátásában együttműködnek a gazdasági kamarákkal.
+
+13/A. § (1) A 12. § (1) bekezdés c) pontjában meghatározott közfeladatokat az országos gazdasági kamara az állam és az országos gazdasági kamara által – 50 százalékot meghaladó állami tulajdonrésszel – alapított zártkörűen működő részvénytársaság közreműködésével látja el. Az államnak az alapítással kapcsolatos jogait a gazdaságpolitikáért felelős miniszter gyakorolja a (2) bekezdésben meghatározottak szerint.
+
+(2) Az állam az (1) bekezdés szerinti társaságban fennálló társasági részesedése feletti tulajdonosi jogait a gazdaságpolitikáért felelős miniszter gyakorolja azzal, hogy a tulajdonosi döntéseket az agrár-vidékfejlesztésért felelős miniszterrel való egyeztetést követően hozza meg.
+
+13/B. § (1) A 12. § (1) bekezdés j) pontjában meghatározott közfeladatokat az országos gazdasági kamara az állam és az országos gazdasági kamara által – 50 százalékot meghaladó állami tulajdonrésszel – alapított zártkörűen működő részvénytársaság közreműködésével látja el.
+
+(2) Az állam az (1) bekezdés szerinti társaság alapításával és a társaságban fennálló társasági részesedésével kapcsolatos tulajdonosi jogait a gazdaságpolitikáért felelős miniszter gyakorolja.
 
 14. § A gazdasági kamarák szakmai, munkáltatói és munkavállalói érdekképviseletet nem láthatnak el.
 
@@ -452,7 +460,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (4) A kamarai hozzájárulás fizetésének részletes szabályait az országos gazdasági kamara alapszabálya határozza meg.
 
-(5) A meg nem fizetett kamarai hozzájárulás köztartozás. A kamarai hozzájárulás meg nem fizetése esetén azt az állami adóhatóság adók módjára hajtja be.
+(5) A meg nem fizetett kamarai hozzájárulás köztartozás, amelyet az állami adóhatóság adók módjára hajt be. A kamarai hozzájárulás behajtása érdekében a gazdasági kamara akkor is megkeresheti az állami adóhatóságot, ha a tartozás a 10 000 forintot nem haladja meg, de eléri az 5 000 forintot.
 
 (6) A (2) bekezdés szerinti összeg 10%-a az országos gazdasági kamarát, 90%-a a területi gazdasági kamarát illeti meg. A területi gazdasági kamara az országos kamarának járó részt tárgyév április 30-ig köteles megfizetni.
 

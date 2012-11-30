@@ -26,7 +26,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 - 8. import: a gépjárműnek az Európai Közösség (a továbbiakban: Közösség) területén kívülről belföldre történő behozatala, vagy egyéb módon való bejuttatása;
 - 9. Közösség területe: az Európai Gazdasági Közösséget létrehozó Szerződés 227. cikke szerinti terület;
 - 10. motorkerékpár: a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (a továbbiakban: KRESZ) alapján motorkerékpárnak vagy segédmotoros kerékpárnak minősülő gépjármű, valamint az a személygépkocsiként forgalomba helyezett négykerekű gépjármű, amelynek saját tömege, valamint motorteljesítménye a KRESZ alapján motorkerékpárnak minősülő négykerekű gépjármű ismérveinek felel meg;
-- 11. Közösségen belüli beszerzés: új gépjármű másik tagállamból történő behozatala, vagy egyéb módon történő bejuttatása, ahol az általános forgalmi adó (a továbbiakban: áfa) megfizetése az általános forgalmi adóról szóló 1992. évi LXXIV. törvény (a továbbiakban: áfa-törvény) 46. §-a (2) bekezdésének b) pontja alapján történik;
+- 11. Közösségen belüli beszerzés: új gépjármű másik tagállamból történő behozatala, vagy egyéb módon történő bejuttatása, ahol az általános forgalmi adó (a továbbiakban: áfa) megfizetése az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: áfa-törvény) 154. § (2) bekezdése alapján történik;
 - 12. importáló: az áfa-törvény szerinti importáló;
 - 13. referencia gépjármű:
   - a) az adó különös szabályok szerinti megállapítása alá tartozó gépjárművel azonos gyártmányú, típusú, változatú és kivitelű gépjármű, amelyet az adó különös szabályok szerinti megállapítása alá tartozó gépjármű forgalomba helyezésének időszakában új állapotban vezettek be a belföldi piacra, vagy
@@ -125,7 +125,8 @@ keletkezik.
 
 - a) az adó különös szabályok szerinti megállapítására irányuló eljárásban,
 - b) az adó-visszaigénylésre irányuló eljárásban,
-- c) jogorvoslati eljárásban.
+- c) jogorvoslati eljárásban,
+- d) a gépjárműflotta-üzemeltető által bérbe adott személygépkocsikkal kapcsolatos adóigazgatási eljárásban.
 
 (3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az okmányirodánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
 
@@ -236,13 +237,13 @@ kell igazolni.
 
 ### Gépjárműflotta-üzemeltető által bérbe adott személygépkocsi adókötelezettsége
 
-16/A. § (1) A gépjárműflotta-üzemeltetőt a belföldi illetőségű személynek, szervezetnek – 1 napon túli időtartamra – bérbe adott személygépkocsija után a Melléklet III. rész szerinti adófizetési kötelezettség terheli.
+16/A. § (1) A gépjárműflotta-üzemeltetőt a belföldi illetőségű személynek, szervezetnek – 1 napon túli időtartamra – bérbe adott személygépkocsija után a Melléklet szerinti adófizetési kötelezettség terheli.
 
 (2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsi honossága szerint illetékes járműnyilvántartó, cégnyilvántartó hatóság és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
 
 (3) Az adózó a (2) bekezdés szerinti feltételek teljesülését adókötelezettségének adóévi első ízben való keletkezését követő, míg a személygépkocsi bérbeadási szerződését – annak megkötésétől számított – 15 napon belül nyújtja be a vámhatósághoz. Az adót a vámhatóság a bérleti szerződés benyújtását követő 3 munkanapon belül határozattal állapítja meg a gépjárműflotta-üzemeltető terhére.
 
-(4) A vámhatóság az adó megfizetéséről a személygépkocsi rendszámát, alvázszámát, valamint a bérbeadó és bérlő adatait tartalmazó – a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. § (1) bekezdésének l) pontjában foglalt esetben a Kkt. 20. § (4) bekezdése szerinti bírság alól mentesítő – igazolást ad ki az adó megfizetését követő 3 munkanapon belül, melyet a rendőrhatóság részére is továbbít.
+(4) A vámhatóság az adó megfizetéséről a személygépkocsi rendszámát, alvázszámát, a bérlet időtartamát, valamint a bérbeadó és bérlő adatait tartalmazó – a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. § (1) bekezdés l) pontjában foglalt esetben a Kkt. 20. § (4) bekezdése szerinti bírság alól mentesítő – igazolást ad ki az adó megfizetését követő 3 munkanapon belül, melyet a rendőrség részére elektronikus úton is továbbít.
 
 ### Záró és átmeneti rendelkezések
 

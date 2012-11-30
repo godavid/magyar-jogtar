@@ -489,7 +489,11 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
 
-#### 48. §
+48. § (1) Az önkormányzatok 2012. évben lejáró likvid hiteleinek, pénzforgalmi számlához kapcsolódóan nyújtott és egyéb működési hiteleinek változatlan ügyletérték melletti, legfeljebb 2013. június 30-áig való meghosszabbítására, illetve legfeljebb 2013. június 30-áig tartó futamidejű adósságmegújító hitellel történő kiváltására irányuló ügyletek megkötéséhez a Kormány 10. § (1) bekezdése szerinti előzetes hozzájárulása nem szükséges.
+
+(2) Az 1. § c) pontjában foglaltaktól eltérően az önkormányzatok esetében likvid hitelnek minősül az a pénzforgalmi számlához kapcsolódóan nyújtott hitel is, amelynek 2012. december 31-én fennálló állománya van.
+
+(3) Az (1) bekezdés rendelkezéseit a hatálybalépését követően megkötött és a hatálybalépésekor fennálló ügyletekre, a (2) bekezdés rendelkezéseit a hatálybalépésekor fennálló ügyletekre kell alkalmazni.
 
 #### 49. §
 

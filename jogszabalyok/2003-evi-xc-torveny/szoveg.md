@@ -36,7 +36,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 5. § (1) A járulékfizetésre kötelezett gazdasági társaság a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapja utolsó napjáig.
 
-(2) Az adóévben járulékfizetésre kötelezettnek háromhavonként (előlegfizetési időszak) előleget – amelynek mértéke e szakasz (4) bekezdése alapján meghatározott járulékelőleg egynegyede – kell fizetnie a harmadik hónapot követő hó 20. napjáig.
+(2) Az adóévben járulékfizetésre kötelezettnek háromhavonként (előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az adóév utolsó előlegfizetési időszakára vonatkozó járulékelőleget a járulékfizetésre kötelezett az előleg-kiegészítéssel egyidejűleg köteles teljesíteni. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (4) bekezdés alapján meghatározott járulékelőleg egynegyede.
 
 (3) A járulékfizetésre kötelezettnek – a (6) bekezdésben foglaltak kivételével – a járulékbevallással egyidejűleg a járulékbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra járulékelőleget kell bevallania az előlegfizetési időszakokra eső egyenlő részletek feltüntetésével.
 
@@ -147,7 +147,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 (2)
 
-15. §
+15. § Az egészségügy többletforráshoz jutása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény 16. §-ával megállapított 4. § (1) bekezdését a 2012-ben kezdődő adóévben is lehet alkalmazni.
 
 16. §
 

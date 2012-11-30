@@ -140,9 +140,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 9. § Az alapító az alapítást megelőzően, a pénztári tagságra jogosultak és kötelezettek között felmérést végezhet, és szándéknyilatkozatot kérhet tőlük arról, hogy a nyilatkozat aláírója, a tervezett pénztár létrehozása esetén, tagként belép-e a pénztárba. A nyilatkozatkérés során fel kell hívni a figyelmet a szabad pénztárválasztás jogára, és tilos a szabad pénztárválasztási jog bármilyen formában történő korlátozása.
 
-10. § (1) A pénztár első ízben a tevékenységi engedély közlésétől számított 30 napon belül közli a pénztárak központi nyilvántartását végző szervezettel a pénztártagok 2. számú melléklet szerinti személyes adatait.
-
-(2) A pénztár folyamatosan, az adatszolgáltatás módjára kiadott kormányrendeletben leírtak szerint közli a pénztárak központi nyilvántartását végző szervezettel az új pénztártagok 2. számú mellékletben meghatározott személyes adatait.
+10. §
 
 11. § (1) A 7. § (1)–(3) bekezdésében felsorolt szervezetek a pénztár alapításának, valamint pénztári tevékenységének költségeit részben vagy egészben átvállalhatják.
 
@@ -298,7 +296,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (6)
 
-(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított öt napon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának.
+(7)
 
 (8)–(10)
 
@@ -1689,7 +1687,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (7) A felszámolás alatt álló pénztár járadékos tagja számára az Alap a járadék teljes összegének folyósítását garantálja. Minden más esetben az Alap garanciája a felszámolás kezdő időpontjában, vagy a tag kérésére, a felszámolás kezdő időpontját megelőző üzleti évről készített éves beszámoló mérleg-fordulónapján, a tag követelésének összegéig áll fenn.
 
-(8) Az Alap a magánnyugdíjpénztár adatszolgáltatása alapján kormányrendeletben meghatározottak szerint átadja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható eszközöket a Nyugdíjreform és Adósságcsökkentő Alap számára.
+(8) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) az egyes magánnyugdíjpénztárak társadalombiztosítási nyugdíjrendszerbe 2012. március 31-ig visszalépő és a vissza nem lépő magánnyugdíjpénztár tagjainak számáról 2012. november 30-áig értesíti a Pénztárak Garanciaalapját. A Pénztárak Garanciaalapja a PSZÁF értesítése alapján megállapítja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható pénzeszközeinek összegét, és annak eszközfedezetét az értesítés kézhezvételét követő hónap utolsó napjáig a portfólión belüli eszközaránynak megfelelően adja át a Nyugdíjreform és Adósságcsökkentő Alapnak. A Pénztárak Garanciaalapja a Nyugdíjreform és Adósságcsökkentő Alapnak átadott, garanciális kifizetésekre fordítható pénzeszközeinek egy tagra jutó összegét az eszközátadást követő 15 napon belül közli a magánnyugdíjpénztárakkal.
 
 90. § (1) Az a pénztár, amelynek fizetési kötelezettsége miatt az Alap – a 89. § (3) bekezdésének b) pontjában foglaltak kivételével – kifizetést teljesített, az Alap igazgatósága által meghatározott módon ennek összegét és az ezzel összefüggésben felmerült költségeket az Alap részére megtéríti és az Alap a Felügyeletnél hivatalból kezdeményezi a személyes felelősség megállapítását.
 
@@ -2069,52 +2067,13 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) A Felügyelet feladata ellátása érdekében kezelheti a pénztártagok és a pénztárak vezető tisztségviselőinek 2. számú mellékletben meghatározott adatait, továbbá a pénztár tisztségviselőinek és alkalmazottainak összeférhetetlenségével és képesítési feltételeivel összefüggő adatokat.
 
-(3) A pénztárak központi nyilvántartása a magán-nyugdíjpénztárak, valamint az állami adóhatóság adatszolgáltatása alapján – a társadalombiztosítási egyéni nyilvántartás teljes körű kialakítása céljából – kezeli és nyilvántartja:
+(3)
 
-- a) a magán-nyugdíjpénztári tagok azonosító adatait;
-- b) a tagokat terhelő tagdíjbevallási adatok teljesítését kiegészítve a jóváírt tagdíj (tagdíjkiegészítés) összegére vonatkozó adatokkal;
-- c) a tagok egyéni számlakövetelését;
-- d) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 4. § (2) bekezdése v) pontja szerinti, visszalépő tagi kifizetésekkel csökkentett követelését a tagsági jogviszony megszűnésével;
-- e) 2010. október 1. napja és 2011. november 30. napja közötti időszakban megszerzett jövedelmekre vonatkozó valamennyi nyilvántartott személyre meghatározott, magán-nyugdíjpénztári tagdíjelőíráshoz kapcsolódó járulékfizetési kötelezettségeket;
-- f) 2010. október 1. napja és 2011. november 30. napja közötti időszakban valamennyi magánszemélyre vonatkozóan teljesített járulékfizetési kötelezettségekre vonatkozó, az Art. 31. § (2) bekezdése 1–7., 9–15., 24–28. pontjai szerinti részletezettséggel bevallott adatokat.
+120. §
 
-120. § A pénztárak központi nyilvántartását a Felügyelet saját szervezetében végzi. Ha a Felügyelet az adatokból megállapítja, hogy valamely pénztárban, annak működési zavarai miatt veszélyeztetett a szolgáltatások biztonsága, a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok követeléseinek kielégítése, vagy a pénztárak teljesítménymérésének adatai feltűnő aránytalanságot mutatnak, vagy jogszabálysértés gyanúja merül fel, megteszi a szükséges intézkedéseket.
+120/A. §
 
-120/A. § (1) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatokat szolgáltat – törvényben meghatározott feladata teljesítéséhez – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek és az állami adóhatóságnak. A központi nyilvántartásból a Felügyelet hozzáférést biztosít a magánnyugdíjpénztárak számára a nyilvántartásban tárolt pénztártagok adataihoz, amennyiben az feladataik ellátásához szükséges. A hozzáférés keretében a magánnyugdíjpénztárak lekérdezési jogosultsággal rendelkeznek. A hozzáférés részletes szabályairól külön jogszabály rendelkezik.
-
-(2) A központi nyilvántartásból a Felügyelet a tagdíjbevételek alakulásáról, az államháztartás információs szükségleteihez igazodva a minisztériumok, a Magyar Nemzeti Bank, a Központi Statisztikai Hivatal, a kincstár, valamint egyéb állami szervek részére, amennyiben az az államháztartás információs rendszerével kapcsolatos, jogszabályban meghatározott feladataik ellátásához szükséges, egyedi azonosításra alkalmatlan információt szolgáltat.
-
-(3) A központi nyilvántartásban tárolt adatokból
-
-- a) a Pénztárak Garancia Alapja a pénztári rendszer tagjaival kapcsolatos feladatai ellátása céljából,
-- b) az állami adóhatóság az adókötelezettség ellenőrzése céljából,
-- c) a bíróságok, az ügyészségek a bűnüldözési és büntetés-végrehajtási szervek, valamint a nemzetbiztonsági szolgálatok feladataik ellátása céljából
-
-az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
-
-(4) A központi nyilvántartás adatai statisztikai célra felhasználhatók, és statisztikai célú felhasználásra személyazonosításra alkalmatlan módon átadhatók.
-
-(5) Az (1) és (3) bekezdésekben nem szabályozott esetben személyes adatok továbbításának csak akkor lehet helye, ha ahhoz az érintett írásban hozzájárult.
-
-(6) A központi nyilvántartásba saját adatai tekintetében az érintett pénztár, foglalkoztató vagy természetes személy betekinthet, a róla nyilvántartott adatokról felvilágosítást kérhet.
-
-(7) A központi nyilvántartásból a foglalkoztató a vele a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesített pénztártag adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíj bevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatokat – az adatkérés céljának és jogalapjának egyidejű igazolása mellett – írásban kell kérelmezni, a központi nyilvántartásból teljesíthető adatszolgáltatás a pénztártagsági jogviszony fennállására és az érintett pénztár adatainak átadására terjedhet ki. A kincstár, a számfejtési körébe tartozó munkáltatóknál Tbj. 5. §-a szerinti biztosítási jogviszonyban álló pénztártagok adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíjbevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatkérésben az érintett pénztártag és munkáltató adatai mellett fel kell tüntetni az adatkérést kezdeményező kincstár azonosító és leíró adatait.
-
-(8) A társadalombiztosítási egyéni számla teljes körű kialakítása céljából – 2011. december 1-jét követően, legkésőbb a Kormány rendeletében meghatározott időpontig – a Felügyelet átadja a központi nyilvántartásból
-
-- a) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 119. § (3) bekezdés a) és d) pontjában meghatározott adatait pénztárak szerinti bontásban és tagi szinten, továbbá
-- b) a valamennyi ott meghatározott személyre vonatkozó, a 119. § (3) bekezdés a), e) és f) pontja alapján nyilvántartott adatokat személyenkénti bontásban
-
-a társadalombiztosítási egyéni számla vezetéséért felelős államigazgatási szerv részére, valamint 2012. augusztus 5-éig a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek.
-
-(9) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat – a visszalépő tagok követelésének pénztárankénti összegéről – a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
-
-(10) A magánnyugdíjpénztárak a visszalépő tagok összesített követelése portfolió-összetételéről és az érintett tagok számáról – jogszabályban meghatározott feladataik ellátásához, a pénztártagok adatainak ellenőrzése céljából – 2012. október 31-éig adatot szolgáltatnak a Felügyelet és a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
-
-120/B. § Az egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a Felügyelet részére – megkeresés alapján – jogszabályban meghatározott feladatai ellátásához, a pénztártagok adatainak ellenőrzése céljából a rendelkezésére álló adatokból a 2010. január 1-jét megelőző időszakra vonatkozóan a következő adatokat szolgáltatja:
-
-- a) az egészségbiztosítási szerv a biztosított társadalombiztosítási azonosító jelét és a biztosítási jogviszony kezdetének, megszűnésének időpontját,
-- b) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a foglalkoztató azonosító adatait, továbbá a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése érdekében a Tbj. 34. § (1) bekezdése szerinti megállapodás megkötésének, megszűnésének időpontját.
+120/B. §
 
 ### XII. Fejezet — A PÉNZTÁRTANÁCS
 
@@ -2225,7 +2184,7 @@ a társadalombiztosítási egyéni számla vezetéséért felelős államigazgat
 
 - a) a pénztárak egyes gazdálkodási szabályait, ideértve a hitelfelvételre, a befektetési és értékpapír-kölcsönzési tevékenységre, a beszámolási és könyvvezetési kötelezettségre, a vagyonértékelésre, a teljesítménymérésre és a tervkészítési kötelezettségre vonatkozó rendelkezéseket, továbbá a pénztárak minősítését végző szervezetekre vonatkozó előírásokat;
 - b) a pénztárak szolgáltatási szabályzatának kötelező tartalmára, az aktuáriusi értékelésre, a szolgáltatások biztosításmatematikai tartalmára, más biztonsági tartalékképzésre vonatkozó rendelkezéseket, valamint a hozamszámításra, annak módjára, továbbá a befektetési kockázatokat kiegyenlítő tartalékra vonatkozó szabályokat, illetőleg a halandósági tábla alkalmazásának feltételeire vonatkozó rendelkezéseket és a szolgáltatás engedélyezésének és a tartalékolásnak a részletes szabályait;
-- c) a Felügyelet információs adatbázisára, pénztárakkal kapcsolatos feladataira irányadó rendelkezéseket, ideértve a Felügyelet központi nyilvántartással kapcsolatos feladatának és hatáskörének szabályait, illetve a pénztárak által a Felügyelet részére elektronikus úton teljesítendő adatszolgáltatási kötelezettségek körét;
+- c)
 - d) az Alap SzMSz-ének, éves beszámolókészítési és könyvvezetésének sajátosságait;
 - e) a munkáltatónak a pályakezdőkre és a pénztárban taggá válókra vonatkozó adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat;
 - f) a pénztárak, valamint a pénztárak szolgáltatóinak e tevékenységére vonatkozó, nyilvánosságra hozandó adatok körét;

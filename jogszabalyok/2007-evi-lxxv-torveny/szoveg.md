@@ -1904,7 +1904,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 186. § (1) A könyvvizsgálói közfelügyeleti rendszer részeként a miniszter Könyvvizsgálói Közfelügyeleti Bizottságot hoz létre (e fejezet alkalmazásában: bizottság).
 
-(2) A bizottság tagjainak megbízatása a miniszter általi felkérés elfogadásával keletkezik. A megbízatás időtartama 5 év.
+(2) A bizottság tagjainak megbízatása a miniszter általi felkérés elfogadásával keletkezik. A megbízatás időtartama 5 év. A tagok megbízatását a miniszter egy alkalommal, 12 hónappal meghosszabbíthatja.
 
 (3) A bizottság tagjait nyilvános pályázat útján kell kiválasztani.
 
