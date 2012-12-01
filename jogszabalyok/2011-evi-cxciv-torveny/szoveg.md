@@ -222,6 +222,12 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
+19/A. § (1) A Tanács elnöke az országgyűlési képviselőkkel azonos módon, azonos tartalommal és gyakorisággal tesz vagyonnyilatkozatot. Az évenkénti vagyonnyilatkozatot a kötelezettség esedékessé válásának évében az azt megelőző év december 31-ei állapotára vonatkozóan, a kinevezéskor, illetve megbízatása megszűnésekor esedékes vagyonnyilatkozatot a kinevezés, illetve a megbízatás megszűnése napjának állapotára vonatkozóan kell megtennie. Saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek (hozzátartozó) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+
+(2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Tanács elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
+
+(3) A vagyonnyilatkozatot az Országgyűlés mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló ügyekkel foglalkozó állandó bizottsága (a továbbiakban: mentelmi bizottság) tartja nyilván. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti a mentelmi bizottság elnökénél. Az eljárásra az országgyűlési képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.
+
 20. § (1) A Tanács elnöke az Alaptörvényben és e törvényben meghatározott, a Tanács tevékenységére vonatkozó hatáskörök gyakorlása során kifejtett tevékenysége, az általa e tevékenysége során közölt tény vagy vélemény miatt bíróság vagy más hatóság előtt – megbízatásának ideje alatt és azt követően – nem vonható felelősségre, e tény vagy vélemény miatt a Tanács elnöke ellen bíróság, vagy más hatóság előtt eljárás nem indítható. Ez a mentesség nem vonatkozik a szigorúan titkos és titkos minősítésű adattal való visszaélésre, a rágalmazásra és a becsületsértésre, valamint a Tanács elnökének polgári jogi felelősségére.
 
 (2) Az (1) bekezdésben meghatározott mentesség kiterjed a közhatalmat gyakorló személy vagy közszereplő politikus sérelmére elkövetett becsületsértésre, valamint – amennyiben a Tanács elnökének nem volt tudomása arról, hogy a közlés a lényegét tekintve valótlan – rágalmazásra.

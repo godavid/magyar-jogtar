@@ -470,6 +470,19 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 42/A. § Amennyiben az önkormányzati adóhatóság a helyi iparűzési adó utólagos megállapítása során a vállalkozó terhére a nettó árbevétel eltitkolását vagy a nettó árbevétel jogosulatlan csökkentését tárja fel, akkor a vállalkozó azonosító adatait (adószám, név, székhely, lakóhely), valamint adóévenkénti bontásban az eltitkolt nettó árbevétel összegére, illetve – nettó árbevétel-csökkentő tételenként – a nettó árbevételből jogosulatlanul levont összegre vonatkozó adatot az állami adóhatóságnak, valamint az adózó székhelye (lakóhelye), telephelyei szerinti – a helyi iparűzési adót működtető – önkormányzat adóhatóságához, az utólagos adómegállapításról szóló határozat jogerőre emelkedését követő 15 napon belül – az adóellenőrzés elősegítése céljából – megküldi. A megkapott adatokat az adóhatóság az adó utólagos megállapítására nyitvaálló határidő lejártát követően megsemmisíti.
 
+### Tájékoztatás a bevezetett helyi adók szabályairól
+
+42/B. § (1) Az önkormányzati adóhatóság az önkormányzati adórendelet, valamint annak módosítása kihirdetésétől számított 5 napon belül – a kincstár elektronikus rendszerén keresztül – adatot szolgáltat a kincstár számára:
+
+- a) a helyi adónem bevezetésének napjáról,
+- b) az önkormányzat által megállapított adómérték, adókedvezmény, adómentesség szövegéről,
+- c) a b) pontban említett rendelkezések hatályba lépésének napjáról,
+- d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk).
+
+(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések szerinti bontásban – első alkalommal 2013. január 1-jéig közzéteszi. A kincstár a honlapján közzétett adatokat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
+
+(3) Az önkormányzati adóhatóság az (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
+
 ## HARMADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### VI. Fejezet — Átmeneti és hatálybaléptető rendelkezések
@@ -508,6 +521,10 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 51. § (1) Ha az önkormányzat a helyi adót bevezeti, az adóalany köteles a bevezetett adó megállapításához szükséges valamennyi – az önkormányzat felhívásában megjelölt – adatot szolgáltatni az adott év január 1-jei állapotának, illetve évközi bevezetés esetén a rendelet hatálybalépése napjának megfelelően.
 
 (2) Az önkormányzati adóhatóság hatáskörébe tartozó adók, adók módjára behajtandó köztartozások (e rendelkezés alkalmazásában együtt: adó) nyilvántartása során – az adó megállapításához szükséges adatokon túlmenően – csak az adózás rendjéről szóló törvényben meghatározott adóazonosító jelet és a természetes személyazonosító adatokat tartja nyilván.
+
+51/A. § (1) Az önkormányzati adóhatóság a 42/B. § (1) és (3) bekezdése szerinti kötelezettségének első alkalommal 2012. december 20-áig tesz eleget azzal, hogy az adatszolgáltatásnak a 2013. január 1-jén hatályban lévő helyi adónemekre kell vonatkoznia.
+
+(2) A Kincstár a 42/B. § (2) bekezdés szerinti kötelezettségének első alkalommal 2013. január 1-jéig tesz eleget.
 
 ### VII. Fejezet — Értelmező rendelkezések
 
