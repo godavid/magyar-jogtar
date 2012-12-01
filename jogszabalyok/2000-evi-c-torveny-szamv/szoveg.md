@@ -355,9 +355,9 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (8) A pénzkezelési szabályzatban rendelkezni kell legalább a pénzforgalom (készpénzben, illetve bankszámlán történő) lebonyolításának rendjéről, a pénzkezelés személyi és tárgyi feltételeiről, felelősségi szabályairól, a készpénzben és a bankszámlán tartott pénzeszközök közötti forgalomról, a készpénzállományt érintő pénzmozgások jogcímeiről és eljárási rendjéről, a napi készpénz záró állomány maximális mértékéről, a készpénzállomány ellenőrzésekor követendő eljárásról, az ellenőrzés gyakoriságáról, a pénzszállítás feltételeiről, a pénzkezeléssel kapcsolatos bizonylatok rendjéről és a pénzforgalommal kapcsolatos nyilvántartási szabályokról.
 
-(9) A (8) bekezdés szerinti napi készpénz záró állomány maximális mértékét annak figyelembevételével kell meghatározni, hogy a készpénz napi záró állományának naptári hónaponként számított napi átlaga – kivéve, ha külön jogszabály eltérően rendelkezik – nem haladhatja meg az előző üzleti év – éves szintre számított – összes bevételének 10%-át, illetve ha az előző üzleti év összes bevételének 10%-a nem éri el az 500 ezer forintot, akkor az 500 ezer forintot. Az átlag számításánál az adott hónap naptári napjainak záró készpénz állományát kell figyelembe venni. Mindaddig, amíg az előző üzleti év összes bevétel adata nem áll rendelkezésre, addig az azt megelőző üzleti év összes bevételét kell alapul venni.
+(9)
 
-(10) A jogelőd nélkül alapított gazdálkodónál az alapítás üzleti évében a – (9) bekezdés szerinti – napi átlag maximális mértékének meghatározásakor az összes bevételt a tárgyévi várható adatok alapján kell figyelembe venni.
+(10)
 
 (11) Az újonnan alakuló gazdálkodó a (3)–(4) bekezdés szerinti számviteli politikát, az (5) bekezdés szerint elkészítendő szabályzatokat a megalakulás időpontjától számított 90 napon belül köteles elkészíteni. Törvénymódosítás esetén a változásokat annak hatálybalépését követő 90 napon belül kell a számviteli politikán keresztülvezetni.
 

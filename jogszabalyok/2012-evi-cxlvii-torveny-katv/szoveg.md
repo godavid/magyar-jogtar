@@ -16,13 +16,42 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 #### 2. Az adóalanyiság keletkezése és megszűnése
 
-#### 4. §
+4. § (1) A kisadózó vállalkozások tételes adója szerinti adóalanyiság a választás bejelentését követő hónap első napjával jön létre.
+
+(2) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesítheti. Ebben az esetben az adóalanyiság a vállalkozás nyilvántartásba vételének napjával – de legkorábban 2013. január 1-jén – jön létre.
+
+(3) Nem választhatja az adóalanyiságot az a vállalkozás, amelynek adószámát az adóhatóság a bejelentést megelőző két éven belül törölte, vagy ezen időszakban a vállalkozás adószáma jogerősen fel volt függesztve.
+
+(4) Nem választhatja az adóalanyiságot az a vállalkozás, amely az Önálló vállalkozók tevékenységi jegyzéke, illetve a TEÁOR 2008 szerint
+
+- a) 66.22 Biztosítási ügynöki, brókeri tevékenység
+- b) 66.29 Biztosítás, nyugdíjalap egyéb kiegészítő tevékenysége
+- c) 68.20 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése besorolású tevékenységből az adóalanyiság választásának évében bevételt szerzett.
+
+(5) Az állami adóhatóság a kisadózó vállalkozások tételes adója hatálya alá tartozó adózóként történő nyilvántartásba vételről értesítő levélben tájékoztatja a kisadózó vállalkozást. A tájékoztatás tartalmazza különösen
+
+- a) a kisadózó vállalkozás nevét, elnevezését, székhelyének címét és adószámát;
+- b) a kisadózó vállalkozások tételes adója szerinti adóalanyiság kezdő dátumát;
+- c) a bejelentett kisadózó nevét, címét és adóazonosító jelét;
+- d) a főállású kisadózói jogállás esetén ennek tényét;
+- e) a kisadózó vállalkozások tételes adójának fizetendő összegét, az általános szabályok szerint esedékességét és a bevételi számla számát;
+- f) rövid ismertetőt a kisadózó vállalkozások tételes adójával kapcsolatos adókötelezettségről.
 
 #### 5–6. §
 
 #### 3. A bejelentett kisadózó
 
-#### 7. §
+7. § (1) Az adóalanyiság választásának bejelentésével egyidejűleg a kisadózó vállalkozás bejelenti azon kisadózónak vagy kisadózóknak a nevét, címét és adóazonosító jelét, aki vagy akik bármilyen jogviszonyban – ide nem értve a munkaviszonyt – végzett tevékenység keretében (ideértve különösen a személyes közreműködést, a vezető tisztségviselői és a megbízási jogviszony alapján végzett tevékenységet) részt vesz vagy vesznek a kisadózó vállalkozás tevékenységében. Egyéni vállalkozó kisadózó vállalkozás esetén az adóalany az egyéni vállalkozót mint magánszemélyt jelenti be kisadózóként.
+
+(2) A vezető tisztségviselői feladatokat nem munkaviszony keretében ellátó, a kisadózó vállalkozással megbízási jogviszonyban álló és a személyes közreműködésre köteles tagokat a kisadózó vállalkozás köteles bejelenteni kisadózóként. A kisadózó vállalkozás tevékenységében a betéti társaság, közkereseti társaság kisadózóként be nem jelentett tagja kizárólag munkaviszony keretében működhet közre. E szabály megsértésével a kisadózó vállalkozás tevékenységében részt vevő tag közreműködését be nem jelentett alkalmazott foglalkoztatásának kell tekinteni.
+
+(3) A bejelentésben nyilatkozni kell arról, hogy a kisadózó főállású kisadózónak minősül-e.
+
+(4) Az adóalanyiság akkor jöhet létre, ha a kisadózó vállalkozások tételes adóját választó kisadózó vállalkozás legalább egy kisadózót bejelent.
+
+(5) Az (1) és (3) bekezdés alapján bejelentett adatok, tények megváltozását (ide nem értve a kisadózó címének változását) a kisadózó vállalkozás köteles az állami adóhatósághoz a változást követő 15 napon belül bejelenteni.
+
+(6) Az (5) bekezdés szerinti változás bejelentése esetén az állami adóhatóság a megváltozott adatokról a 4. § (5) bekezdés szerint tájékoztatja a kisadózó vállalkozást.
 
 #### 4. A kisadózó vállalkozások tételes adójának mértéke és megfizetése
 
