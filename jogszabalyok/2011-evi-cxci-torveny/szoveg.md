@@ -92,7 +92,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 (3) A rehabilitációs ellátás időtartama keresőtevékenységet folytató ellátott esetén meghosszabbodik a keresőtevékenység időtartama alatt bekövetkezett keresőképtelenség (a továbbiakban: keresőképtelenség) időtartamával. A rehabilitációs ellátásban részesülő személy keresőtevékenység folytatása esetén a keresőképtelenségére tekintettel – a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározottak szerint – táppénzre vagy baleseti táppénzre jogosult.
 
-(4) A rehabilitációs pénzbeli ellátás folyósítását szüneteltetni kell arra az időtartamra tekintettel, amikor az ellátott keresőtevékenységet végez, közfoglalkoztatásban vesz részt, vagy keresőképtelen. Erre az időtartamra folyósított rehabilitációs pénzbeli ellátást az ok bekövetkezéséről való tudomásszerzést követő hónaptól járó ellátásból le kell vonni, vagy azt a rehabilitációs ellátás megszüntetése esetén vissza kell követelni.
+(4)
 
 (5) A rehabilitációs ellátás időtartamát – a (3) bekezdésben meghatározottak kivételével – meghosszabbítani nem lehet.
 
