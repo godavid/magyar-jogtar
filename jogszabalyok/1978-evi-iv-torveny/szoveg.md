@@ -1032,9 +1032,9 @@ nem haladhatja meg.
 - a) ha a 113. § rendelkezése lehetővé teszi, közérdekű munkára, vagy
 - b) szabadságvesztésre kell átváltoztatni.
 
-(3) A behajthatatlan pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe egy napi közérdekű munka lép.
+(3) A pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe két óra közérdekű munka lép. Egyebekben a pénzbüntetés helyébe lépő közérdekű munkára a 49. §-ban foglaltak irányadóak azzal, hogy annak tartama eltérhet a 49. § (4) bekezdésében meghatározottaktól.
 
-(4) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munka, illetve ennek hátralevő része helyébe lépő szabadságvesztés megállapításakor e törvény 50. §-ának rendelkezéseit megfelelően alkalmazni kell.
+(4) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni. Ezt a szabadságvesztést úgy kell megállapítani, hogy két óra közérdekű munkának egynapi szabadságvesztés felel meg, egyebekben az 50. §-ban foglaltak irányadóak.
 
 ### A közügyektől eltiltás
 
