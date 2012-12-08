@@ -302,6 +302,16 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 
 (10) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
 
+(11) A (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményekben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményekben a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott pedagógus-munkakörben foglalkoztatott személy (a továbbiakban: pedagógus-munkakörben foglalkoztatott személy) heti teljes munkaideje 40 óra, amelynek 80%-át (a továbbiakban: kötött munkaidő) a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a feladatainak beosztását maga határozza meg.
+
+(12) A pedagógus-munkakörben foglalkoztatott személy tekintetében a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és utógondozói feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
+
+(13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
+
+(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
+
+(15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
+
 16. § (1) Az e törvényben meghatározott, a gyermekek védelmét biztosító hatósági feladat- és hatásköröket
 
 - a) a helyi önkormányzat képviselő-testülete,
@@ -3125,6 +3135,8 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (3) Ha az iskoláztatási támogatás felfüggesztésének (2) bekezdés szerinti felülvizsgálata során a gyámhatóság megállapítja, hogy a (2) bekezdés a) pontja szerint az igazolatlanul mulasztott kötelező tanórai foglalkozások száma meghaladja az ötöt, azonban a gyermek a szüneteltetés kezdeményezéséig nevelőszülőnél, hivatásos nevelőszülőnél, gyermekotthonban, szociális intézményben került elhelyezésre, vagy a gyermekvédelmi gondoskodás alatt álló gyermek javítóintézetbe, büntetés-végrehajtási intézetbe került, akkor a gyámhatóság határozatával megszünteti az iskoláztatási támogatás felfüggesztését, és a döntése jogerőre emelkedését követő nyolc napon belül intézkedik a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak a központi költségvetés családi pótlék előirányzat javára történő visszafizetéséről.
 
+161/K. § A 96. § 2012. december 31-ét megelőzően hatályos (7)–(8a) bekezdése alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
+
 ### Felhatalmazás
 
 162. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3152,7 +3164,7 @@ gyermek után az intézményi térítési díj 100%-át,
 - u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 - w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
-- x) a megyei fenntartó kijelölését,
+- x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 - y)
 - z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
 
@@ -3169,6 +3181,7 @@ gyermek után az intézményi térítési díj 100%-át,
 - i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
 - j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 - k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+- l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

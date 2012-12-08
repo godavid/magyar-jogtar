@@ -29,13 +29,11 @@ alapító okiratát akként, hogy az intézmény 2013. január 1-jétől kizár�
 
 (4) Az e § szerinti döntések meghozatala során az intézmény alapfeladatának, szakfeladatának megváltoztatására vonatkozóan, továbbá ha az (1) bekezdésben foglalt kötelezettség teljesítése miatt az intézmény típusát is meg kell változtatni, az Nkt. 84. § (3) bekezdése szerinti tilalmat, az Nkt. 83. § (4)–(6) bekezdésében és 84. § (7)–(8) bekezdésében, továbbá a közoktatásról szóló 1993. évi LXXIX. törvény 88. § (6) bekezdésében meghatározott eljárási szabályokat nem kell alkalmazni. Az átszervezés során óvodai csoport, iskolai osztály, kollégiumi csoport nem szervezhető át, nem szüntethető meg, feladatellátási hely nem szüntethető meg.
 
-(5) Az önkormányzati fenntartó nyilvános pályázat kiírása nélkül adhat intézményvezetői magasabb vezetői megbízást, ha a többcélú intézmény e törvény szerinti átszervezése miatt szükséges. A megbízás a pályázati eljárás eredményes befejezéséig, de legfeljebb a 2012/2013. tanév végéig szólhat.
+(5)
 
 (6) Az (1) bekezdés szerinti kötelezettség nem terheli az önkormányzati fenntartót egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény, gyermekotthon intézményegységet magában foglaló többcélú intézmény fenntartása esetén vagy, ha az intézmény a 2013. január 1-jétől állami köznevelési alapfeladatnak minősülő feladaton kívül kizárólag a többi gyermekkel együtt nevelhető sajátos nevelési igényű gyermekek óvodai nevelését látja el.
 
 (7) Az intézményt 2012. december 31-én fenntartó önkormányzati fenntartó javaslatára a szakképzési feladatok különválasztásával átszervezhető az a középfokú iskola, amely gimnáziumi nevelést-oktatást folytat.
-
-(8) A nemzetiségi óvodai nevelést is ellátó többcélú intézmény önkormányzati fenntartója 2012. december 27-éig meghozott döntésével a (2) bekezdés szerinti döntését visszavonhatja vagy módosíthatja, annak érdekében, hogy az intézmény nemzetiségi óvodai nevelést is elláthasson. E bekezdés alkalmazása esetén a 13. § (2) bekezdés a) pontja szerinti átadás-átvételi megállapodást 2012. december 28-áig módosítani kell.
 
 3. § (1) A települési önkormányzati társulás állami köznevelési alapfeladatot 2013. január 1-jétől nem láthat el. A települési önkormányzati társulás az e bekezdésnek való megfelelés érdekében a 13. § (2) bekezdés a) pontja szerinti megállapodás megkötéséig módosítja a társulási megállapodást.
 
@@ -54,7 +52,7 @@ alapító okiratát akként, hogy az intézmény 2013. január 1-jétől kizár�
 
 (2) A 2. § (1) bekezdése szerinti esetben közfeladat-ellátás átadására kerül sor 2013. január 1-jével a Központ számára.
 
-(3) Az intézmény (1) bekezdés szerinti beolvadással történő megszűnésének a törzskönyvi nyilvántartásba való bejegyzése iránt a köznevelésért felelős miniszter által 2012. december 15-éig rendelkezésére bocsátott adatok alapján a kincstár hivatalból intézkedik.
+(3) Az intézmény (1) bekezdés szerinti beolvadással történő megszűnésének a törzskönyvi nyilvántartásba való bejegyzése iránt az oktatásért felelős miniszter által 2012. december 15-éig rendelkezésére bocsátott adatok alapján a kincstár hivatalból intézkedik.
 
 5. § (1) A Központ alapító okiratát az irányító szerve 2013. január 1-jei hatállyal akként módosítja, hogy a 2012. december 31-én OM azonosítóval rendelkező, beolvadással érintett intézmény és a 2. § (1) bekezdése szerinti esetben a többcélú intézmény 2013. január 1-jétől állami köznevelési alapfeladatnak minősülő feladatot ellátó intézményegysége (a továbbiakban: intézményegység) a Központnak az államháztartásról szóló 2011. évi CXCV. törvény 7. § (1) bekezdése szerinti önálló jogi személyiséggel rendelkező szervezeti egységeként működjön.
 
@@ -77,12 +75,6 @@ alapító okiratát akként, hogy az intézmény 2013. január 1-jétől kizár�
 (7) Az intézmény állami fenntartásba kerülése tekintetében és abban az esetben, ha a 3. §-ban foglaltak végrehajtásával összefüggésben az intézmény fenntartói joga az önkormányzati társulásban részes települési önkormányzat számára kerül átadásra, nem kell alkalmazni az Nkt. 84. § (3) bekezdésében foglalt fenntartói jog átadására vonatkozó tilalmat, és a 84. § (7)–(8) bekezdésében, továbbá a közoktatásról szóló 1993. évi LXXIX. törvény 88. § (6) bekezdésében meghatározott eljárási szabályokat.
 
 (8) A beolvadó intézmény tekintetében a megszűnés évére vonatkozó beszámoló-készítési, adóügyi és statisztikai adatszolgáltatási kötelezettséget az önkormányzati fenntartó teljesíti.
-
-6/A. § (1) A beolvadással érintett intézmény tekintetében a „Szemünk Fénye” iskolavilágítási és fűtéskorszerűsítési Program megvalósításával kapcsolatos közbeszerzési eljárás feltételeiről szóló 190/2005. (IX. 17.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározott szállítóval közoktatási intézmények világítás illetve fűtéskorszerűsítése céljából kötött szerződésből eredő, a 2013. január 1-jétől 2016. december 31-ig terjedő időszakra vonatkozóan felmerült bérleti díjkövetelés, vagy az annak helyébe lépő követelés teljesítésére a Központ és annak jogutódjai kötelesek. E rendelkezés nem vonatkozik a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény alapján a megyei önkormányzatok fenntartásából és működtetéséből állami fenntartásba került közoktatási intézményekre, tekintettel arra, hogy ezen intézmények a megyei intézményfenntartó központokról, valamint a megyei önkormányzatok konszolidációjával, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egészségügyi intézményeinek átvételével összefüggő egyes kormányrendeletek módosításáról szóló 258/2011. (XII. 17.) Korm. rendelet 18. § (2) bekezdésében meghatározott időpontban, a 2013. március 31-én fennálló és ezen időpontot követően 2016. december 31-ig keletkező, szállítóval szembeni kötelezettségei, a Központ és annak jogutódai kötelezettségévé váltak.
-
-(2) Ha a Központ és annak jogutódjai által fenntartott intézmény feladatainak ellátását szolgáló ingatlanvagyon működtetője a települési önkormányzat, a 2013. január 1-jétől 2016. december 31-ig terjedő időszakra vonatkozóan az (1) bekezdésben meghatározott kötelezettség tekintetében az önkormányzati működtetés időtartama alatt felmerült követelés teljesítésére az intézmény feladatainak ellátását szolgáló ingatlant az Nkt. 76. § szerint működtető települési önkormányzat köteles. Kivételt képeznek ez alól azok az intézmények, melyek esetében a Központ, vagy területi szervezetei a követelés teljesítésére a 12. § (1) bekezdésének megfelelő tartalmú nyilatkozatot tettek.
-
-(3) A beolvadással érintett intézmény tekintetében a Korm. rendeletben meghatározott szállítóval közoktatási intézmények világítás illetve fűtéskorszerűsítése céljából céllal kötött szerződésből eredő, a 2017. január 1-jétől kezdődő időszakra vonatkozó kötelezettségeket az ingatlan tulajdonosa teljesíti.
 
 #### 4. Az intézményben foglalkoztatott közalkalmazottak és technikai dolgozók továbbfoglalkoztatása, valamint az önkormányzati fenntartó tulajdonában lévő, az intézmény feladatainak ellátását szolgáló vagyon használata
 
@@ -160,13 +152,13 @@ kerül 2013. január 1-jén mindaddig, amíg a köznevelési feladat Központ r�
 
 kell végrehajtani.
 
-(3) Ha a felek között a (2) bekezdés a) pontjában megjelölt határidőig nem jön létre, vagy nem teljeskörűen jön létre a megállapodás, a köznevelésért felelős miniszter 2012. december 20. napjáig határozattal létrehozza a megállapodást, illetve határozattal dönt a megállapodásban nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági felülvizsgálatra tekintet nélkül végrehajtható.
+(3) Ha a felek között a (2) bekezdés a) pontjában megjelölt határidőig nem jön létre, vagy nem teljeskörűen jön létre a megállapodás, az oktatásért felelős miniszter 2012. december 20. napjáig határozattal létrehozza a megállapodást, illetve határozattal dönt a megállapodásban nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági felülvizsgálatra tekintet nélkül végrehajtható.
 
 (4) A (3) bekezdés szerinti közigazgatási határozattal (a továbbiakban: közigazgatási határozat) szemben bírósági felülvizsgálatnak van helye. A bíróság a felülvizsgálati kérelemről peres eljárásban határoz, az eljárásra – a (5) és (6) bekezdésben foglalt eltérésekkel – a polgári perrendtartásról szóló 1952. évi III. törvény XX. Fejezetének rendelkezéseit kell alkalmazni.
 
 (5) A közigazgatási határozat végrehajtása felfüggesztésének nincs helye. A bíróság a perben soron kívül jár el. A bíróság a közigazgatási határozatot megváltoztathatja.
 
-(6) Ha a köznevelésért felelős miniszter határozatával szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, a köznevelésért felelős miniszter a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
+(6) Ha az oktatásért felelős miniszter határozatával szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, az oktatásért felelős miniszter a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
 
 14. § (1) A megállapodás alapjául a megállapodás aláírásáig az aláírás napjáig mint fordulónapig felvett és az átadó által hitelesített vagyonleltár szolgál. A megállapodás aláírását követően az önkormányzati fenntartó a megállapodásban meghatározott vagyont nem idegenítheti el, nem terhelheti meg, nem adhatja bérbe.
 
@@ -220,11 +212,28 @@ kell végrehajtani.
 
 (2) Az (1) bekezdés szerinti jogutódlás a közoktatási megállapodás, köznevelési szerződés 2012. szeptember 30-án hatályos állapota szerint következik be.
 
-#### 10.
+#### 10. A személyi juttatások megfizetésére vonatkozó szabályok
 
-#### 20. §
+20. § (1) 2013. január 1-jétől a 7. § és a 9. § alapján a Központ foglalkoztatotti állományába tartozó személyek 2012 decemberére járó illetményének, munkabérének és egyéb járandóságának, valamint azok közterhének megfizetése – a (2) bekezdésben meghatározott kivétellel – a Központ feladata.
 
-#### 21. §
+(2) 2013. január 1-jétől a 7. § és a 9. § alapján a Központ foglalkoztatotti állományába tartozó technikai dolgozók 2012 decemberére járó illetményének, munkabérének és egyéb járandóságának, valamint azok közterhének megfizetése a települési önkormányzat feladata.
+
+(3) Az (1) bekezdés szerinti személyek után járó bérkompenzáció fedezetét az oktatásért felelős miniszter az általa vezetett minisztérium költségvetési fejezetének terhére biztosítja.
+
+(4) Az (1) és (2) bekezdés szerinti személyek természetes személyazonosító adatait a megállapodásban kell rögzíteni. A megállapodásban meghatározott személyek körében bekövetkező változás esetén a 2012 decemberére járó illetmény, munkabér és egyéb járandóság, valamint azok közterhe fedezetének utólagos elszámolása és pénzügyi rendezése a Központ és a települési önkormányzat között közvetlenül történik.
+
+21. § (1) A 20. § (1) és (2) bekezdése szerinti személyek 2012 decemberére járó illetménye, munkabére és egyéb járandósága, valamint azok közterhei megfizetéséhez a Központ 2013 januárjára – 2013 március havi visszapótlással – a kincstártól támogatási keret-előrehozást igényelhet külön indokolás nélkül.
+
+(2) A 20. § (1) bekezdése szerinti személyek 2012 decemberére járó illetménye, munkabére és egyéb járandósága után fizetendő közteher megfizetése az önkormányzati nettófinanszírozás keretében – a kincstár adatszolgáltatása alapján – a Központ által 2013. január 18-ai értéknappal fizetési számláján biztosított fedezet terhére történik. A fedezet meghatározása az intézmény által a 20. § (1) bekezdése szerinti személyek részére 2012 decemberében ténylegesen megfizetett társadalombiztosítási ellátás figyelembevételével történik.
+
+(3) A Központ (2) bekezdésben meghatározott kötelezettségének elmulasztása esetén a fedezetet 2013. január 21-ét követően a kincstár a Központ előirányzat-felhasználási keretszámlája terhére, felhatalmazó levél nélkül benyújtott beszedési megbízással szedi be. A megfizetési késedelemből eredő pótlékok a Központot terhelik.
+
+(4) Ha az intézmény illetményszámfejtése 2012. december 31-én
+
+- a) a központosított illetményszámfejtés keretében történik, a bevallási és a befizetési kötelezettséget a kincstár vagy a kincstárnak az intézmény székhelye szerint illetékes területi szerve technikai adószámán,
+- b) nem a központosított illetményszámfejtés keretében történik, a bevallási kötelezettséget a települési önkormányzat, a befizetési kötelezettséget az intézmény adatszolgáltatása alapján a kincstár az intézmény adószámán teljesíti az állami adóhatóság felé.
+
+(5) A kincstár technikai adószámán 2012. december 31-én nyilvántartott intézmény Központ általi átvétele a biztosítotti bejelentés szempontjából jogutódlásnak tekintendő.
 
 #### 11. Hatályba léptető rendelkezések
 
@@ -242,17 +251,60 @@ kell végrehajtani.
 
 24. § (1)–(4)
 
-(5)–(6)
+(5) Az Nkt. 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nevelőtestület a nevelési-oktatási intézmény legfontosabb tanácskozó és döntéshozó szerve. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az önálló jogi személyiséggel rendelkező szervezeti egységnek egy nevelőtestülete van. A nevelési-oktatási intézmény nevelőtestülete a nevelési és oktatási kérdésekben, a nevelési-oktatási intézmény működésével kapcsolatos ügyekben, valamint e törvényben és más jogszabályokban meghatározott kérdésekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.”
+
+(6) Az Nkt. 74. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá egyházi vagy magánintézmény fenntartójával kötött köznevelési szerződés útján látja el. Az óvodai nevelésről a települési önkormányzat intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik. A fenntartó az általa fenntartott intézménybe járó gyermek lakóhelye szerinti önkormányzattól az óvoda fenntartásához hozzájárulást kérhet.”
 
 (7)–(9)
 
-(10)–(16)
+(10) Az Nkt. a következő 76/A. §-sal egészül ki:
+
+„76/A. § A Központ együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a használatában vagy vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának veszélyeztetése nélkül külön megállapodás alapján biztosítja a tulajdonos települési önkormányzat számára.”
+
+(11) Az Nkt. 79. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatait a hivatalon és az állami intézményfenntartó központon keresztül látja el.”
+
+(12) Az Nkt. 94. § (4) bekezdés k) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,”
+
+(rendeletben állapítsa meg.)
+
+(13) Az Nkt. 96. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.”
+
+(14) Az Nkt. 97. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.”
+
+(15) Az Nkt. 97. § (15) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.”
+
+(16) Az Nkt. 98. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól. Az e bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni a 4. § 21. pontban az óraszámra vonatkozóan meghatározott korlátozást.”
 
 25. § (1)
 
-(2)
+(2) Az Nkt.
 
-#### 26. §
+- a) 14. § (7) bekezdése az „állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ)” szövegrész helyett az „állami intézményfenntartó központ” szöveggel,
+- b) 27. § (4) bekezdésében az „egyéb foglalkozás” szövegrész helyett a „tanórai foglalkozás, egyéb foglalkozás” szöveggel,
+- c) 61. § (5) bekezdése az „a honvédelemért vagy a rendvédelmi szerv irányításáért felelős miniszter által alapított és fenntartott intézmények kivételével” szövegrész helyett az „a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter által alapított és fenntartott, valamint a települési önkormányzat által működtetett intézmények kivételével” szöveggel,
+- d) 4. melléklet A oszlop 4. sora a „Gyógypedagógiai osztály” szövegrész helyett a „Gyógypedagógiai óvodai csoport, iskolai osztály” szöveggel
+
+lép hatályba.
+
+26. § Hatályát veszti az Nkt. 22. § (3) bekezdése.
 
 ### 1. melléklet a 2012. évi CLXXXVIII. törvényhez
 
@@ -333,7 +385,7 @@ A dokumentumok átadása tételes lista alapján történik.
 | 19. | Munkáltatói lakáskölcsön támogatási szerződése (folyamatban lévő, még vissza nem fizetett) | Eredeti | T | Aktuális |
 | 20. | Orvosi alkalmassági igazolás | Másolat | T | Aktuális |
 | B) Egyéb nyilvántartások |  |  |  |  |
-| 1. | 2012. évi családi támogatással, bérkompenzációkkal kapcsolatos dokumentumok, fogyatékossággal élő személyekhez kapcsolódó kedvezmények nyilatkozatainak másolata | Másolat | T | Aktuális |
+| 1. | 2012. évi családi támogatással, bérkompenzációkkal kapcsolatos dokumentumok, fogyatékkal élő személyekhez kapcsolódó kedvezmények nyilatkozatainak másolata | Másolat | T | Aktuális |
 | 2. | Bírósági végzések, letiltások nyilvántartása | Eredeti | T | Aktuális |
 | 3. | Rehabilitációs hozzájárulás nyilvántartásai | Eredeti | T | Aktuális |
 | 4. | Szakmai dolgozók engedélyezett létszámadatai | Másolat | T | Aktuális |

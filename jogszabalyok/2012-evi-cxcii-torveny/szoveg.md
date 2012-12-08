@@ -16,9 +16,6 @@ egyes szakosított szociális és gyermekvédelmi szakellátási intézmények �
 megszervezésével és fenntartásával nyújtott szakosított szociális ellátás és gyermekvédelmi szakellátás;
 
 - 2. átvett vagyon: a települési önkormányzat valamennyi ingó és ingatlan vagyona, valamint vagyoni értékű joga, amelyek az átvett feladat ellátását szolgálják, illetve ahhoz szükségesek és nevesítetten az átvett feladathoz, valamint az átvett intézményekhez kapcsolódnak, ideértve az önkormányzatok gazdasági társaságokban fennálló tulajdoni részesedését is, valamint a költségvetési szervként működő átvett intézmények valamennyi ingó és ingatlan vagyonát, vagyoni értékű jogát, gazdasági társaságokban fennálló tulajdoni részesedését.
-- 3. integrált intézménytől átvett feladat: 2013. január 1-jét megelőzően a települési önkormányzat által, 2013. január 1-jétől az állam által – a települési önkormányzattal az integrált intézmény működtetésére kötött ellátási szerződés vagy megállapodás útján – nyújtott szakosított szociális ellátás és gyermekvédelmi szakellátás;
-- 4. integrált intézmény: a 3. mellékletben felsorolt intézmény;
-- 5. integrált intézményi vagyon: a települési önkormányzat, valamint a költségvetési szervként működő integrált intézmény valamennyi olyan ingó és ingatlan vagyona, vagyoni értékű joga, gazdasági társaságokban fennálló tulajdoni részesedése, amely az integrált intézménytől átvett feladat ellátását szolgálja, illetve ahhoz szükséges és nevesítetten az integrált intézménytől átvett feladathoz, valamint az integrált intézményekhez kapcsolódik.
 
 #### 2. A települési önkormányzat intézményeinek és vagyonának átvétele
 
@@ -57,19 +54,19 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 (4) Az átvett intézménnyel mint adóssal, kötelezettel szemben elrendelt bírósági és közigazgatási végrehajtást a végrehajtást foganatosító bíróság, közigazgatási végrehajtás esetében a végrehajtást megindító hatóság, az állam mint jogutód képviseletében eljáró kijelölt szerv kérelmére – ha jogutódlásról korábban még nem döntöttek, a jogutódlás megállapításával együtt – egy alkalommal három hónapra felfüggeszti.
 
-#### 3. A települési önkormányzatok egyes kötelezettségeinek átvétele
+#### 3. A települési önkormányzatok adósságának átvétele
 
-6. § (1) A magyar állam 2013. évben – az államháztartásról szóló 2011. évi CXCV. törvény 92. § (2) bekezdésében foglaltakra is figyelemmel – egyedi állami kezességként átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzat azon kezességvállalásait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztését vagy értékének megőrzését szolgáló alapügyletekhez kapcsolódnak. Ezen állami kezességvállalások nem terhelik az egyedi állami kezességvállalások 2013. évi mértékére meghatározott keretet.
+6. § (1) Az állam 2013. június 30-ai hatállyal – a (2) bekezdésben foglaltak figyelembevételével – átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzatok 2013. január 1-jei adósságállományából az átvállalás időpontjában fennálló, valamint a (3) bekezdés szerinti azon adósságát és annak járulékait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztési célú, értéknövelő beruházásaihoz kapcsolódóan keletkeztek. Az átvállalandó adósság a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 3. § (1) bekezdés a) és b) pontjában foglaltaknak megfelelő – kölcsönjogviszonyon vagy hitelviszonyt megtestesítő értékpapíron alapuló – tartozásokat foglalja magában akként, hogy a 2013. június 30-án vagy azt megelőzően esedékessé vált, de az adott önkormányzat által meg nem fizetett tőke és járulék az átvállalás részét képezi.
 
-(2) Az átvállalandó kezességek elemeit települési önkormányzatonként tételesen legkésőbb 2013. április 15-éig a települési önkormányzat véleményét kikérve a szociálpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttes javaslata alapján a Kormány határozza meg.
+(2) Az (1) bekezdés szerinti adósság részét képező, hitelviszonyt megtestesítő értékpapírok esetében az állam 2013. június 30-ai hatállyal az értékpapír lejárat előtti visszaváltásából eredő fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam – a hitelező beleegyezésével – a kötvénytulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével vagy állampapírok átadásával is kiválthatja.
 
-(3) Az (1) bekezdés szerinti kezességvállalások során az állam nevében az államháztartásért felelős miniszter jár el.
+(3) A települési önkormányzatok az állam által átvállalandó adósságállományt növelő kötelezettséget e törvény hatálybalépését követően nem vállalhatnak. A települési önkormányzatok az átvállalandó adósságállományt a még felhasználható hitelkerettel rendelkező, (1) bekezdés szerinti szerződésekből történő lehívással, illetve kölcsönfelvétellel legkésőbb 2013. március 31-éig a kijelölt szerv engedélyével, és abban az esetben növelhetik, ha ez az adósságelem az állam által átvételre kerülő átvett vagyon értékének növelését vagy állagának megóvását eredményező kifizetés finanszírozására szolgál.
 
-(4)
+(4) A magyar állam 2013. évben – az államháztartásról szóló 2011. évi CXCV. törvény 92. § (2) bekezdésében foglaltakra is figyelemmel – egyedi állami kezességként átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzat azon kezességvállalásait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztését vagy értékének megőrzését szolgáló alapügyletekhez kapcsolódnak.
 
-(5)
+(5) Az átvállalandó adósság és kezességek elemeit települési önkormányzatonként tételesen legkésőbb 2013. április 15-éig a települési önkormányzat véleményét kikérve a szociál-és nyugdíjpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttes javaslata alapján a Kormány határozza meg.
 
-(6)
+(6) Az állam nevében a települési önkormányzatoktól az (1)–(3) bekezdés szerinti adósságátvállalás, valamint a (4) bekezdés szerinti kezességvállalás során az államháztartásért felelős miniszter jár el.
 
 7. § (1) Az átvett intézményhez és az átvett feladathoz kapcsolódó, a települési önkormányzati kötelezettségvállalásból eredő 2013. éven átnyúló kötelezettségek forrását a kijelölt szerv költségvetésében kell megtervezni.
 
@@ -91,30 +88,11 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 (3) Az átvett vagyonba tartozó – az átvett feladat ellátását végző vagy az átvett feladat ellátásában közreműködő – gazdasági társaságokban fennálló tulajdoni részesedések tekintetében az MNV Zrt. megbízási szerződést köt a kijelölt szervvel a tulajdonosi jogok gyakorlására.
 
-#### 4/A. Az integrált intézmények állami átvétele
-
-9/A. § (1) 2014. január 1-jével e törvény erejénél fogva az államra száll át
-
-- a) a települési önkormányzat tulajdonában lévő integrált intézmény, az integrált intézményekkel kapcsolatos fenntartói jog és kötelezettség, továbbá az integrált intézményekkel kapcsolatos valamennyi vagyon és vagyoni értékű jog, kivéve az önkormányzati tulajdonban lévő szellemi (szerzői és iparjogvédelmi) tulajdonjogokat,
-- b) az integrált intézménytől átvett feladat ellátását végző vagy ellátásában közreműködő, a települési önkormányzat vagy az integrált intézmény által alapított közalapítvány, alapítvány alapítói joga (a települési önkormányzat által más alapítóval közösen alapított alapítvány, közalapítvány esetében az önkormányzatot megillető alapítói jogok), és azon gazdasági társaságokban és egyéb gazdálkodó szervezetekben fennálló önkormányzati tulajdoni részesedés, amelyek az integrált intézménytől átvett feladat ellátásában közreműködnek és részben vagy egészben a települési önkormányzat tulajdonában állnak (az a) és b) pont a továbbiakban együtt: átvett integrált intézmények).
-
-(2) Az átvett integrált intézményekkel kapcsolatban a kijelölt szerv e törvény erejénél fogva gyakorolja a fenntartói jogokat, az alapítványok, közalapítványok alapítói jogait. A 2014. január 1-jén folyamatban lévő ügyekben és a tartós jogviszonyokban a kijelölt szerv jár el fenntartóként, illetve alapítóként.
-
-(3) A települési önkormányzatok helyébe – a 2. § (5) bekezdésében foglalt kivétellel – az átvett integrált intézményekkel kapcsolatos jogviszonyok tekintetében 2014. január 1-jével jogutódként az állam lép, azzal, hogy az állam tulajdonába e törvénnyel került vagyonelemek vonatkozásában létesített kötelmi jogi jogviszonyokban a jogutód a vagyonkezelőként e törvény alapján kijelölt szerv. Az átvett intézmények átadásához kapcsolódó jogviszonyok tekintetében a tulajdonosi és fenntartói, a költségvetési szervek esetében az irányítói és alapítói jogutódlásra az államháztartásról szóló törvény és végrehajtási rendelete, a nemzeti vagyonról, illetve az állami vagyonról szóló törvény és végrehajtási rendelete, valamint a polgári törvénykönyvről szóló törvény az irányadó az e törvényben foglaltak figyelembevételével.
-
-(4) Az átvett integrált intézményhez és az integrált intézménytől átvett feladathoz kapcsolódó, a települési önkormányzati kötelezettségvállalásból eredő 2014. éven átnyúló kötelezettségek forrását a kijelölt szerv költségvetésében kell megtervezni.
-
-(5) A települési önkormányzat az integrált intézményhez tartozó vagyonelemeket nem idegenítheti el, nem terhelheti meg, a gazdasági társaságok törzs-, illetve alaptőkéjét nem csökkentheti. Ez alól kivételt képeznek azok a vagyonelemek, amelyeket érintő jogügyletekről a települési önkormányzat e rendelkezés hatálybalépését megelőzően már döntést hozott, és az abból befolyó bevételt a települési önkormányzat a 2013. évi költségvetésében betervezte.
-
-(6) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
-
-9/B. § Az integrált intézmények állami átvételére a 2. § (2) bekezdését, a 2. § (5) és (6) bekezdését, a 3. § (1)–(3) bekezdését, az 5. §-t, a 7. § (2) bekezdését, a 8. § (1)–(3) bekezdését és a 9. § (1) és (3) bekezdését alkalmazni kell, azzal, hogy átvett intézmény alatt az átvett integrált intézményt, átvett feladat alatt az integrált intézménytől átvett feladatot, átvett vagyon alatt az integrált intézményi vagyont kell érteni.
-
 #### 5. Záró rendelkezések
 
 10. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) az átvett intézmények, integrált intézmények fenntartásával kapcsolatos feladatokat ellátó szervet rendeletben kijelölje,
+- a) az átvett intézmények fenntartásával kapcsolatos feladatokat ellátó szervet rendeletben kijelölje,
 - b) az állami szociális és gyermekvédelmi feladatellátást szolgáló intézmények átadás-átvételi eljárásának részletszabályait és a megállapodás tartalmi elemeit rendeletben határozza meg.
 
 (2) A települési önkormányzat 2012. december 15-éig – 2012. december 31-i hatállyal – dönt azon intézményei átalakításáról, valamint az alapító okiratok kiadásáról, illetve módosításáról, amelyeknek 2013. január 1-jétől
@@ -127,29 +105,6 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 (4) A települési önkormányzat az alapító okiratokat vagy azok módosításait haladéktalanul megküldi a törzskönyvi nyilvántartást vezető szervnek, valamint a működést engedélyező szervnek. A működést engedélyező szerv a működési engedélyeket hivatalból, a feltételek fennállásának vizsgálata nélkül, 2013. január 1-jei hatállyal módosítja.
 
 (5) Az e törvény szerint átvett, 2012. december 31-én a települési önkormányzat által fenntartott, valamint a Tv. alapján állami tulajdonba került, 2012. december 31-én a Tv. 9. § (1) bekezdése szerinti kijelölt szerv által fenntartott szociális és gyermekvédelmi intézmények működési engedélyét a működést engedélyező szerv 2013. március 31-éig, 2013. január 1-jei hatállyal hivatalból módosítja. Ennek keretében a 2012. december 31-én határozott idejű vagy ideiglenes működési engedéllyel rendelkező intézmények működési engedélyeit a feltételek vizsgálata nélkül 2013. december 31-ig meghosszabbítja.
-
-10/A. § (1) A települési önkormányzat 2013. november 30-áig – 2013. december 31-ei hatállyal – dönt azon integrált intézményei átalakításáról, valamint az alapító okiratok kiadásáról, illetve módosításáról, amelyeknek 2014. január 1-jétől
-
-- a) a 3. mellékletben szereplő székhelye, telephelye integrált intézménytől átvett feladatot lát el, és
-- b) a 3. mellékletben nem szereplő székhelye vagy telephelye önkormányzati feladatot lát el.
-
-(2) Az (1) bekezdés b) pontja szerinti székhelyet, telephelyet a települési önkormányzat kiválással önálló költségvetési szervvé vagy 2014. január 1-jétől kizárólag önkormányzati feladatot ellátó intézmény telephelyévé alakítja át. A települési önkormányzat a kiválással létrejövő intézmény esetében nyilvános pályázat kiírása nélkül adhat intézményvezetői, magasabb vezetői megbízást a pályázati eljárás eredményes lezárásáig.
-
-(3) A települési önkormányzat az (1) bekezdés szerinti alapító okiratokat vagy azok módosításait haladéktalanul megküldi a törzskönyvi nyilvántartást vezető szervnek, valamint a működést engedélyező szervnek. A működést engedélyező szerv a működési engedélyeket hivatalból, a feltételek fennállásának vizsgálata nélkül, 2014. január 1-jei hatállyal módosítja. Ennek keretében a 2013. december 31-én határozott idejű vagy ideiglenes működési engedéllyel rendelkező intézmények működési engedélyeit a feltételek vizsgálata nélkül 2014. december 31-éig meghosszabbítja.
-
-(4) A tulajdonjog és a fenntartói jog átszállása nem érinti az átvett intézmény területi ellátási kötelezettségét, férőhelyeinek a szociális, gyermekvédelmi szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadottságát. 2014. január 1-jén az integrált intézménytől átvett feladat nyújtására kötött megállapodás vagy ellátási szerződés megszűnik.
-
-(5) Az átvett integrált intézmény vezetőjének, gazdasági vezetőjének a vezetői megbízását a munkáltatói jog gyakorlója 2014. július 1-jéig visszavonhatja.
-
-10/B. § (1) A települési önkormányzat 10/A. § (1) bekezdése szerinti döntéséből következő feladatváltozáshoz kapcsolódó munkáltatói intézkedéseket – azoknak legkésőbb 2013. december 31. nappal történő hatályosulása mellett – a döntést követő 5 napon belül kell meghozni. A meghozott munkáltatói intézkedésről a kincstár területi szervét és a kijelölt szervet soron kívül kell értesíteni.
-
-(2) Az (1) bekezdés szerinti munkáltatói intézkedéssel érintett foglalkoztatott 2014. január hónapban esedékes illetménye, munkabére és egyéb járandósága a 10/A. § (2) bekezdése szerinti költségvetési szerv költségvetését terheli.
-
-(3) Az (1) bekezdésben foglalt munkáltatói intézkedéssel nem érintett foglalkoztatott 2013 decemberére járó illetménye, munkabére és egyéb járandósága után fizetendő közteher megfizetése az önkormányzati nettófinanszírozás keretében – a kincstár adatszolgáltatása alapján – a kijelölt szerv által 2014. január 18-ai értéknappal a kincstár fizetési számláján biztosított fedezet terhére történik. A fedezet meghatározása a foglalkoztatottak részére 2013 decemberében ténylegesen megfizetett társadalombiztosítási ellátás figyelembevételével történik.
-
-(4) Az (1) bekezdésben meghatározott munkáltatói intézkedéssel érintett személyek körében – az értesítést követően, 2013. december 31. napjával bezárólag – bekövetkező változás esetén a 2013 decemberére járó illetmény, munkabér és egyéb járandóság, valamint azok közterhe fedezetének utólagos elszámolása és pénzügyi rendezése a kijelölt szerv és a települési önkormányzat között közvetlenül történik.
-
-(5) A kincstár technikai adószámán nyilvántartott intézmények átvétele a biztosítotti bejelentés szempontjából jogutódlásnak tekintendő.
 
 11. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -167,35 +122,27 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 7. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-#### 14. §
+#### 14–16. §
 
-#### 15. §
+17. § Az Szt. 57. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 16. §
+„(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a működési engedély visszavonásától számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.”
 
-#### 17. §
+#### 18–25. §
 
-#### 18. §
+26. § Az Szt. 127/A. §-a a következő (6) bekezdéssel egészül ki:
 
-#### 19. §
+„(6) Bentlakásos intézményi ellátás esetén nem kell az egyházi kiegészítő támogatást megtéríteni, ha az alól a szociál- és nyugdíjpolitikáért felelős miniszter a megtérítésre köteles fenntartót mentesíti. A mentesítésre a megtérítésre köteles fenntartó vagy az új fenntartó kérelmére akkor kerülhet sor, ha a kérelemmel érintett intézményekben, illetve székhelyen és telephelyeken összesen legalább ezer betöltött férőhely van, és a mentesítést az ellátottak folyamatos ellátása különösen indokolja. Ha az új fenntartó több megtérítésre köteles fenntartótól vesz át intézményt, illetve több megtérítésre köteles fenntartó intézményét alapítja újra, az ezer betöltött férőhelyet megtérítésre köteles fenntartónként kell vizsgálni.”
 
-#### 20. §
+27. § Az Szt. 132. § (1) bekezdés x) pontja helyébe a következő rendelkezés lép:
 
-#### 21. §
+(Felhatalmazást kap a Kormány, hogy megállapítsa)
 
-#### 22. §
+„x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.”
 
-#### 23. §
+28. § Az Szt. a következő 140/Q. §-sal egészül ki:
 
-#### 24. §
-
-#### 25. §
-
-#### 26. §
-
-#### 27. §
-
-#### 28. §
+„140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.”
 
 #### 29. §
 
@@ -203,91 +150,39 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 30. §
 
-#### 31. §
+#### 31–34. §
 
-#### 32. §
+35. § A Gyvt. 15. §-a a következő (11)–(15) bekezdéssel egészül ki:
 
-#### 33. §
+„(11) A (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményekben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményekben a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott pedagógus-munkakörben foglalkoztatott személy (a továbbiakban: pedagógus-munkakörben foglalkoztatott személy) heti teljes munkaideje 40 óra, amelynek 80%-át (a továbbiakban: kötött munkaidő) a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a feladatainak beosztását maga határozza meg.
 
-#### 34. §
+(12) A pedagógus-munkakörben foglalkoztatott személy tekintetében a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és utógondozói feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
 
-#### 35. §
+(13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
+
+(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
+
+(15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.”
 
 #### 36. §
 
-#### 37. §
+#### 37–38. §
 
-#### 38. §
-
-#### 39. §
-
-#### 40. §
-
-#### 41. §
-
-#### 42. §
-
-#### 43. §
-
-#### 44. §
-
-#### 45. §
+#### 39–45. §
 
 #### 46. §
 
-#### 47. §
+#### 47–64. §
 
-#### 48. §
-
-#### 49. §
-
-#### 50. §
-
-#### 51. §
-
-#### 52. §
-
-#### 53. §
-
-#### 54. §
-
-#### 55. §
-
-#### 56. §
-
-#### 57. §
-
-#### 58. §
-
-#### 59. §
-
-#### 60. §
-
-#### 61. §
-
-#### 62. §
-
-#### 63. §
-
-#### 64. §
-
-#### 65. §
-
-#### 66. §
-
-#### 67. §
-
-#### 68. §
+#### 65–68. §
 
 #### 69. §
 
-#### 70. §
+#### 70–72. §
 
-#### 71. §
+73. § (1) A Gyvt. a következő 161/K. §-sal egészül ki:
 
-#### 72. §
-
-73. § (1)
+„161/K. § A 96. § 2012. december 31-ét megelőzően hatályos (7)–(8a) bekezdése alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.”
 
 (2)
 
@@ -307,17 +202,11 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 10. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-#### 78. §
-
-#### 79. §
+#### 78–79. §
 
 #### 11. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-#### 80. §
-
-#### 81. §
-
-#### 82. §
+#### 80–82. §
 
 #### 12. A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló
 
@@ -504,9 +393,9 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 | 126. | Győr Megyei Jogú Város Önkormányzata | Anya-Csecsemő és Gyermekotthon | 9025 | Győr | Nagy Imre út 9. | Gyermekotthon |
 | 127. | Győr Megyei Jogú Város Önkormányzata | Anya-Csecsemő és Gyermekotthon | 9025 | Győr | Nagy Imre út 9. | Különleges gyermekotthon |
 | 128. | Miskolc Megyei Jogú Város Önkormányzata | Miskolci Gyermekvédelmi Központ Aranyhíd Lakásotthon | 3533 | Miskolc | Kiss tábornok utca 80. | Lakásotthon |
-| 129. |  |  |  |  |  |  |
-| 130. |  |  |  |  |  |  |
-| 131. |  |  |  |  |  |  |
+| 129. | Pécs Megyei Jogú Város Önkormányzata | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 | Pécs | Lánc utca 2/58. | Külső férőhelyen nyújtott utógondozói ellátás |
+| 130. | Pécs Megyei Jogú Város Önkormányzata | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 | Pécs | Lánc utca 2/59. | Külső férőhelyen nyújtott utógondozói ellátás |
+| 131. | Pécs Megyei Jogú Város Önkormányzata | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 | Pécs | Lánc utca 2/60. | Külső férőhelyen nyújtott utógondozói ellátás |
 | 132. | Szeged Megyei Jogú Város Önkormányzata | Szeged Megyei Jogú Város Önkormányzata dr. Waltner Károly Otthon | 6723 | Szeged | Bölcsőde utca 3. | Gyermekotthon |
 | 133. | Szeged Megyei Jogú Város Önkormányzata | Szeged Megyei Jogú Város Önkormányzata dr. Waltner Károly Otthon | 6723 | Szeged | Bölcsőde utca 3. | Nevelőszülői hálózat |
 | 134. | Szeged Megyei Jogú Város Önkormányzata | Szeged Megyei Jogú Város Önkormányzata dr. Waltner Károly Otthon | 6723 | Szeged | Zöldfa u. 16. I/3. | Külső férőhelyen nyújtott utógondozói ellátás |
@@ -518,30 +407,6 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 Teljességi nyilatkozat
 
-Alulírott .........................., mint a ......................... Önkormányzat, társulás képviseletében eljáró vezető (a továbbiakban: átadó) kijelentem, hogy a mai napon – ............................. – az átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvényben meghatározott intézményi kör (átvett intézmények, illetve átvett integrált intézmények) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért, és az érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok.
+Alulírott .........................., mint a ......................... Önkormányzat, társulás képviseletében eljáró vezető (a továbbiakban: átadó) kijelentem, hogy a mai napon – ............................. – az átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvényben meghatározott intézményi kör (átvett intézmények) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért, és az érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok.
 
 Jelen nyilatkozat elválaszthatatlan részét képezi az átadás-átvételi jegyzőkönyvnek.
-
-### 3. melléklet a 2012. évi CXCII. törvényhez
-
-#### 2014. január 1-jével állami tulajdonba kerülő integrált szociális, gyermekvédelmi intézmények
-
-| 1. | Békéscsaba és Térsége Többcélú Önkormányzati Kistérségi Társulás | Békéscsabai Kistérségi Egyesített Szociális Intézmény 4-es Honvéd Utcai Időskorúak Gondozóháza | 5600 Békéscsaba, 4-es Honvéd utca 2. | Ápolást, gondozást nyújtó intézmény | Szenvedélybetegek otthona |
-| --- | --- | --- | --- | --- | --- |
-| 2. | Debrecen Megyei Jogú Város Önkormányzata | Debrecen Megyei Jogú Város Fogyatékosokat Ellátó Intézménye | 4032 Debrecen, Böszörményi út 148. | Lakóotthon | Fogyatékos személyek ápoló- gondozó célú lakóotthona |
-| Ápolást, gondozást nyújtó intézmény | Fogyatékos (látás, mozgás, értelmi) személyek otthona |
-| Átmeneti elhelyezést nyújtó intézmény | Fogyatékos személyek gondozóháza |
-| 3. | Debrecen Megyei Jogú Város Önkormányzata | Debrecen Megyei Jogú Város Csökkentlátók Otthona | 4032 Debrecen, Nagyerdei körút 100. | Ápolást, gondozást nyújtó intézmény | Fogyatékos (látás, mozgás, értelmi) személyek otthona |
-| 4. | Győr Megyei Jogú Város Önkormányzata | Fogyatékosok Átmenet Gondozóháza | 9023 Győr, Török István út 1. | Átmeneti elhelyezést nyújtó intézmény | Fogyatékos személyek gondozóháza |
-| 5. | Kalocsa Város Önkormányzata | Kalocsa Város Önkormányzata Szociális Alapszolgáltatási és Szakellátási Központja Malom utcai telephely | 6300 Kalocsa, Malom utca 3–5. | Ápolást, gondozást nyújtó intézmény | Fogyatékos (látás, mozgás, értelmi) személyek otthona |
-| 6. | Miskolc Környéki Önkormányzati Társulás | Miskolci Egyesített Szociális, Egészségügyi és Gyermekvédelmi Intézmény – Módszertani Központ Értelmi Fogyatékosok Napközi Otthona és Fogyatékos Személyek Gondozóháza | 3530 Miskolc, Meggyesalja út 10. | Átmeneti elhelyezést nyújtó intézmény | Fogyatékos személyek gondozóháza |
-| 7. | Miskolc Környéki Önkormányzati Társulás | Miskolci Egyesített Szociális, Egészségügyi és Gyermekvédelmi Intézmény – Módszertani Központ Junior Gyermekotthon | 3515 Miskolc, Egyetem út 1/C. | Gyermekvédelmi szakellátás | Gyermekotthon |
-| 8. | Miskolc Környéki Önkormányzati Társulás | Miskolci Egyesített Szociális, Egészségügyi és Gyermekvédelmi Intézmény – Módszertani Központ Aranyhíd Gyermekotthon | 3515 Miskolc, Egyetem út 1/C. | Gyermekvédelmi szakellátás | Gyermekotthon |
-| 9. | Miskolc Környéki Önkormányzati Társulás | Miskolci Egyesített Szociális, Egészségügyi és Gyermekvédelmi Intézmény – Módszertani Központ Fruska Gyermekotthon | 3515 Miskolc, Egyetem út 1/C. | Gyermekvédelmi szakellátás | Gyermekotthon |
-| 10. | Miskolc Környéki Önkormányzati Társulás | Miskolci Egyesített Szociális, Egészségügyi és Gyermekvédelmi Intézmény – Módszertani Központ Nevelőszülői hálózat | 3515 Miskolc, Egyetem út 1/C. | Gyermekvédelmi szakellátás | Nevelőszülői hálózat |
-| 11. | Nagykanizsa Megyei Jogú Város Önkormányzata | Fogyatékkal Élők Integrált Intézménye | 8800 Nagykanizsa, Űrhajós út 6/A. | Ápolást, gondozást nyújtó intézmény | Fogyatékos (látás, mozgás, értelmi) személyek otthona |
-| Átmeneti elhelyezést nyújtó intézmény | Fogyatékos személyek gondozóháza |
-| 12. | Pécs Megyei Jogú Város | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 Pécs, Megye utca 24. | Gyermekvédelmi szakellátás | Nevelőszülői hálózat |
-| 13. | Pécs Megyei Jogú Város | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 Pécs, Megye utca 24. | Gyermekvédelmi szakellátás | Gyermekotthon |
-| 14. | Pécs Megyei Jogú Város | Pécsi Gyermekotthon és Gyermekek Átmeneti Otthona | 7621 Pécs, Megye utca 24. | Gyermekvédelmi szakellátás | Utógondozó otthon |
-| 15. | Tatabányai Többcélú Kistérségi Társulás | Tatabányai Többcélú Kistérségi Társulás Egyesített Szociális Intézmények Szent György Központ | 2831 Tarján, Petőfi Sándor utca 16. | Ápolást, gondozást nyújtó intézmény | Fogyatékos (látás, mozgás, értelmi) személyek otthona |

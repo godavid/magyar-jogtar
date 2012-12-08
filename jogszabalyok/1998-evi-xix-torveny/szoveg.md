@@ -5898,9 +5898,13 @@ az ügyész vádat emel.
 
 562. §
 
-### A pénzbüntetés átváltoztatása szabadságvesztésre
+### A pénzbüntetés átváltoztatása
 
 563. § (1) A pénzbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha az elítélt a pénzbüntetést nem fizette meg.
+
+(2) Az átváltoztatást kimondó végzés ellen fellebbezésnek nincs helye.
+
+563/A. § (1) A bíróság hivatalból vagy az ügyész indítványára a fiatalkorúval szemben kiszabott pénzbüntetés behajthatatlansága esetén, ha a Btk. 114. §-a a közérdekű munkára átváltoztatást lehetővé teszi, a pénzbüntetés közérdekű munkára való átváltoztatásáról, ha pedig az kizárt, a pénzbüntetés szabadságvesztére való átváltoztatásáról határoz.
 
 (2) Az átváltoztatást kimondó végzés ellen fellebbezésnek nincs helye.
 
