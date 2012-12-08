@@ -28,11 +28,13 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (2) A Kormány határozatának bírósági felülvizsgálatát az érintett önkormányzat képviselő-testülete a Fővárosi Törvényszéknél kérheti. A perben felperesként az önkormányzat képviselő-testülete, alperesként a Kormány vesz részt. A Kormányt – ha a Kormány az (1) bekezdésben említett határozatában másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit – a (3) bekezdésben írt eltérésekkel – alkalmazva, soron kívül jár el.
 
-(3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő miniszternél a felülvizsgálni kért határozat közlésétől számított tizenöt napon belül kell benyújtani. Ha a perben a miniszter által vezetett minisztérium ügyintézője jár el képviselőként, képviseleti jogosultságát – külön meghatalmazás nélkül – munkáltatói igazolványával igazolja. A perben első fokon eljárt közigazgatási szervnek a minisztert kell tekinteni. A bíróság ítélete ellen felülvizsgálatnak és perújításnak helye nincs.
+(3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő miniszternél a felülvizsgálni kért határozatnak a Magyar Közlönyben történő közzétételének napjától számított tizenöt napon belül kell benyújtani. Ha a perben a miniszter által vezetett minisztérium ügyintézője jár el képviselőként, képviseleti jogosultságát – külön meghatalmazás nélkül – munkáltatói igazolványával igazolja. A perben első fokon eljárt közigazgatási szervnek a minisztert kell tekinteni. A bíróság ítélete ellen felülvizsgálatnak és perújításnak helye nincs.
 
 (4) A helyi önkormányzat köteles a beruházás megvalósításához szükséges, tulajdonát érintő intézkedések tűrésére.
 
 (5) A Kormány által kijelölt miniszter jogosult bármely önkormányzati beruházás teljesítésének megvalósulását megismerni a tervezéstől a beruházás befejezéséig. A miniszter – a személyes adatok kivételével – adatot kérhet be, jogosult a beruházást megvalósító önkormányzat irataiba betekinteni, a beruházás teljes dokumentációját megismerni.
+
+(6) Az önkormányzat és a jogszabályban meghatározott állami szervek – annak érdekében, hogy a beruházások megvalósítása figyelemmel kísérhető legyen – a jogszabályban meghatározott adatokat szolgáltatják az (5) bekezdés szerinti miniszter részére. Az adatszolgáltatás személyes adatokra nem terjed ki.
 
 ### A helyi közbiztonsággal kapcsolatos önkormányzati feladatok
 
@@ -458,7 +460,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 - a)
 - b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásának szabályait;
 - c)
-- d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket;
+- d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;;
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
@@ -494,6 +496,36 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 146. §
 
 146/A. § Az 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos hatáskör a jegyzőre is átruházható.
+
+146/B. § (1) Ha a polgármesteri hivatalt fenntartó – a 85. § (1) bekezdése alapján közös önkormányzati hivatal létrehozására kötelezett – községi önkormányzat a 146. § (2) bekezdésében meghatározott határidőig nem vesz részt közös önkormányzati hivatal alakításában, a közös önkormányzati hivatal megalakításáig, de legfeljebb a közös önkormányzati hivatalhoz történő kijelölésről szóló döntésig (a továbbiakban: átmeneti időszak) tovább működteti polgármesteri hivatalát. A polgármesteri hivatalt vezető jegyző, aljegyző jogviszonya – a 146/E. § (1) bekezdésében meghatározottak szerint – a közös önkormányzati hivatal megalakulásával szűnik meg.
+
+(2) Ha a hivatali feladatok ellátását 2012. december 31-éig körjegyzőség biztosította és a körjegyzőség egy vagy több tagja közös önkormányzati hivatal létrehozására kötelezett, az átmeneti időszakban
+
+- a) a közös önkormányzati hivatal megalakításáig tovább működik a körjegyzőség, tagjai számára ellátja a hivatali teendőket a közös önkormányzati hivatalra vonatkozó szabályok szerint; a körjegyzőséget vezető körjegyző jogviszonya – a 146/E. § (1) bekezdésében meghatározottak szerint – a közös önkormányzati hivatal megalakulásával szűnik meg,
+- b) ha a megszűnő körjegyzőség tagjai közül egyes tagok polgármesteri hivatalt vagy közös önkormányzati hivatalt hoznak létre, a közös önkormányzati hivatalhoz nem csatlakozott volt körjegyzőségi tag vagy tagok számára az a polgármesteri hivatal vagy az a közös önkormányzati hivatal látja el a hivatali teendőket, amelyet a körjegyzőség korábbi székhelye alakít vagy amelyben részt vesz, ennek hiányában a c) pont szerinti közös önkormányzati hivatal,
+- c) a b) pont szerinti közös önkormányzati hivatalhoz nem csatlakozó település számára, amely a megszűnő körjegyzőség székhelye volt, az a közös hivatal biztosítja a hivatali teendőket, amelyhez a korábbi körjegyzőség tagjainak többsége (ennek hiányában a legnagyobb lakosságszámú település) csatlakozott.
+
+(3) Az (1) és (2) bekezdés szerinti feladatellátás költségeihez megállapodás alapján, ennek hiányában lakosságarányosan járulnak hozzá az érintett települési önkormányzatok.
+
+(4) E §-t kell alkalmazni az átmeneti időszakot követően a kormányhivatal vezetőjének a közös önkormányzati hivatalhoz tartozó települések kijelöléséről szóló döntésének az érintettekkel való közléséig.
+
+(5) Az átmeneti időszakban az (1) és (2) bekezdésben szabályozott feladatellátás során nem kell a járások területi lehatárolására tekintettel lenni.
+
+(6) A 85. § (1) és (2) bekezdése alkalmazásakor a közös önkormányzati hivatal létrehozása során figyelembe veendő lakosságszámot a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által nyilvántartott 2011. január 1-jei, vagy 2012. január 1-jei lakosságszám alapján is meg lehet állapítani, ha az érintett önkormányzat megítélése szerint az kedvezőbb a település számára.
+
+146/C. § (1) A polgármesteri hivatalt működtető önkormányzat polgármestere dönthet arról, hogy a polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – pályázat kiírása nélkül tovább foglalkoztatja, illetve a megszűnő körjegyzőség – amelynek korábban tagja volt – körjegyzőjét a polgármesteri hivatal jegyzőjeként, aljegyzőjeként foglalkoztatja. Ebben az esetben a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
+
+(2) A közös önkormányzati hivatalt alkotó önkormányzatok polgármesterei a 83. § b) pontjának megfelelő alkalmazásával megállapodhatnak abban, hogy a megszűnő körjegyzőség körjegyzőjét, polgármesteri hivatal jegyzőjét, aljegyzőjét – annak egyetértésével – a közös önkormányzati hivatal jegyzőjeként, aljegyzőjeként foglalkoztatják. Ebben az esetben nem szükséges pályázatot kiírni és a jegyző, aljegyző közszolgálati jogviszonya folyamatosnak minősül.
+
+(3) A polgármesteri hivatalt működtető önkormányzat, közös önkormányzati hivatalt alkotó önkormányzatok jegyzője – az e törvényben meghatározottak figyelembevételével – dönthet arról, hogy a megszűnő polgármesteri hivatalban, körjegyzőségben közszolgálati jogviszonyban állókat a polgármesteri hivatalban, a közös önkormányzati hivatalban tovább foglakoztatja. Ebben az esetben a közszolgálati jogviszony folyamatosnak minősül.
+
+146/D. § (1) 2012. december 31-én megszűnik – a 146/B. § (1) bekezdésében foglalt kivétellel – az a polgármesteri hivatal, amelynek fenntartására a települési önkormányzat a 85. § (1) bekezdése alapján nem jogosult. A polgármesteri hivatalt vezető jegyző, aljegyző jogviszonya a 146/E. § (1) bekezdésében foglaltak alapján a polgármesteri hivatal megszűnésével szűnik meg. A megszűnő polgármesteri hivatal jogutódja – ide nem értve a munkajogi jogutódlást – az a közös önkormányzati hivatal, amelynek létrehozásában a települési önkormányzat részt vesz, vagy amelyhez csatlakozik.
+
+(2) A körjegyzőség, továbbá a körjegyzőséget vezető körjegyző jogviszonya – a 146/B. § (2) bekezdés a) pontjában foglalt kivétellel – 2012. december 31-én a 146/E. § (1) bekezdésében foglaltak alapján megszűnik. A körjegyzőség jogutódja – ide nem értve a munkajogi jogutódlást – az érintett települési önkormányzat által létrehozott polgármesteri hivatal, vagy az a közös önkormányzati hivatal, amelynek létrehozásában a korábbi körjegyzőségi tag települési önkormányzat részt vesz, vagy amelyhez csatlakozik.
+
+146/E. § (1) A polgármesteri hivatal, vagy körjegyzőség a 146/B. § (1) bekezdése, (2) bekezdés a) pontja, valamint a 146/D. § alapján történő megszűnése olyan átszervezésnek minősül, amely alapján a jegyző (körjegyző), valamint a közszolgálati jogviszonyban állók jogviszonya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 63. § (1) bekezdés c) pontja alapján felmentéssel szüntethető meg.
+
+(2) Ha a polgármesteri hivatal, körjegyzőség megszűnésének időpontjában a jegyző, körjegyző felmentési védelem alatt áll, akkor a jegyző, körjegyző jogviszonyának megszüntetéséről szóló intézkedést – eltérő megállapodás hiányában – a megszűnt polgármesteri hivatalt, körjegyzőséget alkotó önkormányzatok polgármesterei legkorábban a felmentési védelem lejártát követő napon hozhatják meg. E rendelkezéseket a közszolgálati jogviszonyban állókra megfelelően alkalmazni kell azzal az eltéréssel, hogy – eltérő megállapodás hiányában – a munkáltatói intézkedést az érintett jegyző hozza meg.
 
 ### Módosító rendelkezések
 

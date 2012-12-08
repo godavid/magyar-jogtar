@@ -1210,7 +1210,7 @@ nyújtja.
 
 (3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni. 2011. január 1-jét követően – a 2011. január 1-jén jogerős építési engedéllyel rendelkező beruházás kivételével – fogyatékos személyek ápolást-gondozást nyújtó intézményi ellátása céljából új férőhelyet csak lakóotthoni formában lehet létrehozni.
 
-(4) A fővárosi önkormányzat fenntartásában lévő, illetve a fővárosi önkormányzattal ellátási szerződést kötött nem állami, egyházi fenntartó által nyújtott éjjeli menedékhely engedélyezett férőhelyszáma az ellátás iránti szükséglet által különösen indokolt esetben meghaladhatja a százötven főt.
+(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a működési engedély visszavonásától számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
 
 57/A. §
 
@@ -2746,7 +2746,7 @@ járul hozzá.
 
 (5) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
 
-(6)
+(6) Bentlakásos intézményi ellátás esetén nem kell az egyházi kiegészítő támogatást megtéríteni, ha az alól a szociál- és nyugdíjpolitikáért felelős miniszter a megtérítésre köteles fenntartót mentesíti. A mentesítésre a megtérítésre köteles fenntartó vagy az új fenntartó kérelmére akkor kerülhet sor, ha a kérelemmel érintett intézményekben, illetve székhelyen és telephelyeken összesen legalább ezer betöltött férőhely van, és a mentesítést az ellátottak folyamatos ellátása különösen indokolja. Ha az új fenntartó több megtérítésre köteles fenntartótól vesz át intézményt, illetve több megtérítésre köteles fenntartó intézményét alapítja újra, az ezer betöltött férőhelyet megtérítésre köteles fenntartónként kell vizsgálni.
 
 128. § (1) Kötött felhasználású állami támogatásként a helyi önkormányzatok
 
@@ -2794,7 +2794,7 @@ kaphatnak.
 - u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
 - v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
 - w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat;
-- x) a megyei fenntartó kijelölését;
+- x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -2916,6 +2916,8 @@ kell elvégezni.
 - b) a közgyógyellátás megállapítása iránt benyújtott kérelmét 2011. december 31-ét követően arra tekintettel utasították el, hogy részére öregségi nyugdíjat állapítottak meg, a jogosultságot megszüntető vagy a kérelmet elutasító döntést a jegyző a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvény hatálybalépését követő harminc napon belül hivatalból felülvizsgálja.
 
 140/O. § Az 58/A. § (2e) bekezdés d) pontja szerinti esetben – amennyiben a hatálybalépésig az eljárás jogerősen lezárult – a működési engedély módosítása iránt új kérelmet kell benyújtani.
+
+140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
 
 ### Az Európai Unió jogának való megfelelés
 

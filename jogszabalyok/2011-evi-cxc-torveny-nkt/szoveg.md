@@ -427,7 +427,7 @@ nyújtható.
 
 (2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek – 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százalékát határozatlan időre szóló munkaviszonyban vagy közalkalmazotti jogviszonyban foglalkoztatja. Többcélú intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben kell előirányozni.
 
-(3) A köznevelési intézmény, ha nem sérti az alapfeladatainak ellátását, anyagi haszonszerzésre irányuló tevékenységet is folytathat. Az ebből a tevékenységből származó nyereséget – ha azt a köznevelési intézmény alapfeladatainak ellátásához vagy a tevékenységben részt vevő tanulók díjazására használják fel – a köznevelési intézmény alapfeladatainak ellátására szolgáló költségvetés megállapításánál figyelmen kívül kell hagyni, és azt az intézménytől nem lehet elvonni.
+(3)
 
 23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ alapítja, működésének megkezdéséhez engedély szükséges.
 
@@ -1343,7 +1343,7 @@ fegyelmi büntetés szabható ki.
 
 #### 40. A nevelőtestület
 
-70. § (1) A nevelőtestület a nevelési-oktatási intézmény legfontosabb tanácskozó és döntéshozó szerve. A nevelési-oktatási intézmény nevelőtestülete a nevelési és oktatási kérdésekben, a nevelési-oktatási intézmény működésével kapcsolatos ügyekben, valamint e törvényben és más jogszabályokban meghatározott kérdésekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
+70. § (1) A nevelőtestület a nevelési-oktatási intézmény legfontosabb tanácskozó és döntéshozó szerve. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az önálló jogi személyiséggel rendelkező szervezeti egységnek egy nevelőtestülete van. A nevelési-oktatási intézmény nevelőtestülete a nevelési és oktatási kérdésekben, a nevelési-oktatási intézmény működésével kapcsolatos ügyekben, valamint e törvényben és más jogszabályokban meghatározott kérdésekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
 
 (2) A nevelőtestület
 
@@ -1438,6 +1438,8 @@ dönt.
 
 #### 75–76. §
 
+76/A. § A Központ együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a használatában vagy vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának veszélyeztetése nélkül külön megállapodás alapján biztosítja a tulajdonos települési önkormányzat számára.
+
 #### 45. Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
 
 77. § (1) Az oktatásért felelős miniszter e törvényben meghatározottak szerint ellátja a köznevelés ágazati irányítását. Az oktatásért felelős miniszter ágazati irányító hatásköre kiterjed e törvény hatálya alá tartozó valamennyi tevékenységre, függetlenül attól, hogy a tevékenységet milyen intézményben, szervezetben látják el, vagy ki az intézmény fenntartója. A szakképző iskolákban folyó szakképzés tekintetében az irányítási hatásköröket a szakképzésről szóló törvény állapítja meg.
@@ -1507,7 +1509,7 @@ ha bebizonyosodik, hogy a vizsgát jogellenesen szervezték meg, bonyolították
 
 #### 46. Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes központi és területi feladatok
 
-79. § (1) Az oktatásért felelős miniszter egyes külön jogszabályban meghatározott feladat- és hatásköreit az oktatásért felelős miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatala útján látja el.
+79. § (1) Az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatait a hivatalon és az állami intézményfenntartó központon keresztül látja el.
 
 (2) A kormányhivatal hatósági ellenőrzés keretében vizsgálja a köznevelési intézmény jogszabályi feltételeknek megfelelő működését.
 
@@ -1845,7 +1847,7 @@ egyetértésben gyakorolja.
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának és kezelésének szabályait,
 - j) az egyházi és magánintézményeket valamint az országos nemzetiségi önkormányzatok által fenntartott köznevelési intézményeket megillető – a költségvetésről szóló törvényben meghatározott – állami hozzájárulások megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatást, továbbá az ellenőrzés rendjét, valamint az egyházi és az országos nemzetiségi önkormányzati fenntartót megillető kiegészítő támogatás igénylésének, a jogosultat megillető kiegészítő támogatás megállapításának rendjét, a bármely jogcímen megállapításra kerülő kiegészítő támogatás igényléséhez szükséges adatszolgáltatást és a kiegészítő támogatás folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő ellenőrzés rendjét, a kiegészítő támogatás megállapításához szükséges kormányhivatal általi adatszolgáltatást,
-- k) az oktatásért felelős miniszter egyes feladat- és hatásköreit ellátó központi hivatal és az általa ellátott feladat-és hatáskörök kijelölését,
+- k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 - l) a kormányhivatalok hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
 - m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a diákigazolvány, a pedagógusigazolvány kiállításával összefüggő igazgatási szolgáltatási díj megállapításának, befizetésének és felhasználásának kérdéseit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógusigazolvány igénylésével kapcsolatos igazgatási szolgáltatási díj megállapításának és beszedésének, befizetésének rendjét, valamint a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv kijelölését, a települési önkormányzati fenntartású köznevelési intézmények fenntartói joga állam általi átvételének, az állami fenntartással összefüggő adatváltozások KIR-ben történő átvezetésének részletes szabályait,
@@ -1886,7 +1888,7 @@ rendeletben állapítsa meg.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.
+(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a nevelési-oktatási programok akkreditálásával, a tankönyvek jóváhagyásával, a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő két hónap.
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
@@ -1914,7 +1916,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.
 
-(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
+(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
 
 (5) A fejlesztő nevelés, nevelés-oktatás 15. § (2) bekezdés szerinti ellátása 2014. szeptember 1-jétől kötelező. Eddig az időpontig az érintett tanulók részére a fejlesztő iskolai oktatás a Kt. szabályai szerint is megszervezhető. A korai fejlesztés és gondozás, valamint a fejlesztő felkészítés 2013. január 1-jéig bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében is ellátható.
 
@@ -1936,7 +1938,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (14) Az iskola 2012. december 31-ig felülvizsgálja a pedagógiai programját, annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen.
 
-(15) A tíznél több szakmai munkaközösséggel működő nevelési-oktatási intézmény 2012. december 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen a 71. § (1) bekezdésében foglaltaknak.
+(15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
 
 (16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
 
@@ -1990,7 +1992,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
 
-(11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól.
+(11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól. Az e bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni a 4. § 21. pontban az óraszámra vonatkozóan meghatározott korlátozást.
 
 (12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
