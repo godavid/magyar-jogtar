@@ -31,7 +31,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - a) az 1. számú mellékletben felsorolt pénzügyi intézményeknek Magyarország területén folytatott tevékenységére;
 - b) a betétnek nem minősülő, visszafizetendő pénzeszközöknek a Magyar Állam és a helyi önkormányzatok által a nyilvánosságtól történő – külön törvényben szabályozott – gyűjtésére;
 - c) a pénzletétkezelésre, ha annak üzletszerű végzéséről külön jogszabály rendelkezik;
-- d) az (5) bekezdés, 13. § (1)–(2) bekezdés, 13/C. §, 13/D. § (1) bekezdés, 18/A. §, 45. §, 67. § (5)–(9) bekezdés, 87/K–L. §, 87/P. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 218. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
+- d) az (5) bekezdés, 6/A. § (2)–(4) bekezdés, 6/B. §, 13. § (1)–(2) bekezdés, 13/B. §, 13/C. §, 13/D. § (1) bekezdés, 18/A. §, 45. §, 67. § (5)–(9) bekezdés, 87/K–L. §, 87/P. §, 132. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 218. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
 - e)
 - f) a nem pénzügyi intézmény által történő vámkezesség nyújtására, továbbá a vámigazgatási eljárásban a közvetett képviselő által a vámfizetési kötelezettség teljesítése érdekében végzett pénzügyi szolgáltatásra;
 - g)
@@ -4571,6 +4571,10 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (14) A pénzügyi intézmény az ügyfél számára nem kedvezőtlenül egyoldalúan módosíthatja az ügyféllel kötött szerződés feltételeit.
 
+(15) A (3) bekezdésben meghatározott szerződés felmondását megelőzően a pénzügyi intézmény a fogyasztónak, valamint a szerződésben kezesként részt vevő személynek, továbbá – ha a zálogfedezetet nem a hitelfelvevő nyújtja – a zálogkötelezettnek küldött írásbeli fizetési felszólításban felhívja a fogyasztó, valamint a kezes, illetve a zálogkötelezett figyelmét a teljes fennálló és a lejárt tartozás összegére, a fizetendő kamat és késedelmi kamat mértékére, valamint a nemfizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre.
+
+(16) A (3) bekezdésben meghatározott szerződés felmondását a pénzügyi intézmény a fogyasztónak és a kezesnek megküldi. A felmondás megküldésének igazolása a pénzügyi intézményt terheli.
+
 210/A. § (1)–(4)
 
 (5) A fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés esetében a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel a felmondás napját megelőző napon érvényes ügyleti kamatot és kezelési költséget meghaladó összegben.
@@ -5039,6 +5043,12 @@ esetében kell alkalmazni.
 
 234/K. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény 19. §-ával megállapított rendelkezéseket a folyamatban lévő végelszámolási eljárásokra is alkalmazni kell azzal, hogy a 105. § (1) bekezdésében meghatározott kártalanítási határidőt az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény hatálybalépésének napjától kell számítani.
 
+234/L. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény 9. §-ával megállapított 101. § (1) bekezdésében és 12. §-ával megállapított 107. § (4) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
+
+(2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény 22. §-ával megállapított 210. § (15) és (16) bekezdésében foglalt rendelkezéseket a hatálybalépését követően kezdeményezett felmondásokra kell alkalmazni.
+
+(3) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény 23. §-ával megállapított 211. § (3) bekezdésében foglalt rendelkezéseket a hatálybalépését követően kötött szerződésekre kell alkalmazni.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -5087,7 +5097,7 @@ vonatkozó részletes szabályokat.
 - b) a belső ellenőrzési rendszerekre, eljárásokra,
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat.
+- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
 
 (4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 

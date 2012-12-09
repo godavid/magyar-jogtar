@@ -83,8 +83,8 @@ kell érteni.
 
 (2) A referenciaadat-szolgáltató a pénzügyi szolgáltatásra vonatkozó szerződés, a befektetési hitel nyújtására vonatkozó szerződés, valamint az értékpapír-kölcsönzésre vonatkozó szerződés, továbbá a jogszabályban meghatározott hallgatói hitelszerződés (a továbbiakban együtt: az adatszolgáltatás tárgyát képező szerződés) megkötését követően írásban átadja a KHR részére
 
-- a) a természetes személynek a melléklet II. fejezetének 1.1 pontja és 1.2 pontjának a)–d) alpontjai szerinti referenciaadatait,
-- b) a vállalkozásoknak a melléklet II. fejezetének 2.1 pontja és 2.2 pontja a)–d) alpontja szerinti referenciaadatait.
+- a) a természetes személynek a melléklet II. fejezetének 1.1 pontja és 1.2 pontjának a)–d) és k) alpontja szerinti referenciaadatait,
+- b) a vállalkozásoknak a melléklet II. fejezetének 2.1 pontja és 2.2 pontja a)–d) és l) alpontja szerinti referenciaadatait.
 
 (3) A referenciaadatok KHR-be történő átadását megelőzően a referenciaadat-szolgáltató beszerzi a természetes személy ügyfél írásbeli nyilatkozatát arra vonatkozóan, hogy hozzájárul-e az adatai KHR-ből történő, más referenciaadat-szolgáltató általi – a (7) bekezdés szerinti – átvételéhez. Ezt a hozzájárulást a természetes személy ügyfél – az adatok KHR-ben történő nyilvántartásának időtartama alatt – bármikor megadhatja. Nem szükséges az ügyfél hozzájárulása a 11–13. § alapján kezelt adatok átvételéhez. Ha az ügyfél nem járul hozzá adatai KHR-ből történő átvételéhez, úgy a KHR a melléklet II. fejezetének 1.1 pontja és 1.2 pont a)–d) alpontjai, valamint az 1.5 pontja szerinti adatokat tartalmazza.
 
@@ -116,7 +116,7 @@ kell érteni.
 
 (2) Az egymás között történő adatátadás tényéről, időpontjáról és az átadott adatok köréről mind a KHR-t kezelő pénzügyi vállalkozásnak, mind a referenciaadat-szolgáltatónak nyilvántartást kell vezetnie. E nyilvántartást a referenciaadatok nyilvántartására vonatkozó, 8. §-ban meghatározott időpontig kell kezelni.
 
-(3) Az e törvényben foglalt feltételek fennállása esetén a referenciaadat-szolgáltató – az ügyfélvédelmi szabályok figyelembevételével – két munkanapon belül köteles az általa kezelt referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadni. A határidő számításának kezdete
+(3) Az e törvényben foglalt feltételek fennállása esetén a referenciaadat-szolgáltató – az ügyfélvédelmi szabályok figyelembevételével – öt munkanapon belül köteles az általa kezelt referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadni. A határidő számításának kezdete
 
 - a) az 5. § (2) bekezdésében meghatározott szerződések megkötésének időpontja,
 - b) a 11. § (1) bekezdésében és a 14. § és 14/B. §-ban meghatározott időtartam letelte,
@@ -124,11 +124,11 @@ kell érteni.
 - d) a 12. § b) pontjában és a 13. §-ban meghatározott esetekben a jogerős bírósági határozat tartalmáról való tudomásszerzés időpontja,
 - e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződés felmondásának vagy felfüggesztésének időpontja.
 
-(4) A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll. Ebben az esetben a referenciaadat-szolgáltató az adatot az arról való tudomásszerzést követő két munkanapon belül írásban átadja a KHR-t kezelő pénzügyi vállalkozás részére.
+(4) A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll. Ebben az esetben a referenciaadat-szolgáltató az adatot az arról való tudomásszerzést követő öt munkanapon belül írásban átadja a KHR-t kezelő pénzügyi vállalkozás részére.
 
-(5) A referenciaadat-szolgáltató a tárgyhót követő ötödik munkanapig átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pontjának j) alpontja, illetve 2.2 pontjának k) alpontja szerinti adatot.
+(5) A referenciaadat-szolgáltató a tárgyhót követő ötödik munkanapig átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pontjának j) és k) alpontja, illetve 2.2 pontjának k) és l) alpontja szerinti adatot.
 
-(6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő két munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
+(6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő öt munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
 
 (7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank és a Felügyelet részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
 
@@ -195,7 +195,7 @@ kell érteni.
 
 (5) A referenciaadat-szolgáltató a vállalkozások részére – az adatátadás céljának, az átadandó adatok körének, valamint annak a megjelölésével, hogy a KHR-be történt adatátadást követően a referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás az 1. §-ban meghatározott célból további referenciaadat-szolgáltatók részére is átadhatja – a szerződés megkötését megelőzően írásbeli tájékoztatást köteles adni arról, hogy a 14–14/B. §-ban meghatározott esetben referenciaadataik bekerülnek a KHR-be.
 
-(6) A referenciaadat-szolgáltató a 6. § (5) bekezdés szerinti referenciaadatot kivéve, valamennyi e törvény szerinti, a KHR-t kezelő pénzügyi vállalkozás részére történő adatátadást követően legfeljebb öt munkanapon belül írásban tájékoztatja a nyilvántartott személyt az adatátadás megtörténtéről.
+(6) A referenciaadat-szolgáltató a 6. § (5) bekezdés szerinti referenciaadatot kivéve, valamennyi e törvény szerinti, a KHR-t kezelő pénzügyi vállalkozás részére történő adatátadását követő legfeljebb öt munkanapon belül írásban tájékoztatja a nyilvántartott természetes személyt az adatátadás megtörténtéről.
 
 (7) Bármely referenciaadat-szolgáltatónál bárki jogosult tájékoztatást kérni arról, hogy milyen adatai szerepelnek a KHR-ben, és ezen adatait mely referenciaadat-szolgáltató adta át. A KHR-ben nyilvántartott saját adatait, valamint az arról szóló információt, hogy ki, mikor és milyen jogcímen fért hozzá ezen adatokhoz, a nyilvántartott személy korlátozás nélkül megismerheti, ezért költségtérítés és egyéb díj nem számolható fel.
 
@@ -320,7 +320,7 @@ b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
 c) ügyféli minőség (adós, adóstárs),
 
-d) a szerződés összege, a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja és gyakorisága,
+d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
 e) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
 
@@ -332,7 +332,9 @@ h) a követelés másik referenciaadat-szolgáltató részére történő átruh
 
 i) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, pénzneme,
 
-j) fennálló tőketartozás összege és pénzneme.
+j) fennálló tőketartozás összege és pénzneme,
+
+k) a szerződéses összeg törlesztő részletének összege és devizaneme.
 
 1.3. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
@@ -388,7 +390,7 @@ b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
 c) a szerződés megszűnésének módja,
 
-d) a szerződés összege a szerződéses összeg törlesztő részletének összege és devizaneme, valamint a törlesztés módja,
+d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
 e) a 14. §-ban meghatározott feltételek bekövetkezésének időpontja,
 
@@ -402,7 +404,9 @@ i) a követelés másik referenciaadat-szolgáltató részére történő átruh
 
 j) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, valamint pénzneme,
 
-k) fennálló tőketartozás összege és pénzneme.
+k) fennálló tőketartozás összege és pénzneme,
+
+l) a szerződéses összeg törlesztő részletének összege és devizaneme.
 
 2.3. Azon pénzforgalmi számlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
 

@@ -124,25 +124,11 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 14–16. §
 
-17. § Az Szt. 57. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a működési engedély visszavonásától számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.”
+#### 17. §
 
 #### 18–25. §
 
-26. § Az Szt. 127/A. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Bentlakásos intézményi ellátás esetén nem kell az egyházi kiegészítő támogatást megtéríteni, ha az alól a szociál- és nyugdíjpolitikáért felelős miniszter a megtérítésre köteles fenntartót mentesíti. A mentesítésre a megtérítésre köteles fenntartó vagy az új fenntartó kérelmére akkor kerülhet sor, ha a kérelemmel érintett intézményekben, illetve székhelyen és telephelyeken összesen legalább ezer betöltött férőhely van, és a mentesítést az ellátottak folyamatos ellátása különösen indokolja. Ha az új fenntartó több megtérítésre köteles fenntartótól vesz át intézményt, illetve több megtérítésre köteles fenntartó intézményét alapítja újra, az ezer betöltött férőhelyet megtérítésre köteles fenntartónként kell vizsgálni.”
-
-27. § Az Szt. 132. § (1) bekezdés x) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy megállapítsa)
-
-„x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.”
-
-28. § Az Szt. a következő 140/Q. §-sal egészül ki:
-
-„140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.”
+#### 26–28. §
 
 #### 29. §
 
@@ -152,17 +138,7 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 31–34. §
 
-35. § A Gyvt. 15. §-a a következő (11)–(15) bekezdéssel egészül ki:
-
-„(11) A (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményekben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményekben a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott pedagógus-munkakörben foglalkoztatott személy (a továbbiakban: pedagógus-munkakörben foglalkoztatott személy) heti teljes munkaideje 40 óra, amelynek 80%-át (a továbbiakban: kötött munkaidő) a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a feladatainak beosztását maga határozza meg.
-
-(12) A pedagógus-munkakörben foglalkoztatott személy tekintetében a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és utógondozói feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
-
-(13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
-
-(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
-
-(15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.”
+#### 35. §
 
 #### 36. §
 
@@ -180,9 +156,7 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 70–72. §
 
-73. § (1) A Gyvt. a következő 161/K. §-sal egészül ki:
-
-„161/K. § A 96. § 2012. december 31-ét megelőzően hatályos (7)–(8a) bekezdése alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.”
+73. § (1)
 
 (2)
 
