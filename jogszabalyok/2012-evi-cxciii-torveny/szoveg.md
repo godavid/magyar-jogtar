@@ -1286,11 +1286,11 @@ E megállapodás 3. és 4. cikkében, valamint I. mellékletében említett egy�
 
 4. A Svájci Államszövetség (az Európai Közösség és a Svájci Államszövetség között a légi közlekedésről létrejött megállapodás alapján).”
 
-4. §
+4. § Az Országgyűlés jóváhagyja a Megállapodásnak az e törvény hatálybalépésétől kezdődően történő ideiglenes alkalmazását.
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2)
+(2) A 4. § a Megállapodás 29. cikk (1) bekezdésben meghatározott időpontban hatályát veszti.
 
 (3) A Megállapodás hatálybalépésének naptári napját, valamint a (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
