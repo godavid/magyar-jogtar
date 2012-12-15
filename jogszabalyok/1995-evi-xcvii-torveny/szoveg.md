@@ -662,7 +662,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (7) Kényszerleszállás esetén a repülőtér üzemben tartója köteles a légijármű részére segítséget nyújtani.
 
-(8) A nem nyilvános repülőtér igénybevételét a repülőtér üzemben tartója engedélyezheti. A használatért ellenszolgáltatás nem kérhető.
+(8) A nem nyilvános repülőtér igénybevételét a repülőtér üzemben tartója engedélyezheti. A polgári célú nem nyilvános repülőtér használatáért ellenszolgáltatás kérhető, amelyet a repülőtér üzemben tartója állapít meg és a 72. §-ban említett légiforgalmi tájékoztató kiadványban tesz közzé.
 
 42. § A nem állami repülések céljára szolgáló repülőtér üzemben tartója köteles a repülőtér ideiglenes használatát — előre egyeztetett időpontban és módon — a Magyar Honvédség részére esetenként átengedni. A repülőtér üzemben tartója az átengedéssel összefüggésben kártérítésre jogosult.
 
@@ -1180,7 +1180,7 @@ folytatja le.
 - w) a kötelező felelősségbiztosítás szabályait,
 - x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikke szerinti elosztási eljárás szabályait,
 - y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
-- z) a lajstromozásra nem kötelezett légijárművekkel kapcsolatos feladatokat, amelyeket nem közigazgatási feladat ellátására létrehozott szervezet lát el, továbbá az azokkal kapcsolatos eljárási szabályokat,
+- z)
 - aa) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 - bb) a légiközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait.
 
@@ -1269,7 +1269,8 @@ rendeletben állapítsa meg,
 - k) a Bizottsági 255/2010/EU rendelete (2010. március 25.) a légiforgalomáramlás-szervezésre vonatkozó közös szabályok megállapításáról, 15. cikk;
 - l) a Bizottság 285/2010/EU rendelete (2010. április 6.) a légifuvarozókra és légi járművek üzemben tartóira vonatkozó biztosítási követelményekről szóló 785/2004/EK európai parlamenti és tanácsi rendelet módosításáról;
 - m) a Bizottság 691/2010/EU rendelete (2010. július 29.) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének megállapításáról, valamint a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló 2096/2005/EK rendelet módosításáról, 12. cikk;
-- n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet.
+- n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet;
+- o) az Európai Parlament és a Tanács 1070/2009/EK rendelete (2009. október 21.) az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az 552/2004/EK rendeletnek az európai légiközlekedési rendszer teljesítményének és fenntarthatóságának javítását célzó módosításáról.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

@@ -605,7 +605,8 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 - a) az adózónak postai úton, hivatalos iratként kézbesített adóhatósági irat két egymást követő alkalommal a feladóhoz a címzett ismeretlensége miatt érkezett vissza és/vagy a megfelelő levélszekrény hiánya miatt a címzett számára kézbesíthetetlennek tekinthető,
 - b) az adózó székhelyén végzett helyszíni eljárás alapján hitelt érdemlően tudomást szerez arról, hogy az adózó a székhelyén nem található,
-- c) az adózó az állami adóhatósághoz teljesítendő bevallási vagy adófizetési (adóelőleg-fizetési) kötelezettségének a törvényi határidőtől, illetve az esedékességtől számított 365 napon belül, az állami adóhatóság felszólítása ellenére nem tesz eleget.
+- c) az adózó az állami adóhatósághoz teljesítendő bevallási vagy adófizetési (adóelőleg-fizetési) kötelezettségének a törvényi határidőtől, illetve az esedékességtől számított 365 napon belül, az állami adóhatóság felszólítása ellenére nem tesz eleget,
+- d) azt a kormányzati ellenőrzési szerv vezetője az Áht. 65. § (2) bekezdés b) pontjában meghatározott esetben kezdeményezi.
 
 (2) Az adóhatóság az adószám alkalmazásának felfüggesztéséről határozattal dönt, a határozat elleni fellebbezést a közléstől számított 15 napon belül lehet előterjeszteni. A fellebbezést az ügy összes iratával a felettes szervhez a fellebbezés megérkezésétől számított 8 napon belül kell felterjeszteni, kivéve ha az adóhatóság a megtámadott határozatot a fellebbezésnek megfelelően módosítja, visszavonja, kijavítja vagy kiegészíti. A felettes szerv a fellebbezésről 15 napon belül dönt és az ügy iratait haladéktalanul visszaküldi az adóhatóságnak. Az adóhatóság a jogerőre emelkedés megállapítását követő napon megkeresi a cégbíróságot, illetve az egyéni vállalkozók nyilvántartását vezető szervet a felfüggesztés tényének és kezdőidőpontjának cégjegyzékbe, illetve az egyéni vállalkozók nyilvántartásába való bejegyzése, érdekében, továbbá a felfüggesztésről értesíti az adózó nyilvántartását vezető egyéb szervet. Ha a felfüggesztés elrendelésére az (1) bekezdés a)–b) pontja alapján került sor, az adóhatóság a cégbíróság megkeresésével egyidejűleg törvényességi felügyeleti eljárást, illetve az ismeretlen székhelyű cég megszüntetése iránti eljárást kezdeményez.
 
@@ -3904,6 +3905,8 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (13) A Mód. törvénnyel megállapított 155/A. §-t a hatálybalépésekor folyamatban lévő, vagy ezt követően indított végrehajtási eljárásokban kell alkalmazni.
 
 (15) E törvénynek az adózás rendjéről szóló 2003. évi XCII. törvény, valamint a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosításáról szóló 2012. évi CXXXV. törvénnyel megállapított 24/C. § (13) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(16) Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 24/A. § (1) bekezdés d) pontot az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő kormányzati ellenőrzések során is alkalmazni kell.
 
 194. § (1) A munkahelyvédelmi akciótervben foglaltak megvalósítása érdekében szükséges egyes törvények módosításáról szóló 2012. évi CXLVI. törvénnyel megállapított 22. § (1) bekezdés i) pontja szerinti választást csak 2013. január 1-jén, vagy ezt követően kezdődő általános forgalmi adó megállapítási időszakra vonatkozóan lehet bejelenteni.
 

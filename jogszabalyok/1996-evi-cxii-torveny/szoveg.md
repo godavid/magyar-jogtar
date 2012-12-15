@@ -1574,7 +1574,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 63. §-ában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
@@ -1588,7 +1588,8 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - l) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Közösségeket létrehozó Szerződés 87. cikk (1) bekezdésének hatálya alá tartozó állami támogatások – az Európai Közösségeket létrehozó Szerződés I. mellékletében szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint külön jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 - m) lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző kincstárral,
 - n) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
-- o) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával
+- o) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
+- p) a feladatkörében eljáró kormányzati ellenőrzési szervvel
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 
@@ -1632,7 +1633,7 @@ van összefüggésben.
 
 (2) A pénzügyi intézmény a megkeresések teljesítése során köteles az államtitok és a szolgálati titok védelméről szóló jogszabályban foglalt feltételeknek megfelelő védelmi intézkedéseket megtenni.
 
-53. § (1) Az 51. § (2) bekezdésének d) és f)–g) pontjai, az 51. § (7) bekezdése, az 52. §, valamint az 54. § (1) bekezdésének p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja.
+53. § (1) Az 51. § (2) bekezdés d), f), g) és p) pontja, az 51. § (7) bekezdése, az 52. §, valamint az 54. § (1) bekezdésének p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja.
 
 (2) Az adatkérő az (1) bekezdésben említett esetek kivételével az ügyfelet az adatkérésről köteles tájékoztatni.
 
@@ -5049,6 +5050,8 @@ esetében kell alkalmazni.
 
 (3) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény 23. §-ával megállapított 211. § (3) bekezdésében foglalt rendelkezéseket a hatálybalépését követően kötött szerződésekre kell alkalmazni.
 
+234/M. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 51. § (2) bekezdés a) és p) pontot, valamint 53. § (1) bekezdést az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő adatátadások során is alkalmazni kell.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -5097,7 +5100,7 @@ vonatkozó részletes szabályokat.
 - b) a belső ellenőrzési rendszerekre, eljárásokra,
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
+- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat.
 
 (4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 

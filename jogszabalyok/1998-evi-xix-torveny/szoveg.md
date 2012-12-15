@@ -872,7 +872,7 @@ bírálja el.
 
 (4) Az ügy iratainak pótlása mellőzhető, ha az elveszett vagy megsemmisült irat alapján hozott határozat az eljárást befejezte. Ebben az esetben csak a határozat hiteles kiadmányát (másolatát) kell beszerezni.
 
-71/B. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, jogi segítő, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, illetve a nyomozó hatóság a büntetőügy iratait vagy annak hiteles másolatát megküldi, illetve azokba betekintést engedélyez.
+71/B. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, jogi segítő, nyomozó hatóság, közigazgatási hatóság, a kormányzati ellenőrzési szerv megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, illetve a nyomozó hatóság a büntetőügy iratait vagy annak hiteles másolatát megküldi, illetve azokba betekintést engedélyez.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel, illetőleg az Európai Közösségek jogi aktusával létrehozott szerv megkeresésére – a szerv nemzetközi szerződésben vagy az Európai Közösségek kötelező jogi aktusában meghatározott feladatainak ellátásához szükséges mértékben és időtartamban – a bíróság, az ügyész, illetve a nyomozó hatóság a büntetőügyről – indokolt esetben az érintettek személyes adatainak közlésével – felvilágosítást ad, a büntetőügy irataiba betekintést engedélyezhet, a büntetőügy iratairól hiteles másolatot ad át.
 
@@ -2357,7 +2357,9 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 195. § (1) Akire nézve az ügyész vagy a nyomozó hatóság feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről, kényszerintézkedés elrendeléséről (VIII. Fejezet) további vagyoni jogok vagy érdekek korlátozásáról, valamint vagyoni jellegű kötelezettségek megállapításáról hozott határozata közvetlen rendelkezést tartalmaz, a határozat ellen a közléstől számított nyolc napon belül panasszal élhet.
 
-(2) A feljelentő nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
+(2) A feljelentő – a (2a) bekezdésben foglalt kivétellel – nem élhet panasszal a feljelentés elutasítása miatt, ha a bűncselekménynek nem sértettje.
+
+(2a) Amennyiben a feljelentő központi államigazgatási szerv, az ügyésznek vagy a nyomozó hatóságnak a feljelentés elutasításáról, a nyomozás részbeni mellőzéséről, felfüggesztéséről, illetve megszüntetéséről szóló határozata ellen a közléstől számított nyolc napon belül panasszal élhet.
 
 (3) A panasznak – ha e törvény kivételt nem tesz – nincs halasztó hatálya. Kivételesen indokolt esetben a határozatot hozó, illetőleg a panaszt elbíráló a határozat végrehajtását a panasz elbírálásáig felfüggesztheti.
 
@@ -6358,6 +6360,8 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 603/A. § A jogosulatlan gazdasági előny megszerzése, különösen nagy, vagy ezt meghaladó mértékű bevételcsökkenést okozó adócsalás, különösen nagy, vagy ezt meghaladó mértékű bevételcsökkenést okozó munkáltatással összefüggésben elkövetett adócsalás és az Európai Közösségek pénzügyi érdekeinek megsértése miatt 2011. december 31. napját követően induló vagy 2012. január 1. napján folyamatban lévő büntetőeljárásra a Be. XXVIII/A. Fejezetének rendelkezéseit kell alkalmazni.
 
 603/B. § E törvénynek az igazságszolgáltatást érintő egyes törvények módosításáról szóló 2011. évi CCV. törvénnyel megállapított rendelkezéseit az igazságszolgáltatást érintő egyes törvények módosításáról szóló 2011. évi CCV. törvény hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+
+603/C. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 71/B. § (1) bekezdést, 195. § (2) és (2a) bekezdést az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 
