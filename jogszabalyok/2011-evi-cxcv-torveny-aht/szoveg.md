@@ -777,19 +777,30 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (2) A kormányzati ellenőrzési szerv feladatai ellátásával összefüggésben jogosult a minősített adat, az üzleti titok és az ellenőrzött szervezet, valamint az ellenőrzés kapcsán adatszolgáltatásra kötelezett szervezet által kezelt egyéb titokfajták megismerésére.
 
-(3) A kormányzati ellenőrzési szerv személyes adatot az (1) bekezdés szerinti ellenőrzési tevékenysége céljából, az ahhoz szükséges mértékben, az ellenőrzés dokumentumainak megőrzéséig kezelhet.
+(3) A kormányzati ellenőrzési szerv az állami vagyon kezelésének ellenőrzése keretében a Magyar Államot, mint tulajdonost törvény alapján megillető ellenőrzési jogkört külön meghatalmazás nélkül kizárólag az állami vagyonnal való gazdálkodás, a vagyonérték-megőrző és vagyongyarapító tevékenység értékelése érdekében gyakorolhatja, a Magyar Állam közvetlen vagy közvetett tulajdonában álló gazdasági társasági részesedés tekintetében.
+
+(4) A kormányzati ellenőrzési szerv személyes adatot az (1) bekezdés szerinti ellenőrzési tevékenysége céljából, az ahhoz szükséges mértékben, az ellenőrzés dokumentumainak megőrzéséig kezelhet.
 
 64. § (1) A kormányzati ellenőrzést végző személy a feladatai ellátása érdekében az ellenőrzött, és az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv, szervezet bármely helyiségébe beléphet, számára akadálytalan hozzáférést kell biztosítani valamennyi dokumentumhoz és az informatikai rendszerek archív és élő adatállományához. Kérésére az ellenőrzött szerv, illetve az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv bármely dolgozója köteles szóban vagy írásban információt szolgáltatni.
 
 (2) A kormányzati ellenőrzést végző személy az ellenőrzés során a dokumentumokba és az informatikai rendszerek adatállományába akkor is betekinthet, azokról másolatot, kivonatot kérhet, ha azok minősített adatot, üzleti titkot vagy törvény által védett egyéb titkot tartalmaznak. Az eredeti iratokat, valamint az informatikai rendszerek adatállományait eredeti adathordozón – másolat készítése és átvételi elismervény átadása mellett – elviheti, és az ellenőrzés befejezéséig magánál tarthatja. Az ellenőrzés befejezése után az átvett eredeti iratokat, adathordozókat, vissza kell szolgáltatni kivéve, ha büntető- vagy fegyelmi eljárás kezdeményezése indokolt.
 
-65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja az e törvényben és más jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles. Az ellenőrzéshez kapcsolódó együttműködési vagy az ellenőrzés végrehajtását elősegítő kötelezettség felróható módon történő megszegése esetén az érintett személy eljárási bírsággal sújtható.
+(3) A kormányzati ellenőrzést végző személy jogosult az adathordozókról fizikai tükörmásolatot készíteni vagy készíttetni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(2) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra a Ket. rendelkezéseit kell alkalmazni az e törvényben meghatározott eltérésekkel.
+65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles.
 
-(3) Az ügyfelet az eljárás hivatalból történő megindításáról nem kell értesíteni. Az eljárásban kizárt az újrafelvételi eljárás, valamint egyezség megkötése.
+(2) Az ellenőrzéshez kapcsolódó adatszolgáltatási, együttműködési vagy az ellenőrzés végrehajtását elősegítő kötelezettség megszegése esetén
 
-(4) A döntés ellen fellebbezésnek nincs helye. A bírsággal sújtott személy a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+- a) az érintett személy eljárási bírsággal sújtható, amennyiben a kötelezettségszegés felróható módon történt,
+- b) a kormányzati ellenőrzési szerv vezetője kezdeményezheti az állami adóhatóságnál az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adószáma alkalmazásának felfüggesztését.
+
+(3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra a Ket. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(4) Az ügyfelet az eljárás hivatalból történő megindításáról nem kell értesíteni. Az eljárásban kizárt az újrafelvételi eljárás, valamint egyezség megkötése.
+
+(5) A döntés ellen fellebbezésnek nincs helye. A bírsággal sújtott személy a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+
+(6) A helyszíni ellenőrzés lefolytatásának akadályozása esetén az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adatszolgáltatási vagy együttműködési kötelezettségének érvényesítéséhez a kormányzati ellenőrzési szerv a rendőrség közreműködését veheti igénybe.
 
 66. § (1) Ha a kormányzati ellenőrzési szerv ellenőrzése során a közpénzek vagy az állami vagyon jogszabálysértő, rendeltetésellenes vagy pazarló felhasználását és ezzel összefüggésben károkozást vagy ennek veszélyét állapítja meg, a kár megelőzése, enyhítése érdekében az illetékes hatósághoz, illetve szervezethez fordulhat
 
@@ -804,7 +815,13 @@ céljából.
 
 (3) Ha az (1) bekezdésben foglaltak alapján tett intézkedés fenntartása a továbbiakban már nem szükséges, erről a kormányzati ellenőrzési szerv elnöke az intézkedést foganatosító hatóságot, szervezetet értesíti.
 
-67. § A kormányzati ellenőrzési szerv az ellenőrzései során feltárt, a kormányzati ellenőrzési szerv által ellenőrzött, az államháztartás központi alrendszerébe tartozó költségvetési szervet és a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, állami tulajdonban álló, valamint az állam többségi befolyása alatt lévő gazdasági társaságot megillető, az ellenőrzés tárgyával kapcsolatos polgári jogviszonyból fakadó jog, követelés, egyéb polgári jogi igény érvényesítése iránt, valamint a költségvetési támogatás visszafizetése érdekében a jogosult nevében és helyett a bíróságok és más hatóságok, valamint harmadik személyek előtt külön meghatalmazás nélkül eljárhat.
+67. § (1) A kormányzati ellenőrzési szerv az ellenőrzései során feltárt, a kormányzati ellenőrzési szerv által ellenőrzött, az államháztartás központi alrendszerébe tartozó költségvetési szervet és a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, állami tulajdonban álló, valamint az állam többségi befolyása alatt lévő gazdasági társaságot megillető, az ellenőrzés tárgyával kapcsolatos polgári jogviszonyból fakadó jog, követelés, egyéb polgári jogi igény érvényesítése iránt, valamint a költségvetési támogatás visszafizetése érdekében a jogosult nevében és helyett a bíróságok és más hatóságok, valamint harmadik személyek előtt külön meghatalmazás nélkül eljárhat.
+
+(2) Az (1) bekezdésben foglaltakon túlmenően a kormányzati ellenőrzési szerv saját nevében közvetlen jogi érdek fennállásának igazolása nélkül keresetet indíthat a hatáskörében eljárva megismert szerződés vagy a szerződés egyes rendelkezései semmisségének megállapítása iránt.
+
+(3) A kormányzati ellenőrzési szerv az ellenőrzés tárgyával kapcsolatos büntetőeljárásokban jogosult a Magyar Állam, valamint az (1) bekezdésben meghatározott szervezetek, mint sértettek képviseletét ellátni.
+
+(4) A kormányzati ellenőrzési szerv a 63. § (1) bekezdésben, valamint az (1) bekezdésben meghatározott jogosultsága gyakorlása érdekében a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdésének b) pontja szerinti adatokat – a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre és a nyilvántartásból való kikerülés okára vonatkozó adat kivételével – jogosult igényelni.
 
 68. § Az európai támogatásokat ellenőrző szerv ellenőrzési jogköre kiterjed a kormányrendeletben meghatározott forrásokból nyújtott költségvetési támogatásokkal kapcsolatos ellenőrzésekre
 
@@ -1414,6 +1431,8 @@ rendeletben szabályozza.
 (22) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv, a helyi nemzetiségi önkormányzati költségvetési szerv gazdálkodásának elkülönítése adó- és illetékfizetési kötelezettséget nem keletkeztet, azzal az eltéréssel, hogy azt általános forgalmi adó szempontból az Áfa tv. 17. § (3) bekezdése szerinti jogutódlással történő megszűnésnek kell tekinteni. Az elkülönített gazdálkodás tekintetében az elkülönítést követően gazdálkodást folytató helyi önkormányzatot, többcélú kistérségi társulást, jogi személyiségű társulást, helyi nemzetiségi önkormányzatot, helyi önkormányzati költségvetési szervet, helyi nemzetiségi önkormányzati költségvetési szervet az adó- és illetéktörvények szempontjából úgy kell tekinteni, mintha jogutódként járna el.
 
 111/A. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 111. §-ának (18)–(22) bekezdéseit a 2012. január 1-jén vagy azt követően indult és a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell azzal, hogy a (22) bekezdést alkalmazni kell abban az esetben is, ha a gazdálkodás elkülönítésére 2012. január 1-jét megelőzően került sor.
+
+111/B. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 63. § (1) bekezdés d) pontot, 64. § (3) bekezdést, 65. és 67. §-t az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő kormányzati ellenőrzések során is alkalmazni kell.
 
 #### 74. Módosító rendelkezések
 
