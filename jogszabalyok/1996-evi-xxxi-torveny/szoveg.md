@@ -521,9 +521,11 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (6) A hivatásos katasztrófavédelmi szerv, valamint az önkormányzati tűzoltóság tagjai, továbbá az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagja a külön jogszabályban előírt képesítés megszerzésére kötelezett.
 
-(7) A képzés költségeit – a külön jogszabályban meghatározott kivételekkel – a küldő szerv vagy a hallgató viseli.
+(7) A hivatásos katasztrófavédelmi szervek tagjai, az önkormányzati tűzoltóságok tisztségviselői, valamint az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagjai a katasztrófák elleni védekezésért felelős miniszter által rendeletben előírt képesítés megszerzése során a képzés költségei tekintetében mentességet élveznek a hivatásos katasztrófavédelmi szervezet szakképző intézményében. A képzéshez kapcsolódó utazási, élelmezési, szállás-, tanszer-, tankönyv-, jegyzet-, bizonyítvány-, a vizsgabizottság működésével kapcsolatos költségeket, valamint a képzéshez szükséges foglalkozás-egészségügyi alkalmassági vizsgálatok költségeit a beiskolázó szerv vagy a képzésben résztvevő viseli.
 
 42. § A létesítményi tűzoltóság létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a tűzoltóság létesítője gondoskodik.
+
+42/A. § A Budapest Liszt Ferenc Nemzetközi Repülőtéren (a továbbiakban: Repülőtér) működő Repülőtéri Hivatásos Tűzoltóság működési, fenntartási és alapfeladatai ellátásához szükséges fejlesztési költségeit – a személyi állomány bér- és bérjellegű költségei és általános tűzoltó-szakmai képzési költségei kivételével –, továbbá a repülőtér és a légijárművek szakismereteivel összefüggő, a Nemzetközi Polgári Repülési Szervezet (ICAO) szabványainak és ajánlott gyakorlatainak megfelelő alap- és éves megújító képzés (elméleti és gyakorlati) szervezését és költségeit a Repülőtér üzembentartója biztosítja a Repülőtér üzemben tartója és a hivatásos katasztrófavédelmi szerv központi szerve erre vonatkozó megállapodása szerint.
 
 ### VI. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -607,7 +609,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - 1. az Országos Tűzvédelmi Szabályzatot,
 - 2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
-- 4. a tűzoltók és a tűzvédelmi szervezetek tagjainak képesítési követelményeit, képzési rendszerét,
+- 4. a hivatásos katasztrófavédelmi szervek, a tűzvédelmi szakértők, az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagjainak, az önkormányzati és létesítményi tűzoltóságok állománya tagjainak, a gazdálkodó tevékenységet folytató magánszemélyeknél, jogi személyeknél, jogi és természetes személyek jogi személyiséggel nem rendelkező szervezeteinél a katasztrófavédelem, a polgári védelem és a tűzvédelem szakágazatokban foglalkoztatóknak és foglalkoztatottaknak, a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjainak, illetve azok szakmai felügyeletét végző személyek képesítési követelményeit, képzési rendszerét.
 - 5. a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakat, munkaköröket és a szakvizsga részletes szabályait,
 - 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
 - 7–8.

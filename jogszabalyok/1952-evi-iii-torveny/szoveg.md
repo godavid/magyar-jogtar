@@ -3603,7 +3603,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a törvényszék hatáskörébe tartozó
 
 - a) a 23. § (1) bekezdés a) pontja szerinti – a 24. § és 25. § rendelkezései szerint számítva 400 millió forintot meghaladó – követelések érvényesítésére indított perekben,
-- b) azokban a megállapításra irányuló perekben (123. §), amelyek esetében a per tárgyának értéke – ha marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket.
+- b) azokban a megállapításra irányuló perekben (123. §), amelyek esetében a per tárgyának értéke – ha marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket,
+- c) az államháztartásról szóló 2011. évi CXCV. törvény 67. §-ában foglaltak alapján indított perekben.
 
 (2) Az e Részben foglaltakat a XV–XXV. fejezet szerinti különleges eljárásokban nem kell alkalmazni.
 
@@ -3879,6 +3880,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 396/A. § E törvény alkalmazásában médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
 397. § E törvény hatálybalépéséről és a szükséges átmeneti szabályok megállapításáról külön jogszabály rendelkezik.
+
+397/A. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 386/A. § (1) bekezdés c) pontot az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével.
 
