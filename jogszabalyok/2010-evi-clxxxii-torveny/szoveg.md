@@ -21,9 +21,9 @@ a következő törvényt alkotja:
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
 - a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
-- b) társadalmi szervezet, alapítvány, jogi személyiséggel rendelkező önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
-- c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis- és középvállalkozás, valamint
-- d) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+- b) civil szervezet, települési és területi önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
+- c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
+- d) egyház, belső egyházi jogi személy, valamint az általuk fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
 
 (3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
 
@@ -73,6 +73,8 @@ a következő törvényt alkotja:
 
 (6) Az Alap működtetésének kiadásait az Alap finanszírozza.
 
+(7) A (6) bekezdésben meghatározott kiadásokra évente az Alap adott költségvetési évben teljesülő bevételének – ide nem értve a részben vagy egészben visszatérítendő támogatásokból és egyéb céltámogatásokból származó bevételt – legfeljebb tíz százaléka használható fel.
+
 #### 4. Az Alap működésének irányítása
 
 5. § (1) Az Alap irányítását ellátó Bizottság tevékenységét a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) elvi iránymutatásainak figyelembevételével végzi.
@@ -102,14 +104,18 @@ a következő törvényt alkotja:
 - c) ha megbízatását 90 napon túl nem képes ellátni,
 - d) a megbízatásról történő lemondással,
 - e) halálával,
-- f) a Kollégium megszűnésével.
+- f) a Kollégium megszűnésével,
+- g) visszahívásával.
 
 (2) A Kollégium elnökének megbízatása megszűnik
 
 - a) kollégiumi tagságának megszűnésével,
-- b) e megbízatásáról történő lemondásával.
+- b) e megbízatásáról történő lemondásával,
+- c) visszahívásával.
 
 (3) A Kollégium elnöke és tagja megbízatásáról a Bizottsághoz intézett írásbeli nyilatkozattal mondhat le. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(4) A Kollégium tagját és elnökét a Bizottság indokolás nélkül bármikor visszahívhatja.
 
 8. § A Kollégium tagjait és elnökét tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt költségeik megtérítésére.
 
@@ -121,7 +127,7 @@ a következő törvényt alkotja:
 
 (4) A határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítását és a támogatásközvetítési feladatok ellátásának összehangolását az Alap kezelő szerve végzi.
 
-(5) Az Alap kezelő szerve a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása érdekében más szervezetet is létrehozhat vagy megbízhat.
+(5)
 
 9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
@@ -145,11 +151,20 @@ a következő törvényt alkotja:
 
 (4) A támogatási rendszer egészének koordinálása, szabályszerű működése és nyilvánossága céljából a bevételekről, a támogatás iránt benyújtott pályázatokról és egyedi kérelmekről, a Bizottság Alappal kapcsolatos döntéseiről, a kiadásokról központi nyilvántartást kell vezetni.
 
-(5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, április 30-ig tájékoztatja a Kormányt, a Kormány május 31-ig beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
+(5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt, a Kormány ezt követően beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
 
 11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésről készült jegyzőkönyvet is nyilvánosságra kell hozni.
 
 (2) Az Alap működésének nyilvánosságát az Alap internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a Bizottság az Alap kezelő szerve útján gondoskodik.
+
+11/A. § (1) A Bizottság – különös méltánylást érdemlő esetekben – eltekinthet a szerződésben rögzítettektől eltérően felhasznált támogatás visszafizetésével kapcsolatos kamat felszámításától, illetve dönthet a már megállapított kamat részben vagy egészben történő elengedéséről, kivéve, ha a támogatást gazdasági tevékenységhez kapták vagy használták fel.
+
+(2) A kamat felszámításának mellőzése, továbbá a kamat mérséklése és elengedése szempontjából különös méltánylást érdemlő esetként a Bizottság a következő tényezőket veszi figyelembe:
+
+- a) természetes személy támogatott esetében a különösen kedvezőtlen szociális helyzetet, valamint azt, hogy a támogatás kamattal történő visszafizetése a kötelezett és a vele egy háztartásban élők megélhetését súlyosan veszélyeztetné,
+- b) nem természetes személy támogatott esetén azt, hogy a támogatás kamattal növelt összegben való visszafizetése a támogatott a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében kifejtett tevékenységét veszélyeztetné.
+
+(3) Az (1) bekezdésben foglaltak nem alkalmazhatóak, amennyiben az Alap céljaitól eltérő támogatás felhasználására került sor.
 
 #### 6.
 
@@ -173,8 +188,12 @@ a következő törvényt alkotja:
 - b) az e törvény szerinti vállalkozások fejlesztési és más támogatásának céljait, feltételeit,
 - c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló szerződés 107. cikke szerint állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
 - d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
-- e) az Alapból az Alap működésére fordítható kiadások mértékét rendeletben határozza meg.
+- e)
 
-(2) Felhatalmazást kap a nemzetpolitikáért felelős miniszter, hogy a költségvetési törvény Közigazgatási és Igazságügyi Minisztérium fejezetében lévő, a határon túli magyarok programjainak támogatására meghatározott fejezeti kezelésű előirányzatokat az Alap javára átcsoportosítsa.
+(2)
 
 19. § E törvény alkalmazásában közeli hozzátartozó a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontjában meghatározott személy.
+
+20. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosításáról szóló 2012. évi CC. törvénnyel (a továbbiakban: Mód.tv.) megállapított 11/A. §-t a Mód.tv. hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján megkötött támogatási szerződések alapján nyújtott támogatások a Mód.tv. hatálybalépését követő visszakövetelése esetén felszámítandó kamat esetén is alkalmazni kell.
+
+21. § A Mód.tv. által megállapított 7. § (1) bekezdés g) pontját, illetve 7. § (2) bekezdés c) pontját a Mód.tv. hatálybalépését megelőzően a Kollégium elnökévé, illetve tagjává kinevezett személyek esetén is alkalmazni kell.
