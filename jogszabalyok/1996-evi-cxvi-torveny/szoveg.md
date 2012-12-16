@@ -308,7 +308,7 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 
 (4a) Ha az átalakítást követő üzemeltetés megkezdését megelőzően az atomenergia felügyeleti szerv a hozzá – jogszabály alapján – becsatolandó dokumentum értékelése, az eseti ellenőrzés vagy az átalakítás végrehajtása során lefolytatott ellenőrzés keretében olyan nem-megfelelőséget állapít meg, amely veszélyezteti a nukleáris biztonságot, akkor a kiadott átalakítási engedélyt visszavonja, vagy az engedélyt módosítva feltételeket állapít meg.
 
-(4b) A bíróság a (4) és a (4a) bekezdés szerinti határozatok végrehajtását nem függesztheti fel.
+(4b) A bíróság a (4), a (4a) bekezdés szerinti határozatok, valamint az atomerőmű tervezett üzemidején túli üzemeltetéséhez kiadott engedélyt tartalmazó határozat végrehajtását nem függesztheti fel.
 
 (5) Az engedélyes mindaddig felelős a nukleáris létesítmény nukleáris biztonságáért, amíg ez a felelősség okafogyottá nem vált vagy más engedélyesre át nem szállt. A felelősség a létesítmény telepítéséhez, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez megszerzett engedélyek hatályának megszűnése esetén is fennáll.
 
@@ -800,6 +800,8 @@ kezeli.
 (3) Azon foglalkoztatottak esetében, akik munkaköre az Atvmtv. az e törvény 11. § (3) bekezdését módosító rendelkezésének hatálybalépését megelőzően is a 11. § (3) bekezdés hatálya alá tartozott, a Btk. 221–222. §, 259. § (5) bekezdés, 264/A. §, 264/B. §, 265. §, 270. §, 270/A. §, 280. § (1) és (2) bekezdés, 281. § (1)–(3) bekezdés, 281/A. § (2) bekezdés és a 303. § szerinti bűncselekmények esetében csak a hatálybalépést követő elkövetést, vagy emiatt indult büntetőeljárást lehet figyelembe venni.
 
 (4) A már létező ellenőrzési és információs célú önkormányzati társulások legkésőbb az Atvmtv. hatálybalépését követő harmadik hónap végéig felülvizsgálják, és e törvény 10/A. §-ában előírtak szerint módosítják társulási megállapodásukat. A módosítás a társulásban már résztvevő tagok tagságát nem érinti. Ha az előírt határidőre a társulásban a módosítást nem hajtották végre, akkor a társulás számára támogatás nem nyújtható.
+
+66/B. § A 14. § (4b) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2012. évi CCI. törvény 2. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 

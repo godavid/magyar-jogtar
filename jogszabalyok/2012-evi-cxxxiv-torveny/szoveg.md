@@ -33,7 +33,7 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 - 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely a dohányterméknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé úgy, hogy a dohánytermék az üzletben megforduló fiatalkorú számára sem a dohánytermék fogyasztó számára történő értékesítésekor, sem azt megelőzően, illetve azt követően ne legyen látható;
 - 6. fiatalkorú: minden természetes személy, aki a 18. életévét nem töltötte be;
 - 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját, vagy más nevében jár el, illetve más természetes, vagy jogi személyt, vagy jogi személyiség nélküli szervezetet képvisel;
-- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag dohánytermék, illetve dohányterméket kiegészítő termék, vagy jogszabály által meghatározott termék forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
+- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag dohánytermék, dohányterméket kiegészítő termék, továbbá a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény különös rendelkezései I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék, vagy jogszabály által meghatározott termék forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
 - 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője.
 
@@ -43,7 +43,7 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 
 4. § (1) Az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) ellátja a dohánytermék-kiskereskedelmi tevékenység szervezésének szakmai irányítását, melynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
 
-(2) A dohánytermék-kiskereskedelem szervezésének előmozdítására, a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírásának, elbírálásának, továbbá a koncessziós szerződés megkötésének előkészítésére a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot alapít.
+(2) A dohánytermék-kiskereskedelem szervezésének előmozdítására, a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásának, elbírálásának, továbbá a koncessziós szerződés megkötésének előkészítésére a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: a részvénytársaság) alapít.
 
 5. § Az állam nevében a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírására, elbírálására, továbbá a koncessziós szerződés megkötésére a miniszter jogosult.
 
@@ -70,7 +70,7 @@ jogosult végezhesse.
 
 - a) megváltozott munkaképességű,
 - b) a pályázat benyújtásának napján, e napot megelőzően legalább 3 hónapja egybefüggően álláskereső, vagy
-- c) az a)–b) pontban írtaknak megfelelő személyt foglalkoztat, vagy olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
+- c) az a)–b) pontban írtaknak megfelelő személyt foglalkoztat, vagy – feltéve, hogy a pályázati kiírás ezt lehetővé teszi – olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
 
 (4) A pályázatot úgy kell kiírni, hogy a koncesszió átengedésének időtartama húsz év legyen.
 
@@ -121,7 +121,7 @@ jogosult végezhesse.
 
 (2) A dohánytermék-kiskereskedelmi tevékenység folytatásához a dohánytermékek jövedéki ügyében hatáskörrel rendelkező illetékes hatóság (a továbbiakban: vámhatóság) engedélye szükséges.
 
-(3) A vámhatóság az engedélyt annak adja ki, aki a jogszabályban meghatározott feltételeknek megfelel és így a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, továbbá – a 10. §-ban foglaltak kivételével – az e törvény II. fejezetében írt nyilvános koncessziós pályázaton őt a kiíró nyertesnek nyilvánította.
+(3) A vámhatóság az engedélyt annak adja meg legfeljebb a koncessziós szerződésben meghatározott időtartamra, aki a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, és akit – a 10. §-ban foglaltak kivételével – érvényes koncessziós szerződés e tevékenység végzésére feljogosít. Az engedélyt a vámhatóság – a dohányboltokra vonatkozó különös jogszabályi rendelkezés hiányában – akkor adhatja meg, ha az erre jogosult a vámhatóság felé a kérelmében a dohánytermék-kiskereskedelmi tevékenység végzésének helyére vonatkozó alapvető adatokat (cím, helyrajzi szám, alapterület, nyitva tartás idő, helyszínrajz) bejelenti, és a helyiség jogszerű használatára vonatkozó jogcímet, valamint a dohánytermék-kiskereskedelmi jogosultság megszerzésének tényét igazolja. A vámhatóság a jogosultnak azonos időszakra, azonos koncessziós szerződés alapján csak egyetlen dohányboltra (elkülönített helyre) adhat érvényes engedélyt; új engedélyt a jogosultnak csak a korábbi engedély visszavonásának hatályával lehet adni.
 
 (4) Dohánytermék-kiskereskedelmi tevékenységet 18 éven aluli személy nem folytathat.
 
