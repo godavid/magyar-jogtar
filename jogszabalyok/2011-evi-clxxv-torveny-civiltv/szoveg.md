@@ -657,7 +657,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (6) A kollégiumnak a Tanács által meghatározott támogatási célok alapján, a Tanács elnökének egyetértésével tárgyév február 15-éig döntenie kell a pályázatok kiírásáról. A Tanács elnökének egyetértése vagy a döntés hiányában a pályázat kiírásáról a Tanács a kollégium javaslatának megérkezésétől, vagy a döntés hiányában a határidő eredménytelen elteltétől számított tizenöt napon belül köteles dönteni.
 
-(7) A (6) bekezdés szerinti pályázat elbírálásáról a kollégium dönt. Amennyiben a Tanács elnöke a kollégiumnak a pályázat elbírálására vonatkozó támogató döntésével nem ért egyet, akkor azt – a döntés végrehajtásának felfüggesztésével egyidejűleg, indokolással – végleges elbírálás végett a Tanács elé terjeszti, amelyről a Tanács tizenöt napon belül köteles ülésén dönteni.
+(7) A (6) bekezdés szerinti pályázat elbírálásáról a kollégium dönt. Amennyiben a Tanács elnöke a kollégiumnak a pályázat elbírálására vonatkozó döntésével nem ért egyet, akkor azt – a döntés végrehajtásának felfüggesztésével egyidejűleg, indokolással – végleges elbírálás végett a Tanács elé terjeszti, amelyről a Tanács tizenöt napon belül köteles ülésén dönteni.
 
 (8) A kollégium döntéseit a jelen lévő tagok többségének egyetértésével hozza meg.
 

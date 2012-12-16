@@ -1463,7 +1463,7 @@ dönt.
 
 (5) A szakképzés irányításával kapcsolatos hatásköröket az oktatásért felelős miniszter és a szakképesítésért felelős miniszterek a szakképzésről szóló törvényben meghatározottak szerint gyakorolják.
 
-(6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát.
+(6) Az oktatásért felelős miniszter kinevezi, valamint felmenti az oktatási jogok biztosát, és gyakorolja felette az egyéb munkáltatói jogokat.
 
 78. § (1) Az oktatásért felelős miniszter köznevelés-fejlesztéssel kapcsolatos feladata
 
@@ -1480,6 +1480,8 @@ dönt.
 - k) évenként országos és térségi mérési, értékelési feladatok elrendelése és a szükséges feltételek biztosítása.
 
 (2) Az oktatásért felelős miniszter szakmai felügyeletet gyakorol a köznevelési rendszert érintő központi támogatások elosztására irányuló pályázatok felett, különös tekintettel azok pedagógiai tartalmára.
+
+(2a) A miniszter a társadalmi felzárkóztatásért és a tehetségsegítésért, így különösen a tehetséggondozásért való felelőssége körében a köznevelésben résztvevőkre tekintettel támogatást nyújthat.
 
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
@@ -1872,7 +1874,7 @@ rendeletben állapítsa meg.
 
 (4) A 8. § (2) bekezdés, az 53. § (1) bekezdés, 95. § (9) bekezdés 2014. szeptember 1-jén lép hatályba.
 
-(5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2016. január 1-jén lép hatályba.
+(5) A 6. § (2) bekezdés e) pont „szakközépiskolában a szakközépiskola ágazatának megfelelő szakmai vizsgatárgy” szövegrésze 2017. január 1-jén lép hatályba.
 
 (6)
 
@@ -1996,6 +1998,8 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
+(13) Azokban a kollégiumokban, ahol a 2011/2012. tanítási év végéig nem döntöttek a pedagógiai felügyelői státusz bevezetéséről, a 2012/2013. tanévben a Kt. 129. § (7) bekezdése alkalmazandó a kollégiumi nevelők heti kötelező óraszámára.
+
 99. § (1) A Gépírás- és Gyorsírástanítókat Vizsgáztató Országos Bizottság által kiállított gépírás és gyorsírás tanítására jogosító bizonyítvány gép- és gyorsírás oktatására, e körben pedagógus-munkakör betöltésére jogosító felsőfokú szakképesítés.
 
 (2) Az artistaképzésben gyakorlati képzésre alkalmazható határozatlan időre az is, aki érettségivel és a művészi pályán szerzett legalább tízéves szakmai gyakorlattal rendelkezik.
@@ -2028,6 +2032,8 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 (11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása 2013. szeptember 1-jén megszűnik.
 
 (12) 2012. szeptember 3-án jogutód nélkül megszűnik az Országos Diákjogi Tanács, Országos Szülői Érdek-képviseleti Tanács.
+
+99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az állami intézményfenntartó központ részt vehet. Az e kijelölés alapján eljáró állami intézményfenntartó központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
 #### 55. Az Európai Unió jogának való megfelelés
 
