@@ -4,15 +4,11 @@ az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról
 
 1. §
 
-2. § Az Atv. 14. § (4b) bekezdésének helyébe a következő rendelkezés lép:
-
-„(4b) A bíróság a (4), a (4a) bekezdés szerinti határozatok, valamint az atomerőmű tervezett üzemidején túli üzemeltetéséhez kiadott engedélyt tartalmazó határozat végrehajtását nem függesztheti fel.”
+2. §
 
 3–4. §
 
-5. § Az Atv. a következő 66/B. §-sal egészül ki:
-
-„66/B. § A 14. § (4b) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2012. évi CCI. törvény 2. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+5. §
 
 6–7. §
 
