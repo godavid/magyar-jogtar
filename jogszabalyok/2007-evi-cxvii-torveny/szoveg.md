@@ -666,7 +666,7 @@ mellékelni kell:
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény a foglalkoztatói nyugdíjszolgáltatást a Bit. hatálya alá tartozó biztosítótól történő járadék vásárlása útján is teljesítheti. A biztosítótól vásárolt járadékkal teljesített járadékszolgáltatásra (járadékmegállapítás, egyösszegű kifizetés, öröklés) a Bit. rendelkezései az irányadóak.
 
-(8) A foglalkoztatói nyugdíjszolgáltató intézmény a nemi hovatartozás alapján kizárólag az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ában meghatározott feltételek megfelelő teljesülése esetén írhat elő eltérő hozzájárulásokat és nyújthat eltérő szolgáltatásokat.
+(8)
 
 (9)
 
@@ -1004,7 +1004,7 @@ kell megfelelően alkalmazni.
 - a) az éves beszámolón kívül évente egy alkalommal a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységét értékelő belső, nyilvánosságra nem kerülő jelentést,
 - b) évente egy alkalommal a foglalkoztatói nyugdíjszolgáltató intézmény aktuáriusi jelentését,
 - c) negyedévenként a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének legfontosabb jellemzőire vonatkozó – a szavatoló tőke, a saját tőke és a nyugdíjtechnikai és fedezeti tartalékok becsült értékének bemutatását is felölelő – jelentését
-- d) a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat éves rendszerességgel
+- d)
 
 a Felügyelet részére megküldeni.
 
@@ -1322,7 +1322,7 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 86. § Felhatalmazást kap a Felügyelet elnöke, hogy rendeletben állapítsa meg
 
 - a) a tagsági jogviszony létrejötte előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
-- b) a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjére és tartalmára
+- b)
 
 vonatkozó részletes szabályokat.
 
@@ -1343,4 +1343,5 @@ vonatkozó részletes szabályokat.
 - a) az Európai Parlament és Tanács 2003/41/EK irányelve (2003. június 3.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről;
 - b) a Tanács 98/49/EK irányelve (1998. június 29.) a Közösségen belül mozgó munkavállalók és önálló vállalkozók kiegészítő nyugdíjra való jogosultságának védelméről;
 - c) az Európai Parlament és Tanács 2006/54/EK irányelve (2006. július 5.) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról,
-- d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+- d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
+- e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.

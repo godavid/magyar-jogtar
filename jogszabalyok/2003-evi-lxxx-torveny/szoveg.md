@@ -41,7 +41,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 - a) szerződés készítésére, kivéve, ha a szerződést kötő felek közösen kérik a támogatást, és valamennyiük vonatkozásában fennállnak annak a feltételei,
 - b) jogi tanácsadásra a következő területeken: 1. pénzintézet által folyósított kölcsön felvételének feltételei, 2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
-- c) alkotmányjogi panasszal kapcsolatban,
+- c)
 - d) a magánszemély vállalkozási, befektetési jellegű tevékenységével kapcsolatos ügyben, kivéve 1. az (1) bekezdés g) pontja szerinti ügyeket, ha az elkövetett bűncselekmény e tevékenységgel kapcsolatos, 2. a tevékenység folytatásáért járó díj érvényesítésével összefüggő ügyeket, ha a vállalkozási jellegű jogviszonyra vonatkozó szerződés természetes személy által végzendő tevékenység folytatására vonatkozik alvállalkozó igénybevételének kizárásával, a munkavégzés helyének meghatározásával és a díj részletekben történő megfizetésével,
 - e) civil szervezet létrehozásával és működésével kapcsolatos ügyben,
 - f) vámügyekkel kapcsolatban.
