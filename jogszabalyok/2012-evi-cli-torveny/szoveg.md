@@ -56,23 +56,69 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 #### 6. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
-55. §
+55. § A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) 96/A. §-a helyébe a következő rendelkezés lép:
+
+„96/A. § (1) A biztosító magatartása nem sérti – az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben (a továbbiakban: Ebktv.) meghatározott – a nemi hovatartozáson alapuló egyenlő bánásmód követelményét, ha a biztosító kizárólag
+
+a) a tartalékképzés,
+
+b) a biztosító pénzügyi eszközei összetételének összesített árképzési szempontú nyomon követésével összefüggő belső árazás,
+
+c) a viszontbiztosítási szerződések árazása,
+
+d) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklám, továbbá hirdetési tevékenység,
+
+e) az élet-, baleset és betegségbiztosítási szerződésekkel összefüggésben kockázat elbírálási tevékenység végzése
+
+céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adatot, információt kezel, tárol és felhasznál.
+
+(2) Az (1) bekezdésben meghatározottakon túl, a nemi hovatartozáson alapuló megkülönböztetés nem sérti az egyenlő bánásmód követelményét
+
+a) az olyan – nemi hovatartozáshoz is kapcsolható – közvetett különbségtétel esetén, amelynek tárgyilagos mérlegelés szerint az adott jogviszonnyal közvetlenül összefüggő, önállóan értékelhető és valós különbségen alapuló ésszerű indoka van,
+
+b) a biztosító ügyfelére, ügyfélcsoportjára nézve az Ebktv. 30/A. §-ában foglaltakhoz képest kedvezőbb elbírálás alkalmazása, ha az nem jelent meg nem engedett különbségtételt az adott ügyféllel, ügyfélcsoporttal összehasonlítható helyzetben lévő más személlyel, személyekkel szemben,
+
+c) az egyik nem tagjainak meghatározott termékhez való hozzáférése megtagadása, ha a biztosító az adott terméket objektíven igazolt céllal, kizárólag vagy elsősorban az egyik nem tagjainak nyújtja, és a biztosító által alkalmazott megoldások a cél eléréséhez megfelelőek és ahhoz szükségesek.”
 
 56. §
 
-57. §
+57. § A Bit. „Átmeneti és vegyes rendelkezések” alcíme a következő 231/B. §-sal egészül ki:
 
-58. § (1)
+„231/B. § (1) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezések a 2007. december 21-ét követően, de 2012. december 21-ét megelőzően létrejött biztosítási szerződés vonatkozásában akkor alkalmazandók, ha a szerződés módosítása a biztosító és a szerződő olyan együttes, kifejezett hozzájárulását igényli, amely az egyének által egyedileg fizetendő biztosítási díj nagyságát vagy az őket megillető szolgáltatás összegét befolyásolja, és az adott módosításhoz szükséges utolsó nyilatkozat megtételére 2012. december 21-ét követően kerül sor.
+
+(2) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezéseket nem kell alkalmazni a 2007. december 21-ét követően, de 2012. december 21-ét megelőzően létrejött biztosítási szerződések módosításának alábbi eseteiben:
+
+a) a biztosítás kockázati terjedelmének megváltoztatása, így különösen a szerződés személyi vagy tárgyi hatályának újabb biztosítottra, vagy újabb biztosított vagyontárgyra való kiterjesztése, a szerződés új biztosítási kockázattal való bővítése, vagy a szerződés személyi vagy tárgyi hatályának egyes biztosítottak, biztosított vagyontárgyak, biztosítási kockázatok vonatkozásában való megszüntetése, illetve az ügyfél által kötelezően bejelentendő, bejelentett vagy közlendő, közölt változásból eredő módosítások eseteiben, ha a szerződés ilyen módosítással nem érintett része változatlan marad,
+
+b) az életbiztosítási szerződés nemi hovatartozástól független befektetési díjrészének és szolgáltatási tartalmának módosítása az életbiztosítási szerződés kockázati biztosítási díjának és az ehhez kapcsolódó szolgáltatásnak a módosítása nélkül, így különösen a befektetési egységekhez kötött életbiztosítási szerződések befektetési díjrészének vagy szolgáltatásának módosítása,
+
+c) a szerződés biztosítási díjának és szolgáltatásának a szerződésben előre lefektetett módon történő, a nemi hovatartozástól független tényezőkön alapuló módosítása.
+
+(3) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezéseket nem kell alkalmazni a 2007. december 21-ét megelőzően létrejött biztosítási szerződések esetében.”
+
+58. § (1) Hatályát veszti a Bit. 72. § (4) és (5) bekezdése.
 
 (2)
 
 #### 7. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló2003. évi CXXV. törvény módosítása
 
-59–60. §
+59. § (1) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) 30/A. §-a helyébe a következő rendelkezés lép:
+
+„30/A. § (1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében – ide nem értve a csoportos élet-, baleset- és betegségbiztosításokat – a nemi hovatartozáson alapuló megkülönböztetés az e szolgáltatásokat szabályozó törvény eltérő rendelkezése hiányában sérti az egyenlő bánásmód követelményét, ha a szolgáltatatást nyújtó eljárása az egyének által egyedileg fizetendő díj nagyságában vagy az őket megillető szolgáltatásban a nemi hovatartozáson alapuló közvetlen vagy közvetett különbségtételt eredményez.
+
+(2) Az (1) bekezdésben meghatározott szolgáltatások esetében a terhességgel és az anyasággal kapcsolatos költségek nem eredményezhetnek különbséget az egyének által fizetendő díjakban és az őket megillető szolgáltatásokban.”
+
+60. § Az Ebktv. VI. Fejezete a következő 64/C. §-sal egészül ki:
+
+„64/C. § Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/B. §-ában meghatározottak szerint alkalmazandók.”
 
 #### 8. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-61. §
+61. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény (a továbbiakban: Fnyt.) 90. §-a a következő új e) ponttal egészül ki:
+
+[Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:]
+
+„e) a Tanács 2004. december 13-án kelt 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.”
 
 #### 9. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
@@ -185,9 +231,9 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 153. § (1) Hatályát veszti
 
-- a)
+- a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban Öpt.) 18/A. §-a;
 - b)
-- c)
+- c) az Fnyt. 34. § (8) bekezdése, 56. § (3) bekezdésének d) pontja és a 86. § b) pontja;
 - d)
 
 (2)

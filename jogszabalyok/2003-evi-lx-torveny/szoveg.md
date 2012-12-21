@@ -997,9 +997,9 @@ igazolását.
 
 (3) Ha a biztosító valamely eszközalapjának megszüntetéséről határoz, akkor ezt a megszűnést követő 15 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésnek tartalmaznia kell az eszközalap elnevezését, a megszüntetés okát, az eszközök más alapokba való rendelésének módját, valamint az ügyfeleknek kiküldött tájékoztatót.
 
-(4) A biztosító köteles a nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat a Felügyeletnek az éves adatszolgáltatással megküldeni.
+(4)
 
-(5) A nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét és tartalmát a Felügyelet elnöke a biztosítók belső adatszolgáltatásának rendjéről és tartalmáról szóló rendeletben állapítja meg.
+(5)
 
 73. § (1) A biztosító, illetve a független biztosításközvetítő köteles a Felügyeletnek 15 munkanapon belül bejelenteni, ha a biztosításközvetítő tevékenységet végző természetes személy a 36. § (5) bekezdésében és a 229. § (1) bekezdésében meghatározott határidőn belül a 41. § (2), 48. § (4) bekezdésekben előírt végzettség, illetve szakképesítés megszerzését nem igazolta.
 
@@ -1376,9 +1376,21 @@ köteles foglalkoztatni.
 
 ### A nemek közötti megkülönböztetés tilalma
 
-96/A. § (1) A biztosító a nemi hovatartozás alapján kizárólag az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ában meghatározott feltételek teljesülése esetén alkalmazhat eltérő díjakat és nyújthat eltérő szolgáltatásokat.
+96/A. § (1) A biztosító magatartása nem sérti – az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben (a továbbiakban: Ebktv.) meghatározott – a nemi hovatartozáson alapuló egyenlő bánásmód követelményét, ha a biztosító kizárólag
 
-(2) A biztosító köteles a termék terjesztésének megkezdésével egyidejűleg nyilvánosságra hozni, és évente az éves adatszolgáltatás teljesítésekor aktualizálni azokat a biztosításmatematikai és statisztikai adatokat, amelyek alapján a nemek között arányos különbségeket alkalmaz a díjakban, illetve a szolgáltatásokban. A biztosító gondoskodik az adatok folyamatosan hozzáférhető módon történő közzétételéről.
+- a) a tartalékképzés,
+- b) a biztosító pénzügyi eszközei összetételének összesített árképzési szempontú nyomon követésével összefüggő belső árazás,
+- c) a viszontbiztosítási szerződések árazása,
+- d) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklám, továbbá hirdetési tevékenység,
+- e) az élet-, baleset és betegségbiztosítási szerződésekkel összefüggésben kockázat elbírálási tevékenység végzése
+
+céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adatot, információt kezel, tárol és felhasznál.
+
+(2) Az (1) bekezdésben meghatározottakon túl, a nemi hovatartozáson alapuló megkülönböztetés nem sérti az egyenlő bánásmód követelményét
+
+- a) az olyan – nemi hovatartozáshoz is kapcsolható – közvetett különbségtétel esetén, amelynek tárgyilagos mérlegelés szerint az adott jogviszonnyal közvetlenül összefüggő, önállóan értékelhető és valós különbségen alapuló ésszerű indoka van,
+- b) a biztosító ügyfelére, ügyfélcsoportjára nézve az Ebktv. 30/A. §-ában foglaltakhoz képest kedvezőbb elbírálás alkalmazása, ha az nem jelent meg nem engedett különbségtételt az adott ügyféllel, ügyfélcsoporttal összehasonlítható helyzetben lévő más személlyel, személyekkel szemben,
+- c) az egyik nem tagjainak meghatározott termékhez való hozzáférése megtagadása, ha a biztosító az adott terméket objektíven igazolt céllal, kizárólag vagy elsősorban az egyik nem tagjainak nyújtja, és a biztosító által alkalmazott megoldások a cél eléréséhez megfelelőek és ahhoz szükségesek.
 
 ### A biztosítási termékek terjesztése
 
@@ -3231,6 +3243,16 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 (11) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 125–128. §-aival módosított – 129. § (4) bekezdését, 130. § (4) bekezdését, 131. § (2) bekezdését, 131. § (7) bekezdését és a 131/A. §-t a módosítás hatálybalépését követően hozott pénzügyi, szanálási és pénzügyi helyreállítási terv készítésére kötelezést előíró határozatok esetén kell alkalmazni.
 
 (12) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 134. §-ával módosított – 226. §-át a módosítás hatálybalépését követően indított eljárásokra kell alkalmazni.
+
+231/B. § (1) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezések a 2007. december 21-ét követően, de 2012. december 21-ét megelőzően létrejött biztosítási szerződés vonatkozásában akkor alkalmazandók, ha a szerződés módosítása a biztosító és a szerződő olyan együttes, kifejezett hozzájárulását igényli, amely az egyének által egyedileg fizetendő biztosítási díj nagyságát vagy az őket megillető szolgáltatás összegét befolyásolja, és az adott módosításhoz szükséges utolsó nyilatkozat megtételére 2012. december 21-ét követően kerül sor.
+
+(2) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezéseket nem kell alkalmazni a 2007. december 21-ét követően, de 2012. december 21-ét megelőzően létrejött biztosítási szerződések módosításának alábbi eseteiben:
+
+- a) a biztosítás kockázati terjedelmének megváltoztatása, így különösen a szerződés személyi vagy tárgyi hatályának újabb biztosítottra, vagy újabb biztosított vagyontárgyra való kiterjesztése, a szerződés új biztosítási kockázattal való bővítése, vagy a szerződés személyi vagy tárgyi hatályának egyes biztosítottak, biztosított vagyontárgyak, biztosítási kockázatok vonatkozásában való megszüntetése, illetve az ügyfél által kötelezően bejelentendő, bejelentett vagy közlendő, közölt változásból eredő módosítások eseteiben, ha a szerződés ilyen módosítással nem érintett része változatlan marad,
+- b) az életbiztosítási szerződés nemi hovatartozástól független befektetési díjrészének és szolgáltatási tartalmának módosítása az életbiztosítási szerződés kockázati biztosítási díjának és az ehhez kapcsolódó szolgáltatásnak a módosítása nélkül, így különösen a befektetési egységekhez kötött életbiztosítási szerződések befektetési díjrészének vagy szolgáltatásának módosítása,
+- c) a szerződés biztosítási díjának és szolgáltatásának a szerződésben előre lefektetett módon történő, a nemi hovatartozástól független tényezőkön alapuló módosítása.
+
+(3) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 96/A. §-ában foglalt rendelkezéseket nem kell alkalmazni a 2007. december 21-ét megelőzően létrejött biztosítási szerződések esetében.
 
 ### Módosuló jogszabályok
 
