@@ -300,12 +300,9 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 (3) A (2) bekezdés szerinti korlátozásnak ki kell tűnnie a létesítmény elnevezéséből, a szolgáltatás igénybevételének körülményeiből; az nem történhet az adott csoporthoz nem tartozó személyekkel szemben megalázó, illetőleg a becsület csorbítására alkalmas módon, továbbá nem adhat alkalmat a joggal való visszaélésre.
 
-30/A. § (1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében a nemi hovatartozáson alapuló megkülönböztetés nem sérti az egyenlő bánásmód követelményét, ha
+30/A. § (1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében – ide nem értve a csoportos élet-, baleset- és betegségbiztosításokat – a nemi hovatartozáson alapuló megkülönböztetés az e szolgáltatásokat szabályozó törvény eltérő rendelkezése hiányában sérti az egyenlő bánásmód követelményét, ha a szolgáltatatást nyújtó eljárása az egyének által egyedileg fizetendő díj nagyságában vagy az őket megillető szolgáltatásban a nemi hovatartozáson alapuló közvetlen vagy közvetett különbségtételt eredményez.
 
-- a) a díj és a szolgáltatás kockázatarányos mértéke meghatározott, kockázati tényezőkön alapuló csoportok létrehozásával jár, és
-- b) a releváns és pontos biztosításmatematikai és statisztikai adatok alapján a díj számításában és a szolgáltatás nyújtásában a nemi hovatartozás tényezője a kockázatelemzésben meghatározó.
-
-(2) A terhességgel és az anyasággal kapcsolatos költségekre tekintettel tett különbségtétel az (1) bekezdés szerinti esetben is sérti az egyenlő bánásmód követelményét.
+(2) Az (1) bekezdésben meghatározott szolgáltatások esetében a terhességgel és az anyasággal kapcsolatos költségek nem eredményezhetnek különbséget az egyének által fizetendő díjakban és az őket megillető szolgáltatásokban.
 
 ### IV. Fejezet — HELYI ESÉLYEGYENLŐSÉGI PROGRAMOK
 
@@ -512,6 +509,8 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 (4) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
 
 (5)
+
+64/C. § Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 231/B. §-ában meghatározottak szerint alkalmazandók.
 
 65. § Ez a törvény a következő irányelveknek való megfelelést szolgálja
 
