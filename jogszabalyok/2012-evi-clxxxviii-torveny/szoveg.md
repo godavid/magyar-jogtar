@@ -35,6 +35,8 @@ alapító okiratát akként, hogy az intézmény 2013. január 1-jétől kizár�
 
 (7) Az intézményt 2012. december 31-én fenntartó önkormányzati fenntartó javaslatára a szakképzési feladatok különválasztásával átszervezhető az a középfokú iskola, amely gimnáziumi nevelést-oktatást folytat.
 
+(8) A nemzetiségi óvodai nevelést is ellátó többcélú intézmény önkormányzati fenntartója 2012. december 27-éig meghozott döntésével a (2) bekezdés szerinti döntését visszavonhatja vagy módosíthatja, annak érdekében, hogy az intézmény nemzetiségi óvodai nevelést is elláthasson. E bekezdés alkalmazása esetén a 13. § (2) bekezdés a) pontja szerinti átadás-átvételi megállapodást 2012. december 28-áig módosítani kell.
+
 3. § (1) A települési önkormányzati társulás állami köznevelési alapfeladatot 2013. január 1-jétől nem láthat el. A települési önkormányzati társulás az e bekezdésnek való megfelelés érdekében a 13. § (2) bekezdés a) pontja szerinti megállapodás megkötéséig módosítja a társulási megállapodást.
 
 (2) A települési önkormányzati társulás tagjai az (1) bekezdésben meghatározott határidőig
@@ -212,28 +214,9 @@ kell végrehajtani.
 
 (2) Az (1) bekezdés szerinti jogutódlás a közoktatási megállapodás, köznevelési szerződés 2012. szeptember 30-án hatályos állapota szerint következik be.
 
-#### 10. A személyi juttatások megfizetésére vonatkozó szabályok
+#### 10.
 
-20. § (1) 2013. január 1-jétől a 7. § és a 9. § alapján a Központ foglalkoztatotti állományába tartozó személyek 2012 decemberére járó illetményének, munkabérének és egyéb járandóságának, valamint azok közterhének megfizetése – a (2) bekezdésben meghatározott kivétellel – a Központ feladata.
-
-(2) 2013. január 1-jétől a 7. § és a 9. § alapján a Központ foglalkoztatotti állományába tartozó technikai dolgozók 2012 decemberére járó illetményének, munkabérének és egyéb járandóságának, valamint azok közterhének megfizetése a települési önkormányzat feladata.
-
-(3) Az (1) bekezdés szerinti személyek után járó bérkompenzáció fedezetét az oktatásért felelős miniszter az általa vezetett minisztérium költségvetési fejezetének terhére biztosítja.
-
-(4) Az (1) és (2) bekezdés szerinti személyek természetes személyazonosító adatait a megállapodásban kell rögzíteni. A megállapodásban meghatározott személyek körében bekövetkező változás esetén a 2012 decemberére járó illetmény, munkabér és egyéb járandóság, valamint azok közterhe fedezetének utólagos elszámolása és pénzügyi rendezése a Központ és a települési önkormányzat között közvetlenül történik.
-
-21. § (1) A 20. § (1) és (2) bekezdése szerinti személyek 2012 decemberére járó illetménye, munkabére és egyéb járandósága, valamint azok közterhei megfizetéséhez a Központ 2013 januárjára – 2013 március havi visszapótlással – a kincstártól támogatási keret-előrehozást igényelhet külön indokolás nélkül.
-
-(2) A 20. § (1) bekezdése szerinti személyek 2012 decemberére járó illetménye, munkabére és egyéb járandósága után fizetendő közteher megfizetése az önkormányzati nettófinanszírozás keretében – a kincstár adatszolgáltatása alapján – a Központ által 2013. január 18-ai értéknappal fizetési számláján biztosított fedezet terhére történik. A fedezet meghatározása az intézmény által a 20. § (1) bekezdése szerinti személyek részére 2012 decemberében ténylegesen megfizetett társadalombiztosítási ellátás figyelembevételével történik.
-
-(3) A Központ (2) bekezdésben meghatározott kötelezettségének elmulasztása esetén a fedezetet 2013. január 21-ét követően a kincstár a Központ előirányzat-felhasználási keretszámlája terhére, felhatalmazó levél nélkül benyújtott beszedési megbízással szedi be. A megfizetési késedelemből eredő pótlékok a Központot terhelik.
-
-(4) Ha az intézmény illetményszámfejtése 2012. december 31-én
-
-- a) a központosított illetményszámfejtés keretében történik, a bevallási és a befizetési kötelezettséget a kincstár vagy a kincstárnak az intézmény székhelye szerint illetékes területi szerve technikai adószámán,
-- b) nem a központosított illetményszámfejtés keretében történik, a bevallási kötelezettséget a települési önkormányzat, a befizetési kötelezettséget az intézmény adatszolgáltatása alapján a kincstár az intézmény adószámán teljesíti az állami adóhatóság felé.
-
-(5) A kincstár technikai adószámán 2012. december 31-én nyilvántartott intézmény Központ általi átvétele a biztosítotti bejelentés szempontjából jogutódlásnak tekintendő.
+#### 20–21. §
 
 #### 11. Hatályba léptető rendelkezések
 

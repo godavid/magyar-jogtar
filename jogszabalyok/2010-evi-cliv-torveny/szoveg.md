@@ -98,7 +98,7 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 9. § (1) Az Alap vagyonát képező eszközök kezelését és értékesítését a Testület rendelkezései alapján az ÁKK végzi.
 
-(2) Az Alap a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapírokat térítésmentesen átadja a magyar államnak, amelyeket az átadást követően be kell vonni, azok további forgalom tárgyai nem lehetnek.
+(2) Az Alap az állam által kibocsátott hitelviszonyt megtestesítő értékpapírokat térítésmentesen átadja az államnak, amelyeket az állam névértéken (nem kamatozó értékpapír esetében nyilvántartási áron) vesz át és von be, azok további forgalom tárgyai nem lehetnek.
 
 10. § (1) Az Alap évente május 31-ig pénzügyi beszámolót készít az Országgyűlés számára az Alap előző évi tevékenységéről, gazdálkodásáról és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A pénzügyi beszámolót nyilvánosságra kell hozni.
 

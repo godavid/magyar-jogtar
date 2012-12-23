@@ -2160,6 +2160,8 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 131. §
 
+131/A. § A Felügyelet a Pénztárak Központi Nyilvántartása vezetése feladatának megszűnésére tekintettel a Pénztárak Központi Nyilvántartása adatállományát 2013. január 15-ig átadja az Országos Nyugdíjbiztosítási Főigazgatóság részére, amely azt jogszabályban foglalt feladatai ellátásához és a társadalombiztosítási egyéni számla kialakításához használja fel.
+
 ### Kapcsolódó törvények hatálybaléptetése
 
 132. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 1998. január 1-jén lép hatályba.

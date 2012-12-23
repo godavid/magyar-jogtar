@@ -54,19 +54,15 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 (4) Az átvett intézménnyel mint adóssal, kötelezettel szemben elrendelt bírósági és közigazgatási végrehajtást a végrehajtást foganatosító bíróság, közigazgatási végrehajtás esetében a végrehajtást megindító hatóság, az állam mint jogutód képviseletében eljáró kijelölt szerv kérelmére – ha jogutódlásról korábban még nem döntöttek, a jogutódlás megállapításával együtt – egy alkalommal három hónapra felfüggeszti.
 
-#### 3. A települési önkormányzatok adósságának átvétele
+#### 3. A települési önkormányzatok egyes kötelezettségeinek átvétele
 
-6. § (1) Az állam 2013. június 30-ai hatállyal – a (2) bekezdésben foglaltak figyelembevételével – átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzatok 2013. január 1-jei adósságállományából az átvállalás időpontjában fennálló, valamint a (3) bekezdés szerinti azon adósságát és annak járulékait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztési célú, értéknövelő beruházásaihoz kapcsolódóan keletkeztek. Az átvállalandó adósság a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 3. § (1) bekezdés a) és b) pontjában foglaltaknak megfelelő – kölcsönjogviszonyon vagy hitelviszonyt megtestesítő értékpapíron alapuló – tartozásokat foglalja magában akként, hogy a 2013. június 30-án vagy azt megelőzően esedékessé vált, de az adott önkormányzat által meg nem fizetett tőke és járulék az átvállalás részét képezi.
+6. § (1) A magyar állam 2013. évben – az államháztartásról szóló 2011. évi CXCV. törvény 92. § (2) bekezdésében foglaltakra is figyelemmel – egyedi állami kezességként átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzat azon kezességvállalásait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztését vagy értékének megőrzését szolgáló alapügyletekhez kapcsolódnak. Ezen állami kezességvállalások nem terhelik az egyedi állami kezességvállalások 2013. évi mértékére meghatározott keretet.
 
-(2) Az (1) bekezdés szerinti adósság részét képező, hitelviszonyt megtestesítő értékpapírok esetében az állam 2013. június 30-ai hatállyal az értékpapír lejárat előtti visszaváltásából eredő fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam – a hitelező beleegyezésével – a kötvénytulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével vagy állampapírok átadásával is kiválthatja.
+(2) Az átvállalandó kezességek elemeit települési önkormányzatonként tételesen legkésőbb 2013. április 15-éig a települési önkormányzat véleményét kikérve a szociál- és nyugdíjpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttes javaslata alapján a Kormány határozza meg.
 
-(3) A települési önkormányzatok az állam által átvállalandó adósságállományt növelő kötelezettséget e törvény hatálybalépését követően nem vállalhatnak. A települési önkormányzatok az átvállalandó adósságállományt a még felhasználható hitelkerettel rendelkező, (1) bekezdés szerinti szerződésekből történő lehívással, illetve kölcsönfelvétellel legkésőbb 2013. március 31-éig a kijelölt szerv engedélyével, és abban az esetben növelhetik, ha ez az adósságelem az állam által átvételre kerülő átvett vagyon értékének növelését vagy állagának megóvását eredményező kifizetés finanszírozására szolgál.
+(3) Az (1) bekezdés szerinti kezességvállalások során az állam nevében az államháztartásért felelős miniszter jár el.
 
-(4) A magyar állam 2013. évben – az államháztartásról szóló 2011. évi CXCV. törvény 92. § (2) bekezdésében foglaltakra is figyelemmel – egyedi állami kezességként átvállalja az átvett intézményeket tulajdonló vagy fenntartó települési önkormányzat azon kezességvállalásait, amelyek kifejezetten és igazolhatóan az átvett vagyon fejlesztését vagy értékének megőrzését szolgáló alapügyletekhez kapcsolódnak.
-
-(5) Az átvállalandó adósság és kezességek elemeit települési önkormányzatonként tételesen legkésőbb 2013. április 15-éig a települési önkormányzat véleményét kikérve a szociál-és nyugdíjpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttes javaslata alapján a Kormány határozza meg.
-
-(6) Az állam nevében a települési önkormányzatoktól az (1)–(3) bekezdés szerinti adósságátvállalás, valamint a (4) bekezdés szerinti kezességvállalás során az államháztartásért felelős miniszter jár el.
+(4)–(6)
 
 7. § (1) Az átvett intézményhez és az átvett feladathoz kapcsolódó, a települési önkormányzati kötelezettségvállalásból eredő 2013. éven átnyúló kötelezettségek forrását a kijelölt szerv költségvetésében kell megtervezni.
 
