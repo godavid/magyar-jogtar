@@ -596,6 +596,36 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (4) Ha az államháztartás központi alrendszerébe tartozó költségvetési szerv jogszabály, vagy az MNV Zrt.-vel kötött szerződés alapján használt állami vagyon használatát, vagy az őt megillető más jog gyakorlását visszterhes szerződés alapján harmadik személynek átengedi, az ebből származó költségvetési bevétel – törvény eltérő rendelkezése hiányában – a költségvetési szervet illeti meg.
 
+45/A. § (1) Az állam Magyarország területén székhellyel rendelkező, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján banknak minősülő hitelintézetben a piaci magánbefektető elv alapján, jogi és adózási megfelelőségi vizsgálat lefolytatását követően, középtávú üzleti tervvel alátámasztott alaptőke-felemeléssel, a központi költségvetésről szóló törvényben biztosított előirányzat terhére tulajdonosi részesedést szerezhet.
+
+(2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a gazdaságpolitikáért felelős miniszter képviseli.
+
+(3) Az (1) bekezdésben meghatározott alaptőke-felemeléssel megszerzett állami tulajdonosi részesedéssel működő bank (a továbbiakban: Bank) állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a gazdaságpolitikáért felelős miniszter jogosult.
+
+(4) A (2) és (3) bekezdés esetében a 41. § (1) bekezdése nem alkalmazandó.
+
+45/B. § (1) A Bankra a gazdasági társaságokról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni a hitelintézeti törvényben meghatározott előírások betartása mellett.
+
+(2) A Bank ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
+
+(3) A Bank munkaszervezetének élén vezérigazgató áll, akinek feladatait és hatáskörét az igazgatóság határozza meg.
+
+(4) A vezérigazgató és a vezérigazgató helyettesei felett a munkáltatói jogokat az igazgatóság gyakorolja.
+
+(5) A Bank működésének, valamint az állami vagyonnal való gazdálkodásának ellenőrzését felügyelő bizottság végzi.
+
+(6) Nem lehet az igazgatóság vagy a felügyelő bizottság tagja, aki
+
+- a) országgyűlési, illetve önkormányzati képviselő, miniszter, polgármester, főpolgármester,
+- b) büntetett előéletű,
+- c) a vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll.
+
+(7) Az igazgatóság és a felügyelő bizottság tagja, a vezérigazgató pártban tisztséget nem viselhet, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
+
+(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
+
+(9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyvről szóló törvény közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+
 #### 32. A vállalkozási tevékenység
 
 46. § (1) A központi kezelésű előirányzatok, a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai pénzeszközeiből a 7. § (2) bekezdés b) pontja szerinti vállalkozási tevékenység nem folytatható.
@@ -1169,7 +1199,7 @@ céljából.
 
 #### 65. Kezesség- és garanciavállalás az államháztartás önkormányzati alrendszerében
 
-96. § (1) A helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, valamint a térségi fejlesztési tanács garanciát és kezességet érvényesen kizárólag hitel, kölcsön vagy kötvény visszafizetésére vállalhat, ha a hitel, kölcsön vagy kötvény visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk alapján, és a rendelkezésre álló fedezetre tekintettel – a kezesség beváltása, garancia érvényesítése és a kezességet, garanciát vállaló általi egyéb többlettámogatás nélkül – kellően biztosított. A nemzetiségi önkormányzat esetén a garancia és kezesség vállalásához a nemzetpolitikáért felelős miniszter előzetes engedélye szükséges.
+96. § (1) A helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, valamint a térségi fejlesztési tanács garanciát és kezességet érvényesen kizárólag hitel, kölcsön vagy kötvény visszafizetésére vállalhat, ha a hitel, kölcsön vagy kötvény visszafizetése a kötelezett pénzügyi helyzetére vonatkozó információk alapján, és a rendelkezésre álló fedezetre tekintettel – a kezesség beváltása, garancia érvényesítése és a kezességet, garanciát vállaló általi egyéb többlettámogatás nélkül – kellően biztosított.
 
 (2) Jogszabály eltérő rendelkezése hiányában a helyi önkormányzat, a nemzetiségi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, valamint a térségi fejlesztési tanács által vállalt garancia, kezesség feltétele az állami támogatási szabályoknak megfelelő, támogatástartalmat nem, vagy azt az állami támogatási szabályokkal összeegyeztethető módon tartalmazó garanciavállalási vagy kezességvállalási díj kikötése.
 
@@ -1403,7 +1433,7 @@ rendeletben szabályozza.
 
 (12) Törvény eltérő rendelkezése hiányában a kincstári kör kincstáron kívül forintban vezetett fizetési számláit a számla felett rendelkezni jogosult – az általa foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla és a nemzetbiztonsági szolgálatok alapfeladatai ellátásához szükséges speciális kiadások teljesítéséhez szükséges számla kivételével – e törvény hatálybalépését követő hatvan napon belül köteles megszüntetni és egyenlegét a kincstárnál vezetett fizetési számlára átutalni. E kötelezettség alól – kizárólag az e törvény hatálybalépése napján a kincstáron kívül vezetett fizetési számla esetén – az államháztartásért felelős miniszter a számla felett rendelkezni jogosult hatvan napon belül benyújtott kérelmére kivételesen felmentést adhat.
 
-(13) A kincstári körön kívüli számlatulajdonos – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – 2012. április 30-áig köteles a kincstárnál – ha azzal még nem rendelkezik – forint fizetési számlát nyitni, a nem a kincstárnál forintban vezetett fizetési számláit – a 79. § (3) bekezdésében meghatározott fizetési számlái kivételével – megszünteti, és azok egyenlegét a kincstárnál vezetett fizetési számlájára átutalni. Ha a kincstári körön kívüli számlatulajdonos kincstáron kívül vezetett fizetési számláját az egyes közpénzügyi tárgyú törvényeknek az államháztartás önkormányzati alrendszerét érintő módosításáról, és azok más törvénnyel való összhangjának biztosításáról szóló 2012. évi XVII. törvény hatálybalépése napján folyószámlahitellel terhelt, a körön kívüli számlatulajdonosnak az e bekezdésben meghatározott kötelezettségét a fizetési számla negatív egyenlegének megszűnését követő kilencven napon belül kell teljesítenie. A kincstáron kívül vezetett fizetési számla megszüntetésének kötelezettsége alól az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult 2012. április 30-áig benyújtott kérelmére kivételesen felmentést adhat.
+(13) A kincstári körön kívüli számlatulajdonos – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – 2013. június 30-ig köteles a kincstárnál – ha azzal még nem rendelkezik – forint fizetési számlát nyitni, a nem a kincstárnál forintban vezetett fizetési számláit – a 79. § (3) bekezdésében meghatározott fizetési számlái kivételével – megszünteti, és azok egyenlegét a kincstárnál vezetett fizetési számlájára átutalni. Ha a kincstári körön kívüli számlatulajdonos kincstáron kívül vezetett fizetési számláját az egyes közpénzügyi tárgyú törvényeknek az államháztartás önkormányzati alrendszerét érintő módosításáról, és azok más törvénnyel való összhangjának biztosításáról szóló 2012. évi XVII. törvény hatálybalépése napján folyószámlahitellel terhelt, a körön kívüli számlatulajdonosnak az e bekezdésben meghatározott kötelezettségét a fizetési számla negatív egyenlegének megszűnését követő kilencven napon belül kell teljesítenie. A kincstáron kívül vezetett fizetési számla megszüntetésének kötelezettsége alól az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult 2013. június 30-ig benyújtott kérelmére kivételesen felmentést adhat.
 
 (14) A (13) bekezdésben meghatározott jogi személy fizetési számláját vezető hitelintézet – a 79. § (3) bekezdésében meghatározott számla és az államháztartásért felelős miniszter (13) bekezdés szerinti engedélye alapján kincstáron kívül továbbra is vezethető fizetési számla kivételével – új folyószámlahitel igénybevételét nem biztosíthatja. Ha a (13) bekezdésben meghatározott jogi személy a fizetési számla megszüntetési és átutalási kötelezettségének a (13) bekezdésében meghatározott határnapig, illetve határidőig nem tett eleget, és e határidő alatt az államháztartásért felelős miniszter (13) bekezdés szerinti engedélyét sem mutatta be, a fizetési számlát vezető hitelintézet a (13) bekezdés szerinti határnap elteltét, illetve határidő leteltét követő harminc napon belül az érintett fizetési számláját megszünteti és azok egyenlegét a fizetési számla felett rendelkezni jogosult, ennek hiányában a kincstár által közölt fizetési számlára átutalja.
 
@@ -1431,9 +1461,15 @@ rendeletben szabályozza.
 
 (22) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv, a helyi nemzetiségi önkormányzati költségvetési szerv gazdálkodásának elkülönítése adó- és illetékfizetési kötelezettséget nem keletkeztet, azzal az eltéréssel, hogy azt általános forgalmi adó szempontból az Áfa tv. 17. § (3) bekezdése szerinti jogutódlással történő megszűnésnek kell tekinteni. Az elkülönített gazdálkodás tekintetében az elkülönítést követően gazdálkodást folytató helyi önkormányzatot, többcélú kistérségi társulást, jogi személyiségű társulást, helyi nemzetiségi önkormányzatot, helyi önkormányzati költségvetési szervet, helyi nemzetiségi önkormányzati költségvetési szervet az adó- és illetéktörvények szempontjából úgy kell tekinteni, mintha jogutódként járna el.
 
+(23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett támogatásai elszámolásának 60. § szerinti felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 111/A. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 111. §-ának (18)–(22) bekezdéseit a 2012. január 1-jén vagy azt követően indult és a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell azzal, hogy a (22) bekezdést alkalmazni kell abban az esetben is, ha a gazdálkodás elkülönítésére 2012. január 1-jét megelőzően került sor.
 
 111/B. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 63. § (1) bekezdés d) pontot, 64. § (3) bekezdést, 65. és 67. §-t az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő kormányzati ellenőrzések során is alkalmazni kell.
+
+111/C. § A Bank igazgatósága tagjának és felügyelő bizottsága tagjának megbízatása megszűnik, ha e törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 45/A. §-a szerinti tulajdonosi részesedésszerzést követő 30 napon belül az e törvénynek a Módtv.-vel megállapított 45/B. §-ában meghatározott összeférhetetlenségi okot nem szünteti meg.
+
+111/D. § A közös önkormányzati hivatal megalakításáig, de legfeljebb a közös önkormányzati hivatalhoz történő kijelölésről szóló döntésig a közös önkormányzati hivatalhoz nem csatlakozó, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 146/B.§ (2) bekezdés b) és c) pontja szerinti települési önkormányzatok esetében közös hivatalon az e települési önkormányzatok számára hivatali teendőket ellátó közös hivatalt kell érteni.
 
 #### 74. Módosító rendelkezések
 
