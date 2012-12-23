@@ -88,7 +88,7 @@ a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatko
 
 #### 3. A gyűjtőszámlahitel részletes szabályai
 
-3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2012. év december hónap 31. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
+3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2013. év március hónap 29. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
 
 - a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg a 90 napot,
 - b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt, illetve az ilyen programban való részvételét legkésőbb a rögzített árfolyam alkalmazási időszak kezdő időpontjára megszünteti,
@@ -135,7 +135,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 (5) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés végső lejárata nem lehet korábbi, mint a devizakölcsön végső lejárata. A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamidejét – a hiteladós életkorát is figyelembe véve – úgy határozza meg, hogy annak visszafizetése a devizakölcsön törlesztőrészletét is figyelembe véve aránytalanul magas havi törlesztési terhet a hiteladós számára ne jelentsen. Az aránytalanul magas havi törlesztési teher mértékét kormányrendelet határozza meg.
 
-(6) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott, e törvényben nem szabályozott feltételeket a futamidő alatt a felek szabadon módosíthatják, amely az állami kezességvállalás érvényességét nem érinti.
+(6) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott, e törvényben nem szabályozott feltételeket, valamint a gyűjtőszámlahitel alapjául szolgáló devizakölcsön-szerződést a futamidő alatt a felek szabadon módosíthatják, amely a gyűjtőszámlahitelhez kapcsolódó állami kezességvállalás érvényességét nem érinti.
 
 (7) A hiteladós a rögzített árfolyam alkalmazási időszaka alatt jogosult – a kezdő időponttól számított 36. hónapot követően, de legkésőbb a záró időpontot megelőző 2. törlesztés esedékességéig – egyoldalú írásbeli nyilatkozatával a rögzített árfolyam alkalmazásának megszüntetését a pénzügyi intézménynél kezdeményezni. Ilyen kezdeményezés esetén a pénzügyi intézmény a kérelem kézhezvételét követő 30 nap utáni első esedékességtől a rögzített árfolyam alkalmazását megszünteti.
 

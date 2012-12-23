@@ -3486,13 +3486,13 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (3) E törvény alkalmazásában az (1) bekezdésben említett, kitöltött és az adózó – illetőleg az e törvényben meghatározott képviselője, meghatalmazottja – által aláírt nyomtatvány, illetőleg az elektronikus úton benyújtott irat magánokiratnak minősül. Az eredeti okiratéval azonos bizonyító ereje van az okiratról – műszaki vagy vegyi úton – készült felvételnek (fénykép, film, hang stb.), úgyszintén az eredeti okiratról bármely adathordozó (mágneslap, mágnesszalag stb.) útján készült okiratnak, ha a felvételt, illetőleg az adathordozóról az okiratot az adóhatóság vagy az ellenőrzése mellett más szerv készítette.
 
-(4) Az adópolitikáért felelős miniszter rendeletben meghatározza a számla, egyszerűsített számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit.
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a számla, egyszerűsített számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
 (6) A nyomtatványokról, azok formájáról és tartalmáról az adóhatóság tájékoztatót tesz közzé.
 
-(7) Az adópolitikáért felelős miniszter rendeletben állapíthatja meg az önkormányzati adóhatóság által rendszeresíthető nyomtatványok tartalmát.
+(7) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az önkormányzati adóhatóság által rendszeresíthető bevallási, bejelentési, bejelentkezési nyomtatványok adattartalmát rendeletben határozza meg.
 
 (8) Az állami adóhatóság meghatározza és közzéteszi a rendszeresített nyomtatványok tartalmát és formáját, gondoskodik arról, hogy azok az adózók számára megfelelő időben, könnyen elérhető helyen álljanak rendelkezésre. A bevallási és adatszolgáltatási nyomtatványokat – ideértve az adóhatóság honlapján közzétett informatikai alkalmazásokat – a benyújtásukra előírt határidőt megelőzően legalább 30 nappal kell közzétenni. A térítés ellenében beszerezhető nyomtatványok gyártói kiválasztásának és forgalmazásának részletes szabályait a kormány rendeletben határozza meg.
 
@@ -3502,13 +3502,12 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (11) Az adózó általános, nemleges adóigazolás, a jövedelemigazolás, illetve az együttes adóigazolás iránti kérelmét az adó- és vámhatósághoz elektronikus úton is előterjesztheti. Ez esetben az adó- és vámhatóság az igazolást elektronikus űrlapon állítja ki és küldi meg az adózó részére.
 
-(12) Az adópolitikáért felelős miniszter rendeletben határozza meg azokat az értékhatárokat és feltételeket, amelyek alapján
+(12) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy azokat az értékhatárokat és feltételeket, amelyek alapján
 
-- a) a legnagyobb adóteljesítménnyel rendelkező adózók köre megállapításra kerül.,
-- b) az adózók kiemelt adózónak minősülnek,
-- c)
+- a) a legnagyobb adóteljesítménnyel rendelkező adózók köre megállapításra kerül,
+- b) az adózók kiemelt adózónak minősülnek, rendeletben határozza meg.
 
-(13) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy az adóügyek elektronikus intézésére vonatkozó eljárások keretében rendeletben szabályozza
+(13) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az adóügyek elektronikus intézésére vonatkozó eljárások keretében rendeletben szabályozza
 
 - a) a bevallási, adatszolgáltatási kötelezettség teljesítésének,
 - b) a bejelentési, változásbejelentési kötelezettség teljesítésének,
@@ -3562,7 +3561,7 @@ módját és technikai feltételeit.
 
 (26) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az adó-végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályait.
 
-(28) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza az adózással összefüggő elektronikus adatok, információk, nyilvántartások
+(28) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza az adózással összefüggő elektronikus adatok, információk, nyilvántartások
 
 - a) adóhatóság részére történő rendelkezésre bocsátásnak,
 - b) másolásának,

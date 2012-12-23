@@ -93,7 +93,7 @@ jóváhagyja.
 
 14. § Az Országgyűlés elrendeli, hogy
 
-- a) a KT. 13. § (1) bekezdésében meghatározott vagyonértékesítés a megmaradt vagyonelemek tekintetében – a b) pontban foglaltak, továbbá a társadalombiztosítás pénzügyi alapjai járulék – hozzájárulás – és egyéb követelései fejében kapott vagyona kivételével – az ÁPV Rt. útján kerüljön végrehajtásra 2012. december 31-ig, valamint
+- a) a KT. 13. § (1) bekezdésében meghatározott vagyonértékesítés a megmaradt vagyonelemek tekintetében – a b) pontban foglaltak, továbbá a társadalombiztosítás pénzügyi alapjai járulék – hozzájárulás – és egyéb követelései fejében kapott vagyona kivételével – az ÁPV Rt. útján kerüljön végrehajtásra 2013. december 31-ig, valamint
 - b) az E. Alap befektetett eszközei állományában lévő képzőművészeti alkotások kerüljenek kincstári vagyoni körbe 2001. december 31-ig.
 
 15. § Az Országgyűlés tudomásul veszi, hogy a KT. 16. §-a alapján a 2. cím, 4. alcím, 4. előirányzat-csoport, 2. kiemelt előirányzat postaköltségek és egyéb kiadások előirányzat terhére, pénzeszköz átadással az Ny. Alap 295,0 millió forintot, az E. Alap 105,0 millió forintot bocsátott az APEH rendelkezésére.

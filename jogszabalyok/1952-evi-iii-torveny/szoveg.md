@@ -422,9 +422,17 @@ illetékességét.
 
 (2) A féllel közlendő határozatokat és iratokat a beavatkozóval is közölni kell.
 
-58. § Az a fél, aki pervesztessége esetére harmadik személy ellen kíván követelést érvényesíteni, vagy harmadik személy követelésétől tart, ezt a harmadik személyt az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig perbe hívhatja. Perbehívással a beavatkozó és a perbehívott is élhet.
+58. § (1) Az a fél, aki pervesztessége esetére harmadik személy ellen kíván követelést érvényesíteni, vagy harmadik személy követelésétől tart, ezt a harmadik személyt perbe hívhatja. Perbehívással a beavatkozó és a perbehívott is élhet.
 
-59. § A perbehívást írásban vagy a tárgyaláson szóval kell előterjeszteni, abban meg kell jelölni a perbehívás okát és röviden elő kell adni a per állását. A perbehívást az ellenféllel is közölni kell.
+(2) Perbehívásnak az alperes részéről legkésőbb a keresetlevél kézhezvételétől számított 30 napon belül, a felperes részéről az érdemi ellenkérelem vele való közlésétől számított 30 napon belül van helye. Ez a rendelkezés a megengedett keresetmódosítás vagy viszontkereset esetén megfelelően irányadó.
+
+(3) A perindítás hatályának beálltát követően perbe lépett személy részéről perbehívásnak a perbelépésétől számított 30 napon belül van helye.
+
+(4) A (2) és (3) bekezdésben meghatározott határidőt követően tett perbehívó nyilatkozat hatálytalan.
+
+59. § (1) A perbehívást írásban vagy a tárgyaláson szóval kell bejelenteni, egyúttal meg kell jelölni a perbehívás okát. A perbehívást a perbehívónak a perbehívottal írásban közölnie kell, abban meg kell jelölnie a perbehívás okát, és röviden elő kell adnia a per állását. A közlés perbehívott általi kézhezvételét és annak időpontját a perbehívónak a perbehívás bejelentésekor okirattal igazolnia kell.
+
+(2) Ha a perbehívó által igazolt közlést követő 30 napon belül a perbehívott a bíróság felé a perbelépésről nem nyilatkozik, úgy kell tekinteni, hogy a perbehívott a perbehívást nem fogadja el. A határidőt követően tett nyilatkozat hatálytalan.
 
 60. § (1) Ha a perbehívott a perbehívást elfogadja, a perbehívóhoz beavatkozóként csatlakozhatik; ezt akár írásban, akár a tárgyaláson szóval is bejelentheti. Egyébként a perbehívóhoz való csatlakozás megengedésére és a perbehívott jogállására a beavatkozás szabályait kell megfelelően alkalmazni.
 
@@ -3669,6 +3677,8 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - c) indokolatlanul ismételten ugyanarra a tényre irányuló kérdés esetén az ellenérdekű fél tiltakozást jelenthet be. Tiltakozással érintett kérdés megengedhetősége felől az elnök határoz.
 
 (6) Ha a tanú vallomása más tanúnak vagy személyesen meghallgatott félnek előadásával ellentétben áll, az ellentét tisztázását szükség esetén szembesítéssel kell megkísérelni.
+
+386/N. § A kiemelt jelentőségű perekben a perbehívásra és a perbehívott nyilatkozatára (58–59. §) meghatározott határidő 15 nap.
 
 ## HATODIK RÉSZ — KISÉRTÉKŰ PEREK
 
