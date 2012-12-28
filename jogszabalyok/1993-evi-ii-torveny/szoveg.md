@@ -212,6 +212,18 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (5) A (3) és (4) bekezdésben foglaltak alapján a mezőgazdasági igazgatási szerv, illetve az ingatlanügyi hatóság által hozott határozatokat a földalapkezelő szervvel is közölni kell.
 
+(5a) Az (1)–(5) bekezdésben foglaltakat az (5b) bekezdésben foglalt eltéréssel kell alkalmazni, ha az (1) bekezdésben meghatározott sorsolásra azért nem kerülhet sor, mert
+
+- a) az 2009. szeptember 30–ig már megtörtént, vagy
+- b) arra 2009. október 1–jét követően a szövetkezet gazdálkodási területén részarány-földtulajdon kiadására felhasználható terület [6. § (4) bek., 12. § (5) bek.] hiányában már nincs lehetőség.
+
+(5b) Az (5a) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a földügyért felelős miniszter által vezetett minisztérium honlapján közleményt tesz közzé arról, hogy a kiadatlan részarány-tulajdonnal rendelkező személyek a közlemény közzétételétől számított 6 hónapos határidőn belül nyújthatják be a termőföld igénylésére, illetve a kártalanításra irányuló kérelmüket. A közleménynek tartalmaznia kell
+
+- a) annak az érintett szövetkezetnek a megnevezését, amelynek gazdálkodási területe – az (5a) bekezdésben meghatározottak szerint – AK hiányos, s emiatt a részarány-földkiadás nem folytatható le,
+- b) annak a területileg illetékes mezőgazdasági igazgatási szervnek a megnevezését, ahol a kérelem előterjeszthető,
+- c) az arra vonatkozó figyelemfelhívást, hogy a kérelem benyújtására nyitva álló határidő elmulasztása esetén a részarány-tulajdonos részére a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt,
+- d) az arra vonatkozó tájékoztatást, hogy a kérelem a (2)–(5) bekezdésben meghatározottak szerint kerül elbírálásra.
+
 9/E. § (1) A földkiadási eljárást e §-ban foglaltak szerint kell lefolytatni azon földrészleteket érintően, melyek esetében nem állnak fenn a 9/C. § (9) bekezdésében meghatározott feltételek.
 
 (2) A földrészletnek a szövetkezeti földhasználati jog alatt álló hányadát (a továbbiakban: visszamaradt hányad) a mezőgazdasági igazgatási szerv az által lefolytatott sorsolás eredménye alapján a részarány-tulajdonosok közös tulajdonába adja az őket megillető részarány-tulajdon (AK érték) arányában. A mezőgazdasági igazgatási szerv a sorsolásról jegyzőkönyvet készít.
@@ -339,9 +351,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (9) Az önálló ingatlanná alakításról szóló határozatok közlésére az ingatlan-nyilvántartásról szóló törvényt kell alkalmazni.
 
-12/I. §
+12/I. § A 12/E–12/H. § szerinti eljárások nem minősülnek telekalakítási eljárásnak.
 
-12/J. §
+12/J. § Ha közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) alatt – a termőföldről szóló törvényben meghatározott – használati megosztásról szóló megállapodás a tulajdonostársak között fennáll, e megállapodást a megosztási eljárásban úgy kell tekinteni, mintha a tulajdonostársak a kiosztási sorrend egymás közötti meghatározására teljes körű egyezséget kötöttek volna. Ez esetben a megosztási eljárás során nem kell dönteni a megosztás kiindulási helyének és az osztás irányának a meghatározásáról.
 
 12/K. § A közös tulajdonnak az e törvény rendelkezései szerinti megszüntetése következtében létrejött közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni
 
@@ -367,7 +379,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (8) Az 5. § (1) bekezdésében és a 8. § (2) bekezdésében, valamint a 13. § (5) bekezdésében meghatározott határidőket az 1992. évi II. törvény 13—21. §-ai szerinti földkijelölési határozat jogerőre emelkedésének napjától kell számítani. A földkiadó bizottság a földkijelölési határozat jogerőre emelkedéséről az érdekelteket a helyben szokásos módon értesíti.
 
-13/A. § E törvény végrehajtása során készített megosztási vázrajzhoz nem szükséges az építésügyi hatóság jóváhagyása.
+13/A. §
 
 14. § (1) A szövetkezet földhasználati joga a részarány-földtulajdon helyének meghatározása esetén a kijelöléssel szűnik meg, és a szövetkezet a haszonbérlő jogosítványait gyakorolja a gazdasági év végéig. Ha a haszonbér összegében a felek nem állapodnak meg, annak megállapítását bármelyikük a bíróságtól kérheti.
 
@@ -385,6 +397,15 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-18. § E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 12/H. § (5) és (6) bekezdése az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő eljárásban csak akkor alkalmazhatóak, ha a 12/G. § (2) bekezdése szerinti határozat az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig nem emelkedett jogerőre.
+18. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő olyan ügyekben is alkalmazni kell, amelyekben a közigazgatási hatósági eljárás a Módtv. hatálybalépését megelőzően benyújtott, egy adott földrészleten fennálló osztatlan közös tulajdon megszüntetésére irányuló kérelem alapján indult.
+
+(2) A Módtv. hatálybalépése előtt indult olyan eljárást,
+
+- a) amelynek költségét a kérelmező megelőlegezte, a költségvállalást tartalmazó nyilatkozat benyújtásának,
+- b) amelyben az ingatlanügyi hatóság jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának
+
+időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
+
+(3) A (2) bekezdés a) pontja szerinti eljárás megelőlegezett költségét a kérelmező 2013. december 31-éig igényelheti vissza a mezőgazdasági szakigazgatási szervtől az ingatlanügyi hatóság által kiállított számla és a megelőlegezett költségek megfizetéséről kiállított számviteli bizonylat alapján.
 
 19. § E törvénynek a járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvénnyel megállapított 12/G. § (2) bekezdését, 9/C. § (9) bekezdését, 9/E. §-át a folyamatban lévő ügyekben is alkalmazni kell. Folyamatban lévő ügynek minősül az is, ha a mezőgazdasági igazgatási szerv a 9/C. § (1)–(4) bekezdése alapján sorsolást folytatott le, és a sorsolási jegyzőkönyvet megküldte az ingatlanügyi hatóságnak.

@@ -29,7 +29,7 @@ terjed ki.
   - ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, a nappali, kúraszerű és az egynapos ellátások finanszírozott szolgáltatási egységei,
   - ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
   - ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
-- j) egészségügyi szakellátási felelősség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdés l) pontja alapján a magyar államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon történő biztosításáról;
+- j) egészségügyi szakellátási felelősség: az államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az l), az o), illetve a p) pontban meghatározott módon, valamint a 2. § (2) bekezdése szerinti esetben az ott meghatározott módon történő biztosításáról;
 - k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 - l) egészségügyi szakellátási intézményműködtetési kötelezettség: a helyi önkormányzatoknak az egészségügyről szóló 1997. évi CLIV. törvény 152. § (3) bekezdése szerinti kötelezettsége;
 - m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak az n) pont szerinti kötelezettsége;
@@ -52,6 +52,8 @@ terjed ki.
 (2a) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap végéig nem kezdi el vagy ezt megelőző nyilatkozata szerint nem fogja elkezdeni teljesíteni az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát, a szakellátási feladatról a 4. hónap első napjától véglegesen a magyar állam köteles gondoskodni azzal, hogy az adott szakellátási feladat egyidejűleg az állam egészségügyi szakellátási kötelezettségének részévé válik.
 
 (2b) Az egészségügyi szakellátási kötelezettség ellátása érdekében a (2a) bekezdés szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő helyi önkormányzat vonatkozásában a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdését kell alkalmazni azzal, hogy az egészségügyi szakellátási feladat a magyar állam részére megállapított feladatnak a (2a) bekezdésben meghatározott időponttól minősül.
+
+(2c) A (2a) és (2b) bekezdés alkalmazásában szakellátási feladat alatt az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesítő egészségügyi közszolgáltatásért felelős szerv érintett egészségügyi szolgáltatója által ellátott valamennyi – e törvény hatálya alá tartozó – szakellátási feladatot érteni kell.
 
 (3) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy az egészségügyi szakellátási feladatának, valamint az állam a (2) bekezdés szerinti ideiglenes feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
 
@@ -356,7 +358,7 @@ köthet.
 
 (10) Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitások csökkentésének mértéke az előző év országos átlaga mértékének eléréséig terjedhet.
 
-(11) Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – átcsoportosíthat szakellátási kapacitást két vagy több egészségügyi szolgáltató között, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja.
+(11) Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – az egészségügyi szolgáltató szakellátási kapacitást részben vagy egészben átcsoportosíthatja egy vagy több másik egészségügyi szolgáltató részére, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja. Az átcsoportosítás során a 4/A. § (4) bekezdés a) pontjában, illetve a 4/A. § (5) bekezdésében meghatározott feltételnek meg kell felelni.
 
 8. § (1) Az egészségbiztosító felelős
 
@@ -434,7 +436,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (4)
 
-(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2012. december 31-éig nem kell megfelelnie a térséghatár figyelembevétele – 5/A. § (3) bekezdésében meghatározott – követelményének. 2013. január 1-jétől az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő járóbeteg-szakellátási ellátási terület módosítása, illetve új járóbeteg-szakellátási ellátási terület megállapítása során – a jogszabályban meghatározott esetek kivételével – a térséghatártól eltekinteni nem lehet. Ha az ellátási terület módosítása, illetve új ellátási terület megállapítása miatt – a térséghatár figyelembevétele követelményének történő megfelelés érdekében – szükséges, egyidejűleg módosítani kell, illetve át kell csoportosítani az érintett egészségügyi szolgáltatók ellátási területeit, illetve kapacitásait.
+(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2013. június 30-áig nem kell megfelelnie a térséghatár figyelembevétele – 5/A. § (3) bekezdésében meghatározott – követelményének. 2013. július 1-jétől az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő járóbeteg-szakellátási ellátási terület módosítása, illetve új járóbeteg-szakellátási ellátási terület megállapítása során – a jogszabályban meghatározott esetek kivételével – a térséghatártól eltekinteni nem lehet. Ha az ellátási terület módosítása, illetve új ellátási terület megállapítása miatt – a térséghatár figyelembevétele követelményének történő megfelelés érdekében – szükséges, egyidejűleg módosítani kell, illetve át kell csoportosítani az érintett egészségügyi szolgáltatók ellátási területeit, illetve kapacitásait.
 
 (6)
 
@@ -459,6 +461,8 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. augusztus 31-éig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.
 
 (12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 11. § (3) bekezdése szerinti nyilvántartásban rögzített adatokat 2012. augusztus 21-én az egészségbiztosítási szerv átadja az egészségügyi államigazgatási szerv részére. A 11. § (3) bekezdése szerinti nyilvántartást 2012. augusztus 31-éig továbbra is az egészségbiztosítási szerv vezeti azzal, hogy a 2012. augusztus 21. és 2012. augusztus 31. közötti adatváltozásokról és új adatokról folyamatosan tájékoztatja az egészségügyi államigazgatási szervet. A 11. § (3) bekezdése szerinti nyilvántartást 2012. szeptember 1-jétől az egészségügyi államigazgatási szerv vezeti, az egészségbiztosítási szerv 2012. október 1-jén törli nyilvántartás részeként általa kezelt adatokat.
+
+(13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
 15. §
 

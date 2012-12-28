@@ -162,6 +162,10 @@ kell meghatározni.
 
 (3) A megyei önkormányzat vagyona, valamint a megyei önkormányzat intézményeinek vagyonelemei, illetve az átadásra kerülő fővárosi egészségügyi szolgáltatók, valamint a működésükhöz kapcsolódó vagy azt elősegítő, közvetlen vagy közvetett többségi részesedésükkel működő gazdasági társaságban meglévő tulajdoni részesedés és vagyon elidegenítésére és megterhelésére 2012. január 1-jéig nem kerülhet sor. Ez alól kivételt képeznek azok a vagyonelemek, amelyeket érintő jogügyletekről a megyei önkormányzat a 2011. évben döntést hozott, és az abból befolyó bevételt a megyei önkormányzat a 2011. évi költségvetésében tervezte.
 
+11/A. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (3) bekezdésében, a fenntartói jog átadásának tilalmára vonatkozó rendelkezéseket nem kell alkalmazni amennyiben az átadásra a Kormány által intézményfenntartásra kijelölt szervek között kerül sor.
+
+(2) A Kormány által intézményfenntartásra kijelölt szerv fenntartásában lévő köznevelési intézménynek az állami intézményfenntartó szervbe beolvadással történő megszűnésének a törzskönyvi nyilvántartásba való bejegyzése iránt a közigazgatás szervezéséért felelős miniszter által 2012. december 31-éig rendelkezésére bocsátott adatok alapján a kincstár hivatalból intézkedik.
+
 #### 7. Intézményi biztos
 
 12. § (1) A kormánymegbízott a Kormány által rendeletben kijelölt szerv kialakításának előkészítésére intézményi biztost nevezhet ki.

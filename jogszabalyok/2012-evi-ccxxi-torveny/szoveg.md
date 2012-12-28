@@ -6,7 +6,15 @@ a Magyar Művészeti Akadémia kultúrstratégiai szerepének megerősítése é
 
 1. §
 
-2. §
+2. § (1) Az Ltv. 35. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik. Az iratok őrzési helye a Magyar Nemzeti Levéltár Országos Levéltára.”
+
+(2) Az Ltv. a következő 37. §-sal egészül ki:
+
+„37. § (1) A 2012. január 1. napjával állami tulajdonba került, a Magyar Nemzeti Levéltár tagintézményeinek elhelyezéséül szolgáló ingatlanok, ingatlanrészek térítésmentesen a Magyar Nemzeti Levéltár vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötendő vagyonkezelési szerződésben foglaltak az irányadók.
+
+(2) A Magyar Nemzeti Levéltár tagintézményei által levéltári célra használt önkormányzati tulajdonban lévő ingatlanok esetében a Magyar Nemzeti Levéltárat ingyenes használati jog illeti meg.”
 
 #### 2. Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény módosítása
 
@@ -16,47 +24,19 @@ a Magyar Művészeti Akadémia kultúrstratégiai szerepének megerősítése é
 
 4–6. §
 
-7. § Az Emtv. 6. §-át megelőző alcím címe helyébe a következő rendelkezés lép:
-
-### „Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezet”
-
-8. § Az Emtv. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat kormányrendeletben kijelölt szerv (a továbbiakban: kijelölt szerv) látja el. Ennek keretében:
-
-a) az állam által fenntartott és az e törvény szerint támogatást igénylő előadó-művészeti szervezetekről, valamint az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről, azok jogszabályban meghatározott adatairól hatósági nyilvántartást vezet,
-
-b) ellenőrzi a nyilvántartott előadó-művészeti szervezetek e törvény szerinti kötelezettségeinek teljesítését, amely ellenőrzés kiterjed a hatósági ellenőrzésre és a támogatások rendeltetésszerű felhasználására is,
-
-c) igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 38. pontja szerinti támogatási igazolást,
-
-d) előadó-művészeti adatszolgáltatási tevékenységet végez,
-
-e) ellátja a NEÉT és a bizottságok működtetésével kapcsolatos adminisztratív feladatokat, gondoskodik a bizottsági feladatok ellátásához szükséges adatok és információk rendelkezésre bocsátásáról,
-
-f) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.”
+7–8. §
 
 9–13. §
 
-14. § Az Emtv. 47. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+14. §
+
+15. § Az Emtv. 47. § (1) bekezdése a következő d) ponttal egészül ki:
 
 (Felhatalmazást kap a Kormány, hogy rendeletben)
 
-„a) jelölje ki az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetet,”
+„d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit.”
 
-15. §
-
-16. § Az Emtv.
-
-- a) 5/A. § (5) bekezdésében az „az előadó-művészeti államigazgatási szerv” szövegrész helyébe az „a 6. § (1) bekezdése szerint kijelölt szerv” szöveg,
-- b) 6. § (3) bekezdésében, 23. § (5) bekezdésében az „Az előadó-művészeti államigazgatási szerv” szövegrész helyébe az „A kijelölt szerv” szöveg,
-- c) 7. § (1) bekezdésében, 7. § (4) bekezdésében, 9. § (2) bekezdésében, 15. § (3) bekezdésében, 16. § (5) bekezdésében, 17. § (5) bekezdésében, 23. § (1) bekezdésében, 23. § (4) bekezdésében, 24. § (3) bekezdés d) pontjában és 39. § (9) bekezdésében az „az előadó-művészeti államigazgatási szerv” szövegrész helyébe az „a kijelölt szerv” szöveg,
-- d) 9. § (1) bekezdésében és 23. § (2) bekezdésében az „az előadó-művészeti államigazgatási szervnek” szövegrész helyébe az „a kijelölt szervnek” szöveg,
-- e) 39. § (9) bekezdésében a „nyilvántartásba vett előadó-művészeti szervezet” szövegrész helyébe a „munkáltatói jogkör gyakorlója” szöveg,
-- f) 40. § (1) bekezdésében a „továbbá a jogász, illetve a közgazdász oklevéllel” szövegrész helyébe a „vagy jogász vagy közgazdász oklevéllel” szöveg,
-- g) 40. § (2) bekezdésében az „előadó-művészeti szervezetnél” szövegrész helyébe az „önállóan gazdálkodó előadó-művészeti szervezetnél” szöveg
-
-lép.
+16. §
 
 17. §
 
@@ -64,7 +44,9 @@ lép.
 
 18–22. §
 
-23. § (1)
+23. § (1) Az MMA tv. 30. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-ig lehetőleg elérje a 200 főt.”
 
 (2)
 

@@ -4,7 +4,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 ### I. Fejezet — A törvény célja
 
-1. § A törvény célja, hogy az ország folyamatos és biztonságos energiaellátása érdekében szabályozza a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges rendszerét.
+1. § A törvény célja, hogy az ország folyamatos és biztonságos energiaellátása érdekében szabályozza a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges rendszerét, továbbá a tagi hozzájárulás mértékének megalapozott számításához szükséges belföldi fogyasztás ellenőrzésével, valamint a szabad forgalomba bocsátott, behozott és felhasznált kőolaj termékek megjelölésével és ellenőrzésével hozzájáruljon a szabályozott és tiszta piaci viszonyok kialakulásához.
 
 ### A törvény hatálya
 
@@ -129,7 +129,11 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 (2) A szövetségi tagság az (1) bekezdésben meghatározott feltétel bekövetkeztének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet legalább egy évig nem folytatja.
 
-11. § A Szövetség feladata a 3. § (2) bekezdésében és a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott mértékű biztonsági készletképzés feltételeinek megteremtése és fenntartásának biztosítása, valamint az ehhez szükséges tárolók létesítése, működtetése és fejlesztése. A Szövetség nem alanya a társasági adónak.
+11. § (1) A Szövetség feladata a 3. § (2) bekezdésben és a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott mértékű biztonsági készletképzés feltételeinek megteremtése és fenntartásának biztosítása, valamint az ehhez szükséges tárolók létesítése, működtetése és fejlesztése.
+
+(2) A Szövetség feladata, hogy a 3. § (2) bekezdés szerinti biztonsági készlet, illetve a tagi hozzájárulás mértékének megalapozott számítása érdekében olyan ellenőrző és jelölő rendszert működtessen, amely folyamatosan lehetővé teszi a szabad forgalomba bocsátott, behozott és felhasznált kőolajtermékek megfigyelését. E feladatának teljesítése során folyamatosan együttműködik az adó- és vámhatósággal, s az ellenőrzés során szerzett minden adatot az adó- és vámhatóság részére is átad.
+
+(3) A Szövetség nem alanya a társasági adónak.
 
 12. §
 
@@ -137,7 +141,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 (2) A felszabadított és eladott készlet felhasználásának, értékesítésének az engedélyben meghatározott feltételeiről a felhasználót, illetve a tagot tájékoztatni kell. Az átadott készletet az engedélyben meghatározott feltételek szerint szabad felhasználni, értékesíteni.
 
-14. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult. A bevételeket a készletezési költségek fedezésére, az ezt meghaladó bevételeit különösen kőolaj-, illetve gáztároló létesítésére, fejlesztésére, a tároló parkokban való tulajdonszerzésre és a készletfinanszírozó hitelek törlesztésére, valamint a Szövetség működésére fordíthatja.
+14. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységen kívül, csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult. A bevételeket a készletezési, a jelölési és az ellenőrzési költségek fedezésére, az ezt meghaladó bevételeit különösen kőolaj-, illetve gáztároló létesítésére, fejlesztésére, a tároló parkokban való tulajdonszerzésre és a készletfinanszírozó hitelek törlesztésére, valamint a Szövetség működésére fordíthatja.
 
 15. § (1) A Szövetség a miniszter által jóváhagyott Alapszabály alapján működik.
 
@@ -201,9 +205,12 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 - f) felügyeli az igazgatóság tevékenységét;
 - g) megbízást ad az e törvényben meghatározott ellenőrzés folytatására;
 - h) megvitat minden olyan kérdést, amelyet az igazgatóság számára előterjeszt;
-- i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére.
+- i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére;
+- j) javaslatot tesz az igazgató és az igazgatóhelyettes személyére.
 
 (2) Az igazgató tanács az igazgatóságtól jelentést kérhet, továbbá számára utasítást adhat.
+
+(3) Az igazgató tanács csak olyan személyt javasolhat igazgatónak vagy igazgatóhelyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal Elnökének képviselői közül legalább három támogat.
 
 23. § Az igazgató tanács tizennégy tagból áll. Hat tagot a kőolaj- és kőolajtermék-készletezési szekcióból, négy tagot a földgázkészletezési szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter, egy a Magyar Energia Hivatal Elnökének képviselője.
 
@@ -241,9 +248,9 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 ### Igazgatóság
 
-27. § (1) A közgyűlés választja meg a Szövetség igazgatóját és igazgatóhelyettesét. A Szövetség munkaszervezetének (igazgatóságának) ügyvezetője az igazgató, akit akadályoztatása esetén az igazgatóhelyettes teljes jogkörrel helyettesít. Az igazgatót és az igazgatóhelyettest öt évre választják meg. Az igazgató és az igazgatóhelyettes újraválasztható.
+27. § (1) Az igazgató tanács javaslata alapján a közgyűlés választja meg a Szövetség igazgatóját és igazgatóhelyettesét. A Szövetség munkaszervezetének (igazgatóságának) ügyvezetője az igazgató, akit akadályoztatása esetén az igazgatóhelyettes teljes jogkörrel helyettesít. Az igazgatót és az igazgatóhelyettest a közgyűlés határozatlan időre választja meg.
 
-(2) A közgyűlés az igazgatóság bármelyik tagját hivatali idejének lejárta előtt, a Szövetség Alapszabályában meghatározott okból visszahívhatja. Ha az igazgatóság bármely tagjának megbízatása az (1) bekezdésben meghatározott időtartam lejárta előtt megszűnik, az igazgató tanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
+(2) A közgyűlés az igazgatóság bármelyik tagját hivatali idejének lejárta előtt, a Szövetség Alapszabályában meghatározott okból felmentheti. Ha az igazgatóság bármely tagjának megbízatása az (1) bekezdésben meghatározott időtartam lejárta előtt megszűnik, az igazgató tanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
 
 28. § Az igazgató
 
@@ -251,7 +258,10 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 - b) elkészíti a Szövetség éves költségvetésének, és annak végrehajtásáról szóló beszámoló tervezetét, és azt az igazgató tanács elé terjeszti;
 - c) határoz a Szövetség azon ügyeiben, melyek más szerv hatáskörébe nem tartoznak;
 - d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót;
-- e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget.
+- e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget;
+- f) szerződést köt a 11. § (2) bekezdésében meghatározott feladat ellátására.
+
+28/A. § Az igazgató csak olyan szervezettel köthet szerződést a 11. § (2) bekezdésében meghatározott feladat ellátására, amely szervezetet a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal Elnökének képviselői közül legalább három támogat.
 
 ### A Szövetség gazdálkodása
 
@@ -261,11 +271,13 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 (3) A Szövetség köteles eszközeit és forrásait, bevételeit és ráfordításait a kőolaj és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníteni, valamint azokat az éves beszámoló kiegészítő mellékletében, készletezési tevékenységenként készített mérlegben és eredmény-kimutatásban oly módon bemutatni, mintha az egyes tevékenységeket önálló gazdálkodó szervezetek végeznék. A kőolaj és kőolajtermék készletezésre, illetve a földgázkészletezésre, valamint a nem készletezési tevékenységre fel nem osztható költségeket, ráfordításokat az egyes tevékenységekkel kapcsolatosan felmerült költségek, ráfordítások arányában kell elszámolni.
 
-30. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
+30. § (1) A Szövetség feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
 
 (2) A Szövetség éves költségvetésében megtervezi a készletek értékesítésének várható bevételeit, az egyéb bevételeket, illetve az értékesítés ráfordításait, a működés költségeit, a készletnövelés miatti tőkefeltöltés pénzszükségletét, valamint a bevételek és a ráfordítások különbözeteként a tagok hozzájárulásának összegét. A költségvetéshez mellékelni kell a biztonsági készletek alakulásának mérlegszerű összeállítását, amely tartalmazza a készletek nyitó értékét — a készletnövekedés értékét — a készletcsökkenés összegét, és ezek eredőjeként a zárókészlet értékét, valamint a záró és nyitó készletérték különbözetét, mint a készletezés tagok általi hozzájárulásának egyik összetevőjét.
 
-(3) A Szövetség az éves költségvetés alapján határozza meg a termékcsoportonkénti egységnyi hozzájárulás értékét.
+(3) A Szövetség az éves költségvetés alapján határozza meg a termékcsoportonkénti egységnyi hozzájárulás mértékét, figyelembe véve a (4) bekezdésben meghatározottak szerint számított, és a 11. § (2) bekezdésben előírt feladat költségeinek finanszírozását biztosító termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
+
+(4) A Szövetség a 11. § (2) bekezdésben meghatározott feladat ellátását biztosító bevételhez szükséges tagi hozzájárulás termékcsoportonkénti egységnyi mértéke, a költségvetés közgyűlés általi elfogadása évének az első hat havi termékcsoportonkénti nagykereskedelmi napi átlagárának legalább 1%-a.
 
 31. § (1) A következő évi költségvetést az igazgatóság október 31-ig készíti el, amelyet a közgyűlés hagy jóvá.
 
@@ -313,7 +325,7 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 ### A tag jogai és kötelezettségei
 
-37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet.
+37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet, amelynek termékcsoportonkénti egységnyi mértékét a 30. § (3) és (4) bekezdéseiben előírtak szerint kell meghatározni.
 
 (2) Tagi hozzájárulást kell fizetni a 4. §-ban foglalt eltérésekkel a 3. § (2) bekezdésében felsorolt kőolajtermékek mennyisége után, ha
 
@@ -413,6 +425,10 @@ az e törvény személyi hatálya alá tartozó személyek által szabad forgalo
 46. § A Szövetség megalakításához kapcsolódó előkészítő tevékenység elvégzésével a miniszter a feldolgozó tagcsoport és a forgalmazó tagcsoport egy-egy tagját bízza meg.
 
 47. § A törvény 9. §-ában előírt kötelezettség azokra a jogi és természetes személyekre terjed ki, akik (amelyek) 1992. évben biztonsági tartalék képzési kötelezettséggel járó kőolajat vagy kőolajterméket hoztak be.
+
+47/A. § A 11. § (2) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2013. július 1. napjáig kell kialakítania.
+
+47/B. § A földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépésekor (a továbbiakban: Mód. Tv.) a Szövetség igazgatójának és igazgatóhelyettesének megbízatása – a Mód. Tv hatálybalépésének napján – határozatlan idejű megbízatásra módosul.
 
 ### Felhatalmazó rendelkezések
 

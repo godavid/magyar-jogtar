@@ -592,6 +592,8 @@ igazolja.
 
 (6) Az (1) bekezdés szerinti finanszírozási szerződéssel rendelkező egészségügyi szolgáltató a finanszírozott szolgáltatásai vonatkozásában csak olyan közreműködő egészségügyi szolgáltatót vehet igénybe, amely a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül.
 
+(7) Az (5)–(6) bekezdésben és a 31. § (5) bekezdés b)–d) pontjában foglaltakat nem kell alkalmazni az egyéni vállalkozói formában működő egészségügyi szolgáltatók esetében.
+
 30/A. § Az egészségbiztosító szerződést köthet a gyógyszer forgalomba hozatalára jogosulttal, a gyógyászati segédeszközt forgalomba hozóval, illetve a gyógyászati ellátást nyújtóval az árhoz nyújtott támogatással forgalmazható termék és ellátás áráról, mennyiségéről, minőségi követelményéről, illetve a felek által lényegesnek ítélt egyéb kérdésről.
 
 31. § (1) Az egészségügyi szolgáltatóval kötött finanszírozási szerződésben meg kell határozni
@@ -1487,6 +1489,8 @@ bírálja el és folyósítja.
 (11) A Módtv1. által megállapított 30. § (4) bekezdését a Módtv1. hatálybalépésekor érvényes finanszírozási szerződések, valamint a 2011. december 31. után kezdeményezett finanszírozási szerződés-módosítások tekintetében is alkalmazni kell, azzal, hogy a még jóvá nem hagyott szerződésmódosítások a Módtv1. hatálybalépésének időpontjában érvényessé válnak.
 
 (12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvény (a továbbiakban: Módtv.) hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók, illetve az általuk igénybe vett közreműködő egészségügyi szolgáltatók 2012. december 31-éig nyilatkoznak arról, hogy a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősülnek. A Módtv. hatálybalépésének napján finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók vonatkozásában a Módtv.-nyel megállapított 30. § (5) és (6) bekezdése és 31. § (5) bekezdés c) és d) pontja, illetve az abban foglaltak elmulasztásához fűződő jogkövetkezmény – ideértve a finanszírozási szerződés felmondását is – 2013. január 1-jétől alkalmazható.
+
+(12a) A (12) bekezdésben foglaltakat nem kell alkalmazni az egyéni vállalkozói formában működő egészségügyi szolgáltató esetében.
 
 (13) A Módtv.-nyel megállapított 37. § (5a) és (8) bekezdést a 2012. június 30-át követően keletkezett jogsértések vonatkozásában kell alkalmazni.
 

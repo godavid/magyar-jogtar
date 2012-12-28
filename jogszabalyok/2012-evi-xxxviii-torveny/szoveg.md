@@ -36,9 +36,35 @@ a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvé
 
 4. § A kijelölt szerv és a települési önkormányzatok az átvételhez kapcsolódó intézkedések végrehajtása során kölcsönösen együttműködve járnak el.
 
-5. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát, az átvett feladathoz kapcsolódó közreműködői szerződések, egészségügyi ellátási szerződések, illetve megállapodások és az ezekhez kapcsolódó vagyonkezelési szerződések érvényességét. A tulajdonjog átszállására tekintettel a kijelölt szerv 2012. december 31-éig felmondhatja – az azokban meghatározott feltételektől és az egészségügyi ellátórendszer fejlesztéséről szóló 2006. CXXXII. törvény (a továbbiakban: Eftv.) 2/E. § (1) bekezdésétől eltérően – a szerződéseket és megállapodásokat.
+5. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát, az átvett feladathoz kapcsolódó közreműködői szerződések, egészségügyi ellátási szerződések, illetve megállapodások és az ezekhez kapcsolódó vagyonkezelési szerződések érvényességét. A tulajdonjog átszállására tekintettel a kijelölt szerv 2013. december 31-éig legalább 60 napos felmondási idővel felmondhatja – az azokban meghatározott feltételektől és az egészségügyi ellátórendszer fejlesztéséről szóló 2006. CXXXII. törvény (a továbbiakban: Eftv.) 2/E. § (1) bekezdésétől eltérően – a szerződéseket és megállapodásokat.
+
+(1a) Amennyiben az az (1) bekezdésben meghatározott szerződéseknek az (1) bekezdés alapján történő felmondása miatt szükséges, az egészségügyi államigazgatási szerv – az Eftv-ben meghatározott szabályok szerint – rendelkezik az érintett szakellátási kapacitások és ellátási területek átcsoportosításáról, illetve módosításáról azzal, hogy a szerződés felmondása miatt indult bírósági eljárásra tekintettel nem függeszthető fel az átcsoportosítás, illetve a módosítás tárgyában indult hatósági eljárás.
 
 (2) A 2. mellékletben szereplő egészségügyi intézmények az átvett feladat ellátásához kapcsolódó egészségügyi ellátási szerződések, megállapodások és vagyonkezelési szerződések alapján kötelesek a szakellátási feladatot az Eftv. alapján megállapított szakellátási kapacitásaik erejéig a szerződésben, illetve a megállapodásban foglaltaknak megfelelően ellátni.
+
+5/A. § (1) Az 5. § (1) bekezdésben meghatározott szerződéseknek az 5. § (1) bekezdés alapján történő felmondása esetén, ha a gazdasági társasági formában működő egészségügyi szolgáltató feladatai a továbbiakban költségvetési szerv által kerülnek ellátásra (e § és az 5/B. § alkalmazásában a továbbiakban: átadás), a munkáltató átadásra kerülő feladatai keretében foglalkoztatott, és e törvény szerint közalkalmazotti jogviszonyban történő továbbfoglalkoztatás céljából átvett munkavállalóinak munkaviszonya az átadás időpontjában megszűnik.
+
+(2) Az (1) bekezdés szerinti esetben az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően harminc nappal korábban köteles tájékoztatni a munkavállalót, a munkáltatónál képviselettel rendelkező szakszervezetet és az üzemi tanácsot (üzemi megbízottat) az átadás időpontjáról, okáról, a munkavállalókat érintő jogi és gazdasági következményeiről.
+
+(3) A (2) bekezdésben meghatározott tájékoztatással egyidejűleg az átadó és az átvevő munkáltató köteles írásban tájékoztatni a munkavállalót arról, hogy az átadást követően a munkavállaló foglalkoztatását az átvevő közalkalmazotti jogviszony keretében biztosítja. A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés tartalmi elemeire vonatkozó ajánlatot. Az ajánlatot az 5/B. § rendelkezéseire figyelemmel kell megtenni. A tájékoztatásnak tartalmaznia kell azokat a kötelezettségeket is, amelyeknek a munkavállaló a jogviszony létesítését követően az előmenetele, illetve a jogviszonya fenntartása érdekében köteles eleget tenni.
+
+(4) Ha a (2) bekezdésben meghatározott időpontban az átvevő munkáltató még nem került megalapításra, az átvevő munkáltató számára a (2)–(3) bekezdésben előírt kötelezettség teljesítése az átvevő munkáltató fenntartóját terheli.
+
+(5) A munkavállaló a (3) bekezdésben meghatározott tájékoztatás kézhezvételétől számított tizenöt napon belül az átadó munkáltatónak írásban nyilatkozik, hogy az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul-e. Ha a munkavállaló az előírt határidőn belül nem nyilatkozik, úgy kell tekinteni, mintha nem járulna hozzá a további foglalkoztatásához.
+
+(6) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a munkavállaló számára a munkaszerződés alapján, illetve a munka törvénykövéről szóló törvény alapján a munkáltató felmondása esetén irányadó juttatásokat megfizetni.
+
+(7) Ha az átvevő munkáltató a közalkalmazottak jogállásáról szóló törvény rendelkezései alapján az érintett munkavállalóval nem létesíthet közalkalmazotti jogviszonyt, a munkaviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a munkavállalót.
+
+5/B. § (1) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a munkavállaló számára a közalkalmazotti jogviszony létesítése érdekében kinevezést adni. A kinevezés során az átvevő munkáltatót köti az 5/A. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a munkavállaló kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 5/A. § (1) bekezdés szerinti megszűnéséről.
+
+(2) A munkavállalót a közalkalmazotti jogviszonyra vonatkozó szabályok szerint kell besorolni, azzal, hogy a munkavállaló közfinanszírozott egészségügyi szolgáltatónál, 1992. június 30-át követően munkaviszonyban töltött idejét közalkalmazotti jogviszonyban töltött időnek kell tekinteni.
+
+(3) A közalkalmazotti jogviszony létesítése esetén a kinevezés alapján megállapított illetmény összege nem lehet alacsonyabb mértékű, mint a közalkalmazottak jogállásáról szóló törvény, vagy – az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó munkakörben foglalkoztatott közalkalmazott esetén – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján járó illetmény.
+
+(4) Határozatlan időtartamú munkaviszony esetén – eltérő törvényi rendelkezés hiányában – az átvevő munkáltatónál határozatlan időtartamú közalkalmazotti jogviszonyt kell létesíteni. Teljes munkaidőben történő foglalkoztatás esetén az átvevő munkáltatónál teljes munkaidős jogviszonyt kell létesíteni. Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki, kivéve – az eredetileg megállapított próbaidő mértékének megfelelően – azt az esetet, ha az átvételre kerülő munkavállaló az átvétel időpontjában próbaidejét tölti.
+
+(5) Az átvevő munkáltatóval létesített jogviszonyra a közalkalmazottak jogállásáról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a munkavállalónak az átadó munkáltatónál eltöltött munkaviszonyát úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el. Ha a kinevezéssel létesített közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszony megszűnése, illetve megszüntetése esetén a munkavállalót felmentési idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével kell megállapítani.
 
 6. § (1) Az egészségügyi szakellátás folyamatos biztosítása érdekében a költségvetési szervként működő egészségügyi szolgáltató alapító okiratának módosítását az alapítói jogokat gyakorló szerv az átvételt követő 45 napon belül készíti el és nyújtja be a kincstár által vezetett törzskönyvi nyilvántartáshoz.
 
@@ -126,6 +152,8 @@ rendeletben határozza meg.
 
 tekintetében.
 
+(1a) Az (1) bekezdés alapján a GYEMSZI jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
+
 (2) A GYEMSZI a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint végzi.
 
 (3) E törvény alapján a tulajdonosi joggyakorló jogosult a tulajdonosi joggyakorlás körébe tartozó, az állami egészségügyi feladatellátáshoz szükségtelenné vált vagyonelemek értékesítésére az állami vagyonról szóló törvény rendelkezései szerint.
@@ -150,6 +178,17 @@ tekintetében.
 15. § E törvény 35. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 15/A. § Az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény (a továbbiakban: Módtv.) 28. §-ával megállapított 13. § (3a) bekezdését az egészségügyi szolgáltató gazdasági társaságok állami tulajdonba vétele tárgyában a Módtv. 28. §-ának hatálybalépése előtt meghozott kormánydöntések végrehajtása tekintetében is alkalmazni kell.
+
+15/B. § A 13. § (1) bekezdése alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására kijelölt GYEMSZI tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére
+
+- a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény, az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény, valamint az e törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon tekintetében:
+  - aa) azon ingatlanok esetén, amelyekre a GYEMSZI vagyonkezelői joga az ingatlan-nyilvántartásba bejegyzésre került, a GYEMSZI kérelme;
+  - ab) az aa) alpontban foglalt vagyonkezelői jog bejegyzésének hiányában az átadás-átvételi dokumentáció alapján készült, a GYEMSZI által hitelesített és aláírt, helyrajzi számmal ellátott ingatlanlista, valamint a GYEMSZI tulajdonosi joggyakorlásába kerülésére vonatkozó nyilatkozata,
+- b) a 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő GYEMSZI által aláírt vagyonkezelési szerződést megszüntető szerződés
+
+alapján kerül sor.
+
+15/C. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 5. § (1a) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
 #### 6. A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény módosítása
 

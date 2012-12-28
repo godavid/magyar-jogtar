@@ -2458,6 +2458,10 @@ teljesíti.
 
 (6) Az elektronikus ügyintézési felügyelet ellenőrzi a szabályozott elektronikus ügyintézési szolgáltatások jogszabályoknak való megfelelőségét.
 
+(7) A szabályozott elektronikus ügyintézési szolgáltató a szolgáltatás nyújtása során biztosítja a közérdekű, illetve közérdekből nyilvános adatok megismerhetőségét és a személyes, illetve védett adatok védelmét.
+
+(8) A szabályozott elektronikus ügyintézési szolgáltatások nyilvános és tájékoztató jellegű részének elérése, valamint a közérdekű adatok elektronikus hozzáférhetővé tétele nem korlátozható, az igénybevevő előzetes azonosításához nem köthető.
+
 ### Ügyintézési rendelkezés
 
 162. § (1) Ha törvény eltérően nem rendelkezik, a hatóság köteles az ügyfél ügyintézési rendelkezését az elektronikus kapcsolattartás során figyelembe venni. Ha törvény eltérően nem rendelkezik, a hatóság az ügyféltől elektronikus nyilatkozatot csak akkor fogadhat el és elektronikus nyilatkozatot az ügyfélnek csak akkor küldhet, ha az ügyfél az ügyintézési rendelkezésében vagy az ügyintéző személyes közreműködésével történő eljárási cselekmények esetében az adott eljárás során ezt nem zárta ki.
@@ -2759,16 +2763,18 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 
 (7) E törvénynek a Módtv. 47. §-ával megállapított, az elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-(7a) A 2012. március 31-én elektronikus kapcsolattartás, valamint elektronikus ügyintézés biztosítására köteles hatóságok 2012. december 31-ig kötelesek
+(7a) A 2012. március 31-én elektronikus kapcsolattartás, valamint elektronikus ügyintézés biztosítására köteles hatóságok 2014. június 30-ig kötelesek
 
 - a) az elektronikus kapcsolattartás, illetve az elektronikus ügyintézés lehetőségét a 2012. március 31-én hatályos szabályoknak megfelelően biztosítani, mindaddig, amíg az e törvénynek való megfelelést nem biztosítják,
 - b) megteremteni az e törvénynek való megfelelés feltételeit.
 
 (7b) A 2012. március 31-én létező ügyfélkapu 2012. április 1-jét követően is fennmarad, az ügyfélkapuval rendelkező természetes személyek adatait az ügyfélkapu regisztrációs adatbázist kezelő szerv az ügyfélkapu regisztrációs adatbázisban kezeli tovább, kivéve, ha a természetes személy az ügyfélkapu és az ahhoz kapcsolódó személyes adatai törlését az ügyfélkapu regisztrációs adatbázist kezelő szervtől kéri.
 
-(8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2013. január 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2013. január 1-jéig kell bejelenteni.
+(8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2014. július 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2014. július 1-jéig kell bejelenteni.
 
-(9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2013. január 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.
+(9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2014. július 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.
+
+(10) E törvénynek a fővárosi és megyei kormányhivatalok működésével összefüggő törvények, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CCX. törvénnyel módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
 171/A. § Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
 
@@ -2873,7 +2879,7 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 - f) az elektronikus ügyintézési szolgáltatás engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és csökkentésével kapcsolatos szabályokat, valamint
 - g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások részletes műszaki, technikai feltételeit rendeletben állapítsa meg.
+(4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
 
 176. § E törvény X/A. Fejezete
 

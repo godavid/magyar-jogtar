@@ -96,6 +96,8 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 8/A. § Élő állatot nyereményjáték díjaként csak e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint lehet használni, amennyiben az állat elhelyezésének és tartásának feltételei biztosítottak.
 
+8/B. § Állatot a nemi vágy kielégítésére irányuló cselekmény során felhasználni tilos.
+
 ### Beavatkozás az állaton
 
 9. § (1) Az állaton fájdalommal vagy károsodással járó beavatkozást – az állat érdekében szükséges azonnali beavatkozások kivételével – kizárólag szakirányú végzettséggel, illetve az állattartók körében szokásos beavatkozás esetében csak gyakorlattal rendelkező személy végezhet.
