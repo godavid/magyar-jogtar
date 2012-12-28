@@ -12,7 +12,9 @@ funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapjá
 
 #### 2. Az államigazgatási feladatok ellátásával összefüggő vagyon használata
 
-2. § (1) A települési önkormányzatok mindazon vagyona és vagyoni értékű joga (a továbbiakban: vagyon) leltár szerint, amelyek a jogszabály által meghatározott, átvételre kerülő államigazgatási feladatok ellátását biztosítják, 2013. január 1-jén a feladat ellátásának időtartamára a Magyar Állam ingyenes használatába kerül. Az államigazgatási feladat ellátását biztosító vagyon alatt az átvett államigazgatási feladathoz kapcsolódó valamennyi jogot és kötelezettséget, valamint ingó- és ingatlan-vagyont is érteni kell.
+2. § (1) A települési önkormányzatok mindazon vagyona és vagyoni értékű joga (a továbbiakban együtt: államigazgatási feladat ellátását biztosító vagyon), amely a jogszabály által meghatározott, átvételre kerülő államigazgatási feladatok ellátását biztosítja, 2013. január 1-jén – a feladat ellátásának időtartamára – az állam ingyenes használatába kerül. A használati jogot a fővárosi és megyei kormányhivatal gyakorolja.
+
+(1a) Az államigazgatási feladat ellátását biztosító vagyon alatt az átvett államigazgatási feladathoz kapcsolódó valamennyi jogot és kötelezettséget, valamint ingó és ingatlan vagyont is érteni kell.
 
 (2) Az ingyenes használati jog alapításához kapcsolódó feladatok végrehajtásának részletkérdéseit a települési önkormányzatok polgármesterei, valamint a fővárosi és megyei kormányhivatalok kormánymegbízottai (a továbbiakban: felek) között megkötött megállapodás (a továbbiakban: megállapodás) rendezi.
 
@@ -20,17 +22,17 @@ funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapjá
 
 (4) A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján a fővárosi és megyei kormányhivatalok vagy más államigazgatási szervek által átvett vagy megszűnt államigazgatási feladat ellátására létrejött társulási megállapodást az év utolsó napjával fel kell mondani. A társulás tagjai a települési önkormányzatnak a társulásba bevitt vagyonáról kötelesek az év utolsó napjával elszámolni.
 
-(5) Amennyiben az (1) bekezdésben meghatározott átvett államigazgatási feladat ellátására szolgáló ingó vagy ingatlan vagyon nem a települési önkormányzat tulajdonában, hanem bérleti vagy más szerződés (a továbbiakban: bérleti szerződés) alapján a használatában van, a Magyar Állam a használat időtartama alatt – a megállapodásban tett erre irányuló nyilatkozata alapján – beléphet a bérleti szerződésbe a használat időtartamára a települési önkormányzat helyébe.
+(5) Ha az államigazgatási feladat ellátását biztosító vagyon nem a települési önkormányzat tulajdonában, hanem bérleti vagy más szerződés alapján a használatában van, a fővárosi és megyei kormányhivatal a használat időtartama alatt, annak időtartamára – a megállapodásban tett erre irányuló nyilatkozata alapján – beléphet a bérleti szerződésbe a települési önkormányzat helyébe.
 
-(6) A Magyar Állam a megállapodásban tett nyilatkozata alapján vagy az ingyenes használat időtartama alatt bármikor lemondhat a vagyon vagy annak egy része használati jogáról.
+(6) A fővárosi és megyei kormányhivatal a megállapodásban tett nyilatkozata alapján vagy az ingyenes használat időtartama alatt bármikor lemondhat a vagyon vagy annak egy része használati jogáról.
 
-(7) A Magyar Állam jogosult az (1) bekezdésben meghatározott ingó vagyon feletti ingyenes használati jogát – szükség szerint az ingó vagyonelemek fizikai mozgatásával – a Magyar Állam tulajdonában lévő vagy a Magyar Állam által más jogcímen használt ingatlanban is gyakorolni.
+(7) A fővárosi és megyei kormányhivatal jogosult az államigazgatási feladat ellátását biztosító ingó vagyon feletti ingyenes használat jogát – szükség szerint az ingó vagyonelemek fizikai mozgatásával – az állam tulajdonában lévő vagy a fővárosi és megyei kormányhivatal által más jogcímen használt ingatlanban is gyakorolni.
 
-(8) Az (1) bekezdésben foglaltaktól eltérően, nem terheli a települési önkormányzatot az ingatlan ingyenes használatának biztosítására vonatkozó kötelezettség, amennyiben az átvételre kerülő államigazgatási feladatok ellátásához megfelelő állapotú és méretű ingatlant ajánl fel a Magyar Állam tulajdonába és erről a felek a megállapodásban megegyeznek.
+(8) Az (1) bekezdésben foglaltaktól eltérően, nem terheli a települési önkormányzatot az ingatlan ingyenes használatának biztosítására vonatkozó kötelezettség, amennyiben az átvételre kerülő államigazgatási feladatok ellátásához megfelelő állapotú és méretű ingatlan állami tulajdonba adását ajánlja fel és erről a felek megállapodásban megegyeznek.
 
-(9) Az (1) bekezdésben meghatározott ingatlanon fennálló jelzálogjog esetében, a jelzálogjog jogosultja kielégítési jogának megnyílta esetén a települési önkormányzat köteles másik, azonos funkciójú és állapotú ingatlan ingyenes használatát a Magyar Államnak felajánlani. Amennyiben másik ingatlant a települési önkormányzat felajánlani nem képes, a jelzálogjog jogosultja és a települési önkormányzat között egyezséget kell megkísérelni létrehozni a kielégítési jog gyakorlásának elhalasztásáról.
+(9) Az államigazgatási feladat ellátását biztosító vagyonba tartozó ingatlanon fennálló jelzálogjog esetében, a jelzálogjog jogosultja kielégítési jogának megnyílta esetén a települési önkormányzat köteles másik, azonos funkciójú és állapotú ingatlan ingyenes használatát az államnak felajánlani. Amennyiben a települési önkormányzat másik ingatlant felajánlani nem képes, a fővárosi és megyei kormányhivatal megkísérel a jelzálogjog jogosultja és a települési önkormányzat között egyezséget létrehozni a kielégítési jog gyakorlásának elhalasztásáról.
 
-3. § (1) Az e törvény alapján a Magyar Állam ingyenes használatába kerülő vagyon vagyonkezelője a használati jog keletkezésével egyidejűleg e törvény erejénél fogva a fővárosi és megyei kormányhivatal.
+3. § (1) A 2. § (8) bekezdése alapján az állam tulajdonába kerülő vagyon e törvény erejénél fogva ingyenesen a fővárosi és megyei kormányhivatal vagyonkezelésébe kerül.
 
 (2) Az (1) bekezdésben meghatározott vagyonkezelői jogviszonyra a továbbiakban a Magyar Nemzeti Vagyonkezelő Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
 
@@ -52,6 +54,10 @@ funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapjá
 
 (8) Ha a fővárosi és megyei kormányhivatal határozatával szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, a fővárosi és megyei kormányhivatal a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
 
+(9) A fővárosi és megyei kormányhivatal kérelmére az érintett ingatlanok helyrajzi számát is tartalmazó megállapodás vagy az (5) bekezdésben meghatározott határozat alapján az ingatlanügyi hatóság – figyelemmel a 89. § (5) bekezdésében foglaltakra – a fővárosi és megyei kormányhivatal javára ingyenes használati jogot jegyez be az ingatlan-nyilvántartásba.
+
+(10) A (8) bekezdésben meghatározott esetben az ingatlanügyi hatóság a fővárosi és megyei kormányhivatal kérelmére ingyenes használati jogot jegyez be a megállapodás alapján a fővárosi és megyei kormányhivatal javára az ingatlan-nyilvántartásba és ezzel egyidejűleg gondoskodik a visszavont határozat alapján bejegyzett ingyenes használati jog törléséről.
+
 #### 3. Járási biztos
 
 6. § (1) A kormánymegbízott a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalainak felállítása előkészítésére, valamint az átadás-átvételi megállapodás előkészítésére járási biztost, járási biztosokat nevezhet ki.
@@ -67,6 +73,30 @@ funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapjá
 (2) A települési önkormányzatok hivatalaiból az államigazgatási feladatok ellátásával összefüggésben funkcionális feladatokat ellátók álláshelyei, valamint az érintett feladatokat ellátó köztisztviselők és munkavállalók a fővárosi és megyei kormányhivatal állományába kerülnek, amennyiben megfelelnek a Kttv. és annak végrehajtási rendeleteiben meghatározott képesítési feltételeknek. A képesítési feltételek hiányában át nem vett foglalkoztatottak álláshelyei a fővárosi és megyei kormányhivatal állományába kerülnek át.
 
 (3) Az (1) és (2) bekezdésben meghatározott köztisztviselők foglalkoztatási jogviszonya a Kttv. alapján kormányzati szolgálati jogviszonnyá alakul át.
+
+(4) A 7. § (1)–(3) bekezdése tekintetében a köztisztviselők alatt a közszolgálati ügykezelőket is érteni kell.
+
+7/A. § (1) A 7. § (1)–(2) bekezdésében meghatározott köztisztviselők a megállapodás megkötését megelőzően megállapított illetményükkel kerülnek át a fővárosi és megyei kormányhivatal állományába, kivéve, ha az illetmény megváltozására a megállapodás megkötése és 2012. december 31-e között a Kttv. besorolásra vonatkozó szabályai alapján kerül sor. Amennyiben az illetmény megváltozásának oka, hogy a megállapodás megkötése után a köztisztviselő címadományozásban részesült, személyi illetményre vált jogosulttá, illetve a települési önkormányzat rendeletével magasabb illetménykiegészítést állapított meg, a köztisztviselő a megállapodás megkötését megelőzően megállapított illetményével kerül átvételre.
+
+(2) Az (1) bekezdés nem alkalmazható a települési önkormányzat részéről jogellenesen megállapított illetményre. Jogellenesen megállapított illetmény esetében a fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő illetményét a Kttv. kormánytisztviselőkre vonatkozó rendelkezése alapján történő besorolás szerint, a Kttv. rendelkezéseinek megfelelően kell megállapítani.
+
+(3) A fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő az (1) bekezdésben meghatározott illetményre – ide nem értve a fegyelmi büntetés miatti illetménycsökkentést – az életpályamodellhez kapcsolódó illetményrendszer bevezetéséről szóló külön törvény hatálybalépéséig jogosult, kivéve, ha a Kttv. alapján a besorolása szerinti illetménye – e törvény hatálybalépését követően bekövetkező ok miatt – meghaladja az (1) bekezdés szerinti illetmény összegét.
+
+(4) Az (1) bekezdésben meghatározott köztisztviselők esetében a Kttv. 72. § (5) bekezdéséből az „és illetményét meg kell állapítani” szövegrész nem alkalmazható.
+
+7/B. § (1) Amennyiben a megállapodás megkötését követően a megállapodásban szereplő köztisztviselők, munkavállalók személyében, illetve illetményében változás következik be 2012. november 30-át követően, a 2012. december havi, 2013. januárban esedékes illetmények, munkabérek és egyéb járandóságok, valamint azok közterhei fedezetének utólagos elszámolása és pénzügyi rendezése az érintett települési önkormányzat és a fővárosi és megyei kormányhivatal között közvetlenül történik.
+
+(2) A települési önkormányzatoktól a fővárosi és megyei kormányhivatalok állományába átvett köztisztviselők és munkavállalók részére – a költségvetési szerveknél és az egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak 2012. évi kompenzációjáról szóló 371/2011. (XII. 31.) Korm. rendeletben foglaltak alapján – a 2012. december hónapra járó, 2013. január elején kifizetett bérkompenzáció fedezete a települési önkormányzatot már nem illeti meg. Az érintett foglalkoztatottak részére január elején a munkabérrel együtt kifizetett bérkompenzáció fedezetét a fővárosi és megyei kormányhivatal részére január hónaptól a közigazgatási és személyzetpolitikáért felelős miniszter által vezetett minisztérium biztosítja.
+
+(3) A települési önkormányzatoktól a fővárosi és megyei kormányhivatalok állományába átvett köztisztviselők és munkavállalók 2012. december havi, 2013 januárjában esedékes illetményei, munkabérei és egyéb járandóságai, valamint azok közterhei kifizetéséhez a fővárosi és megyei kormányhivatal 2013. január hónapra – 2013. március havi visszapótlással – támogatási keret-előrehozást igényelhet külön indokolás nélkül a Magyar Államkincstártól (a továbbiakban: Kincstár).
+
+(4) A megállapodásban rögzített, a fővárosi és megyei kormányhivatal állományába kerülő köztisztviselők és munkavállalók 2012. december havi, 2013. januárban esedékes illetményei, munkabérei és egyéb járandóságainak kifizetését a Kincstár megelőlegezi és utalja a kedvezményezettek részére. A fejezet biztosítja, hogy a megelőlegezett összeget utólag, a Kincstár adatszolgáltatása alapján az átvevő fővárosi és megyei kormányhivatal legkésőbb 2013. február végéig megtérítse az önkormányzati nettófinanszírozással kapcsolatos lebonyolítási számla javára. A közterhek megfizetése az önkormányzati nettófinanszírozás keretében történik, a határidőre történő átutalás teljesítéséhez a fedezetet a Kincstár megelőlegezi. A fejezet intézkedik, hogy a megelőlegezett összeget – a Kincstár adatszolgáltatása alapján – az átvevő fővárosi és megyei kormányhivatal az önkormányzati nettófinanszírozással kapcsolatos lebonyolítási számla javára, legkésőbb 2013. február végéig biztosítsa az előirányzat-felhasználási keretszámlája terhére. A fedezet meghatározása a volt települési önkormányzati intézményeket, mint társadalombiztosítási kifizetőhelyet megillető – a kormányhivatalba átadásra kerülő köztisztviselők és munkavállalók részére december hónapban az intézmények által ténylegesen kifizetett – társadalombiztosítási ellátás figyelembevételével történik.
+
+(5) A fővárosi és megyei kormányhivatal állományába kerülő, 2012. december hónapban központosított illetmény-számfejtési körbe tartozó köztisztviselők és munkavállalók esetében a december havi személyi juttatásokat és egyéb kifizetéseket terhelő, az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek teljesítéséről 2013. január 20-án a Kincstár az illetékes megyei igazgatóságának technikai adószámán intézkedik.
+
+(6) A (4) bekezdésben foglalt kötelezettség elmulasztása esetén a fedezetet 2013. február 28-át követően a Kincstár az önkormányzati nettófinanszírozással kapcsolatos, valamint a Kincstár illetékes megyei lebonyolítási számlái javára a kormányhivatal előirányzat-felhasználási keretszámlája terhére, felhatalmazó levél nélkül benyújtott beszedési megbízással szedi be.
+
+(7) A Kincstár technikai adószámán nyilvántartott intézmények köztisztviselői és munkavállalói átvétele a biztosítotti bejelentés szempontjából jogutódlásnak tekintendő.
 
 #### 5. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
@@ -496,7 +526,18 @@ rendeletben szabályozza.
 
 (3) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 133. § (3) bekezdés rendelkezését azzal az eltéréssel kell alkalmazni 2012-ben a Kormány által intézményfenntartásra kijelölt szerv esetében, hogy az alapilletmény-eltérítés mértéke az első hat hónap teljesítményértékelése alapján 2012. július 31-ig módosítható a Kormány által intézményfenntartásra kijelölt szerv vezetője döntésével és a kormánymegbízott egyetértésével. Az alapilletmény-eltérítés 2012. január 1-jétől érvényes, azzal, hogy az alapilletmény-csökkentésére csak a megállapítás napját követő naptól kerülhet sor.
 
-(4) Ezen törvény alapján 2013. január 1-jén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához átkerülő államigazgatási feladat- és hatáskörökkel összefüggésben folyamatban lévő ügyekben az a szerv jár el, amelynek hatáskörébe a feladat ellátása a jogszabály rendelkezése szerint kerül.
+(4) Ezen törvény alapján 2013. január 1-jén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához átkerülő államigazgatási feladat- és hatáskörökkel összefüggésben folyamatban lévő ügyekben – a (7) bekezdésben foglalt kivétellel – az a szerv jár el, amelynek hatáskörébe a feladat ellátása a jogszabály rendelkezése szerint kerül.
+
+(5) A 2. § (2) bekezdése és az 5. § (2) bekezdése szerint megkötött megállapodások, továbbá az 5. § (5) bekezdése szerinti határozat alapján kezdeményezett ingatlan-nyilvántartási eljárásban, a kérelem alapjául szolgáló okiratban foglaltaktól függetlenül:
+
+- a) vagyonkezelői jog helyett az ingyenes használati jog gyakorlását,
+- b) vagyonkezelő helyett az ingyenes használati jog gyakorlására jogosultat
+
+kell bejegyezni.
+
+(6) Az e törvény alapján a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához átkerülő államigazgatási feladat- és hatáskörökkel összefüggően a települési önkormányzatok által kezelt adatok és működtetett adatbázisok kezelésére, illetve működtetésére 2013. január 1-jétől a járási (fővárosi kerületi) hivatal jogosult. Az adatok és adatbázisok átadásának módját és határidejét a fővárosi és megyei kormányhivatal, valamint a települési önkormányzat által megkötött megállapodás határozza meg. A települési önkormányzat a megállapodásban meghatározott időpontig az adatokat a járási (fővárosi kerületi) hivatal feladatellátásának biztosítása céljából tartja nyilván, és köteles a járási (fővárosi kerületi) hivatal kérésére a szükséges adatokat a járási (fővárosi kerületi) hivatalnak továbbítani. A megállapodásban meghatározott időpontot követően a települési önkormányzat köteles a feladatellátásához nem szükséges, a járási (fővárosi kerületi) hivatal által átvett adatokat az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint törölni.
+
+(7) A járási (fővárosi kerületi) hivatal hatáskörébe kerülő, az Szt. szerinti pénzbeli és természetbeni ellátások vonatkozásában 2012. december 31-én folyamatban lévő, az Szt. 17. §-a szerinti visszafizetési kötelezettséggel kapcsolatos ügyekben a jegyző jár el. A jegyző által elrendelt visszafizetés, illetve engedélyezett fizetési könnyítés esetén a visszafizetési kötelezettséget a jegyző felé kell teljesíteni.
 
 90. § E törvény 13. §-a az Alaptörvény 31. cikk (3) bekezdése, 23. §-a az Alaptörvény G) cikk (4) bekezdése alapján, 25. §-a az Alaptörvény 46. cikk (6) bekezdése alapján, 40. §-a az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 34. cikk (1) bekezdése alapján, a 80. §-a az Alaptörvény 45. cikk (5) bekezdése alapján és a 83. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
@@ -513,7 +554,8 @@ rendeletben szabályozza.
 
 - a)–g)
 - h)
-- i)–k)
+- i)–j)
+- k)
 - l)
 
 (8)

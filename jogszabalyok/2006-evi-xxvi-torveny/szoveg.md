@@ -18,7 +18,7 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 2. § E törvény alkalmazásában
 
-- a) biztonsági földgáztároló: az a földalatti gáztároló, vagy gázkészlet szempontjából annak elkülönített része, amely kizárólag az e törvény szerinti biztonsági földgázkészlet tárolására szolgál;
+- a) biztonsági földgáztároló: a földgáz tárolására alkalmas földalatti természetes földtani szerkezet vagy mesterségesen kialakított földalatti üreg, továbbá ezeknek a földgázkészlet szempontjából elkülönített része, amely az e törvény szerinti biztonsági földgázkészlet tárolására is szolgál;
 - b) lakossági fogyasztó: az a felhasználó, aki a vásárolt földgázt kizárólag saját háztartása – egy felhasználási helyet képező, lakás céljára használt lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára használja és azzal nem folytat jövedelemszerző gazdasági tevékenységet;
 - c) felhasználó: aki földgázt saját felhasználás céljára vásárol;
 - d) földgáz biztonsági készletezés: földalatti gáztárolóban végzett nem kereskedelmi célú földgáztárolás;
@@ -29,7 +29,8 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 - i) földgáztermelő: az a gazdálkodó szervezet [Polgári Törvénykönyv 685. § c) pont], aki (amely) Magyarország területén földgáz bányászati tevékenységet végez;
 - j) földgáz egyetemes szolgáltató: az az engedélyes, aki az egyetemes szolgáltatási csomag kisfelhasználóknak történő értékesítésére a Hivataltól engedélyt kapott;
 - k) földgázkereskedő: az az engedélyes, aki a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlására és értékesítésére a Hivataltól engedélyt kapott;
-- l) földgáztároló engedélyes: az az engedélyes, aki a földgáztárolására a Hivataltól engedélyt kapott.
+- l) földgáztároló engedélyes: az az engedélyes, aki a földgáztárolására a Hivataltól engedélyt kapott;
+- m) földgáz biztonsági készlet: elsősorban a lakossági fogyasztók földgázellátási biztonságának megőrzése érdekében az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott földgáz mennyiség.
 
 ### A földgáz biztonsági készletezés
 
@@ -53,7 +54,7 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
-(7) A készletezési kötelezettség csak a Szövetség tulajdonában, résztulajdonában vagy bérleményében lévő föld alatti tárolóban tárolt, illetve föld alatti tárolóteret üzemeltető földgáztárolóval kötött szerződés alapján tároltatott földgázzal teljesíthető.
+(7) A készletezési kötelezettség kizárólag a Magyar Állam közvetlen vagy közvetett többségi tulajdonában álló biztonsági földgáztárolóban tárolt és a biztonsági földgáztároló engedélyessel kötött szerződés alapján tároltatott földgázzal teljesíthető.
 
 (8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.
 
@@ -147,6 +148,12 @@ vonatkozik.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
+(8) Visszaigényelhető a 8. § (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
+
+(9) A (8) bekezdés szerinti visszaigénylésre a földgáz egyetemes szolgáltató a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
+
+(10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni. Az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
+
 9. § (1) A Szövetség tagja minden hó 15-éig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló földgáz hőmennyisége. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
 
 (2) A havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a következő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni.
@@ -179,6 +186,8 @@ vonatkozik.
 (4) A földgáz tárolói engedélyes köteles a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitásra a Szövetséggel szerződést kötni.
 
 (5) Az 5. §-ban foglalt a készlet felhasználására vonatkozó szabályokat a (2) bekezdés szerinti tüzelési célra felhasználható kőolajtermékek vonatkozásában is alkalmazni kell.
+
+12/A. § E törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 4. § (7) bekezdését 2013. július 1-jétől kell alkalmazni.
 
 13. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készlet felhasználására, a felhasználásra vonatkozó döntés előkészítésére, az előkészítésben közreműködő szervezetek vagy testületek jogaira és kötelezettségeire vonatkozó részletes szabályokat.
 

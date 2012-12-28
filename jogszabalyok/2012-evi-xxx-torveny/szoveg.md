@@ -124,9 +124,9 @@ Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől
 - e) a hatáskörrel rendelkező miniszterek, valamint
 - f) a Magyar Értéktárban nyilvántartott nemzeti értéket gondozó, vagy ilyen terméket előállító magánszemélyek vagy vállalkozások.
 
-(2) Közösségi oltalom alatt álló vagy nemzetközi elismerésben részesített nemzeti értékek külön elbírálás nélkül, e törvény erejénél fogva hungarikumoknak minősülnek. Az így hungarikumnak minősülő nemzeti értékek adatait a HB közzéteszi.
+(2) Az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete által kiemelkedő egyetemes értékként vagy szellemi kulturális örökségként nyilvántartott és az 1. § (1) bekezdés g) pont ga)–gc) alpontja szerinti feltételeknek megfelelő javak külön elbírálás nélkül, e törvény erejénél fogva hungarikumoknak minősülnek. Az így hungarikumnak minősülő nemzeti értékek adatait a HB közzéteszi.
 
-(3) A (2) bekezdés rendelkezése a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 116/A. § (10) bekezdése alapján átmeneti nemzeti oltalom alatt álló elnevezések esetében is alkalmazandó. Amennyiben az Európai Bizottság a kérelmet elutasítja, az a hungarikummá minősülés tényét nem érinti.
+(3)
 
 13. § (1) A hungarikumok adatainak nyilvántartása a Hungarikumok Gyűjteményében történik.
 
@@ -138,17 +138,18 @@ Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől
 
 (2) A HB
 
-- a) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált 1,
-- b) az igazságügyért felelős miniszter által delegált 1,
-- c) a helyi önkormányzatokért felelős miniszter által delegált 1,
-- d) a kultúráért és oktatásért felelős miniszter által együttesen delegált 1,
-- e) az agrár-vidékfejlesztésért felelős miniszter által a természetvédelemért felelős miniszterrel együtt delegált 1,
-- f) a turizmusért felelős miniszter által delegált 1,
-- g) a fejlesztéspolitikáért felelős miniszter által delegált 1,
-- h) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
-- i) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
-- j) a MÁÉRT által delegált 3, és
-- k) az Országgyűlés által delegált 2
+- a) a nemzetpolitikáért felelős miniszter által delegált 1,
+- b) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált 1,
+- c) az igazságügyért felelős miniszter által delegált 1,
+- d) a helyi önkormányzatokért felelős miniszter által delegált 1,
+- e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
+- f) az agrár-vidékfejlesztésért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
+- g) a turizmusért felelős miniszter által delegált 1,
+- h) a fejlesztéspolitikáért felelős miniszter által delegált 1,
+- i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
+- j) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
+- k) a MÁÉRT által delegált 3, és
+- l) az Országgyűlés által delegált 2
 
 tagból áll.
 

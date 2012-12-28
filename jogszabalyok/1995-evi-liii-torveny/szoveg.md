@@ -607,7 +607,7 @@ kapcsolatos feladatokat és előírásokat.
 48/F. § (1) A területi környezetvédelmi program kidolgozója a program tervezetét az illetékes
 
 - a) környezetvédelmi hatóságnak,
-- b) talajvédelmi hatóságnak,
+- b)
 - c) ingatlanügyi hatóságnak és
 - d) egészségügyi államigazgatási szervnek
 

@@ -446,7 +446,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 
-(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik.
+(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik. Az iratok őrzési helye a Magyar Nemzeti Levéltár Országos Levéltára.
 
 (9)
 
@@ -476,3 +476,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 rendeletben állapítsa meg.
 
 36. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a köziratok kezelésének levéltári felügyeletével kapcsolatos, továbbá a közlevéltárak és a nyilvános magánlevéltárak anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét.
+
+37. § (1) A 2012. január 1. napjával állami tulajdonba került, a Magyar Nemzeti Levéltár tagintézményeinek elhelyezéséül szolgáló ingatlanok, ingatlanrészek térítésmentesen a Magyar Nemzeti Levéltár vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötendő vagyonkezelési szerződésben foglaltak az irányadók.
+
+(2) A Magyar Nemzeti Levéltár tagintézményei által levéltári célra használt önkormányzati tulajdonban lévő ingatlanok esetében a Magyar Nemzeti Levéltárat ingyenes használati jog illeti meg.

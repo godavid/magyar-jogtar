@@ -231,7 +231,11 @@ használhatja fel.
 - f) minősítő és ellenőrzési rendszereket működtet;
 - g) a tisztességtelen verseny vagy a tisztességtelen kereskedelmi gyakorlat tilalmára vonatkozó jogszabályokba ütköző magatartás esetén indítványozhatja a hatáskörrel rendelkező szervnél a szükséges intézkedés megtételét;
 - h) határozatban figyelmezteti a tagok és a fogyasztók érdekeivel ellentétes gazdasági tevékenységet folytató, és ezzel a tagok és a velük gazdasági kapcsolatban levő más vállalkozások széles körének jó hírnevét sértő vagy veszélyeztető tagot;
-- i) amennyiben az agrárkamara a kamarai tagot az etikai szabályzatban meghatározottak szerint megbízható üzleti partnerként minősíti, erről a kamarai tag kérelmére nyilatkozik.
+- i) amennyiben az agrárkamara a kamarai tagot az etikai szabályzatban meghatározottak szerint megbízható üzleti partnerként minősíti, erről a kamarai tag kérelmére nyilatkozik;
+- j) agrárgazdasági tevékenység gyakorlásával összefüggő általános szerződési feltétel alkalmazásáról előzetes egyeztetést tart,
+- k) megfelelő határidő biztosításával javaslatot tesz az agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott, és a b) pontban foglaltakkal ellentétes rendelkezést tartalmazó általános szerződési feltétel módosítására,
+- l) a j) és k) pont szerinti eljárások eredménytelensége esetén agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott általános szerződési feltételként a szerződés részévé váló tisztességtelen kikötés érvénytelenségének megállapítását kérheti a bíróságtól,
+- m) agrárgazdasági tevékenység gyakorlásával összefüggésben alkalmazott általános szerződési feltétellel kapcsolatos álláspontjáról az agrárkamara internetes honlapján tájékoztatót tesz közzé.
 
 (3) Az agrárkamara az agrárgazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesítése céljából
 
@@ -243,6 +247,17 @@ használhatja fel.
 - f) kezdeményezi a tagok általános gazdasági érdekeit elősegítő jogszabály meghozatalát, illetve a tagok általános gazdasági érdekeivel összhangban nem levő jogszabály és egyéb intézkedés módosítását, hatályon kívül helyezését.
 
 (4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában.
+
+14/A. § (1) Amennyiben fajta és mennyiség szerint meghatározott mezőgazdasági termény tulajdonának betakarítást követő időpontban történő átruházására olyan általános szerződési feltétel alapján kerül sor, amelynek megkötésére még a termés betakarítása előtt került sor, az agrárkamara kérheti a bíróságtól az általános szerződési feltétel tisztességtelen kikötésére történő hivatkozással annak érvénytelenségének megállapítását.
+
+(2) Az (1) bekezdésben foglaltak nem alkalmazhatók
+
+- a) ha a mennyiség meghatározására meghatározott területen megtermelt összes terményre, vagy az összes termény meghatározott hányada alapján kerül sor, vagy
+- b) az árutőzsdei kereskedőcégek egymás közti szerződéseinél.
+
+(3) Az (1) bekezdés szerinti eljárás jogerős befejezéséig az általános szerződési feltétel teljesítésével összefüggésben bíróság, választottbíróság előtt folyamatban levő tárgyalást erre irányuló kérelem esetén fel kell függeszteni.
+
+(4) Az agrárkamara megalakulásáig az (1) bekezdés szerinti jogkört a Magyar Agrárkamara gyakorolja.
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 

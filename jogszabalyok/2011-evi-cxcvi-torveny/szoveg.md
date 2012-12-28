@@ -80,6 +80,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - j) a barlang,
 - k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat.
+- l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
@@ -270,7 +271,8 @@ javára történik.
 - h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - i) az országos közutak és műtárgyaik, országos törzshálózati vasúti pálya, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
 - j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
-- k) az a)–j) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+- k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése.
+- m) az a)–l) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 
@@ -455,9 +457,11 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 
 (12) A Módtv. által megállapított 5. § (5)–(7) bekezdésében foglaltaknak megfelelően a helyi önkormányzat képviselő-testülete köteles 2012. október 31-ig módosítani rendeletét.
 
+18/A. § A 4. § (1) bekezdés l) pontja és 12. § (1) bekezdés k) pontja szerinti rendelkezést a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépését követően létrehozott vagy a földgázellátásról szóló 2008. évi XL. törvénynek a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvénnyel megállapított 124/A. §-a szerint megvásárolt biztonsági földgáztárolókra kell alkalmazni.
+
 19. § E törvény
 
-- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11. §-a, 12. § (1) és (3)–(14) bekezdése, 13. §-a, 17. § (2) bekezdése, 18. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
+- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11. §-a, 12. § (1) és (3)–(14) bekezdése, 13. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
 - b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján,
 - c) 14. §-a, 15. §-a és 17. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 

@@ -692,7 +692,8 @@ képviselője.
 
 - a) jelölje ki az előadó-művészeti államigazgatási szervet,
 - b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait,
-- c) határozza meg a balettművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait.
+- c) határozza meg a balettművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
+- d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

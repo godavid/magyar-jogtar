@@ -204,11 +204,11 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 (7) Az 54–55. §, a 79. § (2)–(3) bekezdése, a 80. §, a 82–85. §, a 87–89. §, a 92. § és a 93. § 2012. július 21-én lép hatályba.
 
-(7a) A 65. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(7a)
 
 (8) Az 1., 3. és 5. § 2013. május 1-jén lép hatályba.
 
-(9) A 21. § 2014. január 1-jén lép hatályba.
+(9) A 21. § és a 65. § (2) bekezdése 2014. január 1-jén lép hatályba.
 
 164. §
 

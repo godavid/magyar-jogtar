@@ -15,11 +15,11 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 - c) hitelező: az a pénzügyi intézmény és az a pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 - d) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés, ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést is, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
 - e)
-- f) lakóingatlan: a lakás céljára létesített és az ingatlan-nyilvántartásban
+- f) lakóingatlan: a Nemzeti Eszközkezelő által megvásárolható, lakás céljára létesített és az ingatlan-nyilvántartásban
   - fa) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
   - fb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese,
 - g) pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
-- h)
+- h) lakhatási célú ingatlan: a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgáló, erre a célra épített állami tulajdonú ingatlan,
 - i) természetes személy:
   - ia) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
   - ib) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
@@ -51,7 +51,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 - a) a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott, a hiteladós vagy a zálogkötelezett lakhatását biztosító lakóingatlant az állam nevében és javára megvásárolja,
 - b) az általa megvásárolt lakóingatlan vonatkozásában eljár az állam tulajdonjogának ingatlan-nyilvántartási bejegyzése érdekében,
-- c) az általa megvásárolt lakóingatlan felett vagyonkezelői jogot gyakorol,
+- c) az általa megvásárolt lakóingatlan és a lakhatási célú ingatlan felett vagyonkezelői jogot gyakorol,
 - d) a vagyonkezelésében lévő állami vagyont közvetlenül vagy magánjogi szerződés útján hasznosítja,
 - e) a vagyonkezelésében lévő állami vagyonnal kapcsolatos magánjogi jogviszonyokban képviseli az államot,
 - f) az állami feladatok ellátása során az állami vagyont használó természetes személyek részére az állami tulajdon használatához szükséges szolgáltatásokat nyújt.
@@ -60,7 +60,7 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 4. § (1) Ha a Nemzeti Eszközkezelő a 3. § (1) bekezdésben meghatározott feladatai ellátása során közreműködőt vesz igénybe, a közreműködőnek rendelkeznie kell mindazon személyi, tárgyi és biztonsági feltétellel, amely biztosítja a kiszervezett tevékenység maradéktalan és szakszerű ellátását és a személyes adatok védelmét.
 
-(2) A Nemzeti Eszközkezelő a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 10. § (1) bekezdésében meghatározott feladatait jogszabályban kijelölt költségvetési szerv, 100%-os állami tulajdonban vagy 100%-os önkormányzati tulajdonban álló gazdasági társaság, vagy ezek 100%-os tulajdonában álló gazdasági társaság kizárólagos jog alapján látja el.
+(2) A Nemzeti Eszközkezelő a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 10. § (1) bekezdésében meghatározott feladatait – a lakhatási célú ingatlanok kivételével – jogszabályban kijelölt költségvetési szerv, 100%-os állami tulajdonban vagy 100%-os önkormányzati tulajdonban álló gazdasági társaság, vagy ezek 100%-os tulajdonában álló gazdasági társaság kizárólagos jog alapján látja el.
 
 5. § (1) A Nemzeti Eszközkezelő és a pénzügyi intézmény a lakóingatlanok Nemzeti Eszközkezelő általi megvásárlása érdekében történő együttműködésre vonatkozó keretszerződést köt.
 
@@ -264,20 +264,27 @@ törli az ingatlan-nyilvántartásból.
 
 #### 12. A lakásbérleti szerződés feltételei
 
-22. § (1) A Nemzeti Eszközkezelő a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel (a továbbiakban együtt: bérlő) az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlan tekintetében határozatlan időtartamra lakásbérleti szerződést köt. Ha a megvásárolt lakóingatlannak több tulajdonosa volt, a Nemzeti Eszközkezelő a lakásbérleti szerződést a lakóingatlan valamennyi, a Nemzeti Eszközkezelő általi megvásárlása időpontjában az ingatlan-nyilvántartásba bejegyzett tulajdonosával mint bérlőtársakkal köti meg.
+22. § (1) A Nemzeti Eszközkezelő
+
+- a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra
+- b) a pályázat alapján kiválasztott, jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel a lakhatási célú ingatlanra
+
+[az a) és b) pont szerinti személy a továbbiakban együtt: bérlő] vonatkozóan határozatlan időtartamra lakásbérleti szerződést köt.
+
+(1a) Ha a megvásárolt lakóingatlannak több tulajdonosa volt, a Nemzeti Eszközkezelő a lakásbérleti szerződést a lakóingatlan valamennyi, a Nemzeti Eszközkezelő általi megvásárlása időpontjában az ingatlan-nyilvántartásba bejegyzett tulajdonosával mint bérlőtársakkal köti meg.
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
 
 23. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
-- a) a bérlő a lakóingatlanba a lakásbérleti szerződés létrejöttét követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket, a zálogkötelezettet, illetve a hiteladóst fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
-- b) a lakóingatlanra bérlőtársi jogviszonyt létesíteni – a 22. § (1) bekezdésében meghatározott eset kivételével – nem lehet,
-- c) a lakásbérleti szerződés megszűnése után a volt bérlő és a lakóingatlanban visszamaradó más személyek elhelyezésre nem tarthatnak igényt,
+- a) a bérlő a lakóingatlanba, illetve a lakhatási célú ingatlanba a lakásbérleti szerződés létrejöttét követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket, a zálogkötelezettet, illetve a hiteladóst fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
+- b) a lakóingatlanra, illetve a lakhatási célú ingatlanra bérlőtársi jogviszonyt létesíteni – a 22. § (1) és (1a) bekezdésében meghatározott eset kivételével – nem lehet,
+- c) a lakásbérleti szerződés megszűnése után a volt bérlő és a lakóingatlanban, illetve a lakhatási célú ingatlanban visszamaradó más személyek elhelyezésre nem tarthatnak igényt,
 - d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke, továbbá a zálogkötelezett, illetve a hiteladós a lakásbérleti jogot folytathatják,
 - e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő lakásban történő életvitelszerű bentlakásának kötelezettségét,
-- f) a Lakástörvény 13. § (1) bekezdésében meghatározott lakóingatlanon belüli költségek a bérlőt terhelik,
+- f) a lakóingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt, a lakhatási célú ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a vagyonkezelőt terhelik,
 - g) a bérlő szavatol azért, hogy a lakóingatlan a Nemzeti Eszközkezelőnek történő átadásakor rendeltetésszerű használatra alkalmas legyen,
-- h) a bérlőt terhelik a lakóingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
+- h) a bérlőt terhelik a lakóingatlan, illetve a lakhatási célú ingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
 - i) a bérbeadó jogosult a bérleti szerződést felmondani, ha a bérlő felszólítás ellenére sem fizeti meg a lakbért, az ingatlannal kapcsolatos közüzemi díjakat vagy társasházi lakás esetében a közös költséget,
 - j) a bérbeadó az ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
 - k) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen.
@@ -289,7 +296,7 @@ törli az ingatlan-nyilvántartásból.
 
 24. § (1) A Nemzeti Eszközkezelő a lakásbérleti szerződést felmondhatja, ha a bérlő vagy a háztartás más tagja az adásvételi szerződés megkötése érdekében hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a Nemzeti Eszközkezelőt megtévesztette.
 
-(2) Ha a Nemzeti Eszközkezelő a lakásbérleti jogviszonyt felmondja, az üresen maradt lakóingatlanra más, az e törvény szerint bérleti jogviszony létesítésére jogosult bérlővel bérleti szerződést köthet.
+(2) Ha a Nemzeti Eszközkezelő a lakásbérleti jogviszonyt felmondja, az üresen maradt lakóingatlanra, illetve a lakhatási célú ingatlanra más, az e törvény szerint bérleti jogviszony létesítésére jogosult bérlővel bérleti szerződést köthet.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -302,7 +309,8 @@ törli az ingatlan-nyilvántartásból.
 - c) a bérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a hiteladós szociális helyzetét is figyelembe vevő feltételeket és szabályokat,
 - d) az e törvény hatálya alá tartozó lakóingatlanok bérlők közötti cseréjéhez való hozzájárulás feltételeit,
 - e) a Nemzeti Eszközkezelő által megvásárolandó lakóingatlanok maximális számát, valamint ezen lakóingatlanok kiválasztásának módját, ha a megvételre felajánlott lakóingatlanok száma a jogszabályban meghatározott maximális havi darabszámot az adott hónapban meghaladja,
-- f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket.
+- f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
+- g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait.
 
 #### 15. Hatályba léptető rendelkezés
 

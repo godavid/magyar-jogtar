@@ -73,6 +73,13 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - a) folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, jogerős döntéssel még le nem zárt eljárás,
 - b) folyamatban lévő ügy: az intézkedésben való részvétel iránti kérelem benyújtásától a kérelemre hozott döntés alapján az ügyfelet terhelő kötelezettségek fennállásáig tartó időszak.
 
+9/B. § Az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer a mezőgazdasági és vidékfejlesztési szerv és a hatáskörrel rendelkező hatóság hatáskörébe tartozó eljárásokban részt vevő ügyfelek azonosítását és törzsadatainak nyilvántartását szolgáló rendszer; amely tekintetében a törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
+
+- a) ügyfél törzsadat: a 28. § (2) bekezdése szerinti adatok;
+- b) ügyfél-azonosító: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer keretében megállapított, az ügyfél egyedi azonosítását szolgáló szám;
+- c) kérelemre nyilvántartásba vett ügyfél: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben beazonosított és ügyfél-azonosítóval rendelkező ügyfél, aki (amely) a mezőgazdasági és vidékfejlesztési szervnél kérte a nyilvántartásba vételét;
+- d) nyilvántartásba vett ügyfél: az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben beazonosított és ügyfél-azonosítóval rendelkező ügyfél, akit (amelyet) a hatáskörrel rendelkező hatóság, az élelmiszerlánc-felügyeleti szerv, valamint a nem kérelemre induló eljárásai kapcsán a mezőgazdasági és vidékfejlesztési támogatási szerv vett nyilvántartásba.
+
 ### A törvény hatálya
 
 10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő közigazgatási hatósági eljárásban részt vevő személyre e törvény rendelkezéseit kell alkalmazni.
@@ -137,7 +144,7 @@ gyakorolja.
 
 (13) A Kormány a miniszter útján az agrárgazdaság fejlesztéséről szóló 1997. évi CXIV. törvény 2. §-ában foglaltak szerint évente beszámol az Országgyűlésnek a törvény hatálya alá tartozó intézkedések végrehajtásáról.
 
-(14) E törvény 28., 29–30/A. §-ában meghatározott nyilvántartási kötelezettség kiterjed a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is.
+(14) A 28–30/A. §-ban meghatározott nyilvántartással összefüggő kötelezettségek kiterjednek a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is. Az élelmiszerlánc-felügyeleti szerv nyilvántartásaira vonatkozó törvény rendelkezéseit e törvény rendelkezéseivel együtt kell alkalmazni.
 
 12. § (1) Ha e törvény másként nem rendelkezik, a törvény hatálya alá tartozó közigazgatási hatósági eljárásban – a (2)–(4) bekezdésekben meghatározott kivételekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -149,7 +156,7 @@ gyakorolja.
 
 (5) A törvény hatálya alá tartozó intézkedéssel kapcsolatban elektronikus kapcsolattartásra akkor van lehetőség, ha azt e törvény vagy az e törvény felhatalmazása alapján kiadott jogszabály az ügy típusának megjelölésével lehetővé teszi. Ez esetben a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus ügyintézésre vonatkozó rendelkezéseit kell alkalmazni.
 
-(6) Jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, illetve adatszolgáltatási kötelezettségét teljesítenie.
+(6) Jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, adatszolgáltatási kötelezettségét teljesítenie, illetve elektronikus úton kell kapcsolatot tartania.
 
 ### II. Fejezet — AZ IRÁNYÍTÁS ÉS VÉGREHAJTÁS EGYES INTÉZMÉNYEI
 
@@ -294,7 +301,7 @@ feladatok ellátásáért.
 
 22. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörébe tartozó feladatok végrehajtásához:
 
-- a) az ügyfél természetes személyazonosító adatait, lakcímadatait, regisztrációs számát,
+- a) az ügyfél természetes személyazonosító adatait, lakcímadatait, ügyfél-azonosító számát,
 - b) az egyes intézkedésekben való részvétellel összefüggő eljárás során az ügyfélre vonatkozóan keletkezett adatokat,
 - c) a monitoring-adatszolgáltatás keretében gyűjtött adatokat, valamint
 - d) az ügyfél ellenőrzése során harmadik személyről nyert – személyes adatként az a) pont szerinti – adatokat [az a)–d) pontok a továbbiakban együtt: támogatási adat] az adott támogatási jogcímre vonatkozó intézkedésben való jogosulatlan részvétel végrehajtásához való jog elévüléséig kezelheti.
@@ -315,7 +322,7 @@ feladatok ellátásáért.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó – a gazdálkodással, a termőföld-hasznosítással, az állattartással, az erdőgazdálkodással, a mezőgazdasági termékek tárolásával, feldolgozásával, valamint az egyéb mezőgazdasági tevékenységgel, halászattal kapcsolatos – támogatási adatokat egyedi azonosításra alkalmatlan módon, illetve a támogatások összegével, felhasználásával kapcsolatos adatokat összesített adatként statisztikai célú felhasználásra térítésmentesen adja át a Központi Statisztikai Hivatalnak. Az adatátadási kötelezettség írásbeli megkeresés alapján és csak a Központi Statisztikai Hivatal jogszabályban rögzített feladatainak ellátásához szükséges mértékig teljesíthető.
 
-(5) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartási rendszeréből a vízitársulatok által törvény szerint kezelt adatokat a vízitársulat megkeresésére díjmentesen évente egy alkalommal átadja a vízitársulatnak.
+(5)
 
 ### A támogatási adatok védelmére vonatkozókülön rendelkezések
 
@@ -370,14 +377,14 @@ feladatok ellátásáért.
 
 26. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatok nyilvántartására az alábbi nyilvántartási rendszereket működteti:
 
-- a) ügyfél-nyilvántartási rendszer,
+- a) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer,
 - b) az intézkedések kezelésére szolgáló nyilvántartási és ellenőrzési rendszerek,
 - c) földterület azonosítási rendszer,
 - d) a szőlőültetvények országos térinformatikai nyilvántartása,
 - e) intervenciós raktárregiszter,
 - f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
 - g) monitoring adat-nyilvántartási rendszer,
-- h) tevékenységihely-nyilvántartási rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+- h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -431,41 +438,68 @@ feladatok ellátásáért.
 
 ### Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer
 
-28. § (1) Az intézkedésekben, valamint a hatáskörrel rendelkező hatóság kérelemre induló eljárásaiban való részvétel feltétele, hogy az ügyfél legkésőbb a kérelem benyújtásával egyidejűleg nyilvántartásba vetesse magát a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben (e törvény alkalmazásában: ügyfél-nyilvántartási rendszer).
+28. § (1) A mezőgazdasági és vidékfejlesztési szerv és a hatáskörrel rendelkező hatóság intézkedéseiben érintett ügyfelek azonosítását és a (2) bekezdés alapján törzsadatnak nyilvánított adatait az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben (a továbbiakban: ügyfél-nyilvántartási rendszer) kell nyilvántartani.
 
-(2) Az ügyfél-nyilvántartási rendszerben való nyilvántartás céljából a nyilvántartásba vétel iránti kérelemnek tartalmaznia kell az ügyfél:
+(2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosító számának megállapításához nyilvántartásba kell venni:
 
-- a) természetes személyazonosító adatait, állampolgárságát, elnevezését, rövidített cégnevét;
-- b) képviseletére jogosult nevét, lakcímét;
-- c) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél külföldi természetes személy, vagy külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát; továbbá pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő külföldi természetes személy vagy külföldi vállalkozás esetén az adózás rendjéről szóló törvény szerinti adóazonosító számát;
-- d) lakcímét, székhelyét, telephelyét vagy telephelyeit;
-- e) statisztikai számjelét, amennyiben az ügyfél nem természetes személy;
-- f) levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá elektronikus kapcsolattartás esetén elektronikus levélcímét, valamint pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét);
-- g) iratai őrzésének helyét, ha az nem azonos az ügyfél székhelyével vagy lakóhelyével;
-- h) jogelődjét és jogelődjének regisztrációs számát, adóazonosító számát;
-- i) cégjegyzékszámát;
-- j) költségvetési szerv esetén típusát, törzskönyvi nyilvántartási számát;
-- k) regisztráció típusát;
-- l) ügyfélkör szerinti azonosító adatát.
+- a) természetes személy esetén
+  - aa) nevét,
+  - ab) anyja nevét,
+  - ac) születési helyét és idejét,
+- b) nem természetes személy esetén
+  - ba) nevét,
+  - bb) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
+  - bc) székhelyét.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv kérelemre induló eljárásaiban való részvétel feltétele, hogy az ügyfél legkésőbb a kérelem benyújtásával egyidejűleg kérelmezze nyilvántartásba vételét az ügyfél-nyilvántartási rendszerben. A nyilvántartásba vétel iránti kérelemnek a (2) bekezdésben foglalt adatok mellett tartalmaznia kell
+
+- a) természetes személy esetén
+  - aa) születéskori nevét,
+  - ab) állampolgárságát,
+  - ac) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító jelét,
+  - ad) lakóhelyét (egyéni vállalkozó esetében székhelyét),
+  - ae) kiskorú esetében törvényes képviselője, cselekvőképtelen vagy korlátozottan cselekvőképes esetében gyám, gondnok jelen a) pont szerinti adatát,
+  - af) iratai őrzésének helyét, ha az nem azonos az ügyfél lakóhelyével,
+  - ag) levelezési címét, ha az nem azonos az ügyfél lakóhelyével,
+  - ah) elektronikus kapcsolattartás esetén elektronikus levélcímét,
+  - ai) ügyfélkör szerinti azonosító adatát,
+- b) nem természetes személy esetén
+  - ba) elnevezését, továbbá rövidített cégnevét,
+  - bb) képviseletére jogosult nevét, lakcímét,
+  - bc) telephelyét vagy telephelyeit,
+  - bd) cégjegyzékszámát,
+  - be) iratai őrzésének helyét, ha az nem azonos az ügyfél székhelyével,
+  - bf) levelezési címét, ha az nem azonos az ügyfél székhelyével,
+  - bg) elektronikus kapcsolattartás esetén elektronikus levélcímét,
+  - bh) költségvetési szerv esetén típusát, törzskönyvi nyilvántartási számát,
+  - bi) statisztikai számjelét,
+  - bj) működésének kezdetét,
+  - bk) ügyfélkör szerinti további azonosító adatát,
+- c) külföldi természetes személy vagy külföldi vállalkozás esetén az a) és b) pontban foglalt adatok mellett az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
+- d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében.
+
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
 
 - a) ellátja a nyilvántartás vezetésével összefüggő hatósági feladatokat,
-- b) megállapítja a regisztrációs (nyilvántartási) számot,
+- b) megállapítja az ügyfél-azonosító (nyilvántartási) számot,
 - c) törvény felhatalmazása alapján, az abban meghatározott körben külön jogszabály alapján adatszolgáltatást teljesít a nyilvántartásból,
-- d) működteti az ügyfél-nyilvántartás informatikai rendszerét.
+- d) működteti az ügyfél-nyilvántartás informatikai rendszerét,
+- e) nyilvántartja az ügyfél besorolását, amely lehet:
+  - ea) nyilvántartásba vett,
+  - eb) kérelemre nyilvántartásba vett,
+- f) a kérelemre nyilvántartásba vett ügyfél számára a nyilvántartott adatokról hatósági bizonyítványt állít ki.
 
-(4) A nyilvántartásba vétel iránti kérelmet az erre rendszeresített hatályban levő nyomtatványon a mezőgazdasági és vidékfejlesztési támogatási szervnél, valamint a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
+(5) A nyilvántartásba vétel iránti kérelmet az erre rendszeresített nyomtatványon a mezőgazdasági és vidékfejlesztési támogatási szervnél vagy a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
 
-(5) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörrel rendelkező hatóság részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá feladataik ellátása, a szükséges ellenőrzések lefolytatása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést.
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti szerv részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá az egyes ügyekhez, eljárásokhoz kapcsolódó ellenőrzések lefolytatása érdekében, az azok lefolytatásához szükséges mértékben, a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti szerv kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést. Az így átvett személyes adat kizárólag az ellenőrzések lefolytatása célja érdekében kezelhető, az ellenőrzéssel érintett ügy lezárását követő ötödik év végéig.
 
-(6) A mezőgazdasági és vidékfejlesztési támogatási szerv, illetve a hatáskörrel rendelkező hatóság a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv, a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti információs rendszeren keresztül az élelmiszerlánc-felügyeleti szerv a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
 
-(7) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását a regisztrációs szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél csak egy regisztrációs számot kaphat.
+(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg.
 
 28/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az az ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését is.
 
-(2) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az a támogatást igénylő vagy támogatást nem igénylő, de pénzügyi kapcsolattal rendelkező ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette fizetési számlaszámát, valamint annak devizanemét. Nemzetközi fizetési számlaszámot a külföldi vállalkozásnak vagy külföldi természetes személy ügyfélnek kell megadnia. A mezőgazdasági és vidékfejlesztési támogatási szerv megtagadja a kifizetés teljesítését és elutasító döntést hoz, ha az ügyfél vagy más személy az ügyfél-nyilvántartásban rögzített, az ügyfél nevén szereplő fizetési számlától eltérő személy nevén szereplő fizetési számlára történő kifizetés teljesítése iránt kérelmet nyújt be.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az az ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette fizetési számlaszámát, valamint annak devizanemét. A külföldi vállalkozás vagy külföldi természetes személy ügyfél nemzetközi fizetési számlaszámot is megadhat. A mezőgazdasági és vidékfejlesztési támogatási szerv megtagadja a kifizetés teljesítését és elutasító döntést hoz, ha az ügyfél vagy más személy az ügyfél-nyilvántartásban rögzített, az ügyfél nevén szereplő fizetési számlától eltérő személy nevén szereplő fizetési számlára történő kifizetés teljesítése iránt kérelmet nyújt be.
 
 (3) A (2) bekezdésben meghatározott fizetési számlaszám bejelentéséhez az ügyfél nevére szóló fizetési számla létezését igazoló két hónapnál nem régebbi fizetésiszámla-kivonat másolatát, vagy a számlát vezető pénzforgalmi szolgáltatónak a kérelem benyújtási időpontját megelőző két hónapnál nem régebbi nyilatkozatát kell csatolni, amely tartalmazza az ügyfél azonosításához szükséges adatokat, valamint az ügyfél nevére szóló fizetési számlaszámot.
 
@@ -479,7 +513,7 @@ feladatok ellátásáért.
 
 (3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától hatályos.
 
-29. § (1) Az ügyfél köteles a mezőgazdasági és vidékfejlesztési támogatási szervet az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változásról, valamint a (4) bekezdés szerinti változásról – annak bekövetkezésétől számított tizenöt napon belül – a mezőgazdasági és vidékfejlesztési támogatási szerv által előírt hatályban levő nyomtatványon értesíteni azzal, hogy a változás-bejelentés – a 28/B. §-ban foglalt kötelezettség kivételével – elektronikus úton is teljesíthető. A regisztráció típusa a pénzügyi következményekkel járó intézkedéssel kapcsolatos eljárás megindítására irányuló kérelem beadásával egyidejűleg is módosítható.
+29. § (1) Az ügyfél köteles a mezőgazdasági és vidékfejlesztési támogatási szervet az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változásról, valamint a (4) bekezdés szerinti változásról – annak bekövetkezésétől számított tizenöt napon belül – a mezőgazdasági és vidékfejlesztési támogatási szerv által előírt, hatályban levő nyomtatványon értesíteni azzal, hogy a változás-bejelentés elektronikus úton is teljesíthető. Az ügyfél-azonosító szám típusa a pénzügyi következményekkel járó intézkedéssel kapcsolatos eljárás megindítására irányuló kérelem benyújtásával egyidejűleg is módosítható.
 
 (2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a hatáskörrel rendelkező hatóság a változásról egyéb módon tudomást szerez, az ügyfél a változásbejelentési kötelezettséget a mezőgazdasági és vidékfejlesztési támogatási szerv által kibocsátott felszólításban meghatározott határidőben köteles teljesíteni.
 
@@ -489,19 +523,23 @@ feladatok ellátásáért.
 
 (5) Az (1)–(2) bekezdés szerinti kötelezettség elmulasztása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet, a vagyonfelügyelőt, felszámolót, végelszámolót, vagy a pénzügyi gondnokot végzésben a kötelezettség teljesítésére hívja fel, amely teljesítésre kötelező döntésben előírt határidő elmulasztása esetén mulasztási bírság fizetésére kötelezi.
 
-29/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél által bejelentett adatokat az ellenőrzések során összevetheti a 26. § (3) bekezdésében meghatározott nyilvántartások adataival.
+29/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél 28. § (4) bekezdésében foglalt adatait az egyes intézkedésekben való részvétellel összefüggő ellenőrzések során összevetheti a 26. § (3) bekezdésében meghatározott nyilvántartások adataival.
 
-(2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy az ügyfél által bejelentett és a 26. § (3) bekezdésében meghatározott nyilvántartások között eltérés van, az ügyfelet – az adateltérés okának tisztázása érdekében – a bejelentett adatok igazolására szólítja fel.
+(2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy az ügyfél nyilvántartott adatai és a 26. § (3) bekezdésében meghatározott nyilvántartások között eltérés van, az ügyfelet – az adateltérés okának tisztázása érdekében – a bejelentett adatok igazolására szólítja fel.
 
-(3) Amennyiben a (2) bekezdésben foglalt eltérést a mezőgazdasági és vidékfejlesztési támogatási szerv közhiteles nyilvántartás adata alapján állapítja meg, úgy a közhiteles nyilvántartásban szereplő adatot – a (2) bekezdés szerinti igazolásra történő felszólítás nélkül – az ügyfél-nyilvántartási rendszerben átvezeti és erről az ügyfelet értesíti.
+(3) Amennyiben a (2) bekezdésben foglalt eltérést a mezőgazdasági és vidékfejlesztési támogatási szerv közhiteles nyilvántartás adata alapján állapítja meg, a közhiteles nyilvántartásban szereplő adatot – a (2) bekezdés szerinti igazolásra történő felszólítás és külön értesítés nélkül – az ügyfél-nyilvántartási rendszerben átvezeti.
 
-30. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv kérelem alapján nyilvántartásba veszi az ügyfelet, és részére regisztrációs számot állapít meg.
+30. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv kérelem alapján nyilvántartásba veszi az ügyfelet, és részére besorolást állapít meg.
 
-(2) Az ügyfélnek a regisztrációs számát az intézkedésekben való részvétellel, illetve a hatáskörrel rendelkező hatóság eljárásaival összefüggő valamennyi rendszeresített nyomtatványon fel kell tüntetnie.
+(2) A kérelemre nyilvántartásba vett ügyfélnek az ügyfélazonosító-számát az intézkedésekben való részvétellel kapcsolatos valamennyi rendszeresített nyomtatványon fel kell tüntetnie.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a regisztrációs szám megállapítása iránti kérelmet érdemi vizsgálat nélkül végzéssel elutasítja, ha az ügyfél által bejelentett adatok hiányosak.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartásba vétel iránti kérelmet érdemi vizsgálat nélkül végzéssel elutasítja, ha az ügyfél által bejelentett adatok hiányosak.
 
-(4) Annak részére, aki (amely) nyilvántartásba vétel iránti kérelmet nem nyújtott be, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság – amennyiben ez a jogszabályban meghatározott feladatainak végrehajtásához szükséges – az ügyfél azonosítása céljából technikai azonosítót állapíthat meg.
+(4) Annak részére, aki (amely) nyilvántartásba vétel iránti kérelmet nem nyújtott be, a mezőgazdasági és vidékfejlesztési támogatási szerv, a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti szerv – amennyiben ez a jogszabályban meghatározott feladatainak végrehajtásához szükséges – az ügyfél azonosítása céljából ügyfél-azonosító számot állapíthat meg.
+
+(5) A nyilvántartásba vett besorolású ügyfél az erre rendszeresített formanyomtatványon és a szükséges adatok bejelentésével kérheti besorolásának megváltoztatását. A besorolás megváltoztatása esetén az ügyfélazonosító-szám nem változik.
+
+(6) A kérelemre nyilvántartásba vett ügyfél adatait a mezőgazdasági és vidékfejlesztési támogatási szerv, a nyilvántartásba vett ügyfél adatait az ügyfél nyilvántartását kezdeményező szerv karbantartja.
 
 30/A. § Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv tudomására jut, hogy az ügyfél az ügyfél-nyilvántartási rendszerhez kapcsolódó változás-bejelentési kötelezettségét elmulasztotta, a bejelentési és adatszolgáltatási kötelezettség teljesítéséig, valamint az ezek elmulasztása miatt kiszabott mulasztási bírság megfizetéséig az ügyfél részére a mezőgazdasági és vidékfejlesztési támogatási szerv a törvény hatálya alá tartozó intézkedések alapján, valamint a hatáskörrel rendelkező hatóság a kérelemre induló eljárásaiban jogosultságot nem állapít meg, illetve támogatást nem folyósít, valamint az ügyfél által benyújtott új kérelmeket érdemi vizsgálat nélkül elutasítja.
 
@@ -603,7 +641,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
 
-(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. A regisztrációs szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható.
+(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható. A regisztrációs adatok módosítása iránti kérelem elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
@@ -653,6 +691,8 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában az elsőfokú határozat meghozatalát követően a támogatási kérelem rangsort nem érintő adatai módosításának legkésőbbi benyújtási határideje a kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző harmincadik nap. Rangsort érintő adatnak minősül minden olyan adat, érték, vállalás, ami szerepel az adott intézkedés értékelési szempontjai között.
 
+(2a) Az EMVA-ból és az EHA-ból finanszírozott beruházási intézkedések esetén a kifizetési kérelem benyújtását követően a mezőgazdasági és vidékfejlesztési támogatási szerv a kifizetési kérelemben foglalt adatokat, az igazoló dokumentumokat, a támogatási határozatban foglalt adatokat, valamint a megvalósult beruházást összeveti egymással. Amennyiben a támogatási határozatban, a kifizetési kérelemben, továbbá az igazoló dokumentumokban foglalt adatok, illetve a helyszíni ellenőrzésen tapasztaltak eltérnek egymástól, de a támogatási cél megvalósult, a támogatási összeg nem nő és a támogatási egység műszaki tartalma negatív irányba nem változik (a továbbiakban: helyesbíthető eltérés) a mezőgazdasági és vidékfejlesztési támogatási szerv adategyeztetés keretében határidő tűzésével – a módosítható adatok, valamint a nem megfelelő igazoló dokumentumok pontos megjelölésével – felhívja az ügyfelet a kifizetési kérelemben szereplő adatok megfelelő módosítására, illetve megfelelő igazoló dokumentumok benyújtására. A módosítás csak helyesbíthető eltérésre terjedhet ki. A kifizetési kérelem elbírálására irányuló eljárást a mezőgazdasági és vidékfejlesztési támogatási szervnek a kifizetési kérelem módosítására, illetve a megfelelő igazoló dokumentumok benyújtására tűzött határidő leteltéig fel kell függeszteni.
+
 (3) Az EMVA-ból, és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem a kifizetési kérelem benyújtására nyitva álló időszakon belül nyújtható be.
 
 (4) Az EMGA-ból finanszírozott, valamint a tagállami hatáskörben hozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kérelem benyújtási határidejét követően a benyújtott kérelemre vonatkozóan nem nyújtható be olyan módosítási kérelem, ami az eredeti kérelemben megjelölt igényt, támogatási alapot vagy összeget meghaladja, kivéve ha
@@ -687,9 +727,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - a) a jogelőd kötelezettségeit a jogutódok vagyonarányosan teljesítik, teljesítés hiányában pedig a jogelőd tartozásáért egyetemlegesen felelnek,
 - b) a támogatásra vagyonarányosan jogosultak.
 
-(3) A támogatásra jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározott támogatási összeg tekintetében végzéssel dönt az örökös részére történő átutalásáról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás összegéről, úgy az ügyfél örököse, több örökös esetében örökrészük arányában örökösei jogosultak a támogatás igénybevételére. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás jellegű jogosultságról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik a támogatásra jogosulttá. A támogatás átutalásának feltétele, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási összeg átutalásáról.
+(3) A támogatásra jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározott támogatási összeg tekintetében végzéssel dönt az örökös részére történő átutalásáról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás összegéről, az ügyfél örököse, több örökös esetében örökrészük arányában örökösei jogosultak a támogatás igénybevételére. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás jellegű jogosultságról, az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, a haszonélvezeti jog jogosultja válik a támogatásra jogosulttá. A támogatás átutalásának feltétele, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen nyilvántartásba vetesse magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási összeg átutalásáról.
 
-(4) Az intézkedésben való részvételre jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározottak szerint dönt az egyes intézkedésekhez kapcsolódó nem támogatás jellegű jogosultságokról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a nem támogatás jellegű jogosultságokról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik jogosulttá. A nem támogatás jellegű jogosultság megállapításának feltétele továbbá, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a nem támogatás jellegű jogosultságokról.
+(4) Az intézkedésben való részvételre jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározottak szerint dönt az egyes intézkedésekhez kapcsolódó nem támogatás jellegű jogosultságokról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a nem támogatás jellegű jogosultságokról, az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, a haszonélvezeti jog jogosultja válik jogosulttá. A nem támogatás jellegű jogosultság megállapításának feltétele továbbá, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen nyilvántartásba vetesse magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a nem támogatás jellegű jogosultságokról.
 
 (5) A jogutód, illetve a haszonélvezeti jog jogosultja a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló követeléséről a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül az intézkedés jellegének megfelelő tartalmú okirattal igazolhatja, hogy jogosult a támogatás összegére, illetve a nem támogatás jellegű jogosultság igénybevételére. Amennyiben a jogutód, illetve a haszonélvezeti jog jogosultja a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül ilyen igazolást nem nyújt be a mezőgazdasági és vidékfejlesztési támogatási szervhez, úgy a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy év elteltével, de legkésőbb az örökhagyó elhunytától, illetve a jogelőd megszűnésétől számított három év elteltével megszűnik a támogatás folyósítására, illetve a nem támogatás jellegű jogosultság igénybevételére vonatkozó jogosultsága, és a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást végzéssel megszünteti, továbbá a nem támogatás jellegű jogosultságot a nemzeti tartalék javára elvonja.
 
@@ -699,7 +739,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (8) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában, a jogutód ügyfél az azonos intézkedésre, azonos támogatási kérelem benyújtási időszakban benyújtott támogatási kérelmekkel összefüggő kifizetési kérelmeit együttesen köteles benyújtani a mezőgazdasági és vidékfejlesztési támogatási szervhez.
 
-(9) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyféllel annak halálakor együtt élt házastársa vagy törvényes rend szerinti örököse kérelmére az intézkedéshez kapcsolódó eljárást megindíthatja. Ebben az esetben a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást a kérelem benyújtását követően felfüggeszti, majd a döntését a hagyatékátadó végzés benyújtását követően hozza meg.
+(9) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyféllel annak halálakor együtt élt házastársa vagy törvényes rend szerinti örököse (a továbbiakban: vélelmezett örökös) kérelmére az intézkedéshez kapcsolódó eljárást megindíthatja. Ebben az esetben a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást a kérelem benyújtását követően felfüggeszti azzal, hogy az érdemi döntés meghozatalához szükséges eljárási cselekményeket a vélelmezett örökös bevonásával elvégezheti, érdemi döntést azonban csak jogerős hagyatékátadó végzés benyújtását követően hoz.
 
 45/A. § (1) Amennyiben jogszabály másként nem rendelkezik a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelemben foglalt egyes igényeket vagy a megosztható igények egyes részeit elkülönítve is elbírálhatja.
 
@@ -832,7 +872,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - c) az eljárást megindító kérelmet az igény érvényesítésére jogosult aláírásával nem hitelesítette, kivéve az ügyfélkapun keresztül történő kérelembenyújtást;
 - d) a kérelmet nem az igény érvényesítésére jogosult személy terjesztette elő;
 - e) a kérelem a benyújtási időszakot megelőzően került benyújtásra, vagy elkésett;
-- f) az ügyfél nem rendelkezik regisztrációs számmal vagy a kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, regisztrációs szám megállapítására alkalmas kérelmet;
+- f) az ügyfelet nem kérelemre vették nyilvántartásba, vagy kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, ügyfél-azonosító szám megállapítására alkalmas kérelmet;
 - g) a pénzügyi következményekkel járó intézkedésben részt vevő ügyfél legkésőbb a kérelem benyújtásával egyidejűleg sem jelenti be a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését vagy fizetési számlaszámát;
 - h) a kérelem nem tartalmaz olyan adatot, dokumentumot, amely a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolható;
 - i) ha a támogatást igénylő, a pénzügyi következményekkel járó intézkedésekben való részvétel iránti kérelmet, felszámolási, végelszámolási vagy adósságrendezési eljárás alatt álló ügyfél nyújtotta be, kivéve, ha jogszabály ettől eltérően rendelkezik;
@@ -1133,7 +1173,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### VII. Fejezet — AZ ELJÁRÁS KÖLTSÉGEI
 
-74. § A törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi illetékmentes eljárásnak minősülnek:
+74. § E törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi díj- és illetékmentes eljárásnak minősülnek:
 
 - a) az intézkedésekben való részvétellel,
 - b) a mezőgazdasági vagyoni értékű jogra való jogosultság megállapításával,
@@ -1282,3 +1322,5 @@ rendeletben állapítsa meg.
 (2) E törvénynek a módosító rendelettel megállapított 31/C. §-át 2011. január 1-jétől kell alkalmazni.
 
 (3) E törvénynek a módosító rendelettel megállapított 79/A. §-át a módosító törvény hatálybalépését követően benyújtott támogatási és kifizetési kérelmek alapján indult elsőfokú, jogorvoslati és döntés-felülvizsgálati eljárásokban kell alkalmazni.
+
+86. § E törvénynek az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a folyamatban levő ügyekben és eljárásokban is kell alkalmazni azzal, hogy a Módtv. hatálybalépése előtt megállapított regisztrációs számok és technikai azonosítók ügyfél-azonosító számnak minősülnek, továbbá a regisztrált ügyfelek kérelemre nyilvántartásba vett, a technikai azonosítóval rendelkező ügyfelek nyilvántartásba vett ügyfeleknek minősülnek.
