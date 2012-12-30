@@ -972,9 +972,7 @@ alapszabadság illeti meg.
 
 (3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 66. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
 
-(4) Végrehajtási rendelet rendelkezhet az (1) és (3) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni.
-
-(5) Végrehajtási jogszabály rendelkezhet az egyes munkakörök betöltéséhez szükséges iskolai végzettség, illetve szakképesítés, szakképzettség megszerzése alóli végleges mentesítés szabályairól.
+(4)–(5)
 
 62. § A fizetési osztályok fizetési fokozatokra tagozódnak. Az egyes fizetési osztályok tizennégy fizetési fokozatot tartalmaznak.
 
@@ -1290,7 +1288,7 @@ okozta a kárt, vagy
   - al) az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés és végleges mentesítés szabályait;
 - b) a szociális, valamint a gyermekjóléti és gyermekvédelmi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - ba) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-  - bb) az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés és végleges mentesítés szabályait,
+  - bb)
   - bc) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
   - bd) munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
   - be) pótszabadságra jogosult oktató, nevelő munkát végzők körét,
