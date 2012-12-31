@@ -102,7 +102,7 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 75. § (1) Ez a törvény – a (2)–(7) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
 
-(2) A 16. § és az 60. § (2) bekezdése a kihirdetést követő 31. napon lép hatályba.
+(2) A 16. § és a 60. § (2) bekezdése a kihirdetést követő 31. napon lép hatályba.
 
 (3) A 13. § (5) bekezdése és a 37. § (2) bekezdése 2012. szeptember 1. napján lép hatályba.
 

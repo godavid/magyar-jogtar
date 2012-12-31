@@ -550,7 +550,13 @@ biztosítja.
 
 (5)
 
-(6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet az államháztartás rendjéről szóló törvény alapján az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító feladatot ellátó költségvetési szerv is.
+(6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet
+
+- a) az államháztartásról szóló törvény alapján az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító feladatot ellátó, illetve a támogatási forrást kezelő költségvetési szerv,
+- b) az európai uniós forrásból finanszírozott költségvetési támogatás esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet, továbbá
+- c) a közigazgatási hatósági ügyben eljáró hatóság
+
+is.
 
 #### 41. A bíróság adatszolgáltatási kötelezettsége
 
@@ -587,13 +593,13 @@ biztosítja.
 
 (3) A 106. § 2012. november 30-án lép hatályba.
 
-(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2014. július 1-jén lép hatályba.
 
 #### 46. Átmeneti rendelkezések
 
-99. § (1) A 2013. január 1. napja előtt bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
+99. § (1) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
 
-(2) A 2013. január 1. napja előtt bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
+(2) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
 
 100. § (1) Az OBH vezeti az interneten azonosítás nélkül elérhető országos névjegyzéket.
 
@@ -626,13 +632,13 @@ biztosítja.
 
 (3) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 59. § (1) és (5) bekezdését, 60. §-át és 61. §-át a Mód. tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-(4) A bizonyítvány és a másolat a szervezet 2013. január 1. napján és azt követően fennálló vagy törölt adatokat tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
+(4) A bizonyítvány és a másolat 2014. július 1. napjától a szervezet 2014. július 1. napján és azt követően fennálló vagy törölt adatait tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
 
-105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2013. január 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2013. január 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2013. január 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
+105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2014. július 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2014. július 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2014. július 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 
 (2) Ha a beszámoló benyújtására köteles szervezet 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
 
-106. § Az OBH legkésőbb 2012. november 30. napjától köteles biztosítani az informatikai rendszer tesztelését a bíróságok részére.
+106. § Az OBH legkésőbb 2014. június 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.
 
 107–108. §
 

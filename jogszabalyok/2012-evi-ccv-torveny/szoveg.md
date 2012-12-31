@@ -636,15 +636,11 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 250–252. §
 
-253. § A légiközlekedésről szóló 1995. évi XCVII. törvény 10. § (2) bekezdésében az „a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 132. §-ának (1) bekezdésében meghatározott esetek kivételével” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 62. § (3) bekezdésében meghatározott esetek kivételével” szöveg lép.
+253. §
 
 254–256. §
 
-257. § Az ügyvédekről szóló 1998. évi XI. törvény 6. § (2) bekezdése a következő h) ponttal egészül ki:
-
-[Nem esik az (1) bekezdés tilalma alá]
-
-„h) az önkéntes tartalékos szolgálati viszony.”
+257. §
 
 258. §
 
@@ -687,7 +683,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 279. § (1) Hatályát veszti
 
 - a)–b)
-- c) a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 18. § (2) bekezdése,
+- c)
 - d)
 - e)–f)
 

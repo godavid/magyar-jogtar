@@ -145,11 +145,11 @@ lép.
 
 36. §
 
-37. § (1)
+37. § (1) Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 12. § (3) bekezdésében az „(1) és (3)–(5)” szövegrész helyébe az „(1), (3) és (5)” szöveg lép.
 
 (2)
 
-38. §
+38. § Nem lép hatályba az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 21. § (4) bekezdése.
 
 ### II. Fejezet — Az adózást és a számvitelt érintő egyes törvények módosítása
 
@@ -273,7 +273,16 @@ lép.
 
 67. §
 
-68–70. §
+68. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény
+
+- a) 7. § (1) bekezdés c) pontjában és 7. § (2) bekezdés b) pontjában a „2012. december 31-éig” szövegrész helyébe a „2014. december 31-éig” szöveg,
+- b) 7. § (2) bekezdés a) pontjában a „2012. évben” szövegrész helyébe a „2012. január 1-je és 2014. december 31-e között” szöveg
+
+lép.
+
+69. § Hatályát veszti a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 23. § (2) bekezdése.
+
+70. § Nem lép hatályba a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 64. § (2) bekezdése és 104. § (2) bekezdése.
 
 #### 39. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
@@ -285,21 +294,45 @@ lép.
 
 #### 41. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-75. § (1)
+75. § (1) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) 15. §-a a következő szöveggel lép hatályba:
+
+„15. § (1) A piacfelügyeleti tevékenységet a vasúti személyszállítási szolgáltatásokkal kapcsolatban a Vtv. alapján a Gazdasági Versenyhivatallal (a továbbiakban: versenyhatóság) együttműködve a vasúti igazgatási szerv végzi.
+
+(2) A közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatási piac zavartalan, eredményes működésének, a piaci szereplők érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, és a versenykorlátozó magatartás tanúsítására lehetőséget adó helyzetek kiküszöbölése érdekében hatósági jogkörében felügyeleti ellenőrzési tevékenységet végez.
+
+(3) A közlekedési hatóság a piac felügyeletével kapcsolatos tevékenysége során figyelemmel kíséri az autóbuszos közúti személyszállítási szolgáltatási piac működését, az arra vonatkozó jogszabályokban és a közlekedési hatóság határozataiban foglaltak megtartását, és arról elemzést készít.
+
+(5) A közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatókat, valamint a közlekedésszervezőt az autóbusszal végzett közúti személyszállítási szolgáltatási piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
+
+(6) A közlekedési hatóság piacfelügyeleti tevékenysége során felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
+
+(7) Az autóbuszos közúti személyszállítási szolgáltatási piac összehangolt felügyelete érdekében a közlekedési hatóság, a vasúti igazgatási szerv, valamint a hajózási hatóság egymással együttműködik.”
 
 (2)
 
-(3)
+(3) Az Sztv. 16. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Ha a közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy a közlekedési hatóság határozatában meghatározott valamely kötelezettség megsértését,
+
+a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását,
+
+b) a jogsértőt kötelezi az eljárás költségeinek megtérítésére,
+
+c) az autóbusszal végzett személyszállítási szolgáltatásokra vonatkozó piacfelügyeleti eljárásról és a piacfelügyeleti bírságról szóló jogszabály alapján bírságot szab ki.”
 
 (4)–(13)
 
-(14)
+(14) Az Sztv. 51. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő járműveken, továbbá a pályaudvarokon, az állomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan meg kell teremteni, ennek érdekében az ezen járműveket és létesítményeket érintő beruházások, fejlesztések, beszerzések során, valamint – ha ez műszaki szempontból lehetséges – az átalakítások során az egyenlő esélyű hozzáférés követelményeit már érvényesíteni kell.”
 
 (15)–(16)
 
 #### 42. Az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény módosítása
 
-76–77. §
+76. § Az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény 75. § (2) bekezdésében az „az 60. § (2) bekezdése” szövegrész helyébe az „a 60. § (2) bekezdése” szöveg lép.
+
+77. § Nem lép hatályba az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény 28. §-a.
 
 #### 43. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló1997. évi CXL. törvény módosításáról szóló 2012. évi CLII. törvény módosítása
 

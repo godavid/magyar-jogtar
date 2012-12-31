@@ -634,7 +634,7 @@ rendeletben állapítsa meg.
 
 (4) A 37. § (3) bekezdés b) pontja, valamint a Pp. e törvény 62. § (3) bekezdésével megállapított 315. § (3) bekezdés b) pontja, 318. § (1) bekezdésének b) pontja és 319. § (2) bekezdése 2011. január 1-jén lép hatályba.
 
-(5) A 64. § (4) bekezdése és a 71. § (1) és (3) bekezdése 2011. július 1-jén lép hatályba. A 16. § (5) bekezdése 2012. október 1-jén és a 71. § (2) bekezdése 2013. január 1-jén lép hatályba, a 65. § (5) bekezdése nem lép hatályba.
+(5) A 64. § (4) bekezdése és a 71. § (1) és (3) bekezdése 2011. július 1-jén lép hatályba. A 16. § (5) bekezdése 2012. október 1-jén lép hatályba, a 65. § (5) bekezdése és 71. § (2) bekezdése nem lép hatályba.
 
 (6) E törvény rendelkezéseit – a 64. §-ban foglalt rendelkezések kivételével – a hatálybalépésük után indult eljárásokban kell alkalmazni. E törvény fizetési meghagyás végrehajtásának elrendelésére vonatkozó rendelkezéseit a 2010. május 31-ét követően indult fizetési meghagyásos eljárásokban (európai fizetési meghagyásos eljárásokban) kell alkalmazni.
 

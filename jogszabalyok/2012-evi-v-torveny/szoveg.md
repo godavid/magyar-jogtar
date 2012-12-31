@@ -140,7 +140,7 @@ terjed ki.
 
 (2)
 
-38. § (1) Ha 2003. július 1-jén a helyi önkormányzat képviselő-testülete által megállapított illetményalap meghaladta a 33 000 Ft-ot, annak mértéke nem csökkenthető és mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg a Kttv. 132. §-a szerinti illetményalap azt el nem éri.
+38. § (1) Ha 2003. július 1-jén a helyi önkormányzat képviselő-testülete által megállapított illetményalap meghaladta a 33 000 Ft-ot, annak mértéke nem csökkenthető és – ide nem értve az alapilletményt, valamint a hozzá kapcsolódó illetményelemeket – mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg a Kttv. 132. §-a szerinti illetményalap azt el nem éri.
 
 (2) A polgármester illetményének, tiszteletdíjának és az önkormányzati képviselő tiszteletdíjának megállapítása során mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg Kttv. 132. §-a szerinti illetményalap azt el nem éri.
 

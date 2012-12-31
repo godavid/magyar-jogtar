@@ -3425,7 +3425,7 @@ A pótlékok mértéke:
 
 341/E. §
 
-341/F. § A belügyminiszter irányítása alá tartozó fegyveres szervek hivatásos állományának tiszthelyettesi és zászlós rendfokozatú tagja havonta 14 000 Ft kiegészítő juttatásra jogosult, amelyet az illetménnyel együtt kell folyósítani.
+341/F. §
 
 341/G. §
 

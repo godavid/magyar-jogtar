@@ -52,7 +52,7 @@ lép.
 
 66–68. §
 
-69. §
+69. § Hatályát veszti a Különadó tv. 4. § (5)–(7) bekezdése.
 
 #### 6. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 

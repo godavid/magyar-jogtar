@@ -105,7 +105,7 @@ a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések
   - aa) életkort betöltötte, és
   - ab) szolgálati időt megszerezte azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
 - b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
-- c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
+- c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2014. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
 - d) az, aki 2011. december 31-éig a bányásznyugdíjról szóló 150/1991. (XII. 4.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint a bányásznyugdíjra való jogosultságot megszerezte,
 - e) az, aki 2011. december 31-éig az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló 5/1992. (I. 13.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint öregségi nyugdíjra jogosultságot szerzett,
 - f) az, aki esetében a biztosítással járó jogviszonyának megszüntetéséhez szükséges egyoldalú jognyilatkozatot 2012. január 1-jét megelőzően a másik féllel írásban közölték, vagy a jogviszonyt megszüntető megállapodást 2012. január 1-jét megelőzően írásban megkötötték, feltéve, hogy a biztosítással járó jogviszony megszűnését követő nap 2012. évben van, és a jogosult a biztosítással járó jogviszony megszűnését követő napon a 2011. december 31-én hatályos szabályok szerint az 1. § c) pont ca), cb), cd), ce) vagy cf) alpontja szerinti korhatár előtti nyugellátásra jogosult lett volna,
@@ -114,8 +114,8 @@ feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugd
 
 (2) Az (1) bekezdés c) pontja szerinti esetben a jogosult a korhatár előtti ellátást az öregségi nyugdíjkorhatár betöltése előtt annyi évvel kérheti, ahány év korkedvezményt a Tny. 2011. december 31-én hatályos szabályai szerint
 
-- a) a korhatár előtti ellátás kezdő napját megelőző napig szerzett, ha a korhatár előtti ellátás kezdő napja 2012. évben van,
-- b) az a) pontban nem említett esetben 2012. december 31-éig szerzett.
+- a) a korhatár előtti ellátás kezdő napját megelőző napig szerzett, ha a korhatár előtti ellátás kezdő napja 2012. január 1-je és 2014. december 31-e között van,
+- b) az a) pontban nem említett esetben 2014. december 31-éig szerzett.
 
 8. § (1) Az ezen alcímben foglaltak alapján megállapított korhatár előtti ellátás összegét az öregségi nyugdíjra vonatkozó, a korhatár előtti ellátás kezdő napján alkalmazandó szabályok, valamint a (2)–(4) bekezdésben foglaltak szerint kell megállapítani.
 
@@ -248,7 +248,7 @@ a bűnügyi nyilvántartó szervnek.
 
 23. § (1) Ez a törvény – a (2) bekezdésben foglalt kivételekkel – 2012. január 1-jén lép hatályba.
 
-(2) A 64. § (2) bekezdése és a 104. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(2)
 
 (3) A 12–28. alcím és a 30–42. alcím 2012. január 2-án hatályát veszti. A 29. alcím és a 43. alcím 2013. január 2-án hatályát veszti.
 

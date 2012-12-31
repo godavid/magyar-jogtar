@@ -313,7 +313,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 19/A. § (1) A Kormány által meghatározott ügyekben a Miniszterelnökség
 
 - a) a polgárok személyre szóló tájékoztatása, illetve
-- b) a polgárok álláspontjának megkérdezése céljából a 17. § (2) bekezdés a) pontja szerinti adatok szolgáltatását jogosult kérni, a 11. § (1) bekezdés c), d), h) és k) pontjában meghatározott kiválasztási szempontok szerint.
+- b) a polgárok álláspontjának megkérdezése céljából a 17. § (2) bekezdés a) pontja szerinti adatok szolgáltatását jogosult kérni, a 11. § (1) bekezdés b), c), d), h) és k) pontjában meghatározott kiválasztási szempontok szerint.
 
 (2) Az (1) bekezdés szerinti kérelem teljesítését meg kell tagadni a 19. § (4) bekezdés a), b) és d) pontja szerinti esetben.
 

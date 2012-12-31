@@ -105,7 +105,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
-(5) 2013. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
+(5) 2014. július 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
 (6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
@@ -181,7 +181,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4)
 
-(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2013. január 1-jétől kizárólag elektronikus nyomtatvány lehet.
+(5) A csődeljárás iránti (1) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2014. július 1-jétől kizárólag elektronikus nyomtatvány lehet.
 
 8. § (1) A 7. § szerinti kérelem benyújtásához az adós gazdálkodó szervezet alapítói (tagsági) jogait gyakorló legfőbb szerv előzetes egyetértése szükséges. Egyéni cég esetében a kérelmet a cégtulajdonos saját döntése alapján nyújthatja be. A kérelem benyújtásáról a munkavállalókat, a Munka Törvénykönyvében meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) tájékoztatni kell.
 
