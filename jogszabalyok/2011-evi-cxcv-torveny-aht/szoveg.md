@@ -1439,7 +1439,7 @@ rendeletben szabályozza.
 
 (15) A (12)–(14) bekezdés alapján határozott időre megadott felmentések érvényességét az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult kérelmére kivételesen indokolt esetben meghosszabbíthatja.
 
-(16) A 104. § (1) bekezdése alapján a törzskönyvi nyilvántartásban nyilvántartandó, de abba 2012. január 1-jén még nyilvántartásba nem vett törzskönyvi jogi személy e törvény hatálybalépését követő hatvan napon belül köteles kezdeményezni a nyilvántartásba vételt.
+(16) E törvény 2012. december 31-én hatályos rendelkezéseit 2013. június 30-áig a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján működő többcélú kistérségi társulásokra, valamint a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján létrejött társulásokra is alkalmazni kell.
 
 (17) A Magyar Államkincstár Részvénytársaság munkavállalóinak köztisztviselőként történő továbbfoglalkoztatása esetén
 
