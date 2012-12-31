@@ -26,7 +26,7 @@ egyes szolgálati jogviszonnyal összefüggő törvények módosításáról
 
 97–101. §
 
-102. §
+102. § Nem lép hatályba az Egyesült Nemzetek keretében, Palermóban, 2000. december 14-én létrejött, a nemzetközi szervezett bűnözés elleni Egyezménynek a tűzfegyverek, azok részei és alkatrészei, valamint a lőszerek tiltott előállítása és kereskedelme elleni fellépésről szóló, 2001. május 31-én elfogadott Jegyzőkönyve kihirdetéséről szóló 2011. évi XLVIII. törvény 6. § (2) bekezdése.
 
 103–104. §
 
@@ -122,7 +122,23 @@ d) az 1. § (1) bekezdés g) és h) pontja szerinti személy szakszemélyzeti jo
 
 „(4) Az e törvény hatálybalépésekor a rendészeti feladatokat ellátó személy által használt szolgálati igazolvány és jelvény visszavonásig, de legkésőbb 2013. május 1-ig érvényes.”
 
-(10)
+(10) A rendészeti törvény 28. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Az Rtv. 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:)
+
+„b) elvégzi
+
+ba) a közszolgálati tisztviselőkről szóló törvényben meghatározott, az államigazgatási szervvel kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 6. § (1) bekezdés e) pontjában meghatározott állami vezetők,
+
+bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Szervezett Bűnözés elleni Koordinációs Központhoz vezényelt tagjai,
+
+bc) a bb) alpontban meghatározott szervek, valamint a Kormány által rendeletben meghatározott befogadó állomás közalkalmazotti jogviszonyban álló tagjai, valamint
+
+bd) a Kormány által a Ksztv. alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
+
+[a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát, ””
 
 106. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 1. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -156,12 +172,121 @@ minősül.
 
 (4)–(7)
 
-(8)
+(8) Az Ogytv.
 
-(9)
+- a)
+- b) 144. § (3) bekezdésében az „a 3. alcím” szövegrész helyébe az „a 3. alcím címe, a 4. § (1)–(5) és (7) bekezdése”,
+- c) 144. § (4) bekezdésében az „A 8.” szövegrész helyébe az „A 4. § (6) bekezdése, a 8.”
+
+szöveg lép.
+
+(9) Az átmeneti törvény 38. § (1) bekezdésében a „nem csökkenthető és mindaddig” szövegrész helyébe a „nem csökkenthető és – ide nem értve az alapilletményt, valamint a hozzá kapcsolódó illetményelemeket – mindaddig” szöveg lép.
 
 110. § (1)–(7)
 
-(8) Hatályát veszti az Ogytv. 145. § (2a) bekezdése.
+(8)
 
-### 1–4. melléklet a 2012. évi CCXIV. törvényhez
+### 1. melléklet a 2012. évi CCXIV. törvényhez
+
+„8. számú melléklet az 1996. évi XLIII. törvényhez
+
+A hivatásos állomány tagjával közös háztartásban élő házastárs, élettárs, felnőttkorú hozzátartozó nyilatkozata
+
+Alulírott ………………………………………………………………..(név, születési hely és idő, anyja születési neve) tájékoztattak arról, hogy a velem közös háztartásban élő házastársam, élettársam, hozzátartozóm kifogástalan életvitel ellenőrzése személyemet is érintheti, amelynek keretén belül az ellenőrzését végző szerv a bűnügyi nyilvántartásból rám vonatkozóan is adatot igényelhet, amelyek megismeréséhez hozzájárulok.
+
+(Kelt, dátum)
+
+............................................................
+
+aláírás, lakcím
+
+”
+
+### 2. melléklet a 2012. évi CCXIV. törvényhez
+
+„
+
+A Hszt. 10. számú melléklet VII. A jelentkező büntető és szabálysértési előéletére vonatkozó adatok című táblázata helyébe az alábbi táblázat lép:
+
+„
+
+| VII. A jelentkező büntetett és szabálysértési előéletére vonatkozó adatok |  |
+| --- | --- |
+| 1. Indult-e ellene a jelentkezése keltétől számított 15 éven belül olyan büntetőeljárás, amely büntetéssel vagy intézkedéssel fejeződött be? | igen – nem |
+| amennyiben igen, bűncselekmény megnevezése: |  |
+| az elkövetés ideje: |  |
+| az eljáró bíróság megnevezése: |  |
+| a büntetés mértéke: |  |
+| az ítélet kelte: |  |
+| a mentesülés időpontja: |  |
+| amennyiben igen, bűncselekmény megnevezése: |  |
+| az elkövetés ideje: |  |
+| az eljáró bíróság megnevezése: |  |
+| a büntetés mértéke: |  |
+| az ítélet kelte: |  |
+| a mentesülés időpontja: |  |
+| 2. Áll-e jelenleg büntetőeljárás alatt? | igen – nem |
+| Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje: |  |
+| Eljáró bíróság, ügyészség, nyomozóhatóság, ügyszám: |  |
+| Az eljárás jelentkezéskori szakasza: | nyomozati – ügyészi – bírói szak |
+| Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte: |  |
+| 3. A jelentkezést megelőző két éven belül szabálysértés miatt marasztalták-e el? (büntetés vagy intézkedés) | igen – nem |
+| Az elkövetett szabálysértés: |  |
+| Eljáró szerv: |  |
+| A szabálysértés miatt alkalmazott büntetés vagy intézkedés teljesítése, végrehajtása: (helyszíni bírságot figyelmen kívül kell hagyni) | (pl. a bírság befizetés megtörtént – nem történt meg – elzárásra átváltoztatták, a járművezetéstől eltiltás hatálya eltelt – nem telt el) |
+| Az elkövetett szabálysértés: |  |
+| Eljáró szerv: |  |
+| A szabálysértés miatt alkalmazott büntetés vagy intézkedés teljesítése, végrehajtása: (helyszíni bírságot figyelmen kívül kell hagyni) | (pl. a bírság befizetés megtörtént – nem történt meg – elzárásra átváltoztatták, a járművezetéstől eltiltás hatálya eltelt – nem telt el) |
+| 4. Áll-e jelenleg szabálysértési eljárás alatt? | igen – nem |
+| Az eljárás alapjául szolgáló szabálysértés megnevezése és az elkövetés ideje: |  |
+| Eljáró hatóság, ügyszám: |  |
+
+„
+
+”
+
+### 3. melléklet a 2012. évi CCXIV. törvényhez
+
+1. A Kttv. 3. melléklet címe helyébe a következő cím lép:
+
+„A tartalékállományba helyezett közszolgálati tisztviselők nyilvántartásának adatköre”
+
+2. A Kttv. 3. melléklet I. pont 1. alpontja helyébe a következő szöveg lép:
+
+(A kormánytisztviselő)
+
+„1. családi és utóneve, valamint születési neve”
+
+3. A Kttv. 3. melléklet I. pont 4. alpontja helyébe a következő szöveg lép:
+
+(A kormánytisztviselő)
+
+„4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma, e-mail címe”
+
+### 4. melléklet a 2012. évi CCXIV. törvényhez
+
+„6. melléklet a 2011. évi CXCIX. törvényhez
+
+Az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok köre
+
+I. A kormánytisztviselő
+
+1. családi és utóneve (születési családi és utóneve), neme
+
+2. születési helye, ideje
+
+3. anyja születési családi és utóneve
+
+II.
+
+1. a kormánytisztviselő lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
+
+2. az alkalmazó államigazgatási szerv neve, székhelye, statisztikai számjele
+
+3. e szervnél a kormányzati szolgálati jogviszony kezdete
+
+4. a kormánytisztviselő jelenlegi munkaköre (pártfogó felügyelői, jogi segítségnyújtási, vagy áldozatsegítési szakreferens)
+
+5. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
+
+6. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja”

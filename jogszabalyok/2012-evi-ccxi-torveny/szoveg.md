@@ -4,7 +4,55 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 1. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-1. §
+1. § (1)–(7)
+
+(8) A Pp. 394/B. §-a helyébe a következő rendelkezés lép:
+
+„394/B. § (1) A 2013. január 1. napját követően indult polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – 2013. január 1. és 2014. június 30. napja között a (2)–(9) bekezdésben foglalt rendelkezéseket is alkalmazni kell.
+
+(2) A fél, illetve képviselője a törvényszék elsőfokú hatáskörébe tartozó ügyben – a (3) és (4) bekezdésben foglalt kivétellel – beadványát és mellékletét választása szerint elektronikus úton is benyújthatja, ebben az esetben az elsőfokú eljárás folyamán a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány és melléklete elektronikus úton való benyújtását az elektronikus úton való kapcsolattartás vállalásának kell tekinteni.
+
+(3) A bíróság a fél részére papír alapon kézbesíti a bírósági iratot, ha a fél az eljárásban képviselője útján jár el és az iratot nem a képviselő, hanem a fél részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni. A bíróság a felet tájékoztatja arról, hogy a bírósággal a kapcsolatot elektronikus úton is tarthatja.
+
+(4) A fél nem nyújthatja be beadványát elektronikus úton a fizetési meghagyást követő perben (315. §), és a 27. § (1) bekezdése alapján a járásbíróságról a törvényszékre áttett (129. §) perekben.
+
+(5) A bíróság az elektronikus úton benyújtott keresetlevél jogszabályban meghatározott módon készített papír alapú másolatát kézbesíti az alperes részére. A bíróság az alperest tájékoztatja arról, hogy védekezését, nyilatkozatát elektronikus úton is benyújthatja.
+
+(6) Ha a fél az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
+
+(7) Ha jogi képviselő nélkül eljáró fél vállalta, hogy a bírósággal a kapcsolatot elektronikus úton tartja, utóbb, a beadvány papír alapú benyújtásával egyidejűleg kérheti a bíróságtól a papír alapú eljárásra való áttérés engedélyezését. A jogi képviselő nélkül eljáró félnek a kérelemben valószínűsítenie kell, hogy körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő eljárás a továbbiakban számára aránytalan megterhelést jelentene.
+
+(8) A papír alapú kapcsolattartásra való áttérés engedélyezése esetén erről külön végzést hozni nem kell, az áttérés iránti kérelem elutasításáról a bíróság végzéssel határoz, az áttérés iránti kérelem elutasítását a féllel papír alapon közli. A papír alapon benyújtott, a (7) bekezdés szerinti beadványt az áttérés iránti kérelem elutasítása esetén is szabályszerűen benyújtott beadványnak kell tekinteni, azt elektronikus úton benyújtani nem kell.
+
+(9) A papír alapú kapcsolattartásra való áttérés iránti kérelem elutasítása esetén azonos okból ismételten áttérés iránti kérelmet nem lehet benyújtani, az ennek ellenére benyújtott áttérés iránti kérelmet a bíróság érdemi vizsgálat nélkül elutasítja. Ha a jogi képviselő nélkül eljáró fél nyilvánvalóan alaptalanul terjeszt elő áttérés iránti kérelmet, őt az áttérést megtagadó határozatban pénzbírsággal (120. §) lehet sújtani.”
+
+(9) A Pp. 394/D. §-a helyébe a következő rendelkezés lép:
+
+„394/D. § (1) E § rendelkezéseit 2014. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2014. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
+
+(2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
+
+(3) Ha a szakértő az elektronikus kapcsolattartást vállalta, a polgári perben a beadványokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (4) bekezdésben foglalt kivétellel – elektronikusan küldi meg a bíróság részére. A szakértőnek, ha az elektronikus kapcsolattartást vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott beadványt a felek és más perbeli személyek számára papír alapon megküldje.
+
+(4) A bíróság – kivételes jelleggel – indokolt kérelemre elektronikus kapcsolattartás esetén is engedélyt adhat a szakértőnek a szakvélemény (vagy annak egy részének) papír alapú benyújtására.
+
+(5) A bíróság, ha a perben mindkét fél elektronikus kapcsolattartással jár el – a (6) bekezdésben foglalt kivétellel –, valamennyi bírósági iratot elektronikusan kézbesít a (2) bekezdés szerint eljáró szakértőnek. Ha a perben mindkét fél vagy az egyik fél papír alapú kapcsolattartással jár el, a bíróság papír alapon és elektronikus úton is kézbesíthet a szakértő részére.
+
+(6) A bíróság papír alapon vagy egyéb adathordozón bocsátja rendelkezésre a szakértő részére a bírósági irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
+
+(7) A bíróság felhívhatja a papír alapú kapcsolattartással eljáró szakértőt arra, hogy a szakvéleményt elektronikus adathordozón is benyújtsa, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az elektronikus adathordozón benyújtott dokumentum tartalmával.”
+
+(10) A Pp. 394/E. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartására 2011. január 1. napja és 2014. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+
+a) a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti,
+
+b) az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
+
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2014. július 1. napját követően úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.”
+
+(11)–(16)
 
 #### 2. A Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló1960. évi 11. törvényerejű rendelet módosítása
 
@@ -236,7 +284,12 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 59. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-59. §
+59. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény
+
+- a)–b)
+- c) 61. § (5) bekezdésében az „október 1-jén és a 71. § (2) bekezdése 2013. január 1-jén lép hatályba, a 65. § (5) bekezdése” szövegrész helyébe az „október 1-jén lép hatályba, a 65. § (5) bekezdése és 71. § (2) bekezdése” szöveg
+
+lép.
 
 #### 60. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
@@ -292,7 +345,19 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 73. Az információs önrendelkezési jogról és az információszabadságról szóló2011. évi CXII. törvény módosítása
 
-73. §
+73. § (1) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 69. §-a a következő szöveggel lép hatályba:
+
+„69. § (1) Az adatvédelmi audit a Hatóság olyan szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása. Tervezett adatkezelési műveletek akkor vonhatók audit alá, ha az adatkezelésre vonatkozó koncepció kidolgozottsága ezt lehetővé teszi.
+
+(2) Adatvédelmi auditot a Hatóság az adatkezelő kérelmére folytathat le. Az adatvédelmi audit lefolytatása iránti kérelem benyújtását követő tizenöt napon belül az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét és az adatvédelmi audit elvégzésének várható időpontját a Hatóság közli az adatkezelővel. A Hatóság az adatvédelmi auditot abban az esetben folytatja le, ha a Hatóság közlését követő tizenöt napon belül az adatkezelő nyilatkozik arról, hogy a Hatóság közlésében megállapított feltételek ismeretében az adatvédelmi audit lefolytatása iránti kérelmét fenntartja.
+
+(3) Az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg, az azonban nem haladhatja meg az ötmillió forintot. Az adatvédelmi audit lefolytatásáért fizetendő ellenérték a Hatóság bevétele.
+
+(4) Az adatvédelmi audit eredményét a Hatóság az auditról készített értékelésben rögzíti. Az értékelés javaslatokat fogalmazhat meg az adatkezelő számára. Az értékelés tartalma az üzleti titokra alkalmazandó szabályok szerint ismerhető meg, az adatkezelő erre irányuló kérelmére azonban a Hatóság honlapján – a kérelemnek megfelelően – az értékelést vagy az értékelés összegző megállapításait közzéteszi.
+
+(5) Az adatvédelmi audit a Hatóság e törvényben rögzített egyéb hatásköreinek gyakorlását nem korlátozza.”
+
+(2)
 
 #### 74. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
@@ -312,7 +377,12 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 (2)–(3)
 
-(4)
+(4) A Bjt.
+
+- a) 90. § hb) alpontjában és 94. § (1) bekezdésében a „18. § (2a) bekezdésében” szövegrész helyébe a „18. § (2) vagy (2a) bekezdésében” szöveg,
+- b)
+
+lép.
 
 #### 78. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
@@ -328,11 +398,53 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 81. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló2011. évi CLXXXI. törvény módosítása
 
-81. §
+81. § (1) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) 88. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A szervezet adatairól – kizárólag írásban – kivonatot kérhet
+
+a) az államháztartásról szóló törvény alapján az államháztartásból származó forrás felhasználásához kapcsolódó lebonyolító feladatot ellátó, illetve a támogatási forrást kezelő költségvetési szerv,
+
+b) az európai uniós forrásból finanszírozott költségvetési támogatás esetén a támogató képviseletében eljáró, jogszabályban kijelölt szervezet, továbbá
+
+c) a közigazgatási hatósági ügyben eljáró hatóság
+
+is.”
+
+(2) A Cnytv. 106. §-a helyébe a következő rendelkezés lép:
+
+„106. § Az OBH legkésőbb 2014. június 1. napjától biztosítja az informatikai rendszer tesztelését a bíróságok részére.”
+
+(3) A Cnytv.
+
+- a) 98. § (4) bekezdésében a „2013. január 1-jén” szövegrész helyébe a „2014. július 1-jén” szöveg,
+- b) 99. § (1) és (2) bekezdésében az „A 2013. január 1. napja előtt” szövegrészek helyébe a „2014. július 1. napjától az ezt megelőzően” szöveg,
+- c) 104. § (4) bekezdésében az „a szervezet 2013. január 1.” szövegrész helyébe a „2014. július 1. napjától a szervezet 2014. július 1.” szöveg, az „adatokat” szövegrész helyébe az „adatait” szöveg,
+- d) 105. § (1) bekezdésében a „2013. január 1-je” szövegrészek helyébe a „2014. július 1-je” szöveg, a „2013. január 1. napját” szövegrész helyébe a „2014. július 1. napját” szöveg
+
+lép.
+
+(4) A Cnytv.
+
+- a) 91. § (1) bekezdés b) pontja a „vételéről” szövegrész helyett a „vételéről (változásbejegyzéséről)” szöveggel,
+- b) 91. § (3) bekezdése az „oka” szövegrész helyett az „oka és időpontja” szöveggel
+
+lép hatályba.
+
+(5) Nem lép hatályba a Cnytv. 7. § (3) bekezdése.
 
 #### 82. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-82. §
+82. § (1) A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mhötv.)
+
+- a) 85. § (3) bekezdése a „törvényszékhez” szövegrész helyett a „közigazgatási és munkaügyi bírósághoz” szöveggel,
+- b) 92. §-a a „törvényszék” szövegrész helyett a „közigazgatási és munkaügyi bíróság” szöveggel,
+- c) 98. § (5) bekezdése a „Fővárosi Törvényszéktől” szövegrész helyett a „Fővárosi Közigazgatási és Munkaügyi Bíróságtól” szöveggel,
+- d) 98. § (10) bekezdése a „törvényszék” szövegrész helyett a „közigazgatási és munkaügyi bíróság” szöveggel,
+- e) 102. § (4) bekezdése a „törvényszék” szövegrész helyett a „közigazgatási és munkaügyi bíróság” szöveggel
+
+lép hatályba.
+
+(2)
 
 #### 83. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -348,39 +460,127 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 86. A közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény módosítása
 
-86. §
+86. § A közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény 18. § (4) bekezdése a „helyi bíróság” szövegrészek helyett a „járásbíróság” szöveggel lép hatályba.
 
 #### 87. Az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló2012. évi LXXXV. törvény módosítása
 
-87. §
+87. § (1) Az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvény 47. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A 3. §, a 4. § és a 3. alcím 2013. január 1-jén lép hatályba.”
+
+(2) Az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvény 47. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A 12. §, a 14. § és a 15. § a) pontja 2013. augusztus 1-jén, a 34. § (1) bekezdése 2014. július 1-jén lép hatályba.”
+
+(3) Az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvény 47. § (1) bekezdésében a „január” szövegrész helyébe a „július” szöveg lép.
 
 #### 88. Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló2012. évi CXVII. törvény módosítása
 
-88. §
+88. § (1) Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 93. §-a helyébe a következő rendelkezés lép:
+
+„93. § A Cnytv. 7. § (1) és (2) bekezdése a következő szöveggel lép hatályba:
+
+„(1) A beadványokat elektronikus úton történő eljárás esetén kizárólag űrlapon lehet a bíróság részére, az OBH útján benyújtani.
+
+(2) Elektronikus úton történő eljárás esetén a beadványt elektronikus úton, minősített elektronikus aláírással ellátva, vagy a Pp.-ben meghatározottak szerint egyéb elektronikus úton kell benyújtani.””
+
+(2) Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 110. §-a helyébe a következő rendelkezés lép:
+
+„110. § A Cnytv. 95. §-a a következő szöveggel lép hatályba:
+
+„95. § A nyilvántartás egyesület esetén a 91. §-ban foglaltakon túlmenően tartalmazza a következő adatokat is:
+
+a) az egyesület formáját
+
+aa) egyesület,
+
+ab) párt,
+
+ac) sportegyesület,
+
+ad) alapcélként vallási tevékenységet végző egyesület,
+
+ae) szakszervezet,
+
+af) szövetség,
+
+ag) polgárőr szervezet és
+
+ah) egyéb, törvényben meghatározott egyesületi forma,
+
+b) az egyesület képviselőjének anyja születési nevét,
+
+c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
+
+d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját.””
+
+(3) Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 130. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A 15. §, a 24. §, a 30–33. §, a 64. § (2) bekezdése és a 115. § 2013. január 1. napján lép hatályba.”
+
+(4) Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 130. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A 76. §, a 88. § (2) bekezdése, a 92. § (2) bekezdése, a 94. §, a 95. §, a 101. §, a 105. §, és a 116. § b), d), e), f), h) és i) pontja 2014. július 1. napján lép hatályba.”
+
+(5) Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény
+
+- a) 113. §-ában a „2013. január 1. napján” szövegrész helyébe a „2014. július 1. napján” szöveg,
+- b) 130. § (1) bekezdésében a „2014. január 2-án” szövegrész helyébe a „2014. július 2-án” szöveg
+
+lép.
+
+(6) Nem lép hatályba az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 30. §-a.
 
 #### 89. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknekaz iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-89. §
+89. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 40. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A Szabs. tv. a 126. §-t követően a következő 96/A. alcímmel és 126/A. §-sal egészül ki:
+
+„96/A. A helyszíni bírság kiszabására jogosultak által történő bíróság elé állítás
+
+126/A. § (1) A 39. § (2) bekezdés e) és f), valamint h) és i) pontjában meghatározott személy szabálysértési elzárással is büntethető azon szabálysértések esetén, ahol a helyszíni bírság kiszabására jogosult személy a szabálysértés elkövetésén tetten ért személyt – ha a tárgyalás megtartásának nincsen akadálya – az elkövetés helye szerint illetékes járásbíróságra előállíthatja. Előállítás esetén a bíróság részére a feljelentést előterjeszti, a rendelkezésre álló bizonyítékokat a bíróságnak átadja, valamint javaslatot tesz a büntetés mértékére.
+
+(2) Az (1) bekezdésben meghatározott személy gondoskodik arról, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, továbbá közli az eljárás alá vont személlyel, hogy milyen szabálysértés miatt és milyen bizonyítékok alapján állítja bíróság elé.
+
+(3) A bíróság nem tart tárgyalást, ha megállapítja, hogy az előállítás nem volt jogszerű. Ha a tárgyalás megtartásának nincs akadálya, akkor a 125. § (3) bekezdése szerint jár el.
+
+(4) A végzés ellen az (1) bekezdésben meghatározott személy az e törvényben meghatározott jogorvoslattal élhet.””
 
 #### 90. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-90. §
+90. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 6. § (5) bekezdésében és 7. § (5) bekezdésében a „2013. január 1-jétől” szövegrész helyébe a „2014. július 1-jétől” szöveg lép.
 
 #### 91. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-91. §
+91. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 8. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A keresetlevél a hatósághoz elektronikus úton is benyújtható. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül továbbítja a bírósághoz, a továbbításra elektronikus úton is sor kerülhet.
+
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton is történhet.”
 
 #### 92. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működésérőlés támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-92. §
+92. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 74. § (4) bekezdésében a „2013. január 1.” szövegrész helyébe a „2014. július 1.” szöveg lép.
 
 #### 93. Egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló2012. évi CLXXVIII. törvény módosítása
 
-93. §
+93. § Nem lép hatályba az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvény
+
+- a) 248. § (1) bekezdése,
+- b) 385. §-a,
+- c) 293. § 5. pontja,
+- d) 293. § 6. pontjában a „ , a „17. § (1) bekezdés c) pontja” szövegrész helyébe a „17. § (1) bekezdés d) pontja” szöveg” szövegrész és
+- e) 293. § 7. pontja.
 
 #### 94. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló2012. évi CLXXX. törvény módosítása
 
-94. §
+94. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény
+
+- a) 73. § (2) bekezdésében, 137. § (4) bekezdésében, 148. § (2) bekezdésében és 156. § (2) és (4) bekezdésében a „helyi bíróság” szövegrész a „járásbíróság” szöveggel,
+- b) 137. § (7) bekezdésében, 148. § (5) bekezdésében és 156. § (5) bekezdésében a „helyi bíróságra” szövegrész a „járásbíróságra” szöveggel
+
+lép hatályba.
 
 #### 95. Záró rendelkezések
 

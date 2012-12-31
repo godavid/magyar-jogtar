@@ -46,13 +46,39 @@ a Magyarország 2013. évi központi költségvetését megalapozó egyes törv�
 
 16. §
 
-#### 12.
+#### 12. A Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló2011. évi CLXVI. törvény módosítása
 
-17. §
+17. § Nem lép hatályba a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény 55. §-a.
 
-#### 13.
+#### 13. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-18–19. §
+18. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 85. §-a a következő (11) bekezdéssel kiegészülve lép hatályba:
+
+„(11) A közös hivatal működési költségeit a közös hivatalhoz tartozó önkormányzatok – eltérő megállapodásuk hiányában – lakosságszámuk arányában biztosítják.”
+
+19. § A Mötv. 117. §-a és 118. §-a a következő szöveggel lép hatályba:
+
+„117. § (1) A feladatfinanszírozási rendszer keretében az Országgyűlés a központi költségvetésről szóló törvényben meghatározott módon a helyi önkormányzatok
+
+a) kötelezően ellátandó, törvényben előírt egyes feladatainak – felhasználási kötöttséggel – a feladatot meghatározó jogszabályban megjelölt közszolgáltatási szintnek megfelelő ellátását feladatalapú támogatással biztosítja, vagy azok ellátásához a feladat, a helyi szükségletek alapján jellemző mutatószámok, illetve a lakosságszám alapján támogatást biztosít,
+
+b) az a) pontba nem tartozó feladatainak ellátásához felhasználási kötöttséggel járó, vagy felhasználási kötöttség nélküli támogatást nyújthat.
+
+(2) Az (1) bekezdés szerinti támogatás biztosítása a következő szempontok figyelembevételével történik:
+
+a) takarékos gazdálkodás,
+
+b) a helyi önkormányzat jogszabályon alapuló, elvárható saját bevétele,
+
+c) a helyi önkormányzat tényleges saját bevétele.
+
+(3) A figyelembe veendő bevételek körét és mértékét törvény határozza meg.
+
+(4) A feladatfinanszírozási rendszernek biztosítania kell a helyi önkormányzatok bevételi érdekeltségének fenntartását.
+
+118. § (1) A 117. § (1) bekezdés a) pontja szerinti támogatást a helyi önkormányzat éves szinten kizárólag az ellátandó feladatainak kiadásaira fordíthatja. Az ettől eltérő felhasználás esetén a helyi önkormányzat köteles a támogatás összegét – az államháztartásról szóló törvényben meghatározott kamatokkal terhelve – a központi költségvetésbe visszafizetni.
+
+(2) Kivételes esetben jogszabályban meghatározott módon a helyi önkormányzat működőképessége megőrzése érdekében kiegészítő támogatás adható.”
 
 #### 14. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -68,7 +94,9 @@ a Magyarország 2013. évi központi költségvetését megalapozó egyes törv�
 
 (39)–(40)
 
-(41)
+(41) Az Áht. 111. § (16) bekezdése helyébe a következő rendelkezés lép:
+
+„(16) E törvény 2012. december 31-én hatályos rendelkezéseit 2013. június 30-áig a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény alapján működő többcélú kistérségi társulásokra, valamint a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény alapján létrejött társulásokra is alkalmazni kell.”
 
 (42)
 

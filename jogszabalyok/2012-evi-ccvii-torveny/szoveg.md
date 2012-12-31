@@ -22,7 +22,7 @@ egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejles
 
 25–49. §
 
-50. § (1)
+50. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 19/A. § (1) bekezdésében a „11. § (1) bekezdés c), d), h) és k) pontjában” szövegrész helyébe a „11. § (1) bekezdés b), c), d), h) és k) pontjában” szöveg lép.
 
 (2)
 
@@ -136,11 +136,13 @@ egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejles
 
 #### 23. Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló2011. évi CCI. törvény módosítása
 
-113. §
+113. § Hatályát veszti az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 351. §-a.
 
 #### 24. A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló2012. évi XCIII. törvény módosítása
 
-114. §
+114. § A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvény 18. § (6) bekezdésében a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A lakcímbejelentés a bejelentendő lakóhely vagy tartózkodási hely szerint illetékes járási hivatalnál teljesíthető.”
 
 #### 25. Záró rendelkezések
 

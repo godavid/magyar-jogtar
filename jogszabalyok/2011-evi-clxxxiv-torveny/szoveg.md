@@ -39,7 +39,7 @@ a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról 
 (3) Hatályát veszti a Hszt.
 
 - a)
-- b)
+- b) 341/F. §-a, valamint
 - c)
 
 #### 2. A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény módosítása

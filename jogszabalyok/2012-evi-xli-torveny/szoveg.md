@@ -859,7 +859,7 @@ vonatkozó önkormányzati rendelet kiadására.
 
 (3) A 2009. december 3-át megelőzően megkötött személyszállítási közszolgáltatási szerződések az azokban rögzített határidő leteltéig hatályban maradnak azzal, hogy módosításuk során az 1370/2007/EK rendelet rendelkezéseit figyelembe kell venni.
 
-(4) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő járműveken, továbbá a pályaudvarokon, az állomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1–jéig meg kell teremteni.
+(4) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő járműveken, továbbá a pályaudvarokon, az állomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan meg kell teremteni, ennek érdekében az ezen járműveket és létesítményeket érintő beruházások, fejlesztések, beszerzések során, valamint – ha ez műszaki szempontból lehetséges – az átalakítások során az egyenlő esélyű hozzáférés követelményeit már érvényesíteni kell.
 
 (5) A törvény hatálya alá tartozó, a törvény hatályba lépését megelőzően kiadott hatósági engedélyek érvényességét, valamint a már folyamatban lévő hatósági engedélyezési eljárásokat a törvény hatálybalépése nem érinti.
 
