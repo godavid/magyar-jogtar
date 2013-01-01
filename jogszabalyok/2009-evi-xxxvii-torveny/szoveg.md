@@ -880,7 +880,7 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 67. § (1) Fokozott tűzveszély esetén a miniszter határozatban – a katasztrófák elleni védekezésért felelős miniszterrel való egyeztetés mellett – az ország egészére vagy meghatározott területén lévő erdőre, valamint az erdő határától számított kétszáz méteren belüli területre – átmeneti időre – általános tűzgyújtási tilalmat rendelhet el. A tűzgyújtási tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
-(2) Megye, kistérség vagy település területére kiterjedő fokozott tűzveszély esetén – indokolt esetben, átmeneti időre – a megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltó-parancsnokság egyetértésével vagy javaslatára az erdészeti hatóság is rendelhet el tűzgyújtási tilalmat. A tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
+(2) Megye vagy település területére kiterjedő fokozott tűzveszély esetén – indokolt esetben, átmeneti időre – a megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltó-parancsnokság egyetértésével vagy javaslatára az erdészeti hatóság is rendelhet el tűzgyújtási tilalmat. A tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
 (3) A tűzgyújtási tilalom elrendelése esetén, annak feloldásáig az erdészeti hatóság az erdőbe való belépést és az ott tartózkodást korlátozhatja, illetve megtilthatja.
 
@@ -1245,12 +1245,17 @@ AZ ERDŐ ŐRZÉSE
 - a) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az erdőgazdálkodót és az erdészeti hatóságot haladéktalanul értesíteni, illetve a veszély elhárításában a tőle elvárható módon közreműködni;
 - b) az erdőben jogszerűen végzett munkák szakmai irányítását elvégezni.
 
-(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult:
+(1a) Az erdészeti szakszemélyzet az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.
 
-- a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személyt cselekményének abbahagyására felszólítani, ellene eljárást kezdeményezni;
-- b) a járművet, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett fa-, szaporítóanyag, illetve egyéb erdei termék van – a tervezett intézkedése okának és céljának közlése mellett – feltartóztatni, átvizsgálni;
-- c) az a)–b) pont szerinti intézkedéssel érintett személyt személyazonosságának igazolására felhívni, vagy személyazonosságának megállapítása érdekében – ha az érintett személy magát önként és hitelt érdemlően nem igazolja – igazoltatásra jogosult hatósági személyt felkérni;
-- d) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személytől a jogellenesen szerzett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket, valamint az elkövetéshez (veszélyeztetéshez) használt eszközt elvenni.
+(1b) Az erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+
+(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
+
+- a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személlyel szemben,
+- b) olyan jármű vezetőjével szemben, amelyről alaposan feltételezhető, hogy azon jogellenesen szerzett fa-, szaporítóanyag, illetve egyéb erdei termék van,
+- c) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett faanyag és szaporítóanyag, valamint egyéb erdei termék, valamint az elkövetéshez (veszélyeztetéshez) használt eszköz biztosítása érdekében
+
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
 (3) A (2) bekezdés d) pontja alapján elvett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket és az elkövetéshez (veszélyeztetéshez) használt eszközt az erdészeti szakszemélyzet köteles haladéktalanul átadni az erdészeti hatóságnak vagy a rendőrségnek.
 
@@ -1258,38 +1263,15 @@ AZ ERDŐ ŐRZÉSE
 
 (5) Az erdészeti szakszemélyzet őrzési tevékenysége során könnygázszóró palack, és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – gáz- és riasztófegyver, valamint lőfegyver tartására jogosult, melyet egyenruhás szolgálatban nyíltan viselhet.
 
-99. § (1) Az erdészeti szakszemélyzet az arányosság követelményének betartásával
-
-- a) a jogszerű intézkedésével – a 98. § (2) bekezdés c) pontjában foglalt intézkedést kivéve – szembeni ellenállás megtörése érdekében testi kényszert, könnygázszóró palackot, szolgálati kutyát;
-- b) az ellene irányuló támadás megakadályozására könnygázszóró palackot, szolgálati kutyát, gáz- és riasztófegyvert alkalmazhat.
-
-(2) Az erdészeti szakszemélyzet lőfegyvert kizárólag jogos védelmi helyzetben használhat, feltéve, hogy más kényszerítő eszköz nem alkalmas a támadás elhárítására, vagy az eset körülményei folytán a megelőző intézkedésekre már nincs idő.
-
-(3) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, vagy a gáz- és riasztófegyver, valamint a lőfegyver alkalmazására – ha az eset körülményei lehetővé teszik – az érintettet előzetesen figyelmeztetni kell.
-
-(4) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, vagy a gáz- és riasztófegyver, valamint a lőfegyver alkalmazása során lehetőleg kerülni kell a testi sérülés okozását.
-
-(5) Az intézkedés során megsérült személy részére – amint lehetséges – az erdészeti szakszemélyzet köteles a tőle elvárható módon segítséget nyújtani. Szükség esetén az erdészeti szakszemélyzet köteles gondoskodni arról, hogy az intézkedés során megsérült személyt orvos elláthassa.
-
-(6) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, a gáz- és riasztófegyver és a lőfegyver alkalmazását az intézkedést követően haladéktalanul – amint az eset körülményei lehetővé teszik – jelenteni kell a rendőrségnek.
-
-(7) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, a gáz- és riasztófegyver és a lőfegyver alkalmazásának jogszerűségét a rendőrség vizsgálja ki a közigazgatási hatósági eljárás általános szabályai szerint.
+#### 99. §
 
 100. § (1) Az erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton végzett erdőőrzési tevékenységével, valamint a jogellenes cselekmény hatóságnak történő bejelentésével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személy.
 
 (2) Az erdészeti szakszemélyzet az intézkedésével összefüggésben megismert személyes adatokat kizárólag eljárás kezdeményezése céljából, az ahhoz szükséges ideig kezelheti.
 
-100/A. § (1) Az erdő őrzésével megbízott erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet tagjaként csak az a nagykorú, cselekvőképes, büntetlen előéletű, magyar állampolgár vagy a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatható, illetve bízható meg, aki megfelel a külön jogszabályban meghatározott feltételeknek.
+#### 100/A. §
 
-(2) Nem lehet az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tagja, aki az (1) bekezdésben meghatározott adatokat és tényeket az erdőgazdálkodó részére nem igazolja.
-
-(3) Az erdőőri tevékenység ellátására jelentkező személy az erdőgazdálkodó részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
-
-100/B. § (1) Az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet tagja a jogviszony fennállása alatt az erdőgazdálkodó felhívására igazolja, hogy büntetlen előéletű.
-
-(2) Ha az (1) bekezdésben meghatározott felhívásra az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet tagja igazolja, hogy büntetlen előéletű az erdőgazdálkodó az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
-
-(3) Az erdőgazdálkodó a büntetlen előélet igazolása céljából az erdészeti szakszemélyzeti vagy a jogosult erdészeti szakszemélyzeti jogviszony fennállásáig kezeli az erdészeti szakszemélyzet vagy jogosult erdészeti szakszemélyzet tagjának azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+#### 100/B. §
 
 ### Jogosult erdészeti szakszemélyzet
 
@@ -1317,44 +1299,29 @@ AZ ERDŐ ŐRZÉSE
 
 ### XI. Fejezet — AZ ERDÉSZETI IGAZGATÁS
 
-103. § (1) Az erdészeti hatósági feladatokat ellátó személyek részére igazolványt, az igazolvánnyal azonos sorszámú szolgálati jelvényt és egyenruhát kell biztosítani.
+103. § (1) Az erdészeti hatósági feladatokat ellátó személyek részére szolgálati igazolványt a rendőrség állít ki.
 
 (2) Az erdészeti hatóság eljárása során jogosult
 
-- a) az erdőgazdálkodó és a tulajdonos engedélye nélkül külön térítés fizetése nélkül valamennyi erdészeti magánúton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni;
-- b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni;
-- c) az erdőt veszélyeztető vagy károsító cselekmény elkövetésén tetten ért személyt igazoltatni, a jogellenes cselekmény abbahagyására felszólítani;
-- d) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
+- a) az erdőgazdálkodó és a tulajdonos engedélye nélkül külön térítés fizetése nélkül valamennyi erdészeti magánúton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni,
+- b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni,
+- c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
 
 (3) Az állam az erdő védelme, károsításának megelőzése, valamint az erdészeti hatósági tevékenységhez kapcsolódó ellenőrzés érdekében az erdészeti hatóság szervezetében – a bejelentések fogadására és kezelésére 24 órában alkalmas – erdővédelmi szolgálatot működtet.
 
 (4) Az erdővédelmi szolgálat tagja az erdészeti hatóság illetékességi területén jogosult és köteles
 
-- a) az erdők védelmére vonatkozó előírások betartását ellenőrizni;
-- b) az erdőket veszélyeztető vagy károsító, jogellenes cselekményt elkövető személyt cselekményének abbahagyására felszólítani, feltartóztatni, igazoltatni, ellene eljárást kezdeményezni;
-- c) azt a járművet, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett faanyag, szaporítóanyag vagy egyéb erdei termék van – a tervezett intézkedése okának és céljának közlése mellett – feltartóztatni, átvizsgálni, a jármű vezetőjét és a járművön, illetve az abban tartózkodó személyt igazoltatni;
-- d) az erdőket veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személytől a jogellenesen szerzett faanyagot és szaporítóanyagot, illetve egyéb erdei terméket, valamint az elkövetéshez (veszélyeztetéshez) használt eszközt elvenni;
-- e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellenszegülő személyt elfogni, ruházatát átvizsgálni, valamint a rendőr megérkezéséig visszatartani, vagy a legközelebbi rendőri szervhez előállítani;
-- f) jogszerű intézkedésével szemben történt ellenszegülés megszüntetésére kényszerítő eszközt alkalmazni, az ellenszegülő vagy támadó személytől fegyvert, élet kioltására alkalmas, illetve más veszélyes eszközt elvenni és az illetékes rendőri szervnek átadni.
+- a) az erdők védelmére vonatkozó előírások betartásának ellenőrzése során,
+- b) az erdőket veszélyeztető vagy károsító, jogellenes cselekményt elkövető személlyel szemben,
+- c) olyan jármű vezetőjével szemben, amelyről alaposan feltételezhető, hogy azon jogellenesen szerzett faanyag, szaporítóanyag vagy egyéb erdei termék van,
+- d) az erdőket veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett faanyag és szaporítóanyag, illetve egyéb erdei termék, valamint az elkövetéshez (veszélyeztetéshez) használt eszköz biztosítása érdekében,
+- e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellenszegülő személlyel szemben
 
-(5) Az erdővédelmi szolgálat tagja könnygázszóró palack és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – gáz- és riasztófegyver, valamint lőfegyver tartására jogosult, melyet egyenruhás szolgálatban nyíltan viselhet.
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-104. § (1) Az erdővédelmi szolgálat tagja az arányosság követelményének betartásával
+(5) Az erdővédelmi szolgálat tagja vegyi eszköz és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – maroklőfegyver tartására jogosult, melyet külterületen, egyen- vagy formaruhás szolgálatban nyíltan viselhet.
 
-- a) a jogszerű intézkedésével szembeni ellenállás megtörése érdekében testi kényszert, könnygázszóró palackot, szolgálati kutyát;
-- b) az ellene irányuló támadás megakadályozására könnygázszóró palackot, szolgálati kutyát, gáz- és riasztófegyvert alkalmazhat.
-
-(2) Az erdővédelmi szolgálat tagja lőfegyvert kizárólag jogos védelmi helyzetben használhat, feltéve, hogy más kényszerítő eszköz nem alkalmas a támadás elhárítására, vagy az eset körülményei folytán a megelőző intézkedésekre már nincs idő.
-
-(3) A testi kényszer, a könnygázszóró palack, a szolgálati kutya vagy a gáz- és riasztófegyver, valamint a lőfegyver alkalmazására – ha az eset körülményei lehetővé teszik – az érintettet előzetesen figyelmeztetni kell.
-
-(4) A testi kényszer, a könnygázszóró palack, a szolgálati kutya vagy a gáz- és riasztófegyver, valamint a lőfegyver alkalmazása során lehetőleg kerülni kell a testi sérülés okozását.
-
-(5) Az intézkedés során megsérült személy részére – amint lehetséges – az erdővédelmi szolgálat tagja köteles a tőle elvárható módon segítséget nyújtani. Szükség esetén az erdővédelmi szolgálat tagja köteles gondoskodni arról, hogy az intézkedés során megsérült személyt orvos elláthassa.
-
-(6) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, a gáz- és riasztófegyver és a lőfegyver alkalmazását az intézkedést követően haladéktalanul – amint az eset körülményei lehetővé teszik – jelenteni kell a rendőrségnek.
-
-(7) A testi kényszer, a könnygázszóró palack, a szolgálati kutya, a gáz- és riasztófegyver és a lőfegyver alkalmazásának jogszerűségét a rendőrség vizsgálja ki a közigazgatási hatósági eljárás általános szabályai szerint.
+#### 104. §
 
 ### Eljárási szabályok
 

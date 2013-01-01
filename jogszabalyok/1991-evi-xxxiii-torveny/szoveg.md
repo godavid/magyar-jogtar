@@ -41,11 +41,7 @@ Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormá
 - a) a megszűnt tanács, illetve szerve, intézménye,
 - b) az Öt. hatálybalépésekor a tanácsok felügyelete alatt állt, közüzemi célra alapított állami gazdálkodó szervezet (a továbbiakban: tanácsi közüzem), illetve tanácsi alapítású költségvetési üzem vagy jogutódja (a továbbiakban együtt: költségvetési üzem) van az ingatlannyilvántartásban bejegyezve.
 
-(2) A műemlék épület önkormányzat tulajdonába adásához a kultúráért felelős miniszter egyetértése szükséges. Az egyetértés az épület védettségével, fenntartásával, felújításával, használati módjával kapcsolatos feltételhez köthető. E feltételt a fővárosi és megyei kormányhivatal az önkormányzattal közli, illetve döntésébe foglalja.
-
-(3) Ha az önkormányzat a kultúráért felelős miniszter által meghatározott feltétel teljesítését nem vállalja, a műemlék épület nem adható tulajdonába.
-
-(4) Az önkormányzat tulajdonába kerülő műemlék épület korlátozottan forgalomképes. Elidegenítéséhez, megterheléséhez, kezelői joga átruházásához, használati vagy bérleti joga gazdasági társaságba való beviteléhez a kultúráért felelős miniszter hozzájárulása is szükséges.
+(2)–(4)
 
 4. § (1) A műemlék épületet (épületrészt) a rendeltetése alapján az abban közhatalmi helyi feladatot végző, illetve az abban működő intézményt fenntartó önkormányzat tulajdonába kell adni. Az önkormányzat által használt épületrésznek minősül az is, amelyet az önkormányzat hasznosít.
 
@@ -314,7 +310,7 @@ Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormá
 
 (3) A megyei, fővárosi közigazgatási hivatal használatába kell adni az (1) bekezdésben megjelölt vagyont, ha a volt tanács és szervei, illetve tisztségviselői, valamint a (2) bekezdésben felsoroltak feladatait jogutódként a megyei, fővárosi közigazgatási hivatal vezetője látja el.
 
-(4) Az állami szerv használatában lévő vagyont az önkormányzat használatába kell adni, ha az állami szerv által biztosított közszolgáltatást törvény az önkormányzat kötelező feladatává teszi vagy az állami szerv által végzett államigazgatási feladatot törvény, illetve kormányrendelet a főpolgármesterre, polgármesterre, a megyei közgyűlés elnökére, a főjegyzőre, jegyzőre, képviselőtestület hivatalának ügyintézőjére bízza.
+(4) Az állami szerv használatában lévő vagyont az önkormányzat használatába kell adni, ha az állami szerv által biztosított közszolgáltatást törvény az önkormányzat kötelező feladatává teszi vagy az állami szerv által végzett államigazgatási feladatot törvény, illetve kormányrendelet a főpolgármesterre, polgármesterre, a megyei közgyűlés elnökére, a főjegyzőre, jegyzőre bízza.
 
 (5) Ha a feladat- és hatáskört megállapító jogszabály másként nem rendelkezik, az átadás időpontját az érintett önkormányzatok, illetve állami szervek megállapodása határozza meg. A használatba vétel kezdő időpontja — megállapodás hiányában — a feladat- és hatáskört megállapító jogszabály hatályba lépését követő év január 1. napja.
 

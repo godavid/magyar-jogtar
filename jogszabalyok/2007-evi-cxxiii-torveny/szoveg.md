@@ -15,19 +15,19 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - a) honvédelem;
 - b) nemzetközi szerződés alapján megvalósuló területcsere;
 - c) terület- és településrendezés;
-- d) kötelező állami, illetve kötelező önkormányzati feladathoz kapcsoló oktatási, egészségügyi, szociális, valamint kommunális hulladékkezelő létesítmény elhelyezése;
+- d) kötelező állami, illetve kötelező önkormányzati feladathoz kapcsoló oktatási, egészségügyi, szociális létesítmény elhelyezése;
 - e) közlekedési infrastruktúra fejlesztése;
 - f) energiatermelés;
 - g) energiaellátás;
 - h) bányászat;
 - i) elektronikus hírközlési szolgáltatás;
-- j) kulturális örökségvédelem;
+- j) örökségvédelem;
 - k) természetvédelem;
 - l) vízgazdálkodás, víziközmű-szolgáltatás;
 - m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés;
 - n) építésügyi korlátozások felszámolása;
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
-- p)
+- p) környezetvédelem;
 - q) sportinfrastruktúra fejlesztése.
 
 3. § (1) Kisajátításnak akkor van helye, ha
@@ -35,7 +35,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - a) a közérdekű cél megvalósítása az ingatlanon fennálló tulajdon korlátozásával nem lehetséges, vagy – külön törvény alapján – a közérdekű használati jog, vezetékjog, szolgalmi jog alapításában a tulajdonossal nem jött létre megállapodás, illetve e jogokat az illetékes hatóság nem engedélyezte;
 - b) az ingatlan tulajdonjogának megszerzése adásvétel – törvényben meghatározott esetben csere – útján nem lehetséges;
 - c) a közérdekű cél megvalósítására kizárólag az adott ingatlanon kerülhet sor, illetve ha a közérdekű cél megvalósítására több ingatlan alkalmas, annak más ingatlanon való megvalósítása a tulajdon nagyobb sérelmével járna; és
-- d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a kisajátítási hatóság a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, kulturális örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
+- d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a kisajátítási hatóság a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
 
 (2) Az adásvételi szerződés megkötését meghiúsultnak kell tekinteni, ha
 
@@ -70,7 +70,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - gb) a bányászati tevékenység az ingatlan rendeltetésszerű használatát megszünteti,
   - gc) szénhidrogén szállítóvezetékek, valamint ezek tartozékai és alkotórészei elhelyezése és üzemeltetése céljából szolgalmi jog alapításában a tulajdonos és az engedélyes, illetve a vezeték tulajdonosa között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a szolgalmi jogot az illetékes hatóság nem engedélyezte;
 - h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hírközlési építmény elhelyezése és üzemeltetése céljából közérdekű használati jog alapításában az ingatlan tulajdonos és az engedélyes között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a használati jogot az illetékes hatóság nem engedélyezte;
-- i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
+- i) örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
   - ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
   - ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
   - ic) a nemzeti emlékhely megközelítése másként nem lehetséges,
@@ -87,10 +87,21 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljából, ha
   - la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
   - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
-- m)
+- m) környezetvédelem céljából, ha
+  - ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
+  - mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
+  - mc) hulladékkezelő létesítmény rekultivációja
+
+érdekében szükséges;
+
 - n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül.
 
-(2) A 3. § (1) bekezdésének d) pontját e paragrafus (1) bekezdés da), db) és ka) pontjai szerinti beruházások esetében nem kell alkalmazni.
+(2) Nem kell alkalmazni
+
+- a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
+- b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
+
+(3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.
 
 5. § (1) A 2. § n)–o) pontja alapján az ingatlan megvásárlása és kisajátítása kezdeményezésének joga az ingatlan tulajdonosát is megilleti, ha
 
@@ -128,7 +139,7 @@ jelentősen akadályozza vagy megszünteti.
 
 (3) Védett természeti területet érintő kisajátításhoz – a 4. § (1) bekezdésének j) pontjában szabályozott esetek kivételével – a természetvédelmi hatóság előzetes hozzájárulása szükséges.
 
-(4) Védetté nyilvánított régészeti lelőhely, illetve műemlék kisajátításához – a 4. § (1) bekezdésének i) pontjában szabályozott esetek kivételével – a kulturális örökségvédelmi hatóság előzetes hozzájárulása szükséges.
+(4) Védetté nyilvánított régészeti lelőhely, illetve műemlék kisajátításához – a 4. § (1) bekezdésének i) pontjában szabályozott esetek kivételével – a kormányrendeletben meghatározott szerv előzetes hozzájárulása szükséges.
 
 (5) Véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljára történő kisajátításához be kell szerezni a területileg illetékes erdészeti hatóság hozzájárulását, ha a kisajátítást más szerv kérte. Ez a rendelkezés védőfásításnak közút és vasút mentén, valamint egyéb műszaki létesítmény tartozékát képező, azzal azonos földrészleten lévő, a patak, csatorna medrében lévő, illetve azt szegélyező, a külön törvény szerint erdőnek nem minősülő faállományként történő telepítése céljára kért kisajátítás esetére nem vonatkozik.
 
@@ -353,7 +364,7 @@ kell figyelembe venni.
 32. § (1) A kisajátítási határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a pert a kisajátítást kérő ellen is meg kell indítani;
-- b) a közigazgatási perben az ingatlan fekvése szerint illetékes törvényszék jár el;
+- b) a közigazgatási perben az ingatlan fekvése szerint illetékes közigazgatási és munkaügyi bíróság jár el;
 - c) a bíróságnak a keresetlevél beérkezését követő 45 napon belül tárgyalást kell tartania;
 - d) a bíróságnak a jogalap tekintetében három hónapon belül közbenső ítélettel döntést kell hoznia, kivéve, ha az ügyben igazságügyi szakértő kirendelése szükséges és a szakértői vélemény előterjesztésére ezen időszak alatt az ügy bonyolultsága miatt nem kerülhet sor, vagy ha a keresetet elutasítja;
 - e) a bíróság – kérelemre – ideiglenes intézkedéssel rendelkezhet az ingatlan birtokba adásáról, amennyiben a kártalanítás igazságügyi szakértő által megállapított összegének a birtokbaadással egyidejű megfizetését a kisajátítást kérő vállalja. A pert – a felek megegyezésének hiányában – a kártalanítás összegszerűsége tekintetében tovább kell folytatni;
@@ -457,3 +468,5 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 (4) Azok a nem igazságügyi szakértők, akik e törvény hatálybalépésének időpontjában, jogszabályi rendelkezés alapján kisajátítási eljárásban szakértőként való eljárásra jogosultak, e törvény hatálybalépését követő egy évig szakértőként kirendelhetők, eljárásukra az e törvény hatálybalépését megelőzően hatályos rendelkezéseket kell alkalmazni.
 
 42. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény módosításáról szóló 2012. évi LXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított 32. § (1) bekezdés f) és g) pontját a Módtv. hatálybalépését követően indult bírósági eljárásokban kell alkalmazni.
+
+43. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CLXXXIV. törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt hatósági eljárásokban, valamint a hatálybalépésüket követően indult bírósági eljárásokban kell alkalmazni.

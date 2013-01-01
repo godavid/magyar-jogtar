@@ -77,7 +77,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - a) a település nem közműves ivóvízellátásáról;
 - b) a 2000 lakosegyenértékkel jellemezhető szennyvízkibocsátás feletti szennyvízelvezetési agglomerációt alkotó településeken a keletkező használt vizek (szennyvizek) szennyvízelvezető művel való összegyűjtéséről, tisztításáról, a tisztított szennyvíz elvezetéséről, illetőleg a más módon összegyűjtött szennyvíz, továbbá a szennyvíziszap ártalommentes elhelyezésének megszervezéséről;
 - c) a b) pontban meghatározott feladatok ellátásáról a lakosegyenértéktől függetlenül azokon a területeken, amelyeket a vízbázisok, távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről, továbbá a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló jogszabályok határoznak meg;
-- d) a hulladékgazdálkodásról szóló külön törvény szerint nem közművel összegyűjtött szennyvizek ártalommentes elhelyezésének szervezéséről és ellenőrzéséről.
+- d) a településen található szennyvízbekötés nélküli ingatlanok esetében a nem közművel összegyűjtött háztartási szennyvíz begyűjtésének szervezéséről és ellenőrzéséről.
 
 (3) Az (1) bekezdésben felsorolt feladatok — a külön jogszabályokban a polgármester, illetve a jegyző hatáskörébe utalt feladatok kivételével — a képviselő-testület, a főváros esetében a fővárosi önkormányzat képviselő-testületének hatáskörébe tartoznak.
 
@@ -172,7 +172,7 @@ adottságok.
 
 (2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízgazdálkodásért felelős miniszter évente rendeletben állapítja meg.
 
-(3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a települési önkormányzat jegyzője veti ki.
+(3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala veti ki.
 
 9. § (1)
 
@@ -301,7 +301,7 @@ alapján kell kiszámítania.
 
 (3) A vízhasználó a vízjogi engedélyben megjelölt vízmennyiség 80%-a után köteles az (1) bekezdés a) pontjában meghatározott alapjárulék figyelembevételével – a §-ban meghatározottak szerint – a vízkészletjárulékot kiszámítani, ha az általa igénybe vett víz mennyisége a vízjogi engedélyben megjelölt mennyiség 80%-át nem éri el.
 
-(4) Az üzemi fogyasztónak a vízkészletjárulékot 14,10 forint/m3 járulék alapján a ténylegesen igénybe vett vízmennyiség után kell kiszámítania.
+(4) Az üzemi fogyasztónak a vízkészletjárulékot 14,10 forint/m3 alapjárulék alapján a ténylegesen igénybe vett vízmennyiség után kell kiszámítania.
 
 15/C. § (1) Nem kell a vízhasználónak vízkészletjárulékot fizetnie
 
@@ -318,40 +318,42 @@ alapján kell kiszámítania.
 - k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
 - l) öntözési, rizstermelési és halgazdasági vízhasználatok vonatkozásában.
 
-(2) A vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó bejelentési kötelezettséget.
+(2) Az (1) bekezdés f), g) és l) pontjában foglalt esetben a vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó, 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
 
 (3) A vízhasználónak az (1) bekezdés b) és f) pontjaiban megjelölt mentesség megállapítását az ok bekövetkezésétől számított hatvan napon belül az illetékes vízügyi hatóságtól kell kérnie. Hatvan nap után a mentességre hivatkozni nem lehet.
 
 (4) Nem kell az üzemi fogyasztónak vízkészletjárulékot fizetnie, ha a közegészségügyi előírások az igénybe vett vízmennyiség több mint 50%-ára ivóvízminőséget határoznak meg.
 
-(5) A vízkészletjárulék fizetésére kötelezett köteles fizetési kötelezettségét annak keletkezésétől – vízhasználónál a vízjogi engedély kézhezvételétől, üzemi fogyasztónál a vízfelhasználás megkezdésétől – számított 15 napon belül az illetékes vízügyi hatóságnak – az e célra készített nyomtatványon – bejelenteni (bejelentkezés).
+(5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
-(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a jogerős vízjogi engedély kézhezvételével, üzemi vízfogyasztónál a vízfelhasználás megkezdésével keletkezik.
+(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély jogerőre emelkedésével, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
 (8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben, az adóévben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
 
-15/D. § (1) A vízhasználó és az üzemi vízfogyasztó – a (2) és (3) bekezdésekben megállapított kivételekkel – a vízkészletjárulékot a tárgynegyedévet követő hónap 15. napjáig köteles az illetékes vízügyi hatóság által megjelölt számlára befizetni.
+15/D. § (1) A vízhasználó a naptári év első három negyedévének vízigénybevétele után számított vízkészletjárulékot és az üzemi vízfogyasztó a vízkészletjárulékot – a (2) és (3) bekezdésben foglalt kivételekkel – a tárgynegyedévet követő hónap 15. napjáig köteles az illetékes vízügyi hatóság által megjelölt számlára befizetni.
 
 (2) A tárgyévet követő első hónap 15. napjáig köteles a vízhasználó a vízkészletjárulékot befizetni,
 
 - a) ha a vízjogi engedélyben meghatározott éves vízmennyiség napi átlaga (365 nap alapján) nem haladja meg a 25 m3/nap mennyiséget (kisfogyasztó),
-- b) ha az évnek csak meghatározott időszakában használt vizet (időszakos vízhasználó),
-- c) a többletmennyiség után, ha a vízjogi engedélyben meghatározott vízmennyiséget – az egyes külön megjelölt időszakokra is tekintettel – 10%-nál nagyobb mértékben túllépi.
+- b) ha az évnek csak meghatározott időszakában használt vizet (időszakos vízhasználó).
 
 (3) Az engedély nélküli vízhasználat után a vízkészletjárulékot a jogerős hatósági határozat közlését követő hónap 15. napjáig kell kiszámítani és befizetni.
 
-(4)
+(4) A tárgyévet követő első hónap 15. napjáig köteles befizetni a negyedéves befizetési kötelezettség alá tartozó vízhasználó az éves teljes vízigénybevétele után fizetendő vízkészletjárulék, és az első három negyedéves vízigénybevétele után az (1) bekezdésben meghatározottak szerint befizetett vízkészletjárulék közti különbséget.
 
-(5) A járulékfizetésre kötelezett által befizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a készletjárulék tartozásra kell elszámolni.
+(5) A járulékfizetésre kötelezett által befizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a vízkészletjárulék tartozásra kell elszámolni.
 
 (6) A vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendeletben meghatározott adásvételre vagy kisajátításra fordított pénzösszeg a befizetett vízkészletjárulékból visszaigényelhető.
 
-15/E. § (1) A vízkészletjárulék fizetésre kötelezett a bejelentkezésen és befizetésen túl köteles az illetékes vízügyi hatóság részére nyilatkozatot adni
+15/E. § (1) A vízhasználó a naptári év első három negyedévében, az üzemi fogyasztó negyedévente a tárgynegyedévet követő hónap 15. napjáig köteles az e célra szolgáló adatlapon az illetékes vízügyi hatóság részére nyilatkozni a tényleges vízigénybevételéről, valamint a fizetési kötelezettség alapadatairól, kiszámításáról.
 
-- a) a tényleges vízigénybevételéről, a fizetési kötelezettség alapadatairól, kiszámításáról, a 15/B. § (1)–(3) bekezdéseiben előírt határidőben, valamint a negyedéves befizetési kötelezettség körébe eső vízhasználó az éves adatokról összevontan is, a tárgyévet követő hó 15. napjáig, az e célra szolgáló adatlapon, a befizetett összegek jogcímeiről pedig a teljesítés (átutalási) bizonylatán,
-- b) az üzemi fogyasztó részére lekötött vízmennyiségekről a tárgyévet követő hónap 15. napjáig az e célra szolgáló adatlapon.
+(1a) A vízhasználó az (1) bekezdésben meghatározott éves adatokról – összevontan is – a tárgyévet követő hó 15. napjáig köteles az illetékes vízügyi hatóság részére nyilatkozni.
+
+(1b) Az (1) bekezdésben foglaltaktól eltérően a 15/D. § (2) bekezdésében meghatározott, éves befizetési kötelezettség körébe eső vízhasználó az (1) bekezdésben meghatározott adatokról az e célra szolgáló adatlapon a tárgyévet követő hónap 15. napjáig köteles nyilatkozni.
+
+(1c) A közüzemi szolgáltató köteles nyilatkozni az üzemi fogyasztó részére lekötött és ténylegesen szolgáltatott vízmennyiségről a tárgyévet követő hónap 15. napjáig az e célra szolgáló adatlapon.
 
 (2) A vízkészletjárulék-fizetés bizonylatait a vízügyi hatóság ellenőrzi. Ha a fizetésre kötelezett a bejelentkezési, a nyilatkozattételi, a nyilvántartási, illetőleg a vízkészletjárulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon vízügyi hatóságot kell érteni.
 
@@ -431,6 +433,8 @@ alapján kell kiszámítania.
 - c) a vízrajzi észleléshez, a hajóút kitűzéséhez, valamint az egyéb szakfeladatok ellátásához szükséges jeleket, létesítményeket az ingatlanon elhelyezzék és karbantartsák.
 
 (4) Az ingatlan tulajdonosát (használóját) az (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
+
+(5) A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét a vízjogi üzemeltetési engedély jogerőre emelkedése napjától kezdődően e törvény erejénél fogva mederhasználati jog illeti meg, melyet külön jogszabályban meghatározottak szerint kell bejegyezni.
 
 21. § (1) Vízkárelhárítási célú tározónak minősül a záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó, a vésztározó és a belvíztározó.
 
@@ -581,9 +585,9 @@ indokolja.
 
 36. § (1) A víziközmű társulat megalakulását – egyéb jogszabály szerinti – szervező bizottság készíti elő.
 
-(2) A víziközmű társulat legfőbb szerve a közgyűlés.
+(2) A víziközmű társulat legfőbb szerve a taggyűlés.
 
-(3) A közgyűlés tagjait az alapszabályban meghatározott eljárásnak megfelelően a tagok delegálják.
+(3) A taggyűlés tagjait az alapszabályban meghatározott eljárásnak megfelelően a tagok delegálják.
 
 (4) A víziközmű társulat ügyvezetését az intézőbizottság látja el.
 
@@ -591,31 +595,37 @@ indokolja.
 
 (6) A víziközmű társulat intézőbizottsága elnökből és legalább kettő, legfeljebb hét tagból áll.
 
-(7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a közgyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
+(7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a taggyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
 
 (8) Az intézőbizottság és az ellenőrző bizottság ügyrendjét maga állapítja meg.
 
-37. § (1) A víziközmű társulat csak víziközmű társulattá alakulhat át.
+37. § (1) Víziközmű társulat csak víziközmű társulattal egyesülhet, víziközmű társulat csak víziközmű társulatokká válhat szét. Víziközmű társulat átalakulással egyéb módon nem jöhet lére.
 
-(2) A víziközmű társulat a közfeladatok ellátásához szükséges elkülönített vagyonával gazdasági társaságot, nonprofit gazdasági társaságot, alapítványt nem hozhat létre, gazdasági társaságban, nonprofit gazdasági társaságban érdekeltséget nem szerezhet, alapítvány részére pénzbeli vagy egyéb hozzájárulást nem teljesíthet.
+(2) A víziközmű társulat gazdasági társaságot, nonprofit gazdasági társaságot, alapítványt nem hozhat létre, gazdasági társaságban, nonprofit gazdasági társaságban érdekeltséget nem szerezhet, alapítvány részére pénzbeli vagy egyéb hozzájárulást nem teljesíthet.
 
 (3) A víziközmű társulat tartozásaiért saját vagyonával felel. A tagok a víziközmű társulat tartozásaiért nem felelnek.
 
-(4) A víziközmű társulat jogutód nélküli megszűnése esetén – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény rendelkezéseinek megfelelően – végelszámolásra kerül sor.
+(4) Ha a víziközmű társulat közfeladatát teljesítette, a vízgazdálkodási társulatokról szóló kormányrendelet szerinti elszámolási eljárásra, ha a közfeladat teljesítése nélkül jogutód nélkül megszűnik, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti végelszámolásra kerül sor.
 
 ### Víziközmű társulat
 
 38. § A víziközmű társulat közfeladatként a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítményeket hoz létre, illetve fejleszt.
 
-39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes vízügyi igazgatási szerv gyakorolja.
+39. § (1) A víziközmű társulat törvényességi felügyeletét a cégbíróság látja el. A cégbíróságnak a víziközmű társulattal kapcsolatos eljárására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény előírásait kell alkalmazni.
 
-(2) A törvényességi felügyelet kiterjed a társulat megalakulásának, működésének, ellenőrzésére, továbbá annak vizsgálatára, hogy
+(2) A víziközmű társulat felett törvényességi ellenőrzést gyakorol a társulat székhelye szerinti vízügyi igazgatási szerv.
 
-- a) alapszabálya, valamint más belső szabályzatai,
-- b) szerveinek határozatai és a testületi szervek működése,
-- c) az érdekeltségi (tagsági) jogviszony keretében a jogok gyakorlása és kötelezettségek teljesítése megfelel a jogszabályoknak, továbbá a testületi szervek határozatainak és a társulat alapszabályának.
+(3) A vízügyi igazgatási szerv a törvényességi ellenőrzés keretében:
 
-(3) A közfeladat ellátás állami ellenőrzésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadók.
+- a) tagja a szervező bizottságnak és nyomon követi annak munkáját, továbbá részt vesz a taggyűlésen,
+- b) ellenőrzi a víziközmű társulat alapszabályát, belső szabályzatát és határozatait,
+- c) vizsgálja a víziközmű társulat szerveinek működését,
+- d) ellenőrzi, hogy a végzett tevékenység mennyiben jelenti a 38. §-ban foglalt közfeladat ellátását,
+- e) vizsgálja a közfeladat teljesítésének végrehajtását követően az elszámolási eljárás lefolytatását.
+
+(4) Ha a vízügyi igazgatási szerv a jogszabályban, az alapszabályban vagy a belső szabályzatban foglaltak megsértését észleli, felhívja a víziközmű társulatot a jogsértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni.
+
+(5) Ha a megadott határidőn belül a jogsértést a víziközmű társulat nem szüntette meg, a vízügyi igazgatási szerv tizenöt napon belül kérelmezi a cégbíróságnál a törvényességi felügyeleti eljárás lefolytatását.
 
 ### A víziközmű társulat megalakulása
 
@@ -628,6 +638,8 @@ indokolja.
 (2) A víziközmű társulat a cégjegyzékbe való bejegyzéssel, a bejegyzés napjával jön létre.
 
 (3) Az (1) bekezdés a) és b) pontja vonatkozásában a tagok kétharmadának, az (1) bekezdés c) pontja tekintetében a tagok több mint felének szavazata szükséges.
+
+(4) A víziközmű társulat a cégnyilvántartásba való bejegyzését követően kezdheti meg működését.
 
 41. § A víziközmű társulat alapszabályában meg kell határozni:
 
@@ -643,41 +655,140 @@ indokolja.
 
 ### A víziközmű társulat működése és tevékenysége
 
-42. § (1) A közgyűlés évente legalább egyszer ülést tart.
+42. § (1) A taggyűlés évente legalább egyszer ülést tart.
 
-(2) A közgyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult.
+(2) A taggyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult.
 
-(3) A tagok legalább 10%-ának kezdeményezésére a közgyűlést össze kell hívni.
+(3) A tagok legalább 10%-ának kezdeményezésére a taggyűlést össze kell hívni.
 
-(4) A napirendet tartalmazó írásbeli meghívót a közgyűlés tervezett időpontja előtt legalább 15 nappal ki kell küldeni, és a helyben szokásos módon is közzé kell tenni.
+(4) A napirendet tartalmazó írásbeli meghívót a taggyűlés tervezett időpontja előtt legalább 15 nappal ki kell küldeni, és a helyben szokásos módon is közzé kell tenni.
 
-(5) A közgyűlés akkor határozatképes, ha a tagjainak több mint 50%-a jelen van.
+(5) A taggyűlés akkor határozatképes, ha a tagjainak több mint 50%-a jelen van.
 
-(6) Az alapszabály módosításához, a víziközmű társulat megszüntetéséhez, más víziközmű társulattal történő egyesüléséhez, illetve szétválásához a közgyűlés több mint 50%-ának szavazatával meghozott határozatára van szükség.
+(6) Az alapszabály módosításához, a víziközmű társulat megszüntetéséhez, más víziközmű társulattal történő egyesüléséhez, illetve szétválásához a taggyűlés több mint 50%-ának szavazatával meghozott határozatára van szükség.
 
-(7) Ha a közgyűlés nem határozatképes, az első üléstől számított 8 napon belüli időpontra összehívott második ülés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
+(7) Ha a taggyűlés nem határozatképes, az első üléstől számított 8 napon belüli időpontra összehívott második ülés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
 
-43. § A víziközmű társulat ellenőrző bizottságára e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvény rendelkezéseit kell alkalmazni.
+43. § A víziközmű társulatra e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvénynek a gazdasági társaságokra vonatkozó közös szabályait kell alkalmazni a víziközmű társulat sajátosságainak figyelembevételével.
 
 ### A víziközmű társulat vagyona
 
 44. § (1) A víziközmű társulat a tagok hozzájárulásából, valamint az érintett helyi önkormányzat és az állam költségvetési, illetve egyéb támogatásaiból látja el a közcélú feladatait.
 
-(2) A hozzájárulás mértékét a közgyűlés állapítja meg. A közgyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást a tagok pénzben kötelesek teljesíteni. A közgyűlés által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.
+(2) A hozzájárulás mértékét a taggyűlés állapítja meg. A taggyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást a tagok pénzben kötelesek teljesíteni. A taggyűlés által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.
 
 ### A víziközmű társulat megszűnése
 
 44/A. § (1) A víziközmű társulat jogutód nélkül megszűnik, ha
 
 - a) elhatározza jogutód nélküli megszűnését,
-- b) alapszabályban meghatározott közcélú feladatát megvalósította,
-- c) a cégbíróság a Cégtörvényben foglalt ok miatt megszünteti.
+- b) alapszabályban meghatározott közfeladatát megvalósította és az elszámolási eljárást befejezte,
+- c) a cégbíróság hivatalból elrendeli törlését.
 
 (2) A víziközmű társulat jogutódlással szűnik meg, ha másik víziközmű társulattá átalakul.
 
 (3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére átadja.
 
 (4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is átadhatja.
+
+### IX/A. Fejezet — A NEM KÖZMŰVEL ÖSSZEGYŰJTÖTT HÁZTARTÁSI SZENNYVÍZ BEGYŰJTÉSÉRE VONATKOZÓ KÖZSZOLGÁLTATÁS
+
+44/B. § Az ingatlan tulajdonosa, vagyonkezelője vagy egyéb jogcímen használója (e fejezet alkalmazásában, a továbbiakban együtt: ingatlantulajdonos) köteles az ingatlanán keletkező, közüzemi csatornahálózatba vagy a helyben való, engedélyezett módon történő tisztítás után befogadóba nem vezetett háztartási szennyvizet a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott módon gyűjteni, továbbá az annak begyűjtésére feljogosított közszolgáltatónak átadni.
+
+44/C. § (1) A települési önkormányzat vagy azok társulása kötelezően ellátandó közszolgáltatásként a közüzemi csatornahálózatba vagy a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott módon engedélyezett egyedi szennyvízkezelés után befogadóba nem vezetett háztartási szennyvíz begyűjtésére közszolgáltatást (a továbbiakban: közszolgáltatás) szervez és tart fenn. A nem közművel összegyűjtött háztartási szennyvíz átvételére köteles szennyvíztisztító telepet, szennyvízelvezető mű erre kijelölt elemét, a tavas vagy egyéb szennyvíztisztító művet (a továbbiakban együtt: átadási hely) a vízügyi hatóság – az átadás helye szerint illetékes települési önkormányzat jegyzője véleményének kikérésével – jelöli ki.
+
+(2) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
+
+- a) a közszolgáltatás tartalmát, a közszolgáltatással ellátott terület határait;
+- b) a közszolgáltató megnevezését, valamint annak a működési területnek a határait, amelyen belül a közszolgáltató a közszolgáltatást rendszeresen ellátni köteles és az ártalmatlanítás céljából történő átadási helyet;
+- c) a közszolgáltatás ellátásának rendjét, módját és időtartamát, a közszolgáltató és az ingatlantulajdonos ezzel összefüggő jogait és kötelezettségeit, valamint a közszolgáltatásra vonatkozó szerződés egyes tartalmi elemeit;
+- d) a közszolgáltatás igénybevételére vonatkozó kötelezettséget, a közszolgáltatás igénybevételének módját és feltételeit;
+- e) az ingatlantulajdonost terhelő díjfizetési kötelezettséget, az alkalmazható díj legmagasabb mértékét, megfizetésének rendjét, az esetleges kedvezmények és a szolgáltatás ingyenességének eseteit;
+- f) az üdülőingatlanokra, az időlegesen használt és a nem használt ingatlanokra vonatkozó sajátos szabályokat;
+- g) a közszolgáltatással összefüggő személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó rendelkezéseket.
+
+44/D. § (1) A közszolgáltatás igénybevételéért a nem közművel összegyűjtött háztartási szennyvíz mennyiségével arányos díjat kell fizetni.
+
+(2) A közszolgáltatás díjának meghatározása során a következőket kell figyelembe venni:
+
+- a) a háztartási szennyvíz mennyisége,
+- b) a közszolgáltatást működtető szolgáltató hatékony működéséhez szükséges folyamatos ráfordítások, ezen belül a begyűjtés költségei,
+- c) a közszolgáltatás fejleszthető fenntartásához szükséges költségek,
+- d) a közszolgáltatás megkezdését megelőzően felmerülő, a közszolgáltatás ellátásához szükséges beruházások költségei.
+
+(3) Az (1) és (2) bekezdés alapján meghatározott díjat csökkenteni kell a közszolgáltatás ellátásához biztosított költségvetési támogatással.
+
+(4) A közszolgáltatás díja egytényezős vagy kéttényezős lehet. A közszolgáltatási díjat legalább egyéves díjfizetési időszakra, általános forgalmi adó nélkül számított egységnyi díjtételek szerint kell meghatározni.
+
+(5) Kötelező kéttényezős díjmegállapítást alkalmazni a Nemzeti Települési Szennyvízelvezetési és -tisztítási Programban részt vevő önkormányzatok esetében.
+
+(6) A kéttényezős díj alapdíjból és ürítési díjból áll. Az alapdíj a nem közművel összegyűjtött háztartási szennyvíz mennyiségétől függetlenül felmerülő üzemeltetési költségek, a számlázás és díjbeszedés, a környezetvédelmi kiadások és ráfordítások, az amortizáció és a szükséges felújítás fedezetére, az ürítési díj az ártalmatlanítás céljából átadott nem közművel összegyűjtött háztartási szennyvíz mennyiségétől, valamint a terület felhasználási egységtől függő költségek fedezetére szolgál.
+
+(7) A közszolgáltatás díját meghatározó önkormányzati rendelet elfogadását megelőzően a közszolgáltató költségelemzés alapján az (1)–(6) bekezdésben foglaltaknak megfelelő díjkalkulációt készít. A díjkalkulációt a közszolgáltató javaslata alapján a jegyző, Budapesten a főjegyző terjeszti elő.
+
+44/E. § (1) A közszolgáltatás igénybevételéért az ingatlantulajdonost terhelő díjfizetési kötelezettség határidejének elmulasztása esetén díjhátralék keletkezik, amely az azzal összefüggésben megállapított késedelmi kamattal, valamint a behajtás egyéb költségeivel együtt adók módjára behajtandó köztartozásnak minősül.
+
+(2) A díjhátralék keletkezését követő 30 napon belül a közszolgáltató felhívja az ingatlantulajdonos figyelmét a díjfizetési kötelezettségének elmulasztására és felszólítja annak teljesítésére a jogkövetkezményekről történő tájékoztatás mellett.
+
+(3) A felszólítás eredménytelensége esetén a díjhátralék keletkezését követő 90. nap elteltével a közszolgáltató a díjhátralék, a késedelmi kamat és az egyéb költségek adók módjára történő behajtását kezdeményezi.
+
+(4) A települési önkormányzat jegyzője – a kezdeményezés kézhezvételétől számított 8 napon belül – a külön jogszabályban meghatározottak szerint intézkedik a díjhátralék, a késedelmi kamat és a felmerült költségek behajtása érdekében. A behajtott díjhátralékot, késedelmi kamatot, valamint a közszolgáltatónak az ezzel kapcsolatban felmerült és behajtott költségeit a települési önkormányzat jegyzője 8 napon belül átutalja a követelés jogosultjának.
+
+(5) Ha a közszolgáltatást igénybe vevő díjhátralékos nem tulajdonosa az ingatlannak és a vele szemben lefolytatott behajtás eredménytelen, a díjhátralékot, késedelmi kamatot és a felmerült költségeket az ingatlan tulajdonosától vagy vagyonkezelőjétől kell behajtani. Közös tulajdonban álló ingatlan esetében a tulajdonosok felelőssége egyetemleges.
+
+(6) A behajthatatlan díjhátralék esetében ennek tényéről és okáról a települési önkormányzat jegyzője – a behajtás eredménytelenségét követő 8 napon belül – igazolást ad a követelés jogosultjának.
+
+44/F. § (1) A közszolgáltató – az önkormányzati rendeletben előírt módon – folyamatosan köteles gondoskodni a nem közművel összegyűjtött háztartási szennyvíz begyűjtéséről a környezetvédelmi, vízügyi és közegészségügyi előírások megtartása mellett.
+
+(2) A begyűjtő a begyűjtési tevékenységét a vízügyi hatóságnak köteles bejelenteni. A vízügyi hatóság a bejelentés alapján nyilvántartást vezet a begyűjtési tevékenységet végzőkről.
+
+(3) Közszolgáltatást az végezhet, aki
+
+- a) biztosítani tudja a közszolgáltatás személyi és tárgyi feltételeit, amelyek garantálják a közszolgáltatás tartós, rendszeres és a környezetvédelmi szempontoknak maradéktalanul megfelelő ellátását,
+- b) a végzendő begyűjtési tevékenységet a begyűjtés helye szerint illetékes vízügyi hatóságnak bejelentette, és a vízügyi hatóság a tevékenységet nyilvántartásba vette,
+- c) közbeszerzési eljárás vagy – ha a közbeszerzésekről szóló törvény szerint nem szükséges – kijelölés alapján a települési önkormányzattal közszolgáltatási szerződést kötött.
+
+(4) A közszolgáltatásnak a környezet veszélyeztetését és szennyezését kizáró módon kell történnie.
+
+(5) A közszolgáltatást végző felelős a nem közművel összegyűjtött háztartási szennyvíz rendeltetési helyére történő biztonságos eljuttatásáért.
+
+(6) A közszolgáltatás teljesítéséből eredő szennyezés esetén a begyűjtést végző köteles a hulladék eltakarításáról, a terület szennyeződésmentesítéséről, a kárelhárításról, valamint az eredeti környezeti állapot helyreállításáról gondoskodni.
+
+44/G. § (1) A települési önkormányzat képviselő-testülete a közszolgáltatás ellátására írásban szerződést köt.
+
+(2) A közszolgáltatásra vonatkozó szerződést legfeljebb 10 évre lehet megkötni. Az ilyen szerződésben meg kell határozni a háztartási szennyvizet fogadó létesítményeket.
+
+(3) A közszolgáltatói szerződés csak akkor mondható fel az önkormányzat részéről, ha a közszolgáltató
+
+- a) a közszolgáltatás ellátása során a környezet védelmére és a vízgazdálkodásra vonatkozó jogszabályok, vagy a rá vonatkozó hatósági határozat előírásait súlyosan megsérti, és ennek tényét a bíróság vagy hatóság jogerősen megállapítja;
+- b) a szerződésben megállapított kötelezettségét neki felróhatóan súlyosan megsérti.
+
+(4) A teljesítés megkezdését követően a közszolgáltató a közszolgáltatási szerződést akkor mondhatja fel, ha
+
+- a) az önkormányzat a közszolgáltatási szerződésben meghatározott kötelezettségét – a közszolgáltató felszólítása ellenére – súlyosan megsérti, és ezzel a közszolgáltatónak kárt okoz vagy akadályozza a közszolgáltatás teljesítését, vagy
+- b) a közszolgáltatási szerződés megkötését követően hatályba lépett jogszabály a közszolgáltatási szerződés tartalmi elemeit úgy változtatja meg, hogy az a közszolgáltatónak a közszolgáltatás szerződésszerű teljesítése körébe tartozó lényeges és jogos érdekeit jelentős mértékben sérti.
+
+(5) A felmondási idő legalább két hónap, legfeljebb hat hónap.
+
+(6) A közszolgáltatási szerződés felmondása esetén a települési önkormányzatnak intézkednie kell, hogy a felmondási idő lejártát követően a közszolgáltatás biztosított legyen.
+
+44/H. § (1) A közszolgáltató köteles a közszolgáltatói tevékenységéről évente részletes költségelszámolást készíteni, és azt a tárgyévet követő év március 31-ig a települési önkormányzatnak benyújtani.
+
+(2) A közszolgáltatás kereteibe nem tartozó más szolgáltatás költségeit, elszámolását és díját szigorúan el kell különíteni, és e költségeket a közszolgáltatás díjából nem lehet finanszírozni.
+
+44/I. § (1) A települési önkormányzatot a közszolgáltatás megszervezéséért és működtetéséért a költségvetési törvényben biztosított módon és összegben feladathoz kötött támogatás illeti meg.
+
+(2) A települési önkormányzat az (1) bekezdés szerinti feladathoz kötött támogatásra csak akkor jogosult, ha a nem közművel összegyűjtött háztartási szennyvíz ártalommentes elhelyezésével összefüggő kötelezettségeinek maradéktalanul eleget tesz.
+
+(3) Ha a települési önkormányzat a közszolgáltatás ellátására vonatkozó kötelezettségének nem tesz eleget, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezi, hogy az (1) bekezdés szerinti feladathoz kötött költségvetési támogatást az azt folyósító szervezet a közszolgáltatás megszervezéséig visszatartsa, illetve zárolja és ezzel egy időben eljár a Magyarország helyi önkormányzatairól szóló törvény alapján a közszolgáltatás biztosítása érdekében.
+
+44/J. § (1) Ha az ingatlantulajdonos vagy a közszolgáltató a nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos tevékenységét jogszabálytól vagy a bejelentésben foglaltaktól eltérő módon végzi, közszolgáltatási bírságot köteles fizetni.
+
+(2) A közszolgáltatási bírságot a vízügyi hatóság szabja ki.
+
+(3) Az (1) bekezdésben meghatározott cselekmény elkövetésétől számított öt éven túl bírság kiszabására nincs lehetőség, kivéve, ha a cselekmény a jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll. A bírság kiszabására a vízügyi hatóságnak a cselekményről való tudomásszerzésétől számított egy éven belül van lehetősége.
+
+(4) A jogerősen kivetett közszolgáltatási bírság adók módjára behajtandó köztartozás.
 
 ### X. Fejezet — Záró rendelkezések
 
@@ -689,7 +800,7 @@ indokolja.
 
 (5) E törvénynek a társulatok felügyeletére vonatkozó rendelkezését — a törvény hatálybalépésekor működő társulat esetén — a cégjegyzékbe történő bejegyzést követően kell alkalmazni.
 
-(6)
+(6) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy a törvény 44/C. § (2) bekezdésében meghatározottakat rendeletben szabályozza.
 
 (7) Felhatalmazást kap a Kormány
 
@@ -716,7 +827,8 @@ indokolja.
 - u)
 - v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 - w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
-- x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok
+- x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok;
+- y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek
 
 rendeletben történő megállapítására.
 
@@ -736,7 +848,8 @@ rendeletben történő megállapítására.
 - l)
 - m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 - n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
-- o) a folyók nagyvízi medrére vonatkozó kezelési terv
+- o) a folyók nagyvízi medrére vonatkozó kezelési terv;
+- p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbázisokkal érintett települések jegyzékének
 
 rendeletben történő megállapítására.
 
@@ -751,10 +864,14 @@ rendeletben történő megállapítására.
 - a) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvíztisztításról 2. cikkének (4) bekezdése, (6) bekezdése és (9) bekezdése, 3. cikke;
 - b) a Tanács 98/83/EK irányelve (1998. november 3.) az emberi fogyasztást szolgáló víz minőségéről;
 - c) az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a közösségi cselekvés kereteinek a vízpolitika területén történő meghatározásáról 4. cikkének (1)–(2) bekezdése, 6. cikkének (2) bekezdése és 14. cikkének (1) bekezdése;
-- d) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékgazdálkodásról szóló 2000. évi XLIII. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt;
+- d) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékról szóló 2012. évi CLXXXV. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt;
 - e) az Európai Parlament és a Tanács 2007/60/EK irányelve (2007. október 23.) az árvízkockázatok értékeléséről és kezeléséről 5. cikkének (1) bekezdése, 6. cikkének (1) bekezdése, 7. cikkének (1) bekezdése.
 
 45/B. § E törvénynek az egyes törvényeknek a vízkárelhárítás hatékonyabbá tételével összefüggő módosításáról szóló 2011. évi XXII. törvénnyel (a továbbiakban: törvénymódosítás) megállapított rendelkezéseit a törvénymódosítás hatálybalépésekor a jogerősen még el nem bírált vízügyi és építésügyi hatósági eljárásokban is alkalmazni kell.
+
+45/C. § (1) E törvénynek a hulladékról szóló 2012. évi CLXXXV. törvénnyel (a továbbiakban: Ht.) megállapított rendelkezéseit a Ht. hatálybalépésekor jogerősen még el nem bírált ügyekben is alkalmazni kell azzal, hogy a települési folyékony hulladék begyűjtése és szállítása iránti engedélykérelem a tervezett tevékenység bejelentésének minősül.
+
+(2) A Ht. hatálybalépését megelőzően kiadott és hatályos települési folyékony hulladék begyűjtési és szállítási engedély a nem közművel összegyűjtött háztartási szennyvíz begyűjtési és szállítási tevékenységre vonatkozó bejelentéssel egyenértékű.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 
@@ -808,6 +925,10 @@ E törvény alkalmazásában
   - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
 - 35. mezőgazdasági termelés: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. január 19-i 73/2009/EK tanácsi rendelet 2. cikke szerinti mezőgazdasági termelő által folytatott mezőgazdasági tevékenység;
 - 36. kizárólag energiahasznosítási célú termálvíz hasznosítás a mezőgazdasági termelés területén: olyan termálvíz hasznosítás, ahol a hasznosított geotermikus energia több mint 50%-a a mezőgazdasági termelést szolgálja.
+- 37. nem közművel összegyűjtött háztartási szennyvíz: olyan háztartási szennyvíz, amelyet a keletkezés helyéről vagy átmeneti tárolóból – közcsatornára való bekötés vagy a helyben történő tisztítás és befogadóba vezetés lehetőségének hiányában – gépjárművel szállítanak el ártalmatlanítás céljából;
+- 38. begyűjtés: a nem közművel összegyűjtött háztartási szennyvíznek az ingatlan tulajdonosától, vagyonkezelőjétől, birtokosától vagy használójától történő átvétele, elszállítása és ártalmatlanítás céljából történő átadása.
+- 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
+- 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

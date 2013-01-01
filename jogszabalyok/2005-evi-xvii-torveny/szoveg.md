@@ -16,7 +16,7 @@ a Polgári perrendtartásról szóló 1952. évi III. törvény módosításár�
 
 ### Közigazgatási hatóság kötelezése eljáráslefolytatására
 
-2. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott esetben, ha a közigazgatási hatóság az eljárási kötelezettségének nem tesz eleget, a törvényszék kérelemre – az iratoknak a bírósághoz való érkezését követő harminc napon belül – nemperes eljárásban végzéssel kötelezi a közigazgatási hatóságot az eljárás lefolytatására.
+2. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott esetben, ha a közigazgatási hatóság az eljárási kötelezettségének nem tesz eleget, a közigazgatási és munkaügyi bíróság kérelemre – az iratoknak a bírósághoz való érkezését követő harminc napon belül – nemperes eljárásban végzéssel kötelezi a közigazgatási hatóságot az eljárás lefolytatására.
 
 (2) A kérelemnek tartalmaznia kell azt is, hogy
 
@@ -32,7 +32,7 @@ a Polgári perrendtartásról szóló 1952. évi III. törvény módosításár�
 
 3. § (1) A hatóság közigazgatási hatósági ügyben hozott végzése ellen az ügyfél, továbbá a kifejezetten rá vonatkozó végzés esetében az eljárás egyéb résztvevője a végzés bírósági felülvizsgálatát jogszabálysértésre hivatkozással, a végzés közlésétől számított harminc napon belül kezdeményezheti.
 
-(2) A bírósági felülvizsgálattal megtámadható végzés ellen benyújtott kérelem tárgyában a törvényszék – ha az ügyben hozott határozat felülvizsgálata a munkaügyi bíróság hatáskörébe tartozik, a munkaügyi bíróság – nemperes eljárásban végzéssel határoz.
+(2) A bírósági felülvizsgálattal megtámadható végzés ellen benyújtott kérelem tárgyában a közigazgatási és munkaügyi bíróság nemperes eljárásban végzéssel határoz.
 
 (3) A bíróság a feleket a szükségeshez képest meghallgathatja.
 

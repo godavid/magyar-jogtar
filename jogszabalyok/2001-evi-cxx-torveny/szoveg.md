@@ -2731,7 +2731,7 @@ eltöltött időt.
 - j) az üzleti tervét; és
 - k) az e törvényben foglalt előírásoknak való megfelelést tanúsító egyéb okiratokat.
 
-(1a) A vezető állású személy és a kockázati tőkealap-kezelési tevékenységet vezető személy a kockázati tőkealap-kezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a kockázati tőkealap-kezelő felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+(1a) A vezető állású személy és a kockázati tőkealap-kezelési tevékenységet vezető személy a kockázati tőkealap-kezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a kockázati tőkealap-kezelő felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 
 (2) A Felügyelet a tevékenységi engedély megadását csak akkor tagadhatja meg, ha a kérelmező
 
@@ -2976,7 +2976,7 @@ tevékenység.
 - i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett;
 - j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
@@ -3063,7 +3063,7 @@ tevékenység.
 
 (2) Tőzsdében a (3) bekezdésben meghatározott részesedéssel rendelkező tulajdonos olyan személy lehet,
 
-- a) aki – amennyiben természetes személy – a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja,
+- a) aki – amennyiben természetes személy – a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt hatósági bizonyítvány útján igazolja,
 - b) aki – amennyiben nem természetes személy – igazolja, hogy a nála vezető tisztségviselői beosztásban lévő személlyel szemben a 357. § (1) bekezdésében meghatározott kizáró ok nem áll fenn és a vezető tisztségviselő a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
 - c) aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését, és
 - d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
@@ -3082,7 +3082,7 @@ tevékenység.
 - f) a kérelmező közvetlen és közvetett tulajdonában álló egyéb vállalkozások megjelölését;
 - g)
 
-(5a) Természetes személy kérelmező, valamint a kérelmezőnél vezető tisztségviselői beosztásban lévő személy a (3) bekezdés szerinti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(5a) Természetes személy kérelmező, valamint a kérelmezőnél vezető tisztségviselői beosztásban lévő személy a (3) bekezdés szerinti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (6) A tulajdonszerzésre adott felügyeleti engedély harminc napig hatályos. Az engedély hatálya különösen indokolt esetben egy alkalommal további harminc napra meghosszabbítható.
 
@@ -3401,8 +3401,10 @@ tevékenységet végezhet.
 - i) törvény által meghatározott szervezett piac szereplőjének;
 - j) értékpapír-kibocsátónak, ideértve a külföldi értékpapír-kibocsátót;
 - k) a Magyar Állam számára;
-- l) a Magyar Állam vagyonát kezelő szervezetek számára és
-- m) az MNB számára
+- l) az állam vagyonát kezelő szervezetek számára;
+- m) az MNB számára;
+- n) az Országos Betétbiztosítási Alap számára és
+- o) a Befektető-védelmi Alap számára
 
 nyújthat.
 
@@ -3986,7 +3988,7 @@ folytathat.
 
 - a) felsőfokú végzettséggel rendelkezik;
 - b) legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
-- c) a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+- c) hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
 (2) A pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személynek az választható meg, aki megfelel az (1) bekezdésben meghatározott feltételeknek.

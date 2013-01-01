@@ -4,11 +4,11 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### A törvény hatálya
 
-1. § A törvény hatálya az üvegházhatású gázok kibocsátásának csökkentésével, nyelőkkel való eltávolításával összefüggő tevékenységeket végző természetes személyekre, jogi személyekre, jogi személyiség nélküli szervezetekre terjed ki.
+1. § A törvény hatálya az üvegházhatású gázok kibocsátásának csökkentésével, nyelőkkel való eltávolításával, valamint az éghajlatváltozás elkerülhetetlen hatásaihoz való alkalmazkodással összefüggő tevékenységekre terjed ki.
 
 ### Alapfogalmak
 
-2. § E törvény alkalmazásában:
+2. § E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:
 
 - 1. Keretegyezmény: az 1995. évi LXXXII. törvénnyel kihirdetett ENSZ Éghajlatváltozási Keretegyezmény;
 - 2. Jegyzőkönyv: a 2007. évi IV. törvénnyel kihirdetett Kiotói Jegyzőkönyv;
@@ -21,37 +21,36 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 9. együttes végrehajtás: olyan nemzetközi együttműködéssel megvalósuló projekttevékenység, amelynek során az egyik részes fél (befektető ország) beruházása, egy másik részes fél (fogadó ország) területén, a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően jóváhagyott üvegházhatású gáz kibocsátásának csökkenését vagy nyelők általi eltávolításának növelését eredményezi;
 - 10. tiszta fejlesztési mechanizmus: olyan nemzetközi együttműködéssel megvalósuló projekttevékenység, amelynek során a részes fél (befektető ország) beruházása, egy, a Keretegyezmény I. mellékletében nem szereplő részes fél (fogadó ország) területén, a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően jóváhagyott üvegházhatású gáz kibocsátásának csökkenését vagy nyelők általi eltávolításának növelését eredményezi;
 - 11. nemzetközi kibocsátás-kereskedelem: a kiotói egységek átruházása a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően;
-- 12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló 280/2004/EK európai parlamenti és tanácsi határozat (a továbbiakban: 280/2004/EK határozat) vonatkozó rendelkezéseinek megfelelően;
+- 12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet (a továbbiakban: 601/2012/EU bizottsági rendelet) vonatkozó rendelkezéseinek megfelelően;
 - 13. kiotói egység: a kibocsátható mennyiségi egység (AAU), a kibocsátás-csökkentési egység (ERU), az igazolt kibocsátás-csökkentési egység (CER) és az eltávolítási egység (RMU);
 - 14. kibocsátható mennyiségi egység (AAU): a kibocsátható mennyiség alapján megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 - 15. kibocsátás-csökkentési egység (ERU): az együttes végrehajtás eredményeként megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 - 16. kötelezettségvállalási időszak: a Jegyzőkönyv 3. cikk (1) bekezdése alapján meghatározott időszak;
 - 17. igazolt kibocsátás-csökkentési egység (CER): a tiszta fejlesztési mechanizmus eredményeként megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid egyenérték kibocsátására jogosít fel;
 - 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
-- 19. nemzeti forgalmi jegyzék: a kiotói egységek kiadásának, átruházásának, törlésének nyilvántartását, valamint az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) 15. §-a szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
+- 19. nemzeti forgalmi jegyzék: az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
 - 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 - 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
-- 22. Kibocsátási jogosultság: a kiotói egység, az. Üht. 3. § szerinti kibocsátási egység és légiközlekedési kibocsátási egység.
+- 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység.
 
-### A Nemzeti Éghajlatváltozási Stratégia és a Nemzeti Éghajlatváltozási Program
+### A Nemzeti Éghajlatváltozási Stratégia
 
-3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
+3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
 
-(2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát az annak elfogadását követő két év elteltével, azt követően öt évente felülvizsgálja. A felülvizsgálatról szóló előterjesztést az Országgyűlés részére kell benyújtani elfogadásra.
+(2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát ötévente felülvizsgálja. A felülvizsgálat előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A felülvizsgált Éghajlatváltozási Stratégiát az Országgyűlés fogadja el. Az Éghajlatváltozási Stratégia különösen az alábbiakat tartalmazza:
 
-(3) A Kormány az Éghajlatváltozási Stratégia végrehajtására, a nemzetközi kötelezettségvállalásokra és az éghajlatváltozás hatásaihoz való alkalmazkodás igényeire tekintettel a kibocsátások csökkentésére, illetve korlátozására tett kötelezettségek meghatározása és teljesítése, tényleges és várható eredményeinek ellenőrzése érdekében Nemzeti Éghajlatváltozási Programot (a továbbiakban: Éghajlatváltozási Program) fogad el.
+- a) az éghajlatváltozás várható magyarországi hatásainak, természeti és társadalmi-gazdasági következményeinek, valamint az ökoszisztémák és az ágazatok éghajlati sérülékenységének értékelését;
+- b) az üvegházhatású gázok kibocsátáscsökkentésének céljait, prioritásait és cselekvési irányait tartalmazó hazai dekarbonizációs útitervet az alacsony karbontartalmú, versenyképes gazdaságra történő, 2050-ig tartó átmenetről, figyelembe véve az Európai Bizottság hasonló időtávú stratégiai dokumentumait;
+- c) egy nemzeti alkalmazkodás stratégiai keretrendszert, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenységvizsgálatok eredményei szolgálnak;
+- d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
 
-(4) Az Éghajlatváltozási Program különösen az alábbiakat tartalmazza:
+(3) A miniszter az Éghajlatváltozási Stratégia elfogadását követően annak végrehajtásáról szükség szerint, de legalább háromévente beszámol a Kormánynak, valamint az Országgyűlés hatáskörrel rendelkező szakbizottságának.
 
-- a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, Magyarország által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
-- b) az éghajlatváltozás hazai hatásaihoz való alkalmazkodás szükséges lépéseit, az ahhoz szükséges főbb intézkedéseket és azok finanszírozási forrásait;
-- c) a hazai kibocsátások költséghatékony csökkentéséhez és az éghajlatváltozás hazai hatásaihoz kapcsolódó kutatási prioritásokat és a szükséges kutatások finanszírozási forrásait.
-
-(5) Az Éghajlatváltozási Programot két éves időszakokra kell meghatározni, figyelembe véve a vonatkozó EU programokat, szakpolitikákat és előírásokat. A Kormány az Országgyűlés előtt évente beszámol a Program végrehajtásáról és a végrehajtás során szerzett tapasztalatokról.
+(4) A (2) bekezdés c) pontja szerinti nemzeti alkalmazkodási térinformatikai rendszer felállításáról és működtetéséről, a szükséges adatgyűjtésről, valamint a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséről az energiapolitikáért felelős miniszter gondoskodik.
 
 ### Az üvegházhatású gázok kibocsátásának nyilvántartása, adatszolgáltatás
 
-4. § (1) A környezetvédelemért felelős miniszter egyetértésben az energiapolitikáért felelős miniszterrel (a továbbiakban: miniszter), valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
+4. § (1) A környezetvédelemért felelős miniszter egyetértésben a miniszter, valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
 
 (2) A Nemzeti Nyilvántartási Rendszer működtetéséhez szükséges adatokkal rendelkező állami szervek és az évi 100 tonna széndioxid-egyenértéket vagy azt meghaladó mennyiségű üvegházhatású gázt kibocsátó szervezetek kötelesek ezen adatokat a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani a külön jogszabályban meghatározottak szerint.
 
@@ -73,13 +72,15 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (5) A nemzeti forgalmi jegyzékben számlával rendelkezők külön jogszabályban meghatározott számlavezetési díjat kötelesek fizetni.
 
+(6) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő büntetlen előéletű és nem állhat a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
+
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
 6. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával kapcsolatos adatok, így különösen az Éghajlatváltozási Stratégiára, az Éghajlatváltozási Programra, a Nemzeti Nyilvántartási Rendszerre, a nemzetközi rugalmassági mechanizmusokra vonatkozó adatok környezeti információnak minősülnek.
 
 ### Nemzeti jelentéstétel
 
-7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, és egyéb éghajlatváltozással kapcsolatos jelentéstételt a miniszter teljesíti a 280/2004/EK határozat rendelkezéseinek, illetve a nemzetközi kötelezettségeknek megfelelően.
+7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, és egyéb éghajlatváltozással kapcsolatos jelentéstételt a miniszter teljesíti a 601/2012/EU bizottsági rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.
 
 ### A kiotói egységek létrejötte és megszűnése
 
@@ -91,7 +92,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### A kibocsátási jogosultságokkal való gazdálkodás
 
-9. § (1) A kincstári vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), az Üht., valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
+9. § (1) A nemzeti vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény, valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A kibocsátási jogosultságok feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
 
@@ -116,9 +117,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3)–(4) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról a miniszter gondoskodik.
 
-(4a) A kibocsátási egységek és légiközlekedési kibocsátási egységek átruházásából származó bevételt az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására, a magyar klímapolitika hatékony megvalósítására, az üvegházhatású gáz nyelők általi eltávolításának növelésére kell fordítani.
+(4a)
 
 (5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.
 
@@ -163,7 +164,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 13/D. § A környezetvédelmi hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-13/E. § A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+13/E. § A környezetvédelmi hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
 
 ### Záró rendelkezések
 
@@ -177,7 +178,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
-- a) a Nemzeti Éghajlatváltozási Programot;
+- a) az Éghajlatváltozási Stratégia felülvizsgálatához szükséges nemzeti alkalmazkodási térinformatikai rendszer működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás rendjére, az adatok nemzeti alkalmazkodási térinformatikai rendszer keretében történő felhasználásának részletes szabályaira;
 - b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 - c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
 - d) a nemzeti forgalmi jegyzék működésének szabályait;
@@ -193,6 +194,11 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
 - c) a kiotói egységek vagyonkezelésében közreműködő szervet [9. § (2) bekezdés].
+
+(7) Felhatalmazást kap a miniszter, hogy
+
+- a) az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésével kiadott rendeletben állapítsa meg,
+- b) az a) pontban meghatározott igazgatási szolgáltatási díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
 15. § (1) Az Áht. 108. § (1) bekezdése a következő h) ponttal egészül ki:
 
@@ -216,85 +222,16 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 „(13) A 108. § (1) bekezdés h) pontjában meghatározott vagyonelemek az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvényben meghatározott nemzetközi rugalmassági mechanizmusok keretében átruházhatók.”
 
-16. § (1) E törvény hatálybalépésével egyidejűleg az Üht. 2. § (1) bekezdés b) pontja hatályát veszti.
-
-(2) Az Üht. 3. § b) pontja helyébe a következő rendelkezés lép:
-
-[3. § E törvény alkalmazásában:]
-
-„b) széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;”
-
-(3) Az Üht. 5. §-a helyébe a következő rendelkezés lép:
-
-5. § „(1) Az üzemeltető köteles a kibocsátási engedély hatálya alá tartozó üvegházhatású gáz kibocsátását külön jogszabály szerint nyomon követni és arról a környezetvédelmi hatóság részére a tárgyévet követő év március 31-ig hitelesített jelentést tenni.
-
-(2) Az üzemeltető köteles az (1) bekezdésben meghatározott határidőig a hitelesített jelentés szerinti tárgyévi kibocsátási mennyiséget a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló 2216/2004/EK bizottsági rendeletnek (a továbbiakban: bizottsági rendelet) megfelelően rögzíteni a nemzeti forgalmi jegyzékben.
-
-(3) A kibocsátási jelentések (1) bekezdés szerinti hitelesítését az üzemeltető külön jogszabály alapján feljogosított független hitelesítővel külön jogszabályban megállapított módon végezteti el. Az Európai Unió tagállamában és az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, feljogosított és a környezetvédelmi hatóság által névjegyzékbe vett hitelesítő köteles a Magyar Köztársaság területén folytatott hitelesítési tevékenységét a magyar jogszabályoknak megfelelően lefolytatni.
-
-(4) Amennyiben az üzemeltető határidőre nem nyújtott be hitelesített jelentést, vagy nem a kibocsátási engedélynek és a külön jogszabályoknak megfelelő jelentést nyújt be, a környezetvédelmi hatóság a 17. §-ban meghatározott jogkövetkezmények alkalmazása mellett a létesítmény teljes kibocsátását a rendelkezésére álló adatok alapján állapítja meg. A környezetvédelmi hatóság a létesítmény teljes kibocsátásának megállapítására az eljárás során jogosult az üzemeltető költségére bejegyzett hitelesítőt megbízni.”
-
-(4) Az Üht. 6. § (2) bekezdése a következő h) ponttal egészül ki:
-
-[(2) A Kiosztási Terv – e törvény 2. számú mellékletében foglalt alapelvekkel összhangban – különösen az alábbiakat tartalmazza:]
-
-„h) a külön jogszabály szerint megállapított és átadott kibocsátás-csökkentési egység, illetve igazolt kibocsátás-csökkentési egység beszámításával a kibocsátási egységek visszaadására irányuló kötelezettség teljesítésének lehetséges mértékét.”
-
-(5) Az Üht. 11. §-a a következő (2) bekezdéssel egészül ki, egyidejűleg a § jelenlegi szövege (1) bekezdésre változik:
-
-„(2) Az üzemeltető köteles a létesítmény az 5. § (4) bekezdés szerint megállapított teljes kibocsátásának megfelelő mennyiségű kibocsátási egységet – a környezetvédelmi hatóság felszólítására – külön jogszabály szerint visszaadni a Magyar Állam részére.”
-
-(6) Az Üht. 14. §-a alcíme, továbbá a 14. § helyébe a következő rendelkezés lép:
-
-„
-
-A kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása”
-
-14. § „(1) A külön jogszabály rendelkezéseinek megfelelően megállapított és átadott kibocsátás-csökkentési egységet, illetve igazolt kibocsátás-csökkentési egységet a külön jogszabály szerinti nemzeti forgalmi jegyzék kezelője 2008. január 1-jétől a létesítmény üzemeltetőjének kérelmére beszámítja a kibocsátási egységek visszaadására irányuló kötelezettség teljesítéséhez.
-
-(2) Nem alkalmazható a beszámítás olyan kibocsátáscsökkentési egység, illetve igazolt kibocsátás-csökkentési egység esetén, amely
-
-a) nukleáris létesítményekkel kapcsolatban, valamint
-
-b) földhasználat, a földhasználat megváltozása, illetve erdőgazdálkodási tevékenység eredményeire tekintettel
-
-kerültek kiadásra.
-
-(3) Az e törvény hatálya alá tartozó létesítményben teljesített külön jogszabályban meghatározott együttes végrehajtás után 2012. december 31-ig adható át kibocsátás-csökkentési egység.”
-
-(7) Az Üht. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kibocsátási egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására a bizottsági rendeletben és külön jogszabályban meghatározottak szerint közhiteles és nyilvános forgalmi jegyzékben kerül sor, mely része az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 19. pontjában meghatározott Nemzeti Forgalmi Jegyzéknek.”
-
-(8) Az Üht. 16. §-a helyébe a következő rendelkezés lép:
-
-16. § „A kibocsátási egységkereskedelemmel kapcsolatos adatok, így különösen a
-
-a) kiadott kibocsátási engedélyekre,
-
-b) hitelesített kibocsátási jelentések és a hitelesítő kapcsolódó jelentésére,
-
-c) kiosztási határozatokra,
-
-d) 17. § szerint alkalmazott jogkövetkezményekre, valamint
-
-e) 18. § szerinti jelentésekre
-
-vonatkozó adatok környezeti információnak minősülnek.”
-
-(9) Az Üht. 20. §-ának (5) bekezdése a következő d)–e) ponttal egészül ki:
-
-[(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:]
-
-„d) a kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység 14. § alapján történő beszámításának részletes szabályait;
-
-e) egyes létesítmények üvegházhatású gázkibocsátása engedélyezésének, nyomon követésének és jelentésének szabályait.”
+16. §
 
 ### Az Európai Unió jogának való megfelelés
 
-17. § (1) E törvény – a végrehajtására és a 15. § (5) és (6) bekezdésében foglalt felhatalmazások alapján kiadott jogszabályokkal együtt – az alábbi közösségi irányelveknek való megfelelést szolgálja:
+17. § (1) E törvény – a végrehajtására kiadott jogszabályokkal együtt –
 
-- a) az Európai Parlament és a Tanács 2004/101/EK irányelve (2004. október 27.) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusaira tekintettel történő módosításáról;
-- b) az Európai Parlament és a Tanács 2003/87/EK irányelve (2003. október 13.) az üvegházhatást okozó gázok kibocsátási egységei közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról.
+- a) az üvegházhatást okozó gázok kibocsátási egységei közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
+- b) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusára tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek és
+- c) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek
 
-(2) E törvény – a végrehajtására és a 15. § (5) és (6) bekezdésében foglalt felhatalmazások alapján kiadott jogszabályokkal együtt – az Európai Parlament és a Tanács az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló 2004. február 11-i 280/2004/EK határozatának tagállami végrehajtást igénylő rendelkezéseit tartalmazza.
+való megfelelést szolgálja.
+
+(2) E törvény – a végrehajtására kiadott jogszabályokkal együtt – az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló, 2004. február 11-i 280/2004/EK európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.

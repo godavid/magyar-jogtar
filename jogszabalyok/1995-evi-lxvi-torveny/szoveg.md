@@ -47,7 +47,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - p)
 - r) közlevéltár illetékessége (illetékességi köre): a maradandó értékű irattári anyagnak az a köre, amelyre vonatkozóan törvény közlevéltárba adási kötelezettséget ír elő, s amelyet az adott közlevéltár törvény rendelkezése, illetve fenntartójának döntése alapján köteles átvenni;
 - s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
-- t) önkormányzati hivatal: a polgármesteri hivatal, a társult képviselő-testület közös hivatala, a körjegyzőség, a megyei önkormányzati hivatal és a fővárosi közgyűlés hivatala.
+- t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala.
 
 ### Az irattári és a levéltári anyag védelmének általános szabályai
 
@@ -257,12 +257,12 @@ levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik 
 
 ### Állami szaklevéltárak
 
-19. § (1) Állami szaklevéltár a Hadtörténelmi Levéltár, a és a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
+19. § (1) Állami szaklevéltár a Hadtörténeti Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, valamint az állam által fenntartott felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
 - a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a Katonai Nemzetbiztonsági Szolgálat,
-- b)
+- b) a Földügyi és Távérzékelési Levéltár esetében a földmérési és térképészeti tevékenységért felelős miniszter felügyelete alá tartozó szervek,
 - c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 - d) a felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára esetében a fenntartó szerv
 

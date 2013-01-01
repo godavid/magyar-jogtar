@@ -180,7 +180,7 @@ köteles kezdeményezni e körülménynek a honlapon történő közzétételét
 17. § (1) A pályázat érvénytelenségét megállapító vagy a pályázatot a kezdeményezés ellenére érvényesnek nyilvánító határozat felülvizsgálatát a határozat meghozatalától számított 30 napon belül
 
 - a) ha a határozatot közigazgatási eljárás keretében hozták, az erre irányadó törvényi rendelkezések szerint,
-- b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes törvényszéktől
+- b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes közigazgatási és munkaügyi bíróságtól
 
 lehet kérni.
 

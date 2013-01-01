@@ -323,11 +323,11 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
   - ba) olyan magatartást tanúsított, amely a Felügyelet rendeltetésszerű működését akadályozta,
   - bb) száznyolcvan napon túl nem képes eleget tenni a megbízatásából eredő feladatainak.
 
-(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a közszolgálati tisztviselőkről szóló törvénynek a közszolgálati jogviszonyból származó igényének érvényesítésére vonatkozó rendelkezései szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
+(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a közszolgálati tisztviselőkről szóló törvénynek a közszolgálati jogviszonyból származó igényének érvényesítésére vonatkozó rendelkezései szerint öt munkanapon belül közigazgatási és munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
 
 (3) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésére vonatkozó kezdeményezés a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
-(4) A Felügyelet alelnöke összeférhetetlenségének kimondására vagy felmentésére vonatkozó kezdeményezést az összeférhetetlenség kimondását vagy a felmentést megelőzően meg kell küldeni a Felügyelet alelnöke részére, aki a közszolgálati jogvitára vonatkozó törvényi rendelkezések szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet alelnöke a Felügyelet elnökének haladéktalanul megküldi.
+(4) A Felügyelet alelnöke összeférhetetlenségének kimondására vagy felmentésére vonatkozó kezdeményezést az összeférhetetlenség kimondását vagy a felmentést megelőzően meg kell küldeni a Felügyelet alelnöke részére, aki a közszolgálati jogvitára vonatkozó törvényi rendelkezések szerint öt munkanapon belül közigazgatási és munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet alelnöke a Felügyelet elnökének haladéktalanul megküldi.
 
 (4a) A Felügyelet alelnöke összeférhetetlenségének kimondására vagy felmentésére a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a kezdeményezés tekintetében meghozott bírósági döntés jogerőre emelkedését követően kerülhet sor. A Felügyelet elnökének határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
@@ -594,7 +594,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 47. § (1) A bíróság a Felügyelet döntését – a 60. § (1) bekezdésében és a 70. §-ban meghatározott kivétellel – megváltoztathatja.
 
-(2) A Felügyelet mulasztása esetén az ügyfél kérelmére a Fővárosi Törvényszék kötelezi a Felügyeletet az eljárás lefolytatására.
+(2) A Felügyelet mulasztása esetén az ügyfél kérelmére a Fővárosi Közigazgatási és Munkaügyi Bíróság kötelezi a Felügyeletet az eljárás lefolytatására.
 
 ### A felügyeleti biztos
 
@@ -1125,13 +1125,13 @@ terjedhet.
 
 (2) A kötelezést tartalmazó határozat, illetve ajánlás ellen fellebbezésnek nincs helye, annak hatályon kívül helyezése azonban kérhető a bíróságtól a (3) bekezdésben meghatározottak szerint.
 
-(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Törvényszéktől, ha
+(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól, ha
 
 - a) a tanács összetétele vagy eljárása nem felelt meg e törvény rendelkezéseinek,
 - b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 - c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
 
 98. § (1) A pert a Pénzügyi Békéltető Testülettel szemben kell megindítani. A Pénzügyi Békéltető Testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 

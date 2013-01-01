@@ -42,13 +42,13 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 14. gyakorlati képzést folytató: gyakorlati képzési tevékenységét iskolai tanműhelyben, vagy együttműködési megállapodás, tanulószerződés alapján ténylegesen folytató, a gyakorlati követelményekre való felkészítést végző szerv, amely lehet a gyakorlati képzést szervező is;
 - 15. iskolai előképzettség: a szakképzés megkezdéséhez szükséges iskolai végzettség;
 - 16. iskolai rendszerű szakképzés: a köznevelés keretében a nemzeti köznevelésről szóló törvényben és az e törvényben meghatározott, szakképző iskolában folyó szakképzés, résztvevői a szakképző iskolával tanulói jogviszonyban állnak;
-- 17. iskolai tanműhely: olyan szakképző iskolai gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
+- 17. iskolai tanműhely: olyan szakképző iskolai feladatellátási helyen lévő gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
 - 18.
 - 19. iskolarendszeren kívüli hatósági jellegű képzés: jogszabályban meghatározott és hatóság által szabályozott tartalmú és célú képzés, amelynek eredményeként hatóság által meghatározott tevékenység folytatására feljogosító irat (engedély, bizonyítvány, a képző intézmény által kiállított igazolás stb.) kiadására kerül sor, vagy amely képzés hiányában jogszabályban meghatározott tevékenység nem folytatható;
 - 20. jelenléti óraszám: a kötelező tanórai foglalkozások azon része, amelyeken a részvétel a tanulónak az iskola feladatellátási helyén való személyes megjelenéséhez kötött;
 - 21. komplex szakmai vizsga: az iskolai rendszerű szakképzésben részt vevő tanuló és az iskolarendszeren kívüli szakképzésben részt vevő felnőtt szakmai elméleti és gyakorlati tudásának, képességeinek, készségeinek, ismereteinek mérése, amely az OKJ-ban meghatározott szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatprofil szerinti tevékenységek ellátásához meghatározott ismeretek elsajátítását tanúsító, jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
-- 22.
-- 23.
+- 22. költségvetési hozzájárulás: a központi költségvetésből a nem állami köznevelési intézmények működéséhez nyújtott, a nemzeti köznevelésről szóló törvényben meghatározott támogatás;
+- 23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére nyújtott és önkormányzati forrásból nyújtható – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
 - 24. második és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már meglévő, államilag elismert szakképesítés birtokában szerzik meg. Második és további szakképesítés költségvetési támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – szakmai és vizsgakövetelményben meghatározott körben – szerezhető szakképesítés;
 - 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 - 26. mestervizsga követelményei: a szakképesítésért felelős miniszter által – a pedagógiai tartalom tekintetében az oktatásért felelős miniszter egyetértésével – rendeletben kiadott dokumentum, amely a mestervizsgának az országos gazdasági kamara (a továbbiakban: gazdasági kamara) által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a vizsgáztatással kapcsolatos követelményeket tartalmazza;
@@ -62,10 +62,10 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 34. sajátos nevelési igényű tanuló, vizsgázó: a nemzeti köznevelésről szóló törvényben meghatározott sajátos nevelési igényű gyermek, tanuló, és az iskolarendszeren kívüli szakképzésben vizsgázó, fogyatékossággal élő felnőtt;
 - 35. rehabilitációs képzés: a megváltozott munkaképességű, fogyatékossággal élő személy sajátos képességeire alapozó, és azt fejlesztő szakmai képzés, át- és továbbképzés, amely az érintett munkavállalási esélyének, további munkahelymegtartó képességének javítását szolgálja;
 - 36. szakiskolai végzettség: szakiskolában szerzett középfokú iskolai végzettség, amely egyúttal az OKJ-ban meghatározottak szerint államilag elismert szakiskolai szakmai végzettséget is tanúsít;
-- 37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakiskolai képzésben szakképesítésenként, a szakközépiskolákban ágazatonként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
+- 37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakiskolai képzésben szakképesítésenként, a szakközépiskolákban ágazatonként és szakképesítésenként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
 - 38. szakmai ellenőrzés: a törvényességi és hatósági ellenőrzés mellett a szakképzés ágazati irányításának olyan eszköze, amelynek keretében a hatályos követelmények érvényesülésének szakmai vizsgálata, a kapott eredmények értékelése, az információknak a döntéshozók számára történő visszacsatolása történik meg;
 - 39. szakmai előképzettség: a szakképesítés megkezdésének feltételéül szolgáló, a szakképesítés megszerzéséhez szükséges, korábban megszerzett szakképesítés, megnevezését a szakképesítés szakmai és vizsgakövetelménye tartalmazza;
-- 40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít. Az ágazat szerinti kötelező szakmai vizsgatárgy teljesítése a nemzeti köznevelésről szóló törvény szerinti magasabb követelmények szerint teljesített érettségi vizsgatárgynak minősül;
+- 40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít. Az ágazat szerinti kötelező szakmai vizsgatárgy teljesítése magasabb követelmények szerint teljesített érettségi vizsgatárgynak minősül;
 - 41. szakmai és vizsgakövetelmény: a szakképesítésért felelős miniszter által rendeletben kiadott központi képzési dokumentum, amely meghatározza az adott szakképesítés komplex szakmai vizsgájára történő felkészülés szakmai követelményeit, feltételeit és azokat a követelményeket, amelyeket a komplex szakmai vizsga során szükséges teljesíteni;
 - 42. szakmai követelmény: olyan követelmény, amely a gazdaságnak az adott szakemberrel szemben támasztott elvárásait, a szakma gyakorlása közben végzendő feladatok megoldásával kapcsolatban támasztható követelményeket tükrözi. Magába foglalja a munkába lépéshez és a munkavégzés során szükséges kompetenciák (munkaköri követelmények) szintjét, tartalmát, minőségét;
 - 43. szakmai követelménymodul: a szakképesítés szakmai követelményeinek meghatározott része, egyedi szakképesítések esetén annak egésze. A szakképesítés követelménymoduljainak összessége tartalmazza a szakképesítés valamennyi, a szakmai és vizsgakövetelményben rögzített szakmai kompetenciáját;
@@ -75,6 +75,7 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 47. vizsgafeladat: tartalmazza az írásbeli, interaktív (számítógépes), gyakorlati, szóbeli vizsgatevékenység(ek) célját és a teljesítés meghatározó körülményeit, amelyhez legalább egy vizsgatevékenységet kell hozzárendelni;
 - 48. vizsgáztatási díj: a vizsgabizottság tagjait megillető díjazás;
 - 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
+- 50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől teljesen elkülönített, a nyilvántartást vezető szerv által kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhelyvezetői felügyelettel működő, legalább nyolc tanuló képzésre alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben.
 
 ## MÁSODIK RÉSZ — A TÖRVÉNY HATÁLYA ÉS A SZAKKÉPZÉS INTÉZMÉNYRENDSZERE
 
@@ -112,7 +113,7 @@ irányul.
 - c) az állami felnőttképzési intézmény, valamint
 - d) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézmény.
 
-(2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározottak szerint – térségi integrált szakképző központ keretében működik.
+(2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
 
 (3) A szakképző iskola létesítésére, fenntartására és működésére – e törvény rendelkezéseinek figyelembevételével – a nemzeti köznevelésről szóló törvény, az állami felnőttképzési intézmény létesítésére, fenntartására és működésére a felnőttképzésről szóló törvény, a térségi integrált szakképző központ létesítésére, fenntartására és működésére e törvény rendelkezéseit kell alkalmazni.
 
@@ -120,37 +121,39 @@ irányul.
 
 #### 2. A szakképző iskola fenntartása és a térségi integrált szakképző központ
 
-5. § (1) A szakképző iskola állami, önkormányzati fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, a (2)–(5) bekezdésben foglalt kivételekkel.
+5. § (1) A szakképző iskola állami fenntartója szakképzési feladatait megyénként egyetlen szakképző iskola fenntartásával látja el, az e §-ban foglalt kivételekkel.
 
-(2) Ha az állami, önkormányzati fenntartónként számított szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret, akkor az állami, önkormányzati fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja.
+(2) Ha az állami fenntartónként számított szakképző iskolai tanulói létszám az adott fenntartó megyei, fővárosi hatáskörű szervezeti egysége esetében meghaladja a tízezret, akkor az állami fenntartó több szakképző iskola fenntartásával is elláthatja a megyei, fővárosi szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja.
 
 (3) A (2) bekezdés szerinti tanulói létszám megegyezik a szakképző iskolai osztályban tanulók – három tanítási év átlagában számított – hivatalos októberi statisztikai létszámával. A tanulói létszám megállapításánál az esti és a levelező oktatás munkarendje szerinti oktatásban részt vevő tanulók létszámát kettővel kell elosztani.
 
-(4) Ha a megyében az állami, önkormányzati fenntartású szakképző iskolai tanulólétszám a tízezret nem éri el, a megyei szakképző iskolai feladatok legfeljebb két – legalább kétezer tanulóval működő – állami, önkormányzati fenntartású szakképző iskola keretében láthatóak el.
+(4) Ha a megyében az állami fenntartású szakképző iskolai tanulólétszám a tízezret nem éri el, a megyei szakképző iskolai feladatok legfeljebb két – legalább kétezer tanulóval működő – állami, önkormányzati fenntartású szakképző iskola keretében láthatóak el.
 
-(5) Kizárólag művészeti szakmacsoportba tartozó szakképzési feladatok, valamint a speciális szakiskolai és a készségfejlesztő speciális szakiskolai feladatok önálló szakképző iskola keretében is elláthatóak, amely szakképző iskolára a (2)–(4) bekezdésben foglalt létszámfeltételeket figyelmen kívül kell hagyni.
+(5) Kizárólag művészeti szakmacsoportba tartozó szakképzési feladatok, valamint a speciális szakiskolai és a készségfejlesztő speciális szakiskolai feladatok, valamint a (12) bekezdés a) pontja szerinti szakközépiskolai feladatok önálló szakképző iskola keretében is elláthatóak, amely szakképző iskolára a (2)–(4) bekezdésben foglalt létszámfeltételeket figyelmen kívül kell hagyni.
 
 (6) A térségi integrált szakképző központ a szakképzési feladatellátás olyan együttműködési rendszere, amelynek feladata az állami, önkormányzati feladatellátásban a szakképzés térségi feladatainak összehangolása, a képzés és a forrásfelhasználás hatékonyságának növelése, a szakképzési feladatellátás optimalizálása, a párhuzamos képzések és fejlesztések kiküszöbölése, valamint a munkaerő-piaci igények iskolai rendszerű szakképzésben való érvényesítése. A térségi integrált szakképző központ tagjai egyéb feladatok végrehajtásában is együttműködhetnek.
 
-(7) Térségi integrált szakképző központ állami, önkormányzati fenntartó esetén az (1)–(5) bekezdés szerint működő egyetlen szakképző iskola, ha a (3) bekezdésben meghatározott számítás szerinti tanulói létszáma meghaladja a kétezret, és a szakképző iskola (tagintézménye és telephelye) más térségi integrált szakképző központnak nem tagja.
+(7) Térségi integrált szakképző központ az állami fenntartó (1)–(5) vagy (14)–(15) bekezdés szerint működő szakképző iskolája, ha a (3) bekezdésben meghatározott számítás szerinti tanulói létszáma meghaladja a kétezret, és a szakképző iskola (tagintézménye és telephelye) más térségi integrált szakképző központnak nem tagja.
 
-(8) Egy szakképző iskola több térségi integrált szakképző központnak nem lehet tagja.
-
-(9) A térségi integrált szakképző központot az állami szakképzési és felnőttképzési szerv tartja nyilván.
+(8)–(9)
 
 (10) A térségi integrált szakképző központ – a felnőttképzésről szóló törvényben meghatározottak szerint – részt vehet az iskolarendszeren kívüli szakképzésben.
 
 (11) A fenntartó a (2)–(4) bekezdésben foglalt létszámfeltételek teljesülését szakképző iskolájában folyamatosan vizsgálja. Amennyiben a hivatalos októberi statisztikai adatok alapján a fenntartó azt állapítja meg, hogy intézményében a (2)–(4) bekezdésben előírt feltételek szerinti tanulói létszám nyolcvanöt százalékát egymást követő két tanévben a (3) bekezdés szerinti tanulói létszám nem éri el, úgy a fenntartó intézkedési tervet készít, amelyet a területileg illetékes kormányhivatal hagy jóvá, ennek alapján a fenntartó a következő tanév végéig dönt az átszervezésről.
 
-(12) A szakképzési feladatellátásban a települési önkormányzat fenntartóként a nemzeti köznevelésről szóló törvényben meghatározott köznevelési szerződés és az e törvényben meghatározott szakképzési megállapodás alapján részt vehet azzal, hogy
+(12) A szakképzési feladatellátásban a települési önkormányzat működtetőként részt vehet azzal, hogy
 
 - a) a szakközépiskolai feladatellátásban az azonos feladatellátási helyen a szakközépiskolai feladatok mellett más, a nemzeti köznevelésről szóló törvény hatálya alá tartozó, nem szakképzési feladatot is ellát, és a fenntartott intézményben a szakközépiskolai tanulólétszám aránya nem haladja meg a huszonöt százalékot,
 - b) a szakközépiskola kizárólag a művészeti szakmacsoportban lát el szakképzési feladatokat, az a) pontban meghatározott létszámarány teljesítése nélkül,
-- c) az átvett feladatok tekintetében a felnőttoktatási feladatokat is köteles átvenni, ha a felnőttoktatási feladat ellátására vonatkozóan köznevelési szerződés és szakképzési megállapodás nincs.
+- c)
 
-(13) A (12) bekezdésben meghatározott fenntartó részt vehet a speciális és a készségfejlesztő speciális szakiskolai feladatellátásban. A (12) bekezdés a) pontja szerinti létszámarányt a köznevelési szerződés megkötésekor kell vizsgálni azzal, hogy az iskola hivatalos októberi statisztikai adatai alapján három tanítási év átlagában a nappali rendszerű iskolai oktatásban részt vevő iskolai tanulóinak létszámát kell figyelembe venni.
+(13) A (12) bekezdésben meghatározott fenntartó részt vehet a speciális és a készségfejlesztő speciális szakiskolai feladatellátásban. A (12) bekezdés a) pontja szerinti létszámarányt a működtető vagy a fenntartó változásakor kell vizsgálni azzal, hogy az iskola hivatalos októberi statisztikai adatai alapján három tanítási év átlagában a nappali rendszerű iskolai oktatásban részt vevő iskolai tanulóinak létszámát kell figyelembe venni.
 
 (14)
+
+(16) A honvédelemért felelős miniszter által fenntartott, kizárólag a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre való felkészítést folytató szakképző iskola esetében a térségi integrált szakképző központ keretében történő működés nem kötelező.
+
+5/A. § A Kormány az állami intézményfenntartó központ szakképzéssel kapcsolatos feladat- és hatáskörét az állami intézményfenntartó központról szóló rendeletében szabályozza.
 
 ## HARMADIK RÉSZ — A SZAKKÉPZÉS DOKUMENTUMAI
 
@@ -172,25 +175,25 @@ irányul.
 - a) a szakképesítés azonosító számát, szintjét és megnevezését,
 - b) a szakképesítés megszerzéséhez szükséges képzés képzés-szervezési formától függő adott időtartamát (az iskolai rendszerű szakképzésben a szakképzési évfolyamok számát, az iskolarendszeren kívüli szakképzésben az óraszámot),
 - c) a szakképesítések szakmacsoportját és szakközépiskolai ágazat szerinti besorolását,
-- d) annak a megjelölését, hogy a szakképesítés a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
+- d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 - e) a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kormány által rendeletben kijelölt miniszter megnevezését (a továbbiakban: szakképesítésért felelős miniszter). Szakképesítésért felelős miniszternek szakképesítésenként egy miniszter nevezhető meg.
 
-(4) A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzések Tanácsának elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
+(4) A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzési Hatóság elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
 
 (5) A Központi Statisztikai Hivatal elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 
-(6) A Közbeszerzések Tanácsának elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.
+(6) A Közbeszerzési Hatóság elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzési Hatóság elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.
 
 #### 4. A szakmai és vizsgakövetelmény
 
 7. § (1) Az OKJ-ban meghatározott szakképesítéshez – az ellenőrzési, mérési és értékelési rendszer kialakulását és működését biztosító – szakmai és vizsgakövetelményt kell előírni. A szakmai és vizsgakövetelmény kötelező tartalmi elemei a következők:
 
 - a) a szakképesítés OKJ-ban szereplő azonosító száma, megnevezése és a hozzárendelt FEOR-szám,
-- b) a szakképesítés jellegétől függően a képzés megkezdéséhez szükséges elméleti és gyakorlati tudáselemek (a továbbiakban: bemeneti kompetencia), az iskolai és szakmai előképzettség, az egészségügyi alkalmassági követelmények, a pályaalkalmassági követelmények, valamint az előírt gyakorlat,
+- b) a szakképesítés jellegétől függően a képzés megkezdéséhez szükséges elméleti és gyakorlati tudáselemek (a továbbiakban: bemeneti kompetencia), az iskolai és szakmai előképzettség, annak előírása, hogy a képzés megkezdéséhez szükséges-e egészségügyi alkalmassági követelmények, pályaalkalmassági követelmények teljesítése, valamint az előírt gyakorlat,
 - c) a szakképesítéssel ellátható legjellemzőbb foglalkozás, tevékenység, valamint a munkaterület rövid leírása (feladatprofil),
 - d) a 6. § (3) bekezdés b) pontjában szereplő adatok,
-- e) az elméleti és gyakorlati képzési idő aránya, szakképző iskolában a szakképzési évfolyamok száma, az irányítás melletti munkavégzéshez szükséges kompetenciákat mérő szintvizsga (a továbbiakban: szintvizsga) szervezésének lehetősége,
-- f) a szakképesítéshez (a szakképesítés szakirányához, részszakképesítéshez, szakképesítés-ráépüléshez) tartozó, kormányrendeletben meghatározott szakmai követelménymodul(ok) azonosító száma,
+- e) az elméleti és gyakorlati képzési idő aránya, szakképző iskolában a szakképzési évfolyamok száma, az irányítás melletti munkavégzéshez szükséges kompetenciákat mérő szintvizsga (a továbbiakban: szintvizsga) szervezésének legkésőbbi időpontja,
+- f) a szakképesítéshez (a részszakképesítéshez, szakképesítés-ráépüléshez) tartozó, kormányrendeletben meghatározott szakmai követelménymodul(ok) azonosító száma,
 - g) a komplex szakmai vizsgáztatással kapcsolatos követelmények közül
   - ga) a komplex szakmai vizsgára bocsátás feltételei, beleértve a nyelvvizsga, modulzáró vizsga letételére vonatkozó feltételek,
   - gb) a komplex szakmai vizsga vizsgatevékenységei,
@@ -199,12 +202,12 @@ irányul.
   - ge) a vizsgatevékenységek és a komplex szakmai vizsga értékelésének a szakmai vizsgáztatás általános szabályairól és eljárási rendjéről szóló kormányrendeletben (a továbbiakban: szakmai vizsgaszabályzat) meghatározottaktól eltérő szempontjai,
 - h) a képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék,
 - i) az iskolai rendszerű szakképzés esetében a szorgalmi időszakot követően teljesítendő összefüggő szakmai gyakorlat időtartama,
-- j) az iskolai rendszerű oktatásban, a szakképzésben, a felsőoktatásban, a nonformális és informális tanulással, továbbá a munkavégzés során szerzett kompetenciáknak, a szakmai előkészítő érettségi tantárgyi vizsgának vagy az ágazati szakmai érettségi vizsgának a szakmai követelmények teljesítésébe történő beszámíthatósága,
+- j) az iskolai rendszerű oktatásban, a szakképzésben, a felsőoktatásban, a nonformális és informális tanulással, továbbá a munkavégzés során szerzett kompetenciáknak, a 27. § (2) bekezdésében meghatározott szakirányú gyakorlati idő, a szakmai előkészítő érettségi tantárgyi vizsgának vagy az ágazati szakmai érettségi vizsgának a szakmai követelmények teljesítésébe történő beszámíthatósága,
 - k) amennyiben a szakképesítés nem tartozik egyik országos gazdasági kamara hatáskörébe vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a szakmai vizsgabizottságban való részvételre a szakmai és vizsgakövetelményben kijelölt szakmai szervezet vagy az ágazat egészében érdekelt szakmai kamara (a továbbiakban: szakmai szervezet, szakmai kamara).
 
 (2) A szakképesítés szakmai követelményei a követelménymodulokat tartalmazó kormányrendeletben kiadott – az (1) bekezdés f) pontja szerint meghatározott – követelménymodulokból állnak.
 
-(3) A szakmai és vizsgakövetelmény és a szakképzési kerettantervek alapján a szakképző iskolában a pedagógiai program részeként szakmai programot, az iskolarendszeren kívüli szakképzést folytató intézményben a felnőttképzésről szóló törvényben szabályozott képzési programot kell kidolgozni.
+(3) A szakmai és vizsgakövetelmény és a szakképzési kerettanterv alapján a szakképző iskolában a pedagógiai program részeként szakmai programot, az iskolarendszeren kívüli szakképzést folytató intézményben a szakmai és vizsgakövetelmény szerint, valamint a szakképzési kerettanterv tartalmi előírásának figyelembevételével a felnőttképzésről szóló törvényben szabályozott képzési programot kell kidolgozni.
 
 #### 5. A szakképzési kerettanterv
 
@@ -216,7 +219,7 @@ irányul.
 
 (4) A szakképzési kerettanterv tartalmazza a szakmai követelménymodulok alapján a szakmai tantárgyak rendszerét és témaköreinek tartalmát, annak meghatározását, hogy az adott szakmai tantárgy a szakmai elméleti képzés vagy a szakmai gyakorlati képzés része, a tantárgyi követelmények évfolyamonkénti megoszlását, a követelmények teljesítéséhez rendelkezésre álló időkeretet, a szakmai elméleti és gyakorlati képzés tagolását és arányait. A szakképzési kerettanterv tartalmazza, hogy az adott szakmai tantárgy mely szakmai követelménymodulnak felel meg.
 
-(5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező szakmai elméleti és gyakorlati óraszám legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
+(5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező összes óraszám szakmai elméleti és gyakorlati képzésre rendelkezésre álló részének legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
 
 (6) Az alapfokú iskolai hiányosságok pótlását célzó Köznevelési Hídprogramban a felzárkóztató képzést, valamint a 3. § (2) bekezdés a) pontja szerinti szakmai képzést külön egységes kerettanterv határozza meg.
 
@@ -228,9 +231,9 @@ irányul.
 
 #### 6. A komplex szakmai vizsga
 
-9. § (1) Az OKJ-ban meghatározott szakképesítés megszerzésére irányuló komplex szakmai vizsgára történő felkészítés a szakképző iskola szakképzési évfolyamain és az iskolarendszeren kívüli szakképzésben folyik.
+9. § (1) Az OKJ-ban meghatározott szakképesítés megszerzésére irányuló komplex szakmai vizsgára történő felkészítés a szakképző iskola évfolyamain és az iskolarendszeren kívüli szakképzésben folyik.
 
-(2) A komplex szakmai vizsga a szakmai elméleti és gyakorlati képzés során átadott és megtanult, a szakmai és vizsgakövetelményben előírt szakmai követelményeknek a szakképzési kerettanterv szerinti elsajátítását egységes eljárás keretében méri.
+(2) A komplex szakmai vizsga a szakmai elméleti és gyakorlati képzés során átadott és megtanult, a szakmai és vizsgakövetelményben előírt szakmai követelményeknek az – iskolai rendszerű szakképzésben a szakképzési kerettanterv szerinti, az iskolarendszeren kívüli szakképzésben a képzési program szerinti – elsajátítását egységes eljárás keretében méri.
 
 (3) A komplex szakmai vizsgát a szakmai és vizsgakövetelmény alapján és a szakmai vizsgaszabályzat rendelkezései szerint kell megtartani.
 
@@ -240,7 +243,7 @@ irányul.
 
 (6) A komplex szakmai vizsga állami vizsga, amely Magyarország területén szervezhető. A komplex szakmai vizsgát vizsgabizottság előtt kell letenni. A komplex szakmai vizsga vizsgabizottsága Magyarország címerét tartalmazó körbélyegzőt használ.
 
-(7) A szakmai vizsgabizottság a vizsgázó komplex szakmai vizsgán nyújtott teljesítménye alapján részszakképesítést igazoló bizonyítványt állíthat ki, ha a vizsgázó csak a komplex szakmai vizsga követelményeinek egy részét teljesítette, és a vizsgázó által teljesített követelmények megfelelnek valamely részszakképesítés vagy részszakképesítések követelményeinek.
+(7) A szakmai vizsgabizottság a javítóvizsgán a tanulónak a javítóvizsgán nyújtott teljesítménye alapján részszakképesítést igazoló bizonyítványt állíthat ki, ha a tanuló a komplex szakmai vizsgán eredménytelen vizsgát tett vagy csak a komplex szakmai vizsga követelményeinek egy részét teljesítette, és a vizsgázó által teljesített követelmények megfelelnek valamely részszakképesítés vagy részszakképesítések követelményeinek.
 
 (8) A komplex szakmai vizsgán csak olyan bizonyítvány és nyomtatvány használható, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá. A bizonyítvány és a nyomtatvány előállításához és forgalmazásához a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 
@@ -269,7 +272,8 @@ irányul.
 12. § (1) Az iskolai rendszerű szakképzésben – a 13. § (2) és (3) bekezdésében foglaltakat is figyelembe véve – a szakképző iskola
 
 - a) a vele tanulói jogviszonyban állók tekintetében a szakképző iskola által oktatott szakképesítések vonatkozásában,
-- b) a vele ugyanazon – a 4. § (2) bekezdésében meghatározott – térségi integrált szakképző központ tagjaként működő másik szakképző iskolával tanulói jogviszonyban állók tekintetében az általa oktatott szakképesítések vonatkozásában
+- b) a vele ugyanazon – a 4. § (2) bekezdésében meghatározott – térségi integrált szakképző központ tagjaként működő másik szakképző iskolával tanulói jogviszonyban állók tekintetében az általa oktatott szakképesítések vonatkozásában,
+- c) a vele vagy a vele ugyanazon térségi integrált szakképző központ tagjaként működő másik szakképző iskolával tanulói jogviszonyban álltak tekintetében a korábbi tanulói jogviszony keretében tanult, a szakképző iskola által oktatott szakképesítések vonatkozásában
 
 külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
@@ -279,7 +283,7 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 - b) a szakképesítésért felelős miniszter által jogszabályban kijelölt, irányítása alá tartozó intézmény, felügyelete alá tartozó szerv által irányított intézmény,
 - c) az állami szakképzési és felnőttképzési szerv valamennyi szakképesítésre irányuló szakképzés tekintetében,
 - d) az állami felnőttképzési intézmény az államháztartás vagy az európai uniós források által támogatott, állam által elismert szakképesítésekre irányuló szakképzés tekintetében,
-- e) az a) pontban meghatározott eljárás alapján kiadott vizsgaszervezési engedély nélkül is a szakképző iskola a vele a felnőttképzésről szóló törvényben szabályozott felnőttképzési szerződést kötöttek számára a szakképző iskola által iskolai rendszerben oktatott szakképesítésre (és ezek részszakképesítéseire) irányuló szakképzés tekintetében
+- e) az a) pontban meghatározott eljárás alapján kiadott vizsgaszervezési engedély nélkül is a szakképző iskola a vele a felnőttképzésről szóló törvényben szabályozott felnőttképzési szerződést kötöttek számára a szakképző iskola által iskolai rendszerben oktatható szakképesítésre (és ezek részszakképesítéseire) irányuló szakképzés tekintetében
 
 (a továbbiakban az (1) és (2) bekezdésben szereplők együtt: szakmai vizsgát szervező intézmény) szervezhet.
 
@@ -305,7 +309,7 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
 (4) Vizsgaelnöki megbízást csak az állami szakképzési és felnőttképzési szerv által vezetett országos szakképzési névjegyék részét képező vizsgaelnöki névjegyzéken (a továbbiakban: vizsgaelnöki névjegyzék) szereplő vizsgaelnök kaphat.
 
-(5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
+(5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás – a képzést folytató intézmény által javasolt, a képzésben részt vett oktató vizsgabizottsági tag kivételével – az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
 
 (6) A szakmai vizsgabizottság munkáját szakértők segíthetik.
 
@@ -456,15 +460,15 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 
 (2) Az iskolai rendszerű szakképzésben a gyakorlati képzés a szorgalmi időszakban teljesítendő gyakorlati képzésből és a szorgalmi időszakon kívüli összefüggő szakmai gyakorlati képzésből áll.
 
-(3) Az iskolai rendszerű szakképzésben a gyakorlati képzés – az összefüggő szakmai gyakorlat kivételével – csak a tanév szorgalmi időszakában szervezhető meg. Az őszi, a téli és a tavaszi szünet ideje alatt gyakorlati képzés nem szervezhető.
+(3) Az iskolai rendszerű szakképzésben a gyakorlati képzés – az összefüggő szakmai gyakorlat és az összefüggő szakmai gyakorlaton keletkezett mulasztás pótlása kivételével – csak a tanév szorgalmi időszakában szervezhető meg. Az őszi, a téli és a tavaszi szünet ideje alatt gyakorlati képzés nem szervezhető.
 
 (4) A gyakorlati képzést lehetőleg a szakmai elméleti képzéssel egy héten belüli váltakozással kell megszervezni. Ettől a gyakorlati képzést folytató szervezet és a szakképző iskola közötti megállapodással lehet eltérni.
 
-(5) A tanuló a szakképzési kerettanterv alapján készített szakmai programban a szorgalmi időszakra meghatározott gyakorlati óraszámon és az összefüggő szakmai gyakorlatra meghatározott óraszámon felül gyakorlati foglalkozáson való részvételre nem kötelezhető.
+(5) A tanuló a szakképzési kerettanterv alapján készített szakmai programban a szorgalmi időszakra meghatározott gyakorlati óraszámon és az összefüggő szakmai gyakorlatra meghatározott óraszámon felül – a szakmai gyakorlaton keletkezett mulasztás pótlása kivételével – gyakorlati foglalkozáson való részvételre nem kötelezhető.
 
 (6) Az iskolai rendszerű szakképzésben az összefüggő szakmai gyakorlat a szakmai és vizsgakövetelményben meghatározott gyakorlat része.
 
-(7) A szakközépiskola és a szakiskola tanulóját a szakképzési évfolyamokon tanulószerződés alapján folyó gyakorlati képzés keretében az érdekvédelem és a munkavédelem tekintetében megilletik mindazok a jogok, amelyeket a Munka Törvénykönyve biztosít a munkavállalók részére. A tanuló foglalkoztatására – e törvény eltérő rendelkezésének hiányában – alkalmazni kell továbbá a munkavédelemre vonatkozó jogszabályokat. A tanuló a gyakorlati képzéssel kapcsolatos igényeinek érvényesítése érdekében – a munkaügyi jogvitára vonatkozó rendelkezések szerint – jogvitát kezdeményezhet. E rendelkezések alkalmazásában munkavállalón a tanulót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a tanulószerződéses jogviszonyt, szakszervezeten a tanulói szakszervezetet kell érteni.
+(7) A szakközépiskola és a szakiskola tanulóját a szakképzési évfolyamokon tanulószerződés alapján folyó gyakorlati képzés keretében az érdekvédelem és a munkavédelem tekintetében megilletik mindazok a jogok, amelyeket a munka törvénykönyvéről szóló törvény biztosít a munkavállalók részére. A tanuló foglalkoztatására – e törvény eltérő rendelkezésének hiányában – alkalmazni kell továbbá a munkavédelemre vonatkozó jogszabályokat. A tanuló a gyakorlati képzéssel kapcsolatos igényeinek érvényesítése érdekében – a munkaügyi jogvitára vonatkozó rendelkezések szerint – jogvitát kezdeményezhet. E rendelkezések alkalmazásában munkavállalón a tanulót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a tanulószerződéses jogviszonyt, szakszervezeten a tanulói szakszervezetet kell érteni.
 
 27. § (1) A szakképző iskolában és a felsőoktatási intézményben folytatott tanulmányokat a szakképesítésre előírt – megegyező tartalmú – követelmények teljesítésébe a szakképző iskola pedagógiai programja részét képező szakmai programban meghatározottak szerint be kell számítani. Az előzetes tanulmányok és az azokkal megegyező tartalmú követelmények teljesítésének egyidejű igazolásával a beszámítás iránti kérelmet a szakképző iskola vezetőjéhez kell benyújtani. A beszámítható előzetes tanulmányokról és teljesített követelményekről a szakképző iskola vezetője határozattal dönt. A szakképző iskola vezetőjének döntése ellen a kormányhivatalhoz lehet fellebbezést benyújtani. A fellebbezésre a közigazgatási hatósági eljárás általános szabályait kell alkalmazni.
 
@@ -482,17 +486,17 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 
 (2) Ha a szakképesítés nem tartozik egyik gazdasági kamara vagy országos gazdasági érdekképviseleti szervezet hatáskörébe sem, a gazdasági kamara a szintvizsga megszervezésébe a szakmai szervezet vagy szakmai kamara képviselőjét vonja be.
 
-(3) A szintvizsga minden tanuló számára kötelező, amelynek eredménye a tanuló év végi szakmai érdemjegyébe nem számít bele. A szintvizsgát nem teljesítő tanuló részére a gazdasági kamara pótló, javító szintvizsgát szervez. A szakiskolai tanuló szakmai gyakorlati képzésére – a 26. § (1) bekezdésben meghatározottakon túl – a tizedik-tizenegyedik évfolyamon a szintvizsga teljesítéséig kizárólag a szakképző iskolában vagy a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyében kerülhet sor.
+(3) A szintvizsga minden, a (4) bekezdésben meghatározott tanuló számára kötelező, amelynek eredménye a tanuló év végi szakmai érdemjegyébe nem számít bele. A szintvizsgát nem teljesítő tanuló részére a gazdasági kamara pótló, javító szintvizsgát szervez. A szakiskolai tanuló szakmai gyakorlati képzésére – a 26. § (1) bekezdésben meghatározottakon túl – a tizedik-tizenegyedik évfolyamon a szintvizsga teljesítéséig kizárólag a szakképző iskolában vagy a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyében kerülhet sor.
 
-(4)
+(4) Szintvizsgát annak a szakiskolai tanulónak kötelező tennie, aki nappali rendszerű oktatásban vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban vesz részt a szakmai képzésben és nem rendelkezik érettségi végzettséggel.
 
-(5) A szintvizsga követelményét a szakképesítés szakképzési kerettanterve alapján a gazdasági kamara a szakiskola – és a (2) bekezdésben megjelölt szervezet – közreműködésével dolgozza ki. A szakiskola a felvételkor ismerteti a szintvizsga követelményeit a tanulóval, valamint a honlapján folyamatosan biztosítja a szintvizsga követelményeinek nyilvánosságát.
+(5) A szintvizsga követelményét a szakképesítés szakképzési kerettanterve alapján a gazdasági kamara a (2) bekezdésben megjelölt szervezet közreműködésével dolgozza ki. A szakiskola a felvételkor ismerteti a szintvizsga követelményeit a tanulóval, valamint a honlapján folyamatosan biztosítja a szintvizsga követelményeinek nyilvánosságát.
 
 #### 19. A szakmai képzés ingyenessége
 
 29. § (1)
 
-(2) Azon tanulótól, akinek az (1) bekezdés szerint a képzésben való részvétel ingyenes, a gyakorlati képzést folytató szervezet a gyakorlati képzés megszervezéséért, végzéséért és a gyakorlati képzés feltételeinek a biztosításáért a tanulótól vagy a tanuló szülőjétől (gyámjától) nem kérhet és nem fogadhat el, a tanuló vagy a tanuló szülője (gyámja) pedig a gyakorlati képzést folytató szervezetnek nem adhat semmilyen pénzbeli, anyagi, természetbeni hozzájárulást vagy költségtérítést.
+(2) Azon tanulótól, aki a képzésben való ingyenes részvételre jogosult, a gyakorlati képzést folytató szervezet a gyakorlati képzés megszervezéséért, végzéséért és a gyakorlati képzés feltételeinek a biztosításáért a tanulótól vagy a tanuló szülőjétől (gyámjától) nem kérhet és nem fogadhat el, a tanuló vagy a tanuló szülője (gyámja) pedig a gyakorlati képzést folytató szervezetnek nem adhat semmilyen pénzbeli, anyagi, természetbeni hozzájárulást vagy költségtérítést.
 
 (3) Az illetékes szakképző iskola a (2) bekezdés szerinti tilalom megszegéséről a tudomására jutástól számított tizenöt napon belül köteles tájékoztatni az illetékes területi gazdasági kamarát. A tilalmat megszegő gyakorlati képzést folytató szervezetet a területileg illetékes gazdasági kamara – a gazdasági érdekképviseleti szervezetekkel együttműködve – a 60. §-ban meghatározott ellenőrzés eredményeként legfeljebb öt évre eltiltja a gyakorlati képzésben való részvételtől.
 
@@ -572,6 +576,8 @@ kezeli.
 
 (6) A szakképzési kerettanterv alapján az iskola a pedagógiai program részét képező helyi tantervében és szakmai programjában meghatározza a felnőttoktatás keretében oktatott szakmai tantárgyak óraszámait az (5) bekezdésben meghatározottak alapján.
 
+(7) Az a tanuló, aki a nemzeti köznevelésről szóló törvény 60. § (2) és (4) bekezdésében meghatározott életkort megelőzően kezdi meg a tanulmányait szakképző évfolyamon a nappali rendszerű oktatásban vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, a nemzeti köznevelésről szóló törvény 60. § (2), (4) és (7) bekezdésének előírásaitól eltérően – kizárólag folyamatos képzésben, évfolyamismétlés és szüneteltetés nélkül – befejezheti a megkezdett tanulmányait azonos munkarendben.
+
 34. § (1) A felnőttoktatás keretében folyó szakképzésben – a nappali oktatás munkarendje szerint szervezett felnőttoktatás keretében folyó szakképzés kivételével – tanulószerződés nem köthető.
 
 (2) Az esti, a levelező oktatás munkarendje és az oktatás egyéb sajátos munkarendje szerinti felnőttoktatás keretében folyó teljes gyakorlati képzésre is köthető együttműködési megállapodás, azon gyakorlati képzést folytató gazdálkodó szervezettel vagy egyéb szervvel, szervezettel, amellyel az adott szakképesítés gyakorlati képzésére tanulószerződés köthető.
@@ -592,6 +598,8 @@ kezeli.
 
 (2) A gyakorlati képzést szervező – az együttműködési megállapodás eltérő rendelkezése hiányában – köteles a gyakorlati képzés követelményeire való felkészítéshez, továbbá a gyakorlati vizsgához szükséges tárgyi eszközöket és a személyi feltételeket biztosítani.
 
+(3) Tanulószerződés csak a képzés szakmai vizsgáig tartó, hátralévő teljes időtartamára köthető, de a gyakorlati képzést szervező szervezet az e §-ban meghatározott kötelessége teljesítéséhez igénybe veheti a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény 8. § (5) bekezdésében meghatározott teljesítési megbízott közreműködését.
+
 37. § (1) Fiatalkorú tanuló esetében a gyakorlati képzési idő a napi hét órát, nagykorú tanuló esetében pedig a napi nyolc órát nem haladhatja meg.
 
 (2) A napi gyakorlati képzési időt arányosan csökkenteni kell, ha a gyakorlati képzés rendszeresen olyan területen (munkahelyen) történik, ahol a gyakorlati képzést folytató szervezettel munkaviszonyban álló munkavállalókat is rövidebb munkaidőben foglalkoztatják.
@@ -609,7 +617,7 @@ kezeli.
 - c) a tanuló tanulmányok alatti vizsgája napjain és a tanulmányokat befejező komplex szakmai vizsgája napjain, továbbá
 - d) minden olyan esetben, amikor a munkajogi szabályok szerint a munkavállaló mentesül a munkavégzési kötelezettség alól.
 
-(2) A gyakorlati képzést folytató szervezet a heti pihenőnapokon és a munkaszüneti napokon, valamint az őszi, a téli és a tavaszi szünet időtartama alatt a tanulót gyakorlati képzésre csak a rendeltetése folytán e napon is működő gyakorlati képzési helyen és a szakképző iskola hozzájárulásával veheti igénybe. Az igénybe vett idő helyett – lehetőleg a következő gyakorlati képzési napon – ugyanolyan mértékben kell szabadidőt biztosítani.
+(2) A gyakorlati képzést folytató szervezet a heti pihenőnapokon és a munkaszüneti napokon, valamint az őszi, a téli és a tavaszi szünet időtartama alatt a tanulót gyakorlati képzésre csak a rendeltetése folytán e napon is működő gyakorlati képzési helyen és a szakképző iskola hozzájárulásával veheti igénybe vagy abban az esetben, ha a tanuló mulasztását pótolja. Az igénybe vett idő helyett – a mulasztás pótlásának esetét kivéve, lehetőleg a következő gyakorlati képzési napon – ugyanolyan mértékben kell szabadidőt biztosítani.
 
 (3) Ha a napi gyakorlati képzési idő a négy és fél órát meghaladja, a tanuló részére legalább harminc perc, megszakítás nélküli szünetet kell biztosítani a képzési időn belül.
 
@@ -636,9 +644,9 @@ kezeli.
 
 (2) Ha a tanuló gyakorlati képzésen való igazolatlan mulasztása egy tanítási évben eléri a tíz órát, a harminc órát, az ötven órát, a gyakorlati képzést folytató szervezet a mulasztásról minden esetben újabb értesítést küld a szakképző iskolának.
 
-(3) A szakképző iskola az (1)–(2) bekezdés esetén a nevelési-oktatási intézmények működési rendjéről szóló rendeletnek a mulasztás következményeire vonatkozó szabályai szerint jár el.
+(3) A szakképző iskola az (1)–(2) bekezdés esetén a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendeletnek a mulasztás következményeire vonatkozó szabályai szerint jár el.
 
-(4) A gyakorlati képzést szervező szakképző iskola a nevelési-oktatási intézmények működési rendjéről szóló rendelet szerint meghatározott iskolai mulasztásokról haladéktalanul értesíti a tanuló gyakorlati képzését folytató szervezetet.
+(4) A gyakorlati képzést szervező szakképző iskola a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet szerint meghatározott iskolai mulasztásokról haladéktalanul értesíti a tanuló gyakorlati képzését folytató szervezetet.
 
 41. § (1) A gyakorlati képzést folytató szervezet a tanuló gyakorlati képzéséről köteles foglalkozási naplót vezetni.
 
@@ -656,13 +664,13 @@ kezeli.
 
 42. § (1) Gyakorlati képzés szervezése céljából tanulószerződés – a 26. § (1) bekezdésében foglaltak figyelembevételével – az iskolai rendszerű szakképzésben magyarországi székhellyel működő köznevelési intézményben, a nappali rendszerű iskolai oktatás keretében részt vevő tanulóval köthető.
 
-(2) Tanulószerződés a tanulóval az adott képzés első szakképzési évfolyamának kezdetétől kezdődő hatállyal köthető. A szakképzési évfolyam kezdetén a keresztfélévben induló évfolyam kezdő időpontját is érteni kell.
+(2) Tanulószerződés a tanulóval – a 29. § (1b) bekezdésében foglalt kivétellel – az adott képzés első szakképzési évfolyamának kezdetétől kezdődő hatállyal, az első, állam által elismert szakképesítésre történő felkészítés céljából folyó, költségvetési támogatásban részesíthető képzésre köthető. A szakképzési évfolyam kezdetén a keresztfélévben induló évfolyam kezdő időpontját is érteni kell.
 
 (3) Tanulószerződés a (2) bekezdésben meghatározott időponttól kezdődő hatállyal azzal a tanulóval köthető, aki a szakképesítésre jogszabályban előírt egészségügyi feltételeknek, pályaalkalmassági követelményeknek megfelel.
 
 (4) A tanulószerződést, a tanulószerződés módosítását és felmondását írásba kell foglalni. A tanulószerződés tartalmát a felek csak közös megegyezéssel vagy egyezséggel módosíthatják.
 
-(5) A tanuló egyidejűleg csak egy hatályos tanulószerződéssel rendelkezhet.
+(5) A tanuló egyidejűleg csak egy hatályos tanulószerződéssel rendelkezhet. A tanulószerződéssel rendelkező tanuló gyakorlati képzésen kizárólag tanulószerződés keretében vehet részt.
 
 (6)
 
@@ -672,11 +680,11 @@ kezeli.
 
 (2) A tanulószerződés kötésére jogosult egyéb szerv, szervezet
 
-- a) a köznevelési intézmények kivételével az egészségügyi, művészeti, közművelődési, oktatási és szociális ágazatba tartozó gyakorlati képzést szervező
+- a) a köznevelési intézmények kivételével az Egészségügy, az Egészségügyi technika, a Szociális, a Pedagógia, a Képző- és iparművészet, a Hang-, film és színháztechnika ágazatba tartozó, valamint a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló gyakorlati képzést szervező
   - aa) költségvetési szervként működő intézmény,
   - ab) alapítvány, egyesület, egyházi jogi személy,
   - ac) alapítvány, egyesület, egyházi jogi személy fenntartásában működő intézmény, továbbá
-- b) az agrárágazatba tartozó gyakorlati képzést szervező őstermelő.
+- b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 
@@ -686,7 +694,7 @@ kezeli.
 
 44. § (1) A nyilvántartás tartalmazza
 
-- a) a gyakorlati képzés folytatására jogosult szervezet megnevezését, székhelyét, adószámát, képviselőjének és a gyakorlati képzésért felelős személy nevét,
+- a) a gyakorlati képzés folytatására jogosult szervezet megnevezését, székhelyét, gyakorlati képzési helyszínét vagy helyszíneit, adószámát, képviselőjének és a gyakorlati képzésért felelős személy nevét,
 - b) azon szakképesítés(ek)nek a megnevezését és azonosító számát, amelyekre a gyakorlati képzőhely a felkészítést nyújtja,
 - c) a nyilvántartásba vétel időpontját,
 - d) a nyilvántartásba vételi eljárást lefolytató, területileg illetékes gazdasági kamara nevét, székhelyét, képviselőjének nevét, továbbá a nyilvántartásba vételi eljárásban részt vevő szakértő(k) nevét,
@@ -713,7 +721,7 @@ kezeli.
 
 46. § (1) A gazdasági kamara feladata a tanulószerződés megkötésének elősegítése. Ha a gazdasági kamara közreműködése eredményeként nem kerül sor tanulószerződés megkötésére, a gazdasági kamara tájékoztatja erről a tanuló jogviszonya szerinti szakképző iskolát. Ebben az esetben a szakképző iskola gondoskodik a tanuló gyakorlati képzéséről.
 
-(2) A tanulószerződést a nyilvántartást vezető szerv tartja nyilván. A tanulószerződést, a módosított tanulószerződés egy példányát a gyakorlati képzést szervező szervezet a tanulószerződés megkötését, módosítását követő öt munkanapon belül megküldi a nyilvántartást vezető szervnek. A gyakorlati képzést szervező szervezet a tanulószerződés megszűnését öt munkanapon belül bejelenti a nyilvántartást vezető szervnek és a tanuló jogviszonya szerinti szakképző iskolának.
+(2) A tanulószerződést a nyilvántartást vezető szerv tartja nyilván. A tanulószerződést, a módosított tanulószerződés valamennyi példányát a gyakorlati képzést szervező szervezet a tanulószerződés megkötését, módosítását követő öt munkanapon belül megküldi a nyilvántartást vezető szervnek. A gyakorlati képzést szervező szervezet a tanulószerződés megszűnését öt munkanapon belül bejelenti a nyilvántartást vezető szervnek és a tanuló jogviszonya szerinti szakképző iskolának.
 
 (3) A nyilvántartást vezető szerv a tanulószerződés megszűnésének tényét a megszűnés bejelentésétől számított öt munkanapon belül átvezeti a nyilvántartáson.
 
@@ -723,7 +731,7 @@ kezeli.
 
 (2) A tanulószerződést lehetőleg minden év augusztus 15-ig kell megkötni. A nyilvántartást vezető szerv a tanulószerződést a megküldéstől számított tíz napon belül ellenjegyzi, ha a tanulószerződés megfelel e törvény előírásainak. Az aláírt és ellenjegyzett tanulószerződés egy példányát a nyilvántartást vezető szerv az ellenjegyzéstől számított öt napon belül megküldi a szakképző iskolának.
 
-(3) A tanulószerződés az ellenjegyzéssel válik érvényessé, és a tanulószerződésben megjelölt naptól hatályos.
+(3) A tanulószerződés, a tanulószerződés módosítása az ellenjegyzéssel válik érvényessé, és a tanulószerződésben, a tanulószerződés módosításában megjelölt naptól hatályos.
 
 (4) A tanulószerződés alapján a tanuló az e törvény szerint járó juttatásokra – a tanévkezdést követően megkötött tanulószerződést kivéve – a tanév kezdő napjától jogosult.
 
@@ -735,8 +743,8 @@ kezeli.
 - b) a tanuló természetes személyazonosító adatait (nevét, születési nevét, születési helyét és idejét, anyja születési nevét, lakcímét, oktatási azonosítóját, elérhetőségét), törvényes képviselőjének nevét, lakcímét és elérhetőségét,
 - c) a szakmai elméleti képzést nyújtó szakképző iskola adatait (nevét, székhelyét, elérhetőségét, oktatási azonosítóját, törvényes képviselőjének nevét),
 - d) az OKJ-val azonos módon a szakképesítés megnevezését és a képzési időt,
-- e) a gyakorlati képzés helyét, a tanuló gyakorlati képzéséért felelős személyt,
-- f) a tanulót e törvény alapján megillető pénzbeli juttatás összegét,
+- e) a gyakorlati képzés helyét, a tanuló gyakorlati képzéséért felelős személy nevét, és – szakiskolai tanuló esetén – azt, hogy a gyakorlati képzés helye kizárólag gyakorlati képzési célt szolgál-e,
+- f) a tanulót e törvény alapján megillető pénzbeli juttatás összegét, és – figyelemmel a 63. § (7) bekezdésében foglaltakra – azt a fizetési számlaszámot, amelyre a pénzbeli juttatás átutalásra vagy befizetésre kerül,
 - g) az f) pontban meghatározott tanulói juttatás emelésének, csökkentésének a gyakorlati képzést szervező szervezetnél képzésben részt vevő valamennyi tanulóra érvényes egységes feltételeit és szempontrendszerét, továbbá
 - h) a gyakorlati képzést szervező szervezet által a tanuló számára – a jogszabály alapján járó juttatásokon és kedvezményeken felül – biztosított egyéb juttatások és kedvezmények megjelölését, azok mértékét és nyújtásának feltételeit.
 
@@ -749,6 +757,8 @@ kezeli.
 - c) a biztonsági, egészségügyi és munkavédelmi előírásokat megtartja,
 - d) nem tanúsít olyan magatartást, amellyel a gyakorlati képzést szervező szervezet jogos gazdasági vagy egyéb érdekeit veszélyeztetné.
 
+(4) A tanulószerződésre az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni.
+
 #### 31. A tanulószerződés megszűnésének egyes esetei
 
 49. § (1) A tanulószerződés megszűnik
@@ -758,30 +768,30 @@ kezeli.
 - c) a gyakorlati képzést szervező szervezet jogutód nélküli megszűnésének napján,
 - d) a gyakorlati képzést szervező szervezetnek a gyakorlati képzésben való részvételtől eltiltó határozata jogerőre emelkedésének napján, azonnali végrehajtás elrendelése esetén a határozat közlésének a napján,
 - e) közös megegyezéssel történő megszüntetés esetén a közös megegyezésben megjelölt napon,
-- f) rendes felmondás esetén a felmondás közlésétől számított tizenötödik napon,
-- g) rendkívüli felmondás esetén a felmondás közlésének napján,
+- f) felmondás esetén a felmondás közlésétől számított tizenötödik napon,
+- g) azonnali hatályú felmondás esetén a felmondás közlésének napján,
 - h) a tanuló halála napján.
 
 (2) Ha a tanulószerződés az (1) bekezdés c) és d) pontja alapján szűnik meg, a nyilvántartást vezető szerv a szakképző iskolával együttműködve köteles elősegíteni a tanuló további gyakorlati képzését és a tanulószerződés megkötését.
 
 (3) Az (1) bekezdés a) és b) pontja esetében a szakképző iskola haladéktalanul értesíti a tanulói jogviszony megszűnésének napjáról a tanuló gyakorlati képzését szervező szervezetet és a nyilvántartást vezető szervet.
 
-50. § (1) A tanulószerződés felmondással való megszüntetése – az 51. és 52. §-ban meghatározottak szerint – rendes vagy rendkívüli felmondással történhet.
+50. § (1) A tanulószerződés felmondással való megszüntetése – az 51. és 52. §-ban meghatározottak szerint – felmondással vagy azonnali hatályú felmondással történhet.
 
 (2) A felmondást írásban kell közölni. A tanulószerződés felmondását közölni kell a szakképző iskolával és a nyilvántartást vezető szervvel.
 
-51. § (1) A tanuló a tanulószerződést a nyilvántartást vezető szervvel történt egyeztetést követően, jogszabálysértésre hivatkozva a jogszabálysértés pontos megjelölésével rendkívüli felmondással felmondhatja. Az egyeztetésnek ki kell terjednie a gyakorlati képzést szervező szervezettel kapcsolatban a tanuló által megjelölt jogszabálysértés körülményeinek tisztázására.
+51. § (1) A tanuló a tanulószerződést a nyilvántartást vezető szervvel történt egyeztetést követően, jogszabálysértésre hivatkozva a jogszabálysértés pontos megjelölésével azonnali hatályú felmondással felmondhatja. Az egyeztetésnek ki kell terjednie a gyakorlati képzést szervező szervezettel kapcsolatban a tanuló által megjelölt jogszabálysértés körülményeinek tisztázására.
 
-(2) A tanulószerződést rendkívüli felmondással bármelyik fél megszüntetheti, ha a másik fél
+(2) A tanulószerződést azonnali hatályú felmondással bármelyik fél megszüntetheti, ha a másik fél
 
 - a) a tanulószerződésben vállalt lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal, jelentős mértékben megszegi, vagy
 - b) egyébként olyan magatartást tanúsít, amely a tanulószerződés fenntartását lehetetlenné teszi,
 
 és emiatt lehetetlenné válik, vagy jelentős akadályba ütközik a tanuló komplex szakmai vizsgára történő felkészülése, vagy a gyakorlati képzés további biztosítása a tanuló részére.
 
-(3) A gyakorlati képzést szervező szervezet rendkívüli felmondással abban az esetben is megszüntetheti a tanulószerződést, ha a szakképző iskola a tanulót elégtelen tanulmányi eredmény miatt a képzési idő alatt másodszor utasította a szakképzési évfolyam megismétlésére.
+(3) A gyakorlati képzést szervező szervezet azonnali hatályú felmondással abban az esetben is megszüntetheti a tanulószerződést, ha a szakképző iskola a tanulót elégtelen tanulmányi eredmény miatt a képzési idő alatt másodszor utasította a szakképzési évfolyam megismétlésére.
 
-(4) Bármelyik fél rendes felmondással akkor mondhatja fel a tanulószerződést, ha más gyakorlati képzést szervezőnél a tanuló tanulószerződéssel történő foglalkoztatása biztosított.
+(4) Bármelyik fél felmondással akkor mondhatja fel a tanulószerződést, ha más gyakorlati képzést szervezőnél a tanuló tanulószerződéssel történő foglalkoztatása biztosított.
 
 (5) A gyakorlati képzést szervező szervezet a tanulószerződést nem mondhatja fel
 
@@ -789,17 +799,17 @@ kezeli.
 - b) üzemi baleset vagy foglalkozási megbetegedés esetén a táppénzre való jogosultság teljes ideje alatt,
 - c) a terhesség ideje alatt, továbbá a szülést követő hatodik hónap végéig.
 
-52. § (1) A gyakorlati képzést szervező szervezet a rendkívüli felmondást indokolni köteles. Az indokolásból a felmondás okának világosan ki kell tűnnie. Vita esetén a rendkívüli felmondás indokának valódiságát és okszerűségét a gyakorlati képzést szervező szervezetnek kell bizonyítania.
+52. § (1) A gyakorlati képzést szervező szervezet az azonnali hatályú felmondást indokolni köteles. Az indokolásból a felmondás okának világosan ki kell tűnnie. Vita esetén az azonnali hatályú felmondás indokának valódiságát és okszerűségét a gyakorlati képzést szervező szervezetnek kell bizonyítania.
 
-(2) A felek a rendkívüli felmondással szemben a felmondás közlésétől számított tizenöt napon belül bírósághoz fordulhatnak.
+(2) A felek az azonnali hatályú felmondással szemben a felmondás közlésétől számított tizenöt napon belül bírósághoz fordulhatnak.
 
-(3) A keresetnek a rendkívüli felmondás végrehajtására – az 51. § (3) bekezdésében foglaltak kivételével – halasztó hatálya van.
+(3) A keresetnek az azonnali hatályú felmondás végrehajtására – az 51. § (3) bekezdésében foglaltak kivételével – halasztó hatálya van.
 
 53. § (1) A gyakorlati képzést szervező szervezet a tanulószerződés megszűnésével egyidejűleg értesíti a nyilvántartást vezető szervet és a szakképző iskolát a tanulószerződés megszűnéséről.
 
 (2) A gyakorlati képzést szervező szervezet a tanulószerződés megszűnésekor a tanuló részére igazolást állít ki a gyakorlati képzésben eltöltött időről és a megszerzett gyakorlati ismeretekről.
 
-54. § (1) A tanulói jogviszonynak a nemzeti köznevelésről szóló törvény alapján történő szüneteltetése alatt a tanulószerződésből eredő jogok és kötelezettségek nem illetik meg és nem terhelik a feleket (a tanulószerződés szüneteltetése).
+54. § (1) A tanulói jogviszonynak a nemzeti köznevelésről szóló törvény alapján történő szüneteltetése, továbbá a tanuló szülési szabadsága alatt a tanulószerződésből eredő jogok és kötelezettségek nem illetik meg és nem terhelik a feleket (a tanulószerződés szüneteltetése). A tanulószerződés szüneteltetése alatt a tanuló tanulói pénzbeli juttatásra és az e törvényben meghatározott egyéb juttatásra nem jogosult.
 
 (2) A tanuló tanulói jogviszonya szüneteltetésének kezdetéről és végéről a szakképző iskola haladéktalanul értesíti a gyakorlati képzést szervező szervezetet és a nyilvántartást vezető szervet.
 
@@ -816,7 +826,7 @@ kezeli.
 - c) a gyakorlati képzést szervező szakképző iskola csak részben rendelkezik a gyakorlati képzés feltételeivel, ezért – a művészeti szakképesítések kivételével – a tanuló kiegészítő gyakorlati képzésére a gyakorlati képzést szervező szervezetnél kerül sor a szakmai és vizsgakövetelményben a gyakorlati képzésre előírt képzési idő legfeljebb negyven százalékában, vagy
 - d) a tanuló gyakorlati képzésére költségvetési szervnél kerül sor.
 
-(2) Az együttműködési megállapodást írásba kell foglalni. Az együttműködési megállapodásra a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni. Az együttműködési megállapodás a területileg illetékes gazdasági kamara ellenjegyzésével válik érvényessé, az ellenjegyzésre a 47. § (2) bekezdésében foglaltakat kell alkalmazni.
+(2) Az együttműködési megállapodást írásba kell foglalni. Az együttműködési megállapodásra a Polgári Törvénykönyvnek a megbízási szerződésre vonatkozó rendelkezéseit kell alkalmazni. Az együttműködési megállapodás és annak módosítása a területileg illetékes gazdasági kamara ellenjegyzésével válik érvényessé, az ellenjegyzésre a 47. § (2) és (3) bekezdésében foglaltakat kell alkalmazni. Az együttműködési megállapodás megküldésére a 46. § (2) bekezdésében foglaltakat kell alkalmazni.
 
 (3) Együttműködési megállapodás a fenntartóra vonatkozóan többletkötelezettséget csak a fenntartó előzetes jóváhagyásával állapíthat meg.
 
@@ -825,6 +835,8 @@ kezeli.
 (5) Ha a tanuló gyakorlati képzése részben vagy egészben együttműködési megállapodás alapján folyik, a gyakorlati képzés szervezője a szakképző iskola.
 
 (6) A szakképző iskola az együttműködési megállapodás megkötését megelőzően és azt követően folyamatosan ellenőrzi a gyakorlati képzés személyi és tárgyi feltételei meglétét a gyakorlati képzés feltételeivel részben vagy egészben rendelkező gyakorlati képzést folytató szervezetnél, valamint gondoskodik arról, hogy a tanuló gyakorlati képzése a szakképzési kerettantervnek megfelelően folyjon.
+
+(7) Az együttműködési megállapodás alapján folyó gyakorlati képzésen ténylegesen részt vevő tanuló nevét és oktatási azonosítóját tartalmazó függelék az együttműködési megállapodás részét képezi. A függelék valamennyi példányát az együttműködési megállapodást kötő szakképző iskola legkésőbb a gyakorlati képzés megkezdését megelőző tizenötödik napig küldi meg a nyilvántartást vezető szervnek.
 
 #### 33. Az együttműködési megállapodás tartalma
 
@@ -837,7 +849,7 @@ kezeli.
 - e) a szakképző iskola feladatait és kötelességeit a gyakorlati képzés megszervezésével kapcsolatban,
 - f) a gyakorlati képzést folytató szervezet feladatait és kötelességeit a szakmai gyakorlati képzés megszervezésével kapcsolatban,
 - g) a tanulókat e törvény szerint megillető juttatásokat, a felelősségbiztosítás költségeit,
-- h) azt, hogy a gyakorlati képzési idő egyes szakaszaiban hol és milyen formában (tanműhely, csoportos gyakorlati képzési hely, egyedi munkahely) valósul meg a gyakorlati képzés, továbbá ki gondoskodik a tanulók felügyeletéről.
+- h) azt, hogy a gyakorlati képzési idő egyes szakaszaiban hol valósul meg a gyakorlati képzés, és – szakiskolai tanuló esetén – azt, hogy a gyakorlati képzés helye kizárólag gyakorlati képzési célt szolgál-e, továbbá ki gondoskodik a tanulók felügyeletéről.
 
 ### XV. Fejezet — AZ ELLENŐRZÉS
 
@@ -898,7 +910,7 @@ kezeli.
 - c) ismételten jogszabálysértést követ el, vagy
 - d) a gyakorlati képzés folytatásának e törvényben meghatározott feltételeit továbbra sem biztosítja, és ezzel a tanuló komplex szakmai vizsgára történő eredményes felkészítését veszélyezteti, a területileg illetékes gazdasági kamara a gyakorlati képzést szervező vagy folytató szervezetet törli a nyilvántartásból, és három évre eltiltja a gyakorlati képzés folytatásától. Erről a jogsértést megállapító határozat egyidejű megküldésével a tanulóval tanulói jogviszonyban álló szakképző iskolát, a tanulót, kiskorú tanuló esetén a szülőt (gyámot) tájékoztatni kell. A területileg illetékes gazdasági kamara a nyilvántartásból törlő és a gyakorlati képzés folytatásától eltiltó határozat egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
 
-(4) A (3) bekezdés szerinti határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a szakképesítésért felelős miniszter által vezetett minisztérium, valamint a gazdasági kamara honlapján közzé kell tenni.
+(4) A (3) bekezdés szerinti határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a gazdasági kamara honlapján közzé kell tenni.
 
 62. § (1) Ha a területileg illetékes gazdasági kamara nyilvántartásba vétel hiányában nyújtott gyakorlati képzés folytatásáról szerez tudomást, a gazdasági kamara a gyakorlati képzést nyilvántartásba vétel hiányában nyújtót figyelmezteti, és gondoskodik arról, hogy a tanuló gyakorlati képzése a jogszabályoknak megfelelően folyjon, és erről egyidejűleg értesíti a szakképző iskolát.
 
@@ -907,7 +919,7 @@ kezeli.
 - a) a figyelmeztetésben részesített az (1) bekezdés szerinti figyelmeztetés ellenére a gyakorlati képzést továbbra is nyilvántartásba vétel hiányában nyújtja, vagy
 - b) a területileg illetékes gazdasági kamara eltiltó határozat ellenére nyújtott gyakorlati képzés folytatásáról szerez tudomást, a területileg illetékes gazdasági kamara a gyakorlati képzést azonnal felfüggeszti, és ezzel egyidejűleg a gyakorlati képzést jogellenesen nyújtóval szemben bírságot szab ki, továbbá haladéktalanul gondoskodik a tanulót tanulószerződés keretében foglalkoztató gyakorlati képzést szervező szervezet kiválasztásáról. Ebben az esetben a gazdasági kamara a gyakorlati képzést nyilvántartásba vétel hiányában vagy eltiltó határozat ellenére nyújtót a döntés közlésétől számított három évre eltiltja gyakorlati képzés folytatásától.
 
-(3) A gyakorlati képzés folytatásától eltiltó határozat esetén a gyakorlati képzést jogellenesen nyújtó köteles maradéktalanul visszatéríteni – a jogsértést megállapító döntés közlésétől számított tizenöt napon belül – a gyakorlati képzéssel összefüggésben a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény alapján elszámolt költségeit a Nemzeti Foglalkoztatási Alap képzési alaprésze javára.
+(3) A gyakorlati képzés folytatásától eltiltó határozat esetén a gyakorlati képzést jogellenesen nyújtó köteles maradéktalanul visszatéríteni – a jogsértést megállapító döntés közlésétől számított tizenöt napon belül – a gyakorlati képzéssel összefüggésben a szakképzési hozzájárulási kötelezettsége terhére elszámolt csökkentő tétel teljes összegét az adózás rendjéről szóló törvény önellenőrzésre vonatkozó szabályainak megfelelően az állami adóhatóságnál vezetett számlára.
 
 (4) A gyakorlati képzést folytató szervezetek ellenőrzésének részletes szabályait kormányrendelet állapítja meg.
 
@@ -915,10 +927,10 @@ kezeli.
 
 #### 37. A tanulói pénzbeli juttatás mértéke
 
-63. § (1) A gyakorlati képzést szervező szervezet a tanuló részére
+63. § (1) Pénzbeli juttatást köteles fizetni
 
-- a) a tanulószerződés alapján, továbbá
-- b) az 56. §-ban foglaltak szerint a gyakorlati képzésben szakképzési évfolyamon együttműködési megállapodás alapján, nappali rendszerű oktatásban részt vevő tanuló részére az összefüggő szakmai gyakorlat idejére pénzbeli juttatást köteles fizetni.
+- a) a gyakorlati képzést szervező szervezet a tanuló részére a tanulószerződés alapján, továbbá
+- b) a gyakorlati képzést folytató szervezet az 56. §-ban foglaltak szerint a gyakorlati képzésben szakképzési évfolyamon együttműködési megállapodás alapján, nappali rendszerű oktatásban részt vevő tanuló részére az összefüggő szakmai gyakorlat idejére.
 
 (2) Tanulószerződés alapján kifizetett tanulói pénzbeli juttatás havi mértékének legkisebb összege annak a szakképzési évfolyamnak az első félévében, amelyben a tanuló tanulószerződés alapján vesz részt szakképzésben, ha – a szakképesítésre a szakmai és vizsgakövetelményben meghatározott elméleti és gyakorlati képzési idő arányát figyelembe véve – a gyakorlati képzési idő eléri
 
@@ -930,15 +942,15 @@ kezeli.
 - f) a harminc százalékot, a minimálbér tizenöt százalékának 0,8-szerese,
 - g) a húsz százalékot, a minimálbér tizenöt százalékának 0,7-szerese.
 
-(3) A tanulmányi kötelezettségének eredményesen eleget tett tanuló pénzbeli juttatásának (2) bekezdés szerinti mértékét a szakképzési évfolyam további féléveiben a tanulószerződésben meghatározott szempontok figyelembevételével emelni kell, a tanuló tanulmányi előmenetelének, a gyakorlati képzés során nyújtott teljesítményének és szorgalmának figyelembevételével.
+(3) A tanulmányi kötelezettségének eredményesen eleget tett tanuló pénzbeli juttatását a szakképzési évfolyam további féléveiben a tanulószerződésben meghatározott szempontok figyelembevételével emelni kell, a tanuló tanulmányi előmenetelének, a gyakorlati képzés során nyújtott teljesítményének és szorgalmának figyelembevételével.
 
-(4) Ha a tanuló elégtelen tanulmányi eredménye miatt évismétlésre köteles, pénzbeli juttatásának havi mértéke a megismételt szakképzési évfolyam első félévében az előző félévre megállapított pénzbeli juttatás fele. A további félévekben – az újabb tanévismétlés esetét kivéve – a pénzbeli juttatás mértékének megállapítására a (3) bekezdés az irányadó.
+(4) Ha a tanuló elégtelen tanulmányi eredménye miatt évismétlésre köteles, pénzbeli juttatásának havi mértéke a megismételt szakképzési évfolyam első félévében az előző félévre megállapított pénzbeli juttatás fele. A megismételt évfolyam második félévében fizetendő tanulói juttatást a (3) bekezdés alapján kell megállapítani. A további félévekben – az újabb tanévismétlés esetét kivéve – a pénzbeli juttatás mértékének megállapítására a (2) és (3) bekezdés az irányadó. A szakképző iskola az évfolyamismétlő tanulószerződéses tanuló nevét és oktatási azonosítóját minden év szeptember 15-éig megküldi a nyilvántartást vezető szervnek.
 
 (5) Ha a tanuló a befejező szakképzési évfolyamon az évfolyamra előírt tanulmányi követelményeket nem teljesíti, a tanítási év utolsó tanítási napját követő naptól a tanulószerződés alapján tanulói juttatásra nem jogosult. Ha a tanuló elégtelen tanulmányi eredménye miatt évismétlésre köteles, a következő tanév első tanítási napjától a (4) bekezdés szerint foglaltakat kell alkalmazni.
 
-(6) A 48. §-ban foglaltakon túl a tanulói pénzbeli juttatás kifizetésének módját és legkésőbbi időpontját, a tanulói pénzbeli juttatásból történő terhek levonására vonatkozó tájékoztatás módját és a tanulói pénzbeli juttatással kapcsolatos valamennyi lényeges körülményt a tanulószerződésben kell rögzíteni.
+(6) A 48. §-ban foglaltakon túl a tanulói pénzbeli juttatás kifizetésének legkésőbbi időpontját, a tanulói pénzbeli juttatásból történő terhek levonására vonatkozó tájékoztatás módját és a tanulói pénzbeli juttatással kapcsolatos valamennyi lényeges körülményt a tanulószerződésben kell rögzíteni.
 
-(7) A tanuló pénzbeli juttatását a tanuló részére csak banki átutalással lehet teljesíteni.
+(7) A tanulószerződéses tanuló pénzbeli juttatását a tanuló részére csak banki átutalással vagy a fizetési számlára történő befizetéssel lehet teljesíteni. Amennyiben a tanuló nem rendelkezik saját fizetési számlával, a banki átutalás, befizetés teljesíthető a tanulói pénzbeli juttatásnak a tanuló szülőjének, gyámjának a bankszámlájára történő átutalással, befizetéssel is.
 
 64. § (1) A tanulót a tanulói pénzbeli juttatás a tanulószerződés alapján – a (2) bekezdésben foglalt kivétellel – a tanulószerződés hatálybalépésének napjától, teljes hónapra illeti meg. A tanulói pénzbeli juttatás összegét a tanuló igazolatlan mulasztásával arányosan – a tanulókat megillető juttatások részletes szabályairól szóló rendeletben meghatározottak szerint – csökkenteni kell.
 
@@ -948,11 +960,11 @@ kezeli.
 
 (4) A tanulót a 67. § (1) bekezdése alapján megillető betegszabadság időtartamára tanulói pénzbeli juttatásának hetven százaléka illeti meg.
 
-(5) A tanulói pénzbeli juttatást utólag, a Munka Törvénykönyve szabályai figyelembevételével kell kifizetni a tanuló részére.
+(5) A tanulói pénzbeli juttatást utólag, a munka törvénykönyvéről szóló törvény szabályai figyelembevételével kell kifizetni a tanuló részére.
 
-(6) A tanuló részére járó tanulói pénzbeli juttatásból levonásnak csak jogszabály, végrehajtható határozat vagy a tanuló hozzájárulása alapján van helye. A levonásra a Munka Törvénykönyvének a munkabérből történő levonásra vonatkozó szabályait kell alkalmazni.
+(6) A tanuló részére járó tanulói pénzbeli juttatásból levonásnak csak jogszabály, végrehajtható határozat vagy a tanuló hozzájárulása alapján van helye. A levonásra a munka törvénykönyvéről szóló törvénynek a munkabérből történő levonásra vonatkozó szabályait kell alkalmazni.
 
-(7) Jogalap nélküli kifizetés esetén a tanulói pénzbeli juttatást a tanulótól a Munka Törvénykönyvében szabályozott módon lehet visszakövetelni.
+(7) Jogalap nélküli kifizetés esetén a tanulói pénzbeli juttatást a tanulótól a munka törvénykönyvéről szóló törvényben szabályozott módon lehet visszakövetelni.
 
 #### 38. A gyakorlati képzésen együttműködési megállapodás alapján részt vevő tanuló részére kifizetett tanulói pénzbeli juttatásra vonatkozó külön rendelkezések
 
@@ -961,6 +973,8 @@ kezeli.
 (2) Az együttműködési megállapodás alapján fizetendő tanulói pénzbeli juttatás az összefüggő szakmai gyakorlaton töltött, valamennyi megkezdett hét után jár. Az együttműködési megállapodás alapján fizetendő tanulói pénzbeli juttatás heti összege az (1) bekezdés alapján fizetendő pénzbeli juttatás havi összegének egynegyed része.
 
 (3) Az együttműködési megállapodás alapján fizetendő pénzbeli juttatás összegét a mulasztott napok arányában csökkenteni kell, ha a tanuló a gyakorlatról távol marad.
+
+(4) A 63. § (7) bekezdésében foglaltakat a gyakorlati képzésen együttműködési megállapodás alapján részt vevő tanuló részére kifizetett tanulói pénzbeli juttatásra vonatkozóan nem kell alkalmazni.
 
 #### 39. A tanulót megillető szünet és felkészülési idő
 
@@ -972,15 +986,15 @@ kezeli.
 
 #### 40. A tanulóra vonatkozó munkajogi szabályok
 
-67. § (1) A tanulót a tanulószerződés alapján a betegsége idejére a Munka Törvénykönyve alapján tíz nap betegszabadság illeti meg. A tanuló a betegszabadságot meghaladó betegsége idejére a társadalombiztosítási jogszabályok szerint táppénzre jogosult. A betegszabadságra egyebekben a Munka Törvénykönyve szabályait kell alkalmazni.
+67. § (1) A tanulót a tanulószerződés alapján a betegsége idejére a munka törvénykönyvéről szóló törvény alapján tíz nap betegszabadság illeti meg. A tanuló a betegszabadságot meghaladó betegsége idejére a társadalombiztosítási jogszabályok szerint táppénzre jogosult. A betegszabadságra egyebekben a munka törvénykönyvéről szóló törvény szabályait kell alkalmazni.
 
 (2) Üzemi baleset és foglalkozási betegség esetén a gyakorlati képzésen tanulószerződés alapján részt vevő tanuló részére a társadalombiztosítási szabályok szerinti ellátás jár.
 
-(3) A tanulószerződés alapján a terhes és a szülő tanulót a Munka Törvénykönyve szerinti szülési szabadság illeti meg.
+(3) A tanulószerződés alapján a terhes és a szülő tanulót a munka törvénykönyvéről szóló törvény szerinti szülési szabadság illeti meg.
 
 #### 41. A tanulókat megillető egyéb juttatások
 
-68. § (1) A tanulót a gyakorlati képzésével összefüggésben – az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet rendelkezései szerinti – kedvezményes étkeztetés, útiköltség-térítés, munkaruha, egyéni védőfelszerelés (védőruha), tisztálkodási eszköz és a gyakorlati képzést szervező szervezetnél a tanuló által választott szakképesítéssel betöltött munkakörben foglalkoztatottak részére biztosított juttatások illetik meg.
+68. § (1) A tanulót a gyakorlati képzésével összefüggésben – az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet rendelkezései szerinti – kedvezményes étkeztetés, útiköltség-térítés, munkaruha, egyéni védőfelszerelés (védőruha), tisztálkodási eszköz és kötelező juttatások illetik meg. A tanuló részére a gyakorlati képzést szervező szervezetnél a tanuló által választott szakképesítéssel betöltött munkakörben foglalkoztatottak részére biztosított juttatások is adhatók.
 
 (2) A gyakorlati képzést szervező szervezet a tanulót a gyakorlati képzés során elért eredménye, teljesítménye alapján jutalomban, prémiumban, egyéb más juttatásban vagy szociális támogatásban részesítheti.
 
@@ -990,7 +1004,7 @@ kezeli.
 
 (2) Ha a tanulót a gyakorlati képzésben való részvétel során kár éri, a gyakorlati képzést folytató szervezet köteles azt megtéríteni.
 
-70. § (1) A tanuló és a gyakorlati képzést folytató szervezet kártérítési felelősségére tanulószerződés esetén – a (2) bekezdés kivételével – a Munka Törvénykönyve kártérítési felelősségi szabályait kell alkalmazni.
+70. § (1) A tanuló és a gyakorlati képzést folytató szervezet kártérítési felelősségére tanulószerződés esetén – a (2) bekezdés kivételével – a munka törvénykönyvéről szóló törvény kártérítési felelősségi szabályait kell alkalmazni.
 
 (2) A tanuló a gyakorlati képzést folytató szervezetnek gondatlanságból okozott kár értékének ötven százalékát köteles megtéríteni azzal, hogy a kártérítés mértéke nem haladhatja meg a tanuló pénzbeli juttatásának egyhavi összegét.
 
@@ -1053,7 +1067,7 @@ kezeli.
 (2) A szakképesítésért felelős miniszter az ágazatába tartozó szakképesítések tekintetében
 
 - a) javaslatot tesz az állam által elismert szakképesítésre,
-- b) meghatározza a képzés időtartamát, a szakképesítés szakmai tantárgyait, tananyagegységeit, szakmai követelménymoduljait és az ehhez tartozó modultérképet,
+- b) meghatározza a képzés időtartamát, a szakképesítés tananyagegységeit, szakmai követelménymoduljait és az ehhez tartozó modultérképet,
 - c) elkészítteti és a szakképzésért és felnőttképzésért felelős miniszter részére megküldi az ágazatába tartozó szakképesítések modultérképét,
 - d) kidolgoztatja a szakmai tantárgyak és tananyagegységek (modulok) tankönyveit és egyéb tanulmányi segédleteit,
 - e) gondoskodik a szakmai elméleti és gyakorlati képzést ellátó pedagógusok továbbképzésének szervezéséről, valamint a szaktanácsadás megszervezéséről és működtetéséről,
@@ -1090,6 +1104,8 @@ kezeli.
 (4) Az állami szakképzési és felnőttképzési szerv az általa őrzött törzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott törzslapok központi nyilvántartási adatait törli.
 
 (5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési szerv.
+
+(5a) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről az (5) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.
 
 (6) A jogutód nélkül megszűnt szakmai vizsgaszervező esetében az állami szakképzési és felnőttképzési szerv kérelemre kiállítja az Europass bizonyítvány-kiegészítőt.
 
@@ -1186,14 +1202,14 @@ kezeli.
 
 (2) A bizottság közreműködik a munkaerő-piaci információk, a foglalkoztatási, foglalkoztathatósági adatok és prognózisok alapján a nemzetgazdasági igények és a szakképzés fejlesztésének összehangolásában.
 
-(3) A bizottság az (1) bekezdésben meghatározott feladatkörében javaslatot tesz a gazdaság igényeit és a munkaerő-piaci kereslet adatait, valamint az országos, regionális, fővárosi és megyei beiskolázást figyelembe véve a szakképzés fővárosi, megyei szükségleteire. A bizottság javaslatot tesz az adott megyében székhellyel rendelkező fenntartó tekintetében, fenntartónként az általuk folytatott szakképzésben indított, állami költségvetési hozzájárulásban részesíthető és a nem támogatott szakképesítésekre (a szakképzés irányaira) és a fenntartó által indítható szakképesítések keretszámaira (beiskolázási arányaira). A bizottság javaslattételi jogköre nem terjed ki a szakképzésért és felnőttképzésért felelős miniszter által rendeletben meghatározott, munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző, továbbá a honvédelmi és rendészeti szakképesítésekre.
+(3) A bizottság az (1) bekezdésben meghatározott feladatkörében javaslatot tesz a gazdaság igényeit és a munkaerő-piaci kereslet adatait, valamint az országos, regionális, fővárosi és megyei beiskolázást figyelembe véve a szakképzés fővárosi, megyei szükségleteire. A bizottság javaslatot tesz az adott megyében vagy a fővárosban folytatott szakképzésben indított, állami költségvetési hozzájárulásban részesíthető és a nem támogatott szakképesítésekre (a szakképzés irányaira) és a megyében és a fővárosban indítható szakképesítések keretszámaira (beiskolázási arányaira). A bizottság javaslattételi jogköre nem terjed ki a szakképzésért és felnőttképzésért felelős miniszter által rendeletben meghatározott, munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző, továbbá a honvédelmi és rendészeti szakképesítésekre.
 
 (4) A szakképzés irányaira és a beiskolázási arányokra vonatkozó javaslatot a bizottság
 
 - a) a felnőttoktatást is magába foglaló iskolai rendszerű szakképzésben az állam által elismert szakképesítésekre, és a szakközépiskolák ágazati képzéseire,
 - b) az iskolarendszeren kívüli szakképzésben az államháztartás vagy az európai uniós források által támogatott, állam által elismert szakképesítésekre vonatkozóan a szakképzésért és felnőttképzésért felelős miniszter által meghatározott formai követelményeknek megfelelően teszi meg.
 
-(5) A bizottság a (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március 31-ig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján, a fenntartók által részére megküldött javaslatok figyelembevételével.
+(5) A bizottság a (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján, a fenntartók által részére megküldött javaslatok figyelembevételével.
 
 (6) A bizottság (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
 
@@ -1203,7 +1219,7 @@ kezeli.
 - b) javaslatot tesz az adott megyében a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott ösztöndíjra jogosító szakképesítésre (hiányszakképesítés),
 - c) közreműködik az iskolai rendszerű szakképzés és az iskolarendszeren kívüli szakképzés, valamint a köznevelésben és a felsőoktatásban folyó szakképzés összhangjának megteremtésében,
 - d) kezdeményezi az arra hatáskörrel rendelkező szervezetek és intézmények felé – a c) pontban meghatározott feladat érvényesülése érdekében – a bizottság által indokolt változtatások megtételét,
-- e) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő, a decentralizált kerettel kapcsolatos és az egyéb szakképzési pályázatok elkészítésében, kiírásában és értékelésében, javaslatot tesz a decentralizált keret pályázatainak nyerteseire és az általuk elnyert összeg nagyságára,
+- e) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő, a decentralizált kerettel kapcsolatos és az egyéb szakképzési pályázatok elkészítésében, javaslatot tesz a decentralizált keret megyék közötti keretére és prioritásaira, részt vesz a pályázat kiírásában és értékelésében, javaslatot tesz a decentralizált keret pályázatainak nyerteseire és az általuk elnyert összeg nagyságára,
 - f) fenntartói megkeresés esetén állást foglal a szakképzést érintő fenntartói döntések fővárosi, megyei munkaerő-piaci kereslettel összefüggő megalapozottságáról,
 - g) együttműködik a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
 - h)
@@ -1224,7 +1240,41 @@ kezeli.
 
 ### XX. Fejezet — A SZAKKÉPZÉS FINANSZÍROZÁSA
 
-84. §
+84. § (1) A szakképző iskolában a szakmai elméleti és a szakképző iskolában szervezett gyakorlati képzés költségeit – a nemzeti köznevelésről szóló törvény és a mindenkori költségvetési törvény alapján – az állami költségvetés és a fenntartó hozzájárulása biztosítja. Az egyéb gyakorlati képzés költségeit az e törvényben meghatározottak szerint a gyakorlati képzést szervező biztosítja.
+
+(2) A gyakorlati képzést szervező gazdálkodó szervezetnek a gyakorlati képzéshez való hozzájárulási kötelezettségét a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény szabályozza.
+
+(3) Amennyiben az 56. §-ban szabályozott együttműködési megállapodás alapján gyakorlati képzést folytató gazdálkodó szervezet szakképzési hozzájárulásra kötelezett, a szakképző iskola a költségvetési támogatás terhére további forrásokat nem adhat át részére.
+
+(4) Amennyiben a gyakorlati képzést részben vagy egészben folytató szervezet nem szakképzési hozzájárulásra kötelezett, a szakképző iskola fenntartója a gyakorlati képzés együttműködési megállapodás alapján folyó időarányos részére az iskolai tanműhelyben folyó gyakorlati képzés finanszírozási feltételei szerint jogosult a költségvetési támogatásra és a gyakorlati képzésben részt vevő tanuló költségeit – részben vagy egészben – megtérítheti a gyakorlati képzést részben vagy egészben folytató szervezet részére a költségvetési támogatása terhére. A költségek viselésének, megosztásának és átadásának módját a felek az együttműködési megállapodásban rögzítik.
+
+(5) A Kormány rendeletben hozza meg azon szakképesítésekre vonatkozó döntését, amelyekkel kapcsolatban a szakképző iskola fenntartója költségvetési hozzájárulásra jogosult. A Kormány a döntésében megyénként és a fővárosra tekintettel meghatározza azon szakképesítések és szakközépiskolai ágazatok körét, amelyekre a szakképző iskola fenntartója
+
+- a) korlátozás nélkül beiskolázhat,
+- b) költségvetési hozzájárulásra nem jogosult,
+- c) költségvetési hozzájárulást korlátozott keretszámok alapján igényelhet, ezen belül meghatározza a Kormány az adott megyében és a fővárosban iskolai rendszerű szakképzést folytató intézmények fenntartói tekintetében, fenntartónként a szakképesítések és szakközépiskolai ágazatok keretszámait.
+
+(5a) Azon szakképesítésre és szakközépiskolai ágazatra, amelyre a bizottság javaslattételi jogköre a 81. § (3) bekezdése szerint nem terjed ki, az érintett szakképesítésért felelős miniszter – a honvédelemért felelős miniszter kivételével – megyénként és a fővárosra tekintettel tesz a 81. § (3)–(5) bekezdése szerinti tartalmú javaslatot az érintett tanévet megelőző év március utolsó munkanapjáig.
+
+(5b) Az állami intézményfenntartó központ a bizottságnak a megyénként és a fővárosra tett, 81. § (3)–(5) bekezdése szerinti javaslatában és a szakképesítésért felelős miniszter (5a) bekezdés szerinti javaslatában foglalt keretszámoknak a megyén, a fővároson belüli, fenntartók közötti elosztására – az (5c) bekezdés szerinti szakképesítések és szakközépiskolai ágazatok kivételével – tesz javaslatot az érintett tanévet megelőző év április utolsó munkanapjáig.
+
+(5c) A keretszámok fenntartók közötti elosztásáról az 5. § (14) bekezdése szerinti, továbbá a rendészeti szakképesítések és szakközépiskolai ágazatok tekintetében a szakképesítésért felelős miniszter – az (5b) bekezdés szerinti tartalommal – tesz javaslatot megyénként és a fővárosra tekintettel az érintett tanévet megelőző év április utolsó munkanapjáig.
+
+(5d) A Kormány (5) bekezdés c) pontja szerinti, a keretszámok fenntartónkénti elosztására vonatkozóan megyénként és a fővárosra tekintettel hozott döntését az iskolai rendszerű szakképzés tekintetében az (5a)–(5c) bekezdés alapján tett javaslatok alapján hozza meg az érintett tanévet megelőző év július utolsó munkanapjáig. A Kormány (5) bekezdés szerinti döntése nem terjed ki a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre.
+
+(6) A Kormány (5) bekezdés szerinti döntése kiterjed minden olyan szakképző iskolai fenntartóra, amelynek a fővárosban vagy a megyében e törvény vagy a nemzeti köznevelésről szóló törvény alapján szakképzési feladatellátási kötelezettsége van, továbbá amely szakképzési megállapodást kötött a szakképzési feladatok ellátására. A szakképző iskolai fenntartó a Kormány (5) bekezdés szerinti döntése alapján a döntéssel érintett tanévtől kezdődő képzés tekintetében az adott képzés kifutásáig jogosult költségvetési hozzájárulásra.
+
+(7) Az iskolai rendszerű szakképzésben ellátott feladatok után a szakképző iskola nem állami fenntartója akkor jogosult költségvetési hozzájárulásra, ha a fővárosi, megyei kormányhivatallal szakképzési megállapodást kötött.
+
+(8) A fővárosi, megyei kormányhivatal – a szakképzésért és felnőttképzésért felelős miniszter egyetértésével – legfeljebb öt évre szakképzési megállapodást köthet a szakképző iskola azon nem állami fenntartójával, amelynek nincs jogszabály alapján feladatellátási kötelezettsége az e törvény szerint ellátott vagy ellátni kívánt feladatok tekintetében az adott megyében vagy a fővárosban. A szakképzésért és felnőttképzésért felelős miniszter egyetértési jogát az állami szakképzési és felnőttképzési szerv vezetője útján gyakorolja. A szakképzési megállapodás alapján a szakképző iskola nem állami fenntartója költségvetési hozzájárulásra csak az (5) bekezdés szerinti döntésnek megfelelő képzések után, az ingyenes képzésben való részvételre jogosult tanulói után jogosult.
+
+(9) Amennyiben a szakképző iskola szakképzési megállapodással rendelkező nem állami fenntartója a szakképző iskolának a nemzeti köznevelésről szóló törvény szerinti átszervezéséről dönt, a fenntartó kezdeményezésére a szakképzési megállapodást a döntést követő harminc napon belül felül kell vizsgálni, és szükség esetén módosítani kell.
+
+(10) A költségvetési hozzájárulást folyósító szerv, valamint a kormányhivatal hatósági ellenőrzése keretében ellenőrzi a szakképzési megállapodásban foglaltak és az (5) bekezdésben foglalt döntés betartását.
+
+(11) Az állam az e törvény értelmében ingyenesen biztosítandó képzésekhez költségvetési hozzájárulást biztosít.
+
+(12) A szakképző iskola térítési díjat szedhet a 29. § (1) bekezdésében meghatározottak után, amennyiben kizárólag költségvetési hozzájárulásra jogosult. A térítési díjat a tanulói jogviszony kezdete előtt kell megállapítani és a tanuló tudomására hozni. A szakképző iskola nem szedhet térítési díjat a gyakorlati képzés tanulószerződés keretében folyó része után.
 
 ### XXI. Fejezet — A SZAKKÉPZÉS INFORMÁCIÓS RENDSZERE
 
@@ -1252,7 +1302,7 @@ kezeli.
 
 - a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárásnak a részletes szabályait, valamint a 26. § (1) bekezdésében meghatározott, a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyként történő nyilvántartásba vétel részletes feltételeit,
 - b) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzésének és a komplex szakmai vizsga ellenőrzésének részletes szabályait,
-- c) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzésével összefüggő tevékenység ellenőrzése során kiszabható bírság mértékét.
+- c) a gyakorlati képzést folytató szervezetek szakképzési tevékenysége ellenőrzése során kiszabható bírság mértékét.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -1278,13 +1328,13 @@ kezeli.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a szakképesítéseknek az Európai Képesítési Keretrendszerhez kapcsolódó Magyar Képesítési Keretrendszer szerinti szintjeinek meghatározását és besorolását.
 
-89. § Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – a szakképesítésért felelős miniszter egyetértésével – rendeletben határozza meg
+89. § Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – a b), e), f) és g) pont tekintetében a szakképesítésért felelős miniszter egyetértésével – rendeletben határozza meg
 
 - a) a tanulókat a 63–65. §-ok és a 68. § alapján megillető juttatások részletes szabályait,
-- b) az országos szakképzési névjegyzék elkészítését és kiadását,
+- b) az országos szakképzési névjegyzék elkészítésének és kiadásának szabályait,
 - c) a komplex szakmai vizsga szervezésére vonatkozó vizsgaszervezési engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díját és a díj megfizetésének szabályait,
-- d) a megyei fejlesztési és képzési bizottság működésének és tagjai delegálásának szabályait,
-- e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre, a kilencedik évfolyamon, tanműhelyben folyó szakmai gyakorlatra, a tizedik és tizenegyedik évfolyamon, gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
+- d) a megyei fejlesztési és képzési bizottság működésének, tagjai delegálásának szabályait, a javaslattételének elveire, szempontjaira és módszereire vonatkozó előírásokat, továbbá azon művészeti, kulturális, kézműves és hagyományőrző szakképesítéseknek a körét, amelyekre a megyei fejlesztési és képzési bizottság javaslattételi jogköre a 81. § (3) bekezdése alapján nem terjed ki,
+- e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
 - f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket, valamint
 - g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket.
 
@@ -1294,7 +1344,8 @@ kezeli.
 - b) a szakmai vizsgáztatás és a komplex szakmai vizsga szakmai ellenőrzésének részletes szabályait,
 - c) a 3. § (3) bekezdés a) pontja szerinti mestervizsga követelményeit,
 - d) a vizsgaszervezési engedély megszerzésének és a szakmai vizsgaszervezési tevékenység folytatásának speciális szakmai, tárgyi és személyi feltételeit és
-- e) a komplex szakmai vizsga szervezésére kijelölt, irányítása alá tartozó intézményt, felügyelete alá tartozó szerv által irányított intézményt.
+- e) a komplex szakmai vizsga szervezésére kijelölt, irányítása alá tartozó intézményt, felügyelete alá tartozó szerv által irányított intézményt,
+- f) az állam által elismert egyes szakképesítések tekintetében megszerzett jogosultságoknak a módosult OKJ-ban szereplő szakképesítésekre vonatkozó érvényességét.
 
 #### 54. Hatályba léptető rendelkezések
 
@@ -1320,10 +1371,10 @@ kezeli.
 
 (3) Az 5. § (7) bekezdésében meghatározottakon túl e törvény hatálybalépését követően 2017. június 30-ig térségi integrált szakképző központ tagjának minősül
 
-- a) egy vagy több állami, önkormányzati fenntartónak az 5. § (1)–(4) bekezdése szerint, azonos megyében vagy a fővárosban működő összesen legalább kettő szakképző iskolája, vagy
+- a) egy vagy több állami fenntartónak az 5. § (1)–(4) bekezdése szerint, azonos megyében vagy a fővárosban működő összesen legalább kettő szakképző iskolája, vagy
 - b) egy vagy több nem állami, nem önkormányzati fenntartó és az általa fenntartott szakképző iskola addig az időpontig, ameddig az 5. § (3) bekezdésében meghatározott számítás szerint a nappali rendszerű oktatásban tanulói létszáma meghaladja az ezerötszáz főt.
 
-(4) Nem állami, nem önkormányzati fenntartó és az általa fenntartott szakképző iskola, a gyakorlati képzés szervezésében részt vevő gazdálkodó szervezetek vagy a felsőoktatási intézmények saját döntésük alapján együttműködnek az 5. § (7) bekezdése vagy a (3) bekezdés szerinti térségi integrált szakképző központtal az 5. § (6) bekezdésében meghatározott, valamint az egymással megkötött együttműködési megállapodásban vállalt feladatok megvalósításában.
+(4) Nem állami fenntartó és az általa fenntartott szakképző iskola, a gyakorlati képzés szervezésében részt vevő gazdálkodó szervezetek vagy a felsőoktatási intézmények saját döntésük alapján együttműködnek az 5. § (7) bekezdése vagy a (3) bekezdés szerinti térségi integrált szakképző központtal az 5. § (6) bekezdésében meghatározott, valamint az egymással megkötött együttműködési megállapodásban vállalt feladatok megvalósításában.
 
 (5) Térségi integrált szakképző központ tagja a (4) bekezdés szerinti térségi integrált szakképző központ feladatai megvalósításában együttműködő fél, amennyiben e törvény hatálybalépéséig hatályos szabályok szerint is a térségi integrált szakképző központ feladatainak a megvalósításában vett részt.
 
@@ -1331,7 +1382,7 @@ kezeli.
 
 (7) A (6) bekezdésben meghatározott jogi személy lehet a térségi integrált szakképző központ valamely tagja, vagy a térségi integrált szakképző központ által alapított (létrehozott) nonprofit jogi személy.
 
-(8) A (3) bekezdés a) pontja szerinti azonos térségi integrált szakképző központ tagja lehet egy vagy több állami, önkormányzati fenntartó és egy vagy több állami, önkormányzati fenntartónak az 5. § (1)–(4) bekezdése szerint, a fővárosban és Pest megyében működő legalább kettő szakképző iskolája.
+(8) A (3) bekezdés a) pontja szerinti azonos térségi integrált szakképző központ tagja lehet egy vagy több állami fenntartó és egy vagy több állami fenntartónak az 5. § (1)–(4) bekezdése szerint, a fővárosban és Pest megyében működő legalább kettő szakképző iskolája.
 
 (9) Az 5. § (1)–(3) bekezdése szerinti feltételek teljesítéséhez szükséges döntést a szakképző iskola fenntartója 2013. május 31-ig hozza meg azzal, hogy a döntés alapján a szakképző iskola legkésőbb 2013. szeptember 1-jétől kizárólag az 5. § (1)–(3) bekezdése szerint működhet.
 
@@ -1342,13 +1393,17 @@ kezeli.
   - ba) az 5. § (7) bekezdésében meghatározott vagy
   - bb) a (3)–(5) bekezdésben meghatározott feltételeket teljesíti.
 
-(11) Amennyiben a kedvezményezett az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló olyan uniós támogatásban részesült, amelyben a térségi integrált szakképző központ fenntartási kötelezettségének előírására került sor, azonban az uniós támogatás visszafizetési kötelezettsége nélkül nem teljesíthetőek az 5. § (1)–(4) bekezdésében előírt feltételek, úgy az állami, önkormányzati fenntartó 2017. június 30-ig azon szakképző iskolája tekintetében mentesül az 5. § (1)–(4) bekezdésében és az 5. § (8) bekezdésében előírt feltételek teljesítésének kötelezettsége alól, amely vonatkozásában az 5. § (1)–(4) bekezdésében előírt feltételek teljesítése visszafizetési kötelezettséget eredményezne. Ebben az esetben a térségi integrált szakképző központ tagja lehet több megyei kormányhivatal is.
+(11) Amennyiben a kedvezményezett az e törvény hatálybalépése előtti napot megelőzően az Szt. 2. § (5)–(6) bekezdése szerint megalakult térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló olyan uniós támogatásban részesült, amelyben a térségi integrált szakképző központ fenntartási kötelezettségének előírására került sor, azonban az uniós támogatás visszafizetési kötelezettsége nélkül nem teljesíthetőek az 5. § (1)–(4) bekezdésében előírt feltételek, úgy az állami fenntartó 2017. június 30-ig azon szakképző iskolája tekintetében mentesül az 5. § (1)–(4) bekezdésében és az 5. § (8) bekezdésében előírt feltételek teljesítésének kötelezettsége alól, amely vonatkozásában az 5. § (1)–(4) bekezdésében előírt feltételek teljesítése visszafizetési kötelezettséget eredményezne.
 
-(12) A (11) bekezdésben meghatározott esetben a szakképző iskola állami, önkormányzati fenntartója 2013. május 31-ig vagy legkésőbb a térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló uniós támogatással érintett projekt lezárását követő három hónapon belül megvizsgálja az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének lehetőségét, és kezdeményezi az érintett uniós támogatásban illetékes irányító hatóságnál a támogatási szerződés módosítását. A szakképző iskola állami, önkormányzati fenntartója az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének kötelezettsége alól részben vagy egészben az irányító hatóság megállapítása alapján mentesülhet, köteles azonban az 5. § (1)–(4) bekezdésében előírt feltételeket az irányító hatóság mentesítő határozatában nem érintett szakképző iskolái tekintetében teljesíteni.
+(12) A (11) bekezdésben meghatározott esetben a szakképző iskola állami fenntartója 2013. május 31-ig vagy legkésőbb a térségi integrált szakképző központ létrehozására vagy továbbfejlesztésére szolgáló uniós támogatással érintett projekt lezárását követő három hónapon belül megvizsgálja az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének lehetőségét, és kezdeményezi az érintett uniós támogatásban illetékes irányító hatóságnál a támogatási szerződés módosítását. A szakképző iskola állami fenntartója az 5. § (1)–(4) bekezdésében előírt feltételek teljesítésének kötelezettsége alól részben vagy egészben az irányító hatóság megállapítása alapján mentesülhet, köteles azonban az 5. § (1)–(4) bekezdésében előírt feltételeket az irányító hatóság mentesítő határozatában nem érintett szakképző iskolái tekintetében teljesíteni.
 
-(13) A (11) bekezdésben meghatározott esetben a (3) bekezdés b) pontja szerinti térségi integrált szakképző központ tagja lehet az állami, önkormányzati intézményfenntartó és szakképző iskolája. Ebben az esetben a szakképző iskola fenntartója több térségi integrált szakképző központ tagja is lehet.
+(13) A (11) bekezdésben meghatározott esetben a (3) bekezdés b) pontja szerinti térségi integrált szakképző központ tagja lehet az állami intézményfenntartó és szakképző iskolája. A szakképző iskola állami fenntartója több térségi integrált szakképző központ tagja is lehet.
 
 (14) E törvény hatálybalépését követően új térségi integrált szakképző központ csak az 5. § (7) bekezdése szerint hozható létre.
+
+(14a) Egy szakképző iskola több térségi integrált szakképző központnak nem lehet tagja.
+
+(14b) A térségi integrált szakképző központ az állami szakképzési és felnőttképzési szervnek a kérésére adatot szolgáltat a tagjai neve, székhelye, telephelye és az ezekben bekövetkezett változások időpontja, valamint az 5. §-ban meghatározottak szerint számított tanulói létszámok tekintetében.
 
 (15) A szakképző iskolában szakmai elméleti és gyakorlati tárgyat oktatóra vonatkozóan a 30. §-ban a pedagógus-életpálya előmeneteli és illetményrendszerével összefüggő szabályokat a nemzeti köznevelésről szóló törvény pedagógus-életpályára vonatkozó szabályainak hatálybalépésétől kell alkalmazni.
 
@@ -1372,7 +1427,7 @@ kezeli.
 
 (25) Az e törvény szerint meghatározott tartalmú Országos Képzési Jegyzéket a Kormány legkésőbb 2012. április 30-ig adja ki.
 
-(26) A szakképesítésért felelős miniszter az e törvény szerint meghatározott tartalmú szakmai és vizsgakövetelményeket, továbbá a szakképzésért és felnőttképzésért felelős miniszter az e törvény szerint meghatározott szakképzési kerettanterveket legkésőbb 2012. december 31-ig adja ki.
+(26) A szakképesítésért felelős miniszter az e törvény szerint meghatározott tartalmú szakmai és vizsgakövetelményeket, továbbá a szakképzésért és felnőttképzésért felelős miniszter az e törvény szerint meghatározott szakképzési kerettanterveket legkésőbb 2013. március 31-ig adja ki.
 
 (27) A szakképzésért és felnőttképzésért felelős miniszter – az OKJ alapján a hatáskörébe utalt szakképesítések körében – 2012. augusztus 31-ig közleményben szakképzési tantervi ajánlást adhat ki, amely a szakképesítés szakmai és vizsgakövetelménye alapján a szakképesítés követelményei átadásának tartalmát és menetét szakképesítésenként tartalmazza. A szakképző iskolában szakképzési évfolyamon a 2012/2013-as tanévben szakképesítésre történő felkészítés céljából e törvény szerint – kizárólag az e bekezdés szerint kiadott szakmai és vizsgakövetelmény, az e bekezdés szerinti szakképzési tantervi ajánlás alapján, a fenntartó döntése szerint és a Kt. rendelkezéseinek figyelembevételével – akkor indítható szakképzés, ha
 
@@ -1380,21 +1435,41 @@ kezeli.
 - b) a szakképesítés e bekezdés szerinti szakképzési tantervi ajánlását a szakképzésért és felnőttképzésért felelős miniszter 2012. augusztus 31-ig közleményben nyilvánosságra hozza, és
 - c) a tanuló, kiskorú tanuló esetén a szülő (gyám) a beiskolázásra vonatkozó, e törvény hatálybalépése előtti szabályok alapján hozott döntését írásbeli nyilatkozatban módosítja az e bekezdés szerint érintett szakképesítésre. Amennyiben a szakiskolai közismereti kerettanterv 2012. augusztus 15-ig nem kerül kiadásra, az e bekezdés szerinti szakképzésben a közismereti oktatást a Kt. 27. § (4) bekezdése alapján kell folytatni az e törvény 8. § (2) bekezdésében foglalt eltéréssel.
 
-(28) Az Szt. alapján szakmai vizsgát az iskolai rendszerű szakképzésben utoljára a 2012/2013-as tanévben az Szt. alapján indított képzésben, de legkésőbb 2017. július 31-ig, javító- és pótló vizsgát legkésőbb 2017. december 31-ig lehet tenni. Az iskolarendszeren kívüli szakképzésben az Szt. alapján szakmai vizsgát utoljára az e törvény alapján az adott szakképesítésre kiadott szakképzési kerettanterv megjelenésének napjától számított hatodik hónap utolsó munkanapján, az Szt. alapján indított képzésben, javító- és pótló vizsgát az Szt. alapján legkésőbb a szakmai vizsgát követő egy évig lehet tenni. Az e törvény hatálybalépését követően az Szt. szerint kiadott szakmai és vizsgakövetelmények alapján indult képzések szakmai vizsgáit az Szt. szakmai vizsgáztatásra vonatkozó rendelkezései szerint kell megszervezni és lebonyolítani az e törvény alapján kiadott vizsgaszabályzatban foglalt eltérésekkel. A szakmai vizsgát szervező intézmény a 16. § (2) bekezdése szerinti törzslapokat 2013. augusztus 31-ig papír alapon állítja ki, amelyeknek egy-egy eredeti példányát az utolsó vizsganapot követő harminc napon belül köteles az állami szakképzési és felnőttképzési szervnek megküldeni. Ha az állami szakképzési és felnőttképzési szerv a beküldött törzslapok hibás vagy hiányos kitöltését észleli, akkor a törzslapok visszaküldésével egyidejűleg felhívja a beküldőt az észlelt hibák harminc napon belüli kijavítására. Az állami szakképzési és felnőttképzési szerv a 16. § (3) bekezdés szerint jár el az e bekezdés alapján papír alapon is kiállított törzslapokkal kapcsolatban is.
+(28) Az Szt. alapján szakmai vizsgát az iskolai rendszerű szakképzésben utoljára a 2012/2013-as tanévben az Szt. alapján indított képzésben, de legkésőbb 2017. július 31-ig, javító- és pótló vizsgát legkésőbb 2017. december 31-ig lehet tenni. A 2012. szeptember 1-jét megelőzően hatályos OKJ-ban szereplő szakképesítések megszerzésére irányuló iskolarendszeren kívüli szakképzések szakmai vizsgáinak az Szt. alapján történő megszervezésére és lebonyolítására legfeljebb a képzésnek a felnőttképzési szerződésben rögzített befejezését követő egy évig, a javító-, pótlóvizsgák megszervezésére és lebonyolítására a szakmai vizsgát követő egy évig kerülhet sor. Az e törvény hatálybalépését követően az Szt. szerint kiadott szakmai és vizsgakövetelmények alapján indult képzések szakmai vizsgáit az Szt. szakmai vizsgáztatásra vonatkozó rendelkezései szerint kell megszervezni és lebonyolítani az e törvény alapján kiadott vizsgaszabályzatban foglalt eltérésekkel. A szakmai vizsgát szervező intézmény a 16. § (2) bekezdése szerinti törzslapokat 2013. augusztus 31-ig papír alapon állítja ki, amelyeknek egy-egy eredeti példányát az utolsó vizsganapot követő harminc napon belül köteles az állami szakképzési és felnőttképzési szervnek megküldeni. Ha az állami szakképzési és felnőttképzési szerv a beküldött törzslapok hibás vagy hiányos kitöltését észleli, akkor a törzslapok visszaküldésével egyidejűleg felhívja a beküldőt az észlelt hibák harminc napon belüli kijavítására. Az állami szakképzési és felnőttképzési szerv a 16. § (3) bekezdés szerint jár el az e bekezdés alapján papír alapon is kiállított törzslapokkal kapcsolatban is.
 
 (29) A szakképesítésért felelős miniszter – a közigazgatási hatósági eljárás általános szabályai szerint – 2012. december 31-ig megvonhatja az általa feljogosított intézménytől a komplex szakmai vizsga szervezésének jogát. A szakképesítésért felelős miniszter az e bekezdésben szabályozott határozatát – indokolás nélkül – a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
 
 (30) Az állami szakképzési és felnőttképzési szerv 2012. december 31-ig ellátja a 2011-es bevallások tekintetében a szakképzési hozzájárulással kapcsolatban a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat.
 
-(31) A bizottság a 81. § (3) bekezdésében meghatározott javaslatát a 81. § (4) bekezdés a) pontja szerinti szakképesítésekre vonatkozóan a 2013/2014-es tanévre 2012. július 31-ig teszi meg. A bizottság a 81. § (4) bekezdés b) pontja szerinti szakképesítésekre a 81. § (3) bekezdésben meghatározott javaslatát első alkalommal a 2013. július 1-je után induló iskolarendszeren kívüli szakképzésre vonatkozóan 2013. március 31-ig teszi meg.
-
-(32) A Kormány a 84. § (5)–(6) bekezdésében meghatározott döntését első alkalommal a 2013/2014-es tanévre vonatkozóan 2012. szeptember 30-ig hozza meg azzal, hogy a döntés a szakképesítéseket megyékre és a fővárosra lebontva határozza meg a 84. § (5) bekezdés a) és b) pontjai szerinti csoportosításban. A Kormány a 81. § (4) bekezdés b) pontja szerinti szakképesítésekre a 84. § (5)–(6) bekezdésben meghatározott döntését első alkalommal a 2013. július 1-je után induló iskolarendszeren kívüli szakképzésre vonatkozóan 2013. május 31-ig hozza meg.
+(31)–(32)
 
 (33) A Kormány a 88. § (6) bekezdésében meghatározott rendeletet 2013. május 31-ig adja ki.
 
 (34) Az e törvény hatálybalépése előtt a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXVI. törvény alapján megalakult regionális fejlesztési és képzési bizottságok 2012. szeptember 30-ig látják el feladataikat. Az e törvényben meghatározott megyei fejlesztési és képzési bizottságokat 2012. szeptember 30-ig kell megalakítani, amely bizottságok az e törvény szerinti feladataikat 2012. október 1-jétől látják el.
 
-(35) Amennyiben a Kt. 89/B. §-a szerint megalakult szakképzés-szervezési társulásból a megyei önkormányzat a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: Mökt.) alapján kilép, és ennek következtében a szakképzés-szervezési társulásban tagként egyetlen, szakképző iskolát fenntartó önkormányzat marad, a szakképzés-szervezési társulás jogutódlással átalakulhat oly módon, hogy a megyei fenntartó együttműködési megállapodást köt a térségi integrált szakképző központ feladatainak közös megszervezésére a szakképzés-szervezési társulás települési önkormányzat tagjával. Az e bekezdés szerinti együttműködési rendszer a (10) bekezdésben foglalt határidőig térségi integrált szakképző központnak minősül, amelyre a (10)–(11) bekezdés rendelkezéseit kell alkalmazni. E bekezdés alkalmazásában megyei fenntartón a Mökt.-ben meghatározott azon megyei fenntartót kell érteni, amely a Mökt. szerint az adott szakképzés-szervezési társulásból kilépett megyei önkormányzati fenntartó szakképzési feladatait átvette.
+(35)
+
+92/A. § (1) A Kt. és az Szt. szabályai szerint, utolsó alkalommal a 2012/2013-as tanévben induló szakiskolai képzésben szervezett szintvizsgát az e törvény hatálybalépése előtti szabályok és a képzésre vonatkozó szakmai és vizsgakövetelményben meghatározottak szerint kell megszervezni. A szakiskolai tanuló nem kizárólag gyakorlati képzési célt szolgáló tanműhelyben – tanulószerződés keretében – folyó gyakorlati képzésben az e bekezdésben meghatározott szakmai és vizsgakövetelményben előírt szintvizsga teljesítését követően vehet részt.
+
+(2) A 25. § (1) bekezdése alkalmazásában a maximális csoportlétszám 2013. augusztus 31-ig tizenkettő fő.
+
+(3) Az 5. § (14) bekezdésében meghatározottak megvalósításához szükséges intézmény-átadást legkésőbb 2013. augusztus 1-jei hatállyal végre kell hajtani a vidékfejlesztési miniszter és az oktatásért felelős miniszter által – a szakképzésért és felnőttképzésért felelős miniszter egyetértésével – 2013. március 31-ig megkötött megállapodás szerint, az abban rögzített szakképző iskolákat és feladatellátási helyeket érintően, a 2013. május 31-ig – az e bekezdés szerinti megállapodás végrehajtására – meghozott fenntartói döntések figyelembevételével. A vidékfejlesztési miniszter a fenntartásában lévő szakképző iskolákat fenntartja és működteti az átadás napjától. Az állami intézményfenntartó központ a megállapodás szerint a vidékfejlesztési miniszternek átadásra kerülő szakképző iskolák feladatellátását szolgáló vagyont – legalább a 2013. január 1-jei állapot szerint – maradéktalanul rendelkezésre bocsátja az átadás napjától.
+
+(4) Az állami intézményfenntartó központ dönt a szükséges átszervezésekről, ha olyan szakképző iskolának a vidékfejlesztésért felelős miniszter fenntartásába való átadásáról születik a (3) bekezdés szerinti megállapodásban döntés, amely a nemzeti köznevelésről szóló törvény 7. § (5) bekezdése alapján meghatározott szakképesítésekre való felkészítésen kívül más feladatokat is ellát. A vidékfejlesztésért felelős miniszternek átadásra kerülő szakképző iskola az állami intézményfenntartó központ döntése szerint kifutó rendszerben elláthat a nemzeti köznevelésről szóló törvény 7. § (5) bekezdésében foglalt szakképesítésekre való felkészítésen kívül más szakképzési feladatot is.
+
+(5) A 2013/2014. tanév előtt megkezdett képzés kifutó rendszerben befejezhető anélkül, hogy alkalmazni kellene a szakképző iskolára az 5. § (1)–(4) bekezdéséből következő intézményátszervezési kötelezettséget, ha az állami intézményfenntartó központnak a 92. § (9) bekezdésében foglalt határidőig meghozott döntése alapján a szakképző iskolában kifutó rendszerben a 2013/2014. tanévtől megszűnik a szakképzés vagy a szakképző iskola a 2013/2014. tanévtől felmenő rendszerben kizárólag a művészeti szakmacsoportba tartozó szakképzési feladatokat lát el.
+
+(6) Ha az önkormányzat az állami intézményfenntartó központ számára történő fenntartói és működtetői feladatok átadásával kapcsolatban önkormányzati fenntartású szakképző iskolai célokat szolgált vagyon vagyonkezelői vagy – a (8) bekezdés szerinti esetben – ingyenes használati jogát nem biztosítja az állami intézményfenntartó központnak, beleértve a vagyoni értékű jog révén rendelkezésre álló vagyont is, helytáll az ebből keletkező kötelezettségekért, és kártérítési felelőssége áll fenn az állami intézményfenntartó központnál emiatt felmerülő költségekkel kapcsolatban.
+
+(7) A Kt. 89/B. § (2) bekezdése szerint létrejött szakképzés-szervezési társulás 2012. december 31-én megszűnik, tulajdonát és az e napon fennálló kötelezettségeit a társulás tagjai az általuk ezen időpontig megkötött megállapodásban megosztják egymás között. A társulás mindazon vagyonát, amely 2012. december 31-éig szakképzési feladatellátási célokat szolgált, a társulás tagjai 2013. január 1. napjával vagyonkezelésbe átadják az állami intézményfenntartó központnak mindaddig, amíg ez az állami szakképzési feladatellátáshoz szükséges. Az állami intézményfenntartó központ a szakképzési feladatellátáshoz és az azt szolgáló vagyonhoz kapcsolódó uniós támogatási jogviszony tekintetében a szakképzés-szervezési társulás jogutódja.
+
+(8) Az önkormányzat tulajdonosi részesedésével működő gazdasági társaság a tulajdonában levő vagy vagyoni értékű joga alapján rendelkezésre álló, szakképzési célt szolgáló ingó és ingatlan vagyon arányos, 2012. december 31-ig az átadott szakképző iskolák használatában álló részének – de legalább a 2012. december 31-ei állapot szerinti önkormányzati tulajdonrész arányában – az ingyenes használati jogát köteles biztosítani az állami intézményfenntartó központnak. A gazdasági társaság tulajdonosai kötelesek lehetővé tenni az e bekezdés szerinti kötelezettség teljesítését.
+
+(9) Ha a (8) bekezdés szerinti gazdasági társaság tulajdonosai 2013. január 31-éig jelzik az állami intézményfenntartó központnak, hogy nem tudják vállalni a gazdasági társaság fenntartásával együtt járó költségeket, akkor a gazdasági társaságot a tulajdonosai megszüntetik az Szt. 2. § (7) bekezdésében foglaltak betartásával, és az önkormányzati tulajdonosok az általuk átvett, a szakképzési feladatellátást szolgáló vagyont vagyonkezelésbe átadják az állami intézményfenntartó központnak. A térségi integrált szakképző központ tagjai 2013. március 31-ig kötelesek írásba foglalni megállapodásukat a térségi integrált szakképző központ további működésével kapcsolatban. A gazdasági társaság megszűnése esetén az állami intézményfenntartó központ nem tagadhatja meg a fenntartási kötelezettség teljesítéséhez szükséges költségviselésben való, az állami feladatellátási kötelezettséggel arányos részvételét.
+
+(10) Ha az Szt. 2. § (6) bekezdése szerint vagy a Kt. 89/B. § (13) bekezdése szerint létrejött gazdasági társaság az uniós támogatás kedvezményezettje és legalább egy tulajdonosa olyan önkormányzat, amely 2012. december 31-ig szakképző iskola fenntartója volt, úgy – eltérő megállapodás hiányában – 2013. január 1-jét követően is a gazdasági társaság a 92. § (6) bekezdése szerint kijelölt jogi személy. Ebben az esetben az állami intézményfenntartó központ köteles együttműködni a fenntartási kötelezettség teljesítése érdekében az e bekezdés szerinti gazdasági társasággal és a térségi integrált szakképző központ tagjaival, azonban az uniós támogatásban részesült projekt fenntartási kötelezettségével összefüggésben költségviselésre nem kötelezhető. Az állami intézményfenntartó nem szerez tulajdonrészt a gazdasági társaságban, azonban ingyenes használati jog illeti meg a (8) bekezdésben foglaltak szerint.
+
+(11) A szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket a szakképzési megállapodás megkötése nélkül is befejezheti, a szakképzési megállapodás megkötése, tartalma vagy annak hiánya a szakképző iskolai fenntartónak a 2013/2014-es tanévben vagy ezt követően indított szakmai képzéseivel kapcsolatos jogosultságaira vonatkozik.
 
 #### 56. Az Európai Unióra vonatkozó és nemzetközi vonatkozású rendelkezések
 
@@ -1402,7 +1477,7 @@ kezeli.
 
 - a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatal személyek munkahelyi védelméről,
 - b) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról (9–11. cikk),
-- c) a Tanács 2010/707/EU Határozata (2010. október 21.) a tagállamok foglalkoztatáspolitikáira vonatkozó iránymutatásokról (Melléklet 7–9. Iránymutatás)
+- c)
 
 #### 57. Módosító rendelkezések
 

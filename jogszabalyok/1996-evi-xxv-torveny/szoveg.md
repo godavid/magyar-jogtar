@@ -10,7 +10,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 2. § E törvény alkalmazásában
 
-- a) helyi önkormányzat: a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 1. §-ának (1) bekezdésében meghatározott önkormányzat;
+- a) helyi önkormányzat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 3. §-ában meghatározott önkormányzat;
 - b) adósságrendezés: az adósságrendezési eljárás azon szakasza, amely a bíróság adósságrendezést megindító végzésének Cégközlönyben való közzétételével [10. § (1) bekezdés] kezdődik;
 - c) hitelező: az adósságrendezés megindításának időpontjáig az, akinek a helyi önkormányzattal vagy annak költségvetési szervével szemben vagyoni követelése áll fenn; az adósságrendezés megindításának időpontját követően az, aki a követelését a hitelezői igény bejelentésére nyitva álló határidő alatt bejelentette, és azt a pénzügyi gondnok elfogadta, illetve követelésének jogerős elbírálásáig az is, akinek az igénye vitatott;
 - d) vagyon: a helyi önkormányzatnak az adósságrendezés megindításának időpontjában meglévő és az eljárás alatt szerzett azon vagyontárgyai, amelyeket a számvitelről szóló törvény befektetett, vagy forgóeszköznek minősít;
@@ -21,7 +21,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
   - ed) az adósságrendezés alá vont helyi önkormányzat vagy költségvetési szerve gesztori közreműködése mellett támogatásban részesített, a megvalósítás szakaszában álló, pályázaton elnyert, kizárólagosan célhoz kötötten – törvényben meghatározott kötelező feladat ellátásához kapcsolódóan – felhasználható fejlesztési és működési források önerő- és támogatásrésze;
   - ee) a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény és a Magyar Katolikus Egyház számára 2004. évben rendezésre javasolt ingatlanokból, és az e célra elkülönített költségvetési keret felosztásáról szóló 1049/2004. (V. 14.) Korm. határozat alapján a volt egyházi ingatlanok tulajdoni helyzetének rendezése céljából helyi önkormányzat részére juttatott, elkülönítetten kezelt összeg, függetlenül attól, hogy azok az adósságrendezési eljárást megelőzően, vagy az eljárás alatt kerülnek az adósságrendezéssel érintett helyi önkormányzathoz, helyi önkormányzati költségvetési szervhez;
 - f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomképtelen törzsvagyon feletti, valamint a hatósági feladatok és az alapvető lakossági szolgáltatások ellátásához szükséges vagyon feletti forgalomképes vagyonrész;
-- g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Ötv. 82. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett, vagy követelésként fennálló összege, valamint az Ötv. 83. §-ban szereplő átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
+- g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Mötv. 106. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett vagy követelésként fennálló összege, valamint az átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
 - h) reorganizációs hitel: a reorganizációs költségvetés és a hitelezői egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
 
 3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes törvényszék hatáskörébe tartozó nem peres eljárás.
@@ -62,7 +62,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - b) a ki nem elégített követelésre vonatkozó okiratokat, amelyekből a követelés jogcíme, esedékessége (lejáratának időpontja) megállapítható, továbbá a Cégközlönyben való közzétételéért fizetendő költségtérítés befizetésének igazolását;
 - c) az (1) bekezdés alapján összehívott képviselő-testületi ülés jegyzőkönyvét és az ahhoz kapcsolódó előterjesztéseket, valamint a képviselő-testület határozatát.
 
-(4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Ötv. 12. § (2) bekezdésében meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
+(4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Mötv. 45. §-ában meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
 
 (5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és megyei kormányhivatalt.
 
@@ -194,11 +194,11 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (2) A bizottság akkor határozatképes, ha a pénzügyi gondnok és a tagok fele jelen van. Döntését többségi szavazataránnyal hozza meg, szavazategyenlőség esetén a pénzügyi gondnok szavazata dönt. A pénzügyi gondnok a bizottsági döntés felülvizsgálatát kérheti a képviselő-testülettől.
 
-(3) Az Ötv. 10. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
+(3) Az Mötv. 42. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
 
 17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a fővárosi és megyei kormányhivatal felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
 
-(2) Amennyiben a képviselő-testület működésképtelenné válik, továbbá, ha a feloszlatását kezdeményezték [Ötv. 93. § (2) bek.] a helyi önkormányzattal szemben azonnal e törvény IV. fejezetében foglaltak szerint kell az adósságrendezési eljárást lefolytatni.
+(2) Amennyiben a képviselő-testület működésképtelenné válik, továbbá, ha a feloszlatását kezdeményezték a helyi önkormányzattal szemben azonnal e törvény IV. fejezetében foglaltak szerint kell az adósságrendezési eljárást lefolytatni.
 
 18. § (1) A jegyző, a főjegyző (a továbbiakban együtt: jegyző) az adósságrendezés megindításának időpontját követő 30 napon belül elkészíti a válságköltségvetési rendelettervezetet.
 
@@ -302,7 +302,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 - a) meghatározza a helyi önkormányzat jogszabályokban kötelezően előírt feladatainak és hatáskörének helyi ellátási formáit;
 - b) megállapítja, hogy az a) pontban foglalt kötelezettségek teljesítéséhez a helyi önkormányzat mely vagyontárgyai, illetve milyen központi költségvetéstől kapott támogatások szükségesek;
-- c) meghatározza az adósságrendezésbe vonható vagyon körét [2. § e) pont].
+- c) meghatározza az adósságrendezésbe vonható vagyon körét.
 
 (4) A pénzügyi gondnok a (3) bekezdésben foglaltakra vonatkozó – megfelelő indokolással ellátott – jelentését az (1) bekezdésben megjelölt végzés kézbesítését követő 30 napon belül benyújtja a bírósághoz, valamint megküldi a helyi önkormányzatnak és valamennyi hitelezőnek.
 
@@ -372,7 +372,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 34/D. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamra az adósságrendezés alá vont helyi önkormányzat mentesül az építtetői fedezetkezelői díj fizetésének kötelezettsége alól.
 
-34/E. § (1) Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamban, a miniszter egyedi döntése alapján, beruházási kiadások is teljesíthetők, különös tekintettel európai uniós támogatással megvalósuló beruházásokra és derogációs kötelezettség teljesítésére. A reorganizációs tervben a miniszter egyedi döntése alapján engedélyezett beruházások szerepelhetnek.
+34/E. §
 
 ### VI. Fejezet — Záró rendelkezések
 
@@ -402,9 +402,9 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 #### Az alapvető lakossági szolgáltatások
 
 - 1. A köztemetők létesítése, bővítése, fenntartása, bezárása, megszüntetése, kiürítése, újra használatbavétele, halotthamvasztó üzemeltetése (1991. évi XX. törvény).
-- 2. A kéményseprő-ipari tevékenység ellátásának biztosítása (1995. évi XLII. törvény).
+- 2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény).
 - 3. A települési folyékony hulladék leeresztő helyének kijelölése, közcélú ártalmatlanító telep fenntartása (1991. évi XX. törvény).
-- 4. A közterület tisztán tartása, a települési szilárd hulladék gyűjtése, elhelyezése és a lomtalanítási akciókkal kapcsolatos feladatok ellátása (1991. évi XX. törvény, 1995. évi XLII. törvény).
+- 4. A közterület tisztán tartása, a települési szilárd hulladék gyűjtése, elhelyezése és a lomtalanítási akciókkal kapcsolatos feladatok ellátása (1991. évi XX. törvény,).
 - 5. A települési vízellátás, szennyvízelvezetés, az összegyűjtött szennyvizek tisztítása, a csapadékvíz elvezetése, helyi vízrendezés és vízkárelhárítás, valamint az árvíz- és belvízvédekezés (1995. évi LVII. törvény).
 - 6. A helyi közutak biztonságos közlekedésének, tisztán tartásának, a hó eltakarításának és az út síkosság elleni védekezésének biztosítása, a helyi közút forgalmának biztonságát veszélyeztető helyzet elhárítása (1988. évi I. törvény).
 - 7. A közvilágítási berendezés üzemeltetése (1991. évi XX. törvény).

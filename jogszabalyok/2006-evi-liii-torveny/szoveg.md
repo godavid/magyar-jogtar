@@ -18,7 +18,7 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
 
-(2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.), az építésügyi hatósági eljárásokról, valamint a telekalakítási és az építészeti-műszaki dokumentációk tartalmáról szóló külön jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 ### A hatósági eljárás szabályai
 
@@ -31,6 +31,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 - a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
 - b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
+
+(3) Ha a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító törvény kizárja a fellebbezést vagy másodfokú szakhatóság közreműködését, akkor a kiemelt jelentőségű üggyé nyilvánító kormányrendeletben nem kell a fellebbezés elbírálására jogosult hatóságot vagy másodfokú szakhatóságot kijelölni.
 
 ### A kiemelt jelentőségű ügy koordinációja
 
@@ -48,68 +50,30 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (3) A kormánymegbízott a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a kormánymegbízottnak.
 
-3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – a (2)–(5) bekezdésben meghatározott kivétellel – legfeljebb két hónap lehet.
+3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb két hónap lehet.
 
-(2) Ha az (1) bekezdés szerinti kiemelt jelentőségű ügyben az építési engedélyezéshez, vagy az összevont építésügyi hatósági engedélyezési eljárás építési engedélyezési szakaszához szükséges mellékleteket és dokumentációt építésügyi igazgatási szakértő készíti elő, és az építtető az építésügyi hatósági engedélykérelme benyújtásakor kérelméhez mellékeli az építésügyi igazgatási szakértőnek a külön jogszabályban foglaltak szerinti tartalmú nyilatkozatát az ügyintézési határidő soron kívüli, de legfeljebb harminc nap.
+(2)
 
-(3) Kiemelt társadalmi cél érdekében központi költségvetési forrásból finanszírozott kiemelt jelentőségű ügyben
+(3)
 
-- a) családi ház építése esetén az építésügyi hatósági engedélyezési eljárás időtartama huszonegy nap,
-- b) középület építése esetén az építésügyi hatósági engedélyezési eljárás időtartama harminc nap,
-- c) a használatbavételi engedélyezési eljárás időtartama tizennégy nap.
-
-(4) A (3) bekezdésben meghatározott esetben az építési és a használatbavételi engedély iránti kérelem beérkezését követő naptól számított öt napon belül az építésügyi hatóság az érintett szakhatóságok bevonásával egyeztető tárgyalást és helyszíni szemlét tart. Az építésügyi hatóság az egyeztető tárgyalásról és helyszíni szemléről a kérelmező és az építésügyi hatóság megállapításait, valamint a szakhatóságok állásfoglalását is magában foglaló jegyzőkönyvet készít.
+(4)
 
 (5) Az ügyintézési határidő
 
 - a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő,
-- b) a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti összekapcsolt (környezeti hatásvizsgálati és egységes környezethasználati engedélyezési) eljárás esetén szakaszonként két-két hónap,
+- b)
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 
 (6) A hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb tizenöt nappal meghosszabbíthatja.
 
-4. § (1) Az építésügyi hatóság jogszabályban meghatározott esetekben a tervezést elősegítő tény, állapot, egyéb adat igazolása céljából helyszíni szemle lefolytatásával hatósági bizonyítványt állít ki.
+4. §
 
-(2) Az (1) bekezdés szerinti helyszíni szemléért a hatóságot, és – szakhatóság közreműködése esetén – a szakhatóságot a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díj illeti meg.
+4/A. §
 
-(3)
+4/B. §
 
-4/A. § (1) Az építtető az építési engedélyezésre vonatkozó külön jogszabályi előírások helyett választhatja az e §-ban és a 4/B. §-ban foglalt rendelkezések alkalmazásával az összevont építésügyi hatósági engedélyezési eljárást (a továbbiakban: összevont eljárás).
-
-(2) Az (1) bekezdés szerinti összevont eljárás
-
-- a) elvi építési keretengedélyezési (a továbbiakban: elvi keretengedélyezés) és
-- b) építési engedélyezési
-
-szakaszból áll.
-
-(3) Az összevont eljárás lefolytatására irányuló kérelmet az építtető írásban az 1. melléklet szerinti nyomtatványon, az ott meghatározott tartalommal terjeszti elő.
-
-(4) Az összevont eljárásra irányuló kérelem melléklete elvi keretengedélyezéshez
-
-- a) a 2. mellékletben meghatározott építészeti-műszaki dokumentáció 2 példányban, és
-- b) a tervezői nyilatkozat.
-
-(5) Az összevont eljárás építési engedélyezéshez szükséges – az építési engedélyezési eljárást szabályozó külön jogszabályokban meghatározott – mellékleteit az elvi keretengedélyezést követően, az elvi építési keretengedélyben meghatározottak szerint és annak hatályán belül kell benyújtani.
-
-(6) Az összevont eljárás iránti kérelem beérkezését követő naptól számított tizenöt napon belül az építésügyi hatóság – az eljárásban kijelölt szakhatóságok és érintett közműszolgáltatók bevonásával, továbbá az egyéb ügyfelek hirdetményi úton történő értesítésével – tárgyalást és helyszíni szemlét tart. Az építésügyi hatóság a tárgyalásról és helyszíni szemléről a kérelmező, az építésügyi hatóság, a szakhatóságok és a közműszolgáltatók megállapításait és a beruházás megvalósíthatóságával kapcsolatos nyilatkozatait, valamint a szakhatóság állásfoglalását is magában foglaló jegyzőkönyvet készít. A szakhatóság és az érintett közműszolgáltató a tárgyalás és helyszíni szemle során az állásfoglalása kiadására és a nyilatkozattételre további nyolc napot kérhet.
-
-(7) Az elvi keretengedélyezés során az építésügyi hatóság elvi építési keretengedélyt (a továbbiakban: elvi keretengedély) ad ki.
-
-(8) Az elvi keretengedélyben az építésügyi hatóság a (6) bekezdés szerinti tárgyalás és helyszíni szemle során feltárt tények és nyilatkozatok alapján megállapítja az építési engedély megadásának általános feltételeit és kereteit.
-
-(9) Az elvi keretengedélyezési eljárás ügyintézési határideje huszonöt nap. Az elvi keretengedély megtagadásáról szóló végzés ellen önálló fellebbezésnek van helye.
-
-(10) A jogerős elvi keretengedély egy évig hatályos. Hatálya egy ízben legfeljebb egy évvel meghosszabbítható, ha az elvi keretengedély lényeges tartalmát érintő jogszabályok, illetve a kötelező hatósági előírások időközben nem változtak meg. Az elvi keretengedély építési tevékenység végzésére nem jogosít.
-
-4/B. § (1) Az összevont eljárás építési engedélyezési szakasza az építési engedély elvi keretengedélynek megfelelően pontosított tartalmú mellékletek – elvi keretengedély hatályán belül történő – benyújtásával kezdődik. Az építési engedélyezési szakaszban az elvi keretengedélyben foglaltak az építésügyi hatóságot, a szakhatóságot és a közműszolgáltatót – azokban a kérdésekben, amelyekről kifejezetten rendelkezett, az elvi keretengedélyezési szakaszban nyilatkozott, vagy állásfoglalást adott ki – akkor is kötik, ha az elvi keretengedély megadását követően az elvi keretengedély lényeges tartalmát érintő jogszabályok megváltoztak. Az építésügyi hatóság, a szakhatóság és a közműszolgáltató az elvi keretengedélytől csak akkor térhet el, ha az elvi keretengedélyben foglalt valamely rendelkezés, nyilatkozat, állásfoglalás kialakításakor az elvi keretengedélyezési szakasz során figyelembe vett ténymegállapítás tekintetében az építési engedélyezési szakaszban megállapítást nyer, hogy az tévedésen, megtévesztésen alapult.
-
-(2) Az összevont eljárásért az építésügyi hatóságot, és szakhatóság közreműködése esetén a szakhatóságot külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díj illeti meg.
-
-(3)
-
-5. § (1) Kiemelt jelentőségű ügy engedélyezési eljárásában a szakhatóság eljárására irányadó ügyintézési határidő – a 4/A. § (6) bekezdésében foglaltak kivételével – tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
+5. § (1) Kiemelt jelentőségű ügy engedélyezési eljárásában a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
 
 (2)
 
@@ -117,10 +81,7 @@ szakaszból áll.
 
 (2)
 
-(3) Az építésügyi hatóság akkor állapítja meg a hozzá benyújtott, illetve a szakhatósághoz korábban benyújtott kérelem tartalmának azonosságát, ha
-
-- a) az építésügyi hatósági engedélyezési eljárás megindítása előtt beszerzett, a kérelem tárgyára vonatkozó, hat hónapnál nem régebbi szakhatósági állásfoglalás rendelkezésére áll, és
-- b) az építésügyi hatósági eljárások szabályait meghatározó jogszabályokban a szakhatósági állásfoglalás megadására előírt feltételek teljesülését megállapította.
+(3)
 
 6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb harminc napon belül el kell bírálni.
 
@@ -130,7 +91,7 @@ szakaszból áll.
 
 6/C. § (1) Kiemelt jelentőségű ügyben a kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendelet vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály az e törvényben foglalt határidőknél rövidebbet is megállapíthat.
 
-(2) A Kormány rendeletével nemzetgazdasági szempontból kiemelt jelentőségűvé minősített beruházással összefüggő építésügyi hatósági ügyben a beruházással érintett ingatlanon fennálló közös tulajdon esetén a többségi tulajdonos építtető építésügyi hatósági engedély iránti kérelmével összefüggésben a többi tulajdonostárs, illetve egyéb jogosult hozzájárulását az eljárásban megadottnak kell tekinteni, ha e tulajdonostársak a beruházás megvalósításához vagyoni hozzájárulásra nem kötelesek. A tulajdonostársat ezzel összefüggésben az őt ért kár tekintetében kártalanítás illeti meg, amelyet a polgári jog szabályai szerint követelhet, vagy a kisajátításról szóló törvény szerinti kártalanítás szabályai szerint megállapított vételárért kérheti tulajdoni hányadának az építtető általi megvételét.
+(2)
 
 ### A hatósági határozat bírósági felülvizsgálata
 
@@ -176,7 +137,7 @@ szakaszból áll.
 
 12. § (1) E törvény a kihirdetését követő negyvenötödik napon lép hatályba, rendelkezéseit – a (2) bekezdés kivételével – a hatálybalépését követően indult közigazgatási hatósági eljárásokban és ezen eljárásokban hozott határozatok bírósági felülvizsgálata során kell alkalmazni. A (2) bekezdést a folyamatban lévő ügyekben is alkalmazni kell.
 
-(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a tervezés elősegítése érdekében tény, állapot, egyéb adat helyszíni szemle alapján hatósági bizonyítvánnyal történő igazolásáért, valamint az összevont eljárásért igazgatási szolgáltatási díj mértékét, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére és megosztására vonatkozó szabályokat.
+(2)
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben a 6/B. § alapján kiemelt jelentőségű ügyben indult eljárásért igazgatási szolgáltatási díj fizetését írja elő, és meghatározza annak mértékét, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére és megosztására vonatkozó eljárási szabályokat.
 
@@ -187,87 +148,10 @@ szakaszból áll.
 - a) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek körét;
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
 - c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
-- d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését.
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
+- e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
+- f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 
-Az összevont építésügyi hatósági engedélykérelem tartalma
-
-Iktatószám: .....................
-
-Adatok:
-
-1. Az építési tevékenységgel érintett ingatlan címe, helyrajzi száma:
-
-2. Az építtető neve, címe:
-
-1.
-
-2.
-
-3.
-
-4.
-
-3. Az ingatlannal rendelkezni jogosultak neve, címe:
-
-1.
-
-2.
-
-3.
-
-4.
-
-4. A kérelem tárgya és annak rövid leírása:
-
-5. A kérelem tárgyával összefüggésben korábban keletkezett hatósági engedélyek (határozatok) megnevezése, száma, kelte:
-
-6. Mellékletek:
-
-építészeti-műszaki tervdokumentáció ..... pld.
-
-tervezői nyilatkozat ..... pld.
-
-egyéb okirat ..... pld.
-
-7. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. vagy 3. számú mellékletében meghatározott tevékenység vagy építmény esetén a Korm. rendelet alapján hozott minden döntés.
-
-8. Kérelem:
-
-Alulírott ….......................................................................................................... (név, cím) összevont építésügyi hatósági engedélyt kérek az 1. pontban megjelölt ingatlanon új építmény elhelyezésére, építésére, meglévő építmény átalakítására, bővítésére, felújítására, helyreállítására, korszerűsítésére, elmozdítására, lebontására, építési tevékenység végzésére.
-
-(A kívánt rész aláhúzandó!)
-
-Kelt ................................, ......... év .................... hó ..... nap
-
-......................................................
-
-aláírás (építtető, kérelmező)
-
-9. Építésügyi igazgatási szakértői nyilatkozat (ha az összevont építésügyi hatósági engedélyezési eljárás építési engedélyezési szakaszához szükséges mellékleteket és dokumentációt építésügyi igazgatási szakértő készíti elő)
-
-Alulírott ……………………………………………………………………… (építésügyi igazgatási szakértő neve, címe) nyilatkozom, hogy az építésügyi hatósági engedélykérelem és annak mellékletei megfelelnek az Étv.-ben és a külön jogszabályban előírtaknak, az Étv.-ben előírt építésügyi követelmények teljesültek, és a szakhatóságok állásfoglalása, valamint az építésügyi hatósági engedélyezéshez szükséges adatok és dokumentációk rendelkezésre állnak.
-
-Kelt ................................, ......... év .................... hó ..... nap
-
-.................................................................
-
-aláírás (építésügyi igazgatási szakértő)
-
-..................................................................
-
-építésügyi igazgatási szakértőjogosultsági száma
-
 ### 2. melléklet a 2006. évi LIII. törvényhez
-
-#### Elvi építési keretengedélyezési dokumentáció
-
-Több kérdés együttes tisztázására szolgáló elvi építési keretengedélyezési kérelem esetén a dokumentáció tartalmára vonatkozókat összesíteni kell. Nem szükséges statikus dokumentáció. Veszélyes építmény-üzem, veszélyes környezet esetén a veszélyek elhárítására is utaló műszaki leírás szükséges.
-
-- 1. A telek beépítésével kapcsolatos követelmények tisztázására szolgáló elvi építési keretengedélyezési dokumentációnak szükség szerint az alábbiakat kell tartalmaznia:
-  - a) a földhivatal által hitelesített ingatlan-nyilvántartási térkép másolatot,
-  - b) a tervező által készített helyszínrajzot ba) égtájjelöléssel, bb) 10 százaléknál nagyobb lejtésű terület esetében az 1 m szintkülönbséget ábrázoló rétegvonalakkal, bc) a tervezéssel érintett és a közvetlenül szomszédos – az ingatlannal közös határvonalú (telekhatárú) – telkek és az azokon – a tervezett építmény tűztávolságán belül elhelyezkedő – meglévő és tervezett valamennyi építmény méretarányos körvonalrajzával, bd) a tervezett beépítettségre jellemző mutatószámokkal (beépítési százalék, építménymagasság stb.), be) a tervezett építmény személy- és gépkocsiforgalmi be- és kijáratainak, valamint a gépkocsik telken belüli elhelyezésének jelölésével.
-- 2. A településképi és építészeti követelmények (építészeti megjelenítés környezetbe illeszkedése) tisztázására szolgáló elvi építési keretengedélyezési tervdokumentációt a tervezett építmény környezetbe illesztésének, megjelenésének (tömegformálásának, tetőkialakításának, homlokzatképzésének, színezésének) bemutatása érdekében a tervezett építmény jellegétől függően szükség szerint legalább 1:200 méretarányú, az építmény részét vagy egészét bemutató alaprajz(ok)ból, homlokzat(ok)ból, metszet(ek)ből, továbbá műszaki leírásokból és részletrajzokból, tömegvázlatból, fotómontázsból, makettfotóból vagy utcaképből kell összeállítani.
-- 3. A kulturális örökségvédelmi (műemléki, régészeti), természet-, táj- és környezetvédelmi, egészségvédelmi, talajvédelmi, valamint életvédelmi, tűzvédelmi követelményeket is érintő (szakhatósági követelmények tisztázása) elvi építési keretengedélyezési tervdokumentáció tartalmát az építésügyi hatóság által meghatározottakon túl az érintett szakhatóságok – építésügyi hatósági engedélyezési eljárást megelőző tervezői egyeztetés során – a felvetett szakkérdés tisztázásához szükséges mértéknek megfelelően határozzák meg.
-- 4. A műszaki követelményeket előzetesen tisztázó – az építményekkel kapcsolatos országos szakmai követelmények jogszabályban meghatározott előírásaitól eltérő műszaki megoldások alkalmazhatóságára irányuló – elvi építési keretengedélyezési tervdokumentációt az adott műszaki kérdés tisztázására elégséges részletezettségű tervrajzokból és műszaki leírásokból kell összeállítani.

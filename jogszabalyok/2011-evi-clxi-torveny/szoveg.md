@@ -71,7 +71,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 - a) a Kúria,
 - b) az ítélőtábla,
 - c) a törvényszék,
-- d) a járásbíróság és
+- d) a járásbíróság és a kerületi bíróság (a továbbiakban együtt: járásbíróság) és
 - e) a közigazgatási és munkaügyi bíróság.
 
 17. § (1) Bíróság létesítéséről, összevonásáról, megszüntetéséről, elnevezéséről, székhelyéről, illetékességi területének meghatározásáról, valamint a katonai tanácsokkal rendelkező bíróságok kijelöléséről – a (2) bekezdésben foglalt kivétellel – külön törvény rendelkezik.
@@ -181,7 +181,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 (2) Az ítélőtábla képviselője útján részt vesz az illetékességi területéhez tartozó törvényszék kollégiumi ülésén.
 
-(3) A közigazgatási és munkaügyi regionális kollégium kollégiumvezetője meghívottként részt vesz a közigazgatási és munkaügyi regionális kollégium illetékességi területéhez tartozó törvényszékek közigazgatási-munkaügyi kollégiumának ülésén.
+(3) A közigazgatási és munkaügyi regionális kollégium kollégiumvezetője meghívottként részt vesz a közigazgatási és munkaügyi regionális kollégium illetékességi területéhez tartozó törvényszékek közigazgatási-munkaügyi kollégiumának ülésén. Ha a közigazgatási-munkaügyi kollégium valamely más kollégiummal összevontan működik, a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője az összevont kollégium ülésén közigazgatási vagy munkaügyi tárgyú napirend esetén vesz részt meghívottként.
 
 #### 8. A bírósági joggyakorlat-elemző csoport
 
@@ -299,11 +299,15 @@ indítványozza.
 
 46. § Az önkormányzati tanács eljárására a polgári perrendtartásról szóló törvénynek kizárólag az eljárás nyelvére, az anyanyelv használatára, a rendeltetésszerű joggyakorlásra (a pénzbírság kiszabása nélkül), a bírák kizárására, az idézésre, a kézbesítésre, a határidők számítására, a jegyzőkönyvre, az iratok megtekintésére, a másolatokra, a határozathozatalra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-47. § A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárásban a fővárosi és megyei kormányhivatalt és a helyi önkormányzatot teljes költségmentesség illeti meg.
+47. § A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárásban a feleket teljes költségmentesség illeti meg, és a felek saját költségüket maguk viselik.
 
 48. § (1) Az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben a felette törvényességi felügyeleti jogot gyakorló fővárosi és megyei kormányhivatal a helyi önkormányzatokról szóló törvényben meghatározott követelményeknek megfelelő indítvánnyal és határidőn belül kezdeményezi.
 
-(2) Az önkormányzati tanács előtti eljárásban a jogi képviselet kötelező. Jogi képviselőnek kell tekinteni a helyi önkormányzat képviseletében eljáró ügyvédet vagy ügyvédi irodát, továbbá a fővárosi és megyei kormányhivatal jogi szakvizsgával rendelkező alkalmazottját és a helyi önkormányzat jogi szakvizsgával rendelkező jegyzőjét, valamint – jogi szakvizsgával rendelkező – alkalmazottját. Az ügyvéd vagy ügyvédi iroda részéről ügyvédjelölt nem járhat el jogi képviselőként.
+(1a) Az alapvető jogok biztosa az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben az alapvető jogok biztosáról szóló törvényben meghatározott követelményeknek megfelelő indítvánnyal kezdeményezi.
+
+(2) Az önkormányzati tanács előtti eljárásban a jogi képviselet – a (2a) bekezdésben meghatározott kivétellel – kötelező. Jogi képviselőnek kell tekinteni a helyi önkormányzat képviseletében eljáró ügyvédet vagy ügyvédi irodát, a fővárosi és megyei kormányhivatal jogi szakvizsgával rendelkező alkalmazottját, valamint a helyi önkormányzat jogi szakvizsgával rendelkező jegyzőjét és jogi szakvizsgával rendelkező alkalmazottját. Az ügyvéd vagy ügyvédi iroda részéről ügyvédjelölt nem járhat el jogi képviselőként.
+
+(2a) Az alapvető jogok biztosa személyesen vagy az Alapvető Jogok Biztosa Hivatalának jogi szakvizsgával rendelkező képviselője útján járhat el.
 
 (3) Ha a bírónak az előtte folyamatban lévő egyedi ügy elbírálása során önkormányzati rendelet olyan rendelkezését kell alkalmaznia, amelynek más jogszabályba ütközését észleli – a bírósági eljárás felfüggesztése mellett – kezdeményezi az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben.
 
@@ -314,7 +318,7 @@ indítványozza.
 - c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet rendelkezése sért,
 - d) annak okát, hogy a bíró az adott rendelkezést miért tartja jogszabálysértőnek.
 
-(5) Az önkormányzati tanács együttes elbírálás céljából elrendeli az előtte folyamatban lévő eljárások egyesítését, ha az indítványok tárgya egymással összefügg.
+(5) Az önkormányzati tanács együttes elbírálás céljából elrendeli az előtte folyamatban lévő eljárások egyesítését, ha az indítványok tárgya egymással összefügg. Ha az ügy eldöntése érdekében célszerű, az önkormányzati tanács elrendelheti, hogy egyes vitás kérdések elkülönítve kerüljenek elbírálásra.
 
 49. § Az önkormányzati tanács az indítvány érdemében határozattal, az eljárás során felmerült minden más kérdésben – ideértve az eljárás megszüntetését is – végzéssel dönt. A határozattal és a végzéssel szemben jogorvoslatnak helye nincs.
 
@@ -334,10 +338,10 @@ indítványozza.
 
 51. § (1) Az önkormányzati tanács az indítvány beérkezésétől számított 15 napon belül érdemi vizsgálat nélkül elutasítja az indítványt, ha
 
-- a) azt nem az arra jogosult fővárosi és megyei kormányhivatal vagy az egyedi ügyben eljáró bíró nyújtja be,
+- a) azt nem az alapvető jogok biztosa, az arra jogosult fővárosi és megyei kormányhivatal vagy az egyedi ügyben eljáró bíró nyújtja be,
 - b) azt a fővárosi és megyei kormányhivatal a helyi önkormányzatokról szóló törvényben előírt határidőn túl nyújtja be,
-- c) azt a fővárosi és megyei kormányhivatal nem a helyi önkormányzatokról szóló törvényben foglaltaknak, vagy az egyedi ügyben eljáró bíró nem az e törvényben foglaltaknak megfelelő tartalommal nyújtja be, vagy
-- d) az önkormányzati rendeletnek az indítvánnyal támadott rendelkezése hatályát vesztette.
+- c) azt a fővárosi és megyei kormányhivatal nem a helyi önkormányzatokról szóló törvényben foglaltaknak, az alapvető jogok biztosa nem az alapvető jogok biztosáról szóló törvényben foglaltaknak, vagy az egyedi ügyben eljáró bíró nem az e törvényben foglaltaknak megfelelő tartalommal nyújtja be, vagy
+- d) a fővárosi és megyei kormányhivatal vagy az alapvető jogok biztosa kezdeményezése esetén az önkormányzati rendeletnek az indítvánnyal támadott rendelkezése hatályát vesztette.
 
 (2) Az önkormányzati tanács az eljárást megszünteti, ha
 
@@ -354,13 +358,21 @@ indítványozza.
 
 (3) Az indítvány elbírálása szempontjából megfelelő szakértelemmel rendelkező megidézett személyek tekintetében a polgári perrendtartásról szóló törvény tanúk díjazására vonatkozó szabályait megfelelően alkalmazni kell.
 
-54. § Az önkormányzati tanács az indítvány beérkezésétől számított 90 napon belül szótöbbséggel hozza meg határozatát. Személyes meghallgatás esetén az eljárás lefolytatására nyitva álló határidő 30 nappal meghosszabbodik.
+(4) Az önkormányzati tanács nyilatkozattételre hívhatja fel, iratok megküldése és vélemény kérése iránt keresheti meg azt az állami vagy önkormányzati szervet, amelynek megkeresése az indítvány elbírálásához szükséges.
+
+54. § (1) Az önkormányzati tanács az indítvány beérkezésétől számított 90 napon belül szótöbbséggel hozza meg határozatát.
+
+(2) Az eljárás lefolytatására nyitva álló határidő 30 nappal meghosszabbodik
+
+- a) személyes meghallgatás esetén,
+- b) ha az ügy körülményeiben bekövetkezett változás folytán ismételten szükségessé válik az önkormányzat állásfoglalásának beszerzése, vagy
+- c) ha az 53. § (4) bekezdése alapján állami vagy önkormányzati szerv megkeresése szükséges.
 
 55. § (1) Az önkormányzati tanács az indítványhoz kötve van, de az önkormányzati rendeletnek az indítványban megjelölt rendelkezésével szoros összefüggésben álló más rendelkezését is vizsgálhatja.
 
 (2) Ha az önkormányzati tanács megállapítja, hogy az önkormányzati rendelet vagy annak valamely rendelkezése más jogszabályba ütközik,
 
-- a) az önkormányzati rendeletet vagy annak rendelkezését megsemmisíti, vagy kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba,
+- a) az önkormányzati rendeletet vagy annak rendelkezését megsemmisíti, megállapítja a hatályon kívül helyezett önkormányzati rendelet vagy annak rendelkezése más jogszabályba ütközését, vagy kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba,
 - b) elrendeli a határozat Magyar Közlönyben való közzétételét, és
 - c) határidő tűzésével elrendeli, hogy a határozat közzétételére – a Magyar Közlönyben való közzétételt követően – az önkormányzati rendelet kihirdetésével azonos módon kerüljön sor.
 
@@ -376,7 +388,7 @@ indítványozza.
 
 (4) A megsemmisítés – az (5) bekezdésben meghatározott kivétellel – nem érinti a hatályvesztést megelőzően létrejött jogviszonyokat, valamint a belőlük származó jogokat és kötelezettségeket.
 
-(5) Ha az önkormányzati tanács bírói kezdeményezés alapján semmisíti meg az önkormányzati rendeletnek a bíróság előtt folyamatban lévő ügyben alkalmazandó rendelkezését, az önkormányzati rendelet megsemmisített rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben.
+(5) Ha az önkormányzati rendeletnek a bíróság előtt folyamatban lévő ügyben alkalmazandó rendelkezésének megsemmisítésére, illetve más jogszabályba ütközésének megállapítására bírói kezdeményezés alapján kerül sor, az önkormányzati rendelet megsemmisített, illetve más jogszabályba ütközőnek ítélt rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben.
 
 #### 16. A helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti nemperes eljárás
 
@@ -995,9 +1007,11 @@ indítványozza.
 
 (2) A kollégiumvezető-helyettes a kollégiumvezetőt akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – helyettesíti, és ellátja a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
 
-(3) Kollégiumvezető-helyettes – a (4) bekezdésben foglalt kivétellel – az OBH elnöke által kijelölt bíróságon, továbbá az OBH elnöke által kijelölt közigazgatási és munkaügyi regionális kollégiumban működik.
+(3) Kollégiumvezető-helyettes – a (4) bekezdésben foglalt kivétellel – az OBH elnöke által kijelölt bíróságon, továbbá a közigazgatási és munkaügyi regionális kollégiumban működik. A közigazgatási és munkaügyi regionális kollégium kollégiumvezetője és kollégiumvezető-helyettese nem lehet azonos ügyszakban ítélkező bíró.
 
 (4) A Kúrián a Kúria elnöke által meghatározott kollégiumban működik kollégiumvezető-helyettes.
+
+(5) A közigazgatási és munkaügyi bíróság elnöke, elnökhelyettese, csoportvezetője, csoportvezető-helyettese a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője vagy kollégiumvezető-helyettese is lehet.
 
 #### 37. Csoportvezető és csoportvezető-helyettes
 
@@ -1218,7 +1232,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (3) Az ítélőtábla kollégiumának tagjai az ítélőtábla adott ügyszakban működő bírái, valamint általuk az ítélőtábla illetékességi területéhez tartozó törvényszékek adott ügyszakban működő kollégiumainak a bírái közül 6 évre választott bírák, továbbá az ítélőtábla illetékességi területéhez tartozó törvényszékek azonos ügyszakban működő kollégiumainak vezetői.
 
-(4) A törvényszéken a kollégium tagjai a törvényszék bírái, továbbá általuk a törvényszék területén működő járásbíróságok, illetve közigazgatási és munkaügyi bíróság bírái közül a 6 évre választott bírák.
+(4) A törvényszéken a kollégium tagjai a törvényszék bírái, továbbá általuk a törvényszék területén működő járásbíróságok, illetve – a 20. § (3) bekezdésében foglalt kivétellel – közigazgatási és munkaügyi bíróság bírái közül a 6 évre választott bírák. A választott bíró tagokat az adott kollégium törvényszéki bíró tagjai a kollégium szakágának, illetve szakágainak megfelelő ügyszakban működő bírák közül választják.
 
 155. § A kollégium
 
@@ -1495,6 +1509,8 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 196. § (1) Az Alkotmánybíróságra a fővárosi és megyei kormányhivatal által 2011. december 31-éig benyújtott indítványok elbírálása során a Kúrián működő önkormányzati tanács az Alkotmánybíróság által áttett indítvány beérkezését követő 30 napon belül határidő tűzésével felhívja a fővárosi és megyei kormányhivatalt az indítványnak a helyi önkormányzatokról szóló törvényben meghatározattak szerinti kiegészítésére. Az indítvány elbírálására megállapított határidőt a kiegészítés beérkezésének napjától kell számítani.
 
 (2) Az Alkotmánybíróságra a bíró által 2011. december 31-éig benyújtott indítványok elbírálása során a Kúrián működő önkormányzati tanács az Alkotmánybíróság által áttett indítvány beérkezését követő 30 napon belül határidő tűzésével felhívja a bírót az indítványnak az e törvényben meghatározattak szerinti kiegészítésére. Az indítvány elbírálására megállapított határidőt a kiegészítés beérkezésének napjától kell számítani.
+
+196/A. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 47. §-át, 48. § (5) bekezdését, 51. § (1) bekezdését, 53. § (4) bekezdését, 54. §-át, 55. § (2) bekezdés a) pontját, valamint 56. § (5) bekezdését a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 197. § A bírósági vezetői tisztség újbóli betölthetőségét korlátozó rendelkezések alkalmazása során a helyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a járásbírósági elnöki, elnökhelyettesi megbízatással, a közigazgatási és munkaügyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a munkaügyi bírósági elnöki, elnökhelyettesi megbízatással, a megyei elnöki, elnökhelyettesi megbízatás azonosnak minősül a törvényszéki elnöki, elnökhelyettesi megbízatással.
 

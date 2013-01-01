@@ -181,26 +181,21 @@ a következő törvényt alkotja:
 10/A. § (1) A radioaktív hulladék tárolójának, valamint a kiégett üzemanyag átmeneti és végleges tárolójának (a továbbiakban: tároló) engedélyese a 4. § (4) bekezdésében és a 10. § (2) bekezdésében foglaltakról, továbbá a 40. § szerinti feladatok elvégzéséről
 
 - a) a tárolónak helyt adó település vagy települések, és az azzal területileg határos települések lakosságát; valamint
-- b) a tároló létesítését szolgáló engedélyezett telephely-kiválasztási helyszíni kutatófúrások által érintett települések lakosságát
+- b) a tároló létesítését szolgáló engedélyezett telephely-kiválasztási helyszíni kutatófúrások által érintett települések lakosságát a törvényben előírt tájékoztatási kötelezettségének ott meghatározott módon történő ellátása mellett az ellenőrzési és információs célú önkormányzati társulások (a továbbiakban: társulás) útján is rendszeresen tájékoztathatja.
 
-a törvényben előírt tájékoztatási kötelezettségének ott meghatározott módon történő ellátása mellett az ellenőrzési és információs célú önkormányzati társulások (a továbbiakban: társulás) útján is rendszeresen tájékoztathatja.
+(2) A társulásoknak a tárolóhoz vagy a tervezett tárolóhoz kötötten a Központi Nukleáris Pénzügyi Alapból támogatás adható. Támogatás tárolónként, vagy tervezett tárolónként csak egy ellenőrzési és információs célú önkormányzati társulásnak adható. A támogatás tájékoztatási, ellenőrzési, működési és településfejlesztési célokra használható fel.
 
-(2) A társulás törvényben meghatározott egyéb feltételek mellett akkor jön létre ha:
+(3) A társulás a helyi önkormányzatokról szóló törvényben meghatározott szabályok szerint jön létre. A (2) bekezdés szerinti támogatás a társulásnak csak akkor adható, ha:
 
-- a) az (1) bekezdés a) pontja esetében az ott meghatározott összes település legalább felének és ezek között a tárolónak helyt adó település vagy települések képviselőtestülete a társulási megállapodást jóváhagyja, vagy
-- b) az (1) bekezdés b) pontja esetében az ott meghatározott települések legalább felének képviselő testülete a társulási megállapodást jóváhagyja.
+- a) az (1) bekezdés a) pontja esetében az ott meghatározott összes település legalább felének és ezek között a tárolónak helyt adó település vagy települések képviselőtestülete a társulási megállapodást jóváhagyja,
+- b) az (1) bekezdés b) pontja esetében az ott meghatározott települések legalább felének képviselőtestülete a társulási megállapodást jóváhagyja, és
+- c) a társulás a tag helyi önkormányzatok önként vállalt tájékoztatási és ellenőrzési feladatainak ellátását szolgálja.
 
-(3) A (2) bekezdésben meghatározottakon túl a társulás létrejöttének feltétele, hogy megalakulását követően a Magyar Államkincstár nyilvántartásba vegye.
+(4) Ha a tároló létesítését szolgáló engedélyezett telephely-kiválasztási helyszíni kutatófúrások időközben – az elvégzett kutatások eredményeként – a már létrejött társulás tagjai mellett újabb települések területére is kiterjednek, az engedélyes e települések polgármestereit tájékoztatja erről, valamint arról, hogy csatlakozhatnak a társuláshoz.
 
-(4) Ha a tároló létesítését szolgáló engedélyezett telephely-kiválasztási helyszíni kutatófúrások időközben – az elvégzett kutatások eredményeként – a már létrejött társulás tagjai mellett újabb települések területére is kiterjednek, az engedélyes e települések polgármestereit tájékoztatja erről, valamint arról, hogy a (6) bekezdés értelmében csatlakozhatnak a társuláshoz.
+(5) A telephely-kiválasztási kutatásokat szolgáló felszín alatti kutatólaboratórium létesítésének megkezdésekor a társulás csak akkor részesülhet támogatásban, ha az (1) bekezdés a) pontjában, valamint a (3) bekezdés a) és c) pontjában meghatározott feltételeknek megfelel.
 
-(5) A telephely-kiválasztási kutatásokat szolgáló felszín alatti kutatólaboratórium létesítésének megkezdésekor a társulás megszűnik és az (1) bekezdés a) pontjában, valamint a (2) bekezdés a) pontjában meghatározott szabályok szerint új társulás alakul.
-
-(6) A társuláshoz csatlakozni – az (1) bekezdésben meghatározott körben – bármikor, abból kiválni a naptári év utolsó napjával lehet. A csatlakozni kívánó település csatlakozásáról a tagok a társulási megállapodás szabályai szerint határoznak.
-
-(7) A társulás jogi személy. Gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
-
-(8) A társulásoknak a tárolóhoz vagy a tervezett tárolóhoz kötötten a Központi Nukleáris Pénzügyi Alapból támogatás adható. Támogatás tárolónként, vagy tervezett tárolónként csak egy ellenőrzési és információs célú önkormányzati társulásnak adható. A támogatás tájékoztatási, ellenőrzési, működési és településfejlesztési célokra használható fel.
+(6) A támogatás esedékes részösszegének lehívását a társulásoknak nyújtott támogatásokról szóló jogszabályban meghatározott feltételek teljesülése esetén a tároló engedélyese kezdeményezi. A lehívás alapján a Központi Nukleáris Pénzügyi Alap kezelője a támogatás részösszegét közvetlenül a társulásnak utalja át.
 
 11. § (1) Az atomenergia alkalmazása körében csak olyan személy foglalkoztatható, aki rendelkezik jogszabályban meghatározott iskolai végzettséggel, szakképesítéssel, és kielégíti a foglalkoztatás jogszabályban előírt feltételeit, továbbá megfelel az előírt egészségügyi követelményeknek.
 
@@ -751,7 +746,7 @@ kezeli.
 
 ### VI. Fejezet — A Központi Nukleáris Pénzügyi Alap
 
-62. § (1) A Központi Nukleáris Pénzügyi Alap a radioaktív hulladékok végleges elhelyezésének, a kiégett üzemanyagok átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmények leszerelésének finanszírozását biztosító, az államháztartásról szóló törvény szerint elkülönített állami pénzalap. A Központi Nukleáris Pénzügyi Alap terhére kizárólag a 10/A. § (8) bekezdésében és a jelen bekezdésben meghatározott célokra lehet kifizetést teljesíteni.
+62. § (1) A Központi Nukleáris Pénzügyi Alap a radioaktív hulladékok végleges elhelyezésének, a kiégett üzemanyagok átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmények leszerelésének finanszírozását biztosító, az államháztartásról szóló törvény szerint elkülönített állami pénzalap. A Központi Nukleáris Pénzügyi Alap terhére kizárólag a 10/A. § (2) bekezdésében és a jelen bekezdésben meghatározott célokra lehet kifizetést teljesíteni.
 
 (2) A Központi Nukleáris Pénzügyi Alap kezelője az atomenergia-felügyeleti szerv, amelynek az Alap kezelésével kapcsolatos feladatokat ellátó szervezeti egysége elkülönül a hatósági tevékenységet végző szervezeti egységeitől.
 
@@ -773,7 +768,7 @@ kezeli.
 
 (4) A Központi Nukleáris Pénzügyi Alap pénzeszközeit a kincstári egységes számlán elkülönítetten kell nyilvántartani.
 
-(5) A Központi Nukleáris Pénzügyi Alap kezelője a felhalmozott vagyont a 40. §-ban megjelölt szerv útján, kizárólag a 62. § (1) bekezdésben megjelölt célokra fordíthatja.
+(5) A Központi Nukleáris Pénzügyi Alap kezelője a felhalmozott vagyont a 10/A. § (6) bekezdésében foglalt kivétellel a 40. § (1) bekezdése szerint kijelölt szerv útján, kizárólag a 62. § (1) bekezdésben megjelölt célokra fordíthatja.
 
 ### VII. Fejezet — Záró rendelkezések
 
@@ -799,7 +794,7 @@ kezeli.
 
 (3) Azon foglalkoztatottak esetében, akik munkaköre az Atvmtv. az e törvény 11. § (3) bekezdését módosító rendelkezésének hatálybalépését megelőzően is a 11. § (3) bekezdés hatálya alá tartozott, a Btk. 221–222. §, 259. § (5) bekezdés, 264/A. §, 264/B. §, 265. §, 270. §, 270/A. §, 280. § (1) és (2) bekezdés, 281. § (1)–(3) bekezdés, 281/A. § (2) bekezdés és a 303. § szerinti bűncselekmények esetében csak a hatálybalépést követő elkövetést, vagy emiatt indult büntetőeljárást lehet figyelembe venni.
 
-(4) A már létező ellenőrzési és információs célú önkormányzati társulások legkésőbb az Atvmtv. hatálybalépését követő harmadik hónap végéig felülvizsgálják, és e törvény 10/A. §-ában előírtak szerint módosítják társulási megállapodásukat. A módosítás a társulásban már résztvevő tagok tagságát nem érinti. Ha az előírt határidőre a társulásban a módosítást nem hajtották végre, akkor a társulás számára támogatás nem nyújtható.
+(4)
 
 66/B. § A 14. § (4b) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény módosításáról szóló 2012. évi CCI. törvény 2. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
@@ -828,7 +823,7 @@ kezeli.
 - l) a nukleáris exportnak és importnak a nemzetközi ellenőrzési rendszerekkel összhangban lévő szabályait;
 - m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenőrzésére vonatkozó szabályokat, valamint az ellenőrzési eredmények központi adatgyűjtésének, feldolgozásának, nyilvántartásának és értékelésének rendjét;
 - n) a speciális érvényesítési eljárások rendjét.
-- o) a 10/A. § alapján létrejött ellenőrzési és információs célú önkormányzati társulások és tagjaik Központi Nukleáris Pénzügyi Alapból származó támogatásainak mértékét, felhasználásának ellenőrzését és az elszámolás rendjét, figyelemmel a 62. § (1) bekezdésében foglaltakra;
+- o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára és a folyósítására, a támogatási szerződés megkötésére, a támogatás felhasználásának ellenőrzésére és az elszámolás rendjére vonatkozó szabályokat;
 - p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
 - q) a nukleáris védettséggel összefüggésben a fenyegetettséggel kapcsolatos naprakész elemzéseket elvégző és a tervezési alapfenyegetettséget meghatározó testület kijelölését, tevékenységét, szervezetét és működését;
 - r) az atomenergia alkalmazása körében a fizikai védelmi rendszerrel kapcsolatos követelményeket és a vonatkozó hatósági rendszert és eljárásokat;

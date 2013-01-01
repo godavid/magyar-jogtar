@@ -10,7 +10,7 @@ Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpá
 
 2. § (1) E törvény szabályozza a felnőttképzési, illetve a felnőttképzéshez kapcsolódó szolgáltatási és igazgatási tevékenységet, valamint a felnőttképzés intézmény- és támogatási rendszerét.
 
-(2) A felnőttképzés e törvényben nem szabályozott kérdéseiben a szakképzésről szóló 1993. évi LXXVI. törvény (a továbbiakban: Sztv.), a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Ktv.), valamint a felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.), valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény (a továbbiakban: Szht.) rendelkezéseit kell megfelelően alkalmazni.
+(2) A felnőttképzés e törvényben nem szabályozott kérdéseiben a szakképzésről szóló törvény (a továbbiakban: Sztv.), a nemzeti köznevelésről szóló törvény (a továbbiakban: Nktv.), a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.), valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény (a továbbiakban: Szht.) rendelkezéseit kell megfelelően alkalmazni.
 
 3. § (1) A törvény hatálya – a (4) bekezdésben foglalt kivételekkel – kiterjed
 
@@ -26,7 +26,10 @@ Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpá
 
 (4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
-(5) E törvény hatálya nem terjed ki az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdés a)–c) pontjai szerinti egészségügyi ágazati képzésekre.
+(5) E törvény hatálya nem terjed ki:
+
+- a) az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdésének a)–c) pontja szerinti egészségügyi ágazati képzésekre, valamint
+- b) a közszolgálati tisztviselőkről szóló törvény alapján szervezett képzésre, továbbképzésre, átképzésre.
 
 3/A. §
 
@@ -116,12 +119,11 @@ szabályait.
 - b) felnőttképzési tevékenysége megfelel-e a jogszabályi feltételeknek, így különösen, hogy
   - ba) rendelkezik-e képzési programmal, az OKJ-ban szereplő szakképesítések megszerzésére felkészítő képzés esetén a vonatkozó szakmai és vizsgakövetelményeknek megfelelő tárgyi, személyi feltételekkel, képzési programmal, és képzéseit ennek megfelelően folytatja-e,
   - bb) rendelkezik-e a képzések – képzési programnak megfelelő – lebonyolításához szükséges személyi és tárgyi feltételekkel,
-  - bc) megkötötte-e a képzésben résztvevőkkel az e törvénynek megfelelő tartalmú felnőttképzési, illetve a 20. § (4) bekezdés szerinti szerződést, és személyi adataik kezelése megfelel-e a 28. §-ban foglaltaknak,
-  - bd) vezeti-e megfelelően a képzés megvalósításával összefüggő, a 10/A. §-ban előírt dokumentumokat,
-  - be) biztosítja-e az intézmény felnőttképzési tevékenységére vonatkozó tájékoztatókhoz, valamint a képzési programhoz való hozzáférést, továbbá nyilvántartási számának a 9. § (2) bekezdésében meghatározott dokumentumokon történő megjelenítését,
-  - bf) biztosítja-e – a 17. § (2) bekezdés alapján – az előzetesen megszerzett tudás mérését, értékelését, és ennek eredményét figyelembe veszi-e a képzés tartalmának, illetve folyamatának egyénre szabott alakításában,
-  - bg)
-  - bh) OKJ-s képzések esetén a gyakorlati foglalkozást a szakmai és vizsgakövetelményekben, valamint a külön jogszabályban meghatározott feltételek szerint folytatja-e.
+  - bc) megkötötte-e a képzésben résztvevőkkel az e törvénynek megfelelő tartalmú felnőttképzési, illetve a 20. § (4) bekezdése szerinti szerződést, és személyi adataik kezelése megfelel-e a 28. §-ban foglaltaknak,
+  - bd) szabályszerűen vezeti-e a képzés megvalósításával összefüggő, a 10/A. §-ban előírt dokumentumokat,
+  - be) biztosítja-e az intézmény felnőttképzési tevékenységére vonatkozó tájékoztatókhoz, valamint a képzési programhoz való hozzáférést, továbbá nyilvántartási számának a 9. § (2) bekezdésében meghatározott dokumentumokon történő megjelenítését, valamint a tájékoztatók tartalma összhangban áll-e a kínált képzéseken való részvételhez előírt feltételekkel, az akkreditációban foglaltaknak megfelelően a képzési tartalommal, követelményekkel, a megszerezhető képesítésekkel,
+  - bf) biztosítja-e a – 17. § (2) bekezdése alapján – az előzetesen megszerzett tudás mérését, értékelését, és ennek eredményét figyelembe veszi-e a képzés tartalmának és folyamatának egyénre szabott alakításában,
+  - bg) OKJ-s képzések esetén a gyakorlati foglalkozást a szakmai és vizsgakövetelményekben, valamint a külön jogszabályban meghatározott feltételek szerint folytatja-e.
 
 (2) Amennyiben az állami foglalkoztatási szerv az ellenőrzése során azt állapítja meg, hogy a felnőttképzést folytató intézmény a bejelentési kötelezettségét elmulasztotta, felszólítja a bejelentés megtételére, és a felszólítással egyidejűleg a kötelező legkisebb munkabér havi összege ötszörösének megfelelő összegű bírságot szab ki. Amennyiben az állami foglalkoztatási szerv az ellenőrzése során azt állapítja meg, hogy a felnőttképzési intézmény a bejelentési kötelezettségének ismételten nem tett eleget, az e bekezdésben meghatározott összegű minimálbér tízszeresének megfelelő összegű bírságot szab ki.
 
@@ -129,14 +131,16 @@ szabályait.
 
 (4) A tevékenységfolytatási tilalmat kimondó határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
-(5) Ha a felnőttképzést folytató intézmény a tevékenységét nem a jogszabálynak megfelelően látja el, vagy a felnőttképzési tevékenységét az állami foglalkoztatási szerv tiltó határozata ellenére folytatja, vele szemben az állami foglalkoztatási szerv – szükség esetén a 4. § (5) bekezdése szerinti felnőttképzési szakértői nyilvántartásban szereplő szakértő véleményének a beszerzését követően – a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szabhat ki, figyelemmel a (6) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekre. Amennyiben a felnőttképzési intézmény a feltárt jogszabálysértést az állami foglalkoztatási szerv határozata alapján nem szünteti meg, vagy a felnőttképzési tevékenységet jogellenesen tovább folytatja, illetve ismételten jogszabálysértést követ el, az állami foglalkoztatási szerv egy évre, a (6) bekezdésben foglalt súlyosabban minősülő jogszabálysértés esetén két évre megtiltja a felnőttképzési tevékenység folytatását, és az erre vonatkozó határozatát a (4) bekezdés szerint közzéteszi.
+(5) Ha a felnőttképzést folytató intézmény a tevékenységét nem a jogszabálynak megfelelően látja el, vagy a felnőttképzési tevékenységét az állami foglalkoztatási szerv tiltó határozata ellenére folytatja, vele szemben az állami foglalkoztatási szerv – szükség esetén a 4. § (5) bekezdése szerinti felnőttképzési szakértői nyilvántartásban szereplő szakértő véleményének a beszerzését követően – a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szabhat ki, figyelemmel a (6) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekre. Ha a felnőttképzést folytató intézmény bírságolására azért került sor, mert tevékenységét a tiltó határozat ellenére tovább folytatja, az állami foglalkoztatási szerv bírságot megállapító határozata jogerőre emelkedését követő harminc napon belül az intézmény köteles a jogellenes tevékenység időszaka alatt beszedett képzési díjnak, valamint a képzés kapcsán felmerült igazolt költségnek a díjat és költséget megfizető részére történő visszafizetésére. Ha a felnőttképzést folytató intézmény a feltárt jogszabálysértést az állami foglalkoztatási szerv határozata alapján nem szünteti meg, vagy a felnőttképzési tevékenységet jogellenesen tovább folytatja, vagy ismételten jogszabálysértést követ el, az állami foglalkoztatási szerv egy évre, a (6) bekezdésben foglalt súlyosabban minősülő jogszabálysértés esetén két évre eltiltja a felnőttképzési tevékenység folytatásától, és az erre vonatkozó határozatát a (4) bekezdés szerint közzéteszi.
 
 (6) A felnőttképzési intézmény jogszabálysértő tevékenysége súlyosabban minősül, ha az intézmény:
 
-- a) nem köti meg a 20. § (2) bekezdésében meghatározott tartalmú felnőttképzési szerződést,
+- a) nem, vagy nem e törvény rendelkezései szerint köti meg a 20. § (2) bekezdésében meghatározott tartalmú felnőttképzési szerződést,
 - b) nem rendelkezik a 16. § (2) bekezdésében meghatározott tartalmú képzési programmal,
 - c) a felnőttképzési tevékenységét nem a képzési programnak megfelelően folytatja, attól a képzésben részt vevő hozzájárulása nélkül jelentősen eltér,
-- d) a 9. § (2) bekezdésében foglalt kötelezettségeinek nyolc napon belül nem tesz eleget.
+- d) a 9. § (2) bekezdésében foglalt kötelezettségeinek nyolc napon belül nem tesz eleget,
+- e) a képzés befejezését követő kilencven napon belül nem gondoskodik a képzés záróvizsgájának megvalósításáról,
+- f) a képzés vagy a képzést lezáró vizsga sikeres befejezését követően és a képzés díjának teljes körű megfizetése ellenére hatvan napot meghaladó késedelemmel adja ki a képzés elvégzését vagy a vizsga sikeres befejezését igazoló dokumentumot.
 
 (7) Az állami foglalkoztatási szerv a jogszabályban meghatározott esetekben a felnőttképzést folytató intézményt a nyilvántartásból törli.
 
@@ -163,7 +167,7 @@ szabályait.
 
 (2) A Felnőttképzési Akkreditáló Testület (a továbbiakban: FAT) akkreditációs eljárás lefolytatása alapján kiadja az akkreditációs tanúsítványt.
 
-(3) Az akkreditációs eljárás alapfeltétele, hogy a felnőttképzést folytató intézmény legalább egy, általa már megvalósított akkreditált képzési programmal rendelkezzen, továbbá, hogy a képzés mellett felnőttképzési tevékenységhez kapcsolódó szolgáltatást is nyújtson.
+(3) Az akkreditációs eljárás alapfeltétele, hogy a felnőttképzést folytató intézmény legalább egy, általa már megvalósított akkreditált képzési programmal rendelkezzen, továbbá hogy a képzés mellett felnőttképzési tevékenységhez kapcsolódó szolgáltatást is nyújtson. Nem kaphat intézményakkreditációt az a felnőttképzést folytató intézmény, amelynek vezető tisztségviselője az intézményakkreditációs kérelem benyújtását megelőző két éven belül olyan felnőttképzési tevékenységet folytató intézmény vezető tisztségviselője volt, amelynek akkreditációját a FAT jogerős határozatával visszavonta.
 
 (4) A felnőttképzést folytató intézményakkreditációja négy év elteltével hatályát veszti.
 
@@ -183,11 +187,50 @@ szabályait.
 
 (2) Az (1) bekezdésben meghatározott rendelkezéseket az adatváltozásnak a programakkreditációs tanúsítványon történő átvezetésére is alkalmazni kell.
 
+12/B. § (1) Az akkreditált felnőttképzést folytató intézmény a támogatott képzéseiről az állami szakképzési és felnőttképzési szervnek kizárólag elektronikus úton
+
+- a) a felnőttképzést folytató intézmény megnevezésére, székhelyére, a felnőttképzést folytató intézmények nyilvántartásában szereplő nyilvántartási számára, intézményakkreditációs lajstromszámára,
+- b) a képzés megnevezésére,
+- c) a képzési csoport
+  - ca) képzésének első képzési napjára,
+  - cb) haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére,
+  - cc) képzése befejezésének tervezett időpontjára,
+  - cd) résztvevőinek a támogatott és a nem támogatott személyek szerinti bontásban meghatározott számára,
+- d) a képzés elvégzésével megszerezhető dokumentum megjelölésére,
+- e) akkreditált képzési program esetén az akkreditációs lajstromszám feltüntetésére, akkreditált program hiányában e tény megjelölésére
+
+vonatkozó adatokat szolgáltatja.
+
+(2) A felnőttképzést folytató intézménynek adatszolgáltatási kötelezettsége áll fenn az (1) bekezdés c) pontja szerinti adataiban bekövetkezett változások esetén is.
+
+(3) A felnőttképzést folytató intézmény
+
+- a) az (1) bekezdés szerinti adatszolgáltatási kötelezettségének legkésőbb a képzés első képzési napját megelőző harmadik napig,
+- b) a (2) bekezdésben foglalt adatszolgáltatási kötelezettségének
+  - ba) az (1) bekezdés ca) és cd) pontja szerinti adatokban bekövetkezett változások esetén az adatváltozás keletkezésével egyidejűleg, de legkésőbb az adatváltozás keletkezésének napján,
+  - bb) az (1) bekezdés cb) és cc) pontja szerinti adatokban bekövetkezett változások esetén az (1) bekezdés szerinti adatszolgáltatásban szereplő időpont bekövetkezéséig
+
+köteles eleget tenni.
+
+(4) Az állami szakképzési és felnőttképzési szerv az (1)–(2) bekezdés szerint szolgáltatott adatokról – a FAT 13. § szerinti, az akkreditált felnőttképzést folytató intézményekkel kapcsolatos ellenőrzési jogkörének gyakorlása céljából – elektronikus nyilvántartást vezet, és a nyilvántartás adatait azok keletkezésétől számított öt évig kezeli.
+
+(5) Az állami szakképzési és felnőttképzési szerv – a (3) bekezdésben foglalt cél megvalósulása érdekében – folyamatos hozzáférést biztosít a FAT számára a nyilvántartás adataihoz.
+
 ### A Felnőttképzési Akkreditáló Testület
 
 13. § (1) A FAT a felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációja iránti kérelemről közigazgatási hatósági eljárás keretében két hónapon belül dönt. A FAT döntése ellen a miniszterhez lehet fellebbezést benyújtani.
 
 (2) A FAT ellenőrzi az akkreditált felnőttképzést folytató intézmények felnőttképzési tevékenységét, és az ellenőrzés eredményéhez képest dönt az intézményi, illetve a program akkreditációjának visszavonásáról. Az akkreditáció visszavonása esetén – az erre okot adó körülmény feltárásától számított – egy évig a felnőttképzési intézmény intézményakkreditáció iránti, valamint ugyanazon tartalommal és megnevezéssel programakkreditáció iránti kérelmet nem nyújthat be.
+
+(2a) A FAT ellenőrzi, hogy az akkreditált felnőttképzést folytató intézmény a 12/B. §-ban foglalt adatszolgáltatási kötelezettségét teljesíti-e, képzéseit az e § szerint szolgáltatott adatokban foglaltaknak megfelelően folytatja-e, valamint, hogy a képzés az ellenőrzés lefolytatásának időpontjában időarányosan megvalósul-e.
+
+(2b) Ha az akkreditált felnőttképzést folytató intézmény a 12/B. §-ban foglalt adatszolgáltatási kötelezettségét nem teljesíti, a képzést nem valósítja meg, vagy a képzés megvalósítása a 12/B. § (1) bekezdés cb) pontjában jelzett óraszám szerinti ütemezéshez képest húsz százaléknál nagyobb mértékű elmaradást mutat, a FAT vele szemben a kötelező legkisebb munkabér havi összege nyolcszorosának megfelelő összegű bírságot szab ki. A FAT által kiszabott bírságot postai készpénz-átutalási megbízással vagy banki átutalással kell megfizetni az állami szakképzési és felnőttképzési szerv Magyar Államkincstárnál vezetett számlájára.
+
+(2c) Ha az akkreditált felnőttképzést folytató intézmény a (2b) bekezdés szerinti jogszabálysértést a FAT bírságot megállapító határozata ellenére ismételten elköveti, a FAT az intézmény akkreditációját visszavonja.
+
+(2d) A FAT a támogatott képzések ellenőrzése során a támogatással összefüggésben tapasztalt jogszabálysértésről, szabálytalanságról – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésről szóló fejezetében foglaltak alapján – értesíti a támogató szervet a szükséges intézkedések megtétele céljából.
+
+(2e) A FAT az akkreditáció visszavonásának tényét honlapján feltünteti.
 
 (3) A FAT független szakmai testület.
 
@@ -247,23 +290,24 @@ szabályait.
 
 ### A felnőttképzési szerződés
 
-20. § (1) A felnőttképzést folytató intézmény és a képzésben részt vevő felnőtt felnőttképzési szerződést köt.
+20. § (1) A felnőttképzést folytató intézmény és a képzésben részt vevő felnőtt felnőttképzési szerződést köt. A szerződésen fel kell tüntetni, hogy a szerződés az e törvény alapján kötött felnőttképzési szerződés.
 
 (2) A felnőttképzési szerződésnek tartalmaznia kell:
 
-- a) a képzésre vonatkozóan a 9. § (1) bekezdésének f)–i) pontjában meghatározott tartalmú adatokat, továbbá OKJ-s képzés esetén ennek azonosító számát, általános, valamint nem OKJ-ban szereplő képesítés megszerzésére irányuló szakmai célú képzés esetén az elsajátítható ismereteket, kompetenciákat,
+- a) a képzésre vonatkozóan a 9. § (1) bekezdés f)–i) pontjában meghatározott tartalmú adatokat, továbbá OKJ-s képzés esetén ennek azonosító számát, általános, valamint nem OKJ-ban szereplő képesítés megszerzésére irányuló szakmai célú képzés esetén az elsajátítható ismereteket, kompetenciákat,
 - b) a résztvevőnek a képzés során nyújtott teljesítménye ellenőrzésének, értékelésének módját, a vizsgára történő bocsátás feltételeit,
-- c) az elméleti tanórákról, a gyakorlati foglalkozásokról, illetve a konzultációkról való megengedett hiányzás mértékét, és ennek túllépése esetén a képzésben résztvevőt érintő következményeket,
+- c) az elméleti tanórákról, a gyakorlati foglalkozásokról, illetve a konzultációkról való megengedett hiányzás mértékét, és ennek túllépése esetén a képzésben részt vevőt érintő következményeket,
 - d) a képzés helyét, időtartamát, ütemezését, figyelembe véve az előzetesen megszerzett tudás beszámítását,
-- e) a gyakorlati foglalkozás helyét, időtartamát, ütemezését, valamint a felnőtt számára a gyakorlati foglalkozással összefüggésben esetlegesen biztosított juttatásokat,
-- f) a vizsga szervezésének módját, formáját; OKJ szerinti, hatósági, illetve nyelvi képzés esetén a javasolt vizsgaszervező intézmény megnevezését,
-- g) a képzési díj – külön kiemelten a vizsgadíj és az esetlegesen szükséges pótvizsga díjának – mértékét és fizetésének módját, figyelembe véve az előzetesen megszerzett tudás beszámítását,
-- h) állami, illetve európai uniós források terhére támogatásban részesülő képzés esetén
+- e) a gyakorlati foglalkozás helyét, időtartamát, ütemezését, valamint a felnőtt számára a gyakorlati foglalkozással összefüggésben keletkezett esetlegesen biztosított juttatásokat,
+- f) a vizsga szervezésének módját, formáját, OKJ szerinti, hatósági illetve nyelvi képzés esetén a javasolt vizsgaszervező intézmény megnevezését,
+- g) egy összegben – az előzetesen megszerzett tudás beszámításával – a képzési díj, továbbá külön kiemelten a vizsgadíj és az esetlegesen szükséges pótvizsga díjának mértékét, a díjfizetés módját, ütemezését,
+- h) állami, vagy európai uniós források terhére támogatásban részesülő képzés esetén
   - ha) a támogatás tényét, megnevezését, a támogatás összegét,
-  - hb) a támogatásban részesülő felnőttképzési intézmény kötelezettségvállalását a 21. § (3) bekezdésének a) pontjában meghatározott feltétel biztosítására, valamint
-- i) a képzésben részt vevő felnőtt, illetve a felnőttképzést folytató intézmény szerződésszegésének következményeit,
-- j) mindazt, amit külön kormányrendelet előír;
-- k) a felnőttképzési intézmény nyilvántartásba vételének elmaradásával, illetve a tevékenysége folytatásának megtiltásával összefüggésben keletkezett, a szolgáltatás igénybevevőjét ért kár viselésére vonatkozó rendelkezéseket.
+  - hb) a támogatásban részesülő felnőttképzési intézmény kötelezettségvállalását a 21. § (3) bekezdésének a) pontjában meghatározott feltétel biztosítására,
+- i) a képzésben részt vevő felnőtt és a felnőttképzést folytató intézmény szerződésszegésének következményeit, így különösen a képzésből való kimaradás esetén megfizetendő díj mértékét, a szolgáltatás díjának késedelmes megfizetése vagy a díjfizetés elmaradásának következményeit,
+- j) a felnőttképzési intézmény nyilvántartásba vételének elmaradásával, vagy a tevékenysége folytatásának megtiltásával összefüggésben keletkezett, a szolgáltatás igénybevevőjét ért kár viselésére vonatkozó rendelkezéseket,
+- k) szerződésszegés esetén a szolgáltatás igénybevevője részére a tájékoztatás lehetőségét a panasztétel, a jogorvoslat tekintetében,
+- l) mindazt, amit külön kormányrendelet előír.
 
 (3) A felnőttképzési szerződést írásban kell megkötni.
 
@@ -277,12 +321,11 @@ szabályait.
 
 21. § (1) A felnőttképzést az állam a 22–27. §-okban foglaltak szerint támogatja.
 
-(2) A felnőttképzés támogatásának államháztartási forrásai:
+(2) A felnőttképzés támogatásának forrásai
 
-- a) a központi költségvetés,
-- b) a szakképzési hozzájárulásnak a felnőttképzésre elszámolható része,
-- c) az Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) foglalkoztatási és képzési alaprészei.
-- d)
+- a) a központi költségvetés, amelynek részét képezi a Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) foglalkoztatási és képzési alaprésze,
+- b) a szakképzési hozzájárulásnak a szakképzési hozzájárulásra kötelezett által a saját dolgozói képzésére elszámolható része, valamint
+- c) az európai uniós források.
 
 (3) Az (2) bekezdésben meghatározott, valamint az európai uniós források terhére – a (4) és (5) bekezdésben meghatározott kivétellel – kizárólag olyan felnőttképzési intézmény támogatható, amely
 
@@ -292,15 +335,17 @@ szabályait.
 
 (4) A (3) bekezdés a) pontjában meghatározott feltétel a 29. § 13. pontjában meghatározott belső képzések támogatása esetében nem alkalmazható.
 
-(5)
+(5) A (3) bekezdésben meghatározott feltételt a szakképzési hozzájárulásra kötelezett saját munkavállalói részére a szakképzési hozzájárulás terhére szervezett képzés költségei elszámolása során akkor kell alkalmazni, ha a képzés részben vagy egészben külső képzés formájában valósul meg.
 
-(6) A (3) bekezdésben meghatározott források terhére nyújtott képzési célú támogatások esetében a – külön jogszabályban meghatározott – rész-szakképesítés nem minősül az első, állam által elismert szakképesítésnek.
+(6) A (2) bekezdésben meghatározott források terhére nyújtott képzési célú támogatások esetében a – külön jogszabályban meghatározott – rész-szakképesítés nem minősül az első, állam által elismert szakképesítésnek.
 
-(7) A (3) bekezdésben meghatározott források terhére támogatás nyújtható olyan nem magyar állampolgárnak is, aki
+(7) A (2) bekezdésben meghatározott források terhére támogatás nyújtható olyan nem magyar állampolgárnak is, aki
 
 - a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, vagy
 - b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik és bevándorolt, letelepedett, befogadott, illetőleg hontalan, vagy
 - c) a menedékjogról szóló törvény alapján menekült vagy menedékes jogállású.
+
+(8) A (2) bekezdésben meghatározott forrásokból támogatott – amennyiben az nem a felnőttképzést folytató intézmény – a képzés megrendelésekor köteles a támogatás tényét, forrását és a támogatást nyújtó szervezet nevét a felnőttképzést folytató intézménnyel közölni.
 
 ### Felnőttképzési normatív támogatás
 
@@ -359,9 +404,9 @@ szabályait.
 
 (2) A felnőttképzést folytató intézmény felnőttképzési tevékenységéről a statisztikáról szóló 1993. évi XLVI. törvény előírásai szerint statisztikai célú adatszolgáltatásra kötelezett.
 
-(3) A felnőttképzési intézmények a 21. § (3) bekezdésében meghatározott források terhére támogatott képzéseik tekintetében, e törvény melléklete 1. pontjának bd) és ca) alpontjaiban meghatározott adatokról – külön kormányrendeletben meghatározottak szerint – jelentést szolgáltatnak a pályakövetési rendszer működtetéséért felelős szerv részére.
+(3) A felnőttképzési intézmények a 21. § (2) bekezdésében meghatározott források terhére támogatott képzéseik tekintetében, e törvény melléklete 1. pontjának bd) és ca) alpontjaiban meghatározott adatokról – külön kormányrendeletben meghatározottak szerint – jelentést szolgáltatnak a pályakövetési rendszer működtetéséért felelős szerv részére.
 
-(4) A 21. § (3) bekezdésében meghatározott források terhére támogatott képzésben részt vevő felnőtt – feltéve, hogy foglalkoztatási jogviszonyt nem létesített vagy önfoglalkoztatóvá vált – köteles a képzés befejezését követő három éven át – külön kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséért felelős szerv részére a képzéssel megszerzett szakképesítés vagy egyéb kompetencia hasznosulására vonatkozóan adatot szolgáltatni, illetve közölni, hogy milyen vállalkozást végez.
+(4) A 21. § (2) bekezdésében meghatározott források terhére támogatott képzésben részt vevő felnőtt – feltéve, hogy foglalkoztatási jogviszonyt nem létesített vagy önfoglalkoztatóvá vált – köteles a képzés befejezését követő három éven át – külön kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséért felelős szerv részére a képzéssel megszerzett szakképesítés vagy egyéb kompetencia hasznosulására vonatkozóan adatot szolgáltatni, illetve közölni, hogy milyen vállalkozást végez.
 
 (5) A (4) bekezdésben meghatározott adatszolgáltatási kötelezettség a foglalkoztatót terheli, amennyiben a felnőtt a képzés befejezését követően foglalkoztatási jogviszonyt létesít. A foglalkoztatónak – külön kormányrendeletben meghatározottak szerint – az adatszolgáltatás keretében közölni kell, hogy a felnőtt hol állt munkába, milyen munkakörben foglalkoztatják, illetve milyen tevékenységet lát el.
 
@@ -383,7 +428,7 @@ szabályait.
 - 10. Kompetencia: a felnőttképzésben részt vett személy ismereteinek, készségeinek, képességeinek, magatartási, viselkedési jegyeinek összessége, amely által a személy képes lesz egy meghatározott feladat eredményes teljesítésére.
 - 11. Munkanélküli felnőtt: az Flt. 58. § (5) bekezdés d) pontjában meghatározott természetes személy, amennyiben e törvény alkalmazásában felnőttnek minősül.
 - 12. Elméleti tanóra: a képzésnek a megszerezni kívánt képesítéshez, kompetenciához szükséges elméleti tudás megszerzését biztosító, 45 percet elérő időtartamú egysége.
-- 13. Belső képzésnek minősül a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett képzés, illetve a külön jogszabályok alapján végzett köztisztviselői továbbképzés. A belső képzés szempontjából munkavállaló az Flt. 58. §-a (5) bekezdésének b) pontjában meghatározott személy.
+- 13. Belső képzésnek minősül a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett képzés. A belső képzés szempontjából munkavállaló az Flt. 58. §-a (5) bekezdésének b) pontjában meghatározott személy.
 - 14. Nem formális tanulásnak minősül a munkahely, a társadalmi és egyéb szervezetek által szervezett olyan rendszerezett oktatás-tanulás, amely oktatási, képzési intézményeken kívül az egyén igényei és kezdeményezése alapján valósul meg, és amely közvetlenül nem kapcsolódik képesítés megszerzését tanúsító okirat megszerzéséhez.
 - 15. Gyakorlati foglalkozás: a képzés azon része, amely a megszerezni kívánt képesítéshez, kompetenciához szükséges elméleti ismeretek gyakorlatban történő alkalmazásának elsajátítását biztosítja.
 - 16. Konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő felnőtt(ek) és az oktató (tutor) közötti megbeszélés, mely elektronikus formában is megvalósulhat.
@@ -391,6 +436,8 @@ szabályait.
 - 18. Moduláris rendszer: Meghatározott, összekapcsolható egységekből (modulokból) álló képzési program, tananyag, amely lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek részenkénti elsajátítását, biztosítja a szakmák közti átjárhatóságot, az eltérő tudásszintekhez, munkatapasztalatokhoz való alkalmazkodást, a képzések különböző irányú specializálását. A modulok egymáshoz illesztésével, cseréjével különböző moduláris képzési programok, tananyagok állíthatók össze.
 - 19. Szakmai képzés: olyan képzés, amely valamely foglalkozás, munkatevékenység végzéséhez szükséges kompetencia megszerzésére, fejlesztésére irányul.
 - 20. Felnőttképzési tevékenység megkezdése: a 3. § (2) bekezdésében meghatározott tevékenység tényleges megkezdése vagy a felnőttképzési tevékenységnek a felnőttképzési intézmény általi meghirdetése.
+- 21. támogatott képzés: olyan képzés, amely részben vagy egészben a 21. § (2) bekezdésében megjelölt források terhére valósul meg.
+- 22. támogató szerv: a 21. § (2) bekezdésében megjelölt források felett rendelkezni jogosult szervezet, amellyel a támogatott a pénzeszközök képzési célú felhasználására támogatási szerződést köt.
 
 ## VI. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

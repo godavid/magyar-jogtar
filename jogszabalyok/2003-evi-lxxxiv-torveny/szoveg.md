@@ -163,7 +163,7 @@ kell alkalmazni.
 
 kell sorolni.
 
-(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti besorolási illetmény és az 1. melléklet szerinti táblázatban szereplő egyösszegű illetmény- vagy bérnövelés együttes összege.
+(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1/a. melléklet szerint számított összeg.
 
 (5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 2. melléklet szerint számított összeg.
 
@@ -171,12 +171,14 @@ kell sorolni.
 
 (7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményalapra (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
 
-(8) A (4) és (6) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
+(8) A (6) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
 (9) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
 
 - a) az orvos munkakörben foglalkoztatott egészségügyi dolgozó részére a (4) bekezdés alapján,
 - b) a (6) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6) bekezdés alapján járó bért, illetve illetményt kell folyósítani. Ha a szakképzésben részt vevő foglalkoztatására heti 36 órát elérő időben, tartós megbízási szerződés alapján vagy vállalkozói jogviszonyban kerül sor, e rendelkezéseket az egészségügyi dolgozó havi megbízási vagy vállalkozói díjazására kell alkalmazni.
+
+(10) A Kormány az 1–3. mellékletben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
 12. § (1) Ha az egészségügyi szolgáltató tevékenysége a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
 
@@ -269,6 +271,11 @@ lehet megkötni.
 - a) 12/B. § (1) bekezdése szerinti keret terhére, ha a felek között önként vállalt többletmunkára kötött megállapodás van hatályban vagy
 - b) két naptári hetente legfeljebb egy alkalommal a 12/D. § (2) bekezdése alapján a rendes munkaidő, vagy a 12/D. § (3) bekezdése szerinti egészségügyi ügyeleti keret terhére.
 
+(2a) Amennyiben a munkaidőbeosztás alapján az egészségügyi dolgozó munkaideje a munkaidőkeret átlagában számított heti 48 órát várhatóan meghaladja, az önként vállalt többletmunka óráit elődlegesen a (2) bekezdés szerinti, napi 12 órát meghaladóan elrendelt egészségügyi ügyelet beosztására kell felhasználni, továbbá a (2) bekezdés b) pontja alkalmazásában az egészségügyi dolgozó a 12/D. § (3) bekezdése szerinti keret terhére csak akkor osztható be, ha a munkáltató
+
+- a) a 12/D. § (2) bekezdése szerinti keretet már kimerítette, vagy legkésőbb a (2) bekezdés szerinti ügyelet tartama alatt kimeríti, vagy
+- b) a 12/D. § (2) bekezdése szerinti keret terhére történő beosztás lehetőségével nem él.
+
 (3) A heti munkaidő – az önként vállalt többletmunkáról szóló megállapodást kötött alkalmazott egészségügyi dolgozó esete kivételével – a munkáltató rendelkezése szerint a munkaidőkeret átlagában a 48 órát nem haladhatja meg azzal, hogy ennek terhére a munkáltató a napi munkarend szerinti munkaidőn túl
 
 - a) rendkívüli munkavégzést vagy
@@ -336,19 +343,23 @@ minősül.
 
 14/A. § Az alkalmazott egészségügyi dolgozó által önként vállalt többletmunkavégzés keretében végzett munka pótlékának mértéke egészségügyi ügyelet ellátása esetén azon ügyeleti díj 50%-kal megemelt összege, amelyet a munkáltató abban az esetben lenne köteles megfizetni, ha a munkavégzésre nem önként vállalt többletmunkavégzés keretében kerülne sor. Ha az önként vállalt többletmunkavégzésre nem ügyeleti feladatellátás keretében, hanem rendes munkarend szerinti (műszak szerinti) feladatok ellátása érdekében vagy készenlét alatti munkavégzésként kerül sor, az önként vállalt többletmunkavégzés pótlékának mértéke a rendkívüli munkavégzés pótlékának 50%-kal megemelt összege.
 
-14/B. § Az Mt. 141. §-ában foglaltaktól eltérően, az egészségügyi dolgozót és az egészségügyben dolgozót
+14/B. § (1) Az Mt. 141. és 142. §-ában foglaltaktól eltérően, az egészségügyi dolgozót és az egészségügyben dolgozót
 
 - a) a b) és c) pontban meghatározott munkaidő-beosztásban történő foglalkoztatás kivételével a 22–06 óra közötti munkavégzés esetén tizenöt százalékos éjszakai pótlék,
-- b) többműszakos munkaidő-beosztásban történő foglalkoztatás esetén a 14–22 óra közötti munkavégzés idejére tizenöt százalékos délutáni műszakpótlék, a 22–06 óra közötti munkavégzés idejére harminc százalékos éjszakai műszakpótlék,
-- c) a megszakítás nélküli munkarendben történő foglalkoztatás esetén a 14–22 óra közötti munkavégzés idejére húsz százalékos délutáni műszakpótlék és a 22–06 óra közötti munkavégzés idejére negyven százalékos éjszakai műszakpótlék
+- b) több műszakos munkaidő-beosztásban történő foglalkoztatás esetén a 14–22 óra közötti munkavégzés idejére tizenöt százalékos délutáni műszakpótlék, a 22–06 óra közötti munkavégzés idejére harminc százalékos éjszakai műszakpótlék,
+- c) a megszakítás nélkül működő egészségügyi szolgáltatónál történő foglalkoztatás esetén a 14–22 óra közötti munkavégzés idejére húsz százalékos délutáni műszakpótlék és a 22–06 óra közötti munkavégzés idejére negyven százalékos éjszakai műszakpótlék illeti meg.
 
-illeti meg.
+(2) Az (1) bekezdés alkalmazásában több műszakos a munkaidő-beosztás, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
 
 14/C. § A bérpótlék számítási alapjának eltérő meghatározásáról az Mt. 139. § (2) bekezdésében foglaltaktól eltérően megállapodás nem köthető.
 
-14/D. § A Kjt. hatálya alá tartozó egészségügyi szolgáltatónál történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdés a) pontja nem alkalmazható.
+14/D. § (1) A Kjt. hatálya alá tartozó egészségügyi szolgáltatónál történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdés a) pontja nem alkalmazható.
 
-14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára az alapszabadság egynegyedét – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
+(2) A Kjt. 41. § (2) bekezdés b) pontjában és 41. § (3) bekezdésében foglaltak alapján a közalkalmazott vagy a Kjt. 22/B. §-a szerinti vezető állású munkavállaló a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagságot kizárólag a munkáltató fenntartójának jóváhagyásával létesíthet.
+
+(3) A (2) bekezdés szerinti összeférhetetlenség megszüntetésére a Kjt. 44. § (2)–(5) bekezdése irányadó, azzal az eltéréssel, hogy a Kjt. 44. § (2) bekezdése alapján a fenntartói döntés ellen munkaügyi jogvita kezdeményezhető abban az esetben is, ha a fenntartó nem a közalkalmazott munkáltatója.
+
+14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
 (2) Az Mt. 122. § (3) bekezdésében foglaltaktól eltérően a szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – ebben az esetben is megilleti a munkavállalót naptári évenként legalább egyszer legalább tizennégy összefüggő naptári nap távollétet biztosító szabadság.
 
@@ -389,6 +400,8 @@ illeti meg.
 (6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához az érintett egészségügyi szakdolgozók esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (7) A Hjt. hatálya alá tartozók esetében a (3) bekezdésben foglaltak végrehajtásához szükséges esetleges illetménykülönbözetet egészségügyi dolgozók kiegészítő illetményeként kell megállapítani és folyósítani.
+
+(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 ### Önkéntes jogviszony
 
@@ -494,7 +507,7 @@ részt vehet.
   - aa) egészségügyi szakdolgozói, egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait,
   - ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgáltató munkáltatók körét,
   - ac) ellátásokat és egészségügyi szolgáltatásokat,
-- b) a 30. §-ban meghatározott támogatás igénylési feltételeit, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait rendeletben meghatározza.
+- b) a 30. §-ban meghatározott támogatás igénylési feltételeit, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait, valamint az 1–3. mellékletben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb rendelkezéseket rendeletben meghatározza.
 
 (4) A törvény hatálybalépésével egyidejűleg
 
@@ -527,11 +540,11 @@ részt vehet.
 - a) alapbére (garantált illetménye) és
 - b) az őt jogszabály, kollektív szerződés, kinevezés vagy munkaszerződés alapján munkavégzés esetén folyamatosan megillető bér- vagy illetménypótlékok, munkavállalók esetében ide nem értve a prémiumot (a továbbiakban: rendszeres pótlék)
 
-együttes összegének mértékétől függően az 1. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
+együttes összegének mértékétől függően – nem rendszeres jövedelemnek minősülő bérelemként – az 1. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
-(3) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót a 3. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
+(3) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – a 3. melléklet szerinti táblázatban szereplő visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
-(4) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót havi 31 435 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
+(4) A 2012. január 1-je és 2012. június 30-a közötti időszakban a 11/A. § (2) bekezdésében meghatározott munkáltatónál a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót – nem rendszeres jövedelemnek minősülő bérelemként – havi 31 435 Ft összegű visszamenőleges illetmény- vagy bérnövelés illeti meg.
 
 (5) A (2)–(4) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés végrehajtásánál
 
@@ -550,11 +563,13 @@ kell figyelembe venni.
 
 (10) A (2)–(4) bekezdés szerinti visszamenőleges illetmény- vagy bérnövelés összegét a 2012. júliusi bér (illetmény) kifizetésével egyidejűleg egy összegben kell az egészségügyi dolgozó, egészségügyben dolgozó részére kifizetni.
 
-(11) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (4) bekezdése szerinti orvos munkakörben foglalkoztatott egészségügyi dolgozót alapbére (garantált illetménye) és az őt megillető rendszeres pótlék vagy pótlékok együttes összegének mértékétől függően az 1. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
+(11) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (4) bekezdése szerinti orvos munkakörben foglalkoztatott egészségügyi dolgozót alapbére (garantált illetménye) és az őt megillető rendszeres pótlék vagy pótlékok együttes összegének mértékétől függően – rendszeres jövedelemnek minősülő bérelemként – a (20) bekezdésben foglaltakra is figyelemmel az 1. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
 
-(12) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót a 3. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
+(12) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozót, egészségügyben dolgozót – rendszeres jövedelemnek minősülő bérelemként – a (19) bekezdésben foglaltakra is figyelemmel a 3. melléklet szerinti táblázatban szereplő folyamatos illetmény- vagy bérnövelés illeti meg.
 
-(13) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót havi 31 435 Ft összegű folyamatos illetmény- vagy bérnövelés illeti meg.
+(12a) A Kormány által a 11/A. § (1), (2), (5) és (6) bekezdésében foglaltakra tekintettel kormányrendeletben megállapított ellátások, egészségügyi szolgáltatók vagy munkakörök módosítása esetén az illetmény- vagy bérnövelés és a 30. § szerinti támogatás igénybevételének feltételeit, valamint az irányadó határidőket vagy határnapokat a Kormány rendeletben állapítja meg.
+
+(13) A 11/A. § (2) bekezdésében meghatározott munkáltatónál 2012. július 1. napján vagy ezt követően a 7. § (2) bekezdés d)–g) pontjában felsorolt jogviszonyban álló, a 11/A. § (6) bekezdése szerinti egészségügyi dolgozót – rendszeres jövedelemnek minősülő bérelemként – havi 31 435 Ft összegű folyamatos illetmény- vagy bérnövelés illeti meg.
 
 (14) A (11)–(13) bekezdés szerinti folyamatos illetmény- vagy bérnövelés
 
@@ -572,9 +587,17 @@ kell figyelembe venni.
   - ba) ha munkaviszonya 2012. június 30-án, valamint 2012. július 1-jén is fennállt, a 2012. június 30-án hatályos munkaszerződésében meghatározott személyi alapbérével azonos összeg,
   - bb) a 2012. június 30. után létesített munkaviszony esetén a munkáltatónál azonos munkakörben, azonos gyakorlati idővel 2012. június 30-án foglalkoztatott munkavállalók munkaszerződés szerinti személyi alapbére – több ilyen munkavállaló esetén alapbérük átlaga –, ilyen munkavállalók hiányában a Kjt. 2012. június 30-án hatályos szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó garantált illetménnyel azonos összeg.
 
-(17) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti visszamenőleges és folyamatos illetmény- vagy bérnövelést a 2011–2012. évi adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat 2012. évre megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
+(17) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti visszamenőleges és folyamatos illetmény- vagy bérnövelést a 2011–2012. évi és 2012–2013. évi adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat 2012. és 2013. évre megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
 
-(18) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti illetmény- vagy bérnövelés az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 460. §-a szerinti elvárt béremelésként az ott meghatározott adókedvezmény szempontjából nem vehető figyelembe.
+(18) A 11/A. §, a (2)–(4) bekezdés és a (11)–(13) bekezdés szerinti illetmény- vagy bérnövelés az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 460. §-a szerinti elvárt béremelésként, részkedvezményalap részeként az ott meghatározott adókedvezmény szempontjából nem vehető figyelembe.
+
+(19) A 2012. június 30-án és 2012. július 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakörben álló foglalkoztatott a 11/A. § (5) bekezdése szerinti garantált illetményre vagy bérre a (12) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. június 30-át követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (5) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (5) bekezdése alapján jogosult.
+
+(20) A 2012. december 31-én és 2013. január 1-jén is az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti orvos munkakörben álló foglalkozatott a 11/A. § (4) bekezdése szerinti garantált illetményre vagy bérre a (11) bekezdésben meghatározott folyamatos illetmény- vagy bérnövelés útján jogosult. A 2012. december 31-ét követően az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, a 11/A. § (4) bekezdése szerinti munkakört létesítő foglalkoztatott az egészségügyi ágazati előmeneteli szabályok alapján őt megillető illetmény- vagy bérnövelésre kizárólag a 11/A. § (4) bekezdése alapján jogosult.
+
+29/A. § (1) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Mt., a Kjt. és a Hjt. alkalmazásában a távolléti díj számítása során figyelembe kell venni.
+
+(2) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést a Kjt. alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
 
 30. § (1) Az egészségügyi szolgáltató az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított visszamenőleges és folyamatos illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egészségügyi dolgozók 2012. évi egyszeri bérkiegészítéséhez, illetménykiegészítéséhez kapcsolódó támogatásról szóló kormányrendeletben meghatározottak szerint – működési célú, támogatásértékű bevételként – támogatásban részesül.
 
@@ -597,6 +620,10 @@ kell érteni.
 - a) 2012. augusztus 1-jén a törvény erejénél fogva megszűnnek,
 - b) az a) pontban foglaltaktól eltérően az (1) bekezdés szerinti esetben az (1) bekezdésben meghatározott időtartamig hatályban maradnak, azzal, hogy e megállapodások felmondására a 2012. június 30-án hatályos 14/A. § (2) bekezdését kell alkalmazni.
 
+(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel (a továbbiakban: Módtv2.) módosított 29. § (18) bekezdését 2012. január 1-jétől kell alkalmazni.
+
+(4) A Módtv2.-vel módosított 14/D. § szerinti, a Módtv2. hatálybalépésekor fennálló jogviszonyt a Módtv2. hatálybalépését követő 30 napon belül be kell jelenteni a fenntartónak. A fenntartó a jogviszony jóváhagyása tárgyában a bejelentéstől számított 60 napon belül dönt.
+
 ### 1. melléklet a 2003. évi LXXXIV. törvényhez
 
 #### Orvos munkakörben foglalkoztatott egészségügyi dolgozók visszamenőleges és folyamatos illetmény- vagy bérnövelése
@@ -615,6 +642,31 @@ kell érteni.
 | 430 000–439 999 | 20 820 |
 | 440 000–449 999 | 15 820 |
 | 450 000-től | 10 000 |
+
+### 1/a. melléklet a 2003. évi LXXXIV. törvényhez
+
+#### Orvosok illetmény-, illetve bértáblája (Ft/hó, bruttó)
+
+| SZINT | ÉVEK | ORVOSI BÉRTÁBLA SZORZÓI* |  |  |
+| --- | --- | --- | --- | --- |
+| H | I | J |
+| 1. | 0–3 | 1,809 | 1,924 | 2,040 |
+| 2. | 4–6 | 1,878 | 2,003 | 2,142 |
+| 3. | 7–9 | 1,947 | 2,086 | 2,253 |
+| 4. | 10–12 | 2,017 | 2,174 | 2,369 |
+| 5. | 13–15 | 2,077 | 2,276 | 2,484 |
+| 6. | 16–18 | 2,151 | 2,378 | 2,600 |
+| 7. | 19–21 | 2,244 | 2,480 | 2,702 |
+| 8. | 22–24 | 2,336 | 2,591 | 2,804 |
+| 9. | 25–27 | 2,429 | 2,674 | 2,906 |
+| 10. | 28–30 | 2,522 | 2,758 | 3,008 |
+| 11. | 31–33 | 2,614 | 2,841 | 3,109 |
+| 12. | 34–36 | 2,707 | 2,924 | 3,211 |
+| 13. | 37–39 | 2,799 | 3,063 | 3,313 |
+| 14. | 40–42 | 2,892 | 3,160 | 3,415 |
+| 15. | 43–45 | 2,892 | 3,160 | 3,415 |
+
+A szorzók vetítési alapja 108 000 Ft/hó.
 
 ### 2. melléklet a 2003. évi LXXXIV. törvényhez
 

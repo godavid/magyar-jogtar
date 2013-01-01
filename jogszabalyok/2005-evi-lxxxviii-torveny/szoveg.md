@@ -45,7 +45,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 3. § (1) Fogadó szervezet lehet
 
-- a) a helyi önkormányzat, a helyi önkormányzatok társulása és a települési önkormányzatok többcélú kistérségi társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
+- a) a helyi önkormányzat, a helyi önkormányzatok társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
 - b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 - c) a költségvetési szerv az alaptevékenysége körében;
 - d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
@@ -200,6 +200,8 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 - a) egyesület, alapítvány, közalapítvány, egyházi jogi személy, gazdasági társaság vagy egyéni cég, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
 - b) egyéni vállalkozó, az egyéni vállalkozói tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást.
+
+(4b) Ha a szervezet adatairól szóló, a nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolásának (hatályos kivonat) benyújtására kötelezett civil szervezet a (3) bekezdés b) pont bb) alpontja vagy a (4) bekezdés a) pontja szerinti mellékletet a bejelentéshez nem csatolja, a hatályos kivonatot a miniszter saját hatáskörben szerzi be a bíróságtól.
 
 (5) Ha a fogadó szervezet egyházi jogi személy – annak alapszabályában jogi személynek nyilvánított, bírósági nyilvántartásba nem vett – szervezeti egysége, a kérelemhez mellékelni kell az egyházi jogi személy képviselőjének erre vonatkozó nyilatkozatát.
 

@@ -8,7 +8,11 @@ a nemzeti vagyonról szóló 2011. évi CXCVI. törvény és a hozzá kapcsolód
 
 8. § (1)–(2)
 
-(3)
+(3) Az Nvt. 12. § (2) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+
+(A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:)
+
+„c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetrend szerinti helyi különcélú személyszállítási szolgáltatás,”
 
 (4)–(6)
 
@@ -18,7 +22,13 @@ a nemzeti vagyonról szóló 2011. évi CXCVI. törvény és a hozzá kapcsolód
 
 15. § (1)–(2)
 
-(3)
+(3) A Kkt.
+
+- a) 9/D. § (2) bekezdésében az „a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 9. § (5) bekezdés” szövegrész helyébe az „a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 16/A. §-a” szöveg,
+- b) 9/D. § (3) és (4) bekezdésében, a 15/D. § (1) és (3) bekezdésében, a 15/E. § (3) bekezdésében az „az Ötv. 9. § (5) bekezdésben” szövegrész helyébe az „a Mötv. 16/A. §-ában” szöveg,
+- c) 47. § 24. pontjában az „az Ötv. 9. § (5) bekezdése” szövegrész helyébe az „a Mötv. 16/A. §-a” szöveg
+
+lép.
 
 #### 3. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
@@ -46,7 +56,9 @@ a nemzeti vagyonról szóló 2011. évi CXCVI. törvény és a hozzá kapcsolód
 
 #### 9. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-23. § (1)
+23. § (1) Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény a következő 16/A. §-sal egészül ki:
+
+„16/A. § A helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást a helyi önkormányzat, vagy kizárólag ezen közszolgáltatási feladat ellátására alapított költségvetési szerv, 100%-os önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában álló jogi személyiséggel rendelkező gazdasági társaság, illetve önkormányzati társulás láthatja el külön törvényben szabályozottak szerint.”
 
 (2)–(4)
 

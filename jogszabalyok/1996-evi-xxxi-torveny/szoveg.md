@@ -535,11 +535,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (3) A jogerősen kiszabott tűzvédelmi bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A tűzvédelmi bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
 
-44. § (1) A biztosító köteles a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 1. számú melléklete „A” részének 3–5., 6. a) és 7–11. pontjaiban, valamint a „B” részének b), d)–e) alpontjaiban meghatározott biztosítási ágazatokból befolyt biztosítási díjak 1,5%-át hozzájárulás címén – a hivatásos tűzoltóságok és az önkormányzati tűzoltóságok részére a laktanya-építési beruházáshoz, felújításhoz, a tűzoltáshoz és műszaki mentéshez, valamint a katasztrófák elleni védekezésért felelős miniszter által felügyelt tűzjelzési és monitoring lakossági riasztó-tájékoztató eszközök létesítésére, üzemeltetésére, fejlesztésére és az általa alapított, a szakágazat képzési feladatait ellátó oktatási intézmény létesítésére, valamint tűzoltó célú szakképzéséhez szükséges technikai eszközök, felszerelések fejlesztésének, felújításának céljára – a központi költségvetésbe befizetni. A hozzájárulás alapjának meghatározása során csak azokból a biztosítási szerződésekből befolyt díjakat kell figyelembe venni, ahol a kötelezettségvállalás tagállama Magyarország, ideértve azt az esetet is, ha a kockázatviselés helye egy másik tagállam.
-
-(2) Az (1) bekezdés szerinti hozzájárulás fizetésére köteles az Európai Gazdasági Térség tagállamaiban székhellyel rendelkező, vagy harmadik országbeli biztosító magyarországi fióktelepe, valamint a határon átnyúló szolgáltató is, ha a kockázat felmerülésének helye Magyarország.
-
-(3)
+#### 44. §
 
 #### 45. §
 
@@ -598,7 +594,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - c) a tűzoltóságok tagjaira vonatkozó élet- és baleset-biztosítási kötelezettséget;
 - d) a létesítményi tűzoltóságra vonatkozó részletes szabályokat;
 - e) az önkormányzati tűzoltóság létesítésének, működésének feltételeit, feladatát;
-- f) a tűzvédelmi bírság, valamint e törvény 44. §-a alapján fizetendő hozzájárulás befizetési és elszámolási rendjét, valamint felhasználásának és ellenőrzésének módját;
+- f) a tűzvédelmi bírság, befizetési és elszámolási rendjét,;
 - g) a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szervet, a piacfelügyeleti bírság mértékét, továbbá a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági eljárás és a piacfelügyeleti bírság részletes szabályait;
 - h) a központi és a területi katasztrófavédelmi szervet;
 - i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;

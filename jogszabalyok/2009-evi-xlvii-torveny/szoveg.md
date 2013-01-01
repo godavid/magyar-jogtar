@@ -107,7 +107,8 @@ azonosítása.
 - a) a bűntettesek nyilvántartása,
 - b) a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása,
 - c) a büntetőeljárás hatálya alatt állók nyilvántartása és
-- d) a kényszerintézkedés hatálya alatt állók nyilvántartása.
+- d) a kényszerintézkedés hatálya alatt állók nyilvántartása,
+- e) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.
 
 8. § (1) A 7. §-ban meghatározott nyilvántartások egymással nem kapcsolhatók össze.
 
@@ -336,7 +337,7 @@ kell nyilvántartani.
 28. § A kényszerintézkedés hatálya alatt állók nyilvántartása tartalmazza
 
 - a) a kapcsolati kódot;
-- b) az elrendelt kényszerintézkedést, annak időtartamát;
+- b) az elrendelt kényszerintézkedést, annak időtartamát, megszűnése tényét;
 - c) az elrendelő határozat szerinti bűncselekmény
   - ca) megnevezését,
   - cb) Btk. szerinti minősítését,
@@ -348,6 +349,74 @@ kell nyilvántartani.
 (2) A kényszerintézkedés megszüntetését a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 30. § A kényszerintézkedés hatálya alatt állók nyilvántartásába felvett adatokat a kényszerintézkedés megszűnéséig vagy megszüntetéséig kell nyilvántartani.
+
+### A külföldre utazási korlátozás hatálya alatt állók nyilvántartása
+
+30/A. § A külföldre utazási korlátozás hatálya alatt állók nyilvántartásában szereplő adatok kezelésének a célja a külföldre utazási korlátozás érvényesülésének az elősegítése, a külföldre utazási korlátozás ellenére történő külföldre utazások megelőzése.
+
+30/B. § A külföldre utazási korlátozás hatálya alatt állók nyilvántartásában annak az adatait kell nyilvántartani,
+
+- a) aki előzetes letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, valamint aki ideiglenes kényszergyógykezelés alatt áll,
+- b) akivel szemben lakhelyelhagyási tilalmat vagy házi őrizetet rendeltek el,
+- c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték,
+- d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelést alkalmazott,
+- e) akinek a bíróság a javítóintézeti nevelését rendelte el, illetve akit javítóintézetből ideiglenesen elbocsátottak, valamint
+- f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték.
+
+30/C. § A külföldre utazási korlátozás hatálya alatt állók nyilvántartása tartalmazza
+
+- a) a kapcsolati kódot,
+- b) az elrendelt kényszerintézkedés és egyéb korlátozás tényét, időtartamát, illetve megszűnése tényét,
+- c) a kiszabott végrehajtandó szabadságvesztés tényét és mértékét, valamint a részben felfüggesztett szabadságvesztés büntetés tényét és végrehajtandó részének mértékét,
+- d) a felfüggesztett szabadságvesztés büntetés végrehajtása elrendelésének, valamint a feltételes szabadság megszüntetésének a tényét és az ezáltal végrehajtandóvá vált szabadságvesztés mértékét,
+- e) az elrendelt kényszergyógykezelés tényét és amennyiben az határozott tartamú, a mértékét,
+- f) az elrendelt javítóintézeti nevelés tényét és mértékét,
+- g) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozás tényét, időtartamát, illetve megszűnése tényét,
+- h) a kényszerintézkedést és egyéb korlátozást elrendelő határozat, a bűnösséget megállapító vagy a felmentő ítélet szerinti bűncselekmény
+  - ha) megnevezését,
+  - hb) Btk. szerinti minősítését,
+- i) a határozattal és a határozatot hozó bírósággal kapcsolatban:
+  - ia) a kényszerintézkedés és egyéb korlátozás elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó bíróság megnevezését, illetve határozatának számát és keltét,
+  - ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
+  - ic) a szabadságvesztés büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
+  - id) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozást elrendelő bíróság megnevezését, a határozatának számát és jogerőre emelkedésének napját,
+- j) a szabadságvesztés előjegyzett utolsó napját,
+- k) a javítóintézeti nevelésből elbocsátás napját, a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, valamint
+- l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy az elítélt a jogerős ítélet vagy határozat meghozatalakor érvényes úti okmánnyal rendelkezett.
+
+30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b), c), d), e), f), h) pontjában, i) pont ia)–ic) alpontjában és l) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
+
+- a) kényszerintézkedés elrendelése esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+- b) szabadságvesztés büntetés kiszabása esetén a bűntettesek nyilvántartásába,
+- c) kényszergyógykezelés vagy javítóintézeti nevelés elrendelése esetén a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába
+
+teljesítendő adatközlésre köteles.
+
+(2) A kiadatási letartóztatás, ideiglenes kiadatási letartóztatás, átadási letartóztatás, ideiglenes átadási letartóztatás, valamint ideiglenes végrehajtási letartóztatás elrendelésével kapcsolatos adatokat a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(3) A kényszerintézkedés és egyéb korlátozás megszüntetését a határozatot hozó bíróság vagy ügyész közli a bűnügyi nyilvántartó szervvel.
+
+(4) A 30/C. § j) pontjában meghatározott adatot a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
+
+(5) A 30/C. § k) pontjában meghatározott adatokat a javítóintézeti nevelést végrehajtó szerv közli a bűnügyi nyilvántartó szervvel.
+
+(6) A 30/B. § f) pontjában meghatározott esetben az azzal kapcsolatos adatokat az egyéb korlátozást elrendelő bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(7) A bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásába az adatokat
+
+- a) kényszerintézkedés esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+- b) szabadságvesztés büntetés esetén a bűntettesek nyilvántartásába,
+- c) kényszergyógykezelés és javítóintézeti nevelés esetén a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába
+
+teljesítendő adatközlés alapján jegyzi be.
+
+30/E. § A külföldre utazási korlátozás hatálya alatt állók nyilvántartásába felvett adatokat
+
+- a) a kényszerintézkedés és egyéb korlátozás megszűnéséig vagy megszüntetéséig,
+- b) a szabadságvesztés büntetés esetén a szabadságvesztés előjegyzett utolsó napjáig vagy a szabadságvesztés büntetés végrehajthatóságának megszűnéséig,
+- c) a kényszergyógykezelés megszüntetéséig vagy határozott idejű kényszergyógykezelés esetén annak tartamáig, javítóintézeti nevelés esetén a javítóintézeti nevelésből elbocsátás napjáig vagy az ideiglenes elbocsátás leteltének napjáig
+
+kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesíteni –, akkor a 76. § (1) bekezdésben meghatározott adattovábbítást követően haladéktalanul törölni kell.
 
 ### III. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSA
 
@@ -596,7 +665,7 @@ miatt indítottak büntetőeljárást.
 
 61. § (1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terheltet büntetőeljárás alá vonta.
 
-(2) A büntetőeljárás alá vont személy DNS-profilját a szakértői nyilvántartó szerv határozza meg.
+(2) A büntetőeljárás alá vont személy DNS-profilját a szakértői nyilvántartó szerv határozza meg, amelynek során a Kormány által kijelölt szerv közreműködését veheti igénybe.
 
 62. § (1) A büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásába felvett adatokat a 25. §-ban meghatározott időpontig kell nyilvántartani.
 
@@ -621,7 +690,7 @@ miatt indítottak büntetőeljárást.
 - a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában, és ezzel egyidejűleg
 - b) törli a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásából.
 
-(3) Az elítélt személy DNS-profilját a szakértői nyilvántartó szerv határozza meg.
+(3) Az elítélt személy DNS-profilját a szakértői nyilvántartó szerv határozza meg, amelynek során a Kormány által kijelölt szerv közreműködését veheti igénybe.
 
 66. § (1) A bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásába felvett adatokat a 18–20. §-ban meghatározott időpontig kell nyilvántartani.
 
@@ -635,7 +704,8 @@ miatt indítottak büntetőeljárást.
 
 - a) az arra jogosultnak közvetlen hozzáférést biztosít a nyilvántartott adatokhoz,
 - b) az arra jogosult részére adatigénylés alapján adattovábbítást végez, vagy
-- c) az arra jogosult kérelmére adatot igazol.
+- c) az arra jogosult kérelmére adatot igazol,
+- d) az útlevélhatóságnak a külföldre utazási korlátozás törlése céljából automatikus adattovábbítás alapján adatot továbbít.
 
 (2) A bűnügyi nyilvántartási rendszerben kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
@@ -647,7 +717,8 @@ miatt indítottak büntetőeljárást.
 - b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása,
 - c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
-- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából.
+- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
+- f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -683,7 +754,8 @@ miatt indítottak büntetőeljárást.
   - ia) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - ib) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
   - ic) a 23. § c), f) és g) pontjában meghatározott adatok;
-- j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok.
+- j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok,
+- k) határellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (3) A választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -726,12 +798,16 @@ miatt indítottak büntetőeljárást.
 - a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatot átvenni, valamint
 - b) a 11. § (1) bekezdés b) pontjában vagy a 16. § (1) bekezdés b) pontjában meghatározott adatok alapján azon tény igazolását kérni, hogy az elítélt ujj- és tenyérnyomatát vagy DNS-profilját az elítélés alapjául szolgáló büntetőeljárás során nyilvántartásba vették.
 
-(9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában meghatározott adatok,
-- b) a 28. § b) és c) pontjában meghatározott adatok.
+(9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
+
+(11) Az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+
+- a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+- b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok,
+- c) a 23. § c), f) és g) pontjában meghatározott adatok,
+- d) a 28. § b) és c) pontjában meghatározott adatok.
 
 ### Az adatigénylés alapján történő adattovábbítás követelményei
 
@@ -768,67 +844,104 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 
 (4) Az adatigénylésre történő adattovábbítási eljárást meg kell szüntetni, ha az adatigénylés az (1) bekezdés a) pontjában meghatározott feltételnek nem felel meg.
 
-### Kérelemre történő adattovábbítás a kérelmező saját adatairól
-
-71. § (1) A bűnügyi nyilvántartó szerv adattovábbítási kérelemre a kérelmező saját adatai igazolása céljából a bűnügyi nyilvántartásokban tárolt adatokat
-
-- a) az adattovábbítási kérelemben megjelölt címzett részére vagy
-- b) az adattovábbítást kérelmező részére külföldi felhasználás céljából
-
-továbbítja.
-
-(2) Az adattovábbítási kérelmet ügyfélkapun keresztül elektronikus úton, az erre a célra rendszeresített űrlapon is be lehet nyújtani. Kérelmenként egy címzettet lehet megjelölni.
-
-(3) A kérelmező az adattovábbítási kérelemben kikötheti, hogy a bűnügyi nyilvántartó szerv az adatait a címzettnek csak akkor továbbítsa, ha
-
-- a) a bűntettesek nyilvántartásában nyilvántartottként nem szerepel, valamint – ha a kérelem erre is kiterjed, az abban foglaltak szerint – nem áll közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt, vagy
-- b) nem áll büntetőeljárás hatálya alatt.
-
-72. § (1) Az adattovábbítási kérelemnek tartalmaznia kell a saját adatai igazolása céljából adattovábbítást kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait, az adattovábbítás címzettjének pontos megnevezését és címét, továbbá – ha az a kérelmező rendelkezésére áll – a címzett elektronikus címét.
-
-(2) Az adattovábbítási kérelemnek tartalmaznia kell azt, hogy a kérelmező a következők közül mely tény igazolására kéri a bűnügyi nyilvántartási rendszerben tárolt adatainak továbbítását:
-
-- a) a bűntettesek nyilvántartásában nem szerepel, valamint – ha a kérelem erre is kiterjed – nem áll közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt,
-- b) a bűntettesek nyilvántartásában nem szerepel, valamint – ha a kérelem erre is kiterjed – a közügyektől, meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt áll,
-- c) büntetett előéletű, és – ha a kérelem erre is kiterjed – nem áll közügyektől, valamely meghatározott foglalkozástól, járművezetéstől eltiltás vagy intézkedés hatálya alatt,
-- d) büntetett előéletű, és – ha a kérelem erre is kiterjed – közügyektől, meghatározott foglalkozástól vagy járművezetéstől eltiltás hatálya alatt áll, vagy
-- e) büntetőeljárás hatálya alatt áll vagy büntetőeljárás hatálya alatt nem áll.
-
-(3) Ha a kérelmező a bűnügyi nyilvántartási rendszerben kezelt, a (2) bekezdésben meghatározott adatokon kívüli, egyéb nyilvántartott adatai továbbítását kéri, kérelmében ezen adatok mellett azt a törvényi rendelkezést is meg kell jelölnie, amely alapján az adattovábbítás címzettje minden egyes igényelt adat tekintetében jogosult az adat kezelésére. Ennek hiányában az adattovábbítási eljárást meg kell szüntetni.
-
-(4) A bűnügyi nyilvántartási rendszerből a kérelmező kérelmére történő adattovábbítási eljárásért igazgatási szolgáltatási díjat kell fizetni.
-
-73. § (1) A bűnügyi nyilvántartó szerv az adattovábbítási kérelemben megjelölt adatokat hatósági bizonyítványban igazolja. A hatósági bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
-
-(2) Ha a bűnügyi nyilvántartó szerv az adattovábbítási kérelemnek a 71. § (1) bekezdés a) pontja szerint ad helyt, a hatósági bizonyítványt az adattovábbítás címzettjének, annak másolatát a kérelmezőnek kézbesíti.
-
-(3) Ha a bűnügyi nyilvántartó szerv a 71. § (1) bekezdés b) pontjában meghatározott adattovábbítási kérelemnek ad helyt, a hatósági bizonyítvány tartalmazza az arra való utalást is, hogy a hatósági bizonyítvány kiadása a bűnügyi nyilvántartásokban kezelt adatok igazolásának külföldön történő felhasználása céljára szolgál.
-
-(4) A bűnügyi nyilvántartó szerv az adattovábbítási eljárást megszünteti, ha az adatokat a kérelmező 71. § (3) bekezdésében meghatározott korlátozó nyilatkozata miatt nem továbbítja. Az eljárást megszüntető végzésben a kérelmezőt tájékoztatni kell a nyilvántartásban kezelt adatairól és azokról az adatváltozásokról is, amelyeket a bűnügyi nyilvántartó szerv az érintett adatainak bűnügyi nyilvántartási rendszerbe történő felvétele időpontjától kezdve átvezetett.
-
-(5) Az (1)–(4) bekezdés szerinti iratot a közigazgatási hatósági eljárás és szolgáltatás általános szabályai szerinti elektronikus úton való kapcsolattartás során kell továbbítani annak a címzettnek és kérelmezőnek, akinél az elektronikus úton való továbbítás feltételei fennállnak.
-
-(6) Az elektronikus úton továbbított hatósági bizonyítványon a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesnek ismerte el.
-
 ### A hatósági erkölcsi bizonyítvány
 
-74. § (1) Valamely eljárásban, valamint jogviszony létesítéséhez, fenntartásához szükséges vagy egyéb, törvényben előírt feltételeknek való megfelelés igazolására – az igazolás alanyának kérelmére – a bűnügyi nyilvántartó szerv hatósági erkölcsi bizonyítványt állít ki. A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
+71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
-(2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelem ügyfélkapun keresztül elektronikus úton, az erre a célra rendszeresített űrlapon is benyújtható.
+(2) Ha törvény lehetővé teszi, hogy a kérelmező valamely eljárásban az eljáró szerv adatigénylését kezdeményezve igazoljon valamely, a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, törvényben meghatározott tényt, az eljáró szerv adatigénylésére a bűnügyi nyilvántartó szerv hatósági erkölcsi bizonyítványt állít ki.
 
-(3) A hatósági erkölcsi bizonyítvány iránti kérelemnek tartalmaznia kell az igazolás alanyának a 69. § (2) bekezdés a) pontjában meghatározott adatait, valamint azt a címet, amelyre a hatósági erkölcsi bizonyítvány kézbesítését kéri. A kérelemből mellőzhető annak megjelölése, hogy a hatósági erkölcsi bizonyítványt az igazolás alanya mely szervnél vagy milyen eljárásban kívánja felhasználni.
+(3) A hatósági erkölcsi bizonyítványban igazolható tény, hogy a kérelmező
 
-75. § (1) A hatósági erkölcsi bizonyítvány tartalmazza az igazolás alanyának a 69. § (2) bekezdés a) pontjában meghatározott adatait, kiállításának helyét és időpontját, a kiállító hatóság megnevezését, bélyegzőlenyomatát, valamint a kiadmányozásra jogosult aláírását. A hatósági erkölcsi bizonyítványon a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető, ha az aláírás és a bélyegzőlenyomat hitelességét a hatáskör gyakorlója egyedi döntésével hitelesnek ismerte el.
+- a) a kérelemben megjelölt törvényben meghatározott feltételeknek megfelel,
+- b) büntetlen előéletű,
+- c) nem áll közügyektől eltiltás hatálya alatt,
+- d) nem áll foglalkozástól eltiltás hatálya alatt, vagy
+- e) mely foglalkozástól eltiltás hatálya alatt áll.
 
-(2) A hatósági erkölcsi bizonyítvány a kérelemnek megfelelően a 72. § (2) bekezdés a), b), c) vagy d) pontjában meghatározott adatokat tartalmazhatja.
+(4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 
-(3) A hatósági erkölcsi bizonyítványt az adattartalmának megfelelő típusú közokiratként, papír alapon, biztonsági okmányként kell kiadni.
+(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
-(4) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(6) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-76. § (1) A hatósági erkölcsi bizonyítvány adatainak kijavítása kicseréléssel történik. A hibás bizonyítványt be kell vonni.
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon vagy ügyfélkapun keresztül egyedi informatikai alkalmazás igénybevételével, elektronikus úton kell benyújtani.
 
-(2) A hatósági erkölcsi bizonyítvány kiegészítésének nincs helye.
+(2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
+
+- a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
+- b) a kérelmező belföldi kézbesítési címét,
+- c) ha a kérelmező a hatósági erkölcsi bizonyítvány továbbítását meghatározott címzett részére kéri, az adattovábbítás címzettjének belföldi kézbesítési címét,
+- d) a 71. § (3) bekezdés a)–e) pontjában meghatározott azon tényt, amelynek igazolását a kérelmező hatósági erkölcsi bizonyítványban kéri,
+- e) ha a kérelmező a 71. § (3) bekezdés a) pontjában meghatározott tény igazolását kéri, az igazolandó feltételeket meghatározó törvényi rendelkezés megjelölését,
+- f) ha a kérelmező a hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet papír alapon nyújtja be, a kérelmező saját kezű aláírását, valamint
+- g) az igazgatási szolgáltatási díj megfizetésének igazolását.
+
+73. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítását megtagadja, ha a 71. § (3) bekezdés a)–e) pontjában meghatározott tények a bűnügyi nyilvántartási rendszer adatai alapján nem igazolhatóak.
+
+(2) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a bűnügyi nyilvántartási rendszerben kezelt adatokra tekintettel megállapítja, hogy az adatok az érdemi döntés meghozatalához szükséges információkat nem vagy nem teljes körűen, illetve ellentmondásosan tartalmazzák, a tényállás tisztázása érdekében az ügyintézési határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
+
+(3) Ha a bűnügyi nyilvántartó szerv a (2) bekezdés alapján meghosszabbított ügyintézési határidő alatt a megalapozott döntéshozatalhoz szükséges információkat hatáskörében megszerezni nem tudja, az eljárását legfeljebb hat hónapra felfüggeszti és az erről szóló döntésében a kérelmezőt a rendelkezésére álló adatok közlésére hívja fel.
+
+(4) A kérelmező a (3) bekezdésben meghatározott esetben az adatközlési kötelezettségét kizárólag eredeti, hiteles irat formájában teljesítheti, ezen adatok tekintetében nyilatkozatot nem tehet, nyilatkozata a döntéshozatal során nem vehető figyelembe.
+
+(5) Ha a kérelmező a (3) bekezdés szerinti felhívásnak az eljárás felfüggesztésének időtartama alatt nem tesz eleget, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást megszünteti.
+
+74. § (1) A hatósági erkölcsi bizonyítvány tartalmazza
+
+- a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
+- b) a kérelmező által igazolni kért – a 71. § (3) bekezdés a)–e) pontjában meghatározott – tényt,
+- c) a hatósági erkölcsi bizonyítvány számát,
+- d) a hatósági erkölcsi bizonyítványt kiállító hatóság megnevezését, bélyegzőlenyomatát,
+- e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
+- f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
+
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival egyező módon határozza meg.
+
+(3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
+
+(4) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt – a 75. § (4) bekezdés a) pontjában foglaltak kivételével – papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki.
+
+(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványról másolatot vagy kivonatot nem készíthet.
+
+(6) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
+
+(7) A hatósági erkölcsi bizonyítvány kiegészítésének nincs helye.
+
+(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, amely azt személyesen vagy jogi képviselője útján gyakorolhatja.
+
+75. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet külföldön kizárólag Magyarország diplomáciai vagy konzuli képviseletén, személyesen lehet benyújtani (a továbbiakban: külföldi kérelem).
+
+(2) Ha a kérelmezőnek az (1) bekezdés szerinti személyes megjelenése aránytalan nehézséget okoz és a kérelmező személyazonossága egyéb módon is kétséget kizáróan igazolható, a hivatásos konzuli tisztviselő mérlegelheti a hatósági erkölcsi bizonyítvány iránti kérelem postai úton történő elfogadását. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi szerződés eltérő rendelkezése hiányában – akkor fogadható el, ha a diplomáciai felülhitelesítésének feltételei fennállnak.
+
+(3) A külföldi kérelem a 72. § (2) bekezdés a), d), e), és f) pontjában, valamint – a (4) bekezdés b) pontjában meghatározott kérelem esetén – a 72. § (2) bekezdés c) pontjában foglalt adatokat tartalmazza.
+
+(4) Külföldi kérelem előterjesztése esetén a hatósági erkölcsi bizonyítványt a bűnügyi nyilvántartó szerv
+
+- a) elektronikus közokiratként állítja ki és a kérelmező vagy meghatalmazottja részére Magyarország diplomáciai vagy konzuli képviselete útján kézbesíti, vagy
+- b) a kérelmező erre irányuló kérelme esetén a 74. § (4) bekezdésben meghatározott módon állítja ki, és az általa megadott belföldi kézbesítési címre kézbesíti.
+
+(5) A (4) bekezdés a) pontjában meghatározott módon kiállított hatósági erkölcsi bizonyítványt minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni.
+
+(6) A hivatásos konzuli tisztviselő az elektronikus közokiratként kiállított hatósági erkölcsi bizonyítványról papír alapú hiteles másolatot állít ki. A konzuli tisztviselő hitelesítésével így kiállított okirat a konzuli tisztviselő működése szerinti diplomáciai vagy konzuli képviselet konzuli kerületében hitelesen és teljeskörűen igazolja a benne foglalt adattartalmat.
+
+(7) A hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjon felül a kérelmezőnek a konzuli tisztviselő eljárásban való közreműködéséért, illetve az elektronikus úton továbbított bizonyítványról történő hiteles másolat kiállításáért jogszabályban meghatározott konzuli díjat kell fizetnie.
+
+75/A. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi ideje alatt, elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével, tájékoztatást ad az általa kiállított hatósági erkölcsi bizonyítvány
+
+- a) kiállításának tényéről,
+- b) érvényességéről, valamint
+- c) visszavonásáról.
+
+(2) A tájékoztatásra irányuló kizárólag elektronikus felületen keresztül, egyedi informatikai alkalmazás igénybevételével benyújtható kérelemben a 74. § (1) bekezdés a)–c) és e) pontjában meghatározott minden adatot fel kell tüntetni.
+
+### Automatikus adattovábbítás a külföldre utazási korlátozás hatálya alatt állók nyilvántartásából
+
+76. § (1) Ha az érintett személyről a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában a 30/C. § l) pontjában szereplő adat szerepel, a bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kezelt adatnak a 30/E. § szerinti törlését megelőzően a külföldre utazási korlátozásra vonatkozó bejegyzés útiokmány-nyilvántartásból történő törlése céljából az útlevélhatóságnak továbbítja:
+
+- a) az érintett személyazonosító adatai közül a 4. § (2) bekezdés a) pont aa)–ae) és ag–ah) alpontjában meghatározott adatokat, valamint
+- b) a 30/C. § b), c), d), e) és f) pontjában, i) pont ia), ib) és ic) alpontjában, valamint l) pontjában meghatározott adatokat.
+
+(2) Az útlevélhatóság az automatikus adattovábbítás során megkapott adatokat a külföldre utazási korlátozásra vonatkozó bejegyzés útiokmány-nyilvántartásból történő törlése céljából a törlés bejegyzéséig kezelheti és ezt követően azon adatokat, amelyek a külföldre utazásról szóló 1998. évi XII. törvény 24. § j) pontja alapján az útiokmány-nyilvántartásban nem kezelhetőek, haladéktalanul törli.
 
 ### V/A. Fejezet — ADATTOVÁBBÍTÁS AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL
 
@@ -1074,7 +1187,7 @@ erre feljogosított tagja jogosult.
 96. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 - a) a bűnügyi nyilvántartó szervet,
-- b) a szakértői nyilvántartó szervet.
+- b) a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -1089,12 +1202,7 @@ rendeletben állapítsa meg.
 - a) a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjét,
 - b) a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjét.
 
-(4) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-
-- a) a bűnügyi nyilvántartásokból a kérelmező saját adatairól történő adattovábbítási eljárásért,
-- b) a hatósági erkölcsi bizonyítvány kiállítása iránti kérelem teljesítésére irányuló eljárásért
-
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének szabályait rendeletben állapítsa meg.
 
 ### Hatálybalépés
 
@@ -1111,7 +1219,21 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint meg
 - e) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat (2009. szeptember 21.),
 - f) a Tanács 2008/675/IB kerethatározata az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről.
 
-#### 99. §
+99. § (1) A bűnügyi nyilvántartó szerv 2013. január 10-ig a külföldre utazási korlátozás hatálya alatt állók nyilvántartásába
+
+- a) a bűntettesek nyilvántartásából,
+- b) a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából és
+- c) a kényszerintézkedés hatálya alatt állók nyilvántartásából átveszi azon személyeknek az átvétel időpontjában az a)–c) pontokban meghatározott nyilvántartásokban kezelt, a 30/C. § b)–k) pontjában meghatározott adatait, akiknek az adatait a 30/B. § alapján a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában is nyilván kell tartani, valamint ezen adatok tekintetében létrehozza a kapcsolati kódot.
+
+(2) Az útlevélhatóság 2013. január 11. és 20. között a 68. § (9) bekezdése alapján közvetlen hozzáféréssel átveszi a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kezelt adatokat és összeveti azokat a külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 24. §-a alapján vezetett útiokmány-nyilvántartással.
+
+(3) Ha az érintett
+
+- a) az átvételkor az útiokmány-nyilvántartásban szerepel, de rá vonatkozóan az Utv. 24. § i) pontjában meghatározott adat nincs nyilvántartva, akkor az útlevélhatóság az átvett adatokat az útiokmány-nyilvántartásba bejegyzi,
+- b) az átvételkor az útiokmány-nyilvántartásban szerepel és rá vonatkozóan az Utv. 24. § i) pontjában meghatározott adat szerepel az útiokmány-nyilvántartásban, de az nem egyezik meg a külföldre utazási korlátozás hatálya alatt állók nyilvántartásából átvett adatokkal, akkor a külföldre utazási korlátozással kapcsolatos adatokat az útiokmány-nyilvántartásba az átvett adatoknak megfelelően jegyzi be,
+- c) az átvételkor az útiokmány-nyilvántartásban nem szerepel, akkor az átvett adatokat haladéktalanul törli.
+
+(4) Az útiokmány-nyilvántartásnak a (2)–(3) bekezdés szerint megállapított adattartalma alapján az útlevélhatóság a bűnügyi nyilvántartó szerv részére továbbítja a 30/C. § l) pontja alapján a külföldre utazási korlátozás hatálya alatt állók nyilvántartásában kezelendő adatot.
 
 ### Módosuló jogszabályok
 

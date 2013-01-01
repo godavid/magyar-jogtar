@@ -31,7 +31,7 @@ A nemzedék, amelynek megadatott, hogy a történelmet tagoló évezredek egyik�
 
 (3) A Testület a (2) bekezdésben említett feladatait az érintett tudományágakat képviselő szakértők bevonásával látja el.
 
-5. § (1) A testület tagja a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke, Kúria elnöke és a Magyar Tudományos Akadémia elnöke. A Testület elnöke a köztársasági elnök. A Testület elnökének akadályoztatása esetén az elnöki feladatokat a Testület korelnöke látja el.
+5. § (1) A Testület tagja a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke, a Kúria elnöke, a Magyar Tudományos Akadémia elnöke és a Magyar Művészeti Akadémia elnöke. A Testület elnöke a köztársasági elnök. A Testület elnökének akadályoztatása esetén az elnöki feladatokat a Testület korelnöke látja el.
 
 (2) A Testület szükség szerint, de legalább évente egyszer ülésezik. A Testület ülését az elnök hívja össze. Az ülés akkor határozatképes, ha a Testület legalább három tagja jelen van. A Testület a döntéseit egyszerű többséggel hozza.
 

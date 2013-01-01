@@ -27,7 +27,7 @@ az egyes közjegyzői nemperes eljárásokról
 - a) a területi kamara vagy az országos kamara elnökének döntése szerint a kizárási ok nem áll fenn, vagy
 - b) a kizárási okot nem a közjegyző jelentette be, és a kizárásához a közjegyző nem járult hozzá,
 
-a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes helyi bíróság nemperes eljárásban határoz.
+a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett közjegyző székhelye szerint illetékes járásbíróság nemperes eljárásban határoz.
 
 (5) A (4) bekezdés a) pontja szerinti esetben a területi vagy az országos kamara elnöke a döntését – a kizárási ügyben keletkezett iratokkal együtt – megküldi a kizárásról való döntés végett a bíróságnak.
 
@@ -127,7 +127,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 ### A közjegyző határozata
 
-13. § (1) A közjegyzőnek az eljárás során hozott határozata (a továbbiakban: határozat) a jogorvoslat szempontjából a helyi bíróság végzésével azonos hatályú.
+13. § (1) A közjegyzőnek az eljárás során hozott határozata (a továbbiakban: határozat) a jogorvoslat szempontjából a járásbíróság végzésével azonos hatályú.
 
 (2) A határozat elleni fellebbezést a határozatot hozó közjegyzőnél kell előterjeszteni és a törvényszékhez kell címezni.
 

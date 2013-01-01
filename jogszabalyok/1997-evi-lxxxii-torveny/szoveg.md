@@ -1712,13 +1712,13 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 ### Az Alap szervezete
 
-94. § (1) Az Alapot héttagú igazgatóság irányítja.
+94. § (1) Az Alapot öttagú igazgatóság irányítja.
 
 (2) Az igazgatóság tagja:
 
 - a) az Alap ügyvezető igazgatója
 - b) a Pénztárak Szövetsége által delegált két fő, vagy, ha több szövetség működik, általuk közösen delegált két fő,
-- c) az Alap tagjaitól független szakemberek közül a Felügyelet javaslata alapján a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter által kinevezett négy személy.
+- c) az Alap tagjaitól független szakemberek közül a Felügyelet javaslata alapján a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter által kinevezett két személy.
 
 (3) Az igazgatósági tagsági kinevezés vagy jelölés 3 évre szól.
 
@@ -1732,13 +1732,13 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - d) a tag halálával,
 - e) a tisztségről történő lemondással.
 
-(6) Az igazgatóság a tagjai közül elnököt választ.
+(6) Az igazgatóság elnöke az igazgatóság tagjai közül a Felügyelet javaslata alapján a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter által kinevezett személy.
 
 (7) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére az Alap szabályzatában meghatározott, jelentősebb összegű kifizetési kötelezettséggel járó helyzet állott elő, vagy annak bekövetkezése várható, illetőleg, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
 (8) A Felügyelet képviselője és az Alap ügyvezető igazgatója az igazgatóság ülésein tanácskozási joggal vesz részt.
 
-(9) Az igazgatóság akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt. Az Alap által történő kötelezettségvállaláshoz az igazgatóság legalább négy tagjának igenlő szavazata szükséges.
+(9) Az igazgatóság akkor határozatképes, ha az ülésen legalább három tag jelen van. Az igazgatóság a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 94/A. § (1) Az igazgatóság tagjának delegált vagy javasolt személynek azt, hogy a 94. § (4) bekezdésben meghatározott feltételek alapján nincs kizárva az igazgatósági tagsági tisztség betöltéséből,
 

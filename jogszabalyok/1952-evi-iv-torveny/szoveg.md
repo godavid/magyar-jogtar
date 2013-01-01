@@ -387,9 +387,9 @@ Csjt. 46. § Az örökbefogadás célja az, hogy az örökbefogadó, valamint an
 
 #### 2. Az örökbefogadás feltételei
 
-Csjt. 47. § (1) Örökbefogadó csak az a teljesen cselekvőképes, nagykorú személy lehet, aki – a külön jogszabályban meghatározott – örökbefogadás előtti tanácsadáson és felkészítő tanfolyamon eredménnyel részt vett, és személyisége, valamint körülményei alapján – a gyámhivatal örökbefogadás előtti eljárása során hozott határozata értelmében – alkalmas a gyermek örökbefogadására, továbbá a gyermeknél legalább 16, legfeljebb 45 évvel idősebb. A rokoni, illetve a házastársi örökbefogadás esetén a korkülönbségtől, illetve a felkészítő tanfolyam elvégzésétől el kell tekinteni.
+Csjt. 47. § (1) Örökbefogadó csak az a teljesen cselekvőképes, nagykorú személy lehet, aki – a külön jogszabályban meghatározott – örökbefogadás előtti tanácsadáson és felkészítő tanfolyamon eredménnyel részt vett, és személyisége, valamint körülményei alapján – a gyámhatóság örökbefogadás előtti eljárása során hozott határozata értelmében – alkalmas a gyermek örökbefogadására, továbbá a gyermeknél legalább 16, legfeljebb 45 évvel idősebb. A rokoni, illetve a házastársi örökbefogadás esetén a korkülönbségtől, illetve a felkészítő tanfolyam elvégzésétől el kell tekinteni.
 
-(2) A gyámhivatal a rokonok, a szülő házastársa, illetve a gyermeket a szülő hozzájárulásával legalább egy éve folyamatosan a saját háztartásában nevelő örökbe fogadni szándékozó személy, továbbá a külföldi állampolgárságú örökbe fogadni szándékozó személy (1) bekezdésben meghatározott alkalmasságát az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
+(2) A gyámhatóság a rokonok, a szülő házastársa, illetve a gyermeket a szülő hozzájárulásával legalább egy éve folyamatosan a saját háztartásában nevelő örökbe fogadni szándékozó személy, továbbá a külföldi állampolgárságú örökbe fogadni szándékozó személy (1) bekezdésben meghatározott alkalmasságát az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
 
 (3) Nem fogadhat örökbe az, aki a szülői felügyelet megszüntetését vagy a közügyektől való eltiltást kimondó jogerős bírósági ítélet hatálya alatt áll.
 
@@ -401,7 +401,7 @@ Csjt. 48. § (1) Az örökbefogadást a gyámhatóság engedélyezi.
 
 (2) Az engedély megadásához a felek egyetértő kérelmét tartalmazó nyilatkozat, továbbá a gyermek szüleinek, valamint a házasságban élő örökbefogadó házastársának hozzájárulása szükséges. A szülő a hozzájáruló nyilatkozatát – a (3) bekezdésben foglalt kivétellel – nem vonhatja vissza, és erre őt figyelmeztetni kell. Az érdekeltek hozzájárulását követően az örökbe fogadni szándékozó személy a gyermeket legalább egy hónapig gondozza. Az örökbefogadás csak ezen gondozást követően engedélyezhető.
 
-(3) Az örökbefogadáshoz a szülő úgy is megadhatja hozzájárulását, hogy az örökbefogadó személyét és személyi adatait nem ismeri. A nyilatkozattételre a gyermek születése előtt is sor kerülhet. A szülő hozzájáruló nyilatkozatát a gyermek hathetes korának betöltéséig visszavonhatja és erre őt figyelmeztetni kell. A szülő felügyeleti joga, amennyiben nyilatkozata hathetesnél idősebb gyermekre vonatkozik a nyilatkozattételkor, a hathetesnél fiatalabb gyermekre tett nyilatkozat esetén pedig a gyermek hathetes korában szűnik meg. A szülői felügyeleti jog megszűnését a gyámhivatal határozata állapítja meg.
+(3) Az örökbefogadáshoz a szülő úgy is megadhatja hozzájárulását, hogy az örökbefogadó személyét és személyi adatait nem ismeri. A nyilatkozattételre a gyermek születése előtt is sor kerülhet. A szülő hozzájáruló nyilatkozatát a gyermek hathetes korának betöltéséig visszavonhatja és erre őt figyelmeztetni kell. A szülő felügyeleti joga, amennyiben nyilatkozata hathetesnél idősebb gyermekre vonatkozik a nyilatkozattételkor, a hathetesnél fiatalabb gyermekre tett nyilatkozat esetén pedig a gyermek hathetes korában szűnik meg. A szülői felügyeleti jog megszűnését a gyámhatóság határozata állapítja meg.
 
 (4) Ha a gyermek a hatodik életévét betöltötte, vagy egészségileg károsodott, a (3) bekezdés szerinti hozzájáruló nyilatkozat érvényességéhez a gyámhatóság jóváhagyása szükséges.
 
@@ -415,18 +415,18 @@ Csjt. 48. § (1) Az örökbefogadást a gyámhatóság engedélyezi.
 
 (6) Az örökbefogadási eljárás a (3)–(4) bekezdésben, valamint az (5) bekezdés a)–c) pontjában meghatározott esetben titkos. A szülő az örökbefogadásról értesítést nem kap, és az örökbefogadásról hozott határozatot sem fellebbezéssel, sem egyéb módon nem támadhatja meg.
 
-Csjt. 48/A. § (1) A gyámhivatal az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja, ha a szülő gyermekével önhibájából egy éve nem tart rendszeres kapcsolatot, életvitelén, körülményein nem változtat, és emiatt az átmeneti nevelés nem szüntethető meg. Erre a jogkövetkezményre a szülőt az átmeneti nevelést elrendelő határozatban figyelmeztetni kell.
+Csjt. 48/A. § (1) A gyámhatóság az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja, ha a szülő gyermekével önhibájából egy éve nem tart rendszeres kapcsolatot, életvitelén, körülményein nem változtat, és emiatt az átmeneti nevelés nem szüntethető meg. Erre a jogkövetkezményre a szülőt az átmeneti nevelést elrendelő határozatban figyelmeztetni kell.
 
-(2) A gyámhivatal az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja abban az esetben is, ha
+(2) A gyámhatóság az átmeneti nevelésbe vett gyermeket örökbefogadhatónak nyilvánítja abban az esetben is, ha
 
 - a) a szülő lakó- és tartózkodási helyét az új lakó- és tartózkodási helye hátrahagyása nélkül megváltoztatja, melynek felderítésére irányuló intézkedések fél éven belül nem vezetnek eredményre, vagy
 - b) a szülő fél éven át gyermekével semmilyen formában nem tart kapcsolatot.
 
-(3) A gyámhivatal a gyermek örökbefogadása érdekében az örökbefogadhatónak nyilvánítással egyidejűleg a szülő kapcsolattartási jogát is korlátozhatja, vagy szüneteltetheti.
+(3) A gyámhatóság a gyermek örökbefogadása érdekében az örökbefogadhatónak nyilvánítással egyidejűleg a szülő kapcsolattartási jogát is korlátozhatja, vagy szüneteltetheti.
 
 (4) Ha a kiskorú örökbefogadására nem került sor, és utóbb a gyámhatóság az intézeti nevelést megszünteti, az örökbefogadhatónak nyilvánító határozat hatályát veszti.
 
-Csjt. 49. § (1) A gyámhivatal – az örökbefogadás céljának megfelelően – a gyermek érdekében elsősorban a házasságban élő örökbefogadók által történő örökbefogadást engedélyezi.
+Csjt. 49. § (1) A gyámhatóság – az örökbefogadás céljának megfelelően – a gyermek érdekében elsősorban a házasságban élő örökbefogadók által történő örökbefogadást engedélyezi.
 
 (2) Az örökbefogadást az előző rendelkezésekben megszabott feltételek esetében sem lehet engedélyezni, ha az a kiskorú érdekeivel ellentétben áll, vagy a közérdeket egyébként sérti, illetve, ha akár a felek, akár az eljárásban egyéb módon közreműködő személyek vagy szervezetek részére haszonszerzéssel jár.
 
@@ -460,13 +460,36 @@ Csjt. 53. § (1) Az örökbefogadott gyermek az örökbefogadó családi nevét 
 
 (6) Ha a születési anyakönyvbe – az örökbefogadók kifejezett kérésére – az örökbefogadásnak csak a tényét jegyezték be, az örökbefogadó szülők halála vagy ismeretlen helyen való tartózkodása esetén az örökbe fogadott törvényes képviselője, illetőleg a nagykorú örökbefogadott bármikor kérheti, hogy az örökbefogadó szülőket vér szerinti szülőkként jegyezzék be.
 
-Csjt. 53/A. § (1) Az örökbefogadott tájékoztatást kérhet a gyámhivataltól vér szerinti szülőjének adatairól. Erről az örökbefogadási eljárás során a feleket tájékoztatni kell.
+#### 3/A. A származás megismeréséhez fűződő jog
 
-(2) A tájékoztatás megadásához a vér szerinti szülő meghallgatása, továbbá, ha az örökbefogadott még kiskorú, az örökbefogadó vagy más törvényes képviselő meghallgatása is szükséges.
+Csjt. 53/A. § (1) Az örökbefogadott e törvényben meghatározottak szerint jogosult származásának megismerésére. A tizennegyedik életévét betöltött örökbefogadott gyermek a kérelmet törvényes képviselője hozzájárulása nélkül is előterjesztheti. Erről az örökbefogadási eljárás során a feleket tájékoztatni kell.
 
-(3) Nincs szükség sem a vér szerinti szülő, sem az örökbefogadó vagy más törvényes képviselő meghallgatására, ha cselekvőképtelen, ismeretlen helyen távol van, vagy meghallgatása elháríthatatlan akadályba ütközik.
+(2) A gyámhatóság a származás megismerése érdekében
 
-(4) A vér szerinti szülő adatairól való tájékoztatást az előző rendelkezésekben meghatározott feltételek esetén sem lehet engedélyezni, ha a kiskorú örökbefogadott érdekeivel ellentétben áll, különösen, ha a szülő felügyeleti jogát a bíróság a 88. § (1) bekezdésének a) vagy c) pontja alapján szüntette meg.
+- a) kérelemre tájékoztatást ad arról, hogy a kérelmezőt örökbefogadták-e, él-e a vér szerinti szülője, és a felderíthető adatok szerint van-e testvére, féltestvére,
+- b) a tizennegyedik életévét betöltött örökbefogadott kérelmére tájékoztatást adhat a kérelmező vér szerinti szülőjének, testvérének, féltestvérének természetes személyazonosító adatairól.
+
+(3) A (2) bekezdés b) pontja szerinti adatok megadásához a vér szerinti szülő, valamint a testvér, féltestvér meghallgatása szükséges. Ha az örökbefogadott kiskorú, az örökbefogadót vagy más törvényes képviselőt is meg kell hallgatni. A kiskorú testvér és féltestvér meghallgatásához törvényes képviselőjének előzetes hozzájárulása szükséges. Ha a vér szerinti szülő cselekvőképtelen vagy korlátozottan cselekvőképes, törvényes képviselőjének meghallgatása is szükséges.
+
+(4) Nincs szükség a vér szerinti szülő, a testvér, a féltestvér, az örökbefogadó vagy más törvényes képviselő meghallgatására, ha ismeretlen helyen távol van vagy meghallgatása elháríthatatlan akadályba ütközik.
+
+(5) A vér szerinti szülő, a testvér, illetve a féltestvér természetes személyazonosító adatai az örökbefogadottal nem közölhetők, ha
+
+- a) a vér szerinti szülő, a testvér, a féltestvér, az örökbefogadó, illetve más törvényes képviselő meghallgatása a (4) bekezdésben megjelölt okokból nem volt lehetséges,
+- b) a vér szerinti szülő, a testvér, illetve a féltestvér úgy nyilatkozik, hogy a természetes személyazonosító adatai nem közölhetők, vagy
+- c) a vér szerinti szülő felügyeleti jogának a 88. § (1) bekezdés a) vagy c) pontja szerinti megszüntetésére tekintettel az a kiskorú örökbefogadott érdekeivel ellentétes.
+
+(6) Ha a vér szerinti szülő a (2) bekezdés szerinti kérelem előterjesztésének időpontjában már nem él, természetes személyazonosító adatai az örökbefogadott gyermekkel közölhetőek, kivéve, ha korábbi eljárás során már úgy nyilatkozott, hogy adatai közléséhez nem járul hozzá.
+
+(7) A gyámhatóság
+
+- a) a tizennegyedik életévét be nem töltött örökbefogadott gyermek törvényes képviselője,
+- b) a tizennegyedik életévét betöltött örökbefogadott gyermek, illetve törvényes képviselője, vagy
+- c) a nagykorú örökbefogadott
+
+kérelmére – a vér szerinti szülőre vonatkozó természetes személyazonosító adatok közlése nélkül – tájékoztatást ad az örökbefogadott egészsége szempontjából jelentős, a vér szerinti szülőre vonatkozó – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott – egészségügyi adatokról. A tizennegyedik életévét betöltött örökbefogadott gyermek által kérelmezett egészségügyi adatokról a törvényes képviselőt is tájékoztatni kell.
+
+(8) A gyámhatóság a (7) bekezdés szerinti adatokra vonatkozóan az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől igényelhet adatszolgáltatást, az adatszolgáltatás nem tagadható meg. A gyámhatóság az adatot csak a (7) bekezdésben meghatározott célból, a tájékoztatás megtörténtéig kezelheti, azt követően az adatot meg kell semmisíteni.
 
 #### 4. Az örökbefogadás hatálytalanná válása
 
@@ -476,23 +499,25 @@ Csjt. 55. § Ha az örökbefogadás hatálytalanná válik, ezt úgy kell tekint
 
 #### 5. Az örökbefogadás megszűnése
 
-Csjt. 56. § (1) Az örökbefogadást a felek kölcsönös kérelme alapján a gyámhatóság felbonthatja.
+Csjt. 56. § (1) Az örökbefogadást a felek kölcsönös kérelme alapján a gyámhatóság felbonthatja. Ha az örökbefogadott még kiskorú, az örökbefogadás csak a kiskorú érdekében bontható fel.
 
-(2) Az örökbefogadás felbontását csak akkor lehet engedélyezni, ha az a közérdeket nem sérti, ha pedig az örökbefogadott még kiskorú, ezenfelül csak akkor, ha a felbontás a kiskorú érdekében áll. Az eljárás során a gyámhatóság az örökbefogadott vér szerinti szüleit is meghallgatja, ha ennek nincs elháríthatatlan akadálya.
+(2) Kiskorú örökbefogadott esetén a gyámhatóság az örökbefogadott vér szerinti szüleit is meghallgatja. Az eljárás során a gyámhatóság az örökbefogadott vér szerinti szüleit akkor hallgathatja meg, ha a meghallgatásnak nincs elháríthatatlan akadálya.
 
-(3) A felbontás kihat az örökbefogadóra, annak rokonaira, továbbá az örökbefogadottra és annak leszármazóira is.
+(3) A felbontás kihat az örökbefogadóra, annak rokonaira, továbbá az örökbefogadottra és annak leszármazóira is. Az örökbefogadás felbontása mindenkivel szemben hatályos. Az örökbefogadás felbontása esetén a vér szerinti szülők szülői felügyeleti joga nem áll vissza.
 
 (4) Az örökbefogadás a felbontás esetében a gyámhatósági határozat jogerőre emelkedésével szűnik meg. Ha azonban bármelyik fél az eljárás folyamán meghal, az örökbefogadás joghatásai – a felbontás engedélyezése esetében – a kérelem beadásának napjára visszamenő hatállyal szűnnek meg.
 
-Csjt. 57. § (1) Az örökbefogadást a bíróság felbontja, ha akár az örökbefogadó, akár az örökbefogadott olyan magatartást tanúsított, amely miatt az örökbefogadás fenntartása a másik félre elviselhetetlenné vált, vagy ha az örökbefogadás célját és társadalmi rendeltetését nem tölti be.
+Csjt. 57. § (1) Az örökbefogadást a bíróság egyoldalú kérelemre felbontja, ha akár az örökbefogadó, akár az örökbefogadott olyan magatartást tanúsított, amely miatt az örökbefogadás fenntartása a másik félre elviselhetetlenné vált. Ha az örökbefogadott kiskorú, az örökbefogadás az örökbefogadó kérelmére kivételesen indokolt esetben bontható fel.
 
 (2) Az örökbefogadó halála után az örökbefogadást annak érdekében is fel lehet bontani, hogy az örökbefogadott vér szerinti családi jogállását visszanyerje.
 
 (3) Az örökbefogadás bírósági felbontását bármelyik fél kérheti. Kiskorú örökbefogadott érdekében az örökbefogadás bírósági felbontása iránt a gyámhatóság és az ügyész is indíthat pert. Ha az a fél, aki ellen a pert indítani kellene, nem él, azt a bíróság által kirendelt ügygondnok ellen kell megindítani.
 
-(4) Az örökbefogadás a felbontó ítélet jogerőre emelkedésének napján szűnik meg. Ha azonban bármelyik fél az eljárás folyamán meghal, az örökbefogadás joghatásai – felbontás esetében – a keresetlevél beadásának napjára visszamenő hatállyal szűnnek meg.
+(4) Az eljárás során a bíróság a kiskorú örökbefogadott vér szerinti szüleit akkor hallgathatja meg, ha a meghallgatásnak nincs elháríthatatlan akadálya.
 
-(5) A felbontó ítélet kihat az örökbefogadóra, annak rokonaira, továbbá az örökbefogadottra és annak leszármazóira. Az örökbefogadást felbontó ítélet mindenkivel szemben hatályos.
+(5) Az örökbefogadás a felbontó ítélet jogerőre emelkedésének napján szűnik meg. Ha azonban bármelyik fél az eljárás folyamán meghal, az örökbefogadás joghatásai – felbontás esetében – a keresetlevél beadásának napjára visszamenő hatállyal szűnnek meg.
+
+(6) A felbontó ítélet kihat az örökbefogadóra, annak rokonaira, továbbá az örökbefogadottra és annak leszármazóira. Az örökbefogadást felbontó ítélet mindenkivel szemben hatályos. Az örökbefogadás felbontása esetén a vér szerinti szülők szülői felügyeleti joga nem áll vissza.
 
 Csjt. 58. § (1) Ha az örökbefogadást csak az egyik örökbefogadó kérelmére bontották fel – a gyámhatóság, illetőleg a bíróság eltérő rendelkezése hiányában – az örökbefogadás is csak az ő, illetőleg az ő rokonai vonatkozásában szűnik meg.
 
@@ -552,7 +577,7 @@ Csjt. 66. § (1) Nem köteles mást eltartani, aki ezáltal a saját szükséges
 
 (3) A tartást a kötelezett – választása szerint – saját háztartásában természetben, vagy havonként pénzben szolgáltathatja. A jogosult kérheti, hogy a kötelezett a tartást pénzben szolgáltassa. A bíróság a felek viszonyainak figyelembevételével a tartás más módját is meghatározhatja.
 
-Csjt. 67. § (1) A kiskorút illető tartási követelés iránt a kiskorú érdekében a gyámhatóság és az ügyész, a szülőt illető tartási követelés iránt pedig a szülő érdekében a jegyző és az ügyész is indíthat pert.
+Csjt. 67. § (1) A kiskorút illető tartási követelés iránt a kiskorú érdekében a gyámhatóság és az ügyész, a szülőt illető tartási követelés iránt pedig a szülő érdekében a járási (fővárosi kerületi) hivatal és az ügyész is indíthat pert.
 
 (2) Az a tartásra kötelezett rokon, aki a jogosultat saját háztartásában tartja és gondozza, a többi kötelezett ellen saját jogán is pert indíthat.
 
@@ -729,12 +754,12 @@ Csjt. 91. § (1) Szünetel a szülői felügyelet,
 - b) ha a szülő ismeretlen helyen távol van, vagy ténylegesen akadályozva van,
 - c) ha a bíróság a gyermeket harmadik személynél helyezte el,
 - d) ha a szülő hathetes életkoránál fiatalabb gyermeke ismeretlen személy általi örökbefogadásához járult hozzá,
-- e) ha a gyermeket a gyámhivatal átmeneti nevelésbe vette,
-- f) ha a gyámhivatal a gyermek családba fogadásához hozzájárult,
+- e) ha a gyermeket a gyámhatóság átmeneti nevelésbe vette,
+- f) ha a gyámhatóság a gyermek családba fogadásához hozzájárult,
 - g) ha a szülővel szemben a bíróság a gyermek sérelmére elkövetett cselekmény miatt büntetőeljárási kényszerintézkedésként távoltartást rendelt el, a kényszerintézkedés időtartamáig,
 - h) ha a szülővel szemben a rendőrség vagy a bíróság a gyermek, illetve a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett, külön törvényben meghatározott hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozatot, megelőző távoltartó határozatot hozott.
 
-(2) A szülői felügyelet megszüntetése, illetőleg a gyermek elhelyezése iránti per jogerős befejezéséig szünetel a szülői felügyelete annak, akinek a gyermekét a gyámhivatal ideiglenes hatállyal a különélő másik szülőnél, más hozzátartozónál vagy más személynél, illetőleg nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el.
+(2) A szülői felügyelet megszüntetése, illetőleg a gyermek elhelyezése iránti per jogerős befejezéséig szünetel a szülői felügyelete annak, akinek a gyermekét a gyámhatóság ideiglenes hatállyal a különélő másik szülőnél, más hozzátartozónál vagy más személynél, illetőleg nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el.
 
 (3) A gyermek sorsát érintő lényeges kérdésekben való döntés kivételével szünetel a szülői felügyelete annak a szülőnek, akinek gyermeke a különélő másik szülőnél van elhelyezve, de szülői felügyeleti jogát a bíróság nem szüntette meg. Nem szünetel a szülői felügyelet, ha a szülők vagy a bíróság a közös szülői felügyeletről döntött.
 
@@ -742,7 +767,7 @@ Csjt. 92. § (1) A gyermeknek joga, hogy különélő szülőjével személyes �
 
 (2) A szülőnek – kivéve, ha a külön jogszabályban meghatározott ideiglenes megelőző távoltartó határozat, megelőző távoltartó határozat, illetve ha gyermek sérelmére elkövetett cselekmény miatt a büntetőeljárásban elrendelhető távoltartás kényszerintézkedés hatálya alatt áll – joga van gyermekével kapcsolatot tartani akkor is, ha szülői felügyeleti joga szünetel.
 
-(3) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra, akinek a szülői felügyeleti jogát a bíróság megszüntette, vagy akinek szülői felügyeleti joga a 48. § (3) bekezdése alapján szűnt meg és a gyermek örökbefogadására nem került sor. Erről a szülői felügyeletet megszüntető bíróság vagy – ha a gyermeket tartós nevelésbe vették – a gyámhivatal dönt.
+(3) Kivételesen indokolt esetben, a gyermek érdekében azt a szülőt is fel lehet jogosítani a gyermekkel való kapcsolattartásra, akinek a szülői felügyeleti jogát a bíróság megszüntette, vagy akinek szülői felügyeleti joga a 48. § (3) bekezdése alapján szűnt meg és a gyermek örökbefogadására nem került sor. Erről a szülői felügyeletet megszüntető bíróság vagy – ha a gyermeket tartós nevelésbe vették – a gyámhatóság dönt.
 
 (4) A kapcsolattartásról – a szülők megegyezésének hiányában, illetőleg a szülők és a gyám közötti vita esetében – a gyámhatóság dönt. Ha házassági vagy gyermekelhelyezési per van folyamatban, a szülők megegyezésének hiányában a kapcsolattartásról a bíróság dönt. A gyámhatóság, illetőleg a házassági vagy gyermekelhelyezési perben a bíróság a felróható magatartást tanúsító szülő kapcsolattartási jogát a gyermek érdekében korlátozhatja, vagy megvonhatja, illetőleg e jog gyakorlásának szünetelését rendelheti el.
 
@@ -760,7 +785,7 @@ Csjt. 92/A. §
 
 Csjt. 93. § Az a kiskorú, aki nem áll szülői felügyelet alatt, gyámság alá tartozik.
 
-Csjt. 94. § (1) A gyámság alá tartozó kiskorú részére a gyámhivatal gyámot rendel.
+Csjt. 94. § (1) A gyámság alá tartozó kiskorú részére a gyámhatóság gyámot rendel.
 
 (2) A gyámhatóság a gyámrendelés iránt hivatalból intézkedik.
 
@@ -776,7 +801,7 @@ Csjt. 96. § (1) Nevezett gyám nemlétében a gyámhatóság elsősorban a gyá
 
 (2) Azt a személyt,
 
-- a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
+- a) akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
 - b) akinél a bíróság a gyermeket elhelyezte [72/A. § (1) bek.],
 - c) aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta a gyermek gyámjául, családbafogadó gyámjául kell rendelni.
 
@@ -786,25 +811,25 @@ Csjt. 97. § (1) A gyámhatóság rendszerint minden kiskorú részére külön 
 
 (2) Testvérek részére közös gyámot kell rendelni, ettől a szabálytól azonban bármelyik kiskorú érdekében el lehet térni.
 
-(3) Ha törvény másként nem rendelkezik, a gyámhivatal egy vagy több gyermek gyámjává a közigazgatási szerv részéről erre kijelölt személyt (hivatásos gyámot) is kirendelheti.
+(3) Ha törvény másként nem rendelkezik, a gyámhatóság egy vagy több gyermek gyámjává a közigazgatási szerv részéről erre kijelölt személyt (hivatásos gyámot) is kirendelheti.
 
 Csjt. 98. § (1) Gyámság alá tartozik az a gyermek, akit átmeneti vagy tartós nevelésbe vettek, továbbá akit ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban, illetve más bentlakásos intézményben helyeztek el, és szülője ellen a szülői felügyelet megszüntetése iránt per van folyamatban [91. § (2) bek.].
 
-(2) Az (1) bekezdésben meghatározott esetben a gyámhivatal a gyermek részére gyámot rendel. Gyámul rendelhető a gyámi feladatok ellátására alkalmas
+(2) Az (1) bekezdésben meghatározott esetben a gyámhatóság a gyermek részére gyámot rendel. Gyámul rendelhető a gyámi feladatok ellátására alkalmas
 
 - a) nevelőszülő,
-- b) gyermekotthon vezetője, ahol a gyámhivatal a gyermeket elhelyezte.
+- b) gyermekotthon vezetője, ahol a gyámhatóság a gyermeket elhelyezte.
 
 (3) A (2) bekezdés a) és b) pontjai alapján kirendelt gyámra nem alkalmazhatók a 100. § (2) bekezdésének b) és c) pontjában foglaltak.
 
-(4) A gyámhivatalnak a gyermek számára hivatásos gyámot kell kirendelnie, ha
+(4) A gyámhatóságnak a gyermek számára hivatásos gyámot kell kirendelnie, ha
 
-- a) a gyámhivatal az átmeneti vagy tartós nevelésbe vett gyermeket fogyatékosok vagy pszichiátriai betegek otthonában helyezte el,
+- a) a gyámhatóság az átmeneti vagy tartós nevelésbe vett gyermeket fogyatékosok vagy pszichiátriai betegek otthonában helyezte el,
 - b) a nevelőszülő a 100. § (3) bekezdése alapján a gyámságot nem vállalja,
 - c) a 98. § (2) bekezdésében meghatározott személyek gyámul nem rendelhetők,
-- d) a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyámhivatal a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezte el.
+- d) a szülő hozzájárult gyermeke ismeretlen személy általi örökbefogadásához, és a gyámhatóság a gyermeket ideiglenesen a leendő örökbefogadó szülőnél helyezte el.
 
-(5) A gyámhivatal a (2) és (4) bekezdésben meghatározott személyek gyámul történő kirendeléséről az összes körülmények figyelembevételével, a gyermek érdekében dönt.
+(5) A gyámhatóság a (2) és (4) bekezdésben meghatározott személyek gyámul történő kirendeléséről az összes körülmények figyelembevételével, a gyermek érdekében dönt.
 
 Csjt. 99. § (1) Gyám lehet minden nagykorú személy, akivel szemben e törvényben meghatározott kizáró körülmény nem áll fenn.
 
@@ -813,7 +838,7 @@ Csjt. 99. § (1) Gyám lehet minden nagykorú személy, akivel szemben e törvé
 - a) aki gondnokság alatt áll,
 - b) aki a szülői felügyeletet megszüntető vagy a közügyektől eltiltó jogerős ítélet hatálya alatt áll,
 - c) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.
-- d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhivatal átmeneti vagy tartós nevelésbe vette,
+- d) akinek szülői felügyeleti joga azért szünetel, mert gyermekét a gyámhatóság átmeneti vagy tartós nevelésbe vette,
 - e) akinek a gyermekét örökbefogadhatónak nyilvánították.
 
 (3) Ha a szülői felügyeletet gyakorló egyik szülő azt a személyt zárja ki a gyámságból, akit a másik szülő gyámul nevezett meg, a kiskorú gyermek érdekeinek figyelembevételével a gyámhatóság dönti el, hogy melyik rendelkezés érvényesüljön.
@@ -857,18 +882,18 @@ Csjt. 106. § (1) A gyámság megszűnik, ha a gyámság alatt álló meghal, sz
 (2) A gyám tisztsége megszűnik:
 
 - a) a gyámság megszűnésével,
-- b) a gyám gyámhivatal általi felmentésével vagy elmozdításával,
+- b) a gyám gyámhatóság általi felmentésével vagy elmozdításával,
 
 Csjt. 107. § (1) A gyámhatóság a gyámot tisztségétől felmenti, ha a gyám alkalmatlan, a gyám fontos okból felmentését kéri vagy utólag keletkezik olyan akadály, amely miatt gyámságot nem viselhet.
 
-(2) A 98. § a) vagy b) pontja alapján kirendelt gyámot a gyámhivatal a tisztségéből akkor is felmenti, ha
+(2) A 98. § a) vagy b) pontja alapján kirendelt gyámot a gyámhatóság a tisztségéből akkor is felmenti, ha
 
 - a) a gyermeket máshol helyezi el,
 - b) a gyermekotthon vezetőjének vezetői beosztása megszűnt.
 
-Csjt. 108. § (1) Ha a gyám jogaival visszaél, kötelességét elhanyagolja, vagy olyan cselekményt követ el, amely miatt a feladat ellátására méltatlanná válik, a gyámhivatal a gyámot tisztségéből elmozdítja.
+Csjt. 108. § (1) Ha a gyám jogaival visszaél, kötelességét elhanyagolja, vagy olyan cselekményt követ el, amely miatt a feladat ellátására méltatlanná válik, a gyámhatóság a gyámot tisztségéből elmozdítja.
 
-(2) Ha alaposan feltételezhető, hogy a gyámot tisztségéből el kell mozdítani és a késedelem veszéllyel jár, a gyámhivatal a gyámot e tisztségéből azonnali hatállyal felfüggeszti.
+(2) Ha alaposan feltételezhető, hogy a gyámot tisztségéből el kell mozdítani és a késedelem veszéllyel jár, a gyámhatóság a gyámot e tisztségéből azonnali hatállyal felfüggeszti.
 
 #### 2. Számadás
 

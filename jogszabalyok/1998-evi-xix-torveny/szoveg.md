@@ -105,11 +105,11 @@ a büntetőeljárásról
 
 ### Az eljáró bíróságok
 
-13. § (1) Első fokon a helyi bíróság és a törvényszék jár el.
+13. § (1) Első fokon a járásbíróság és a törvényszék jár el.
 
 (2) Másodfokon jár el
 
-- a) a törvényszék a helyi bíróság hatáskörébe tartozó ügyekben,
+- a) a törvényszék a járásbíróság hatáskörébe tartozó ügyekben,
 - b) az ítélőtábla a törvényszék hatáskörébe tartozó ügyekben,
 - c) ha e törvény az ítélőtábla határozata elleni fellebbezést lehetővé teszi, a Kúria az ítélőtábla hatáskörébe tartozó ügyekben.
 
@@ -124,16 +124,16 @@ a büntetőeljárásról
 
 ### A bíróság összetétele
 
-14. § (1) A helyi bíróság
+14. § (1) A járásbíróság
 
 - a) egy hivatásos bíróból és két ülnökből álló tanácsban jár el, ha a bűncselekményre a törvény nyolc évi vagy ennél súlyosabb szabadságvesztést rendel,
 - b) ülnökök közreműködése nélkül (egyesbíróként) jár el az a) pont alá nem tartozó esetben.
 
 (2) A törvényszék mint első fokú bíróság – ha e törvény másképp nem rendelkezik – egy hivatásos bíróból és két ülnökből álló tanácsban jár el.
 
-(3) A helyi bíróság az (1) bekezdés b) pontja esetében egy hivatásos bíróból és két ülnökből álló tanácsban is eljárhat, ha megállapítja, hogy a vád tárgyává tett bűncselekmény a vádirati minősítéstől eltérően hogyan minősülhet, vagy ha az egyesbíró az ügyet a bíróság tanácsa elé utalta.
+(3) A járásbíróság az (1) bekezdés b) pontja esetében egy hivatásos bíróból és két ülnökből álló tanácsban is eljárhat, ha megállapítja, hogy a vád tárgyává tett bűncselekmény a vádirati minősítéstől eltérően hogyan minősülhet, vagy ha az egyesbíró az ügyet a bíróság tanácsa elé utalta.
 
-(4) A helyi bíróság és a törvényszék, mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
+(4) A járásbíróság és a törvényszék, mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
 
 (5) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el. A Kúria három, illetőleg ha e törvény így rendelkezik, öt hivatásos bíróból álló tanácsban jár el.
 
@@ -143,7 +143,7 @@ a büntetőeljárásról
 
 ### Az első fokú bíróság hatásköre
 
-15. § Első fokon a helyi bíróság hatáskörébe tartozik azoknak a bűncselekményeknek az elbírálása, amelyeket e törvény nem utal a törvényszék hatáskörébe.
+15. § Első fokon a járásbíróság hatáskörébe tartozik azoknak a bűncselekményeknek az elbírálása, amelyeket e törvény nem utal a törvényszék hatáskörébe.
 
 16. § (1) A törvényszék hatáskörébe tartoznak
 
@@ -170,9 +170,9 @@ a büntetőeljárásról
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés az irányadó.
 
-(5) A közveszélyokozás (Btk. 259. §), valamint a közérdekű üzem működésének megzavarása (Btk. 260. §) esetén a törvényszék székhelyén lévő helyi bíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetve a főváros területére terjed ki.
+(5) A közveszélyokozás (Btk. 259. §), valamint a közérdekű üzem működésének megzavarása (Btk. 260. §) esetén a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetve a főváros területére terjed ki.
 
-(6) Visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nukleáris létesítmény üzemeltetésével (Btk. 264/A. §), visszaélés atomenergia alkalmazásával (Btk. 264/B. §) és a gazdasági bűncselekmények (Btk. XVII. Fejezet) miatt – kivéve a számvitel rendjének megsértését (Btk. 289. §), valamint a pénzügyi bűncselekményeket (Btk. XVII. Fejezet III. Cím) – a törvényszék székhelyén lévő helyi bíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetőleg a főváros területére terjed ki.
+(6) Visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nukleáris létesítmény üzemeltetésével (Btk. 264/A. §), visszaélés atomenergia alkalmazásával (Btk. 264/B. §) és a gazdasági bűncselekmények (Btk. XVII. Fejezet) miatt – kivéve a számvitel rendjének megsértését (Btk. 289. §), valamint a pénzügyi bűncselekményeket (Btk. XVII. Fejezet III. Cím) – a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetőleg a főváros területére terjed ki.
 
 (7) Ha a terhelt különböző bíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (5)–(6) bekezdés szerint illetékes.
 
@@ -186,7 +186,7 @@ a büntetőeljárásról
 
 (2) Ha a terhelt a bűncselekményt Magyarország határain kívül követte el, és az eljárást a távollétében folytatják, az a bíróság illetékes, amelynek a területén a terhelt utoljára lakott, vagy tartózkodott.
 
-(3) Ha az (1) és (2) bekezdésben foglaltak alapján az eljárásra illetékes bíróság nem állapítható meg, a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék jár el.
+(3) Ha az (1) és (2) bekezdésben foglaltak alapján az eljárásra illetékes bíróság nem állapítható meg, a járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék jár el.
 
 ### A hatáskör és az illetékesség vizsgálata
 
@@ -198,9 +198,9 @@ a büntetőeljárásról
 
 (2) A kijelölésről
 
-- a) a törvényszék másodfokú tanácsa határoz, ha az összeütközés a területén levő helyi bíróságok között,
-- b) az ítélőtábla határoz, ha a hatásköri összeütközés a területén lévő törvényszék és helyi bíróság között, avagy az illetékességi összeütközés a területén lévő törvényszékek vagy a területén lévő különböző törvényszékekhez tartozó helyi bíróságok között,
-- c) a Kúria határoz, ha a hatásköri összeütközés a különböző ítélőtáblákhoz tartozó törvényszékek és helyi bíróságok, a törvényszék katonai tanácsa és a törvényszék más tanácsa, illetőleg más törvényszék, a törvényszék és az ítélőtábla, a Fővárosi Ítélőtábla katonai tanácsa és a Fővárosi Ítélőtábla más tanácsa, illetőleg más ítélőtábla, a Kúria és az ítélőtábla, avagy az illetékességi összeütközés az ítélőtáblák vagy különböző ítélőtáblákhoz tartozó törvényszékek, illetőleg helyi bíróságok között
+- a) a törvényszék másodfokú tanácsa határoz, ha az összeütközés a területén levő járásbíróságok között,
+- b) az ítélőtábla határoz, ha a hatásköri összeütközés a területén lévő törvényszék és járásbíróság között, avagy az illetékességi összeütközés a területén lévő törvényszékek vagy a területén lévő különböző törvényszékekhez tartozó járásbíróságok között,
+- c) a Kúria határoz, ha a hatásköri összeütközés a különböző ítélőtáblákhoz tartozó törvényszékek és járásbíróságok, a törvényszék katonai tanácsa és a törvényszék más tanácsa, illetőleg más törvényszék, a törvényszék és az ítélőtábla, a Fővárosi Ítélőtábla katonai tanácsa és a Fővárosi Ítélőtábla más tanácsa, illetőleg más ítélőtábla, a Kúria és az ítélőtábla, avagy az illetékességi összeütközés az ítélőtáblák vagy különböző ítélőtáblákhoz tartozó törvényszékek, illetőleg járásbíróságok között
 
 merült fel.
 
@@ -308,10 +308,10 @@ bírálja el.
 29. § Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
 
 - a) a közjogi tisztség betöltésén alapuló mentességet élvező személy [551. § (1) bek.], a nemzetközi jogon alapuló mentességet élvező személy [553. § (1) bek.] által elkövetett bűncselekmény, a sérelmükre elkövetett hivatalos személy elleni erőszak, a működésükkel kapcsolatban ellenük elkövetett más bűncselekmény, továbbá a nemzetközileg védett személy elleni erőszak (Btk. 232. §),
-- b) a bíró, az ügyész, a bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, az ügyészségi megbízott és a bírósági ügyintéző, az ügyészségi nyomozó, az önálló és a törvényszéki végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyző-helyettes, a rendőrség hivatásos állományú tagja ellen elkövetett emberölés, hivatalos személy ellen elkövetett emberrablás, hivatalos személy elleni erőszak, hivatalos személy ellen, hivatalos eljárása alatt elkövetett rablás [Btk. 166. § (2) bek. e) pont, Btk. 175/A. § (2) bek. c) pont, Btk. 229. §, Btk. 321. § (3) bek. d) pont, (4) bek. c)–d) pont, Btk. 321. § (5) bek. b) pont,],
+- b) a bíró, az ügyész, a bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, az ügyészségi megbízott és a bírósági ügyintéző, az ügyészségi nyomozó, az önálló és a törvényszéki végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyző-helyettes, a rendőrség és az Országgyűlési Őrség hivatásos állományú tagja ellen elkövetett emberölés, hivatalos személy ellen elkövetett emberrablás, hivatalos személy elleni erőszak, hivatalos személy ellen, hivatalos eljárása alatt elkövetett rablás [Btk. 166. § (2) bek. e) pont, Btk. 175/A. § (2) bek. c) pont, Btk. 229. §, Btk. 321. § (3) bek. d) pont, (4) bek. c)–d) pont, Btk. 321. § (5) bek. b) pont,],
 - c) a rendőrség hivatásos állományú tagjának kivételével a b) pontban felsoroltak által elkövetett bármilyen bűncselekmény, valamint az ülnöknek az igazságszolgáltatással összefüggésben elkövetett bűncselekménye,
 - d) a b) pontban felsoroltak vonatkozásában elkövetett vesztegetés [Btk. 253. § (1)–(2) bek.], a vezető beosztású vagy a fontosabb ügyekben intézkedésre hivatott más hivatalos személy által elkövetett vesztegetés [Btk. 250. § (2) bek. a) pont és (3) bek. második tétele], a vesztegetésnek a Btk. 255. §-a szerinti alakzata, a vesztegetés feljelentésének elmulasztása (Btk. 255/B. §) és a befolyással üzérkedés [Btk. 256. § (1) és (2) bek.],
-- e) a rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal, a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,
+- e) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,
 - f) az igazságszolgáltatás elleni bűncselekmények (Btk. XV. Fejezet VI. Cím) közül a hamis vád (Btk. 233–236. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238–241. §), a hamis tanúzásra felhívás (Btk. 242. §), a hatósági eljárás akadályozása (Btk. 242/A. §), a hatóság eljárásának megzavarása (Btk. 242/B. §), a mentő körülmény elhallgatása (Btk. 243. §), a hivatalos személy eljárása során elkövetett bűnpártolás [Btk. 244. § (3) bek. b) pont], az ügyvédi visszaélés (Btk. 247. §), a zugírászat (Btk. 248. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 249/B. §),
 - g) a külföldi hivatalos személy (Btk. 137. § 3. pontja) ellen elkövetett bűncselekmények, valamint a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények (Btk. XV. Fejezet VIII. Cím),
 - h) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények, valamint a nemzetközi jog szerint el nem évülő bűncselekmények.
@@ -753,6 +753,51 @@ bírálja el.
 
 (8) Ha a tanú, illetve a szakértő idézése külföldről történik, és az idézett nem tesz eleget az idézésnek, vele szemben az (1)–(5) bekezdés szerinti jogkövetkezmények nem alkalmazhatók.
 
+69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) egymással az írásbeli kapcsolatot elektronikus úton tarthatja.
+
+(2) Az (1) bekezdés alapján
+
+- a) a bíróságok,
+- b) a bíróság és
+  - ba) az ügyészség,
+  - bb) a nyomozó hatóság,
+  - bc) a büntetés-végrehajtási szervezet közötti elektronikus kapcsolattartás során a hivatalos iratok elektronikus kézbesítését a biztonságos kézbesítési szolgáltatás [70. § (1) bekezdés f) pont] útján (a továbbiakban: kézbesítési rendszer) kell végezni. A kapcsolattartó szervezet az erre szolgáló informatikai rendszer alkalmazásával biztosítja, hogy a kézbesítési rendszer útján folyamatosan lehessen kapcsolatot tartani. Az Országos Bírósági Hivatal a bíróság és más kapcsolattartó szervezet közötti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
+
+(3) A kapcsolattartó szervezetek az elektronikus kapcsolattartásra szolgáló informatikai rendszerük által támogatott dokumentumformátumokat a szervezet központi honlapján közzéteszik.
+
+(4) A kapcsolattartó szervezet a küldendő hivatalos iratot szervezeti elektronikus aláírással vagy minősített elektronikus aláírással látja el, kivéve, ha a biztonságos kézbesítési szolgáltatás más módon biztosított. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A szervezeti elektronikus aláírással ellátott hivatalos irat közokiratnak minősül.
+
+(5) A kézbesítési rendszer útján a kapcsolattartó szervezet által küldött hivatalos irat és melléklete informatikai szempontból ellenőrzésre kerül, és ha az nem felel meg a másik kapcsolattartó informatikai követelményeinek, erről a hivatalos irat kézbesítését kezdeményező közvetlenül értesítést kap. Ha a kézbesítendő hivatalos irat és melléklete az informatikai követelményeknek megfelel, erről a kézbesítést kezdeményező a kézbesítési rendszer útján értesítést kap. Ez esetben az értesítés a következő adatokat tartalmazza:
+
+- a) a feladó elnevezése,
+- b) a címzett elnevezése,
+- c) a hivatalos irat kézbesítési rendszer útján kapott érkeztetési száma,
+- d) a befogadás időpontja és
+- e) a hivatalos irat azonosítására alkalmas információ.
+
+(6) A kapcsolattartó szervezet a hozzá érkezett hivatalos iratról a feladó részére – automatizáltan – a kézbesítési rendszer útján érkeztetési igazolást küld, amely tartalmazza:
+
+- a) a hivatalos irat kézbesítési rendszer útján kapott érkeztetési számát,
+- b) a hivatalos irat kapcsolattartó általi megnevezését,
+- c) a hivatalos irat érkeztetésének időpontját – nap, óra, perc pontossággal meghatározva – és a hivatalos irat érkeztetési azonosító számát.
+
+(7) A (6) bekezdésben meghatározott érkeztetési igazolásban megjelölt időpontban a hivatalos iratot kézbesítettnek kell tekinteni. Ha a hivatalos irat papír alapon is megküldésre került, és az így megküldött hivatalos irat beérkezésének az időpontja megelőzte az elektronikus kézbesítést, akkor a hivatalos irat a papír alapú hivatalos irat beérkezésének időpontjában tekintendő kézbesítettnek.
+
+(8) A törvény vagy a bíróság által meghatározott határidőbe nem számít bele az a nap, amelynek során legalább négy órán át fennálló, a kézbesítési rendszerben, illetve a kapcsolattartó szervezet informatikai rendszerében fellépő üzemzavar akadályozta az elektronikus kapcsolattartást. Az üzemzavar idején a kapcsolattartó szervezeteket a kézbesítési rendszer útján a kézbesítés megkísérlésekor erről értesíteni kell. Üzemzavarnak kell tekinteni a tervezett leállást is. A kapcsolattartó szervezet köteles a szervezet központi honlapján legalább hetvenkét órával megelőzően közzé tenni a tervezett leállás időpontját és tartamát.
+
+69/B. § (1) Ahol e törvény elektronikus kapcsolattartást rendel vagy arra lehetőséget biztosít, az elektronikus kapcsolattartásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+(2) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet az alábbi, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
+
+- a) azonosítási szolgáltatás,
+- b) kézbesítési szolgáltatás,
+- c) elektronikus irat hiteles papír alapú irattá alakítása,
+- d) papír alapú irat átalakítása hiteles elektronikus irattá,
+- e) elektronikus iratról hiteles elektronikus másolat készítése,
+- f) elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
+- g) központi azonosítási ügynök,
+- h) összerendelési nyilvántartás.
+
 ### A kézbesítés
 
 70. § (1) A bíróság, az ügyész, illetőleg a nyomozó hatóság hivatalos iratának az érintett személy részére átadása (kézbesítés) történhet
@@ -762,7 +807,7 @@ bírálja el.
 - c) hirdetményi úton,
 - d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
 - e) nemzetközi jogsegély keretében,
-- f) külön jogszabályok szerint.
+- f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 
@@ -775,6 +820,8 @@ bírálja el.
 (6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő bíróság, ügyészség, illetőleg nyomozó hatóság, valamint – ha ilyen van – a címzett utolsó ismert belföldi lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. Az iratot a hirdetménynek a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
+
+(7a) A 69/A. § (1) bekezdése alapján létrejött elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
 
 (8) A katonának [Btk. 122. § (1) bek.] kézbesítendő iratot az elöljárója útján kell kézbesíteni. A kézbesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a katonának az iratot küldő bíróság, ügyész, illetőleg nyomozó hatóság székhelyén nincs elöljárója, és a késedelmes kézbesítés az eljárás sikerét vagy a katona jogát, illetőleg méltányolható érdekét sértené. Ha a katona szolgálati viszonya a büntetőeljárás alatt megszűnik, a kézbesítésre az általános szabályok az irányadók.
 
@@ -816,7 +863,9 @@ bírálja el.
 
 (9) Az ügy irataiban fel kell jegyezni, hogy mely iratról, kinek a részére, hány példányban készült másolat.
 
-(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki. A másolat kiadását a másolat kiadására kötelezett elektronikus adathordozón is teljesítheti.
+(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.
+
+(11) Aki az (1)–(7) vagy a (10) bekezdés alapján az eljárás során keletkezett iratról másolatot kaphat, kérheti, hogy a másolatot a bíróság, az ügyész, illetve a nyomozó hatóság elektronikus úton vagy elektronikus adathordozón adja ki. Ha a bíróságnál, az ügyésznél, illetve a nyomozó hatóságnál a kiadni kért irat elektronikus formában rendelkezésre áll, a másolatot elektronikus úton vagy elektronikus adathordozón kell kiadni. Az így kiadott másolat nem hiteles.
 
 ### A minősített adat megismerése
 
@@ -1429,7 +1478,7 @@ bírálja el.
 
 128. § (1) Az őrizetbe vétel elrendeléséről és a fogvatartás helyéről huszonnégy órán belül értesíteni kell a terhelt által megjelölt hozzátartozót; ennek hiányában a terhelt által megjelölt más személy is értesíthető.
 
-(2) A terhelt felügyelet nélkül maradó kiskorú gyermekét, illetőleg az általa gondozott más személyt gondozás céljából a hozzátartozójának, illetőleg az arra alkalmas intézménynek kell átadni. A kiskorú elhelyezéséről a gyámhatóság útján kell gondoskodni, a terhelt által gondozott más személy esetében a helyi önkormányzat jegyzőjét kell értesíteni. Intézkedni kell a terhelt felügyelet nélkül maradó vagyonának és lakásának biztonságba helyezéséről is.
+(2) A terhelt felügyelet nélkül maradó kiskorú gyermekét, illetőleg az általa gondozott más személyt gondozás céljából a hozzátartozójának, illetőleg az arra alkalmas intézménynek kell átadni. A kiskorú elhelyezéséről a gyámhatóság útján kell gondoskodni, a terhelt által gondozott más személy esetében a gyámhatóságot kell értesíteni. Intézkedni kell a terhelt felügyelet nélkül maradó vagyonának és lakásának biztonságba helyezéséről is.
 
 (3) A katona [Btk. 122. § (1) bek.] őrizetbe vételéről az elöljáróját is értesíteni kell.
 
@@ -1642,13 +1691,7 @@ indítványozhatja.
 
 ### V. CÍM — INTÉZKEDÉS A KÜLFÖLDRE UTAZÁSI TILALOM BIZTOSÍTÁSÁRA
 
-146. § (1) Az őrizetbe vétel elrendelésekor a terhelt úti okmányát el kell venni. Ha a terhelt őrizetbe vétele úgy szűnt meg, hogy vele szemben előzetes letartóztatást, ideiglenes kényszergyógykezelést, lakhelyelhagyási tilalmat vagy házi őrizetet nem rendeltek el, a terhelt úti okmányát vissza kell adni.
-
-(2) Az előzetes letartóztatás, az ideiglenes kényszergyógykezelés, a lakhelyelhagyási tilalom és a házi őrizet elrendeléséről az úti okmány visszatartása érdekében az a bíróság, ügyész, illetőleg nyomozó hatóság, amely előtt az eljárás folyik, haladéktalanul értesíti az útlevélhatóságot a külön törvényben meghatározott külföldre utazási tilalom biztosítása érdekében.
-
-(3) A (2) bekezdés szerinti kényszerintézkedések megszüntetéséről az a bíróság, ügyész, illetőleg nyomozó hatóság, amely előtt az eljárás folyik, haladéktalanul értesíti az útlevélhatóságot az úti okmány visszaadása és a külön törvényben meghatározott külföldre utazási tilalom feloldása érdekében.
-
-(4) Az (1)–(3) bekezdés rendelkezéseit külföldi terhelt esetén is alkalmazni kell, azzal, hogy a (2)–(3) bekezdés szerinti értesítést az idegenrendészeti hatóságnak kell megküldeni.
+146. §
 
 ### VI. CÍM — AZ ÓVADÉK
 
@@ -2256,7 +2299,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 - e) jogsegély iránti megkeresés külföldi hatóság általi teljesítése szükséges és további, Magyarországon elvégzendő nyomozási cselekmény már nincs,
 - f) nem magyar állampolgár által külföldön elkövetett bűncselekmény miatt a büntetőeljárás megindításához szükséges döntést kell beszerezni,
 - g) nemzetközi büntető bíróság a joghatóságába tartozó ügyben a magyar hatóságot a büntetőeljárás átadása végett megkeresi,
-- h) a kábítószer-élvező gyanúsított önként alávetette magát a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételnek, és az a büntethetőség megszűnését eredményezheti, feltéve hogy további nyomozási cselekmény elvégzése nem szükséges.
+- h) a kábítószer-élvező gyanúsított önként alávetette magát a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételnek, és az a büntethetőség megszűnését eredményezheti, feltéve hogy további nyomozási cselekmény elvégzése nem szükséges,
+- i) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor.
 
 (2) A nyomozást folytatni kell, ha a felfüggesztés oka megszűnt, illetve az (1) bekezdés g) pontja esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja.
 
@@ -2290,7 +2334,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 - f) a törvényben meghatározott egyéb büntethetőséget megszüntető ok miatt,
 - g) ha a magánindítvány, kívánat vagy feljelentés hiányzik, és az már nem pótolható,
 - h) ha a cselekményt már jogerősen elbírálták,
-- i)
+- i) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le,
 - j) és megrovást alkalmaz, ha a gyanúsított cselekménye már nem veszélyes, vagy oly csekély fokban veszélyes a társadalomra, hogy a törvény szerint alkalmazható legenyhébb büntetés kiszabása, vagy más intézkedés alkalmazása is szükségtelen.
 
 (2) Az (1) bekezdés a), b), e), g) és h) pontjában meghatározott esetekben, továbbá, ha a büntethetőséget a gyermekkor zárja ki [Btk. 22. § a) pont], a nyomozás megszüntetésére a nyomozó hatóság is jogosult. A nyomozást megszüntető határozatot a nyomozó hatóság az ügyésznek haladéktalanul megküldi.
@@ -2555,6 +2599,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 
+(2b) A vádirat benyújtása előtt az európai elfogatóparancsot a nyomozási bíró bocsátja ki.
+
 (3) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a különösen védett tanút és azt a tanút, aki az életét közvetlenül veszélyeztető állapotban van. A tanú kihallgatásának indítványozását a tanú és az érdekében eljáró ügyvéd az ügyésznél kezdeményezheti. A nyomozási bíró ismételten kihallgatja a különösen védett tanút, ha ezt a tárgyalás előkészítése vagy a tárgyalás során a bíróság elrendeli [268. § (3) bek., 305. § (3) bek.].
 
 (4) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a tizennegyedik életévét be nem töltött tanút, ha megalapozottan feltehető, hogy a tárgyaláson történő kihallgatása a fejlődését károsan befolyásolná. A tanú kihallgatásának indítványozását a törvényes képviselő, a gondozó és a tanú érdekében eljáró ügyvéd az ügyésznél kezdeményezheti.
@@ -2565,9 +2611,9 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 ### Illetékesség
 
-208. § (1) A nyomozási bíró a törvényszék illetékességi területén lévő ügyészségek által folytatott eljárás során jár el, tekintet nélkül arra, hogy az eljárás alapjául szolgáló bűncselekmény elbírálása a helyi bíróság vagy a törvényszék hatáskörébe tartozik.
+208. § (1) A nyomozási bíró a törvényszék illetékességi területén lévő ügyészségek által folytatott eljárás során jár el, tekintet nélkül arra, hogy az eljárás alapjául szolgáló bűncselekmény elbírálása a járásbíróság vagy a törvényszék hatáskörébe tartozik.
 
-(2) A törvényszék elnöke a törvényszék területén lévő több helyi bíróságon is kijelölhet nyomozási bírót, és ebben az esetben a nyomozási bírók illetékességét a törvényszék elnöke állapítja meg. A nyomozási bíró bizonyítási cselekmény elvégzése esetén az illetékességi területén kívül is eljárhat.
+(2) A törvényszék elnöke a törvényszék területén lévő több járásbíróságon is kijelölhet nyomozási bírót, és ebben az esetben a nyomozási bírók illetékességét a törvényszék elnöke állapítja meg. A nyomozási bíró bizonyítási cselekmény elvégzése esetén az illetékességi területén kívül is eljárhat.
 
 ### Általános eljárási szabályok
 
@@ -2701,7 +2747,9 @@ ellen.
 
 (4) Ha a vádemelés kábítószerrel visszaélés (Btk. 282–282/C. §) miatt történik, és a gyanúsítottal szemben korábban indult büntetőeljárást a bíróság a 266. § (6) bekezdése alapján felfüggesztette, a vádiratban indítványozni kell az eljárás folytatását [266. § (7) bek.] és az ügyek egyesítését.
 
-219. § (1) A vádiratot annyi példányban kell benyújtani, hogy a bíróságnak, valamennyi vádlottnak és védőnek egy-egy példány jusson. A vádirat bírósági példányához csatolni kell a vádemelés alapjául szolgáló mindazon iratot, amelyet az ügyész a gyanúsítottnak, illetve a védőnek ismertetésre az eljárás végén átadott, valamint – a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomat kivételével – a tárgyi bizonyítási eszközöket.
+219. § (1) A vádiratot annyi példányban kell benyújtani, hogy a bíróságnak, valamennyi vádlottnak és védőnek egy-egy példány jusson. A vádirat bírósági példányához csatolni kell a vádemelés alapjául szolgáló mindazon iratot, amelyet az ügyész a gyanúsítottnak, illetve a védőnek ismertetésre az eljárás végén átadott, valamint – a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomat kivételével – a tárgyi bizonyítási eszközöket. A bíróság részére a vádiratot és az elektronikus formában rendelkezésre álló iratokat elektronikus úton is meg kell küldeni, vagy ha ez nem lehetséges, elektronikus adathordozón kell átadni.
+
+(1a) A vádirat benyújtásához fűződő joghatások a papír alapon benyújtott vádirat bírósághoz történő beérkezéséhez kötődnek, kivéve, ha az ügyészség a vádiratot minősített elektronikus aláírással látta el, és annak benyújtása a kézbesítési rendszeren keresztül történt.
 
 (2) Ha a tanú nevének, illetőleg adatainak zárt kezelését rendelték el, a tárgyalásra idézendő tanú nevét, illetve adatait nem a vádiratban, hanem külön zárt iratban kell közölni.
 
@@ -2961,9 +3009,9 @@ ellen.
 - b)
 - c) –f
 
-(2) A helyi bíróságon alügyész is képviselheti a vádat.
+(2) A járásbíróságon alügyész is képviselheti a vádat.
 
-(3) A helyi bíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
+(3) A járásbíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
 
 - a) a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságvesztést rendel,
 - b) a vádlottat fogva tartják,
@@ -3223,7 +3271,7 @@ ellen.
 
 (2) Ha az ügyben eljáró bíróság a kifogást alaposnak tartja, a kifogásnak a bírósághoz való érkezését követő harminc napon belül meghozza, illetőleg elrendeli a kifogásban sérelmezett helyzet megszüntetése érdekében szükséges intézkedést. A bíróság a kifogás elintézéséről a kifogás előterjesztőjét értesíti.
 
-(3) A helyi bíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tanácsülésen bírálja el.
+(3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tanácsülésen bírálja el.
 
 (4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 262/A. § (2) bekezdésének a) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 262/A. § (2) bekezdésének b) pontjában foglalt esetben pedig a megfelelő intézkedés megválasztására hívja fel. A felhívásban – a 262/A. § (2) bekezdésének a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja. A határozat ellen további jogorvoslatnak nincs helye.
 
@@ -3267,7 +3315,8 @@ ellen.
 - b) hivatalból vagy indítványra felfüggeszti, és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt, közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli,
 - c) hivatalból vagy indítványra felfüggeszti, és a Kúria eljárását kezdeményezi, ha az ügy elbírálása során önkormányzati rendelet olyan rendelkezését kell alkalmazni, amelynek más jogszabályba ütközését észleli,
 - d) hivatalból vagy indítványra felfüggeszti, ha az Európai Unióról szóló szerződésben, illetve az Európai Unió működéséről szóló szerződésben foglalt szabályok szerint az Európai Unió Bíróságának előzetes döntéshozatali eljárását kezdeményezi. E határozatban meghatározza azt a kérdést, amely az Európai Unió Bíróságának előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A határozatot az Európai Unió Bíróságának, továbbá tájékoztatásul az igazságügyért felelős miniszternek is megküldi,
-- e) hivatalból felfüggeszti, ha az ügyész a 178/B. § (2) vagy (4) bekezdése alapján kezdeményezte a vádlottal szemben a külföldi ítélet nemzetközi bűnügyi jogsegélyről szóló törvény szerinti elismerési eljárásának lefolytatását, de az a bizonyítási eljárás lefolytatásáig nem fejeződött be.
+- e) hivatalból felfüggeszti, ha az ügyész a 178/B. § (2) vagy (4) bekezdése alapján kezdeményezte a vádlottal szemben a külföldi ítélet nemzetközi bűnügyi jogsegélyről szóló törvény szerinti elismerési eljárásának lefolytatását, de az a bizonyítási eljárás lefolytatásáig nem fejeződött be,
+- f) hivatalból felfüggeszti, ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján konzultációs eljárás lefolytatására kerül sor.
 
 (2) A bíróság az eljárást akkor is felfüggeszti, ha az eljárás megindításához szükséges feljelentés [Btk. 236. § (1) bek., 240. §] hiányzik. Az eljárás felfüggesztése legfeljebb az alapügy jogerős befejezéséig tart.
 
@@ -3304,7 +3353,8 @@ ellen.
 - i) ha az eljárást a 266. § (6) vagy (8) bekezdése alapján függesztette fel, és a vádlott igazolja, hogy legalább hat hónapig folyamatos, kábítószer függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült vagy megelőző-felvilágosító szolgáltatáson vett részt, illetve, ha a tartás elmulasztása vétségének vádlottja a tartási kötelezettségét teljesítette,
 - j) ha a vád nem törvényes [2. § (2) bek.],
 - k) ha a vádirat nem felel meg a 217. § (3) bekezdésében foglaltaknak, és az ügyész nem tett eleget a 268. § (1) bekezdése szerinti megkeresésben foglaltaknak,
-- l) tevékeny megbánás esetén [Btk. 36. § (1) bek.].
+- l) tevékeny megbánás esetén [Btk. 36. § (1) bek.],
+- m) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le.
 
 (2) Az eljárás megszüntetéséről a bíróság értesíti a magánfelet azzal a figyelmeztetéssel, hogy a polgári jogi igényét egyéb törvényes úton érvényesítheti.
 
@@ -3348,7 +3398,7 @@ ellen.
 
 ### Öttagú tanács elé utalás
 
-271. § (1) A helyi bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja.
+271. § (1) A járásbíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja.
 
 (2) A törvényszék elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha
 
@@ -3435,7 +3485,7 @@ ellen.
 
 ### Az egyesbíró jogköre
 
-277. § Ha az ügyben a helyi bíróság egyesbíróként jár el, e fejezet rendelkezései szerint mind a bíróság tanácsának, mind a tanács elnökének jogkörébe tartozó kérdésekben az egyesbíró határoz.
+277. § Ha az ügyben a járásbíróság egyesbíróként jár el, e fejezet rendelkezései szerint mind a bíróság tanácsának, mind a tanács elnökének jogkörébe tartozó kérdésekben az egyesbíró határoz.
 
 ### A tárgyalás kitűzése
 
@@ -3449,7 +3499,7 @@ ellen.
 
 ### Az idézés és az értesítés
 
-279. § (1) A kitűzött határnapra idézni kell a vádlottat, kötelező védelem esetén a védőt és mindazokat, akiknek a megjelenése a tárgyaláson kötelező. Értesíteni kell az ügyészt, továbbá – ha e törvény kivételt nem tesz – a szakértőt, illetőleg azokat a büntetőeljárásban részt vevő személyeket, akiknek a jelenlétét a tárgyaláson e törvény lehetővé teszi. Ha az ügyész a vádlott szülői felügyeleti jogának megszüntetését indítványozza, a tárgyalásról értesíteni kell a másik szülőt és a gyámhivatalt.
+279. § (1) A kitűzött határnapra idézni kell a vádlottat, kötelező védelem esetén a védőt és mindazokat, akiknek a megjelenése a tárgyaláson kötelező. Értesíteni kell az ügyészt, továbbá – ha e törvény kivételt nem tesz – a szakértőt, illetőleg azokat a büntetőeljárásban részt vevő személyeket, akiknek a jelenlétét a tárgyaláson e törvény lehetővé teszi. Ha az ügyész a vádlott szülői felügyeleti jogának megszüntetését indítványozza, a tárgyalásról értesíteni kell a másik szülőt és a gyámhatóságot.
 
 (2) Az idézésben vagy az értesítésben a büntetőeljárásban részt vevő személyeket fel kell hívni arra, hogy a bizonyítási indítványaikat késedelem nélkül, a tárgyalás előtt tegyék meg. A tanács elnöke intézkedik, hogy az ügy elbírálásához a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak.
 
@@ -3901,7 +3951,8 @@ ellen.
 - d) ha a vád nem törvényes [2. § (2) bek.],
 - e) ha az ügyész a vádat elejtette és pótmagánvádnak nincs helye,
 - f) tevékeny megbánás esetén [Btk. 36. § (1) bek.],
-- g) a büntethetőséget megszüntető egyéb ok [Btk. 32. § e) pont] esetén.
+- g) a büntethetőséget megszüntető egyéb ok [Btk. 32. § e) pont] esetén,
+- h) ha az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti konzultációs eljárás eredménye alapján a büntetőeljárást az Európai Unió másik tagállama folytatja le.
 
 (2) A bíróság az eljárást megszünteti az olyan bűncselekmény miatt, amelynek a vád tárgyává tett jelentősebb súlyú bűncselekmény mellett a felelősségre vonás szempontjából nincs jelentősége.
 
@@ -4676,7 +4727,7 @@ került sor.
 
 ### A perújítási eljárás
 
-411. § (1) A perújítás megengedhetőségének kérdésében, ha az alapügyben a helyi bíróság járt el első fokon, a törvényszék, ha a törvényszék járt el első fokon, az ítélőtábla dönt.
+411. § (1) A perújítás megengedhetőségének kérdésében, ha az alapügyben a járásbíróság járt el első fokon, a törvényszék, ha a törvényszék járt el első fokon, az ítélőtábla dönt.
 
 (2) A perújítási indítványt – ha azt nem az ügyész nyújtja be – a perújítás megengedhetőségének kérdésében döntésre jogosult bíróság területén működő ügyésznél kell írásban benyújtani vagy jegyzőkönyvbe mondani. Az ügyész az indítványt a nyilatkozatával együtt, harminc napon belül megküldi a bíróságnak. Ha a pótmagánvádló nyújt be perújítási indítványt, azt közvetlenül a döntésre jogosult bíróságnál kell előterjesztenie.
 
@@ -5584,6 +5635,8 @@ az ügyész vádat emel.
 
 537. § Azzal szemben, aki a bűncselekményt bűnszervezetben (Btk. 137. § 8. pont) követte el, és a nyomozás során az ügy, illetve más büntetőügy bizonyításához hozzájárulva, az ügyésszel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, de a nyomozás megszüntetésére bármely okból nem került sor, a tárgyalásról lemondás alapján folytatott eljárásban a büntetést a Btk. 85/A. §-ának, illetve a Btk. 87/C. §-ának az alapulvételével kell kiszabni. Ha a bűncselekményre a törvény nyolc évi szabadságvesztésnél súlyosabb büntetést rendel, a büntetést e büntetési tételkeret között kell kiszabni.
 
+### Az ügyész eljárása
+
 538. § (1) Ha az ügyész a 193. § (1) bekezdése szerinti eljárási cselekményt maga végezte, ennek megtörténte után, ha pedig azt a nyomozó hatóság végezte, az iratok hozzá érkezését követő harminc napon belül az ügy iratait megvizsgálja, és ennek eredményéhez képest dönt arról, hogy a nyomozás során a bűnösségére is kiterjedő beismerő vallomást tevő terheltnek a tárgyalásról lemondásra irányuló kezdeményezését elfogadja-e. Ha az ügyész a kezdeményezéssel egyetért, erről határozatot hoz.
 
 (2) Ha az ügyész a kezdeményezéssel nem ért egyet, erről a terheltet értesíti.
@@ -5926,7 +5979,7 @@ az ügyész vádat emel.
 
 ### A kényszergyógykezelés felülvizsgálata
 
-566. § (1) A bíróság a kényszergyógykezelés felülvizsgálatáról – ennek keretében fenntartásának szükségességéről, illetőleg megszüntetéséről – tanácsban, tárgyaláson, végzéssel határoz. A tárgyaláson az ügyészt, a védőt és – feltéve, hogy állapota miatt megjelenhet, és a jogainak gyakorlására képes – a kényszergyógykezelés alatt álló személyt meg kell hallgatni. Ha első fokon nem budapesti székhelyű helyi bíróság járt el, a felülvizsgálatra a Pesti Központi Kerületi Bíróság, ha pedig első fokon nem budapesti székhelyű törvényszék járt el, a felülvizsgálatra a Fővárosi Törvényszék illetékes.
+566. § (1) A bíróság a kényszergyógykezelés felülvizsgálatáról – ennek keretében fenntartásának szükségességéről, illetőleg megszüntetéséről – tanácsban, tárgyaláson, végzéssel határoz. A tárgyaláson az ügyészt, a védőt és – feltéve, hogy állapota miatt megjelenhet, és a jogainak gyakorlására képes – a kényszergyógykezelés alatt álló személyt meg kell hallgatni. Ha első fokon nem budapesti székhelyű járásbíróság járt el, a felülvizsgálatra a Pesti Központi Kerületi Bíróság, ha pedig első fokon nem budapesti székhelyű törvényszék járt el, a felülvizsgálatra a Fővárosi Törvényszék illetékes.
 
 (2) A bíróság a kényszergyógykezelés megkezdésétől számított hat hónap eltelte előtt a kényszergyógykezelés szükségességét hivatalból felülvizsgálja. Ha a kényszergyógykezelést nem szünteti meg, a felülvizsgálatot hat hónaponként megismétli. Ha a kényszergyógykezelésre kötelezett személy a vele szemben hozott ítélet jogerőre emelkedése előtt ideiglenes kényszergyógykezelés hatálya alatt állt, a határidőt a kényszerintézkedés megkezdésének napjától kell számítani.
 
@@ -6319,7 +6372,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 
 ### Értelmező rendelkezések
 
-601. § (1) Ahol e törvény helyi bíróságról rendelkezik, ezen a kerületi és a városi bíróságot is érteni kell.
+601. § (1) Ahol e törvény járásbíróságról rendelkezik, ezen a kerületi bíróságot is érteni kell.
 
 (2) Ahol e törvény büntetés helyett alkalmazott intézkedésről rendelkezik, ezen a megrovást (Btk. 71. §), a próbára bocsátást (Btk. 72. §) és a javítóintézeti nevelést (Btk. 118. §) kell érteni.
 
@@ -6369,7 +6422,8 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 
 - a) a büntetőeljárásban részt vevők, valamint az eljárást folytató bíróság, ügyészség, nyomozó hatóság, illetve a büntetés-végrehajtási szervezet tagjainak személyi védelmére vonatkozó szabályokat,
 - b) a hírközlési szolgáltatást, valamint a küldemények továbbítását végzők titkos adatszerzéssel kapcsolatos kötelezettségeit és hatóságokkal történő együttműködésük részletes szabályait,
-- c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatokat.
+- c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatokat,
+- d) az Információs Hivatal tekintetében a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -6389,7 +6443,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 - n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - o) a bírósági ügyvitel szabályait,
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
-- q)
+- q) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg,
 - r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait,
 - s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott
 
@@ -6400,8 +6454,9 @@ rendeletben szabályozza.
 (4) Felhatalmazást kap
 
 - a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
-- b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
-- c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
+- b) az (1) bekezdés d) pontja kivételével a rendvédelmi szervek tekintetében a rendvédelmi szervet irányító miniszter, a Magyar Honvédség tekintetében a honvédelemért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
+- c) a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével és az Országgyűlés elnöke véleményének kikérésével az Országgyűlési Őrségnél a nyomozásra illetékes parancsnokot, valamint hatáskörét és a parancsnoki nyomozás részletes szabályait,
+- d) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.
 

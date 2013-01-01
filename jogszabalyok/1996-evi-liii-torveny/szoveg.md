@@ -759,7 +759,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 (3) A települési önkormányzat a természet védelmének helyi-területi feladatai ellátására az önkormányzat környezetvédelmi alapjában (Kt. 58. §) természetvédelmi célokat szolgáló részt hozhat létre.
 
-63. § (1) A települési – fővárosban a fővárosi – önkormányzat képviselő-testülete önkormányzati természetvédelmi őrszolgálatot működtethet.
+63. § (1) A települési – fővárosban a fővárosi – önkormányzat képviselő-testülete önkormányzati természetvédelmi őrszolgálatot működtethet. A települési – fővárosban a fővárosi – önkormányzat az önkormányzati természetvédelmi őrszolgálat megalakítása előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.
 
 (2) Az önkormányzati természetvédelmi őr feladata a helyi jelentőségű védett természeti terület védelme érdekében a külön törvényben és az 59. §-ban meghatározott jogok gyakorlása és kötelezettségek teljesítése.
 
@@ -1066,7 +1066,7 @@ természetvédelmi bírságot köteles fizetni.
 
 - 1. az Európai Közösségek jogi aktusaiban meghatározott védettségi kategóriába tartozó vadászható állatfajok kereskedelmi, behozatali és kiviteli szabályait a vadgazdálkodásért felelős miniszterrel egyetértésben;
 - 2. az Európai Közösségek jogi aktusaiban természetből begyűjthetőként, befoghatóként, valamint hasznosíthatóként meghatározott fajok egyedei befogásának, begyűjtésének, valamint hasznosításának szabályait;
-- 3. természeti terület és más védelemre érdemes földterület országos jelentőségű védett természeti területté, illetve fokozottan védetté nyilvánítását, – erdő, fásítás esetén az erdőgazdálkodásért felelős miniszterrel, védett régészeti lelőhely esetén a kultúráért felelős miniszterrel egyetértésben;
+- 3. természeti terület és más védelemre érdemes földterület országos jelentőségű védett természeti területté, illetve fokozottan védetté nyilvánítását, – erdő, fásítás esetén az erdőgazdálkodásért felelős miniszterrel, védett régészeti lelőhely esetén a régészeti örökség és a műemléki értékek védelméért felelős miniszterrel egyetértésben;
 - 4. védőövezet kijelölését és a védettség feloldását;
 - 5. természeti érték védetté és fokozottan védetté nyilvánítását és a kiemelt oltalom feloldását;
 - 6. védett élő szervezet meghatározott fejlődési szakasza, alakja, állapota vagy származéka kiemelt természeti oltalmának feloldását;

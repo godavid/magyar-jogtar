@@ -66,7 +66,10 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
 - u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás,
 - v) eredményesség alapú támogatásban részesülő gyógyszerek, gyógyászati segédeszközök eredményességének, támogatásának megállapítása, és ezen gyógyszerekkel kezelt kórképek finanszírozási eljárásrendjének alkotása,
-- w) betegút-szervezés.
+- w) betegút-szervezés,
+- x) az egészségügyi szolgáltatások minőségének értékelése és fejlesztése, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálata és fejlesztése,
+- y) az egészségügyi rendszer teljesítményének ellenőrzése, mérése és értékelése,
+- z) az egészségügyi ellátásokra jogosult részére a hatásos és biztonságos gyógyszerelés elősegítése, valamint a költséghatékony gyógyszeres terápia kialakítása érdekében.
 
 (3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
 
@@ -194,9 +197,9 @@ van szükség, és
 
 (2) Az 1. számú mellékletben nem szereplő fertőző, illetve az 1. számú melléklet B) pontjában felsorolt betegségek előfordulása esetén a betegellátó személyazonosító adatok nélkül csak az egészségügyi adatokat jelentheti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv közegészségügyi vagy járványügyi közérdekre hivatkozva – az anonim szűrővizsgálat keretében vizsgált HIV fertőzött és AIDS beteg kivételével – kérheti az érintett személyazonosító adatait.
 
-(2a) A betegellátó továbbítja az egészségügyi államigazgatási szervnek azon személyek egészségügyi és személyazonosító adatait, akiknél a mikrobiológiai laboratóriumi vizsgálati eredmény az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések fennállását valószínűsíti vagy igazolja. A betegellátó továbbítja az egészségügyi államigazgatási szervnek az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések közül a miniszteri rendeletben meghatározott betegségekre vonatkozó azon vizsgálati eredményt is, amely a korábbi valószínűsítés ellenére nem igazolja az adott betegség fennállását. Az egészségügyi államigazgatási szerv a 4. § (1) bekezdés d) pontjában meghatározott célból, a népegészségügyi, közegészségügyi vagy járványügyi feladat ellátásához szükséges ideig és mértékben kezelheti a személyazonosító és egészségügyi adatokat, azzal, hogy azon vizsgálati eredmény esetében, amely az adott betegség fennállását a korábbi valószínűsítés ellenére nem igazolta, a vonatkozó személyazonosító adatokat haladéktalanul törölni kell.
+(2a) A betegellátó továbbítja az egészségügyi államigazgatási szervnek azon személyek egészségügyi és személyazonosító adatait, akiknél a mikrobiológiai laboratóriumi vizsgálati eredmény az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések fennállását, illetve kórokozóik jelenlétét valószínűsíti vagy igazolja. A betegellátó továbbítja az egészségügyi államigazgatási szervnek az 1. számú melléklet A) pontja szerinti fertőzések, fertőzéses eredetű betegségek, mérgezések közül a miniszteri rendeletben meghatározott betegségekre vonatkozó azon vizsgálati eredményt is, amely a korábbi valószínűsítés ellenére nem igazolja az adott betegség fennállását. Az egészségügyi államigazgatási szerv a 4. § (1) bekezdés d) pontjában meghatározott célból, a népegészségügyi, közegészségügyi vagy járványügyi feladat ellátásához szükséges ideig és mértékben kezelheti a személyazonosító és egészségügyi adatokat, azzal, hogy azon vizsgálati eredmény esetében, amely az adott betegség fennállását a korábbi valószínűsítés ellenére nem igazolta, a vonatkozó személyazonosító adatokat haladéktalanul törölni kell.
 
-(2b) Az 1. számú melléklet B) pontja szerinti betegségek előfordulása esetén a betegellátó az egészségügyi adatokat személyazonosításra alkalmatlan módon jelenti az egészségügyi államigazgatási szervnek.
+(2b) Az 1. számú melléklet B) pontja szerinti betegségek, illetve kórokozóik előfordulása esetén a betegellátó az egészségügyi adatokat személyazonosításra alkalmatlan módon jelenti az egészségügyi államigazgatási szervnek.
 
 (2c) A betegellátó a miniszteri rendeletben meghatározott, felügyelet alá vont kórokozók kimutatása esetén az egészségügyi adatokat személyazonosításra alkalmatlan módon továbbítja az egészségügyi államigazgatási szervnek.
 
@@ -271,11 +274,21 @@ van szükség, és
 
 (2) Az egészségügyi ellátóhálózat egészségügyi szakember-képzésre kijelölt intézményeiben az érintett (törvényes képviselője) (1) bekezdés szerinti hozzájárulására nincs szükség. Erről az érintettet (törvényes képviselőjét) fekvőbeteg-intézmény esetén legkésőbb az intézménybe történő beutaláskor, beutaló hiányában a felvételt közvetlenül megelőzően, az egészségügyi ellátóhálózat egyéb intézményei esetén legkésőbb a gyógykezelés megkezdése előtt tájékoztatni kell.
 
-### Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése
+### Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése, minőség- és teljesítményértékelés
 
-18. §
+18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges, TAJ számmal összekapcsolt egészségügyi adatok kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
 
-19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, életkorát és postai irányítószámát.
+(2) A szakmai minőségértékelésért felelős szerv az azonos TAJ számhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
+
+(3) A szakmai minőségértékelésért felelős szerv a kapcsolati kód képzését követően az (1) bekezdés szerinti célból kapott TAJ számot haladéktalanul törli.
+
+(4) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti szervek által más adatkezelési célból létrehozott és a 4. § (2) bekezdés x) pontja szerinti célból átadott, TAJ számmal összekapcsolt adatbázisokat, illetve nyilvántartásokat a kapcsolati kód képzését követően haladéktalanul törli.
+
+(5) A 4. § (2) bekezdés x) pontja szerinti célból egyedi ügy kivizsgálása érdekében a minőségértékelésért felelős szerv, az ügy kivizsgálásának lezárását követő 5 évig kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát. Az érintett TAJ száma más személyazonosító adatokkal történő összekapcsolás nélkül kezelendő.
+
+18/A. § A teljesítményértékelésért felelős szerv a 4. § (2) bekezdés y) pontja szerinti célból kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát és születési dátumát az adatok átadása, az adatkezelés és a kapcsolati kód képzése tekintetében a 18.§ (1)–(4) bekezdésében foglaltak szerint.
+
+19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
 
 (2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
 
@@ -313,7 +326,7 @@ van szükség, és
 
 (2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
 
-(3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak orvos, illetve gyógyszerész végzettségű alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
+(3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
 (4)
 
@@ -363,7 +376,7 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 - a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
-- c) potenciális hadköteles és hadköteles személy esetén az illetékes jegyző, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
+- c) potenciális hadköteles és hadköteles személy esetén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 - e) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a kiképzett tartalékosok békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett tartalékosok gyors és differenciált behívása érdekében, a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott körben,
 - f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
@@ -442,9 +455,18 @@ részére kell átadni.
 
 (6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
-(7) A gyógyszertár a vényeket – a kábítószeres és pszichotróp anyagot tartalmazó gyógyszerre vonatkozó vények kivételével – 3 évig őrzi meg. A kábítószeres és pszichotróp anyagot tartalmazó gyógyszerre vonatkozó vényeket 5 évig kell megőrizni. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
+(7) A gyógyszertár a vényeket 5 évig őrzi meg. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
 
 (8) Az adatmegőrzés érdekében folyamatosan biztosítani kell, hogy az adathordozó az adott technikai feltételek mellett olvasható maradjon, vagy olvasható állapotba kerüljön.
+
+(9) A (4) bekezdés b) pontjában meghatározott szerv adatfeldolgozási szerződést köt a Kormány által rendeletben kijelölt szervvel
+
+- a) a (4) bekezdés b) pontjában,
+- b) az (5) bekezdés b) pontjában,
+- c) a (6a) bekezdésben, valamint
+- d) kormányrendeletben
+
+meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolgozásáról.
 
 31. § (1) Az egészségügyi dokumentációban szereplő hibás egészségügyi adatot – az adatfelvételt követően – úgy kell kijavítani vagy törölni, hogy az eredetileg felvett adat megállapítható legyen.
 
@@ -513,9 +535,17 @@ részére kell átadni.
 - f) a gyógykezelés során alkalmazandó egészségügyi dokumentáció jellegére vonatkozó szabályokat, valamint az alkalmazandó nyomtatványok – e törvény keretei közötti – adattartalmát,
 - g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelentési kötelezettség teljesítésének és a bejelentendő adatok gyűjtésének és kezelésének szabályait,
 - h) az elektronikus vényre vonatkozó részletszabályokat,
-- i) a Betegségregiszterre vonatkozó részletes szabályokat rendeletben állapítsa meg.
+- i) a Betegségregiszterre vonatkozó részletes szabályokat,
+- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
 
-(3) Felhatalmazást kap a Kormány, hogy a 30. § (4) bekezdés b) pontja szerinti adatkezelőt rendeletben jelölje ki.
+rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a Kormány, hogy
+
+- a) a 30. § (4) bekezdés b) pontja szerinti adatkezelőt,
+- b) a 30. § (9) bekezdése szerinti adatfeldolgozót
+
+rendeletben jelölje ki.
 
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
 
@@ -523,185 +553,100 @@ részére kell átadni.
 
 Fertőző betegségek listája az érintett részéről történő kötelező adatszolgáltatás, valamint az egészségügyi államigazgatási szerv részére történő kötelező adattovábbítás esetén
 
-Fertőzések, fertőzéses eredetű betegségek, mérgezések
-
-A) Személyazonosító adatokkal együtt jelentendő:
-
-1. Acut flaccid paralysis (heveny petyhüdt bénulás)
-
-2. Amoebiasis
-
-3. Ancylostomiasis, uncinariasis
-
-4. Anthrax (lépfene), bacillus anthracis által okozott fertőzés
-
-5. Az új influenzavírus által okozott emberi megbetegedések (az országos tiszti főorvos által megadott időszakban)
-
-6. Botulizmus
-
-7. Brucellosis, máltai, mediterrán, unduláló láz
-
-8. B típusú Haemophilus influenzae által okozott invazív betegség
-
-9. Campylobacteriosis, campylobacter okozta bélhurut
-
-10. Chikungunya-láz
-
-11. Cholera (kolera)
-
-12. Congenitalis rubeola syndroma (CRS) (veleszületett rubeola megbetegedés)
-
-13. Cryptosporidiosis
-
-14. Diphtheria (torokgyík)
-
-15. Echinococcosis, hydatidosis
-
-16. Egészségügyi ellátással összefüggő fertőzés
-
-16.1 Clostridium difficile által okozott fertőzés
-
-16.2 Intenzív osztályos ellátással összefüggő fertőzés
-
-16.3 Multirezisztens kórokozó által okozott fertőzés
-
-16.4 Művesekezeléssel összefüggő fertőzés
-
-16.5 Műtéti sebfertőzés
-
-16.6 Véráramfertőzés
-
-17. Encephalitis infectiosa (fertőző agyvelőgyulladás)
-
-18. Ételfertőzés
-
-19. Ételmérgezés
-
-20. Febris flava (sárgaláz)
-
-21. Febris recurrens (visszatérő láz)
-
-22. Fertőző spongiform encephalopathiák
-
-23. Giardiasis
-
-24. Hantavírus okozta veseszindróma (nephropathia epidemica)
-
-25. HBV-fertőzés
-
-26. HCV-fertőzés
-
-27. Hepatitis infectiosa (heveny fertőző májgyulladás)
-
-28. Influenzával összefüggésbe hozható halálos kimenetelű megbetegedés
-
-29. Keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás)
-
-30. Korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség
-
-31. Legionellosis
-
-32. Lepra
-
-33. Leptospirosis
-
-34. Listeriosis
-
-35. Lyme-kór
-
-36. Lyssa (veszettség)
-
-37. Lyssa fertőzésre gyanús sérülés
-
-38. Madárinfluenza
-
-39. Malária
-
-40. Malleus (takonykór)
-
-41. Meningitis purulenta (gennyes agyhártyagyulladás)
-
-42. Meningitis serosa (savós agyhártyagyulladás)
-
-43. Morbilli (kanyaró), kivéve: subacut sclerotisalo panencephalitis
-
-44. Neisseria meningitidis által okozott invazív betegség (Meningococcus okozta megbetegedés)
-
-45. Nyugat-nílusi láz
-
-46. Ornithosis (papagájkór)
-
-47. Paratyphus
-
-48. Parotitis epidemica (mumpsz)
-
-49. Patogén Escherichia coli által okozott megbetegedések
-
-50. Pertussis (szamárköhögés)
-
-51. Pestis
-
-52. Poliomyelitis anterior acuta (járványos gyermekbénulás)
-
-53. Q-láz
-
-54. Rotavírus-gastroenteritis
-
-55. Rubeola (rózsahimlő)
-
-56. Salmonellosis
-
-57. Shigellosis
-
-58. Scarlatina (vörheny)
-
-59. Schistosomiasis (bilharziasis)
-
-60. Súlyos akut légúti tünetegyüttes (SARS)
-
-61. Streptococcus pneumoniae által okozott invazív betegség (Pneumococcus okozta megbetegedés)
-
-62. Strongyloidosis
-
-63. Taeniasis
-
-64. Tetanus (merevgörcs)
-
-65. Toxoplasmosis
-
-66. Trachoma (kivéve: trachoma következményei)
-
-67. Trichinellosis
-
-68. Tuberkulózis
-
-69. Tularemia
-
-70. Typhus abdominalis (hastífusz)
-
-71. Typhus exanthematicus (kiütéses tífusz)
-
-72. Varicella (bárányhimlő)
-
-73. Variola (himlő)
-
-74. Vírusos haemorrhagias lázak
-
-75. Yersiniosis
-
-B) Személyazonosító adatok nélkül jelentendő:
-
-1. Acut urogenitalis chlamydiasis
-
-2. AIDS megbetegedés
-
-3. Gonorrhoea (kankó)
-
-4. HIV-fertőzés
-
-5. Lymphogranuloma venereum
-
-6. Syphilis (vérbaj)
+Fertőzések, fertőzéses eredetű betegségek, mérgezések és kórokozóik
+
+| Betegség megnevezése | Jelentendő kórokozó |
+| --- | --- |
+| A) Személyazonosító adatokkal együtt jelentendő betegségek |  |
+| Acut flaccid paralysis (heveny petyhüdt bénulás) |  |
+| Amoebiasis | Entamoeba histolytica |
+| Anthrax (lépfene) | Bacillus anthracis |
+| Botulizmus | a Clostridium botulinum A, B, és F típusú neurotoxint termelő biovariánsai |
+| Brucellosis | Brucella spp. |
+| Campylobacteriosis | Campylobacter spp. |
+| Creutzfeldt-Jacob-betegség (CJB) |  |
+| Variáns Creutzfeldt-Jacob-betegség (vCJB) | prion |
+| Chikungunya-láz | Chikungunya-vírus |
+| Cholera (kolera) | Vibrio cholerae |
+| Cryptosporidiosis | Cryptosporidium spp. |
+| Diphtheria (torokgyík) | Corynebacterium diphtheriae, Corynebacterium ulcerans, Corynebacterium pseudotuberculosis |
+| Echinococcosis | Echinococcus spp. |
+| Egészségügyi ellátással összefüggő fertőzés |  |
+| Egészségügyi ellátással összefüggő Clostridium difficile által okozott fertőzés | C. difficile toxin pozitív törzsek |
+| Egészségügyi ellátással összefüggő multirezisztens kórokozó által okozott fertőzés | Vérből, liquorból és más szövetekből kitenyésztett multirezisztens kórokozók: Staphylococcus aureus MRSA; Enterococcus spp. VRE; Enterobacter spp. MENB; Escherichia coli MECO; Klebsiella spp. MKLE; Acinetobacter baumanii MACI; Pseudomonas aeruginosa MPAE; Stenotrophomonas maltophilia MSTM; Staphylococcus aureus VISA; Klebsiella pneumoniae CRKL; Egyéb Enterobacteriacea CRE |
+| Egészségügyi ellátással összefüggő véráramfertőzés | Bármely baktérium, gomba, vírus (leggyakoribb kórokozók: CNS, S. aureus, Enterococcus spp, E. coli, P. aeruginosa, Enterobacter spp, K. pneumoniae, Candida spp, Acinetobacter spp) |
+| Encephalitis infectiosa (fertőző agyvelőgyulladás) | agyvelőgyulladást okozó bármely vírus (leggyakoribb kórokozók: enterovírusok , herpesvírusok, LCM vírus, CMV, kullancsencephalitis vírusa, nyugat-nílusi vírus stb) |
+| Enterohaemorrhagiás/verotoxin- (shigatoxin-) termelő Escherichia coli okozott megbetegedés | verotoxin- (shigatoxin-) termelő Escherichia coli |
+| Egyéb patogén Escherichia coli által okozott megbetegedés | Escherichia coli (patogenitási markerekkel rendelkező, toxintermelő) |
+| Ételfertőzés | az ételfertőzés kórokozójaként azonosított bármely baktérium vagy vírus |
+| Ételmérgezés | az ételmérgezés kórokozójaként azonosított bármely baktérium, toxin |
+| Febris flava (sárgaláz) | Sárgalázvírus |
+| Giardiasis | Giardia lamblia |
+| Haemophilus influenzae által okozott invazív betegség | normálisan steril helyről kimutatott Haemophilus influenzae |
+| Hantavírus okozta veseszindróma | Hantavírusok |
+| Hepatitis infectiosa (heveny fertőző májgyulladás) |  |
+| Hepatitis A vírus által okozott heveny májgyulladás | Hepatitis A vírus |
+| Hepatitis B vírus által okozott heveny májgyulladás | Hepatitis B vírus |
+| Hepatitis B vírus által okozott krónikus fertőzés ( újonnan diagnosztizált) | Hepatitis B vírus |
+| Hepatitis C vírus által okozott heveny májgyulladás | Hepatitis C vírus |
+| Hepatitis C vírus által okozott krónikus fertőzés (újonnan diagnosztizált) | Hepatitis C vírus |
+| Hepatitis E vírus által okozott heveny májgyulladás | Hepatitis E vírus |
+| Influenza | Influenzavírus |
+| Keratoconjunctivitis epidemica (fertőző kötőhártya- és szaruhártya-gyulladás) | conjunctiva váladékból kimutatott Adenovírusok |
+| Kullancsencephalitis | Kullancsencephalitis vírus |
+| Legionárius betegség | Legionella spp. |
+| Leptospirosis | Leptospira spp. |
+| Listeriosis | Listeria monocytogenes |
+| Lyme-kór erythema migrans és heveny neuroborreliosis | Borrelia burgdorferi sensu lato csoportba tartozó humán patogén spirocheták |
+| Lyssa (veszettség) | Rabiesvírus |
+| Lyssa fertőzésre gyanús sérülés |  |
+| Madárinfluenza | Humán megbetegedést okozó madárinfluenza-vírus |
+| Malaria | Plasmodium spp. |
+| Malleus (takonykór) | Burkholderia (Pseudomonas) mallei |
+| Meningitis purulenta (gennyes agyhártyagyulladás) | gennyes meningitist okozó bármely baktérium |
+| Meningitis serosa (savós agyhártyagyulladás) | asepticus meningitist okozó vírusok [különféle enterovírusok (Coxsackie A és B vírus egyes szerotípusai, echovírus, enterovírus 71), herpesvírusok, adenovírusok, LCM vírus, CMV stb.] |
+| Meningococcus által okozott invazív betegség (meningitis epidemica, meningococcoemia ) | normálisan steril helyről kimutatott Neisseria meningitidis |
+| Morbilli (kanyaró) | Kanyaróvírus |
+| Nyugat-nílusi láz | Nyugat-nílusi vírus |
+| Ornithosis (papagájkór) | Chlamydia Psittaci |
+| Paratyphus | Salmonella Paratyphi A,B,C |
+| Parotitis epidemica (mumpsz) | Mumps vírus |
+| Pertussis (szamárköhögés) | Bordetella pertussis |
+| Pestis | Yersinia pestis |
+| Poliomyelitis anterior acuta (járványos gyermekbénulás) | Poliovírus 1, 2, 3 típusa |
+| Q-láz | Coxiella burnetii |
+| Rotavírus okozta gastroenteritis | Rotavírus |
+| Rubeola (rózsahimlő) | Rubeolavírus |
+| Congenitalis rubeola syndroma | Rubeolavírus |
+| Salmonellosis | Salmonella spp. |
+| Scarlatina (vörheny) | Streptococcus pyogenes erythrogen toxint termelő törzsei |
+| Shigellosis | Shigella spp. |
+| Súlyos akut légúti tünetegyüttes (SARS) | SARS-coronavírus |
+| Streptococcus pneumoniae által okozott invazív betegség | normálisan steril helyről kimutatott Streptococcus pneumoniae |
+| Strongyloidosis | Strongyloides stercoralis |
+| Taeniasis | Taenia spp. |
+| Tetanus (merevgörcs) | Clostridium tetani |
+| Toxoplasmosis | Toxoplasma gondii |
+| Congenitalis toxoplasmosis | Toxoplasma gondii |
+| Tuberculosis | Mycobacterium tuberculosis complex |
+| Trichinellosis | Trichinella spp. |
+| Tularemia | Francisella tularensis |
+| Typhus abdominalis | Salmonella Typhi |
+| Typhus exanthematicus | Rickettsia prowazeki |
+| Varicella (bárányhimlő) | (nem jelentendő a kórokozó) |
+| Variola (himlő) | Himlővírus |
+| Vírusos haemorrhagiás lázak | Dengue-vírus, Ebola-vírus, Hantavírus, Lassa-vírus, Marburg-vírus, Rift-völgyi láz vírusa, Krími-kongói haemorrhagiás láz vírusa |
+| Yersiniosis | Yersinia enterocolitica, Yersinia pseudotuberculosis |
+| Korábban Magyarországon nem észlelt, különösen veszélyes fertőző betegség |  |
+| Új influenzavírus által okozott emberi megbetegedések | Influenzavírus A, B, C |
+| B) Személyazonosító nélkül jelentendő betegségek |  |
+| AIDS-megbetegedés | HIV |
+| HIV-fertőzés | HIV |
+| Acut urogenitalis chlamydiasis | Chlamydia trachomatis D-K szerotípusa |
+| Gonorrhoea (kankó) | Neisseria gonorrhoeae |
+| Lymphogranuloma venereum | Chlamydia trachomatis L1, L2 és L3 szerotípusai |
+| Syphilis (vérbaj) | Treponema pallidum |
+| Connatalis syphilis | Treponema pallidum |
 
 ### 2. számú melléklet az 1997. évi XLVII. törvényhez
 

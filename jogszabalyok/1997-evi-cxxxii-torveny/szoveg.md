@@ -168,7 +168,7 @@ eltérő szabályozást állapíthat meg.
 
 (2) A valamely EGT-államban bejegyzett külföldi vállalkozás pénzügyi fióktelepe az alapítással jön létre, és Magyarországon a külön törvényben foglaltak szerint kezdheti meg működését, mellyel egyidejűleg benyújtja a cégbejegyzésre vonatkozó kérelmét is.
 
-(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep az alapítója nevében, képviseletében jár el, továbbá a 10. § (1)–(2) bekezdésében foglaltakat nem kell rá alkalmazni.
+(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep külön meghatalmazás nélkül a külföldi vállalkozás nevében, annak képviseletére irányuló tevékenységet is folytathat, ebben az esetben nem kell alkalmazni a 10. § (1) és (2) bekezdésében foglaltakat. Azt a tényt, hogy a pénzügyi fióktelep az alapító képviseletében jár el, az üzletszabályzatban, valamint a cégneve alatti eljárása során vagy tevékenysége során keletkező okiraton egyértelműen fel kell tüntetni.
 
 (4) A kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény hatálya alá tartozó fióktelep tevékenységének engedélyezésére, működésére, felügyeletére, ellenőrzésére, továbbá megszüntetésére az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
 

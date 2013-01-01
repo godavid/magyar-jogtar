@@ -8,7 +8,7 @@ A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése irán
 
 1. § (1) E törvény alapján meghatározott feltételekkel a 2005. december 31. napja után született gyermeket önálló életkezdéséhez életkezdési támogatás illeti meg.
 
-(2) E törvény személyi hatálya a 2. §-ban említett személyekre, a gyámhivatalra, az állami adóhatóságra, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervre, tárgyi hatálya a gyermek 18. életévének betöltése napjáig a Start-számlára és a kincstári letéti Start-számlára terjed ki.
+(2) E törvény személyi hatálya a 2. §-ban említett személyekre, a gyámhatóságra, az állami adóhatóságra, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervre, tárgyi hatálya a gyermek 18. életévének betöltése napjáig a Start-számlára és a kincstári letéti Start-számlára terjed ki.
 
 (3) Az életkezdési támogatással kapcsolatos ellenőrzési feladatok – az összegét meghatározó állami támogatás, valamint az adómentesség összefüggésében – az állami adóhatóság hatáskörébe tartoznak. Az államháztartás terhére történő utalások igénybevételéhez szolgáltatott adatok helyességének vizsgálatára a kiutaló is jogosult.
 
@@ -95,7 +95,7 @@ jár.
 (2) A kiutaló
 
 - a)
-- b) az (1) bekezdés b) pontja szerint kapott adatok alapján 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésétől, és a harmadik utalási összeget a tizennegyedik életéve betöltésétől nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
+- b) az (1) bekezdés b) pontja szerint kapott adatok alapján a beérkezést követő 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésének napjától, és a harmadik utalási összeget a tizennegyedik életéve betöltésének napjától – a 9/B. § szerinti adatszolgáltatás alapján, visszamenőlegesen – nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
 - c) amennyiben a gyermek anyakönyvezése a születését követő egy éven túl történik – feltéve, hogy Magyarország területén lakóhellyel rendelkezik és születésének évében egyébként az első utalási összegre jogosult –, a kiutaló az első utalási összeget a gyermek születési évének megfelelő összeggel utólag veszi nyilvántartásba azzal, hogy második és harmadik utalási összegre a gyermek visszamenőleg nem jogosult,
 - d) a számla megnyitásával egyidejűleg tájékoztatást ad a szülőnek az életkezdési támogatással kapcsolatos tudnivalókról,
 - e) nem küld értesítést a szülőnek, ha az (1) bekezdés a) pont szerinti adatszolgáltatáskor jelezték számára, hogy az értesítés nem küldhető,
@@ -129,7 +129,7 @@ jár.
 
 (5) A kincstári letéti Start-számlán nyilvántartott összeget a kiutaló a Start-számlára annak megnyitásától számított 8 munkanapon belül vezeti át.
 
-(6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget a kiutaló a gyermek jogosultsága esetén annak igazolásától számított 8 munkanapon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
+(6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget – a gyermek hetedik vagy tizennegyedik születésnapjától az utalást megelőző napig felszámított, az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ Zrt. által az utalást megelőző napon közzétett mértékű kamattal növelten – a kiutaló a 9/B. § szerinti adatszolgáltatás beérkezését követő 30 napon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
 
 (7) A Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés kifizetését – a számla megszüntetésével –
 
@@ -169,7 +169,7 @@ kérheti.
 (5) A (4) bekezdés b) pontjában említett jogosultság igazolására, az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal,
 
 - a) a (2) bekezdés a) pontjában meghatározott, a naptári évben legalább egy napig fennálló feltétel tényét rögzítő iratot a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek,
-- b) átmeneti vagy tartós nevelésbe vett Start-számlával rendelkező gyermek esetében (2) bekezdés b) pontjában meghatározott jogosultságról szóló, annak a naptári évben fennálló időtartamát is tartalmazó iratot a gyámhivatal vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek
+- b) átmeneti vagy tartós nevelésbe vett Start-számlával rendelkező gyermek esetében (2) bekezdés b) pontjában meghatározott jogosultságról szóló, annak a naptári évben fennálló időtartamát is tartalmazó iratot a gyámhatóság vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek
 
 a számlavezető írásbeli megkeresése alapján a naptári évet követő január 15-éig juttatja el a számlavezetőhöz.
 
@@ -188,7 +188,7 @@ a számlavezető írásbeli megkeresése alapján a naptári évet követő janu
 
 az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ ZRt. által a jóváírás napján közzétett mértékű kamat alapján a nyilvántartott követelés utolsó fordulónaptól számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-- b) a gyámhivatal által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
+- b) a gyámhatóság által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
 
 ír jóvá.
 
@@ -247,14 +247,16 @@ az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ
 
 (2)
 
-(3) A kiutaló, az állami adóhatóság, a gyámhivatal, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő adatok jogszabályoknak megfelelő kezelésére.
+(3) A kiutaló, az állami adóhatóság, a gyámhatóság, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő adatok jogszabályoknak megfelelő kezelésére.
 
 9/A. § Amennyiben a Start-számla megnyitását a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését megelőzően nem a kiutalónál kezdeményezték, az életkezdési támogatásnak a kiutalótól eltérő számlavezetőhöz történő áthelyezésére e törvény 2012. szeptember 30-án hatályos rendelkezéseit kell alkalmazni.
+
+9/B. § A gyámhatóság adatot szolgáltat a kincstár részére azon gyermekek természetes személyazonosító adatairól, továbbá – ha az ismert – adóazonosító jeléről, akik a tárgyévben a 7. vagy 14. életévük betöltésének napján, jogerős határozat alapján rendszeres gyermekvédelmi kedvezményre voltak jogosultak, illetve átmeneti vagy tartós nevelésbe vett gyermekek voltak. Az adatszolgáltatást a tárgyévet követő év március 20-áig kell elektronikus úton teljesíteni.
 
 ### Záró rendelkezések
 
 10. § (1) Ez a törvény 2006. január 1-jén lép hatályba.
 
-(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletet adjon ki a 6. § (5) bekezdése szerinti irat, valamint a 7. § (1) bekezdés b) pontja szerinti adatszolgáltatás egységes tartalmi és formai követelményeiről.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a 6. § (5) bekezdése szerinti irat, valamint a 7. § (1) bekezdés b) pontja és a 9/B. § szerinti adatszolgáltatás egységes tartalmi és formai követelményeit rendeletben határozza meg.
 
 (3)

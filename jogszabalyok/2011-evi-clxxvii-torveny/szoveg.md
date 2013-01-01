@@ -15,8 +15,8 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 - a) behívhatósági korhatár: 1. a Magyar Honvédségnél (a továbbiakban: Honvédség) hivatásos, szerződéses vagy önkéntes tartalékos katonai szolgálatot teljesítettek esetén a katonai szolgálat felső korhatára, 2. más hadkötelesek és a potenciális hadkötelesek esetén annak az évnek a december 31. napja, amelyben 40. életévét betölti,
 - b) hadköteles: a hadkötelezettség bevezetését követően a magyarországi lakóhellyel rendelkező magyar állampolgárságú férfi,
 - c) igénybevevő: a Honvédség, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § r) pontjában meghatározott rendvédelmi szervek és a Hvt. 18. § (2) bekezdésében meghatározott honvédelemben közreműködő szervek,
-- d) igénybevételi hatóság: az ország egész területére, vagy több megyét érintő részére a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter, az ország egy közigazgatási területére a megyei, fővárosi védelmi bizottság elnöke, valamint a polgármester, törvényben meghatározott esetben és feltételek szerint a katonai igazgatás szervének vezetője,
-- e) katonai igazgatás: a közigazgatás része, a közigazgatási szervek (állami, önkormányzati, katonai) jogilag szabályozott olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében, törvény alapján létrehozott jogalanyok és a természetes személyek honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul.
+- d) igénybevételi hatóság: az ország egész területére, vagy több megyét érintő részére a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter, az ország egy közigazgatási területére a megyei, fővárosi védelmi bizottság elnöke, valamint a járási hivatal vezetője, törvényben meghatározott esetben és feltételek szerint a katonai igazgatás szervének vezetője,
+- e) katonai igazgatás: a közigazgatás része, a közigazgatási szervek (állami, katonai) jogilag szabályozott olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében, törvény alapján létrehozott jogalanyok és a természetes személyek honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul.
 
 ### II. Fejezet — A KATONAI IGAZGATÁS SZERVEZETI FELÉPÍTÉSE, FELADATAI
 
@@ -149,10 +149,10 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 #### 8. Megkeresésre történő adatszolgáltatások
 
-13. § A jegyző közreműködik
+13. § A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) vezetője közreműködik
 
-- a) a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresésére a települési önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező kiképzett tartalékosok, potenciális hadkötelesek lakcím- és anyakönyvi adatainak pontosításában,
-- b) a hadkötelezettség fennállása idején a sorozó központ megkeresésére a települési önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
+- a) a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező kiképzett tartalékosok, potenciális hadkötelesek lakcím- és anyakönyvi adatainak pontosításában,
+- b) a hadkötelezettség fennállása idején a sorozó központ megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
 
 14. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a nyilvántartás pontosításához
 
@@ -181,7 +181,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 #### 10. Személyes adatszolgáltatási kötelezettség
 
-17. § A hadkötelezettség bevezetését követően a rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a nyilvántartott adatok pontosításához a lakóhelye szerint illetékes jegyzőnek és a katonai igazgatási központnak – azok megkeresésére – köteles adatot szolgáltatni a katonai szolgálat tervezését és teljesítését befolyásoló, az 1. melléklet A)–F) és T) pontjában meghatározott adatairól.
+17. § A hadkötelezettség bevezetését követően a rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a nyilvántartott adatok pontosításához a lakóhelye szerint illetékes járási hivatal vezetőjének és a katonai igazgatási központnak – azok megkeresésére – köteles adatot szolgáltatni a katonai szolgálat tervezését és teljesítését befolyásoló, az 1. melléklet A)–F) és T) pontjában meghatározott adatairól.
 
 #### 11. Bejelentési kötelezettség
 
@@ -195,7 +195,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 19. § (1) A hadkötelesnek a sorozó központ felhívására a megjelölt helyen és időben meg kell jelennie adatainak ellenőrzése és egyeztetése, katonai alkalmasságának megállapítása, orvosi vizsgálat, valamint gyógykezelés céljából.
 
-(2) A rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálatnak köteles magát alávetni, és e célból a sorozó központ, a sorozóbizottság, vagy a jegyző által meghatározott gyógyintézetben és időpontban megjelenni.
+(2) A rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálatnak köteles magát alávetni, és e célból a sorozó központ, a sorozóbizottság, vagy a járási hivatal vezetője által meghatározott gyógyintézetben és időpontban megjelenni.
 
 (3) A hadköteles a sorozó központ felhívására köteles megjelenni a katonai okiratok átvétele, illetve visszaadása céljából. A hadköteles az okiratok átvételét, megőrzését, és visszaadását nem tagadhatja meg.
 
@@ -318,7 +318,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 (2) A katonai igazgatási központ megkeresése alapján adatszolgáltatást teljesít az 5. és 6. mellékletben meghatározott adatokról
 
 - a) a gazdasági és anyagi szolgáltatásra törvényben meghatározottak szerint kötelezett ingatlan, szolgáltatás, technikai eszköz tulajdonosa, birtokosa, az azzal rendelkezni jogosult,
-- b) a jegyző az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
+- b) a járási hivatal vezetője az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
 
 28. § Az adatszolgáltatás során – a rendkívüli állapot és szükségállapot időszakán kívül – nem kérhető a szolgáltatásra kötelezettől az üzletvitelével kapcsolatos olyan adat, amely nem függ össze a szolgáltatás teljesítésével. Nem kérhetők különösen
 
@@ -397,7 +397,7 @@ adatok.
 - a) a 38. §-ban foglalt esetben a belgyógyász sorozó szakorvos,
 - b) a hadköteles személyes megjelenéssel történő sorozása esetén a belgyógyász és a sebész sorozó szakorvos, valamint a pszichológus.
 
-(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település polgármestere, a fővárosban a főpolgármester által határozatban kijelölt kisegítő személyek vesznek részt.
+(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település szerint illetékes járási hivatal vezetője által határozatban kijelölt kisegítő személyek vesznek részt.
 
 (4) Az elsőfokú sorozóbizottság orvos tagjait a sorozó központ vezetőjének megkeresése alapján az orvost foglalkoztató egészségügyi intézet vezetője, illetve a területileg illetékes egészségügyi államigazgatási szerv jelöli ki.
 

@@ -38,7 +38,7 @@ Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életébe
 
 (2) Az egyház a számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-okból eredő összegeken túl a (3)–(4) bekezdése szerint meghatározott további támogatásra jogosult.
 
-(3) A támogatások együttes alapja az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összege, de legalább a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,5%-ának és az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összegének pozitív különbözete.
+(3) Amennyiben az (1) bekezdés alapján az egyházakat megillető összeg együttesen nem éri el a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,9 százalékát, ennek mértékéig az egyházaknak ténylegesen átutalandó összeget a központi költségvetésből ki kell egészíteni.
 
 (4) A támogatásból az egyes egyházak a javukra a személyi jövedelemadójuk 1%-áról rendelkező magánszemélyek arányában részesülnek.
 
@@ -48,7 +48,7 @@ Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életébe
 
 6. § (1) Az egyházak további támogatásra (a továbbiakban: kiegészítő támogatás) jogosultak, amelynek alapja a közszolgáltatásokban részesülők azon döntése, ahogyan az adott egyház által fenntartott intézmények közszolgáltatásait igénybe veszik.
 
-(2) Az (1) bekezdés szerinti kiegészítő támogatás meghatározása minden évben a költségvetési tervezéskor ismert adatok alapján történik, az éves költségvetésről szóló törvényben, a közoktatási, illetve a szociális szolgáltatások igénybevételének figyelembevételével.
+(2) Az (1) bekezdés szerinti kiegészítő támogatás meghatározása minden évben a költségvetési tervezéskor ismert adatok alapján történik, a központi költségvetésről szóló törvényben a közoktatási, egészségügyi, illetve a szociális szolgáltatások igénybevételének figyelembevételével.
 
 (3) A kiegészítő támogatás összegének számításához az önkormányzatok adott ágazati működési kiadásainak és felújítási költségeinek összegét csökkenteni kell az intézményi saját bevételekkel, továbbá a közoktatásra központosított előirányzatból adott olyan külön támogatással, amelyhez pályázat útján az önkormányzati és egyházi fenntartó, illetve intézményei egyaránt hozzájuthatnak. Az így megállapított összegből határozandó meg a normatív támogatás aránya és a kiegészítő támogatás számított összege.
 

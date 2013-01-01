@@ -222,7 +222,14 @@ sem.
 
 (4) A szervezet neve nem lehet kizárólag számok vagy betűk halmaza. Nem használhatók névként vagy annak egyes elemeiként az országban meg nem honosodott idegen szavak. A latin vagy egyéb idegen szavak, kifejezések, elnevezések használatát a szervezet nemzetközi, nemzetiségi jellege, a történelmi hagyományok folytatása indokolhatja. Egyéb esetekben csak akkor fogadható el, ha közismert, a köznyelv által elfogadott idegen nyelvű kifejezésről van szó.
 
-(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, a bíróság felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
+(4a) A szervezet elnevezésében nem szerepelhet
+
+- a) olyan személy neve, aki a XX. századi önkényuralmi politikai rendszerek megalapozásában, kiépítésében vagy fenntartásában vezető szerepet töltött be, vagy
+- b) olyan kifejezés vagy olyan szervezet neve, amely a XX. századi önkényuralmi politikai rendszerrel közvetlenül összefüggésbe hozható.
+
+(4b) A bíróság eljárása során vizsgálja a szervezet elnevezésének a (4a) bekezdésben foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
+
+(5) Ha a szervezet neve nem felel meg a névkizárólagosság, a névvalódiság vagy a névszabatosság követelményének, továbbá a (4a) bekezdésben foglalt követelményeknek, a bíróság felhívja a kérelmezőt, hogy a létesítő okirat módosításával jelöljön meg olyan nevet, amely megfelel a jogszabályi követelményeknek.
 
 (6) A szervezet rövidített nevének és idegen nyelvű elnevezésének is meg kell felelnie az (1)–(3) bekezdésben és a 35. § (1) bekezdésében meghatározott követelményeknek.
 
@@ -600,6 +607,14 @@ is.
 99. § (1) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
 
 (2) A 2014. július 1. napjától az ezt megelőzően bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
+
+99/A. § (1) Az egyes törvényeknek a XX. századi önkényuralmi rendszerekhez köthető elnevezések tilalmával összefüggő módosításáról szóló 2012. évi CLXVII. törvény (a továbbiakban: Törvény) hatálybalépését megelőzően bejegyzett azon szervezetek – az alapítványt ide nem értve –, amelyeknek elnevezése nem felel meg a 36. § (4a) bekezdésében foglalt előírásnak, a Törvény hatálybalépését követő, a nyilvántartásban szereplő adataik első változásakor, de legkésőbb 2014. január 1-jéig kötelesek a szervezet nevének megváltoztatására.
+
+(2) A Törvény hatálybalépését megelőzően bejegyzett azon alapítványok esetében, amelyeknek elnevezése nem felel meg a 36. § (4a) bekezdésében foglalt előírásnak, az alapítók a Törvény hatálybalépését követő, az alapítvány nyilvántartásban szereplő adatainak első változásakor, de legkésőbb 2014. január 1-jéig kötelesek az alapítvány nevének megváltoztatására.
+
+(3) A Törvény hatálybalépését megelőzően bejegyzett azon szervezetek – az alapítványt ide nem értve –, amelyeknek székhelyében a közterület neve a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek a Törvénnyel megállapított 14. §-a miatt módosul e változást követően, a nyilvántartásban szereplő adataik első változásakor, de legkésőbb 2014. január 1-jéig kötelesek a szervezet székhelye ennek megfelelő módosítására.
+
+(4) A Törvény hatálybalépését megelőzően bejegyzett azon alapítványok esetében, amelyeknek székhelyében a közterület neve a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek a Törvénnyel megállapított 14. §-a miatt módosul, az alapítók e változást követően, az alapítvány nyilvántartásban szereplő adatainak első változásakor, de legkésőbb 2014. január 1-jéig kötelesek az alapítvány székhelye ennek megfelelő módosítására.
 
 100. § (1) Az OBH vezeti az interneten azonosítás nélkül elérhető országos névjegyzéket.
 

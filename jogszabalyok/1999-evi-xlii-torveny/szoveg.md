@@ -14,7 +14,8 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - d) rendezvény: a gyülekezési jogról szóló 1989. évi III. törvény 2. §-ának (1) bekezdésében meghatározott, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, egyházi, érdekvédelmi céllal, legalább három személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
 - e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy kizárólag nyílászárók, illetőleg egyéb műszaki berendezés útján biztosított;
 - f) kombinált figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint fényképből vagy egyéb illusztrációból és kiegészítő figyelmeztetés megfelelő szövegéből álló figyelmeztetés;
-- g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége.
+- g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége;
+- h) gyűjtőcsomag: több fogyasztói csomagolási egységet tartalmazó, kiskereskedelmi forgalomban értékesített nagyobb csomagolási egység.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
@@ -42,7 +43,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 - a) közoktatási intézményben,
 - b) gyermekjóléti, gyermekvédelmi intézményben,
-- c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál, ideértve a többcélú intézményt is, ha abban egészségügyi szolgáltatást is nyújtanak.
+- c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál,.
 
 (5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 
@@ -68,13 +69,19 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével jelölhető ki. Az egészségügyi államigazgatási szerv a kérelemre induló, helyszíni szemlét is magában foglaló hatósági eljárás keretében a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-2/A. § A helyi önkormányzat rendeletben a 2. § (1) bekezdés d) pontjában foglaltakon túl közterületet nemdohányzó közterületnek nyilváníthat. Az önkormányzat rendeletében a dohányzási korlátozás hatókörét olyan módon kell részletesen szabályozni, hogy az e törvényben foglalt, dohányzóhely-kijelölési kötelezettségüknek a kötelezettek eleget tehessenek. A nemdohányzó közterület kijelölésére a 2. § (7) bekezdésében foglaltakat kell alkalmazni. A közterületet érintő dohányzási korlátozások betartását a 7. §-ban foglaltakon túl – az önkormányzati rendeletben foglaltakra figyelemmel – a közterület-felügyelet is ellenőrizheti, és a dohányzási korlátozás tetten ért megszegőjét a 7. § (5) bekezdése szerinti helyszíni bírsággal sújthatja. Az így befolyt bírság az önkormányzat bevétele.
+2/A. § (1) A helyi önkormányzat rendeletben a 2. § (1) bekezdés d) pontjában foglaltakon túl közterületet nemdohányzó közterületnek nyilváníthat. Az önkormányzat rendeletében a dohányzási korlátozás hatókörét olyan módon kell részletesen szabályozni, hogy az e törvényben foglalt, dohányzóhely-kijelölési kötelezettségüknek a kötelezettek eleget tehessenek. A nemdohányzó közterület kijelölésére a 2. § (7) bekezdésében foglaltakat kell alkalmazni.
+
+(2) Az e törvényben, valamint az (1) bekezdésben említett önkormányzati rendeletben meghatározott, a közterületet érintő dohányzási korlátozások betartását a 7. §-ban foglaltakon túl – az önkormányzati rendeletben foglaltakra figyelemmel – a közterület-felügyelet is ellenőrizheti, és a dohányzási korlátozás tetten ért megszegőjét 30 000 Ft-ig terjedő helyszínen kiszabott bírsággal sújthatja.
+
+(3) A (2) bekezdés szerinti helyszíni bírság az önkormányzat bevétele.
+
+(4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 21. § (6) bekezdése szerint hatáskörrel rendelkező hatóság folytatja le.
 
 3. § (1) A közforgalmú intézmény feladatkörében eljáró, valamint a közösségi közlekedési eszköz működtetésében hivatásszerűen közreműködő személy (a továbbiakban együtt: rendelkezésre jogosult) a dohányzásra vonatkozó korlátozást megsértőt a jogsértés haladéktalan befejezésére köteles felhívni. A felhívás eredménytelensége esetén a rendelkezésre jogosult az érintett személyt felszólítja, hogy a közforgalmú intézményt, illetve a közösségi közlekedési eszközt hagyja el, illetőleg kezdeményezi a 7. § (1)–(2), illetve (13) bekezdései szerinti eljárás lefolytatását.
 
 (2) Az (1) bekezdésben meghatározott személy felhívására – az eljáró intézkedési jogosultságának igazolását követően – az érintett személy személyazonosságát hitelt érdemlő módon köteles igazolni.
 
-4. § (1) A 2. § (1) bekezdés a) és c) pontjában meghatározott esetekben – a (6) bekezdésben, valamint a 2. § (3)–(5) bekezdésében foglalt kivétellel – dohányzásra az e törvényben foglaltaknak, valamint a tűzvédelmi szabályoknak megfelelő, nem zárt légterű helyet kell kijelölni és fenntartani, a 2. § (7) bekezdésében foglalt rendelkezések alkalmazásával. Dohányzóhely a közforgalmú intézmény bejáratától számított 5 méteres távolságon belül nem jelölhető ki, kivéve a szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézmények esetében. A szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézmények esetében a dohányzóhelyet a bejárattól számított 5 méteres távolságon belül abban az esetben lehet kijelölni, ha az intézmény területén a nyílt légterű dohányzóhely kijelölésének feltételei a bejárattól számított 5 méteres távolságon kívül nem állnak fenn.
+4. § (1) A 2. § (1) bekezdés a) és c) pontjában meghatározott esetekben – a (6) bekezdésben, valamint a 2. § (3)–(5) bekezdésében meghatározott kivétellel – az e törvényben foglaltaknak, valamint a tűzvédelmi szabályoknak megfelelően, a 2. § (7) bekezdésében foglalt rendelkezések alkalmazásával kell nem zárt légterű dohányzóhelyet kijelölni és fenntartani. Dohányzóhely – a szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézmények kivételével – a közforgalmú intézmény bejáratától számított 5 méteres távolságon belül nem jelölhető ki. A szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézmények esetében a dohányzóhelyet a bejárattól számított 5 méteres távolságon belül abban az esetben lehet kijelölni, ha az intézmény területén a nyílt légterű dohányzóhely kijelölésének feltételei a bejárattól számított 5 méteres távolságon kívül nem állnak fenn.
 
 (2)
 
@@ -82,11 +89,11 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (4)–(5)
 
-(6) Szórakoztató, vendéglátóipari szolgáltatást nyújtó közforgalmú intézmény üzemeltetője az intézményt nemdohányzó intézménnyé nyilváníthatja. Ebben az esetben az intézményben dohányzóhelyet nem zárt térben sem kell kijelölni. A nemdohányzó intézménnyé minősítés tényét jól látható és egyértelmű felirat vagy jelzés alkalmazásával az intézménynek a közforgalom számára nyitvaálló bejáratánál, valamint a vendégforgalom által igénybe vett valamennyi helyiségében fel kell tüntetni.
+(6) A közforgalmú intézmény üzemeltetője – a 2. § (5) bekezdés a)–c) pontjában foglalt közforgalmú intézmények kivételével – az intézményt nemdohányzó intézménnyé nyilváníthatja. Ebben az esetben az intézményben dohányzóhelyet nem zárt térben sem kell kijelölni. A nemdohányzó intézménnyé minősítés tényét jól látható és egyértelmű felirat vagy jelzés alkalmazásával az intézménynek a közforgalom számára nyitva álló bejáratánál, valamint a nyilvánosság számára nyitva álló valamennyi helyiségében fel kell tüntetni.
 
 (7)
 
-(8) A 2. § (4) bekezdés c) pontja szerinti esetben az (1) bekezdés megfelelően alkalmazandó azzal, hogy helyiségen kívüli dohányzóhely nem zárt légtérben is csak úgy jelölhető ki, ha a dohányzóhely az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
+(8) A 2. § (4) bekezdés c) pontjában foglaltaktól eltérően, olyan többcélú intézmény esetében, amelyben vagy amelynek területén egészségügyi szolgáltatást is nyújtanak, az (1) bekezdés megfelelően alkalmazandó, azzal, hogy dohányzóhely nyílt légtérben is csak úgy jelölhető ki, ha az az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
 
 (9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a közoktatási intézmény vezetője, illetőleg a munkáltató gondoskodik.
 
@@ -127,7 +134,9 @@ hozható meg.
 
 (2) Az (1) bekezdés a) pont aa) és ab) alpontja alatti általános egészségvédő figyelmeztetéseket, továbbá a gyártó által választható kombinált figyelmeztetést váltakozva kell alkalmazni úgy, hogy azok rendszeres megjelenése főoldalanként biztosított legyen.
 
-(3) Az (1) bekezdésben nem említett dohánytermékek forgalomba hozatalának feltételeire az (1) bekezdésben foglalt rendelkezések megfelelően irányadóak azzal, hogy az egészségvédő figyelmeztetések legkisebb méretére vonatkozó rendelkezést, valamint az (1) bekezdés c) pontját nem kell alkalmazni.
+(3) Az (1) bekezdésben nem említett dohánytermékek fogyasztói csomagolási egységeire az (1) bekezdésben foglalt rendelkezések megfelelően irányadóak azzal, hogy e fogyasztói csomagolási egységek vonatkozásában kormányrendelet az (1) bekezdés a) és b) pontja szerinti egészségvédő figyelmeztetések legkisebb mérete tekintetében az (1) bekezdés a) és b) pontjától eltérő rendelkezéseket is megállapíthat. Az (1) bekezdésben nem említett dohánytermékek fogyasztói csomagolási egységeire az (1) bekezdés c) pontját nem kell alkalmazni. Füst nélküli dohánytermék esetén kormányrendelet az (1) bekezdés a) pontjában foglalt általános egészségvédő figyelmeztetések szövege tekintetében eltérő szabályokat állapíthat meg.
+
+(3a) Dohánytermék gyűjtőcsomag forgalomba hozatalának feltételeire az (1) bekezdésben foglalt rendelkezések megfelelően irányadóak azzal, hogy – kormányrendelet eltérő rendelkezése hiányában – az (1) bekezdés c) pontját nem kell alkalmazni.
 
 (4) Az (1) bekezdés a) pontjában meghatározott egészségvédő figyelmeztetés valamelyikét a dohányterméket árusító üzlethelyiségben, illetve mozgó árusító hely kiszolgáló terében is el kell helyezni. A figyelmeztetés feltüntetésének módjára az (1) bekezdésben foglaltak megfelelően irányadóak azzal, hogy a figyelmeztető felirat legkisebb méretére vonatkozó rendelkezést nem kell alkalmazni.
 
@@ -141,7 +150,7 @@ hozható meg.
 
 (2) Egészségvédelmi bírság megfizetésére köteles a 4. § (9) bekezdésében megjelölt személy is, aki a dohányzásra vonatkozó, e törvényben foglalt tilalmak, korlátozások betartását feladatkörében nem érvényesíti.
 
-(3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte, és saját jövedelemmel rendelkezik.
+(3) Egészségvédelmi bírság csak azon természetes személy ellen szabható ki, aki a cselekmény elkövetésekor 14. életévét betöltötte.
 
 (4) Az egészségvédelmi bírság összege
 
@@ -195,7 +204,7 @@ hozható meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohányzási korlátozásra, valamint a dohányzóhelyek kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
+- a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a füst nélküli dohánytermék esetén alkalmazandó egészségvédő figyelmeztetések szövegét, a 6. § (1) bekezdésében nem említett dohánytermékek fogyasztói csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
 - b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -205,7 +214,7 @@ hozható meg.
 
 8/A. § (1) 2012. január 1-je és 2012. március 31-e között az egészségvédelmi bírság kiszabását az egészségügyi államigazgatási szerv mellőzi abban az esetben, ha a hatósági ellenőrzés során megállapított, e törvénybe ütköző jogsértést megvalósító cselekmény miatt e törvény 2011. december 31-én hatályos rendelkezései alapján bírság kiszabásának nem lett volna helye.
 
-(2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
+(2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
 
 - a) a jogsértőt legalább húsz napos, de legkorábban 2012. április 1-jei határidővel kell a jogszabálysértés megszüntetésére kötelezni, és
 - b) a (2) bekezdésben foglalt időszak alatt e törvénybe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.

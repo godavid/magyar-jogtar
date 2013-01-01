@@ -958,6 +958,30 @@ nem haladhatja meg.
 
 ### IV. Fejezet — 34–35. §
 
+### IV/A. Fejezet — A TELEPÜLÉSI ÖNKORMÁNYZAT TULAJDONÁBAN ÁLLÓ KÖZTERÜLET FILMFORGATÁSI CÉLÚ HASZNÁLATA
+
+35/A. § (1) A települési önkormányzat tulajdonában álló közterület filmalkotás – e fejezet alkalmazásában ideértve a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet is – forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. A közterület filmforgatási célú igénybevételének e fejezetben meghatározott szabályai nem mentesítenek a jogszabályban előírt egyéb engedélyek megszerzésének kötelezettsége alól, kivéve a közúti közlekedésről szóló törvényben a közút nem közlekedési célú igénybevételére vonatkozóan előírt közútkezelői hozzájárulást.
+
+(2) A települési önkormányzat képviselő-testülete a települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek – községi önkormányzat képviselő-testülete a rendeletében foglalt felső határnak – megfelelő mértékben meghatározott díj ellenében biztosíthatja, olyan módon, hogy a közterület filmforgatási célú használata csak az elkerülhetetlenül szükséges mértékben korlátozza a közterülettel határos magántulajdonú ingatlanok használatát és a korlátozás ne jelentsen aránytalan terhet a tulajdonos számára. A közterület használatáért megállapított díj a tulajdonos települési önkormányzatot illeti.
+
+(3) A 3. melléklet szerinti legmagasabb díjak 2014. január 1-jétől a Központi Statisztikai Hivatal által a 2012. évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben, ezt követően évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit a fővárosi és megyei kormányhivatal a 2014. évtől kezdve évente honlapján közzéteszi.
+
+(4) A települési önkormányzat képviselő-testülete rendeletében mentességet vagy kedvezményt állapíthat meg a meghatározott időtartamot vagy területmértéket el nem érő, valamint a közérdekű célokat szolgáló (különösen oktatási, tudományos és ismeretterjesztő témájú) filmalkotások forgatásához szükséges közterület-használat díjával összefüggésben.
+
+35/B. § (1) A 35/A. § (1) bekezdésében meghatározott célú közterület-használat iránti kérelmet a fővárosi és megyei kormányhivatalnál kell előterjeszteni. A filmforgatási célú közterület-használathoz szükséges valamennyi hatósági engedély iránti kérelem előterjeszthető a fővárosi és megyei kormányhivatalnál is, amely azokat haladéktalanul továbbítja a hatáskörrel rendelkező illetékes hatóságnak. A fővárosi és megyei kormányhivatal kérelemre egyes – kormányrendeletben meghatározott – eljárásokat összevont eljárásban folytat le.
+
+(2) A fővárosi és megyei kormányhivatal e § szerinti eljárására irányadó ügyintézési határidő 5 munkanap, amelybe nem számítanak bele a (4) bekezdésben említett időszakok.
+
+(3) A fővárosi és megyei kormányhivatal a 35/A. § (1) bekezdésében meghatározott célú közterület-használatról a Ket. 76. §-a szerinti hatósági szerződésben állapodik meg a filmelőállítóval vagy a filmgyártó vállalkozással (a továbbiakban együtt: kérelmező). A hatósági szerződés annak a települési önkormányzati képviselő-testületnek a jóváhagyásával válik érvényessé, amelynek tulajdonában a kérelemben megjelölt közterület áll.
+
+(4) A hatósági szerződés jóváhagyásának feltételeként a települési önkormányzat képviselő-testülete – a rendeletében foglaltak alapján – meghatározza a közterület-használat egyedi feltételeit, ideértve az érintett közterület használati díját is, és arról a fővárosi és megyei kormányhivatalt, valamint a kérelmezőt az erre irányuló megkereséstől számított 3 napon belül tájékoztatja. A kérelmező egyeztetést kezdeményezhet a képviselő-testülettel a közterület-használat feltételeiről. Az egyeztetést a kezdeményezéstől számított 3 napon belül kell megtartani és annak eredményéről a fővárosi és megyei kormányhivatalt az egyeztetésről készült jegyzőkönyv megküldésével haladéktalanul tájékoztatni kell. A közterület-használat feltételeinek – eredményes egyeztetés esetén módosított feltételeinek – a kérelmező általi elfogadását követően a kérelmezővel megkötött, e feltételeket tartalmazó hatósági szerződést a fővárosi és megyei kormányhivatal haladéktalanul megküldi a települési önkormányzatnak.
+
+(5) Ha a települési önkormányzat képviselő-testülete a hatósági szerződés jóváhagyását megtagadja, továbbá a jóváhagyás feltételeinek hatósági szerződésbe történő foglalásának hiányában vagy a települési önkormányzat által közölt feltételektől eltérő tartalommal megkötött hatósági szerződés semmis. Nem tagadható meg a hatósági szerződés jóváhagyása, ha az megfelel a települési önkormányzat képviselő-testülete által meghatározott vagy az egyeztetés eredményeként módosított feltételeknek.
+
+(6) Ha a fővárosi és megyei kormányhivatal a (2) bekezdés szerinti határidőben nem hozza létre a hatósági szerződést, vagy a települési önkormányzat a jóváhagyás kérdésében a hatósági szerződés részére történt megküldésétől számított 5 munkanapon belül nem dönt, a kérelmezőt megilleti a 35/A. § (1) bekezdése szerinti kérelemben megjelölt közterületnek a kérelemben megjelölt időtartamra vonatkozó – ha pedig a kérelmező elfogadta a települési önkormányzat (4) bekezdés szerint közölt vagy az egyeztetés eredményeként módosított feltételeit, e feltételeknek megfelelő – használata. Ezt a fővárosi és megyei kormányhivatal a Ket. 71. § (4) bekezdése szerinti módon igazolja a kérelmező részére.
+
+(7) A települési önkormányzat képviselő-testülete az e fejezetben meghatározott hatásköreit – a rendeletalkotás kivételével – a polgármesterre, az alpolgármesterre vagy a bizottságára átruházhatja.
+
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### 1. CÍM — Hatályba léptető és átmeneti rendelkezések
@@ -1005,7 +1029,7 @@ nem haladhatja meg.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 
-37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a nemzeti filmvagyonba tartozó filmalkotások többcsatornás és hatékony terjesztésének szabályait, valamint a terjesztésből befolyt bevétel felosztásának módját.
+37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a közterületi filmforgatással összefüggő közterület-használathoz szükséges egyes engedélyek összevont eljárásban való kiadásának rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -1016,6 +1040,10 @@ nem haladhatja meg.
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy rendeletben állapítsa meg a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.
+
+(4) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használatának díjára vonatkozóan alkalmazható mentességek és kedvezmények körét, a használat területi és időbeli korlátait, valamint a turisztikailag kiemelt közterületek körét rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a községi önkormányzat képviselő-testülete, hogy a tulajdonában álló közterületek filmforgatási célú használata díjának felső határát rendeletben állapítsa meg.
 
 38. § Felhatalmazást kap az Elnök, hogy rendeletben állapítsa meg
 
@@ -1181,3 +1209,25 @@ C) Dokumentumfilm-alkotás és tudományos ismeretterjesztő filmalkotás
 | 27 | l) a filmalkotás közreműködői – a j) pont szerint pontot szerzett közreműködők kivételével – legalább 51%-ban valamely EGT-tagállam polgárai, vagy olyan koprodukcióról van szó, amely nem minősül európai filmkoprodukciónak | 4 |
 | 28 | m) a forgatási helyszín Magyarországon van | 3 |
 | 29 | n) a filmgyártás-előkészítés vagy az utómunka végzésének helye Magyarország | 3 |
+
+### 3. melléklet a 2004. évi II. törvényhez
+
+A városi, a megyei jogú városi, a fővárosi és a kerületi önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a használat célja szerint
+
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Közterület megnevezése | Forgatási helyszín | Technikai kiszolgálás | Stáb parkolás | Ha valamely közterület a táblázat alapján két különböző díjkategóriába eső területet is magában foglal, a közterület filmforgatási célú használatának díját a magasabb díjtétel szerinti kategória alapján kell meghatározni |
+| 2 |  | Ft/m2/nap | Ft/m2/nap | Ft/m2/nap |
+| 3 | a Világörökségről szóló 2011. évi LXXVII. törvényben felsorolt budapesti világörökségi területek és Budapest turisztikailag kiemelt központi területei | 2 000 | 1 000 | 500 |
+| 4 | Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom, Víziváros városrészei | 800 | 400 | 200 |
+| 5 | Budapest közigazgatási területe a nagykörúton kívül | 300 | 150 | 100 |
+| 6 | a város, a megyei jogú város díszburkolatos vagy turisztikailag kiemelt központi területei | 500 | 200 | 200 |
+| 7 | a város, a megyei jogú város közigazgatási területének nem díszburkolatos vagy nem turisztikailag kiemelt központi területei | 200 | 150 | 100 |
+
+E melléklet alkalmazásában:
+
+1. Forgatási helyszín: a forgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület;
+
+2. Technikai kiszolgálás: a forgatási helyszín közvetlen környezetében felvonuló, a forgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a forgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület;
+
+3. Stáb parkolás: Az 1–2. kategóriába nem tartozó, a forgatás és a technikai kiszolgálás helyszínétől területileg elválasztható háttér-kiszolgáló egységek és járművek által elfoglalt terület.

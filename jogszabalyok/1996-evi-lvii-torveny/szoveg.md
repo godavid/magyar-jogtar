@@ -753,7 +753,7 @@ eltelt időt.
 
 (2) Magáncélú, illetve magánhasználatú helyiségben, ideértve a járműveket és más területet is, az e § szerinti vizsgálati cselekményt folytatni csak akkor lehet, ha az az ügyfél bármely jelenlegi vagy volt vezető tisztségviselője, alkalmazottja, megbízottja, valamint a ténylegesen az irányítást gyakorló, vagy korábban irányítást gyakorolt más személy használatában van.
 
-(3) Az e § szerinti vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. A Gazdasági Versenyhivatal engedély iránti írásbeli kérelmét a Fővárosi Törvényszék bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+(3) Az e § szerinti vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. A Gazdasági Versenyhivatal engedély iránti írásbeli kérelmét a Fővárosi Közigazgatási és Munkaügyi Bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 (4) A bíróság a kérelmezett vizsgálati cselekményt akkor engedélyezi, ha a Gazdasági Versenyhivatal valószínűsíti, hogy más vizsgálati cselekmény nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyszínen a megjelölt jogsértéssel kapcsolatos információforrás fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett vizsgálati cselekményt részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető.
 
@@ -777,7 +777,7 @@ eltelt időt.
 
 (4) Ha az érintett személy nyilatkozatával ellentétben a vizsgáló álláspontja szerint az irat nem esik az (1) bekezdés hatálya alá, az iratot, (illetve az adathordozóról készített fizikai tükörmásolatot) olyan tárolóeszközben kell elhelyezni, amely kizárja az irat megismerhetőségét. A tárolóeszköz lezárását az érintett személy és a vizsgáló aláírásával hitelesíti, oly módon, hogy a hitelesítés sérelme nélkül a tárolóeszköz felnyitása ne legyen lehetséges. A tárolóeszközt a Gazdasági Versenyhivatal veszi birtokba.
 
-(5) Az iratnak az (1) bekezdés hatálya alá tartozásáról a Gazdasági Versenyhivatal kérelme alapján a Fővárosi Törvényszék nemperes eljárásban, a kérelem előterjesztésétől számított nyolc napon belül dönt, az ügyfél meghallgatásával. Az iratot tartalmazó tárolóeszközt a Gazdasági Versenyhivatal a kérelméhez mellékeli.
+(5) Az iratnak az (1) bekezdés hatálya alá tartozásáról a Gazdasági Versenyhivatal kérelme alapján a Fővárosi Közigazgatási és Munkaügyi Bíróság nemperes eljárásban, a kérelem előterjesztésétől számított nyolc napon belül dönt, az ügyfél meghallgatásával. Az iratot tartalmazó tárolóeszközt a Gazdasági Versenyhivatal a kérelméhez mellékeli.
 
 (6) Ha a bíróság azt állapítja meg, hogy az irat nem esik az (1) bekezdés hatálya alá, az iratot a Gazdasági Versenyhivatal számára kiadja; a továbbiakban az iratra vonatkozó általános szabályok irányadóak. Ellenkező döntés esetében a bíróság az iratot az ügyfélnek adja ki.
 
@@ -1060,7 +1060,7 @@ terjedhet.
 
 (2) Amennyiben a hatóság az (1) bekezdésben foglalt felszólításnak harminc napon belül nem tesz eleget, a Gazdasági Versenyhivatal keresettel a közigazgatási szerv által hozott, a verseny szabadságát sértő döntés bírósági felülvizsgálatát kérheti, kivéve, ha törvény a hatósági döntés felülvizsgálatát kizárja. A döntés jogerőre emelkedésétől számított egy év elteltével ilyen kérelemnek nincs helye, illetve a határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
 
-(3) A per elbírálása a törvényszék hatáskörébe tartozik. A bíróság a Polgári perrendtartásáról szóló törvény közigazgatási perekre vonatkozó szabályai megfelelő alkalmazásával jár el.
+(3) A per elbírálása a közigazgatási és munkaügyi bíróság hatáskörébe tartozik. A bíróság a Polgári perrendtartásáról szóló törvény közigazgatási perekre vonatkozó szabályai megfelelő alkalmazásával jár el.
 
 (4) A Gazdasági Versenyhivatal a verseny szabadságát sértő közigazgatási döntést hozó elsőfokú, valamint a másodfokon eljáró szervtől felvilágosítást kérhet a megtámadott döntéssel hasonló tárgyú eljárásokban hozott közigazgatási döntésekről. A Gazdasági Versenyhivatal a felvilágosítás alapján kérheti az abban megjelölt döntések számára történő megküldését.
 

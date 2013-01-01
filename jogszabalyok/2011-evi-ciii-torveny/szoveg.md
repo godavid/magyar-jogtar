@@ -29,15 +29,19 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 10. sör: a 2203 VTSZ szám alá tartozó termék.
 - 11. cukrozott kakaópor: a 1806 10 VTSZ szám alá tartozó termék.
 - 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
+- 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
 
 #### 2. Az adókötelezettség
 
 2. § Adóköteles terméknek minősül az előrecsomagolt termékként forgalomba hozott,
 
-- a) a 2009, 2202 VTSZ szám alá tartozó termék, a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó sűrítmények, koncentrátumok, szörpök, nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget (a továbbiakban: üdítőital);
-- b) a 2009, 2202 VTSZ szám alá tartozó termék, ha
-  - ba) metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és
-  - bb) taurint tartalmaz, ideértve azt az esetet is, ha a taurint a termék valamely összetevője tartalmazza feltéve, hogy metil-xantin-tartalma meghaladja az 1 milligramm metil-xantin/100 milliliter mennyiséget vagy taurintartalma meghaladja a 100 milligramm/100 milliliter mennyiséget. (a továbbiakban: energiaital);
+- a) a 2009, 2202 VTSZ szám alá tartozó – energiaitalnak nem minősülő – termék, a Magyar Élelmiszerkönyv szerinti kivonat alapú szörpök, valamint a legalább 25% gyümölcs, illetve zöldséghányadot tartalmazó sűrítmények, koncentrátumok, szörpök, nektárok, gyümölcslevek és zöldséglevek, valamint a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 8 gramm cukor/100 milliliter mennyiséget (a továbbiakban: üdítőital);
+- b) a 2009, 2202 VTSZ szám alá tartozó termék, ha metil-xantint tartalmaz, ideértve azt az esetet is, ha a metil-xantint a termék valamely összetevője tartalmazza és
+  - ba) taurint tartalmaz, ideértve azt az esetet is, ha a taurint a termék valamely összetevője tartalmazza, feltéve, hogy metil-xantin-tartalma meghaladja az 1 milligramm metil-xantin/100 milliliter mennyiséget vagy taurintartalma meghaladja a 100 milligramm taurin/100 milliliter mennyiséget, vagy
+  - bb) metil-xantin-tartalma meghaladja a 15 milligramm metil-xantin/100 milliliter mennyiséget,
+
+(a továbbiakban: energiaital);
+
 - c) a 1704, 1905, 2105 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 25 gramm cukor/100 gramm mennyiséget, továbbá az 1806 VTSZ szám alá tartozó termék a legalább 50%-ban tejalapanyag felhasználásával készült termékek kivételével, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 40 gramm cukor/100 gramm mennyiséget és kakaótartalma 40 gramm/100 gramm terméknél alacsonyabb (a továbbiakban együtt: előrecsomagolt cukrozott készítmény);
 - d) a c) pont hatálya alá nem tartozó 1905, 2005 20 20, 2008 VTSZ szám alá tartozó, gabona, burgonya vagy olajos magvak felhasználásával készült, sütött, extrudált vagy pörkölt, ízesített és azonnali fogyasztásra alkalmas termék, ha sótartalma meghaladja az 1 gramm só/100 gramm mennyiséget, ide nem értve a kenyeret és a Magyar Élelmiszerkönyv szerinti, legfeljebb 2 gramm só/100 gramm sótartalmú sütőipari terméket (a továbbiakban: sós snack);
 - e) a 2103, 2104 VTSZ szám alá tartozó – gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő – termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget (a továbbiakban: ételízesítő), kivéve a mustár, a ketchup és az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/100 gramm mennyiséget;
@@ -45,24 +49,34 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 - h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
 
-3. § (1) Adókötelezettség terheli az adóköteles termék első olyan értékesítését, amelynek a teljesítési helye belföld.
+3. § (1) Adókötelezettség terheli az adóköteles termék:
+
+- a) első olyan értékesítését, amelynek a teljesítési helye belföld,
+- b) beszerzését akkor, ha azt az adóalany belföldön saját termék előállításához használja fel és az előállított terméket akként értékesíti, hogy az értékesítés nem felel meg az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek.
 
 (2) Az adó alanya az adóköteles termék értékesítéséről kiállított számlán, számviteli bizonylaton, vagy ha számla, számviteli bizonylat kiállítására nem kötelezett vagy azt elmulasztotta, az értékesítésről szóló okiraton köteles feltüntetni, hogy az adókötelezettség őt terheli.
 
 #### 3. Az adó alanya
 
-4. § Az adó alanya az adóköteles terméket belföldön első alkalommal értékesítő személy, szervezet.
+4. § Az adó alanya
+
+- a) a 3. § (1) bekezdés a) pontja szerinti esetben az adóköteles terméket belföldön első alkalommal értékesítő,
+- b) a 3. § (1) bekezdés b) pontja szerinti esetben az adóköteles terméket beszerző
+
+személy, szervezet.
 
 #### 4. Az adó alapja
 
-5. § Az adó alapja az adóalany által a 3. § (1) bekezdése szerint értékesített adóköteles termék mennyisége kilogrammban vagy literben kifejezve. Az adóalap meghatározásánál figyelmen kívül kell hagyni a csomagolás tömegét.
+5. § Az adó alapja az adóalany által a 3. § (1) bekezdése szerint értékesített, beszerzett adóköteles termék mennyisége kilogrammban vagy literben kifejezve. Az adóalap meghatározásánál figyelmen kívül kell hagyni a csomagolás tömegét.
 
 #### 5. Az adó mértéke
 
 6. § Az adó mértéke
 
 - a) a sűrítmény, koncentrátum vagy szörp formában értékesített üdítőital esetében 200 forint/liter, más üdítőital esetében 7 forint/liter,
-- b) energiaital esetében 250 forint/liter,
+- b) a 2. § b) pontjának
+  - ba) ba) alpontja szerinti energiaital esetében 250 forint/liter,
+  - bb) bb) alpontja szerinti energiaital esetében 40 forint/liter,
 - c) cukrozott kakaópor esetében 70 forint/kilogramm, más előrecsomagolt cukrozott készítmény esetében 130 forint/kilogramm,
 - d) sós snack esetében 250 forint/kilogramm,
 - e) ételízesítő esetében 250 forint/kilogramm,
@@ -75,18 +89,18 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 (2) Mentes az adó alól a 3. § (1) bekezdése szerinti értékesítés, ha az megfelel az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek.
 
-(3) Mentes az adó alól annak az adóköteles terméknek a 3. § (1) bekezdése szerinti értékesítése, amelyet vevője az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek megfelelően továbbértékesít, feltéve hogy e tényről a vevő az adóalany felé az értékesítéskor nyilatkozik, valamint a továbbértékesítés tényét – a továbbértékesített adóköteles termék mennyiségének közlésével – számára hitelt érdemlően igazolja. Ha a vevő a nyilatkozatában foglaltak ellenére az adóköteles terméket belföldön értékesíti tovább, akkor erről a tényről – a belföldön értékesített termék mennyiségének megjelölésével – az adó alanyát a belföldi értékesítés teljesítési időpontját követő 8 napon belül köteles értesíteni. Az adó alanya a vevő által belföldön továbbértékesített adóköteles termék utáni adót – az eredeti esedékességtől számított késedelmi pótlékkal növelten – a vevő által megküldött értesítés kézhezvételének napját magában foglaló adómegállapítási időszakban köteles megállapítani és esedékességkor megfizetni. Amennyiben a vevő a belföldi értékesítésről szóló értesítési kötelezettségének határidőben nem tesz eleget, akkor a belföldön értékesített adóköteles termék után az adóalany által meg nem fizetett adót, a nyilatkozattétel esedékességétől számított késedelmi pótlékot, illetve – ha a mulasztást a vámhatóság tárja fel – a meg nem fizetett adóval összefüggő adóbírságot és késedelmi pótlékot a vevő köteles megfizetni.
+(3) Mentes az adó alól annak az adóköteles terméknek a 3. § (1) bekezdése szerinti értékesítése, amelyet vevője az Áfa törvény 89. § (1) bekezdése vagy 98. §-a szerinti feltételeknek megfelelően továbbértékesít, feltéve hogy e tényről a vevő az adóalany felé az értékesítéskor nyilatkozik, valamint a továbbértékesítés tényét – a továbbértékesített adóköteles termék mennyiségének közlésével – számára hitelt érdemlően igazolja. Ha a vevő a nyilatkozatában foglaltak ellenére az adóköteles terméket belföldön értékesíti tovább, akkor erről a tényről – a belföldön értékesített termék mennyiségének megjelölésével – az adó alanyát a belföldi értékesítés teljesítési időpontját követő 8 napon belül köteles értesíteni. Az adó alanya a vevő által belföldön továbbértékesített adóköteles termék utáni adót – az eredeti esedékességtől számított késedelmi pótlékkal növelten – a vevő által megküldött értesítés kézhezvételének napját magában foglaló adómegállapítási időszakban köteles megállapítani és esedékességkor megfizetni. Amennyiben a vevő a belföldi értékesítésről szóló értesítési kötelezettségének határidőben nem tesz eleget, akkor a belföldön értékesített adóköteles termék után az adóalany által meg nem fizetett adót, a nyilatkozattétel esedékességétől számított késedelmi pótlékot, illetve – ha a mulasztást az állami adó- és vámhatóság tárja fel – a meg nem fizetett adóval összefüggő adóbírságot és késedelmi pótlékot a vevő köteles megfizetni.
 
-(4)
+(4) Mentes az adó alól annak az adóköteles terméknek a beszerzése, amelyet az adóalany belföldön saját adóköteles termék előállításához használ fel anélkül, hogy a beszerzett termék előrecsomagolt jellegét megváltoztatná.
 
 #### 7. Az adó megállapítása
 
-8. § (1) Azon adóköteles termék értékesítése utáni adót kell megállapítani és a 10. § (2) és (3) bekezdése szerint bevallani, amely adóköteles termék értékesítéséről kiállított
+8. § (1) Azon adóköteles termék értékesítése, beszerzése utáni adót kell megállapítani és a 10. § (2) és (3) bekezdése szerint bevallani, amely adóköteles termék vagy a 3. § (1) bekezdés b) pontjában említett előállított termék értékesítéséről kiállított
 
 - a) számlán, számviteli bizonylaton vagy ezek hiányában bármely más, az értékesítésről kiállított okiraton szereplő teljesítési időpont vagy, ha a teljesítési időpontot nem tüntették fel, akkor a
 - b) számla, számviteli bizonylat vagy az értékesítésről kiállított más okirat kiállításának időpontja
 
-a 10. § (1) és (2) bekezdése szerinti bevallási időszakra (a továbbiakban: adómegállapítási időszak) esik.
+a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban: adómegállapítási időszak) esik.
 
 (2) Az adó alanya az (1) bekezdésben meghatározott adómegállapítási időszakra önadózással állapítja meg adóját.
 
@@ -107,7 +121,7 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 #### 9. Eljárási rendelkezések
 
-10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
+10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal adóztatási szerve (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
 
 (2) Az adó alanya bevallási kötelezettségét – a (3) bekezdésben meghatározott eltéréssel – a rá irányadó általános forgalmi adó bevallási időszak szerint teljesíti, az általános forgalmi adó bevallására előírt határidőig az e célra rendszeresített elektronikus nyomtatványon a hatósághoz.
 
@@ -119,7 +133,15 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 (6) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
-(7) Az adóalany vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el.
+(7)
+
+### Átmeneti rendelkezések
+
+10/A. § (1) E törvény 10. § (1) bekezdésében foglaltaktól eltérően a 2013. január 1-jét megelőző időszakra vonatkozó népegészségügyi termékadó bevallásokat (ideértve a bevalláspótlást és az önellenőrzést is) 2013. február 14-éig a vámhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat a vámhatóság látja el. 2013. február 14-éig a befizetéseket a vámhatósághoz kell teljesíteni.
+
+(2) 2013. február 14-ét követően a népegészségügyi termékadó bevallásokat (bevalláspótlást, önellenőrzést) az állami adóhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat az állami adóhatóság látja el. 2013. február 14-ét követően a befizetéseket az állami adóhatósághoz kell teljesíteni.
+
+(3) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
 
 11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.
 

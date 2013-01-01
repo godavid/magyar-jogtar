@@ -10,8 +10,8 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 1. § (1) A törvény hatálya kiterjed az épített környezet alakítása és védelme körébe tartozóan:
 
-- a) a települések területének rendezésére (a továbbiakban: településrendezés),
-- b) a településrendezés tervezésére (a továbbiakban: településtervezés),
+- a) a településfejlesztésre és a települések területének rendezésére (a továbbiakban: településrendezés),
+- b) a településfejlesztés tervezése és a településrendezés tervezésére (a továbbiakban: településtervezés),
 - c) az épületek, műtárgyak (a továbbiakban együtt: építmények), valamint az építési munkák és építési tevékenységek építési előírásainak kialakítására,
 - d) az építmények építészeti-műszaki tervezésére (a továbbiakban: építészeti-műszaki tervezés),
 - e) az építmények kivitelezésére,
@@ -22,54 +22,55 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - j) az a)–i) pontokban foglaltakkal kapcsolatos feladatokra, hatáskörökre és hatósági jogkörökre, továbbá
 - k) az a)–j) pontokban foglaltakra vonatkozó szabályok megállapítására, alkalmazásuk ellenőrzésére és érvényre juttatására (a továbbiakban együtt: építésügy).
 
-(2) E törvényt a sajátos építményfajták, valamint a műemlékvédelem alatt álló építmények és területek tekintetében a rájuk vonatkozó külön törvényekkel, kormányrendeletekkel együtt, a bennük foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
+(2) E törvényt a sajátos építményfajták, valamint a műemlékvédelem alatt álló építmények és területek tekintetében a rájuk vonatkozó külön törvényekkel, kormányrendeletekkel, miniszteri rendeletekkel és önálló szabályozó szerv vezetője által kiadott rendeletekkel és miniszteri rendeletekkel együtt, a bennük foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
 
 ### Fogalommeghatározások
 
 2. § E törvény alkalmazásában:
 
-- 1. Akadálymentes: az épített környezet akkor, ha annak kényelmes, biztonságos, önálló használata minden ember számára biztosított, ideértve azokat az egészségkárosodott egyéneket vagy embercsoportokat is, akiknek ehhez speciális létesítményekre, eszközökre, illetve műszaki megoldásokra van szükségük.
+- 1. Akadálymentes: az épített környezet akkor, ha annak kényelmes, biztonságos, önálló használata minden ember számára biztosított, ideértve azokat az egészségkárosodott egyéneket vagy embercsoportokat is, akiknek ehhez speciális eszközökre, illetve műszaki megoldásokra van szükségük.
 - 2. Beépítésre nem szánt terület: a település közigazgatási területének a zöldterületi, a közlekedési, a mezőgazdasági, az erdőművelési, illetőleg az egyéb célra szolgáló része.
 - 3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló területrésze.
-- 4. Belterület: a település közigazgatási területének – jellemzően a település történetileg kialakult, elsősorban összefüggő, beépített, illetőleg beépítésre szánt területeket tartalmazó – kijelölt része.
+- 4. Építtető: az építésügyi hatósági engedély kérelmezője, az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
 - 5. Épített környezet: a környezet tudatos építési munka eredményeként létrehozott, illetve elhatárolt épített (mesterséges) része, amely elsődlegesen az egyéni és a közösségi lét feltételeinek megteremtését szolgálja.
-- 6. Építési telek: beépítésre szánt területen fekvő, az építési szabályoknak megfelelően kialakított és közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott, magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető telek.
+- 6. Nyomvonal jellegű építmény: a sajátos építményfajták körében a vasúti pálya, a függő- és szállítószalag-pálya, az út, a vízilétesítmény, a vízellátási vezeték, a csatorna, a szénhidrogén-termelés mezőbeli vezetékei, a kőolaj- és a kőolajtermék-szállító vezeték, a földgázszállító vezeték, a földgáz-célvezeték és a földgáz-elosztóvezeték, a szén-dioxid-szállító vezeték, az egyéb gáz- és gáztermékek vezetéke, a villamosenergia-átviteli és elosztóhálózat, a villamosenergia-termelői, magán- és közvetlen vezeték, a távhővezeték-hálózat, az elektronikus hírközlési építmény.
 - 7. Építési terület: olyan telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál.
-- 8. Építmény: építési tevékenységgel létrehozott, illetve késztermékként az építési helyszínre szállított, – rendeltetésére, szerkezeti megoldására, anyagára, készültségi fokára és kiterjedésére tekintet nélkül – minden olyan helyhez kötött műszaki alkotás, amely a terepszint, a víz vagy az azok alatti talaj, illetve azok feletti légtér megváltoztatásával, beépítésével jön létre. Az építményhez tartoznak annak rendeltetésszerű és biztonságos használatához, működéséhez, működtetéséhez szükséges alapvető műszaki és technológiai berendezések is (az építmény az épület és műtárgy gyűjtőfogalma).
+- 8. Építmény: építési tevékenységgel létrehozott, illetve késztermékként az építési helyszínre szállított, – rendeltetésére, szerkezeti megoldására, anyagára, készültségi fokára és kiterjedésére tekintet nélkül – minden olyan helyhez kötött műszaki alkotás, amely a terepszint, a víz vagy az azok alatti talaj, illetve azok feletti légtér megváltoztatásával, beépítésével jön létre (az építmény az épület és műtárgy gyűjtőfogalma).
 - 9. Közhasználatú építmény: az olyan építmény (építményrész), amely – a település vagy településrész ellátását szolgáló funkciót tartalmaz, és – használata nem korlátozott, illetve nem korlátozható (pl. alap-, közép-, felsőfokú oktatási, egészségvédelmi, gyógyító, szociális, kulturális, művelődési, sport, pénzügyi, kereskedelmi, biztosítási, szolgáltatási célú építmények mindenki által használható részei), továbbá – használata meghatározott esetekben kötelező, illetve elkerülhetetlen (pl. a közigazgatás, igazságszolgáltatás, ügyészség építményeinek mindenki által használható részei), valamint, amelyet – törvény vagy kormányrendelet közhasználatúként határoz meg
 - 10. Épület: jellemzően emberi tartózkodás céljára szolgáló építmény, amely szerkezeteivel részben vagy egészben teret, helyiséget vagy ezek együttesét zárja körül meghatározott rendeltetés vagy rendeltetésével összefüggő tevékenység, avagy rendszeres munkavégzés, illetve tárolás céljából.
-- 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési önkormányzati rendelet.
-- 12. Integrált településfejlesztési stratégia: stratégiai szemléletű, a településfejlesztési koncepcióban foglaltak megvalósítását szolgáló dokumentum.
+- 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet.
+- 12. Integrált településfejlesztési stratégia: a településfejlesztési koncepcióban foglalt környezeti, társadalmi és gazdasági célok megvalósítását egyidejűleg szolgáló középtávú fejlesztési program.
 - 13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet az ingatlan-nyilvántartás ekként tart nyilván.
-- 14. Külterület: a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési, illetőleg különleges (pl. bánya, vízmeder, hulladéktelep) célra szolgáló része.
+- 14. Önkormányzati (települési, a fővárosban fővárosi és kerületi, térségi) főmérnök: a települési önkormányzat településüzemeltetési, a település műszaki – különösen a sajátos építményekkel és a katasztrófavédelemmel kapcsolatos – feladatainak ellátásában közreműködő, e feladatokkal kapcsolatos döntést előkészítő személy.
 - 15. Műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz (pl. út, híd, torony, távközlés, műsorszórás műszaki létesítményei, gáz-, folyadék-, ömlesztett anyag tárolására szolgáló és nyomvonalas műszaki alkotások).
-- 16. Önkormányzati (megyei, települési, térségi) főépítész: a helyi önkormányzat területrendezési, valamint e törvényben meghatározott építésügyi feladataival kapcsolatos döntéseit előkészítő – felsőfokú szakirányú végzettséggel rendelkező – személy.
+- 16. Önkormányzati (megyei, települési, a fővárosban fővárosi és kerületi, térségi) főépítész: a helyi önkormányzat településrendezési, valamint e törvényben meghatározott egyéb építésügyi feladataival kapcsolatos döntéseit előkészítő személy.
 - 17. Önkormányzati településfejlesztési döntés: a települési érdekek érvényre juttatása céljából a település fejlődésének alapvető lehetőségeit és irányait meghatározó, a település természeti adottságaira, gazdasági, szociális-egészségügyi és pénzügyi szempontjaira épülő településfejlesztési elhatározás.
-- 18. Sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, közmű- és energiaellátási, vízellátási és vízgazdálkodási, bányászati tevékenységgel és a bányászati hulladék kezelésével kapcsolatos, atomenergia alkalmazására szolgáló, valamint a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények (mérnöki létesítmények), amelyek létesítésekor – az építményekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség.
-- 19. Szabályozási keretterv: az a fővárosi településrendezési terv, amely a főváros közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek, valamint a környezet elemeinek védelmével kapcsolatos általános követelményeket megállapító fővárosi építési keretszabályzatot térképen, rajzi formában ábrázolja.
-- 20. Szabályozási terv: az a településrendezési terv, amely a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos sajátos helyi követelményeket, jogokat és kötelezettségeket megállapító építési előírásokat térképen, rajz formájában ábrázolja.
+- 18. Sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, közmű- és energiaellátási, vízellátási és vízgazdálkodási, bányászati tevékenységgel és a bányászati hulladék kezelésével kapcsolatos, atomenergia alkalmazására szolgáló, valamint a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség.
+- 19. Építési napló: az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható, a szerződés tárgya szerinti építőipari kivitelezési tevékenység jellemzőit – kormányrendeletben meghatározott módon – tartalmazó dokumentum.
+- 20. Energetikai tanúsítvány: igazoló okirat, amely az épületnek vagy önálló rendeltetési egységnek az e törvény felhatalmazása alapján kiadott jogszabály szerinti számítási módszerrel meghatározott energetikai teljesítőképességét tartalmazza.
 - 21. Telek: egy helyrajzi számon nyilvántartásba vett földterület.
 - 22. Telekcsoport újraosztása: a szomszédos telkek csoportjának összevonása és egyidejűleg a helyi építési szabályzatban és településrendezési tervben meghatározott rendeltetés céljára szolgáló új telkekként történő felosztása.
 - 23. Telekegyesítés: az egymással közvetlenül szomszédos telkek egy telekké történő összevonása.
 - 24. Telekfelosztás: a telek új telkekre történő osztása.
 - 25. Telekhatárrendezés: az egymással közvetlenül szomszédos telkek közös határvonalának megváltoztatása.
 - 26. Telektömb: a telkek olyan csoportja, amelyet minden oldalról közterület vagy részben más beépítésre nem szánt terület határol.
-- 27. Településfejlesztési koncepció: a fejlesztés összehangolt megvalósulását biztosító és a településrendezést is megalapozó, a település közigazgatási területére kiterjedő önkormányzati településfejlesztési döntéseket rendszerbe foglaló, önkormányzati határozattal elfogadott dokumentum, amely a település jövőbeni kialakítását tartalmazza. A fejlesztési koncepció elsősorban településpolitikai dokumentum, amelynek kidolgozásában a természeti-művi adottságok mellett a társadalmi, a gazdasági, a környezeti szempontoknak és az ezeket biztosító intézményi rendszernek van döntő szerepe.
-- 28. Településrendezési terv: a településszerkezeti terv, a szabályozási keretterv és a szabályozási terv.
-- 29. Településszerkezeti terv: az a településrendezési terv, amely meghatározza a település alakításának, védelmének lehetőségeit és fejlesztési irányait, ennek megfelelően az egyes területrészek felhasználási módját, a település működéséhez szükséges műszaki infrastruktúra elemeinek a település szerkezetét meghatározó térbeli kialakítását és elrendezését.
+- 27. Településfejlesztési koncepció: a település környezeti, társadalmi, gazdasági adottságaira alapozó, a település egészére készített, a változások irányait és a fejlesztési célokat hosszú távra meghatározó dokumentum.
+- 28.
+- 29. Településszerkezeti terv: a településfejlesztési koncepcióban foglalt célok megvalósítását biztosító, a település szerkezetét, a területfelhasználást és a műszaki infrastruktúra-hálózatok elrendezését meghatározó terv.
 - 30. Építési beruházás: az építési tevékenység megvalósításával összefüggésben végzett gazdasági, és építésügyi tevékenységek összessége.
 - 31. Biológiai aktivitásérték: egy adott területen a jellemző növényzetnek a település ökológiai állapotára és az emberek egészségi állapotára kifejtett hatását mutató érték.
 - 32. Építészeti érték: az épített környezet minden olyan tárgyi és szellemi (építészettörténeti, építőművészeti, műszaki-tudományos) építészeti minőséggel rendelkező alkotásokban megjelenő értéke, amelyben a mindenkori társadalom – ezen belül a helyi közösségek – identitása és alkotóképessége fejeződik ki.
 - 33. Építészeti örökség: az épített környezet maradandó építészeti értéket is képviselő elemeinek (építmény, épületegyüttes, táj- és kertépítészeti alkotás) összessége – annak minden beépített alkotórészével, tartozékával és berendezésével együtt.
-- 34. Fővárosi keretszabályzat: a főváros területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek, valamint a környezeti elemek védelmével kapcsolatos – telekalakítási és építésjogi követelmények tekintetében nem teljeskörűen szabályozó – általános követelményeket keretjelleggel megállapító, a fővárosi önkormányzat által megalkotott építési szabályzat.
-- 35. Övezeti terv: a helyi építési szabályzatban megállapított építési övezetek, illetőleg övezetek területi lehatárolását – a település ingatlan-nyilvántartási térképének másolatán – tartalmazó terv, amely a szabályzat mellékletét képezi.
+- 34. Helyi építészeti értékvédelem: a helyi építészeti örökség értékeinek feltárása, számbavétele, védetté nyilvánítása, fenntartása és védelmének biztosítása.
+- 35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos szabályoknak, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek épületmagasságát, a fővárosi infrastruktúra területbiztosítását, valamint a Duna főmedrével közvetlenül határos telkek rendeltetését megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
 - 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
+- 37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
 
 ### Általános követelmények
 
 3. § (1) Az épített környezet alakítását és védelmét:
 
-- a) a jogszabályokkal összhangban álló településrendezési és építészeti-műszaki tervek alapján,
+- a) a jogszabályokkal összhangban álló településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök és építészeti-műszaki dokumentáció alapján,
 - b) a jogszabályokban előírt építészeti, műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
 - c) a humánus környezetre és az esztétikus kialakításra tekintettel, valamint
 - d) a résztvevők együttműködésével kell megvalósítani.
@@ -89,6 +90,8 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - c) a nemzetközi egyezményekből adódó állami feladatok ellátásáról,
 - d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról.
 
+(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében a Kormány rendeletben megállapíthatja a beépítés szabályait.
+
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is – az építésügyért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
 5. § (1) A miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
@@ -97,12 +100,15 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - b) külön jogszabályok szerint
   - ba) összehangolja az építésügyi és az építésfelügyeleti hatóságok tevékenységét,
   - bb) ellátja az építésügyi és az építésfelügyeleti hatóságok, valamint az egyéb építésügyi igazgatási feladatot ellátó szervezet építésügyi igazgatási feladatainak szakmai irányítását, ennek keretében rendszeresen gondoskodik e szervezetek szakmai munkájának és a vonatkozó jogszabályok érvényesülésének helyszíni ellenőrzéséről,
-- c)
-- d) elősegíti – a kultúráért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
-- e) részt vesz az építésügyet érintő képzési, szakképzési célok meghatározásában és kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó miniszteri rendeletek előkészítésében,
-- f) a műemlékek és a sajátos építményfajtákért felelős miniszterek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását.
+- c) ellátja az Országos Építésügyi Nyilvántartás (a továbbiakban: Nyilvántartás), valamint az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) szakmai irányítását és felügyeletét,
+- d) elősegíti – a régészeti örökség és a műemléki értékek védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
+- e) részt vesz az építésügyet érintő felsőoktatási, szakirányú továbbképzési, oktatási képzési és szakképzési célok meghatározásában, azok tartalmának és képesítési követelményeinek kidolgozásában, továbbá kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó jogszabályok előkészítésében,
+- f) a műemlékek és a sajátos építményfajtákért felelős miniszterek és önálló szabályozó szervek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását,
+- g) ellátja a területi építész és mérnöki kamarák által vezetett, építésüggyel összefüggő szakmagyakorlási jogosultságokhoz kapcsolódó eljárások és nyilvántartások, valamint a vállalkozó építőipari kivitelezői nyilvántartás szakmai felügyeletét,
+- h) érvényre juttatja az építésügyi ágazati és foglalkoztatási elvárásokat a képzési követelményekben az alap-, közép- és felsőfokú, valamint az iskolarendszeren kívüli oktatási, képzési intézményeknél és a társadalom más érintett szervezeteinél,
+- i) elősegíti – a természetvédelméért felelős miniszter bevonásával – a települési zöldfelületek megőrzését, fejlesztését és védelmét.
 
-(2) Az építésügyi hatóság az építményekkel – beleértve a sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel – kapcsolatos építési tevékenységgel összefüggő engedélyezési, kötelezési és ellenőrzési feladatai során az építményekre vonatkozó általános érvényű településrendezési és építési követelményeket juttatja érvényre. A sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel kapcsolatos építési tevékenység esetén a hatáskörrel rendelkező építésügyi hatóság a sajátos építményfajtákra és a műemlékekre vonatkozó jogszabályi követelményeket is érvényesíti.
+(2) Az építésügyi hatóság az építményekkel – beleértve a hatáskörébe tartozó sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel – kapcsolatos építési tevékenységgel összefüggő engedélyezési, kötelezési és ellenőrzési feladatai során az építményekre vonatkozó általános érvényű településrendezési és építési követelményeket juttatja érvényre. A sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel kapcsolatos építési tevékenység esetén a hatáskörrel rendelkező építésügyi hatóság a sajátos építményfajtákra és a műemlékekre vonatkozó jogszabályi követelményeket is érvényesíti.
 
 (3) A miniszter az (1) bekezdés és a 4. § (4) bekezdése szerinti feladatainak ellátása, az egységes és következetes szakmapolitikai irányítás megvalósítása érdekében az építésügyi szakmai érdek-képviseletek és az építésügyben érdekelt kormányzati szervek részvételével közreműködő, építésügyi konzultatív, javaslattevő és véleményező testületet működtet. A sajátos építményfajták és a műemlékek tekintetében illetékes miniszterek együttműködnek a miniszterrel az építésügyet közvetlenül érintő döntések előkészítésében.
 
@@ -113,288 +119,187 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - a) településrendezési eszköz hiánya vagy hiányos szabályozása esetén az illeszkedési szabályok érvényesülésének elősegítése, továbbá
 - b) a települési környezet, a táj- és településkép,
 - c) a beépítési-, vagy az építészeti jellegzetesség és látvány, a helyi jelleg, illetve
-- d) az építészeti örökség és az építészeti értékek (építészeti minőség) külön jogszabály szerinti védelme, valamint
-- e) a településrendezési és az építészeti-műszaki tervek magas színvonalának elősegítése, egyéb fontos építésügyi (különösen településrendezési, építészeti-műszaki, településképi, környezetalakítási, az akadálymentes épített környezetalakítási) célok érvényre juttatása.
+- d) az építészeti örökség és az építészeti értékek (építészeti minőség) külön jogszabály szerinti védelme.
+- e)
 
 ### A helyi önkormányzatok építésügyi feladatai
 
-6. § (1) A települési (fővárosban a kerületi) önkormányzat, valamint szerveik építésügyi feladata különösen:
+6. § (1) a települési önkormányzat az épített környezet, a település tervszerű alakítása és védelme érdekében e törvény és végrehajtási rendeleteinek keretei között településfejlesztési és településrendezési feladatokat lát el.
 
-- a) a jogszabályok keretein belül – a fővárosban a fővárosi keretszabályt és szabályozási kerettervet figyelembe véve – a településrendezési feladatkör ellátása,
-- b) az épített környezet emberhez méltó és esztétikus kialakítása, valamint a helyi építészeti örökség védelme,
-- c) az építésügy helyi feladatainak ellátásához szükséges anyagi és személyi feltételek biztosítása.
+(2) Ha országos közérdekből vagy kiemelt nemzetgazdasági érdekből szükséges, törvény a települési önkormányzatot kötelezheti, hogy – a Kormány által rendeletben meghatározott határidőre – gondoskodjon a településfejlesztési koncepciójának, integrált településfejlesztési stratégiájának és a településrendezési eszközeinek elkészítéséről, módosításáról, azok jóváhagyásáról. Ilyen esetben a pénzügyi fedezetnek az éves központi költségvetésben történő tervezéséről a Kormány gondoskodik.
 
-(2) A fővárosi önkormányzat és szervei építésügyi feladata a több fővárosi kerület közigazgatási területét érintő:
+(3) A megyei önkormányzat elősegíti a megyei területfejlesztési koncepció és a területrendezési tervek, valamint a településfejlesztési koncepciók, integrált településfejlesztési stratégiák és a településrendezési eszközök összhangjának megteremtését, ennek érdekében véleményezi és figyelemmel kíséri azokat.
 
-- a) építési keretszabály megállapítása,
-- b) szabályozási keretterv jóváhagyása,
-- c) az (1) bekezdés b)–c) pontjaiban említett feladatkör ellátása.
+(4) A fővárosban a településfejlesztéssel és a településrendezéssel kapcsolatos feladatok ellátása a 14–14/A. §-ban foglaltak szerint történik.
 
-(3) A települési önkormányzat – a fővárosban a fővárosi és a kerületi önkormányzatok a külön jogszabályban meghatározott hatáskörük szerint – a településrendezési feladatukat
+6/A. § (1) E törvényben meghatározott feltételek teljesülése esetén – jogszabályban meghatározott körben és az ott meghatározottak szerint –
 
-- a) a helyi építési szabályzat, valamint a településrendezési tervek elkészíttetésével és azok elfogadásával, továbbá
-- b) a 17. § szerinti sajátos jogintézmények alkalmazásával látják el.
+- a) a települési önkormányzat (fővárosban a kerületi önkormányzat)
+  - aa) elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek, a településkép, a rálátás és kilátás védelmét, továbbá meghatározza a település területfelhasználásához az építményekben létesíthető rendeltetések körét és a reklámok elhelyezésére vonatkozó követelményeket,
+  - ab) előzetes tájékoztatást ad az ügyfeleknek a helyi településrendezési előírások tartalmáról, ennek keretében javaslatot tehet a telek beépítésének feltételeire a településkép és az építészeti örökség megóvásával és minőségi alakításával kapcsolatban,
+  - ac) szakmai konzultációt biztosít az ab) alpontban meghatározott követelmények teljesítése érdekében,
+- b) a fővárosi önkormányzat – e törvényben meghatározott körben – elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek és örökség védelmét.
 
-(4) Ha az országos érdekből szükséges, törvény a települési önkormányzatot kötelezheti, hogy meghatározott határidőre gondoskodjon a helyi építési szabályzat, illetőleg a településrendezési tervek elkészítéséről, felülvizsgálásáról, módosításáról és azok megállapításáról, illetve jóváhagyásáról. Ilyen esetben a szükséges pénzügyi fedezet biztosításáról az éves központi költségvetésben e célra biztosított keret felhasználásával a Kormány gondoskodik.
+(2) a települési önkormányzat polgármestere jogszabályban meghatározott esetekben és módon
 
-(5) A megyei önkormányzat és szervei építésügyi feladata különösen:
+- a) véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez,
+- b) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében.
 
-- a) a településrendezési tervek és a megyei területrendezési tervek összhangjának előmozdítása,
-- b) a megye arculatát befolyásoló, több települést érintő táji, természeti és épített környezet védelme és alakítása, a települési önkormányzatok erre irányuló tevékenységének segítése.
+(3) a települési önkormányzat (fővárosban a fővárosi és a kerületi önkormányzat) az építésügyi feladatát a helyi rendeletei megalkotásával és a kapcsolódó sajátos jogintézményekkel, továbbá a települési (fővárosban a fővárosi és a kerületi) vagy térségi – a főépítészi tevékenységről szóló kormányrendeletben foglaltak szerinti – önkormányzati főépítész közreműködésével látja el.
 
-(6) Az önkormányzat (1) és (2) bekezdés, valamint 15. § szerinti feladatait önkormányzati főépítész vagy térségi főépítész készíti elő.
+6/B. § Kormányrendeletben meghatározott települési önkormányzat kormányrendeletben meghatározottak szerint egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat lát el.
 
-(7)
+### II. Fejezet — A TELEPÜLÉSFEJLESZTÉS ÉS A TELEPÜLÉSRENDEZÉS
 
-### II. Fejezet — A TELEPÜLÉSRENDEZÉS
+### A településfejlesztés és a településrendezés célja és alapvető követelményei
 
-### A településrendezés célja, feladata és eszközei
+7. § (1) A településfejlesztés és a településrendezés célja a lakosság életminőségének és a település versenyképességének javítása érdekében a fenntartható fejlődést szolgáló településszerkezet és a jó minőségű környezet kialakítása, a közérdek érvényesítése az országos, a térségi, a települési és a jogos magánérdekek összhangjának biztosításával, a természeti, táji és építészeti értékek gyarapítása és védelme, valamint az erőforrások kíméletes és környezetbarát hasznosításának elősegítése.
 
-7. § (1) A településrendezés célja a települések terület-felhasználásának és infrastruktúra-hálózatának kialakítása, az építés helyi rendjének szabályozása, a környezet természeti, táji és épített értékeinek fejlesztése és védelme, továbbá az országos, a térségi, a települési és a jogos magánérdekek összhangjának megteremtése, az érdekütközések feloldásának biztosítása, valamint az erőforrások kíméletes hasznosításának elősegítése.
+(2) A településfejlesztés és a településrendezés során biztosítani kell a területek közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel. Ennek során figyelembe kell venni
 
-(2) A településrendezés feladata, hogy a település területének, telkeinek felhasználására és beépítésére vonatkozó helyi szabályok kialakításával:
+- a) a népesség demográfiai változását, lakásszükségletét,
+- b) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a civil szervezetek, egyházak működési feltételeinek lehetőségeire,
+- c) a helyi népesség identitásának erősítését, kulturális örökségük sokféleségének és gazdagságának megőrzését,
+- d) a népesség megélhetését biztosító gazdasági érdekeket, a munkahelyek megőrzésének és új munkahelyek teremtésének érdekeit, a mező- és erdőgazdaság, a közlekedés, a posta és a hírközlés, a közüzemi ellátás, különösképpen az energia- és vízellátás, a hulladékkezelés, a szennyvízelhelyezés és -kezelés, valamint a nyersanyaglelőhelyek biztosítását,
+- e) a helyi társadalmi-gazdasági és infrastrukturális egyenlőtlenségek csökkentését, az integráció elmélyítését,
+- f) a közlekedési kényszer csökkentését és a megfelelő színvonalú közlekedés kialakítását,
+- g) az egészséges lakó- és munkakörülmények, a népesség biztonságának általános követelményeit,
+- h) a megőrzésre érdemes történeti vagy településképi jelentőségű településrészek és az építészeti és régészeti örökség védelmét, felújítását és továbbfejlesztését, valamint az értékes építmény és tájrészlet látványát (rálátás), továbbá az ingatlanról feltáruló kilátás védelmét, annak mértékéig, hogy az az érintett telkek szabályos beépítését ne akadályozza,
+- i) a környezet-, a természet- és a tájvédelem szempontjait,
+- j) a tájhasználat, a tájszerkezet és a tájkép formálásának összehangolt érdekeit, különös tekintettel a víz, a levegő, a talaj, a klíma és az élővilág védelmére,
+- k) a területtel és a termőfölddel való takarékos gazdálkodást,
+- l) az arra alkalmas természeti adottságok gyógyászati hasznosításának elősegítését és védelmét,
+- m) a honvédelem, a nemzetbiztonság és a katasztrófavédelem érdekeit,
+- n) az ásványvagyon-gazdálkodás érdekeit,
+- o) az infrastrukturális erőforrások optimális kihasználását, valamint
+- p) a zöldfelület-, környezet- és természetkímélő fejlesztések támogatását.
 
-- a) meghatározza a település összehangolt, rendezett fejlődésének térbeli-fizikai kereteit;
-- b) a település adottságait és lehetőségeit hatékonyan kihasználva elősegítse annak működőképességét a környezeti ártalmak legkisebbre való csökkentése mellett;
-- c) biztosítsa a település (településrészek) megőrzésre érdemes jellegzetes, értékes szerkezetének, beépítésének, építészeti és természeti arculatának védelmét.
+(3) A (2) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a felszíni és felszín alatti vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
 
-(3) A településrendezés eszközei:
+- a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, részbeni összegyűjtése és helyben tartása biztosításának az adottságok és a lehetőségek szerinti figyelembevételével,
+- b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
+- c) a települések beépítésre szánt területeinek összességét – ott, ahol az fizikailag lehetséges – beépítésre nem szánt területekből álló gyűrűvel kell körülvenni, a települések összenövésének elkerülése érdekében,
+- d) a termőföld igénybevételével járó, újonnan beépítésre szánt területek kijelölésénél elsősorban a termőföld védelméről szóló törvényben meghatározott átlagosnál gyengébb minőségű termőföld-területek jelölhetők ki,
+- e) a települések beépítésre szánt területe csak olyan területfelhasználás céljára növelhető, amilyen célra a település már beépítésre kijelölt területén belül nincs megfelelő terület.
 
-- a) a településfejlesztési koncepció, amelyet a települési önkormányzat képviselő-testülete határozattal állapít meg (2. § 27. pont);
-- b) a településszerkezeti terv, amelyet az önkormányzati településfejlesztési döntés figyelembevételével a települési önkormányzat képviselő-testülete dolgoztat ki, és határozattal állapít meg (2. § 28. pont);
-- c) a helyi építési szabályzat és a szabályozási terv, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki, és rendelettel állapít meg (2. § 11. és 20. pont).
+### A településfejlesztés és a településrendezés általános szabályai
 
-(4) A (3) bekezdés szerinti településfejlesztési koncepció és településszerkezeti terv – a vonatkozó előírásoknak megfelelően – településfejlesztési tervként egyszerre is elkészíthető és egy határozattal megállapítható. A településfejlesztési tervet a 9. § és a 10. § (3) bekezdés előírásai szerint kell véleményeztetni.
+8. § (1) A településfejlesztési koncepciót, az integrált településfejlesztési stratégiát és a településrendezési eszközöket a területfejlesztési tervekkel összhangban, az országos településfejlesztési és településrendezési szakmai előírások figyelembevételével, továbbá azok elkészítéséről szóló, e törvény végrehajtására kiadott jogszabályban meghatározottak szerint kell elkészíteni.
 
-(5) A településfejlesztési koncepcióban foglaltak megvalósítása érdekében a városok és több település közös fejlesztési tervezése esetén integrált településfejlesztési stratégiát kell készíteni. Az integrált településfejlesztési stratégia meghatározza a települések településfejlesztési tevékenységét, összehangolja a különböző szakpolitikai megközelítéseket, összefogja és ütközteti az érintett partnerek (üzleti szektor, civil szektor, közszféra szereplői, lakosság) céljait, elvárásait, meghatározza a fejlesztési célokat, azok finanszírozási módját, továbbá a megvalósítás és fenntartás módját is összefüggéseiben kezeli.
+(2) A településfejlesztési koncepciót, az integrált településfejlesztési stratégiát és a településrendezési eszközöket a települési önkormányzat a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök elkészítéséről és elfogadásáról szóló kormányrendeletben foglaltak szerint a megállapításuk előtt véleményezteti.
 
-8. § (1) A településrendezés során figyelemmel kell lenni arra, hogy a rendezés végrehajtásával bekövetkező változások az érintett lakosság életkörülményeiben, értékrendjében és szociális helyzetében hátrányos következményekkel ne járjanak. Ennek érdekében biztosítani kell a területek a közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel, az emberhez méltó környezet folyamatos alakítását, értékeinek védelmét. Ennek során figyelembe kell venni:
+(3) A településrendezési eszköz – a (2) bekezdés szerinti kormányrendeletben meghatározott kivétellel – legkorábban az elfogadásától számított 30. napon léptethető hatályba.
 
-- a) az egészséges lakó- és munkakörülmények, a népesség biztonságának általános követelményeit,
-- b) a népesség demográfiai fejlődését, a népesség lakásszükségletét,
-- c) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint az egyesületek, egyházak működési feltételeinek lehetőségeire,
-- d) a megőrzésre érdemes történeti vagy településképi jelentőségű településrészek és az építészeti és régészeti örökség védelmét, felújítását és továbbfejlesztését, valamint az értékes építmény és tájrészlet látványát (rálátás), továbbá az ingatlanról feltáruló kilátás védelmét, annak mértékéig, hogy az az érintett telkek szabályos beépítését ne akadályozza,
-- e) a környezet-, a természetvédelem, a tájhasználat és a tájkép formálásának összehangolt érdekeit, különös tekintettel a víz, a levegő, a talaj, a klíma és az élővilág védelmére,
-- f) a népesség megélhetését biztosító gazdasági érdekeket, a munkahelyek megőrzésének és új munkahelyek teremtésének érdekeit, a mező- és az erdőgazdaság, a közlekedés, a posta és a hírközlés, a közüzemi ellátás, különösképpen az energia- és a vízellátás, a hulladékkezelés, a szennyvízelhelyezés és -kezelés, valamint a nyersanyaglelőhelyek biztosítását,
-- g) a honvédelem, a nemzetbiztonság és a katasztrófavédelem érdekeit,
-- h) a területtel és a termőfölddel való takarékos gazdálkodást,
-- i) az arra alkalmas természeti adottságok gyógyászati hasznosításának elősegítését és védelmét,
-- j) a közlekedési kényszer (lakóhely-munkahely, nyersanyag kitermelés-feldolgozás stb. viszonylatában) csökkentését és a megfelelő színvonalú közlekedés kialakítását.
+(4) A polgármester (főpolgármester) gondoskodik
 
-(2) Az (1) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a természetes (felszíni és felszín alatti) vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
+- a) a településrendezési eszközök nyilvánosságáról,
+- b) amennyiben ennek az információtechnológiai feltételei fennállnak, a településrendezési eszközöknek az önkormányzat honlapján való közzétételéről, valamint
+- c) az egyes ingatlanokkal kapcsolatos településrendezési követelményekről adandó tájékoztatásról.
 
-- a) a települések rendezése során a település közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését, vagy részbeni összegyűjtését és helyben tartását az adottságok és a lehetőségek figyelembevételével, a belterületi és külterületi vízrendezés összehangolásával biztosítani kell,
-- b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének – a külön jogszabály alapján számított – biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
-- c) a települések beépítésre szánt területe csak olyan területfelhasználás céljára növelhető, amilyen célra a település már beépítésre kijelölt és igénybe vett területén belül nincs megfelelő terület,
-- d) a tervezés időszakában a 20 000 fő lakosságszámot meghaladó, valamint a tervezett létszámmal azt elérő települések, a kiemelt üdülőterületek, a gyógyhelyek meglévő, illetőleg bővített belterületét a közigazgatási területükön belül – eltérő területrendezési tervi előírás hiányában, és ahol ez fizikailag lehetséges – legalább 200 m szélességű, beépítésre nem szánt (mező-, erdőgazdasági, közlekedési, vízgazdálkodási, természetközeli, különleges beépítésre nem szánt) területekből álló gyűrűvel kell körülvenni, amely területen csak közlekedési, közmű, hírközlési és vízvédelmi építmények helyezhetők el. Új belterületet, beépítésre szánt területet úgy kell kijelölni, hogy legfeljebb tízezer tervezett lakost befogadó településrészt (illetőleg az üdülőterület valamint a gyógyhely jellegéhez igazodó területegységeket) ugyanilyen, beépítésre nem szánt területekből álló gyűrű vegye körül. Két terület közötti gyűrű – a természeti adottságok és a környezetvédelmi előírások figyelembevétele mellett – egymásba metszhet.
+(5) Az államigazgatási szerv az (1) bekezdés szerinti jogszabályban meghatározott, a településrendezési eszköz elkészítéséhez, illetve megállapításához szükséges adatszolgáltatásért, valamint a (2) bekezdés szerinti jogszabályban meghatározott véleményezési eljárásban a véleményezésért és az egyeztető tárgyaláson való részvételért díjat nem számíthat fel.
 
-### A településrendezés általános szabályai
+(6) Az államigazgatási szervnek a hatályos jogszabályba foglalt településrendezési eszközöket a hatáskörükbe tartozó ügyekben alkalmazniuk kell.
 
-9. § (1) A helyi építési szabályzatot és a településrendezési terveket az országos településrendezési szakmai előírások figyelembevételével, továbbá a külön jogszabályban meghatározott fogalmak és jelkulcsok alkalmazásával kell elkészíteni.
+### A településfejlesztés feladata
 
-(2) A településrendezési eszköz kidolgozása előtt – beazonosítható módon – meg kell határozni a rendezés alá vont területet, ki kell nyilvánítani a rendezés célját és várható hatását oly módon, hogy az érintettek azzal kapcsolatban 15 munkanapon belül javaslatokat, észrevételeket tehessenek, véleményt nyilváníthassanak. Ennek során biztosítani kell:
+9. § A településfejlesztés feladata a településen élők számára a települési élet- és környezetminőség javítása, a környezetbiztonság erősítése, a települési erőforrásokra építő, az erőforrások fenntarthatóságát biztosító, hosszú és rövid távú fejlesztési irányok, célok és az azok elérését biztosító programok és eszközök meghatározása.
 
-- a) a helyben szokásos módon a kidolgozás elhatározásának tudomásra hozatalát és az érintett lakosság, szervezetek, érdek-képviseleti szervek véleménynyilvánítási lehetőségét,
-- b) az érintett települési önkormányzati szervek bevonását az előkészítésbe úgy, hogy azok írásban ismertethessék a település fejlődése és építési rendje szempontjából jelentős terveiket és intézkedéseiket, valamint ezek várható időbeli ütemezését,
-- c) az e törvény végrehajtására kiadott kormányrendeletben meghatározott államigazgatási szervek megkeresését oly módon, hogy azok véleményt nyilváníthassanak és ismertethessék
-  - ca) a rendezési feladat ellátásához szükséges – nyilvántartásuk részét képező – mindazon adatokat, amelyek a rendezés alá vont területtel kapcsolatosak, továbbá
-  - cb) a hatáskörükbe tartozó kérdésekben a jogszabályon alapuló követelmények érvényre juttatásának feltételeit.
+### A településfejlesztési koncepció és az integrált településfejlesztési stratégia
 
-(3) A készítés alatt lévő településrendezési tervet és helyi építési szabályzatot a polgármesternek (főpolgármesternek) – külön jogszabályban meghatározottak szerint – véleményeztetnie kell az 5. § (4) bekezdésében említett tervtanáccsal. Az elkészített helyi építési szabályzatot és településrendezési terveket a megállapítás, illetve a jóváhagyás előtt a polgármesternek (főpolgármesternek) véleményeztetnie kell a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint az egyesületekkel, amelyek 22 munkanapon belül adhatnak írásos véleményt.
+9/A. § (1) A településfejlesztési koncepció hosszú távra rendszerbe foglalja az önkormányzat településfejlesztési szándékait, ennek keretében a területi adottságok és összefüggések figyelembevételével meghatározza a település jövőképét, javaslatot tesz a helyi környezet, társadalom, gazdaság és az infrastruktúra átfogó fejlesztésére, a műszaki, az intézményi, valamint a táji, természeti és ökológiai adottságok fenntartható hasznosítására. A településfejlesztési koncepcióban foglaltakat a települési önkormányzat döntéseiben érvényesíti.
 
-(4) Az eltérő vélemények tisztázása érdekében a polgármesternek (főpolgármesternek) egyeztető tárgyalást kell tartania, amelyre a hely és az időpont megjelölésével a véleményezési eljárás valamennyi érdekeltjét a tárgyalás előtt legalább 8 nappal meg kell hívnia. Az egyeztető tárgyalásról jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell valamennyi elfogadott és el nem fogadott véleményt azok indokolásával együtt.
+(2) Az integrált településfejlesztési stratégia a rendelkezésre álló és bevonható források ismeretében meghatározza a településfejlesztési koncepcióban meghatározott célok megvalósítását egyidejűleg szolgáló beavatkozásokat, programokat, továbbá a megvalósítás eszközeit és nyomon követését.
 
-(5) Azt az érdekeltet, aki a véleményezési eljárás során írásbeli – államigazgatási szerv esetében jogszabályon alapuló – véleményt nem adott, vagy adott, de az egyeztető tárgyaláson szabályos meghívás ellenére nem vett részt, a továbbiakban kifogást nem emelő véleményezőnek kell tekinteni. A (6) bekezdés szerinti, helyben szokásos módon történő közzététel időtartama alatt érkező észrevételeket a döntésre jogosult testülettel ismertetni kell.
+(3) A településfejlesztési koncepciót és az integrált településfejlesztési stratégiát a települési önkormányzat képviselő-testülete állapítja meg.
 
-(6) A véleményezési eljárás befejezése után a településrendezési eszközöket az elfogadásuk előtt – a (3) és (4) bekezdés alapján beérkezett, de el nem fogadott véleményekkel és azok indoklásával együtt – a polgármesternek (főpolgármesternek) legalább egy hónapra a helyben szokásos módon közzé kell tennie azzal, hogy az érintettek a közzététel ideje alatt azokkal kapcsolatban észrevételt tehetnek, továbbá meg kell küldenie szakmai véleményezés céljából:
+### A településrendezés feladata és eszközei
 
-- a) a főváros, a fővárosi kerület, a megyei jogú város igazgatási területének egészére egyszerre készített szabályzatot és terveket a jogszabályban meghatározott állami főépítész (a továbbiakban: állami főépítész) útján a miniszternek, a fejlesztési koncepciókat a településfejlesztésért és településrendezésért felelős miniszternek
-- b) egyéb szabályzatot és terveket az állami főépítésznek. A miniszter 90, az állami főépítész 30 napon belül, a 9/A. § szerinti esetekben 15 napon belül adhat véleményt; ha e határidőn belül nem nyilatkozik, úgy véleményét egyetértőnek kell tekinteni. A véleményt a döntésre jogosult testülettel ismertetni kell.
+9/B. § (1) A településrendezés feladata, hogy a település területének, telkeinek felhasználására és az építés helyi rendjére vonatkozó szabályok kialakításával
 
-(7) A településrendezési eszköz a (2)–(6) bekezdésben előírt véleményeztetési eljárás lefolytatása nélkül nem fogadható el. A településszerkezeti terv és a helyi építési szabályzat – a 9/A–9/B. §-ban és a 9/D. §-ban meghatározott esetek kivételével – legkorábban a megállapításuktól számított 30. napon léptethetők hatályba.
+- a) meghatározza a település összehangolt, rendezett fejlődésének térbeli-fizikai kereteit,
+- b) a település adottságait és lehetőségeit hatékonyan kihasználva elősegítse annak működőképességét a környezeti ártalmak legkisebbre való csökkentése mellett,
+- c) biztosítsa a település működéséhez szükséges infrastruktúra-hálózatot, valamint
+- d) biztosítsa a település, településrészek megőrzésre érdemes jellegzetes, értékes szerkezetének, beépítésének, építészeti, természeti és tájképi arculatának védelmét.
 
-(8) A polgármester (főpolgármester) az elfogadást követően 10 munkanapon belül gondoskodik a helyi építési szabályzat, a településrendezési tervek és a beérkezett vélemények figyelembe nem vétele indokolásának – amennyiben ennek az információtechnológiai feltételei fennállnak, az önkormányzat honlapján való – közzétételéről. A polgármester (főpolgármester) az elfogadást követően 10 munkanapon belül megküldi a helyi építési szabályzatot, a településrendezési terveket és a beérkezett vélemények figyelembe nem vételének indokolását az azok véleményezésében részt vett államigazgatási szerveknek és szakmai vizsgálat céljából az állami főépítésznek. Ha a véleményezési eljárásban részt vett vélemény-nyilvánításra jogosult államigazgatási szervek azt észlelik, hogy a települési önkormányzat nem vette figyelembe jogszabályon alapuló véleményüket, úgy e kérdésben kialakított álláspontjukról 15 munkanapon belül tájékoztatják az állami főépítészt.
+(2) A településrendezés eszközei
 
-(9) A megállapított helyi építési szabályzatban és a jóváhagyott szabályozási tervben foglaltakat az érintett közigazgatási szerveknek a hatáskörüket érintő ügyekben eljárásaik során érvényesíteniük kell. Az (1)–(9) bekezdésben foglalt rendelkezéseket a (10) bekezdésben foglaltak, valamint a 9/A. §, 9/B. §, 9/C. § és a 9/D. § eltérő rendelkezései kivételével a településrendezési eszköz módosítása esetén is alkalmazni kell.
+- a) a településszerkezeti terv, amelyet a településfejlesztési koncepció alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
+- b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg.
 
-(10) Nem kell alkalmazni a (2)–(7) bekezdésben foglalt rendelkezéseket
+9/C. §
 
-- a) a településrendezési eszköz
-  - aa) magasabb szintű jogszabály rendelkezésével ellentétes rendelkezésének, előírásának hatályon kívül helyezése, vagy
-  - ab) nem településrendezési szabályozási körbe tartozó előírásának hatályon kívül helyezése, illetve
-- b) az Étv. 57. § (4) bekezdésében meghatározott helyi védettség megszüntetése
-
-esetében.
-
-(11) A településrendezés eszközei készítése során a települést érintő jóváhagyott országos és térségi területrendezési terv rendelkezéseit figyelembe kell venni.
-
-(12) A helyi építési szabályzatot és a településrendezési terveket azok összes munkarészével, valamint a megállapításukról szóló – külön jogszabály szerinti – jegyzőkönyvvel, a véleményezési eljárás dokumentumaival, továbbá az állami főépítészi, illetve miniszteri véleménnyel együtt, a képviselő-testületi megállapításuk után 15 napon belül a jegyző köteles megküldeni a fővárosi és megyei kormányhivatalnak.
-
-(13) A (2) és (3) bekezdés szerinti véleményezésért az államigazgatási szerv díjat nem számíthat fel.
-
-9/A. § A településrendezési eszköz módosítása esetén a 9. § (3) bekezdés szerinti véleményeztetés elhagyható, ha
-
-- a) a módosítás
-  - aa) nem érinti a település fő infrastruktúra hálózatát, alapvető zöldfelületi rendszerét, morfológiáját, védett természeti értékeit, a kulturális örökség védelmét és nem növeli felhasználási intenzitását,
-  - ab) területfelhasználási változást nem jelent, és
-  - ac) már a 9. § (2) bekezdés szerinti véleményeztetéshez részletesen kidolgozásra került és véleményeztetése megtörtént, vagy
-- b) a módosítás elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatlanság javítása, vagy magasabb szintű jogszabályi változás átvezetése érdekében történik.
-
-9/B. § A Kormány által rendeletben kihirdetett veszélyhelyzettel érintett települések a településrendezési eszközeinek a veszélyhelyzet következményei felszámolásához, valamint a további károk mérsékléséhez szükséges módosítása során, a veszélyhelyzet feloldásától számított fél éven belül a 9. § (2)–(7) bekezdésétől a következők szerint térhetnek el:
-
-- a) a településrendezési eszköz módosítására tett javaslatnak a veszélyhelyzet jellegének megfelelő szakterületi jogosultsággal rendelkező szakértő által készített szakvéleményen kell alapulnia,
-- b) az elkészített településrendezési eszközt a polgármesternek egyeztető tárgyaláson az érdekelt államigazgatási szervekkel ismertetnie kell, a tárgyalás meghívójához az elkészített településrendezési eszközt mellékelnie kell,
-- c) az egyeztetett településrendezési eszközre vonatkozó végső szakmai véleményét az állami főépítész 5 munkanapon belül kiadja, és
-- d) a településrendezési eszköz módosítása azonnal hatályba léptethető.
-
-9/C. § Kiemelt társadalmi cél érdekében központi költségvetési forrásból finanszírozott és kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű építési beruházássá minősített építési beruházás megvalósításához szükséges településrendezési eszköz készítése, módosítása során a 9/B. §-ban foglaltak alkalmazandók.
-
-9/D. § (1) Kiemelt nemzeti emlékhely területére, illetve közvetlen környezetére vonatkozó településrendezési eszköz módosítása – amennyiben a kiemelt nemzeti emlékhely kialakítására vonatkozó előírást tartalmaz – (e §-on belül a továbbiakban: településrendezési eszköz) során a 9. § (2)–(6) bekezdéseitől eltérően e § (2)–(11) bekezdésében foglalt rendelkezéseket kell alkalmazni.
-
-(2) A településrendezési eszköz
-
-- a) módosítását a kiemelt nemzeti emlékhely vagyonkezelője is kezdeményezheti; vagyonkezelői kezdeményezés esetén a településrendezési eszköz egyeztetésében és véleményezésében érintett szervek soron kívül járnak el,
-- b) módosítása során a 9. § (2)–(6) bekezdésében előírt egyeztetési, véleményeztetési eljárások lefolytatása a területileg illetékes megyei (fővárosi) kormánymegbízott feladat- és hatáskörébe tartozik (a továbbiakban: kormánymegbízott),
-- c) módosítását megelőzően a vagyonkezelő és a kormánymegbízott az egyeztetési, véleményezési eljárás meggyorsítása érdekében az Étv. 30/A. § szerint településrendezési szerződést köthet.
-
-(3) A 9. § (2) bekezdése szerinti véleményezésre, észrevételezésre 8 munkanap áll rendelkezésre. A polgármester (főpolgármester), aki helyett a kormánymegbízott jár el, az egyeztetési eljárásban érintettnek tekintendő.
-
-(4) A kormánymegbízott a módosítás alatti településrendezési eszköz tervezetét véleményezésre megküldi a központi tervtanács részére, amely a véleményét az üléstől számított 5 munkanapon belül adja meg.
-
-(5) A módosított településrendezési eszközt a jóváhagyás előtt a kormánymegbízott véleményezteti a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint az egyesületekkel, amelyek 10 napon belül adhatnak írásos véleményt. Az eltérő vélemények tisztázása érdekében a kormánymegbízott egyeztető tárgyalást tart, amelyre a véleményezési eljárás érdekeltjeit a tárgyalás előtt legalább 5 nappal a hely és az időpont megjelölésével hívja meg. Az egyeztető tárgyalásról jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell valamennyi elfogadott és el nem fogadott véleményt azok indokolásaival együtt.
-
-(6) Azt az érdekeltet, aki a véleményezési eljárás során írásbeli – államigazgatási szerv esetében jogszabályon alapuló – véleményt nem adott, vagy adott, de az egyeztető tárgyaláson szabályos meghívás ellenére nem vett részt, a továbbiakban kifogást nem emelő véleményezőnek kell tekinteni.
-
-(7) A 9. § (6) bekezdése szerinti, helyben szokásos módon történő közzététel időtartama 15 nap, amely időtartama alatt érkező észrevételeket a döntésre jogosulttal ismertetni kell.
-
-(8) Amennyiben több településrendezési eszköz módosítása szükséges, akkor azok 9/D. § (3)–(5) bekezdések szerinti egyeztetése egyidejűleg (egy összevont eljárásban) lefolytatható.
-
-(9) A településrendezési eszköz módosítását – annak elfogadása előtt – szakmai véleményezésre a kormánymegbízott küldi meg a településfejlesztésért és településrendezésért felelős miniszternek, aki véleményét a kormánymegbízottal 10 napon belül közli, ha e határidőn belül nem nyilatkozik, úgy véleményét megadottnak kell tekinteni.
-
-(10) A kormánymegbízott a településrendezési eszköz módosításának tervezetét az egyeztetési eljárás irataival együtt megküldi a területileg illetékes polgármesternek (főpolgármesternek), aki 15 napon belül előterjeszti a jóváhagyó testületnek.
-
-(11) A településrendezési eszköz módosítása az elfogadástól számított 10. napot követően hatályba léptethető.
+9/D. §
 
 ### A településszerkezeti terv
 
 10. § (1) A településszerkezeti terv meghatározza a település alakításának, védelmének lehetőségeit és fejlesztési irányait, ennek megfelelően az egyes területrészek felhasználási módját, a település működéséhez szükséges műszaki infrastruktúra elemeinek a település szerkezetét meghatározó térbeli kialakítását és elrendezését, az országos és térségi érdek, a szomszédos vagy a más módon érdekelt többi település alapvető jogainak és rendezési terveinek figyelembevételével a környezet állapotának javítása vagy legalább szinten tartása mellett.
 
-(2) A településszerkezeti tervet a települési önkormányzatnak legalább tízévenként felül kell vizsgálnia, és szükség esetén a terv módosításáról vagy az új terv elkészítéséről kell gondoskodnia. A tízévenkénti szükséges felülvizsgálat során gondoskodni kell az időközben történt módosítások egységes tervbe foglalásáról.
+(2)–(4)
 
-(3) A településszerkezeti tervet a 9. § rendelkezésein túlmenően a megyei, a szomszédos települési (a fővárossal szomszédos települések esetében a fővárosi és az érintett – határos – fővárosi kerületi) önkormányzatokkal is véleményeztetni kell. A főváros településszerkezeti tervét a kerületi önkormányzatokkal is véleményeztetni kell.
+11. §
 
-(4) A településszerkezeti terv esetében az előzetes véleményt kérő dokumentációnak a 9. § (2) bekezdésében előírtakon túlmenően tartalmaznia kell a szerkezeti terv módosítása esetén az azt szükségessé tévő településfejlesztési döntést, valamint tájékoztatásul az elfogadott településfejlesztési koncepciót is, kivéve a 9/D. § esetében a településszerkezeti terv módosítását, amelynél a vonatkozó kormányhatározatot kell mellékelni.
-
-11. § (1) A településszerkezeti terv a település közigazgatási területére készül és rajzi, valamint szöveges munkarészből áll. A településszerkezeti terv – rajzi és szöveges – munkarészei a megállapításukról szóló határozat mellékletei. A tízévenkénti szükséges felülvizsgálat során az időközben történt módosításokat a felülvizsgált egységes terven át kell vezetni.
-
-(2) A településszerkezeti tervet a település nagyságának megfelelő méretarányú térképen kell ábrázolni. A településszerkezeti tervben meg kell határozni a bel- és külterületeket, a beépítésre szánt, illetve a beépítésre nem szánt területeket, azok tagozódását, a település szerkezetét meghatározó műszaki infrastruktúra-hálózatokat (főútvonalakat, gyűjtőutakat, közüzemi közmű-gerincvezetékeket, hírközlő hálózat fő elemeit), a települési szintű és a városrész szintű közparkokat, a terv léptékében ábrázolható védett, az e tervvel védelemre tervezett és védőterületeket. A településszerkezeti tervben meg kell határozni a rehabilitációra kijelölt, valamint a funkciójában megváltoztatásra szánt (fejlesztési) területeket.
-
-(3) A (2) bekezdésben említett egyes területeken belül fel kell tüntetni a terület felhasználását veszélyeztető, illetőleg arra kiható tényezőket, különösen az alábányászottságot (bányatelket), a nyilvántartott ásványinyersanyag-vagyont, a szennyezettséget, az árvíz-, a belvíz-, az erózió- és csúszásveszélyt, a földrengés-veszélyeztetettséget, a természetes és mesterséges üregektől veszélyeztetett területeket, a közműves szennyvízelvezetéssel ellátatlan területet, továbbá a külön jogszabályok alapján előírt minden olyan egyéb tényezőt, amely a terület felhasználását vagy beépítését befolyásolja.
-
-### A szabályozási terv
-
-12. § (1) A szabályozási terv a település közigazgatási területére vagy külön-külön annak egyes – legalább telektömb nagyságú – területrészeire készülhet.
-
-(2) Szabályozási tervet kell készíteni minden esetben:
-
-- a) az újonnan beépítésre vagy jelentős átépítésre kerülő (pl. rehabilitációs) területekre, illetőleg
-- b) a természeti adottság, a településszerkezet, az építés, az építészeti örökség vagy a rendeltetés szempontjából különös figyelmet igénylő védett területek (pl. kiemelt üdülőterület, gyógyhely, műemléki jelentőségű terület) egészére, valamint
-- c) minden más olyan esetben, amikor azt az építés helyi rendjének biztosítása egyébként szükségessé teszi.
-
-(3) A szabályozási tervnek a jóváhagyott településszerkezeti tervvel összhangban kell lennie, eltérés szükségessége esetén a településszerkezeti tervet előzetesen módosítani kell.
-
-(4) A szabályozási tervet a szükséges vízszintes, magassági és egyéb adatokat tartalmazó olyan méretarányú térképen kell ábrázolni, hogy annak megállapításai az egyes telkekre, építési területekre és közterületekre egyértelműen értelmezhetőek legyenek.
-
-(5) A szabályozási tervnek tartalmaznia kell:
-
-- a) a bel- és külterületek lehatárolását (belterületi határvonal),
-- b) a beépítésre szánt és a beépítésre nem szánt területek, illetőleg az azokon belüli egyes területrészek (építési övezetek, övezetek) lehatárolását,
-- c) az egyes területrészeken belül a közterületek és az egyéb területek elkülönítését,
-- d) a közterületeken belül a különböző célokat szolgáló területeket (közút, köztér, közpark stb.),
-- e) a közterületnek nem minősülő területeken belül a telkek, építési telkek, területek kialakítására és beépítésére vonatkozó megállapításokat,
-- f) az egyes területrészeken belül a védett és a védelemre tervezett, valamint a védő területeket, továbbá építményeket,
-- g) az infrastruktúra-hálózatok és építmények szabályozást igénylő elemeit,
-- h) a 17. § szerinti sajátos jogintézmények alkalmazásával érintett területrészek lehatárolását.
-
-(6) A helyi építési szabályzatot és a hozzá tartozó szabályozási tervet együtt kell alkalmazni.
+12. §
 
 ### A helyi építési szabályzat
 
 13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
 
-(2) A helyi építési szabályzatnak tartalmaznia kell legalább:
+(2)–(3)
 
-- a) a bel- és külterület(ek) lehatárolását (belterületi határvonal),
-- b) a beépítésre szánt területek, illetőleg az azokon belüli egyes területrészek (építési övezetek) lehatárolását, azok felhasználásának, beépítésének feltételeit és szabályait,
-- c) a beépítésre nem szánt területek tagozódását, az egyes övezetek lehatárolását, felhasználásuk és az azokon történő építés feltételeit, szabályait,
-- d) a különböző célú közterületek felhasználása és az azokon történő építés feltételeit és szabályait, továbbá
-- e) a helyi építészeti értékvédelemmel,
-- f) a védett és a védő területekkel, valamint
-- g) a 17. § szerinti sajátos jogintézmények alkalmazásával érintett területek lehatárolását, valamint az azokkal kapcsolatos előírásokat.
+(4)
 
-(3) A szabályozási terv – amennyiben készül – a helyi építési szabályzat rajzi mellékletét képezi.
+(5)
 
-(4) A helyi építési szabályzat készülhet a település közigazgatási területének egészére vagy annak egyes részeire az (5) bekezdés előírásainak figyelembevételével. Területrészenként készülő helyi építési szabályzat esetében a későbbi szabályozások az első szabályzat módosítását (kiegészítését) jelentik.
+(6)
 
-(5) Helyi építési szabályzatot kell készíteni – legalább telektömbre kiterjedően –
-
-- a) az újonnan beépítésre vagy jelentős átépítésre kerülő (pl. rehabilitációs) területekre,
-- b) a természeti adottság, a településszerkezet, az építés, az építészeti örökség vagy a rendeltetés szempontjából különös figyelmet igénylő védett területek (pl. kiemelt üdülőterület, gyógyhely, műemléki jelentőségű terület) egészére, valamint
-- c) minden más olyan esetben, amikor azt az építés helyi rendjének biztosítása egyébként szükségessé teszi.
-
-(6) A szabályozást legalább a településszerkezeti tervben lehatárolt területegységre kell elkészíteni.
-
-(7) A tervezés időszakában 20 000 fő lakosságszámot meghaladó települések esetében, amennyiben a helyi építési szabályzat mellékleteként nem készül szabályozási terv is, az egyes építési övezetek, övezetek területi lehatárolását övezeti tervlapon ábrázolni kell.
+(7)
 
 ### A fővárosra vonatkozó sajátos rendelkezések
 
-14. § (1) A fővárosban a helyi építési szabályzatra és a településrendezési tervekre vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+14. § (1) A fővárosban a településfejlesztési koncepcióra és az integrált településfejlesztési stratégiára vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A Fővárosi Önkormányzat a főváros területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek, valamint a környezeti elemek védelmével kapcsolatos általános követelményeket fővárosi építési keretszabályzatban állapítja meg.
+(2) A fővárosban
 
-(3) A fővárosi kerületi önkormányzatnak – a fővárosi építési keretszabályzat keretein belül – a kerület egészére vonatkozóan kerületi építési szabályzatot kell megállapítania. A fővárosi és a kerületi önkormányzat megállapodása esetén kisebb területegységre is megállapítható kerületi építési szabályzat.
+- a) a fővárosi önkormányzat
+  - aa) fővárosi településfejlesztési koncepciót,
+  - ab) fővárosi integrált településfejlesztési stratégiát,
+- b) a fővárosi kerületi önkormányzat
+  - ba) a fővárosi kerület közigazgatási területére kerületi településfejlesztési koncepciót, valamint
+  - bb) a fővárosi kerület közigazgatási területére kerületi integrált településfejlesztési stratégiát
 
-(4) A fővárosi településrendezési tervek:
+állapít meg.
 
-- a) a fővárosi önkormányzat által jóváhagyott fővárosi településszerkezeti terv,
-- b) a fővárosi önkormányzat által jóváhagyott fővárosi szabályozási keretterv, valamint
-- c) a fővárosi kerületi önkormányzat által jóváhagyott kerületi szabályozási terv.
+(3) A fővárosi településfejlesztési koncepció – a 9/A. §-ban foglaltakon túl – meghatározza a főváros egészének jövőképét, fejlesztésének elveit, prioritásait, ezen kívül a főváros egészét vagy több kerületét érintő és az országban betöltött különleges szerepköréhez kapcsolódó településfejlesztési szándékokat foglalja rendszerbe.
 
-(5) A főváros szabályozási kerettervében kell meghatározni a főváros egészét vagy több kerületét érintő, a fővárosi önkormányzat feladat- és hatáskörébe tartozó szabályozási elemeket, különösen
+14/A. § (1) A fővárosban a településrendezési eszközökre vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-- a) a bel- és külterületek lehatárolását (belterületi határvonal),
-- b) a beépítésre szánt és a beépítésre nem szánt területek, illetőleg az azokon belüli egyes területrészek lehatárolását,
-- c) a főváros működéséhez szükséges közterületek és az egyéb területek elkülönítését,
-- d) a fővárosi önkormányzat tulajdonában lévő közterületeken belül a különböző célokat szolgáló területeket (közút, köztér, közpark stb.),
-- e) a védett és a védelemre tervezett, valamint a védő területeket, továbbá építményeket,
-- f) az infrastruktúra-hálózatok és építmények szabályozást igénylő elemeit,
-- g) a sajátos jogintézmények alkalmazásával érintett területek lehatárolását.
+(2) A főváros településrendezési eszközei
 
-(6) A kerületi szabályozási tervbe a kerületet érintő, a főváros szabályozási kerettervében szereplő szabályozási elemeket be kell építeni, eltérés szükségessége esetén a főváros szabályozási kerettervét előzetesen módosítani kell.
-
-(7) A (2)–(4) bekezdések szerinti fővárosi településrendezési eszközök összehangolt nyilvántartásának szabályait a fővárosi önkormányzat rendeletben állapítja meg.
+- a) a fővárosi településszerkezeti terv,
+- b) a fővárosi rendezési szabályzat,
+- c) a fővárosi kerületi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a kerület területére megállapított kerületi építési szabályzat.
 
 ### Több település építésügyi feladatainak közös ellátása
 
-15. § (1) A települési önkormányzatok az építésügyi feladataik ellátására társulhatnak, illetve azokat közösen is megoldhatják.
+15. § (1) A települési önkormányzatok az építésügyi feladataik ellátására társulhatnak, valamint feladataikat közösen is megoldhatják.
 
 (2) A közös településrendezési eszközöknek az egyes településekre vonatkozó részeit az érintett települési önkormányzatok képviselő-testületei állapítják meg. A véleményezési eljárás lefolytatásáról az önkormányzatok megállapodásában meghatározott település polgármestere gondoskodik.
 
-(3) A közös településrendezési eszközök előkészítésére, egyeztetésére és elfogadására egyebekben a 7–14. § rendelkezéseit kell megfelelően alkalmazni.
+(3)
 
 ### A településtervezés
 
-16. § (1) Településtervezési tevékenységnek minősül a településrendezési terv és a helyi építési szabályzat elkészítése. Az építési beruházások támogatására kiírt, terület-igénybevétellel járó településfejlesztési pályázatok elbírálása során azok tartalma és a településrendezési eszközökben foglaltak összhangjának igazolása településrendezési szakértői tevékenységként végezhető.
+16. § (1) Településtervezési tevékenységnek minősül a településrendezési eszköz elkészítése. Az építési beruházások támogatására kiírt, terület-igénybevétellel járó településfejlesztési pályázatok elbírálása során azok tartalma és a településrendezési eszközökben foglaltak összhangjának igazolása településrendezési szakértői tevékenységként végezhető.
 
 (2) A településtervezési tevékenységet, valamint a településrendezési szakértői tevékenységet az folytathat, aki rendelkezik a névjegyzéket vezető szerv engedélyével (a továbbiakban: településtervezési, illetve településrendezési szakértői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
 (3) A névjegyzéket vezető szerv annak engedélyezi településtervezési, illetve településrendezési szakértői tevékenység folytatását, aki büntetlen előéletű és nem áll szakértői foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú felsőfokú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
 
-(4) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezheti az e § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik településtervezési, illetve településrendezési szakértői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(4)
 
-(5) A településrendezési tervek és a helyi építési szabályzat készítője a tervezés során birtokába jutott adatokat, információkat – ha azok nem minősülnek közérdekű adatoknak – más célra nem használhatja fel, azokat harmadik személynek nem adhatja át.
+(5) A településrendezési eszközök készítője a tervezés során birtokába jutott adatokat, információkat – ha azok nem minősülnek közérdekű adatoknak – más célra nem használhatja fel, azokat harmadik személynek nem adhatja át.
 
-(6) A településrendezési terveket és a helyi építési szabályzatot – azok jóváhagyásra kerülő és alátámasztó munkarészeivel együtt – magyar nyelven kell dokumentálni.
+(6) A településrendezési eszközöket – azok jóváhagyásra kerülő és alátámasztó munkarészeivel együtt – magyar nyelven kell dokumentálni.
 
 16/A. § (1) A településrendezési eszközt és annak módosítását a települési önkormányzat maga készíti el, vagy településtervezési szerződés alapján készítteti el.
 
@@ -417,13 +322,17 @@ esetében.
 - g) útépítési és közművesítési hozzájárulás,
 - h) településrendezési kötelezések,
 - i) kártalanítási szabályok,
-- j) településrendezési szerződés.
+- j) településrendezési szerződés,
+- k) összevont telepítési eljárás,
+- l) településképi véleményezési eljárás,
+- m) településképi bejelentési eljárás,
+- n) közterület-alakítás.
 
 ### Építésjogi követelmények
 
-18. § (1) Építési tevékenységet végezni az e törvényben foglaltak, valamint az egyéb jogszabályok megtartásán túl, csak a helyi építési szabályzat, szabályozási terv előírásainak megfelelően szabad.
+18. § (1) Építési tevékenységet végezni az e törvényben foglaltak, valamint az egyéb jogszabályok megtartásán túl, csak a helyi építési szabályzat előírásainak megfelelően szabad.
 
-(2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat, illetőleg szabályozási terv, vagy azok nem szabályoznak – a 13. § (2) bekezdésében előírt, illetőleg azok végrehajtására vonatkozó egyéb jogszabályokban rögzített követelményeknek megfelelően – teljeskörűen, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha a célzott hasznosítás jellege, a kialakuló telek mérete, a tervezett beépítés mértéke – beépítettség és építménymagasság – valamint módja, rendeltetése (területfelhasználása) illeszkedik a meglévő környezethez.
+(2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat vagy az nem szabályoz – a 13. § (2) bekezdésében előírt, illetőleg azok végrehajtására vonatkozó egyéb jogszabályokban rögzített követelményeknek megfelelően – teljeskörűen, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha a célzott hasznosítás jellege, a kialakuló telek mérete, a tervezett beépítés mértéke – beépítettség és építménymagasság – valamint módja, rendeltetése (területfelhasználása) illeszkedik a meglévő környezethez.
 
 19. § (1) Beépítésre szánt területen épület csak építési telken helyezhető el.
 
@@ -444,12 +353,12 @@ esetében.
 
 20. § (1) Az érintett területre
 
-- a) változtatási tilalom rendelhető el a helyi építési szabályzat, a szabályozási terv készítésének időszakára annak hatálybalépéséig,
+- a) változtatási tilalom rendelhető el a helyi építési szabályzat készítésének időszakára annak hatálybalépéséig,
 - b) telekalakítási, illetve építési tilalom rendelhető el
   - ba) a településrendezési feladatok megvalósítása, végrehajtása, továbbá a természeti, környezeti veszélyeztetettség megelőzése,
   - bb) a természet-, illetve a környezet védelméről szóló törvényekben foglaltak érvényre juttatása érdekében.
 
-(2) A tilalmat a feltétlenül szükséges mértékre és időtartamra kell korlátozni, s azt haladéktalanul meg kell szüntetni, ha az elrendelésének alapjául szolgáló okok már nem állnak fenn. A tilalmak felülvizsgálatát a helyi építési szabályzat és a hozzá tartozó szabályozási tervek felülvizsgálatával együtt el kell végezni.
+(2) A tilalmat a feltétlenül szükséges mértékre és időtartamra kell korlátozni, s azt haladéktalanul meg kell szüntetni, ha az elrendelésének alapjául szolgáló okok már nem állnak fenn. A tilalmak felülvizsgálatát a helyi építési szabályzat felülvizsgálatával együtt el kell végezni.
 
 (3) A településrendezési feladatok megvalósulása érdekében az önkormányzati rendelettel elrendelt tilalomról, korlátozásról vagy ezek megszüntetéséről – a változtatási tilalom kivételével – a települési önkormányzat képviselő-testülete (a fővárosban a fővárosi önkormányzat közgyűlése, illetőleg a kerületi önkormányzat képviselő-testülete) a főjegyző, illetőleg a jegyző útján tájékoztatja az érintetteket.
 
@@ -467,7 +376,7 @@ esetében.
 - d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
 - e) a honvédelmi és a kiemelt fontosságú honvédelmi területre.
 
-21. § (1) A helyi építési szabályzat, illetőleg a szabályozási terv készítésére vonatkozó írásos megállapodás megléte esetén a helyi építési szabályzat, illetőleg a szabályozási terv készítésének időszakára azok hatálybalépéséig, de legfeljebb három évig az érintett területre a települési önkormányzat rendelettel változtatási tilalmat írhat elő.
+21. § (1) A helyi építési szabályzat készítésére vonatkozó írásos megállapodás megléte esetén a helyi építési szabályzat készítésének időszakára azok hatálybalépéséig, de legfeljebb három évig az érintett területre a települési önkormányzat rendelettel változtatási tilalmat írhat elő.
 
 (2) A változtatási tilalom – ha az azt elrendelő önkormányzati rendelet rövidebb időről nem rendelkezik – három év eltelte után külön rendelkezés nélkül megszűnik.
 
@@ -485,7 +394,7 @@ esetében.
 
 23. § (1) Telket csak úgy szabad alakítani, hogy az a terület rendeltetésének megfelelő használatra alkalmas legyen, továbbá annak alakja, terjedelme, beépítettsége és megközelíthetősége a jogszabályoknak megfeleljen.
 
-(2) A telekalakítás a 24. § (1) bekezdése szerinti változás megvalósítására irányuló közigazgatási eljárás, amely a telekingatlan adataiban történő, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában ezáltal bekövetkező változásnak a külön jogszabályban meghatározottak szerint az ingatlan-nyilvántartásban történő átvezetésével zárul.
+(2) A telekalakítás a 24. § (1) bekezdése szerinti változás megvalósítására irányuló, a telekalakítási hatóság által lefolytatott közigazgatási eljárás, amely a telekingatlan adataiban történő, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában ezáltal bekövetkező változásnak a külön jogszabályban meghatározottak szerint az ingatlan-nyilvántartásban történő átvezetésével zárul.
 
 (3)–(4)
 
@@ -504,7 +413,7 @@ esetében.
 
 ### Elővásárlási jog
 
-25. § (1) A települési önkormányzatot elővásárlási jog illeti meg az építési szabályzatban és a szabályozási tervben meghatározott településrendezési célok megvalósítához szükséges ingatlanok esetében.
+25. § (1) A települési önkormányzatot elővásárlási jog illeti meg az építési szabályzatban meghatározott településrendezési célok megvalósítához szükséges ingatlanok esetében.
 
 (2)
 
@@ -518,7 +427,7 @@ esetében.
 
 ### Kisajátítás
 
-26. § A településrendezési feladatok megvalósításához közérdekből szükséges ingatlanok az arra vonatkozó külön jogszabályokban szabályozott esetekben és módon sajátíthatók ki.
+26. § A településrendezési feladatok megvalósításához közérdekből szükséges ingatlanok az arra vonatkozó külön jogszabályokban szabályozott esetekben és módon sajátíthatók ki és jegyezhetők le kiszolgáló és lakóút céljára.
 
 ### Kiszolgáló és lakóút céljára történő lejegyzés
 
@@ -544,7 +453,7 @@ esetében.
 
 ### Útépítési és közművesítési hozzájárulás
 
-28. § (1) A helyi építési szabályzatban, illetőleg a szabályozási tervben a területre előírt kiszolgáló utakat és a közműveket az újonnan beépítésre szánt, illetve a rehabilitációra kijelölt területeken legkésőbb az általuk kiszolgált építmények használatbavételéig meg kell valósítani. E kötelezettség teljesítése, ha jogszabály vagy megállapodás arra mást nem kötelez, a települési – a fővárosban megosztott feladatkörüknek megfelelően a fővárosi, illetve a fővárosi kerületi – önkormányzat feladata.
+28. § (1) A helyi építési szabályzatban a területre előírt kiszolgáló utakat és a közműveket az újonnan beépítésre szánt, illetve a rehabilitációra kijelölt területeken legkésőbb az általuk kiszolgált építmények használatbavételéig meg kell valósítani. E kötelezettség teljesítése, ha jogszabály vagy megállapodás arra mást nem kötelez, a települési – a fővárosban megosztott feladatkörüknek megfelelően a fővárosi, illetve a fővárosi kerületi – önkormányzat feladata.
 
 (2) Ha a kiszolgáló utat, illetőleg közművet a települési önkormányzat megvalósította, annak költségét részben vagy egészben az érintett ingatlanok tulajdonosaira átháríthatja. A hozzájárulás mértékéről és a megfizetés módjáról a települési önkormányzat képviselő-testülete hatósági határozatban dönt. Az útépítési és közművesítési hozzájárulás nem róható ki, ha az út- és közműépítéshez szükséges terület kialakítása érdekében korábban lejegyzett telekrészért járó kártalanítás összegének megállapítása során az út és a közmű megépítéséből eredő értéknövekedést figyelembe vették.
 
@@ -560,19 +469,24 @@ esetében.
 - b) helyrehozatali kötelezettség és
 - c) beültetési kötelezettség rendelhető el.
 
-(2) A települési önkormányzat képviselő-testülete hatósági határozatban a tervszerű telekgazdálkodás, a beépítés helyes sorrendje és a településkép előnyösebb kialakítása érdekében a beépítetlen építési telkekre meghatározott időn belüli beépítési kötelezettséget állapíthat meg. Ha a tulajdonos a beépítési kötelezettségét nem teljesíti, az önkormányzat az ingatlant kisajátíthatja. Amennyiben az ingatlan tulajdonos a beépítési kötelezettségét nem tudja teljesíteni, úgy kérésére az ingatlant ki kell sajátítani.
+(2) A települési önkormányzat polgármestere önkormányzati hatósági döntésében a tervszerű telekgazdálkodás, a beépítés helyes sorrendje és a településkép előnyösebb kialakítása érdekében a beépítetlen építési telkekre meghatározott időn belüli beépítési kötelezettséget állapíthat meg. Ha a tulajdonos a beépítési kötelezettségét nem teljesíti, az önkormányzat az ingatlant kisajátíthatja. Amennyiben az ingatlan tulajdonos a beépítési kötelezettségét nem tudja teljesíteni, úgy kérésére az ingatlant ki kell sajátítani.
 
-(3) A települési önkormányzat képviselő-testülete a településkép javítása érdekében az azt rontó állapotú építmények meghatározott időn belüli helyrehozatali kötelezettségét írhatja elő hatósági határozatában. Az önkormányzat e kötelezettség teljesítéséhez anyagi támogatást nyújthat. A képviselő-testület határozathozatal helyett hatósági szerződést köthet az ügyféllel.
+(3) A települési önkormányzat polgármestere jogszabályban meghatározott esetekben és módon a településkép javítása érdekében az azt rontó állapotú építmények meghatározott időn belüli helyrehozatali kötelezettségét írhatja elő önkormányzati hatósági döntésében. Az önkormányzat e kötelezettség teljesítéséhez anyagi támogatást nyújthat. A polgármester határozathozatal helyett hatósági szerződést köthet az ügyféllel.
 
-(4) A települési önkormányzat képviselő-testülete hatósági határozatban a közérdekű környezetalakítás céljából az ingatlan növényzettel történő meghatározott módon és időn belüli beültetési kötelezettségét írhatja elő. Ha e kötelezettség teljesítése az ingatlan rendeltetésszerű használatához szükséges mértéket meghaladó ráfordítást igényel, az önkormányzatnak a tulajdonos költségeit rendeletben meghatározott mértékben kell megtérítenie.
+(4) A települési önkormányzat polgármestere önkormányzati hatósági döntésében a közérdekű környezetalakítás céljából az ingatlan növényzettel történő meghatározott módon és időn belüli beültetési kötelezettségét írhatja elő. Ha e kötelezettség teljesítése az ingatlan rendeltetésszerű használatához szükséges mértéket meghaladó ráfordítást igényel, az önkormányzatnak a tulajdonos költségeit rendeletben meghatározott mértékben kell megtérítenie.
 
 (5) A településrendezési kötelezettségről szóló határozat közlésével egyidejűleg a képviselő-testület megkeresi az ingatlanügyi hatóságot a kötelezettség tényének ingatlan-nyilvántartásba történő feljegyzése érdekében. A kötelezettség megszűnését követően 15 munkanapon belül a képviselő-testület az erről szóló határozat közlésével egyidejűleg a kötelezettség tényének az ingatlan-nyilvántartásból való törlése érdekében megkeresi az ingatlanügyi hatóságot.
 
-(6)
+(6) A települési önkormányzat polgármestere – kormányrendeletben meghatározottak szerint – településképi kötelezés formájában önkormányzati hatósági döntéssel elrendelheti
+
+- a) a településképet rontó reklámok, cégérek megszüntetését,
+- b) a helyi építészeti értékvédelemmel összefüggő kötelezettségek teljesítését.
+
+(7) A helyi önkormányzat képviselő-testülete önkormányzati rendeletben a (6) bekezdés szerinti településképi kötelezettségek megszegése és végre nem hajtása esetén e magatartás elkövetőjével szemben 50 000 forintig terjedhető bírság kiszabását rendelheti el.
 
 ### Kártalanítási szabályok
 
-30. § (1) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat, illetőleg a szabályozási terv másként állapítja meg (övezeti előírások változása) vagy korlátozza (telekalakítási vagy építési tilalom), és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt kártalanítás illeti meg.
+30. § (1) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat másként állapítja meg (övezeti előírások változása) vagy korlátozza (telekalakítási vagy építési tilalom), és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt kártalanítás illeti meg.
 
 (2) A kártalanítás összege az ingatlannak a korábbi rendeltetése alapján megállapítható régi és az új szabályozás eredményeként megállapítható új forgalmi értéke közötti különbözet.
 
@@ -597,19 +511,75 @@ esetében.
 
 ### Településrendezési szerződés
 
-30/A. § (1) A települési önkormányzat egyes, a településrendezési eszközökben rögzített célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett ingatlan tulajdonosával, illetve az ingatlanon beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója).
+30/A. § (1) A települési önkormányzat egyes településfejlesztési célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett telek tulajdonosával, illetve a telken beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója).
 
-(2) A szerződés tárgya lehet különösen:
+(2) A szerződés megkötése előtt a települési önkormányzat képviselő-testületének döntenie kell a cél megvalósítója által készített telepítési tanulmánytervről.
 
-- a) településrendezési tevékenység előkészítése a cél megvalósítója által, saját költségére, a telekviszonyok rendezése vagy megváltoztatása, a talaj megtisztítása, valamint a településrendezési tervek, helyi építési szabályzat – egyeztetett program alapján történő – kidolgozásának finanszírozása;
-- b) a településrendezési tervekben, helyi építési szabályzatban rögzített célok – a telek felhasználásának az ökológiai hálózat működőképességének fenntartása, szerkezetének funkcionális és területi megőrzése mellett történő támogatása és biztosítása, időbeli korlátozás és feltétel esetén is;
-- c) azon egyéb költségeknek vagy egyéb ráfordításoknak a cél megvalósítója általi átvállalása, amelyek a cél megvalósításának előfeltételei vagy következményei és az önkormányzatot terhelik.
+(3) A szerződés tárgya lehet különösen
 
-(3) A szerződés alapját a cél megvalósítója által készített tanulmányterv képezi. Az önkormányzat a szerződésben arra vállal kötelezettséget, hogy a cél megvalósítójának kezdeményezésére az általa készített tanulmányterv alapján a szükséges településrendezési eljárást a szerződésben megállapított határidőn belül megindítja.
+- a) a telepítési tanulmányterv alapján a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök kidolgozásának finanszírozása,
+- b) azon egyéb költségeknek vagy egyéb ráfordításoknak a cél megvalósítója általi átvállalása, amelyek a cél megvalósításának
+  - ba) előfeltételei – az érintett terület előkészítése, ennek keretében a telekviszonyok rendezése vagy megváltoztatása, a talaj megtisztítása – vagy
+  - bb) következményei – a szükséges kiszolgáló intézmény és infrastruktúra-fejlesztések –, és azok megvalósítása az önkormányzatot terhelné.
 
-(4) A településrendezési szerződésben kikötött, illetőleg vállalt kötelezettségek és a megvalósuló településrendezési cél között közvetlen összefüggésnek kell lennie. A településrendezési szerződésben az ingatlan tulajdonosa, vagy annak hozzájárulásával a beruházó által vállalt kötelezettségek teljesítése érdekében a településrendezési kötelezettség tényét a települési önkormányzat jegyzőjének megkeresésére a mellékelt szerződés alapján az ingatlan-nyilvántartásba fel kell jegyeztetni. A kötelezettség megszűnését követő 15 munkanapon belül az önkormányzat jegyzője megkeresi az ingatlanügyi hatóságot a tény törlése érdekében.
+(4) A (3) bekezdés a) pontja szerinti szerződés esetén
 
-(5) A szerződésben rendelkezni kell a településrendezési eszközök véleményezési eljárása során a véleményezők részéről felmerülő, jogszabály által alátámasztott észrevétel kapcsán szükséges intézkedésekről, a településrendezési eszközökön végrehajtandó változtatások kötelezettségéről, a változtatás miatti esetleges ismételt véleményeztetési kötelezettségről.
+- a) az önkormányzat a szerződésben arra vállal kötelezettséget, hogy a szükséges településrendezési eljárást a megállapított határidőn belül megindítja és azt az előírásoknak megfelelően lefolytatja,
+- b) a szerződésben rendelkezni kell a településrendezési eszközök véleményezési eljárása során a véleményezők részéről felmerülő, jogszabály által alátámasztott észrevétel kapcsán szükséges intézkedésekről, a településrendezési eszközökön végrehajtandó változtatások kötelezettségéről, a változtatás miatti esetleges ismételt véleményeztetési kötelezettségről.
+
+(5) A (3) bekezdés b) pontja szerinti szerződésben kikötött vagy vállalt kötelezettségek és a megvalósuló településrendezési cél között közvetlen összefüggésnek kell lennie. A településrendezési szerződésben a telek tulajdonosa vagy annak hozzájárulásával a beruházó által vállalt kötelezettségek teljesítése érdekében a településrendezési kötelezettség tényét a települési önkormányzat jegyzőjének megkeresésére a mellékelt szerződés alapján az ingatlan-nyilvántartásba fel kell jegyeztetni. A kötelezettség megszűnését követő 15 munkanapon belül az önkormányzat jegyzője megkeresi az ingatlanügyi hatóságot a tény törlése érdekében.
+
+(6) A szerződést – jogszabály eltérő rendelkezése hiányában – írásban kell megkötni.
+
+### Összevont telepítési eljárás
+
+30/B. § (1) Az építési beruházás megvalósítása érdekében kormányrendeletben meghatározott esetekben és módon összevont telepítési eljárás lefolytatása kezdeményezhető.
+
+(2) Az összevont telepítési eljárás két szakaszból áll:
+
+- a) telepítési hatásvizsgálati szakasz,
+- b) integrált építési engedélyezési szakasz.
+
+(3) Az összevont telepítési eljárást építésügyi hatósági szolgáltatás előzi meg.
+
+(4) A telepítési hatásvizsgálati szakaszban az építésügyi hatóság döntése
+
+- a) a kérelem elutasítása esetén határozat,
+- b) a kérelem teljesítése esetén önálló jogorvoslattal meg nem támadható végzés formájában kiadott telepítési engedély, mely csak az integrált építési engedély megadásáról szóló határozat, ennek hiányában az eljárást megszüntető végzés elleni jogorvoslati kérelemben támadható.
+
+(5) Ha az építési beruházás megvalósításához a helyi építési szabályzat vagy szabályozási terv módosítása is szükséges, az erről szóló településrendezési szerződés megkötését követően indítható az összevont telepítési eljárás. Ebben az esetben a telepítési hatásvizsgálati szakasz és annak döntése kiváltja a településrendezési jóváhagyási eljárás külön jogszabályban előírt véleményezési és egyeztetési szakaszát.
+
+(6) Az összevont telepítési eljárást kormányrendeletben kijelölt építésügyi hatóság folytatja le, az ott meghatározottak szerint.
+
+### Településképi véleményezési eljárás
+
+30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
+
+(2) A polgármester az (1) bekezdés szerinti véleményének kialakításához az önkormányzat rendeletében meghatározottak szerint kikéri az önkormányzati főépítész vagy a helyi építészeti-műszaki tervtanács szakmai véleményét. Ha a polgármester az (1) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, hozzájárulását megadottnak kell tekinteni.
+
+(3) Az épített környezettel kapcsolatos értékvédelem ellátása érdekében a polgármester – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározottak szerint – szakmai tanácsadó testületként helyi építészeti-műszaki tervtanácsot működtethet.
+
+(4) A helyi építészeti-műszaki tervtanács feladata
+
+- a) az illeszkedési szabályok érvényesülésének elősegítése,
+- b) a települési környezet, a táj- és településkép, a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelme, valamint
+- c) a helyi építészeti értékek és örökség védelme.
+
+### Településképi bejelentési eljárás
+
+30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
+
+(2) A településképi eljárást bejelentés formájában az ügyfél a polgármesternél kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester a tevékenység végzését a bejelentést követő 8 napon belül nem tiltja meg.
+
+(3) A polgármester (2) bekezdés szerinti döntésével szemben a települési önkormányzat képviselő-testületéhez lehet fellebbezni.
+
+(4) A településképi eljárás során meghozott döntésben foglaltak megszegése, az (1) és (2) bekezdés szerinti bejelentés elmulasztása esetén a 29. § (6) és (7) bekezdése alkalmazásának van helye.
+
+### Közterület-alakítás
+
+30/E. § (1) A közterület egységes kialakítása érdekében a települési önkormányzat – szabadtér-építészetet, kertépítészetet, gyalogos és gépjármű közlekedést, közmű- és felszíni vízelvezetést, hírközlést is magába foglaló – közterület-alakítási tervet készíttethet.
+
+(2) A közterület-alakítási tervet az önkormányzat képviselő-testülete hagyja jóvá.
 
 ### III. Fejezet — AZ ÉPÍTÉSI FOLYAMAT SZABÁLYOZÁSA
 
@@ -617,24 +587,15 @@ esetében.
 
 31. § (1) Az építmény elhelyezése során biztosítani kell:
 
-- a) az építmény, továbbá a szomszédos ingatlanok és építmények rendeltetésszerű és biztonságos használhatóságát,
+- a) az építmény, továbbá a szomszédos építmények rendeltetésszerű és biztonságos használhatóságát,
 - b) az építmény közszolgálati (tűzoltó, mentő stb.) járművel történő megközelíthetőségét,
 - c) a környezetvédelem és a természetvédelem sajátos követelményeit és érdekeit,
 - d) a közhasználatú építmények esetében a mindenki számára biztonságos és akadálymentes megközelíthetőséget;
 - e) a rendeltetésszerű telekhasználatot.
 
-(2) Az építmények és azok részeinek (önálló rendeltetési egység) építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során érvényre kell juttatni az országos építési szakmai követelményeket, különösen
+(2) Az építmények és azok részeinek építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során érvényre kell juttatni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott alapvető követelményeket.
 
-- a)–b)
-- c) a mechanikai ellenállás és stabilitás,
-- d) a tűzbiztonság,
-- e) a higiénia, egészség- és környezetvédelem,
-- f) a használati biztonság,
-- g) a zaj és rezgés elleni védelem,
-- h) az energiatakarékosság és hővédelem,
-- i) az élet- és vagyonvédelem, valamint katasztrófavédelem követelményeit.
-
-(3) Az országos építési szakmai követelmények megtartása alól – külön jogszabályban meghatározott esetekben és módon – eltérési engedély adható.
+(3) Az országos építési szakmai követelményektől – külön jogszabályban meghatározott esetekben és módon – lehet eltérni.
 
 (4) Az építménynek és részeinek (önálló rendeltetési egység) építése, felújítása, átalakítása, bővítése, helyreállítása, korszerűsítése során biztosítani kell:
 
@@ -647,7 +608,7 @@ esetében.
 
 ### Az építészeti-műszaki tervezési, az építésügyi műszaki és igazgatási szakértői tevékenység
 
-32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki tervdokumentáció elkészítése.
+32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki tervdokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
 
 (2) Építésügyi műszaki szakértői tevékenység az épített környezet alakításával és védelmével kapcsolatos műszaki jelenségek ok-okozati összefüggéseinek magas szakmai színvonalú értékelése, ezen belül a vitatott esetek megítélése; a hibák, károk, illetve ezek okainak feltárása; és mindezekkel kapcsolatban szakértői vélemények készítése, továbbá a külön jogszabály szerinti esetenként kapcsolódó tevékenységek.
 
@@ -657,7 +618,7 @@ esetében.
 
 (5) Az építészeti-műszaki tervezési, valamint az építésügyi műszaki szakértői tevékenységet folytató személy csak olyan szakterületen végezhet tervezési vagy szakértői munkát, amelyhez e törvény szerint megfelelő tervezői vagy szakértői jogosultsággal rendelkezik.
 
-(6) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet az e § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik tervezői, illetve műszaki szakértői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(6)
 
 (7) Az építészeti-műszaki tervpályázat a (8) bekezdésben meghatározott tervezési feladatok előkészítésére szolgáló sajátos tervezési versenyforma, és az építészeti-műszaki pályamű alapján a tervező kiválasztásának egyik módja.
 
@@ -679,13 +640,13 @@ esetében.
   - aa) műszaki tartalmának szakszerűségéért,
   - ab) valós állapotnak megfelelő tartalmáért,
   - ac) építészeti minőségéért, a tervezéssel érintett védett építészeti és természeti örökség megóvásáért,
-- b) a jogszabályok, szabályzatok, építési előírások, szabványok és egyéb szakmai szabályok betartásáért,
+- b)
 - c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
 - d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 
-(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság 100 000 forintig terjedő közigazgatási bírsággal sújtja.
+(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság kormányrendeletben meghatározott közigazgatási bírsággal sújtja.
 
-(3) A névjegyzéket vezető szerv a tervezőt és a szakértőt a szakmagyakorlással kapcsolatos jogszabályok megsértése esetén jogszabályban meghatározott esetekben és módon szankciókkal sújtja.
+(3)
 
 (4) A tervező – ha erre az építtetőtől megbízást kapott – tervezői művezetést végezhet. Ennek keretében közreműködik az építészeti-műszaki terveknek megfelelő maradéktalan megvalósítás érdekében, valamint elősegíti a kivitelezés során a tervekkel kapcsolatban felmerült szakkérdések megoldását.
 
@@ -697,26 +658,34 @@ esetében.
 
 (4) A névjegyzéket vezető szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről névjegyzéket vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(5) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet az e § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik igazgatási szakértői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(5)
 
 ### Építésügyi hatósági eljárások
 
-34. § (1) Építési tevékenység végzéséhez jogszabályban meghatározott esetekben építésügyi hatósági eljárás lefolytatása szükséges.
+34. § (1) Építési tevékenység megkezdéséhez és folytatásához jogszabályban meghatározott esetekben az építésügyi hatóság eljárásának lefolytatása szükséges. Az építésügyi hatóság jogosult az építési tevékenység jogszerűségének ellenőrzésére.
 
-(2) Az építésügyi hatósági eljárásfajták:
+(2) Az építésügyi hatóság
 
-- a) elvi építési,
-- b) telekalakítási,
-- c) építési,
-- d) bontási,
-- e) használatbavételi,
-- f) fennmaradási
+- a) építési engedélyezési,
+- b) összevont engedélyezési,
+- c) fennmaradási engedélyezési,
+- d) használatbavételi engedélyezési,
+- e) bontási engedélyezési,
+- f) engedély hatályának meghosszabbítása iránti engedélyezési,
+- g) jogutódlás tudomásulvételi,
+- h) használatbavétel tudomásulvételi,
+- i) az országos építési követelményektől való eltérés engedélyezési,
+- j) hatósági bizonyítvány kiállítása iránti,
+- k) kötelezési,
+- l) végrehajtási,
+- m) szakhatósági, valamint
+- n) veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvételi
 
-eljárás.
+eljárásokat folytat, és jogszabályban meghatározott esetben és módon építésügyi hatósági szolgáltatást nyújt.
 
 (3) Az építésügyi hatóság – közreműködő hatóság közreműködésével – integrált eljárást folytat le vagy ilyen eljárásban vesz részt az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott esetben.
 
-(4) Az építésügyi hatóság jogszabályban meghatározott esetekben egyszerűsített építésügyi hatósági eljárást folytat le.
+(4) Az építésügyi hatóság jogszabályban meghatározott esetekben összevont engedélyezési építésügyi hatósági eljárást folytat le.
 
 (5) Az építésügyi hatóság jogszabályban meghatározott esetekben tény, állapot, egyéb adat igazolása céljából
 
@@ -727,11 +696,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
 
-35. § (1) Az építési engedély iránti kérelem benyújtása előtt elvi építési engedély kérhető az építés megvalósításához szükséges követelmények előzetes tisztázása céljából.
-
-(2) A jogerős és végrehajtható elvi építési engedély egy évig hatályos. Érvényessége egy ízben legfeljebb egy évvel meghosszabbítható, ha a jogszabályok, valamint a kötelező hatósági előírások időközben nem változtak meg.
-
-(3) Az elvi építési engedély hatályossága alatt kezdeményezett építésügyi hatósági engedélyezési eljárás során szakhatóság közreműködése esetén a szakhatóságot és az építésügyi hatóságot az elvi engedély azokban a kérdésekben, amelyekről kifejezetten rendelkezett, akkor is köti, ha időközben a jogszabályok, valamint a kötelező hatósági előírások megváltoztak. Az elvi építési engedély alapján építési munka nem végezhető.
+35. § (1)–(3)
 
 (4)
 
@@ -739,31 +704,9 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (6) Az építtető az összevont eljárásért, valamint az integrált eljárásért az építésügyi hatóságnak, szakhatóság közreműködése esetén a szakhatóságnak külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat köteles fizetni.
 
-36. § (1) Építésügyi hatósági engedély törvényben, kormányrendeletben meghatározottak szerint akkor adható, ha
+36. § (1) Építésügyi hatósági engedély törvényben, kormányrendeletben meghatározottak szerint akkor adható, ha a kérelem és mellékletei, valamint a kérelmezett tevékenység megfelel a jogszabályokban meghatározott szakszerűségi követelményeknek.
 
-- a) a tervezett építési tevékenység megfelel a 18–22. §-ban, és a 31. § (1) bekezdésében előírtaknak,
-- b) az építési tevékenységgel érintett telek kialakítása a 23. és 24. §-ban, a településrendezési tervekben, illetőleg a jogszabályokban meghatározottak szerint megtörtént,
-- c) a tervezett építmény vagy építészeti-műszaki megoldás megfelel
-  - ca) a 31. § (2)–(5) bekezdésében előírt követelményeknek,
-  - cb) az általános érvényű szakmai és a jogszabályokban meghatározott követelményeknek,
-  - cc) az egyes építményekre, területekre védettséget elrendelő jogszabályoknak és az előzetes hatósági eljárásokban előírt követelményeknek,
-  - cd) az építészeti minőség és értékvédelem jogszabályban meghatározott szempontjainak, valamint
-- d) az építmény megépítése, rendeltetése, használata, fenntartása nem okoz a környezetében olyan káros hatást, amely
-  - da) a terület rendeltetésének megfelelő és jogszabályban meghatározott mértéket meghaladná,
-  - db) az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztetné,
-- e) az építmény rendeltetésszerű és biztonságos használhatóságához szükséges
-  - ea) járulékos építmények (közművek, utak, burkolatok, parkolók stb.), illetőleg
-  - eb) közlekedési hálózathoz való csatlakozás, valamint
-  - ec) a közmű- és energiaellátás
-
-a használatbavételi engedély megkéréséig biztosítható, illetve a használatbavételi engedélyezéskor rendelkezésre áll,
-
-- f) a tervezőként megjelölt személy – a névjegyzéket vezető szerv által igazoltan – jogosult a kérelemben megjelölt építési tevékenységgel kapcsolatos építészeti-műszaki tervezésre,
-- g) az építtető – az elvi és a használatbavételi engedélyezés kivételével – az építési tevékenységre jogosult,
-- h) a tervező nyilatkozott arról, hogy az általa elkészített építészeti-műszaki tervdokumentáció jogszabályokban meghatározott alapvető követelmények teljesítését biztosító nemzeti szabványokkal azonos vagy azokkal egyenértékű műszaki megoldást tartalmaz,
-- i) az építésügyi hatósági engedélykérelem jogszabályban előírt mellékletei rendelkezésre állnak, és tartalmuk megfelel az a)–h) pontok előírásainak.
-
-(2) A védett településképet és építményeket, egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
+(2) A településképet, egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
 
 - a) a jellemző helyi építőanyag használatát, jellegzetes építészeti forma vagy tömeg helyreállítását, illetve visszaállítását, továbbá
 - b) az építménynek az értékvédelem és a környezethez való illeszkedés követelményeinek megfelelő kialakítását, valamint
@@ -773,31 +716,31 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (4) A (3) bekezdésben említett jogorvoslati eljárás során, ha az új eljárás megindításakor hatályban lévő építésügyi előírások az építtető számára kedvezőbbek, akkor azokat kell az eljárás során alkalmazni.
 
-37. § (1)
+37. § (1) Az építésügyi hatóság engedélye nem mentesíti az építtetőt az építési tevékenység megkezdéséhez szükséges más hatósági engedélyek, nyilatkozatok vagy hozzájárulások megszerzésének kötelezettsége alól.
 
 (2) Az építésügyi hatóság engedélye az építési munkával kapcsolatos polgári jogi igényt nem dönt el.
 
 ### Az építés
 
-38. § (1) Építési tevékenységet végezni – ha jogszabály eltérően nem rendelkezik – csak a jogerős építésügyi hatósági engedélynek vagy bejelentésnek, továbbá a hozzájuk tartozó, jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az ezek alapján készített kivitelezési dokumentációnak megfelelően szabad.
+38. § (1) Építési tevékenységet végezni – ha jogszabály eltérően nem rendelkezik – csak a jogerős építésügyi hatósági engedélynek, továbbá a hozzájuk tartozó, jóváhagyott engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak, valamint az ezek alapján készített kivitelezési dokumentációnak megfelelően szabad.
 
-(2) Az (1) bekezdésben meghatározottaktól csak az építésügyi hatóság újabb előzetes engedélyével vagy bejelentés tudomásulvételével szabad eltérni, kivéve, ha az eltérés önmagában nem engedélyhez vagy bejelentéshez kötött építési tevékenység.
+(2)
 
 ### Az építési folyamat egyéb résztvevői
 
-38/A. § (1) A tervellenőri tevékenység a kivitelezési tervdokumentáció (tervdokumentáció-rész) tartalmának a 33. § (1) bekezdés a) pontjának aa) alpontja és b) pontja szerinti – az építés minőségének, a szakszerű kivitelezés biztosításának, valamint a 31. § (2) bekezdése szerinti és az egyéb jogszabályokban meghatározott követelményeknek az érvényre juttatása érdekében végzett – szakszerű ellenőrzése.
+38/A. § (1)
 
-(2) Az építési műszaki ellenőri tevékenység a 43. § (1) bekezdés b)–d) és g) pontjában, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feladatok ellátása. Építési műszaki ellenőr alkalmazását vagy megbízását törvény és kormányrendelet kötelezővé teheti.
+(2) Az építési műszaki ellenőri tevékenység a 43. § (1) bekezdés e), g), h), i) és k) pontjában, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feladatok ellátása. Építési műszaki ellenőr alkalmazását vagy megbízását törvény és kormányrendelet kötelezővé teheti.
 
 (3) A felelős műszaki vezetői tevékenység az építőipari kivitelezési tevékenység irányítása a 40. § (2) bekezdésében meghatározott felelősséggel.
 
-(4) Tervellenőri, építési műszaki ellenőri, illetve felelős műszaki vezetői tevékenységet az folytathat, aki rendelkezik a névjegyzéket vezető szerv engedélyével (a továbbiakban: tervellenőri, műszaki ellenőri, illetve műszaki vezetői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
+(4) Építési műszaki ellenőri, illetve felelős műszaki vezetői tevékenységet az folytathat, aki rendelkezik a névjegyzéket vezető szerv engedélyével (a továbbiakban: műszaki ellenőri, illetve műszaki vezetői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
-(5) A névjegyzéket vezető szerv annak engedélyezi tervellenőri, építési műszaki ellenőri, illetve felelős műszaki vezetői tevékenység folytatását, aki nem áll az ilyen tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
+(5) A névjegyzéket vezető szerv annak engedélyezi építési műszaki ellenőri, illetve felelős műszaki vezetői tevékenység folytatását, aki nem áll az ilyen tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
 
-(6) Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet az (1)–(3) bekezdés szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik tervellenőri, műszaki ellenőri, illetve műszaki vezetői jogosultsággal, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(6)
 
-38/B. § (1) A beruházáslebonyolítói tevékenység az építtető megbízásából a 43. § (1) bekezdés a), e)–f) pontjában és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feladatok ellátása.
+38/B. § (1) A beruházáslebonyolítói tevékenység az építtető megbízásából a 43. § (1) bekezdés c)–d), f), j) és k) pontjában és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott feladatok ellátása.
 
 (2) Beruházáslebonyolítói tevékenységet üzletszerű gazdasági tevékenység keretében az folytathat, aki nem áll beruházáslebonyolítói foglalkozástól eltiltás hatálya alatt, büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek (a továbbiakban: beruházáslebonyolítói jogosultság).
 
@@ -813,31 +756,37 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.
 
-38/D. § Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet a 38/B., illetve a 38/C. § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy jogosult az adott tevékenység folytatására, és ez a tag, személy részt vesz a tevékenység ellátásában.
+(5) A Budapesti és Pest Megyei Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja a Nyilvántartásban rendelkezésre álló összes energetikai tanúsítványnak kormányrendeletben meghatározott statisztikailag jelentős hányadát, és az ellenőrzések alapján a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
 
-39. § (1) Az építőipari kivitelezési tevékenység az építési beruházás megvalósítása keretében végzett építési tevékenységek és az ezekre vonatkozó irányító és ellenőrző tevékenységek összessége.
+38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet akkor végezhet a 16. §, a 32. §, a 33/A. § és a 38/A–38/C. § szerinti tevékenységet, ha tagja vagy alkalmazottja rendelkezik településtervezési, településrendezési szakértői, építészeti-műszaki tervezői, építésügyi műszaki szakértői, beruházáslebonyolítói, építésügyi igazgatási szakértői, felelős műszaki vezetői, építési műszaki ellenőri vagy energetikai tanúsítói jogosultsággal, és ezt a tevékenységet a jogosultsággal rendelkező személy végzi.
 
-(2) Üzletszerű gazdasági tevékenységként építőipari kivitelezési tevékenységet (a továbbiakban: vállalkozó kivitelezői tevékenység) az folytathat,
+(2) az (1) bekezdésben meghatározott szervezetnek az ott meghatározott tevékenysége folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
+
+### Az építőipari kivitelezési tevékenység végzésének feltételei
+
+39. § (1) Az építőipari kivitelezési tevékenység az építési beruházás megvalósítása keretében végzett építési tevékenységek összessége.
+
+(2) Építőipari kivitelezési tevékenységet az folytathat,
 
 - a) akinek az építőipari kivitelezési tevékenység a tevékenységi körében szerepel, továbbá a kivitelezési tevékenység végzéséhez alkalmas telephellyel rendelkezik,
-- b) aki rendelkezik a megjelölt építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel vagy legalább egy – vele tagsági, alkalmazotti vagy munkavégzésre irányuló egyéb jogviszonyban álló – ilyen szakképesítésű szakmunkással, és
-- c) aki – vele munkaviszonyban, tagsági vagy megbízási jogviszonyban álló – olyan személyt alkalmaz, aki az a) pont szerinti tevékenységi körbe tartozó, a 39/A. § szerint csak felelős műszaki vezető irányításával végezhető kivitelezési tevékenységek tekintetében a felelős műszaki vezetői feladatok ellátására jogosult.
+- b) aki rendelkezik a megjelölt építőipari kivitelezési tevékenységi körének megfelelő szakképesítéssel vagy legalább egy – vele tagsági, alkalmazotti jogviszonyban álló – ilyen szakképesítésű szakmunkással, és
+- c) aki – a csak a 39/A. § (2) bekezdésében meghatározott tevékenységet végzők kivételével – vele munkaviszonyban vagy tagsági jogviszonyban álló olyan személyt alkalmaz, aki az a) pont szerinti tevékenységi körbe tartozó, csak felelős műszaki vezető irányításával végezhető kivitelezési tevékenységek tekintetében a felelős műszaki vezetői feladatok ellátására jogosult.
 
-(3) Aki vállalkozó kivitelezői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
+(3) Aki üzletszerű gazdasági tevékenységként építőipari kivitelezési tevékenységet (a továbbiakban: vállalkozó kivitelezői tevékenység) kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
 
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő vállalkozó kivitelezői tevékenység folytatására irányuló szándékát köteles a névjegyzéket vezető szervnek bejelenteni.
 
-(5) A névjegyzéket vezető szerv a vállalkozó kivitelezői tevékenység végzésére jogosult, a (3) és (4) bekezdés szerinti bejelentést tevő vállalkozó kivitelezőről névjegyzéket vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl – tartalmazza a vállalkozó kivitelezői tevékenység végzésére jogosult természetes személy természetes személyazonosító adatait.
+(5) a vállalkozó kivitelezői tevékenység folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a vállalkozó kivitelező teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
 
-(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, építőipari kivitelezési tevékenységet csak saját céljára végezhet.
+(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, de a tevékenység jellegének megfelelő szakképesítéssel rendelkezik, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
 
-(7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot. A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.
+(7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a szolgáltatási tevékenység megkezdésének és folytatásának általános feltételeiről szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot. A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.
 
-39/A. § (1) Az építőipari kivitelezési tevékenység csak olyan felelős műszaki vezető irányításával folytatható, aki a kivitelezési tevékenység szakirányának megfelelő jogosultsággal és egyéb feltételekkel, továbbá az építési tevékenységet végzők vonatkozásában közvetlen utasítási joggal rendelkezik.
+39/A. § (1) Az építőipari kivitelezési tevékenység – a (2) bekezdés kivételével – csak olyan felelős műszaki vezető irányításával folytatható, aki a kivitelezési tevékenység szakirányának megfelelő jogosultsággal és egyéb feltételekkel, továbbá az építési tevékenységet végzők vonatkozásában közvetlen utasítási joggal rendelkezik.
 
-(2) Építésügyi hatósági engedélyhez nem kötött kormányrendeletben meghatározott építési tevékenységet a munka jellegének megfelelő szakmunkás felelős műszaki vezető irányítása nélkül is végezhet.
+(2) Kormányrendeletben meghatározott építési tevékenységet az ott előírt feltételek megléte esetén a tevékenység jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet. E tevékenység végzése során felel a 40. § (2) bekezdés b)–e) pontjában foglaltak betartásáért.
 
-(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő szakképesítéssel, részszakképesítéssel rendelkezik.
+(3) Építési szakmunkát csak az végezhet, aki az adott tevékenység végzésének megfelelő, jogszabályban meghatározott szakképesítéssel, részszakképesítéssel rendelkezik.
 
 (4) Az építtető köteles az építőipari kivitelezési tevékenység megkezdését e törvény végrehajtására kiadott kormányrendeletben meghatározott esetekben és módon bejelenteni.
 
@@ -869,7 +818,7 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 - d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági előírások megtartásáért és
 - e) a munkálatok végzésének szakszerűségéért.
 
-(3) A kivitelező – jogszabályban meghatározott esetekben és módon – építési naplót vezet, abban a napi munkát rögzíti, a naplót állandóan a munka helyszínén tartja, és azt az ellenőrző hatóság, illetve az építési műszaki ellenőr kérésére rendelkezésre bocsátja. Az építési napló részét képezik az elvégzett építőipari kivitelezési tevékenységekre vonatkozó felelős műszaki vezetői nyilatkozatok is.
+(3) A kivitelező – jogszabályban meghatározott esetekben és módon – építési naplót vezet, és azt a jogszabályban meghatározott szervek, hatóságok és az építési műszaki ellenőr rendelkezésére bocsátja. Jogszabály előírhatja az építési napló elektronikus vezetését.
 
 (4) A 43. § (1) és (2) bekezdésében foglaltak végrehajtása érdekében az építtető helyszíni képviselőjeként az építőipari kivitelezési tevékenység jellegének megfelelő – kormányrendeletben meghatározott jogosultsággal rendelkező – építési műszaki ellenőrt, illetve külön jogszabályban meghatározott esetekben és módon beruházót, a beruházó lebonyolítót bízhat meg. Jogszabály az építési műszaki ellenőr alkalmazását kötelezővé teheti.
 
@@ -887,26 +836,29 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (2)
 
-43. § (1) Az építtető felel:
+43. § (1) Az építtető felel
 
-- a) az építésügyi hatósági engedély megszerzéséért, illetve
-- b) a jogerős és végrehajtható építésügyi hatósági engedélyben és a hozzátartozó, jóváhagyott, engedélyezési záradékkal ellátott tervdokumentációban foglaltak betartásáért,
-- c) az építőipari kivitelezési tevékenység végzésének figyelemmel kíséréséért,
-- d) azért, hogy az építmény rendeltetésszerű és biztonságos használatához szükséges járulékos építmények, tereprendezési, fásítási, parkosítási munkálatok az építménnyel együtt valósuljanak meg,
-- e) az építési műszaki ellenőr, valamint a kivitelező kiválasztásáért,
-- f) az építőipari kivitelezési tevékenység megkezdésének az építésfelügyeleti szervhez történő jogszabályban előírt bejelentéséért és az ehhez szükséges mellékletek meglétéért,
-- g) azért, hogy az építési napló – jogszabályban meghatározott esetekben – a használatbavételi engedélyezési eljárás lefolytatása során az építésügyi hatóság rendelkezésére álljon,
-- h) e törvényben meghatározott esetekben személyes adatok közléséért, illetve külön jogszabályban meghatározott esetekben a megjelölt adatok bejelentéséért.
+- a) az építési beruházás teljes fedezetének biztosításáért,
+- b) a beruházáslebonyolító kiválasztásáért,
+- c) az engedélyezési és kivitelezési terv tervezőjének, az építési műszaki ellenőr, valamint a kivitelező kiválasztásáért,
+- d) az építésügyi hatósági engedély, tudomásulvétel megszerzéséért,
+- e) a jogerős és végrehajtható építésügyi hatósági engedélyben és a hozzá tartozó, jóváhagyott, engedélyezési záradékkal ellátott tervdokumentációban, valamint a kivitelezési tervekben foglaltak betartásáért,
+- f) az építőipari kivitelezési tevékenység megkezdésének az építésfelügyeleti hatósághoz történő, jogszabályban előírt bejelentéséért és az ehhez szükséges mellékletek meglétéért, az ezzel kapcsolatos változások bejelentéséért,
+- g) az építési munkaterület átadásáért,
+- h) az építőipari kivitelezési tevékenység végzésének ellenőrzéséért,
+- i) azért, hogy az építmény rendeltetésszerű és biztonságos használatához szükséges járulékos építmények, tereprendezési, fásítási, parkosítási munkálatok az építménnyel együtt valósuljanak meg,
+- j) azért, hogy az építési napló a hatósági ellenőrzések és eljárások során az építésügyi és építésfelügyeleti hatóság rendelkezésére álljon, továbbá amennyiben jogszabály előírja az építési napló elektronikus vezetését, az elektronikus építési napló aktiválásáért, valamint
+- k) az e törvényben meghatározott esetekben személyes adatok közléséért és jogszabályban meghatározott esetekben a megjelölt adatok bejelentéséért.
 
 (2) Az építtető és a kivitelező együttesen felel azért, hogy az építésügyi hatóság által meghatározott időtartamon belül az építmény környezetéből az építőipari kivitelezési tevékenység során keletkezett építési hulladékot – a külön jogszabályban meghatározott módon – elszállíttassa, a környezet és a terep felszínét az eredeti, illetve az engedélyezett állapotában átadja, a környezetben okozott károkat megszüntesse.
 
 ### Az építmény használatbavétele
 
-44. § (1) Az építtetőnek minden olyan építményről, építményrészről, amelyre építési engedélyt kellett kérnie vagy bejelentést kellett tennie, annak használatbavétele előtt – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – használatbavételi engedélyt kell kérnie, vagy az építmény elkészültét be kell jelentenie.
+44. § (1) Az építtetőnek minden olyan építményről, építményrészről, amelyre építési engedélyt kellett kérnie annak használatbavétele előtt – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – használatbavételi engedélyt kell kérnie, vagy az építmény elkészültét be kell jelentenie.
 
 (2) A használatbavételi engedélyt meg kell adni, ha az építményt vagy egy részét – építési engedélyhez kötött építési munka esetén – az engedélynek megfelelően, rendeltetésszerű és biztonságos használatra alkalmas módon építették meg.
 
-(3) Ha az építmény vagy egy része rendeltetésszerű használatra nem alkalmas, vagy az építési munka elvégzése következtében idegen ingatlanban az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot keletkezett, az építésügyi hatóság az építmény használatbavételét megtiltja, vagy építésügyi hatósági kötelezés keretében a hibák, hiányosságok megszüntetésétől teszi függővé. A használatbavételi engedély megadása feltételekhez köthető, az engedélyben kikötések tehetők.
+(3) A használatbavételi engedély megadása feltételekhez köthető, az engedélyben kikötések tehetők.
 
 (4) Az (1) bekezdésben előírt használatbavételi engedély hiányában az építményt nem szabad használni.
 
@@ -916,97 +868,121 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 46. § (1) Az építésfelügyeleti tevékenység ellátása állami feladat.
 
-(2)–(3)
+(2) Az építésfelügyeleti hatóság az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellátja az építési folyamat felügyeletét, ellenőrzi az építmény műszaki állapotát, valamint feltárja a szabálytalan építkezéseket. Ennek keretében
 
-(4) Az építésfelügyeleti hatóság hatósági jogkörében a külön jogszabályban meghatározottak szerint
+- a) az építőipari kivitelezési tevékenység megkezdésével összefüggő építésfelügyeleti hatósági eljárásokat folytat le,
+- b) a helyszínen ellenőrzi az építőipari kivitelezési tevékenység
+  - ba) végzésének szakszerűségét, jogszerűségét,
+  - bb) résztvevőinek jogosultságát,
+  - bc) végzéséhez előírt építési napló vezetésének módját és tartalmát,
+  - bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
+- c) a jókarbantartási kötelezettség teljesítése körében ellenőrzést és eljárást folytat le,
+- d) a szabálytalan építési tevékenység feltárása érdekében az építésügyi monitoring igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
+- e) az ellenőrzései alapján szankciót állapít meg, ennek keretében
+  - ea) építésfelügyeleti intézkedést tesz,
+  - eb) építésfelügyeleti bírságot szab ki,
+  - ec) megkeresi az intézkedésre hatáskörrel rendelkező hatóságot,
+- f) szakhatósági eljárást folytat le.
 
-- a) építésfelügyeleti ellenőrzéseket végez,
-- b) építésfelügyeleti hatósági intézkedést tesz,
-- c) vezeti a jogszabállyal hatáskörébe utalt nyilvántartásokat.
+(3) Az építésfelügyeleti hatóság jogszabályban meghatározott módon
 
-(5) Az építésfelügyeleti hatóság az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi az építőipari kivitelezési tevékenység végzését.
+- a) a (2) bekezdés a) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység megkezdését vagy annak folytatását megtilthatja, feltételhez kötheti vagy tudomásul veszi,
+- b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
+  - ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
+  - bb) az építőipari kivitelezési tevékenység folytatását megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+- c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
+- d) a (2) bekezdés c) pontja szerinti feladatkörében jogszabályban meghatározott ellenőrzést végez a meglévő építmények körében, az ellenőrzésen tapasztaltak eredményeképpen
+  - da) kötelezheti az építmény tulajdonosát a szükséges munkálatok elvégzésére,
+  - db) elrendeli az építmény felülvizsgálatát, a szükség szerinti építési munkák elvégzését, ha az építmény állapota az állékonyságot, az életet és az egészséget, a köz- és vagyonbiztonságot veszélyezteti.
+- e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen
+  - ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
+  - eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
-(6) Ha az építésfelügyeleti hatóság ellenőrzése során azt állapítja meg, hogy
+(4) Az építésfelügyeleti hatóság az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzésétől számított 90 napon belül indítja meg a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
-- a) az építőipari kivitelezési tevékenység szakszerűségét, az építési napló vezetésére vonatkozó szabályokat súlyosan megsértették, a résztvevők nem rendelkeznek az előírt jogosultsággal, vagy hiányoznak a kiviteli tervek, az építőipari kivitelezési tevékenység folytatását megtilthatja,
-- b) az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és egészséget vagy a közbiztonságot közvetlenül veszélyezteti, az építőipari kivitelezési tevékenység folytatását megtiltja és a szabálytalan állapot megszüntetését elrendeli.
+- a) a (2) bekezdés a)–c) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+- b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
 
-(7) Az építésügyi és az építésfelügyeleti hatóság az ellenőrzési feladatokban a szakmai kamarák, illetve a szükséges vizsgálatok elvégzésére külön jogszabályban meghatározottak szerint szakértő vagy jogosult szakintézmény közreműködését veheti igénybe. Ha az építésügyi vagy az építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, illetve szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
+van helyük.
 
-46/A. § (1) Az építésfelügyeleti hatóság a 46. § (6) bekezdésében felsorolt követelmények megsértése esetén építésfelügyeleti bírságot szab ki a mulasztóval, illetőleg a veszélyhelyzet okozójával szemben.
+(5)–(7)
 
-(2) Az építésfelügyeleti bírságot az építésfelügyeleti hatóság az (1) bekezdésben meghatározott cselekményről (mulasztásról) való tudomásszerzésétől számított egy éven, de legkésőbb a cselekmény elkövetésétől számított öt éven belül szabhatja ki.
-
-(3) Az építésfelügyeleti bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
-
-(4)
-
-(5) A bírság kiszabása során a külön jogszabályban meghatározottak szerint kell figyelembe venni az építmény jellegét és rendeltetését, a szabálytalanság mértékét, a veszélyeztetés módját, nagyságát és a természetes és épített környezetre gyakorolt hatását is.
+46/A. §
 
 ### Az építésügyi hatósági kötelezés
 
-47. § (1) Az építésügyi hatóság külön kormányrendeletben foglaltak szerint elrendelheti:
-
-- a) az építmény, építményrész építésügyi hatósági engedélyekben meghatározott, ennek hiányában az eredeti (a változtatás előtti) rendeltetésétől eltérő használatának megszüntetését, valamint b) szabálytalan építkezés esetében az építési munka megszüntetését és az építést megelőző állapot helyreállítását, illetőleg a jogerős és végrehajtható építési engedélynek és a hozzá tartozó, jóváhagyott engedélyezési terveknek megfelelő állapot kialakítását,
-- c) a műszaki követelményeknek meg nem felelő építési termékek kicserélését,
-- d) az építmény, építményrész kötelező jókarbantartás körét meghaladó felújítását, ha az a településkép kedvezőbb alakítása érdekében szükséges, vagy azt a helyrehozatali kötelezettséget előíró önkormányzati rendeletben foglaltak végrehajtása, illetőleg az építészeti örökség védelmének érdekei megkövetelik,
-- e) jogszabályban meghatározott esetekben a telek bekerítését, továbbá a telken a településkép előnyösebb kialakítása vagy a környezet védelme céljából szükséges kertépítési, továbbá a településkép védelme érdekében szükséges egyéb munkák elvégzését,
-- f) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti, illetve az engedélyezett állapotban történő átadását, a környezetben okozott károk megszüntetését.
+47. § (1) Jogszabályban meghatározott esetekben és módon az építésügyi hatóság elrendelheti a telek bekerítését, az engedély nélküli építményhasználat megszüntetését.
 
 (2) Az építésügyi hatóságnak külön kormányrendeletben foglaltak szerint el kell rendelnie:
 
 - a) az építmény, építményrész részleges vagy teljes átalakítását, – amennyiben ez nem lehetséges, vagy ha az építtető ezt nem vállalja – a lebontását vagy az újraépítését, ha a kivitelezés az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető módon történik,
-- b) az építmény, építményrész állékonyságát, az életet, egészséget, a köz- és vagyonbiztonságot veszélyeztető, valamint az engedély nélküli használat megszüntetését,
+- b) az építmény, építményrész állékonyságát, az életet, egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot és használat megszüntetését,
 - c) az építmény, építményrész hibáinak, hiányosságainak megszüntetését,
   - ca) ha azt rendeltetésszerű és biztonságos használatra nem alkalmas módon építették meg, vagy ezáltal idegen ingatlanban az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető állapot keletkezett,
-  - cb) ha a használatbavételi engedély megszerzését követő engedély és bejelentés nélkül végezhető átalakítás, változtatás, rendeltetésmódosítás következtében az érintett építmény vagy építményrész a – változtatáskor, átalakításkor, rendeltetésmódosításkor hatályos – rendeltetésszerű és biztonságos használatra vonatkozó jogszabályi és hatósági előírásoknak nem felel meg, vagy
-  - cc) ha a használatbavételi engedély megszerzését követően engedélyhez vagy bejelentéshez kötött szabálytalan átalakítás, változtatás, rendeltetésmódosítás következtében az érintett építmény vagy építményrész az – ellenőrzéskor hatályos – rendeltetésszerű és biztonságos használatra vonatkozó jogszabályi és hatósági előírásoknak nem felel meg,
-- d) az építmény jókarbantartására vonatkozó kötelezettség teljesítését, illetőleg az építmény felülvizsgálatát, szükség szerinti átalakítását, felújítását, helyreállítását vagy lebontását, ha annak állapota az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyezteti.
+  - cb)–cc)
+- d) jogszerűtlen építési tevékenység esetében az építési tevékenység végzésének megszüntetését vagy a jogerős és végrehajtható építési engedélynek és a hozzá tartozó, jóváhagyott engedélyezési terveknek megfelelő állapot kialakítását,
+- e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését, valamint
+- f) energetikai tanúsítvány elkészíttetését.
 
 (3) Az építésügyi hatóság megkeresésére az ingatlan-nyilvántartásba az (1)–(2) bekezdés szerint elrendelt jogerős és végrehajtható kötelezettséget be kell jegyezni.
 
 (4) Az építésügyi hatóság, amennyiben a végrehajtható kötelezettséget – annak nem teljesítése miatt a kötelezett terhére hatósági úton, a felmerülő költségeket megelőlegezve – maga végezteti el, a költségek erejéig, azok megtérítéséig az érintett ingatlanra jelzálogjogot jegyeztethet be az ingatlan-nyilvántartásba.
 
-(5) Az építésügyi hatóság az építési munka folytatását a helyszínen – alkalmanként legfeljebb egyszer 30 napra – megtilthatja, ha az szabálytalanul vagy pedig az állékonyságot, az életet és egészséget, a köz- és vagyonbiztonságot veszélyeztető módon történik. Ez idő alatt az építésügyi hatóságnak döntenie kell az eljárás megszüntetéséről vagy folytatásáról.
+(5)
 
-### Az építmény fennmaradásának engedélyezése
+### Szabálytalan tevékenység és jogkövetkezményei
 
-48. § (1) Ha az építményt, építményrészt szabálytalan építési tevékenységgel valósították meg, az építésügyi hatóság arra – az építtető vagy az ingatlannal rendelkezni jogosult kérelme alapján – fennmaradási engedélyt ad, ha a 36. §-ban meghatározott feltételek fennállnak vagy megteremthetők és az építtető az építési jogosultságát igazolta. Ha az építményt, építményrészt építésügyi hatósági engedély nélkül bontották le az építésügyi hatóság azt tudomásul veszi.
+48. § (1) Szabálytalan a
 
-(2) Fennmaradási engedély az (1) bekezdésben foglaltak érvényesítése mellett kiadható akkor is, ha
+- a) jogszerűtlenül,
+- b) jogosulatlanul vagy
+- c) szakszerűtlenül
 
-- a) az építmény, építményrész átalakítással szabályossá tehető, vagy
-- b) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
+megkezdett és végzett tevékenység.
 
-(3)–(6)
+(2) Jogszerűtlen az építési vagy bontási tevékenység, ha a jogszabály alapján engedélyhez vagy tudomásul vételhez kötött építési vagy bontási tevékenységet
 
-(7) Az építményt, építményrészt az engedélyesnek kártalanítási igény nélkül le kell bontania, ha
+- a) engedély vagy tudomásul vétel nélkül,
+- b) az engedélytől vagy tudomásul vételtől eltérően,
+- c) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –,
+- d) a jogerős engedély végrehajthatóságának felfüggesztése ellenére
 
-- a) a meghatározott időre szóló fennmaradási engedélyben meghatározott idő eltelt,
-- b) a visszavonásig hatályos fennmaradási engedélyt visszavonták, vagy
-- c) a fennmaradási engedélyben előírt átalakítási kötelezettséget nem teljesítették.
+végzik.
 
-(8) Ha a szabálytalanul megépített építményre, építményrészre fennmaradási engedély nem adható, az építésügyi hatóság elrendeli:
+(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a jogerős építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
 
-- a) a szabályossá tétel érdekében szükséges munkálatok elvégzését vagy
-- b) – ha az építmény fennmaradása átalakítással sem engedélyezhető –, a lebontását.
+(4) Jogosulatlan a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal.
 
-(9) Az építésügyi hatóság a szabálytalanság tudomásra jutásától számított két éven belül, legkésőbb azonban az építés befejezésétől – ha nem állapítható meg – az építmény használatbavételétől számított tíz éven belül intézkedhet. A (7) bekezdésben foglaltak és az új eljárás lefolytatása esetén a kétéves időtartam kezdetét a meghatározott idő elteltétől, valamint az engedély visszavonásától, az átalakítási kötelezettségre előírt teljesítési határidő lejártától, illetőleg az új eljárás lefolytatását elrendelő jogerős határozat keltétől kell számítani.
+(5) Szakszerűtlen a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha azt a helyi építési szabályzat és az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
 
-(10) A (9) bekezdés szerinti kétéves időtartam az építésügyi hatóság számára újra kezdődik:
+48/A. § (1) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg, az építésügyi hatóság arra az építtető vagy a tulajdonos kérelme alapján fennmaradási engedélyt ad, ha
 
-- a) a (3) bekezdésben foglaltak esetén a fennmaradási engedélykérelem benyújtására való felhívás közlésétől, illetve
-- b) ha az elrendelt bontási kötelezettség fennállása alatt felmerült új tényre hivatkozva terjeszti elő az építtető fennmaradási engedélykérelmét, továbbá
-- c) ha az építtető kérelmét módosítja vagy visszavonja,
-- d) az eljárás felfüggesztésének megszűnésekor.
+- a) egyébként az építési engedélyezéshez előírt, a 36. §-ban és az egyéb jogszabályban meghatározott műszaki és egyéb feltételek teljesülnek,
+- b) az építmény, építményrész átalakítással, visszabontással vagy egyéb módon szabályossá tehető,
+- c) azt a műemléki védett érték megőrzése megkívánja, vagy
+- d) a szabálytalanság közérdeket nem sért, vagy az érdeksérelem a hatóság által meghatározott határidőn belül elhárítható.
 
-(11) A fennmaradási engedélyezés (1)–(2) bekezdéseiben foglalt feltételeit új eljárás elrendelése esetén az eredeti eljárás megindításakor hatályos építésügyi szabályok szerint kell figyelembe venni, kivéve, ha az új eljárás lefolytatásakor hatályos szabályok az építtető számára kedvezőbbek.
+(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság vagy jogszabályban meghatározott esetekben az építésfelügyeleti hatóság elrendeli:
 
-(12) Amennyiben a fennmaradás engedélyezésének az (1) és (2) bekezdésekben meghatározott feltételei fennállnak – kérelemre – a fennmaradási engedély kiadható akkor is, ha a (9) bekezdésben meghatározott intézkedési határidő már letelt. Ebben az esetben azonban átalakítási kötelezettséget előírni és építésügyi bírságot megállapítani már nem lehet.
+- a) a szabályossá tétel érdekében szükséges munkálatok elvégzését, vagy
+- b) – ha az építmény fennmaradása az (1) bekezdés alapján nem engedélyezhető – a lebontását.
 
-(13)
+(3) Ha az építményt, építményrészt az építésfelügyeleti hatóság eljárása nélkül bontották le, az építésügyi hatóság azt tudomásul veszi.
 
-### Az építésügyi bírság
+(4) Veszélyhelyzet elhárítása érdekében történő vagy kihirdetett veszélyhelyzet következtében szükségessé váló építési tevékenységek, valamint az építmények, építményszerkezetek veszélyes állapotának jogszerűtlen építési tevékenységgel történő, halasztást nem tűrő elhárítása vagy részleges elbontása esetén az építésügyi hatóság a megvalósult építmény, építményrész, építményszerkezet fennmaradását vagy elbontását – ha az az (1) bekezdésben előírtaknak, jogszabályban meghatározottak szerint megfelel – kérelemre tudomásul veszi.
+
+(5) az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon az ellenőrzés során feltárt szabálytalan tevékenységről való tudomásszerzéstől számított 90 napon belül indítja meg az (1)–(4) bekezdés szerinti intézkedések megtételére irányuló eljárást. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
+
+(6) az (5) bekezdés szerinti 90 napos időtartam újrakezdődik
+
+- a) a fennmaradási engedélykérelem benyújtására való felhívás nem teljesítése esetén, a teljesítési határidő lejártát követő napon,
+- b) ha az építtető a fennmaradási engedély iránti kérelmét visszavonja, a visszavonást követő napon,
+- c) a fennmaradási és továbbépítési engedélyben előírt szabályossá tételi kötelezettség nem teljesítése esetén, a teljesítési határidő lejártát követő napon,
+- d) az új eljárás lefolytatását elrendelő döntés eljáró hatósághoz történő megérkezését követő napon.
+
+(7) A fennmaradási engedélyezés feltételeit új eljárás elrendelése esetén az eredeti eljárás megindításakor hatályos építésügyi szabályok szerint kell figyelembe venni, kivéve, ha az új eljárás lefolytatásakor hatályos szabályok az építtető számára kedvezőbbek.
+
+(8) Amennyiben a fennmaradás engedélyezésének feltételei fennállnak – kérelemre – a fennmaradási engedély kiadható akkor is, ha az (5) bekezdésben meghatározott intézkedési határidő már letelt. Ebben az esetben azonban átalakítási kötelezettséget előírni és építésügyi bírságot megállapítani már nem lehet.
 
 49. § (1) Ha az építésügyi hatóság a 48. § szerint a fennmaradási engedélyt megadja, illetőleg a lebontást tudomásul veszi, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
 
@@ -1015,6 +991,8 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 (3) Az építésügyi bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
 (4) Nem szabható ki bírság az olyan jogerős és végrehajtható építési, illetve bontási engedély alapján elvégzett építési tevékenységgel összefüggésben, amelynek az alapját képező határozatot utóbb az építésügyi hatóság a saját hatáskörében vagy az ügyészségről szóló törvény szerinti ügyészi felhívás folytán visszavonta, vagy amelyet a bíróság hatályon kívül helyezett, illetve az Alkotmánybíróság határozata alapján az építésügyi hatóság felügyeleti szerve megváltoztatta vagy megsemmisítette kivéve, ha az építtető a visszavonásra (megváltoztatásra, megsemmisítésre, hatályon kívül helyezésre) alapot adó ok tekintetében rosszhiszeműen járt el.
+
+(5) Veszélyes állapotú építmények, épületszerkezetek jogszerűtlen építési tevékenységgel történő veszélyelhárítása vagy részleges elbontása esetén kiadott fennmaradási engedéllyel vagy bontás tudomásulvételével egyidejűleg az építésügyi hatóság építésügyi bírságot nem szab ki.
 
 50. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
 
@@ -1042,19 +1020,64 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (4) Az építésügyi és építésfelügyeleti hatóság által elrendelt munkálatok költségei – ha jogszabály eltérően nem rendelkezik – a kötelezettet terhelik.
 
-52. §
+52. § (1) Az építésügyi és az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+
+- a) figyelmeztetés,
+- b) hatósági kötelezés a szabálytalanság megszüntetésére,
+- c) a tevékenység megkezdésének, folytatásának megtiltása vagy leállítása,
+- d) bírság megállapítása,
+- e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
+
+(2) A névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+
+- a) figyelmeztetés,
+- b) bírság megállapítása,
+- c) a tevékenység folytatásához szükséges jogosultság felfüggesztése,
+- d) a tevékenység folytatásának megtiltása,
+- e) képzési és ismételt vizsgakötelezettség előírása a tevékenység folytatásához,
+- f) a névjegyzékből való törlés.
+
+(3) Az (1) és (2) bekezdés szerinti jogkövetkezményt úgy kell megállapítani, hogy
+
+- a) figyelemmel kell lenni a fokozatosság elvére, az építésügyi szabályok ismételt vagy halmozott megsértése esetén súlyosabb jogkövetkezményt kell alkalmazni,
+- b) arányban álljon az elkövetett szabálytalanság súlyával és következményeivel,
+- c) ugyanazon szabálytalanság esetében kerülni kell a párhuzamos jogkövetkezményt,
+- d) figyelembe kell venni az építési folyamat különböző területein részt vevő személyek felelősségének mértékét,
+- e) figyelembe kell venni – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – az építmény jellegét és rendeltetését, a szabálytalanság mértékét, a veszélyeztetés módját, nagyságát és a természetes és épített környezetre gyakorolt hatását.
+
+(4) Bírság mint jogkövetkezmény kormányrendeletben meghatározott esetekben és módon a következő szabálytalan tevékenységek körében állapítható meg:
+
+- a) tervezésre vonatkozó szabályok megszegése,
+- b) adatbejelentési és adatszolgáltatási kötelezettség elmulasztása,
+- c) jogosulatlanul végzett szakmai tevékenység,
+- d) az e törvény végrehajtására kiadott kormányrendeletben előírt, az építési folyamat szerződéseire vonatkozó szakmai szabályok megszegése,
+- e) összeférhetetlenségi szabályok megsértése,
+- f) építési műszaki ellenőr, felelős műszaki vezető, építtetői fedezetkezelő nélkül végzett építési tevékenység,
+- g) szakszerűtlenül végzett kivitelezési tevékenység,
+- h) építési napló vezetésére vonatkozó szabályok megszegése,
+- i) állékonyságot, az életet és az egészséget vagy a közbiztonságot veszélyeztető állapotot eredményező tevékenység,
+- j) az építésügyi hatósági engedélyezés és ellenőrzés során feltárt szabálytalanságok.
+
+(5) Az építésügyi vagy az építésfelügyeleti hatóság a tényállás tisztázása és a további szükséges intézkedések megállapítása érdekében ellenőrzése során az építési tevékenység folytatását a helyszínen – alkalmanként legfeljebb egyszer – 30 napra
+
+- a) megtilthatja, ha azt állapítja meg, hogy az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott követelményeket súlyosan megsértették, vagy
+- b) megtiltja és a szabálytalan állapot megszüntetését elrendeli, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+
+amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak döntenie kell az eljárás megszüntetéséről vagy folytatásáról.
+
+(6) A szabálytalanságot megállapító hatóság a felelőssel szemben köteles eljárást lefolytatni vagy kezdeményezni az eljárás lefolytatására hatáskörrel rendelkező illetékes hatóságnál vagy névjegyzéket vezető kamaránál. A megkeresett hatóság, névjegyzéket vezető szerv a felelőssel szemben köteles az eljárást lefolytatni.
+
+(7) Az építésügyi szabályok megsértése miatt a természetes személlyel, jogi személy esetén szakmagyakorlási jogosultsággal rendelkező tagjával vagy alkalmazottjával szemben alkalmazott büntetést – jogszabályban meghatározottak szerint – a Nyilvántartás bírság és szankció adatállományában kell rögzíteni.
 
 53. § Az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítése, a döntés meghozatala, végrehajtása, az állami főépítészi, valamint az önkormányzati főépítészi feladatok ellátása jogszabályban meghatározott szakirányú felsőfokú végzettséghez, valamint egyéb – jogszabályban meghatározott – feltételekhez kötött tevékenység.
 
-53/A. § (1) Az építésügyi hatósági engedélyezési eljárásokban – kormányrendeletben meghatározott eljárások kivételével – az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton kapcsolatot tartani.
+### Az építésügyi és építésfelügyeleti hatósági eljárás szabályai
 
-(2)–(3)
+53/A. § (1) az építésügyi hatósági engedélyezési eljárásban az ügyfél az engedély kérelmet elektronikusan is benyújthatja.
 
-(4)–(5)
+(2) Az építésügyi hatósági engedélyezési eljárásban az építésügyi hatóság és az eljáró szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le. A megkeresett szakhatóság elektronikus úton küldi meg állásfoglalását az építésügyi hatóság számára.
 
-(6)
-
-(7) A honvédelmi és katonai, valamint nemzetbiztonsági célú építmények építésügyi és építésfelügyeleti hatóságai által meghozott döntés végrehajtását az első fokon eljáró hatóság foganatosítja.
+(3) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatokba szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe. Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
 
 53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 2. §-a kivételével.
 
@@ -1062,11 +1085,15 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (2) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője az építésügyi hatóság vagy az építésfelügyeleti hatóság jogerős másodfokú döntésének felülvizsgálatát a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság elleni kereset indításával.
 
-(3)–(5)
+(3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(6)
+(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen harminc nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
 
-(7)
+(5) A használatbavételi engedélyezésben részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezéshez adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
+
+(6) Ha a szakhatóság a (4) bekezdésben foglalt határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az első fokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
+
+(7) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait akkor gyakorolhatja, ha az ügyfél az első fokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
 (8) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható fellebbezésre tekintet nélkül végrehajthatónak, ha az kiemelt fontosságú meglévő honvédelmi területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
 
@@ -1077,11 +1104,18 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 a határozat végrehajtását felfüggesztheti.
 
-(10)
+(10) Nincs helye fellebbezésnek a másodfokú eljárásban hozott
 
-53/D. § (1) Az elsőfokú általános építésügyi hatóság a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő építésügyi hatósági hatáskörének gyakorlását – a Kormány által rendeletben meghatározott, a feladatellátást veszélyeztető esetben – átruházza a megyeszékhely települési önkormányzat jegyzőjére.
+- a) a kérelmet érdemi vizsgálat nélkül elutasító,
+- b) az eljárást megszüntető,
+- c) az eljárás felfüggesztése tárgyában hozott,
+- d) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33/A. §-ban meghatározott fizetési kötelezettséggel kapcsolatos,
+- e) az irat betekintési jog korlátozására irányuló kérelem tárgyában hozott és
+- f) a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
 
-(2) Az e törvény végrehajtására kiadott, a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő engedélyezési és kötelezési eljárási szabályokról szóló kormányrendelet alapján kiadásra került bontási, építési, használatbavételi és fennmaradási engedély fellebbezésre tekintet nélkül végrehajtható.
+első fokú végzés ellen.
+
+53/D. §
 
 ### III/A. Fejezet — EGYES KERESKEDELMI ÉPÍTMÉNYEK LÉTESÍTÉSÉRŐL
 
@@ -1093,7 +1127,7 @@ Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény
 
 (2) Az (1) bekezdésben foglalt tilalom alól a kereskedelemért, a környezetvédelemért és a vidékfejlesztésért felelős miniszterek részvételével működtetett Bizottság véleményének kikérésével a kereskedelemért felelős miniszter felmentést adhat.
 
-(3) A (2) bekezdés szerinti felmentés iránti kérelmet a kereskedelemért felelős miniszterhez kell benyújtani. Az (1) bekezdés szerinti kereskedelmi építményre elvi építési, telekalakítási vagy építési engedélyezési eljárást a (2) bekezdésben foglalt miniszteri felmentéssel rendelkező kérelmező indíthat.
+(3) A (2) bekezdés szerinti felmentés iránti kérelmet a kereskedelemért felelős miniszterhez kell benyújtani. Az (1) bekezdés szerinti kereskedelmi építményre összevont telepítési eljárást, építési engedélyezési eljárást, összevont engedélyezési eljárást a (2) bekezdésben foglalt miniszteri felmentéssel rendelkező kérelmező indíthat.
 
 (4) A (2) bekezdés szerinti Bizottság a felmentésre irányuló kérelemről történő vélemény kialakítása során, valamint a kereskedelemért felelős miniszter a felmentésről való döntés meghozatala során a fenntartható kereskedelem követelményeit vizsgálja, különösen az alábbi szempontok szerint:
 
@@ -1131,7 +1165,7 @@ Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény
 
 55. § (1)–(2)
 
-(3) Ha az építmény, építményrész 47. § (1) bekezdés d) pont szerinti felújítása, átalakítása a településkép előnyösebb kialakítása szempontjából vagy településrendezési okokból vált szükségessé, ezek költségei, továbbá az építmény használatának az átalakítás miatt történt korlátozásából eredő károk megtérítése – a munkálatok elvégzése folytán bekövetkezett értékemelkedés levonásával – a települési önkormányzatot terheli.
+(3) Ha az építmény, építményrész felújítása, átalakítása a településkép előnyösebb kialakítása szempontjából vagy településrendezési okokból vált szükségessé, ezek költségei, továbbá az építmény használatának az átalakítás miatt történt korlátozásából eredő károk megtérítése – a munkálatok elvégzése folytán bekövetkezett értékemelkedés levonásával – a települési önkormányzatot terheli.
 
 (4) Ha a településkép előnyösebb kialakítása céljából vagy településrendezési okokból az építmény, építményrész lebontása vált szükségessé, a tulajdonost a kisajátítási kártalanításra vonatkozó szabályok szerint kártalanítani kell.
 
@@ -1169,27 +1203,20 @@ Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény
 
 (4) A kultúráért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
 
+(5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
+
+(6) A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 11. § (2) bekezdés j) pontjában meghatározott eseteken túl a Magyar Építész Kamara, illetve a Magyar Mérnöki Kamara jogosult a Kamtv. 1. § (1) bekezdésében meghatározott körben, valamint az építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselők és kormánytisztviselők esetében a külön kormányrendeletben meghatározott módon a felsőfokú végzettséget igazoló oklevél szakirányú kredittartalmának a megállapítására, ha az oklevélből a külön kormányrendeletben meghatározott munkakört megalapozó képzettségi szint – a kormányrendelet alapján – nem állapítható meg.
+
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
 ### Nyilvántartások
 
-58. § (1) Az építésügyi hatóságok, települési jegyzők (főjegyzők), közművezetékek kezelői, közalapítványok, kamarák és más, jogszabályban erre felhatalmazott szervek az építésügy körébe tartozó közfeladatok ellátásához szükséges azon területi, társadalmi, környezeti, természeti és műszaki adatokról, amelyek a településrendezéshez és településtervezéshez, az építészeti-műszaki tervezési, és építésügyi műszaki szakértői tevékenységhez és az ezekhez esetenként kapcsolódó tevékenységekhez, az építésügyi és építésfelügyeleti hatósági tevékenységhez, szakmagyakorlási jogosultságok megállapításához és ellenőrzéséhez, az építési beruházások, építőipari kivitelezési tevékenységek megvalósításához feltétlenül szükségesek jogszabályban meghatározott hatósági nyilvántartásokat vezetnek, adatokat kezelnek.
+58. § (1) A szakmai kamarák adatfeldolgozóként vezetik az építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki szakértői, építésügyi igazgatási szakértői, beruházáslebonyolítói, energetikai tanúsítói, építési műszaki ellenőri, felelős műszaki vezetői jogosultsággal rendelkező természetes és jogi személyek egységes elektronikus névjegyzéki hatósági nyilvántartását.
 
-(2) Az (1) bekezdésben említett hatósági nyilvántartásnak minősül:
+(2) A Magyar Kereskedelmi és Iparkamara adatfeldolgozóként vezeti az építőipari kivitelezési tevékenységet folytatók elektronikus regisztrációjának hatósági nyilvántartását az alábbi személyesadat-tartalommal:
 
-- a) a települések közigazgatási területét ábrázoló földmérési alaptérképek (bel- és külterület ábrázolásával),
-- b) a helyi építési szabályzat és a településrendezési tervek nyilvántartása,
-- c) a telekalakítási engedélyek mellékletét képező tervek,
-- d) a belterületi közműnyilvántartás,
-- e) az építmény-nyilvántartás,
-- f) az átnézeti nyilvántartási térkép,
-- g) a külterületen lévő nyomvonalas és kapcsolódó létesítmények nyilvántartása,
-- h) építészeti-műszaki tervezői, településtervezői, településrendezési szakértői, építésügyi műszaki és igazgatási szakértői, beruházáslebonyolítói, energetikai tanúsítói, vállalkozó kivitelezői, műszaki ellenőri, felelős műszaki vezetői névjegyzék vezetése,
-- i) a lakásépítéssel, megszűnéssel kapcsolatos nyilvántartás,
-- j) a hatósági, építésfelügyeleti ellenőrzések jegyzőkönyveinek nyilvántartása,
-- k) az építésügyi és építésfelügyeleti hatósági eljárásokkal összefüggésben kiszabott bírságok nyilvántartása,
-- l) a bauxitcementtel épült építmények nyilvántartása,
-- m) az egyéb jogszabályban megjelölt, az (1) bekezdés körébe tartozó nyilvántartások.
+- a) építőipari kivitelező vállalkozó neve, címe, valamint jogi személy vagy jogi személyiség nélküli szervezet esetén a cég tulajdonosa vagy vezető tisztségviselője vagy képviseletére jogosult természetes személy neve, lakóhelye,
+- b) egyéni vállalkozó neve, egyéni vállalkozói nyilvántartási száma.
 
 (3) A kérelem benyújtásakor
 
@@ -1211,38 +1238,96 @@ folytatására engedélyt kérelmező személy,
 
 kérelmező személy,
 
-- c) tizenötezer forint igazgatási szolgáltatási díjat köteles fizetni az eljáró hatóság számlájára az a kérelmező személy, aki az a) pontban meghatározott valamelyik tevékenység mellett egyidejűleg az a) pontban meghatározott más tevékenység folytatására is engedélyt kér,
+- c) összesen negyvenezer forint igazgatási szolgáltatási díjat köteles fizetni az eljáró hatóság számlájára az a kérelmező személy, aki az a) pontban meghatározott valamelyik tevékenység mellett egyidejűleg az a) pontban meghatározott más tevékenység folytatására is engedélyt kér,
 - d) ötezer forint igazgatási szolgáltatási díjat köteles fizetni a névjegyzéket vezető szerv számlájára
   - da) a jogosultságának igazolását kérő személy,
   - db) az építőipari kivitelezői névjegyzékbe (elkülönített névjegyzékbe) vételét bejelentő egyéni vállalkozó vagy gazdasági társaság,
   - dc) a beruházáslebonyolítói tevékenység folytatására bejelentést tevő személy,
   - dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy. Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggésben keletkezett eljárások fellebbezésének igazgatási szolgáltatási díja harmincezer forint.
 
-(4) Az (1)–(2) bekezdésben említett nyilvántartások, továbbá az építésügyi, az építésfelügyeleti hatósági, illetve az egyéb építésügyi hatósági feladatot ellátó szervezetek hatósági eljárásaikhoz szükséges ügyiratok, valamint az építési napló az alábbi személyes adatokat tartalmazhatják:
-
-- a) családi és utónév, születési név, jogi személy esetén név és a jogosultsággal rendelkező tag (alkalmazott) e bekezdés szerinti adatai,
-- b) születési hely és idő, anyja neve,
-- c) lakcím, székhely,
-- d) személyi igazolvány száma, cégjegyzékszám,
-- e) iskolai végzettség, szakképesítés, szakvizsga, szakmai gyakorlat, szakmagyakorlási jogosultsági vizsga (megnevezése, szakirányúság, száma, kiállító szerv neve, kelte) adatai,
-- f) fegyelmi büntetések,
-- g) fizetési számlát vezető pénzforgalmi szolgáltató neve.
-- h)
+(4) Az (1) és (2) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 
 (5)
 
-(6) A (2) bekezdésben megnevezett nyilvántartásokban a személyes adatokat el kell különíteni. A személyes adatokat csak az erre jogszabályban felhatalmazottakkal, illetve az érintett hozzájárulásával rendelkezőkkel lehet közölni.
+(6) A miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet. A miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet.
 
-(7) A közbeszerzésről szóló törvény hatálya alá tartozó építőipari kivitelezési tevékenység, illetve külön jogszabályban meghatározott építőipari kivitelezési tevékenység megkezdésével összefüggésben az építtető a következő személyes adatok szolgáltatására köteles az építésfelügyeleti hatósághoz:
+(7) A Nyilvántartás adatai megismerhetők és hozzáférhetők a külön törvényekben foglaltak figyelembevételével.
 
-- a) az építtető neve (elnevezése), címe (székhelye),
-- b) az építési helyszín címe, helyrajzi száma,
-- c) a kivitelező (vállalkozó) neve (elnevezése), címe (székhelye), adóazonosító száma, kivitelezési jogosultságának (vállalkozói engedély, cégbírósági bejegyzés) külön jogszabály szerinti igazolása, továbbá
-- d) a felelős műszaki vezető és az építési műszaki ellenőr neve, címe (székhelye), jogosultságának igazolása.
+(8) Az építésügy különböző területein keletkezett – a (9)–(10) bekezdésben meghatározott – személyes adatok kezelésével a Nyilvántartás célja
 
-(8) Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzése jogszerűségének ellenőrzése céljából a (4) és (7) bekezdésben megjelölt adatokat a használatbavételi engedély jogerőre emelkedését követő 3 évig kezelheti, és azok – külön törvényben megállapított – körét az ott meghatározott hatóságoknak továbbíthatja.
+- a) az építésügy körébe tartozó szakmai közfeladat ellátásának elősegítése,
+- b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének ellenőrizhetősége,
+- c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
-59. § Az állami főépítész elektronikus nyilvántartást vezet az elfogadott helyi építési szabályzatról, településrendezési tervekről, az azokhoz az egyeztetési eljárás során beérkezett véleményekről és a beérkezett vélemények figyelembe nem vételének indokolásáról, továbbá a véleményezésben részt vett államigazgatási szerveknek a településrendezési eszköz elfogadását követő véleményéről, valamint szakmai vizsgálata megállapításairól.
+(9) Az építésügyért felelős állami vezető mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli:
+
+- a) építtető, kötelezett,
+- b) beruházáslebonyolító,
+- c) építési műszaki ellenőr,
+- d) építtetői fedezetkezelő,
+- e) építészeti-műszaki tervező,
+- f) településtervező,
+- g) településrendezési szakértő,
+- h) tervellenőr,
+- i) építésügyi igazgatási szakértő,
+- j) építésügyi műszaki szakértő,
+- k) vállalkozó kivitelező,
+- l) felelős műszaki vezető, valamint
+- m) energetikai tanúsító.
+
+(10) Az adatkezelő a (6) bekezdésben meghatározott kötelező adatkezelés során a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
+
+- a) természetes személyazonosító adatok,
+- b) lakcím, székhely,
+- c) adóazonosító jel, adószám,
+- d) jogi személy vagy jogi személyiség nélküli szervezet esetén a cég képviseletére jogosultak neve, adóazonosító jele, lakcíme,
+- e) a (9) bekezdés a) és d) pontja kivételével a szakképzettség megnevezése, okirati száma, szakmagyakorlási jogosultsági névjegyzéki száma,
+- f) elektronikus ügyintézés, kapcsolattartás esetén az elektronikus levélcím, telefonszám,
+- g) bírságok, szankciók, fegyelmi büntetések.
+
+59. § (1) Az adatkezelő – e törvényben és más jogszabályokban foglaltak szerint – gondoskodik a jogszerű adatkezelés feltételeiről, a személyes adatok elkülönített kezeléséről, továbbá a Nyilvántartás adataihoz való hozzáférés korlátozásával az illetéktelen adatfelhasználás megelőzéséről.
+
+(2) A Nyilvántartás adatállományában rögzített, az 58. § (9) és (10) bekezdése szerinti személyes adatokat
+
+- a) az adatkezelő, az adatfeldolgozó, és az érintettek a saját személyes adataikat korlátozás nélkül,
+- b) a jogszabályban meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
+- c) a települési önkormányzat, az állami főépítész, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+- d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
+
+(3) A miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
+
+- a) a településfejlesztési, -rendezési és építésügyi dokumentációk országos központi tervtárának működtetéséről, fenntartásáról, fejlesztéséről, valamint a dokumentációk megőrzéséről és közérdekű hasznosításáról,
+- b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről,
+- c) a nyilvánosság, a közösségi ellenőrzés, a tájékoztatási, véleménynyilvánítási és javaslattételi lehetőség biztosítására vonatkozó, a 3. § (2) bekezdésében meghatározott, továbbá információs feladatai teljesítéséről az országos illetékességű – a személyes adatok kezelése tekintetében adatfeldolgozóként kijelölt – Dokumentációs Központ útján gondoskodik.
+
+(4) A Dokumentációs Központ, valamint a Nyilvántartás elektronikus úton kapcsolódik az alábbi nyilvántartásokhoz, és ezúton biztosítja a kormányrendeletben meghatározott nem személyes és e törvényben meghatározott személyesadat-tartalom lekérdezését az alábbiak szerint:
+
+- a) az ingatlan-nyilvántartási rendszerből az építésügyi és építésfelügyeleti hatóság számára az ingatlan-nyilvántartásra vonatkozó jogszabályok szerint, a tényállás tisztázásához szükséges, általuk megjelölt – eljárás alá vont ingatlanokhoz kapcsolódó – személyek 58. § (10) bekezdés a) és b) pontja szerinti személyes adatait,
+- b) az országos elektronikus közhiteles személyiadat- és lakcímnyilvántartásból az ügyfél 58. § (10) bekezdés a) és b) pontja szerinti személyes adatait,
+- c) a szakmai kamarák nyilvántartásaiból a szakmagyakorló 58. § (10) bekezdése szerinti személyes adatait,
+- d) a Magyar Kereskedelmi és Iparkamara nyilvántartásából az építőipari kivitelező 58. § (2) bekezdése szerinti személyes adatait,
+- e) a levéltárakból az elektronikusan elérhető építésügyi tárgyú dokumentumok személyes adatait, valamint
+- f) a cégnyilvántartás személyes adatait.
+
+(5) Az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott dokumentáció- és adatbeszerzés céljából a Dokumentációs Központ – a (4) bekezdés szerinti szervekkel, az általuk működtetett rendszer szolgáltatásainak a Dokumentációs Központ saját informatikai eszközeivel történő igénybevételére – szolgáltatási szerződést köt.
+
+(6) A Nyilvántartás adatállományában rögzített személyes adatok – a (7) bekezdésben foglalt eltérésekkel – csak az 58. § (8) bekezdésében meghatározott közérdekű cél érdekében szükséges ideig, de legfeljebb 10 évig kezelhetőek.
+
+(7) A Nyilvántartásban
+
+- a) határidő nélkül nyilvántarthatóak és nem törölhetőek a személyes adatok az archiválandó dokumentumok esetében; ilyenek különösen:
+  - aa) tervdokumentációk esetében a tervező és az építtető adatai,
+  - ab) szakértői vélemények esetében a szakértő és a megbízó adatai,
+  - ac) építési napló és mellékleteiben rögzítetten az adott építési folyamatban részt vevők adatai,
+  - ad) engedélyek esetében a döntésben jogszabály alapján kötelező elemként szereplő adatok,
+  - ae) az energetikai tanúsítvány esetében a tanúsító adatai,
+- b) az 52. § (7) bekezdése szerinti személyes adatok, ellenőrzési jegyzőkönyvek és hatósági döntések
+  - ba) az 52. § (1) bekezdésének a) és e) pontjában, valamint az 52. § (2) bekezdésének a) és e) pontjában foglalt esetekben a rögzítéstől számított 1 évig,
+  - bb) az 52. § (1) bekezdésének b)–d) pontjában, valamint az 52. § (2) bekezdésének b)–d) és f) pontjában foglalt esetekben a rögzítéstől számított 5 évig kezelhetők.
+
+(8) A Nyilvántartásból az adatszolgáltatás teljesítését követően haladéktalanul törölni kell az igénybevevőnek az igénybevétellel összefüggésben kezelt adatait. A (6) és (7) bekezdésben meghatározott határidőt követően a nyilvántartásból törölni kell az adatokat a bejegyzés alapjául szolgáló dokumentummal együtt, függetlenül az adatrögzítő szervtől, személytől.
+
+(9) A dokumentáció- és adatbeszerzés céljából megkeresett levéltárak és egyéb szervezetek a kért dokumentációkat, adatokat kormányrendeletben meghatározottak szerint szolgáltatják a Dokumentációs Központ számára.
 
 ### A törvény hatálybalépése és átmeneti rendelkezések
 
@@ -1263,15 +1348,29 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 terjedő közigazgatási bírsággal sújtja.
 
-(5)
+(5) 2013. január 1-től az elsőfokú építésügyi hatósági feladat- és hatáskör önkormányzati társulás útján nem látható el.
 
-(6)
+(6) E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított 53/A. §-át a nukleáris építmények tekintetében a 2015. január 1-jét követően indult eljárásokban kell alkalmazni.
 
-(7)
+(7) A főváros településszerkezeti tervét és a főváros rendezési szabályzatát 2014. június 30-ig el kell fogadni.
 
-(8)
+(8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
-(9)–(10)
+(9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
+
+- a) e törvény 2012. december 31-én, és
+- b) az országos településrendezési és építési követelményekről szóló kormányrendelet 2012. augusztus 6-án
+
+hatályban lévő, településrendezési eszközre vonatkozó előírásai.
+
+(10) A fővárosi kerületi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervben meghatározott keretövezet figyelembevétele helyett a fővárosi településszerkezeti terv területfelhasználásának megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapíthat meg a fővárosi szabályozási keretterv módosítása nélkül a fővárosi önkormányzat hozzájárulásával.
+
+(11) A fővárosi önkormányzat a kerületi önkormányzat (10) bekezdés szerinti módosítással kapcsolatos
+
+- a) hozzájárulását nem adja meg, indokolni köteles,
+- b) hozzájárulás kérdésében 60 napon belül nem határoz, a hozzájárulást megadottnak kell tekinteni.
+
+(12) Amennyiben a keretövezet változtatása szükséges, és a (10) bekezdésben foglalt eset nem áll fenn, a fővárosi önkormányzat 2014. június 30-ig a fővárosi szabályozási kerettervet módosíthatja.
 
 61. § (1) Ahol jogszabály
 
@@ -1283,32 +1382,36 @@ terjedő közigazgatási bírsággal sújtja.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-- a) az építésügyi hatóság vagy hatóságok, az építésfelügyeleti hatóság vagy hatóságok kijelölését, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselők foglalkoztatási feltételeit, valamint az építésügyi és az építésfelügyeleti hatósági munka ellátásának minimális technikai feltételeit,
-- b) az állami és az önkormányzati (megyei, illetve települési) főépítészi tevékenység ellátásának részletes szakmai szabályait, valamint személyi és tárgyi feltételeit,
-- c) az építésügyi hatósági és építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselő, az állami főépítész, a térségi főépítész, valamint az önkormányzati főépítész végzettségét és szakmai gyakorlatát,
-- d) az építésügyi bírság kiszabásának és nyilvántartásának részletes szabályait,
-- e) az építésügyi vizsga tartalmát, követelményeit és eljárási szabályait,
-- f) a településtervezési, a településrendezési szakértői, az építészeti-műszaki tervezési, az építésügyi műszaki szakértői, az építésügyi igazgatási szakértői, a tervellenőri, az építési műszaki ellenőri és a felelős műszaki vezetői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a tevékenységet folytatók névjegyzékét vezető szerv kijelölését, a névjegyzék személyes adatot nem tartalmazó adattartalmát, valamint a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- g) a településrendezéssel, a telekalakítással és az építményekkel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét, a tervezési program tartalmi követelményeit, továbbá az építmények kialakítására vonatkozó élet- és vagyonvédelmi, valamint katasztrófavédelmi követelmények részletes szakmai szabályait,
-- h) a beruházáslebonyolítói és az energetikai tanúsítói tevékenység folytatásának részletes feltételeit, az e tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, a névjegyzéket vezető szerv kijelölését, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
-- i) az építésügy körébe tartozó tevékenységek ellátásához szükséges nyilvántartások, adatszolgáltatások (adatbázisok és információs rendszerek) létesítésének és működésének feltételeit,
-- j) a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő kivételes építési követelményeket, engedélyezési és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
-- k) az építmények energiafelhasználásának minőségtanúsítására és annak díjazására,
-- l) a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan az építésügyi és építésfelügyeleti hatóságok kijelölését, az építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselők szakirányú felsőfokú végzettségét és szakmai gyakorlatát, valamint az építésügyi hatósági engedélyezési és kötelezési eljárások, az építésügyi hatósági ellenőrzés és az építésfelügyeleti tevékenység részletes szakmai szabályait, a hatósági határozatok és végzések, illetve az építészeti-műszaki tervek részletes tartalmi követelményeit, továbbá az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait,
-- m) az építészeti-műszaki tervpályázati eljárás kötelező eseteit és részletes szabályait,
-- n) a felsőoktatási szakokon szerzett szakképesítésekről szóló kormányrendeletben meghatározottak vonatkozásában a szabályozott építésügyi szakmák tekintetében a szakképesítések és szakképzettségek elismerésének részletes eljárási szabályait,
-- o) az építőipari kivitelezési tevékenység gyakorlásának, az építőipari kivitelezési tevékenység résztvevői feladatának, felelősségének, az építési napló vezetésének, az építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentésnek, a bejelentés elbírálásának, az építésfelügyeleti tevékenység végzésének és az építésfelügyeleti bírság kiszabásának és nyilvántartásának szabályait, továbbá az ajánlati, valamint a kivitelezési tervdokumentáció tartalmi követelményeit, a kivitelezési tervdokumentáció ellenőrzésének módját, továbbá az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, működésük személyi és tárgyi feltételeit, az építtetői fedezetkezelés résztvevői jogait és kötelezettségeit, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait,
-- p) a településtervezők, az építészeti-műszaki tervezők, az építésügyi műszaki szakértők, a tervellenőrök, az építési műszaki ellenőrök, a felelős műszaki vezetők és az építésügyi, építésfelügyeleti hatósági ügyintézők, az építésügyi igazgatási szakértők, beruházáslebonyolítók, az energetikai tanúsítók szakmai továbbképzésének részletes szabályait,
-- q) a településrendezési, az építészeti-műszaki tervtanácsok összetételére, a tervtanácsok elnökére, titkárára, a tagokra és a bírálóra, továbbá e személyek összeférhetetlenségére és finanszírozására vonatkozó szabályokat, a településrendezési és az építészeti-műszaki tervtanácsok feladatköri és működési területére vonatkozó szabályokat, a tervtanácshoz benyújtandó tervdokumentumok körét, a tervtanácsi eljárás rendjét, a tervtanácsi jegyzőkönyv és a tervtanácsi vélemény tartalmi követelményeit, a tervdokumentáció minősítésének szempontjait, valamint az építészeti minőség és értékvédelem követelményeire vonatkozó szabályokat,
-- r) az építőipari kivitelezési tevékenység résztvevőire vonatkozó vállalkozási szerződés kötelező tartalmi elemeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat,
-- s) az egyes építésügyi hatósági eljárási szabályokat, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítésére, a döntés meghozatalára, végrehajtására vonatkozó szabályokat, az építésügyi hatósági engedélyezési és kötelezési eljárások lefolytatásának részletes szabályait, az építésügyi és az építésfelügyeleti hatósági határozatok és végzések részletes tartalmi követelményeit, valamint az építési beruházások megvalósításához szükséges eljárások integrált intézéséhez a közreműködő hatóságok kijelölését és feladatait, az integrált eljárásban a hatóságok együttműködésének közös és különös szabályait, továbbá az integrált eljárás kötelezően alkalmazandó esetköreit, az építésügyi hatósági ellenőrzés részletes szakmai szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bírósági felülvizsgálat céljából történő továbbításának szabályait,
-- t) az építési célra szolgáló anyagok, szerkezetek és berendezések műszaki követelményeinek és megfelelőségigazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályait,
-- u) az építőipari kivitelezési folyamatok költségtervezési tevékenységének, becsült és tételes árképzésének, ezen belül a rezsióradíj, a többlet- és pótmunka műszaki tartalmi meghatározásának és elszámolási módjának feltételeit és részletes szabályait,
-- v) a tervezési és szakértői szerződés kötelező tartalmi elemeit,
-- w) a tervezés elősegítése érdekében, vagy az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez tény, állapot, egyéb adat helyszíni szemle alapján hatósági bizonyítvánnyal történő igazolásáért, az összevont eljárásért és az integrált eljárásért az igazgatási szolgáltatási díj mértékét, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére és megosztására vonatkozó szabályokat,
-- x) a vállalkozói kivitelezői tevékenység folytatásának részletes feltételeit, az e tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- y) a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmi követelményeit, időtávjait, munkarészeit, készítésének, egyeztetésének és felülvizsgálatának szabályait, valamint az önkormányzati településfejlesztési döntéseket megalapozó más dokumentumokhoz való viszonyát,
-- z) a településfejlesztési terv tartalmi követelményeire vonatkozó részletes szabályokat
+- 1. az építésügyi és építésfelügyeleti 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők foglalkoztatási feltételeit, 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat, 1.4. hatósági feladatellátás minimális technikai feltételeit, 1.5. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését,
+- 2. az állami és az önkormányzati főépítészi 2.1. tevékenység ellátásának részletes szakmai szabályait, 2.2. tevékenység foglalkoztatási feltételeit, 2.3. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését, 2.4. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
+- 3. az építésügyi és építésfelügyeleti hatóság, a szakmai kamarák és a Magyar Kereskedelmi és Iparkamara által az építési folyamat résztvevői tevékenységére vonatkozó szabályok be nem tartása esetén kiszabható bírság mértékét és a szabálytalan tevékenység jogkövetkezménye megállapításának részletes szabályait,
+- 4. a településtervezési, a településrendezési szakértői, az építészeti-műszaki tervezési, az építésügyi műszaki szakértői, az építésügyi igazgatási szakértői, az építési műszaki ellenőri és a felelős műszaki vezetői 4.1. tevékenység folytatásának részletes feltételeit, 4.2. tevékenységre vonatkozó szerződések tartalmi követelményeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat, 4.3. tevékenység megkezdésére és folytatására jogosító engedély kiadásának rendjét, 4.4. tevékenységet folytatók névjegyzékét vezető szerv kijelölését, a névjegyzék személyes adatot nem tartalmazó adattartalmát, valamint a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, 4.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
+- 5. a településrendezéssel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét,
+- 6. az építményekkel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét, a tervezési program tartalmi követelményeit és azok részletes szakmai szabályait,
+- 7. a beruházáslebonyolítói és az energetikai tanúsítói 7.1. tevékenység folytatásának részletes feltételeit, 7.2. tevékenységre vonatkozó szerződések tartalmi követelményeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat, 7.3 névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, a névjegyzéket vezető szerv kijelölését, 7.4. tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, 7.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
+- 8. a Dokumentációs Központ működésére vonatkozó részletes szabályokat, a Dokumentációs Központ részére átadandó dokumentációk és adatok körét,
+- 9. a Nyilvántartás működésének feltételeit, az adatszolgáltatás, az elektronikus ügyintézés rendjét, valamint az adatkezelésben részt vevők feladatait és felelősségét,
+- 10. a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával, építmények, építményszerkezetek veszélyes állapotának megszüntetésével, megelőzésével összefüggő kivételes építési követelményeket, engedélyezési, tudomásulvételi és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
+- 11. az építmények energiahatékonyságának tanúsítását, a tanúsítványok nyilvántartásba vételét és annak szolgáltatási díját, a tanúsítványok minőségellenőrzését, minőségellenőrző szervezet kijelölését,
+- 12. a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan 12.1. az építésügyi és építésfelügyeleti hatóságok kijelölését, 12.2. az építésfelügyeleti tevékenység részletes szakmai szabályait, 12.3. az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó személyek szakirányú felsőfokú végzettségét és szakmai gyakorlatát, 12.4. az építésügyi hatósági engedélyezési és kötelezési eljárások, valamint az építésügyi hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések, valamint az építészeti-műszaki tervek részletes tartalmi követelményeit, továbbá 12.5. az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait,
+- 13. az építőipari kivitelezési tevékenység folytatásával összefüggő 13.1. előírások és feltételek, 13.2. építési folyamat résztvevői feladatának, felelősségének, 13.3. építési szerződés részletes tartalmi követelményeinek meghatározását, 13.4. építési napló formájának, tartalmának, megnyitásának és vezetésének részletes szabályait, 13.5. építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentésnek és a bejelentés elbírálásának szabályait,
+- 14. az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, működésük személyi és tárgyi feltételeit, az építtetői fedezetkezelés résztvevői jogait és kötelezettségeit, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait,
+- 15. az építőipari kivitelezési folyamat költségtervezési tevékenységének, becsült és tételes árképzésének, ezen belül a rezsióradíj, a többletmunka, pótmunka műszaki tartalmi meghatározásának és elszámolási módjának feltételeit és részletes szabályait,
+- 16. a településrendezési és építészeti-műszaki tervtanácsok 16.1. összetételére, elnökére, a tagokra és a bírálóra, továbbá e személyek összeférhetetlenségére és finanszírozására vonatkozó szabályokat, 16.2. feladatköri és működési területére vonatkozó szabályokat, 16.3. ülésére benyújtandó tervdokumentumok körét, 16.4. eljárási rendjét, a tervtanácsi jegyzőkönyv és a tervtanácsi vélemény tartalmi követelményeit,
+- 17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bírósági felülvizsgálat céljából történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
+- 18. az építési beruházások megvalósításához szükséges eljárások integrált intézéséhez a közreműködő hatóságok kijelölését és feladatait, az integrált eljárásban a hatóságok együttműködésének közös és különös szabályait, továbbá az integrált eljárás kötelezően alkalmazandó esetköreit,
+- 19. az építészeti-műszaki dokumentációk tartalmi követelményeit, ellenőrzésének módját és eseteit,
+- 20. az építési termékek teljesítményigazolásának, építménybe történő betervezésének és beépítésének részletes szabályait,
+- 21. a vállalkozó kivitelezői tevékenység 21.1. körét, 21.2. bejelentésére és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, 21.3. folytatásának részletes feltételeit, valamint 21.4. bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát,
+- 22. a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
+- 23. a településszerkezeti terv és a helyi építési szabályzat tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
+- 24. a településképi véleményezési és a településképi bejelentési eljárásra, a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
+- 25. az összevont telepítési eljárás szabályait,
+- 26. a 6. § (2) bekezdése szerinti határidőt,
+- 27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá országos jelentőségű kulturális és sport rendeltetésű épületek telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan a beépítés szabályait,
+- 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
+- 29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint – a (4) bekezdésben foglaltak kivételével – az illetékességi területük lehatárolását,
+- 30. az egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat ellátó települési önkormányzatok körét, a feladatellátás feltételeit, illetékességi területük lehatárolását, a tevékenységet ellátók képesítési és foglalkoztatási feltételeit
 
 rendelettel állapítsa meg.
 
@@ -1322,32 +1425,37 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 
-- a) a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
-- b) az építészeti-műszaki dokumentációk tartalmi követelményeit,
-- c) a környezetvédelemért felelős miniszterrel és a gyermek- és ifjúságpolitikáért felelős miniszterrel az egyes nem üzleti célú közösségi, szabadidős szálláshelyek létesítésével és üzemeltetésével kapcsolatos építésügyi, táj- és természetvédelmi feltételeket,
-- d) az 5. § (3) bekezdés szerinti építésügyi konzultatív, javaslattevő és véleményező szakmai testület összetételére, feladataira, eljárásaira, működésére vonatkozó részletes szabályokat,
-- e)
-- f)–g)
-- h) a 31. § (2) bekezdés c)–h) pontjaiban meghatározott alapvető követelmények teljesítését biztosító nemzeti szabványok, műszaki specifikációk, valamint az azokkal egyenértékű műszaki megoldások alkalmazásának és engedélyezésének módját,
-- i) az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét, valamint a kihirdetett veszélyhelyzetet követő tömeges építménykárok helyreállításának engedélyezésére vonatkozó eljárási rendet,
-- j)
-- k)
-- l) a helyi építészeti örökség védelmének szakmai szabályait,
-- m) a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
-- n)–o)
-- p)
-- q) a településszerkezeti tervek, a helyi építési szabályzatok és a szabályozási tervek tartalmi követelményeire vonatkozó részletes szabályokat – az érdekelt miniszterekkel egyetértésben –,
-- r)
-- s) az igazgatási eljárásokban alkalmazandó telekár számításának szabályait,
-- t) a miniszter által adományozandó szakmai díjak átadásának és a díjakkal járó jutalom összege meghatározásának részletes szabályait.
+- 1. a telekalakítás, a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
+- 2. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
+- 3. a helyi építészeti örökség védelmének szakmai szabályait,
+- 4. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
+- 5. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait rendelettel állapítsa meg.
 
-(3) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével, az építésfelügyeleti ellenőrzési feladatokat ellátó hatóságok kérelemre indult eljárásokkal kapcsolatos igazgatási szolgáltatási díjakat.
+(3) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
 
-(4) A sajátos építményfajtákra, valamint a műemlékvédelem alatt álló építményekre vonatkozóan a (2) bekezdésben foglalt szabályozási feladatokat – e törvényben foglaltakkal összhangban és a miniszterrel egyetértésben – az építményfajta szerint illetékes miniszter gyakorolja.
+- 1. a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+- 2. az építésügyi hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
+- 3. az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető igazgatási szolgáltatási díj mértékét, annak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
 
-(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendelettel állapítsa meg.
+(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárás lefolytatására hatáskörrel rendelkező ingatlanügyi hatóságok illetékességi területét önállóan, valamint a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
-(6) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjakat.
+(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat) arra, hogy rendeletben állapítsa meg
+
+- 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárási szabályairól, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
+- 2. a településkép védelme érdekében a reklámok, reklámberendezések és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló szabályokat,
+- 3. azon – jogszabályban építésügyi hatósági engedélyhez nem kötött – építési tevékenységek, rendeltetésváltoztatások és reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti, valamint a településképi bejelentési eljárás részletes szabályait,
+- 4. a helyi építészeti-műszaki tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat,
+- 5.
+- 6. a helyi építési szabályzatát,
+- 7. a településképi kötelezési és a településképi véleményezési eljárás részletes szabályait, a településképi kötelezettség megszegése és végrehajtása esetén alkalmazható bírság esetköreit és mértékét.
+
+(7) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg
+
+- 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárásáról, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
+- 2.
+- 3. a fővárosi rendezési szabályzatát.
 
 (8) Felhatalmazást kap
 
@@ -1356,4 +1464,4 @@ rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 
-63. § Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének, az Európai Parlament és a Tanács a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv (2006. december 12.) 9. és 16. cikkének való megfelelést szolgálja.
+63. § Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének, az Európai Parlament és a Tanács a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv (2006. december 12.) 9. és 16. cikkének való megfelelést szolgálja, továbbá az épületek energiahatékonyságáról szóló 2010/31/EU irányelv 2. cikk 12. pontjával, 18. és 27. cikkével összeegyeztethető szabályozást tartalmaz.

@@ -168,19 +168,19 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (4) Az engedélyben foglalt időtartam lejárta, az engedélyezett szerencsejáték lebonyolítása, valamint az engedély visszavonása esetén a biztosíték a szerencsejáték szervezőnek visszajár.
 
-11. § (1) A szerencsejáték szervezésének engedélyezéséért, ellenőrzéséért, az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
+11. § (1) A szerencsejáték szervezésének engedélyezéséért és az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
 
 (1a)
 
 (2) A szerencsejáték-szervező tevékenységre jogosító engedély iránti, a játékterv felülvizsgálatára, továbbá a játékterv módosítására irányuló kérelem benyújtásával egyidejűleg – külön felhívás nélkül – kell az igazgatási-szolgáltatási díjat készpénz-átutalási megbízással vagy átutalással megfizetni.
 
-(3) A szerencsejátékot és ajándéksorsolást szervező működésének felügyeleti ellenőrzéséért folyamatos sorsolásos játék és totalizatőri rendszerű fogadás, bukmékeri rendszerű fogadás, játékkaszinó üzemeltetése esetén negyedévenként a tárgynegyedévet követő hó 15. napjáig, nem folyamatos sorsolásos játék és nem folyamatos fogadás, valamint ajándéksorsolás esetén pedig a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül kell a díjat megfizetni.
+(3)
 
 (4) A szerencsejáték szervezésére kiírt koncessziós pályázaton való részvételért fizetendő díjat a koncessziós pályázat benyújtásával egyidejűleg kell megfizetni.
 
 (5)
 
-(6) A szolgáltatások igénybevételéért fizetendő díjak körét és mértékét, megfizetésének rendjével kapcsolatos szabályokat az e törvény végrehajtására a miniszter által kiadott rendelet állapítja meg.
+(6)
 
 (7) Az állami adóhatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
 
@@ -199,7 +199,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (3) A bírság
 
-- a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 11. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe,
+- a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe, 36/C–E. §-ba,
 - b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet, valamint a helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver, működtetésének részletes személyi, pénzügyi műszaki és informatikai feltételeit meghatározó rendelet rendelkezéseibe.
 - c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (5a) vagy (5b) bekezdéseibe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 - d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C. § (1)–(7), (9) bekezdésébe és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
@@ -399,12 +399,12 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (4) Az állami adóhatóság az engedélyben meghatározza a játékkaszinó kategóriáját, helyét, működési, látogatási feltételeit, az egyes játékfajtákat, azok szabályait, az egyes játékoknál alkalmazható legmagasabb téteket, a tétek és a nyeremények arányát, valamint minden tényt, körülményt vagy feltételt, amely a játékkaszinó biztonságos üzemeltetéséhez szükséges.
 
-(5) A koncessziós díj egységenként
+(5) A tárgyévi koncessziós díj jogszabályi minimumát a tárgyévre vonatkozó központi költségvetésről szóló törvény határozza meg
 
-- a) Budapesten és Pest megyében I. kategóriájú játékkaszinó esetében évente legalább 600 millió forint, II. kategóriájú játékkaszinó esetében évente legalább 350 millió forint,
-- b) az a) pontban foglalt kivétellel I. kategóriájú játékkaszinó esetében évente legalább 500 millió forint, II. kategóriájú játékkaszinó esetében évente legalább 50 millió forint.
+- a) a 2013. tárgyév esetén az e törvény 2012. január 1. napján hatályos 27. § (5) bekezdésében,
+- b) ezt követően pedig a tárgyévet megelőző évre a központi költségvetésről szóló törvényben meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe vételével. A koncessziós szerződésben a felek a jogszabályi minimumot meghaladó mértékű koncessziós díjban megállapodhatnak.
 
-(6) Az (5) bekezdés a)–b) pontjaiban meghatározott koncessziós díjat évente valorizálni kell. A koncessziót a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani és megfizetni a tárgyév február hó 15-éig. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
+(6) A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente valorizálni kell oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani. A koncessziós díjat a tárgyév február hó 15-éig kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
 
 (7) A koncesszió időtartama I. kategóriájú játékkaszinó esetében legfeljebb 20 év, II. kategóriájú játékkaszinó esetében legfeljebb 10 év.
 
@@ -576,27 +576,9 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### Játékkaszinó játékadója
 
-35. § (1) A játékkaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – ha az adóévben elért tiszta játékbevétel összege:
-
-0–5 milliárd forint 30 százalék,
-
-5 milliárd 1 forint–10 milliárd forint
-
-1 milliárd 500 millió forint
-
-és az 5 milliárd forinton felüli rész 25 százaléka,
-
-10 milliárd 1 forinttól
-
-2 milliárd 750 millió forint
-
-és a 10 milliárd forinton felüli rész 10 százaléka.
+35. § (1) A játékkaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – a havi tiszta játékbevétel 30%-a.
 
 (2) A tiszta játékbevételt növeli a tárgyhóban elfogadott borravaló 50%-a.
-
-(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét.
-
-(4) A szerencsejáték-szervező a (3) bekezdés szerint megállapított adót a tárgyhónapot követő hónap 20-áig vallja be és fizeti meg.
 
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
@@ -622,12 +604,79 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 36/B. § Az állami adóhatóság felé bármilyen jogcímen teljesített 1 ezer forint alatti túlfizetést az állami adóhatóság nem utalja vissza.
 
+### A szerencsejáték felügyeleti díj
+
+36/C. § (1) Az állami adóhatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
+
+(2) A kötelezett
+
+- a) a folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a negyedévi nyereményalap 2 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
+- b) a nem folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a nyereményalap 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
+- c) ajándéksorsolás esetén a kisorsolásra kerülő nyeremények forgalmi értékének 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
+- d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
+- e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint,
+- f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
+- g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint
+
+felügyeleti díjat fizet.
+
+(3) Ha a játékautomata nyilvántartásba vétele a féléves időtartamot nem éri el, a kötelezett az (1) bekezdés g) pontja szerinti felügyeleti díj arányos részét köteles megfizetni.
+
+36/D. § (1) A felügyeleti díjat a kötelezett
+
+- a) a 36/C. § (2) bekezdés a) és d)–f) pontjaiban foglalt esetekben negyedévente, a kötelezettet terhelő időszaki, időközi, folyamatos elszámolással egyidejűleg, de legkésőbb a tárgynegyedévet követő hónap utolsó napjáig,
+- b) a 36/C. § (2) bekezdés b) és c) pontjaiban foglalt esetekben a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül,
+- c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg
+
+fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
+
+(2) A felügyeleti díj megfizetése a nyilatkozattételi kötelezettség teljesítését nem pótolja.
+
+(3) A díjfizetési kötelezettséget átutalással vagy fizetési számlára történő készpénzbefizetéssel, a nyilatkozattételi kötelezettséget az állami adóhatóság által rendszeresített formanyomtatványon kell teljesíteni.
+
+(4) A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását a kötelezett az állami adóhatósághoz előterjesztett kérelemben kezdeményezheti.
+
+(5) A felügyeleti díj számítása, megfizetése, nyilvántartása és elszámolása 1000 forintban történik. A felügyeleti díj 1000 forintra kerekített összegét az általános kerekítési szabályok alkalmazásával kell meghatározni.
+
+36/E. § (1) Az állami adóhatóság a nyilatkozattételi vagy díjfizetési kötelezettség elmulasztása esetén a felügyeleti díjat határozattal állapítja meg és annak megfizetésére kötelez.
+
+(2) A felügyeleti díj késedelmes teljesítése esetén késedelmi pótlékot kell fizetni. A késedelmi pótlékot az állami adóhatóság határozattal állapítja meg a felügyeleti díjfizetés esedékességének napjától a teljesítés napjáig tartó időtartamra. A késedelmi pótlék alapja az esedékességkor nem teljesített felügyeleti ellenőrzési díj, mértéke naptári naponként az esedékesség napján érvényes jegybanki alapkamat kétszeresének 365-öd része.
+
+(3) Ha a kötelezett az előírtnál nagyobb összegű felügyeleti díjat fizetett be az állami adóhatósághoz (túlfizetés), az állami adóhatóság a túlfizetés összegét a kötelezett kérelmére a kötelezett más felügyeleti díjfizetési kötelezettségére számolja el, vagy kérelemre visszatéríti.
+
+### Elkobzás
+
+36/F. § (1) Az állami adóhatóság elkobozza azt a dolgot
+
+- a) amelyet engedély nélküli szerencsejáték szervezés eszközéül használtak,
+- b) amelyet az engedély nélkül szervezett szerencsejátékban való részvételhez használtak fel (tét),
+- c) amely az engedély nélkül szervezett szerencsejátékban nyereményt képezett.
+
+(2) Az (1) bekezdés alkalmazásában dolognak minősül a birtokba vehető ingó dolog, valamint a pénz és az értékpapír.
+
+(3) Az állami adóhatóság lefoglalhatja azt a dolgot, amely e törvény értelmében elkobozható. A lefoglalást végzéssel meg kell szüntetni, ha a tiltott szerencsejáték szervezéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a büntetőügyben eljáró hatóság az állami adóhatóságot megkereste.
+
+(4) Az állami adóhatóság az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona. Ha az elkobzott dolog tulajdonosa nem ismert, az elkobzást elrendelő döntést – a tulajdonos megjelölése nélkül – az állami adóhatóság hirdetményi úton közli. A hirdetményt 15 napig kell az állami adóhatóság honlapján közzétenni. Az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene. Az elkobzott dolog tulajdonjoga az államra száll.
+
+(5) Ha az elkobzott dolog értékesítését vagy megsemmisítését követően az állami adóhatóság vagy a bíróság megállapítja, hogy az elkobzás elrendelése jogszabálysértő volt, az állami adóhatóság az elkobzott dolog tulajdonosa részére visszafizetés elrendeléséről intézkedik. A visszafizetés keretében
+
+- a) tőkeösszegként értékesítés esetén az értékesítés során ténylegesen befolyt ellenértéket, megsemmisítés esetén a dolog elkobzását elrendelő határozat meghozatalakor fennálló értéket és
+- b) késedelmi kamatként az a) pont szerinti összeg után az elkobzást elrendelő határozat jogerőre emelkedésétől a visszatérítést elrendelő határozat meghozatala napjáig terjedő időszakra, naptári naponként ez utóbbi határozat meghozatala napján érvényes jegybanki alapkamat kétszerese 365-öd részének megfelelő összeget kell visszatéríteni.
+
+(6) Az elkobzott dolgot az állami adóhatóság az adózás rendjéről szóló törvény végrehajtási eljárásról szóló 144–163. §-ai értékesítésre vonatkozó szabályainak megfelelő alkalmazásával értékesíti. A lefoglalást elrendelő rendelkezéssel (döntéssel) szemben benyújtott keresetlevélnek a határozat végrehajtására nincs halasztó hatálya.
+
+(7) Ha az elkobzott dolgot nem sikerült értékesíteni vagy az értéktelen, az állami adóhatóság – jegyzőkönyv felvétele mellett – intézkedik az elkobzott dolog megsemmisítése érdekében.
+
+(8) Az állami adóhatóság az elkobzott dolog értékesítését vagy megsemmisítését követően az értékesítés vagy megsemmisítés költségeiről végzést hoz. A kötelezett az értékesítésért vagy megsemmisítésért 20 000 forint összegű költségátalány fizetésére köteles. E költségátalányon túlmenően az állami adóhatóság végzésben kötelezi az értékesítéshez vagy megsemmisítéshez kapcsolódó számszerűsíthető és számlával igazolt költségek megfizetésére a kötelezettet.
+
+(9) Az állami adóhatóság az (5) bekezdés szerinti esetben végzésben rendeli el a (8) bekezdés szerinti költségek visszatérítését.
+
 ### V. Fejezet — Értelmező rendelkezések
 
 37. §
 
 - 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
-- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2. Tárgynegyedévi tiszta játékbevétel: a tárgynegyedévben befizetett tétek és a kifizetett nyeremények különbözete.
+- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
 - 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 - 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 - 5. Közérdekű cél: a szerencsejáték szervező tevékenységi körét meghaladó, saját, vagy alkalmazottai érdekein túli, közösségi érdekeket szolgáló cél. A közösségi érdek meghatározásához a közérdekű célként meghatározott tevékenység felügyeletét ellátó szerv egyetértése szükséges. Lóversenyfogadás esetében közérdekű célnak minősül a versenyló tenyésztés is.
@@ -668,7 +717,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával,
-- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival, kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
+- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+- j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 
 (3)
 
@@ -689,6 +739,12 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
 
 (6)
+
+(7) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 35. §-át az e § hatálybalépése napját követő tárgyhónapra kell első alkalommal alkalmazni.
+
+(8) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 36/C–36/E. §-át a 2012. december 31. napját követően keletkező szerencsejáték felügyeleti díjfizetési kötelezettséggel kapcsolatban kell alkalmazni.
+
+(9) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 36/F. §-át a 2012. december 31. napját követően indult eljárásokban kell alkalmazni.
 
 40/A. § (1) Az e törvény alapján a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosításáról szóló 2012. évi CXLIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően kiállított játékterem-engedélyek, valamint a pénznyerőautomata üzemeltetésére jogosító engedélyek a Módtv. hatálybalépését követő napon hatályukat vesztik. Az engedélyeket a szerencsejáték szervező a Módtv. hatálybalépését követő 15 napon belül köteles leadni az állami adóhatóságnak. E törvénynek a Módtv.-nyel megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 

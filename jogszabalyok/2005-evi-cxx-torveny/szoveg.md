@@ -212,7 +212,7 @@ Színházi cipész
 
 4. § (1) Az ekho alapja a 3. § (2) bekezdésének rendelkezésében meghatározott bevétel, csökkentve – ha a magánszemély általános forgalmi adó fizetésére kötelezett – az általános forgalmi adóval.
 
-(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet; ha azonban a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, vagy az adóévben – minden más járulékalapot képező jövedelmét, valamint minden olyan ekhoalapot képező bevételét, amely után 15 százalék mértékű ekhot fizetett figyelembe véve – a nyugdíjjárulékot a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) előírása szerint a járulékfizetés felső határáig megfizette, az ekho mértéke 11,1 százalék. Ha a magánszemély az adott kifizetéssel lépi át a járulékfizetés felső határát, a nyilatkozatban a magánszemély megjelölheti az ekhoalapnak a járulékfizetés felső határa eléréséhez szükséges részét, ebben az esetben az ekhoalap fennmaradó részére alkalmazható a 11,1 százalékos ekhomérték. Szintén 11,1 százalék az ekho mértéke az ekhoalap azon része után, amely meghaladja az adott jogviszonyban a Tbj. szerint biztosítási kötelezettség időtartamaként figyelembe vehető napok és a kifizetés napján érvényes járulékfizetési felső határ napi összegének szorzatát.
+(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet. Ettől eltérően, ha a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, az ekho mértéke 11,1 százalék.
 
 (3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 20 százalék ekhót fizet.
 
@@ -262,7 +262,7 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 - a) 1,6 százaléka természetbeni egészségbiztosítási járuléknak,
 - b) 9,5 százaléka személyi jövedelemadónak,
-- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas, vagy az adóévben a nyugdíjjárulékot a járulékfizetés felső határáig megfizette – nyugdíjjáruléknak
+- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas – nyugdíjjáruléknak
 
 minősül.
 
@@ -326,3 +326,5 @@ minősül.
 14/B. § (1) E törvénynek a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel módosított rendelkezéseit – a (2) bekezdésben említett kivétellel – a hatálybalépés napját követően megszerzett bevételekre kell alkalmazni.
 
 (2) A 3. § (4) bekezdés db) alpontjának a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel megállapított rendelkezését a 2011. január 1-jétől megszerzett bevételekre kell alkalmazni.
+
+14/C. § E törvény 2012. december 31-én hatályos 4. § (2) bekezdését kell alkalmazni a 2013. január 10-éig megszerzett, 2012. decemberi ekho alapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.

@@ -189,7 +189,7 @@ részbeni, illetőleg teljes fedezetére a X. Miniszterelnökség fejezet, 12. c
 
 (6) Az (5) bekezdésben meghatározott összeghatár feletti értékesítés esetében a bevételi különbözet 50%-ának felhasználására az (5) bekezdés szabályait kell alkalmazni, a különbözet fennmaradó 50%-a a központi költségvetés központosított bevételét képezi. A gyermek-, ifjúsági és sportminiszter javaslatot tehet a pénzügyminiszternek magasabb bevételi hányad visszahagyására, a felhasználás célja, jogcíme, valamint a kedvezményezett egyidejű megjelölése mellett.
 
-(7) Az Országházba látogató magyar állampolgárok, illetve magyar anyanyelvűek, valamint a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamainak állampolgárai számára a belépés díjtalan.
+(7)
 
 (8) Az Oktatási Minisztérium felügyelete alá tartozó felsőoktatási intézmények vagyonkezelésében lévő, kincstári vagyonba tartozó ingatlanok értékesítéséből befolyó bevételnek – a köztartozások és az ingatlan-elidegenítés költségeinek kiegyenlítését követően – a fennmaradó részét az intézmény jogosult felhasználni, kizárólag beruházási célra.
 

@@ -485,7 +485,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
 
-(12) Az állattenyésztési bírság a tenyésztési hatóság saját bevétele. A befolyt bírság kizárólag szakterületi ellenőrzésekre, az országos állattenyésztési adatbázis fejlesztésére és működtetésére, ellenőrzésekkel kapcsolatos fejlesztésekre, illetve továbbképzésre használható fel.
+(12)
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

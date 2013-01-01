@@ -68,15 +68,13 @@ Szorzószám
 
 – 3000–10 000 lakosú település esetén 11,0–12,5
 
-– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 12,5–13,5
+– 10 000-nél több lakosú település önkormányzat esetén 12,5–13,5
 
 – a fővárosi kerületi önkormányzat esetén 13,5–14,5
 
 – a megyei jogú városi önkormányzat és megyei önkormányzat esetén 14,0–15,0
 
-– a fővárosi önkormányzat esetén 15,0–16,5
-
-(3)
+(3) Az (1)–(2) bekezdésben, a (4) bekezdésben, valamint a 18. §-ban foglaltaktól eltérően a főpolgármester illetményére és költségtérítésére vonatkozó szabályokról a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény rendelkezik.
 
 (4) A polgármester illetményének emelését — a száznál kevesebb lakosú község kivételével a szervezeti és működési szabályzatban meghatározott bizottság javaslatára — a képviselő-testület állapítja meg.
 
@@ -129,7 +127,7 @@ Szorzószám
 
 (3) A vizsgálóbizottság a megbízását követő harminc napon belül köteles lefolytatni a vizsgálatot, ennek keretében meghallgatni a polgármestert. A vizsgálóbizottság a vizsgálat lezárását követő nyolc napon belül elkészíti a jelentését és a vizsgálóbizottság elnöke soron kívül, a jelentés elkészítését követő 15 napon belüli időpontra – a jelentés egyidejű megküldésével – összehívja a képviselő-testület ülését. A képviselő-testület a jelentés alapján a vizsgálóbizottság elnöke által összehívott ülésen, de legkésőbb az azt követő nyolc napon belül érdemben dönt a polgármester fegyelmi ügyében. E napirend tárgyalásának levezetésére a képviselő-testület a tagjai sorából elnököt választ.
 
-(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a megyei (fővárosi) bíróságnál.
+(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a közigazgatási és munkaügyi bíróságnál.
 
 A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fenntartásáról vagy megszüntetéséről. A bíróság határozata ellen külön fellebbezésnek nincs helye.
 
@@ -170,7 +168,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (2a) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Kttv. 118. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
 
-(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a munkaügyi bírósághoz fordulhat.
+(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási és munkaügyi bírósághoz fordulhat.
 
 (2c) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
 
@@ -180,7 +178,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (4) Ahol jogszabály munkaviszonyt említ, ott — eltérő rendelkezés hiányában — a foglalkoztatási jogviszonyt is érteni kell.
 
-(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
+(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási és munkaügyi bírósághoz fordulhat.
 
 13/A. §
 
@@ -219,7 +217,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 – 3000–10 000 lakosú település esetén 1,8
 
-– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 2,2
+– 10 000-nél több lakosú település esetén 2,2
 
 – fővárosi kerületi önkormányzat esetén 2,5
 
@@ -256,5 +254,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a polgármester közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
+
+20. § Ha a települési képviselő 2013. január 1-je előtt körzetközponti feladatot ellátó önkormányzat képviselő-testületének tagja volt, úgy a megállapított tiszteletdíja – a képviselő-testület ellenkező döntéséig – 2013. január 1-jét követően nem változik.
 
 ### Melléklet a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvényhez

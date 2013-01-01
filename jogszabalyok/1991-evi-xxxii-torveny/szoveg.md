@@ -138,7 +138,7 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 ### Felülvizsgálat
 
-13. § (1) A miniszter e törvényben megállapított hatáskörében hozott határozatának felülvizsgálatát — a (4) bekezdésben foglalt kivétellel — törvénysértésre hivatkozással a bíróságtól lehet kérni. A perre a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perre az ingatlan fekvése szerinti törvényszéknek van hatásköre és illetékessége.
+13. § (1) A miniszter e törvényben megállapított hatáskörében hozott határozatának felülvizsgálatát — a (4) bekezdésben foglalt kivétellel — törvénysértésre hivatkozással a bíróságtól lehet kérni. A perre a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perre az ingatlan fekvése szerinti közigazgatási és munkaügyi bíróságnak van hatásköre és illetékessége.
 
 (2) A bíróság a 12. § (2) bekezdésében említett határozat elleni kereset benyújtásáról — a perindítás bejegyzése végett — haladéktalanul értesíti az ingatlanügyi hatóságot.
 

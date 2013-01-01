@@ -2,13 +2,13 @@
 
 a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról
 
-1. § (1) A városi és kerületi bíróságok (a továbbiakban együtt: helyi bíróság), a munkaügyi bíróságok, továbbá a törvényszékek elnevezését és illetékességi területét az 1. melléklet tartalmazza.
+1. § (1) A járásbíróságok és kerületi bíróságok (a továbbiakban együtt: járásbíróság), a közigazgatási és munkaügyi bíróságok, továbbá a törvényszékek elnevezését és illetékességi területét az 1. melléklet tartalmazza.
 
 (2) Az ítélőtáblák elnevezését és illetékességi területét a 2. melléklet tartalmazza.
 
 (3) A Kúria illetékességi területe az ország egész területére kiterjed.
 
-2. § (1) A helyi és a munkaügyi bíróság székhelye – a (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
+2. § (1) A járásbíróság és a közigazgatási és munkaügyi bíróság székhelye – (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
 
 (2) A kerületi bíróságok székhelye Budapest.
 
@@ -22,6 +22,8 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 (2) A kijelölt törvényszékeken működő katonai tanácsok által első fokon elbírált ügyekben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
 
+3/A. § A közigazgatási és munkaügyi regionális kollégiumok számát, elnevezését és illetékességi területét a 4. melléklet tartalmazza.
+
 4. § (1) E törvény 2011. március 1-jén lép hatályba.
 
 (2) A Zalaegerszegi Törvényszék és a Zalaegerszegi Törvényszék illetékességi területéhez tartozó helyi bíróságok határozata ellen a törvény hatálybalépését követően előterjesztett jogorvoslatot bírálja el a Pécsi Ítélőtábla.
@@ -32,9 +34,9 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetékességi területe
+A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi bíróságok illetékességi területe
 
-1. Fővárosi Törvényszék (székhelye: Budapest)
+1. FŐVÁROSI TÖRVÉNYSZÉK (székhelye: Budapest)
 
 1/1. Pesti Központi Kerületi Bíróság
 
@@ -70,14 +72,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Budapest XX. kerület | Budapest XXI. kerület | Budapest XXIII. kerület |
 | --- | --- | --- |
 
-1/7. Fővárosi Munkaügyi Bíróság
+1/7. Fővárosi Közigazgatási és Munkaügyi Bíróság
 
 | Főváros területe |  |  |
 | --- | --- | --- |
 
-2. Pécsi Törvényszék (székhelye: Pécs)
+2. PÉCSI TÖRVÉNYSZÉK (székhelye: Pécs)
 
-2/1. Pécsi Városi Bíróság
+2/1. Pécsi Járásbíróság
 
 | Abaliget | Aranyosgadány | Bakonya |
 | --- | --- | --- |
@@ -92,7 +94,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Romonya | Szemely | Szilágy |
 | Szőke |  |  |
 
-2/2. Komlói Városi Bíróság
+2/2. Komlói Járásbíróság
 
 | Alsómocsolád | Apátvarasd | Ág |
 | --- | --- | --- |
@@ -115,7 +117,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tófű | Varga | Vásárosdombó |
 | Vázsnok | Vékény | Zengővárkony |
 
-2/3. Mohácsi Városi Bíróság
+2/3. Mohácsi Járásbíróság
 
 | Babarc | Bár | Belvárdgyula |
 | --- | --- | --- |
@@ -135,7 +137,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Székelyszabar | Szűr | Töttös |
 | Udvar | Versend | Véménd |
 
-2/4. Siklósi Városi Bíróság
+2/4. Siklósi Járásbíróság
 
 | Adorjás | Alsószentmárton | Áta |
 | --- | --- | --- |
@@ -171,7 +173,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Villány | Villánykövesd | Vokány |
 | Zaláta |  |  |
 
-2/5. Szigetvári Városi Bíróság
+2/5. Szigetvári Járásbíróság
 
 | Almamellék | Almáskeresztúr | Basal |
 | --- | --- | --- |
@@ -199,14 +201,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Várad | Vásárosbéc | Velény |
 | Zádor | Zók |  |
 
-2/6. Pécsi Munkaügyi Bíróság
+2/6. Pécsi Közigazgatási és Munkaügyi Bíróság
 
 | Baranya megye |  |  |
 | --- | --- | --- |
 
-3. Kecskeméti Törvényszék (székhelye: Kecskemét)
+3. KECSKEMÉTI TÖRVÉNYSZÉK (székhelye: Kecskemét)
 
-3/1. Kecskeméti Városi Bíróság
+3/1. Kecskeméti Járásbíróság
 
 | Ágasegyháza | Ballószög | Felsőlajos |
 | --- | --- | --- |
@@ -217,7 +219,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szentkirály | Tiszakécske | Tiszaug |
 | Városföld |  |  |
 
-3/2. Bajai Városi Bíróság
+3/2. Bajai Járásbíróság
 
 | Baja | Bácsalmás | Bácsbokod |
 | --- | --- | --- |
@@ -231,7 +233,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Rém | Sükösd | Szeremle |
 | Tataháza | Vaskút |  |
 
-3/3. Kalocsai Városi Bíróság
+3/3. Kalocsai Járásbíróság
 
 | Bátya | Drágszél | Dunapataj |
 | --- | --- | --- |
@@ -242,7 +244,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Öregcsertő | Solt | Szakmár |
 | Újsolt | Újtelek | Uszód |
 
-3/4. Kiskőrösi Városi Bíróság
+3/4. Kiskőrösi Járásbíróság
 
 | Akasztó | Bócsa | Császártöltés |
 | --- | --- | --- |
@@ -251,14 +253,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Páhi | Soltszentimre | Soltvadkert |
 | Tabdi | Tázlár |  |
 
-3/5. Kiskunfélegyházi Városi Bíróság
+3/5. Kiskunfélegyházi Járásbíróság
 
 | Bugac | Bugacpusztaháza | Fülöpjakab |
 | --- | --- | --- |
 | Gátér | Kiskunfélegyháza | Kunszállás |
 | Pálmonostora | Petőfiszállás | Tiszaalpár |
 
-3/6. Kiskunhalasi Városi Bíróság
+3/6. Kiskunhalasi Járásbíróság
 
 | Balotaszállás | Csólyospálos | Harkakötöny |
 | --- | --- | --- |
@@ -268,21 +270,21 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Mélykút | Móricgát | Pirtó |
 | Szank | Tompa | Zsana |
 
-3/7. Kunszentmiklósi Városi Bíróság
+3/7. Kunszentmiklósi Járásbíróság
 
 | Apostag | Dunaegyháza | Dunavecse |
 | --- | --- | --- |
 | Kunadacs | Kunpeszér | Kunszentmiklós |
 | Szabadszállás | Szalkszentmárton | Tass |
 
-3/8. Kecskeméti Munkaügyi Bíróság
+3/8. Kecskeméti Közigazgatási és Munkaügyi Bíróság
 
 | Bács-Kiskun megye |  |  |
 | --- | --- | --- |
 
-4. Gyulai Törvényszék (székhelye: Gyula)
+4. GYULAI TÖRVÉNYSZÉK (székhelye: Gyula)
 
-4/1. Gyulai Városi Bíróság
+4/1. Gyulai Járásbíróság
 
 | Elek | Geszt | Gyula |
 | --- | --- | --- |
@@ -290,7 +292,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Mezőgyán | Méhkerék | Sarkad |
 | Sarkadkeresztúr | Újszalonta |  |
 
-4/2. Battonyai Városi Bíróság
+4/2. Battonyai Járásbíróság
 
 | Almáskamarás | Battonya | Dombegyház |
 | --- | --- | --- |
@@ -300,14 +302,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Mezőhegyes | Mezőkovácsháza | Nagybánhegyes |
 | Nagykamarás | Pusztaottlaka | Végegyháza |
 
-4/3. Békési Városi Bíróság
+4/3. Békési Járásbíróság
 
 | Békés | Bélmegyer | Csárdaszállás |
 | --- | --- | --- |
 | Kamut | Köröstarcsa | Mezőberény |
 | Murony | Tarhos | Vésztő |
 
-4/4. Békéscsabai Városi Bíróság
+4/4. Békéscsabai Járásbíróság
 
 | Békéscsaba | Csabaszabadi | Csorvás |
 | --- | --- | --- |
@@ -315,21 +317,21 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Kondoros | Szabadkígyós | Telekgerendás |
 | Újkígyós |  |  |
 
-4/5. Orosházi Városi Bíróság
+4/5. Orosházi Járásbíróság
 
 | Békéssámson | Csanádapáca | Gádoros |
 | --- | --- | --- |
 | Kardoskút | Nagyszénás | Orosháza |
 | Pusztaföldvár | Tótkomlós |  |
 
-4/6. Szarvasi Városi Bíróság
+4/6. Szarvasi Járásbíróság
 
 | Békésszentandrás | Csabacsüd | Dévaványa |
 | --- | --- | --- |
 | Ecsegfalva | Gyomaendrőd | Hunya |
 | Kardos | Örménykút | Szarvas |
 
-4/7. Szeghalmi Városi Bíróság
+4/7. Szeghalmi Járásbíróság
 
 | Biharugra | Bucsa | Füzesgyarmat |
 | --- | --- | --- |
@@ -337,14 +339,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Körösújfalu | Okány | Szeghalom |
 | Zsadány |  |  |
 
-4/8. Gyulai Munkaügyi Bíróság
+4/8. Gyulai Közigazgatási és Munkaügyi Bíróság
 
 | Békés megye |  |  |
 | --- | --- | --- |
 
-5. Miskolci Törvényszék (székhelye: Miskolc)
+5. MISKOLCI TÖRVÉNYSZÉK (székhelye: Miskolc)
 
-5/1. Miskolci Városi Bíróság
+5/1. Miskolci Járásbíróság
 
 | Alsózsolca | Arnót | Berzék |
 | --- | --- | --- |
@@ -361,7 +363,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sajósenye | Sajóvámos | Szirmabesenyő |
 | Varbó |  |  |
 
-5/2. Encsi Városi Bíróság
+5/2. Encsi Járásbíróság
 
 | Abaújalpár | Abaújkér | Abaújvár |
 | --- | --- | --- |
@@ -380,7 +382,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tornyosnémeti | Vilmány | Vizsoly |
 | Zsujta |  |  |
 
-5/3. Kazincbarcikai Városi Bíróság
+5/3. Kazincbarcikai Járásbíróság
 
 | Abod | Aggtelek | Alacska |
 | --- | --- | --- |
@@ -411,7 +413,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vadna | Varbóc | Viszló |
 | Zádorfalva | Ziliz | Zubogy |
 
-5/4. Mezőkövesdi Városi Bíróság
+5/4. Mezőkövesdi Járásbíróság
 
 | Bogács | Borsodgeszt | Borsodivánka |
 | --- | --- | --- |
@@ -423,7 +425,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tard | Tibolddaróc | Tiszabábolna |
 | Tiszavalk | Vatta |  |
 
-5/5. Ózdi Városi Bíróság
+5/5. Ózdi Járásbíróság
 
 | Arló | Bánréve | Borsodbóta |
 | --- | --- | --- |
@@ -437,7 +439,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sajópüspöki | Sajóvelezd | Sáta |
 | Serényfalva | Uppony |  |
 
-5/6. Sátoraljaújhelyi Városi Bíróság
+5/6. Sátoraljaújhelyi Járásbíróság
 
 | Alsóberecki | Alsóregmec | Bodroghalom |
 | --- | --- | --- |
@@ -459,7 +461,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vilyvitány | Viss | Zalkod |
 | Zemplénagárd |  |  |
 
-5/7. Szerencsi Városi Bíróság
+5/7. Szerencsi Járásbíróság
 
 | Abaújszántó | Alsódobsza | Bekecs |
 | --- | --- | --- |
@@ -473,7 +475,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tállya | Tiszaladány | Tiszalúc |
 | Tiszatardos | Tokaj | Újcsanálos |
 
-5/8. Szikszói Városi Bíróság
+5/8. Szikszói Járásbíróság
 
 | Abaújlak | Abaújszolnok | Alsógagy |
 | --- | --- | --- |
@@ -490,7 +492,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Perecse | Rásonysápberencs | Selyeb |
 | Szászfa | Szentistvánbaksa | Szikszó |
 
-5/9. Tiszaújvárosi Városi Bíróság
+5/9. Tiszaújvárosi Járásbíróság
 
 | Ároktő | Gelej | Girincs |
 | --- | --- | --- |
@@ -502,14 +504,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szakáld | Tiszadorogma | Tiszakeszi |
 | Tiszapalkonya | Tiszatarján | Tiszaújváros |
 
-5/10. Miskolci Munkaügyi Bíróság
+5/10. Miskolci Közigazgatási és Munkaügyi Bíróság
 
 | Borsod-Abaúj-Zemplén megye |  |  |
 | --- | --- | --- |
 
-6. Szegedi Törvényszék (székhelye: Szeged)
+6. SZEGEDI TÖRVÉNYSZÉK (székhelye: Szeged)
 
-6/1. Szegedi Városi Bíróság
+6/1. Szegedi Járásbíróság
 
 | Algyő | Ásotthalom | Baks |
 | --- | --- | --- |
@@ -522,19 +524,19 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szeged | Tiszasziget | Újszentiván |
 | Üllés | Zákányszék | Zsombó |
 
-6/2. Csongrádi Városi Bíróság
+6/2. Csongrádi Járásbíróság
 
 | Csanytelek | Csongrád | Felgyő |
 | --- | --- | --- |
 | Tömörkény |  |  |
 
-6/3. Hódmezővásárhelyi Városi Bíróság
+6/3. Hódmezővásárhelyi Járásbíróság
 
 | Hódmezővásárhely | Mártély | Mindszent |
 | --- | --- | --- |
 | Székkutas |  |  |
 
-6/4. Makói Városi Bíróság
+6/4. Makói Járásbíróság
 
 | Ambrózfalva | Apátfalva | Csanádalberti |
 | --- | --- | --- |
@@ -544,21 +546,21 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Maroslele | Nagyér | Nagylak |
 | Óföldeák | Pitvaros |  |
 
-6/5. Szentesi Városi Bíróság
+6/5. Szentesi Járásbíróság
 
 | Árpádhalom | Derekegyház | Eperjes |
 | --- | --- | --- |
 | Fábiánsebestyén | Nagymágocs | Nagytőke |
 | Szegvár | Szentes |  |
 
-6/6. Szegedi Munkaügyi Bíróság
+6/6. Szegedi Közigazgatási és Munkaügyi Bíróság
 
 | Csongrád megye |  |  |
 | --- | --- | --- |
 
-7. Székesfehérvári Törvényszék (székhelye: Székesfehérvár)
+7. SZÉKESFEHÉRVÁRI TÖRVÉNYSZÉK (székhelye: Székesfehérvár)
 
-7/1. Székesfehérvári Városi Bíróság
+7/1. Székesfehérvári Járásbíróság
 
 | Aba | Bakonycsernye | Bakonykúti |
 | --- | --- | --- |
@@ -581,7 +583,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Velence | Vereb | Zámoly |
 | Zichyújfalu |  |  |
 
-7/2. Bicskei Városi Bíróság
+7/2. Bicskei Járásbíróság
 
 | Alcsútdoboz | Bicske | Bodmér |
 | --- | --- | --- |
@@ -591,7 +593,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Újbarok | Vál | Vértesacsa |
 | Vértesboglár |  |  |
 
-7/3. Dunaújvárosi Városi Bíróság
+7/3. Dunaújvárosi Járásbíróság
 
 | Adony | Baracs | Beloiannisz |
 | --- | --- | --- |
@@ -601,7 +603,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagykarácsony | Nagyvenyim | Perkáta |
 | Pusztaszabolcs | Rácalmás | Ráckeresztúr |
 
-7/4. Sárbogárdi Városi Bíróság
+7/4. Sárbogárdi Járásbíróság
 
 | Alap | Alsószentiván | Cece |
 | --- | --- | --- |
@@ -612,14 +614,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sárszentágota | Szabadegyháza | Szabadhidvég |
 | Vajta |  |  |
 
-7/5. Székesfehérvári Munkaügyi Bíróság
+7/5. Székesfehérvári Közigazgatási és Munkaügyi Bíróság
 
 | Fejér megye |  |  |
 | --- | --- | --- |
 
-8. Győri Törvényszék (székhelye: Győr)
+8. GYŐRI TÖRVÉNYSZÉK (székhelye: Győr)
 
-8/1. Győri Városi Bíróság
+8/1. Győri Járásbíróság
 
 | Abda | Acsalag | Árpás |
 | --- | --- | --- |
@@ -656,7 +658,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vámosszabadi | Veszprémvarsány | Vének |
 | Zsebeháza |  |  |
 
-8/2. Mosonmagyaróvári Városi Bíróság
+8/2. Mosonmagyaróvári Járásbíróság
 
 | Ásványráró | Bezenye | Darnózseli |
 | --- | --- | --- |
@@ -669,7 +671,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Mosonszolnok | Mosonudvar | Püski |
 | Rajka | Újrónafő | Várbalog |
 
-8/3. Soproni Városi Bíróság
+8/3. Soproni Járásbíróság
 
 | Agyagosszergény | Ágfalva | Babót |
 | --- | --- | --- |
@@ -693,14 +695,15 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vásárosfalu | Veszkény | Vitnyéd |
 | Völcsej | Zsira |  |
 
-8/4. Győri Munkaügyi Bíróság
+8/4. Győri Közigazgatási és Munkaügyi Bíróság
 
 | Győr-Moson-Sopron megye |  |  |
 | --- | --- | --- |
+|  |  |  |
 
-9. Debreceni Törvényszék (székhelye: Debrecen)
+9. DEBRECENI TÖRVÉNYSZÉK (székhelye: Debrecen)
 
-9/1. Debreceni Városi Bíróság
+9/1. Debreceni Járásbíróság
 
 | Álmosd | Bagamér | Balmazújváros |
 | --- | --- | --- |
@@ -713,7 +716,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Téglás | Tiszacsege | Újléta |
 | Újszentmargita | Vámospércs |  |
 
-9/2. Berettyóújfalui Városi Bíróság
+9/2. Berettyóújfalui Járásbíróság
 
 | Ártánd | Bakonszeg | Bedő |
 | --- | --- | --- |
@@ -728,20 +731,20 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Újiráz | Váncsod | Vekerd |
 | Zsáka |  |  |
 
-9/3. Hajdúböszörményi Városi Bíróság
+9/3. Hajdúböszörményi Járásbíróság
 
 | Folyás | Görbeháza | Hajdúböszörmény |
 | --- | --- | --- |
 | Hajdúdorog | Hajdúnánás | Polgár |
 | Tiszagyulaháza | Újtikos |  |
 
-9/4. Hajdúszoboszlói Városi Bíróság
+9/4. Hajdúszoboszlói Járásbíróság
 
 | Ebes | Hajdúszoboszló | Hajdúszovát |
 | --- | --- | --- |
 | Nagyhegyes | Nádudvar |  |
 
-9/5. Püspökladányi Városi Bíróság
+9/5. Püspökladányi Járásbíróság
 
 | Báránd | Bihardancsháza | Biharnagybajom |
 | --- | --- | --- |
@@ -749,14 +752,15 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagyrábé | Püspökladány | Sáp |
 | Sárrétudvari | Szerep | Tetétlen |
 
-9/6. Debreceni Munkaügyi Bíróság
+9/6. Debreceni Közigazgatási és Munkaügyi Bíróság
 
 | Hajdú-Bihar megye |  |  |
 | --- | --- | --- |
+|  |  |  |
 
-10. Egri Törvényszék (székhelye: Eger)
+10. EGRI TÖRVÉNYSZÉK (székhelye: Eger)
 
-10/1. Egri Városi Bíróság
+10/1. Egri Járásbíróság
 
 | Andornaktálya | Balaton | Bátor |
 | --- | --- | --- |
@@ -777,7 +781,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tarnaszentmária | Terpes | Váraszó |
 | Verpelét |  |  |
 
-10/2. Füzesabonyi Városi Bíróság
+10/2. Füzesabonyi Járásbíróság
 
 | Aldebrő | Besenyőtelek | Dormánd |
 | --- | --- | --- |
@@ -787,7 +791,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Poroszló | Sarud | Szihalom |
 | Tófalu | Újlőrincfalva |  |
 
-10/3. Gyöngyösi Városi Bíróság
+10/3. Gyöngyösi Járásbíróság
 
 | Abasár | Adács | Atkár |
 | --- | --- | --- |
@@ -800,7 +804,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vámosgyörk | Vécs | Visonta |
 | Visznek |  |  |
 
-10/4. Hatvani Városi Bíróság
+10/4. Hatvani Járásbíróság
 
 | Apc | Boldog | Csány |
 | --- | --- | --- |
@@ -809,7 +813,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagykökényes | Petőfibánya | Rózsaszentmárton |
 | Zagyvaszántó |  |  |
 
-10/5. Hevesi Városi Bíróság
+10/5. Hevesi Járásbíróság
 
 | Átány | Boconád | Erdőtelek |
 | --- | --- | --- |
@@ -819,14 +823,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tarnaszentmiklós | Tarnazsadány | Tenk |
 | Tiszanána | Zaránk |  |
 
-10/6. Egri Munkaügyi Bíróság
+10/6. Egri Közigazgatási és Munkaügyi Bíróság
 
 | Heves megye |  |  |
 | --- | --- | --- |
 
-11. Szolnoki Törvényszék (székhelye: Szolnok)
+11. SZOLNOKI TÖRVÉNYSZÉK (székhelye: Szolnok)
 
-11/1. Szolnoki Városi Bíróság
+11/1. Szolnoki Járásbíróság
 
 | Besenyszög | Csataszög | Fegyvernek |
 | --- | --- | --- |
@@ -840,7 +844,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tószeg | Törökszentmiklós | Újszász |
 | Vezseny | Zagyvarékas |  |
 
-11/2. Jászberényi Városi Bíróság
+11/2. Jászberényi Járásbíróság
 
 | Alattyán | Jánoshida | Jászalsószentgyörgy |
 | --- | --- | --- |
@@ -850,13 +854,13 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Jászjákóhalma | Jászkisér | Jászladány |
 | Jászszentandrás | Jásztelek | Pusztamonostor |
 
-11/3. Karcagi Városi Bíróság
+11/3. Karcagi Járásbíróság
 
 | Berekfürdő | Karcag | Kenderes |
 | --- | --- | --- |
 | Kisújszállás | Kunhegyes | Kunmadaras |
 
-11/4. Kunszentmártoni Városi Bíróság
+11/4. Kunszentmártoni Járásbíróság
 
 | Cibakháza | Cserkeszőlő | Csépa |
 | --- | --- | --- |
@@ -864,12 +868,12 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagyrév | Öcsöd | Szelevény |
 | Tiszainoka | Tiszakürt | Tiszasas |
 
-11/5. Mezőtúri Városi Bíróság
+11/5. Mezőtúri Járásbíróság
 
 | Kétpó | Mezőtúr | Túrkeve |
 | --- | --- | --- |
 
-11/6. Tiszafüredi Városi Bíróság
+11/6. Tiszafüredi Járásbíróság
 
 | Abádszalók | Nagyiván | Tiszabura |
 | --- | --- | --- |
@@ -877,14 +881,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tiszaörs | Tiszaszentimre | Tiszaszőlős |
 | Tomajmonostora |  |  |
 
-11/7. Szolnoki Munkaügyi Bíróság
+11/7. Szolnoki Közigazgatási és Munkaügyi Bíróság
 
 | Jász-Nagykun-Szolnok megye |  |  |
 | --- | --- | --- |
 
-12. Tatabányai Törvényszék (székhelye: Tatabánya)
+12. TATABÁNYAI TÖRVÉNYSZÉK (székhelye: Tatabánya)
 
-12/1. Tatabányai Városi Bíróság
+12/1. Tatabányai Járásbíróság
 
 | Bokod | Dad | Gyermely |
 | --- | --- | --- |
@@ -894,7 +898,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tatabánya | Várgesztes | Vértessomló |
 | Vértesszőlős |  |  |
 
-12/2. Esztergomi Városi Bíróság
+12/2. Esztergomi Járásbíróság
 
 | Annavölgy | Bajna | Bajót |
 | --- | --- | --- |
@@ -906,7 +910,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sárisáp | Süttő | Tát |
 | Tokod | Tokodaltáró | Úny |
 
-12/3. Komáromi Városi Bíróság
+12/3. Komáromi Járásbíróság
 
 | Aka | Almásfüzitő | Ács |
 | --- | --- | --- |
@@ -919,7 +923,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagyigmánd | Réde | Súr |
 | Tárkány | Vérteskethely |  |
 
-12/4. Tatai Városi Bíróság
+12/4. Tatai Járásbíróság
 
 | Baj | Dunaalmás | Dunaszentmiklós |
 | --- | --- | --- |
@@ -927,14 +931,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szomód | Tardos | Tata |
 | Vértestolna |  |  |
 
-12/5. Tatabányai Munkaügyi Bíróság
+12/5. Tatabányai Közigazgatási és Munkaügyi Bíróság
 
 | Komárom-Esztergom megye |  |  |
 | --- | --- | --- |
 
-13. Balassagyarmati Törvényszék (székhelye: Balassagyarmat)
+13. BALASSAGYARMATI TÖRVÉNYSZÉK (székhelye: Balassagyarmat)
 
-13/1. Balassagyarmati Városi Bíróság
+13/1. Balassagyarmati Járásbíróság
 
 | Alsópetény | Balassagyarmat | Bánk |
 | --- | --- | --- |
@@ -962,7 +966,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tereske | Terény | Tolmács |
 | Varsány |  |  |
 
-13/2. Pásztói Városi Bíróság
+13/2. Pásztói Járásbíróság
 
 | Alsótold | Bér | Bokor |
 | --- | --- | --- |
@@ -975,7 +979,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szarvasgede | Szirák | Szurdokpüspöki |
 | Tar | Vanyarc |  |
 
-13/3. Salgótarjáni Városi Bíróság
+13/3. Salgótarjáni Járásbíróság
 
 | Bárna | Bátonyterenye | Cered |
 | --- | --- | --- |
@@ -991,14 +995,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sóshartyán | Szilaspogony | Szuha |
 | Vizslás | Zabar |  |
 
-13/4. Salgótarjáni Munkaügyi Bíróság
+13/4. Salgótarjáni Közigazgatási és Munkaügyi Bíróság
 
 | Nógrád megye |  |  |
 | --- | --- | --- |
 
-14. Budapest Környéki Törvényszék (székhelye: Budapest)
+14. BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK (székhelye: Budapest)
 
-14/1. Budakörnyéki Bíróság (székhelye: Budapest)
+14/1. Budakörnyéki Járásbíróság (székhelye: Budapest)
 
 | Budajenő | Budakeszi | Nagykovácsi |
 | --- | --- | --- |
@@ -1008,7 +1012,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Telki | Tinnye | Tök |
 | Üröm | Zsámbék |  |
 
-14/2. Ceglédi Városi Bíróság
+14/2. Ceglédi Járásbíróság
 
 | Abony | Albertirsa | Cegléd |
 | --- | --- | --- |
@@ -1016,7 +1020,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Jászkarajenő | Kőröstetétlen | Mikebuda |
 | Tápiószőlős | Törtel | Újszilvás |
 
-14/3. Dabasi Városi Bíróság
+14/3. Dabasi Járásbíróság
 
 | Alsónémedi | Bugyi | Dabas |
 | --- | --- | --- |
@@ -1025,13 +1029,13 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Örkény | Pusztavacs | Tatárszentgyörgy |
 | Táborfalva | Újhartyán | Újlengyel |
 
-14/4. Dunakeszi Városi Bíróság
+14/4. Dunakeszi Járásbíróság
 
 | Csomád | Dunakeszi | Fót |
 | --- | --- | --- |
 | Göd |  |  |
 
-14/5. Gödöllői Városi Bíróság
+14/5. Gödöllői Járásbíróság
 
 | Aszód | Bag | Csömör |
 | --- | --- | --- |
@@ -1044,7 +1048,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vácegres | Váckisújfalu | Vácszentlászló |
 | Veresegyház | Verseg | Zsámbok |
 
-14/6. Monori Városi Bíróság
+14/6. Monori Járásbíróság
 
 | Bénye | Csévharaszt | Ecser |
 | --- | --- | --- |
@@ -1054,7 +1058,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Pilis | Sülysáp | Úri |
 | Üllő | Vasad | Vecsés |
 
-14/7. Nagykátai Városi Bíróság
+14/7. Nagykátai Járásbíróság
 
 | Farmos | Kóka | Nagykáta |
 | --- | --- | --- |
@@ -1063,12 +1067,12 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tápiószecső | Tápiószele | Tápiószentmárton |
 | Tóalmás |  |  |
 
-14/8. Nagykőrösi Városi Bíróság
+14/8. Nagykőrösi Járásbíróság
 
 | Kocsér | Nagykőrös | Nyársapát |
 | --- | --- | --- |
 
-14/9. Ráckevei Városi Bíróság
+14/9. Ráckevei Járásbíróság
 
 | Apaj | Áporka | Délegyháza |
 | --- | --- | --- |
@@ -1079,7 +1083,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szigetszentmárton | Szigetszentmiklós | Szigetújfalu |
 | Taksony | Tököl |  |
 
-14/10. Szentendrei Városi Bíróság
+14/10. Szentendrei Járásbíróság
 
 | Budakalász | Csobánka | Dunabogdány |
 | --- | --- | --- |
@@ -1088,7 +1092,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Pócsmegyer | Szentendre | Szigetmonostor |
 | Tahitótfalu | Visegrád |  |
 
-14/11. Váci Városi Bíróság
+14/11. Váci Járásbíróság
 
 | Acsa | Bernecebaráti | Csörög |
 | --- | --- | --- |
@@ -1104,7 +1108,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vácrátót | Vámosmikola | Verőce |
 | Zebegény |  |  |
 
-14/12. Budaörsi Városi Bíróság
+14/12. Budaörsi Járásbíróság
 
 | Biatorbágy | Budaörs | Diósd |
 | --- | --- | --- |
@@ -1112,14 +1116,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Sóskút | Százhalombatta | Tárnok |
 | Törökbálint |  |  |
 
-14/13. Budapest Környéki Munkaügyi Bíróság
+14/13. Budapest Környéki Közigazgatási és Munkaügyi Bíróság
 
 | Pest megye |  |  |
 | --- | --- | --- |
 
-15. Kaposvári Törvényszék (székhelye: Kaposvár)
+15. KAPOSVÁRI TÖRVÉNYSZÉK (székhelye: Kaposvár)
 
-15/1. Kaposvári Városi Bíróság
+15/1. Kaposvári Járásbíróság
 
 | Alsóbogát | Baté | Bárdudvarnok |
 | --- | --- | --- |
@@ -1149,7 +1153,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Visnye | Zimány | Zselickisfalud |
 | Zselickislak | Zselicszentpál |  |
 
-15/2. Barcsi Városi Bíróság
+15/2. Barcsi Járásbíróság
 
 | Babócsa | Barcs | Bélavár |
 | --- | --- | --- |
@@ -1162,7 +1166,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Somogyaracs | Szentborbás | Szulok |
 | Tótújfalu | Vízvár |  |
 
-15/3. Fonyódi Városi Bíróság
+15/3. Fonyódi Járásbíróság
 
 | Balatonboglár | Balatonfenyves | Balatonlelle |
 | --- | --- | --- |
@@ -1173,13 +1177,13 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Somogytúr | Somogyvámos | Somogyvár |
 | Szőlősgyörök | Visz |  |
 
-15/4. Marcali Városi Bíróság
+15/4. Marcali Járásbíróság
 
 | Balatonberény | Balatonkeresztúr | Balatonmáriafürdő |
 | --- | --- | --- |
 | Balatonszentgyörgy | Balatonújlak | Böhönye |
 | Csákány | Csömend | Főnyed |
-| Gadány | Hollád | Hosszúviz |
+| Gadány | Hollád | Hosszúvíz |
 | Keleviz | Kéthely | Libickozma |
 | Marcali | Mesztegnyő | Nagyszakácsi |
 | Nemesdéd | Nemeskisfalud | Nemesvid |
@@ -1190,50 +1194,51 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Táska | Tikos | Varászló |
 | Vése | Vörs |  |
 
-15/5. Nagyatádi Városi Bíróság
+15/5. Nagyatádi Járásbíróság
 
 | Bakháza | Beleg | Berzence |
 | --- | --- | --- |
 | Bolhás | Csurgó | Csurgónagymarton |
 | Görgeteg | Gyékényes | Háromfa |
 | Iharos | Iharosberény | Inke |
-| Kisbajom | Kutas | Lábod |
-| Nagyatád | Nagykorpád | Őrtilos |
-| Ötvöskónyi | Pogányszentpéter | Porrog |
-| Porrogszentkirály | Porrogszentpál | Rinyabesenyő |
-| Rinyaszentkirály | Segesd | Somogybükkösd |
-| Somogycsicsó | Somogyszob | Somogyudvarhely |
-| Szabás | Szenta | Tarany |
-| Zákány | Zsákányfalu |  |
+| Kaszó Lábod | Kisbajom Nagyatád | Kutas Nagykorpád |
+| Őrtilos | Ötvöskónyi | Pogányszentpéter |
+| Porrog | Porrogszentkirály | Porrogszentpál |
+| Rinyabesenyő | Rinyaszentkirály | Segesd |
+| Somogybükkösd | Somogycsicsó | Somogyszob |
+| Somogyudvarhely | Szabás | Szenta |
+| Tarany | Zákány | Zsákányfalu |
+|  |  |  |
 
-15/6. Siófoki Városi Bíróság
+15/6. Siófoki Járásbíróság
 
 | Andocs | Ádánd | Balatonendréd |
 | --- | --- | --- |
 | Balatonföldvár | Balatonőszöd | Balatonszabadi |
-| Balatonszárszó | Balatonszemes | Bábonymegyer |
-| Bálványos | Bedegkér | Bonnya |
-| Fiad | Kapoly | Karád |
-| Kánya | Kára | Kereki |
-| Kisbárapáti | Kőröshegy | Kötcse |
-| Lulla | Miklósi | Nagyberény |
-| Nagycsepely | Nágocs | Nyim |
-| Pusztaszemes | Ságvár | Sérsekszőlős |
-| Siófok | Siójut | Som |
-| Somogyacsa | Somogydöröcske | Somogyegres |
-| Somogymeggyes | Szántód | Szorosad |
-| Szólád | Tab | Teleki |
-| Tengőd | Torvaj | Törökkoppány |
-| Zala | Zamárdi | Zics |
+| Balatonszárszó | Balatonszemes | Balatonvilágos |
+| Bábonymegyer | Bálványos | Bedegkér |
+| Bonnya | Fiad | Kapoly |
+| Karád | Kánya | Kára |
+| Kereki | Kisbárapáti | Kőröshegy |
+| Kötcse | Lulla | Miklósi |
+| Nagyberény | Nagycsepely | Nágocs |
+| Nyim | Pusztaszemes | Ságvár |
+| Sérsekszőlős | Siófok | Siójut |
+| Som | Somogyacsa | Somogydöröcske |
+| Somogyegres | Somogymeggyes | Szántód |
+| Szorosad | Szólád | Tab |
+| Teleki | Tengőd | Torvaj |
+| Törökkoppány | Zala | Zamárdi |
+| Zics |  |  |
 
-15/7. Kaposvári Munkaügyi Bíróság
+15/7. Kaposvári Közigazgatási és Munkaügyi Bíróság
 
 | Somogy megye |  |  |
 | --- | --- | --- |
 
-16. Nyíregyházi Törvényszék (székhelye: Nyíregyháza)
+16. NYÍREGYHÁZI TÖRVÉNYSZÉK (székhelye: Nyíregyháza)
 
-16/1. Nyíregyházi Városi Bíróság
+16/1. Nyíregyházi Járásbíróság
 
 | Apagy | Baktalórántháza | Balsa |
 | --- | --- | --- |
@@ -1254,7 +1259,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tiszanagyfalu | Tiszarád | Tiszatelek |
 | Tiszavasvári | Újfehértó | Vasmegyer |
 
-16/2. Fehérgyarmati Városi Bíróság
+16/2. Fehérgyarmati Járásbíróság
 
 | Botpalád | Cégénydányád | Csaholc |
 | --- | --- | --- |
@@ -1275,7 +1280,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Uszka | Vámosoroszi | Zajta |
 | Zsarolyán |  |  |
 
-16/3. Kisvárdai Városi Bíróság
+16/3. Kisvárdai Járásbíróság
 
 | Ajak | Anarcs | Benk |
 | --- | --- | --- |
@@ -1292,7 +1297,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tuzsér | Újdombrád | Újkenéz |
 | Záhony | Zsurk |  |
 
-16/4. Mátészalkai Városi Bíróság
+16/4. Mátészalkai Járásbíróság
 
 | Csenger | Csengersima | Csengerújfalu |
 | --- | --- | --- |
@@ -1309,7 +1314,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tiborszállás | Tyukod | Ura |
 | Vaja | Vállaj |  |
 
-16/5. Nyírbátori Városi Bíróság
+16/5. Nyírbátori Járásbíróság
 
 | Balkány | Bátorliget | Encsencs |
 | --- | --- | --- |
@@ -1321,7 +1326,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Ömböly | Penészlek | Piricse |
 | Pócspetri | Szakoly | Terem |
 
-16/6. Vásárosnaményi Városi Bíróság
+16/6. Vásárosnaményi Járásbíróság
 
 | Aranyosapáti | Barabás | Beregdaróc |
 | --- | --- | --- |
@@ -1335,14 +1340,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tiszaszalka | Tiszavid | Tivadar |
 | Vámosatya | Vásárosnamény |  |
 
-16/7. Nyíregyházi Munkaügyi Bíróság
+16/7. Nyíregyházi Közigazgatási és Munkaügyi Bíróság
 
 | Szabolcs-Szatmár-Bereg megye |  |  |
 | --- | --- | --- |
 
-17. Szekszárdi Törvényszék (székhelye: Szekszárd)
+17. SZEKSZÁRDI TÖRVÉNYSZÉK (székhelye: Szekszárd)
 
-17/1. Szekszárdi Városi Bíróság
+17/1. Szekszárdi Járásbíróság
 
 | Alsónána | Alsónyék | Báta |
 | --- | --- | --- |
@@ -1354,7 +1359,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szekszárd | Tengelic | Tolna |
 | Várdomb |  |  |
 
-17/2. Bonyhádi Városi Bíróság
+17/2. Bonyhádi Járásbíróság
 
 | Aparhant | Bátaapáti | Bonyhád |
 | --- | --- | --- |
@@ -1368,7 +1373,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagyvejke | Tevel | Váralja |
 | Závod | Zomba |  |
 
-17/3. Dombóvári Városi Bíróság
+17/3. Dombóvári Járásbíróság
 
 | Attala | Csibrák | Csikóstőttős |
 | --- | --- | --- |
@@ -1378,7 +1383,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Lápafő | Nak | Szakcs |
 | Várong |  |  |
 
-17/4. Paksi Városi Bíróság
+17/4. Paksi Járásbíróság
 
 | Bikács | Bölcske | Dunaföldvár |
 | --- | --- | --- |
@@ -1387,7 +1392,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Németkér | Paks | Pálfa |
 | Pusztahencse | Sárszentlőrinc |  |
 
-17/5. Tamási Városi Bíróság
+17/5. Tamási Járásbíróság
 
 | Belecska | Diósberény | Értény |
 | --- | --- | --- |
@@ -1401,14 +1406,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Tolnanémedi | Udvari | Újireg |
 | Varsád |  |  |
 
-17/6. Szekszárdi Munkaügyi Bíróság
+17/6. Szekszárdi Közigazgatási és Munkaügyi Bíróság
 
 | Tolna megye |  |  |
 | --- | --- | --- |
 
-18. Szombathelyi Törvényszék (székhelye: Szombathely)
+18. SZOMBATHELYI TÖRVÉNYSZÉK (székhelye: Szombathely)
 
-18/1. Szombathelyi Városi Bíróság
+18/1. Szombathelyi Járásbíróság
 
 | Acsád | Alsóújlak | Andrásfa |
 | --- | --- | --- |
@@ -1433,7 +1438,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vasszécseny | Vasszilvágy | Vasvár |
 | Vát | Vép | Zsennye |
 
-18/2. Körmendi Városi Bíróság
+18/2. Körmendi Járásbíróság
 
 | Alsószölnök | Apátistvánfalva | Bajánsenye |
 | --- | --- | --- |
@@ -1458,7 +1463,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szőce | Vasalja | Vasszentmihály |
 | Velemér |  |  |
 
-18/3. Kőszegi Városi Bíróság
+18/3. Kőszegi Járásbíróság
 
 | Bozsok | Bük | Cák |
 | --- | --- | --- |
@@ -1469,7 +1474,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Pusztacsó | Tormásliget | Tömörd |
 | Velem |  |  |
 
-18/4. Sárvári Városi Bíróság
+18/4. Sárvári Járásbíróság
 
 | Bejcgyertyános | Boba | Borgáta |
 | --- | --- | --- |
@@ -1498,39 +1503,38 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Vásárosmiske | Viszák | Vönöck |
 | Zsédeny |  |  |
 
-18/5. Szombathelyi Munkaügyi Bíróság
+18/5. Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
 | Vas megye |  |  |
 | --- | --- | --- |
 
-19. Veszprémi Törvényszék (székhelye: Veszprém)
+19. VESZPRÉMI TÖRVÉNYSZÉK (székhelye: Veszprém)
 
-19/1. Veszprémi Városi Bíróság
+19/1. Veszprémi Járásbíróság
 
 | Alsóörs | Aszófő | Bakonyjákó |
 | --- | --- | --- |
 | Bakonykoppány | Balatonakali | Balatonalmádi |
 | Balatoncsicsó | Balatonfőkajár | Balatonfüred |
 | Balatonfűzfő | Balatonkenese | Balatonszepezd |
-| Balatonszőlős | Balatonudvari | Balatonvilágos |
-| Barnag | Bánd | Berhida |
-| Csajág | Csopak | Dörgicse |
-| Felsőörs | Hajmáskér | Hárskút |
-| Herend | Hidegkút | Királyszentistván |
-| Küngös | Litér | Lovas |
-| Márkó | Mencshely | Monoszló |
-| Nagyvázsony | Nemesvámos | Németbánya |
-| Óbudavár | Örvényes | Ősi |
-| Öskü | Paloznak | Papkeszi |
-| Pécsely | Pétfürdő | Pula |
-| Sóly | Szentantalfa | Szentgál |
-| Szentjakabfa | Szentkirályszabadja | Tagyon |
-| Tés | Tihany | Tótvázsony |
-| Várpalota | Vászoly | Veszprém |
-| Veszprémfajsz | Vilonya | Vöröstó |
-| Zánka |  |  |
+| Balatonszőlős | Balatonudvari | Barnag |
+| Bánd | Berhida | Csajág |
+| Csopak | Dörgicse | Felsőörs |
+| Hajmáskér | Hárskút | Herend |
+| Hidegkút | Királyszentistván | Küngös |
+| Litér | Lovas | Márkó |
+| Mencshely | Monoszló | Nagyvázsony |
+| Nemesvámos | Németbánya | Óbudavár |
+| Örvényes | Ősi | Öskü |
+| Paloznak | Papkeszi | Pécsely |
+| Pétfürdő | Pula | Sóly |
+| Szentantalfa | Szentgál | Szentjakabfa |
+| Szentkirályszabadja | Tagyon | Tés |
+| Tihany | Tótvázsony | Várpalota |
+| Vászoly | Veszprém | Veszprémfajsz |
+| Vilonya | Vöröstó | Zánka |
 
-19/2. Ajkai Városi Bíróság
+19/2. Ajkai Járásbíróság
 
 | Adorjánháza | Ajka | Apácatorna |
 | --- | --- | --- |
@@ -1547,7 +1551,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szőc | Tüskevár | Úrkút |
 | Városlőd | Vid |  |
 
-19/3. Pápai Városi Bíróság
+19/3. Pápai Járásbíróság
 
 | Adásztevel | Bakonyság | Bakonyszentiván |
 | --- | --- | --- |
@@ -1566,7 +1570,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Takácsi | Ugod | Vanyola |
 | Vaszar | Várkesző | Vinár |
 
-19/4. Tapolcai Városi Bíróság
+19/4. Tapolcai Járásbíróság
 
 | Ábrahámhegy | Badacsonytomaj | Badacsonytördemic |
 | --- | --- | --- |
@@ -1589,7 +1593,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Zalagyömörő | Zalahaláp | Zalameggyes |
 | Zalaszegvár |  |  |
 
-19/5. Zirci Városi Bíróság
+19/5. Zirci Járásbíróság
 
 | Bakonybél | Bakonynána | Bakonyoszlop |
 | --- | --- | --- |
@@ -1599,14 +1603,14 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Nagyesztergár | Olaszfalu | Pénzesgyőr |
 | Porva | Szápár | Zirc |
 
-19/6. Veszprémi Munkaügyi Bíróság
+19/6. Veszprémi Közigazgatási és Munkaügyi Bíróság
 
 | Veszprém megye |  |  |
 | --- | --- | --- |
 
-20. Zalaegerszegi Törvényszék (székhelye: Zalaegerszeg)
+20. ZALAEGERSZEGI TÖRVÉNYSZÉK (székhelye: Zalaegerszeg)
 
-20/1. Zalaegerszegi Városi Bíróság
+20/1. Zalaegerszegi Járásbíróság
 
 | Alibánfa | Alsónemesapáti | Babosdöbréte |
 | --- | --- | --- |
@@ -1637,7 +1641,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Zalaszentiván | Zalaszentlőrinc | Zalaszentmihály |
 | Zalatárnok |  |  |
 
-20/2. Keszthelyi Városi Bíróság
+20/2. Keszthelyi Járásbíróság
 
 | Almásháza | Alsópáhok | Balatongyörök |
 | --- | --- | --- |
@@ -1659,7 +1663,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Zalaszentlászló | Zalaszentmárton | Zalavár |
 | Zalavég |  |  |
 
-20/3. Lenti Városi Bíróság
+20/3. Lenti Járásbíróság
 
 | Alsószenterzsébet | Baglad | Barlahida |
 | --- | --- | --- |
@@ -1680,7 +1684,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Szilvágy | Tormafölde | Tornyiszentmiklós |
 | Zalabaksa | Zalaszombatfa | Zebecke |
 
-20/4. Nagykanizsai Városi Bíróság
+20/4. Nagykanizsai Járásbíróság
 
 | Alsórajk | Balatonmagyaród | Bánokszentgyörgy |
 | --- | --- | --- |
@@ -1710,7 +1714,7 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Zalaszabar | Zalaszentbalázs | Zalaszentjakab |
 | Zalaújlak |  |  |
 
-20/5. Zalaegerszegi Munkaügyi Bíróság
+20/5. Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
 
 | Zala megye |  |  |
 | --- | --- | --- |
@@ -1779,3 +1783,43 @@ A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetéke
 | Baranya megye | Somogy megye | Tolna megye |
 | --- | --- | --- |
 | Zala megye |  |  |
+
+### 4. melléklet a 2010. évi CLXXXIV. törvényhez
+
+#### A közigazgatási és munkaügyi regionális kollégiumok és illetékességi területük
+
+- 1. ÉSZAK-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Borsod-Abaúj-Zemplén megye | Heves megye | Nógrád megye |
+| --- | --- | --- |
+| Szabolcs-Szatmár-Bereg megye |  |  |
+
+- 2. ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Békés megye | Csongrád megye | Hajdú-Bihar megye |
+| --- | --- | --- |
+| Jász-Nagykun-Szolnok megye |  |  |
+
+- 3. KÖZÉP-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Bács-Kiskun megye | Pest megye |  |
+| --- | --- | --- |
+|  |  |  |
+
+- 4. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Győr-Moson-Sopron megye | Komárom-Esztergom megye | Vas megye |
+| --- | --- | --- |
+| Veszprém megye | Zala megye |  |
+
+- 5. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Baranya megye | Fejér megye | Somogy megye |
+| --- | --- | --- |
+| Tolna megye |  |  |
+
+- 6. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Budapest főváros |  |  |
+| --- | --- | --- |
+|  |  |  |

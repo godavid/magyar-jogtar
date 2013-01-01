@@ -6,7 +6,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 ### I. Fejezet — Általános rendelkezések
 
-1. § (1) Az épített környezet alakításáról és védelméről szóló törvényben meghatározott építészeti-műszaki tervezési, tervellenőri, településtervezési, valamint építésügyi műszaki szakértői és településrendezési szakértői, továbbá – ha az adott tevékenységet szabályozó külön törvény úgy rendelkezik – más, törvényben vagy eredeti jogalkotói hatáskörben kiadott kormányrendeletben engedélyezéshez kötött, építésüggyel összefüggő tevékenységet (a továbbiakban együtt: mérnöki, illetve építészeti tevékenység) – a (3) és (4) bekezdésben, illetve kormányrendeletben foglaltak kivételével – csak az folytathat, aki az e törvényben szabályozott kamarai tagsággal rendelkezik.
+1. § (1) Az épített környezet alakításáról és védelméről szóló törvényben meghatározott építészeti-műszaki tervezési, településtervezési, valamint építésügyi műszaki szakértői és településrendezési szakértői, továbbá – ha az adott tevékenységet szabályozó külön törvény úgy rendelkezik – más, törvényben vagy eredeti jogalkotói hatáskörben kiadott kormányrendeletben engedélyezéshez kötött, építésüggyel összefüggő tevékenységet (a továbbiakban együtt: mérnöki, illetve építészeti tevékenység) – a (3) és (4) bekezdésben, illetve kormányrendeletben foglaltak kivételével – csak az folytathat, aki az e törvényben szabályozott kamarai tagsággal rendelkezik.
 
 (2) A mérnöki, illetve építészeti tevékenységet a kamara tagja az ország egész területén végezheti.
 

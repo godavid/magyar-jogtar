@@ -602,7 +602,7 @@ kapcsolatos feladatokat és előírásokat.
 
 (4) A fővárosi közgyűlés a környezetvédelmi programja végrehajtásáról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
 
-(5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek. Az e feladat vállalására is kiterjedő többcélú kistérségi társulás, illetve a kistérségi területfejlesztési tanács kistérségi környezetvédelmi programot készíthet.
+(5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek.
 
 48/F. § (1) A területi környezetvédelmi program kidolgozója a program tervezetét az illetékes
 
@@ -615,7 +615,7 @@ véleményezésre megküldi.
 
 (2) A környezetvédelmi hatóság a véleményezésbe bevonja az illetékes környezetvédelmi igazgatási szerveket, a védett természeti területek természetvédelmi kezeléséért felelős szervet, valamint a természetvédelmi, vízügyi hatósági feladatokat ellátó külön szerveket, akik 30 napon belül tájékoztatják véleményükről a hatóságot.
 
-(3) A települési és kistérségi környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális fejlesztési tanácsnak is meg kell küldeni véleményezésre.
+(3) A települési önálló vagy közös környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális területfejlesztési konzultációs fórumnak is meg kell küldeni véleményezésre.
 
 (4) A véleményező szervek szakmai véleményükről hatvan napon belül tájékoztatják a környezetvédelmi program kidolgozóját.
 
@@ -753,7 +753,7 @@ véleményezésre megküldi.
 
 (6) A környezet igénybevétetelével, terhelésével, szennyezésével érintett települési önkormányzat kezdeményezheti a (2) bekezdés a), b) és c) pontja szerinti bevétellel rendelkezni jogosult települési önkormányzatnál a bevétel arányos megosztását a hatásterületen lévő települési önkormányzatok között. Igényének mértékét adatokkal alá kell támasztania.
 
-(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a törvényszék székhelyén működő városi bírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
+(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a törvényszék székhelyén működő járásbírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
 
 ### A környezet használata után fizetendő díjak
 

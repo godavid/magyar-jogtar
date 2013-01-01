@@ -388,7 +388,7 @@ a közvetítői eljárásban
 
 (2) A bírósági közvetítésre a 4–5/A. §, a 6–22. §, a 23. § (1), (2) és (3) bekezdés b) pontja, a 24. §, a 27. §, a 28. § (1) és (3) bekezdése és a 37. § nem alkalmazható.
 
-(3) A felek a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
+(3) A peres vagy nemperes bírósági eljárás felei a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
 
 (4) A bíróság a bírósági közvetítőként eljáró bírósági titkár nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
@@ -402,9 +402,9 @@ a közvetítői eljárásban
 
 39. § Ez a törvény a kihirdetését követő 90. napon lép hatályba.
 
-39/A. § (1) A névjegyzékbe 2010. január 1. napját megelőzően felvett természetes személy a közvetítői szakmai képzés elvégzését legkésőbb 2011. december 31. napjáig köteles igazolni. Ennek hiányában a természetes személyt törölni kell a névjegyzékből.
+39/A. § A névjegyzékbe 2010. január 1. napját megelőzően felvett természetes személy a közvetítői szakmai képzés elvégzését legkésőbb 2013. december 31. napjáig köteles igazolni a miniszternek. Ennek hiányában a természetes személyt törölni kell a névjegyzékből.
 
-(2) Az (1) bekezdés szerinti természetes személy számára – ha a közvetítői szakmai képzés elvégzését 2011. december 31. napjáig igazolta – az első továbbképzési időszak 2012. január 1. napján kezdődik.
+(2) Aki a közvetítői szakmai képzés elvégzését az (1) bekezdés szerint igazolta, annak az első továbbképzési időszak 2014. január 1. napján kezdődik; ha a szakmai képzés elvégzése és 2014. január 1. napja között továbbképzésen vett részt, az továbbképzési kötelezettségének teljesítésébe beszámít.
 
 ### Felhatalmazások
 

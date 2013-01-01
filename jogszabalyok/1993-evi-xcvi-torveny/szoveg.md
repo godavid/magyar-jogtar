@@ -324,7 +324,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (10) Amennyiben a kedvezményezett a (9) bekezdés b) pontjában meghatározott választási lehetőséggel él, a várakozási idejébe be kell számítani az elhunyt pénztártag várakozási idejét is.
 
-(11) Amennyiben a pénztár írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított 30 napon belül nem teszi meg a (9) bekezdés szerinti nyilatkozatot, akkor a pénztárnak úgy kell eljárnia, mintha a kedvezményezett a követelés egyösszegű felvétele mellett döntött volna, és a követelés összegét – az esetlegesen felmerülő költségek és követelések összegével csökkentve – a kedvezményezett javára, annak lakóhelye szerint illetékes helyi bíróságnál a negyedévet követő 50. napig bírói letétbe kell helyeznie.
+(11) Amennyiben a pénztár írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított 30 napon belül nem teszi meg a (9) bekezdés szerinti nyilatkozatot, akkor a pénztárnak úgy kell eljárnia, mintha a kedvezményezett a követelés egyösszegű felvétele mellett döntött volna, és a követelés összegét – az esetlegesen felmerülő költségek és követelések összegével csökkentve – a kedvezményezett javára, annak lakóhelye szerint illetékes járásbíróságnál a negyedévet követő 50. napig bírói letétbe kell helyeznie.
 
 (12) A 14. § (3) bekezdésben szabályozott költséglevonás alkalmazható abban az esetben is, ha a kedvezményezett a (9) bekezdés b) pontja szerint a rá eső részt tagdíjfizetés nélkül a pénztárban hagyja.
 
@@ -1037,7 +1037,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések esetén az átlépés napja a befogadó pénztár befogadó nyilatkozatának napja, azonban a tagi követelések átutalása csak a végelszámolás lezárásával történik meg.
 
-(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével felszólítja a tagokat a (4) bekezdés szerinti nyilatkozat megtételére. Amennyiben a tag a kitűzött időpontig, illetve legkésőbb a végelszámolást lezáró közgyűlés időpontjáig nem nyilatkozik, akkor a követelését a pénztár székhelye szerint illetékes helyi bíróságon bírósági letétbe kell helyezni. Ebben az esetben a letétbe helyezés költségeit a tag követeléséből kell megelőlegezni.
+(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével felszólítja a tagokat a (4) bekezdés szerinti nyilatkozat megtételére. Amennyiben a tag a kitűzött időpontig, illetve legkésőbb a végelszámolást lezáró közgyűlés időpontjáig nem nyilatkozik, akkor a követelését a pénztár székhelye szerint illetékes járásbíróságon bírósági letétbe kell helyezni. Ebben az esetben a letétbe helyezés költségeit a tag követeléséből kell megelőlegezni.
 
 (8) A végelszámolást az arról való döntéstől számított 1 éven belül le kell folytatni. A Felügyelet a pénztár kérésére a határidőt egy alkalommal, legfeljebb 1 évvel meghosszabbíthatja.
 

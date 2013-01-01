@@ -249,7 +249,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 (2) A Katonai Nemzetbiztonsági Szolgálat hivatásos állományú tagjai a Magyar Honvédség állományába tartoznak. Szolgálati viszonyukra a hivatásos katonák szolgálati viszonyára vonatkozó jogszabályokat kell alkalmazni.
 
-(3) A miniszter jogosult munkavégzés céljából a nemzetbiztonsági szolgálatok hivatásos állományú tagját az irányítási feladatok ellátását segítő szervezetbe berendelni.
+(3) A miniszter jogosult munkavégzés céljából a nemzetbiztonsági szolgálatok hivatásos állományú tagját az irányítási feladatok ellátását segítő szervezethez vezényelni.
 
 21. § (1) A nemzetbiztonsági szolgálatok hivatásos állományának szolgálati jogviszonya határozatlan időtartamra létesített különleges szolgálati jogviszony, amelyben a szolgálat függelmi rendben, fokozott veszélyeztetettségben történik.
 
@@ -378,7 +378,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Törvényszék illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.
+(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.
 
 ### A nemzetbiztonsági szolgálatok adatkezelése
 
@@ -656,7 +656,8 @@ tekintetében.
 
 - a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába, illetve – ha a feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, eseti bizottságba jelölt személy,
 - b) az Országgyűlés Hivatalának vezető beosztású munkatársai
-- c) a Független Rendészeti Panasztestület tagjai
+- c) a Független Rendészeti Panasztestület tagjai,
+- d) az Országgyűlési Őrség munkatársai
 
 tekintetében.
 
@@ -928,7 +929,7 @@ Fontos és bizalmas munkakört betöltő személyek:
 - 3. a helyettes államtitkárok és az azonos jogállású állami vezetők,
 - 4. az autonóm államigazgatási szervek, az önálló szabályozó szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
 - 5. központi hivatalok vezetői, valamit a velük azonos jogállású más közszolgálati vezetők,
-- 6. az Országgyűlés Hivatala vezető beosztású munkatársai,
+- 6. az Országgyűlés Hivatala vezető beosztású munkatársai, valamint az Országgyűlési Őrség munkatársai,
 - 7. a Köztársasági Elnök Hivatala vezető beosztású munkatársai,
 - 8. a Miniszterelnökség vezető beosztású munkatársai,
 - 9. a Magyar Honvédség parancsnoka, a vezérkari főnök,

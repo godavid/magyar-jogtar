@@ -4,87 +4,71 @@ a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásme
 
 Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 64. § (6) bekezdésében foglaltak alapján a fővárosi és a kerületi önkormányzatok közötti forrásmegosztás normatív módszereinek szabályozására a következő törvényt alkotja:
 
-1. § A törvény hatálya a fővárosi önkormányzatra és a kerületi önkormányzatokra terjed ki.
+1. § E törvény alkalmazásában a tárgyév azon év, amelyre vonatkozóan a fővárosi önkormányzat és a kerületi önkormányzatok között megosztandó bevételek a forrásmegosztásról szóló közgyűlési rendeletben meghatározásra kerülnek.
 
-2. § A Fővárosi Közgyűlésnek az Ötv. 64. § (4) bekezdésében, valamint a helyi adókról szóló 1990. évi C. törvényben meghatározott, a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek megosztásáról szóló rendeletét az e törvényben foglaltak szerint kell megalkotnia.
+2. § A fővárosi önkormányzatot és a kerületi önkormányzatokat
 
-3. § E törvény alkalmazásában:
+- a) a fővárosi önkormányzat közgyűlésének rendeletével – törvény alapján – a fővárosi önkormányzat által kivetett helyi adóból származó bevétel, valamint
+- b) ha a helyi adókról szóló törvény alapján a kerületi önkormányzat képviselő-testülete előzetes beleegyezését adta ahhoz, hogy az általa kivethető helyi adót a fővárosi önkormányzat közgyűlése vesse ki, a fővárosi önkormányzat közgyűlésének rendelete alapján kivetett helyi adóból származó bevétel és az ahhoz kapcsolódó állami támogatás e törvényben meghatározott szabályok szerint osztottan illeti meg.
 
-- a) Tárgyév: azon gazdasági év, amelyhez tartozó megosztandó bevételeknek a fővárosi önkormányzat és a kerületi önkormányzatok közötti megosztását a forrásmegosztás határozza meg.
-- b) Bázisév: a tárgyévet kettővel megelőző év.
-- c) Normatív hozzájárulás: a központi költségvetésről szóló törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
-- d) Normatív részesedési arány: a fővárosi önkormányzatot és a kerületi önkormányzatokat együttesen megillető – a bázisévi zárszámadási törvénnyel elfogadott – normatív hozzájárulásból a fővárosi önkormányzat és együttesen valamennyi kerületi önkormányzat részesedési aránya, százalékban kifejezve.
-- e) Állandó népesség: a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv nyilvántartása szerinti, a bázisévet követő év január 1-jei állapotnak megfelelően a kerületi önkormányzatok közigazgatási területén állandó lakóhellyel rendelkező természetes személyek száma.
+3. § A fővárosi önkormányzatot és a kerületi önkormányzatokat a 2. § alapján osztottan megillető bevételekből a fővárosi önkormányzatot 51%, a kerületi önkormányzatokat együttesen 49% részesedés illeti meg. A fővárosi önkormányzat az őt megillető 51%-ból 4 százalékpontnak megfelelő összeget a helyi közösségi közlekedési feladat ellátására köteles a tárgyévben fordítani.
 
-4. § Az Ötv. 64. § (4) bekezdésében meghatározott, a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételeket az 5–6. § és az Ötv. 64. § (4a) bekezdése alapján kell megosztani.
+4. § (1) A kerületi önkormányzatokat a 2. § a) pontja alapján a 3. § szerinti mértékben mindösszesen megillető forrás az egyes kerületi önkormányzatok között az 1. melléklet szerinti arányban kerül felosztásra.
 
-5. § (1) A fővárosi önkormányzatot és a kerületi önkormányzatokat az Ötv. 64. § (4) bekezdése szerint osztottan megillető bevételekből 2008. évben a fővárosi önkormányzatot 47%, a kerületi önkormányzatokat együttesen 53% részesedés illeti meg.
+(2) A 2. § b) pontja szerinti helyi adóból származó bevétel és az ahhoz kapcsolódó állami támogatás 3. § szerinti mértékének a helyi adó kivetését a fővárosi önkormányzat közgyűlésének átengedő kerületi önkormányzatok közötti felosztása az 1. mellékletben ezen kerületek sorában szereplő mértékek arányában történik.
 
-(2) A normatív részesedési arány változása esetén a tárgyévet megelőző évi – az (1) bekezdés szerint meghatározott – forrásmegosztási részesedést a normatív részesedési arány százalékpontban meghatározott változása 60%-ának megfelelő mértékben – de legfeljebb 5%-kal – a tárgyévben korrigálni kell.
+5. § (1) A fővárosi önkormányzat a tárgyévre vonatkozó forrásmegosztási rendeletének tervezetét a kerületi önkormányzatok részére – véleményezés céljából – a tárgyév január 10-éig küldi meg. A véleményezésre a kerületi önkormányzatoknak legalább tizenöt napot kell biztosítani. A fővárosi önkormányzat közgyűlése a forrásmegosztási rendeletet a tárgyév január 31-éig lépteti hatályba.
 
-6. § Az 5. § (1)–(2) bekezdése szerint számított részesedés alapján a kerületeket mindösszesen megillető forrásokat a kerületi önkormányzatok között az alábbiak szerint kell felosztani:
+(2) A tárgyévi forrásmegosztási rendelet hatálybalépéséig a fővárosi önkormányzatot és a kerületi önkormányzatokat a 2. § szerinti osztott bevételekből származó összeg 3–4. §-ok alapján számított mértéke illeti meg. A tárgyévre vonatkozóan elfogadott forrásmegosztási rendeletben megállapított tárgyévi összegek (3) bekezdés szerinti utalása során a tárgyévre vonatkozó forrásmegosztási rendelet elfogadását megelőzően megosztott bevételre figyelemmel kell lenni.
 
-- a) a kerületi önkormányzatokat az idegenforgalmi adó és a hozzá kapcsolódó normatív hozzájárulás nélkül megillető források felosztásakor azon feladatok önkormányzati költségvetési beszámoló szerinti bázisévi működési kiadásaiból, amelyekhez a központi költségvetés normatív hozzájárulást nyújt, le kell vonni a kiadásokhoz kapcsolódó normatív hozzájárulás összegét, és a forrásokból az így adódó különbséggel (a működési hiánnyal) megegyező összeget a normatív hozzájárulások arányában kell megosztani az összes kerületi önkormányzat között,
-- b) az a) pont szerint számított felosztandó forráson felüli rész 40%-át az állandó népesség, 15%-át a belterületi terület, 15%-át a kerület állandó népességének és a belterületi terület nagyságának hányadosa, 15%-át a 2005. év végén az önkormányzati tulajdonban lévő félkomfortos, komfort nélküli és szükséglakások együttes alapterülete és 15%-át a 2005. év végén az önkormányzat területén levő iparosított technológiával épült lakások darabszáma arányában kell megosztani az önkormányzatok között; a számításokban felhasználandó belterületiterület-, valamint lakásadatokat a Melléklet tartalmazza,
-- c) az állandó népesség b) pont szerinti súlya évente 2 százalékponttal növekszik, a lakás alapterületé és az iparosított technológiával épült lakások darabszámáé pedig 1-1 százalékponttal csökken,
-- d) az egyes kerületi önkormányzatoknak az a)–c) pont szerint számított részesedési aránya a megosztott forrásokból a tárgyévet megelőző év forrásmegosztásához képest maximum 2%-kal nőhet, illetve csökkenhet; a módszer alkalmazása miatt bekövetkező eltérések a forrásmegosztás során az egyes önkormányzatok részesedését növelik vagy csökkentik,
-- e) a kerületi önkormányzatokat megillető idegenforgalmi adó és a hozzá kapcsolódó normatív hozzájárulás összegét a saját közigazgatási területükön a tárgyévben idegenforgalmi adót ki nem vető kerületi önkormányzatok között bázisévi normatív hozzájárulásaik arányában kell megosztani.
+(3) A fővárosi önkormányzat a kerületi önkormányzatokat megillető osztott, tárgyhónapban befolyt bevétel 3–4. §-ok szerint számított hányadát havi rendszerességgel a tárgyhót követő hónap 10. napjáig utalja át.
 
-7. § (1) Az e törvény szerinti forrásmegosztás elvégzéséhez szükséges, a kerületi önkormányzati költségvetési beszámolókban szereplő, a kincstár által elfogadott adatokat a fővárosi önkormányzat feldolgozza és kiküldi az önkormányzatoknak ellenőrzés céljából a tárgyévet megelőző év október 31. napjáig. A kerületi önkormányzatok az adatellenőrzésnek a tárgyévet megelőző év november 15. napjáig tesznek eleget.
+6. § (1) A fővárosi önkormányzat tárgyévre vonatkozó hatályos forrásmegosztási rendeletét az Állami Számvevőszék felülvizsgálja. Az Állami Számvevőszék a forrásmegosztási rendeletben szereplő adatok megalapozottságának és az ennek alapjául szolgáló számítások helyességének vizsgálatába könyvvizsgálót vonhat be.
 
-(2) A fővárosi önkormányzat a tárgyévre vonatkozó rendelettervezetét a kerületi önkormányzatok részére – véleményezés céljából – január 10-éig küldi meg, a véleményezésre a kerületi önkormányzatoknak legalább tizenöt napot biztosítani kell. A fővárosi közgyűlés rendeletét január 31-éig alkotja meg.
+(2) Ha az (1) bekezdés szerinti felülvizsgálat megállapítja, hogy a forrásmegosztás során a fővárosi önkormányzat vagy valamely kerületi önkormányzat jogosulatlanul forráshoz jutott vagy az őt jogszerűen megillető forrásnál alacsonyabb összegben részesült, ennek mértékével az e törvény alapján meghatározott, a felülvizsgálat lezárását követő évi forrásmegosztást a fővárosi önkormányzat rendeletében módosítja.
 
-(3) A megosztott forrásokból az egyes kerületi önkormányzatokat havonta, a tárgyhót követő hónap 10. napjáig illeti meg a tárgyhónapban befolyt ezen források 5. § és 6. § szerint számított hányada.
+7. § Felhatalmazást kap a fővárosi önkormányzat képviselő-testülete, hogy a tárgyévre vonatkozóan a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek összegét rendeletben határozza meg.
 
-(4) A tárgyévi forrásmegosztási rendelet kihirdetéséig a megelőző évi rendeletben meghatározott hányadok alapján kell a forrásokat megosztani, amelyet az elfogadott forrásmegosztási rendeletben szabályozott módon visszamenőleg korrigálni kell.
-
-8. § (1) A fővárosi önkormányzat tárgyévre vonatkozó forrásmegosztási rendeletét az Állami Számvevőszék felülvizsgálja. Az Állami Számvevőszék az adatok megalapozottságának és az ennek alapjául szolgáló számítások helyességének vizsgálatába könyvvizsgálót vonhat be. A könyvvizsgáló nem lehet azonos az Ötv. 92/A. §-ában meghatározott feladatra megbízott könyvvizsgálóval.
-
-(2) Amennyiben a felülvizsgálat megállapítja, hogy a forrásmegosztás során alkalmazott adatok, vagy a számítások helytelensége miatt a fővárosi önkormányzat vagy valamely kerületi önkormányzat jogosulatlan forráshoz jutott, vagy a jogszerűen járó forrásnál alacsonyabb összegben részesült, ezzel az összeggel a hiba feltárását követő évben az 5–6. § alkalmazása eredményeként kialakult forrásmegosztást módosítani kell.
+8. §
 
 ### Záró rendelkezések
 
-9. § (1) E törvény kihirdetését követően a fővárosi önkormányzat 5 munkanapon belül megküldi a kerületi önkormányzatoknak a 2007. évi forrásmegosztás elvégzéséhez szükséges, a kerületi önkormányzati költségvetési beszámolókban szereplő fővárosi önkormányzat által kigyűjtött adatokat ellenőrzés céljából, melyet a kerületi önkormányzatok az ellenőrzést követően 5 munkanapon belül visszaküldenek.
+9. § (1)–(3)
 
-(2) A törvény 6. § (4) és 7. § (4) bekezdése szerinti előző évi forrásmegosztásnál 2007-ben a 2006. évi eredeti forrásmegosztást kell figyelembe venni.
-
-(3) A törvény 5. §-ának (2) bekezdését, valamint 6. §-ának (3) bekezdését első alkalommal a 2009. évi forrásmegosztásnál kell alkalmazni.
-
-(4) A törvény 3. § c) pontját az 5. § (2) bekezdés vonatkozásában alkalmazni kell a 2010. évi forrásmegosztás 2011. évi korrekciója során is.
+(4)
 
 (5) E törvény a kihirdetése napján lép hatályba.
 
-10. § E törvénynek a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény módosításáról szóló 2012. évi LVIII. törvénnyel megállapított 3. § c) pontját, 4. §-át és 6. §-át a 2011. évi forrásmegosztási rendelet felülvizsgálata és a 2012. évi forrásmegosztás során is figyelembe kell venni.
+10. §
 
 ### Melléklet a 2006. évi CXXXIII. törvényhez
 
-A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek
+#### A kerületi önkormányzatok egymás közötti részesedési arányai
 
-felosztásához használt tényezők értéke 2005-ben
-
-|  | Belterületi terület nagysága (ha) | Önkormányzati tulajdonban levő félkomfortos, komfort nélküli és szükséglakások együttes alapterülete (m2) | Önkormányzat területén iparosított technológiával épült lakások darabszáma |
-| --- | --- | --- | --- |
-| I. kerület | 341 | 6 492 | 461 |
-| II. kerület | 2 265 | 9 435 | 2 577 |
-| III. kerület | 3 100 | 15 880 | 36 613 |
-| IV. kerület | 1 704 | 25 163 | 28 123 |
-| V. kerület | 259 | 8 725 | 173 |
-| VI. kerület | 238 | 33 753 | – |
-| VII. kerület | 209 | 84 615 | 105 |
-| VIII. kerület | 685 | 134 977 | 4 714 |
-| IX. kerület | 1 253 | 120 599 | 9 219 |
-| X. kerület | 2 895 | 38 036 | 19 656 |
-| XI. kerület | 2 838 | 17 765 | 27 371 |
-| XII. kerület | 1 574 | 11 695 | 1 033 |
-| XIII. kerület | 1 344 | 97 697 | 23 072 |
-| XIV. kerület | 1 813 | 48 607 | 22 289 |
-| XV. kerület | 1 765 | 14 016 | 20 500 |
-| XVI. kerület | 2 407 | 5 035 | 6 324 |
-| XVII. kerület | 2 459 | 2 119 | 8 249 |
-| XVIII. kerület | 3 226 | 15 769 | 13 612 |
-| XIX. kerület | 938 | 7 940 | 11 996 |
-| XX. kerület | 1 122 | 9 323 | 9 240 |
-| XXI. kerület | 2 302 | 8 422 | 16 968 |
-| XXII. kerület | 2 542 | 7 378 | 5 658 |
-| XXIII. kerület | 1 326 | 1 265 | 690 |
-| Összesen: | 38 605 | 724 706 | 268 643 |
+|  | A | B |
+| --- | --- | --- |
+| 1 | Kerületi önkormányzat megnevezése | Részesedési arányok (%) |
+| 2 | I. kerületi önkormányzat | 1,54229750 |
+| 3 | II. kerületi önkormányzat | 5,07622909 |
+| 4 | III. kerületi önkormányzat | 7,22624018 |
+| 5 | IV. kerületi önkormányzat | 6,11004338 |
+| 6 | V. kerületi önkormányzat | 1,40816157 |
+| 7 | VI. kerületi önkormányzat | 2,51692804 |
+| 8 | VII. kerületi önkormányzat | 3,31902329 |
+| 9 | VIII. kerületi önkormányzat | 3,80946081 |
+| 10 | IX. kerületi önkormányzat | 3,61965731 |
+| 11 | X. kerületi önkormányzat | 4,71307384 |
+| 12 | XI. kerületi önkormányzat | 7,28511820 |
+| 13 | XII. kerületi önkormányzat | 2,98544811 |
+| 14 | XIII. kerületi önkormányzat | 6,06949128 |
+| 15 | XIV. kerületi önkormányzat | 7,04585324 |
+| 16 | XV. kerületi önkormányzat | 5,12986946 |
+| 17 | XVI. kerületi önkormányzat | 4,16786632 |
+| 18 | XVII. kerületi önkormányzat | 4,73956940 |
+| 19 | XVIII. kerületi önkormányzat | 6,59426818 |
+| 20 | XIX. kerületi önkormányzat | 3,47808963 |
+| 21 | XX. kerületi önkormányzat | 3,58665199 |
+| 22 | XXI. kerületi önkormányzat | 4,88600440 |
+| 23 | XXII. kerületi önkormányzat | 3,27164242 |
+| 24 | XXIII. kerületi önkormányzat | 1,41901236 |
+| 25 | Kerületi önkormányzatok összesen | 100,00000000 |

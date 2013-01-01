@@ -1110,7 +1110,7 @@ nem haladhatja meg.
 
 ### Az elkövetők
 
-122. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+122. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) E törvény rendelkezéseit a katonákra a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
 
@@ -1237,7 +1237,7 @@ büntetés mellett szabható ki.
   - g) a helyi önkormányzati testületek tagja;
   - h) a közjegyző és a közjegyzőhelyettes;
   - i) az önálló bírósági végrehajtó és az önálló bírósági végrehajtó-helyettes;
-  - j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál és az Alapvető Jogok Biztosának Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
+  - j) az Alkotmánybíróságnál, bíróságnál, ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál és az Országgyűlési Őrségnél szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - k)
   - l) jogszabály alapján közhatalmi, államigazgatási feladatokkal megbízott szervnél, testületnél az a személy, aki közhatalmi, államigazgatási feladatot lát el,
 - 2. közfeladatot ellátó személy:
@@ -1493,6 +1493,7 @@ bűntettet követ el, és tíz évtől húsz évig terjedő vagy életfogytig ta
 - c) az 1984. évi 2. törvényerejű rendelettel kihirdetett, a „Mértéktelen sérülést okozónak vagy megkülönböztetés nélkül hatónak tekinthető egyes hagyományos fegyverek alkalmazásának betiltásáról, illetőleg korlátozásáról” szóló, Genfben, az 1980. évi október hó 15. napján kelt egyezményhez csatolt 1. I. Jegyzőkönyvben meghatározott röntgensugárral ki nem mutatható repesszel sérülést okozó fegyvert, 2. az 1997. évi CXXXIII. törvénnyel kihirdetett II. Módosított Jegyzőkönyv 2. Cikkének 1–5. pontjában meghatározott aknát, távtelepítésű aknát, gyalogság elleni aknát, meglepő aknát és más eszközt, 3. III. Jegyzőkönyv 1. Cikkének 1. pontjában meghatározott gyújtófegyvert, 4. IV. jegyzőkönyv I. Cikkében meghatározott vakító lézerfegyvert,
 - d) az 1997. évi CIV. törvénnyel kihirdetett, a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény II. Cikkének 1. és 7. pontjában meghatározott vegyifegyvert vagy vegyi kényszerítő eszközt,
 - e) az 1998. évi X. törvénnyel kihirdetett Gyalogsági aknák alkalmazásának, felhalmozásának, gyártásának és átadásának betiltásáról, illetőleg megsemmisítéséről szóló, Oslóban, 1997. szeptember 18-án elfogadott egyezmény 2. Cikkének 1. pontjában meghatározott gyalogsági aknát.
+- f) a 2012. évi XI. törvénnyel kihirdetett, a Kazettás Lőszerekről szóló Egyezmény 2. Cikk 2. pontjában meghatározott kazettás lőszert, valamint 2. Cikk 13. pontjában meghatározott kisméretű ejtőlőszert.
 
 ### Kulturális javak nemzetközi védelmének megsértése
 

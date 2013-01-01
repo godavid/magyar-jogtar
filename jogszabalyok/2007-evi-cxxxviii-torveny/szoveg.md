@@ -439,17 +439,17 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 ### VI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZEMÉLYI FELTÉTELEI
 
-22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni, aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni, aki hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (2) Fióktelep formájában működő befektetési vállalkozás – ide nem értve a más EGT-államban székhellyel rendelkező befektetési vállalkozás fióktelepét – vezető állású személyei között legalább egy olyan magyar állampolgárságú, devizabelföldi személynek kell lennie, aki legalább egy éve állandó belföldi lakóhellyel rendelkezik.
 
 (3) A befektetési vállalkozás a működésének és tevékenysége végzésének irányítására a vezető állású személyek közül első számú vezetőt nevez ki.
 
-(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (5) Az (1) és a (4) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni: Btk. XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények.
 
-23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik, és aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján bizonyítja, hogy a 22. § (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján bizonyítja, hogy a 22. § (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 24. § (1) A 22. § (1) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
 
@@ -697,7 +697,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 - j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatokat,
 - k) a minősített befolyás megszerzése következtében a befektetési vállalkozással szoros kapcsolatba kerülő természetes személy hozzájárulását a személyes adatainak az összevont alapú, vagy a kiegészítő felügyelet érdekében történő kezeléséhez.
 
-(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -706,7 +706,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 - a) akinek tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása nem veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását,
 - b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete a felügyeleti tevékenységet nem akadályozza,
 - c) aki jó üzleti hírnévvel rendelkezik,
-- d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja.
+- d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt hatósági bizonyítvány útján igazolja.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
@@ -2202,7 +2202,7 @@ teszi közzé.
 
 116. § (1) Természetes személy függő ügynök az lehet, aki
 
-- a) a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
+- a) hatósági bizonyítvány útján igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
 - b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
 - c) ellen a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
 

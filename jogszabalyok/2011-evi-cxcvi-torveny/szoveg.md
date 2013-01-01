@@ -79,7 +79,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - h) az 1. mellékletben meghatározott országos törzshálózati vasúti pályák és azok tartozékai,
 - i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - j) a barlang,
-- k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat.
+- k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat,
 - l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
@@ -241,9 +241,14 @@ jóváhagyó határozata szükséges.
 
 (13) Nemzeti vagyon ingyenesen kizárólag közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben hasznosítható, valamint adható vagyonkezelésbe.
 
-(14)
+(14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.
 
-(15)
+(15) A (14) bekezdésben foglalt tilalom nem vonatkozik arra az esetre, ha:
+
+- a) törvény vagy kormányrendelet az érintett központi költségvetési szerv kötelező alapfeladataként nevesíti a (14) bekezdésben megjelölt tevékenységeket;
+- b) az ingatlan az Országgyűlés Hivatala vagyonkezelésében van, vagy a (14) bekezdésben meghatározott tevékenység összefügg az Országgyűlés Hivatala vagyonkezelésében lévő ingatlan fejlesztését szolgáló beruházással;
+- c) az állami tulajdonú ingatlant használó központi költségvetési szerv számára a (14) bekezdésben megjelölt tevékenység végzését az arra jogosult központi költségvetési szervvel vagy az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló szervvel kötött szerződése lehetővé teszi; vagy
+- d) központi költségvetési szerv Magyarország függetlenségének, területi épségének, nemzetközi szerződésekben rögzített határainak, lakosságának és anyagi javainak védelme mint kötelező alapfeladat ellátásához törvény által rendelkezésre bocsátott ingatlant érintően végzi a (14) bekezdésben megjelölt tevékenységeket.
 
 (16) Törvényben, valamint a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében törvényben vagy a helyi önkormányzat rendeletében meghatározott értékhatár feletti nemzeti vagyont hasznosítani – ha törvény kivételt nem tesz – csak versenyeztetés útján, az összességében legelőnyösebb ajánlatot tevő részére, a szolgáltatás és ellenszolgáltatás értékarányosságával lehet.
 
@@ -278,12 +283,12 @@ javára történik.
 
 - a) a helyi közutak és műtárgyaik létrehozása és működtetése,
 - b) a helyi önkormányzat tulajdonába tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
-- c) a menetrend szerinti helyi személyszállítás,
+- c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetrend szerinti helyi különcélú személyszállítási szolgáltatás,
 - d) a törzsvagyon részét képező helyi közművek létrehozása és működtetése,
 - e) a törzsvagyon részét képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
 - f) a helyi önkormányzat kizárólagos tulajdonában álló – külön törvény rendelkezése alapján részére átadott – vizek, közcélú vízi létesítmények működtetése.
 
-(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–j) pontja esetén az állam, a (2) bekezdés a)–b), d)–e) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
+(3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–k) pontja esetén az állam, a (2) bekezdés a)–b), d)–e) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
 
 (4) Az állam kizárólagos tulajdonában álló Szent Korona és a hozzá tartozó jelvények használata másnak nem engedhető át. A Szent Korona és a hozzá tartozó jelvények őrzésére, szállítására, tárolására kizárólag az állam és költségvetési szerv jogosult külön jogszabályban rögzített feltételek szerint.
 
@@ -479,11 +484,17 @@ sarkalatosnak minősül.
 
 25. § (1)
 
-(2)
+(2) Az állami vagyonról szóló 2007. évi CVI. törvény 17. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az állami vagyon feletti tulajdonosi joggyakorló köteles a Kormány rendeletében meghatározott adattartalommal és módon adatszolgáltatást nyújtani az MNV Zrt. részére.
 
 (3)–(8)
 
-(9)
+(9) Az állami vagyonról szóló 2007. évi CVI. törvény 71. §-a a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.”
 
 #### 26–27. §
 

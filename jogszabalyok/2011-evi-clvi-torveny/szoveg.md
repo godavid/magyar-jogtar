@@ -228,11 +228,43 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 232–249. §
 
-250. §
+250. § (1) Az Szt. 151. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A mérlegképes könyvelői képesítéssel rendelkezők, valamint az okleveles könyvvizsgálói képesítéssel rendelkező nem kamarai tagok)
+
+„b) részére az a) pont szerinti kérelem alapján a könyvviteli szolgáltatás végzésére jogosító engedélyt meg kell adni, és egyidejűleg őket a (3) bekezdés szerinti nyilvántartásba fel kell venni, ha
+
+ba) mérlegképes könyvelői vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
+
+bb) a ba) alpont szerinti szakképesítés megszerzését követően, az a) pont szerinti kérelem benyújtását megelőzően legalább 3 éves, dokumentumokkal alátámasztott számviteli, pénzügyi, vagy ellenőrzési gyakorlattal rendelkeznek,
+
+bc) büntetlen előéletűek, és nem állnak a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, valamint
+
+bd) igazolják, hogy az a) pont szerinti kérelem benyújtását megelőző 12 hónapban – a kérelemben megjelölt szakterületre előírt – a 152. § (1) bekezdés szerinti továbbképzési kötelezettséget megfelelően teljesítették.”
+
+(2) Az Szt. 151. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
+
+a) az engedély visszavonását követően, ha arra a (6) bekezdés a) pontja miatt,
+
+b) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli mentesülést követően, ha az engedély visszavonására a (6) bekezdés b) pontja miatt,
+
+c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha az engedély visszavonására a (6) bekezdés c) pontja miatt,
+
+d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
+
+e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
+
+f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt
+
+került sor.”
 
 251–254. §
 
-255. § (1)
+255. § (1) Az Szt. 177. §-a a következő (22) bekezdéssel egészül ki:
+
+„(22) Azoknak a tevékenység-engedélyezési eljárása során, akik korábban a 151. § (1) bekezdése szerinti tevékenységi engedéllyel nem rendelkeztek, a 151. § (5) bekezdés b) pont bd) alpontja szerinti rendelkezéseket csak a 2014. december 31-ét követően benyújtott kérelmek vonatkozásában kell alkalmazni.”
 
 (2)
 
@@ -274,7 +306,17 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 #### 20. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosítása
 
-277–278. §
+277. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) IX. fejezete a következő alcímmel és 69/F. §-sal egészül ki:
+
+„A közérdeklődésre számot tartó hitelintézetre vonatkozó előírások
+
+69/F. § (1) Közérdeklődésre számot tartó hitelintézetnek minősül a nyilvános részvénytársasági formában működő hitelintézet és az a hitelintézet, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszáz milliárd forintot.
+
+(2) A közérdeklődésre számot tartó hitelintézetnek a Gt. 311. §-a szerinti audit bizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén ahol a Gt. részvénytársaságot és közgyűlést említ, ott az (1) bekezdés szerinti hitelintézetet és annak legfőbb szervét kell érteni.
+
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó hitelintézet rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek, és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó hitelintézetnek ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésben foglaltakat, továbbá a testület összetételét.”
+
+278. § Hatályát veszti a Hpt. 66. § (8) bekezdése.
 
 #### 21. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -294,11 +336,43 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 296. § (1)–(5)
 
-(6)
+(6) Az Art. Adóbevallás alcíme a következő 31/B. §-sal egészül ki:
+
+„31/B. § (1) Az általános forgalmi adó alanya termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, amelyekben az áthárított általános forgalmi adó összege a 2 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő általános forgalmiadó bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
+
+a) a terméket értékesítő, szolgáltatást nyújtó általános forgalmiadó-alany – ideértve az egyszerűsített vállalkozói adóalanyt is – adószámának, csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+
+b) a nevére szóló számlában feltüntetett általános forgalmi adó alapjáról és áthárított általános forgalmi adó összegéről, a számla sorszámáról, valamint
+
+c) a számlában az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
+
+(2) Az általános forgalmi adó alanya termék értékesítése, szolgáltatás nyújtása esetén azon számlákról, amelyekben egy másik, belföldön nyilvántartásba vett általános forgalmi adó alanyra áthárított általános forgalmi adó összege a 2 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő általános forgalmiadó bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számlában feltüntetett adót meg kell állapítania, számlánként nyilatkozni köteles:
+
+a) a terméket beszerző, szolgáltatást igénybe vevő általános forgalmiadó-alany adószámának, csoportos általános forgalmi adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+
+b) a kibocsátott számlában feltüntetett általános forgalmi adó alapjáról és áthárított általános forgalmi adó összegéről, a számla sorszámáról, valamint
+
+c) a számlában az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
+
+(3) Amennyiben az általános forgalmi adó alanya ugyanabban az adómegállapítási időszakban ugyanazon termékértékesítő vagy szolgáltatást nyújtó által kibocsátott több számlában – ideértve a számlával egy tekintet alá eső okiratot is – áthárított adó tekintetében gyakorol összesen 2 000 000 forintot elérő vagy ezt meghaladó összegben adólevonási jogot, úgy az erről az adómegállapítási időszakról benyújtott általános forgalmiadó bevallásában nyilatkozik:
+
+a) a termékértékesítő vagy szolgáltatást nyújtó általános forgalmiadó-alany – ideértve az egyszerűsített vállalkozói adó alanyát is – adószámának, csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegyéről, és
+
+b) ezen számlákban feltüntetett, áthárított általános forgalmi adó összegéről.
+
+(4) Számla módosítása esetén a számlát módosító okiratot kiállító és az azt befogadó általános forgalmiadó-alany abban a bevallásban, amelyben a módosítás hatását figyelembe veszi, akkor köteles a módosított számlát érintően az (1)–(2) bekezdés szerint nyilatkozni, ha a számlában áthárított általános forgalmi adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja a 2 000 000 forintot. Ebben az esetben az általános forgalmi adó alanya nyilatkozik annak a számlának az (1)–(2) bekezdésben meghatározott adatairól, amelyet a módosítás érint, a módosítás számszaki hatásáról az általános forgalmiadó alap és áthárított általános forgalmi adó tekintetében, valamint a számlát módosító okirat sorszámáról.
+
+(5) Számla érvénytelenítése esetén a számlát érvénytelenítő okiratot kiállító és az azt befogadó általános forgalmiadó-alany, amennyiben az érvénytelenített számlában – ideértve a módosított számlát is – áthárított általános forgalmi adó összege elérte vagy meghaladta a 2 000 000 forintot, abban a bevallásban, amelyben az érvénytelenítés hatását figyelembe veszi, köteles a számlát érintően az (1)–(2) bekezdés szerinti adatokról, valamint a számlát érvénytelenítő okirat sorszámáról nyilatkozni.
+
+(6) Az egyszerűsített vállalkozói adó alanya az általa kibocsátott számlák tekintetében a (2) és (4)–(5) bekezdésnek megfelelően, arról az adóévről benyújtott egyszerűsített vállalkozói adó bevallásban – az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 11. § (5) bekezdés alkalmazása esetén a becslésre irányuló adóhatósági eljárás során – nyilatkozik, amelyben a számlát kiállította.
+
+(7) A 34. § és a 172. § alkalmazásában az (1)–(6) bekezdés szerinti nyilatkozatra (általános forgalmi adó összesítő jelentés) a bevallásra vonatkozó rendelkezéseket kell alkalmazni.”
 
 297–352. §
 
-353. §
+353. § Az Art. 175. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adóhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési tárgyú kérelmének előterjesztését elektronikus úton teljesíti.”
 
 354. § (1)–(3)
 
@@ -320,7 +394,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - 5.
 - 6–18.
 
-(3)
+(3) Az Art. 17. § (5) bekezdésében az „A 31. § (2) bekezdése szerinti bevallás, illetőleg adatszolgáltatás, illetve az összesítő nyilatkozat benyújtására kötelezett adózó” szövegrész helyébe az „A 175. § (9) bekezdés szerint bevallási kötelezettségét elektronikus úton teljesíteni köteles adózó” szöveg lép.
 
 (4)
 
@@ -516,8 +590,10 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - a) a kifizetőnek a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel, vagy azzal összefüggésben a természetes személy részére juttatott, kifizetett, a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső nem önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem, növelve a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj összegével;
 - b) a kifizetőnek a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel, vagy azzal összefüggésben a természetes személy részére juttatott, kifizetett, a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem;
 - c) a tanulószerződésben meghatározott díj;
-- d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető nevelési díj;
-- e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott személyi alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában személyi alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi személyi alapbér.
+- d) a hivatásos nevelőszülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint megillető hivatásos nevelőszülői díj;
+- e) az a)–b) pont hatálya alá tartozó juttatás hiányában az adófizetési kötelezettséget eredményező munkaviszonyt, vagy más jogviszonyt szabályozó munkaszerződésben, illetőleg más szerződésben meghatározott alapbér, illetőleg díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér a munkaszerződés alapján fizetett (juttatott), az adott munkakörben foglalkoztatott kiküldetését megelőző évi havi átlagos alapbére, ennek hiányában a tárgyhavi alapbér.
+
+(1a) Ha a kifizető a természetes személlyel fennálló adófizetési kötelezettséget eredményező jogviszonya alapján ugyanazon adó-megállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is kifizet (juttat), az adóalap megállapításánál az (1) bekezdés a)–b) és e) pontját együttesen kell alkalmazni, azzal az eltéréssel, hogy az (1) bekezdés e) pontjának alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 
 (2) Adófizetési kötelezettséget eredményező jogviszony:
 
@@ -527,12 +603,12 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszony;
 - e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján fennálló jogviszony;
 - f) az egyház és az egyházi szolgálatot teljesítő egyházi személy között fennálló, az egyházi szolgálat teljesítése alapjául szolgáló jogviszony;
-- g) a szerzetesrend és a tagja között fennálló tagi jogviszony;
-- h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó jogviszony.
+- g)
+- h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–f) pont hatálya alá nem tartozó olyan jogviszony, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
 (3) Nem eredményez adófizetési kötelezettséget
 
-- a) a (2) bekezdés c)–d), f)–g) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
+- a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
 - b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony.
 
 (4) A kifizetőt terhelő adónak nem alapja:
@@ -540,7 +616,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - a) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagja részére kifizetett, juttatott bevétel;
 - b) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagja által munkaviszony keretében háztartási alkalmazottként foglalkoztatott külföldi állampolgár részére kizárólag e jogviszonyára tekintettel, vagy azzal összefüggésben kifizetett, juttatott bevétel;
 - c) a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselője, alkalmazottja részére kifizetett, juttatott bevétel;
-- d) a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásba bejegyzésre kötelezett más hasonló telephellyel nem rendelkező kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott személyi alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt;
+- d) a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásba bejegyzésre kötelezett más hasonló telephellyel nem rendelkező kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt;
 - e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 - f) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, földrajzi árujelzők oltalma, mintaoltalom alatt álló mű, alkotás, valamint az újítás hasznosítására irányuló felhasználási, hasznosítási, használati szerződés alapján a vagyoni jog (védelem alatt álló jog, oltalmi jog) felhasználásának ellenértékeként kifizetett díj;
 - g) a késedelmes teljesítéshez kapcsolódó kamat;
@@ -562,13 +638,13 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 457. § (1) A közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjával fennálló adófizetési kötelezettséget eredményező jogviszonyára tekintettel havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja legalább az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér 112,5 százalékának harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
 
-(2) Az egyházat és a szerzetesrendet az egyházi személlyel, illetőleg a tagjával fennálló adófizetési kötelezettséget eredményező jogviszonyra tekintettel havonta terhelő adó alapja a minimálbér. Az adó alapja az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
+(2) Az egyházat az egyházi személlyel fennálló adófizetési kötelezettséget eredményező jogviszonyra tekintettel havonta terhelő adó alapja a minimálbér. Az adó alapja az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
 
 (3) Az egyéni vállalkozót saját maga után havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja az egyéni vállalkozói jogállás fennállása minden napjára számítva legalább a minimálbér 112,5 százalékának harmincad része, ha a természetes személy e jogállással nem rendelkezik a hónap minden napján.
 
 (4) A mezőgazdasági őstermelőt saját maga után havonta terhelő adó alapja a minimálbér. Az adó alapja a mezőgazdasági őstermelői jogállás fennállása minden napjára számítva a minimálbér harmincad része, ha a természetes személy e jogállással nem rendelkezik a hónap minden napján, vagy más okból nem minősül az adó alanyának a hónap minden napján.
 
-(5) Az (1)–(4) bekezdés alkalmazásakor az egy hónapra fizetendő adó alapjának megállapításkor a kifizető, valamint az egyéni vállalkozó, a mezőgazdasági őstermelő nem veszi számításba a hónapnak azt a napját, amelyre az adófizetési kötelezettséget eredményező jogviszonyára, illetőleg egyéni vállalkozói, mezőgazdasági őstermelői jogállására tekintettel e fejezet külön rendelkezése alapján mentesül az adófizetés különös szabályainak alkalmazása alól. Ilyen esetben az adó alapja a hónap többi napjára számítva egyház és szerzetesrend, valamint mezőgazdasági őstermelő esetében a minimálbér harmincad része, más kifizető és egyéni vállalkozó esetében legalább minimálbér 112,5 százalékának harmincad része.
+(5) Az (1)–(4) bekezdés alkalmazásakor az egy hónapra fizetendő adó alapjának megállapításkor a kifizető, valamint az egyéni vállalkozó, a mezőgazdasági őstermelő nem veszi számításba a hónapnak azt a napját, amelyre az adófizetési kötelezettséget eredményező jogviszonyára, illetőleg egyéni vállalkozói, mezőgazdasági őstermelői jogállására tekintettel e fejezet külön rendelkezése alapján mentesül az adófizetés különös szabályainak alkalmazása alól. Ilyen esetben az adó alapja a hónap többi napjára számítva egyház, valamint mezőgazdasági őstermelő esetében a minimálbér harmincad része, más kifizető és egyéni vállalkozó esetében legalább minimálbér 112,5 százalékának harmincad része.
 
 ### Mentesülés a különös szabályok alkalmazása alól
 
@@ -643,7 +719,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
   - ab) az aa) alpont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 14 százalékát meghaladó része, ha a kedvezményalap meghaladja a 75 ezer forintot;
 - b) a 2013. évre havonta
   - ba) a kedvezményalap 16 százaléka, de legfeljebb 12 ezer forint, ha a részkedvezmény-alap nem haladja meg a 75 ezer forintot,
-  - bb) az a) pont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 20 százalékát meghaladó része, amennyiben a kedvezményalap meghaladja a 75 ezer forintot, azzal, hogy a 2013. évben az adókedvezmény a kifizetőt az (1) bekezdés szerinti feltételre tekintet nélkül illeti meg.
+  - bb) a ba) alpont szerint meghatározott összegnek a 75 ezer forint feletti kedvezményalap 20 százalékát meghaladó része, amennyiben a kedvezményalap meghaladja a 75 ezer forintot, azzal, hogy a 2013. évben az adókedvezmény a kifizetőt az (1) bekezdés szerinti feltételre tekintet nélkül illeti meg.
 
 (6a) A (4)–(6) bekezdéstől eltérően, ha a munkavállaló adófizetési kötelezettséget eredményező munkaviszonya nem áll fenn az adott hónap egészében, meg kell határozni azt az összeget, amely a munkavállalót teljes havi munkaviszony esetén megilletné (a továbbiakban: teljes havi jövedelem). Az igénybe vehető részkedvezményt úgy kell meghatározni, hogy az e bekezdés szerinti teljes havi jövedelemre a (6) bekezdés szerint kiszámított összeget meg kell szorozni a kifizetőnél a munkavállalóval fennálló jogviszonyára tekintettel keletkező adott havi adóalap és a teljes havi jövedelem hányadosával.
 
@@ -672,9 +748,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (8) Az adókedvezmény érvényesítése szempontjából nem minősül a 460. § (1) bekezdése szerinti folyamatosan foglalkoztatott munkavállalónak az, akit a kifizető a visszamenőlegesen végrehajtott béremelésre vonatkozó döntés meghozatalának tárgyhónapjában már nem foglalkoztat. E munkavállaló munkaviszonyára tekintettel adókedvezmény e § alapján visszamenőleg nem érvényesíthető. Az a kifizető, aki a 460. § (1) bekezdése szerinti feltételeket már teljesítette, további visszamenőleges béremelésre vonatkozóan az (1)–(7) bekezdés rendelkezéseit nem alkalmazhatja.
 
-### A szakképzettséget nem igénylő foglalkozásokban foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
+### A szakképzettséget nem igénylő munkakörben foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
 
-461. §
+461. § (1) A Foglalkozások Egységes Osztályozási Rendszeréről szóló, 2012. január 1-jén hatályos KSH közlemény (FEOR-08) 9. főcsoportjába tartozó foglalkozás szerinti munkakörben (a továbbiakban: szakképzettséget nem igénylő munkakör), adófizetési kötelezettséget eredményező munkaviszonyban természetes személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 14,5 százalékával.
+
+(3) Ha a kifizető a foglalkoztatottat az adómegállapítási időszak egy részében nem, vagy nem kizárólag szakképzettséget nem igénylő munkakörben foglalkoztatta, a munkaviszony alapján ezen adómegállapítási időszakra vonatkozóan részkedvezményt nem érvényesíthet.
+
+(4) A (2) bekezdésben foglalt részkedvezmény az egész hónap tekintetében megilleti a kifizetőt.
 
 ### A Karrier Híd Program megvalósítását célzó adókedvezmény
 
@@ -701,15 +783,104 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (2) A részkedvezmény egyenlő az adómegállapítási időszakra az egyéni vállalkozó által saját maga után megállapított, illetve a tag után a kifizető által megállapított adóalap, de legfeljebb a minimálbér kétszeresének huszonhét százalékával.
 
+### A huszonöt év alatti és az ötvenöt év feletti foglalkoztatott munkavállaló után érvényesíthető adókedvezmény
+
+462/B. § (1) A huszonöt év alatti vagy ötvenöt év feletti természetes személyt adófizetési kötelezettséget eredményező munkaviszonyban foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) A legfeljebb 180 nap – biztosítási kötelezettséggel járó – munkaviszonnyal rendelkező, huszonöt év alatti, pályakezdő munkavállaló esetében a részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében.
+
+(3) A (2) bekezdésben foglalt feltétellel nem rendelkező huszonöt év alatti, valamint az ötvenöt év feletti munkavállaló esetén a részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 14,5 százalékával.
+
+(4) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg.
+
+(5) Azon hónapra vonatkozóan, amelyben a munkavállaló a 25. vagy 55. évét betölti, vagy amelyben a (2) bekezdés szerinti 2 éves időtartam véget ér, a részkedvezmény az egész hónap tekintetében megilleti a kifizetőt.
+
+(6) A (2) bekezdésben meghatározott kedvezmény érvényesítéséhez szükséges, hogy a munkavállaló az állami adóhatóság által kiállított, 15 napnál nem régebbi igazolással (egy alkalommal) a munkáltató részére igazolja, hogy legfeljebb 180 nap biztosítási kötelezettséggel járó munkaviszonnyal rendelkezik.
+
+(7) A (2) bekezdésben meghatározott kedvezmény az ott meghatározott feltételek fennállása esetén a 2012. december 31-én már fennálló munkaviszony esetén is alkalmazható, azzal, hogy a kedvezményezett foglalkoztatás kezdő időpontjának 2013. január 1-jét kell tekinteni.
+
+### A tartósan álláskereső személyek után érvényesíthető adókedvezmény
+
+462/C. § (1) A tartósan álláskereső természetes személyt adófizetési kötelezettséget eredményező munkaviszonyban foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+
+(3) E § alkalmazásában tartósan álláskereső az, akit az állami foglalkoztatási szerv a kedvezményezett foglalkoztatást megelőző 9 hónapon belül legalább 6 hónapig álláskeresőként nyilvántartott. A 9 hónap, valamint a 6 hónap számítása során a közfoglalkoztatásban történő részvétel időtartamát figyelmen kívül kell hagyni.
+
+(4) A kedvezményt a munkáltató a feltételek fennállását igazoló, az állami foglalkoztatási szerv által, az álláskereső személy kérelmére kiállított igazolás birtokában érvényesítheti.
+
+(5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+
+### A gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítását követően foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
+
+462/D. § (1) A gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás (e § alkalmazásában együtt: anyasági ellátások) folyósítása alatt vagy azt követően az adókötelezettséget eredményező munkaviszonyban foglalkoztatott személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+
+(3) A kedvezményt a kifizető az anyasági ellátások folyósításának megszűnését követő hónaptól számított 45. hónap végéig, de legfeljebb 3 évig érvényesítheti. A folyósítás megszűnésének hónapja az a hónap, amelyre utoljára az anyasági ellátások valamelyike a foglalkoztatott személyt megillette. Ha a munkavállalót az anyasági ellátások közül több is megillette, a határidőt a később folyósított anyasági ellátás folyósításának megszűnésétől kell számítani.
+
+(4) A kedvezményt a munkáltató a feltételek fennállását igazoló, az anyasági ellátást folyósító egészségbiztosítási szerv, társadalombiztosítási kifizetőhely, kincstár, vagy családtámogatási kifizetőhely által, az ellátásban részesülő kérelmére kiállított igazolás birtokában érvényesítheti.
+
+(5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+
+(6) A (2) bekezdésben meghatározott kedvezmény érvényesítését – az (1)–(4) bekezdésben foglalt jogosultsági feltételek fennállása esetén – nem zárja ki, ha az anyasági ellátás folyósítása alatti vagy azt követő foglalkoztatás 2013. január 1-jét megelőzően kezdődött.
+
+### A szabad vállalkozási zónákban működő vállalkozások adókedvezménye
+
+462/E. § (1) A szabad vállalkozási zóna területén belül működő kifizető (ide nem értve a munkaerő-kölcsönzést folytató munkáltatót) az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezményre való jogosultság feltétele, hogy a kifizető
+
+- a) a társasági adóról és az osztalékadóról szóló törvény szerinti fejlesztési adókedvezményre (a továbbiakban: fejlesztési adókedvezmény) jogosult adózónak minősül, és
+- b) a létszámát a fejlesztési adókedvezményre jogosító beruházás üzembe helyezését megelőző hónap átlagos statisztikai állományi létszámához képest növeli.
+
+(3) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló, kedvezménnyel érintett munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő az új munkavállalóval létesített, adófizetési kötelezettséget eredményező munkaviszony alapján a munkavállalót az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+
+(4) Az adókedvezményre való jogosultság további feltétele, hogy a kedvezménnyel érintett munkavállalók tényleges munkavégzési helye a szabad vállalkozási zóna területén belül található.
+
+(5) Az e §-ban meghatározott kedvezmény legkorábban a fejlesztési adókedvezményre jogosító beruházás üzembe helyezésének hónapjától vehető igénybe, és legkésőbb addig a hónapig, amelyben az üzembe helyezést követő 5. év letelik.
+
+(6) A (3) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+
+(7) E § alkalmazásában új munkavállaló az, akivel a kifizető a (2) bekezdés b) pontja szerinti létszámát növeli.
+
+### Kutatók foglalkoztatása után járó adókedvezmény
+
+462/F. § (1) Adófizetési kötelezettséget eredményező munkaviszonyban, doktori (PhD) vagy ennél magasabb tudományos fokozattal, vagy tudományos címmel rendelkező kutató, fejlesztő munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek minősülő – kifizető, az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 500 ezer forint 27 százalékával.
+
+(3) Ha a kifizető a foglalkoztatottat az adómegállapítási időszak egy részében nem, vagy nem kizárólag az (1) bekezdésben meghatározott tevékenységnek megfelelő munkakörben foglalkoztatta, a munkaviszony alapján ezen adómegállapítási időszakra vonatkozóan részkedvezményt nem érvényesíthet.
+
+(4) Azon hónapra vonatkozóan, amelyben a munkavállaló munkaviszonya megkezdődik vagy véget ér, a részkedvezmény a kifizetőt az egész hónap tekintetében megilleti.
+
+(5) E § alkalmazásában
+
+- a) kutatóhely: a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény (a továbbiakban: Innovációs tv.) 4. § 4. a) pontja szerinti kutatóhely,
+- b) kutató, fejlesztő: az Innovációs tv. 4. § 4. d) pontja szerinti kutató, fejlesztő.
+
 ### A foglalkoztatott munkavállalók után érvényesíthető adókedvezmény korlátozása
 
 463. § (1) A kifizető az ugyanazzal a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel csak e fejezet, vagy az adókedvezményt megállapító törvény külön rendelkezése alapján vehet egyidejűleg igénybe több olyan adókedvezményt, amelynek igénybevételére egyébként jogosult. A több adókedvezmény egyidejű igénybevételét lehetővé tévő külön rendelkezés hiányában az adókedvezmények közötti választás joga a kifizetőt illeti meg.
 
 (2) A külön törvényben meghatározott START PLUSZ, START EXTRA vagy START BÓNUSZ adókedvezmény más, e törvényben szabályozott adókedvezménnyel együtt is érvényesíthető, – a legfeljebb két jogcímen érvényesíthető – együttes kedvezmény meghaladhatja az adott foglalkoztatott után fizetendő adó összegét. Ha a foglalkoztató által az adott hónapra érvényesített adókedvezmények együttes összege meghaladja az adott hónapra fizetendő adó összegét, a különbözetre az adózás rendjéről szóló törvénynek a költségvetési támogatásra vonatkozó szabályait kell értelemszerűen alkalmazni.
 
+(2a) A (2) bekezdéstől eltérően a törvényben meghatározott START PLUSZ, START EXTRA vagy START BÓNUSZ adókedvezménnyel nem vonható össze
+
+- a) a szakképzettséget nem igénylő munkakörben foglalkoztatott munkavállalók után,
+- b) a huszonöt év alatti és az ötvenöt év feletti foglalkoztatott munkavállaló után,
+- c) a tartósan álláskereső személyek után,
+- d) a gyermekgondozási díj folyósítását követően, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után,
+- e) a szabad vállalkozási zónában működő vállalkozások által foglalkoztatott munkavállalók után,
+- f) a kutatók foglalkoztatása esetén
+
+érvényesíthető adókedvezmény.
+
 (3) A Karrier Híd Program megvalósítását célzó és a munkabérek nettó megőrzését célzó adókedvezmény ugyanazon munkavállaló vonatkozásában együttesen is érvényesíthető legfeljebb az ezen munkavállalóval fennálló jogviszony alapján megállapított számított adó összegéig.
 
 (4) A szociális hozzájárulási adóból törvény alapján érvényesíthető kedvezmény kiszámításánál a munkavállalót a munkaviszonyára tekintettel megillető (bruttó) munkabért a számviteli törvényben foglaltak alkalmazásával kell meghatározni.
+
+(5) Részmunkaidős foglalkoztatás esetén a 461. §-ban, 462/B–462/E. §-ban meghatározott kedvezmény legfeljebb 100 ezer forintnak, a 462/F. §-ban meghatározott kedvezmény legfeljebb 500 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után illeti meg a munkáltatót. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
 
 ### Eljárási szabályok
 
@@ -753,7 +924,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (2) A kölcsönvevő nyilatkozata a következőket tartalmazza:
 
 - a) ha a 460. § szerinti adókedvezmény érvényesítéséhez a kölcsönvevő esetében kapcsolódott feltétel, akkor a feltétel szerinti elvárt béremelést megvalósította-e, és ha igen, mikor,
-- b) saját munkavállalóknak a kölcsönzött munkavállalókéhoz hasonló vagy azonos munkakörben történő foglalkoztatása esetén, az ilyen saját munkavállalót az elvárt béremelés végrehajtását követően megillető személyi alapbér.
+- b) saját munkavállalóknak a kölcsönzött munkavállalókéhoz hasonló vagy azonos munkakörben történő foglalkoztatása esetén, az ilyen saját munkavállalót az elvárt béremelés végrehajtását követően megillető alapbér.
 
 (3) Az adóhatóság az adóhiányt, az adóhiány után az adóbírságot, valamint a késedelmi pótlékot a munkavállalót kölcsönvevő munkáltató terhére állapítja meg, ha a 460. § (1) bekezdésben meghatározott kedvezménynek a munkaerő-kölcsönzési tevékenységet jogszerűen folytató munkáltató által történő igénybevétele a munkavállalót kölcsönvevő munkáltató nem jogszerű nyilatkozata, vagy a nyilatkozattétel elmulasztása miatt jogszerűtlen. Nem minősül a nyilatkozattétel elmulasztásának, ha a nyilatkozattételre való felszólításnak a kölcsönvevő munkáltató részére való igazolt kézbesítése és a 460. § (1) bekezdésben meghatározott kedvezmény igénybevétele között kevesebb, mint 15 nap telt el.
 
@@ -775,6 +946,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (5) Azonos elszámolható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Bizottság 800/2008/EK általános csoportmentességi rendeletében vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
+465/B. § E törvény 462/E. §-a a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3–47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+
 ### Értelmező rendelkezések
 
 466. § E fejezet alkalmazásában:
@@ -788,17 +961,17 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - 7. munkaviszony:
   - a) a Munka Törvénykönyvében meghatározott munkaviszony,
   - b) a közalkalmazotti jogviszony,
-  - c) a közszolgálati jogviszony,
+  - c) a közszolgálati jogviszony, a kormányzati szolgálati viszony,
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,
   - f) az ügyészségi szolgálati jogviszony,
   - g) a hivatásos nevelőszülői jogviszony,
   - h) az ösztöndíjas foglalkoztatási jogviszony,
   - i) a közfoglalkoztatási jogviszony,
-  - j) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
+  - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
   - k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
-  - m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony;
+  - m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
 - 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.
 
 ### Átmeneti rendelkezések
@@ -812,6 +985,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (2) A 2011. december 31-ét követően kifizetett, juttatott, vagy megszerzett olyan jövedelem, amely után a kifizető, illetőleg e jogállására tekintettel az egyéni vállalkozó, a mezőgazdasági őstermelő a társadalombiztosítási ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint társadalombiztosítási járulék vagy egészségügyi szolgáltatási járulék fizetésére kötelezett, nem képezi az adó alapját.
 
 (3) A 2012. január 1-jétől kezdődő adómegállapítási időszakra e törvény az elvárt béremelés végrehajtásával és a foglalkoztatással összefüggő egyes törvények módosításáról szóló 2012. évi XXI. törvénnyel megállapított 460. § (2a)–(2f), (5a), (6a) és (6b) bekezdését, 460/A. §-át, 464/A. § (1) bekezdés b) és c) pontját, valamint 464/B. §-át alkalmazni kell.
+
+467/A. § E törvény – egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított – 455. § (2) bekezdés h) pontja és 466. § 7. pont m) alpontja visszamenőlegesen 2012. január 1-jétől alkalmazható.
 
 ### X. Fejezet — KULTURÁLIS ADÓ
 
@@ -960,3 +1135,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 | 90.01.10-ből | Előadóművészek pornográf tartalmú tevékenysége, előadása |
 | 90.02.12-ből | Pornográf tartalmú előadó-művészeti események hírverése, szervezése |
 | 90.03.11-ből | Szerzők, zeneszerzők, szobrászok és egyéb művészek pornográf tartalmú tevékenysége, kivéve előadóművészeké |
+| 61.10.51-ből | pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére |
+| 61.10.52-ből | pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére |
+| 61.10.53-ból | pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére |
+| 61.20.50-ből | pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére |
+| 61.30.20-ból | pornográf tartalmú csatorna hozzáférhetővé tétele az előfizetők részére |

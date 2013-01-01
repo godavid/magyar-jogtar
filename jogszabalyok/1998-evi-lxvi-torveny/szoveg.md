@@ -31,13 +31,13 @@ Az egészségügyi szolgáltatásokra szolidaritási elv alapján jogosultak ell
 
 után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddig, amíg a biztosítási jogviszonyában a Tbj. 19. § (3) bekezdése alapján megfizetett természetbeni és pénzbeli egészségbiztosítási járulék, az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 9. § (1) bekezdése alapján megfizetett egészségbiztosítási járulék, a Tbj. 36–37. §-a és 39. § (2) bekezdése alapján megfizetett egészségügyi szolgáltatási járulék (a továbbiakban együtt: egészségbiztosítási járulék), valamint az a)–e) pontban meghatározott jövedelmek után megfizetett százalékos mértékű egészségügyi hozzájárulás együttes összege a tárgyévben el nem éri a négyszázötvenezer forintot (a továbbiakban: hozzájárulás-fizetési felső határ).
 
-(4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 10 százalékos mértékű egészségügyi hozzájárulást fizet.
+(4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 14 százalékos mértékű egészségügyi hozzájárulást fizet.
 
 (5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint a szociális hozzájárulási adó alapját képező összeg, továbbá az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
 
-(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított 10 százalékos mértékű egészségügyi hozzájárulás.
+(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított egészségügyi hozzájárulás.
 
-(7)
+(7) Az Szja tv. 28. § (2) bekezdése szerinti jövedelem után a jövedelmet szerző magánszemélyt terhelő egészségügyi hozzájárulás mértéke – az (1) bekezdésben foglaltaktól eltérően – 14 százalék, ha a jövedelem megszerzésének időpontja a lejárati szolgáltatással nem bíró, teljes életre (kizárólag halál esetére) szóló, visszavásárlási értékkel bíró életbiztosítás megkötésétől – de legkorábban 2013. január 1-jétől – számított 10 évet követő időpontra esik.
 
 (8)
 
@@ -58,7 +58,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - a) táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermeknevelési támogatás, gyermekgondozási díj,
 - b) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosítópénztár által szolgáltatásként kifizetett összeg, a kedvezményezett részére az Mpt. 28. § (1) bekezdésének a) pontja alapján fizetett összeg, az önkéntes kölcsönös biztosítópénztár megszűnése esetén a tag részére teljesített adóköteles pénztári kifizetés, valamint a volt pénztártagnak a társadalombiztosítási nyugdíjrendszerbe történő visszalépése miatt visszafizetett magán-nyugdíjpénztári tagdíjkiegészítés,
 - c) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a kifizetőt terhelő összege,
-- d) az önkéntes kölcsönös biztosítópénztár által a magánszemély javára jóváírt támogatói adomány,
+- d)
 - e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 - f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
 - g)
@@ -99,13 +99,15 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (9) Ha az egyszerűsített bevallási nyilatkozat tételére jogosult mezőgazdasági őstermelő jövedelemadóját a munkáltató az adóbevallást helyettesítő elszámolásra vonatkozó rendelkezések szerint állapítja meg, a magánszemély a munkáltatónak tett, bevallást helyettesítő nyilatkozatában köteles nyilatkozni az e tevékenységből származó bevételéről is. A nyilatkozat alapján a munkáltató az egészségügyi hozzájárulást megállapítja, és az adózás rendjéről szóló törvénynek a jövedelemadó-hátralék levonására vonatkozó szabályai megfelelő alkalmazásával megfizeti. Amennyiben a jövedelemadó-hátralék és az egészségügyi hozzájárulás együttes levonására – a levonható összeg százalékos korlátozására tekintettel – nincs lehetőség, a levonást a kötelezettségek arányában kell teljesíteni.
 
-(10)
+(10) A Tbj. szerinti foglalkoztató a magánszeméllyel tett egybehangzó nyilatkozata alapján átvállalhatja a 3. § (1) bekezdés szerinti egészségügyi hozzájárulás megfizetését és bevallását, ha a magánszemély kifizetőnek nem minősülő külföldi személytől a foglalkoztatóval fennálló jogviszonyára tekintettel szerez jövedelmet. A fizetési és bevallási kötelezettség átvállalásának további feltétele a magánszemély nyilatkozata arról, hogy a kötelezettség teljesítéséhez szükséges adatokat a foglalkoztató rendelkezésére bocsátja. Az átvállalt kötelezettség teljesítéséért a foglalkoztató és a magánszemély egyetemlegesen felelnek.
 
 (11) E törvény alkalmazásában nem minősül kifizetőnek
 
 - a) az önkéntes kölcsönös biztosítópénztár a tag kilépése, illetőleg a várakozási idő letelte után a tag részére teljesített adóköteles pénztári kifizetés,
 - b) a számlavezető a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlatulajdonos részére kifizetett, egyéb jövedelemnek minősülő összeg
-- c) az önkéntes egészségpénztár és az önkéntes önsegélyező pénztár a jogosulatlanul igénybe vett pénztári szolgáltatás esetén.
+- c) az önkéntes egészségpénztár és az önkéntes önsegélyező pénztár a jogosulatlanul igénybe vett pénztári szolgáltatás esetén,
+- d) az önkéntes kölcsönös biztosítópénztár a magánszemély javára jóváírt támogatói adomány tekintetében,
+- e) a biztosító az Szja tv. 28. § (2) bekezdése szerinti jövedelem esetében.
 
 (12)
 
@@ -127,7 +129,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (3) Az egészségügyi hozzájárulás az Egészségbiztosítási Alapot (a továbbiakban: E. Alap) illeti meg. Felhasználásának részletes szabályait külön törvény állapítja meg. A befizetett egészségügyi hozzájárulást az E. Alap javára az adóhatóság folyamatosan utalja át.
 
-(4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló, többször módosított 1991. évi IV. törvény 58. §-a (5) bekezdésének c) pontjában meghatározott munkaadók a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott feltételek szerint – foglalkoztatáspolitikai érdekből – támogatásban részesülnek a Nemzeti Foglalkoztatási Alapból az általuk foglalkoztatott munkavállalók után fizetendő tételes mértékű egészségügyi hozzájárulás megfizetéséhez. Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a támogatás feltételeit és részletes szabályait.
+(4)
 
 (5) Ahol jogszabály egészségügyi hozzájárulást említ, azon az e törvény szerinti egészségügyi hozzájárulást is érteni kell, továbbá az Szja.-nak, illetve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvénynek a társadalombiztosítási járulékkal összefüggő rendelkezéseit a tételes egészségügyi hozzájárulásra is alkalmazni kell.
 

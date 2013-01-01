@@ -1791,7 +1791,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (7) A belső ellenőr feletti munkáltatói jogokat közvetlenül az ügyvezető gyakorolja.
 
-(8) Azon hitelintézetek esetében, amelyek nyilvánosan működő részvénytársaságok, a társaság alapszabálya úgy is rendelkezhet, hogy audit bizottság létrehozása nem kötelező, feltéve, hogy a felügyelő bizottság összetételére, tagjainak összeférhetetlenségére, valamint hatáskörére vonatkozó rendelkezések megfelelnek a Gt. szerinti audit bizottságra előírt törvényi rendelkezéseknek.
+(8)
 
 66/A. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú ellenőrző testületet kell létrehozni. Az ellenőrző testület működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1852,7 +1852,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (5) A (4) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint a (4) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát
 
-69. § (1) Részvénytársasági vagy szövetkezeti formában működő hitelintézet ügyvezetését legalább két ügyvezetőnek, harmadik országbeli hitelintézet fióktelepének ügyvezetését legalább két vezető állású személynek munkaviszony keretében kell ellátnia.
+69. § (1) Részvénytársasági vagy szövetkezeti formában működő hitelintézet ügyvezetését legalább két ügyvezetőnek, harmadik országbeli hitelintézet fióktelepének ügyvezetését legalább két vezető állású személynek, pénzügyi vállalkozás ügyvezetését legalább egy ügyvezetőnek munkaviszony keretében kell ellátnia.
 
 (2) Harmadik országbeli hitelintézet fióktelepe esetén a vezető állású személyek között legalább egy olyan magyar állampolgárságú devizabelföldi személynek kell lennie, aki legalább egy éve állandó belföldi lakóhellyel rendelkezik.
 
@@ -1906,6 +1906,14 @@ a belső szabályzatban meghatározott mértékig.
 (2) A hitelintézet vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
 
 69/F. § Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe a hitelintézet székhelye szerinti állam javadalmazási politikára vonatkozó joga szerinti szabályokat alkalmazza.
+
+### A közérdeklődésre számot tartó hitelintézetre vonatkozó előírások
+
+69/F. § (1) Közérdeklődésre számot tartó hitelintézetnek minősül a nyilvános részvénytársasági formában működő hitelintézet és az a hitelintézet, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszáz milliárd forintot.
+
+(2) A közérdeklődésre számot tartó hitelintézetnek a Gt. 311. §-a szerinti audit bizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén ahol a Gt. részvénytársaságot és közgyűlést említ, ott az (1) bekezdés szerinti hitelintézetet és annak legfőbb szervét kell érteni.
+
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó hitelintézet rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek, és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó hitelintézetnek ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésben foglaltakat, továbbá a testület összetételét.
 
 ## III. RÉSZ — A PRUDENS MŰKÖDÉSRE VONATKOZÓ KÖVETELMÉNYEK
 
@@ -3761,7 +3769,7 @@ nem köteles nyilvánosságra hozni.
 
 ### A felügyeleti díj
 
-139/A. § (1) A pénzügyi intézmény; a pénzforgalmi intézmény; az elektronikuspénz-kibocsátó intézmény; a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás; a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+139/A. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
 
@@ -3771,7 +3779,7 @@ nem köteles nyilvánosságra hozni.
 
 - a) bank és szakosított hitelintézet esetén: negyven,
 - b) szövetkezeti hitelintézet, pénzügyi vállalkozás, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény esetén: négy,
-- c) az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
+- c) az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe, pénzforgalmi intézmény magyarországi fióktelepe és elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe esetén: négy,
 - d) kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, bankképviselet és a független közvetítő esetén: egy.
 
 (5) A hitelintézet által fizetendő változó díj éves mértéke
@@ -3783,7 +3791,7 @@ nem köteles nyilvánosságra hozni.
 
 (6) A pénzügyi vállalkozás által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,2 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
 
-(7) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 87/M. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
+(7) A pénzforgalmi intézmény és magyarországi fióktelepe által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény és magyarországi fióktelepe által fizetendő éves díj mértéke a 87/M. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
 
 (8) Ha az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke
 
@@ -3792,7 +3800,7 @@ nem köteles nyilvánosságra hozni.
 
 összege.
 
-(9) Ha az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi vállalkozás magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzügyi vállalkozás magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
+(9) Ha az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi vállalkozás, pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzügyi vállalkozás, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
 
 ### XXIV. Fejezet — A felügyelet ellátásának eszközei
 

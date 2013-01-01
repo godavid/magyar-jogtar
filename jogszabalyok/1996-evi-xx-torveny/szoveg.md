@@ -78,6 +78,30 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (lopás, elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
 
+10/C. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ a polgár azonosítására, a polgár jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett más, személyazonosításra alkalmas hatósági igazolvánnyal is igazolhatja személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
+
+(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját tartalmazó közhiteles nyilvántartás kezelőjének átadja a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját. Az okmányazonosítót tartalmazó közhiteles nyilvántartás kezelője átadja az okmányazonosítóhoz tartozó, titkosított kapcsolati kódot az összerendelési nyilvántartást vezető szervnek.
+
+(3) Az összerendelési nyilvántartást vezető szerv az adatátadás alapján megküldi az adatkezelő által igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője részére az igényelt azonosító kódhoz tartozó, titkosított kapcsolati kódot. A megkeresés alapján az igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője megküldi az adatkezelő részére az igényelt azonosító kódot, feltéve, hogy az adatkezelő az igényelt azonosító kód kezelésére jogosult.
+
+(4) A (2) és (3) bekezdés szerinti adategyeztetés az adatkezelő által képzett egyedi tranzakciós kódra hivatkozással történik. Az egyedi tranzakciós kód képzési szabályait az adatkezelő határozza meg, azzal, hogy az egyedi tranzakciós kód nem lehet azonos az adóazonosító jellel, a TAJ számmal, a személyazonosító jellel, valamely okmányazonosítóval vagy bármely egyéb, az adatkezelő által használt azonosítóval, továbbá nem származtatható azokból.
+
+(5) Az adatkezelő az adatlekérdezést követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatlekérdezés érdekében a (2) bekezdés szerint megadott okmányazonosítót, amelynek kezelésére egyébként nem jogosult.
+
+10/D. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, a polgár a jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett elektronikus azonosítás útján is igazolhatja az azonosítót, illetve személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
+
+(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő olyan módon azonosítja elektronikus úton a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
+
+(3) A polgár személye valamely személlyel akkor feleltethető meg egyértelműen, ha az azonosítás keretében igazolt adatok alapján egyértelműen megállapítható a személy azonossága, és az igazolt adatok egyeznek az ügyfélre vonatkozó,
+
+- a) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal,
+- b) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal az összerendelési nyilvántartáson keresztül közvetve egyértelműen megfeleltethető adatokkal,
+- c) a külön törvény szerinti ügyintézési rendelkezésben az ügyfél által rögzített azonosító adatokkal,
+- d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből a rendszer valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
+- e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal.
+
+(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, úgy a 10/C. § megfelelően irányadó azzal, hogy okmányazonosítón az azonosítás szolgáltató által hitelesen igazolt azonosító kód vagy az azonosítás szolgáltató által megadott, a polgárra vonatkozó más olyan kód értendő, amelyet az ügyfél az ügyintézési rendelkezésében megadott.
+
 ### III. Fejezet — Az adóazonosító jel
 
 11. § (1) Az adóazonosító jelet az állami adóhatóság képezi.
@@ -130,7 +154,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - c) a bíróság, igazságszolgáltatási feladatának ellátásával, valamint az adózással kapcsolatos közigazgatási határozat törvényességi felülvizsgálatával összefüggésben;
 - d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 - e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
-- f) az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzat jegyzője az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
+- f) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
 - g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 - h) a Pénzügyi Szervezetek Állami Felügyelete és a magánnyugdíjpénztár a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX., továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvényben meghatározott feladatai ellátásához;
 - i) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a rehabilitációs hatóság a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben, továbbá a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvényben meghatározott feladatai ellátásához;
@@ -289,6 +313,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - e) a kincstárnak, a kincstár által folyósított ellátásban részesülő személy és a külön törvényben meghatározott kincstár által vezetett egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - f) a társadalombiztosítási szervnek, a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról.
 
+(1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, az országnak a külföldi letelepedés szándékával történő elhagyása tényéről, valamint az érintett elhalálozásáról.
+
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 - a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről, vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;
@@ -296,7 +322,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 - d) a közúti közlekedési nyilvántartást vezető szervnek a nyilvántartás hatálya alá tartozó polgár családi és utónevének (nők esetében a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha törvényben előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
 
 ### VI. Fejezet — A személyazonosító jel kezelésére, továbbítására vonatkozó átmeneti rendelkezések
 

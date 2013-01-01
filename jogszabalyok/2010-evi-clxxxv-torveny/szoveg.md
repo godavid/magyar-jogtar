@@ -514,6 +514,13 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 
 (7) A lineáris médiaszolgáltatási jogosultság nem ruházható át.
 
+41/A. § (1) Sajtótermék és médiaszolgáltatás elnevezésében, illetve címében nem szerepelhet
+
+- a) olyan személy neve, aki a XX. századi önkényuralmi politikai rendszerek megalapozásában, kiépítésében vagy fenntartásában vezető szerepet töltött be, vagy
+- b) olyan kifejezés vagy olyan szervezet neve, amely a XX. századi önkényuralmi politikai rendszerrel közvetlenül összefüggésbe hozható.
+
+(2) A nyilvántartásba vételi eljárás során a Hivatal vizsgálja az (1) bekezdésben foglalt feltételek teljesülését. A nyilvántartásba vételi eljárás során a Hivatal – a nyilvántartásba vételi eljárással összefüggő bírósági eljárás során a bíróság – kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
+
 ### Lineáris médiaszolgáltatási jogosultság bejelentés alapján
 
 42. § (1) A lineáris médiaszolgáltatás nyilvántartásba vételét annak jövőbeni médiaszolgáltatója kezdeményezheti. Az a bejelentő, aki lineáris médiaszolgáltatását nem állami tulajdonban lévő analóg korlátos erőforrás igénybevételével kívánja végezni, médiaszolgáltatási tevékenységének megkezdése előtt legalább negyvenöt nappal köteles a Hivatalnak bejelenteni:
@@ -683,7 +690,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 (5) A nyilvántartásba vételt a Hivatal visszavonja, ha
 
 - a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
-- b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít.
+- b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy ha a sajtótermék elnevezése a 41/A. § (1) bekezdésében meghatározott követelményeknek nem felel meg.
 
 (6) A sajtóterméket törölni kell a nyilvántartásból, ha
 
@@ -919,7 +926,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 
 58. § (1) A Médiatanács az alakilag érvényes pályázati ajánlatot benyújtó pályázókat – a benyújtási határidő lejártától számított negyvenöt napon belül – hatósági nyilvántartásba veszi (a továbbiakban: pályázati nyilvántartás). A pályázati nyilvántartásba vételről a Hivatal a résztvevővé vált pályázókat értesíti, és a pályázati nyilvántartásba vett pályázók listáját a Médiatanács honlapján közzéteszi.
 
-(2) Az 57. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén a Médiatanács a pályázó pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a pályázó ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Ítélőtáblától. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Ítélőtábla végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén a Médiatanács a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. A Médiatanács eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
+(2) Az 57. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén a Médiatanács a pályázó pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a pályázó ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén a Médiatanács a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. A Médiatanács eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
 
 (3) Amennyiben a Médiatanács az alaki érvénytelenségi okot a pályázati nyilvántartásba vételt követően, a pályázati ajánlat érdemi elbírálása során észleli, a pályázat alaki érvénytelenségét külön végzéssel nem állapítja meg, a pályázat érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
 
@@ -974,9 +981,9 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 
 (4) A Médiatanács az (1) bekezdés szerinti döntését a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
 
-(5) A Médiatanács (1) bekezdésben meghatározott határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással bírósági felülvizsgálat kérhető a Fővárosi Ítélőtáblától azzal, hogy a határozat meghozatalától számított harminc napos jogvesztő határidő elteltével a határozatot akkor sem lehet megtámadni, ha az ismert ügyfeleken kívüli más jogorvoslatra jogosulttal azt nem közölték, illetve arról addig nem szerzett tudomást.
+(5) A Médiatanács (1) bekezdésben meghatározott határozatának felülvizsgálatát az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a határozat közlésétől számított tizenöt napon belül, jogszabálysértésre hivatkozással kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól.
 
-(6) A Médiatanács a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Ítélőtáblának. A bírósági felülvizsgálat iránti keresetet a Fővárosi Ítélőtábla háromtagú tanácsban, a keresetlevél Fővárosi Ítélőtáblához történő – Médiatanács általi – megküldésétől számított harminc napon belül bírálja el. A Fővárosi Ítélőtábla határozatával szemben fellebbezésnek, perújításnak, felülvizsgálati kérelemnek nincs helye.
+(6) A Médiatanács a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság a keresetlevél bírósághoz történő – Médiatanács általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben fellebbezésnek, perújításnak nincs helye. A határozat felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Kúria a felülvizsgálati kérelmet hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Kúria soron kívül jár el.
 
 (7) A pályázati ajánlat a pályázati eljárás lezárásáig a 153. § (2) bekezdés szerinti törvény által védett titoknak minősül. A pályázati ajánlatot a Médiatanács az ügy iratai között elkülönítve, zártan kezeli. A pályázati ajánlatban szereplő adatokról a Médiatanács a szerződés megkötéséig harmadik személynek nem adhat tájékoztatást.
 
@@ -990,7 +997,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 
 (3)
 
-(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
+(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Közigazgatási és Munkaügyi Bíróság eljárását kezdeményezték, a hatósági szerződés a Fővárosi Közigazgatási és Munkaügyi Bíróság jogerős döntéséig nem köthető meg. A Fővárosi Közigazgatási és Munkaügyi Bíróság felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
 
 (5) A Médiatanács a 187. § szerint bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződést nem köti meg.
 
@@ -1183,7 +1190,9 @@ közönségarányát.
 
 (8) A JBE médiaszolgáltatók meghatározására irányuló eljárásban hozott határozatban a Médiatanács a JBE médiaszolgáltatót a 32. § és a 38–39. § alapján terhelő kötelezettségek pontos tartalmát is meghatározza az ott foglalt mérlegelési szempontok figyelembevételével.
 
-(9) A médiapiaci koncentráció megelőzésére, illetve a JBE szolgáltatók meghatározására irányuló eljárásban hozott határozat felülvizsgálatára a 163. §-ban foglaltakat kell megfelelően alkalmazni azzal, hogy a Médiatanács jogerős határozatának felülvizsgálatát az ügyfél, illetve az eljárás egyéb résztvevője jogszabálysértésre hivatkozással a Fővárosi Ítélőtáblától kérheti a Médiatanács határozata ellen indított kereset indításával. A Fővárosi Ítélőtábla a keresetet peres eljárásban, harminc napon belül bírálja el.
+(9) A Médiatanács médiapiaci koncentráció megelőzésére, illetve a JBE szolgáltatók meghatározására irányuló eljárásban hozott határozatának felülvizsgálatát az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a határozat közlésétől számított tizenöt napon belül, jogszabálysértésre hivatkozással kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól.
+
+(9a) A Médiatanács a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság a keresetlevél bírósághoz történő – Médiatanács általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben fellebbezésnek, perújításnak nincs helye. A határozat felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Kúria a felülvizsgálati kérelmet hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Kúria soron kívül jár el. A bíróság a Médiatanács határozatát megváltoztathatja.
 
 (10) A JBE médiaszolgáltatók meghatározására irányuló eljárásban a Médiatanács határozathozatal helyett hatósági szerződést is köthet a médiaszolgáltatóval a médiaszolgáltató JBE azonosításáról, illetve a JBE médiaszolgáltatót a 32. § és a 38–39. § alapján terhelő kötelezettségek pontos tartalmáról. Ez esetben a 32. § és 38–39. §-ban foglalt kötelezettségek megállapításának mérlegelési szempontjaitól a felek eltérhetnek azzal, hogy a JBE médiaszolgáltató az ott foglalt kötelezettségek teljesítése alól a hatósági szerződésben sem mentesíthető.
 
@@ -2435,7 +2444,7 @@ a Biztos hivatalánál panasszal élhet.
 - c) a (3) bekezdés szerinti eljárás ideje,
 - d) az (5) bekezdés szerinti nyilatkozattételre felhívástól a nyilatkozattételig terjedő idő.
 
-(3) Ha az érintett elektronikus hírközlési szolgáltató a kért adatot a Biztos számára határidőben nem szolgáltatja, a Biztos a Hivatalhoz fordul. A Hivatal köteles szóbeli vagy írásbeli egyeztetést kezdeményezni az elektronikus hírközlési szolgáltatóval az adatszolgáltatás szükségességéről, illetve a szolgáltatandó adatok köréről. Ezen egyeztetést követően a Hivatal a Biztos által megjelölt, az érdeksérelemmel összefüggő adat szolgáltatására kötelezi az érintett elektronikus hírközlési szolgáltatót az (1) bekezdésnek és a lefolytatott egyeztetési eljárás eredményének megfelelően. Az adatszolgáltatásra megfelelő, legalább tizenöt napos határidőt kell előírni. A 155. § (5)–(7) bekezdését megfelelően alkalmazni kell. A kötelezett elektronikus hírközlési szolgáltató halasztó hatályú jogorvoslattal kérheti a végzés felülvizsgálatát a Fővárosi Törvényszéktől. A Fővárosi Törvényszék nemperes eljárásban nyolc napon belül dönt, végzése ellen további jogorvoslatnak helye nincs. Amennyiben az elektronikus hírközlési szolgáltató a kért adatokat az előírt határidőre nem, hiányosan vagy a valóságnak nem megfelelően bocsátja a Hivatal rendelkezésére, a Hivatal a 156. §-ban meghatározott jogkövetkezményeket alkalmazhatja. A Hivatal a beérkezett adatokat átadja a Biztosnak.
+(3) Ha az érintett elektronikus hírközlési szolgáltató a kért adatot a Biztos számára határidőben nem szolgáltatja, a Biztos a Hivatalhoz fordul. A Hivatal köteles szóbeli vagy írásbeli egyeztetést kezdeményezni az elektronikus hírközlési szolgáltatóval az adatszolgáltatás szükségességéről, illetve a szolgáltatandó adatok köréről. Ezen egyeztetést követően a Hivatal a Biztos által megjelölt, az érdeksérelemmel összefüggő adat szolgáltatására kötelezi az érintett elektronikus hírközlési szolgáltatót az (1) bekezdésnek és a lefolytatott egyeztetési eljárás eredményének megfelelően. Az adatszolgáltatásra megfelelő, legalább tizenöt napos határidőt kell előírni. A 155. § (5)–(7) bekezdését megfelelően alkalmazni kell. A kötelezett elektronikus hírközlési szolgáltató halasztó hatályú jogorvoslattal kérheti a végzés felülvizsgálatát a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A Fővárosi Közigazgatási és Munkaügyi Bíróság nemperes eljárásban nyolc napon belül dönt, végzése ellen további jogorvoslatnak helye nincs. Amennyiben az elektronikus hírközlési szolgáltató a kért adatokat az előírt határidőre nem, hiányosan vagy a valóságnak nem megfelelően bocsátja a Hivatal rendelkezésére, a Hivatal a 156. §-ban meghatározott jogkövetkezményeket alkalmazhatja. A Hivatal a beérkezett adatokat átadja a Biztosnak.
 
 (4) A Biztos eljárása során az érdeksérelemre vonatkozóan az elektronikus hírközlési szolgáltatóval szóban vagy írásban egyeztetést folytat (e § alkalmazásában a továbbiakban: egyeztetési eljárás). Az egyeztetési eljárásba a Biztos – ha ezt célravezetőnek ítéli, és a panaszos ezt kéri – bevonja a panaszost, valamint – ha az ügy a fogyasztók jelentős számát érinti – bevonhatja a fogyasztói érdekek képviseletét ellátó egyesület képviselőjét.
 
@@ -2569,7 +2578,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (7) Amennyiben a jogalkalmazás megfelelő gyakorlása, illetve a jogérvényesítés, valamint az ügyfelek jogai gyakorlása érdekében indokolt, a Hatóság felhívhatja az ügyfelet és az eljárás egyéb résztvevőjét a (2) bekezdés szerinti zárt adatkezelés feloldására.
 
-(8) Amennyiben az ügyfél, illetve az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél, illetve az eljárás egyéb résztvevője a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(8) Amennyiben az ügyfél, illetve az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél, illetve az eljárás egyéb résztvevője a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 ### Kizárás
 
@@ -2603,7 +2612,7 @@ a Biztos hivatalánál panasszal élhet.
 
 – e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetében alkalmazható, a 156. § szerinti jogkövetkezményekre történő figyelmeztetés mellett – nyilatkozattételre, adatszolgáltatásra, illetve szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására (e § alkalmazásában a továbbiakban együtt: adatszolgáltatás) kötelezheti.
 
-(4) A (3) bekezdés szerinti végzés ellen az eljárás egyéb résztvevője, akit adatszolgáltatásra köteleztek, a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(4) A (3) bekezdés szerinti végzés ellen az eljárás egyéb résztvevője, akit adatszolgáltatásra köteleztek, a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 (5) A (2) és (3) bekezdés alkalmazása keretében
 
@@ -2612,7 +2621,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (6) Az (5) bekezdés szerinti mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad. Az (5) bekezdés a) pontjában foglalt tilalom alól az ügyfél felmentést adhat.
 
-(7) A Hatóságnak az (5) bekezdésben foglalt mentességi okra hivatkozás ellenére adatszolgáltatásra vagy irat, eszköz, dokumentum átadására, felmutatására kötelező végzése ellen a kötelezett ügyfél vagy eljárást egyéb résztvevője a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(7) A Hatóságnak az (5) bekezdésben foglalt mentességi okra hivatkozás ellenére adatszolgáltatásra vagy irat, eszköz, dokumentum átadására, felmutatására kötelező végzése ellen a kötelezett ügyfél vagy az eljárás egyéb résztvevője a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 (8) A tanú meghallgatható az ügyfél üzleti titkáról akkor is, ha nem kapott felmentést az ügyféltől a titoktartás alól.
 
@@ -2664,7 +2673,7 @@ a Biztos hivatalánál panasszal élhet.
 
 161. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi-, gazdasági- és jogviszonyok, valamint a vonatkozó médiaigazgatási alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
 (3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
 
@@ -2698,7 +2707,7 @@ a Biztos hivatalánál panasszal élhet.
 
 164. § (1) A 163. § szerinti eljárásokban mind az elsőfokú, mind a másodfokú bíróság harminc napon belül határoz.
 
-(2) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(2) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (3) A bíróság a Médiatanács határozatát megváltoztathatja.
 
@@ -2712,7 +2721,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (5) A Hivatal önálló jogorvoslattal támadható végzései ellen a nemperes eljárás iránti kérelmet a végzés közlésétől számított tizenöt napon belül kell benyújtani.
 
-(6) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(6) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 ### A Hatóság egyes eljárásai
 
@@ -2816,7 +2825,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést a Médiatanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
 
-(9) Amennyiben a Médiatanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Törvényszékhez jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+(9) Amennyiben a Médiatanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
 
 (10) Az ideiglenes intézkedés elutasítása tárgyában a Médiatanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.
 
@@ -2893,7 +2902,11 @@ a Biztos hivatalánál panasszal élhet.
 
 (5) Amennyiben a Hatóság döntése szerint a médiaszolgáltató megsértette a tájékoztatás kiegyensúlyozottságát, a médiaszolgáltató a Hatóság által megjelölt időpontban és módon – a Hatóság döntésében foglaltaknak megfelelően – értékelő magyarázat nélkül köteles a Hatóság döntését vagy a döntésben meghatározott közleményt közzétenni, vagy lehetőséget adni a kérelmezőnek az álláspontja megjelenítésére. A jogsértővel szemben ezen túl a 186–187. §-ban meghatározott jogkövetkezmények nem alkalmazhatók.
 
-(6) Az (1)–(5) bekezdésben meghatározott eljárás illetékmentes, a kérelmező igazgatási szolgáltatási díj megfizetésére sem kötelezhető. Az eljárásban hozott határozattal kapcsolatos jogorvoslatra a 163–165. §-ban foglaltakat kell megfelelően alkalmazni azzal, hogy a Médiatanács jogerős határozatának felülvizsgálatát az ügyfél, illetve az eljárás egyéb résztvevője jogszabálysértésre hivatkozással a Fővárosi Ítélőtáblától tizenöt napon belül a Médiatanács ellen indított keresettel kérheti. A Fővárosi Ítélőtábla a keresetet peres eljárásban, harminc napon belül bírálja el.
+(6) Az (1)–(5) bekezdésben meghatározott eljárás illetékmentes, a kérelmező igazgatási szolgáltatási díj megfizetésére sem kötelezhető.
+
+(7) A Hivatal e § szerinti hatósági eljárásban hozott határozata elleni jogorvoslatra a 165. §-ban foglaltakat megfelelően kell alkalmazni azzal, hogy a Médiatanács másodfokú határozatának bírósági felülvizsgálatát az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a határozat közlésétől számított tizenöt napon belül, jogszabálysértésre hivatkozással kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A Médiatanács a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság a keresetlevél bírósághoz történő – Médiatanács általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben fellebbezésnek, perújításnak nincs helye. A határozat felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Kúria a felülvizsgálati kérelmet negyvenöt napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Kúria soron kívül jár el.
+
+(8) A Médiatanács e § szerinti elsőfokú hatósági eljárásban hozott határozatának bírósági felülvizsgálatát az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a határozat közlésétől számított tizenöt napon belül, jogszabálysértésre hivatkozással kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A Médiatanács a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság a keresetlevél bírósághoz történő – Médiatanács általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben fellebbezésnek, perújításnak nincs helye. A határozat felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Kúria a felülvizsgálati kérelmet negyvenöt napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Kúria soron kívül jár el.
 
 ### A Hatóság feladat- és hatáskörei
 
@@ -3054,7 +3067,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (7) A műsorterjesztés, közvetítés megszüntetésével, felfüggesztésével kapcsolatosan a műsorterjesztő, közvetítő szolgáltató felmerült költségeit a jogkövetkezménnyel sújtott médiaszolgáltató, sajtótermék kiadója köteles viselni.
 
-(8) A Médiatanács (1)–(4) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya. A kérelemmel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól nem kérhető, a bíróság által nem függeszthető fel. A határozat a nemperes eljárás iránti kérelem benyújtásától függetlenül azonnal végrehajtható. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(8) A Médiatanács (1)–(4) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya. A kérelemmel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól nem kérhető, a bíróság által nem függeszthető fel. A határozat a nemperes eljárás iránti kérelem benyújtásától függetlenül azonnal végrehajtható. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
 (9) Amennyiben a műsorterjesztő, illetve a közvetítő szolgáltató nem teljesíti az (1)–(4) bekezdés szerinti határozatban foglaltakat, a Médiatanács műsorterjesztővel vagy közvetítő szolgáltatóval szemben hatósági eljárást indít, és a 187. § (3) bekezdés bg) vagy bh) pontban meghatározott jogkövetkezményeket alkalmazhatja.
 

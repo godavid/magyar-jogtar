@@ -517,7 +517,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 (2) Ha a kitoloncolás elrendelésére az 50. § (1a) bekezdése alapján került sor, az EGT-állampolgárt, illetve a családtagot az eljáró hatóság kitoloncolási őrizetbe veheti.
 
-(3) A kitoloncolási őrizetet az eljáró hatóság legfeljebb hetvenkét órára rendelheti el, amelyet a kitoloncolási őrizet helye szerint illetékes helyi bíróság a kitoloncolás végrehajtásáig, de alkalmanként legfeljebb harminc nappal meghosszabbíthat.
+(3) A kitoloncolási őrizetet az eljáró hatóság legfeljebb hetvenkét órára rendelheti el, amelyet a kitoloncolási őrizet helye szerint illetékes járásbíróság a kitoloncolás végrehajtásáig, de alkalmanként legfeljebb harminc nappal meghosszabbíthat.
 
 (4) A kitoloncolási őrizetet határozattal kell elrendelni, és a közléssel egyidejűleg végre kell hajtani. A kitoloncolási őrizetet azonnal meg kell szüntetni, ha
 
@@ -533,7 +533,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 (3) A kitoloncolási őrizetbe vett személy kifogással élhet, amennyiben az idegenrendészeti hatóság az 58–59. §-ban meghatározott kötelezettségét elmulasztotta.
 
-(4) A kifogást a kitoloncolási őrizet helye szerint illetékes helyi bíróság bírálja el.
+(4) A kifogást a kitoloncolási őrizet helye szerint illetékes járásbíróság bírálja el.
 
 (5) A bíróság
 
@@ -553,7 +553,7 @@ bírálja el.
 
 meghosszabbítása
 
-54. § (1) A kitoloncolási őrizetbe vételt elrendelő hatóság az őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozza a helyi bíróságnál.
+54. § (1) A kitoloncolási őrizetbe vételt elrendelő hatóság az őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozza a járásbíróságnál.
 
 (2) Az eljáró hatóság az indítványt megindokolja.
 
@@ -643,13 +643,15 @@ meghosszabbítása
 
 (3) A körözést vissza kell vonni, ha elrendelésének oka megszűnt. A körözést az elrendelő hatóság vonja vissza határozattal, amelyet meg kell küldeni a (2) bekezdés szerinti rendőrkapitánysághoz.
 
-### A kiutazás korlátozása
+### Külföldre utazási korlátozás
 
-64. § (1) Nem hagyhatja el Magyarország területét az az EGT-állampolgár vagy családtag, aki büntetőeljárás keretében előzetes letartóztatásban, házi őrizetben, lakhelyelhagyási tilalom hatálya alatt, őrizetben, kiadatási őrizetben, kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban van, illetve ideiglenes kényszergyógykezelés alatt áll.
+64. § (1) Az eljáró hatóság külföldre utazási korlátozást rendel el azzal az EGT-állampolgárral vagy családtaggal szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyész az eljáró hatóságot a külföldre utazásról szóló törvény alapján értesítette.
 
-(2) Az eljáró hatóság az EGT-állampolgár vagy a családtag úti okmányának visszatartásáról határozattal dönt, ha az (1) bekezdés szerinti valamely kényszerintézkedés jogerős elrendeléséről a büntetőeljárást folytató bíróság, ügyészség, illetve nyomozó hatóság értesítette. A határozat ellen jogorvoslatnak nincs helye.
+(2) Az (1) bekezdés szerinti értesítés alapján az eljáró hatóság külföldre utazási korlátozást elrendelő határozatában az EGT-állampolgár vagy családtag úti okmányát visszatartja.
 
-(3) Az úti okmányt arra az időtartamra kell visszatartani, ameddig az EGT-állampolgár vagy a családtag az (1) bekezdés szerinti valamely kényszerintézkedés hatálya alatt áll.
+(3) A határozat ellen nincs helye jogorvoslatnak.
+
+(4) Az eljáró hatóság a bíróság, az ügyész, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
 
 ### Felelősségi szabályok
 
@@ -724,7 +726,7 @@ meghosszabbítása
 - c) az állandó tartózkodási kártyával rendelkezők nyilvántartása,
 - d) a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgárok és családtagok nyilvántartása,
 - e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása,
-- f) az úti okmány, illetve a személyazonosító igazolvány elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása,
+- f) az úti okmány, a személyazonosító igazolvány vagy a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása;
 - g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
@@ -801,18 +803,18 @@ meghosszabbítása
 
 (2) Az (1) bekezdésben meghatározott adatok a tájékoztatási kötelezettség teljesítését vagy a szabadságkorlátozás megszűnését követő három évig kezelhetők.
 
-80. § (1) Az úti okmányuk, illetve személyazonosító okmányuk elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása a következő adatokat tartalmazza:
+80. § (1) Az úti okmányuk, személyazonosító és tartózkodásra jogosító okmányuk elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása a következő adatokat tartalmazza:
 
 - a) az EGT-állampolgár és a családtag nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító jelét,
-- b) az elveszettként eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve személyazonosító igazolvány típusát és azonosító adatait, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés tényét,
+- b) az elveszettként, eltulajdonítottként bejelentett úti okmány, személyazonosító és tartózkodásra jogosító okmány típusát, azonosító adatait, valamint a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés tényét;
 - c) a bejelentés időpontját,
 - d) a bejelentést felvevő szerv megnevezését,
 - e) a tartózkodási jogot igazoló okmány típusát, számát, érvényességét és a kiállító hatóság megnevezését,
 - f) az új úti okmány vagy személyazonosító igazolvány típusát, számát és érvényességét.
 
-(2) Az idegenrendészeti hatóság az úti okmány elvesztésével kapcsolatos adatokat az okmány megtalálásáig, ennek hiányában a bejelentéstől számított öt évig kezeli.
+(2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatrögzítéstől számított legfeljebb 10 évig kezeli.
 
-81. § (1) Az eljáró hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági feladatokat ellátó hatóság, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c), és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, az okmányiroda, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
+81. § (1) Az eljáró hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági feladatokat ellátó hatóság, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c), és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
 
 (2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 

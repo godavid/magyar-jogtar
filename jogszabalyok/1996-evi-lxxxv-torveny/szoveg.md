@@ -33,11 +33,11 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 30. § (1) Teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
-- b) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett belső egyházi jogi személy;
+- b) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
 
-(3) A (2) bekezdésben meghatározott feltétel fennállásáról a szervezet az eljárás megindulásakor írásban köteles nyilatkozni.
+(3) A (2) bekezdésben meghatározott feltétel fennállásáról a szervezet az eljárás megindulásakor írásban köteles nyilatkozni. Az (1) bekezdés b) pontja alá tartozó szervezet esetén a képviseleti jogosultság igazolása tekintetében az ingatlan-nyilvántartásról szóló törvény vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 31. § (1) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az
 
@@ -62,7 +62,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
 
-(5) Az (1) és (2) bekezdésben foglaltak szerint elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
+(5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
 
@@ -100,7 +100,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 - a) a Magyar Állam,
 - b)–d)
-- e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett belső egyházi jogi személy;
+- e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
 - f)–j)
 - k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 - l)
@@ -136,7 +136,8 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - l) a lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
-  - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás.
+  - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
+- m) az ingatlan közigazgatási címének közterületnév-változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja, ha az eljárás megindítására a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 14. § (2) bekezdésébe foglalt tilalomba ütközés miatti közterületnév-változás miatt kerül sor.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 
@@ -163,6 +164,12 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
 
+(8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
+
+(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló jogerős döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
+
+(8c) A külön jogszabályban meghatározott – az ingatlan-nyilvántartásban változást eredményező – engedélyköteles bontási tevékenység esetében az igazgatási szolgáltatási díj megfizetésére a (8a) bekezdésben foglaltakat kell értelemszerűen alkalmazni.
+
 (9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
 (10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
@@ -186,7 +193,9 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
 
-32/G. § Az Inytv. 75. § (1) bekezdése szerinti TAKARNET engedélyezési eljárásért 3 000 forint összegű díjat kell megfizetni.
+32/G. § (1) Az Inytv. 75. § (1) bekezdése szerinti TAKARNET engedélyezési eljárásért 3000 forint összegű díjat kell fizetni.
+
+(2) Az Inytv. szerinti, az ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása iránti eljárásért 3000 forint összegű díjat kell fizetni. A soron kívüli eljárás díja 10 000 forint.
 
 ### ZÁRÓ RENDELKEZÉSEK
 

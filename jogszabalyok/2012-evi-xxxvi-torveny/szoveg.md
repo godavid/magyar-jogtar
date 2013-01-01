@@ -28,7 +28,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 - a) az Országgyűlés elnöke (a továbbiakban: házelnök),
 - b) az Országgyűlés alelnöke (a továbbiakban: alelnök),
-- c)
+- c) az Országgyűlés háznagya (a továbbiakban: háznagy) és
 - d) az Országgyűlés jegyzője (a továbbiakban: jegyző).
 
 #### 1. Az Országgyűlés elnöke
@@ -53,7 +53,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - n) megteszi, illetve kezdeményezi az Országgyűlés biztonsága érdekében szükséges intézkedéseket,
 - o) gyakorolja a jogutód nélkül megszűnt országgyűlési bizottság elnökének titokvédelemmel összefüggő jogait,
 - p) rendészeti, illetve – e törvényben meghatározott esetekben – fegyelmi jogkört gyakorol a tárgyalási rend, az Országgyűlés zavartalan működésének biztosítása és az Országgyűlés méltóságának megőrzése érdekében,
-- q)
+- q) irányítja az Országgyűlési Őrséget, kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
 - r) az Országgyűlés Hivatala, valamint az Országgyűlési Őrség vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát, illetve az Országgyűlési Őrséget jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
 - s) ellátja mindazon feladatokat, amelyeket számára az Alaptörvény, a házszabályi rendelkezések, más törvény, illetve országgyűlési határozat előír.
 
@@ -72,13 +72,21 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (4) A házelnököt helyettesítő alelnök jogai és kötelezettségei a házelnökével azonosak, a 2. § (2) bekezdés j)–l) és q) pontjában foglalt feladat- és hatásköröket azonban nem gyakorolhatja.
 
-#### 3.
+#### 3. Az Országgyűlés háznagya
 
-4. § (1)–(5)
+4. § (1) A háznagy – a 2. § (2) bekezdés d)–h), j)–m) és o)–q) pontjában foglalt feladat- és hatáskörök kivételével – gyakorolja azokat a feladat- és hatásköröket, amelyeket a házelnök részére az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában ad át.
+
+(2) A háznagy a házelnök irányítása alatt végzi munkáját.
+
+(3) Háznaggyá országgyűlési képviselő (a továbbiakban: képviselő) vagy olyan személy választható, aki megfelel a közszolgálati jogviszony létesítésére vonatkozó feltételeknek.
+
+(4) A háznagyot mentelmi jog illeti meg. A mentelmi jogra a képviselők mentelmi jogára vonatkozó szabályokat kell alkalmazni.
+
+(5) A háznagy – a képviselői megbízatás kivételével – más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
 (6)
 
-(7)
+(7) A háznagy a megbízatása keletkezését követő harminc napon belül, azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül a képviselők vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozatával (a továbbiakban: vagyonnyilatkozat) azonos tartalmú vagyonnyilatkozatot tesz. A vagyonnyilatkozattal kapcsolatos eljárásra a képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.
 
 #### 4. Az Országgyűlés jegyzői
 
@@ -128,13 +136,19 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - d) felmentésével,
 - e) a tisztségről való lemondásával.
 
-(2)
+(2) A háznagy megbízatása megszűnik:
+
+- a) az új Országgyűlés megalakulásával,
+- b) halálával,
+- c) felmentésével,
+- d) a tisztségről való lemondásával,
+- e) összeférhetetlenségének kimondásával.
 
 (3) A házelnök, alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. A háznagy felmentésére irányuló javaslatot nem kell indokolni.
 
 (4) Az Országgyűlés tisztségviselője az Országgyűléshez benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a tisztségviselői megbízatás a lemondás benyújtása napján szűnik meg.
 
-(5)
+(5) A háznagy összeférhetetlenségének megállapítására a képviselők összeférhetetlenségének megállapítására vonatkozó rendelkezéseket kell alkalmazni.
 
 ### II. Fejezet — A HÁZBIZOTTSÁG
 
@@ -210,7 +224,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 17. § (1) Az állandó bizottság munkájában bizottsági tagként minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel, de minden képviselőcsoportból legalább egy képviselő.
 
-(2) A Kormány tagja, az államtitkár és a kormánymegbízott kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy állandó bizottság munkájában részt vegyen.
+(2) A Kormány tagja, az államtitkár, a kormánymegbízott és a járási (fővárosi kerületi) hivatal vezetője (a továbbiakban: járási hivatalvezető) kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy állandó bizottság munkájában részt vegyen.
 
 (3) Az Országgyűlés az (1) bekezdésben foglaltaktól eltérően is határozhat. Ahhoz, hogy állandó bizottságban a képviselőcsoport létszámaránya egy bizottsági tagsági helyet meghaladóan eltérjen a képviselőcsoport létszámának az Országgyűlés egészéhez viszonyított arányától, a jelen lévő képviselők négyötödének szavazata szükséges.
 
@@ -419,7 +433,7 @@ terheli.
 
 #### 18. A tárgyalási rend fenntartása, a fegyelmi jogkör
 
-45. § Az Országgyűlés ülése zavartalan lefolytatásának biztosítása az ülést vezető elnök feladata, ennek érdekében az ülést vezető elnök, illetve – az ülést vezető elnök javaslatára, a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság állásfoglalásának kikérésével – az Országgyűlés a 46–51. §-ban meghatározott intézkedéseket alkalmazhatja.
+45. § Az Országgyűlés ülése zavartalan lefolytatásának biztosítása az ülést vezető elnök feladata, ennek érdekében az ülést vezető elnök, illetve – az ülést vezető elnök vagy a házelnök javaslatára – az Országgyűlés a 46–51. §-ban meghatározott intézkedéseket alkalmazhatja.
 
 46. § (1) Azt a felszólalót, aki felszólalása során nyilvánvalóan indokolatlanul eltér a tárgytól, vagy ugyanabban a vitában feleslegesen saját vagy más beszédét ismétli, az ülést vezető elnök felszólítja, hogy térjen a tárgyra, egyidejűleg figyelmezteti az eredménytelen felszólítás következményeire.
 
@@ -427,15 +441,19 @@ terheli.
 
 47. § Az ülést vezető elnök – a szómegvonás okának közlésével – megvonhatja a szót attól a felszólalótól, aki felszólalása során kitöltötte a saját vagy a képviselőcsoportja időkeretét.
 
-48. § (1) Azt a felszólalót, aki felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot sértő vagy illetlen kifejezést használ, az ülést vezető elnök rendreutasítja, egyidejűleg figyelmezteti a sértő vagy illetlen kifejezés ismételt használatának következményeire.
+48. § (1) Azt a felszólalót, aki felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – sértő vagy illetlen kifejezést használ, az ülést vezető elnök rendreutasítja, egyidejűleg figyelmezteti a sértő vagy illetlen kifejezés ismételt használatának következményeire.
 
 (2) Az ülést vezető elnök megvonja a szót attól a felszólalótól, aki a rendreutasítást követően ismételten sértő vagy illetlen kifejezést használ.
 
-(3) Ha a képviselő felszólalása során kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, az ülést vezető elnök javasolhatja az Országgyűlésnek a képviselő kizárását az ülésnap hátralévő részéből. A javaslatról az Országgyűlés vita nélkül határoz.
+(3) Ha a képviselő felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselővel szemben pénzbírság kiszabását.
 
-(4) Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
+(4) A kizárásra vonatkozó javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
 (5) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
+
+(6) A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a kirívóan sértő kifejezés használatától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni.
+
+(7) A (3) és (6) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
 
 49. § (1) Az ülést vezető elnök felszólítás és figyelmeztetés nélkül megvonhatja a szót attól a felszólalótól, aki az ülést vezető elnök döntését, ülésvezetését – ügyrendi javaslat kivételével – kifogásolja. Az a felszólaló, akitől az ülést vezető elnök felszólítás és figyelmeztetés nélkül vonta meg a szót, kérheti a házszabályi rendelkezések értelmezéséért felelős bizottság eseti jellegű állásfoglalását.
 
@@ -443,23 +461,25 @@ terheli.
 
 (3) Akitől a szót az (1) bekezdés, a 46. § (2) bekezdése vagy a 48. § (2) bekezdése alapján megvonták, ugyanazon az ülésnapon, ugyanabban az ügyben nem szólalhat fel újra.
 
-(4) Azt a képviselőt, aki magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök – az intézkedés okának, illetve a megsértett házszabályi rendelkezésnek a megjelölésével – rendreutasítja, egyidejűleg figyelmezteti, hogy további rendzavarás esetén az ülésnapról való kizárását fogja kezdeményezni.
+(4) Ha a képviselő az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselővel szemben pénzbírság kiszabását. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
 
-(5) Ha a képviselő a rendreutasítás ellenére is folytatja a (4) bekezdésben meghatározott magatartást, az ülést vezető elnök javasolhatja az ülésnapról való kizárását, illetve vele szemben pénzbírság kiszabását.
+(5) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
-(6) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
+(6) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
 
-(7) A pénzbírság kiszabására irányuló javaslatról a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság dönt. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
+(7) A házelnök – a (4) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (4) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni.
 
-(8) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
+(8) A (4) és (7) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
 
 50. § (1) Ha a képviselő az Országgyűlés ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, az ülést vezető elnök javasolhatja a képviselő ülésnapról való kizárását, jogai gyakorlásának felfüggesztését és vele szemben pénzbírság kiszabását.
 
-(2) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Ha a képviselőt kizárták, az Országgyűlés ülésein és az országgyűlési bizottságok munkájában nem vehet részt, tiszteletdíjra nem jogosult Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
+(2) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Ha a képviselőt az (1) bekezdés szerint az ülésnapról kizárták, a kizárás időtartama alatt az Országgyűlés ülésein és az országgyűlési bizottságok munkájában nem vehet részt, tiszteletdíjra nem jogosult. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
+
+(2a) A házelnök – az (1) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – az (1) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselővel szemben pénzbírság kiszabását javasolni.
 
 (3) A képviselő jogai gyakorlásának felfüggesztéséről az Országgyűlés – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság állásfoglalásának kikérésével – a jelen lévő képviselők kétharmadának szavazatával dönt. A képviselő jogainak gyakorlása legfeljebb három ülésnapra függeszthető fel.
 
-(4) A pénzbírság kiszabására irányuló javaslatról a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság dönt. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának összegét.
+(4) Az (1) és (2a) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának összegét.
 
 (5) Az Országgyűlés a jelen lévő képviselők kétharmadának szavazatával az (1) bekezdésben meghatározott magatartás ugyanazon ülésszakon belül való folytatása esetén a képviselő jogainak gyakorlását
 
@@ -470,15 +490,32 @@ terheli.
 
 (7) A felfüggesztés első ülésnapja a felfüggesztésről való döntés napját követő ülésnap. A felfüggesztés időtartamának számításakor az ülésszakok közötti szünetet figyelmen kívül kell hagyni.
 
+(8) Az (5) bekezdés alkalmazásában figyelembe kell venni azt is, ha a képviselő az (1) bekezdésben meghatározott magatartást bizottsági ülésen tanúsította.
+
 51. § Ha az Országgyűlés ülésén olyan rendzavarás történik, amely a tanácskozás folytatását lehetetlenné teszi, az ülést vezető elnök az ülést határozott időre felfüggesztheti vagy berekesztheti. Az ülés berekesztése esetén a házelnök új ülést hív össze. Ha az ülést vezető elnök határozatát nem tudja kihirdetni, elhagyja az elnöki széket, amellyel az ülés megszakad. Az ülés megszakadása esetén az ülés csak akkor folytatódhat, ha a házelnök újból összehívja azt.
 
-52. § A bizottsági ülés zavartalan lefolytatása érdekében az országgyűlési bizottság elnöke a 46–47. §-ban, a 48. § (1)–(2) bekezdésében és a 49. § (1)–(3) bekezdésében foglalt intézkedéseket alkalmazhatja.
+52. § (1) A bizottsági ülés zavartalan lefolytatása érdekében az országgyűlési bizottság elnöke a 46–47. §-ban, a 48. § (1) és (2) bekezdésében, valamint a 49. § (1)–(3) bekezdésében foglalt intézkedéseket alkalmazhatja.
+
+(2) Ha a képviselő a bizottsági ülésen
+
+- a) felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, vagy
+- b) az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, a bizottság javasolhatja a képviselő kizárását a bizottsági ülés hátralévő részéből, illetve vele szemben pénzbírság kiszabását. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
+
+(3) Ha a képviselő a bizottság ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, a bizottság javasolhatja a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve vele szemben pénzbírság kiszabását.
+
+(4) A (2) és (3) bekezdés szerinti javaslat megtételéről vagy a képviselő kizárásáról a bizottság – bármely tagjának indítványára – vita nélkül dönt.
+
+(5) A házelnök – a (2) bekezdés szerinti jogkövetkezményre irányuló javaslat hiányában – a (2) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni. A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (3) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselővel szemben pénzbírság kiszabását javasolni.
+
+(6) A pénzbírság kiszabására, illetve a képviselő képviselői jogai gyakorlásának felfüggesztésére a 48. § (7) bekezdése, a 49. § (8) bekezdése, illetve az 50. § (3)–(7) bekezdése rendelkezéseit kell alkalmazni azzal, hogy az 50. § (5) bekezdésének alkalmazásában figyelembe kell venni azt is, ha a képviselő a (3) bekezdésben meghatározott magatartást az Országgyűlés ülésén követi el.
 
 #### 19. A házelnök rendészeti jogköre
 
 53. § (1) A házelnök – az Országgyűlés zavartalan működésének, illetve az Országgyűlés méltóságának biztosítása érdekében – rendészeti jogkört gyakorol. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol.
 
-(2)–(3)
+(2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezetteti az ülésteremből az 50. § (2) bekezdése szerint kizárt képviselőt, ha a képviselő az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
+
+(3) Az ülésről az 50. § (2) bekezdése szerint kizárt vagy a jogainak gyakorlásából felfüggesztett képviselő a kizárás vagy a felfüggesztés idején nem léphet be az ülésterembe, amelynek végrehajtásáról az Országgyűlési Őrség gondoskodik.
 
 (4) Az a képviselő, akivel szemben az ülést vezető elnök rendészeti intézkedést alkalmazott, kifogást nyújthat be a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottsághoz, amely nyolc napon belül kivizsgálja a kifogást, és vizsgálatának eredményéről jelentést tesz az Országgyűlésnek.
 
@@ -491,7 +528,14 @@ terheli.
 
 (2) Az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére belépők és ott tartózkodók belépésükkel elfogadják a házelnök (1) bekezdésben meghatározott rendelkezéseit, és kötelesek azokat tiszteletben tartani.
 
-(3)–(5)
+(3) Az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére belépők és ott tartózkodók belépésükkel elfogadják, hogy
+
+- a) a természetes személyazonosító adataikat, valamint a belépésükre és ott-tartózkodásukra vonatkozó adataikat – a létesítmények védelme, illetve az ezek működésével összefüggésben elkövetett bűncselekmények felderítése érdekében – az adatok rögzítésétől számított öt évig kezeli az Országgyűlés Hivatala és az Országgyűlési Őrség, valamint
+- b) az a) pont szerint kezelt adatokat az Országgyűlés Hivatala és az Országgyűlési Őrség törvényben meghatározott esetben más szervek részére átadhatja.
+
+(4) Az Országgyűlési Őrség részére a (3) bekezdés a) pontja szerinti adatokat az Országgyűlés Hivatala adja át.
+
+(5) Ha az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére belépők és ott tartózkodók (2) bekezdés szerinti kötelezettségüket nem teljesítik, akkor belépésük megtagadható, illetve onnan kivezettethetők. A házelnök döntése alapján az ilyen személy Országházba, az Országgyűlés Irodaházába, valamint az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére történő belépését legfeljebb két hétig meg lehet tagadni.
 
 ### IV. Fejezet — AZ ORSZÁGGYŰLÉS MŰKÖDÉSÉNEK NYILVÁNOSSÁGA
 
@@ -741,7 +785,7 @@ terheli.
 
 83. § (1) A házelnök és az alelnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve – díjazást nem fogadhat el.
 
-(2) A miniszterelnök, miniszter, államtitkár vagy kormánymegbízott képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
+(2) A miniszterelnök, miniszter, államtitkár, kormánymegbízott vagy járási hivatalvezető országgyűlési képviselőként nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
 #### 31. Gazdasági összeférhetetlenség
 
@@ -952,7 +996,13 @@ terheli.
 
 123. § (1) Az Országgyűlés Hivatala ellátja az Országgyűlés szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait. Az Országgyűlés Hivatala önállóan működő és gazdálkodó központi költségvetési szerv, az Országgyűlés költségvetési fejezetén belül önálló cím. Az Országgyűlés Hivatala jogi személy.
 
-(2)–(5)
+(2) Az Országgyűlés Hivatalát a főigazgató vezeti.
+
+(3) A főigazgatót a házelnök nevezi ki és menti fel. A főigazgató a házelnök irányítása alatt végzi munkáját.
+
+(4) A főigazgató e törvényben és határozati házszabályi rendelkezésekben meghatározottak szerint közreműködik az Országgyűlés döntéseinek előkészítésében, az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit az Országgyűlés költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatok és olyan költségvetési szervek tekintetében, amelyek esetében a költségvetési szerv vezetője nem bír fejezetet irányító szervi jogállással.
+
+(5) A főigazgató a háznaggyal azonos javadalmazásban részesül, jogállására egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 124. § (1) Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
@@ -960,59 +1010,164 @@ terheli.
 
 (3) Az Országgyűlés Hivatalának Szervezeti és Működési Szabályzatát a házelnök házelnöki rendelkezésben állapítja meg.
 
-### XIII. Fejezet
+### XIII. Fejezet — AZ ORSZÁGGYŰLÉSI ŐRSÉG
 
-#### 41.
+#### 41. Az Országgyűlési Őrség feladata
 
-#### 125. §
+125. § (1) Az Országgyűlési Őrség feladata az Országgyűlés védelme, függetlenségének és külső befolyástól mentes működésének biztosítása, az e törvényben meghatározott személyvédelmi, létesítménybiztosítási feladatok biztosítása, valamint az elsődleges tűzoltási és tűzbiztonsági feladatok ellátása.
 
-#### 126. §
+(2) Az Országgyűlési Őrség
 
-#### 42.
+- a) ellátja a házelnök személyi védelmét,
+- b) az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
+- c) biztosítja az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
+- d) az Országházban, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
+- e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
+- f) protokolláris díszelgési feladatokat lát el, és
+- g) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
 
-#### 127. §
+(3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
 
-#### 128. §
+126. § Az Országgyűlési Őrség feladatai ellátása során együttműködik a rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal.
 
-#### 129. §
+#### 42. Az Országgyűlési Őrség szervezete és irányítása
 
-#### 130. §
+127. § (1) Az Országgyűlési Őrség a házelnök irányítása alatt álló fegyveres szerv. Az Országgyűlési Őrség önállóan működő központi költségvetési szerv, amelynek gazdálkodásával kapcsolatos feladatait az Országgyűlés Hivatala látja el. Az Országgyűlési Őrség az Országgyűlés költségvetési fejezetében önálló címet képez.
 
-#### 131. §
+(2) Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a házelnök a költségvetéssel foglalkozó állandó bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
-#### 132. §
+128. § (1) Az Országgyűlési Őrség személyi állománya a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott hivatásos állományúakból (a továbbiakban: országgyűlési őr), köztisztviselőkből, valamint olyan munkavállalókból áll, akikre a közigazgatási szervnél foglalkoztatott munkavállalókra vonatkozó szabályokat kell alkalmazni.
 
-#### 43.
+(2) A kinevezett országgyűlési őr esküt tesz, amelynek szövegét a 2. melléklet határozza meg.
 
-#### 133. §
+(3) A köztársasági elnök részére az Országgyűlési Őrség személyi állományával kapcsolatos, a köztársasági elnök hatáskörébe utalt intézkedésre vagy döntésre vonatkozó javaslatot – a házelnök kezdeményezése alapján – a miniszterelnök terjeszti elő.
 
-#### 134. §
+(4) A köztársasági elnök (3) bekezdés szerinti intézkedését és döntését a miniszterelnök jegyzi ellen.
 
-#### 135. §
+129. § (1) A házelnök
 
-#### 136. §
+- a) kinevezi az Országgyűlési Őrség parancsnokát,
+- b) – ha törvény eltérően nem rendelkezik – gyakorolja a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott, a fegyveres szervet irányító miniszter részére meghatározott feladat- és hatásköröket.
 
-#### 137. §
+(2) A háznagy a házelnök által meghatározott rendben – a házelnök erre vonatkozó rendelkezése alapján – egyes, az Országgyűlési Őrség irányításával összefüggő jogokat gyakorolhat.
 
-#### 44.
+130. § (1) A rendészetért felelős miniszter a házelnök véleményének kikérésével rendeletben szabályozza
 
-#### 138. §
+- a) az Országgyűlési Őrség szolgálati szabályzatát,
+- b) az országgyűlési őrök képesítési követelményeit,
+- c) az Országgyűlési Őrség egyenruházati szabályzatát, és
+- d) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározottak szerint az Országgyűlési Őrségre vonatkozó szabályokat.
 
-#### 45.
+(2) Ha a rendészetért felelős miniszter a házelnök véleményével nem ért egyet, egyeztetést kezdeményez a vitás kérdésekről.
 
-#### 139. §
+131. § A házelnök és a rendészetért felelős miniszter megállapodást köt az Országgyűlési Őrség feladatellátáshoz szükséges ruházati és egyéb anyagi, technikai feltételek biztosításáról. A megállapodás végrehajtásában a rendészetért felelős miniszter alárendeltségébe tartozó szervek is részt vehetnek.
 
-#### 46.
+132. § (1) Az Országgyűlési Őrséget a parancsnok vezeti. A parancsnok
 
-#### 140. §
+- a) az Országgyűlési Őrség személyi állománya számára utasítást adhat,
+- b) javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
+- c) gyakorolja az e törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben, valamint jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat az Országgyűlési Őrség állományába tartozó személyek felett,
+- d) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét,
+- e) évente beszámol az Országgyűlési Őrség tevékenységéről az Országgyűlés honvédelemmel foglalkozó állandó bizottságának, valamint
+- f) képviseli az Országgyűlési Őrséget.
 
-#### 47.
+(2) Az országgyűlési őr tekintetében az országos parancsnok részére a fegyveres szervek hivatásos állományú tagjai szolgálati viszonyáról szóló törvényben biztosított munkáltatói jogköröket az Országgyűlési Őrség parancsnoka gyakorolja.
 
-#### 141. §
+(3) Az Országgyűlési Őrség parancsnokával és állományával kapcsolatban a belső bűnmegelőzési és bűnfelderítési feladatokat a Rendőrségről szóló törvény rendelkezései alapján az ott meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
-#### 48.
+#### 43. Az Országgyűlési Őrség működése
 
-#### 142. §
+133. § (1) Az Országgyűlési Őrség – az e törvényben meghatározott eltérésekkel – a feladatai ellátására és az utasítás teljesítésének kötelezettségére, az intézkedési kötelezettségre, az arányosság követelményére, a kényszerítő eszközök alkalmazásának követelményeire, az intézkedések és a kényszerítő eszközök alkalmazásának közös elveire és szabályaira, a titoktartási kötelezettségre, a fegyverviselési jogra, a segítségnyújtási kötelezettségre, a közreműködő igénybevételére, a segítség és eszközök igénybevételére a Rendőrségről szóló törvény rendelkezéseit alkalmazza.
+
+(2) Az országgyűlési őr az e törvényben szabályozott intézkedéseken túl a Rendőrségről szóló törvényben meghatározottak szerint fokozott ellenőrzést hajthat végre, ruházatot, csomagot és járművet átvizsgálhat, felvilágosítás kérhet, biztonsági intézkedést foganatosíthat, magánlakásban és közterületnek nem minősülő egyéb helyen intézkedhet, képfelvételt, illetve hangfelvételt, továbbá kép- és hangfelvételt készíthet, helyszínt biztosíthat, valamint személy- és létesítménybiztosítási intézkedést alkalmazhat.
+
+(3) Az országgyűlési őr kényszerítő eszközként testi kényszert, bilincset, vegyi eszközt, elektromos sokkoló eszközt, rendőrbotot, útzárat, megállásra kényszerítést, lőfegyvert a Rendőrségről szóló törvényben meghatározottak szerint alkalmazhat.
+
+(4) Az országgyűlési őr a tárgyalási rend fenntartásával kapcsolatos feladatok ellátása során kényszerítő eszközként kizárólag testi kényszert alkalmazhat.
+
+134. § (1) Az Országgyűlési Őrség nyomozóhatósági jogkört nem gyakorol. Ha tevékenysége során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére a külön jogszabály alapján hatáskörrel és illetékességgel rendelkező nyomozóhatóságnál vagy ügyésznél. Ha az országgyűlési őr tevékenysége során szabálysértés elkövetésének gyanúját észleli, – a rendelkezésére álló bizonyítási eszközök átadásával egyidejűleg – feljelentést tehet az eljárásra jogosult szabálysértési hatóságnál.
+
+(2) A házelnök az Országgyűlési Őrség parancsnokán keresztül az Országgyűlési Őrségnek egyedi utasítást adhat feladat elvégzésére vagy mulasztás pótlására.
+
+(3) Ha a késedelem más vagy mások személyét, a közbiztonságot vagy az intézkedés sikerét veszélyezteti, a házelnök vagy az ülés rendjének a fenntartása érdekében az ülést vezető elnök az Országgyűlési Őrség e törvényben meghatározott intézkedéseket végrehajtó szervezeti egységének vezetője részére egyedi utasítást adhat.
+
+135. § (1) Az országgyűlési őr köteles a szolgálati beosztásában meghatározott feladatait a törvényes előírásoknak megfelelően teljesíteni, a házelnök vagy az ülést vezető elnök, valamint az elöljárója utasításainak – az e törvényben foglaltak figyelembevételével – engedelmeskedni, e törvényben meghatározott feladatait, ha kell, élete kockáztatásával is ellátni. Meg kell tagadnia az utasítás végrehajtását, ha azzal bűncselekményt követne el.
+
+(2) Az országgyűlési őr a házelnöknek vagy az ülést vezető elnöknek a közvetlen utasítását, a szolgálati út betartásával, az Országgyűlési Őrség parancsnokának haladéktalanul jelenti. A jelentés az utasítás teljesítésére nincs halasztó hatállyal.
+
+(3) Az országgyűlési őr a házelnök, az ülést vezető elnök, a szolgálati elöljáró jogszabálysértő utasításának a teljesítését – az (1) bekezdésben foglalt kivétellel – nem tagadhatja meg, de az utasítás jogszabálysértő jellegére, ha az számára felismerhető, haladéktalanul köteles az utasításadó figyelmét felhívni. Ha az utasításadó az utasítást fenntartja, azt az utasított kérelmére köteles írásba foglalva kiadni.
+
+(4) Az írásba foglalás megtagadását vagy elmaradását az országgyűlési őr a házelnöknek a szolgálati út betartásával jelenti.
+
+(5) Ha a jogszabály rendelkezéseit az országgyűlési őr elöljárója sérti meg, az országgyűlési őr közvetlenül az elöljáró felettesénél, vagy ha a jogszabálysértést az Országgyűlési Őrség parancsnoka követi el, a házelnöknél bejelentheti. A bejelentéssel megkeresett a jogszabálysértést köteles kivizsgáltatni, és a bejelentőt a vizsgálat eredményéről, a tett intézkedésről – a bejelentés kézhezvételétől számított – nyolc napon belül tájékoztatni.
+
+(6) A jogszabálysértés bejelentése miatt a bejelentőt hátrány nem érheti, az alaptalanul tett bejelentés esetén felelősségre vonás kezdeményezhető.
+
+136. § (1) Az Országgyűlési Őrség belső szervezetét és működésének részletes szabályait, az utasításadás rendjét úgy kell kialakítani, hogy az utasítás adójának és végrehajtójának egyéni felelőssége mindenkor megállapítható legyen.
+
+(2) Az Országgyűlési Őrség egyenruhája és szolgálati igazolványa formájának, kialakításának el kell térnie más fegyveres szervek egyenruhájától és szolgálati igazolványától.
+
+137. § (1) Az Országgyűlési Őrség feladatai ellátása során az e törvényben meghatározott feladatai ellátásához szükséges mértékben az intézkedéssel, valamint az eljárásával érintett természetes személy személyazonosító adatait kezeli.
+
+(2) A 133. § (1) és (2) bekezdése tekintetében az Országgyűlési Őrség adatkezelésére a Rendőrségről szóló törvény rendelkezéseit kell alkalmazni.
+
+#### 44. Személyazonosság megállapítása
+
+138. § (1) Az országgyűlési őr a feladata ellátása során
+
+- a) az Országház, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, valamint az Országházba, az Országgyűlés Irodaházába, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
+- b) a létesítménybiztosítási intézkedés keretében lezárt területen, illetve olyan területen, amely tekintetében fokozott ellenőrzést rendeltek el, megállapíthatja a személyazonosságát annak, akivel kapcsolatban ez a közbiztonság, valamint az Országházban, illetve az Országgyűlés Irodaházában tartózkodók védelme céljából szükséges.
+
+(2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
+
+(3) A személyazonosság igazolásának megtagadása, valamint az (1) bekezdés b) pontjában meghatározott esetben akkor is, ha a személyazonosság a helyszínen nem állapítható meg, az országgyűlési őr azonnal értesíti a rendőrséget. Az országgyűlési őr a személyazonosság megállapításával érintett személyt a személyazonosság megállapítása céljából a rendőrség helyszínre érkezéséig visszatarthatja.
+
+(4) Az országgyűlési őr a (3) bekezdésben meghatározott esetben a személyazonosság megállapításával érintett személy ruházatát, csomagját, járművét átvizsgálhatja.
+
+#### 45. Elfogás
+
+139. § (1) Az országgyűlési őr elfogja a szándékos bűncselekmény elkövetésén tetten ért személyt, továbbá azt, aki a szabálysértés elkövetését az erre irányuló felszólítás ellenére nem hagyja abba.
+
+(2) Az elfogásról az országgyűlési őr haladéktalanul értesíti a rendőrséget, az elfogott személyt az országgyűlési őr a rendőr helyszínre érkezéséig tarthatja vissza. Az elfogott személyt előállítás céljából a rendőrségnek adja át. Az előállítás tartamát ilyen esetben az Országgyűlési Őrség intézkedésének a kezdetétől kell számítani.
+
+(3) Az elfogás törvényességéért az Országgyűlési Őrség, az előállítás törvényességéért a rendőrség felel. Az elfogás okának törvényességét a rendőrség nem vizsgálhatja, ha jogsértést állapít meg, tájékoztatja az Országgyűlési Őrség parancsnokát, bűncselekmény esetén feljelentést tesz az ügyésznél.
+
+#### 46. Közlekedésrendészeti intézkedés
+
+140. § Az országgyűlési őr személyvédelmi és létesítménybiztosítási feladatai céljából
+
+- a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti, valamint
+- b) az üzemben tartó, illetve a használó személyazonosító adatainak megállapítása érdekében járművet feltartóztathat, az abban tartózkodók személyazonosságát megállapíthatja.
+
+#### 47. Intézkedés az Országház és az Országgyűlés Irodaháza üléstermében
+
+141. § (1) Az országgyűlési őr
+
+- a) az ülést vezető elnök hozzájárulása nélkül az Országházban megtartott
+- b) az országgyűlési bizottság elnöke, akadályoztatása esetén a bizottsági ülést levezető alelnöknek a hozzájárulása nélkül az Országházban vagy az Országgyűlés Irodaházában megtartott bizottsági
+
+ülés ideje alatt az ülésterembe, az ülésteremhez tartozó páholyba és karzatra, valamint az üléstermet körülvevő folyosóra nem léphet be és nem intézkedhet.
+
+(2) Ha a késedelem veszéllyel jár és a hozzájárulás megadására jogosult akadályoztatva van, az országgyűlési őr az (1) bekezdésben meghatározott hozzájárulás nélkül is intézkedhet
+
+- a) segélyhívás esetén vagy öngyilkosság megakadályozása céljából,
+- b) bűncselekmény elkövetésének megakadályozása, megszakítása vagy a bűncselekmény elkövetőjének vagy gyanúsítottjának elfogása céljából,
+- c) közveszély, továbbá az életet vagy a testi épséget fenyegető közvetlen veszély elhárítása, illetve az ilyen veszélyben lévők kimentése érdekében,
+- d) rendkívüli vagy tisztázatlan okból bekövetkezett halálesettel kapcsolatos intézkedés megtételére,
+- e) a szabálysértést felszólítás ellenére folytató személy elfogása céljából,
+- f) ha az elfogás törvényben meghatározott egyéb okból szükséges.
+
+(3) A 135. § (2) és (3) bekezdése szerinti utasítás kiadásával az (1) bekezdésben meghatározott hozzájárulást megadottnak kell tekinteni.
+
+#### 48. Jogorvoslat
+
+142. § (1) Akinek az Országgyűlési Őrség intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása (a továbbiakban e § alkalmazásában: intézkedés) alapvető jogát sértette, panasszal fordulhat az Országgyűlési Őrség parancsnokához.
+
+(2) Az (1) bekezdés alapján a panaszt a jogsérelemtől, intézkedés elmulasztása esetén az arról való tudomásszerzéstől számított harminc napon belül lehet előterjeszteni, és a beérkezéstől, illetve az áttételtől számított harminc napon belül kell elbírálni.
+
+(3) Az (1) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó társadalmi szervezet vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+
+(4) Az Országgyűlési Őrség parancsnoka a panaszban foglaltakat közigazgatási hatósági eljárásban bírálja el. Az Országgyűlési Őrség parancsnokának a panaszról hozott határozata ellen fellebbezésnek nincsen helye, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1026,7 +1181,11 @@ terheli.
 
 (4) Felhatalmazást kap a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter, hogy a Nemzeti Adó- és Vámhivatal vámszerve működésére szolgáló területre a képviselők belépésének szabályait rendeletben állapítsa meg.
 
-(5)
+(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
+
+- a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
+- b) az országgyűlési őr képesítési követelményeit,
+- c) az Országgyűlési Őrség egyenruházati szabályzatát.
 
 #### 50. Hatályba léptető rendelkezések
 
@@ -1044,9 +1203,15 @@ terheli.
 
 (2) A háznagyot az Országgyűlés első alkalommal 2012. december 31-ig választja meg. A főigazgatót a házelnök első alkalommal 2012. december 31-ig nevezi ki.
 
+(2a) A háznagy javadalmazása megegyezik a miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott – alapilletményből, illetménykiegészítésből, vezetői illetménypótlékból álló – illetményével, illetve egyéb, a miniszter részére jogszabályban biztosított juttatással. A háznagyi megbízatás időtartama a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek minősül, illetve nyugdíjra jogosító szolgálati időnek számít.
+
 (3) E törvény hatálybalépését követően az Országgyűlés, az Országház és a Parlament nevét, jelképeit az e törvény hatálybalépése előtti időponttól felhasználó 2012. december 31-ig kérvényezheti a házelnöknél a név-, illetve jelképhasználat engedélyeztetését.
 
-(4)–(6)
+(4) A 2013. január 1-jét megelőzően kihirdetett jogszabályban az Országgyűlés védelmével, függetlenségének és külső befolyástól mentes működésének biztosításával, továbbá az Országház és az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben történő rendőri intézkedésekkel és a tűzbiztonsági követelmények megtartásával összefüggésben a rendőrség, illetve a hivatásos katasztrófavédelmi szerv számára meghatározott feladatokat és hatásköröket az Országgyűlési Őrség látja el.
+
+(5) Ahol jogszabály az Országgyűlési Őrség részére a (4) bekezdésben meghatározott feladatok tekintetében a rendőrséget, illetve a hivatásos katasztrófavédelmi szervet említi, azon az Országgyűlési Őrséget kell érteni.
+
+(6) A rendőrség és a hivatásos katasztrófavédelmi szerv az Országgyűlési Őrség részére a (4) bekezdésben meghatározott feladatok ellátásában résztvevő hivatásos állományának a rendőrséggel vagy a hivatásos katasztrófavédelmi szervvel fennálló szolgálati viszonya – a házelnök, a rendészetért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter által meghatározott feltételek mellett, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvénynek a más fegyveres szervhez történő áthelyezés szabályai szerint – országgyűlési őr szolgálati viszonnyá alakul át.
 
 (7) A házelnök az Országgyűlési Őrségnek az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjével összefüggő tevékenysége részletes szabályait 2013. január 1-jéig határozza meg és teszi közzé az Országgyűlés honlapján.
 
@@ -1090,7 +1255,25 @@ sarkalatosnak minősül.
 
 #### 147. §
 
-#### 148. §
+148. § (1)
+
+(2) A büntetőeljárásáról szóló 1998. évi XIX. törvény 29. § e) pontja helyébe a következő rendelkezés lép:
+
+(Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:)
+
+„e) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,”
+
+(3) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 137. § 1. pontjának j) alpontjába a következő rendelkezés lép:
+
+(E törvény alkalmazásában
+
+1. hivatalos személy:)
+
+„j) az Alkotmánybíróságnál, bíróságnál, ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál és az Országgyűlési Őrségnél szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,”
+
+(4) A Btk. 122. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség hivatásos állományú tagja.”
 
 149. § (1)
 
@@ -1098,11 +1281,41 @@ sarkalatosnak minősül.
 
 #### 150. §
 
-151. § (1)–(5)
+151. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében a „valamint a Nemzeti Adó- és Vámhivatal és” szövegrész helyébe az „Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal, valamint” szöveg lép.
+
+(2) A Hszt. 1. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az Országgyűlési Őrség hivatásos állományú tagjainak szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.”
+
+(3) A Hszt. 18. § (2) és (3) bekezdésében, 23. §-ában és 51. § (1) bekezdésében a „Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség” szöveg lép.
+
+(4) A Hszt. 103. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A felsőfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:)
+
+„a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 50%-a,”
+
+(5) A Hszt. 103. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A középfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:)
+
+„a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 15%-a,”
 
 (6)
 
-(7)–(8)
+(7) A Hszt. 254. § (2) bekezdés a) pontja a következő 16. alponttal egészül ki:
+
+(A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni.
+
+A pótlékok mértéke:
+
+egy hónapra számítva:)
+
+„16. az Országgyűlési Őrség állományának a pótléka 150–450%”
+
+(8) A Hszt. a következő 342/A. §-sal egészül ki:
+
+„342/A. § Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben, az Országgyűlés elnöke véleménye kikérésével a 342. § (2)–(8) bekezdése szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.”
 
 #### 152. §
 
@@ -1132,7 +1345,7 @@ sarkalatosnak minősül.
 (2) Hatályát veszti
 
 - a)–b)
-- c)
+- c) a Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás hároméves kereteiről szóló 2003. évi CXVI. törvény 15. § (7) bekezdése.
 
 (3)
 

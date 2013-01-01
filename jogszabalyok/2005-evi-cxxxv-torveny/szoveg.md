@@ -14,7 +14,7 @@ Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminősé
 - b) az Európai Unió bármely tagállamának állampolgára,
 - c) az Európai Unión kívüli államnak az Európai Unióban jogszerűen tartózkodó állampolgára,
 - d) Magyarország területén jogszerűen tartózkodó hontalan személy,
-- e) emberkereskedelem áldozata, valamint
+- e) emberkereskedelem áldozataként azonosított személy, valamint
 - f) az állampolgársága szerinti államnak Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján erre jogosult.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter nyilatkozata az irányadó.
@@ -40,7 +40,7 @@ miatt került sor.
 
 ### A szolgáltatások fajtái
 
-4. § (1) Az állam áldozatsegítő szolgáltatásként elősegíti az áldozat érdekeinek érvényesítését, azonnali pénzügyi segélyt ad, illetve jogi segítségnyújtást biztosít.
+4. § (1) Az állam áldozatsegítő szolgáltatásként elősegíti az áldozat érdekeinek érvényesítését, azonnali pénzügyi segélyt ad, jogi segítségnyújtást, illetve szükség szerint védett szálláshelyet biztosít.
 
 (2) Az érdekérvényesítés elősegítése keretében az áldozatsegítő szolgálat az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások igénybevételéhez.
 
@@ -50,11 +50,13 @@ miatt került sor.
 
 (5) Az érdekérvényesítés elősegítése és az azonnali pénzügyi segély a rászorultság vizsgálata nélkül térítésmentesen jár az áldozatnak. A jogi segítségnyújtásra a Jst.-ben meghatározott feltételek esetén jogosult az áldozat.
 
+(6) Az állam az emberkereskedelem áldozataként azonosított, magyar állampolgárságú vagy a szabad mozgás és tartózkodás jogával rendelkező személy számára tekintet nélkül arra, hogy az 1. § (1) bekezdésében és a 2. §-ban meghatározott bűncselekmény miatt büntetőeljárás indult-e, szükség szerint védett szálláshelyet biztosít. Védett szálláshely az emberkereskedelem áldozataként azonosított személyt befogadó és számára jogszabályban meghatározott ellátásokat nyújtó létesítmény.
+
 ### A szolgáltatásokból kizárt áldozat
 
 5. § Nem kaphat szolgáltatást az az áldozat, aki
 
-- a) a kért támogatást az ügyben korábban már megkapta,
+- a) a kért támogatást az ügyben korábban már megkapta, kivéve a védett szálláshelyet,
 - b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat jogerőre emelkedésétől számított 2 évig,
 - c) a támogatás iránti ügyében akadályozza az ellenőrzésre irányuló vizsgálat elvégzését,
 - d) a korábbi támogatás iránti ügyében megakadályozta az ellenőrzésre irányuló vizsgálatot, az ezt megállapító határozat jogerőre emelkedéséről számított 2 évig,
@@ -137,7 +139,7 @@ bűncselekményt követett el, és azt a bíróság jogerős határozatában meg
 - d) az áldozatsegítésben részt vevő állami, önkormányzati, civil és egyházi szervezetek elérhetőségéről,
 - e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
-(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet, és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
+(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
 
 (3) Az áldozatsegítő szolgálat a tájékoztatás megtörténtéről – a (2) bekezdésben meghatározott eset kivételével – feljegyzést készít.
 
@@ -487,6 +489,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (3) Felhatalmazást kap a Kormány, hogy az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat rendeletben jelölje ki.
 
+(4) Felhatalmazást kap a Kormány, hogy az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait rendeletben állapítsa meg.
+
 ### Az Európai Unió jogának való megfelelés
 
 47. § (1) E törvény a bűncselekmények áldozatainak kárenyhítéséről szóló, 2004. április 29-i 2004/80/EK tanácsi irányelvnek való megfelelést szolgálja.
@@ -494,6 +498,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (2) E törvény 9. § (1) bekezdése a büntetőeljárásban a sértett jogállásáról szóló, 2001. március 15-i 2001/220/IB tanácsi kerethatározat 4. cikkének való megfelelést szolgálja.
 
 (3) E törvény 9/A. §-a és 43. § (3) bekezdése a harmadik országok emberkereskedelem áldozatává vált vagy az illegális bevándorlás megkönnyítésére irányuló cselekményektől érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről szóló, 2004. április 29-i 2004/81/EK tanácsi irányelv 5. és 6. cikkének való megfelelést szolgálja.
+
+(4) E törvény 9. § (2) bekezdése és 46. § (4) bekezdése az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének történő megfelelést szolgálja.
 
 48. § (1)–(6)
 

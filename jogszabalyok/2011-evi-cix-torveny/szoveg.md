@@ -71,7 +71,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (2) A 30. § szerint regisztrált személyek az MMA rendes tagjai.
 
-(3) Az MMA rendes tagjainak száma nem lehet több 200 főnél.
+(3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
 
 (4) Amennyiben valamely művész az MMA rendes tagjára vonatkozó, jelen törvényben, illetve az Alapszabályban támasztott feltételeknek megfelel és rendelkezik az MMA legalább négy rendes tagjának ajánlásával, úgy rendes tagként való jelöléséről az MMA 20. § (1) és (2) bekezdés szerinti tagozata dönt. A tagozat támogatása esetén a művész regisztrált tagjelöltté válik. Rendes tagot a közgyűlés a regisztrált tagjelöltek közül választ.
 
@@ -83,7 +83,9 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 10. § Az elnökség ajánlására az MMA pártoló tagjává az MMA érdekében kimagasló szellemi vagy anyagi támogatást vállalt személy választható.
 
-11. § A tagság egyéb feltételeiről és az ajánlás, valamint a választás részletes szabályairól e törvény keretei között az MMA Alapszabálya rendelkezik.
+11. § (1) Az MMA – a 4. § (2) bekezdés p) pontja alapján – a rendes és a levelező tagok magyar művészeti életben nyújtott kimagasló szellemi, alkotói teljesítményét és köztestületi munkáját havi életjáradék folyósításával is elismeri; elhalálozásuk esetén annak meghatározott hányada hozzátartozói ellátásként (özvegyi és árvaellátásként) folyósítható.
+
+(2) A tagság jelen törvényben nem szabályozott feltételeiről és az ajánlás, valamint a választás részletes szabályairól e törvény keretei között az MMA Alapszabálya rendelkezik.
 
 #### 4. A társult szervezet
 
@@ -161,7 +163,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 #### 7. A felügyelő testület
 
-18. § (1) A köztestületi vagyonkezelés és a köztestület gazdálkodásának törvényességét, a vagyonkezelés és gazdálkodás során a jelen törvény céljainak érvényesülését öttagú felügyelő testület ellenőrzi. A felügyelő testület egy tagját a kultúráért felelős miniszter, egy tagját az államháztartásért felelős miniszter, egy tagját az állami vagyon felügyeletéért felelős miniszter, egy tagját az Országgyűlés kulturális ügyekért felelős bizottsága nevezi ki és hívja vissza, egy tagját az MMA magyar állampolgárságú tagjai közül a közgyűlés választja és hívja vissza. A felügyelő testület tagjainak megbízatása öt évre szól. A felügyelő testület tagjai a felügyelő testület megbízatásának idejére maguk közül elnököt választanak.
+18. § (1) A köztestületi vagyonkezelés és a köztestület gazdálkodásának törvényességét, a vagyonkezelés és gazdálkodás során e törvény céljainak érvényesülését öttagú felügyelő testület ellenőrzi. A felügyelő testület tagja büntetlen előéletű, az országgyűlési képviselők választásán választható magyar állampolgár lehet. A felügyelő testület egy tagját a Kormány, egy tagját az Országgyűlés kulturális ügyekért felelős bizottsága nevezi ki és hívja vissza, további három tagját a közgyűlés választja és hívja vissza. A közgyűlés egy tagot a rendes tagjai közül választ. A felügyelő testület tagjainak megbízatása öt évre szól. A felügyelő testület tagjai a felügyelő testület megbízatásának idejére maguk közül elnököt választanak.
 
 (2) A felügyelő testület köteles előzetesen megvizsgálni és véleményezni a közgyűlés és az elnökség ülésének napirendjén szereplő, (1) bekezdés szerinti ellenőrzési feladata szempontjából jelentős valamennyi előterjesztést.
 
@@ -223,9 +225,11 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (4) A tiszteletbeli elnöki cím adományozásának feltételeiről az Alapszabály rendelkezik.
 
-26. § (1) A tisztségviselők a tevékenységükért az Alapszabályban rögzített feltételek szerint díjazásban és költségtérítésben részesülhetnek.
+26. § (1) Az elnököt a miniszteri illetménnyel azonos mértékű díjazás, a főtitkárt a közigazgatási államtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni. Az elnök és a főtitkár az Alapszabályban rögzített feltételek szerint költségtérítésben részesül.
 
-(2) A tisztségviselők számára nyújtott személyi jellegű juttatás mértéke közérdekből nyilvános adat.
+(2) Az (1) bekezdésben nem említett tisztségviselők a tevékenységükért az Alapszabályban rögzített feltételek szerint díjazásban és költségtérítésben részesülhetnek.
+
+(3) A tisztségviselők számára nyújtott személyi jellegű juttatás mértéke közérdekből nyilvános adat.
 
 ### III. Fejezet — A MAGYAR MŰVÉSZETI AKADÉMIA GAZDÁLKODÁSA ÉS VAGYONA
 
@@ -267,13 +271,17 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (15) Az MMA és az általa irányított költségvetési szervek gazdálkodását az Állami Számvevőszék ellenőrzi.
 
-28. § (1) Az MMA a köztestületi feladatai szervezése, az MMA külön költségvetési fejezete és intézményei igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatai ellátására költségvetési szervet alapít. E költségvetési szerv (a továbbiakban: MMA Titkársága) közfeladatokat ellátó alkalmazottai köztisztviselők.
+28. § (1) Az MMA a közfeladatai szervezését, valamint a költségvetési fejezeti és az MMA által irányított költségvetési szervekkel kapcsolatos, a köztestület közfeladatai ellátásával összefüggő igazgatási, gazdálkodási, így különösen pénzügyi, vagyonkezelési és ellenőrzési feladatokat az MMA által irányított költségvetési szerv (a továbbiakban: MMA Titkársága) látja el. Az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó alkalmazottja – a főtitkárt is beleértve – közszolgálati jogviszonyban álló köztisztviselő és közszolgálati ügykezelő.
 
-(2) Az (1) bekezdés szerinti költségvetési szerv feladatait alapító okirat rögzíti, amelyet az MMA elnöke ad ki.
+(2) Az MMA Titkársága feladatait az alapító okirata rögzíti, amelyet az MMA elnöke ad ki.
 
-(3) Az MMA által alapított költségvetési szerveknél foglalkoztatottakra – az MMA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
+(3) Az MMA által irányított költségvetési szerveknél foglalkoztatottra – az MMA Titkárságának a közfeladat szervezési, igazgatási és gazdálkodási feladatokat ellátó köztisztviselője, közszolgálati ügykezelője, illetve munkavállalója kivételével – a közalkalmazottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 9/A. Felhatalmazó rendelkezés
+
+28/A. § Felhatalmazást kap a Kormány, hogy a rendes és a levelező tagokat megillető életjáradék mértékét, a folyósítására vonatkozó részletes szabályokat, valamint az életjáradékban részesített tag elhalálozása esetén megállapítható hozzátartozói ellátásokra vonatkozó szabályokat rendeletben állapítsa meg.
 
 #### 10. Hatálybalépés
 
@@ -298,6 +306,8 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 (6) Az első felügyelő testület tagjait a törvény hatálybalépését követő 120 napon belül kell kinevezni. A felügyelő testület a valamennyi tagja kinevezését, megválasztását követő 30 napon belül köteles ügyrendjének megállapítására, amelyet az alakuló ülést követő első közgyűlés hagy jóvá.
 
 (7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-ig lehetőleg elérje a 200 főt.
+
+(8) A (6) bekezdés szerint 2012. december 31-ig kinevezett és megválasztott felügyelő testületi tagok megbízatása 2014. május 31. napján megszűnik. Az új felügyelő testületi tagokat 2014. május 31-ig kell kinevezni, megválasztani a Magyar Művészeti Akadémia kultúrstratégiai szerepének megerősítése érdekében szükséges törvénymódosításokról, valamint egyéb kulturális tárgyú törvények módosításáról szóló 2012. évi CCXXI. törvénnyel megállapított 18. § (1) bekezdése szerint, 2014. június 1-jei hatállyal. Az új felügyelő testület 2014. július 30-ig köteles az ügyrendjének megállapítására, amelyet az új testület alakuló ülését követő első közgyűlés hagy jóvá.
 
 #### 12. Módosuló rendelkezések
 

@@ -14,7 +14,7 @@ az ingatlan-nyilvántartásról
 
 (2) Az e törvényben felsorolt jogokon és tényeken kívül az ingatlan-nyilvántartásba más jog bejegyzését, tény feljegyzését csak törvény rendelheti el.
 
-(3) Ingatlannal kapcsolatos bírósági, ügyészségi, hatósági (a továbbiakban: hatósági) eljárásokban – a részben vagy egészben az Európai Unió által finanszírozott, a mezőgazdasági földterületekhez kapcsolódó támogatásokra vonatkozó mezőgazdasági és vidékfejlesztési eljárást kivéve – az ingatlan-nyilvántartási tulajdoni lapon átvezetett adatokat, valamint az ingatlan-nyilvántartási térképen ábrázolt határvonalat kell irányadónak tekinteni.
+(3) Ingatlannal kapcsolatos bírósági, ügyészségi, hatósági (a továbbiakban: hatósági) eljárásokban – a részben vagy egészében az Európai Unió által finanszírozott, a mezőgazdasági földterületekhez kapcsolódó támogatásokra vonatkozó mezőgazdasági és vidékfejlesztési eljárást kivéve – az ingatlan-nyilvántartási tulajdoni lapon átvezetett adatokat, valamint az állami ingatlan-nyilvántartási térképi adatbázisban ábrázolt határvonalat kell irányadónak tekinteni.
 
 ### Az ingatlan-nyilvántartás elvei
 
@@ -51,6 +51,11 @@ az ingatlan-nyilvántartásról
 
 (5) Az ingatlan természetben meghatározott részére bejegyzett jogok, tények és átvezetett adatok alapjául szolgáló okiratnak az érintett természetbeni rész meghatározására vonatkozó tartalma korlátozás nélkül megismerhető.
 
+(6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalma korlátozás nélkül megismerhető, azt bárki megtekintheti, arról feljegyzést készíthet és hiteles másolatot kérhet. A másolat lehet:
+
+- a) szemle másolat: amely a hatályos térképi állapotot tartalmazza,
+- b) teljes másolat: amely a hatályos térképi állapot mellett az előzetes térképi változásokat is tartalmazza.
+
 ### Közhitelesség
 
 5. § (1) Az ingatlan-nyilvántartás – ha törvény kivételt nem tesz – a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja. Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, illetve, ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
@@ -65,7 +70,13 @@ az ingatlan-nyilvántartásról
 
 (6) Az ingatlan-nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 
-(7) Ha az ingatlannak a tulajdoni lapon átvezetett és az ingatlan-nyilvántartási térképen ábrázolt határvonala alapján a földmérésről szóló jogszabályok szerint meghatározható területnagysága eltér egymástól, akkor ez utóbbi az irányadó.
+(7) Ha az ingatlannak a tulajdoni lapon átvezetett és az állami ingatlan-nyilvántartási térképi adatbázisban ábrázolt határvonala alapján külön jogszabály szerint meghatározható területnagysága eltér egymástól, akkor ez utóbbi az irányadó.
+
+(8) Az állami ingatlan-nyilvántartási térképi adatbázis – az ellenkező bizonyításáig – hitelesen tanúsítja a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 11. § (1) bekezdése szerint meghatározott állami alapadat-tartalmat.
+
+(9) Az állami ingatlan-nyilvántartási térképi adatbázisban rögzített földrészletről, továbbá az ott rögzített egyéb önálló ingatlanról – a (10) bekezdés kivételével – az ellenkező bizonyításáig vélelmezni kell, hogy az fennáll, határvonalainak ábrázolása helyes és teljes.
+
+(10) Az állami ingatlan-nyilvántartási térképi adatbázisban nem rögzített, továbbá törölt (érvénytelenített) földrészletről, egyéb önálló ingatlanról azt kell vélelmezni, hogy az nem áll fenn. A bizonyítási kötelezettség azt terheli, aki az állami ingatlan-nyilvántartási térképi adatbázis helyességét, teljességét vitatja.
 
 ### Kérelemhez kötöttség
 
@@ -151,9 +162,9 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 ### A jogosultak adatai
 
-15. § (1) Az ingatlanok nyilvántartása során a magánszemély azonosítására természetes személyazonosító adatait, lakcímét, továbbá, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó magánszemélyek esetében, az érintett személyi azonosítóját kell használni. A szervezetek azonosítására a szervezet megnevezését, székhelyét, a statisztikáról szóló törvény hatálya alá tartozó szervezet esetében a statisztikai azonosítóját kell alkalmazni (az azonosításra szolgáló adatok együtt: a jogosult adatai).
+15. § (1) Az ingatlanok nyilvántartása során a magánszemély azonosítására természetes személyazonosító adatait, lakcímét, állampolgárságát, továbbá, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó magánszemélyek esetében, az érintett személyi azonosítóját kell használni. A szervezetek azonosítására a szervezet megnevezését, székhelyét, valamint a cégjegyzékbe bejegyzett jogi személy, jogi személyiséggel nem rendelkező szervezetek esetében a cégjegyzékszámot, a statisztikáról szóló törvény hatálya alá tartozó szervezet esetében a statisztikai azonosítóját kell alkalmazni (az azonosításra szolgáló adatok együtt: a jogosult adatai).
 
-(2) Az adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény rendelkezései szerint kell kezelni, s azt a tulajdoni lapon továbbá – ha törvény másként nem rendelkezik – az ingatlan-nyilvántartás részeiről kiadott másolaton feltüntetni nem szabad.
+(2) Az adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény rendelkezései szerint kell kezelni, és azt, valamint a cégjegyzékbe bejegyzett jogi személy, jogi személyiséggel nem rendelkező szervezetek esetében a cégjegyzékszámot a tulajdoni lapon, továbbá – ha törvény másként nem rendelkezik – az ingatlan-nyilvántartás részeiről kiadott másolaton feltüntetni nem szabad.
 
 (3) Az (1) bekezdésben meghatározott személyek és szervezetek az ott felsorolt adatokat kötelesek az ingatlan-nyilvántartási ügyükben eljáró ingatlanügyi hatósággal közölni.
 
@@ -182,7 +193,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - b) a jogosulttal szemben megindított felszámolási eljárás, végelszámolás,
 - c) a külföldi székhelyű vállalkozás fióktelepének, kereskedelmi képviseletének cégjegyzékből történő törlése,
 - d) kisajátítási és telekalakítási eljárás megindítása,
-- e) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem benyújtása,
+- e) az ingatlanügyi hatósági határozat elleni jogorvoslati kérelem, ügyészi felhívás, ügyészi fellépés benyújtása,
 - f) bejegyzés, feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati kérelem benyújtása,
 - g) az ingatlan jogi jellege,
 - h) bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
@@ -208,7 +219,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 ### II. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS RÉSZEI
 
-18. § (1) Az ingatlan-nyilvántartás az erre meghatározott számítógépes adathordozón rögzített, olvasható formában megjeleníthető tulajdoni lapból, a tulajdoni lapról megszűnt bejegyzések adatainak jegyzékéből, továbbá az ingatlan-nyilvántartási térképből és az okirattárból áll. Ha e törvény így rendelkezik, ingatlan-nyilvántartási térképként a számítógépes adathordozón rögzített földmérési alaptérképet kell használni. Az ingatlan-nyilvántartási térképpel egy tekintet alá esik az egyéb önálló ingatlanok alaprajza.
+18. § (1) Az egységes ingatlan-nyilvántartási adatbázis olvasható formában megjeleníthető tulajdoni lapból, a tulajdoni lapról megszűnt bejegyzések adatainak adatbázisából, továbbá az állami ingatlan-nyilvántartási térképi adatbázisból, valamint az okirattárból és az analóg és digitális archív térképi adatok adatbázisából áll (a továbbiakban: ingatlan-nyilvántartás). Az egyéb önálló ingatlanok alaprajza vagy egyéb ábrázolása az állami ingatlan-nyilvántartási térképi adatbázis része.
 
 (2) A számítógépes adatfeldolgozás útján a település ingatlanairól, illetőleg ezek adatairól összesítők és kimutatások, továbbá, ha szükséges az ingatlan-nyilvántartás vezetéséhez más jegyzékek, és e törvényben foglalt bizonylatok is készíthetők, illetőleg számítógépes adatkapcsolat létrehozásával a gépi adatfeldolgozás eszközeivel olvasható formában megjeleníthetők.
 
@@ -216,7 +227,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 19. § (1) Az ingatlan-nyilvántartásban az ingatlan adatait, valamint az ingatlanhoz kapcsolódó jogokat és jogilag jelentős tényeket, továbbá azok jogosultjait és a jogosultak adatait a tulajdoni lapra kell bejegyezni, feljegyezni, illetve azon átvezetni.
 
-(2) A tulajdoni lapokat településenként egytől kezdődően számozni kell. A tulajdoni lap száma mellett minden tulajdoni lapon a település nevét is fel kell tüntetni. Az ingatlan-nyilvántartás számítógépes rendszerében az ingatlan tulajdoni lapjának száma megegyezik a helyrajzi számmal. Az ingatlanok helyrajzi számozásának megállapítására vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+(2) A tulajdoni lapokat településenként egytől kezdődően számozni kell. A tulajdoni lap száma mellett minden tulajdoni lapon a település nevét is fel kell tüntetni. Az ingatlan-nyilvántartás számítógépes rendszerében az ingatlan tulajdoni lapjának száma megegyezik a helyrajzi számmal vagy az ingatlan egyedi azonosítójával. Az ingatlanok helyrajzi számozásának megállapítására vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
 (3) Egyes ingatlanok sajátos nyilvántartási szempontjaira figyelemmel a tulajdoni lap – egymással összetartozó – tulajdoni törzslapként és tulajdoni különlapként is vezethető.
 
@@ -228,28 +239,19 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (3) Az okirattárban lévő iratok a köziratokról a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény hatálya alá tartoznak.
 
-### Az ingatlan-nyilvántartási térkép
+### Az állami ingatlan-nyilvántartási térképi adatbázis
 
-21. § (1) Az ingatlan-nyilvántartás céljára az állami földmérési alaptérkép nyilvántartási példánya szolgál.
+21. § (1) Az egységes ingatlan-nyilvántartás céljára az Fttv. 13. § (1) bekezdésében meghatározott térképi adatbázis szolgál.
 
-(2) Ingatlan-nyilvántartási térképként a számítógépes adathordozón (digitális formában) rögzített földmérési alaptérképet kell használni, ha e térkép a településről elkészült és azt az erre előírt eljárás során előzetesen hitelesítették.
+(2)
 
-(3) Az ingatlan-nyilvántartási térkép az ingatlan-nyilvántartás szempontjából a következőket tartalmazza:
-
-- a) a település neve és térképszelvény száma,
-- b) a település közigazgatási határvonala, valamint a belterület, külterület határvonala,
-- c) földrészlet határvonala és helyrajzi száma,
-- d) épület, építmény,
-- e) alrészlet határvonala, jele és megnevezése,
-- f) a földminősítési mintatér, valamint a földminősítéssel megállapított minőségi osztályok határvonalai,
-- g) dűlőnév, utcanév és házszám,
-- h) közterületről, illetve más ingatlanáról nyíló pince bejárata.
+(3) Az állami ingatlan-nyilvántartási térképi adatbázis az ingatlan-nyilvántartás szempontjából az Fttv. 11. § (1) bekezdésében meghatározottakat tartalmazza.
 
 (4) Az egyéb önálló ingatlanok alaprajza 1:100 vagy annál nagyobb méretarányban ábrázolja az ingatlan – társasháznál a közös, szövetkezeti háznál a szövetkezeti tulajdonban lévő épületrészek, továbbá az öröklakások és szövetkezeti lakások – elhatároló vonalait. Az alaprajzon fel kell tüntetni a település nevét, az ingatlan utca, házszám, emelet és ajtószám szerinti megjelölését, továbbá az önálló ingatlan sorszámát és alapterületét.
 
 ### A törölt bejegyzések jegyzéke
 
-22. § A település ingatlan-nyilvántartásának számítógépes rendszerében gépi adathordozón meg kell őrizni a tulajdoni lapról törölt bejegyzéseket és adatokat, valamint a törlésre vonatkozó határozat számát, amelynek alapján a törlés alapjául szolgáló okirat az okirattárból visszakereshető. A törölt bejegyzések állományára is vonatkoznak a 20. § (3) bekezdésében foglaltak.
+22. § A település egységes ingatlan-nyilvántartási adatbázisában meg kell őrizni a törölt bejegyzéseket és adatokat, valamint a törlésre vonatkozó határozat számát, amelynek alapján a törlés alapjául szolgáló okirat az okirattárból visszakereshető. A törölt bejegyzések állományára is vonatkoznak a 20. § (3) bekezdésében foglaltak.
 
 ### III. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS MÓDJA
 
@@ -311,7 +313,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (1a) Hivatalból vezeti át – az (5) bekezdésben és a 28. § (1) bekezdésében foglaltakra figyelemmel – az ingatlanügyi hatóság
 
-- a) az ingatlan (2) bekezdés a) pontjában meghatározott adatában, továbbá a földrészlet művelési ágában – ide nem értve a művelés alól kivett területet – és a föld minőségében bekövetkezett, helyszíni ellenőrzés alapján megállapított,
+- a) az ingatlan határvonalában, területében, a földrészlet művelési ágában – ide nem értve a művelés alól kivett területet – és a föld minőségében bekövetkezett, helyszíni ellenőrzés alapján megállapított,
 - b) a hatósági nyilvántartásból, különösen a személyiadat- és lakcímnyilvántartásból vagy a cégnyilvántartásból történő adatátvétellel a jogosult adatában bekövetkezett azon változásokat, amelyeket eljárása során észlel.
 
 (2) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
@@ -325,11 +327,17 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (5) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, belterületi határának, továbbá a közterület nevének módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
 
+(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.
+
+(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.
+
+(7) A jogosult a tulajdonjog-bejegyzés iránti kérelem benyújtásával egyidejűleg kérheti lakcíme ehhez kapcsolódó megváltozásának ingatlan-nyilvántartásban történő átvezetését is. A kérelem alapján az ingatlanügyi hatóság a tulajdonjog bejegyzésről szóló határozat jogosult részére történő közlésétől számított 30 nap elteltét követő 30 napon belül, a személyiadat- és lakcímnyilvántartásból történő adatátvétel alapján, amennyiben a bejelentett lakcímváltozás regisztrációja megtörtént, gondoskodik a változás ingatlan-nyilvántartásban történő átvezetéséről.
+
 27/A. § Az eljárás megindításáról az ingatlanügyi hatóság azt az ügyfelet értesíti, akinek az ingatlan-nyilvántartásba bejegyzett tulajdonjogának törlését, illetve akivel szemben vételi jog bejegyzését kérik. Az értesítést az ingatlanügyi hatóság az ügyfél ingatlan-nyilvántartásba bejegyzett lakcímére, illetve székhelyére kézbesíti.
 
 ### Az adatváltozásátvezetése alapjául szolgáló okiratok
 
-28. § (1) Az ingatlan adataiban bekövetkezett változás átvezetéséhez a külön jogszabályban meghatározott hatósági engedély, jóváhagyás vagy igazolás, az ingatlan-nyilvántartási térkép tartalmát érintő változás átvezetéséhez pedig jogszabályban meghatározott, ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajz is szükséges. A vázrajzot mindazoknak alá kell írniuk, akik a változás alapjául szolgáló okiratot aláírják.
+28. § (1) Az ingatlan adataiban bekövetkezett változás átvezetéséhez a külön jogszabályban meghatározott hatósági engedély, jóváhagyás vagy igazolás, az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változás átvezetéséhez pedig jogszabályban meghatározott, ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajz is szükséges. Az Fttv. 23. § (1) bekezdésének a) és h) pontja, valamint a 14. § (8) bekezdése alapján készített vázrajzot mindazoknak alá kell írniuk, akik a változás alapjául szolgáló okiratot aláírják.
 
 (2) Művelési ág változása esetén nem kell változási vázrajzot benyújtani az ingatlanügyi hatósághoz, ha
 
@@ -402,25 +410,33 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 34/A. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a személyi azonosítót, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
 
-35. § (1)
+35. § (1) Ha a magánokiratot külföldön állították ki, a (2) és (3) bekezdésben megjelölt esetek kivételével a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetőleg az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni.
 
-(2) Ha a magánokiratot külföldön állították ki, és nemzetközi megállapodás másként nem rendelkezik, vagy eltérő viszonossági gyakorlat nem áll fenn, a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetőleg az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni. Eltérő nemzetközi megállapodás fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
+(2) Ahol magyar külképviseleti hatóság nem működik, és a magyar érdekeket más állam külképviseleti hatóságai sem képviselik, a nyilatkozattevő aláírását (kézjegyét) az okirat kiállítása helye szerinti állam hatóságának kell hitelesíteni.
 
-(3) Ahol magyar külképviseleti hatóság nem működik, és a magyar érdekeket más állam külképviseleti hatóságai sem képviselik, a nyilatkozattevő aláírását (kézjegyét) csak az okirat kiállítása helyén hatályos jogszabályok szerint erre jogosult szervnek kell hitelesíteni.
+(3) Nincs szükség a külföldön kiállított magánokirat diplomáciai hitelesítésére, illetőleg felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el, vagy a hitelesítés, illetőleg felülhitelesítés alól nemzetközi megállapodás vagy viszonossági gyakorlat egyébként felmentést ad. Ilyen nemzetközi megállapodás vagy viszonossági gyakorlat fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
 
-(4) Nincs szükség a külföldön kiállított magánokirat diplomáciai hitelesítésére, illetőleg felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el.
+(4) A külföldön kiállított magánokiratot, ha hitelesítéssel vagy hitelesítési záradékkal (Apostille) nincs ellátva, és nemzetközi megállapodás vagy viszonossági gyakorlat sem ad felmentést a hitelesítés, illetve felülhitelesítés alól, vagy ha egyébként a külföldön kiállított magánokirat alaki szempontból történő felhasználhatóságát illetően kétség merült fel, az ingatlanügyi hatóság állásfoglalás végett az igazságügyért felelős miniszterhez terjeszti fel. Az igazságügyért felelős miniszter állásfoglalása kialakítása során a kérelemben előadott, méltánylást érdemlő rendkívüli körülményeket is figyelembe veheti.
 
-36. § (1) A külföldön kiállított magánokiratot, ha hitelesítéssel vagy hitelesítési záradékkal (Apostille) nincs ellátva, az ingatlanügyi hatóság állásfoglalás végett a miniszter útján az igazságügyért felelős miniszterhez terjeszti fel. A felterjesztésben hivatkozni kell azokra a méltánylást érdemlő rendkívüli körülményekre, amelyeket a kérelemben előadtak.
+(5) Az ügyvédekről szóló törvény hatálya alá tartozó ügyvéd által külföldön készített és ellenjegyzett magánokirat ingatlan-nyilvántartásban történő felhasználhatósága tekintetében az ügyvéd által belföldön készített és ellenjegyzett magánokiratra vonatkozó szabályozás az irányadó.
 
-(2) A külföldön kiállított közokiratot határozathozatal előtt – annak megállapítása végett, hogy alakilag alkalmas-e bejegyzésre – a miniszter útján az igazságügyért felelős miniszterhez kell felterjeszteni.
+36. § (1) A külföldön kiállított közokirat, a (2) és (3) bekezdésben megjelölt esetek kivételével, akkor használható fel az ingatlan-nyilvántartási eljárásban, ha azt a kiállítás helye szerinti államban működő magyar külképviseleti hatóság diplomáciai felülhitelesítéssel látta el. Ahol magyar külképviseleti hatóság nem működik, a közokiratot a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell felülhitelesíttetni.
 
-(3) Az ingatlan-nyilvántartási eljárásban az (1)–(2) bekezdésben meghatározott esetekben az igazságügyért felelős miniszter állásfoglalása irányadó.
+(2) Ahol magyar külképviseleti hatóság nem működik, és a magyar érdekeket más állam külképviseleti hatóságai sem képviselik, a külföldi közokirat felülhitelesítés hiányában is felhasználható.
+
+(3) Nincs szükség a külföldön kiállított közokirat diplomáciai felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el, vagy a felülhitelesítés alól nemzetközi megállapodás vagy viszonossági gyakorlat egyébként felmentést ad. Ilyen nemzetközi megállapodás vagy viszonossági gyakorlat fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
+
+(4) A külföldön kiállított közokiratot, ha diplomáciai felülhitelesítéssel vagy hitelesítési záradékkal (Apostille) nincs ellátva, és nemzetközi megállapodás vagy viszonossági gyakorlat sem ad felmentést a felülhitelesítés alól, vagy ha egyébként a külföldön kiállított közokirat alaki szempontból történő felhasználhatóságát illetően kétség merült fel, az ingatlanügyi hatóság állásfoglalás végett az igazságügyért felelős miniszterhez terjeszti fel. Az igazságügyért felelős miniszter állásfoglalása kialakítása során a kérelemben előadott, méltánylást érdemlő rendkívüli körülményeket is figyelembe veheti.
+
+(5) Az ingatlanügyi hatóság a (4) bekezdésben foglalt feltételek fennállásától függetlenül állásfoglalás végett az igazságügyért felelős miniszterhez felterjeszti a külföldi bíróság vagy más hatóság által hozott, az ingatlan-nyilvántartást érintő határozatot. Az igazságügyért felelős miniszter állásfoglalása kialakítása során a kérelemben előadott, méltánylást érdemlő rendkívüli körülményeket kizárólag az alaki szempontból történő felhasználhatóság tekintetében veheti figyelembe.
+
+(6) Az ingatlan-nyilvántartási eljárásban a (4) és (5) bekezdésben, illetve a 35. § (4) bekezdésében meghatározott esetekben az igazságügyért felelős miniszter állásfoglalása irányadó.
 
 ### Bejegyzéshez szükséges igazolások
 
 37. § (1) A bejegyzéshez az alapul szolgáló okiraton, bejegyzési, feljegyzési kérelmen, illetőleg bejegyzési, feljegyzési engedélyen felül – ha jogszabály előírja – meghatározott hatósági engedély (jóváhagyás), illetve igazolás szükséges.
 
-(2) A bejegyzéshez vázrajz is szükséges, ha a változás az ingatlan-nyilvántartási térkép tartalmát érinti, illetőleg ha jogszabály azt előírja.
+(2) A bejegyzéshez vázrajz is szükséges, ha a változás az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érinti, illetőleg ha jogszabály azt előírja.
 
 (3) Jogi személynek, az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró jogi személyiséggel nem rendelkező szervezetnek a bejegyzési kérelemhez
 
@@ -432,7 +448,9 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 kell csatolnia.
 
-(4) A (3) bekezdéstől eltérően az egyháznak és az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személynek a bejegyzési kérelemhez csatolnia kell a nyilvántartásba vétel megtörténtét, valamint a képviseleti jogosultságot igazoló, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által – a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint vezetett nyilvántartásból – kiállított hatósági bizonyítvány 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített másolati példányát.
+(4) A (3) bekezdéstől eltérően az egyháznak és az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személynek a bejegyzési kérelemhez csatolnia kell a nyilvántartásba vétel megtörténtét, valamint a képviseleti jogosultságot igazoló, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által – a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény (a továbbiakban: Ehtv.) szerint vezetett nyilvántartásból – kiállított hatósági bizonyítvány 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített másolati példányát, valamint a képviseletére jogosult aláírási címpéldányát vagy az aláírási címpéldányának a hatósági bizonyítvány kiállítására jogosult által hitelesített másolatát.
+
+(4a) Az Ehtv. szerint nyilvántartásba nem vett, az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személy bejegyzési kérelméhez csatolnia kell a felettes egyházi szerv nyilvántartásba vételéről szóló hatósági bizonyítványt, a felettes egyházi szerv képviseletére jogosult aláírási címpéldányát vagy az aláírási címpéldányának a hatósági bizonyítvány kiállítására jogosult által hitelesített másolatát, valamint a kérelmező belső egyházi jogi személyiségéről a felettes egyházi szerv által kiállított 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített igazolást.
 
 (5) Ha a (3) és (4) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, az újabb kérelemben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés, illetve az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
 
@@ -456,6 +474,8 @@ kell csatolnia.
 - f) a bejegyzési engedélyt kellene pótolni, kivéve, ha a bejegyzett jogosult a bejegyzés alapjául szolgáló okiratban nyilatkozott arról, hogy a bejegyzési engedélyt későbbi időpontban, de legfeljebb az okirat ingatlanügyi hatósági benyújtását követő 6 hónapon belül megadja,
 - g) okirat keltezésének helyét vagy az időpontját kellene feltüntetni,
 - h) az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajzot, vagy a vázrajzon a törvényben meghatározott személyek aláírását kellene pótolni.
+
+(3a) Nem vonatkozik a (3) bekezdés c) pontjában foglalt rendelkezés arra az esetre, ha az ingatlan helyrajzi száma a kérelem iktatását követően, az érdemi döntés meghozatala előtt az ingatlanügyi hatóság ügykörében felmerült, kizárólag számítástechnikai okból került módosításra, és az ingatlan minden más adata változatlan.
 
 (4) A hiány pótlására való felhívás és érdemi vizsgálat nélkül végzéssel kell elutasítani a bejegyzés iránti kérelmet akkor is, ha
 
@@ -516,7 +536,13 @@ kell csatolnia.
 
 (3) Ha az (1)–(2) bekezdésben foglalt bejelentést tevő személyek az ingatlanügyi hatósági hiánypótlási felhívásban meghatározott határidő alatt a bejegyzés, illetőleg a feljegyzés alapjául szolgáló okirat érvénytelensége iránti per megindítását a keresetlevélnek a bíróságon iktatott példányával vagy annak hiteles másolatával nem igazolják, az ingatlanügyi hatóság érdemi határozatot hoz a bejegyzési, feljegyzési kérelem tekintetében.
 
-(4) Az eljárás felfüggesztéséről szóló végzés ellen felügyeleti eljárásnak nincs helye.
+(3a) Közös tulajdonban álló ingatlanok esetében a tulajdonostársak egy részével kötött kisajátítást pótló adásvételi vagy csereszerződés alapján történő tulajdonjog bejegyzésére irányuló eljárást fel kell függeszteni mindaddig, míg az ingatlan valamennyi tulajdonostársának vonatkozásában kisajátítást pótló adásvételi vagy csereszerződés, vagy a kisajátításról szóló jogerős határozat, vagy a kisajátítási eljárás más módon történő jogerős lezárásáról szóló döntés benyújtásra nem kerül. E törvény alkalmazásában kisajátítást pótló adásvételi vagy csereszerződésnek az a szerződés minősül, amelyhez mellékletként benyújtásra került a szerződő felek által aláírt – a kisajátításról szóló jogszabályok szerinti – kisajátítási terv is.
+
+(4) Az elsőfokú határozattal szemben benyújtott fellebbezés folytán eljáró ingatlanügyi hatóság a másodfokú eljárást – a fellebbező kérelmére – a fellebbezéssel érintett jog bejegyzése, tény feljegyzése, vagy adatváltozás átvezetése alapjául szolgáló jogerős döntés (a továbbiakban: bejegyzést megalapozó döntés) bírósági felülvizsgálatára irányuló eljárás lezárultáig felfüggeszti, kivéve ha jogszabály a bejegyzést megalapozó döntés elleni jogorvoslat halasztó hatályát a végrehajtás tekintetében kizárja.
+
+(5) A hatósági határozat felülvizsgálata iránti per megindításának igazolására és annak elmulasztására a (3) bekezdésben foglaltak értelemszerűen irányadók azzal, hogy annak megtörténte a keresetlevélnek az ingatlan-nyilvántartási eljárás alapjául szolgáló határozatot hozó hatóság által iktatott példányával, vagy annak hiteles másolatával is igazolható.
+
+(6) Az eljárás felfüggesztéséről szóló végzés ellen felügyeleti eljárásnak nincs helye.
 
 ### Függőben tartás
 
@@ -551,7 +577,7 @@ kell csatolnia.
 
 (4) Az ingatlan-nyilvántartási döntést az ingatlanügyi hatóság vezetője, vagy az általa kijelölt személy írhatja alá.
 
-(5) A határozat tartalmának megfelelő változást az ingatlanügyi hatóság – kézbesítés előtt – bejegyzi, illetőleg feljegyzi a tulajdoni lapra, illetve átvezeti az ingatlan-nyilvántartási térképen, ha az annak tartalmát is érinti.
+(5) A határozat tartalmának megfelelő változást az ingatlanügyi hatóság – kézbesítés előtt – bejegyzi, illetőleg feljegyzi a tulajdoni lapra, illetve átvezeti az állami ingatlan-nyilvántartási térképi adatbázisban, ha az annak tartalmát is érinti.
 
 49/A. §
 
@@ -623,7 +649,7 @@ kell csatolnia.
 
 (4) A bejegyzés, a feljegyzés, az átvezetés, a határozat kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb határozatot kell hozni, és egyidejűleg a bejegyzést helyesbíteni, törölni, illetve a hiányzó bejegyzést pótolni kell. Az újabb határozatot kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti határozatot megkapták. A végzés kijavításáról, kiegészítéséről, módosításáról, illetőleg visszavonásáról újabb végzést kell hozni, amelyet kézbesíteni kell a kérelmezőnek, valamint mindazoknak, akik az eredeti végzést megkapták.
 
-(5) A (3) bekezdésben foglalt eseteket, valamint a döntés fellebbezés folytán történő módosítását, illetve visszavonását kivéve az ingatlanügyi hatóság a döntést nem vonhatja vissza és nem módosíthatja.
+(5) A (3) bekezdésben foglalt eseteket, valamint a döntés fellebbezés, továbbá ügyészi felhívás folytán történő módosítását, illetve visszavonását kivéve az ingatlanügyi hatóság a döntést nem vonhatja vissza és nem módosíthatja.
 
 (6) A jogok bejegyzése, tények feljegyzése, illetve ezek törlése iránti eljárás során hozott ingatlanügyi hatósági döntés ellen felügyeleti eljárásnak nincs helye.
 
@@ -707,7 +733,7 @@ kell csatolnia.
 
 ### Perfeljegyzés
 
-64. § (1) A bíróság – az ügyfél kérelmére – előzetesen vérgehajtható végzéssel megkeresi az ingatlanügyi hatóságot
+64. § (1) A bíróság – az ügyfél kérelmére – előzetesen végrehajtható végzéssel megkeresi az ingatlanügyi hatóságot
 
 - a) a törlési és kiigazítási,
 - b) az ingatlan tulajdonjogát érintő,
@@ -733,6 +759,12 @@ kell csatolnia.
 
 (3) A megismételt hagyatéki eljárásban hozott hagyatékátadó végzés miatt indított hagyatéki vagy tulajdonjogi pert – a bíróság ilyen tartalmú megkeresése alapján – az (1) bekezdés szerinti feljegyzés ranghelyén kell feljegyezni. Ebben az esetben a perben hozott határozat hatálya az e ranghelyen történt feljegyzést követő függő hatályú bejegyzésekre is kiterjed.
 
+### Ügyészi felhívás, ügyészi fellépés feljegyzése
+
+65/B. § (1) Az ügyészi felhívás és az azon alapuló ügyészi fellépés tényét a kifogásolt bejegyzés ranghelyének megfelelő ranghelyen kell feljegyezni. Az ügyészi felhívás alapján hozott határozat, valamint az ügyészi fellépés alapján indult pert lezáró jogerős bírósági döntés hatálya a kifogásolt bejegyzésen alapuló további bejegyzésre is kiterjed.
+
+(2) Amennyiben az ügyészi felhívásnak az ingatlanügyi hatóság az ügyész által megadott határidőben nem tesz eleget, az ügyészi felhívás tényét az ügyészi fellépés benyújtását, illetve az ügyész eljárás megszüntetéséről szóló értesítésének beérkezését követően törli.
+
 ### VI. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS ADATAINAK FELHASZNÁLÁSA ÉS AZ ADATSZOLGÁLTATÁS
 
 ### Kötelező adatfelhasználás
@@ -745,7 +777,7 @@ kell csatolnia.
 
 ### Betekintés az ingatlan-nyilvántartásba
 
-67. § (1) Az ingatlan-nyilvántartásba való betekintés céljából az érintett tulajdoni lap tartalmát számítástechnikai eszközzel, olvasható formában kell megjeleníteni. A betekintést saját számítástechnikai eszközével az ingatlanügyi hatóság kérelemre biztosítja. A betekintés iránti kérelemben fel kell tüntetni a kérelmező természetes személyazonosító adatait. A kérelemben szereplő adatokat az ingatlanügyi hatóság a személyazonosság igazolására szolgáló okmányból ellenőrzi. A betekintés magában foglalja a feljegyzés készítésének lehetőségét is.
+67. § (1) Az ingatlan-nyilvántartásba való betekintés céljából az érintett tulajdoni lap és annak állami ingatlan-nyilvántartási térképi adatbázisban ábrázolt tartalmát számítástechnikai eszközzel, olvasható formában kell megjeleníteni. A betekintést saját számítástechnikai eszközével az ingatlanügyi hatóság kérelemre biztosítja. A betekintés iránti kérelemben fel kell tüntetni a kérelmező természetes személyazonosító adatait. A kérelemben szereplő adatokat az ingatlanügyi hatóság a személyazonosság igazolására szolgáló okmányból ellenőrzi. A betekintés magában foglalja a feljegyzés készítésének lehetőségét is.
 
 (2)–(4)
 
@@ -755,7 +787,7 @@ kell csatolnia.
 
 (2) A közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 136. §-a (1) bekezdésének i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
 
-(3) A körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző) a polgármesteri hivatal részeként működtetett okmányiroda (a továbbiakban: okmányiroda) útján a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
+(3)
 
 (4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
@@ -767,7 +799,7 @@ kell csatolnia.
 
 (7) A 67. § (1) bekezdés, valamint a 68. § (1), (3)–(4) bekezdések szerinti kérelmet a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon, illetve elektronikus űrlapon kell benyújtani.
 
-(8) Az ingatlan-nyilvántartási térképről másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.
+(8) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.
 
 69. § A hitelesítési záradékban fel kell tüntetni, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. A hiteles tulajdonilap-másolat az ingatlan-nyilvántartásba bejegyzett jogokat, feljegyzett tényeket, illetve az ingatlan adatait hitelesen tanúsítja.
 
@@ -784,6 +816,10 @@ kell csatolnia.
 - e) ha arról törvény másként rendelkezik.
 
 (3) A (2) bekezdés szerinti jogosultság magában foglalja a tulajdonosok jegyzékéből (névmutatóból) történő adatszolgáltatási igényjogosultságot is.
+
+70/A. § Annak megállapítása érdekében, hogy a kérelmező – az általa megadott természetes személyazonosító adatok alapján – Magyarországon rendelkezik-e ingatlantulajdonnal, az ingatlanügyi hatóság – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – adatlekérdezést végez, amelynek eredményéről hatósági bizonyítványt állít ki.
+
+70/B. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett ingatlan-nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges és erre alkalmas adatok vonatkozásában – a 70. § (1) bekezdésében foglaltakra tekintet nélkül – az adatfeldolgozás, -kezelés, -tárolás, -átvétel és -átadás részletes szabályait tartalmazó törvényi előírásoknak megfelelő adatkezelést végezhet.
 
 71. § Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől személyi azonosító vagy természetes személyazonosító adatok alapján igényelhet adatot.
 
@@ -817,7 +853,7 @@ kell csatolnia.
 
 74. § (1) Az ingatlanügyi hatóság
 
-- a) a 72–73/A. § hatálya alá tartozó személyek számára szerződés alapján biztosítja;
+- a) a 72–73/B. § hatálya alá tartozó személyek számára szerződés alapján biztosítja;
 - b) az a) pontba nem tartozó személyek számára szerződés alapján biztosíthatja
 
 a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
@@ -834,7 +870,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2a) A naplónak minden esetben tartalmazza a lekérdezés időpontját, a lekérdezést végző személy nevét, a lekérdezett ingatlan pontos megjelölését (település neve, helyrajzi szám), díjmentes lekérdezés esetén a lekérdezés célját, valamint a díjmentességet megalapozó jogszabályi rendelkezésre való hivatkozást.
 
-(3) Az okmányirodák által történő tulajdonilap-másolat szolgáltatása esetén naplót kell készíteni, amelyet öt évig meg kell őrizni. A naplóban rögzíteni kell az adatigénylő természetes személyazonosító adatait, illetve a jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet nevét és a képviseletében eljáró személy természetes személyazonosító adatait. A rögzített adatokat az okmányiroda a személyazonosság, illetve a képviseleti jogosultság igazolására szolgáló okmányból ellenőrzi. A naplóból történő adatszolgáltatásra a 81. § (2) bekezdését kell alkalmazni azzal, hogy az adatszolgáltatásra az okmányiroda jogosult.
+(3)
 
 (4) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevők adatlekérdezéseinek jogszerűségét és a biztonsági előírások betartását az ingatlanügyi hatóság és a rendszer üzemeltetője a (2)–(3) bekezdések szerint vezetett naplóból ellenőrizheti. Az adatlekérdezésre vonatkozó szabályok, illetve a biztonsági előírások megsértése esetén, a hozzáférési jogosultság visszavonása tárgyában – az ingatlanügyi hatóság, illetve a rendszer üzemeltetőjének javaslata alapján – az ingatlanügyi hatóság határozatot hoz.
 
@@ -920,11 +956,13 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
+(3b) Felhatalmazást kap a miniszter, hogy az ingatlanügyi hatóság vagy hatóságok illetékességi területét rendeletben szabályozza.
+
 (4) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben határozza meg a tartós környezetkárosodás tényének, mértékének és jellegének megállapítására vonatkozó részletes szabályokat.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- a) a körzetközponti jegyző okmányirodák útján történő tulajdonilap-másolat kiadására irányuló eljárását,
+- a)
 - b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvényben meghatározott szolgáltatásra vonatkozó szolgáltatási szerződés kötelező elemeit,
 - c) az ingatlanügyi hatóság vagy hatóságok kijelölését,
 - d) az ingatlan-nyilvántartási eljárás részletes szabályait.
@@ -950,3 +988,5 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 (9) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2005. évi CXXII. törvény erejénél fogva a tartós földhasználók tulajdonába került ingatlanok tulajdonjogát a tartós földhasználó kérelmére kell az ingatlan-nyilvántartásba bejegyezni.
 
 (10) Az e törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 37. § (3) és (5) bekezdését az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvény hatálybalépésének időpontjában folyamatban lévő ügyekben is alkalmazni kell.
+
+92. § Az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvény (a továbbiakban: 2. sz. Módtv.) 38. § a) pontjával módosított 15. § (1) bekezdés szerinti állampolgársági adat, valamint a 38. § b) pontjával módosított 15. § (1) bekezdés szerinti cégjegyzékszám nyilvántartására vonatkozó rendelkezéseket a 2. sz. Módtv. 38. §-ának hatálybalépését követően indult ingatlan-nyilvántartási eljárások során keletkezett adatok vonatkozásában kell alkalmazni.

@@ -32,7 +32,7 @@ foglalt eltérésekkel kell alkalmazni.
 
 (3) A IV. Fejezet rendelkezéseit az Alaptörvény és módosítása előkészítésére is alkalmazni kell.
 
-(4) E törvénynek a jogszabályokra vonatkozó rendelkezéseit – a 3–6. §, a 13. §, a 16. §, a 18–20. § és a 26. § (1) bekezdése kivételével – a közjogi szervezetszabályozó eszközre is megfelelően alkalmazni kell.
+(4) E törvénynek a jogszabályokra vonatkozó rendelkezéseit – a 3–6. §, a 13. § (1) bekezdése, a 16. §, a 18–20. § és a 26. § (1) bekezdése kivételével – a közjogi szervezetszabályozó eszközre is megfelelően alkalmazni kell.
 
 ### II. Fejezet — A JOGALKOTÁS ALAPVETŐ KÖVETELMÉNYEI
 
@@ -106,7 +106,7 @@ foglalt eltérésekkel kell alkalmazni.
 
 - a) ha a hatályon kívül helyezendő jogszabályt vagy jogszabályi rendelkezést tételesen megjelölő, a hatályon kívül helyezést kimondó jogszabályi rendelkezés hatályon kívül helyezi,
 - b) ha a módosítandó jogszabályi rendelkezést tételesen megjelölő, annak helyébe lépését kimondó jogszabályi rendelkezés módosítja,
-- c) a 12. § (2) bekezdésében meghatározottak szerint, vagy
+- c) a 12. § (2) és (3) bekezdésében meghatározottak szerint, vagy
 - d) ha azt az Alkotmánybíróság vagy a bíróság megsemmisíti.
 
 (2) A hatályos jogszabályt vagy jogszabályi rendelkezést az (1) bekezdés a) pontja szerint – a (3) bekezdésben meghatározott kivétellel – a hatályon kívül helyezni kívánt jogszabály vagy jogszabályi rendelkezés megalkotására hatáskörrel rendelkező szerv helyezheti hatályon kívül.
@@ -142,9 +142,9 @@ foglalt eltérésekkel kell alkalmazni.
 
 (2) Ha a jogszabály minden rendelkezése végrehajtottá vált, rendelkezni kell annak hatályon kívül helyezéséről.
 
-14. § (1) A módosító jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése vagy 12. § (2) bekezdése szerinti hatályvesztése nem érinti az általa módosított jogszabályi rendelkezés hatályát.
+14. § (1) A módosító jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése vagy 12. § (2) vagy (3) bekezdése szerinti hatályvesztése nem érinti az általa módosított jogszabályi rendelkezés hatályát.
 
-(2) Jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése vagy 12. § (2) bekezdése szerinti hatályvesztése nem eredményezi a korábban általa hatályon kívül helyezett jogszabály vagy jogszabályi rendelkezés újbóli hatálybalépését.
+(2) Jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése vagy 12. § (2) vagy (3) bekezdése szerinti hatályvesztése nem eredményezi a korábban általa hatályon kívül helyezett jogszabály vagy jogszabályi rendelkezés újbóli hatálybalépését.
 
 #### 3. A szabályozási átmenet
 
@@ -347,7 +347,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 28/A. § A Magyar Közlöny a 26. § (1) bekezdésében foglaltak mellett tartalmazza
 
-- a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte,
+- a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte, valamint az Alkotmánybíróság teljes ülési állásfoglalásait,
 - b) a jogegységi határozatokat, valamint a Kúria azon határozatait, amelyeknek a Magyar Közlönyben való közzétételét törvény felhatalmazása alapján a Kúria elrendelte,
 - c) az Országos Választási Bizottság állásfoglalásait,
 - d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és az Országos Választási Bizottság nem normatív határozatait,

@@ -170,7 +170,7 @@ nem építhetők be.
 
 (4) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációba nem tartozó 2000 LEÉ alatti településeinek beépítésre szánt területein, illetve belterületein, ahol a szennyvízcsatorna-hálózat nem épült ki, illetve a tisztítómű tovább nem terhelhető új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak akkor lehet, ha a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesült.
 
-(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein, ahol a szennyvízcsatorna-hálózat nem épült ki, illetve a tisztítómű tovább nem terhelhető új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek hatályát meghosszabbítani csak akkor lehet, ha a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesült.
+(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési-agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak megépült és üzembe helyezett szennyvízcsatorna-hálózatra történő rákötés és a megfelelő kapacitású tisztítómű megléte, vagy az illetékes környezetvédelmi és vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesítése esetén lehet.
 
 (6) A kiemelt üdülőkörzet településeinek beépítésre nem szánt területén, amennyiben nincs lehetőség a szennyvízcsatorna-hálózathoz történő csatlakozásra, új épület építésére építésügyi hatósági engedélyt adni csak vízzáró szennyvíztároló, illetve a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés megléte esetén lehet.
 
@@ -650,7 +650,7 @@ térségi hulladéklerakó hely nem jelölhető ki.
 - b) az erdőtelepítésre alkalmas területek övezetébe is besorolt földrészletek erdőterületként történő kijelöléséről a településrendezési eszközökben kell dönteni;
 - c) építeni csak a legalább 80%-ban szőlőműveléssel hasznosított telken, kizárólag a szőlőművelést, szőlőfeldolgozást, bortárolást vagy a borturizmust szolgáló épületet, illetve ahol az M-1 és az M-2 övezethez tartozó szabályozási előírások lehetővé teszik, lakófunkciót is kielégítő épületet lehet;
 - d) szakrális építmény (kápolna, kereszt, kőkép stb.), amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető;
-- e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró, ahol a hegyközség nem működik, a település jegyzője nyilatkozatával kell igazolni.
+- e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni.
 
 ### A kiemelt fontosságú meglévő honvédelmi terület övezete
 

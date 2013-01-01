@@ -100,9 +100,11 @@ a büntetés-végrehajtási szervezetről
 
 9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek részére ellátási kötelezettség terheli.
 
-(2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
+(2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az autonóm államigazgatási szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
 
 (3) A büntetés-végrehajtási szervezetet nem terheli a (2) bekezdésben meghatározott ellátási kötelezettség a Magyar Honvédség tekintetében, ha a honvédelemért felelős miniszter rendelkezése alapján a Magyar Honvédség egyéb beszerzési eljárást folytat le.
+
+(4) Az autonóm államigazgatási szervek tekintetében a büntetés-végrehajtási szervezetet a (2) bekezdésben meghatározott ellátási kötelezettség kizárólag ez irányú igénybejelentés esetén terheli.
 
 ### A bv. szervezet személyi állománya
 

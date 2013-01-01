@@ -222,7 +222,7 @@ kell érteni.
 
 (7) A KHR-t kezelő pénzügyi vállalkozás a helyesbítésről vagy törlésről haladéktalanul, de legkésőbb két munkanapon belül köteles értesíteni valamennyi olyan referenciaadat-szolgáltatót, amelynek a nyilvántartott személyről a helyesbítést vagy törlést megelőzően referenciaadatot továbbított.
 
-17. § (1) A nyilvántartott személy referenciaadatainak jogellenes átadása és kezelése miatt, illetőleg azok helyesbítése vagy törlése céljából a referenciaadat-szolgáltató és a KHR-t kezelő pénzügyi vállalkozás ellen keresetet indíthat. A keresetlevelet a 16. § (4) bekezdésében meghatározott tájékoztató kézhezvételét követő harminc napon belül a nyilvántartott személy lakóhelye szerint illetékes helyi bírósághoz kell benyújtani vagy ajánlott küldeményként postára adni. E határidő elmulasztása miatt igazolásnak van helye.
+17. § (1) A nyilvántartott személy referenciaadatainak jogellenes átadása és kezelése miatt, illetőleg azok helyesbítése vagy törlése céljából a referenciaadat-szolgáltató és a KHR-t kezelő pénzügyi vállalkozás ellen keresetet indíthat. A keresetlevelet a 16. § (4) bekezdésében meghatározott tájékoztató kézhezvételét követő harminc napon belül a nyilvántartott személy lakóhelye szerint illetékes járásbírósághoz kell benyújtani vagy ajánlott küldeményként postára adni. E határidő elmulasztása miatt igazolásnak van helye.
 
 (2) A nyilvántartott személyt az (1) bekezdés szerinti keresetindítási jog akkor is megilleti, ha a referenciaadat-szolgáltató, illetve a KHR-t kezelő pénzügyi vállalkozás az e törvényben meghatározott tájékoztatási kötelezettségének nem tett eleget. A keresetlevél benyújtására nyitva álló határidőt ez esetben a tájékoztatási kötelezettségre megállapított határidő leteltétől kell számítani.
 

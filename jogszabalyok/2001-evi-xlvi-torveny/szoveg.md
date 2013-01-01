@@ -38,7 +38,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (4) A konzuli szolgálat, érdekvédelmi feladatainak ellátása során, szükség esetén közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
-(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlap igénybevételével előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
+(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlapon keresztül vagy egyedi informatikai alkalmazás igénybevételével, illetve ezek hiányában postai úton előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
 
 ### Személyi hatály
 
@@ -48,9 +48,9 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
-(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat ellátja az Európai Unió polgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat ellátja az uniós polgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
-(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a magyar konzuli szolgálat az Európai Unió polgárát a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti.
+(5) Ha a konzuli védelem nyújtásának feltételei fennállnak, a magyar konzuli szolgálat az uniós polgárt a magyar állampolgárral azonos, az e törvényben, valamint a végrehajtásáról szóló jogszabályokban meghatározott elbánásban részesíti.
 
 ### Tanácsadás és segítségnyújtás
 
@@ -64,17 +64,19 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (2) E feladat teljesítése körében eljárva a konzuli szolgálat különösen az alábbi intézkedéseket teszi:
 
-- a) a külföldre utazásról szóló törvény alapján a hazatéréshez az elveszett, ellopott, megrongálódott, megsemmisült vagy lejárat folytán érvényét veszített úti okmány helyett a konzuli tisztviselő újat állít ki. Az Európai Unió polgára számára a külön jogszabályban meghatározott esetekben és feltételek szerint ideiglenes úti okmányt állíthat ki,
+- a) a külföldre utazásról szóló törvény alapján a hazatéréshez az elveszett, ellopott, megrongálódott, megsemmisült vagy lejárat folytán érvényét veszített úti okmány helyett a konzuli tisztviselő újat állít ki. Az uniós polgár számára a külön jogszabályban meghatározott esetekben és feltételek szerint ideiglenes úti okmányt állíthat ki,
 - b) útmutatást és tanácsot ad a rászorultnak ahhoz, hogy hazatérését saját erejéből megoldhassa,
 - c) közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
-(3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről. Az Európai Unió polgárának nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
+(2a) A tiszteletbeli konzuli képviselő a külföldre utazásról szóló 1998. évi XII. törvény 20. § (1) bekezdése alapján érvényét vesztett útlevelet átveszi.
 
-(4) A konzuli kölcsön nyújtása iránti kérelemmel összefüggésben a konzuli szolgálat köteles vizsgálni a kérelmező önhibáját. A kérelmező nyilvánvaló önhibája esetén a kölcsön megtagadható. A kölcsönnyújtást meg kell tagadni a (3) bekezdésben foglalt feltételek hiányában, valamint, ha a kérelmező – a (2) bekezdésben meghatározott intézkedések megtétele érdekében – neki felróható módon nem működik együtt a konzuli szolgálattal, valótlan adatokat közölt vagy az általa korábban igénybe vett konzuli kölcsön nem térült vissza.
+(3) Ha a hazatérés elősegítésének más módjára nincs lehetőség, és a késedelem súlyos érdeksérelmet okoz, a konzuli tisztviselő – az ügyféllel kötött hatósági szerződés alapján – hazatérési kölcsönt nyújt, amely adók módjára behajtandó köztartozásnak minősül. A miniszter rendeletében meghatározott összeghatár felett a hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A hatósági szerződésben rendelkezni kell a visszafizetés esedékességéről. Az uniós polgárnak nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.
 
-(5) A miniszter különös méltánylást érdemlő esetekben kérelemre a konzuli kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
+(4) A hazatérési kölcsön nyújtása iránti kérelemmel összefüggésben a konzuli szolgálat köteles vizsgálni a kérelmező önhibáját. A kérelmező nyilvánvaló önhibája esetén a kölcsön megtagadható. A kölcsönnyújtást meg kell tagadni a (3) bekezdésben foglalt feltételek hiányában, valamint, ha a kérelmező – a (2) bekezdésben meghatározott intézkedések megtétele érdekében – neki felróható módon nem működik együtt a konzuli szolgálattal, valótlan adatokat közölt vagy az általa korábban igénybe vett hazatérési kölcsön nem térült vissza.
 
-(6) A konzuli kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
+(5) A miniszter különös méltánylást érdemlő esetekben kérelemre a hazatérési kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
+
+(6) A hazatérési kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
 
 ### Segítségnyújtás baleset vagy erőszakos bűncselekmény áldozatainak, illetőleg súlyos, sürgős ellátást igénylő betegnek
 
@@ -98,7 +100,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (4) Evakuálásra csak az érintett vagy törvényes képviselője egyetértésével kerülhet sor. Amennyiben a törvényes képviselő nyilatkozatának beszerzésével járó késedelem a magyar állampolgár életét, testi épségét veszélyezteti, a konzuli szolgálat az érintett magyar állampolgár nyilatkozatát is figyelembe véve, az eset összes körülményének mérlegelésével hoz döntést az evakuálásról.
 
-(5) A magyar állampolgárok az e § szerinti intézkedések végrehajtásának előmozdítása érdekében az erre a célra fenntartott honlap igénybevételével előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
+(5)
 
 ### Személyes szabadságukban külföldön korlátozott magyar állampolgárok védelme
 
@@ -123,13 +125,13 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 ### Haláleset
 
-11. § (1) Ha a konzuli szolgálat magyar állampolgár külföldön történt elhalálozásáról értesül, megkeresi a fogadó ország illetékes hatóságát a halotti anyakönyvi kivonat beszerzése érdekében, haladéktalanul értesíti az elhunyt legközelebbi ismert hozzátartozóját, és felvilágosítást nyújt számára az eltemettetéshez vagy a holttest hazaszállításához szükséges intézkedésekről.
+11. § (1) Ha a konzuli szolgálat magyar állampolgár külföldön történt elhalálozásáról értesül, haladéktalanul értesíti az elhunyt legközelebbi ismert hozzátartozóját, és felvilágosítást nyújt számára a temetéshez vagy a holttest hazaszállításához szükséges intézkedésekről. Amennyiben az eltemetésre kötelezett személy az elhunyt halotti anyakönyvi kivonatát méltányolható egyedi körülményeire való tekintettel saját maga beszerezni nem tudja és a fogadó ország jogszabályai azt lehetővé teszik, a konzuli szolgálat megkeresi a fogadó ország illetékes hatóságát a halotti anyakönyvi kivonat beszerzése érdekében.
 
 (2) Ha a külföldön elhunyt magyar állampolgár holttestét az eltemetésre kötelezett Magyarországra kívánja szállíttatni, a konzuli tisztviselő a jogszabályban meghatározott feltételek megléte esetén a temetőkről és a temetkezésről szóló törvény rendelkezéseivel összhangban halottszállítási engedélyt állít ki.
 
 (3) Ha az elhunyt után külföldön kiskorú, cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú magyar állampolgár maradt, a konzuli szolgálat gondoskodik megfelelő ellátásának biztosításáról, ennek keretében szükség esetén kezdeményezi gyám vagy gondnok kirendelését, illetőleg az érintett hazatérését.
 
-(4) Ha a konzuli szolgálat tudomást szerez arról, hogy az elhunyt után külföldön hagyaték maradt, a konzuli tisztviselő megteszi a hagyaték biztosításához haladéktalanul szükséges intézkedést, és erről az érdekeltet tájékoztatja. A továbbiakban a hagyatéki eljárásban az érdekelt személyesen vagy meghatalmazottja útján jár el.
+(4) A konzuli szolgálat hagyatéki eljárást nem kezdeményezhet, és abban – törvény eltérő rendelkezése hiányában – nem vesz részt. Amennyiben a hagyatéki eljárásban érintett személy méltányolható egyedi körülményeire való tekintettel a külföldön maradt hagyaték biztosításához haladéktalanul szükséges intézkedést saját maga megtenni nem tudja, azt a konzuli tisztviselő a fogadó állam jogszabályainak figyelembevételével kezdeményezi, és erről az érintettet tájékoztatja. A továbbiakban a hagyatéki eljárásban az érdekelt személyesen vagy meghatalmazottja útján jár el.
 
 (5) Az ismeretlen örökös felkutatása érdekében a konzuli szolgálat hirdetményt tesz közzé a hagyatéki igény érvényesítésére.
 
@@ -149,19 +151,19 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (3) A konzuli tisztviselő a fogadó állam eljárási jogszabályai és gyakorlata tiszteletben tartásával, az ezek által lehetővé tett mértékig vesz részt az e § szerinti ügyek intézésében.
 
-### Okirat-kiállítás, tanúsítványkészítés és letét kezelése
+### Tanúsítványkészítés és letét kezelés
 
-14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott konzuli tisztviselője a magyar állampolgár érdekeihez közvetlenül kapcsolódó jognyilatkozatokról vagy jogügyletekről – a végintézkedést is beleértve – konzuli okiratot állíthat ki, és a jogilag jelentős tényekről és körülményekről konzuli tanúsítványt készíthet, okiratról hiteles fordítást készíthet, vagy a fordítás helyességét tanúsíthatja, továbbá okiratot, pénzt és egyéb értéket vehet át megőrzésre. Az okirat-kiállításra és tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter az általa vezetett minisztérium honlapján közzéteszi.
+14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott konzuli tisztviselője a jogilag jelentős tényekről és körülményekről konzuli tanúsítványt készíthet, okiratról hiteles fordítást készíthet vagy a fordítás helyességét tanúsíthatja, továbbá okiratot, pénzt és egyéb értéket vehet át megőrzésre. A tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
-(2) Az (1) bekezdés szerinti jogkörben eljáró konzuli tisztviselő a konzuli okirat készítésénél és a konzuli tanúsítvány kiállításánál a közjegyzőkről szóló törvény rendelkezései szerint jár el.
+(2) Az (1) bekezdés szerinti jogkörben eljáró konzuli tisztviselő a konzuli tanúsítvány kiállításánál a közjegyzőkről szóló törvény rendelkezései szerint jár el.
 
 (3) A konzuli tisztviselő köteles megtagadni a közreműködést a közjegyzőkről szóló törvényben foglalt esetekben, továbbá, ha az eljárás nemzetközi jogi szabályba vagy a fogadó állam jogszabályába ütközne.
 
-(4) Az (1) és (2) bekezdés alapján készített okirat közokirat.
+(4) Az (1) bekezdés alapján készített tanúsítvány közokirat.
 
 ### Felülhitelesítés
 
-15. § (1) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, a külföldön kiállított közokirat, illetőleg a külföldi bíróság, közigazgatási szerv, közjegyző vagy közhitelességgel felruházott más személy által hitelesített magánokirat magyarországi felhasználása céljából a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látja el a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát, feltéve, hogy ezen hatóság aláírás- és bélyegzőmintájával rendelkezik.
+15. § (1) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, a külföldön kiállított közokirat, illetőleg a külföldi bíróság, közigazgatási szerv, közjegyző vagy közhitelességgel felruházott más személy által hitelesített magánokirat magyarországi felhasználása céljából a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látja el a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát, feltéve, hogy ezen hatóság aláírás- és bélyegzőmintájával rendelkezik. A hivatásos konzuli tisztviselő által diplomáciai felülhitelesítéssel ellátott okirat felhasználható az Európai Unió azon tagállamában is, amely Magyarországgal erre vonatkozó megállapodást köt.
 
 (2) Ha nemzetközi szerződés eltérően nem rendelkezik, külföldi felhasználás céljából a miniszter felülhitelesíti a magyar központi államigazgatási szervek vagy közigazgatási hatósági jogkör gyakorlására törvényben vagy kormányrendeletben feljogosított szervezetek, köztestületek vagy személyek által kiállított okiraton szereplő aláírást és bélyegzőnyomatot, feltéve, hogy e hatóságok aláírás- és bélyegzőmintájával rendelkezik. A miniszter általi felülhitelesítésre irányuló kérelem a konzuli tisztviselőnél is benyújtható.
 
@@ -185,7 +187,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 - f) személyazonosító okmányának okmányazonosító adatai,
 - g) a védelem biztosításához szükséges egyéb adatok.
 
-(2) A konzuli szolgálat az érdekvédelem során birtokába került személyes adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató magyar hatóság vagy a magyar nemzetbiztonsági szolgálatok megkeresése esetén, valamint a (3) és (4) bekezdésben foglalt kivételekkel – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. E törvény 14. §-ában foglalt konzuli okiratokról és tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
+(2) A konzuli szolgálat az érdekvédelem során birtokába került személyes adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató magyar hatóság, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
 
 (3) A közeli hozzátartozó érdeklődése esetén, amennyiben az érintett személy baleset, fogva tartás vagy más ok miatt nincs abban a helyzetben, hogy maga vegye fel a kapcsolatot közeli hozzátartozójával, illetve holléte ismeretlen, a konzuli szolgálat vélelmezi az érdekelt magyar állampolgár hozzájárulását az ügyről adott tájékoztatáshoz, feltéve, hogy a konzuli szolgálatnak nincs tudomása az érintett és közeli hozzátartozójának érdekei között fennálló nyilvánvaló ellentétről. Amint a konzuli szolgálatnak sikerül kapcsolatba lépnie az érintettel, felkéri arra, hogy nyilatkozzon: közeli hozzátartozójának adható-e a továbbiakban tájékoztatás.
 
@@ -193,7 +195,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (5) A kérelemre indult eljárásban a konzuli védelem ellátására irányuló kérelem magába foglalja az annak biztosításához szükséges adatok kezeléséhez való hozzájárulást is az érdekérvényesítéshez szükséges körben. Erről a konzuli szolgálat a kérelmezőt kérelmének előterjesztésekor tájékoztatja.
 
-(6) Az Európai Unió polgára érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
+(6) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
 
 (7) Az adatszolgáltatásról nyilvántartást kell vezetni. A nyilvántartás tartalmazza:
 
@@ -205,16 +207,24 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (8) Az adatszolgáltatási nyilvántartást öt évig meg kell őrizni.
 
-16/A. § A konzuli szolgálat a konzuli tisztviselőkről nyilvántartást vezet, amely tartalmazza a konzuli tisztviselő:
+16/A. § (1) A konzuli szolgálat a konzuli tisztviselőkről, valamint a diplomáciai vagy hivatásos konzuli képviseleteken igazgatási munkakörben konzuli feladatot ellátó személyekről nyilvántartást vezet.
 
-- a) természetes személyazonosító adatait;
-- b) arcképmását;
-- c) aláírásmintáját;
-- d) diplomáciai és konzuli rangját;
-- e) nyelvismeretét;
-- f) végzettségét és a konzuli feladatok ellátása szempontjából lényeges képzettségeit, illetőleg ezek megszerzésének időpontját;
-- g) konzuli feladat ellátására kapott kinevezését, megbízását, engedélyét, valamint a megbízás visszavonását, illetőleg az ezekkel összefüggésben kiállított dokumentumokat és adatokat;
-- h) konzuli jogosítványait, azok gyakorolhatóságának kezdő és befejező időpontját.
+(2) A konzuli tisztviselőkről vezetett nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) természetes személyazonosító adatok;
+- b) arcképmás;
+- c) aláírásminta;
+- d) diplomáciai és konzuli rang;
+- e) nyelvismeret;
+- f) végzettség és a konzuli feladatok ellátása szempontjából lényeges képzettség, illetőleg ezek megszerzésének időpontja;
+- g) konzuli feladat ellátására kapott kinevezés, megbízás, engedély, valamint a megbízás visszavonása, illetőleg az ezekkel összefüggésben kiállított dokumentumok és adatok;
+- h) konzuli jogosítványok és egyéb felhatalmazások, azok gyakorolhatóságának kezdő és befejező időpontja.
+
+(3) A diplomáciai vagy hivatásos konzuli képviseleteken igazgatási munkakörben konzuli feladatot ellátó személyekről vezetett nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) természetes személyazonosító adatok;
+- b) munkakörhöz tartozó konzuli feladatok;
+- c) konzuli feladatok ellátásához szükséges jogosultságok, azok gyakorolhatóságának kezdő és befejező időpontja.
 
 17. § (1) Az érdekvédelem ellátása során, az adatok felhasználása céljának és az igényelt adatok körének megjelölésével a konzuli szolgálat az adatkezelést szabályozó külön törvény alapján adatot igényelhet:
 
@@ -230,7 +240,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 - j) az egészségbiztosító és a nyugdíjbiztosító nyilvántartásából,
 - k) a gondnokoltak nyilvántartásából.
 
-(2) Az Európai Unió polgára érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.
+(2) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.
 
 18. § (1) Az érdekvédelemmel kapcsolatos iratokba a védelemben részesülő ügyfél és azok a személyek tekinthetnek be, akik számára a 16. § alapján adat szolgáltatható.
 
@@ -245,7 +255,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 (3) A konzuli tisztviselő a konzuli védelem ellátása érdekében a következő közigazgatási hatósági ügyekben jár el:
 
 - a) az 5. § (2) bekezdés a) pontja szerinti úti okmányok kiállítása,
-- b) konzuli kölcsön nyújtása,
+- b) hazatérési kölcsön nyújtása,
 - c) halottszállítási engedély kiállítása.
 
 (4) A (3) bekezdésben felsorolt közigazgatási hatósági feladatokon túl a konzuli tisztviselő a konzuli védelem ellátása érdekében hatósági bizonyítványt állíthat ki.
@@ -258,7 +268,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
-(9) Az Európai Unió polgárának érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
+(9) Az uniós polgár érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
 
 (10) Ha az eljárásban a fogadó állam hatóságának megkeresése vagy diplomáciai, illetve konzuli futárposta igénybevétele szükséges, a megkeresés teljesítésének időtartama vagy a posta továbbításához szükséges idő az eljárási határidőbe nem számít bele.
 
@@ -299,7 +309,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 21. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-- a) a konzuli szolgálatra, a konzuli védelemmel összefüggő egyes eljárásokra, az Európai Unió polgárai védelmének ellátására vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben,
+- a) a konzuli szolgálatra, a konzuli védelemmel összefüggő egyes eljárásokra, az uniós polgárok védelmének ellátására vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben,
 - b) az adópolitikáért felelős miniszterrel egyetértésben a konzuli díjak mértékét, illetőleg a konzuli díj, a megkeresett szerv vagy szolgáltató díja, valamint a hatósági költség beszedésének, a beszedés alóli mentességének, elengedésének, kezelésének, nyilvántartásának és visszafizetésének részletes szabályait,
 - c) a konzuli tisztviselő 14. § (1) bekezdése szerinti tevékenységének részletes szabályait az igazságügyért felelős miniszterrel egyetértésben.
 
