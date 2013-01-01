@@ -12,7 +12,7 @@ A nemzet felemelkedésének zálogaként a magyar oktatásügy nemes hagyománya
 
 (3) A nevelési-oktatási intézmények pedagógiai kultúráját az egyéni bánásmódra való törekvés, a gyermek, a tanuló elfogadása, a bizalom, a szeretet, az empátia, az életkornak megfelelő követelmények támasztása, a feladatok elvégzésének ellenőrzése és a gyermek, tanuló fejlődését biztosító sokoldalú, a követelményekhez igazodó értékelés jellemzi.
 
-2. § (1) Az Alaptörvényben foglalt ingyenes és kötelező alapfokú, ingyenes és mindenki számára hozzáférhető középfokú nevelés-oktatáshoz való jog biztosítása az az érettségi megszerzéséig, illetve az első szakképzettség megszerzését biztosító első szakmai vizsga befejezéséig a magyar állam közszolgálati feladata.
+2. § (1) Az Alaptörvényben foglalt ingyenes és kötelező alapfokú, ingyenes és mindenki számára hozzáférhető középfokú nevelés-oktatáshoz való jog biztosítása az érettségi megszerzéséig, illetve az első szakképzettség megszerzését biztosító első szakmai vizsga befejezéséig a magyar állam közszolgálati feladata.
 
 (2) Az állami, települési önkormányzati fenntartású intézményekben, továbbá az állami feladatellátásban részt vevő nemzetiségi önkormányzati, egyházi és magánintézményekben az óvodai nevelés, az óvodai nevelést és az iskolai nevelés-oktatást kiegészítő pedagógiai szakszolgálatok igénybevétele, valamint a kollégiumi ellátás az ingyenes oktatásban részt vevő, e törvényben meghatározott feltételeknek megfelelő gyermekek, tanulók számára térítésmentes.
 
@@ -76,7 +76,7 @@ lehet,
 - 8. felmenő rendszer: a tanulmányi és vizsgakövetelmények bevezetésének fokozatos ütemezése, amelynek értelmében a változást az érintett legalacsonyabb iskolai évfolyamon kezdve lehet bevezetni,
 - 9. fenntartó: az a természetes vagy jogi személy, aki vagy amely a köznevelési feladat ellátására való jogosultságot megszerezte vagy azzal rendelkezik, és – e törvényben foglalt esetben a működtetővel közösen – a köznevelési intézmény működéséhez szükséges feltételekről gondoskodik,
 - 10. gyermek, tanuló felügyelete a nevelési-oktatási intézményben: a gyermek, tanuló testi épségének megóvásáról és erkölcsi védelméről való gondoskodás, a nevelési-oktatási intézménybe történő belépéstől a nevelési-oktatási intézmény jogszerű elhagyásáig terjedő időben, továbbá a pedagógiai program részeként kötelező, a nevelési-oktatási intézményen kívül tartott foglalkozások, programok ideje alatt,
-- 11. intézményátszervezés: minden olyan fenntartói döntés, amely az alapító okirat 21. § (3) bekezdés c)–k) pontjában felsoroltak bármelyikének módosulásával jár, kivéve az olyan vagyont érintő döntést, amely vagyon a feladatellátáshoz a továbbiakban nem szükséges,
+- 11. intézményátszervezés: minden olyan fenntartói döntés, amely az alapító okirat 21. § (3) bekezdés c)–j) pontjában felsoroltak bármelyikének módosulásával jár, kivéve az olyan vagyont érintő döntést, amely vagyon a feladatellátáshoz a továbbiakban nem szükséges,
 - 12. intézményegység: az a szervezeti egység, amelyik a köznevelési intézmény, többcélú intézmény valamely alapfeladatát látja el,
 - 13. kiemelt figyelmet igénylő gyermek, tanuló:
   - a) különleges bánásmódot igénylő gyermek, tanuló: aa) sajátos nevelési igényű gyermek, tanuló, ab) beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló, ac) kiemelten tehetséges gyermek, tanuló,
@@ -97,6 +97,7 @@ lehet,
 - 27. székhely: az alapító okiratban meghatározott, a köznevelési intézmény alapfeladatának ellátását szolgáló feladatellátási hely, ahol képviseleti jogának gyakorlására jogosult vezetőjének munkahelye található,
 - 28. tagintézmény: az az intézményegység, ahol a székhelytől való távolság vagy a feladatok jellege miatt az irányítási, képviseleti feladatok a székhelyről nem, vagy csak részben láthatók el,
 - 29. tagozat: az általános iskola első–negyedik, valamint az ötödik–nyolcadik évfolyamán folyó nevelő-oktató munka szakaszára létrehozott szervezeti egység,
+- 29a. taneszköz: a nevelési-oktatási intézményben a pedagógiai programban foglaltak alapján és annak végrehajtására szolgáló szemléltető, a nevelés-oktatás céljait szolgáló pedagógiai szakmai eszköz,
 - 30. tanév: az iskolában, kollégiumban szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 - 31. tanítási év: ha e törvény másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától a következő év június 16-át megelőző utolsó munkanapjáig tartó szorgalmi időszak, az érettségi és a szakmai vizsga évét kivéve; a szakközépiskola és a szakiskola azon szakképzési évfolyamain, amelyeken – a szakképzésről szóló törvényben szabályozott esetekben – közismereti képzés nem folyik, a tanítási év – a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint – februárban is megkezdhető,
 - 32. tanítási nap: az egyes osztályokban a tanítási órák, továbbá az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozás, így különösen a tanulmányi kirándulás, környezeti nevelési program, a kulturális, sportrendezvény megtartására fordított nap, ha a foglalkozási órák száma eléri a hármat,
@@ -168,7 +169,7 @@ tagozat,
 - f) alapfokú művészeti iskola (a továbbiakban a b)–f) pont alattiak együtt: iskola),
 - g) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
 - h) kollégium (a továbbiakban: az a)–h) pont alattiak együtt: nevelési-oktatási intézmény),
-- i)
+- i) pedagógiai szakszolgálati intézmény,
 - j) pedagógiai-szakmai szolgáltatást nyújtó intézmény (a továbbiakban: az a)–j) pont alattiak együtt: köznevelési intézmény).
 
 (2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény).
@@ -177,7 +178,7 @@ tagozat,
 
 (4) Az oktatásért felelős miniszter az (1)–(3) bekezdésben meghatározottakon kívül más köznevelési intézményt is alapíthat, alapítását engedélyezheti, ha az megfelel e törvény, valamint a szakképzésről szóló törvény előírásainak. Engedélyezheti sajátos pedagógiai program alapján nevelő és oktató általános iskola, középfokú iskola továbbá olyan középiskola alapítását, amelynek nem célja, hogy a tanulót felkészítse az érettségi vizsgára. A kérelemhez mellékelni kell a köznevelési intézmény alapításához jogszabályban meghatározott dokumentumokat, tevékenységével, óvoda és iskola esetén az átadni kívánt ismeretekkel kapcsolatos programot. Az engedéllyel kapcsolatos többletköltségeket a fenntartónak kell viselnie.
 
-(5) Köznevelési alapfeladatot csak a 7. § (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami intézményfenntartó központ hozzájárulását ki kell kérni.
+(5) Köznevelési alapfeladatot csak a 7. § (1) bekezdésben felsorolt köznevelési intézmény láthat el. A vidékfejlesztésért felelős miniszter által fenntartott szakképző iskolában kizárólag az agrárpolitikáért, az élelmiszeriparért, az erdőgazdálkodásért, a halgazdálkodásért, a földügyért és térképészetért, a környezetvédelemért és vízgazdálkodásért, valamint a vadgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítések oktathatóak, ezen túli szakképzések indításához az állami köznevelési közfeladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) hozzájárulását ki kell kérni.
 
 (6) Az (1) bekezdés b)–e) és g) pontjában felsorolt iskola – külön jogszabályban meghatározottak szerint – elláthatja a sportiskola feladatait is.
 
@@ -205,7 +206,7 @@ tagozat,
 
 (6) A középiskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá a szakképzésről szóló törvényben meghatározott szakiskolai végzettség.
 
-(7) A gimnáziumban és a szakközépiskolában a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakközépiskola a külön jogszabályokban meghatározott feltételeknek megfelel.
+(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakközépiskolában a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakközépiskola a külön jogszabályokban meghatározott feltételeknek megfelel.
 
 (8) Az alternatív óvodák, iskolák az általuk készített és jóváhagyott óvodapedagógiai programban, kerettantervben meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
 
@@ -292,7 +293,22 @@ szükséges.
 
 #### 16. A pedagógiai szakszolgálatok
 
-#### 18. §
+18. § (1) A szülő és a pedagógus nevelő munkáját, valamint a nevelési-oktatási intézmény feladatainak ellátását pedagógiai szakszolgálat segíti.
+
+(2) Pedagógiai szakszolgálat
+
+- a) a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás és gondozás,
+- b) a fejlesztő nevelés,
+- c) szakértői bizottsági tevékenység,
+- d) a nevelési tanácsadás,
+- e) a logopédiai ellátás,
+- f) a továbbtanulási, pályaválasztási tanácsadás,
+- g) a konduktív pedagógiai ellátás,
+- h) a gyógytestnevelés,
+- i) az iskolapszichológiai, óvodapszichológiai ellátás,
+- j) a kiemelten tehetséges gyermekek, tanulók gondozása.
+
+(3) A pedagógiai szakszolgálatok feladatainak, működési feltételeinek, feladatai ellátásának részletes szabályait az oktatásért felelős miniszter rendeletben állapítja meg.
 
 #### 17. A pedagógiai-szakmai szolgáltatások
 
@@ -356,9 +372,9 @@ nyújtható.
 
 #### 19. A köznevelési intézmények alapítása, megszüntetése
 
-21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény a fenntartójától elkülönült, önálló költségvetéssel rendelkező jogi személy, amely a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
+21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – az állami intézményfenntartó központ által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
-(2) A köznevelési intézmény alapítását az alapító okirat, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, más esetben a köznevelési intézmény székhelye szerint illetékes kormányhivatalnál kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
+(2) A köznevelési intézmény alapítását az alapító okirat, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, az állami intézményfenntartó központ által fenntartott intézmény esetében a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervnél (a továbbiakban: hivatal), más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
 
 (3) A köznevelési intézmény alapító okirata tartalmazza
 
@@ -369,13 +385,13 @@ nyújtható.
   - da) székhelyét,
   - db) tagintézményét,
   - dc) telephelyét,
-- e) alapfeladatának, szakfeladatának jogszabály szerinti megnevezését,
+- e) alapfeladatának jogszabály szerinti megnevezését,
 - f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek-, tanulólétszámot,
 - g) iskolatípusonként az évfolyamok számát,
 - h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
 - i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakközépiskola esetén az ágazatokat,
-- j) a feladatellátást szolgáló vagyont, a vagyon feletti rendelkezés jogát,
-- k) a gazdálkodással összefüggő jogosítványokat.
+- j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
+- k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
 (4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A nyilvántartásban szereplő adatok közhitelesek. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
 
@@ -383,10 +399,10 @@ nyújtható.
 
 - a) a köznevelési intézmény
   - aa) létesítő és módosító alapító okiratának keltét,
-  - ab) nevét, alapfeladatának, szakfeladatának jogszabály szerinti megnevezését és valamennyi feladatellátási helyét,
+  - ab) nevét, alapfeladatának jogszabály szerinti megnevezését és valamennyi feladatellátási helyét,
   - ac) képviseletére jogosult személy nevét,
-  - ad) adószámát,
-  - ae) valamennyi pénzforgalmi számlaszámát,
+  - ad) az önálló költségvetéssel rendelkező intézmény esetében adószámát,
+  - ae) az önálló költségvetéssel rendelkező intézmény esetében valamennyi pénzforgalmi számlaszámát,
 - b) a nyilvántartásba vétel, létesítés napját,
 - c) a fenntartó képviseletére jogosult személy nevét,
 - d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat,
@@ -394,7 +410,7 @@ nyújtható.
 
 (6) Ha a köznevelési intézmény székhelye megváltozik, a (2) bekezdésben foglaltak szerint újra nyilvántartásba kell venni, feltéve hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
 
-(7) A nyilvántartásba vételről szóló jogerős határozat alapján a köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
+(7) A nyilvántartásba vételről szóló jogerős határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
 
 (8) A köznevelési intézményt törölni kell a nyilvántartásból, ha
 
@@ -406,7 +422,7 @@ nyújtható.
 - f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti,
 - g) hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt a nyilvántartásból való törlését elrendeli.
 
-(9) A megszűnt intézmény székhelye szerint illetékes kormányhivatal az intézmény telephelye szerint illetékes kormányhivatal bevonásával gondoskodik a gyermekek, tanulók elhelyezéséről.
+(9) A nyilvántartásból való törléssel egyidejűleg a kormányhivatal kijelöli azt a nevelési-oktatási intézményt, amely a megszűnt intézménnyel jogviszonyban álló gyermekek, tanulók felvételét nem tagadhatja meg. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló jogerős határozatot a kormányhivatal megküldi az állami intézményfenntartó központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A határozat tartalmazza annak az intézménynek a kijelölését, amely a gyermek, tanuló felvételét nem tagadhatja meg.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
@@ -423,13 +439,15 @@ nyújtható.
 
 - a) állandó saját székhellyel, telephely esetén állandó telephellyel, a feladatellátáshoz szükséges helyiségekkel,
 - b) állandó saját alkalmazotti létszámmal, továbbá
-- c) a jogszabályban meghatározott eszközökkel, dokumentumokkal, szabályzatokkal és a működéséhez szükséges pénzeszközökkel rendelkezik.
+- c) a jogszabályban meghatározott eszközökkel, dokumentumokkal, szabályzatokkal és önálló költségvetéssel rendelkező intézmény esetében a működéséhez szükséges pénzeszközökkel
 
-(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek – 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százalékát határozatlan időre szóló munkaviszonyban vagy közalkalmazotti jogviszonyban foglalkoztatja. Többcélú intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben kell előirányozni.
+rendelkezik.
+
+(2) Állandó saját székhellyel, telephellyel akkor rendelkezik a köznevelési intézmény, ha a feladatai ellátásához szükséges, jogszabályban meghatározott helyiségek a 23. § (10) bekezdésben meghatározott kivétellel – határozatlan időre a kizárólagos használatában állnak. Állandó saját alkalmazotti létszámmal akkor rendelkezik a köznevelési intézmény, ha az alapfeladatának ellátásához szükséges számított alkalmazotti létszám legalább hetven százalékát határozatlan időre szóló munkaviszonyban vagy közalkalmazotti jogviszonyban foglalkoztatja. Többcélú intézmény esetén az állandó saját alkalmazotti létszám meglétét szervezetileg és szakmailag önálló intézményegységenként kell vizsgálni. A köznevelési intézmény feladatainak ellátásához szükséges eszközöket, felszereléseket a fenntartó, a működtető az intézmény rendelkezésére bocsátja, önálló költségvetéssel rendelkező intézmény a feladatainak ellátásáról az alapító, a fenntartó szerv által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik. A köznevelési intézmények fenntartási költségeit a fenntartó, működési költségeit a működtető által évente megállapított költségvetésben kell előirányozni.
 
 (3)
 
-23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ alapítja, működésének megkezdéséhez engedély szükséges.
+23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ, települési önkormányzat alapítja, működésének megkezdéséhez engedély szükséges.
 
 (2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
 
@@ -527,8 +545,8 @@ nyújtható.
 
 (5) Ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a nevelési-oktatási intézmény működtetése nem lehetséges,
 
-- a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető a fenntartó egyidejű értesítése mellett,
-- b) a településre kiterjedő veszélyhelyzet esetében a jegyző a kormányhivatal vezetőjének egyidejű értesítése mellett,
+- a) az intézményre kiterjedő veszélyhelyzet esetében az intézményvezető a fenntartó és a fővárosi és megyei kormányhivatal járási (fővárosi körzeti) hivatala (a továbbiakban: járási hivatal) egyidejű értesítése mellett,
+- b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó és a járási hivatal egyidejű értesítése mellett,
 - c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a kormányhivatal vezetője az oktatásért felelős miniszter egyidejű értesítése mellett
 
 rendkívüli szünetet rendel el.
@@ -728,7 +746,7 @@ tekintetében.
 
 (7) A gyermek, tanuló adatai közül
 
-- a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, magántanulói jogállása, mulasztásainak száma a tartózkodásának megállapítása céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,
+- a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, magántanulói jogállása, mulasztásainak száma a tartózkodásának megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,
 - b) óvodai, iskolai felvételével, átvételével kapcsolatos adatai az érintett óvodához, iskolához, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézményhez,
 - c) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, társadalombiztosítási azonosító jele, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, az óvodai, iskolai egészségügyi dokumentáció, a tanuló- és gyermekbalesetre vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi, iskola-egészségügyi feladatot ellátó intézménynek,
 - d) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
@@ -799,6 +817,8 @@ továbbítható.
 
 (6) A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, valamint a személyi adat- és lakcímnyilvántartás központi szerve részére. A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyi adat- és lakcímnyilvántartás központi szervének. A sikeres azonosítást követően a személyi adat- és lakcímnyilvántartás központi szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyi adat- és lakcímnyilvántartás központi szerve az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított harminc évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
+(6a) A tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából az (5) bekezdés a)–c), f)–h), j)–m) és o) pontjában foglalt adatok a rendőrség részére továbbíthatók.
+
 (7) A (3) bekezdés c)–f) pontja szerinti nyilvántartás (a továbbiakban: alkalmazotti nyilvántartás) tartalmazza az alkalmazott
 
 - a) nevét, anyja nevét,
@@ -829,11 +849,17 @@ továbbítható.
 
 45. § (1) Magyarországon – az e törvényben meghatározottak szerint – minden gyermek köteles az intézményes nevelés-oktatásban részt venni, tankötelezettségét teljesíteni.
 
-(2)
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a kormányhivatal a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
 
 (3) A tankötelezettség a tanuló tizenhatodik életévének betöltéséig tart. A sajátos nevelési igényű tanuló tankötelezettsége meghosszabbítható annak a tanítási évnek a végéig, amelyben a huszonharmadik életévét betölti. A tankötelezettség meghosszabbításáról a szakértői bizottság szakértői véleménye alapján az iskola igazgatója dönt.
 
-(4)
+(4) A tankötelezettség kezdetéről
+
+- a) az óvoda vezetője,
+- b) ha a gyermek nem járt óvodába az iskolaérettségi vizsgálat alapján a szakértői bizottság,
+- c) az óvoda, az iskola vezetője vagy a szülő kezdeményezésére az iskolaérettségi vizsgálat alapján a szakértői bizottság
+
+dönt.
 
 (5) A tankötelezettség iskolába járással, vagy ha az a tanuló fejlődése, tanulmányainak eredményes folytatása és befejezése szempontjából nem hátrányos, a szülő kérelmére magántanulóként teljesíthető.
 
@@ -841,11 +867,11 @@ továbbítható.
 
 (7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
-(8) A jegyző gondoskodik az óvodai nevelésben részvételre kötelezettek és a tankötelesek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a kormányhivatal számára, hivatalból elrendeli és felügyeli a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
+(8) A jegyző gondoskodik az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a kormányhivatal számára. A járási hivatal gondoskodik a tankötelesek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl az állami intézményfenntartó központ, és tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzője számára, továbbá hivatalból elrendeli és felügyeli a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
 
-(9) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes kormányhivatal ellátja a tanköteles tanuló igazolatlan mulasztása esetén a törvény vagy kormányrendelet által feladat- és hatáskörébe utalt feladatokat.
+(9) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes járási hivatal ellátja a tanköteles tanuló igazolatlan mulasztása esetén a törvény vagy kormányrendelet által feladat- és hatáskörébe utalt feladatokat.
 
-(10) A kormányhivatal az óvodás és a tanköteles gyermekekről vezetett nyilvántartást megküldi a lakóhely, ennek hiányában tartózkodási hely szerint illetékes óvodának, általános iskolának.
+(10) A települési önkormányzat jegyzője az óvodás, a járási hivatal az állami intézményfenntartó központ útján a tanköteles gyermekekről vezetett nyilvántartást megküldi a lakóhely, ennek hiányában tartózkodási hely szerint illetékes óvodának, általános iskolának.
 
 46. § (1) A tanuló kötelessége, hogy
 
@@ -925,7 +951,7 @@ továbbítható.
 
 (5) A gyermek külön óvodai nevelését végző óvodai csoportot, a tanulók külön iskolai nevelését, oktatását végző iskolai osztályt a sajátos nevelési igény típusának megfelelően kell létrehozni. A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben a gyermek, tanuló egészségügyi és pedagógiai célú habilitációs és rehabilitációs ellátásban is részesül.
 
-(6) A gyermek, tanuló érdekében a kormányhivatal kötelezheti a szülőt, hogy gyermekével jelenjen meg szakértői vizsgálaton, továbbá a szakértői vélemény alapján gyermekét a megfelelő nevelési-oktatási intézménybe írassa be. Ha a szülő a kormányhivatal felhívása ellenére kötelezettségének ismételten nem tesz eleget, a kormányhivatal a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatot értesíti. A szakértői bizottság nem jelölhet ki olyan intézményt, amely helyhiány miatt nem tudná felvenni a gyermeket, tanulót. A szakértői vizsgálaton való részvétel érdekében szükséges utazás költségeit a társadalombiztosítás a szülőnek megtéríti.
+(6) A gyermek, tanuló érdekében a járási hivatal kötelezheti a szülőt, hogy gyermekével jelenjen meg szakértői vizsgálaton, továbbá a szakértői vélemény alapján gyermekét a megfelelő nevelési-oktatási intézménybe írassa be. A járási hivatal döntése elleni fellebbezést a kormányhivatal bírálja el. Ha a szülő a járási hivatal felhívása ellenére kötelezettségének ismételten nem tesz eleget, a járási hivatal a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatot értesíti. A szakértői bizottság nem jelölhet ki olyan intézményt, amely helyhiány miatt nem tudná felvenni a gyermeket, tanulót. A szakértői vizsgálaton való részvétel érdekében szükséges utazás költségeit a társadalombiztosítás a szülőnek megtéríti.
 
 (7)
 
@@ -988,7 +1014,7 @@ továbbítható.
 
 (6) Az általános iskola köteles felvenni, átvenni azt a tanköteles tanulót, akinek lakóhelye, ennek hiányában tartózkodási helye a körzetében található (a továbbiakban: kötelező felvételt biztosító iskola). Ha a településen több általános iskola működik, az egyes általános iskolai körzetet úgy kell meghatározni, hogy kialakíthatóvá váljon a halmozottan hátrányos helyzetű gyermekek egyenletes aránya a nevelési-oktatási intézményekben.
 
-(7)
+(7) Az iskolába a tanköteles tanulókat az első évfolyamra az állami intézményfenntartó központ által meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
 
 (8) A kormányhivatal meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá – a köznevelés-fejlesztési tervvel összhangban – a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a kormányhivatalnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 
@@ -1197,7 +1223,7 @@ fegyelmi büntetés szabható ki.
 
 #### 34. Pedagógusok és alkalmazottak
 
-61. § (1) Nevelő-oktató munka – óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés-oktatás, pedagógiai szakszolgálat keretében gyermekekkel, tanulókkal való pedagógiai célú közvetlen foglalkozás – pedagógus-munkakörben, az óraadó tanár kivételével, közalkalmazotti jogviszonyban vagy munkaviszonyban látható el. Pedagógus-munkakör ellátására – az óraadó tanár kivételével – polgári jogi jogviszony nem létesíthető.
+61. § (1) Nevelő-oktató munka – óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés-oktatás, pedagógiai szakszolgálat keretében gyermekekkel, tanulókkal való pedagógiai célú közvetlen foglalkozás – pedagógus-munkakörben, az óraadó kivételével, közalkalmazotti jogviszonyban vagy munkaviszonyban látható el. Pedagógus-munkakör ellátására – az óraadó kivételével – polgári jogi jogviszony nem létesíthető. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben köznevelési alapfeladat-ellátásra létesített munkakörben foglalkoztatottak közalkalmazotti jogviszonyban állnak.
 
 (2) A pedagógiai szakszolgálatok feladatait és a pedagógiai-szakmai szolgáltatásokat szakirányú felsőfokú végzettségű szakember látja el.
 
@@ -1207,7 +1233,7 @@ fegyelmi büntetés szabható ki.
 
 (5)
 
-(6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója.
+(6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az állami intézményfenntartó központ által az adott köznevelési intézményben alkalmazottak felett a helyi munkaszervezéssel összefüggő egyes átruházott munkáltatói jogokat gyakorol.
 
 (7) A köznevelési intézményben történő foglalkoztatás esetén nem összeférhetetlen, ha a magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult a Munka Törvénykönyve szerinti közeli hozzátartozójával irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
@@ -1306,16 +1332,16 @@ fegyelmi büntetés szabható ki.
 
 #### 39. A köznevelési intézmény vezetője
 
-68. § (1) Az állami köznevelési intézmény, többcélú intézmény vezetőjét – az óvoda kivételével – nevelési-oktatási intézmény esetében a nevelőtestület, többcélú intézményben az igazgatótanács, a fenntartó, az intézmény székhelye szerint illetékes vagy az intézményt működtető települési önkormányzat véleményének kikérésével az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
+68. § (1) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – nevelési-oktatási intézmény esetében a nevelőtestület, többcélú intézményben az igazgatótanács, a fenntartó, az intézmény székhelye szerint illetékes vagy az intézményt működtető települési önkormányzat, szakképző iskolában a szakképzésért és felnőttképzésért felelős miniszter véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
 
-(2) Az egyházi és magánintézmények vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+(2) Az állami intézményfenntartó központ által fenntartott köznevelési intézmények kivételével az állami fenntartású köznevelési intézmények, továbbá az egyházi és magánintézmények vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
 (3) Az önálló intézményként működő köznevelési intézmény élén – a munkáltató döntésétől függően – igazgató vagy főigazgató áll. Az önálló intézmény tagintézményeként vagy intézményegységeként működő kollégium élén kollégiumvezető, más köznevelési intézményegység élén tagintézmény-vezető, intézményegység-vezető áll. A tagintézmény, intézményegység vezetője igazgatói megbízást, az intézményvezető-helyettes, tagintézményvezető-helyettes, intézményegységvezető-helyettes igazgatóhelyettesi megbízást is kaphat.
 
 69. § (1) A köznevelési intézmény vezetője
 
-- a) felel az intézmény szakszerű és törvényes működéséért, gazdálkodásért,
-- b) gyakorolja a munkáltatói jogokat,
+- a) felel az intézmény szakszerű és törvényes működéséért, gazdálkodásért, önálló költségvetéssel nem rendelkező intézmény esetében a működtetővel kötött szerződésben foglaltak végrehajtásáért, működtető hiányában a fenntartó által rendelkezésére bocsátott eszközök tőle elvárható gondossággal való kezeléséért,
+- b) önálló költségvetéssel nem rendelkező intézmény vezetője kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
 - c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
 - d) felelős az intézményi szabályzatok elkészítéséért,
 - e) jóváhagyja az intézmény pedagógiai programját,
@@ -1326,7 +1352,7 @@ fegyelmi büntetés szabható ki.
 - a) a pedagógiai munkáért,
 - b) a nevelőtestület vezetéséért,
 - c) a nevelőtestület jogkörébe tartozó döntések előkészítéséért, végrehajtásuk szakszerű megszervezéséért és ellenőrzéséért,
-- d) a rendelkezésre álló költségvetés alapján a nevelési-oktatási intézmény működéséhez szükséges személyi és tárgyi feltételek biztosításáért,
+- d) önálló költségvetéssel rendelkező intézmény esetében a rendelkezésre álló költségvetés alapján a nevelési-oktatási intézmény működéséhez szükséges személyi és tárgyi feltételek biztosításáért,
 - e) a nemzeti és iskolai ünnepek munkarendhez igazodó, méltó megszervezéséért,
 - f) a gyermek- és ifjúságvédelmi feladatok megszervezéséért és ellátásáért,
 - g) a nevelő és oktató munka egészséges és biztonságos feltételeinek megteremtéséért,
@@ -1424,7 +1450,11 @@ dönt.
 
 #### 44. A köznevelés közfeladatai, a feladatellátásra kötelezettek
 
-74. § (1)–(3)
+74. § (1) Az állam gondoskodik – az óvodai nevelés, a nemzetiséghez tartozók óvodai nevelése, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai nevelése kivételével – a köznevelési alapfeladatok ellátásáról.
+
+(2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá egyházi vagy magánintézmény fenntartójával kötött köznevelési szerződés útján látja el. Az óvodai nevelésről a települési önkormányzat intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik. A fenntartó az általa fenntartott intézménybe járó gyermek lakóhelye szerinti önkormányzattól az óvoda fenntartásához hozzájárulást kérhet.
+
+(3) Ha a köznevelési közfeladat ellátása vallási, világnézeti szempontból elkötelezett nevelési, nevelési-oktatási intézmény fenntartójával kötött köznevelési szerződés útján történik, a szerződés megkötése nem mentesít a feladatellátási kötelezettség alól azon gyermekek tekintetében, akiknek a szülei nem akarják vallási, világnézetileg elkötelezett óvodába, iskolába járatni gyermeküket. Az állami intézményfenntartó központ, óvoda átadása esetében a települési önkormányzat, gondoskodik arról, hogy ezekre a szülőkre, gyermekekre, tanulókra a köznevelési szerződés miatt a vallási, világnézeti szempontból el nem kötelezett nevelésben, nevelésben-oktatásban való részvételhez fűződő joguk érvényesítésében aránytalan teher nem hárulhat. Akkor adható át nevelési, nevelési-oktatási intézmény vallási, világnézeti szempontból elkötelezett nevelést, oktatást folytató fenntartó számára, ha az intézménybe beíratott kiskorú gyermekek, tanulók esetén a szülők, nagykorúság elérése esetén a tanulók több mint fele azt támogatja. Az állami intézményfenntartó központ akkor tehet javaslatot az oktatásért felelős miniszternek, hogy az intézmény átadásával egyidejűleg kössön köznevelési szerződést a vallási, világnézeti tekintetben elkötelezett nevelést-oktatást folytató fenntartóval, ha az iskola állami tulajdonban van, vagy a tulajdonos települési önkormányzat az átadásról döntött, és a nevelést-oktatást, a szakképzést a vallási, világnézeti szempontból el nem kötelezett nevelést-oktatást igénylő tanulók számára változatlan színvonalon biztosítja.
 
 (4) A 3000 főt meghaladó lakosságszámú települési önkormányzat gondoskodik – a szakképző iskola kivételével – az illetékességi területén lévő összes, saját tulajdonában álló, az állami intézményfenntartó központ által fenntartott köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyon működtetéséről. A működtetés keretében a települési önkormányzat – a 76. § (3) bekezdésében foglaltak kivételével – saját forrásai terhére biztosítja a köznevelési feladat ellátásához szükséges tárgyi feltételeket, továbbá az ingó és ingatlan vagyon működtetésével összefüggő személyi feltételeket. A települési önkormányzat e kötelezettségének teljesítése alól – az ahhoz szükséges gazdasági és jövedelemtermelő képesség hiánya esetén, az érintett köznevelési intézmény működtetésével kapcsolatos kiadásaira és a köznevelési intézmény működtetéséhez rendelkezésére álló bevételeire vonatkozó, jogszabályban meghatározott adatszolgáltatás mellett – felmentést kérhet, továbbá egyes területszervezéssel és a lakosságszám változásával összefüggő rendkívüli esetben mentesül.
 
@@ -1434,9 +1464,34 @@ dönt.
 
 (6a) A (4) és (5) bekezdésben meghatározott működtetés egyedi feltételeit az állami intézményfenntartó központtal kötött, a köznevelési intézmény által ellátott feladatokhoz igazodó szerződésben kell megállapítani.
 
-(7)
+(7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és általános iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát köznevelési szerződéssel átveheti a települési önkormányzattól, az államtól.
 
-#### 75–76. §
+75. § (1) Az oktatásért felelős miniszter a köznevelési feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal előterjesztése alapján a kormányhivatalok közreműködésével, valamint a helyi önkormányzatok véleményének kikérésével és közreműködésével megyei szintű bontásban feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervet készít, amelynek része a megyei szakképzési terv. A települési önkormányzat a köznevelés-fejlesztési tervhez adott véleményéhez beszerzi a településen működő köznevelési intézmények nevelőtestületei, a köznevelési intézményben közalkalmazotti jogviszony, munkaviszony keretében foglalkoztatottak közössége (a továbbiakban: alkalmazotti közösség), szülői és diákszervezeteinek véleményét. A hivatal a megyei szakképzési terv elkészítéséhez beszerzi a szakképzésért és felnőttképzésért felelős miniszter véleményét.
+
+(2) A miniszter a köznevelés-fejlesztési tervet legalább ötévente értékeli és szükség szerint módosítja.
+
+(3) Az állami fenntartású gyakorló nevelési-oktatási intézmény, gyakorló szakszolgálati intézmény köznevelés-fejlesztési tervbe való felvételéről az oktatásért felelős miniszter a felsőoktatási intézmény javaslata alapján dönt.
+
+(4) A hivatal a köznevelés-fejlesztési terv elkészítésekor beszerzi – a nemzetiséget érintő kérdésekben – az érintett települési, területi és országos nemzetiségi önkormányzat egyetértését.
+
+76. § (1) A működtető feladata, hogy a köznevelési közfeladat-ellátás céljait szolgáló ingatlant az e törvény keretei között kötött szerződésben foglalt módon és feltételekkel az ingatlan rendeltetésének megfelelő, hatályos köznevelési, tűzvédelmi, munkavédelmi és egészségügyi előírások szerint üzemeltesse, karbantartsa. A működtető köteles a működtetéssel kapcsolatos közterheket, költségeket, díjakat viselni, gondoskodni az ingatlan vagyonvédelméről. A működtető köteles ellátni minden olyan feladatot, amely ahhoz szükséges, hogy az ingatlanban a köznevelési feladatokat megfelelő színvonalon és biztonságosan láthassák el. Ennek keretében a működtető feladata különösen a köznevelési intézmények működéséhez szükséges eszközök, taneszközök, anyagok, áruk, szolgáltatások megrendelése, átadás-átvétele, raktározása, készletek pótlása. A működtető feladata működtetni, karbantartani a köznevelési intézmény alapító okiratában foglalt feladat ellátásához szükséges technikai berendezéseket, javítani, karbantartani a tulajdonában lévő taneszközöket, beszerezni a köznevelési közfeladat-ellátáshoz szükséges eszközöket.
+
+(2) A köznevelési intézmény alapító okiratának az intézmény működtetését érintő módosítása vagy az ezzel összefüggő infrastruktúra-fejlesztés az állam és a működtető közötti egyedi megállapodásban foglaltak szerint történik.
+
+(3) A működtető feladata a köznevelési intézmény épülete állagának megóvása, az állagmegóváson túl jelentkező rekonstrukciós, fejlesztési költségek fedezése már nem kötelessége, de ehhez az állam pályázati úton támogatást nyújthat. Az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben az állami intézményfenntartó központ költségvetésében az erre a célra tervezett keret erejéig az intézményvezető javaslatára, az állami intézményfenntartó központ jóváhagyásával a működtető által beszerzett, külön jogszabályban meghatározott eszközöket, felszereléseket, továbbá a taneszközöket az állam finanszírozza. A működtető az általa működtetett intézménybe járó tanulók lakóhelye szerinti önkormányzattól a működtetéshez hozzájárulást igényelhet.
+
+(4) A települési önkormányzat a helyi önkormányzati képviselők választását követő év március 31. napjáig nyújthat be kérelmet, ha a következő tanévtől a működtetést az államtól képes átvállalni vagy a működtetést nem képes vállalni.
+
+(5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyonra vonatkozóan az állami intézményfenntartó központot
+
+- a) ingyenes vagyonkezelői jog illeti meg, ha a köznevelési intézményt települési önkormányzat nem működteti,
+- b) ingyenes használati jog illeti meg, ha a köznevelési intézményt települési önkormányzat működteti,
+
+mindaddig, amíg a köznevelési közfeladat állami intézményfenntartó központ részéről történő ellátása az adott ingatlanban meg nem szűnik.
+
+(6) Az állami intézményfenntartó központ ingyenes vagyonkezelői vagy ingyenes használati jogának fennállása alatt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont a települési önkormányzat nem idegenítheti el, nem terhelheti meg, bérbe csak abban az esetben adhatja, ha a köznevelési intézményt működteti és a bérbeadás a köznevelési feladat ellátását nem veszélyezteti. A bérbeadás az érintett köznevelési intézményben folyó köznevelési feladatellátást akkor nem veszélyezteti, ha nem gátolja a pedagógiai programban, az SZMSZ-ben vagy a házirendben meghatározott feladatok végrehajtását.
+
+(7) A lakóhely, ennek hiányában a tartózkodási hely szerint illetékes települési önkormányzat megtéríti a kötelező felvételt biztosító óvodába való utazás költségeit, továbbá szükség esetén gondoskodik kísérő személyről a gyermek részére, ha az óvoda a településen kívül található, és az óvodába való utaztatást az önkormányzat nem biztosítja. A kötelező felvételt biztosító iskolába való utaztatásról a fenntartó gondoskodik.
 
 76/A. § A Központ együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a használatában vagy vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának veszélyeztetése nélkül külön megállapodás alapján biztosítja a tulajdonos települési önkormányzat számára.
 
@@ -1450,7 +1505,7 @@ dönt.
 - b) ellenőrzi a tankönyvkiadást és tankönyvforgalmazást, szabályozza a tankönyvekkel kapcsolatos támogatások rendszerét,
 - c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az állami nevelési-oktatási intézmények számára ingyenesen nyújtott pedagógiai-szakmai szolgáltatások megszervezéséről,
 - d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
-- e)
+- e) felügyeli a KIR működését,
 - f) működteti az oktatási jogok biztosának hivatalát,
 - g) javaslatot tesz statisztikai adatszolgáltatásra,
 - h) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó elektronikus adatnyilvántartást,
@@ -1767,7 +1822,7 @@ ellenőrzés.
 
 91. § (1) Magyar állampolgár engedély nélkül folytathat tanulmányokat külföldön és tankötelezettségét külföldi nevelési-oktatási intézményben is teljesítheti.
 
-(2) A tanköteles tanuló tanulmányainak külföldön történő folytatását – a tanköteles gyermek nyilvántartása céljából – be kell jelenteni a lakóhely, ennek hiányában tartózkodási hely szerint illetékes települési önkormányzat jegyzőjének, vagy, ha a tanuló már hazai iskolába beiratkozott, az iskola igazgatójának.
+(2) A tanköteles tanuló tanulmányainak külföldön történő folytatását – a tanköteles gyermek nyilvántartása céljából – be kell jelenteni a lakóhely, ennek hiányában tartózkodási hely szerint illetékes járási hivatalnak, vagy, ha a tanuló már hazai iskolába beiratkozott, az iskola igazgatójának.
 
 (3) A külföldi tanulmányok alatt a tanuló magyarországi tanulói jogviszonya szünetel.
 
@@ -1878,7 +1933,7 @@ rendeletben állapítsa meg.
 
 (6) A 67. § (2) bekezdése a 2014. évi általános önkormányzati választások napján lép hatályba.
 
-(7)
+(7) Hatályát veszti a Kt. 6. § (2) bekezdése, 21. §-a, 24. § (5) bekezdése, 34–35. §-a, 55. § (5) bekezdése, 66. § (9) bekezdése, 85–91. §-a, 94. § (3) bekezdés f) pontja.
 
 (8)
 
@@ -1936,9 +1991,9 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (12) Az e törvény hatálybalépésekor már működő hat vagy nyolc évfolyamos gimnáziumnak a külön jogszabályban meghatározott emelt szintű követelményeknek a 2016/2017. tanév végéig kell megfelelniük.
 
-(13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2014/2015. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
+(13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2016/2017. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
 
-(14) Az iskola 2012. december 31-ig felülvizsgálja a pedagógiai programját, annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen.
+(14) Az iskola 2013. március 31-ig felülvizsgálja a pedagógiai programját, annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen.
 
 (15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
 

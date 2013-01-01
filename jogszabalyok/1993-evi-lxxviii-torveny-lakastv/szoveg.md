@@ -503,17 +503,29 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 62/B. §
 
-63. § (1) A fővárosi kerületi önkormányzat a 62. § (1) bekezdésében említett lakóépületeinek (a bennük lévő lakások ) elidegenítéséből származó — 1994. március 31. napját követően befolyó és a 62. § (5) bekezdése szerint csökkentett — bevételének ötven százalékát a fővárosi közgyűlés számláját vezető pénzintézethez, elkülönített számlára köteles befizetni.
+63. § (1) A kerületi önkormányzat a 62. § (1) bekezdésében említett lakóépületeinek (a bennük lévő lakások) elidegenítéséből származó – 1994. március 31. napját követően befolyó, és a 62. § (5) bekezdése szerint csökkentett – bevételének ötven százalékát a fővárosi önkormányzat elkülönített számlájára köteles befizetni.
 
 (2) Az (1) bekezdésben meghatározott kötelezettség az állami tulajdonú lakóépületek (a bennük lévő lakások) elidegenítéséből származó, a kerületi önkormányzatot megillető bevételekre is vonatkozik, tekintet nélkül arra, hogy az elidegenítésről a megszűnt tanácsi szerv vagy az önkormányzat döntött-e.
 
-(3) Az (1) és (2) bekezdésben megjelölt bevétel csak pályázat útján:
+(3) A fővárosi önkormányzat elkülönített számláján az (1) és (2) bekezdés alapján 2013. január 1-jén rendelkezésre álló összeg hatályban lévő szerződéssel le nem kötött részét a fővárosi önkormányzat legkésőbb 2013. június 30-áig a befizetést teljesítő kerületi önkormányzatok között pályázat útján
 
 - a) a kerületi önkormányzati tulajdonú lakóépületek (lakóépületrészek) felújítására, részleges bontására, a felújítás és bontás során megszűnő önkormányzati lakások pótlására,
-- b) a felújítandó lakóépülethez közvetlenül kapcsolódó vonalas infrastrukturális beruházásokra vagy meglévő ilyen vonalas infrastrukturális létesítmény felújítására,
-- c) a kerületi önkormányzat és a Fővárosi Önkormányzat által megkötött együttműködési megállapodás alapján, városrehabilitációt megvalósító programokra
+- b) a felújítandó lakóépülethez közvetlenül kapcsolódó vonalas infrastrukturális beruházásokra vagy meglévő ilyen vonalas infrastruktúra-hálózat, illetve létesítmény felújítására, vagy
+- c) a kerületi önkormányzat és a fővárosi önkormányzat által megkötött együttműködési megállapodás alapján, városrehabilitációt megvalósító programokra
 
-használható fel. A felhasználás feltételeit és a pályázati eljárás rendjét a fővárosi közgyűlés rendeletében kell meghatározni.
+osztja szét.
+
+(4) A kerületi önkormányzatnak a (3) bekezdés szerint nyújtott támogatás az adott beruházás, felújítás elismerhető költségei teljes összegére is kiterjedhet. A felhasználás feltételeit és a pályázati eljárás rendjét a fővárosi önkormányzat rendeletben szabályozza.
+
+63/A. § (1) A kerületi önkormányzat a 63. § (1) bekezdése szerinti befizetési kötelezettségét akkor is teljesítettnek kell tekinteni, ha a kerületi önkormányzat a kincstár számára 2013. június 30-áig dokumentumokkal alátámasztva igazolja, hogy a befizetési kötelezettség teljesítésének időszaka alatt legalább a befizetési kötelezettség összegének megfelelő mértékben saját forrásaiból a 62. § (3) bekezdése szerinti lakáscélokat, illetve az önkormányzat alapfeladataihoz kapcsolódó infrastrukturális beruházásokat, felújításokat vagy társasházi felújítási célú pályázatokat finanszírozott.
+
+(2) A kincstár 2013. július 31-éig értesíti a kerületi önkormányzatot a dokumentumokkal alátámasztott igazolás elfogadásáról, illetve el nem fogadás esetén a fenti időpontig a még szükséges adatok és a határidő pontos megjelölésével hiánypótlásra szólítja fel.
+
+(3) Ha a kincstár a (2) bekezdés szerinti hiánypótlást követően sem tartja elfogadhatónak az (1) bekezdés szerinti igazolást, azt 2013. augusztus 15-éig – határozattal – elutasítja.
+
+(4) A kincstár eljárására az e §-ban foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell alkalmazni.
+
+(5) A kincstár eljárásában kizárt az újrafelvételi eljárás. A kincstár döntése ellen fellebbezésnek nincs helye. A kerületi önkormányzat a döntés közlésétől számított tizenöt napon belül a határozat felülvizsgálatát kérheti a Fővárosi Törvényszéktől.
 
 64. § (1) Az önkormányzati tulajdonú lakóépületek (lakóépületrészek) felújításához igénybe vett pénzintézeti kölcsön visszafizetésére az állam garanciát vállal és kamatainak megfizetéséhez támogatást nyújt.
 
@@ -714,7 +726,8 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 - i) a bérlő halála esetén a lakásra és helyiségre (ideértve a bérlőkijelölési joggal érintett lakást is) vonatkozó bérleti jog folytatásának lehetőségét, továbbá a jogfolytatásra jogosultak körét és a joggyakorlás feltételeit;
 - j) a lakás és helyiség albérletbe adásához való hozzájárulás feltételeit;
 - k) a lakás és helyiség lakbérének mértékét és a lakbér megállapításának feltételeit;
-- l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
+- l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit;
+- m) a lakás és helyiség – ideértve a bérlőkijelölési joggal érintett helyiség – elidegenítésének szabályait.
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
@@ -726,6 +739,8 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 - a) az e törvény szerinti üzletszerű ingatlanközvetítői, illetőleg üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint
 - b) a 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetek tevékenysége folytatásának részletes feltételeit, a tevékenység bejelentésének és e gazdálkodó szervezetekről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+
+87/C. § Felhatalmazást kap a fővárosi önkormányzat képviselő-testülete, hogy a 63. § (3) bekezdése szerinti támogatás felhasználási feltételeit és a támogatás igénybevételével kapcsolatos eljárási szabályokat rendeletben határozza meg.
 
 ### A közös tulajdonra vonatkozó szabályok
 
@@ -760,25 +775,11 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 (3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásgazdálkodásért és lakáspolitikáért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
 
-### Önkényesen elfoglalt lakás kiürítése közigazgatási eljárásban
-
-90/A. § (1) A tulajdonos az üres lakás önkényes elfoglalásától számított 60 napon belül a jegyzőtől is kérheti a lakás kiürítésének elrendelését, ha a lakás kiürítése iránti bírósági vagy végrehajtási eljárás még nincs folyamatban.
-
-(2) Az önkényesen elfoglalt lakás kiürítésének elrendelésével kapcsolatos kérelem ügyében a jegyző a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló külön törvény alapján jár el. A jegyző határozata ellen közigazgatási úton jogorvoslatnak helye nincs. Az a fél, aki a jegyző határozatát sérelmesnek tartja, a határozat kézbesítésétől számított 15 napon belül az ellenérdekű fél ellen keresetet indíthat a határozat megváltoztatása iránt.
-
-(3) A keresetlevelet akár a jegyzőnél, akár a jegyző székhelye szerint illetékes helyi bíróságnál be lehet nyújtani. A jegyző a keresetlevelet az ügyre vonatkozó iratokkal együtt 3 napon belül köteles a helyi bírósághoz áttenni. Ha a keresetlevelet a helyi bírósághoz nyújtották be, a helyi bíróság a közigazgatási iratok beszerzése iránt intézkedik.
-
-(4) A lakás kiürítését elrendelő határozatot 8 napon belül végre kell hajtani akkor is, ha az érdekelt fél keresetet indított. A határozat végrehajtásáról a jegyző gondoskodik.
-
-(5) Ha a kötelezett az ingóságainak elhelyezésére felhívás ellenére sem jelöl meg helyiséget, vagy a megjelölt helyen azokat nem lehet elhelyezni, a végrehajtást kérő a kötelezett költségére és veszélyére köteles gondoskodni az ingóságok elhelyezéséhez szükséges raktárról vagy más alkalmas helyiségről.
-
-(6) A bíróság elrendelheti a határozat végrehajtásának felfüggesztését, ha a rendelkezésre álló adatok alapján a határozat megváltoztatása várható.
-
-(7) Az (1)–(6) bekezdés alkalmazható akkor is, ,,ha a lakás egyes helyiségeinek, a lakáshoz tartozó helyiségnek, nem lakás céljára szolgáló helyiségnek vagy az épület közös használatra szolgáló helyiségének és területének az önkényes elfoglalása történt.
+90/A. §
 
 ### Végrehajtási eljárás
 
-91. § (1) E törvény hatálybalépését követően a lakás és más – nem lakás céljára szolgáló – helyiség vagy ezek egy részének, továbbá az épület közös használatra szolgáló helyiségének vagy területének kiürítésével, átadásával, használatával kapcsolatos határozatok végrehajtására – a jegyző 90/A. §-on alapuló határozatának kivételével – a bírósági végrehajtásról szóló külön törvény rendelkezéseit kell alkalmazni.
+91. § (1) E törvény hatálybalépését követően a lakás és más – nem lakás céljára szolgáló – helyiség vagy ezek egy részének, továbbá az épület közös használatra szolgáló helyiségének vagy területének kiürítésével, átadásával, használatával kapcsolatos határozatok végrehajtására a bírósági végrehajtásról szóló külön törvény rendelkezéseit kell alkalmazni.
 
 (2) A törvény hatálybalépése előtt hozott, végrehajtást elrendelő határozat végrehajtásának foganatosítására az (1) bekezdésben foglalt szabályokat kell alkalmazni.
 

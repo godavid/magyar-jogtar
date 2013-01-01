@@ -432,7 +432,20 @@ nem térhet el.
 
 #### 30. A munkaszerződéstől eltérő foglalkoztatás
 
-#### 53. §
+53. § (1) A munkáltató jogosult a munkavállalót átmenetileg a munkaszerződéstől eltérő munkakörben, munkahelyen vagy más munkáltatónál foglalkoztatni.
+
+(2) Az (1) bekezdés szerinti foglalkoztatás tartama naptári évenként összesen a negyvennégy beosztás szerinti munkanapot vagy háromszázötvenkét órát nem haladhatja meg. Ezt arányosan kell alkalmazni, ha a munkaviszony évközben kezdődött, határozott időre vagy az általánostól eltérő teljes napi vagy részmunkaidőre jött létre. A munkaszerződéstől eltérő foglalkoztatás várható tartamáról a munkavállalót tájékoztatni kell.
+
+(3) A munkavállaló hozzájárulása nélkül nem kötelezhető más helységben végzendő munkára
+
+- a) a várandóssága megállapításától gyermeke hároméves koráig,
+- b) gyermeke tizenhat éves koráig, ha gyermekét egyedül neveli, valamint
+- c) hozzátartozójának tartós, személyes gondozása esetén, továbbá, ha
+- d) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította.
+
+(4) A (3) bekezdés c) pontjának alkalmazása tekintetében a 131. § (2) bekezdése megfelelően irányadó.
+
+(5) A munkavállaló az (1) bekezdés szerinti foglalkoztatás esetén az ellátott munkakörre előírt, de legalább a munkaszerződése szerinti alapbérre jogosult.
 
 #### 31. Az utasítás teljesítésének megtagadása
 
@@ -1180,49 +1193,148 @@ rendelhető el.
 
 #### 59. A szabadság
 
-#### 115. §
+115. § (1) A munkavállalónak a munkában töltött idő alapján minden naptári évben szabadság jár, amely alap- és pótszabadságból áll.
 
-#### 116. §
+(2) Munkában töltött időnek minősül az (1) bekezdés alkalmazásában
 
-#### 117. §
+- a) a munkaidő-beosztás alapján történő munkavégzési kötelezettség alóli mentesülés,
+- b) a szabadság,
+- c) a szülési szabadság,
+- d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
+- e) a naptári évenként harminc napot meg nem haladó keresőképtelenség,
+- f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
+- g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–k) pontban meghatározott
 
-#### 118. §
+tartama.
 
-#### 119. §
+116. § Az alapszabadság mértéke húsz munkanap.
 
-#### 120. §
+117. § (1) A munkavállalónak
 
-#### 121. §
+- a) huszonötödik életévétől egy,
+- b) huszonnyolcadik életévétől kettő,
+- c) harmincegyedik életévétől három,
+- d) harmincharmadik életévétől négy,
+- e) harmincötödik életévétől öt,
+- f) harminchetedik életévétől hat,
+- g) harminckilencedik életévétől hét,
+- h) negyvenegyedik életévétől nyolc,
+- i) negyvenharmadik életévétől kilenc,
+- j) negyvenötödik életévétől tíz
+
+munkanap pótszabadság jár.
+
+(2) A hosszabb tartamú pótszabadság a munkavállalónak abban az évben jár először, amelyben az (1) bekezdésben meghatározott életkort betölti.
+
+118. § (1) A munkavállalónak a tizenhat évesnél fiatalabb
+
+- a) egy gyermeke után kettő,
+- b) két gyermeke után négy,
+- c) kettőnél több gyermeke után összesen hét
+
+munkanap pótszabadság jár.
+
+(2) Az (1) bekezdés szerinti pótszabadság fogyatékos gyermekenként két munkanappal nő, ha a munkavállaló gyermeke fogyatékos.
+
+(3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+
+(4) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
+119. § (1) A fiatal munkavállalónak évenként öt munkanap pótszabadság jár, utoljára abban az évben, amelyben a tizennyolcadik életévét betölti.
+
+(2) A föld alatt állandó jelleggel vagy az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát dolgozó munkavállalónak évenként öt munkanap pótszabadság jár.
+
+120. § A munkavállalónak, ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, évenként öt munkanap pótszabadság jár.
+
+121. § (1) A munkavállaló részére, ha munkaviszonya év közben kezdődött vagy szűnt meg, a szabadság arányos része jár.
+
+(2) A fél napot elérő töredéknap egész munkanapnak számít.
 
 #### 60. A szabadság kiadása
 
-#### 122. §
+122. § (1) A szabadságot – a munkavállaló előzetes meghallgatása után – a munkáltató adja ki.
 
-#### 123. §
+(2) A munkáltató évente hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – legfeljebb két részletben a munkavállaló kérésének megfelelő időpontban köteles kiadni. Ennek során a 121. § megfelelően irányadó. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
-#### 124. §
+(3) A szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy tartama legalább összefüggő tizennégy napot elérjen.
 
-#### 125. §
+(4) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt tizenöt nappal közölni kell.
+
+(5) A szabadságot – a 125. §-ban foglaltakat kivéve – megváltani nem lehet.
+
+123. § (1) A szabadságot esedékességének évében kell kiadni.
+
+(2) A szabadságot, ha a munkaviszony október elsején vagy azt követően kezdődött, a munkáltató az esedékességet követő év március 31-ig adhatja ki.
+
+(3) A szabadságot, ha a munkavállaló oldalán felmerült ok miatt nem lehetett az (1) bekezdésben meghatározottak szerint kiadni, az ok megszűnésétől számított hatvan napon belül ki kell adni.
+
+(4) Az esedékesség évében kell kiadottnak tekinteni a szabadságot, ha igénybevétele az esedékesség évében megkezdődik és a szabadság következő évben kiadott része nem haladja meg az öt munkanapot.
+
+(5) A munkáltató kivételesen fontos gazdasági érdek vagy a működését közvetlenül és súlyosan érintő ok esetén
+
+- a) a szabadság kiadásának közölt időpontját módosíthatja,
+- b) a munkavállaló már megkezdett szabadságát megszakíthatja,
+- c) kollektív szerződés rendelkezése esetén a szabadság egynegyedét legkésőbb az esedékességet követő év március 31-ig adhatja ki.
+
+(6) A munkáltató – a felek megállapodása alapján – a 116–117. §-ban foglaltak szerinti szabadság egyharmadát az esedékesség évét követő év végéig adja ki.
+
+(7) A munkavállalónak a kiadás időpontjának módosításával vagy a megszakítással összefüggésben felmerült kárát és költségeit a munkáltató köteles megtéríteni. Az (5) bekezdés b) pontban foglalt esetben a szabadság alatti tartózkodási helyről a munkahelyre és a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be.
+
+124. § (1) A szabadságot a munkaidő-beosztás szerinti munkanapokra kell kiadni.
+
+(2) A napi munkaidő mértékétől eltérő munkaidő-beosztás esetén, a munkavállaló a szabadság kiadása során a beosztással azonos tartamra mentesül munkavégzési kötelezettsége alól és a kiadott szabadságot ezzel egyező óraszámban kell elszámolni és nyilvántartani.
+
+(3) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni.
+
+125. § A munkaviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani.
 
 #### 61. Betegszabadság
 
-#### 126. §
+126. § (1) A munkáltató a munkavállaló számára a betegség miatti keresőképtelenség tartamára naptári évenként tizenöt munkanap betegszabadságot ad ki.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem jár betegszabadság a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenség, valamint a veszélyeztetett várandósság miatti keresőképtelenség tartamára.
+
+(3) Évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult.
+
+(4) A betegszabadság kiadásánál a 124. §-ban foglalt rendelkezést kell azzal az eltéréssel alkalmazni, ha a munkavállaló a munkaszüneti nap miatt mentesülne a munkavégzési kötelezettsége alól, ezt a napot munkanapként kell figyelembe venni.
+
+(5) A betegszabadság tekintetében a 121. § (2) bekezdése megfelelően irányadó.
 
 #### 62. Szülési szabadság, fizetés nélküli szabadság
 
-#### 127. §
+127. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
 
-#### 128. §
+(2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
 
-#### 129. §
+(3) A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
 
-#### 130. §
+(4) A szülési szabadság igénybe nem vett részét, ha a gyermeket a koraszülöttek ápolására fenntartott intézetben gondozzák, a szülést követő egy év elteltéig a gyermeknek az intézetből történt elbocsátása után is igénybe lehet venni.
 
-#### 131. §
+(5) A szülési szabadság tartamát a kifejezetten munkavégzéshez kapcsolódó jogosultságot kivéve, munkában töltött időnek kell tekinteni.
+
+128. § A munkavállaló gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a munkavállaló kérésének megfelelő időpontban kell kiadni.
+
+129. § (1) A 127–128. §-ban meghatározott szabadság megszűnik
+
+- a) a gyermek halva születése esetén,
+- b) ha a gyermek meghal, a halált követő tizenötödik napon,
+- c) ha a gyermeket – a külön jogszabályban foglaltak szerint – ideiglenes hatállyal elhelyezték, átmeneti vagy tartós nevelésbe vették, továbbá harminc napot meghaladóan bentlakásos szociális intézményben helyezték el, a gyermek elhelyezését követő napon.
+
+(2) Az (1) bekezdésben megjelölt esetben a szabadság tartama – a szülést követően – hat hétnél rövidebb nem lehet.
+
+130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyósításának tartama alatt.
+
+131. § (1) A munkavállalónak hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár.
+
+(2) A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
 132. § A munkavállalónak fizetés nélküli szabadság jár a tényleges önkéntes tartalékos katonai szolgálatteljesítés tartamára.
 
-#### 133. §
+133. § (1) A munkavállaló a fizetés nélküli szabadság igénybevételét legalább tizenöt nappal korábban írásban köteles bejelenteni.
+
+(2) A fizetés nélküli szabadság a munkavállaló által megjelölt időpontban, de legkorábban a szabadság megszüntetésére irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.
+
+(3) Az (1)–(2) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni a 132. § szerinti fizetés nélküli szabadságra.
 
 #### 63. A munka- és pihenőidő nyilvántartása
 
@@ -1396,15 +1508,47 @@ havi átalányt állapíthatnak meg.
 
 #### 68. A távolléti díj számítása
 
-#### 148. §
+148. § (1) A távolléti díjat az esedékessége időpontjában érvényes alapbér, valamint az utolsó hat naptári hónapra (irányadó időszak) kifizetett teljesítménybér és bérpótlék figyelembevételével kell megállapítani.
 
-#### 149. §
+(2) A távolléti díj kiszámításakor figyelmen kívül kell hagyni azt a munkabért, amelyre a munkavállaló a távollét tartamára munkavégzés hiányában is jogosult.
 
-#### 150. §
+(3) A napi- vagy a havi távolléti díj meghatározásakor – a 149. §-ban foglaltakat kivéve – az egy órára járó távolléti díjat a napi munkaidővel vagy a 136. § (3) bekezdésében foglaltak szerint kell megszorozni.
 
-#### 151. §
+(4) A távolléti díj megállapításakor a 149–151. §-ban foglaltak szerint kiszámított összegeket együttesen kell figyelembe venni.
 
-#### 152. §
+149. § (1) Havi bér esetén
+
+- a) az egy órára járó távolléti díj meghatározásakor a 136. § (3) bekezdésében foglaltakat kell alkalmazni,
+- b) a napi távolléti díj az egy órára járó távolléti díj és a napi munkaidő szorzata,
+- c) a havi távolléti díj megegyezik az alapbérrel.
+
+(2) Órabér esetén
+
+- a) az egy órára járó távolléti díj megegyezik az órabérrel,
+- b) a napi távolléti díj az órabér és a napi munkaidő szorzata,
+- c) a havi távolléti díj meghatározásakor az órabért a 136. § (3) bekezdésében foglaltak szerint kell szorozni.
+
+150. § (1) A távolléti díj meghatározásakor a 137. § (3) bekezdésében foglaltak szerint kifizetett teljesítménybért kell számításba venni.
+
+(2) A teljesítménybért – a kifizetés időpontjától függetlenül – az irányadó időszakra jutó arányos részben kell figyelembe venni.
+
+(3) A kizárólag teljesítménybérrel díjazott munkavállaló esetében a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni.
+
+(4) A teljesítménybért az egy órára járó távolléti díj kiszámításakor úgy kell figyelembe venni, hogy az irányadó időszaki rendes munkaidőre járó teljesítménybér összegét osztani kell az irányadó időszakban rendes munkaidőben teljesített és teljesítménybérrel díjazott órák számával (osztószám).
+
+151. § (1) A távolléti díj megállapításakor, ha a munkavállaló munkaideje a munkavégzés alóli mentesülés tartamára nem volt beosztva, a 141–142. §-ban és a 144. § (1) bekezdésében foglaltak szerinti bérpótlékot – a (2)–(3) bekezdésben foglaltak szerint – figyelembe kell venni.
+
+(2) A műszakpótlékot és az éjszakai bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkavállaló az irányadó időszakban legalább a beosztás szerinti munkaideje harminc százalékának megfelelő tartamban műszak- vagy éjszakai bérpótlékra jogosító időszakban végzett munkát.
+
+(3) Az ügyelet és a készenlét tartamára kifizetett bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkáltató a munkavállaló számára az irányadó időszakban átlagosan legalább havi kilencvenhat óra tartamú ügyeletet vagy készenlétet rendelt el.
+
+(4) A bérpótlékot az egy órára járó távolléti díj kiszámításakor úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett bérpótlék összegét osztani kell az irányadó időszakban, rendes munkaidőben teljesített órák számával (osztószám).
+
+(5) Ha a munkáltató a munkavállaló számára az (1) bekezdésben meghatározott bérpótlékok helyett a 145. § szerint átalányt állapított meg, a kifizetett havi átalány összegét osztani kell az irányadó időszakban rendes munkaidőben teljesített órák számával (osztószám).
+
+152. § (1) A távolléti díj kiszámításakor, ha az irányadó időszakban munkabér-kifizetés nem történt, az alapbért kell figyelembe venni.
+
+(2) Hat hónapnál rövidebb munkaviszony esetén, a távolléti díj számításakor irányadó időszakként a naptári hónapokat vagy hónapot kell figyelembe venni. Teljes naptári hónap hiányában az alapbért vagy a havi átalányt kell figyelembe venni.
 
 #### 69. A kötelező legkisebb munkabér, a garantált bérminimum
 

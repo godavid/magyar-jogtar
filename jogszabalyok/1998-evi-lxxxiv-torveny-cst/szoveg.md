@@ -42,8 +42,8 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - f) tartósan beteg, illetve súlyosan fogyatékos személy:
   - fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban meghatározott betegsége, illetve fogyatékossága miatt állandó vagy fokozott felügyeletre, gondozásra szorul,
   - fb) az a tizennyolc évesnél idősebb személy, aki a tizennyolcadik életévének a betöltése előtt munkaképességét legalább 67%-ban elvesztette, legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek egészségi állapota a rehabilitációs hatóság minősítése alapján a tizennyolcadik életévének a betöltése előtt sem haladja meg az 50%-os mértéket, és ez az állapot legalább egy éve tart, vagy előreláthatólag legalább egy évig fennáll;
-- g) nevelőszülő: az a személy, aki nevelőszülői jogviszonya keretében saját háztartásában gondozza a gyámhivatal jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
-- h) hivatásos nevelőszülő: az a személy, aki speciális foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhivatal jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
+- g) nevelőszülő: az a személy, aki nevelőszülői jogviszonya keretében saját háztartásában gondozza a gyámhatóság jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
+- h) hivatásos nevelőszülő: az a személy, aki speciális foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhatóság jogerős határozatával nála elhelyezett, átmeneti vagy tartós nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
 - i) jövedelem: az a személyi jövedelemadóról szóló törvényben adóköteles jövedelemként meghatározott – belföldről vagy külföldről származó – vagyoni érték, bevétel, amelynek havi összege meghaladja a mindenkori legkisebb munkabér összegét;
 - j) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem;
 - k) saját háztartásban nevelt, gondozott gyermek: az a gyermek, aki a 7. § (1) bekezdésének a) pontjában meghatározott személlyel életvitelszerűen együtt él és annak gondozásából rendszeres jelleggel legfeljebb csak napközbeni időszakra kerül ki.
@@ -64,7 +64,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 6. § (1) A gyermek nevelésével, iskoláztatásával járó költségekhez az állam havi rendszerességgel járó nevelési ellátást vagy iskoláztatási támogatást (a továbbiakban együtt: családi pótlékot) nyújt.
 
-(2) A családi pótlék természetbeni formában történő nyújtásáról a gyermek védelembe vételéről határozatot hozó jegyző gyámhatóságként dönthet.
+(2) A családi pótlék természetbeni formában történő nyújtásáról a gyermek védelembe vételéről határozatot hozó gyámhatóság dönthet.
 
 ### Nevelési ellátás
 
@@ -80,7 +80,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 8. § (1) Iskoláztatási támogatásra jogosult
 
-- a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhivatal által a szülői ház elhagyását engedélyező határozatban megjelölt személy
+- a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhatóság által a szülői ház elhagyását engedélyező határozatban megjelölt személy
   - aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
   - ab) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 - b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
@@ -94,7 +94,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - c) aki kikerült az átmeneti vagy tartós nevelésből,
 - d) akinek a gyámsága nagykorúvá válása miatt szűnt meg,
 - e) aki a 7. § (1) bekezdésének a) pontja szerinti személlyel nem él egy háztartásban, vagy
-- f) ha az iskoláztatási támogatást – a gyámhivatalnak a szülői ház elhagyását engedélyező határozatában foglaltak szerint – a nagykorúságát megelőzően is a részére folyósították, annak a tanévnek az utolsó napjáig, amelyben a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti.
+- f) ha az iskoláztatási támogatást – a gyámhatóságnak a szülői ház elhagyását engedélyező határozatában foglaltak szerint – a nagykorúságát megelőzően is a részére folyósították, annak a tanévnek az utolsó napjáig, amelyben a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti.
 
 (3a) Amennyiben a (3) bekezdés a)–f) pontja szerinti körülmény a nagykorúvá válást követően, de a tankötelezettség megszűnésének időpontját megelőzően következik be, a (3) bekezdés szerinti személy a nagykorúvá válásának időpontjától jogosult saját jogon az iskoláztatási támogatásra.
 
@@ -125,7 +125,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - g) tartósan beteg, illetve súlyosan fogyatékos gyermeket nevelő család esetén, valamint a gyermekotthonban, javítóintézetben, büntetés-végrehajtási intézetben vagy szociális intézményben élő, továbbá nevelőszülőnél, hivatásos nevelőszülőnél elhelyezett tartósan beteg, illetve súlyosan fogyatékos gyermek után 23 300 forint,
 - h) tartósan beteg, illetve súlyosan fogyatékos gyermeket nevelő egyedülálló esetén a tartósan beteg, illetve súlyosan fogyatékos gyermek után 25 900 forint,
 - i) a 7. § (2) bekezdése szerinti személy esetén – a (2) bekezdésben foglaltak kivételével – 20 300 forint,
-- j) a gyermekotthonban, javítóintézetben, büntetés-végrehajtási intézetben vagy szociális intézményben élő, továbbá nevelőszülőnél, hivatásos nevelőszülőnél elhelyezett, a g) és h) pontok alá nem tartozó, továbbá a Gyvt. 72. §-ának (1) bekezdése alapján ideiglenes hatállyal elhelyezett gyermek, a gyámhivatal által a szülői ház elhagyását engedélyező határozatban megjelölt személy, valamint a 8. § (3) bekezdése alá tartozó személy esetén 14 800 forint.
+- j) a gyermekotthonban, javítóintézetben, büntetés-végrehajtási intézetben vagy szociális intézményben élő, továbbá nevelőszülőnél, hivatásos nevelőszülőnél elhelyezett, a g) és h) pontok alá nem tartozó, továbbá a Gyvt. 72. §-ának (1) bekezdése alapján ideiglenes hatállyal elhelyezett gyermek, a gyámhatóság által a szülői ház elhagyását engedélyező határozatban megjelölt személy, valamint a 8. § (3) bekezdése alá tartozó személy esetén 14 800 forint.
 
 (2) A közoktatási intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.
 
@@ -139,7 +139,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
   - aa) akire tekintettel a szülő, a nevelőszülő, a hivatásos nevelőszülő, a gyám családi pótlékra jogosult,
   - ab) aki közoktatási intézmény tanulója vagy felsőoktatási intézményben első felsőfokú szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
   - ac) aki a családi pótlékra – a 8. § (3) bekezdés e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
-- b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhivatal nem vette átmeneti vagy tartós nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
+- b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhatóság nem vette átmeneti vagy tartós nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
 
 (2) A családi pótlékra való jogosultság szempontjából, valamint az (1) bekezdés, a 20. és a 23. § alkalmazása során saját háztartásban nevelt, gondozott gyermeknek kell tekinteni azt a gyermeket (személyt) is,
 

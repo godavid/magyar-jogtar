@@ -2,7 +2,11 @@
 
 Magyarország helyi önkormányzatairól
 
-Az Országgyűlés elismeri és védi a helyi választópolgárok közösségének önkormányzáshoz való jogát.A helyi önkormányzatok az egységes állami szervezetrendszer részeként hozzájárulnak az Alaptörvényben foglalt államcélok megvalósításához, elősegítik a jogszabályi kötelezettségek teljesítését.Az Országgyűlés tisztelettel adózva hazánk haladó önkormányzati hagyományai előtt, az Alaptörvényben meghatározott önkormányzati jogok kiteljesítése, a helyi önkormányzáshoz szükséges feltételek megteremtése, a nemzeti együttműködés erősítése, a települések önfenntartási képességének elősegítése, valamint a helyi közösség öngondoskodásra való képességének erősítése érdekében – figyelembe véve a Helyi Önkormányzatok Európai Chartájában foglalt alapelveket – az Alaptörvény végrehajtására, az Alaptörvény 31. cikk (3) bekezdése, az 51. § (2) és (3) bekezdése tekintetében az Alaptörvény T) cikk (1) bekezdése alapján a következő törvényt alkotja:
+Az Országgyűlés elismeri és védi a helyi választópolgárok közösségének önkormányzáshoz való jogát.
+
+A helyi önkormányzatok az egységes állami szervezetrendszer részeként hozzájárulnak az Alaptörvényben foglalt államcélok megvalósításához, elősegítik a jogszabályi kötelezettségek teljesítését.
+
+Az Országgyűlés tisztelettel adózva hazánk haladó önkormányzati hagyományai előtt, az Alaptörvényben meghatározott önkormányzati jogok kiteljesítése, a helyi önkormányzáshoz szükséges feltételek megteremtése, a nemzeti együttműködés erősítése, a települések önfenntartási képességének elősegítése, valamint a helyi közösség öngondoskodásra való képességének erősítése érdekében – figyelembe véve a Helyi Önkormányzatok Európai Chartájában foglalt alapelveket – az Alaptörvény végrehajtására, az Alaptörvény 31. cikk (3) bekezdése, az 51. § (2) és (3) bekezdése tekintetében az Alaptörvény T) cikk (1) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — A HELYI ÖNKORMÁNYZÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -16,17 +20,113 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Alapvető rendelkezések
 
-2–9. §
+2. § (1) A helyi önkormányzás a település, valamint a megye választópolgárai közösségének joga, melynek során érvényre jut az állampolgári felelősségérzet, kibontakozik az alkotó együttműködés a helyi közösségen belül.
+
+(2) A helyi önkormányzás a helyi közügyekben demokratikus módon, széles körű nyilvánosságot teremtve kifejezi és megvalósítja a helyi közakaratot.
+
+3. § (1) A helyi önkormányzás joga a települések (települési önkormányzatok) és a megyék (területi önkormányzatok) választópolgárainak közösségét illeti meg.
+
+(2) Települési önkormányzatok a községekben, a városokban, járásszékhely városokban, megyei jogú városokban és a fővárosi kerületekben működnek.
+
+(3) A fővárosi önkormányzat települési és területi önkormányzat.
+
+(4) A választópolgárok választott képviselőik útján és a helyi népszavazáson történő részvételükkel gyakorolják az önkormányzáshoz való közösségi jogaikat.
+
+4. § A helyi közügyek alapvetően a lakosság közszolgáltatásokkal való ellátásához, valamint a helyi önkormányzás és a lakossággal való együttműködés szervezeti, személyi és anyagi feltételeinek megteremtéséhez kapcsolódnak.
+
+5. § A helyi önkormányzatok által ellátott, az Alaptörvény 32. cikk (1) bekezdésében rögzített feladat- és hatáskörök jogszerű gyakorlása alkotmánybírósági és bírósági védelemben részesül.
+
+6. § A helyi önkormányzat feladatai ellátása során:
+
+- a) támogatja a lakosság önszerveződő közösségeit, együttműködik e közösségekkel, biztosítja a helyi közügyekben való széles körű állampolgári részvételt;
+- b) erősíti a település önfenntartó képességét, feltárja lehetőségeit és hasznosítja saját erőforrásait;
+- c) egyes közszolgáltatások igénybevételét – törvény felhatalmazása alapján – rendeletében feltételekhez kötheti.
+
+7. § (1) Az Alaptörvény 32. cikk (1) bekezdés j) pontja szerint megkeresett szerv a helyi önkormányzat megkeresésére harminc napon belül érdemben köteles válaszolni.
+
+(2) Amennyiben a tájékoztatás, a válaszadás vagy az intézkedés nem a megkeresett szerv hatáskörébe tartozik, az köteles a megkeresést nyolc napon belül áttenni a hatáskörrel rendelkező szervhez és erről a megkereső helyi önkormányzatot egyidejűleg tájékoztatni.
+
+8. § (1) A helyi közösség tagjai a helyi önkormányzás alanyaként kötelesek:
+
+- a) öngondoskodással enyhíteni a közösségre háruló terheket, képességeik és lehetőségeik szerint hozzájárulni a közösségi feladatok ellátásához;
+- b) betartani és betartatni a közösségi együttélés alapvető szabályait.
+
+(2) A helyi önkormányzat képviselő-testülete rendeletében meghatározhatja az (1) bekezdésben foglalt kötelezettségek tartalmát, elmulasztásuk jogkövetkezményeit.
+
+9. § Az e törvényben meghatározott jogokat jóhiszeműen, a kölcsönös együttműködés elvét figyelembe véve, a társadalmi rendeltetésüknek megfelelően kell gyakorolni.
 
 ### II. Fejezet — FELADAT- ÉS HATÁSKÖRÖK
 
 ### Önkormányzati feladat- és hatáskörök
 
-10–15. §
+10. § (1) A helyi önkormányzat ellátja a törvényben meghatározott kötelező és az általa önként vállalt feladat- és hatásköröket.
+
+(2) A helyi önkormányzat – a helyi képviselő-testület vagy a helyi népszavazás döntésével – önként vállalhatja minden olyan helyi közügy önálló megoldását, amelyet jogszabály nem utal más szerv kizárólagos hatáskörébe. Az önként vállalt helyi közügyekben az önkormányzat mindent megtehet, ami jogszabállyal nem ellentétes. Az önként vállalt helyi közügyek megoldása nem veszélyeztetheti a törvény által kötelezően előírt önkormányzati feladat- és hatáskörök ellátását, finanszírozása a saját bevételek, vagy az erre a célra biztosított külön források terhére lehetséges.
+
+(3) A helyi önkormányzat – törvényben meghatározott esetekben – az állammal kötött külön megállapodás alapján elláthat állami feladatokat. A megállapodásban rendelkezni kell a feladatellátás finanszírozásáról.
+
+11. § (1) A községnek, a városnak, a járásszékhely városnak, a megyei jogú városnak, a fővárosnak és kerületeinek, valamint a megyei önkormányzatnak egymástól eltérő feladat- és hatáskörei lehetnek.
+
+(2) Törvény a kötelező feladat- és hatáskör megállapításánál differenciálni köteles, figyelembe véve a feladat- és hatáskör jellegét, a helyi önkormányzatok eltérő adottságait, különösen
+
+- a) a gazdasági teljesítőképességet;
+- b) a lakosságszámot;
+- c) a közigazgatási terület nagyságát.
+
+(3) Jogszabály a hatáskör telepítésével egyidejűleg meghatározza a feladat- és hatáskörellátáshoz szükséges minimális szakmai, személyi, tárgyi és gazdasági feltételeket.
+
+12. § (1) A nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör ellátását – annak egyetértésével – más települési önkormányzat vagy társulása önként akkor vállalhatja, ha azt
+
+- a) a lakossági igények indokolják;
+- b) gazdaságosabban és legalább változatlan szakmai színvonalon;
+- c) többlet állami támogatás igénybevétele nélkül
+
+képes ellátni.
+
+(2) A feladat- és hatáskör vállalásáról a települési önkormányzat képviselő-testülete – a feladat- és hatáskör eredeti címzettjének előzetes egyetértése esetén – rendeletben, a társulás határozatban dönt a feladat- és hatáskör vállalás tervezett időpontját megelőzően legalább három hónappal korábban. Az (1) bekezdésben foglalt feltételek meglétét a kormányhivatal – indokolt esetben más állami szervek bevonásával – törvényességi felügyeleti eljárás keretében vizsgálja. Törvény vagy megállapodás eltérő rendelkezésének hiányában az ellátás megkezdésének időpontja a döntést követő év január 1. napja.
+
+(3) A feladat- és hatáskör vállalása esetén a települési önkormányzat a központi költségvetéstől igényelheti a vállalt feladattal arányos fedezet biztosítását.
+
+13. § (1) A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:
+
+- 1. településfejlesztés, településrendezés;
+- 2. településüzemeltetés (köztemetők kialakítása és fenntartása, a közvilágításról való gondoskodás, kéményseprő-ipari szolgáltatás biztosítása, a helyi közutak és tartozékainak kialakítása és fenntartása, közparkok és egyéb közterületek kialakítása és fenntartása, gépjárművek parkolásának biztosítása);
+- 3. a közterületek, valamint az önkormányzat tulajdonában álló közintézmény elnevezése;
+- 4. egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
+- 5. környezet-egészségügy (köztisztaság, települési környezet tisztaságának biztosítása, rovar- és rágcsálóirtás);
+- 6. óvodai ellátás;
+- 7. kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; a helyi közművelődési tevékenység támogatása;
+- 8. szociális, gyermekjóléti szolgáltatások és ellátások;
+- 9. lakás- és helyiséggazdálkodás;
+- 10. a területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása;
+- 11. helyi környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás;
+- 12. honvédelem, polgári védelem, katasztrófavédelem, helyi közfoglalkoztatás;
+- 13. helyi adóval, gazdaságszervezéssel és a turizmussal kapcsolatos feladatok;
+- 14. a kistermelők, őstermelők számára – jogszabályban meghatározott termékeik – értékesítési lehetőségeinek biztosítása, ideértve a hétvégi árusítás lehetőségét is;
+- 15. sport, ifjúsági ügyek;
+- 16. nemzetiségi ügyek;
+- 17. közreműködés a település közbiztonságának biztosításában;
+- 18. helyi közösségi közlekedés biztosítása;
+- 19. hulladékgazdálkodás;
+- 20. távhőszolgáltatás;
+- 21. víziközmű-szolgáltatás, amennyiben a víziközmű-szolgáltatásról szóló törvény rendelkezései szerint a helyi önkormányzat ellátásért felelősnek minősül.
+
+(2) Törvény a helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó más helyi önkormányzati feladatot is megállapíthat.
+
+14. § (1) A 13. § (1) bekezdésében meghatározott feladatok ellátásának részletes szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
+
+(2) A 13. § (1) bekezdés 3. pontjában meghatározott közterület, illetve közintézmény nem viselheti
+
+- a) olyan személy nevét, aki a XX. századi önkényuralmi politikai rendszerek megalapozásában, kiépítésében vagy fenntartásában részt vett, vagy
+- b) olyan kifejezést vagy olyan szervezet nevét, amely a XX. századi önkényuralmi politikai rendszerre közvetlenül utal.
+
+(3) Ha a helyi önkormányzat döntése során kétség merül fel a tekintetben, hogy a közterület neve megfelel-e a (2) bekezdésnek, arról beszerzi a Magyar Tudományos Akadémia állásfoglalását.
+
+15. § A helyi önkormányzat feladat- és hatásköreinek ellátása során – törvényben meghatározott módon és mértékben – biztosítja a közfoglalkoztatási jogviszonyban lévő személy feladatellátásba történő bevonását.
 
 16. § (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
 
-(2) A Kormány határozatának bírósági felülvizsgálatát az érintett önkormányzat képviselő-testülete a Fővárosi Törvényszéknél kérheti. A perben felperesként az önkormányzat képviselő-testülete, alperesként a Kormány vesz részt. A Kormányt – ha a Kormány az (1) bekezdésben említett határozatában másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit – a (3) bekezdésben írt eltérésekkel – alkalmazva, soron kívül jár el.
+(2) A Kormány határozatának bírósági felülvizsgálatát az érintett önkormányzat képviselő-testülete a Fővárosi Közigazgatási és Munkaügyi Bíróságnál kérheti. A perben felperesként az önkormányzat képviselő-testülete, alperesként a Kormány vesz részt. A Kormányt – ha a Kormány az (1) bekezdésben említett határozatában másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit – a (3) bekezdésben írt eltérésekkel – alkalmazva, soron kívül jár el.
 
 (3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő miniszternél a felülvizsgálni kért határozatnak a Magyar Közlönyben történő közzétételének napjától számított tizenöt napon belül kell benyújtani. Ha a perben a miniszter által vezetett minisztérium ügyintézője jár el képviselőként, képviseleti jogosultságát – külön meghatalmazás nélkül – munkáltatói igazolványával igazolja. A perben első fokon eljárt közigazgatási szervnek a minisztert kell tekinteni. A bíróság ítélete ellen felülvizsgálatnak és perújításnak helye nincs.
 
@@ -36,25 +136,45 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (6) Az önkormányzat és a jogszabályban meghatározott állami szervek – annak érdekében, hogy a beruházások megvalósítása figyelemmel kísérhető legyen – a jogszabályban meghatározott adatokat szolgáltatják az (5) bekezdés szerinti miniszter részére. Az adatszolgáltatás személyes adatokra nem terjed ki.
 
+16/A. § A helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást a helyi önkormányzat, vagy kizárólag ezen közszolgáltatási feladat ellátására alapított költségvetési szerv, 100%-os önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában álló jogi személyiséggel rendelkező gazdasági társaság, illetve önkormányzati társulás láthatja el külön törvényben szabályozottak szerint.
+
 ### A helyi közbiztonsággal kapcsolatos önkormányzati feladatok
 
-17. §
+17. § (1) A települési és a fővárosi önkormányzat a helyi közbiztonságról, vagyonának, más értékének védelméről kényszerítő eszköz alkalmazására törvény alapján jogosult szervezet létrehozásával is gondoskodhat.
+
+(2) Az (1) bekezdésben meghatározott szervezet alaptevékenységét a települési és a fővárosi önkormányzat területe szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal kötött írásbeli együttműködési megállapodás alapján, a rendőrség szakmai felügyeletével végzi.
+
+(3) Az (1) bekezdésben meghatározott szervezet által végezhető feladatokat, az alkalmazható kényszerítő eszközöket, az együttműködési megállapodásra, valamint a szervezet működésére vonatkozó szabályokat, továbbá az e feladatokat ellátókkal szemben támasztott személyi feltételeket törvény határozza meg.
+
+(4) E § rendelkezéseit alkalmazni kell akkor is, ha az önkormányzat az (1) bekezdésben meghatározott feladatokról nem önálló szervezet létrehozásával gondoskodik.
 
 ### Államigazgatási feladat- és hatáskörök
 
-18. §
+18. § (1) Ha törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a főpolgármester, a megyei közgyűlés elnöke, valamint a jegyző
+
+- a) számára államigazgatási feladat- és hatáskört állapít meg, vagy
+- b) honvédelmi, polgári védelmi, katasztrófaelhárítási ügyekben az országos államigazgatási feladatok helyi irányításában és végrehajtásában való részvételét rendeli el,
+
+az ellátásukhoz szükséges költségvetési támogatást a központi költségvetés biztosítja.
+
+(2) Ha a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző az (1) bekezdés szerinti államigazgatási feladat- és hatáskörében jár el, a képviselő-testület, közgyűlés nem utasíthatja, döntését nem bírálhatja felül.
 
 ### III. Fejezet — A HELYI ÖNKORMÁNYZATOK, SZERVEIK ÉS MŰKÖDÉSÜK
 
 ### Értelmező rendelkezés
 
-19. §
+19. § E fejezet alkalmazása során:
+
+- a) a képviselő-testület, közgyűlés valamint a polgármester hatáskörébe tartozó választás, kinevezés, vezetői megbízás joga – a megyei közgyűlés elnökének választása kivételével – magában foglalja a felmentés, a megbízás visszavonásának jogát;
+- b) az egyéb munkáltatói jogon a kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, a fegyelmi büntetés kiszabása kivételével minden más munkáltatói jogot kell érteni.
 
 ### A települési önkormányzatok
 
-20. §
+20. § (1) A községi önkormányzat köteles ellátni mindazokat a törvényben meghatározott feladatokat, amelyek a helyi lakosság alapvető létfeltételeit, az ehhez szükséges közszolgáltatások közvetlen igénybevételének lehetőségeit biztosítják.
 
-21. § (1)
+(2) A nagyközségi címet használhatják azon községi önkormányzatok, amelyek a törvény hatálybalépésekor nagyközségi címmel rendelkeztek, továbbá, amelyek területén legalább háromezer lakos él.
+
+21. § (1) A járásszékhely városi, valamint a városi önkormányzat – törvényben meghatározottak szerint – olyan közszolgáltatásokat lát el, melyeket saját területén és vonzáskörzetében, vagy a járás egész területén gazdaságosan, hatékonyan és a szakmai szabályok előírásainak megfelelően képes biztosítani.
 
 (2) A megyei jogú város települési önkormányzat, amely – törvényben meghatározottak szerint, az abban foglalt kivételekkel – azokat a közszolgáltatásokat is biztosítja, melyek saját területén túl a megye egészére vagy nagy részére kiterjednek.
 
@@ -66,19 +186,83 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Általános rendelkezések
 
-22. §
+22. § (1) Budapest főváros kétszintű önkormányzata (a főváros önkormányzati rendszere) a fővárosi és a kerületi szintű önkormányzatokból áll.
+
+(2) A fővárosi, valamint a fővárosi kerületi önkormányzatok önkormányzati alapjogaikat tekintve egyenlőek, feladat- és hatásköreik egymástól eltérnek.
+
+(3) A fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
+
+(4) A főváros területe kerületekre tagozódik, minden fővárosi kerületben települési önkormányzat működik.
+
+(5) A fővárosban főpolgármesteri hivatal, a fővárosi kerületben polgármesteri hivatal működik. A főpolgármesteri hivatalt a főjegyző, a kerületi polgármesteri hivatalt a jegyző vezeti. A fővárosban és a fővárosi kerületben több aljegyző is kinevezhető.
+
+(6) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet egyes államigazgatási ügyeket a főváros egészére kiterjedő illetékességgel a főpolgármester hatáskörébe utalhat.
 
 ### Feladat- és hatásköri szabályok
 
-23–24. §
+23. § (1) A fővárosi önkormányzat az e törvényben meghatározottak szerint ellátja mindazokat a terület- és településfejlesztési, valamint területrendezési, településrendezési és településüzemeltetési feladatokat, amelyek a főváros egészét érintik, vagy amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak.
+
+(2) A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, valamint a több kerületét érintő helyi önkormányzati feladatokat.
+
+(3) A fővárosi kerületi önkormányzatok – törvény keretei között – önállóan gyakorolják a települési önkormányzatokat megillető valamennyi feladat- és hatáskört, amelyet törvény nem utal a fővárosi önkormányzat kizárólagos feladat- és hatáskörébe, valamint ellátják az (1) bekezdésbe nem tartozó településfejlesztési, valamint településrendezési és településüzemeltetési feladatokat.
+
+(4) A fővárosi önkormányzat feladata különösen:
+
+- 1. törvényben vagy kormányrendeletben meghatározott kiemelt forgalmú vagy országos közúti közlekedésben fontos szerepet játszó főútvonalak, sugár- és gyűrűirányú közutak, kiemelt tömegközlekedési csomópontok, kiemelt közparkok és közterek kezelése, fejlesztése, üzemeltetése, valamint ezeken a területeken a közterület-felügyelet működtetése, illetve a főváros teljes területén a forgalomtechnikai kezelői és üzemeltetői feladatok ellátása, forgalomszervezés;
+- 2. a kerületek határain átnyúló településrendezés, terület- és településfejlesztés;
+- 3. településtisztaság (közutak locsolása, síkosság-mentesítés);
+- 4. szociális ellátások biztosítása;
+- 5. állategészségügyi feladatok;
+- 6. az érintett kerületek véleményének kikérésével közutak, közparkok, közterek elnevezése;
+- 7. saját tulajdonú lakás- és helyiséggazdálkodás;
+- 8. fővárosi szintű sport és szabadidősport;
+- 9. közvilágítás biztosítása, köztemetők fenntartása, kéményseprő-ipari szolgáltatás biztosítása;
+- 10. helyi közösségi közlekedés biztosítása és működtetése, valamint a főváros területén a parkolás feltételrendszerének kialakítása;
+- 11. távhőszolgáltatás, ivóvíz-ellátás, szennyvízelvezetés, -kezelés és -ártalmatlanítás (csatornaszolgáltatás), hulladékgazdálkodás;
+- 12. környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás;
+- 13. honvédelem, polgári védelem, katasztrófavédelem;
+- 14. fővárosi helyi adóval kapcsolatos feladatok;
+- 15. gazdaságszervezés és -fejlesztés, turizmussal kapcsolatos feladatok;
+- 16. az országos szerepkörrel összefüggő kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása, közművelődési tevékenység támogatása; filmszínház, előadó-művészeti szervezet támogatása;
+- 17. a kiemelt kulturális örökség védelme;
+- 18. a hajléktalan ellátás;
+- 19. a tulajdonában álló közterületek használatára vonatkozó szabályok és díjak megállapítása.
+
+(5) A kerületi önkormányzat feladata különösen:
+
+- 1. helyi közutak, közterek és parkok kezelése, fejlesztése és üzemeltetése;
+- 2. tulajdonában álló közterületek használatára vonatkozó szabályok és díjak megállapítása;
+- 3. a parkolás-üzemeltetés;
+- 4. általános közterület-felügyeleti hatáskör a kerület közigazgatási határán belül, ide nem értve a (4) bekezdés 1. pontjában meghatározott területet;
+- 5. helyi településrendezés, településfejlesztés;
+- 6. helyi településrendezési szabályok megalkotása (fővárosi településrendezési terv alapján);
+- 7. turizmussal kapcsolatos feladatok ellátása;
+- 8. ipari és kereskedelmi tevékenységgel kapcsolatos szabályozási jogkörök;
+- 9. egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
+- 10. óvodai ellátás;
+- 11. szociális, gyermekjóléti szolgáltatások és ellátások;
+- 12. a területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása;
+- 13. a helyi közművelődési tevékenység támogatása, a kulturális örökség helyi védelme;
+- 14. saját tulajdonú lakás- és helyiséggazdálkodás;
+- 15. helyi adóval kapcsolatos feladatok;
+- 16. a kistermelők, őstermelők számára – jogszabályban meghatározott termékeik – értékesítési lehetőségeinek biztosítása, ideértve a hétvégi árusítás lehetőségét is;
+- 17. kerületi sport és szabadidősport támogatása, ifjúsági ügyek;
+- 18. közreműködés a helyi közbiztonság biztosításában;
+- 19. nemzetiségi ügyek.
+
+(6) Az (1)–(5) bekezdésben meghatározottak szerinti feladatok részletes szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
+
+(7) A fővárosi önkormányzat megállapodhat a kerületi önkormányzattal, hogy a fővárosi önkormányzat feladat- és hatáskörét a kerületi önkormányzat vagy azok társulása látja el. A fővárosi önkormányzat az átadott feladat- és hatáskörök arányában az ellátásukhoz szükséges anyagi eszközöket köteles a kerületi önkormányzatnak, illetve azok társulásának átadni.
+
+24. § A fővárosi közgyűlés a főváros egységes településpolitikájának biztosítása érdekében – a Kormány, valamint a kerületi képviselő-testületek véleményének kikérésével – a megalakulását követő egy éven belül minősített többséggel dönt a fővárosnak legalább az adott ciklusra szóló településfejlesztési stratégiájáról.
 
 ### A főváros és kerületei rendeletalkotása
 
-25. §
+25. § E törvény, továbbá az adott önkormányzati feladat meghatározásáról szóló törvény határozza meg, hogy rendelkezései végrehajtására a fővárosi közgyűlés vagy a fővárosi kerületi képviselő-testület alkothat rendeletet.
 
 ### A főváros és a kerületi önkormányzatok gazdálkodása
 
-26. §
+26. § Helyi adó bevezetésére és működtetésére az e törvényben rögzített feladatellátás alapján a fővárosi és a fővárosi kerületi önkormányzat is jogosult. Az adókivetés, bevezetés és működtetés rendjét törvény szabályozza.
 
 ### Megyei önkormányzat
 
@@ -86,69 +270,234 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (2)
 
-(3)–(4)
+(3) A megyei közgyűlés elnöke – pályázat alapján határozatlan időre – nevezi ki a jegyzőt, a jegyző javaslatára az aljegyzőt.
+
+(4) A megyei önkormányzatra a helyi önkormányzatokra vonatkozó rendelkezéseket az (1)–(3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 ### A helyi önkormányzati képviselő
 
 ### A megbízatás keletkezése és megszűnése
 
-28–31. §
+#### 28–31. §
 
 ### Jogok és kötelezettségek
 
-32–34. §
+#### 32–34. §
 
 ### A helyi önkormányzati képviselők tiszteletdíja, juttatása, költségtérítése
 
-35. §
+#### 35. §
 
 ### Összeférhetetlenség
 
-36. §
+#### 36. §
 
 ### Összeférhetetlenségi eljárás
 
-37. §
+#### 37. §
 
 ### Méltatlanság
 
-38. §
+#### 38. §
 
 ### Vagyonnyilatkozat-tételi eljárás
 
-39. §
+#### 39. §
 
 ### A képviselő-testület bizottságának nem képviselő tagjaira vonatkozó külön szabályok
 
-40. §
+#### 40. §
 
 ### A képviselő-testület
 
-41–42. §
+41. § (1) A helyi önkormányzat jogi személy. A képviselő-testületet a polgármester, a megyei közgyűlés elnöke, a főpolgármester képviseli.
+
+(2) Az önkormányzati feladatok ellátását a képviselő-testület és szervei biztosítják. A képviselő-testület szervei: a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a képviselő-testület bizottságai, a részönkormányzat testülete, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a jegyző, továbbá a társulás.
+
+(3) Önkormányzati döntést a képviselő-testület, a helyi népszavazás, a képviselő-testület felhatalmazása alapján a képviselő-testület bizottsága, a részönkormányzat testülete, a társulása, a polgármester, továbbá a jegyző hozhat.
+
+(4) A képviselő-testület – e törvényben meghatározott kivételekkel – hatásköreit a polgármesterre, a bizottságára, a részönkormányzat testületére, a jegyzőre, a társulására ruházhatja át. E hatáskör gyakorlásához utasítást adhat, e hatáskört visszavonhatja.
+
+(5) Az átruházott hatáskör tovább nem ruházható.
+
+(6) A képviselő-testület a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, gazdálkodó szervezetet, nonprofit szervezetet és egyéb szervezetet (a továbbiakban együtt: intézmény) alapíthat, továbbá szerződést köthet természetes- és jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel.
+
+(7) A helyi önkormányzat képviselő-testülete – amennyiben törvény kivételt nem tesz – kinevezi az intézmény vezetőjét.
+
+(8) Törvény előírhatja, hogy meghatározott közszolgáltatást kizárólag erre a célra alapított költségvetési szerv, olyan állami vagy legalább többségi önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, amelyben az állam vagy az önkormányzat legalább többségi befolyással bír vagy e gazdasági társaság legalább többségi tulajdonában álló és legalább többségi befolyása alatt álló jogi személyiséggel rendelkező gazdasági társaság vagy önkormányzati társulás láthat el.
+
+42. § A képviselő-testület hatásköréből nem ruházható át:
+
+- 1. a rendeletalkotás;
+- 2. szervezetének kialakítása és működésének meghatározása, a törvény által hatáskörébe utalt választás, kinevezés, vezetői megbízás;
+- 3. a helyi népszavazás elrendelése, kitüntetések és elismerő címek alapítása;
+- 4. a gazdasági program, a hitelfelvétel, a kötvénykibocsátás, a kölcsönfelvétel vagy más adósságot keletkeztető kötelezettségvállalás, államháztartáson kívüli forrás átvétele, átadása;
+- 5. önkormányzati társulás létrehozása, megszüntetése, abból történő kiválás, a társulási megállapodás módosítása, társuláshoz, érdekképviseleti szervezethez való csatlakozás, abból történő kiválás;
+- 6. megállapodás külföldi önkormányzattal való együttműködésről, nemzetközi önkormányzati szervezethez való csatlakozás, abból történő kiválás;
+- 7. intézmény alapítása, átszervezése, megszüntetése;
+- 8. közterület elnevezése, köztéri szobor, műalkotás állítása;
+- 9. eljárás kezdeményezése az Alkotmánybíróságnál;
+- 10. a bíróságok ülnökeinek megválasztása;
+- 11. állásfoglalás intézmény átszervezéséről, megszüntetéséről, ellátási, szolgáltatási körzeteiről, ha a szolgáltatás a települést is érinti;
+- 12. a települési képviselő, polgármester méltatlansági és a vagyonnyilatkozati eljárással kapcsolatos, továbbá összeférhetetlenségi ügyében való döntés;
+- 13. az önkormányzati képviselői megbízatás megszűnéséről való döntés, ha a képviselő egy éven át nem vesz részt a képviselő-testület ülésén;
+- 14. a településfejlesztési eszközök és a településszerkezeti terv jóváhagyása;
+- 15. területszervezési kezdeményezés;
+- 16. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.
 
 ### A képviselő-testület működése
 
-43–50. §
+43. § (1) A képviselő-testület az alakuló ülését a választást követő tizenöt napon belül tartja meg.
 
-51. § (1)–(3)
+(2) Az alakuló ülést a polgármester hívja össze és vezeti. A megyei közgyűlés alakuló ülését a választást követő tizenöt napon belül a korelnök hívja össze, és vezeti a megyei közgyűlés új elnökének szervezeti és működési szabályzat szerinti megválasztásának időpontjáig.
+
+(3) A képviselő-testület az alakuló vagy az azt követő ülésen e törvény szabályai szerint megalkotja vagy felülvizsgálja szervezeti és működési szabályzatáról szóló rendeletét, a polgármester előterjesztése alapján megválasztja a bizottság vagy bizottságok tagjait, az alpolgármestert, alpolgármestereket, dönt illetményükről, tiszteletdíjukról.
+
+44. § A képviselő-testület szükség szerint, a szervezeti és működési szabályzatban meghatározott számú, de évente legalább hat ülést tart. Az ülést tizenöt napon belüli időpontra össze kell hívni a települési képviselők egynegyedének, a képviselő-testület bizottságának, valamint a kormányhivatal vezetőjének a testületi ülés összehívásának indokát tartalmazó indítványára. Az indítvány alapján a testületi ülést a polgármester hívja össze a testületi ülés indokának, időpontjának, helyszínének és napirendjének meghatározásával.
+
+45. § A képviselő-testület ülését a polgármester hívja össze és vezeti, akadályoztatása esetén e hatáskörét az alpolgármester, több alpolgármester esetén a polgármester által kijelölt alpolgármester gyakorolja. A polgármesteri és az alpolgármesteri tisztség egyidejű betöltetlensége, a tartós akadályoztatásuk esetére a szervezeti és működési szabályzat rendelkezik a képviselő-testület összehívásának, vezetésének a módjáról.
+
+46. § (1) A képviselő-testület ülése nyilvános.
+
+(2) A képviselő-testület
+
+- a) zárt ülést tart önkormányzati hatósági, összeférhetetlenségi, méltatlansági, kitüntetési ügy tárgyalásakor, fegyelmi büntetés kiszabása, valamint vagyonnyilatkozattal kapcsolatos eljárás esetén;
+- b) zárt ülést tart az érintett kérésére választás, kinevezés, felmentés, vezetői megbízás adása, annak visszavonása, fegyelmi eljárás megindítása és állásfoglalást igénylő személyi ügy tárgyalásakor;
+- c) zárt ülést rendelhet el a vagyonával való rendelkezés esetén, továbbá az általa kiírt pályázat feltételeinek meghatározásakor, a pályázat tárgyalásakor, ha a nyilvános tárgyalás az önkormányzat vagy más érintett üzleti érdekét sértené.
+
+(3) A zárt ülésen a képviselő-testület tagjai, a nem a képviselő-testület tagjai közül választott alpolgármester és a jegyző, aljegyző, aljegyzők, továbbá meghívása esetén a polgármesteri hivatal vagy a közös önkormányzati hivatal ügyintézője, az érintett és a szakértő vesz részt. A nemzetiségi önkormányzat elnöke kizárólag az általa képviselt nemzetiséget érintő ügy napirendi tárgyalásakor vehet részt a zárt ülésen. Törvény vagy önkormányzati rendelet előírhatja, mely esetben kötelező az érintett meghívása.
+
+47. § (1) A képviselő-testület akkor határozatképes, ha az ülésen az önkormányzati képviselőknek több mint a fele jelen van. A határozatképességet folyamatosan figyelemmel kell kísérni.
+
+(2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén a megválasztott önkormányzati képviselők több mint a felének igen szavazata szükséges. Ennek hiányában a képviselő-testület a javaslatot elutasította. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
+
+48. § (1) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza.
+
+(2) A nyílt szavazás módjának meghatározásáról a szervezeti és működési szabályzat rendelkezik.
+
+(3) A képviselő-testület név szerint szavaz az önkormányzati képviselők egynegyedének indítványára, továbbá név szerinti szavazást rendelhet el a szervezeti és működési szabályzatban meghatározott esetekben. Ugyanazon döntési javaslat esetében egy alkalommal lehet név szerinti szavazást javasolni. Nem lehet név szerinti szavazást tartani a bizottság létszáma és összetétele tekintetében, valamint a tanácskozások lefolytatásával összefüggő (ügyrendi javaslatot tartalmazó) kérdésekben. A név szerinti szavazás módjának meghatározásáról a szervezeti és működési szabályzat rendelkezik.
+
+(4) A képviselő-testület a szervezeti és működési szabályzatában meghatározott módon titkos szavazást tarthat a 46. § (2) bekezdésében foglalt ügyekben.
+
+(5) Az ülésvezető megállapítja a szavazás eredményét. Ha a szavazás eredménye felől kétség merül fel, bármely önkormányzati képviselő kérésére a szavazást egy alkalommal meg lehet ismételni.
+
+49. § (1) A képviselő-testület döntéshozatalából kizárható az, akit vagy akinek a közeli hozzátartozóját az ügy személyesen érinti. Az önkormányzati képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett önkormányzati képviselő kezdeményezésére vagy bármely önkormányzati képviselő javaslatára a képviselő-testület dönt. A kizárt önkormányzati képviselőt a határozatképesség szempontjából jelenlevőnek kell tekinteni.
+
+(2) A képviselő-testület szervezeti és működési szabályzatában meghatározza a személyes érintettségre vonatkozó bejelentési kötelezettség elmulasztásának jogkövetkezményeit.
+
+(3) Az (1) bekezdés alkalmazásában a közeli hozzátartozó alatt a Polgári Törvénykönyvről szóló törvényben meghatározott közeli hozzátartozót kell érteni.
+
+50. § Minősített többség szükséges a 42. § 1., 2., 5., 6., 7. pontjában foglalt, továbbá a törvényben és a szervezeti és működési szabályzatban meghatározott ügyek eldöntéséhez, az önkormányzati képviselő kizárásához, az összeférhetetlenség, valamint a méltatlanság megállapításához, a képviselői megbízatás megszűnéséről való döntéshez, valamint a 46. § (2) bekezdés c) pontja szerinti zárt ülés elrendeléséhez.
+
+51. § (1) A helyi önkormányzat képviselő-testülete által megalkotott rendeletet a polgármester és a jegyző írja alá.
+
+(2) Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban meghatározott – módon ki kell hirdetni. A saját honlappal rendelkező önkormányzat rendeletét a honlapján is közzéteszi. Kihirdetéséről a jegyző gondoskodik. A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a kormányhivatalnak, és a kormányhivatal továbbítja azt a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek.
+
+(3) Ha az önkormányzati rendelet kihirdetett szövege eltér az önkormányzati rendelet aláírt szövegétől, a polgármester vagy a jegyző kezdeményezi az eltérés helyesbítését. Az önkormányzati rendelet a hatálybalépését megelőzően, de legkésőbb a kihirdetést követő hatodik munkanapon helyesbíthető. Az eltérés megállapítása esetén a helyesbítés megjelentetéséről a jegyző az önkormányzati rendelet kihirdetésével azonos módon gondoskodik.
 
 (4)
 
-(5)–(6)
+(5) Közterület elnevezésének rendjét a települési, a fővárosban a fővárosi önkormányzat rendeletben állapítja meg.
 
-52–55. §
+(6) A (2)–(3) bekezdésben foglalt rendelkezéseket a normatív határozat közzétételére is alkalmazni kell.
+
+52. § (1) A képviselő-testület üléséről jegyzőkönyvet kell készíteni, amely tartalmazza:
+
+- a) a testületi ülés helyét;
+- b) időpontját;
+- c) a megjelent önkormányzati képviselők nevét;
+- d) a meghívottak nevét, megjelenésük tényét;
+- e) a javasolt, elfogadott és tárgyalt napirendi pontokat;
+- f) az előterjesztéseket;
+- g) az egyes napirendi pontokhoz hozzászólók nevét, részvételük jogcímét, a hozzászólásuk, továbbá az ülésen elhangzottak lényegét;
+- h) a szavazásra feltett döntési javaslat pontos tartalmát;
+- i) a döntéshozatalban résztvevők számát;
+- j) a döntésből kizárt önkormányzati képviselő nevét és a kizárás indokát;
+- k) a jegyző jogszabálysértésre vonatkozó jelzését;
+- l) a szavazás számszerű eredményét;
+- m) a hozott döntéseket és
+- n) a szervezeti és működési szabályzatban meghatározottakat.
+
+(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyv közokirat, amelynek elkészítéséről a jegyző gondoskodik. A zárt ülésről külön jegyzőkönyvet kell készíteni. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a kormányhivatalnak.
+
+(3) A választópolgárok – a zárt ülés kivételével – betekinthetnek a képviselő-testület előterjesztésébe és ülésének jegyzőkönyvébe. A közérdekű adat és közérdekből nyilvános adat megismerésének lehetőségét zárt ülés tartása esetén is biztosítani kell. A zárt ülésen hozott képviselő-testületi döntés is nyilvános.
+
+53. § (1) A képviselő-testület a működésének részletes szabályait a szervezeti és működési szabályzatról szóló rendeletében határozza meg. A képviselő-testület a szervezeti és működési szabályzatról szóló rendeletben rendelkezik:
+
+- a) az önkormányzat hivatalos megnevezéséről, székhelyéről;
+- b) a képviselő-testület átruházott hatásköreinek felsorolásáról;
+- c) a képviselő-testület üléseinek összehívásáról, vezetéséről, tanácskozási rendjéről;
+- d) az önkormányzati képviselőkre vonatkozó magatartási szabályokról, az ülés rendjének fenntartásáról és az annak érdekében hozható intézkedésekről;
+- e) a nyilvánosság biztosításáról;
+- f) a döntéshozatali eljárásról, a szavazás módjáról;
+- g) a rendeletalkotásról és határozathozatalról;
+- h) a képviselő-testület ülésének jegyzőkönyvéről;
+- i) a közmeghallgatásról;
+- j) az önkormányzat szerveiről, azok jogállásáról, feladatairól;
+- k) a jegyzőnek a jogszabálysértő döntések, működés jelzésére irányuló kötelezettségéről;
+- l) a képviselő-testület bizottságairól.
+
+(2) A képviselő-testület érdemi tevékenységének elősegítése érdekében meghatározhatja az egyes napirendek tárgyalására fordítható időkeretet, a hozzászólások maximális időtartamát, korlátozhatja az ismételt hozzászólás, indítványozás lehetőségét.
+
+(3) A képviselő-testület szervezeti és működési szabályzatában határozza meg, mely önszerveződő közösségek képviselőit illeti meg tevékenységi körükben tanácskozási jog a képviselő-testület és bizottsága ülésein, továbbá azoknak a fórumoknak a rendjét (község-, várospolitikai fórum, városrész tanácskozás, falugyűlés stb.), amelyek a lakosság, az egyesületek közvetlen tájékoztatását, a fontosabb döntések előkészítésébe való bevonását szolgálják. Ezek állásfoglalásáról és az ott felmerült kisebbségi véleményekről tájékoztatni kell a képviselő-testületet.
+
+54. § A képviselő-testület évente legalább egyszer előre meghirdetett közmeghallgatást tart, amelyen a helyi lakosság és a helyben érdekelt szervezetek képviselői a helyi közügyeket érintő kérdéseket és javaslatot tehetnek. Az elhangzott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni.
+
+55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását. Ebben az esetben a feloszlás szabályszerűségére vonatkozó kormányhivatali nyilatkozat beszerzését követően három hónapon belüli időpontra időközi választást kell kitűzni. Az időközi választás költségét az önkormányzat viseli.
+
+(2) A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, valamint az általános választást megelőző év november 30. napját követően. A határidő megállapításkor a feloszlásra irányuló kezdeményezés időpontját kell figyelembe venni.
+
+(3) A képviselő-testület az új képviselő-testület alakuló üléséig, a polgármester az új polgármester megválasztásáig ellátja feladatát, gyakorolja hatáskörét.
 
 ### Társult képviselő-testület
 
-56. §
+56. § (1) A települési képviselő-testület más települési képviselő-testülettel társult képviselő-testületet alakíthat.
+
+(2) Társult képviselő-testület alakítása esetén a képviselő-testületek részben vagy egészben egyesítik a költségvetésüket, közös önkormányzati hivatalt tartanak fenn és intézményeiket közösen működtetik.
+
+(3) Azokban az ügyekben, amelyek kizárólag az adott települést érintik, az egyes települések képviselő-testülete önállóan dönt.
+
+(4) A társult képviselő-testület alakuló ülésén határozatba foglalja a megalakulását, a székhelyét, a hozzá tartozó települések felsorolását. A társult képviselő-testület dönt a szervezetéről, működési rendjéről. A társult képviselő-testület ülését össze kell hívni bármely részt vevő település polgármesterének a kezdeményezésére.
+
+(5) Társult képviselő-testület alakítható úgy is, hogy az érdekelt települési képviselő-testületek a települések lakosságszámának arányában választják meg a tagjait a települési képviselők közül.
 
 ### A képviselő-testület bizottságai
 
-57–61. §
+57. § (1) A képviselő-testület szervezeti és működési szabályzatában határozza meg bizottságait, a bizottságok tagjainak számát, a bizottságok feladat- és hatáskörét, működésük alapvető szabályait. Az alakuló vagy az azt követő ülésen a polgármester előterjesztésére köteles megválasztani a törvény által kötelezően létrehozandó és a szervezeti és működési szabályzatban meghatározott bizottságait. A száz főt meg nem haladó lakosú településen a bizottsági feladatokat a képviselő-testület látja el. Az ezer főt meg nem haladó lakosú településen a kötelező bizottsági feladat- és hatásköröket egy bizottság is elláthatja. A bizottság tagjává nem önkormányzati képviselő tag is választható. A nem önkormányzati képviselő tag jogai és kötelezettségei a bizottság ülésein megegyeznek az önkormányzati képviselő bizottsági tag jogaival és kötelezettségeivel.
+
+(2) A képviselő-testület a kétezernél több lakosú településen pénzügyi bizottságot hoz létre. A vagyonnyilatkozatok vizsgálatát a szervezeti és működési szabályzatban meghatározott bizottság végzi, amely gondoskodik azok nyilvántartásáról, kezeléséről és őrzéséről. Törvény más bizottság megalakítását is elrendelheti, amelynek feladat- és hatáskört állapíthat meg.
+
+(3) A képviselő-testület egyes önkormányzati feladatok ellátásának időtartamára ideiglenes bizottságot hozhat létre.
+
+58. § (1) A bizottság elnökének és tagjainak megbízatása a képviselő-testület által történő megválasztással jön létre, a képviselő-testület megbízatásának időtartamára. A bizottság elnökét és – az elnökkel együtt számított – tagjainak több mint a felét az önkormányzati képviselők közül kell választani. Nem lehet a bizottság elnöke vagy tagja a polgármester.
+
+(2) A képviselő-testület a bizottság személyi összetételét, létszámát a polgármester előterjesztésére bármikor megváltoztathatja, a kötelezően létrehozandó bizottság kivételével a bizottságot megszüntetheti.
+
+(3) A bizottság elnöke, tagja e megbízatásáról írásban lemondhat. A lemondásáról szóló nyilatkozatot a polgármester részére kell benyújtani. A megbízatás a lemondásban meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában az írásbeli nyilatkozat átvételének napján szűnik meg. A lemondás nem vonható vissza, továbbá érvényességéhez nem szükséges a képviselő-testület elfogadó nyilatkozata.
+
+59. § (1) A bizottság – feladatkörében – kezdeményezi, előkészíti a képviselő-testület döntéseit, a képviselő-testület által átruházott hatáskörben döntést hoz.
+
+(2) A képviselő-testület a szervezeti és működési szabályzatában határozza meg azokat az előterjesztéseket, amelyeket bizottság nyújt be, továbbá amely előterjesztések a bizottság állásfoglalásával nyújthatók be a képviselő-testületnek.
+
+(3) A képviselő-testület döntési jogot adhat bizottságának, amelyet bármikor visszavonhat.
+
+60. § A bizottság ülésének összehívására, működésére, nyilvánosságára, határozatképességére és határozathozatalára, döntésének végrehajtására, a bizottság tagjainak kizárására, a bizottság üléséről készített jegyzőkönyv tartalmára a képviselő-testületre vonatkozó szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy a kizárásról a bizottság dönt, továbbá a jegyzőkönyvet a bizottság elnöke és egy tagja írja alá. A jegyző tizenöt napon belül köteles a jegyzőkönyvet megküldeni a kormányhivatalnak.
+
+61. § (1) A polgármester indítványára a bizottságot össze kell hívni az indítvány kézhezvételétől számított nyolc napon belül.
+
+(2) A polgármester felfüggesztheti a bizottság, a részönkormányzat testülete döntésének a végrehajtását, ha az ellentétes a képviselő-testület határozatával vagy sérti az önkormányzat érdekeit. A felfüggesztett döntésről a képviselő-testület a következő ülésén határoz.
+
+(3) A bizottságok működésének ügyviteli feladatait a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal látja el.
 
 ### Településrészi önkormányzat
 
-62. §
+62. § (1) A képviselő-testület – szervezeti és működési szabályzatában meghatározottak szerint – valamely településrész sajátos érdekeinek képviseletére településrészi önkormányzatot (részönkormányzat) hozhat létre települési képviselőkből és más, az adott településrészen élő választópolgárokból.
+
+(2) A részönkormányzat testületére önkormányzati hatósági hatáskör nem ruházható át.
+
+(3) A településrészi önkormányzati testület munkájának segítésére a képviselő-testület hivatali kirendeltségeket hozhat létre, amelyek egyben a lakossági ügyintézésben ügyfélszolgálati teendőket is elláthatnak.
+
+(4) A részönkormányzat szervezetére, működésére és tagjaira – az e §-ban foglalt eltérésekkel – a bizottságokra vonatkozó szabályokat kell alkalmazni.
 
 ### A helyi önkormányzat tisztségviselői
 
@@ -156,91 +505,344 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 63. § A polgármester megválasztását követően esküt tesz a képviselő-testület előtt és erről okmányt ír alá. Az eskü szövegét az 1. melléklet tartalmazza. A polgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 
-64. §
+#### 64. §
 
-65–68. §
+65. § A képviselő-testület elnöke a polgármester. A polgármester összehívja és vezeti a képviselő-testület ülését, valamint képviseli a képviselő-testületet.
 
-69–70. §
+66. § A polgármester tagja a képviselő-testületnek, a képviselő-testület határozatképessége, döntéshozatala, működése szempontjából önkormányzati képviselőnek tekintendő.
+
+67. § A polgármester
+
+- a) a képviselő-testület döntései szerint és saját hatáskörében irányítja a polgármesteri hivatalt, a közös önkormányzati hivatalt;
+- b) a jegyző javaslatainak figyelembevételével meghatározza a polgármesteri hivatalnak, a közös önkormányzati hivatalnak feladatait az önkormányzat munkájának a szervezésében, a döntések előkészítésében és végrehajtásában;
+- c) dönt a jogszabály által hatáskörébe utalt államigazgatási ügyekben, hatósági hatáskörökben, egyes hatásköreinek gyakorlását átruházhatja az alpolgármesterre, a jegyzőre, a polgármesteri hivatal, a közös önkormányzati hivatal ügyintézőjére;
+- d) a jegyző javaslatára előterjesztést nyújt be a képviselő-testületnek a hivatal belső szervezeti tagozódásának, létszámának, munkarendjének, valamint ügyfélfogadási rendjének meghatározására;
+- e) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét;
+- f) gyakorolja a munkáltatói jogokat a jegyző tekintetében;
+- g) gyakorolja az egyéb munkáltatói jogokat az alpolgármester és az önkormányzati intézményvezetők tekintetében.
+
+68. § (1) Amennyiben a polgármester a képviselő-testület döntését a helyi önkormányzat érdekeit sértőnek tartja, ugyanazon ügyben – a képviselő-testület önfeloszlatásáról szóló, valamint a 70. § (1) bekezdésében meghatározott ügyben hozott döntése kivételével – egy alkalommal kezdeményezheti az ismételt tárgyalást. A kezdeményezést az ülést követő három napon belül nyújthatja be, a képviselő-testület a benyújtás napjától számított tizenöt napon belül minősített többséggel dönt. A döntést addig végrehajtani nem lehet, amíg arról a képviselő-testület a megismételt tárgyalás alapján nem dönt.
+
+(2) Amennyiben a képviselő-testület – határozatképtelenség vagy határozathozatal hiánya miatt – két egymást követő alkalommal ugyanazon ügyben nem hozott döntést, a polgármester a szervezeti és működési szabályzatban meghatározott ügyben – a 42. §-ban meghatározott ügyek kivételével – döntést hozhat. A polgármester a döntésről a képviselő-testületet a következő ülésen tájékoztatja.
+
+(3) A polgármester a képviselő-testület utólagos tájékoztatása mellett, a 42. §-ban meghatározott ügyek kivételével dönthet a két ülés közötti időszakban felmerülő, halaszthatatlan – a szervezeti és működési szabályzatban meghatározott – a képviselő-testület hatáskörébe tartozó önkormányzati ügyekben.
+
+(4) A polgármester önkormányzati rendeletben meghatározott értékhatárig dönt a forrásfelhasználásról, döntéséről tájékoztatja a képviselő-testületet.
+
+#### 69–70. §
 
 ### A főpolgármester, polgármester, a megyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
-71. § (1)
+71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott összegű költségtérítésre jogosult.
 
 (2)–(6)
 
 ### Összeférhetetlenség
 
-72–73. §
+#### 72–73. §
 
 ### Az alpolgármester
 
-74–78. §
+#### 74–78. §
 
-79. §
+79. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren a megyei közgyűlés elnökét és a főpolgármestert is érteni kell.
+
+(2) A polgármester, a megyei közgyűlés elnöke, a főpolgármester jogállására vonatkozó szabályokat az alpolgármesterre, a megyei közgyűlés alelnökére és a főpolgármester-helyettesre is megfelelően alkalmazni kell.
 
 ### A főpolgármester-helyettes, az alpolgármester, a megyei önkormányzat közgyűlésének alelnöke díjazása, költségtérítése
 
-80. §
+#### 80. §
 
 ### A jegyző és az aljegyző
 
-81–83. §
+81. § (1) A jegyző vezeti a polgármesteri hivatalt vagy a közös önkormányzati hivatalt.
+
+(2) A jegyzőt az aljegyző helyettesíti, ellátja a jegyző által meghatározott feladatokat.
+
+(3) A jegyző
+
+- a) dönt a jogszabály által hatáskörébe utalt államigazgatási ügyekben;
+- b) gyakorolja a munkáltatói jogokat a polgármesteri hivatal, a közös önkormányzati hivatal köztisztviselői és munkavállalói tekintetében, továbbá gyakorolja az egyéb munkáltatói jogokat az aljegyző tekintetében;
+- c) gondoskodik az önkormányzat működésével kapcsolatos feladatok ellátásáról;
+- d) tanácskozási joggal vesz részt a képviselő-testület, a képviselő-testület bizottságának ülésén;
+- e) jelzi a képviselő-testületnek, a képviselő-testület szervének és a polgármesternek, ha a döntésük, működésük jogszabálysértő;
+- f) évente beszámol a képviselő-testületnek a hivatal tevékenységéről;
+- g) döntésre előkészíti a polgármester hatáskörébe tartozó államigazgatási ügyeket;
+- h) dönt azokban a hatósági ügyekben, amelyeket a polgármester ad át;
+- i) dönt a hatáskörébe utalt önkormányzati és önkormányzati hatósági ügyekben;
+- j) a hatáskörébe tartozó ügyekben szabályozza a kiadmányozás rendjét.
+
+(4) A polgármester egyetértése szükséges – az általa meghatározott körben – a polgármesteri hivatal, a közös önkormányzati hivatal köztisztviselője, alkalmazottja kinevezéséhez, bérezéséhez, vezetői kinevezéséhez, felmentéséhez és jutalmazásához.
+
+82. § (1) A polgármester – pályázat alapján határozatlan időre – nevezi ki a jegyzőt. A tízezer főnél kevesebb lakosú települések önkormányzatánál és a tízezer főnél kevesebb együttes lakosságszámú települések közös önkormányzati hivatalánál a polgármester – a jegyzőre vonatkozó szabályok szerint, a jegyző javaslatára – kinevezheti, más önkormányzatnál, közös önkormányzati hivatalnál kinevezi az aljegyzőt. A jegyzői és az aljegyzői kinevezés vezetői munkakörnek minősül, a jegyzőre, aljegyzőre alkalmazni kell a közszolgálati tisztviselőkről szóló törvény vonatkozó rendelkezéseit. Megyei jogú városban több aljegyző is kinevezhető.
+
+(2) Amennyiben hat hónapon belül a polgármester nem nevez ki, illetve közös önkormányzati hivatal esetében az érintett polgármesterek nem neveznek ki jegyzőt, a kormányhivatal vezetője ideiglenes hatállyal a jegyzői feladatok ellátására a pályázati kiírásnak megfelelő jelöltet, ennek hiányában a képesítési és alkalmazási feltételeknek megfelelő hivatali köztisztviselőt vagy más jegyzőt nevez ki. A jegyzői feladatok ellátására szóló kinevezés az új jegyző kinevezéséig tart.
+
+(3) A jegyzői és az aljegyzői tisztség egyidejű betöltetlensége, illetve tartós akadályoztatásuk esetére – legfeljebb hat hónap időtartamra – a szervezeti és működési szabályzat rendelkezik a jegyzői feladatok ellátásának módjáról.
+
+(4) Ha e törvény eltérően nem rendelkezik, a jegyzőn a főjegyzőt is érteni kell.
+
+(5) A jegyző, főjegyző jogállására vonatkozó szabályokat az aljegyzőre is megfelelően alkalmazni kell.
+
+83. § A jegyzőre vonatkozó rendelkezéseket a közös önkormányzati hivatal jegyzőjére is alkalmazni kell az alábbi eltérésekkel:
+
+- a) valamennyi érintett településen ellátja a jegyző feladatait;
+- b) kinevezéséhez, felmentéséhez az érintett települések polgármestereinek lakosságszám-arányos, többségi döntése szükséges. Eltérő megállapodás hiányában az egyéb munkáltatói jogokat a közös önkormányzati hivatal székhelye szerinti település polgármestere gyakorolja. Többségi a döntés akkor, ha – a közös önkormányzati hivatalt létrehozó települések összlakosságát 100%-nak tekintve – a polgármesterek által leadott azonos nemű szavazatok alapján az adott településekre vonatkoztatott százalékarány összesítve meghaladja az 50%-ot;
+- c) a 85. § (4) bekezdésében foglalt esetben – az érintett települések eltérő megállapodásának hiányában – a jegyzőt a város polgármestere nevezi ki és gyakorolja felette a munkáltatói jogokat.
 
 ### A polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal
 
-84–86. §
+84. § (1) A helyi önkormányzat képviselő-testülete az önkormányzat működésével, valamint a polgármester vagy a jegyző feladat- és hatáskörébe tartozó ügyek döntésre való előkészítésével és végrehajtásával kapcsolatos feladatok ellátására polgármesteri hivatalt vagy közös önkormányzati hivatalt hoz létre. A hivatal közreműködik az önkormányzatok egymás közötti, valamint az állami szervekkel történő együttműködésének összehangolásában.
+
+(2) A polgármesteri hivatal, a közös önkormányzati hivatal hivatalos elnevezését a képviselő-testület a szervezeti és működési szabályzatában feltünteti.
+
+(3) A megyei közgyűlés megyei önkormányzati hivatalt hoz létre.
+
+(4) A hivatal működési költségét az állam – az adott évi központi költségvetésről szóló törvényben meghatározott mértékben, és a hivatal által ellátott feladataikkal arányban – finanszírozza, amelyet a székhelytelepülés, valamint a megye részére, e célra elkülönített számlájára folyósít.
+
+(5) A polgármesteri hivatal és a közös önkormányzati hivatal hivatalos megnevezése:
+
+- a) települési polgármesteri hivatal esetén: (település neve)-i Polgármesteri Hivatal;
+- b) közös önkormányzati hivatal esetén: (székhelytelepülés neve)-i Közös Önkormányzati Hivatal;
+- c) megyei önkormányzati hivatal esetén: (megye neve) Megyei Önkormányzati Hivatal;
+- d) megyei jogú városi polgármesteri hivatal esetén: (település neve) Megyei Jogú Város Polgármesteri Hivatala.
+
+(6) A polgármesteri hivatalon megyei önkormányzati hivatalt és főpolgármesteri hivatalt is érteni kell, kivéve a 22. § (5) bekezdését és a 98. § (11) bekezdését.
+
+85. § (1) Közös önkormányzati hivatalt hoznak létre azok a járáson belüli községi önkormányzatok, amelyek közigazgatási területét legfeljebb egy település közigazgatási területe választja el egymástól, és a községek lakosságszáma nem haladja meg a kétezer főt. A kétezer fő lakosságszámot meghaladó település is tartozhat közös önkormányzati hivatalhoz.
+
+(2) A közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább kétezer fő, vagy a közös hivatalhoz tartozó települések száma legalább hét.
+
+(3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. Amennyiben a határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására, vagy ahhoz valamely település nem tud csatlakozni, akkor a kormányhivatal vezetője a határidő lejártát követő hónap első napjával kijelöli a közös önkormányzati hivatalhoz tartozó településeket. A kijelölés esetén is teljesülnie kell az e §-ban meghatározott feltételeknek. A kijelölésről szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a közigazgatási és munkaügyi bírósághoz fordulhat.
+
+(4) Abban az esetben, ha a közös önkormányzati hivatalt működtető települések egyike város, akkor a város a székhelytelepülés. Egyéb esetekben a székhelytelepülést a közös önkormányzati hivatalhoz tartozó önkormányzatok képviselő-testületei határozzák meg.
+
+(5) Amennyiben a közös önkormányzati hivatalt város működteti, úgy a hivatal létszámát az érintett települések képviselő-testületeinek megállapodásával határozzák meg. Megállapodás hiányában a városi önkormányzat képviselő-testülete állapítja meg, figyelemmel a (4) és a (8) bekezdésben foglaltakra.
+
+(6) A községi önkormányzatok által létrehozott közös önkormányzati hivatal létszámát az érintett képviselő-testületek a közös önkormányzati hivatal létrehozásáról szóló megállapodásban határozzák meg, figyelemmel a (4) és a (8) bekezdésben foglaltakra.
+
+(7) A városi, valamint a kétezer főt meghaladó lakosságszámú települési önkormányzat képviselő-testülete nem tagadhatja meg a közös önkormányzati hivatal létrehozására irányuló megállapodás megkötését, ha azt a vele határos település kezdeményezi.
+
+(7a) A (7) bekezdésben meghatározott megállapodás megkötése a kormányhivatal vezetőjének jóváhagyásával megtagadható. A jóváhagyásról vagy annak megtagadásáról szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a Törvényszékhez fordulhat.
+
+(8) A közös önkormányzati hivatal létrehozásáról szóló megállapodásban meghatározottak szerint minden érintett településen biztosítani kell az igazgatási munka folyamatos vagy időszakos ellátásához szükséges személyi és tárgyi feltételeket.
+
+(9) A közös önkormányzati hivatalt fenntartó önkormányzatok képviselő-testületei megállapodhatnak abban, hogy a nem hivatali székhely településeken az ügyfélfogadás a közös önkormányzati hivatal által létrehozott, állandó vagy ideiglenes jelleggel működő kirendeltség vagy ügyfélszolgálati megbízott személyén keresztül, informatikai hálózat alkalmazásával történjen.
+
+(10) Ha a közös önkormányzati hivatalt létrehozni kívánó településeken élő nemzetiségeknek a népszámlálás során regisztrált aránya településenként és nemzetiségenként eléri a húsz százalékot, valamint a települések összlakosságszáma meghaladja az 1500 főt, vagy a közös hivatalhoz tartozni kívánó önkormányzatok száma legalább öt, akkor ezen települési önkormányzatok képviselő-testületei mindegyikének azonos tartalmú és minősített többséggel elfogadott döntésével, – amennyiben az érintett települések történelmi, gazdasági, kulturális hagyományai azt indokolttá teszik – a helyi önkormányzatokért felelős miniszter jóváhagyása alapján, az általa meghatározottak szerint a közös önkormányzati hivatal létrehozása során eltérhetnek a (2) bekezdésben foglalt előírásoktól.
+
+(11) A közös hivatal működési költségeit a közös hivatalhoz tartozó önkormányzatok – eltérő megállapodásuk hiányában – lakosságszámuk arányában biztosítják.
+
+86. § (1) A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
+
+(2) A közös önkormányzati hivatal jegyzője, aljegyzője vagy megbízottja az érintett képviselő-testületek megállapodása alapján köteles biztosítani az egyes településeken történő ügyfélfogadást.
 
 ### IV. Fejezet — A HELYI ÖNKORMÁNYZATOK TÁRSULÁSAI
 
-87. §
+87. § A helyi önkormányzatok képviselő-testületei megállapodhatnak abban, hogy egy vagy több önkormányzati feladat- és hatáskör, valamint a polgármester és a jegyző államigazgatási feladat- és hatáskörének hatékonyabb, célszerűbb ellátására jogi személyiséggel rendelkező társulást hoznak létre.
 
 ### A helyi önkormányzatok társulásának általános szabályai
 
-88–92. §
+88. § (1) A társulást a helyi önkormányzatok képviselő-testületei írásbeli megállapodással hozzák létre. A megállapodást a polgármester írja alá.
+
+(2) A társulásban részt vevő képviselő-testületek mindegyikének minősített többséggel hozott döntése szükséges a társulási megállapodás jóváhagyásához, módosításához vagy a társulás megszüntetéséhez.
+
+89. § (1) A társuláshoz csatlakozni naptári év első, abból kiválni naptári év utolsó napjával lehet, ha törvény vagy a társulási megállapodás másként nem rendelkezik.
+
+(2) A társuláshoz való csatlakozásról és a kiválásról, ha törvény eltérően nem rendelkezik, legalább hat hónappal korábban, minősített többséggel kell dönteni. Erről a társulási tanácsot értesíteni kell.
+
+(3) A társulási tanács minősített többséggel dönt a társulásból történő kizárásról.
+
+90. § (1) A társulás a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, gazdálkodó szervezetet, nonprofit szervezetet és egyéb szervezetet alapíthat, kinevezi vezetőiket. A társulás olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
+
+(2) A társulás működési költségeihez – a társulási megállapodás eltérő rendelkezése hiányában – a társulás tagjai az általuk képviselt települések lakosságszámának arányában hozzájárulnak.
+
+(3) A társulás saját vagyonnal rendelkezhet.
+
+(4) A társulás megszűnése, a társulásból történő kiválás, kizárás esetén – eltérő megállapodás hiányában – a társulás vagyonát a társulás azon tagjának kell visszaadni, amelyik azt a társulás rendelkezésére bocsátotta. Egyebekben a közös tulajdonra vonatkozó rendelkezéseket kell alkalmazni.
+
+(5) A társulásból történő kiválás esetén a vagyontárgy társulási tag részére történő kiadását a társulási megállapodásban meghatározott időtartamra, de legfeljebb öt évre el lehet halasztani, ha annak természetben történő kiadása veszélyeztetné a társulás további működését. Ebben az esetben a kivált tagot – a társulással kötött szerződés alapján – használati díj illeti meg.
+
+91. § A társulás megszűnik:
+
+- a) ha a megállapodásban meghatározott időtartam eltelt, vagy törvényben szabályozott megszűnési feltétel megvalósult;
+- b) ha a társulás tagjai a 88. § (2) bekezdés szerinti többséggel azt elhatározzák;
+- c) a törvény erejénél fogva;
+- d) a bíróság jogerős döntése alapján.
+
+92. § A helyi önkormányzatok képviselő-testületei között a társulások működése során felmerülő vitás kérdésekben a közigazgatási és munkaügyi bíróság dönt. A társult önkormányzatok képviselő-testületei megállapodhatnak abban, hogy a vitás kérdésben bármelyik képviselő-testület kérheti a megállapodásban megjelölt önkormányzati érdekszövetség által felkért tagokból álló egyeztető bizottság állásfoglalását, továbbá abban, hogy a kereset benyújtása előtt a képviselő-testület kéri az egyeztető bizottság állásfoglalását.
 
 ### A társulási megállapodás alapvető szabályai
 
-93. §
+93. § A társulási megállapodás tartalmazza:
+
+- 1. a társulás nevét, székhelyét;
+- 2. a társulás tagjainak nevét, székhelyét, képviselőjét;
+- 3. a társuláshoz tartozó települések lakosságszámát;
+- 4. a társulás által ellátott feladat- és hatásköröket;
+- 5. a társulás döntéshozó szervét, döntéshozó szervének tagjait megillető szavazatarányt;
+- 6. a döntéshozatalának módját, a minősített döntéshozatal eseteit;
+- 7. a közös fenntartású intézmények megnevezését;
+- 8. a társulás fenntartásával, működtetésével kapcsolatosan az egyes képviselő-testületek pénzügyi hozzájárulásának mértékét, teljesítésének módját;
+- 9. a társulás tagjai által vállalt pénzügyi hozzájárulás nem teljesítése esetén irányadó eljárást (a társulás döntésétől függően a társulás tagjai részéről a pénzforgalmi szolgáltatójuknak adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát, amely alapján a társulás beszedési megbízást nyújthat be a pénzforgalmi szolgáltatóhoz);
+- 10. a társulás vagyonát és a vagyonátadás feltételeit, a tulajdonosi jogok és kötelezettségek gyakorlásának rendjét;
+- 11. intézmény közös alapítása esetén az alapítói jogok gyakorlására vonatkozó részletes rendelkezéseket;
+- 12. a társulás általános rendjétől eltérő (nem minden tag részére, vagy a tag által saját intézménye útján más tagok részére történő) feladatellátás módját;
+- 13. a társulás szolgáltatásai igénybevételének a társulás által meghatározott feltételeit;
+- 14. a társulás működéséről évente legalább egy alkalommal történő beszámolás kötelezettségét;
+- 15. a társulás működésének ellenőrzési rendjét;
+- 16. a megállapodás módosításának feltételeit;
+- 17. a társulásból történő kiválás és kizárás feltételeit;
+- 18. a társulás megszűnése esetén a tagok egymással való elszámolásának kötelezettségét, módját;
+- 19. azt, amiben a képviselő-testületek megállapodtak.
 
 ### A társulás szervezete és működése
 
-94–95. §
+94. § (1) Az önkormányzati társulás döntéshozó szerve a társulási tanács.
+
+(2) A társulási tanácsot a társult önkormányzatok képviselő-testületei által delegált tagok alkotják, akik a megállapodásban meghatározott számú szavazattal rendelkeznek.
+
+(3) A társulási tanács döntését határozattal hozza.
+
+(4) A társulási tanács akkor határozatképes, ha ülésén a megállapodásban meghatározott számú, de legalább a szavazatok felével rendelkező képviselő jelen van. A javaslat elfogadásához a megállapodásban meghatározott számú, de legalább annyi képviselő igen szavazata szükséges, amely meghaladja a jelen lévő képviselők szavazatainak több mint a felét.
+
+(5) A tíznél több tagból álló önkormányzati társulás társulási tanácsának érvényes döntéséhez a megállapodásban meghatározott számú, de legalább annyi tag igen szavazata szükséges, amely meghaladja a jelen lévő tagok szavazatainak a felét és az általuk képviselt települések lakosságszámának egyharmadát.
+
+(6) A megállapodásban meghatározott döntéshez minősített többség szükséges.
+
+(7) A minősített többséghez a megállapodásban meghatározott számú, de legalább annyi tag igen szavazata szükséges, amely eléri a társulásban részt vevő tagok szavazatának több mint felét és az általuk képviselt települések lakosságszámának a felét.
+
+(8) A döntéshozatali eljárás egyéb szabályairól – beleértve a szavazatarányok és a költségek viselésének kérdését is – a társulás tagjai a társulási megállapodás keretében szabadon döntenek. Törvény vagy a társulási megállapodás eltérő rendelkezésének hiányában a társulás minden tagját egy szavazat illeti meg.
+
+95. § (1) A társulási tanács tagjai közül elnököt választ, alelnököt választhat. Együttes akadályoztatásuk esetén a tanács ülését a korelnök hívja össze és vezeti.
+
+(2) A társulási tanács döntéseinek előkészítése, végrehajtásuk szervezése érdekében bizottságokat alakíthat.
+
+(3) A társulási tanács és a bizottságok működésére egyebekben a képviselő-testületre és az önkormányzati bizottságokra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(4) A társulási tanács munkaszervezeti feladatait (döntések előkészítése, végrehajtás szervezése) eltérő megállapodás hiányában a társulás székhelyének polgármesteri hivatala látja el.
+
+(5) A társulási tanács ülésén a társult önkormányzatok jegyzői tanácskozási joggal részt vehetnek.
 
 ### V. Fejezet — TERÜLETSZERVEZÉS
 
 ### A területszervezési eljárás közös szabályai
 
-96–97. §
+96. § (1) Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök – az országgyűlési képviselői és az önkormányzati általános választás évének kivételével – évente egy alkalommal dönt.
+
+(2) A Kormány, valamint a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a kezdeményezést június 30-áig nyújtja be az Országgyűlésnek, és javaslatot tesz a köztársasági elnöknek. Az Országgyűlés és a köztársasági elnök a területszervezési kezdeményezésről – a várossá nyilvánítás kivételével – december 31-ig dönt.
+
+(3) Az Országgyűlés döntése az országgyűlési képviselők választását érintően a következő országgyűlési képviselői általános választás kitűzésének napján, az önkormányzati választást érintően a következő önkormányzati általános választás kitűzésének napján lép hatályba; erről szükség esetén az Országgyűlés a területszervezési döntéssel egyidejűleg határoz.
+
+(4) A köztársasági elnök hatáskörébe tartozó ügyben – a várossá nyilvánítás kivételével – a döntés az önkormányzati általános választás napján lép hatályba.
+
+(5) A köztársasági elnök július 31-ig dönt a várossá nyilvánításról, döntését a Magyar Közlönyben közzéteszi.
+
+97. § (1) A község, a város nevét úgy kell megállapítani, hogy ne lehessen összetéveszteni az országban lévő más helység nevével.
+
+(2) A területváltozás költségeit az a község, város viseli, amelynek javára történt a területátcsatolás.
 
 ### Önálló község alakítása
 
-98–99. §
+98. § (1) A választópolgárok kezdeményezésére, helyi népszavazás alapján új község alakítható az olyan – földrajzilag és építészetileg – elkülönült, lakott településrészből, amely választópolgárainak közössége képes a helyi önkormányzás jogának önálló gyakorlására, a községi önkormányzat számára meghatározott feladatok önállóan vagy társulás útján történő teljesítésére a szolgáltatások színvonalának csökkenése nélkül úgy, hogy ezeknek a feltételeknek az a település is megfeleljen, amelyből az új község megalakult. A helyi népszavazást a település teljes közigazgatási területére kell kitűzni.
+
+(2) Az új község alakításának további feltétele, hogy az elkülönült településrész lakosságszáma a kezdeményezést megelőző tíz évben folyamatosan növekedjen, és infrastrukturális ellátottsága meghaladja az országos átlagot, valamint a községi önkormányzat számára meghatározott feladatokat az országos átlagot meg nem haladó költségráfordítással látja el.
+
+(3) Új község alakításának a kezdeményezése esetén a falugyűlés, város esetében a községalakítással érintett településrész lakossági fóruma (a továbbiakban együtt: falugyűlés) legalább háromtagú előkészítő bizottságot választ a településrészen lakó települési képviselőkből vagy más választópolgárokból.
+
+(4) Az előkészítő bizottság javaslatot készít az (1) és (2) bekezdésben írt követelmények és a területszervezési eljárásról szóló kormányrendeletben meghatározott egyéb feltételek teljesítésére.
+
+(5) A miniszter március 31-ig határozatában dönt arról, hogy nem terjeszti elő a kezdeményezést, ha az nem felel meg az (1) és (2) bekezdésben foglalt feltételeknek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított harminc napon belül a miniszternek benyújtott kérelemben a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérheti. A miniszter az iratokat a kérelem beérkezésétől számított három napon belül megküldi a bírósághoz.
+
+(6) A bíróság az ügyben a beérkezéstől számított harminc napon belül nemperes eljárásban dönt. Végzésében a kérelmet elutasítja, vagy a miniszter határozatát hatályon kívül helyezi. A végzés ellen fellebbezésnek helye nincs. A miniszter a határozat hatályon kívül helyezése esetén június 30-áig nyújtja be a kezdeményezést a köztársasági elnöknek.
+
+(7) A településrész új községgé alakításáról szóló köztársasági elnöki döntés közzétételétől számított harminc napon belül az előkészítő bizottság településrészi önkormányzattá alakul át. A településrészi önkormányzat egyetértése szükséges a településrészt érintő
+
+- a) területszervezési kérdésben;
+- b) a bel- és külterületek lehatárolásához;
+- c) önkormányzati vagyonról, vagyoni jogokról és kötelezettségekről szóló döntéshez.
+
+(8) Az önkormányzati vagyon megosztásáról a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. Megállapodás hiányában az önkormányzati vagyont lakosságarányosan kell megosztani.
+
+(9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
+
+(10) Az új község vagyonára, területére vonatkozó megállapodás hiányában bármelyik érintett önkormányzat keresete alapján a közigazgatási és munkaügyi bíróság dönt.
+
+(11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.
+
+99. § (1) Új község alakítását településegyesítés megszüntetés jogcímén akkor lehet kezdeményezni, ha a településrész egyesítése 1950. január 1-jén vagy azt követően lépett hatályba.
+
+(2) Településegyesítés megszüntetésének a kezdeményezése a 98. §-ban foglalt feltételekkel és eljárással történhet.
 
 ### Települések egyesítése
 
-100. §
+100. § (1) Helyi népszavazás alapján az érintett képviselő-testületek határozatukkal kezdeményezik az egybeépült községek, valamint város és község egyesítését, egyidejűleg javaslatot tesznek az új település nevére.
+
+(2) Az egyesítéstől a községek jogai és kötelezettségei az új községet, várost illetik és terhelik.
+
+(3) A települések egyesítésével megszűnt község a nevét településrész-névként megtartja.
+
+(4) A miniszter március 31-ig határozatában dönt arról, hogy nem terjeszti elő a kezdeményezést, ha a települések nem egybeépültek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. A határozatot a miniszter a meghozatalától számított három napon belül az érdekelt önkormányzatok polgármestereinek küldi meg. A képviselő-testületek által kérhető felülvizsgálatra a 98. § szabályait kell alkalmazni.
 
 ### Területrész átadása
 
-101–102. §
+101. § Az érintett képviselő-testületek megállapodhatnak egymással határos területrész átadásáról, átvételéről vagy cseréjéről (a továbbiakban együtt: területrész átadása).
+
+102. § (1) Az érintett képviselő-testületek a területrész átadását előkészítő bizottság javaslata alapján előzetes megállapodást köthetnek az átadandó területrész területéről és határairól, a vagyon megosztásáról.
+
+(2) A lakott területrész átadásának kezdeményezése esetén az érintett képviselő-testületek együttes ülésen legalább háromtagú, területrész átadását előkészítő bizottságot választanak települési képviselőkből, valamint más választópolgárokból. Az előkészítő bizottság tagjainak több mint felét a lakott területrészen lakó települési képviselők vagy választópolgárok közül kell megválasztani. A bizottság elnökének és tagjainak megválasztásához a képviselő-testületi tagok több mint felének igen szavazata szükséges.
+
+(3) Lakott területrész átadása esetén az ott lakó választópolgárok – helyi népszavazással kinyilvánított – többségi támogatása szükséges a megállapodáshoz.
+
+(4) A képviselő-testületek – az előzetes megállapodásnak megfelelően – a lakott területrész átadásáról, annak részletes feltételeiről a helyi népszavazást követő kilencven napon belül állapodnak meg. Megállapodás hiányában az érintett képviselő-testület keresete alapján a közigazgatási és munkaügyi bíróság – soron kívül – dönt. Döntése a megállapodást pótolja.
+
+(5) Lakott területrész átadása nem tagadható meg, ha a képviselő-testületek előzetes megállapodást kötöttek és az átadással a területrész választópolgárainak többsége helyi népszavazás során egyetértett.
+
+(6) Külterületi lakott területrész átadására a lakott területrészre vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### Település megyék közötti átcsatolása
 
-103. §
+103. § (1) A települési képviselő-testület minősített többségű határozattal kezdeményezheti, hogy az Országgyűlés a települést a területével határos másik megye területéhez csatolja át. A kezdeményezéssel kapcsolatban helyi népszavazást kell elrendelni.
+
+(2) A település a másik megyéhez általában a teljes közigazgatási területével csatolható át. Ettől eltérő javaslatot akkor lehet tenni, ha az új megyehatár eltérő kialakítását természetes vagy jelentős műszaki létesítményt jelentő mesterséges határvonal (folyó, közút, vasúti pálya stb.) indokolja.
+
+(3) Más megyéhez csatlakozni kívánó település átcsatolásáról az érintett megyei önkormányzatok közgyűlései állást foglalnak.
 
 ### Várossá nyilvánítás
 
-104. §
+104. § (1) Városi cím adható annak a községi önkormányzatnak, amely térségi szerepet tölt be, és fejlettsége eléri az átlagos városi szintet.
+
+(2) Ha a miniszter a várossá nyilvánítási kezdeményezést nem támogatja, erről tájékoztatja az érintett önkormányzat képviselő-testületét azzal, hogy milyen fejlesztések szükségesek az előterjesztéshez. Ha a képviselő-testület fenntartja a kezdeményezését, az eredmények elérését követő év január 31-ig – az önkormányzati választás évének kivételével – a korábbi felterjesztésének kiegészítésével ismételheti meg a kezdeményezését.
 
 ### Fővárosi kerület létrehozása, a kerületi határok megváltoztatása
 
-105. §
+105. § (1) Fővárosi kerület létesítését, kerület megszüntetését (a továbbiakban: kerületi tagozódás megváltoztatása) bármelyik, területileg közvetlenül érintett kerületi önkormányzat képviselő-testülete kezdeményezheti az Országgyűlésnél.
+
+(2) A kerületi tagozódás megváltoztatásának kezdeményezése esetén az érintett kerületi önkormányzat képviselő-testülete a kerületi tagozódás megváltoztatása kérdésében helyi népszavazást köteles elrendelni.
+
+(3) A kerületi tagozódás megváltoztatásával kapcsolatosan a fővárosi közgyűlés, valamint a többi érintett kerületi önkormányzat képviselő-testületének véleményét ki kell kérni.
+
+(4) Fővárosi kerület területrészének más kerülethez való csatolását az érintett kerületi önkormányzatok képviselő-testületei – a fővárosi közgyűlés állásfoglalásával – kezdeményezhetik az Országgyűlésnél. Lakott területrész esetén a kezdeményezéssel kapcsolatosan helyi népszavazást kell elrendelni.
+
+(5) A főváros határával közvetlenül érintkező fővárosi kerület képviselő-testülete kezdeményezheti az Országgyűlésnél a kerületnek vagy városrésznek a fővárosból történő kiválását és önálló településsé nyilvánítását. A kezdeményezéssel kapcsolatosan helyi népszavazást kell elrendelni.
+
+(6) A fővároshoz csatlakozni kívánó, vele határos települési önkormányzat képviselő-testülete a csatlakozás kérdésében saját településén helyi népszavazást köteles elrendelni.
+
+(7) Amennyiben az új kerületi tagozódás a főváros közigazgatási határát is érinti, a kezdeményezés a helyi népszavazás eredményével, az érintett települési önkormányzat képviselő-testülete, a változással érintett határos megyei önkormányzat közgyűlésének véleményével nyújtható be az Országgyűléshez.
+
+(8) Az e §-ban megjelölt kezdeményezési jogosultság megilleti a Kormányt is. Ilyen esetben a helyi népszavazást a tervezett területi változással közvetlenül érintett települési önkormányzat köteles elrendelni. A népszavazás költségét a központi költségvetés viseli.
 
 ### VI. Fejezet — A HELYI ÖNKORMÁNYZATOK GAZDASÁGI ALAPJAI
 
 ### Az önkormányzati vagyon
 
-106. § (1)
+106. § (1) E törvény alkalmazásában saját bevétel:
+
+- a) a helyi adók;
+- b) saját tevékenységből, vállalkozásból és az önkormányzati vagyon hasznosításából származó bevétel, nyereség, osztalék, kamat és bérleti díj;
+- c) átvett pénzeszközök;
+- d) törvény alapján az önkormányzatot megillető illeték, bírság, díj;
+- e) az önkormányzat és intézményei egyéb sajátos bevételei.
 
 (2) A helyi önkormányzat vagyona a tulajdonából és a helyi önkormányzatot megillető vagyoni értékű jogokból áll, amelyek az önkormányzati feladatok és célok ellátását szolgálják.
 
@@ -286,23 +888,154 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Az önkormányzat gazdálkodása
 
-111–116. §
+111. § (1) A helyi önkormányzat költségvetése az államháztartás része. Az önkormányzati alrendszer költségvetése a központi költségvetéstől elkülönül, ahhoz központi költségvetési támogatásokkal kapcsolódik.
+
+(2) A helyi önkormányzat gazdálkodásának alapja az éves költségvetése. Ebből finanszírozza és látja el törvényben meghatározott kötelező, valamint a kötelező feladatai ellátását nem veszélyeztető önként vállalt feladatait.
+
+(3) A (2) bekezdés szerinti feladatok ellátásának forrásait és kiadásait a helyi önkormányzat egységes költségvetési rendelete elkülönítetten tartalmazza.
+
+(4) A költségvetési rendeletben működési hiány nem tervezhető.
+
+(5) Az állami költségvetési tervezés önkormányzatokat érintő feladatait az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter végzi.
+
+112. § (1) A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
+
+(2) A helyi önkormányzat veszteséges gazdálkodásának következményei a helyi önkormányzatot terhelik, kötelezettségeiért a központi költségvetés nem tartozik felelősséggel.
+
+(3) Az önkormányzati gazdálkodás e törvényben nem szabályozott kérdéseiben az államháztartásról szóló törvényben és végrehajtási rendeleteiben foglaltakat kell alkalmazni.
+
+113. § A helyi önkormányzat költségvetési, a költségvetés teljesítési és szakmai tevékenységének bemutatására, értékelésére vonatkozó adatainak jogszabályban meghatározott körét a jegyző legalább évente a helyben szokásos módon közzéteszi.
+
+114. § A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, mely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál. A rendszerben kötelezően nyilvántartandó adatok körét jogszabály határozza meg.
+
+115. § (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
+
+(2) Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a költségvetés elfogadásának, a zárszámadás elfogadásának, az államháztartási beszámoló benyújtásának, valamint vagyon-nyilvántartás elkészítésének határidejét követő hónaptól a mulasztás megszüntetését követő hónapig a nettó finanszírozás keretében finanszírozott támogatásainak folyósítása felfüggesztésre kerül.
+
+116. § (1) A képviselő-testület hosszú távú fejlesztési elképzeléseit gazdasági programban, fejlesztési tervben rögzíti, melynek elkészítéséért a helyi önkormányzat felelős.
+
+(2) A gazdasági program, fejlesztési terv a képviselő-testület megbízatásának időtartamára vagy azt meghaladó időszakra szól.
+
+(3) A gazdasági program, fejlesztési terv helyi szinten meghatározza mindazokat a célkitűzéseket és feladatokat, amelyek a helyi önkormányzat költségvetési lehetőségeivel összhangban, a helyi társadalmi, környezeti és gazdasági adottságok átfogó figyelembevételével a helyi önkormányzat által nyújtandó feladatok biztosítását, színvonalának javítását szolgálják.
+
+(4) A gazdasági program, fejlesztési terv – a megyei területfejlesztési elképzelésekkel összhangban – tartalmazza, különösen: az egyes közszolgáltatások biztosítására, színvonalának javítására vonatkozó fejlesztési elképzeléseket.
+
+(5) A gazdasági programot, fejlesztési tervet a képviselő-testület az alakuló ülését követő hat hónapon belül fogadja el. Ha a meglévő gazdasági program, fejlesztési terv az előző ciklusidőn túlnyúló, úgy azt az újonnan megválasztott képviselő-testület az alakuló ülését követő hat hónapon belül köteles felülvizsgálni, és legalább a ciklusidő végéig kiegészíteni vagy módosítani.
 
 ### A helyi önkormányzatok feladatfinanszírozási rendszere
 
-117–118. §
+117. § (1) A feladatfinanszírozási rendszer keretében az Országgyűlés a központi költségvetésről szóló törvényben meghatározott módon a helyi önkormányzatok
+
+- a) kötelezően ellátandó, törvényben előírt egyes feladatainak – felhasználási kötöttséggel – a feladatot meghatározó jogszabályban megjelölt közszolgáltatási szintnek megfelelő ellátását feladatalapú támogatással biztosítja, vagy azok ellátásához a feladat, a helyi szükségletek alapján jellemző mutatószámok, illetve a lakosságszám alapján támogatást biztosít,
+- b) az a) pontba nem tartozó feladatainak ellátásához felhasználási kötöttséggel járó, vagy felhasználási kötöttség nélküli támogatást nyújthat.
+
+(2) Az (1) bekezdés szerinti támogatás biztosítása a következő szempontok figyelembevételével történik:
+
+- a) takarékos gazdálkodás,
+- b) a helyi önkormányzat jogszabályon alapuló, elvárható saját bevétele,
+- c) a helyi önkormányzat tényleges saját bevétele.
+
+(3) A figyelembe veendő bevételek körét és mértékét törvény határozza meg.
+
+(4) A feladatfinanszírozási rendszernek biztosítania kell a helyi önkormányzatok bevételi érdekeltségének fenntartását.
+
+118. § (1) A 117. § (1) bekezdés a) pontja szerinti támogatást a helyi önkormányzat éves szinten kizárólag az ellátandó feladatainak kiadásaira fordíthatja. Az ettől eltérő felhasználás esetén a helyi önkormányzat köteles a támogatás összegét – az államháztartásról szóló törvényben meghatározott kamatokkal terhelve – a központi költségvetésbe visszafizetni.
+
+(2) Kivételes esetben jogszabályban meghatározott módon a helyi önkormányzat működőképessége megőrzése érdekében kiegészítő támogatás adható.
 
 ### A helyi önkormányzatok belső kontrollrendszere
 
-119–120. §
+119. § (1) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a Magyar Államkincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
+
+(2) A központi költségvetési, európai uniós vagy egyéb nemzetközi támogatásban részesülő önkormányzat vagy társulás köteles a támogatást nyújtó, a támogatás lebonyolításában részt vevő és a támogatást ellenőrző szervezetekkel együttműködni.
+
+(3) A jegyző köteles – a jogszabályok alapján meghatározott – belső kontrollrendszert működtetni, amely biztosítja a helyi önkormányzat rendelkezésére álló források szabályszerű, gazdaságos, hatékony és eredményes felhasználását.
+
+(4) A jegyző köteles gondoskodni – a belső kontrollrendszeren belül – a belső ellenőrzés működtetéséről az államháztartásért felelős miniszter által közzétett módszertani útmutatók és a nemzetközi belső ellenőrzési standardok figyelembevételével. A helyi önkormányzat belső ellenőrzése keretében gondoskodni kell a felügyelt költségvetési szervek ellenőrzéséről is.
+
+(5) A helyi önkormányzatra vonatkozó éves ellenőrzési tervet a képviselő-testület az előző év december 31-éig hagyja jóvá.
+
+(6) A helyi önkormányzat és költségvetési szervei belső ellenőrzésére vonatkozó részletes szabályokat jogszabály tartalmazza.
+
+120. § (1) A pénzügyi bizottság a helyi önkormányzatnál és intézményeinél
+
+- a) véleményezi az éves költségvetési javaslatot és a végrehajtásáról szóló féléves, éves beszámoló tervezeteit;
+- b) figyelemmel kíséri a költségvetési bevételek alakulását, különös tekintettel a saját bevételekre, a vagyonváltozás (vagyon növekedés, -csökkenés) alakulását, értékeli az azt előidéző okokat;
+- c) vizsgálja az adósságot keletkeztető kötelezettségvállalás indokait és gazdasági megalapozottságát, ellenőrizheti a pénzkezelési szabályzat megtartását, a bizonylati rend és a bizonylati fegyelem érvényesítését;
+- d) ellátja a képviselő-testület rendeletében meghatározott feladatokat.
+
+(2) A pénzügyi bizottság vizsgálati megállapításait a képviselő-testülettel haladéktalanul közli. Ha a képviselő-testület a vizsgálati megállapításokkal nem ért egyet vagy a szükséges intézkedéseket nem teszi meg, a vizsgálati jegyzőkönyvet az észrevételeivel együtt megküldi az Állami Számvevőszéknek.
 
 ### Adósságrendezés
 
-121–124. §
+121. § A helyi önkormányzat fizetőképességének megszűnése esetén az önkormányzat pénzügyi helyzetének rendezése adósságrendezési eljárás keretében történik.
 
-### VII. Fejezet — A HELYI ÖNKORMÁNYZATOK ÉS A KÖZPONTI ÁLLAMI SZERVEK KAPCSOLATA,A HELYI ÖNKORMÁNYZATOK TÖRVÉNYESSÉGI FELÜGYELETE
+122. § A helyi önkormányzat az adósságrendezési eljárás ideje alatt a képviselő-testület által elfogadott válságköltségvetés alapján gazdálkodik.
 
-125–131. §
+123. § (1) Az adósságrendezésbe nem vonható be a helyi önkormányzat használatába, vagyonkezelésébe adott, nem az önkormányzat tulajdonát képező vagyon, továbbá hazai vagy uniós forrásból nyújtott fejlesztési támogatásból származó bevételek.
+
+(2) Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamban, a miniszter egyedi döntése alapján, egyedi beruházási kiadások teljesíthetők, különös tekintettel európai uniós támogatással megvalósuló beruházásokra és derogációs kötelezettség teljesítésére. A reorganizációs tervben a miniszter egyedi döntése alapján engedélyezett beruházások szerepelhetnek.
+
+124. § Az önkormányzati adósságrendezéssel kapcsolatos szabályokat az adósságrendezésről szóló törvény tartalmazza.
+
+### VII. Fejezet — A HELYI ÖNKORMÁNYZATOK ÉS A KÖZPONTI ÁLLAMI SZERVEK KAPCSOLATA,
+
+A HELYI ÖNKORMÁNYZATOK TÖRVÉNYESSÉGI FELÜGYELETE
+
+125. § (1) Az Országgyűlés törvényben szabályozza a helyi önkormányzatok jogállását, feladat- és hatásköreit, a kötelezően ellátandó feladatait, kötelező szervtípusait, működésének garanciáit, anyagi eszközeit és gazdálkodásának alapvető szabályait.
+
+(2) Az Országgyűlés az alaptörvény-ellenesen működő képviselő-testület feloszlatásáról a Kormány javaslatának az Országgyűléshez való benyújtását követő soron következő ülésén határoz.
+
+E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat polgármesterét. A polgármester jogosult a képviselő-testület feloszlatással kapcsolatos álláspontját az Országgyűlés döntésének meghozatala előtt ismertetni.
+
+(3) Ha az Országgyűlés a képviselő-testületet feloszlatja, az új képviselő-testület megválasztására vonatkozó időközi választást a feloszlatás Országgyűlés által meghatározott időpontjától számított három hónapon belüli időpontra kell kitűzni.
+
+(4) Az Országgyűlés dönt az állam területi tagozódásáról, továbbá – az érintett önkormányzatok véleményének kikérése után – a megyék összevonásáról, szétválasztásáról, határainak megváltoztatásáról, elnevezéséről és székhelyéről, valamint a fővárosi kerületek kialakításáról.
+
+126. § A köztársasági elnök:
+
+- a) dönt az érintett helyi önkormányzatok kezdeményezésére – az ország területének közigazgatási tagozódásával, valamint területszervezéssel kapcsolatosan előkészített – városi cím adományozásáról, továbbá a község alakításáról, egyesítéséről, a községegyesítés megszüntetéséről, a város, község elnevezéséről;
+- b) megbízza az illetékes kormányhivatal vezetőjét – ha az Országgyűlés a helyi képviselő-testületet feloszlatja –, hogy az új képviselő-testület megválasztásáig terjedő időre gyakorolja azokat a feladatokat és hatásköröket, amelyeket a jogszabály a polgármesternek állapít meg, halaszthatatlan esetben döntsön olyan ügyekben, amelyek a képviselő-testület átruházható hatáskörei.
+
+127. § A Kormány a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter irányításával, a kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.
+
+128. § A helyi önkormányzatokért felelős miniszter:
+
+- a) közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester, a kormányhivatal tevékenységét érintő jogszabályok, közjogi szervezetszabályozó eszközök és egyedi állami döntések tervezeteinek előkészítésében;
+- b) közreműködik a helyi önkormányzat meghatározott kölcsönfelvételére vagy más kötelezettségvállalására vonatkozó kormányzati hozzájárulás megadásánál;
+- c) összehangolja a helyi önkormányzatok működésével összefüggő településfejlesztés, gazdálkodás, valamint az egyes adatbázisokkal kapcsolatos kormányzati feladatok ellátását;
+- d) koordinálja a helyi önkormányzatok rendelkezésére bocsátott fejlesztési források felhasználására kiírt pályázatokat, továbbá a helyi önkormányzatok gazdálkodását érintő jogszabályi feltételek kialakítását;
+- e) közreműködik az önkormányzatok feladatfinanszírozási rendszeréhez szükséges, továbbá kormányzati döntéseket megalapozó önkormányzati adatok gyűjtésében, rendszerezésében;
+- f) jogosult az államháztartásért felelős miniszter útján a Magyar Államkincstár önkormányzatok gazdálkodását érintő helyszíni vizsgálata elrendelésére;
+- g) jogosult az államháztartás információs rendszerének valamennyi, az államháztartás önkormányzati alrendszerére vonatkozó adatának megismerésére, rendszerezésére;
+- h) dönt a 85. § (10) bekezdésében foglalt jóváhagyás megadásáról.
+
+129. § A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter:
+
+- a) irányítja a helyi önkormányzatok törvényességi felügyeletét;
+- b) kezdeményezi a Kormánynál az Alaptörvénnyel ellentétesen működő helyi képviselő-testület feloszlatására vonatkozó országgyűlési előterjesztés benyújtását;
+- c) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket.
+
+130. § A miniszter, feladatkörében eljárva:
+
+- a) meghatározza a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a kormányhivatal államigazgatási feladatai ellátásának szakmai szabályait és ellenőrzi azok érvényesülését;
+- b) a rendelkezésre álló forrásokra figyelemmel szabályozza a helyi önkormányzatok által fenntartott intézmények működésének szakmai követelményeit, az intézmények dolgozóinak képesítési előírásait, ellenőrzi az előírások érvényesülését;
+- c) az a) és b) pontban említett ellenőrzés eredményéről tájékoztatja a helyi önkormányzatot, javaslatot tesz a hiányosságok megszüntetésére, kezdeményezheti, hogy a képviselő-testület tárgyalja meg az ellenőrzés tapasztalatait, törvénysértés esetén tájékoztatja a helyi önkormányzatokért felelős minisztert és a kormányhivatalt;
+- d) tájékoztatja a helyi önkormányzatot a központi ágazatpolitikai célokról, a szabályozási eszközökről, és biztosítja számukra az ágazati feladatok ellátásához szükséges információt;
+- e) a helyi önkormányzatoktól – ágazati feladatai körében – adatokat és tájékoztatást kérhet, amelyet az önkormányzat köteles teljesíteni;
+- f) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a helyi önkormányzat részére a helyi önkormányzatokért felelős miniszter koordinálásával pénzügyi támogatást nyújthat.
+
+131. § (1) Az országos önkormányzati érdekszövetségek jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehetnek, konzultációt folytathatnak a Kormánnyal a helyi önkormányzati rendszert, valamint a helyi önkormányzatok által ellátott közszolgáltatásokat érintő stratégiai kérdésekről és a központi költségvetés önkormányzatokat érintő kérdéseiről.
+
+(2) Az (1) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
+
+- a) a megyei önkormányzatok érdekképviseletét ellátó szövetségnek legalább tizenhárom tagja megyei önkormányzat;
+- b) a megyei jogú városok érdekképviseletét ellátó szövetségnek legalább tizenöt tagja megyei jogú város önkormányzata;
+- c) a fővárosi önkormányzat érdekképviseletét ellátó szövetségnek legalább tizenöt tagja fővárosi kerületi önkormányzat;
+- d) a városi és a járásszékhely városi önkormányzatok érdekképviseletét ellátó szövetségnek tagja az ilyen szerepet betöltő önkormányzatok több mint 50%-a, és a tagságon belül a járásszékhely városi önkormányzatok több mint 50%-a, továbbá
+- e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább négyszáz helyi önkormányzat, és legalább tizenegy területi (megyei) szervezetük működik.
+
+(3) A (2) bekezdésben foglalt arányszámok számításánál egy helyi önkormányzatot csak egy érdekszövetség tagjaként lehet figyelembe venni.
 
 ### A helyi önkormányzatok törvényességi felügyelete
 
@@ -313,7 +1046,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 - a) törvényességi felhívással élhet;
 - b) kezdeményezheti a képviselő-testület összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület ülését;
 - c) kezdeményezheti a Kormánynál, hogy indítványozza az Alkotmánybíróságnál az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatát;
-- d) kezdeményezheti a törvényszéknél az önkormányzat határozatának felülvizsgálatát;
+- d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
 - e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 - f) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatását;
 - g) kezdeményezheti a Magyar Államkincstárnál a központi költségvetésből járó támogatás jogszabályban meghatározott részének visszatartását vagy megvonását;
@@ -396,13 +1129,13 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Az önkormányzati határozat elleni bírósági eljárás kezdeményezési joga
 
-139. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a törvényszéknél az önkormányzati határozat felülvizsgálatát.
+139. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzati határozat felülvizsgálatát.
 
-(2) Ha a jogszabálysértő önkormányzati határozat végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a törvényszék a határozat végrehajtását felfüggeszti.
+(2) Ha a jogszabálysértő önkormányzati határozat végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a közigazgatási és munkaügyi bíróság a határozat végrehajtását felfüggeszti.
 
 ### Önkormányzati határozathozatali és feladat-ellátási kötelezettség elmulasztása
 
-140. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül kezdeményezheti a törvényszéknél a helyi önkormányzat törvényen alapuló:
+140. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a helyi önkormányzat törvényen alapuló:
 
 - a) határozathozatali kötelezettsége elmulasztásának megállapítását és a határozat meghozatalára való kötelezést, vagy
 - b) feladat-ellátási (közszolgáltatási) kötelezettsége elmulasztásának megállapítását és a feladat elvégzésére való kötelezést.
@@ -412,11 +1145,11 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 - a) azon törvényi rendelkezés megjelölését, amely alapján a helyi önkormányzat határozathozatali, feladat-ellátási kötelezettsége fennáll, és
 - b) annak okát, hogy a kormányhivatal miért tartja a határozathozatali, feladat-ellátási kötelezettség elmulasztását megállapíthatónak.
 
-(3) A kormányhivatal kezdeményezésére a törvényszék megállapítja a határozathozatali kötelezettség elmulasztását és határidő tűzésével kötelezi az önkormányzatot a határozat meghozatalára.
+(3) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság megállapítja a határozathozatali kötelezettség elmulasztását és határidő tűzésével kötelezi az önkormányzatot a határozat meghozatalára.
 
-(4) A kormányhivatal kezdeményezésére a törvényszék megállapítja a mulasztást és határidő tűzésével kötelezi a helyi önkormányzatot, hogy biztosítsa a feladat-ellátást (közszolgáltatást).
+(4) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság megállapítja a mulasztást és határidő tűzésével kötelezi a helyi önkormányzatot, hogy biztosítsa a feladat-ellátást (közszolgáltatást).
 
-(5) Ha a helyi önkormányzat a törvényszék által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a törvényszéknél a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
+(5) Ha a helyi önkormányzat a közigazgatási és munkaügyi bíróság által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
 
 ### Törvényességi felügyeleti bírság megállapítása
 
@@ -424,7 +1157,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 - a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
 - b) ha a polgármester, a jegyző határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
-- c) ha a törvényszék megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+- c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
 - d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást.
 
 (2) A törvényességi felügyeleti bírság legkisebb összege esetenként a köztisztviselői illetményalap, legmagasabb összege esetenként a köztisztviselői illetményalap tízszerese.
@@ -441,7 +1174,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (6) A kormányhivatal bírságot megállapító döntésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény előírásait megfelelően kell alkalmazni.
 
-(7) A törvényszék a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.
+(7) A közigazgatási és munkaügyi bíróság a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.
 
 ### A bírósági eljárás kezdeményezésének közös szabályai
 
@@ -451,7 +1184,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (3) A kormányhivatalnak a helyi önkormányzattal szemben törvényességi felügyeleti bírságot megállapító döntése ellen a pert a kormányhivatal ellen kell megindítani.
 
-(4) Az önkormányzati határozat bírósági felülvizsgálata, az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt, valamint a kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, e perekben a törvényszék jár el.
+(4) Az önkormányzati határozat bírósági felülvizsgálata, az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt, valamint a kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, e perekben a közigazgatási és munkaügyi bíróság jár el.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -459,22 +1192,26 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 143. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
-- a)
+- a) a területszervezési eljárás szabályait;
 - b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásának szabályait;
-- c)
-- d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;;
+- c) a 23. § (4) bekezdésének 1. pontjában meghatározott, a fővárosi önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelölését;
+- d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket, valamint a Kormány által kijelölt miniszter részére, a beruházások figyelemmel kísérésével kapcsolatos feladata ellátásához – a személyes adatok kivételével – rendelkezésre bocsátandó adatok, valamint az adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás gyakoriságát, továbbá az adatok nyilvántartásának vezetésére vonatkozó részletes szabályokat;
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
-(3)
+(3) Felhatalmazást kap a települési, a fővárosban a fővárosi önkormányzat, hogy rendeletben állapítsa meg a közterületek elnevezésének, valamint az elnevezésük megváltoztatására irányuló kezdeményezés és a házszám-megállapítás szabályait.
 
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
-- a)–d)
+- a) a helyi önkormányzat szervezeti és működési szabályzatát;
+- b) a helyi önkormányzat költségvetését;
+- c) a helyi önkormányzat zárszámadását;
+- d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 - e)
 - f)
-- g)–h)
+- g) a nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör vállalását;
+- h) a polgármester általi forrásfelhasználás mértékét;
 - i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
 
 ### Hatályba léptető rendelkezések
@@ -495,9 +1232,13 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Átmeneti rendelkezések
 
-146. §
+146. § (1) Az e törvény hatálybalépése előtt kötött önkormányzati társulási megállapodásokat a képviselő-testületek felülvizsgálják és e törvény rendelkezéseinek megfelelően módosítják e törvény hatálybalépését követő hat hónapon belül.
 
-146/A. § Az 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos hatáskör a jegyzőre is átruházható.
+(2) A polgármesteri hivatalt és a közös önkormányzati hivatalt a 84–86. § hatálybalépését követő hatvan napon belül kell megalakítani. Amennyiben a közös önkormányzati hivatalt e határidőn belül nem alakítják meg, vagy ahhoz a települési önkormányzat nem csatlakozik, a 85. § (3) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
+(3) A 11. § (2) bekezdés b) pontja, 90. § (2) bekezdése, 98. § (8) és (11) bekezdése alkalmazása során a költségvetési törvényben meghatározott lakosságszám az irányadó, egyéb esetekben a helyi önkormányzati képviselők és polgármesterek választásáról szóló törvényben meghatározott lakosságszámot és időpontot kell figyelembe venni.
+
+#### 146/A. §
 
 146/B. § (1) Ha a polgármesteri hivatalt fenntartó – a 85. § (1) bekezdése alapján közös önkormányzati hivatal létrehozására kötelezett – községi önkormányzat a 146. § (2) bekezdésében meghatározott határidőig nem vesz részt közös önkormányzati hivatal alakításában, a közös önkormányzati hivatal megalakításáig, de legfeljebb a közös önkormányzati hivatalhoz történő kijelölésről szóló döntésig (a továbbiakban: átmeneti időszak) tovább működteti polgármesteri hivatalát. A polgármesteri hivatalt vezető jegyző, aljegyző jogviszonya – a 146/E. § (1) bekezdésében meghatározottak szerint – a közös önkormányzati hivatal megalakulásával szűnik meg.
 
@@ -531,23 +1272,31 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Módosító rendelkezések
 
-147–153. §
+#### 147–153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
 ### Hatályon kívül helyező rendelkezések
 
 156. § (1)
 
-(2)
+(2) Hatályát veszti
+
+- a) az Ötv. 1–18. §-a; 22–31. §-a; 32. §-ának első mondata, 33. §-a; 35–44. §-a; 46. § (2) bekezdése; 52–60. §-a; 61. § (2)–(6) bekezdése; 62–68/D. §-a; 71–72. §-a; 74. § (2)–(3) bekezdése; 75–77. §-a; 81–87. §; 88. § (1) bekezdés a), c), d) pontja; 89–97. §; 101–115. § (4) bekezdése; 115. § (6) bekezdése,
+- b)
+- c) a 146/A. §.
 
 (3)
 
-157. §
+157. § Hatályát veszti
 
-158. §
+- a) a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény,
+- b) a területszervezési eljárásról szóló 1999. évi XLI. törvény,
+- c) a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény.
+
+#### 158. §
 
 ### 1. melléklet a 2011. évi CLXXXIX. törvényhez
 
@@ -561,13 +1310,7 @@ Isten engem úgy segéljen!”
 
 ### 2. melléklet a 2011. évi CLXXXIX. törvényhez
 
-Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormányzati képviselő
-
-(polgármester, alpolgármester), valamint a vele közös háztartásban élő házas- vagy élettársa
-
-és gyermeke számára
-
-A nyilatkozatot adó személye
+Vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozat helyi önkormányzati képviselő (polgármester, alpolgármester), valamint a vele közös háztartásban élő házas- vagy élettársa és gyermeke számáraA nyilatkozatot adó személye
 
 - 1. A nyilatkozatot adó:
   - a) helyi önkormányzati képviselő, polgármester, alpolgármester (a továbbiakban együtt: képviselő)
@@ -579,7 +1322,8 @@ A nyilatkozatot adó személye
 
 #### I. Ingatlanok
 
-  - 1. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+- 1.
+  - a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
   - b) Az ingatlan területnagysága:
   - c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
   - d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
@@ -587,7 +1331,8 @@ A nyilatkozatot adó személye
   - f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
   - g) Közös tulajdon esetén a tulajdoni hányad mértéke:
   - h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-  - 2. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+- 2.
+  - a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
   - b) Az ingatlan területnagysága:
   - c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
   - d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
@@ -595,7 +1340,8 @@ A nyilatkozatot adó személye
   - f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
   - g) Közös tulajdon esetén a tulajdoni hányad mértéke:
   - h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-  - 3. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+- 3.
+  - a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
   - b) Az ingatlan területnagysága:
   - c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
   - d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:
@@ -603,7 +1349,8 @@ A nyilatkozatot adó személye
   - f) A nyilatkozó jogállása (tulajdonos, bérlő stb.):
   - g) Közös tulajdon esetén a tulajdoni hányad mértéke:
   - h) A szerzés jogcíme, ideje (a jogviszony kezdete):
-  - 4. a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
+- 4.
+  - a) A település neve, ahol az ingatlan fekszik (Budapesten kerület is):
   - b) Az ingatlan területnagysága:
   - c) Művelési ága (vagy a művelés alól kivett terület elnevezése):
   - d) Az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.), az épület alapterülete:

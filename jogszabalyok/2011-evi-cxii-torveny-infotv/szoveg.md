@@ -409,7 +409,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
 
-(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A helyi bíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő helyi bíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
+(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
 
 (6) A bíróság soron kívül jár el.
 
@@ -507,8 +507,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - d) véleményezi a közfeladatot ellátó szerv tevékenységével kapcsolatosan az e törvény szerint közzéteendő adatokra vonatkozó különös, illetve egyedi közzétételi listákat;
 - e) törvényben meghatározott szervekkel vagy személyekkel együttműködve képviseli Magyarországot az Európai Unió közös adatvédelmi felügyelő testületeiben;
 - f) megszervezi a belső adatvédelmi felelősök konferenciáját;
-- g)
-- h)
+- g) meghatározza az adatvédelmi auditálás szakmai szempontjait;
+- h) az adatkezelő kérelmére adatvédelmi auditot folytathat le.
 
 (5) A Hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény állapíthat meg.
 
@@ -580,7 +580,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (6a) A miniszterelnök a (3) és (6) bekezdés alapján megtett indítványát a köztársasági elnök és a Hatóság elnöke részére egyidejűleg megküldi.
 
-(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A pert a miniszterelnök ellen kell megindítani. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Munkaügyi Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A pert a miniszterelnök ellen kell megindítani. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
 
 (6c) Ha a Hatóság elnökének a (6b) bekezdés alapján benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke megbízatásának megszűnését nem állapítja meg.
 
@@ -873,7 +873,15 @@ dönt.
 
 #### 36. Adatvédelmi audit
 
-#### 69. §
+69. § (1) Az adatvédelmi audit a Hatóság olyan szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása. Tervezett adatkezelési műveletek akkor vonhatók audit alá, ha az adatkezelésre vonatkozó koncepció kidolgozottsága ezt lehetővé teszi.
+
+(2) Adatvédelmi auditot a Hatóság az adatkezelő kérelmére folytathat le. Az adatvédelmi audit lefolytatása iránti kérelem benyújtását követő tizenöt napon belül az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét és az adatvédelmi audit elvégzésének várható időpontját a Hatóság közli az adatkezelővel. A Hatóság az adatvédelmi auditot abban az esetben folytatja le, ha a Hatóság közlését követő tizenöt napon belül az adatkezelő nyilatkozik arról, hogy a Hatóság közlésében megállapított feltételek ismeretében az adatvédelmi audit lefolytatása iránti kérelmét fenntartja.
+
+(3) Az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg, az azonban nem haladhatja meg az ötmillió forintot. Az adatvédelmi audit lefolytatásáért fizetendő ellenérték a Hatóság bevétele.
+
+(4) Az adatvédelmi audit eredményét a Hatóság az auditról készített értékelésben rögzíti. Az értékelés javaslatokat fogalmazhat meg az adatkezelő számára. Az értékelés tartalma az üzleti titokra alkalmazandó szabályok szerint ismerhető meg, az adatkezelő erre irányuló kérelmére azonban a Hatóság honlapján – a kérelemnek megfelelően – az értékelést vagy az értékelés összegző megállapításait közzéteszi.
+
+(5) Az adatvédelmi audit a Hatóság e törvényben rögzített egyéb hatásköreinek gyakorlását nem korlátozza.
 
 #### 37. Büntető-, szabálysértési és fegyelmi eljárás kezdeményezése
 
@@ -980,6 +988,11 @@ dönt.
 | 16. | Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 17. | A közfeladatot ellátó szerv kezelésében lévő közérdekű adatok felhasználására, hasznosítására vonatkozó általános szerződési feltételek | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
 | 18. | A közfeladatot ellátó szervre vonatkozó különös és egyedi közzétételi lista | A változásokat követően azonnal | Az előző állapot törlendő |
+| 19. | A közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítás céljára elérhető közadatok listája, valamint azok rendelkezésre álló formátuma | A változásokat követő 15 napon belül | Az előző állapot 1 évig archívumban tartásával |
+| 20. | A 19. sor szerinti közadatok újrahasznosítására vonatkozó általános szerződési feltételek elektronikusan szerkeszthető változata | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 21. | A 19. sor szerinti közadatok újrahasznosítás céljából történő rendelkezésre bocsátásért fizetendő díjak általános jegyzéke | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 22. | A közadatok újrahasznosításáról szóló törvény szerinti jogorvoslati tájékoztatás | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| 23. | A közfeladatot ellátó szerv által megkötött, a közadatok újrahasznosításáról szóló törvény szerint kötött kizárólagos jogot biztosító megállapodások szerződő feleinek megjelölése, a kizárólagosság időtartamának, tárgyának, valamint a megállapodás egyéb lényeges elemeinek megjelölése | A változásokat követő 15 napon belül | Az előző állapot törlendő |
 
 #### III. Gazdálkodási adatok
 

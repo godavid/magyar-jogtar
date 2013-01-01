@@ -257,7 +257,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (5) Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha a határozat meghozatalakor betöltötte a tizenhatodik életévét.
 
-28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, valamint a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja.
+28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el.
 
@@ -330,11 +330,11 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 ### VII. Fejezet — A SZABÁLYSÉRTÉS MIATT ELJÁRÓ HATÓSÁGOK
 
-38. § (1) Az általános szabálysértési hatóság a fővárosi, megyei kormányhivatal (a továbbiakban: kormányhivatal).
+38. § (1) Az általános szabálysértési hatóság a fővárosi, megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal).
 
 (2) Az e törvény által a hatáskörébe utalt szabálysértés miatt a szabálysértési hatóság jogkörében a rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv, illetve a Nemzeti Adó- és Vámhivatal vámszerve jár el.
 
-(3) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon a helyi bíróság jár el.
+(3) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon a járásbíróság jár el.
 
 #### 28. Helyszíni bírság kiszabására jogosultak
 
@@ -342,7 +342,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (2) Törvényben meghatározott esetben szabálysértés észlelése esetén – amennyiben ezt e törvény külön említi – helyszíni bírságot szabhat ki:
 
-- a) a kormányhivatal arra felhatalmazott ügyintézője,
+- a) a járási hivatal arra felhatalmazott ügyintézője,
 - b) a Nemzeti Adó- és Vámhivatal vámszerve,
 - c) a hivatásos katasztrófavédelmi szerv arra felhatalmazott ügyintézője,
 - d) a közlekedési hatóság ellenőre,
@@ -372,7 +372,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 #### 30. A bíróság hatásköre és illetékessége
 
-41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes helyi bíróság jár el. A törvényszék elnöke ezekre az eljárásokra más helyi bíróság illetékességét is megállapíthatja.
+41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el. A törvényszék elnöke ezekre az eljárásokra más járásbíróság illetékességét is megállapíthatja.
 
 (2) Ha a szabálysértési eljárás gyorsabb és eredményesebb lefolytatása indokolja, az eljárás alá vont személy lakóhelye, tartózkodási helye, munkahelye, továbbá a szabálysértés felderítésének helye szerint illetékes bíróság is eljárhat.
 
@@ -380,13 +380,13 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 42. § (1) Az első fokú bíróság végzése ellen benyújtott fellebbezést másodfokon a törvényszék tanácsülésen bírálja el.
 
-(2) A szabálysértési hatóság határozata ellen benyújtott kifogást az ügyben érdemi határozatot hozó szabálysértési hatóság székhelye szerinti helyi bíróság bírálja el.
+(2) A szabálysértési hatóság határozata ellen benyújtott kifogást az ügyben érdemi határozatot hozó szabálysértési hatóság székhelye szerinti járásbíróság bírálja el.
 
-(3) A szabálysértési hatóság eljárása, határozatai és intézkedései ellen az ügyész e törvényben meghatározott intézkedését – ha azzal a szabálysértési hatóság nem ért egyet – a szabálysértési hatóság székhelye szerinti helyi bíróság bírálja el.
+(3) A szabálysértési hatóság eljárása, határozatai és intézkedései ellen az ügyész e törvényben meghatározott intézkedését – ha azzal a szabálysértési hatóság nem ért egyet – a szabálysértési hatóság székhelye szerinti járásbíróság bírálja el.
 
-(4) E törvény alkalmazásában helyi bíróság alatt a városi és kerületi bíróságot is érteni kell.
+(4) E törvény alkalmazásában járásbíróság alatt a kerületi bíróságot is érteni kell.
 
-(5) E törvény alkalmazásában a helyi bíróság hatáskörébe tartozó ügyekben bírósági titkár is eljárhat.
+(5) E törvény alkalmazásában a járásbíróság hatáskörébe tartozó ügyekben bírósági titkár is eljárhat.
 
 (6) Ha vitás, hogy több bíróság közül melyik köteles eljárni, az eljáró bíróságot a törvényszék másodfokú tanácsa határozatban jelöli ki. Ha az illetékességi összeütközés különböző törvényszékek területén lévő bíróságok között merül fel, akkor a magasabb szintű bíróság jár el. E határozat ellen nincs helye jogorvoslatnak.
 
@@ -410,7 +410,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (3) A (2) bekezdés szerint eljárva
 
-- a) a kormányhivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
+- a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
 - b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a vámszabálysértéseket;
 - c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
 
@@ -484,7 +484,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (5) A kizárás indokoltságáról a bíróság elnöke igazgatási jogkörben vagy a bíróság másik tanácsa tárgyaláson kívül dönt. Az elnök igazgatási jogköre az esetben áll fenn, ha a bíró a kizárási okot maga jelentette be vagy a bíró a kizárásához hozzájárult. Ha az elnök helyt ad a kizárási bejelentésnek, kijelöli a továbbiakban eljáró bírót. Ha a kizárás iránti bejelentés elnöki igazgatási jogkörben nem intézhető el, a bíróság másik tanácsa tárgyaláson kívül dönt. A bíróság elnökének, illetve másik tanácsának döntésével szemben önálló fellebbezésnek nincs helye, az az érdemi határozat ellen bejelentett fellebbezésben támadható.
 
-(6) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan bírája, akire nem vonatkozik kizárási ok, a kizárásról a törvényszék tanácsülésen határoz. Ha helyt ad a kizárási bejelentésnek, az illetékességi területén működő másik helyi bíróságot jelöl ki.
+(6) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan bírája, akire nem vonatkozik kizárási ok, a kizárásról a törvényszék tanácsülésen határoz. Ha helyt ad a kizárási bejelentésnek, az illetékességi területén működő másik járásbíróságot jelöl ki.
 
 ### IX. Fejezet — A SZABÁLYSÉRTÉSI ELJÁRÁSBAN RÉSZT VEVŐ SZEMÉLYEK
 
@@ -694,11 +694,13 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (4) A szabálysértési őrizet a (3) bekezdésben meghatározott esetben a másodfokú bíróság végzésének meghozataláig, illetve a nem jogerősen kiszabott szabálysértési elzárás tartamáig, de legfeljebb a meghosszabbítástól számított tíz napig tart.
 
-(5) A szabálysértési őrizettel és az annak tartamát meghosszabbító végzéssel szemben az eljárás alá vont személy és az eljárás alá vont személy képviselője a kihirdetéskor fellebbezést jelenthet be. A szabálysértési őrizettel szemben benyújtott fellebbezést a helyi bíróság a tárgyaláson bírálja el. A szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést a törvényszék az érdemi végzés ellen bejelentett fellebbezéssel együtt bírálja el.
+(5) A szabálysértési őrizettel és az annak tartamát meghosszabbító végzéssel szemben az eljárás alá vont személy és az eljárás alá vont személy képviselője a kihirdetéskor fellebbezést jelenthet be. A szabálysértési őrizettel szemben benyújtott fellebbezést a járásbíróság a tárgyaláson bírálja el. A szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést a törvényszék az érdemi végzés ellen bejelentett fellebbezéssel együtt bírálja el.
 
 (6) A szabálysértési őrizet elrendeléséről az eljárás alá vont személy által megjelölt hozzátartozót, ennek hiányában az eljárás alá vont személy által megjelölt más személyt a rendőrség haladéktalanul értesíti.
 
 (7) A katona szabálysértési őrizetbe vételéről a parancsnokát is értesíteni kell.
+
+(8) A tulajdon elleni szabálysértés elkövetésén tetten ért személyt bárki visszatarthatja, köteles azonban őt a rendőrségnek haladéktalanul átadni.
 
 #### 61. Ruházat, csomag és jármű átvizsgálása
 
@@ -707,6 +709,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (2) Az átvizsgálás megkezdése előtt az érintett személyt fel kell szólítani, hogy a keresett tárgyat önként adja át.
 
 (3) A ruházat átvizsgálását csak az átvizsgálandó személlyel azonos nemű személy végezheti.
+
+(4) A 39. § (2) bekezdés e)–f) és h)–i) pontja szerint helyszíni bírság kiszabására jogosult az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározottak szerint jogosult a ruházat, csomag és jármű átvizsgálására.
 
 #### 62. A lefoglalás
 
@@ -1128,7 +1132,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 106. § (1) A szabálysértési hatóság elutasítja az elkésett vagy nem a jogosult által előterjesztett kifogást. E határozat ellen nincs helye jogorvoslatnak.
 
-(2) Ha a szabálysértési hatóság a kifogással támadott határozatát nem változtatja meg, a kifogás hatósághoz történő beérkezését követő nyolc – a bizonyítási eljárás lefolytatása esetén tizenöt – napon belül az iratokat a kifogás elbírálására megküldi a 42. § (2) bekezdése szerinti helyi bíróságnak. Az ismételt kifogást a szabálysértési hatóság haladéktalanul megküldi a helyi bíróságnak.
+(2) Ha a szabálysértési hatóság a kifogással támadott határozatát nem változtatja meg, a kifogás hatósághoz történő beérkezését követő nyolc – a bizonyítási eljárás lefolytatása esetén tizenöt – napon belül az iratokat a kifogás elbírálására megküldi a 42. § (2) bekezdése szerinti járásbíróságnak. Az ismételt kifogást a szabálysértési hatóság haladéktalanul megküldi a járásbíróságnak.
 
 #### 88. Általános szabályok a bíróság előtti eljárásban
 
@@ -1301,9 +1305,9 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (2) Az eljárás alá vont személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami szabálysértési felelősségének megállapítására, szabálysértésének súlyosabb minősítésére, a büntetésének súlyosítására, illetve a vele szemben büntetés helyett alkalmazott intézkedésnél súlyosabb intézkedés alkalmazására, vagy az ilyen intézkedés helyett büntetés kiszabására irányul.
 
-123. § (1) A törvényszék a helyi bíróság végzését hatályban tartja, a súlyosítási tilalomra vonatkozó rendelkezések megtartásával megváltoztatja, vagy hatályon kívül helyezi, és az eljárást megszünteti, illetve az eljárt bíróságot új eljárásra utasítja.
+123. § (1) A törvényszék a járásbíróság végzését hatályban tartja, a súlyosítási tilalomra vonatkozó rendelkezések megtartásával megváltoztatja, vagy hatályon kívül helyezi, és az eljárást megszünteti, illetve az eljárt bíróságot új eljárásra utasítja.
 
-(2) A törvényszék az ügy iratait határozatának kiadmányával haladéktalanul visszaküldi a helyi bíróságnak.
+(2) A törvényszék az ügy iratait határozatának kiadmányával haladéktalanul visszaküldi a járásbíróságnak.
 
 #### 96. A bíróság elé állítás
 
@@ -1326,6 +1330,16 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (6) A fellebbezésre vonatkozó nyilatkozatokat követően a bíróság a végzését nyomban írásba foglalja és kézbesíti az eljárás alá vont személynek, az eljárás alá vont személy képviselőjének, valamint a rendőrség képviselőjének.
 
 126. § A végzéssel szembeni fellebbezés elintézésére az e törvényben foglalt rendelkezéseket értelemszerűen alkalmazni kell a bíróság elé állítás eredményeként hozott végzés elleni fellebbezés esetében is azzal, hogy a törvényszék a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.
+
+#### 96/A. A helyszíni bírság kiszabására jogosultak által történő bíróság elé állítás
+
+126/A. § (1) A 39. § (2) bekezdés e) és f), valamint h) és i) pontjában meghatározott személy szabálysértési elzárással is büntethető azon szabálysértések esetén, ahol a helyszíni bírság kiszabására jogosult személy a szabálysértés elkövetésén tetten ért személyt – ha a tárgyalás megtartásának nincsen akadálya – az elkövetés helye szerint illetékes járásbíróságra előállíthatja. Előállítás esetén a bíróság részére a feljelentést előterjeszti, a rendelkezésre álló bizonyítékokat a bíróságnak átadja, valamint javaslatot tesz a büntetés mértékére.
+
+(2) Az (1) bekezdésben meghatározott személy gondoskodik arról, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, továbbá közli az eljárás alá vont személlyel, hogy milyen szabálysértés miatt és milyen bizonyítékok alapján állítja bíróság elé.
+
+(3) A bíróság nem tart tárgyalást, ha megállapítja, hogy az előállítás nem volt jogszerű. Ha a tárgyalás megtartásának nincs akadálya, akkor a 125. § (3) bekezdése szerint jár el.
+
+(4) A végzés ellen az (1) bekezdésben meghatározott személy az e törvényben meghatározott jogorvoslattal élhet.
 
 ### XVIII. Fejezet — A PERÚJÍTÁS
 
@@ -1503,7 +1517,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (4) A helyszíni bírságot kiszabó szerv a nála keletkezett iratok megküldésével – ha nem azonos a szabálysértés miatt eljáró hatósággal – értesíti a lakóhely szerinti általános szabálysértési hatóságot, valamint a szabálysértési nyilvántartó szervet a helyszíni bírság kiszabásáról.
 
-(5) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, a szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi az illetékes helyi bíróságnak.
+(5) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, a szabálysértési hatóság a meg nem fizetett bírság szabálysértési elzárásra átváltoztatásának szükségessége esetén az ügy iratait haladéktalanul megküldi az illetékes járásbíróságnak.
 
 (6) A bíróság a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásáról az iratok bíróságra érkezésétől számított harminc napon belül tárgyaláson dönt.
 

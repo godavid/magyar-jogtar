@@ -365,7 +365,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 ### A hatóság költségvetése és gazdálkodása
 
-34. § (1) A hatóság fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése a társadalmi felzárkózásért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez.
+34. § (1) A hatóság fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez.
 
 (2) A hatóság tárgyévi költségvetésének kiadási és bevételi fő összegei – az államháztartásról szóló törvényben meghatározott, az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetve annak következményei elhárítása érdekében meghozott átmeneti intézkedés, valamint a hatóság saját vagy irányító szervi hatáskörében meghozott intézkedése kivételével – kizárólag az Országgyűlés által csökkenthetők.
 

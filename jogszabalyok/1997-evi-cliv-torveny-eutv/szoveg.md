@@ -64,7 +64,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 - n) életmentő beavatkozás: sürgős szükség esetén a beteg életének megmentésére irányuló egészségügyi tevékenység;
 - o) életfenntartó beavatkozás: a beteg életének mesterséges módon történő fenntartására, illetve egyes életműködéseinek pótlására irányuló egészségügyi tevékenység;
 - p) egészségügyi dokumentáció: az egészségügyi szolgáltatás során az egészségügyi dolgozó tudomására jutó, a beteg kezelésével kapcsolatos egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
-- q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
+- q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés vagy felsőoktatási szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 - r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
 - s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a letelepedett, valamint a bevándorolt jogállású személy, továbbá a külön jogszabály értelmében menekültnek minősülő személy;
 - t) korlátozottan cselekvőképes beteg: akit a bíróság a Ptk. rendelkezéseinek megfelelően általános jelleggel vagy az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében cselekvőképességet korlátozó gondnokság alá helyezett, valamint az a kiskorú személy, aki a tizennegyedik életévét már betöltötte és nem cselekvőképtelen. Az ilyen személy egészségügyi ellátással kapcsolatos jognyilatkozataira – ha törvény kivételt nem tesz – a Ptk.-ban foglalt szabályok irányadóak;
@@ -74,11 +74,13 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
   - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban felügyeleti szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
   - wb) egyházi jogi személy vagy jogi személyiséggel nem rendelkező egyházi egészségügyi szolgáltató esetén az alapító okiratban fenntartóként megjelölt egyházi jogi személy,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
-  - wd) más szervezet egészségügyi szolgáltató egységeként működő gyógyintézet esetén a tulajdonosi jogokat gyakorló szervezet;
+  - wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
+  - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet.
 - x) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - y) egészségügyi tevékenység: az egészségügyi szolgáltatás részét képező minden tevékenység, kivéve azon tevékenységeket, amelyek végzéséhez nem szükséges
   - ya) egészségügyi szakképesítés vagy
-  - yb) egészségügyi szakképesítéssel rendelkező személy szakmai felügyelete.
+  - yb) egészségügyi szakképesítéssel rendelkező személy szakmai felügyelete;
+- z) fenntartói jogkör gyakorlója: a 155. § (1) bekezdésében meghatározott fenntartói jogok egy részét vagy összességét gyakorló szerv.
 
 ### 4. CÍM — A törvény hatálya
 
@@ -1433,7 +1435,7 @@ ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá 
 
 (16) A működési nyilvántartást vezető szerv
 
-- a) a külön jogszabályban meghatározott, bizonyítványok és oklevelek elismerését vagy egészségügyi tevékenység gyakorlására irányuló jogosultság ellenőrzését végző külföldi szerv részére annak megkeresése esetén – az egészségügyi tevékenység végzéséhez szükséges egészségügyi szakképesítések megszerzését igazoló oklevelek, bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok elismerése során, az elismerés jogszabályban meghatározott feltételeit képező adatok körében – tájékoztatást nyújt a működési nyilvántartásban szereplő egészségügyi dolgozókra vonatkozó, a működési nyilvántartásba felvett adatokról, valamint az azokban bekövetkezett változásokról,
+- a) a bizonyítványok és oklevelek elismerését vagy egészségügyi tevékenység gyakorlására irányuló jogosultság ellenőrzését végző külföldi szerv részére, annak megkeresése esetén – az egészségügyi tevékenység végzéséhez szükséges egészségügyi szakképesítések megszerzését igazoló oklevelek, bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok elismerésével összefüggésben – tájékoztatást nyújt az egészségügyi dolgozókra vonatkozó, az alap- és működési nyilvántartásban szereplő, az egészségügyi tevékenységvégzésre való jogosultsággal összefüggő adatokról, valamint az azokban bekövetkezett változásokról, illetve a külföldi szerv erre irányuló megkeresése esetén az azok alapjául szolgáló tényekről,
 - b) az a) pont szerinti szervtől származó, az egészségügyi dolgozó egészségügyi tevékenységvégzési jogosultságát érintő adatokat kezeli és nyilvántartja, továbbá etikai vétség gyanúja esetén az egészségügyi dolgozó működési nyilvántartásában szereplő, bárki számára megismerhető adataival együtt megküldi a 140/B. § szerinti szerv részére,
 - c) a 140/B. § szerinti etikai eljárás eredményéről tájékoztatja az a) pont szerinti szervet, amennyiben az a b) pont szerinti olyan adatot küldött, ami alapján etikai eljárás indult.
 
@@ -1481,7 +1483,7 @@ kell alkalmazni.
 
 (3) Az alapnyilvántartás az alábbi adatokat tartalmazza:
 
-- a) a szakképesítést szerzett neme, természetes személyazonosító adatai, állampolgársága, lakóhelye és tartózkodási helye;
+- a) a szakképesítést szerzett neme, természetes személyazonosító adatai, egészségügyi tevékenység során használt neve, állampolgársága, lakóhelye és tartózkodási helye;
 - b) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
 - c) az egészségügyi dolgozó alapnyilvántartási száma.
 
@@ -1500,11 +1502,11 @@ kell alkalmazni.
 (3) Nem vehető fel a működési nyilvántartásba az,
 
 - a) aki nem szerepel az alapnyilvántartásban,
-- b) aki a (4) bekezdés a) pontjában foglalt adatok közlését megtagadja,
+- b) aki a (4) bekezdés foglalt adatok közlését megtagadja,
 - c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
 - d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, illetve aki az ezen tények fenn nem állása tekintetében a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti,
 - e) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
-- f) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+- f) akit az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 - g) aki a 113. § (5) bekezdése szerinti nyilatkozattételi kötelezettségét nem teljesíti,
 - h) aki a 112/A. § (3) bekezdésében foglalt hozzájárulást nem adja meg,
 - i) akit korábban azért töröltek a működési nyilvántartásból, mert
@@ -1519,17 +1521,22 @@ a törléstől számított egy évig,
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
 - a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
-- b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
+- b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
 - c) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, e törvény és jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye,
 - d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállított bizonyítvány vagy azzal egyenértékű okirat száma, kiállításának helye és ideje, a kiállító szerv megnevezése, valamint az e törvényben meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése,
 - e) a korlátozott alkalmasság ténye,
-- f) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe, a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez, a munkavégzésre irányuló jogviszony jellege, a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint – alkalmazott egészségügyi dolgozó esetén – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,,
+- f) munkavégzéssel kapcsolatos adatok:
+  - fa) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe,
+  - fb) a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez,
+  - fc) a munkavégzésre irányuló jogviszony jellege, kezdő időpontja, határozott idejű foglalkoztatás esetében annak végdátuma vagy a jogviszony határozatlan jellege,
+  - fd) a szolgáltató ellátási szintje (alapellátás, járóbeteg-ellátás, fekvőbeteg-ellátás), valamint
+  - fe) alkalmazott egészségügyi dolgozó esetén az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, a heti munkaidő,
 - g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 - h) a tudományos fokozat,
 - i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése,
 - j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának és elévülése időpontjának megjelölésével együtt,
 - k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
-- l) a külföldi munkavégzés helye, időtartama,
+- l) a külföldi munkavégzés helye, időtartama és a szakterület megnevezése, amely területen az egészségügyi dolgozó a munkát végzi,
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
 - n) a 110. § (16) bekezdés b) pontja szerint kapott, az egészségügyi dolgozó külföldi tevékenységvégzési jogosultágát érintő adat.
 
@@ -1541,7 +1548,7 @@ a törléstől számított egy évig,
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
 
-(5) A (4) bekezdés b)–c), e)–f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
+(5) A (4) bekezdés b)–c), e), fa)–fb) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
 
 (6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 
@@ -1590,7 +1597,7 @@ a törléstől számított egy évig,
 - a)
 - b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 - c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
-- d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+- d) akit az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 - e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
 - f) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg,
 - g) aki elhalálozott,
@@ -1615,7 +1622,7 @@ a törléstől számított egy évig,
 
 - a) a 112. § (4) bekezdés a)–c), e), g) és j)–l) pontjai szerinti adatokat,
 - b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
-- c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének kistérség szerinti megjelölését,
+- c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének járás szerinti megjelölését,
 - d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 - e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettekre, a szakvizsgát tett személyekre vonatkozó adatokat, valamint a 116/A. § (5) bekezdés d) pontja szerinti adatokat,
 - f) a d) és e) pontokban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
@@ -1651,27 +1658,27 @@ a törléstől számított egy évig,
 
 (2) Az egészségügyi ágazati szakmai képzés fajtái:
 
-- a) egészségügyi szakirányú szakmai képzés,
+- a)
 - b) egészségügyi felsőfokú szakirányú szakmai képzés,
 - c) egészségügyi szakmai továbbképzés,
 - d) egészségügyi szakirányú szakmai továbbképzés.
 
-116. § (1) Az egészségügyi szakirányú szakmai képzés a külön jogszabályban meghatározott szakirányok szerinti speciális elméleti és gyakorlati ismeretet adó képzés, amely a képesítéshez kötött munkakör betöltésére jogosít.
+116. §
 
-(2) Az egészségügyi szakirányú szakmai képzésben az vehet részt, aki a külön jogszabályban meghatározottak szerint
+116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki
 
-- a) a felsőoktatási alapképzés orvos- és egészségtudomány képzési területén egészségügyi végzettséget és szakképzettséget szerzett és
-- b) egészségügyi szolgáltatónál munkavégzésre irányuló jogviszonyban áll.
+- a) a felsőoktatási alapképzés orvos- és egészségtudomány képzési területén egészségügyi szakképzettséget szerzett,
+- b) felsőoktatási ciklusokra bontott osztott mesterképzési szakon szakképzettséget vagy
+- c) felsőoktatási egységes osztatlan mesterképzési szakon orvos- és egészségtudomány képzési területen szakképzettséget szerzett és egészségügyi szolgáltatónál munkavégzésre irányuló jogviszonyban áll.
 
-(3) A képzési idő legalább 12, legfeljebb 36 hónap. Az egészségügyi szakirányú szakmai képzés vizsgával zárul, amelynek sikeres letételéről a vizsgáztatásra miniszter által feljogosított szerv szakmai képesítést tanúsító bizonyítványt állít ki.
+(2) A képzési idő
 
-116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben szakorvos, szakfogorvos, szakgyógyszerész szakterületen az vehet részt, aki az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben meghatározottak szerint a felsőfokú végzettségi szintenként mesterfokozatot és orvos, fogorvos, gyógyszerész szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll.
+- a) az (1) bekezdés a) és b) pontja szerinti képzésben részt vevő számára legalább 12, legfeljebb 48 hónap,
+- b) az (1) bekezdés c) pontja szerinti képzésben részt vevő számára legalább 24, legfeljebb 72 hónap.
 
-(2) Minden olyan szakterületen, amely nem tartozik a (1) bekezdésben felsoroltak közé, az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki a felsőoktatási mesterképzésben külön jogszabályban meghatározottak szerinti szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll, továbbá megfelel az adott felsőfokú szakirányú szakmai képzéshez szükséges külön jogszabály szerinti részvételi követelményeknek.
+(3) Az egészségügyi felsőfokú szakirányú szakmai képzés szakvizsgával zárul. A szakvizsga sikeres letételéről az egészségügyi államigazgatási szerv az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló miniszteri rendeletben meghatározottak szerint szakmai szakvizsga-bizonyítványt állít ki.
 
-(3) Az egészségügyi felsőfokú szakirányú szakmai képzés szakvizsgával zárul, a szakvizsgáztatást az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) szervezi külön jogszabályban meghatározottak szerint. A szakvizsga sikeres letételéről az ESZTT külön jogszabályban meghatározottak szerint szakmai szakvizsga bizonyítványt állít ki.
-
-(4) Az egészségügyi felsőfokú szakirányú szakmai képzés költségvetési forrásának kezelése érdekében az egészségügyi államigazgatási szerv nyilvántartást vezet, az államilag támogatott egészségügyi felsőfokú szakirányú szakmai képzésben részt vevő személyekről.
+(4) A szakorvos-, szakfogorvos-, szakgyógyszerész- és szakpszichológus-képzés költségvetési forrásának kezelése érdekében az egészségügyi államigazgatási szerv nyilvántartást vezet, az államilag támogatott képzésben részt vevőről.
 
 (5) A (4) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -1683,7 +1690,7 @@ a törléstől számított egy évig,
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
-(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a szakorvosjelöltnek az (5) bekezdés d) pontja szerinti adatairól.
+(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az
 
@@ -1693,7 +1700,7 @@ a törléstől számított egy évig,
 
 (8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
 
-(9) Az ESZTT a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.
+(9) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.
 
 116/B. § (1) Az egészségügyi ellátás megfelelő szakmai színvonalának biztosítása érdekében – a megszerzett ismeretek és készségek folyamatos szinten tartása, fejlesztése érdekében, a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően – az egészségügyi tevékenységet önállóan végző, egészségügyi szakképesítéssel rendelkező személyek (a továbbiakban: továbbképzésre kötelezett) egészségügyi szakmai továbbképzésben (a továbbiakban: továbbképzés) kötelesek részt venni.
 
@@ -1726,40 +1733,16 @@ a törléstől számított egy évig,
 
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
-- a) a szakképzésről szóló külön jogszabályok alapján alap-, közép-, emeltszintű, illetve felsőfokú szakképesítéssel,
-- b) egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudomány képzési terület alapképzési szakán szerzett szakképzettséggel, vagy
-- c) felsőfokú szakirányú szakmai képesítéssel rendelkezik, és megfelel az adott egészségügyi szakirányú szakmai továbbképzéshez szükséges, külön jogszabályban meghatározott részvételi követelményeknek.
+- a) a szakképzésről szóló törvény alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
+- b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel vagy egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezik, és megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek.
 
-(4) Az egészségügyi szakirányú szakmai továbbképzés képzési ideje
+(4)
 
-- a) a (3) bekezdés a) pontja alá tartozók esetében legalább 2 hónap, legfeljebb 6 hónap,
-- b) a (3) bekezdés b) és c) pontja alá tartozók esetében legalább 4, legfeljebb 12 hónap, amelynek során az egészségügyi szakirányú szakmai továbbképzésben részt vevő személynek elméleti és gyakorlati képzésben kell részt vennie.
+(5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről az egészségügyi államigazgatási szerv egészségügyi szakmai tevékenység végzésére jogosító tanúsítványt állít ki.
 
-(5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről
+117. § (1)–(4)
 
-- a) a (3) bekezdés a) és b) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
-- b) a (3) bekezdés c) pontjában meghatározott személyek tekintetében az ESZTT egészségügyi szakmai tevékenység végzésére jogosító bizonyítványt állít ki.
-
-117. § (1) Az ESZTT
-
-- a) egészségügyi ágazati szakmai képzés tekintetében a miniszter döntés-előkészítő, véleményező, javaslattevő testületeként működik, amely a (2) bekezdésben meghatározott ügyekben döntési joggal rendelkezik, továbbá
-- b) ellátja
-  - ba) az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos,
-  - bb) a 116/D. § (3) bekezdése c) pontjában meghatározott személyek tekintetében az egészségügyi szakirányú szakmai továbbképzést lezáró vizsgáztatással kapcsolatos,
-  - bc) a felsőfokú szakirányú szakmai képesítés megszerzését tanúsító szakvizsga-bizonyítvány, a bb) pontban meghatározott személyek tekintetében egészségügyi szakmai tevékenység végzésére jogosító okirat kiállításával összefüggő feladatokat.
-  - bd)
-
-(2) Az ESZTT dönt
-
-- a)
-- b) az egyes továbbképzések pontértékéről és
-- c) az egészségügyi felsőfokú szakirányú szakmai képzés tekintetében az egyes szakvizsgabizottságok összetételéről.
-
-(3) Az ESZTT 16 tagból és egy elnökből áll, tagjait a miniszter bízza meg, oly módon, hogy az érintett oktatási intézmények, szakmai kamarák, szakmai szervezetek, szakmai kollégiumok képviselete a külön jogszabályban meghatározottak szerint biztosított legyen.
-
-(4) Az ESZTT munkájában meghívottként részt vesz az oktatásért felelős miniszter képviselője.
-
-(5) Az ESZTT elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
+(5) Az egészségügyi államigazgatási szerv elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
 
 (6) A nyilvántartás tartalmazza:
 
@@ -2080,6 +2063,14 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 költségének fedezetét.
 
+(3a) Az egészségbiztosítási szerv – az E. Alapnak e címen adott költségvetési hozzájárulás előirányzatának erejéig – finanszírozza az adott egészségügyi szolgáltatásra meghatározott finanszírozási rendszer szerint
+
+- a) a (2) bekezdés a) pontja alapján végzett szolgáltatásokat, amennyiben a kötelezően elrendelt járványügyi intézkedést az egészségbiztosítási szervvel szerződött egészségügyi szolgáltatónál foganatosítják,
+- b) az a) pont szerinti ellátásokkal összefüggő egészségügyi szolgáltatásokat,
+- c) a (3) bekezdés b) pontjában meghatározott ellátások máshonnan meg nem térülő költségét,
+- d) a (3) bekezdés c) pontjában foglalt szolgáltatásokat, és
+- e) a (3) bekezdés g) pontja alapján végzett egészségügyi szolgáltatásokat.
+
 (4) Az Egészségbiztosítási Alap költségvetésén keresztül kerül biztosításra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben (a továbbiakban: Ebtv.) meghatározott egészségbiztosítási ellátások fedezete.
 
 (5) A (3) bekezdés d) pontja szerinti ellátásra – a központi költségvetés terhére – a Magyarországon lakó-, illetve tartózkodási hellyel rendelkező magyar állampolgár és a vele biztosítási jogviszony tekintetében egy elbírálás alá eső, továbbá nemzetközi szerződés alapján az ellátásra jogosult nem magyar állampolgár jogosult. Ha jogszabály másként nem rendelkezik, az egészségügyi ellátás finanszírozása tekintetében e törvény rendelkezéseit kell alkalmazni magyar állampolgár külföldön végzett szervtranszplantációjára is.
@@ -2156,7 +2147,7 @@ költségének fedezetét.
 - a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
 - b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy képviselője, valamint ezen túlmenően a térségben működő népegészségügyi szakigazgatási szervek egy közös képviselője,
 - c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
-- d) a térségben található kistérségekben levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
+- d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 - e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
 - f) azon egyházak egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
@@ -2254,7 +2245,8 @@ költségének fedezetét.
 - d) az intézmény vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint az egyéb munkáltatói jogok gyakorlása,
 - e) az intézmény gazdasági vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint a díjazás megállapítása,
 - f) az intézmény működését szabályozó dokumentumok (pl. szervezeti és működési szabályzat, házirend, szakmai program, munkaterv) jóváhagyása,
-- g) az intézmény működésének szakmai, illetve költségvetési ellenőrzése.
+- g) az intézmény működésének szakmai, illetve költségvetési ellenőrzése,
+- h) a törvényben vagy kormányrendeletben a fenntartó részére meghatározott egyéb szakmai feladatok ellátása (szakmai fenntartói jogok).
 
 (2) Az egészségügyi intézmény fenntartója a külön törvényben foglaltaknak megfelelően köteles biztosítani az általa fenntartott egészségügyi intézményben
 
@@ -2265,12 +2257,26 @@ költségének fedezetét.
 
 (3) Az állam tulajdonában és fenntartásában levő egészségügyi intézmények esetében egyes fenntartói jogok, valamint az államháztartásról szóló törvényben felsorolt, az egyes költségvetési szervekre vonatkozó irányítói hatáskörök a fenntartói jogok gyakorlására rendeletben kijelölt szervezet részére jogszabályban meghatározottak szerint átadhatóak.
 
-(4) Az állam tulajdonában és fenntartásában lévő fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében – azon egészségügyi szolgáltatók kivételével, amelyek nem az egészségügyért felelős miniszter irányítása alá tartoznak vagy fenntartásában vannak – az (1) bekezdésben foglalt jogkörök közül a miniszter kizárólagos irányítási jogkörébe tartozik az egyes fenntartói jogokat gyakorló szervezet javaslatára
+(4) Az állam tulajdonában és fenntartásában lévő fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében – azon egészségügyi szolgáltatók kivételével, amelyek nem az egészségügyért felelős miniszter irányítása alá tartoznak vagy fenntartásában vannak – az (1) bekezdésben foglalt fenntartói jogok közül a miniszter kizárólagos jogkörébe tartozik a fenntartói jogkört gyakorló szervezet javaslatára
 
 - a) az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása,
 - b) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások jóváhagyása,
 - c) a költségvetési irányítás tekintetében az intézmények éves költségvetési keretszámainak megállapítása és költségvetésének jóváhagyása, valamint az államháztartási törvény és végrehajtási rendelete szerint az irányító szerv jogkörébe tartozó és a középirányító szerv részére át nem adott intézkedések megtétele,
 - d) az intézmény vezetője, gazdasági igazgatója tekintetében a munkáltatói jogok gyakorlása közül a kinevezés vagy megbízás és felmentés vagy a megbízás visszavonása, illetve – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése.
+
+(5) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója tekintetében – az (1) bekezdésben foglaltaktól eltérően – az alábbi eljárások vonatkozásában az egészségügyért felelős miniszter jár el – a fenntartó javaslatának és véleményének figyelembevételével – a fenntartói jogkör gyakorlójaként:
+
+- a) az egészségügyi szolgáltató szakmai felügyelete,
+- b) az egészségügyi szolgáltató által kötendő egészségügyi ellátási szerződés jóváhagyása,
+- c) az egészségügyi szolgáltató kapacitásainak tartós kihasználatlanság miatti csökkentése, szakmai összetételének megváltoztatása,
+- d) az egészségügyi szolgáltató ellátási területének módosítása,
+- e) az egészségügyi szolgáltató szakellátási kapacitásainak átcsoportosítása,
+- f) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
+- g) az egészségügyi szolgáltató finanszírozási szerződése megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának jóváhagyása,
+- h) az egészségügyi szolgáltatónak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
+- i) az egészségügyi szolgáltató működését szabályozó dokumentumok jóváhagyása,
+- j) az egészségügyi szolgáltató működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti rendelési idő tekintetében, valamint
+- k) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás. A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -2376,18 +2382,20 @@ költségének fedezetét.
 
 164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
-(2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
+(2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
 
-(3) A (2) bekezdéstől eltérően az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
+(3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
 
 - a) a más EGT-tagállamot nem érintő vagy nem hatósági határozat végrehajtása érdekében végzett vizsgálatok megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított 60 napon belül kell dönteni,
 - b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított 45 napon belül kell dönteni.
 
 (4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
+(5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv dönt.
+
 164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
-164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a gyógyszer alkalmazására ösztönöz.
+164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a a gyógyszer vagy orvostechnikai eszköz alkalmazására ösztönöz.
 
 (2) Az egészségügyi szakembereknek a beavatkozással nem járó engedélyezés utáni gyógyszerbiztonsági vizsgálatokban való részvételükért nyújtott kifizetéseket az idejük ellentételezésére és a gyógyszerbiztonsági vizsgálatokkal kapcsolatosan felmerült, indokolt és igazolt költségeik megtérítésére kell korlátozni.
 
@@ -2830,7 +2838,7 @@ van helye.
 
 (2) Az e fejezetben szabályozott nemperes eljárások tárgyi költségmentesek.
 
-(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti helyi bíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára vonatkozó eljárásban a pszichiátriai intézet székhelye szerinti helyi bíróság illetékes.
+(3) A kötelező pszichiátriai gyógykezelés elrendelésére irányuló eljárásra a beteg lakóhelye vagy tartózkodási helye szerinti járásbíróság illetékes. A pszichiátriai intézeti gyógykezelés felülvizsgálatára vonatkozó eljárásban a pszichiátriai intézet székhelye szerinti járásbíróság illetékes.
 
 (4) A bírósági eljárásban biztosítani kell a beteg megfelelő képviseletét. A beteg képviseletére a beteg vagy törvényes képviselője meghatalmazása alapján a betegjogi képviselő is jogosult. Ha a betegnek az eljárás során nincs törvényes vagy meghatalmazott képviselője, részére a bíróság ügygondnokot rendel ki.
 
@@ -2844,7 +2852,7 @@ van helye.
 
 (9) A sürgősségi gyógykezelés során a kötelező intézeti gyógykezelést elrendelő határozat ellen benyújtott fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
 
-(10) Amennyiben az igazságügyi elmeorvos-szakértői vélemény szerint a beteg ügyei viteléhez szükséges belátási képessége csökkent vagy hiányzik, a bíróság a szakértői véleményt megküldi a gyámhivatalnak a gondnokság alá helyezési eljárás megindítása céljából.
+(10) Amennyiben az igazságügyi elmeorvos-szakértői vélemény szerint a beteg ügyei viteléhez szükséges belátási képessége csökkent vagy hiányzik, a bíróság a szakértői véleményt megküldi a gyámhatóságnak a gondnokság alá helyezési eljárás megindítása céljából.
 
 201/A. § (1) A 196. § b) és c) pontja szerinti sürgősségi vagy kötelező gyógykezelés szükségességének esetén a beteget az igénybevétel alapjául szolgáló jogviszonytól függetlenül meg kell vizsgálni és gyógykezelésben kell részesíteni.
 
@@ -3339,7 +3347,12 @@ végezhető el. Ezek során szervet, szövetet csak a halál okának és körül
 - c) kórisme megállapítása, továbbá
 - d) kutatás
 
-céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens. Ettől a feltételtől eltekinteni akkor lehet, ha szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
+céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens.
+
+(6a) A (6) bekezdés szerinti feltételtől eltekinteni akkor lehet, ha
+
+- a) az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás eltérően rendelkezik, vagy
+- b) szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
 
 (7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről Magyarország területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele – kivéve az állami vérellátó szolgálat által megkötött egyezményt vagy megállapodást – az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
@@ -3432,9 +3445,13 @@ rendeletben kijelölje.
 - h) a nem-konvencionális eljárásokra vonatkozó szabályokat
 - i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az állami mentőszolgálat működésére vonatkozó részletes szabályokat,
 - j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
-- k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a betegjogi, ellátottjogi és gyermekjogi képviselői szervezetre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
+- k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselői szervezetre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
 - l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
-- m) az egészségügyi felsőfokú szakirányú szakképzés szabályait,
+- m) az egészségügyi felsőfokú szakirányú szakképzés tekintetében:
+  - ma) az egészségügyi felsőfokú szakirányú szakképzés szabályait,
+  - mb) a 115. § (2) bekezdés b) és d) pontja szerinti képzéseket lezáró vizsgák szervezését, és a szakvizsga-bizonyítvány, valamint tanúsítvány kiállítását végző szervet,
+  - mc) a szabadon választható elméleti továbbképzések pontértékét megállapító szervet,
+  - md) a szakorvosképzés intézményi akkreditációját végző szervet,
 - n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
 - o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet és a működési nyilvántartást vezető szervet,
 - p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
@@ -3491,7 +3508,7 @@ rendeletben megállapítsa.
   - id) az egészségügyi szakirányú szakmai képzés és az egészségügyi felsőfokú szakirányú szakmai képzés rendszerbevételi eljárásának szabályait, valamint a megszerezhető szakmai képesítéseinek körét,
   - ie) az egészségügyi szakmai továbbképzés részletes szabályait és
   - if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
-- j) az Egészségügyi Szakképzési és Továbbképzési Tanács szervezetére, működésére, feladat- és hatáskörére vonatkozó részletes szabályokat,
+- j)
 - k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
   - ka) az orvostechnikai eszközök alapvető követelményeire,
   - kb) az orvostechnikai eszközökkel kapcsolatos minőségi rendszer szakmai tartalmára,
@@ -3529,7 +3546,7 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter, hogy
 
-- a) az EFE központi és regionális részéből megszerezhető forrásokra irányuló pályázatok eljárási szabályait,
+- a)
 - b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
 - c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
 - d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,

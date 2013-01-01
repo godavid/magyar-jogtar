@@ -66,6 +66,11 @@ valamint a céginformációs szolgálat feladatai
 
 (5) A cégnévnek – a (4) bekezdésen túlmenően – egyértelműen különböznie kell a közhatalmi és közigazgatási szervek hivatalos és a köznyelvben használt elnevezésétől.
 
+(6) A cég elnevezésében nem szerepelhet
+
+- a) olyan személy neve, aki a XX. századi önkényuralmi politikai rendszerek megalapozásában, kiépítésében vagy fenntartásában vezető szerepet töltött be, vagy
+- b) olyan kifejezés vagy olyan szervezet neve, amely a XX. századi önkényuralmi politikai rendszerrel közvetlenül összefüggésbe hozható.
+
 4. § (1) A cégnévben szerepelhet a cégtulajdonosnak vagy a cég tagjainak neve a 3. § (4) bekezdésének megfelelő alkalmazásával.
 
 (2) A cégnévben a cég nonprofit jellegét a cégforma megjelölése előtt fel kell tüntetni, a közhasznú szervezeti minőség pedig feltüntethető.
@@ -75,6 +80,10 @@ valamint a céginformációs szolgálat feladatai
 (4) Külföldi cég magyarországi fióktelepe, külföldiek magyarországi közvetlen kereskedelmi képviselete, valamint európai gazdasági egyesülés telephelye esetén a külföldi vállalkozás nevét a cégnévben meg kell jelölni.
 
 (5) A történelem kiemelkedő személyiségének nevét a Magyar Tudományos Akadémia engedélyével, olyan elnevezést pedig, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a cégnévben szerepeltetni.
+
+(6) A cégbíróság eljárása során vizsgálja a cégnév 3. § (6) bekezdésében foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
+
+(7) A (6) bekezdéstől eltérően nem kell beszerezni a Magyar Tudományos Akadémia állásfoglalását, ha a bejegyzés alapjául szolgáló kérelemből és az okiratokból egyértelműen megállapítható, hogy a bejegyezni kívánt cégnév a cég természetes személy tagjának nevére való utalást tartalmaz.
 
 5. § A cég nevét (rövidített nevét)
 
@@ -493,7 +502,7 @@ megismerhetők.
 
 (11) Végrehajtói iroda esetében
 
-- a) a tagok nevét (cégét), lakóhelyét (székhelyét), az önálló bírósági végrehajtó tag esetében nevét, szolgálati helyét (annak a helyi bíróságnak a megnevezését, amely mellé kinevezték), hivatali helyiségének címét, az illetékességi területe kiterjesztésének tényét és terjedelmét,
+- a) a tagok nevét (cégét), lakóhelyét (székhelyét), az önálló bírósági végrehajtó tag esetében nevét, szolgálati helyét (annak a járásbíróságnak a megnevezését, amely mellé kinevezték), hivatali helyiségének címét, az illetékességi területe kiterjesztésének tényét és terjedelmét,
 - b) az önálló bírósági végrehajtó tag (tagok) szavazati jogának terjedelmét;
 
 (12) Közjegyzői iroda esetében
@@ -809,7 +818,7 @@ hiánypótlás nélküli elutasítása
 
 egyes rendelkezések
 
-53. § (1) A változást illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságon,, ha a változás állami vagy önkormányzati döntés alapján a cég székhelyének (telephelyének, fióktelepének) más megye illetékességi területéhez való csatolására vagy a cégjegyzékbe bejegyzett helységnév, utcanév, illetve házszám változására vonatkozik.
+53. § (1) A változást illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságnak, ha a változás állami vagy önkormányzati döntés alapján a cég székhelyének (telephelyének, fióktelepének) más megye illetékességi területéhez való csatolására vagy a cégjegyzékbe bejegyzett helységnév, utcanév, illetve házszám változására vonatkozik. A cég a változást annak bekövetkezését követő 180 napon belül köteles bejelenteni a cégbíróságnak.
 
 (2) Az adószám, valamint a statisztikai számjel változását az azt megállapító szervezet, a főtevékenység és a további tevékenységi körök változását az állami adóhatóság, a cég pénzforgalmi számlájával kapcsolatos változást pedig a számlát vezető pénzforgalmi szolgáltató közli a cégbírósággal elektronikus úton. A változás bejegyzése – illeték és közzétételi költségtérítés megfizetése nélkül – automatikusan, elektronikus úton történik meg.
 
@@ -1398,7 +1407,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 112. § (1) A végelszámoló köteles gondoskodni a cég iratanyagának elhelyezéséről. Az ezzel kapcsolatos költségeket és a megszűnés utáni iratőrzés költségeit a vagyonfelosztási javaslatban fel kell tüntetni. A vagyonfelosztás során úgy is meg lehet állapodni, hogy a cég iratanyagának őrzését (ingyenesen vagy ellenérték fejében) a tagok (részvényesek) valamelyike vállalja. A cég iratanyagának elhelyezésére egyebekben a Cstv. erre vonatkozó szabályai megfelelően alkalmazandók.
 
-(2) A végelszámoló a külön jogszabályban meghatározott módon köteles a végelszámolás alatt álló cég biztosítottjainak adatait átadni a nyugdíjbiztosítási igazgatási szervnek. A szerv erről szóló igazolását a végelszámoló köteles benyújtani a cégbíróságnak.
+(2) A végelszámoló a társadalombiztosítási jogszabályban meghatározott módon adatszolgáltatást köteles teljesíteni a biztosítottak jogviszonyára vonatkozó nyugdíjbiztosítási adatokról. A biztosítottak 2009. december 31-éig fennállt jogviszonyáról szóló adatokat az illetékes nyugdíjbiztosítási igazgatási szerv részére kell megküldeni. Az említett időpontot követő időszakra a társadalombiztosítási kötelezettséggel járó kifizetésekről az állami adóhatóság részére kell bevallást teljesíteni. A nyugdíjbiztosítási igazgatási szerv és az állami adóhatóság által – az adatszolgáltatási kötelezettség teljesítéséről – kiadott igazolást a végelszámoló köteles megküldeni a bíróságnak.
 
 (3) A 111. §-ban felsorolt iratok jóváhagyása és a vagyonfelosztási határozat elfogadása után a legfőbb szerv dönt a felosztott vagyon kiadásának időpontjáról, amelynek lebonyolítására a végelszámoló köteles. A vagyon kiadására nem kerülhet sor a cég törlésére vonatkozó végzés meghozatalát megelőzően.
 
@@ -1674,6 +1683,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/C. § Ha a cég képviseletére jogosult adatainak bejegyzésére a Módtv2. hatálybalépése napját megelőzően benyújtott cégbejegyzési (változásbejegyzési) kérelem alapján került sor, a kizárólag a cégjegyzés módját igazoló okirat utólagos benyújtása iránti változásbejegyzési eljárásban – a 31/A. § (2) bekezdésétől eltérően – ügyvéd által ellenjegyzett aláírás-minta is csatolható, ha azt a korábbi bejegyzési vagy változásbejegyzési eljárásban a 9. § (3) bekezdésének alkalmazásával már csatolták. Ebben az esetben a korábbi eljárásban már csatolt okiratot kell ismételten benyújtani.
 
+131/D. § Az egyes törvényeknek a XX. századi önkényuralmi rendszerekhez köthető elnevezések tilalmával összefüggő módosításáról szóló 2012. évi CLXVII. törvény (a továbbiakban: Törvény) hatálybalépését megelőzően bejegyzett azon cégek, amelyeknek cégneve vagy rövidített neve nem felel meg a 3. § (6) bekezdésében foglalt előírásnak, a cégjegyzékben vezetett adataik első változásakor, de legkésőbb 2014. január 1-jéig kötelesek cégnevük megváltoztatására.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a gazdasági társaságokról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/101/EK irányelve az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról;
@@ -1897,7 +1908,7 @@ c)
 
 d) nyilatkozat arról, hogy a munkavállalói érdekképviseletet a végelszámolás megindításáról az ügyvezetés tájékoztatta,
 
-e) a nyugdíj-biztosítási igazgatási szerv igazolása a cég biztosítottjai adatainak átadásáról,
+e) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolása a cég biztosítottjai adatainak átadásáról,
 
 f)
 
@@ -1925,7 +1936,7 @@ b) a cég idegen nyelvű elnevezésének hiteles fordítását tanúsító okira
 
 b) önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 
-5. a kiskorú tag (részvényes) képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+5. a kiskorú tag (részvényes) képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
 
 6. ha a vezető tisztségviselők megválasztásához hatósági engedély szükséges ez az okirat;
 
@@ -1955,7 +1966,7 @@ aa)
 
 ab) az üzletrész bírósági határozattal, árveréssel történő megszerzése esetén az erre vonatkozó okirat,
 
-ac) a gyámhivatal jóváhagyó nyilatkozata a kiskorú tag (részvényes) üzletrészének átruházásához,
+ac) a gyámhatóság jóváhagyó nyilatkozata a kiskorú tag (részvényes) üzletrészének átruházásához,
 
 ad) az elővásárlási jog gyakorlásával kapcsolatos nyilatkozatok,
 
@@ -2161,7 +2172,7 @@ c) a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői 
 
 10. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
 
-11. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+11. a kiskorú tag képviseletére vonatkozó gyámhatósági határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
 
 12.
 
