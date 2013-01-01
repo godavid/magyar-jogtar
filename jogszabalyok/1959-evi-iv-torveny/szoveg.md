@@ -582,6 +582,10 @@ Ptk.63. § (1) Az egyesület legfőbb szerve a tagok összessége (taggyűlés) 
 
 (7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés a határozatképtelen ülést követő későbbi időpontra az eredetivel azonos napirenddel hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
 
+### Egyesületek
+
+Ptké.19/A. § A legfőbb szerv megismételt ülésének határozatképességére vonatkozó rendelkezés a megismételt taggyűlés esetében akkor is irányadó, ha az egyesület legfőbb szervének egyébként nem a taggyűlést, hanem az általa legfőbb szervként választott testületet kell tekinteni.
+
 Ptk.64. § (1) Az egyesület megszűnik, ha
 
 - a) az egyesület egy másik egyesülettel egyesül (összeolvad, beolvad),
@@ -1371,7 +1375,7 @@ Ptk.192. § (1) Az a fél, aki a jegyző határozatát sérelmesnek tartja, a ha
 
 Ptké.26. § A birtokvita eldöntéséhez szükséges tényeket annak a félnek kell bizonyítania, akinek érdekében áll, hogy azokat a jegyző valónak fogadja el.
 
-Ptké.27. § (1) A hasznok, károk és költségek kérdésében hozott határozat végrehajtása a birtokvitában eljáró jegyző székhelye szerint illetékes helyi bíróság hatáskörébe tartozik.
+Ptké.27. § (1) A hasznok, károk és költségek kérdésében hozott határozat végrehajtása a birtokvitában eljáró jegyző székhelye szerint illetékes járásbíróság (kerületi bíróság, a továbbiakban együtt: járásbíróság) hatáskörébe tartozik.
 
 (2) A hasznok, károk és költségek kérdésében hozott határozat alapján végrehajtásnak nincs helye akkor, ha az érdekelt fél akár ebben a kérdésben, akár a birtoklás kérdésében keresetet indított.
 
@@ -1383,9 +1387,9 @@ Ptké.28. § (1)
 
 (2) A határozatot sérelmesnek tartó fél az ellenérdekű fél ellen a határozat kézbesítésétől számított tizenöt napon belül indíthat keresetet. A határidő elmulasztása esetén igazolásnak van helye; az igazolás felől a bíróság dönt.
 
-(3) A keresetlevelet akár a jegyzőnél, akár e szerv székhelye szerint illetékes helyi bíróságnál be lehet nyújtani. A jegyző a keresetlevelet az ügyre vonatkozó iratokkal együtt három napon belül köteles a helyi bírósághoz áttenni.
+(3) A keresetlevelet akár a jegyzőnél, akár e szerv székhelye szerint illetékes járásbíróságnál be lehet nyújtani. A jegyző a keresetlevelet az ügyre vonatkozó iratokkal együtt három napon belül köteles a járásbírósághoz áttenni.
 
-(4) Ha a keresetlevelet a helyi bíróságnál nyújtották be, a helyi bíróság az államigazgatási iratok beszerzése iránt intézkedik.
+(4) Ha a keresetlevelet a járásbíróságnál nyújtották be, a járásbíróság az államigazgatási iratok beszerzése iránt intézkedik.
 
 Ptké.29. § Felhatalmazást kap a Kormány, hogy a jegyző hatáskörébe tartozó birtokvédelmi eljárás részletes szabályait rendeletben meghatározza.
 
@@ -4652,7 +4656,7 @@ Ptk.625. § (1) Közvégrendeletet közjegyző vagy bíróság előtt lehet tenn
 
 ### Közvégrendelet tétele bíróságnál
 
-Ptké.71. § Közvégrendeletet helyi bíróság előtt lehet tenni.
+Ptké.71. § Közvégrendeletet járásbíróság előtt lehet tenni.
 
 Ptk.625. § (2) Nem lehet érvényesen közvégrendeletet tenni olyan személy előtt, aki a végrendelkezőnek vagy a végrendelkező házastársának, bejegyzett élettársának hozzátartozója, gyámja vagy gondnoka.
 
