@@ -165,7 +165,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 - a) a kódképzés alapját nem képezik olyan szervezetet vagy természetes személyt azonosító adatok, amelyek kezelésére az MNB jogosult, és
 - b) a kódképzés konkrét, egyedi módszere tartalmaz egyedi, véletlenszerűen megállapított elemet.
 
-(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a kistérségnél pontosabban ne legyen megállapítható.
+(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a járási szintnél pontosabban ne legyen megállapítható.
 
 (11) Az MNB köteles az információk (5) és (6) bekezdés szerinti létrehozásával összefüggésben közvetlenül felmerülő, indokolt költségeket – részletes költségkimutatás alapján – az információt szolgáltató szervezeteknek az információszolgáltatást követően megtéríteni.
 
@@ -241,7 +241,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (5) Az MNB döntését részben vagy egészben a honlapján vagy egyéb módon közzéteheti.
 
-(6) Az MNB döntése ellen fellebbezésnek nincs helye. Az ügyfél az MNB határozatának és önálló jogorvoslattal megtámadható végzésének bírósági felülvizsgálatát kérheti a Fővárosi Törvényszéktől azzal, hogy a bíróság a felülvizsgálat iránti keresetet, kérelmet a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó szabályai szerint, harminc napon belül bírálja el.
+(6) Az MNB döntése ellen fellebbezésnek nincs helye. Az ügyfél az MNB határozatának és önálló jogorvoslattal megtámadható végzésének bírósági felülvizsgálatát kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól azzal, hogy a bíróság a felülvizsgálat iránti keresetet, kérelmet a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó szabályai szerint, harminc napon belül bírálja el.
 
 (7) Az eljárás felfüggesztését az ügyfél nem kérheti.
 
@@ -250,6 +250,8 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 (9) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
 (10) Az MNB az eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (1)–(7) bekezdésében meghatározott alapvető feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.
+
+(10a) Az MNB eljárásában az ügyfél kérelmére nem folytatható le hatósági ellenőrzés.
 
 (11) Olyan kötelezett esetén, amely számára az MNB fizetési számlát vezet, az MNB közvetlen kielégítés útján hajtja be a pénzfizetésre szóló határozatból eredő lejárt tartozást.
 
@@ -489,7 +491,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (4) Az MNB elnökét a 46. § (10) bekezdésben foglaltaknak megfelelően, a miniszterelnök javaslatára a köztársasági elnök menti fel.
 
-(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
 (6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
@@ -794,7 +796,13 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 69–76. §
 
-77. §
+77. § (1) A 46. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.”
+
+(2) A 47. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.”
 
 #### 38. Hatályon kívül helyező rendelkezések
 

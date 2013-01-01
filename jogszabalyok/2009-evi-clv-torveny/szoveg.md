@@ -65,7 +65,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 - l) a Kormány tagja,
 - m) a kormánybiztos, a miniszterelnöki biztos, a kormányhivatal vezetője,
 - n) a Kormány ügyrendje szerint működő testület vezetője,
-- o) a rendvédelmi szerv központi szerve, valamint a Katonai Nemzetbiztonsági Szolgálat vezetője, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vezetője, az idegenrendészeti hatóság vezetője, továbbá a menekültügyi hatóság vezetője.
+- o) a rendvédelmi szerv központi szerve, valamint a Katonai Nemzetbiztonsági Szolgálat vezetője, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vezetője, az Országgyűlési Őrség parancsnoka, az idegenrendészeti hatóság vezetője, továbbá a menekültügyi hatóság vezetője.
 - p) a Nemzeti Biztonsági Felügyelet vezetője,
 - q) Magyarország külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,
 - r) törvény által minősítésre feljogosított személy,
@@ -209,7 +209,7 @@ minősítési szintű.
 
 (2) A megismerési engedély kiadásáról az érintett kérelmére a minősítő 15 napon belül határoz. A megismerési engedély kiadását a minősítő megtagadja, ha az adat megismerése a minősítés alapjául szolgáló közérdek sérelméhez vezet. A megismerési engedély megtagadását a minősítőnek indokolnia kell.
 
-(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Törvényszékhez fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
 
 12. § (1) A minősített adat kezelője az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján az érintettet megillető tájékoztatást megtagadhatja, ha a minősítés alapjául szolgáló közérdeket az érintettnek a személyes adatainak kezelésére vonatkozó tájékoztatása veszélyeztetné.
 
@@ -821,4 +821,4 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
   - a) „EUROJUST TOP SECRET” – „Szigorúan titkos!”;
   - b) „EUROJUST SECRET” – „Titkos!”;
   - c) „EUROJUST CONFIDENTIAL” – „Bizalmas!”;
-  - d) „EUROJUST RESTRICTED” – „Korlátozott terjesztésű!”. n
+  - d) „EUROJUST RESTRICTED” – „Korlátozott terjesztésű!”.

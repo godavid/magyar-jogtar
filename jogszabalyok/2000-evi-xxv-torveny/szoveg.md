@@ -272,19 +272,19 @@ is legyen;
 
 (3) A Központ végzi az OECD tagországok részére a veszélyes anyagokra vonatkozó adatok cseréjét. Az információcsere célja kizárólag a veszélyes anyagokra vonatkozó kockázat elbírálása, illetve az emberi élet és egészség védelme, továbbá a környezetvédelem lehet. Adat kizárólag olyan tagország részére közölhető, amelynek jogszabályai a közölt adat védelmét legalább a hazai jogszabályoknak megfelelően biztosítják.
 
-### A kémiai biztonságot koordináló tárcaközi bizottság
+### A kémiai biztonságot koordináló tanács
 
-25. § (1) A kémiai biztonság irányításának koordinálása, részfeladatainak áttekinthetősége, az egységes és hatékony döntés-előkészítés céljából, a kémiai biztonság biztosításában való aktív nemzeti részvétel elősegítése érdekében tárcaközi bizottság működik.
+25. § (1) A kémiai biztonság irányításának koordinálása, részfeladatainak áttekinthetősége, az egységes és hatékony döntés-előkészítés céljából, a kémiai biztonság biztosításában való aktív nemzeti részvétel elősegítése érdekében tanács működik.
 
-(2) A tárcaközi bizottság kidolgozza a kémiai biztonság nemzeti politikáját és programját – beleértve a közoktatási, illetve felsőoktatási intézmények tanulói, magánszemélyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is –, továbbá koordinálja a nemzeti program végrehajtását.
+(2) A tanács kidolgozza a kémiai biztonság nemzeti politikáját és programját – beleértve a közoktatási, illetve felsőoktatási intézmények tanulói, magánszemélyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is –, továbbá koordinálja a nemzeti program végrehajtását.
 
-(3) A tárcaközi bizottság javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
+(3) A tanács javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
 
-(4) A tárcaközi bizottság tagjai a Kormány rendeletében meghatározott miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett egyesületek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
+(4) A tanács tagjai a Kormány határozatában meghatározott miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett egyesületek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
 
-(5) A tárcaközi bizottság operatív tevékenységét az egészségügyi államigazgatási szervnél működő titkárság segíti.
+(5) A tanács operatív tevékenységét az egészségügyi államigazgatási szervnél működő titkárság segíti.
 
-26. § Amennyiben a 25. § szerinti tárcaközi bizottság bármely tagjának vagy a 32. § (1) bekezdése alapján ellenőrzésre jogosult hatóságok kezdeményezésére a rendelkezésre álló új adatok alapján megállapítja, hogy valamely veszélyes anyag e törvény osztályozási, feliratozási (címkézési) vagy csomagolási előírásainak betartása mellett is veszély jelenthet az emberre, környezetre, a tárcaközi bizottság a veszélyes anyag újraosztályozását javasolhatja, illetve – az újraosztályozás elvégzéséig vagy egyéb módon meghatározott időre – javaslatot tehet a 32. § (2) bekezdésének a) pontja szerinti hatóság számára a forgalomba hozatalnak az ország területén történő megtiltására vagy külön feltételekhez kötésére. A javaslatról, illetőleg meghozott intézkedéseiről az eljáró hatóság haladéktalanul értesíti az Európai Bizottságot, illetőleg a többi tagállam illetékes hatóságát az intézkedés indoklásával.
+26. § Amennyiben a 25. § szerinti tanács bármely tagjának vagy a 32. § (1) bekezdése alapján ellenőrzésre jogosult hatóságok kezdeményezésére a rendelkezésre álló új adatok alapján megállapítja, hogy valamely veszélyes anyag e törvény osztályozási, feliratozási (címkézési) vagy csomagolási előírásainak betartása mellett is veszély jelenthet az emberre, környezetre, a tanács a veszélyes anyag újraosztályozását javasolhatja, illetve – az újraosztályozás elvégzéséig vagy egyéb módon meghatározott időre – javaslatot tehet a 32. § (2) bekezdésének a) pontja szerinti hatóság számára a forgalomba hozatalnak az ország területén történő megtiltására vagy külön feltételekhez kötésére. A javaslatról, illetőleg meghozott intézkedéseiről az eljáró hatóság haladéktalanul értesíti az Európai Bizottságot, illetőleg a többi tagállam illetékes hatóságát az intézkedés indoklásával.
 
 ### Magyarországi általános hatáskörrel rendelkező (kompetens) nemzeti hatóság
 
@@ -317,6 +317,8 @@ is legyen;
 31. § Az e törvényben foglalt követelményeknek megfelelő veszélyes anyagok, illetve veszélyes keverékek hazai forgalmazása kizárólag a 20. § (4) bekezdésében, valamint a 26. §-ban meghatározott esetben korlátozható vagy tiltható meg.
 
 31/A. § Az egészségügyi államigazgatási szerv által e törvény vagy e törvény szabályozási tárgykörében európai közösségi rendelet alapján a veszélyes anyagok és keverékek kémiai biztonsága, valamint a biocid termékekkel és hatóanyagokkal kapcsolatos tevékenységek körében kérelemre lefolytatott eljárásért vagy igazgatási jellegű szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+
+31/B. § A biocid termék engedélyezésével kapcsolatos eljárásokban az elektronikus kapcsolattartás kizárt.
 
 ### A kémiai biztonság hatósági ellenőrzése
 
@@ -375,11 +377,23 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (3) Felhatalmazást kap a Kormány, hogy
 
-- a) a kémiai biztonság területén működő tárcaközi bizottság összetételét és működésének,
+- a)
 - b) a kémiai terhelési bírság alkalmazásának
 - c) a veszélyes anyagokkal és készítményekkel kapcsolatos egyes tevékenységek gyakorlásához, valamint a veszélyes anyagokkal és készítményekkel folytatott tevékenységekkel kapcsolatos kockázat-becslés végzéséhez szükséges feltételek, ideértve a képesítési feltételeket is,
 - d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának,
-- e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének
+- e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének,
+- f) a biocid anyagok és termékek – ideértve az irtószereket is – előállításának, forgalomba hozatalának és felhasználásának,
+- g) a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet
+  - ga) 2. cikk (7) és (8) bekezdése végrehajtása körében a biocid termékek ivóvíz-szolgáltatásban történő felhasználása – szükség szerinti – korlátozásának, valamint egyes biocid termékeknek a rendelet előírásai alól honvédelmi érdekből történő mentesítésének,
+  - gb) 17. cikk (5) bekezdése végrehajtása körében a lakosság biocid termékek előnyeiről és kockázatairól, valamint felhasználásuk minimálisra csökkentésének lehetőségeiről szóló tájékoztatásának,
+  - gc) 58. cikk (6) bekezdése végrehajtása körében a címkézés nyelvi követelményeinek,
+  - gd) 65. cikke végrehajtása körében a biocid termékek és a kezelt áruk nyomon követésének,
+  - ge) 69. cikk (3) bekezdése végrehajtása körében a biocid termékek nyilvántartása érdekében a csomagolás, címke és a tájékoztatók benyújtásának, valamint a magyar nyelvű címkékkel történő ellátásának,
+  - gf) 75. cikk (2) és (3) bekezdése végrehajtása körében a biocid termékekkel foglalkozó bizottság tagja kijelölésének és feladatellátása feltételeinek,
+  - gg) 80. cikk (2) és (3) bekezdése végrehajtása körében az eljárási díjakat megállapítsa, valamint a díjakkal kapcsolatos eljárások,
+  - gh) 81. cikke végrehajtása körében az illetékes hatóság kijelölésének,
+  - gi) 87. cikke végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciókat kijelölje, illetve megállapítsa, és azok alkalmazásának,
+  - gj) 89. cikk (2) bekezdése végrehajtása körében legfeljebb két éves átmeneti időszak
 
 részletes szabályait rendeletben meghatározza.
 
@@ -402,7 +416,7 @@ részletes szabályait rendeletben meghatározza.
 - e) a Kormány, hogy a nemzetközi információs rendszerben (PIC) megjelölt egyes veszélyes anyagok exportjának, importjának, forgalmazásának, használatának korlátozását,
 - f) az egészségügyért felelős miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértésben a lakosság egészségének, illetve a környezet védelme érdekében korlátozni indokolt veszélyes anyagok, illetve veszélyes keverékek, valamint tevékenységek körét, valamint a korlátozás módját,
 - g)
-- h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának részletes szabályait,
+- h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid termékekben felhasználható hatóanyagok jegyzékét, a kis kockázattal járó biocid termékek hatóanyagainak jegyzékét, a hatóanyagokra vonatkozó általános adatok körét, a biocid termékekre vonatkozó közös alapadatokat, a hatóanyagokra és a biocid termékekre vonatkozó kiegészítő adatokat, valamint az aktív hatóanyagok és a biocid termékek adatait,
 - i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 31/A. § szerinti, kémiai biztonsági és biocid termékekkel és hatóanyagokkal kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
 - j) a környezetvédelemért felelős miniszter, hogy
   - ja)

@@ -122,9 +122,9 @@ kell rendelkezni.
 
 ### Egyes eljárási szabályok
 
-7. § (1) Az energiaadóval kapcsolatos adóztatási feladatokat a vámhatóság látja el.
+7. § (1) Az energiaadóval kapcsolatos adóztatási feladatokat az állami adóhatóság, a kivetéses adózással kapcsolatos adóztatási feladatokat a vámhatóság látja el.
 
-(1a) Az e törvény hatálya alá tartozó személyek részére a vámazonosító szám megállapításával, ezzel összefüggő nyilvántartásba vétellel és nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+(1a) Kivetéses adózás esetén a vámazonosító szám megállapításával, ezzel összefüggő nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
 (2) Az adóalany, illetve az adóvisszaigénylésre jogosult személy az adót – a (3) bekezdésben foglalt eltéréssel – maga köteles megállapítani, bevallani és megfizetni, jogosult a megállapított adójából levonni (visszaigényelni), illetve jogosult visszaigényelni (önadózás).
 
@@ -144,7 +144,7 @@ kell rendelkezni.
 
 (10)
 
-(11) A 2. § 14. pontjában említett nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag a vámhatóság részére, ellenőrzés céljából adhatja át.
+(11) A 2. § 14. pontjában említett nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag az állami adó- és vámhatóság részére, ellenőrzés céljából adhatja át.
 
 (12) A szenet továbbforgalmazási céllal beszerző energiakereskedő beszerzése ezen céljáról az értékesítést végző energiakereskedőnek köteles írásban nyilatkozatot adni, melyben nevét, címét és adószámát is fel kell tüntetnie.
 
@@ -166,3 +166,11 @@ kell rendelkezni.
 
 - a) a Tanács 2003/96/EK irányelve (2003. október 27.) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről,
 - b) a Tanács 2004/74/EK irányelve (2004. április 29.) a 2003/96/EK irányelvnek az energiatermékek és a villamos energia vonatkozásában egyes tagállamok részére az ideiglenes adómentesség vagy kedvezményes adómérték alkalmazásának lehetősége tekintetében történő módosításáról.
+
+### Átmeneti rendelkezések
+
+12. § (1) E törvény 7. § (1) bekezdésében foglaltaktól eltérően a 2013. január 1-jét megelőző időszakra vonatkozó energiaadó bevallásokat (ideértve a bevalláspótlást és az önellenőrzést is) 2013. február 14-éig a vámhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat a vámhatóság látja el. 2013. február 14-éig a befizetéseket a vámhatósághoz kell teljesíteni.
+
+(2) 2013. február 14-ét követően az energiaadó bevallásokat (bevalláspótlást, önellenőrzést) az állami adóhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat az állami adóhatóság látja el. 2013. február 14-ét követően a befizetéseket az állami adóhatósághoz kell teljesíteni.
+
+(3) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.

@@ -182,7 +182,7 @@ Az Országgyűlés a választójog gyakorlása, a választási eljárás, a nép
 
 17. § (1) A választójog megállapítása céljából az a)–c) pontban megjelölt szervek a személyiadat- és lakcímnyilvántartás hatálya alá tartozó, választójoggal nem rendelkező nagykorú polgárok (2) bekezdés szerinti adataiban bekövetkezett változásokat folyamatosan közlik a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervvel, az alábbiak szerint:
 
-- a) a gondnoksági ügyben eljáró gyámhivatal a belátási képességének korlátozottsága miatt a választójogból kizárt személyekről,
+- a) a gondnoksági ügyben eljáró gyámhatóság a belátási képességének korlátozottsága miatt a választójogból kizárt személyekről,
 - b) a Büntetés-végrehajtás Országos Parancsnoksága a bűntetteseket nyilvántartó szerv útján a közügyektől eltiltó jogerős ítélet hatálya alatt álló személyekről,
 - c) a Büntetés-végrehajtás Országos Parancsnoksága a szabadságvesztés-büntetésüket töltő, valamint a büntetőeljárásban jogerősen elrendelt intézeti kényszergyógykezelés alatt álló polgárokról.
 
@@ -246,7 +246,7 @@ Az Országgyűlés a választójog gyakorlása, a választási eljárás, a nép
 
 (4) Ha a helyi választási iroda vezetője a kifogásnak helyt ad, a névjegyzéket, illetőleg a külképviseleti névjegyzéket módosítja.
 
-(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a helyi bíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő 2 napon belül dönt.
+(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a járásbíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő 2 napon belül dönt.
 
 (6) Ha a bíróság a kifogást alaposnak tartja, elrendeli a névjegyzék, illetőleg a külképviseleti névjegyzék módosítását, ellenkező esetben a kifogást elutasítja.
 
@@ -1902,7 +1902,7 @@ tekinthet be. A nemzetiségi választói jegyzékbe történt betekintésről ny
 
 130. § (1) Az Országos Választási Bizottságnak az aláírásgyűjtő ív, illetve a konkrét kérdés hitelesítésével kapcsolatos döntése elleni kifogást a határozat közzétételét követő tizenöt napon belül lehet – a Kúriához címezve – az Országos Választási Bizottsághoz benyújtani.
 
-(2) A Kúria a kifogást soron kívül bírálja el. A Kúria az Országos Választási Bizottság határozatát helybenhagyja, vagy azt megsemmisíti, és az Országos Választási Bizottságot új eljárásra utasítja.
+(2) A Kúria a kifogást soron kívül bírálja el. A Kúria az Országos Választási Bizottság határozatát helybenhagyja, vagy azt megsemmisíti, és az Országos Választási Bizottságot új eljárásra utasítja. A Kúria elrendeli határozatának a Magyar Közlönyben való közzétételét.
 
 ### XIV. Fejezet — ORSZÁGOS NÉPI KEZDEMÉNYEZÉS
 
@@ -2016,9 +2016,9 @@ tekinthet be. A nemzetiségi választói jegyzékbe történt betekintésről ny
 
 ### Jogorvoslat
 
-146. § (1) A helyi, illetőleg a területi választási iroda vezetőjének a népszavazás-kezdeményezés aláírásgyűjtő íveinek hitelesítésével kapcsolatos döntése ellen a közzétételétől számított tizenöt napon belül a helyi bírósághoz (Budapesten a Pesti Központi Kerületi Bírósághoz), illetőleg a törvényszékhez lehet kifogást benyújtani.
+146. § (1) A helyi, illetőleg a területi választási iroda vezetőjének a népszavazás-kezdeményezés aláírásgyűjtő íveinek hitelesítésével kapcsolatos döntése ellen a közzétételétől számított tizenöt napon belül a járásbírósághoz (Budapesten a Pesti Központi Kerületi Bírósághoz), illetőleg a törvényszékhez lehet kifogást benyújtani.
 
-(2) A képviselő-testület, illetőleg a közgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozata ellen a határozat közzétételétől számított nyolc napon belül a helyi bírósághoz (Budapesten a Pesti Központi Kerületi Bírósághoz), illetőleg a törvényszékhez lehet kifogást benyújtani.
+(2) A képviselő-testület, illetőleg a közgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozata ellen a határozat közzétételétől számított nyolc napon belül a járásbírósághoz (Budapesten a Pesti Központi Kerületi Bírósághoz), illetőleg a törvényszékhez lehet kifogást benyújtani.
 
 ### XVI. Fejezet — HELYI NÉPI KEZDEMÉNYEZÉS
 
@@ -2120,7 +2120,9 @@ tekinthet be. A nemzetiségi választói jegyzékbe történt betekintésről ny
 
 (2) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított rendelkezéseinek hatálybalépését megelőzően benyújtott népszavazási kezdeményezés és népi kezdeményezés hitelesítésére a benyújtásakor hatályos rendelkezéseket kell alkalmazni.
 
-157–159. §
+157. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 130. § (2) bekezdését a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+158–159. §
 
 160. §
 

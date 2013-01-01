@@ -12,8 +12,12 @@ a lőfegyverekről és lőszerekről
   - aa) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
   - ab) a Magyarország területén állomásozó fegyveres szervek,
   - ac) a Nemzeti Adó- és Vámhivatal,
-  - ad) a rendvédelmi szervek, valamint
-  - ae) a fegyveres biztonsági őrség által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
+  - ad) a rendvédelmi szervek,
+  - ae) a fegyveres biztonsági őrség
+  - af) az Országgyűlési Őrség
+
+által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
+
 - b) rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
 
 2. § E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:
@@ -220,7 +224,8 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 - a) a bíróság, az ügyészség és a nyomozó hatóságok;
 - b) a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ellátásához;
-- c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
+- c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint;
+- d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási feladatainak ellátásához.
 
 (2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók. A vadászlőfegyver tartására jogosító engedély, valamint az annak alapján kiadott európai lőfegyvertartási engedély visszavonásáról a rendőrség a vadászati hatóságot tájékoztatja.
 

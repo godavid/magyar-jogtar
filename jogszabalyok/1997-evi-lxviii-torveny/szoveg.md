@@ -545,7 +545,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (4) A jogszabályban meghatározott egészségkárosító kockázatok között folyó munkavégzéssel járó egyéb munkakörök esetén jogszabály a (3) bekezdésnek megfelelő vagy további korlátozást határozhat meg.
 
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. §-a szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -618,15 +618,9 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) A rendes szabadság egynegyedét – az igazságügyi jogviszony első 3 hónapját kivéve – az igazságügyi alkalmazott kérésének megfelelő időpontban kell kiadni. Az igazságügyi alkalmazottnak az erre vonatkozó igényét a szabadság kezdete előtt legalább 15 nappal be kell jelentenie, kivételes méltányolást érdemlő körülmény esetén ettől el lehet tekinteni.
 
-(3) A szabadságot az esedékesség évében kell kiadni, a kiadás időpontjáról, ha az a szabadságolási tervtől eltér, az igazságügyi alkalmazottat – a (2) bekezdés szerinti esetet kivéve – a szabadság kezdete előtt legalább 30 nappal értesíteni kell. A szabadságot kettőnél több részletben csak az igazságügyi alkalmazott beleegyezésével vagy kérésére lehet kiadni.
+(3)–(6)
 
-(4) A munkáltató a szabadság kiadására vonatkozó értesítésében megjelölt időpontot csak rendkívül indokolt esetben változtathatja meg, az igazságügyi alkalmazott ebből eredő kárát és költségeit köteles megtéríteni.
-
-(5) A munkáltató a már megkezdett szabadságot kivételesen fontos igazságügyi érdekből megszakíthatja. Ebben az esetben a megszakítás ideje – ideértve a szabadság alatti tartózkodás helyéről a szolgálati helyre való utazással, illetve a visszautazással töltött időt is – a szabadság tartamába nem számít be. Az igazságügyi alkalmazottnak a szabadság megszakításával kapcsolatban felmerült kárát és költségeit a munkáltató köteles megtéríteni.
-
-(6) Ha a munkáltató a teljes szabadságot az esedékesség évében bármely okból nem adta ki, azt a következő naptári évben, illetve az igazságügyi alkalmazott betegsége vagy más, a szabadság kiadása szempontjából elháríthatatlan akadály esetén a betegség vagy akadály megszűnésétől számított 30 napon belül kell kiadni.
-
-50. § (1) Az igazságügyi alkalmazottnak a szolgálati viszonya megszűnésekor, a még ki nem adott időarányos szabadságát pénzben kell megváltani.
+50. § (1)
 
 (2) Ha az igazságügyi alkalmazott a szolgálati viszonya megszűnéséig több napot volt szabadságon, mint amennyi az igazságügyi szervnél töltött időre megilletné, a különbözet idejére kifizetett illetményt, illetve az e törvény alapján időarányosan járó juttatások megfelelő részét köteles visszafizetni. A túlfizetés nem követelhető vissza, ha a szolgálati viszony az igazságügyi alkalmazott halála, nyugdíjazása alapján szűnt meg.
 
@@ -973,7 +967,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (3) Az írnoki munkakört ellátó alkalmazottat a 4. számú mellékletben megjelölt IV. fizetési osztályba kell besorolni. A besorolásnál a 101. §-ban foglaltak megfelelő alkalmazásával legfeljebb két fizetési fokozattal csökkentett fokozat állapítható meg.
 
-(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
+(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével az Mt. alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
 
 100. § (1) Az igazságügyi alkalmazott fizetési fokozatát – a bírósági fogalmazó és a fizikai alkalmazott kivételével – az igazságügyi szolgálati idő alapján kell megállapítani.
 
@@ -1248,14 +1242,15 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. §-át, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 132. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. § (2) bekezdését, 132. § (2) és (3) bekezdését, 133. §-át, 135. és 136. §-át, 137–140/A. §-át, 151/A. § (1) és (2), valamint (4)–(6) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. §-át, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-ait, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 148. §-át, 149. § (1) bekezdését, 152–153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
 - a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-- b) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-- c) 229. §-ának a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
-- d) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
+- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik,
+- c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- d) 229. §-ának a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
+- e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
@@ -1323,7 +1318,9 @@ rendeletben állapítsa meg.
 - b) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
 - c) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
 - d) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
-- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által, a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv.
+- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által, a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv,
+- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelv,
+- g) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv.
 
 ### 1. számú melléklet az 1997. évi LXVIII. törvényhez
 

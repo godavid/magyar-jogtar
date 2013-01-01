@@ -75,6 +75,8 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
+(3) Az állami vagyon feletti tulajdonosi joggyakorló köteles a Kormány rendeletében meghatározott adattartalommal és módon adatszolgáltatást nyújtani az MNV Zrt. részére.
+
 18. § (1) Az MNV Zrt. a Magyar Állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
 (2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szabályait kell alkalmazni.
@@ -233,7 +235,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
-(2) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) előírásai irányadók.
+(2) Az MNV Zrt. alkalmazottaira a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) előírásai irányadók.
 
 (3) A szervezeti és működési szabályzatot a Magyar Közlönyben közzé kell tenni.
 
@@ -783,7 +785,8 @@ lép.
 - c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 - e) az állami vagyon értékesítésére vonatkozó szabályokat,
-- f)–g)
+- f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.
+- g)
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg

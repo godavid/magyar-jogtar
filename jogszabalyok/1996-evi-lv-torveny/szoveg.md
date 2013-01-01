@@ -623,7 +623,7 @@ kell biztosítani.
 
 (5) Hivatásos vadász igénybevételének minősül, ha a jogosult megfelelő képesítéssel rendelkezik, és a kamaránál hivatásos vadászként nyilvántartásba vették.
 
-51. § (1) A hivatásos vadász a vadászati hatóság előtt a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szövegű esküt tesz. Az eskü letételét követően a vadászati hatóság a hivatásos vadászt nyilvántartásba veszi, részére azonos sorszámú szolgálati igazolványt és jelvényt és hitelesített szolgálati naplót ad át.
+51. § (1) A hivatásos vadász a vadászati hatóság előtt a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szövegű esküt tesz. Az eskü letételét követően a vadászati hatóság a hivatásos vadászt nyilvántartásba veszi és részére hitelesített szolgálati naplót ad át.
 
 (2)
 
@@ -644,17 +644,17 @@ kell biztosítani.
 
 (2) A vadászati hatóság – kérelemre vagy hivatalból – legfeljebb egy évre bevonhatja a hivatásos vadász szolgálati igazolványát, jelvényét és szolgálati naplóját, ha a hivatásos vadász az (1) bekezdés szerinti feladatainak ellátásával kapcsolatos kötelezettségeit megszegi.
 
-54. § (1) A hivatásos vadász – amennyiben megfelel a külön jogszabályban írt egyéb feltételeknek – a vadászatra jogosult megbízása alapján, a vad, valamint élőhelyének védelme érdekében a vadászterületen és a közforgalom előtt elzárt magánutakon jogosult, illetve köteles:
+54. § (1) A hivatásos vadász – amennyiben megfelel a külön jogszabályban írt egyéb feltételeknek – a vadászatra jogosult megbízása alapján, a vad, valamint élőhelyének védelme érdekében a vadászterületen és a közforgalom előtt elzárt magánutakon jogosult, valamint köteles
 
-- a) azt a személyt, aki a vadászterületen tartózkodik és a vadállományt veszélyezteti, személyazonosságának igazolására, a jogellenes cselekmény abbahagyására, illetőleg a vadászterület elhagyására felszólítani;
-- b) a vadászterületen vagy annak közvetlen közelében tartózkodó személyt a birtokában levő vad, vadhús, szárnyas vad tojása, illetőleg a trófea birtoklása jogosultságának igazolására felszólítani, igazolás hiányában pedig a terméket elismervény ellenében visszatartani;
-- c) vadvédelmi bírság fizetésének alapjául szolgáló cselekmény alapos gyanúja esetén a személyt a személyazonosságának igazolására felszólítani, a járművet átvizsgálni, az elkövetésül használt eszközöket – ideértve a járművet is – elismervény ellenében visszatartani, továbbá a hatáskörrel rendelkező hatóságnál eljárást kezdeményezni.
+- a) azzal a személlyel szemben, aki a vadászterületen tartózkodik és a vadállományt veszélyezteti,
+- b) azzal a személlyel szemben, aki vadászterületen vagy annak közvetlen körzetében tartózkodik és a birtokában lévő vad, vadhús, szárnyas vad tojása, illetőleg a trófea jogellenes birtoklásával alaposan gyanúsítható,
+- c) vadvédelmi bírság fizetésének alapjául szolgáló cselekmény alapos gyanúja esetén az elkövetésül használt eszközök – ideértve a járművet is – biztosítása érdekében az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedés és kényszerítő eszközök alkalmazására.
 
 (2) Amennyiben a vadászterület vagy annak egy része a honvédelemért felelős miniszter kezelésében, illetve használatában levő területtel egybeesik, akkor – e terület vonatkozásában – a hivatásos vadász az (1) bekezdésben szabályozott tevékenységét csak az illetékes katonai szerv hozzájárulásával gyakorolhatja.
 
-(3) A hivatásos vadász egyenruha viselésére, valamint – a külön jogszabályban meghatározott feltételekkel – szolgálati vadász- és maroklőfegyver-, továbbá könnygázszóró használatára jogosult. A hivatásos vadász a szolgálati maroklőfegyverét – a jogos önvédelmen túl – csak a sebzett szarvas, dám, muflon, őz és a vaddisznó elejtésére használhatja. A hivatásos vadász nagyvad utánkeresése során a kegyelemlövéshez legalább 5 milliméter átmérőjű sörétet is használhat.
+(3) A hivatásos vadász egyenruha viselésére, valamint – a külön jogszabályban meghatározott feltételekkel – szolgálati vadász- és maroklőfegyver-, használatára jogosult. A hivatásos vadász a szolgálati maroklőfegyverét – a jogos önvédelmen túl – csak a sebzett szarvas, dám, muflon, őz és a vaddisznó elejtésére használhatja. A hivatásos vadász nagyvad utánkeresése során a kegyelemlövéshez legalább 5 milliméter átmérőjű sörétet is használhat.
 
-(4) A hivatásos vadász feladatának ellátása alkalmával köteles ruházatán a szolgálati jelvényt viselni, továbbá az erre irányuló külön felhívás nélkül a szolgálati igazolvánnyal magát igazolni.
+(4)
 
 55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadászt a Büntető Törvénykönyv 230. §-ának c) pontjában meghatározott, közfeladatokat ellátó polgári őrt a Büntető Törvénykönyv 229. §-a szerinti büntetőjogi védelem illeti meg.
 

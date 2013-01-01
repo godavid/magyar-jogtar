@@ -42,9 +42,11 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - 6. állatmenhely: az elkobzott vagy ideiglenesen megfigyelés alatt tartott állatok kivételével a gazdátlan állatok ideiglenes vagy állandó, ellenszolgáltatás nélkül történő elhelyezésének céljából működtetett intézmény;
 - 7. beavatkozás az állaton: az állat fizikai, élettani vagy pszichikai állapotának megváltoztatása;
 - 8. jó gazda gondossága: az az emberi tevékenység, amely arra irányul, hogy az állat számára olyan életkörülményeket biztosítson, amely az annak fajára, fajtájára és nemére, korára jellemző fizikai, élettani, tenyésztési és etológiai sajátosságainak, egészségi állapotának megfelel, tartási, takarmányozási igényeit kielégíti (elhelyezés, táplálás, gyógykezelés, tisztán tartás, nyugalom, gondozás, kiképzés, nevelés, felügyelet).
-- 9. állatkísérlet: állat kísérleti vagy egyéb tudományos célból való felhasználása, amely esetleg az állatnak fájdalmat, szenvedést, tartós nélkülözést vagy maradandó károsodást okozhat – beleértve bármely olyan tevékenységet is a kísérlet során, amely állat születését eredményezi ilyen körülmények közé – és amely az állat kísérletre való előkészítésével kezdődik, és akkor fejeződik be, amikor további megfigyelést már nem végeznek a kísérlet érdekében; az állat ilyen felhasználása akkor is kísérletnek minősül, ha a fájdalom, szenvedés, tartós nélkülözés vagy maradandó károsodás kiküszöbölése céljából végzett altatást, fájdalomcsillapítást vagy egyéb módszert sikeresen alkalmaznak; nem minősül állatkísérletnek a nem kísérleti jellegű, mezőgazdasági vagy állatorvosi tevékenység, illetve az állatok leölésének vagy megjelölésének a természettudományok által elfogadott korszerű, kevéssé fájdalmasnak tartott módszereinek alkalmazása;
+- 9. állatkísérlet: állat kísérleti, oktatási vagy egyéb tudományos célból való felhasználása, amely az állatnak a helyes állatorvosi gyakorlat szerint kivitelezett tűszúrás által okozottal egyenértékű vagy annál magasabb szintű fájdalmat, szenvedést, kínt vagy maradandó károsodást okozhat, beleértve bármely olyan tevékenységet, amely állat születését – beleértve a kikelést – eredményezi ilyen körülmények közé, valamint az ilyen állapotot eredményező géntechnológiailag módosított fajtavonalak létrehozását és fenntartását; az állat ilyen felhasználása akkor is kísérletnek minősül, ha a fájdalom, szenvedés, kín vagy maradandó károsodás kiküszöbölése céljából érzéstelenítést, fájdalomcsillapítást vagy egyéb módszert sikeresen alkalmaznak; nem minősül állatkísérletnek a nem kísérleti jellegű, mezőgazdasági vagy állatorvosi tevékenység, illetve az állatok leölésének vagy megjelölésének a természettudományok által elfogadott korszerű, kevéssé fájdalmasnak tartott módszereinek alkalmazása, valamint az állatnak kizárólag a szervei vagy szövetei felhasználása céljából történő leölése;
 - 10. állat életének megengedett módon való kioltása: az állat életének a legkisebb szenvedés okozásával, valamint a faj adottságainak figyelembevételével történő szakszerű és gyors kioltása;
 - 11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.
+- 12. állat kábítása: minden olyan szándékos eljárás, amelynek alkalmazása a tudat és az érzékelés fájdalom nélkül történő elvesztését okozza, beleértve a közvetlen halált okozó eljárásokat is;
+- 13. beszállító: a tenyésztők kivételével bármely olyan természetes vagy jogi személy, aki kísérletben való felhasználás céljából, vagy szervek vagy szövetek tudományos célú felhasználása céljából állatot szállít.
 
 ### II. Fejezet — AZ ÁLLAT VÉDELMÉNEK ÁLTALÁNOS SZABÁLYAI
 
@@ -64,7 +66,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (4) Az állandóan zárt körülmények között tartott állat számára az állattartó köteles az állat szükségleteihez igazodó, megfelelő mozgásteret biztosítani.
 
-(5) A gazdasági haszon céljából tartott állat tartása során előnyben kell részesíteni az állatkímélő technológiákat.
+(5) A gazdasági haszon céljából tartott állat tartása, szállítása és életének kioltása során előnyben kell részesíteni az állatkímélő technológiákat.
 
 (6) A kedvtelésből tartott állat ürülékét az állattartó a közterületről köteles eltávolítani.
 
@@ -144,7 +146,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 17. § A kábítás nélküli állatvágás esetén az állatot levágás előtt úgy kell lefogni, amely alkalmas arra, hogy az megkímélje minden elkerülhető fájdalomtól.
 
-18. § A kábításnak olyan érzéketlenségi állapotot kell előidéznie, amely addig tart, amíg a levágást követően az állat ki nem vérzik.
+18. § A kábítást úgy kell elvégezni, hogy annak hatása fennmaradjon, amíg a levágást követően az állat ki nem vérzik.
 
 19. § Az állat vágására külön jogszabály eltérően rendelkezhet a következő esetekben:
 
@@ -159,7 +161,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (2) Az (1) bekezdésben foglaltak megszegésével tartott állatot az állatvédelmi hatóság elkobozza, majd – amennyiben állatkertben történő elhelyezésük nem megoldható – az állat tulajdonosának költségére gondoskodik az állat életének megengedett módon történő kioltásáról.
 
-### A veszélyes állat tartása és szaporítása
+### A veszélyes állatfajok egyedeinek tartása
 
 20. § (1)
 
@@ -266,110 +268,108 @@ haladéktalanul köteles bejelenteni.
 
 24/F. § Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes, külön jogszabályban meghatározott állatok kedvtelésből való tartása, szaporítása és forgalomba hozatala tilos. A tilalom megszegésével tartott állatot az állatvédelmi hatóság elkobozza, majd gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
 
-### IV. Fejezet — AZ ÁLLATKÍSÉRLET VÉGZÉSÉNEK ALAPVETŐ FELTÉTELEI
+### IV. Fejezet — A KÍSÉRLETI, OKTATÁSI VAGY EGYÉB TUDOMÁNYOS CÉLLAL TARTOTT ÁLLATOKRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
-### Az állatkísérlet általános szabályai
+### Az állatkísérlet végzésének általános szabályai
 
-25. § (1)
+25. § Az e fejezetben foglalt előírásokat kizárólag a gerinces állatokon és lábasfejűeken végzett kísérletekre kell alkalmazni. E kísérletek végzésének részletes szabályait e törvény végrehajtására kiadott rendelet állapítja meg.
 
-(2) Állatkísérlet kizárólag nyilvántartásba vett intézményben, eseti vagy általános engedély alapján végezhető.
+26. § (1) Állatkísérlet – e törvény végrehajtására kiadott rendeletben meghatározott esetek kivételével – kizárólag nyilvántartásba vett intézményben, engedély alapján végezhető.
 
-(3)
+(2) Állatkísérlet kizárólag akkor engedélyezhető, ha annak elvégzését
 
-(4) Állatkísérlet kizárólag akkor engedélyezhető, ha annak elvégzését
-
-- a) az ember, a gerinctelen és gerinces állatok vagy növények betegségének, kóros egészségi állapotának, egyéb rendellenességének elkerülése, megelőzése, felismerése és gyógyítása, valamint azok élettani állapotának feltárása, felderítése, szabályozása vagy módosítása érdekében gyógyszerek, élelmiszerek, egyéb adalékanyagok vagy termékek fejlesztése, termelése, minősítése, hatékonyságának és ártalmatlanságának vizsgálata,
-- b) az emberek vagy állatok egészsége vagy jólléte érdekében a természetes környezet védelme,
-- c) tudományos kutatás,
-- d) oktatási és gyakorlati képzés, vagy
-- e) igazságügyi orvostani vizsgálatok elvégzése
+- a) alapkutatás,
+- b) transzlációs vagy alkalmazott kutatás az alábbi célok bármelyikével:
+  - ba) emberek, állatok vagy növények betegségeinek, egészségi rendellenességeinek vagy más kóros elváltozásainak, azok hatásainak elkerülése, megelőzése, felismerése vagy kezelése,
+  - bb) emberek, állatok vagy növények élettani állapotának feltárása, értékelése, szabályozása vagy módosítása, vagy
+  - bc) az állatok jóléte és a mezőgazdasági célból tartott állatok termelési feltételeinek javítása,
+- c) a b) pontban foglalt bármely célból gyógyszerek, élelmiszerek és takarmányok, valamint egyéb anyagok vagy termékek kifejlesztése vagy gyártása, azok minőségének, hatékonyságának és biztonságosságának ellenőrzése,
+- d) a természetes környezet védelme,
+- e) a fajok megőrzésére irányuló kutatás,
+- f) felsőoktatás vagy a szakmai készségek megszerzése, fenntartása vagy fejlesztése céljából folyó képzés, vagy
+- g) igazságügyi orvostani vizsgálat elvégzése
 
 teszi szükségessé.
 
-(5) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által létrehozott állatvédelmi tanácsadó szakértői testület (a továbbiakban: szakértői testület) véleménye alapján – különösen figyelembe kell venni:
+(3) Szépítőszer, dohány- és egyéb élvezeti cikk, fegyver, ennek alkatrésze, továbbá lőszer előállítása céljából tervezett kísérletre engedély nem adható.
 
-- a) az állatkísérlet elvégzésének indokoltságát és tudományos megalapozottságát,
-- b) az alkalmazott korszerű módszertan indokoltságát és tudományos megalapozottságát az állatlétszám, illetve a fájdalom, szenvedés, tartós nélkülözés és maradandó károsodás lehető legkisebb mértékűre csökkentésének követelménye szempontjából,
-- c) a kísérlet személyi és tárgyi feltételeinek rendelkezésre állását.
+27. § (1) Amennyiben lehetséges, az állatkísérlet helyett élő állatok felhasználását nem igénylő, tudományosan elfogadott módszert vagy vizsgálati stratégiát kell alkalmazni.
 
-(6) Szépítőszer, dohány- és egyéb élvezeti cikk, valamint fegyver, ennek alkatrésze, továbbá lőszer előállítása céljából tervezett kísérletre engedély nem adható.
+(2) Az állatkísérlet során felhasznált állatok számát a lehető legnagyobb – a kísérlet eredményességét még nem veszélyeztető – mértékben csökkenteni kell.
 
-26. § (1) Nem engedélyezhető és nem végezhető állatkísérlet abban az esetben, ha ismert olyan más tudományosan megfelelő és a várt eredményt szolgáltató módszer, amely állat használata nélkül megvalósítható, illetve végrehajtható.
+(3) A tenyésztés, szaporítás, elhelyezés és gondozás, valamint a kísérlet során alkalmazott módszerek tökéletesítésére kell törekedni az állati fájdalom, szenvedés, kín vagy maradandó egészségkárosodás elkerülése vagy a lehető legkisebb mértékűre csökkentése érdekében.
 
-(2) Az állatkísérletek szükségtelen megismétlésének elkerülése érdekében a kérelmezőnek és az engedélyezőnek törekednie kell a témához kapcsolódó, már elvégzett kísérletek eredményeinek megismerésére.
+28. § (1) Az állatot feltételezhetően érő fájdalom, szenvedés, kín vagy maradandó egészségkárosodás mértéke alapján – e törvény végrehajtására kiadott rendeletben meghatározott módon – minden kísérletet esetileg, e törvény végrehajtására kiadott rendeletben meghatározott kritériumok alapján a következő kategóriák valamelyikébe kell besorolni:
 
-(3) Ugyanazon cél elérése érdekében két vagy több kísérlet közül azt kell választani, amelyik kevesebb számú és kisebb érzékenységű állatot igényel, és amely kisebb mértékű fájdalmat, szenvedést, szorongást, tartós nélkülözést, illetve maradandó károsodást okoz, valamint amely nagyobb valószínűséggel szolgáltatja az elvárható eredményt.
+- a) érzéstelenítéses-túlaltatásos,
+- b) enyhe,
+- c) mérsékelt,
+- d) súlyos.
 
-27. § (1) Az állatkísérlet során felhasznált állatok számát a feltétlenül szükséges mértékre kell csökkenteni. Azt a vizsgálati módszert kell választani, amely előreláthatóan a legkisebb fájdalom okozásával, illetőleg legkisebb élettani, idegi vagy viselkedésbeli károsodás mellett végezhető el.
+(2) Olyan kísérlet, amely súlyos, várhatóan hosszú ideig tartó és semmilyen módon nem enyhíthető fájdalommal, szenvedéssel vagy kínnal jár, – e törvény végrehajtására kiadott rendeletben meghatározott esetek kivételével – nem végezhető.
 
-(2) Az állatkísérletről és az állatot ért beavatkozásról részletes jegyzőkönyvet kell felvenni.
+29. § (1) Állatkísérlet kizárólag olyan felelős személy vezetésével végezhető, aki e törvény végrehajtására kiadott rendeletben meghatározott végzettséggel, szakértelemmel és gyakorlattal rendelkezik.
 
-(3) Minden kísérletet úgy kell megtervezni, hogy elkerülhető legyen a szükségtelen fájdalom, szenvedés, tartós nélkülözés, illetve maradandó károsodás okozása.
+(2) Állatkísérletet az végezhet, a kísérleti állatot az gondozhatja, az állat életét az olthatja ki, aki erre képesítő, e törvény végrehajtására kiadott rendeletben meghatározott oktatásban részesült.
 
-28. § (1) Minden állatkísérletet általános vagy helyi érzéstelenítés mellett kell végezni, kivéve, ha ez – arra tekintettel, hogy a kísérlet nem jár fájdalommal, illetőleg szenvedéssel – nem szükséges, illetve az érzéstelenítés a kísérleti állat számára nagyobb megterheléssel járna, mint maga a kísérlet, vagy a kísérlet eredményét értékelhetetlenné tenné.
+30. § (1) Kísérlet céljára az állatvédelmi hatóság által engedélyezett állatot szabad felhasználni.
 
-(2) Ha az érzéstelenítés nem lehetséges, akkor fájdalomcsillapítást, vagy egyéb megfelelő módszert kell alkalmazni annak biztosítása érdekében, hogy az állatnak a lehető legkevesebb fájdalmat, szenvedést, tartós nélkülözést vagy károsodást okozzák, valamint egyetlen esetben se legyen az állat jelentős fájdalomnak, szenvedésnek vagy tartós nélkülözésnek kitéve.
+(2) Az emberszabású majmok kísérleti célú felhasználása tilos.
 
-(3) Ha a kábítás után az állat fájdalomérzete visszatér – és a kísérlet célja ezt nem zárja ki – újabb fájdalomcsillapítást kell alkalmazni, vagy ha ez nem lehetséges, az állat életét azonnal, megengedett módon ki kell oltani.
+(3) Nem emberszabású főemlősök kísérleti célú felhasználása csak e törvény végrehajtására kiadott rendeletben meghatározott feltételek fennállása esetén engedélyezhető.
 
-(4) Az állaton végzett ismételt kísérletnek szintén meg kell felelnie az e törvényben foglaltaknak. Az (1)–(3) bekezdés szerinti módszerek alkalmazása nélkül végzett, tartós vagy súlyos szenvedéssel járó kísérlet ugyanazon az állaton ismételten nem végezhető.
+(4) Háziasított állatfaj kóbor egyedét, valamint vadon befogott állatot – a (6) bekezdésben foglalt kivétellel – kísérlet céljára felhasználni nem szabad.
 
-29. § (1) Az állatkísérlet alatt és után az állat megfelelő tartását, ellátását, gondozását és folyamatos egészségügyi ellátását biztosítani kell.
+(5) Természetvédelmi oltalom alatt álló vagy nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatfaj egyedén – a (2) és (3) bekezdés szerinti kivételekkel – kísérlet végzése akkor engedélyezhető, ha
 
-(2) A kísérlet befejezésekor szakképzett személynek – lehetőleg állatorvosnak – kell eldöntenie, hogy az állat életben tartható-e, vagy életét megengedett módon ki kell oltani. Az állat nem tartható életben, ha valószínűleg tartós fájdalmat vagy nélkülözést szenvedne el, illetve véglegesen és súlyosan károsodott.
+- a) a kísérlet elvégzését a 26. § (2) bekezdés e) pontja szerinti cél teszi szükségessé, vagy
+- b) a kísérlet a 26. § (2) bekezdés b) pont ba) alpontja, vagy c) pontja alá tartozik, a kísérletre károsító vagy potenciálisan életveszélyes emberi klinikai állapotok elkerülése, megelőzése, diagnózisa vagy kezelése érdekében kerül sor, és a felhasznált állat fogságban tenyésztett állat utóda, valamint tudományos indokok alapján a kísérlet természetvédelmi oltalom alatt nem álló vagy nemzetközi természetvédelmi egyezmény hatálya alá nem tartozó állatfaj felhasználásával nem vezetne eredményre.
 
-(3) Az életben hagyott állat gondozásáról, ellátásáról, elhelyezéséről a kísérletet végző intézmény köteles gondoskodni. Az életben hagyott állatot egészségi állapotának megfelelően kell gondozni, valamint a külön jogszabályban előírt módon, állatorvos vagy egyéb szakképzett személy felügyelete alatt kell tartani, kivéve, ha állatorvos véleménye alapján az ezektől való eltérés nem eredményezi az állat szenvedését.
+(6) Az állatvédelmi hatóság e törvény végrehajtására kiadott rendeletben meghatározott feltételek fennállása esetén mentességet adhat a (4) bekezdés alkalmazása alól.
 
-(4) Az állatvédelmi hatóság a kísérlet céljára tekintettel engedélyezheti az állat származási helyére vagy természetes környezetébe helyezését, ha az állat jóllétének biztosítása érdekében a lehető legnagyobb gondossággal járnak el, az állat egészségi állapota ezt lehetővé teszi, és nem veszélyezteti a környezetet, valamint nem jelent állatvédelmi vagy közegészségügyi kockázatot.
+31. § (1) Kísérleti célra állatot tenyészteni, szaporítani, beszállítani, tartani az állatvédelmi hatóság engedélyével szabad. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
 
-30. § (1) Állatkísérlet kizárólag olyan felelős személy vezetésével végezhető, aki külön jogszabályban meghatározott végzettséggel és gyakorlattal rendelkezik, és ismeri az állatkísérletek etikai elveit, jogi szabályait.
+(2) Az állatvédelmi hatóság a kísérleti állatot tenyésztőt, beszállítót, tartót és a tenyésztő, tartó létesítményt is nyilvántartásba veszi.
 
-(2) Állatkísérletet az végezhet, a kísérleti állatot az gondozhatja, felügyelheti, aki erre képesítő oktatásban részesült.
+(3) Az engedélyben és a nyilvántartásban meg kell jelölni
 
-(3) Állatkísérlet végzésére – ha csak az oktatás céljából más nem következik – oktatási intézményben senki sem kötelezhető.
+- a) a törvényben és e törvény végrehajtására kiadott rendeletben foglaltak betartásáért felelős személy,
+- b) a létesítményben található állatok jólétének és gondozásának felügyeletéért felelős személy,
+- c) az állatok jólétével és kezelésével kapcsolatban tanácsadói feladatokat ellátó, a laborállat-gyógyászatban jártas állatorvos vagy megfelelően képzett szakértő,
+- d) a munkahelyi állatjóléti bizottság elnökének személyes adatai közül a nevét, levelezési címét és az elektronikus levélcímét.
 
-31. § (1) Kísérleti célra állatot tenyészteni (szaporítani), tartani az állatvédelmi hatóság engedélyével szabad. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
+(4) Aki kísérleti állatot tenyészt, szaporít, beszállít vagy felhasznál, köteles nyilvántartást vezetni azon személyek nevéről és címéről, akiktől az állatokat beszerezte és akiknek az állatokat továbbadta. A nyilvántartásban szereplő adatokat öt évig meg kell őrizni.
 
-(2) Kísérlet céljára – külön engedély hiányában – kizárólag e célra tenyésztett állatot szabad felhasználni. Háziasított állatfaj kóbor egyedét kísérlet céljára felhasználni nem szabad.
+### Az állatkísérlet engedélyezése
 
-(3) Az állatvédelmi hatóság annak engedélyezi az (1) bekezdés szerinti tevékenység folytatását, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek. Az állatvédelmi hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+32. § (1) Az állatkísérlet engedélyezése iránti kérelmet az állatvédelmi hatóságnak kell elektronikus úton benyújtani.
 
-(4) Az állatvédelmi hatóság az (1) bekezdés szerinti tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az (1) bekezdés szerinti tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Az állatvédelmi hatóság az állatkísérlet végzését határozott időre engedélyezi.
 
-(5) Az (1) bekezdésben megjelölt szerv a kísérleti állatot tenyésztőt és a tenyésztő létesítményt is nyilvántartásba veszi. A nyilvántartásban meg kell jelölni azt a létesítménynél alkalmazott felelős személyt, aki a telephelyen alkalmas a kísérleti állatállomány megfelelő ellátására. A nyilvántartás a tenyésztő, a forgalmazó és a létesítménynél alkalmazott felelős személy személyes adatai közül a nevet és a levelezési címet tartalmazhatja.
+(3) Az állatvédelmi hatóság nyilvántartást vezet a kísérlet végrehajtásáért felelős személyek nevéről, levelezési címéről és elektronikus levélcíméről.
 
-### Az állatkísérletek engedélyezése
+(4) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá e törvény végrehajtására kiadott rendelet szerinti szakértői testület véleménye alapján – különösen figyelembe kell venni:
 
-32. § (1) Az állatkísérlet iránti kérelemben meg kell jelölni azokat a tudományosan megalapozott indokokat, amelyek az állatkísérletet szükségessé teszik.
+- a) az állatkísérlet elvégzésének indokoltságát és tudományos megalapozottságát, figyelemmel az állatkísérlet helyett élő állatok felhasználását nem igénylő módszerek alkalmazásának követelményére,
+- b) az alkalmazott korszerű módszertan indokoltságát és tudományos megalapozottságát az állatlétszám, a fájdalom, szenvedés, kín és maradandó károsodás lehető legkisebb mértékűre csökkentésének érvényesülése szempontjából,
+- c) az állatoknak szenvedés, fájdalom vagy kín formájában okozott ártalmat indokolttá teszi-e a várt eredmény – az etikai megfontolásokat is figyelembe véve –, és végeredményben az emberek, állatok és a környezet javát szolgálhatja-e, valamint
+- d) a kísérlet személyi és tárgyi feltételeinek rendelkezésre állását.
 
-(2) Az engedélyt határozott időre lehet kiadni.
+(5) Állatkísérlet engedélyezése iránti kérelem elbírálása során a szakértői testület munkájában nem vehet részt az,
 
-(3) Az élelmiszerlánc-felügyeleti szerv végzi:
-
-- a) az állatkísérlet engedélyezését,
-- b) az állatkísérlet végzésére jogosultak nyilvántartását.
-
-(4) Állatkísérlet engedélyezése iránti kérelem elbírálása során a szakértői testület munkájában nem vehet részt az,
-
-- a) akinek a kérelmére indult az eljárás;
-- b) akinek a kísérlet engedélyezéséhez érdeke fűződik;
+- a) akinek a kérelmére indult az eljárás,
+- b) akinek a kísérlet engedélyezéséhez érdeke fűződik, vagy
 - c) aki az a) és b) pontban szereplő személlyel olyan viszonyban áll, amely a testületben való feladata ellátásához szükséges elfogulatlanságát veszélyezteti.
 
-33. § Az állatkísérlet végzésére feljogosított és nyilvántartott intézményben munkahelyi állatkísérleti bizottságot (a továbbiakban: MÁB) kell létrehozni, és működtetni. A MÁB tagjait az intézmény vezetője nevezi ki. A MÁB ügyrendjét maga állapítja meg.
+33. § (1) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak meg nem tartása esetén a kísérlet végzését az észlelt hiányosság megszüntetéséig felfüggesztheti, illetve a kísérletre vonatkozó engedélyt visszavonhatja.
 
-34. § (1) A MÁB feladata az intézmény
+(2) Az állatvédelmi hatóság a kísérleti állatok tartásának körülményeiről szóló jogszabályok megsértése, illetve a tartási, tenyésztési engedélyben előírtak meg nem tartása esetén kötelezi az állattartót az észlelt hiányosságok kijavítására, illetve a jogsértés súlyától, a jogsértő állapot időtartamától, ismétlődésétől, és különösen az állatnak okozott sérelem jellegétől függően visszavonhatja a tartási engedélyt, és kötelezi az állattartót az állatállomány megfelelő elhelyezésére. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
 
-- a) állatkísérleti szabályzatának (etikai kódexének) elkészítése;
-- b) állatkísérleti szabályzata végrehajtásának ellenőrzése;
-- c) állatkísérleteinek szakmai-etikai felügyelete. A MÁB feladata továbbá az intézményben az állatkísérlet végzésére jogosult személyek oktatásának, képzésének szervezése.
+(3) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak két éven belül történő ismételt megsértése esetén a kísérletre vonatkozó engedély visszavonásával egyidejűleg a kísérletet folytató személyt, illetve felhasználó létesítményt – az elkövetett szabályszegés mértékére figyelemmel – a további kísérletek végzésétől határozott időre, de legalább hat hónapra és legfeljebb három évre eltilthatja.
 
-(2) A MÁB az intézmény belső állatkísérleti szabályozásának megsértése esetén jogosult – az élelmiszerlánc-felügyeleti szerv egyidejű értesítése mellett – a kísérlet azonnali leállítására.
+(4) Az (1)–(3) bekezdés szerinti jogkövetkezmény nem járhat hátrányos következményekkel az állatok jólétére nézve.
 
-(3) A MÁB-nak – az (1) bekezdés b)–c) pontja alapján – az adott kísérlet ellenőrzését, illetve felügyeletét végző tagja a kísérlet végzésében nem vehet részt.
-
-35. § (1) Az e fejezetben foglalt előírásokat kizárólag a gerinces állatokon végzett kísérletekre kell alkalmazni.
-
-(2) Az állatkísérletek gerinces állatokon történő végzésének részletes szabályait külön jogszabály állapítja meg. Külön jogszabály a nem gerinces állatokon végzett kísérletekre is feltételeket állapíthat meg.
+34–35. §
 
 ### V. Fejezet — AZ ÁLLAT SZÁLLÍTÁSA
 
@@ -571,7 +571,7 @@ eb után.
 - a) az állat tartója ismeretlen, vagy
 - b) vadon élő, nem vadászható állat esetében az egyed a szabadon élésre vagy fogságban tartásra alkalmatlan, az állatvédelmi hatóság köteles az állat életének fájdalom nélküli kioltásáról gondoskodni. Az állat életének kioltásával kapcsolatban felmerült igazolt költségeket a települési, fővárosban a kerületi önkormányzat köteles megtéríteni. Vadászható állatfaj esetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló, védett állatfaj esetében a természet védelméről szóló törvény szabályait kell alkalmazni.
 
-(2) Állat életének a kioltását az állat tulajdonosa, illetve a természetvédelmi hatóság kezdeményezheti.
+(2)
 
 45/A. § Az e törvényben foglaltak végrehajtását – feladat- és hatáskörében eljárva – az állatvédelmi hatóság, az élelmiszerlánc-felügyeleti szerv, illetve a természetvédelmi hatóság ellenőrzi.
 
@@ -612,7 +612,7 @@ eb után.
 - a) az állatvédelmi bírság mértékét, kiszabásának és felhasználásának részletes szabályait,
 - b) az állatvédelmi hatóság kijelölését, valamint az állatok nyilvántartásával kapcsolatos részletes feladat- és hatáskörét,
 - c) az önkormányzati állatvédelmi őrszolgálat létrehozására, működtetésére, feladat- és hatáskörére, valamint tagjaira vonatkozó részletes szabályokat,
-- d) az állatkísérletek végzésének részletes szabályait,
+- d) az állatkísérletek végzésének részletes szabályait, a kísérleti célú állattenyésztés, -szaporítás, -tartás, -szállítás tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - e) a cirkuszi menazséria létesítése és működtetése engedélyezésének, fenntartásának, valamint a nyilvántartás vezetésének részletes szabályait, továbbá a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - f) a kedvtelésből tartott állatok kereskedése létesítésének és működtetésének engedélyezésére, működésére vonatkozó szabályokat, a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, a kereskedelmi hatóság kijelölését, valamint a kedvtelésből tartott állatok kereskedése működésének ellenőrzésére, továbbá a kedvtelésből tartott állatok tartására, forgalmazására és tulajdonjogának nem kereskedelmi célú átruházására vonatkozó részletes szabályokat,
 - g) a település belterületén a kóbor állatok befogásával, tulajdonjogának átruházásával és elhelyezésével kapcsolatos feladatok ellátásának részletes szabályait,
@@ -625,10 +625,10 @@ rendeletben állapítsa meg.
 (4) Felhatalmazást kap
 
 - a) a miniszter, hogy a szakértői testület létrehozására, működtetésére vonatkozó részletes szabályokat, a mezőgazdasági haszonállatok sajátos tartási szabályait, a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait,
-- b) a természetvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes vagy veszélyesnek nyilvánított állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
+- b) a miniszter, hogy a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d)
-- e) a miniszter, hogy a természetvédelemért felelős miniszterrel egyetértésben a kísérleti célú állattenyésztés, -tartás tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
+- e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,
 - f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
 - g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
 - h) a miniszter, hogy a veszélyes eb tartása engedélyezésének igazgatási szolgáltatási díját, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
@@ -638,28 +638,22 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
 
+(6) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy a kedvtelésből tartott állatok tartásának szabályait rendeletben határozza meg.
+
 50. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a végrehajtására kiadott jogszabályokkal együtt – az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 
-– a Tanács 78/923/EGK határozata: Európai Egyezmény az állatok védelméről a mezőgazdasági állattartás során,
-
-– a Tanács 88/306/EGK határozata: Európai Egyezmény a vágóállatok védelméről,
-
-– a Tanács 88/166/EGK irányelve a ketrecben tartott tojótyúkok védelmének minimális követelményeiről,
-
-– a Tanács 91/628/EGK irányelve az állatok szállítás közbeni védelméről,
-
-– a Tanács 91/629/EGK irányelve a borjak védelmének minimális követelményeiről,
-
-– a Tanács 91/630/EGK irányelve a sertések védelmének minimális követelményeiről,
-
-– a Tanács 93/119/EGK irányelve az állatok védelméről levágásukkor,
-
-– a Tanács 86/609/EGK irányelve a kísérleti vagy más tudományos célra használt állatok védelméről szóló tagállami törvények, rendeletek és közigazgatási rendelkezések összehangolásáról,
-
-– a Tanács 98/58/EK irányelve az állatok védelméről a mezőgazdasági haszonállattartás során,
-
-– a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról,
-
-– az Európai Parlament és Tanács 1523/2007/EK rendelete a macska- és kutyaprém, valamint az ilyen prémet tartalmazó termékek forgalomba hozatalának, a Közösségbe történő behozatalának, illetve onnan történő kivitelének tilalmáról.
+- a) a Tanács 78/923/EGK határozata a mezőgazdasági haszonállatok védelméről szóló európai egyezmény megkötéséről,
+- b) a Tanács 88/306/EGK határozata a vágóállatok védelméről szóló európai egyezmény megkötéséről,
+- c) a Tanács 98/58/EK irányelve a mezőgazdasági haszonállatok védelméről,
+- d) a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról,
+- e) a Tanács 1999/74/EK irányelve a tojótyúkok védelmére vonatkozó minimumkövetelmények megállapításáról,
+- f) a Tanács 1999/575/EK határozata a kísérleti és egyéb tudományos célokra felhasznált gerinces állatok védelmére vonatkozó európai egyezménynek a Közösség által történő megkötéséről,
+- g) a Tanács 2005/1/EK rendelete az állatoknak a szállítás és a kapcsolódó műveletek közbeni védelméről, valamint a 64/432/EGK és a 93/119/EK irányelv és a 1255/97/EK rendelete módosításáról,
+- h) a Tanács 2007/43/EK irányelve a hústermelés céljából tartott csirkék védelmét szolgáló minimumszabályok megállapításáról,
+- i) az Európai Parlament és Tanács 1523/2007/EK rendelete a macska- és kutyaprém, valamint az ilyen prémet tartalmazó termékek forgalomba hozatalának, a Közösségbe történő behozatalának, illetve onnan történő kivitelének tilalmáról,
+- j) a Tanács 2008/119/EK irányleve a borjak védelmére vonatkozó minimumkövetelmények megállapításáról,
+- k) a Tanács 2008/120/EK irányelve a sertések védelmére vonatkozó minimumkövetelmények megállapításáról,
+- l) a Tanács 1099/2009/EK rendelete az állatok leölésük során való védelméről,
+- m) az Európai Parlament és a Tanács 2010/63/EU irányelve a tudományos célokra felhasznált állatok védelméről.
 
 51. § E törvény 42/C. § (4) bekezdésének a) pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.

@@ -178,7 +178,7 @@ alá.
 
 (2) Befektetési alapkezelőnél vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
-- a) a (9) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja;
+- a) a (9) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt hatósági bizonyítvány útján igazolja;
 - b) felsőfokú végzettséggel rendelkezik;
 - c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik és
 - d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és a 11. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
@@ -187,11 +187,11 @@ alá.
 
 (4) A vezető állású személy és a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok. A felfüggesztés időtartama legfeljebb 60 nap lehet, amelynek ideje alatt a vezető állású személy tisztségéhez kötődő jogait nem gyakorolhatja.
 
-(5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja –, legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat.
+(5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt hatósági bizonyítvány útján igazolja –, legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat.
 
-(6) A befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
+(6) A befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt hatósági bizonyítvány útján igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
-(7) Az adminisztratív tevékenységet irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja –, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzügyi intézményi szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
+(7) Az adminisztratív tevékenységet irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt hatósági bizonyítvány útján igazolja –, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzügyi intézményi szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
 (8) A (2) és (5)–(7) bekezdés esetében
 
@@ -1642,7 +1642,7 @@ kapja meg; valamint
   - bn) tájékoztató, kezelési szabályzat utolsó módosításának időpontja,
   - bo) jogelőd, jogutód befektetési alap neve.
 
-(2)
+(2) A Felügyelet (1) bekezdés szerinti nyilvántartása nyilvános. A Felügyelet az (1) bekezdésben meghatározott adatokat a honlapján letölthető formában magyar és angol nyelven közzéteszi.
 
 (3) A Felügyelet a befektetési alapkezelők (1) bekezdés szerinti adatainak változása esetén tájékoztatja a befektetési alapkezelő fogadó országának hatáskörrel rendelkező felügyeleti hatóságát.
 

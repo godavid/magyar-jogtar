@@ -30,20 +30,24 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A hitelintézet a járadékelőleget negyedévente, a negyedévet követő hónap 12-éig, az utolsó negyedévi adóelőleget az adóév utolsó hónapjának 20. napjáig fizeti meg az adott negyedévben kamat és kamatjellegű bevétel címén elszámolt összeg után.
 
-(5)–(7)
+(5) A pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Gyűjtőszámlahitel tv.) 2/A. § (1) bekezdése alapján az állam által 2013-ra megtérített összeg 50%-ával megegyező összegű járadékot állapít meg és fizet a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrész után. A pénzügyi intézmény a járadékot negyedévente, az államot a negyedévre terhelő megtérítési kötelezettség teljesítésére jogszabályban előírt határidőt követő hó utolsó napjáig állapítja meg, vallja be és fizeti meg. Az állam által a Gyűjtőszámlahitel tv. alapján megtérített mentesített követelésrészre és az államnak a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettségére tekintettel a gyűjtőszámlahitelek és az azok alapjául szolgáló devizakölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
+
+(6) A Gyűjtőszámlahitel tv. 2/A. §-a alapján az állam által az üzleti évre (az adóévre) megtérített összeget a pénzügyi intézménynél az üzleti év (ár)bevétele alapulvétele alapján fizetendő adó és más hasonló fizetési kötelezettség megállapításánál figyelmen kívül kell hagyni, továbbá a Gyűjtőszámlahitel tv. 2/A. § (2) bekezdése alapján az állam által 2013-ra megtérített összeg mentes az (1)–(4) bekezdésben meghatározott járadék alól.
+
+(7) Az állam által a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet alapján nyújtott támogatásra, továbbá az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet alapján nyújtott támogatásra tekintettel a támogatással érintett kölcsönök az (1)–(4) bekezdés értelmében nem minősülnek állami kamattámogatással, kamatkiegyenlítéssel közvetlenül érintett hitelállománynak.
 
 ### Pénzügyi szervezetek különadója
 
-4/A. § (1) A pénzügyi szervezet 2012-ben különadó megállapítására, bevallására és fizetésére kötelezett.
+4/A. § (1) A pénzügyi szervezet 2013-ban különadó megállapítására, bevallására és fizetésére kötelezett.
 
-(2) A pénzügyi szervezet a különadót 2012. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
+(2) A pénzügyi szervezet a különadót 2013. március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010-ben és 2011-ben jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2012. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2010–2012. között jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján 2013. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
 - 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított módosított mérlegfőösszeg;
-- 2. biztosítónál a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált díj;
+- 2.
 - 3. egyéb pénzügyi szervezetnél:
   - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege;
   - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
@@ -56,7 +60,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 (6) A különadó mértéke
 
 - a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,53 százalék,
-- b) biztosító esetén az adóalap 1 milliárd forintot meg nem haladó része után 1,5 százalék, 8 milliárd forintot meg nem haladó része után 3 százalék, az e feletti összegre 6,4 százalék,
+- b)
 - c) egyéb pénzügyi szervezet esetén:
   - ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pontjában meghatározott összeg 6,5 százaléka,
   - cb) befektetési vállalkozásnál 5,6 százalék,
@@ -66,7 +70,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
-(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos (4) és (6) bekezdése szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti. E bekezdést nem kell alkalmazni akkor, ha a jogutód a (3) bekezdés szerint állapítja meg a különadót.
+(8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
@@ -76,7 +80,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
 - c) a befektetési alapkezelő az adóalap meghatározásakor számításba vett, általa kezelt alapok megnevezését és nettó eszközértékét, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon értékének összegét,
 - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
-- e) a biztosító az adóalap meghatározásakor számításba vett korrigált díjbevétel megállapítását tartalmazó kimutatást.
+- e)
 
 (11) A hitelintézet, a pénzügyi vállalkozás (a továbbiakban együtt: pénzügyi intézmény) által 2011-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adó-visszatérítés címén csökkenti a fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített előtörlesztés miatt, valamint a fogyasztóval kötött deviza alapú pénzügyi lízingszerződés alapján fennálló követelése teljesítése (ideértve különösen a finanszírozási összeg és maradványérték megfizetését) következtében
 
@@ -154,9 +158,13 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (37) A (21) bekezdés szerinti adóvisszatérítést az előzőek szerint csökkentett adó terhére veheti igénybe a pénzügyi intézmény.
 
+(38) A Hpt. szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
+
+(39) A Hpt. 80. § (1) bekezdés m) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
+
 ### A hitelintézetek különadója
 
-4/B. § (1) A hitelintézet a 2012-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
+4/B. § (1) A hitelintézet a 2013-ban kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
 
 (2) A különadó alapja az üzleti év (adóév) adózás előtti eredménye, növelve az annak terhére a pénzügyi szervezetek különadója címén fizetett (fizetendő) összegének megfelelően ráfordításként elszámolt összegével.
 
@@ -199,10 +207,9 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 - 1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon az állammal elszámolja;
 - 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
-- 3. pénzügyi szervezet: a hitelintézet, a biztosító és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
+- 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti hitelintézet;
-- 5. biztosító: a biztosítókról és a biztosítási tevékenységről szóló törvény (a továbbiakban: Bit.) szerinti biztosító (ide nem értve a nem jelentős biztosító egyesületeket) és a viszontbiztosítókról szóló törvény szerinti viszontbiztosító;
-- 6. nem jelentős biztosító egyesület: a Bit. szerinti nem-élet biztosítási ágon belül kizárólag a tűz és elemi károk, az egyéb vagyoni károk és a segítségnyújtási ágazatot művelő olyan biztosító egyesület, amely éves díjbevételének és tagsági hozzájárulásának együttes összege az utóbbi három üzleti évben egyszer sem érte el a 125 millió forintot;
+- 5–6.
 - 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
 - 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást;
 - 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
@@ -226,9 +233,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - m) ha a j) pont szerinti nyilatkozat az eszközök értékét devizában tartalmazza, akkor ennek átszámítása az adóalany által a mérlegfőösszeg meghatározott árfolyamnak megfelelően történik,
   - n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz kapcsolódó minden jogkövetkezmény az adóalanyt terheli;
 - 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
-- 16. egyszeri díj: azon életbiztosítási szerződésekből származó díj, amely egy összegben a tartam elején esedékes;
-- 17. eseti díj: az életbiztosítási szerződéshez kapcsolódó, a szerződésben előre rögzített díjfizetési kötelezettségen felül fizetett biztosítási díj;
-- 18. korrigált díj: a nem-élet biztosítási ágból származó megszolgált díj viszontbiztosítás nélküli összege, növelve az életbiztosítási ág bruttó díjával, csökkentve az egyszeri díjas biztosítások díjának 90 százalékával és az eseti biztosítási díjak 90 százalékával, továbbá csökkentve a halasztott kezdetű nyugdíjkiegészítő biztosításoknak az Önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 46–49. §-ainak a Felügyelet által igazoltan megfelelő díjbevételével;
+- 16–18.
 - 19. korrigált nettó árbevétel:
   - a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
   - b) tőzsdénél: a tőzsdei tevékenység bevételei növelve az egyéb bevételekkel;

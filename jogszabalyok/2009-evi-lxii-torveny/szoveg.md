@@ -13,7 +13,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama Magyarország – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
 - b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén a fogalomban történő részvételének feltételeire;
 - c) a biztosítók, a kárrendezési megbízott, kárképviselő, a levelező, a Kártalanítási Számla, a Kártalanítási Alap, a Nemzeti Iroda, a Kártalanítási Szervezet, az Információs Központ, valamint a Magyar Biztosítók Szövetségének (a továbbiakban: MABISZ) e törvényben szabályozott tevékenységére;
-- d) a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a külön jogszabályban meghatározott, közlekedési igazgatási hatóságnak (a továbbiakban: jegyző) és a vámhatóságnak e törvényben szabályozott tevékenységére.
+- d) a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) és a vámhatóságnak e törvényben szabályozott tevékenységére.
 
 2. § E törvény hatálya nem terjed ki:
 
@@ -29,10 +29,10 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
 - 3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
 - 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
-- 5. díjtarifa: külön rendeletben meghatározott gépjármű-kategóriánként, és – a flotta kivételével – bonus-malus osztályonként, egy meghatározott naptári évre vonatkozóan a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
+- 5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
 - 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
-- 7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, valamint az üzemben tartó önhibáján kívül eső, hitelt érdemlően igazolt okból bekövetkező díjnemfizetés időtartamának kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
-- 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja;
+- 7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
+- 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja; 8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
 - 9. gépjárműflotta: egy adott biztosítónál ugyanazon – egyéni vállalkozó, jogi személy, jogi személyiség nélküli gazdasági társaság – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma eléri az ötöt;
 - 10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
 - 11. gépjárműverseny: zárt versenypályán vagy a forgalom elől elzárt közúton (útszakaszon) tartott, gépjárművek számára rendezett sportrendezvény;
@@ -45,7 +45,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 18. kárképviselő: a határon átnyúló szolgáltatás esetében a biztosító által a gépjármű-felelősségbiztosítási károk rendezésével, a biztosító peres és peren kívüli képviseletével megbízott, illetve arra jogosult személy vagy szervezet;
 - 19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
 - 20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kárigényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
-- 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában biztosítási fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a Bit. szerinti felszámolási eljárás megindult;
+- 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában e törvény szerinti biztosítási szerződés alapján fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a biztosító tevékenységét engedélyező tagállamban felszámolási eljárás megindult;
 - 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 - 23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kárigények elbírálása és kielégítése e törvényben meghatározott esetekben;
 - 24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
@@ -92,11 +92,11 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### A szerződés létrejötte és megszűnése
 
-5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama a Magyarország, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni.
+5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama Magyarország, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni. A biztosító a biztosítási időszak kezdetét hatvan nappal megelőzően tett ajánlatot nem fogadhatja el, és ezen időpontot megelőzően szerződést nem köthet, az így létrejött szerződés érvénytelen. A biztosító az ajánlat elutasításáról annak beérkezésétől számított tizenöt napon belül értesíti az üzemben tartót.
 
 (2) Ha a biztosítási szerződés a biztosítási időszak tartama alatt a 21. § (4) bekezdésében meghatározottak szerint (díjnemfizetés) szűnik meg, az üzemben tartónak az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát kizárólag az a biztosító jogosult és köteles elfogadni, amelynél a szerződés az adott biztosítási időszakban díjnemfizetéssel szűnt meg.
 
-(3) A (2) bekezdésben meghatározott esetben az üzemben tartó annál a biztosítónál köteles a szerződést megkötni, ahol a szerződése díjnemfizetés miatt szűnt meg.
+(3) A (2) bekezdésben meghatározott esetben az üzemben tartó annál a biztosítónál köteles a szerződést – az újrakötött szerződés kockázatviselési kezdetének időpontjában alkalmazandó díjtarifa alapján – megkötni, ahol a szerződése díjnemfizetés miatt szűnt meg.
 
 (4) Az a biztosító, amely a szerződést a biztosítási időszak végére felmondta vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
 
@@ -142,15 +142,15 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (4) Az üzemben tartó köteles 8 napon belül bejelenteni a biztosítónak a biztosítást igazoló okiratban feltüntetett adatok változását.
 
-10. § A biztosítási szerződés hatálya alatt ugyanarra a biztosítási időszakra kötött további biztosítási szerződés érvénytelen.
+10. § Ugyanarra a biztosítási időszakra vagy ugyanazon biztosítási időszak egy részére kötött további biztosítási szerződés érvénytelen.
 
 ### A gépjárműflottára kötött szerződésre alkalmazandó szabályok
 
 11. § (1) Gépjárműflottára kötött szerződés esetén a szerződő felek az e törvényben meghatározottaktól eltérhetnek a szerződés létrejöttét, megszűnését, a biztosítási időszakot, a díjfizetést illetően.
 
-(2) A biztosító köteles a flottára kötött szerződés vonatkozásában – az egyedi szerződéseket illető díjtarifa meghirdetésével egyidejűleg – a következő naptári évre vonatkozó díjtarifáját legalább két országos napilapban és a honlapján meghirdetni, amelyet nem változtathat meg.
+(2) A biztosító a díjat a flottára kötött szerződés vonatkozásában a biztosítási időszak, illetve tartam kezdő napján alkalmazandó díjtarifa alapján alakítja ki. A biztosító az így megállapított díjat az adott biztosítási időszak alatt nem változtathatja meg.
 
-(3) A biztosító a díjat a flottára kötött szerződés vonatkozásában a meghirdetett – időszak, illetve tartam kezdőnapján érvényben lévő – díjtarifa alapján alakítja ki és azt az adott biztosítási időszak alatt nem változtatja meg.
+(3) A biztosító köteles a flottára kötött szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 (4) Gépjárműflottára a flottához tartozó gépjárművek kategóriáitól és fajtáitól függetlenül határozott tartamú szerződés is köthető.
 
@@ -199,7 +199,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (3) A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló miniszteri rendeletben meghatározott mezőgazdasági erőgép (lassú jármű) esetében határozatlan tartamú szerződés köthető.
 
-17. § (1) A határozatlan tartamú szerződések esetében a biztosítási időszak egy év, valamint az 5. § (2) bekezdésében, továbbá a 21. § (6) bekezdésében meghatározott esetekben a megszűnt szerződés szerinti biztosítási időszak végéig terjedő időszak.
+17. § (1) A határozatlan tartamú szerződések esetében a biztosítási időszak egy év, az 5. § (2) bekezdésében meghatározottak szerint újrakötött szerződések esetében a megszűnt szerződés szerinti biztosítási időszak végéig terjedő időszak.
 
 (2) A biztosítási évfordulót a biztosítást igazoló okiraton fel kell tüntetni.
 
@@ -247,9 +247,9 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (5) A biztosító köteles a szerződés megszűnéséről 15 napon belül az üzemben tartónak igazolható módon értesítést küldeni, amennyiben a szerződés megszűnése díjnemfizetés miatt következett be.
 
-(6) Ha a szerződés díjnemfizetés miatti megszűnése az üzemben tartó önhibáján kívül eső okból következik be, az üzemben tartó a megszűnés tudomására jutásától számított 15 napon belül, de legkésőbb a megszűnést követő 2 hónapon belül, kizárólag az önhiba hiányát alátámasztó tények hitelt érdemlő igazolásával kezdeményezheti a jövőre nézve – egy adott biztosítási időszakon belül – az eredetivel egyező szerződéses állapot helyreállítását.
+(6) Az 5. § (3) bekezdésében meghatározott esetben a szerződő fél a szerződés megkötésekor köteles megfizetni az újrakötött szerződés vonatkozásában az adott biztosítási időszak hátralévő részére járó díjat, és – amennyiben még nem fizette meg – a díjnemfizetéssel megszűnt szerződés vonatkozásában a türelmi időre járó díjat.
 
-(7) Az üzemben tartó a szerződéses állapot (6) bekezdés szerinti helyreállítására akkor jogosult, ha a szerződés megszűnéséig esedékessé vált díjat a biztosítónak megfizeti, és a szerződés díjnemfizetéssel történő megszűnését követően a szerződéses állapot helyreállításáig a gépjármű nem vett részt a közúti forgalomban, illetve azzal kárt nem okoztak.
+(7) A biztosító köteles a szerződés (4) bekezdés szerinti díjnemfizetés miatt bekövetkező megszűnése esetén a kötvénynyilvántartó szerv felé a 49. § alapján fennálló értesítési kötelezettségének a szerződés megszűnésétől számított nyolc munkanapon belül eleget tenni.
 
 ### Fedezetlenségi díj megfizetésére vonatkozó szabályok
 
@@ -265,23 +265,21 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) Ha az üzemben tartó az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a 21. § (4) bekezdésében meghatározott rendelkezéseket kell alkalmazni.
 
-(7) A fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó – egy naptári évre számított tarifáját gépjármű-kategóriánként minden év október 30-ig a Kártalanítási Számla kezelője hirdeti meg két országos napilapban és honlapján.
+(7) A Kártalanítási Számla kezelője a fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó, a Kártalanítási Számla általi kártérítések és a kártérítésekhez kapcsolódó eljárási költségek alapján egy naptári évre számított – tarifáját gépjármű-kategóriánként, legkésőbb a naptári év végét megelőző negyvenötödik napig a Felügyelet elnöke által meghatározott módon a Felügyelet honlapján meghirdeti, továbbá ezzel egyidejűleg a MABISZ honlapján közzéteszi. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 ### Díjtarifa, díjhirdetés
 
-23. § (1) A biztosító a díjat minden egyedi szerződés vonatkozásában a meghirdetett díjtarifa alapján alakítja ki és azt az adott biztosítási időszak alatt – a bonus-malus rendszerre vonatkozó külön rendeletben meghatározottak kivételével – nem változtatja meg.
+23. § (1) A biztosító a díjat minden egyedi szerződés vonatkozásában a meghirdetett – a biztosítási időszak, illetve tartam kezdőnapján alkalmazandó – díjtarifa alapján alakítja ki és azt az adott biztosítási időszak alatt – jogszabály eltérő rendelkezése hiányában – nem változtathatja meg, kivéve, ha a szerződés díja a szerződő üzemben tartónak a szerződés megkötésekor fennálló közlési vagy együttműködési kötelezettségének megsértése következtében tér el a díjtarifa szerint megállapítandó díjtól.
 
-(2) A biztosítási időszakra, valamint a határozott tartamú szerződésre az időszak, illetve a tartam kezdőnapján érvényben lévő díjtarifát kell alkalmazni.
+(2) A szerződő üzemben tartónak a szerződés megkötésekor fennálló közlési vagy együttműködési kötelezettségének megsértése esetén a szerződés díja legkésőbb a kockázatviselés kezdetét követő hatvan napon belül, az üzemben tartó egyidejű értesítése mellett – a szerződéskötéskor fennálló tények figyelembevételével – a kockázatviselés kezdetétől alkalmazandó hatállyal módosítható a biztosítási időszak, illetve tartam kezdőnapján alkalmazandó díjtarifa szerint.
 
-(3) A biztosító köteles minden egyedi szerződés vonatkozásában a (2) bekezdésben meghatározottak szerint alkalmazandó, a következő naptári évre vonatkozó díjtarifáját október 30-ig legalább két országos napilapban és a honlapján meghirdetni.
+(3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
 
-(4) A biztosító a meghirdetett díjtarifáját nem változtathatja meg.
+(4) A biztosító köteles a biztosítási feltételeit és az alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
 
-(5) A biztosító köteles a biztosítási feltételeit, az adott naptári évben alkalmazandó, valamint október 30-át követően a következő évben alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
+(5) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és Magyarország területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy a (4) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
 
-(6) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és Magyarország területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy az (5) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
-
-24. § (1) A határozatlan tartamú szerződés fennállása alatt a biztosítás díja a következő biztosítási időszak első napjától kezdődő hatállyal a 23. § (1)–(2) bekezdéseiben meghatározottak szerint módosul.
+24. § (1) A határozatlan tartamú szerződés fennállása alatt a biztosítás díja a következő biztosítási időszak első napjától kezdődő hatállyal a biztosítási időszak kezdőnapján alkalmazandó díjtarifa szerint módosul, és az az adott biztosítási időszak alatt nem változtatható meg.
 
 (2) Az (1) bekezdésben foglaltaktól kizárólag akkor lehet eltérni, ha azt jogszabály kifejezetten lehetővé teszi.
 
@@ -350,18 +348,18 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 32/A. § (1) Gépjármű károsodása esetén a biztosító előzetes kalkulációt készít az általa téríthető helyreállítási költségek és kiadások nettó, illetve bruttó összegéről, illetve – amennyiben az értékcsökkenés fizetésének feltétele fennáll – az értékcsökkenés mértékének megfelelő összegről, és erről tájékoztatja a károsultat.
 
-(2) A biztosító a gépjárműben keletkezett kár helyreállításához szükséges költségek általános forgalmi adóval növelt összegét a károsultnak csak akkor térítheti meg, ha a károsult által bemutatott számla tartalmazza a gépjármű helyreállításához szükséges munkálatok megnevezését, anyagköltségét és munkadíját, valamint az a számvitelről szóló törvény előírásainak megfelel. Ellenkező esetben a biztosító a gépjárműben keletkezett kárként az (1) bekezdés szerinti nettó összeget, illetve – amennyiben az értékcsökkenés fizetésének feltétele fennáll – az értékcsökkenés összegét téríti meg.
+(2) A biztosító a gépjárműben keletkezett kár helyreállításához szükséges költségek általános forgalmi adóval növelt összegét a károsultnak csak akkor térítheti meg, ha a károsult által bemutatott számla tartalmazza a gépjármű helyreállításához szükséges munkálatok megnevezését, anyagköltségét és munkadíját, valamint az a számvitelről szóló törvény előírásainak megfelel. Ellenkező esetben a biztosító a gépjárműben keletkezett kárként az (1) bekezdés szerinti nettó összeget téríti meg. Amennyiben az értékcsökkenés fizetésének feltétele fennáll, a biztosító az (1) bekezdés szerinti értékcsökkenés összegét téríti meg. Gazdasági totálkár esetén, vagy ha a káresemény következtében károsult gépjármű helyreállítása műszaki okokból nem lehetséges, a biztosító a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét alapul véve köteles megtéríteni a károsult kárát.
 
 32/B. § (1) Ha a biztosító úgy ítéli meg, hogy a közlekedési balesettel érintett gépjármű kormányműve, futóműve, illetve karosszériája (alváza) olyan károsodást szenvedett, amely miatt a közúti forgalomban való további részvételre közlekedésbiztonsági szempontból alkalmatlannak tekinthető és a helyreállítás – a jogosult erre irányult nyilatkozata alapján – nem történik meg, a kárfelvételi eljárás befejezésétől számított tíz napon belül – az alkalmatlanság okának feltüntetésével – értesíti a közlekedési hatóságot, kivéve, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatja.
 
 (2) A gépjárműben keletkezett károsodás esetén a biztosító a kár helyreállításához szükséges teljes költséget biztosítási szolgáltatása keretében csak akkor térítheti meg a károsultnak, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként
 
 - a) arról tájékoztatja a biztosítót, hogy a gépjármű a közúti forgalomban való részvételre közlekedésbiztonsági szempontból alkalmas, vagy
-- b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben meghatározott kivétellel műszakilag alkalmatlannak minősíti, és ennek alapján a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – ideiglenesen kivonta a forgalomból.
+- b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben meghatározott kivétellel műszakilag alkalmatlannak minősíti, és ennek alapján a gépjárművet a járási hivatal – a külön jogszabályban meghatározottak szerint – ideiglenesen kivonta a forgalomból.
 
 (3) A (2) bekezdés b) pontja nem alkalmazható abban az esetben, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjárművet közlekedésbiztonsági szempontból véglegesen alkalmatlannak minősítette.
 
-(4) A biztosító az értékcsökkenés összegét csak abban az esetben fizetheti ki a károsult részére, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatta vagy a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – végleg kivonta a forgalomból.
+(4) A biztosító az értékcsökkenés összegét csak abban az esetben fizetheti ki a károsult részére, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatta vagy a gépjárművet a járási hivatal – a külön jogszabályban meghatározottak szerint – végleg kivonta a forgalomból.
 
 (5) A károsult részére a biztosító nem fizetheti ki a 32/A. § (1) bekezdése szerint kalkulált nettó összeget, illetve az értékcsökkenés összegét, ha a közlekedési hatóság arról tájékoztatja, hogy az üzemben tartó az (1) bekezdésben foglalt értesítés alapján elrendelt műszaki vizsgálatra a gépjárművet nem mutatta be, és a műszaki vizsgálatára más módon sem került sor.
 
@@ -407,7 +405,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) A vagyon- és felelősségbiztosításból, valamint a társadalombiztosításból eredő megtérítési követeléseket a Kártalanítási Számla nem fedezi.
 
-(3) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki az ismeretlen gépjárművel a károsult gépjárműben, az útban, az út tartozékát képező közlekedési műtárgyakban, az elektromos és a hírközlési berendezésekben és egyéb közművekben, ezek tartozékaiban, valamint a reklámhordozó eszközökben okozott károkra.
+(3) A Kártalanítási Számla kezelőjének kártalanítási kötelezettsége nem terjed ki az ismeretlen gépjárművel a károsult gépjárműben, az útban, az út tartozékát képező közlekedési műtárgyakban, az elektromos és a hírközlési berendezésekben és egyéb közművekben, ezek tartozékaiban, a reklámhordozó eszközökben, továbbá az egyéb vagyontárgyakban okozott károkra.
 
 (4) Ha az ismeretlen gépjárművel okozott baleset halállal vagy súlyos személyi sérüléssel jár, a Kártalanítási Számla kezelője megtéríti a károsult gépjárműben okozott károkat is.
 
@@ -528,7 +526,7 @@ változás következik be.
 
 45. § (1) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság eljárása során történő tanúsítására a külön rendeletben meghatározott igazolóeszköz szolgál.
 
-(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes jegyző a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
+(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
 
 (3) A Magyar Honvédség által üzemben tartott gépjárművek biztosítási fedezetének igazolására a Magyar Honvédség nevére kiállított forgalmi engedély szolgál.
 
@@ -551,7 +549,7 @@ változás következik be.
 47. § (1) A kötvénynyilvántartásból adatot igényelhet:
 
 - a) a 46. § (2) bekezdésének b), c) és e) pontjaiban foglalt adatok tekintetében – az e törvényben meghatározott feladatai ellátásához – a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
-- b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és a káresemény időpontja szerinti adatokra vonatkozóan;
+- b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése és a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és költsége visszakövetelése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - c) a 46. § (2) bekezdésében foglalt adatok tekintetében – az e törvényben meghatározott koordinációs, kárrendezési és elszámolási feladatok ellátása céljából – a Nemzeti Iroda, a káresemény időpontja szerinti adatokra vonatkozóan;
 - d) a 46. § (2) bekezdésében foglalt adatok tekintetében – a károk kezelése és rendezése céljából – a levelező, a káresemény időpontja szerinti adatokra vonatkozóan;
 - e) a 46. § (2) bekezdésében foglalt adatok tekintetében – a kárigények érvényesítése érdekében adatok közlése és e törvényben meghatározott egyéb feladatok ellátása céljából – az Információs Központ, a káresemény időpontja szerinti adatokra vonatkozóan;
@@ -573,11 +571,11 @@ változás következik be.
 
 (5) Az (1) bekezdés b)–m) pontjaiban meghatározott adatigénylők részére történő adatszolgáltatás díjmentes.
 
-48. § (1) A kötvénynyilvántartó szerv negyedévenként köteles a járműnyilvántartás és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, majd a 45. § (2) és (3) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes jegyző részére továbbítani.
+48. § (1) A kötvénynyilvántartó szerv negyedévenként köteles a járműnyilvántartás és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, majd a 45. § (2) és (3) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.
 
 (2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
 
-49. § A biztosító a szerződés létrejöttétől, illetve megszűnésétől, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
+49. § A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott kivétellel – megszűnésétől, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
 
 50. § (1) A kötvénynyilvántartásban kezelt személyes adatok tekintetében az adatkezelő a kötvénynyilvántartó szerv. A kötvénynyilvántartó szerv a kötvénynyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -750,7 +748,7 @@ késedelem nélkül megkapja.
 
 (6) Érdekmúlással megszűnik a gépjárműflottára kötött szerződés, ha 2011. január 1-jén nem felel meg az e törvény gépjárműflottára kötött szerződésekre vonatkozó szabályainak.
 
-62. §
+62. § Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 5. § (1) bekezdését a 2013. január 1-jét követően tett ajánlatokra vagy megkötött szerződésekre kell alkalmazni.
 
 62/A. § (1) A biztosító a 2012. október 30-áig meghirdetendő díjtarifáját a 23. § (3) bekezdésétől eltérően 2013. január 1-től alkalmazandó tarifájaként hirdeti meg.
 
@@ -782,6 +780,8 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a közlekedésrendészetért felelős miniszterrel egyetértésben rendeletben állapítsa meg a magyarországi telephelyű gépjárművek, továbbá más tagállami telephelyű és magyarországi rendeltetési hellyel rendelkező gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a kormány tagja, hogy rendeletben megállapíthassa a biztosítási kötelezettség alól mentes gépjárművek körét, ezek nyilvántartására vonatkozó szabályokat, gépjárművek által okozott károk megtérítését és rendezését végző szerv kijelölését, a szerv működésére vonatkozó szabályokat és a mentesített gépjárművek igazolóeszközzel történő ellátására vonatkozó szabályokat.
+
+(4) Felhatalmazást kap a Felügyelet elnöke, hogy az egyedi szerződésekre vonatkozó díjtarifának, a gépjárműflottára kötött szerződésekre vonatkozó díjtarifának, továbbá fedezetlenségi díj tarifájának a Felügyelet honlapján történő meghirdetésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

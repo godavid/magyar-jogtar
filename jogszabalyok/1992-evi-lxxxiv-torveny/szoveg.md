@@ -49,12 +49,12 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-- a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék, ideértve az álláskeresési támogatás és az ápolási díj után fizetett nyugdíjbiztosítási járulékot;
+- a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
 - b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
-- c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. a Nemzeti Foglalkoztatási Alap általi megtérítéseket, 4. a korkedvezmény biztosítási járulék, 5. a gyermekgondozási díjban részesülők utáni nyugdíjbiztosítási járulék címen átvett pénzeszközt, 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 23. § (1) bekezdés d) pontjában, a 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
+- c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. a Nemzeti Foglalkoztatási Alap általi megtérítéseket, 4. a korkedvezmény biztosítási járulék, 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 - d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
-- f) a központi költségvetési hozzájárulások, ideértve az adórendszer átalakításával összefüggő pénzeszköz átvételt;
+- f) a költségvetési hozzájárulások, ideértve a Nyugdíjbiztosítási Alapot megillető munkahelyvédelmi akciótervvel összefüggő hozzájárulás és az adórendszer átalakításával összefüggő pénzeszköz átvétel összegét;
 - g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg és az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot megillető összeg,
 - h) a Nyugdíjbiztosítási Alap részére tartozás fejében átadott vagyon értékesítéséből, hozamából származó bevétel;
 - i) a Nyugdíjbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
@@ -62,7 +62,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 - k)
 - l) törvény alapján a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszköz.
 
-(4) A Nyugdíjbiztosítási Alap a rokkantsági, rehabilitációs ellátások fedezetére az Egészségbiztosítási Alapnak, a korhatár alatti ellátások fedezetére a Nemzeti Család- és Szociálpolitikai Alapnak a központi költségvetésről szóló törvényben meghatározott összegű pénzeszközt ad át.
+(4)
 
 (5) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény és a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerint megállapított hozzátartozói nyugellátások fedezetét a központi költségvetés megtéríti a Nyugdíjbiztosítási Alapnak.
 
@@ -80,17 +80,17 @@ kiadásainak fedezetére szolgál.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-- a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék), ideértve az álláskeresési támogatás után fizetett egészségbiztosítási járulékot is;
+- a) a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 - b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
 - c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. a Nemzeti Foglalkoztatási Alap általi megtérítéseket, 6.
 - d) az egészségügyi hozzájárulás;
 - e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
-- f) a központi költségvetésből származó hozzájárulások, térítések, ideértve a terhesség-megszakítással kapcsolatos költségvetési térítések, rokkantsági, rehabilitációs ellátások fedezetére átvett pénzeszköz és egyéb, törvényben előírt költségvetési támogatás összegét;
+- f) a költségvetésből származó hozzájárulások, térítések, ideértve az Egészségbiztosítási Alapot megillető munkahelyvédelmi akciótervvel összefüggő hozzájárulás, a rokkantsági, rehabilitációs ellátások fedezetére átvett pénzeszköz és egyéb, törvényben előírt költségvetési támogatás összegét;
 - g) az egészségbiztosítási tevékenységgel kapcsolatos egyéb bevételek, ideértve 1. a terhesség-megszakítással kapcsolatos egyéni térítési díjat, 2. a baleseti és egyéb kártérítések megtérített összegét, 3. az Egészségbiztosítási Alapból kifizetett – jogalap nélkül felvett vagy más ok miatt – visszaérkezett bevételként elszámolt összeget, 4. a nemzetközi egyezményekből eredő ellátások megtérítésének összegét, 5. egyéb törvényben meghatározott további bevételeket;
 - h) az Egészségbiztosítási Alap részére tartozás fejében átadott vagyon értékesítéséből, hozamából származó bevétel;
 - i) az Egészségbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
 - j) a 10. § (1) bekezdésében meghatározott működési bevételek;
-- k) rokkantsági, rehabilitációs ellátások fedezetére az Ny. Alaptól átvett pénzeszköz.
+- k)
 
 (4)
 

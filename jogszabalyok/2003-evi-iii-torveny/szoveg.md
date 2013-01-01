@@ -130,7 +130,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (5) A főigazgató a Levéltár által kezelt, a minősített adatok védelmére szolgáló rendszerek és intézkedések adatai tekintetében a minősített adat védelméről szóló törvény szerinti minősítői jogkört gyakorol.
 
-(6) A kinevezés és a felmentés kivételével az egyéb munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Főtitkára gyakorolja.
+(6) A kinevezés és a felmentés kivételével a munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Hivatala főigazgatója gyakorolja.
 
 (7) A Levéltár munkatársaira egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 

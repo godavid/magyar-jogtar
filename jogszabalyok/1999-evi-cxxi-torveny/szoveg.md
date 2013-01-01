@@ -94,7 +94,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 ### A gazdálkodó szervezetek kamarai nyilvántartása
 
-8/A. § (1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését, az egyéni vállalkozó a külön jogszabályban meghatározott bejelentés alapján történő nyilvántartásba vételét követő öt munkanapon belül – a (2) bekezdésben meghatározott kivétellel – köteles a székhelye szerint illetékes, a (2) bekezdés szerinti területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni.
+8/A. § (1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését, az egyéni vállalkozó a külön jogszabályban meghatározott bejelentés alapján történő nyilvántartásba vételét követő öt munkanapon belül köteles a székhelye szerint illetékes, a (2) bekezdés szerinti területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni.
 
 (2) A gazdálkodó szervezet a kereskedelmi és iparkamaránál köteles kérni a kamarai nyilvántartásba való bejegyzését.
 
@@ -126,7 +126,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) elősegítik a gazdaság fejlődésére jelentős hatást gyakorló, nemzetgazdasági szinten hatékony, a közvetlen vállalkozói érdekeltséget meghaladó célok megvalósulását, ennek érdekében részt vesznek az átfogó gazdaságfejlesztési, gazdaságstratégiai döntések előkészítésében, és együttműködnek az állami és a helyi önkormányzati szervekkel, illetve a gazdasági érdekképviseleti szervezetekkel;
 - c) tájékoztatást adnak a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítják a gazdasági együttműködés fejlődését;
 - d) közreműködnek a területfejlesztési koncepciók és programok gazdaságfejlesztési munkarészeinek kidolgozásában és végrehajtásában;
-- e) az országos gazdasági érdekképviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló 1993. évi LXXVI. törvényben és végrehajtási rendeletében meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
+- e) az országos gazdasági érdekképviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeleteiben meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
 
 9/A. § (1) A törvény a gazdasági kamarák számára – a gazdaság fejlesztésével összefüggésben – biztosítja a lehetőséget, hogy
 
@@ -150,13 +150,13 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - e) határozatban figyelmeztetik a fogyasztók érdekeivel ellentétes gazdasági tevékenységet folytató és ezzel a gazdálkodó szervezetek széles körének jó hírnevét sértő vagy veszélyeztető kamarai tag gazdálkodó szervezeteket, és – az etikai szabályzatban meghatározott esetekben és módon – a figyelmeztetést nyilvánosságra hozzák, súlyosabb vagy ismétlődő esetben kezdeményezhetik a tevékenység gyakorlásának meghatározott időre történő felfüggesztéséhez szükséges intézkedések meghozatalát; ha a gazdálkodó szervezet gazdasági tevékenysége a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt is okoz, pert indíthatnak a fogyasztók polgári jogi igényeinek érvényesítése iránt;
 - f) együttműködnek a fogyasztóvédelmi hatósággal és a Gazdasági Versenyhivatallal, amelyek az általuk hozott jogerős határozatokat az illetékes gazdasági kamarákkal közlik;
 - g) minősítő és ellenőrzési rendszereket működtetnek;
-- h) a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve az adóhatóságnál az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik;
+- h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
 - i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
 - j) közreműködnek a gazdálkodó szervezetek nemzetközi gazdasági kapcsolataival összefüggő minőségvédelmi és szállítmányozási kárügyek intézésében.
 
 (2) Ha a bíróság vagy a Gazdasági Versenyhivatal jogerős határozatával megállapította a tisztességtelen piaci magatartás tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny tilalmára vonatkozó rendelkezések megsértését, a gazdasági kamara a bíróság, illetve a Gazdasági Versenyhivatal határozatát nyilvánosságra hozhatja.
 
-(3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a jegyző köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.
+(3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a járási hivatal köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.)
 
 ### A gazdaság általános érdekeinek érvényesítése
 
@@ -423,7 +423,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (3)
 
-(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő helyi bírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
+(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő járásbírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
 
 (5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
 

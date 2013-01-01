@@ -10,7 +10,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 2. § (1) Az egészségügyi államigazgatási szerv felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
 
-- a) az ország egész területén – a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit) tevékenységének kivételével – közegészségügyi ellenőrzést végez;
+- a) az ország egész területén – a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit),valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez;
 - b) biztosítja a vasúti, a vízi és a közúti határforgalom, valamint a nemzetközi légiforgalom közegészségügyi ellenőrzését;
 - c) ellenőrzi a közegészségügyi szabályok érvényesülését;
 - d) végrehajtja a külön jogszabályokban hatáskörébe utalt feladatokat.
@@ -19,7 +19,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.
 
-(3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
+(3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára, valamint az Országgyűlési Őrségre vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
 (4) Az egészségügyi államigazgatási szerv és a külön felhatalmazás alapján közegészségügyi feladatokat ellátó, valamint az egészségügyi államigazgatási szerv feladatköréhez kapcsolódó tevékenységet végző egyéb szervek együttműködnek. A büntetés-végrehajtás közegészségügyi feladatainak ellátásában a büntetés-végrehajtási szervezet közreműködik.
 
@@ -120,7 +120,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - l) közvetlenül intézkedik, ha azt rendkívüli körülmény (járvány, természeti csapás és egyéb katasztrófák, hirtelen fellépő orvoshiány stb.) szükségessé teszi;
 - m) közvetlenül intézkedik súlyos, tömeges, illetőleg ismétlődő egészségkárosodás előfordulása, vagy annak gyanúja esetén a kiváltó okok megszüntetése, illetőleg az esemény megelőzése érdekében;
 - n) tanácskozási joggal — részt vehet az önkormányzati testületi üléseken; — részt vesz az egészségügyi vonatkozású kérdéseket tárgyaló önkormányzati testületi üléseken és az egészségügyi intézményeket felügyelő testületek ülésein;
-- o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat.
+- o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyógyszerellátással kapcsolatos hatósági feladatokat;
+- p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
@@ -194,6 +195,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
   - aa) az egészségügyi szolgáltatás nyújtására vonatkozó szakmai követelményeket vagy jogszabályi rendelkezéseket súlyosan megszegte, vagy tevékenységét a működési engedélyében foglaltaktól eltérően végzi,
   - ab) szakmailag indokolatlanul a betegbeutalási rendtől eltért, különösen, ha beteget jogosulatlanul utalt be vagy utalt tovább, vett fel, vagy jogosulatlanul tagadta meg az ellátást és ezzel a beteg állapotának megfelelő ellátását megakadályozta vagy veszélyeztette, vagy
   - ac) a jogszabályban előírt intézkedési, jelentéstételi kötelezettségét felhívás ellenére elmulasztotta,
+  - ad) térítési díjszabályzata nem felel meg a jogszabályban foglaltaknak, illetve az egészségügyi szolgáltató nem a térítési díjszabályzatában meghatározottaknak megfelelően járt el.
 - b) a társadalombiztosítási támogatással vagy árhoz nyújtott társadalombiztosítási támogatással, ezek elszámolásával, folyósításával, ellenőrzésével kapcsolatos, jogszabályban előírt kötelezettségeket megsértették,
 - c) a külön jogszabályban előírt működési engedély hiányában egészségügyi szolgáltatást nyújtanak, illetve az egészségügyi képesítéssel rendelkező személy képesítésének megfelelő tevékenységet jogosulatlanul végeznek,
 - d) az egészségügyi dolgozó a külön jogszabály szerint előírt alkalmassági vizsgálaton nem vesz részt, illetve egészségügyi tevékenységre alkalmatlannak nyilvánítása ellenére, illetve korlátozását meghaladva egészségügyi tevékenységet végez.
@@ -259,9 +261,9 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 (4) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
-- b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
+- b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
 
-(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
@@ -282,7 +284,8 @@ rendeletben állapítsa meg.
 (11) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
 - a) a szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő környezetbe juttatásának feltételeit és az egészségügyi államigazgatási szervnek teljesítendő bejelentésekre és az engedélyezésre vonatkozó eljárás részletes szabályait, valamint
-- b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat
+- b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
+- c) az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségét, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.
 
@@ -290,4 +293,11 @@ rendeletben határozza meg.
 
 - a) az egészségügyi államigazgatási szerv eljárásában kiszabott egészségügyi bírság megfizetésének részletes szabályait,
 - b) a közigazgatási hatósági eljárás során felmerülő, egyéb eljárási költségnek minősülő, mintavételi, laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
-- c) az egészségügyi államigazgatási szerv élelmezés- és táplálkozás-egészségügyi feladataira vonatkozó részletes szabályokat.
+- c) az egészségügyi államigazgatási szerv élelmezés- és táplálkozás-egészségügyi feladataira vonatkozó részletes szabályokat,
+- d) a kozmetikai termékekről szóló 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet
+  - da) 19. cikk (4) és (5) bekezdésének végrehajtása körében a nem előre csomagolt kozmetika termékek – ideértve azon termékeket is, amelyeket a vevő kérésére a vásárláskor csomagolnak be vagy azonnali eladásra előre csomagolnak – címkézésének részletes szabályait, valamint a magyar nyelven feltüntetendő tájékoztatások körét,
+  - db) 22. cikkének végrehajtása körében a kozmetikai termékek piacfelügyeletét ellátó szervek kijelölését,
+  - dc) 34. cikk (1) és (2) bekezdésének végrehajtása körében az illetékes nemzeti hatóság és méregellenőrző központ kijelölését,
+  - dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését.
+
+(13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.

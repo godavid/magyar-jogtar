@@ -99,9 +99,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt. Az engedély másolatát a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
 
-(6a) Ha a gyógyszerek vagy azok kiindulási anyagaként felhasznált hatóanyagok és segédanyagok gyártóhelyeinek vagy a gyógyszer-nagykereskedők létesítményeinek, valamint a farmakovigilancia-rendszer helyszíni ellenőrzése során, mintavétel, vagy ellenőrzés tárgyával kapcsolatos dokumentumok megvizsgálása eredményeként megállapítást nyer, hogy az ellenőrzött szerv nem tartja be a jogszabályi előírásokat vagy a helyes gyártási gyakorlat vagy helyes gyógyszernagykereskedelmi gyakorlat uniós jogi aktusokban előírt elveit és iránymutatásait, a szükséges intézkedések megtétele mellett a megállapításokat a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+(6a)
 
-(6a) Ha a gyógyszerek vagy azok kiindulási anyagaként felhasznált hatóanyagok és segédanyagok gyártóhelyeinek vagy a gyógyszer-nagykereskedők létesítményeinek helyszíni ellenőrzése során, mintavétel, vagy ellenőrzés tárgyával kapcsolatos dokumentumok megvizsgálása eredményeként megállapítást nyer, hogy az ellenőrzött szerv nem tartja be a jogszabályi előírásokat vagy a helyes gyártási gyakorlat vagy helyes gyógyszernagykereskedelmi gyakorlat uniós jogi aktusokban előírt elveit és iránymutatásait, a szükséges intézkedések megtétele mellett a megállapításokat a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+(6a)
 
 (7) Kábítószernek, pszichotróp anyagnak minősülő, valamint a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló külön jogszabály hatálya alá tartozó hatóanyagot tartalmazó gyógyszerek gyártásával csak az foglalkozhat, aki az e tevékenységre jogosító külön engedéllyel is rendelkezik.
 
@@ -134,7 +134,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (13)
 
-4/A. § (1) A gyógyszerészeti államigazgatási szerv gyógyszer gyártására jogosító engedélye (a továbbiakban: gyógyszergyártási engedély) szükséges a gyógyszernek nem az Európai Gazdasági Térségből (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az Európai Unióval megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
+4/A. § (1) A gyógyszerészeti államigazgatási szerv gyógyszer gyártására jogosító engedélye (a továbbiakban: gyógyszergyártási engedély) szükséges a gyógyszernek nem az EGT-ből, illetve az Európai Közösséggel vagy az Európai Unióval megkötött nemzetközi szerződés alapján az EGT-megállapodásban részes államéval azonos jogállást élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
 
 (2) Nem szükséges gyógyszergyártási engedély beszerzése abban az esetben, ha a gyógyszer nem az EGT-ből történő importjára kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt az importáló az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján importált gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
@@ -271,17 +271,17 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 ### Kábítószerként és pszichotróp anyagként minősített gyógyszerekre vonatkozó külön rendelkezések
 
-15. § (1) A kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásához, forgalomba hozatalához, forgalmazásához és e gyógyszerekkel folytatott nagykereskedelmi tevékenységhez, Magyarország területére történő behozatalához, kiviteléhez, valamint tudományos célra történő beszerzéséhez és felhasználásához a külön jogszabályban meghatározott hatóság engedélye is szükséges. A külön jogszabály szerinti hatóság e rendelkezés szerinti eljárásaiban hozott határozatai ellen fellebbezésnek helye nincs.
+15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
 
 (2) A kábítószerként, illetve pszichotróp anyagként minősített gyógyszer gyártására, raktározására vonatkozó, illetve az e termékekkel történő nagykereskedelem szakmai szabályait, továbbá az e tevékenység végzésére jogosultak nyilvántartási és adatszolgáltatási kötelezettségét, valamint e termékek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét külön jogszabály állapítja meg.
 
-(3) A kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért a külön jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
+(3) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A kábítószerek és pszichotróp anyagokkal kapcsolatos egyes külön jogszabály szerinti tevékenységek kizárólag érvényes, külön jogszabály szerinti tevékenységi engedély birtokában folytathatók. Tevékenységi engedélyt kizárólag a Polgári Törvénykönyvben meghatározott gazdálkodó szervezet kaphat, amelynek vezetője, illetve vezető testületének valamennyi tagja büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(5) Külön jogszabály szerinti kábítószer-felelősnek és helyettesének valamint kábítószerért felelős személynek csak olyan személy jelölhető ki, aki büntetlen előéletű, és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(6) A tevékenységi engedély iránti külön jogszabály szerinti kérelem benyújtásakor a kérelmező gazdálkodó szervezet vezetője, illetve vezető testületének tagjai, továbbá a kijelölni kívánt kábítószer-felelős hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a külön jogszabályban meghatározott hatóság részére – annak az engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+(6) A tevékenységi engedély iránti külön jogszabály szerinti kérelem benyújtásakor a kérelmező gazdálkodó szervezet vezetője, továbbá a kijelölni kívánt kábítószer-felelős és helyettese hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a külön jogszabályban meghatározott hatóság részére – annak az engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (7) A (6) bekezdésben meghatározott adatigénylés során a külön jogszabályban meghatározott hatóság arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a tevékenységi engedély iránti kérelmet benyújtó személy büntetlen előéletű és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
@@ -299,8 +299,6 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - a) a tevékenységi engedély iránti eljárás jogerős befejezéséig vagy
 - b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-### Az új pszichoaktív anyagokkal kapcsolatos külön rendelkezések
-
 15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat a Kormány rendeletében határozza meg.
@@ -312,44 +310,19 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
 
-15/C. § (1) Az új pszichoaktív anyaggá minősítést követő három éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa nem kezdeményezte.
+15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
 
-(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi vagy európai uniós kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, a megfelelő kábítószer vagy pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
+(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
 (3) Amennyiben a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, akkor meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
-15/D. § (1) Az új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes, jogszabály szerinti, az egészségügyi államigazgatási szerv által kiadott tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély birtokában folytathatók.
+(4) Amennyiben az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése további 1 évre meghosszabbítható.
 
-(2) Tevékenységi és eseti kutatási engedélyt kizárólag a Polgári Törvénykönyvben meghatározott gazdálkodó szervezet kaphat, amelynek vezetője, illetve vezető testületének valamennyi tagja büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+15/D. §
 
-(3) Jogszabály szerinti új pszichoaktív anyagért felelős személynek és helyettesének (a továbbiakban: új pszichoaktív anyagért felelős) büntetlen előéletű személy jelölhető ki, aki nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+15/E. §
 
-15/E. § (1) A tevékenységi és eseti kutatási engedély iránti jogszabály szerinti kérelem benyújtásakor a kérelmező gazdálkodó szervezet vezetője, vezető testületének valamennyi tagja, illetve az új pszichoaktív anyagért felelősnek kijelölni kívánt személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 15/D. § (2) bekezdésben foglalt feltételeknek megfelel, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az egészségügyi államigazgatási szerv részére – annak az engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(2) Az (1) bekezdésben meghatározott adatigénylés során az egészségügyi államigazgatási szerv arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy
-
-- a) a gazdálkodó szervezet vezetője, illetve vezető testületének tagja és
-- b) az új pszichoaktív anyagért felelősnek kijelölni kívánt személy a 15/D. § (2) bekezdésben foglalt feltételeknek megfelel
-
-(3) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy az egészségügyi államigazgatási szerv részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy a 15/D. § (2) bekezdésében foglalt feltételeknek megfelel.
-
-(4) Az egészségügyi államigazgatási szerv hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező személy a 15/D. § (2) bekezdése szerinti feltételeknek megfelel.
-
-(5) Az egészségügyi államigazgatási szerv a 15/D. § (2) bekezdésben meghatározott feltétel megállapítása céljából kezeli
-
-- a) a tevékenységi engedély iránti kérelmet benyújtó,
-- b) a tevékenységi engedéllyel rendelkező azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
-
-(6) A (5) bekezdésben meghatározott személyes adatokat a jogszabályban meghatározott hatóság
-
-- a) a tevékenységi engedély iránti eljárás jogerős befejezéséig vagy
-- b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.
-
-15/F. § (1) Az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért a jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-(2) Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásban hozott határozatai ellen fellebbezésnek helye nincs.
+15/F. §
 
 ### A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének gyógyszerellátásra vonatkozó felelőssége
 
@@ -379,9 +352,13 @@ kezeli.
 
 (5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is – a forgalomba hozatali engedély jogosultját terhelik.
 
+17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
+
+(2) Különös méltánylást érdemlő betegellátási érdekből vagy esetleges gyógyszerellátási zavar megelőzése érdekében a gyógyszerészeti államigazgatási szerv az (1) bekezdés rendelkezéseitől eltekinthet.
+
 ### Farmakovigilancia
 
-18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
+18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-megállapodásban részes államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
 
 (2) Az egészségügyi dolgozó köteles az általa észlelt vagy tudomására jutott feltételezett mellékhatást haladéktalanul a gyógyszerészeti államigazgatási szervnek jelenteni. A gyógyszerészeti államigazgatási szerv a jogszabályban meghatározott módon nyilvántartásba veszi és továbbítja az egészségügyi dolgozók és a betegek által a tudomására hozott, Magyarországon bekövetkezett összes feltételezett mellékhatást.
 
@@ -472,7 +449,7 @@ kezeli.
 
 ### Felelősség a vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért
 
-21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont] részére
+21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a kárt szenvedett személy, illetve halála esetén a hozzátartozója [a Polgári Törvénykönyv 685. § b) pont] részére
 
 - a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a vizsgálat kezdeményezője,
 - b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a vizsgálat kezdeményezője,
@@ -525,9 +502,8 @@ kártérítést fizet.
 
 (6a) Gyógyszert a (6) bekezdésben foglaltakon túl akkor is lehet indikáción túli gyógyszerrendelés keretében rendelni, illetve alkalmazni, ha
 
-- a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet,
-- b) jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, és
-- c) a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
+- a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet vagy
+- b) az indikáción túli gyógyszerrendelés keretében rendelt gyógyszer előny-kockázat aránya kedvezőbb, mint az adott javallatban forgalomba hozatalra engedélyezett gyógyszeré és jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, valamint a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 

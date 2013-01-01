@@ -128,7 +128,7 @@ keletkezik.
 - c) jogorvoslati eljárásban,
 - d) a gépjárműflotta-üzemeltető által bérbe adott személygépkocsikkal kapcsolatos adóigazgatási eljárásban.
 
-(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az okmányirodánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
+(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság általfővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál közzétett tájékoztatás szerint küldi be.
 
 ### Az adó különös szabályok szerinti megállapítása
 
@@ -291,8 +291,8 @@ Adótételek az egyes adókategóriákban
 | 5. | Otto-motoros személygépkocsi 1801–2000 cm3-ig és dízelmotoros személygépkocsi 2001–2500 cm3-ig | 185 000 Ft/db | 740 000 Ft/db | 1 110 000 Ft/db | 1 480 000 Ft/db | 2 220 000 Ft/db |
 | 6. | Otto-motoros személygépkocsi 2001–2500 cm3-ig és dízelmotoros személygépkocsi 2501–3000 cm3-ig | 265 000 Ft/db | 1 060 000 Ft/db | 1 590 000 Ft/db | 2 120 000 Ft/db | 3 180 000 Ft/db |
 | 7. | Otto-motoros személygépkocsi 2500 cm3 felett és dízelmotoros személygépkocsi 3000 cm3 felett | 400 000 Ft/db | 1 600 000 Ft/db | 2 400 000 Ft/db | 3 200 000 Ft/db | 4 800 000 Ft/db |
-| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó elektromos meghajtású, kizárólag elektromos úton tölthető személygépkocsi | 0 Ft/db |  |  |  |  |
-| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó hybrid (elektromos és Otto-, vagy elektromos és dízelmotoros) hajtású, illetőleg a 8. pont alá nem tartozó egyéb személygépkocsi | 76 000 Ft/db |  |  |  |  |
+| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti elektromos meghajtású, kizárólag elektromos úton tölthető személygépkocsi | 0 Ft/db |  |  |  |  |
+| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, illetőleg az 1–8. kategória alá nem tartozó egyéb személygépkocsi | 76 000 Ft/db |  |  |  |  |
 
 - 2. Az adó összege motorkerékpárok esetén A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
 
@@ -341,11 +341,11 @@ A = adótétel (a Melléklet I. részének adókategóriáiban az adott gépjár
 
 K = Az adó csökkentésének a táblázat II. oszlopában meghatározott mértéke, amely a gépjármű forgalomba helyezésétől számított időtartam alapján az adócsökkentő mértékek alkalmazása tekintetében az utolsó előtti időszakra vonatkozik;
 
-k = A gépjármű forgalomba helyezésétől számított időtartam utolsó időszakára irányadó, a táblázat II. oszlopában meghatározott mérték csökkentve a „K” mértékével;
+k = A gépjármű forgalomba helyezésétől számított időtartam utolsó időszakára irányadó, a táblázat II. oszlopában meghatározott mérték csökkentve a “K” mértékével;
 
 T = Az adóigazgatási eljárás kezdetének hónapját magában foglaló, a táblázat I. oszlopában meghatározott időtartamon belüli hónapok száma;
 
-t = a gépjármű forgalomba helyezésétől számított hónapok száma csökkentve a „K” adócsökkentő mértékhez tartozó, a táblázat I. oszlopa szerinti, felső korlátként megállapított hónapok számával.
+t = a gépjármű forgalomba helyezésétől számított hónapok száma csökkentve a “K” adócsökkentő mértékhez tartozó, a táblázat I. oszlopa szerinti, felső korlátként megállapított hónapok számával.
 
 #### III.
 

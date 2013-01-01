@@ -738,7 +738,7 @@ miatt következett be.
 
 (3) A közraktári jegy megsemmisítésére irányuló eljárás megindítása iránti kérelemben meg kell jelölni az értékpapír lényeges tartalmát, s valószínűsíteni kell a kérelmezési jogosultságot.
 
-42. § (1) A kérelem alapján a közjegyző a közraktár székhelye szerint illetékes törvényszék székhelyén működő helyi bíróságnál (Budapesten a Pesti Központi Kerületi Bíróságnál), valamint a közraktár ügyfélfogadásra nyitva álló helyiségében hirdetményt tesz közzé, amelyben a közraktári jegyre vonatkozó adatok feltüntetése mellett felhívja az értékpapír birtokosát, hogy az értékpapírt a hirdetmény bírósági hirdetőtáblán való kifüggesztésétől számított egy hónapon belül nála mutassa be. A hirdetménynek tartalmaznia kell a figyelmeztetést, hogy a bemutatás elmulasztása esetén a közjegyző a közraktári jegyet semmissé nyilvánítja. A hirdetmény kibocsátásáról a kérelmezőt, a közraktárat, a letevőt és a zálogjegy első birtokosát is értesíteni kell. Az áru- és zálogjegy átruházói kötelesek az utánuk következő birtokosokat az értesítésről két napon belül tájékoztatni.
+42. § (1) A kérelem alapján a közjegyző a közraktár székhelye szerint illetékes törvényszék székhelyén működő járásbíróságnál (Budapesten a Pesti Központi Kerületi Bíróságnál), valamint a közraktár ügyfélfogadásra nyitva álló helyiségében hirdetményt tesz közzé, amelyben a közraktári jegyre vonatkozó adatok feltüntetése mellett felhívja az értékpapír birtokosát, hogy az értékpapírt a hirdetmény bírósági hirdetőtáblán való kifüggesztésétől számított egy hónapon belül nála mutassa be. A hirdetménynek tartalmaznia kell a figyelmeztetést, hogy a bemutatás elmulasztása esetén a közjegyző a közraktári jegyet semmissé nyilvánítja. A hirdetmény kibocsátásáról a kérelmezőt, a közraktárat, a letevőt és a zálogjegy első birtokosát is értesíteni kell. Az áru- és zálogjegy átruházói kötelesek az utánuk következő birtokosokat az értesítésről két napon belül tájékoztatni.
 
 (2) A megsemmisítési eljárás megindítása után a közraktári jegy birtokosa – biztosítékadás mellett – a közraktártól a jegyről másolat kiadására tarthat igényt. Ha a biztosítékban a felek nem tudnak megállapodni, azt a bíróság határozza meg. Ha a közjegyző a közraktári jegyet semmisnek nyilvánítja, a biztosítékot vissza kell adni.
 
@@ -746,9 +746,9 @@ miatt következett be.
 
 ### Bírósági letét
 
-43. § (1) A bírósági letétbe helyezés iránti kérelmet a közraktár székhelye szerint illetékes helyi bíróságnál kell előterjeszteni.
+43. § (1) A bírósági letétbe helyezés iránti kérelmet a közraktár székhelye szerint illetékes járásbíróságnál kell előterjeszteni.
 
-(2) A letétbe helyezendő pénzt a helyi bíróság székhelye szerint illetékes bírósági gazdasági hivatal letéti számlájára kell befizetni. A befizetéskor meg kell jelölni az összeg rendeltetését, a letevő nevét, azt, hogy a közraktári jegy vagy a jegy mely részének birtokosa jogosult felvenni a letett összeget, valamint annak a bíróságnak a megnevezését, amelyhez a közraktár a befizetett összegnek bírósági letétként elfogadása iránti kérelmet benyújtotta. Ha a jogosult ismeretlen, erre utalni kell.
+(2) A letétbe helyezendő pénzt a járásbíróság székhelye szerint illetékes bírósági gazdasági hivatal letéti számlájára kell befizetni. A befizetéskor meg kell jelölni az összeg rendeltetését, a letevő nevét, azt, hogy a közraktári jegy vagy a jegy mely részének birtokosa jogosult felvenni a letett összeget, valamint annak a bíróságnak a megnevezését, amelyhez a közraktár a befizetett összegnek bírósági letétként elfogadása iránti kérelmet benyújtotta. Ha a jogosult ismeretlen, erre utalni kell.
 
 (3) A letét elfogadása iránt a bíróságnál kérelmet kell előterjeszteni. A kérelemben fel kell tüntetni a (2) bekezdésben említett adatokat, továbbá a letét kiutalásával kapcsolatos kikötéseket. Elő kell adni és valószínűsíteni kell a letétbe helyezés okát vagy célját. A kérelemhez csatolni kell a pénz befizetését igazoló okiratot.
 

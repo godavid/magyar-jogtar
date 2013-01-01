@@ -43,11 +43,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 3. § (1) A munkaadót a pályakezdő fiatal foglalkoztatásának időtartamára a START-kártya érvényességi idején belül illeti meg a 4/A. §-ban meghatározott kedvezmény, függetlenül a foglalkoztatás időtartamától, határozatlan vagy határozott idejű jellegétől.
 
-(2) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti START-kártya kiváltására az jogosult, aki
-
-- a) a huszonötödik életévét, felsőfokú végzettség esetén a harmincadik életévét még nem töltötte be, és
-- b) tanulmányait befejezte vagy megszakította, és
-- c) a tanulmányainak befejezését követően első ízben létesít foglalkoztatásra irányuló jogviszonyt vagy ösztöndíjas foglalkoztatási jogviszonyt, és e jogviszony létesítését megelőzően megbízási szerződés, vállalkozási szerződés alapján vagy egyéni vállalkozóként sem végzett munkát.
+(2)
 
 (3) A (2) bekezdés c) pontjában a foglalkoztatásra irányuló jogviszony első ízben történő létesítésének megítélése szempontjából figyelmen kívül kell hagyni a tanulói és a hallgatói jogviszony mellett fennálló, illetve az iskolai szünet időtartama alatt létesített foglalkoztatásra irányuló jogviszonyokat, továbbá a tanulói és a hallgatói jogviszony megszűnése után alkalmi munkavállalói könyvvel, valamint 2010. április 1-jét követően az egyszerűsített foglalkoztatás körébe tartozó alkalmi munkára létesített jogviszonyt.
 
@@ -75,10 +71,10 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 ### A pályakezdő fiatal foglalkoztatásához kapcsolódó kedvezmény szabályai
 
-4/A. § (1) Pályakezdő fiatal foglalkoztatása után a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg a következők szerint:
+4/A. § (1) Az érvényes START-kártyával rendelkező személy foglalkoztatása után a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg legfeljebb 2014. december 31-ig a következők szerint:
 
-- a) alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér másfélszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében, továbbá
-- b) felsőfokú végzettségű pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első kilenc hónapjában, illetve hét százalékával a foglalkoztatás azt követő három hónapjában.
+- a) alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START-kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér másfélszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében, továbbá
+- b) felsőfokú végzettségű pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START-kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első kilenc hónapjában, illetve hét százalékával a foglalkoztatás azt követő három hónapjában.
 
 (2) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a költségvetési törvényben meghatározott arányban utalja át Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
 
@@ -146,9 +142,9 @@ a részkedvezmény egyenlő az érvényes START EXTRA kártyával rendelkező te
 
 III. fejezet
 
-8/A. § (1) Az önkormányzati közfoglalkoztatás, valamint az országos közfoglalkoztatási program keretében költségvetési szerv által történő foglalkoztatás esetén a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezményt illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személy (munkavállaló) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér 130 százalékának tizenhárom és fél százalékával.
+8/A. § (1) A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (3) bekezdésében felsorolt közfoglalkoztatót a közfoglalkoztatási jogviszonyban történő foglalkoztatás esetére a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személyt az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a közfoglalkoztatottat terhelő közterhekkel és más levonásokkal nem csökkentett közfoglalkoztatási bér, de legfeljebb a közfoglalkoztatási garantált bér 130 százalékának tizenhárom és fél százalékával.
 
-(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe.
+(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe. Az (1) bekezdésben meghatározott szerv által történő foglalkoztatás esetén a foglalkoztató kizárólag az e §-ban szabályozott adókedvezményt érvényesítheti.
 
 (3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
 
@@ -271,11 +267,10 @@ ad ki.
 
 15. § Az ösztöndíjas foglalkoztatási jogviszonyra
 
-- a) megfelelően alkalmazni kell a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. §-át, 131. § (1) bekezdését és (2) bekezdés a)–b) pontját, továbbá (3) bekezdését, 132. § (2)–(7) bekezdését, 133. §-át, 134. § (1) bekezdését, (3) bekezdésének első mondatát és b) pontját, valamint (4)–(6) bekezdését, 135–136. §-át, 138–139. §-át, 140/A. § (1) bekezdés a) pontjának a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat,
-- b) megfelelően alkalmazni kell az Mt. 6. §-át, 7. §-át, 8. § (4) bekezdését, 9. §-át, 10. § (1)–(2) bekezdését, 12. § (1) bekezdését, 14. §-át, 15. §-át, 17–18. §-át, 21. § (1)–(3) bekezdését, 22–30. §-át, 31. §-át, 33. §-át, 36–37. §-át, 38. § (1) bekezdését, 39–40. §-át, 45. § (3)–(4) bekezdését, 46. § (1)–(2) bekezdését, 48–49. §-át, 51. §-át, 52. § (1) bekezdését, 54–55. §-át, 60. §-át, 61. § (1)–(2) bekezdését, 80. §-át, 86. § (1) bekezdését, 90. § a) pontját, 92. § (1) és (4)–(5) bekezdését, 93. §-át, 94. § (1) bekezdését, 96. § (1) bekezdését, 97. § (1) és (3)–(4) bekezdését, 99. § (1) és (4) bekezdését, továbbá (2) bekezdés a) pontját, 100. §-át, 101. § (1)–(3) bekezdését, 102. §-át, 103. § (1) és (3), továbbá (4)–(6) bekezdését, 104. § (1) bekezdését és (2) bekezdés a) pontját, 105–106. §-át, 113. § (2)–(4) bekezdését, 134. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat, 146. § (3) bekezdését, 154. § (1)–(2) bekezdését, 155. § (1)–(4) bekezdését, 156. §-át, 157. § (1) bekezdését, 158. §-át, 159. § (1)–(4) bekezdését, 160. §-át, 161. §-át, 163–164. §-át, 166–177. §-át, 179–180. §-át, 190. §-át, 192. § (3) bekezdését, 196–197. §-át, 229. §-át, 285. § (1) bekezdését, 286. §-át,
-- c) az Mt. 20. §-át az e törvény 11. §-ában foglalt eltéréssel kell alkalmazni,
-- d) az ösztöndíjas foglalkoztatottra a foglalkoztatóra kiterjedő hatályú kollektív szerződés hatálya nem terjed ki,
-- e) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.
+- a) megfelelően alkalmazni kell az Mt. 6. §-át, 7. §-át, 8. § (4) bekezdését, 9. §-át, 10. § (1)–(2) bekezdését, 12. § (1) bekezdését, 14. §-át, 15. §-át, 17–18. §-át, 21. § (1)–(3) bekezdését, 22–30. §-át, 31. §-át, 33. §-át, 36–37. §-át, 38. § (1) bekezdését, 39–40. §-át, 45. § (3)–(4) bekezdését, 46. § (1)–(2) bekezdését, 48–49. §-át, 51. §-át, 52. § (1) bekezdését, 54–55. §-át, 60. §-át, 61. § (1)–(2) bekezdését, 80. §-át, 86. § (1) bekezdését, 90. § a) pontját, 92. § (1) és (4)–(5) bekezdését, 93. §-át, 94. § (1) bekezdését, 96. § (1) bekezdését, 97. § (1) és (3)–(4) bekezdését, 99. § (1) és (4) bekezdését, továbbá (2) bekezdés a) pontját, 100. §-át, 101. § (1)–(3) bekezdését, 102. §-át, 103. § (1) és (3), továbbá (4)–(6) bekezdését, 104. § (1) bekezdését és (2) bekezdés a) pontját, 105–106. §-át, 113. § (2)–(4) bekezdését, 115–116. §-át, 117. § (1) bekezdés a)–b) pontját és (2) bekezdését, 118. §-át, 119. § (2) bekezdését, 120–122. §-át, 123. § (1) és (3) bekezdését, 123. § (5) és (7) bekezdését, 124–125. §-át, 127–131. §-át, 133. §-át, 134. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat, 146. § (3) bekezdését, 154. § (1)–(2) bekezdését, 155. § (1)–(4) bekezdését, 156. §-át, 157. § (1) bekezdését, 158. §-át, 159. § (1)–(4) bekezdését, 160. §-át, 161. §-át, 163–164. §-át, 166–177. §-át, 179–180. §-át, 190. §-át, 192. § (3) bekezdését, 196–197. §-át, 229. §-át, 285. § (1) bekezdését, 286. §-át,
+- b) az Mt. 20. §-át az e törvény 11. §-ában foglalt eltéréssel kell alkalmazni,
+- c) az ösztöndíjas foglalkoztatottra a foglalkoztatóra kiterjedő hatályú kollektív szerződés hatálya nem terjed ki,
+- d) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.
 
 16. § Az ösztöndíjas foglalkoztatott foglalkoztatóját az ösztöndíjas START-kártyájának érvényességi ideje alatt megilleti a 4/A. §-ban meghatározott kedvezmény.
 
@@ -323,7 +318,7 @@ ad ki.
 - a) az állami adóhatóság és Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, valamint az Egészségbiztosítási Alap közötti elszámolás tartalmát és részletes szabályait,
 - b) a START kártya, a START PLUSZ kártya, a START EXTRA kártya és a START BÓNUSZ kártya felhasználásának és – a (4) bekezdésben foglaltak kivételével – az azokhoz kapcsolódó szociális hozzájárulási kedvezmény érvényesítésének részletes szabályait a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
-(3) Felhatalmazást kap a Kormány, hogy a 8. § (1) bekezdésének a) pontjában meghatározott kistérségek, települések körét – a 2. számú mellékletben meghatározott szempontok alapján – rendeletben állapítsa meg.
+(3)
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8/A. §-ban meghatározott adókedvezmény érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 

@@ -655,7 +655,7 @@ helyettesíti.
 
 (4) A minisztérium létszámkeretét – az egyes állami vezetők és a kabinetfőnökök irányítása alá tartozó szervezeti egységek együttes létszáma szerinti bontásban – a szervezeti és működési szabályzat határozza meg.
 
-(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban kormányzati szolgálati jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, illetve berendelésről, vezénylésről, valamint azok megszüntetéséről szóló közleményeket.
+(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban kormányzati szolgálati jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, vezénylésről, valamint a vezénylés megszüntetéséről szóló közleményeket.
 
 61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti.
 

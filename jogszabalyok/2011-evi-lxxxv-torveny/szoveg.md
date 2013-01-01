@@ -124,7 +124,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
   - ac) a kötelezett felszámolás vagy végelszámolás nélküli megszűnése esetén a megszűnés időpontjában olyan termékdíjköteles terméket tart tulajdonában, amelyre a termékdíj nem került megfizetésre,
 - b) a termékdíjköteles termék mennyiségében bekövetkezett, a törvény végrehajtási rendeletében meghatározott elszámolható hiányt meghaladó hiány és a termékdíjköteles termék megsemmisülése esetén – az elháríthatatlan külső okból bekövetkezett megsemmisülés kivételével – a megsemmisült mennyiségre.
 
-(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett első vevője (a továbbiakban: nyilatkozó) arról, hogy
+(6) A csomagolószer termékdíját nem kell megfizetni, ha – e törvény végrehajtási rendeletében meghatározottak szerint – nyilatkozik a kötelezett belföldi vevője (a továbbiakban: nyilatkozó) arról, hogy
 
 - a) a csomagolószert csomagolás előállítására használja fel és a 15. § (4) bekezdés szerinti termékdíjátalány fizetésére jogosult, vagy
 - b) a csomagolószert csomagolás előállítására a 27. § (2) bekezdése feltételeinek megfelelő újrahasználható csomagolóeszközként használja fel, vagy
@@ -174,48 +174,27 @@ keletkezik.
 
 #### 6. Eljárási szabályok
 
-8. § (1) Termékdíjjal valamint – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott hatósági ügy, illetve eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos ügyben a (4) bekezdésben nevesített hatósági hatáskörbe tartozó eljárások során az e törvényben meghatározott eltérésekkel az adózás rendjéről szóló 2003. évi XCII. törvényt (a továbbiakban: Art.) kell alkalmazni.
+8. § (1) Termékdíjjal, valamint – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott hatósági ügy, illetve eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos ügyben a (2) bekezdésben nevesített hatósági hatáskörbe tartozó eljárások során az e törvényben meghatározott eltérésekkel az adózás rendjéről szóló 2003. évi XCII. törvényt (a továbbiakban: Art.) kell alkalmazni.
 
-(2) Az e törvényben, valamint az Art.-ban nem szabályozott közigazgatási hatósági ügyben a közigazgatási hatósági eljárás általános szabályairól szóló törvényt (a továbbiakban: Ket.) kell megfelelően alkalmazni.
-
-(3) Termékdíjjal kapcsolatos ügyekben a Ket.-nek a kérelemre indult eljárásban az ügyfél által az eljárás megindulásáról kért értesítésre, továbbá az újrafelvételi eljárásra vonatkozó szabályokat nem kell alkalmazni. Az (1) bekezdés szerinti termékdíjköteles termékből képződött hulladékokkal kapcsolatos, (4) bekezdésben nevesített hatósági hatáskörbe tartozó eljárásban az Ket.-nek az újrafelvételi eljárásra vonatkozó szabályait nem kell alkalmazni.
-
-(4) Ha törvény vagy kormányrendelet másként nem rendelkezik a Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) jár el a kötelezettek nyilvántartása, a termékdíj bevallása, befizetése, visszaigénylése, – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi, vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos adó, hatósági ellenőrzése során.
-
-(5) Az állami adó és vámhatóság a termékdíjfizetéssel kapcsolatos jogok gyakorlásához és kötelezettségek teljesítéséhez nyomtatványt rendszeresíthet a bejelentésre, az adatszolgáltatásra, az önellenőrzésre, a termékdíjfizetésre, az átvezetésre, a kiutalásra, a visszaigénylésre és a termékdíj folyószámla egyeztetésére. A rendszeresített nyomtatvánnyal azonos értékű, ha az iratot a vámhatóság a honlapján közzétett számítógépes program segítségével elektronikusan támogatott formanyomtatványként teszi közzé.
-
-(6)
+(2) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal adóztatási szerve (a továbbiakban: állami adóhatóság) látja el a környezetvédelmi termékdíjjal kapcsolatos adóztatási feladatokat. A Nemzeti Adó- és Vámhivatal vámszerve (a továbbiakban: vámhatóság) látja el – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos hatósági feladatokat.
 
 #### 7. Képviselet
 
-9. § (1) A kötelezettet kizárólag az Art. szerinti vagy termékdíj ügyintéző szakképesítésű állandó meghatalmazással rendelkező képviselő képviselheti:
-
-- a) a bejelentési kötelezettség teljesítése;
-- b) a bevallási kötelezettség teljesítése;
-- c) az igazolások kérése;
-- d) a termékdíj-visszaigénylési eljárás;
-- e) az ellenőrzés, hatósági eljárás, jogorvoslati eljárás;
-- f) a nyilvántartás-vezetéssel kapcsolatos kötelezettségek teljesítése;
-- g) a fizetéshalasztás, részletfizetési engedélyezési eljárások;
-- h) a termékdíj befizetése során.
-
-(2) Az (1) bekezdés h) pontja szerinti kötelezettséget teljesítő képviselő a termékdíj-kötelezettség teljesítéséért a megbízóval egyetemlegesen felel.
-
-(3) Ha a kötelezett gazdasági céllal harmadik országban telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye harmadik országban van, a termékdíjjal kapcsolatos ügyének intézéséhez az Art. szerinti pénzügyi képviselő megbízása kötelező.
+9. § Ha a kötelezett gazdasági céllal harmadik országban telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye harmadik országban van, a termékdíjjal kapcsolatos ügyének intézéséhez az Art. szerinti pénzügyi képviselő megbízása kötelező.
 
 ### II. Fejezet — A TERMÉKDÍJ-KÖTELEZETTSÉG TELJESÍTÉSE
 
 #### 8. A bejelentési és nyilvántartásba vételi kötelezettség
 
-10. § (1) A kötelezett a termékdíjköteles termékkel végzett tevékenységét a vámhatóságnál annak megkezdésétől számított 15 napon belül bejelenti, továbbá nyilatkozik arról, ha a termékdíj-kötelezettségét egyéni hulladékkezelést teljesítőként vagy termékdíjátalány-fizetésre jogosultként teljesíti.
+10. § (1) A kötelezett a termékdíjköteles termékkel végzett tevékenységét az állami adóhatóságnál annak megkezdésétől számított 15 napon belül bejelenti, továbbá nyilatkozik arról, ha a termékdíj-kötelezettségét egyéni hulladékkezelést teljesítőként vagy termékdíjátalány-fizetésre jogosultként teljesíti.
 
 (2) Az (1) bekezdés szerinti nyilatkozatot az egyéni hulladékkezelést teljesítőnek termék- és anyagáramonként kell megtennie.
 
-(3) Az állami adó- és vámhatóság a kötelezettet, továbbá a képviselőt, pénzügyi képviselőt az általa adott azonosító szám (a továbbiakban: VPID szám) alapján nyilvántartásba veszi és nyilvántartja. Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+(3)
 
 (4) Az egyéni hulladékkezelőként való teljesítésre, valamint a termékdíjátalány-fizetésre vonatkozó, az (1) és a 40. § (5) bekezdésben előírt határidő elmulasztása jogvesztő.
 
-(5) A termékdíj-kötelezettségre kiható bármely változást a kötelezett, annak bekövetkeztét követő 15 napon belül köteles bejelenteni.
+(5) A termékdíj-kötelezettségre kiható bármely változást a kötelezett, annak bekövetkeztét követő 15 napon belül köteles bejelenteni az állami adóhatóságnak.
 
 #### 8/A. Nyilvántartás-vezetési kötelezettség
 
@@ -225,7 +204,7 @@ keletkezik.
 
 #### 9. A bevallási kötelezettség
 
-11. § (1) A kötelezett – a (2) bekezdésben foglalt eltéréssel – a nyilvántartása alapján a vámhatósághoz – annak honlapján közzétett – elektronikusan támogatott formanyomtatványon, elektronikus úton és formában, negyedévente a tárgynegyedévet követő hónap 20. napjáig bevallást nyújt be.
+11. § (1) A kötelezett – a (2) bekezdésben foglalt eltéréssel – a nyilvántartása alapján az állami adóhatósághoz – annak honlapján közzétett – elektronikusan támogatott formanyomtatványon, elektronikus úton és formában, negyedévente a tárgynegyedévet követő hónap 20. napjáig bevallást nyújt be.
 
 (2) A termékdíjátalány-fizetésre jogosult kötelezett, a tárgyévet követő év január hónap 20. napjáig teljesíti bevallási kötelezettségét.
 
@@ -237,7 +216,7 @@ keletkezik.
 
 12. § (1) A kötelezett a termékdíjat a bevallás benyújtására meghatározott határidőig az e célra vezetett központi költségvetési számlaszámra (a továbbiakban: termékdíjszámla) forintban fizeti be.
 
-(2) Ha a bevallásban a termékdíj összege az ezer forintot nem éri el, továbbá az Art. szerinti ellenőrzés vagy önellenőrzés során a termékdíj-különbözet az ezer forintot nem éri el, azt nem kell megfizetni. A vámhatóság az ezer forintot el nem érő termékdíj-visszatérítést nem utalja ki.
+(2) Ha a bevallásban a termékdíj összege az ezer forintot nem éri el, továbbá az Art. szerinti ellenőrzés vagy önellenőrzés során a termékdíj-különbözet az ezer forintot nem éri el, azt nem kell megfizetni. Az állami adóhatóság az ezer forintot el nem érő termékdíj-visszatérítést nem utalja ki.
 
 (3) Nem kell megfizetni a termékdíjat:
 
@@ -260,7 +239,7 @@ keletkezik.
 
 13. § A számlán
 
-- a) számlán történő átvállalás esetén, vagy
+- a) számlán vagy szerződéssel történő átvállalás esetén, vagy
 - b) a kötelezett és vevőinek visszaigénylésre jogosult vevő partnerei által igényelt esetben, vagy
 - c) csomagolószer, illetve reklámhordozó papír első belföldi forgalomba hozatalakor az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
 
@@ -281,10 +260,22 @@ keletkezik.
 - a) az első belföldi vevő, ha a kötelezettől megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
 - b) a bérgyártó,
 - c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
-- d) a csomagolószer első belföldi vevője, ha csomagolást hoz létre a csomagolószerből,
-- e) csomagolóanyag esetében az azt csomagolóeszköz előállítására felhasználó első belföldi vevő átvállalhatja. Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor, vagy saját célú felhasználáskor keletkezik.
+- d) csomagolószer esetében az azt változatlan formában és állapotban vagy más kiszerelésben továbbértékesítő első belföldi vevő,
+- e) a csomagolószer
+  - ea) első belföldi vevője vagy
+  - eb) a d) pont szerinti értékesítés belföldi vevője, ha csomagolást hoz létre a csomagolószerből,
+- f) csomagolóanyag esetében az azt anyagában, méretében, megjelenésében továbbfeldolgozott csomagolóanyag, csomagolóeszköz, illetve csomagolási segédanyag előállítására felhasználó
+  - fa) első belföldi vevő vagy
+  - fb) a d) pont szerinti értékesítés belföldi vevője,
+- g) a 3920 vámtarifaszám alá tartozó csomagolóanyag esetében az azt változatlan formában és állapotban, vagy más kiszerelésben, kiskereskedelmi értékesítés keretében továbbértékesítő
+  - ga) első belföldi vevő vagy
+  - gb) a d) pont szerinti értékesítés belföldi vevője
 
-(6)–(7)
+átvállalhatja.
+
+(6) Átvállalás esetén a termékdíj-kötelezettség az átvállaló általi belföldi forgalomba hozatalkor vagy saját célú felhasználáskor keletkezik.
+
+(7)
 
 #### 13. Termékdíjátalány
 
@@ -414,19 +405,19 @@ keletkezik.
 
 #### 17. Nyilvántartás
 
-23. § (1) A 24. § szerinti adatokat az OHÜ, valamint a vámhatóság a kötelezett termékdíj-kötelezettségének keletkezésétől számított 6 évig tartja nyilván.
+23. § (1) A 24. § szerinti adatokat az OHÜ, valamint az állami adó- és vámhatóság a kötelezett termékdíj-kötelezettségének keletkezésétől számított 6 évig tartja nyilván.
 
 (2) Az OHÜ az e törvény és végrehajtására kiadott jogszabályok alapján birtokába kerülő hulladékgazdálkodással, termékdíj-kötelezettséggel kapcsolatos adatok – beleértve a határozatokban, szerződésekben, egyéb iratokban szereplő személyes adatokat – kezelésére az adatvédelmi jogszabályok betartásával jogosult.
 
 #### 18. Adatkezelés
 
-24. § (1) Az OHÜ, a vámhatóság, valamint a környezetvédelmi hatóság a termékdíj-kötelezettséggel, továbbá az OHÜ tevékenységével összefüggő és a nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a hulladékhasznosítás és termékdíj-fizetés ellenőrzése céljából – e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – a másik fél rendelkezésére bocsátja.
+24. § (1) Az OHÜ, az állami adó- és vámhatóság, valamint a környezetvédelmi hatóság a termékdíj-kötelezettséggel, továbbá az OHÜ tevékenységével összefüggő és a nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a hulladékhasznosítás és termékdíj-fizetés ellenőrzése céljából – e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – a másik fél rendelkezésére bocsátja.
 
-(2) A vámhatóság a környezetvédelmi termékdíj-bejelentésben, bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az – adótitkot és személyes adatot nem képező, összesített – adott negyedévre vonatkozó adattartalmat a termékdíj-kötelezettségek teljesítése és a hulladékgazdálkodás ellenőrzése és tervezése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átad az OHÜ részére.
+(2) Az állami adó- és vámhatóság a környezetvédelmi termékdíj-bejelentésben, bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az – adótitkot és személyes adatot nem képező, összesített – adott negyedévre vonatkozó adattartalmat a termékdíj-kötelezettségek teljesítése és a hulladékgazdálkodás ellenőrzése és tervezése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átad az OHÜ részére.
 
-(3) Az OHÜ a tevékenysége során keletkező adatokat kezeli, és a termékdíj-kötelezettséget érintő adatokat legalább negyedévente átadja a vámhatóság részére.
+(3) Az OHÜ a tevékenysége során keletkező adatokat kezeli, és a termékdíj-kötelezettséget érintő adatokat legalább negyedévente átadja az állami adó- és vámhatóság részére.
 
-(4) A bevallásban közölt adatok valódiságát a vámhatóság ellenőrzi.
+(4) A bevallásban közölt adatok valódiságát az állami adó- és vámhatóság ellenőrzi.
 
 ### VI. Fejezet — A TERMÉKDÍJ VISSZAIGÉNYLÉSE
 
@@ -458,7 +449,7 @@ keletkezik.
 - b) ha az fizikai módon összetevőire szét nem választható és legalább 90%-ban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
 - c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének 90%-át eléri, a társított anyagokra vonatkozó termékdíjtételt kell alkalmazni.
 
-(2) Az újrahasználható csomagolószert belföldi előállítású csomagolás részeként forgalomba hozó vagy csomagolásra felhasználó kötelezettnek nem keletkezik termékdíj-kötelezettsége, ha a termékdíjköteles termék az újrahasználható csomagolószerek – a törvény végrehajtási rendeletében meghatározott – nyilvántartásában szerepel, és a csomagolást végző a csomagolószerre betétdíjat alkalmaz. A betétdíjas újrahasználható csomagolást kibocsátót és a betétdíjas újrahasználati rendszer működtetésében közreműködőket a vámhatóság hatósági ellenőrzés keretében ellenőrizheti.
+(2) Az újrahasználható csomagolószert belföldi előállítású csomagolás részeként forgalomba hozó vagy csomagolásra felhasználó kötelezettnek nem keletkezik termékdíj-kötelezettsége, ha a termékdíjköteles termék az újrahasználható csomagolószerek – a törvény végrehajtási rendeletében meghatározott – nyilvántartásában szerepel, és a csomagolást végző a csomagolószerre betétdíjat alkalmaz. A betétdíjas újrahasználható csomagolást kibocsátót és a betétdíjas újrahasználati rendszer működtetésében közreműködőket az állami adó- és vámhatóság ellenőrizheti.
 
 (3) A külföldről behozott csomagolás részét képező újrahasználható csomagolószer után nem keletkezik termékdíjkötelezettség, amennyiben a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a behozatal időpontjának a termékdíj-megállapítási időszakában a kötelezett megbízása alapján közvetlenül külföldre visszaszállították.
 
@@ -474,49 +465,27 @@ keletkezik.
 
 #### 21. Az ellenőrzés általános szabályai
 
-28. § (1) A vámhatóság a termékdíj-kötelezettség teljesítését hatósági ellenőrzés, illetve adóellenőrzés keretében vizsgálja.
+28. § (1) Az állami adó- és vámhatóság a termékdíj-kötelezettség teljesítését az Art. szerinti ellenőrzés keretében vizsgálja azzal, hogy termékdíjköteles tevékenységgel összefüggő jármű, jármű rakománya is megvizsgálható.
 
-(2) A vámhatóság hatósági ellenőrzés keretében vizsgálhatja:
+(2) Az állami adó- és vámhatóság az ellenőrzései során mintát vehet vagy mintavételre felkérheti az ellenőrzött személyt vagy szervezetet. A mintát és a mintavételhez szükséges edényt, eszközt, helyszínt díjmentesen az ellenőrzött személy vagy szervezet bocsátja rendelkezésre. Az ellenőrzött személy vagy szervezet köteles a mintavétel során közreműködni, az állami adó- és vámhatóság kérésére a mintavételt elvégezni.
 
-- a) a termékdíj-kötelezettség fennállását és azt, hogy a kötelezett a termékdíjköteles termékkel kapcsolatos tevékenységét bejelentette-e;
-- b) a termékdíj számlán való megjelenítésére vonatkozó szabályok betartását;
-- c) a számlán átvállaló az átvállalásra vonatkozó záradékolási kötelezettségének helyesen tett-e eleget;
-- d) a nyilvántartások adattartalma megfelel-e az előírásoknak;
-- e) korábbi hatósági ellenőrzés keretében hozott jogerős határozatban foglalt kötelezettségek teljesítését.
+(3) A helyszíni ellenőrzés gyakorolható folyamatos jelenléttel és vizsgálattal vagy eseti vizsgálattal. Az állami adó- és vámhatóság a folyamatos jelenlét elrendelése esetén köteles az ellenőrzött személyt vagy szervezetet előzetesen értesíteni.
 
-(3) A hatósági ellenőrzést a Ket. hatósági ellenőrzésre vonatkozó rendelkezései szerint kell lefolytatni az alábbi eltérésekkel:
+#### 28/A. §
 
-- a) a kötelezettet a hatósági ellenőrzésről nem kell előzetesen értesíteni;
-- b) termékdíjköteles tevékenységgel összefüggő jármű, jármű rakománya is megvizsgálható, illetve leltárfelvétel is végezhető;
-- c) a hatósági ellenőrzés során a kötelezett részéről jelen lévő személy köteles a vámhatósággal együttműködni, az ellenőrzés feltételeit biztosítani.
+#### 22. A termékdíjköteles termékből képződött hulladékokkal kapcsolatos ellenőrzés
 
-(4) A hatósági ellenőrzésről a vámhatóság jegyzőkönyvet készít.
+29. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – tényleges megvalósulását ellenőrzi.
 
-(5) A termékdíj-kötelezettség ellenőrzését az Art. adóellenőrzésre vonatkozó szabályai szerint kell lefolytatni. A termékdíj-kötelezettség ellenőrzése során a (2) bekezdés alapján korábban már vizsgált kötelezettségek is ellenőrzés alá vonhatók.
+(2) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatósággal együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzés alkalmával biztosítani.
 
-28/A. § (1) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatósággal együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzés alkalmával biztosítani, az ellenőrzés alá eső tevékenységével kapcsolatos bizonylatot, könyvet, nyilvántartást és egyéb iratot, adathordozót, más tárgyi bizonyítékot teljes körűen a vámhatóság rendelkezésére bocsátani.
+(3) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
 
-(2) Az elrendelt ellenőrzéssel összefüggésben a vámhatóság kapcsolódó vizsgálatot végezhet olyan személynél, amely az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban áll, feltéve, hogy az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében e vizsgálat lefolytatása szükséges.
+(4) A vámhatóság a mintavételről jegyzőkönyvet készít.
 
-(3) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatóság kérésére a szolgáltatott adatok és a rendelkezésre bocsátott dokumentációk teljességéről nyilatkozatot tenni.
+(5) A mintavételi jegyzőkönyv tartalmazza:
 
-(4) Az ellenőrzött személynek vagy szervezetnek joga van az ellenőrzés során keletkezett iratokba betekinteni. Minden olyan iratba betekinthet, arról másolatot készíthet, vagy saját költségére készíttethet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
-
-(5) Nem tekinthet be az ellenőrzött személy vagy szervezet
-
-- a) a vámhatóság belső levelezésébe,
-- b) a tanú vagy az eljárásban részt vevő más személy természetes személyazonosító adatait tartalmazó jegyzőkönyvbe (iratba), ha a vámhatóság ezen adatokat zártan kezeli,
-- c) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba vagy az ilyet tartalmazó iratrészletbe,
-- d) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adó- vagy vámtitkot érintő rendelkezésbe ütközik,
-- e) törvény által védett egyéb adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja.
-
-(6) A vámhatóság az ellenőrzései során mintát vehet. A mintát és a mintavételhez szükséges edényt díjmentesen az ellenőrzött személy vagy szervezet bocsátja rendelkezésre.
-
-(7) A vámhatóság a mintavételről jegyzőkönyvet készít.
-
-(8) A mintavételi jegyzőkönyv tartalmazza:
-
-- a) a mintavételi jegyzőkönyv sorszámát, vagy más jelét,
+- a) a mintavételi jegyzőkönyv sorszámát vagy más jelét,
 - b) a mintát vevő személy megnevezését,
 - c) a mintavételben közvetlenül részt vevők nevét, azonosítását,
 - d) a mintavétel helyét és időpontját,
@@ -525,89 +494,79 @@ keletkezik.
 - g) a vett minták mennyiségét és azonosítási jeleit,
 - h) a mintavevők aláírását és bélyegzőlenyomatát.
 
-(9) A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a vámhatóság példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy vagy szervezet példánya.
+(6) A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a vámhatóság példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy vagy szervezet példánya.
 
-#### 22. A termékdíjköteles termékből képződött hulladékokkal kapcsolatos ellenőrzés
+29/A. § (1) A vámhatóság az OHÜ által finanszírozott hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja). Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül.
 
-29. § A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi, vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – tényleges megvalósulását ellenőrzi.
+(2) A vámhatóság az Art. szerinti ellenőrzés szabályai szerint ellenőrzi a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
 
-29/A. § (1) A vámhatóság az OHÜ által finanszírozott hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az OHÜ a kifizetést teljesítette (a továbbiakban: kifizetés jogosultja).
+(3) Az (1)–(2) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az OHÜ által történő kifizetés költségvetési támogatásnak (a továbbiakban: támogatás) minősül. Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait az alábbi eltérésekkel kell alkalmazni.
+(4) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
 
-(3) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
+(5) Az OHÜ az állami adó- és vámhatóságot az e törvény szerinti szerződés megkötéséről a szerződéskötést követő, kifizetés esetén a kifizetéstől számított 15 napon belül elektronikus úton tájékoztatja a szerződés, a szerződéskötés alapjául szolgáló okmányok, bizonylatok, dokumentumok, illetve a teljesítés (kifizetés) alapjául szolgáló bizonylatok adatainak egyidejű megküldésével.
 
-(4) A megbízólevél tartalmazza különösen:
+(6) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles a vámhatóság kérésére a szolgáltatott adatok és a rendelkezésre bocsátott dokumentációk teljességéről nyilatkozatot tenni.
 
-- a) az ellenőrzést lefolytató vámhatóság megnevezését, vezetőjének aláírását, valamint a vámhatóság adatait, bélyegzőlenyomatát,
-- b) az ellenőrzött személy vagy szervezet megnevezését, székhelyét, adóazonosító számát,
-- c) az ellenőrzéssel érintett időszakot,
-- d) az ellenőrzés alapját képező jogszabályok megnevezését,
-- e) a vizsgálatot végzők nevét, megbízásuk tartalmát,
-- f) az ellenőrzés megkezdésének, tervezett befejezésének időpontját,
-- g) a megbízólevél keltét.
+(7) Az ellenőrzött személy az ellenőrzés alá eső tevékenységével kapcsolatos bizonylatot, könyvet, nyilvántartást és egyéb iratot, adathordozót, más tárgyi bizonyítékot köteles teljeskörűen a vámhatóság rendelkezésére bocsátani, mely bizonyítási eszközöket – tételesen részletezett átvételi elismervény ellenében – a vámhatóság bevonhatja. Az irat, adathordozó, tárgyi bizonyíték a vámhatóság hivatali helyiségben történő tanulmányozás céljából is bevonható, ilyen esetben 60 napon túl, de legfeljebb az ellenőrzés lezárásáig csak az illetékes vámszerv vezetőjének engedélyével, végzéssel tartható a vámhatóságnál.
 
-(5) Az OHÜ a vámhatóságot az e törvény szerinti szerződés megkötéséről a szerződéskötést követő, kifizetés esetén a kifizetéstől számított 15 napon belül elektronikus úton tájékoztatja a szerződés, illetve a teljesítés (kifizetés) alapjául szolgáló bizonylatok adatainak egyidejű megküldésével.
+(8) Az iratokról bevonásuk előtt az ellenőrzött személy vagy szervezet saját költségére másolatot készíthet. Az ellenőrzött személy vagy szervezet kérelmére, a vámhatóság az eredeti okmányok helyett az ellenőrzött személy vagy szervezet által készített és általa eredetivel egyezőként elismert másolatot is bevonhatja.
 
-(6) Az ellenőrzött személy vagy szervezet ellenőrzés alá eső tevékenységével kapcsolatos bizonylatot, könyvet, nyilvántartást és egyéb iratot, adathordozót, más tárgyi bizonyítékot – tételesen részletezett átvételi elismervény ellenében – a vámhatóság bevonhatja. Az irat, adathordozó, tárgyi bizonyíték a vámhatóság hivatali helyiségben történő tanulmányozás céljából is bevonható, ilyen esetben 60 napon túl, de legfeljebb az ellenőrzés lezárásáig csak az illetékes vámszerv vezetőjének engedélyével, végzéssel tartható a vámhatóságnál.
+(9) A vámhatóság az ellenőrzés megkezdése előtt, valamint az ellenőrzés ideje alatt bármikor helyszíni szemlét tarthat. A szemle szükség esetén megismételhető. A szemle esetében az ellenőrzést végző – az ellenőrzött szervezet működési rendjét figyelembe véve – üzleti, üzemi vagy egyéb helyiségekbe beléphet, iratokat bevonhat, próbagyártást rendelhet el, a mintavétel szabályainak megfelelő módon mintát vehet, felvilágosítást kérhet, tárgyakat, munkafolyamatokat vizsgálhat meg, adathordozók adattartalmát rögzítheti és leltárfelvételt készíthet. Az ellenőrzött személy vagy szervezet köteles a helyszíni szemle során a vámhatósággal együttműködni. A helyszíni szemle megkezdésekor az ellenőrzést végző szolgálati igazolvánnyal igazolja magát.
 
-(7) Az iratokról bevonásuk előtt az ellenőrzött személy vagy szervezet saját költségére másolatot készíthet. Az ellenőrzött személy vagy szervezet kérelmére, a vámhatóság az eredeti okmányok helyett az ellenőrzött személy vagy szervezet által készített és általa eredetivel egyezőként elismert másolatot is bevonhatja.
+(10) Ha az ellenőrzött személy vagy szervezet vállalkozási tevékenységét magánszemély lakásában végzi, vagy e tevékenységéhez más személy ingatlanát veszi igénybe, az ellenőrzés megkezdése előtt a vámhatóságnak tisztázni kell, hogy az ellenőrzött személy vagy szervezet tevékenységét a más tulajdonában levő lakás vagy ingatlan mely helyiségeiben, részeiben végzi. Az ellenőrzést csak az ellenőrzött személy vagy szervezet által használt helyiségekben, helyeken lehet lefolytatni, a helyiség használatára vonatkozó adatokat elsősorban a tulajdonos és az ellenőrzött személy vagy szervezet között létrejött szerződés alapján kell megállapítani.
 
-(8) A vámhatóság az ellenőrzés megkezdése előtt, valamint az ellenőrzés ideje alatt bármikor helyszíni szemlét tarthat. A szemle szükség esetén megismételhető. A szemle esetében az ellenőrzést végző – az ellenőrzött szervezet működési rendjét figyelembe véve – üzleti, üzemi vagy egyéb helyiségekbe beléphet, iratokat bevonhat, próbagyártást rendelhet el, a mintavétel szabályainak megfelelő módon mintát vehet, felvilágosítást kérhet, tárgyakat, munkafolyamatokat vizsgálhat meg, adathordozók adattartalmát rögzítheti és leltárfelvételt készíthet. Az ellenőrzött személy vagy szervezet köteles a helyszíni szemle során a vámhatósággal együttműködni. A helyszíni szemle megkezdésekor az ellenőrzést végző szolgálati igazolvánnyal igazolja magát.
+(11) A helyszínen tartott ellenőrzést az ellenőrzött személynél vagy szervezetnél a tevékenysége idején (munkaidőben), más személynél napközben, 8 és 20 óra között lehet lefolytatni. Ettől akkor lehet eltérni, ha az ellenőrzött személy vagy szervezet kéri, vagy ha a késedelem az ellenőrzés eredményességét veszélyeztetheti.
 
-(9) Ha az ellenőrzött személy vagy szervezet vállalkozási tevékenységét magánszemély lakásában végzi, vagy e tevékenységéhez más személy ingatlanát veszi igénybe, az ellenőrzés megkezdése előtt a vámhatóságnak tisztázni kell, hogy az ellenőrzött személy vagy szervezet tevékenységét a más tulajdonában levő lakás vagy ingatlan mely helyiségeiben, részeiben végzi. Az ellenőrzést csak az ellenőrzött személy vagy szervezet által használt helyiségekben, helyeken lehet lefolytatni, a helyiség használatára vonatkozó adatokat elsősorban a tulajdonos és az ellenőrzött személy vagy szervezet között létrejött szerződés alapján kell megállapítani.
+(12) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles különösen a bizonyítékokat – ideértve szükség esetén a magyar nyelvű szakfordítását is – a vámhatóság által meghatározott időpontra az ellenőrzést végzők rendelkezésére bocsátani, illetve az ellenőrzéshez szükséges tények, körülmények és egyéb feltételek megismerését biztosítani, szóban vagy írásban tájékoztatást, magyarázatot adni, és a dokumentációs anyagokba a betekintést lehetővé tenni.
 
-(10) A helyszínen tartott ellenőrzést az ellenőrzött személynél vagy szervezetnél a tevékenysége idején (munkaidőben), más személynél napközben, 8 és 20 óra között lehet lefolytatni. Ettől akkor lehet eltérni, ha az ellenőrzött személy vagy szervezet kéri, vagy ha a késedelem az ellenőrzés eredményességét veszélyeztetheti.
+(13) A vámhatóság az ellenőrzött személyt vagy szervezetet, illetve az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban álló személyt az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében felhívásban nyilatkozattételre kötelezheti az általa ismert, illetve nyilvántartásában szereplő adatról, tényről, körülményről.
 
-(11) Az ellenőrzés során az ellenőrzött személy vagy szervezet köteles különösen a bizonyítékokat – ideértve szükség esetén a magyar nyelvű szakfordítását is – a vámhatóság által meghatározott időpontra az ellenőrzést végzők rendelkezésére bocsátani, illetve az ellenőrzéshez szükséges tények, körülmények és egyéb feltételek megismerését biztosítani, szóban vagy írásban tájékoztatást, magyarázatot adni, és a dokumentációs anyagokba a betekintést lehetővé tenni.
+(14) A nyilatkozattétel megtagadható, ha a személy az eljárásban tanúként nem lenne meghallgatható, vagy a tanúvallomást megtagadhatná.
 
-(12) A vámhatóság az ellenőrzött személyt vagy szervezetet, illetve az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban álló személyt az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében felhívásban nyilatkozattételre kötelezheti az általa ismert, illetve nyilvántartásában szereplő adatról, tényről, körülményről.
+(15) Az ellenőrzött személyt vagy szervezetet, illetve az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban álló személyt ki kell oktatni jogairól és kötelezettségeiről, valamint figyelmeztetni kell a nyilatkozattétel megtagadásának következményeire. Az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban álló személy nyilatkozattételéről az ellenőrzött személyt vagy szervezetet nem kell értesíteni.
 
-(13) A nyilatkozattétel megtagadható, ha a személy az eljárásban tanúként nem lenne meghallgatható, vagy a tanúvallomást megtagadhatná.
+(16) A vámhatóság az ellenőrzött személy vagy szervezet, illetve az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban álló személy szóbeli nyilatkozatáról jegyzőkönyvet készít. A jegyzőkönyv tartalmazza különösen a vámhatóság megnevezését, a jegyzőkönyv készítésének helyét, idejét, a nyilatkozattevő azonosításához szükséges adatokat és lakcímét, a jogokra és kötelezettségekre történő kioktatást, a jogkövetkezményekre való figyelmeztetést, a nyilatkozatot, valamint a nyilatkozattevő és a jegyzőkönyvvezető aláírását.
 
-(14) Az ellenőrzött személyt vagy szervezetet, illetve az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban álló személyt ki kell oktatni jogairól és kötelezettségeiről, valamint figyelmeztetni kell a nyilatkozattétel megtagadásának következményeire. Az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban álló személy nyilatkozattételről az ellenőrzött személyt vagy szervezetet nem kell értesíteni.
+(17) Az ellenőrzött személynek vagy szervezetnek joga van az ellenőrzés során keletkezett iratokba betekinteni. Minden olyan iratba betekinthet, arról másolatot készíthet vagy saját költségére készíttethet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
 
-(15) A vámhatóság az ellenőrzött személy vagy szervezet, illetve az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban álló személy szóbeli nyilatkozatáról jegyzőkönyvet készít. A jegyzőkönyv tartalmazza különösen a vámhatóság megnevezését, a jegyzőkönyv készítésének helyét, idejét, a nyilatkozattevő azonosításához szükséges adatokat és lakcímét, a jogokra és kötelezettségekre történő kioktatást, a jogkövetkezményekre való figyelmeztetést, a nyilatkozatot, valamint a nyilatkozattevő és a jegyzőkönyvvezető aláírását.
+(18) Nem tekinthet be az ellenőrzött személy vagy szervezet
 
-(16) Amennyiben jelen §-ban meghatározott kötelezettségét az ellenőrzött személy vagy szervezet, illetve az ellenőrzés alanyával közvetett, vagy közvetlen kapcsolatban álló személy megszegi, a vámhatóság az Art.-ben meghatározott mulasztási bírságot szab ki.
+- a) a vámhatóság belső levelezésébe,
+- b) a tanú vagy az eljárásban részt vevő más személy természetes személyazonosító adatait tartalmazó jegyzőkönyvbe (iratba), ha a vámhatóság ezen adatokat zártan kezeli,
+- c) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba vagy az ilyet tartalmazó iratrészletbe,
+- d) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adó- vagy vámtitkot érintő rendelkezésbe ütközik,
+- e) törvény által védett egyéb adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja.
 
-(17) Az ellenőrzésről a vámhatóság jegyzőkönyvet készít, amely tartalmazza különösen:
+(19) Amennyiben jelen §-ban meghatározott kötelezettségét az ellenőrzött személy vagy szervezet, illetve az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban álló vagy kapcsolatban állt személy megszegi, a vámhatóság a 32. § szerinti mulasztási bírságot szab ki.
+
+(20) Az ellenőrzésről a vámhatóság jegyzőkönyvet készít, amely tartalmazza különösen:
 
 - a) az ellenőrzést végző vámszerv megnevezését, a jegyzőkönyv iktatószámát, az ellenőrzést végzők nevét,
 - b) az ellenőrzött személy vagy szervezet nevét, székhelyét, adóigazgatási számát, a közreműködő személy nevét, adóigazgatási számát/adóazonosító jelét,
 - c) az ellenőrzés kezdő időpontját,
 - d) az ellenőrzés tárgyát, az annak alapját képező jogszabályok felsorolását, az ellenőrzéssel érintett időszakot,
-- e) az ellenőrzést végzők megállapításait, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
+- e) az ellenőrzést végzők megállapításait, különös tekintettel a támogatás igénybevételének jogszerűségére, a tisztázott tényállást a vonatkozó jogszabályok megjelölésével, és annak bizonyítékait, az ellenőrzött személy vagy szervezet által felajánlott és visszautasított bizonyítékok felsorolását, annak indokait,
 - f) utalást arra, hogy a jegyzőkönyvben foglaltakra az ellenőrzött a törvényben meghatározott határidőn belül észrevételeket tehet,
 - g) az ellenőrzést végzők aláírását.
 
-(18) Az ellenőrzési határidő kezdő napja a megbízólevél kézbesítésének, a kézbesítés mellőzése esetén a megbízólevél átadásának napja. Az ellenőrzés befejezésének határideje – beleértve az ellenőrzés megkezdésének és befejezésének napját – 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
+(21) Az ellenőrzési határidő kezdő napja a megbízólevél kézbesítésének, a kézbesítés mellőzése esetén a megbízólevél átadásának napja. Az ellenőrzés befejezésének határideje – beleértve az ellenőrzés megkezdésének és befejezésének napját – 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
 
-(19) Az ellenőrzésre előírt határidőt, ha a tényállás további tisztázása szükségessé teszi, a vámhatóság másodfokú szerve egyszer, legfeljebb további 30 napig terjedő időtartammal meghosszabbíthatja.
+(22) A meghosszabbított ellenőrzési határidőt, ha a tényállás további tisztázása szükségessé teszi, a vámhatóság másodfokú szerve egyszer, legfeljebb további 30 napig terjedő időtartammal meghosszabbíthatja.
 
-(20) Ha a vámhatóság a vizsgálat megállapításait más személynél végzett kapcsolódó vizsgálat eredményével támasztja alá, az erről szóló jegyzőkönyvnek, illetőleg határozatának az ellenőrzött személyt vagy szervezetet érintő részét az ellenőrzött személlyel vagy szervezettel részletesen ismertetni kell.
+(23) Az elrendelt ellenőrzéssel összefüggésben a vámhatóság kapcsolódó vizsgálatot végezhet olyan személynél, amely az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban áll vagy állt, feltéve, hogy az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében e vizsgálat lefolytatása szükséges. A kapcsolódó ellenőrzés határideje 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal 30 nappal meghosszabbíthatja.
 
-(21) A vámhatóság az ellenőrzésről a jegyzőkönyv alapján határozatot hoz.
+(24) Ha a vámhatóság a vizsgálat megállapításait más személynél végzett kapcsolódó vizsgálat eredményével támasztja alá, az erről szóló jegyzőkönyvnek, illetőleg határozatának az ellenőrzött személyt vagy szervezetet érintő részét az ellenőrzött személlyel vagy szervezettel részletesen ismertetni kell.
 
-(22) Amennyiben a vámhatóság megállapítja, hogy az ellenőrzött személy vagy szervezet a támogatást jogosulatlanul vette igénybe, úgy a határozatban jogosulatlanul igénybe vett támogatás összege kétszeresének megfizetését rendeli el. A támogatási összeg kétszeresének megfizetésére a támogatást igénylő a határozat kézhezvételétől számított 15 napon belül köteles.
+(25) A vámhatóság az ellenőrzésről a jegyzőkönyv alapján határozatot hoz.
 
-(23) Jogosulatlanul igénybe vett támogatás esetén a vámhatóság az ellenőrzött személy vagy szervezet terhére a támogatási összeg kétszerese megfizetésének előírása mellett 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
+(26) Amennyiben a vámhatóság megállapítja, hogy az ellenőrzött személy vagy szervezet a támogatást jogosulatlanul vette igénybe, úgy a határozatban jogosulatlanul igénybe vett támogatás összege kétszeresének megfizetését rendeli el. A támogatási összeg kétszeresének megfizetésére a támogatást igénylő a határozat jogerőre emelkedésétől számított 15 napon belül köteles.
 
-#### 23. Hatósági felügyelet
+(27) Jogosulatlanul igénybe vett támogatás esetén a vámhatóság az ellenőrzött személy vagy szervezet terhére a támogatási összeg kétszerese megfizetésének előírása mellett 100 ezer forinttól 1 millió forintig terjedő bírságot szab ki.
 
-30. § (1) A hatósági felügyelet gyakorolható folyamatos jelenléttel és vizsgálattal vagy helyszíni, eseti vizsgálattal.
+#### 23.
 
-(2) Hatósági felügyelet keretében vizsgálható:
-
-- a) környezetvédelmi termékdíjköteles termék előállítása, raktározása, szállítása, felhasználása;
-- b) a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi, vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelése, feldolgozása, ártalmatlanítása, hasznosítása;
-- c) környezetvédelmi termékdíjköteles termékkel kapcsolatos tevékenység, a készleten lévő környezetvédelmi termékdíjköteles termék utáni adófizetési kötelezettség rendezéséig.
-
-(3) A hatósági felügyeletet a Ket. hatósági ellenőrzésre vonatkozó rendelkezései szerint kell végrehajtani.
-
-(4) A vámhatóság folyamatos jelenlét elrendelése esetén köteles a kötelezettet előzetesen értesíteni.
-
-(5) A vámhatóság döntése alapján készletfelvétellel megállapíthatja a tényleges készletet, amelyet jegyzőkönyvbe kell foglalni.
+#### 30. §
 
 ### IX. Fejezet — JOGKÖVETKEZMÉNYEK
 
@@ -625,36 +584,36 @@ keletkezik.
 - b) az (1) bekezdés b) pontja esetén a termékdíjköteles termék mennyisége után e törvény 2. mellékletében meghatározott díjtételének háromszorosával számított termékdíj;
 - c) az (1) bekezdés c) pontja esetében az egyéni hulladékkezelést végző az általa bevallott gyűjtési és hasznosítási mennyiség és a valóságos teljesítmény különbözetével, azaz a nem teljesített mennyiséggel, valamint az 2. mellékletben meghatározott díjtételek figyelembevételével kiszámított termékdíj háromszorosa szerinti összeg.
 
-(3) Csomagolószer termékdíjának hiányos megfizetése vagy megfizetésének elmulasztása esetén az egyéb anyagok díjtételének alapulvételével szabja ki a vámhatóság a termékdíjbírságot, ha a kötelezett nyilvántartásaiból a csomagolószer anyagárama tételesen nem állapítható meg.
+(3) Csomagolószer termékdíjának hiányos megfizetése vagy megfizetésének elmulasztása esetén az egyéb anyagok díjtételének alapulvételével szabja ki az állami adó- és vámhatóság a termékdíjbírságot, ha a kötelezett nyilvántartásaiból a csomagolószer anyagárama tételesen nem állapítható meg.
 
 (4) Nincs helye a termékdíjbírság mérséklésének, ha a termékdíjhiány a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével függ össze.
 
 #### 25. Mulasztási bírság
 
-32. § (1) A kötelezettre a vámhatóság az Art. 172. §-ban meghatározott mulasztásáért az ott megállapított mulasztási bírságot szab ki.
-
-(2) Amennyiben a kötelezett e törvény és a végrehajtására kiadott jogszabály szerinti kötelezettségeit nem az előírtak szerint teljesíti, a vámhatóság mulasztási bírságot szabhat ki. A vámhatóság az e törvényben, illetve e törvény végrehajtására kiadott jogszabályban megállapított kötelezettségnek az Art. 172. §-ban nem szabályozott megszegése miatt a kötelezettet 500 ezer forintig terjedő mulasztási bírsággal sújthatja.
+32. § Amennyiben a kötelezett e törvény és a végrehajtására kiadott jogszabály szerinti kötelezettségeit nem az előírtak szerint teljesíti, az állami adó- és vámhatóság mulasztási bírságot szabhat ki. Az állami adó- és vámhatóság az e törvényben, illetve e törvény végrehajtására kiadott jogszabályban megállapított kötelezettségnek az Art. 172. §-ban nem szabályozott megszegése miatt a kötelezettet 500 ezer forintig terjedő mulasztási bírsággal sújthatja.
 
 #### 26. Lefoglalás és elkobzás
 
-33. § (1) A vámhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el.
+33. § (1) Az állami adó- és vámhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el.
 
-(2) A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, a vámhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja.
+(2) A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az állami adó- és vámhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja.
 
-(3) A lefoglalásról a vámhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
+(3) A lefoglalásról az állami adó- és vámhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
 
-(4) A vámhatóság, amennyiben
+(4) Az állami adó- és vámhatóság, amennyiben
 
 - a) a termékdíjköteles termék birtokosa a termékdíjköteles termék eredetét vagy felhasználásának célját nem igazolja, és
 - b) az eljárás során felmerül,
   - ba) a termékdíjköteles termék intézkedés alóli kivonásának lehetősége,
   - bb) a kötelezett fizetésképtelenségének veszélye, vagy
   - bc) a fizetési kötelezettség elkerülésének veszélye, illetve
-- c) szükséges a tényállás tisztázása érdekében a termékdíjköteles termék, valamint előállítására, felhasználására, tárolására és szállítására használt eszköz tárgyi bizonyítási eszközként történő lefoglalása, a termékdíjköteles terméket lefoglalja.
+- c) szükséges a tényállás tisztázása érdekében a termékdíjköteles termék, valamint előállítására, felhasználására, tárolására és szállítására használt eszköz tárgyi bizonyítási eszközként történő lefoglalása,
 
-34. § (1) A vámhatóság a lefoglalásról végzésben rendelkezik.
+a termékdíjköteles terméket lefoglalja.
 
-(2) A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A kifogást a végzés közlésétől számított nyolc napon belül kell előterjeszteni a lefoglalást végző vámhatóságnál.
+34. § (1) Az állami adó- és vámhatóság a lefoglalásról végzésben rendelkezik.
+
+(2) A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A kifogást a végzés közlésétől számított nyolc napon belül kell előterjeszteni a lefoglalást végző állami adó- és vámhatóságnál.
 
 (3) A kifogást a felettes szerv a benyújtástól számított tizenöt napon belül bírálja el. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
 
@@ -663,25 +622,27 @@ keletkezik.
 - a) ha a lefoglalt környezetvédelmi termékdíjköteles termékre az eljárás eredményes lefolytatása érdekében már nincs szükség;
 - b) ha környezetvédelmi termékdíj és termékdíjbírság vagy mulasztási bírság nem kerül megállapításra;
 - c) ha a lefoglalt termékre a tényállás tisztázása során a kiszabott környezetvédelmi termékdíjat és termékdíjbírságot mulasztási bírságot és termék elszállításával, tárolásával, őrzésével kapcsolatos költségeket befizették vagy arra – elidegenítési tilalom alkalmazása mellett – fizetéskönnyítést engedélyeztek;
-- d) ha a termékdíjas szabályok megsértésével kapcsolatban indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság a vámhatóságot megkereste.
+- d) ha a termékdíjas szabályok megsértésével kapcsolatban indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság az állami adó- és vámhatóságot megkereste.
 
-35. § (1) A lefoglalt termék annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt (azokat) a vámhatóság lefoglalta, feltéve, hogy a jogszerű birtoklás tényét igazolta.
+35. § (1) A lefoglalt termék annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt (azokat) az állami adó- és vámhatóság lefoglalta, feltéve, hogy a jogszerű birtoklás tényét igazolta.
 
-(2) Amennyiben a lefoglalt termék azonosítása (így különösen mennyisége, fajtája, minősége) a vámhatóság részéről kétséget kizáróan nem állapítható meg, azt elsősorban az OHÜ bevonásával, ha nem rendelkezik a szükséges szakértelemmel, akkor szakértői vizsgálattal kell tisztázni.
+(2) Amennyiben a lefoglalt termék azonosítása (így különösen mennyisége, fajtája, minősége) az állami adó- és vámhatóság részéről kétséget kizáróan nem állapítható meg, azt elsősorban az OHÜ bevonásával, ha nem rendelkezik a szükséges szakértelemmel, akkor szakértői vizsgálattal kell tisztázni.
 
 (3) A lefoglalt termék elszállításával, tárolásával, őrzésével, megsemmisítésével, valamint a szakértői vizsgálat díjával kapcsolatos költségek az ügyfelet terhelik, ha jogerősen végrehajtható környezetvédelmi termékdíj, termékdíjbírság, mulasztási bírság megfizetésére kötelezték. Ellenkező esetben a felmerült költségeket az állam viseli.
 
-(4) A lefoglalt terméknek, valamint az előállítására, felhasználására, tárolására és szállítására használt eszköznek a vámhatóság által üzemeltetett raktárban történő tárolása esetén a lefoglalt minden megkezdett 100 kg tömege után 500 forint naptári naponkénti tárolási költség fizetendő. Egyéb raktárban történő tárolás esetén a raktár üzemeltető által szokásosan felszámított díjtétel az irányadó.
+(4) A lefoglalt terméknek, valamint az előállítására, felhasználására, tárolására és szállítására használt eszköznek az állami adó- és vámhatóság által üzemeltetett raktárban történő tárolása esetén a lefoglalt minden megkezdett 100 kg tömege után 500 forint naptári naponkénti tárolási költség fizetendő. Egyéb raktárban történő tárolás esetén a raktár üzemeltető által szokásosan felszámított díjtétel az irányadó.
 
 36. § (1) A lefoglalt termékeket el kell kobozni, ha a környezetvédelmi termékdíjas ügyben jogerősen termékdíjbírság, mulasztási bírság kerül kiszabásra és azt a kötelezett az esedékességtől számított 15 napon belül nem fizette meg. Továbbá a jogerősen végrehajtható környezetvédelmi termékdíj és termékdíjbírság, mulasztási bírság megfizetésére kötelezett ügyfél tulajdonában lévő termék elszállításával, tárolásával, őrzésével, megsemmisítésével kapcsolatos költségek együttes összege eléri a termék lefoglaláskori értékét és a kötelezett a fizetési kötelezettségének nem tett eleget.
 
-(2) Az elkobzott termékdíjköteles terméket a keletkezett fizetési kötelezettségek teljesítése és a költségek megtérülése érdekében a vámhatóság az állam javára az Art. szerinti végrehajtásra vonatkozó szabályok alapján értékesíti, ennek meghiúsulása esetén megsemmisíti.
+(2) Az elkobzott termékdíjköteles terméket a keletkezett fizetési kötelezettségek teljesítése és a költségek megtérülése érdekében az állami adó- és vámhatóság az állam javára az Art. szerinti végrehajtásra vonatkozó szabályok alapján értékesíti, ennek meghiúsulása esetén megsemmisíti.
 
-(3) Az elkobzott terméket nem kell megsemmisíteni, ha a vámhatóság, mint az állam nevében az elkobzott termék felett rendelkezésre jogosult, az OHÜ egyetértésével a terméket:
+(3) Az elkobzott terméket nem kell megsemmisíteni, ha az állami adó- és vámhatóság, mint az állam nevében az elkobzott termék felett rendelkezésre jogosult, az OHÜ egyetértésével a terméket:
 
 - a) a külön jogszabály szerinti katasztrófa esetén az illetékes védelmi bizottság elnökének, illetve I-III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzat polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének,
 - b) a szellemi alkotáson fennálló jog jogosultja hozzájárulásával karitatív tevékenységet végző szervezet vezetőjének az egyes elkobzott dolgok közérdekű felhasználására vonatkozó külön jogszabály rendelkezései szerint,
-- c) az anyagában vagy energetikai célra hasznosítható termékdíjköteles termék esetében hasznosítási céllal a hasznosító üzem vezetőjének átadja és a kedvezményezettek azt elfogadják, továbbá az a)–c) pontokban meghatározott célokra használják fel.
+- c) az anyagában vagy energetikai célra hasznosítható termékdíjköteles termék esetében hasznosítási céllal a hasznosító üzem vezetőjének
+
+átadja és a kedvezményezettek azt elfogadják, továbbá az a)–c) pontokban meghatározott célokra használják fel.
 
 (4) Az elkobzott termékek közül meg kell semmisíteni:
 
@@ -690,7 +651,7 @@ keletkezik.
 
 (5) Nem kobozható el az áru, ha a 33. § (4) bekezdés c) pontja szerinti lefoglalás esetében részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – engedélyeztek. Egyéb jogcím alapján történő lefoglalás esetében részletfizetés vagy fizetési halasztás nem adható.
 
-(6) A vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt termék előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan vagy annak kezelése, tárolása, illetve őrzése – különösen a termék értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna. Az elkobzás, az átadás és az előzetes megsemmisítés elrendeléséről végzésben kell intézkedni.
+(6) Az állami adó- és vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt termék előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan vagy annak kezelése, tárolása, illetve őrzése – különösen a termék értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna. Az elkobzás, az átadás és az előzetes megsemmisítés elrendeléséről végzésben kell intézkedni.
 
 #### 27. A termékdíjakkal kapcsolatos állami feladatok finanszírozása
 
@@ -751,6 +712,14 @@ keletkezik.
 (10) A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény (a továbbiakban: Kt.) hatálya alá tartozó kötelezett a 2011. évre vonatkozó, de 2012-ben teljesítendő termékdíjjal kapcsolatos kötelezettségét a Kt. és végrehajtására kiadott jogszabályok szerinti tartalommal, határidőre és fizetési kötelezettség mértékével teljesíti.
 
 (11) A Kt. és végrehatására kiadott jogszabályok, valamint a külön jogszabályok szerinti hasznosítást koordináló szervezet a 2011. évre vonatkozó és 2011-ben hatályos jogszabályok szerinti kötelezettségét ezen jogszabályok szerinti tartalommal és határidőre teljesíti. Az adatszolgáltatási, tájékoztatási, bevallási kötelezettséget – ezen határidőn belül – az OHÜ felé is teljesíti.
+
+40/A. § (1) E törvény 8. § (2) bekezdésében foglaltaktól eltérően a 2013. január 1-jét megelőző időszakra vonatkozó környezetvédelmi termékdíj bevallásokat (ideértve a bevalláspótlást és az önellenőrzést is) 2013. február 14-éig a vámhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat a vámhatóság látja el. 2013. február 14-éig a befizetéseket a vámhatósághoz kell teljesíteni.
+
+(2) 2013. február 14-ét követően a környezetvédelmi termékdíj bevallásokat (bevalláspótlást, önellenőrzést) az állami adóhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat az állami adóhatóság látja el. 2013. február 14-ét követően a befizetéseket az állami adóhatósághoz kell teljesíteni.
+
+(3) A környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult ügyekben a vámhatóság jár el.
+
+(4) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások, továbbá a környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
 
 #### 31. Bejelentés az Európai Unió részére
 

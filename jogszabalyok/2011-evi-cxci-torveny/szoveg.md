@@ -12,7 +12,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 - 1. egészségi állapot: az egyén fizikai, mentális, szociális jóllétének betegség, illetve sérülés után kialakult vagy veleszületett rendellenesség következtében fennálló tartós vagy végleges kedvezőtlen változásait (a továbbiakban: egészségkárosodás) figyelembe véve meghatározott állapot;
 - 2. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- 3. havi átlagjövedelem: a jogosultság kezdő napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, pénzbeli egészségbiztosítási járulék alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a jogosultság kezdő napját közvetlenül megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult ebben az időszakban, valamint a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel vagy egyáltalán nem rendelkezik jövedelemmel, a minimálbér összege;
+- 3. havi átlagjövedelem: a jogosultság kezdő napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, pénzbeli egészségbiztosítási járulék alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a jogosultság kezdő napját közvetlenül megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult ebben az időszakban, valamint a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel vagy egyáltalán nem rendelkezik jövedelemmel, a minimálbér összege; ha a jogosult amiatt nem rendelkezik 180 naptári napi jövedelemmel, mert a vizsgált időszakban vagy ennek egy részében táppénzben, baleseti táppénzben részesült, ha az számára kedvezőbb, a táppénzt, baleseti táppénzt megelőző 180 naptári napi jövedelmet kell figyelembe venni;
 - 4. keresőtevékenység: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti kereső tevékenység azzal, hogy az uniós rendeletek hatálya alá tartozó személy esetén az EGT-államban, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személy esetén az egyezményben részes államban végzett keresőtevékenységet – a jogosult nyilatkozata, vagy az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – szintén figyelembe kell venni;
 - 5. megfelelő munkahely: az Flt. 25. § (2) és (3) bekezdése szerinti munkahely, azzal, hogy álláskereső alatt a rehabilitációs ellátásban részesülő személyt, álláskeresési járadék alatt a rehabilitációs ellátást kell érteni;
 - 6. minimálbér: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 4. § s) pont 1. alpontjában meghatározott minimálbér;
@@ -92,7 +92,12 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 (3) A rehabilitációs ellátás időtartama keresőtevékenységet folytató ellátott esetén meghosszabbodik a keresőtevékenység időtartama alatt bekövetkezett keresőképtelenség (a továbbiakban: keresőképtelenség) időtartamával. A rehabilitációs ellátásban részesülő személy keresőtevékenység folytatása esetén a keresőképtelenségére tekintettel – a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározottak szerint – táppénzre vagy baleseti táppénzre jogosult.
 
-(4)
+(4) A rehabilitációs pénzbeli ellátás folyósítását szüneteltetni kell arra az időtartamra, amikor az ellátott
+
+- a) keresőtevékenységet végez vagy közfoglalkoztatásban vesz részt, ha a munkaszerződés szerinti heti munkaideje a 20 órát meghaladja, vagy
+- b) keresőképtelen.
+
+(4a) A szüneteltetés időtartamára folyósított rehabilitációs pénzbeli ellátást az ok bekövetkezéséről való tudomásszerzést követő hónaptól járó ellátásból le kell vonni, vagy azt a rehabilitációs ellátás megszüntetése esetén vissza kell követelni. A levonás legfeljebb a rehabilitációs pénzbeli ellátás 50%-áig terjedhet.
 
 (5) A rehabilitációs ellátás időtartamát – a (3) bekezdésben meghatározottak kivételével – meghosszabbítani nem lehet.
 
@@ -306,7 +311,7 @@ vonatkozó adatokat kezelheti.
 
 - a) a közfoglalkoztatási jogviszonyban, valamint a közfoglalkoztatás támogatásáról szóló kormányrendelet szerint támogatott munkaviszonyban foglalkoztatott személyeket,
 - b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
-- c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó munkavállalót, ideértve az önkéntes tartalékos szolgálati viszonnyal rendelkező munkavállalót is, és
+- c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 - d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
@@ -336,6 +341,8 @@ vonatkozó adatokat kezelheti.
 ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti megváltozott munkaképességű személy foglalkoztatását biztosítja.
 
 (2) Az (1) bekezdésben meghatározott támogatás jogosulatlan igénybevételéből fakadó köztartozást adók módjára kell behajtani.
+
+(3) A megváltozott munkaképességű személy határozott idejű munkaviszonya – a Munka Törvénykönyvéről szóló törvény 192. § (2) bekezdésétől eltérően – az (1) bekezdés alapján támogatott foglalkoztatása időtartamára meghosszabbítható.
 
 26. § A rehabilitációs hatóság komplex minősítése szerinti megváltozott munkaképességű személy külön törvényben meghatározott Rehabilitációs kártyára jogosult, ha a komplex minősítés alapján foglalkoztathatósága rehabilitációval helyreállítható, vagy tartós foglalkozási rehabilitációt igényel.
 
@@ -536,12 +543,17 @@ kell figyelembe venni.
 
 (2) A 25. §-t 2013. január 1-jétől kell alkalmazni. A 2013. január 1-je előtt folytatott foglalkoztatás tekintetében a megváltozott munkaképességű munkavállalókat foglalkoztató munkaadók akkreditációjával, ellenőrzésével, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokkal, azok visszakövetelésével kapcsolatban az Flt. 2011. december 30-án hatályos rendelkezéseit kell alkalmazni.
 
-38. § (1) A 23–25. § alkalmazásában
+38. § (1) A 23–24. § alkalmazásában
 
 - a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig,
 - b) az a) pont alá nem tartozó személyek esetében a (2) bekezdés szerinti hatósági bizonyítvány kiállítását követő harmadik hónap első napjáig, de legkésőbb 2012. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
 
 (2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
+
+(3) A 25. § alkalmazásában
+
+- a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott döntés jogerőre emelkedésének napjáig,
+- b) az a) pont alá nem tartozó személyek esetében a 26/A. § szerinti hatósági bizonyítvány kiállításának napjáig, de legkésőbb 2013. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, akinek a foglalkoztatása alapján a munkáltató 2012 decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
 
 39. § (1) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

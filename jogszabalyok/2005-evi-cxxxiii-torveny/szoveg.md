@@ -60,11 +60,11 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (3) Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a kérelmező is igazolhatja a kérelem benyújtásakor. Ha az adatokat a kérelmező a kérelem benyújtásakor nem igazolja, a rendőrség az igazolvány kiadása iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
 
-(4) Vállalkozás keretében személy- és vagyonvédelmi tevékenységet nem gyakorolhat az
+(4) Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
 
-- a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
-- b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
-- c) a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
+- a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
+- b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
+- c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
 
 5/A. § (1) Vállalkozás keretében tervező-szerelő vagy magánnyomozói tevékenységet az a vállalkozás végezhet, amely megfelel a jogszabályban meghatározott feltételeknek és
 
@@ -77,13 +77,15 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (4) Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja. Az (1) bekezdés a) pontjában meghatározott adatokat a bejelentést tevő is igazolhatja a bejelentés megtételekor. Ha az adatokat a bejelentést tevő a bejelentés megtételekor nem igazolja, a rendőrség adatszolgáltatás iránti kérelemmel fordul az (1) bekezdés a) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
 
-(5) Vállalkozás keretében tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
+(5) Tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
 
-- a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
-- b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg,
+- a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
+- b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, valamint
 - c) a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a tervező-szerelő vagy magánnyomozói tevékenység gyakorlásától eltiltott.
 
 6. § (1) Az e törvény hatálya alá tartozó tevékenységek (ideértve a magánnyomozói tevékenység szervezését és irányítását is) személyes végzéséhez – ha e törvény kivételt nem tesz – a rendőrség által kiadott igazolvány szükséges.
+
+(1a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti személy- és vagyonőr a tevékenységét, abban az esetben kezdheti meg, ha az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.
 
 (2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll. A tevékenység gyakorlásának feltételeit, továbbá azt, hogy a kérelmező nem áll-e az e törvény hatálya alá tartozó tevékenység vagy fegyveres szerv hivatásos állományú tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt, az igazolvány kiadására és meghosszabbítására irányuló eljárásban a kérelmező igazolja.
 
@@ -436,7 +438,7 @@ meg kell semmisíteni.
 - i) hazai és nemzetközi szakmai és jogi információkat gyűjt és ezekről tájékoztatást ad tagjainak, az általa nyilvántartott vállalkozásoknak, illetve tagjai és a nyilvántartott vállalkozások érdekében más személyeknek;
 - j) kapcsolatot tart az illetékes gazdasági kamarákkal, továbbá a hasonló jellegű hazai és külföldi szakmai kamarákkal és szövetségekkel;
 - k) kezdeményezi szabványok kiadását;
-- l)
+- l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 26–29. §-aiban meghatározott jogosultságok gyakorlásával szemben benyújtott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott panaszt,
 - m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
 - n)
 - o)
@@ -692,6 +694,12 @@ meg kell semmisíteni.
 (4) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot, valamint a törvényességi felügyeletet ellátó minisztert.
 
 (5) A felügyelőbiztos díjazását és költségtérítését a bíróság állapítja meg.
+
+### A személy- és vagyonőr intézkedésével szembeni panasz elbírálása
+
+62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt az intézkedés helye szerint illetékes az alapszabályban meghatározott területi szervezet bírálja el harminc napon belül közigazgatási hatósági eljárás szabályai szerint.
+
+(2) A első fokú döntés ellen benyújtott fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.
 
 ### V. Fejezet — FELÜGYELETI BÍRSÁG
 

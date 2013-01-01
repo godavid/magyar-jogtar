@@ -391,7 +391,7 @@ alapelveit.
 
 (6) Amennyiben a jogalkalmazás megfelelő gyakorlása, vagy a jogérvényesítés, valamint az ügyfelek jogai gyakorlása érdekében indokolt, a Hatóság felhívhatja az ügyfelet és az eljárás egyéb résztvevőjét a (2) bekezdés szerinti zárt adatkezelés feloldására.
 
-(7) Amennyiben az ügyfél és az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nyilatkozatával nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél és az eljárás egyéb résztvevője a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(7) Amennyiben az ügyfél és az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nyilatkozatával nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél és az eljárás egyéb résztvevője a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 ### Kizárás
 
@@ -416,7 +416,7 @@ alapelveit.
 
 (2) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, vagy az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban a hatáskörébe utalt feladatok végzéséhez szükséges adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti. Az adatszolgáltatási kötelezettségnek meg kell felelnie az arányosság követelményének.
 
-(3) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Törvényszékhez halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Törvényszék végzése ellen további jogorvoslatnak helye nincs.
+(3) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
 
 (4) Amennyiben a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet nyilatkozattételre, valamint adatszolgáltatásra kötelezheti, e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén bírság alkalmazható, az e törvény 38. §-a szerinti jogkövetkezményekre történő figyelmeztetés mellett.
 
@@ -435,7 +435,7 @@ alapelveit.
 
 (8) A tényállás tisztázása során a Hatóság egyebekben a Ket. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait is alkalmazhatja.
 
-36. § A Hatóság a lefoglalásról vagy a zár alá vételről végzést hoz, amely ellen az ügyfél a Fővárosi Törvényszékhez jogorvoslattal fordulhat. E jogorvoslat benyújtásának a végzés végrehajtására nincs halasztó hatálya. A bíróság az ügyben, szükség esetén a felek meghallgatása után, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Törvényszék végzése ellen fellebbezésnek helye nincs.
+36. § A Hatóság a lefoglalásról vagy a zár alá vételről végzést hoz, amely ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslattal fordulhat. E jogorvoslat benyújtásának a végzés végrehajtására nincs halasztó hatálya. A bíróság az ügyben, szükség esetén a felek meghallgatása után, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek helye nincs.
 
 ### Ideiglenes intézkedés
 
@@ -443,7 +443,7 @@ alapelveit.
 
 (2) Az ideiglenes intézkedést a Hatóság visszavonja, ha az elrendelés oka megszűnt, egyéb esetben az ideiglenes intézkedés hatálya az eljárás jogerős befejezéséig, legfeljebb 90 napig tart.
 
-(3) A Hivatal ideiglenes intézkedés tárgyában hozott végzése ellen önálló fellebbezésnek nincs helye, de a végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közléstől számított öt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben tíz napon belül nemperes eljárásban határoz. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(3) A Hivatal ideiglenes intézkedés tárgyában hozott végzése ellen önálló fellebbezésnek nincs helye, de a végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közléstől számított öt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben tíz napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
 ### Hatósági intézkedés
 
@@ -568,7 +568,7 @@ alapelveit.
 
 42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a Fővárosi Törvényszéktől. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
 (3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
 
@@ -601,9 +601,13 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (4) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
 
-(5) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(5) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(6) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Törvényszéktől annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.
+(6) A Hivatal a 182. § (3) bekezdés 5. pontjában foglalt felhatalmazás alapján megalkotott Elnök rendelete szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban hozott árverés vagy pályázat eredménytelenségét, vagy eredményesség esetén az árverés vagy pályázat nyertesét vagy nyerteseit megállapító határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető bírósági felülvizsgálat.
+
+(7) A Hivatal a (6) bekezdés szerinti határozata ellen benyújtott keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással fellebbezésnek van helye a Fővárosi Törvényszékhez, azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Fővárosi Törvényszék a fellebbezést negyvenöt napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Törvényszék határozatával szemben perújításnak, felülvizsgálati kérelemnek nincs helye. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Fővárosi Törvényszék soron kívül jár el.
+
+(8) A KFGH határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a KFGH-nak az ügy érdemében hozott határozata sérti, keresettel kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól annak felülvizsgálatát. A bírósági felülvizsgálattal kapcsolatban, egyebekben a 45–46. §-ban foglaltak megfelelően irányadók.
 
 ### Az Elnök döntése elleni jogorvoslat
 
@@ -619,7 +623,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 46. § (1) A bíróság az e törvényben szabályozott hatósági döntések bírósági felülvizsgálatára irányuló eljárásait soron kívül köteles lefolytatni.
 
-(2) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(2) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (3) A bíróság az Elnök határozatát megváltoztathatja.
 
@@ -635,9 +639,9 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (5) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. A Hatóság a 62–66. §-ok szerinti eljárásában a más eljárásában szolgáltatott adatokat is felhasználhatja, amennyiben azokat az elektronikus hírközlési szolgáltató a Hatóság kötelező döntése alapján szolgáltatta. A Hatóság az elektronikus hírközlési szolgáltatót az általa más eljárásban szolgáltatott adatok 62–66. §-ok szerinti eljárásban való lehetséges felhasználására előzetesen figyelmeztetni köteles.
 
-(6) A Hivatal (2)–(5) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(6) A Hivatal (2)–(5) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
-(7) Az Elnök (2)–(5) bekezdés szerinti határozatának felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(7) Az Elnök (2)–(5) bekezdés szerinti határozatának felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
 
 (8) A (2)–(5) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
 
@@ -896,7 +900,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést az eljáró tanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
 
-(9) Amennyiben az eljáró tanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Törvényszékhez jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+(9) Amennyiben az eljáró tanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
 
 (10) Az ideiglenes intézkedés elutasítása tárgyában az eljáró tanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.
 
@@ -1229,6 +1233,10 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 (2) Ha jogszabály másként nem rendelkezik, nincs szükség hatósági engedélyre olyan elektronikus hírközlési építmény építési munkáinak végzéséhez, amelyet egy adott vállalkozás vagy személy kizárólag saját igényeinek kielégítésére használ, vagy azon zárt csoportot alkotó felhasználók belső elektronikus hírközlési forgalma bonyolódik, és az építmény nem terjed túl a vállalkozás vagy személy, illetve a zárt csoportot alkotó felhasználók saját ingatlana határán.
 
 (3) A Hatóság biztosítja, hogy internetes honlapján az e § szerinti jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz a minden érdekelt könnyen hozzáférhessen, és ezen információkat rendszeresen felülvizsgálja.
+
+(4) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatóság ügyintézési határidejébe a szakhatóság eljárásának ügyintézési határideje nem számít bele.
+
+(5) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások szabályait az Elnök rendeletben állapítja meg.
 
 ### Rádiófrekvenciák és azonosítók használati joga
 
@@ -2444,6 +2452,8 @@ köteles biztosítani.
 
 181/C. § E törvénynek az elektronikus hírközlést érintő egyes törvények módosításáról szóló 2012. évi CXXX. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
+181/D. § E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+
 ### Felhatalmazás
 
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
@@ -2484,7 +2494,7 @@ köteles biztosítani.
 - 23. az építésügyért és a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét és keresztezését, továbbá a közös eszközhasználattal és helymegosztással kapcsolatban az elektronikus hírközlési szolgáltatókat terhelő egyes bejelentési, adatszolgáltatási és nyilvántartási kötelezettségeket és feladatokat a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszter véleményezését követően;
 - 24. előfizetői szerződések, azok létrejötte, módosítása, megszűnése, szolgáltatások korlátozásának feltételeit, az egyedi előfizetői szerződések és a szolgáltatók általános szerződési feltételei részletes szabályait, ideértve a tudakozószolgálatokkal és telefonkönyvekkel, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat;
 - 25. azon eljárások körét, amelyekben kötelező vagy kizárólagos az elektronikus kapcsolattartás, illetve az egyes eljárásokban a kapcsolattartás módját.
-- 26. település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat.
+- 26. az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások szabályait, valamint a település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
 - 27. az egyetemes szolgáltatás nyújtásával kapcsolatos szabályokat, ennek keretében az egyetemes elektronikus hírközlési szolgáltató kijelölésének feltételeit és a vonatkozó eljárás részletes szabályait, a nettó elkerülhető költség és az egyetemes szolgáltatás nyújtásából származó közvetett előnyök számításának részletes szabályait, az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait, valamint az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit;
 - 28. az e törvény szerinti hírközlési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - 29.
@@ -2595,7 +2605,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 9/a. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
 - 10. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 - 11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, Magyarország területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
-- 12. Elektronikus hírközlési építmény: elektronikus hírközlési nyomvonalas és nyomvonal jellegű létesítmények és egyéb műtárgyak; az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat.
+- 12. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket;
 - 13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
 - 14. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
 - 15. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó szolgáltatások.
@@ -2661,7 +2671,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 59.
 - 60. Irányítás: a Tpvt. 23. § (2) bekezdésében így meghatározott kapcsolat.
 - 60/a. Jelenlét- ellenőrző szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó meghatározott állapotára vonatkozó adatok igénybevételével nyújtanak.
-- 61. Kapcsolódó eszközök: elektronikus hírközlő hálózat üzemeltetéséhez, illetve elektronikus hírközlési szolgáltatás nyújtásához kötődő, ahhoz igénybe vehető, illetve arra alkalmas kapcsolódó szolgáltatások, fizikai eszközök és egyéb létesítmények vagy elemek, ideértve többek között az épületek vagy az épületek kábelbevezetését, az épületek kábelezését, az antennákat, a tornyokat és egyéb tartószerkezeteket, az alépítményeket, a kábelcsatornákat, a tartóoszlopokat, az ellenőrzőaknákat és a szekrényeket.
+- 61. Kapcsolódó eszközök: elektronikus hírközlőhálózat üzemeltetéséhez, elektronikus hírközlési szolgáltatás nyújtásához kötődő, ahhoz igénybe vehető, arra alkalmas kapcsolódó szolgáltatások, fizikai eszközök és egyéb létesítmények vagy elemek, ideértve többek között az elektronikus hírközlési építményeket, az épületek vagy az épületek kábelbevezetését, az épületek kábelezését, az antennákat, a tornyokat és egyéb tartószerkezeteket, az alépítményeket, a kábelcsatornákat, a tartóoszlopokat, az ellenőrzőaknákat és a szekrényeket.
 - 61/a. Kapcsolódó szolgáltatások: azok az elektronikus hírközlő hálózathoz, illetve elektronikus hírközlési szolgáltatáshoz kapcsolódó szolgáltatások, amelyek lehetővé teszik, illetve támogatják az adott hálózat vagy szolgáltatás útján történő szolgáltatásnyújtást, vagy erre alkalmasak, beleértve a számfordítást, és az azzal egyenértékű funkcióval rendelkező rendszereket, a feltételes hozzáférésű rendszereket és az elektronikus műsortájékoztatókat, valamint egyéb szolgáltatásokat, mint például az azonosítás szolgáltatást, a helymeghatározási és a jelenlét-ellenőrző szolgáltatást.
 - 61/b. Kábelrendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
 - 62. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigáció szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
@@ -2670,7 +2680,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 64/a. Kis és középvállalkozás: a kis és középvállalkozások támogatásáról szóló törvényben ekként meghatározott vállalkozások.
 - 65. Kizárólagos jogok: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
 - 66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
-- 67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérését.
+- 67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése vagy az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződéses jogviszonyban álló harmadik elektronikus hírközlési szolgáltatóval kötött megállapodása alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérést.
 - 68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt.
 - 69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
 - 70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
@@ -2698,6 +2708,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 87. Nyilvános telefonhálózat (telefonhálózat): olyan nyilvános elektronikus hírközlő hálózat, amelyen részben vagy egészben nyilvánosan elérhető telefon szolgáltatást nyújtanak, illetve amely alkalmas hálózati végpontok között beszéd, továbbá más kommunikációra, így különösen a telefax és adatkommunikációra.
 - 88. Nyilvános telefonállomás: a nagyközönség rendelkezésére álló távbeszélő végberendezés, amelynek használatára vonatkozóan a fizetőeszköz lehet pénzérme, hitelkártya, illetve előrefizetett kártya, beleértve a hívókódokkal használatos kártyákat.
 - 88/a. Önálló gazdasági egység: olyan önálló szervezeti egység egy elektronikus hírközlési szolgáltató társaság társasági adóról és osztalékadóról szóló törvény és a számvitelről szóló törvény szerinti olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez.
+- 88/b. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlési hálózat vezetékes összeköttetései és ezek burkoló, tartó, védő, jelző műtárgyai képeznek.
 - 89. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják. Az összekapcsolás a hozzáférés sajátos fajtája, amely nyilvános elektronikus hírközlő hálózatok tulajdon- vagy használati jogával rendelkező szolgáltatók között jön létre.
 - 90. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
 - 91. Rádióberendezés: olyan termék vagy egy termék olyan alkotórésze, amely földfelszíni rádiótávközlés vagy űrtávközlés céljára szolgáló rádióspektrum felhasználásával képes rádióhullámok adása, vétele vagy adása és vétele útján távközlésre.

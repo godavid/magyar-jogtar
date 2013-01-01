@@ -164,7 +164,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
 - a) megállapodásokat köthet, illetve
 - b) kollektív tárgyalásokat folytathat kollektív szerződés létrehozása érdekében,
 
-az Mt.-ben és az e törvényben meghatározott szabályok szerint.
+– a kollektív szerződés kötésére való jogosultságra vonatkozó rendelkezések kivételével – az Mt.-ben, valamint az e törvényben meghatározott szabályok szerint.
 
 (2) Egy ÁPB-ben egy nemzetgazdasági ágra, ágazatra, al- vagy szakágazatra vonatkozóan adott szinten csak egy kollektív szerződés köthető.
 
@@ -193,6 +193,8 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 - a) a munkáltatói érdekképviseletben tag munkáltatónál működő, kollektív szerződéskötésre jogosult szakszervezet, illetve szakszervezetek együttesen a kollektív szerződéshez való csatlakozással előzetesen egyetértenek, vagy
 - b) az a) pontban megjelölt szakszervezet hiányában a kollektív szerződéshez való csatlakozásról a munkavállalók szavaznak. A szavazás akkor érvényes, ha ezen a munkáltatónál foglalkoztatott munkavállalók több mint fele részt vesz. A csatlakozáshoz a résztvevők több mint felének igen szavazata szükséges.
 
+(3) Az (1) bekezdéstől eltérően, ha az azt megkötő munkáltatói érdekképviselet érdekképviseleti tevékenysége több ágazatra (alágazatra, szakágazatra) is kiterjed, a kollektív szerződés előírhatja, hogy a 17. § (1) bekezdésében meghatározott szabályok csak az abba az ágazatba – főtevékenységük szerint – tartozó munkáltatókra hatályosak, amely szerinti ÁPB-ben a kollektív szerződést megkötötték.
+
 16. § (1) Ha a kollektív szerződést az ÁPB-ben több ágazati szakszervezet kötötte, és azt bármelyik szakszervezet felmondja, a kollektív szerződés akkor veszti hatályát, ha e szakszervezet részvétele nélkül a kollektív szerződés nem lett volna megköthető. E rendelkezés alapján nem illeti meg a felmondás joga a kollektív szerződéshez később csatlakozott munkáltatói érdekképviselet tagmunkáltatójánál képviselettel rendelkező szakszervezetet. Felmondás esetén a kollektív szerződés hatálya hat hónapos felmondási idő leteltével szűnik meg.
 
 (2) Ha a kollektív szerződést az ÁPB-ben több munkáltatói érdekképviselet kötötte és azt bármelyikük – ideértve a kollektív szerződéshez később csatlakozott munkáltatói érdekképviseletet is – felmondja, a kollektív szerződés az Mt. 280. §-ának és 283. §-ának figyelembe vételével, csak az azt felmondó munkáltatói érdekképviselethez tartozó munkáltatókra nézve veszti hatályát.
@@ -203,7 +205,9 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (2) A kiterjesztés feltétele, hogy a kollektív szerződés aláíró munkáltatói érdekképviseletekben tag munkáltatók együttesen az ágazatban munkaviszonyban állók többségét foglalkoztassák, valamint – amennyiben a kollektív szerződést nem az ÁPB-ben kötötték – a kötő ágazati szakszervezetek között legyen legalább egy, a 12. § (2) bekezdés a) pontja szerint reprezentatívnak minősülő érdekképviselet.
 
-(3) A kollektív szerződés hatálya nem terjeszthető ki, ha a kollektív szerződés jogszabállyal ellentétes, illetve az ágazatban korábban kiterjesztett és tágabb személyi hatályú ágazati kollektív szerződésben foglaltaknál kedvezőtlenebb rendelkezést tartalmaz a munkavállalóra nézve, kivéve, ha a tágabb személyi hatályú kollektív szerződés az eltérést kifejezetten meg nem engedi. E rendelkezés alkalmazása szempontjából tágabb személyi hatályú kollektív szerződésnek minősül az ágazaton belüli, magasabb szintű ÁPB-ben kötött kollektív szerződés.
+(2a) Az (1) bekezdésben foglaltaktól eltérően, a 26. § 14. pontjában meghatározott ágazatra vonatkozó, ágazati párbeszéd bizottságban kötött kollektív szerződés hatálya kiterjeszthető a 26. § 14. pontjában említett ágazatba tartozó tevékenységet melléktevékenységként végző munkáltatónak az e tevékenysége keretében foglalkoztatott munkavállalóira, feltéve, hogy a munkáltató nem tartozik a főtevékenysége szerinti ágazatra kiterjesztett kollektív szerződés hatálya alá.
+
+(3) A kollektív szerződés hatálya nem terjeszthető ki, ha a kollektív szerződés jogszabállyal ellentétes, illetve az ágazatban korábban kiterjesztett és tágabb személyi hatályú ágazati kollektív szerződésben foglaltaknál kedvezőtlenebb rendelkezést tartalmaz a munkavállalóra nézve, kivéve, ha a tágabb személyi hatályú kollektív szerződés az eltérést kifejezetten megengedi.
 
 (4) A miniszter eljárására a közigazgatási hatósági eljárás és szolgáltatás eljárási szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni azzal, hogy az ügyben a Ket. 112. §-a szerinti újrafelvételi eljárásnak nincs helye.
 
@@ -213,6 +217,8 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 - b) a miniszter a kiterjesztést az arra vonatkozó szabályok megfelelő alkalmazásával visszavonja.
 
 (2) Ha a kollektív szerződések nyilvántartásához érkezett bejelentés alapján a miniszter tudomására jut a kiterjesztett hatályú kollektív szerződés megszűnése – ideértve azt az esetet is, ha a kollektív szerződés a 16. § (1), illetve (3) bekezdése alapján szűnik meg –, illetve ha a kiterjesztés 17. § (2) bekezdésében foglalt feltételei nem állnak fenn, a kiterjesztést határozatával visszavonja. A visszavonás hatálybalépésére – figyelemmel a (3) bekezdésben foglaltakra is – legkorábban az utolsó módosításra vonatkozó kiterjesztéstől számított egy év elteltével kerülhet sor.
+
+(2a) A 17. § (2a) bekezdése alapján történő kiterjesztés esetén a kollektív szerződés hatályát veszti arra a munkáltatóra nézve, amelyre melléktevékenysége keretében terjedt ki, ha a munkáltató főtevékenysége szerinti ágazatra kiterjesztett kollektív szerződés lép hatályba, ez utóbbi hatálybalépésének időpontjában.
 
 (3) A miniszter a kiterjesztéssel kapcsolatos, valamint a kiterjesztés visszavonásáról szóló határozatát, továbbá a kiterjesztett hatályú kollektív szerződés szövegét a Magyar Közlönyben közzéteszi. A határozat a közzététel napjától számított 30 nap elteltével lép hatályba.
 
@@ -269,7 +275,7 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (2) Az ÁRMB – a 13. § (1) bekezdésének b)–c) pontja szerinti megállapodás hiányában – megállapítja, hogy az érdekképviselet a 12. § (1) bekezdésében foglalt jogosultságok gyakorlásához kapcsolódóan hány ponttal rendelkezik.
 
-(3) Az ÁRMB kérelemre megállapítja, hogy az érdekképviselet
+(3) Az ÁRMB kérelemre, illetve – a b) pontban foglalt esetben – szakhatóságként eljárva megállapítja, hogy az érdekképviselet
 
 - a) megfelel-e az ágazati reprezentativitás feltételeinek, továbbá
 - b) a kollektív szerződés kiterjesztéséhez szükséges, a 17. § (2) bekezdésében meghatározott feltételnek.
@@ -287,7 +293,7 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 - c) az ÁRMB határozata a Ket. 115. §-a szerinti felügyeleti eljárás keretében nem változtatható meg és nem semmisíthető meg,
 - d) az ÁRMB határozata ellen fellebbezésnek nincs helye, a felek a (6) bekezdésben foglaltaknak megfelelően a határozat bírósági felülvizsgálatát kezdeményezhetik.
 
-(6) Az ÁRMB határozata ellen az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a Fővárosi Munkaügyi Bírósághoz fordulhat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
+(6) Az ÁRMB határozata ellen az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
 
 (7) Az ÁRMB jogerőre emelkedett határozatait a miniszter hivatalos lapjában közzé kell tenni.
 
@@ -438,6 +444,8 @@ jelzett tevékenységi terület; magasabbnak a kevesebb számjeggyel, illetve a 
   - b) egyéni vállalkozó esetén az általános forgalmi adóval csökkentett bevétel,
   - c) egyszerűsített vállalkozói adózást választó adóalany esetén a bevétel,
   - d) az egyszerűsített közteherviselési hozzájárulást választó adóalany esetén az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 3. §-a (2) bekezdésében meghatározott, az általános forgalmi adóval csökkentett bevétel.
+- 13. tágabb (általános) hatályú kollektív szerződés a szélesebb munkavállalói körre kiterjedő kollektív szerződés, így tágabb hatályúnak minősül az Mt. 276. § (5) bekezdésében említett kollektív szerződéseknél a munkáltatói érdekképviselet tagmunkáltatóinak munkavállalóira kiterjedő hatályú, ezeknél pedig a miniszter által ágazatra (szakágazatra, alágazatra, nemzetgazdasági ágra) kiterjesztett hatályú kollektív szerződés;
+- 14. a postai szolgáltatásokról szóló külön törvény szerinti egyetemes szolgáltatás, valamint az egyetemes postai szolgáltatást helyettesítő és azt nem helyettesítő postai szolgáltatás körébe tartozó tevékenységet végző, Mt. hatálya alá tartozó munkáltató tevékenysége az 53. Postai, futárpostai tevékenység ágazatba tartozó tevékenységnek minősül.
 
 ### Záró rendelkezések
 

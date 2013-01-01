@@ -126,6 +126,8 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 
 (2)
 
+7/A. § A háznagy képviselő e törvény alapján javadalmazásra nem jogosult.
+
 8. § A miniszterelnöki, miniszteri tisztséget betöltő, államtitkár, miniszterelnöki biztos vagy kormánymegbízott képviselő kizárólag az 1. § (2) bekezdésében meghatározott alapdíj 100%-ára jogosult. Az a kormánybiztos vagy miniszterelnöki megbízott képviselő, aki – nyilatkozata szerint – költségtérítésben (költség átalányban) részesül, ennek összegével csökkentett mértékű választókerületi pótlékra jogosult.
 
 9. § (1) Ha a képviselő megbízatása az Országgyűlés működésének befejezésével szűnik meg, a volt képviselő – újraválasztásának esetét kivéve – további hat hónapon keresztül az alapdíjának és pótdíjának a megbízatása megszűnését megelőző hat havi átlagának megfelelő összegű ellátásra jogosult. Az erre az időre folyósított díjazás időtartama is munkaviszonyban töltött időnek számít.
@@ -140,7 +142,7 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 
 10/A. § Az Országgyűlés elnöke pótdíjának az összege megegyezik a miniszter alapilletményének 2,5-szeresével.
 
-10/B. § (1) Az Országgyűlés elnöke – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+10/B. § (1) Az Országgyűlés elnöke – hivatalos és magánprogramokra is kiterjedően – belföldön és külföldi utazása során személyi védelemre jogosult.
 
 (2) Az Országgyűlés elnöke rezidencia használatára jogosult, amelyet köteles igénybe venni.
 

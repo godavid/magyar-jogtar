@@ -10,7 +10,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 - a) fejlesztés: olyan – alapvetően felhalmozási kiadásokban megtestesülő – tevékenység, amely új, vagy a korábbinál műszaki, technikai szempontból korszerűbb tárgyi eszközök létrehozására, vagy meglevő tárgyi eszközök műszaki, technikai paramétereinek javítására irányul,
 - b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 2. § (1) bekezdés l) pontja szerinti szervezet,
-- c) likvid hitel: a naptári éven belül visszafizetendő hitel, ideértve a pénzforgalmi számlához kapcsolódóan nyújtott hitelt is.
+- c) likvid hitel: a naptári éven belül lejáró futamidejű hitel.
 
 ### II. Fejezet — AZ ÁLLAMADÓSSÁG CSÖKKENTÉSE
 
@@ -47,7 +47,9 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
-(3a) Nem érinti az Alaptörvény 37. cikk (3) bekezdése szerinti kölcsön felvételére, pénzügyi kötelezettség vállalására irányuló szerződés érvényességét, ha a kölcsön felvételekor, a pénzügyi kötelezettség vállalásakor nem ismert okból a költségvetési év utolsó napján az államadósság-mutató meghaladja az (3) bekezdés szerinti tervezett értéket.
+(3a) A központi költségvetésről szóló törvény végrehajtása során az Alaptörvény 37. cikk (2)–(3) bekezdése szerinti kölcsön felvételekor, pénzügyi kötelezettség vállalásakor a költségvetési év várható bruttó hazai terméke és az államadóság költségvetési év utolsó napjára tervezett, az (1) bekezdés szerint meghatározott értékét kell számításba venni.
+
+(3b) Nem érinti az Alaptörvény 37. cikk (3) bekezdése szerinti kölcsön felvételére, pénzügyi kötelezettség vállalására irányuló szerződés érvényességét, ha a kölcsön felvételekor, a pénzügyi kötelezettség vállalásakor nem ismert okból a költségvetési év utolsó napján az államadósság-mutató meghaladja a viszonyítási év mutatójának értékét.
 
 (4) Az (1) bekezdés által érintett szervezetek kötelesek a törvényben foglaltak végrehajtásához szükséges adatokat az államháztartásért felelős miniszter rendelkezésére bocsátani.
 
@@ -89,7 +91,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4)
+(4) Az önkormányzat működési célra csak likvid hitelt vehet fel.
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
@@ -383,7 +385,11 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 35. § A fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmény, mentesség körét és mértékét, valamint az új fizetési kötelezettséget megállapító törvényt kizárólag ezzel azonos vagy hasonló életviszonyokat szabályozó törvényben lehet módosítani vagy hatályon kívül helyezni.
 
-#### 36. §
+36. § (1) A természetes személy munkaviszonyból, munkaviszonnyal egy tekintet alá eső jogviszonyból, munkavégzésre irányuló egyéb jogviszonyból származó jövedelme (a továbbiakban együtt: munkával megszerzett jövedelem) után, annak alapul vételével teljesítendő olyan fizetési kötelezettséget, amely a központi költségvetés – ide nem értve a társadalombiztosítás pénzügyi alapjait és az elkülönített állami pénzalapokat – bevételét képezi, a jövedelem összegétől függetlenül, a jövedelem azonos arányában egységesen kell megállapítani.
+
+(2) A munkával megszerzett jövedelem alapján a magánszemély, illetve a munkáltató, kifizető által teljesítendő fizetési kötelezettség terhének növelését, vagy a munkával megszerzett jövedelem alapján új fizetési kötelezettséget csak akkor lehet megállapítani, ha a munkával megszerzett jövedelem után a magánszemély, illetve ez alapján a munkáltató, kifizető által teljesítendő fizetési kötelezettség együttesen nem haladja meg a magánszemély munkával megszerzett jövedelmének az ez után a természetes személy által teljesítendő fizetési kötelezettségekkel csökkentett összegét.
+
+(3) Az olyan fizetési kötelezettség, ami természetes személy munkával megszerzett jövedelme után, annak alapul vételével a munkáltató, kifizető által teljesítendő, a természetes személyt társadalombiztosítási ellátásra sem közvetve, sem közvetlenül nem teszi jogosulttá, az ilyen fizetési kötelezettség mértékétől a természetes személy által igénybe vehető társadalombiztosítási ellátások mértéke nem tehető függővé.
 
 37. § (1) A 36. § (1) bekezdése szerinti fizetési kötelezettség megállapításakor a gyermekvállalás és -nevelés költségeit családi kedvezmény formájában kell figyelembe venni.
 
@@ -491,7 +497,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (5) A 2012. évben a 9. § (2) bekezdés a) pontját és a 10. § (8) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a hozzájárulás feltétele, hogy az adósságot keletkeztető ügylet a (4) bekezdésben foglalt feltétel teljesítését ne veszélyeztesse.
 
-(6) A 4. § (2) bekezdésének hatálybalépéséig a központi költségvetésről szóló törvényjavaslatban a költségvetési egyenleget a bruttó hazai termék arányában csak úgy lehet meghatározni, hogy az 2013-2015 években nem lehet kisebb, mint a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló 1997. július 7-i 1466/97/EK tanácsi rendelet 7. cikke alapján a Kormány által 2011 áprilisában közzétett konvergencia programban meghatározott költségvetési egyenleg.
+(6) A 4. § (2) bekezdésének hatálybalépéséig a központi költségvetésről szóló törvényt úgy kell megalkotni, hogy annak alapján az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-i 479/2009/EK tanácsi rendelet szerint számított hiány-mutató értéke nem lehet nagyobb, mint a bruttó hazai termék 3%-a.
 
 (7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
 
@@ -501,9 +507,9 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (3) Az (1) bekezdés rendelkezéseit a hatálybalépését követően megkötött és a hatálybalépésekor fennálló ügyletekre, a (2) bekezdés rendelkezéseit a hatálybalépésekor fennálló ügyletekre kell alkalmazni.
 
-#### 49. §
+49. § A Magyarország 2013. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
 
-#### 50. §
+50. § Az önkormányzat 2013. január 1. és március 31. között – a 10. § (2) bekezdés a), b) és c) pontja szerinti ügyletek, valamint a 10. § (10) bekezdése szerinti adósságmegújító hitel kivételével – nem köthet adósságot keletkeztető ügyletet.
 
 #### 51. §
 

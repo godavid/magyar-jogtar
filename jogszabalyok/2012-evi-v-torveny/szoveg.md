@@ -22,6 +22,7 @@ Az Országgyűlés a közszolgálati tisztviselőkről szóló törvény és má
 - a) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.), illetve a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvényt (a továbbiakban: Ktjv.) említ, azon a közszolgálati tisztviselőkről szóló törvényt,
 - b) vezetői kinevezést vagy megbízást említ, azon vezetői munkakört,
 - c) államigazgatási szerveknél foglalkoztatott munkavállalót említ, azon a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóknál foglalkoztatott munkavállalót
+- d) kormánytisztviselői jogviszonyt említ, azon kormányzati szolgálati jogviszonyt
 
 is megfelelően érteni kell.
 
@@ -124,13 +125,35 @@ terjed ki.
 
 19. § E törvény hatálybalépését megelőzően, a Ktv. 49/F. §-a alapján kiadott cafetéria-juttatásokra vonatkozó szabályzatok, utasítások a Kttv. hatálybalépését követően 2012. december 31-ig alkalmazhatóak.
 
+19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Kormánytisztviselői Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) 2013. július 1-jéig teljesítményértékelés, minősítés hiányában szakmai munka értékelést kell lefolytatni.
+
+(3) A kistérségi társulás székhely településének jegyzője a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 146. § (1) bekezdésében meghatározott felülvizsgálat lezárásáig jogosult az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvény hatálybalépését megelőzően hatályos Kttv. rendelkezése szerint a vezetői illetménypótlékára.
+
+19/B. § (1) Ha a kormánytisztviselő, kormányzati ügykezelő – ideértve azt a kormánytisztviselőt, kormányzati ügykezelőt is, akinek a jogviszonya fenntartásáról a munkáltató a Kttv. 60. § (1) bekezdés j) pontja alapján döntött – a rá irányadó öregségi nyugdíjkorhatárt 2013. június 29-éig betölti és rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel, kormányzati szolgálati jogviszonya a Kttv. 60. § (1) bekezdés j) pontja alapján 2013. június 30-án megszűnik.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem szűnik meg a kormánytisztviselő, kormányzati ügykezelő jogviszonya, ha a kormánytisztviselő, kormányzati ügykezelő 2013. március 31-éig benyújtott kérelmére a munkáltató a Kttv. 60. § (1) bekezdés j) pontja alapján a kormánytisztviselő, kormányzati ügykezelő jogviszonyának fenntartásáról – a Kttv. 60. § (8) és (9) bekezdésében meghatározottak szerint – 2013. június 29-éig dönt.
+
+(3) Ha a munkáltató 2013. június 29-éig nem hoz döntést a kormánytisztviselő, kormányzati ügykezelő jogviszonyának fenntartásáról, a kormánytisztviselő, kormányzati ügykezelő kormányzati szolgálati jogviszonya a jogviszony fenntartása iránti kérelem elutasítása esetén a döntés kézhezvétele hónapjának utolsó napján szűnik meg.
+
+(4) Ha a kormánytisztviselő, kormányzati ügykezelő a rá irányadó öregségi nyugdíjkorhatárt 2013. június 29-éig betölti, 2013. február 1-jéig a nyugdíjbiztosítási igazgatási szervnél hatósági bizonyítvány kiállítását kéri arról, hogy rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel. Ebben az esetben a nyugdíjbiztosítási igazgatási szerv egyeztetési eljárást nem folytat le. A hatósági bizonyítványt a nyugdíjbiztosítási igazgatási szerv 2013. február 28-áig állítja ki. A hatósági bizonyítványt a kormánytisztviselő, kormányzati ügykezelő 2013. március 31-éig nyújtja be a munkáltatónak.
+
+(5) Nem kell kérelmezni a (4) bekezdés szerinti hatósági bizonyítvány kiállítását, ha a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozata az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét igazolja. A kormánytisztviselő, kormányzati ügykezelő a szolgálati időről korábban kiállított határozat másolatát 2013. március 31-éig benyújtja a munkáltatónak.
+
+(6) A munkáltató a (4) és (5) bekezdés alapján tudomására jutott személyes adatot az (1) bekezdésben meghatározott feltételek ellenőrzése céljából, legfeljebb a Kttv. 184. § (4) bekezdésében meghatározott ideig kezelheti.
+
+19/C. § A Kttv.-nek az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel megállapított 218. § (10) bekezdését és 223. § (6) bekezdését az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvény hatályba lépését követően kinevezett helyettes államtitkárra és közigazgatási államtitkárra kell alkalmazni.
+
 #### 2. A közszolgálati tisztviselőkről szóló törvényhez kapcsolódó egyes törvények módosítása
 
 20–34. §
 
 35. § (1)–(3)
 
-(4)
+(4) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. §-a az alábbi (14) bekezdéssel egészül ki:
+
+„(14) Nemzeti vagyonba tartozó állami tulajdonú ingatlant használó központi költségvetési szerv – a (15) bekezdésben meghatározott eseteket kivéve – a rábízott állami tulajdonú ingatlant vagy ingatlanrészt nem hasznosíthatja, az ingatlanra vagy annak bármely részére vonatkozóan a használatot bármely címen átengedő szerződést nem köthet, továbbá a rábízott állami tulajdonú ingatlanon beruházást, felújítási tevékenységet nem végezhet, és nem végeztethet.”
 
 #### 2/A. A közszolgálati joganyagnak az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvénnyel hatályon kívül helyezett rendelkezéseivel összefüggő szabályozási átmenet
 

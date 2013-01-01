@@ -33,7 +33,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 #### 4. A tanúsítvánnyal kapcsolatos eljárás
 
-6. § (1) A tanúsítvány kiállítására vonatkozó kérelmet a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) által rendszeresített formanyomtatványon kell a kiállítónak benyújtania.
+6. § (1) A tanúsítvány kiállítására vonatkozó kérelmet a kulturális javakkal kapcsolatos hatósági feladatokat ellátó hatóság (a továbbiakban: hatóság) által rendszeresített formanyomtatványon kell a kiállítónak benyújtania.
 
 (2) A kérelemhez mellékelni kell:
 

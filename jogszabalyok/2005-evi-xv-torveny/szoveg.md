@@ -189,18 +189,7 @@ Vhr. 2/B. § (1) E rendelet 1. és 8. számú mellékletében felsorolt tevéken
 
 ### A Nemzeti Kiosztási Tervés a Nemzeti Kiosztási Lista
 
-Üht. 6. § (1) Az egyes kereskedési időszakok alatt kiosztható kibocsátási egységek mennyiségének és a kiosztás módszerének meghatározása céljából a kormány – kereskedési időszakonként – Nemzeti Kiosztási Tervet (a továbbiakban: Kiosztási Terv) állapít meg.
-
-(2) A Kiosztási Terv – e törvény 2. számú mellékletében foglalt alapelvekkel összhangban – különösen az alábbiakat tartalmazza:
-
-- a) a kereskedési időszak alatt létrehozott kibocsátási egységek teljes mennyiségét;
-- b) az egyes ágazatok részére kiosztható kibocsátási egységek teljes mennyiségét;
-- c) a térítés nélkül kiosztható kibocsátási egységek teljes mennyiségét;
-- d) a térítés nélkül kiosztásra nem kerülő kibocsátási egységek mennyiségét;
-- e) a Kiosztási Terv hatálya alá tartozó létesítmények előzetes listáját és üzemeltetőik részére kiosztani tervezett kibocsátási egységek mennyiségét;
-- f) a tartalékként elkülönített kibocsátási egységek mennyiségét, különös tekintettel az új belépők részére elkülönített kibocsátási egységekre;
-- g) a kiosztás alkalmazandó módszereit;
-- h) a külön jogszabály szerint megállapított és átadott kibocsátás-csökkentési egység, illetve igazolt kibocsátás-csökkentési egység beszámításával a kibocsátási egységek visszaadására irányuló kötelezettség teljesítésének lehetséges mértékét.
+Üht. 6. §
 
 ### A Nemzeti Kiosztási Terv
 
@@ -242,7 +231,7 @@ Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egészb
 
 (5) A Kormány a Kiosztási Tervet – a Bizottság által történt jóváhagyását követő harminc napon belül – rendeletben hirdeti ki.
 
-[Üht. 6. §] (3) A kormány a Kiosztási Terv alapján – az üzemeltetőkkel külön jogszabály szerint lefolytatott egyeztetés eredményeire figyelemmel – az egyes létesítmények üzemeltetői számára kiosztott kibocsátási egységek mennyiségének meghatározása céljából – kereskedési időszakonként – Nemzeti Kiosztási Listát (a továbbiakban: Kiosztási Lista) állapít meg.
+[Üht. 6. §] (3)
 
 ### A Nemzeti Kiosztási Lista
 
@@ -270,33 +259,15 @@ Vhr. 8. § (1) A Kiosztási Lista tervezetét a miniszter – a gazdaságpolitik
 
 (5) A Kiosztási Listát a Kormány a kereskedési időszak kezdetét megelőző második év december 31-ig rendeletben hirdeti ki. A miniszter egyidejűleg gondoskodik a 2216/2004/EK bizottsági rendelet XIV. mellékletének megfelelő kiosztási terv táblának a Bizottság részére történő megküldéséről.
 
-[Üht. 6. §] (4) Kiosztási Tervet és Kiosztási Listát a kormány első alkalommal a 2005. január 1-jétől 2007. december 31-ig terjedő időszakra állapít meg (első kereskedési időszak).
-
-(5) A kormány a 2008. január 1-jétől 2012. december 31-ig terjedő időszakra (második kereskedési időszak), valamint 2012-től kezdődően ötéves időszakokra állapít meg Kiosztási Tervet és Kiosztási Listát.
-
-(6) A Kiosztási Tervet és a Kiosztási Listát az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően a Kormány rendeletben hirdeti ki.
+[Üht. 6. §] (4)
 
 ### A ÜHG-egység keletkezése,érvényessége, megszűnése
 
-Üht. 7. § (1) Az ÜHG-egység a 15. § szerinti forgalmi jegyzékben való bejegyzéssel jön létre a Magyar Állam vagyonába tartozó forgalomképes vagyoni értékű jogként.
-
-(2) Az ÜHG-egységek feletti vagyonkezelői jogot az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
-
-(3) Az ÜHG-egység a kiosztás szerinti kereskedési időszakra érvényes. A kibocsátási egység a forgalmi jegyzékből való törléssel szűnik meg.
-
-(4) A második és az azt követő kereskedési időszakokat követően a 11. § szerinti kötelezettség teljesítése után fennmaradó kibocsátási egységek törlésével egyidejűleg a kibocsátási egységek jogosultjának 15. § (2) bekezdés szerinti számláján külön jogszabály szerint új kibocsátási egységek kerülnek nyilvántartásba vételre (jóváírás).
-
-(5) Az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-megállapodásban részes államok) által létrehozott ÜHG-egységet a környezetvédelmi hatóság a 11. §-ban foglalt kötelezettség teljesítéséhez érvényesnek ismeri el.
+Üht. 7. §
 
 ### A kibocsátási egységek kiosztása,értékesítése, hasznosítása
 
-Üht. 8. § (1) Az első kereskedési időszakban a létesítmények számára kiosztható kibocsátási egységek teljes mennyiségének legalább 95%-át, a második kereskedési időszakban a teljes mennyiség legalább 90%-át térítés nélkül kell kiosztani az üzemeltetők részére. A kiosztás átruházásnak minősül.
-
-(2) A fennmaradó kibocsátási egységek felhasználásáról a kormány külön jogszabály szerint rendelkezik.
-
-(3) A harmadik kereskedési időszakban felhasználható kibocsátási egységek értékesítéséből származó bevétel felét hazai, illetve harmadik országokban megvalósuló, üvegházhatású gázkibocsátás csökkentésével kapcsolatos intézkedésekre, valamint hazai és harmadik országokban bekövetkező éghajlatváltozás kezelésére kell felhasználni.
-
-(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+Üht. 8. §
 
 Üht. 9. § (1) A Kiosztási Tervben szereplő, kibocsátási engedéllyel rendelkező létesítmény üzemeltetője – a Kiosztási Lista alapján – kibocsátási egységekre jogosult e törvényben és végrehajtási rendeleteiben foglalt feltételek szerint.
 
@@ -372,27 +343,13 @@ Vhr. 11/B. § A hatóság határozatban kötelezi a szén-dioxid geológiai tár
 
 ### A légiközlekedési kibocsátási egységek kiosztása a légijármű üzemben tartóknak
 
-Üht. 10/A. § (1) A légijármű üzemben tartó minden egyes kereskedési időszakra a miniszternél kérelmezheti térítésmentesen kiosztható légiközlekedési kibocsátási egységek kiosztását.
+Üht. 10/A. §
 
-(2) A kérelmeket a miniszter a 2012. január 1. és 2012. december 31. közötti kereskedési időszakra vonatkozóan 2011. június 30-ig, majd azt követően a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal megküldi a Bizottságnak.
+Üht. 10/B. §
 
-(3) Az adminisztrációért felelős tagállam a Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül határozattal közzéteszi a kérelmet benyújtó minden egyes légijármű üzemben tartó részére az adott időszakra kiosztott légiközlekedési kibocsátási egységek teljes számát, és az egyes üzemben tartók számára az egyes évekre kiosztott légiközlekedési kibocsátási egységek számát.
+Üht. 10/C. §
 
-(4) A környezetvédelmi hatóság a tárgyév február 28-áig gondoskodik a légiközlekedési kibocsátási egységeknek a légijármű üzemben tartó számláján való jóváírásáról.
-
-Üht. 10/B. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének a Bizottság által meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a légijármű üzemben tartók részére. A teljes mennyiség Bizottság által meghatározott része és a közösségi külön tartalékalapból ki nem osztott légiközlekedési kibocsátási egységek árverésen kerülnek értékesítésre, a Bizottság által elfogadott részletes szabályok szerint. A kiosztás átruházásnak minősül.
-
-(2) A légiközlekedési kibocsátási egységeknek a Bizottság által meghatározott referenciaérték alapján kiszámított része a közösségi külön tartalékalapból kerül kiosztásra a légiközlekedési új belépők részére. A kiosztás ez esetben is átruházásnak minősül.
-
-Üht. 10/C. § (1) A légiközlekedési új belépő a 2013. január 1-től kezdődő kereskedési időszakra a miniszternél kérelmezheti térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását.
-
-(2) A kérelmeket a miniszter legkésőbb 2015. december 31-ig megküldi a Bizottságnak.
-
-(3) Az adminisztrációért felelős tagállam a Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül határozattal közzéteszi a kérelmet benyújtó minden egyes légiközlekedési új belépő részére a külön tartalékalapból kiosztott légiközlekedési kibocsátási egységek teljes mennyiségét, és az egyes légiközlekedési új belépők számára az évente kiosztott légiközlekedési kibocsátási egységek mennyiségét.
-
-(4) A 3. § k) pont kb) alpontjában meghatározott új belépő légijármű üzemben tartó részére legfeljebb 1 000 000 légiközlekedési kibocsátási egység osztható ki.
-
-Üht. 10/D. § A légiközlekedési kibocsátási egységek kiosztására vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+Üht. 10/D. §
 
 ### Az ÜHG-egységek visszaadása
 
@@ -424,11 +381,7 @@ Vhr. 11/B. § A hatóság határozatban kötelezi a szén-dioxid geológiai tár
 
 ### Közös teljesítés
 
-Üht. 13. § (1) Üzemeltetők megállapodhatnak, hogy egy adott kereskedési időszak tartama alatt a kibocsátási egységek visszaadására vonatkozó kötelezettségüket közösen teljesítik. Az üzemeltetők megállapodását a környezetvédelmi hatóság a miniszter útján jóváhagyás céljából továbbítja a Bizottsághoz.
-
-(2) A közös teljesítés a megállapodásban résztvevő üzemeltetőknek a kibocsátási engedély megszerzésére, valamint a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére irányuló kötelezettségét nem érinti.
-
-(3) A közös teljesítésre vonatkozó részletes szabályokat a kormány rendeletben állapítja meg.
+Üht. 13. §
 
 ### Közös teljesítés
 
@@ -505,11 +458,7 @@ kerültek kiadásra.
 
 ### A forgalmi jegyzék
 
-Üht. 15. § (1) A ÜHG-egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására a bizottsági rendeletben és külön jogszabályban meghatározottak szerint közhiteles és nyilvános forgalmi jegyzékben kerül sor, mely része az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 19. pontjában meghatározott Nemzeti Forgalmi Jegyzéknek.
-
-(2) A ÜHG-egység megszerzése, visszaadása, átruházása és törlése a forgalmi jegyzékben vezetett kibocsátásiegység-forgalmi számlán történő nyilvántartásba vétellel teljesül.
-
-(3) A Magyar Állam vagyonába tartozó ÜHG-egységek a forgalmi jegyzékben külön számlán kerülnek nyilvántartásba.
+Üht. 15. §
 
 ### A forgalmi jegyzék közhitelessége és nyilvánossága
 
@@ -549,15 +498,7 @@ Vhr. 18. § (1) Ha a számlatulajdonos díjfizetési kötelezettségének határ
 
 ### Az ÜHG-egyégek kereskedelmének nyilvánossága
 
-Üht. 16. § Az ÜHG-egységek kereskedelmével kapcsolatos adatok, így különösen a
-
-- a) kiadott kibocsátási engedélyekre,
-- b) hitelesített kibocsátási jelentések és a hitelesítő kapcsolódó jelentésére,
-- c) kiosztási határozatokra,
-- d) 17. § szerint alkalmazott jogkövetkezményekre, valamint
-- e) 18. § szerinti jelentésekre
-
-vonatkozó adatok környezeti információnak minősülnek.
+Üht. 16. §
 
 ### Jogkövetkezmények
 
@@ -612,7 +553,7 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott ü
 
 ### Nemzetközi jelentéstétel
 
-Üht. 18. § (1) A miniszter a Bizottság határozata és külön jogszabály szerint jelentést készít a Bizottság számára az ÜHG-egységkereskedelmi rendszer működéséről.
+Üht. 18. § (1)
 
 ### Nemzetközi jelentéstétel
 
@@ -622,21 +563,11 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egys
 
 (3) A (2) bekezdés szerinti jelentéstételhez a miniszter a 2/B. §-ban meghatározott, ellenőrzött adatok alapján a 2011/278/EU határozatban foglaltaknak megfelelően összeállítja a Nemzeti Végrehajtási Intézkedést, amit jóváhagyás céljából megküld az Európai Bizottságnak.
 
-[Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek Magyarország területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
+[Üht. 18. §] (2)
 
 ### Felügyeleti díj
 
-Üht. 19. § (1) Az üzemeltető a kibocsátási engedély jogerőre emelkedésétől, a légijármű üzemben tartó pedig a légiközlekedési kibocsátási egységeknek a számláján történő jóváírása napjától éves felügyeleti díjat köteles fizetni a tárgyévet követő év február 28-ig. A környezetvédelmi hatóság a felügyeleti díjat az ÜHG-egységek kereskedelmi rendszerének működtetésével kapcsolatos tevékenységének fedezetére fordítja.
-
-(2) E törvény végrehajtására kiadott jogszabály szerinti bezáró létesítmény üzemeltetője köteles a létesítmény bezárásának bejelentésével egyidejűleg a bezárás évére megállapított felügyeleti díj teljes összegét megfizetni.
-
-(3) Az üzemeltető által fizetendő felügyeleti díj mértékét az állami költségvetésről szóló törvény állapítja meg.
-
-(4) A felügyeleti díj mértéke az első légiközlekedési kereskedési időszak alatt a légijármű üzemben tartó részére kiosztott minden egyes légiközlekedési kibocsátási egység után évi 8 forint. A második és az azt követő légiközlekedési kereskedési időszak alatt fizetendő felügyeleti díj mértékét az állami költségvetésről szóló törvény állapítja meg.
-
-(5) Amennyiben az üzemeltető vagy a légijármű üzemben tartó a felügyeleti díjat határidőben nem fizeti meg, a környezetvédelmi hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító határozatot bocsát ki.
-
-(6) A felügyeleti díj fizetésére vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+Üht. 19. §
 
 ### Záró rendelkezések
 
@@ -750,38 +681,6 @@ i) az 1008/2008/EK rendelet értelmében előírt közszolgáltatási kötelezet
 j) légiközlekedési tevékenység, melynek során a kereskedelmi légiközlekedési üzemben tartó három egymást követő négy hónapban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összkibocsátása kevesebb, mint évi 10 000 tonna, ide értve a tagállamok uralkodói és közvetlen családjuk, állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítását.
 
 ### 2. számú melléklet a 2005. évi XV. törvényhez
-
-A Kiosztási Terv elkészítésének alapelvei
-
-1. Az adott kereskedési időszakra kiosztható kibocsátási egységek teljes mennyiségének összhangban kell lennie:
-
-a) Magyarországnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
-
-b) a nemzeti éghajlat-változási programmal.
-
-A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint amennyi az e mellékletben meghatározott követelmények szigorú alkalmazásához valószínűleg szükséges. E mennyiséget 2008 előtt össze kell hangolni a Kiotói Jegyzőkönyv szerinti célok elérése vagy túlteljesítése érdekében követendő kibocsátáscsökkentési ütemmel.
-
-2. A kiosztható kibocsátási egységek mennyiségének összhangban kell állnia az e törvény hatálya alá eső tevékenységek kibocsátáscsökkentési potenciáljával, beleértve a technológiai potenciált is. A kiosztás alapja meghatározható az egyes tevékenységek termékenkénti átlagos üvegházhatású gáz kibocsátása és az egyes tevékenységekben elérhető eredmények vonatkozásában is.
-
-3. A Kiosztási Tervnek összhangban kell állnia a vonatkozó európai közösségi jogi aktusokkal és szakpolitikai eszközökkel. Az új jogszabályi követelmények következtében felmerülő elkerülhetetlen kibocsátásnövekedést is figyelembe kell venni.
-
-4. Az EUMSZ, különösen annak 106. és 107. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
-
-5. A Kiosztási Tervnek tartalmaznia kell, hogy az új belépők miként kapcsolódhatnak be a kibocsátási egységkereskedelmi rendszerbe.
-
-6. A Kiosztási Terv kedvezményben részesítheti az e törvény hatálybalépése előtt megvalósított önkéntes kibocsátáscsökkentő beruházásokat (korai beruházások) és tájékoztatást kell tartalmaznia arról, hogy a korai beruházásokat hogyan veszi figyelembe. A Kiosztási Terv összeállítása során az elérhető legjobb technológiára vonatkozó referenciadokumentumokból származtatott technológiai referenciaértékek is alkalmazhatók, mely technológiai referenciaértékek előnyben részesíthetik a korai beruházásokat.
-
-7. A Kiosztási Tervnek tartalmaznia kell, hogy miként veszi figyelembe a tiszta technológiákat, beleértve az energiahatékony technológiákat is.
-
-8. A Kiosztási Tervnek tájékoztatást kell adnia a nyilvánosság bevonásának és az észrevételek figyelembevételének módjáról.
-
-9. A Kiosztási Tervnek tartalmaznia kell az e törvény hatálya alá tartozó, kibocsátási engedéllyel rendelkező létesítmények előzetes jegyzékét és az egyes létesítmények számára kiosztani tervezett kibocsátási egységek mennyiségét.
-
-10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az EGT-megállapodásban részes államokon kívüli országok vagy szervezetek okozta verseny hatásait.
-
-11. A Kiosztási Terv kitér a kiosztás gazdasági vonatkozásaira, különös tekintettel az agroökológiai potenciál megőrzésének és optimális hasznosításának érdekeire.
-
-12. A Kiosztási Terv kitér a kiosztás társadalmi vonatkozásaira, különösen tekintettel a munkaerő-piaci hatásokra.
 
 ### 1. melléklet a 213/2006. (X. 27.) Korm. rendelethez
 

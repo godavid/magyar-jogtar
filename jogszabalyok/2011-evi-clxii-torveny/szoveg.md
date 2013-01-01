@@ -470,7 +470,7 @@ elnökének véleményét.
 (3) A részmunkaidő kikötése
 
 - a) a fizetés nélküli szabadság megszűnését követő naptól,
-- b) ha a bírónak a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 134. § (3) bekezdés b) pontja alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
+- b) ha a bírónak a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 123. § (3) bekezdése alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
 
 hatályos.
 
@@ -527,7 +527,13 @@ történő rendelkezésre állás.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
 
-(4) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg.
+(4) A szabadság kiadásának az időpontját – a bíró előzetes meghallgatása után – a munkáltatói jogkör gyakorlója határozza meg. A szabadságok kiadására a bíróságokon szabadságolási tervet kell készíteni.
+
+(5) A rendes szabadság egynegyedét – a bírói szolgálati viszony első 3 hónapját kivéve – a bíró kérésének megfelelő időpontban kell kiadni. A bírónak az erre vonatkozó igényét a szabadság kezdete előtt legalább 15 nappal be kell jelentenie, kivételes méltányolást érdemlő körülmény esetén ettől el lehet tekinteni.
+
+(6) Ha a bíró a szolgálati viszonya megszűnéséig több napot volt szabadságon, mint amennyi a bíróságnál töltött időre megilletné, a különbözet idejére kifizetett illetményt, illetve e törvény alapján időarányosan járó juttatások megfelelő részét köteles visszafizetni. A túlfizetés nem követelhető vissza, ha a szolgálati viszony a bíró halála, nyugdíjazása alapján szűnt meg.
+
+(7) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg.
 
 56. § A Bíróságok Napja július 15-e, amely a bíróságokon – az igazságügyi alkalmazottakra is kiterjedően – munkaszüneti nap.
 
@@ -1276,7 +1282,7 @@ jogosult.
 (2) A beosztási pótlék összege a bírói illetményalap összegének
 
 - a) a járásbírósági bírónál 10,
-- b)
+- b) a közigazgatási és munkaügyi bírósági bírónál 15,
 - c) a törvényszéki bírónál 20,
 - d) az ítélőtábla bírájánál 40,
 - e) a Kúria bírájánál 60 százaléka.
@@ -1311,7 +1317,15 @@ jogosult.
 
 (2) A vezetői pótlékra való jogosultság szempontjából kiemelt járásbíróságnak minősül az a járásbíróság, ahol a bírák engedélyezett létszáma az 50 főt meghaladja, nagyobb járásbíróságnak minősül a törvényszék székhelyén működő járásbíróság, továbbá az a bíróság, ahol a bírák engedélyezett létszáma a 8 főt meghaladja.
 
-#### 178. §
+178. § (1) A vezetői pótlék összegének a megállapítása szempontjából annak a közigazgatási és munkaügyi bíróságnak az elnöke és elnökhelyettese, ahol
+
+- a) a bírák engedélyezett létszáma az 50 főt meghaladja a törvényszék elnökével és elnökhelyettesével,
+- b) a bírák engedélyezett létszáma a 8 főt meghaladja a nagyobb járásbíróság elnökével és elnökhelyettesével,
+- c) ahol a bírák engedélyezett létszáma a 8 főt nem haladja meg, a kisebb járásbíróság elnökével és elnökhelyettesével azonos beosztásúnak minősül.
+
+(2) Ha a közigazgatási és munkaügyi bíróságon a bírák engedélyezett létszáma az 50 főt meghaladja, akkor a közigazgatási és munkaügyi bíróság csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül. Ha a közigazgatási és munkaügyi bíróságon a bírák engedélyezett létszáma a 8 főt meghaladja, akkor csoportok felállítása esetén a csoportvezető és a csoportvezető-helyettes a nagyobb járásbíróság csoportvezetőjével, illetve a nagyobb járásbíróság csoportvezető-helyettesével azonos beosztásúnak minősül.
+
+(3) A vezetői pótlék összegének a megállapítása szempontjából a közigazgatási és munkaügyi regionális kollégiumvezető a törvényszék kollégiumvezetőjével, a közigazgatási és munkaügyi regionális kollégiumvezető helyettese a törvényszék kollégiumvezető-helyettesével azonos beosztásúnak minősül.
 
 #### 67. Az idegennyelv-ismereti pótlék
 
@@ -1702,16 +1716,17 @@ jogosult.
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 134. § (1)–(3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. § (2) bekezdését, 132. § (2) bekezdését, 133. §-át, 134. § (1)–(3) bekezdését, (4) bekezdésének első mondatát, továbbá (5)–(11) bekezdését, 135–140/A. §-át, 151/A. § (1) és (2), valamint (5) és (6) bekezdését, megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 148. §-át, 149. § (1) bekezdését, 152. §-át, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
 - a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-- b) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-- c) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
-- d) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
+- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik,
+- c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- d) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
+- e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
-223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
+223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
 224. § A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 
@@ -1763,13 +1778,16 @@ rendelettel állapítsa meg.
 
 232. § Az OBT e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.
 
+232/A. § A 174. § (2) bekezdés alkalmazásában ítélőtáblai, illetve törvényszéki szolgálati időnek számít 2013. január 1. napját követően annak a volt ítélőtáblai, illetve törvényszéki bírónak a szolgálati ideje, akinek a törvényszékre, illetve a közigazgatási és munkaügyi bíróságra történő áthelyezésére a közigazgatási és munkaügyi bíróságok felállításakor, a bíróságok szervezetéről és igazgatásáról szóló törvény rendelkezéseire tekintettel került sor.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
 - b) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek,
 - c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, 1999. június 28-i 1999/70/EK tanácsi irányelvnek,
 - d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
-- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek
+- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek,
+- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

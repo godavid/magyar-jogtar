@@ -30,7 +30,7 @@ a közjegyzőkről
 
 5. § (1) A közjegyző a közreműködését e törvényben említetteken kívül más okból nem tagadhatja meg. A közjegyző közreműködését végzéssel tagadja meg, a végzést írásban kell közölni azzal a féllel, aki a közjegyzőt a közreműködésre felkérte.
 
-(2) A közreműködést kérő fél a végzés felülvizsgálatát kérheti a közjegyző székhelye szerinti törvényszéktől. A bíróság a végzést a közigazgatási nemperes eljárás szabályai szerint vizsgálja felül azzal, hogy végzésében a kérelmet elutasítja, vagy a végzést hatályon kívül helyezi és a közjegyzőt az eljárás lefolytatására utasítja. A bíróság határozata ellen felülvizsgálatnak nincs helye.
+(2) A közjegyző végzése a jogorvoslat szempontjából a járásbíróság végzésével azonos hatályú. A közreműködést kérő fél a végzés ellen fellebbezéssel élhet; a fellebbezést a végzést hozó közjegyzőnél kell előterjeszteni és a törvényszékhez kell címezni. A bíróság határozata ellen felülvizsgálatnak nincs helye.
 
 6. § A közjegyzőt a tevékenységéért jogszabályban meghatározott díj és költségtérítés illeti meg.
 
@@ -96,7 +96,7 @@ a közjegyzőkről
 
 ### A közjegyző illetékességi területe
 
-12. § (1) A közjegyző illetékességi területe általában annak a helyi bíróságnak az illetékességi területével egyezik meg, amely a közjegyző székhelyén működik.
+12. § (1) A közjegyző illetékességi területe általában annak a járásbíróságnak az illetékességi területével egyezik meg, amely a közjegyző székhelyén működik.
 
 (2) A Budapesten működő közjegyzők illetékessége a főváros egész területére kiterjed.
 
@@ -1108,7 +1108,7 @@ illetékességi területén.
 
 (3) A közjegyző névcsere, hibás névírás, szám- vagy számítási hiba vagy más hasonló elírás esetén az okiratban szereplő ügyfelek közös kérelmére vagy hivatalból a közjegyzői okirat kijavítását végzéssel bármikor elrendelheti.
 
-(4) A közjegyzői okirat kijavítását elrendelő végzést a kijavított okiratra és lehetőleg annak kiadmányaira is fel kell jegyezni. Ha a kiadmányokat már kibocsátották, a közjegyző új, a kijavított szöveget tartalmazó kiadmányokat bocsáthat ki. A kijavítás tárgyában hozott végzés felülvizsgálatát csak akkor lehet kérni a közjegyző székhelye szerinti törvényszéktől, ha a közjegyző a kijavítás iránti kérelmet elutasította, vagy az hivatalból történt. A bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
+(4) A közjegyzői okirat kijavítását elrendelő végzést a kijavított okiratra és lehetőleg annak kiadmányaira is fel kell jegyezni. Ha a kiadmányokat már kibocsátották, a közjegyző új, a kijavított szöveget tartalmazó kiadmányokat bocsáthat ki. A kijavítás tárgyában hozott végzés ellen fellebbezésnek csak akkor van helye, ha a közjegyző a kijavítás iránti kérelmet elutasította, vagy az hivatalból történt. A fellebbezésre és a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
 
 117. § (1) A közjegyzői okiratot ügyszámmal, oldalait folyamatos sorszámmal kell ellátni.
 
@@ -1394,7 +1394,7 @@ kommunikálhat.
 
 (2) A kivonatot a közjegyző záradékkal hitelesíti; ez azt tartalmazza, hogy a kivonat az okirat meghatározott része, és a kivonat alapján nincs helye bírósági végrehajtásnak.
 
-157. § A magyar külképviseleti hatóság okirat elkészítésénél és tanúsítvány kiállításánál e törvény szerint jár el. A közreműködés megtagadása, továbbá a kijavítás tárgyában hozott végzés felülvizsgálatát törvényszéktől kell kérni; a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
+157. § A magyar külképviseleti hatóság okirat elkészítésénél és tanúsítvány kiállításánál e törvény szerint jár el. A közreműködés megtagadása, továbbá a kijavítás tárgyában hozott végzés elleni fellebbezésre és a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak azzal, hogy a másodfokú eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
 
 ### XI. Fejezet — OKIRAT, PÉNZ ÉS ÉRTÉK MEGŐRZÉSE
 
@@ -1506,7 +1506,7 @@ kommunikálhat.
 
 ### XIII. Fejezet — KÖZJEGYZŐI NEMPERES ÉS EGYÉB ELJÁRÁSOK
 
-172. § (1) A közjegyzőnek a nemperes eljárás során hozott határozata a jogorvoslat szempontjából a helyi bíróság végzésével azonos hatályú.
+172. § (1) A közjegyzőnek a nemperes eljárás során hozott határozata a jogorvoslat szempontjából a járásbíróság végzésével azonos hatályú.
 
 (2) A közjegyző határozata elleni fellebbezést a határozatot hozó közjegyzőnél kell előterjeszteni.
 

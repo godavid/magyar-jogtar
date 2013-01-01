@@ -88,6 +88,16 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (3) A köztársasági elnököt megillető juttatások igénybevételével kapcsolatban felmerült költségeket – törvény eltérő rendelkezése hiányában – a központi költségvetés Köztársasági Elnökség fejezete fedezi.
 
+14/A. § (1) A köztársasági elnök közcélú felajánlások, adományozások céljából – a központi költségvetésről szóló törvényben a Köztársasági Elnökség fejezeten belül, külön soron tervezett – előirányzat feletti rendelkezésre jogosult.
+
+(2) Az (1) bekezdés szerinti előirányzatból pályázat útján vagy pályáztatás nélkül, egyedi döntés alapján nyújtható közcélú felajánlás, adomány.
+
+(3) Nem részesíthető az (1) bekezdés szerinti előirányzatból közcélú felajánlásban, adományban párt, pártnak anyagi támogatást nyújtó szervezet, valamint a közvetlen politikai tevékenységet folytató szervezet.
+
+(4) Az (1) bekezdés szerinti előirányzat a köztársasági elnök előzetes írásos kötelezettségvállalása alapján, a kedvezményezettel kötött külön szerződés nélkül is felhasználható.
+
+(5) A Hivatal a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
+
 #### 6. A Köztársasági Elnöki Hivatal
 
 15. § (1) A köztársasági elnököt feladatainak ellátásában a Hivatal segíti.
@@ -112,15 +122,30 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (4) A volt köztársasági elnök halála esetén a volt köztársasági elnökre tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából az (1) bekezdés szerinti pénzbeli juttatást kell a volt köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
-19. § (1) A volt köztársasági elnököt – kérelmére – megfelelő lakáshasználati jog illeti meg. E jogosultság a köztársasági elnök, illetve a volt köztársasági elnök halála esetén az özvegyét is megilleti. A lakást és annak fenntartását a Hivatal biztosítja.
+(5) Az (1) bekezdés szerinti juttatás folyósításával kapcsolatos feladatokat a Kormány által kijelölt nyugdíjbiztosítási igazgatási szerv az Országgyűlés Hivatala közreműködésével látja el.
 
-(2) Ha a volt köztársasági elnököt más közjogi tisztséggel összefüggésben lakáshasználati jog illeti meg, azt csak egy lakásra vonatkozóan – saját választása szerint – érvényesítheti.
+19. § (1) A volt köztársasági elnököt a 20. §-ban meghatározott feltételekkel
 
-20. § (1) A volt köztársasági elnököt személyes gépkocsihasználat illeti meg, amelyhez személygépkocsit és gépjárművezetőt a rendőrség biztosít.
+- a) – kérelmére – megfelelő lakás használatának joga,
+- b) legfeljebb kétfős titkárság alkalmazása,
+- c) térítésmentes egészségügyi ellátás és
+- d) személyes gépkocsi-használat
 
-(2) A volt köztársasági elnököt kétfős titkárság alkalmazása illeti meg, amelyhez a Kormány helyiséget biztosít. A titkárság alkalmazásának személyi és dologi feltételeit a Hivatal biztosítja.
+illeti meg.
 
-(3) A volt köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Hivatal megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.
+(2) Az (1) bekezdésben foglalt juttatások a köztársasági elnök, illetve a volt köztársasági elnök halála esetén a 20. §-ban meghatározott feltételekkel azonos módon az özvegyét is – kérelmére – megilletik.
+
+(3) A volt köztársasági elnöknek az (1) bekezdésben és a 18. § (1) bekezdésében foglalt juttatásainak, valamint a köztársasági elnök és a volt köztársasági elnök özvegyének a (2) bekezdésben foglalt juttatásainak költségeit – a személyes gépkocsi-használat kivételével – az Országgyűlés Hivatala költségvetése terhére kell biztosítani a 20. §-ban foglaltak figyelembevételével.
+
+20. § (1) Ha a volt köztársasági elnököt más közjogi tisztséggel összefüggésben lakás használatának joga illeti meg, e jogot – választása szerint – csak egy lakásra vonatkozóan gyakorolhatja.
+
+(2) A 19. § (1) bekezdés a) pontja szerinti lakást, annak fenntartását, valamint a lakás üzemeltetési feladatainak ellátásához egy fő alkalmazásának a feltételeit az Országgyűlés Hivatala biztosítja. A volt köztársasági elnök a 19. § (1) bekezdés a) pontjában foglalt jogát – kérelmére – úgy is gyakorolhatja, hogy az általa használt lakás fenntartását és üzemeltetési feladatainak ellátásához egy fő alkalmazásának a feltételeit az Országgyűlés Hivatala biztosítja.
+
+(3) A 19. § (1) bekezdés b) pontja szerinti titkárság elhelyezéséhez megfelelő helyiséget kell biztosítani. A titkárság elhelyezésére szolgáló helyiség biztosításának költségeit, valamint a titkárság egyéb dologi és személyi feltételeit az Országgyűlés Hivatala biztosítja.
+
+(4) A 19. § (1) bekezdés c) pontja szerinti ellátás biztosítása céljából az Országgyűlés Hivatala egészségügyi intézménnyel megállapodást köt.
+
+(5) A 19. § (1) bekezdés d) pontja szerinti ellátás körében a gépjárművet és a biztonsági gépjárművezetőt a rendőrség biztosítja.
 
 21. § (1) A volt köztársasági elnök a közéletben történő részvétele, így közcélú felajánlások, adományozások céljából – a központi költségvetésről szóló törvényben az Országgyűlés fejezeten belül, külön soron tervezett – előirányzat feletti rendelkezésre jogosult.
 
@@ -132,7 +157,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (5) Az Országgyűlés Hivatala a honlapján a köztársasági elnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-22. § (1) A volt köztársasági elnökre a 14. §-ban foglaltakat alkalmazni kell.
+22. § (1) A volt köztársasági elnökre a 14. § (1) és (2) bekezdésében foglaltakat alkalmazni kell.
 
 (2) A volt köztársasági elnököt nem illetik meg az ebben az alcímben meghatározott jogosultságok és juttatások, ha megbízatása az Alaptörvény 12. cikk (3) bekezdés e) vagy g) pontja alapján szűnt meg.
 
@@ -142,7 +167,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 23. § Ez a törvény 2012. január 1-jén lép hatályba.
 
-24. § (1) E törvény 1., 2., 4. és 5. alcíme, valamint 28. §-a az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
+24. § (1) E törvény 1., 2., 4., 5. és 7. alcíme az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 26. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
@@ -150,7 +175,13 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 25. § (1) E törvény rendelkezéseit a hivatalban lévő köztársasági elnökre és az e törvény hatálybalépését megelőzően hivatalt betöltött volt köztársasági elnökre is alkalmazni kell.
 
-(2)
+(2) Az egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejlesztéssel összefüggő módosításáról szóló 2012. évi CCVII. törvénnyel megállapított 19. § (1) bekezdés a) és b) pontjában foglalt juttatás biztosítása céljából 2013. január 1-jén a volt köztársasági elnök, illetve özvegye által használt, állami tulajdonú lakások, valamint a volt köztársasági elnök és özvegye elhelyezését szolgáló, állami tulajdonú tárgyi eszközök vagyonkezelői joga ingyenesen az Országgyűlés Hivatalára száll át.
+
+(2a) Az e törvény az egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejlesztéssel összefüggő módosításáról szóló 2012. évi CCVII. törvénnyel megállapított rendelkezései alapján az Országgyűlés Hivatala által átvett feladatokat ellátó foglalkoztatottak 2013. január 1-jén munkáltatói jogutódlással az Országgyűlés Hivatala állományába kerülnek.
+
+(2b) Az e törvény az egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejlesztéssel összefüggő módosításáról szóló 2012. évi CCVII. törvénnyel megállapított rendelkezései alapján az Országgyűlés Hivatala által átvett feladatokhoz kapcsolódó jogviszonyokban a Köztársasági Elnöki Hivatal jogutódja 2013. január 1-jétől az Országgyűlés Hivatala.
+
+(2c) A 2012 decemberére járó, a 18. § (1) bekezdése szerinti juttatást a 2012. december 31-én hatályos szabályok szerint kell folyósítani.
 
 (3) E törvény 29. §-a nem érinti a hatálybalépését megelőzően hivatalt betöltött volt miniszterelnöknek a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdése szerinti juttatásra való jogosultságát, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 

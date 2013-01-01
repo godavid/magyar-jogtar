@@ -83,22 +83,24 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - e) a parkolási igazolvány nyilvántartásból;
 - f) az előzetes eredetiségvizsgálati nyilvántartásból.
 
-8. § Az engedély-nyilvántartás tartalmazza:
+8. § (1) Az engedély-nyilvántartás tartalmazza
 
-a járművezető
+- a) a járművezető,
+  - aa) természetes személyazonosító adatát,
+  - ab) lakcímét,
+  - ac) arcfényképét (arcképmását),
+  - ad) saját kezű aláírását,
+  - ae) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
+  - af) elhalálozásának idejét,
+  - ag) állampolgárságát,
+  - ah) közúti közlekedési előéleti pontrendszer adatait, továbbá
+- b) az engedély
+  - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
+  - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
+  - bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
+  - bd) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
 
-- a) természetes személyazonosító adatát,
-- b) lakcímét,
-- c) arcfényképét (arcképmását),
-- d) saját kezű aláírását,
-- e) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
-- f) elhalálozásának idejét,
-- g) állampolgárságát,
-- h) közúti közlekedési előéleti pontrendszer adatait; továbbá az engedély
-- i) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vonatkozó adatokat,
-- j) elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a figyelmeztető jelzés elhelyezésére vonatkozó adatokat,
-- k) hivatalos feljegyzések rovatába bejegyzett adatokat,
-- l) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
+(2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
 8/A. § A parkolási igazolvány nyilvántartás tartalmazza:
 
@@ -118,7 +120,7 @@ a járművezető
 
 - a) természetes személyazonosító adatát,
 - b) lakcímét, egyéni vállalkozó esetében kérelmére székhelyét, telephelyét,
-- c)
+- c) adóazonosító számát,
 - d) külföldi esetén állampolgárságát; továbbá a jogi személy vagy jogi személyiséggel nem rendelkező szervezet
 - e) megnevezését,
 - f) székhelyének (telephelyének) címét,
@@ -132,8 +134,9 @@ a járművezető
 - b) forgalomban tarthatóságának feltételeit,
 - c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
-- e) vonatkozásában a járműokmányoknak és a jármű hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a forgalmi engedély okmány, illetve a jármű hatósági jelzése tekintetében a figyelmeztető jelzés elhelyezésére vonatkozó adatokat,
-- f) kilométerszámláló műszere által jelzett értéket (km-óra állást) és a km-óra állás rögzítésének időpontját.
+- e) járműokmányainak és hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére, vonatkozó adatokat,
+- f) az állandó forgalmi engedély okmány, illetve az állandó rendszámtábla tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatait, valamint
+- g) kilométerszámláló műszere által jelzett értéket (kilométeróra-állást) és a kilométeróra-állás rögzítésének időpontját.
 
 (3) A járműnyilvántartás tartalmazza a külön jogszabályban meghatározottak szerint a régi tulajdonos (átruházó) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettség-teljesítésének időpontját.
 
@@ -201,23 +204,23 @@ bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatároz
 
 14. § (1) A nyilvántartót az eljáró hatóság értesíti:
 
-- a) a természetes személy (a továbbiakban: polgár) bejelentése alapján a 8. § a)–e) és g) pontjaiban megjelölt adatokról, valamint a 8. § a), b), g) pontjaiban megjelölt adatok megváltozásáról;
-- b) a 8. § i)–l) pontjaiban megjelölt adatokról, azok változásáról, és az annak alapjául szolgáló okmányokban foglalt adatokról;
-- c) a vizsgálatot végző szerv tájékoztatása alapján a 8. § e) pontjában megjelölt adatokról, azok változásáról;
+- a) a természetes személy (a továbbiakban: polgár) bejelentése alapján a 8. § (1) bekezdés a) alpont aa)–ae) és ag) alpontjában megjelölt adatokról, valamint a 8. § (1) bekezdés a) pont aa), ab), ag) alpontjában megjelölt adatok megváltozásáról;
+- b) a 8. § (1) bekezdés b) pontjában megjelölt adatokról, azok változásáról és az annak alapjául szolgáló okmányokban foglalt adatokról;
+- c) a vizsgálatot végző szerv tájékoztatása alapján a 8. § (1) bekezdés a) alpont ae) pontjában megjelölt adatokról, azok változásáról;
 - d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésében és a 9. § (2) bekezdés e) és f) pontjában megjelölt, illetve a külön jogszabályban meghatározott egyéb adatokról és – ha külön jogszabály eltérően nem rendelkezik – azok változásáról.
 
 (2) A nyilvántartót értesíti:
 
 - a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a jogerős határozatáról, a járműokmány adatairól, illetve az adatváltozásról;
 - b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
-- c) a külön jogszabályban meghatározott hatóság a 8. § h) pontjában megjelölt adatokról;
-- d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról.
-- e) a közlekedési hatóság a járművezetőnek a 8. § a)–d), az e) pontban meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá a k) és l) pontjaiban, valamint a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a járműhonosítási eljárásban megállapított, a 9. § (2) bekezdésének a), b), d) és f) pontjaiban meghatározott adatairól;
+- c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés h) pontjában megjelölt adatokról;
+- d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról;
+- e) a közlekedési hatóság a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ad) és ae) pontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá k) és l) pontjában, valamint a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a járműhonosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól;
 - f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
-- a) a vizsgálatot végző szerv a 8. § e) pontjában megjelölt adatokról és azok változásáróls;
+- a) a vizsgálatot végző szerv a 8. § (1) bekezdés a) pont ae) pontjában megjelölt adatokról és azok változásáról;
 - b) a rendőrhatóság a közúti közlekedés körében elkövetett, külön jogszabályban meghatározott bűncselekmény, illetve szabálysértés miatt a járművezető ellen indult eljárásról;
 - c) a parkolási igazolvány használatának ellenőrzésére jogosult szerv az igazolvány birtokban tartását érintő intézkedésről.
 
@@ -226,18 +229,18 @@ bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatároz
 15. § (1) A nyilvántartó kezeli:
 
 - a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától, illetve a járművezető elhalálozásától számított tíz évig;
-- b) a 9. §-ban megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig;
+- b) a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig; a 9. § (2) bekezdés f) pontja szerinti adatokat a törvényben meghatározott időtartamig;
 - c) a 9/A. § (1) bekezdésében megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
 - d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosultság megszűnésétől számított öt évig;
 - e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig.
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 
-(3) A nyilvántartó a 8. § h) pontjában megjelölt adatokat törvényben előírt ideig kezeli.
+(3) A nyilvántartó a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig, a 8. § (2) bekezdése szerinti adatokat a jogszabályban meghatározott időtartamig kezeli.
 
 (4) A nyilvántartó a 8/A. § adatait a parkolási igazolványra való jogosultság megszűnésétől számított öt évig kezeli.
 
-15/A. § (1) A közlekedési igazgatási hatóság az 5. § (1) bekezdésének h) és j) pontjában meghatározott feladata ellátása céljából kezeli a 8. §-ban és a 8/A. §-ban meghatározott adatokat, a jármű azonosító adatát, a járműtulajdonos (üzembentartó) 9. § (1) bekezdésének a), b), e) és f) pontjaiban meghatározott, továbbá a járművezető közlekedésbiztonsági alkalmatlanságára vonatkozó adatokat.
+15/A. § (1) A közlekedési igazgatási hatóság az 5. § (1) bekezdés h) és j) pontjában meghatározott feladata ellátása céljából kezeli a 8. § (1) bekezdésében és a 8/A. §-ban meghatározott adatokat, a jármű azonosító adatát, a járműtulajdonos (üzemben tartó) 9. § (1) bekezdés a), b), e) és f) pontjában meghatározott, továbbá a járművezető közlekedésbiztonsági alkalmatlanságára vonatkozó adatait.
 
 (2) A közlekedési igazgatási hatóság az (1) bekezdésben meghatározott adatokat az 5. § (1) bekezdésének h) és j) pontja alapján hozott jogerős hatósági határozat nyilvántartásba történő bejegyzésétől számított egy évig kezelheti.
 
@@ -269,18 +272,18 @@ igényelhető.
 - a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat;
 - b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
-- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozóhatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1a) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1a) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
-  - ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
-  - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdésének a), b), d) és e) pontjaiban, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
-- f) az adóhatóság az adóigazgatási eljáráshoz a 8. § a), b), i) és k) pontjaiban, a 9. § (1)–(1a) bekezdésében, a (2) bekezdés a)–c) pontjaiban és a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
-- g) a vámhatóság a vámigazgatási eljáráshoz a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat;
-- h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e), f) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjaiban, valamint a 9. § (4) bekezdésében megjelölt adatokat;
+  - ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat,
+  - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában megjelölt adatokat;
+- f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1a) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában meghatározott adatokat;
+- g) a vámhatóság a vámigazgatási eljáráshoz a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában, továbbá a 9/A. § (1) bekezdésében meghatározott adatokat;
+- h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b), e), f) pontjában, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében meghatározott adatokat;
 - i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 - j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
 - k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 - l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b), e) és f) pontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
-- m)
+- m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 - n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a helyi önkormányzatokról szóló 1990. évi LXV. törvény 9. § (5) bekezdésben meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjaiban, továbbá a (3) bekezdésében megjelölt adatokat.
 - o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
 - p) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1)–(1a) bekezdésében, (2) bekezdés a)–b), d)–e) pontjában, (3) bekezdésében foglalt adatokat;
@@ -290,10 +293,10 @@ igényelhető.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
-- a) a 8. § c), d) pontjaiban megjelölt adatok kivételével
+- a) a 8. § (1) bekezdés a) pont ac)–ad) alpontjában meghatározott adatok kivételével
   - aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
-  - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok jogszabályban meghatározott feladataik ellátásához;
-- b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés d), g) pontjaiban megjelölt adatok kivételével.
+  - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
+- b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés d), g) pontjában meghatározott adatok kivételével.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
@@ -301,7 +304,7 @@ igényelhető.
 
 21. § A nyilvántartásból adatot igényelhet magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kérelmező):
 
-- a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § c)–e), h), a 8/A. § b)–c), e), j) és a 9. § (1) bekezdés c) pontjában megjelölt adatok kivételével;
+- a) jogának vagy jogos érdekének érvényesítése érdekében a 8. § (1) bekezdés a) pont ac)–ae) és ah) alpontjában, a 8/A. § b)–c), e), i) pontjában és a 9. § (1) bekezdés c) pontjában meghatározott adatok kivételével;
 - b) tudományos kutatás céljából természetes személyazonosító és járműazonosító adatok kivételével;
 - c) közvélemény-kutatás és piackutatás céljára a jármű műszaki adataiból időbeli és területi bontásban;
 - d) közvetlen üzletszerzés céljára a jármű műszaki adataiból időbeli és területi bontásban.
@@ -312,7 +315,7 @@ igényelhető.
 
 22/A. § A nyilvántartó a járműnyilvántartásból történő adatszolgáltatás során a személyiadat- és lakcímnyilvántartás szerinti lakcím adatokat adja át, feltéve, hogy az adatkérés nem az azt tartalmazó okmányban szereplő lakcímadatra vagy a történeti állomány adatára irányul.
 
-23. § A nyilvántartó a 9. § (2) bekezdésében megjelölt adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
+23. § A nyilvántartó a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
 
 24. § (1) Az engedély- és a parkolási igazolvány nyilvántartásból adatok akkor szolgáltathatók, ha a kérelem a járművezető, illetve a parkolási igazolvány használatára jogosult természetes személyazonosító adatát is tartalmazza.
 
@@ -331,7 +334,7 @@ igényelhető.
 - a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatait a kérelmező rendelkezésére bocsáthassa, vagy
 - b) tájékoztassa arról, hogy a kérelmezőt közvetlenül keresse meg, ha vele a kapcsolatot fel kívánja venni.
 
-(5) Törvény, illetőleg az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a nyilvántartó az engedély-nyilvántartásnak a 8. § a)–d) és i)–j) pontjaiban meghatározott adatairól a személyazonosításra alkalmas járművezetői engedély érvényességének megállapítása céljából adatot szolgáltathat. A 8. § c) és d) pontjában foglalt adatot a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
+(5) Törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a nyilvántartó az engedély-nyilvántartásnak a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint a b) pont ba) és bb) alpontjában meghatározott adatairól a személyazonosításra alkalmas járművezetői engedély érvényességének megállapítása céljából adatot szolgáltathat. A 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatot a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
 
 25. § A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, illetőleg az adatokat személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.
 

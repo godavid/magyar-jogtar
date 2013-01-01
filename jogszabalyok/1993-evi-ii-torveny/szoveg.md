@@ -18,7 +18,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (4) A földkiadó bizottság feladatainak hatékonyabb végrehajtása érdekében munkacsoportokat hozhat létre.
 
-3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes települési önkormányzat (a továbbiakban: önkormányzat) jegyzője e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
+3. § (1) A földkiadó bizottság megválasztása céljából a szövetkezet székhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) e törvény hatálybalépését követő tizenöt napon belül összehívja a részarány-földtulajdonosok közgyűlését (részközgyűléseit). A közgyűlésen minden tulajdonost egy-egy szavazat illet meg.
 
 (2) A tulajdonosokat a közgyűlés összehívásáról a helyben szokásos módon, hirdetmény útján és lehetőleg írásban is értesítik. Nem helyben lakó tulajdonosokat országos, illetve megyei napilapban történő közzététel útján is értesíteni kell.
 
@@ -32,9 +32,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A földkiadó bizottságot a bíróság és más hatóság előtt, valamint harmadik személlyel szemben a bizottság elnöke, vagy a bizottság által az erre kijelölt tag képviseli.
 
-4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi az önkormányzat jegyzőjénél.
+4/A. § (1) Ha a mezőgazdasági igazgatási szerv tudomására jut, hogy a földkiadó bizottság feladatai ellátását a törvényben meghatározott határidőben nem kezdi meg, vagy nem e törvény rendelkezései szerint jár el, illetőleg bármely más okból nem működik, haladéktalanul a részarány-földtulajdonosok közgyűlésének összehívását kezdeményezi a járási hivatalnál.
 
-(2) Az önkormányzat jegyzője a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
+(2) A járási hivatal a részarány-földtulajdonosok közgyűlését a mezőgazdasági igazgatási szerv megkeresésétől számított 15 napon belül a 3. §-ban meghatározott módon összehívja. Az így összehívott közgyűlés a megjelentek számára tekintet nélkül határozatképes. Határozatait szótöbbséggel hozza.
 
 (3) A (2) bekezdés szerinti közgyűlés
 
@@ -47,7 +47,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 - a) illetékességi területén a részarány-földtulajdonnak megfelelő föld kiadása, illetőleg helyének meghatározása befejeződött, vagy
 - b) működésképtelensége miatt a 4/A. § (2) bekezdése szerinti közgyűlés a megszűnését határozattal megállapítja.
 
-(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. Az önkormányzat jegyzője a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
+(2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. A járási hivatal a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
 
 (3) A földkiadó bizottság megszűnését megállapító határozat bírósági felülvizsgálatának helye nincs.
 

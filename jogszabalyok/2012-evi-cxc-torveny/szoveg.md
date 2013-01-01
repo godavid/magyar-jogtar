@@ -4,17 +4,26 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 #### 1. Egyes ingatlanok fővárosi önkormányzat részére történő átadása
 
-1. §
+1. § (1) A fővárosi kerületi önkormányzatok tulajdonában álló, a Duna partvonalával közvetlenül határos
+
+- a) budai és pesti alsó rakparton lévő ingatlanok, valamint kikötőhelyek és kikötői infrastruktúra,
+- b) az a) pont alá nem tartozó, a nagyhajók fogadására alkalmas kikötőhelyek és kikötői infrastruktúra2013. január 1-jével – az egységes városkép kialakítása és a közlekedés fejlesztése érdekében – ingyenesen a fővárosi önkormányzat használatába kerülnek.
+
+(2) A fővárosi kerületi és a fővárosi önkormányzat – az érintett ingatlanok helyrajzi számát is tartalmazó – közös kérelme és megállapodása alapján az ingatlanügyi hatóság a fővárosi önkormányzat javára az ingatlan-nyilvántartásba használati jogot jegyez be. Az ingatlan-nyilvántartási eljárás díjmentes.
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-2. § (1)
+2. § (1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 9. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A fővárosi önkormányzat a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben határozza meg.”
 
 (2)
 
 (3)
 
-(4)
+(4) A Kkt. 48. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Felhatalmazást kap a fővárosi közgyűlés, hogy a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben állapítsa meg.”
 
 #### 3. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 
@@ -22,11 +31,19 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 #### 4. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-4. §
+4. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 35. pontja helyébe a következő rendelkezés lép:
+
+„35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos szabályoknak, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek épületmagasságát, a fővárosi infrastruktúra területbiztosítását, valamint a Duna főmedrével közvetlenül határos telkek rendeltetését megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.”
 
 #### 5. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-5. §
+5. § A víziközlekedésről szóló 2000. évi XLII. törvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A települési, a fővárosban a fővárosi önkormányzat feladata
+
+a) a helyi közszolgáltatást megvalósító komp- és révközlekedés – önkormányzati hatáskörbe tartozó – működőképességének és fejlesztésének biztosítása,
+
+b) a településrendezési eszközök készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei önkormányzat bevonásával.”
 
 #### 6. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 

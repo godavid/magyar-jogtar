@@ -60,7 +60,7 @@ a közbeszerzésekről
 - 20. szociális foglalkoztatási engedéllyel rendelkező szervezet: a szociális igazgatásról és a szociális ellátásokról szóló törvényben kapott felhatalmazás alapján készült, a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait tartalmazó kormányrendeletben így meghatározott fogalom;
 - 21. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt és a kezességvállalást;
 - 22. tervpályázat: olyan, külön jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként az építészet és építés területén – egy olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
-- 23. védett foglalkoztató, védett szervezeti szerződést kötött szervezet: a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásról szóló, valamint a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjának, továbbá az akkreditált munkáltatók ellenőrzésének szabályairól szóló kormányrendeletben így meghatározott fogalom.
+- 23. védett munkahely: az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit vagy tartós foglalkoztatást, és munkavállalóinak legalább 50%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül.
 
 ### III. Fejezet — A TÖRVÉNY SZEMÉLYI ÉS TÁRGYI HATÁLYA
 
@@ -74,7 +74,7 @@ a közbeszerzésekről
 - b) az állam, a helyi önkormányzat és minden költségvetési szerv, a közalapítvány, a helyi és országos nemzetiségi önkormányzat, a helyi önkormányzatok társulása, a helyi önkormányzat által a helyben központosított közbeszerzés keretében, valamint több helyi önkormányzat, illetve a közös hivatalhoz tartozó települések központosított közbeszerzési rendszere keretében ajánlatkérésre kizárólagosan feljogosított szervezet, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács;
 - c) az a jogképes szervezet, amelyet közérdekű, de nem ipari vagy kereskedelmi jellegű tevékenység folytatása céljából hoznak létre, vagy amely ilyen tevékenységet lát el, ha az a)–d) pontokban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány külön-külön vagy együttesen, közvetlenül vagy közvetetten meghatározó befolyást képes felette gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza;
 - d) a 9. § (1) bekezdés k) pontja szerinti gazdálkodó szervezet;
-- e) az a)–d) pontok hatálya alá nem tartozó gazdálkodó szervezet [Ptk. 685. § c) pontja], amely a 114. § (2) bekezdésében meghatározott közszolgáltatói tevékenységek valamelyikét folytatja, és amely felett az a)–d) pontokban meghatározott egy vagy több szervezet közvetlenül vagy közvetve meghatározó befolyást képes gyakorolni, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
+- e) az a)–d) pontok hatálya alá nem tartozó gazdálkodó szervezet [Ptk. 685. § c) pontja], amely a 114. § (2) bekezdésében meghatározott közszolgáltatói tevékenységek valamelyikét folytatja, vagy ilyen tevékenység folytatása céljából hozták létre, és amely felett az a)–d) pontokban meghatározott egy vagy több szervezet közvetlenül vagy közvetve meghatározó befolyást képes gyakorolni, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
 - f) az a)–e) pontok hatálya alá nem tartozó szervezet, amely a 114. § (2) bekezdésében meghatározott egy vagy több közszolgáltatói tevékenységét különleges vagy kizárólagos jog alapján folytatja, a 114. § (2) bekezdése szerinti közszolgáltatói tevékenységének biztosítása céljából lefolytatott beszerzése során;
 - g) a támogatásból megvalósuló beszerzés vonatkozásában az a)–f) pontok hatálya alá nem tartozó szervezet – az uniós értékhatárt el nem érő beszerzés esetén az egyéni vállalkozó kivételével – , amelynek szolgáltatásmegrendelését, árubeszerzését vagy építési beruházását az a)–d) pontok hatálya alá tartozó egy vagy több szervezet az uniós értékhatárt elérő értékű beszerzés esetében többségi részben, a nemzeti értékhatárt elérő, de az uniós értékhatárt el nem érő értékű beszerzés esetében hetvenöt százalékot meghaladó részben közvetlenül támogatja;
 - h) az adott beszerzés megvalósításakor az az a)–g) pontok hatálya alá nem tartozó szervezet, amely önként vagy szerződésben vállalt erre vonatkozó kötelezettség vagy külön jogszabály kötelezése alapján folytat le közbeszerzési eljárást.
@@ -224,7 +224,7 @@ megismerése nem korlátozható.
 
 (5) Amennyiben az ajánlatkérő egy közbeszerzési eljáráson belül teszi lehetővé a részekre történő ajánlattételt, minden rész értékét egybe kell számítani a közbeszerzés becsült értékének meghatározásakor.
 
-(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési kerete terhére lefolytatandó beszerzésekkor pedig képviselőcsoportonként külön kell alkalmazni. A (2) bekezdést továbbá külön kell alkalmazni az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjaiban, valamint 10. § (1) bekezdésében említett szerveknek a részükre jóváhagyott részelőirányzataik terhére megvalósítandó beszerzései vonatkozásában.
+(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, az állami köznevelési intézményfenntartó által fenntartott és működtetett intézményenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési kerete terhére lefolytatandó beszerzésekkor pedig képviselőcsoportonként külön kell alkalmazni. A (2) bekezdést továbbá külön kell alkalmazni az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjában, valamint 10. § (1) bekezdésében említett szerveknek a részükre jóváhagyott részelőirányzataik terhére megvalósítandó beszerzései vonatkozásában.
 
 ### Az alkalmazandó eljárásrend
 
@@ -337,7 +337,7 @@ megismerése nem korlátozható.
 
 ### Fenntartott szerződések
 
-29. § (1) Az ajánlatkérő a közbeszerzési eljárásban való részvétel jogát a külön jogszabályban meghatározottak szerint fenntarthatja vagy köteles fenntartani az olyan, védett foglalkoztatónak minősülő szervezetek, védett szervezeti szerződést kötött szervezetek, továbbá szociális foglalkoztatási engedéllyel rendelkező szervezetek számára, amelyek ötven százalékot meghaladó mértékben megváltozott munkaképességű munkavállalókat foglalkoztatnak, valamint az olyan szociális foglalkoztatás keretében szociális intézményben ellátottakat foglalkoztató szervezeteknek, amelyek ötven százalékot meghaladó mértékben fogyatékos munkavállalókat foglalkoztatnak. Erre a tényre az eljárást megindító felhívásban az ajánlatkérőnek hivatkoznia kell.
+29. § (1) Az ajánlatkérő a közbeszerzési eljárásban való részvétel jogát jogszabályban meghatározottak szerint fenntarthatja vagy köteles fenntartani az olyan, védett munkahelynek minősülő szervezetek, továbbá szociális foglalkoztatási engedéllyel rendelkező szervezetek számára, amelyek ötven százalékot meghaladó mértékben megváltozott munkaképességű munkavállalókat foglalkoztatnak, valamint az olyan szociális foglalkoztatás keretében szociális intézményben ellátottakat foglalkoztató szervezeteknek, amelyek ötven százalékot meghaladó mértékben fogyatékos munkavállalókat foglalkoztatnak. Erre a tényre az eljárást megindító felhívásban az ajánlatkérőnek hivatkoznia kell.
 
 (2) Az ajánlatkérő az (1) bekezdésnek megfelelően fenntartott szerződések esetében köteles biztosítani az Európai Unióban letelepedett azon gazdasági szereplők esélyegyenlőségét, amelyek ötven százalékot meghaladó mértékben megváltozott munkaképességű munkavállalókat foglalkoztatnak.
 
@@ -513,9 +513,9 @@ megismerése nem korlátozható.
 
 (2) Az (1) bekezdés szerinti megjelölés és igénybevétel nem érinti az ajánlattevő teljesítésért való felelősségét.
 
-(3) Ha az ajánlatkérő támogatásra irányuló igényt (pályázatot) nyújtott be, vagy fog benyújtani, az eljárást megindíthatja, az eljárást megindító felhívásban azonban fel kell hívni a gazdasági szereplők figyelmét erre a körülményre, valamint a (4) bekezdésben foglaltakra.
+(3) Ha az ajánlatkérő támogatásra irányuló igényt (pályázatot) nyújtott be, vagy fog benyújtani, az eljárást megindíthatja – függetlenül attól, hogy sor került-e már a támogatás pályázati felhívásának megjelenésére –, az eljárást megindító felhívásban azonban fel kell hívni a gazdasági szereplők figyelmét erre a körülményre, valamint a (4) bekezdésben foglaltakra.
 
-(4) A (3) bekezdés alkalmazásakor a támogatásra irányuló igény el nem fogadását, vagy az igényeltnél kisebb összegben történő elfogadását olyan körülménynek kell tekinteni, amelyre az ajánlatkérő a szerződés megkötésére vagy teljesítésére képtelenné válása okaként hivatkozhat [76. § (1) bekezdés d) pont, 124. § (9) bekezdés].
+(4) A (3) bekezdés alkalmazásakor a támogatásra irányuló igény el nem fogadását, vagy az igényeltnél kisebb összegben történő elfogadását olyan körülménynek kell tekinteni, amelyre az ajánlatkérő a szerződés megkötésére vagy teljesítésére képtelenné válása okaként hivatkozhat [76. § (1) bekezdés d) pont, 124. § (9) bekezdés], valamint az ajánlatkérő jogosult a támogatási szerződés megkötését vagy meghatározott összegben történő megkötését a közbeszerzési eljárás eredményeként megkötendő szerződés hatályba lépését felfüggesztő feltételként is kikötni.
 
 ### Az ajánlattételi és részvételi határidő, a felhívás és a dokumentáció módosítása, visszavonása
 
@@ -1452,6 +1452,8 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - a) vízépítési projekttel, öntözéssel vagy vízrendezéssel (vízelvezetéssel) függ össze, feltéve, hogy az ivóvízellátásra szánt víz mennyisége az ilyen projekt vagy az öntözési, illetve vízrendezési létesítmények által biztosított víz teljes mennyiségének több mint húsz százaléka, vagy
 - b) szennyvízelvezetéssel vagy -kezeléssel függ össze.
 
+(5) Közszolgáltatói szerződésnek minősül a 6. § (1) bekezdés a)–e) pontja szerinti ajánlatkérő szerződése akkor is, ha az ajánlatkérő a (2) bekezdés szerinti közszolgáltatói tevékenységét ténylegesen még nem kezdte meg, de az adott szerződés a közszolgáltatói tevékenység előkészítésének, megkezdésének vagy folytatásának biztosítása céljából szükséges.
+
 115. § (1) Az ivóvízzel, villamos energiával, gázzal vagy hőenergiával kapcsolatos közszolgáltatói tevékenységek körében kivételt képez a 6. § (1) bekezdés e)–f) pontja szerinti ajánlatkérő által működtetett hálózat ivóvízzel, villamos energiával, gázzal vagy hőenergiával történő ellátása abban az esetben, ha
 
 - a) ivóvíz vagy villamos energia esetén az érintett szervezet nem közszolgáltatói tevékenység keretében való felhasználás céljából állít elő ivóvizet vagy villamos energiát, valamint a hálózat ellátása kizárólag saját felhasználásától függ, és nem haladta meg az általa előállított ivóvíz vagy villamos energia teljes mennyiségének harminc százalékát, figyelembe véve a tárgyévet is magában foglaló megelőző három év átlagát;
@@ -1519,7 +1521,8 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - h) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 3. § e), f), i), k) pontjai; valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
 - i) fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére.
 - j) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, vagy teljesített szolgáltatások, illetve építési beruházások beszerzésére;
-- k) a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. tv. szerinti hitel és pénzkölcsön igénybevételére.
+- k) a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. tv. szerinti hitel és pénzkölcsön igénybevételére;
+- l) a 114. § (2) bekezdés d) pontjában meghatározott szolgáltatást nyújtó szervezet beszerzései vonatkozásában.
 
 ### Az alkalmazandó eljárási szabályok
 
@@ -1615,7 +1618,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (3) Az (1) bekezdés alkalmazásában szociális feltételnek minősül különösen
 
-- a) a szerződésnek védett foglalkoztató, védett szervezeti szerződést kötött szervezet vagy szociális foglalkoztatási engedéllyel rendelkező szervezet bevonásával történő teljesítése;
+- a) a szerződésnek védett munkahely vagy szociális foglalkoztatási engedéllyel rendelkező szervezet bevonásával történő teljesítése;
 - b) álláskeresők, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
 - c) gyermekgondozási segélyben, valamint gyermeknevelési támogatásban részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, terhességi-gyermekágyi segélyben és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 - d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása.
@@ -1637,6 +1640,8 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 (8) Az ajánlatkérőnek az eljárást megindító felhívásban a szerződés időtartamát úgy kell meghatároznia, hogy amennyiben a szerződés tárgya, a választott szerződéses konstrukció vagy a hozzá kapcsolódó fizetési feltételek vagy a nyertes ajánlattevő által eszközölt befektetés nem indokolja, a szerződés ne kösse határozatlan vagy aránytalanul hosszú határozott időtartamra, amely a verseny fenntartása és a közpénzek hatékony elköltésének céljával ellenkezik.
 
 (9) Amennyiben az építési beruházás megvalósítására irányuló szerződésben a felek tartalékkeret kötnek ki, annak értéke nem haladhatja meg a szerződésben foglalt ellenszolgáltatás 5%-át.
+
+(10) A szerződésbe foglalhatók olyan rendelkezések, amelyek minden ajánlattevő számára előre megismerhető módon, egyértelműen rögzítik a szerződés meghatározott tartalmi elemei későbbi változásának pontos feltételeit és tartalmát. Az ilyen rendelkezések esetében nem kell vizsgálni a 132. §-ban foglalt feltételek fennállását, az előirányzott változások azonban nem eredményezhetik a szerződés tárgyának alapvető megváltozását.
 
 126. § (1) Az ajánlatkérő jogosult a nyertes ajánlattevővel kötendő szerződésben biztosítékot kikötni, ezt a tényt, továbbá a biztosíték(ok) körét és mértékét az eljárást megindító felhívásban közölni kell.
 
@@ -2095,7 +2100,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (2) A jogorvoslati kérelmet a végzés kézbesítésétől számított nyolc napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
 
-(3) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése elleni külön jogorvoslati kérelmet a törvényszék nemperes eljárásban, soron kívül bírálja el. A bíróság a Közbeszerzési Döntőbizottság végzését megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+(3) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése elleni külön jogorvoslati kérelmet a közigazgatási és munkaügyi bíróság nemperes eljárásban, soron kívül bírálja el. A bíróság a Közbeszerzési Döntőbizottság végzését megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 (4) A bíróság eljárására a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. Fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetve a nemperes eljárás jellegéből más nem következik.
 
@@ -2165,7 +2170,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (5) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 127. § (2) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tizenöt százaléka. Ha az érvénytelenség jogkövetkezményeinek megállapításakor a bíróság a szerződést a határozathozatalig terjedő időre hatályossá nyilvánítja, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tíz százaléka.
 
-(6) Az (1) bekezdés szerinti perre az a törvényszék kizárólagosan illetékes, amely ugyanazon közbeszerzési jogsértés ügyében a 157. § szerinti közigazgatási perben eljár. Ha a Közbeszerzési Döntőbizottság a 127. § (1) bekezdés a)–c) pontja szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérték, a Közbeszerzési Döntőbizottság által ugyanazon ügyben indított polgári pert – amennyiben a közigazgatási per indul később – a 157. § szerinti közigazgatási per bíróságához át kell tenni. A közigazgatási pert és a Közbeszerzési Döntőbizottság által indított polgári pert egyesíteni kell. A Közbeszerzési Döntőbizottság köteles haladéktalanul tájékoztatni a polgári perben eljáró bíróságot arról, ha a 127. § (1) bekezdés a)–c) pontja szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérő keresetlevelet nála benyújtották.
+(6) Az (1) bekezdés szerinti perre az a közigazgatási és munkaügyi bíróság kizárólagosan illetékes, amely ugyanazon közbeszerzési jogsértés ügyében a 157. § szerinti közigazgatási perben eljár. Ha a Közbeszerzési Döntőbizottság a 127. § (1) bekezdés a)–c) pontja szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérték, a Közbeszerzési Döntőbizottság által ugyanazon ügyben indított polgári pert – amennyiben a közigazgatási per indul később – a 157. § szerinti közigazgatási per bíróságához át kell tenni. A közigazgatási pert és a Közbeszerzési Döntőbizottság által indított polgári pert egyesíteni kell. A Közbeszerzési Döntőbizottság köteles haladéktalanul tájékoztatni a polgári perben eljáró bíróságot arról, ha a 127. § (1) bekezdés a)–c) pontja szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérő keresetlevelet nála benyújtották.
 
 (7) A (6) bekezdés szerinti egységes perben a Pp. XX. Fejezetét a 161. § (2) bekezdésében, a 162. § (1)–(3) bekezdésében, valamint a 163. §-ban foglalt eltérésekkel kell alkalmazni. Az (5) bekezdésben foglaltak szerint szab ki a bíróság bírságot akkor is, ha a minősített beszerzési eljárás vagy a védelmi beszerzési eljárás alapján, illetve annak mellőzésével megkötött szerződés részleges érvénytelenségét vagy az érvénytelenség hiányát arra tekintettel állapítja meg, hogy az súlyosan veszélyeztetné az állam biztonsági érdekei szempontjából alapvető fontosságú, szélesebb körű védelmi vagy biztonsági programot.
 
@@ -2324,7 +2329,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (9) A Hatóság a közbeszerzések terén fennálló nemzetközi szerződésekről, továbbá azokról az államokról, amelyekkel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van a külpolitikáért felelős miniszterrel egyeztetve útmutatót ad ki.
 
-(10) A Hatóság feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek. A (2) bekezdés eb) pontja szerinti eljárás esetében azonban a kérelmező, illetve az érintett minősített ajánlattevő, a (2) bekezdés ec) pontja szerinti eljárás esetében pedig a kérelmező, illetve az érintett hivatalos közbeszerzési tanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül. A kérelemről a törvényszék nemperes eljárásban, a kérelem benyújtásától számított hatvan napon belül határoz, a Hatóság határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
+(10) A Hatóság feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek. A (2) bekezdés eb) pontja szerinti eljárás esetében azonban a kérelmező, illetve az érintett minősített ajánlattevő, a (2) bekezdés ec) pontja szerinti eljárás esetében pedig a kérelmező, illetve az érintett hivatalos közbeszerzési tanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül. A kérelemről a közigazgatási és munkaügyi bíróság nemperes eljárásban, a kérelem benyújtásától számított hatvan napon belül határoz, a Hatóság határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
 
 (11) A Közbeszerzési Döntőbizottság határozatainak, valamint a közbeszerzési eljárások bírósági felülvizsgálata során hozott határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény (a továbbiakban: Bszi.) XII. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
@@ -2450,7 +2455,16 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (2) A minősített beszerzési eljárásban a kizáró okok megállapítása érdekében az ajánlatkérő jogosult a bűnügyi személyes adatok kezelésére.
 
-(3)
+(3) E törvénynek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ükt.) 129. §
+
+- a) (1) bekezdésével megállapított 6. § (1) bekezdés e) pontját,
+- b) (2) bekezdésével megállapított 114. § (5) bekezdését
+
+az Ükt. hatálybalépése után megkezdett közbeszerzési eljárásokra kell alkalmazni.
+
+(4) E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 4. § 23. pontját, 29. § (1) bekezdését, 40. § (3) és (4) bekezdését, valamint 125. § (3) bekezdés a) pontját és (10) bekezdését a 2013. január 1-jét követően megkezdett közbeszerzési eljárásokra kell alkalmazni. Ahol e törvény felhatalmazása alapján megalkotott jogszabály védett foglalkoztatót említ, azon védett munkahelyet kell érteni.
+
+(4) E törvénynek az Ükt. 129. § (3) bekezdésével megállapított 120. § l) pontját a 2013. január 1-je után megkezdett közbeszerzési eljárásokra kell alkalmazni.
 
 ### Felhatalmazás
 
@@ -2471,7 +2485,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - 13. a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, szolgáltatások megrendelésére, valamint építési beruházásokra vonatkozó sajátos szabályokat;
 - 14. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 - 15. a dinamikus beszerzési rendszerre vonatkozó szabályokat;
-- 16. a védett foglalkoztatók, védett szervezeti szerződést kötött szervezetek, valamint szociális foglalkoztatási engedéllyel rendelkező szervezetek részére fenntartott közbeszerzések részletes szabályait, valamint a szociális szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
+- 16. a védett munkahelyek, valamint a szociális foglalkoztatási engedéllyel rendelkező szervezetek részére fenntartott közbeszerzések részletes szabályait, valamint a szociális szempontoknak a közbeszerzésben történő érvényesítése kötelező eseteit és módját;
 - 17. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 - 18. az irányítása vagy felügyelete alá tartozó költségvetési szervek, továbbá az azok vagyonkezelésébe tartozó, többségi állami tulajdonban álló gazdálkodó szervezetek, valamint a Kormány közalapítványai közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő, vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését;
 - 19. az általa irányított vagy felügyelt költségvetési szervek, alapított közalapítványok, valamint az állami tulajdonú gazdálkodó szervezetek vonatkozásában, az uniós értékhatárokat el nem érő árubeszerzésekre, valamint szolgáltatás megrendelésekre e törvény 123. §-ának alkalmazásában kötelezően alkalmazandó eljárási szabályokat;

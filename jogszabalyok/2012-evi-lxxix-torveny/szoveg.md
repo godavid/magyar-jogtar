@@ -37,13 +37,17 @@ lép.
 
 36. § (1)
 
-(2)
+(2) Az Eütev. 11/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1. melléklet szerint számított összeg.”
 
 37–44. §
 
 45. § (1)–(3)
 
-(4)
+(4) Az Eütev. 16. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.”
 
 46–48. §
 
@@ -55,7 +59,7 @@ lép.
 
 51. § Hatályát veszti az Eütev.
 
-- a)
+- a) 11/A. § (8) bekezdésében a „(4) és” szöveg,
 - b)
 - c)
 
@@ -150,7 +154,7 @@ lép.
 
 (6) A 84. §, a 85. §, a 89. §, a 92. § (2) bekezdés i) pontja 2012. szeptember 1-jén lép hatályba.
 
-(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, a 49. § (2) bekezdése, az 51. § a) és c) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
+(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, az 51. § a) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
 
 (8) Az 52. §, a 61. § és a 64. § 2013. január 2-án lép hatályba.
 

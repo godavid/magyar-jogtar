@@ -747,7 +747,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 (3) A részmunkaidő kikötése
 
 - a) a fizetés nélküli szabadság megszűnését követő naptól,
-- b) ha az ügyésznek ki kell adni a korábbi évekre járó rendes szabadságát, akkor a szabadság leteltét követő naptól
+- b) ha az ügyésznek a munka törvénykönyvéről szóló 2012. évi I. törvény 123. § (3) bekezdése alapján ki kell adni a szabadságát, akkor a szabadság leteltét követő naptól
 
 hatályos.
 
@@ -865,7 +865,7 @@ jogosult.
 
 (3) Az adott szintű ügyészségen ténylegesen folytatott ügyészi gyakorlattal eltöltött legalább húsz év után
 
-- a) a helyi ügyészség ügyésze részére „Címzetes főügyészségi ügyész”,
+- a) a járási ügyészség ügyésze részére „Címzetes főügyészségi ügyész”,
 - b) a főügyészség ügyésze részére „Címzetes fellebbviteli főügyészségi ügyész”,
 - c) a fellebbviteli főügyészség ügyésze részére „Címzetes legfőbb ügyészségi ügyész”,
 - d) a Legfőbb Ügyészség ügyésze részére „Legfőbb ügyészségi tanácsos”
@@ -1031,7 +1031,7 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 77. § (1) A minisztériumba beosztott ügyészre az 57–76. §-okban foglalt rendelkezéseket a (2)–(4) bekezdések szerinti eltéréssel kell alkalmazni.
 
-(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni.
+(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni. A minisztériumba beosztott ügyész a beosztási pótlékon felül az ügyészi illetményalap összegének 10 százalékára jogosult.
 
 (3) Az igazságügyért felelős miniszter által vezetett minisztériumban főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört ellátó ügyész vezetői pótlékra a következők szerint jogosult:
 
@@ -1598,7 +1598,7 @@ cím adományozható.
 
 ### XVI. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYRA VONATKOZÓ EGYÉB RENDELKEZÉSEK
 
-151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők jogosultak a honvédelmi pótlékra.
+151. § (1) Az e törvényben nem szabályozott kérdésekben a Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak szolgálati viszonyára a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell, azzal az eltéréssel, hogy kizárólag e törvény alapján jogosultak javadalmazásra, azonban a tisztviselők, írnokok, fizikai alkalmazotti beosztásban lévők jogosultak a honvédelmi pótlékra.
 
 (2) A katonai ügyésznek és más hivatásos állományba tartozó ügyészségi alkalmazottnak a Magyar Honvédséggel fennálló szolgálati viszonya – a lemondása kivételével – akkor szüntethető meg, illetve a törvény erejénél fogva a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha ügyészségi szolgálati viszonya megszűnik.
 
@@ -1622,11 +1622,13 @@ cím adományozható.
 
 (3) Az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény
 
-- a) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
-- b) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
-- c) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
-- d) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
-- e) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
+- a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni,
+- b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
+- c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik;
+- d) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
+- e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
+- f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
+- g) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
 
 (4) A munka törvénykönyvéről szóló 2012. évi I. törvény 140. §-át és 143. §-át csak az írnok és a fizikai alkalmazott, az 59. §-át és 145. §-át csak a fizikai alkalmazott esetében kell alkalmazni.
 
@@ -1643,7 +1645,7 @@ kell érteni.
 
 (6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni azzal, hogy a legfőbb ügyész helyettes és az ügyész esetében e fogalmakat a rá irányadó öregségi nyugdíjkorhatárt be nem töltött személyre kell alkalmazni. Nyugdíjasnak minősül az alügyész, az ügyészségi fogalmazó, továbbá a tisztviselő, írnok, fizikai alkalmazott, valamint a rá irányadó öregségi nyugdíjkorhatárt be nem töltött ügyész abban az esetben is, ha felmentését a Tny. 18. § (2a) bekezdésére szerzett jogosultságára hivatkozással maga kéri.
 
-(7) Nem alkalmazható az ügyészségi alkalmazottak szolgálati viszonyára a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 105. és 106. §-a.
+(7)
 
 154. § (1) E törvény alkalmazásában – ha e törvény eltérően nem rendelkezik – ügyészségi szolgálati viszonyban töltött időnek kizárólag az ügyészségnél szolgálati viszonyban töltött időt kell tekinteni.
 
@@ -1759,10 +1761,12 @@ kell érteni 2012. december 31. napjáig.
 
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
-- b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
-- c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
-- d) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv.
+- a) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelve,
+- b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelve a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
+- c) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelve, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
+- d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv,
+- e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
+- f) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv.
 
 ### 1. melléklet a 2011. évi CLXIV. törvényhez
 
@@ -1801,11 +1805,11 @@ A vezetői pótlék az illetményalap százalékában
 | 4. | A főosztályvezető-helyettes ügyész A fellebbviteli főügyészhelyettes A főügyész | 50 |
 | 5. | A legfőbb ügyészségi osztályvezető ügyész A nagyobb főügyészségi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 45 |
 | 6. | A fellebbviteli osztályvezető ügyész | 40 |
-| 7. | A főügyészhelyettes A kiemelt helyi ügyészségi vezető ügyész | 35 |
-| 8. | A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt helyi ügyészségi vezetőhelyettes ügyész A nagyobb helyi ügyészségi vezető ügyész | 30 |
-| 9. | A főügyészségi osztályvezető ügyész A nagyobb helyi ügyészségi vezetőhelyettes ügyész A kisebb helyi ügyészségi vezető ügyész | 25 |
+| 7. | A főügyészhelyettes A kiemelt járási ügyészségi vezető ügyész | 35 |
+| 8. | A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt járási ügyészségi vezetőhelyettes ügyész A nagyobb járási ügyészségi vezető ügyész | 30 |
+| 9. | A főügyészségi osztályvezető ügyész A nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 25 |
 | 10. | A főügyészségi csoportvezető ügyész | 20 |
-| 11. | A kiemelt és a nagyobb helyi ügyészségi csoportvezető ügyész A kisebb helyi ügyészségi vezetőhelyettes ügyész | 15 |
+| 11. | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész A kisebb járási ügyészségi vezetőhelyettes ügyész | 15 |
 
 ### 3. melléklet a 2011. évi CLXIV. törvényhez
 

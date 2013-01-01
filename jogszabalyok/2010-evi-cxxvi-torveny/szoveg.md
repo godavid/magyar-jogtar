@@ -19,13 +19,11 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A megyei kormányhivatal székhelye a megyeszékhely városban, a fővárosi kormányhivatal és a Pest megyei kormányhivatal székhelye Budapesten van.
 
-3. § (1) A fővárosi és megyei kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből (a továbbiakban: törzshivatal), valamint ágazati szakigazgatási szervekből (a továbbiakban: szakigazgatási szerv) áll.
+3. § (1) A fővárosi és megyei kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből (a továbbiakban: törzshivatal), ágazati szakigazgatási szervekből (a továbbiakban: szakigazgatási szerv) és járási, illetve a fővárosban fővárosi kerületi hivatalokból (a továbbiakban együtt: járási hivatal) áll.
 
-(2) A szakigazgatási szervek törvény vagy kormányrendelet rendelkezése alapján önálló feladat- és hatáskörrel rendelkező szervezeti egységekkel rendelkezhetnek.
+(2) A szakigazgatási szervek törvény vagy kormányrendelet alapján önálló feladat- és hatáskörrel rendelkező szervezeti egységekkel rendelkezhetnek.
 
-(3) A törzshivatal és a szakigazgatási szervek egy költségvetési szervet képeznek.
-
-(4) A Kormány rendeletben állapítja meg a fővárosi és megyei kormányhivatalok gazdálkodására vonatkozó szabályokat.
+(3) A törzshivatal, a szakigazgatási szervek és a járási hivatalok egy költségvetési szervet képeznek.
 
 4. § (1) A fővárosi és megyei kormányhivatal alapító okiratát a miniszterelnök adja ki.
 
@@ -33,9 +31,9 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 #### 3. A szakigazgatási szervek
 
-5. § (1) A fővárosi és megyei kormányhivatal szervezeti egységeként működő szakigazgatási szerveket a Kormány rendeletben állapítja meg.
+5. § (1) A fővárosi és megyei kormányhivatal szakigazgatási szerveit, valamint a járási hivatal szakigazgatási szerveit (a továbbiakban: járási szakigazgatási szerv) a Kormány rendeletben állapítja meg.
 
-(2) A szakigazgatási szerv, továbbá a törvény vagy kormányrendelet alapján a szakigazgatási szerv önálló feladat- és hatáskörrel rendelkező szervezeti egysége a jogszabályban megállapított hatáskörét önállóan gyakorolja.
+(2) A szakigazgatási szerv, a járási hivatal, továbbá a járási szakigazgatási szerv a jogszabályban megállapított hatáskörét önállóan gyakorolja. A szakigazgatási szerv, a járási hivatal, továbbá a járási szakigazgatási szerv által ellátandó egyedi ügyben a fővárosi és megyei kormányhivatal, illetve annak vezetője utasításadási joggal nem rendelkezik.
 
 #### 4. A fővárosi és megyei kormányhivatal irányítása
 
@@ -120,9 +118,9 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a Honvédelmi Minisztérium és a Belügyminisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
-(2) A szakigazgatási szerv kormánytisztviselői és munkavállalói felett a munkáltatói jogokat a szakigazgatási szerv vezetője gyakorolja.
+(2) A szakigazgatási szerv kormánytisztviselői és munkavállalói felett a munkáltatói jogokat – a 20/B. §-ban meghatározott kivétellel – a szakigazgatási szerv vezetője gyakorolja.
 
-(3) A szakigazgatási szerv kormánytisztviselőjének kinevezni javasolt személyről a szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a szakigazgatási szervnél kormánytisztviselőnek.
+(3) A szakigazgatási szerv kormánytisztviselőjének kinevezni, illetve felmenteni javasolt személyről a szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a szakigazgatási szervnél kormánytisztviselőnek, illetve nem kerülhet felmentésre.
 
 (4) A szakigazgatási szerv vezetője a szakigazgatási szervnek a törvény vagy kormányrendelet alapján létrehozott önálló feladat- és hatáskörrel rendelkező szervezeti egységének vezetője vezetői munkakörbe történő kinevezésére és felmentésére vonatkozó hatáskörét a kormánymegbízott egyetértésével gyakorolja.
 
@@ -140,7 +138,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 17. § (1) A fővárosi és megyei államigazgatási kollégium a fővárosi és megyei kormányhivatal koordinációs feladatait elősegítő állandó fóruma.
 
-(2) Az államigazgatási kollégium vezetője a kormánymegbízott, tagjai a fővárosi és megyei kormányhivatal törzshivatalának és szakigazgatási szerveinek vezetői, a fővárosi és megyei kormányhivatal koordinációs és ellenőrzési jogkörébe tartozó területi államigazgatási szervek vezetői, valamint a kormánymegbízott által meghívottak.
+(2) A fővárosi és megyei államigazgatási kollégium vezetője a kormánymegbízott, tagjai a fővárosi és megyei kormányhivatal törzshivatalának és szakigazgatási szerveinek vezetői, a járási hivatalok hivatalvezetői, a Kormány által intézményfenntartásra kijelölt szerv vezetője, a fővárosi és megyei kormányhivatal koordinációs és ellenőrzési jogkörébe tartozó területi államigazgatási szervek vezetői, valamint a kormánymegbízott által meghívottak.
 
 (3) A kormánymegbízott a fővárosi és megyei kormányhivatal koordinációs feladatainak elősegítésére szükség esetén fővárosi, megyei koordinációs értekezletet hívhat össze.
 
@@ -169,6 +167,46 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 - e) közigazgatási informatikai közreműködői tevékenységet lát el,
 - f) ügyfélszolgálatot működtethet,
 - g) ellátja a jogszabályban meghatározott egyéb feladatait.
+
+#### 9/A. A járási (fővárosi kerületi) hivatal
+
+20/A. § (1) A megyei kormányhivatal kirendeltségeiként járási hivatalok működnek. A járási hivatal székhelye a járás székhelyeként meghatározott városban van.
+
+(2) A fővárosi kormányhivatal kirendeltségeiként kerületi hivatalok működnek. A kerületi hivatal illetékességi területe megegyezik a fővárosi kerület közigazgatási területével. A kerületi hivatalra egyebekben a járási hivatalra vonatkozó jogszabályokat kell alkalmazni.
+
+(3) A járási hivatal a járási hivatalvezető (a továbbiakban: hivatalvezető) által közvetlenül vezetett járási törzshivatalból és járási szakigazgatási szervekből áll.
+
+20/B. § A járási hivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha e törvény eltérően nem rendelkezik – a hivatalvezető gyakorolja. A járási hivatal kormánytisztviselőjének kinevezni, illetve felmenteni javasolt személyről a hivatalvezető – a járási szakigazgatási szerv esetében a járási szakigazgatási szerv vezetője véleményének kikérését követően – tájékoztatja a kormánymegbízottat, aki a kinevezni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki kormánytisztviselőnek, illetve nem kerülhet felmentésre.
+
+20/C. § (1) A megyei szakigazgatási szerv vezetőjének javaslatára a kormánymegbízott írásban indokolt döntést hozhat arról, hogy a járási szakigazgatási szerv kormánytisztviselői és munkavállalói tekintetében a munkavégzéssel összefüggő munkáltatói jogokat (így különösen a munkarend, munkaidő-beosztás meghatározását, rendkívüli munkaidő elrendelését, utasításadást, munkaköri feladatok ellátásához szükséges tájékoztatás és iránymutatás megadását) a megyei szakigazgatási szerv vezetője gyakorolja ideiglenesen. A kormánymegbízottnak – akadályoztatása esetén a főigazgatónak – a megyei szakigazgatási szerv vezetője javaslatáról a javaslat kézhezvételét követően azonnal írásban döntenie kell, ennek hiányában a javaslatot elfogadottnak kell tekinteni. A megyei szakigazgatási szerv vezetője a kormánymegbízott döntéséig a szükséges intézkedéseket saját hatáskörben megteheti, ennek során a járási szakigazgatási szerv kormánytisztviselőit és munkavállalóit – a hivatalvezető egyidejű értesítésével – feladat elvégzésére utasíthatja.
+
+(2) A megyei szakigazgatási szerv vezetője a járási szakigazgatási szerv kormánytisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkavégzéssel összefüggő munkáltatói jogkörét célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén gyakorolhatja. A megyei szakigazgatási szerv vezetője az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben a döntés elrendelése okafogyottá válik, a megyei szakigazgatási szerv vezetőjének javaslatára a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
+
+20/D. § (1) A hivatalvezetőt a kormánymegbízott javaslatára a közigazgatás-szervezéséért felelős miniszter nevezi ki és menti fel. A hivatalvezető felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
+
+(2) Hivatalvezetői munkakörbe az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a megyei közgyűlési elnöki és a polgármesteri tisztség ellátása is.
+
+(3) A hivatalvezető a kinevezésében megjelölt időpontban lép hivatalba. A kinevezett hivatalvezető a közigazgatás-szervezéséért felelős miniszter előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
+(4) A hivatalvezető megbízatása megszűnik:
+
+- a) lemondásával,
+- b) felmentésével,
+- c) halálával,
+- d) ha az országgyűlési képviselők választásán már nem választható,
+- e) összeférhetetlenségének megállapításával.
+
+(5) A hivatalvezető további munkavégzésre irányuló jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – nem létesíthet, nem lehet helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+
+(6) A hivatalvezető illetményét a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 18-szorosában állapítja meg. A hivatalvezetőre a törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvényben a főosztályvezetőre vonatkozó rendelkezéseket kell alkalmazni.
+
+20/E. § (1) A hivatalvezetőt hivatalvezető-helyettes helyettesíti, a hivatalvezető-helyettes főosztályvezető-helyettes besorolású kormánytisztviselő. A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát. A hivatalvezető-helyettes felett – a kinevezés, a jogviszony-megszüntetés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a hivatalvezető gyakorolja.
+
+(2) Hivatalvezető-helyettesi munkakörbe az nevezhető ki, aki alapfokozattal és igazgatásszervezői szakképzettséggel, alapfokozattal és nemzetközi igazgatásszervező szakképzettséggel, mesterfokozattal és okleveles közigazgatási menedzser szakképzettséggel, mesterfokozattal és okleveles európai és nemzetközi igazgatásszervező szakképzettséggel, mesterfokozaton szerzett okleveles jogász szakképzettséggel, illetve legalább alapfokozattal és közgazdász szakképzettséggel rendelkezik. A hivatalvezető javaslatára a kormánymegbízott kivételesen indokolt esetben egyéb felsőfokú végzettségű személyt is kinevezhet hivatalvezető-helyettesnek.
+
+(3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 16-szorosában állapítja meg.
+
+20/F. § A járási szakigazgatási szerv vezetőjét a hivatalvezető javaslatára – amennyiben kormányrendelet kivételt nem tesz – a megyei szakigazgatási szerv vezetője nevezi ki és szünteti meg a jogviszonyát. A járási szakigazgatási szerv vezetőjének kinevezni, illetve felmenteni javasolt személyről a megyei szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a kinevezni, illetve felmenteni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a járási szakigazgatási szerv vezetőjének, illetve nem kerülhet felmentésre. A járási szakigazgatási szerv vezetője főosztályvezető-helyettes besorolású kormánytisztviselő.
 
 #### 10. Záró rendelkezések
 
@@ -221,7 +259,7 @@ rendeletben határozza meg.
 
 (4) Az átalakult jogviszony esetén a kormánytisztviselő igazságügyi alkalmazotti szolgálati viszonyban töltött idejét úgy kell tekinteni, mintha azt az államigazgatási szervnél töltötte volna el.
 
-(5) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél foglalkoztatott kormánytisztviselő esetében a végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A pártfogó felügyelő esetében szolgálati viszonyban töltött időnek minősül a gyámhivatalnál megszakítás nélkül köztisztviselőként és más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként eltöltött idő is. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett kormánytisztviselő esetében kormánytisztviselői jogviszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
+(5) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél foglalkoztatott kormánytisztviselő esetében a végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A pártfogó felügyelő esetében szolgálati viszonyban töltött időnek minősül a gyámhatóságnál megszakítás nélkül köztisztviselőként és más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként eltöltött idő is. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett kormánytisztviselő esetében kormánytisztviselői jogviszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
 
 (6) Az igazságügyi alkalmazott korábbi vezetői beosztása e törvény hatálybalépésével egyidejűleg vezetői munkakörré alakul át; az Igazságügyi Hivatal
 

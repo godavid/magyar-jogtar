@@ -690,7 +690,10 @@ terheli.
 
 (8) Az élelmiszerlánc-felügyeleti hatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv a közös ügyfél törzsadat-kezelő rendszer működtetéséről írásban állapodnak meg, melynek ki kell terjednie a közös ügyfél törzsadatok körének meghatározására, működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
 
-38/B. § (1) Az a természetes személy vagy gazdálkodó szervezet, aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
+38/B. § (1) Az a
+
+- a) természetes személy vagy gazdálkodó szervezet,
+- b) mezőgazdasági őstermelő és a családi gazdálkodó, aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek valamelyikét Magyarország területén végzi, köteles a 38. § (2) bekezdés c) pontja szerinti adatait, a ténylegesen végzett élelmiszerlánc-felügyelet alá tartozó tevékenységét (tevékenységeit), továbbá a tevékenység végzésének helyét (helyeit) az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik a 2. § (3) bekezdése szerinti tevékenységekre.
 
 (2) Az élelmiszerlánc-felügyeleti szerv az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg FELIR azonosító számot (a továbbiakban: FELIR azonosító) állapít meg a nyilvántartásba vétel igazolására. Amennyiben a FELIR azonosítóval rendelkező ügyfél a továbbiakban nem végez a 47/B. § (2) bekezdése szerinti tevékenységet, akkor a FELIR azonosító egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt élelmiszerlánc szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig köteles megőrizni.
 
@@ -985,7 +988,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 52. § (1) Az állat-járványügyi intézkedések közül egyszerre több is elrendelhető.
 
-(2) Az 51. § (3) bekezdésének d)–g), valamint s)–u) pontjában meghatározott állat-járványügyi intézkedések elrendeléséről szóló határozatot egyidejűleg az érintett települési önkormányzat jegyzőjével (a fővárosban a kerületi jegyzővel) is közölni kell. A jegyző köteles a megküldött határozatokat a helyben szokásos módon közzétenni.
+(2) Az 51. § (3) bekezdésének d)–g), valamint s) és t) pontjában meghatározott állat-járványügyi intézkedések elrendeléséről szóló határozatot egyidejűleg az illetékes járási (fővárosi körzeti) hivatallal is közölni kell. Az illetékes járási (fővárosi körzeti) hivatal köteles a megküldött határozatokat a helyben szokásos módon közzétenni.
 
 (3) Nagy gazdasági kárral fenyegető, illetve nemzetközi kereskedelmet akadályozó fertőző állatbetegség kitörésekor – amennyiben azt a fertőző állatbetegség rendkívüli veszélye indokolja – a miniszter megtilthatja az élő állat, állati eredetű termék és élelmiszer, takarmány, továbbá járványos állatbetegség terjesztésére alkalmas egyéb áru Magyarország területéről történő kiszállítását, behozatalát, illetve a betegség terjedésének megállításához, valamint a betegség felszámolásához szükséges állat-járványügyi intézkedéseket foganatosíthat.
 

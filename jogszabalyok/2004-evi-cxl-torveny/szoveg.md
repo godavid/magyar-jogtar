@@ -101,9 +101,9 @@ a következő törvényt alkotja:
 (3) E törvény alkalmazása szempontjából közigazgatási hatóság (a továbbiakban: hatóság) a hatósági ügy intézésére hatáskörrel rendelkező
 
 - a) államigazgatási szerv,
-- b) helyi önkormányzat képviselő-testülete, ideértve a megyei önkormányzat közgyűlését is, valamint a 19. § (2) bekezdése szerint átruházott hatáskörben annak szervei és társulása,
-- c) a polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
-- d) főjegyző, jegyző, körjegyző, a képviselő-testület hivatalának ügyintézője, a hatósági igazgatási társulás,
+- b) helyi önkormányzati képviselő-testület, ideértve a megyei önkormányzat közgyűlését is, valamint átruházott hatáskörben annak a 19. § (2) bekezdése szerinti szervei,
+- c) polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester),
+- d) főjegyző, jegyző (a továbbiakban együtt: jegyző),
 - e) törvény vagy kormányrendelet által közigazgatási hatósági jogkör gyakorlására feljogosított egyéb szervezet, köztestület vagy személy.
 
 (4) Ha törvény vagy kormányrendelet egyéb szervezetet, köztestületet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, meg kell határozni azokat az ügyeket, amelyekben e törvény rendelkezései az irányadók.
@@ -127,7 +127,8 @@ a következő törvényt alkotja:
 - i) a társadalombiztosítás ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a balettművészeti életjáradékkal és az átmeneti bányászjáradékkal kapcsolatos eljárásban,
 - j) az adatvédelmi és titokfelügyeleti hatósági eljárásban,
 - k) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői eljárásokban,
-- l) a jegybanki ellenőrzés során, a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban
+- l) a jegybanki ellenőrzés során, a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti eljárásokban, valamint a forgalomban lévő magyar törvényes fizetőeszközről utánzat készítésével kapcsolatos eljárásokban,
+- m) a kisajátítási eljárásban
 
 csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg.
 
@@ -252,7 +253,7 @@ kezelésére.
 
 19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
 
-(2) Önkormányzati hatósági ügyben első fokon a képviselő-testület, törvény rendelkezése alapján a polgármester jár el. A képviselő-testület ezt a hatáskörét önkormányzati rendeletben a polgármesterre, a képviselő-testület bizottságára vagy társulásra ruházhatja át.
+(2) Ha önkormányzati rendelet eltérően nem rendelkezik, önkormányzati hatósági ügyben első fokon a képviselő-testület jár el. A képviselő-testület ezt a hatáskörét a polgármesterre, a bizottságára, a társulására vagy a jegyzőre ruházhatja át.
 
 (3) A hatóság a hatáskörét vagy annak gyakorlását más hatóságra nem ruházhatja át, kivéve, ha törvény a hatáskör törvényben meghatározott esetben, az ott meghatározott másik hatóságra való átruházását kivételesen lehetővé teszi. Nem minősül a hatáskör átruházásának, ha a hatáskör gyakorlója kiadmányozási jogát jogszerűen átengedte.
 
@@ -268,7 +269,7 @@ kezelésére.
 
 (4) Az ismételten mulasztó hatóságtól az ügy nem vonható el, és az eljárásra más hatóság nem jelölhető ki, ha a hatóság hatásköre hatósági igazolvány vagy hatósági bizonyítvány kiadására, hatósági nyilvántartás vezetésére terjed ki, vagy ha hatásköre kizárólagos. A hatóság legkésőbb a felügyeleti szerv utasításától számított tizenöt napon belül köteles eleget tenni elmulasztott kötelezettségének. A felügyeleti szerv az utasítással egyidejűleg fegyelmi eljárást kezdeményez a mulasztó hatóság vezetője ellen, amely kezdeményezés alapján a fegyelmi eljárás megindítása kötelező.
 
-(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a fővárosi és megyei kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
+(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás vagy a jegyző (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a fővárosi és megyei kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
 
 (6) Az (5) bekezdés alapján az önkormányzati hatósághoz intézett felhívás eredménytelensége esetén az ügyfél vagy a fővárosi és megyei kormányhivatal, továbbá ha az adott ügyben nincs felügyeleti szerv, vagy a felügyeleti szerv az intézkedési, eljárási kötelezettségének nem tesz eleget, az ügyfél kérelmére a közigazgatási ügyekben eljáró bíróság kötelezi a hatóságot az eljárás lefolytatására.
 
@@ -324,7 +325,7 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 (3) Ha az (1) bekezdés szerinti eljárás nem vezetett eredményre, az eljáró hatóságot a következő szerv jelöli ki:
 
 - a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal,
-- b) hatásköri összeütközés esetén a Fővárosi Ítélőtábla.
+- b) hatásköri összeütközés esetén a Fővárosi Közigazgatási és Munkaügyi Bíróság.
 
 (4) Az egyeztetést kezdeményező hatóság kérelmére a (3) bekezdés a) pontjában foglalt esetben tizenöt napon belül kell kijelölni az eljáró hatóságot.
 
@@ -332,9 +333,9 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 
 (6) Az illetékességi vitában hozott végzés ellen jogorvoslatnak nincs helye.
 
-24. § (1) A Fővárosi Ítélőtábla a hatásköri vitában az ügyfél vagy a hatóság kérelmére soron kívül nemperes eljárásban dönt.
+24. § (1) A Fővárosi Közigazgatási és Munkaügyi Bíróság a hatásköri vitában az ügyfél vagy a hatóság kérelmére soron kívül nemperes eljárásban dönt.
 
-(2) A Fővárosi Ítélőtábla határozata ellen fellebbezésnek nincs helye.
+(2) A Fővárosi Közigazgatási és Munkaügyi Bíróság határozata ellen fellebbezésnek nincs helye.
 
 ### Eljárás az illetékességi területen kívül
 
@@ -825,7 +826,7 @@ számított nyolc napon belül értesíteni kell.
 
 (4) Az ügy elintézésében nem vehet részt az a hatóság, amelynek jogát vagy jogos érdekét az ügy közvetlenül érinti. A hatóság nem válik kizárttá amiatt, mert a határozatban megállapított fizetési kötelezettség teljesítése az általa megjelölt számlára történik.
 
-(5) A jegyző mint hatóság nem vehet részt annak a hatósági ügynek az elintézésében, amelyben az őt foglalkoztató önkormányzat, a foglalkoztató önkormányzat társulása vagy az egyéb munkáltatói jogokat gyakorló polgármester ellenérdekű ügyfél, illetve a határozattal az önkormányzat, a társulás vagy a polgármester jogosulttá vagy kötelezetté válhat, vagy az eljárás tárgyával összefüggő kötelezettséget vállal.
+(5) A jegyző mint hatóság nem vehet részt annak a hatósági ügynek az elintézésében, amelyben az illetékességi területének az önkormányzata, az önkormányzat szerve vagy a polgármester ellenérdekű ügyfél, illetve a határozattal az illetékességi területének az önkormányzata, az önkormányzat szerve vagy a polgármester jogosulttá vagy kötelezetté válhat, vagy az eljárás tárgyával összefüggő kötelezettséget vállal.
 
 (6) Az ügy elintézésében nem vehet részt az a hatóság, amelyik hatóság vezetőjével szemben kizárási ok merül fel.
 
@@ -932,7 +933,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) Az (1) bekezdésben foglalt korlátozás nem alkalmazható arra az esetre, ha az idézés célja a tárgyaláson, egyeztetésen való részvétel, továbbá ha a megkeresés útján történő meghallgatás csorbítaná az ügyfél (ügyfelek) eljárási jogait, illetve, ha az idézni kívánt személy lakcímén nem működik olyan hatóság, amely megfelelő szakismeretek birtokában tudná elvégezni a szükséges eljárási cselekményt.
 
-(3) A fővárosban működő hatóság a főváros, a körjegyző a körjegyzőség, a hatósági igazgatási társulás kiadmányozási jogkörrel rendelkező vezetője a társulás egész területéről idézhet.
+(3) A fővárosban működő hatóság a főváros, a társulás pedig a társulás egész területéről idézhet.
 
 (4) Ha az idézett személy kora, egészségügyi állapota, mozgásszervi fogyatékossága vagy más ok miatt a hatóság előtt nem képes megjelenni, az idézett személyt a tartózkodási helyén kell meghallgatni.
 
@@ -1960,9 +1961,9 @@ teljesíti.
 
 (4) Ha törvény vagy kormányrendelet nem hatósági feladat ellátására létrehozott szervezetet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, és annak döntése ellen a fellebbezés nem kizárt, a törvényben vagy kormányrendeletben meg kell határozni a fellebbezés elbírálására jogosult hatóságot. Ennek hiányában a fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására.
 
-107. § (1) Az önkormányzati hatósági ügyben átruházott hatáskörben hozott, továbbá a polgármester törvény alapján önálló hatáskörben hozott önkormányzati hatósági döntésével szembeni fellebbezés elbírálása a képviselő-testület hatáskörébe tartozik.
+107. § (1) Önkormányzati hatósági ügyben a fellebbezés elbírálása a képviselő-testület hatáskörébe tartozik, ha az elsőfokú döntést nem a képviselő-testület hozta.
 
-(2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a Kormány általános hatáskörű területi államigazgatási szerve jogosult a fellebbezés elbírálására, ha első fokon az (1) bekezdés hatálya alá nem tartozó hatósági ügyekben a polgármester vagy a 12. § (3) bekezdés d) pontjában meghatározott hatóság járt el.
+(2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására, ha első fokon államigazgatási hatósági ügyben a járási (fővárosi kerületi) hivatal, a polgármester vagy a jegyző járt el.
 
 (3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben bírósági felülvizsgálatnak van helye.
 
@@ -2323,7 +2324,7 @@ teljesíti.
 
 (2) A kötelezett, a jogosult, továbbá az, akinek jogát vagy jogos érdekét a végrehajtás sérti, a végrehajtást foganatosító szerv törvénysértő döntése, intézkedése ellen vagy az intézkedés elmulasztása esetén a végrehajtást foganatosító szervnél végrehajtási kifogást terjeszthet elő. A végrehajtási kifogást az intézkedésről való tudomásszerzést vagy az akadály megszűnését követő nyolc napon belül, de legkésőbb az intézkedéstől számított három hónapon belül lehet előterjeszteni.
 
-(3) A fellebbezést és a végrehajtási kifogást a fellebbezés elbírálására jogosult hatóság tizenöt napon belül bírálja el. A végrehajtási kifogást a végrehajtást megindító hatóság döntései elleni fellebbezés elbírálására jogosult hatóság bírálja el, ha a végrehajtást bírósági végrehajtó foganatosítja. Az önálló bírósági végrehajtót megillető díjazással kapcsolatos végrehajtási kifogást a végrehajtó székhelye szerint illetékes helyi bíróság bírálja el.
+(3) A fellebbezést és a végrehajtási kifogást a fellebbezés elbírálására jogosult hatóság tizenöt napon belül bírálja el. A végrehajtási kifogást a végrehajtást megindító hatóság döntései elleni fellebbezés elbírálására jogosult hatóság bírálja el, ha a végrehajtást bírósági végrehajtó foganatosítja. Az önálló bírósági végrehajtót megillető díjazással kapcsolatos végrehajtási kifogást a végrehajtó székhelye szerint illetékes járásbíróság bírálja el.
 
 (4) Ha törvény eltérően nem rendelkezik, a fellebbezésnek és a végrehajtási kifogásnak a döntés végrehajtására nincs halasztó hatálya. A végrehajtási kifogásra a fellebbezésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -2700,7 +2701,7 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 
 (2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
-(3) A bírósági felülvizsgálat során a Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
+(3) A bírósági felülvizsgálat során a Fővárosi Közigazgatási és Munkaügyi Bíróság három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
 
 169/K. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság jogerős és végrehajtható határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat jogsértést állapított meg.
 

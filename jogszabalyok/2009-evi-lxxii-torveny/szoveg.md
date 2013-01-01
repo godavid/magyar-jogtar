@@ -113,7 +113,7 @@ alapján rendelheti el.
 
 7. § (1) A rendőrség az ideiglenes megelőző távoltartó határozatot haladéktalanul, a helyszínen köteles meghozni. Ha a rendőrség az eljárása során a bántalmazóval szemben az előállítás rendőri intézkedést alkalmazza, a rendőrség a határozatot legkésőbb az előállítás időtartamának lejártáig hozza meg.
 
-(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat egyidejű megküldésével, az arra illetékes helyi bíróságnál kezdeményezi a megelőző távoltartás elrendelését.
+(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat egyidejű megküldésével, az arra illetékes járásbíróságnál kezdeményezi a megelőző távoltartás elrendelését.
 
 ### Az ideiglenes megelőző távoltartó határozat
 
@@ -136,7 +136,7 @@ alapján rendelheti el.
 
 (2) Ha a bántalmazó a határozatot a rendőrségen nem veszi át, a határozatot a meghozatalát követő harmadik napon közöltnek kell tekinteni. E határidő elmulasztása ellen a Ket.-ben meghatározottak szerint igazolásnak van helye.
 
-(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhivatalnak is megküldi.
+(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhatóságnak is megküldi.
 
 (4) A rendőrség értesítése alapján a távoltartó határozat meghozatalát követő huszonnégy órán belül a családsegítő szolgálat, együtt élő kiskorú hozzátartozó esetében a gyermekjóléti szolgálat köteles a bántalmazottat és a bántalmazót felkeresni és velük segítő kapcsolatot kezdeményezni, illetve a kiskorút veszélyeztető helyzet megszüntetése érdekében intézkedni.
 
@@ -152,7 +152,7 @@ alapján rendelheti el.
 
 12. § (1) A határozat bírói felülvizsgálatára a közigazgatási nemperes eljárásokra vonatkozó általános szabályokat az alábbi eltérésekkel kell alkalmazni.
 
-(2) A határozat bírósági felülvizsgálatát a határozat kézbesítésétől számított három napon belül lehet kérni. A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság jogosult.
+(2) A határozat bírósági felülvizsgálatát a határozat kézbesítésétől számított három napon belül lehet kérni. A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság jogosult.
 
 (3) A kérelem benyújtásának a távoltartó határozat végrehajtására nincs halasztó hatálya, azonban a bíróság a határozat végrehajtását felfüggesztheti.
 
@@ -168,7 +168,7 @@ alapján rendelheti el.
 
 (2) A megelőző távoltartás elrendelésére irányuló nemperes eljárásra a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell.
 
-(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság illetékes.
+(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti járásbíróság illetékes.
 
 (4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként és ügyészként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Pp. szerinti hozzátartozója sem.
 

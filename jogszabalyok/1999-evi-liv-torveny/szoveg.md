@@ -28,6 +28,23 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
+(1a) A NEBEK az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján létrehozott Europol Információs Rendszerbe az alábbi személyekre vonatkozó személyes adatokat továbbíthatja:
+
+- a) akiket magyar törvény értelmében olyan bűncselekmény elkövetésével vagy abban való részességgel gyanúsítanak, amely az Európai Rendőrségi Hivatal (EUROPOL) hatáskörébe tartozik, vagy akiket ilyen bűncselekményért elítéltek, vagy
+- b) akikről megalapozottan feltehető, hogy az Európai Rendőrségi Hivatal (EUROPOL) hatáskörébe tartozó bűncselekményt fognak elkövetni vagy készítenek elő Magyarország, illetve más tagállam területén.
+
+(1b) Az Europol Információs Rendszerbe a következő, az (1a) bekezdésben meghatározott személyekre vonatkozó személyes adatok továbbíthatóak:
+
+- a) az érintett vezetékneve, leánykori neve, utóneve, illetve bármilyen álneve vagy felvett neve,
+- b) az érintett születési helye és ideje,
+- c) az érintett állampolgársága,
+- d) az érintett neme,
+- e) az érintett lakóhelye, tartózkodási helye, illetve foglalkozása,
+- f) az érintett társadalombiztosítási azonosítását szolgáló magyar vagy külföldi azonosító jele,
+- g) az érintett járművezetői engedélyének, személyazonosítására szolgáló okmányának és útlevelének az adatai,
+- h) – szükség esetén – az érintett személyazonosítását valószínűleg elősegítő ismertetőjelére vonatkozó adat, ideértve bármely különleges, objektív és nem változó testi ismertetőjelre vonatkozó adatot is, így különösen a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti ujj- és tenyérnyomatot, illetve DNS-profilt, és
+- i) az érintett a)–h) pontba nem tartozó egyéb, az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján az Europol Információs Rendszerbe bevihető, törvény alapján a NEBEK által kezelhető személyes adata.
+
 (2) A NEBEK jogosult – közvetlen hozzáféréssel is – az (1) bekezdés alapján érkezett megkeresés teljesítéséhez szükséges személyes és bűnüldözési adatot térítés nélkül átvenni az együttműködő szervek által kezelt adatállományokból, amennyiben törvény vagy az Európai Unió jogi aktusa az adatok átvételét, illetőleg külföldre továbbítását az 1. § (1) bekezdésében meghatározott célok valamelyikéből lehetővé teszi.
 
 (3) Az adatátvételi igényt a megkeresett adatkezelő haladéktalanul köteles a leggyorsabb adattovábbítási úton teljesíteni. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
@@ -66,6 +83,13 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (6) A NEBEK a részére a SIS-ben részt vevő más állam SIRENE Irodája által továbbított kiegészítő információkat legkésőbb az azok alapját képező figyelmeztető jelzés törlésével egy időben törli. A NEBEK a magyar hatóság által elrendelt figyelmeztető jelzéshez, valamint a magyar hatóság által foganatosított intézkedéshez kapcsolódó kiegészítő információkat legkésőbb az azok alapját képező figyelmeztető jelzés törlésével egy időben törli.
 
+9/B. § (1) Ha a 4. § (1a) bekezdésben meghatározott személlyel szemben a büntetőeljárást megszüntették vagy vele szemben felmentő ítéletet hoztak,
+
+- a) az a szerv, amelynél e személyre vonatkozó, a NEBEK által az Europol Információs Rendszerbe továbbított adat keletkezett, illetve
+- b) az a szerv, amely e személyre vonatkozó, a NEBEK által az Europol Információs Rendszerbe továbbított adat továbbítását kezdeményezte, haladéktalanul köteles a NEBEK-nél kezdeményezni ezen adatok törlését az Europol Információs Rendszerből.
+
+(2) A NEBEK az Europol Információs Rendszerbe továbbított adatok tekintetében az adattovábbítást követően az Európai Rendőrségi Hivatal (EUROPOL) erre vonatkozó értesítését követően haladéktalanul az adat további tárolása szükségességének felülvizsgálatát kezdeményezi annál a szervnél, amelynél az adat keletkezett, illetve amely az adat továbbítását kezdeményezte.
+
 10. § (1) A NEBEK vezetője, illetőleg az adattovábbításban érintett hazai adatkezelő szerv vezetője gondoskodik a nemzetközi szervezet által meghatározott, illetőleg a külön törvényben, az Európai Unió jogi aktusában vagy nemzetközi szerződésben foglalt adatvédelmi, adatbiztonsági és titokvédelmi követelmények betartásáról.
 
 (2) A NEBEK vezetője a Magyarország által kötött nemzetközi szerződés hatálya alá tartozó adat esetében feladat- és hatáskörében minősítésre jogosult.
@@ -90,6 +114,6 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 18. § E törvény a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkei végrehajtásához szükséges rendelkezéseket állapít meg [3. §, 6. §, 10. §].
 
-19. §
+19. § Ez a törvény az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozatnak való megfelelést szolgálja.
 
 20. §

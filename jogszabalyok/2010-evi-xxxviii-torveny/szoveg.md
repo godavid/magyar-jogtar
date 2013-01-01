@@ -205,14 +205,14 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (4) Az (1) bekezdésben meghatározott teljesítési határidőbe nem számít bele a konzuli védelemről szóló törvény szerint, ha az eljárásban a fogadó állam hatóságának megkeresése vagy diplomáciai, illetve konzuli futárposta igénybevétele szükséges, a megkeresés teljesítésének időtartama vagy a posta továbbításához szükséges idő.
 
-24. § (1) A leltár egy példányát – az ok megjelölésével – az illetékes gyámhivatalnak is meg kell küldeni a szükséges intézkedések megtétele végett, ha az öröklésben olyan személy látszik érdekeltnek, akinek nincs törvényes képviselője, vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el és
+24. § (1) A leltár egy példányát – az ok megjelölésével – az illetékes gyámhatóságnak is meg kell küldeni a szükséges intézkedések megtétele végett, ha az öröklésben olyan személy látszik érdekeltnek, akinek nincs törvényes képviselője, vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el és
 
 - a) méhmagzat,
 - b) cselekvőképtelen, valamint korlátozottan cselekvőképes kiskorú,
 - c) cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú,
 - d) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen helyen tartózkodó vagy az ügyeinek vitelében más okból akadályozott természetes személy.
 
-(2) A gyámhivatal az (1) bekezdésben meghatározott esetekben gyámot, gondnokot, illetve eseti gondnokot rendel ki, és erről a közjegyzőt értesíti.
+(2) A gyámhatóság az (1) bekezdésben meghatározott esetekben gyámot, gondnokot, illetve eseti gondnokot rendel ki, és erről a közjegyzőt értesíti.
 
 25. § (1) Ha a hagyatékhoz olyan vagyontárgyak tartoznak, amelyeknek az örökhagyó csak meghatározott hányadban volt tulajdonosa, ezeket a vagyontárgyakat fel kell venni a hagyatéki leltárba, egyúttal meg kell jelölni az örökhagyót megillető hányadot és csak ennek a hányadnak az értékét kell feltüntetni.
 
@@ -238,7 +238,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 - b) ügyvéd volt, akkor a Magyar Ügyvédi Kamarát,
 - c) önálló bírósági végrehajtó volt, akkor a Magyar Bírósági Végrehajtói Kamarát,
 - d) igazságügyi szakértő volt, akkor a Magyar Igazságügyi Szakértői Kamarát vagy
-- e) gyám vagy gondnok volt, akkor a gyámhivatalt a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
+- e) gyám vagy gondnok volt, akkor a gyámhatóságot a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
 (3) A jegyző vagy a közjegyző a (2) bekezdésben meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 
@@ -290,7 +290,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (6) Végrendeleti öröklés esetében az (1)–(5) bekezdésben foglaltakat csak akkor lehet alkalmazni, ha az adott tevékenységet nem végrendeleti végrehajtó látja el.
 
-33. § Ha a hagyatékhoz tartozó vagyontárgyaknak vagy azok egy részének a 32. § (1) bekezdés szerinti veszélyeztetése megállapítható, biztosítási intézkedés elrendelésének a gyámhivatal értesítéséig hivatalból is helye van, ha az öröklésben olyan személy látszik érdekeltnek, aki:
+33. § Ha a hagyatékhoz tartozó vagyontárgyaknak vagy azok egy részének a 32. § (1) bekezdés szerinti veszélyeztetése megállapítható, biztosítási intézkedés elrendelésének a gyámhatóság értesítéséig hivatalból is helye van, ha az öröklésben olyan személy látszik érdekeltnek, aki:
 
 - a) méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes személy és nincs törvényes képviselője vagy törvényes képviselője akár a törvény kizáró rendelkezése folytán, akár tényleges akadály miatt az ügyben nem járhat el, vagy
 - b) törvényes képviselővel vagy meghatalmazottal nem rendelkező olyan személy, aki ismeretlen helyen tartózkodik, vagy az ügyben más okból eljárni nem tud.
@@ -944,7 +944,7 @@ végzés ellen.
 
 112. § A fellebbezési jogról előzetesen lemondani nem lehet. A végzés közlése után sem mondhat le képviseltje nevében a fellebbezési jogról a természetes személy törvényes képviselője, valamint a gyám, az eseti és az ügygondnok.
 
-113. § (1) A közjegyző végzése a jogorvoslat szempontjából a helyi bíróság által hozott végzéssel azonos hatályú.
+113. § (1) A közjegyző végzése a jogorvoslat szempontjából a járásbíróság által hozott végzéssel azonos hatályú.
 
 (2) A közjegyző végzése elleni fellebbezést a végzést hozó közjegyzőnél kell előterjeszteni és a törvényszékhez kell címezni.
 

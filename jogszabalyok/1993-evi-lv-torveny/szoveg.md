@@ -91,7 +91,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A nyilatkozat elfogadása esetén a miniszter bizonyítványban igazolja az állampolgárság megszerzését.
 
-(3) A miniszter határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
+(3) A miniszter határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 ### Hatásköri szabályok, eskü és fogadalom
 
@@ -129,7 +129,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) Ha az (1) bekezdésben megállapított feltételek fennállnak, a miniszter javaslatot tesz a köztársasági elnöknek a lemondás elfogadására. A magyar állampolgárság lemondással való megszűnéséről a köztársasági elnök okiratot ad ki. A magyar állampolgárság az okirat kiállítása napján szűnik meg.
 
-(3) A miniszter határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
+(3) A miniszter határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 (4) A lemondás elfogadásától számított egy éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
 
@@ -137,7 +137,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 9. § (1) A magyar állampolgárság visszavonható attól a személytől, aki magyar állampolgárságát a jogszabályok megszegésével, így különösen valótlan adatok közlésével, illetve adatok vagy tények elhallgatásával a hatóságot félrevezetve szerezte meg. Nincs helye a visszavonásnak a magyar állampolgárság megszerzésétől számított tíz év elteltével.
 
-(2) Az állampolgárság visszavonására okot adó tény fennállását a miniszter határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
+(2) Az állampolgárság visszavonására okot adó tény fennállását a miniszter határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 (3) A magyar állampolgárság visszavonással történő megszüntetéséről — a miniszter előterjesztése alapján — a köztársasági elnök dönt.
 
@@ -160,7 +160,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 - e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztását és a hatóság bélyegzőlenyomatát,
 - f) az állampolgársági bizonyítvány érvényességi idejét.
 
-(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Törvényszéktől kérhető.
+(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
 
@@ -259,7 +259,7 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - a) betekinthet az anyakönyvbe, az anyakönyvi alapiratokba, és ezekről másolatot kérhet;
 - b) adatot kérhet és betekinthet a polgárok személyi adat- és lakcímnyilvántartásába és a külföldiek nyilvántartásába;
 - c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől és a bíróságtól;
-- d) véleményt kérhet a jegyzőtől, a konzultól, a gyámhatóságtól és az idegenrendészeti hatóságoktól, továbbá véleményt kér a rendőrségtől és az illetékes nemzetbiztonsági szolgálattól.
+- d) véleményt kérhet a jegyzőtől, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától (a továbbiakban: járási hivatal), a konzultól, a gyámhatóságtól és az idegenrendészeti hatóságoktól, továbbá véleményt kér a rendőrségtől és az illetékes nemzetbiztonsági szolgálattól.
 
 20. § Az állampolgársági iratok nem selejtezhetők, őrzésükről és nyilvántartásukról a miniszter gondoskodik.
 
@@ -320,7 +320,7 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 
 - a) a miniszter e törvényben meghatározott feladatainak részletes szabályait és kijelölje az e törvény 5/A. § (2)–(3) bekezdésében, 8. § (3) bekezdésében, 14. § (4) és (6) bekezdésében, 16. § (1) és (3) bekezdésében, 17. § (1) és (4) bekezdésében, (6) bekezdésében, (8) bekezdésében az előterjesztést kivéve, a 19. § (2) és (3) bekezdésében, 20. §-ában, továbbá a 20/A. § (3) bekezdésében meghatározott feladatokat a miniszter nevében ellátó állampolgársági ügyekben eljáró szervet,
 - b) az eskü vagy fogadalom letételével kapcsolatos feladatokat;
-- c) a jegyzőnek, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
+- c) a járási hivatalnak, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
 - d) az eljárásban használandó formanyomtatványokat;
 - e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a fővárosi és megyei kormányhivatalnak a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
 

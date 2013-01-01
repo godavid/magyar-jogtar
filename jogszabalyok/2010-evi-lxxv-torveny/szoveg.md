@@ -23,6 +23,8 @@ az egyszerűsített foglalkoztatásról
 
 létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
 
+(4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén nem kell alkalmazni.
+
 (5) E törvény szabályai nem zárják ki, hogy az (1) bekezdésben foglalt esetekben a munkáltató és a munkavállaló az Mt. általános szabályai szerint létesítsen munkaviszonyt.
 
 2. § E törvény alkalmazásában:
@@ -37,6 +39,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 - 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
 - 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 7. idénymunka: az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
+- 8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a mozgóképről szóló 2004. évi II. törvényben meghatározott filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
 
 ### Az egyszerűsített foglalkoztatás céljára létrehozott munkaviszony
 
@@ -48,9 +51,11 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 4. § (1) Egyszerűsített foglalkoztatás céljára létesített munkaviszonyra az Mt., valamint a kötelező legkisebb munkabérről és a garantált bérminimumról szóló külön jogszabály rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján személyi alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
+(1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
 
-(2)–(3)
+(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a 12 000 forintot.
+
+(3)
 
 (4)
 
@@ -80,14 +85,14 @@ kiadása érdekében.
 
 8. § (1) A munkáltató a 7. § (2) bekezdésében meghatározott egyszerűsített foglalkoztatásra irányuló munkaviszony alapján a (2) bekezdésben meghatározott közterhet fizet.
 
-(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a 7. § (2) bekezdés a) pontja esetén a munkaviszony minden naptári napjára munkavállalóként 500 forint, a 7. § (2) bekezdés b) pontja esetén a munkaviszony minden naptári napjára munkavállalóként 1000 forint.
+(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a 7. § (2) bekezdés a) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 500 forint, a 7. § (2) bekezdés b) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 1000 forint. A 2. § 8. pontjában meghatározott filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a munkaviszony minden naptári napjára munkavállalónként 3000 forint.
 
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
 - a) a munkáltatót társadalombiztosítási járulék, szakképzési hozzájárulás, egészségügyi hozzájárulás és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
 - b) a munkavállalót nyugdíjjárulék (tagdíj), egészségbiztosítási és munkaerő-piaci járulékfizetési, egészségügyi hozzájárulás-fizetési és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
-(4) Ha a munkáltató a (2) bekezdésben szereplő közteherrel terhelt munkára az 1. § (2)–(4) bekezdésében és a 2. § 1–3. pontjaiban meghatározott létszám-, illetve időkorlátok túllépésével létesít, illetve tart fenn e törvény szerinti munkaviszonyt, attól a naptól, hogy az előzőek szerinti feltételek nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja az (1)–(3) bekezdés rendelkezéseit. A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles továbbá alkalmazni az előzőek szerinti feltételek megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdéseket jogosulatlanul alkalmazta.
+(4) Ha a munkáltató a (2) bekezdésben szereplő közteherrel terhelt munkára az 1. § (2)–(4) bekezdésében, a 2. § 1–3. pontjában és a 4. § (2) bekezdésében meghatározott létszám-, kereseti-, illetve időkorlátok túllépésével létesít, illetve tart fenn e törvény szerinti munkaviszonyt, attól a naptól, hogy az előzőek szerinti feltételek nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja az (1)–(3) bekezdés rendelkezéseit. A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles továbbá alkalmazni az előzőek szerinti feltételek megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdést jogosulatlanul alkalmazta.
 
 (5) Az (1) bekezdésben foglaltaktól eltérően, ha
 
@@ -98,11 +103,11 @@ a munkáltató közterhet nem fizet.
 
 9. § (1) E törvény alkalmazásában a 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.
 
-(2) A 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemről a természetes személynek nem kell bevallást benyújtania, kivéve, ha
+(2) A 7. § (2) bekezdésében említett foglalkoztatásból származó bevételből – figyelemmel a (4) bekezdés rendelkezésére – a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, kivéve, ha az egyszerűsített foglalkoztatásból származó bevétele meghaladja az e foglalkoztatás naptári napjai száma és az adóév első napján hatályos kötelező legkisebb munkabér napibérként meghatározott összegének szorzatát (e szorzat a továbbiakban: mentesített keretösszeg).
 
-- a) külföldi személy vagy
-- b) egyszerűsített foglalkoztatásból származó jövedelme az adóévben a 840 ezer forintot meghaladja vagy
-- c) az egyszerűsített foglalkoztatásból származó jövedelme mellett az Szja.tv. alkalmazásában adóterhet nem viselő járandóságnak minősülő jövedelmén kívül más, az Szja.tv. szerinti adóbevallási kötelezettség alá eső jövedelme is volt.
+(3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
+
+(4) A (2)–(3) bekezdés rendelkezésétől eltérően a természetes személynek a filmipari statisztaként végzett – e törvény hatálya alá tartozó – alkalmi munkából származó bevételéből nem kell jövedelmet megállapítania és bevallást benyújtania.
 
 ### Ellátásra való jogosultság
 
@@ -111,7 +116,7 @@ a munkáltató közterhet nem fizet.
 - a) nem minősül a Tbj. szerinti biztosítottnak,
 - b) nyugellátásra, baleseti egészségügyi szolgáltatásra, valamint álláskeresési ellátásra szerez jogosultságot.
 
-(2) A nyugellátás számításának alapja napi 500 forint közteher esetén 1370 forint/nap, napi 1000 forint közteher esetén 2740 forint/nap.
+(2) A nyugellátás számításának alapja napi 500 forint közteher esetén 1370 forint/nap, napi 1000 forint vagy azt meghaladó közteher esetén 2740 forint/nap.
 
 (3) A 8. § (5) bekezdésében említett személy nyugellátásra, baleseti egészségügyi szolgáltatásra és álláskeresési ellátásra nem szerez jogosultságot.
 
@@ -127,10 +132,11 @@ a munkáltató közterhet nem fizet.
 
 (3) A (2) bekezdés szerinti regisztrációt követően a munkáltató bejelentési kötelezettségét az (1) bekezdés a)–b) pontjában meghatározott módon, az egyszerűsített foglalkoztatás céljából létesített munkaviszonyra vonatkozó alábbi adatok közlésével teljesíti:
 
-- a) a munkáltató adószáma,
-- b) a munkavállaló adóazonosító jele és TAJ száma,
-- c) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
-- d) a munkaviszony napjainak száma.
+- a) a munkavállaló neve,
+- b) a munkáltató adószáma,
+- c) a munkavállaló adóazonosító jele és társadalombiztosítási azonosító jele,
+- d) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
+- e) a munkaviszony napjainak száma.
 
 (4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
 
@@ -186,6 +192,8 @@ rendeletben szabályozza.
 (5) Az Eftv. szerinti egyszerűsített foglalkoztatás e törvény hatálybalépésével megszűnik, e törvény hatálybalépését követően egyszerűsített foglalkoztatásra csak e törvény rendelkezései szerint létesíthető munkaviszony. Ettől eltérően az e törvény hatálybalépését megelőzően közhasznú szervezet által az Eftv. alapján létesített munkaviszonyt az Mt. hatálya alá tartozó, megszakítás nélkül fennálló munkaviszonynak kell tekinteni azzal, hogy a 2010. március 31-éig tartó adómegállapítási időszakra vonatkozóan az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény, a 2010. április 1.–július 31. közötti adómegállapítási időszakra vonatkozóan az Eftv. rendelkezéseit kell alkalmazni.
 
 (6) Az Eftv. alapján a növénytermesztési idénymunkát végeztető munkáltató az Eftv. rendelkezései szerint megfizetett közteher-előleg figyelembevételével teljesíti az e törvény szerinti fizetési kötelezettségét, illetve ha a megfizetett közteher-előleg összege magasabb, mint a 2010. évre fizetendő közteher összege, a különbözetről az Art. túlfizetésre vonatkozó szabályai szerint rendelkezhet.
+
+16/A. § Az egyes foglalkoztatási tárgyú törvényeknek a Magyary Egyszerűsítési Programmal összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCXVI. törvény 16. §-ával megállapított 9. § (2)–(4) bekezdése az egyszerűsített foglalkoztatásból 2012. évben megszerzett jövedelem személyi jövedelemadó-kötelezettségének megállapítása során is alkalmazható, ha az a természetes személy számára kedvezőbb.
 
 #### 17. §
 

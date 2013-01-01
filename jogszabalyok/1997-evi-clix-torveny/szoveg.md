@@ -267,7 +267,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint az egyesületekkel.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (továbbiakban: járási hivatal), valamint az egyesületekkel.
 
 10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által a Magyar Honvédség fokozott védelmet igénylő létesítményeinél létrehozott fegyveres biztonsági őrségnél működő fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel-, és levételének, valamint a fegyver átvételének és leadásának időtartamát.
 
@@ -275,89 +275,68 @@ alkalmazhat, illetve használhat.
 
 11. § Külön törvényben meghatározottak szerint a védett természeti területek természetvédelmi kezeléséért felelős szerv (a továbbiakban: nemzeti park igazgatóság) szervezetében természetvédelmi őrszolgálat működik, amelynek tagja az e törvényben és más jogszabályban meghatározott feladatokat ellátó, intézkedésre jogosult hivatalos személy.
 
-12. § A természetvédelmi őrszolgálat tagja (a továbbiakban: természetvédelmi őr) a nemzeti park igazgatóság működési területén jogosult és köteles:
+12. § (1) A természetvédelmi őrszolgálat tagja (a továbbiakban: természetvédelmi őr) a nemzeti park igazgatóság működési területén jogosult és köteles
 
-- a) a természet, valamint a régészeti örökség védelmére vonatkozó előírások betartását ellenőrizni;
-- b) a természet és a régészeti örökség védelmének érdekeit sértő, a természeti értéket és területet – beleértve a védett természeti értéket és területet, illetve a Natura 2000 területet – (a továbbiakban: természeti érték vagy terület) veszélyeztető vagy károsító, valamint régészeti lelőhelyet károsító jogellenes cselekményt elkövető személyt cselekményének abbahagyására felszólítani, feltartóztatni, igazoltatni, ellene eljárást kezdeményezni;
-- c) azt a személyt, akiről alaposan feltételezhető, hogy jogellenesen szerzett természeti értéket vagy régészeti leletet tart magánál, feltartóztatni, igazoltatni, ruházatát, valamint csomagját átvizsgálni;
-- d) azt a járművet, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett természeti érték vagy régészeti lelet van – a közlekedésrendészeti szabályok betartásával – feltartóztatni, átvizsgálni, a jármű vezetőjét és a járművön, illetve az abban tartózkodó személyt igazoltatni;
-- e) a természeti értéket vagy területet károsító vagy veszélyeztető, valamint régészeti örökséget károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személytől a jogellenesen szerzett természeti értéket, régészeti leletet, valamint az elkövetéshez (veszélyeztetéshez) használt eszközt visszatartani;
-- f) a természet, valamint a régészeti örökség védelmével összefüggő bűncselekmény elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható, vagy az intézkedésének ellenszegülő személyt elfogni, ruházatát átvizsgálni, valamint a rendőr megérkezéséig visszatartani, vagy a rendőrségre előállítani;
-- g) jogszerű intézkedésével szemben történt ellenszegülés megszüntetésére kényszerítő eszközt alkalmazni, az ellenszegülő vagy támadó személytől fegyvert, élet kioltására alkalmas, illetve más veszélyes eszközt elvenni és a rendőrségnek átadni;
-- h) jogszabályban meghatározott esetben helyszíni bírságot kiszabni;
-- i) természeti terület vagy érték károsításának megelőzése, illetve megakadályozása érdekében természeti területet – a természetvédelmi hatóság egyidejű értesítése mellett, a károsítás veszélyének elhárításáig ideiglenesen, vagy a természetvédelmi hatóság közlekedést vagy tartózkodást korlátozó vagy megtiltó határozata alapján – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon lezárni;
-- j) intézkedése végrehajtásának helyszíni biztosítása érdekében természeti területet – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon – lezárni.
+- a) a természet, valamint a régészeti örökség védelmére vonatkozó előírások betartásának ellenőrzése során,
+- b) a természet és a régészeti örökség védelmének érdekeit sértő, a természeti értéket és területet – beleértve a védett természeti értéket és területet, illetve a Natura 2000 területet – (a továbbiakban: természeti érték vagy terület) veszélyeztető vagy károsító, valamint régészeti lelőhelyet károsító jogellenes cselekményt elkövető személlyel szemben,
+- c) azzal a személlyel szemben, akiről alaposan feltételezhető, hogy jogellenesen szerzett természeti értéket vagy régészeti leletet tart magánál,
+- d) azzal a járművel szemben, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett természeti érték vagy régészeti lelet van,
+- e) a természeti értéket vagy területet károsító vagy veszélyeztető, valamint régészeti örökséget károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett természeti érték, régészeti lelet megóvása érdekében,
+- f) a természet, valamint a régészeti örökség védelmével összefüggő bűncselekmény elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható, vagy az intézkedésének ellenszegülő személlyel szemben
+
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
+
+(2) A természetvédelmi őr az (1) bekezdésben meghatározottakon túl a nemzeti park igazgatóság működési területén jogosult és köteles
+
+- a) jogszabályban meghatározott esetben helyszíni bírságot kiszabni,
+- b) természeti terület vagy érték károsításának megelőzése, illetve megakadályozása érdekében természeti területet – a természetvédelmi hatóság egyidejű értesítése mellett, a károsítás veszélyének elhárításáig ideiglenesen, vagy a természetvédelmi hatóság közlekedést vagy tartózkodást korlátozó vagy megtiltó határozata alapján – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon lezárni,
+- c) intézkedése végrehajtásának helyszíni biztosítása érdekében természeti területet – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon – lezárni.
 
 12/A. § A természetvédelmi őr – a helyszíni bírságolás kivételével – a nemzeti park igazgatóság működési területén kívül is jogosult a 12. § szerint intézkedni, ha a természet és a régészeti örökség védelmének érdekeit sértő jogellenes cselekményt észlel, vagy a nemzeti park igazgatóság működési területén kívüli szolgálatellátást az arra jogosult elrendeli.
 
-13. § (1) A természetvédelmi őr a 10. § (2) bekezdés a)–b)–c) pontjában meghatározott, a rendőrségnél rendszeresített kényszerítő eszközt alkalmazhat – a rendőrbot kivételével – az ott szabályozott esetekben.
+13. § (1)
 
-(2) A természetvédelmi őr intézkedéseire a 10. § (3)–(5) bekezdéseit – az e fejezetben foglalt eltérésekkel – megfelelően alkalmazni kell.
+(2)
 
 (3) A természetvédelmi őr szolgálati maroklőfegyver tartására jogosult, amelyet egyenruhás szolgálatban nyíltan viselhet.
 
 ### Önkormányzati természetvédelmi őrszolgálat
 
-14. § (1) Az önkormányzati természetvédelmi őr egyenruhával ellátott, intézkedésre jogosult hivatalos személy, aki a helyi jelentőségű védett természeti területen jogosult és köteles:
+14. § (1) Az önkormányzati természetvédelmi őr formaruhával ellátott, intézkedésre jogosult hivatalos személy, aki a helyi jelentőségű védett természeti területen jogosult és köteles
 
-- a) a helyi jelentőségű védett természeti területre vonatkozó előírások betartását ellenőrizni;
-- b) a helyi jelentőségű védett természeti területet veszélyeztető vagy károsító cselekményt elkövető személyt cselekményének abbahagyására felszólítani, feltartóztatni, igazoltatni, ellene eljárást kezdeményezni;
-- c) a helyi jelentőségű védett természeti területen károsító vagy veszélyeztető cselekmény elkövetésén tetten ért, vagy ezzel alaposan gyanúsítható személytől a területről származó és jogellenesen szerzett természeti vagy védett természeti értéket, illetve az elkövetéshez használt eszközt elvenni, és azt a lefoglalásra, illetőleg elkobzásra jogosult hatóságnak átadni;
-- d) jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
+- a) a helyi jelentőségű védett természeti területre vonatkozó előírások betartásának ellenőrzése során,
+- b) a helyi jelentőségű védett természeti területet veszélyeztető vagy károsító cselekményt elkövető személlyel szemben,
+- c) a helyi jelentőségű védett természeti területen károsító vagy veszélyeztető cselekmény elkövetésén tetten ért, vagy ezzel alaposan gyanúsítható személlyel szemben a területről származó és jogellenesen szerzett természeti vagy védett természeti érték megóvása érdekében
 
-(2) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére testi kényszert vagy a rendőrségnél rendszeresített könnygázszóró palackot alkalmazhat.
+az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
 
-(3) Az önkormányzati természetvédelmi őr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+(2) Az önkormányzati természetvédelmi őr az (1) bekezdésben meghatározottakon túl jogosult és köteles a jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
+
+(3) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott kényszerítő eszközt alkalmazhat.
 
 ### Közös szabályok
 
-15. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr a kényszerítő eszköz alkalmazásáról a munkáltató útján haladéktalanul részletes írásbeli jelentést tesz a rendőrségnek.
+15. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) Akinek a természetvédelmi őr és az önkormányzati természetvédelmi őr intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette, panasszal fordulhat a rendőrséghez. A panasz előterjesztésére, valamint elbírálására a 10/A. § rendelkezéseit kell alkalmazni.
+(2)
 
 (3) A természetvédelmi őr és az önkormányzati természetvédelmi őr köteles a tevékenysége végzése során tudomására jutott bűncselekményről, valamint – ha saját intézkedésének a feltételei nem állnak fenn – a tudomására jutott szabálysértésről a rendőrséget vagy az ügyben hatáskörrel rendelkező más szervet haladéktalanul értesíteni, a hatáskörrel rendelkező szerv eljárását kezdeményezni.
 
-(4) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a rendőrséggel. A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat az együttműködés keretében tevékenysége ellátásáról, annak körülményeiről a rendőrséget rendszeresen tájékoztatja. A tájékoztatás módját és tartalmát együttműködési megállapodásban kell rögzíteni.
+(4) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a rendőrséggel. A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat az együttműködés keretében tevékenysége ellátásáról, annak körülményeiről a rendőrséget rendszeresen tájékoztatja.
 
 (5) Ha a rendőrség a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat illetékességi területét érintő fokozott ellenőrzést hajt végre, a fokozott ellenőrzés ideje alatt – a rendőrség kérésére – a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat a feladatainak végrehajtását egyezteti a rendőrséggel.
 
-(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
+(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a járási hivatallal, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
-15/A. § (1) A természetvédelmi őrnek és az önkormányzati természetvédelmi őrnek a tevékenysége folytatására való jogosultságát a természetvédelmi hatóság által kiadott hatósági szolgálati igazolvány igazolja.
+15/A. §
 
-(2) A természetvédelmi őr és az önkormányzati természetvédelmi őr az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles magát hatósági szolgálati igazolvánnyal vagy sorszámozott szolgálati jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a természetvédelmi őr vagy az önkormányzati természetvédelmi őr arcfényképét, nevét, a munkáltató szerv megnevezését és székhelyét.
+15/B. §
 
-15/B. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr részére a hatósági szolgálati igazolványt a természetvédelmi hatóság a természetvédelmi őrszolgálat vagy az önkormányzati természetvédelmi őrszolgálat kezdeményezésére hivatalból állítja ki.
+15/C. §
 
-(2) A természetvédelmi őrszolgálat és az önkormányzati természetvédelmi őrszolgálat haladéktalanul értesíti a természetvédelmi hatóságot arról, ha a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
+15/D. §
 
-(3) A természetvédelmi hatóság haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
-
-- a) a természetvédelmi őr vagy az önkormányzati természetvédelmi őr foglalkoztatási jogviszonya megszűnt,
-- b) a hatósági szolgálati igazolványban szereplő adatok megváltoztak.
-
-15/C. § (1) A természetvédelmi hatóság a természetvédelmi őrökről és az önkormányzati természetvédelmi őrökről – a hatósági szolgálati igazolványuk hitelességének és a tevékenységüknek az ellenőrzése céljából – nyilvántartást vezet.
-
-(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
-
-- a) a természetvédelmi őr vagy az önkormányzati természetvédelmi őr
-  - aa) nevét,
-  - ab) születési helyét és idejét,
-  - ac) lakcímét,
-  - ad) szolgálati beosztását,
-- b) a munkáltató természetvédelmi őrszolgálat vagy önkormányzati természetvédelmi őrszolgálat megnevezését és címét,
-- c) a hatósági szolgálati igazolvány, illetve a szolgálati jelvény sorszámát,
-- d) a természetvédelmi őr szolgálati maroklőfegyverének a lőfegyverekről és lőszerekről szóló törvény szerinti azonosító adatait.
-
-(3) A nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
-
-(4) A természetvédelmi hatóság a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
-
-(5) A természetvédelmi őr és az önkormányzati természetvédelmi őr neve, a munkáltató szerv megnevezése és címe közérdekből nyilvános adat, amelyet a természetvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
-
-15/D. § A természetvédelmi őrszolgálat vagy az önkormányzati természetvédelmi őrszolgálat a közszolgálati alapnyilvántartásban – a közszolgálati jogviszonyból származó jogok gyakorlásához és kötelezettségek teljesítéséhez, a munkáltatói jogkör gyakorlásához – nyilvántartja a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának, valamint szolgálati jelvényének a sorszámát, valamint a természetvédelmi őr szolgálati maroklőfegyverének a lőfegyverekről és lőszerekről szóló törvény szerinti azonosító adatait.
-
-15/E. § A 15–15/D. §-nak az önkormányzati természetvédelmi őrszolgálatra vonatkozó rendelkezéseit az önkormányzati természetvédelmi őrre is alkalmazni kell.
+15/E. §
 
 ### III. Fejezet — A mezei őrszolgálat
 
@@ -379,6 +358,8 @@ alkalmazhat, illetve használhat.
 
 19. § (1) Az önkormányzati mezei őrszolgálat megalakítási, fenntartási és működési költségeit a földhasználó, ha ez ismeretlen, a tulajdonos által kifizetett mezőőri járulékból és a központi költségvetés által biztosított hozzájárulásból kell fedezni. A mezőőri járulék mértékét és megfizetésének módját a települési, a fővárosban a fővárosi kerületi önkormányzat, a mezei őrszolgálat létesítéséről és működéséről szóló helyi önkormányzati rendeletében szabályozza.
 
+(1a) Az önkormányzat a mezei őrszolgálat megalakítása előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.
+
 (2) A megalakítási, fenntartási és működési költségek felét, de legfeljebb a külön jogszabályban meghatározott összeget a központi költségvetés biztosítja hozzájárulásként az agrárpolitikáért felelős miniszter által vezetett minisztérium fejezetéből.
 
 (3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult
@@ -387,15 +368,15 @@ alkalmazhat, illetve használhat.
 
 20. § (1) A mezőőr a termőföldek őrzését, valamint a termőföldön lévő, illetve ahhoz tartozó termények és termékek, felszerelések, eszközök, haszonállatok, továbbá mezőgazdasági építmények, földmérési jelek vagyonvédelmét ellátó személy.
 
-(2) Mezőőr az a büntetlen előéletű magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki tizennyolcadik életévét betöltötte, a lőfegyvertartási engedély megszerzésére vonatkozó feltételeknek megfelel, és a 22. § (1) bekezdésében előírt vizsgát letette.
+(2)
 
 21. § (1) A mezőőr feladatát az őrszolgálatot létrehozó települési önkormányzat (a továbbiakban: fenntartó) utasításai szerint végzi, szakmai felügyeletét a mezőgazdasági igazgatási szerv és a rendőrség látja el.
 
 (2) A fenntartó a mezőőr foglalkoztatásáról, illetve a foglalkoztatás megszüntetéséről a mezőgazdasági igazgatási szervet és a rendőrséget a foglalkoztatást, illetve annak megszüntetését megelőzően öt napon belül írásban értesíti.
 
-22. § (1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből vizsgát tesz. A vizsgát, az eskü letételét és a mezőőrök továbbképzését a mezőgazdasági igazgatási szerv szervezi meg.
+22. § (1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott ismeretekből vizsgát tesz.
 
-(2) A mezőőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a mezőgazdasági igazgatási szerv által kiadott hatósági szolgálati igazolvány igazolja. A hatósági szolgálati igazolvány tartalmazza a mezőőr arcfényképét, nevét, fegyvertartási engedélyének számát, működési területét, a munkáltató szerv megnevezését és címét. A mezőőr hatósági szolgálati igazolványának kiadására, nyilvántartásba vételére és nyilvánosságára a 15/B–15/C. § rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv a mezőőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
+(2) A mezőőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolványa igazolja. A mezőőr szolgálati igazolványának, tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A mezőgazdasági igazgatási szerv a mezőőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
 
 (3) A mezőőr sörétes vadászlőfegyverrel, a rendőrségnél rendszeresített könnygázszóró palackkal, valamint formaruhával való ellátásáról a fenntartó gondoskodik.
 
@@ -403,13 +384,12 @@ alkalmazhat, illetve használhat.
 
 ### A mezőőr feladatai
 
-23. § (1) A mezőőr a működési területén jogosult és köteles:
+23. § (1) A mezőőr a működési területén
 
-- a) az őrzött vagyont veszélyeztető vagy károsító cselekmény elkövetésén tetten ért személyt személyazonosságának igazolására, a jogellenes cselekmény abbahagyására és a terület elhagyására felszólítani;
-- b) azt a járművet, amelyről alaposan feltételezhető, hogy azon a működési területről származó jogellenesen szerzett szállítmány van, feltartóztatni, a jármű vezetőjét és a járművön, illetve az abban tartózkodókat igazoltatni;
-- c) azt a személyt, aki a nála vagy a feltartóztatott járművön levő szállítmány megszerzésének jogszerűségét nem valószínűsíti, a rendőrségre bekísérni;
-- d) a károsító cselekmény elkövetésén tetten ért személytől a jogellenesen szerzett terményt, terméket, tárgyat, állatot, az elkövetéshez használt eszközt elvenni és azokat a rendőrségnek átadni;
-- e) a jogtalanul legeltetett, illetőleg felügyelet nélkül talált állatot a tulajdonosnak átadni.
+- a) azzal a járművel szemben, amelyről alaposan feltételezhető, hogy azon a működési területről származó jogellenesen szerzett szállítmány van,
+- b) azzal a személlyel szemben, aki a nála vagy az általa használt járművön levő szállítmány megszerzésének jogszerűségét nem valószínűsíti jogosult és köteles az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
+
+(1a) A mezőőr a működési területén jogosult és köteles az (1) bekezdésben meghatározottakon túl a jogtalanul legeltetett, illetőleg felügyelet nélkül talált állatot a tulajdonosnak átadni.
 
 (2) A mezőőr köteles a feladatának ellátása során tudomására jutott bűncselekményről, valamint – ha saját intézkedésének a feltételei nem állnak fenn – a tudomására jutott szabálysértésről a rendőrséget vagy az ügyben hatáskörrel rendelkező más szervet haladéktalanul értesíteni, illetve a hatáskörrel rendelkező szerv eljárását kezdeményezni.
 
@@ -417,23 +397,13 @@ alkalmazhat, illetve használhat.
 
 (3a) A mezőőr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
 
-(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
+(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a járási hivatallal, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
 (5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre, azzal hogy a (3a) bekezdésben meghatározott helyszíni bírság kiszabására csak az önkormányzat alkalmazásában álló halászati őr jogosult.
 
 ### A kényszerítő eszközök használatának szabályai
 
-24. § (1) A mezőőr a feladatának ellátása során az intézkedésének ellenszegülő személlyel szemben testi kényszert, és ha ez nem vezet eredményre, a rendőrségnél rendszeresített könnygázszóró palackot alkalmazhat, valamint jogosult az intézkedésének ellenszegülő személyt a rendőr megérkezéséig visszatartani.
-
-(2) A kényszerítő eszköz használata során a 10. § (3)–(4) bekezdéseit megfelelően alkalmazni kell.
-
-(3) A mezőőr a kényszerítő eszköz alkalmazásának okát, idejét és helyét a szolgálati naplójába köteles bejegyezni.
-
-25. § (1) A mezőőr a kényszerítő eszköz használatáról és a személyes szabadságot korlátozó intézkedéséről a rendőrségnek, valamint a fenntartónak haladéktalanul részletes írásbeli jelentést tesz.
-
-(2) Akinek a mezőőr intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette, panasszal fordulhat a rendőrséghez. A panasz előterjesztésére, valamint elbírálására a 10/A. § rendelkezéseit kell alkalmazni.
-
-26. § A 24–25. § rendelkezéseit kell alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó hivatásos vadászra és halászati őrre.
+24–26. §
 
 ### A hegyőrre vonatkozó külön szabályok
 
@@ -447,7 +417,7 @@ alkalmazhat, illetve használhat.
 
 29. § (1) A hegyőr vizsgáztatását és továbbképzését a hegyközségi tanács szervezi meg.
 
-(2) A hegyőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a hegybíró által kiadott hatósági szolgálati igazolvány igazolja. A hatósági szolgálati igazolvány tartalmazza a hegyőr arcfényképét, nevét, fegyvertartási engedélyének számát, működési területét, a munkáltató szerv megnevezését és címét. A hegyőr hatósági szolgálati igazolványának kiadására, nyilvántartásba vételére és nyilvánosságára a 15/B–15/C. § rendelkezéseit kell alkalmazni. A hegybíró a hegyőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
+(2) A hegyőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja. A hegyőr szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A hegybíró a hegyőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
 
 ### IV. Fejezet — Záró rendelkezések
 

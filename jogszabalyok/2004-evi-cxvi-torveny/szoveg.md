@@ -774,7 +774,7 @@ Készült Hágában, 1970. március 18. napján, angol és francia nyelven, mind
 
 (3) Az igazságügyért felelős miniszter a kérelemnek nem ad helyt, amennyiben a foganatosítani szándékozott bizonyítási cselekmény a magyar közrendbe ütközne.
 
-(4) Amennyiben a bizonyítási cselekmény valamely személy meghallgatására irányul, a meghallgatás a magyar bíróság felügyelete mellett foganatosítható. Ha az igazságügyért felelős miniszter a kérelemnek helyt ad, értesíti azt a helyi bíróságot, amelynek illetékességi területén a meghallgatni kívánt személy belföldi lakóhelye vagy szokásos tartózkodási helye található. E személyt meghallgatását megelőzően tájékoztatni kell arról, hogy
+(4) Amennyiben a bizonyítási cselekmény valamely személy meghallgatására irányul, a meghallgatás a magyar bíróság felügyelete mellett foganatosítható. Ha az igazságügyért felelős miniszter a kérelemnek helyt ad, értesíti azt a járásbíróságot, amelynek illetékességi területén a meghallgatni kívánt személy belföldi lakóhelye vagy szokásos tartózkodási helye található. E személyt meghallgatását megelőzően tájékoztatni kell arról, hogy
 
 - a) közreműködése önkéntes, annak megtagadása miatt belföldön joghátrány nem érheti,
 - b) a meghallgatás során jogosult anyanyelvét használni,

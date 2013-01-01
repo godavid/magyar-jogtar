@@ -44,7 +44,7 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 - c) a 11. § (3) bekezdése szerint hatósági ellenőrzést végez, valamint
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
-(2) A körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: Hatóság)
+(2) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság)
 
 - a) országos illetékességgel ellátja az egyéni vállalkozói tevékenység megkezdésének és megszüntetésének 5. § (2) bekezdés a) pontja szerinti bejelentésével kapcsolatos feladatokat,
 - b) ügyfélkaput létesít a bejelentést személyesen kezdeményező és ügyfélkapuval nem rendelkező bejelentő számára,

@@ -152,7 +152,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 - f) aki közfoglalkoztatásban vesz részt, és a képzésben való részvételt vállalja, továbbá
 - g) aki munkaviszonyban áll és rendszeres foglalkoztatása képzés nélkül nem biztosítható.
 
-(2) Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a húsz órát, és
+(2) Az (1) bekezdés c) pontjában meghatározott személyek képzése akkor támogatható, ha a képzés időtartama hetente nem haladja meg a harminc órát, és
 
 - a) a gyermekgondozási segélyben, gyermekgondozási díjban részesülő személy képzése a gyermek egy éves – gyermekgondozási díj folyósítása esetén másfél éves – korának betöltését követően kezdődik meg, valamint
 - b) a gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.
@@ -314,7 +314,7 @@ adható.
 
 - a) álláskereső,
 - b) az álláskeresővé válását megelőző három éven belül legalább 360 nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
-- c) megváltozott munkaképességű személyek ellátására nem jogosult, továbbá táppénzben nem részesül,
+- c)
 - d) munkát akar vállalni, de önálló álláskeresése nem vezetett eredményre, és számára az állami foglalkoztatási szerv sem tud megfelelő munkahelyet felajánlani.
 
 (2) Az (1) bekezdés d) pontjában előírt feltételek alkalmazásában a munkahely akkor megfelelő, ha
@@ -377,13 +377,13 @@ időtartamával.
 
 (3) Az álláskeresési járadék folyósításának leghosszabb időtartama 90 nap.
 
-(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja.
+(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus levél útján küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5)
 
 (6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell. Ezt a rendelkezést alkalmazni kell a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személy által, az Európai Gazdasági Térség másik tagállamában igénybevett munkanélküli ellátás tekintetében is.
 
-(7) Az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezése és az álláskeresési járadék folyósításának az (5) bekezdésben foglaltak szerint megállapított kezdő napja közötti időtartam az álláskeresési járadék folyósításának idejébe nem számít be.
+(7)
 
 (8) Ha az álláskeresési járadékban részesülő személy a járadék folyósítási idejének kimerítését megelőzően határozatlan időtartamú, legalább napi négy óra munkaidejű munkaviszonyt létesít, kérelmére a folyósítási időből még fennmaradó időtartamra járó juttatás összegének a (9) bekezdésben meghatározott mértékét egy összegben ki kell fizetni. A kifizetés további feltétele, hogy az álláskeresési járadékban részesült személy a járadék megszüntetésétől a kifizetés napjáig folyamatosan munkaviszonyban álljon. A munkaviszony fennállását a munkaadó igazolja. A kérelmet az álláskeresési járadék folyósítási idejének lejártát követő 30 napon belül kell benyújtani, a juttatást a kérelem benyújtásától számított két hónapon belül kell kifizetni.
 
@@ -397,29 +397,32 @@ időtartamával.
 
 (12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.
 
-### Álláskeresési járadék folyósításának megszüntetése és szüneteltetése
+### Az álláskeresési járadék folyósításának megszűnése, megszüntetése és szünetelése
 
-28. § (1) Meg kell szüntetni az álláskeresési járadék folyósítását, ha az álláskereső:
+28. § (1) Megszűnik az álláskeresési járadék folyósítása, ha az álláskereső
 
-- a) kéri,
-- b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
-- c) megváltozott munkaképességű személyek ellátására válik jogosulttá,
-- d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszonyban foglalkoztatottakat,
-- e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
-- f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
-- g) meghalt,
-- h) az álláskeresési járadék folyósítási idejét kimerítette,
-- i)
+- a) kéri, a kérelemben megjelölt időponttól,
+- b) megváltozott munkaképességű személyek ellátására válik jogosulttá, a jogosultság kezdő napjától,
+- c) oktatási intézmény nappali tagozatán folytat tanulmányokat, a tanulói, hallgatói jogviszony kezdő napjától,
+- d) meghalt, a halál bekövetkezését követő naptól,
+- e) az álláskeresési járadék folyósítási idejét kimerítette, a folyósítási idő utolsó napját követő naptól,
+- f) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül, a támogatás folyósításának kezdő napjától,
+- g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
 
-(2) Ha az álláskeresési járadék folyósításának megszüntetése az (1) bekezdés b) pontjában meghatározott ok miatt, valamint a keresőtevékenység folytatása miatt úgy történik, hogy az álláskereső 36. § (1) bekezdése szerinti bejelentést elmulasztotta, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel egyébként rendelkezik.
+(2) Meg kell szüntetni az álláskeresési járadék folyósítását, ha
 
-29. § (1) Szüneteltetni kell az álláskeresési járadék folyósítását, ha az álláskereső
+- a) az álláskeresőt törlik a nyilvántartásból, a nyilvántartásból való törlés napjától,
+- b) az álláskereső kereső tevékenységet folytat, és a 36. § (1) bekezdése szerinti bejelentési kötelezettségét elmulasztotta, a kereső tevékenység kezdő napjától, ha ez nem állapítható meg, a kereső tevékenység megállapításának napjától.
+
+(3) Ha az álláskeresési járadék folyósításának megszüntetése a (2) bekezdés b) pontjában meghatározott ok miatt történik, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel rendelkezik.
+
+29. § (1) Szünetel az álláskeresési járadék folyósítása, ha az álláskereső
 
 - a) terhességi-gyermekágyi segélyre, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
-- b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg,
-- c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt,
-- d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – feltéve, hogy bejelentési kötelezettségének eleget tett.
-- e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül.
+- b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve, ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg, a büntetés megkezdésének napjától,
+- c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
+- d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
+- e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül, a keresetpótló juttatás kezdőnapjától,
 - f) az önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít, ezen időszak teljes időtartamára.
 
 (2) Ha az álláskeresési járadék folyósítása szünetelésének oka megszűnik, és fennállnak a 25. § (1) bekezdésében meghatározott feltételek, az álláskeresési járadékot a megállapító határozatban meghatározott feltételekkel tovább kell folyósítani.
@@ -431,22 +434,22 @@ időtartamával.
 30. § (1) Az álláskereső kérelmére nyugdíj előtti álláskeresési segélyt (a továbbiakban: álláskeresési segély) kell megállapítani, ha
 
 - a) rendelkezik a 25. § (1) bekezdésének c)–d) pontjában, meghatározott feltételekkel, és
-- b) a kérelem benyújtásának időpontjában a reá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és 45 napon át álláskeresési járadékban részesült, és az álláskeresési járadék folyósítása időtartamát kimerítette, és
-- c) az álláskeresési járadék folyósításának kimerítését követően három éven belül betöltötte a b) pontjában meghatározott életkort, és
+- b) a kérelem benyújtásának időpontjában a rá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és legalább 45 napon át álláskeresési járadékban részesült és az álláskeresési járadék folyósítási időtartamát kimerítette, vagy a folyósítási időtartam kimerítését megelőzően az álláskeresési járadék folyósítását az állami foglalkoztatási szerv – kereső tevékenység miatt – megszüntette és az álláskereső álláskeresési járadékra ismételten nem szerzett jogosultságot,
+- c) az álláskeresési járadék folyósításának kimerítését, vagy a b) pontban meghatározott megszüntetését követően három éven belül betöltötte a b) pontban meghatározott életkort, és
 - d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel, és,
 - e) korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesül.
 
-(2) Az álláskeresési segély összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 40 százaléka. Ha a 26. § (1)–(3) bekezdése szerinti járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összege a járadékalappal megegyező összeg.
+(2) Az álláskeresési segély összegét a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér összege 40 százalékának alapulvételével kell megállapítani. Ha a 26. § (1) bekezdésében meghatározott járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összegét a járadékalap alapulvételével kell megállapítani. Az egy napra járó álláskeresési segély összege az előzőekben foglaltak szerint meghatározott segélyalap harmincad része.
 
 (3) Az álláskeresési segély az álláskereső öregségi nyugdíj, megváltozott munkaképességű személyek ellátása jogosultságának megszerzéséig terjedő időtartamra folyósítható.
 
-(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtását követő nap. Töredék hónap esetén az egy napra járó álláskeresési segély összege a (2) bekezdésben meghatározott összeg harmincad része.
+(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus levél útján küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
-(5) Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (1) bekezdésének a)–c) pontjában, e) pontjában vagy g) pontjában meghatározott feltételek fennállása esetén.
+(5) Megszűnik az álláskeresési segély folyósítása a 28. § (1) bekezdés a)–f) pontjában meghatározott esetben. Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (2) bekezdésében meghatározott esetben.
 
-(6) Az álláskeresési segély folyósítására a 28. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(6) Az álláskeresési segély folyósítására a 28. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(7) Szüneteltetni kell az álláskeresési segély folyósítását
+(7) Szünetel az álláskeresési segély folyósítása
 
 - a) a 29. § (1) bekezdésében meghatározott esetben,
 - b) a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
@@ -469,9 +472,12 @@ időtartamával.
 
 ### Az ellátásokra vonatkozó közös rendelkezések
 
-36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet.
+36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények és körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet. E kötelezettségének elektronikus levél útján is eleget tehet.
 
-(2)
+(2) Az állami foglalkoztatási szerv az ügyfél kérelmére a kérelem benyújtásától számított 8 napon belül igazolást ad ki
+
+- a) az álláskeresési járadék folyósításának a 28. § (1) bekezdésében meghatározott megszűnéséről, valamint a 29. § (1) bekezdésében meghatározott szüneteléséről,
+- b) az álláskeresési segélynek a 30. § (5) bekezdésében meghatározott megszűnéséről, valamint a 30. § (7) bekezdésében meghatározott szüneteléséről.
 
 (3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább huszonegy nappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
@@ -531,7 +537,7 @@ időtartamával.
 - f)–g)
 - h)
 
-(4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
+(4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével és ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
 
 (5) A Nemzeti Foglalkoztatási Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadásokra, szakértői díjakra az alaprészekből finanszírozott támogatásokkal kapcsolatos ilyen jellegű kiadásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -584,7 +590,14 @@ időtartamával.
 
 (10) A Nemzeti Foglalkoztatási Alap bevételi és kiadási előirányzatát és annak alaprészek közötti megosztását az Országgyűlés címenként és alcímenként a költségvetési törvényben hagyja jóvá. Az alaprészen belüli további jogcímeket a miniszter állapítja meg.
 
-(11)
+(11) A Nemzeti Foglalkoztatási Alapot – ha az egyes alaprészek tekintetében törvény eltérően nem rendelkezik – a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) kezeli.
+
+(12) A minisztérium az (1) bekezdésben meghatározott tevékenysége keretében ellátja az államháztartásról szóló 2011. évi CXCV. törvény 18. § (1) bekezdésében meghatározott feladatokat, továbbá
+
+- a) gondoskodik a Nemzeti Foglalkoztatási Alapra mint elkülönített állami pénzalapra vonatkozó jogszabályok végrehajtásáról,
+- b) ha törvény eltérően nem rendelkezik, a Nemzeti Foglalkoztatási Alapból nyújtott költségvetési támogatás esetén támogatási szerződést köt.
+
+(13) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy a Nemzeti Foglalkoztatási Alap kezelésének és felhasználásának részletes szabályait rendeletben határozza meg.
 
 39/B. § (1) A Nemzeti Foglalkoztatási Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
 
@@ -598,7 +611,7 @@ időtartamával.
 
 39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
 
-- a) a Tbj.-ben meghatározott munkaerő-piaci járulék;
+- a) az egészségbiztosítási- és munkaerőpiaci járulékból a Nemzeti Foglalkoztatási Alapot a Tbj. szerint megillető rész;
 - b) a szociális hozzájárulási adónak a költségvetési törvényben meghatározott százaléka.
 - c)
 - d)
@@ -779,11 +792,13 @@ időtartamával.
 - f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci programban,
 - g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
+(9a) Az álláskereső a (9) bekezdés b) pontjában, valamint az 51/A. § (9) bekezdésében meghatározott jelentkezési kötelezettségének elektronikus levél útján is eleget tehet.
+
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
 (10a) Az olyan álláskereső esetében, aki sem álláskeresési járadékra, sem nyugdíj előtti álláskeresési segélyre nem jogosult, a 25. § (2) bekezdésében foglaltakon kívül a munkahely abban az esetben is megfelelő, ha a foglalkoztatás közfoglalkoztatási jogviszonyban történik.
 
-(10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely akkor megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
+(10b) A közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a munkahely – a 25. § (2) bekezdés d) pontjában foglaltakon kívül – akkor is megfelelő, ha a munkavégzés helye és a közfoglalkoztatott lakóhelye között naponta történő oda- és visszautazás ideje tömegközlekedési eszközzel
 
 - a) a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát meghaladja, és a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállításról, vagy
 - b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes és megyei kormányhivatal népegészségügyi szakigazgatási szerve által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről a foglalkoztató gondoskodik.
@@ -804,7 +819,7 @@ időtartamával.
 - a) kéri, vagy
 - b) az 58. § (5) bekezdés d) pont 1–4. alpontjaiban meghatározott feltételek bármelyike megszűnt, vagy
 - c) meghalt, vagy
-- d) jelentkezési kötelezettségének ismételten, felszólítás ellenére nem tesz eleget, vagy
+- d) jelentkezési kötelezettségének személyesen vagy elektronikus levél útján nem tesz eleget, vagy
 - e) a (9) bekezdés e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, vagy
 - f) a körülményeiben bekövetkezett változás miatt nem tekinthető külön jogszabályban meghatározott aktív munkahelykeresőnek, vagy
 - g) álláskeresési járadékra, álláskeresési segélyre, valamint vállalkozói járadékra nem jogosult vagy ezek folyósítási idejét kimerítette, és rendszeres szociális segélyben részesül, vagy
@@ -834,6 +849,10 @@ időtartamával.
 (4) Ha a jogosult az igényét menthető okból nem tudja érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
 
 (5) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
+
+54/B. § (1) Az álláskeresőként történő nyilvántartásba vétellel kapcsolatos eljárásban – ideértve a nyilvántartásba vétel szünetelését is – az állami foglalkoztatási szerv abban az esetben dönt határozattal, ha az ügyfélnek az álláskeresőként történő nyilvántartásba vétellel kapcsolatos kérelmét érdemben elutasítja, vagy az ügyfelet az 54. § (14) bekezdés d) és e) pontja alapján törli az álláskeresők nyilvántartásából.
+
+(2) Ha az állami foglalkoztatási szerv az álláskeresőként való nyilvántartásba vétellel kapcsolatos eljárásban külön határozat meghozatala nélkül döntött, döntéséről – az ügyfél kérelmére – a kérelem benyújtásától számított 8 napon belül igazolást ad ki.
 
 55. § (1) Ha a támogatás pénzügyi fedezetéül a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
 
@@ -963,7 +982,7 @@ szerinti adatok igénylésére jogosult.
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont a) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
+(6) A (3) bekezdés 1. pont aa)–ae) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
@@ -999,11 +1018,11 @@ szerinti adatok igénylésére jogosult.
 
 (5) E törvény alkalmazásában
 
-- a) munkaviszonyon: a magyar jog hatálya alá tartozó munkaviszonyt, közszolgálati jogviszonyt, közalkalmazotti jogviszonyt, bírósági és igazságügyi, valamint ügyészségi szolgálati viszonyt, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszonyt, a hivatásos nevelő szülői jogviszonyt, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonyát, – ide nem értve az iskolai szövetkezet nappali tagozatos tanuló, hallgató tagját – fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonyát kell érteni,
+- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a hivatásos nevelő szülői jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya, – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját –, fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
-- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban, rehabilitációs ellátásban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
-- e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
+- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, rehabilitációs járadékban, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
+- e) kereső tevékenység: – az 1–5. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek. 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés, akkor minősül kereső tevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja a személyi jövedelemadóról szóló törvény alapján az adómentes bevétel értékhatárát,
 - f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 - h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
@@ -1022,12 +1041,13 @@ szerinti adatok igénylésére jogosult.
 - r) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 - s) egyéni vállalkozó: a Tbj. 5. §-a (1) bekezdésének e) pontja szerint biztosított, a Tbj. 4. §-ának b) pontjában meghatározott személy,
 - t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biztosított, a Tbj. 4. §-ának d) pontjában meghatározott személy,
-- u)–v)
+- u) elektronikus levél: az egyedi levelezési címek között levelezőprogram segítségével küldhető és fogadható adategyüttes.
+- v)
 
 (6) A törvény alkalmazásában a
 
 - a) a munkavállaló felmondásán, a köztisztviselő, a közalkalmazott, valamint a Magyar Honvédség, a fegyveres testületek és rendészeti szervek hivatásos állományú tagjának lemondását;
-- b) munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 56. §-ának e)–f) pontjában, és 59. §-a (2) bekezdésének c) pontjában;
+- b) munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a szolgálati viszony lefokozás fenyítés kiszabásával, büntetőeljárás keretében lefokozással, a szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, valamint az állomány tagjának a szolgálatra méltatlanná válásával kapcsolatos felmentésével;
 - c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
 - d)
 

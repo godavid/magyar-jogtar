@@ -24,7 +24,9 @@ a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelmé
 
 15–17. §
 
-18. §
+18. § Az Ásztltv. 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A kinevezés és a felmentés kivételével a munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Hivatala főigazgatója gyakorolja.”
 
 #### 3. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 

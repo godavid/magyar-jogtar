@@ -22,19 +22,19 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 ### A jövedelemadó alanya
 
-4. § (1) A jövedelemadó alanya az energiaellátó, kivéve, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+4. § (1) A jövedelemadó alanya az energiaellátó, a közszolgáltató, kivéve, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
 (2) A jövedelemadó-kötelezettséget a külföldi vállalkozó kizárólag a belföldi telephelye útján végzett tevékenysége alapján állapítja meg.
 
 ### Az adókötelezettség
 
-5. § (1) A jövedelemadóból származó bevétel a központi költségvetés 2–3. §-okban meghatározott célok megvalósítására irányuló célelőirányzatát illeti.
+5. § (1) A jövedelemadóból származó bevétel a központi költségvetést illeti meg.
 
 (2) A jövedelemadó alanya az adókötelezettség teljesítése során az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény rendelkezései szerint jár el.
 
 ### A jövedelemadó alapja
 
-6. § (1) A jövedelemadó alapja az adóévi beszámolóban kimutatott adózás előtti eredménynek a (2) bekezdésben felsorolt tételekkel növelt, a (3) bekezdésben felsorolt tételekkel csökkentett és a (6) bekezdés szerint módosított, továbbá ha nemzetközi szerződés így rendelkezik, a külföldi telephely útján végzett tevékenység révén keletkezett, a telephelynek betudható, külföldön adóztatható, e törvény szerinti jövedelemadó-alapnak megfelelő tartalmú jövedelmet nem tartalmazó pozitív összege.
+6. § (1) A jövedelemadó alapja az adóévi beszámolóban kimutatott adózás előtti eredménynek a (2) bekezdésben felsorolt tételekkel növelt, a (3) bekezdésben felsorolt tételekkel csökkentett és a (6) bekezdés szerint módosított, továbbá a külföldi telephely útján végzett tevékenység révén keletkezett, a telephelynek betudható, külföldön adóztatható, e törvény szerinti jövedelemadó-alapnak megfelelő tartalmú jövedelmet nem tartalmazó pozitív összege.
 
 (2) Növelő tételek:
 
@@ -74,7 +74,9 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 ### A jövedelemadó mértéke
 
-7. § A jövedelemadó a pozitív adóalap 8 százaléka.
+7. § (1) A jövedelemadó a pozitív adóalap 31 százaléka.
+
+(2) Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény társasági adóban még nem érvényesített részével. E rendelkezésben meghatározott kedvezmény a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3–47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
 
 ### A jövedelemadó bevallása, megfizetése
 
@@ -96,7 +98,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 10. § E fejezet alkalmazásában
 
-- 1. energiaellátó: 1.1. a szénhidrogén-kitermelési tevékenységet végző, a bányászatról szóló törvény szerinti bányavállalkozó, 1.2. a kőolajtermék-előállító, a jövedéki engedélyes kőolajtermék nagykereskedő, 1.3. a földgázellátásról szóló törvény szerinti földgáz-kereskedelmi engedélyes, 1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes, 1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese;
+- 1. energiaellátó: 1.1. a szénhidrogén-kitermelési tevékenységet végző, a bányászatról szóló törvény szerinti bányavállalkozó, 1.2. a kőolajtermék-előállító, a jövedéki engedélyes kőolajtermék nagykereskedő, 1.3. a földgázellátásról szóló törvény szerinti földgáz-kereskedelmi engedélyes, 1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes, 1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, azzal, hogy a villamos energia kötelező átvételi rendszerében értékesítő termelők közül kizárólag az 50 MW beépített teljesítőképességet meghaladó teljesítőképességű erőmű termelői engedélyese, 1.6. a villamos energiáról szóló törvény szerinti egyetemes szolgáltató, 1.7. a villamos energiáról szóló törvény szerinti elosztói engedélyes, 1.8. a földgázellátásról szóló törvény szerinti egyetemes szolgáltató, 1.9. a földgázellátásról szóló törvény szerinti elosztói engedélyes,
 - 2. beszámoló: a számvitelről szóló törvény szabályai szerint készített beszámoló, ide nem értve a konszolidált beszámolót; az adóévről beszámoló készítésére nem kötelezett esetében a számvitelről szóló törvény kettős könyvvitelt vezetőkre vonatkozó előírásai szerint készített nyilvántartás;
 - 3. telephely: az adóalany tevékenysége gyakorlásának a székhelytől különböző helyen lévő, a cégjegyzékben feltüntetett helye, a külföldön lévő telephely, illetve külföldi székhelyű adóalany esetében a nemzetközi szerződésben meghatározott belföldön lévő telephely;
 - 4. külföldi vállalkozó: a Tao. tv. 2. §-ának (4) bekezdésében meghatározott személy;
@@ -105,7 +107,8 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - 7. kedvezményezett átalakulás: a Tao. tv. 4. § 23/a. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 8. kedvezményezett eszközátruházás: a Tao. tv. 4. § 23/b. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
-- 10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag.
+- 10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag;
+- 11. közszolgáltató: 11.1. a vízgazdálkodásról szóló törvény szerinti, víziközművekkel közüzemi tevékenységet végző szolgáltató, 11.2. a hulladékgazdálkodásról szóló törvény szerinti települési hulladékkezelési közszolgáltatást végző hulladékkezelő.
 
 ### III. Fejezet — AZ ÁRKÉPZÉS ÁTLÁTHATÓSÁGÁNAK ÉRDEKÉBEN SZÜKSÉGES TÖRVÉNYMÓDOSÍTÁSOK
 

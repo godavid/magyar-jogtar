@@ -156,7 +156,7 @@ kell megőrizni.
   - hb) a vámhatóság,
 - i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), d) és f) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
 - j) a 4. § (2) bekezdés a), b), c), e) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
-- k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője
+- k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 részére.
 

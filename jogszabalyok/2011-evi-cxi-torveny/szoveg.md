@@ -403,6 +403,15 @@ tevékenységét.
 
 34. § Az alapvető jogok biztosa az Alkotmánybíróságról szóló törvényben meghatározottak szerint az Alkotmánybírósághoz fordulhat.
 
+34/A. § (1) Ha az alapvető jogok biztosa a vizsgálata során észleli, hogy az alapvető jogokkal kapcsolatos visszásságot önkormányzati rendelet más jogszabályba ütközése okozza, kezdeményezheti a Kúriánál az önkormányzati rendelet más jogszabállyal való összhangjának felülvizsgálatát.
+
+(2) Az (1) bekezdés szerinti indítvány tartalmazza
+
+- a) a Kúria által vizsgálandó önkormányzati rendeletet,
+- b) az önkormányzati rendelet jogszabálysértőnek talált rendelkezésének megjelölését,
+- c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet sért,
+- d) annak okát, hogy az alapvető jogok biztosa az adott rendelkezést miért tartja jogszabálysértőnek.
+
 35. § (1) Ha az alapvető jogok biztosa vizsgálata során bűncselekmény elkövetésének alapos gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha az alapvető jogok biztosa vizsgálata során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
 
 (2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja az alapvető jogok biztosát.
@@ -497,6 +506,8 @@ tevékenységét.
 (5) E törvény hatálybalépésétől az Országgyűlési Biztos Hivatala vezetője tisztségének elnevezése főtitkár.
 
 (6) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából az Országgyűlési Biztos Hivatala jogutódjának a Hivatalt kell tekinteni.
+
+45/A. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 34/A. §-át a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

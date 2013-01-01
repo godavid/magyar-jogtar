@@ -455,19 +455,7 @@ b) 10. § (1a) bekezdés szerinti kormányrendeletben meghatározott átvételi 
 
 „(1) A termelő kérelmére a Hivatal – figyelembe véve a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben, valamint a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendeletben meghatározott feltételeket – az eredetigazolás kiállításával igazolja a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia és a nagyhatékonyságú hasznos hőigényen alapuló kapcsolt hő- és villamosenergia-termelésből származó villamos energia mennyiségét.”
 
-31. § A VET 13. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1) Minden mérlegkörfelelős köteles az átvételi kötelezettség alá eső villamos energia szétosztásáról szóló miniszteri rendeletben foglaltaknak megfelelően a mérlegkörébe tartozó felhasználók részére értékesített villamos energia arányában átvenni az átvételi kötelezettség alá eső és az átviteli rendszerirányító által menetrend alapján átadott villamos energiát, valamint megfizetni az átvételi kötelezettség alá eső villamos energia ellenértékét az (1a) bekezdés c) pontja, valamint az átvételi kötelezettség alá eső villamos energia szétosztásáról szóló miniszteri rendeletben meghatározott részletes szabályok szerint, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
-
-(1a) Az átviteli rendszerirányító a 9. §-ban meghatározottak végrehajtása érdekében jogosult és köteles
-
-a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére,
-
-b) az átvételi kötelezettség alá eső összes villamosenergia-mennyiségből jogszabályi előírások szerint az (1) bekezdésben meghatározottak által menetrend alapján kötelezően átveendő villamos energia mennyiségét meghatározni és szétosztani, valamint az átvételi kötelezettség alá eső villamos energia szervezett villamosenergia-piacon értékesítendő részét meghatározni, és azt azon a szervezett villamosenergia-piacon értékesíteni, amelyben részesedéssel rendelkezik, és
-
-c) a kötelező átvétel alá eső villamos energia ellenértékét a szervezett villamosenergia-piacon értékesített kötelező átvétel alá eső villamos energia ellenértékével csökkentve a 13. § (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint elszámolni.
-
-(1b) Az (1a) bekezdés b) pontja szerinti szervezett villamosenergia-piacot működtető engedélyes közszolgáltatási kötelezettség keretében köteles az (1a) bekezdés b) pontjának megfelelően meghatározott villamos energia mennyiség értékesítése céljából kereskedésben történő részvételre az átviteli rendszerirányítóval szerződést kötni. A szervezett villamosenergia-piaci engedélyes e tevékenysége nem irányulhat haszonszerzésre.”
+31. §
 
 32. § A VET. 14. §-a és 15. §-a helyébe a következő rendelkezések lépnek:
 
@@ -4377,7 +4365,7 @@ f) az engedélyes és az értékesítő által a Hivatal részére teljesítend�
 
 (6) E törvény 108. § (2) bekezdése, 202. § (2) bekezdése, 237. § (1)–(2) bekezdése, és 239. §-a 2013. március 3-án lép hatályba.
 
-(7) E törvény 27–29. § (1) bekezdése, 30–31. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+(7) E törvény 27–29. § (1) bekezdése, 30. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
 (8) E törvény 238. §-a 2016. július 1-jén lép hatályba.
 

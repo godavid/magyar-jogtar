@@ -2141,7 +2141,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) A Hivatal bevételét képezik a (2) bekezdés szerinti igazgatási szolgáltatási, fenntartási és megújítási díjak, a Szellemi Tulajdon Világszervezete által igazgatott nemzetközi szerződések alapján a Hivatal által végzett hatósági tevékenységért járó díj, illetve részesedés, a Hivatal által nyújtott szolgáltatások ellenértéke, valamint az egyéb bevételek. E bevételeknek a Hivatal folyamatos és zavartalan működését biztosítaniuk kell.
 
-(4)–(5)
+(4) A Hivatal bevételeivel önállóan gazdálkodik, azokat működésének fedezetére használja fel.
+
+(5) A Hivatal bevételeiből – legfeljebb a tényleges adott évi bevétel öt százalékának megfelelő mértékig – tartalékot képezhet. Az így képzett tartalék a megképzésének évét követő második év végéig kizárólag a Hivatal működésének fedezetére használható fel, és az más célra nem vonható el.
 
 (6) A Hivatal évente – hivatalos lapjában – közzéteszi a befolyt bevételekről és a felhasználásukról készített kimutatást.
 

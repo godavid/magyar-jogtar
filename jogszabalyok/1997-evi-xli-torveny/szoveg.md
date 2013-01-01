@@ -312,13 +312,7 @@ h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
 (4)–(5)
 
-Vhr. 12. § (1) Az állami halászjegy (beleértve a kutatási célút is), az állami horgászjegy és annak évenkénti érvényesítésének díja – a (1) bekezdésben foglalt személyek horgászjegyének kivételével – 2004. január 1-jétől ezer forint.
-
-(2) Az állami gyermek horgászjegy kiváltása, továbbá a 70. életévét betöltött személy állami horgászjegyének kiváltása és évenkénti érvényesítésének díja ingyenes, a díj fizetése alól való mentességet a horgászjegyen fel kell tüntetni.
-
-(3) Az állami halászjegy és az állami horgászjegy díját a halászati hatóságnál, illetve megbízottjánál a jegyek átvételekor kell megfizetni.
-
-(4) A halászati hatóság, illetve megbízottja a díjbevételeket havonta, a tárgyhót követő 5. napig köteles átutalni, illetve befizetni a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) 10032000-00289782-00000000 számú számlájára. A kiadott jegyekkel a forgalmazással megbízott negyedévenként, a negyedévet követő hónap 15. napjáig a halászati hatóság felé, a halászati hatóság pedig a tárgyévet követő év január 31-ig köteles a MgSzH Központ felé elszámolni.
+Vhr. 12. §
 
 ### A területi engedély
 
@@ -539,25 +533,23 @@ Vhr. 18. § (1) Az adattárban a nyilvános adatokba való betekintés díjmente
 
 Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosított halászati vízterület halállományát és élőhelyét őrizni, vagy őrzéséről – halászati őr útján – gondoskodni. Halászati őr egyéb vízterületen, illetőleg halastavon is igénybe vehető. Halászati őrt több jogosult közösen is foglalkoztathat. A halászati őr feladataival mezei őrszolgálat is megbízható.
 
-(2) Halászati őr az a nagykorú büntetlen előéletű személy lehet, aki
+(2) Halászati őr a működési helye szerinti halászati hatóságnál az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát és a miniszter által rendeletben meghatározott szövegű esküt tesz.
 
-– hatósági orvosi igazolvánnyal igazolja, hogy nem szenved olyan testi és szellemi fogyatékosságban, amely gátolná feladata ellátásában, továbbá – ha az őrzés során lőfegyvert is tart magánál – megfelel a lőfegyvertartási engedély kiadására vonatkozó feltételeknek;
-
-– a működési helye szerinti halászati hatóságnál vizsgát és a miniszter által rendeletben meghatározott szövegű esküt tett;
-
-– a halászati hatóság által kiadott szolgálati igazolvánnyal és az igazolvánnyal azonos sorszámú szolgálati naplóval rendelkezik.
+(2a) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyen- vagy formaruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
 
 (3) A halászati őrzés módját, illetve halászati őr foglalkoztatását vagy annak megszűnését a jogosult köteles a halászati hatóságnál nyilvántartásba vétel céljából haladéktalanul bejelenteni. A halászati őr a (2) bekezdés szerinti vizsgát legkésőbb a foglalkoztatásának kezdő napjától számított hatvan napon belül köteles letenni.
 
 (4) A halászati őr a halászati vízterületen, halastavon, illetőleg annak partján – a mezőőrt megillető jogosultságokon túlmenően – jogosult
 
 - a) azt a személyt, aki a halászati vízterületen halászik, horgászik, a halászatra jogosító okmányok bemutatására felszólítani;
-- b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, illetve a halászatra jogosító okmányok vagy a jogosultság hiányában járművét átvizsgálni, a kifogott halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani;
-- c) a méreten aluli, a területi engedélyben meghatározott mennyiségen felüli, a tilalmi időben kifogott, valamint a védett halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani;
+- b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, illetve a halászatra jogosító okmányok vagy a jogosultság hiányában, a kifogott halat a vízbe kíméletesen visszahelyeztetni,;
+- c) a méreten aluli, a területi engedélyben meghatározott mennyiségen felüli, a tilalmi időben kifogott, valamint a védett halat a vízbe kíméletesen visszahelyeztetni,;
 - d) a személytől a területi engedélyt elvenni és azt a kibocsátónak haladéktalanul megküldeni,
 - e) a személytől az állami halász- és horgászjegyet visszatartani és azt a halászatra jogosulton keresztül a kezdeményezett hatósági eljáráshoz mellékelve köteles a halászati hatóságnak megküldeni.
 
-(5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
+(4a) Az a halászati őr, aki állami, vagy önkormányzati alkalmazásban áll a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti intézkedéseket és kényszerítő eszközöket alkalmazhatja.
+
+(5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.
 
 Vhr. 19. § (1) A halászati őr köteles a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt vizsgát tenni. A vizsga letételéről a halászati hatóság a 6. számú melléklet szerinti bizonyítványt adja ki.
 

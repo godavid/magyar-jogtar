@@ -229,7 +229,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Az (1) bekezdésben meghatározott művek példányainak a díj megállapításához és felosztásához szükséges azonosító adatairól és a haszonkölcsönzés céljára való kölcsönbeadásaik számáról a könyvtárak a közös jogkezelő szervezet, valamint a miniszter számára évente, a tárgyévet követő első naptári negyedév végéig adatot szolgáltatnak. A díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett könyvtárak körét külön jogszabály állapítja meg.
 
-(5) A díjat a kölcsönbeadások száma alapján kell felosztani; a díj a tárgyévet követő harmadik naptári negyedév első napján esedékes.
+(5) A díjat a kölcsönbeadások száma alapján kell felosztani, a díj a tárgyévet követő naptári év november 1. napján esedékes.
 
 ### A nyilvános előadás joga
 

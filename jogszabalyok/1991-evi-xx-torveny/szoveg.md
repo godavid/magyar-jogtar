@@ -63,9 +63,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 41–42. §
 
-#### III.
+#### III. ÉPÍTÉSÜGYI IGAZGATÁS
 
-43. §
+43. § A külön jogszabályban meghatározott jegyző ellátja az elsőfokú építésügyi hatósági feladatokat. Építésügyi feladat- és hatáskörét és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.
 
 #### IV.
 
@@ -89,7 +89,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 67. § A helyi önkormányzat a piaci zavarok megelőzése céljából figyelemmel kíséri a piaci viszonyokat, intézkedést kezdeményez.
 
-68–70. §
+68. § A külön jogszabályban meghatározott jegyző ellátja az üzletek működésével, nyitva tartásával és tevékenységének ellenőrzésével, valamint a telepengedélyezéssel és a telep létesítésének bejelentésével kapcsolatos elsőfokú hatósági feladatokat. A feladat- és hatáskört és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.
+
+69–70. §
 
 71-72. §
 
@@ -119,7 +121,7 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 (2)
 
-(3) A jegyző környezet- és természetvédelmi feladat- és hatáskörét a Kormány rendeletben állapítja meg.
+(3) A jegyző környezet- és természetvédelmi – különösen a parlagfű elleni közérdekű védekezéssel és a zaj- és rezgésvédelemmel kapcsolatos – feladat- és hatáskörét a Kormány rendeletben állapítja meg.
 
 #### VII.
 
@@ -131,13 +133,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 92. § (1)–(8)
 
-(9) Ahol a Ktv. ,,tanács''-ot, ,,tanácsi közút''-at vagy ,,tanácsi közúthálózat''-ot említ, azon ,,önkormányzatot'', ,,önkormányzati képviselőtestületet'', illetőleg helyi közutat'' vagy ,,helyi közúthálózatot'' kell érteni.
+(9)
 
-(10) A közút kezelőjén a helyi közutak tekintetében
-
-- a) a Ktv. 15. §-ának (2) bekezdésében, 29. §-ának (3) bekezdésében, 31. §-ában, 34. §-ának (1), (2), (5) bekezdéseiben, 35. §-ában, 43. §-ának (1) bekezdésében és 45. §-ának (1) bekezdésében a helyi önkormányzat képviselő-testületét kell érteni;
-- b) a Ktv. 3. §-ának (2) bekezdésében, 7. §-ának (3) bekezdésében, 14. §-ának (1) bekezdésében, 34. §-ának (3) és (4) bekezdéseiben, 36. §-ának (1) és (3) bekezdéseiben, 39. §-ában, 41. §-ának (2) bekezdésében és 42/A. §-ának (1) bekezdésében a jegyzőt (főjegyzőt) kell érteni;
-- c) Budapest Főváros Önkormányzata esetében a b) pontban foglaltaktól eltérően a fővárosi közgyűlést kell érteni. A fővárosi közgyűlés ezen bekezdésben foglalt feladatait az önkormányzat többségi tulajdonában álló gazdasági társaság útján is elláthatja.
+(10)
 
 93–95. §
 
@@ -244,7 +242,7 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 136. §
 
-137. § Felhatalmazást kap a Kormány, hogy az egészségügyi, szociális, gyermek- és ifjúságvédelmi, valamint a gyámügyi igazgatásban a polgármester, főpolgármester államigazgatási hatósági jogköreit, a megyei, fővárosi közigazgatási hivatal vezetője államigazgatási feladat- és hatásköreit rendeletben határozza meg.
+137. §
 
 #### X.
 
@@ -354,7 +352,7 @@ PÉNZÜGYIGAZGATÁS
 
 (2) Ha a körzeti közszolgáltatást nyújtó — az Ötv. 107. § alapján önkormányzati tulajdonba került — intézmény tulajdonosa a körzeti feladat ellátását nem vállalja, az intézmény vagyonát köteles használatra a feladat ellátására vállalkozó önkormányzatnak, illetve más szervnek átadni.
 
-(3) Az Ötv. 107. § alapján önkormányzati tulajdonban lévő azt a vagyont (vagyonrészt), amely nem saját részére törvényben meghatározott feladat, vagy nem a polgármester, a jegyző, vagy a képviselőtestület hivatala ügyintézője számára törvényben vagy kormányrendeletben meghatározott feladat, hatáskör gyakorlását szolgálja – ha az más szerv jogszabályban előírt feladatának ellátásához szükséges – a miniszter vagy a fővárosi és megyei kormányhivatal kezdeményezésére a feladatot ellátó szerv használatába kell átadni.
+(3) Az Ötv. 107. § alapján önkormányzati tulajdonban lévő azt a vagyont (vagyonrészt), amely nem saját részére törvényben meghatározott feladat, vagy nem a polgármester, a jegyző, számára törvényben vagy kormányrendeletben meghatározott feladat, hatáskör gyakorlását szolgálja – ha az más szerv jogszabályban előírt feladatának ellátásához szükséges – a miniszter vagy a fővárosi és megyei kormányhivatal kezdeményezésére a feladatot ellátó szerv használatába kell átadni.
 
 (4) Az (1)—(3) bekezdésen alapuló használat térítésmentes.
 
@@ -365,3 +363,5 @@ PÉNZÜGYIGAZGATÁS
 147. § (1) Ez a törvény a kihirdetését követő harmincadik napon lép hatályba.
 
 (2)
+
+148. § Az önkormányzati képviselő-testület hatósági feladatokat ellátó szervei, feladataik ellátása céljából – külön törvény rendelkezései szerint – közvetlenül hozzáférnek a személy- és lakcímnyilvántartás rendszeréhez.

@@ -123,7 +123,8 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 14. üzemi menetrend: a nyílt hozzáférésű vasúti pályahálózatokban végbemenő összes tervezett vasúti jármű-mozgást meghatározó adatokat tartalmazó előírás;
 - 15. fejlesztési közreműködő: olyan gazdasági társaság, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül a vasúti pályahálózat működtetőjének, valamint tevékenységének folytatásához nincs szüksége e törvény szerinti működési engedélyre;
 - 16. kapcsolt vállalkozás: a számviteli törvényben így meghatározott fogalom;
-- 17–18.
+- 17. GSM-R fejlesztő: olyan gazdasági társaság, amely a vasúti pályahálózat tartozékát képező GSM-R rendszer-hálózat létesítését végzi, és nem minősül a vasúti pályahálózat működtetőjének, valamint tevékenységének folytatásához nincs szüksége e törvény szerinti működési engedélyre;
+- 18.
 - 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 - 20.
 - 21. közmű: vízellátást szolgáló vezeték, szennyvíz-, illetve csapadékelvezetést szolgáló zárt csatorna, távhővezeték, villamos energia átviteli és elosztó hálózat, villamos termelői-, magán- és közvetlen vezeték, szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke, elektronikus hírközlési vezeték;
@@ -151,7 +152,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - d)
 - e) a honvédelemmel, a polgári védelemmel és a katasztrófa-elhárítással összefüggő vasúti feladatok ellátása.
 
-(2) A miniszter feladata:
+(2) A közlekedésért felelős miniszter (a továbbiakban: miniszter) feladata:
 
 - a) a vasúti közlekedéspolitika és vasúti fejlesztési koncepció előkészítése, a jóváhagyott vasúti közlekedéspolitika és vasúti fejlesztési koncepció végrehajtásának szervezése,
 - b) a vasúti közlekedés igazgatási és hatósági feladatainak ellátása,
@@ -245,7 +246,17 @@ kapcsolatos, külön jogszabályban meghatározott követelményeknek.
 
 (2) Az (1) bekezdés szerinti feltételek fennálltának igazolása érdekében a működési engedély iránti kérelmet előterjesztő szervezet köteles a vasúti igazgatási szerv részére a külön jogszabályban meghatározott információkat rendelkezésre bocsátani.
 
-(3) A működési engedély határozatlan időtartamra szól. A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennálltát legalább ötévenként felülvizsgálja.
+(3) A működési engedély határozatlan időtartamra szól. A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
+
+(3a) Az éves felügyeleti díj mértéke:
+
+- a) országos pályahálózat működtető, valamint vállalkozó vasúti társaság működési engedélye esetén 1 363 000 forint,
+- b) elővárosi, térségi és helyi pályahálózat működtető működési engedélye esetén 272 000 forint,
+- c) elővárosi, térségi és helyi pályahálózat működtető – nyílt hozzáférés alóli mentesítéssel – működési engedélye esetén 409 000 forint,
+- d) elővárosi, vállalkozó vasúti társaság működési engedélye esetén 136 000 forint,
+- e) a 6. § (9) bekezdése alapján bejelentéssel saját célú pályahálózat működtető – nyílt hozzáférés alóli mentesítéssel – működési engedélye esetén 159 000 forint,
+- f) az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú, térségi pályahálózat működtető, valamint vállalkozó vasúti társaság, továbbá térségi- és helyi vállalkozó vasúti társaság működési engedélye esetén 14 000 forint,
+- g) saját célú pályahálózat működtető, valamint árutovábbítási működési engedély esetén 23 000 forint.
 
 (4) A vasúti társaság a működési engedély jogerőre emelkedésétől számított hat hónapon belül köteles megkezdeni a működési engedélyben meghatározott tevékenységét. E határidő elmulasztása, illetve a tevékenység végzésének hat hónapot meghaladó szüneteltetése esetén a vasúti igazgatási szerv a feltételek fennálltának felülvizsgálatát rendelheti el, továbbá indokolt esetben a működési engedélyt felfüggesztheti. A tevékenység megkezdésére irányadó határidő kérelemre a külön jogszabályban meghatározott esetekben legfeljebb további hat hónappal meghosszabbítható.
 
@@ -337,7 +348,9 @@ kapcsolatos, külön jogszabályban meghatározott követelményeknek.
 
 (4) Az országos vasúti pályahálózat működtetője felelős saját üzemeltetéséért, adminisztrációjáért és belső ellenőrzéséért.
 
-(5) A vasúti pályahálózat működtetésének elemei közül a létesítést, felújítást és fejlesztést a vasúti pályahálózat működtetője vagy a fejlesztési közreműködő végzi (a továbbiakban: építtető). Ha a létesítést, felújítást és fejlesztést a fejlesztési közreműködő végzi, a létesítésben, felújításban és fejlesztésben az érintett vasúti pályahálózat működtetője mint a vasúti pályahálózat működtetésére hatósági engedéllyel rendelkező szervezet közreműködik. A vasúti pályahálózat működtetője és a fejlesztési közreműködő a feladatok megosztásáról együttműködési szerződést köt.
+(5) A vasúti pályahálózat működtetésének elemei közül a létesítést, felújítást és fejlesztést a vasúti pályahálózat működtetője vagy a fejlesztési közreműködő, a GSM-R rendszer-hálózat létesítését a GSM-R fejlesztő végzi (a továbbiakban: építtető). Ha a létesítést, felújítást és fejlesztést a fejlesztési közreműködő végzi, a létesítésben, felújításban és fejlesztésben az érintett vasúti pályahálózat működtetője, mint a vasúti pályahálózat működtetésére hatósági engedéllyel rendelkező szervezet közreműködik. A vasúti pályahálózat működtetője és a fejlesztési közreműködő a feladatok megosztásáról együttműködési szerződést köt.
+
+(6) A GSM-R fejlesztő által végzett GSM-R rendszer-hálózat létesítés során az érintett vasúti pályahálózat tulajdonosa, vagyonkezelője illetve a működtetője, mint a vasúti pályahálózat működtetésére hatósági engedéllyel rendelkező szervezet köteles közreműködni, együttműködni.
 
 ### IV. Fejezet — A TÉRSÉGI ÉS AZ ELŐVÁROSI KÖZFORGALMÚ VASÚTI KÖZLEKEDÉS
 
@@ -413,7 +426,17 @@ szerződést köt.
 
 ### VAGYONKEZELÉSI SZERZŐDÉS
 
-26. § (1) Az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózatot működtető pályavasúti társaság, illetve az integrált vasúti társaság a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
+26. § (1) Az országos és az állam tulajdonában lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózatot működtető pályavasúti társaság vagy az integrált vasúti társaság, központi költségvetési szerv vagy az állam 100%-os tulajdonába tartozó más gazdasági társaság (a továbbiakban együtt: nem pályaműködtető vagyonkezelő) a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
+
+(1a) Az állam nevében az MNV Zrt. jogosult megkötni a vasúti pályahálózat működtetéséhez szükséges valamennyi ingatlannak – ideértve a nemzeti földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: NFA tv.) 1. § (1) bekezdésében meghatározott művelési ágban nyilvántartott ingatlanokat is – az állam tulajdonába kerülésére vonatkozó szerződéseket és az ezen ingatlanok vagyonkezelésbe adására vonatkozó szerződéseket.
+
+(1b) Az állam tulajdonába kerülő, a vasúti pályahálózat működtetéséhez szükséges ingatlanok – ideértve az NFA tv. 1. § (1) bekezdésében meghatározott művelési ágban nyilvántartott ingatlanokat is – tekintetében az állam nevében a tulajdonosi jogokat az MNV Zrt. gyakorolja.
+
+(1c) Az (1a) bekezdés szerinti tulajdonváltás esetén a vasúti pályahálózat működtetéséhez szükséges ingatlanokra vonatkozó – ideértve az NFA tv. 1. § (1) bekezdésében meghatározott művelési ágban nyilvántartott ingatlanokat is – szerződéses jogviszonyokban az állam a korábbi tulajdonos jogutódjának minősül. Ezen ingatlanokra korábban kötött szerződések az abban rögzített feltételek szerint továbbra is hatályban maradnak a felek külön rendelkezése nélkül.
+
+(1d) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat hasznosítási jogát a vasúti pályahálózatot működtető pályavasúti társaságnak – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi.
+
+(1e) A nem pályaműködtető vagyonkezelő és az MNV Zrt. közötti vagyonkezelési szerződésben rögzíteni kell a vagyonkezelés keretében átadásra kerülő vagyon rendezésével és a nyilvántartások egységesítésével összefüggésben alkalmazandó eljárásokat, ideértve az egyes vagyoni kimutatások között fellelt eltérések rendezésével és átvezetésével összefüggésben alkalmazandó szabályokat is.
 
 (2) A legalább többségi állami tulajdonú országos pályavasúti társaság a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján köteles biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben (pályaudvar, vasútállomás) közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiségek igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről az érintett országos pályavasúti társaság és az érintett közigazgatási szerv szerződésben rendelkeznek.
 
@@ -594,7 +617,24 @@ hagyja jóvá a közlekedési hatóság.
 
 (4a) A vasúti társaság köteles a közlekedési hatóság részére bejelenteni, ha a (2b) bekezdés a)–b) pontjában meghatározottak tekintetében a változások mértéke egy üzleti éven belül a 10%-ot, de járművek esetén legalább a 3 darabot, a munkavállalók esetén legalább a 3 főt meghaladja.
 
-(5) A közlekedési hatóság ellenőrzi, hogy a vasútbiztonsági tanúsítvány, illetve a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállnak-e.
+(5) A közlekedési hatóság évente – felügyeleti díj ellenében – ellenőrzi, hogy a vasútbiztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiadásának alapjául szolgáló feltételek fennállnak-e.
+
+(5a) Az éves felügyeleti díj mértéke:
+
+- a) pályavasúti társaság, valamint integrált vasúti társaság vasúti pályahálózatot működtető szervezeti egysége esetén
+  - aa) 200 km üzemeltetett vasúti hálózatig: 1 016 000 forint,
+  - ab) 200 km feletti üzemeltetett vasúti hálózatnál: 1 845 000 forint,
+- b) vállalkozó vasúti társaság, valamint integrált vasúti társaság vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
+  - ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 601 000 forint,
+  - bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 782 000 forint,
+  - bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 1 024 000 forint;
+- c) saját célú vasutak vasútbiztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 421 000 forint,
+- d) kiegészítő biztonsági tanúsítvány esetén a b) pont alatt felsorolt díjak,
+  - da) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 601 000 forint,
+  - db) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 782 000 forint,
+  - dc) 100 db feletti vasúti járművet üzembentartó vasúti társaság esetén 1 024 000 forint;
+- e) keskeny nyomtávú vasutak vasútbiztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén az a)–d) pontokban meghatározott díjtételek 30%-a;
+- f) a kizárólag történelmi és muzeális vasúti járműveket üzembentartó vasúti társaságok vasútbiztonsági tanúsítványa esetén a b)–f) pontokban meghatározott díjtételek 30%-a.
 
 (6) Amennyiben a közlekedési hatóság megállapítja, hogy a jogosult nem elégíti ki a vasútbiztonsági tanúsítványban, illetve a vasútbiztonsági engedélyben megfogalmazott feltételeket, haladéktalanul visszavonja a vasútbiztonsági tanúsítványt, illetve a vasútbiztonsági engedélyt. A kiegészítő vasútbiztonsági tanúsítvány visszavonása esetén a közlekedési hatóság a döntéséről, valamint annak indokairól haladéktalanul tájékoztatja a más EGT-államban létrejött vállalkozó vasúti társaság vasútbiztonsági tanúsítványát kiállító vasútbiztonsági hatóságot. A közlekedési hatóság a vasútbiztonsági tanúsítvány visszavonásáról értesíti a vasúti pályahálózat működtetőjét.
 
@@ -771,11 +811,15 @@ kapcsolatos szabályokat.
 
 43. § (1) A vasúti pályával szomszédos ingatlan tulajdonosa (használója) tűrni köteles, hogy a vasúti pályahálózat működtetője vagy a fejlesztési közreműködő az ingatlanon, az alatt vagy felett gyengeáramú vezetéket, ehhez tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket figyelembe kell venni.
 
+(1a) A vasúti pályával szomszédos ingatlan tulajdonosa (használója) tűrni köteles, hogy GSM-R fejlesztő az ingatlanon tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el. Az elhelyezés során a környezet- és természetvédelmi érdekeket figyelembe kell venni.
+
 (2) Az ingatlan tulajdonosát (használóját) az ingatlan rendeltetésszerű használatának akadályozása miatt az akadályozás mértékének megfelelő kártalanítás illeti meg.
 
-(3) A vasúti pályahálózatot működtető vasúti társaság és a fejlesztési közreműködő – az ingatlan tulajdonosának (használójának) kártalanítása mellett – jogosult a vasúti pályán és a vasúti pálya közvetlen közelében a szabad kilátást akadályozó, továbbá a vasúti vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett lakosság érdekei, illetve a környezet- és természetvédelmi érdekek szempontjából.
+(3) A vasúti pályahálózatot működtető vasúti társaság, a GSM-R fejlesztő és a fejlesztési közreműködő – az ingatlan tulajdonosának (használójának) kártalanítása mellett – jogosult a vasúti pályán és a vasúti pálya közvetlen közelében a szabad kilátást akadályozó, továbbá a vasúti vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett lakosság érdekei, illetve a környezet- és természetvédelmi érdekek szempontjából.
 
 (4) A vasúti közlekedés célját szolgáló erősáramú vezetékek és tartószerkezetek idegen ingatlanon történő elhelyezésére és üzemben tartására a villamos energiáról szóló törvényben foglaltakat kell alkalmazni.
+
+(5) A GSM-R rendszer-hálózat és tartozékai idegen ingatlanon történő elhelyezésére és üzemben tartására az elektronikus hírközlésről szóló törvényben és a távközlési építmények elhelyezéséről és ellenőrzéséről szóló KHVM rendeletben foglaltakat is alkalmazni kell.
 
 ### FELSZÍN ALATTI VASÚT-LÉTESÍTÉSI JOG
 
@@ -1248,7 +1292,7 @@ biztosítható.
 - f) integrált vasúti társaság 66. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, illetőleg annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
 - g)
 - h) a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a vasúti pályahálózat működtetője, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés vasúti pályák nyílt hozzáférésűvé, illetve nyílt hozzáférés alól mentessé történő minősítéséről,
-- i) a vasúti társaság személyszállítási és árufuvarozási üzletszabályzatának jóváhagyása,
+- i) a vasúti társaság személyszállítási és árufuvarozási üzletszabályzatának, valamint a közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
 - j) a vasúti közlekedési piac fejlődésének nyomon követése, elemzése és értékelése,
 - k) nyilvántartás vezetése a működési engedélyekről,
 - l) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal,
@@ -1276,7 +1320,7 @@ biztosítható.
 
 (6) A vasúti igazgatási szerv közzéteszi a 73. § (1) bekezdésének a)–h) és p)–r) pontjai szerinti eljárásokban hozott határozatait azzal, hogy a közzététel kiterjed a Hálózati Üzletszabályzat, a keretmegállapodás, a belső megállapodás, valamint az üzemi menetrend szövegére is. A közzétett határozat nem tartalmazhatja az érdekeltek által előzetesen – indokoltan – üzleti titoknak minősített adatokat.
 
-(7) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához a vasúti társaságtól, a VPSZ-től, valamint a fejlesztési közreműködőtől információkat kérni. Az információk, adatok nyilvánosságra hozatalát jogszabály előírhatja.
+(7) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához a vasúti társaságtól, a VPSZ-től, valamint a fejlesztési közreműködőtől, valamint a közlekedésszervezőtől információkat kérni. Az információk, adatok nyilvánosságra hozatalát jogszabály előírhatja.
 
 ### A piac felügyelete
 
@@ -1286,11 +1330,11 @@ biztosítható.
 
 (3) A vasúti igazgatási szerv a (2) bekezdés szerinti tevékenysége során igénybe vett szakértőre a vasúti igazgatási szerv köztisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
 
-(4) A vasúti igazgatási szerv a vasúti társaságokat, a VPSZ-t és a fejlesztési közreműködőt a piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
+(4) A vasúti igazgatási szerv a vasúti társaságokat, a VPSZ-t és a fejlesztési közreműködőt, valamint a közlekedésszervezőt a piac felügyeletével kapcsolatos tevékenység ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
 
 (5) A vasúti igazgatási szerv felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
 
-76. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, a 18. § (4) bekezdése szerinti kötelezettség teljesítésével, a számviteli elkülönítéssel, valamint a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, jogosult
+76. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez, bejelentéshez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, a 18. § (4) bekezdése szerinti kötelezettség teljesítésével, a számviteli elkülönítéssel, valamint a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, jogosult
 
 - a) a jogsértőt kötelezni az eljárás költségeinek megtérítésére,
 - b) külön jogszabályban foglaltak alapján bírságot kiszabni,
@@ -1661,6 +1705,12 @@ során.
 
 (7) Az üzemeltetőt a – közműkiváltással vagy -fejlesztéssel összefüggésben bekövetkezett – vagyonnövekedés tekintetében illetékfizetési kötelezettség nem terheli.
 
+85/C. § (1) A Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.), mint GSM-R fejlesztő a Magyar Állam tulajdonában álló vasúti pályahálózat tartozékát képező GSM-R rendszer-hálózat tekintetében központi költségvetési és európai uniós támogatásból építtetői, létesítési feladatokat lát el a Magyar Állam nevében és javára eljárva. A GSM-R rendszer-hálózat megvalósítása fontos közérdekű és közcélú tevékenység.
+
+(2) A GSM-R fejlesztő a GSM-R rendszer-hálózat előkészítéseként teljes körűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. A GSM-R fejlesztő ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési és egyéb engedélyeket. A GSM-R fejlesztő lefolytatja a közbeszerzési eljárásokat, megköti a megvalósításra vonatkozó építési és egyéb szerződéseket, elvégzi a teljesítések igazolását, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, valamint a műszaki átadás-átvétel lebonyolításáról.
+
+(3) A létesített – a Magyar Állam tulajdonában álló vasúti pályahálózat tartozékát képező – GSM-R rendszer-hálózat és annak tartozékai e törvény erejénél fogva Magyar Állam tulajdonába kerülnek. A vasúti pályahálózat tartozékaként a GSM-R rendszer-hálózat és tartozékai a beruházásnak a – számvitelről szóló törvény szerinti – megvalósulásakor a vasúti pályahálózat vagyonkezelőjének nyilvántartásában kerülnek aktiválásra, a beruházásnak a NISZ Zrt. nyilvántartásaiból – az elszámolásra kapott forrásokkal szemben – történő kivezetésével egyidejűleg.
+
 ### XVI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### HATÁLYBALÉPÉS
@@ -1713,6 +1763,26 @@ a kihirdetést követő 45. napon lép hatályba.
 (10)–(12)
 
 (13) Amennyiben a 32/A. § szerinti biztonsági szervezet feladatait a vasúti társaság a biztonságirányítási rendszerben látja el, a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány módosítása iránti kérelmét 2012. január 31-éig nyújtja be a közlekedési hatóságnak. A vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kizárólag erre irányuló módosítása kapcsán fizetendő igazgatási szolgáltatási díj a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kiadása hatósági díjának 40%-a.
+
+87/A. § (1) A többségi állami tulajdonban lévő, a vasúti pályahálózat működtetésére engedéllyel rendelkező gazdasági társaság (e § alkalmazásában a továbbiakban: jogelőd pályavasúti társaság) számára kiadott határozatlan idejű
+
+- a) pályahálózat-működtetésre vonatkozó működési engedély a pályahálózat-működtetés tekintetében bekövetkező jogutódlást követő legfeljebb 180 napig (a továbbiakban: átmeneti működési engedély időszak),
+- b) a biztonsági engedély a pályahálózat-működtetés tekintetében bekövetkező jogutódlást követő legfeljebb 240 napig (a továbbiakban: átmeneti biztonsági engedély időszak) [az a) és b) pont a továbbiakban együtt: átmeneti engedély időszak] jogosítják a jogutód pályavasúti társaságot a vasúti pályahálózat-működtetési tevékenység végzésére.
+
+(2) E § alkalmazásában jogutód pályavasúti társaság az a gazdasági társaság, amely
+
+- a) a jogelőd pályavasúti társaság átalakulása (szétválás, különválás) folytán a vasúti pályahálózat működtetése tekintetében jogutódnak minősül, vagy
+- b) a miniszterrel kötött pályaműködtetési szerződés alapján a pályahálózat-működtetési tevékenység tekintetében jogutódnak minősül.
+
+(3) A jogutód pályavasúti társaságnak az átmeneti engedély időszak alatt is meg kell felelnie a működési engedélyek és a biztonsági engedélyek kiadásának feltételeire vonatkozó előírásoknak. A jogutód pályavasúti társaság az átmeneti működési engedély időszak végéig működési engedélyt, az átmeneti biztonsági engedély időszak végéig biztonsági engedélyt köteles szerezni.
+
+(4) A jogutód pályavasúti társaság tekintetében a jogelőd pályavasúti társaság által a Vtv. 30. § (6) bekezdése és 36/H. § (2) bekezdése szerint megállapított szabályzatok a jogutódlást követő legfeljebb 240 napig (a továbbiakban: átmeneti szabályzat időszak) változatlan tartalommal hatályban maradnak. A szabályzatoknak a vonatkozó jogszabályi előírásoknak történő megfelelését a jogutód pályavasúti társaság az átmeneti szabályzat időszak alatt köteles biztosítani.
+
+(5) A pályahálózat működtetése tekintetében bekövetkező jogutódlás tényét, valamint az átmeneti engedély időszak és az átmeneti szabályzat időszak igénybevételét a jogutód pályavasúti társaság a vasúti közlekedési hatóságnak és vasúti igazgatási szervnek a jogutódlás időpontját követő 7 napon belül köteles bejelenteni.
+
+(6) A vasúti pályahálózat működtetése tekintetében bekövetkező jogutódlás során a jogutód pályavasúti társaság a jogelőd pályavasúti társaság jogutódja a pályahálózat-működtetési feladatok ellátásával, a pályavasúti szolgáltatás nyújtásával összefüggő szerződésekben, egyéb jogviszonyokban, valamint a Hálózati Üzletszabályzat és a Díjszámítási Módszertan pályaműködtetői feladataival összefüggésben.
+
+(7) A jogelőd pályavasúti társaság részére kiadott, a vasúti pályahálózatra vonatkozó használatbavételi, építési, környezetvédelmi és frekvencia-engedélyek szempontjából a jogutód pályavasúti társaság jogutódnak minősül.
 
 ### FELHATALMAZÁS
 

@@ -28,7 +28,7 @@ A művelődéshez való jog esélyegyenlőség alapján való gyakorlásának bi
 
 6. § (1)
 
-(2) A gyermek, ha eléri az iskolába lépéshez szükséges fejlettséget, legkorábban abban a naptári évben, amelyben a hatodik, legkésőbb amelyben a nyolcadik életévét betölti, tankötelessé válik. A gyermek, ha az iskolába lépéshez szükséges fejlettséget elérte, abban a naptári évben, amelyben a hatodik életévét május 31. napjáig betölti, megkezdi a tankötelezettség teljesítését. A szülő kérelmére a gyermek megkezdheti a tankötelezettség teljesítését akkor is, ha a hatodik életévét december 31. napjáig tölti be. A tankötelezettség kezdete annál a gyermeknél eshet a nyolcadik életévre, aki augusztus 31. utáni időpontban született. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik.
+(2)
 
 (3)–(4)
 
@@ -109,19 +109,7 @@ A művelődéshez való jog esélyegyenlőség alapján való gyakorlásának bi
 
 20. §
 
-21. § A közoktatás pedagógiai szakszolgálatainak intézményei:
-
-– gyógypedagógiai tanácsadó, korai fejlesztő és gondozó központ;
-
-— tanulási képességet vizsgáló szakértői és rehabilitációs bizottság, valamint az országos szakértői és rehabilitációs tevékenységet végző bizottság;
-
-— nevelési tanácsadó,
-
-— logopédiai intézet,
-
-— továbbtanulási, pályaválasztási tanácsadó,
-
-— konduktív pedagógiai intézmény.
+21. §
 
 22–23. §
 
@@ -137,7 +125,7 @@ A művelődéshez való jog esélyegyenlőség alapján való gyakorlásának bi
 
 (4) Az óvodai foglalkozásokat oly módon kell megszervezni, hogy az óvoda a szülők igényei szerint eleget tudjon tenni az óvodai neveléssel, a gyermek napközbeni ellátásával összefüggő feladatainak. Az e törvényben meghatározott óvodai feladatok ellátásához igénybe vehető heti időkeret ötven óra, melyet indokolt esetben meg kell növelni a gyermek napközbeni ellátásával összefüggő feladatokhoz szükséges idővel.
 
-(5) A gyermek utoljára abban az évben kezdhet óvodai nevelési évet, amelyben a hetedik életévét betölti. Abban az évben, amelyben a gyermek a hetedik életévét betölti, akkor kezdhet újabb nevelési évet az óvodában, ha augusztus 31. után született, és a nevelési tanácsadó vagy a szakértői és rehabilitációs bizottság javasolja, hogy még egy nevelési évig maradjon az óvodában. A nevelési tanácsadó vagy a szakértői és rehabilitációs bizottság ilyen javaslatot a szülő kérésére és az óvoda nevelőtestületének egyetértésével tehet. A nevelőtestület egyetértését a nevelési tanácsadó, illetve a szakértői és rehabilitációs bizottság a gyermek, tanuló vizsgálatának megkezdése előtt szerzi be. A nevelési tanácsadó, illetve a szakértői és rehabilitációs bizottság – szakvéleményének megküldésével – értesíti a lakóhely, ennek hiányában a tartózkodási hely szerint illetékes jegyzőt, ha javasolja, hogy a gyermek további egy évig óvodai nevelésben vegyen részt.
+(5)
 
 ### Az iskolai nevelés és oktatás közös szabályai
 
@@ -237,37 +225,7 @@ A művelődéshez való jog esélyegyenlőség alapján való gyakorlásának bi
 
 ### A pedagógiai szakszolgálatok
 
-34. § A szülő és a pedagógus nevelő munkáját és a nevelési-oktatási intézmény feladatainak ellátását pedagógiai szakszolgálat segíti. Pedagógiai szakszolgálat
-
-- a) a gyógypedagógiai tanácsadás, korai fejlesztés és gondozás;
-- b) fejlesztő felkészítés;
-- c) a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység, továbbá az országos szakértői és rehabilitációs tevékenység;
-- d) a nevelési tanácsadás;
-- e) a logopédiai ellátás;
-- f) a továbbtanulási, pályaválasztási tanácsadás;
-- g) a konduktív pedagógiai ellátás;
-- h) a gyógytestnevelés.
-
-35. § (1) A gyógypedagógiai tanácsadás, korai fejlesztés és gondozás feladata a sajátos nevelési igény megállapításának időpontjától kezdődően a gyermek korai fejlesztése és gondozása a szülő bevonásával, a szülő részére tanácsadás nyújtása. Ha a gyermek harmadik életévét betöltötte, akkor vehet részt korai fejlesztésben és gondozásban, ha nem kapcsolódhat be az óvodai nevelésbe.
-
-(2) A fejlesztő felkészítés feladata, hogy azoknak a gyermekeknek, akik tankötelezettségüket sajátos nevelési igényük miatt nem tudják teljesíteni, biztosítsa a fejlődésükhöz szükséges felkészítést, a szülő bevonásával, a szülő részére tanácsadás nyújtásával.
-
-(3) A tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység vagy az országos szakértői és rehabilitációs tevékenység keretében kell
-
-- a) a fogyatékosság szűrése, vizsgálata alapján javaslatot tenni a gyermek, tanuló különleges gondozás keretében történő ellátására, az ellátás módjára, formájára és helyére, az ellátáshoz kapcsolódó pedagógiai szakszolgálatra,
-- b) vizsgálni a különleges gondozás ellátásához szükséges feltételek meglétét.
-
-(4) A nevelési tanácsadás feladata annak megállapítása, hogy a gyermek, a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, ennek alapján szakvélemény készítése, valamint a gyermek fejlesztő foglalkoztatása a pedagógus és a szülő bevonásával. A nevelési tanácsadás az óvoda megkeresésére szakvéleményt készít az iskolakezdéshez, segítséget nyújt a gyermek óvodai neveléséhez, a tanuló iskolai neveléséhez és oktatásához, ha a gyermek, tanuló egyéni adottsága, fejlettsége, képessége, tehetsége, fejlődésének üteme indokolja. A nevelési tanácsadás segítségét kérheti a szülő, továbbá a szülő egyetértésével az óvoda, az iskola és a kollégium. A nevelési tanácsadás e feladatai körében pedagógiai, pszichológiai támogatást, fejlesztést, terápiás gondozást nyújt a gyermeknek, a tanulónak, illetve támogatja a pedagógus nevelő és oktató munkáját, segíti a családdal való kapcsolattartást. A nevelési tanácsadás elláthatja az iskolapszichológiai szolgáltatás feladatait is. Az óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés és oktatás keretében a fejlesztő foglalkozás, ha a gyermek, tanuló beilleszkedési, magatartási nehézséggel küzd, a nevelési tanácsadás keretében készített szakvéleményben meghatározottak alapján folyhat. A nevelési tanácsadást ellátó intézmény ellenőrzi a szakvéleményben foglaltak végrehajtását. A nevelési tanácsadás feladata továbbá, hogy a szakértői és rehabilitációs bizottság által készített és a nevelési tanácsadó részére megküldött szakvélemény alapján segítse azoknak a gyermekeknek, tanulóknak az óvodai, iskolai, kollégiumi ellátását, akik a megismerő funkciók vagy a viselkedés fejlődésének súlyos rendellenességével küzdenek. Az e körbe tartozó tanulók részére az e törvény 52. §-a (6) bekezdésének b) pontjában meghatározott időkeret terhére kell az iskolai fejlesztő foglalkozást biztosítani. A nevelési-oktatási intézmény vezetője felelős a fejlesztő foglalkozások – e bekezdésben előírt – szakvéleményekben meghatározottak szerinti megszervezéséért.
-
-(5) A logopédiai szolgáltatás feladata a beszédindítás, beszédhibák javítása, nyelvi-kommunikációs zavarok javítása, dyslexia megelőzése és gyógyítása.
-
-(6) A továbbtanulási, pályaválasztási tanácsadás feladata a tanuló adottságainak, tanulási képességének, irányultságának szakszerű vizsgálata, és ennek eredményeképpen iskolaválasztás ajánlása.
-
-(7) A konduktív pedagógiai szakszolgálat feladata a központi idegrendszeri sérültek konduktív nevelése, fejlesztése és gondozása.
-
-(8) A gyógytestnevelés feladata a gyermek, a tanuló speciális egészségügyi célú testnevelési foglalkoztatása, ha az iskolaorvosi vagy szakorvosi szűrővizsgálat gyógy- vagy könnyített testnevelésre utalja.
-
-(9) A továbbtanulási, pályaválasztási tanácsadás a munkaerő-piaci tanácsadással közösen is megszervezhető, együtt is ellátható.
+34–35. §
 
 ### A pedagógiai-szakmai szolgáltatások
 
@@ -395,7 +353,7 @@ százaléka. Ha az összevont osztályban az egyes évfolyamokra a (3) bekezdés
 
 55. § (1)–(4)
 
-(5) Nem lehet az (1) bekezdésben meghatározott vezető az, aki közoktatási intézmény fenntartója, illetve, aki közoktatási intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köztisztviselő, közalkalmazott. Ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület (közgyűlés, képviselő-testület, kuratórium) tagjaira.
+(5)
 
 ### A nevelőtestület
 
@@ -423,7 +381,7 @@ százaléka. Ha az összevont osztályban az egyes évfolyamokra a (3) bekezdés
 
 66. § (1)–(8)
 
-(9) Az iskolába a tanköteles tanulókat az első évfolyamra a községi, városi, fővárosi kerületi, megyei jogú városi önkormányzat által meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
+(9)
 
 (10)–(11)
 
@@ -489,216 +447,17 @@ százaléka. Ha az összevont osztályban az egyes évfolyamokra a (3) bekezdés
 
 ### A közoktatás közfeladatai, a helyi önkormányzatok feladatellátási kötelezettsége
 
-85. § (1) A helyi önkormányzatok az e törvényben meghatározottak szerint látják el a közoktatással kapcsolatos feladataikat.
-
-(2) A közoktatás feladatainak megoldásában az állam intézmény alapításával és fenntartásával, illetve nem állami vagy nem helyi önkormányzati alapítású intézmény fenntartójával kötött megállapodással közvetlenül is részt vesz.
-
-(3) Az (1) bekezdésben meghatározott közoktatási feladatok teljesítésében — nevelési-oktatási intézmény, illetve pedagógiai szakszolgálat és pedagógiai szakmai szolgáltató intézmény létesítésével és fenntartásával — jogi személyek és természetes személyek is részt vehetnek.
-
-(4) A helyi önkormányzat önállóan vagy más helyi önkormányzattal közösen köteles a közoktatási feladatai megszervezéséhez szükséges önkormányzati döntés-előkészítést szolgáló feladat-ellátási, intézményhálózat-működtetési és -fejlesztési tervet (a továbbiakban: önkormányzati intézkedési terv) készíteni. Az önkormányzati intézkedési tervnek figyelembe kell vennie a fővárosi, megyei fejlesztési tervet. Az önkormányzati intézkedési tervnek tartalmaznia kell, hogy az önkormányzat a kötelező feladatait milyen módon látja el, illetőleg milyen nem kötelező feladatokat kíván a helyi önkormányzat ellátni. Tartalmaznia kell továbbá az intézményrendszer működtetésével, fenntartásával, fejlesztésével, átszervezésével összefüggő elképzeléseket. Az intézkedési terv elkészítésekor be kell szerezni – a nemzetiséget érintő kérdésekben – a települési nemzetiségi önkormányzat egyetértését. Az intézkedési terv elkészítéséhez ki kell kérni a településen működő közoktatási intézmények vezetőinek, továbbá a szülői és diákszervezetek, a nem állami, nem önkormányzati intézményfenntartók, a települési szintű szakszervezetek, – ha nem működik települési nemzetiségi önkormányzat – az érdekelt országos nemzetiségi önkormányzat véleményét. A helyi önkormányzat a helyi intézkedési terv végrehajtását legalább kétévenként értékeli és szükség szerint felülvizsgálja. A helyi önkormányzat az e törvény 103. §-a (2) bekezdésének a) pontja alapján vizsgálja, hogy a nevelési, illetve pedagógiai program megfelel-e az önkormányzati intézkedési tervben foglaltaknak. Nem kell a helyi önkormányzatnak intézkedési tervet készítenie, ha tagja a többcélú kistérségi társulásnak, feltéve, hogy a többcélú kistérségi társulás önálló intézkedési terve – települések szerinti bontásban – tartalmazza mindazt, amit az önkormányzati intézkedési tervnek tartalmaznia kell.
-
-(5) Ha a helyi önkormányzat az óvodai nevelésről vagy az általános iskolai nevelésről és oktatásról részben vagy egészben nem saját intézményfenntartással gondoskodik, az önkormányzati intézkedési tervben meg kell határoznia, hogy milyen módon tesz eleget az e törvényben meghatározott kötelezettségének. Az önkormányzati intézkedési tervet pedig azzal a helyi önkormányzattal közösen kell elkészítenie, amelyik által fenntartott nevelési-oktatási intézmény látja el az illetékességi területén élők tekintetében a kötelező felvételt biztosító óvoda, illetve a kötelező felvételt biztosító iskola feladatait.
-
-(6) Az önkormányzati intézkedési terv elkészítésekor, felülvizsgálatakor a helyi önkormányzatnak be kell szereznie a a megyei kormányhivatalnak, a főváros esetén fővárosi önkormányzatnak a szakvéleményét abban a kérdésben, hogy az önkormányzati intézkedési terv összhangban áll-e a fővárosi, megyei fejlesztési tervben foglaltakkal. Ha az önkormányzati intézkedési terv, illetve annak módosítása a szakvéleményben foglaltak szerint nem áll összhangban a fővárosi, megyei fejlesztési tervvel, elfogadásakor a helyi önkormányzatokról szóló 1990. évi LXV. törvény 15. §-ának (2) bekezdésében szabályozott minősített többségre van szükség.
-
-(7) A helyi önkormányzati intézményfenntartó elkészíti az önkormányzati közoktatási intézményrendszer működésének minőségirányítási programját (a továbbiakban: önkormányzati minőségirányítási program). Az önkormányzati minőségirányítási program az önkormányzati közoktatási rendszer egészére határozza meg a fenntartó elvárásait az egyes intézményeknek a fenntartói elvárásokkal kapcsolatos feladatait, a közoktatás rendszerének és a közoktatást érintő más ágazatok – gyermek- és ifjúságvédelem, szociálpolitika, munkaerő-gazdálkodás, közművelődés, egészségügy – kapcsolatait, a fenntartói irányítás keretében tervezett szakmai, törvényességi, pénzügyi ellenőrzések rendjét. Az intézményi minőségirányítási programnak összhangban kell állnia az önkormányzati minőségirányítási programmal.
-
-86. § (1) A községi, a városi, a fővárosi kerületi és a megyei jogú városi önkormányzat köteles gondoskodni az óvodai nevelésről, az általános iskolai oktatásról, továbbá a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai neveléséről és az általános iskolai neveléséről és oktatásáról.
-
-(2) Az (1) bekezdés szerinti kötelezettség magában foglalja a sajátos nevelési igényű gyermekek, tanulók ellátását is, amennyiben azok a többi gyermekkel, tanulóval együtt nevelhetők, oktathatók.
-
-(3) A fővárosi és megyei kormányhivatal a megyei fenntartó útján, a megyei jogú város saját területén, továbbá – ha a (4) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
-
-- a) a kollégiumi és a nemzetiségi kollégiumi ellátásról,
-- b) a középiskolai és a szakiskolai ellátásról,
-- c) a nemzetiség középiskolai és szakiskolai ellátásáról,
-- d) a felnőttoktatásról,
-- e) az alapfokú művészetoktatásról,
-- f) a továbbtanulási, pályaválasztási tanácsadásról, a nevelési tanácsadásról, a logopédiai szolgáltatásról, a gyógytestnevelésről
-
-abban az esetben, ha a községi, városi, fővárosi kerületi önkormányzat a feladat ellátását nem vállalja, illetve a feladat ellátása a megye, főváros területén nem megoldott.
-
-(4) Ha a fővárosi önkormányzat és fővárosi kerületi önkormányzat között létrejött megállapodás másképp nem rendelkezik, a fővárosi kerületi önkormányzat köteles gondoskodni:
-
-- a) az enyhe értelmi fogyatékos tanulók általános iskolai oktatásáról;
-- b) az alapfokú művészetoktatásról;
-- c) az általános iskolai felnőttoktatásról;
-- d) a nevelési tanácsadásról, logopédiai szolgáltatásról és gyógytestnevelésről.
-
-(5) Felnőttoktatásban – a nappali oktatás munkarendje kivételével – a helyi önkormányzat feladatellátási kötelezettsége nem terjed ki a szakképzés megszervezésére.
-
-(6) Ha az ugyanazon nemzetiséghez tartozó tanulók létszáma nem teszi lehetővé, hogy egy településen belül a nemzetiségi oktatást megszervezzék, az érintett országos nemzetiségi önkormányzat kezdeményezésére a fővárosi és megyei kormányhivatal a megyei fenntartó útján, a megyei jogú város saját területén – jogszabályban meghatározottak szerint – megszervezi az általános műveltséget megalapozó szakasz követelményeihez kapcsolódóan az anyanyelv és népismeret követelményeinek oktatását (a továbbiakban: kiegészítő nemzetiségi oktatás). A kiegészítő nemzetiségi oktatás megszervezhető egy adott iskola tagozataként, külön nyelvoktató nemzetiségi iskola létrehozásával vagy utazó pedagógusok alkalmazásával.
-
-87. § (1) A fővárosi és megyei kormányhivatal a megyei fenntartó útján, a megyei jogú város saját területén, továbbá – ha a (2) bekezdés másképp nem rendelkezik – a fővárosi önkormányzat köteles gondoskodni
-
-- a) az általános iskolát követően azoknak a tanulóknak különbözeti vizsga vagy évfolyamismétlés nélküli iskolaváltásáról, akiknek a lakóhelyén, ennek hiányában tartózkodási helyén, a tankötelezettség végéig nem biztosítottak az iskolai nevelés és oktatás feltételei,
-- b) a középiskolai és a szakiskolai felvételekkel összefüggő tájékoztató tevékenységről,
-- c) az önkormányzati pedagógiai-szakmai szolgáltatásról,
-- d) a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatásról,
-- e) azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai, iskolai, kollégiumi ellátásáról, akik a többi gyermekkel, tanulóval nem foglalkoztathatók együtt,
-- f) a fejlesztő felkészítés teljesítéséhez szükséges feltételekről,
-- g) gyógypedagógiai tanácsadás, korai fejlesztés és gondozás megszervezéséről, a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenységről, továbbá a konduktív pedagógiai ellátásról,
-- h) az e)–f) pontban meghatározott feladatok, továbbá a gyógytestnevelés feladatainak ellátásához szükséges utazó szakember hálózat működtetéséről.
-
-(2) Ha a fővárosi önkormányzat és a fővárosi kerületi önkormányzat között létrejött megállapodás másképp nem rendelkezik, a fővárosi kerületi önkormányzat köteles gondoskodni az önkormányzati pedagógiai-szakmai szolgáltatás ellátásáról az óvodai nevelés és az általános iskolai nevelés és oktatás tekintetében.
-
-(3) A fővárosi önkormányzat köteles gondoskodni a fogyatékosság megállapításához szükséges országos szakértői és rehabilitációs tevékenység ellátásáról. Az országos szakértői és rehabilitációs feladatokat jogszabály határozza meg.
-
-(4) A megyei kormányhivatal, a főváros esetén fővárosi önkormányzat – jogszabályban meghatározottak szerint – gondoskodik a pedagógusok és más speciális végzettségű szakemberek fővárosi, megyei állandó helyettesítési rendszerének működtetéséről.
-
-88. § (1) A fővárosi önkormányzat a fővárosi kerületi önkormányzatok, a megyei kormányhivatal a megye területén működő helyi önkormányzatok véleményének kikérésével és közreműködésével – a közoktatási feladatok megszervezéséhez szükséges önkormányzati döntés előkészítését szolgáló – feladatellátási, intézményhálózat-működtetési és köznevelési fejlesztési tervet (a továbbiakban együtt: fejlesztési terv) készít. A fejlesztési terv készítésénél a Központi Statisztikai Hivatal, állami foglalkoztatási szerv (a továbbiakban együtt: közreműködők), a területi gazdasági kamara, a fővárosi, megyei szülői és diákszervezet, a nem állami, nem önkormányzati intézményfenntartók, a fővárosi, megyei szintű pedagógus-szakszervezet véleményét ki kell kérni. A fejlesztési tervet a megyei kormányhivatal és, saját területére vonatkozóan a megyei jogú város elkészíti, majd együttesen hagyják jóvá. A fejlesztési tervben önálló fejezetként jelenik meg az e törvény 86–87. §-ában meghatározott kötelező – a megyei kormányhivatal által ellátott – feladatok ellátására, ennek keretei között a nyolcadik évfolyam elvégzése után középfokú tanulmányok folytatása iránti igények teljesítésére vonatkozó terv. A fejlesztési tervnek az oktatási feladatok ellátása tekintetében tartalmaznia kell a megyei kormányhivatal és az önkormányzatok együttműködésének alapelveit, az oktatási intézményrendszer átjárhatóságának biztosítékait és feltételeit. A fejlesztési terv elkészítésébe be kell vonni az érdekelt nemzetiségi önkormányzatokat. A fejlesztési terv elkészítéséhez – az adott nemzetiséget közvetlenül érintő kérdésben – be kell szerezni az érintett települési és országos nemzetiségi önkormányzat egyetértését. A fővárosi önkormányzat, illetve a fővárosi és megyei kormányhivatalnak megkeresésére a közreműködők kötelesek a fejlesztési terv elkészítéséhez szükséges adatokat szolgáltatni. A fővárosi fejlesztési tervet a fővárosi önkormányzat határozattal adja ki. A megyei fejlesztési tervet a megyei kormányhivatal készíti el, nyilvánosságra hozza a honlapján, továbbá elektronikus úton megküldi az érintett önkormányzatoknak és a közoktatási intézményeknek. E bekezdés alkalmazásában szülői és diákszervezet, pedagógus szakmai szervezet az a szervezet, amelyik alapszabályának és bírósági nyilvántartásba vételének igazolásával a fővárosi önkormányzatnál vagy a fővárosi és megyei kormányhivatalnál bejelentkezett.
-
-(2) A fejlesztési terv tartalmazza a közoktatás-szolgáltatás megszervezésének helyzetértékelését, a megoldásra váró feladatokat, továbbá a főváros, illetve a megye területére vonatkozó középtávú beiskolázási tervet. A fejlesztési tervet oly módon kell elkészíteni, hogy meg lehessen állapítani, hogy a fővárosi és megyei kormányhivatal és az egyes önkormányzatok milyen módon tesznek eleget a közoktatással összefüggő feladatellátási kötelezettségüknek, továbbá az egyes településen állandó lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermekek, tanulók hol vehetik igénybe az e törvényben meghatározott közoktatás-szolgáltatásokat, különös tekintettel a kötelező felvételt biztosító óvodát, iskolát és a pedagógiai szakszolgálatokat. A beiskolázási tervben kell meghatározni – a tanulói létszám várható alakulására tekintettel – az egyes iskolatípusok összes befogadó képességét, az egyes iskoláknak a tankötelezettség teljesítésében, illetőleg a továbbtanulás feltételeinek megteremtésében való feladatát. A nem helyi önkormányzat, nem állami szerv által fenntartott közoktatási intézményt a fejlesztési terv elkészítésénél és módosításánál figyelembe kell venni, ha közoktatási megállapodás keretében közreműködik a helyi önkormányzati kötelező feladat ellátásában, illetve a 81. § (11) bekezdésében meghatározott esetben a fenntartó nyilatkozatát a települési önkormányzathoz eljuttatta, vagy az oktatásért felelős miniszterrel közoktatási megállapodást kötött. Közoktatási megállapodás, illetve nyilatkozat hiányában a nem helyi önkormányzat, nem állami szerv által fenntartott közoktatási intézményt a fejlesztési tervben nem lehet feltüntetni.
-
-(3) A fejlesztési terv legalább hatéves időszakra készül. A fejlesztési tervet legalább négyévenként át kell tekinteni, továbbá akkor is, ha azt az érintett helyi önkormányzatok vagy a helyi nemzetiségi, illetve országos nemzetiségi önkormányzatok, illetve az összes érdekeltek legalább öt százaléka kéri.
-
-(4) A megyei fenntartó és az önkormányzatok feladataikat intézmény létesítésével, fenntartásával, társulásban való részvétellel vagy más önkormányzattal, illetve fenntartóval kötött megállapodás útján láthatják el. Amennyiben az e törvényben meghatározott feladatokat az önkormányzatok társulás útján látják el, a társulási szerződésben meg kell állapodniuk a költségek viseléséről és megosztásáról is.
-
-(5) A helyi önkormányzat új közoktatási intézményt akkor létesíthet, a meglévő intézmény feladatát akkor bővítheti, ha a működés megkezdéséhez, illetve az új feladatok ellátásához szükséges személyi és tárgyi feltételek, valamint a költségvetési fedezet rendelkezésre áll, illetve megteremthető. A döntéshez be kell szerezni a fővárosi és megyei kormányhivatal, a főváros esetén fővárosi önkormányzat – fejlesztési tervre épített – szakvéleményét.
-
-(6) A helyi önkormányzat a közoktatási intézményét, illetve egyes szolgáltatás ellátását – részben vagy egészben – akkor szüntetheti meg, közoktatási intézményét akkor szervezheti át, ha az adott tevékenységről, szolgáltatásról továbbra is megfelelő színvonalon gondoskodik oly módon, hogy annak igénybevétele a gyermeknek, tanulónak, szülőnek nem jelent aránytalan terhet. Ennek eldöntéséhez be kell szerezni a megyei kormányhivatal, a főváros esetén fővárosi önkormányzat – fejlesztési tervre épített – szakvéleményét. A helyi önkormányzat közoktatási szakértő véleményét köteles beszerezni tervezett intézkedésének véleményezése céljából. A közoktatási szakértőnek abban a kérdésben kell állást foglalnia, hogy a javasolt megoldás biztosítja-e az adott tevékenység, szolgáltatás e bekezdésben meghatározottak szerint történő további ellátását. A szakértő véleményét a a megyei kormányhivatal, a főváros esetén a fővárosi önkormányzat részére, – a szakvélemény megkérésével egyidejűleg – meg kell küldeni. A független közoktatási szakértő személyére – a helyi önkormányzat megkeresésére – a közoktatási feladatkörében eljáró oktatási hivatal tesz javaslatot.
-
-(7) A helyi önkormányzat a tulajdonában lévő nevelési-oktatási intézmény tulajdoni vagy fenntartói jogát részben vagy egészben akkor engedheti át világnézeti alapon szerveződő vagy más fenntartóknak, ha azoknak a gyermekeknek, tanulóknak, akiknek a szülei nem akarják az elkötelezett, illetve az átadott nevelési-oktatási intézménybe járatni gyermeküket, a szolgáltatást továbbra is megfelelő színvonalon biztosítja oly módon, hogy annak igénybevétele a gyermeknek, tanulónak, szülőnek nem jelent aránytalan terhet. Ennek eldöntéséhez be kell szerezni a megyei kormányhivatal, a főváros esetén fővárosi önkormányzat – fejlesztési tervre épített – szakvéleményét.
-
-(8) Ha a helyi önkormányzat a fővárosi, megyei önkormányzat fejlesztési tervre épített szakvéleményében foglaltakkal ellentétesen közoktatási intézményét meg kívánja szüntetni, illetve a nevelési-oktatási intézmény tulajdoni vagy fenntartói jogát nem állami szerv vagy nem helyi önkormányzati fenntartó részére részben vagy egészben át kívánja engedni, a döntéshez a helyi önkormányzatokról szóló 1990. évi LXV. törvény 15. §-ának (2) bekezdésében szabályozott minősített többségre van szükség. Az ily módon hozott döntésnél is figyelembe kell venni a (6)–(7) bekezdésben foglaltakat.
-
-(9) Ha községi, városi, fővárosi kerületi önkormányzat a tulajdonában lévő közoktatási intézménnyel a 86. § (3) bekezdésében felsorolt feladat ellátását nem vállalja, értesíti a fővárosi és megyei kormányhivatalt, a fővárosi kerületi önkormányzat esetén a fővárosi önkormányzatot a feladat átadásáról, amely a (6) bekezdésben meghatározottak figyelembevételével, a 102. § (3) bekezdésében meghatározott eljárás megtartásával dönt arról, hogy szükséges-e az átvett feladathoz a feladatot ellátó intézmény további működtetése. A megyei kormányhivatal, fővárosi kerületi önkormányzat esetén a fővárosi önkormányzat kérésére a feladatot átadó önkormányzat az átadott feladat ellátását szolgáló intézmény vagyonát köteles használatra átengedni a megyei fenntartónak, fővárosi kerületi önkormányzat esetén a fővárosi önkormányzatnak vagy a vagyonkezelői jog gyakorlójának kijelölni (a továbbiakban a használati jog és a vagyonkezelői jog együtt: használati jog). Az átadás ingyenesen történik. A feladat és a használat átadásának időpontja – a felek eltérő megállapodásának hiányában – nevelési-oktatási feladat és intézmény esetén a bejelentést követő év július 1-je, más közoktatási feladat és intézmény esetén pedig a bejelentést követő év január 1-je. Ha a feladatot többcélú intézmény keretében látja el a községi, városi, fővárosi kerületi önkormányzat, és a feladat ellátását szolgáló intézményi vagyon nem osztható meg, a megyei kormányhivatal, fővárosi kerületi önkormányzat esetén a fővárosi önkormányzat kérésére az intézmény teljes vagyonát – az intézmény által ellátott feladatokkal együtt – használatra át kell engedni. Az e bekezdésben szabályozott használatba adás ideje tíz évnél nem lehet rövidebb. A használatba adásra egyebekben a Polgári Törvénykönyvről szóló törvény rendelkezéseit kell alkalmazni.
-
-(10) Ha a megyei kormányhivatal, a főváros esetén fővárosi önkormányzat a (9) bekezdésben meghatározottak szerint nem kéri a használati jog átengedését, az intézmény vagyona csak akkor idegeníthető el, ha a tulajdonos helyi önkormányzat a 86. § (1) bekezdésében meghatározott feladatainak intézményfenntartóként tesz eleget. Az intézmény elidegenítésekor elővásárlási jog illeti meg azt, aki az intézményi vagyont továbbra is közoktatási feladat ellátására használja fel. Az így megvásárolt ingatlanra tíz évre szóló elidegenítési és terhelési tilalmat kell bejegyezni.
-
-(11) A fővárosi fenntartású közoktatási intézmény megszüntetéséhez, tulajdoni vagy fenntartói jogának nem állami, nem helyi önkormányzati fenntartónak részben vagy egészben történő átengedéséhez a közgyűlés (8) bekezdésében meghatározottak szerint hozott döntésére van szükség abban az esetben, ha a döntés nincs összhangban a fejlesztési tervben foglaltakkal. A központ által fenntartott közoktatási intézmény megszüntetése, tulajdoni vagy fenntartói jogának nem állami, nem helyi önkormányzati fenntartónak részben vagy egészben történő átengedése esetén tájékoztatja a megyei közgyűlést.
-
-(12) Ha az óvodában, iskolában nemzetiségi óvodai nevelés, iskolai nevelés és oktatás folyik, a (6)–(7) és (9) bekezdésben meghatározott döntéshez a helyi önkormányzatnak be kell szereznie az intézmény székhelye szerint illetékes – fenntartótól függően települési, vagy területi – nemzetiségi önkormányzat egyetértését és az országos nemzetiségi önkormányzat véleményét.
-
-(13) Ha a nevelési-oktatási intézmény jogutódlással szűnik meg, a megszűnés nem érinti a gyermek óvodai elhelyezését, tanulói jogviszonyát, kollégiumi tagsági viszonyát. Abban az esetben, ha a szülő nem akarja a jogutód nevelési-oktatási intézménybe járatni gyermekét, továbbá, ha a nevelési-oktatási intézmény jogutód nélkül szűnik meg, a helyi önkormányzat a (6)–(7) bekezdésben foglaltak figyelembevételével megjelöli azt a nevelési-oktatási intézményt, amelybe a szülő – a nevelési-oktatási intézmény megszűnése előtt – kérheti gyermeke átvételét. A megjelölt nevelési-oktatási intézmény vezetője a gyermek, tanuló felvételét csak helyhiány miatt tagadhatja meg.
-
-89. § A közoktatási feladatok zavartalan biztosítása érdekében a fővárosi, megyei önkormányzat a főváros, megye területén működő önkormányzatokkal együttműködési megállapodás megkötését kezdeményezi a közoktatással összefüggő — körzeti jellegű — szolgáltatások megszervezésére, így különösen
-
-- a) a tankötelezettség teljesítésével kapcsolatos feladatok (iskolahálózat kialakítása, a kilencedik, tizedik évfolyamon folyó oktatás biztosítása, beiratkozás, áthelyezés, a pedagógiai szakszolgálatok működtetése) ellátására;
-- b) a nemzetiséghez tartozó gyermekek, tanulók, továbbá a sajátos nevelési igényű gyermekek, tanulók óvodai, iskolai ellátásának megoldására;
-- c) a fejlesztő felkészítéshez szükséges feltételek megteremtésére, az utazó gyógypedagógusi, logopédusi, konduktori hálózat működtetésére;
-- d) az iskolaváltás biztosítása különbözeti vizsga, illetőleg évfolyamismétlés nélkül azoknak, akiknek az állandó lakóhelyén nem biztosítottak az iskolai nevelés és oktatás feltételei a tankötelezettség végéig;
-- e) a középiskolai és a szakiskolai felvételi ügyekkel kapcsolatos kérdések rendezésére, sajátos feladatok megoldására;
-- f) a körzeti szolgáltatást ellátó intézmény (sajátos nevelési igényű gyermekeket, tanulókat fogadó iskola és diákotthon, kollégium, logopédiai intézet stb.) működési (felvételi) körzetének megállapítására, fenntartásához, működtetéséhez szükséges hozzájárulás megállapítására.
+85–89. §
 
 ### A közoktatás feladatainak kistérségi megszervezése
 
-89/A. § (1) A települési önkormányzatok többcélú kistérségi társulásának megalakulása (a továbbiakban: többcélú kistérségi társulás) esetén az e törvény 85–89. §-ában foglaltakat az e §-ban meghatározott eltérésekkel kell alkalmazni.
-
-(2)
-
-(3)
-
-(4) A többcélú kistérségi társulási megállapodást, illetve annak módosítását a társulási tanács elnöke megküldi a fővárosi és megyei kormányhivatalnak, és szükség szerint kezdeményezi az átvett feladatokkal kapcsolatos megállapodás megkötését, módosítását. A fővárosi és megyei kormányhivatal, legkésőbb hatvan napon belül köteles a kezdeményezésről dönteni.
-
-(5) A többcélú kistérségi társulás az általa ellátott feladatokra – az e törvény 85. §-ának (4) bekezdése szerint – önálló intézkedési tervet készít.
-
-(6) Ha a többcélú kistérségi társulás megszűnik az e törvény 86. §-ának (3) bekezdésében meghatározott feladat-ellátási kötelezettség és a feladat ellátásához rendelkezésre álló intézményi vagyon használati joga – az e törvény 102. §-ának (9)–(10) bekezdésben meghatározottak szerint –
-
-- a) a feladatellátási kötelezettség a fővárosi és megyei kormányhivatalra, a használati jog a megyei fenntartóra száll azoknak a községi, városi önkormányzatok tekintetében, amelyek e törvény 1993. szeptember 1-jei hatálybalépésekor (a továbbiakban: 1993. évi hatálybalépés) az adott feladatot nem látták el,
-- b) arra a községi, városi önkormányzatra száll, amelyik az adott feladatot e törvény 1993. évi hatálybalépésekor ellátta.
-
-(7) Ha a községi, városi önkormányzat kilép a többcélú kistérségi társulásból az e törvény 86. §-ának (3) bekezdésében meghatározott feladat-ellátási kötelezettség és a feladat ellátásához rendelkezésre álló intézményi vagyon használati joga – az e törvény 102. §-ának (9) bekezdésben meghatározottak szerint –
-
-- a) a feladatellátási kötelezettség a fővárosi és megyei kormányhivatalra, a használati jog a megyei fenntartóra száll, amennyiben a kilépő községi, városi önkormányzat e törvény 1993. évi hatálybalépésekor az adott feladatot nem látta el,
-- b) a kilépő községi, városi önkormányzatra száll, amennyiben az adott feladatot e törvény 1993. évi hatálybalépésekor ellátta.
-
-(8)
-
-(9) A közoktatási intézményt fenntartó többcélú kistérségi társulás a közoktatással összefüggő döntései előkészítésére közoktatási társulási bizottságot hoz létre.
-
-(10) A közoktatási intézményt fenntartó többcélú kistérségi társulás – az érintett községi, városi önkormányzat kezdeményezésére – a közoktatással összefüggő tevékenységét olyan település tekintetében is elláthatja, amely nem tagja a társulásnak, ennek keretei között megállapodhat különösen az intézményfenntartói jog átvételében, valamint tagintézményt működtethet olyan településen is, amely nem tartozik a többcélú kistérségi társuláshoz.
-
-(11) A (10) bekezdésben meghatározott kérdésekben a társulási tanács határoz.
-
-(12) A többcélú kistérségi társulás az ellátott feladatai tekintetében a 81. §-ban meghatározottak szerint közoktatási megállapodást is köthet.
+89/A. §
 
 ### A szakképzés feladatainak regionális megszervezése
 
-89/B. § (1) A külön törvény alapján létrehozott regionális fejlesztési és képzési bizottság közreműködik a munkaerő-piaci igények és a közoktatásban folyó szakképzés fejlesztésének összehangolásában, e körben különösen:
+89/B. §
 
-- a) kidolgozza – a régió hosszú- és középtávú területfejlesztési koncepciójának, illetve a régió fejlesztési programjának részeként – az iskolai rendszerű szakképzés fejlesztésének irányát,
-- b) közreműködik az iskolai rendszerű szakképzés és az iskolarendszeren kívüli szakképzés, a közoktatásban és a felsőoktatásban folyó szakképzés összhangjának megteremtésében,
-- c) meghatározza a szakképzés fejlesztési irányait és beiskolázási arányait a régióban,
-- d) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő pályázatok, fejlesztési programok elkészítésében, lebonyolításában,
-- e) részt vesz a pályakövetési rendszer működtetésében,
-- f) a régióban működő helyi önkormányzatoknál kezdeményezi a szakképzés-szervezési társulás megalakulását.
-
-(2) Szakképzés-szervezési társulás az e törvényben meghatározott szakképzéssel összefüggő önkormányzati feladatok végrehajtására hozható létre. A szakképzés-szervezési társulásba beléphet minden olyan helyi önkormányzat, amely a szakképzés feladataiban részt vevő iskolát tart fenn. A szakképzés-szervezési társulásba történő belépés feltétele, hogy az érintett elfogadja a regionális fejlesztési és képzési bizottság által a szakképzés fejlesztésének összehangolásával összefüggésben hozott döntéseket.
-
-(3) A szakképzés-szervezési társulás jogi személy. A szakképzés-szervezési társulás – a szakképzés körében – közoktatási megállapodást vagy más megállapodást köthet.
-
-(4) A szakképzés-szervezési társulás
-
-- a) létesíthet és fenntarthat szakiskolát, szakközépiskolát és kollégiumot,
-- b) részt vehet az iskolarendszeren kívüli szakképzés szervezésében,
-- c) működtetheti – a szakképzés terén – a pedagógusok állandó helyettesítési rendszerét és az utazó szakember hálózat rendszerét.
-
-(5) A szakképzés-szervezési társulás a regionális fejlesztési és képzési bizottság döntésének megfelelően
-
-- a) – a szakképzés fejlesztési irányára és beiskolázási arányára tekintettel – meghatározza a társulás által, illetve a társulás tagjai által fenntartott iskolákban a szakképzési évfolyamokon indítható osztályok számát,
-- b) a szakmai program tekintetében egyetértési jogot gyakorol az iskola pedagógiai programjának jóváhagyásánál.
-
-(6) A szakképzés-szervezési társulás működésére az e törvényben nem szabályozott kérdések tekintetében a helyi önkormányzatok társulásairól és együttműködéséről szóló törvény rendelkezéseit kell alkalmazni.
-
-(7) A szakképzés-szervezési társulás által ellátott feladatok tekintetében a fővárosi és megyei kormányhivatalnak feladatellátási kötelezettsége a társulásban részt vevő települési önkormányzatok illetékességi területén megszűnik, és az e törvény 88. §-ának (9) bekezdésében szabályozottak szerinti feladatátvételre a szakképzés-szervezési társulás válik jogosulttá. A szakképzés-szervezési társulás az átvett feladat ellátásához szükséges intézményi vagyon használati jogát átveheti. A feladat átadására, illetve az intézményi vagyon használatra történő átengedésére e törvény 88. §-ának (9), valamint 102. § (9) és (11)–(12) bekezdésében meghatározottakat azzal az eltéréssel kell alkalmazni, hogy a használatba adás a szakképzés-szervezési társulás fennállásáig szól.
-
-(8) A szakképzés-szervezési társulás az általa ellátott feladatokra – az e törvény 88. §-ának (1) bekezdése szerint – önálló fejlesztési tervet készít.
-
-(9) Ha a szakképzés-szervezési társulás megszűnik, az e törvény 86. §-ának (3) bekezdésében meghatározott feladatellátási kötelezettség és a feladat ellátásához rendelkezésre álló intézményi vagyon használati joga – az e törvény 102. §-ának (9)–(10) bekezdésben meghatározottak szerint – arra a helyi önkormányzatra száll vissza, amelyik azt a szakképzés-szervezési társulás részére átadta.
-
-(10) Ha az önkormányzat ki akar lépni a szakképzés- szervezési társulásból, szándékát legalább egy tanítási évvel korábban be kell jelentenie.
-
-(11) Az e §-ban foglaltakat a főváros tekintetében a következő eltérésekkel kell alkalmazni: a fővárosi önkormányzat a kerületi önkormányzattal létrehozott társulás keretében is elláthatja a szakképzés-szervezési társulás feladatait. A fővárosi önkormányzat és a kerületi önkormányzat által létrehozott társuláshoz csatlakozhat a Pest megyei városi és községi önkormányzat is.
-
-(12) A közoktatási intézményfenntartó többcélú kistérségi társulás, a felsőoktatási intézmény, a nem állami, nem önkormányzati intézményfenntartó, valamint a megyei fenntartó megállapodhat a szakképzés-szervezési társulással a feladatok közös megszervezésében. A megállapodás előfeltétele, hogy a többcélú kistérségi társulás, a felsőoktatási intézmény, a nem állami, nem önkormányzati intézményfenntartó, a megyei fenntartó az (5) bekezdés a) pontjában meghatározottak szerint vállalja a szakképzésnek a regionális fejlesztési és képzési bizottság döntésének megfelelő megszervezését.
-
-(13) A nem állami, nem helyi önkormányzati intézményfenntartók a (4) bekezdés a)–b) pontjában, továbbá az (5) bekezdésben meghatározott feladatok ellátására – non-profit – gazdasági társaságot hozhatnak létre. A szakképzés-szervezési társulás és az e bekezdés alapján létrehozott társaság egymással megállapodhat a szakképzés közös megszervezésében. Non-profit gazdasági társaság létrehozása esetén a szakképzés szervezésére – a (6)–(9) bekezdésben foglaltak kivételével – az e paragrafusban foglaltakat alkalmazni kell.
-
-90. § (1) A közoktatási intézményt fenntartó helyi önkormányzat meghatározza és közzéteszi az óvodák, iskolák működési (felvételi) körzetét. Az e körzetben élő gyermekek, tanulók felvételét, átvételét az óvoda, iskola nem tagadhatja meg [65. § (2) bek. és 66. § (2) bek.]; továbbá – a fővárosi, megyei fejlesztési tervvel összhangban – a pedagógiai szakszolgálatot ellátó intézmény működési körzetét, valamint az óvoda nyitva tartásának rendjét. A pedagógiai szakszolgálatot ellátó intézmény működési körzetének meghatározásához be kell szerezni a megyei kormányhivatal, a főváros esetén fővárosi önkormányzat – fejlesztési tervre épített – szakvéleményét.
-
-(2) A sajátos nevelési igényű gyermekek nevelését ellátó óvoda, óvodai tagozat, óvodai csoport, iskola, iskolai tagozat, osztály, csoport, továbbá a logopédiai intézet működési (felvételi) körzetének megállapításához a fenntartó helyi önkormányzatnak be kell szereznie a megyei kormányhivatal, a főváros esetén a fővárosi önkormányzat – fejlesztési tervre épített – szakvéleményét.
-
-(3) A fővárosi, megyei önkormányzat által fenntartott sajátos nevelési igényű tanulók nevelését, oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési (felvételi) körzetének meghatározása előtt be kell szerezni az oktatásért felelős miniszter véleményét.
-
-(4) A nemzetiséghez tartozó gyermekek óvodai nevelését, iskolai nevelését és oktatását ellátó nevelési-oktatási intézmény működési (felvételi) körzetének meghatározása előtt a helyi önkormányzat beszerzi fenntartótól függően az érdekelt települési, vagy területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat egyetértését.
-
-(5) A középiskolai és a szakiskolai felvételekkel összefüggő tájékoztató elkészítéséhez be kell szerezni az állami foglalkoztatási szervtől az iskolákba felvehető tanulók létszámát befolyásoló információkat a foglalkoztatásszerkezet várható változásáról.
-
-(6) Az e §-ban foglaltakat a tagintézményként működő óvodák, iskolák tekintetében is alkalmazni kell.
-
-91. § (1) A Kormány általános hatáskörű területi államigazgatási szervének vezetője az oktatásért felelős miniszter egyidejű értesítésével rendkívüli szünetet rendel el, ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a megye, főváros területén a nevelési-oktatási intézmények működtetése nem lehetséges. A Kormány általános hatáskörű területi államigazgatási szervének vezetője a határozatához – kivéve, ha a késlekedés jelentős veszéllyel vagy helyrehozhatatlan kárral járna – beszerzi az érdekelt önkormányzatok jegyzőinek véleményét.
-
-(2) A fővárosi és megyei kormányhivatal
-
-- a) közreműködik – az érettségi vizsga vizsgaszabályzatában meghatározottak szerint – az érettségi vizsgák előkészítésében, megtartásában;
-- b) közreműködik a közoktatási információs rendszer működtetésében.
-
-(3) A fővárosi és megyei kormányhivatal elkészíti és vezeti a nem helyi önkormányzatok által fenntartott közoktatási intézmények jegyzékét, és minden év augusztus 31-éig megküldi az egészségbiztosítási szervnek, továbbá a pedagógiai-szakmai szolgáltatásokat ellátó intézményen keresztül gondoskodik arról, hogy azt az érdekeltek megtekinthessék.
-
-(4) A közoktatási intézményt fenntartó, önkormányzati társulás esetén a megállapodásban megjelölt önkormányzat jegyzője, főjegyzője
-
-- a) közreműködik az óvodákban, iskolákban, kollégiumokban folyó pedagógiai tevékenységgel összefüggő mérési, értékelési feladatok szervezésében;
-- b) elbírálja a 83. § (4) bekezdésében felsorolt kérelmeket;
-- c)
-- d) ellátja a helyi önkormányzat fenntartásában lévő közoktatási intézmény vezetőjének kiválasztásával kapcsolatos nyilvános pályázati eljárás lefolytatásával összefüggő előkészítő feladatokat;
-- e) tájékoztatja az illetékes szakértői és rehabilitációs bizottságot arról, hogy melyik az az – e törvény 30. §-ának (1)–(2) bekezdésében felsorolt – intézmény, amelyik rendelkezik a sajátos nevelési igényű gyermek, tanuló különleges gondozásának ellátásához szükséges feltételekkel;
-- f) segíti és ellenőrzi a nevelési-oktatási intézményeknek a tanuló- és gyermekbalesetek megelőzésére irányuló tevékenységét, a tanuló- és gyermekbalesetek jegyzőkönyveit félévenként megküldi az oktatásért felelős miniszternek;
-- g) közreműködik a közoktatás információs rendszerének működtetésében, a fenntartói irányítással összefüggő döntések, intézkedések előkészítésében, végrehajtásában, illetve gyakorolja a fenntartói irányítás e törvényben meghatározott jogosítványait;
-- h) ellátja mindazokat a feladatokat, amelyeket jogszabály a hatáskörébe, feladatkörébe utal.
-
-(5) A működést engedélyező szerv a nem helyi önkormányzatok által fenntartott közoktatási intézmények nyilvántartásba vételével, nyilvántartásból való törlésével, továbbá a működés megkezdésének engedélyezésével, az engedély visszavonásával kapcsolatban hozott jogerős határozatát közli a fenntartó székhelye szerint illetékes működést engedélyező szervvel, valamint a normatív költségvetési hozzájárulást folyósító szervvel.
-
-(6) Az (2) bekezdés a)–b) pontjában meghatározott feladat ellátásához a fővárosi és megyei kormányhivatal, és a (4) bekezdés a) pontjában meghatározott feladat ellátásához a jegyző, főjegyző jogszabályban meghatározottak szerint igénybe veszi, ennek hiányában megállapodás alapján igénybe veheti közoktatási szakértő, illetve a pedagógiai-szakmai szolgáltatást ellátó intézmény közreműködését.
-
-(7) A gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes
-
-- a) polgármester a tankötelezettség ideje alatt segítséget nyújt a szülőnek gyermeke iskolai elhelyezéséhez és utaztatásához, ha a településen nem működik a tankötelezettség végéig nevelő és oktató iskola;
-- b) jegyző – az óvodai nevelés keretében folyó iskolai életmódra felkészítő foglalkozáson való részvételre köteles, a tanköteles és a fejlesztő felkészítés alá eső gyermekekről, tanulókról nyilvántartást vezet, és figyelemmel kíséri az e törvény 14. §-a (2) bekezdésének a) pontjában meghatározott kötelezettségek teljesítését, – az óvodás és a tanköteles gyermekekről vezetett nyilvántartást megküldi a lakóhely, ennek hiányában tartózkodási hely szerint illetékes óvodának, általános iskolának, – bejelentésre vagy hivatalból elrendeli az óvodai nevelés keretében folyó iskolai életmódra felkészítő foglalkozáson való részvételt, a tankötelezettség vagy a fejlesztő felkészítés teljesítését, ha a szülő nem tesz eleget kötelességének, – bejelentésre vagy hivatalból elrendeli, hogy a szülő gyermekével jelenjen meg a nevelési tanácsadáson, illetőleg a szakértői és rehabilitációs bizottság vizsgálatán, amennyiben arra a tankötelezettség teljesítése érdekében szükség van.
-
-(8) A jegyző – az (1) bekezdés b) pontjában meghatározott feltételek fennállása esetén, az oktatásért felelős miniszter egyidejű értesítésével – a településen működő nevelési-oktatási intézményekben rendkívüli szünetet rendel el. Határozathozatal előtt – kivéve, ha a késlekedés jelentős veszéllyel vagy helyrehozhatatlan kárral járna – beszerzi az érdekelt intézményfenntartók véleményét. Ha a vélemény beszerzésére nem volt lehetőség, határozatát haladéktalanul közli az általa választott módon az érdekelt intézményfenntartókkal.
-
-(9) A lakóhely, ennek hiányában a tartózkodási hely szerint illetékes önkormányzat megtéríti a kötelező felvételt biztosító óvodába, illetve a kötelező felvételt biztosító iskolába való utazás költségeit, továbbá szükség esetén gondoskodik kísérő személyről a gyermek, tanuló részére, ha az óvoda, iskola a településen kívül található, és az óvodába, iskolába való utaztatást az önkormányzat nem biztosítja.
+90–91. §
 
 ### Az ágazati irányítás, az oktatásért felelős miniszter és a Kormány szabályozási feladatai
 
@@ -709,7 +468,7 @@ abban az esetben, ha a községi, városi, fővárosi kerületi önkormányzat a
 (3) Felhatalmazás kap a Kormány, hogy rendeletben szabályozza
 
 - a)–e)
-- f) a pedagógus-szakvizsga bevezetését, a pedagógus továbbképzés rendszerét, a továbbképzésben résztvevők juttatásait, kedvezményeit; a pedagógus továbbképzés programjának, az érettségi vizsga vizsgatárgyai jóváhagyási eljárásának részletes szabályait, a pedagógus továbbképzési programok akkreditációjának feltételeit és eljárási rendjét, az akkreditált továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét, a továbbképzés minőségbiztosításának, ellenőrzésének rendjét, az ellenőrzés során feltárt hiányosságok, a minőségbiztosítás követelményeinek megszegése esetén alkalmazható jogkövetkezményeket, az e bekezdésben meghatározott eljárásokkal kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit;
+- f)
 - g)–k)
 - l) a pedagógus-továbbképzést teljesítők anyagi elismerésének, a várakozási idő csökkentésének lehetőségét, azokat a feltételeket, amelyek fennállása esetén a kiemelt munkavégzésért járó kereset-kiegészítést meg kell állapítani, valamint a kereset-kiegészítés legkisebb összegét, az intézményi minőségirányítási programban meghatározott szempontok és értékelési rend alapján adható anyagi elismerés rendjét, továbbá a pedagógus-munkakör tekintetében a kötelező órát meghaladó tanítás munkáltatói elrendelését, az elrendelt tanítás díjazását, a munkaidő-beosztás, továbbá nevelési-oktatási intézményekben a rendkívüli munkavégzés, az ügyelet és készenlét elrendelésének feltételeit, az ügyelet és az ügyelet alatt elrendelt munkavégzés díjazását is magában foglaló átalánydíjazás megállapításának szabályait és mértékét, az intézményvezetői és vezetőhelyettesi feladatot ellátók, az átlagostól eltérő feladatot ellátó, a nehezebb körülmények között dolgozó pedagógusok, a pályakezdő pedagógusok többletdíjazása, kiegészítő illetménye megállapításának feltételeit, a díjazás mértékét, a halmozottan hátrányos helyzetű gyermekek, tanulók szülei iskolai végzettséggel összefüggő önkéntes nyilatkozatának kérdéseit, valamint az igazgatótanács munkáltatói jogosítványait;
 - m)–p)

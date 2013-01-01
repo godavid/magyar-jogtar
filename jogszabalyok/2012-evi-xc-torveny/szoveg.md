@@ -11,15 +11,13 @@ Az Országgyűlés a helyi önkormányzati feladatkörbe tartozó kéményseprő
 - 1. ellátásért felelős önkormányzat: a kéményseprő-ipari közszolgáltatás (a továbbiakban: közszolgáltatás) feladatát ténylegesen ellátó, a közszolgáltatást önként vállaló önkormányzat, ennek hiányában a feladat eredeti címzettje,
 - 2. égéstermék: tüzelőanyagok elégetésekor keletkező termék, amely lehet gáznemű, folyékony, szilárd vagy ezek keveréke,
 - 3. égéstermék-elvezető: az épített kémény, az épített vagy szerelt, héjból vagy héjakból álló szerkezet, amely egy vagy több járatot képez, és a tüzelőberendezés tűzterében keletkezett égésterméket a szabadba vezeti,
-- 4. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
+- 4. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontja szerinti gazdálkodó szervezet,
 - 5. használaton kívüli égéstermék-elvezető: olyan égéstermék-elvezető, amelynek összes nyílását befalazták vagy nem éghető anyaggal tömören, vagy egyéb nem oldható szerelési technológiával (kötéssel) lezárták,
 - 6. ingatlan használója: az ingatlant ténylegesen használó személy, ennek hiányában a tulajdonos,
 - 7. közszolgáltatást önként vállaló önkormányzat: a közszolgáltatás ellátásának biztosítását a közszolgáltatási feladat eredeti címzettjétől a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 12. §-a alapján vállaló önkormányzat,
 - 8. tartalék (biztonsági) égéstermék-elvezető: olyan égéstermék-elvezető, amely a tartalékfűtés célját szolgálja, üzemképes állapotban van, de nincs rácsatlakoztatva tüzelőberendezés,
 - 9. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik,
 - 10. sormunka: az a külön megrendelés nélkül, előzetes értesítést követően, rendszeres időközönként végzett közszolgáltatás, amelynek díját további kiszállási díj nem terheli.
-
-1/A. § E törvény rendelkezéseit kell alkalmazni a kéményseprő-ipari közszolgáltatás ellátásával, valamint az égéstermékek veszélyeinek csökkentésével összefüggő egyes kérdésekben.
 
 #### 2. A közszolgáltatási feladat vállalására és felhagyására vonatkozó szabályok
 
@@ -83,11 +81,9 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 - a) az égéstermék-elvezető ellenőrzését, szükség szerinti tisztítását,
 - b) az égéstermék-elvezető műszaki felülvizsgálatát,
-- c) a tüzelőberendezés biztonságos működéséhez szükséges levegő utánpótlásának ellenőrzését, figyelembe véve a levegő utánpótlást befolyásoló műszaki berendezések, beavatkozások hatását is, valamint
-- d) az égéstermék paramétereinek ellenőrzését,
-- e) a vonatkozó műszaki követelményeknek megfelelő szén-monoxid érzékelő felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését.
+- c)–d)
 
-(2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére időszakonként kell elvégezni az (1) bekezdés a)–e) pontjában foglaltakat.
+(2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére időszakonként kell elvégezni az (1) bekezdés a)–d) pontjában foglaltakat.
 
 (3) Az (1) és (2) bekezdésben meghatározott feladatok eredményét tartalmazó dokumentum egy példányát a közszolgáltató az ingatlan tulajdonosának, annak távollétében az ingatlan használójának igazolt módon átadja.
 
@@ -125,28 +121,16 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - c) a 7. § (2) bekezdésében meghatározott esetben az üzemeltetést azonnal befejezni és haladéktalanul intézkedni a szabálytalanság megszüntetésére,
 - d) a c) pontba nem tartozó szabálytalanságot legkésőbb a következő ellenőrzés időpontjáig megszüntetni,
 - e) a közszolgáltatásért járó díjat megfizetni az ingatlan tulajdonosának a (3) bekezdés c) pontja szerinti bejelentése esetén,
-- f) a 7. § (1) bekezdésében meghatározott második időponttól számított 30 napon belül a közszolgáltatást – külön egyeztetést követően – igénybe venni, amennyiben a közszolgáltató a második időpontban sem tudta a közszolgáltatást ellátni.
+- f) a 7. § (1) bekezdésében meghatározott második időponttól számított 30 napon belül a közszolgáltatást – külön egyeztetést követően – igénybe venni, és a közszolgáltatás díján túl a külön kiszállás díját megfizetni, amennyiben a közszolgáltató a második időpontban sem tudta a közszolgáltatást ellátni.
 
 (3) Az ingatlan tulajdonosa köteles
 
 - a) a 6. § (2) bekezdésében meghatározott műszaki vizsgálatokat megrendelni,
 - b) személyes adatait a közszolgáltatónak írásban, igazolható módon bejelenteni,
 - c) a közszolgáltatásért járó díjat megfizetni vagy az ingatlan használójával fennálló megállapodás alapján írásban, igazolható módon a közszolgáltatónak bejelenteni, ha a közszolgáltatásért járó díj megfizetése az ingatlan használóját terheli,
-- d) a (2) bekezdés c)–f) pontjában és az (5) bekezdésben meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
+- d) a (2) bekezdés c)–f) pontjában meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
 
 (4) Az ingatlan tulajdonosa vagy használója a hatósági eljárásokat megelőzően köteles panaszával – igazolható módon – a közszolgáltatóhoz vagy az ellátásért felelős önkormányzathoz fordulni.
-
-(5) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezés üzemeltetése esetén
-
-- a) a bölcsődei, óvodai vagy iskolai ellátás nyújtására szolgáló,
-- b) a vendégéjszaka eltöltésére használt,
-- c) a személyes gondoskodás keretébe tartozó szakosított ellátást nyújtó bentlakásos intézmény céljára szolgáló,
-- d) a fekvőbeteg-gyógyintézeti ellátásra szolgáló,
-- e) a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá tartozó
-
-önálló rendeltetési egység használója a tüzelőberendezés helyiségében a vonatkozó műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezés felszerelésére és működtetésére köteles, amennyiben a tüzelőberendezés közösségi térben vagy vele légtér-összeköttetésben lévő helyiségekben van.
-
-(6) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezéssel felszerelt, új építésű épület akkor vehető használatba, ha a tüzelőberendezés helyiségében jogszabályban meghatározott műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezést helyeztek el.
 
 #### 5. A közszolgáltatás költségeinek fedezete
 
@@ -154,21 +138,11 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 (2) A díjak mértékét az égéstermék-elvezető típusa, a tüzelési mód, az égéstermék-elvezető igénybevételének jellege, és a közszolgáltatással érintett ellátási terület településszerkezetének figyelembevételével kell meghatározni.
 
-(3)
+(3) A közszolgáltatás díjának fedezetet kell biztosítania a hatékonyan működő vállalkozás ráfordításaihoz és a közszolgáltatással összefüggő működés fejleszthető fenntartásához.
 
 (4) A díjak megállapításakor ki kell kérni a fogyasztóvédelmi hatóság és a szakmai érdekképviseletek véleményét.
 
 (5) A díjhátralék keletkezését követő 30 napot követően a közszolgáltató felhívja a használó és az ingatlantulajdonos figyelmét a díjfizetési kötelezettségének elmulasztására és felszólítja annak teljesítésére.
-
-10/A. § A természetes személy tulajdonában lévő, lakhatás célját szolgáló ingatlanok és természetes személy tulajdonában lévő, időlegesen használt ingatlanok, valamint a társasház esetében közös tulajdonban, továbbá lakásszövetkezet tulajdonában lévő ingatlanrészek esetében a közszolgáltatás díját úgy kell megállapítani, hogy az alacsonyabb legyen a 2012. december 31-én alkalmazott közszolgáltatási díj 90%-ánál és a 2013. június 30-án alkalmazott közszolgáltatási díj 90%-ánál.
-
-10/B. § (1) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével vagy átadásával egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlantulajdonosok, illetve társasházak és lakásszövetkezetek részére arról, hogy a rezsicsökkentés következtében a 2013. június 30-án általa jogszerűen alkalmazott díjhoz viszonyítva a közszolgáltatás díja mennyivel csökkent. Amennyiben a számlát kiállító közszolgáltató előtt másik közszolgáltató is nyújtott szolgáltatást a 2013. július 1-jét követő időszakban, úgy a korábbi közszolgáltató köteles az általa nyújtott szolgáltatás tekintetében a megtakarítás összegének feltüntetéséhez szükséges adatokról a számlát kiállító szolgáltatót tájékoztatni, az adatvédelmi előírások betartása mellett.
-
-(2) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az (1) bekezdésben foglalt előírások teljesülését.
-
-(3) A kéményseprő-ipari közszolgáltatással összefüggésben elvégzett sormunkák után a természetes személy ingatlantulajdonosok, illetve a társasházak és a lakásszövetkezetek részére kibocsátott számlák megfelelősége tekintetében a fogyasztóvédelmi hatóság jár el.
-
-(4) Az (1)–(3) bekezdésben foglalt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 #### 6. A közszolgáltató adatkezelése
 
@@ -189,8 +163,6 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - a) a képviseletet ellátó természetes személy személyazonosító adatait,
 - b) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét, székhelyét és telephelyét,
 - c) a közszolgáltatás megkezdésének és befejezésének időpontját.
-
-(1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok és a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A tűzvédelmi hatóság
 
@@ -234,8 +206,7 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - i) a közszolgáltatási díjak meghatározásának a közszolgáltatási feladatok tartalmától függő, részletes szabályait,
 - j) a közszolgáltatásról készített éves statisztikai adatlap tartalmi követelményeit,
 - k) az új közszolgáltatói feladatok bevezetésének ütemezését,
-- l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat,
-- m) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményeket.
+- l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat.
 
 (3) Felhatalmazást kap az ellátásért felelős önkormányzat, hogy a közszolgáltatással kapcsolatban rendeletben állapítsa meg
 
@@ -257,8 +228,11 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 (4) Ha a felek a (2) bekezdésben foglaltak szerint nem módosítják a közszolgáltatási szerződést, akkor a szerződés szerint a feladatot ellátó önkormányzat jogutódja a feladat eredeti címzettje.
 
-16. § Az ellátásért felelős önkormányzat a közszolgáltatási díjakat tartalmazó rendeletét felülvizsgálja és szükség szerint módosítja annak érdekében, hogy az 2013. július 1-jén megfeleljen a 10/A. §-ban foglaltaknak és az e törvény végrehajtására vonatkozó jogszabályoknak.
+16. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény mellékletének 2. pontjában az „A kéményseprő-ipari tevékenység ellátásának biztosítása (1995. évi XLII. törvény)” szövegrész helyébe az „A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)” szöveg lép.
 
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-18. §
+18. § Hatályát veszti
+
+- a) az egyes helyi közszolgáltatások kötelező igénybevételéről szóló 1995. évi XLII. törvény,
+- b) a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény mellékletének 4. pontjában a „1995. évi XLII. törvény” szövegrész.

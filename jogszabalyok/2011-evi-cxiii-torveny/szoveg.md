@@ -237,9 +237,14 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (5) A polgármester
 
-- a) elrendeli a települési közigazgatás működéséhez és a lakosság polgári védelméhez, ellátásához szükséges szolgáltatások teljesítését,
+- a) elrendeli a település lakosságának polgári védelméhez, ellátásához szükséges szolgáltatások teljesítését,
 - b) igénybe veszi a személyek vagy dolgok elhelyezésére szolgáló ingatlanokat,
 - c) dönt minden olyan esetben, amely nem tartozik más igénybevételi hatóság hatáskörébe.
+
+(5a) A helyi védelmi bizottság elnöke
+
+- a) megállapítja a helyi jellegű szolgáltatások és szolgáltatásra kötelezettek körét,
+- b) nyilvántartást vezet, amelyben elősegíti a megyei védelmi bizottság elnökének, valamint a helyi védelmi bizottság illetékességi területén a polgármesterek hatáskörébe tartozó igénybevételi jog gyakorlását, koordinálja az igénybevétel helyi szintű végrehajtását.
 
 (6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője jogosult.
 
@@ -382,6 +387,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A honvédelemért felelős miniszter összehangolja a honvédelemben résztvevő szervek honvédelmi feladatokra történő felkészítését és felügyeli tevékenységüket.
 
+22/A. § Az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja azzal, hogy az 1. mellékletben meghatározott gazdálkodó szervezet állami tulajdonú részesedésének elidegenítése, megterhelése, a részesedésen vételi jog, elővásárlási jog létesítése, továbbá a részesedés biztosítékul adása és az 1. mellékletben meghatározott gazdálkodó szervezet végelszámolás útján történő megszüntetése tekintetében a tulajdonosi jogokat a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
+
 #### 16. A miniszter
 
 23. § (1) A miniszter a jogszabály rendelkezésének megfelelően irányítja az alárendelt vagy felügyelete alá tartozó szervek és a feladatkörébe tartozó szakágazatok honvédelemmel kapcsolatos tevékenységét.
@@ -422,7 +429,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - g) a vízügyi igazgatási szerv képviselője,
 - h) a megyei védelmi bizottság titkára.
 
-(5) A megyei védelmi bizottság állandó meghívottja tanácskozási joggal az Országos Mentőszolgálat képviselője. A megyei védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat. A helyi védelmi bizottság feladatkörét érintő döntésben részt vesz a helyi védelmi bizottság elnöke is.
+(5) A megyei védelmi bizottság ülésein tanácskozási joggal részt vevő, állandó meghívottak körét a Kormány rendeletben állapítja meg. A megyei védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat. A helyi védelmi bizottság feladatkörét érintő döntésben részt vesz a helyi védelmi bizottság elnöke is.
 
 (6) A megyei védelmi bizottság testületi szerv. Szervezeti és működési rendjét a honvédelemért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter előzetes hozzájárulásával maga állapítja meg.
 
@@ -443,32 +450,33 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 19. A helyi védelmi bizottság
 
-27. § (1) A főváros kerületeiben, a megyei jogú városokban és a megyei védelmi bizottság által kijelölt városokban helyi védelmi bizottság működik.
+27. § (1) A járásokban és a fővárosi kerületekben helyi védelmi bizottság működik. A helyi védelmi bizottságok illetékességi területe a járásokhoz, illetve a fővárosi kerületekhez igazodik.
 
-(2) A helyi védelmi bizottság illetékességi területét (a továbbiakban: honvédelmi körzet) a közigazgatás rendszerének, valamint az érintett polgármesterek véleményének figyelembevételével a megyei védelmi bizottság állapítja meg.
+(2)
 
-(3) A honvédelmi körzetben levő települések polgármestereit a helyi védelmi bizottság munkájában tanácskozási jog illeti meg.
+(3)
 
-(4) A helyi védelmi bizottság testületi szerv. A helyi védelmi bizottság elnöke a megyei jogú város, a város, a fővárosi kerület polgármestere, elnökhelyettesei a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, a honvédelmi feladatok tekintetében a Honvédség állományából szükség esetén vezényelt tényleges állományú katona. Tagjai:
+(4) A helyi védelmi bizottság testületi szerv. A helyi védelmi bizottság elnöke a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) vezetője, elnökhelyettesei a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, a honvédelmi feladatok tekintetében a Honvédség állományából szükség esetén vezényelt tényleges állományú katona. Tagjai az elnökön és az elnökhelyettesen kívül:
 
-- a) a megyei jogú városban, a városban, a fővárosi kerületben a jegyző,
-- b) a honvédelmi körzethez tartozó polgármesterek által megválasztott polgármester,
-- c) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szervek és a központi államigazgatási szervek területi szerveinek a honvédelmi körzet szerint illetékes vezetője, valamint a Kormány általános hatáskörű területi államigazgatási szervének képviselője.
+- a) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szerveknek a helyi védelmi bizottság illetékességi területe szerinti vezetője,
+- b) a helyi védelmi bizottság illetékességi területén működő, a helyi védelmi bizottság feladatrendszerében érintett szakigazgatási szerv vezetője,
+- c) a fővárosi és megyei kormányhivatal képviselője,
+- d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője.
 
-28. § (1) A helyi védelmi bizottság a megyei védelmi bizottság irányítása alatt működő közigazgatási szerv, amely a honvédelmi körzetben irányítja és összehangolja a honvédelmi felkészítés helyi feladatainak végrehajtását.
+28. § (1) A helyi védelmi bizottság a megyei védelmi bizottság irányítása alatt működő közigazgatási szerv, amely a illetékességi területén irányítja és összehangolja a honvédelmi felkészítés helyi feladatainak végrehajtását.
 
 (2) A helyi védelmi bizottság
 
 - a) irányítja és összehangolja a Honvédség hadkiegészítésével összefüggő közigazgatási feladatok előkészítését, végrehajtását,
-- b) közreműködik a honvédelmi körzetben működő szervek honvédelmi feladatainak irányításában,
-- c) összehangolja a honvédelmi körzetre háruló gazdasági és anyagi szolgáltatási kötelezettségek teljesítését,
-- d) irányítja a honvédelmi körzet honvédelmi feladataihoz szükséges tájékoztatási rendszer kialakítását és működését,
+- b) közreműködik a illetékességi területén működő szervek honvédelmi feladatainak irányításában,
+- c) összehangolja a illetékességi területére háruló gazdasági és anyagi szolgáltatási kötelezettségek teljesítését,
+- d) irányítja az illetékességi területe honvédelmi feladataihoz szükséges tájékoztatási rendszer kialakítását és működését,
 - e) közreműködik a különleges jogrendben hozott rendkívüli intézkedésekből adódó feladatok végrehajtásában,
 - f) béke, rendkívüli állapot, szükségállapot, megelőző védelmi helyzet és váratlan támadás idején szervezi és összehangolja a lakosság polgári védelmével és ellátásával kapcsolatos feladatokat.
 
-(3) A helyi védelmi bizottság kiadásainak és működési költségeinek fedezetét a fővárosi kerület, a megyei jogú város, a város önkormányzata részére az egyes honvédelmi feladatokra biztosított költségvetési összegből, céltámogatásból, illetve a honvédelmi körzethez tartozó településekre háruló honvédelmi feladatok és a lakosság létszámának arányában meghatározott normatív állami támogatásból kell biztosítani.
+(3) A helyi védelmi bizottság kiadásainak és működési költségeinek fedezetét a járási hivatal részére az egyes honvédelmi feladatokra biztosított költségvetési összegből és céltámogatásból, továbbá a helyi védelmi bizottság illetékességi területéhez tartozó településekre háruló honvédelmi feladatok és a lakosság létszámának arányában meghatározott normatív állami támogatásból kell biztosítani.
 
-(4) A helyi védelmi bizottság testületi szerv. Szervezeti és működési rendjét maga állapítja meg, melyhez a megyei védelmi bizottság előzetes hozzájárulása szükséges.
+(4) A helyi védelmi bizottság a szervezeti és működési rendjét maga állapítja meg, amelyhez a megyei, fővárosi védelmi bizottság előzetes hozzájárulása szükséges.
 
 #### 20. A polgármester
 
@@ -476,18 +484,18 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (2) A polgármester a honvédelmi feladatok végrehajtása céljából
 
-- a) biztosítja a honvédelmi kötelezettségekkel összefüggő hatósági, vagy más közigazgatási feladatok végrehajtásához szükséges feltételeket,
-- b) szervezi és irányítja a Honvédség hadkiegészítésével kapcsolatos közigazgatási feladatokra való felkészülést és azok végrehajtását,
+- a)
+- b)
 - c) összehangolja a honvédelemben közreműködő települési szervek tevékenységét,
 - d) elrendeli a hatáskörébe utalt gazdasági és anyagi szolgáltatási kötelezettség teljesítését,
-- e) részt vesz a honvédelmi körzet honvédelmi feladataihoz szükséges tájékoztatási rendszer működtetésében,
+- e) részt vesz az illetékességi területe honvédelmi feladataihoz szükséges tájékoztatási rendszer működtetésében,
 - f) irányítja a rendkívüli intézkedésekből eredő feladatok végrehajtását,
 - g) béke, rendkívüli állapot, szükségállapot, megelőző védelmi helyzet, valamint váratlan támadás idején irányítja a hatáskörébe utalt, a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatok ellátását, és az azokra történő felkészülést,
 - h) közreműködik a gazdaságfelkészítés és -mozgósítás helyi feladatainak szervezésében és ellátásában.
 
 (3) A polgármester az (1) bekezdésben meghatározott feladatok teljesítése érdekében a helyi védelmi bizottság rendelkezései szerint együttműködik más települések polgármestereivel.
 
-(4) A polgármester a védelmi igazgatási feladatait fővárosi kerületben, városban, községben a jegyző vagy a körjegyző, valamint a polgármesteri hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a polgármesteri hivatal minden köztisztviselője, közalkalmazottja, munkavállalója rendkívüli túlmunkára kötelezhető.
+(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden kormánytisztviselője és munkavállalója rendkívüli túlmunkára kötelezhető.
 
 (5) A polgármester e §-ban meghatározott feladatának végrehajtásához szükséges költségek és kiadások fedezetére állami támogatás biztosítható.
 
@@ -604,6 +612,10 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (5) A Ludovika Zászlóalj a katonai felsőoktatást folytató intézményben folyó képzés céljainak megvalósítását biztosítva látja el katonai feladatait. A zászlóalj – a katonai felsőoktatást folytató intézménnyel együttműködésben – a honvéd tisztjelöltek kiképzésének gyakorlati részét haditechnikai eszközeinek és anyagainak felhasználásával, állami tulajdonú és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlanok igénybevételével biztosítja.
 
+(7) A Honvédség szervezeti felépítésére, működésére, haditechnikai eszközeire és anyagaira, valamint hadfelszerelésére vonatkozó adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Honvéd Vezérkar főnöke engedélyezheti.
+
+(8) A (7) bekezdés szerinti adat megismerésére irányuló igény – a (7) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a Honvédség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a honvédelmi és a nemzetbiztonsági érdekeket nem veszélyezteti.
+
 #### 24. A Honvédség szervezeteinek létrehozása és megszüntetése
 
 39. § (1) A honvédségi szervezetek alapítására és megszüntetésére a honvédelemért felelős miniszter jogosult. A szervezeteket alapító okirattal kell létrehozni.
@@ -618,7 +630,9 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 25. A Honvédség személyi állománya
 
-40. § (1) A Honvédség személyi állománya tényleges szolgálatot teljesítő katonákból (a továbbiakban: tényleges állomány tagja), kormánytisztviselőkből, közalkalmazottakból és a Munka Törvénykönyvének hatálya alá tartozó munkavállalókból, valamint megelőző védelmi helyzet és rendkívüli állapot idején – a hadkötelezettség bevezetése után – hadkötelesekből áll.
+40. § (1) A Honvédség személyi állománya tényleges szolgálatot teljesítő katonákból (a továbbiakban: tényleges állomány tagja), kormánytisztviselőkből, közalkalmazottakból és a munka törvénykönyvének hatálya alá tartozó munkavállalókból, valamint megelőző védelmi helyzet és rendkívüli állapot idején – a hadkötelezettség bevezetése után – hadkötelesekből áll. A Honvédség személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Honvéd Vezérkar főnöke engedélyezheti.
+
+(1a) Az (1) bekezdés szerinti adat megismerésére irányuló igény – az (1) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a Honvédség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a honvédelmi és a nemzetbiztonsági érdekeket nem veszélyezteti.
 
 (2) A tényleges állomány tagjai békében önkéntes jelentkezés alapján teljesítenek katonai szolgálatot. A Honvédség folyamatos kiegészítése békében a hivatásos, szerződéses és az önkéntes tartalékos katonai szolgálatra vagy honvéd tisztjelölt és honvéd altiszt-jelölt jogviszony létesítésére toborzottak felvétele, megelőző védelmi helyzet és rendkívüli állapot idején a fentieken túl hadkötelesek behívása útján is történik.
 
@@ -745,7 +759,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A szükséges mértékben megilleti a parancsadás joga a rangidőst is, ha több katona együttes szolgálati tevékenységet folytat, és közülük senki sincs parancsnokul kijelölve.
 
-(4) A katonai rendészeti járőr parancsnoka a rend fenntartása és helyreállítása érdekében –jogszabályban megállapított hatáskörében – a katona részére parancsot adhat.
+(4) A katonai rendész járőr parancsnoka a rend fenntartása és helyreállítása érdekében –jogszabályban megállapított hatáskörében – a katona részére parancsot adhat.
 
 (5) A feljebbvaló az alacsonyabb rendfokozatú katonának a szükséges mértékben parancsot adhat, ha a katona bűncselekményt, fegyelemsértést vagy szabálysértést követ el.
 
@@ -1005,11 +1019,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 44. A közigazgatásra, közrendre és közbiztonságra vonatkozó rendkívüli intézkedések
 
-66. § (1) A polgármester és a jegyző hatáskörébe tartozó államigazgatási feladatot rendelet is megállapíthat.
+66. § (1) A járási hivatal vezetője, valamint a polgármester hatáskörébe tartozó államigazgatási feladatot rendelet is megállapíthat.
 
 (2) A települési önkormányzat képviselő-testületének feladat- és hatáskörét a polgármester, a fővárosi közgyűlés feladat- és hatáskörét a főpolgármester, a megyei közgyűlés feladat- és hatáskörét, a megyei közgyűlés elnöke gyakorolja.
 
-(3) A polgármester és a jegyző a honvédelmi igazgatási, valamint a rendkívüli intézkedésekből adódó feladatait a megyei védelmi bizottság elnöke utasításai szerint látja el.
+(3) A helyi védelmi bizottság elnöke a honvédelmi igazgatási, valamint a rendkívüli intézkedésekből adódó feladatait a megyei védelmi bizottság utasításai szerint látja el.
 
 66/A. § Az oktatásért felelős miniszter határozatban írhatja elő a közoktatási intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. Az oktatásért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
 
@@ -1103,9 +1117,9 @@ rendelheti el.
 
 (3) Rendelet eltérően állapíthatja meg a bírák és az ügyészek kinevezését és felmentését, a bírósági és ügyészségi vezetők kinevezési rendjét. A bírói és ügyészségi önkormányzati szervek működése felfüggeszthető. A bírót igazságszolgáltatási érdekből, bírói beosztásba, ideiglenesen más bírósághoz lehet kirendelni.
 
-(4) Rendeletben megállapított esetben a helyi bírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények szabálysértésnek minősülnek. Rendeletben módosíthatók más büntető anyagi jogi rendelkezések is, így új bűncselekmények állapíthatók meg, egyes bűncselekmények büntetési tételei, tételkeretei módosíthatók, rendelet azonban új büntetési nemet nem állapíthat meg.
+(4) Rendeletben megállapított esetben a járásbírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények szabálysértésnek minősülnek. Rendeletben módosíthatók más büntető anyagi jogi rendelkezések is, így új bűncselekmények állapíthatók meg, egyes bűncselekmények büntetési tételei, tételkeretei módosíthatók, rendelet azonban új büntetési nemet nem állapíthat meg.
 
-(5) A helyi bíróságok hatáskörébe tartozó ügyekben bírósági eljárásnak csak rendelet által meghatározott körben van helye. Rendeletben megállapított esetben a helyi bírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények miatt büntetőeljárás nem indítható és nem folytatható le.
+(5) A járásbíróságok hatáskörébe tartozó ügyekben bírósági eljárásnak csak rendelet által meghatározott körben van helye. Rendeletben megállapított esetben a járásbírósági hatáskörbe tartozó kisebb jelentőségű bűncselekmények miatt büntetőeljárás nem indítható és nem folytatható le.
 
 (6) Rendeletben fel kell függeszteni a folyamatban levő eljárást:
 
@@ -1216,7 +1230,8 @@ rendelheti el.
 - r) rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a Nemzeti Adó- és Vámhivatal, és a polgári nemzetbiztonsági szolgálatok,
 - s) szakirányítás: az arra jogosultnak a Honvédség alaprendeltetés szerinti működésének biztosítása érdekében, az irányítás rendszerében az irányított szervezetek szaktevékenységére meghatározó befolyást eredményező, a szolgálati elöljárói jogkörtől független tevékenysége,
 - t) szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e szerződés alapján létrehozott közös katonai szervezetek,
-- u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület.
+- u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
+- v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet.
 
 #### 49. Felhatalmazó rendelkezések
 
@@ -1258,8 +1273,9 @@ rendelheti el.
 - k) a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 - l) az egészségügyért felelős miniszter egyetértésével a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának, felülvizsgálatának rendjét,
 - m) a külföldi katonai szolgálat esetén a rangidős nemzeti képviselőt megillető jogköröket,
-- n) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait, valamint a honvédelmi hatósági-szakhatósági eljárások díjait,
-- o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat.
+- n) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait,
+- o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat,
+- p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
 
@@ -1271,7 +1287,7 @@ rendelheti el.
 
 #### 51. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-83. § E törvény I–V. Fejezete és VII-IX. Fejezete, 48. alcíme, 49. alcíme, 82. § (2) bekezdése és 52. alcíme az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése alapján sarkalatosnak minősül.
+83. § E törvény I–V. Fejezete a 38. § (7) és (8) bekezdése kivételével, a VII–IX. Fejezete, a 48. alcíme, a 49. alcíme és az 52. alcíme az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 #### 52. Átmeneti rendelkezések
 
@@ -1280,3 +1296,15 @@ rendelheti el.
 #### 53. Módosító rendelkezések
 
 85. §
+
+### 1. melléklet a 2011. évi CXIII. törvényhez
+
+A honvédelemért felelős miniszter és az MNV Zrt. a 22/A. § alapján az állam nevében a következő gazdálkodó szervezetekben fennálló, állami tulajdonú részesedések felett gyakorolja a tulajdonosi jogokat:
+
+- 1. HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság,
+- 2. HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság,
+- 3. HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság,
+- 4. HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság,
+- 5. HM Térképészeti Közhasznú Nonprofit Kft.,
+- 6. HM Zrínyi Kommunikációs Szolgáltató Nonprofit Közhasznú Kft.
+- 7. HM Bessenyei György Kulturális és Üdültetési Közhasznú Nonprofit Kft.

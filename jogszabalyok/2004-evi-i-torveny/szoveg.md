@@ -930,7 +930,7 @@ felelős szakmai tagozatok működnek.
 - b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a MOB által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján vagy
 - c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pontok szerint biztosításra kerülő állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és az állami sportcélú támogatásról szóló miniszteri rendeletben foglaltakat kell alkalmazni.
 
-(2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját külön jogszabályban foglaltak szerint a sport – a sportfogadás (TOTÓ) játékadója tekintetében a labdarúgás – támogatására felhasználható bevételként kell előirányozni, és a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
+(2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját külön jogszabályban foglaltak szerint a sport – a sportfogadás (TOTÓ) játékadója tekintetében a labdarúgás – támogatására kell felhasználni.
 
 (3) A sportpolitikáért felelős miniszter a MOB javaslatára rendeletben határozza meg az általa vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
 
@@ -1452,10 +1452,7 @@ adatokat továbbítja.
 - b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 - c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeit.
 
-(3) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg
-
-- a) az állami sportcélú támogatás felhasználásának és elosztásának a részletes szabályait,
-- b) a hazai rendezésű sport világesemények állami támogatására és rendezési feltételeire vonatkozó részletes szabályokat.
+(3)
 
 (4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
