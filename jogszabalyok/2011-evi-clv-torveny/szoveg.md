@@ -417,6 +417,6 @@ folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújt
 
 35. §
 
-36. § A 17. § a) pontja 2013. január 1-jén hatályát veszti.
+36. §
 
 37. §

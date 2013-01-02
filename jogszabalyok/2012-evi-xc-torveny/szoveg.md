@@ -228,11 +228,8 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 
 (4) Ha a felek a (2) bekezdésben foglaltak szerint nem módosítják a közszolgáltatási szerződést, akkor a szerződés szerint a feladatot ellátó önkormányzat jogutódja a feladat eredeti címzettje.
 
-16. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény mellékletének 2. pontjában az „A kéményseprő-ipari tevékenység ellátásának biztosítása (1995. évi XLII. törvény)” szövegrész helyébe az „A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)” szöveg lép.
+16. §
 
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-18. § Hatályát veszti
-
-- a) az egyes helyi közszolgáltatások kötelező igénybevételéről szóló 1995. évi XLII. törvény,
-- b) a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény mellékletének 4. pontjában a „1995. évi XLII. törvény” szövegrész.
+18. §

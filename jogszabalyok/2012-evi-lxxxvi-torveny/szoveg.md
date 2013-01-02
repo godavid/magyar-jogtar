@@ -169,21 +169,15 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 
 26. § (1)–(18)
 
-(19) A Kjt. 44/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény hatálya alá tartozó munkáltatónál végez munkát.”
+(19)
 
 (20)
 
-(21) A Kjt. 59. §-a helyébe a következő rendelkezés lép:
-
-„59. § A közalkalmazotti jogviszony tekintetében az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § nem alkalmazható.”
+(21)
 
 (22)
 
-(23) A Kjt. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A távolléti díjat a 70–75. § szerinti bérpótlék figyelembe vételével kell megállapítani.”
+(23)
 
 (24)–(28)
 
@@ -223,13 +217,7 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 
 35. § (1)–(5)
 
-(6) Az Lt.
-
-- a) 63/A. §-ában az „A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit a 63/B. §-ban foglalt eltéréssel, az Mt. rendelkezéseit a 63/C. §-ban foglalt eltéréssel” szövegrész helyébe az „Az Mt. rendelkezéseit a 63/B–63/C. §-okban foglalt eltéréssel”,
-- b) 63/B. § (1) bekezdésében az „a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 83/A. § (3) és (4) bekezdése” szövegrész helyébe az „az Mt. 53. § (2) bekezdése”, valamint az „a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 83/A. § szerinti átirányítás, 105. §-a szerinti kiküldetés, 106. §-a szerinti kirendelés és 150. § (1) bekezdése szerinti más munkáltatónál történő munkavégzés” szövegrész helyébe az „az Mt. 53. § (1) bekezdés szerinti munkaszerződéstől eltérő munkakörben vagy munkaszerződéstől eltérő munkahelyen vagy más munkáltatónál történő foglalkoztatás”,
-- c) 63/B. § (2) bekezdésében az „a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 134. § (5) bekezdésétől” szövegrész helyébe az „az Mt. 122. § (4) bekezdésétől”
-
-szöveg lép.
+(6)
 
 #### 17. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -265,36 +253,16 @@ szöveg lép.
 
 43. § (1)–(16)
 
-(17) Az Iasz. 124. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. §-át, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 115. § (2) bekezdését, 118. §-át, 120. és 121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, valamint (5) bekezdés a) és b) pontját, továbbá (7) bekezdését, 124–133. §-ait, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 148. §-át, 149. § (1) bekezdését, 152–153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
-
-(2) Az Mt.
-
-a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-
-b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik,
-
-c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-
-d) 229. §-ának a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
-
-e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.”
+(17)
 
 (18)–(20)
 
-(21) Az Iasz.
+(21)
 
-- a) 44/A. § (1) bekezdésében a „Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 138. §-a (5) bekezdésének a) pontja” szövegrész helyébe a „munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. §-a”,
-- b) 99. § (4) bekezdésében az „a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.)” szövegrész helyébe az „az Mt.”
-
-szöveg lép.
-
-(22) Hatályát veszti az Iasz.
+(22)
 
 - a)
-- b) 49. § (3)–(6) bekezdése,
-- c) 50. § (1) bekezdése,
+- b)–c)
 - d)
 
 #### 25. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
@@ -367,17 +335,7 @@ a családtag ápolását követően munkát keresők foglalkoztatásának előse
 
 57. § (1)–(2)
 
-(3) A Pftv. 15. §-ának helyébe a következő rendelkezés lép:
-
-„15. § Az ösztöndíjas foglalkoztatási jogviszonyra
-
-a) megfelelően alkalmazni kell az Mt. 6. §-át, 7. §-át, 8. § (4) bekezdését, 9. §-át, 10. § (1)–(2) bekezdését, 12. § (1) bekezdését, 14. §-át, 15. §-át, 17–18. §-át, 21. § (1)–(3) bekezdését, 22–30. §-át, 31. §-át, 33. §-át, 36–37. §-át, 38. § (1) bekezdését, 39–40. §-át, 45. § (3)–(4) bekezdését, 46. § (1)–(2) bekezdését, 48–49. §-át, 51. §-át, 52. § (1) bekezdését, 54–55. §-át, 60. §-át, 61. § (1)–(2) bekezdését, 80. §-át, 86. § (1) bekezdését, 90. § a) pontját, 92. § (1) és (4)–(5) bekezdését, 93. §-át, 94. § (1) bekezdését, 96. § (1) bekezdését, 97. § (1) és (3)–(4) bekezdését, 99. § (1) és (4) bekezdését, továbbá (2) bekezdés a) pontját, 100. §-át, 101. § (1)–(3) bekezdését, 102. §-át, 103. § (1) és (3), továbbá (4)–(6) bekezdését, 104. § (1) bekezdését és (2) bekezdés a) pontját, 105–106. §-át, 113. § (2)–(4) bekezdését, 115–116. §-át, 117. § (1) bekezdés a)–b) pontját és (2) bekezdését, 118. §-át, 119. § (2) bekezdését, 120–122. §-át, 123. § (1) és (3) bekezdését, 123. § (5) és (7) bekezdését, 124–125. §-át, 127–131. §-át, 133. §-át, 134. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat, 146. § (3) bekezdését, 154. § (1)–(2) bekezdését, 155. § (1)–(4) bekezdését, 156. §-át, 157. § (1) bekezdését, 158. §-át, 159. § (1)–(4) bekezdését, 160. §-át, 161. §-át, 163–164. §-át, 166–177. §-át, 179–180. §-át, 190. §-át, 192. § (3) bekezdését, 196–197. §-át, 229. §-át, 285. § (1) bekezdését, 286. §-át,
-
-b) az Mt. 20. §-át az e törvény 11. §-ában foglalt eltéréssel kell alkalmazni,
-
-c) az ösztöndíjas foglalkoztatottra a foglalkoztatóra kiterjedő hatályú kollektív szerződés hatálya nem terjed ki,
-
-d) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.”
+(3)
 
 (4)–(5)
 
@@ -455,9 +413,7 @@ d) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.”
 
 74. § (1)–(6)
 
-(7) A Kftv. 2. § az alábbi (6) bekezdéssel egészül ki:
-
-„(6) Közfoglalkoztatási jogviszony esetén az Mt. 53. §-a nem alkalmazható.”
+(7)
 
 (8)–(9)
 
@@ -483,37 +439,15 @@ d) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.”
 
 79. § (1)–(3)
 
-(4) A Bjt. 55. § (4) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (5)–(7) bekezdéssel egészül ki:
-
-„(4) A szabadság kiadásának az időpontját – a bíró előzetes meghallgatása után – a munkáltatói jogkör gyakorlója határozza meg. A szabadságok kiadására a bíróságokon szabadságolási tervet kell készíteni.
-
-(5) A rendes szabadság egynegyedét – a bírói szolgálati viszony első 3 hónapját kivéve – a bíró kérésének megfelelő időpontban kell kiadni. A bírónak az erre vonatkozó igényét a szabadság kezdete előtt legalább 15 nappal be kell jelentenie, kivételes méltányolást érdemlő körülmény esetén ettől el lehet tekinteni.
-
-(6) Ha a bíró a szolgálati viszonya megszűnéséig több napot volt szabadságon, mint amennyi a bíróságnál töltött időre megilletné, a különbözet idejére kifizetett illetményt, illetve e törvény alapján időarányosan járó juttatások megfelelő részét köteles visszafizetni. A túlfizetés nem követelhető vissza, ha a szolgálati viszony a bíró halála, nyugdíjazása alapján szűnt meg.
-
-(7) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg.”
+(4)
 
 (5)–(13)
 
-(14) A Bjt. 222. §-a helyébe a következő rendelkezés lép:
-
-„222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 148. §-át, 149. § (1) bekezdését, 152. §-át, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
-
-(2) Az Mt.
-
-a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-
-b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik,
-
-c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-
-d) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
-
-e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.”
+(14)
 
 (15)–(17)
 
-(18) A Bjt. 49. § (3) bekezdés b) pontjában a „Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 134. § (3) bekezdés b) pontja” szövegrész helyébe a „munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 123. § (3) bekezdése” szöveg lép.
+(18)
 
 (19)
 
@@ -521,37 +455,15 @@ e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével
 
 80. § (1)–(8)
 
-(9) Az Üjt. 55. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A részmunkaidő kikötése)
-
-„b) ha az ügyésznek a munka törvénykönyvéről szóló 2012. évi I. törvény 123. § (3) bekezdése alapján ki kell adni a szabadságát, akkor a szabadság leteltét követő naptól”
-
-(hatályos)
+(9)
 
 (10)–(17)
 
-(18) Az Üjt. 153. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény
-
-a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni,
-
-b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
-
-c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik;
-
-d) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
-
-e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
-
-f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
-
-g) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.”
+(18)
 
 (19)–(23)
 
-(24) Hatályát veszti az Üjt. 153. § (7) bekezdése.
+(24)
 
 #### 61. Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló
 
@@ -621,14 +533,6 @@ g) 287. § (2) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni,
 
 90. § (1)
 
-(2) Hatályát veszti a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény.
-
-(3) Hatályát veszti a 26. § (18), (20) és (22) bekezdése, az 57. § (2) bekezdése.
-
-(4) Hatályát veszti
-
-- a) a közúti közlekedésről szóló 1988. évi I. törvény 49. § (2) bekezdés b) pontjában az „a Munka törvénykönyvéről szóló 1992. évi XXII. törvénnyel és” szövegrész,
-- b) a víziközlekedésről szóló 2000. évi XLII. törvény 90. § d) pontjában a „Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel és az” szövegrész, valamint 90. § e) pontjában a „Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel és az” szövegrész,
-- c) az állami vagyonról szóló 2007. évi CVI. törvény 21. § (2) bekezdésében a „Munka Törvénykönyvéről szóló 1992. évi XXII. törvény és a” szövegrész, valamint a „2012. évi I.” szövegrész.
+(2)–(4)
 
 ### 1–3. melléklet a 2012. évi LXXXVI. törvényhez

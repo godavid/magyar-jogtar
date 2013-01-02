@@ -113,7 +113,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (4) A bizottság tagjai maguk közül elnököt választanak. A bizottság ügyrendjét – a miniszter jóváhagyásával – és az éves munkatervét az 5/B. §-ban foglaltakra figyelemmel maga állapítja meg.
 
-(5) A bizottság működéséhez – ideértve a tagok díjazásához – szükséges forrást az előadó-művészeti államigazgatási szerv költségvetésében kell biztosítani.
+(5) A bizottság működéséhez – ideértve a tagok díjazásához – szükséges forrást a 6. § (1) bekezdése szerint kijelölt szerv költségvetésében kell biztosítani.
 
 5/B. § (1) A bizottság
 
@@ -138,9 +138,9 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (3) A nem állami fenntartású zenekarok és énekkarok tekintetében a felosztási szabályzat a központi költségvetésről szóló törvény tervezésének megalapozásához figyelembe veendő szempontként tartalmazza az évente a 20. § (1) bekezdés a)–f) pontjában meghatározott szempontok szerinti adatok súlyozási értékeit, a támogatások felosztásának számítási módját és a következő költségvetési évi támogatásokra vonatkozó felosztási javaslatot.
 
-### 3. CÍM — Az előadó-művészeti államigazgatási szerv
+### 3. CÍM — Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezet
 
-6. § (1) Az előadó-művészeti államigazgatási szerv ellátja az előadó-művészeti szervezetek működésével összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
+6. § (1) Az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat kormányrendeletben kijelölt szerv (a továbbiakban: kijelölt szerv) látja el. Ennek keretében:
 
 - a) az állam által fenntartott és az e törvény szerint támogatást igénylő előadó-művészeti szervezetekről, valamint az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről, azok jogszabályban meghatározott adatairól hatósági nyilvántartást vezet,
 - b) ellenőrzi a nyilvántartott előadó-művészeti szervezetek e törvény szerinti kötelezettségeinek teljesítését, amely ellenőrzés kiterjed a hatósági ellenőrzésre és a támogatások rendeltetésszerű felhasználására is,
@@ -151,13 +151,13 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2)
 
-(3) Az előadó-művészeti államigazgatási szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(3) A kijelölt szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 ### III. Fejezet — AZ ELŐADÓ-MŰVÉSZETI SZERVEZETEK NYILVÁNTARTÁSA, MINŐSÍTÉSE, A KÖZSZOLGÁLTATÁSI SZERZŐDÉS
 
 ### 1. CÍM — Az előadó-művészeti szervezetek nyilvántartása
 
-7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről az előadó-művészeti államigazgatási szerv nyilvántartást vezet.
+7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről a kijelölt szerv nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -171,7 +171,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (3) Jogszabály az e törvényben meghatározott célok teljesüléséhez szükséges egyéb – a személyes adat körébe nem tartozó – adat nyilvántartásba vételét is előírhatja.
 
-(4) A nyilvántartásban szereplő adatok nyilvánosak, és az előadó-művészeti államigazgatási szerv honlapján hozzáférhetők.
+(4) A nyilvántartásban szereplő adatok nyilvánosak, és a kijelölt szerv honlapján hozzáférhetők.
 
 8. § (1) A nyilvántartásba vételi eljárás – a (4) bekezdésben foglalt kivétellel – kérelemre indul. A kérelmet az előadó-művészeti szervezet fenntartója, ennek hiányában, továbbá a szakmai érdek-képviseleti szervezetek esetében a szervezet képviselője nyújthatja be.
 
@@ -184,9 +184,9 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (4) Az állam által fenntartott előadó-művészeti szervezetek esetén a nyilvántartásba vételi eljárás hivatalból indul.
 
-9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni az előadó-művészeti államigazgatási szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
+9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni a kijelölt szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
 
-(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
+(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén a kijelölt szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
 
 10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
@@ -262,7 +262,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 részére.
 
-(3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – az előadó-művészeti államigazgatási szerv által történő nyilvántartásba vétel.
+(3) A központi költségvetési támogatás feltétele – a (4) bekezdésben foglalt kivétellel – a kijelölt szerv által történő nyilvántartásba vétel.
 
 (4) A 21. § alapján kiírt pályázati támogatásokból a nyilvántartásban nem szereplő előadó-művészeti szervezet is részesülhet.
 
@@ -278,7 +278,7 @@ részére.
 
 (4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
 
-(5) A fenntartó köteles az általa megkötött fenntartói megállapodásokat az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
+(5) A fenntartó köteles az általa megkötött fenntartói megállapodásokat a kijelölt szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani a kijelölt szerv részére.
 
 ### 2. CÍM — A színház, balett- és táncegyüttesek központi költségvetési támogatásai és az igénybevétel feltételei
 
@@ -315,7 +315,7 @@ részére.
 - f) helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítési, továbbá az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz, helyi és országos turisztikai célokhoz való kapcsolódás, a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlatát,
 - g) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülését.
 
-(5) A (3) és (4) bekezdés szerinti adatokat és információkat tartalmazó művészeti évadbeszámolót az érintett előadó-művészeti évadra vonatkozóan június 10-éig köteles a művészeti támogatásra jogosult az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni. Az évadbeszámoló a művészeti évad június és július hónapjára vonatkozóan az érintett adatkörben tervszámokat tartalmaz. Az előadó-művészeti szervezet augusztus 31-éig köteles a tervszámoktól eltérő tényadatokról az e bekezdés szerinti formában tájékoztatást adni.
+(5) A (3) és (4) bekezdés szerinti adatokat és információkat tartalmazó művészeti évadbeszámolót az érintett előadó-művészeti évadra vonatkozóan június 10-éig köteles a művészeti támogatásra jogosult a kijelölt szerv részére nyomtatott és elektronikus formában megküldeni. Az évadbeszámoló a művészeti évad június és július hónapjára vonatkozóan az érintett adatkörben tervszámokat tartalmaz. Az előadó-művészeti szervezet augusztus 31-éig köteles a tervszámoktól eltérő tényadatokról az e bekezdés szerinti formában tájékoztatást adni.
 
 18. § (1) A működési támogatás létesítménygazdálkodási célra – az érintett területeken jelentkező kiadásaihoz történő hozzájárulásként, az e törvényben meghatározott feltételek fennállása esetén – adható, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
@@ -370,15 +370,15 @@ részére.
 
 22. §
 
-23. § (1) A 15. § (2) bekezdése szerinti jogosult (ha több előadó-művészeti szervezetet tart fenn, vagy több előadó-művészeti szervezettel kötött közszolgáltatási szerződést, szervezetenként) a központi költségvetési támogatás felhasználásáról a tárgyévet követő év június 30-áig az előadó-művészeti államigazgatási szerv részére szakmai és pénzügyi beszámolót készít.
+23. § (1) A 15. § (2) bekezdése szerinti jogosult (ha több előadó-művészeti szervezetet tart fenn, vagy több előadó-művészeti szervezettel kötött közszolgáltatási szerződést, szervezetenként) a központi költségvetési támogatás felhasználásáról a tárgyévet követő év június 30-áig a kijelölt szerv részére szakmai és pénzügyi beszámolót készít.
 
-(2) A 4. § c) pontja alapján állami fenntartásban működő, valamint a 4. § d) pontjában foglalt közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet a fenntartója vagy a vele közszolgáltatási szerződést kötött önkormányzat részére nyújtott beszámolót az előadó-művészeti államigazgatási szervnek is megküldi.
+(2) A 4. § c) pontja alapján állami fenntartásban működő, valamint a 4. § d) pontjában foglalt közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet a fenntartója vagy a vele közszolgáltatási szerződést kötött önkormányzat részére nyújtott beszámolót a kijelölt szervnek is megküldi.
 
 (3) A beszámoló elmulasztása a folyamatban lévő támogatás felfüggesztését vonja maga után mindaddig, amíg a beszámoló pótlására nem kerül sor.
 
-(4) A beszámoló központi költségvetési támogatásra vonatkozó, valamint külön jogszabályban meghatározott adatait az előadó-művészeti államigazgatási szerv a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi.
+(4) A beszámoló központi költségvetési támogatásra vonatkozó, valamint külön jogszabályban meghatározott adatait a kijelölt szerv a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi.
 
-(5) Az előadó-művészeti államigazgatási szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az érintett bizottság tagjainak.
+(5) A kijelölt szerv a beszámolókat összegzi, és azt megküldi a miniszternek, valamint az érintett bizottság tagjainak.
 
 (6)
 
@@ -401,7 +401,7 @@ részére.
 - a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
 - b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 - c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
-- d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
+- d) a kijelölt szerv működéséhez szükséges előirányzatot.
 
 ### V. Fejezet — AZ ELŐADÓ-MŰVÉSZETI MUNKAVÉGZÉS SAJÁTOS SZABÁLYAI
 
@@ -553,7 +553,7 @@ képviselője.
 
 (8) A pályázatokat a benyújtási határidőt követő harminc napon belül kell elbírálni.
 
-(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzetiségi előadó-művészeti szervezet esetében a munkáltató – ha nem nemzetiségi önkormányzat – az érintett nemzetiségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A nyilvántartásba vett előadó-művészeti szervezet a sikeres pályázat egy példányát a döntést követő 15 napon belül az előadó-művészeti államigazgatási szerv részére megküldi.
+(9) A munkakör betöltéséről – a szakmai bizottság véleményét is mérlegelve – a munkáltatói jogkör gyakorlója harminc napon belül, önkormányzati fenntartó esetén a következő képviselő-testületi ülésén dönt. A nemzetiségi előadó-művészeti szervezet esetében a munkáltató – ha nem nemzetiségi önkormányzat – az érintett nemzetiségi önkormányzat egyetértésével dönt. A döntést a szakmai bizottság véleményével együtt nyilvánosságra kell hozni. A munkáltatói jogkör gyakorlója a sikeres pályázat egy példányát a döntést követő 15 napon belül a kijelölt szerv részére megküldi.
 
 (10) Ha a pályázat eredménytelen, úgy legkésőbb az eredménytelenségről szóló döntéstől számított harminc napon belül újra ki kell írni a pályázatot.
 
@@ -563,9 +563,9 @@ képviselője.
 
 39/A. § A költségvetési szervként működő előadó-művészeti szervezetnél a vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-40. § (1) A vezető munkakörének ellátásával szakirányú felsőfokú végzettséggel és legalább ötéves szakmai gyakorlattal rendelkező személy bízható meg. E paragrafus tekintetében szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diplomával vagy oklevéllel, továbbá a jogász, illetve a közgazdász oklevéllel tanúsított végzettség.
+40. § (1) A vezető munkakörének ellátásával szakirányú felsőfokú végzettséggel és legalább ötéves szakmai gyakorlattal rendelkező személy bízható meg. E paragrafus tekintetében szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diplomával vagy oklevéllel, vagy jogász vagy közgazdász oklevéllel tanúsított végzettség.
 
-(2) Ha a vezető nem rendelkezik egyetemi vagy főiskolai szintű pénzügyi-gazdasági, illetve közgazdász szakképzettséggel, egyetemi vagy főiskolai szintű végzettséggel és pénzügyi, számviteli szakképesítéssel vagy pénzügyi-gazdasági szakirányú továbbképzési szakon szerzett további végzettséggel, az előadó-művészeti szervezetnél ennek megfelelő végzettséggel, illetve szakképzettséggel rendelkező gazdasági vezetőt kell foglalkoztatni.
+(2) Ha a vezető nem rendelkezik egyetemi vagy főiskolai szintű pénzügyi-gazdasági, illetve közgazdász szakképzettséggel, egyetemi vagy főiskolai szintű végzettséggel és pénzügyi, számviteli szakképesítéssel vagy pénzügyi-gazdasági szakirányú továbbképzési szakon szerzett további végzettséggel, az önállóan gazdálkodó előadó-művészeti szervezetnél ennek megfelelő végzettséggel, illetve szakképzettséggel rendelkező gazdasági vezetőt kell foglalkoztatni.
 
 (3) Szakmai gyakorlatnak minősül a valamely előadó-művészeti szervezetnél, a szervezet alaptevékenységének megfelelő és ahhoz közvetlenül kapcsolódó munkakörben, munkavégzésre irányuló egyéb jogviszony esetében pedig az ilyen feladatkörben eltöltött idő.
 
@@ -703,7 +703,7 @@ képviselője.
 
 47. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki az előadó-művészeti államigazgatási szervet,
+- a) jelölje ki az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetet,
 - b) meghatározza az egyes művészi és művészeti munkaköröket, valamint a betöltésükhöz szükséges képesítési és egyéb feltételek részletes szabályait,
 - c) határozza meg a balettművészeti életjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének részletes eljárási szabályait,
 - d) határozza meg az egyes előadó-művészeti tevékenységet folytatók járadéka igénybevételének feltételeit.

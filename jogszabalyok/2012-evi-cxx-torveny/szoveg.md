@@ -474,359 +474,37 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 
 #### 20. Módosító rendelkezések
 
-28. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) a következő 1. § (2) bekezdése a következő 18. ponttal egészül ki:
-
-(A rendőrség az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:)
-
-„18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában.”
+28. § (1)
 
 (2)
 
-(3) Az Rtv. a következő 24/A. §-sal egészül ki:
-
-„24/A. § (1) A rendőrt a feladatkörében eljáró, a Büntető Törvénykönyvről szóló törvényben meghatározottak szerinti hivatalos vagy közfeladatot ellátó személy (a továbbiakban együtt: igazoltatást kérő) felkérheti más személy igazoltatására, feltéve, ha az igazoltatást kérő e minőségét igazolja. Ha az igazoltatást kérő igazolja, hogy az adatok a hivatali vagy közfeladatának teljesítéséhez szükségesek, úgy a rendőr az igazoltatást követően a helyszínen átadja részére az igazoltatott személy személyazonosító adatait, valamint – amennyiben az igazoltatott személy ehhez hozzájárul – a lakcímére, tartózkodási helyére vonatkozó adatokat.
-
-(2) Ha az igazoltatást kérő az adatokhoz fűződő jogosultságát a helyszínen igazolja, azonban az igazoltatott személy személyazonosságának megállapítása a helyszínen nem lehetséges, úgy a rendőrkapitányság köteles az igazoltatásra való felkérést követő 8 napon belül kiadni az igazoltatott személy személyazonosító adatait az igazoltatást kérőnek vagy az igazoltatást kérőt foglalkoztató szervezetnek.
-
-(3) Az adatok (2) bekezdés szerinti kiadásáról az igazoltatott személyt írásban értesíteni kell. Az értesítésben közölni kell az igazoltatást kérő igényének indokait. Ha az igazoltatott személy kéri, az igazoltatást kérőt foglalkoztató szervezet megnevezését és címét, valamint az igazoltatást kérő nevét, beosztását vagy munkakörét közölni kell vele.”
-
-(4) Az Rtv. 24. § (4) bekezdésében az „adatait a rendőrkapitányság” szövegrész helyébe az „adatait – a 24/A. § (1) bekezdésében foglaltakat kivéve – a rendőrkapitányság” szöveg lép.
-
-(5) Az Rtv. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„29. § (1) A rendőr a feladata ellátása során
-
-a) igazoltathatja azt, akinek a személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében kell megállapítani,
-
-b) az igazoltatott személyt lakcímének, tartózkodási helyének – az igazoltatott választása szerint – a lakcímet igazoló hatósági igazolvánnyal vagy más alkalmas dokumentummal történő igazolására, vagy a lakcímre, tartózkodási helyre vonatkozó nyilatkozattételre kérheti fel, valamint
-
-c) amennyiben a 24/A. § (1) bekezdésében meghatározott személy felkérése alapján igazoltat, úgy az igazoltatott személyt a b) pontban megjelölt adatok igazolására, vagy ezen adatokra vonatkozó nyilatkozattételre kéri fel.”
-
-(6) Az Rtv. a 34. §-t követően a következő alcímmel és 34/A. §-sal egészül ki:
-
-„Intézkedés a tanítási napon a tanítási órától vagy az iskola által szervezett foglalkozástól engedély nélkül távolmaradó, vagy onnan engedély nélkül eltávozó 14. életévét be nem töltött tanulóval szemben
-
-34/A. § (1) A rendőr azt a 14. életévét be nem töltött tanulót, aki nagykorú kísérete nélkül, valamint aki nem tudja hitelt érdemlően igazolni, hogy a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól engedéllyel maradt távol, vagy arról engedéllyel távozott el – a nevelési-oktatási intézménnyel történt előzetes egyeztetést követően – a nevelési-oktatási intézmény vezetőjéhez kísérheti.
-
-(2) E § alkalmazásában hitelt érdemlő igazoláson a nevelési-oktatási intézmény, az orvos, valamint a 14. életévét be nem töltött tanuló szülője, törvényes képviselője által kiállított írásbeli igazolást kell érteni.”
-
-(7) Az Rtv. 69. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[A rendőrség bírói engedéllyel a 63. § (1) bekezdésében meghatározott bűnüldözési célból a súlyos bűncselekmények esetében, valamint a (3) bekezdésben felsorolt esetekben a nyomozás elrendeléséig]
-
-„a) a lelkiismereti és vallásszabadság megsértése (Btk. 174/A. §), a kitartottság (Btk. 206. §), a hivatali visszaélés (Btk. 225. §), a visszaélés új pszichoaktív anyaggal (Btk. 283/B. §),”
+(3)–(7)
 
 #### 29. §
 
-30. § A természet védelméről szóló 1996. évi LIII. törvény 63. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 30. §
 
-„(1) A települési – fővárosban a fővárosi – önkormányzat képviselő-testülete önkormányzati természetvédelmi őrszolgálatot működtethet. A települési – fővárosban a fővárosi – önkormányzat az önkormányzati természetvédelmi őrszolgálat megalakítása előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.”
+#### 31. §
 
-31. § (1) A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény (a továbbiakban: Vadászati törvény) 54. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 32. §
 
-„(1) A hivatásos vadász – amennyiben megfelel a külön jogszabályban írt egyéb feltételeknek – a vadászatra jogosult megbízása alapján, a vad, valamint élőhelyének védelme érdekében a vadászterületen és a közforgalom előtt elzárt magánutakon jogosult, valamint köteles
+#### 33. §
 
-a) azzal a személlyel szemben, aki a vadászterületen tartózkodik és a vadállományt veszélyezteti,
+#### 34. §
 
-b) azzal a személlyel szemben, aki vadászterületen vagy annak közvetlen körzetében tartózkodik és a birtokában lévő vad, vadhús, szárnyas vad tojása, illetőleg a trófea jogellenes birtoklásával alaposan gyanúsítható,
-
-c) vadvédelmi bírság fizetésének alapjául szolgáló cselekmény alapos gyanúja esetén az elkövetésül használt eszközök – ideértve a járművet is – biztosítása érdekében
-
-az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedés és kényszerítő eszközök alkalmazására.”
-
-(2) A Vadászati törvény 51. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hivatásos vadász a vadászati hatóság előtt a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott szövegű esküt tesz. Az eskü letételét követően a vadászati hatóság a hivatásos vadászt nyilvántartásba veszi és részére hitelesített szolgálati naplót ad át.”
-
-32. § (1) A halászatról és a horgászatról szóló 1997. évi XLI. törvény (a továbbiakban: Halászati törvény) 34. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Halászati őr a működési helye szerinti halászati hatóságnál az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát és a miniszter által rendeletben meghatározott szövegű esküt tesz.”
-
-(2) A Halászati törvény 34. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyen- vagy formaruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.”
-
-(3) A Halászati törvény 34. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az a halászati őr, aki állami, vagy önkormányzati alkalmazásban áll a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti intézkedéseket és kényszerítő eszközöket alkalmazhatja.”
-
-(4) A Halászati törvény 34. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.”
-
-33. § (1) A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény (a továbbiakban: Fbtv.) 12. §-a helyébe a következő rendelkezés lép:
-
-„12. § (1) A természetvédelmi őrszolgálat tagja (a továbbiakban: természetvédelmi őr) a nemzeti park igazgatóság működési területén jogosult és köteles
-
-a) a természet, valamint a régészeti örökség védelmére vonatkozó előírások betartásának ellenőrzése során,
-
-b) a természet és a régészeti örökség védelmének érdekeit sértő, a természeti értéket és területet – beleértve a védett természeti értéket és területet, illetve a Natura 2000 területet – (a továbbiakban: természeti érték vagy terület) veszélyeztető vagy károsító, valamint régészeti lelőhelyet károsító jogellenes cselekményt elkövető személlyel szemben,
-
-c) azzal a személlyel szemben, akiről alaposan feltételezhető, hogy jogellenesen szerzett természeti értéket vagy régészeti leletet tart magánál,
-
-d) azzal a járművel szemben, amelyikről alaposan feltételezhető, hogy azon jogellenesen szerzett természeti érték vagy régészeti lelet van,
-
-e) a természeti értéket vagy területet károsító vagy veszélyeztető, valamint régészeti örökséget károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett természeti érték, régészeti lelet megóvása érdekében,
-
-f) a természet, valamint a régészeti örökség védelmével összefüggő bűncselekmény elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható, vagy az intézkedésének ellenszegülő személlyel szemben
-
-az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
-
-(2) A természetvédelmi őr az (1) bekezdésben meghatározottakon túl a nemzeti park igazgatóság működési területén jogosult és köteles
-
-a) jogszabályban meghatározott esetben helyszíni bírságot kiszabni,
-
-b) természeti terület vagy érték károsításának megelőzése, illetve megakadályozása érdekében természeti területet – a természetvédelmi hatóság egyidejű értesítése mellett, a károsítás veszélyének elhárításáig ideiglenesen, vagy a természetvédelmi hatóság közlekedést vagy tartózkodást korlátozó vagy megtiltó határozata alapján – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon lezárni,
-
-c) intézkedése végrehajtásának helyszíni biztosítása érdekében természeti területet – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon – lezárni.”
-
-(2) Az Fbtv. 14. §-a helyébe a következő rendelkezés lép:
-
-„14. § (1) Az önkormányzati természetvédelmi őr formaruhával ellátott, intézkedésre jogosult hivatalos személy, aki a helyi jelentőségű védett természeti területen jogosult és köteles
-
-a) a helyi jelentőségű védett természeti területre vonatkozó előírások betartásának ellenőrzése során,
-
-b) a helyi jelentőségű védett természeti területet veszélyeztető vagy károsító cselekményt elkövető személlyel szemben,
-
-c) a helyi jelentőségű védett természeti területen károsító vagy veszélyeztető cselekmény elkövetésén tetten ért, vagy ezzel alaposan gyanúsítható személlyel szemben a területről származó és jogellenesen szerzett természeti vagy védett természeti érték megóvása érdekében
-
-az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
-
-(2) Az önkormányzati természetvédelmi őr az (1) bekezdésben meghatározottakon túl jogosult és köteles a jogszabályban meghatározott esetben helyszíni bírságot kiszabni.
-
-(3) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott kényszerítő eszközt alkalmazhat.”
-
-(3) Az Fbtv. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A természetvédelmi őr és az önkormányzati természetvédelmi őr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.”
-
-(4) Az Fbtv. 19. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az önkormányzat a mezei őrszolgálat megalakítása előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.”
-
-(5) Az Fbtv. 22. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott ismeretekből vizsgát tesz.
-
-(2) A mezőőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolványa igazolja. A mezőőr szolgálati igazolványának, tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A mezőgazdasági igazgatási szerv a mezőőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.”
-
-(6) Az Fbtv. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A mezőőr a működési területén
-
-a) azzal a járművel szemben, amelyről alaposan feltételezhető, hogy azon a működési területről származó jogellenesen szerzett szállítmány van,
-
-b) azzal a személlyel szemben, aki a nála vagy az általa használt járművön levő szállítmány megszerzésének jogszerűségét nem valószínűsíti
-
-jogosult és köteles az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.”
-
-(7) Az Fbtv. 23. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A mezőőr a működési területén jogosult és köteles az (1) bekezdésben meghatározottakon túl a jogtalanul legeltetett, illetőleg felügyelet nélkül talált állatot a tulajdonosnak átadni.”
-
-(8) Az Fbtv. 29. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hegyőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja. A hegyőr szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A hegybíró a hegyőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.”
-
-34. § (1) A közterület-felügyeletről szóló 1999. évi LXIII. törvény (a továbbiakban: Kftv.) 1. §-a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az önkormányzat a közterület-felügyelet megalakítás előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.”
-
-(2) A Kftv. 1. § (4) bekezdése következő h) ponttal egészül ki:
-
-(A felügyelet feladata:)
-
-„h) a mozgásában korlátozott személy parkolási igazolvány jogszerű használatának és birtoklásának az ellenőrzése.”
-
-(3) A Kftv. 1. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.”
-
-(4) A Kftv. 2. § (3) bekezdése helyébe a következő rendelkezés lép, valamint a § a következő (4) bekezdéssel egészül ki:
-
-„(3) A felügyelőnek – a közszolgálati tisztviselőkről szóló törvényben meghatározottakon túl – vizsgát kell tennie e törvény és a végrehajtására kiadott, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott rendelkezések ismeretéből.
-
-(4) A halászati őrre, az önkormányzati természetvédelmi őrre, a mezőőrre, az erdészeti szakszemélyzet tagjára és a jogosult erdészeti szakszemélyzet tagjára előírt képzettségi feltételek megléte esetén a feladatát ellátó közterület-felügyelő, amennyiben a munkaköréhez tartozó működési területek fekvése egybeesik, megbízható a halászati őr, az önkormányzati természetvédelmi őr, a mezőőr, az erdészeti szakszemélyzet tagja és a jogosult erdészeti szakszemélyzet tagja hatáskörébe tartozó feladatok ellátásával.”
-
-(5) A Kftv. 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § A felügyelő szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.”
-
-(6) A Kftv. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § A felügyelő a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.”
-
-(7) A Kftv. 23. § (3) bekezdésében a „elbírálása a rendőrség hatáskörébe tartozik” szövegrész helyébe a „elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadóak” szöveg lép.
-
-(8) A Kftv. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § Akinek a felügyelő intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette, panasszal fordulhat a rendőrséghez. A panasz előterjesztésére, valamint elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.”
-
-35. § (1) A személy- és vagyonvédelmi, valamint magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: SzVMt.) 5. § (4) bekezdés helyébe a következő rendelkezés lép:
-
-„(4) Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
-
-a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
-
-b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
-
-c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.”
-
-(2) A személy- és vagyonvédelmi, valamint magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 5/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
-
-a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
-
-b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, valamint
-
-c) a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a tervező-szerelő vagy magánnyomozói tevékenység gyakorlásától eltiltott.”
-
-(3) Az SzVMt. 6. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti személy- és vagyonőr a tevékenységét, abban az esetben kezdheti meg, ha az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.”
-
-(4) Az SzVMt. 38. § (1) bekezdése a következő l) ponttal egészül ki:
-
-[A kamara]
-
-„l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 26–29. §-aiban meghatározott jogosultságok gyakorlásával szemben benyújtott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott panaszt,”
-
-(5) Az SzVMt. a 62. §-t követően a következő 62/A. §-sal és címmel egészül ki:
-
-„A személy- és vagyonőr intézkedésével szembeni panasz elbírálása
-
-62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt az intézkedés helye szerint illetékes az alapszabályban meghatározott területi szervezet bírálja el harminc napon belül közigazgatási hatósági eljárás szabályai szerint.
-
-(2) A első fokú döntés ellen benyújtott fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.”
+35. § (1)–(5)
 
 (6)
 
-36. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 98. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+#### 36. §
 
-„(1a) Az erdészeti szakszemélyzet az e törvényben meghatározott tevékenység folytatására, valamint az intézkedésére való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja.
+#### 37. §
 
-(1b) Az erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.”
+#### 38. §
 
-(2) Az Evt. 98. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 39. §
 
-„(2) Az erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
-
-a) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért személlyel szemben,
-
-b) olyan jármű vezetőjével szemben, amelyről alaposan feltételezhető, hogy azon jogellenesen szerzett fa-, szaporítóanyag, illetve egyéb erdei termék van,
-
-c) az erdőt veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett faanyag és szaporítóanyag, valamint egyéb erdei termék, valamint az elkövetéshez (veszélyeztetéshez) használt eszköz biztosítása érdekében
-
-az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.”
-
-(3) Az Evt. 103. §-a helyébe a következő rendelkezés lép:
-
-„103. § (1) Az erdészeti hatósági feladatokat ellátó személyek részére szolgálati igazolványt a rendőrség állít ki.
-
-(2) Az erdészeti hatóság eljárása során jogosult
-
-a) az erdőgazdálkodó és a tulajdonos engedélye nélkül külön térítés fizetése nélkül valamennyi erdészeti magánúton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni,
-
-b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni,
-
-c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
-
-(3) Az állam az erdő védelme, károsításának megelőzése, valamint az erdészeti hatósági tevékenységhez kapcsolódó ellenőrzés érdekében az erdészeti hatóság szervezetében – a bejelentések fogadására és kezelésére 24 órában alkalmas – erdővédelmi szolgálatot működtet.
-
-(4) Az erdővédelmi szolgálat tagja az erdészeti hatóság illetékességi területén jogosult és köteles
-
-a) az erdők védelmére vonatkozó előírások betartásának ellenőrzése során,
-
-b) az erdőket veszélyeztető vagy károsító, jogellenes cselekményt elkövető személlyel szemben,
-
-c) olyan jármű vezetőjével szemben, amelyről alaposan feltételezhető, hogy azon jogellenesen szerzett faanyag, szaporítóanyag vagy egyéb erdei termék van,
-
-d) az erdőket veszélyeztető vagy károsító jogellenes cselekmény elkövetésén tetten ért vagy az elkövetéssel alaposan gyanúsítható személlyel szemben a jogellenesen szerzett faanyag és szaporítóanyag, illetve egyéb erdei termék, valamint az elkövetéshez (veszélyeztetéshez) használt eszköz biztosítása érdekében,
-
-e) a bűncselekmény elkövetésén tetten ért vagy az intézkedésének ellenszegülő személlyel szemben
-
-az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
-
-(5) Az erdővédelmi szolgálat tagja vegyi eszköz és – a fegyvertartásra vonatkozó külön jogszabályban foglaltak szerint – maroklőfegyver tartására jogosult, melyet külterületen, egyen- vagy formaruhás szolgálatban nyíltan viselhet.”
-
-37. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. § (1) bekezdése a következő szöveggel egészül ki:
-
-„A közfoglalkoztató javaslatára a legalább kétéves közfoglalkoztatási jogviszony követelménye alól a közfoglalkoztatásért felelős miniszter felmentést adhat.”
-
-38. § (1) A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény (a továbbiakban: Pőtv.) 3. § (2) bekezdése a következő j) ponttal egészül ki:
-
-[A polgárőr egyesület az (1) bekezdésben foglalt polgárőri tevékenységén túlmenően kiegészítő feladatként önkéntesen közreműködhet]
-
-„j) a közforgalmú vasúti személyszállítási szolgáltatás rendjének biztosításában.”
-
-(2) A Pőtv. 4. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A polgárőr egyesület a 3. § (2) bekezdés j) pontjában meghatározott feladat ellátását akkor kezdheti meg, valamint végezheti, ha a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást köt.
-
-(5) A (4) bekezdés szerinti együttműködési megállapodással rendelkező polgárőr egyesület működési területe – a (3) bekezdésen túl – kiterjed a közforgalmú vasúti személyszállítási eszköz területére is.”
-
-(3) A Pőtv. 5. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.”
-
-(4) A Pőtv. 6. § (1) bekezdésében a „valamint a hivatásos vadászokkal” szövegrész helyébe a „a hivatásos vadászokkal, valamint a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással” szöveg lép.
-
-(5) A Pőtv. 9. § (2) bekezdése a következő i) ponttal egészül ki:
-
-(Az Országos Polgárőr Szövetség további feladatai:)
-
-„i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja.”
-
-(6) A Pőtv. 14. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(A polgárőr az egyesülete működési területén kívül is elláthatja tevékenységét, ha)
-
-„e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.”
-
-(7) A Pőtv. 15. § (4) bekezdésében a „polgárőr közterületen lát el” szövegrész helyébe a „polgárőr közterületen, vagy közforgalmú személyszállítási eszközön lát el” szöveg lép.
-
-(8) A Pőtv. 15. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A 3. § (2) bekezdés j) pontja szerinti kiegészítő feladata ellátása során a polgárőr köteles magánál tartani a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás által kiállított igazolást.”
-
-(9) A Pőtv. 26. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az Országos Polgárőr Szövetség, a területi polgárőr szövetség, a polgárőr egyesület, valamint a polgárőr saját költségén is gondoskodhat a formaruha beszerzéséről azzal, hogy ebben az esetben a központi költségvetés (1) bekezdés b) és c) pontjában meghatározott kötelezettsége nem áll fenn.”
-
-(10) A Pőtv. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 26. § (1) bekezdés b) és c) pontja szerinti ruházat vagy annak fedezete a központi költségvetésben – az e törvénynek megfelelően átalakult, e törvény szerint működő polgárőr egyesületek tagja vonatkozásában – 2013. január 1-jét követően biztosítható. Az új formaruhák biztosításáig az e törvény hatálybalépését megelőzően használt formaruhák tovább használhatók, amennyiben megfelelnek a 15. § (3) bekezdésében foglalt követelményeknek.”
-
-39. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Köznevelési törvény) 41. § (7) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(7) A gyermek, tanuló adatai közül]
-
-„a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, magántanulói jogállása, mulasztásainak száma a tartózkodásának megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,”
-
-(2) A Köznevelési törvény a 44. § (6) bekezdését követően a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából az (5) bekezdés a)–c), f)–h), j)–m) és o) pontjában foglalt adatok a rendőrség részére továbbíthatók.”
-
-40. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 73. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A tulajdon elleni szabálysértés elkövetésén tetten ért személyt bárki visszatarthatja, köteles azonban őt a rendőrségnek haladéktalanul átadni.”
-
-(2) A Szabs. tv. 74. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A 39. § (2) bekezdés e)–f) és h)–i) pontja szerint helyszíni bírság kiszabására jogosult az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározottak szerint jogosult a ruházat, csomag és jármű átvizsgálására.”
-
-(3) A Szabs. tv. a 126. §-t követően a következő 96/A. alcímmel és 126/A. §-sal egészül ki:
-
-„96/A. A helyszíni bírság kiszabására jogosultak által történő bíróság elé állítás
-
-126/A. § (1) A 39. § (2) bekezdés e) és f), valamint h) és i) pontjában meghatározott személy szabálysértési elzárással is büntethető azon szabálysértések esetén, ahol a helyszíni bírság kiszabására jogosult személy a szabálysértés elkövetésén tetten ért személyt – ha a tárgyalás megtartásának nincsen akadálya – az elkövetés helye szerint illetékes járásbíróságra előállíthatja. Előállítás esetén a bíróság részére a feljelentést előterjeszti, a rendelkezésre álló bizonyítékokat a bíróságnak átadja, valamint javaslatot tesz a büntetés mértékére.
-
-(2) Az (1) bekezdésben meghatározott személy gondoskodik arról, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, továbbá közli az eljárás alá vont személlyel, hogy milyen szabálysértés miatt és milyen bizonyítékok alapján állítja bíróság elé.
-
-(3) A bíróság nem tart tárgyalást, ha megállapítja, hogy az előállítás nem volt jogszerű. Ha a tárgyalás megtartásának nincs akadálya, akkor a 125. § (3) bekezdése szerint jár el.
-
-(4) A végzés ellen az (1) bekezdésben meghatározott személy az e törvényben meghatározott jogorvoslattal élhet.”
+#### 40. §
 
 #### 21. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -836,30 +514,5 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 42. § Hatályát veszti:
 
-- 1. a Vadászati törvény 54. § (3) bekezdésében a „továbbá könnygázszóró” szövegrész és a (4) bekezdése,
-- 2. a Halászati törvény 34. § (4) bekezdés b) pontjában a „járművét átvizsgálni” szövegrész, „az élettelen halat elismervény ellenében visszatartani” szövegrész, valamint a c) pontjában „az élettelen halat elismervény ellenében visszatartani” szövegrész,
-- 3. az Fbtv.
-  - a) 13. § (1) és (2) bekezdése,
-  - b) 15. § ba) (4) bekezdésében „A tájékoztatás módját és tartalmát együttműködési megállapodásban kell rögzíteni.” szövegrész, bb) (2) bekezdése,
-  - c) a 15/A–15/E. §-a,
-  - d) 20. § (2) bekezdése,
-  - e) 24–26. §-a,
-- 4. a Kftv.
-  - a) 2. § (2) bekezdése,
-  - b) 5. §-a,
-  - c) 6. § (3) bekezdésében az „A tájékoztatás módját és tartalmát együttműködési megállapodásban kell rögzíteni.” szövegrész,
-  - d) 8. §-a,
-  - e) 13/A. §-a,
-  - f) 16. §-a,
-  - g) 18. §-a,
-  - h) a 19. §-ában „A felügyelő az intézkedéssel egyidejűleg köteles felhívni az elkövetőt a szabálysértés azonnali vagy ésszerű határidőn belüli megszüntetésére.” szövegrész,
-  - i) 22. § (2) bekezdése,
-  - j) 23. § (4)–(6) bekezdése,
-  - k) 24. §-a,
-  - l) 26/B. §-a,
-- 5. az Evt.
-  - a) 99. §-a,
-  - b) 100/A. §-a,
-  - c) 100/B. §-a,
-  - d) 104. §-a,
+- 1–5.
 - 6.

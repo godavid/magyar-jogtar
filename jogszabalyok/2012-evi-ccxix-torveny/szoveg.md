@@ -597,4 +597,4 @@ kell fedezni.
 
 (2) A 30. §, a 38. § c) pontja és a 40. § (2) bekezdésének d) pontja, 2013. augusztus 1-jén lép hatályba.
 
-(3) Hatályát veszti a hegyközségekről szóló 1994. évi CII. törvény.
+(3)
