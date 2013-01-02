@@ -1282,19 +1282,15 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 156. § (1)
 
-(2) Hatályát veszti
+(2)
 
-- a) az Ötv. 1–18. §-a; 22–31. §-a; 32. §-ának első mondata, 33. §-a; 35–44. §-a; 46. § (2) bekezdése; 52–60. §-a; 61. § (2)–(6) bekezdése; 62–68/D. §-a; 71–72. §-a; 74. § (2)–(3) bekezdése; 75–77. §-a; 81–87. §; 88. § (1) bekezdés a), c), d) pontja; 89–97. §; 101–115. § (4) bekezdése; 115. § (6) bekezdése,
+- a)
 - b)
-- c) a 146/A. §.
+- c)
 
 (3)
 
-157. § Hatályát veszti
-
-- a) a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény,
-- b) a területszervezési eljárásról szóló 1999. évi XLI. törvény,
-- c) a települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény.
+#### 157. §
 
 #### 158. §
 

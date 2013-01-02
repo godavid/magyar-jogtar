@@ -1933,7 +1933,7 @@ rendeletben állapítsa meg.
 
 (6) A 67. § (2) bekezdése a 2014. évi általános önkormányzati választások napján lép hatályba.
 
-(7) Hatályát veszti a Kt. 6. § (2) bekezdése, 21. §-a, 24. § (5) bekezdése, 34–35. §-a, 55. § (5) bekezdése, 66. § (9) bekezdése, 85–91. §-a, 94. § (3) bekezdés f) pontja.
+(7)
 
 (8)
 
