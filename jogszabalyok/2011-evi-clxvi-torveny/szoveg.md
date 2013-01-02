@@ -420,9 +420,7 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 - 59.
 - 60.
 
-85. § (1) Hatályát veszti az egyes törvényeknek a Munkaerőpiaci Alap létrehozásával kapcsolatos módosításáról szóló 1995. évi CXXIV. törvény.
-
-(2) Hatályát veszti a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 28. § (1) bekezdése.
+85. §
 
 86. §
 
@@ -434,11 +432,7 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 
 #### 86. A Nemzeti Civil Alapprogram bevételeivel kapcsolatos módosítás
 
-89. § A Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 2. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az Alapprogram bevételei:)
-
-„a) központi költségvetési támogatásként a személyi jövedelemadóként ténylegesen befizetett összeg 1%-ából a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ában megjelölt kedvezményezetteknek a tárgyévet megelőző harmadik évben benyújtott, érvényes rendelkező nyilatkozatok alapján ténylegesen kiutalt jövedelemadó-hányaddal megegyező összeg;”
+89. §
 
 90. § E törvény 80. §-ában foglalt rendelkezéseinek
 

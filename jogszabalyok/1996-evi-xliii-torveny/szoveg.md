@@ -10,7 +10,7 @@ Magyarország függetlenségének, törvényes rendjének, valamint a lakosság 
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya a rendvédelmi szervek (a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet), Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal, valamint a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.
+1. § (1) E törvény hatálya a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal, valamint a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.
 
 (2) E törvény rendelkezéseit – a törvényben meghatározott esetben és körben –
 

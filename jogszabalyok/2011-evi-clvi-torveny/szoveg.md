@@ -228,43 +228,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 232–249. §
 
-250. § (1) Az Szt. 151. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A mérlegképes könyvelői képesítéssel rendelkezők, valamint az okleveles könyvvizsgálói képesítéssel rendelkező nem kamarai tagok)
-
-„b) részére az a) pont szerinti kérelem alapján a könyvviteli szolgáltatás végzésére jogosító engedélyt meg kell adni, és egyidejűleg őket a (3) bekezdés szerinti nyilvántartásba fel kell venni, ha
-
-ba) mérlegképes könyvelői vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
-
-bb) a ba) alpont szerinti szakképesítés megszerzését követően, az a) pont szerinti kérelem benyújtását megelőzően legalább 3 éves, dokumentumokkal alátámasztott számviteli, pénzügyi, vagy ellenőrzési gyakorlattal rendelkeznek,
-
-bc) büntetlen előéletűek, és nem állnak a könyvviteli szolgáltatás gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, valamint
-
-bd) igazolják, hogy az a) pont szerinti kérelem benyújtását megelőző 12 hónapban – a kérelemben megjelölt szakterületre előírt – a 152. § (1) bekezdés szerinti továbbképzési kötelezettséget megfelelően teljesítették.”
-
-(2) Az Szt. 151. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
-
-a) az engedély visszavonását követően, ha arra a (6) bekezdés a) pontja miatt,
-
-b) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli mentesülést követően, ha az engedély visszavonására a (6) bekezdés b) pontja miatt,
-
-c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha az engedély visszavonására a (6) bekezdés c) pontja miatt,
-
-d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
-
-e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
-
-f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt
-
-került sor.”
+250. §
 
 251–254. §
 
-255. § (1) Az Szt. 177. §-a a következő (22) bekezdéssel egészül ki:
-
-„(22) Azoknak a tevékenység-engedélyezési eljárása során, akik korábban a 151. § (1) bekezdése szerinti tevékenységi engedéllyel nem rendelkeztek, a 151. § (5) bekezdés b) pont bd) alpontja szerinti rendelkezéseket csak a 2014. december 31-ét követően benyújtott kérelmek vonatkozásában kell alkalmazni.”
+255. § (1)
 
 (2)
 
@@ -306,17 +274,7 @@ került sor.”
 
 #### 20. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosítása
 
-277. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) IX. fejezete a következő alcímmel és 69/F. §-sal egészül ki:
-
-„A közérdeklődésre számot tartó hitelintézetre vonatkozó előírások
-
-69/F. § (1) Közérdeklődésre számot tartó hitelintézetnek minősül a nyilvános részvénytársasági formában működő hitelintézet és az a hitelintézet, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszáz milliárd forintot.
-
-(2) A közérdeklődésre számot tartó hitelintézetnek a Gt. 311. §-a szerinti audit bizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén ahol a Gt. részvénytársaságot és közgyűlést említ, ott az (1) bekezdés szerinti hitelintézetet és annak legfőbb szervét kell érteni.
-
-(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó hitelintézet rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek, és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó hitelintézetnek ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésben foglaltakat, továbbá a testület összetételét.”
-
-278. § Hatályát veszti a Hpt. 66. § (8) bekezdése.
+277–278. §
 
 #### 21. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -336,43 +294,11 @@ került sor.”
 
 296. § (1)–(5)
 
-(6) Az Art. Adóbevallás alcíme a következő 31/B. §-sal egészül ki:
-
-„31/B. § (1) Az általános forgalmi adó alanya termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, amelyekben az áthárított általános forgalmi adó összege a 2 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő általános forgalmiadó bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
-
-a) a terméket értékesítő, szolgáltatást nyújtó általános forgalmiadó-alany – ideértve az egyszerűsített vállalkozói adóalanyt is – adószámának, csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegyéről,
-
-b) a nevére szóló számlában feltüntetett általános forgalmi adó alapjáról és áthárított általános forgalmi adó összegéről, a számla sorszámáról, valamint
-
-c) a számlában az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
-
-(2) Az általános forgalmi adó alanya termék értékesítése, szolgáltatás nyújtása esetén azon számlákról, amelyekben egy másik, belföldön nyilvántartásba vett általános forgalmi adó alanyra áthárított általános forgalmi adó összege a 2 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő általános forgalmiadó bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számlában feltüntetett adót meg kell állapítania, számlánként nyilatkozni köteles:
-
-a) a terméket beszerző, szolgáltatást igénybe vevő általános forgalmiadó-alany adószámának, csoportos általános forgalmi adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
-
-b) a kibocsátott számlában feltüntetett általános forgalmi adó alapjáról és áthárított általános forgalmi adó összegéről, a számla sorszámáról, valamint
-
-c) a számlában az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
-
-(3) Amennyiben az általános forgalmi adó alanya ugyanabban az adómegállapítási időszakban ugyanazon termékértékesítő vagy szolgáltatást nyújtó által kibocsátott több számlában – ideértve a számlával egy tekintet alá eső okiratot is – áthárított adó tekintetében gyakorol összesen 2 000 000 forintot elérő vagy ezt meghaladó összegben adólevonási jogot, úgy az erről az adómegállapítási időszakról benyújtott általános forgalmiadó bevallásában nyilatkozik:
-
-a) a termékértékesítő vagy szolgáltatást nyújtó általános forgalmiadó-alany – ideértve az egyszerűsített vállalkozói adó alanyát is – adószámának, csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegyéről, és
-
-b) ezen számlákban feltüntetett, áthárított általános forgalmi adó összegéről.
-
-(4) Számla módosítása esetén a számlát módosító okiratot kiállító és az azt befogadó általános forgalmiadó-alany abban a bevallásban, amelyben a módosítás hatását figyelembe veszi, akkor köteles a módosított számlát érintően az (1)–(2) bekezdés szerint nyilatkozni, ha a számlában áthárított általános forgalmi adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja a 2 000 000 forintot. Ebben az esetben az általános forgalmi adó alanya nyilatkozik annak a számlának az (1)–(2) bekezdésben meghatározott adatairól, amelyet a módosítás érint, a módosítás számszaki hatásáról az általános forgalmiadó alap és áthárított általános forgalmi adó tekintetében, valamint a számlát módosító okirat sorszámáról.
-
-(5) Számla érvénytelenítése esetén a számlát érvénytelenítő okiratot kiállító és az azt befogadó általános forgalmiadó-alany, amennyiben az érvénytelenített számlában – ideértve a módosított számlát is – áthárított általános forgalmi adó összege elérte vagy meghaladta a 2 000 000 forintot, abban a bevallásban, amelyben az érvénytelenítés hatását figyelembe veszi, köteles a számlát érintően az (1)–(2) bekezdés szerinti adatokról, valamint a számlát érvénytelenítő okirat sorszámáról nyilatkozni.
-
-(6) Az egyszerűsített vállalkozói adó alanya az általa kibocsátott számlák tekintetében a (2) és (4)–(5) bekezdésnek megfelelően, arról az adóévről benyújtott egyszerűsített vállalkozói adó bevallásban – az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 11. § (5) bekezdés alkalmazása esetén a becslésre irányuló adóhatósági eljárás során – nyilatkozik, amelyben a számlát kiállította.
-
-(7) A 34. § és a 172. § alkalmazásában az (1)–(6) bekezdés szerinti nyilatkozatra (általános forgalmi adó összesítő jelentés) a bevallásra vonatkozó rendelkezéseket kell alkalmazni.”
+(6)
 
 297–352. §
 
-353. § Az Art. 175. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adóhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési tárgyú kérelmének előterjesztését elektronikus úton teljesíti.”
+353. §
 
 354. § (1)–(3)
 
@@ -394,7 +320,7 @@ b) ezen számlákban feltüntetett, áthárított általános forgalmi adó öss
 - 5.
 - 6–18.
 
-(3) Az Art. 17. § (5) bekezdésében az „A 31. § (2) bekezdése szerinti bevallás, illetőleg adatszolgáltatás, illetve az összesítő nyilatkozat benyújtására kötelezett adózó” szövegrész helyébe az „A 175. § (9) bekezdés szerint bevallási kötelezettségét elektronikus úton teljesíteni köteles adózó” szöveg lép.
+(3)
 
 (4)
 

@@ -24,29 +24,11 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 #### 91–151. §
 
-152. § A Be. az 538. §-t megelőzően a következő alcímmel egészül ki:
-
-### „Az ügyész eljárása”
+#### 152. §
 
 #### 153–176. §
 
-177. § (1) A Be. 604. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben meghatározza)
-
-„d) az Információs Hivatal tekintetében a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait.”
-
-(2) A Be. 604. § (4) bekezdés b)–c) pontja helyébe a következő rendelkezések lépnek, és egyúttal a (4) bekezdés a következő d) ponttal egészül ki:
-
-(Felhatalmazást kap)
-
-„b) az (1) bekezdés d) pontja kivételével a rendvédelmi szervek tekintetében a rendvédelmi szervet irányító miniszter, a Magyar Honvédség tekintetében a honvédelemért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
-
-c) a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével és az Országgyűlés elnöke véleményének kikérésével az Országgyűlési Őrségnél a nyomozásra illetékes parancsnokot, valamint hatáskörét és a parancsnoki nyomozás részletes szabályait,
-
-d) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait”
-
-(rendeletben megállapítsa.)
+177. § (1)–(2)
 
 (3)
 
@@ -54,7 +36,7 @@ d) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági é
 
 180. § (1) A Be.
 
-- a)
+- a) 29. § e) pontjában a „Nemzeti Adó- és Vámhivatal,” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal, a hivatásos katasztrófavédelmi szerv”,
 - b)–d)
 
 szöveg lép.
@@ -99,27 +81,11 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 #### 206–208. §
 
-209. § A Bnytv. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A büntetőeljárás alá vont személy DNS-profilját a szakértői nyilvántartó szerv határozza meg, amelynek során a Kormány által kijelölt szerv közreműködését veheti igénybe.”
-
-210. § A Bnytv. 65. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az elítélt személy DNS-profilját a szakértői nyilvántartó szerv határozza meg, amelynek során a Kormány által kijelölt szerv közreműködését veheti igénybe.”
-
-211. § A Bnytv. 68. § (1) bekezdése a következő f) ponttal egészül ki:
-
-[Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni]
-
-„f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából.”
+#### 209–211. §
 
 #### 212. §
 
-213. § A Bnytv. 96. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki)
-
-„b) a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet.”
+#### 213. §
 
 #### 214. §
 
@@ -178,15 +144,13 @@ szöveg lép.
 
 #### 257–260. §
 
-261. § (1) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény (a továbbiakban: Bvszt.) 9/A. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az autonóm államigazgatási szervek tekintetében a büntetés-végrehajtási szervezetet a (2) bekezdésben meghatározott ellátási kötelezettség kizárólag ez irányú igénybejelentés esetén terheli.”
+261. § (1)
 
 (2)–(5)
 
 (6) A Bvszt.
 
-- a) 9/A. § (2) bekezdésében a „szerv, az” szövegrész helyébe a „szerv, az autonóm államigazgatási szerv, az”,
+- a)
 - b)–d)
 
 szöveg lép.

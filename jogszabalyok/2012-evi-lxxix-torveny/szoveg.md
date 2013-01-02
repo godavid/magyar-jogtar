@@ -37,17 +37,13 @@ lép.
 
 36. § (1)
 
-(2) Az Eütev. 11/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1. melléklet szerint számított összeg.”
+(2)
 
 37–44. §
 
 45. § (1)–(3)
 
-(4) Az Eütev. 16. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.”
+(4)
 
 46–48. §
 
@@ -59,13 +55,23 @@ lép.
 
 51. § Hatályát veszti az Eütev.
 
-- a) 11/A. § (8) bekezdésében a „(4) és” szöveg,
+- a)
 - b)
 - c)
 
 ### Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-52. §
+52. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-a a következő 38–41. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
+
+39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
+
+40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
+
+41. gyógyszerközvetítő: gyógyszerközvetítéssel foglalkozó természetes vagy jogi személy.”
 
 53. §
 
@@ -85,7 +91,11 @@ lép.
 
 62–63. §
 
-64. §
+64. § A Gytv. 33. § (1) bekezdése a következő i) ponttal egészül ki:
+
+[Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:]
+
+„i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról.
 
 65. § A Gytv.
 

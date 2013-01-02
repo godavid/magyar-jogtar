@@ -952,7 +952,7 @@ vonatkozó önkormányzati rendelet kiadására.
 
 #### 53–54. §
 
-55. § E törvény 27. § (2) bekezdés a) pontjában a „gyakorlatban kialakult vonzásközpont” szövegrész helyébe „a járásközpont vagy gyakorlatban kialakult vonzásközpont” szövegrész lép.
+#### 55. §
 
 #### 56–57. §
 

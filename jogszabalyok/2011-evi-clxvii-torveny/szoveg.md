@@ -264,20 +264,14 @@ a bűnügyi nyilvántartó szervnek.
 
 #### 26–60. §
 
-#### 29. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
+#### 29.
 
-#### 61–63. §
-
-64. § (1)
-
-(2)
+#### 61–64. §
 
 ### 30–42.
 
 #### 65–103. §
 
-#### 43. Egyéb hatályon kívül helyező rendelkezések
+#### 43.
 
-104. § (1)
-
-(2)
+#### 104. §

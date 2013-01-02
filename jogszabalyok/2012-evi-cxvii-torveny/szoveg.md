@@ -14,31 +14,7 @@ az igazságügyi és közigazgatási tárgyú törvények módosításáról
 
 14. §
 
-15. § A Pp. a Nyolcadik részt megelőzően a következő 394/F. §-sal és azt megelőző alcímmel egészül ki:
-
-„Az elektronikus kommunikáció szabályai
-
-394/F. § (1) Ahol e törvény elektronikus kommunikációt rendel, ott a (2) bekezdésben meghatározottak szerint a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(2) A bíróság a következő, a Ket. szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
-
-a) az ügyfél ügyintézési rendelkezésének nyilvántartása, ideértve a meghatalmazások kezelését is,
-
-b) azonosítási szolgáltatás,
-
-c) kézbesítési szolgáltatás, ideértve a biztonságos kézbesítési szolgáltatást is,
-
-d) elektronikus irat hiteles papír alapú irattá alakítása,
-
-e) papír alapú irat átalakítása hiteles elektronikus irattá,
-
-f) elektronikus iratról hiteles elektronikus másolat készítése,
-
-g) elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
-
-h) központi azonosítási ügynök,
-
-i) összerendelési nyilvántartás.”
+15. §
 
 16. § A Pp.
 
@@ -73,35 +49,7 @@ lép.
 
 #### 8. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-24. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szatv.) a következő 10/C. és 10/D. §-sal egészül ki:
-
-„10/C. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ a polgár azonosítására, a polgár jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett más, személyazonosításra alkalmas hatósági igazolvánnyal is igazolhatja személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
-
-(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját tartalmazó közhiteles nyilvántartás kezelőjének átadja a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját. Az okmányazonosítót tartalmazó közhiteles nyilvántartás kezelője átadja az okmányazonosítóhoz tartozó, titkosított kapcsolati kódot az összerendelési nyilvántartást vezető szervnek.
-
-(3) Az összerendelési nyilvántartást vezető szerv az adatátadás alapján megküldi az adatkezelő által igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője részére az igényelt azonosító kódhoz tartozó, titkosított kapcsolati kódot. A megkeresés alapján az igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője megküldi az adatkezelő részére az igényelt azonosító kódot, feltéve, hogy az adatkezelő az igényelt azonosító kód kezelésére jogosult.
-
-(4) A (2) és (3) bekezdés szerinti adategyeztetés az adatkezelő által képzett egyedi tranzakciós kódra hivatkozással történik. Az egyedi tranzakciós kód képzési szabályait az adatkezelő határozza meg, azzal, hogy az egyedi tranzakciós kód nem lehet azonos az adóazonosító jellel, a TAJ számmal, a személyazonosító jellel, valamely okmányazonosítóval vagy bármely egyéb, az adatkezelő által használt azonosítóval, továbbá nem származtatható azokból.
-
-(5) Az adatkezelő az adatlekérdezést követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatlekérdezés érdekében a (2) bekezdés szerint megadott okmányazonosítót, amelynek kezelésére egyébként nem jogosult.
-
-10/D. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, a polgár a jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett elektronikus azonosítás útján is igazolhatja az azonosítót, illetve személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
-
-(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő olyan módon azonosítja elektronikus úton a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
-
-(3) A polgár személye valamely személlyel akkor feleltethető meg egyértelműen, ha az azonosítás keretében igazolt adatok alapján egyértelműen megállapítható a személy azonossága, és az igazolt adatok egyeznek az ügyfélre vonatkozó,
-
-a) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal,
-
-b) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal az összerendelési nyilvántartáson keresztül közvetve egyértelműen megfeleltethető adatokkal,
-
-c) a külön törvény szerinti ügyintézési rendelkezésben az ügyfél által rögzített azonosító adatokkal,
-
-d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből a rendszer valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
-
-e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal.
-
-(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, úgy a 10/C. § megfelelően irányadó azzal, hogy okmányazonosítón az azonosítás szolgáltató által hitelesen igazolt azonosító kód vagy az azonosítás szolgáltató által megadott, a polgárra vonatkozó más olyan kód értendő, amelyet az ügyfél az ügyintézési rendelkezésében megadott.”
+24. §
 
 25. §
 
@@ -123,55 +71,7 @@ e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendel�
 
 #### 13. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-30. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) a következő 69/A. §-sal és az azt megelőző alcímmel egészül ki:
-
-„Elektronikus kapcsolattartás
-
-69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet egymással az írásbeli kapcsolatot elektronikus úton tartja.
-
-(2) A bíróság, az ügyészség és a nyomozó hatóság a védővel, a jogi képviselővel vagy a képviselőként eljáró ügyvéddel, továbbá a tanú érdekében eljáró ügyvéddel – a meghatalmazás benyújtását, illetve a kirendelést követően – az írásbeli kapcsolatot elektronikus úton tartja.
-
-(3) Ahol e törvény elektronikus kapcsolattartást rendel vagy arra lehetőséget biztosít, az elektronikus kapcsolattartásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(4) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet az alábbi, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, illetve az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az elektronikus ügyintézési felügyelet által nyilvántartásba vett szolgáltatótól:
-
-a) az ügyfél ügyintézési rendelkezésének nyilvántartása, ideértve a meghatalmazások kezelését is,
-
-b) azonosítási szolgáltatás,
-
-c) kézbesítési szolgáltatás,
-
-d) elektronikus irat hiteles papír alapú irattá alakítása,
-
-e) papír alapú irat átalakítása hiteles elektronikus irattá,
-
-f) elektronikus iratról hiteles elektronikus másolat készítése,
-
-g) elektronikus iratról hiteles, más formátumú elektronikus másolat készítése,
-
-h) központi azonosítási ügynök,
-
-i) összerendelési nyilvántartás.
-
-(5) A (4) bekezdés alkalmazásában ügyfél a 42. §-ban meghatározott büntetőeljárásban részt vevő személy.”
-
-31. § A Be. 70. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-[A bíróság, az ügyész, illetőleg a nyomozó hatóság hivatalos iratának az érintett személy részére átadása (kézbesítés) történhet]
-
-„f) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján.”
-
-32. § (1) A Be. 70/B. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.”
-
-(2) A Be. 70/B. § a következő (11) bekezdéssel egészül ki:
-
-„(11) Aki az (1)–(7) vagy a (10) bekezdés alapján az eljárás során keletkezett iratról másolatot kaphat, kérheti, hogy a másolatot a bíróság, az ügyész, illetve a nyomozó hatóság elektronikus úton vagy elektronikus adathordozón adja ki. Ha a bíróságnál, az ügyésznél, illetve a nyomozó hatóságnál a kiadni kért irat elektronikus formában rendelkezésre áll, a másolatot elektronikus úton vagy elektronikus adathordozón kell kiadni. Az így kiadott másolat nem hiteles.”
-
-33. § A Be. 219. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vádiratot annyi példányban kell benyújtani, hogy a bíróságnak, valamennyi vádlottnak és védőnek egy-egy példány jusson. A vádirat bírósági példányához csatolni kell a vádemelés alapjául szolgáló mindazon iratot, amelyet az ügyész a gyanúsítottnak, illetve a védőnek ismertetésre az eljárás végén átadott, valamint – a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomat kivételével – a tárgyi bizonyítási eszközöket. A bíróság részére a vádiratot és az elektronikus formában rendelkezésre álló iratokat elektronikus úton is meg kell küldeni, vagy ha ez nem lehetséges, elektronikus adathordozón kell átadni.
+30–33. §
 
 34–35. §
 

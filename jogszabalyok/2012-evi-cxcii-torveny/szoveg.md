@@ -114,129 +114,23 @@ megszervezésével és fenntartásával nyújtott szakosított szociális ellát
 
 #### 6. A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény módosítása
 
-13. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 19. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Mentesül az (1) bekezdésben meghatározott tízéves elidegenítési tilalom alól a helyi önkormányzat, amennyiben a támogatás igénybevételével keletkezett vagyon állam részére történő átadására törvény alapján, az önkormányzati feladatok állam általi átvételéhez kapcsolódó vagyonátszállással került sor.”
+#### 13. §
 
 #### 7. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-14. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés m) pont ma) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-fenntartó:)
-
-„ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),”
-
-(ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.)
-
-15. § Az Szt. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha e törvény másként nem rendelkezik, a szociális rászorultságtól függő pénzbeli ellátások iránti kérelmet
-
-a) a jegyző vagy a járási hivatal hatáskörébe tartozó ellátás esetén a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott szervnél,
-
-b) a települési önkormányzat képviselő-testületének hatáskörébe tartozó ellátás esetén az önkormányzat rendeletében meghatározott önkormányzati szervnél
-
-kell előterjeszteni.”
-
-16. § Az Szt. 50. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A közgyógyellátásra való jogosultság ugyanazon időszakra vonatkozóan csak egy jogcímen állapítható meg azzal, hogy a (3) bekezdés szerinti közgyógyellátásra való jogosultság csak abban az esetben állapítható meg, ha a kérelmező az (1) vagy a (2) bekezdés szerinti jogcímen nem jogosult az ellátásra.”
+#### 14–16. §
 
 #### 17. §
 
-18. § Az Szt. 58. §-a helyébe a következő rendelkezés lép:
-
-„58. § A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.”
-
-19. § Az Szt. 70. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A fogyatékos kiskorúak esetében az ápolással, gondozással párhuzamosan biztosítani kell a korai fejlesztést és gondozást, vagy a fejlesztő nevelést ellátó területileg illetékes pedagógiai szakszolgálati intézménnyel való együttműködést, továbbá az iskolai tanulmányok folytatásának segítését.ä”
-
-20. § Az Szt. 86. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az a települési önkormányzat, amelyiknek területén)
-
-„d) harmincezer főnél több állandó lakos él, az a)–c) pont szerinti szociális szolgáltatásokat, időskorúak gondozóházát, éjjeli menedékhelyet, hajléktalan személyek átmeneti szállását”
-
-(köteles biztosítani.)
-
-21. § Az Szt. 88. §-a helyébe a következő rendelkezés lép:
-
-„88. § (1) Az állam az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv útján köteles gondoskodni
-
-a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fogyatékos személyek gondozóháza, a pszichiátriai betegek és szenvedélybetegek átmeneti otthona megszervezéséről és fenntartásáról,
-
-b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
-
-c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles.
-
-(2) A fővárosi önkormányzat köteles gondoskodni
-
-a) idősek otthonának, a hajléktalanok otthonának, a hajléktalan személyek rehabilitációs intézményének,
-
-b) a fővárosban – ha a kerületi önkormányzattal másként nem állapodik meg – a hajléktalanok éjjeli menedékhelyének és átmeneti szállásának
-
-megszervezéséről és fenntartásáról.
-
-(3) A fővárosi önkormányzat által fenntartott szakosított ellátást nyújtó intézmények ellátási területe az egész fővárosra kiterjed.”
-
-22. § Az Szt. 90. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A megyei jogú város saját területén köteles az alapszolgáltatási feladatokat, éjjeli menedékhelyet, hajléktalan személyek átmeneti szállását, idősek otthonát, valamint – amennyiben a lakossági szükségletek indokolják – hajléktalanok otthonát és hajléktalan személyek rehabilitációs intézményét megszervezni és fenntartani. Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv azonban a megyei jogú város lakosainak ellátását erre hivatkozva nem tagadhatja meg.”
-
-23. § Az Szt. 91. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) és (4) bekezdés szerinti jogkörében a szociál- és nyugdíjpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.”
-
-24. § Az Szt. 92. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az állam 88. § (1) bekezdése szerinti ellátási kötelezettsége esetében az (1) bekezdésben és a (2) bekezdés b)–g) pontjában foglaltakat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv határozza meg.”
-
-25. § Az Szt. 115. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A személyi térítési díj összege önkormányzati intézmény esetén a fenntartó rendeletében foglaltak szerint, egyéb esetben a fenntartó döntése alapján csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi és vagyoni viszonyai ezt indokolttá teszik.”
+#### 18–25. §
 
 #### 26–28. §
 
-29. § (1) Az Szt.
-
-- a) 43. § (4) bekezdés b) pontjában és 43/A. § (3) bekezdésében az „az ápolt személy tartózkodási helye szerint illetékes módszertani intézmény” szövegrész helyébe az „a módszertani feladatokat ellátó szerv” szöveg,
-- b) 43/A. § (4) bekezdésében a „módszertani intézmény által kijelölt szakértőnek a (3) bekezdés szerinti” szövegrész helyébe a „(3) bekezdés szerinti szakértőnek a” szöveg,
-- c) 52. § (1) bekezdésében a „18. § a)–g) pontjaiban” szövegrész helyébe a „18., illetve a 18/A. §-ban” szöveg,
-- d) 58/A. § (2c) bekezdésének nyitó szövegrészében a „vagy többcélú kistérségi társulásban biztosítanak szolgáltatást, a társuláshoz, illetve kistérséghez” szövegrész helyébe a „biztosítanak szolgáltatást, a társuláshoz” szöveg,
-- e) 65. § (1) bekezdés b) pontjában az „a megyei fenntartó, a többcélú kistérségi” szövegrész helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, az önkormányzati” szöveg,
-- f) 90/A. §-ában, 94/A. § (1) bekezdés e) pontjában az „a megyei fenntartó” szövegrész helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- g) 90. § (4) bekezdésében a „megyei fenntartó” szövegrész helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- h) 91. § (2) bekezdésében az „A megyei fenntartó az állam” szövegrész helyébe az „Az állam fenntartói feladatainak elllátására a Kormány rendeletében kijelölt szerv” szöveg,
-- i) 131/B. §-ában az „A megyei fenntartó” szövegrész helyébe az „Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- j) 132. § (2) bekezdés g) pontjában az „intézmények kijelölésére és” szövegrész helyébe a „feladatokat ellátó szerv” szöveg,
-- k) 132. § (2a) bekezdésében az „intézményeknek” szövegrész helyébe a „feladatokat ellátó szervnek” szöveg
-
-lép.
-
-(2) Hatályát veszti az Szt.
-
-- a) 4. § (4) bekezdése,
-- b) 32/E. §-a,
-- c) 85/C. § (5) bekezdése,
-- d) 90. § (1) bekezdése,
-- e) 92. § (1) bekezdés b) pontjában a „vagy többcélú kistérségi társulás” szöveg,
-- f) 96/A. §-a,
-- g) 140/C. §-a.
+#### 29. §
 
 #### 8. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-30. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 5. § s) pont sa) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-fenntartó:)
-
-„sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),”
-
-(ha az e törvényben és más jogszabályban meghatározott feltételek szerint, működési engedély alapján gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről.)
+#### 30. §
 
 #### 31–34. §
 
@@ -244,77 +138,19 @@ fenntartó:)
 
 #### 36. §
 
-37. § Gyvt. a 38. §-t követően a következő alcímmel egészül ki:
-
-„Biztos Kezdet Gyerekház
-
-38/A. § (1) A Biztos Kezdet Gyerekház (a továbbiakban: Gyerekház) célja a szocio-kulturális hátrányokkal küzdő, elsősorban a hátrányos helyzetű, vagy halmozottan hátrányos helyzetű gyermekek egészséges fejlődésének biztosítását támogató, fejlődési lemaradását kompenzáló, a szülői kompetenciákat erősítő, a szülő és különösen az óvodáskort még el nem ért gyermek számára együttesen biztosított társadalmi felzárkózást segítő prevenciós szolgáltatás biztosítása.
-
-(2) A Gyerekház a gyermek és család sikeres társadalmi integrációja érdekében együttműködik különösen a gyermekjóléti szolgálattal, a védőnői szolgálattal, az óvodával, egyéb gyermekintézménnyel, valamint szükség esetén a jelzőrendszer egyéb tagjaival.
-
-(3) A Gyerekházra e törvény gyermekjóléti alapellátásokra vonatkozó rendelkezéseit nem kell alkalmazni.”
-
-38. § A Gyvt. 42. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bölcsőde az (1) bekezdésben foglaltakon túl végezheti a fogyatékos gyermekek nevelését és gondozását is. A bölcsődei ellátásban az Nktv. 4. § 25. pontja szerinti gyermek legfeljebb hatéves koráig vehet részt.”
+#### 37–38. §
 
 #### 39–45. §
 
-46. § (1) A Gyvt. 56. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A nevelési díj a gyermek, fiatal felnőtt élelmezésére, ruházkodására, tankönyvére, tanszerére, a tanulmányai végzéséhez és munkavégzéséhez szükséges egyéb eszközökre, a gyermek, fiatal felnőtt költőpénzére, egészségügyi ellátására fordítható a nevelőszülőt megillető családi pótlékkal együtt.”
-
-(2) A Gyvt. 56. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nevelőszülő a nevelési díj mellett külön ellátmányban is részesül a gyermek, fiatal felnőtt élelmezésének és a lakásfenntartás költségeinek kiegészítésére. Az ellátmány éves összege nem lehet kevesebb – gyermekenként, fiatal felnőttenként – az éves nevelési díj 25%-ánál.”
-
-(3) A Gyvt. 56. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A gyermek, fiatal felnőtt saját keresményéből a nevelőszülői háztartás költségeihez nem köteles hozzájárulni.”
+#### 46. §
 
 #### 47–64. §
 
-65. § A Gyvt. XIV. Fejezet címe helyébe a következő cím lép:
-
-„A TELEPÜLÉSI ÖNKORMÁNYZAT ÉS AZ ÁLLAM FELADATAI”
-
-66. § A Gyvt. „Az állam megyei szintű feladatai, valamint a fővárosi és megyei jogú városi önkormányzat feladatai” alcíme helyébe a következő alcím lép:
-
-„Az állam feladatai
-
-95. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv az e törvényben foglaltak szerint biztosítja az otthont nyújtó ellátást, az utógondozói ellátást és a területi gyermekvédelmi szakszolgáltatást.”
-
-67. § (1) A Gyvt. 96. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A települési önkormányzat az e törvényben meghatározott személyes gondoskodást nyújtó gyermekjóléti alapellátást – a több önkormányzat illetékességi területére kiterjedő intézményi ellátási kötelezettségnek és a 94/A. §-nak a figyelembevételével – más szervvel, személlyel kötött ellátási szerződés útján, illetve társulásban is biztosíthatja.”
-
-(2) A Gyvt. 96. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.”
-
-68. § A Gyvt. 97. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását, ide nem értve a területi gyermekvédelmi szakszolgáltatást, a települési önkormányzat, illetve az állam – a fenntartói feladatainak a Kormány rendeletében kijelölt szerv útján – állami, egyházi és egyéb nem állami fenntartóval kötött ellátási szerződés útján is biztosíthatja.”
+#### 65–68. §
 
 #### 69. §
 
-70. § A Gyvt. 139. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az állami fenntartó nyilvántartást vezet a gondozásidíj-fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokról.”
-
-71. § (1) A Gyvt. 151. § (2) bekezdése helyébe a következő rendelkezés lép és a következő (2a) bekezdéssel egészül ki:
-
-„(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a nem állami fenntartó az általa fenntartott nevelési-oktatási intézményben, a települési önkormányzat az általa fenntartott óvodában és a közigazgatási területén az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben, a fenntartó az egyéb állami fenntartású intézményben a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. A főváros közigazgatási területén lévő tankerületekben az állami intézményfenntartó központ által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az étkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az étkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik. Az étkeztetés biztosítására kötelezett önkormányzat e feladatának ellátásához a közigazgatási területén kívülről érkező gyermek, tanuló lakóhelye szerinti önkormányzattól hozzájárulást kérhet. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
-
-(2a) Ha a (2) bekezdés szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.”
-
-(2) A Gyvt. 151. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.”
-
-72. § A Gyvt. 154. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A gondozásidíj-hátralék adók módjára történő behajtásáról – az állami fenntartó megkeresésére – a kötelezett lakóhelye szerinti települési önkormányzat jegyzője adóügyi hatáskörében gondoskodik.”
+#### 70–72. §
 
 73. § (1)
 
@@ -322,38 +158,11 @@ fenntartó:)
 
 #### 74. §
 
-75. § (1) Hatályát veszti a Gyvt.
-
-- a) 29. § (3) bekezdésében a „vagy többcélú kistérségi társulás” szövegrész,
-- b) 60. § c) pontjában az „önkormányzat által működtetett, illetve fenntartott” szövegrész,
-- c) 94/A. §-ában az „a külön jogszabályban meghatározott többcélú kistérségi” szövegrész,
-- d) 96. § (8)–(10) bekezdése,
-- e) 101. § (2) bekezdés d) pontja,
-- f) 139. § (1) bekezdés c) pontjában a „vagy gondozási” szövegrész.
+75. § (1)
 
 (2)
 
-76. § (1) A Gyvt.
-
-- a) 5. § q) pont qb) alpontjában a „23” szövegrész helyébe a „25” szöveg,
-- b) 32. § (9) bekezdés első mondatában a „helyi önkormányzattal” szövegrész helyébe a „települési önkormányzattal” szöveg,
-- c) 32. § (9) bekezdés második mondatában a „helyi önkormányzathoz” szövegrész helyébe a „települési önkormányzathoz” szöveg,
-- d) 32. § (9) bekezdés harmadik mondatában, 97. § (5) bekezdésében a „helyi önkormányzat” szövegrész helyébe a „települési önkormányzat” szöveg,
-- e) 32. § (10) bekezdésében a „helyi önkormányzattal” szövegrész helyébe a „települési önkormányzattal” szöveg és a „helyi önkormányzatot” szövegrész helyébe a „települési önkormányzatot” szöveg,
-- f) 56. § (1) bekezdésében az „ellátására” szövegrész helyébe az „(1a) bekezdésben foglaltak szerinti ellátására” szöveg,
-- g) 66. § (1) és (2) bekezdésében az „A megyei fenntartó és a fővárosi önkormányzat” szövegrész helyébe az „Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- h) 66. § (3) bekezdés b) pontjában az „a megyei fenntartó és a fővárosi önkormányzat” szövegrész helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- i) 66. § (3) bekezdés d) pontjában az „a megyei fenntartó, a fővárosi és a megyei jogú városi önkormányzat” szövegrész helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- j) 82. § (6) bekezdés első mondatában a „megyei, fővárosi területi gyermekvédelmi szakszolgálat” szövegrész helyébe a „területi gyermekvédelmi szakszolgálat” szöveg,
-- k) 96. § (6) bekezdésben az „a megyei fenntartó” szövegrészek helyébe az „az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv” szöveg,
-- l) 97. § (2) bekezdésében a „helyi önkormányzatot” szövegrész helyébe a „települési önkormányzatot” szöveg,
-- m) 121. § (2) bekezdésében a „helyi önkormányzat” szövegrész helyébe a „települési önkormányzat” szöveg,
-- n) 122. § (1) bekezdésében az „A megyei fenntartó a 95. § (1) bekezdés” szövegrész helyébe az „Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a 95. §” szöveg,
-- o) 145/A. § (1) és (2) bekezdésében a „helyi önkormányzat vagy a társulás” szövegrész helyébe a „települési önkormányzat vagy a társulás” szöveg és a „helyi önkormányzat, illetve a társulás” szövegrész helyébe a „települési önkormányzat, illetve a társulás” szöveg,
-- p) 162. § (2) bekezdés h) pontjában az „intézmények kijelölésére és” szövegrész helyébe a „feladatokat ellátó szerv” szöveg,
-- q) 162. § (4) bekezdésében az „intézményeknek” szövegrész helyébe a „feladatokat ellátó szervnek” szöveg
-
-lép.
+76. § (1)
 
 (2)
 
@@ -363,35 +172,11 @@ lép.
 
 #### 10. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-78. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. § (1) bekezdés 8. pontja a következő szöveggel lép hatályba:
-
-(A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:)
-
-„8. szociális, gyermekjóléti szolgáltatások és ellátások;”
-
-79. § A Mötv. 23. § (5) bekezdés 11. pontja a következő szöveggel lép hatályba:
-
-(A kerületi önkormányzat feladata különösen:)
-
-„11. szociális, gyermekjóléti szolgáltatások és ellátások;”
+#### 78–79. §
 
 #### 11. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-80. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 25. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A megváltozott munkaképességű személy határozott idejű munkaviszonya – a Munka Törvénykönyvéről szóló törvény 192. § (2) bekezdésétől eltérően – az (1) bekezdés alapján támogatott foglalkoztatása időtartamára meghosszabbítható.”
-
-81. § Az Mmtv. 38. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 25. § alkalmazásában
-
-a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott döntés jogerőre emelkedésének napjáig,
-
-b) az a) pont alá nem tartozó személyek esetében a 26/A. § szerinti hatósági bizonyítvány kiállításának napjáig, de legkésőbb 2013. december 31-éig
-
-megváltozott munkaképességű személynek kell tekinteni azt a személyt is, akinek a foglalkoztatása alapján a munkáltató 2012 decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.”
-
-82. § Az Mmtv. 38. § (1) bekezdésének bevezető szövegében a „23–25. § alkalmazásában” szövegrész helyébe a „23–24. § alkalmazásában” szöveg lép.
+#### 80–82. §
 
 #### 12. A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló
 

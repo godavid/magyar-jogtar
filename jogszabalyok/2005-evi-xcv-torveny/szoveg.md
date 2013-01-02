@@ -43,7 +43,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 20. külső csomagolás: azt a csomagolási formát jelenti, amely da közvetlen csomagolást foglalja magában;
 - 21. Gyógyszerkönyv: a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szabályait, valamint az egyes gyógyszerek és gyógyszer anyagok minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 - 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
-- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélyek lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
+- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől nem várható; valamint ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet.
 - 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 - 25. a gyógyszer alkalmazásával kapcsolatos kockázatok: a gyógyszer minőségével, biztonságosságával és hatásosságával kapcsolatos, a betegek egészségét vagy a közegészséget érintő bármely kockázat, illetve a környezetre gyakorolt nemkívánatos hatások kockázata;
 - 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
@@ -58,6 +58,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
 - 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
 - 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
+- 38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
+- 39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
+- 40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
+- 41. gyógyszerközvetítő: gyógyszerközvetítéssel foglalkozó természetes vagy jogi személy.
+- 42. Hamisított gyógyszer: bármilyen gyógyszer, amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
+  - a) azonossága, így annak csomagolása és a címkézése, megnevezése, a hatóanyagokat, segédanyagokat és azok hatáserősségét jelölő összetétele,
+  - b) eredete, így a gyártója, a gyártó országa, a származási országa vagy a forgalombahozatali engedély jogosultja,
+  - c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehetővé tevő nyilvántartások és dokumentumok, függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
+- 43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.
 
 ### A törvény hatálya
 
@@ -97,7 +106,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (5) A gyógyszerészeti államigazgatási szerv helyszíni szemlét tart, melynek keretében megvizsgálja, hogy a kérelmező rendelkezik-e a gyógyszergyártáshoz szükséges – külön jogszabályban meghatározott – személyi és tárgyi feltételekkel, valamint megfelelő dokumentációs és minőségbiztosítási rendszerrel.
 
-(6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt. Az engedély másolatát a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+(6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt.
 
 (6a)
 
@@ -249,7 +258,13 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Az engedély kiadásáról és módosításáról a hatóság a kérelem beérkezését követő naptól számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásig érvényes.
 
-(5)
+(5) Abban az esetben, ha a gyógyszert nagykereskedelmi tevékenység keretében harmadik országba szállítják, a nagykereskedőnek gondoskodnia kell arról, hogy a gyógyszereket kizárólag az érintett harmadik országban nagykereskedelmi forgalmazás vagy lakossági ellátás céljára gyógyszerátvételre engedéllyel rendelkező vagy arra jogosult személyeknek adják át.
+
+### Párhuzamos import
+
+11/A. § (1) A párhuzamos import esetén a párhuzamos importőr a behozatali szándékáról a behozatalt megelőző 30 nappal köteles értesíteni a behozni kívánt gyógyszer Magyarországra érvényes forgalombahozatali engedélyének jogosultját és a gyógyszerészeti államigazgatási szervet vagy amennyiben a gyógyszert a 726/2004/EK európai parlamenti és tanácsi rendelet szerint engedélyezték, az Európai Gyógyszerügynökséget.
+
+(2) A gyógyszerészeti államigazgatási szerv által engedélyezett gyógyszer párhuzamos importjához a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendelet szerinti párhuzamos importengedélyre van szükség.
 
 ### Gyógyszerellátás
 
@@ -269,7 +284,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 14. §
 
-### Kábítószerként és pszichotróp anyagként minősített gyógyszerekre vonatkozó külön rendelkezések
+### Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések
 
 15. § (1) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély vagy nyilvántartásba vételt követően kiadott hatósági bizonyítvány birtokában folytathatók. Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásában hozott döntése ellen fellebbezésnek helye nincs.
 
@@ -342,15 +357,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 ### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
 
-17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát a forgalomba hozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
+17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
 
 (2) A feltételezett minőségi hiba bejelentője a bejelentéssel egyidejűleg köteles a minőség-ellenőrző vizsgálathoz szükséges – a külön jogszabályban meghatározott mennyiségű – gyógyszert is megküldeni.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében rögzített követelményeknek, határozattal felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A határozatot a gyógyszerészeti államigazgatási szerv honlapján is közzé kell tenni. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
 (4) Amennyiben minőség-ellenőrző vizsgálatra van szükség, a gyógyszer beszerzéséről a gyógyszerészeti államigazgatási szerv gondoskodik.
 
-(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is – a forgalomba hozatali engedély jogosultját terhelik.
+(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalombahozatali engedély jogosultját terhelik.
 
 17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
 
@@ -423,9 +438,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 19. § A gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumokat és a klinikai vizsgálatokat végző egészségügyi szolgáltatókat a gyógyszerészeti államigazgatási szerv a külön jogszabályban megállapított szakmai szabályok betartása szempontjából rendszeresen ellenőrzi.
 
-20. § (1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
+20. § (1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak, az egyéb egészségügyi szolgáltatók és kiskereskedelmi tevékenységet folytatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
 
-(1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy harmadik országok területén végzett ellenőrzések során együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
+(1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
@@ -435,7 +450,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - b) megtilthatja a jogsértő magatartás további folytatását, vagy
 - c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
 - d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
-- e) ismételt, vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja.
+- e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
 (4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
@@ -466,7 +481,21 @@ kártérítést fizet.
 
 (5) E § alkalmazásában eltartott hozzátartozón azt a személyt kell érteni, akiknek a tartásáról a kárt szenvedett személy jogszabály vagy szerződés alapján gondoskodni köteles.
 
-22–23. §
+### Hatóanyagokra és segédanyagokra vonatkozó külön rendelkezések
+
+22. § (1) A hatóanyagok gyártása, behozatala és forgalmazása a hatóanyagokra vonatkozó helyes gyártási gyakorlatnak és a helyes forgalmazási gyakorlatnak, a segédanyagok gyártása a segédanyagokra vonatkozó helyes gyártási gyakorlatnak megfelelően történhet az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló rendeletben foglalt követelményekkel összhangban.
+
+(2) A hatóanyagok Magyarországon székhellyel vagy telephellyel rendelkező importőrei, gyártói és forgalmazói az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló rendeletben foglalt adatokat legkésőbb tevékenységük tervezett megkezdése előtt 60 nappal bejelentik a gyógyszerészeti államigazgatási szerv részére.
+
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az adott hatóanyaghoz kapcsolódó kockázatok miatt szükségesnek tartja, a bejelentés kézhezvételét követő 15 napon belül értesíti a kérelmezőt arról, hogy ellenőrzést kíván lefolytatni, és a tevékenység nem kezdhető meg addig, amíg azt a gyógyszerészeti államigazgatási szerv nem engedélyezi.
+
+(4) Amennyiben a gyógyszerészeti államigazgatási szerv a (3) bekezdésben foglalt határidőn belül nem jelzi az ellenőrzés szükségességét vagy az ellenőrzést követően a tevékenység végzését engedélyezi, a (2) bekezdés szerint bejelentett adatokat rögzíti az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Amennyiben a gyógyszerészeti államigazgatási szerv e § alapján ellenőrzést folytat le, az ellenőrzésre vonatkozó értesítéstől számított 60 napon belül döntést hoz arról, hogy engedélyezi-e az (1) bekezdésben említett tevékenység megkezdését.
+
+### Gyógyszerközvetítés
+
+23. § (1) Gyógyszerek közvetítésére kizárólag az EGT-ben állandó címmel rendelkező, az állandó cím szerinti tagállam hatáskörrel rendelkező hatóságánál nyilvántartásba vett személy jogosult.
+
+(2) A gyógyszerközvetítők nyilvántartásba vételével és a gyógyszerközvetítéssel kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
 
 ### A gyógyszerfelhasználással kapcsolatos betegjogok
 
@@ -635,6 +664,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 32/A. § Az 5. § az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított (7) bekezdését a 2012. július 21-ét követően benyújtott kérelmek vonatkozásában kell alkalmazni.
 
+32/B. § A hatóanyagok azon Magyarországon székhellyel vagy telephellyel rendelkező importőrei, gyártói és forgalmazói, valamint azon gyógyszerközvetítők, akik tevékenységüket 2013. január 2-át megelőzően is folytatták az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 22. § (2) bekezdés, vagy 23.§ (1) bekezdés szerinti bejelentést 2013. március 2-áig kell megtenniük.
+
 33. § (1) Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2001/20/EK irányelve (2001. április 4.) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
@@ -645,6 +676,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében;
 - g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
 - h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
+- i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról.
 
 (2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 

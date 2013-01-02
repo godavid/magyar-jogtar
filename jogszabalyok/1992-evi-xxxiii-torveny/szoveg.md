@@ -921,7 +921,10 @@ alapszabadság illeti meg.
 
 58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
 
-59. § A közalkalmazotti jogviszony tekintetében az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § nem alkalmazható.
+59. § A közalkalmazotti jogviszony tekintetében
+
+- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § (4)–(6) bekezdés nem alkalmazható;
+- b) jogszabály vagy kollektív szerződés – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a közalkalmazott javára eltérhet.
 
 ### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
 
@@ -1186,11 +1189,9 @@ alapszabadság illeti meg.
 
 79/E. § A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
 
-80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136–138. §, 145. §, 156. §, 157. § (2) bekezdés, 159. § és a 165. § nem alkalmazható.
+80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136. § (1)–(2) bekezdés, a 137–138. §, 145. §, 150. §, 156. §, 157. § (2) bekezdés, 159. § és a 165. § nem alkalmazható.
 
-(2) A távolléti díjat a 70–75. § szerinti bérpótlék figyelembe vételével kell megállapítani.
-
-(3) A közalkalmazotti jogviszony tekintetében az Mt. 143. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendkívüli munkaidő ellenértékeként szabadidőt csak kollektív szerződés állapíthat meg.
+(2) Az Mt. 148–149., valamint 151–152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díjat a 70–75. § szerinti bérpótlék, valamint a 77. § (1) bekezdése szerinti keresetkiegészítés figyelembevételével kell megállapítani.
 
 ### VI. Fejezet — A közalkalmazott és a munkáltató kártérítési felelőssége
 

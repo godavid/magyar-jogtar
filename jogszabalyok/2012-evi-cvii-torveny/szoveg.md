@@ -6,11 +6,7 @@ a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény és a közpon
 
 1–8. §
 
-9. § Az Nkatv. 7/C. §-a helyébe az alábbi rendelkezés lép:
-
-„7/C. § (1) A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 25%-a (a továbbiakban: miniszteri keret). A tárgyévi miniszteri keret pontos mértékét a miniszter a tárgyévet megelőző év december 15-éig állapítja meg.
-
-(2) A 4. § (1) bekezdés a) pontjában foglalt bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 10%-ának mértékéig a miniszter – a kultúráért felelős államtitkár javaslatára – egyedi elbírálással az ágazati minisztérium irányítása, valamint felügyelete alá tartozó állami fenntartású intézmények számára egyedi kérelem alapján működési támogatást nyújthat.”
+9. §
 
 10–12. §
 

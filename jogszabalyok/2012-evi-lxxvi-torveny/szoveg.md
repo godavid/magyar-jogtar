@@ -46,10 +46,10 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (3) Hatályát veszti
 
-- 1. az adókról, járulékokról szóló törvények módosításáról szóló 2005. évi XXVI. törvény,
-- 2. az adózás rendjéről szóló 2003. évi XCII. törvény módosításáról szóló 2005. évi LXXXV. törvény,
+- 1.
+- 2.
 - 3.
-- 4. az adózás rendjéről szóló törvény egyes rendelkezéseinek alkalmazásáról és módosításáról, valamint egyes adótörvények módosításáról szóló 2005. évi CLXIII. törvény,
+- 4.
 - 5.
 - 6.
 - 7.
@@ -69,7 +69,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (4)
 
-(5) Hatályát veszti a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény, valamint egyes szakosított hitelintézetekről szóló törvények módosításáról szóló 2007. évi LI. törvény.
+(5)
 
 #### 3. Az állampolgárok alapvető jogaira és kötelességeire vonatkozó törvények deregulációja
 
@@ -91,7 +91,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (3)
 
-(4) Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosításáról szóló 1998. évi LXVII. törvény.
+(4)
 
 (5)
 
@@ -227,7 +227,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 47. §
 
-48. § A büntetőeljárásról szóló 1998. évi XIX. törvény 29. § b) pontjában a „rendőrség” szövegrész helyébe a „rendőrség és az Országgyűlési Őrség” szöveg lép.
+48. §
 
 #### 35. A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény módosítása
 

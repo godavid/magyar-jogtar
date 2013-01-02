@@ -1183,7 +1183,7 @@ terheli.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 
-- a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
+- a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
 - b) az országgyűlési őr képesítési követelményeit,
 - c) az Országgyűlési Őrség egyenruházati szabályzatát.
 
@@ -1257,23 +1257,7 @@ sarkalatosnak minősül.
 
 148. § (1)
 
-(2) A büntetőeljárásáról szóló 1998. évi XIX. törvény 29. § e) pontja helyébe a következő rendelkezés lép:
-
-(Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:)
-
-„e) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,”
-
-(3) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 137. § 1. pontjának j) alpontjába a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-1. hivatalos személy:)
-
-„j) az Alkotmánybíróságnál, bíróságnál, ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál és az Országgyűlési Őrségnél szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,”
-
-(4) A Btk. 122. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, valamint a Rendőrség, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség hivatásos állományú tagja.”
+(2)–(4)
 
 149. § (1)
 
@@ -1281,41 +1265,11 @@ sarkalatosnak minősül.
 
 #### 150. §
 
-151. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében a „valamint a Nemzeti Adó- és Vámhivatal és” szövegrész helyébe az „Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal, valamint” szöveg lép.
-
-(2) A Hszt. 1. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Az Országgyűlési Őrség hivatásos állományú tagjainak szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.”
-
-(3) A Hszt. 18. § (2) és (3) bekezdésében, 23. §-ában és 51. § (1) bekezdésében a „Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség” szöveg lép.
-
-(4) A Hszt. 103. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A felsőfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:)
-
-„a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 50%-a,”
-
-(5) A Hszt. 103. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A középfokú iskolai végzettséggel rendelkező hivatásos állomány illetménykiegészítésének mértéke:)
-
-„a) a Miniszterelnökségnél, a minisztérium hivatali szervezeti egységeinél, az Országgyűlési Őrségnél, a miniszter irányítása alá tartozó belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv állományánál, berendelés vagy vezénylés esetén is a beosztási illetmény 15%-a,”
+151. § (1)–(5)
 
 (6)
 
-(7) A Hszt. 254. § (2) bekezdés a) pontja a következő 16. alponttal egészül ki:
-
-(A 104. §-ban meghatározott pótlékokon felül a hivatásos állomány tagját az illetményalap százalékában pótlékok illetik meg. Azon illetménypótlékoknál, ahol a pótlék mértéke alsó és felső határ között állapítható meg, a pótlék tényleges mértékét az érintett munkakörének az általános munkakörülményektől való eltérősége alapján kell meghatározni.
-
-A pótlékok mértéke:
-
-egy hónapra számítva:)
-
-„16. az Országgyűlési Őrség állományának a pótléka 150–450%”
-
-(8) A Hszt. a következő 342/A. §-sal egészül ki:
-
-„342/A. § Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben, az Országgyűlés elnöke véleménye kikérésével a 342. § (2)–(8) bekezdése szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.”
+(7)–(8)
 
 #### 152. §
 
@@ -1345,7 +1299,7 @@ egy hónapra számítva:)
 (2) Hatályát veszti
 
 - a)–b)
-- c) a Magyar Köztársaság 2004. évi költségvetéséről és az államháztartás hároméves kereteiről szóló 2003. évi CXVI. törvény 15. § (7) bekezdése.
+- c)
 
 (3)
 
