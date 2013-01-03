@@ -250,7 +250,7 @@ a bűnügyi nyilvántartó szervnek.
 
 (2)
 
-(3) A 12–28. alcím és a 30–42. alcím 2012. január 2-án hatályát veszti. A 29. alcím és a 43. alcím 2013. január 2-án hatályát veszti.
+(3)
 
 24. § (1) Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 5. § (2) bekezdés második mondata és 5. § (3) bekezdés b) pontja alapján az arra jogosultak szolgálati járandóságának összegét 2012. szeptember 1-jétől hivatalból meg kell emelni, és a 2012. január 1-jétől 2012. augusztus 31-éig terjedő időre járó különbözetet egy összegben, 2012. szeptember 30-áig kell folyósítani.
 

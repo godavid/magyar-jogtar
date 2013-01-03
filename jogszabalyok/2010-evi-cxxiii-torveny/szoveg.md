@@ -32,9 +32,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (11) E törvény 39. § és a 40. § f)–h) és j) pontja 2013. január 1-jén lép hatályba.
 
-235. § (1) E törvény I-X. Fejezete, XI. Fejezet 28. alpontja és 1–6. számú melléklete 2013. január 2-án hatályát veszti.
-
-(2) E § 2013. január 3-án hatályát veszti.
+235. §
 
 #### 27. Átmeneti rendelkezések
 

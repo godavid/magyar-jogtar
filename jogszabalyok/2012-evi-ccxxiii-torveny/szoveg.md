@@ -36,7 +36,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 180. § (1) A Be.
 
-- a) 29. § e) pontjában a „Nemzeti Adó- és Vámhivatal,” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal, a hivatásos katasztrófavédelmi szerv”,
+- a)
 - b)–d)
 
 szöveg lép.

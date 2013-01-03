@@ -62,101 +62,19 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 #### 8. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-74. § (1) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 23. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől nem várható; valamint ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet.”
-
-(2) A Gytv. 1. §-a következő 42–43. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„42. Hamisított gyógyszer: bármilyen gyógyszer, amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
-
-a) azonossága, így annak csomagolása és a címkézése, megnevezése, a hatóanyagokat, segédanyagokat és azok hatáserősségét jelölő összetétele,
-
-b) eredete, így a gyártója, a gyártó országa, a származási országa vagy a forgalombahozatali engedély jogosultja,
-
-c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehetővé tevő nyilvántartások és dokumentumok,
-
-függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
-
-43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.”
-
-75. § A Gytv. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt.”
-
-76. § A Gytv. 11. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Abban az esetben, ha a gyógyszert nagykereskedelmi tevékenység keretében harmadik országba szállítják, a nagykereskedőnek gondoskodnia kell arról, hogy a gyógyszereket kizárólag az érintett harmadik országban nagykereskedelmi forgalmazás vagy lakossági ellátás céljára gyógyszerátvételre engedéllyel rendelkező vagy arra jogosult személyeknek adják át.”
-
-77. § A Gytv. a következő 11/A.§-sal és az azt megelőző alcímmel egészül ki:
-
-„Párhuzamos import
-
-11/A. § (1) A párhuzamos import esetén a párhuzamos importőr a behozatali szándékáról a behozatalt megelőző 30 nappal köteles értesíteni a behozni kívánt gyógyszer Magyarországra érvényes forgalombahozatali engedélyének jogosultját és a gyógyszerészeti államigazgatási szervet vagy amennyiben a gyógyszert a 726/2004/EK európai parlamenti és tanácsi rendelet szerint engedélyezték, az Európai Gyógyszerügynökséget.
-
-(2) A gyógyszerészeti államigazgatási szerv által engedélyezett gyógyszer párhuzamos importjához a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendelet szerinti párhuzamos importengedélyre van szükség.”
-
-78. § A Gytv. „Kábítószerként és pszichotróp anyagként minősített gyógyszerekre vonatkozó külön rendelkezések” alcíme helyébe a következő alcím lép:
-
-„Kábítószerek és pszichotróp anyagok, valamint kábítószerként és pszichotróp anyagként minősített gyógyszerekre és új pszichoaktív anyagokra vonatkozó külön rendelkezések”
+74–78. §
 
 79–80. §
 
-81. § (1) A Gytv. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.”
-
-(2) A Gytv. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.”
-
-(3) A Gytv. 17. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalombahozatali engedély jogosultját terhelik.”
+81. §
 
 82. §
 
-83. § (1) A Gytv. 20. § (1)–(1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak, az egyéb egészségügyi szolgáltatók és kiskereskedelmi tevékenységet folytatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
-
-(1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.”
-
-(2) A Gytv. 20. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,)
-
-„e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.”
-
-84. § A Gytv. a következő 22. §-sal és az azt megelőző alcímmel egészül ki:
-
-„Hatóanyagokra és segédanyagokra vonatkozó külön rendelkezések
-
-22. § (1) A hatóanyagok gyártása, behozatala és forgalmazása a hatóanyagokra vonatkozó helyes gyártási gyakorlatnak és a helyes forgalmazási gyakorlatnak, a segédanyagok gyártása a segédanyagokra vonatkozó helyes gyártási gyakorlatnak megfelelően történhet az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló rendeletben foglalt követelményekkel összhangban.
-
-(2) A hatóanyagok Magyarországon székhellyel vagy telephellyel rendelkező importőrei, gyártói és forgalmazói az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló rendeletben foglalt adatokat legkésőbb tevékenységük tervezett megkezdése előtt 60 nappal bejelentik a gyógyszerészeti államigazgatási szerv részére.
-
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az adott hatóanyaghoz kapcsolódó kockázatok miatt szükségesnek tartja, a bejelentés kézhezvételét követő 15 napon belül értesíti a kérelmezőt arról, hogy ellenőrzést kíván lefolytatni, és a tevékenység nem kezdhető meg addig, amíg azt a gyógyszerészeti államigazgatási szerv nem engedélyezi.
-
-(4) Amennyiben a gyógyszerészeti államigazgatási szerv a (3) bekezdésben foglalt határidőn belül nem jelzi az ellenőrzés szükségességét vagy az ellenőrzést követően a tevékenység végzését engedélyezi, a (2) bekezdés szerint bejelentett adatokat rögzíti az Európai Gyógyszerügynökség által működtetett uniós adatbázisban. Amennyiben a gyógyszerészeti államigazgatási szerv e § alapján ellenőrzést folytat le, az ellenőrzésre vonatkozó értesítéstől számított 60 napon belül döntést hoz arról, hogy engedélyezi-e az (1) bekezdésben említett tevékenység megkezdését.”
-
-85. § A Gytv. a következő 23. §-sal és az azt megelőző alcímmel egészül ki:
-
-„Gyógyszerközvetítés
-
-23. § (1) Gyógyszerek közvetítésére kizárólag az EGT-ben állandó címmel rendelkező, az állandó cím szerinti tagállam hatáskörrel rendelkező hatóságánál nyilvántartásba vett személy jogosult.
-
-(2) A gyógyszerközvetítők nyilvántartásba vételével és a gyógyszerközvetítéssel kapcsolatos részletes szabályokat külön jogszabály tartalmazza.”
+83–85. §
 
 86. §
 
-87. § A Gytv. a következő 32/B. §-sal egészül ki:
-
-„32/B. § A hatóanyagok azon Magyarországon székhellyel vagy telephellyel rendelkező importőrei, gyártói és forgalmazói, valamint azon gyógyszerközvetítők, akik tevékenységüket 2013. január 2-át megelőzően is folytatták az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 22. § (2) bekezdés, vagy 23.§ (1) bekezdés szerinti bejelentést 2013. március 2-áig kell megtenniük.”
+87. §
 
 88–89. §
 

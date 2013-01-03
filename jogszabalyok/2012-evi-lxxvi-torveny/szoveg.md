@@ -359,7 +359,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 86–87. §
 
-88. §
+88. § Hatályát veszti a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény 7. §-a, 8. §-a, 10. §-a, 14. §-a, 18. §-a, 19. §-a, 35. §-a, 60. §-a és 61. §-a.
 
 #### 64. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
