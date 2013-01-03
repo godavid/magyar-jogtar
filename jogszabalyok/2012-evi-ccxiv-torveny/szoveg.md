@@ -4,9 +4,7 @@ egyes szolgálati jogviszonnyal összefüggő törvények módosításáról
 
 #### 1. A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosítása
 
-1. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény hatálya a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal, valamint a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.”
+1. § (1)
 
 (2)
 
@@ -174,12 +172,7 @@ minősül.
 
 (4)–(7)
 
-(8) Az Ogytv.
-
-- a) 143. § (5) bekezdés a) pontjában az „a személyvédelmi és létesítménybiztonsági feladatokat” szövegrész helyébe az „a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat”,
-- b)–c)
-
-szöveg lép.
+(8)
 
 (9)
 

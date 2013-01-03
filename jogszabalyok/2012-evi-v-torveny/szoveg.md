@@ -71,15 +71,7 @@ is megfelelően érteni kell.
 
 terjed ki.
 
-7. § Ahol a Kttv. minősítést említ ott 2012. december 31-ig szakmai munka értékelését kell érteni.
-
-8. § (1) A minisztériumokban és a Miniszterelnökségen bevezetésre kerülő munkaköri pótlék fizetéséhez szükséges munkakörelemzéseket és értékeléseket, valamint a pótlékra javasolt munkaköröket legkésőbb 2012. május 31-ig kell a személyügyi központ részére megküldeni. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter egyetértése esetén fizethetők ki a munkaköri pótlékok 2012. július 1-jétől 2012. december 31-ig terjedő időszakra. Ha a kormánytisztviselő számára munkaköri pótlék kerül megállapításra, akkor a munkáltató döntése alapján a Kttv. 133. § (3) bekezdésben foglaltaktól eltérően a kormánytisztviselő alapilletmény-eltérítésének mértéke csökkenthető teljesítményértékelés hiányában is, azzal a feltétellel, hogy a kormánytisztviselő számára megállapított alapilletmény az eltérítéssel megállapított alapilletmény összege alá nem csökkenhet.
-
-(2) A 2012. évre megállapított alapilletmény-eltérítések mértéke a minisztériumokban, Miniszterelnökségen tárgyévben – az (1) bekezdésben foglaltak kivételével – a 30%-os korlátot meghaladhatja.
-
-(3) A 2012. évre megállapított alapilletmény-eltérítések esetében is alkalmazható a Kttv. 133. § (3) bekezdésben foglalt módosítási lehetőség.
-
-(4) A helyi önkormányzatoknál 2012-ben az alapilletmény eltérítés 2012. december 31-ig tart.
+7–8. §
 
 9. § (1) A Kttv. Magyar Kormánytisztviselői Karra vonatkozó szabályozása hatálybalépésének napján az, aki kormánytisztviselő, a Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) tagjává válik.
 
@@ -105,7 +97,7 @@ terjed ki.
 
 (10) Az MKK megalakulásával kapcsolatos költségeket a Közigazgatási és Igazságügyi Minisztérium fejezete tartalmazza.
 
-10. § A Kttv. hatálybalépésével köztisztviselők, közszolgálati ügykezelők esetében a Ktv. 31. §-a szerinti főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői megbízás e törvény erejénél fogva határozatlan idejű főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői munkakörré alakul át. Az érintetteket e tényről a törvény hatálybalépését követő harminc napon belül a munkáltatónak tájékoztatnia kell.
+10. §
 
 11. § A Kttv. hatálybalépésekor a Nemzeti Fejlesztési Ügynökségnél megállapított illetményekre a Kttv. 134. § (1) bekezdését kell alkalmazni azzal a feltétellel, hogy e szervnél foglalkoztatott kormánytisztviselő illetménye nem csökkenthető azon jogviszonya fennállásáig, amely alapján a Ktjv. hatálybalépése előtti illetményre jogosultságot szerzett.
 
@@ -113,7 +105,7 @@ terjed ki.
 
 13. § Ha a 2012. február 29-én hatályos Ktv. szabályok szerint felmentési védelemnek minősülő ok 2012. február 29-éig keletkezik és a Kttv. hatálybalépését követően is fennáll, ezen ok fennállásáig a felmentési védelemre jogosító időhöz fűződő jogkövetkezmények tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni.
 
-14. § A szabadságra jogosító idők tekintetében a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályait kell alkalmazni, ha a kormánytisztviselő 30 napot meg nem haladó fizetés nélküli szabadsága legkésőbb 2012. február 29-én kezdődött.
+14. §
 
 15. § Ha a kormányzati szolgálati jogviszony, közszolgálati jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést vagy a munkáltató jogutód nélküli megszűnését 2012. január 1-jét megelőzően közölte, a kormánytisztviselő, köztisztviselő, kormányzati ügykezelő, közszolgálati ügykezelő a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
@@ -121,9 +113,7 @@ terjed ki.
 
 17. § A Kttv. 234. § (3)–(6) bekezdését azzal kell alkalmazni, hogy a köztisztviselőnek a Kttv. hatálybalépésekor érvényes illetménye nem csökkenthető oly módon, hogy ha a helyi önkormányzat csökkenti vagy megszünteti az illetménykiegészítést, annak a jogviszonynak a fennállásáig, amelyben a köztisztviselő számára az illetménykiegészítést megállapították.
 
-18. § Amennyiben a miniszter vagy a hivatali szervezet vezetője a Ktv.-nek a Kttv. hatálybalépését megelőzően hatályos szabályai alapján további választható cafetéria-juttatásokat is meghatározott, illetve az egyes juttatások választható mértékét magasabban határozta meg, akkor az ily módon 2012. évre meghatározott cafetéria-juttatásokat a Kttv. hatálybalépése nem érinti.
-
-19. § E törvény hatálybalépését megelőzően, a Ktv. 49/F. §-a alapján kiadott cafetéria-juttatásokra vonatkozó szabályzatok, utasítások a Kttv. hatálybalépését követően 2012. december 31-ig alkalmazhatóak.
+18–19. §
 
 19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Kormánytisztviselői Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -149,9 +139,7 @@ terjed ki.
 
 20–34. §
 
-35. § (1)–(3)
-
-(4)
+35. §
 
 #### 2/A. A közszolgálati joganyagnak az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvénnyel hatályon kívül helyezett rendelkezéseivel összefüggő szabályozási átmenet
 
@@ -209,15 +197,7 @@ terjed ki.
 
 55–59. §
 
-60. § (1)–(11)
-
-(12)–(13)
-
-(14)–(16)
-
-(17)
-
-61. §
+60–61. §
 
 62. §
 
