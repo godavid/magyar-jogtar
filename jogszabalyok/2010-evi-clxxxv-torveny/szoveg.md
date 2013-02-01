@@ -531,7 +531,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
   - ac) elérhetőségét (telefonszámát és elektronikus levelezési címét),
   - ad) vezető tisztségviselőjének, képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személynek a nevét és elérhetőségét (telefonszámát, postai és elektronikus levelezési címét),
   - ae) cégjegyzékszámát, illetve nyilvántartási számát,
-- b) a bejelentő hatályos létesítő okiratát, továbbá közjegyző által hitelesített aláírási címpéldányt, vagy ügyvéd által ellenjegyzett aláírásmintát, amennyiben a bejelentő nem természetes személy,
+- b) a bejelentő hatályos létesítő okiratát és képviselőjének – a (2a) bekezdés kivételével – közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, ha a bejelentő nem természetes személy,
 - c) a tervezett médiaszolgáltatás alapvető adatait:
   - ca) fajtáját (rádiós vagy audiovizuális),
   - cb) típusát (általános tematikájú vagy tematikus),
@@ -553,6 +553,8 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 - f) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
 (2) A bejelentőnek nyilatkoznia kell, hogy nyilvántartásba vétel esetén vele kapcsolatban a törvény szerinti kizáró ok nem keletkezik.
+
+(2a) Ha a bejelentő cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hivatal az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (3) Lineáris médiaszolgáltatás csak a nyilvántartásba vételt követően kezdhető meg. A lineáris médiaszolgáltatás nyilvántartásba vételéről a Hivatal negyvenöt napon belül hatósági határozatot hoz, amelyben meghatározza a médiaszolgáltató által az egyes lineáris médiaszolgáltatások után fizetendő médiaszolgáltatási díj mértékét.
 
@@ -3419,6 +3421,8 @@ rendeletben megállapítsa.
 (5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
 
 ### IV. Fejezet — ÁTMENETI RENDELKEZÉSEK
+
+206/A. § E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel megállapított 42. § (1) bekezdés b) pontját és (2a) bekezdését a 2013. február 1-jén és az azt követően benyújtott kérelmek esetében kell alkalmazni.
 
 ### A műsorszolgáltatási szerződésekre vonatkozó átmeneti szabályok
 

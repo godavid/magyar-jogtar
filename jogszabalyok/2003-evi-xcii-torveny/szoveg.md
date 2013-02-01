@@ -3563,6 +3563,11 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (20f) A pénzforgalmi számla nyitására kötelezett adózó a 38. § (3a) bekezdésében foglalt előírás megsértése esetén a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet. A 38. § (3a) bekezdésében foglalt előírás megsértésével teljesített kifizetés jogosultja, ha a szabálytalan kifizetést elfogadja, a készpénzszolgáltatásnak az 1,5 millió forintot meghaladó része után 20% mértékű mulasztási bírságot fizet.
 
+(20g) Az állami adóhatóság a 176/F. § szerinti ellenőrzés során
+
+- a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
+- b) a pénztárgép, taxaméter forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek egyéb módon történő megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.
+
 (21) A mulasztási bírság kiszabásánál – különös tekintettel a (4) és (5) bekezdésben meghatározott esetekre – az adóhatóság mérlegeli az eset összes körülményét, az adózó jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az adózó, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján az adóhatóság a mulasztás súlyához igazodó az adózási érdeksérelemmel arányos bírságot szab ki, vagy a bírság kiszabását mellőzi.
 
 ### Intézkedések

@@ -149,7 +149,8 @@ azonosítása.
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - j) a törvényi mentesítés várható időpontját;
 - k) a külföldi ítélet érvényének elismerése esetén ennek tényét; továbbá
-- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját.
+- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+- m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
 
@@ -209,7 +210,8 @@ azonosítása.
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
 - j) a külföldi ítélet érvényének elismerése esetén ennek tényét;
 - k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilvántartásból való törlés várható időpontját, továbbá
-- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját.
+- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+- m) a szakrendszeri azonosító kódot.
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 
@@ -309,7 +311,8 @@ számított három évig kell nyilvántartani.
 - g) a nyomozás vagy az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a nyomozás vagy az eljárás továbbfolytatásának időpontját;
 - h) a büntetőügy iktatószámát;
 - i) a büntetőügyek egyesítésének, elkülönítésének tényét, továbbá
-- j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését.
+- j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+- k) a szakrendszeri azonosító kódot.
 
 24. § (1) A személyazonosító adatokat, valamint a 23. § c)–e) és h) pontjában meghatározott adatokat az a nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár.
 

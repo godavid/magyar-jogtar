@@ -1115,6 +1115,10 @@ a határozat végrehajtását felfüggesztheti.
 
 első fokú végzés ellen.
 
+(11) Az építésügyi és az építésfelügyeleti hatóság eljárást lezáró döntésének jogerőre emelkedésétől és végrehajthatóvá válásától számított hat hónapot követően új ügyfél nem vehet részt az eljárásban.
+
+(12) Az ügyfél a fellebbezését indokolni köteles, a fellebbezésnek a megtámadott döntéssel tartalmilag összefüggőnek kell lennie, és a fellebbezésben csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre lehet hivatkozni.
+
 53/D. §
 
 ### III/A. Fejezet — EGYES KERESKEDELMI ÉPÍTMÉNYEK LÉTESÍTÉSÉRŐL

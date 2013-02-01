@@ -24,6 +24,8 @@ a következő törvényt alkotja:
 
 (2) A közigazgatási hatóság a hatáskörének gyakorlásával nem élhet vissza, hatásköre gyakorlása során a szakszerűség, az egyszerűség és az ügyféllel való együttműködés követelményeinek megfelelően köteles eljárni. A hatóság ügyintézője jóhiszeműen, továbbá a jogszabály keretei között az ügyfél jogát és jogos – ideértve gazdasági – érdekét szem előtt tartva jár el.
 
+(2a) A közigazgatási hatóság e törvény alkalmazása során az eljárásban érintett kiskorú érdekeinek fokozott figyelembevételével jár el.
+
 (3) A közigazgatási hatóság az ügyfél jogát és jogos érdekét csak a közérdek és az ellenérdekű ügyfél jogának, jogos érdekének védelméhez szükséges mértékben korlátozza.
 
 (4) A közigazgatási hatóság védi az ügyfelek jóhiszeműen szerzett és gyakorolt jogait, ezek korlátait törvény határozza meg.
@@ -50,6 +52,8 @@ a következő törvényt alkotja:
 (3)
 
 5. § (1) A közigazgatási hatóság az ügyfél és az eljárás egyéb résztvevője számára biztosítja, hogy jogaikról és kötelezettségeikről tudomást szerezzenek, és előmozdítja az ügyféli jogok gyakorlását.
+
+(1a) A közigazgatási hatóság a korlátozottan cselekvőképes vagy cselekvőképtelen ügyfelet, illetve az eljárás korlátozottan cselekvőképes vagy cselekvőképtelen egyéb résztvevőjét megfelelő légkör biztosítása mellett, korára, egészségi állapotára és értelmi szintjére tekintettel tájékoztatja az őt megillető jogokról és az őt terhelő kötelezettségekről, valamint a lefolytatandó eljárási cselekményről.
 
 (2) A közigazgatási hatóság a jogi képviselő nélkül eljáró ügyfelet tájékoztatja az ügyre irányadó jogszabály rendelkezéseiről, az őt megillető jogokról és az őt terhelő kötelezettségekről, illetve a kötelezettség elmulasztásának jogkövetkezményeiről, továbbá a természetes személy ügyfél részére a jogi segítségnyújtás igénybevételének feltételeiről.
 
@@ -175,9 +179,11 @@ eljárásban.
 
 (5a) A hatósági eljárásban azokat a civil szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul, az eljárás során megilleti a nyilatkozattételi jog. A nyilatkozat az eljáró hatóságot nem köti.
 
-(6) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogainak gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az első fokú eljárásban nyilatkozatot tesz vagy kérelmet nyújt be.
+(6) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogainak gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az elsőfokú eljárásban nyilatkozatot tesz vagy kérelmet nyújt be. A nyilatkozat, illetve a kérelem tartalmi követelményeit a törvény vagy a felhatalmazása alapján kiadott kormányrendelet meghatározhatja.
 
-(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
+(6a) Törvény előírhatja, hogy a hatósági döntés jogerőre emelkedésétől és végrehajthatóvá válásától számított, a törvényben meghatározott, legalább hat hónapos határidőn túl további ügyfél nem vehet részt az eljárásban. Ebben az esetben a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
+
+(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve az erre vonatkozó iratok csatolásával ügygondnok kirendelését kéri, vagy ha törvény vagy kormányrendelet lehetővé teszi – az ügygondnok kirendelésére vonatkozó részletes szabályok meghatározásával –, maga gondoskodik ügygondnok kirendeléséről.
 
 (8) Az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzés ellen önálló fellebbezésnek van helye.
 
@@ -361,7 +367,7 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 
 - a) az (1) bekezdés a) és b) pontjában szabályozott esetben tizenöt napon belül,
 - b) az (1) bekezdés c) pontjában szabályozott esetben nyolc napon belül,
-- c) ha az tanú meghallgatására, szemle lefolytatására irányul – az a) és b) ponttól eltérően – harminc napon belül,
+- c)
 - d) ha a megkeresésben kért adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, és a hatóságok közötti elektronikus kapcsolattartás nem kizárt, öt napon belül
 
 kell teljesíteni.
@@ -613,7 +619,7 @@ számított nyolc napon belül értesíteni kell.
 
 (7) Az eljáró hatóság vezetője – ha azt jogszabály nem zárja ki – az ügyintézési határidőt annak letelte előtt kivételesen indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja. A végzésben a határidő-hosszabbítás indokait kifejezetten meg kell jelölni.
 
-(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
+(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Kivételesen indokolt esetben – amennyiben azt jogszabály nem zárja ki – a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt annak letelte előtt egy alkalommal legfeljebb tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti. A szakhatóságnak az ügyintézési határidő meghosszabbításáról szóló végzésében a határidő-hosszabbítás indokait kifejezetten meg kell jelölnie.
 
 (9) A (7) és (8) bekezdésben meghatározott határidőnél rövidebb határidőt bármely jogszabály, hosszabbat pedig törvény vagy kormányrendelet állapíthat meg.
 
@@ -675,13 +681,13 @@ számított nyolc napon belül értesíteni kell.
 
 (3) Ha az ügyfél az (1) vagy a (2) bekezdés alapján nem az eljárásra hatáskörrel rendelkező illetékes hatóságnál vagy szervnél nyújtotta be kérelmét, az eljáró hatóság a 29. § (9) bekezdésének megfelelően értesíti az ügyfelet az eljárás megindításáról.
 
-38/A. § (1) Törvény vagy kormányrendelet rendelkezése esetén valamely jog gyakorlásához szükséges kérelmek a törvényben vagy kormányrendeletben kijelölt hatóságnál (a továbbiakban: közreműködő hatóság) együttesen nyújthatóak be, amely tíz napon belül továbbítja a kérelmeket a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatóságokhoz.
+38/A. § (1) Törvény vagy kormányrendelet rendelkezése esetén az ott megjelölt hatóságnál (a továbbiakban: közreműködő hatóság) is benyújtható a kérelem vagy együttesen valamely jog gyakorlásához szükséges több kérelem. A kormányablak e rendelkezés alkalmazásában közreműködő hatóságnak minősül.
 
-(2) Az ügyintézési határidő a kérelmeknek a hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon kezdődik.
+(2) A közreműködő hatóság a kérelmet, illetve kérelmeket öt napon belül továbbítja a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatósághoz. Jogszabály a kérelem, illetve a kérelmek továbbítására rövidebb határidőt is meghatározhat. A konzuli tisztviselő eljárásában a kérelmet haladéktalanul, de legkésőbb az első diplomáciai futárpostával kell továbbítani. Az ügyintézési határidő a kérelemnek, illetve kérelmeknek a hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon kezdődik.
 
 (3) Ha törvény vagy kormányrendelet eltérően nem rendelkezik,
 
-- a) az ügyfél az illetéket és a díjat a közreműködő hatóságnál köteles megfizetni,
+- a) az ügyfél az illetéket és a díjat a közreműködő hatóságnál is megfizetheti,
 - b) a közreműködő hatóság a kérelmet a 37. § (2) bekezdésének megfelelően megvizsgálja, és az ügyfelet hiánypótlásra szólítja fel, ez azonban a hatáskörrel és illetékességgel rendelkező hatóság hiánypótlásra való felhívási jogát nem érinti,
 - c) a közreműködő hatóság jogosult a kérelmet érdemi vizsgálat nélkül elutasítani a 30. § a), c), d), f) és g) pontjában foglalt esetekben,
 - d) a közreműködő hatóság jogosult az eljárást a 31. § (1) bekezdés h) pontban foglalt esetben megszüntetni.
@@ -692,7 +698,9 @@ számított nyolc napon belül értesíteni kell.
 
 (2)
 
-38/C. § Törvény vagy kormányrendelet rendelkezése alapján törvényben vagy kormányrendeletben meghatározott módon erre feljogosított tanúsító szervezet közreműködhet a tényállás tisztázásában. A tanúsító szervezet által jogszabályban meghatározottak szerint kibocsátott tanúsítványt a hatóság köteles elfogadni a tények igazolására, a tanúsított tények tekintetében a hatóság további eljárási cselekményeket nem végez.
+38/C. § (1) Törvény vagy kormányrendelet rendelkezése alapján az erre feljogosított tanúsító szervezet közreműködhet a tényállás tisztázásában. A tanúsító szervezet által kibocsátott tanúsítványt a hatóság köteles elfogadni a tények igazolására, a tanúsított tények tekintetében a hatóság további eljárási cselekményeket nem végez.
+
+(2) Ha törvény vagy kormányrendelet lehetővé teszi, az erre feljogosított tanúsító szervezet által kibocsátott tanúsítvány alapján az abban tanúsított tényeken alapuló jogok közvetlenül gyakorolhatók. A törvénynek vagy kormányrendeletnek meg kell határoznia a tanúsító szervezet felelősségére vonatkozó szabályokat a tanúsítvány alapján tanúsított tények fennállására vonatkozóan.
 
 ### Jegyzőkönyv, egyszerűsített jegyzőkönyv és hivatalos feljegyzés
 
@@ -742,6 +750,8 @@ számított nyolc napon belül értesíteni kell.
 
 39/A. § (1) Erre irányuló indokolt kérelem esetén a hatóság elrendeli a tanú, a tolmács, a szemletárgy birtokosa és a hivatalbóli eljárást kezdeményező személy természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az adatok zárt kezelése iránti kérelmet előterjesztő valószínűsíti, hogy őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést kizárólag a kérelmet előterjesztővel kell közölni.
 
+(1a) A hatóság a cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél, tanú, illetve a szemletárgy birtokosa védelme érdekében erre irányuló kérelem nélkül is dönthet a cselekvőképtelen vagy korlátozottan cselekvőképes személy adatainak zárt kezeléséről. A végzést a cselekvőképtelen vagy korlátozottan cselekvőképes személy képviselőjével is közölni kell.
+
 (2) A szakértő az (1) bekezdésben foglaltak szerint az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 
 (3) A természetes személyazonosító adatokat és a lakcímet a hatóság az ügy iratai között elkülönítve, zártan kezeli. A hatóság biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
@@ -764,7 +774,7 @@ számított nyolc napon belül értesíteni kell.
 
 (4) A hatóság visszautasítja a meghatalmazott eljárását, ha az nem alkalmas az ügyben a képviselet ellátására, vagy ha képviseleti jogosultságát az erre irányuló hiánypótlási felhívás ellenére sem igazolja. A meghatalmazott visszautasítása esetén a hatóság felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjék a képviselet ellátására alkalmas képviselőről.
 
-(5) A természetes személy ügyfél részére, ha ismeretlen helyen tartózkodik vagy nem tud az ügyben eljárni, és nincs törvényes képviselője vagy meghatalmazottja, az eljáró hatóság kezdeményezésére a gyámhatóság ügygondnokot rendel ki.
+(5) A természetes személy ügyfél részére, ha ismeretlen helyen tartózkodik vagy nem tud az ügyben eljárni és nincs törvényes képviselője vagy meghatalmazottja, az eljáró hatóság az erre vonatkozó iratok csatolásával a gyámhatóságnál ügygondnok kötelező kirendelését kezdeményezi vagy ha törvény vagy kormányrendelet lehetővé teszi – az ügygondnok kirendelésére vonatkozó részletes szabályok meghatározásával – maga gondoskodik az ügygondnok kirendeléséről.
 
 (6) Jogszabály a képviselet egyéb módját is meghatározhatja, és a képviseleti jogosultság igazolását meghatározott formához kötheti.
 
@@ -854,7 +864,7 @@ számított nyolc napon belül értesíteni kell.
 
 44. § (1) Törvény vagy kormányrendelet az ügyben érdemi döntésre jogosult hatóság számára előírhatja, hogy az ott meghatározott szakkérdésben más hatóság (a továbbiakban: szakhatóság) kötelező állásfoglalását kell beszereznie. A szakhatóság olyan szakkérdésben ad ki állásfoglalást, amelynek megítélése hatósági ügyként a hatáskörébe tartozik, ennek hiányában törvény vagy kormányrendelet annak vizsgálatát szakhatósági ügyként a hatáskörébe utalja.
 
-(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegelheti a szakhatóság megkeresését és maga dönthet a szakkérdésben. Ilyen esetben az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető.
+(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegeli a szakhatóság megkeresését és maga dönt a szakkérdésben. Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mellőzi a szakhatóság megkeresését. Ha a hatóság maga dönt a szakkérdésben, ehhez szakértőt nem rendelhet ki, és az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető. Ha mérlegelés esetén a hatóság úgy dönt, hogy megkeresi a szakhatóságot, a szakhatóság állásfoglalása kötelező a hatóságra nézve.
 
 (2) Törvény vagy kormányrendelet meghatározott szakkérdésben tudományos vagy szakmai testületet, illetve szakértői szervet jelölhet ki szakhatóságként.
 
@@ -1030,9 +1040,13 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfelet a kérelmére indult eljárásban nyilatkozattételre hívhatja fel. Ha az ügyfél a kérelmére indult eljárásban a hatóság felhívására nem nyilatkozik, a hatóság a rendelkezésre álló adatok alapján dönt, vagy a 31. § (2) bekezdése alapján megszünteti az eljárást.
 
-(2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható. A meghallgatásnak megfelelő légkörben, a cselekvőképtelen személy számára érthető módon kell megtörténnie, indokolt esetben a cselekvőképtelen személy lakóhelyén. A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor, írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
+(2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható és ehhez a törvényes képviselője hozzájárul. A cselekvőképtelen személyt indokolt esetben a lakcímén kell meghallgatni.
 
-(2b) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen személy érdekében áll.
+(2b) Ha jogszabály másként nem rendelkezik, az, aki korlátozottan cselekvőképes vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a nyilatkozattétel jelentőségét, nyilatkozattételre csak akkor hívható fel, ha nyilatkozatot kíván tenni és a törvényes képviselője ehhez hozzájárul.
+
+(2c) A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor. Írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
+
+(2d) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a)–(2c) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen vagy korlátozottan cselekvőképes személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen vagy korlátozottan cselekvőképes személy érdekében áll.
 
 (3) Törvény vagy kormányrendelet kötelezővé teheti, hogy a hivatalból folytatott eljárásban az ügyfél, a kérelemre indult eljárásban az ellenérdekű ügyfél a hatóság erre irányuló felhívására közölje az érdemi döntéshez szükséges adatokat, és jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére.
 
@@ -1077,13 +1091,15 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
 - c) a tanú médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, és a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné.
 
-(4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A meghallgatást csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
+(4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható és ehhez a törvényes képviselője hozzájárul. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A cselekvőképtelen személyt indokolt esetben a lakcímén kell meghallgatni.
 
-(4b) Aki korlátozottan cselekvőképes, vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megtagadásának jelentőségét, tanúként csak akkor hallgatható meg, ha vallomást kíván tenni, és a törvényes képviselője ehhez hozzájárul. Meghallgatásánál a tanú törvényes képviselője jelen van.
+(4b) Ha jogszabály másként nem rendelkezik az, aki korlátozottan cselekvőképes vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megtagadásának jelentőségét, tanúként csak akkor hallgatható meg, ha vallomást kíván tenni és a törvényes képviselője ehhez hozzájárul.
 
-(4c) Ha a tanú és a törvényes képviselő között érdekellentét van, a (4a) és a (4b) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
+(4c) A cselekvőképtelen és a korlátozottan cselekvőképes tanú meghallgatását csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
 
-(5) Nem használható fel bizonyítékként a (3), valamint a (4a)–(4c) bekezdésben, továbbá az 54. § (5)–(6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
+(4d) Ha a tanú és a törvényes képviselő között érdekellentét van, a (4a)–(4c) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja. A gyámhatóság a cselekvőképtelen vagy korlátozottan cselekvőképes tanút törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen vagy korlátozottan cselekvőképes tanú érdekében áll.
+
+(5) Nem használható fel bizonyítékként a (3), valamint a (4a)–(4d) bekezdésben, továbbá az 54. § (5) és (6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
 
@@ -1127,7 +1143,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A (3) bekezdésben meghatározott esetben a 33. § (3) bekezdés d) pontja és a 33. § (8) bekezdése nem alkalmazható.
 
-57. § (1) A szemletárgy birtokosát és az 56. § (1) bekezdésében meghatározott személyt (a továbbiakban együtt: szemletárgy birtokosa) a szemléről – a (2) és (3) bekezdésben foglalt kivétellel – előzetesen értesíteni kell. Ha a szemle eredményessége érdekében indokolt, az értesítésnek tartalmaznia kell a szemletárgy birtokosának személyes jelenlétére, a szükséges iratok előkészítésére irányuló felhívást.
+57. § (1) A szemletárgy birtokosát és az 56. § (1) bekezdésében meghatározott személyt (a továbbiakban együtt: szemletárgy birtokosa) a szemléről – a (2) és (3) bekezdésben foglalt kivétellel – előzetesen értesíteni kell. Ha a szemle eredményessége érdekében indokolt, az értesítésnek tartalmaznia kell a szemletárgy birtokosának személyes jelenlétére, a szükséges iratok előkészítésére irányuló felhívást. Az értesítést – ha az ügy körülményeiből más nem következik – úgy kell közölni, hogy azt a szemletárgy birtokosa legalább öt nappal korábban megkapja.
 
 (2) Ha az előzetes értesítés a szemle eredményességét veszélyeztetné, a szemletárgy birtokosát a szemléről annak megkezdésekor szóban kell tájékoztatni.
 
@@ -1228,7 +1244,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 62. § (1) A hatóság tárgyalást tart, ha ezt jogszabály előírja, vagy a tényállás tisztázásához, illetve az egyezségi kísérlet lefolytatásához szükség van az eljárásban részt vevő személyek együttes meghallgatására.
 
-(2) A tárgyaláson a hatóság meghallgathatja az ügyfelet (ügyfeleket), a tanút, a szakértőt, a hatósági közvetítőt, és megszemlélheti a szemletárgyat.
+(2) A tárgyaláson a hatóság meghallgathatja az ügyfelet, a tanút, a szakértőt, a hatósági közvetítőt, és megszemlélheti a szemletárgyat. Cselekvőképtelen vagy korlátozottan cselekvőképes személy tárgyaláson történő meghallgatására csak abban az esetben kerülhet sor, ha az eljárásban részt vevő más személyekkel történő együttes meghallgatása érdekeit nem sérti.
 
 (3) Az ügyfél észrevételt tehet a tárgyaláson elhangzottakra, kérdést intézhet a meghallgatott személyhez, és indítványozhatja más személy meghallgatását vagy más bizonyíték beszerzését.
 
@@ -1313,6 +1329,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában.
 
+(2a) A hatóság a cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél védelme érdekében erre irányuló kérelem nélkül is dönthet az iratbetekintési jog korlátozásáról.
+
 (3) Az iratbetekintési jog biztosítása érdekében a hatóság megismerhetetlenné teszi azokat a személyes és védett adatokat, valamint a (2) bekezdés szerinti adatokat, amelyek megismerésére az iratbetekintésre jogosult személy egyébként nem jogosult.
 
 (4) A hatóság a 68. § szerinti személy kérelmére – annak vizsgálata mellett, hogy az (1)–(3) bekezdés szerinti okok a kérelem elbírálásakor fennállnak-e – az iratbetekintést biztosítja, vagy végzésben dönt az iratbetekintési kérelem elutasításáról. A végzés ellen az iratbetekintést kérő személy önálló fellebbezéssel élhet.
@@ -1377,7 +1395,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
   - ea) a megállapított tényállást és az annak alapjául elfogadott bizonyítékokat,
   - eb) az ügyfél által felajánlott, de mellőzött bizonyítást és a mellőzés indokait,
   - ec) a mérlegelési, méltányossági jogkörben hozott határozat esetén a mérlegelésben, a méltányossági jogkör gyakorlásában szerepet játszó szempontokat és tényeket,
-  - ed) a szakhatósági állásfoglalás indokolását,
+  - ed) a szakhatósági állásfoglalás indokolását, valamint a szakhatósági megkeresés mellőzésének okát,
   - ee) az ügyintézési határidő túllépése esetén az ügyintézési határidő leteltének napját, valamint az arról szóló tájékoztatást, hogy az ügyintézési határidőt mely, az ügyfélnek vagy az eljárás egyéb résztvevőjének felróható okból nem tartotta be, vagy hogy a 33/A. § alkalmazásának van helye,
   - ef) azokat a jogszabályhelyeket, amelyek alapján a hatóság a határozatot hozta,
   - eg) a hatóság hatáskörét és illetékességét megállapító jogszabályra történő utalást,
@@ -1553,7 +1571,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - d) az ügyfél nevét és utolsó ismert lakcímét, illetőleg székhelyét, továbbá
 - e) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy meghatalmazottja a döntést a hatóságnál átveheti.
 
-(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő és a 15. § (5) bekezdésében meghatározott szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani, továbbá abban az esetben, ha a 28/D. § alapján törvény vagy kormányrendelet hirdetményi úton való kapcsolattartást ír elő. Ilyen esetben a hirdetmény tartalmazza:
+(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő ügyfelek és a 15. § (5) bekezdésében meghatározott szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani, továbbá abban az esetben, ha a 28/D. § alapján törvény vagy kormányrendelet hirdetményi úton való kapcsolattartást ír elő. Ilyen esetben a hirdetmény tartalmazza:
 
 - a) a kifüggesztés napját,
 - b) az eljáró hatóság megnevezését,
@@ -1702,6 +1720,15 @@ teljesíti.
 
 88. § A hatóság – a hatáskörének keretei között – ellenőrzi a jogszabályban foglalt rendelkezések betartását, valamint a végrehajtható döntésben foglaltak teljesítését.
 
+88/A. § (1) A hatósági ellenőrzés hivatalból vagy – ha azt törvény vagy kormányrendelet nem zárja ki vagy nem korlátozza – az ügyfél kérelmére indul meg. Az ügyfél csak saját maga hatósági ellenőrzés alá vonását kérelmezheti.
+
+(2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában nem kérhető hatósági ellenőrzés, és az erre vonatkozó kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
+
+- a) a kérelem benyújtásának időpontjában a hatóság előtt az adott ügyre vonatkozóan már folyamatban van hatósági ellenőrzés,
+- b) ha a hatóság az ügyfélnél egyébként folyamatosan lát el ellenőrzési feladatot,
+- c) ha a hatóság ugyanazon ügyfél kérelmére az újabb kérelem benyújtását megelőző egy éven belül lefolytatott ellenőrzése során jogsértést nem tárt fel, kivéve, ha a kérelem benyújtására az ellenőrzés lefolytatását követően felmerült ok vagy körülmény miatt kerül sor, vagy
+- d) ha a hatóság által a kérelmezővel szemben korábban lefolytatott ellenőrzése alapján a végrehajtás folyamatban van.
+
 89. § A hatósági ellenőrzés eszközei:
 
 - a) adatszolgáltatás, iratbemutatás és egyéb tájékoztatás kérésével megvalósuló ellenőrzés,
@@ -1712,7 +1739,7 @@ teljesíti.
 
 (2) Jogszabály az ellenőrzési eljárás megindítására vonatkozó és a helyszíni ellenőrzést megelőző értesítési kötelezettség tekintetében eltérő szabályokat állapíthat meg, ha a hatóság az ügyfélnél folyamatosan lát el ellenőrzési feladatot.
 
-91. § (1) A hatóság ellenőrzési tervet készít, amely tartalmazza legalább az előre ütemezett ellenőrzések tárgyát, az ellenőrzési időszakot, az ellenőrzések ütemezését, eszközét, valamint a hatóság vezetője által meghatározott egyéb adatokat. Az ellenőrzési tervben nem kell megjeleníteni a folyamatos ellenőrzési feladatot.
+91. § (1) A hatóság ellenőrzési tervet készít, amely tartalmazza legalább az előre ütemezett ellenőrzések tárgyát, az ellenőrzési időszakot, az ellenőrzések ütemezését, eszközét, az ellenőrzések szempontrendszerét, valamint a hatóság vezetője által meghatározott egyéb adatokat. Az ellenőrzési tervben nem kell megjeleníteni a folyamatos ellenőrzési feladatot.
 
 (2) A hatóság az ellenőrzési tervben foglaltak, valamint az ellenőrzési tervben nem szereplő, de az ellenőrzési időszakban lefolytatott hatósági ellenőrzések végrehajtásáról, a levont következtetésekről a következő ellenőrzési időszak lezárása előtt ellenőrzési jelentést készít, amely tartalmazza legalább az ellenőrzések számát, az ellenőrzések eredményét, a megállapított jogsértések típusait, továbbá a hatóság vezetője által meghatározott egyéb statisztikai adatokat.
 
@@ -1728,7 +1755,9 @@ teljesíti.
 
 (3) Ha a hatóság a hatósági ellenőrzés során jogsértést nem tapasztal, jegyzőkönyv felvétele helyett egyszerűsített jegyzőkönyvet is készíthet, amelyet az ügyfél kérelmére a hatóság az ügyfélnek a helyszínen átad, vagy az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküld.
 
-(4) Ha törvény a hatósági ellenőrzés lefolytatását az ügyfél kérelmére lehetővé teszi, a hatóság az eljárás befejezésekor az ügyfélnek megküldi az ellenőrzésről készített jegyzőkönyv vagy egyszerűsített jegyzőkönyv személyes adatot nem tartalmazó kivonatát.
+(3a) Ha a hatóság az ügyfél kérelmére lefolytatott hatósági ellenőrzés során jogsértést nem tapasztal, ennek tényéről az ügyfélnek az ellenőrzés iránti kérelem benyújtásakor előterjesztett kérelmére hatósági bizonyítványt állít ki. Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a hatósági bizonyítvány egy évig hatályos. Ebben az esetben nem alkalmazható a 83. § (3) bekezdésében meghatározott határidő.
+
+(4) Ha az ügyfél nem kéri a (3a) bekezdés szerinti hatósági bizonyítvány kiállítását, a hatóság az eljárás befejezésekor az ügyfélnek megküldi az ellenőrzésről készített jegyzőkönyv vagy egyszerűsített jegyzőkönyv személyes adatot nem tartalmazó kivonatát. Ebben az esetben az ellenőrzést harminc napon belül kell lefolytatni, és e határidőn belül kell gondoskodni – az ügyfél személyes adatát kivéve – a jegyzőkönyv vagy egyszerűsített jegyzőkönyv személyes adatot nem tartalmazó kivonata ügyfélnek való megküldéséről. Ennél rövidebb határidőt bármely jogszabály, hosszabbat pedig törvény vagy kormányrendelet állapíthat meg.
 
 (5) Ha a döntés kizárólag a jegyzőkönyv megállapításain alapul, a hatóság mellőzheti a hatósági ellenőrzésről készült jegyzőkönyv ügyfél részére történő megküldését.
 
@@ -1737,6 +1766,8 @@ teljesíti.
 - a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és legalább húsznapos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi annak megszüntetésére,
 - b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is,
 - c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
+
+(1a) Az (1) bekezdés c) pontja szerinti esetben a hatáskörrel rendelkező illetékes hatóság a jegyzőkönyvben, illetve közös jegyzőkönyvben foglaltakat bizonyítékként használhatja fel, és azok alapján közvetlenül eljárhat.
 
 (2) Nem alkalmazható az (1) bekezdés a) pontja, ha
 
@@ -1748,6 +1779,8 @@ teljesíti.
 - f) a 13. § (2) bekezdés b) pontja hatálya alá tartozó jogszabályi rendelkezést sértik meg,
 - g) az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezés megsértését a 13. § (2) bekezdés d) vagy e) pontja szerinti eljárásban állapítják meg, vagy
 - h) az ügyfél a közhiteles hatósági nyilvántartásba való, jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
+
+(2a) A (2) bekezdéstől eltérően, ha a hatósági ellenőrzés az ügyfél kérelmére indult, az (1) bekezdés a) pontja a (2) bekezdés a), valamint e)–h) pontjában foglalt esetben is alkalmazható.
 
 (3) A hatóság az (1) és (2) bekezdésben foglaltak ellenőrzése céljából nyilvántartást vezet, amely tartalmazza
 
@@ -1838,6 +1871,8 @@ teljesíti.
 
 98. § (1) Az ügyfél az elsőfokú határozat ellen fellebbezhet. A fellebbezési jog nincs meghatározott jogcímhez kötve, fellebbezni bármely okból lehet, amelyre tekintettel az érintett a döntést sérelmesnek tartja.
 
+(1a) Törvény a fellebbezés benyújtásához indokolási kötelezettséget írhat elő. Törvény azt is előírhatja, hogy fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet.
+
 (2) Végzés csak a határozat, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg, kivéve a (3) és (4) bekezdésben szabályozott eseteket. Törvény az önálló fellebbezést egyéb esetekben is lehetővé teheti.
 
 (3) Önálló fellebbezésnek van helye
@@ -1863,15 +1898,16 @@ teljesíti.
 
 100. § (1) Nincs helye fellebbezésnek
 
-- a) ha az ügyben törvény azt kizárja,
+- a) a döntés ellen, ha az ügyben törvény azt kizárja,
 - b) az ügyfelek részéről az egyezségüket jóváhagyó határozat ellen,
 - c) jogszabály eltérő rendelkezése hiányában valamely adatnak, ténynek vagy jogosultságnak a hatósági nyilvántartásba hivatalbóli, mérlegelés nélküli bejegyzésével szemben,
 - d) ha az elsőfokú döntést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv vagy kormányhivatal vezetője hozta,
 - e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta,
 - f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
-- g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen.
+- g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen,
+- h) a 98. § (1a) bekezdése alapján benyújtott fellebbezés érdemi vizsgálat nélküli elutasítása esetén.
 
-(2) Az (1) bekezdés a), c)–g) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
+(2) Az (1) bekezdés a), c)–h) pontjában meghatározott esetben az elsőfokú döntés bírósági felülvizsgálatának van helye.
 
 101. § (1) A fellebbezéssel megtámadott döntésben foglalt jogok nem gyakorolhatók és a fellebbezésnek a döntés végrehajtására halasztó hatálya van, kivéve, ha a döntés e törvény alapján fellebbezésre tekintet nélkül végrehajtható, vagy a hatóság nyilvánította a döntést a fellebbezés halasztó hatályának kizárásával végrehajthatónak.
 
@@ -1896,9 +1932,18 @@ teljesíti.
 
 (2) A fellebbezésben új tények és bizonyítékok is felhozhatók.
 
-(3) Az elkésett fellebbezést, a fellebbezésre nem jogosulttól származó fellebbezést, valamint az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést az első fokú döntést hozó hatóság érdemi vizsgálat nélkül elutasítja. Ha az ügyfél a fellebbezéssel együtt nyújt be kérelmet a fellebbezési eljárásban való költségmentessége iránt, erről a kérelemről az első fokú döntést hozó hatóság dönt.
+(3) Az elsőfokú döntést hozó hatóság érdemi vizsgálat nélkül elutasítja
 
-(4) Az első fokú döntést hozó hatóság megküldi a fellebbezést a szakhatóságnak.
+- a) az elkésett fellebbezést,
+- b) a fellebbezésre nem jogosulttól származó fellebbezést,
+- c) az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést és
+- d) a 98. § (1a) bekezdése megsértésével benyújtott fellebbezést.
+
+(3a) Ha az ügyfél a (3b) bekezdés szerinti hiánypótlásra nyitva álló határidőben nyújt be kérelmet a fellebbezési eljárásban való költségmentessége iránt, azt az elsőfokú döntést hozó hatóság bírálja el.
+
+(3b) A fellebbezési kérelmet az elsőfokú döntést hozó hatóság abban az esetben is érdemi vizsgálat nélkül elutasítja, ha az ügyfél a fellebbezési eljárásért fizetendő illeték- vagy díjfizetési kötelezettségének az elsőfokú hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget, és költségmentességben sem részesül.
+
+(4) Az elsőfokú döntést hozó hatóság megküldi a fellebbezést a szakhatóságnak. Ha a fellebbezés nem érinti a szakhatóság állásfoglalását, az elsőfokú döntést hozó hatóság mellőzi a fellebbezés szakhatóságnak való megküldését.
 
 (5) Az első fokú döntést hozó hatóság a fellebbezést a fellebbezési határidő leteltétől számított nyolc – szakhatóság közreműködése esetén tizenöt – napon belül terjeszti fel a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha a hatóság a megtámadott döntést a fellebbezésben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja, visszavonja vagy a fellebbezést érdemi vizsgálat nélkül elutasítja, valamint ha a fellebbezést a felterjesztést megelőzően visszavonták. A fellebbezést az első fokú döntést hozó hatóság az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
@@ -1926,7 +1971,7 @@ teljesíti.
 
 104. § (1) Ha a fellebbezésnek megfelelően a hatósági döntést a 103. §-ban foglaltak szerint nem módosítják vagy nem vonják vissza, a fellebbezésről az annak elbírálására jogosult hatóság dönt.
 
-(2) A másodfokú döntést hozó hatóság beszerzi a másodfokú eljárásban kijelölt szakhatóság állásfoglalását. Ha törvény vagy kormányrendelet a másodfokú eljárásban szakhatóságot nem jelöl ki, a hatóság maga dönt a fellebbezésnek a szakhatósági állásfoglalás ellen irányuló részében is.
+(2) A másodfokú döntést hozó hatóság beszerzi a másodfokú eljárásban kijelölt szakhatóság állásfoglalását. Ha a fellebbezés nem érinti az elsőfokú szakhatóság állásfoglalását, a másodfokú döntést hozó hatóság mellőzi a szakhatóság megkeresését. Ha törvény vagy kormányrendelet a másodfokú eljárásban szakhatóságot nem jelöl ki, a hatóság maga dönt a fellebbezésnek a szakhatósági állásfoglalás ellen irányuló részében is.
 
 (3) A másodfokú döntést hozó hatóság a sérelmezett döntést, valamint az azt megelőző eljárást megvizsgálja; ennek során nincs kötve a fellebbezésben foglaltakhoz.
 
@@ -1975,6 +2020,8 @@ teljesíti.
 
 - a) a 100. § (2) bekezdésében meghatározott esetekben, vagy
 - b) ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette.
+
+(1a) A végzés bírósági felülvizsgálata kezdeményezhető, ha e törvény alapján a végzés ellen önálló fellebbezésnek van helye, és törvény az ügyben az elsőfokú határozattal szemben kizárja a fellebbezést, valamint a határozat bírósági felülvizsgálatát teszi lehetővé.
 
 (2) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti, kivéve, ha a másodfokú döntést a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
 
@@ -2076,7 +2123,7 @@ teljesíti.
 
 - a) a magyar hatóság joghatósága az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa, nemzetközi szerződés vagy törvény rendelkezése alapján kizárt,
 - b) az ügy nem tartozik az eljáró hatóság hatáskörébe vagy illetékességébe, kivéve, ha a hatóság a 22. § (3) bekezdése szerint járt el,
-- c) a határozatot a szakhatóság megkeresése nélkül vagy a szakhatóság jogszabályon alapuló állásfoglalásának figyelmen kívül hagyásával hozták meg,
+- c) a határozatot a szakhatóság kötelező megkeresése nélkül vagy a szakhatóság állásfoglalásának figyelmen kívül hagyásával hozták meg,
 - d) a közigazgatási döntés tartalmát bűncselekmény befolyásolta, feltéve hogy a bűncselekmény elkövetését jogerős ítélet megállapította vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
 - e) a döntést hozó testületi szerv nem volt jogszabályszerűen megalakítva, nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
 - f) a döntés tartalma a 109. § (3) és (4) bekezdésében foglalt rendelkezésekkel ellentétes.
@@ -2393,7 +2440,7 @@ teljesíti.
 
 157/A. § (1) Ha a hatáskörrel rendelkező illetékes hatóság mulasztása miatt a felügyeleti szerv más hatóságot jelöl ki az eljárás lefolytatására, a hatáskörrel rendelkező illetékes hatóság megtéríti a kijelölt hatóságnak az e törvény alapján az utóbbit terhelő egyéb eljárási költséget.
 
-(2) A belföldi jogsegély keretében a megkeresett szerv vagy más szerv eljárása során felmerült egyéb eljárási költséget a megkereső hatóság vagy más szerv megtéríti.
+(2) A belföldi jogsegély keretében a megkeresett szerv vagy személy eljárása során felmerült egyéb eljárási költséget a megkereső hatóság megtéríti.
 
 (3) A szakhatóság viseli a szakhatósági állásfoglalás módosításával okozott többletköltségeket, kivéve, ha a szakhatósági állásfoglalás módosítását jogszabályváltozás tette szükségessé.
 
@@ -2799,10 +2846,11 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
   - ka) a szabályozott elektronikus ügyintézési szolgáltatások elemeit saját ügyfelei számára nyújtó, illetve saját belső működése körében biztosító hatóság,
   - kb) a szabályozott elektronikus ügyintézési szolgáltatást más hatóság ügyfelei számára is nyújtó hatóság,
   - kc) a hatóságnak nem minősülő olyan személy, aki a szabályozott elektronikus ügyintézési szolgáltatást ügyfelek vagy hatóságok számára ingyenesen vagy ellenérték fejében elérhetővé teszi,
-- l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok,
+- l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, valamint a magántitok,
 - m) ügyintézési rendelkezés: az ügyfélnek az elektronikus ügyintézéssel kapcsolatos, jogszabályban meghatározott tartalmú, a jogszabályban rendszeresített űrlap szerinti formában tett és a jogszabályban kijelölt szerv (a továbbiakban: nyilvántartó szerv) által nyilvántartásba vett rendelkezése,
 - n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
-- o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
+- o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
+- p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy.
 
 ### Hatálybalépés
 

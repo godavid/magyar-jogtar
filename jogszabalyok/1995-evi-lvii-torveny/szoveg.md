@@ -359,6 +359,23 @@ alapján kell kiszámítania.
 
 (3) Az adózás rendjéről szóló 2003. évi XCII. törvény 165. §-a (3) bekezdése első fordulatában a pótlékfizetés kezdő napjának eltérő megállapítására a 171. § (1) bekezdésében, továbbá a 134. §-ban meghatározott, a fizetési kötelezettség mérséklésére, elengedésére vonatkozó szabályokat a vízügyi hatóság nem alkalmazhatja.
 
+### Mezőgazdasági vízszolgáltatási díj
+
+15/F. § (1) Aki mezőgazdasági célú vízszolgáltatást vesz igénybe, a mezőgazdasági vízszolgáltató részére mezőgazdasági vízszolgáltatási díjat fizet.
+
+(2) A mezőgazdasági vízszolgáltatási díjat a mezőgazdasági vízszolgáltató határozza meg.
+
+(3) A mezőgazdasági vízszolgáltatási díjat a rendelkezésre állást biztosító alapdíjból és a felhasznált vízmennyiséggel arányos díjból álló kéttényezős díjként, vízszolgáltatási idényre, időarányosan kell megállapítani.
+
+(4) A mezőgazdasági vízszolgáltatási díj mértékét úgy kell meghatározni, hogy:
+
+- a) fedezetet biztosítson a mezőgazdasági vízszolgáltatás folyamatos és hatékony működtetéséhez, hosszú távú fenntartásához,
+- b) hozzájáruljon a mezőgazdasági vízszolgáltatás biztonságos ellátásához,
+- c) ösztönözzön a mezőgazdasági vízszolgáltatás minimális költségszinten történő ellátására és
+- d) feleljen meg e törvény szerinti költségmegtérülés elvének.
+
+(5) A mezőgazdasági vízszolgáltatási díj megállapításának részletes szabályait a mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló kormányrendelet határozza meg.
+
 ### VI. Fejezet — A vizek kártételei elleni védelem és védekezés
 
 16. § (1) A vizek kártételei elleni védelem érdekében szükséges feladatok ellátása — a védőművek építése, fejlesztése, fenntartása, üzemeltetése, valamint a védekezés — az állam, a helyi önkormányzatok, illetve a károk megelőzésében vagy elhárításában érdekeltek kötelezettsége.
@@ -828,7 +845,8 @@ indokolja.
 - v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 - w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
 - x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok;
-- y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek
+- y) a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatási tevékenység végzési feltételeinek, az e tevékenységre jogosító bejelentés és a nyilvántartás tartalmi elemeire, a tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek, a közszolgáltatási bírság mértékének és megállapítása módjának, a közszolgáltatási szerződés tartalmának, valamint a közszolgáltatási díj megállapításának, a nyilvántartási és adatszolgáltatási kötelezettségnek;
+- y) a mezőgazdasági vízszolgáltatási díj megállapítása részletes szabályainak
 
 rendeletben történő megállapítására.
 
@@ -838,7 +856,7 @@ rendeletben történő megállapítására.
 - b) a vízgazdálkodási tanácsok összetételére és működésére vonatkozó szabályok;
 - c) a vízgazdálkodás országos és területi rendjének;
 - d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
-- e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel egyetértésben a mezőgazdasági vízszolgáltató művek üzemeltetésének
+- e) a mezőgazdasági vízszolgáltató művek üzemeltetésének
 - f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
 - g) a hasznosításba vonható vízkészleteknek — a vizek használatbavételének, illetve a vizek hasznosítási lehetőségének megőrzése céljából —;
 - h) az ivóvízminőség-javító program forrását szolgáló célelőirányzat terhére történő költségvetési támogatás mértékére és igénybevételére vonatkozó szabályok
@@ -929,6 +947,7 @@ E törvény alkalmazásában
 - 38. begyűjtés: a nem közművel összegyűjtött háztartási szennyvíznek az ingatlan tulajdonosától, vagyonkezelőjétől, birtokosától vagy használójától történő átvétele, elszállítása és ártalmatlanítás céljából történő átadása.
 - 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
 - 40. mederhasználati vízilétesítmény: a nemzeti vagyonba tartozó vizek medrében elhelyezett kikötői lekötőmű, móló – az úszó móló kivételével –, sólyapálya, partvédő művek, hullámtörő, energiatörő.
+- 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

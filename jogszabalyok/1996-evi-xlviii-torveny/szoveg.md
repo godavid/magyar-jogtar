@@ -71,7 +71,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 - d) a közraktár üzletszabályzatának tervezetét, ideértve az általános szerződési feltételeket is;
 - e) zálogkölcsönnyújtás esetén a kölcsönnyújtással kapcsolatos szabályzatokat, ideértve a fedezetek minősítésére, illetőleg értékelésére vonatkozó szabályzatot;
 - f) a használni kívánt közraktári jegy, letéti könyv (letéti szelvény) nyomtatványainak mintáját;
-- g) a közraktárban tulajdoni részesedéssel rendelkező személyek azonosító, illetve cégjogi adatait, az azokat igazoló okiratokat, ideértve az állampolgárságra, devizajogi státuszra vonatkozó tájékoztatást;
+- g) a közraktárban tulajdoni részesedéssel rendelkező személyek azonosító adatait (ideértve az állampolgárságra, devizajogi státuszra vonatkozó tájékoztatást is), valamint az azokat igazoló okiratokat, illetve ha ezen személy a cégjegyzékben nyilvántartott cég, akkor a cég nevét és cégjegyzékszámát;
 - h) a közraktár vezetőinek szakmai képesítésére, állampolgárságára és alkalmazására vonatkozó okiratokat;
 - i)
 - j)
@@ -80,7 +80,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (3) A kérelmező a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges közraktári engedélyt kaphat, ha
 
-- a) igazolja a részvénytársaság létesítésével kapcsolatos adatokat, a cég raktározás és tárolás besorolású főtevékenységét, záloghitelnyújtás esetén az egyéb hitelnyújtás-besorolást,
+- a) részvénytársaság létesítésével kapcsolatos adatok alapján a cég raktározás és tárolás besorolású főtevékenységet, záloghitelnyújtás esetén egyéb hitelnyújtás besorolású tevékenységet folytat,
 - b) a részvénytársaság ellen nem indult csőd- vagy felszámolási eljárás,
 - c) rendelkezik a közraktár tárolási, raktározási tevékenységéhez használt saját raktára működéséhez szükséges telepengedéllyel vagy bejelentéskötelezettség alá tartozó tevékenység esetében a nyilvántartásba vétel igazolásával, valamint
 - d) a részvénytársaságnak és az igazgatóság tagjainak belföldön köztartozása nincs,
@@ -92,7 +92,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba jogerősen bejegyezték.
 
-(5) Ha a kérelmező a (3) bekezdés a)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés a)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel az 5. § (3) bekezdés e) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -125,8 +125,8 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (2) A kérelmező a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedélyt akkor kaphat, ha
 
-- a) igazolja a külföldi vállalkozás fióktelepének a magyar cégbíróság általi cégnyilvántartásba történő bejegyzését,
-- b) igazolja a fióktelep cégjegyzékszámát, adószámát,
+- a) a külföldi vállalkozás fióktelepének a magyar cégbíróság általi cégnyilvántartásba történő bejegyzése megtörtént,
+- b) nyilatkozatban igazolja a fióktelep cégjegyzékszámát, adószámát,
 - c) rendelkezik a közraktár tárolási, raktározási tevékenységéhez használt saját raktára működéséhez szükséges telepengedéllyel vagy bejelentéskötelezettség alá tartozó tevékenység esetében a nyilvántartásba vétel igazolásával,
 - d) a fióktelep ellen nem indult csőd- vagy felszámolási eljárás, valamint
 - e) a fióktelep vezetőjének (vezetőinek) nincs köztartozása,
@@ -136,7 +136,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
   - fc) nem áll a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt,
   - fd) nem áll az fb) alpontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt.
 
-(3) Ha a kérelmező a (2) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(3) Ha a kérelmező a (2) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A (2) bekezdés a) és b) pont igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (4) A fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a fióktelep vezetője hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel az 5/B. § (2) bekezdés f) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -222,10 +222,10 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (7) Ha a kérelmező gazdasági társaság, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha
 
-- a) igazolja a cégjogi adatait, cégjegyzékszámát, adószámát és
+- a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és
 - b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(8) Ha a kérelmező a (7) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (7) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
 
 (9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.
 

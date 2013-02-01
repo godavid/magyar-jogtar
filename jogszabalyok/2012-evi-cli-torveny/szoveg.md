@@ -14,7 +14,9 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 7–8. §
 
-9. §
+9. § A Hpt. 101. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Alap a kártalanításra jogosult személy részére a befagyott betétből, valamint azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.”
 
 10–16. §
 

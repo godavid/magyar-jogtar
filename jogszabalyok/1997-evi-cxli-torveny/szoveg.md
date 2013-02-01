@@ -448,11 +448,17 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 kell csatolnia.
 
+(3a) Ha cégjegyzékbe bejegyzett cég a nevét és cégjegyzékszámát tartalmazó bejegyzési kérelemhez nem csatolja a (3) bekezdés a) pontjában meghatározott okirat valamelyikét és az (5) bekezdés szerint nem hivatkozik az adatok változatlanságára sem, az ingatlanügyi hatóság a cégkivonatot a cégnyilvántartásból elektronikus úton szerzi meg.
+
+(3b) Ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás mintája a cégbírósághoz benyújtásra került és ezt a tényt a cégjegyzék tartalmazza, a (3) bekezdés b) pontjában meghatározott okiratot az ingatlanügyi hatóság a cégbíróságtól elektronikus úton, közvetlen lekérdezéssel szerzi meg, ha azt a cég a bejegyzési kérelméhez nem csatolta és az adatok változatlanságára az (5) bekezdés szerint nem hivatkozott.
+
+(3c) Az ingatlanügyi hatóság az elektronikus úton lekérdezett okiratokat – a szabályozott elektronikus ügyintézési szolgáltatás szabályai szerint – hiteles papír alapú irattá alakítja és azokat a továbbiakban ebben a formában őrzi meg.
+
 (4) A (3) bekezdéstől eltérően az egyháznak és az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személynek a bejegyzési kérelemhez csatolnia kell a nyilvántartásba vétel megtörténtét, valamint a képviseleti jogosultságot igazoló, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által – a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény (a továbbiakban: Ehtv.) szerint vezetett nyilvántartásból – kiállított hatósági bizonyítvány 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített másolati példányát, valamint a képviseletére jogosult aláírási címpéldányát vagy az aláírási címpéldányának a hatósági bizonyítvány kiállítására jogosult által hitelesített másolatát.
 
 (4a) Az Ehtv. szerint nyilvántartásba nem vett, az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személy bejegyzési kérelméhez csatolnia kell a felettes egyházi szerv nyilvántartásba vételéről szóló hatósági bizonyítványt, a felettes egyházi szerv képviseletére jogosult aláírási címpéldányát vagy az aláírási címpéldányának a hatósági bizonyítvány kiállítására jogosult által hitelesített másolatát, valamint a kérelmező belső egyházi jogi személyiségéről a felettes egyházi szerv által kiállított 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített igazolást.
 
-(5) Ha a (3) és (4) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, az újabb kérelemben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés, illetve az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
+(5) Ha a (3) és (4) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, vagy azokat az ingatlanügyi hatóság – a (3a) vagy (3b) bekezdés alapján – korábban már beszerezte, az újabb kérelemben – az iktatószámra való hivatkozással – elegendő a korábbi benyújtásra, beszerzésre és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés és az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
 
 38. §
 
@@ -988,5 +994,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 (9) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2005. évi CXXII. törvény erejénél fogva a tartós földhasználók tulajdonába került ingatlanok tulajdonjogát a tartós földhasználó kérelmére kell az ingatlan-nyilvántartásba bejegyezni.
 
 (10) Az e törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 37. § (3) és (5) bekezdését az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvény hatálybalépésének időpontjában folyamatban lévő ügyekben is alkalmazni kell.
+
+(11) E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel megállapított 37. § (3a)–(3c) és (5) bekezdését a 2013. február 1-jén és az azt követően benyújtott bejegyzési kérelmekre kell alkalmazni.
 
 92. § Az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvény (a továbbiakban: 2. sz. Módtv.) 38. § a) pontjával módosított 15. § (1) bekezdés szerinti állampolgársági adat, valamint a 38. § b) pontjával módosított 15. § (1) bekezdés szerinti cégjegyzékszám nyilvántartására vonatkozó rendelkezéseket a 2. sz. Módtv. 38. §-ának hatálybalépését követően indult ingatlan-nyilvántartási eljárások során keletkezett adatok vonatkozásában kell alkalmazni.

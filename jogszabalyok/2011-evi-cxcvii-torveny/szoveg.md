@@ -166,13 +166,21 @@ a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX.
 
 99 – 108. §
 
-109. § (1)
+109. § (1) A Ctv. 24. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(A cégjegyzék valamennyi cég esetében tartalmazza)
+
+„e) a cég főtevékenységét, valamint további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,”
 
 (2)
 
 (3)
 
-(4) 110 – 112. §
+(4) A Ctv. 24. §-a a következő (4b) bekezdéssel egészül ki:
+
+„(4b) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységének és további tevékenységi köreinek változásait, a mindenkor hatályos TEÁOR nómenklatúra szerinti megjelöléssel. Az adat bejegyzése és közzététele automatikusan történik meg.”
+
+110 – 112. §
 
 113. § (1)
 
@@ -201,14 +209,14 @@ a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX.
 141. § Hatályát veszti a Ctv.
 
 - a)
-- b)
+- b) 27. § (6) bekezdés b) pontja,
 - c)
 - d)
 - e)
 - f)
 - g)
 - h)
-- i)
+- i) 131. §-a,
 - j)
 - k)
 

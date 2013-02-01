@@ -209,7 +209,7 @@ Stt.8/A. § (1) A jogi személynek, valamint a gazdasági tevékenységet folyta
 
 (4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal), a cégbírósággal, valamint az állami adóhatósággal a (2) bekezdés a) és b) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés c) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.
 
-(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a járási hivatalhoz illetve a cégbírósághoz nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
+(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a járási hivatalhoz, illetve a cégbírósághoz nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
 
 Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valóságnak megfelelő tartalommal, megszabott határidőben és meghatározott módon, térítésmentesen köteles szolgáltatni.
 
@@ -219,16 +219,19 @@ Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valós�
 
 (4) Az ellenőrzés során figyelemmel kell lenni az ellenőrzött szerv munkájára. Az ellenőrzést úgy kell megszervezni, hogy az a folyamatos működést ne akadályozza.
 
-Stt.9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a természetes személyt, jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, aki vagy amely
+Stt.9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
+
+(2) A közigazgatási bírság összege 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.
+
+Stt.9/B. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
 
 - a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
-- b) gondatlanul a valóságnak nem megfelelő adatot szolgáltat,
-- c) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
-- d) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
-- e) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
-- f) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
+- b) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
+- c) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
+- d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
+- e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
 
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–c) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
+(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
 Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítéséért a jegyző (főjegyző, körjegyző) a felelős.
 
