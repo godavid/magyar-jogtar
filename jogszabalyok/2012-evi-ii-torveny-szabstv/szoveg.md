@@ -411,7 +411,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (3) A (2) bekezdés szerint eljárva
 
 - a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
-- b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a vámszabálysértéseket;
+- b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, valamint a pénzügyi és kereskedelmi szabálysértéseket;
 - c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
@@ -1987,6 +1987,10 @@ szabálysértést követ el.
 
 (2) Szabálysértés az is, ha a hamis bejelentés alapján a hatóság vagy a közfeladatot ellátó szerv szükségtelenül a bejelentésben megjelölt helyszínre vonul vagy egyéb intézkedésre kényszerül.
 
+#### 130/A. Hivatalos személy által elkövetett hamis statisztikai adatszolgáltatás
+
+175/A. § Az a vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy, aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.
+
 #### 131. Járművezetés az eltiltás tartama alatt
 
 176. § Az a járművezetéstől eltiltott személy, aki a járművezetéstől eltiltás hatálya alatt annak érvényesülési körébe tartozó járművet vezet, szabálysértést követ el.
@@ -2003,7 +2007,9 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (2) Aki idegen, nem gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, szabálysértést követ el.
 
-(3) Aki a kulturális örökség védett elemeit, az államhatár, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos, vagy földmérési jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
+(2a) Aki földmérési jelet vagy az államhatár megjelölésére szolgáló jelet elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
+
+(3) Aki a kulturális örökség védett elemeit, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
 (4) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt az erdészeti hatóság arra felhatalmazott ügyintézője, a halászati őr, valamint a mezőőr, a természeti és védett természeti területeken a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
 
@@ -2143,15 +2149,9 @@ szabálysértést követ el.
 
 #### 146. Közerkölcs megsértése
 
-192. § (1) Aki a közterületen, vagy nyilvános helyen, vagy közforgalmú közlekedési eszközön a közerkölcsbe ütköző magatartást tanúsít, szabálysértést követ el.
+192. § (1) Aki a közterületen, nyilvános helyen vagy közforgalmú közlekedési eszközön a közerkölcsbe ütköző magatartást tanúsít, szabálysértést követ el.
 
-(2) Aki szexuális árut mások számára észlelhető módon, közterületen vagy kirakatban elhelyez, vagy a szexuális áruk forgalmazására vonatkozó előírásokat egyéb módon megszegi, szabálysértést követ el.
-
-(3) Aki erőszakot öncélúan bemutató reklámot tesz közzé, szabálysértést követ el.
-
-(4) A (3) bekezdés alkalmazásában öncélú a bemutatás, ha az erőszak bemutatását a reklám tárgya vagy témája nem teszi feltétlenül indokolttá.
-
-(5) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.
 
 #### 147. Veszélyeztetés kutyával
 
@@ -2317,6 +2317,18 @@ szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
+#### 160/A. Közérdekű bejelentő üldözése
+
+206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+
+#### 160/B. Hamis statisztikai adatszolgáltatás
+
+206/B. § (1) Aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.
+
+(2) Az (1) bekezdésben foglalt szabálysértés nem valósul meg, ha azt vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy követi el.
+
 #### 161. Személyazonosság igazolásával kapcsolatos kötelességek megszegése
 
 207. § (1) Aki személyazonosító igazolványra vonatkozó jogszabályban előírt kötelezettségét megszegi, az igazoltatásra feljogosított személy felszólítására személyi adatainak bemondását vagy a személyazonosság igazolására alkalmas hatósági igazolvány átadását megtagadja, vagy az említett adatokra vonatkozólag az intézkedés során valótlant állít, szabálysértést követ el.
@@ -2331,7 +2343,11 @@ szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-### XXV. Fejezet — A VÁMSZABÁLYSÉRTÉSEK
+#### 162/A. Sajtórendészeti szabálysértés
+
+208/A. § Aki olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, szabálysértést követ el.
+
+### XXV. Fejezet — A PÉNZÜGYI ÉS KERESKEDELMI SZABÁLYSÉRTÉSEK
 
 #### 163. Vámszabálysértés
 
@@ -2517,7 +2533,7 @@ ha ezzel a légi közlekedés biztonságát nem veszélyezteti, szabálysértés
 
 #### 186. Árdrágítás
 
-232. § Aki áruért a hatósági árnál vagy a reá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, feltéve, hogy az áru értéke a százezer forintot nem haladja meg, vagy ötvenezer forintot meg nem haladó nyereség elérése végett követi el, szabálysértést követ el.
+232. § Aki áruért a hatósági árnál vagy a rá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, szabálysértést követ el.
 
 #### 187. Árak megállapításának, közlésének és feltüntetésének elmulasztása
 
@@ -2548,13 +2564,15 @@ szabálysértést követ el.
 236. § (1) Aki
 
 - a) rossz minőségű terméket jó minőségű termékként előállít, értékesít, használatba ad, illetve forgalomba hoz, vagy ezek iránt intézkedik,
-- b) a termék minőségének megállapítására vonatkozó szabályokat megszegi és ezzel lehetővé teszi, hogy a terméket a valóságosnál jobb minőségűként értékesítsék, adjanak használatba, illetve hozzanak forgalomba, feltéve, hogy a termék értéke a százezer forintot nem haladja meg, szabálysértést követ el.
+- b) szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
 #### 191. Vásárlók megkárosítása
 
-237. § Aki az árunak közvetlenül a fogyasztók részére történő forgalomba hozatala során hamis méréssel, számolással vagy az áru minőségének megrontásával a vásárlót megkárosítja, szabálysértést követ el.
+237. § (1) Aki az árunak közvetlenül a fogyasztók részére történő forgalomba hozatala során hamis méréssel, számolással vagy az áru minőségének megrontásával a vásárlót megkárosítja, szabálysértést követ el.
+
+(2) Aki az (1) bekezdésben felsorolt cselekményeket gazdasági jellegű szolgáltatás során a megrendelők sérelmére követi el, szabálysértést követ el.
 
 #### 192. Élelmiszer engedély nélküli előállítása, forgalomba hozatala
 
@@ -2700,7 +2718,7 @@ szabálysértést követ el.
 - h) a szabálysértési statisztikai adatgyűjtés, adatfeldolgozás és adatszolgáltatás,
 - i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok részletes szabályait rendeletben szabályozza.
 
-(3) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a vámszabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
 
 #### 205. Hatálybalépés
 

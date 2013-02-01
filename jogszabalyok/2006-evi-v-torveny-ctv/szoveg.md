@@ -202,6 +202,8 @@ megismerhetők.
 
 (3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – az (1) bekezdésben nem említett cégadatokra és a (3a) bekezdésben foglaltakra is kiterjedően – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez.
 
+(3a) Ha a közigazgatási szerv előtti, kérelemre induló hatósági eljárásban a kérelem elbírálásához annak hatóság általi megismerése szükséges, a közigazgatási hatóság a közigazgatási hatósági eljárás szabályai szerint, a céginformációs szolgálaton keresztül, elektronikus úton, közvetlen lekérdezéssel szerzi be a cég – közokirati vagy nem közokirati formában rendelkezésre bocsátott – cégkivonatát, valamint a cégjegyzésre jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját, ha az a cégbejegyzési (változásbejegyzési) eljárásban benyújtásra került és ezt a tényt a cégjegyzék tartalmazza. A közigazgatási szerv hatósági eljárásában a céget ezen iratok csatolására nem kötelezheti. E bekezdésben foglalt rendelkezések nem vonatkoznak arra az esetre, ha a közigazgatási szerv a kérelem tárgyában azonnal dönt.
+
 (4) A céginformációs szolgálat működésének részletes szabályait, valamint a fizetendő költségtérítés mértékét az igazságügyért felelős miniszter rendeletben állapítja meg.
 
 16. § (1) A cégnyilvántartásban szereplő elektronikus okiratokról a cégbíróságtól illeték ellenében, illetve a céginformációs szolgálattól – külön jogszabályban meghatározott költségtérítés ellenében – hiteles vagy nem hiteles papíralapú másolat kérhető. Ha a kérelemből más nem következik, a cégbíróság, illetve a céginformációs szolgálat – a kérelem érkezésétől számított tizenöt napon belül – az okirat hiteles másolatát adja ki.
@@ -345,7 +347,7 @@ megismerhetők.
 - b) a cég nevét,
 - c) a cég székhelyét, valamint ha a cég székhelye nem azonos a központi ügyintézés helyével, a központi ügyintézés helyét.
 - d) a létesítő okirat keltét,
-- e) a cég létesítő okiratban meghatározott tevékenységi köreit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
+- e) a cég főtevékenységét, valamint további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével,
 - f) a cég jegyzett tőkéjét,
 - g) a képviselet módját (önálló vagy együttes),
 - h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
@@ -361,6 +363,8 @@ megismerhetők.
 (4) Szövetkezet, európai szövetkezet, európai gazdasági egyesülés, külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi kereskedelmi képviselete esetében a jegyzett tőke (illetve a jegyzett tőkeként bejegyzett összeg) változását – a változások számától függetlenül – évente legalább egy alkalommal kötelező a cégbíróságnak bejegyzés és közzététel végett bejelenteni.
 
 (4a) A bejegyzési kérelem benyújtásakor a cég köteles megjelölni főtevékenységét és további tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. A cégbíróság a cég bejegyzésekor elektronikus úton értesíti az állami adóhatóságot a cég főtevékenységéről és további tevékenységi köreiről.
+
+(4b) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységének és további tevékenységi köreinek változásait, a mindenkor hatályos TEÁOR nómenklatúra szerinti megjelöléssel. Az adat bejegyzése és közzététele automatikusan történik meg.
 
 (5) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
@@ -478,7 +482,7 @@ megismerhetők.
 (6) Egyéni cég esetén
 
 - a) a cégtulajdonos nevét, lakóhelyét, születési idejét és anyja születési nevét,
-- b) az egyéni cég tagjának korlátolt vagy korlátlan felelősségét, korlátolt felelősség esetén a pótbefizetés összegét;
+- b)
 - c) azt a tényt, ha az egyéni cég tagja vagy vezető tisztségviselője az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 20. § (7) bekezdésében foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét.
 
 (7)
@@ -1653,9 +1657,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
-131. § (1) Amennyiben a cég az állami adóhatósághoz főtevékenységének, illetve tevékenységi köreinek változását jelentette be, a cégbíróság az állami adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. Az adat bejegyzése és közzététele automatikusan történik meg.
-
-(2) Amennyiben a Módtv. 109. § (4) bekezdésének hatálybalépését követően a cég főtevékenységének vagy további tevékenységi köreinek módosítására 2012. december 31-ig nem került sor, az állami adóhatóság 2013. január 31-ig a nyilvántartásában szereplő adatok alapján elektronikus úton közli, és a cégbíróság hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével.
+#### 131. §
 
 131/A. § (1) A Módtv. 136. §-ának hatálybalépésekor folyamatban lévő kényszer-végelszámolásokban és a 2006. július 1-jén folyamatban lévő, be nem fejezett végelszámolásokban, – amennyiben a cégbíróság még nem kezdeményezett felszámolási eljárást – a végelszámoló 2013. január 1-jéig
 

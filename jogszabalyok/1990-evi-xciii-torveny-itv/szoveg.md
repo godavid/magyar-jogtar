@@ -1413,7 +1413,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 ### Adó- és értékbizonyítvány
 
-101. § Az ingatlan fekvése szerint illetékes települési önkormányzat jegyzője által kiállított adó- és értékbizonyítvány tartalmazza az ingatlan és az ingatlanszerzők (tulajdonosok) adatait, az érték megállapításánál figyelembe vett tényezőket, továbbá az ingatlannak az adott időpontban fennálló forgalmi értékét.
+101. § Az ingatlan fekvése szerint illetékes települési önkormányzat jegyzője által kiállított adó- és értékbizonyítvány tartalmazza az ingatlan és az ingatlanszerzők (tulajdonosok) adatait, az érték megállapításánál figyelembe vett tényezőket, továbbá az ingatlannak az adott időpontban fennálló forgalmi értékét. Az adó- és értékbizonyítvány kiállítására irányuló eljárásban az ügyintézési határidő 8 nap.
 
 ### Értelmező rendelkezések
 
