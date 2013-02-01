@@ -2331,14 +2331,11 @@ tisztasága elleni bűncselekmények
 
 ### Sajtórendészeti vétség
 
-213. § Aki
-
-- a)
-- b) olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, vétséget követ el, és pénzbüntetéssel büntetendő.
+#### 213. §
 
 ### Beutazási és tartózkodási tilalom megsértése
 
-214. § Az a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt álló külföldi, aki külön engedély nélkül tartózkodik Magyarország területén, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
+#### 214. §
 
 ### Jogellenes tartózkodás elősegítése
 
@@ -2368,7 +2365,7 @@ tisztasága elleni bűncselekmények
 
 ### Földmérési jel megrongálása
 
-215. § Aki földmérési jelet megsemmisít, megrongál vagy elmozdít, vétséget követ el, és pénzbüntetéssel büntetendő.
+#### 215. §
 
 ### Műemlék megrongálása
 
@@ -2431,7 +2428,7 @@ követik el.
 
 ### Határjelrongálás
 
-220. § Aki az államhatár megjelölésére szolgáló jelet megsemmisíti, megrongálja vagy elmozdítja, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
+#### 220. §
 
 ### III. CÍM — Visszaélés minősített adattal
 
@@ -2843,7 +2840,7 @@ büntetendő.
 
 ### Közérdekű bejelentő üldözése
 
-257. § Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
+#### 257. §
 
 ### Elévülés
 
@@ -3284,7 +3281,7 @@ követik el.
 
 ### Közszemérem megsértése
 
-272. § Aki a szexuális termékek forgalmazásával kapcsolatos előírásokat súlyosan megszegi, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
+#### 272. §
 
 ### Önbíráskodás
 
@@ -3331,7 +3328,7 @@ követik el.
 
 ### Visszaélés okirattal
 
-277. § (1) Aki olyan közokiratot, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul megszerez, vagy azt megsemmisíti, megrongálja vagy eltitkolja, vétséget követ el és két évig terjedő szabadságvesztéssel büntetendő.
+277. § (1) Aki egy vagy több olyan közokiratot, amely nem vagy nem kizárólag a sajátja, mástól, annak beleegyezése nélkül, jogtalanul megszerez, megsemmisít, megrongál vagy mástól jogtalanul elvesz, vagy a jogosult elől jogtalanul eltitkol, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetnedő.
 
 (2) Aki az (1) bekezdésben meghatározott cselekményt magánokiratra azért követi el, hogy jogtalan előnyt szerezzen vagy jogtalan hátrányt okozzon, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3355,7 +3352,7 @@ követik el.
 
 ### Hamis statisztikai adatszolgáltatás
 
-278. § Aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, avagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, vétséget követ el és egy évig terjedő szabadságvesztéssel büntetendő.
+#### 278. §
 
 ### IV. CÍM — A közegészség elleni bűncselekmények
 
@@ -3665,7 +3662,7 @@ vagyonát ténylegesen vagy színleg csökkenti, és ezzel hitelezőjének vagy 
 
 (4) Aki az (1)–(2) bekezdésben meghatározott rossz minőségű termék forgalomba hozatalára irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-293. § Aki a termék minőségének megállapítására vonatkozó szabályokat megszegi, és ezzel lehetővé teszi, hogy a terméket a valóságosnál jobb minőségűként értékesítsenek, adjanak használatba, illetőleg hozzanak forgalomba, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+#### 293. §
 
 294. § (1) A kötelezően alkalmazandó nemzeti szabvány hatálya alá tartozó termék akkor rossz minőségű, ha a szabványban meghatározott legalacsonyabb minőségi követelményeknek sem felel meg.
 
@@ -3711,7 +3708,7 @@ vagyonát ténylegesen vagy színleg csökkenti, és ezzel hitelezőjének vagy 
 
 ### Hitelezési csalás
 
-297/A. § Aki gazdasági tevékenység gyakorlásához folyósítandó hitel nyújtásának, megszüntetésének vagy a hitelfeltételek megváltoztatásának kedvező elbírálása érdekében valótlan tartalmú okiratot használ fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+#### 297/A. §
 
 ### Engedély nélküli külkereskedelmi tevékenység
 
@@ -3719,10 +3716,7 @@ vagyonát ténylegesen vagy színleg csökkenti, és ezzel hitelezőjének vagy 
 
 ### Gazdálkodó szervezet vezető állású személyének visszaélése
 
-298/A. § A gazdálkodó szervezet vezető állású személye, aki
-
-- a) a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személyéről e tevékenységével összefüggésben, illetve a gazdálkodó szervezetre vonatkozóan pénzügyi eszközről valótlan adat közlésével vagy híresztelésével, illetve adat elhallgatásával,
-- b) pénzügyi eszközre vonatkozó színlelt ügylet kötésével a gazdálkodó szervezet tagját vagy tagjait megtéveszti, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
+#### 298/A. §
 
 ### Saját tőke csorbítása
 
@@ -3860,20 +3854,7 @@ is érteni kell.
 
 ### Árdrágítás
 
-301. § (1) Aki áruért a hatósági árnál vagy a reá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha az árdrágítást
-
-- a) üzletszerűen,
-- b) bűnszövetségben,
-- c)
-- d) jelentős mértékű nyereség elérése végett követik el.
-
-(3)
-
-(4) Aki a bűncselekményt gondatlanságból követi el, vétség miatt pénzbüntetéssel büntetendő.
-
-302. § A 301. § (1) bekezdése szerint árdrágítás az is, ha az áruért a tényleges minőségnél jobb minőségű áru hatósági árának megfelelő árat kérnek, kötnek ki vagy fogadnak el.
+#### 301–302. §
 
 ### Pénzmosás
 
@@ -4137,10 +4118,8 @@ meghatározott módon követik el.
 
 (7) Aki
 
-- a) olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul megszerez,
-- b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
-
-vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
+- a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
+- b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (8) A (2)–(7) bekezdés szerint büntetendő az is, aki a készpénz-helyettesítő fizetési eszközzel visszaélést valamely gazdálkodó szervezet által kibocsátott olyan kártyára követi el, amely a kibocsátó áruja árának kiegyenlítésére alkalmas.
 
@@ -4156,7 +4135,7 @@ vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A 310. § alkalmazásában vagyoni hátrány alatt érteni kell a költségvetésbe történő befizetési kötelezettség nem teljesítése miatt bekövetkezett bevételkiesést, valamint a költségvetésből jogosulatlanul igénybe vett vagy céltól eltérően felhasznált pénzeszközt is.
 
-(3) A 313/B–313/D. § alkalmazásában készpénz-helyettesítő fizetési eszközön a jogszabályban meghatározott készpénz-helyettesítő fizetési eszközt, valamint az utazási csekket és a váltót kell érteni, feltéve, hogy az a másolással, hamisítással vagy jogosulatlan felhasználással szemben védett. A külföldön kibocsátott készpénz-helyettesítő fizetési eszköz a belföldön kibocsátott készpénz-helyettesítő fizetési eszközzel azonos védelemben részesül.
+(3) A 313/B–313/D. § alkalmazásában készpénz-helyettesítő fizetési eszközön a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszközt, illetve a kincstári kártyát, az utazási csekket, a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott utalványt és a váltót kell érteni, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett. A külföldön kibocsátott készpénz-helyettesítő fizetési eszköz a belföldön kibocsátott készpénz-helyettesítő fizetési eszközzel azonos védelemben részesül.
 
 ### IV. CÍM — Vegyes rendelkezések
 
@@ -4180,7 +4159,7 @@ vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
 - b) közveszély színhelyén,
 - c) üzletszerűen,
 - d) dolog elleni erőszakkal – ideértve azt is, ha a dolog eltulajdonításának megakadályozására szolgáló eszközt állagsérelem okozása nélkül eltávolítják, vagy a dolog eltulajdonításának megakadályozására alkalmatlanná teszik –,
-- e)
+- e) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével
 - f) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel vagy a jogosult (használó) tudta és beleegyezése nélkül bemenve,
 - g) hamis vagy lopott kulcs használatával,
 - h) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére,
@@ -4194,19 +4173,19 @@ követik el.
 (4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
 
 - a) a lopást nagyobb értékre,
-- b) a kisebb értékre elkövetett lopást 1. a (2) bekezdés a)–d) pontjában meghatározott módon, 2. kulturális javak körébe tartozó tárgyra, 3. vallási tisztelet tárgyára, illetőleg vallási szertartásra vagy más egyházi célra rendelt helyiségből a vallási szertartás végzésére szolgáló tárgyra, 4. temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt vagy holttesten lévő tárgyra, 5. nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra
+- b) a kisebb értékre elkövetett lopást 1. a (2) bekezdés a)–e) pontjában meghatározott módon, 2. kulturális javak körébe tartozó tárgyra, 3. vallási tisztelet tárgyára, illetőleg vallási szertartásra vagy más egyházi célra rendelt helyiségből a vallási szertartás végzésére szolgáló tárgyra, 4. temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt vagy holttesten lévő tárgyra, 5. nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra
 
 követik el.
 
 (5) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
 
 - a) a lopást jelentős értékre,
-- b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon követik el.
+- b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon követik el.
 
 (6) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 
 - a) a lopást különösen nagy értékre,
-- b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon,
+- b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
 - c)
 
 követik el.
@@ -4214,7 +4193,7 @@ követik el.
 (7) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a
 
 - a) a lopást különösen jelentős értékre,
-- b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–d) pontjában meghatározott módon,
+- b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon
 - c)
 
 követik el.
@@ -4466,17 +4445,7 @@ követik el.
 
 ### Vásárlók megkárosítása
 
-328. § (1) Aki árunak közvetlenül a fogyasztók részére forgalomba hozatala során
-
-- a) hamis méréssel vagy számolással;
-- b)
-- c) az áru minőségének megrontásával
-
-a vásárlókat megkárosító tevékenységet folytat, ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az (1) bekezdés szerint büntetendő az is, aki az ott felsorolt cselekményeket gazdasági jellegű szolgáltatás során a megrendelők sérelmére követi el.
-
-(3) Bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő, aki a vásárlók megkárosítását üzletszerűen követi el.
+#### 328. §
 
 ### Bitorlás
 
@@ -4609,24 +4578,17 @@ követik el.
 
 ### Kibúvás a polgári szolgálat alól
 
-336/A. § (1) Az a polgári szolgálat teljesítésére engedélyt kapott személy, aki megjelenési kötelezettségének nem tesz eleget, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Ha az (1) bekezdésben meghatározott személy abból a célból, hogy a polgári szolgálat teljesítése alól végleg kivonja magát,
-
-- a) jelentkezési vagy megjelenési kötelezettségének nem tesz eleget, ebből a célból testét megcsonkítja, egészségét károsítja, vagy megtévesztő magatartást tanúsít, egy évtől öt évig,
-- b) engedély nélkül külföldre távozik vagy tartósan külföldön marad, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
-
-(3) Aki az (1) bekezdésben meghatározott bűncselekményt azért követi el, hogy polgári szolgálatának teljesítése alól ideiglenesen kivonja magát, bűntett miatt három évig, ha az ideiglenes kivonás tartama meghaladja a hat napot, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+#### 336/A. §
 
 ### A polgári szolgálat megtagadása
 
-336/B. § Az a polgári szolgálat teljesítésére engedélyt kapott személy, aki a polgári szolgálat teljesítését megtagadja, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+#### 336/B. §
 
 #### 336/C. §
 
 ### Jelentkezési kötelezettség elmulasztása
 
-337. § Az a hadköteles, aki megjelenési kötelezettségének nem tesz eleget, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+#### 337. §
 
 ### Hadkötelezettség teljesítésének
 

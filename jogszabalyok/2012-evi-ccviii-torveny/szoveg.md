@@ -52,11 +52,26 @@ egyes törvényeknek a központi költségvetésről szóló törvény megalapoz
 
 #### 10. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-19. § (1)–(2)
+19. § (1) A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 11. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő c) ponttal egészül ki:
+
+(Fogadó intézmény, illetve annak fenntartója esetén a bejelentéshez mellékelni kell annak igazolását, hogy a fogadó intézmény jogszerűen működik, továbbá, ha a fogadó intézmény, illetve annak fenntartója)
+
+„b) egyéni vállalkozó, az egyéni vállalkozókról vezetett nyilvántartásba történő bejegyzés igazolását,
+
+c) cégjegyzékben nyilvántartott cég, a nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát.”
+
+(2) A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 11. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A cégjegyzékben nyilvántartott fogadó intézmény, illetve a fenntartója cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.”
 
 (3)
 
-20–21. §
+20. § A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény 11. § (3) bekezdés c) pontjában a „bíróság” szövegrész helyébe a „szerv” szöveg lép.
+
+21. § Hatályát veszti a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény
+
+- a) 11. § (4) bekezdés a) pontjában az „egyházi jogi személy, gazdasági társaság vagy egyéni cég,” szövegrész,
+- b) 11. § (5) bekezdésében a „bírósági” szövegrész.
 
 #### 11. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
@@ -157,7 +172,15 @@ lép.
 
 39. § (1)
 
-(2)–(3)
+(2) A Tao. tv. 4. § 38. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„38. az előadó-művészeti államigazgatási szerv által kiadott támogatási igazolás: az előadó-művészeti államigazgatási szerv által az előadó-művészeti szervezet támogatója részére kiadott, a támogatást nyújtó adózó megnevezését, székhelyét, adószámát és a kedvezményre jogosító támogatás összegét tartalmazó okirat, amely tekintetében az egy előadó-művészeti szervezethez kapcsolódó, tárgyévre vonatkozóan kiadott kedvezményre jogosító támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.”
+
+(3) A Tao. tv. a következő 29/T. §-sal egészül ki:
+
+„29/T. § E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 4. § 38. pontja alkalmazása során a támogatott szerv úgy jár el, hogy a 2013. évi adóévről kiállított támogatási igazolások összértéke ne haladja meg az előadó-művészeti szervezet EGT-tagállamban 2012. évben tartott előadásaiból származó jegybevétele 80%-át.”
 
 #### 20. A számvitelről szóló 2000. évi C. törvény módosítása
 
@@ -176,7 +199,13 @@ lép.
 
 #### 22. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-43. § (1)
+43. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 172. §-a a következő (20g) bekezdéssel egészül ki:
+
+„(20g) Az állami adóhatóság a 176/F. § szerinti ellenőrzés során
+
+a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
+
+b) a pénztárgép, taxaméter forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek egyéb módon történő megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.”
 
 (2)–(4)
 
@@ -221,13 +250,27 @@ lép.
 
 #### 27. A biztosítási adóról szóló 2012. évi CII. törvény módosítása
 
-52. §
+52. § A biztosítási adóról szóló 2012. évi CII. törvény 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdésben foglaltaktól eltérően azon adóalany esetében, amelynek az adóelszámolás hónapját közvetlenül megelőző naptári évben az összesített adóalapja – ha az adóelszámolás hónapja 2013-ra esik, akkor a 2012. évben az összes biztosítási díja – a 8 milliárd forintot nem érte el, az adó mértéke az adóelszámolás hónapja – (1) bekezdés a) és b) pontjában említett adóköteles biztosítási szolgáltatás utáni – adóalapjának
+
+– 100 millió forintot meg nem haladó része után az (1) bekezdés szerinti – az adóköteles biztosítási szolgáltatásra irányadó – adómérték 25%-a,
+
+– 100 millió forintot meghaladó, de 700 millió forintot meg nem haladó része után az (1) bekezdés szerinti – az adóköteles biztosítási szolgáltatásra irányadó – adómérték 50%-a,
+
+– 700 millió forintot meghaladó része után az (1) bekezdés szerinti – az adóköteles biztosítási szolgáltatásra irányadó – adómérték.”
 
 #### 28. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
 53. § (1)–(2)
 
-(3)
+(3) A Pti. 3. § (4) bekezdés f) és k) pontja helyébe a következő rendelkezések lépnek:
+
+[Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget]
+
+„f) a társadalombiztosítás pénzügyi alapjainak ellátási és a családtámogatás lebonyolítási számlái terhére a kincstár által megvalósított fizetési művelet, továbbá a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint járulékalapot képező kifizetésekkel kapcsolatos, kincstár által az Áht. 79. § (1) bekezdése alá tartozó körben végrehajtott fizetési művelet,”
+
+„k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett nemzetgazdasági számlák és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,”
 
 (4)–(5)
 
@@ -255,7 +298,43 @@ lép.
 
 #### 34. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-63. §
+63. § (1) A közraktározásról szóló 1996. évi XLVIII. törvény (a továbbiakban: Krt.) 5. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelemhez két példányban mellékelni kell:)
+
+„g) a közraktárban tulajdoni részesedéssel rendelkező személyek azonosító adatait (ideértve az állampolgárságra, devizajogi státuszra vonatkozó tájékoztatást is), valamint az azokat igazoló okiratokat, illetve ha ezen személy a cégjegyzékben nyilvántartott cég, akkor a cég nevét és cégjegyzékszámát;”
+
+(2) A Krt. 5. § (3) bekezdése a) pontja helyébe a következő rendelkezés lép:
+
+(A kérelmező a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges közraktári engedélyt kaphat, ha)
+
+„a) részvénytársaság létesítésével kapcsolatos adatok alapján a cég raktározás és tárolás besorolású főtevékenységet, záloghitelnyújtás esetén egyéb hitelnyújtás besorolású tevékenységet folytat,”
+
+(3) A Krt. 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.”
+
+(4) A Krt. 5/B. § (2) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
+
+(A kérelmező a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedélyt akkor kaphat, ha)
+
+„a) a külföldi vállalkozás fióktelepének a magyar cégbíróság általi cégnyilvántartásba történő bejegyzése megtörtént,
+
+b) nyilatkozatban igazolja a fióktelep cégjegyzékszámát, adószámát,”
+
+(5) A Krt. 5/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a kérelmező a (2) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A (2) bekezdés a) és b) pont igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.”
+
+(6) A Krt. 8. § (7) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Ha a kérelmező gazdasági társaság, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha)
+
+„a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és”
+
+(7) A Krt. 8. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.”
 
 #### 35. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló2003. évi CXXVIII. törvény módosítása
 

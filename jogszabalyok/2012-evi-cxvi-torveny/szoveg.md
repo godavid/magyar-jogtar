@@ -50,12 +50,12 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - c) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény hatálya alá tartozó fizetési művelet,
 - d) a Hpt. 2. számú melléklet I. fejezet 10.2. e) pontjában meghatározott csoportfinanszírozás, feltéve, hogy a csoport tagjainak a számláit ugyanazon pénzforgalmi szolgáltató vezeti,
 - e) a pénzforgalmi szolgáltató által más belföldi illetve külföldi pénzforgalmi szolgáltató, pénzügyi intézmény, befektetési vállalkozás, befektetési alapkezelő, központi szerződő fél, valamint befektetési alap részére vezetett fizetési számla terhére megvalósított fizetési művelet,
-- f) a társadalombiztosítás pénzügyi alapjainak ellátási és a családtámogatás lebonyolítási számlái terhére a kincstár által megvalósított fizetési művelet, továbbá a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint járulékalapot képező kifizetésekkel kapcsolatos, kincstár által végrehajtott fizetési művelet,
+- f) a társadalombiztosítás pénzügyi alapjainak ellátási és a családtámogatás lebonyolítási számlái terhére a kincstár által megvalósított fizetési művelet, továbbá a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint járulékalapot képező kifizetésekkel kapcsolatos, kincstár által az Áht. 79. § (1) bekezdése alá tartozó körben végrehajtott fizetési művelet,
 - g) a jóvá nem hagyott vagy jóváhagyott, de hibásan teljesített fizetési művelet, ideértve az eredeti állapot helyreállítására irányuló fizetési műveletet is,
 - h) a korlátozott rendeltetésű fizetési számláról végrehajtott fizetési művelet,
 - i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
 - j) az éves költségvetési törvényben foglaltak szerint mentesített központi kezelésű előirányzatokkal kapcsolatos fizetési művelet,
-- k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett fizetési számlák és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
+- k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett nemzetgazdasági számlák és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
 - l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet.
 
 #### 4. A pénzügyi tranzakciós illetékfizetési kötelezettség keletkezése

@@ -80,7 +80,9 @@ Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsá
 
 (9)
 
-(10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 1. vagy 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+(10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+
+(11) Ha a kérelmező cégjegyzékben nyilvántartott cég, a környezetvédelmi hatóság a cég a cégkivonatát, valamint ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 ### A kibocsátások nyomon követése, jelentéseés a jelentések hitelesítése
 
@@ -306,7 +308,9 @@ Vhr. 11. § (1) Azok az üzemeltetők, akik a Kiosztási Terv szerint az új bel
 - a) a kérelem első benyújtása esetén a 6. mellékletében szereplő adatokat és dokumentumokat,
 - b) a kérelem első benyújtását követő években a 6. melléklet 2. c) és d) alpontjában szereplő dokumentumokat.
 
-(3) Ha a kérelmező a 6. melléklet 2. a) vagy b) alpontjában szereplő adatokat nem igazolja, a miniszter adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+(3) Ha a kérelmező a 6. melléklet 2. b) alpontjában szereplő adatokat nem igazolja, a miniszter adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
+
+(3a) Ha a kérelmező cégjegyzékben nyilvántartott cég, a cégkivonatot a környezetvédelmi hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (4) A (2) bekezdés b) pontjában foglaltak esetén a kérelmezőnek nyilatkoznia kell, hogy a korábbi új belépő eljárás alapjául szolgáló körülményekhez képest – ide nem értve a termelési, tüzelőanyag-felhasználási és kibocsátási mennyiségeket – történt-e változás. Ha változás következett be, vagy a környezethasználat feltételeit megállapító engedély vagy a kibocsátási engedély módosításra vagy visszavonásra került, meg kell adni a változással érintett adatokat, és az arra vonatkozó dokumentumokat mellékelni kell.
 
@@ -404,11 +408,11 @@ Vhr. 12. § (1) Az 1. melléklet szerint azonos tevékenységet folytató, magya
 
 (6) A megállapodás jóváhagyására irányuló kérelmet a közös teljesítéssel érintett időszak első évét megelőző szeptember 1-jéig kell a környezetvédelmi hatóság részére két példányban benyújtani. A kérelmet a részt vevő üzemeltetők felhatalmazása alapján a kijelölt teljesítési megbízott nyújtja be.
 
-(7) A kérelemben meg kell jelölni a közös teljesítésben részt vevő létesítményeket és azok üzemeltetőit, a teljesítési megbízottat, valamint a közös teljesítés tartamát. A kérelemhez – a (11) bekezdésben foglalt eltéréssel – csatolni kell az alábbiakat:
+(7) A kérelemben meg kell jelölni a közös teljesítésben részt vevő létesítményeket és azok üzemeltetőit, a teljesítési megbízottat, valamint a közös teljesítés tartamát. A kérelemhez – a (11) és (12) bekezdésben foglalt eltéréssel – csatolni kell az alábbiakat:
 
 - a) a közös teljesítésére vonatkozó megállapodást;
-- b) a teljesítési megbízottra vonatkozó három hónapnál nem régebbi cégkivonatot, továbbá a cégbíróságon iktatott, de még el nem bírált változásbejegyzési kérelem hiteles másolatát, egyéni vállalkozó esetén annak az igazolását, hogy szerepel az egyéni vállalkozói nyilvántartásban; külföldi székhellyel rendelkező teljesítési megbízott esetén a regisztrációt megfelelően igazoló dokumentum másolatát;
-- c) a cég képviseletére vagy jegyzésére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, illetve annak hiteles másolatát;
+- b) ha a teljesítési megbízott cég, és változásbejegyzési eljárás folyamatban van, a még el nem bírált változásbejegyzési kérelem hiteles másolatát, egyéni vállalkozó esetén annak az igazolását, hogy szerepel az egyéni vállalkozói nyilvántartásban; külföldi székhellyel rendelkező teljesítési megbízott esetén a regisztrációt megfelelően igazoló dokumentum másolatát;
+- c) – a (12) bekezdés kivételével – a cég képviseletére vagy jegyzésére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát, illetve annak hiteles másolatát;
 - d)
 
 (8) Amennyiben a megállapodás, illetve a kérelem az e rendeletben foglalt követelményeknek megfelel, a környezetvédelmi hatóság a kérelmet az annak alátámasztására szolgáló adatokkal együtt a miniszter útján haladéktalanul, de legkésőbb a megérkezését követő naptól számított tizenöt napon belül továbbítja a Bizottság felé.
@@ -417,9 +421,9 @@ Vhr. 12. § (1) Az 1. melléklet szerint azonos tevékenységet folytató, magya
 
 (10) A közös teljesítésre irányuló jóváhagyott megállapodásokról a környezetvédelmi hatóság nyilvántartást vezet.
 
-(11) Ha a kérelmező a Magyarországon bejegyzett teljesítési megbízottra vonatkozó cégkivonatot nem csatolja, a környezetvédelmi hatóság az adatok szolgáltatása iránt megkeresi az adatokról nyilvántartást vezető bíróságot.
+(11) Ha a teljesítési megbízott cégjegyzékben nyilvántartott cég, a cégkivonatot a környezetvédelmi hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(12)
+(12) Ha a teljesítési megbízott képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a környezetvédelmi hatóság az iratot a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 Vhr. 13. § (1) A teljesítési megbízott köteles a közös teljesítésben részt vevő üzemeltetők javára, ezen üzemeltetők tárgyévi együttes kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő április 30-ig visszaadni.
 
@@ -801,7 +805,7 @@ Csatolandó dokumentumok
 
 A. pontban felsorolt adatokkal kapcsolatosan:
 
-1. Közjegyzői aláírás-hitelesítéssel ellátott címpéldány vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-minta, 30 napnál nem régebbi cégkivonat
+1. A 12. § (12) bekezdésben foglaltak kivételével közjegyzői aláírás-hitelesítéssel ellátott címpéldány
 
 2. A környezetvédelmi engedély másolata
 
@@ -1066,7 +1070,7 @@ e) a tárgyévben felhasznált anyagok és tüzelőanyagok, továbbá ezeknek a 
 
 2. A kérelemhez csatolandó dokumentumok
 
-a) 30 napnál nem régebbi cégkivonat;
+a)
 
 b) a kibocsátási engedély másolata, az egységes környezethasználati engedély másolata (ha van);
 

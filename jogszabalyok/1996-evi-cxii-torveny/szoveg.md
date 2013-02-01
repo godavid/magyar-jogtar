@@ -3108,7 +3108,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Az Alap által fizetett kártalanítás
 
-101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betét, valamint azon betétkövetelés, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.
+101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betétből, valamint azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.
 
 (2) Az Alap a befagyott tőkeösszeg után, valamint azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
 
@@ -5105,7 +5105,7 @@ vonatkozó részletes szabályokat.
 (3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) a hitelintézetek befektetési szabályzatára,
-- b) a belső ellenőrzési rendszerekre, eljárásokra,
+- b) a belső ellenőrzési rendszerekre, eljárásokra, vonatkozó részletes szabályokat,
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
 - e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat.

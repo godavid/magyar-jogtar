@@ -10,7 +10,67 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 #### 2. A Büntető Törvénykönyvről szóló 1978. évi IV. törvény módosítása
 
-#### 36. §
+36. § (1) Az 1978. évi IV. törvény 277. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Aki egy vagy több olyan közokiratot, amely nem vagy nem kizárólag a sajátja, mástól, annak beleegyezése nélkül, jogtalanul megszerez, megsemmisít, megrongál vagy mástól jogtalanul elvesz, vagy a jogosult elől jogtalanul eltitkol, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetnedő.”
+
+(2) Az 1978. évi IV. törvény 313/C. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Aki
+
+a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
+
+b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
+
+vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.”
+
+(3) Az 1978. évi IV. törvény 313/E. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 313/B–313/D. § alkalmazásában készpénz-helyettesítő fizetési eszközön a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszközt, illetve a kincstári kártyát, az utazási csekket, a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott utalványt és a váltót kell érteni, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett. A külföldön kibocsátott készpénz-helyettesítő fizetési eszköz a belföldön kibocsátott készpénz-helyettesítő fizetési eszközzel azonos védelemben részesül.”
+
+(4) Az 1978. évi IV. törvény 316. § (2) bekezdése a következő e) ponttal egészül ki:
+
+(A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a lopást kisebb értékre, vagy a szabálysértési értékre elkövetett lopást)
+
+„e) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével”
+
+(követik el.)
+
+(5) Az 1978. évi IV. törvény 316. § (4) bekezdés b) pont 1. alpontja helyébe a következő rendelkezés lép:
+
+[A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
+
+b) a kisebb értékre elkövetett lopást]
+
+„1. a (2) bekezdés a)–e) pontjában meghatározott módon,”
+
+(követik el.)
+
+(6) Az 1978. évi IV. törvény 316. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A büntetés egy évtől öt évig terjedő szabadságvesztés, ha)
+
+„b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
+
+(követik el.)
+
+(7) Az 1978. évi IV. törvény 316. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha)
+
+„b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
+
+### (követik el.)
+
+(8) Az 1978. évi IV. törvény 316. § (7) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a)
+
+„b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
+
+(követik el.)
+
+(9) Hatályát veszti az 1978. évi IV. törvény 213. §-a, 214. §-a, 215. §-a, 220. §-a, 257. §-a, 272. §-a, 278. §-a, 293. §-a, 297/A. §-a, 298/A. §-a, 301–302. §-a, 328. §-a, 336/A. §-a, 336/B. §-a és 337. §-a.
 
 #### 3. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
 
@@ -63,7 +123,11 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 197. § (1)–(2)
 
-(3)
+(3) A Bnytv. 11. § (1) bekezdése a következő m) ponttal egészül ki:
+
+(A bűntettesek nyilvántartása tartalmazza)
+
+„m) a szakrendszeri azonosító kódot.”
 
 (4)–(5)
 
@@ -71,13 +135,21 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 200. § (1)–(3)
 
-(4)
+(4) A Bnytv. 16. § (1) bekezdése a következő m) ponttal egészül ki:
+
+(A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza)
+
+„m) a szakrendszeri azonosító kódot.”
 
 (5)–(6)
 
 #### 201–204. §
 
-#### 205. §
+205. § A Bnytv. 23. §-a a következő k) ponttal egészül ki:
+
+(A büntetőeljárás hatálya alatt állók nyilvántartása tartalmazza)
+
+„k) a szakrendszeri azonosító kódot.”
 
 #### 206–208. §
 
@@ -93,40 +165,82 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 #### 215–217. §
 
-#### 218–219. §
+218. § A Szabs. tv. a 175. §-t követően a következő 130/A. alcímmel és 175/A. §-sal egészül ki:
+
+„130/A. Hivatalos személy által elkövetett hamis statisztikai adatszolgáltatás
+
+175/A. § Az a vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy, aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.”
+
+219. § A Szabs. tv. 177. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Aki földmérési jelet vagy az államhatár megjelölésére szolgáló jelet elvisz, áthelyez vagy elmozdít, szabálysértést követ el.”
 
 #### 220. §
 
-#### 221. §
+221. § A Szabs. tv. 192. §-a helyébe a következő rendelkezés lép:
+
+„192. § (1) Aki a közterületen, nyilvános helyen vagy közforgalmú közlekedési eszközön a közerkölcsbe ütköző magatartást tanúsít, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.”
 
 #### 222–224. §
 
-#### 225–227. §
+225. § A Szabs. tv. a 206. §-t követően a következő 160/A–160/B. alcímmel és 206/A–206/B. §-sal egészül ki:
+
+„160/A. Közérdekű bejelentő üldözése
+
+206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+
+160/B. Hamis statisztikai adatszolgáltatás
+
+206/B. § (1) Aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.
+
+(2) Az (1) bekezdésben foglalt szabálysértés nem valósul meg, ha azt vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy követi el.”
+
+226. § A Szabs. tv. a 208. §-t követően a következő 162/A. alcímmel és 208/A. §-sal egészül ki:
+
+„162/A. Sajtórendészeti szabálysértés
+
+208/A. § Aki olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, szabálysértést követ el.”
+
+227. § A Szabs. tv. XXV. Fejezetének címe helyébe a következő szöveg lép:
+
+„XXV. Fejezet
+
+A PÉNZÜGYI ÉS KERESKEDELMI SZABÁLYSÉRTÉSEK”
 
 #### 228. §
 
-#### 229. §
+229. § A Szabs. tv. 232. §-a helyébe a következő rendelkezés lép:
+
+„232. § Aki áruért a hatósági árnál vagy a rá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, szabálysértést követ el.”
 
 #### 230. §
 
-#### 231. §
+231. § A Szabs. tv. 237. §-a helyébe a következő rendelkezés lép:
+
+„237. § (1) Aki az árunak közvetlenül a fogyasztók részére történő forgalomba hozatala során hamis méréssel, számolással vagy az áru minőségének megrontásával a vásárlót megkárosítja, szabálysértést követ el.
+
+(2) Aki az (1) bekezdésben felsorolt cselekményeket gazdasági jellegű szolgáltatás során a megrendelők sérelmére követi el, szabálysértést követ el.”
 
 #### 232. §
 
 233. § (1) A Szabs. tv.
 
-- a)
+- a) 44. § (3) bekezdés b) pontjában a „vámszabálysértéseket” szövegrész helyébe a „pénzügyi és kereskedelmi szabálysértéseket”,
 - b)
-- c)
+- c) 250. § (3) bekezdésében az „államháztartásért” szövegrész helyébe az „adópolitikáért”, a „vámszabálysértések” szövegrész helyébe a „pénzügyi és kereskedelmi szabálysértések”
 
 szöveg lép.
 
 (2) Hatályát veszti a Szabs. tv.
 
 - a)–c)
-- d)
+- d) 177. § (3) bekezdésében az „az államhatár,”, valamint a „, vagy földmérési” szövegrész,
 - e)
-- f)
+- f) 236. § (1) bekezdés b) pontja.
 
 #### 10. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló
 
@@ -140,7 +254,27 @@ szöveg lép.
 
 #### 252–255. §
 
-#### 256. §
+256. § (1) A statisztikáról szóló 1993. évi XLVI. törvény (a továbbiakban: Sttv.) 9/A. §-a helyébe a következő rendelkezés lép:
+
+„9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
+
+(2) A közigazgatási bírság összege 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.”
+
+(2) Az Sttv. a következő 9/B. §-sal egészül ki:
+
+„9/B. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
+
+a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
+
+b) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
+
+c) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
+
+d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
+
+e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
+
+(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.”
 
 #### 257–260. §
 
@@ -165,13 +299,237 @@ szöveg lép.
 
 #### 292–313. §
 
-#### 314. §
+314. § Nem lép hatályba az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény 14. §-a.
 
 #### 315–317. §
 
 #### 12. A Büntető Törvénykönyvről szóló 2012. évi C. törvény eltérő tartalommal hatálybalépő rendelkezései
 
-#### 318. §
+318. § (1) A Btk. 6. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Nem bűnhalmazat, hanem folytatólagosan elkövetett bűncselekmény az, ha az elkövető ugyanolyan bűncselekményt, egységes elhatározással, azonos sértett sérelmére, rövid időközönként többször követ el.”
+
+(2) A Btk. 11. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Ha a (2) bekezdésben meghatározott esetben az előkészület már önmagában is megvalósít más bűncselekményt, az elkövető e bűncselekmény miatt büntethető.”
+
+(3) A Btk. 45. § (7) bekezdése a következő szöveggel lép hatályba:
+
+„(7) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.”
+
+(4) A Btk. 47. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A közérdekű munkát az elítélt, ha törvény eltérően nem rendelkezik, hetente legalább egy napon – a heti pihenőnapon vagy a szabadidejében –, díjazás nélkül végzi.”
+
+(5) A Btk. 56. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A járművezetéstől eltiltás tartamába be kell számítani azt az időt, amelynek tartamára az elkövető vezetői engedélyét – a járművezetéstől eltiltásra ítélését megelőzően – a bűncselekménnyel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.”
+
+(6) A Btk. 68. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Ha az elkövető a jóvátételi munka elvégzését nem igazolja, vagy a pártfogó felügyelet szabályait súlyosan megszegi, a bíróság büntetést szab ki. Ha az elkövető a jóvátételi munka elvégzését egészségügyi okból nem tudja igazolni, a jóvátételi munka elvégzése igazolásának határideje egy alkalommal legfeljebb egy évvel meghosszabbítható.”
+
+(7) A Btk. 72. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) Az elkobzást akkor is el kell rendelni, ha
+
+a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
+
+b) ha az elkövetőt megrovásban részesítették,
+
+c) az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.”
+
+(8) A Btk. 75. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A vagyonelkobzást akkor is el kell rendelni, ha
+
+a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
+
+b) ha az elkövetőt megrovásban részesítették,
+
+c) az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.”
+
+(9) A Btk. 113. §-a a következő szöveggel lép hatályba:
+
+„113. § (1) Fiatalkorúval szemben pénzbüntetést akkor lehet kiszabni, ha önálló keresete, jövedelme vagy megfelelő vagyona van.
+
+(2) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egynapi tétel összegét legalább ötszáz, legfeljebb ötvenezer forintban kell meghatározni.
+
+(3) Fiatalkorú esetén a pénzbüntetést behajthatatlansága esetén
+
+a) ha a 112. § lehetővé teszi, közérdekű munkára vagy
+
+b) szabadságvesztésre
+
+kell átváltoztatni.
+
+(4) A pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe két óra közérdekű munka lép. Egyebekben a pénzbüntetés helyébe lépő közérdekű munkára a 47. §-ban foglaltak irányadóak azzal, hogy annak tartama eltérhet a 47. § (1) bekezdésében meghatározottaktól.
+
+(5) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni. Egyebekben a 48. §-ban foglaltak irányadóak.”
+
+(10) A Btk. 127. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja.”
+
+(11) A Btk. 140. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
+
+„(3) A 127. § (1) bekezdés a) pontjában meghatározott katonák esetében az (1) és (2) bekezdés szerinti várakozási időn kötelező várakozási időt kell érteni.”
+
+(12) A Btk. 203. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Aki tizennyolcadik életévét be nem töltött személy prostitúciójából haszonszerzésre törekszik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.”
+
+(13) A Btk. 203. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Aki részben vagy egészben tizennyolcadik életévét be nem töltött, prostitúciót folytató személlyel tartatja ki magát, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.”
+
+(14) A Btk. 204. § (1) bekezdés c) pontja a következő szöveggel lép hatályba:
+
+(Aki tizennyolcadik életévét be nem töltött személyről vagy személyekről pornográf felvételt)
+
+„c) forgalomba hoz, azzal kereskedik, illetve ilyen felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, két évtől nyolc évig”
+
+(terjedő szabadságvesztéssel büntetendő.)
+
+(15) A Btk. 204. § (5) bekezdés b) pontja a következő szöveggel lép hatályba:
+
+(Három évig terjedő szabadságvesztéssel büntetendő, aki)
+
+„b) olyan pornográf műsoron vesz részt, amelyben tizennyolcadik életévét be nem töltött személy szerepel vagy ilyen személyek szerepelnek,”
+
+(16) A Btk. 248. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt a hulladékról szóló törvény szerinti veszélyes hulladékra követik el.”
+
+(17) A Btk. 248. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) E § alkalmazásában
+
+a) hulladék: mindaz, amit a hulladékról szóló törvény hulladéknak minősít, ha alkalmas az emberi élet, testi épség, egészség, a föld, a víz, a levegő vagy azok összetevői, illetve élő szervezet egyedének veszélyeztetésére;
+
+b) hulladékgazdálkodási tevékenység: a hulladéknak a hulladékról szóló törvényben meghatározott gyűjtése, begyűjtése, szállítása – ideértve az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást – , előkezelése, tárolása, hasznosítása, ártalmatlanítása.”
+
+(18) A Btk. 315. § (1)–(2) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Aki a 314. § (1) vagy (2) bekezdésében meghatározott bűntett elkövetésére felhív, ajánlkozik, vállalkozik, a közös elkövetésben megállapodik, vagy az elkövetés elősegítése céljából az ehhez szükséges vagy ezt könnyítő feltételeket biztosítja, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki az (1) bekezdésben meghatározott cselekményeket a 314. § (1) vagy (2) bekezdésében meghatározott bűntettnek terrorista csoportban történő elkövetése érdekében valósítja meg, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.”
+
+(19) A Btk. 346. §-a a következő szöveggel lép hatályba:
+
+„346. § (1) Aki egy vagy több olyan közokiratot, amely nem vagy nem kizárólag a sajátja,
+
+a) mástól, annak beleegyezése nélkül jogtalanul megszerez,
+
+b) jogtalanul megsemmisít, megrongál, vagy
+
+c) mástól jogtalanul elvesz, vagy a jogosult elől jogtalanul eltitkol,
+
+vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Ha más bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki jogtalan haszonszerzés céljából közokiratot átad vagy átvesz.
+
+(3) Aki az (1) bekezdésben meghatározott bűncselekményt magánokiratra azért követi el, hogy jogtalan előnyt szerezzen vagy jogtalan hátrányt okozzon, egy évig terjedő szabadságvesztéssel büntetendő.”
+
+(20) A Btk. 370. §-a a következő szöveggel lép hatályba:
+
+„370. § (1) Aki idegen dolgot mástól azért vesz el, hogy azt jogtalanul eltulajdonítsa, lopást követ el.
+
+(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha
+
+a) a lopást kisebb értékre vagy
+
+b) a szabálysértési értékre elkövetett lopást
+
+ba) bűnszövetségben,
+
+bb) közveszély színhelyén,
+
+bc) üzletszerűen,
+
+bd) dolog elleni erőszakkal – ideértve azt is, ha a dolog eltulajdonításának megakadályozására szolgáló eszközt állagsérelem okozása nélkül eltávolítják, vagy a dolog eltulajdonításának megakadályozására alkalmatlanná teszik –,
+
+be) zsebtolvajlás útján,
+
+bf) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével,
+
+bg) helyiségbe vagy ehhez tartozó bekerített helyre megtévesztéssel, vagy a jogosult, illetve a használó tudta és beleegyezése nélkül bemenve,
+
+bh) hamis vagy lopott kulcs használatával,
+
+bi) lakást vagy hasonló helyiséget az elkövetővel közösen használó sérelmére, vagy
+
+bj) erdőben jogellenes fakivágással
+
+követik el.
+
+(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
+
+a) a lopást nagyobb értékre vagy
+
+b) a kisebb értékre elkövetett lopást
+
+ba) a (2) bekezdés ba)–bf) pontjában meghatározott valamely módon,
+
+bb) védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre,
+
+bc) vallási tisztelet tárgyára,
+
+bd) holttesten lévő tárgyra, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyra,
+
+be) nemesfémre
+
+követik el.
+
+(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
+
+a) a lopást jelentős értékre vagy
+
+b) a nagyobb értékre elkövetett lopást a (2) bekezdés ba)–bf) pontjában meghatározott valamely módon
+
+követik el.
+
+(5) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
+
+a) a lopást különösen nagy értékre vagy
+
+b) a jelentős értékre elkövetett lopást a (2) bekezdés ba)–bf) pontjában meghatározott valamely módon
+
+követik el.
+
+(6) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
+
+a) a lopást különösen jelentős értékre vagy
+
+b) a különösen nagy értékre elkövetett lopást a (2) bekezdés ba)–bf) pontjában meghatározott valamely módon
+
+követik el.”
+
+(21) A Btk. 393. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Aki
+
+a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, vagy amelynek a használatára nem vagy nem kizárólagosan jogosult, mástól, annak beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
+
+b) hamis vagy meghamisított, az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt, vagy az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket átad, megszerez, az ország területére behoz, onnan kivisz, vagy azon átszállít,
+
+vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
+
+(22) A Btk. a 404. §-t követően a következő alcímmel és 404/A. §-sal kiegészülve lép hatályba:
+
+„Feljelentés elmulasztása a felszámolási eljárásban
+
+404/A. § Az a felszámoló, aki a felszámolási eljárás során hitelt érdemlő tudomást szerez a számvitel rendjének megsértése (403. §) vagy csődbűncselekmény (404. §) elkövetéséről, és erről a hatóságnak, mihelyt teheti, nem tesz jelentést, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
+
+(23) A Btk. 462. § (2) bekezdés f) pontja a következő szöveggel lép hatályba:
+
+(Nem bűncselekmény, hanem szabálysértés valósul meg, ha)
+
+„f) a rossz minőségű termék forgalomba hozatalát vagy a versenytárs utánzását százezer forintot meg nem haladó értékre”
+
+(követik el.)
+
+(24) Nem lép hatályba a Btk. 45. § (8) bekezdése.
 
 #### 13. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
