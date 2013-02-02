@@ -10,67 +10,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 #### 2. A Büntető Törvénykönyvről szóló 1978. évi IV. törvény módosítása
 
-36. § (1) Az 1978. évi IV. törvény 277. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Aki egy vagy több olyan közokiratot, amely nem vagy nem kizárólag a sajátja, mástól, annak beleegyezése nélkül, jogtalanul megszerez, megsemmisít, megrongál vagy mástól jogtalanul elvesz, vagy a jogosult elől jogtalanul eltitkol, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetnedő.”
-
-(2) Az 1978. évi IV. törvény 313/C. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Aki
-
-a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, mástól, ennek beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
-
-b) hamis vagy meghamisított, illetve az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt átad, megszerez, az országba behoz, onnan kivisz, az ország területén átvisz,
-
-vétséget követ el, és egy évig terjedő szabadságvesztéssel büntetendő.”
-
-(3) Az 1978. évi IV. törvény 313/E. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 313/B–313/D. § alkalmazásában készpénz-helyettesítő fizetési eszközön a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszközt, illetve a kincstári kártyát, az utazási csekket, a személyi jövedelemadóról szóló törvény felhatalmazása alapján kiadott utalványt és a váltót kell érteni, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett. A külföldön kibocsátott készpénz-helyettesítő fizetési eszköz a belföldön kibocsátott készpénz-helyettesítő fizetési eszközzel azonos védelemben részesül.”
-
-(4) Az 1978. évi IV. törvény 316. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(A büntetés vétség miatt két évig terjedő szabadságvesztés, ha a lopást kisebb értékre, vagy a szabálysértési értékre elkövetett lopást)
-
-„e) egy vagy több közokirat, magánokirat vagy készpénz-helyettesítő fizetési eszköz egyidejű elvételével”
-
-(követik el.)
-
-(5) Az 1978. évi IV. törvény 316. § (4) bekezdés b) pont 1. alpontja helyébe a következő rendelkezés lép:
-
-[A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
-
-b) a kisebb értékre elkövetett lopást]
-
-„1. a (2) bekezdés a)–e) pontjában meghatározott módon,”
-
-(követik el.)
-
-(6) Az 1978. évi IV. törvény 316. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A büntetés egy évtől öt évig terjedő szabadságvesztés, ha)
-
-„b) a nagyobb értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
-
-(követik el.)
-
-(7) Az 1978. évi IV. törvény 316. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha)
-
-„b) a jelentős értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
-
-### (követik el.)
-
-(8) Az 1978. évi IV. törvény 316. § (7) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a)
-
-„b) a különösen nagy értékre elkövetett lopást a (2) bekezdés a)–e) pontjában meghatározott módon”
-
-(követik el.)
-
-(9) Hatályát veszti az 1978. évi IV. törvény 213. §-a, 214. §-a, 215. §-a, 220. §-a, 257. §-a, 272. §-a, 278. §-a, 293. §-a, 297/A. §-a, 298/A. §-a, 301–302. §-a, 328. §-a, 336/A. §-a, 336/B. §-a és 337. §-a.
+#### 36. §
 
 #### 3. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
 
@@ -123,11 +63,7 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 197. § (1)–(2)
 
-(3) A Bnytv. 11. § (1) bekezdése a következő m) ponttal egészül ki:
-
-(A bűntettesek nyilvántartása tartalmazza)
-
-„m) a szakrendszeri azonosító kódot.”
+(3)
 
 (4)–(5)
 
@@ -135,21 +71,13 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 200. § (1)–(3)
 
-(4) A Bnytv. 16. § (1) bekezdése a következő m) ponttal egészül ki:
-
-(A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza)
-
-„m) a szakrendszeri azonosító kódot.”
+(4)
 
 (5)–(6)
 
 #### 201–204. §
 
-205. § A Bnytv. 23. §-a a következő k) ponttal egészül ki:
-
-(A büntetőeljárás hatálya alatt állók nyilvántartása tartalmazza)
-
-„k) a szakrendszeri azonosító kódot.”
+#### 205. §
 
 #### 206–208. §
 
@@ -165,82 +93,40 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 #### 215–217. §
 
-218. § A Szabs. tv. a 175. §-t követően a következő 130/A. alcímmel és 175/A. §-sal egészül ki:
-
-„130/A. Hivatalos személy által elkövetett hamis statisztikai adatszolgáltatás
-
-175/A. § Az a vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy, aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.”
-
-219. § A Szabs. tv. 177. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Aki földmérési jelet vagy az államhatár megjelölésére szolgáló jelet elvisz, áthelyez vagy elmozdít, szabálysértést követ el.”
+#### 218–219. §
 
 #### 220. §
 
-221. § A Szabs. tv. 192. §-a helyébe a következő rendelkezés lép:
-
-„192. § (1) Aki a közterületen, nyilvános helyen vagy közforgalmú közlekedési eszközön a közerkölcsbe ütköző magatartást tanúsít, szabálysértést követ el.
-
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.”
+#### 221. §
 
 #### 222–224. §
 
-225. § A Szabs. tv. a 206. §-t követően a következő 160/A–160/B. alcímmel és 206/A–206/B. §-sal egészül ki:
-
-„160/A. Közérdekű bejelentő üldözése
-
-206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
-
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
-
-160/B. Hamis statisztikai adatszolgáltatás
-
-206/B. § (1) Aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.
-
-(2) Az (1) bekezdésben foglalt szabálysértés nem valósul meg, ha azt vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy követi el.”
-
-226. § A Szabs. tv. a 208. §-t követően a következő 162/A. alcímmel és 208/A. §-sal egészül ki:
-
-„162/A. Sajtórendészeti szabálysértés
-
-208/A. § Aki olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, szabálysértést követ el.”
-
-227. § A Szabs. tv. XXV. Fejezetének címe helyébe a következő szöveg lép:
-
-„XXV. Fejezet
-
-A PÉNZÜGYI ÉS KERESKEDELMI SZABÁLYSÉRTÉSEK”
+#### 225–227. §
 
 #### 228. §
 
-229. § A Szabs. tv. 232. §-a helyébe a következő rendelkezés lép:
-
-„232. § Aki áruért a hatósági árnál vagy a rá nézve egyébként kötelezően megállapított árnál magasabb árat kér, köt ki vagy fogad el, szabálysértést követ el.”
+#### 229. §
 
 #### 230. §
 
-231. § A Szabs. tv. 237. §-a helyébe a következő rendelkezés lép:
-
-„237. § (1) Aki az árunak közvetlenül a fogyasztók részére történő forgalomba hozatala során hamis méréssel, számolással vagy az áru minőségének megrontásával a vásárlót megkárosítja, szabálysértést követ el.
-
-(2) Aki az (1) bekezdésben felsorolt cselekményeket gazdasági jellegű szolgáltatás során a megrendelők sérelmére követi el, szabálysértést követ el.”
+#### 231. §
 
 #### 232. §
 
 233. § (1) A Szabs. tv.
 
-- a) 44. § (3) bekezdés b) pontjában a „vámszabálysértéseket” szövegrész helyébe a „pénzügyi és kereskedelmi szabálysértéseket”,
+- a)
 - b)
-- c) 250. § (3) bekezdésében az „államháztartásért” szövegrész helyébe az „adópolitikáért”, a „vámszabálysértések” szövegrész helyébe a „pénzügyi és kereskedelmi szabálysértések”
+- c)
 
 szöveg lép.
 
 (2) Hatályát veszti a Szabs. tv.
 
 - a)–c)
-- d) 177. § (3) bekezdésében az „az államhatár,”, valamint a „, vagy földmérési” szövegrész,
+- d)
 - e)
-- f) 236. § (1) bekezdés b) pontja.
+- f)
 
 #### 10. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló
 
@@ -254,27 +140,7 @@ szöveg lép.
 
 #### 252–255. §
 
-256. § (1) A statisztikáról szóló 1993. évi XLVI. törvény (a továbbiakban: Sttv.) 9/A. §-a helyébe a következő rendelkezés lép:
-
-„9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
-
-(2) A közigazgatási bírság összege 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.”
-
-(2) Az Sttv. a következő 9/B. §-sal egészül ki:
-
-„9/B. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
-
-a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
-
-b) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
-
-c) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
-
-d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
-
-e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
-
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.”
+#### 256. §
 
 #### 257–260. §
 
@@ -299,7 +165,7 @@ szöveg lép.
 
 #### 292–313. §
 
-314. § Nem lép hatályba az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvény 14. §-a.
+#### 314. §
 
 #### 315–317. §
 
