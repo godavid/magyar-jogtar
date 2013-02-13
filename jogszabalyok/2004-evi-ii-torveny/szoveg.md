@@ -794,6 +794,14 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - b) a filmelőállító vagy a filmgyártó vállalkozás vagy filmterjesztő nyilatkozatát a 2. mellékletben meghatározott kulturális követelmények teljesítéséről az ott foglalt táblázat alapján, és
 - c) az igazgatási szolgáltatási díj megfizetésének igazolását.
 
+(2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
+
+- a) a filmalkotás végleges, az előkészítést, a forgatást és az utómunkálatokat is magában foglaló gyártási tervét,
+- b) megrendelésre készülő filmalkotás esetében a gyártásban részt vevő magyar vállalkozás és a külföldi filmelőállító (megrendelő) közötti szerződést, koprodukciós, vagy nemzetközi koprodukciós vagy egyéb nemzetközi koprodukciós filmalkotás esetében a koprodukciós szerződést,
+- c) nem megrendelésre készülő filmalkotás esetében a közvetlen filmgyártási költségek fedezetét igazoló okiratokat és a filmalkotás teljes költségvetését,
+- d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és a közvetett támogatás forrását biztosító szervezet által ellenjegyezve), pénzügyi tervét és finanszírozási tervét, és
+- e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás kiállítását.
+
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
 
 (4) Az e törvény szerinti filmterjesztési célú támogatásra jogosultság megállapítására nem kell kérelmet benyújtani, ha a filmalkotás korábban már teljesítette az e törvény szerinti filmgyártási célú támogatásra jogosultság feltételeit. Ebben az esetben az előterjesztett kérelmet a Hivatal érdemi vizsgálat nélkül elutasítja.
@@ -807,7 +815,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (6) Nem ismerhető el közvetlen filmgyártási költségként az a költség, amely keletkezésének körülményeit tekintve akkor merült fel, amikor a Hivatal az ügyfél mulasztásából eredően még nem gyakorolhatta ellenőrzési jogosultságát, különös tekintettel a bejelentési kötelezettség elmulasztására vagy nem megfelelő teljesítésére.
 
-(7) A (6) bekezdésben meghatározott – különösen a rögzített gyártási időre és költségvetésre vonatkozó – követelmények megtartása tekintetében a Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben eltérést engedhet. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
+(7) A (2a) és (6) bekezdésben meghatározott – különösen a rögzített gyártási időre és költségvetésre vonatkozó – követelmények megtartása tekintetében a Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben eltérést engedhet. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
 (8) A Hivatal az (5) bekezdés b) pontja szerinti esetben szakértőt is kirendelhet. A szakértő kirendelésének költségeit a támogatott előlegezi meg. A Hivatal a szakértői vélemény alapján dönt a költség viseléséről.
 
