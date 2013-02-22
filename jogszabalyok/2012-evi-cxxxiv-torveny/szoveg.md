@@ -33,7 +33,19 @@ az Országgyűlés a dohánytermék-kiskereskedelem állami monopóliummá téte
 - 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely a dohányterméknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé úgy, hogy a dohánytermék az üzletben megforduló fiatalkorú számára sem a dohánytermék fogyasztó számára történő értékesítésekor, sem azt megelőzően, illetve azt követően ne legyen látható;
 - 6. fiatalkorú: minden természetes személy, aki a 18. életévét nem töltötte be;
 - 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját, vagy más nevében jár el, illetve más természetes, vagy jogi személyt, vagy jogi személyiség nélküli szervezetet képvisel;
-- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag dohánytermék, dohányterméket kiegészítő termék, továbbá a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény különös rendelkezései I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék, vagy jogszabály által meghatározott termék forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
+- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült, önálló üzlethelyiség, amelyben kizárólag
+  - a) dohánytermék,
+  - b) dohányterméket kiegészítő termék,
+  - c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések rész I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék,
+  - d) a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározott szeszes ital,
+  - e) a népegészségügyi termékadóról szóló 2011. évi CIII. törvényben meghatározott energiaital,
+  - f) kávé [csomagolt kávé (ideértve az azonnal oldódó kávékivonatot is), vagy helyben is fogyasztható kávéital],
+  - g) ásványvíz és üdítőital,
+  - h) újság, napilap, folyóirat, periodikus kiadvány,
+  - i) jogszabály által meghatározott más termék
+
+forgalmazható, és amely üzlethelyiség külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve;
+
 - 9. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 10. dohánytermék-nagykereskedő(k): a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék adóraktár engedélyese (gyártója), a dohánytermék importálója, a bejegyzett kereskedő és a dohánytermék jövedéki engedélyes kereskedője.
 
@@ -137,6 +149,12 @@ jogosult végezhesse.
 
 (8) E § rendelkezéseit a részvénytársaságra nem kell alkalmazni.
 
+13/A. § (1) Amennyiben az erre jogosult a dohánytermék-kiskereskedelmi tevékenység folytatása mellett a dohányboltban az e törvény által megengedett más termékeket is forgalmazni kíván, úgy köteles az erre irányuló szándékát a vámhatóság felé bejelenteni.
+
+(2) A dohánytermék-kiskereskedő az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban az (1) bekezdés szerinti bejelentést követően kezdheti meg. Amennyiben a dohánytermék-kiskereskedő az (1) bekezdés szerinti bejelentést a 13. §-ban meghatározott engedélyezési eljárás megkezdésekor vagy annak során nyújtja be, úgy az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban csak az engedély kézhezvételét követően kezdheti meg.
+
+(3) A vámhatóság az (1) bekezdés szerinti bejelentésről értesíti a bejelentés-köteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
+
 #### 14. §
 
 ### 3. CÍM — A dohánytermékek értékesítési módja
@@ -186,6 +204,14 @@ jogosult végezhesse.
 (5) A (3) bekezdés 2013. július 1-jén hatályát veszti.
 
 (6) Az e törvényben foglaltaktól eltérően a miniszter köteles a dohánytermék-kiskereskedelmi jogosultságra vonatkozó pályázatokat első alkalommal legkésőbb 2012. november 15. napjáig kiírni úgy, hogy a pályázatok benyújtására a kiírás megjelenését követő 60 napos határidő álljon rendelkezésre, továbbá a benyújtási határidő elteltét követő 60 napos határidőn belül a pályázatok eredményeit ki kell hirdetni.
+
+(7) Azok a kiskereskedők, akik a 2. § hatálybalépését megelőzően dohánytermékek értékesítésére jogosultak voltak, a 2. § hatálybalépését követően dohányterméket a dohánytermék-nagykereskedőktől már nem vásárolhatnak, és a meglévő dohánytermék-készletük értékesítését legfeljebb a 2. § hatálybalépését követő 15 napig folytathatják. A dohánytermék-nagykereskedő köteles az általa értékesített és az e bekezdés rendelkezései miatt a kiskereskedőknél megmaradt – sértetlen csomagolású – dohánytermékeket a kiskereskedő kérelmére 30 napon belül azon az áron visszavásárolni, amelyen a dohánytermék a kiskereskedő részére értékesítésre került.
+
+24/A. § (1) A 24. § (4) bekezdése rendelkezéseit nem érintve a 2013. július 1-jét megelőzően kiállított engedély birtokában a dohányboltot 2013. május 1-jét követően 2013. június 30-ig – az e §-ban meghatározott eltéréssel – a kereskedelmi tevékenységre vonatkozó általános szabályok szerint üzemeltetni lehet (a dohánybolt előzetes üzemeltetése).
+
+(2) A dohánybolt előzetes üzemeltetésének megkezdésére azt követően kerülhet sor, ha az engedély jogosultja e szándékát a vámhatóság felé bejelenti, azzal, hogy a 13/A. § (3) bekezdésének a rendelkezését e bejelentésre is alkalmazni kell. A dohánybolt előzetes üzemeltetéséhez a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározott működési engedélyre nincs szükség.
+
+(3) A dohánybolt előzetes üzemeltetése során a dohányboltban csak a 3. § 8. pontjában felsorolt termékek forgalmazására kerülhet sor.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
