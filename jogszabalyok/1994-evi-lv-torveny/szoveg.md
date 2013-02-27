@@ -116,7 +116,9 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) A mezőgazdasági igazgatási szervnek az igazolását környezettanulmány alapján kell kiállítania. A környezettanulmány során a mezőgazdasági igazgatási szerv a mezőgazdasági tevékenység folytatását vizsgálja.
 
-(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehetnek régebbi és kizárólag a hatósági bizonyítvány kiadása iránti kérelemben megjelölt ingatlanok tulajdonszerzése vonatkozásában kerülhet felhasználásra.
+(4) A (2) bekezdésben meghatározott igazolás, illetve hatósági bizonyítvány 60 napnál nem lehet régebbi.
+
+(4a) A (2) bekezdés c) pontja szerinti hatósági bizonyítványban – a kiadása iránti kérelemben foglaltak alapján – település és helyrajzi szám szerint meg kell jelölni, hogy az mely ingatlanok tulajdonjogának megszerzése vonatkozásában kerülhet felhasználásra az ingatlan-nyilvántartási eljárásban.
 
 (5) A tagállami állampolgárnak teljes bizonyító erejű magánokiratba, vagy közokiratba foglalt nyilatkozatot kell tennie a következőkről:
 
@@ -200,7 +202,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 - a) írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés;
 - b) a termőföldön fennálló haszonélvezeti jog esetében a tulajdonostárs alatt a haszonélvezőt is érteni kell;
-- c) a használat alatt a haszonbérletet, a felesbérletet, a részesművelést, a szívességi földhasználatot, a haszonkölcsönt, az alhaszonkölcsönt (Ptk. 583–584. §), valamint a 12/A. §-ban foglalt, a termelési integráció megvalósítása érdekében létesített alhaszonbérletet kell érteni.
+- c) a használat alatt a haszonbérletet, a felesbérletet, a részesművelést, a szívességi földhasználatot, a haszonkölcsönt, az alhaszonkölcsönt (Ptk. 583–584. §), valamint a 12/A. §-ban foglalt, a termelési integráció megvalósítása érdekében létesített alhaszonbérletet, továbbá a tulajdonjogon, a haszonélvezeti jogon és a vagyonkezelői jogon alapuló használatot kell érteni.
 
 11/C. § (1) A tulajdonostársak mindegyike jogosult a saját tulajdoni hányadának megfelelő terület használatára. A közös tulajdonban lévő földrészleten belül
 
@@ -276,21 +278,23 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 11/F. § (1) A földhasználati szerződést egységes okiratba kell foglalni.
 
-(2) A termőföld teljes területének használatára vonatkozó földhasználati szerződést valamennyi tulajdonostársnak alá kell írni, ide nem értve azon tulajdonostársat, akinek esetében a felhívást – a 11/D. § (3) bekezdésében foglaltak alapján, az ott meghatározott valamely körülmény miatt – elfogadottnak kell tekinteni. A termőföld teljes területének használatára vonatkozó földhasználati szerződés valamennyi tulajdonostársra kiterjed.
+(2) A termőföld teljes területének használatára vonatkozó földhasználati szerződést valamennyi tulajdonostársnak alá kell írni, ide nem értve azon tulajdonostársat, akinek esetében a felhívást – a 11/C. § (3) bekezdésében foglaltak alapján, az ott meghatározott valamely körülmény miatt – elfogadottnak kell tekinteni. A termőföld teljes területének használatára vonatkozó földhasználati szerződés valamennyi tulajdonostársra kiterjed.
 
 (3) Ha a földhasználati szerződés a termőföld egy részének használatára jött létre, a szerződést – a (2) bekezdéstől eltérően – azon tulajdonostársnak nem kell aláírnia, aki a használati megosztás alapján a tulajdoni hányadának megfelelő, vagy attól eltérő területet maga használja, és a földhasználati szerződés megkötése e rendezett földhasználatát nem módosítja.
 
 (4) Ha a földhasználati szerződés a termőföld egy részének használatára jött létre, a szerződés a 11/C. § szerinti és a 11/D. § (7) bekezdésének megfelelően módosított használati megosztási vázrajzzal együtt érvényes. A használati megosztási vázrajz aláírására a (2) bekezdésben foglaltakat kell alkalmazni, azzal, hogy azt a földhasználónak is alá kell írni.
 
-11/G. § Az ellenszolgáltatás fejében létrejött földhasználati szerződés esetében az ellenszolgáltatás a 11/D. § (3) bekezdésében meghatározott tulajdonostársakat is megilleti a tulajdoni hányaduk arányában. Ez esetben a használónak az ellenszolgáltatás megfelelő értékét készpénzben bírósági teljesítési letétbe kell helyeznie.
+11/G. § Az ellenszolgáltatás fejében létrejött földhasználati szerződés esetében az ellenszolgáltatás a 11/C. § (3) bekezdésében meghatározott tulajdonostársakat is megilleti a tulajdoni hányaduk arányában. Ez esetben a használónak az ellenszolgáltatás megfelelő értékét készpénzben bírósági teljesítési letétbe kell helyeznie.
 
 11/H. § A 11/D–11/G. §-ban foglaltak megsértése esetében a földhasználati szerződést a sérelmet szenvedő tulajdonostárs a bíróságnál megtámadhatja.
+
+11/I. § A 11/B–11/H. §-ban foglaltakat nem kell alkalmazni a zártkertekre, valamint a halastó művelési ágban nyilvántartott területekre.
 
 ### A termőföld haszonbérlete
 
 12. § (1) A termőföld haszonbérletére e törvény eltérő rendelkezése hiányában a Ptk.-nak a haszonbérletre vonatkozó szabályait kell alkalmazni.
 
-(2) A haszonbérleti szerződés megkötésére vonatkozó szabályokat kell alkalmazni a haszonbérleti szerződés olyan módosítása esetén, amelynek során a felek kölcsönös és egybehangzó akarata a haszonbérlet időtartamának, illetve a haszonbér mértékének a csökkentésére irányul, kivéve ha a haszonbérlet meghosszabbított időtartamáról, illetve a haszonbérleti díj csökkentéséről a szerződésben előre megállapodtak, és a szerződés tartalmát utóbb ennek megfelelően módosították.
+(2) A haszonbérleti szerződés megkötésére vonatkozó szabályokat kell alkalmazni a haszonbérleti szerződés olyan módosítása esetén, amelynek során a felek kölcsönös és egybehangzó akarata a haszonbérlet időtartamának meghosszabbítására, illetve a haszonbér mértékének a csökkentésére irányul, kivéve ha a haszonbérlet meghosszabbított időtartamáról, illetve a haszonbérleti díj csökkentéséről a szerződésben előre megállapodtak, és a szerződés tartalmát utóbb ennek megfelelően módosították.
 
 12/A. § A haszonbérlő – termelési integráció megvalósítása érdekében – a haszonbérbe adó hozzájárulásával megállapodhat más termőföldet használó személlyel, hogy a termőföld használatát határozott időre átengedi. A megállapodást és a haszonbérbe adó hozzájárulását írásba kell foglalni. A földhasználat átengedése – ha a felek másképpen nem rendelkeznek – nem érinti a haszonbérlőnek a haszonbérbe adóval szemben fennálló kötelezettségeit.
 
@@ -396,7 +400,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) A földhasználati nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 
-25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
+25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldek, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – (ezen alcímben a továbbiakban együtt: termőföld) használatáról a közhiteles ingatlan-nyilvántartás adataira épülő, de attól elkülönülő, önálló nyilvántartást vezet. A földhasználati nyilvántartás tartalmazza
 
 - a) a földrészlet ingatlan-nyilvántartási adatait;
 - b) a földrészlet (alrészlet) vagy földrészletek magánszemély földhasználójának
@@ -404,7 +408,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
   - bb) lakcímét,
   - bc) állampolgárságát,
   - bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó magánszemélyek esetében a személyi azonosítóját,
-  - be) a családi gazdálkodó megjelölését és a családi gazdaság nyilvántartási számát, feltéve, hogy családi gazdálkodónak minősül;
+  - be)
 - c) a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földhasználójának
   - ca) megnevezését,
   - cb) székhelyét (telephelyét),
@@ -412,11 +416,11 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
   - cd) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég esetében a cégjegyzékszámot;
 - d) a használat jogcímét;
 - e) határozott időre kötött földhasználati szerződés esetén a használat időtartamát; és
-- f) a be) alpontban meghatározott esetben annak megjelölését, hogy mely földrészlet (alrészlet) tartozik a családi gazdasághoz.
+- f)
 
 (1a) A számítógépes földhasználati nyilvántartási rendszer kezelése, működtetése – függetlenül annak tényleges elhelyezésétől – a földmérési és térinformatikai államigazgatási szerv feladatkörébe tartozik.
 
-(1b) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni, és az, valamint az állampolgársági adat a 25/C. § (3) bekezdésében meghatározott földhasználati lap másolaton, valamint a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
+(1b) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni. Az (1) bekezdés b) pont bc) és bd) alpontjában, valamint a c) pont cc) és cd) alpontjában foglalt adatok a 25/C. § (3) bekezdésében meghatározott földhasználati lap másolaton, valamint a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethető fel.
 
 (1c) A földhasználó az (1) bekezdés b), illetve c) pontjában meghatározott adatait a használat, valamint a használatban bekövetkezett változások bejelentésekor – ideértve a használat megszűnésének bejelentését is – köteles az ingatlanügyi hatósággal közölni.
 
@@ -426,11 +430,11 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia.
 
-(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
+(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt használati megállapodás, illetve szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
 
 (4) A földhasználó a bejelentéssel egyidejűleg köteles nyilatkozni arról, hogy termőföld használata a törvényben meghatározott korlátozásokat nem sérti.
 
-(4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – változásokat 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
+(4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – a változásokat (ideértve a használat megszűnését is) 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
 
 (5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
 
@@ -462,34 +466,11 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (5) A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló szerződések feltárása érdekében az ingatlanügyi hatóság a számítógéppel vezetett földhasználati nyilvántartási adatbázisban a jogellenes jogügyletekben részt vevő felek személyének, illetve a szerzési korlát túllépésének megállapításához szükséges és erre alkalmas adatok vonatkozásában az adatfeldolgozás, -kezelés, -tárolás, -átvétel és -átadás részletes szabályait tartalmazó törvényi előírásoknak megfelelő adatkezelést végezhet.
 
-### A földhasználati eljárás igazgatási szolgáltatási díja
+25/D. § A földhasználati nyilvántartási eljárás mentes az igazgatási szolgáltatási díj- és illetékfizetési kötelezettség alól.
 
-25/D. § (1) Az első fokon kérelemre indult eljárásért – ha e törvény másként nem rendelkezik – 6 000 forint összegű díjat kell fizetni. Ha a földhasználati bejelentés vagy a törlési kérelem 20 vagy annál több földrészletre vonatkozik, az eljárás díja 12 000 forint.
+25/E. §
 
-(2) A földhasználati nyilvántartási eljárásban igénybe vehető valamennyi jogorvoslatért 10 000 forint díjat kell fizetni.
-
-(3) Mentes az eljárás az igazgatási szolgáltatási díj- és illetékfizetési kötelezettség alól, ha a kérelem, illetve bejelentés kizárólag
-
-- a) az érintett földrészlet ingatlan-nyilvántartási adatai megváltozásának a földhasználati nyilvántartásba történő bejegyzésére vonatkozik, vagy
-- b) a 25/G. § (1) bekezdés szerinti azonosító adatközlési kötelezettség teljesítésén alapul, és ezzel egyidejűleg a földhasználati bejelentésre vagy a már nyilvántartásba bejegyzett használatban bekövetkezett változás bejelentésére nem kerül sor.
-
-(4) A földhasználati nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely a földügyért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. A földhasználati nyilvántartásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
-
-25/E. § (1) A díjat kérelemre indult eljárásban – az (1a) bekezdésben meghatározott eset kivételével – a földhasználati nyilvántartási eljárás lefolytatását kérelmező földhasználónak kell megfizetnie.
-
-(1a) Ha a földhasználat nyilvántartásból való törlését a használatba adó kéri, a díjat a használatba adónak kell megfizetnie.
-
-(2) A díjfizetési kötelezettség kérelemre indult eljárásban – ideértve a jogorvoslati eljárást is – kizárólag az ingatlanügyi hatóságnál a kérelem előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot.
-
-(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni és igazolni annak megfizetését.
-
-(4)
-
-25/F. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felügyeleti szerv vagy a bíróság által felülvizsgált határozat az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
-
-(2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
-
-(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
+25/F. §
 
 25/G. § (1) 2013. március 30. napjáig a földhasználati nyilvántartásba bejegyzett
 
@@ -667,7 +648,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 88/D. § Külföldi magánszemély és jogi személy, vagy jogi személyiség nélküli szervezet – kivéve a tagállami állampolgárt, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személyt, vagy jogi személyiség nélküli szervezetet – termőföldnek nem minősülő védett természeti terület tulajdonjogát nem szerezheti meg.
 
-89. § Ahol jogszabály zártkertre vonatkozó rendelkezést tartalmaz, ott a továbbiakban zártkerten a külterületi földet kell érteni.
+89. § Ahol jogszabály zártkertre vonatkozó rendelkezést tartalmaz, ott a továbbiakban külterületi fekvést kell érteni.
 
 90. § (1) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa
 
@@ -697,14 +678,18 @@ rendelettel megállapítsa.
 
 (2) Az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) 6. §-ával megállapított 8/A. § (2a) bekezdését és módosított (4) bekezdését 2013. január 1-jén folyamatban levő és megismételt eljárásokban is alkalmazni kell.
 
-(3) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. január 1-jei állapota szerint a teljes területét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a bejegyzett földhasználat alapjául szolgáló szerződés vagy jogosultság megszűnését követően kell alkalmazni.
+(3) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. február 1-jei állapota szerint a teljes területét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a bejegyzett földhasználat alapjául szolgáló szerződés vagy jogosultság megszűnését követően kell alkalmazni.
 
-(4) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. január 1-jei állapota szerint egy részét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a földrészletnek a bejegyzett földhasználattal nem érintett területére is alkalmazni kell.
+(4) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. február 1-jei állapota szerint egy részét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a földrészletnek a bejegyzett földhasználattal nem érintett területére is alkalmazni kell.
 
-(5) A földhasználati nyilvántartásba-vételi eljárásban a 11/B–11/H. §-ban foglalt rendelkezéseket a 2013. január 1. napján, vagy ezt követően megkötött használati megosztásról szóló megállapodások, illetve fölhasználati szerződések esetében kell alkalmazni. A 2012. december 31-ig megkötött használati megosztásról szóló megállapodásokon, illetve földhasználati szerződéseken alapuló földhasználati bejelentéseket a szerződéskötés időpontjában hatályos rendelkezések szerint kell elintézni.
+(5) A földhasználati nyilvántartásba-vételi eljárásban a 11/B–11/H. §-ban foglalt rendelkezéseket a 2013. február 1. napján, vagy ezt követően megkötött használati megosztásról szóló megállapodások, illetve fölhasználati szerződések esetében kell alkalmazni. A 2013. január 31-ig megkötött használati megosztásról szóló megállapodásokon, illetve földhasználati szerződéseken alapuló földhasználati bejelentéseket a szerződéskötés időpontjában hatályos rendelkezések szerint kell elintézni.
 
 (6) A Módtv. 9. §-ával módosított 12. §-t a Módtv. hatálybalépésekor fennálló haszonbérleti szerződések esetében a Módtv. hatálybalépését követően megkötött módosításra kell alkalmazni.
 
 (7) A Módtv. 11. §-ával megállapított 25/B. § (1)–(1e) bekezdésében, (2), (4) és (4a) bekezdésében foglaltakat az ingatlanügyi hatósághoz a földhasználati nyilvántartásba vétel céljából 2012. december 31-ig beérkezett, de el nem bírált földhasználati bejelentések esetében is alkalmazni kell.
+
+(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. április 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
+
+(9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.
 
 ### 1–3. számú melléklet az 1994. évi LV. törvényhez
