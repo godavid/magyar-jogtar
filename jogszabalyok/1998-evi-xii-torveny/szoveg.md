@@ -306,13 +306,15 @@ hajtja végre.
 - a) az utazást elrendelő vagy az útlevél kiadására javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet értesíti az útlevélhatóságot, hogy a hivatalos útlevél használatára jogosult személy jogosultsága megszűnt,
 - b) az útlevélhatóság adatot kérhet a 11. § (3) bekezdésében meghatározott szervtől vagy gazdálkodó szervezettől.
 
-27. § (1) A központi adatkezelő szerv – törvényben meghatározott feladatai ellátása céljából – a 24. § g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a Nemzeti Adó- és Vámhivatal vámszervének és nyomozó hatóságának, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) A központi adatkezelő szerv – törvényben meghatározott feladatai ellátása céljából – a 24. § g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a Nemzeti Adó- és Vámhivatal vámszervének és nyomozó hatóságának, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
 
 (2) A központi adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
 (4) Az útlevélhatóság, illetve a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
+
+(8) Az anyakönyvvezető az állampolgárság ellenőrzése, valamint az elhunyt személyek személyazonosság igazolására alkalmas okmányának bevonása céljából a 24. § a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
 28. § (1) A (2a) és (2b) bekezdésben meghatározott eltérésekkel a központi adatkezelő szerv természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére – az adatfelhasználás céljának és jogalapjának igazolása esetén – adatot szolgáltathat
 

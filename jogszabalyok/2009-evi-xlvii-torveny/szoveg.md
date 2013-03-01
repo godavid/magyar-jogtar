@@ -768,7 +768,7 @@ miatt indítottak büntetőeljárást.
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 - a) az igazságügyért felelős miniszter a kegyelmi kérelem felterjesztésének előkészítése során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
-- b) az állampolgársági ügyekért felelős miniszter az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
+- b) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
 (5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
 

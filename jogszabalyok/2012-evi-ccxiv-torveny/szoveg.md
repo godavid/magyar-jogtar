@@ -22,7 +22,9 @@ egyes szolgálati jogviszonnyal összefüggő törvények módosításáról
 
 94–95. §
 
-96. §
+96. § A munkavédelemről szóló 1993. évi XCIII. törvény 88. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.”
 
 97–101. §
 
@@ -168,7 +170,16 @@ minősül.
 
 109. § (1)–(2)
 
-(3)
+(3) A munkavédelemről szóló 1993. évi XCIII. törvény
+
+- a) 9. § (3) bekezdésében
+  - aa) az „a rendvédelmi szerveknél” szövegrész helyébe az „a rendvédelmi szerveknél, az Országgyűlési Őrségnél”,
+  - ab) az „a feladatkörében érintett miniszter által kiadott külön jogszabály” szövegrész helyébe az „a feladatkörében érintett miniszter – az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter – által kiadott külön jogszabály”;
+- b) 86. § (1) bekezdése e) pontjában az „a rendvédelmi szervekre” szövegrész helyébe az „a rendvédelmi szervekre, az Országgyűlési Őrségre”;
+- c) 87. § 9. pontjában az „a rendvédelmi szerveknél” szövegrész helyébe az „a rendvédelmi szerveknél, az Országgyűlési Őrségnél”;
+- d) 88. § (2) bekezdés a) pontjában a „rendvédelmi szervek” szövegrész helyébe a „rendvédelmi szervek, az Országgyűlési Őrség”
+
+szöveg lép.
 
 (4)–(7)
 

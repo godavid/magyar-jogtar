@@ -118,7 +118,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 (5) A rehabilitációs szakértői szerv az (1) bekezdés szerinti személy legalább 36%-ot elérő munkaképesség-csökkenéséről, valamint a legalább 29%-ot elérő egészségkárosodásáról minden év január 31. napjáig szolgáltat adatot.
 
-(6) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
+(6) Az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
 
 (7) A Honvédség központi személyügyi szerve, valamint a rendvédelmi szervek a hivatásos, szerződéses, vagy önkéntes tartalékos állományba felvettekről, valamint szolgálati viszonyuk megszűnéséről a hadkötelezettség fennállása idején a rájuk vonatkozó behívhatósági korhatárig minden hónap 5. napjáig szolgáltat adatot.
 
@@ -132,7 +132,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 (4) A személyiadat- és lakcímnyilvántartás központi szerve a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
 
-(5) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
+(5) Az állampolgársági ügyekért ügyekben eljáró szerv az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
 
 #### 7. Egyedi adatszolgáltatások
 
@@ -158,7 +158,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 - a) a személyiadat- és lakcímnyilvántartás központi szerve, a 10. § (2) bekezdésében meghatározott adatokról,
 - b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők 10. § (4) bekezdésben meghatározott adatairól,
-- c) az állampolgársági ügyekért felelős miniszter a 10. § (6) bekezdésében meghatározott adatokról,
+- c) az állampolgársági ügyekért ügyekben eljáró szerv a 10. § (6) bekezdésében meghatározott adatokról,
 - d) a Honvédség központi személyügyi szerve, valamint a rendvédelmi szerv a 11. § (7) bekezdése szerinti adatokról,
 - e) a választási szerv a 11. § (3) bekezdése szerinti adatokról,
 - f) a jogszabály alapján meghagyásba bevont szervezet a meghagyásban érintett személyek 12. § (2) bekezdés b) pontjában meghatározott adatairól,
@@ -172,7 +172,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 16. § A 6–8. alcímben szolgáltatott adatokat
 
-- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekért felelős miniszter, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve,
+- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekért ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve,
 - b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.
 
 ## MÁSODIK RÉSZ — A KATONAI SZOLGÁLATI KÖTELEZETTSÉG JÁRULÉKOS KÖTELEZETTSÉGEI

@@ -52,6 +52,14 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (3) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén – kérelmére – kedvezményesen honosítható az a nem magyar állampolgár, akinek felmenője magyar állampolgár volt vagy valószínűsíti magyarországi származását, és magyar nyelvtudását igazolja.
 
+(3a) Kérelmére kedvezményesen honosítható az a nem magyar állampolgár, aki
+
+- a) legalább
+  - aa) tíz éve érvényes házasságban él olyan személlyel, aki az állampolgársági kérelem benyújtásának időpontjában magyar állampolgár, vagy
+  - ab) öt éve érvényes házasságban él olyan személlyel, aki az állampolgársági kérelem benyújtásának időpontjában magyar állampolgár, és közös gyermekük született,
+- b) az (1) bekezdés b) és d) pontjában meghatározott feltételeknek megfelel, és
+- c) magyar nyelvtudását igazolja.
+
 (4) Kedvezményesen honosítható az a nem magyar állampolgár, akinek a kérelem benyújtását megelőzően legalább öt éven át folyamatosan Magyarországon volt a lakóhelye, és az (1) bekezdés b)–e) pontjaiban meghatározott feltételek fennállnak, ha
 
 - a) az ország területén született;
@@ -62,19 +70,19 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (6) A magyar állampolgár által örökbefogadott kiskorú gyermek lakóhelyétől függetlenül honosítható.
 
-(7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslata alapján – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
+(7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) előterjesztésére – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
 (8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen vagy korlátozottan cselekvőképes személyek esetében.
 
 ### Alkotmányos alapismeretek vizsga
 
-4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a fővárosi és megyei kormányhivatal által kijelölt vizsgabizottság előtt teszi le.
+4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a Kormány által rendeletben kijelölt szerv által meghatározott vizsgabizottság előtt teszi le.
 
 (2) Nem köteles vizsgát tenni:
 
 - a) a cselekvőképtelen és a korlátozottan cselekvőképes személy;
 - b) aki magyar tannyelvű nevelési-oktatási vagy felsőoktatási intézményben végzettséget szerzett;
-- c) aki a kérelem benyújtásakor 65. életévét betöltötte;
+- c) aki a kérelem benyújtásakor hatvanadik életévét betöltötte;
 - d) aki igazolja, hogy egészségi állapotának tartós és visszafordíthatatlan romlása miatt képtelen a vizsga letételére.
 
 ### Visszahonosítás
@@ -86,12 +94,14 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 5/A. § (1) A köztársasági elnökhöz címzett írásbeli nyilatkozatával – a nyilatkozattétel napjától – megszerzi a magyar állampolgárságot az a személy:
 
 - a) akit a külföldön tartózkodó egyes személyeknek magyar állampolgárságuktól való megfosztásáról szóló 1947. évi X. törvény és az 1948. évi XXVI. törvény, a magyar állampolgárságról szóló 1948. évi LX. törvény, illetve az állampolgárságról szóló 1957. évi V. törvény alapján a magyar állampolgárságától megfosztottak, továbbá az, aki a Magyar Köztársaság Kormányának 7970/1946. M.E. számú rendelete, a 10.515/1947. Korm. sz. rendelet, a 12.200/1947. Korm. sz. rendelet alapján veszítette el magyar állampolgárságát, valamint az, akinek magyar állampolgársága 1947. szeptember 15. és 1990. május 2. napja között elbocsátással szűnt meg;
-- b) aki az ország területén született és születésével nem szerezte meg szülei külföldi állampolgárságát a szülők állampolgárságára irányadó külföldi jog alapján, feltéve, hogy a születése napján magyarországi lakóhellyel rendelkezett és a nyilatkozat megtételét közvetlenül megelőzően legalább öt éve az ország területén lakik. A nyilatkozatot az érintett tizenkilencedik életévének betöltéséig teheti meg;
+- b) aki Magyarország területén született és születésével nem szerezte meg szülei külföldi állampolgárságát a szülők állampolgárságára irányadó külföldi jog alapján, feltéve, hogy a születése napján szülei magyarországi lakóhellyel rendelkeztek és a nyilatkozat megtételét közvetlenül megelőzően legalább öt éve Magyarország területén lakik;
 - c) aki magyar állampolgár anyától és külföldi állampolgár apától 1957. október 1-je előtt született, és születésével nem vált magyar állampolgárrá.
 
-(2) A nyilatkozat elfogadása esetén a miniszter bizonyítványban igazolja az állampolgárság megszerzését.
+(1a) Az (1) bekezdés b) pontja szerinti nyilatkozatot az érintett a tizenkilencedik életévének betöltéséig teheti meg.
 
-(3) A miniszter határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(2) A nyilatkozat elfogadása esetén az állampolgársági ügyekben eljáró szerv bizonyítványban igazolja az állampolgárság megszerzését.
+
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 ### Hatásköri szabályok, eskü és fogadalom
 
@@ -99,9 +109,9 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A magyar állampolgárság megszerzéséről a köztársasági elnök honosítási, illetve visszahonosítási okiratot (a továbbiakban: honosítási okirat) ad ki.
 
-(3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter a névmódosítási kérelmet elutasítja – a honosítást kérő külföldi nevével kell kiadni.
+(3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
 
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
+7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
@@ -121,23 +131,22 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 ### Lemondás
 
-8. § (1) A külföldön lakó magyar állampolgár — a köztársasági elnökhöz címzett nyilatkozatában — lemondhat a magyar állampolgárságáról, ha
+8. § (1) A magyar állampolgár – a köztársasági elnökhöz címzett nyilatkozatában – lemondhat a magyar állampolgárságáról, ha
 
-- a) külföldi állampolgársággal is rendelkezik vagy annak megszerzését valószínűsíteni tudja és
-- b)
-- c)
+- a) külföldi állampolgársággal is rendelkezik vagy annak megszerzését valószínűsíteni tudja, és
+- b) a személyiadat- és lakcímnyilvántartásban nem szerepel, vagy Magyarország területét külföldön történő letelepedés szándékával elhagyta vagy külföldön élő magyar állampolgárként nincs bejelentett, érvényes tartózkodási helye Magyarországon.
 
-(2) Ha az (1) bekezdésben megállapított feltételek fennállnak, a miniszter javaslatot tesz a köztársasági elnöknek a lemondás elfogadására. A magyar állampolgárság lemondással való megszűnéséről a köztársasági elnök okiratot ad ki. A magyar állampolgárság az okirat kiállítása napján szűnik meg.
+(2) Ha az (1) bekezdésben megállapított feltételek fennállnak, az állampolgársági ügyekben eljáró szerv javaslatára a miniszter előterjesztést tesz a köztársasági elnöknek a lemondás elfogadására. A magyar állampolgárság lemondással való megszűnéséről a köztársasági elnök okiratot ad ki. A magyar állampolgárság az okirat kiállítása napján szűnik meg.
 
-(3) A miniszter határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
-(4) A lemondás elfogadásától számított egy éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
+(4) A lemondás elfogadásától számított három éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
 
 ### A magyar állampolgárság visszavonása
 
 9. § (1) A magyar állampolgárság visszavonható attól a személytől, aki magyar állampolgárságát a jogszabályok megszegésével, így különösen valótlan adatok közlésével, illetve adatok vagy tények elhallgatásával a hatóságot félrevezetve szerezte meg. Nincs helye a visszavonásnak a magyar állampolgárság megszerzésétől számított tíz év elteltével.
 
-(2) Az állampolgárság visszavonására okot adó tény fennállását a miniszter határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
 
 (3) A magyar állampolgárság visszavonással történő megszüntetéséről — a miniszter előterjesztése alapján — a köztársasági elnök dönt.
 
@@ -145,18 +154,29 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 ### A magyar állampolgárság igazolása
 
-10. § A magyar állampolgárság érvényes személyi igazolvánnyal, érvényes magyar útlevéllel, érvényes állampolgársági bizonyítvánnyal vagy – ellenkező bizonyításig – honosítási okirattal igazolható.
+10. § (1) A magyar állampolgárság
+
+- a) érvényes magyar személyazonosító igazolvánnyal,
+- b) érvényes magyar útlevéllel,
+- c) érvényes állampolgársági bizonyítvánnyal,
+- d) – ellenkező bizonyításig – honosítási okirattal
+
+igazolható.
+
+(2) Ha a magyar állampolgár magyar állampolgárságát az (1) bekezdés a)–d) pontjában meghatározott módon nem tudja igazolni, a magyar állampolgárság – ellenkező bizonyításig és az érvényességi idő lejártát követő egy évig – az érvényesség időtartamának lejárta miatt érvénytelen magyar útlevéllel igazolható.
+
+(3) A személyiadat- és lakcímnyilvántartás igazolja az abban szereplő magyar állampolgárok magyar állampolgárságát.
 
 11. § (1) Az állampolgársági ügyekben eljáró szerv az érintett kérelmére állampolgársági bizonyítványban igazolja a magyar állampolgárság fennállását, megszűnését, illetve azt, hogy a bizonyítványban megjelölt személy nem magyar állampolgár.
 
-(2) Az állampolgársági bizonyítvány a kiállításától számított egy évig érvényes.
+(2) Az állampolgársági bizonyítvány a kiállításától számított három évig érvényes.
 
 (3) Az állampolgársági bizonyítvány tartalmazza:
 
 - a) az eljáró hatóság megnevezését, az ügy számát,
 - b) a kérelmező nevét, születési helyét és idejét,
 - c) a ténymegállapítást,
-- d) a ténymegállapítás alapjául szolgáló jogszabály megjelölését,
+- d) azokat a jogszabályhelyeket, amelyek alapján az állampolgársági ügyekben eljáró szerv a döntést hozta,
 - e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztását és a hatóság bélyegzőlenyomatát,
 - f) az állampolgársági bizonyítvány érvényességi idejét.
 
@@ -170,39 +190,44 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 13. § (1) Az állampolgárság megszerzésére irányuló nyilatkozatot és kérelmet, továbbá az állampolgárságról lemondó nyilatkozatot, valamint az állampolgársági bizonyítvány kiadása iránti kérelmet (a továbbiakban együtt: állampolgársági kérelem)
 
-- a) a települési – fővárosban a kerületi – önkormányzat polgármesteri hivatala anyakönyvvezetőjéhez,
-- b) az integrált ügyfélszolgálati irodához
+- a) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal),
+- b) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodájához (a továbbiakban: integrált ügyfélszolgálati iroda),
 - c) a magyar konzuli tisztviselőhöz, illetve
-- d) a Kormány által kijelölt, az állampolgársági ügyekben eljáró szervhez lehet benyújtani.
+- d) az állampolgársági ügyekben eljáró szervhez lehet benyújtani.
 
 (2) Az állampolgársági kérelmet jogszabályban meghatározott adattartalommal, továbbá – az állampolgársági bizonyítvány kiadása iránti kérelem kivételével – magyar nyelven kell benyújtani. A kérelmet saját kezűleg alá kell írni. A kérelem benyújtásakor a kérelmező személyazonosságát ellenőrizni, továbbá a kérelem adatait a csatolt okmányok adataival egyeztetni kell.
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 
-(4) Az állampolgársági kérelmet az anyakönyvvezető, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
+(4) Az állampolgársági kérelmet a járási hivatal vezetője, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles megküldeni az állampolgársági ügyekben eljáró szervnek.
 
-14. § (1) Az állampolgársági kérelemnek tartalmaznia kell az érintett
+14. § (1) Az állampolgársági kérelem – kormányrendeletben meghatározott formanyomtatványok szerint – tartalmazza az érintett
 
-- a) születési családi és utónevét, házassági nevét (a továbbiakban együtt: név), születési helyét és idejét, anyja nevét,
-- b) jelenlegi és korábbi házasságkötésének helyét és idejét, a házastárs(ak) nevét, születési helyét és idejét, a házastárs anyja nevét,
-- c) felmenői nevét, születési helyét és idejét, a felmenők házasságkötésének helyét és idejét,
-- d) lakcímét, valamint
-- e) az állampolgárságára, külföldre távozásának időpontjára vonatkozó adatokat.
+- a) születési családi és utónevét, házassági családi és utónevét, korábbi házassági családi és utónevét (a továbbiakban együtt: név), születési helyét és idejét, anyja nevét, nemét,
+- b) családi állapotára vonatkozó adatokat, a jelenlegi és korábbi házasságkötésének helyét és idejét, a házastárs vagy volt házastárs nevét, születési helyét és idejét, állampolgárságát, magyar származására vonatkozó adatokat,
+- c) házastársa vagy volt házastársa szülei nevét, születési helyét és idejét, állampolgárságát, magyarországi tartózkodásukra vonatkozó adatokat,
+- d) felmenői nevét, születési helyét és idejét, a felmenők házasságkötésének helyét és idejét, állampolgárságukra és tartózkodásukra vonatkozó adatokat,
+- e) gyermeke nevét, születési helyét és idejét, a gyermek másik szülőjének nevét, állampolgárságát,
+- f) testvére nevét, születési helyét és idejét,
+- g) lakóhelyére, korábbi magyarországi lakóhelyére, tartózkodására vonatkozó adatokat,
+- h) állampolgárságára, külföldre távozásának időpontjára vonatkozó adatokat,
+- i) iskolai végzettségére, foglalkozására, munkahelyére vonatkozó adatokat, és
+- j) elérhetőségét az állampolgársági ügyekben eljáró szervvel és a miniszterrel való kapcsolattartáshoz.
 
 (2) A 12. § szerinti megkeresésnek tartalmaznia kell az (1) bekezdés a) pontjában foglalt adatokat, továbbá mindazokat az adatokat, amelyek az (1) bekezdésben meghatározott adatkörből rendelkezésre állnak.
 
-(3) Az állampolgársági kérelemhez a kérelmezőnek mellékelnie kell születési anyakönyvi kivonatát és a családi állapotát igazoló okiratokat, továbbá a kérelem elbírálásához e törvény 4–5., 8. és 11. §-ában meghatározott feltételek fennállását igazoló, külön jogszabályban meghatározott okiratokat.
+(3) Az állampolgársági kérelemhez a kérelmezőnek – kormányrendeletben meghatározottak szerint – mellékelnie kell a születési anyakönyvi kivonatát és a családi állapotát igazoló okiratokat, továbbá az állampolgársági kérelem elbírálásához a 4. §-ban, az 5. §-ban, a 8. §-ban és a 11. §-ban meghatározott feltételek fennállását igazoló okiratokat.
 
-(4) Ha az (1) bekezdés a)–c) pontjában meghatározott adatot magyar anyakönyv tartalmazza, és a kérelmező az adatot igazoló okirattal nem rendelkezik, kérelmére a miniszter gondoskodik az okirat beszerzéséről. Ha a kérelem elbírálásához olyan adat szükséges, amely más magyar hatóság nyilvántartásából vagy irataiból ismerhető meg, ezek beszerzésére a miniszter intézkedik.
+(4) Ha az állampolgársági kérelem elbírálásához olyan adat szükséges, amely más magyar hatóság nyilvántartásából vagy irataiból ismerhető meg, és ezeket a kérelmező nem igazolja, ezek beszerzésére az állampolgársági ügyekben eljáró szerv intézkedik.
 
-(5) Nemzetközi szerződés eltérő rendelkezése vagy viszonossági gyakorlat hiányában az idegen nyelvű okiratot
+(5) Az állampolgársági kérelemhez
 
-- a) hiteles magyar nyelvű fordítással, és
-- b) ha ennek elháríthatatlan akadálya nincs, diplomáciai felülhitelesítéssel
+- a) a külföldi okiratot eltérő nemzetközi szerződés vagy viszonossági gyakorlat hiányában – ha ennek kormányrendelet szerinti elháríthatatlan akadálya nincs – diplomáciai felülhitelesítéssel,
+- b) az idegen nyelvű okiratot hiteles magyar nyelvű fordítással
 
-ellátva kell az állampolgársági kérelemhez csatolni.
+ellátva kell csatolni.
 
-(6) Ha az állampolgársági kérelem hiányos, vagy az elbíráláshoz szükséges okiratokat a kérelmező – a (4) bekezdésben foglalt kivétellel – nem csatolta, a miniszter a hiány pótlására határidő tűzésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett a kérelmezőt felhívhatja. Okirat hiánya esetén a beszerzéséhez szükséges időtartam figyelembevételével megállapított határidőt kell kitűzni. Az állampolgársági bizonyítvány kiadása iránti kérelem esetén a hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
+(6) Ha az állampolgársági kérelem hiányos, vagy az elbíráláshoz szükséges okiratokat a kérelmező nem csatolta, az állampolgársági ügyekben eljáró szerv a hiány pótlására határidő tűzésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett a kérelmezőt felhívhatja. Okirat hiánya esetén a beszerzéséhez szükséges időtartam figyelembevételével megállapított határidőt kell kitűzni. Az állampolgársági bizonyítvány kiadása iránti kérelem esetén a hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
 15. § (1) Az állampolgársági kérelmet a cselekvőképes kérelmező személyesen, a korlátozottan cselekvőképes, illetve a cselekvőképtelen személy nevében a törvényes képviselője terjesztheti elő.
 
@@ -212,21 +237,25 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 
 (4) Házastársak, illetve szülő együttélő kiskorú vagy cselekvőképtelen nagykorú gyermekével közös honosítási, visszahonosítási kérelmet, illetve a magyar állampolgárságról lemondó nyilatkozatot terjeszthet elő.
 
-16. § (1) A honosítási okiratot a miniszter a kiállításától számított 15 napon belül megküldi a kérelmező lakóhelye szerint illetékes polgármesternek, a 4. § (3), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében a kérelmező választása szerint a polgármesternek vagy diplomáciai futár útján a magyar konzuli tisztviselőnek.
+16. § (1) A honosítási okiratot az állampolgársági ügyekben eljáró szerv a kiállításától számított 15 napon belül megküldi a kérelmező lakóhelye szerint illetékes polgármesternek, a 4. § (3), (3a) (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében a kérelmező választása szerint a polgármesternek vagy diplomáciai futár útján a magyar konzuli tisztviselőnek.
 
-(2) A polgármester vagy a konzuli tisztviselő az okirat megérkezését követő 15 napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
+(2) A polgármester vagy a konzuli tisztviselő az okirat megérkezését követő harminc napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
 
-(3) Az állampolgársági esküt vagy fogadalmat a letételére szóló felhívás kézbesítésétől számított két hónapon belül kell letenni. A határidőt a miniszter kérelemre meghosszabbíthatja.
+(3) A 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított személy – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
 
-(4) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a kérelmező hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti.
+(3a) A (3) bekezdésben meghatározott esetben a polgármester vagy a konzuli tisztviselő haladéktalanul megküldi a honosítási okiratot a (3) bekezdés szerinti kérelemben megjelölt polgármesternek vagy – diplomáciai futár útján – a konzuli tisztviselőnek, aki gondoskodik a (2) bekezdésben meghatározott feladatok ellátásáról. Ebben az esetben a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított személy újabb, a (3) bekezdés szerinti kérelemmel nem élhet.
 
-17. § (1) A miniszter egy éven belül adja ki az 5/A. § (2) bekezdésében meghatározott bizonyítványt, vagy hozza meg az 5/A. § (3) bekezdése szerinti határozatot.
+(4) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a kérelmező hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti. Ha a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított személy a (3) bekezdés szerinti kérelmet terjeszt elő, akkor a határidőt az első felhívás kézbesítésétől kell számítani.
 
-(2) A miniszter a 6. § (1) bekezdésében foglalt előterjesztést a kérelemnek, az állampolgársági ügyekben eljáró szervhez történő beérkezésétől számított három hónapon belül nyújtja be a köztársasági elnöknek. A miniszter három hónapon belül tesz javaslatot a köztársasági elnöknek a lemondás elfogadására, vagy hozza meg a 8. § (3) bekezdése szerinti határozatot.
+17. § (1) Az állampolgársági ügyekben eljáró szerv hatvan napon belül adja ki az 5/A. § (2) bekezdésében meghatározott bizonyítványt, vagy hozza meg az 5/A. § (3) bekezdése szerinti határozatot.
 
-(3) Az állampolgársági bizonyítvány kiadása iránti kérelemnek, valamint a 12. § szerinti megkeresésnek az állampolgársági ügyekben eljáró szerv három hónapon belül tesz eleget.
+(2) A miniszter a 6. § (1) bekezdésében foglalt előterjesztést három hónapon belül nyújtja be a köztársasági elnöknek.
 
-(4) Az (1)–(3) bekezdésben megállapított határidő a nyilatkozatnak, a kérelemnek, illetve a megkeresésnek a miniszterhez érkezése napján kezdődik, amely indokolt esetben egy ízben három hónappal meghosszabbítható.
+(2a) A miniszter hatvan napon belül tesz előterjesztést a köztársasági elnöknek a lemondás elfogadására. Az állampolgársági ügyekben eljáró szerv hatvan napon belül hozza meg a 8. § (3) bekezdése szerinti határozatot.
+
+(3) Az állampolgársági bizonyítvány kiadása iránti kérelemnek, valamint a 12. § szerinti megkeresésnek az állampolgársági ügyekben eljáró szerv hatvan napon belül tesz eleget.
+
+(4) Az (1)–(3) bekezdésben megállapított határidő a nyilatkozatnak, a kérelemnek, illetve a megkeresésnek az állampolgársági ügyekben eljáró szervhez érkezése napján kezdődik, amely indokolt esetben az (1), (2a) és (3) bekezdésben meghatározott esetben hatvan nappal, a (2) bekezdésben meghatározott esetben három hónappal meghosszabbítható.
 
 (5) Az (1)–(3) bekezdésben megállapított határidőkbe nem számít be
 
@@ -235,11 +264,11 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - c) a 19. § (3) bekezdés d) pontjában előírt véleményezés időtartama;
 - d) az állampolgárságot érintő adat vagy okirat beszerzése érdekében más hatósághoz vagy állami szervhez intézett megkereséstől a válasz megérkezéséig terjedő idő.
 
-(6) A honosítási és visszahonosítási kérelmet, valamint a lemondási nyilatkozatot a köztársasági elnök döntéséig, az állampolgársági bizonyítvány iránti kérelmet a bizonyítvány kiadásáig a kérelmező visszavonhatja. Ilyen esetben az eljárást a miniszter megszünteti.
+(6) A honosítási és visszahonosítási kérelmet, valamint a lemondási nyilatkozatot a köztársasági elnök döntéséig, az állampolgársági bizonyítvány iránti kérelmet a bizonyítvány kiadásáig a kérelmező visszavonhatja. Ilyen esetben az eljárást az állampolgársági ügyekben eljáró szerv megszünteti.
 
-(7) Az állampolgársági eljárásban a kérelmező helyett meghatalmazottja is eljárhat, kivéve, ha e törvény személyes eljárást ír elő. Az állampolgársági ügyekben eljáró szerv a képviseleti jogosultságot megvizsgálhatja és visszautasítja az olyan meghatalmazott eljárását, aki az ügyben a képviselet ellátására nem alkalmas, vagy aki a jogosultságát nem igazolja.
+(7) Az állampolgársági eljárásban a kérelmező helyett meghatalmazottja is eljárhat, kivéve, ha e törvény személyes eljárást ír elő. Az állampolgársági ügyekben eljáró szerv a képviseleti jogosultságot megvizsgálja és visszautasítja az olyan meghatalmazott eljárását, aki az ügyben a képviselet ellátására nem alkalmas, vagy aki a jogosultságát nem igazolja.
 
-(8) Ha az állampolgársági ügy eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, a miniszter az eljárást felfüggeszti. Ha a más szerv előtti eljárás megindítására a kérelmező jogosult, erre megfelelő határidő kitűzése mellett a miniszter felhívja. Ha a kérelmező a felhívásnak nem tesz eleget, a miniszter az eljárást megszünteti vagy a rendelkezésre álló adatok alapján dönt, illetve tesz előterjesztést a köztársasági elnöknek.
+(8) Ha az állampolgársági ügy eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, az állampolgársági ügyekben eljáró szerv az eljárást felfüggeszti. Ha a más szerv előtti eljárás megindítására a kérelmező jogosult, erre megfelelő határidő kitűzése mellett az állampolgársági ügyekben eljáró szerv felhívja. Ha a kérelmező a felhívásnak nem tesz eleget, az állampolgársági ügyekben eljáró szerv az eljárást megszünteti vagy a rendelkezésre álló adatok alapján dönt, illetve tesz javaslatot a miniszternek a köztársasági elnök részére történő előterjesztésre.
 
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem érdemi vizsgálat nélküli elutasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
 
@@ -250,18 +279,20 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - a) az ügyben érintett személy, halála után leszármazója, valamint felmenője;
 - b) az igazságszolgáltatási, a bűnüldöző és a nemzetbiztonsági feladatokat ellátó szervek a hatáskörükbe tartozó ügyben, törvényben szabályozott eljárásuk során.
 
-19. § (1) A magyar állampolgárság megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, a Kormány által kijelölt, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a polgárok személyi adatait és lakcímét nyilvántartó hatóságnak, az idegenrendészeti, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
+19. § (1) A magyar állampolgárság honosítással vagy visszahonosítással történő megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a személyiadat- és lakcímnyilvántartást kezelő szervnek, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
 
-(2) A magyar állampolgárság megszűnéséről a miniszter értesíti a polgárok személyi adatait és lakcímét nyilvántartó hatóságot, az anyakönyvi hatóságot, az útlevélhatóságot, a Központi Statisztikai Hivatalt, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
+(2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, az anyakönyvi hatóságot, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
 
-(3) Az állampolgársági eljárás során a miniszter
+(3) Az állampolgársági eljárás során a miniszter és az állampolgársági ügyekben eljáró szerv
 
 - a) betekinthet az anyakönyvbe, az anyakönyvi alapiratokba, és ezekről másolatot kérhet;
-- b) adatot kérhet és betekinthet a polgárok személyi adat- és lakcímnyilvántartásába és a külföldiek nyilvántartásába;
+- b) adatot kérhet és betekinthet a személyiadat- és lakcímnyilvántartásba, az idegenrendészeti nyilvántartásba, a menekültügyi nyilvántartásba és az útiokmány-nyilvántartásba;
 - c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől és a bíróságtól;
-- d) véleményt kérhet a jegyzőtől, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától (a továbbiakban: járási hivatal), a konzultól, a gyámhatóságtól és az idegenrendészeti hatóságoktól, továbbá véleményt kér a rendőrségtől és az illetékes nemzetbiztonsági szolgálattól.
+- d) véleményt kérhet a jegyzőtől, a járási hivataltól, a konzultól, a gyámhatóságtól, az idegenrendészeti hatóságtól és a menekültügyi hatóságtól, továbbá véleményt kér a rendőrségtől és a feladat- és hatáskörrel rendelkező nemzetbiztonsági szolgálattól.
 
-20. § Az állampolgársági iratok nem selejtezhetők, őrzésükről és nyilvántartásukról a miniszter gondoskodik.
+(4) Az állampolgársági kérelem átvételére jogosult szerv a honosítási eljárás, a visszahonosítási eljárás, az állampolgárság megszerzésére irányuló eljárás és az állampolgárság igazolására irányuló eljárás során ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
+
+20. § Az állampolgársági iratok nem selejtezhetők, őrzésükről és nyilvántartásukról az állampolgársági ügyekben eljáró szerv gondoskodik.
 
 ### Névmódosítás
 
@@ -278,9 +309,9 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - b) – elvált családi állapot esetén – volt házastársa az (1) bekezdés a) pontja szerinti nevet viselte,
 - c) – özvegy családi állapot esetén – volt házastársa az (1) bekezdés a) pontja szerinti nevet viselte vagy kérhette volna az (1) bekezdés a) pontja szerinti név viselését.
 
-(2) A névmódosítási kérelmet okirattal vagy szakvéleménnyel kell alátámasztani.
+(2) A névmódosítási kérelmet – ha kormányrendelet eltérően nem rendelkezik – okirattal vagy szakvéleménnyel kell alátámasztani.
 
-(3) A névmódosítást a miniszter engedélyezi. Ha a miniszter a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
+(3) A névmódosítást a miniszter vagy az állampolgársági ügyekben eljáró szerv engedélyezi. Ha a miniszter vagy az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
 
 (4) A névmódosítást anyakönyvezni kell.
 
@@ -310,22 +341,23 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - b) akit menekültként elismertek, valamint
 - c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarországon gyakorolja, és bejelentési kötelezettségének eleget tett.
 
-(2) E törvény alkalmazása szempontjából külföldön lakik az a személy, akinek Magyarországon nincs bejelentett lakóhelye vagy tartózkodási helye.
+(2)
 
 24. § (1) E törvény a kihirdetését követő negyedik hónap első napján lép hatályba.
 
 (2)–(3)
 
-(4) Felhatalmazást kap a Kormány, hogy megállapítsa:
+(4) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa
 
-- a) a miniszter e törvényben meghatározott feladatainak részletes szabályait és kijelölje az e törvény 5/A. § (2)–(3) bekezdésében, 8. § (3) bekezdésében, 14. § (4) és (6) bekezdésében, 16. § (1) és (3) bekezdésében, 17. § (1) és (4) bekezdésében, (6) bekezdésében, (8) bekezdésében az előterjesztést kivéve, a 19. § (2) és (3) bekezdésében, 20. §-ában, továbbá a 20/A. § (3) bekezdésében meghatározott feladatokat a miniszter nevében ellátó állampolgársági ügyekben eljáró szervet,
-- b) az eskü vagy fogadalom letételével kapcsolatos feladatokat;
-- c) a járási hivatalnak, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
-- d) az eljárásban használandó formanyomtatványokat;
-- e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a fővárosi és megyei kormányhivatalnak a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
+- a) az állampolgársági ügyekben eljáró szervet,
+- b) az eskü vagy a fogadalom letételével kapcsolatos feladatokat,
+- c) az állampolgársági kérelem átvételére jogosult szervnek az állampolgársági kérelmek átvételével, az okiratok továbbításával kapcsolatos feladatait, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatokat,
+- d) az e törvény szerinti eljárásokban használandó formanyomtatványokat, az állampolgársági kérelemhez csatolandó okiratok körét,
+- e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét, továbbá a vizsga szervezésére jogosult szervet és annak a vizsgával kapcsolatos feladatait,
+- f) a névmódosítási kérelemhez a névmódosítási kérelemben foglaltak alátámasztására szolgáló okiratok körét.
 
 25. § E törvénynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor folyamatban lévő honosítási, visszahonosítási eljárásra is alkalmazni kell.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) bekezdése, 9. § (1) és (4) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.
+26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) bekezdése, 9. § (1) és (4) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.

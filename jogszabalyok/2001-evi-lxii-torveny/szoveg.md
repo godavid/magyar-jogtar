@@ -246,7 +246,7 @@ Ezek az információk szolgálják
 
 - a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
 - b) a személyiadat- és lakcímnyilvántartásból;
-- c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság tekintetében;
+- c) az állampolgársági ügyekben eljáró szervtől a magyar állampolgárság tekintetében;
 - d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
 
 (7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
