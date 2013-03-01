@@ -43,7 +43,7 @@ a következő törvényt alkotja:
 
 (5) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítási szolgáltatást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-ai 1371/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1371/2007/EK rendelet) e törvénnyel és a 49. § (1) bekezdés c) pontja alapján kiadott jogszabályokkal együttesen alkalmazandó.
 
-(6)
+(6) Az autóbuszos személyszállítási szolgáltatásra az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról szóló, 2011. február 16-ai 181/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 181/2011/EU rendelet) e törvénnyel és a 49. § (1) bekezdés d) pontja alapján megalkotott jogszabályokkal, az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-ei 1073/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1073/2009/EK rendelet) e törvénnyel és az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenységről szóló jogszabállyal együttesen alkalmazandó.
 
 #### 2. Értelmező rendelkezések
 

@@ -288,8 +288,9 @@ igényelhető.
 - o) a Központi Statisztikai Hivatal törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat;
 - p) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1)–(1a) bekezdésében, (2) bekezdés a)–b), d)–e) pontjában, (3) bekezdésében foglalt adatokat;
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
-- r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, valamint a (3) bekezdésében foglalt adatokat.
+- r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, valamint a (3) bekezdésében foglalt adatokat,
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben foglalt adatokat,
+- t) az anyakönyvvezető az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 

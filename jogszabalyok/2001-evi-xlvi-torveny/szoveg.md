@@ -230,7 +230,7 @@ Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rende
 
 - a) a polgárok személyiadat- és lakcímnyilvántartásából,
 - b) az anyakönyvi nyilvántartásokból,
-- c) az állampolgársági eljárásra jogosult hatóságtól,
+- c) az állampolgársági ügyekben eljáró szervtől,
 - d) a központi idegenrendészeti nyilvántartásból,
 - e) a központi útiokmány-nyilvántartásból,
 - f) a közúti közlekedési nyilvántartásból,

@@ -204,7 +204,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 - g) a művelési ágakat és azok betűjelét,
 - h) a minőségi osztályokat és azok megjelölését,
 - i) a földminősítési mintatereket,
-- j)–m)
+- j) önálló ingatlannak nem minősülő földfelszíni, valamint egyes földfelszín feletti, illetve alatti építményeket és egyéb létesítményeket, továbbá azok meghatározott tartozékait és azonosítóit.
+- k)–m)
 
 (2) Az állami földmérési alaptérképi adatbázis az állami ingatlan-nyilvántartási térképi adatbázis kötelező alapja.
 

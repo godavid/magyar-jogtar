@@ -173,6 +173,8 @@ bűncselekményt követett el, és azt a bíróság jogerős határozatában meg
 - b) a büntetőeljárás tárgyát képező cselekményre vonatkozó adatokat (a tényállás és annak Btk. szerinti minősítése),
 - c) a büntetőeljárásra vonatkozó adatokat (eljáró hatóság megnevezése, ügyszám, a foganatosított büntetőeljárási intézkedések, vádemelés megtörténte, elhalasztása, mellőzése, a kérelmező büntetőeljárási pozíciója, az ügyben volt-e/van-e folyamatban közvetítői eljárás).
 
+(1a) Ha a kárenyhítés iránti kérelmet a bűncselekmény sértettjének halálára tekintettel a 6. § (1) bekezdés b)–d) pontja szerinti személy nyújtja be, a bűncselekmény sértettjének halálát a büntetőeljárás adott szakaszában eljáró nyomozó hatóság, ügyész vagy bíróság az (1) bekezdés szerinti igazolásban igazolja.
+
 (2) Ha az áldozat ellen a 8. § h) pontjában megjelölt bűncselekmény miatt, a kárenyhítésre okot adó bűncselekménnyel összefüggésben büntetőeljárás indult, az igazolás ennek tényét is rögzíti.
 
 (3) A nyomozó hatóság, az ügyész, illetve a bíróság köteles az igazolást a kérelem kézhezvételét követő munkanapon a hivatali idő végéig kiállítani.
@@ -384,7 +386,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (2) A kérelemhez az alábbi dokumentumokat kell csatolni:
 
 - a) a jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő kérelmező kivételével a jövedelemre vonatkozó igazolást,
-- b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat, vagy a halotti anyakönyvi kivonatot.
+- b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat.
 
 (3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta vagy más bizonylat) is.
 

@@ -963,7 +963,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - e) az idegenrendészeti hatóság,
 - f) az adó- és vámhatóság,
 - g) a menekültügyi eljárásban közreműködő szakhatóság,
-- h) az állampolgársági ügyekben eljáró hatóság,
+- h) az állampolgársági ügyekben eljáró szerv és az állampolgársági ügyekért felelős miniszter,
 - i) a személyiadat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
 - j) a munkaügyi hatóság,
 - k) a munkavédelmi hatóság,
@@ -974,7 +974,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 igényelhetnek adatot.
 
-(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs, a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
+(2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
 
