@@ -658,6 +658,8 @@ megszerzése;
 - 37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat,
 - 38. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás.
 - 38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.
+- 39. a személyiadat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
+- 40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi.
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
@@ -1596,7 +1598,7 @@ II. Személyazonosító igazolvány, valamint a személyi azonosítót és lakc�
 
 a) a 14. életévét be nem töltött polgár személyazonosító igazolványa iránti kérelme, kivéve az elveszett, megsemmisült, megrongálódott okmány cseréje esetén,
 
-b) a 70. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
+b) a 65. életévét betöltött polgár személyazonosító igazolvány iránti kérelme, ha útlevéllel vagy kártyaformátumú vezetői engedéllyel nem rendelkezik.
 
 3.
 
@@ -1636,7 +1638,7 @@ X. Anyakönyvi és névváltoztatási eljárás
 
 3. Az anyakönyvi ügyekért felelős miniszter által megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
 
-4. A magyar állampolgár vagy Magyarországon élő hontalan személy, vagy a magyar menekültügyi hatóság által menekültként elismert személy külföldön történő házasságkötéséhez annak tanúsításáért, hogy házasságkötésének a magyar jog szerint nincs akadálya, 5000 forint illetéket kell fizetni.
+4.
 
 5. Nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges olyan igazolás alóli felmentésért, amely tanúsítja, hogy a házasságkötésnek a személyes joga szerint nincs akadálya, 5000 forint illetéket kell fizetni.
 

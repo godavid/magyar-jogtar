@@ -122,6 +122,8 @@ képes ellátni.
 
 (3) Ha a helyi önkormányzat döntése során kétség merül fel a tekintetben, hogy a közterület neve megfelel-e a (2) bekezdésnek, arról beszerzi a Magyar Tudományos Akadémia állásfoglalását.
 
+14/A. § Azonos településen – a fővárosban azonos kerületen – belül eltérő nevű, azonos név esetén eltérő jellegű közterületek lehetnek.
+
 15. § A helyi önkormányzat feladat- és hatásköreinek ellátása során – törvényben meghatározott módon és mértékben – biztosítja a közfoglalkoztatási jogviszonyban lévő személy feladatellátásba történő bevonását.
 
 16. § (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
