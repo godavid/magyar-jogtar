@@ -1393,7 +1393,7 @@ esetében.
 
 (2) A Hivatal a 92–94. § szerinti ügyletekhez történő hozzájárulást megtagadja, ha az ügylet eredményeképpen az engedélyes nem tud megfelelni a 75. § (3) bekezdés c) pontja szerinti követelményeknek.
 
-(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak.
+(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.
 
 (3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását vagy hozzájárulását igazoló dokumentummal együtt lehet benyújtani.
 
@@ -2318,6 +2318,34 @@ villamos energia képezi.
 
 (5) Amennyiben a Hivatal az (1) bekezdés a) pontja alapján a 104. §-ban meghatározott szétválasztási szabályoknak való megfelelést tanúsította, és a 104. § (6) bekezdése figyelembevételével átviteli rendszerüzemeltetésre vonatkozó működési engedélyt ad ki, azt követően az átviteli rendszerirányítónak a 102. §–102/E. §-ban foglalt szétválasztási szabályoknak való megfelelés tanúsítása iránti kérelmét érdemi vizsgálat nélkül elutasítja.
 
+160/A. § (1) A Hivatal a 160. § szerinti tanúsítási eljárástól eltérően az e § szerinti harmadik országokkal kapcsolatos tanúsítási eljárást folytatja le az alábbi esetekben:
+
+- a) az átviteli rendszerirányító (2) bekezdés szerinti bejelentése alapján,
+- b) a (3) bekezdés a) pontja szerinti kérelem alapján, vagy
+- c) ha a Hivatal a (3) bekezdés b) pontja szerinti jogügyletről szerez tudomást.
+
+(2) Az átviteli rendszerirányító köteles bejelenteni a Hivatalnak minden olyan tervezett jogügyletet, amely azt eredményezné, hogy harmadik országból vagy harmadik országokból származó személy vagy személyek szereznének irányítást az átviteli rendszerirányító vagy az átviteli hálózat tulajdonosa felett.
+
+(3) A Hivatal köteles haladéktalanul értesíteni az Európai Bizottságot
+
+- a) amennyiben olyan átviteli rendszerirányító vagy átviteli hálózat tulajdonos kéri a 160. § szerinti tanúsítási eljárás lefolytatását, amely felett harmadik országból vagy harmadik országokból származó személy vagy személyek gyakorolnak irányítást, vagy
+- b) minden olyan jogügyletről, amelynek következtében harmadik országból vagy harmadik országokból származó személy vagy személyek szereznének irányítást az átviteli rendszerirányító vagy az átviteli hálózat tulajdonosa felett.
+
+(4) A Hivatal a harmadik országokkal kapcsolatos tanúsítási eljárás során a szétválasztási szabályoknak való megfelelést nem tanúsítja, amennyiben az irányítást szerző nem bizonyította, hogy
+
+- a) az átviteli rendszerirányító megfelel az e törvény 102–102/E. §-ában, a 103. §-ában vagy a 104. §-ában foglalt rá vonatkozó rendelkezéseknek, és
+- b) a tanúsítás megadása nem veszélyezteti a villamosenergia-ellátás biztonságát – beleértve az Európai Unió villamosenergia-ellátásának biztonságát –, melynek vizsgálatakor a Hivatal
+  - ba) az Európai Uniónak a nemzetközi jogból eredő, különösen az ellátásbiztonság tárgyában kötött, két vagy többoldalú megállapodások szerinti jogait és kötelezettségeit,
+  - bb) a Magyar Köztársaság harmadik országgal vagy országokkal kötött nemzetközi megállapodásaiból eredő és az adott harmadik országgal vagy országokkal szemben fennálló, az Európai Unió jogával összeegyeztethető jogait és kötelezettségeit, és
+  - bc) az adott esetre és az érintett harmadik országra vonatkozó egyéb tényeket és körülményeket veszi figyelembe.
+
+(5) A Hivatal a tanúsítás megadása tárgyában a 168. § (4) bekezdésének h) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt haladéktalanul megküld az Európai Bizottságnak, és egyúttal megkéri véleményét arra vonatkozóan, hogy
+
+- a) az átviteli rendszerirányító megfelel-e a 2009/72/EK irányelv 9. cikkében foglalt követelményeknek, és
+- b) a tanúsítás megadása nem veszélyezteti-e az Európai Unió villamosenergia-ellátásának biztonságát.
+
+(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az Ügynökség vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül– nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és módosítja határozatát. A Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállama villamosenergia-ellátásának biztonságát, ez utóbbi esetekben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
+
 ### A Hivatal gazdálkodása
 
 161. § (1) A Hivatal a feladatai ellátásával, valamint működésével összefüggő kiadásokat és működését saját bevételeiből fedezi.
@@ -2493,7 +2521,8 @@ villamos energia képezi.
 - e)
 - e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
 - f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
-- g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap.
+- g) a rendszerhasználati díjak mértéke és alkalmazása egyedi feltételeinek megállapítására irányuló eljárásban 30 nap,
+- h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap.
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
