@@ -1993,9 +1993,9 @@ ELJÁRÁSOK
 
 (3) Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő a 63. § (1) bekezdésének megfelelően megbízottként kezeli, és a villamosenergia-rendszer használatáért fizetendő díjat a villamosenergia-kereskedő érvényesíti a felhasználó felé, akkor a villamosenergia-kereskedő köteles a villamosenergia-vásárlási szerződéshez kapcsolódó díjtételt külön és a villamosenergia-rendszer használatáért fizetendő díjakat a számlán egyértelműen – egyetemes szolgáltató esetén az egyetemes szolgáltatók által alkalmazható számlaképről szóló miniszteri rendeletben meghatározottak szerint – legalább két összevont tételben külön feltüntetni.
 
-(4)
+(4) E törvény szerinti engedélyes és a magánvezeték engedélyese a pénzforgalmi számlájának vezetésével kapcsolatos, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szerint pénzügyi tranzakciós illeték fizetésére kötelezett által tranzakciós illetékkel összefüggésben felszámított díjat (a továbbiakban: tranzakciós díj) nem háríthatja át a vele szerződésben állóra. Ebből következően a tranzakciós díj az engedélyes, a magánvezeték engedélyese által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt az engedélyes, a magánvezeték engedélyese önállóan viseli.
 
-(5) Az egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény (a továbbiakban: Különadó törvény) szerint különadó fizetésére kötelezett e törvény szerinti engedélyesek a különadót nem háríthatják át a velük szerződésben álló engedélyesekre vagy felhasználókra. Ebből következően a különadó az engedélyes által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvény szerinti adóalanyok önállóan viselik.
+(5) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény, valamint a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 
 141. § (1)–(2)
 
@@ -2565,11 +2565,11 @@ villamos energia képezi.
 
 (3) A rendszerhasználati vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata iránti ügyben a bíróság soron kívül jár el, azzal hogy a bíróság határozatát legkésőbb a felülvizsgálati kérelem benyújtását követő 30 napig meghozza.
 
-(4) Ha a rendszerhasználati vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata során a bíróság a határozatot jogerősen hatályon kívül helyezi, mindaddig a jogerős bírósági döntést közvetlenül megelőzően alkalmazott hatályos díjakat és áralkalmazási feltételeket kell alkalmazni, amíg a Hivatal által jogerősen, a bírósági határozat alapján új eljárásban megállapított új rendszerhasználati vagy csatlakozási díjak hatályba nem lépnek, azzal, hogy a rendszerhasználati díjak tekintetében legkésőbb addig az időpontig, amíg a Hivatal által, e törvény rendelkezései szerint, a következő naptári év vonatkozásában megállapított új rendszerhasználati díjak hatályba lépnek.
+(4) Ha a rendszerhasználati vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálatának eredményeként a bíróság megállapítja, hogy a Hivatal határozatát hatályon kívül kell helyezni, a bíróság a Hivatal határozatát a Hivatal által lefolytatandó új hatósági eljárásban megállapítandó új rendszerhasználati vagy csatlakozási díjakat meghatározó határozat jogerőre emelkedésétől helyezi hatályon kívül.
 
 (5) A rendszerhasználati vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata során a határozat részbeni hatályon kívül helyezésének nincs helye.
 
-(6) Ha a rendszerhasználati vagy csatlakozási díjakat megállapító határozat bírósági felülvizsgálata során a bíróság a határozatot jogerősen részben hatályon kívül helyezi, a Hivatal a határozat bírósági felülvizsgálattal nem érintett, de számítási szempontból attól elválaszthatatlannak minősülő részét a Ket. 114. § szerint a bíróság határozatának jogerőre emelkedésétől számított 6 hónapon belül jogosult módosítani.
+(6)
 
 ### Energetikai Állandó Választottbíróság
 
@@ -2868,6 +2868,10 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (2) E törvénynek a szervezett villamosenergia-piacra, a szervezett villamosenergia-piaci működési engedélyre és a szervezett villamosenergia-piaci engedélyesre vonatkozó, a 76. § (1) bekezdés c) pontjának hatálybalépésével egyidejűleg hatályba lépő rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
 
 178/G. § E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és egyes energetikai tárgyú törvények módosításáról szóló 2012. évi XLVII. törvény 40. § (1) bekezdésével megállapított 57. § (4) bekezdés b) pontját, a 40. § (2) bekezdésével megállapított 57. § (4a) bekezdését, a 40. § (3) bekezdésével megállapított 57. § (5) bekezdését, valamint a 41. § (1) bekezdésével megállapított 159. § (5) bekezdés 1. és 2. pontját a hatálybalépéskor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+
+178/H. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény és a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi XII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (4) és (5) bekezdését a folyamatban lévő bírósági és hatósági eljárásokban is alkalmazni kell.
+
+(2) A Módtv.-vel megállapított 168/A. § (4) bekezdését a folyamatban lévő elsőfokú bírósági és felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

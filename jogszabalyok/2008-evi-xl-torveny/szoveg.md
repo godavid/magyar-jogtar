@@ -1247,7 +1247,9 @@ foglalt árat vagy díjat köteles megfizetni.
 
 (3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdés szerinti díjakat a Hivatal határozatban állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát a miniszter rendeletben állapítja meg.
 
-(4) Az egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény (a továbbiakban: Különadó törvény) szerint különadó fizetésére kötelezett e törvény szerinti engedélyesek, valamint a termelő a különadót nem háríthatják át a velük szerződésben álló engedélyesekre vagy felhasználókra. Ebből következően a különadó az engedélyes által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvény szerinti adóalanyok önállóan viselik.
+(4) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény és a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett termelő, valamint e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
+
+(4a) A termelő és az e törvény szerinti engedélyes a pénzforgalmi számlájának vezetésével kapcsolatos, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szerint pénzügyi tranzakciós illeték fizetésére kötelezett által tranzakciós illetékkel összefüggésben felszámított díjat (a továbbiakban: tranzakciós díj) nem háríthatja át a vele szerződésben állóra. Ebből következően a tranzakciós díj az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt az engedélyes, illetve a termelő önállóan viseli.
 
 104. § (1) A hatósági árat legmagasabb árnak kell tekinteni.
 
@@ -2032,7 +2034,9 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy hónap,
 - e) a 128/A. § (5) bekezdése szerinti eljárásban két hónap.
 
-(3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés kivételével – a határozatot jogosult megváltoztatni.
+(3) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott és a rendszerhasználati vagy csatlakozási díjakat megállapító határozat kivételével – a határozatot jogosult megváltoztatni.
+
+(3a) Ha a rendszerhasználati vagy a csatlakozási díjakat megállapító határozat bírósági felülvizsgálatának eredményeként a bíróság megállapítja, hogy a Hivatal határozatát hatályon kívül kell helyezni, a bíróság a Hivatal határozatát a Hivatal által lefolytatandó új hatósági eljárásban megállapítandó új rendszerhasználati vagy csatlakozási díjakat meghatározó határozat jogerőre emelkedésétől helyezi hatályon kívül.
 
 (4) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illeti meg.
 
@@ -2378,6 +2382,10 @@ földgáz képezi.
 (2) A tárgyalásos földgáztárolói hozzáférés legkorábban a Hivatal (1) bekezdés szerinti döntését követően alkalmazható.
 
 (3) A Hivatal a tárgyalásos földgáztárolói hozzáférés bevezetésére vonatkozó döntést megalapozó (1) bekezdés szerinti elemzést első alkalommal 2011. december 31-ig készíti el.
+
+146/B. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény és a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi XII. törvénnyel (a továbbiakban: Mód. 3. tv.) megállapított 103. § (4) és (4a) bekezdését a folyamatban lévő bírósági és hatósági eljárásokban is alkalmazni kell.
+
+(2) A Mód. 3. tv.-vel megállapított 129. § (3a) bekezdését a folyamatban lévő első- és másodfokú bírósági, továbbá felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
