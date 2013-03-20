@@ -183,7 +183,9 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 22. § E törvénynek a más jogszabályban alkalmazandó rövidítése: „Vjt.”.
 
-23. § E törvény rendelkezéseit – a 2. § (3) bekezdése kivételével – első alkalommal a hatálybalépését követő országgyűlési képviselők általános választásán kell alkalmazni.
+23. § (1) E törvény rendelkezéseit – a 2. § (3) bekezdése és a 4. § (6) bekezdése kivételével – első alkalommal az országgyűlési képviselők e törvény hatálybalépését követő általános választásán kell alkalmazni.
+
+(2) A 4. § (6) bekezdésében foglaltakat az országgyűlési képviselők e törvény hatálybalépését követő általános választását megelőzően úgy kell alkalmazni, hogy a 2. számú melléklet módosítására 2013. június 30-a és az országgyűlési képviselők e törvény hatálybalépését követő általános választásának napja közötti időben nem kerülhet sor.
 
 24. § (1) Az országgyűlési képviselők választásáról szóló 1989. évi XXXIV. törvény rendelkezéseit kell alkalmazni az e törvény hatálybalépését követőďországgyűlési képviselők általános választásának kitűzéséig.
 
