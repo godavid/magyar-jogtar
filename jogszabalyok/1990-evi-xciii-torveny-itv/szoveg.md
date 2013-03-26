@@ -1020,7 +1020,7 @@ esetében.
 
 (4) A díjat – amennyiben a díjat megállapító miniszteri rendelet eltérően nem rendelkezik – átutalással kell megfizetni. Átutalás, készpénzátutalás útján történő megfizetés esetén a díjjogszabályban meg kell jelölni a díj beszedésére jogosultat, valamint a fizetési számla megnevezését és számát.
 
-(5) A díjat megállapító jogszabályban rendelkezni kell a díj – ideértve a jogorvoslati díjat is – beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokról. A díjat megállapító jogszabályban nem szabályozott kérdésekre a (6) bekezdésben foglaltak kivételével e törvénynek csak azok a rendelkezései alkalmazhatók – ideértve a személyes és tárgyi mentességet is –, amelyekre a díjat megállapító jogszabály konkrétan utal.
+(5) A díjat megállapító jogszabályban rendelkezni kell a díj – ideértve a jogorvoslati díjat is – beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokról. A díjat megállapító jogszabályban nem szabályozott kérdésekre a (6) bekezdésben és a 73. § (4) bekezdésben foglaltak kivételével e törvénynek csak azok a rendelkezései alkalmazhatók – ideértve a személyes és tárgyi mentességet is –, amelyekre a díjat megállapító jogszabály konkrétan utal.
 
 (6) A szakhatósági eljárásért fizetendő igazgatási szolgáltatási díjat a díj megállapításáról rendelkező jogszabályban előírtak szerint kell megfizetni, és a megfizetés tényét az alapeljárás iránti kérelem mellékleteként igazolni kell. Előzetes szakhatósági eljárás esetén az igazgatási szolgáltatási díjat a szakhatósági eljárás kezdeményezésekor kell megfizetni.
 
@@ -1097,9 +1097,9 @@ kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt
 
 (3a) Az adózás rendjéről szóló törvény szerinti felügyeleti intézkedés iránti kérelem illetékét illetékbélyeggel kell megfizetni, ha az eljárást az adópolitikáért felelős miniszter vagy a NAV felügyeletére kijelölt miniszter folytatja le.
 
-(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően készpénzátutalási megbízás vagy azt követően az eljáró hatóság által az ügyfél rendelkezésére bocsátott ügyiratszámra hivatkozással átutalási megbízás útján kell megfizetni az elektronikus kapcsolattartás részletes eljárási szabályairól szóló külön jogszabály szerint.
+(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni, az elektronikus kapcsolattartás részletes eljárási szabályairól szóló külön jogszabály szerint.
 
-(4a) Az elektronikus úton kezdeményezett építésügyi hatósági, szakhatósági eljárások illetékét az eljárás megindítását megelőzően átutalási megbízással, vagy ha erre lehetőség van, az eljárás megindításával bankkártyával kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
+(4a) Az elektronikus úton kezdeményezett építésügyi hatósági, valamint az azokban szükséges szakhatósági eljárások illetékét készpénz átutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül, az eljárás megindítását megelőzően vagy azt követően kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 
 (5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4) bekezdésben szabályozott esetben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
 

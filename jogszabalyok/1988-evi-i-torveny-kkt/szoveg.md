@@ -86,7 +86,7 @@ alapvető jogai és kötelezettségei
 
 9. § (1) A közúti közlekedéssel összefüggő állami feladatokat a Kormány, a miniszterek, államigazgatási szervek, valamint az egyéb költségvetési szervek látják el.
 
-(1a) A 8. § (1) bekezdés a)–h) és j) pontjaiban meghatározott állami feladatok ellátását a közlekedésért felelős miniszter koordinálja.
+(1a) A 8. § (1) bekezdés a)–c) pontjában meghatározott állami feladatok ellátását a közlekedésért felelős miniszter (a továbbiakban: miniszter) koordinálja.
 
 (2) A helyi önkormányzat képviselő-testülete vagy közgyűlése gondoskodik a közúti közlekedéssel összefüggő helyi önkormányzati feladatok ellátásáról, így különösen
 
@@ -104,7 +104,7 @@ alapvető jogai és kötelezettségei
 
 (4) A koncessziós pályázatot
 
-- a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak — illetőleg azok egyes szakaszai — és a műtárgyaik működtetésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) az állami vagyon felügyeletéért felelős miniszter egyetértésével;
+- a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak — illetőleg azok egyes szakaszai — és a műtárgyaik működtetésére a miniszter az állami vagyon felügyeletéért felelős miniszter egyetértésével;
 - b) az önkormányzat törzsvagyonának részét képező közutak és a műtárgyaik működtetésére az önkormányzat képviselő-testülete írja ki.
 
 (5) A pályázati kiírásnak — a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakon túlmenően — tartalmaznia kell:

@@ -142,7 +142,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (4) A járművezetéstől eltiltás – e törvény eltérő rendelkezése hiányában – legrövidebb tartama egy hónap, leghosszabb tartama egy év.
 
-17. § A járművezetéstől eltiltás hatálya a szabálysértési határozat jogerőre emelkedésével kezdődik. Amennyiben az eljárás alá vont személy a szabálysértés elkövetésekor vezetői engedéllyel (igazolvánnyal) rendelkezett, az eltiltás tartama a vezetői engedélynek (igazolványnak) a leadása napján veszi kezdetét.
+17. § A járművezetéstől eltiltás hatálya a szabálysértési határozat jogerőre emelkedésével kezdődik.
 
 #### 11. Az elkobzás
 
@@ -257,7 +257,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (5) Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha a határozat meghozatalakor betöltötte a tizenhatodik életévét.
 
-28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség hivatásos állományú tagja.
+28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el.
 
