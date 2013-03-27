@@ -1125,13 +1125,13 @@ terjedhet.
 
 (2) A kötelezést tartalmazó határozat, illetve ajánlás ellen fellebbezésnek nincs helye, annak hatályon kívül helyezése azonban kérhető a bíróságtól a (3) bekezdésben meghatározottak szerint.
 
-(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól, ha
+(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Törvényszéktől, ha
 
 - a) a tanács összetétele vagy eljárása nem felelt meg e törvény rendelkezéseinek,
 - b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 - c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 4. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
 
 98. § (1) A pert a Pénzügyi Békéltető Testülettel szemben kell megindítani. A Pénzügyi Békéltető Testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -1326,6 +1326,12 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 (4) E törvény 136. §-a 2011. április 30-án lép hatályba.
 
 118/A. § E törvény – egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvény 97. §-ával megállapított – 50. § (3) bekezdését a Felügyelet elnökének a formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására vonatkozó részletes szabályokat tartalmazó rendeletének a kihirdetését követő hatvanadik naptól kell alkalmazni, az abban szabályozott engedélyezési, jóváhagyási és nyilvántartásba vételi, törlési, valamint bejelentésekre vonatkozó eljárásokban.
+
+118/B. § (1) A 97. § (2)–(4) bekezdése alapján indult, és a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosításáról szóló 2013. évi XV. törvény e törvényt módosító rendelkezéseinek hatálybalépésekor folyamatban lévő ügyeket, továbbá azokat az első fokon befejezett ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a Fővárosi Közigazgatási és Munkaügyi Bíróság haladéktalanul megküldi a Fővárosi Törvényszéknek.
+
+(2) A 97. § (2)–(4) bekezdése alapján indult, és a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosításáról szóló 2013. évi XV. törvény e törvényt módosító rendelkezéseinek hatálybalépésekor másodfokon folyamatban lévő ügyeket a Fővárosi Törvényszék haladéktalanul megküldi a Fővárosi Ítélőtáblának. Az elsőfokú határozat hatályon kívül helyezése és új eljárás elrendelése esetén az új eljárást a Fővárosi Törvényszék mint elsőfokú bíróság folytatja le.
+
+(3) Az ügyek (1) és (2) bekezdés szerinti megküldése során a polgári perrendtartásról szóló 1952. évi III. törvény 129. §-a és 158. § (2) bekezdése rendelkezéseit nem kell alkalmazni.
 
 119. § (1) A Felügyelet e törvény hatálybalépése előtt kinevezett elnökének, valamint alelnökeinek megbízatása a kinevezési okmányon feltüntetett határidővel jár le.
 
