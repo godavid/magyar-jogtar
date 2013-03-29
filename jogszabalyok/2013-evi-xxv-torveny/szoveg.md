@@ -120,9 +120,7 @@ Az Országgyűlés az egészségügyi ellátás folyamatos és biztonságos ell�
 
 (2) Az 1. melléklet 2013. augusztus 31-én hatályát veszti.
 
-10. § A gazdasági társaságokról szóló 2006. évi IV. törvény 68. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha a gazdasági társaság megszűnésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvény alapján kerül sor, az (1)–(4) bekezdés helyett a jogutód nélküli megszűnés feltételeire, az eljárás lefolytatására, a társaságot terhelő kötelezettségek rendezésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvényt kell alkalmazni.”
+10. §
 
 ### 1. melléklet a 2013. évi XXV. törvényhez
 
