@@ -694,7 +694,13 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (5)
 
-#### 21/B. §
+### Az Európai Unió más tagállamában nyilvántartott gépjárművel elkövetett közlekedési szabályszegések esetén alkalmazandó eltérő rendelkezések
+
+21/B. § (1) Ha a 20. § (1) bekezdés ka) és kb) alpontjába, kc) alpontjának a fényjelző készülék piros fényjelzésére vonatkozó szabályába vagy kd), kg) és kh) alpontjába ütköző magatartást az Európai Uniónak a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet (a továbbiakban: Irányelv) átültető más európai uniós tagállamban (a továbbiakban e § alkalmazásában: más tagállam) bejegyzett gépjárművel követték el, a 20. § (11) bekezdés e) és f) pontjában meghatározott hatóság az érintett jármű tulajdonosa, üzemben tartója azonosító adatainak megállapítása céljából a Kormány által kijelölt kapcsolattartó ponton keresztül a gépjármű teljes forgalmi rendszámának, a jogsértés napjának és időpontjának, valamint az elkövetett szabályszegésnek a megjelölésével automatizált keresést rendelhet el a gépjármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+
+(2) Ha a 21. § (1) bekezdés a) pontjába, c) pontjának a fényjelző készülék piros fényjelzésére vonatkozó szabályába vagy e) és f) pontjába ütköző magatartást más tagállamban bejegyzett gépjárművel követték el, a 21. § (4) bekezdése szerint kijelölt hatóság az érintett jármű tulajdonosa, üzemben tartója azonosító adatainak megállapítása céljából a Kormány által kijelölt kapcsolattartó ponton keresztül a gépjármű teljes forgalmi rendszámának, a jogsértés napjának és időpontjának, valamint az elkövetett szabályszegésnek a megjelölésével automatizált keresést rendelhet el a gépjármű nyilvántartásba vétele szerinti tagállam nemzeti gépjármű-nyilvántartási adatállományában.
+
+(3) A 20. § és a 21. § alkalmazása során a jogszabályban meghatározott formanyomtatvány alkalmazásával, a gépjármű nyilvántartásba vétele szerinti állam valamely hivatalos nyelvén tájékoztatni kell az üzembentartót az elkövetett szabályszegésről, az érintett gépjármű adatairól, a szabályszegés miatt megállapított pénzbírság összegéről, a befizetési határidőről, az e törvény szerinti kimentési okokról és azok igazolásának módjáról és határidejéről, az eljáró hatóság megnevezéséről és címéről, valamint a jogorvoslat lehetőségéről vagy annak hiányáról.
 
 ### A központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás
 
@@ -1438,7 +1444,8 @@ során a vizsgáztatásról, vizsgálatról és ellenőrzésről – adatrögzí
 - m) a közlekedésért felelős miniszterrel egyetértésben
   - ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
   - mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
-- n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat
+- n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység engedélyezésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+- o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt
 
 rendeletben állapítsa meg.
 
@@ -1473,4 +1480,5 @@ rendeletben állapítsa meg.
 - b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.) a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről, az Mt.-vel és a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénnyel együtt;
 - c) az Európai Parlament és a Tanács 2006/22/EK irányelve (2006. március 15.) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről, 2. cikkének (1) és (2) bekezdése;
 - d) az Európai Parlament és a Tanács 2006/38/EK irányelve (2006. május 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról, 1. cikk 1. pont c) és e) alpontja, 1. cikk 2. pont a) és e) alpontja, 1. cikk 7. pont b) alpontja;
-- e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.) a közúti infrastruktúra közlekedésbiztonsági kezeléséről, 3. cikk (1) bekezdés, 4. cikk (1) bekezdés, 9. cikk (4) bekezdés.
+- e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.) a közúti infrastruktúra közlekedésbiztonsági kezeléséről, 3. cikk (1) bekezdés, 4. cikk (1) bekezdés, 9. cikk (4) bekezdés;
+- f) a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelv 2. cikk a)–d) és g) pontja, 4. és 5. cikke és II. Melléklete.

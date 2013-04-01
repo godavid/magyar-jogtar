@@ -1176,6 +1176,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 95. § Mentes a végrehajtás alól a postára feladott pénz és más küldemény, továbbá a közforgalmú fuvarozónak fuvarozásra átadott dolog mindaddig, amíg azt a posta, illetőleg a fuvarozó az átvételre jogosultnak nem adta át.
 
+95/A. § Mentes a végrehajtás alól a Magyar Szénhidrogén Készletező Szövetség tulajdonában álló biztonsági és különleges kőolajkészlet.
+
 96. § (1) Mentes a végrehajtás alól a közraktárban elhelyezett dolog.
 
 (2) A közraktárban elhelyezett dologra vonatkozó jog, illetőleg a róla szóló okirat (áru- és zálogjegy) végrehajtás alá vonható.

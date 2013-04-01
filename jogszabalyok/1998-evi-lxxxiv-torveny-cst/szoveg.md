@@ -76,6 +76,11 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 (2) Saját jogán jogosult nevelési ellátásra a tizennyolcadik életévét betöltött tartósan beteg, illetve súlyosan fogyatékos személy az iskoláztatási támogatásra való jogosultság megszűnésének időpontjától.
 
+(3) Nevelési ellátásra jogosult – a gyermekre tekintettel folyósított iskoláztatási támogatásra való jogosultság megszűnésének időpontjától a gyermek tizennyolcadik életévének betöltéséig – az (1) bekezdés a)–c) pontja szerinti személy
+
+- a) a tizenhatodik életévét betöltött, a sajátos nevelési igény tényét megállapító szakértői vélemény alapján középsúlyosan vagy súlyosan értelmi fogyatékos, illetve siketvak gyermekre tekintettel,
+- b) azon tizenhatodik életévét betöltött gyermekre tekintettel, aki tankötelezettségét fejlesztő nevelés-oktatás, vagy fejlesztő iskolai oktatás keretében teljesítette.
+
 ### Iskoláztatási támogatás
 
 8. § (1) Iskoláztatási támogatásra jogosult
