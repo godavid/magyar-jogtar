@@ -271,12 +271,14 @@ használhatja fel.
 (2) Az agrárkamara tagjai részére térítésmentes alapszolgáltatásként
 
 - a)–b)
-- c)
+- c) általános agrometeorológiai tájékoztatást ad;
 - d)
-- e)
+- e) tájékoztatást nyújt földügyekkel kapcsolatosan a földtulajdonnal, földhasználattal és földforgalmazással összefüggő kérdésekben, valamint a Nemzeti Földalapkezelő Szervezet által kiírt pályázatokkal kapcsolatosan;
 - f)
 - g)
-- h)–j)
+- h) növényvédelmi előrejelzést ad;
+- i) piaci információkat ad;
+- j) általános információt szolgáltat a piaci szereplők minősítéséről.
 
 (3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó szolgáltatások körét.
 

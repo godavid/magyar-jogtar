@@ -274,6 +274,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (8) Aki a jogosult halála esetén a kiutalt fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre határozatban kötelezték.
 
+(9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a kincstár a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a kincstárnak átadja. A kincstár a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
+
 ### A nyilvántartásra, adatvédelemre vonatkozó rendelkezések
 
 23/F. § (1) A kincstár a fogyatékossági támogatásra való jogosultság megállapítása, az ellátás biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza
@@ -291,6 +293,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.
 
 (4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+
+(4a) A kincstár a fogyatékossági támogatással kapcsolatos eljárása során a fogyatékossági támogatást igénylő vagy fogyatékossági támogatásra jogosult személyre vonatkozóan – a fogyatékossági támogatásra való jogosultság elbírálása, illetve a jogosultság fennállásának ellenőrzése céljából – az (1) bekezdés c) pontja szerinti adatot kérhet a polgárok személyi adatait és lakcímét nyilvántartó szervtől és az (1) bekezdés g) pontja szerinti adatot kérhet az Egészségbiztosítási Alap kezeléséért felelős szervtől.
 
 (5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a kincstár által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -384,7 +388,7 @@ tevékenységet végez.
 - b) a fogyatékossági támogatás folyósításának, elszámolásának szabályait;
 - c) a speciális munkahely működésének, finanszírozásának szabályait;
 - d) a Fogyatékosügyi Tanács szervezetére és működésére vonatkozó részletes szabályokat.
-- e) a 23. § (2) bekezdésében meghatározott személyekre vonatkozó ellátás igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
+- e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait.
 

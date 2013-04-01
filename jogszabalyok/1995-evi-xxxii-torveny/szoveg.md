@@ -11,7 +11,7 @@ a szabadalmi ügyvivőkről
 - a) a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, formatervezési mintaoltalmi és topográfiaoltalmi ügyek, a védjegyügyek, a földrajzi árujelzőkkel kapcsolatos ügyek, valamint az ezekhez kapcsolódó jogorvoslati és végrehajtási eljárások;
 - b) a találmány- és a szabadalombitorlás, a növényfajta és a növényfajta-oltalom, a használati minta és a használati mintaoltalom, a formatervezési minta és a formatervezési mintaoltalom, a topográfia és a topográfiaoltalom bitorlása, továbbá a védjegybitorlás és a földrajzi árujelző oltalmának bitorlása miatt indított eljárások;
 - c) a szabadalmi, a növényfajta-oltalmi és a használati mintaoltalmi kényszerengedéllyel, valamint az ilyen előhasználati vagy továbbhasználati jog fennállásával kapcsolatos eljárások, ideértve az európai szabadalom magyar nyelvű fordításának kijavításáról szóló hatósági tájékoztatás közlése előtt megkezdett hasznosításból eredő jogosultsággal kapcsolatos eljárást is;
-- d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, továbbá az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog megsértése miatt indított eljárások;
+- d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, a gyűjteményes műnek minősülő és egyéb adatbázison, a számítástechnikai eszközökkel hozzáférhető tartalmú alkotásokon, az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog vagy szerzői joghoz kapcsolódó jog megsértése miatt indított, továbbá az önkéntes műnyilvántartásra vonatkozó eljárások;
 - e) az a)–d) pontok szerinti jogokkal kapcsolatos szerzőségi, igényjogosultsági és díjazási eljárások;
 - f) a Polgári Törvénykönyv által védett és külön jogszabályok hatálya alá nem tartozó, társadalmilag széles körben felhasználható és közkinccsé nem vált szellemi alkotásokkal kapcsolatos eljárások;
 - g) a személyeket a vagyoni értékű gazdasági, műszaki és szervezési ismereteik és tapasztalataik (know-how) tekintetében megillető védelemmel kapcsolatos eljárások; valamint
@@ -33,7 +33,7 @@ a szabadalmi ügyvivőkről
 
 - a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorló;
 - b) büntetlen előéletű;
-- c) mérnöki vagy azzal egyenértékű természettudományi szakos egyetemi oklevéllel rendelkezik; és
+- c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 - d) szabadalmi ügyvivői vizsgát tett.
 
 (3) A Kamarába való felvételhez rendelkezni kell
@@ -79,9 +79,9 @@ a szabadalmi ügyvivőkről
 
 3. § (1) A szabadalmi ügyvivőnek a kamarai felvételétől számított egy hónapon belül a Kamara elnöke előtt esküt kell tennie.
 
-(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
+(2) A szabadalmi ügyvivői eskü szövege a következő: „Én, (az eskütevő neve) fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek, jogszabályait megtartom, szabadalmi ügyvivői hivatásomat azokkal összhangban gyakorolom. Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint, ügyfelem érdekében eljárva teljesítem, az ennek során tudomásomra jutott titkot megőrzöm. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!”
 
-(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: szabadalmi ügyvivő.
+(2a)
 
 (3) Ha a szabadalmi ügyvivő nem magyar állampolgár, működését a (2) bekezdésben foglalttól a szükséges mértékben eltérő, a Kamara által megállapított szövegű eskü letételét követően kezdheti meg.
 
@@ -146,7 +146,7 @@ a szabadalmi ügyvivőkről
 
 ### A szabadalmi ügyvivői iroda
 
-7. § (1) A szabadalmi ügyvivői iroda szabadalmi ügyvivők jogi személyiséggel rendelkező szervezete, amelynek legalább két szabadalmi ügyvivő tagja van.
+7. § (1) A szabadalmi ügyvivői iroda jogi személyiséggel rendelkező szervezet, amelynek kizárólag szabadalmi ügyvivő tagja van. Szabadalmi ügyvivői irodát egy vagy több szabadalmi ügyvivő alapíthat.
 
 (2) A szabadalmi ügyvivői iroda szabadalmi ügyvivőt alkalmazottként is foglalkoztathat.
 
@@ -200,8 +200,8 @@ a szabadalmi ügyvivőkről
 10. § (1) A szabadalmi ügyvivői társaságban akkor végezhető ügyvivői tevékenység, ha
 
 - a) a társaság kizárólag szabadalmi ügyvivői feladatokat lát el,
-- b) a társaságnak csak természetes személy tagjai vannak, akik közül legalább két tag szabadalmi ügyvivő,
-- c) a társaság jegyzett tőkéjének legalább háromnegyed részét a szabadalmi ügyvivő tagok vagyoni hozzájárulásai teszik ki, akik a társaságban legalább ilyen arányú szavazati joggal is rendelkeznek,
+- b) a társaságnak csak természetes személy tagjai vannak, akik közül legalább egy tag szabadalmi ügyvivő,
+- c) a társaság jegyzett tőkéje társasági tulajdonban levő hányadán felüli részének legalább háromnegyedét a szabadalmi ügyvivő tag vagy tagok vagyoni hozzájárulása teszi ki, és a társaságban a szabadalmi ügyvivői szavazati jog is legalább ilyen arányú,
 - d) a szabadalmi ügyvivői társaság vezető tisztségviselője és tisztségviselőinek legalább háromnegyed része a szabadalmi ügyvivő tagok közül kerül ki.
 
 (2) A szabadalmi ügyvivői társaság szabadalmi ügyvivőt alkalmazottként is foglalkoztathat.
@@ -244,11 +244,13 @@ a szabadalmi ügyvivőkről
 
 (2) Aki korábban iparjogvédelmi ügyekben eljáró bíróságnál bíró volt, e jogviszonyának megszűnése után egy évig nem járhat el szabadalmi ügyvivőként annál a bíróságnál, amelynél működött.
 
-15. § (1) A szabadalmi ügyvivőt titoktartási kötelezettség terheli minden olyan tény vagy adat tekintetében, amelyről szabadalmi ügyvivői működése során szerzett tudomást; e kötelezettsége szabadalmi ügyvivői működésének megszűnése után is fennmarad.
+15. § (1) A szabadalmi ügyvivőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tény vagy adat tekintetében, amelyről szabadalmi ügyvivői működése során szerzett tudomást; e kötelezettsége szabadalmi ügyvivői működésének megszűnése után is fennmarad.
 
-(2) A titoktartási kötelezettség kiterjed a szabadalmi ügyvivői szervezetek olyan irataira is, amelyek a szabadalmi ügyvivői titoktartás körébe eső tényeket vagy adatokat tartalmaznak.
+(2) A titoktartási kötelezettség kiterjed a szabadalmi ügyvivő olyan irataira is, amelyek a szabadalmi ügyvivői titoktartás körébe eső tényeket vagy adatokat tartalmaznak. A szabadalmi ügyvivőnél folytatott hatósági vizsgálat során a szabadalmi ügyvivő nem tárhatja fel a megbízójára vonatkozó iratokat és adatokat, de a hatóság eljárását nem akadályozhatja.
 
 (3) Az ügyfél, illetőleg jogutódja a titoktartási kötelezettség alól felmentést adhat.
+
+(4) A titoktartási kötelezettség az egyéni szabadalmi ügyvivőkre és alkalmazottaikra, a szabadalmi ügyvivői irodákra és alkalmazottaikra, szabadalmi ügyvivői társaságokra és alkalmazottaikra, a Magyar Szabadalmi Ügyvivői Kamarára, annak tisztségviselőire és alkalmazottaira is kiterjed.
 
 ### Az ügyfélképviselet szabályai
 
@@ -478,7 +480,7 @@ a szabadalmi ügyvivőkről
 
 - a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorolt;
 - b) büntetlen előéletű;
-- c) mérnöki vagy azzal egyenértékű természettudományi szakos egyetemi oklevéllel rendelkezik; és
+- c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
 - d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött.
 
 (3) Nem lehet szabadalmi ügyvivőjelölt, aki
