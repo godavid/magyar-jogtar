@@ -22,7 +22,8 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 - g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
 - h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára;
 - i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.
-- j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira.
+- j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira;
+- k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
 

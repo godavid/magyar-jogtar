@@ -63,7 +63,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - a) az ipari tulajdon oltalmára létesült Párizsi Uniós Egyezményben meghatározott állami felségjelet, illetve hatóságot vagy nemzetközi szervezetet megillető jelzést jogosulatlanul használ;
 - b) olyan – az a) pontban nem szabályozott – kitüntetést, jelvényt, címert, illetve hivatalos szavatossági vagy hitelesítési jegyet tartalmaz, amelynek használatához közérdek fűződik.
 
-(2) Az illetékes szerv hozzájárulásával oltalomban részesülhet a minta, amelynek az (1) bekezdésben meghatározott jelzés csupán elemét képezi.
+(2) Az illetékes szerv hozzájárulásával oltalomban részesülhet a minta, amely az (1) bekezdésben meghatározott jelzésből áll, vagy azt tartalmazza.
 
 9. § (1) A minta nem részesülhet oltalomban, ha ütközik az elsőbbség időpontját követően nyilvánosságra jutott olyan mintával, amelyre korábbi elsőbbséggel adtak mintaoltalmat.
 
@@ -303,6 +303,12 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - g) a nemzetközi lajstromozás hatályának elutasítása Magyarország területére kiterjedően.
 
 (4) A szabadalmi törvény eltérő rendelkezése hiányában a (3) bekezdés e) és f) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
+
+(5) Olyan ügyekben, ahol nincs ellenérdekű ügyfél, a Szellemi Tulajdon Nemzeti Hivatala a 61. § (1) bekezdés b)–e) pontjában meghatározott döntéseket megváltoztatási kérelem alapján akkor is visszavonhatja vagy a megváltoztatási kérelemben foglaltaknak megfelelően módosíthatja, ha a döntés nem sért ugyan jogszabályt, de a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelemben foglaltakkal egyetért.
+
+(6) A megváltoztatási kérelem nyomán hozott döntést közölni kell a kérelem benyújtójával, továbbá azokkal, akikkel a megtámadott döntést közölték.
+
+(7) A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 

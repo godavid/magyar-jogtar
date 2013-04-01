@@ -509,7 +509,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 49. § A Magyarország 2013. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
 
-50. § Az önkormányzat 2013. január 1. és március 31. között – a 10. § (2) bekezdés a), b) és c) pontja szerinti ügyletek, valamint a 10. § (10) bekezdése szerinti adósságmegújító hitel kivételével – nem köthet adósságot keletkeztető ügyletet.
+#### 50. §
 
 #### 51. §
 

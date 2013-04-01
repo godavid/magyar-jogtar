@@ -259,8 +259,8 @@ kerülhet sor.
 - a) a rendszeres gyermekvédelmi kedvezmény,
 - b) a rendkívüli gyermekvédelmi támogatás,
 - c) a gyermektartásdíj megelőlegezése,
-- d) az otthonteremtési támogatás,
-- e) a kiegészítő gyermekvédelmi támogatás.
+- d) az otthonteremtési támogatás.
+- e)
 
 (2) A személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások:
 
@@ -304,7 +304,7 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 
 (11) A (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményekben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményekben a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott pedagógus-munkakörben foglalkoztatott személy (a továbbiakban: pedagógus-munkakörben foglalkoztatott személy) heti teljes munkaideje 40 óra, amelynek 80%-át (a továbbiakban: kötött munkaidő) a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a feladatainak beosztását maga határozza meg.
 
-(12) A pedagógus-munkakörben foglalkoztatott személy tekintetében a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és utógondozói feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
+(12) A pedagógus-munkakörben foglalkoztatott személy tekintetében a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek és a velük kapcsolatos intézkedések meghozatala, a számukra nyújtott ellátások meghatározása szempontjából jelentőséggel bíró személyek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és családgondozási, utógondozási feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
 
 (13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
 
@@ -368,7 +368,7 @@ gyakorolja.
 
 (6) Természetbeni ellátás különösen az általános iskolás gyermekek tankönyv- és tanszerellátásának támogatása, a tandíj, egészségügyi szolgáltatásért fizetendő térítési díj, illetve egyéb ellátás kifizetésének átvállalása.
 
-18/A. § (1) A pénzbeli és természetbeni ellátás iránti kérelmet az a 18. § (1) vagy (3) bekezdése szerinti szerv bírálja el, amelynek illetékességi területén a kérelmező lakcíme van. Ha a kérelmezőnek több lakcíme van, az illetékességet az a lakóhely vagy tartózkodási hely alapozza meg, ahol életvitelszerűen lakik.
+18/A. § (1) A pénzbeli és természetbeni ellátás iránti kérelmet az a gyámhatóság bírálja el, amelynek illetékességi területén a kérelmező lakóhelye, vagy ha a kérelmező életvitelszerűen a bejelentett tartózkodási helyén lakik, a tartózkodási helye van.
 
 (2) A lakcím megállapítása szempontjából a személyiadat- és lakcímnyilvántartás adatai irányadóak.
 
@@ -376,31 +376,36 @@ gyakorolja.
 
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
-- a) a 148. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
+- a) a 151. § (5) bekezdésének a) és b) pontjában meghatározott gyermekétkeztetés normatív kedvezményének,
 - b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
 - c) a külön jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
+
+(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó pénzbeli ellátásra jogosult, ha
+
+- a) a gyermek tartására köteles, és
+- b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, megváltozott munkaképességű személyek ellátásaiban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
 
 (2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
 - a) az öregségi nyugdíj mindenkori legkisebb összegének (a továbbiakban: az öregségi nyugdíj legkisebb összege) a 140%-át,
   - aa) ha a gyermeket egyedülálló szülő, illetve más törvényes képviselő gondozza, vagy
   - ab) ha a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
-  - ac) ha a nagykorúvá vált gyermek megfelel a 20. § (3) vagy (4) bekezdésében foglalt feltételeknek;
+  - ac) ha a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
 - b) az öregségi nyugdíj legkisebb összegének 130%-át az a) pont alá nem tartozó esetben,
 
 feltéve, hogy a vagyoni helyzet vizsgálata során az egy főre jutó vagyon értéke nem haladja meg külön-külön vagy együttesen a (7) bekezdésben meghatározott értéket.
 
 (3) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni. Ettől eltérni akkor lehet, ha a jövedelmi viszonyokban igazolható ok miatt tartós romlás vélelmezhető.
 
-(4) A (2) bekezdésben meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő közeli hozzátartozóként (gondozó családként) kell figyelembe venni
+(4) A (2) bekezdésben meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő közeli hozzátartozóként (gondozó családként) kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
 
-- a) a szülőt, a szülő házastársát vagy élettársát,
-- b) a 20 évesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
-- c) a 23 évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
-- d) a 25 évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket,
-- e) korhatárra való tekintet nélkül a tartósan beteg, illetőleg a fogyatékos gyermeket,
+- a) szülőt, a szülő házastársát vagy élettársát,
+- b) 20 évesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
+- c) 23 évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
+- d) 25 évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket,
+- e) korhatárra való tekintet nélkül a tartósan beteg és a fogyatékos gyermeket,
 - f) az a)–e) pontokba nem tartozó, a Csjt. alapján a szülő vagy házastársa által eltartott rokont.
 
 (5)
@@ -418,16 +423,24 @@ meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szül
 
 (9) Nem állapítható meg rendszeres gyermekvédelmi kedvezményre való jogosultság, illetőleg a megállapított jogosultságot meg kell szüntetni, ha a gyermek tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
 
-20. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítását a szülő vagy más törvényes képviselő, illetve a nagykorú jogosult a lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál terjeszti elő.
+20. § (1) A feltételek fennállása esetén a gyámhatóság egy év időtartamra, de legfeljebb
 
-(2) A feltételek fennállása esetén a gyámhatóság 1 év időtartamra megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
+- a) a (2) bekezdés a) pontja szerinti esetben a nagykorúvá vált gyermek 23. életévének betöltéséig,
+- b) a (2) bekezdés b) pontja szerinti esetben a nagykorúvá vált gyermek 25. életévének betöltéséig megállapítja a gyermek, nagykorúvá vált gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát.
 
-(3) Az egyéb jogosultsági feltételek fennállása esetén nagykorúvá válása után is jogosult a gyermek a rendszeres gyermekvédelmi kedvezményre, ha
+(2) Az egyéb jogosultsági feltételek fennállása esetén nagykorúvá válása után is jogosult a gyermek a rendszeres gyermekvédelmi kedvezményre, ha
 
 - a) nappali oktatás munkarendje szerint tanulmányokat folytat és 23. életévét még nem töltötte be, vagy
-- b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be.
+- b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be, és a nagykorúvá válását megelőző második hónap első napja, valamint a nagykorúvá válását megelőző nap közötti időszakban legalább egy napig rendszeres gyermekvédelmi kedvezményre volt jogosult.
 
-(4) Házasságkötés esetén a rendszeres gyermekvédelmi kedvezményre való jogosultságot meg kell szüntetni, ha a jogosult házasságkötése szerinti új családban az egy főre jutó havi jövedelem összege, illetve vagyon értéke meghaladja a 19. §-ban meghatározott jövedelemhatárt, illetve vagyon értékét.
+(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
+
+(4) A rendszeres gyermekvédelmi kedvezményre való jogosultság
+
+- a) megszűnik az (1) bekezdésben meghatározott időtartam leteltével,
+- b) megszüntetésre kerül, ha
+  - ba) a (3) bekezdés szerinti felülvizsgálat azzal az eredménnyel zárul, hogy a jogosultsági feltételek nem állnak fenn, vagy
+  - bb) a gyermek gyermekvédelmi szakellátásba kerül.
 
 20/A. § (1) A települési önkormányzat jegyzője annak a gyermeknek, fiatal felnőttnek, akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága
 
@@ -438,34 +451,31 @@ természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint
 
 (2) Az (1) bekezdés szerinti támogatás esetenkénti összegéről az Országgyűlés a központi költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-### Kiegészítő gyermekvédelmi támogatás
+20/B. § (1)–(2)
 
-20/B. § (1) Kiegészítő gyermekvédelmi támogatásra az a rendszeres gyermekvédelmi kedvezményben részesülő gyermek gyámjául rendelt hozzátartozó jogosult, aki
+(3) A pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 
-- a) a gyermek tartására köteles, és
-- b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
+(4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek pénzbeli ellátásra való jogosultsága
 
-(2) A kiegészítő gyermekvédelmi támogatásra való jogosultságot a családbafogadó gyám lakcíme szerint illetékes gyámhatóság – határozatlan időre – állapítja meg.
-
-(3) A kiegészítő gyermekvédelmi támogatás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
-
-(4) A gyámhatóság annak a gyámul kirendelt hozzátartozónak, akinek kiegészítő gyermekvédelmi támogatásra való jogosultsága
-
-- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –,
-- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó kiegészítő gyermekvédelmi támogatás összege mellett –
+- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó pénzbeli ellátás összege mellett –,
+- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó pénzbeli ellátás összege mellett –
 
 pótlékot folyósít.
 
 (5) A (4) bekezdés szerinti pótlék esetenkénti összege 2006. évben gyermekenként 7500 forint. A 2006. évet követően a pótlék összegének emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-(6) Ha a kiegészítő gyermekvédelmi támogatást jogerősen megállapították, az a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
+(6) Ha a pénzbeli ellátást jogerősen megállapították, az
 
-- a) a tárgyhónap tizenötödikéig nyújtották be, a támogatás teljes összegét,
-- b) a tárgyhónap tizenötödikét követően nyújtották be, a támogatás ötven százalékát
+- a) a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
+  - aa) a tárgyhónap tizenötödikéig nyújtották be, a támogatás teljes összegét,
+  - ab) a tárgyhónap tizenötödikét követően nyújtották be, a támogatás ötven százalékát;
+- b) a hivatalbóli eljárás megindulásának napjától esedékes azzal, hogy ha a hivatalbóli eljárás
+  - ba) a tárgyhónap tizenötödikéig megindult, a támogatás teljes összegét,
+  - bb) a tárgyhónap tizenötödikét követően indult meg, a támogatás ötven százalékát
 
 kell kifizetni.
 
-(7) A kiegészítő gyermekvédelmi támogatásra való jogosultság feltételeit – az (1) bekezdésben meghatározottak alapulvételével – a gyámhatóság évente legalább egyszer felülvizsgálja. Ha a kiegészítő gyermekvédelmi támogatásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+(7) Ha a pénzbeli ellátásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
 
 - a) a tárgyhónap tizenötödikéig következik be, a támogatás ötven százalékát,
 - b) a tárgyhónap tizenötödikét követően következik be, a támogatás teljes összegét
@@ -474,24 +484,40 @@ kell kifizetni.
 
 ### Óvodáztatási támogatás
 
-20/C. § (1) A gyámhatóság annak a rendszeres gyermekvédelmi kedvezményben részesülő gyermeknek a szülője részére, aki a három-, illetve négyéves gyermekét beíratta az óvodába, továbbá gondoskodik gyermeke rendszeres óvodába járatásáról, és akinek rendszeres gyermekvédelmi kedvezményre való jogosultsága fennáll
+20/C. § (1) Az óvodáztatási támogatásra való jogosultság megállapításának célja a halmozottan hátrányos helyzetű gyermekek minél korábbi életkorban történő rendszeres óvodába járásának elősegítése.
 
-- a) a gyermek óvodai beíratását követően első alkalommal, ha a gyermek óvodai beíratása
-  - aa) a naptári év első felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének június hónapjában,
-  - ab) a naptári év első felében történik, de júniusig nem telt el két hónap, a beíratás évének december hónapjában,
-  - ac) a naptári év második felében történik és a gyermek óvodai nevelésben való részvétele óta legalább két hónap eltelt, a beíratás évének december hónapjában,
-  - ad) a naptári év második felében történik, de a beíratás évében decemberig nem telt el két hónap, a következő év június hónapjában [a továbbiakban az aa)–ad) pont alattiak együtt: első alkalom],
-- b) a gyermek beíratását követően második és további alkalommal az óvodai nevelési jogviszony fennállásáig
-  - ba) a tárgyév június hónapjában,
-  - bb) a tárgyév december hónapjában,
+(2) A gyámhatóság az óvodáztatási támogatásra való jogosultságát – kérelmére – annak a szülőnek állapítja meg,
 
-pénzbeli támogatást folyósít.
+- a) akinek gyermeke rendszeres gyermekvédelmi kedvezményben részesül, és
+- b) akinek gyermeke legkésőbb annak az óvodai nevelési évnek a kezdetéig, amelyben a gyermek az ötödik életévét betölti, megkezdi az óvodai nevelésben való tényleges részvételt és a kérelem benyújtását közvetlenül megelőző időszakban legalább két hónapon keresztül a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint rendszeresen jár óvodába, és
+- c) aki önkéntes nyilatkozatot tesz arról, hogy gyermekének hároméves korában legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen.
 
-(2) Az (1) bekezdés szerinti pénzbeli támogatás folyósításának további feltétele, hogy a gyermek felett a szülői felügyeleti jogot gyakorló szülő, illetve ha mindkét szülő gyakorolja a szülői felügyeleti jogot, mindkét szülő a gyámhatósági eljárásban önkéntes nyilatkozatot tegyen arról, hogy gyermekének hároméves koráig legfeljebb az iskola nyolcadik évfolyamán folytatott tanulmányait fejezte be sikeresen.
+(3) Az óvodáztatási támogatás iránti kérelmet a szülői felügyeletet gyakorló szülő legfeljebb annak az óvodai nevelési évnek a kezdetéig terjesztheti elő, amely évben gyermeke az ötödik életévét betölti.
 
-(3) Az (1) bekezdés szerinti pénzbeli támogatás összege a 2009. évben gyermekenként első alkalommal húszezer forint, ezt követőn esetenként és gyermekenként tízezer forint. A 2009. évet követően az összeg emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
+(4) A (2) bekezdés c) pontja szerinti nyilatkozatot mindkét szülőnek meg kell tennie, ha a szülői felügyeleti jogot mindketten gyakorolják.
 
-(4) A helyi önkormányzat rendeletben előírhatja, hogy az első alkalommal folyósításra kerülő pénzbeli támogatás helyett a szülőnek gyermeke részére természetbeni támogatás nyújtható. A természetbeni támogatást a gyermek beíratását követő legfeljebb huszonegy napon belül kell a szülő rendelkezésére bocsátani.
+(5) A gyámhatóság az óvodáztatási támogatást első alkalommal, ha az óvodáztatási támogatásra való jogosultság jogerős megállapítására
+
+- a) az előző év december 5-e és a tárgyév június 4-e között kerül sor, a tárgyév június hónapjában,
+- b) a tárgyév június 5-e és a tárgyév december 4-e között kerül sor, a tárgyév december hónapjában
+
+folyósítja.
+
+(6) Az első alkalmat követően a települési önkormányzat jegyzője a gyermek óvodai nevelési jogviszonyának fennállásáig június és december hónapban további óvodáztatási támogatást folyósít a szülőnek, ha
+
+- a) a gyermek továbbra is rendszeres gyermekvédelmi kedvezményben részesül, és
+- b) a szülő a gyermek külön jogszabály szerinti rendszeres óvodába járásáról gondoskodik.
+
+(7) Ha az óvodáztatási támogatás iránti kérelmet
+
+- a) december 4-éig benyújtották és a támogatásra való jogosultság feltételei fennállnak, de a kérelem jogerős elbírálására december 4-éig,
+- b) június 4-éig benyújtották és a támogatásra való jogosultság feltételei fennállnak, de a kérelem jogerős elbírálására június 4-éig nem kerül sor, a további óvodáztatási támogatás folyósításának (6) bekezdés szerinti időpontjában kell folyósítani az első alkalommal járó óvodáztatási támogatást. Ha a további óvodáztatási támogatás folyósításának feltételei is fennállnak, akkor az első alkalommal járó és a további óvodáztatási támogatást együtt kell folyósítani.
+
+(8) Az óvodáztatási támogatásra való jogosultság a megszüntetését követően a (2) és (3) bekezdésben foglalt feltételek fennállása esetén ismételten megállapítható azzal, hogy a rendszeres óvodába járást a külön jogszabályban meghatározott időszak tekintetében kell vizsgálni. Ebben az esetben a jogosultat a (6) bekezdés szerinti további óvodáztatási támogatás illeti meg.
+
+(9) A támogatás összege gyermekenként első alkalommal húszezer forint, ezt követően esetenként és gyermekenként tízezer forint.
+
+(10) A települési önkormányzat rendeletben előírhatja, hogy első alkalommal az óvodáztatási támogatást természetbeni formában kell biztosítani.
 
 ### Rendkívüli gyermekvédelmi támogatás
 
@@ -665,10 +691,14 @@ alapozza meg.
 
 (4) Ha a kérelmező, illetve törvényes képviselője az intézmény vezetőjének (3) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ha az intézményvezető az ellátás igénybevételéről nem intézkedik, a kérelmező, illetve törvényes képviselője az arról való tudomásszerzéstől számított nyolc napon belül a fenntartóhoz fordulhat. Ezekben az esetekben a fenntartó határozattal dönt.
 
-(5) A gyermekjóléti alapellátások igénybevételének megkezdése előtt és az utógondozói ellátás igénybevételének megkezdésekor
+(5) A gyermekjóléti alapellátások igénybevételének – az (5a) bekezdésben foglalt kivétellel – a megkezdése előtt, valamint az utógondozói ellátás igénybevételének megkezdésekor
 
 - a) állami fenntartású szolgáltató, intézmény esetén a szolgáltató vezetője, illetve az intézményvezető,
-- b) egyházi és nem állami fenntartású szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy a kérelmezővel, illetve törvényes képviselőjével írásban megállapodást köt.
+- b) egyházi és nem állami fenntartású szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
+
+a kérelmezővel, illetve törvényes képviselőjével írásban megállapodást köt.
+
+(5a) Gyermekek átmeneti otthona és családok átmeneti otthona esetén az (5) bekezdés szerinti megállapodást az ellátás kezdetétől számított 15 napon belül kell megkötni.
 
 (6) Nem kell az (5) bekezdés szerint megállapodást kötni
 
@@ -682,7 +712,13 @@ alapozza meg.
 - c) a gyermek, fiatal felnőtt számára nyújtott szolgáltatások és ellátások tartalmát, módját,
 - d) a személyi térítési díj megállapítására és megfizetésére vonatkozó szabályokat, ha az ellátás térítésidíj-fizetési kötelezettséggel jár,
 - e) az ellátás megszüntetésének módjait,
-- f) a gyermek és törvényes képviselője, valamint a fiatal felnőtt személyazonosító adatait.
+- f) a gyermek és törvényes képviselője, valamint a fiatal felnőtt személyazonosító adatait,
+- g) az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt nyilatkozatát a 33. § (2) bekezdésében meghatározott tájékoztatás megtörténtéről.
+
+(7a) Családok átmeneti otthona esetén a megállapodás – a (7) bekezdésben foglaltakon túl – tartalmazza
+
+- a) a gyermekkel együtt ellátásban részesülő személy gyermekgondozással kapcsolatos feladatait, a gondozás módját, mértékét, és
+- b) a szülő nyilatkozatát arról, hogy a gyermekjóléti szolgáltatást nyújtó szolgáltatóval, illetve intézménnyel együttműködik.
 
 (8) Az intézményvezetőnek az ellátásra jogosult gyermek, fiatal felnőtt azonnali elhelyezéséről kell gondoskodnia
 
@@ -716,7 +752,7 @@ alapozza meg.
 
 (3) Az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt köteles
 
-- a) a (2) bekezdésben meghatározott tájékoztatás megtörténtéről nyilatkozni,
+- a) a (2) bekezdésben meghatározott tájékoztatás megtörténtéről nyilatkozni, ha az ellátás igénybevételéről nem kötöttek megállapodást,
 - b) az e törvény alapján vezetett intézményi nyilvántartásokhoz adatokat szolgáltatni,
 - c) nyilatkozni a jogosultsági feltételekben, valamint a személyazonosító adatokban beállott változásokról.
 
@@ -1257,7 +1293,7 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
   - de) elősegíti, hogy a gyermek iskolai tanulmányai sikeres befejezésével, szakképzettség megszerzésével, illetve előtakarékossággal készüljön az önálló életre,
   - df) utógondozást biztosít a volt átmeneti vagy tartós nevelésbe vett gyermekeknek, illetve az utógondozói ellátásban részesült fiatal felnőttnek.
 
-(4) A gyermekotthon nevelőszülői hálózatot működtethet. Nevelőszülői hálózat működtetése esetén ellátja az 55. § (5) bekezdésében meghatározott feladatokat. A gyermekotthon által foglalkoztatott nevelőszülők a gyermekotthoni férőhelyszámnak megfelelő létszámú gyermek teljes körű ellátását, illetve fiatal felnőtt utógondozói ellátását biztosíthatják.
+(4) A gyermekotthon nevelőszülői hálózatot működtethet. Nevelőszülői hálózat működtetése esetén ellátja az 55. § (5) bekezdésében meghatározott feladatokat.
 
 (5) A gyermekotthon a területi szükségletekhez, valamint a külön jogszabályban meghatározott szakmai szabályokhoz igazodóan alakítja ki szervezetét, nevelési-gondozási rendszerét, a nevelés célját, alapelveit és módszereit tartalmazó szakmai programját.
 
@@ -1948,7 +1984,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 - a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el a gyermeket, és pert indított a szülői felügyelet megszüntetése iránt,
 - b) átmeneti vagy tartós nevelésbe vette a gyermeket.
 
-(2) Gyámi feladatokat lát el a nevelőszülő – feltéve, ha a gyámságot vállalja – továbbá a gyermekotthon vezetője. A minisztérium speciális gyermekotthonának vezetője az otthonban elhelyezett gyermekek gyámjául nem rendelhető.
+(2) Gyámi feladatokat lát el a nevelőszülő – feltéve, ha a gyámságot vállalja –, továbbá a gyermekotthon vezetője. A Kormány rendeletében kijelölt szerv központi szerve útján fenntartott országos ellátási területű speciális gyermekotthon vezetője a gyermekotthonban elhelyezett gyermekek gyámjául nem rendelhető.
 
 (3) A gyámhatóság a gyermek számára – a (4) bekezdésben meghatározott kivétellel – a területi gyermekvédelmi szakszolgálat részéről erre kijelölt hivatásos gyámot rendeli ki, ha
 
@@ -2049,7 +2085,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 93. § (1) A gyámhatóság a fiatal felnőtt kérelmére –, illetve a gyermek nagykorúságának elérése előtt a gyám (hivatásos gyám) javaslatának figyelembevételével – elrendeli az utógondozói ellátást, ha a gyermek, illetve a fiatal felnőtt átmeneti vagy tartós nevelésbe vétele nagykorúvá válásával szűnt meg, és
 
 - a) létfenntartását önállóan biztosítani nem tudja, vagy
-- b) a nappali oktatás munkarendje szerint, vagy felsőfokú iskola nappali tagozatán tanulmányokat folytat, vagy
+- b) köznevelési, felsőoktatási vagy felnőttképzési intézménnyel (szolgáltatóval) tanulói, hallgatói vagy felnőttképzési jogviszonyban áll, vagy
 - c) szociális bentlakásos intézménybe felvételét várja.
 - d)
 
@@ -2147,13 +2183,25 @@ köteles működtetni.
 
 (7) A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(8)
+(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
 
 (8a)
 
-(9)
+(9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10)
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, az egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+
+- a) részt vesz a minőségfejlesztési elvek kidolgozásában,
+- b) ajánlásokat készít a hatékonyabb szolgáltatási módszerek alkalmazására,
+- c) szakmai tanácsadást nyújt,
+- d) szakértőként közreműködik a működést engedélyező szerv felkérésére szakmai program értékelésében, szakmai ellenőrzésben,
+- e) kezdeményezi a személyes gondoskodást nyújtó munkakörben dolgozók továbbképzését és tapasztalatcseréjét.
+
+(11) A kijelölt egyházi módszertani intézmény módszertani tevékenységének biztosítása során együttműködik az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervvel.
+
+(12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
+
+(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha egyházának az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
 
 ### Ellátási szerződés
 
@@ -2233,8 +2281,8 @@ köteles működtetni.
 - e) biztosítja a gyermekek védelmét szolgáló tudományos kutatások és nemzetközi kapcsolatok fejlesztési feltételeit,
 - f) kezdeményezi – az érintett miniszterekkel együttműködve – a külföldön ellátatlanul maradt magyar állampolgárságú gyermekekről való gondoskodás iránti intézkedések megtételét,
 - g) összehangolja és szervezi a gyermekek védelmét biztosító rendszer irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszert,
-- h) gondoskodik az országos gyermekvédelmi szakértői bizottság működéséről,
-- i)
+- h) a Kormány rendeletében kijelölt szerv központi szerve útján gondoskodik az országos gyermekvédelmi szakértői bizottság működéséről,
+- i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás területén az országos módszertani feladatok ellátására egyházi fenntartású intézményeket jelölhet ki.
 - j) gondoskodik az országos örökbefogadási nyilvántartás működtetéséről.
 
 (3) A miniszter gondoskodik az átmeneti vagy tartós nevelésbe vett
@@ -2242,11 +2290,11 @@ köteles működtetni.
 - a) súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő, továbbá
 - b) akut orvosi ellátást nem igénylő – egyedi gondozásra szoruló – szerzett immunhiányos tünetegyüttesben szenvedő gyermekek ellátásának feltételeiről,
 
-feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye alapján – a gondozásuk máshol nem biztosítható vagy ha külön elhelyezésük szükséges. Ennek érdekében speciális gyermekotthonokat tart fenn.
+feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye alapján – a gondozásuk máshol nem biztosítható, vagy ha külön elhelyezésük szükséges. Ennek érdekében a Kormány rendeletében kijelölt szerv központi szerve útján speciális gyermekotthonok fenntartásáról gondoskodik.
 
-(4) A miniszter megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha a külön jogszabály alapján számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – gyermekotthont tarthat fenn.
+(4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha a külön jogszabály alapján számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont tart fenn vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, ennek érdekében javítóintézeteket tart fenn és – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a felügyeletükkel kapcsolatos feladatokat.
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6)
 
@@ -2563,7 +2611,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
   - ah) kóros szenvedélyére vonatkozó,
   - ai) áldozattá válásának körülményeire vonatkozó, a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény (a továbbiakban: Ást.) 16. § (2) bekezdés a)–c) pontjában meghatározott;
 - b) a szülő, törvényes képviselő, helyettes szülő, nevelőszülő
-  - ba) személyazonosító,
+  - ba) személyazonosító, és a társadalombiztosítási azonosító jelére vonatkozó,
   - bb) vagyoni helyzetére, munkahelyére, iskolai végzettségére, kapcsolataira vonatkozó,
   - bc) gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó,
   - bd) egészségi állapotára vonatkozó,
@@ -2703,9 +2751,9 @@ vonatkozó adatokat kezelhet.
 
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
 
-138. § (1) A gyámhatóság, illetve a 18. § (1) bekezdés b) pontja és (2) bekezdése szerinti ellátás esetében a jegyző az ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
+138. § (1) A gyámhatóság a hatáskörébe tartozó ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait és a gyermek társadalombiztosítási azonosító jelét,
+- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait, valamint a gyermek és a törvényes képviselő társadalombiztosítási azonosító jelét,
 - b) a 4. § (1) bekezdésének b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
 - d) az ellátással kapcsolatos döntéseket,
@@ -2919,9 +2967,9 @@ törölni kell az adatokat.
 
 (2) A bölcsődei ellátás esetében az intézményvezető a 151. § (4) bekezdés alapján megállapítja a bölcsődei ellátás keretében biztosított gyermekétkeztetésre vonatkozó személyi térítési díjat, valamint emellett – a fenntartó döntésétől függően – a bölcsődei ellátás keretében nyújtott gondozásra is megállapíthat személyi térítési díjat.
 
-(3) Az intézményvezető a kötelezettet írásban értesíti a személyi térítési díj összegéről
+(3) Az intézményvezető a kötelezettet írásban tájékoztatja a személyi térítési díj összegéről
 
-- a) a gyermekek napközbeni ellátása esetén a szolgáltatás, ellátás igénybevételét megelőzően,
+- a) a gyermekek napközbeni ellátása esetén a megállapodás megkötésekor,
 - b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkésőbb az ellátás igénybevételétől számított harminc napon belül.
 
 (4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
@@ -3129,6 +3177,12 @@ gyermek után az intézményi térítési díj 100%-át,
 
 161/K. § A 96. § 2012. december 31-ét megelőzően hatályos (7)–(8a) bekezdése alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
 
+161/O. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 19. § (1a) bekezdésben, valamint 20. és 20/B. §-ban foglalt rendelkezéseket a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás iránt 2013. április 1-jén folyamatban lévő ügyekben, valamint a rendszeres gyermekvédelmi kedvezmény és a kiegészítő gyermekvédelmi támogatás 2013. március 31-ét követő felülvizsgálata során is alkalmazni kell.
+
+161/P. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 28. §-ával megállapított 20/C. §-t a 2013. március 31-ét követően indult ügyekben és a 2013. április 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2013. március 31-ét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
+
+161/S. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 96. § (13) bekezdése szerinti bejelentést az egyházi fenntartó a 2013. évben július 31-éig teheti meg.
+
 ### Felhatalmazás
 
 162. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3157,8 +3211,8 @@ gyermek után az intézményi térítési díj 100%-át,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 - w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
-- y)
-- z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
+- y) a Biztos Kezdet Gyerekház támogatása igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait,
+- z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 

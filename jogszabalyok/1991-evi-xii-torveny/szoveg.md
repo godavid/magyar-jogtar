@@ -25,9 +25,9 @@ Az Országgyűlés a társadalmi igazságosságot szem előtt tartva és figyele
 
 (6) A (2) és (3) bekezdés alapján folyósított pótlék a személyi jövedelemadó szempontjából a nyugdíjjal esik egy tekintet alá.
 
-2/A. § (1) Az e törvény szerinti, nyugdíjkiegészítés helyébe lépő pótlékra való jogosultságot a kárpótlásért felelős miniszter 2012. október 31-éig felülvizsgálja, és a felülvizsgálat eredményéről határozatot hoz.
+2/A. § (1) Az e törvény szerinti, nyugdíjkiegészítés helyébe lépő pótlékra való jogosultságot a kárpótlásért felelős miniszter 2013. június 1-jéig felülvizsgálja, és a felülvizsgálat eredményéről határozatot hoz.
 
-(2) A kárpótlásért felelős miniszter a nyugdíjkiegészítés helyébe lépő pótlékot 2013. január 1-jétől határozatával megszünteti, ha megállapítja, hogy a saját jogon folyósított pótlékban részesülő személy, illetve az özvegyi jogon folyósított pótlék esetén az elhunyt jogszerző
+(2) A kárpótlásért felelős miniszter a nyugdíjkiegészítés helyébe lépő pótlékot 2013. augusztus 1-jétől határozatával megszünteti, ha megállapítja, hogy a saját jogon folyósított pótlékban részesülő személy, illetve az özvegyi jogon folyósított pótlék esetén az elhunyt jogszerző
 
 - a) az 1945. és 1949. közötti időszakban a demokratikus államberendezkedés felszámolásában játszott szerepe,
 - b) az 1956-os forradalom és szabadságharc leverésében vagy az azt követő megtorlásokban játszott szerepe,
@@ -47,7 +47,7 @@ Az Országgyűlés a társadalmi igazságosságot szem előtt tartva és figyele
 
 2/C. § (1) A kárpótlásért felelős miniszter és a 2/B. § szerinti szakértői bizottság vizsgálhatja a felülvizsgált pótlékokban részesülő személyek tekintetében a 2/A. § (2) bekezdésében meghatározott tevékenységre, a nyugdíjkiegészítés megállapítására, folyósítására, illetve pótlékká alakítására vonatkozó iratokat, állami szervektől, az Állambiztonsági Szolgálatok Történeti Levéltárától és más levéltáraktól adatokat kérhet. A kárpótlásért felelős miniszter az eljárás során a minősített adatokat korlátozástól mentesen megismerheti. A 2/B. § szerinti szakértői bizottság a minősített adatokat a minősített adat védelméről szóló törvény megtartásával ismerheti meg.
 
-(2) A kárpótlásért felelős miniszter és a 2/B. § szerinti szakértői bizottság a pótlék felülvizsgálata és Magyarország Alaptörvényének átmeneti rendelkezései 1. cikkének végrehajtása érdekében kezelheti
+(2) A kárpótlásért felelős miniszter és a 2/B. § szerinti szakértői bizottság a pótlék felülvizsgálata és a 2/A. § (2) bekezdése szerinti érdemtelenség megállapítása érdekében kezelheti
 
 - a) a jogosult, illetve az elhunyt jogszerző természetes személyazonosító adatait, lakcímadatait,
 - b) a saját jogon pótlékra jogosultnak, illetve az elhunyt jogszerzőnek a felülvizsgálat elvégzéséhez szükséges további személyes adatait.

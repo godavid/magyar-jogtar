@@ -290,7 +290,8 @@ igényelhető.
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, valamint a (3) bekezdésében foglalt adatokat,
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben foglalt adatokat,
-- t) az anyakönyvvezető az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat.
+- t) az anyakönyvvezető az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+- u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
@@ -366,6 +367,20 @@ igényelhető.
 
 (6) E § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
+### Automatizált keresés a 2011/82/EU irányelv alapján
+
+27/B. § A nyilvántartó szerv mint nemzeti kapcsolattartó pont a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet (a továbbiakban: Irányelv) átültető európai uniós tagállam nemzeti kapcsolattartó pontja részére, a gépjármű teljes forgalmi rendszámának, a jogsértés napjának, és időpontjának, valamint a jogsértésnek a megjelölését tartalmazó adatigénylés alapján a 9. § (1) bekezdésében, továbbá a 9. § (2) bekezdés a), b), d) és e) pontban meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést biztosít.
+
+27/C. § (1) A nyilvántartó szerv, mint nemzeti kapcsolattartó pont a Magyarország területén elkövetett közlekedési jogsértésben érintett gépjármű tulajdonosa vagy üzembentartója adatainak megállapítása céljából a (2) bekezdésben meghatározott elrendelő hatóságoknak a gépjármű teljes forgalmi rendszámának, a jogsértés napjának és időpontjának és a jogsértésnek a megjelölését tartalmazó adatigénylése alapján az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést végez a gépjármű nyilvántartásba vétele szerinti, az Irányelvet átültető más európai uniós tagállam gépjármű-nyilvántartási adatállományában.
+
+(2) Az (1) bekezdés szerinti automatizált keresést rendelhet el
+
+- a) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+- b) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
+- c) a közúti közlekedésről szóló 1988. évi I. törvény 20. és 21. §-ában meghatározott közigazgatási bírságot kiszabó hatóság.
+
+(3) A nyilvántartó az automatizált keresés eredményéről az elrendelő hatóságot haladéktalanul értesíti.
+
 ### IV. Fejezet — ADATVÉDELEM
 
 28. § A nyilvántartás számára adatot szolgáltató felelősségi körében gondoskodik a továbbított adatok helyességéről, időszerűségéről, valamint utólag értesíti a nyilvántartót a később felfedett adathiba tényéről és a rendelkezésére álló helyes adatról.
@@ -389,10 +404,10 @@ igényelhető.
 
 (4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
 
-(5) Az e törvény 27/A. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
+(5) Az e törvény 27/A–27/C. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
 
 - a) az automatizált keresést kezdeményező együttműködő tagállami szerv megnevezését,
-- b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében meghatározott szerv megnevezését,
+- b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében és a 27/C. § (2) bekezdésében meghatározott szerv megnevezését,
 - c) az automatizált keresést végrehajtó, erre felhatalmazott személy azonosítására alkalmas megjelölést,
 - d) az automatizált keresés célját,
 - e) az automatizált keresés időpontját,
@@ -498,4 +513,18 @@ igényelhető.
 - b) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
 - c) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
 
-43. § E törvény 19. § (1) bekezdés i) pontja, 27/A. §-a, 32. § (5)–(8) bekezdése és a 32/A. §-a a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozatnak, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
+43. § (1) E törvény
+
+- a) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. Cikkének,
+- b) 19. § (1) bekezdés i) pontja, 27/A. §-a, 32. § (5)–(8) bekezdése és a 32/A. §-a
+  - ba) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozatnak,
+  - bb) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i, 2008/616/IB tanácsi határozatnak,
+  - bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló, 2009. szeptember 21-i, 2009/1023/IB tanácsi határozatnak, továbbá
+- c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i, 2011/82/EU európai parlamenti és tanácsi irányelv 4. és 7. Cikkének, valamint I. Mellékletének
+
+való megfelelést szolgálja.
+
+(2) E törvény
+
+- a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 2006. december 20-i, 1986/2006/EK európai parlamenti és tanácsi rendelet, továbbá
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 31–34. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
