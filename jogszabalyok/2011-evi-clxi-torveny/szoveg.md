@@ -656,7 +656,7 @@ indítványozza.
 (3) Az OBH
 
 - a) előkészíti az OBH elnökének határozatait és gondoskodik azok végrehajtásáról, valamint ellátja az OBT működésével kapcsolatos ügyviteli feladatokat,
-- b) meghatalmazás alapján képviseli az OBH elnökét és a bíróságokat a bírósági eljárásokban,
+- b) képviseli az OBH elnökét és a bíróságokat a bírósági eljárásokban,
 - c) vezeti a bírák központi személyi nyilvántartását és kezeli a bírói vagyonnyilatkozatok vagyoni részét, és
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
@@ -693,7 +693,7 @@ indítványozza.
 - c) akivel szemben eljárás van folyamatban az alkalmatlanságának megállapítása iránt,
 - d) aki a törvény szerint beosztása következtében nem ítélkezhet, továbbá akinek a bírói jogviszonya a törvény alapján szünetel,
 - e) aki a polgári perrendtartásról szóló törvény szerinti hozzátartozói kapcsolatban áll az OBH elnökével, a Kúria, az ítélőtábla, és a törvényszék elnökével, elnökhelyettesével,
-- f) aki a választás évében betölti a bírói felső korhatárt, vagy
+- f) aki a választás évében betölti a felmentési okként meghatározott életkort vagy
 - g) aki korábban már tagja volt az OBT-nek.
 
 91. § (1) Az OBT tagjait megválasztani jogosult küldöttértekezlet a küldöttek közül az OBT bíró tagjává 1 ítélőtáblai, 5 törvényszéki, 7 járásbírósági és 1 közigazgatási és munkaügyi bírósági bírót választ.
@@ -783,7 +783,7 @@ indítványozza.
 - i) lefolytatja a bírák vagyonnyilatkozatával kapcsolatos ellenőrzési eljárást,
 - j) az OBH elnökének kezdeményezése alapján „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” címet, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi címet adományozhat, továbbá az OBH elnökének kezdeményezésére javaslatot tehet kitüntetés adományozására, díjat, oklevelet, plakettet adományozhat, illetve díj, plakett, oklevél más általi adományozásához hozzájárulhat,
 - k) a bíró lemondása esetén hozzájárulhat, hogy a lemondási idő 3 hónapnál rövidebb legyen, illetve a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól, valamint
-- l) a bíró nyugállományba helyezése vagy a felső korhatár elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről.
+- l) a bíró nyugállományba helyezése vagy a felmentési okként meghatározott életkor elérése esetén a bírák jogállásáról és javadalmazásáról szóló törvény alapján dönt a felmentési időre vonatkozóan a munkavégzési kötelezettség alóli mentesítés idejéről.
 
 (4) Az OBT a képzés területén
 

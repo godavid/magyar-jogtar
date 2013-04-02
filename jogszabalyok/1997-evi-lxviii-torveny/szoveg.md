@@ -120,7 +120,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Ha az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy az (1) bekezdésben meghatározott adatokat és tényeket nem igazolja, kinevezésre nem lehet előterjeszteni.
 
-(3) Az, akinek bírói szolgálati jogviszonya a Bjt. 90. § ha) pontja szerinti rá irányadó öregségi nyugdíjkorhatár betöltése miatt szűnik meg, és a megszűnést követő 3 hónapon belül a 2. § (2) bekezdés a) pontjában rögzített bírósági titkári szolgálati jogviszonyt kíván létesíteni, mentesül a 11/A. § (1) bekezdés b) pontjában írt kötelezettség alól.
+(3) Az, akinek bírói szolgálati jogviszonya a felmentési okként meghatározott életkor betöltése miatt szűnik meg, és a megszűnést követő 3 hónapon belül a 2. § (2) bekezdés a) pontjában rögzített bírósági titkári szolgálati jogviszonyt kíván létesíteni, mentesül a 11/A. § (1) bekezdés b) pontjában írt kötelezettség alól.
 
 12. § (1) A kinevezés határozatlan időre vagy legfeljebb 3 évig tartó határozott időre szólhat.
 
@@ -148,7 +148,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OBH képesítési követelményei esetében az OBH elnöke véleményének kikérésével – rendeletben határozza meg.
 
-(8) Az, akinek bírói szolgálati jogviszonya a Bjt. 90. § ha) pontja szerinti rá irányadó öregségi nyugdíjkorhatár betöltése miatt szűnik meg, és a megszűnést követő 3 hónapon belül a 2. § (2) bekezdés a) pontjában rögzített bírósági titkári szolgálati jogviszonyt kíván létesíteni, mentesül a kinevezése előtti bírói pályaalkalmassági vizsgálaton való részvétel alól.
+(8) Az, akinek bírói szolgálati jogviszonya a felmentési okként meghatározott életkor betöltése miatt szűnik meg, és a megszűnést követő 3 hónapon belül a 2. § (2) bekezdés a) pontjában rögzített bírósági titkári szolgálati jogviszonyt kíván létesíteni, mentesül a kinevezése előtti bírói pályaalkalmassági vizsgálaton való részvétel alól.
 
 14. § (1) Igazságügyi szolgálati viszony létesítésére – a (6) bekezdésben foglaltak kivételével – a kinevező pályázatot írhat ki. A pályázatot nyilvánosan kell meghirdetni.
 

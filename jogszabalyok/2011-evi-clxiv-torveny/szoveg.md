@@ -209,6 +209,11 @@ hívja össze.
 - g) akit ügyészként, bíróként, kormánytisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazónként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
+(4a) Nem nevezhető ki ügyésznek az a személy,
+
+- a) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani vagy
+- b) aki betöltötte az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatárt.
+
 (5) A katonai ügyész kinevezéséhez a honvédelemért felelős miniszter egyetértése szükséges. A katonai ügyészt erre a tisztségre kell kinevezni. A katonai ügyészt a honvédelemért felelős miniszter – a kinevezéssel egyidejűleg – rendelkezési állományba helyezi. A katonai ügyész szolgálatát az ügyészségi szolgálati viszonya megszűnéséig az ügyészi szervezetben teljesíti.
 
 (6) Fontos és bizalmas munkakörre ügyészségi szolgálati viszony azzal a személlyel létesíthető, aki külön törvényben előírt módon hozzájárul nemzetbiztonsági ellenőrzéséhez. A hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell.
@@ -370,7 +375,7 @@ véleményét a pályázóról.
 
 - a) felmentésével;
 - b) lemondásával;
-- c) a rá irányadó öregségi nyugdíjkorhatár betöltésével;
+- c) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 - d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - e) összeférhetetlenségének megállapításával (47. §);
 - f) hivatalvesztése kimondásával;
@@ -395,6 +400,8 @@ véleményét a pályázóról.
 (9) Az (1) bekezdés c)–i) pontjaiban meghatározott esetekben a legfőbb ügyész helyettes ügyészségi szolgálati viszonya is megszűnik.
 
 (10) Ha a legfőbb ügyész helyettes megbízatása az (1) bekezdés i) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
+
+24/A. § Az Alaptörvény 29. cikk (3) bekezdésében meghatározott általános öregségi nyugdíjkorhatár a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.
 
 #### 9. A vezetői kinevezés visszavonása
 
@@ -496,7 +503,7 @@ véleményét a pályázóról.
 - a) a felek közös megegyezésével;
 - b) felmentésével;
 - c) lemondásával;
-- d) a rá irányadó öregségi nyugdíjkorhatár betöltésével;
+- d) az Alaptörvény 29. cikk (3) bekezdése szerinti általános öregségi nyugdíjkorhatár betöltésével;
 - e) rendkívüli lemondásával;
 - f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - g) összeférhetetlenségének megállapításával;
@@ -518,7 +525,7 @@ véleményét a pályázóról.
 - c) az ügyész feladatai ellátására tartósan alkalmatlan, illetve az 51. § (3) bekezdésében említett vizsgálatnak nem vetette alá magát;
 - d)
 - e) az ügyész felmentése a 25. § (3) bekezdésében meghatározott okból válik szükségessé;
-- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri.
+- f) a Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjjogosultság feltételeivel legkésőbb a felmentési idő leteltekor rendelkező ügyész felmentését e jogcímre hivatkozással maga kéri.
 
 (2) Az (1) bekezdés c) pontját kell alkalmazni, ha a legfőbb ügyész a minősítés eredményét mérlegelve az ügyész alkalmatlanságát állapította meg, és az ügyész felszólítás ellenére nem mondott le ügyészi tisztségéről.
 
@@ -532,9 +539,9 @@ véleményét a pályázóról.
 - b) ha az ügyész anya, gyermeke hároméves koráig, feltéve, hogy szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot nem vesz igénybe;
 - c) ha az ügyész egyedülálló, az eltartott gyermeke nappali iskolai tanulmányainak befejezéséig, de legfeljebb a gyermek huszonöt éves koráig.
 
-(6) A Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha az (1) bekezdés f) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
+(6) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjra jogosult ügyészt, ha az (1) bekezdés f) pontja alapján felmentését kezdeményezi, a legfőbb ügyész köteles a társadalombiztosítási ellátás igénybe vétele érdekében – az ügyészi tanács véleményének kikérése nélkül – felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
-(7) A Tny. 18. § (2a) bekezdésében foglalt öregségi nyugdíjra szerzett jogosultságát az ügyésznek kell igazolnia.
+(7) A Tny. 18. § (2) vagy (2a) bekezdésében foglalt öregségi nyugdíjra szerzett jogosultságát az ügyésznek kell igazolnia.
 
 (8) A katonai ügyész ügyészségi szolgálati viszonyát felmentéssel kell megszüntetni, ha hivatásos állományú katonai szolgálati viszonya megszűnt, és más ügyészi munkakörben történő foglalkoztatásához nem járul hozzá, vagy az alkalmasságának megfelelő másik betölthető ügyészi munkakör nincs. Ilyen esetben a Munka Törvénykönyvében írt felmondási tilalmakat nem kell figyelembe venni. Ha a katonai ügyész ügyészségi szolgálati viszonya más okból szűnik meg, a legfőbb ügyész a hivatásos állományú katonát a Honvéd Vezérkar főnökének a rendelkezésére bocsátja. Ha a katonai ügyész hivatásos katonai szolgálati viszonya lemondással szűnt meg, és más ügyészi munkakörben történő foglalkoztatásához nem járul hozzá, ezt úgy kell tekinteni, hogy ügyészségi szolgálati viszonya a lemondási idő lejártának napjával lemondással megszűnik.
 
@@ -597,6 +604,8 @@ véleményét a pályázóról.
 - d) a jogviszony megszüntetése az egyenlő bánásmód követelményébe ütközött, vagy
 - e) az ügyész a jogviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
 
+(1a) Ha az ügyész a határozat meghozatalakor nem felel meg az ügyészi kinevezési feltételeknek, a bíróság nem helyezheti vissza az eredeti munkakörébe.
+
 (2) A munkáltató kérelmére a bíróság mellőzi az ügyész eredeti munkakörbe történő visszahelyezését, feltéve, ha az ügyész továbbfoglalkoztatása a munkáltatótól nem várható el. Ilyennek minősül különösen, ha
 
 - a) az ügyész munkaköre megszűnt,
@@ -623,6 +632,8 @@ véleményét a pályázóról.
 (3) Az ügyész az ügyészségi szolgálati viszony munkaidejét egészben vagy részben érintő munkavégzésre irányuló egyéb jogviszonyt csak a munkáltatói jogkör gyakorlójának előzetes hozzájárulásával létesíthet. A hozzájárulás megtagadása miatt jogvita nem kezdeményezhető.
 
 (4) Az ügyészségi szolgálati viszony munkaidejét nem érintő munkavégzésre irányuló egyéb jogviszony létesítését az ügyész köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni. A munkáltatói jogkör gyakorlója a jogviszony létesítését megtiltja, ha az ügyész ügyészségi szolgálati viszony alapján betöltött munkakörével e törvény rendelkezései szerint összeférhetetlen.
+
+45/A. § Az ügyész nem veheti igénybe öregségi nyugdíj, korhatár előtti ellátás, vagy más olyan pénzbeli ellátás folyósítását, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani.
 
 46. § (1) Nem létesíthető olyan ügyészségi szolgálati viszony, amelyben az ügyészségi alkalmazott hozzátartozójával [155. § (1) bekezdés] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
@@ -1352,7 +1363,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 121. § (1) Az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonyára az e fejezetben nem szabályozott kérdésekben – a (2)–(5) bekezdésben meghatározott kivételekkel – e törvénynek a legfőbb ügyész által kinevezett ügyész ügyészségi szolgálati viszonyára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Nem alkalmazhatók az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonyára e törvénynek a következő rendelkezései: a 6–10. §, a 11. § (1)–(3) bekezdése, a 13–14. §, 17. §, a 28–32. §, a 34. § d) és m) pontja, az 54. §, az 58. §, a 60–66. §, továbbá – az ügyészségi fogalmazó esetében – a 12. §.
+(2) Nem alkalmazhatók az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonyára e törvénynek a következő rendelkezései: a 6–10. §, a 11. § (1)–(3) és (4a) bekezdése, a 13–14. §, 17. §, a 28–32. §, a 34. § d) és m) pontja, a 45/A. §, az 54. §, az 58. §, a 60–66. §, továbbá – az ügyészségi fogalmazó esetében – a 12. §.
 
 (3) Az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya a hetvenedik életévének betöltésével, valamint akkor is megszűnik, ha a 109. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn. A legfőbb ügyész az ügyészségi szolgálati viszonyt felmentéssel akkor is megszüntetheti, ha az alügyész és az ügyészségi fogalmazó nyugdíjasnak minősül.
 
@@ -1448,7 +1459,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 - b) a határozott időre létesített ügyészségi szolgálati viszony felmentéssel a 36. § (1)–(4) bekezdésében meghatározott feltételek hiányában is megszüntethető, ha a munkáltató a határozott időből még hátralévő időre jutó, de legfeljebb egyévi átlagilletményét a tisztviselőnek, írnoknak, fizikai alkalmazottnak előre megfizeti;
 - c) a tisztviselő, az írnok és a fizikai alkalmazott lemondási ideje két hónap.
 
-131. § A tisztviselő, az írnok és a fizikai alkalmazott pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve az önkormányzati választásokon jelöltként való részvételét kivéve – közszereplést nem vállalhat. Összeférhetetlenségükre egyebekben a 45-47. § rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy a tisztviselő, írnok és fizikai alkalmazott
+131. § A tisztviselő, az írnok és a fizikai alkalmazott pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve az önkormányzati választásokon jelöltként való részvételét kivéve – közszereplést nem vállalhat. Összeférhetetlenségükre egyebekben a 45. §, a 46. § és a 47. § rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy a tisztviselő, írnok és fizikai alkalmazott
 
 - a) pártban viselt tisztségét legkésőbb a kinevezésekor köteles megszüntetni;
 - b) a 45. § (1) bekezdésében tiltott kereső tevékenységet is folytathat, továbbá gazdasági társaságban, kooperációs társaságban, közhasznú társaságban, szövetkezetben személyes közreműködési kötelezettséggel járó tagsági viszonyt létesíthet, valamint egyéni cég tagja lehet, ha ahhoz a munkáltatói jogkör gyakorlója előzetesen hozzájárult;
@@ -1643,7 +1654,7 @@ cím adományozható.
 
 kell érteni.
 
-(6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni azzal, hogy a legfőbb ügyész helyettes és az ügyész esetében e fogalmakat a rá irányadó öregségi nyugdíjkorhatárt be nem töltött személyre kell alkalmazni. Nyugdíjasnak minősül az alügyész, az ügyészségi fogalmazó, továbbá a tisztviselő, írnok, fizikai alkalmazott, valamint a rá irányadó öregségi nyugdíjkorhatárt be nem töltött ügyész abban az esetben is, ha felmentését a Tny. 18. § (2a) bekezdésére szerzett jogosultságára hivatkozással maga kéri.
+(6) Ahol e törvény a „nyugdíjasnak minősül”, „öregségi nyugdíjra jogosult”, „öregségi nyugdíjra való jogosultság” kifejezést használja, e fogalmak tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény 294. § (1) bekezdés g) pontját kell alkalmazni. Nyugdíjasnak minősül az ügyészségi alkalmazott abban az esetben is, ha felmentését a Tny. 18. § (2) vagy (2a) bekezdése alapján szerzett jogosultságára hivatkozással maga kéri.
 
 (7)
 
@@ -1695,17 +1706,11 @@ kell érteni.
 
 (2)
 
-159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/J. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
-160. § (1) E törvény rendelkezéseit a rá irányadó öregségi nyugdíjkorhatárt 2013. január 1-jét megelőzően betöltött legfőbb ügyész helyettes és ügyész (a továbbiakban e §-ban együtt: ügyész) esetében a (2) és (4) bekezdésben foglalt eltéréssel kell alkalmazni.
-
-(2) Ha az ügyész a rá irányadó öregségi nyugdíjkorhatárt 2012. január 1-jét megelőzően betöltötte, szolgálati viszonyát felmentéssel – végkielégítés, felmentési tilalom és korlát nélkül – kell megszüntetni; a felmentési idejének kezdő időpontja 2012. január 1., záró időpontja 2012. június 30., és az ügyész szolgálati viszonya 2012. június 30. napjával szűnik meg.
-
-(3) Ha az ügyész a rá irányadó öregségi nyugdíjkorhatárt a 2012. január 1. és 2012. december 31. közötti időszakban tölti be, szolgálati viszonyát felmentéssel – végkielégítés, felmentési tilalom és korlát nélkül – kell megszüntetni; a felmentési idejének kezdő időpontja 2012. július 1., záró időpontja 2012. december 31., és az ügyész szolgálati viszonya 2012. december 31. napjával szűnik meg.
-
-(4) Az e törvény 41. § (1) bekezdés második mondatában foglaltakat a (2)–(3) bekezdésben szabályozott esetben azzal az eltéréssel kell alkalmazni, hogy az ügyészt háromhavi átlagilletményének megfelelő összeg illeti meg.
+#### 160. §
 
 161. § (1) Az Üsztv. hatályon kívül helyezése az abban szabályozott választott testületek működését a megbízatásuk lejártáig nem érinti.
 
@@ -1758,6 +1763,90 @@ kell érteni 2012. december 31. napjáig.
 (4) Ha az ügyészségi alkalmazott a (3) bekezdés alapján több jubileumi jutalomra is jogosulttá válik, úgy részére a legmagasabb összegűt kell kifizetni.
 
 (5) Ha az ügyészségi alkalmazott a (3)–(4) bekezdés alapján jubileumi jutalomra jogosult, az azzal járó összegből le kell vonni a hatálybalépés előtt kifizetett jubileumi jutalom összegét, ha ez utóbbira a jogosultság – az újból elismert szolgálati viszonyban töltött idő alapján – nem állapítható meg.
+
+165/A. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 11. § (4a) bekezdés b) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 11. § (4a) bekezdés b) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni. A (2) bekezdésben foglaltakat az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban és kinevezési eljárásokban alkalmazni kell.
+
+(2) Nem nevezhető ki ügyésszé az a személy, aki betöltötte a 165/C. §-ban meghatározott életkort.
+
+165/B. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 24. § (1) bekezdés c) pontját és a 34. § d) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 24. § (1) bekezdés c) pontja és a 34. § d) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni.
+
+(2) A legfőbb ügyész helyettes megbízatása és a legfőbb ügyész által kinevezett ügyész ügyészségi szolgálati viszonya megszűnik a 165/C. §-ban meghatározott életkor betöltésével.
+
+165/C. § E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 24/A. §-át 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig az Alaptörvény 29. cikk (3) bekezdésében foglalt korhatár alatt a következőket kell érteni:
+
+- a) az 1945. január 1-je előtt született ügyész tekintetében a 70. életév,
+- b) az 1945-ben vagy 1946-ban született ügyész tekintetében a 69. életévének betöltését követő 183. nap,
+- c) az 1947-ben vagy 1948-ban született ügyész tekintetében a 69. életév,
+- d) az 1949-ben vagy 1950-ben született ügyész tekintetében a 68. életévének betöltését követő 183. nap,
+- e) az 1951-ben született ügyész tekintetében a 68. életév,
+- f) az 1952-ben született ügyész tekintetében a 67. életévének betöltését követő 183. nap,
+- g) az 1953-ban született ügyész tekintetében a 67. életév,
+- h) az 1954-ben született ügyész tekintetében a 66. életévének betöltését követő 183. nap,
+- i) az 1955-ben született ügyész tekintetében a 66. életév,
+- j) az 1956-ban született ügyész tekintetében a 65. életévének betöltését követő 183. nap,
+- k) az 1957-ben született ügyész tekintetében a 65. életév.
+
+165/D. § (1) Az ügyészségi szolgálati jogviszony fennállása esetén e törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 45/A. §-ban meghatározott összeférhetetlenségi okot az ügyész az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől számított 60 napon belül köteles megszüntetni.
+
+(2) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 11. § (4a) bekezdés a) pontját az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban és kinevezési eljárásokban is alkalmazni kell.
+
+(3) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 43. § (1a) bekezdését az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+165/E. § Ha az ügyész a 36. § (6) bekezdése alapján nem kérte a felmentését, kérheti a Tny. 18. § (1) bekezdésében meghatározott társadalombiztosítási öregségi nyugdíjra jogosító öregségi nyugdíjkorhatár betöltését követő időszakra, hogy az ügyészi szolgálati jogviszonya fenntartása mellett a legfőbb ügyész helyezze rendelkezési állományba.
+
+165/F. § A rendelkezési állományba helyezett ügyészekre a törvény rendelkezéseit a 165/G–165/I. §-ban foglalt eltérésekkel kell alkalmazni.
+
+165/G. § (1) A rendelkezési állományba helyezett ügyész az utolsó szolgálati helye szerinti ügyészség rendelkezési állományába kerül. A rendelkezési állományba helyezett ügyész ügyészi tevékenységet – a 165/H. §-ban foglalt kivétellel – nem végez. A rendelkezési állományba helyezett ügyész nem tölthet be vezetői tisztséget, nem lehet ügyészi tanács, alkalmazotti tanács tagja. A rendelkezési állományba helyezett ügyész jogosult az elért vagy adományozott címére utaló elnevezés, a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezés, a korábbi vezetői beosztására utaló elnevezés használatára a „rendelkezési állományba helyezett” előtaggal.
+
+(2) A rendelkezési állományba helyezett ügyész – a 165/I. § (3) bekezdésében foglalt kivétellel – nem jogosult alap- és pótszabadságra, valamint fizetés nélküli szabadságra.
+
+(3) A rendelkezési állományba helyezett ügyész – a 165/I. § (2) bekezdésében foglalt kivétellel – a rendelkezési állományt közvetlenül megelőzően őt megillető, a vezetői pótlék nélküli illetménye 80%-át kitevő összeg és nyugdíja különbözetére jogosult. A rendelkezési állomány alapján járó javadalmazás az ügyészt mindaddig nem illeti meg, amíg annak összege nem éri el az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel hatályon kívül helyezett 160. § (4) bekezdése alapján kifizetett átlagilletményt. A rendelkezési állományba helyezett ügyész jubileumi jutalomra a 65. életév betöltéséig jogosult, cafetéria-juttatás nem illeti meg.
+
+(4) A rendelkezési állományba helyezett ügyészt bejelentési kötelezettség terheli minden olyan körülményre vonatkozóan, ami a jogviszonyára és a munkavégzése elrendelésére kihatással lehet.
+
+165/H. § (1) A rendelkezési állományba helyezett ügyészt a legfőbb ügyész hivatalból vagy az érintett ügyészség vezetőjének vagy a rendelkezési állományba helyezett ügyésznek a kezdeményezésére – a (4) bekezdésben meghatározott okból – háromévenként legfeljebb két évre munkavégzésre kötelezheti ügyészi munkakörben, az utolsó ügyészi kinevezése szerinti szakágban. A munkavégzés helye az ügyész utolsó szolgálati helye szerinti ügyészség vagy olyan más ügyészség lehet, ahonnan lakóhelyére naponta vissza tud utazni.
+
+(2) Ha a rendelkezési állomány várható tartama rövidebb mint három év, a beosztás (1) bekezdés szerinti tartama arányosan csökken.
+
+(3) A munkavégzés elrendelését az ügyésszel – annak megkezdése előtt legalább 30 nappal – írásban közölni kell, megjelölve a munkavégzés elrendelésének indokát, helyét, kezdetét és időtartamát. A munkavégzésre beosztás időtartama az ügyész kezdeményezésére vagy előzetes hozzájárulásával módosítható.
+
+(4) Az (1) bekezdés szerinti munkavégzés elrendelésére
+
+- a) kimagasló ügyhátralék csökkentése érdekében,
+- b) tartósan távollévő ügyészek helyettesítése érdekében,
+- c) rendkívüli állapot, szükségállapot idején
+
+kerülhet sor.
+
+(5) A rendelkezési állományba helyezett ügyész a munkavégzés idején az összügyészi értekezleten tanácskozási joggal vehet részt.
+
+(6) A rendelkezési állományba helyezett ügyész esetében nem alkalmazható
+
+- a) a 11. § (4a) bekezdés a) pontja,
+- b) a 45/A. §,
+- c) az 50. § (1) bekezdése.
+
+165/I. § (1) A rendelkezési állományba helyezett ügyész két éven túl vagy három éven belül két évet meghaladóan ismételten vagy a 165/H. § (2) bekezdése szerinti időtartamot meghaladóan csak hozzájárulásával kötelezhető munkavégzésre. Nem kötelezhető munkavégzésre az ügyész a 165/C. §-ban meghatározott korhatár betöltését megelőző 6 hónapban.
+
+(2) A munkavégzésre kötelezett ügyész a rendelkezési állományt közvetlenül megelőzően őt megillető, a vezetői pótlék nélküli illetménye és nyugdíja különbözetére, valamint a munkavégzéshez kötődő költségtérítésre jogosult.
+
+(3) A munkavégzésre kötelezett ügyészt, ha a munkavégzés tartama az egy évet eléri, 20 nap alapszabadság illeti meg. Ha a munkavégzés ideje egy évnél kevesebb, az alapszabadság az időtartammal arányos mértékben csökken.
+
+(4) A munkavégzés időszakára eső keresőképtelenség időtartamával a munkavégzés időtartama meghosszabbodik. A keresőképtelenség időtartamára a 165/G. § (3) bekezdése szerinti javadalmazás jár.
+
+165/J. § (1) Ha az ügyész felmentésére az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel hatályon kívül helyezett 160. § alapján került sor, vagy az ügyész ügyészségi szolgálati viszonya 2013. január 1. napja és az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépése között a rá irányadó öregségi nyugdíjkorhatár betöltése miatt szűnt meg, az ügyész az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől számított 30 napon belül nyilatkozik a legfőbb ügyésznek arról, hogy kéri-e az ügyészi tisztségbe való visszahelyezését. A 30 napos határidő jogvesztő.
+
+(2) Ha az ügyész az (1) bekezdésben meghatározott nyilatkozatában kéri az ügyészi tisztségbe való visszahelyezését, a legfőbb ügyész megteszi a törvény alapján szükséges további intézkedéseket, valamint intézkedik az ügyész elmaradt illetményének (egyéb járandóságainak) megtérítése iránt az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel hatályon kívül helyezett 160. § (4) bekezdése alapján kifizetett átlagilletmény beszámítása mellett. Nem kell megtéríteni az illetménynek (egyéb járandóságnak) azt a részét, amely máshonnan megtérült.
+
+(3) Ha olyan ügyészségi vezető ügyészi tisztségből való felmentésére került sor az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel hatályon kívül helyezett 160. § alapján, aki az (1) bekezdésben meghatározott nyilatkozatában kéri az ügyészi tisztségbe való visszahelyezését, és a kérelem előterjesztésekor az az ügyészségi vezetői tisztség, amelyből felmentették, még nincs betöltve, őt kérelmére ezen ügyészségi vezetői tisztségébe kell visszahelyezni.
+
+(4) Ha az ügyész az ügyészi tisztségbe való visszahelyezését kéri, megfelelően alkalmazni kell a 165/E. §-ban foglaltakat. Ha az ügyész az ügyészi tisztségbe való visszahelyezését kéri, az (1) bekezdés szerinti nyilatkozatának a 165/E. §-ban meghatározottakra is ki kell terjednie.
+
+(5) Ha az ügyész az (1) bekezdésben meghatározott nyilatkozatában nem kéri az ügyészi tisztségbe való visszahelyezését, a legfőbb ügyész intézkedik számára 12 havi illetményének megfelelő összegű átalány-kártérítés megfizetése iránt. Az ügyész ezt meghaladó vagyoni kárát bíróság előtt érvényesítheti.
+
+(6) Aki az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépése előtt betöltötte vagy az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépését követő 6 hónapon belül betölti a 165/C. § a) pontjában meghatározott korhatárt, az (1) bekezdés szerinti nyilatkozat alapján az ügyészi tisztségbe nem helyezhető vissza, részére az (5) bekezdésben meghatározottak szerint átalány-kártérítés megfizetése iránt intézkedik a legfőbb ügyész. Az ügyész ezt meghaladó vagyoni kárát bíróság előtt érvényesítheti.
+
+(7) Az e § alapján ismételten kinevezésre kerülő ügyész esetében a legfőbb ügyész megvizsgálja a kinevezési feltételeknek való megfelelést is. A kinevezésre kerülő ügyész mentesül a 12. §-ban foglalt kötelezettség alól. Ha a kinevezésre az ügyészi szolgálati viszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre kerülő személy mentesül a 11. § (4) bekezdés a)–f) pontjában foglaltak igazolására vonatkozó kötelezettség alól.
 
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

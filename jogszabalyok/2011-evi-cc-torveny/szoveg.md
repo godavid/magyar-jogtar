@@ -104,11 +104,7 @@ a Kormány által kijelölt szervezet (a továbbiakban: nemzeti mobil fizetési 
 
 10. § A 2. § a) és b) pontja szerinti szolgáltatást nyújtó szolgáltató a központosított mobil értékesítésű szolgáltatás értékesítése céljából 2013. szeptember 30-áig veheti igénybe az erre a célra 2013. április 1-jét megelőzően kialakított és üzemeltetett mobil fizetési rendszert. A nemzeti mobil fizetési szervezet a nemzeti mobil fizetési rendszer működését a 2. § a) és b) pontja szerinti szolgáltatás tekintetében 2013. szeptember 30-ától biztosítja.
 
-11. § (1) Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 1. § (2) bekezdése a következő k) ponttal egészül ki:
-
-(A törvény hatálya nem terjed ki:)
-
-„k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre.”
+11. § (1)
 
 (2)
 

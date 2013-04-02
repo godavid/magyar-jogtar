@@ -181,11 +181,13 @@ a közjegyzőkről
 
 (2) Annak a területi kamarának az elnöksége, amelynek területén a megüresedett közjegyzői állás van, a pályázatot meghirdeti, és a pályázók közül javaslatot tesz a kinevezésre.
 
+(3) Ha a közjegyzői szolgálat előreláthatólag azért szűnik meg, mert a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik, a megüresedő közjegyzői állásra a pályázatot legkésőbb a szolgálat megszűnésének várható időpontját fél évvel megelőzően kell meghirdetni.
+
 19. § Olyan közjegyzői székhely esetén, ahol jelentős számban élnek nemzetiséghez tartozók, a nemzetiség nyelvét ismerő pályázót előnyben kell részesíteni.
 
 20. § (1) Közjegyzőt a beleegyezése nélkül nem lehet más székhelyre áthelyezni.
 
-(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket – beleegyezésükkel – pályázat kiírása nélkül kölcsönösen áthelyezheti. Nincs helye kölcsönös áthelyezésnek a közjegyző kinevezését követő 3 éven belül és a közjegyzőre irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző 5 éven belül.
+(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket – beleegyezésükkel – pályázat kiírása nélkül kölcsönösen áthelyezheti. Nincs helye kölcsönös áthelyezésnek a közjegyző kinevezését követő 3 éven belül és azon időpontot megelőző 5 éven belül, amikor a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálat megszűnik.
 
 (3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyző személyével tölti be, a közjegyzőt e székhelyre helyezi át.
 
@@ -224,7 +226,7 @@ a közjegyzőkről
 - a) a közjegyző felmentéséről szóló határozat jogerőre emelkedésének,
 - b) a közjegyzői szolgálat megszűnését megállapító határozat jogerőre emelkedésének,
 - c) a közjegyzői fegyelmi bíróság hivatalvesztést, a közjegyző alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
-- d) a közjegyző 70. életéve betöltésének vagy
+- d) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltésének, vagy
 - e) a közjegyző halálának napján.
 
 (2) A miniszter a közjegyzőt felmenti, ha a közjegyző a szolgálatáról a miniszterhez intézett írásbeli nyilatkozatában lemondott.
@@ -260,7 +262,7 @@ a közjegyzőkről
 
 24. § (1) A közjegyző nem gyakorolhatja a hivatását
 
-- a) a 22. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
+- a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamint ha a közjegyzői szolgálat megszűnésére azért kerül sor, mert a közjegyző betölti a megszűnési okként megjelölt kort, a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
 - b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 - c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 - d) az azt követő naptól kezdődően, amelyen az összeférhetetlenség megszüntetésére irányuló kötelezettségét még – a mulasztás jogkövetkezményeinek alkalmazása nélkül – teljesíthette volna és
@@ -1536,9 +1538,25 @@ kommunikálhat.
 
 177. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 20. § (2) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő áthelyezési eljárásokban is alkalmazni kell.
 
-(2) A közjegyzőre irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő közjegyző szolgálata 2013. december 31-én szűnik meg.
+(2)
 
-#### 178–182. §
+178. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 22. § (1) bekezdés d) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 22. § (1) bekezdés d) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni.
+
+(2) A közjegyzői szolgálat megszűnik:
+
+- a) 1945. január 1-je előtt született közjegyző 70. életévének betöltése napján,
+- b) 1945-ben vagy 1946-ban született közjegyző 69. életévének betöltését követő 183. napon,
+- c) 1947-ben vagy 1948-ban született közjegyző 69. életévének betöltése napján,
+- d) 1949-ben vagy 1950-ben született közjegyző 68. életévének betöltését követő 183. napon,
+- e) 1951-ben született közjegyző 68. életévének betöltése napján,
+- f) 1952-ben született közjegyző 67. életévének betöltését követő 183. napon,
+- g) 1953-ban született közjegyző 67. életévének betöltése napján,
+- h) 1954-ben született közjegyző 66. életévének betöltését követő 183. napon,
+- i) 1955-ben született közjegyző 66. életévének betöltése napján,
+- j) 1956-ban született közjegyző 65. életévének betöltését követő 183. napon,
+- k) 1957-ben született közjegyző 65. életévének betöltése napján.
+
+#### 179–182. §
 
 ### Felhatalmazás
 
