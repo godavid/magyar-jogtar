@@ -71,9 +71,13 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
-- g) akit bíróként, ügyészként, kormánytisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll.
+- g) akit bíróként, ügyészként, kormánytisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, fegyveres szerv hivatásos állományú tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
+- i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
 
 (3) Az (1) bekezdés f) pontjában írt kötelező bírósági titkári működés időtartamába legfeljebb 6 hónap beszámítható annak, aki legalább 3 évig az (1) bekezdés f) pontjában nem említett jogi szakvizsgához kötött munkakörben működött.
+
+(4) A 3. § (4) bekezdése szerinti esetben az OBH elnöke a kinevezésre vonatkozó javaslatának felterjesztése előtt megvizsgálja a kinevezési feltételeknek való megfelelést is. Ha a kinevezésre vonatkozó javaslatra a bírói szolgálati viszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre javasolt személy mentesül a 12. § (1) bekezdés b) pontja szerinti igazolás bemutatásának kötelezettsége alól. A kinevezésre javasolt személy mentesül a 12. § (1) bekezdés c) pontja szerinti igazolás bemutatásának kötelezettsége alól.
 
 #### 4. A katonai és a szabadalmi ügyekben eljáró bíró kinevezésének különös feltételei
 
@@ -417,6 +421,8 @@ elnökének véleményét.
 
 (5) A bíró nem lehet választottbíróság tagja.
 
+(6) A bíró nem veheti igénybe öregségi nyugdíj, korhatár előtti ellátás, vagy más olyan pénzbeli ellátás folyósítását, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani.
+
 41. § A bíróság elnökének, elnökhelyettesének, valamint kollégiumvezetőjének és helyettesének, csoportvezetőjének és helyettesének a hozzátartozója ugyanazon bíróságon, kollégiumban vagy csoportban bíróként nem működhet.
 
 42. § (1) A bíró köteles haladéktalanul bejelenteni, ha vele szemben összeférhetetlenségi ok merül fel.
@@ -424,6 +430,16 @@ elnökének véleményét.
 (2) Az érintett bírák legkésőbb az összeférhetetlenségi ok keletkezésétől számított 30 napon belül kötelesek közös megállapodással kezdeményezni az összeférhetetlenségi ok megszüntetését, ennek elmaradása esetén a 41. §-ban meghatározott bírósági vezetőt a kinevező 30 napon belül vezetői tisztségéből felmenti.
 
 (3) A 41. §-ban szabályozott összeférhetetlenségi esetben felmentést az OBT adhat. Az összeférhetetlenség feloldásának kivételes módja az együttalkalmazási tilalom alóli felmentés. A felmentésre akkor kerülhet sor, ha az összes körülményre figyelemmel megállapítható, hogy az adott vezetői állás betöltése más módon nem lehetséges. A döntés mérlegelésénél a meghatározó szempont a szolgálati érdek.
+
+(4) A 40. §-ban szabályozott összeférhetetlenségi esetekben a bíró az összeférhetetlenségi okot a kinevezésétől, ha az összeférhetetlenségi ok a tisztsége gyakorlása során merült fel, az ok felmerülésétől számított 30 napon – a 40. § (6) bekezdésében foglalt esetben 60 napon – belül köteles megszüntetni. Ennek megtörténtéig – ide nem értve a 40. § (6) bekezdésében foglalt összeférhetetlenségi okot – a bíró olyan tevékenységet nem folytathat, amely kizárólag bírói hatáskörbe tartozik.
+
+(5) Ha a bíró a (4) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, a munkáltatói jogkör gyakorlója a határidő lejártától számított 5 napon belül határozatban állapítja meg az összeférhetetlenség fennállását és kezdeményezi a bíró felmentését.
+
+(6) A bíró a határozattal szemben 15 napon belül a szolgálati bírósághoz fordulhat. A szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén a szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
+
+(7) A 40. § (6) bekezdése szerinti okból hozott munkáltatói határozattal szemben indított eljárásban a szolgálati bíróság első- és másodfokon is 15 napon belül jár el.
+
+(8) Ha a bíró az eljárás ideje alatt a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását – különös méltánylást érdemlő okból – mellőzni lehet.
 
 #### 22. Nyilatkozattétel
 
@@ -613,7 +629,7 @@ történő rendelkezésre állás.
 
 #### 33. Rendszeres és soron kívüli értékelés
 
-68. § A határozott idejű kinevezést követően határozatlan időre kinevezett bíró tevékenységét e kinevezést követően a harmadik évben, majd nyolcévenként kell – utoljára a bíróra irányadó öregségi nyugdíjkorhatár betöltését megelőző hatodik évben lehet – értékelni. Ha a bíró első kinevezése határozatlan időre történt, a bíró tevékenységét a kinevezést követő harmadik év eltelte előtt, majd a kinevezést követő hatodik évben, ezután nyolcévenként kell – utoljára a bíróra irányadó öregségi nyugdíjkorhatár betöltését megelőző hatodik évben lehet – értékelni.
+68. § A határozott idejű kinevezést követően határozatlan időre kinevezett bíró tevékenységét e kinevezést követően a harmadik évben, majd nyolcévenként kell – utoljára a felmentési okként meghatározott életkor betöltését megelőző hatodik évben lehet – értékelni. Ha a bíró első kinevezése határozatlan időre történt, a bíró tevékenységét a kinevezést követő harmadik év eltelte előtt, majd a kinevezést követő hatodik évben, ezután nyolcévenként kell – utoljára a felmentési okként meghatározott életkor betöltését megelőző hatodik évben lehet – értékelni.
 
 69. § Soron kívül értékelni kell a bíró tevékenységét, ha
 
@@ -754,17 +770,18 @@ történő rendelkezésre állás.
 - f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
 - g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 - h) ha a bíró
-  - ha)
-  - hb) a felső korhatár betöltése előtt a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással maga kéri nyugállományba helyezését,
+  - ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
+  - hb) a felmentési okként meghatározott életkor betöltése előtt, maga kéri nyugállományba helyezését a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2) vagy (2a) bekezdésében foglalt feltételek fennállására hivatkozással,
 - i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 - j) ha a pályázat eredményével szembeni jogorvoslati eljárás során megállapítást nyert, hogy a bíró kinevezésének törvényi feltételei nem állnak fenn,
 - k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetve elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
 - l) ha a bíró a 38. §-ban meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra 15 munkanapon belül nem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye,
 - m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton a 86. § (3) bekezdése szerint nem vesz részt,
 - n) ha állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé nevezik ki,
-- o) ha a bíró szolgálati viszonyát jogellenesen megszüntette.
+- o) ha a bíró szolgálati viszonyát jogellenesen megszüntette,
+- p) ha az összeférhetetlenséget jogerős határozat megállapította.
 
-#### 91. §
+91. § Az Alaptörvény 26. cikk (2) bekezdésében meghatározott általános öregségi nyugdíjkorhatár a Tny.-ben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév.
 
 92. § A szolgálati viszony jogellenes megszüntetésének minősül, ha a bíró azt lemondás nélkül vagy az irányadó felmentési idő lejárta előtt – egyoldalúan – szüntette meg.
 
@@ -778,7 +795,7 @@ történő rendelkezésre állás.
 
 (2) A bíró felmentési ideje – a (3) bekezdésben említett esetek kivételével – egy hónap, amelyre a bírót a munkavégzési kötelezettség alól mentesíteni kell.
 
-(3) Nyugállományba helyezés, valamint a felső korhatár elérése esetén a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére az OBT a munkavégzési kötelezettség alóli mentesítés idejét 3 hónapnál rövidebb tartamban is megállapíthatja, illetve – a bíró kérelmére – dönthet úgy, hogy a bíró a munkavégzési kötelezettség alól nem mentesül.
+(3) Nyugállományba helyezés, valamint a felmentési okként meghatározott életkor betöltése esetén a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére az OBT a munkavégzési kötelezettség alóli mentesítés idejét 3 hónapnál rövidebb tartamban is megállapíthatja, illetve – a bíró kérelmére – dönthet úgy, hogy a bíró a munkavégzési kötelezettség alól nem mentesül.
 
 (4) A munkavégzési kötelezettség alól mentesített bíró nem ítélkezhet, bírósági vezetői beosztás esetén vezetőként nem járhat el, a bírói tisztséghez fűződő szavazati, illetve igazgatási jogokat nem gyakorolhatja.
 
@@ -788,7 +805,7 @@ történő rendelkezésre állás.
 
 96. § (1) A 90. és 91. §-ban foglalt feltételek fennállása esetén a bíró felmentésére vonatkozó javaslatot – a bíróság elnökének kezdeményezésére, illetve a közigazgatási és munkaügyi bíróság vagy a szolgálati bíróság jelzése alapján – az OBH elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
-(2) Ha a bíró felmentésére a felső korhatár elérése miatt kerül sor, az előterjesztést olyan időpontban kell megtenni, hogy a felmentési idő a felső korhatár betöltését megelőzően járjon le.
+(2) Ha a bíró felmentésére azért kerül sor, mert betöltötte a felmentési okként meghatározott életkort, az előterjesztést olyan időpontban kell megtenni, hogy a felmentési idő ennek az életkornak a betöltését megelőzően járjon le.
 
 97. § (1) A katonai bíró felmentéséről szóló javaslatot az OBH elnöke a honvédelemért felelős miniszterrel együttesen terjeszti a köztársasági elnök elé.
 
@@ -826,7 +843,7 @@ történő rendelkezésre állás.
 
 #### 44. Szolgálati bíróság
 
-101. § A bírák fegyelmi és az ezzel összefüggő kártérítési ügyeiben, továbbá a bíró munkájának szakmai értékeléséből és vezetői munkájának értékeléséből eredő jogvitákban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság, a továbbiakban együtt: szolgálati bíróság) jár el.
+101. § A bírák fegyelmi és az ezzel összefüggő kártérítési ügyeiben, továbbá a bíró munkájának szakmai értékeléséből és vezetői munkájának értékeléséből eredő jogvitákban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
 
 102. § (1) A szolgálati bíróság elnökét és tagjait a Kúria, az ítélőtáblák és a törvényszékek bírái közül az OBT nevezi ki. A szolgálati bíróság elnökhelyettesét az adott szolgálati bíróság elnöke nevezi ki.
 
@@ -1141,7 +1158,15 @@ kezdődik.
 
 (2) A szolgálati jogvitában a 146. §-ban foglalt kivétellel a szolgálati bíróság jár el.
 
-(3) Ha a szolgálati jogvita alapján a bírót tisztségébe vissza kell helyezni, meg kell téríteni a szolgálati viszony jogellenes megszüntetésével összefüggésben felmerült kárát, a munkáltató kártérítési felelősségére vonatkozó szabályok szerint.
+(3) Ha a bíróság megállapítja, hogy a bíró szolgálati jogviszonya jogellenesen került megszüntetésre, a bíró kérheti a bírói tisztségbe való visszahelyezését, és a felmentését megelőző beosztási helyén történő továbbfoglalkoztatását. Ha tanácselnök bírói szolgálati jogviszonya került jogellenesen megszüntetésre, őt a tanácselnöki tisztségébe is vissza kell helyezni.
+
+(4) Ha határozott időre kinevezett bírósági vezető bírói szolgálati jogviszonya került jogellenesen megszüntetésre és a (3) bekezdés szerinti visszahelyezéskor az a bírósági vezetői tisztség, amelyből felmentették, még nincs betöltve, őt kérelmére e bírósági vezetői tisztségébe kell visszahelyezni. A vezetői tisztségének tartama az eredeti kinevezés szerinti időtartamig tart. Ha a visszahelyezés a korábbi vezetői tisztségbe történik, a (6) bekezdésben meghatározott vezetői pótlék megtérítésére a visszahelyezés időpontjáig terjedően kerül sor.
+
+(5) A szolgálati jogvita alapján nem helyezhető vissza bírói tisztségbe az, aki a határozat meghozatalakor a bírói kinevezési feltételeknek nem felel meg.
+
+(6) A (3) bekezdésben foglalt esetben meg kell téríteni a bíró elmaradt illetményét és egyéb járandóságait, ideértve a határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótlékot is, meg kell téríteni továbbá – a munkáltató kártérítési felelősségére vonatkozó szabályok szerint – a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek (egyéb járandóságnak) azt a részét, amely máshonnan megtérült. A határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótléknak a visszahelyezésig elmaradt részét egy összegben kell megtéríteni a visszahelyezéskor; a határozott idejű kinevezésből a visszahelyezést követő időszakra járó vezetői pótlék havonta az illetménybe épül be akként, hogy az egyébként esetlegesen járó vezetői pótlék összege beleszámít.
+
+(7) Ha a bírói szolgálati viszony (3) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a bíró a bírói tisztségbe való visszahelyezését nem kéri, vagy a bíróság az (5) bekezdésben meghatározott okból mellőzi a bírói tisztségbe való visszahelyezést, a bíróság a (6) bekezdésben foglaltakon felül – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével, valamint a máshonnan megtérülő károk figyelembevételével – legalább két-, legfeljebb tizenkét havi illetményének megfelelő összegű átalány-kártérítést állapít meg a bíró számára.
 
 146. § (1) Az e törvény által a szolgálati bíróság hatáskörébe nem utalt szolgálati jogvitában a közigazgatási és munkaügyi bíróság jár el.
 
@@ -1779,6 +1804,92 @@ rendelettel állapítsa meg.
 232. § Az OBT e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.
 
 232/A. § A 174. § (2) bekezdés alkalmazásában ítélőtáblai, illetve törvényszéki szolgálati időnek számít 2013. január 1. napját követően annak a volt ítélőtáblai, illetve törvényszéki bírónak a szolgálati ideje, akinek a törvényszékre, illetve a közigazgatási és munkaügyi bíróságra történő áthelyezésére a közigazgatási és munkaügyi bíróságok felállításakor, a bíróságok szervezetéről és igazgatásáról szóló törvény rendelkezéseire tekintettel került sor.
+
+232/B. § (1) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 4. § (2) bekezdés i) pontját 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig a 4. § (2) bekezdés i) pontja helyett a (2) bekezdésben foglaltakat kell alkalmazni. A (2) bekezdésben foglaltakat az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban alkalmazni kell.
+
+(2) Nem nevezhető ki bíróvá az a személy, aki betöltötte a 232/C. §-ban meghatározott korhatárt.
+
+232/C. § E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 91. §-át 2023. január 1-jétől kell alkalmazni. 2022. december 31-ig az Alaptörvény 26. cikk (2) bekezdésében foglalt korhatár alatt a következőket kell érteni:
+
+- a) az 1945. január 1-je előtt született bíró tekintetében a 70. életév,
+- b) az 1945-ben vagy 1946-ban született bíró tekintetében a 69. életévének betöltését követő 183. nap,
+- c) az 1947-ben vagy 1948-ban született bíró tekintetében a 69. életév,
+- d) az 1949-ben vagy 1950-ben született bíró tekintetében a 68. életévének betöltését követő 183. nap,
+- e) az 1951-ben született bíró tekintetében a 68. életév,
+- f) az 1952-ben született bíró tekintetében a 67. életévének betöltését követő 183. nap,
+- g) az 1953-ban született bíró tekintetében a 67. életév,
+- h) az 1954-ben született bíró tekintetében a 66. életévének betöltését követő 183. nap,
+- i) az 1955-ben született bíró tekintetében a 66. életév,
+- j) az 1956-ban született bíró tekintetében a 65. életévének betöltését követő 183. nap,
+- k) az 1957-ben született bíró tekintetében a 65. életév.
+
+232/D. § (1) A bírói szolgálati jogviszony fennállása esetén e törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 40. § (6) bekezdésében meghatározott összeférhetetlenségi ok megszüntetésére rendelkezésre álló határidőt az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől kell számítani.
+
+(2) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 4. § (2) bekezdés h) pontját az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő pályázati eljárásokban is alkalmazni kell.
+
+(3) E törvénynek az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvénnyel megállapított 145. § (3)–(7) bekezdését az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+232/E. § Ha a bíró a 90. § hb) alpontja alapján nem kérte a felmentését, kérheti a Tny. 18. § (1) bekezdésében meghatározott társadalombiztosítási öregségi nyugdíjra jogosító öregségi nyugdíjkorhatár betöltését követő időszakra, hogy a bírói szolgálati jogviszonya fenntartása mellett az OBH elnöke helyezze rendelkezési állományba.
+
+232/F. § A rendelkezési állományba helyezett bírákra a törvény rendelkezéseit a 232/G–232/I. §-ban foglalt eltérésekkel kell alkalmazni.
+
+232/G. § (1) A rendelkezési állományba helyezett bíró az utolsó beosztási helye szerinti bíróság rendelkezési állományába kerül. A rendelkezési állományba helyezett bíró igazságszolgáltatási tevékenységet – a 232/H. §-ban foglalt kivétellel – nem végez. A rendelkezési állományba helyezett bíró nem lehet bírósági vezető, a bírói tanács és a szolgálati bíróság tagja. A rendelkezési állományba helyezett bíró jogosult a korábbi bírói beosztására utaló, az elért vagy adományozott címére utaló vagy a korábbi vezetői beosztására utaló elnevezés használatára a „rendelkezési állományba helyezett” előtaggal.
+
+(2) A rendelkezési állományba helyezett bíró – a 232/I. § (3) bekezdésében foglalt kivétellel – nem jogosult alap- és pótszabadságra, valamint fizetés nélküli szabadságra.
+
+(3) A rendelkezési állományba helyezett bíró – a 232/I. § (2) bekezdésében foglalt kivétellel – a rendelkezési állományt közvetlenül megelőzően őt megillető, a vezetői pótlék nélküli illetménye 80%-át kitevő összeg és nyugdíja különbözetére jogosult. A rendelkezési állományba helyezett bíró jubileumi jutalomra a 65. életév betöltéséig jogosult, cafetéria-juttatás nem illeti meg.
+
+(4) A rendelkezési állományba helyezett bírót bejelentési kötelezettség terheli minden olyan körülményre vonatkozóan, ami a jogviszonyára és beosztására kihatással lehet.
+
+232/H. § (1) A rendelkezési állományba helyezett bírót az OBH elnöke hivatalból vagy az érintett bíróság elnökének vagy a rendelkezési állományba helyezett bírónak a kezdeményezésére – a (4) bekezdésben meghatározott okból – háromévenként legfeljebb két évre beoszthatja igazságszolgáltatási feladatra az utolsó beosztási helye szerinti bíróságra vagy olyan más bíróságra, ahonnan lakóhelyére naponta vissza tud utazni, továbbá igazgatási feladatok ellátására az OBH-ba, ha onnan a lakóhelyére naponta vissza tud utazni. Az igazgatási feladatok ellátására történő beosztáshoz a bíró hozzájárulása szükséges.
+
+(2) Ha a rendelkezési állomány várható tartama rövidebb mint három év, a beosztás (1) bekezdés szerinti tartama arányosan csökken.
+
+(3) Az igazságszolgáltatási feladatra vagy az igazgatási feladatokra való beosztást (a továbbiakban: munkavégzésre beosztás) a bíróval – annak megkezdése előtt legalább 30 nappal – írásban közölni kell, megjelölve a munkavégzésre beosztás indokát, helyét, kezdetét és időtartamát. A munkavégzésre beosztás időtartama a bíró kezdeményezésére vagy előzetes hozzájárulásával módosítható.
+
+(4) Az (1) bekezdés szerinti munkavégzésre beosztásra
+
+- a) kimagasló ügyhátralék csökkentése érdekében,
+- b) tartósan távollévő bírák helyettesítése érdekében,
+- c) bírósági közvetítői tevékenység végzése érdekében,
+- d) rendkívüli állapot, szükségállapot idején,
+- e) központi igazgatási feladatok ellátása érdekében
+
+kerülhet sor.
+
+(5) A rendelkezési állományba helyezett bíró az ítélkezési tevékenységre való beosztása idején az összbírói értekezleten, továbbá a kúriai, az ítélőtáblai és a törvényszéki beosztása szerinti kollégium munkájában tanácskozási joggal vehet részt.
+
+(6) A rendelkezési állományba helyezett bíró esetében nem alkalmazható
+
+- a) a 4. § (2) bekezdés h) pontja,
+- b) a 40. § (6) bekezdése,
+- c) a 68. §.
+
+232/I. § (1) A rendelkezési állományba helyezett bíró két éven túl vagy három éven belül két évet meghaladóan ismételten vagy a 232/H. § (2) bekezdése szerinti időtartamot meghaladóan csak hozzájárulásával osztható be munkavégzésre. Nem osztható be munkavégzésre a bíró a 232/C. §-ban meghatározott korhatár betöltését megelőző 6 hónapban.
+
+(2) A munkavégzésre beosztott bíró a rendelkezési állományt közvetlenül megelőzően őt megillető, a vezetői pótlék nélküli illetménye és nyugdíja különbözetére, valamint a munkavégzéshez kötődő költségtérítésre jogosult.
+
+(3) A munkavégzésre beosztott bírót, ha a munkavégzés tartama az egy évet eléri, 20 nap alapszabadság illeti meg. Ha a munkavégzés ideje egy évnél kevesebb, az alapszabadság az időtartammal arányos mértékben csökken.
+
+(4) A munkavégzésre beosztás időszakára eső keresőképtelenség időtartamával a munkavégzésre beosztás időtartama meghosszabbodik. A keresőképtelenség időtartamára a 232/G. § (3) bekezdése szerinti javadalmazás jár.
+
+232/J. § (1) Ha a bíró felmentésére a 33/2012. (VII. 17.) AB határozattal megsemmisített 90. § ha) alpont alapján került sor, a bíró az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől számított 30 napon belül nyilatkozik az OBH elnökének arról, hogy kéri-e a bírói tisztségbe való visszahelyezését. A 30 napos határidő jogvesztő.
+
+(2) Ha a bíró az (1) bekezdésben meghatározott nyilatkozatában kéri a bírói tisztségbe való visszahelyezését, az OBH elnöke megteszi a törvény alapján szükséges további intézkedéseket, valamint intézkedik a bíró elmaradt illetményének (egyéb járandóságainak) – ideértve a határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótlékot is – megtérítése iránt. A határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótléknak a visszahelyezésig elmaradt részét egy összegben kell megtéríteni a visszahelyezéskor; a határozott idejű kinevezésből a visszahelyezést követő időszakra járó vezetői pótlék havonta az illetménybe épül be akként, hogy az egyébként esetlegesen járó vezetői pótlék összege beleszámít. A 232/E. §-ban foglaltak választása esetén a határozott idejű bírósági vezetői kinevezés időtartamára járó vezetői pótléknak a visszahelyezésig elmaradt része jár. Nem kell megtéríteni az illetménynek (egyéb járandóságnak) azt a részét, amely máshonnan megtérült. A bírót a felmentését megelőző beosztási helyén kell továbbfoglalkoztatni. Ha tanácselnök bírói szolgálati jogviszonya került jogellenesen megszüntetésre, őt a tanácselnöki tisztségébe is vissza kell helyezni.
+
+(3) Ha olyan határozott időre kinevezett bírósági vezető bírói tisztségből való felmentésére került sor a 33/2012. (VII. 17.) AB határozattal megsemmisített 90. § ha) alpont alapján, aki az (1) bekezdésben meghatározott nyilatkozatában kéri a bírói tisztségbe való visszahelyezését, és a kérelem előterjesztésekor az a bírósági vezetői tisztség, amelyből felmentették, még nincs betöltve, őt kérelmére e bírósági vezetői tisztségébe kell visszahelyezni. A vezetői tisztségének tartama az eredeti kinevezés szerinti időtartamig tart. Ha a visszahelyezés a korábbi vezetői tisztségbe történik, a (2) bekezdésben meghatározott vezetői pótlék megtérítésére a visszahelyezés időpontjáig terjedően kerül sor.
+
+(4) Ha a bíró a bírói tisztségbe való visszahelyezését kéri, valamint ha a bírót az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépését megelőzően jogerős ítélettel a bíróság a bírói tisztségébe visszahelyezte, megfelelően alkalmazni kell a 232/E. §-ban foglaltakat. Ha a bíró a bírói tisztségbe való visszahelyezését kéri, az (1) bekezdés szerinti nyilatkozatának a 232/E. §-ban meghatározottakra is ki kell terjednie.
+
+(5) Akit a 33/2012. (VII. 17.) AB határozattal megsemmisített 90. § ha) alpont alapján történt felmentésére tekintettel indított perében hozott jogerős ítélet helyezett vissza a bírói tisztségbe, annak a 232/E. §-ban meghatározott nyilatkozatot az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépését követő 30 napon belül kell megtennie. Ha a bíróság a járulékos kérdésekben nem hozott még jogerős ítéletet, az OBH elnöke intézkedik a (2) bekezdésben foglaltak megtérítése iránt. A jogerős ítélettel visszahelyezett bíró az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől számított 30 napon belül előterjesztett nyilatkozatában kérheti a visszahelyezés mellőzését vagy a 90. § hb) alpontja szerinti felmentését. Ez esetben a (6) bekezdésben foglaltakat megfelelően alkalmazni kell azzal, hogy ha a bíróság az átalány-kártérítés megfizetése előtt a járulékos kérdésekben jogerős ítéletet hozott, az átalány-kártérítés összegébe a jogerős ítélettel megállapított kártérítés összegét be kell számítani. Felmentés esetében a felmentési idő 1 hónap azzal, hogy nincs helye a munkavégzés alóli mentesítésnek.
+
+(6) Ha a bíró az (1) bekezdésben meghatározott nyilatkozatában nem kéri a bírói tisztségbe való visszahelyezését, az OBH elnöke intézkedik számára 12 havi illetményének megfelelő összegű átalány-kártérítés megfizetése iránt. A bíró ezt meghaladó vagyoni kárát bíróság előtt érvényesítheti.
+
+(7) Aki az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépése előtt betöltötte vagy az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépését követő 6 hónapon belül betölti a 232/C. § a) pontjában meghatározott korhatárt, az (1) bekezdés szerinti nyilatkozat alapján a bírói tisztségbe nem helyezhető vissza, részére a (6) bekezdésben meghatározottak szerint átalány-kártérítés megfizetése iránt intézkedik az OBH elnöke. A bíró ezt meghaladó vagyoni kárát bíróság előtt érvényesítheti.
+
+232/K. § (1) Ha a 33/2012. (VII. 17.) AB határozattal megsemmisített 90. § ha) alpont alapján felmentett bírót a 232/J. § alapján a bírói tisztségébe vissza kell helyezni, a köztársasági elnök a felmentést megelőző kinevezés szerinti határozott vagy határozatlan idejű kinevezést ad.
+
+(2) Az (1) bekezdés szerinti esetben az OBH elnöke a kinevezésre vonatkozó javaslatának felterjesztése előtt megvizsgálja a kinevezési feltételeknek való megfelelést is. Ha a kinevezésre vonatkozó javaslatra a bírói szolgálati viszony vagy az igazságügyi alkalmazotti jogviszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre javasolt személy mentesül a 12. § (1) bekezdés b) pontja szerinti igazolás bemutatásának kötelezettsége alól. A kinevezésre javasolt személy mentesül a 12. § (1) bekezdés c) pontja szerinti igazolás bemutatásának kötelezettsége alól.
 
 233. § E törvény
 

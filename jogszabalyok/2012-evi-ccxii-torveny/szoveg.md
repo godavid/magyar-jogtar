@@ -10,13 +10,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 5. §
 
-6. § Az Eüak. 14/A. §-a a következő (3)–(5) bekezdésekkel egészül ki:
-
-„(3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos egy éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
-
-(4) A gyógyszerkiváltás során a gyógyszerész akkor ismerheti meg a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatait, ha a gyógyszerellátásban részesülő biztosított személyesen jár el.
-
-(5) A gyógyszerész a biztosított kérésére a biztosított részére tájékoztatást ad a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatairól.”
+6. §
 
 7–13. §
 

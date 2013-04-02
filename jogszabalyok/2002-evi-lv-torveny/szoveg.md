@@ -378,7 +378,7 @@ a közvetítői eljárásban
 
 ### A bírósági közvetítő
 
-38/A. § (1) Bírósági közvetítői tevékenységet az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által – a közvetítői szakmai képzés elvégzésének igazolását követően – kijelölt bírósági titkár végezhet.
+38/A. § (1) Bírósági közvetítői tevékenységet az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által – a közvetítői szakmai képzés elvégzésének igazolását követően – kijelölt bírósági titkár és rendelkezési állományba helyezett bíró végezhet.
 
 (2) Az (1) bekezdés szerint kijelölt bírósági titkár a bírósági közvetítéssel kapcsolatos tevékenysége során a bírósági közvetítő megjelölést használja (a továbbiakban: bírósági közvetítő).
 
@@ -390,7 +390,7 @@ a közvetítői eljárásban
 
 (3) A peres vagy nemperes bírósági eljárás felei a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
 
-(4) A bíróság a bírósági közvetítőként eljáró bírósági titkár nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
+(4) A bíróság a bírósági közvetítőként eljáró bírósági titkár vagy rendelkezési állományba helyezett bíró nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
 (5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni.
 

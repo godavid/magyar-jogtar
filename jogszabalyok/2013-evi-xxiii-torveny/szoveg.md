@@ -458,19 +458,11 @@ rendeletben állapítsa meg.
 
 (2) Ez a törvény – az 54. § (2) bekezdésében foglalt kivétellel – a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-54. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény a következő 95/A. §-sal egészül ki:
-
-„95/A. § Mentes a végrehajtás alól a Magyar Szénhidrogén Készletező Szövetség tulajdonában álló biztonsági és különleges kőolajkészlet.”
-
-(2) A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény 23. § (2) bekezdése a következő d) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:)
-
-„d) a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet.”
+54. § (1)–(2)
 
 (3)
 
-(4) Hatályát veszti a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény.
+(4)
 
 ### 1. melléklet a 2013. évi XXIII. törvényhez
 
