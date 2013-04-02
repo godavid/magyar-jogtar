@@ -2842,7 +2842,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 234. § (1) A végrehajtói állást pályázat útján kell betölteni.
 
-(2)–(4)
+(2) Ha a végrehajtói szolgálat előreláthatólag a 239. § (1) bekezdés d) pontja alapján szűnik meg, a megüresedő végrehajtói állásra a pályázatot legkésőbb a szolgálat megszűnésének várható időpontját fél évvel megelőzően kell meghirdetni.
+
+(3)–(4)
 
 234/A. §
 
@@ -3956,7 +3958,7 @@ kérhetnek adatszolgáltatást.
 
 (11) Az árverezők elektronikus nyilvántartásában szereplő, 123. § (2) bekezdés a) és b) pontjában meghatározott személy és szervezet 2012. július 31-éig köteles bejelenteni az árverezők elektronikus nyilvántartásába annak a tényét, hogy a 123. § (2) bekezdés a) vagy b) pontja szerinti személynek vagy szervezetnek minősül. Az e bejelentés alapján történő bejegyzés díjmentes.
 
-306. § Az önálló bírósági végrehajtóra irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő önálló bírósági végrehajtó szolgálata 2013. december 31-én szűnik meg.
+306. §
 
 306/A. § A 2012. január 1-jét megelőző időszakra járó
 
