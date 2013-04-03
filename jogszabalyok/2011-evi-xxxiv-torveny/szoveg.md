@@ -22,10 +22,13 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - b) külföldi fegyveres erő állományának tagja: az a) pontban foglalt fegyveres erő katonai személyi állományának és a fegyveres erő alkalmazásában álló polgári személyzet tagja;
 - c) nemzetközi katonai parancsnokság: az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv (a továbbiakban: Párizsi Jegyzőkönyv) I. cikk b), c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezet;
 
-(2) E törvény alkalmazásában hozzátartozónak minősül:
+(2) E törvény alkalmazásában hozzátartozónak minősül az (1) bekezdés b) pontjában foglalt személynek vagy az (1) bekezdés c) pontjában foglalt nemzetközi katonai parancsnoksághoz tartozó állomány tagjának
 
-- a) az (1) bekezdés b) pontban foglalt személynek vagy az (1) bekezdés c) pontban foglalt nemzetközi katonai parancsnoksághoz tartozó állomány tagjának házastársa, valamint az általa eltartott gyermeke, ideértve a vér szerinti, az örökbefogadott, a nevelt vagy mostohagyermeket is, és
-- b) a külföldi fegyveres erő állománya tagjának állampolgársága vagy állandó tartózkodási helye szerinti állam jogszabályai szerint hozzátartozónak minősülő személy, amennyiben a külföldi fegyveres erő állománya tagjával magyarországi közös háztartásban él.
+- a) házastársa,
+- b) az általa eltartott gyermeke, ideértve a vér szerinti, az örökbefogadott, a nevelt vagy mostohagyermeket is, és
+- c) az állampolgársága vagy állandó tartózkodási helye szerinti állam jogszabályai szerint hozzátartozónak minősülő személy,
+
+ha vele magyarországi közös háztartásban él.
 
 (3) A hozzátartozói minőséget az arra hivatkozó személynek vagy törvényes képviselőjének kell igazolnia a külföldi fegyveres erő állománya tagjának állampolgársága vagy állandó tartózkodási helye szerinti állam jogszabályainak megfelelő hivatalos okirattal.
 
@@ -56,6 +59,13 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - e) a szolgálati célú tartózkodás kezdetének és tervezett befejezésének időpontját,
 - f) a szolgálati célú tartózkodás helyét,
 - g) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
+- h) a szolgálati ideje alatt vele magyarországi közös háztartásban élő hozzátartozója
+  - ha) családi és utónevét,
+  - hb) születési helyét és idejét,
+  - hc) állampolgárságát,
+  - hd) rokonsági fokának megjelölését,
+  - he) személyazonosító okmányának vagy útlevelének számát,
+  - hf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
 
 (3) Az (1) bekezdés c) pontjában meghatározott nyilvántartás a Magyarország területén tartózkodó külföldi fegyveres erő alábbi adatait tartalmazza:
 
@@ -67,7 +77,7 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - f) a szolgálati célú tartózkodás helyét,
 - g) a külföldi fegyveres erőt a Magyarország területén történő termékbeszerzés vagy szolgáltatás igénybevétel tekintetében képviselő személy családi és utónevét, rendfokozatát, beosztását, állampolgárságát, valamint aláírásának mintáját,
 - h) az általa termékbeszerzéséhez vagy szolgáltatás igénybevételéhez használandó hivatalos pecsétjének mintáját,
-- i) amennyiben nemzetközi szerződés vagy törvény a külföldi fegyveres erő állományába tartozó személyekre vonatkozó adómentességet ír elő, a külföldi fegyveres erő állományába tartozás tényét igazoló személy családi és utónevét, rendfokozatát, beosztását, állampolgárságát, valamint aláírásának mintáját.
+- i) a g) pontban meghatározott személy e minőségének időtartamát a kezdő és befejező időpont megjelölésével.
 
 (4) Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságok alábbi adatait tartalmazza:
 
@@ -77,6 +87,7 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - d) magyarországi székhelyének vagy más képviseletének teljes címét,
 - e) a nemzetközi katonai parancsnokságot Magyarország területén történő termékbeszerzés vagy szolgáltatás-igénybevétel tekintetében képviselő személy családi és utónevét, rendfokozatát, beosztását, állampolgárságát, valamint aláírásának mintáját,
 - f) az általa termékbeszerzéséhez vagy szolgáltatás igénybevételéhez használandó hivatalos pecsétjének mintáját.
+- g) az e) pontban meghatározott személy e minőségének időtartamát a kezdő és befejező időpont megjelölésével.
 
 (5) Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságokhoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja alábbi adatait tartalmazza:
 
@@ -86,13 +97,20 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - d) a nemzetközi katonai parancsnokság megnevezését,
 - e) a szolgálati célú tartózkodás kezdetének és tervezett befejezésének időpontját,
 - f) a szolgálati célú tartózkodás ideje alatti magyarországi elhelyezési helyének címét.
+- g) az állomány magyar állampolgárságú tagja magyar állampolgárságú hozzátartozójának kivételével, a szolgálati ideje alatt vele magyarországi közös háztartásban élő hozzátartozója
+  - ga) családi és utónevét,
+  - gb) születési helyét és idejét,
+  - gc) állampolgárságát,
+  - gd) rokonsági fokának megjelölését,
+  - ge) személyazonosító okmányának vagy útlevelének számát,
+  - gf) magyarországi lakóhellyel vagy tartózkodási hellyel nem rendelkező hozzátartozó esetén a hozzátartozó magyarországi tartózkodása kezdetének és tervezett befejezésének időpontját.
 
-(6) Amennyiben külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki.
+(6) Ha a külföldi fegyveres erő Magyarország területén szolgálati céllal tervezetten három hónapnál rövidebb ideig tartózkodik, a Magyar Honvédség központi adatfeldolgozó szerve a külföldi fegyveres erő kérelmére nyilvántartást vezethet a külföldi fegyveres erő (3) bekezdésben foglalt adatairól, és azokról igazolást állíthat ki. Az igazolás kiállítására az 5. § (3) bekezdését megfelelően alkalmazni kell.
 
 (7) Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:
 
 - a) az (1) bekezdésben meghatározott külföldi fegyveres erőkre, nemzetközi katonai parancsnokságokra és azok állományára vonatkozó nemzetközi szerződésekben foglalt, illetve a nemzetközi jog általánosan elismert szabályaiból eredő jogállásának biztosítása,
-- b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
+- b) az (1) bekezdésben meghatározott külföldi fegyveres erők, nemzetközi katonai parancsnokságok és azok állománya tagjai és hozzátartozóik nemzetközi jogi normákban és a magyar jogszabályokban biztosított kiváltságai és mentességei fennálltának igazolása, valamint azok érvényesítésének és végrehajtásának biztosítása,
 - c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.
 
 5. § (1) A Magyar Honvédség központi adatfeldolgozó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.
@@ -109,9 +127,11 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 
 (3) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés c) pontja szerinti nyilvántartás alapján – a külföldi fegyveres erő vezetőjének kérelmére – a 4. § (3) bekezdés a), b), f), g), h) és i) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
 
-(4) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), és f) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
+(4) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott, a Magyarország területén felállított nemzetközi katonai parancsnokságokra vonatkozó nyilvántartás alapján – a nemzetközi katonai parancsnokság vezetőjének kérelmére – a 4. § (4) bekezdés a), d), e), f) és g) pontjában foglalt adatokról igazolást állít ki. Az igazolás az abban foglalt adatokat közhitelűen igazolja.
 
 (5) Az (1) bekezdés szerinti igazolvány hatályossági ideje azonos a (2) bekezdés f) pontjában foglalt, a szolgálati célú tartózkodás tervezett befejezésének időpontjával.
+
+(6) A Magyar Honvédség központi adatfeldolgozó szerve a 4. § (2) bekezdés h) pontjában foglalt adatokról, valamint a 4. § (5) bekezdés g) pontjában foglalt adatokról a nyilvántartott NATO- és PfP-állomány, külföldi állomány, illetve a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja, továbbá e személyek nyilvántartott hozzátartozója kérelmére a hozzátartozói jogálláshoz kapcsolódó egyes jogok érvényesítése céljából a nyilvántartásból külön jogszabályban meghatározott adattartalmú, hitelesített kivonatot ad ki.
 
 6. § (1) A 4. § (1) bekezdés a)–c) pontjaiban meghatározott nyilvántartásokban foglalt adatokat a NATO- és PfP-állomány tagja, a külföldi állomány tagja, valamint a külföldi fegyveres erő Magyarország területén szolgálati célú tartózkodása befejezésének napjától számított öt évig kell megőrizni.
 
@@ -150,13 +170,13 @@ kell megőrizni.
   - de) a nemperes eljárást lefolytató közjegyző,
 - e) a 4. § (2)–(5) bekezdésben foglalt adatokról az érintett külföldi fegyveres erő, nemzetközi katonai parancsnokság vagy azok állománya tagjának nemzetbiztonsági ellenőrzése vagy védelme biztosítása céljából az eljáró nemzetbiztonsági szolgálat,
 - f) a 4. § (3) bekezdés a), b), c) és f) pontjában és a 4. § (4) bekezdés a)–d) pontjában foglalt adatokról a katasztrófák elleni védekezés tervezésének és végrehajtásának elősegítése érdekében a katasztrófavédelemmel kapcsolatos ügyekben eljáró központi hatóság,
-- g) a 4. § (2) bekezdés a), c), e), f) és g) pontjában és a 4. § (5) bekezdés a), c), d), e) és f) pontjában foglalt adatokról az érintett állomány és hozzátartozóik idegenrendészeti jogállásának igazolása és ellenőrzése céljából az illetékes idegenrendészeti hatóság,
-- h) a 4. § (2) bekezdés a), b), c), e) és g) pontjában, a 4. § (3) bekezdés a), e), g), h) és i) pontjában, a 4. § (4) bekezdés a), d), e), és f) pontjában és a 4. § (5) bekezdésében foglalt adatokról az adó- és vámmentesség fennálltának igazolása és ellenőrzése, valamint a vám- vagy adójogszabályok megsértése gyanújának felmerülése esetén az eljárás lefolytatása céljából
-  - ha) az adóhatóság,
+- g) a 4. § (2) bekezdés a), c), e), f), g) és h) pontjában és a 4. § (5) bekezdés a), c), d), e), f) és g) pontjában foglalt adatokról az érintett állomány és hozzátartozóik idegenrendészeti jogállásának igazolása és ellenőrzése céljából az illetékes idegenrendészeti hatóság,
+- h) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában, a 4. § (3) bekezdés a), e), g), h) és i) pontjában, a 4. § (4) bekezdés a), d), e), f) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról az adó- és vámmentesség fennálltának igazolása és ellenőrzése, valamint a vám- vagy adójogszabályok megsértése gyanújának felmerülése esetén az eljárás lefolytatása céljából
+  - ha) az állami adóhatóság,
   - hb) a vámhatóság,
-- i) a 4. § (2) bekezdés a), c) és g) pontjában és a 4. § (5) bekezdés a), d) és f) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
-- j) a 4. § (2) bekezdés a), b), c), e) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
-- k) a 4. § (2) bekezdés a), c), e) és g) pontjában és a 4. § (5) bekezdés a), d), e) és f) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+- i) a 4. § (2) bekezdés a), c), g) és h) pontjában és a 4. § (5) bekezdés a), d), f) és g) pontjában foglalt adatokról az érintett állomány családjogi helyzetének Magyarország területén történő olyan megváltozása esetén, amely az érintett személy vagy hozzátartozója nemzetközi szerződésben vagy e törvényben foglalt jogállását, illetve egyes jogait érinti, az anyakönyvezést végző hatóság,
+- j) a 4. § (2) bekezdés a), b), c), e), g) és h) pontjában és a 4. § (5) bekezdésében foglalt adatokról a közlekedési igazgatási eljárás lefolytatása érdekében a közlekedési igazgatási hatóság,
+- k) a 4. § (2) bekezdés a), c), e), g) és h) pontjában és a 4. § (5) bekezdés a), d), e), f) és g) pontjában foglalt adatokról az érintett személy jogait vagy jogos érdekét érintő hatósági eljárások lefolytatása céljából az érintett személy elhelyezési helye szerinti helyi önkormányzat jegyzője és az elhelyezési helye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 részére.
 
@@ -206,17 +226,17 @@ részére.
 - c) a Párizsi Jegyzőkönyv I. cikk b) vagy c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján vagy nemzetközi szerződésben felállított nemzetközi katonai parancsnoksághoz tartozó, nem magyar állampolgárságú katonai és polgári állomány tagja által saját vagy hozzátartozói használata céljából ideiglenesen behozott gépjárművek forgalomba helyezése esetén,
 - d) a Párizsi Jegyzőkönyv I. cikk b) vagy c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján vagy nemzetközi szerződésben felállított nemzetközi katonai parancsnokság a saját tulajdonában álló gépjármű forgalomba helyezése esetén.
 
-(2) Az (1) bekezdés a)–c) pontja alkalmazása tekintetében az üzemben tartó a közúti közlekedési nyilvántartást vezető szerv részére a gépjármű (1) bekezdésben foglalt esetekben történő forgalomba helyezésére irányuló eljárás során nyilatkozik a behozatal ideiglenességéről, a használat céljáról, és a gépjárművet használó személy nevéről és rokonsági fokáról. A közúti közlekedési nyilvántartást vezető szerv a nyilatkozatot a regisztrációs adóról szóló 2003. évi CX. törvény 9. § (6) bekezdése alapján továbbítja a vámhatóság részére.
+(2) Az (1) bekezdés a) és c) pontja alkalmazása tekintetében a gépjármű tulajdonosa a gépjármű forgalomba helyezéséhez kapcsolódó adóigazgatási eljárás során – a jogosultságát igazoló okmányok bemutatása mellett – a vámhatóság előtt nyilatkozik a behozatal ideiglenességéről, a használat céljáról, és a gépjárművet használó személynek a 4. § (2) bekezdés h) pontjában, illetve a 4. § (5) bekezdés g) pontjában meghatározott adatairól. Az eljáró vámhatóság a regisztrációs adóról szóló törvény alapján határozatban állapítja meg az (1) bekezdés szerinti adómentesség fennálltát vagy annak hiányát.
 
 (3) Amennyiben az (1) bekezdés a)–c) pontjában foglaltak alapján forgalomba helyezett gépjárművet a forgalmi engedély jogosultja a magyar gépjármű forgalomban tartva elidegeníti, köteles a regisztrációs adót a gépjármű elidegenítését megelőzően megfizetni.
 
-(4) Az (1) bekezdés a)–c) pontja alkalmazásában az ott meghatározott állomány tagja folyamatos szolgálati célú tartózkodásának ideje alatt saját vagy hozzátartozói használata céljából személyenként egy személygépkocsit és egy motorkerékpárt helyezhet regisztrációsadó-mentesen forgalomba.
+(4) Az (1) bekezdés a) és c) pontja alkalmazásában az ott meghatározott állomány tagja folyamatos szolgálati célú tartózkodásának ideje alatt saját vagy hozzátartozói használata céljából személyenként egy személygépkocsit és egy motorkerékpárt helyezhet regisztrációsadó-mentesen forgalomba.
 
-(5) Amennyiben az (1) bekezdés a)–c) pontjában meghatározott állomány ismételten, a korábbi szolgálati célú tartózkodásának idejével nem folytatólagosan, az (1) bekezdés a)–c) pontjának megfelelően szolgálati céllal tartózkodik Magyarország területén, a regisztrációsadó-mentességre jogosító időtartam újrakezdődik.
+(5) Amennyiben az (1) bekezdés a) és c) pontjában meghatározott állomány ismételten, a korábbi szolgálati célú tartózkodásának idejével nem folytatólagosan, az (1) bekezdés a) és c) pontjának megfelelően szolgálati céllal tartózkodik Magyarország területén, a regisztrációsadó-mentességre jogosító időtartam újrakezdődik.
 
-(6) Amennyiben az (1) bekezdés a)–c) pontjában meghatározott állomány tagja szolgálati célú tartózkodásának ideje alatt regisztrációsadó-mentesen forgalomba helyezett gépjárművét a forgalomból véglegesen kivonja, a forgalomból kivont gépjármű pótlására az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodás XI. cikk 6. bekezdése alapján ideiglenesen behozott gépjárművet is regisztrációsadó-mentesen helyezheti forgalomba.
+(6) Amennyiben az (1) bekezdés a) és c) pontjában meghatározott állomány tagja szolgálati célú tartózkodásának ideje alatt regisztrációsadó-mentesen forgalomba helyezett gépjárművét a forgalomból véglegesen kivonja, a forgalomból kivont gépjármű pótlására az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodás XI. cikk 6. bekezdése alapján ideiglenesen behozott gépjárművet is regisztrációsadó-mentesen helyezheti forgalomba.
 
-(7) Az (1)–(6) bekezdésben nem szabályozott kérdésekben a regisztrációs adóról szóló 2003. évi CX. törvény rendelkezéseit kell megfelelően alkalmazni.
+(7) Az (1)–(6) bekezdésben nem szabályozott kérdésekben a regisztrációs adóról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 14. § (1) A Párizsi Jegyzőkönyv I. cikk b), c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezet hivatalos céljára történő termékbeszerzés vagy szolgáltatások igénybevétele tekintetében Magyarország által nemzetközi szervezetként elismert szervezeteket az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 107. § (1) bekezdés b) pontja alapján megillető általános forgalmi adó, és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 47/A. § alapján megillető jövedéki adó alóli mentességeket kell alkalmazni.
 
@@ -234,11 +254,12 @@ részére.
 
 - a) a honvédelemért felelős miniszter, hogy a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben, rendeletben szabályozza a 4. §-ban foglalt nyilvántartás vezetésével, a nyilvántartásba vétellel, továbbá az 5. §-ban foglalt igazolvány és igazolás kiadásával és visszavonásával, valamint a nyilvántartásból történő adatszolgáltatással kapcsolatos eljárási szabályokat és a nyilvántartási eljárás során használandó iratmintákat, valamint az alkalmazandó díjtételeket,
 - b) a honvédelemért felelős miniszter, hogy az Alaptörvény 47. cikk (1)–(3) bekezdése hatálya alá nem tartozó, szolgálati célú belépéséről és tartózkodásáról szóló értesítés eljárási szabályait, valamint az eljárás során használandó iratmintákat rendeletben szabályozza.
+- c) a honvédelemért felelős miniszter, hogy az egyes külföldi fegyveres erőket, nemzetközi katonai parancsnokságokat és azok állományát nemzetközi szerződés vagy törvény alapján megillető, az általános forgalmi adót és a jövedéki adót érintő kiváltságok, kedvezmények és mentességek érvényesítéséhez szükséges adómentességi igazolások kiállításával kapcsolatos eljárási szabályokat rendeletben szabályozza.
 
 #### 8. Záró rendelkezések
 
 18. § (1) Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 
-(2)
+(2) E törvénynek a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény és a közúti közlekedésről szóló 1988. évi I. törvény módosításáról szóló 2013. évi XVII. törvénnyel beiktatott 4. § (2) bekezdés h) pontjában, (3) bekezdés i) pontjában, (4) bekezdés g) pontjában és (5) bekezdés g) pontjában meghatározott adatok tekintetében a Magyar Honvédség központi adatfeldolgozó szerve a Magyarországon felállított, azonban Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokságok, továbbá azon fegyveres erők és külföldi állomány, akik szolgálati célú tartózkodásának idejéből még legalább három hónap van hátra, megfelelő határidő tűzésével történő felhívásával, haladéktalanul intézkedik a nyilvántartás kiegészítésére, valamint a kiegészített nyilvántartás alapján a módosított igazolások – a korábban kiállított igazolások egyidejű bevonásával történő – kiállítására.
 
 (3)
