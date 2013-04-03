@@ -971,7 +971,7 @@ nem terjednek ki.
 
 (3) Ahol e törvény vagy a közúti közlekedési igazgatásról szóló jogszabály lakóhelyet, lakcímet vagy tartózkodási helyet említ, ott a külföldi állomány tekintetében az igazolt elhelyezési helyet is érteni kell.
 
-(4) A külföldi állomány gépjárműve – a közlekedésbiztonsági üzemeltetési műszaki feltételek kivételével – mentesül a közúti járművek forgalomba helyezésére és forgalomban tartására vonatkozó jogszabályban meghatározott üzemeltetési műszaki feltételek alól.
+(4)
 
 ### Út építése, kezelése, fenntartása, megszüntetése és elbontása
 
