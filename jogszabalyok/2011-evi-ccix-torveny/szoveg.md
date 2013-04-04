@@ -71,7 +71,7 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 
 ### II. Fejezet — A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
 
-3. § (1) Az e törvényben meghatározott hatósági feladatokat – a (2) bekezdésben foglalt kivételekkel – a Magyar Energia Hivatal (a továbbiakban: Hivatal) látja el.
+3. § (1) Az e törvényben meghatározott hatósági feladatokat – a (2) bekezdésben foglalt kivételekkel – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
 
 (2) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a víziközmű-szolgáltatás korlátozásával vagy felfüggesztésével kapcsolatos rendelkezések lakossági felhasználókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt (a továbbiakban: Fgytv.) kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fgytv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 
@@ -107,11 +107,11 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 
 (2) A víziközmű-szolgáltató a felhasználói egyenérték kiszámításához szükséges adatokat március 31-ig küldi meg a Hivatalnak.
 
-(3) A Hivatal kérelemre indult eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+(3)
 
 (4) A Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A felügyeleti díj és az igazgatási szolgáltatási díj adók módjára behajtható köztartozásnak minősül.
+(5)
 
 ### III. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATÁS ESZKÖZEI
 
@@ -806,8 +806,9 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - 2. állapítsa meg a víziközmű-szolgáltatás átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok körét és a közzététel módját;
 - 3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 - 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
-- 5. állapítsa meg – az adópolitikáért felelős miniszterrel egyetértésben – a Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint a díjak fizetésére vonatkozó szabályokat;
+- 5.
 - 6–8.
+- 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
 (3)
 

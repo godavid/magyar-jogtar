@@ -571,7 +571,7 @@ kötheti.
 
 (3) A kéttényezős díj rendelkezésre állási díjból és ürítési díjból áll. A rendelkezésre állási díj a kezelt hulladék mennyiségétől függetlenül felmerülő üzemeltetési költségek, az ürítési díj a kezelt hulladék mennyiségétől függő költségek fedezetére szolgál.
 
-(4) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energia Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hulladékgazdálkodási közszolgáltatási díj megállapításakor rendelkezni kell arról, hogy a hulladékgazdálkodási közszolgáltatási díjat megállapító rendelet mikor lép hatályba. E rendelkezésnek visszamenőleges hatálya nem lehet.
+(4) A hulladékgazdálkodási közszolgáltatási díjat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslatának figyelembevételével a miniszter rendeletben állapítja meg. A hulladékgazdálkodási közszolgáltatási díj megállapításakor rendelkezni kell arról, hogy a hulladékgazdálkodási közszolgáltatási díjat megállapító rendelet mikor lép hatályba. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (5) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év szeptember 30-ig megküldi.
 
@@ -605,7 +605,7 @@ kötheti.
 
 (3) Ha adott településen a hulladékgazdálkodási közszolgáltatást a közszolgáltató több tagja (részes fele) vagy alvállalkozó látja el, a település vonatkozásában a felügyeleti díj éves mértéke egyenlő a közszolgáltató által ellátott hulladékgazdálkodási közszolgáltatás önkormányzati rendeletben előírt aránya alapján meghatározott lakosszám és 100 forint szorzatával.
 
-(4) A felügyeleti díj, illetve a Hivatal által kiszabott bírság adók módjára behajtandó köztartozásnak minősül.
+(4)
 
 50. § (1) A közszolgáltató beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre a számvitelről szóló törvény (a továbbiakban: Szt.) rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
 
@@ -1138,7 +1138,7 @@ jogsértés esetén nem mérsékelhető.
 - 9. a biológiailag lebomló – de az állati melléktermékekre vonatkozó szabályozás hatálya alá nem tartozó – hulladék kezelésével kapcsolatos szabályokat;
 - 10. a hulladékgazdálkodással kapcsolatos egységes információs rendszer kialakításának részletes szabályait;
 - 11. az elkülönített hulladékgyűjtésre vonatkozó szabályokat;
-- 12. az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a hulladékgazdálkodási közszolgáltatásra vonatkozó felügyeleti díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+- 12.
 
 (3) Felhatalmazást kap:
 
@@ -1148,7 +1148,8 @@ jogsértés esetén nem mérsékelhető.
   - ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
 - b) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter, hogy
   - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
-  - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét
+  - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
+  - bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

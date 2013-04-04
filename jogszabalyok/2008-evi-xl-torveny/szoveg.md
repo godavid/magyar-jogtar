@@ -60,7 +60,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 13. Előre fizető mérő: olyan fogyasztásmérő berendezés, amely a földgáz ellenértékének előzetes megfizetését követően biztosítja a földgáz vételezését.
 - 13a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
 - 14. Elszámolási mérés: a földgázforgalomnak az Üzemi és Kereskedelmi Szabályzat szerint kialakított a rendszerüzemeltető által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezésekkel történő meghatározása.
-- 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energia Hivatal (a továbbiakban: Hivatal) által kiadott érvényes engedéllyel rendelkezik.
+- 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott érvényes engedéllyel rendelkezik.
 - 16. Felhasználási hely: az az ingatlan, ahol a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely, vagy a fogyasztói főcsap van.
 - 17. Felhasználó: aki földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
 - 18. Felhasználói berendezés: a fogyasztói vezeték, a gázfogyasztó készülék és a gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok összessége.
@@ -738,7 +738,7 @@ saját fogyasztására földgázt vásárolni.
 
 (2) A szállítási rendszerüzemeltető és a földgázelosztó a szállító-, illetőleg az elosztóvezetékekhez való csatlakozást egy adott csatlakozási pontra a szállító-, illetőleg az elosztóvezeték műszaki jellemzőire tekintettel megtagadhatja. Ha a szállítási rendszerüzemeltető vagy a földgázelosztó az (1) bekezdés a) pontjára való hivatkozással tagadta meg a csatlakozást, meg kell határozni azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható.
 
-(3) Ha a szállítási rendszerüzemeltető vagy a földgázelosztó elutasítja a szállító-, illetőleg az elosztóvezetékhez való csatlakozás iránti igényt, az igénybejelentő kérelmére a Hivatal dönt a csatlakozás kérdésében, és kötelezheti az érintett rendszerüzemeltetőt a csatlakozási kérelem teljesítésére, ha a felhasználó vállalja a Hivatal határozatában meghatározott mértékű csatlakozási díj megfizetését.
+(3) Ha a szállítási rendszerüzemeltető vagy a földgázelosztó elutasítja a szállító-, illetőleg az elosztóvezetékhez való csatlakozás iránti igényt, az igénybejelentő kérelmére a Hivatal dönt a csatlakozás kérdésében, és kötelezheti az érintett rendszerüzemeltetőt a csatlakozási kérelem teljesítésére, ha a felhasználó vállalja a Hivatal elnökének rendeletében meghatározott mértékű csatlakozási díj megfizetését.
 
 (4) A rendszerüzemeltetők felelősek azért, hogy az általuk üzemeltetett szállító- és elosztóvezeték közép-, illetve hosszú távon alkalmas legyen a csatlakozási szerződésekben, és más rendszerüzemeltetőknek adott kapacitásnyilatkozatban meghatározott igények kielégítésére.
 
@@ -1245,7 +1245,7 @@ lehet igénybe venni.
 
 foglalt árat vagy díjat köteles megfizetni.
 
-(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdés szerinti díjakat a Hivatal határozatban állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát a miniszter rendeletben állapítja meg.
+(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdés szerinti díjakat a Hivatal elnöke rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát a miniszter rendeletben állapítja meg.
 
 (4) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény és a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett termelő, valamint e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 
@@ -1259,13 +1259,13 @@ foglalt árat vagy díjat köteles megfizetni.
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(4a) Az engedélyesek az általuk alkalmazott hatósági árat az árat meghatározó rendelet kihirdetését vagy a Hivatal határozatának kézhezvételét követő három munkanapon belül kötelesek holnapjukon nyilvánosságra hozni.
+(4a) Az engedélyesek az általuk alkalmazott hatósági árat az árat meghatározó rendelet kihirdetését követő három munkanapon belül kötelesek holnapjukon nyilvánosságra hozni.
 
 (5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (6) A hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
-(7) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító Hivatali határozat vagy jogszabály megsértésével más árban állapodtak meg.
+(7) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
 
 (8) A hatósági ártól lefelé megkülönböztetés mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
@@ -1295,7 +1295,7 @@ foglalt árat vagy díjat köteles megfizetni.
 
 (2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
 
-(3) A 105. § (1) bekezdés a) és c)–d) pontjai szerinti díjak országosan egységes mértékűek, azokat és alkalmazásuk egyedi szabályait a Hivatal gázévenként, határozatban állapítja meg. A 105. § (1) bekezdés b) pontja szerinti díj mértékét és alkalmazásának egyedi szabályait a Hivatal gázévenként, a földgáz rendszerhasználati díjak megállapításáról szóló jogszabályban meghatározott módon, földgázelosztónként határozatban állapítja meg. A Hivatal a határozatát az abban megállapított rendszerhasználati díjak és áralkalmazási feltételek hatálybalépése előtt 15 nappal a honlapján teszi közzé.
+(3) Az (1) bekezdés a), c) és d) pontjai szerinti díjak országosan egységes mértékűek, azokat és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. Az (1) bekezdés b) pontja szerinti díj mértékét és alkalmazásának szabályait a Hivatal elnöke rendeletben, a földgáz rendszerhasználat árszabályozásának kereteiről szóló jogszabályban meghatározott módon, földgázelosztónként állapítja meg. A Hivatal elnöke rendeletének a kihirdetése és a hatálybalépése között legalább 15 napnak el kell telnie.
 
 (4) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető egyéb szolgáltatások díjainak meg kell felelniük az átláthatóság, a nyilvánosság, és az arányosság elvének, valamint azokat objektív módon, megkülönböztetés nélkül kell alkalmazni. Nem sérti a megkülönböztetés-mentesség elvét az, ha az egyetemes szolgáltatásra jogosult felhasználók az önálló érdekérvényesítő képesség terén fennálló, a többi felhasználóhoz képest hátrányosabb helyzetének ellensúlyozása érdekében a rendszerhasználati díjak az egyetemes szolgáltatásra jogosult felhasználók részére differenciáltan kerülnek meghatározásra.
 
@@ -1303,7 +1303,7 @@ foglalt árat vagy díjat köteles megfizetni.
 
 (6)
 
-105/A. § (1) A rendszerüzemeltetők a Hivatal határozatában meghatározott rendszerhasználati díjakat és az áralkalmazási feltételeket kötelesek – a (4) bekezdésben foglaltak figyelembevételével – alkalmazni és honlapjukon közzétenni.
+105/A. § (1) A rendszerüzemeltetők a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat, csatlakozási díjakat és áralkalmazási feltételeket kötelesek alkalmazni és honlapjukon közzétenni.
 
 (2) A Hivatal a 105. § (2) bekezdésében meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
@@ -1368,7 +1368,7 @@ körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez ka
 
 (6)
 
-108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit és alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjakat és alkalmazásának egyedi szabályait a Hivatal határozatban állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
+108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjakat és alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
 
 (2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozás érdekében végrehajtott hálózati beruházásra fordított összeg nagyságát.
 
@@ -1376,7 +1376,7 @@ körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez ka
 
 (3a) A rendszerüzemeltető köteles a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
 
-(4) A Hivatal az (1) bekezdésben meghatározott jogszabály előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
+(4) A Hivatal az (1) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelet kihirdetését. A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
 
 - a) elfogadása esetén a miniszter a csatlakozási díjak meghatározásának szempontjait, elemeit, alkalmazásának általános szabályait az előterjesztés elfogadását követő 30 napon belül rendelettel hirdeti ki,
 - b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
@@ -1903,11 +1903,11 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (4) A szállítási rendszerüzemeltető, a földgáztermelő és a földgázkereskedő köteles a Hivatal és az Európai Bizottság rendelkezésére bocsátani a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelésével kapcsolatban kért információkat.
 
-### XVI. Fejezet — A MAGYAR ENERGIA HIVATAL JOGÁLLÁSA, FELADAT- ÉS HATÁSKÖRE
+#### 125/B. §
 
-### Magyar Energia Hivatal feladata és hatásköre
+### XVI. Fejezet — A HIVATAL
 
-125/B. § A Hivatal önálló feladat- és hatáskörrel rendelkező nemzeti szabályozó hatóságként kijelölt kormányhivatal.
+### A Hivatal feladata és hatásköre
 
 126. § A Hivatal feladata különösen:
 
@@ -1935,7 +1935,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a 715/2009/EK rendeletben, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását, különösen a tevékenységek szétválasztásának teljesítésére és ennek keretében a keresztfinanszírozás-mentes működés érvényesülésére vonatkozó szabályokat, továbbá a 128. § szerinti eljárásban ellenőrzi a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelését;
 - f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat;
 - g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
-- gy) meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
+- gy) rendeletében meghatározza a rendszerhasználati és a csatlakozási díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint az egyes díjak alkalmazásának feltételeit;
 - h) javaslatot tesz a rendszerüzemeltető és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira;
 - i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira, az egyetemes szolgáltatás keretében értékesített mennyiségekre, a hatósági árral érintett földgázforrás felhasználására vonatkozó előírások teljesülését, és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, ellenőrzi továbbá az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátására termelt hazai földgáz árképzésére vonatkozó szabályok betartását, valamint előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 - í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
@@ -2024,13 +2024,15 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az Ügynökség vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül – nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését megszünteti, és módosítja határozatát, azzal, hogy a Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállamának földgázellátásának biztonságát. Ez utóbbi esetben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
 
-129. § (1) A Hivatal jogállására, gazdálkodására és más szervezetekkel való kapcsolatára az e törvényben meghatározottakon kívül a VET. rendelkezései irányadók azzal, hogy az engedélyesek alatt az e törvény engedélyesei értendők.
+129. § (1) A Hivatal más szervezetekkel való kapcsolatára az e törvényben meghatározottakon kívül a VET. rendelkezései irányadók azzal, hogy az engedélyesek alatt az e törvény engedélyesei értendők.
+
+(1a) A Hivatal részére felügyeleti tevékenységéért az engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
 (2) A Hivatal eljárására a VET.-nek a Hivatal eljárására vonatkozó általános szabályait kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő
 
 - a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n) pontjai szerinti eljárásokban két hónap,
 - b) a 82. § (5) bekezdés szerinti eljárásban hat hónap,
-- c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban, valamint a 105. § (3) bekezdése és a 108. § (1) bekezdése szerinti eljárásban 30 nap,
+- c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban 30 nap,
 - d) a 128. § (1) bekezdés a)–c) és e) pontja szerinti eljárásokban négy hónap,
 - e) a 128/A. § (5) bekezdése szerinti eljárásban két hónap.
 
@@ -2057,7 +2059,7 @@ az Európai Unió szerveivel
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- 1. a Magyar Energia Hivatal által kiszabható bírság felső határát,
+- 1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság felső határát,
 - 2. a panaszok engedélyesek általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 - 3. az Üzemi és Kereskedelmi Szabályzat tartalmi követelményeit,
 - 4. a szabályzati bizottság létrehozására és működtetésére vonatkozó szabályokat,
@@ -2125,12 +2127,13 @@ az Európai Unió szerveivel
 - 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 - 8. az egyetemes szolgáltatás felmondása, valamint a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályait és az áralakítás elveit,
 - 9. a 74. § (2) bekezdése és a 105. § (12) bekezdése szerinti felmentésre, valamint a tárgyalásos tárolói hozzáférésre vonatkozó részletes szabályokat,
-- 10. az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére, a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékét, valamint a díjak fizetésére vonatkozó részletes szabályokat,
+- 10.
 - 11. az e törvény 138/A. § (1) bekezdésében meghatározott bevételi hiány mértékét, a bevételi hiány fedezetét biztosító pénzeszköz mértékét, megfizetésének, kezelésének és felhasználásának részletes szabályait, valamint a kifizetések rendjét,
 - 12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 - 12.
 - 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
-- 14. a rendszerüzemeltetők által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
+- 14. a rendszerüzemeltetők által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével,
+- 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -2142,6 +2145,11 @@ az Európai Unió szerveivel
 - 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők engedélyének kiadásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
+
+133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
+
+- 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
+- 2. a csatlakozási díjakat és alkalmazásuk szabályait.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

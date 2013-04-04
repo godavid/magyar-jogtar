@@ -10,9 +10,9 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2013. évi
 
-- a) bevételi főösszegét 15 313 816,1 millió forintban,
-- b) kiadási főösszegét 16 155 650,9 millió forintban,
-- c) hiányát 841 834,8 millió forintban
+- a) bevételi főösszegét 15 323 816,1 millió forintban,
+- b) kiadási főösszegét 16 205 150,9 millió forintban,
+- c) hiányát 881 334,8 millió forintban
 
 állapítja meg.
 
@@ -45,7 +45,8 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 - a) a központi államigazgatási szerveknél, továbbá azok területi és helyi szerveinél a diplomás pályakezdő fiatalok munkatapasztalat szerzése támogatására,
 - b) a prémiumévek programról és a különleges foglalkoztatási állományról szóló törvény szerinti munkáltatói kifizetésekre,
-- c) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére.
+- c) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére,
+- d) a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi juttatások és munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéseire.
 
 (3) A Kormány a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 3. Különféle kifizetések alcím előirányzatából a IX. Helyi önkormányzatok támogatásai fejezet, 2. Helyi önkormányzatok által felhasználható központosított előirányzatok cím, – 3. mellékletben szereplő – 6. Helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímre átcsoportosíthat, ha a helyi önkormányzati létszámleépítések miatt e jogcímen rendelkezésre álló előirányzat már felhasználásra került.
 
@@ -118,7 +119,7 @@ képezi.
 
 10. § (1) A Magyar Bányászati és Földtani Hivatal 607,2 millió forintot, a Nemzeti Közlekedési Hatóság 21 118,0 millió forintot, az Országos Atomenergia Hivatal 368,8 millió forintot, a Közlekedésfejlesztési Koordinációs Központ 185,3 millió forintot köteles 2013. évben befizetni a bevételeiből – az államháztartásért felelős miniszter által jóváhagyott ütemezési terv szerint – a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
 
-(2) A Magyar Energia Hivatal 1805,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(2) A Magyar Energetikai és Közmű-szabályozási Hivatal 1805,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala 460,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
@@ -159,6 +160,8 @@ képezi.
 (6) Az Elektronikus Információszolgáltatás Nemzeti Program működtetésével kapcsolatos feladatokra a feladatot ellátó MTA Könyvtára részére a LXIX. Kutatási és Technológiai Innovációs Alap fejezet, 1. Hazai innováció támogatása cím terhére 2013. évben 1426,0 millió forint támogatást kell biztosítani.
 
 (7) A Kutatási és Technológiai Innovációs Alap a 2013. évben a központi költségvetésbe összesen 10 000,0 millió forintot ad át a kutatás-fejlesztési tevékenység Kutatási és Technológiai Innovációs Alapon kívüli finanszírozásához. A befizetési kötelezettséget negyedévente, az éves előirányzat 1/4 részével kell teljesíteni.
+
+(8) A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás fel nem használt részét a Nemzeti Foglalkoztatási Alap 2013. október 31-ig befizeti a központi költségvetésbe.
 
 #### 8. A Nyugdíjbiztosítási Alap költségvetése
 
@@ -313,12 +316,14 @@ történik.
 
 #### 12. A helyi önkormányzatok, a települési és területi nemzetiségi önkormányzatok központi alrendszerből származó forrásai
 
-29. § (1) Az Országgyűlés a helyi önkormányzatok, valamint a települési és területi nemzetiségi önkormányzatok működéséhez és ágazati feladatainak ellátásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 117. § (1) bekezdésében meghatározottak szerint nyújtandó támogatások jogcímeit és előirányzatait a 2. melléklet szerint állapítja meg.
+29. § (1) Az Országgyűlés a helyi önkormányzatok, valamint a települési és területi nemzetiségi önkormányzatok működéséhez és ágazati feladatainak ellátásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 117. § (1) bekezdésében meghatározottak szerint nyújtandó támogatások jogcímeit és előirányzatait a 2. melléklet szerint állapítja meg.
 
-(2) Az Országgyűlés további, felhasználási kötöttséggel járó állami támogatást állapít meg
+(2) Az Országgyűlés további költségvetési támogatást állapít meg
 
 - a) központosított előirányzatként a 3. mellékletben meghatározott, a helyi önkormányzatok és társulásaik, valamint a települési és területi nemzetiségi önkormányzatok által ellátandó feladatokra,
 - b) vis maior támogatásra.
+
+(2a) Az Országgyűlés által a (2) bekezdés szerint megállapított költségvetési támogatásból a 3. melléklet 1–14., 16. és 18. pontja szerinti támogatás és a vis maior támogatás felhasználási kötöttség mellett nyújtható.
 
 (3) Az Országgyűlés a helyi önkormányzatok kiegészítő támogatását szolgáló előirányzatokat a 4. melléklet szerint állapítja meg.
 
@@ -328,7 +333,10 @@ történik.
 
 #### 13. A települési önkormányzatokat megillető átengedett bevételek
 
-32. § (1) A gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a települési önkormányzat által beszedett adó 40%-a a települési önkormányzatot illeti meg.
+32. § (1) A települési önkormányzatot illeti meg
+
+- a) a gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a települési önkormányzat által beszedett adó 40%-a, és
+- b) a gépjárműadóhoz kapcsolódó bírságból, pótlékból és végrehajtási költségből származó bevétel 100%-a.
 
 (2) A termőföld bérbeadásából származó jövedelem utáni – a települési önkormányzat által beszedett – személyi jövedelemadó 100%-a a földterület fekvése szerinti települési önkormányzatot illeti meg.
 
@@ -357,9 +365,9 @@ történik.
 
 (4) Az államháztartásról szóló jogszabályokban foglaltaktól eltérően a 2. melléklet II. 1. és III. 4. pontja szerinti támogatások – 2. mellékletre vonatkozó kiegészítő szabályok szerinti – évközi módosítása során kamatfizetési kötelezettség csak abban az esetben áll fenn, ha az önkormányzat által az eredetileg szolgáltatott adatokból kalkulált támogatás legalább 10%-kal meghaladja az őt ténylegesen megillető összeget.
 
-(5) Az államháztartásról szóló jogszabályokban foglaltak szerint meghatározott, az állami támogatás jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet II., III. 3, III. 4 pontja szerinti előirányzatok együttes összegét kell figyelembe venni, a (4) bekezdésben foglaltakra tekintettel.
+(5) Az államháztartásról szóló jogszabályokban foglaltak szerint meghatározott, a helyi önkormányzatok, nemzetiségi önkormányzatok általános működésének és ágazati feladatai feladatmutatók szerint járó támogatásai jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet II., III. 3, III. 4 pontja szerinti előirányzatok együttes összegét kell figyelembe venni, a (4) bekezdésben foglaltakra tekintettel.
 
-(6) Ha az állam a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. §-ában foglaltaknak megfelelően hozzájárulás megfizetésére kötelezi a települési önkormányzatot, annak befizetését az önkormányzat havonta, minden hónap 10. napjáig köteles teljesíteni. A hozzájárulás összege a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcím előirányzatának bevételét növeli.
+(6) Ha az állam a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. §-ában foglaltaknak megfelelően hozzájárulás megfizetésére kötelezi a települési önkormányzatot, annak befizetését az önkormányzat havonta, minden hónap 5. napjáig köteles teljesíteni. A hozzájárulás összege a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcím előirányzatának bevételét növeli.
 
 (7) A helyi önkormányzatoknak a 25 év alatti valamint az 55 év feletti, továbbá a képzettséget nem igénylő (egyszerű) munkakörben foglalkoztatott munkavállalók, valamint a gyesről visszatérő és tartós munkanélküliség után elhelyezkedő munkavállalók foglalkoztatásához kapcsolódó 2013. évi szociális hozzájárulási adó változásból eredő kiadási megtakarításait a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. Költségvetési befizetések cím 2. Munkahelyvédelmi akciótervvel összefüggő befizetések alcím 2. Helyi önkormányzati költségvetési szervek jogcímcsoport előirányzata javára kell befizetni és elszámolni.
 
@@ -368,7 +376,7 @@ történik.
 - a) levonja az önkormányzatot terhelő elmaradt összeget, amennyiben a (6) bekezdésben előírt befizetési kötelezettség tekintetében az elmaradt összeg két havi hozzájárulási kötelezettség összegével megegyezik, vagy azt meghaladja,
 - b) havonta levonja a (7) bekezdés szerinti esetben az előző havi bérszámfejtés alapján az önkormányzatnál jelentkező kiadási megtakarítás összegét.
 
-(9) Ha a helyi önkormányzatot a (2) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (8) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, vagy az önkormányzatnak 2013. december 15-én bármilyen elmaradása van a (6) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára – felhatalmazó nyilatkozatra tekintet nélkül – azonnali beszedési megbízást nyújt be.
+(9) Ha a helyi önkormányzatot a (2) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (8) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a kincstár az Áht. 83. § (3) bekezdése alapján jár el. Ha az önkormányzatnak 2013. december 15-én bármilyen elmaradása van a (6) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára azonnali beszedési megbízást nyújt be.
 
 ### V. Fejezet — A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA
 
@@ -376,8 +384,10 @@ történik.
 
 35. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos, területi, települési nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a köznevelési feladatot alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami köznevelési intézmény fenntartója) részére normatív és egyéb hozzájárulást állapít meg a következők szerint:
 
-- a) a nem állami köznevelési intézmény fenntartóját 2013. augusztus 31-éig megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdésének szabályait a b)–s) pontok figyelembevételével kell alkalmazni,
-- b) a 2012. évi költségvetési törvénynek az a) pont szerinti rendelkezései alkalmazása során a 2012. évi költségvetési törvény 2012. december 31-én hatályos 3. és 8. mellékletében meghatározott normatív hozzájárulás időarányos részét kell figyelembe venni, a 2012. évi költségvetési törvénynek a 2012. december 31-én hatályos 5. mellékletében meghatározott támogatást pedig az oktatásért felelős miniszter rendeletében meghatározottak szerint kell biztosítani,
+- a) a nem állami köznevelési intézmény fenntartóját 2013. augusztus 31-éig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
+  - aa) az óvodai, iskolai, kollégiumi étkeztetés támogatására a nem állami köznevelési intézmény fenntartóját az általa étkeztetett gyermekek, tanulók után a támogatás nem a 2012. évi költségvetési törvény szerint, hanem a 2. melléklet II. pont 3. b) alpontban meghatározott támogatással azonos összegben és azonos feltételek mellett illeti meg,
+  - ab) a települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat támogatást a 2. melléklet II. pontja szerinti feladatokhoz az 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetből igényelhet, e feladatok támogatása esetében a nem állami köznevelési intézmény fenntartójára vonatkozó szabályokat nem lehet alkalmazni,
+- b) a 2012. évi költségvetési törvénynek az a) pont szerinti rendelkezései alkalmazása során a 2012. évi költségvetési törvény 2012. december 31-én hatályos 3. és 8. mellékletében meghatározott normatív hozzájárulás időarányos részét kell figyelembe venni, a 2012. évi költségvetési törvénynek a 2012. december 31-én hatályos 5. melléklet 5. pontjában, 11. pontjának a)–c) alpontjában, továbbá a 11. d) pontjának da)–de) és dg) alpontjában meghatározott támogatásokat pedig az oktatásért felelős miniszter rendeletében meghatározottak szerint kell biztosítani,
 - c) a közoktatási feladat alatt köznevelési, a közoktatási intézmény alatt köznevelési intézményt kell érteni,
 - d) a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Közokt. tv.) 121. § (1) bekezdés 29. pontja alatt a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 4. § 25. pontját kell érteni,
 - e) a Közokt. tv. 28. § (4) bekezdésére történő hivatkozás alatt a nyelvi előkészítő évfolyamot kell érteni,
@@ -397,11 +407,11 @@ történik.
 - s) a Közokt. tv. és végrehajtási rendeletei alatt az Nkt.-t és végrehajtási rendeleteit is érteni kell,
 - t) a nem állami köznevelési intézmény finanszírozására 2013. szeptember 1-jétől a (2) bekezdése szerinti törvényben meghatározott szabályokat kell alkalmazni.
 
-(2) A Kormány a nem állami köznevelési intézmény 2013. szeptember 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. március 31-éig dolgozza ki és nyújtja be az Országgyűlés részére.
+(2) A Kormány a nem állami köznevelési intézmény 2013. szeptember 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. június 30-áig dolgozza ki és nyújtja be az Országgyűlés részére.
 
 (3) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
 
-- a) a támogatás a nem állami szociális fenntartót a települési önkormányzatok 2. melléklet III. pont 3. b)–l) alpontjában meghatározott támogatásaival azonos jogcímeken, összegben és feltételek mellett illeti meg,
+- a) a támogatás a nem állami szociális fenntartót a települési önkormányzatok 2. melléklet II. pont 3. a) alpontja és a III. pont 3. b)–l) alpontjában meghatározott támogatásaival azonos jogcímeken, összegben és feltételek mellett illeti meg,
 - b) – a hajléktalanok átmeneti intézményei kivételével – a nem állami szociális fenntartó, ha a Szoctv. 57. § (2) bekezdése és a Gyvt. 15. § (3) bekezdése a), illetve b) pontja szerinti feladatot lát el, a 8. melléklet szerinti támogatásra jogosult,
 - c) a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó gazdasági társaságot – ide nem értve a nonprofit gazdasági társaságot – és egyéni vállalkozót az a) és b) pont szerinti támogatás 30%-ának megfelelő támogatás illeti meg.
 
@@ -415,7 +425,7 @@ történik.
 
 (8) A nem állami szociális fenntartó – ha 2012. december 31-én működési engedéllyel rendelkezett és normatív állami hozzájárulásra volt jogosult – 2013. január és február hónapra a Kormány rendeletében meghatározott eljárási szabályok szerinti elszámolás mellett a 2012. évi december hónapra tekintettel folyósított normatív állami hozzájárulással azonos összegű támogatásra jogosult. Az egyház és a belső egyházi jogi személy e támogatás után járó kiegészítő támogatására a (4) és (6) bekezdést alkalmazni kell.
 
-(9) Az önkormányzati tűzoltóság a fenntartásához és működéséhez az átvállalt feladattal arányos állami támogatást a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 41. § (5) bekezdése és 34. § (1) és (3) bekezdése alapján a XIV. Belügyminisztérium fejezet, 20. cím, 10. Önkormányzati tűzoltóságok normatív támogatása alcím előirányzatából a következő feltételek és normatívák szerint veheti igénybe:
+(9) Az önkormányzati tűzoltóság a fenntartásához és működéséhez az átvállalt feladattal arányos költségvetési támogatást a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 41. § (5) bekezdése és 34. § (1) és (3) bekezdése alapján a XIV. Belügyminisztérium fejezet, 20. cím, 10. Önkormányzati tűzoltóságok normatív támogatása alcím előirányzatából a következő feltételek és normatívák szerint veheti igénybe:
 
 - a) valamennyi önkormányzati tűzoltóság a készenléti szolgálat működéséhez azonos összegű, 22,0 millió forint alaptámogatásra jogosult,
 - b) az a) pont szerint felosztott támogatás után megmaradó előirányzatból minden önkormányzati tűzoltóság az általa ellátott vonulási terület veszélyeztetettsége mértékét kifejező, jogszabályban rögzített elvek alapján meghatározott pontszámok arányában részesül.
@@ -445,6 +455,8 @@ történik.
 (3) Az MFB Zrt. által forrásszerzés céljából felvett – euróban meghatározott – éven túli lejáratú hitelekhez és kölcsönökhöz, valamint kibocsátott kötvényekhez kapcsolódóan a Kormány határozata alapján vállalható árfolyam fedezeti megállapodás által fedezett források forintban számított együttes állománya a 2013. év folyamán legfeljebb 1 800 000,0 millió forint lehet.
 
 (4) Az (1)–(3) bekezdésben meghatározott kereteket a tényleges állományok az év egyetlen napján sem haladhatják meg.
+
+(5) A (2) bekezdés szerinti kötelezettségvállalásokhoz kapcsolódó állami kezesség után az állam javára felszámítandó kezességvállalási díj mértékét a Kormány határozatban állapítja meg.
 
 41. § (1) A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 7. § (1) bekezdés a) pontja szerinti felső határ 1 200 000,0 millió forint.
 
@@ -531,17 +543,18 @@ történik.
 
 47. § (1) Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga
 
-- a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím,
+- a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím
 - b) a XI. Miniszterelnökség fejezeten belül a miniszterelnökséget vezető államtitkárnak – mint a fejezetet irányító szerv vezetőjének – a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím előirányzataira.
 
 (2) Az (1) bekezdésben megjelölt jogokat és kötelezettségeket
 
 - a) az I. Országgyűlés fejezet,
-  - aa) 5. Közbeszerzési Hatóság cím felett a Közbeszerzési Hatóság elnöke,
-  - ab) a 20. Pénzügyi Szervezetek Állami Felügyelete cím felett a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
-  - ac) a 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím felett a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-  - ad) a 22. Egyenlő Bánásmód Hatóság cím felett az Egyenlő Bánásmód Hatóság elnöke,
-- b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím esetében a Kormányzati Ellenőrzési Hivatal elnöke
+  - aa) 5. Közbeszerzési Hatóság cím tekintetében a Közbeszerzési Hatóság elnöke,
+  - ab) 20. Pénzügyi Szervezetek Állami Felügyelete cím tekintetében a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
+  - ac) 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
+  - ad) 22. Egyenlő Bánásmód Hatóság cím tekintetében az Egyenlő Bánásmód Hatóság elnöke,
+  - ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
+- b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím tekintetében a Kormányzati Ellenőrzési Hivatal elnöke
 
 gyakorolja.
 
@@ -634,9 +647,7 @@ gyakorolja.
 
 61. § (1) Az Éhvt. 13. §-a szerinti felügyeleti díj mértéke a projekt jogszabály alapján jóváhagyott Tervdokumentumában létrehozni tervezett minden egyes kibocsátáscsökkentési egység után 38 forint.
 
-(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 147. § (1) bekezdése szerinti szénipari szerkezetátalakítási támogatás mértéke 0,19 forint/kWh.
-
-(3) A villamos energiáról szóló 2007. évi LXXXVI. törvény 147. § (1) bekezdése szerinti jogszabályban meghatározott személyi kör részére a villamos energiaiparban fennálló vagy eltöltött munkaviszonnyal összefüggésben jogszabálynak megfelelően biztosított kedvezményes árú villamosenergiaellátás támogatása 0,07 forint/kWh.
+(2)–(3)
 
 62. § A XII. Vidékfejlesztési Minisztérium fejezet, 20. cím, 5. alcím, 7. Fejlesztési típusú támogatások jogcímcsoport kiadási előirányzata terhére kell teljesíteni a korábbi évekről áthúzódó agrárberuházások fizetési kötelezettségét, a XII. Vidékfejlesztési Minisztérium fejezet, 20. cím, 5. alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoport kiadási előirányzatáról pedig a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és 2013. évet terhelő áthúzódó fizetési kötelezettségeit. Ugyancsak a 20. cím, 5. alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoport kiadási előirányzatról kell teljesíteni a kedvezőtlen adottságú térségekben gazdálkodók adósságrendezési programjának 2013. évet terhelő kiadásait is.
 
@@ -703,12 +714,12 @@ gyakorolja.
 - a) Budapesten és Pest megyében I. kategóriájú játékkaszinó esetében 631,2 millió forint, II. kategóriájú játékkaszinó esetében 368,2 millió forint,
 - b) az a) pontban foglalt kivétellel I. kategóriájú játékkaszinó esetében 526 millió forint, II. kategóriájú játékkaszinó esetében 52,6 millió forint.
 
-72. § (1) Az állam az 5000 fő lakosságszámot meghaladó település települési önkormányzatának – ideértve a fővárosi önkormányzatot és a kerületi önkormányzatokat is – (a továbbiakban: átvállalással érintett önkormányzat) a (2) és (3) bekezdés szerinti adósságelemei nélkül számított 2012. december 31-i, az átvállalás időpontjában fennálló adósságállománya és ezen adósságnak az átvállalás időpontjáig számított járulékai összegét – a 74. § (3) bekezdésében meghatározott kivétellel – részben átvállalja.
+72. § (1) Az állam az 5000 fő lakosságszámot meghaladó település települési önkormányzatának – ideértve a fővárosi önkormányzatot és a kerületi önkormányzatokat is – (a továbbiakban: átvállalással érintett önkormányzat) a (2) és (3) bekezdés szerinti adósságelemei nélkül számított 2012. december 31-én fennálló adósságállománya és ezen adósságnak az átvállalást követően esedékessé váló járulékai összegéből – a 74. § (3) bekezdésében meghatározott kivétellel – a 74. § (5) bekezdés szerinti megállapodás alapján számított összeget átvállalja.
 
 (2) Az állam teljes mértékben átvállalja az 5000 fő lakosságszámot meghaladó település
 
-- a) a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: fekvőbeteg intézmények átvételét szabályozó törvény) 1. mellékletében meghatározott egészségügyi intézmény tulajdonos és fenntartó települési önkormányzatának és a fekvőbeteg intézmények átvételét szabályozó törvény 2. mellékletében meghatározott egészségügyi intézmények által használt vagyon tulajdonos települési önkormányzatának azon működtetéshez és fejlesztéshez kötődő 2012. december 31-i, az átvállalás időpontjában fennálló adósságának és annak az átvállalás időpontjáig számított járulékainak összegét, amely kifejezetten és igazolhatóan a fekvőbeteg intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonhoz kapcsolódóan keletkezett, és
-- b) az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény (a továbbiakban: szociális és gyermekvédelmi intézmények átvételét szabályozó törvény) 2. § (1) bekezdése alapján átvett intézmény tulajdonos és fenntartó települési önkormányzatának azon működtetéshez és fejlesztéshez kötődő 2012. december 31-i, az átvállalás időpontjában fennálló adósságának és annak az átvállalás időpontjáig számított járulékainak összegét, amely kifejezetten és igazolhatóan a szociális és gyermekvédelmi intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonhoz kapcsolódóan keletkezett.
+- a) a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: fekvőbeteg intézmények átvételét szabályozó törvény) 1. mellékletében meghatározott egészségügyi intézmény tulajdonos és fenntartó települési önkormányzatának és a fekvőbeteg intézmények átvételét szabályozó törvény 2. mellékletében meghatározott egészségügyi intézmények által használt vagyon tulajdonos települési önkormányzatának azon működtetéshez és fejlesztéshez kötődő 2012. december 31-én fennálló adósságállománya és ezen adósságnak az átvállalást követően esedékessé váló járulékai összegének megfelelő összeget, amely kifejezetten és igazolhatóan a fekvőbeteg intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonhoz kapcsolódóan keletkezett, és
+- b) az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény (a továbbiakban: szociális és gyermekvédelmi intézmények átvételét szabályozó törvény) 2. § (1) bekezdése alapján átvett intézmény tulajdonos és fenntartó települési önkormányzatának azon működtetéshez és fejlesztéshez kötődő 2012. december 31-én fennálló adósságállománya és ezen adósságnak az átvállalást követően esedékessé váló járulékai összegének megfelelő összeget, amely kifejezetten és igazolhatóan a szociális és gyermekvédelmi intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonhoz kapcsolódóan keletkezett.
 
 (3) Az (1) és (2) bekezdés szerinti átvállalás nem terjed ki
 
@@ -717,9 +728,13 @@ gyakorolja.
 
 (4) Az átvállalással érintett (1) bekezdés szerinti adósság a Gst. 3. § (1) bekezdés a)–c) pontjában, a (2) bekezdés szerinti adósság a Gst. 3. § (1) bekezdés a)–b) pontjában foglaltaknak megfelelő – kölcsön- vagy hiteljogviszonyon, hitelviszonyt megtestesítő értékpapíron, továbbá az (1) bekezdés alapján átvállalt adósság esetében váltókibocsátáson alapuló – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény (a továbbiakban: hitelező) felé fennálló tartozásokat foglalja magában.
 
-(5) Az átvállalással érintett önkormányzat az átvállalással érintett folyószámlahitel és váltó állományát az (1) és (2) bekezdés szerinti átvállalás érdekében a 74. § (6) bekezdése szerinti tételes átvállalásról szóló megállapodás előtt legalább 15 nappal – a kölcsön- vagy hiteljogviszonnyal azonos feltételekkel – működési vagy fejlesztési hitellé alakítja át.
+(5) Az átvállalással érintett önkormányzat az átvállalással érintett folyószámlahitel és váltó állományát az (1) és (2) bekezdés szerinti átvállalás érdekében – a (8) bekezdés szerinti költségvetési támogatással érintett ügyletek kivételével – a 74. § (6) bekezdése szerinti tételes átvállalásról szóló megállapodás előtt legalább 15 nappal – a kölcsön- vagy hiteljogviszonnyal azonos feltétekkel – működési vagy fejlesztési hitellé alakítja át.
 
 (6) Az átvállalással érintett adósság részét képező, hitelviszonyt megtestesítő értékpapírokat az átvállalással érintett önkormányzatok az átvállalást megelőzően – az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel – kölcsönjogviszonnyá alakíthatják át. Ennek hiányában az állam az értékpapír lejárat előtti visszaváltásából eredő fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam az értékpapír-tulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével is kiválthatja.
+
+(7) Ha az átvállalással érintett önkormányzatnak az átvállalás időpontjában fennálló, (1) és (2) bekezdés szerinti átvállalással érintett adósságállománya nem éri el az (1) és (2) bekezdés szerint az állam által átvállalandó adósság összegét, úgy az állam az önkormányzat átvállaláskor fennálló adósságállománya erejéig hajtja végre az adósságátvállalást.
+
+(8) A 72. § (1)–(2) és (4) bekezdése szerinti adósság egyes elemeinek átvállalását az állam úgy is teljesítheti, hogy 250 millió forintnál kisebb összegű adósságelemből átvállalandó adósságrész visszafizetéséhez az állam egyszeri, vissza nem térítendő költségvetési támogatást nyújt. A törlesztési célú támogatásnak a hitelezők számlájára történő közvetlen folyósításáról az államháztartásért felelős miniszter legkésőbb 2013. június 28-áig gondoskodik.
 
 73. § (1) A 72. § (1) bekezdése és a 74. § (3) bekezdése szerinti adósság átvállalásának mértékét az átvállalással érintett önkormányzat 2012. június 30-i egy főre jutó iparűzési adóerőképességének (a továbbiakban: adóerőképesség) és az átvállalással érintett önkormányzat településkategóriája adóerőképessége korrigált átlagának egymáshoz viszonyított aránya alapján kell meghatározni. A számítás során figyelembe vett településkategóriák a következők:
 
@@ -749,7 +764,7 @@ gyakorolja.
 
 (2) A kincstár ellenőrzi az (1) bekezdés szerinti nyilatkozatok hiánytalan benyújtását. A kincstár az (1) bekezdés alapján rendelkezésére bocsátott adatokat 2013. január 18-áig településenkénti, hitelezőnkénti és a 72. § (1) és (2) bekezdésének megfelelő kategória szerinti bontásban továbbítja az államháztartásért felelős miniszternek és a helyi önkormányzatokért felelős miniszternek. Az államháztartásért felelős miniszter – a (3) bekezdés szerinti esetek kivételével – gondoskodik a 72. § (1) és (2) bekezdése szerinti adósságelemek 2013. június 28-áig történő átvállalásáról.
 
-(3) Azon átvállalással érintett önkormányzat esetében, amellyel szemben 2012. december 31-én a helyi önkormányzatok adósságrendezési eljárásáról szóló törvény alapján adósságrendezési eljárás van folyamatban, az állam az átvállalást az adósságrendezési eljárás lezárulta időpontjában fennálló és esedékessé váló kölcsön- vagy hitelviszonyt megtestesítő adósságból és váltókibocsátásból eredő fizetési kötelezettséget alapul véve hajtja végre. Ebben az esetben az államháztartásért felelős miniszter az általa külön meghatározott adatszolgáltatás alapján, az adósságrendezési eljárás lezárultát követő 60 napon belül gondoskodik az átvállalásról.
+(3) Azon átvállalással érintett önkormányzat esetében, amellyel szemben 2012. december 31-én a helyi önkormányzatok adósságrendezési eljárásáról szóló törvény alapján adósságrendezési eljárás van folyamatban vagy amellyel szemben 2012. december 31-e és a (6) bekezdés szerinti megállapodás megkötésének időpontja között adósságrendezési eljárás indul, az állam az átvállalást az adósságrendezési eljárás lezárulta időpontjában a hitelezők felé fennálló és esedékessé váló kölcsön- vagy hitelviszonyt megtestesítő adósságból és váltókibocsátásból eredő fizetési kötelezettséget alapul véve hajtja végre. Ebben az esetben az államháztartásért felelős miniszter az általa külön meghatározott adatszolgáltatás alapján, az adósságrendezési eljárás lezárultát követő 60 napon belül gondoskodik az átvállalásról. Ha az adósságrendezési eljárás 2013. május 1-je előtt lezárul, az adósságátvállalásra 2013. június 28-áig kerül sor.
 
 (4) A 72. § (1) és (2) bekezdése szerinti adósságátvállalással összefüggő eljárásban az állam képviseletében az államháztartásért felelős miniszter – az (5) bekezdésben meghatározott kivétellel – teljes jogkörrel jár el.
 
@@ -759,9 +774,11 @@ gyakorolja.
 
 (7) A kincstár a 2013. év végéig felülvizsgálhatja, hogy az (1) bekezdés szerinti adatszolgáltatásban a 72. § (1) és (2) bekezdése szerinti kategóriába helyesen kerültek-e az adósságelemek az átvállalással érintett önkormányzat által besorolásra. Ha a kincstár megállapítja, hogy oda nem tartozó adósságelem került a 72. § (2) bekezdése szerinti kategóriába, határozatban dönt az adósságelem átsorolásáról, és döntéséről tájékoztatja az átvállalással érintett önkormányzatot és az államháztartásért felelős minisztert. Az átvállalással érintett önkormányzatnak a téves besorolás miatt jogtalanul igénybevett állami adósságátvállaláshoz kötődő adósság és járulék összegét a kincstári határozat kézhezvételét követő 90 napon belül a jegybanki alapkamat kétszeresének megfelelő mértékű kamattal növelten kell megfizetnie az állam részére. Az államháztartásért felelős miniszter az ÁKK Zrt. útján a téves besorolás miatt pótlólagosan járó, állami adósságátvállaláshoz kötődő adósság összegét a kincstári határozat kézhezvételét követő 90 napon belül átvállalja.
 
+74/A. § Az államháztartásért felelős miniszter a 2012. évi költségvetési törvény 76/C. §-a alapján törlesztési célú támogatással érintett, de a 2012. évben törlesztési célú támogatásban nem részesült települések települési önkormányzatai számára a törlesztési célú támogatás folyósításáról akként gondoskodik, hogy a törlesztés végrehajtásához szükséges összeg a hitelezők számláján álljon rendelkezésre.
+
 75. § (1) A 72–74. § alkalmazásában a lakosságszámot a személyiadat- és lakcímnyilvántartás 2012. január 1-jei lakóhelyadatai alapján kell figyelembe venni.
 
-(2) A 72. § (1) és (2) bekezdése szerinti adósság összegének megállapítása és a 74. § (1) bekezdése szerinti adatszolgáltatás során a devizában denominált ügyletek esetén a 2012. december 31-én érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
+(2) A 72. § (1) és (2) bekezdése szerinti adósság összegének megállapítása, a devizában denominált ügyletek 72. § (8) bekezdés szerinti forintértékének megállapítása és a 74. § (1) bekezdése szerinti adatszolgáltatás során a devizában denominált ügyletek esetén a 2012. december 31-én érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 76. § (1) Az állam átvállalja a fekvőbeteg intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonba tartozó gazdasági társaságok azon a fekvőbeteg intézmény működtetéshez és fejlesztéshez kötődő, 2012. december 31-i, az átvállalás időpontjában fennálló adósságának és annak az átvállalás időpontjáig számított járulékainak összegét, amelyhez a fekvőbeteg intézmények átvételét szabályozó törvény 1. mellékletében meghatározott egészségügyi intézmény tulajdonos és fenntartó települési önkormányzat és a fekvőbeteg intézmények átvételét szabályozó törvény 2. mellékletében meghatározott egészségügyi intézmények által használt vagyon tulajdonos települési önkormányzat által vállalt kezesség kapcsolódik.
 
@@ -778,7 +795,7 @@ gyakorolja.
 
 (6) Az államháztartásért felelős miniszter az (5) bekezdés szerinti adatszolgáltatás alapján gondoskodik az (1)–(4) bekezdés szerinti adósságelemek 2013. június 28-áig történő átvállalásáról akként, hogy az ÁKK Zrt. útján megállapodást köt a gazdasági társaságokkal és azok hitelezőivel.
 
-(7) A kincstár 2013. év végéig felülvizsgálhatja, hogy az (5) bekezdés szerinti adatszolgáltatás tartalma megfelel-e az (1)–(2) bekezdés előírásainak. Ha a kincstár megállapítja, hogy oda nem tartozó adósságelemet vállalt át az állam, határozatban dönt az átvállalt összeg államnak történő megtérítéséről. A fekvőbeteg intézmények átvételét szabályozó törvény 2. § (1) bekezdése szerinti kijelölt szervnek a téves besorolás miatt jogtalanul igénybevett állami adósságátvállaláshoz kötődő adósság és járulék összegét a kincstári határozat kézhezvételét követő 90 napon belül a jegybanki alapkamat kétszeresének megfelelő mértékű kamattal növelten kell megfizetnie az állam részére.
+(7)
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -803,7 +820,7 @@ gyakorolja.
 - i) a kultúráért felelős miniszter, hogy – az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter egyetértésével – a 2. melléklet IV. 1. pontja és a 3. melléklet 12. pontja szerinti támogatás,
 - j) a helyi önkormányzatokért felelős miniszter, hogy – az államháztartásért felelős miniszter egyetértésével –
   - ja) az Áht. 33. § (1) bekezdése alapján a IX. Helyi önkormányzatok támogatásai fejezetben létrehozott új előirányzatból nyújtott támogatás és
-  - jb) a 4. melléklet 1. III. pontja és 2–3. pontja szerinti támogatás,
+  - jb) a 4. melléklet 1. IV. pontja és 2–3. pontja szerinti támogatás,
 - k) az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy – az államháztartásért felelős miniszter, valamint a helyi önkormányzatokért felelős miniszter egyetértésével – a 3. melléklet 16. pontja szerinti támogatás,
 - l) az oktatásért felelős miniszter, hogy – az államháztartásért felelős miniszter egyetértésével – a 35. § (1) bekezdés b) pontjában meghatározott támogatás összegét,
 
@@ -821,11 +838,13 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 
 (3) Az államháztartásért felelős miniszter gondoskodik a helyi önkormányzatok, a többcélú kistérségi társulások foglalkoztatottainak a 2012. december havi, 2013. januárban esedékessé váló illetményének, munkabérének és egyéb járandóságának, valamint ezek közterheinek 2013 januárjában a Kincstári Egységes Számla terhére való megelőlegezéséről.
 
-(4) A megelőlegezett összeget 2013. február 28-áig kell annak a helyi önkormányzatnak, többcélú kistérségi társulásnak és 2013. január 1-jétől az állam vagy nem állami szerv által átvett közfeladat ellátójának, illetve az ilyen közfeladatot ellátó intézmény fenntartójának a kincstár felé megfizetnie, akire tekintettel az állam azt a (3) bekezdés alapján megelőlegezte.
+(4) A megelőlegezett összeget 2013. március 28-áig kell annak a helyi önkormányzatnak, többcélú kistérségi társulásnak és 2013. január 1-jétől az állam vagy nem állami szerv által átvett közfeladat ellátójának, illetve az ilyen közfeladatot ellátó intézmény fenntartójának a kincstár felé megfizetnie, akire tekintettel az állam azt a (3) bekezdés alapján megelőlegezte.
 
-(5) A helyi önkormányzat, többcélú kistérségi társulás a (4) bekezdés szerinti visszafizetési kötelezettségét a 2013. február havi nettó finanszírozás keretében történő levonással teljesíti. Ha a többcélú kistérségi társulás a 2013. évben támogatásban nem részesül, a (4) bekezdésben foglaltakat a többcélú kistérségi társulás székhelye szerinti települési önkormányzattal szemben kell alkalmazni.
+(5) A helyi önkormányzat, többcélú kistérségi társulás a (4) bekezdés szerinti visszafizetési kötelezettségét a 2013. március havi nettó finanszírozás keretében történő levonással teljesíti. Ha a többcélú kistérségi társulás a 2013. évben támogatásban nem részesül, a (4) bekezdésben foglaltakat a többcélú kistérségi társulás székhelye szerinti települési önkormányzattal szemben kell alkalmazni.
 
-(6) A visszafizetési kötelezettség elmulasztása esetén – ideértve azt is, ha a helyi önkormányzat, többcélú kistérségi társulás részére 2013. február hónapban járó támogatás nem nyújt fedezetet a levonás összegére – a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájával szemben azonnali beszedési megbízást nyújt be, felhatalmazó nyilatkozat hiányában is.
+(6) A visszafizetési kötelezettség elmulasztása esetén – ideértve azt is, ha a helyi önkormányzat, többcélú kistérségi társulás részére 2013. március hónapban járó támogatás nem nyújt fedezetet a levonás összegére – a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájával szemben azonnali beszedési megbízást nyújt be, felhatalmazó nyilatkozat hiányában is.
+
+80. § A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény módosításáról szóló 2013. évi XXXI. törvénnyel megállapított 35. § (1) bekezdés a) pont aa) alpontjában, illetve a 35. § (3) bekezdés a) pontjában foglalt rendelkezéseket 2013. január 1-jétől kell alkalmazni.
 
 ### 1. melléklet a 2012. évi CCIV. törvényhez
 
@@ -921,7 +940,20 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó | 33,0 |  |  |
 |  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások | 57,7 |  |  |
 |  |  |  |  |  |  | 22. cím összesen: |  |  |  |  |  | 213,0 | 3,0 | 210,0 |
-|  |  |  |  |  |  | I. fejezet összesen: |  |  |  |  |  | 119 014,5 | 11 130,0 | 35 516,3 |
+
+| 23 |  |  |  |  |  |  | Magyar Energetikai és Közmű-szabályozási Hivatal |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 1 |  |  |  | Működési költségvetés |  |  | 4 732,0 |  |
+|  |  |  |  |  | 1 |  |  |  | Személyi juttatások | 1 275,4 |  |  |
+|  |  |  |  |  | 2 |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó | 326,9 |  |  |
+|  |  |  |  |  | 3 |  |  |  | Dologi kiadások | 3 094,2 |  |  |
+|  |  |  |  |  | 5 |  |  |  | Egyéb működési célú kiadások | 15,0 |  |  |
+|  |  |  |  | 2 |  |  |  | Felhalmozási költségvetés |  |  | 2,5 |  |
+|  |  |  |  |  | 1 |  |  |  | Beruházások | 15,0 |  |  |
+|  |  |  |  |  | 2 |  |  |  | Felújítások | 2,0 |  |  |
+|  |  |  |  |  | 3 |  |  |  | Egyéb felhalmozási kiadások | 6,0 |  |  |
+| 23. cím összesen |  |  |  |  |  |  |  |  |  | 4 734,5 | 4 734,5 |  |
+|  |  |  |  |  |  | I. fejezet összesen: |  |  |  | 123 749,0 | 15 864,5 | 35 516,3 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1150,9 +1182,9 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 25 |  |  |  |  |  | Fejezeti általános tartalék |  |  |  |  | 161,8 |  | 161,8 |
 |  |  |  |  |  |  | 1- 20. cím összesen: |  |  |  |  |  | 243 600,7 | 53 032,0 | 190 568,7 |
 | 24 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |
-|  | 2 |  |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja |  |  |  |  | 89 528,7 |  |  |
+|  | 2 |  |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja |  |  |  |  | 79 528,7 |  |  |
 |  | 3 |  |  |  |  |  | Különféle kifizetések |  |  |  |  | 10 000,0 |  |  |
-|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 343 129,4 | 53 032,0 | 190 568,7 |
+|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 333 129,4 | 53 032,0 | 190 568,7 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1795,16 +1827,6 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó | 200,3 |  |  |
 |  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások | 1 075,1 |  |  |
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások | 235,7 |  |  |
-| 6 |  |  |  |  |  | Magyar Energia Hivatal |  |  |  |  |  |  |  |  |
-|  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  | 4 732,0 |  |
-|  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások | 1 275,4 |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó | 326,9 |  |  |
-|  |  |  |  |  | 3 |  |  |  |  |  | Dologi kiadások | 3 094,2 |  |  |
-|  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások | 15,0 |  |  |
-|  |  |  |  | 2 |  |  |  |  |  | Felhalmozási költségvetés |  |  | 2,5 |  |
-|  |  |  |  |  | 1 |  |  |  |  |  | Beruházások | 15,0 |  |  |
-|  |  |  |  |  | 2 |  |  |  |  |  | Felújítások | 2,0 |  |  |
-|  |  |  |  |  | 3 |  |  |  |  |  | Egyéb felhalmozási kiadások | 6,0 |  |  |
 | 7 |  |  |  |  |  | Nemzeti Közlekedési Hatóság |  |  |  |  |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  | Működési költségvetés |  |  | 28 944,8 |  |
 |  |  |  |  |  | 1 |  |  |  |  |  | Személyi juttatások | 2 973,9 |  |  |
@@ -1889,7 +1911,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 2 |  |  |  |  |  | Magán és egyéb jogi személyek kártérítése |  |  |  | 117,0 |  | 117,0 |
 |  |  | 3 |  |  |  |  |  | Kormányzati szakpolitikai feladatok |  |  |  | 1 540,0 |  | 1 540,0 |
 |  |  | 4 |  |  |  |  |  | „Friends of Hungary” Alapítvány működtetése |  |  |  | 612,4 |  | 612,4 |
-|  |  |  |  |  |  | 1-20. cím összesen: |  |  |  |  |  | 316 742,4 | 102 154,4 | 214 588,0 |
+|  |  |  |  |  |  | 1-20. cím összesen: |  |  |  |  |  | 312 007,9 | 97 419,9 | 214 588,0 |
 | 21 |  |  |  |  |  | Vállalkozások folyó támogatása |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Egyedi támogatások, ellentételezések |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Bányabezárás |  |  |  | 1 000,0 |  |  |
@@ -1898,7 +1920,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 | 22 |  |  |  |  |  | Elektronikus útdíj |  |  |  |  |  |  | 75 000,0 |  |
 | 24 |  |  |  |  |  | K-600 hírrendszer működtetésére |  |  |  |  |  | 55,0 |  |  |
 | 25 |  |  |  |  |  | Peres ügyek |  |  |  |  |  | 800,0 |  |  |
-|  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  | 579 089,6 | 177 154,4 | 214 588,0 |
+|  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  | 574 355,1 | 172 419,9 | 214 588,0 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2279,6 +2301,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 2 |  |  |  |  |  | Egészségügyi ellátási és fejlesztési feladatok |  |  |  | 122,6 |  | 122,6 |
 |  |  | 3 |  |  |  |  |  | Légimentés eszközpark bérlésével összefüggő kiadások |  |  |  | 1 221,2 |  | 1 221,2 |
 |  |  | 13 |  |  |  |  |  | Kisforgalmú gyógyszertárak működtetési támogatása |  |  |  | 700,0 |  | 700,0 |
+|  |  | 21 |  |  |  |  |  | Megszűnő, egészségügyi és hozzá kapcsolódó feladatokat ellátó gazdasági társaságoktól átszállt adósság rendezése |  |  |  | 9 500,0 |  | 9 500,0 |
 |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Versenysport támogatása |  |  |  | 642,4 |  | 642,4 |
 |  |  | 5 |  |  |  |  |  | Országos sportági szakszövetségek akadémia rendszerének kialakításával, továbbá az MLSZ utánpótlás-neveléssel összefüggő feladatainak támogatása |  |  |  | 1 710,0 |  | 1 710,0 |
@@ -2400,7 +2423,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 5 |  |  |  |  |  | Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok |  |  |  | 510,0 |  | 510,0 |
 |  |  | 6 |  |  |  |  |  | Felzárkózás-politika koordinációja |  |  |  | 96,0 |  | 96,0 |
 |  |  | 7 |  |  |  |  |  | Roma ösztöndíj programok |  |  |  | 2 067,1 |  | 2 067,1 |
-|  |  |  |  |  |  | 1- 20. cím összesen: |  |  |  |  |  | 1 813 971,9 | 775 101,0 | 1 038 870,9 |
+|  |  |  |  |  |  | 1- 20. cím összesen: |  |  |  |  |  | 1 823 471,9 | 775 101,0 | 1 048 370,9 |
 | 21 |  |  |  |  |  | Nemzeti Család- és Szociálpolitikai Alap |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Családi támogatások |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Családi pótlék |  |  |  | 349 015,0 |  |  |
@@ -2429,7 +2452,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 5 |  |  |  |  |  | Gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja |  |  |  | 4 400,0 |  |  |
 |  |  |  |  |  |  | 21. cím összesen: |  |  |  |  |  | 829 587,5 |  |  |
 | 22 |  |  |  |  |  | Települési és területi nemzetiségi önkormányzatok támogatása |  |  |  |  |  | 1 520,0 |  |  |
-|  |  |  |  |  |  | XX. fejezet összesen: |  |  |  |  |  | 2 645 079,4 | 775 101,0 | 1 038 870,9 |
+|  |  |  |  |  |  | XX. fejezet összesen: |  |  |  |  |  | 2 654 579,4 | 775 101,0 | 1 048 370,9 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2795,15 +2818,17 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 2 |  |  |  |  |  | GNI alapú hozzájárulás |  |  |  |  | 226 307,6 |  |  |
 |  | 3 |  |  |  |  |  | Brit korrekció |  |  |  |  | 14 735,1 |  |  |
 |  | 4 |  |  |  |  |  | Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés |  |  |  |  | 1 902,6 |  |  |
+| 38 |  |  |  |  |  | A települési önkormányzatok adósságkonszolidációjához kapcsolódó állami támogatás |  |  |  |  |  | 30 000,0 |  |  |
 | 41 |  |  |  |  |  | Követeléskezelés költségei |  |  |  |  |  | 1,7 |  |  |
 | 42 |  |  |  |  |  | Alapok támogatása |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Nemzeti Foglalkoztatási Alap támogatása |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Költségvetési támogatás |  |  |  | 10 000,0 |  |  |
 |  |  | 2 |  |  |  |  |  | Munkahelyvédelmi akciótervvel összefüggő hozzájárulás NFA-nak |  |  |  | 91 542,7 |  |  |
+|  |  | 3 |  |  |  |  | A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás NFA-nak |  |  |  |  | 10 000,0 |  |  |
 |  | 2 |  |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  | 11 572,8 |  |  |
 |  | 3 |  |  |  |  |  | Központi Nukleáris Pénzügyi Alap támogatása |  |  |  |  | 13 492,4 |  |  |
 |  | 4 |  |  |  |  |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása |  |  |  |  | 12,3 |  |  |
-|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 837 058,3 | 7 457 424,9 |  |
+|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 877 058,3 | 7 457 424,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2923,6 +2948,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 1 |  |  |  |  |  | TÁMOP 1.1 Munkaerőpiaci szolgáltatások és támogatások |  |  |  |  | 35 000,0 |  |  |
 |  | 2 |  |  |  |  |  | TÁMOP 1.2 Foglalkoztatást ösztönző normatív támogatások |  |  |  |  | 11 000,0 |  |  |
 |  | 3 |  |  |  |  |  | Foglalkoztathatóság és Alkalmazkodóképesség EU-s társfinanszírozása |  |  |  |  | 16 279,6 |  |  |
+| 16 |  |  |  |  |  | A kötelező legkisebb munkabér és a garantált bérminimum emelés ágazati támogatása |  |  |  |  |  | 10 000,0 |  |  |
 | 25 |  |  |  |  |  | TÁMOP intézkedések bevételei |  |  |  |  |  |  | 39 000,0 |  |
 | 26 |  |  |  |  |  | Egyéb bevétel |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Területi egyéb bevétel |  |  |  |  |  | 850,0 |  |
@@ -2931,12 +2957,12 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 | 31 |  |  |  |  |  | Szakképzési hozzájárulás |  |  |  |  |  |  | 54 814,6 |  |
 | 33 |  |  |  |  |  | Bérgarancia támogatás törlesztése |  |  |  |  |  |  | 1 000,0 |  |
 | 35 |  |  |  |  |  | Egészségbiztosítási és munkaerőpiaci járulék Nemzeti Foglalkoztatási Alapot megillető hányada |  |  |  |  |  |  | 120 133,3 |  |
-| 36 |  |  |  |  |  | Költségvetési támogatás |  |  |  |  |  |  | 10 000,0 |  |
+| 36 |  |  |  |  |  | Költségvetési támogatás |  |  |  |  |  |  | 20 000,0 |  |
 | 39 |  |  |  |  |  | Munkahelyvédelmi akciótervvel összefüggő hozzájárulás |  |  |  |  |  |  | 91 542,7 |  |
-|  |  |  |  |  |  | 1-39. cím összesen: |  |  |  |  |  | 345 140,6 | 319 140,6 |  |
+|  |  |  |  |  |  | 1-39. cím összesen: |  |  |  |  |  | 355 140,6 | 329 140,6 |  |
 | 50 |  |  |  |  |  | A Nemzeti Foglalkoztatási Alap függő, átfutó és hitellel kapcsolatos tételei |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Betétállomány változása |  |  |  |  |  | 26 000,0 |  |
-|  |  |  |  |  |  | LXIII. fejezet összesen: |  |  |  |  |  | 345 140,6 | 345 140,6 |  |
+|  |  |  |  |  |  | LXIII. fejezet összesen: |  |  |  |  |  | 355 140,6 | 355 140,6 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3180,9 +3206,9 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások | 175,0 |  |  |
 |  |  |  |  |  |  | 5. cím összesen: |  |  |  |  |  | 9 139,4 | 424,6 | 8 714,8 |
 |  |  |  |  |  |  | LXXII. fejezet összesen: |  |  |  |  |  | 1 804 273,9 | 1 804 273,9 | 8 714,8 |
-|  |  |  |  |  |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  | 16 155 650,9 |  |  |
-|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 313 816,1 |  |  |
-|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | -841 834,8 |  |  |
+|  |  |  |  |  |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  | 16 205 150,9 |  |  |
+|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 323 816,1 |  |  |
+|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | -881 334,8 |  |  |
 
 ### 2. melléklet a 2012. évi CCIV. törvényhez
 
@@ -3202,7 +3228,7 @@ A központi költségvetés támogatást biztosít az önkormányzati hivatal m�
 
 aa) 2013. év első négy hónapjára időarányos támogatás (a továbbiakban: átmeneti támogatás) illeti meg az önkormányzatot annak figyelembevételével, ahogy - az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet (a továbbiakban: Ávr.) alapján 2012. október 15-éig megvalósított, normatív hozzájárulás, támogatás módosítására vonatkozó felmérés alapján - az önkormányzati hivatal működtetéséről 2012. év december hónapban gondoskodott,
 
-ab) 2013. május 1-jétől nyolc havi időarányos támogatás illeti meg az önkormányzatot annak figyelembevételével, ahogy 2013. május 1-jén az önkormányzati hivatali feladatokról gondoskodik.
+ab) 2013. május 1-jétől nyolc havi időarányos támogatás illeti meg az önkormányzatot annak figyelembevételével, ahogy a törzskönyvi nyilvántartás szerint az önkormányzati hivatali feladatokról 2013. április 15-én gondoskodik, vagy ha a közös hivatalhoz tartozó településeket a kormányhivatal vezetője jelölte ki, és ennek átvezetése a törzskönyvi nyilvántartásban 2013. április 15-éig nem történt meg, a kijelölés szerint.
 
 A támogatás meghatározása az elismert hivatali létszám alapján a személyi és dologi kiadások elismert átlagos költségei figyelembevételével történik. Az aa) alpont szerinti esetben a körjegyzőség hivatala, az ab) alpont szerinti esetben a közös önkormányzati hivatal esetében
 
@@ -3248,7 +3274,7 @@ Kb = a Kiegészítő szabályok 1. bbb) alpontja szerinti korrekciós tényező,
 
 Kc = a Kiegészítő szabályok 1. bbc) alpontja szerinti korrekciós tényező.
 
-A közös hivatal esetében a közös hivatalt alkotó nyolcadik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan, körjegyzőség vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
+A körjegyzőség, közös hivatal esetében a körjegyzőséget, közös hivatalt alkotó nyolcadik és minden további település után, az elismert hivatali létszám településenként 1 fővel nő. A járási székhely önkormányzat, illetve az 5000 fő lakosságszám feletti község, nagyközség önkormányzata esetében az elismert hivatali létszám 2 fővel emelkedik függetlenül attól, hogy önállóan, körjegyzőség vagy közös hivatal útján gondoskodik a hivatali feladatok ellátásáról.
 
 b) Település-üzemeltetéshez kapcsolódó feladatellátás támogatása
 
@@ -3352,13 +3378,15 @@ A 2011. július 1-jén hatályos iparűzési adórendelettel rendelkező telepü
 
 Az elvárt bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a 8/2012. (II. 10.) Főv. Kgy. rendelet szerint kerül megosztásra.
 
-d) Egyéb kötelező önkormányzati feladatok támogatása
+d) Egyéb önkormányzati feladatok támogatása
 
 | FAJLAGOS ÖSSZEG: | 2 700 forint/fő, |
 | --- | --- |
 |  | de településenként legalább 3 000 000 forint. |
 
-A központi költségvetés támogatást biztosít a települési önkormányzatok számára a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. §-ában meghatározott egyes - az 1. a)-b) alpontokban nem nevesített - feladatok ellátására. Budapest Főváros Önkormányzata e jogcímen 2 000 millió forint támogatásra jogosult.
+A központi költségvetés támogatást biztosít a települési önkormányzatok számára a Mötv. 13. §-ában meghatározott egyes - az 1. a)-b) alpontokban nem nevesített - feladatok ellátására. Budapest Főváros Önkormányzata e jogcímen 2 000 millió forint támogatásra jogosult.
+
+e) Közös szabályok: Az a)–d) pont szerinti támogatások együttes összege kizárólag az igazgatással, település-üzemeltetéssel és egyéb önkormányzati feladatokkal kapcsolatos működési kiadásokra használható fel.
 
 2. Megyei önkormányzatok működésének támogatása
 
@@ -3515,7 +3543,7 @@ A 2012/2013. nevelési év átlagbér alapú támogatási összege 7,5%-ának fo
 
 A támogatás a települési önkormányzatot a nem a közvetlen szakmai feladatellátásban dolgozók béréhez, az óvodai nevelést biztosító, jogszabályban foglalt eszközök és felszerelések beszerzéséhez, valamint a feladatellátásra szolgáló épület és annak infrastruktúrája folyamatos működtetéséhez szükséges kiadásokhoz kapcsolódóan illeti meg az általa fenntartott óvodában nevelt - az 1. a) alpontban figyelembe vett - gyermeklétszám után. A létszám meghatározásakor minden gyermeket egy főként kell figyelembe venni.
 
-A 2012/2013. nevelési évre jutó támogatási összeg 7,5%-ának folyósítása január utolsó munkanapján, 17,5%-ának folyósítása február utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+A 2012/2013. nevelési évre jutó támogatási összeg 7,5%-ának folyósítása január utolsó munkanapján, 17,5%-ának folyósítása március utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
 
 3. Ingyenes és kedvezményes gyermekétkeztetés támogatása
 
@@ -3548,11 +3576,11 @@ Az e körbe tartozó gyermek, tanuló után csak egy jogcímen jár a támogatá
 
 A támogatás az Mötv. alapján létrehozott társulás, többcélú kistérségi társulás, intézményi társulás által fenntartott óvodákba járó - az 1. a) alpontban figyelembe vett - gyermeklétszámból azon gyermekek után igényelhető, akik a lakóhelyüktől, ennek hiányában tartózkodási helyüktől eltérő településen veszik igénybe az óvodai ellátást és utaztatásuk autóbusz működtetésével, iskolabusz-szolgáltatás vagy külön célú menetrendszerinti autóbusz szolgáltatás vásárlásával biztosított. A létszám meghatározásakor minden gyermeket egy főként kell figyelembe venni. E támogatás szempontjából iskolabusz-szolgáltatás vásárlásnak minősül a menetrendtől függetlenül kizárólag e célból indított járat(ok) igénybevétele. A támogatás igénybevételének további feltétele, hogy az utaztatott gyermekek mellett kísérő utazzon.
 
-A 2012/2013. nevelési évre jutó támogatási összeg 25%-ának folyósítása február utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+A 2012/2013. nevelési évre jutó támogatási összeg 25%-ának folyósítása március utolsó munkanapján, ezt követően a támogatás folyósítása hat egyenlő részletben, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik. A 2013/2014. nevelési évre jutó támogatásnak folyósítása négy egyenlő részletben: szeptember hónaptól havonta, az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
 
 Az elszámolásnál a 2012/2013. nevelési évben és a 2013/2014. nevelési évben utaztatott gyermekek számát kell figyelembe venni a közoktatási intézmények vezetőjének adatszolgáltatása alapján.
 
-Az 1. és 2. pont szerinti támogatások kizárólag a támogatással érintett óvodaintézmények kiadásaira használhatók fel. A 3. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére számolható el. A 4. pont szerinti támogatás kizárólag a gyermekek utaztatásával kapcsolatos kiadásokra használható fel.
+5. Közös szabályok: Az 1. és 2. pont szerinti támogatások kizárólag a támogatással érintett óvodaintézmények kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A 3. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre) számolható el. A 4. pont szerinti támogatás kizárólag a gyermekek utaztatásával kapcsolatos kiadásokra használható fel.
 
 III. A TELEPÜLÉSI ÖNKORMÁNYZATOK SZOCIÁLIS ÉS GYERMEKJÓLÉTI FELADATAINAK TÁMOGATÁSA
 
@@ -3854,7 +3882,7 @@ ahol:
 
 Szt = személyi térítési díjakból származó bevétel várható éves összege.
 
-Az intézmény-üzemeltetési támogatás megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2. a) alpontja, tartalmát az államháztartásért felelős miniszter által - a szociális ügyekért felelős miniszterrel és a helyi önkormányzatokért felelős miniszter véleményének kikérésével - kiadott útmutató rögzíti.
+Az intézmény-üzemeltetési támogatás megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2. a) alpontja, tartalmát az államháztartásért felelős miniszter által - a szociális ügyekért felelős miniszterrel és a helyi önkormányzatokért felelős miniszter véleményének kikérésével - kiadott útmutató rögzíti, amelyet az elszámolás során is figyelembe kell venni.
 
 Az intézmény-üzemeltetési támogatás önkormányzatonkénti meghatározásáról és annak összegéről - az önkormányzati adatszolgáltatás alapján - a szociális ügyekért felelős miniszter, az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter 2013. január 4-éig döntenek. A Kiegészítő szabályok 2. b) alpontja szerinti áprilisi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
 
@@ -4290,7 +4318,7 @@ bbb.2) 4 vagy több nemzetiségi önkormányzat: 0,07,
 
 bbc) közös hivatal székhelye járási székhely önkormányzat: 0,04.
 
-Körjegyzőség hivatalára a bba) alpont szerinti korrekciós tényezőt a táblázat bba.2) alpontja szerint kell figyelembe venni. A körjegyzőség hivatalára a bbb) és bbc) alpontok szerinti korrekciós tényező nem vonatkozik.
+A körjegyzőség hivatalára a bbb) és bbc) alpontok szerinti korrekciós tényező nem vonatkozik.
 
 bc) Az átmeneti támogatást 2013. április 30-áig éves támogatásként kell megállapítani.
 
@@ -4320,14 +4348,13 @@ d) A I. 1. b) alpont szerinti jogcímek és a I. 1. c) alpont szerinti beszámí
 
 a) Támogatások meghatározása
 
-| Sorszám | Támogatás jogcíme | Adatszolgáltatás időpontja | Adatszolgáltatás alapja | Adatszolgáltatás célja |
+| Sorszám | Támogatás jogcíme | Adat- szolgáltatás időpontja | Adatszolgáltatás alapja | Adatszolgáltatás célja |
 | --- | --- | --- | --- | --- |
-| 1. | I. 1. ab) | 2013. április 15. | az önkormányzati hivatal fenntartásával kapcsolatos adatok 2013. május hónaptól | I. 1. ab) jogcímen nyújtott támogatás meghatározása |
-| 2. | II. 1.és II. 2. | az Ávr. szerint | gyermeklétszám a 2012/2013. nevelési évi nyitó (október 1-jei) tényleges, a 2012. december 31-ei állapotra becsült adatok, a 2013/2014. nevelési évi becsült adatok alapján, illetve a vezetői órakedvezmény miatti pedagógus többletlétszám, valamint a segítők létszáma a 2012/2013. nevelési évi, Közokt. tv. szerinti tényleges adatok, és a 2013/2014. nevelési évi, Köznev. tv. szerinti becsült adatok alapján | a felmért gyermeklétszám, vezetői órakedvezmény miatti pedagógus többletlétszám, illetve segítők létszáma alapján a 2013. évi bértámogatás és óvodaműködtetési támogatás megalapozása |
-| 3. | II. 3. és III. 3. | az Ávr. szerint | éves ellátotti adatok | a II.3. és III.3. támogatási jogcímek meghatározása |
-| 4. | II. 4. | 2013. január 15. | e tábla 2. pont szerinti gyermeklétszámából a 2012/2013. nevelési évben ténylegesen utaztatott gyermekek, továbbá 2013/2014. nevelési évben az utaztatott gyermekek becsült száma | utaztatott gyermekek támogatásának megalapozása |
-| 5. | III. 4. | az Ávr. szerint | a 2011. évi zárszámadás adatai alapján - a 2012. évi változások, 2013. évi paraméterek figyelembevételével - 2013. évre becsült adatok | 2013. évi szakmai dolgozók bértámogatása és az intézmény-üzemeltetési támogatás megalapozása |
-| 6. | IV. 1. h) | 2013. január 15. | 2012. december 31-ei tényadatok | A megyei könyvtárral 2012. december 31-éig megállapodást kötő önkormányzatok számának felmérése a megyei jogú városok adatszolgáltatása alapján. |
+| 1. | II. 1. és II. 2. | az Ávr. szerint | gyermeklétszám a 2012/2013. nevelési évi nyitó (október 1-jei) tényleges, a 2012. december 31-ei állapotra becsült adatok, a 2013/2014. nevelési évi becsült adatok alapján, illetve a vezetői órakedvezmény miatti pedagógus többletlétszám, valamint a segítők létszáma a 2012/2013. nevelési évi, Közokt. tv. szerinti tényleges adatok, és a 2013/2014. nevelési évi, Köznev. tv. szerinti becsült adatok alapján | a felmért gyermeklétszám, vezetői órakedvezmény miatti pedagógus többletlétszám, illetve segítők létszáma alapján a 2013. évi bértámogatás és óvodaműködtetési támogatás megalapozása |
+| 2. | II. 3. és III. 3. | az Ávr. szerint | éves ellátotti adatok | a II.3. és III.3. támogatási jogcímek meghatározása |
+| 3. | II. 4. | 2013. január 15. | e tábla 1. pont szerinti gyermeklétszámából a 2012/2013. nevelési évben ténylegesen utaztatott gyermekek, továbbá 2013/2014. nevelési évben az utaztatott gyermekek becsült száma | utaztatott gyermekek támogatásának megalapozása |
+| 4. | III. 4. | az Ávr. szerint | a 2011. évi zárszámadás adatai alapján – a 2012. évi változások, 2013. évi paraméterek figyelembevételével – 2013. évre becsült adatok | 2013. évi szakmai dolgozók bértámogatása és az intézmény-üzemeltetési támogatás megalapozása |
+| 5. | IV. 1. h) | 2013. január 15. | 2012. december 31-ei tényadatok | a megyei könyvtárral 2012. december 31-éig megállapodást kötő önkormányzatok számának felmérése a megyei jogú városok adatszolgáltatása alapján |
 
 A II. 4. szerinti jogcímet illetően a helyi önkormányzatokért felelős miniszter a felmérés alapján 2013. február 7-éig meghatározza az egy utaztatott gyermek után nyújtható támogatás fajlagos összegét.
 
@@ -4335,33 +4362,39 @@ A IV. 1. h) szerinti jogcímet illetően a kultúráért felelős miniszter a fe
 
 b) Támogatások évközi módosítása
 
-| Sorszám | Adatszolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
+| Sorszám | Adat-szolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
 | --- | --- | --- | --- | --- |
-| 1. | 2013. április 15. | III. 3., III. 4. | a becsült éves ellátotti adatok, személyi térítési díjból származó bevétel és intézményüzemeltetési kiadás módosíthatók | 2013. június |
-| 2. | 2013. június 15. | II. 1., II. 2. II. 3., II. 4., III. 3. | az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók | 2013. augusztus |
-| 3. | 2013. október 15. | II. 1., II. 2. II. 3., II. 4., III. 3., III. 4. a) | az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók | 2013. december |
+| 1. | 2013. április 15. | III. 4. | a becsült éves ellátotti adatok, személyi térítési díjból származó bevétel és intézmény-üzemeltetési kiadás módosíthatók | 2013. július |
+| 2. | 2013.június 1. | II. 1., II. 2. II. 3., II. 4., III. 3. | az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók | 2013. július |
+| 3. | 2013. október 15. | II. 1., II. 2., II. 3., II. 4., III. 3., III. 4. a) | az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális jogcímek esetében a becsült éves ellátotti adatok módosíthatók | 2013. december |
 
-c) A helyi önkormányzatok, helyi nemzetiségi önkormányzatok és többcélú kistérségi társulások egymás közötti, illetve ezen körön kívüli szervezetnek történő feladat-, illetve intézmény átadás-átvétele
+Ha a táblázat 1. sora szerinti adatszolgáltatás alapján a többcélú kistérségi társulást 2013. június 30-áig időarányosan megillető támogatás módosul, úgy a júliusi finanszírozásban a változást a többcélú kistérségi társulás székhelye szerinti települési önkormányzat finanszírozásában kell érvényesíteni.
 
-| Sorszám | Adatszolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
+c) A helyi önkormányzatok, helyi nemzetiségi önkormányzatok egymás közötti, illetve ezen körön kívüli szervezetnek történő feladat-, illetve intézmény átadás-átvétele
+
+| Sorszám | Adat-szolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
 | --- | --- | --- | --- | --- |
-| 1. | 2013. április 15. | III. 3., III. 4. | 2013. június 1-jével történő fenntartó-változás jelzése, ellátotti adatok megjelölésével | 2013. június |
-| 2. | 2013. június 15. | II. 1., II. 2., II. 3., II. 4., III. 3., III. 4. | 2013. szeptember 1-jével történő fenntartóváltozás jelzése, az a) pont szerinti felmérés során megadott adatok megbontásával | 2013. szeptember |
-| 3. | 2013. október 15. | III. 3., III. 4. | 2013. december 1-jével történő fenntartóváltozás jelzése, az a) pont szerinti felmérés során megadott adatok megbontásával | 2013. december |
+| 1. | 2013. június 1. | II. 1., II. 2., II. 3., II. 4. | 2013. szeptember 1-jével történő fenntartóváltozás jelzése, az a) pont szerinti felmérés során megadott adatok megbontásával | 2013. szeptember |
+| III. 3., III. 4. | 2013. július 1-jével történő fenntartó-változás jelzése, az a) pont szerinti felmérés során megadott ellátotti adatok megjelölésével | 2013. július |
+| 2. | 2013. október 15. | III. 3., III. 4. | 2013. december 1-jével történő fenntartóváltozás jelzése, az a) pont szerinti felmérés során megadott adatok megbontásával | 2013. december |
 
-A helyi önkormányzat, a helyi nemzetiségi önkormányzat, a többcélú kistérségi társulás körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét, valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+d) A többcélú kistérségi társulások 2013. július 1-jei átalakulásával, megszűnésével összefüggő év közbeni változások
 
-A helyi önkormányzatok, a helyi nemzetiségi önkormányzatok, a többcélú kistérségi társulások, az országos nemzetiségi önkormányzatok, valamint a központi költségvetési szervek egymás közötti feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja nem esik egybe a fenti táblázatban szereplő fenntartóváltási időpontokkal, úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik.
+| Sorszám | Adat-szolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
+| --- | --- | --- | --- | --- |
+| 1. | 2013. április 15. | II. 1., II. 2., II. 3., II. 4., III. 3., III. 4. | a többcélú kistérségi társulások jelzik a köznevelési és szociális intézmény(ek) 2013. július 1-jétől történő fenntartó-változását, az a)–b) pontok szerinti felmérés során megadott adatok megjelölésével | 2013. július |
+
+A többcélú kistérségi társulás az adatszolgáltatás során kizárólag átadást jelölhet, a 2013. június 30-áig megillető támogatás vonatkozásában lemondásra, illetve pótigénylésre nincs lehetőség. Az önkormányzat által a többcélú kistérségi társulástól átvett óvodaintézmény után járó II. 1., II. 2. és II. 4. pont szerinti – 2012/2013. nevelési évre járó – támogatás folyósítása két egyenlő részletben, július és augusztus hónapban az államháztartásról szóló jogszabályokban meghatározott időpontokban történik.
+
+e) A c) és d) pontra vonatkozó közös szabályok:
+
+A helyi önkormányzat, a helyi nemzetiségi önkormányzat, többcélú kistérségi társulás körön kívüli szervezetnek történő átadás-átvétel esetén az átadást, átvételt tanúsító okmányokat a felmérés lezárását követően a Kincstárnak küldi meg. A kérelemhez mellékelni kell az átadó és az átvevő között kötött megállapodást, az átadás-átvételről szóló képviselő-testületi, illetve társulási tanácsi határozat kivonatát, az átvevő feladatellátáshoz szükséges működési engedélyét, valamint a feladatot átadó és átvevő nyilatkozatát arra vonatkozóan, hogy az e törvény alapján számára biztosított támogatások igényléséről vagy lemondásáról gondoskodott.
+
+A helyi önkormányzatok, a helyi nemzetiségi önkormányzatok, többcélú kistérségi társulások, az országos nemzetiségi önkormányzatok, valamint a központi költségvetési szervek egymás közötti, illetve ezen körön kívüli feladat-, illetve intézmény átadása-átvétele esetén, amennyiben az intézmény átadás-átvételének időpontja (tényleges átadás-átvétel) nem esik egybe a fenti táblázatban szereplő fenntartóváltási időpontokkal (finanszírozási átadás-átvétel), úgy ezen időpontig az érintett felek a finanszírozást pénzeszköz-átadással, -átvétellel egymás közötti megállapodás útján rendezik. A finanszírozási átadás-átvétel időpontjáig időarányos támogatás abban az esetben illeti meg a feladatot, intézményt átadó helyi önkormányzatot, helyi nemzetiségi önkormányzatot, ha a feladatot átvevő az intézmény, szolgáltatás tekintetében a tényleges átadás-átvétel időpontjától kezdve működési engedéllyel rendelkezik. Ellenkező esetben a feladatot, intézményt átadó helyi önkormányzat, helyi nemzetiségi önkormányzat köteles lemondani a tényleges átadás-átvétel időpontjától a finanszírozási átadás-átvétel időpontjáig tartó időszakra jutó időarányos támogatásról.
 
 Az időskorúak átmeneti és tartós, valamint a hajléktalanok tartós bentlakást nyújtó szociális intézményeinek átadás-átvétele esetén a III. 4. b) alpont szerinti támogatást az ellátottak arányában kell megosztani.
 
 A III. 3. ae) és III. 3. jc) alpont szerinti támogatások esetében nincs lehetőség átadás-átvételre. Amennyiben a fenntartó-változás következtében az önkormányzat nem lesz jogosult, vagy alacsonyabb összegű támogatásra jogosult e jogcímeken, úgy a különbözet lemondásnak minősül.
-
-d) A többcélú kistérségi társulások 2013. július 1-jei átalakulásával, megszűnésével összefüggő év közbeni változások
-
-| Sorszám | Adatszolgáltatás időpontja | Támogatás jogcíme | Adatszolgáltatás alapja | Finanszírozás kezdő hónapja |
-| --- | --- | --- | --- | --- |
-| 1. | 2013. április 15. | II. 1., II. 2., II. 3., II. 4., III. 3., III. 4. | a többcélú kistérségi társulások jelzik a köznevelési és szociális intézmény(ek) 2013. július 1-jétől történő fenntartó-változását, az a)-b) pontok szerinti felmérés során megadott adatok megjelölésével | 2013. július |
 
 3. A óvodapedagógusok, és óvodapedagógusok nevelő munkáját közvetlenül segítők bértámogatása az alábbi adatszolgáltatások, nevelés-szervezési paraméterek és számítások figyelembevételével történik.
 
@@ -4403,17 +4436,17 @@ Vi1; Vi2 = a V1 és V2 vezetői létszámra - a 2012/2013. nevelési évben a K�
 
 A többcélú kistérségi társulás a támogatásokat csak akkor igényelheti, ha vállalja, hogy
 
-– a társulási megállapodás az Mötv. rendelkezéseinek megfelelő módosítása 2013. június 30-án lép hatályba,
+a) a társulási megállapodás az Mötv. rendelkezéseinek megfelelő módosítása 2013. június 30-án lép hatályba,
 
-– 2013. június 30-áig a szolgáltatót, intézményt fenntartja.
+b) 2013. június 30-áig a szolgáltatót, intézményt fenntartja.
 
-Amennyiben az intézményi társulás jogutód nélkül megszűnik, úgy a társulás székhely önkormányzata a támogatásra a megszűnés hónapja utolsó napjáig jogosult. A többcélú kistérségi társulás éves támogatást igényel, amelyre azonban 2013. június 30-áig időarányosan jogosult. A fennmaradó - feladattal, intézménnyel összefüggésben igényelt - hat havi időarányos támogatást a Kiegészítő szabályok 2. d) alpontjában foglaltak szerint adja át
+Ha az intézményi társulás jogutód nélkül megszűnik, úgy a társulás székhely önkormányzata a támogatásra a megszűnés hónapja utolsó napjáig jogosult. A többcélú kistérségi társulás éves támogatást igényel, amelyre azonban 2013. június 30-áig időarányosan jogosult. A fennmaradó – feladattal, intézménnyel összefüggésben igényelt – hat havi időarányos támogatást a Kiegészítő szabályok 2. d) alpontjában foglaltak szerint adja át
 
-– a feladatot átvevő települési önkormányzat, vagy
+a) a feladatot átvevő települési önkormányzat, központi költségvetési szerv, önkormányzati körön kívüli szervezet, vagy
 
-– a társulási megállapodásban kijelölt székhely önkormányzat
+b) a társulási megállapodásban kijelölt székhely önkormányzat,
 
-részére, amennyiben a fenntartó az ellátott feladatra működési engedéllyel rendelkezik.
+részére, ha a fenntartó az ellátott feladatra működési engedéllyel rendelkezik.
 
 6. Gondozási nap: egy ellátott egy napi intézményi ellátása (idős és hajléktalan személyeket ellátó tartós és átmeneti szociális intézményben, valamint gyermekek átmeneti gondozását biztosító intézményben), amely az intézménybe történő felvétel napjával kezdődik és annak végleges elhagyásával fejeződik be. A gondozási napok számításánál az ideiglenesen - egészségügyi vagy egyéb okból - távollévőket is figyelembe kell venni. Az intézményi jogviszony egy évi folyamatos távollét esetén megszűnik.
 
@@ -4494,7 +4527,7 @@ A támogatás a magánszemélyek közműfejlesztési támogatásáról szóló 2
 | Előirányzat: | 4 500,0 millió forint |
 | --- | --- |
 
-Az előirányzat azon települési önkormányzat támogatására szolgál, amelynek az önkormányzati, az állami és egyéb szolgáltatók által végzett lakossági közműves ivóvízellátás és szennyvízszolgáltatás, valamint a más vízközmű társaságtól vásárolt, illetve átvett lakossági célú ivóvíz ráfordításai magasak. A támogatás a települési önkormányzatok között az igénybejelentést megelőző egyéves időszak lakossági fogyasztásának mennyisége, az ebben várható változások és a szolgáltatás tényleges, illetve várható ráfordításai figyelembevételével kerül elosztásra. A támogatás településenkénti összegének megállapítása során figyelembe kell venni az adott önkormányzat lakosaink szociális helyzetét is.
+Az előirányzat azon települési önkormányzat támogatására szolgál, amelynek az önkormányzati, az állami és egyéb szolgáltatók által végzett lakossági közműves ivóvízellátás és szennyvízszolgáltatás, valamint a más vízközmű társaságtól vásárolt, illetve átvett lakossági célú ivóvíz ráfordításai magasak. A támogatás a települési önkormányzatok között az igénybejelentést megelőző egyéves időszak lakossági fogyasztásának mennyisége, az ebben várható változások és a szolgáltatás tényleges, illetve várható ráfordításai figyelembevételével kerül elosztásra. A támogatás településenkénti összegének megállapítása során figyelembe kell venni az adott önkormányzat lakosainak szociális helyzetét is.
 
 Az előirányzat szolgál részbeni fedezetül az egészséges ivóvízzel való ellátás ideiglenes módozatai ráfordításainak támogatására is azon települési önkormányzatok esetén, amelyek az Állami Népegészségügyi és Tisztiorvosi Szolgálat határozata alapján kötelesek a településen élők részére az egészséges ivóvizet zacskós vagy palackos kiszerelésben, illetve tartálykocsis szállítással biztosítani.
 
@@ -4559,30 +4592,30 @@ Az előirányzat szolgál az ÉMI Kht. általi azon ózdi martinsalak felhaszná
 
 8. Önkormányzatok és társulásaik európai uniós fejlesztési pályázatai saját forrás kiegészítésének támogatása
 
-| Előirányzat: | 13 900,0 millió forint |
-| --- | --- |
+| Előirányzat: 13 900,0 millió forint |
+| --- |
 
-Az előirányzat szolgál fedezetül a helyi önkormányzat, az önkormányzatok egyéb együttműködési formái (a továbbiakban: önkormányzat), illetve az önkormányzat társulása európai uniós fejlesztési célú pályázatai saját forrás kiegészítésére (a továbbiakban: EU Önerő Alap) a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból, valamint a 2013. évben megkötött támogatási szerződésekből adódó fizetési kötelezettségek teljesítésére.
+Az előirányzat szolgál fedezetül a helyi önkormányzat, a helyi önkormányzatok társulása és a helyi önkormányzatok egyéb együttműködése keretében megvalósítandó európai uniós fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból és a 2013. évben megkötött támogatási szerződésekből adódó fizetési kötelezettségek teljesítésére.
 
-A 2013. évben – a megyei önkormányzatok kivételével – EU Önerő Alap támogatás a vízgazdálkodási, az egyes környezetvédelmi, a szociális városrehabilitációs célú, az egészségügyi alapellátást, járóbeteg-szakellátást, valamint a bölcsődei, óvodai és általános iskolai ellátást nyújtó intézményekhez kapcsolódó infrastrukturális fejlesztésekhez szükséges saját forrás kiegészítésére igényelhető, amelyek – a vízgazdálkodáson belül a vízrendezési és csapadékvíz-elvezetési célt kivéve – az önkormányzat, illetve társulása vagyongyarapodását eredményezik, és amelyek esetében – az egészségügyi alapellátással, a szennyvízelvezetéssel és -kezeléssel kapcsolatos, valamint a Környezet és Energia Operatív Program ivóvízminőség-javító programjával érintett beruházások kivételével – az uniós forrásról szóló támogatói döntés a 2012. évben vagy azt követően született meg.
+A 2013. évben – a megyei önkormányzat kivételével – támogatás a vízgazdálkodási, az egyes környezetvédelmi, a szociális városrehabilitációs célú, az egészségügyi alapellátást, járóbeteg-szakellátást, valamint a bölcsődei, óvodai és általános iskolai ellátást nyújtó intézmények és belterületi közutak, kerékpárutak infrastrukturális fejlesztéseihez szükséges saját forrás kiegészítésére igényelhető, amelyek – a vízgazdálkodáson belül a vízrendezési és csapadékvíz-elvezetési célt kivéve – a helyi önkormányzat, illetve társulása vagyongyarapodását eredményezik és amelyek esetében – az egészségügyi alapellátással, a szennyvízelvezetéssel és -kezeléssel kapcsolatos, valamint az ivóvízminőség-javítással érintett beruházások kivételével – az európai uniós támogatásról szóló döntés a 2012. évben vagy azt követően született meg.
 
-A 2013. évben a megyei önkormányzatok azon fejlesztéseikhez szükséges saját forrás kiegészítésére igényelhetik az EU Önerő Alap támogatást, amelyek esetében az uniós forrásról szóló támogatói döntés a 2012. évben vagy azt megelőzően született meg.
-
-2013. évben EU Önerő Alap támogatást kizárólag a következő önkormányzatok, illetve társulásaik igényelhetnek:
+A 2013. évben támogatást kizárólag a következő helyi önkormányzat, illetve társulása igényelhet:
 
 a) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve a jelentős munkanélküliséggel sújtott települések besorolásáról szóló kormányrendeletben szereplő települések,
 
 b) a kedvezményezett térségek besorolásáról szóló kormányrendelet 2. vagy 4. mellékletében szereplő kistérségek területén lévő települések,
 
-c) azon önkormányzatok, amelyek a 2011. évben az önhibájukon kívül hátrányos helyzetben lévő települési önkormányzatok támogatásában részesültek,
+c) azon önkormányzatok, amelyek a 2011. vagy 2012. évben az önhibájukon kívül hátrányos helyzetben lévő települési önkormányzatok támogatásában részesültek,
 
-d) azon önkormányzatok és társulásaik, amelyek a Környezet és Energia Operatív Program ivóvízminőség-javító programban érintettek, ugyanezen program keretében megvalósuló ivóvízminőség-javító beruházásaikhoz,
+d) azon önkormányzatok és társulásaik, amelyek az ivóvízminőség-javító programban érintettek, ugyanezen program keretében megvalósuló ivóvízminőség-javító beruházásaikhoz,
 
-e) jogi személyiségű– önkormányzatok közötti – társulások, amelyek támogatást kizárólag az uniós támogatási szerződésben kedvezményezettként feltüntetett, valamint az a), b) vagy c) pont szerinti feltételeknek megfelelő tagjaik által biztosítani szükséges saját forrás alapján igényelhetnek,
+e) önkormányzati társulások, amelyek támogatást kizárólag az a), b) vagy c) pont szerinti feltételeknek megfelelő tagjaik által biztosítani szükséges saját forrás alapján igényelhetnek,
 
 f) a megyei önkormányzatok.
 
-A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A döntés az EU Önerő Alap támogatásról a fejlesztés teljes időszakára – előre ütemezetten – történik.
+A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A döntés a fejlesztés teljes időszakára – előre ütemezetten – történik.
+
+A 2013. évben a megyei önkormányzat azon fejlesztéseihez szükséges saját forrás kiegészítésére igényelhet támogatást, amelyek esetében az európai uniós támogatásról szóló döntés a 2012. évben vagy azt megelőzően született meg.
 
 Magyarország európai uniós derogációs kötelezettségének határidőben történő megvalósítása érdekében az egészséges ivóvíz-beruházásokra ígérvény adható.
 
@@ -4692,12 +4725,12 @@ Felhatalmazást kap a kultúráért felelős miniszter, hogy — a helyi önkorm
 
 15. Üdülőhelyi feladatok támogatása
 
-| Előirányzat: | 9 437,0 millió forint |
-| --- | --- |
+| Előirányzat: 9437,0 millió forint |
+| --- |
 
 A támogatás a települési önkormányzatot idegenforgalmi célú kiadásaihoz illeti meg. Mértéke az üdülővendégek tartózkodási ideje alapján beszedett idegenforgalmi adó minden forintjához 1,5 forint. Késedelmi pótlék, bírság alapján nem igényelhető a hozzájárulás.
 
-A támogatás az önkormányzatok számára a nettó finanszírozás keretében havi ütemekben, az üdülővendégek tartózkodási ideje alapján beszedett idegenforgalmi adó 2011. évi tény adatai alapján kerül folyósításra. A támogatással az üdülővendégek tartózkodási ideje alapján beszedett idegenforgalmi adó 2013. évi tény adatai alapján a 2013. évi beszámoló keretében kell elszámolniuk az önkormányzatoknak.
+A támogatás a helyi önkormányzatok nettó finanszírozása keretében havi ütemekben, az üdülővendégek tartózkodási ideje alapján beszedett idegenforgalmi adó 2011. évi tény adatai alapján kerül folyósításra.
 
 16. Biztos Kezdet Gyermekházak támogatása
 
@@ -4756,13 +4789,9 @@ c) az államháztartásról szóló jogszabályok alapján költségvetési évb
 
 IV. A tartalék előirányzat szolgál a helyi önkormányzatok működőképessége megőrzését szolgáló kiegészítő támogatás forrásául.
 
-A helyi önkormányzatok kiegészítő támogatást – Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 118. § (5) bekezdésére figyelemmel – kivételes esetben, működőképességüket veszélyeztető helyzet esetén igényelhetnek.
+A helyi önkormányzatok kiegészítő támogatást – Mötv. 118. § (2) bekezdésére figyelemmel – kivételes esetben, működőképességüket veszélyeztető helyzet esetén igényelhetnek.
 
 Az önkormányzat a támogatási igényt a helyi önkormányzatokért felelős miniszter által működtetett informatikai rendszerben lezárja, és a rendszerből generált adatlapokat a kincstár illetékes területi szervéhez nyújtja be papír alapon.
-
-Az igénylést a költségvetési év során április 30-áig, szeptember 10-éig és november 5-éig lehet benyújtani.
-
-Támogatási igényt az önkormányzat a költségvetési évben legfeljebb két alkalommal nyújthat be, kivéve, ha olyan előre nem látható esemény következik be, amely az önkormányzat működőképességét veszélyezteti.
 
 A kincstár a saját nyilvántartásából elérhető és az önkormányzattól – indokolt esetben helyszíni ellenőrzés során – rendelkezésre álló dokumentumokkal kiegészített igénylést megküldi a helyi önkormányzatokért felelős miniszternek és az államháztartásért felelős miniszternek.
 
@@ -4790,7 +4819,7 @@ Előirányzat: 100,0 millió forint
 
 a) Visszterhes kamattámogatást igényelhet az a helyi önkormányzat, amely a helyi önkormányzatok adósságrendezési eljárásáról szóló törvényben szabályozott eljárás keretében az egyezséget pénzügyi intézménytől felvett hitellel teremtette meg. Ha a kamattámogatás alapjául szolgáló hitel forinttól eltérő devizanemű, a kamattámogatást a Magyar Nemzeti Bank által a kamattámogatás esedékességét megelőző második munkanappal közzétett, az adott devizára vonatkozó középárfolyam figyelembevételével kell kiszámítani. A kamattámogatás feltételeit a helyi önkormányzatokért felelős miniszter és a helyi önkormányzat megállapodásban rögzíti.
 
-b) A helyi önkormányzatok adósságrendezési eljárásában közreműködő pénzügyi gondnokok díjához állami támogatás vehető igénybe. A pénzügyi gondnok díjának összege – az általános forgalmi adóval együtt – legalább 800 ezer forint, legfeljebb 3 000 ezer forint.
+b) A helyi önkormányzatok adósságrendezési eljárásában közreműködő pénzügyi gondnokok díjához költségvetési támogatás vehető igénybe. A pénzügyi gondnok díjának összege – az általános forgalmi adóval együtt – legalább 800 ezer forint, legfeljebb 3 000 ezer forint.
 
 A pénzügyi gondnok díjának folyósításáról – a bíróság díjmegállapító végzésének jogerőre emelkedését követően – a helyi önkormányzatokért felelős miniszter intézkedik.
 
@@ -4818,6 +4847,7 @@ A központi alrendszer azon előirányzatai, melyek teljesülése módosítás n
 | 14 | XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA fejezetben |  |
 | 15 |  | Gyermekvédelmi Lakás Alap (20. cím, 17. alcím, 1. jogcímcsoport) |
 | 16 |  | GYES-en és GYED-en lévők hallgatói hitelének célzott támogatása (20. cím, 17. alcím, 7. jogcímcsoport) |
+| 16a |  | Megszűnő, egészségügyi és hozzá kapcsolódó feladatokat ellátó gazdasági társaságoktól átszállt adósság rendezése (20. cím, 22. alcím, 21. jogcímcsoport) |
 | 17 |  | Átadásra nem került ingatlanok utáni járadék (20. cím, 55. alcím, 4. jogcímcsoport) |
 | 18 |  | Családi támogatások (21. cím, 1. alcím) |
 | 19 |  | Korhatár alatti ellátások (21. cím, 2. alcím) |
@@ -4847,6 +4877,7 @@ A központi alrendszer azon előirányzatai, melyek teljesülése módosítás n
 | 43 |  | Rokkantsági, rehabilitációs ellátások fedezetére átadott pénzeszköz (35. cím, 2. alcím, 5. jogcímcsoport) |
 | 44 |  | Nemzetközi elszámolások kiadásai (36. cím) |
 | 45 |  | Hozzájárulás az EU költségvetéséhez (37. cím) |
+| 45a |  | A települési önkormányzatok adósságkonszolidációjához kapcsolódó állami támogatás (38. cím) |
 | 46 |  | Követeléskezelés költségei (41. cím) |
 | 47 |  | Központi Nukleáris Pénzügyi Alap támogatása (42. cím, 3. alcím) |
 | 48 | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
