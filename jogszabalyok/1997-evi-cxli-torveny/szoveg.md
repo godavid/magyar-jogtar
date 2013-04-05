@@ -51,7 +51,7 @@ az ingatlan-nyilvántartásról
 
 (5) Az ingatlan természetben meghatározott részére bejegyzett jogok, tények és átvezetett adatok alapjául szolgáló okiratnak az érintett természetbeni rész meghatározására vonatkozó tartalma korlátozás nélkül megismerhető.
 
-(6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalma korlátozás nélkül megismerhető, azt bárki megtekintheti, arról feljegyzést készíthet és hiteles másolatot kérhet. A másolat lehet:
+(6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalma korlátozás nélkül megismerhető, azt bárki megtekintheti, arról feljegyzést készíthet és hiteles vagy nem hitelesített másolatot kérhet. A másolat lehet:
 
 - a) szemle másolat: amely a hatályos térképi állapotot tartalmazza,
 - b) teljes másolat: amely a hatályos térképi állapot mellett az előzetes térképi változásokat is tartalmazza.

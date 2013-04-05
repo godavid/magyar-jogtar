@@ -2,7 +2,15 @@
 
 a földmérési és térképészeti tevékenységről
 
-Az Országgyűlés annak érdekében, hogy– kövesse a globális, informatikai, szakma technikai és technológiai változásokat,– modernizálja az adatbázis szemléleten alapuló egységes ingatlan-nyilvántartás átfogó szabályozását,– meghatározza az adatbázis szemléleten alapuló földmérési, földügyi, és térképészeti szakterülettel kapcsolatos állami alapfeladatokat, az állami adatbázisok körét, az állami alapadatok előállításának és szolgáltatásának alapvető szabályaita következő törvényt alkotja:
+Az Országgyűlés annak érdekében, hogy
+
+– kövesse a globális, informatikai, szakma technikai és technológiai változásokat,
+
+– modernizálja az adatbázis szemléleten alapuló egységes ingatlan-nyilvántartás átfogó szabályozását,
+
+– meghatározza az adatbázis szemléleten alapuló földmérési, földügyi, és térképészeti szakterülettel kapcsolatos állami alapfeladatokat, az állami adatbázisok körét, az állami alapadatok előállításának és szolgáltatásának alapvető szabályait
+
+a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -94,9 +102,11 @@ végzése;
 
 (4) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az általa kijelölt szerv látja el. A honvédelmi célból előállított állami alapadatok felhasználását a honvédelemért felelős miniszter szabályozza.
 
-(5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni. A díj mértékét a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
+(5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni.
 
 (6) Az ingatlan-nyilvántartási térképről elektronikus formában szolgáltatott hiteles másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített.
+
+(7) A 8. §-ban meghatározott térinformatikai rendszerekhez a Nemzeti Kataszteri Program megvalósítására létrehozott szervezet a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból adatot szolgáltathat.
 
 6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő alaptevékenységük ellátásához az állami alapadatok adatbázisaiból egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
 
@@ -109,7 +119,8 @@ végzése;
 - c) az ingatlanrendező földmérő minősítési eljárásáért,
 - d) a földmérő igazolvány kiadásáért,
 - e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
-- f) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatáért és záradékolásáért, valamint a változások térképi adatbázisban történő soron kívüli átvezetéséért.
+- f) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatáért és záradékolásáért, valamint a változások térképi adatbázisban történő soron kívüli átvezetéséért,
+- g) az alaphálózati pontok pótlásának vagy áthelyezésének állami átvételéért.
 
 (4) A (3) bekezdés f) pontjában meghatározott soron kívüli eljárásért
 
@@ -118,6 +129,23 @@ végzése;
 - c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlantól ingatlanonként további 500 Ft összegű igazgatási szolgáltatási díjat kell fizetni.
 
 (5) Az (4) bekezdés szerinti eljárási díj a fővárosi és megyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
+
+(6) Szakirányú iskolarendszerű oktatási és tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában igazgatási szolgáltatási díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
+
+- a) a 3. § (1) bekezdés a) és b) pontjai esetében az 50 darabot;
+- b) a 3. § (1) bekezdés c) és d) pontjai esetében
+  - ba) külterületen 6 km2-t,
+  - bb) belterületen 3 km2-t,
+
+feltéve hogy nem éri el az adott fekvés területét;
+
+- c) a 3. § (1) bekezdés e) pontja esetében az egy szelvény méretet, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok esetén a négy szelvény méretet;
+- d) a 3. § (1) bekezdés f) pontja esetében a polgári földmérési és térképészeti tevékenység végzése során előállított állami alapadatok esetén a 48 km2-t, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok esetén a 1440 km2-t;
+- e) a 3. § (1) bekezdés g) pontja esetében a két szelvény méretet;
+- f) a 3. § (1) bekezdés h) pontja esetében a 100 rekordot;
+- g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
+
+(7) Az ingyenes adatszolgáltatást az oktatási vagy kutatási szervezet vezetőjének kell kérelmeznie.
 
 #### 6. Az ország térképellátása
 
@@ -281,7 +309,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 (3) Az állami alapadatokat és adatbázisokat az állami alapmunkák és alapfeladatok végzése és ellátása, az ingatlan-nyilvántartási célú munkák végrehajtása, valamint az egyéb célú földmérési és térképészeti tevékenység során kötelezően kell használni.
 
-(4) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott állami alapadatok használhatók fel.
+(4) Hatósági eljárásban csak az adatbázisokat kezelő szervek által szolgáltatott hitelesített állami alapadatok használhatók fel.
 
 #### 14. Felmérési, térképezési vagy területszámítási hiba kijavítása
 
@@ -544,6 +572,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 (2) A Kormány rendeletben állapítja meg a légi távérzékelés végrehajtásának, illetve a távérzékelt adat felhasználásának rendjét.
 
+(3) Aki légi távérzékelési tevékenységet engedély nélkül, vagy az engedélyben foglaltaktól eltérően végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
+
 #### 24. Földmérési távérzékelési és térképészeti munkarészek archiválása és selejtezése
 
 31. § (1) Az alapponthálózatok létesítésekor keletkezett munkarészek, az állami földmérési alaptérképek szelvényei és munkarészei, az ingatlan-nyilvántartási térképszelvények és az állami topográfiai térképek eredeti térképszelvényei nem selejtezhetők.
@@ -583,6 +613,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 34. § (1) A földmérési és térképészeti tevékenység ágazati irányításának szervei az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv.
 
 (2) Az e törvény hatálya alá tartozó hatósági ügyekben felügyeleti eljárásnak nincs helye.
+
+(3) A honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági ügyekben fellebbezésnek nincs helye.
 
 #### 27. Az ágazati igazgatás feladatai
 
@@ -628,7 +660,8 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 - d) állapítsa meg az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét és a változások átvezetésének szabályait,
 - e) állapítsa meg a levegőből végzett távérzékelés engedélyezésének és a távérzékelési adatok használatának rendjét,
 - f) határozza meg a magyarországi hivatalos földrajzi nevek megállapításának és nyilvántartásának rendjét,
-- g) határozza meg az e törvény alapján kiszabható bírságok mértékét.
+- g) állapítsa meg az e törvényben meghatározott bírságok kiszabására kijelölt szerveket, a kiszabható bírságok mértékét és a bírság kiszabásának módját,
+- h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -656,7 +689,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-- a) a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó földmérési és térképészeti tevékenység végzésének rendjét, a honvédelem térképészeti támogatásáért felelős szerv kijelölését, feladatait és hatáskörét,
+- a) a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó földmérési és térképészeti tevékenység végzésének rendjét,
 - b) a honvédelmi célú térképi adatbázisok vonatkoztatási és vetületi rendszerét, alapadat-tartalmát, létrehozásának, felújításának, kezelésének, fenntartásának és felhasználásának módját, valamint az állami átvétel és adatszolgáltatás rendjét,
 - c) a honvédelmi célú térképellátás szabályait,
 - d) a honvédelmi célú földmérési és térképészeti munkák végzésére, ellenőrzésére kiadott „Parancs” kiadásának rendjét,
@@ -692,7 +725,9 @@ felelős miniszterrel egyetértésben rendeletben határozza meg.
 
 (2) Az 1–10. §, a 11. § (1) bekezdésének a)–i) pontja, a 11. § (2) bekezdése, a 12. §, a 13. § (1) és (3)–(5) bekezdése, a 14. § (1)–(7) bekezdése, a 15. § (2) és (3) bekezdése, a 16–42. §, 43. § (1)–(4) bekezdése, (6)–(11) bekezdése és (13)–(17) bekezdése, a 45. § 2013. január 1-jén lép hatályba.
 
-(3) A 11. § (1) bekezdés j)–m) pontja, a 13. § (2) bekezdése, a 14. § (8) bekezdése, a 15. § (1) bekezdése, valamint a 43. § (5) és (12) bekezdése 2014. január 1-jén lép hatályba.
+(2a) A 11. § (1) bekezdés j) pontja 2013. március 1-jén lép hatályba.
+
+(3) A 11. § (1) bekezdés k)–m) pontja, a 13. § (2) bekezdése, a 14. § (8) bekezdése, a 15. § (1) bekezdése, valamint a 43. § (5) és (12) bekezdése 2014. január 1-jén lép hatályba.
 
 #### 32. Átmeneti rendelkezések
 
@@ -700,7 +735,7 @@ felelős miniszterrel egyetértésben rendeletben határozza meg.
 
 #### 33. Hatályon kívül helyező rendelkezés
 
-42. §
+#### 42. §
 
 #### 34. Módosító rendelkezések
 
@@ -714,11 +749,11 @@ felelős miniszterrel egyetértésben rendeletben határozza meg.
 
 (13)–(17)
 
-44. §
+#### 44. §
 
 #### 35. Hatályon kívül helyező rendelkezés
 
-45. §
+#### 45. §
 
 46. § (1)–(2)
 

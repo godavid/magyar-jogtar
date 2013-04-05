@@ -807,7 +807,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 40. § (1) A kivitelező felelős:
 
 - a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
-- b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült, erre jogosult tervellenőrrel ellenőriztetett kiviteli tervekben előírtak betartásáért és betartatásáért, valamint
+- b) az építtető által rendelkezésére bocsátott jogerős és végrehajtható építési engedélyben és a hozzá tartozó jóváhagyott engedélyezési tervekben, az ezek alapján készült kivitelezési tervekben előírtak betartásáért és betartatásáért, valamint
 - c) az elvégzett szakmunkák eredményeként létesült szerkezetek, berendezések, építmény, építményrész rendeltetésszerű és biztonságos használhatóságáért.
 
 (2) A felelős műszaki vezető felel:
@@ -951,7 +951,7 @@ végzik.
 
 (3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a jogerős építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
 
-(4) Jogosulatlan a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal.
+(4) Jogosulatlan a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal, vagy kivitelezési tevékenység végzéséhez szükséges jogosultság felfüggesztésének időtartama alatt folytat kivitelezési tevékenységet.
 
 (5) Szakszerűtlen a 16. §, a 32. §, a 33/A. §, a 38/A. §, a 38/B. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha azt a helyi építési szabályzat és az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy a tevékenység végzése az életet, az egészséget, a köz- és vagyonbiztonságot veszélyeztető állapotot vagy használatot eredményez.
 
@@ -1028,7 +1028,7 @@ végzik.
 - d) bírság megállapítása,
 - e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
 
-(2) A névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+(2) A névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
 
 - a) figyelmeztetés,
 - b) bírság megállapítása,
@@ -1232,7 +1232,7 @@ Kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény
   - ae) építésügyi igazgatási szakértői tevékenység,
   - af) a településtervezői tevékenység,
   - ag) a településrendezői szakértői tevékenység,
-  - ah) a tervellenőri tevékenység
+  - ah)
 
 folytatására engedélyt kérelmező személy,
 
@@ -1260,7 +1260,7 @@ kérelmező személy,
 (8) Az építésügy különböző területein keletkezett – a (9)–(10) bekezdésben meghatározott – személyes adatok kezelésével a Nyilvántartás célja
 
 - a) az építésügy körébe tartozó szakmai közfeladat ellátásának elősegítése,
-- b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének ellenőrizhetősége,
+- b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének, szerződéses kötelezettsége teljesítésének ellenőrizhetősége, elmulasztásának (11) bekezdés szerinti szankcionálhatósága,,
 - c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
 (9) Az építésügyért felelős állami vezető mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli:
@@ -1272,14 +1272,14 @@ kérelmező személy,
 - e) építészeti-műszaki tervező,
 - f) településtervező,
 - g) településrendezési szakértő,
-- h) tervellenőr,
+- h)
 - i) építésügyi igazgatási szakértő,
 - j) építésügyi műszaki szakértő,
 - k) vállalkozó kivitelező,
 - l) felelős műszaki vezető, valamint
 - m) energetikai tanúsító.
 
-(10) Az adatkezelő a (6) bekezdésben meghatározott kötelező adatkezelés során a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
+(10) Az adatkezelő a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
 
 - a) természetes személyazonosító adatok,
 - b) lakcím, székhely,

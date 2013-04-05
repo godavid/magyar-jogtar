@@ -332,6 +332,8 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott mértékű díjat számít fel.
 
+26/A. § Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
+
 ### Szankciók
 
 27. § A növénytermesztési hatóság e törvény és a végrehajtására kiadott jogszabályok rendelkezéseinek megsértése esetén

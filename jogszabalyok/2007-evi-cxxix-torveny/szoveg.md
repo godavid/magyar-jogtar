@@ -521,7 +521,7 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez.
 
 (2) A talajvédelmi hatóság a talajvédelmi követelmények, valamint a termőföld használat követelményei teljesítéséről hatósági bizonyítványt ad ki.
 
-(3) A talajvédelmi hatósági eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(3) A talajvédelmi hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
 53. § (1) A talajvédelmi hatóság a talajvédelmi felügyelő útján ellenőrzi
 

@@ -98,7 +98,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### VI. CÍM — A SAJTÓ KÖTELEZETTSÉGEI
 
-13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
+13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
 
 14. § (1) A médiaszolgáltatónak az általa közzétett médiatartalomban tiszteletben kell tartania az emberi méltóságot.
 

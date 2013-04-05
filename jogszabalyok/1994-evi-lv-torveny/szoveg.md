@@ -186,9 +186,9 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 ### Használati jogok
 
-11. § (1) Semmis a haszonélvezeti jog szerződéssel történő alapítása, kivéve, ha a szerződés közeli hozzátartozó javára alapít haszonélvezeti jogot.
+11. § (1) Semmis a haszonélvezeti jog szerződéssel történő alapítása, kivéve, ha a szerződés közeli hozzátartozó javára alapít haszonélvezeti jogot. A használat jogának szerződéssel való alapítására, valamint a közeli hozzátartozók között szerződéssel alapított haszonélvezeti jog esetében a II. fejezetnek a tulajdonszerzésre vonatkozó rendelkezéseit megfelelően kell alkalmazni.
 
-(2) A földhasználót a más használatában levő ingatlanon öntözési telki szolgalom illeti meg, amennyiben mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében a víz odajuttatását, szétosztását, illetve annak elvezetését másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel lehetne biztosítani. A telki szolgalom gyakorlása során a szolgalommal terhelt ingatlan birtokosának érdekeit kímélve kell eljárni, a szolgalommal terhelt ingatlant csak a szükséges mértékben, az akadályoztatás (korlátozás) mértékének megfelelő kártalanítás mellett lehet igénybe venni. Megszűnik a szolgalom, ha az annak alapítására vonatkozó feltételek is megszűntek.
+(2) A földhasználót a más használatában levő ingatlanon öntözési szolgalom illeti meg, amennyiben mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében a víz odajuttatását, szétosztását, illetve annak elvezetését másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel lehetne biztosítani. A szolgalom gyakorlása során a szolgalommal terhelt ingatlan birtokosának érdekeit kímélve kell eljárni, a szolgalommal terhelt ingatlant csak a szükséges mértékben, az akadályoztatás (korlátozás) mértékének megfelelő kártalanítás mellett lehet igénybe venni. Megszűnik a szolgalom, ha az annak alapítására vonatkozó feltételek is megszűntek.
 
 (3) A termőföld szaporítóanyag-termeléssel történő hasznosítása során a földhasználó köteles vetésterveit — a külön jogszabályban előírt mértékű védőtávolságok betartása érdekében — egyeztetni a szomszédos földhasználóval. Egyebekben a Ptk.-nak a szomszédjogra vonatkozó rendelkezéseit a termőföldek esetében is megfelelően alkalmazni kell.
 
@@ -333,6 +333,10 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 18/A. § (1) Ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező termőföld osztatlan közös tulajdonban állt, és a szerződés fennállása alatt a közös tulajdon megszüntetésére a földrendező és földkiadó bizottságokról szóló törvény szabályai szerint került sor, a haszonbérbe adó (illetve annak jogutódja) a haszonbérletet a gazdasági év végére akkor is felmondhatja, ha a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésre irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy a haszonbérlő felé a felmondással egyidejűleg úgy nyilatkozik, miszerint azt saját maga kívánja használni.
 
+(2) A haszonbérbe adó személyében bekövetkező változás esetén – ide nem értve a törvényes öröklés esetét – a haszonbérbe adó jogutódja a haszonbérletet 60 napos felmondással a gazdasági év végére megszüntetheti, ha a felmondással egyidejűleg kötelezettséget vállal arra, hogy a tulajdonába került termőföldet öt éven belül nem idegeníti el, és azt saját maga használja. A szerződés megszűnésekor – eltérő megállapodás hiányában – a haszonbérbe adó jogutódja és a haszonbérlő köteles egymással elszámolni.
+
+(3) Az (1)–(2) bekezdés szerinti felmondás csak írásban érvényes. Ha azt a másik fél három napon belül nem veszi tudomásul, a felmondást gyakorló további nyolc napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
+
 19. § (1) A magánszemély haszonbérlő azonnali hatállyal felmondhatja a haszonbérletet, ha egészségi állapota oly mértékben romlik meg, vagy családi és életkörülményeiben olyan tartós változás következik be, amely a haszonbérletből eredő kötelezettségeinek teljesítését akadályozza, továbbá abban az esetben, ha a mezőgazdasági termelő a gazdaságátadási támogatást igénybe veszi.
 
 (2) Az (1) bekezdésben meghatározott esetben a haszonbérlő — az azonnali hatályú felmondás helyett — a tulajdonos hozzájárulásával kijelölheti azt a magánszemélyt, aki a haszonbérleti szerződésben a helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.
@@ -428,7 +432,9 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (1e) A földhasználó által bejelentett azonosító adatokat az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás, illetve a cégnyilvántartás adataiból ellenőrizheti.
 
-(2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia.
+(2) Aki termőföldet használ, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia. E bekezdésben foglaltakat zártkert esetében a (2a) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(2a) Zártkert esetében az (1) bekezdésben előírt bejelentési kötelezettség csak azt terheli, aki a haszonélvezeti jogánál fogva, vagy a tulajdonossal, illetve a haszonélvezővel való megállapodás alapján használja a zártkertet.
 
 (3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés – osztatlan közös tulajdonban álló földrészlet használata esetén az egységes okiratba foglalt használati megállapodás, illetve szerződés – eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
 
@@ -691,5 +697,7 @@ rendelettel megállapítsa.
 (8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. április 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
 
 (9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.
+
+(10) Az egyes agrár tárgyú törvények módosításáról szóló 2013. évi XXXV. törvény (a továbbiakban: Módtv. 3.) 6. §-ával módosított 11. § (1) bekezdésében foglaltakat – az ingatlan-nyilvántartásról szóló törvényben foglaltaktól eltérően – a Módtv. 3. hatálybalépésekor folyamatban lévő, valamint a megismételt ingatlan-nyilvántartási eljárásokban is alkalmazni kell.
 
 ### 1–3. számú melléklet az 1994. évi LV. törvényhez
