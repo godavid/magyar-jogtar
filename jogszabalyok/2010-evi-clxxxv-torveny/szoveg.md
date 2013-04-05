@@ -1319,7 +1319,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 (2) Amennyiben a médiaszolgáltató a jogvitás eljárásban a szerződés tartalmára vonatkozó megegyezés hiányában a 172. § (3) bekezdésében foglaltaknak megfelelően a szerződés létrehozását, illetve tartalmának megállapítását kéri a Médiatanácstól, a Médiatanács a hatáskörének gyakorlása során a szerződés tartalmát kizárólag oly módon állapíthatja meg a kérelem megalapozottsága esetén, hogy
 
 - a) a médiaszolgáltatás terjesztésére a műsorterjesztő legnagyobb elérést biztosító előfizetői szolgáltatásában, programcsomagjában is kerüljön sor,
-- b) az (1)–(3) és (7) bekezdés szerinti médiaszolgáltatások továbbításáért a műsorterjesztő nem jogosult ellenszolgáltatásra (ideértve a műsorszétosztás vételének kiépítési díját is), illetve a médiaszolgáltató nem jogosult programdíjra (műsordíjra),
+- b) a 75. § (1)–(3) és (7) bekezdés szerinti médiaszolgáltatások továbbításáért a műsorterjesztő nem jogosult ellenszolgáltatásra (ideértve a műsorszétosztás vételének kiépítési díját is), illetve a médiaszolgáltató nem jogosult programdíjra (műsordíjra),
 - c) a médiaszolgáltatás terjesztésére vonatkozó szerződés időbeli hatálya egy év azzal, hogy amennyiben a szerződés időtartamának lejárta előtt legkésőbb 90 nappal egyik fél sem jelzi írásban a másik szerződő félnek, hogy a szerződés hatályának meghosszabbítását nem kívánja, úgy a szerződés időbeli hatálya egy alkalommal – változatlan szerződéses feltételekkel – egy évvel automatikusan meghosszabbodik.
 
 77. § (1) A műsorterjesztő köteles a médiaszolgáltatókkal az e fejezetben meghatározott továbbítási kötelezettség keretében kötött valamennyi szerződését, illetve azok módosításait – a megkötést vagy a módosítást követ ő harminc napon belül – a Hivatal részére megküldeni, valamint e szerződések megszűnéséről a Hivatalt – a megszűnést követő harminc napon belül – tájékoztatni.
@@ -1920,15 +1920,28 @@ Ennek keretében:
 - n) a hírközlés területén másodfokú szervként jár el a Hivatal törvényben meghatározott hatósági ügyei tekintetében,
 - o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
 
-(3) Az Elnököt a miniszterelnök nevezi ki kilenc évre.
-
-(4) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(5) Az Elnök a (3) bekezdésben meghatározott időtartam lejárta után újból kinevezhető.
+(3)–(5)
 
 (6) Az Elnököt nem lehet utasítani feladatkörének ellátásával és hatáskörének gyakorlásával kapcsolatos eljárása és döntése vonatkozásában. Az Elnök – a Hivatal törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre a Hivatalnak utasítást nem adhat.
 
-112. § (1) Az Elnök jogosult két elnökhelyettes határozatlan időre történő kinevezésére. Az elnökhelyettes kinevezésére a 111. § (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+111/A. § (1) Az Elnököt a miniszterelnök javaslatára a köztársasági elnök nevezi ki kilenc évre.
+
+(2) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint rendelkezik felsőfokú jogi, közgazdasági vagy társadalomtudományi végzettséggel és
+
+- a) legalább ötéves, a médiaszolgáltatások vagy a sajtótermékek hatósági felügyeletével vagy a hírközlési hatósági felügyelettel összefüggő gyakorlattal, vagy
+- b) e tudományágak területén a médiára vagy a hírközlésre vonatkozó tárgyban
+  - ba) Magyarországon elismert tudományos fokozattal, vagy
+  - bb) legalább tízéves oktatói gyakorlattal felsőoktatási intézményben.
+
+(3) Az Elnök a megbízatásának megszűnése után nem nevezhető ki újra.
+
+(4) A miniszterelnök az (1) bekezdés szerinti javaslat megtételét megelőzően – a hivatalban lévő Elnök megbízatási idejének lejártát megelőzően legalább hatvan nappal, az elnöki megbízatás megszűnésének más eseteiben a megszűnést követő tizenöt napon belül – felkéri a Közszolgálati Testületet, a Nemzeti Hírközlési és Informatikai Tanácsot, valamint a hírközlési szolgáltatók, a médiatartalom-szolgáltatók, a műsorterjesztők és az újságírók országos működési területű, legalább öt éve működő szakmai, érdekképviseleti és önszabályozó szervezeteit, hogy tegyenek javaslatot az elnökjelölt személyére.
+
+(5) A felkért szervezetek a javaslataikat írásban teszik meg, és abban ismertetik az elnökjelöltnek javasolt személy szakmai életútját, figyelemmel a (2) bekezdés szerinti szakmai feltételekre is, továbbá a javaslatukat megindokolják. A javaslattételre felkért szervezetek az elnökjelöltnek javasolt személy nevét közzétehetik, feltéve, hogy ahhoz a javasolt személy hozzájárult. A miniszterelnök a felkért szervezetek javaslatainak megismerése érdekében – személyesen vagy az általa kijelölt állami vezető útján – közvetlen egyeztetést is tart.
+
+(6) A miniszterelnök a javaslatát az egyeztetés során felmerült személyi javaslatok megfontolását követően teszi meg.
+
+112. § (1) Az Elnök jogosult két elnökhelyettes határozatlan időre történő kinevezésére. Az elnökhelyettes kinevezésére a 111/A. § (2) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (2) Az elnökhelyettes a Szervezeti és Működési Szabályzatban meghatározott feltételek esetén helyettesíti az elnököt. Az Elnök a másodfokú hatósági döntési hatáskört jogosult – megfelelően körülírt felhatalmazással – az érintett elnökhelyettesre delegálni. E delegált hatáskörében eljárva az elnökhelyettes nem utasítható a másodfokú hatósági döntéshozatal során. Az elnökhelyettes egyéb feladatait a Szervezeti és Működési Szabályzat határozza meg.
 
@@ -1947,15 +1960,17 @@ Ennek keretében:
 - a) a megbízatás időtartama lejár,
 - b) lemond,
 - c) meghal,
-- d) a miniszterelnök a (2) bekezdés szerint felmenti,
+- d) a köztársasági elnök a (2) bekezdés szerint felmenti,
 - e) az Országgyűlés a kinevezésétől számítva 30 napon belül – amennyiben olyan időpontban történik a kinevezés, amely az Országgyűlés ülésszakán kívül esik, úgy a következő ülésszak kezdetétől számított 15 napon belül – nem választja meg a Médiatanács elnökévé.
 
-(2) A miniszterelnök felmenti az Elnököt, ha
+(2) A köztársasági elnök felmenti az Elnököt, ha
 
 - a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
 - b) ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az Elnök bűnösségét a bíróság – szabadságvesztés vagy az Elnök tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
 - c) cselekvőképességet érintő gondnokság alá helyezték,
 - d) ha neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak.
+
+(2a) A köztársasági elnök a (2) bekezdés szerinti döntését a miniszterelnök javaslata alapján hozza meg.
 
 (3) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén az Elnököt a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az Elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 
@@ -2004,7 +2019,7 @@ amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként h
 
 115. § (1) A főigazgatót az Elnök nevezi ki.
 
-(2) A főigazgató kinevezésére a 111. § (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(2) A főigazgató kinevezésére a 111/A. § (2) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (3) A főigazgató államtitkári illetményre és juttatásokra jogosult.
 
@@ -2171,7 +2186,12 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással, kivéve, ha az elnök megbízatása a 113. § (1) bekezdés b)–e) pontjában, a tag megbízatása pedig a 129. § (1) bekezdés b)–f) pontjában foglalt valamely okból szűnik meg. Utóbbi esetben az elnök-, illetve a tagjelöltről az Országgyűlés külön szavaz.
 
-(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint rendelkezik felsőfokú jogi, közgazdasági vagy társadalomtudományi végzettséggel és
+
+- a) legalább ötéves, a médiaszolgáltatások vagy a sajtótermékek hatósági felügyeletével vagy a hírközlési hatósági felügyelettel összefüggő gyakorlattal, vagy
+- b) e tudományágak területén a médiára vagy a hírközlésre vonatkozó tárgyban
+  - ba) Magyarországon elismert tudományos fokozattal, vagy
+  - bb) legalább tízéves oktatói gyakorlattal felsőoktatási intézményben.
 
 (3) A Médiatanács tagjaira
 
@@ -2190,15 +2210,15 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (9) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.
 
-125. § (1) A Hatóság miniszterelnök által kinevezett Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik.
+125. § (1) A Hatóság köztársasági elnök által kinevezett Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik.
 
 (2) A Médiatanács elnöke és tagja a megválasztásával, illetve – ha megválasztására hivatali elődje megbízatásának megszűnését megelőzően kerül sor – hivatali elődje megbízatásának megszűnésekor hivatalba lép.
 
-(3) Ha a Hatóság Elnökének a megbízatása a 113. § (1) bekezdés b)–d) pontok szerint megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Amennyiben a Hatóság Elnökének megbízatása lejár, úgy a 216. § (8) bekezdésben foglaltakat kell alkalmazni. A Hatóság miniszterelnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról – a 124. § (1) bekezdésben foglaltak szerint listás vagy külön szavazással – az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
+(3) Ha a Hatóság Elnökének a megbízatása a 113. § (1) bekezdés b)–d) pontok szerint megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Amennyiben a Hatóság Elnökének megbízatása lejár, úgy a 216. § (8) bekezdésben foglaltakat kell alkalmazni. A Hatóság köztársasági elnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról – a 124. § (1) bekezdésben foglaltak szerint listás vagy külön szavazással – az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
 
 (4)
 
-(5) A Médiatanács tagja és elnöke újraválasztható, ha a megbízatása nem összeférhetetlenségi okból, felmentéssel, vagy kizárással szűnt meg.
+(5) A Médiatanács elnöke és tagja nem választható újra.
 
 (6) Az új tag megbízatása a Médiatanács korábban megválasztott tagjai megbízatásának hátralévő idejére szól.
 
@@ -2404,7 +2424,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
 
-(3) A Biztosra megfelelően alkalmazni kell a 111. § (4) bekezdésében foglaltakat.
+(3) A Biztosra megfelelően alkalmazni kell a 111/A. § (2) bekezdésében foglaltakat.
 
 (4) A Biztost a feladatai ellátásában az általa vezetett Média- és Hírközlési Biztos Hivatala (a továbbiakban: Biztos hivatala) segíti, a Biztos hivatalának köztisztviselőit az Elnök nevezi ki és menti fel, a Biztos gyakorolja az egyéb munkáltatói jogokat.
 
@@ -2548,7 +2568,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (5) Amennyiben a kérelmező a jogsértésről csak később szerzett tudomást, vagy a kérelem, bejelentés előterjesztésében akadályoztatva volt, úgy a (4) bekezdésben foglalt határidő a tudomásszerzéstől vagy az akadály megszűnésével veszi kezdetét. A médiatartalommal kapcsolatos jogsértés tárgyában a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított hat hónapon túl hatósági eljárás nem kezdeményezhető. E határidő jogvesztő.
 
-(6) Az Smtv. 14–20. §, az Mttv. 9–11. §, 12. § (3)–(4) bekezdés, 14. § és 23–36. § megsértésével kapcsolatban a hatóság hivatalból a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított egy éven belül indíthatja meg a hatósági eljárást.
+(6) Az Smtv. 14. és 16–20. §, az Mttv. 9–11. §, 12. § (3)–(4) bekezdés, 14. § és 23–36. § megsértésével kapcsolatban a hatóság hivatalból a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított egy éven belül indíthatja meg a hatósági eljárást.
 
 ### A hatáskör és az illetékesség vizsgálata
 
@@ -2918,7 +2938,7 @@ a Biztos hivatalánál panasszal élhet.
 - b) hatósági felügyeletet gyakorol az e törvényben foglalt alábbi rendelkezések tekintetében:
   - ba) a gyermekek és a kiskorúak védelmére vonatkozó előírások,
   - bb) kiemelten nagy jelentőséggel bíró esemény közvetítésével kapcsolatos előírások,
-  - bc) az országgyűlési közvetítéssel kapcsolatos szabályok,
+  - bc)
   - bd) a rendkívüli helyzetekre vonatkozó, médiaszolgáltatást érintő rendelkezések,
   - be) a műsorkvótákra vonatkozó követelmények,
   - bf) a kereskedelmi közleményekre vonatkozó, 23–25. §-ban meghatározott előírások,
@@ -3093,9 +3113,9 @@ a Biztos hivatalánál panasszal élhet.
 
 (2) A Médiatanács a közigazgatási szerződésben az alábbi hatósági ügytípusok – a kódex hatálya alá tartozó vállalkozások irányában, nem hatósági feladatként történő – ellátására hatalmazhatja fel az önszabályozó szervezeteket:
 
-- a) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtatott sajtótermékek tekintetében,
-- b) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
-- c) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
+- a) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtatott sajtótermékek tekintetében,
+- b) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
+- c) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
 - d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében.
 
 (3) A Médiatanács által – a (2) bekezdésben meghatározott hatósági ügytípus tekintetében – az önszabályozó szervezet számára biztosított felhatalmazás magában foglalja:
@@ -3306,9 +3326,9 @@ c) azon mű, amely eredetileg valamely, Magyarország által elismert nemzetisé
 
 d) az olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely Magyarország által elismert valamely nemzetiség nyelvén kerül előadásra, ha az adott nemzetiség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
 
-e) az olyan instrumentális zenei műsorszám, amely – elsősorban szerzője vagy előadója révén – a magyar vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi, vagy
+e) az olyan instrumentális zenei műsorszám, amely a magyar kultúra vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi.
 
-f) azon filmalkotás, amely a mozgóképről szóló törvény értelmében magyarnak minősül.
+f)
 
 38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
 
@@ -3462,6 +3482,8 @@ rendeletben megállapítsa.
 
 (3) Amennyiben e törvény hatálybalépéséig a közszolgálati médiaszolgáltatók új, közös Felügyelő Bizottságának elnöke és tagjai, illetve közös könyvvizsgálójuk nem kerülnek megválasztásra, úgy a korábbi felügyelő bizottságok tagjainak és elnökeinek, valamint a könyvvizsgálóknak a megbízatása az új Felügyelő Bizottság, illetve könyvvizsgáló megválasztásakor szűnik meg.
 
+(4) A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosításáról szóló 2013. évi XXXIII. törvény (a továbbiakban: Módtv.) által megállapított 111/A. § (3) bekezdését és 125. § (5) bekezdését a Módtv. hatálybalépésekor hivatalban lévő Elnökre és a Médiatanácsnak a hatálybalépéskor hivatalban lévő elnökére is alkalmazni kell. A Módtv. hatálybalépése a hatálybalépéskor hivatalban lévő Elnök és a Médiatanácsnak a hatálybalépéskor hivatalban lévő elnöke és tagjai megbízatásának fennállását nem érinti.
+
 ### A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok
 
 212. § (1) Az Rttv. alapján megalkotott Közszolgálati Műsorszolgáltatási Szabályzatot annak megalkotója köteles összhangba hozni a Közszolgálati Kódexszel, vagy ennek hiányában köteles azt hatályon kívül helyezni.
@@ -3504,7 +3526,7 @@ rendeletben megállapítsa.
 
 (3) E törvény hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-(4) Az Smtv. 14–20. § megsértése miatt lekérhető médiaszolgáltatás médiaszolgáltatójával vagy sajtótermék kiadójával szemben, valamint e törvény Második Részének I. Fejezetében foglalt előírások megsértése miatt a lekérhető médiaszolgáltatás médiaszolgáltatójával szemben az e törvény szerinti hatósági eljárás csak 2011. július 1. után, ezen időpontot követően elkövetett jogsértés miatt indítható. E törvény 9. § (3) bekezdésében, 10. § (1) bekezdés a) pontjában, 72. § (3) bekezdésében, valamint 74. § (3) bekezdésében foglalt kötelezettségeknek a médiaszolgáltatók, illetve műsorterjesztők 2011. április 1. után kötelesek eleget tenni. Velük szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.
+(4) Az Smtv. 14. és 16–20. § megsértése miatt lekérhető médiaszolgáltatás médiaszolgáltatójával vagy sajtótermék kiadójával szemben, valamint e törvény Második Részének I. Fejezetében foglalt előírások megsértése miatt a lekérhető médiaszolgáltatás médiaszolgáltatójával szemben az e törvény szerinti hatósági eljárás csak 2011. július 1. után, ezen időpontot követően elkövetett jogsértés miatt indítható. E törvény 9. § (3) bekezdésében, 10. § (1) bekezdés a) pontjában, 72. § (3) bekezdésében, valamint 74. § (3) bekezdésében foglalt kötelezettségeknek a médiaszolgáltatók, illetve műsorterjesztők 2011. április 1. után kötelesek eleget tenni. Velük szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.
 
 (5) A 171. §-ban foglaltakat a folyamatban lévő eljárásokra is alkalmazni kell azzal, hogy a szakhatósági eljárásért a díjat utólag nem kell megfizetni.
 

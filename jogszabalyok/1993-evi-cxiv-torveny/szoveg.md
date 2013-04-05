@@ -430,6 +430,8 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (2) A 17. § d) pontjában, 18. §-ának (1) bekezdésében, (3) bekezdésének a) pontjában és a 16. § a), b), c) és e) pontjaiban felsorolt feladatok ellátásához az állam hozzájárul.
 
+(3) E törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
+
 ### Ellenőrzés
 
 44. § A tenyésztési hatóság eljárása során minden olyan helyen ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak.

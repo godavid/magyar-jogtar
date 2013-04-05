@@ -1115,7 +1115,7 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 86. § (1) Az erdőt két vagy több földrészletre csak abban az esetben lehet megosztani, ha az a fenntartható erdőgazdálkodást nem veszélyezteti.
 
-(2) Megosztással csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe a 7. § (1) bekezdés a)–b) pontja szerinti természetességi állapotú erdő esetében három hektárnál, a 7. § (1) bekezdés c)–f) pontja szerinti természetességi állapotú erdő esetében másfél hektárnál nagyobb, kivéve, ha a megosztás célja erdő igénybevétele.
+(2) Megosztással csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe a 7. § (1) bekezdés a)–b) pontja szerinti természetességi állapotú erdő esetében kettő hektárnál, a 7. § (1) bekezdés c)–f) pontja szerinti természetességi állapotú erdő esetében egy hektárnál nagyobb, kivéve, ha a megosztás célja erdő igénybevétele.
 
 ### IX. Fejezet — AZ ERDŐ SZÁLLÍTÁS CÉLJÁRA TÖRTÉNŐ IGÉNYBEVÉTELE, ILLETVE AZ ERDŐ LÁTOGATÁSA
 
@@ -1327,7 +1327,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 105. § (1) Az erdészeti hatósági eljárásokban hozott határozatok fellebbezéssel nem támadott rendelkezései tekintetében a jogorvoslati határidő elteltével beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-(2) A kérelemre indult erdészeti hatósági eljárásokban igazgatási-szolgáltatási díjat kell fizetni.
+(2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
 ### XII. Fejezet — AZ ELRENDELT ERDŐGAZDÁLKODÁSI TEVÉKENYSÉG, AZ ERDŐGAZDÁLKODÁSI BÍRSÁG ÉS AZ ERDŐVÉDELMI BÍRSÁG
 
@@ -1451,7 +1451,8 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - 22. az erdő művelési ág megállapításának és az erdő megosztásának részletes szabályait;
 - 23. a közjóléti létesítmények nyilvántartásának és a közjóléti fejlesztési tervek készítésének részletes szabályait;
 - 24. a földalatti gombák gyűjtésére vonatkozó részletes szabályokat;
-- 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait.
+- 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
+- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet, valamint az erdővédelmi szolgálat tagjának szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 

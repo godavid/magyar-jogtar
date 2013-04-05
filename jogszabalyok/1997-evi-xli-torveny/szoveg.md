@@ -804,6 +804,8 @@ kapcsolatos személyi és dologi költségek részbeni vagy teljes fedezésére 
 - e) a halászat céljainak megvalósítását elősegítő egyéb önkéntes befizetésekből,
 - f) jogszabály által előírt egyéb befizetésekből származó bevételek.
 
+(3) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
+
 Vhr. 32. § (1) A Hhtv. 52. §-a (1) bekezdésének a)–f) pontjaiban felsorolt tevékenységekhez támogatás elnyerésére a miniszter évente nyilvános pályázatot ír ki.
 
 (2) A pályázat elbírálása során a miniszter az Országos Halászati Bizottság véleménye alapján határoz.
@@ -866,7 +868,8 @@ Hhtv. 56. § (1) Felhatalmazást kap a miniszter arra, hogy:
 - k) a tudományos kutatási célú halászati engedély kiadásának részletes szabályait,
 - l) az idegen és nem honos halfajok telepítésének szabályait,
 - m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat,
-- n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat
+- n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat,
+- o) a halászati őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat
 
 rendeletben határozza meg.
 

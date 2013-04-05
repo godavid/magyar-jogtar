@@ -319,7 +319,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 12/E. § (1) A részarány-tulajdonnak megfelelő föld kiadása, illetve a részarány-földtulajdon helyének meghatározására irányuló eljárás eredményeként kialakított földrészleten fennálló közös tulajdon megszüntetésére e törvény rendelkezéseit kell alkalmazni, ha a tulajdonostársak a közös tulajdont szerződéssel nem szüntetik meg.
 
-(2) E fejezet rendelkezései nem alkalmazhatók az erdőkre, kivéve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 4. §-a (1) bekezdésének b) pontjában meghatározottakat.
+(2) E fejezet rendelkezései nem alkalmazhatók a halastó művelési ágú ingatlanokra, valamint az erdőkre, ide nem értve a külterületen található – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 12. §-a (1) bekezdése szerinti – fásítást.
 
 12/F. § (1) Ha a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba jogerősen bejegyezték, bármely tulajdonostárs kezdeményezheti az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg. Az önálló ingatlan kialakítása iránti kérelmet legkésőbb 2012. június 1-jéig lehet benyújtani az ingatlanügyi hatósághoz. E határidő elmulasztása esetén a közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
 
@@ -331,7 +331,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 12/G. § (1) Az önálló ingatlan kialakítására vonatkozó kérelmet írásban az ingatlanügyi hatóság által erre rendszeresített nyomtatványon kell benyújtani. A kérelmet több tulajdonostárs együttesen is benyújthatja, és kérhetik az önálló ingatlan osztatlan közös tulajdonban történő kiadását.
 
-(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát figyelemmel a művelhetőségi, és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság és a település polgármesteri hivatalának hirdetőtábláján nyolc napra történő kifüggesztéssel kell az érintettekkel közölni. Ezen időtartamon belül a döntés ellen fellebbezésnek van helye.
+(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát, figyelemmel a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság a település polgármesteri hivatalának hirdetőtábláján legalább nyolc napra történő kifüggesztéssel közli az érintettekkel, és ezen időtartamon belül lehet a határozatot fellebbezéssel megtámadni. Ebbe a határidőbe nem számít bele a határozat kifüggesztésének és a levételének a napja.
 
 12/H. § (1) A kérelmező tulajdonostársak közötti egyezség hiányában az adott földrészlet vonatkozásában a kiosztás sorrendjét sorsolással kell megállapítani. Az egyezségnek vagy a kisorsolt sorrendnek megfelelően a tulajdonostársakat tulajdoni hányaduknak megfelelően a földrészlet meghatározott részéhez kell rendelni.
 
@@ -356,6 +356,10 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 12/J. § Ha közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) alatt – a termőföldről szóló törvényben meghatározott – használati megosztásról szóló megállapodás a tulajdonostársak között fennáll, e megállapodást a megosztási eljárásban úgy kell tekinteni, mintha a tulajdonostársak a kiosztási sorrend egymás közötti meghatározására teljes körű egyezséget kötöttek volna. Ez esetben a megosztási eljárás során nem kell dönteni a megosztás kiindulási helyének és az osztás irányának a meghatározásáról.
 
 12/K. § A közös tulajdonnak az e törvény rendelkezései szerinti megszüntetése következtében létrejött közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni
+
+12/L. § (1) Az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott földmérő vállalkozó vagy vállalkozás és jogi szolgáltató részére az ingatlanügyi hatóság átadja a 12/F. § (1) bekezdésében foglalt kérelemben szereplő adatokat és a kérelemmel érintett ingatlan tulajdonosainak a tulajdoni lapon szereplő természetes személyazonosító adatait.
+
+(2) A földmérő vállalkozó vagy vállalkozás és jogi szolgáltató az (1) bekezdésben meghatározott adatokat a megosztási eljárás befejezéséig az (1) bekezdésben meghatározott kormányrendelet szerinti feladatai ellátása céljából kezelheti.
 
 ### Záró rendelkezések
 
@@ -397,14 +401,14 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-18. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő olyan ügyekben is alkalmazni kell, amelyekben a közigazgatási hatósági eljárás a Módtv. hatálybalépését megelőzően benyújtott, egy adott földrészleten fennálló osztatlan közös tulajdon megszüntetésére irányuló kérelem alapján indult.
+18. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) és (2a) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő olyan ügyekben is alkalmazni kell, amelyekben a közigazgatási hatósági eljárás a Módtv. hatálybalépését megelőzően benyújtott, egy adott földrészleten fennálló osztatlan közös tulajdon megszüntetésére irányuló kérelem alapján indult.
 
 (2) A Módtv. hatálybalépése előtt indult olyan eljárást,
 
 - a) amelynek költségét a kérelmező megelőlegezte, a költségvállalást tartalmazó nyilatkozat benyújtásának,
-- b) amelyben az ingatlanügyi hatóság jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának
+- b) amelyben az ingatlanügyi hatóság a keretmérést elvégezte, vagy jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
-időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
+(2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
 (3) A (2) bekezdés a) pontja szerinti eljárás megelőlegezett költségét a kérelmező 2013. december 31-éig igényelheti vissza a mezőgazdasági szakigazgatási szervtől az ingatlanügyi hatóság által kiállított számla és a megelőlegezett költségek megfizetéséről kiállított számviteli bizonylat alapján.
 
