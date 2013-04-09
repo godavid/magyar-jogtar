@@ -2111,6 +2111,32 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 37. § A NAV a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.
 
+### Rejtett ellenőrzés elrendelése
+
+37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdésében meghatározott célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+
+- a) arra a személyre, akiről
+  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
+  - ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
+- b) az a) pontban meghatározott személlyel kapcsolatba hozható a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
+
+### A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
+
+37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36. § (1) bekezdésében meghatározott intézkedéseket foganatosíthatja.
+
+(2) A pénzügyőr a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
+
+(3) A pénzügyőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
+
+- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- b) az intézkedés helye, ideje, indoka,
+- c) az utazás útvonala és az úti cél,
+- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
+- e) a használt jármű azonosításához szükséges adatok,
+- f) a szállított tárgyakra vonatkozó adatok.
+
+(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
+
 ### Közös szabályok a kényszerítő eszközökre
 
 38. § (1) A pénzügyőr e törvényben meghatározott jogszerű intézkedése elleni tettleges ellenszegülés megtörésére törvényben meghatározott intézkedést tehet, és kényszerítő eszközt alkalmazhat.
@@ -2269,26 +2295,13 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Leplezett figyelés elrendelése
 
-54. § A felhatalmazott szervek a 13. § (7) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el Magyarország vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+#### 54. §
 
 ### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés
 
 végrehajtása
 
-55. § (1) Ha a pénzügyi nyomozó – ide nem értve a nem hivatásos pénzügyi nyomozót – az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során a 36. § (1) bekezdésében meghatározott intézkedéseket foganatosíthatja.
-
-(2) A pénzügyi nyomozó – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
-
-(3) A pénzügyi nyomozó a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
-
-- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
-- b) az intézkedés helye, ideje, indoka,
-- c) az utazás útvonala és az úti cél,
-- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-- e) a használt jármű azonosításához szükséges adatok,
-- f) a szállított tárgyakra vonatkozó adatok.
-
-(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
+#### 55. §
 
 ### Az együttműködők díjazása
 
@@ -2776,8 +2789,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 99. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [54. §–55. §],
-- b) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [54. §–55. §],
+- a)
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36–37. cikkei [37/A–37/B. §],
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
 - d) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
 - e) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].

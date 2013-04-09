@@ -410,9 +410,9 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 (3) A nemzetbiztonsági szolgálatok haladéktalanul kötelesek intézkedni a jelzés elhelyezésének megszüntetéséről, ha az arra okot adó körülmény megszűnt.
 
-41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe leplezett figyelésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a Rendőrségnél, ha a birtokukba került adatok alapján Magyarország nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
+41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a rendőrségnél, ha a birtokukba került adatok alapján Magyarország nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
 
-(2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról Schengenben 1990. június 19-én aláírt egyezmény 99. cikk (3) bekezdése szerinti konzultációt követően kezdeményezhetik a leplezett figyelésre irányuló figyelmeztető jelzés elhelyezését.
+(2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikk (3) bekezdése szerinti tájékoztatást követően kezdeményezhetik a rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését.
 
 42. § (1)
 
@@ -874,8 +874,8 @@ tekintetében.
 
 80. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
 
-- a) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [41/A. §];
-- b) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [41/A. §];
+- a)
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],
 - c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
 
 81. §

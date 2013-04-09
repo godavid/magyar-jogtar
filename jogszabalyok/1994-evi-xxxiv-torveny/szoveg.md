@@ -521,7 +521,8 @@ igazolja.
 - d) aki a szülői felügyelet vagy a gyámság, illetőleg a nevelőszülőnél vagy gyermekotthonban történő elhelyezése alól hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a körözését gyermek átadására irányuló bírósági végrehajtás során rendelték el;
 - e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 - f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
-- g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye.
+- g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye;
+- h) akit a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés alapján védelem alá kell helyezni.
 
 (3) A rendőrség az előállítással a személyi szabadságot csak a szükséges ideig, de legfeljebb 8 órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a rendőri szerv vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát a rendőri intézkedés kezdetétől kell számítani.
 
@@ -704,17 +705,22 @@ törölni kell.
 
 46/A. § A rendőrség a büntetőeljárásban résztvevők és az eljárást folytató hatóság tagjainak személyi védelmét, valamint a Védelmi Program végrehajtásával összefüggő feladatokat külön jogszabály szerint látja el. A Védelmi Program végrehajtásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások speciális működési kiadásoknak tekintendők. Az ilyen kiadások fedezésére szolgáló elkülönített előirányzatra, annak kezelésére a 68/A. § (1) bekezdésében meghatározott rendelkezést kell alkalmazni.
 
-### Leplezett figyelés elrendelése
+### Rejtett ellenőrzés elrendelése
 
-46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból leplezett figyelést rendelhet el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el Magyarország vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
 
-### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés végrehajtása
+- a) arra a személyre, akiről
+  - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
+  - ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
+- b) az a) pontban meghatározott személlyel kapcsolatba hozható, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
 
-46/C. § (1) Ha a rendőr az e fejezetben meghatározott valamely más intézkedése során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során az e fejezetben meghatározott intézkedéseket foganatosíthatja.
+### A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
 
-(2) A rendőr – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
+46/C. § (1) Ha a rendőr az e fejezetben meghatározott valamely más intézkedése során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során az e fejezetben meghatározott intézkedéseket foganatosíthatja.
 
-(3) A rendőr a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
+(2) A rendőr – a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
+
+(3) A rendőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
 
 - a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
 - b) az intézkedés helye, ideje, indoka,
@@ -1451,20 +1457,20 @@ részére.
 
 91/N. § A rendőrség a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet (Közösségi Kódex) II. melléklete szerinti adatokat egy évig kezeli.
 
-91/O. § (1) Ha
+91/O. § (1) A rendőrség a határellenőrzési feladatok folyamatos ellátása érdekében elektronikus úton technikai másolatot vehet át az alábbi nyilvántartásokból:
 
 - a) a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
 - b) a vízumnyilvántartás,
-- c) a körözési információs rendszer,
-- d) a Schengeni Információs Rendszer
+- c) a körözési információs rendszer, valamint
+- d) a Schengeni Információs Rendszer.
 
-üzemzavar miatt elektronikus úton nem érhető el, a Rendőrség a határellenőrzési feladatok folyamatos biztosítása érdekében technikai másolatot készíthet és alkalmazhat.
+(2) A technikai másolatot elektronikus úton folyamatosan frissíteni kell, a technikai másolat alapján állandó adatállomány nem hozható létre.
 
-(2) A technikai másolat az üzemzavar elhárításáig, legfeljebb hat óra időtartamig tárolható, ezt követően az adatot haladéktalanul meg kell semmisíteni.
+(3) Ha az (1) bekezdésben meghatározott nyilvántartások üzemzavar miatt elektronikus úton nem elérhetők, a rendőrség – jogszabályban meghatározottak szerint – a technikai másolatból végezhet lekérdezéseket. A másolatból csak az (1) bekezdésben meghatározott nyilvántartások adatállományához hozzáférési joggal rendelkező személy végezhet adatlekérdezést.
 
-(3) A technikai másolat készítésének tényét a másolatot biztosító szervnél, illetve a rendőrségnél is dokumentálni kell.
+(4) A technikai másolat alkalmazásának tényét az (1) bekezdésben meghatározott nyilvántartások központi adatkezelő szervénél, illetve a technikai másolatot alkalmazó rendőrségi szervnél is dokumentálni kell.
 
-(4) A rendőrség a technikai másolat naplóadatait az üzemzavar elhárítását követő négy órán belül köteles a központi nyilvántartást vezető szervnek átadni.
+(5) A másolatból lekérdezést végző szerv a technikai másolat naplóadatait, illetve a (4) bekezdés szerinti egyedi lekérdezést végző szerv az erre vonatkozó naplóadatokat naponta köteles a központi nyilvántartást vezető szervnek átadni.
 
 ### A közlekedési adatkezelés
 
@@ -1632,7 +1638,8 @@ bírálja el.
 - j) az eltűnt személyek felkutatásának, illetőleg a rendkívüli halálesetek kivizsgálásának rendjét,
 - k) a rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút, vízi- és légiszállításokkal kapcsolatban, valamint a rendőrség légi közlekedésrendészeti és repülésbiztonsági, repülésvédelmi feladatait,
 - l) a belföldi állami futárszolgálat tevékenységét,
-- m) a kényszerítő eszközök típusát, fajtáját.
+- m) a kényszerítő eszközök típusát, fajtáját,
+- n) a rendőrség határellenőrzési feladatokat ellátó szerve által a 91/O. § (3) bekezdése alapján a 91/O. § (1) bekezdés a)–d) pontjában meghatározott nyilvántartásokról készült technikai másolatból végzendő lekérdezés részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -1688,8 +1695,8 @@ bírálja el.
 - h) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 9. pontja,
 - i) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 10. pontja,
 - j) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontja,
-- k) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [46/B–46/C. §],
-- l) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [46/B–46/C. §],
+- k)
+- l) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
 - m) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
 - n) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
 - o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §],
