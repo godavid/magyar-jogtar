@@ -15,6 +15,7 @@ Az Országgyűlés a személykörözés és a tárgykörözés szabályainak, va
   - ab) az ismeretlen személy vagy holttest személyazonosságának megállapítására,
   - ac) a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából keresett tárgyak felkutatására, valamint
   - ad) az elveszett, eltulajdonított, érvénytelenített okmányok, hatósági jelzések felkutatására
+  - ae) a törvényben meghatározott rejtett ellenőrzéssel kapcsolatos intézkedések összessége.
 
 irányuló intézkedések,
 
@@ -59,6 +60,8 @@ irányuló intézkedések,
 (2) A körözést az elrendelő hatóság vonja vissza, a visszavonás tényének a körözési információs rendszerbe történő bejegyzésével, valamint a 2. § (3) bekezdésében meghatározott esetben az ott meghatározott központi hatósági nyilvántartást vezető szerv egyidejű értesítésével.
 
 (3) Ha a körözés visszavonásáról szóló határozatot nem a Rendőrség hozta, a határozatot meg kell küldeni ahhoz a rendőrkapitánysághoz, amelyhez a körözést elrendelő határozatot továbbították.
+
+7/A. § A Schengeni Információs Rendszerbe továbbított, európai vagy nemzetközi elfogatóparancson alapuló, magyar szerv által elrendelt körözések visszavonására haladéktalanul sor kerül azt követően, hogy az elfogatóparancsot kibocsátó szerv a visszavonásról szóló döntést megküldi az illetékes rendőrkapitányságnak.
 
 ### Nemzetközi körözés
 
@@ -142,13 +145,7 @@ irányuló intézkedések,
 
 (3) Büntetőeljárás során elrendelt körözés esetén a jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – bűnüldözési érdekből – a Rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet nem tájékoztathatja.
 
-14/A. § A Rendőrség haladéktalanul továbbítja a Schengeni Információs Rendszerbe az alábbi, körözött személyre, illetve körözött tárgyra vonatkozó adatot:
-
-- a) az eltűnt személyre vonatkozó adatot,
-- b) a büntetőeljárásban tanúként vagy terheltként idézni kívánt személyre vonatkozó adatot, ha körözését lakó- vagy tartózkodási helyének közlése céljából rendelték el,
-- c) arra a személyre vonatkozó adatot, aki szabadságvesztés büntetésének letöltését nem kezdte meg, és körözését lakó- vagy tartózkodási helyének közlése céljából rendelték el,
-- d) a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény 6. §-a (3) bekezdése szerinti tárgyra vonatkozó adatot,
-- e) az elveszett lőfegyverre vonatkozó adatot.
+14/A. §
 
 ### II. Fejezet — A KÖRÖZÉSI INFORMÁCIÓS RENDSZER
 
@@ -177,7 +174,7 @@ irányuló intézkedések,
 
 (3) A nyilvántartás törvényességi felügyeletét az ügyészség látja el.
 
-18. § A nyilvántartás a személykörözés tekintetében tartalmazza:
+18. § (1) A nyilvántartás a személykörözés tekintetében tartalmazza:
 
 - a) a körözött személy
   - aa) természetes személyazonosító adatait, állampolgárságát, lakó- és tartózkodási helyét,
@@ -187,14 +184,20 @@ irányuló intézkedések,
   - ae) ruházatának és a nála lévő tárgyaknak a leírását,
   - af) vélt feltalálási helyeit,
   - ag) tartózkodási helye ismeretlenné válásának időpontját,
-  - ah) elfogása esetén várható magatartására (különösen esetleges erőszakos viselkedésére, fegyver birtoklására) vonatkozó információt;
-- b) a körözés elrendelésének okát (büntetőeljárás során elrendelt körözés esetén a bűncselekmény megnevezését és a Büntető Törvénykönyv szerinti minősítését is);
-- c) a körözés elrendelésének napját, az óra és perc feltüntetésével;
-- d) annak a hatósági eljárásnak az iktatószámát, amelyben a körözést elrendelték;
-- e) a körözést elrendelő hatóság megnevezését;
-- f) a felkutatáshoz szükséges egyéb – jogszabályban meghatározott – adatot; továbbá
-- g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetőleg a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta;
+  - ah) elfogása esetén várható magatartására (különösen esetleges erőszakos viselkedésére, fegyver birtoklására) vonatkozó információt,
+- b) a körözés elrendelésének okát (büntetőeljárás során elrendelt körözés esetén a bűncselekmény megnevezését és a Büntető Törvénykönyv szerinti minősítését is),
+- c) a körözés elrendelésének napját, az óra és perc feltüntetésével,
+- d) annak a hatósági eljárásnak az iktatószámát, amelyben a körözést elrendelték,
+- e) a körözést elrendelő hatóság megnevezését,
+- f) a felkutatáshoz szükséges egyéb – jogszabályban meghatározott – adatot, továbbá
+- g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetve a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta,
 - h) a szabadságvesztés vagy közérdekű munka kiszabásáról rendelkező jogerős bírósági ítélet számát.
+
+(2) A körözési információs rendszert működtető központi rendőri szerv a körözés tényének a nyilvántartásba bejegyzését követően a körözött személy természetes személyazonosító adatait (név, születési hely, születési idő, anyja neve) azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartó szerv részére. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartó szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a körözési információs rendszert működtető központi rendőri szerv részére.
+
+(3) A személyiadat- és lakcímnyilvántartó szerv az azonosított természetes személy adatainak a személyiadat- és lakcímnyilvántartásban bekövetkezett változásairól a (2) bekezdésben meghatározott kapcsolati kódon értesíti a körözési információs rendszert működtető központi rendőri szervet.
+
+(4) Az érintett adatainak a körözési információs rendszerből történő törléséről a körözési információs rendszert működtető központi szerv – a kapcsolati kód törlése céljából – értesíti a személyiadat- és lakcímnyilvántartást vezető szervet.
 
 19. § A nyilvántartás a tárgykörözés tekintetében tartalmazza:
 
@@ -339,7 +342,11 @@ részére.
 
 szabályait.
 
-40. § E törvény 12. § (7) és (8) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
+40. § (1) E törvény 12. § (7) és (8) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
+
+(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 6. és 26–45. cikkének való megfelelést szolgálja.
+
+(3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 41–43. §
 

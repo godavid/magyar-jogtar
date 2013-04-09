@@ -48,7 +48,11 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
   - gb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása felé a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
   - gc) a ga) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, illetőleg a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
-(2) A nyilvántartó haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, találását bejelentették, és ezt a tényt a közúti közlekedési nyilvántartásba bejegyezték.
+(2) A nyilvántartó a Schengeni Információs Rendszerben (a továbbiakban: SIS II) elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását vagy egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve járműnyilvántartásba bejegyezték.
+
+(3) Ha a (2) bekezdés szerinti okmány időközben megkerült és megkerülésének tényét az engedély-, illetve járműnyilvántartásba bejegyezték, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a figyelmeztető jelzés törléséről.
+
+(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról, megsemmisüléséről), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, az a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
 
 ### Az okmányellátás rendszere
 
@@ -63,7 +67,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - g)
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
 - i) illetékmentes eljárás keretében ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, díj ellenében a parkolási igazolvány pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
-- j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli.
+- j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli;
+- k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
 (2)
 
@@ -254,6 +259,8 @@ bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatároz
 igényelhető.
 
 (2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
+
+(3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
 17. § (1) Nem vagy részlegesen szolgáltatható adat, ha törvény rendelkezése alapján az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből az arra jogosult korlátozta, vagy megtiltotta.
 
@@ -528,3 +535,10 @@ való megfelelést szolgálja.
 
 - a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 2006. december 20-i, 1986/2006/EK európai parlamenti és tanácsi rendelet, továbbá
 - b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 31–34. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. cikkének átültetését szolgálja.
+
+(3) E törvény
+
+- a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.

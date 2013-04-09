@@ -207,6 +207,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - l) arcképmását és – ha a 14. életévét betöltötte – aláírását, ha személyazonosító igazolványra jogosult;
 - m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját;
 - n) személyazonosító igazolványa kiadásának, érvényességének, cseréjének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, visszaadásának, leadásának, elvételének adatait;
+- o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat;
 - p) értesítési címét, ha azt a polgár bejelentette a nyilvántartás helyi vagy központi szervének.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) pontja szerinti adatait, aláírását, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
@@ -452,6 +453,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 24/C. § A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárról a magyar állampolgársága megszerzéséig a nyilvántartásból – saját nyilvántartott adatról való tájékoztatás kivételével – nem teljesíthető adatszolgáltatás.
 
+24/D. § A polgárnak a 11. § (1) bekezdés o) pontjában meghatározott adatairól adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
+
 24/E. § Az anyakönyvvezető az elhalálozott személyek személyazonosító igazolványának, valamint a személyi azonosítóját és lakcímét igazoló hatósági igazolványának bevonása céljából a 11. § (1) bekezdés m) pontja és a 17. § (4) bekezdése szerinti adatokat jogosult igényelni.
 
 ### V. Fejezet — A nyilvántartási eljárás
@@ -612,9 +615,15 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
-(8) A központi szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, illetve találását bejelentették, és ezt a tényt a központi nyilvántartásba bejegyezték.
+(8)
 
-(9) A központi szerv a személyiadat- és lakcímnyilvántartásban kezeli a (8) bekezdés szerinti figyelmeztető jelzés elhelyezésével kapcsolatos adatokat.
+(9)
+
+29/A. § (1) A központi szerv a jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását bejelentették, illetve az a jogszabályban meghatározott egyéb okból érvénytelenítésre került és ezt a tényt a személyiadat- és lakcímnyilvántartásba bejegyezték.
+
+(2) Ha a személyazonosító igazolvány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen személyazonosító igazolvány eltűnéséről (elvesztéséről, eltulajdonításáról), illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesíti a központi szervet, a központi szerv a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
+
+(3) Ha az (1) vagy (2) bekezdés szerinti személyazonosító igazolvány időközben megkerült és a kitöltött személyazonosító igazolvány esetében annak megkerülése tényét a személyiadat- és lakcímnyilvántartásba bejegyezték, a központi szerv az (1) bekezdés szerinti módon gondoskodik az (1) vagy (2) bekezdés szerinti figyelmeztető jelzés törléséről.
 
 ### VI. Fejezet — Adatvédelem
 
@@ -791,6 +800,10 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 (3) A központi szerv a bevándorolt polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosult igényelni az érintettek állampolgársági adatait.
 
 49. § A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján – 2011. január 1-je és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvény (a továbbiakban: 1. módosító törvény) hatálybalépése között – honosított vagy visszahonosított külföldön élő polgárok adatairól a nyilvántartásba vétel érdekében az állampolgársági ügyekben eljáró szerv az 1. módosító törvény hatálybalépését követő harminc napon belül értesíti a központi szervet.
+
+50. § (1) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
+
+(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
 
 ### Melléklet az 1992. évi LXVI. törvény 13. §-ához
 
