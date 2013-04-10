@@ -521,143 +521,49 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 47. § (1)–(2)
 
-(3) Az Nytv. 11. § (1) bekezdése a következő o) ponttal egészül ki:
-
-(A nyilvántartás tartalmazza a polgár)
-
-„o) személyazonosító igazolványa tekintetében a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat.”
+(3)
 
 (4)–(8)
 
-(9) Az Nytv. a következő 24/D. §-sal egészül ki:
-
-„24/D. § A polgárnak a 11. § (1) bekezdés o) pontjában meghatározott adatairól adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.”
-
-(10) Az Nytv. a következő 29/A. §-sal egészül ki:
-
-„29/A. § (1) A központi szerv a jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a személyazonosító igazolványnak az adatait, amelynek elvesztését, eltulajdonítását bejelentették, illetve az a jogszabályban meghatározott egyéb okból érvénytelenítésre került és ezt a tényt a személyiadat- és lakcímnyilvántartásba bejegyezték.
-
-(2) Ha a személyazonosító igazolvány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen személyazonosító igazolvány eltűnéséről (elvesztéséről, eltulajdonításáról), illetve az eltűnt kitöltetlen személyazonosító igazolvány megkerüléséről értesíti a központi szervet, a központi szerv a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.
-
-(3) Ha az (1) vagy (2) bekezdés szerinti személyazonosító igazolvány időközben megkerült és a kitöltött személyazonosító igazolvány esetében annak megkerülése tényét a személyiadat- és lakcímnyilvántartásba bejegyezték, a központi szerv az (1) bekezdés szerinti módon gondoskodik az (1) vagy (2) bekezdés szerinti figyelmeztető jelzés törléséről.”
-
-(11) Az Nytv. a következő 50. §-sal egészül ki:
-
-„50. § (1) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
-
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.”
+(9)–(11)
 
 (12)
 
-(13) Hatályát veszti az Nytv.
+(13)
 
 - a)
-- b) 29. § (8)–(9) bekezdése.
+- b)
 
-48. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 33. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(A rendőr a hatóság vagy az illetékes szerv elé állíthatja azt,)
-
-„h) akit a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés alapján védelem alá kell helyezni.”
+48. § (1)
 
 (2)–(3)
 
-(4) Az Rtv. 46/B–46/C. §-a és az azt megelőző alcímek helyébe a következő rendelkezés lép:
-
-„Rejtett ellenőrzés elrendelése
-
-46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
-
-a) arra a személyre, akiről
-
-aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
-
-ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
-
-b) az a) pontban meghatározott személlyel kapcsolatba hozható, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
-
-A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
-
-46/C. § (1) Ha a rendőr az e fejezetben meghatározott valamely más intézkedése során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során az e fejezetben meghatározott intézkedéseket foganatosíthatja.
-
-(2) A rendőr – a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
-
-(3) A rendőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
-
-a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
-
-b) az intézkedés helye, ideje, indoka,
-
-c) az utazás útvonala és az úti cél,
-
-d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-
-e) a használt jármű azonosításához szükséges adatok és
-
-f) a szállított tárgyakra vonatkozó adatok.
-
-(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.”
+(4)
 
 (5)
 
-(6) Az Rtv. 91/O. §-a helyébe a következő rendelkezés lép:
-
-„91/O. § (1) A rendőrség a határellenőrzési feladatok folyamatos ellátása érdekében elektronikus úton technikai másolatot vehet át az alábbi nyilvántartásokból:
-
-a) a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
-
-b) a vízumnyilvántartás,
-
-c) a körözési információs rendszer, valamint
-
-d) a Schengeni Információs Rendszer.
-
-(2) A technikai másolatot elektronikus úton folyamatosan frissíteni kell, a technikai másolat alapján állandó adatállomány nem hozható létre.
-
-(3) Ha az (1) bekezdésben meghatározott nyilvántartások üzemzavar miatt elektronikus úton nem elérhetők, a rendőrség – jogszabályban meghatározottak szerint – a technikai másolatból végezhet lekérdezéseket. A másolatból csak az (1) bekezdésben meghatározott nyilvántartások adatállományához hozzáférési joggal rendelkező személy végezhet adatlekérdezést.
-
-(4) A technikai másolat alkalmazásának tényét az (1) bekezdésben meghatározott nyilvántartások központi adatkezelő szervénél, illetve a technikai másolatot alkalmazó rendőrségi szervnél is dokumentálni kell.
-
-(5) A másolatból lekérdezést végző szerv a technikai másolat naplóadatait, illetve a (4) bekezdés szerinti egyedi lekérdezést végző szerv az erre vonatkozó naplóadatokat naponta köteles a központi nyilvántartást vezető szervnek átadni.”
-
-(7) Az Rtv. 101. § (1) bekezdése a következő n) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg)
-
-„n) a rendőrség határellenőrzési feladatokat ellátó szerve által a 91/O. § (3) bekezdése alapján a 91/O. § (1) bekezdés a)–d) pontjában meghatározott nyilvántartásokról készült technikai másolatból végzendő lekérdezés részletes szabályait.”
+(6)–(7)
 
 (8)
 
-(9) Az Rtv. 104. § l) pontja helyébe a következő rendelkezés lép:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„l) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],”
+(9)
 
 (10)
 
-(11) Hatályát veszti az Rtv.
+(11)
 
 - a)
-- b) 104. § k) pontja.
+- b)
 
-49. § (1) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 41/A. §-a helyébe a következő rendelkezés lép:
-
-„41/A. § (1) A polgári nemzetbiztonsági szolgálatok a Schengeni Információs Rendszerbe rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését kezdeményezhetik a rendőrségnél, ha a birtokukba került adatok alapján Magyarország nemzetbiztonsági érdekeinek érvényesítése érdekében az szükségessé válik.
-
-(2) A polgári nemzetbiztonsági szolgálatok – az (1) bekezdésben meghatározott esetben – kizárólag a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikk (3) bekezdése szerinti tájékoztatást követően kezdeményezhetik a rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését.”
+49. § (1)
 
 (2)
 
-(3) Az Nbtv. 80. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény a következő uniós jogi aktusok végrehajtását szolgálja:)
-
-„b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. cikke [41/A. §],”
+(3)
 
 (4)
 
-(5) Hatályát veszti az Nbtv. 80. § a) pontja.
+(5)
 
 #### 50. §
 
@@ -669,226 +575,59 @@ d) a Schengeni Információs Rendszer.
 
 (16)–(17)
 
-(18) Az Utv. 27. §-a a következő (5)–(7) bekezdéssel egészül ki:
-
-„(5) A központi adatkezelő szerv a külön jogszabályban meghatározott figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe továbbítja a központi útiokmány-nyilvántartásban a 20. § (1) bekezdés a), c), d), f), h) és i) pontja szerinti okból érvénytelenítésre került hivatalos és magánútlevél külön törvényben meghatározott adatait.
-
-(6) Amennyiben a 20. § (1) bekezdés a) pontja szerinti okmány esetében az okmány megkerülésének tényét és időpontját, illetve a 20. § (1) bekezdés h) pontja szerinti okmány esetében a külföldre utazási korlátozás megszűnését és időpontját, valamint a 19. § (3) bekezdésében foglalt visszavonási ok megszűnését és időpontját a központi útiokmány-nyilvántartásba bejegyezték, a központi adatkezelő szerv az (1) bekezdés szerint gondoskodik a továbbított figyelmeztető jelzés törléséről.
-
-(7) Amennyiben az úti okmány megszemélyesítését végző adatfeldolgozó szerv kitöltetlen úti okmány eltűnéséről (elvesztés, eltulajdonítás), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a központi adatkezelő szervet, a központi adatkezelő szerv a külön jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.”
+(18)
 
 (19)–(25)
 
-(26) Az Utv. 42. §-a helyébe a következő rendelkezés lép:
-
-„42. § (1) E törvény 7. § (2)–(4) bekezdése, 20. § (2) bekezdése, valamint 32/A. §-a a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
-
-(3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.”
+(26)
 
 (27)–(28)
 
 #### 53. §
 
-54. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 4. § (2) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § a következő (3)–(4) bekezdésekkel egészül ki:
-
-„(2) A nyilvántartó a Schengeni Információs Rendszerben (a továbbiakban: SIS II) elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) elhelyezése céljából az N.SIS II Hivatalnak elektronikus úton továbbítja annak a forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének az adatait, amelynek elvesztését, eltulajdonítását vagy egyéb jogszabályban meghatározott okból történő érvénytelenítését az engedély-, illetve járműnyilvántartásba bejegyezték.
-
-(3) Ha a (2) bekezdés szerinti okmány időközben megkerült és megkerülésének tényét az engedély-, illetve járműnyilvántartásba bejegyezték, a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a figyelmeztető jelzés törléséről.
-
-(4) Ha a vezetői engedély megszemélyesítését végző adatfeldolgozó szerv kitöltetlen vezetői engedély eltűnéséről (elvesztéséről, eltulajdonításáról, megsemmisüléséről), illetve az eltűnt kitöltetlen okmány megkerüléséről értesíti a nyilvántartót, az a jogszabály szerinti felhasználói felületen keresztül gondoskodik a figyelmeztető jelzés beviteléről, illetve törléséről.”
-
-(2) A Kknyt. 5. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(A közlekedési igazgatási hatóság:)
-
-„k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.”
+54. § (1)–(2)
 
 (3)–(10)
 
-(11) A Kknyt. 16. §-a következő (3) bekezdéssel egészül ki:
-
-„(3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.”
+(11)
 
 (12)–(16)
 
-(17) A Kknyt. 43. §-a a következő (2) és (3) bekezdéssel egészül ki:
+(17)
 
-„(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. cikkének átültetését szolgálja.
-
-(3) E törvény
-
-a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
-
-b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének
-
-végrehajtását szolgálja.”
-
-55. § (1) Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény (a továbbiakban: NEBEK tv.) 9/A. §-a helyébe a következő rendelkezés lép:
-
-„9/A. § A NEBEK ellátja a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben a SIRENE Irodára ruházott feladatokat.”
-
-(2) A NEBEK tv. 18. §-ának helyébe a következő rendelkezés lép:
-
-„18. § (1) E törvény
-
-1. 3. §-a, 6. §-a, és 10. §-a a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkeinek,
-
-2. 9/A. §-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozatnak
-
-való megfelelést szolgálja.
-
-(2) E törvény 9/A.§-a a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+#### 55. §
 
 56. § (1)
 
-(2) Az Sztktv. 1. § (2) bekezdés a) pontja a következő ae) alponttal egészül ki:
-
-[a) körözés:]
-
-„ae) a törvényben meghatározott rejtett ellenőrzéssel kapcsolatos intézkedések összessége.”
+(2)
 
 (3)–(4)
 
-(5) Az Sztktv. a következő 7/A. §-sal egészül ki:
-
-„7/A.§ A Schengeni Információs Rendszerbe továbbított, európai vagy nemzetközi elfogatóparancson alapuló, magyar szerv által elrendelt körözések visszavonására haladéktalanul sor kerül azt követően, hogy az elfogatóparancsot kibocsátó szerv a visszavonásról szóló döntést megküldi az illetékes rendőrkapitányságnak.”
+(5)
 
 (6)–(8)
 
-(9) Az Sztktv. 18. §-a helyébe a következő rendelkezés lép:
-
-„18. § (1) A nyilvántartás a személykörözés tekintetében tartalmazza:
-
-a) a körözött személy
-
-aa) természetes személyazonosító adatait, állampolgárságát, lakó- és tartózkodási helyét,
-
-ab) álnevét, gúnynevét,
-
-ac) személyleírását, különös ismertető jegyeit,
-
-ad) fényképét,
-
-ae) ruházatának és a nála lévő tárgyaknak a leírását,
-
-af) vélt feltalálási helyeit,
-
-ag) tartózkodási helye ismeretlenné válásának időpontját,
-
-ah) elfogása esetén várható magatartására (különösen esetleges erőszakos viselkedésére, fegyver birtoklására) vonatkozó információt,
-
-b) a körözés elrendelésének okát (büntetőeljárás során elrendelt körözés esetén a bűncselekmény megnevezését és a Büntető Törvénykönyv szerinti minősítését is),
-
-c) a körözés elrendelésének napját, az óra és perc feltüntetésével,
-
-d) annak a hatósági eljárásnak az iktatószámát, amelyben a körözést elrendelték,
-
-e) a körözést elrendelő hatóság megnevezését,
-
-f) a felkutatáshoz szükséges egyéb – jogszabályban meghatározott – adatot, továbbá
-
-g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetve a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta,
-
-h) a szabadságvesztés vagy közérdekű munka kiszabásáról rendelkező jogerős bírósági ítélet számát.
-
-(2) A körözési információs rendszert működtető központi rendőri szerv a körözés tényének a nyilvántartásba bejegyzését követően a körözött személy természetes személyazonosító adatait (név, születési hely, születési idő, anyja neve) azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartó szerv részére. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartó szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a körözési információs rendszert működtető központi rendőri szerv részére.
-
-(3) A személyiadat- és lakcímnyilvántartó szerv az azonosított természetes személy adatainak a személyiadat- és lakcímnyilvántartásban bekövetkezett változásairól a (2) bekezdésben meghatározott kapcsolati kódon értesíti a körözési információs rendszert működtető központi rendőri szervet.
-
-(4) Az érintett adatainak a körözési információs rendszerből történő törléséről a körözési információs rendszert működtető központi szerv – a kapcsolati kód törlése céljából – értesíti a személyiadat- és lakcímnyilvántartást vezető szervet.”
-
-(10) Az Sztktv. 40. §-a a következő (2) és (3) bekezdéssel egészül ki:
-
-„(2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i, 2007/533/IB tanácsi határozat 6. és 26–45. cikkének való megfelelést szolgálja.
-
-(3) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i 1987/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-(11) Hatályát veszti az Sztktv. 14/A. §-a.
+(9)–(11)
 
 #### 57–58. §
 
-59. § (1) A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Szmtv.) 47/B. § helyébe a következő rendelkezés lép:
-
-„47/B. § A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján harmadik országbeli állampolgárokkal szemben elrendelt idegenrendészeti kiutasításokat és a kiutasító határozatok alapján a Schengeni Információs Rendszerben elhelyezett, beutazási és tartózkodási tilalmat elrendelő figyelmeztető jelzéseket (a továbbiakban: figyelmeztető jelzés) a harmadik országbeli családtag kiutasítása végrehajtása előtt vagy a tartózkodási jogot igazoló okmány kiállítása iránti eljárásban – a 33. §-ban foglaltakra is figyelemmel – felül kell vizsgálni. Ha a kiutasítás és a beutazási és tartózkodási tilalom, valamint a figyelmeztető jelzés fenntartása aránytalan érdeksérelemmel jár, az idegenrendészeti kiutasítás elrendeléséről hozott határozatot az eljáró hatóság törli. Az eljáró hatóság az eljárást húsz nap alatt folytatja le és határozattal dönt.”
+59. § (1)
 
 (2)–(5)
 
-(6) Az Szmtv. 129. § (2) bekezdése a következő f)–g) ponttal egészül ki:
-
-(Ez a törvény)
-
-„f) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
-
-g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+(6)
 
 (7)
 
 60. § (1)–(13)
 
-(14) A Harmtv. 120. § (2) bekezdése a következő i) és j) ponttal egészül ki:
-
-(E törvény)
-
-„i) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
-
-j) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének;”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+(14)
 
 (15)
 
 #### 61–63. §
 
-64. § (1) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAVtv.) a következő 37/A–37/B. §-sal és az azt megelőző alcímekkel egészül ki:
-
-„Rejtett ellenőrzés elrendelése
-
-37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdésében meghatározott célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
-
-a) arra a személyre, akiről
-
-aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
-
-ab) okkal feltételezhető, hogy az a) pont aa) alpontjában meghatározott bűncselekményt követ el a Schengeni Információs Rendszert alkalmazó állam területén, különös tekintettel az általa elkövetett múltbeli bűncselekményekre,
-
-b) az a) pontban meghatározott személlyel kapcsolatba hozható a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyakra.
-
-A Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása
-
-37/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy tárgy azonos a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés szerinti személlyel vagy tárggyal, a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása során a 36. § (1) bekezdésében meghatározott intézkedéseket foganatosíthatja.
-
-(2) A pénzügyőr a rejtett ellenőrzésre történő utalás és a rejtett ellenőrzés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtására sor kerül.
-
-(3) A pénzügyőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
-
-a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
-
-b) az intézkedés helye, ideje, indoka,
-
-c) az utazás útvonala és az úti cél,
-
-d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-
-e) a használt jármű azonosításához szükséges adatok,
-
-f) a szállított tárgyakra vonatkozó adatok.
-
-(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.”
-
-(2) A NAVtv. 99. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36–37. cikkei [37/A–37/B. §],”
-
-(3) Hatályát veszti a NAVtv.
-
-- a) 54–55. §-a, valamint
-- b) a 99. § a) pontja.
+#### 64. §
 
 65. § (1)–(4)
 
