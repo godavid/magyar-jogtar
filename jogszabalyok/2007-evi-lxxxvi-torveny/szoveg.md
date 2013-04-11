@@ -240,6 +240,8 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 13. § (1) Minden villamosenergia-kereskedő (kivéve az egyetemes szolgáltatókat az általuk ilyen minőségben értékesített villamos energia mennyiség tekintetében) és a felhasználónak közvetlenül értékesítő termelői engedélyes köteles a külön jogszabályban foglaltaknak megfelelően a felhasználó(i) részére értékesített villamos energia arányában átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval. A villamos energiát importáló felhasználó a külön jogszabályban foglaltaknak megfelelően a saját maga által elfogyasztott villamos energia arányában köteles átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
 
+(1c) A szervezett villamosenergia-piaci engedélyes (1b) bekezdés szerinti tevékenysége nem irányulhat haszonszerzésre.
+
 (2) A háztartási méretű kiserőművek üzemeltetői által termelt villamos energiát az adott csatlakozási ponton értékesítő villamosenergia-kereskedő külön jogszabály szerint köteles átvenni.
 
 ### III. Fejezet — ÁTVITELI RENDSZERIRÁNYÍTÁS, VILLAMOSENERGIA-ELOSZTÁS
@@ -444,19 +446,25 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 ### Közvilágítás
 
-34. § (1) A külön jogszabályban közvilágításra kötelezett, továbbá ezen kötelezettséget átvállaló (a továbbiakban együtt: közvilágításra kötelezett) személy jogosult közvilágítási berendezést, az elosztó hálózat tartószerkezetén és létesítményeiben elhelyezni és üzemben tartani. Az elosztó hálózati engedélyesek kötelesek ezt tűrni és a közvilágításra kötelezettel együttműködni. Az elosztói engedélyes az e rendelkezés szerinti tűrésért és együttműködésért a közvilágítási elosztási díjon felül külön ellenszolgáltatásra nem jogosult.
+34. § (1) Jogszabályban közvilágításra kötelezett (a továbbiakban: közvilágításra kötelezett), továbbá az e kötelezettséget átvállaló személy jogosult közvilágítási berendezést az elosztóhálózat tartószerkezetén és létesítményeiben elhelyezni és üzemben tartani. Az elosztó köteles ezt tűrni és együttműködni. Az elosztó az e rendelkezés szerinti tűrésért és együttműködésért a közvilágítási elosztási díjon felül külön ellenszolgáltatásra nem jogosult.
 
 (2) A közvilágítási elosztó hálózat használata után közvilágítási elosztási díjat kell fizetni, amely fedezetet nyújt az elosztónak a közvilágítási elosztó hálózattal összefüggésben keletkezett költségeire.
 
 (3) A közvilágítással összefüggésben fizetendő rendszerhasználati díjak számítása tekintetében a települési önkormányzat területét a csatlakozási és elszámolási pontok számától függetlenül egy csatlakozási ponton keresztül ellátott felhasználási helynek kell tekinteni.
 
-(4) A közvilágítási berendezéseknek az elosztó hálózat tartószerkezetein és létesítményeiben történő elhelyezésével, üzemeltetésével összefüggő kérdéseket az elosztó hálózati engedélyes és a közvilágításra kötelezett között létrejött szerződésben kell rendezni. Az elosztó hálózati engedélyes a szerződés lényeges tartalmi elemeinek meghatározása során nem alkalmazhat megkülönböztető szerződéses feltételeket aszerint, hogy a közvilágításra kötelezett melyik kereskedelmi engedélyestől vásárolja a villamos energiát.
+(4) A közvilágítási berendezéseknek az elosztó hálózat tartószerkezetein és létesítményeiben történő elhelyezésével, üzemeltetésével összefüggő kérdéseket az elosztó hálózati engedélyes és a külön jogszabályban közvilágításra kötelezett vagy az e kötelezettséget átvállaló személy között létrejött szerződésben kell rendezni. Az elosztó hálózati engedélyes a szerződés lényeges tartalmi elemeinek meghatározása során nem alkalmazhat megkülönböztető szerződéses feltételeket aszerint, hogy a közvilágításra kötelezett melyik kereskedelmi engedélyestől vásárolja a villamos energiát.
 
 (5) Az (1) bekezdés szerinti, az elosztó tulajdonába nem kerülő közvilágítási berendezések elhelyezésével és üzemben tartásával kapcsolatosan a tűrésen és az együttműködésen kívül – a felek eltérő megállapodása hiányában – az elosztó más tevékenységet nem végezhet.
 
-(5a) Az elosztó feladata a közvilágítási elosztó hálózat üzemeltetése, karbantartása és fejlesztése.
+(5a) Az elosztó feladata a közvilágítási elosztó hálózat üzemeltetése, karbantartása és fejlesztése azzal, hogy e tevékenységekért az elosztó a közvilágítási elosztási díjon felül további díjat nem kérhet.
 
 (6) A (4) bekezdés szerinti szerződés minimális tartalmi követelményeit, valamint a közvilágításra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+34/A. § Ha a közvilágítási berendezést nem a közvilágításra kötelezett üzemelteti, akkor annak üzemeltetéséhez – a közvilágítási elosztó hálózat közvilágítási berendezéseinek kivételével – közvilágítási üzemeltetési engedély szükséges.
+
+34/B. § (1) Az elosztó a közvilágítási elosztó hálózat közvilágítási berendezéseiről, a közvilágítási üzemeltetési engedélyes az általa üzemeltetett közvilágítási berendezésekről köteles naprakész nyilvántartást (a továbbiakban: közvilágítási leltár) vezetni.
+
+(2) A közvilágítási leltárból az elosztó és a közvilágítási engedélyes az önkormányzatok és az állami szervek kérelmére köteles térítésmentesen adatot szolgáltatni.
 
 ### IV. Fejezet — HÁLÓZATOKHOZ VALÓ HOZZÁFÉRÉS
 
@@ -585,7 +593,11 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (3) Az átviteli rendszerirányító és az elosztó hálózati engedélyesek elvégzik a mérőberendezések leolvasását, az elosztó hálózati engedélyesek továbbítják a mérési adatokat az átviteli rendszerirányítónak.
 
-(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
+(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy az egyetemes szolgáltatásra jogosult felhasználó (4a) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
+
+(4a) Az egyetemes szolgáltatásra jogosult felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén a hálózati engedélyes negyedévente biztosítja.
+
+(4b) A hálózati engedélyes – profil alapú elszámolás esetén – köteles legalább 5 napos időtartam megjelölésével a felhasználó figyelmét felhívni a leolvasás várható idejéről a leolvasás előtti utolsó számlában, számla mellékletében vagy egyéb módon. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes köteles értesítést hagyni a felhasználó felhasználási helyen, – amennyiben rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem-megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontja tekintetében a hálózati engedélyes és a felhasználó köteles megegyezni.
 
 (5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
@@ -643,6 +655,8 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton történik, a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
 
+(7b) Ha a (7) bekezdés a) pontja szerinti fizetési kötelezettség nem vagy nem kizárólag számlatartozásból ered, a villamosenergia-kereskedő a lakossági fogyasztók villamosenergia-ellátásból történő kikapcsolását a nem számlatartozásból eredő fizetési kötelezettség vonatkozásában akkor kezdeményezheti, ha annak polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítését igazolható módon megindította.
+
 (8) A lakossági fogyasztó kikapcsolására nem kerülhet sor:
 
 - a) munkaszüneti napon,
@@ -650,7 +664,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 - c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 - d) külön jogszabályban meghatározott pihenőnapon.
 
-(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló jogszabályban meghatározott egyéb költségeket is megfizeti, a villamosenergia-kereskedő a tudomására jutást követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
+(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, és a villamosenergia-elosztó és egyetemes szolgáltató által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló jogszabályban meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
 
 (10) Az elosztó a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.
 
@@ -658,7 +672,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (2) Az egyetemes szolgáltatásra jogosult nem lakossági felhasználóval a kikapcsolásra és az azzal járó szolgáltatásszüneteltetésre vonatkozó értesítést tértivevényes levélben vagy az egyetemes szolgáltatásra jogosult nem lakossági felhasználó általi átvétel igazolására alkalmas más módon kell közölni.
 
-(3) Amennyiben a villamosenergia-ellátásból kikapcsolt egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását és a külön díj ellenében végezhető szolgáltatásokról szóló jogszabályban meghatározott egyéb költségeket is megfizeti, a villamosenergia-kereskedő a tudomására jutást követően 24 órán belül köteles kezdeményezni a egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
+(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, és a villamosenergia-elosztó és egyetemes szolgáltató által külön díj ellenében végezhető, valamint ingyenesen biztosítandó szolgáltatásokról szóló jogszabályban meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
 
 (4) Az elosztó az (1) és (3) bekezdés szerinti kezdeményezésnek legkésőbb annak kézhezvételét követő munkanapon köteles eleget tenni.
 
@@ -673,7 +687,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 - a) a felmondás visszaigazolásáról, az elszámolási pont egyedi azonosítójának és a villamosenergia-vásárlási szerződés megszűnésének időpontja feltüntetésével, vagy
 - b) a felmondás benyújtásakor nem teljesített szerződéses feltételekről.
 
-(4) A felhasználó, amennyiben önállóan jár el, köteles a (3) bekezdés a) pont szerinti értesítést az új villamosenergia-kereskedőnek a kézhezvételt követően úgy időben eljuttatni, hogy az új villamosenergia-kereskedő a (6) bekezdésben meghatározott kötelezettségeinek eleget tudjon tenni.
+(4) A felhasználó, amennyiben önállóan jár el, köteles a (3) bekezdés a) pontja szerinti értesítést a korábbi kereskedő által kibocsátott utolsó számla másolatával együtt az új villamosenergia-kereskedőnek a kézhezvételt követően úgy időben eljuttatni, hogy az új villamosenergia-kereskedő a (6) bekezdésben meghatározott kötelezettségeinek eleget tudjon tenni.
 
 (5) A (3) bekezdés b) pontja szerinti esetben a villamosenergia-kereskedő a feltételek teljesítése érdekében határidőt biztosít. A felhasználó felmondása a megjelölt szerződési feltételek teljesülésével hatályosul.
 
@@ -705,7 +719,9 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 50/A. § (1) Az egyetemes szolgáltató által működtetett ügyfélszolgálatokra a fogyasztóvédelmi törvényben foglalt rendelkezéseket az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – a 47. § (2)–(5) bekezdésében foglaltakon felül – köteles a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásonként legalább egy ügyfélszolgálatot működtetni. Azon járásokban, ahol az egyetemes szolgáltatás keretében ellátott felhasználók száma nem haladja meg a 15 ezret, az egyetemes szolgáltató jogosult több, egymással szomszédos járásra kiterjedő összevont ügyfélszolgálatot működtetni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok típusát, minimális számát a Vhr., az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és az egyetemes szolgáltató üzletszabályzata tartalmazza.
+(2) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – a 47. § (2)–(5) bekezdésében foglaltakon felül – köteles a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben felsorolt járásonként legalább egy ügyfélszolgálatot működtetni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok típusát, minimális számát a Vhr., az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és az egyetemes szolgáltató üzletszabályzata tartalmazza. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.
+
+50/B. § Az egyetemes szolgáltató az 5000 főt meghaladó lakosságú, az egyetemes szolgáltató által fenntartott ügyfélszolgálattal nem rendelkező településen köteles munkanapokon az ügyfélforgalom számára nyitva álló helyiségben a panaszfelvétel lehetőségét, továbbá tájékoztató anyagok, formanyomtatványok, valamint az üzletszabályzat elérhetőségét biztosítani. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.
 
 ### Végső menedékes kijelölési eljárása
 
@@ -794,7 +810,7 @@ vásárolhat villamos energiát.
 
 ### Eljárás a lakossági fogyasztókkal szembeni jogsértésekkel kapcsolatban
 
-57. § (1) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó rendelkezések lakossági fogyasztókkal szembeni megsértése esetén – a Hivatal 159. § (5) bekezdés szerinti hatásköreinek tiszteletben tartása mellett – a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt kell alkalmazni, azzal, hogy az e törvény szerinti lakossági fogyasztó a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
+57. § (1) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó rendelkezések, beleértve az engedélyesek üzletszabályzatában foglaltak lakossági fogyasztókkal szembeni megsértése esetén – a Hivatal 159. § (5) bekezdés szerinti hatásköreinek tiszteletben tartása mellett – a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt kell alkalmazni, azzal, hogy az e törvény szerinti lakossági fogyasztó a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 
 (2) Az 56/A. § (3) bekezdésében, a 62. § (2), (3) és (7) bekezdésében, a 73. § (4) bekezdésében, valamint a 143/A. § (2) és (3) bekezdésében foglalt, tájékoztatási kötelezettségre vonatkozó rendelkezések lakossági fogyasztókkal szembeni megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult. Az eljáró hatóság eljárására az Fttv.-ben meghatározott szabályokat kell alkalmazni azzal, hogy az e törvény szerinti lakossági fogyasztó az Fttv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 
@@ -811,6 +827,29 @@ vásárolhat villamos energiát.
 (5) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el. A Hivatal eljárása során a (4) bekezdés szerinti jogkövetkezményeket is alkalmazhatja.
 
 (6) A felhasználó a hatósági eljárást megelőzően köteles panaszával – igazolható módon – az engedélyeshez fordulni.
+
+57/A. § (1) A Hivatal határozatban az engedélyesek tevékenységének minimális minőségi követelményeire és elvárt színvonalára vonatkozó minőségi mutatókat állapít meg.
+
+(2) A minőségi mutatók köre az alábbiakra terjed ki:
+
+- a) az ellátás megbízhatósága,
+- b) az ellátás folyamatossága,
+- c) az üzembiztonság,
+- d) a felhasználókkal történő kapcsolattartás,
+- e) a villamosenergia-minőség mérhető és ellenőrizhető jellemzői, és
+- f) az egyes engedélyesek által végzett alaptevékenységhez kapcsolódó egyéb jellemző szolgáltatások ellátásának minősége.
+
+(3) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni.
+
+(4) Az (1) bekezdés szerinti határozat tartalmazza
+
+- a) az engedélyesek adatszolgáltatásának kötelező határidejét, valamint az adatok tartalmára és megbízhatóságára vonatkozó követelményeket,
+- b) a követelmények be nem tartása esetén alkalmazható jogkövetkezményeket,
+- c) a szankcionálható és a nem szankcionálható mutatókat.
+
+(5) Az egyedi felhasználókat érintő mutatók be nem tartása az érintett felhasználókkal szemben szerződésszegésnek minősül, amelynek jogkövetkezményét a Hivatal állapítja meg.
+
+(6) Az (1) bekezdés szerinti határozatok kiadására irányuló, hivatalból induló hatósági eljárásban ügyfélként kizárólag az egyes engedélyesek vesznek részt.
 
 ### A hálózati csatlakozási
 
@@ -880,7 +919,7 @@ meghatározott szerződésszegés esetén.
 - f) a szerződés időtartama, a szerződés feltételei, valamint az igénybe vett szolgáltatások, illetőleg a szerződés meghosszabbításának, megszüntetésének, felmondásának feltételei,
 - g) a szerződésszegés esetei és jogkövetkezményei, különös tekintettel a szolgáltatásból való kikapcsolás részletes feltételeire,
 - h) a felhasználói, illetve lakossági fogyasztói panasz benyújtásának és ügyintézésének lehetőségéről és módjáról való tájékoztatás, valamint a fogyasztóvédelemről szóló törvényben meghatározott fogyasztói jogvita egyezségen alapuló rendezésének megkísérlésére, továbbá ennek eredménytelensége esetén az ügy eldöntésére irányuló eljárások kezdeményezésének módja és feltételei,
-- i) a külön díj ellenében nyújtott kiegészítő szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít,
+- i) a külön díj ellenében nyújtott szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít,
 - j) annak a hálózati engedélyesnek a megnevezése, székhelye, amely hálózatához a felhasználó közvetve vagy közvetlenül csatlakozik,
 - k) a felhasználási hely, valamint elszámolási pont megjelölése,
 - l) az igénybe venni kívánt, szerződött villamos energia mennyisége vagy a szolgáltatás teljes ellátást biztosító jellege, és
@@ -935,6 +974,15 @@ meghatározott szerződésszegés esetén.
 (8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó a moratórium alatt keletkezett tartozásaiért a Ptk. 274. § (1) bekezdése szerint egyszerű kezesként felel.
 
 (9) A moratórium részletes feltételeit, a moratóriummal érintett felek jogait és kötelezettségeit a Kormány rendeletben állapítja meg.
+
+63/B. § (1) Fizetési késedelem miatt történő kikapcsolás esetén a közös képviselő kérelme alapján a társasház közös tulajdonban lévő helyiségeiben a Vhr.-ben meghatározott minimális villamosenergia-szolgáltatást biztosítani kell, ha a társasház megfelel a (2) bekezdésben meghatározott követelményeknek.
+
+(2) Az (1) bekezdés szerinti minimális szolgáltatás igénybevételének joga megilleti
+
+- a) a négynél több szintes társasházat, ha abban az ingatlan tulajdonosaként fogyatékkal élő fogyasztó lakik, vagy
+- b) azt a társasházat, amely a közösköltség-tartozást felhalmozó tulajdonostárssal szemben a fizetési meghagyásos eljárást a társasház közös képviselője által igazoltan megindította
+
+feltéve, hogy az a) vagy b) pontban meghatározott feltételeket a társasház a fizetési késedelem miatti kikapcsolási eljárás megindítása előtt megfelelően igazolta a villamosenergia-kereskedő és az elosztó felé, valamint a késedelmes fizetési kötelezettségének részletekben történő teljesítéséről a Vhr.-ben meghatározott feltételek szerint megállapodott az érintett engedélyesekkel.
 
 ### Védendő fogyasztók
 
@@ -1090,7 +1138,8 @@ egyoldalú módosítása
 - f) az egyetemes szolgáltatás,
 - g) a szervezett villamosenergia-piac működtetése,
 - h) a 39. § (1) bekezdés b) és c) pontja szerinti magánvezeték létesítése, bővítése és megszüntetése, az egy épületen belül elhelyezkedő magánvezeték létesítése, bővítése és megszüntetése kivételével,
-- i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével.
+- i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével,
+- j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével.
 
 (2)
 
@@ -1232,6 +1281,10 @@ működési engedély
 84. § (1) Az elosztó részvénytársasági, vagy korlátolt felelősségű társasági formában működő gazdasági társaság.
 
 (2) A villamos energia elosztására vonatkozó működési engedély huszonöt évre szól és meghosszabbítható.
+
+### Közvilágítási üzemeltetési engedély
+
+84/A. § A közvilágítási üzemeltetési engedélyt a Hivatal az engedélyes kérelmére visszavonja, ha a közvilágítási üzemeltetési engedélyes és a közvilágításra kötelezett a közvilágítási berendezések üzemeltetésére kötött szerződés megszűnik.
 
 ### Magánvezeték engedélyezése
 
@@ -1816,6 +1869,22 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (5) A (4) bekezdés szerinti esetben a hálózati eszköz beruházója köteles a hálózati eszközt üzemeltetés céljából a hálózati engedélyes használatába adni, a hálózati engedélyes köteles az átadott hálózati eszközt saját költségén üzemeltetni. A hálózati eszköz beruházója az elidegenítési tilalom lejártát követő 30 napon belül köteles a hálózati eszközt a hálózati eszköznek a támogatás részarányának megfelelően csökkentett könyv szerinti nettó értékének megfelelő áron a hálózati engedélyes részére értékesíteni.
 
+(6) A hálózati eszköz beruházója és a hálózati engedélyes köteles együttműködni, ennek keretén belül a hálózati engedélyest érintő kérdésekben részletesen megállapodni, különös tekintettel a hálózati elem elhelyezésére, a költségviselésre és a kivitelező kiválasztására.
+
+119/A. § (1) A hálózati engedélyes a helyi önkormányzat kérésére a 119. § (1) bekezdés szerinti átalakítást vagy áthelyezést a 119. § (1) bekezdésétől eltérően saját költségén végzi, ha a helyi önkormányzat a működési területe szerinti belterületen lévő hálózati elem 119. § (1) bekezdés szerinti átalakítását vagy áthelyezését azt megelőző két évben kérte, mint ahogy a hálózati elem könyv szerinti értéke nullára csökken.
+
+(2) A hálózati engedélyes a helyi önkormányzatot annak kérésére évente tájékoztatja a helyi önkormányzat működési területén lévő belterületi közcélú hálózat, a közcélú hálózat tartószerkezetei és a csatlakozó berendezések műszaki állapotáról, tervezett cseréjének idejéről, valamint arról, hogy e hálózati elemek könyv szerinti értéke mikor csökken nullára.
+
+119/B. § (1) A helyi önkormányzat a működési területéhez tartozó belterületen lévő közintézményi felhasználó és a sportról szóló 2004. évi I. törvény szerinti sportlétesítmény esetében, továbbá a műemlék tulajdonosa a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) szerinti műemlék felújítása esetében a Vhr.-ben meghatározott feltételek szerint jogosult az elosztótól a 132 kV-nál kisebb névleges feszültségű szabadvezetékek földkábelre történő cseréjét, valamint e cserével összefüggésben a csatlakozó-, kapcsoló- és átalakítóberendezések indokolt átalakítását vagy cseréjét kezdeményezni (a továbbiakban együtt: kábelcsere).
+
+(2) Az elosztó az (1) bekezdés szerinti kezdeményezéseknek köteles eleget tenni. Közintézményi felhasználó és sportlétesítmény esetében az elosztó az (1) bekezdés szerinti kezdeményezések alapján – a Vhr.-ben meghatározott szempontok figyelembevételével – kábelcsere-ütemezési tervet készít. Az elosztó a kábelcsere-ütemezési tervet a Hivatalhoz jóváhagyás céljából benyújtja. A kábelcsere-ütemezési tervet a Hivatal hagyja jóvá és évente felülvizsgálja.
+
+(3) A kábelcsere során a szabadvezeték földkábelre történő cseréjét, illetve a csatlakozó-, kapcsoló- és átalakítóberendezések cseréjét vagy átalakítását a műszakilag indokolt mértékben kell elvégezni úgy, hogy az az ellátásbiztonságot ne veszélyeztesse.
+
+(4) A kábelcsere során a szabadvezeték lebontásával, a földkábel beszerzésével, lefektetésével, valamint befedésével közvetlenül érintett, az eredeti állapot helyreállításához szükséges indokolt költségeket az elosztó viseli.
+
+(5) A kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+
 ### ÉPÍTÉSI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
 SAJÁT INGATLANON
@@ -2051,15 +2120,13 @@ ELJÁRÁSOK
 
 (6) A Hivatal elnökének rendeletében meghatározott rendszerhasználati díjakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetésmentesen, előre nyilvánosságra hozott módon lehet eltérni.
 
-142/B. § (1) A miniszter rendeletben állapítja meg
+142/B. § (1) A miniszter rendeletben állapítja meg az elosztó és az egyetemes szolgáltató által
 
-- a) az elosztó által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások,
-- b) a rendszerhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások és
-- c) az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások
+- a) a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és azok díjait,
+- b) a felhasználók vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét,
+- c) a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
 
-körét és azok díjait.
-
-(2) A miniszter az (1) bekezdés szerinti rendelet megalkotása során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét is.
+(2) Az elosztó és az egyetemes szolgáltató az (1) bekezdés b) pontja szerinti szolgáltatásokat ingyenesen köteles biztosítani. Az (1) bekezdés b) pontja szerinti ingyenesen biztosítandó szolgáltatások költsége az árszabályozás során indokolt költségként nem vehető figyelembe.
 
 (3) A rendszerhasználati díjakra vonatkozó előírások betartását a Hivatal ellenőrzi.
 
@@ -2081,7 +2148,7 @@ körét és azok díjait.
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait a miniszter rendeletben állapíthatja meg.
+(6)
 
 143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
@@ -2227,6 +2294,10 @@ villamos energia képezi.
 
 157. § A 150. § (3) és a 155. § (4) bekezdés szerint közzétételre kerülő információk közérdekből nyilvánosak.
 
+157/A. § (1) Az elosztó az elosztó hálózat elemeiről és berendezéseiről köteles naprakész nyilvántartást vezetni.
+
+(2) Az (1) bekezdés szerinti nyilvántartásból az elosztó az önkormányzatok és az állami szervek kérelmére köteles térítésmentesen adatot szolgáltatni.
+
 ### XIX. Fejezet — A HIVATAL
 
 ### A Magyar Energetikai és Közmű-szabályozási Hivatal feladata és hatásköre
@@ -2257,7 +2328,7 @@ villamos energia képezi.
 - 5. javaslatot tesz a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokra,
 - 6. rendeletben határozza meg a rendszerhasználati és a csatlakozási díjakat, valamint az egyes díjak alkalmazásának feltételeit,
 - 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
-- 8. javaslatot tesz az elosztó és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira,
+- 8. javaslatot tesz az elosztó és az egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körére és díjaira, az ingyenesen biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira,
 - 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
 - 10. a 37. §-ban meghatározott szabályok szerint dönt a rendszerösszekötő vezeték tekintetében benyújtott mentesítési kérelemről,
 - 11. a Vhr.-ben meghatározott szempontrendszer alapján jóváhagyja az átviteli rendszerirányító által készített hálózatfejlesztési tervet, figyelemmel kíséri annak megvalósítását és évente értékeli azt,
@@ -2478,7 +2549,8 @@ villamos energia képezi.
 - e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
 - f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
 - g)
-- h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap.
+- h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap,
+- i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap.
 
 (4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
@@ -2604,14 +2676,15 @@ villamos energia képezi.
 - 42. az egyetemes szolgáltatás keretében történő villamosenergia-vásárláshoz való jogosultság szempontjából az egyetemes szolgáltatóhoz tett igénybejelentésük esetén közszolgáltatásra jogosult központi költségvetési szervek és közfeladatot ellátó intézmények, helyi önkormányzatok közfeladatot ellátó költségvetési intézményei, közfeladatot ellátó egyházi jogi személyek, valamint közfeladatot ellátó alapítványi fenntartású intézmények körét,
 - 43. a hálózatfejlesztési tervre vonatkozó szempontrendszert,
 - 44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
-- 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
+- 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
+- 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
 - 1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
-- 2. az elosztó és az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait, valamint az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait
+- 2. az elosztó és az egyetemes szolgáltató által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználók vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 - 3. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 - 4. az 50 MW, és azt meghaladó névleges teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
 - 5. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának, valamint a Hivatal által a honlapján közzéteendő – a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról szóló – tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat,
@@ -2824,6 +2897,32 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 178/H. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény és a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi XII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (4) és (5) bekezdését a folyamatban lévő bírósági és hatósági eljárásokban is alkalmazni kell.
 
 (2) A Módtv.-vel megállapított 168/A. § (4) bekezdését a folyamatban lévő elsőfokú bírósági és felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
+
+178/I. § Az elosztó kivételével a közvilágítási berendezés üzemeltetésére a közvilágításra kötelezettel a szociális közműszolgáltatás kialakítása érdekében egyes energetikai tárgyú törvények módosításáról szóló 2013. évi XXIV. törvény (a továbbiakban: Mód. 2. törvény) hatálybalépését megelőzően megállapodást kötött személyek kötelesek a Mód. 2. törvény hatálybalépésétől számított 90 napon belül közvilágítási üzemeltetési engedély iránti kérelmet benyújtani a Hivatalhoz.
+
+178/J. § (1) A Mód. 2. törvény hatálybelépést követően 132 kV-nál kisebb feszültségű elosztó hálózat és közvilágítási elosztó hálózat belterületen kizárólag földkábellel létesíthető. A földkábellel létesített elosztó hálózat és közvilágítási elosztó hálózat létesítésének költségét az elosztó viseli.
+
+(2) Az (1) bekezdést az annak hatálybalépését követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.
+
+178/K. § (1) A helyi önkormányzat, valamint a Kötv. szerinti műemlék tulajdonosa a 119/B. § (1) bekezdés szerinti kábelcserét első alkalommal a Mód. 2. törvény hatálybalépését követő 45. napig kezdeményezheti.
+
+(2) Az elosztó a 119/B. § (2) bekezdés szerinti kábelcsere-ütemezési tervet első alkalommal a Mód. 2. törvény hatálybalépését követő 90. napig állítja össze. A kábelcsere-ütemezési terv jóváhagyásával kapcsolatos 119/B. § (2) bekezdés szerinti határozatát a Hivatal első alkalommal a Mód. 2. törvény hatálybalépését követő 135. napig hozza meg.
+
+(3) Az elosztó a kábelcsere-ütemezési terv első alkalommal történő, Hivatal általi 119/B. § (2) bekezdés szerinti felülvizsgálata érdekében a felülvizsgálat tárgyát képező kábelcsere-ütemezési tervet legkésőbb 2014. március 31-ig benyújtja a Hivatalhoz.
+
+178/L. § (1) A Mód. 2. törvény hatálybalépését követően az elosztó és az egyetemes szolgáltató a tevékenységüket a Vhr.-ben meghatározott tevékenységek kivételével nem szervezhetik ki.
+
+(2) Az (1) bekezdés szerinti engedélyesek Mód. 2. törvény hatálybalépésekor hatályos kiszervezési tárgyú szerződései – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződések kivételével – nem hosszabbíthatók meg. A szerződő felek ezzel ellentétes megállapodása semmis.
+
+(3) Az (1) bekezdés szerinti engedélyesek – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Mód. 2. törvény hatálybalépését követő 6. hónapot követően az (1) bekezdés szerinti engedélyesek kapcsolt vállalkozásához kiszervezett tevékenységgel kapcsolatos költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
+
+178/M. § E törvény Mód. 2. törvénnyel megállapított 40. § (4) és (4a) bekezdése szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasást – az e törvény 177/A. § (1) bekezdés szerinti mintaprojektek kivételével – az okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.
+
+178/N. § (1) E törvénynek a Mód. 2. törvénnyel megállapított 50/A. § (2) bekezdésében foglaltaknak az engedélyeseknek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük. Az engedélyeseknek a Mód. 2. törvény hatálybelépésekor működtetett azon ügyfélszolgálataikat, amelyeket a Mód. 2. törvény 50/A. § (2) bekezdése alapján más ügyfélszolgálattal kell felváltaniuk, az e törvénynek a Mód. 2. törvénnyel megállapított 50/A. § (2) bekezdése szerinti ügyfélszolgálataik megnyitásáig fenn kell tartaniuk.
+
+(2) E törvénynek a Mód. 2. törvénnyel megállapított 50/B. §-ában foglaltaknak az engedélyeseknek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük.
+
+178/O. § A Mód. 2. törvénnyel az engedélyesekre megállapított új kötelezettségek engedélyesek általi teljesítésével kapcsolatosan felmerülő költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
