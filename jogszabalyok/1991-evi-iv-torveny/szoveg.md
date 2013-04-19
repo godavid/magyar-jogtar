@@ -562,7 +562,8 @@ időtartamával.
 - e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásra fordítható pályázati pénzeszközöket,
 - f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
 - g) a tranzakciós díjak finanszírozására szolgáló pénzeszközöket,
-- h)–i)
+- h) a kötelező legkisebb munkabér és a garantált bérminimum emeléséből 2013. első félévében adódó többletterhekhez igénybe vehető támogatásra fordítható pénzeszközöket.
+- i)
 - j) uniós forrás terhére – előleg bevonásával – megvalósuló operatív programok finanszírozására szolgáló pénzeszközöket,
 - k) az Európai Globalizációs Alkalmazkodási Alap elő- és társfinanszírozására szolgáló pénzeszközöket.
 
