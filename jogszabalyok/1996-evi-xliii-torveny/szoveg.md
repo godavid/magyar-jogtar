@@ -333,7 +333,7 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 
 (3) A Közgyűlés feladata:
 
-- a) megválasztja saját tagjai közül az elnökét és alelnökeit, a Pénzügyi Ellenőrző Bizottság (a továbbiakban: PEB) elnökét és tagjait, az Etikai Bizottság (a továbbiakban: EB) elnökét és tagjait, valamint a főtitkárt,
+- a) megválasztja saját tagjai közül az elnökét és alelnökeit, a Pénzügyi Ellenőrző Bizottság (a továbbiakban: PEB) elnökét és tagjait, az Etikai Bizottság (a továbbiakban: EB) elnökét és tagjait,
 - b) megalkotja az Alapszabályt és a Választási Szabályzatot,
 - c) gyakorolja az MRK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatáskörét.
 
@@ -346,7 +346,7 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 (7) Az Elnökség tagjai:
 
 - a) az elnök, az alelnökök,
-- b) a főtitkár,
+- b)
 - c) a PEB elnöke,
 - d) az EB elnöke.
 
@@ -356,7 +356,9 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 
 (10) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen hat alelnök segíti.
 
-(11) A Közgyűlés által megválasztott főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat.
+(10a) Az MRK hivatásos állományú elnöke a megbízatása idejére rendelkezési állományba kerül. Az elnök illetményének megállapítására – a megbízatás ideje alatt – a 245/H. § (2) bekezdését kell megfelelően alkalmazni.
+
+(11) A főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MRK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 30/C. § (1) és (2) bekezdése.
 
 (12) Az Elnökség, az Elnökség tagjai, a PEB és az EB feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
@@ -369,6 +371,14 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
   - ab) javaslatot tesz az állományilletékes parancsnoknak a kifogástalan életvitel ellenőrzésének kezdeményezésére, vagy
   - ac) megszünteti az etikai eljárást,
 - b) közalkalmazotti jogviszonyban álló taggal szemben az a) pont aa) vagy ac) alpontjában foglaltakat alkalmazhatja.
+
+29/D. § (1) Az MRK és a 29. § (3) bekezdése szerinti tagozat részére feladatai ellátása céljából – az MRK és a fegyveres szerv vagy a miniszter közötti megállapodás alapján – a fegyveres szerv vagy a miniszter helyiségeket és a tevékenysége ellátásához szükséges egyéb eszközöket térítésmentesen biztosíthat.
+
+(2) A miniszter – az MRK és a miniszter közötti megállapodás alapján – az MRK részére pénzbeli támogatást nyújthat.
+
+(3) A fegyveres szerv – az MRK és a fegyveres szerv közötti megállapodás alapján – az MRK-n keresztül pénzbeli támogatást nyújthat a 29. § (3) bekezdése szerinti azon tagozatnak, amelybe a fegyveres szerv hivatásos állományú és közalkalmazotti jogviszonyban álló tagjai tartoznak.
+
+(4) Az (1)–(3) bekezdésben foglalt megállapodások nyilvánosak, azokat az MRK és a támogatást nyújtó miniszter által vezetett minisztérium vagy fegyveres szerv honlapján közzé kell tenni.
 
 ### A Közgyűlés tagjainak megválasztása
 
@@ -401,12 +411,18 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 30/B. § (1) Az Iroda az MRK tagjáról a tagság igazolása céljából és a tagjai számára nyújtott kedvezményes szolgáltatások igénybevételi lehetőségének biztosítása céljából a következő adatokat tartja nyilván:
 
 - a) a tag neve, születési helye, ideje, anyja neve, lakóhelye, tartózkodási helye,
-- b) a foglalkoztatási jogviszony jellegének megjelölése, továbbá hivatásos állomány esetében a tag rendfokozata, valamint
-- c) a foglalkoztató szerv megnevezése, a szolgálatteljesítés vagy munkavégzés helye.
+- b) a foglalkoztatási jogviszony jellegének megjelölése, továbbá hivatásos állomány esetében a tag rendfokozata,
+- c) a foglalkoztató szerv megnevezése, a szolgálatteljesítés vagy munkavégzés helye,
+- d) a tag e-mail címe, fényképe, önéletrajza, legmagasabb iskolai végzettsége,
+- e) a tag eltartott gyermekeinek neve, születési helye, ideje,
+- f) kizárólag a korábban fennálló hivatásos szolgálati viszony és közalkalmazotti jogviszony tekintetében a tag korábbi foglalkoztatási jogviszonyainak kezdő és befejező dátuma, valamint
+- g) a fegyveres szervnél a hivatásos szolgálati viszony, továbbá a közalkalmazotti jogviszony kezdete.
+
+(1a) Az MRK (3) bekezdésben meghatározott tagjai vonatkozásában csak az (1) bekezdés a)–c) pontjában megjelölt adatokat kell nyilvántartani.
 
 (2) A nyilvántartásból – ha törvény eltérően nem rendelkezik – adatszolgáltatás csak a tag részére, saját adatairól teljesíthető.
 
-(3) A miniszter a rendőrséggel vagy a Nemzeti Adó- és Vámhivatallal szolgálati viszonyban álló fedett nyomozók, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjai adatainak a szolgálati feladatok ellátása érdekében szükséges védelme céljából a nyilvántartásra, és a nyilvántartott adatok kezelésére vonatkozó szabályokat határozhat meg normatív utasításában.
+(3) A miniszter a rendőrséggel vagy a Nemzeti Adó- és Vámhivatallal szolgálati viszonyban álló fedett nyomozók, valamint a polgári nemzetbiztonsági szolgálatok hivatásos és közalkalmazotti állománya tagjai adatainak a szolgálati feladatok ellátása érdekében szükséges védelme céljából a nyilvántartásra, és a nyilvántartott adatok kezelésére vonatkozó szabályokat határozhat meg normatív utasításában.
 
 (4) A polgári nemzetbiztonsági szolgálatok hivatásos és közalkalmazotti állománya, valamint a rendőrség és a Nemzeti Adó- és Vámhivatal fedett nyomozói tekintetében az Iroda a 30/A. § (2) és (3) bekezdésében, valamint 30/B. § (1) bekezdésében az Iroda részére meghatározott feladatokat a 30/B. § (3) bekezdése szerinti normatív utasításban meghatározottak szerint adatkezelésre kijelölt személy útján teljesíti. A fegyveres szerv a 30/A. § (2) bekezdésében meghatározott kötelezettségének az adatkezelő felé teljesített adatszolgáltatással tesz eleget.
 
@@ -547,6 +563,12 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 (3) Jogszabályban meghatározott rész munkáltatói jogokat az állományilletékes parancsnok alárendeltségébe tartozó parancsnok, kiemelt munkáltatói jogokat a törvény 2. számú melléklete alapján az országos parancsnok, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv vezetője, valamint a miniszter gyakorol.
 
 (4) Tábornok szolgálati viszonyának létesítéséről, megszüntetéséről, hivatásos állományba visszavételéről, tábornoki rendfokozatba történő kinevezéséről, előléptetéséről, valamint a tábornokra vonatkozó rendfokozatot vagy szolgálati viszonyt érintő fegyelmi fenyítés kiszabásáról a miniszter javaslatára a köztársasági elnök dönt.
+
+(5) A miniszternek a tábornok szolgálati viszonyának megszüntetésére, valamint a tábornokra vonatkozó rendfokozatot vagy szolgálati viszonyt érintő fegyelmi fenyítés kiszabására vonatkozó előterjesztését haladéktalanul közölni kell a tábornokkal.
+
+(6) A tábornok az előterjesztéssel szemben a kézbesítéstől számított 30 napos jogvesztő határidőn belül bírósághoz fordulhat, amelyet a miniszternek köteles írásban jelenteni.
+
+(7) A kereset jogerős elbírálásáig az előterjesztés nem terjeszthető a köztársasági elnök elé.
 
 ### A szolgálati viszony létesítésének feltételei
 
@@ -715,15 +737,18 @@ meghatározott munkakör vagy feladat ellátására, hivatásos szolgálati beos
 - e) akinek a részére az oktatási intézményben folytatott tanulmányai befejezése után felkészültségének megfelelő szolgálati beosztás nem biztosítható, legfeljebb 1 évig;
 - f) aki egészségi, pszichikai és fizikai állapota miatt eredeti szolgálati beosztását ellátni képtelen, az általa ellátható más beosztásba helyezéséig, de legfeljebb 1 évig;
 - g) aki szolgálati feladatait önhibáján kívüli okból (pl. gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt) nem tudja ellátni, legfeljebb az ok megszűnéséig;
-- h)
+- h) az MRK elnöke, az elnöki megbízatás megszűnéséig;
 - i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 75/B. § (5) és (7) bekezdés szerinti beosztás felajánlására nincs lehetőség;
-- j) akinek a részére a más szervhez vezénylés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig.
+- j) akinek a részére a más szervhez vezénylés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig;
+- k) akinek a szolgálati viszonyát a (3a) bekezdés alapján felmentéssel meg kellene szüntetni, de a felmentésére a Hszt. 58. §-ában meghatározott okok miatt nem kerülhet sor, legfeljebb a felmentési védelem megszűnéséig.
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § – az NKE-re vezényeltek esetében a 43. § és a 43/C. § – rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
-(3) Az (1) bekezdés c)–g) pontja szerinti rendelkezési állomány megszűnésekor a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztást kell biztosítani, ilyen beosztás hiányában legalább a végzettségének, képzettségének megfelelő beosztást kell felajánlani. Amennyiben a hivatásos állomány tagjának ilyen beosztás nem biztosítható, szolgálati viszonyát felmentéssel meg kell szüntetni.
+(3) Az (1) bekezdés c)–h) pontja szerinti rendelkezési állomány megszűnésekor a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztást kell biztosítani, ilyen beosztás hiányában legalább a végzettségének, képzettségének megfelelő beosztást kell felajánlani.
 
-(4)
+(3a) Amennyiben a (3) bekezdésben meghatározott esetben a hivatásos állomány tagjának a rendelkezési állományba helyezést megelőző beosztásával azonos besorolási szintű szolgálati beosztás nem biztosítható, illetve a részére ilyen beosztás hiányában felajánlott, végzettségének, képzettségének megfelelő beosztást nem fogadja el, – a hivatásos állomány (1) bekezdés k) pontjában meghatározott tagja kivételével – szolgálati viszonyát felmentéssel meg kell szüntetni.
+
+(4) Az (1) bekezdés k) pontja szerinti rendelkezési állomány időtartama alatt a hivatásos állomány tagja részére a (3) bekezdésben meghatározott szolgálati beosztást kell biztosítani vagy felajánlani. Amennyiben a hivatásos állomány tagjának az (1) bekezdés k) pontja szerinti rendelkezési állomány ideje alatt ilyen beosztás nem biztosítható, vagy a hivatásos állomány tagja a felajánlott beosztást nem fogadja el, a szolgálati viszonyát felmentéssel meg kell szüntetni.
 
 (5) Az (1) bekezdés b), e) és f) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
 
@@ -1003,7 +1028,7 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 - c) a vezetői kinevezés visszavonását követően a 75/B. § (4) bekezdése szerinti beosztás nem biztosítható;
 - d) megsérti a 18. § (2) bekezdés rendelkezéseit;
 - e) a hivatásos szolgálatra méltatlanná vált, mert olyan cselekményt követett el, amely a fegyveres szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a fegyveres szerv a szolgálati viszonyát fenntartsa,
-- f) a rendelkezési állomány megszűnésekor részére a 44. § (3) bekezdés szerinti beosztás nem biztosítható.
+- f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható.
 
 (3)
 
@@ -1733,7 +1758,7 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 
 (3) Az illetmény megállapítása a hivatásos állományba történő kinevezés, illetve más beosztásba történő kinevezés (megbízás) alkalmával meghatározott besorolás alapján történik.
 
-(4) Az illetmény illetménypótlékok nélküli együttes összege nem lehet kevesebb a külön jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél.
+(4) Az illetmény illetménypótlékok nélküli együttes összege nem lehet kevesebb a külön jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél. E rendelkezést nem kell alkalmazni a hivatásos állomány pályakezdő tagjaira, a részszakképesítés megszerzéséig.
 
 (5) Az 1 órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
 
@@ -3598,9 +3623,13 @@ A pótlékok mértéke:
 
 333. § A törvény hatálybalépését megelőzően létrehozott érdekképviseleti szervek működésére, illetőleg e szervek tisztségviselőinek jogosultságaira és kedvezményeire is e törvény rendelkezéseit kell alkalmazni.
 
-334–335. §
+334. § (1) E törvénynek a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény 2. §-ával megállapított 29/C. § (11) bekezdésében szereplő, a főtitkári tisztség betöltésére vonatkozó rendelkezését első alkalommal a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépésekor főtitkári tisztséget betöltő személy főtitkári megbízatásának megszűnését követően alkalmazásra kerülő főtitkár vonatkozásában kell alkalmazni.
 
-336. §
+(2) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépésekor főtitkári tisztséget betöltő személy MRK Elnökségében betöltött tagságát – a főtitkár megbízatásának megszűnéséig – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény 11. § (1) bekezdés b) pontja nem érinti.
+
+335. § E törvénynek a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény 1. §-ával megállapított 29/C. § (10a) bekezdését, valamint 6. §-ával megállapított 44. § (1) bekezdés h) pontját a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépésekor a hivatásos állomány elnöki tisztséget betöltő tagja esetében is alkalmazni kell.
+
+336. § E törvénynek a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény 6. §-ával megállapított 44. § (1) bekezdés k) pontját és 44. § (4) bekezdését azon személyek tekintetében is alkalmazni kell, akiknek a szolgálati viszonyát a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépését megelőzően az 56. § (2) bekezdés f) pontja alapján felmentéssel meg kellett volna szüntetni, ugyanakkor az 58. §-ban meghatározott okok miatt a felmentésre nem kerülhetett sor.
 
 337–338. §
 
