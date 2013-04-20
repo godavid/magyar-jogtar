@@ -6681,17 +6681,23 @@ A 0.28–1. értelmező rendelkezés után egy új, 0.28–2. értelmező rendel
 
 36. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2)
+(2) Hatályát veszti
+
+- a) a 2003. évi XXXIV. törvénnyel egységes szerkezetben kihirdetett, az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény módosításának kihirdetéséről szóló 2005. évi XXXII. törvény,
+- b) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény és módosításai egységes szerkezetben történő kihirdetéséről szóló 2003. évi XXXIV. törvény,
+- c) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 33/2006. (VI. 7.) GKM rendelet,
+- d) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 42/2003. (VII. 1.) GKM rendelet,
+- e) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 24/2001. (VII. 20.) KöViM rendelet,
+- f) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 31/1999. (X. 8.) KHVM rendelet,
+- g) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékleteinek kihirdetéséről szóló 16/1999. (VI. 3.) KHVM rendelet,
+- h) az áruknak TIR igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 11/1997. (VIII. 1.) KHVM rendelet.
 
 (3) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 
-(4)
+(4) Az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény 1978. december 22-én elfogadott első, 1980. január 7-én elfogadott második, 1980. december 8-án elfogadott harmadik, 1982. március 15-én elfogadott negyedik, 1983. december 19-én elfogadott ötödik, 1984. november 21-én elfogadott hatodik, 1986. február 3-án és 1986. február 3-án elfogadott hetedik, 1987. március 31-én elfogadott nyolcadik, 1988. február 23-án elfogadott kilencedik, 1988. február 23-án elfogadott tizedik, 1989. március 30-án elfogadott tizenegyedik, 1990. március 26-án elfogadott tizenkettedik, 1991. február 15-én elfogadott tizenharmadik, 1992. január 21-én elfogadott tizennegyedik, 1993. március 24-én elfogadott tizenötödik, 1993. március 24-én elfogadott tizenhatodik, 1994. április 27-én elfogadott tizenhetedik, 1995. április 5-én elfogadott tizennyolcadik, 1997. november 17-én elfogadott tizenkilencedik, 2001. február 12-én és 2001. február 12-én elfogadott huszadik, 2001. február 12-én elfogadott huszonegyedik, 2001. február 12-én elfogadott huszonkettedik, 2003. június 20-én elfogadott huszonharmadik, 2003. június 29-én elfogadott huszonnegyedik, 2005. március 24-én elfogadott huszonötödik, 2005. május 12-én elfogadott huszonhatodik, 2005. május 12-én elfogadott huszonhetedik, 2008. szeptember 15-én elfogadott huszonnyolcadik, 2009. február 5-én elfogadott huszonkilencedik, 2011. február 3-án elfogadott harmincadik, illetve 2011. február 3-án elfogadott harmincegyedik módosítással egységes szerkezetbe foglalt magyar nyelvű szövegének a Nemzeti Jogszabálytárban történő, az Egyezmény hatálybalépését követő haladéktalan közzétételéről a közlekedésért felelős miniszter gondoskodik.
 
 (5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a közlekedésért felelős miniszterrel egyetértésben
 
 - a) a garanciavállaló egyesület felhatalmazásának megadásával és visszavonásával kapcsolatos eljárási szabályokat,
-- b) a garanciavállaló egyesülettől követelhető TIR-igazolványonkénti legnagyobb pénzösszeget,
-- c) a TIR-igazolvány használatához az Egyezményben előírt feltételek teljesítésének módját, valamint
-- d) a TIR Egyezmény végrehajtásához szükséges egyéb rendelkezéseket
-
-rendeletben állapítsa meg.
+- b) a garanciavállaló egyesülettől követelhető TIR-igazolványonkénti legnagyobb pénzösszeget, valamint
+- c) a TIR igazolvány használatához az Egyezményben előírt feltételek teljesítésének módját rendeletben állapítsa meg.
