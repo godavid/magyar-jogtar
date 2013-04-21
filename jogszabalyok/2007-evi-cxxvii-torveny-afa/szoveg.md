@@ -56,7 +56,7 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - a) egyébként nem adóalanyi minőségben eljáró, az 5. § (1) bekezdése értelmében jogképes személy vagy szervezet (a továbbiakban együtt: személy, szervezet) belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesít belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi;
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése és az értékesítés között még nem telt el 2 év [ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló, illetőleg beépített új ingatlan];
+  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év
 - c) egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel építési telket (telekrészt) értékesít.
 
 (5) Nem minősül az (1) bekezdésben említett független formában végzett gazdasági tevékenységnek az a tevékenység, amelyet munkaviszony, munkaviszony jellegű jogviszony vagy olyan munkavégzésre irányuló egyéb jogviszony keretében végeznek, amelyben a jogosult irányítása és felelőssége mellett a kötelezett alárendelt helyzetben van a tevékenység végzése eredményének, díjazásának, valamint egyéb feltételeinek és körülményeinek meghatározásában.
@@ -961,7 +961,7 @@ nem minősül közszolgáltatónak.
 - i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is;
 - j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
   - ja) első rendeltetésszerű használatbavétele még nem történt meg; vagy
-  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése és az értékesítés között még nem telt el 2 év;
+  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása.
 
@@ -975,7 +975,8 @@ nem minősül közszolgáltatónak.
 87. § Mentes az adó alól a termék értékesítése abban az esetben, ha
 
 - a) az értékesítést megelőzően a terméket kizárólag a 85. § (1) bekezdése vagy a 86. § (1) bekezdése szerint adómentes termékértékesítéshez és szolgáltatásnyújtáshoz használták, egyéb módon hasznosították, és a termékhez adólevonási jog nem kapcsolódott;
-- b) az értékesítést megelőzően a termékhez kapcsolódó előzetesen felszámított adó a 124. és 125. § szerint nem vonható le.
+- b) az értékesítést megelőzően a termékhez kapcsolódó előzetesen felszámított adó a 124. és 125. § szerint nem vonható le;
+- c) az értékesítést megelőzően a termékhez előzetesen felszámított adó kapcsolódott volna, az a 124. § (1) bekezdés d) pontja szerint nem lenne levonható.
 
 ### Adókötelessé tétel
 
@@ -2113,7 +2114,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése és az értékesítés között még nem telt el 2 év,
+  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év,
 - d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás,
@@ -2939,7 +2940,9 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 - 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
-- 7. építési telek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek és építési terület, amely egyúttal nem minősül beépített ingatlannak;
+- 7. építési telek: az olyan
+  - a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
+  - b) telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál (építési terület) és amely egyúttal nem minősül beépített ingatlannak.
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
 - 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani; 9/A. közcélú adomány, adományozás: a közhasznú szervezet részére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben nevesített közhasznú tevékenység támogatására, valamint a külön törvényben meghatározott feltételeknek megfelelő egyház részére az ott meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve, hogy
   - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem szolgálja, vagy csak látszólag szolgálja a közhasznú, a közérdekű, továbbá – egyház esetében – a külön törvényben meghatározott célt,
@@ -2958,7 +2961,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 - 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
 - 17. rádiós és audiovizuális médiaszolgáltatások: a nyilvánosság számára vételre szánt, megszerkesztett rádió-, illetőleg televízió-műsornak a médiaszolgáltató általi előállítása, elektronikus jelek formájában való megjelenítése és a felhasználó vevőkészülékéhez történő továbbítása vagy továbbjuttatása;
-- 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek,
+- 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
   - a) amely tulajdon kisajátításának tárgyát képezi, vagy
   - b) amelynek szerzése az értékesítőnél – az illetékekről szóló törvény alapján – öröklési illeték tárgyát képezte, az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem minősül sorozat jellegűnek, továbbá azon – lakóterület besorolású – építési telkek (telekrészek), amelyeket telekmegosztással egyazon építési telekből (telekrészből) alakítottak ki – darabszámtól függetlenül – az előzőekben említett darabszámba egy építési telekként (telekrészként) számítanak be.
 - 19. székhely: a gazdasági tevékenység folytatásának az a helye, ahol a központi ügyvezetés helye van, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
