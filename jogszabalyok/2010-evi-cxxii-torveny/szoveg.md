@@ -2602,10 +2602,12 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - b) a közép- és alsó fokú vámszerveket,
 - c) az informatikai feladatokat ellátó intézetet, valamint a humánerőforrás-fejlesztési feladatokat ellátó intézetet,
 - d) a NAV bűnügyi főigazgatóságát, illetve a bűnügyi főigazgatóság középfokú szerveit és alsó fokú szervét,
-- e) az Art. 56. § (1) bekezdése szerinti kapcsolattartó közigazgatási szervet vagy szerveket, valamint az Art. 70. § 5. pontjában és 5.1. alpontjában meghatározott központi kapcsolattartó irodát, továbbá szükség esetén az Art. 70. § 5. pontjában és 5.2., 5.3 alpontjaiban meghatározott kapcsolattartó irodát, kapcsolattartó szervet;
+- e) az Art. 7. számú melléklet 18. pontja szerinti szervet,
 - f)
-- g)
-- h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot.
+- g) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló 2010. október 7-i 904/2010/EU tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti központi kapcsolattartó irodát és szükség esetén e rendelet 2. cikk (1) bekezdés b) pontja szerinti kapcsolattartó szervet,
+- h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot,
+- i) az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 4. § (3) bekezdés 8. pontjában meghatározott központi kapcsolattartó irodát és szükség esetén az Aktv. 4. § (3) bekezdés 7. pontjában meghatározott kapcsolattartó szervet,
+- j) az Aktv. 4. § (4) bekezdés 6. pontjában meghatározott központi kapcsolattartó irodát és szükség esetén az Aktv. 4. § (4) bekezdés 4. és 5. pontjaiban meghatározott kapcsolattartó irodát és kapcsolattartó szervet.
 
 82. § Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 

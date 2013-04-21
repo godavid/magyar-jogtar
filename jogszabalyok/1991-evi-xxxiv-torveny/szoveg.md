@@ -75,9 +75,11 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - b) a játékosok személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja,
 - c) a véletlen elemeket az elektronikus játékrendszerek auditálása alapján biztosítja.
 
-(7) Nem folytatható belföldön vagy külföldön szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére az állami adóhatóság nem adott engedélyt.
+(7) Nem folytatható belföldön, külföldön vagy nemzetközi együttműködés keretében szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére az állami adóhatóság nem adott engedélyt.
 
 (8) A szerencsejáték-szervező a (4) bekezdés b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, ennek érdekében azt a szervező évente igazolni köteles, az állami adóhatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni. A személyi megfelelőség meghosszabbítására irányuló kérelmet a személyi megfelelőség érvényességéig kell benyújtani az állami adóhatósághoz, a határidőben benyújtott kérelem esetén annak jogerős elbírálásáig az állami adóhatóság vélelmezi a személyi megfelelőség fennállását.
+
+(9) A nemzetközi együttműködés keretében szervezett szerencsejáték engedélyezésére, felügyeletére, valamint a szervezői tevékenység folytatására – e törvény eltérő rendelkezése hiányában – az e törvény sorsolásos játékra, illetve totalizatőri fogadásra vonatkozó rendelkezéseit kell alkalmazni.
 
 3. § (1) A nem liberalizált szerencsejátékok szervezését
 
@@ -110,7 +112,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 6. § (1) A koncesszióköteles tevékenység folytatására a koncessziós szerződést aláírónak e törvény különös rendelkezéseiben meghatározott olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek, illetőleg a szavazatok többségével rendelkezik és kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
-(2) A szerencsejátékokkal kapcsolatos koncessziós eljárásra vonatkozó részletes szabályokat, így különösen a Pályázati Értékelő Bizottság létrehozását, összetételét és eljárását a miniszter rendeletben állapítja meg.
+(2)
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
 
@@ -528,7 +530,9 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) A számsorsjáték havi nyereményalapjának minősül a tárgyhónapban játékra jogosított sorsjegyek tétjeként a játékosok által megfizetett összeg.
 
-30/A. § A fogadás nyereményalapja a fogadásra fizetett tétek összessége. A bukmékeri rendszerű fogadás esetén a nyereményalapnak legalább 75%-át, az állami játékszervező által szervezett totalizatőri rendszerű fogadásnál a nyereményalap legalább 45%-át, a lóversenyfogadás nyereményalapjának legalább 68%-át nyeremények céljára kell fordítani. E feltételeknek a bukmékeri rendszerű fogadás esetén évente kell megfelelni. A folyamatosan szervezett totalizatőri rendszerű fogadás esetében az állami adóhatóság engedélyezheti a nyeremények halmozódását, annak kezdő időpontjától számított egy évig.
+30/A. § (1) A fogadás nyereményalapja a fogadásra fizetett tétek összessége. A bukmékeri rendszerű fogadás esetén a nyereményalapnak legalább 75%-át, az állami játékszervező által szervezett totalizatőri rendszerű fogadásnál a nyereményalap legalább 45%-át, a lóversenyfogadás nyereményalapjának legalább 68%-át nyeremények céljára kell fordítani. E feltételeknek a bukmékeri rendszerű fogadás esetén évente kell megfelelni. A folyamatosan szervezett totalizatőri rendszerű fogadás esetében az állami adóhatóság engedélyezheti a nyeremények halmozódását, annak kezdő időpontjától számított egy évig.
+
+(2) Nemzetközi együttműködés keretében szervezett sorsolásos játék és totalizatőri rendszerű fogadás esetében a nyeremény visszafizetési hányadnak a közös nyereményalapra vonatkozóan kell érvényesülnie.
 
 ### A kártyateremben szervezett kártyajáték nyereményalapja
 
@@ -576,9 +580,15 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### Játékkaszinó játékadója
 
-35. § (1) A játékkaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – a havi tiszta játékbevétel 30%-a.
+35. § (1) A játékkaszinó játékadója – ideértve a játékkaszinóban üzemeltetett pénznyerő automatát is – ha az adóévben elért tiszta játékbevétel összege:
+
+| 0–10 milliárd forint | 30 százalék, |
+| --- | --- |
+| 10 milliárd 1 forinttól | 3 milliárd forint és a 10 milliárd forinton felüli rész 10 százaléka. |
 
 (2) A tiszta játékbevételt növeli a tárgyhóban elfogadott borravaló 50%-a.
+
+(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét.
 
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
@@ -590,7 +600,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) Az állami adóhatóság ellenőrei az adatgyűjtésre irányuló, illetve a játékban való részvétel útján történő ellenőrzés esetén az eljárási cselekmény befejezésekor igazolják az ellenőrzési jogosultságot. Ha a tényállás további tisztázása szükséges és az ellenőrzés felfedése az eljárás eredményes lefolytatását veszélyeztetné, az állami adóhatóság ellenőrei az eljárási cselekmény befejezésekor sem igazolják ellenőrzési jogosultságukat és az ellenőrzésről felvett jegyzőkönyvet az állami adóhatóság legkésőbb a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény 70. § (1) bekezdésében meghatározott határidőig küldi meg az ügyfélnek, amennyiben a feltárt adatok alapján jogsértés állapítható meg és az állami adóhatóság hatósági eljárást indított. Az állami adóhatóság ellenőrei az ellenőrzött szerencsejátékban büntetőjogi, illetve szabálysértési jogkövetkezmények terhe nélkül vehetnek részt.
 
-(5)
+(5) Belföldön a nemzetközi együttműködés keretében szervezett szerencsejáték szervezési tevékenység – az egyéb feltételek fennállása esetén – abban az esetben folytatható, ha az állami adóhatóság a sorsolás, a fogadás, illetve a közös nyereményalap megállapításához is használt központi szerver helye szerinti valamennyi állam szerencsejáték felügyeleti hatóságával együttműködési megállapodást kötött a nemzetközi együttműködés keretében szervezett szerencsejáték hatékony felügyelete érdekében és e megállapodás valamennyi részes fél tekintetében hatályos. Az állami adóhatóság az együttműködési megállapodás fennálltáról és hatályáról az engedély kiadásával egyidejűleg tájékoztatja a szervezőt. Az állami adóhatóság az együttműködési megállapodás hatályának vagy részes államainak változásáról az engedély időtartama alatt haladéktalanul értesíti a szervezőt.
 
 36/A. § (1) A vámhatóság ellenőrző tevékenysége során köteles vizsgálni az e törvényben foglalt rendelkezések betartását.
 
@@ -702,6 +712,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - 23. Távszerencsejáték: a lóversenyfogadás és a kártyajáték, ha azt hírközlő eszköz és rendszer útján szervezik.
 - 24. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 - 25. Biztosíték: EGT-állam területén székhellyel rendelkező hitelintézetnél vagy befektetési szolgáltatónál elhelyezett pénz vagy állampapír, EGT-állam területén székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.
+- 26. Nemzetközi együttműködés keretében szervezett szerencsejáték: különböző államokban székhellyel rendelkező szerencsejáték szervezők által közösen szervezett sorsolásos játék, illetve totalizatőri rendszerű fogadás, amely esetén a különböző államban székhellyel rendelkező szerencsejáték szervezők mindegyike rendelkezik a székhelye szerinti államban az adott szerencsejáték szervezésére vonatkozó engedéllyel és a szervezők az együttműködés keretében az általuk önállóan gyűjtött tétekből közös nyereményalapot képeznek.
 
 ### Záró rendelkezések
 
@@ -716,7 +727,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
 - f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
-- h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával,
+- h)
 - i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 - j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 

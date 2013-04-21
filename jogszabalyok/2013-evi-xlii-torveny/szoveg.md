@@ -6681,16 +6681,7 @@ A 0.28–1. értelmező rendelkezés után egy új, 0.28–2. értelmező rendel
 
 36. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti
-
-- a) a 2003. évi XXXIV. törvénnyel egységes szerkezetben kihirdetett, az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény módosításának kihirdetéséről szóló 2005. évi XXXII. törvény,
-- b) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény és módosításai egységes szerkezetben történő kihirdetéséről szóló 2003. évi XXXIV. törvény,
-- c) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 33/2006. (VI. 7.) GKM rendelet,
-- d) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 42/2003. (VII. 1.) GKM rendelet,
-- e) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 24/2001. (VII. 20.) KöViM rendelet,
-- f) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 31/1999. (X. 8.) KHVM rendelet,
-- g) az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékleteinek kihirdetéséről szóló 16/1999. (VI. 3.) KHVM rendelet,
-- h) az áruknak TIR igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény mellékletei módosításának kihirdetéséről szóló 11/1997. (VIII. 1.) KHVM rendelet.
+(2)
 
 (3) E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 

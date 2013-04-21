@@ -143,6 +143,8 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 (3) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
 
+(4) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosításáról szóló 2012. évi XVIII. törvény 43. §-ával megállapított 2. § h) pontját 2012. január 1-jétől kell alkalmazni.
+
 11. § A népegészségügyi termékadóból és a baleseti adóból származó bevétel az Egészségbiztosítási Alap bevételét képezi.
 
 ### II. Fejezet — BALESETI ADÓ
