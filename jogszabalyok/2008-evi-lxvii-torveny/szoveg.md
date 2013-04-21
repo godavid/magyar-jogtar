@@ -78,6 +78,8 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (2) Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény társasági adóban még nem érvényesített részével. E rendelkezésben meghatározott kedvezmény a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-ai 800/2008/EK bizottsági rendelet (HL L 214., 2008. 08. 09., 3–47. o.) hatálya alá tartozó regionális beruházási támogatási programnak minősül.
 
+(3) Az (1) és (2) bekezdés szerint kiszámított jövedelemadót legfeljebb annak mértékéig csökkenti az üzleti évre (adóévre) bányajáradék címén fizetett (fizetendő) összeg, legfeljebb azonban 1,5 milliárd forint.
+
 ### A jövedelemadó bevallása, megfizetése
 
 8. § (1) A fizetendő jövedelemadó a 7. § szerint megállapított összeg, csökkentve a (2) bekezdés szerint beszámított összeggel.
@@ -108,7 +110,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - 8. kedvezményezett eszközátruházás: a Tao. tv. 4. § 23/b. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 9. kedvezményezett részesedéscsere: a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
 - 10. kőolajtermék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 52. § (1) bekezdésének a)–f) pontjaiban felsorolt üzem- és tüzelőanyag;
-- 11. közszolgáltató: 11.1. a vízgazdálkodásról szóló törvény szerinti, víziközművekkel közüzemi tevékenységet végző szolgáltató, 11.2. a hulladékgazdálkodásról szóló törvény szerinti települési hulladékkezelési közszolgáltatást végző hulladékkezelő.
+- 11. közszolgáltató: 11.1. a víziközmű-szolgáltatásról szóló törvény szerinti víziközmű-szolgáltató, 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató, 11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
 
 ### III. Fejezet — AZ ÁRKÉPZÉS ÁTLÁTHATÓSÁGÁNAK ÉRDEKÉBEN SZÜKSÉGES TÖRVÉNYMÓDOSÍTÁSOK
 
