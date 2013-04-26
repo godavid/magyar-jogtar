@@ -398,7 +398,7 @@ terjed ki.
 - a) saját tagjai közül megválasztja az elnökét, alelnökeit, az Országos Pénzügyi Ellenőrző Bizottság, valamint az Országos Etikai Bizottság elnökét és tagjait;
 - b) megalkotja az Alapszabályt és a Választási Szabályzatot;
 - c) gyakorolja az MKK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatásköreit;
-- d) megválasztja a főtitkárt.
+- d)
 
 (4) Az Országos Közgyűlés feladat- és hatásköreinek gyakorlását – ha e törvény vagy az Alapszabály nem rendelkezik másképp – átruházhatja az MKK országos és területi szerveire és tisztségviselőire.
 
@@ -409,7 +409,7 @@ terjed ki.
 (7) Az Elnökség tagjai:
 
 - a) az elnök, az alelnökök;
-- b) a főtitkár;
+- b)
 - c) az Országos Pénzügyi Ellenőrző Bizottság elnöke;
 - d) az Országos Etikai Bizottság elnöke.
 
@@ -417,9 +417,9 @@ terjed ki.
 
 (9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása. A másodfokú határozat a közigazgatási perekre irányadó szabályok szerint bíróság előtt megtámadható.
 
-(10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti.
+(10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 
-(11) A főtitkár vezeti az MKK Országos Irodáját, valamint ellátja az Alapszabályban meghatározott feladatokat.
+(11) A főtitkár vezeti az MKK Országos Irodáját, valamint ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MKK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 34. § (1) és (2) bekezdése.
 
 (12) Az Elnökség, az Elnökség tagjainak, valamint a Pénzügyi Ellenőrző Bizottság és az Etikai Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
@@ -459,7 +459,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (8) Az MKK tagjának kötelezettsége, hogy megtartsa az MKK működésére vonatkozó szabályokat.
 
-(9) Az Országos Iroda a tagnyilvántartási adatok körében az MKK 29. § (6) bekezdésében meghatározott feladatainak ellátása céljából kezeli az e törvény 2. melléklete szerinti közszolgálati alapnyilvántartás adatköréből az I/A. 1.–4., a III. 1.–5. és 7., a IV. 1., a V. 1. és 5. és 8. pontban foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
+(9) Az Országos Iroda a tagnyilvántartási adatok körében az MKK 29. § (6) bekezdésében meghatározott feladatainak ellátása céljából kezeli az e törvény 2. melléklete szerinti közszolgálati alapnyilvántartás adatköréből az I/A. 1–4., 9–11., I/B. 1–2., II.1., a III. 1. és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a III. 6., a IV.1., a V.1–2., 5. és 8. pontban foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. Az MKK által kezelt adatokat a munkáltató a (2) és (4) bekezdésben meghatározott időpontokban adja át az MKK részére. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
 
 (10) Az MKK-tagsághoz tagdíjfizetési kötelezettség nem kapcsolódik.
 
@@ -480,6 +480,8 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 - a) politikai párt tagja;
 - b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető, valamint a hivatali szerv vezetője;
 - c) más kamara tagja.
+
+(3a) Ha a (3) bekezdésben meghatározott személyek más kamarai tagsággal is rendelkeznek, akkor e kamarai tagsági viszonyt fel kell függeszteni.
 
 (4) Az Országos és a Területi Elnökség, az Országos Pénzügyi Ellenőrző Bizottság és az Országos és a Területi Etikai Bizottság tagjai nem lehetnek egymás hozzátartozói.
 
@@ -511,6 +513,8 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 - c) ismételt vagy súlyos törvénysértés esetén az MKK egyes szerveinek működését felfüggeszti.
 
 (6) Az ügyészég és a bíróság a (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert.
+
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, illetve egyéb államigazgatási szerv vezetője az MKK-val, illetve annak területi szervezetével kötött megállapodás alapján az MKK, illetve területi szervezete működéséhez támogatást (pénzbeli, nem pénzbeli) nyújthat. A megállapodás irányulhat helyiséghasználat biztosítására is. A megállapodás nyilvános, azt a támogatást nyújtó államigazgatási szerv és az MKK honlapján közzé kell tenni.
 
 ## HARMADIK RÉSZ — A KORMÁNYZATI SZOLGÁLATI JOGVISZONYBAN ÁLLÓK
 
@@ -1938,13 +1942,29 @@ kell megállapítani.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
 
-134. § (1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével és ide nem értve a Nemzeti Adó- és Vámhivatalt –, a Magyar Államkincstár Központjában, valamint a Budapesti és Pest Megyei Igazgatóságánál, a Mezőgazdasági Szakigazgatási Hivatalnál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, a Földmérési és Távérzékelési Intézetnél, az Európai Támogatásokat Auditáló Főigazgatóságnál, a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetnél, a Nemzeti Külgazdasági Hivatalnál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével – az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+134. § (1) Az illetménykiegészítés mértéke
 
-(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a megyei, fővárosi kormányhivatalnál, továbbá az Országos Nyugdíjbiztosítási Főigazgatóság központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+- 1. a Miniszterelnökségen,
+- 2. a minisztériumban és – a Központi Statisztikai Hivatal területi szervezeti egységei és a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
+- 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
+- 4. a kincstár központi szervénél, valamint Budapest és Pest megye területére kiterjedő illetékességű területi szervénél,
+- 5. az élelmiszerlánc-felügyeleti szervnél,
+- 6. a Nemzeti Földalapkezelő Szervezetnél,
+- 7. – a területi szervezeti egységei kivételével – a mezőgazdasági és vidékfejlesztési támogatási szervnél,
+- 8. a földmérési és térinformatikai államigazgatási szervnél,
+- 9. az államháztartásért felelős miniszter irányítása alatt álló, egyes európai uniós támogatások ellenőrzését végző központi hivatalnál,
+- 10. az egészségügyért felelős miniszter irányítása alatt álló, egyes egészségügyi intézményekkel kapcsolatos fenntartói, továbbá egészségszervezési, minőségügyi, egyes hatósági és továbbképzéssel kapcsolatos feladatokat együttesen ellátó központi hivatalnál,
+- 11. a külgazdasági tevékenységet irányító központi hivatalnál,
+- 12. jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél,
+- 13. – azok belső igazgatási szervei kivételével – az egészségügyről szóló törvény szerinti egészségbiztosítási szerv központi szervénél és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatalnál,
+- 14. a fejlesztéspolitikáért felelős miniszter irányítása alatt álló, az európai uniós támogatások igénybevételében közreműködő központi hivatalnál,
+- 15. a kormányzati tevékenység összehangolásáért felelős miniszter irányítása alatt álló, a kormányzással és közigazgatással kapcsolatos kutatásokat folytatató központi hivatalnál foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(3) A központi államigazgatási szerv legalább megyei illetékességű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az Országos Egészségbiztosítási Pénztár legalább megyei illetékességű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a megyei, fővárosi kormányhivatalok járási (fővárosi kerületi) illetékességű, valamint az Országos Nyugdíjbiztosítási Főigazgatóság és az Országos Egészségbiztosítási Pénztár legalább helyi illetékességű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségügyről szóló törvény szerinti egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+
+(4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) szintű, valamint az egészségügyről szóló törvény szerinti egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős központi hivatal legalább helyi szintű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
 135. § (1) A 134. § (3) bekezdésében felsorolt szervnél – ide nem értve a szerv vezetőjét – legfeljebb kettő, fővárosi illetékességű szervnél legfeljebb három, a 134. § (4) bekezdésében felsorolt szervnél – ide nem értve a szerv vezetőjét – legfeljebb egy vezetői szint létesíthető. Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a 134. § (3) bekezdésében felsorolt szerv vezetője főosztályvezetői, szervezeti egységének vezetője főosztályvezető-helyettesi vagy osztályvezetői, fővárosi illetékességű szervnél a szervezeti egység vezetője főosztályvezetői vagy főosztályvezető-helyettesi, vagy osztályvezetői, a 134. § (4) bekezdésében felsorolt szerv vezetője főosztályvezetői, szervezeti egységének vezetője osztályvezetői alapilletményre jogosult. A főváros területére kiterjedő illetékességgel rendelkező, a 134. § (3) bekezdésében felsorolt szerv vezetője a 30%-os vezetői illetménypótlékra jogosult.
 
@@ -2968,7 +2988,7 @@ munkanapra emelkedik.
 
 217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a közigazgatási államtitkár a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek.
 
-(2) A közigazgatási államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg, az azonban nem lehet későbbi a lemondásnak a köztársasági elnökkel történő közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnésének napján kezdődik.
+(2) A közigazgatási államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a köztársasági elnökkel történő közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 
 (3) Ha a közigazgatási államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a közigazgatási államtitkár a munkavégzési kötelezettség alól mentesül.
 
@@ -3040,7 +3060,7 @@ munkanapra emelkedik.
 
 222. § (1) A helyettes államtitkár e tisztségéről a miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A Miniszterelnökségen működő helyettes államtitkár a Miniszterelnökséget vezető államtitkár útján juttatja el lemondását a miniszterelnökhöz.
 
-(2) A helyettes államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszter javaslatára a miniszterelnök határozza meg, az azonban nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnésének napján kezdődik.
+(2) A helyettes államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszter javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 
 (3) Ha a helyettes államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a helyettes államtitkár a munkavégzési kötelezettség alól mentesül.
 
@@ -3502,7 +3522,7 @@ vonatkozó részletes szabályokat;
   - b) teljesítményértékelésének ajánlott elemeit, továbbá
   - c) teljesítményértékelésének, minősítésének a rendjére, eljárására és szintjeire vonatkozó részletes szabályokat;
 - 6. megállapítsa
-  - a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
+  - a) a közszolgálati tisztviselők részére járó cafetéria-juttatásra vonatkozó nyilatkozat megtételének és módosításának, a cafetéria-juttatás törvényben meghatározottak szerinti keretösszege megállapításának, továbbá a közszolgálati tisztviselők részére adható egyéb juttatások általános feltételeire,
   - b) a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott kormánytisztviselők jutalmazására vonatkozó részletes szabályokat és a jutalmazással összefüggő adatkezelésre és adatszolgáltatásra,
   - c) a célfeladatra és a kutatási megállapodásra,
   - d) a képzettségi és munkaköri pótlékra,
@@ -3536,6 +3556,7 @@ vonatkozó részletes szabályokat;
   - b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,
   - c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
 - 18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+- 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa.
 
 (2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
 
@@ -3913,6 +3934,8 @@ I. A kormánytisztviselő
 2. születési helye, ideje
 
 3. anyja születési családi és utóneve
+
+4. fényképe
 
 II.
 
