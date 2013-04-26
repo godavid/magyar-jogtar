@@ -12,7 +12,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - b) a világörökségi és a világörökségi várományos területekkel kapcsolatos, a világörökségi terület kiemelkedő egyetemes értékét, valamint a világörökségi várományos terület kiemelkedő értékét érintő tevékenységre, valamint
 - c) a b) pont szerinti tevékenységet végző vagy e tevékenység által érintett szervezetekre és személyekre.
 
-(2) Világörökségi vagy világörökségi várományos területté csak a kulturális örökség védelméről szóló 2001. évi LXIV. törvény, a természet védelméről szóló 1996. évi LIII. törvény, valamint az ezek végrehajtására kiadott jogszabályok alapján védetté nyilvánított, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület nyilvánítható. A világörökségi vagy a világörökségi várományos területté nyilvánítás a már fennálló védettségen túl további oltalmat nem keletkeztet.
+(2) Világörökségi vagy világörökségi várományos területté csak a kulturális örökség védelméről szóló 2001. évi LXIV. törvény, a természet védelméről szóló 1996. évi LIII. törvény, valamint az ezek végrehajtására kiadott jogszabályok alapján védetté nyilvánított, és ekként kulturális örökségi védelmet élvező terület, illetve védett természeti terület nyilvánítható. A világörökségi vagy a világörökségi várományos területté nyilvánítás a már fennálló védettségen túl – az e törvényben foglalt kivételekkel – további oltalmat nem keletkeztet.
 
 2. § E törvény alkalmazásában:
 
@@ -32,7 +32,16 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, valamint az egyházak, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
 
-(3) A világörökségi és a várományos területet az Egyezménnyel, továbbá a világörökségi területet a világörökségi kezelési tervben foglaltakkal összhangban, azok egyetemes és nemzeti értékeit megőrizve kell használni, fenntartható módon fejleszteni, bemutatni, illetve szükség szerint helyreállítani.
+(3) A világörökségi és a várományos területet az Egyezménnyel összhangban, annak egyetemes és nemzeti értékeit megőrizve és a köz érdekét szolgálva kell használni, bemutatni, fenntartható módon fejleszteni vagy szükség szerint helyreállítani.
+
+(4) A világörökségi és a várományos terület használata, bemutatása és fejlesztése az 1. § (2) bekezdés szerinti védettségre tekintettel, egységes kezelési elvek alapján, átláthatóan, a világörökségi címhez méltó módon történhet, így különösen
+
+- a) a helyszínnek meg kell őriznie eredeti értékeit, egységes látképét, történeti környezetbe ágyazott, illetve egyedi megjelenését különösen a – nappali és éjszakai – látvány, a térbeli kapcsolatok és arányok tekintetében,
+- b) ne veszélyeztesse a helyszín hitelességét, sértetlen fennmaradását és integritását, továbbá ne eredményezze a világörökségi értékek károsodását és a károsodás veszélyét ne idézze elő,
+- c) méltón illeszkedjen a terület kulturális, történeti, természeti értékeihez,
+- d) ne okozza akár közvetlenül, akár közvetve az egyetemes és nemzeti értékek csökkenését, értékvesztését,
+- e) érvényesüljön a közérdeknek megfelelő és hiteles, a világörökségi helyszínhez méltó funkció és jelleg,
+- f) biztosított legyen a világörökségi értékekhez való hozzáférés, a megközelíthetőség és a zavartalan látogatás.
 
 4. § (1) A világörökségi területekkel összefüggő állami feladatokat a kultúráért felelős miniszter – a külön jogszabályok alapján fennálló feladat- és hatáskörüket nem érintve – az 1. mellékletben meghatározott miniszterekkel egyetértésben, más érdekelt miniszterekkel együttműködve látja el.
 
@@ -49,6 +58,12 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetközi feladatokat, így különösen a határon átnyúló világörökségi helyszínek esetén együttműködésre törekszik a határon átnyúló helyszínnel érintett Részes Állam felelős miniszterével;
 - j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 - k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről.
+
+4/A. § (1) A kultúráért felelős miniszter hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) használatát és hasznosítását.
+
+(2) Ha a kultúráért felelős miniszter a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti hatósági eljárásában megállapítja, hogy az állami vagyonelem használata vagy hasznosítása nem felel meg a 3. § (3)–(4) bekezdéseiben foglalt követelményeknek, közigazgatási hatósági határozatban kötelezi az állami vagyonelemet használó vagy hasznosító személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet arra, hogy a vagyonelemet 30 napon belül az állam tulajdonosi jogait gyakorló szerv birtokába adja. A határozat jogerőssé válásával egyidejűleg az állami vagyonelem használatára illetve hasznosítására vonatkozó, a határozat jogerőssé válása időpontjában érvényes jogviszony a törvény erejénél fogva megszűnik. A kultúráért felelős miniszter a határozatában döntését a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilváníthatja.
+
+(3) A (2) bekezdés szerinti határozat végrehajtását az állam tulajdonosi jogait gyakorló szerv foganatosítja.
 
 5. § A kultúráért felelős miniszter más érdekelt miniszterekkel együttműködve ellátja a várományos területtel kapcsolatos állami feladatokat, így különösen:
 
@@ -135,7 +150,8 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 - a) a világörökségi kezelési terv kidolgozását;
 - b) a 9. § (2) bekezdésében meghatározott szakértői költségeket;
-- c) a területrendezési tervek és településrendezési eszközök világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását.
+- c) a területrendezési tervek és településrendezési eszközök világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
+- d) a 4/A. § szerinti felülvizsgálattal összefüggésben felmerülő, másra át nem hárítható költségeket és egyéb fizetési kötelezettségeket.
 
 (3) Az állam a központi költségvetésből támogatást nyújt az alábbi feladatok ellátásához:
 
@@ -149,7 +165,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 #### 5. Átmeneti rendelkezések
 
-13. § (1) A miniszter e törvény hatálybalépését követő két éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
+13. § (1) A kultúráért felelős miniszter e törvény hatálybalépését követő két éven belül felülvizsgálja az e törvény hatálybalépésekor az Egyezmény 1. és 2. cikkében meghatározott kritériumok szerint a Központhoz bejelentett helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének indokoltságát. Amennyiben a kultúráért felelős miniszter a felülvizsgálatot követően nem tartja indokoltnak a helyszín Világörökségi Várományos Helyszínek Jegyzékébe történő felvételét, erről soron kívül értesíti a Központot.
 
 (2) Az illetékes országos szervezetek, valamint a megyei önkormányzatok a területrendezési terveik 8. § (6) bekezdés a) pontja szerinti összhangja megteremtéséről a világörökségi kezelési tervek kihirdetését követően legkésőbb 5 éven belül, illetve más jogszabályból fakadó kötelező felülvizsgálat vagy más okból elvégzett módosítás alkalmával kötelesek gondoskodni.
 
@@ -159,12 +175,9 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (5) Az e törvény hatálybalépését követően a Világörökség Jegyzékbe felvett helyszín – e törvény 1. mellékletének módosítása általi – kihirdetését a Kormány kezdeményezi. Ezen helyszínek világörökségi gondnokságát a kihirdetéstől számított hat hónapon belül kell kijelölni.
 
-(6) A miniszter – az állami vagyon felügyeletéért felelős miniszter közreműködésével – e törvény hatálybalépését követő tizenkét hónapon belül felülvizsgálja a világörökségi helyszínen található, állami tulajdonban lévő vagyonelemek hasznosítására vonatkozó bérleti, vagyonkezelési vagy egyéb használati jogviszonyt alapító szerződéseket. Amennyiben a miniszter megállapítja, hogy valamely szerződés az Egyezményben vagy e törvényben rögzített célokkal ellentétes vagy azok megvalósítását jelentős mértékben korlátozza, illetve akadályozza, erről értesíti:
+(6) E törvénynek a világörökségről szóló 2011. évi LXXVII. törvény és a budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény módosításáról szóló 2013. évi LI. törvénnyel (a továbbiakban: Mód. Tv.) megállapított rendelkezéseit a Mód. Tv. hatálybalépése időpontjában fennálló birtoklási, használati és hasznosítási viszonyokra, illetve az ezen jogosultságokat megalapozó jogviszonyokra is alkalmazni kell.
 
-- a) a vagyonelem hasznosításért felelős szervezetet, valamint
-- b) a vagyonelemet szerződés alapján hasznosító személyt, jogi személyt, illetve jogi személyiséggel nem rendelkező gazdálkodó szervezetet.
-
-(7) A miniszter a (6) bekezdés szerinti megállapítást tartalmazó döntését a minisztérium honlapján közzé teszi, illetve intézkedik a döntésnek az ingatlan fekvése szerint illetékes települési önkormányzat hirdetőtábláján történő közzétételéről. Az állami tulajdonban lévő vagyonelemek hasznosítására vonatkozó bérleti, vagyonkezelési vagy egyéb használati jogviszonyt alapító szerződés a miniszteri döntés minisztériumi honlapon történő közzétételétől számított 60. napon e törvény erejénél fogva megszűnik.
+(7)
 
 #### 6. Záró rendelkezések
 

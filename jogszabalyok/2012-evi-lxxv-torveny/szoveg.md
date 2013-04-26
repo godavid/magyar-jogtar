@@ -19,7 +19,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 2. § A beruházással érintett állami tulajdonú ingatlanon annak vagyonkezelője beruházást és felújítási tevékenységet végezhet.
 
-3. § A beruházással összefüggésben nem kell alkalmazni a kulturális örökség védelmére és az azzal összefüggő közigazgatási hatósági eljárásra vonatkozó jogszabályi rendelkezéseket.
+3. §
 
 4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési eszközökre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
