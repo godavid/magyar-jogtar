@@ -368,7 +368,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 #### 15. A költségvetési rendelet előkészítése, elfogadása
 
-24. § (1) A jegyző, főjegyző, körjegyző, megyei főjegyző (a továbbiakban együtt: jegyző) által elkészített, a következő évre vonatkozó költségvetési koncepciót a polgármester április 30-áig nyújtja be a képviselő-testületnek.
+24. § (1) A jegyző, főjegyző, megyei főjegyző (a továbbiakban együtt: jegyző) által elkészített, a következő évre vonatkozó költségvetési koncepciót a polgármester október 31-ig nyújtja be a képviselő-testületnek.
 
 (2) A jegyző által előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
 
