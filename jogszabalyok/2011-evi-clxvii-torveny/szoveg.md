@@ -267,6 +267,10 @@ a bűnügyi nyilvántartó szervnek.
 
 (2) A 2013. január 1-jén a Tny. 83/C. § (1) bekezdése szerinti jogviszonyban álló személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha a Tny. 83/C. § (1) bekezdése szerinti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell szüneteltetni.
 
+26. § (1) A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátókhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény rendelkezései alapján, az átvétellel érintett gazdasági társaságokkal az átvétel időpontjában munkaviszonyban álló személyekkel létesített közalkalmazotti jogviszony keretében továbbfoglalkoztatott korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személy a közalkalmazotti jogviszony létesülésének tényét 2013. június 1-jéig köteles bejelenteni a nyugdíjfolyósító szervnek.
+
+(2) Az (1) bekezdés szerinti személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha közalkalmazotti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell a Tny. 83/C. §-a szerint szüneteltetni.
+
 ### 12–28.
 
 #### 26–60. §
