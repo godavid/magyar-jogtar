@@ -6,6 +6,8 @@ Az Országgyűlés– az államnak az egészségügyi ellátórendszer megszerve
 
 megalkotja a szakellátó hálózat megújítását és folyamatosan magas színvonalú működését szolgáló következő törvényt:
 
+#### 1. Általános rendelkezések
+
 1. § (1) E törvény hatálya
 
 - a) az egészségügyi közszolgáltatások közül a járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
@@ -19,7 +21,9 @@ terjed ki.
 
 - a) egészségbiztosító: az egészségbiztosítási szerv;
 - b) egészségügyi közszolgáltatás: a részben vagy egészben a központi költségvetés és az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltatás;
-- c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségügyi szolgáltatónak a fenntartója, aki lekötött kapacitással rendelkezik;
+- c) egészségügyi közszolgáltatásért felelős szerv: az a fenntartó,
+  - ca) akinek a fenntartásában lévő egészségügyi szolgáltató számára a szakellátási kapacitás határozattal megállapításra kerül, illetve
+  - cb) aki a megállapodás, illetve a szerződés tárgyát képező szakellátási feladatot és a hozzá kapcsolódó szakellátási kapacitást ideiglenesen átadja a feladat ellátására kötelezettséget vállaló egészségügyi szolgáltató vagy annak fenntartója számára, ha az 1/A. § (1) bekezdés szerinti kötelezettség teljesítése a 2. § (1) bekezdése szerinti megállapodás, illetve egészségügyi ellátási szerződés alapján történik;
 - d) lekötött kapacitás: az az i) pont szerinti szakellátási kapacitás, amire érvényes finanszírozási szerződés kiterjed;
 - e) rendelési óra: az egészségbiztosító által az egészségbiztosítás keretében finanszírozott óraszám;
 - f)
@@ -33,52 +37,205 @@ terjed ki.
 - k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
 - l) egészségügyi szakellátási intézményműködtetési kötelezettség: a helyi önkormányzatoknak az egészségügyről szóló 1997. évi CLIV. törvény 152. § (3) bekezdése szerinti kötelezettsége;
 - m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak az n) pont szerinti kötelezettsége;
-- n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat nyújtson;
+- n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az s) pont szerinti kapacitás-nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat nyújtson;
 - o) egészségügyi szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat;
 - p) egészségügyi szakellátási kötelezettség: az államnak az a kötelezettsége, hogy az l) és az o) pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
-- q) tartalékkapacitás: az – a rendelkezésre álló országos kapacitásmennyiség részét képező – járóbeteg-, illetve fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva.
+- q) tartalékkapacitás: az – a rendelkezésre álló országos kapacitásmennyiség részét képező – járóbeteg-, illetve fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
+- r) szakellátási kapacitás feletti rendelkezési jog: adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
+- s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8) bekezdése alapján vezetett közhiteles nyilvántartás.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
 (3a) E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.
 
-2. § (1) Az egészségügyi közszolgáltatásért felelős szervek közül
+#### 2. Az egészségügyi szakellátás végzésére kötelezettek köre, a kötelezettség tartalma, a kötelezettség nem teljesítése esetén alkalmazandó szabályok
+
+1/A. § (1) Az egészségügyi közszolgáltatásért felelős szervek közül
 
 - a) a helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségét,
 - b) az állam az egészségügyi szakellátási kötelezettségét,
-- c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát a 3. § (1) bekezdés a) pontja szerinti esetben az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2012. augusztus 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
+- c) az a) és a b) pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
 
-(2) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen az állam köteles az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodni.
+a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a 2013. április 28-án lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
 
-(2a) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap végéig nem kezdi el vagy ezt megelőző nyilatkozata szerint nem fogja elkezdeni teljesíteni az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát, a szakellátási feladatról a 4. hónap első napjától véglegesen az állam köteles – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodni azzal, hogy az adott szakellátási feladat egyidejűleg az állam egészségügyi szakellátási kötelezettségének részévé válik.
+(2) Ha az (1) bekezdés a) vagy c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen az állam – a (3)–(10) bekezdésben és az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodik az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról.
 
-(2b) Az egészségügyi szakellátási kötelezettség ellátása érdekében a (2a) bekezdés szerinti esetben az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő helyi önkormányzat vonatkozásában a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdését kell alkalmazni azzal, hogy az egészségügyi szakellátási feladat az állam részére megállapított feladatnak a (2a) bekezdésben meghatározott időponttól minősül.
+(3) A (2) bekezdés szerinti esetben
 
-(2c) A (2a) és (2b) bekezdés alkalmazásában szakellátási feladat alatt az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesítő egészségügyi közszolgáltatásért felelős szerv érintett egészségügyi szolgáltatója által ellátott valamennyi – e törvény hatálya alá tartozó – szakellátási feladatot érteni kell.
+- a) az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítését a kötelezett helyi önkormányzat a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény szerinti döntésén alapuló nyilatkozattal,
+- b) az egészségügyi szakellátási feladat nem teljesítését az (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv nevében a nyilatkozattételre jogosult személy jelentheti be az egészségügyi államigazgatási szervnél, azzal, hogy a bejelentésben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a szakellátási feladat nem teljesítésének okát meg kell nevezni.
 
-(3) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy az egészségügyi szakellátási feladatának, valamint az állam a (2) bekezdés szerinti ideiglenes feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
+(4) A (2) bekezdés szerinti esetben az egészségügyi államigazgatási szerv a folyamatos ellátás biztosítása érdekében határozattal
 
-- a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást vagy
+- a) felhívja az (1) bekezdés a) vagy c) pontja alá tartozó szervet, hogy gondoskodjon a tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltatónál a jogszabályban előírt működési feltételeknek legkésőbb a (11) bekezdésben meghatározott időponttól történő biztosításáról, ha a (3) bekezdés szerinti bejelentés az egészségügyi szolgáltatás végzésének feltételeként az egészségügyért felelős miniszter rendeletében előírt tárgyi, illetve személyi feltételek hiányán alapul, vagy
+- b) kijelöli azt az egészségügyi szolgáltatót, amely ideiglenesen részben vagy egészben ellátja a tárgybeli szakellátási feladatokat, vagy
+- c) elrendeli, hogy a feladatot részben vagy egészben az átmeneti időszak alatt is az önkormányzat tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltató lássa el, ha az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladatot ez az egészségügyi szolgáltató végezte a (3) bekezdés szerinti bejelentés előtt is,
+
+azzal, hogy az a)-c) pontban meghatározott egyes intézkedések egyidejűleg együtt is alkalmazhatóak.
+
+(5) A (2) bekezdés szerinti esetben az egészségügyi államigazgatási szerv a folyamatos ellátás biztosítása érdekében a (4) bekezdés szerinti intézkedések mellett határozattal elrendelheti az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő önkormányzat tulajdonában lévő, az intézményműködtetési kötelezettség részét képező szakellátási feladathoz használt vagyonelemeknek a (4) bekezdés b), illetve c) pontja szerinti szolgáltató számára történő ingyenes használatba adását.
+
+(6) A (4) bekezdés b) pontja szerinti esetben több egészségügyi szolgáltató is kijelölhető. Az egészségbiztosító az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint a kijelölés időtartamára határozott idejű finanszírozási szerződést köt a kijelölt szolgáltatókkal, illetve módosítja a kijelölt szolgáltatók hatályos finanszírozási szerződését az átmeneti időszak alatt általuk ellátandó feladatra tekintettel. A kijelölt szolgáltatók által az átmeneti időszak alatt végzett feladat finanszírozására vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+
+(7) A (4) bekezdés c) pontja szerinti esetben ideiglenesen
+
+- a) az egészségügyi szolgáltató feletti – az Eütv.-ben meghatározott – szakmai fenntartói jogköröket a Kormány által kijelölt szerv,
+- b) az egészségügyi szolgáltató feletti fenntartói jogkörök közül az a) pont alá nem tartozókat az egészségügyi szolgáltató fenntartója a Kormány által kijelölt szerv egyetértésével
+
+gyakorolja.
+
+(8) Az önkormányzati vagyon ingyenes használatba adása az (5) bekezdés alapján akkor rendelhető el, ha az egészségügyi szakellátás folyamatos hozzáférésének biztosítása másképpen nem oldható meg. Ha az (5) bekezdés szerinti intézkedésre sor kerül, az önkormányzat biztosítja az egészségügyi szakellátási intézményműködtetési kötelezettsége keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgáló vagyonának az ingyenes használatát.
+
+(9) Amennyiben a (4) bekezdés b) pontja alapján nem jelölhető ki olyan szolgáltató, amely – az (5) bekezdés szerinti határozaton alapuló ingyenes vagyonhasználati lehetőség figyelembevételével – rendelkezik a szakellátási feladat ideiglenes ellátásához szükséges személyi és tárgyi feltételekkel és a (4) bekezdés c) pontja sem alkalmazható, a folyamatos ellátás biztosítása érdekében az egészségügyi válsághelyzetre vonatkozó szabályok szerint kell – az Eütv.-ben meghatározottak szerint – eljárni, ha annak a jogszabályban meghatározott egyéb feltételei fennállnak.
+
+(10) A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni bírósági felülvizsgálati eljárásban a határozat végrehajtása felfüggesztésének nincs helye.
+
+(11) Ha a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap utolsó napját követően
+
+- a) az (1) bekezdés a) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét a c) pont alá nem tartozó egyéb okból továbbra sem tudja teljesíteni,
+- b) a c) pont alá nem tartozó egyéb okból az (1) bekezdés c) pontja alá tartozó szerv nem látja el, illetve korábbi nyilatkozata alapján nem fogja ellátni az egészségügyi szakellátási feladatát, vagy
+- c) az (1) bekezdés a), illetve c) pontja alá tartozó szerv tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltatónál a jogszabályban előírt működési feltételek továbbra sem teljesülnek
+
+a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. hónap első napjától véglegesen az állam gondoskodik azzal, hogy a szakellátási feladat egyidejűleg az állam egészségügyi szakellátási kötelezettségének részévé válik és a helyi önkormányzat egészségügyi szakellátási intézményműködtetési kötelezettsége, illetve az (1) bekezdés c) pontja alá tartozó szerv szakellátási feladat ellátására irányuló kötelezettsége megszűnik.
+
+(12) A (2) bekezdés alapján az ideiglenes állami gondoskodás, a (11) bekezdés alapján pedig az állam szakellátási kötelezettségének részévé válik valamennyi olyan közfinanszírozott szakellátási feladat, amire az érintett helyi önkormányzat egészségügyi szakellátási intézményműködtetési kötelezettsége kiterjedt, illetve az (1) bekezdés c) pontja alá tartozó egészségügyi közszolgáltatásért felelős szerv érintett egészségügyi szolgáltatója ellátott.
+
+1/B. § (1) A szakellátási feladatnak az 1/A. § (11) bekezdés alapján történő állami egészségügyi szakellátási kötelezettség részévé válásának időpontjában (a továbbiakban: átvétel időpontja) e törvény erejénél fogva – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdése szerint – az államra száll
+
+- a) a helyi önkormányzat tulajdonában, illetve fenntartásában lévő, az 1/A. § (11) bekezdése alapján állami szakellátási kötelezettség részévé váló feladatot (a továbbiakban: átvett feladat) ellátó egészségügyi intézmény, és
+- b) a helyi önkormányzatnak az a) pont szerinti intézményhez kapcsolódó valamennyi ingón és ingatlanon fennálló tulajdonjoga és – a szellemi tulajdonjogok kivételével – a helyi önkormányzatot megillető olyan vagyoni értékű jog, amely az átvett feladat ellátásához szükséges, illetve közvetlenül azt szolgálja, és nevesítetten a feladathoz, valamint az a) pont szerinti intézményhez kapcsolódik.
+
+(2) Az átvétel időpontjában e törvény erejénél fogva az államra száll az átvett feladat ellátását végző vagy az átvett feladat ellátásában megállapodás alapján közreműködő, a helyi önkormányzat vagy az átvett intézmény által alapított közalapítvány, alapítvány alapítói joga. A helyi önkormányzat vagy az átvett feladatot ellátó egészségügyi intézmény által más alapítóval közösen alapított, az átvett feladat ellátását végző vagy az átvett feladat ellátásában közreműködő alapítvány vagy közalapítvány esetén kizárólag a helyi önkormányzatot vagy az átvett intézményt megillető alapítói jog száll az államra.
+
+(3) Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben az átvétel időpontjában szereplő nyilvántartási értékkel.
+
+(4) Az átvett feladattal összefüggésben állami tulajdonba kerülő ingatlan tekintetében a tulajdonjog bejegyzésére a Kormány által kijelölt szerv kérelmére, az átadás-átvételről a Kormány rendeletében meghatározott módon elkészített jegyzőkönyv alapján díj- és illetékmentes eljárás keretében kerül sor.
+
+(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében az átvétel időpontjától a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
+
+(6) A GYEMSZI az (5) bekezdés szerinti intézkedései során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint jár el azzal, hogy a (4) bekezdés szerinti ingatlan-nyilvántartási bejegyzést követően – a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3)–(3a) bekezdésében meghatározott kivétellel – önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
+
+1/C. § (1) Az egészségügyi intézményt az állam az egészségügyi intézmény kötelezettségvállalásai alapján keletkezett fizetési kötelezettségekkel együtt veszi át.
+
+(2) Az átvett feladathoz kapcsolódó, a helyi önkormányzat által vállalt fizetési kötelezettségből eredő szállítói tartozások fedezetére a helyi önkormányzat az átvétel időpontjának évére vonatkozó költségvetési rendeletében elkülönített időarányos forrást az átvétel időpontját követő 30. napig átutalja a Kormány által kijelölt szerv fizetési számlájára.
+
+1/D. § (1) Az állam átvállalja az átvett intézményt az átvétel időpontját megelőző napon tulajdonló vagy fenntartó önkormányzatnak az átvállalás időpontjában fennálló azon adósságát és annak járulékait, amely Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 3. § (1) bekezdés a) és b) pontjában foglaltaknak megfelelő – kölcsönjogviszonyon, vagy hitelviszonyt megtestesítő értékpapíron (kötvényen) alapuló – tartozásokat foglalja magában, és kifejezetten és nevesítetten az átvett vagyonhoz kapcsolódóan keletkezett.
+
+(2) Az átvállalható adósság tőkeösszege nem haladhatja meg az átvétel időpontjában fennálló, (1) bekezdés szerinti adósság tőkeösszegének, valamint azon átvett vagyon értékét, amelyhez kifejezetten és nevesítetten kapcsolódóan keletkezett, és nem terjedhet ki folyószámlahitelre.
+
+(3) Az (1) bekezdés szerinti adósság részét képező, hitelviszonyt megtestesítő értékpapírok esetében az állam az értékpapír lejárat előtti visszaváltásából eredő, a lejárt kölcsön- vagy hiteljogviszony esetén az abból származó fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam – a hitelező beleegyezésével – a kötvénytulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével vagy állampapírok átadásával is kiválthatja.
+
+(4) Az állam – az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előterjesztése és a Kormány döntése alapján – az egyedi állami kezességre vonatkozó szabályok szerint átvállalja az átvett intézményt az átvétel időpontját megelőző napon tulajdonló vagy fenntartó önkormányzat azon kezességvállalásait, amelyek az átvett vagyonhoz kapcsolódnak.
+
+(5) Az állam nevében az (1) és (3) bekezdés szerinti adósságátvállalás, valamint a (4) bekezdés szerinti kezességvállalás során az államháztartásért felelős miniszter jár el az egészségügyért felelős miniszter megkeresése alapján. Megkeresésében az egészségügyért felelős miniszter nyilatkozik az (1) bekezdésben foglalt feltételek fennállásáról, és adatot szolgáltat az átvállalandó kötelezettségállományról. Az államháztartásért felelős miniszter az egészségügyért felelős miniszter megkeresését és hiánytalan adatszolgáltatását követő 60 napon belül gondoskodik az adósság átvállalásáról akként, hogy az Államadósság Kezelő Központ Zrt. útján megállapodást köt az önkormányzattal és hitelezőivel.
+
+1/E. § (1) A helyi önkormányzat helyébe – az (5) bekezdésben meghatározott kivétellel – az átvett intézménnyel, illetve vagyonnal, és az átvett feladattal kapcsolatos jogviszonyok tekintetében – az átvétel időpontjában – általános és egyetemes jogutódként az állam lép.
+
+(2) A helyi önkormányzatok által önállóan alapított, valamint a helyi önkormányzatok által más alapítóval közösen alapított alapítványban, illetve közalapítványban a helyi önkormányzatot megillető alapítói jogok és kötelezettségek gyakorlására az átvétel időpontjától a Kormány által kijelölt szerv jogosult.
+
+(3) Az államot mint jogutódot a helyi önkormányzatnak az átvett feladattal összefüggő jogai és kötelezettségei tekintetében bírósági, hatósági eljárásban, valamint harmadik személlyel szemben a Kormány által kijelölt szerv képviseli. A jogutódlásról a bíróság, hatóság a jogutódlás megállapítása iránti kérelem benyújtását követően haladéktalanul, de legkésőbb 15 napon belül dönt.
+
+(4) Az átvett feladatot ellátó egészségügyi intézménnyel mint adóssal, kötelezettel szemben elrendelt bírósági és közigazgatási végrehajtást a végrehajtást foganatosító bíróság, közigazgatási végrehajtás esetében a végrehajtást megindító hatóság, a fellebbezés elbírálására jogosult hatóság, illetve a felügyeleti szerv a Kormány által kijelölt szerv kérelmére – ha jogutódlásról korábban még nem döntöttek, a jogutódlás megállapításával együtt – egy alkalommal három hónapra felfüggeszti.
+
+(5) Az átvett feladathoz kapcsolódó európai uniós társfinanszírozású projektek tekintetében a kedvezményezett helyi önkormányzat jogutódja a fejlesztéssel érintett egészségügyi intézmény. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett feladatot ellátó egészségügyi intézmény az átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
+
+(6) Az átadás-átvételi eljárásra vonatkozó szabályokat a Kormány rendeletben határozza meg.
+
+1/F. § (1) A tulajdonjog és a fenntartói jog e törvény szerinti átszállása nem érinti
+
+- a) az átvett intézmény, illetve a tulajdonosa vagy fenntartója által kötött közreműködői szerződés, egészségügyi ellátási szerződés és megállapodás, valamint az ezekhez kapcsolódó vagyonkezelési szerződés érvényességét,
+- b) az átvett intézmény finanszírozási szerződésének érvényességét.
+
+(2) Az az egészségügyi szolgáltató, amely e törvény alapján nem kerül az állam által átvételre, viszont az átvett feladat ellátásához az állam tulajdonába került vagyont használ, a szakellátási feladat ellátásához kapcsolódó határozatok, egészségügyi ellátási szerződések, megállapodások és vagyonkezelési szerződések alapján a szakellátási feladatot az e törvény alapján megállapított szakellátási kapacitás erejéig a határozatban, szerződésben, illetve a megállapodásban foglaltaknak megfelelően az átvétel időpontját követően is ellátja.
+
+(3) Az (1) bekezdés a) pontja és a (2) bekezdés szerinti szerződést, illetve megállapodást a Kormány által kijelölt szerv – legalább 60 napos felmondási idővel – az átvétel időpontját követő hat hónapon belül felmondhatja az azokban meghatározott feltételektől és a 2/E. § (1) bekezdésétől eltérően.
+
+1/G. § (1) A tulajdonjog és fenntartói jog e törvény szerinti átszállása nem érinti az átvett intézmény által alkalmazottak közalkalmazotti jogviszonyát, munkaviszonyát, illetve az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésre irányuló jogviszonyát.
+
+(2) Az átvett feladatra vonatkozóan a helyi önkormányzatnál foglalkoztatott köztisztviselő és munkavállaló (a továbbiakban együtt: foglalkoztatott) az álláshelyével együtt a Kormány által kijelölt szerv állományába kerül át, ha azt a foglalkoztató helyi önkormányzat a kijelölt szerv részére felajánlja és a kijelölt szerv vezetője az érintett személy foglalkoztatásához hozzájárul, feltéve hogy a foglalkoztatottnak a kijelölt szervnél történő foglalkoztatását jogszabály nem zárja ki.
+
+1/H. § (1) Az e törvény alapján átvett intézmény főigazgatójának és gazdasági vezetőjének az átvétel időpontjában fennálló foglalkoztatásra irányuló jogviszonya, és az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására kapott vezetői megbízása a főigazgatói, gazdasági vezetői munkakör, illetve a vezetői megbízás (4) bekezdés alapján történő betöltéséig fennmarad.
+
+(2) Az (1) bekezdéstől eltérően a főigazgatói és a gazdasági vezetői feladatok ellátására határozott időre létesített jogviszony, illetve kapott vezetői megbízás a határozott idő lejártával szűnik meg abban az esetben, ha a határozott idő lejártáig a főigazgatói vagy gazdasági igazgatói munkakör, illetve vezetői megbízás a (3) és (4) bekezdés alapján nem kerül betöltésre.
+
+(3) A Kormány által kijelölt szerv az e törvény alapján átvett intézmény főigazgatói és gazdasági vezetői feladatainak ellátására az átvétel időpontját követő 90 napon belül pályázatot írhat ki. Az elbírálás során a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 20/A. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bizottságba tanácskozási joggal meg kell hívni az egészségügyi szolgáltató székhelye szerinti önkormányzat képviselő-testülete által kijelölt személyt.
+
+(4) Az (1) bekezdés szerinti, az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására irányuló jogviszony vagy vezetői megbízás megszűnésével egyidejűleg
+
+- a) a korábbi vezető beosztású közalkalmazottat a kinevezése szerinti munkakörében kell tovább foglalkoztatni, vagy
+- b) a pályázat megnyerése esetén
+  - ba) a közalkalmazott számára új vezetői megbízást kell adni, vagy
+  - bb) ha jogszabály azt előírja, a munka törvénykönyvéről szóló törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával, vele új munkaviszonyt kell létesíteni.
+
+(5) A jogviszony (1) bekezdés alapján történő megszűnése – a (6) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+
+(6) A (4) bekezdés b) pont bb) alpontja szerinti esetben, ha az intézmény korábbi főigazgatójával vagy gazdasági vezetőjével a pályázat megnyerésére tekintettel új munkaviszonyt kell létesíteni, a főigazgatót vagy a gazdasági vezetőt a korábbi munkaviszonya megszűnésével összefüggésben munkaszerződésen vagy jogszabályon alapuló végkielégítés és szabadságmegváltás nem illeti meg, és
+
+- a) a (4) bekezdés b) pont bb) alpontja alapján létesített jogviszony megszűnése vagy megszüntetése esetén a végkielégítésre való jogosultság tartamának megállapításakor a (4) bekezdés szerinti jogcímen megszűnt és létesített jogviszonyok időtartamát össze kell számítani, valamint
+- b) a ki nem adott szabadságot az új jogviszonyban kell kiadni, illetve annak megszűnése vagy megszüntetése esetén megváltani.
+
+(7) A gazdasági társasági formában működő egészségügyi szolgáltató esetében a Kormány által kijelölt szerv a gazdasági társaságokról szóló törvény rendelkezéseire figyelemmel gondoskodik a gazdasági társaság ügyvezetésének biztosításáról.
+
+1/I. § (1) Ha az átvett feladatot ellátó helyi önkormányzati egészségügyi intézmény az átvett feladaton túl más egészségügyi vagy egyéb közfeladatot is ellát, a vagyonnak és a felmerülő költségeknek az állam által átvett feladat és az egészségügyi intézmény által ellátott egyéb egészségügyi vagy más közfeladatnak megfelelő megosztásáról a Kormány által kijelölt szerv és az érintett vagyontárgyat tulajdonló helyi önkormányzat a szakellátási feladat állam általi átvételét követőn 30 napon belül megállapodik. A megállapodást a Kormány rendelete szerinti átadás-átvétel során figyelembe kell venni.
+
+(2) Az (1) bekezdés szerinti esetben az átvett feladathoz kapcsolódó vagyon – a megállapodásban foglaltak szerint – e törvény erejénél fogva a megállapodásban meghatározott időpontban száll az államra.
+
+(3) Ha az (1) bekezdés szerinti megállapodás nem jön létre határidőn belül, a Kormány által kijelölt szerv, illetve a tulajdonos helyi önkormányzat kérelmére – bíróság dönt az (1) bekezdésben meghatározott kérdésekről.
+
+(4) A bíróság a (3) bekezdés szerinti eljárásban soron kívül jár el.
+
+(5) Ha a kereset benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, a bíróság az eljárást megszünteti.
+
+(6) A helyi önkormányzat a feladat átvételének időpontját követően csak a Kormány által kijelölt szerv jóváhagyásával
+
+- a) idegenítheti el, terhelheti meg az átvett feladathoz kapcsolódó vagyonelemeket,
+- b) csökkentheti az átvett feladat ellátásában részt vevő gazdasági társaságok törzs-, illetve alaptőkéjét.
+
+(7) A (6) bekezdésben foglaltak alól kivételt képeznek az átvett feladat és az egészségügyi intézmény által ellátott egyéb közfeladat, illetve az ezekhez kapcsolódó vagyon szétválasztásához szükséges és az átvett feladatnak az állam általi ellátását nem veszélyeztető olyan intézkedések, amelyet a Kormány által kijelölt szerv által előzetesen engedélyezett.
+
+(8) Az átvett feladatot végző önkormányzati egészségügyi intézmény és az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig a folyamatos ellátás biztosítása érdekében az 1/A. § (5) bekezdését alkalmazni kell azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
+
+1/J. § (1) Ha az átvett feladat ellátásáról a helyi önkormányzat önkormányzati társulás útján gondoskodott, az átvett feladat tekintetében a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek (a továbbiakban: Mötv.) az önkormányzati társulás megszűnésére vonatkozó szabályait alkalmazni kell.
+
+(2) Az (1) bekezdés szerinti esetben az átvett feladatot ellátó intézmény, illetve az átvett feladat ellátására szolgáló önkormányzati vagyon abban az időpontban száll át az államra, amikor azt az érintett helyi önkormányzat az Mötv. 90. § (4) bekezdése alapján a társulástól visszakapta.
+
+(3) Az átvett feladatot végző intézmény és az átvett feladat ellátására szolgáló önkormányzati vagyon államra történő átszállásáig a folyamatos ellátás biztosítása érdekében az 1/A. § (5) bekezdését alkalmazni kell.
+
+#### 3. A szakellátási feladat ellátására irányuló megállapodás és az egészségügyi ellátási szerződés
+
+2. § (1) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy az egészségügyi szakellátási feladatának, valamint az állam a (2) bekezdés szerinti ideiglenes feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
+
+- a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást, vagy
 - b) egészségügyi ellátási szerződést
 
 köthet.
 
-(3a) Amennyiben a (3) bekezdés szerinti megállapodást, illetve egészségügyi ellátási szerződést egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv köti, az egészségügyi szakellátási intézményműködtetési kötelezettség körébe tartozó feladat tekintetében a (3) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés érvényességéhez a kormány által kijelölt szerv jóváhagyása szükséges.
+(2) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv 1/A. § (1) bekezdés szerinti ellátási kötelezettségét és felelősségét – a (4) bekezdésben meghatározott kivétellel – nem érinti. A megállapodás, illetve az egészségügyi ellátási szerződés megszűnése esetén az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról haladéktalanul köteles gondoskodni.
 
-(3b) A szakellátási feladatnak és vagyonnak a (2)–(2b) bekezdés szerinti állam általi átvételére és a feladatról való állam általi gondoskodásra vonatkozó részletszabályokat az e törvény végrehajtásáról szóló rendelet tartalmazza.
+(3) Az (1) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés fennállása esetén a megállapodás, illetve az egészségügyi ellátási szerződés tárgyát képező feladat ellátásához ideiglenesen átadott – a 2/A. § (2) bekezdés b) pontja szerinti – szakellátási kapacitás tekintetében a szakellátási kapacitás feletti rendelkezési jog az egészségügyi közszolgáltatásért felelős szervet illeti meg.
 
-(4) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv (1) bekezdés szerinti ellátási kötelezettségét és felelősségét nem érinti, kivéve, ha az (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatatásért felelős szerv másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást.
+(4) Ha az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatatásért felelős szerv másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást, a megállapodás tárgyát képező feladat tekintetében az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv felelőssége megszűnik és a másik egészségügyi közszolgáltatásért felelős szerv felelősségének részévé válik.
 
 (5) Az egészségügyi ellátási szerződést az egészségügyi közszolgáltatásért felelős szerv köti a feladat ellátását vállaló, nem a saját fenntartásában vagy tulajdonában álló egészségügyi szolgáltatóval.
 
 (6) Az egészségügyi ellátási szerződés érvényességéhez szükséges
 
-- a) a feladat ellátását vállaló egészségügyi szolgáltató fenntartójának hozzájárulása, és
-- b) az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, amennyiben a szerződés nem tartalmazza a 2/A. § (2) bekezdés k) pontja szerinti nyilatkozatot.
+- a) a feladat ellátását vállaló egészségügyi szolgáltató fenntartójának hozzájárulása,
+- b) az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, ha a szerződés nem tartalmazza a 2/A. § (2) bekezdés k) pontja szerinti nyilatkozatot,
+- c) az egészségügyi szakellátási intézményműködtetési kötelezettség körébe tartozó feladat tekintetében a Kormány által kijelölt szerv jóváhagyása, ha a szerződést egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv köti.
 
-(7) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki a (3) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
+(7) Az egészségügyi közszolgáltatásért felelős szerv az (1) bekezdés a) pontja szerinti megállapodás, illetve az (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés megkötésétől számított 15 napon belül bejelenti az egészségügyi államigazgatási szervnek a megállapodás, illetve a szerződés
 
-(8) Amennyiben egészségügyi szolgáltatónál megállapodással, illetve egészségügyi ellátási szerződéssel érintett feladathoz kapcsolódva jön létre, illetve kerül befogadásra e törvény alapján kapacitás, az – figyelemmel a (4) bekezdésben foglaltakra – a szakellátási feladatot átadó egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok ellátására szolgál.
+- a) megkötésének tényét és időpontját,
+- b) tárgyát képező szakellátási feladatot ellátó egészségügyi szolgáltatót és fenntartóját,
+- c) érvényességének idejét, és
+- d) tárgyát képező szakellátást és az ahhoz kapcsolódóan ideiglenesen átadott kapacitásokat.
+
+(8) Az egészségügyi közszolgáltatásért felelős szerv az (1) bekezdés a) pontja szerinti megállapodás, illetve az (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés megszűnésének tényét legkésőbb a megszűnés várható időpontját megelőző 15. napig, a 2/E. § (2) vagy (5) bekezdése alapján történő felmondás esetében pedig a felmondással egyidejűleg bejelenti az egészségügyi államigazgatási szervnek.
+
+(9) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki az (1) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
+
+(10) Ha egészségügyi szolgáltatónál megállapodással, illetve egészségügyi ellátási szerződéssel érintett feladathoz kapcsolódva jön létre, illetve kerül befogadásra e törvény alapján kapacitás, az – figyelemmel a (2) bekezdésben foglaltakra – a szakellátási feladatot átadó egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok ellátására szolgál.
 
 2/A. § (1) Az egészségügyi szolgáltató az egészségügyi ellátási szerződésben kötelezettséget vállal arra, hogy az egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó közszolgáltatások közül a szerződésben meghatározott szolgáltatásokat folyamatosan, a jogszabályokban és az egészségügyi szakmai szabályokban előírtak betartásával, területi ellátási kötelezettséggel nyújtja.
 
@@ -158,6 +315,12 @@ köthet.
 
 (8) Az egészségügyi ellátási szerződés felmondásáról az egészségügyi közszolgáltatásért felelős szerv az egészségbiztosítót haladéktalanul értesíti.
 
+(9) Az egészségügyi ellátási szerződés, illetve annak a határozattal érintett része megszűnik, ha a 2/A. § (2) bekezdés b) pontja szerinti kapacitás a feladatot a szerződés alapján ellátó egészségügyi szolgáltató számára megállapításra kerül.
+
+(10) Ha a 2/A. § (2) bekezdés b) pontja szerinti kapacitás a feladatot a szerződés alapján ellátó egészségügyi szolgáltatón kívüli másik szolgáltató számára kerül megállapításra, az ellátás folyamatos biztosítása érdekében az egészségügyi ellátási szerződés tekintetében az új egészségügyi közszolgáltatásért felelős szerv a korábbi egészségügyi közszolgáltatásért felelős szerv helyébe lép, kivéve ha az új egészségügyi közszolgáltatásért felelős szerv a határozat végrehajthatóvá válásának időpontjáig arról nyilatkozik a feladatot a szerződés alapján ellátó szolgáltató felé, hogy a szerződést nem kívánja fenntartani. Ha az új egészségügyi közszolgáltatásért felelős szerv a szerződést nem kívánja fenntartani, a szerződés, illetve annak a határozattal érintett része a határozat alkalmazásának kezdő időpontjában megszűnik. A nyilatkozatot az új egészségügyi közszolgáltatásért felelős szerv tájékoztatásul megküldi az egészségügyi államigazgatási szerv részére.
+
+(11) Az egészségügyi ellátási szerződés tárgyát képező, a 2/A. § (2) bekezdés b) pontja szerinti kapacitás – a 4. § szerinti eljárás és az egészségügyi közszolgáltatásért felelős szervnek a 2. § (3) bekezdésében meghatározott rendelkezési jogának kivételével – csak abban az esetben állapítható meg a (9) bekezdés, illetve a (10) bekezdés szerinti módon másik egészségügyi szolgáltató számára, ha azt az egészségügyi ellátási szerződés tárgyát képező szakellátási feladat folyamatos ellátását veszélyeztető, másképp el nem hárítható helyzet fennállása miatt felmerülő ellátási érdek indokolja.
+
 2/F. § (1) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi ellátási szerződés alapján működő egészségügyi szolgáltatónál folytatott ellenőrzése keretében az egészségügyi szolgáltató a közszolgáltatásért felelős szerv számára
 
 - a) rendelkezésre bocsátja az ellenőrzéshez szükséges adatokat, információkat, biztosítja az iratokba való betekintést;
@@ -183,13 +346,15 @@ köthet.
 
 (3) Az egészségügyi szolgáltató köteles a felhasznált vagyoni biztosítékot – legalább a 2/D. § (6) bekezdése szerinti mértékben – hat hónapon belül pótolni, és a pótlás megtörténtét az erre vonatkozó okiratok bemutatásával a közszolgáltatásért felelős szervnek igazolni.
 
-2/H. § (1) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
+2/H. § (1) A 2. § (3) bekezdés a) pontja szerinti megállapodás kötelezően tartalmazza a 2/A. § (2) bekezdésében foglaltakat, valamint vonatkozásában a 2. § (6) bekezdés c) pontjában, a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
 
 (2) Abban az esetben, ha az egészségügyi szakellátási feladat ellátásáról a 2. § (3) bekezdés a) pontja szerinti megállapodás, illetve b) pontja szerinti szerződés helyett vagyonkezelési vagy más egyéb szerződés rendelkezik, az adott szerződésnek a szakellátási feladat ellátásával kapcsolatos része tekintetében az 1–2/G. §-ban foglaltakat – az (1) bekezdésben meghatározottak figyelembevételével – megfelelően alkalmazni kell.
 
+#### 4. Az országos kapacitásmennyiség
+
 3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
 
-- a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
+- a) a kapacitás-nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
 - b) az a) pont szerinti nyilvántartásban nem szereplő kapacitások tekintetében a 2012. december 31-én lekötött kapacitások,
 - c) a 11. § (3) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások, és
 - d) a tartalékkapacitások
@@ -204,9 +369,11 @@ köthet.
 
 (5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény és a végrehajtásáról szóló kormányrendelet szerinti eljárások során változhat.
 
-(6) Ha a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató egészségügyi tevékenységét gazdasági társaság működési formában szándékozik a továbbiakban ellátni, a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató helyébe – a költségvetési szerv megszűnésével egyidejűleg – lépő, az ellátási kötelezettséget és meglévő szerződéses kapacitások továbbvitelét vállaló gazdasági társaság a költségvetési szerv kapacitásai tekintetében a költségvetési szerv jogutódja.
+(6)
 
 3/A. §
+
+#### 5. A kapacitásfelosztás módosítása
 
 4. § (1) Az egészségbiztosító háromévente a megelőző naptári év adatai alapján térségenként megvizsgálja a térségben működő szakellátást nyújtó egészségügyi szolgáltatók lekötött kapacitásainak kihasználtságát és a kapacitásváltozás szükségességét.
 
@@ -248,6 +415,8 @@ köthet.
 
 (7) Amennyiben a (3) bekezdésben meghatározott mutatószámok a szervezeti struktúra változása miatt vagy egyéb okból nem állnak rendelkezésre, akkor a szolgáltató kapacitásait a rendelkezésre álló adatok figyelembevételével kell megállapítani.
 
+#### 6. A tartósan kihasználatlan kapacitások
+
 5. § (1) A fenntartó – az érintett egészségügyi szolgáltató szakmai véleményének kikérését követően – a fenntartásában működő egészségügyi szolgáltatónál jelentkező tartós ellátási igény csökkenés esetén a 2. § (1) bekezdése szerinti ellátási kötelezettsége teljesítéséhez szükséges kapacitások mértékének csökkentését kezdeményezheti az átlagtól való eltérés mértékében, illetve szakmai összetételének a 7. § (1)–(4) bekezdés szerinti eljárások során történő megváltoztatását kezdeményezheti, amennyiben a döntést megelőző évben folyamatosan
 
 - a) járóbeteg-szakellátás esetén az egy rendelési órára jutó esetek száma az adott szakma vonatkozásában az előző év átlagában legalább 10 százalékkal alacsonyabb az adott szakma országos átlagánál,
@@ -263,6 +432,8 @@ köthet.
 
 (6) Az e § szerint felszabaduló kapacitás tartalékkapacitásnak minősül.
 
+#### 7. Az ellátási területek megállapítása és módosítása
+
 5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
 (2) Az ellátási területet településenként, illetőleg valamely településre csak részben kiterjedő ellátási terület esetén a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
@@ -275,15 +446,19 @@ köthet.
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
 
-(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a nyilvántartásba.
+(7) Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv közhiteles kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
 
-(7a) A kapacitásokat és az ellátási területeket érintő változásokat a (7) bekezdés szerinti nyilvántartáson a változás hatálybalépésével egyidejűleg át kell vezetni.
+(7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
-(8) A (7) bekezdés szerinti nyilvántartás tartalmazza
+(8) A kapacitás-nyilvántartás tartalmazza
 
 - a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
 - b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
-- c) a tartalékkapacitásokra vonatkozóan az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatokat.
+- c) a tartalékkapacitásokra,
+- d) a 2. § (2)–(4) bekezdésében foglaltak figyelembevételével az egészségügyi közszolgáltatásért felelős szervre, és
+- e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre vonatkozóan az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatokat.
+
+(8a) Ha a kapacitás-nyilvántartásban szereplő adatok helytállóságát valamely egészségügyi szolgáltató, illetve fenntartó vitatja, a nyilvántartást vezető egészségügyi államigazgatási szerv az adatok megváltoztatására irányuló kérelem tárgyában dönt és – szükség szerint –a kapacitás-nyilvántartást módosítja. Az egészségügyi államigazgatási szerv határozatára a 6. §-t alkalmazni kell.
 
 (9) A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
 
@@ -313,12 +488,12 @@ köthet.
 
 (12) A sürgősségi ellátást igénylő esetben a (2)–(11) bekezdésen foglaltak alapján megállapított ellátási területnek és az e törvény végrehajtásáról szóló kormányrendeletben meghatározott egészségügyi térségnek a határai figyelmen kívül hagyhatóak, amennyiben a beteg sürgősségi ellátására alkalmas legközelebbi egészségügyi szolgáltatónál történő ellátás-igénybevétel érdekében szükséges.
 
-5/B. § (1) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
+5/B. § (1) A kapacitás-nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
 
 - a) a (2) bekezdésben meghatározott esetekben kérelemre,
 - b) a (4) bekezdésben meghatározott esetben hivatalból módosítja.
 
-(2) Az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
+(2) A kapacitás-nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
 
 - a) egészségügyi szolgáltatók fenntartói közösen,
 - b) egészségügyi szolgáltatók közös fenntartója, ha több érintett szolgáltatónak ugyanaz a fenntartója,
@@ -343,6 +518,8 @@ köthet.
 
 (3) A szakellátási kapacitások, illetve az ellátási területek megállapítására, illetve módosítására irányuló eljárásokban a Kormány által kijelölt szakértő szervet díjazás és költségtérítés nem illeti meg.
 
+#### 8. A kapacitások átcsoportosításának és módosításának szabályai
+
 7. § (1) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
 
 (2) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató lekötött krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
@@ -364,6 +541,10 @@ köthet.
 (10) Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitáscsökkentés csak olyan mértékű lehet, hogy az egy kapacitás egységre jutó várható betegforgalom ne haladja meg a szakmára országosan jellemző előző évi átlagot 15%-nál nagyobb mértékben.
 
 (11) Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – az egészségügyi szolgáltató szakellátási kapacitást részben vagy egészben átcsoportosíthatja egy vagy több másik egészségügyi szolgáltató részére, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja. Az átcsoportosítás során a 4/A. § (4) bekezdés a) pontjában, illetve a 4/A. § (5) bekezdésében meghatározott feltételnek meg kell felelni.
+
+7/A. § Ha az adott kapacitás a 2. § (1) bekezdése alapján kötött és érvényes szerződés vagy megállapodás tárgyát képezi, az egészségügyi közszolgáltatásért felelős szerv az 1. § (2) bekezdés r) pontjában meghatározott eljárások megindításáról előzetesen tájékoztatja a szerződés vagy megállapodás alapján a kapacitást használó egészségügyi szolgáltatót és fenntartóját. Az 1. § (2) bekezdés r) pontjában meghatározott eljárást az egészségügyi közszolgáltatásért felelős szerv – a másként el nem hárítható ellátási érdek esetének kivételével – csak a tájékoztatást követő negyedik hónap első napján indíthatja meg azzal, hogy ebben az esetben a szerződés és a megállapodás felmondási ideje – a 2/E. § (1) bekezdésében foglaltaktól eltérően – 3 hónap. Ha az 1. § (2) bekezdés r) pontjában meghatározott eljárás megindítása másként el nem hárítható ellátási érdek miatt szükséges, a szerződés, illetve a megállapodás felmondására a 2/E. § (2) és (3) bekezdését kell alkalmazni.
+
+#### 9. A kapacitásokon nyújtott ellátások finanszírozása
 
 8. § (1) Az egészségbiztosító felelős
 
@@ -391,17 +572,23 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 9. §
 
+#### 10. A váratlan esemény miatt szükséges rendkívüli kapacitásbevonás
+
 10. § (1)
 
 (2) Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv, az érintett egészségügyi szolgáltató fenntartója, az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
 
 (3) Az egészségbiztosító a (2) bekezdés alapján megkötött finanszírozási szerződést a váratlan esemény vagy az előre nem látható módon bekövetkezett ellátási szükséglet megszűnését követően felmondja, illetve legkésőbb 6 hónap elteltével – és ezt követően hathavonként – felülvizsgálja.
 
+#### 11. Előzetes többletkapacitás-befogadás
+
 11. § (1) Az egészségügyi szolgáltatónak az E. Alap számára többletforrásigényt eredményező fejlesztése nyomán létrejövő kapacitásának előzetes befogadását – amennyiben az éven túli kötelezettségvállalást eredményez – a Kormány határozatban hagyja jóvá kormányrendelet szerinti eljárás keretében.
 
 (2) Amennyiben az előzetes többletkapacitás-befogadás az (1) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségbiztosító, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – kormányrendeletben foglaltak szerint – egyetértett.
 
 (3) Az (1) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+#### 12. Vegyes rendelkezések
 
 12. § (1) Az az egészségügyi szolgáltató, amely
 
@@ -431,6 +618,8 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (4) Az Eütv. 155. § (3) és (4) bekezdésének hatálya alá tartozó intézmények tekintetében a (3) bekezdés b) és c) pontja alkalmazásában – az 1. § (3a) bekezdésében foglaltaktól eltérően – fenntartó alatt az Eütv. 155. § (3) bekezdése szerinti kijelölt szervezetet kell érteni.
 
+#### 13. Záró rendelkezések
+
 14. § (1)
 
 (2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2015-ben kell alkalmazni.
@@ -439,7 +628,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (4)
 
-(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2013. június 30-áig nem kell megfelelnie a térséghatár figyelembevétele – 5/A. § (3) bekezdésében meghatározott – követelményének. 2013. július 1-jétől az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő járóbeteg-szakellátási ellátási terület módosítása, illetve új járóbeteg-szakellátási ellátási terület megállapítása során – a jogszabályban meghatározott esetek kivételével – a térséghatártól eltekinteni nem lehet. Ha az ellátási terület módosítása, illetve új ellátási terület megállapítása miatt – a térséghatár figyelembevétele követelményének történő megfelelés érdekében – szükséges, egyidejűleg módosítani kell, illetve át kell csoportosítani az érintett egészségügyi szolgáltatók ellátási területeit, illetve kapacitásait.
+(5) Az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásaihoz kapcsolódó ellátási területeknek 2014. december 31-éig nem kell megfelelnie a térséghatár figyelembevétele – 5/A. § (3) bekezdésében meghatározott – követelményének. 2013. július 1-jétől a kapacitás-nyilvántartásban szereplő járóbeteg-szakellátási ellátási terület módosítása, illetve új járóbeteg-szakellátási ellátási terület megállapítása során – a jogszabályban meghatározott esetek kivételével – a térséghatártól eltekinteni nem lehet. Ha az ellátási terület módosítása, illetve új ellátási terület megállapítása miatt – a térséghatár figyelembevétele követelményének történő megfelelés érdekében – szükséges, egyidejűleg módosítani kell, illetve át kell csoportosítani az érintett egészségügyi szolgáltatók ellátási területeit, illetve kapacitásait.
 
 (6)
 
@@ -462,6 +651,10 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 (12) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 11. § (3) bekezdése szerinti nyilvántartásban rögzített adatokat 2012. augusztus 21-én az egészségbiztosítási szerv átadja az egészségügyi államigazgatási szerv részére. A 11. § (3) bekezdése szerinti nyilvántartást 2012. augusztus 31-éig továbbra is az egészségbiztosítási szerv vezeti azzal, hogy a 2012. augusztus 21. és 2012. augusztus 31. közötti adatváltozásokról és új adatokról folyamatosan tájékoztatja az egészségügyi államigazgatási szervet. A 11. § (3) bekezdése szerinti nyilvántartást 2012. szeptember 1-jétől az egészségügyi államigazgatási szerv vezeti, az egészségbiztosítási szerv 2012. október 1-jén törli nyilvántartás részeként általa kezelt adatokat.
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+
+(14) Az egészségügyet érintő egyes törvényeknek az egészségügyi szakellátási felelősséggel kapcsolatos, valamint egyes közszférában foglalkoztatott egészségügyi dolgozók foglalkoztatási helyzetével összefüggő módosításáról szóló 2013. évi XL. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (8) bekezdés e) pontja szerinti adatokat a 2013. május 1-jén érvényes szerződések, illetve megállapodások tekintetében az azok alapján feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2013. május 1. és 2013. július 15. között megküldi a kapacitás-nyilvántartást vezető egészségügyi államigazgatási szerv részére. A beérkezett és a rendelkezésére álló adatok alapján a kapacitás-nyilvántartást vezető szerv 2013. augusztus 31-éig módosítja a kapacitás-nyilvántartást az 5/A. § (8) bekezdése alapján azzal, hogy eltérő adat hiányában egészségügyi közszolgáltatásért felelős szervként annak az egészségügyi szolgáltatónak a fenntartóját kell megnevezni, amelyik szolgáltatóhoz az adott kapacitás a kapacitás-nyilvántartás szerint 2013. augusztus 31-én tartozik. A kapacitás-nyilvántartásnak 2013. szeptember 1-jétől kell megfelelnie a Módtv. által megállapított 5/A. § (8) bekezdésének. 2013. szeptember 1-jétől a kapacitás feletti rendelkezési jog a kapacitás-nyilvántartásban az adott kapacitás tekintetében egészségügyi közszolgáltatásért felelős szervként megnevezett szervet illeti meg.
+
+(15) A 2013. április 28-án hatályos – a 2. § (1) bekezdése szerinti – megállapodásoknak és egészségügyi ellátási szerződésnek 2014. január 1-jétől kell megfelelnie az e törvényben meghatározott feltételeknek. Ennek érdekében a megállapodással, illetve a szerződéssel feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2013. november 1-jéig felülvizsgálja a megállapodást, illetve a szerződést és kezdeményezi annak a szükség szerinti módosítását, illetve az új szerződés, illetve megállapodás megkötését.
 
 15. §
 
@@ -511,10 +704,14 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - x) azt a szervet, amelynek a jóváhagyása szükséges az egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv által kötött 2. § (3) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés érvényességéhez;
 - y) a szakellátási feladatnak és vagyonnak a 2. § (2)–(2b) bekezdés szerinti állam általi átvételére és a feladatról való állam általi gondoskodásra vonatkozó eljárási szabályokat, ideértve az eljáró szerv kijelölését is.
 
-(15)
+(15) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a)
-- b)
+- a) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a nem állami és önkormányzati szolgáltató részére megállapított szakellátási feladat nem teljesítése esetén az állam általi ideiglenes feladatellátás feltételeit és eljárási szabályait,
+- b) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladat állami szakellátási kötelezettség részévé válásának esetére a feladat és a hozzá kapcsolódó önkormányzati tulajdonban lévő vagyon állam általi átvételének feltételeit és eljárási szabályait, valamint az átvett vagyon részét képező, az Európai Unió által vagy egyéb nemzetközi forrásokból társfinanszírozott projekt végrehajtásához szükséges saját forrás biztosítására vonatkozó szabályokat,
+- c) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladat állami szakellátási kötelezettség részévé válásának esetére a feladat és a hozzá kapcsolódó önkormányzati tulajdonban lévő vagyon állam általi átvétele során készítendő jegyzőkönyvre vonatkozó tartalmi és formai követelményeket,
+- d) állapítsa meg az 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató finanszírozására vonatkozó szabályokat,
+- e) jelölje ki az 1/A–1/I. §-ok szerinti eljárásokban az állam nevében eljárni jogosult szervet,
+- f) jelölje ki az 1/A. § (7) bekezdése alapján fenntartói jogkör gyakorlására jogosult szervet.
 
 (16)
 

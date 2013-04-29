@@ -146,6 +146,8 @@ kell meghatározni.
 
 (3) Az egészségbiztosítási szerv az átadásra kerülő egészségügyi szolgáltató finanszírozási szerződését figyelemmel a fenntartó és a működési engedély változására 2012. július 1-jéig módosítja.
 
+8/A. § Ha az e törvény alapján állami tulajdonba került, gazdasági társasági formában működő fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató megszűnik, az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett jogutódja a fenntartó által kijelölt egészségügyi szolgáltató. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett egészségügyi intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
+
 #### 6. A megyei intézményeket fenntartó szervek
 
 9. § (1) Az egészségügyi intézmények kivételével az átvett intézményekkel összefüggő intézmény-fenntartási feladatokat a Kormány által rendeletben kijelölt szerv látja el.
@@ -435,7 +437,7 @@ az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII.
 
 #### 78. §
 
-79. § (1) Az egészségügyi szakellátási kötelezettség a Magyar Államot a települési önkormányzat tulajdonában és fenntartásában lévő, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által végzett járóbeteg-szakellátások, illetve a települési önkormányzat tulajdonában lévő, járóbeteg-szakellátási feladatok ellátására szolgáló vagyonhoz kapcsolódó járóbeteg-szakellátások vonatkozásában 2013. január 1-jétől terheli.
+79. § (1)
 
 (2)
 
