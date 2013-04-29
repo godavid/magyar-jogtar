@@ -71,7 +71,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 - u) gazdasági célú letelepedés: a külföldiek magyarországi befektetéseiről szóló törvény szabályainak megfelelő letelepedés;
 - v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképesítéssel, továbbá jogszabályban meghatározott szakmai (személyi és tárgyi) minimumfeltételekkel ellátható olyan egészségügyi szolgáltatások összessége, mely szerepel az egészségügyi szakmai kódjegyzékben;
 - w) fenntartó:
-  - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban felügyeleti szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
+  - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
   - wb) egyházi jogi személy vagy jogi személyiséggel nem rendelkező egyházi egészségügyi szolgáltató esetén az alapító okiratban fenntartóként megjelölt egyházi jogi személy,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
   - wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
@@ -2026,7 +2026,13 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 - i) az egyéni és a társadalmi érdekek összehangolása a ritka, a kiemelkedő költségigényű, illetve az új módszerek és eljárások alkalmazásánál,
 - j) a katasztrófa-egészségügyi ellátás, a nemzeti vérkészlettel való gazdálkodás,
 - k) a népegészségügyi és az egészségügyi igazgatási tevékenység feltételeinek biztosítása.
-- l) a fekvőbeteg-szakellátás és a járóbeteg-szakellátás feltételrendszerének meghatározása, továbbá – az egészségügyi ellátórendszer fejlesztéséről szóló törvényben meghatározott – egészségügyi szakellátási felelőssége alapján a fekvőbeteg-szakellátásról és a járóbeteg-szakellátásról – az egészségügyi ellátórendszer fejlesztéséről szóló törvényben foglaltak szerinti – gondoskodás, valamint az egészségügyi szakellátási kötelezettsége részeként az egészségügyi ellátórendszer fejlesztéséről szóló törvényben megállapított fekvőbeteg- és járóbeteg-szakellátási feladatok ellátásának biztosítása.
+- l)
+
+(4) Az állam felelőssége körében az egészségügyi szakellátások tekintetében az állam kötelezettségét képezi
+
+- a) a fekvőbeteg-szakellátás és a járóbeteg-szakellátás feltételrendszerének meghatározása,
+- b) az egészségügyi szakellátási felelőssége alapján a fekvőbeteg-szakellátásról és a járóbeteg-szakellátásról való – az egészségügyi ellátórendszer fejlesztéséről szóló törvényben foglaltak szerinti – gondoskodás,
+- c) az egészségügyi szakellátási kötelezettsége részeként a 152. § (3) bekezdése szerinti egészségügyi szakellátási intézményműködtetési kötelezettség alapján és a nem állami, illetve nem önkormányzati tulajdonban lévő egészségügyi szolgáltatónak az egészségügyi ellátórendszer fejlesztéséről szóló törvényben meghatározott egészségügyi szakellátási feladata alapján el nem látott fekvőbeteg- és járóbeteg-szakellátási feladatok ellátásának biztosítása.
 
 142. § (1) Az állam a (2)–(5) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben és az Egészségbiztosítási Alap költségvetésében biztosítja a megfelelő szintű és minőségű egészségügyi ellátások működésének fedezetét.
 
@@ -2215,7 +2221,13 @@ költségének fedezetét.
 
 (2) A települési önkormányzat képviselő-testülete – a kormányrendelet szerinti praxiskezelő által megadott szempontokat figyelembe véve – megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok egyetértésben állapítják meg.
 
-(3) A helyi önkormányzat gondoskodik a tulajdonában és fenntartásában lévő, szakellátást nyújtó egészségügyi szolgáltató működtetéséről, illetve a tulajdonában lévő, szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó – külön törvényben meghatározott – egészségügyi szakellátási feladatok ellátásáról.
+(3) A helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségének részeként gondoskodik
+
+- a) a tulajdonában, illetve fenntartásában lévő, közfinanszírozott egészségügyi szakellátást nyújtó egészségügyi szolgáltató működtetéséről,
+- b) a 2013. április 28-án tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltató számára – az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján – megállapított közfinanszírozott szakellátási feladatok ellátásáról,
+- c) a tulajdonában lévő, közfinanszírozott egészségügyi szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó – az egészségügyi ellátórendszer fejlesztéséről szóló törvény alapján a helyi önkormányzat rendelkezési joga alá tartozó szakellátási kapacitással ellátandó – közfinanszírozott egészségügyi szakellátási feladatok ellátásáról.
+
+(3a) A helyi önkormányzat (3) bekezdés szerinti vagyona a (3) bekezdés szerinti intézményműködtetési kötelezettség keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgálja.
 
 (4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.
 
@@ -2277,6 +2289,7 @@ költségének fedezetét.
 - i) az egészségügyi szolgáltató működését szabályozó dokumentumok jóváhagyása,
 - j) az egészségügyi szolgáltató működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti rendelési idő tekintetében, valamint
 - k) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás. A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
+- l) az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatóját érintő fejlesztési célú pályázathoz szükséges fenntartói nyilatkozat megtétele.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -3396,25 +3409,9 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 244/C. § E törvény az egészségügy többletforráshoz juttatása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 155. § (2a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő eljárás és benyújtott kérelem tekintetében is alkalmazni kell.
 
-244/D. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 141. § (3) bekezdés l) pontja alapján az állam – az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvényben (a továbbiakban: Eftv.) meghatározott – egészségügyi szakellátási kötelezettségét a (2) bekezdés szerinti járóbeteg-szakellátási feladatok tekintetében – a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (1) bekezdésében foglaltaktól eltérően – 2013. május 1-jétől gyakorolja, kivéve, ha a helyi önkormányzat az (5) bekezdés alapján úgy dönt, hogy 2013. április 30. után is ellátja a (2) bekezdésben meghatározott járóbeteg-szakellátási feladatot. Az államnak – az Eftv-ben meghatározott – egészségügyi szakellátási felelőssége ezen járóbeteg-szakellátások vonatkozásában 2013. január 1. és 2013. április 30. között is fennáll.
+244/D. §
 
-(2) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (1) bekezdésében foglaltaktól eltérően az (1) bekezdésben meghatározott időpontig – a 152. § (3) bekezdése alapján – a tulajdonában és fenntartásában lévő, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató működtetéséről, illetve a tulajdonában lévő, járóbeteg-szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó, közfinanszírozott járóbeteg-szakellátási feladatok (e § alkalmazásában együtt: járóbeteg-szakellátási feladat) ellátásáról való gondoskodás valamennyi helyi önkormányzatot terheli. Ez a járóbeteg-szakellátási feladat – az (1) bekezdésben, illetve a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 79. § (1) bekezdésében foglaltaktól eltérően – 2013. április 30. után az állam helyett továbbra is terheli azt a helyi önkormányzatot, amely az (5) bekezdés alapján úgy dönt, hogy 2013. április 30. után is ellátja a járóbeteg-szakellátási feladatot.
-
-(3) A (2) bekezdés szerinti járóbeteg-szakellátást nyújtó egészségügyi szolgáltató, illetve a (2) bekezdésben meghatározott vagyon a járóbeteg-szakellátási feladat állam általi teljesítése érdekében az (1) bekezdésben meghatározott időpontban kerül – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdésében foglaltaknak megfelelően – a helyi önkormányzattól az állam által átvételre, ide nem értve az Eftv. 2. § (2b) bekezdésében megállapított esetet.
-
-(4) A tulajdonjognak és a fenntartói jognak a (3) bekezdés alapján az államra történő átszállása nem érinti az állami tulajdonba került egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát, továbbá az átvett feladathoz kapcsolódó közreműködői szerződések, egészségügyi ellátási szerződések, illetve megállapodások és az ezekhez kapcsolódó vagyonkezelési szerződések érvényességét. A tulajdonjog átszállására tekintettel a kormány által kijelölt szerv 2013. december 31-éig felmondhatja – az azokban meghatározott feltételektől és az Eftv. 2/E. § (1) bekezdésétől eltérően – a szerződéseket és megállapodásokat azzal, hogy a felmondási idő nem lehet rövidebb 60 napnál.
-
-(5) Az a helyi önkormányzat, amely a (2) bekezdés alapján a járóbeteg-szakellátási feladat ellátására kötelezett, 2013. február 15-éig – a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvényben (a továbbiakban: Mötv.) foglaltak szerint – köteles dönteni és az egészségügyért felelős minisztert tájékoztatni arról, hogy 2013. április 30-át követően folytatja-e a járóbeteg-szakellátási feladat ellátását. A helyi önkormányzat döntése csak a járóbeteg-szakellátási feladatai egészének átadására, illetve folytatására irányulhat.
-
-(6) Amennyiben a helyi önkormányzat az (5) bekezdésben foglaltakról az ott meghatározott határidőn belül nem dönt vagy döntéséről nem tájékoztatja a minisztert, úgy kell tekinteni, hogy a helyi önkormányzat nem kívánja 2013. május 1-jét követően a feladatot ellátni.
-
-(7) Az állam nevében a kormány által kijelölt szerv 2013. április 30-áig a Mötv. 10. § (3) bekezdése alapján megállapodást köt azzal a helyi önkormányzattal, amely az (5) bekezdés szerinti döntésével vállalta a járóbeteg-szakellátási feladat ellátásának 2013. április 30. utáni folytatását. A megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat, valamint a megállapodással szembeni tartalmi és formai követelményeket és a megállapodás megkötésével kapcsolatos eljárási szabályokat a Kormány rendeletben állapítja meg.
-
-(8) Az a helyi önkormányzat, amely az (5) bekezdés szerinti nyilatkozatában foglaltaknak megfelelően vagy a (6) bekezdés alapján 2013. április 30-át követően már nem fogja ellátni a (2) bekezdésben meghatározott járóbeteg-szakellátási feladatot és a járóbeteg-szakellátást nyújtó szolgáltatója egészségügyi alapellátási tevékenységet is végez, 2013. április 30-áig gondoskodik az alapellátási feladat és a járóbeteg-szakellátási feladat, valamint az ezen feladatokhoz kapcsolódó önkormányzati tulajdonban lévő egyes vagyonelemek elválasztásáról.
-
-(9) A (8) bekezdésben meghatározott kötelezettség teljesítéséhez szükséges és a járóbeteg-szakellátási feladat 2013. április 30. utáni állam általi ellátását nem veszélyeztető – a kormány által kijelölt szerv által előzetesen engedélyezett – intézkedések kivételével az (5) bekezdés szerinti helyi önkormányzatot terhelő járóbeteg-szakellátási feladat ellátására szolgáló, a helyi önkormányzat tulajdonában, illetve a járóbeteg-szakellátási feladat ellátásában közreműködő – önkormányzati tulajdonú – egészségügyi szolgáltatója tulajdonában lévő vagyonelemek 2013. április 30-áig nem idegeníthetőek el, nem terhelhetőek meg, a gazdasági társaságok törzs-, illetve alaptőkéje nem csökkenthető, járóbeteg-szakellátást nyújtó szolgáltató működési formája nem változtatható meg.
-
-(10) A (9) bekezdésben foglalt korlátozás alól kivételt képeznek azok a vagyonelemek, amelyeket érintő jogügyletekről a helyi önkormányzat e törvény hatálybalépését megelőzően már döntést hozott, és az abból befolyó bevételt a helyi önkormányzat a 2013. évi költségvetésében betervezte.
+244/E. § A 2013. április 28-án hatályos 244/D. § (5) bekezdés alapján meghozott döntések – a 244/D. § hatályon kívül helyezésére tekintettel – nem kerülnek alkalmazásra és a döntési kötelezettség teljesítésének elmulasztása jogkövetkezményekkel nem jár.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 

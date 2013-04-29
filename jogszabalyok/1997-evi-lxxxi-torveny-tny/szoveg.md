@@ -945,7 +945,8 @@ módosítja vagy visszavonja.
 - e) a rokkantság fokára, az egészségkárosodás, egészségi állapot mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
 - f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra vonatkozó adatok,
 - g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása a hozzátartozói minőség figyelembevételével történik,
-- h) a társadalombiztosítási egyéni számlára vonatkozó, a 96/A. § (1) bekezdése szerinti állami adóhatóság által nyilvántartott egyéb adatok
+- h) a megállapított, illetve folyósított ellátásra vonatkozó adatok,
+- i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá – ha azt az államháztartás részére utalták át – a visszalépő tagi kifizetések összege
 
 tarthatók nyilván.
 
@@ -975,15 +976,10 @@ szerinti adatok igénylésére jogosultak.
 
 ### Társadalombiztosítási egyéni számla
 
-96/A. § (1) A társadalombiztosítási egyéni számla természetes személyenként tartalmazza
+96/A. § A társadalombiztosítási egyéni számla természetes személyenként tartalmazza
 
-- a) a 97. § alapján szolgáltatott adatokat,
-- b) az Mpt. 120/A. § (8) bekezdése alapján átvett adatokat,
-- c) az Art. 52. § (7) bekezdés b) és d) pontja, valamint e)–g) pontja alapján átvett adatokat,
-- d) a megállapított, illetve folyósított ellátásra vonatkozó adatokat,
-- e) a 96. § (2) bekezdés a)–g) pontjában meghatározott, valamint a nyugdíjbiztosítási igazgatási szervek által a természetes személyről nyilvántartható egyéb adatokat.
-
-(2) A társadalombiztosítási egyéni számlát a Kormány által rendeletben kijelölt államigazgatási szerv vezeti. A társadalombiztosítási egyéni számla adataihoz a feladat- és hatásköre ellátása érdekében, az ahhoz szükséges mértékben a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, továbbá valamennyi nyugdíjbiztosítási igazgatási szerv közvetlenül hozzáférhet.
+- a) a biztosított természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, valamint
+- b) a biztosított után a 2012. december 31-ét követő időszakra bevallott nyugdíjjárulék összegére vonatkozó, az állami adóhatóságtól átvett adatokat.
 
 ### A nyilvántartás adatainak egyeztetése és a szolgálati idő, jogosultsági idő igazolása
 
@@ -1145,6 +1141,10 @@ rendeletben határozza meg.
 (2) A 2013. január 1-jén a 83/C. § (1) bekezdése szerinti jogviszonyban álló személy öregségi nyugdíját – ha a 83/C. § (1) bekezdése szerinti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell szüneteltetni.
 
 102/J. § A 18. § (2) bekezdés c) pontja, (2a) bekezdés b) pontja, a 83/C. § és a 102/I. § a bírák jogállásáról és javadalmazásáról szóló törvény alapján rendelkezési állományba helyezett bíróra, valamint a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény alapján rendelkezési állományba helyezett ügyészre nem alkalmazható az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől 2022. december 31-ig.
+
+102/K. § (1) A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátókhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény rendelkezései alapján, az átvétellel érintett gazdasági társaságokkal az átvétel időpontjában munkaviszonyban álló személyekkel létesített közalkalmazotti jogviszony keretében továbbfoglalkoztatott, öregségi nyugdíjban részesülő személy a közalkalmazotti jogviszony létesülésének tényét 2013. június 1-jéig köteles bejelenteni a nyugdíjfolyósító szervnek.
+
+(2) Az (1) bekezdés szerinti személy öregségi nyugdíját – ha közalkalmazotti jogviszonya továbbra is fennáll – a 83/C. § szerint 2013. július 1-jétől kell szüneteltetni.
 
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
 
