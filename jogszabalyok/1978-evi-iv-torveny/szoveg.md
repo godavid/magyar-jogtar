@@ -3203,23 +3203,17 @@ gyűlöletre uszít, bűntett miatt három évig terjedő szabadságvesztéssel 
 
 ### Önkényuralmi jelképek használata
 
-269/B. § (1) Aki horogkeresztet, SS-jelvényt, nyilaskeresztet, sarló-kalapácsot, ötágú vörös csillagot vagy ezeket ábrázoló jelképet
+269/B. § Aki horogkeresztet, SS-jelvényt, nyilaskeresztet, sarló-kalapácsot, ötágú vöröscsillagot vagy ezeket ábrázoló jelképet a köznyugalom megzavarására alkalmas – különösen az önkényuralmi rendszerek áldozatainak emberi méltóságát vagy kegyeleti jogát sértő – módon
 
-- a) terjeszt;
-- b) nagy nyilvánosság előtt használ;
-- c) közszemlére tesz;
+- a) terjeszt,
+- b) nagy nyilvánosság előtt használ, vagy
+- c) közszemlére tesz,
 
 ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és pénzbüntetéssel büntetendő.
 
-(2) Nem büntethető az (1) bekezdésben meghatározott cselekmény miatt, aki azt ismeretterjesztő, oktatási, tudományos, művészeti célból vagy a történelem, illetve a jelenkor eseményeiről szóló tájékoztatás céljából követi el.
+### A nemzetiszocialista és kommunista rendszerek bűneinek nyilvános tagadása
 
-(3) Az (1)—(2) bekezdés rendelkezései az államok hatályban lévő hivatalos jelképeire nem vonatkoznak.
-
-(4)
-
-### A nemzeti szocialista és kommunista rendszerek bűneinek nyilvános tagadása
-
-269/C. § Aki nagy nyilvánosság előtt a nemzeti szocialista vagy kommunista rendszerek által elkövetett népirtás és más, emberiség elleni cselekmények tényét tagadja, kétségbe vonja vagy jelentéktelen színben tünteti fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+269/C. § Aki nagy nyilvánosság előtt a nemzetiszocialista vagy kommunista rendszerek által elkövetett népirtás és más, emberiség elleni cselekmények tényét tagadja, kétségbe vonja vagy jelentéktelen színben tünteti fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Rémhírterjesztés
 
