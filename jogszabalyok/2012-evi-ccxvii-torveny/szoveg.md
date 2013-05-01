@@ -434,7 +434,7 @@ rendeletben állapítsa meg.
 
 (5)
 
-(6)
+(6) Hatályát veszti az Üht.
 
 42. § (1) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
 

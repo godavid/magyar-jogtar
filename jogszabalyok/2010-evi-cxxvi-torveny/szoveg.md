@@ -76,7 +76,8 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 - c) felmentésével,
 - d) halálával,
 - e) ha az országgyűlési képviselők választásán már nem választható,
-- f) összeférhetetlenségének megállapításával.
+- f) összeférhetetlenségének megállapításával,
+- g) közös megegyezéssel.
 
 (6) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
 
@@ -142,7 +143,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A kormánymegbízott a fővárosi és megyei kormányhivatal koordinációs feladatainak elősegítésére szükség esetén fővárosi, megyei koordinációs értekezletet hívhat össze.
 
-18. § A fővárosi és megyei kormányhivatal véleményezi – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – a Kormánynak alárendelt szervek területi szervei
+18. § A fővárosi és megyei kormányhivatal véleményezi – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – a központi államigazgatási szervek területi szervei, valamint a területi illetékességgel kizárólag államigazgatási feladatot ellátó más szervek
 
 - a) vezetőinek kinevezését és felmentését,
 - b) létrehozására, átszervezésére, valamint jogállásuk és illetékességi területük módosítására vonatkozó előterjesztést,
@@ -206,7 +207,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap 16-szorosában állapítja meg.
 
-20/F. § A járási szakigazgatási szerv vezetőjét a hivatalvezető javaslatára – amennyiben kormányrendelet kivételt nem tesz – a megyei szakigazgatási szerv vezetője nevezi ki és szünteti meg a jogviszonyát. A járási szakigazgatási szerv vezetőjének kinevezni, illetve felmenteni javasolt személyről a megyei szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a kinevezni, illetve felmenteni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a járási szakigazgatási szerv vezetőjének, illetve nem kerülhet felmentésre. A járási szakigazgatási szerv vezetője főosztályvezető-helyettes besorolású kormánytisztviselő.
+20/F. § A járási szakigazgatási szerv vezetőjét a hivatalvezető javaslatára – amennyiben kormányrendelet kivételt nem tesz – a megyei szakigazgatási szerv vezetője nevezi ki és szünteti meg a jogviszonyát, valamint gyakorolja a kinevezésének módosításával kapcsolatos munkáltatói jogot. A járási szakigazgatási szerv vezetőjének kinevezni, illetve felmenteni javasolt személyről a megyei szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a kinevezni, illetve felmenteni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a járási szakigazgatási szerv vezetőjének, illetve nem kerülhet felmentésre. A járási szakigazgatási szerv vezetője főosztályvezető-helyettes besorolású kormánytisztviselő.
 
 #### 10. Záró rendelkezések
 
