@@ -92,6 +92,12 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (4) E §-t a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében folytatott táboroztatási tevékenység esetén is alkalmazni kell.
 
+4/C. § (1) Az egészségügyi szolgáltató a sérülések megelőzése céljából a jogszabályban előírt munkavédelmi és foglalkozás-egészségügyi kötelezettségei teljesítésével összhangban, az egészségügyért felelős miniszter rendeletében meghatározottak szerint biztosítja az egészségügyi dolgozók védelmét az egészségügyi tevékenység végzéséhez szükséges éles vagy hegyes eszközök használatából eredő kockázatokkal szemben.
+
+(2) Az (1) bekezdésben foglaltak betartását az egészségügyi államigazgatási szerv a 6. § (1) bekezdés b) pontjában foglalt feladatkörében felügyeli és 10. § (1) bekezdésében foglalt hatósági jogkörében ellenőrzi.
+
+(3) E törvény alkalmazásában éles vagy hegyes eszközök: a munkavédelemről szóló törvény 1993. évi XCIII. törvény 87. § 4. pontja értelmében munkaeszköznek minősülő, konkrét egészségügyi tevékenységek végzéséhez használt olyan tárgyak vagy eszközök, amelyekkel vágni és szúrni lehet, továbbá amelyek egyébként sérülést vagy fertőzést okozhatnak.
+
 5. § (1) Az egészségügyi államigazgatási szerv az egészségfejlesztési (egészségvédelmi, egészségnevelési és egészségmegőrzési) tevékenysége keretében összehangolja, szervezi és felügyeli a népbetegségek megelőzését szolgáló feladatok végrehajtását, így különösen
 
 - a) a gyógyító-megelőző alapellátás tanácsadó tevékenységét;
@@ -185,7 +191,8 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
 - g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, berendezések, létesítmények üzemeltetésére,
 - h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
-- i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
+- i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
+- j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
 (1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.
 
@@ -227,9 +234,9 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3)
 
-(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni.
+(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni
 
-(5)
+(5) A befolyt összeg – a miniszter jóváhagyásával – az egészségügyi államigazgatási szerv hatósági ellenőrzésének és vizsgálati módszereinek folyamatos fejlesztésére, szakembereinek képzésére, valamint szakfelügyeleti és közegészségügyi-járványügyi tevékenységére használható fel.
 
 14. § Az egészségügyi államigazgatási szervnek
 
@@ -301,3 +308,5 @@ rendeletben határozza meg.
   - dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését.
 
 (13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
+
+16. § Ez a törvény a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv melléklete 3. szakasz 4. pontjának való megfelelést szolgálja.
