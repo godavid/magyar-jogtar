@@ -906,6 +906,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Az önkormányzati gazdálkodás e törvényben nem szabályozott kérdéseiben az államháztartásról szóló törvényben és végrehajtási rendeleteiben foglaltakat kell alkalmazni.
 
+(4) A kormányhivatal vezetője a helyi önkormányzat polgármesteri hivatala, közös önkormányzati hivatala, illetve megyei önkormányzati hivatala alkalmazásában álló személyek közül a helyi önkormányzat kiadási előirányzatai terhére fizetési kötelezettség vállalására jogosult személyt jelöl ki, ha a kormányhivatal illetékességi területén működő helyi önkormányzatnál tizenöt napot meghaladóan nincs kötelezettségvállalásra jogosult személy vagy feladata ellátásában akadályoztatva van, és ez a helyi önkormányzat gazdálkodását akadályozza. A kormányhivatal vezetője általi kijelölés megszűnik, ha a kötelezettségvállalásra más személy válik jogosulttá vagy az arra jogosult személy akadályoztatása megszűnik.
+
 113. § A helyi önkormányzat költségvetési, a költségvetés teljesítési és szakmai tevékenységének bemutatására, értékelésére vonatkozó adatainak jogszabályban meghatározott körét a jegyző legalább évente a helyben szokásos módon közzéteszi.
 
 114. § A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, mely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál. A rendszerben kötelezően nyilvántartandó adatok körét jogszabály határozza meg.
@@ -1016,7 +1018,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 - a) irányítja a helyi önkormányzatok törvényességi felügyeletét;
 - b) kezdeményezi a Kormánynál az Alaptörvénnyel ellentétesen működő helyi képviselő-testület feloszlatására vonatkozó országgyűlési előterjesztés benyújtását;
-- c) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket.
+- c) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket;
+- d) a kormányhivatal javaslatának megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál annak indítványozását, hogy az Alkotmánybíróság vizsgálja felül az önkormányzati rendelet Alaptörvénnyel való összhangját.
 
 130. § A miniszter, feladatkörében eljárva:
 
@@ -1046,8 +1049,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 132. § (1) A kormányhivatal a helyi önkormányzatok törvényességi felügyelete körében az Alaptörvényben meghatározott feladat- és hatáskörökön túl:
 
 - a) törvényességi felhívással élhet;
-- b) kezdeményezheti a képviselő-testület összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület ülését;
-- c) kezdeményezheti a Kormánynál, hogy indítványozza az Alkotmánybíróságnál az önkormányzati rendelet Alaptörvénnyel való összhangjának felülvizsgálatát;
+- b) kezdeményezheti a képviselő-testület vagy a társulási tanács összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület vagy a társulási tanács ülését;
+- c) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál annak indítványozását, hogy az Alkotmánybíróság vizsgálja felül az önkormányzati rendelet Alaptörvénnyel való összhangját;
 - d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
 - e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 - f) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatását;
@@ -1056,7 +1059,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - i) fegyelmi eljárást kezdeményezhet a helyi önkormányzat polgármestere ellen és a polgármesternél a jegyző ellen;
 - j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
 - k) szakmai segítséget nyújt a helyi önkormányzatnak a feladat- és hatáskörébe tartozó ügyben;
-- l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra az e törvényben meghatározott esetekben.
+- l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
 (2) A kormányhivatal törvényességi felügyeleti eljárásának célja a helyi önkormányzat képviselő-testülete, bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása, jegyzője (a továbbiakban: érintett) működése jogszerűségének biztosítása.
 
@@ -1074,7 +1077,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (5) A kormányhivatal törvényességi felügyeleti eljárása kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
 
-### A kormányhivatal információkérési joga
+### A kormányhivatal információkérési és javaslattételi joga
 
 133. § (1) A kormányhivatal a helyi önkormányzat feladat- és hatáskörébe tartozóan az érintettől információt, adatot kérhet, konzultációt kezdeményezhet, amelyeknek az érintett a megadott határidőn belül köteles eleget tenni.
 
@@ -1086,15 +1089,15 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (2) A megadott határidő eredménytelen leteltét követően a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
 
-### A képviselő-testület ülésének összehívása
+### A képviselő-testület és a társulási tanács ülésének összehívása
 
-135. § (1) A kormányhivatal kezdeményezi a polgármesternél a képviselő-testület ülésének összehívását, ha törvényességi kérdések képviselő-testület által történő megtárgyalása a helyi önkormányzat törvényes működésének biztosítása érdekében indokolt.
+135. § (1) A kormányhivatal kezdeményezi a polgármesternél a képviselő-testület, illetve a társulási tanács elnökénél a társulási tanács ülésének összehívását, ha törvényességi kérdések megtárgyalása a helyi önkormányzat, illetve a társulás törvényes működésének biztosítása érdekében indokolt.
 
-(2) Ha a polgármester a kormányhivatal képviselő-testületi ülésének összehívására tett javaslatának és a 44. § szerint tett indítványnak tizenöt napon belül nem tesz eleget, a képviselő-testület ülését a kormányhivatal hívja össze. Az ülés összehívása során a kormányhivatal eltérhet a helyi önkormányzat szervezeti és működési szabályzatában meghatározott szabályoktól.
+(2) Ha a polgármester, illetve a társulási tanács elnöke a kormányhivatal (1) bekezdés szerinti javaslatának, vagy a polgármester a kormányhivatal 44. § szerinti indítványának 15 napon belül nem tesz eleget, a képviselő-testület, illetve a társulási tanács ülését a kormányhivatal hívja össze. Az ülés összehívása során a kormányhivatal eltérhet a helyi önkormányzat, illetve a társulás szervezeti és működési szabályzatában meghatározott szabályoktól.
 
 ### Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotmánybírósági felülvizsgálat kezdeményezése, önkormányzati rendelet jogszabállyal való összhangja bírósági felülvizsgálatának kezdeményezése
 
-136. § (1) Az önkormányzati rendelet Alaptörvénybe ütközése esetén a kormányhivatal a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter útján, az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével egyidejűleg kezdeményezi a Kormánynál az önkormányzati rendelet alkotmánybírósági felülvizsgálatának indítványozását. A kormányhivatal az indítványt a Kormánynak megküldött kezdeményezéssel egyidejűleg megküldi az érintett helyi önkormányzatnak.
+136. § (1) Ha a kormányhivatal az önkormányzati rendeletet az Alaptörvénnyel ellentétesnek találja, – a törvényességi felügyelet 132. § (1) bekezdés a) és b) pontjában meghatározott eszközeinek eredménytelen alkalmazását követően – az önkormányzati rendelet alkotmánybírósági felülvizsgálatának Kormány általi kezdeményezése iránti javaslatát az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternél. A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a javaslat megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását. A kormányhivatal az indítvány tervezetét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek történő megküldésével egyidejűleg megküldi az érintett helyi önkormányzatnak is.
 
 (2) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a Kúriánál az önkormányzati rendelet jogszabállyal való összhangjának felülvizsgálatát. A bírósági eljárás megindításával egyidejűleg az indítványt a kormányhivatal megküldi az érintett helyi önkormányzatnak.
 
@@ -1155,14 +1158,15 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Törvényességi felügyeleti bírság megállapítása
 
-141. § (1) A kormányhivatal a helyi önkormányzattal szemben törvényességi felügyeleti bírságot állapíthat meg,
+141. § (1) A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
 
 - a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
-- b) ha a polgármester, a jegyző határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
+- b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 - c) ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
-- d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást.
+- d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
+- e) ha az érintett ugyanazon jogszabályi kötelezettségét ismételten megsérti, azonban az ismételten megsértett jogszabályi kötelezettség súlya nem indokolja más törvényességi felügyeleti eszköz alkalmazását.
 
-(2) A törvényességi felügyeleti bírság legkisebb összege esetenként a köztisztviselői illetményalap, legmagasabb összege esetenként a köztisztviselői illetményalap tízszerese.
+(2) A törvényességi felügyeleti bírság legkisebb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap, legmagasabb összege esetenként a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tízszerese.
 
 (3) A törvényességi felügyeleti bírság ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
@@ -1172,11 +1176,16 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - b) a helyi önkormányzat költségvetési helyzetét, és
 - c) az előző bírságok számát és mértékét.
 
-(5) A kormányhivatal bírságot megállapító döntésének bírósági felülvizsgálatát kérheti a helyi önkormányzat a döntés közlésétől számított tizenöt napon belül.
+(5) A törvényességi felügyeleti bírságot megállapító határozatnak tartalmaznia kell
 
-(6) A kormányhivatal bírságot megállapító döntésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény előírásait megfelelően kell alkalmazni.
+- a) a bevezető részben a kormányhivatal és a helyi önkormányzat vagy a társulás megnevezését és székhelyét;
+- b) a rendelkező részben a döntést és az annak végrehajtásával, továbbá a jogorvoslat lehetőségével kapcsolatos tájékoztatást;
+- c) az indokolásban a döntést megalapozó tényeket;
+- d) a záró részben a kiadmányozást.
 
-(7) A közigazgatási és munkaügyi bíróság a kormányhivatal döntését megváltoztathatja, a kormányhivatal új eljárás lefolytatására nem kötelezhető.
+(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálatát jogszabálysértésre hivatkozással a helyi önkormányzat vagy a társulás kérheti az illetékes közigazgatási és munkaügyi bíróságtól a döntés közlésétől számított tizenöt napon belül.
+
+(7) A közigazgatási és munkaügyi bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.
 
 ### A bírósági eljárás kezdeményezésének közös szabályai
 
@@ -1184,7 +1193,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (2) A 139–140. § szerinti jogszabálysértések megszüntetésére irányuló pert a helyi önkormányzat vagy a polgármester ellen lehet megindítani.
 
-(3) A kormányhivatalnak a helyi önkormányzattal szemben törvényességi felügyeleti bírságot megállapító döntése ellen a pert a kormányhivatal ellen kell megindítani.
+(3) A kormányhivatalnak a helyi önkormányzattal szemben törvényességi felügyeleti bírságot megállapító határozata ellen a pert a kormányhivatal ellen kell megindítani.
 
 (4) Az önkormányzati határozat bírósági felülvizsgálata, az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt, valamint a kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, e perekben a közigazgatási és munkaügyi bíróság jár el.
 
