@@ -74,7 +74,7 @@ Tbj. 4. § E törvény alkalmazásában:
 Tbj. 5. § (1) E törvény alapján biztosított
 
 - a) a munkaviszonyban (ideértve az országgyűlési képviselőt is), közalkalmazotti, közszolgálati jogviszonyban, kormányzati szolgálati viszonyban, ügyészségi szolgálati jogviszonyban, bírósági jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, hivatásos nevelőszülői jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, közfoglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona (a továbbiakban: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,
-- b) a szövetkezet tagja – ide nem értve az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagját –, ha a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik,
+- b) a szövetkezet tagja, aki a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik, kivéve az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folyatató tanuló, hallgató tagját és a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés keretében munkát végző tagot,
 - c) a tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló,
 - d) az álláskeresési támogatásban részesülő személy,
 - e) a kiegészítő tevékenységet folytatónak nem minősülő egyéni vállalkozó,
@@ -219,11 +219,12 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 - s) nevelőszülői tevékenységet folytat, és az e tevékenységéből származó tárgyhavi járulékalapot képező jövedelme nem éri el a minimálbér 30 százalékát, naptári napokra annak harmincad részét.
 - t) hajléktalan,
 - u) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátásban vagy szolgálati járandóságban részesül,
-- v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradékban részesül.
+- v) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló törvényben meghatározott balettművészeti életjáradékban részesül,
+- w) a szociális szövetkezetben a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban áll, kivéve e jogviszony szünetelésének időtartamát.
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
-(3) Az (1) bekezdés a)–k), továbbá o), s), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
+(3) Az (1) bekezdés a)–k), továbbá o), s), u), v) és w) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
 
 (4) Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani. Amennyiben a jogosultság egyszerre több jogcím alapján is megállapítható, akkor a jogcímek (1) bekezdésben foglalt felsorolása jogosultsági sorrendet jelent azzal, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésben felsorolt jogcímeket megelőzi.
 
@@ -266,11 +267,11 @@ fizet.
 
 Tbj. 19. § (1)
 
-(2) A biztosított, a kiegészítő tevékenységet folytató egyéni és társas vállalkozó által fizetendő nyugdíjjárulék mértéke 10 százalék.
+(2) A biztosított, a kiegészítő tevékenységet folytató egyéni és társas vállalkozó, valamint a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezeti tag által fizetendő nyugdíjjárulék mértéke 10 százalék.
 
 (3) A biztosított által fizetendő egészségbiztosítási- és munkaerő-piaci járulék mértéke 8,5 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 4 százalék, a pénzbeli egészségbiztosítási járulék 3 százalék, a munkaerő-piaci járulék 1,5 százalék.
 
-(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 6660 forint (napi összege 222 forint).
+(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 6660 forint (napi összege 222 forint).
 
 (5) A foglalkoztató az 5. §-ban említett biztosított betegsége miatti keresőképtelensége, valamint a kórházi (klinikai) ápolása időtartamára folyósított táppénz egyharmadát hozzájárulás címén fizeti meg.
 
@@ -534,7 +535,7 @@ Tbj. 38. § (1) Több jogviszony egyidejű fennállása esetén a kiegészítő 
 
 Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o), s)–v) pontjában említett személyek egészségügyi szolgáltatásának fedezetét a 26. § (5) bekezdésében meghatározott járulékfizetéssel és az egészségügyi hozzájárulás bevételeinek átutalásával biztosítja.
 
-(2) Az a belföldi személy, aki nem biztosított és egészségügyi szolgáltatásra a 16. § (1) bekezdésének a)–p) és s)–v) pontja, valamint a 13. § szerint sem jogosult, köteles a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot fizetni.
+(2) Az a belföldi személy, aki nem biztosított és egészségügyi szolgáltatásra a 16. § (1) bekezdésének a)–p) és s)–w) pontja, valamint a 13. § szerint sem jogosult, köteles a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot fizetni.
 
 (3) A (2) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik Magyarország területén. Az egyéves időtartamba beszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha az állami adóhatóság az egy éves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, a lakcímre vonatkozó adatok közlése érdekében.
 
@@ -544,9 +545,21 @@ Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o),
 
 (6) Az állami adóhatóság a (2) bekezdés szerint egészségügyi szolgáltatási járulék fizetésére kötelezett által az Art. 20. § (6) bekezdése szerint hozzá bejelentett adatokat a bejelentést követő 10 napon belül elektronikus úton megküldi az Egészbiztosítás Alap kezeléséért felelős szerv részére.
 
-Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–v) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
+Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–w) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
 
 (2) Ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt a 39. § alapján megfizetett járulékot a foglalkoztató által kiállított igazolás benyújtása mellett vissza lehet igényelni az állami adóhatóságtól.
+
+Tbj. 39/B. § (1) A szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet e tagja után a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot, a tag az e tevékenysége ellenértékeként kapott pénzbeli juttatás után a 19. § (2) bekezdésében meghatározott nyugdíjjárulékot fizet.
+
+(2) A tagi jogviszony szünetelése alatt a szövetkezet nem fizet egészségügyi szolgáltatási járulékot. A szövetkezeti tag közfoglalkoztatási jogviszonyának fennállása alatt az (1) bekezdés rendelkezései nem alkalmazhatók.
+
+(3) A szociális szövetkezet az (1) bekezdés szerinti egészségügyi szolgáltatási járulék megfizetése alól a tagi munkavégzési jogviszony létrejöttét követő első évben mentesül, a második évben az egészségügyi szolgáltatási járulék 25 százalékának, harmadik évben 50 százalékának, negyedik évben 75 százalékának, az ötödik évtől 100 százalékának megfizetésére kötelezett. Az egészségügyi szolgáltatási járulék különbözetét a Nemzeti Foglalkoztatási Alap negyedévente megtéríti az Egészségbiztosítási Alap részére.”
+
+(4) A (3) bekezdés szerinti kedvezményt ugyanazon személy után egy időben csak egy szociális szövetkezet, továbbá ugyanaz a szociális szövetkezet ugyanazon tagja után csak egy alkalommal veheti igénybe.
+
+(5) Négy évnél rövidebb időtartamú jogviszony esetén a (3) bekezdés szerinti kedvezmény a négy évből fennmaradó időszakra másik jogviszonyban érvényesíthető, a kedvezmény mértékének megállapításánál azonban figyelembe kell venni a korábbi tagi jogviszonyban érvényesített kedvezmény időtartamát.
+
+(6) A (3) bekezdés szerinti kedvezmény igénybevételéhez szükséges a tag nyilatkozata arról, hogy utána másik szociális szövetkezet nem érvényesít kedvezményt, vagy a megelőző négy év időtartamban mennyi időre érvényesítettek utána kedvezményt. A jogszerűtlen nyilatkozatból adódó adóhiány, bírság és pótlék a tagot terheli.
 
 ### V. Fejezet — TÁRSADALOMBIZTOSÍTÁSI NYILVÁNTARTÁSOK
 
@@ -652,6 +665,13 @@ Tbj. 44/A. § (1) A kincstár a 42. § (1) bekezdésének a) pontjában meghatá
 
 a jogosultság kezdetét és megszűnését követő 10 napon belül köteles teljesíteni az egészségbiztosítási szervnek.
 
+(3a) A szociális szövetkezet a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagja
+
+- a) jogviszonyának kezdetét legkésőbb a jogviszony első napján, a munkavégzés megkezdése előtt,
+- b) jogviszonyának megszűnését, szünetelésének kezdetét és befejezését 8 napon belül
+
+jelenti be az egészségbiztosítási szervnek.
+
 (4) A nyugdíj-biztosítási ellátásban (ideértve a saját jogú és a hozzátartozói nyugellátásban részesülőket), rehabilitációs járadékban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátásban, mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), , bányászati keresetkiegészítésben, rokkantsági járadékban, baleseti járadékban, polgármesterek közszolgálati járadékában, házastársi pótlékban, házastársi jövedelempótlékban részesülő személyekről, továbbá nemzeti gondozási díjban, pótlékban részesülők esetén, a hadigondozotti pénzellátás esetén a nyugdíjfolyósító szerv legkésőbb az ellátás folyósításának megkezdését, illetve megszüntetését követő napon bejelentést tesz az egészségbiztosítási szervnek. A nyugdíjfolyósító szerv bejelentési kötelezettségének teljesítésére a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt az egészségbiztosítási szervvel.
 
 (5) A 16. § (1) bekezdésének j) pontjában meghatározott személy az egészségügyi szolgáltatásának biztosítására bejelentést tesz az egészségbiztosítási szervnek, ezzel egyidejűleg az orvosszakértői szerv, a rehabilitációs szakértői szerv vagy a rehabilitációs hatóság szakvéleményével, szakhatósági állásfoglalásával igazolja, hogy munkaképessége csökkenésének mértéke az 50 százalékot, illetve az egészségkárosodásának mértéke a 40 százalékot eléri.
@@ -714,7 +734,7 @@ Tbj. 47. § (1) A 46. § (2) bekezdése szerinti nyilvántartást a nyilvántart
 
 (4) Amennyiben a 47. § (1) bekezdése szerinti bevallási kötelezettség teljesítése, vagy a már teljesített adatszolgáltatás módosítása a 2008. évet megelőző időszakra, illetőleg az Art.-ben meghatározott elévülési időn túli év(ek)re vonatkozik, az adatszolgáltatást a nyugdíj-biztosítási igazgatási szerv részére kell teljesíteni.
 
-Tbj. 48. §
+Tbj. 48. § A szociális szövetkezet a tagi munkavégzési jogviszonyban álló tagja részére a tárgyévet követő év január 31-éig igazolást ad ki a jogviszony időtartamáról, a nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról és az abból érvényesített kedvezményről. A jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.
 
 Tbj. 49. §
 

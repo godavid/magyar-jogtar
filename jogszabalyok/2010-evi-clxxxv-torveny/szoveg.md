@@ -354,7 +354,7 @@ műsorszámban.
 
 figyelemfelhívás.
 
-(3) Választási kampányidőszakban az országgyűlési képviselők, európai parlamenti képviselők, illetőleg a helyi, megyei önkormányzati képviselők és polgármesterek választásáról, továbbá nemzetiségi önkormányzatok választásáról szóló törvények szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai hirdetés kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel, amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
+(3) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
 
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 

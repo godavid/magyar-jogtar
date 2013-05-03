@@ -668,7 +668,8 @@ időtartamával.
 - c) foglalkoztatási és képzési célú közalapítványok támogatására;
 - d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
 - e) a PHARE, majd az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
-- f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre.
+- f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
+- g) a szociális szövetkezet tagjának tagi munkavégzés keretében történő személyes közreműködése után fizetendő egészségügyi szolgáltatási járulékra.
 
 (3) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata központi és decentralizált keretre osztható fel. A közfoglalkoztatási támogatások előirányzata terhére megvalósuló programokkal összefüggésben legfeljebb a költségvetési támogatás 0,5%-ának megfelelő mértékben számolható el működtetéssel kapcsolatos kiadás.
 
@@ -904,7 +905,8 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 - g) jövedelemre vonatkozó adatok,
 - h) a megváltozott munkaképességgel kapcsolatos adatok,
 - i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám),
-- j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e.
+- j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
+- k) a nemzetiséghez való tartozásra vonatkozó adatok.
 
 (3) Az (2) bekezdés alapján nyilvántartásba vett adatokból
 

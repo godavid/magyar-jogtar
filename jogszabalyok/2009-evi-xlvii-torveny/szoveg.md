@@ -760,10 +760,10 @@ miatt indítottak büntetőeljárást.
 - j) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok,
 - k) határellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
-(3) A választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, továbbá
-- b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
+- a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
+- b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és i) pontjában meghatározott adatok.
 
 (4) A köztársasági elnök döntésének előkészítése céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 

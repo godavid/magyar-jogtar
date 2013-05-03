@@ -7,6 +7,8 @@ az egyszerűsített foglalkoztatásról
 - a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 - b) alkalmi munkára.
 
+(1a) E törvény szabályait kell alkalmazni továbbá abban az esetben, ha foglalkoztatási szövetkezet a tagjait munkaerő-kölcsönzés keretében a 2. § 1. és 2. pontjában meghatározott idénymunkára kölcsönzi ki azzal, hogy munkáltató alatt a foglalkoztatási szövetkezetet kell érteni.
+
 (2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
 - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
@@ -23,7 +25,7 @@ az egyszerűsített foglalkoztatásról
 
 létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együttes időtartama a naptári évben a százhúsz napot nem haladhatja meg.
 
-(4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatása esetén nem kell alkalmazni.
+(4a) A (2) és (3) bekezdésben foglaltakat filmipari statiszta alkalmi munkára irányuló egyszerűsített foglalkoztatására, továbbá a szociális szövetkezetekben az egyszerűsített foglalkoztatás esetén nem kell alkalmazni.
 
 (5) E törvény szabályai nem zárják ki, hogy az (1) bekezdésben foglalt esetekben a munkáltató és a munkavállaló az Mt. általános szabályai szerint létesítsen munkaviszonyt.
 

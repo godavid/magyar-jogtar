@@ -71,7 +71,7 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 (5) Iskolaszövetkezet alapításához az oktatási intézmény alapító tagsága szükséges.
 
-(5a) Szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat) is lehet a tagja.
+(5a) A szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat), továbbá jogszabályban meghatározott karitatív tevékenységet ellátó közhasznú jogállású szervezet is lehet a tagja.
 
 (6) Természetes személyként szövetkezeti tag az lehet, aki
 
@@ -134,11 +134,23 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 - r) a szövetkezet és a tag gazdasági együttműködésére vonatkozó feltételeket;
 - s) mindazt, amit e törvény kötelezően előír.
 
+(3) Az 56. § (2a) bekezdésében meghatározott jogviszony esetében a szociális szövetkezet alapszabályának tartalmaznia kell továbbá:
+
+- a) a tag által teljesítendő munkafeladatok meghatározását, az elvégzett munkafeladatok dokumentálásának módját,
+- b) a munkafeladat teljesítéséhez igazodóan a szövetkezet által megtermelt javakból történő részesedés módjának és mértékének (ellenértékének) meghatározását.
+
+(4) A (3) bekezdés b) pontja szerinti ellenértéket úgy kell meghatározni, hogy
+
+- a) az alkalmas legyen a tag teljesítményének figyelembevételére és
+- b) a megtermelt javakból való részesedés mértékének meghatározására.
+
 ### A szövetkezet nyilvántartásba vétele
 
 15. § (1) A szövetkezet alapítását az alapszabály elfogadásától számított 30 napon belül – bejegyzés és közzététel céljából – be kell jelenteni a szövetkezet székhelye szerint illetékes törvényszékhez, mint cégbírósághoz (a továbbiakban: cégbíróság). A szövetkezet a cégbejegyzés iránti kérelem benyújtását követően végezhet gazdasági tevékenységet.
 
 (2) A tagok a részjegytőke alapszabályban meghatározott mértékét, de legalább harminc százalékát az alapítást követő 8 napon belül kötelesek befizetni, illetőleg a nem pénzbeli hozzájárulás teljes egészét szolgáltatni kell. A szövetkezetet csak a befizetési (szolgáltatási) kötelezettség teljesítését követően szabad bejegyezni. Aki e kötelezettségét határidőben nem teljesíti, nem válik a szövetkezet tagjává. A cégbejegyzés során e személyt figyelmen kívül kell hagyni.
+
+(2a) Ha a szociális szövetkezet alapítói között az 56. § (2a) szerinti jogviszonyt létesítő olyan személyek is vannak, akik a vagyoni hozzájárulásukat az 50/A. § szerint teljesítik, a (2) bekezdés alkalmazása során e személyek vagyoni hozzájárulását a részjegytőke számítása és a vagyoni hozzájárulás teljesítésének határideje vonatkozásában figyelmen kívül kell hagyni.
 
 (3) A szövetkezet – külön törvényben foglalt feltételek szerint – a cégnyilvántartásba történő bejegyzéssel jön létre.
 
@@ -469,9 +481,11 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 - a) a tagfelvétel e törvényben foglalt feltételeinek meglétét, valamint
 - b) azt, hogy a kérelmező képes-e részt venni a szövetkezet tevékenységében.
 
-(2) A tagsági jogviszony – eltérő megállapodás hiányában – a felvételről szóló határozat meghozatalának időpontjára visszamenő hatállyal jön létre akkor, ha a tag a részjegy összegét vagy annak alapszabályban meghatározott hányadát a szövetkezet részére befizette, illetőleg nem pénzbeli hozzájárulásként átadta. A szövetkezetbe tagként belépni kívánó személy felvételi kérelmében más szövetkezeti tag részjegyének megvételi szándékáról nyilatkozhat, ilyenkor az 50. § (2) bekezdése szerinti részjegyet nem kell jegyeznie.
+(2) A tagsági jogviszony – e törvény eltérő rendelkezése vagy eltérő megállapodás hiányában – a felvételről szóló határozat meghozatalának időpontjára visszamenő hatállyal jön létre akkor, ha a tag a részjegy összegét vagy annak alapszabályban meghatározott hányadát a szövetkezet részére befizette, illetve nem pénzbeli hozzájárulásként átadta. A szövetkezetbe tagként belépni kívánó személy felvételi kérelmében más szövetkezeti tag részjegyének megvételi szándékáról nyilatkozhat, ilyenkor az 50. § (2) bekezdése szerinti részjegyet nem kell jegyeznie.
 
-(3) A kérelmező a felvételi kérelmet elutasító döntés ellen a soron következő közgyűléshez fordulhat.
+(3) Ha a tag személyes közreműködésére az 56. § (2a) bekezdésében meghatározott jogviszony alapján kerül sor, a tagsági jogviszony az alapszabály szerinti testület felvételt kimondó döntését követő napon keletkezik.
+
+(4) A kérelmező a felvételi kérelmet elutasító döntés ellen a soron következő közgyűléshez fordulhat. A (3) bekezdést ebben az esetben azzal az eltéréssel kell alkalmazni, hogy a jogviszony a közgyűlés tagfelvételt megállapító határozatát követő napon keletkezik.
 
 ### A részjegy
 
@@ -489,6 +503,10 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 45. § (1) A szövetkezet a tagokról nyilvántartást vezet, amely tartalmazza a tag nevét (cégnevét) és lakcímét (székhelyét), a tag által teljesített vagyoni hozzájárulás összegét, valamint a tagsági jogviszony keletkezésének és megszűnésének időpontját. A nyilvántartás – az ellenkező bizonyításig – igazolja a tagsági jogviszony keletkezésére, fennállására és megszűnésére vonatkozó adatokat.
 
 (2) A nyilvántartást bárki megtekintheti, ha érdekeltségét igazolja.
+
+(3) Az 56. § (2a) bekezdésében szabályozott jogviszony esetén a tagi nyilvántartás tartalmazza a tagi munkavégzési jogviszony keletkezésének, megszűnésének időpontját, szüneteltetésének kezdő és végső időpontját.
+
+(4) Az 56. § (2a) bekezdésében szabályozott jogviszony esetén a tagsági jogviszony keletkezését és megszűnését követő 5 napon belül a tag, illetve a volt tag részére a nyilvántartás személyére vonatkozó adattartalma alapján igazolást kell kiállítani.
 
 ### A tagsági jogviszony tartalma
 
@@ -530,6 +548,8 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 (2) Alapításkor és belépéskor egy részjegy jegyzése kötelező, amelynek – pénzbeli hozzájárulás esetén – az alapszabályban meghatározott hányadát, de legalább harminc százalékát az alapításkor (belépéskor) be kell fizetni, nem pénzbeli hozzájárulás esetén pedig az egészét szolgáltatni kell.
 
 (3) Ha a tag a részjegy névértékének megfelelő vagyoni hozzájárulás teljes összegét belépéskor nem szolgáltatja, a fennmaradó részt az alapszabályban meghatározott módon és időpontban – de legkésőbb a belépéstől számított egy éven belül – köteles szolgáltatni. Alapítás esetében az egyéves időtartamot a szövetkezet cégbejegyzésétől kell számítani.
+
+50/A. § A szociális szövetkezet alapszabálya az 56. § (2a) bekezdése szerinti jogviszonyban állók számára az 50. § (2) és (3) bekezdésében foglaltak helyett előírhatja, hogy a tag alapításkor, illetve belépéskor vagyoni hozzájárulást nem köteles szolgáltatni, hanem azt a tagsági jogviszonya keletkezésétől számított egy éven belül – az alapszabályban meghatározott időpontban és módon – köteles a szövetkezet részére rendelkezésre bocsátani. A nem pénzbeli hozzájárulás esetében ez a rendelkezés akkor alkalmazható, ha az alapszabály értelmében a tag a nem pénzbeli hozzájárulást a szövetkezetben végzett munkavégzése során megtermelt és a tulajdonába kerülő javak szövetkezet részére történő átadásával teljesíti.
 
 51. § (1) A részjegyek névértéke csak azonos összegű lehet. A részjegy másra – a szövetkezet tagja, valamint a 43. § (2) bekezdésében meghatározott esetben a szövetkezetbe tagként belépő személy kivételével – nem ruházható át, és a szövetkezeti tagnak harmadik személlyel szemben fennálló kötelezettsége miatt bírósági végrehajtás alá nem vonható.
 
@@ -578,7 +598,15 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 56. § (1) A tagok személyes közreműködésének módozatait az alapszabály a szövetkezet sajátosságainak megfelelően határozza meg. A személyes közreműködés történhet – a szövetkezet tevékenységéhez képest – termeléssel, termékek feldolgozásával, értékesítésre előkészítéssel, értékesítéssel, fogyasztással vagy egyéb tevékenységgel.
 
-(2) Az alapszabály a személyes közreműködés egyik módjaként munkavégzési kötelezettséget is előírhat. Ennek alapján a tag és a szövetkezet munkaszerződést, vállalkozási vagy megbízási szerződést köt. A munkaviszonyra a Munka Törvénykönyve, a vállalkozási és megbízási jogviszonyra a Ptk. szabályait kell alkalmazni.
+(2) Az alapszabály a személyes közreműködés egyik módjaként munkavégzési kötelezettséget is előírhat. Ennek alapján a tag és a szövetkezet munkaszerződést, vállalkozási vagy megbízási szerződést köt. A munkaviszonyra a Munka Törvénykönyve, a vállalkozási és megbízási jogviszonyra a Ptk. szabályait kell alkalmazni. A szövetkezet a munkaszerződésen, vállalkozási vagy megbízási szerződésen alapuló munkavégzés lehetőségét alapszabályában kizárhatja.
+
+(2a) A szociális szövetkezetek esetében – az iskolaszövetkezetet ide nem értve – a személyes közreműködés sajátos formája a közös termelésben való, tagsági viszonyon alapuló közvetlen közreműködés (a továbbiakban: tagi munkavégzés).
+
+(2b) Tagi munkavégzésre irányuló jogviszonyt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint regisztrált álláskereső, illetve a közfoglalkoztatási jogviszonyban lévő személy létesíthet és tarthat fenn.
+
+(2c) A tagi munkavégzés önálló, más munkavégzésre irányuló jogviszonyt szabályozó törvény hatálya alá nem tartozó jogviszony, amelyben az elvégzett munka ellentételezése a tagi munkavégzés arányában részben vagy egészben a közösen megtermelt javak természetben történő átadásával is történhet.
+
+(2d) Ha a szociális szövetkezet tagi munkavégzési jogviszonyban lévő tagja munkavégzésre irányuló más jogviszonyt létesít vagy tart fenn, e más jogviszony fennállása alatt a tagi munkavégzési jogviszony szünetel.
 
 (3) A szövetkezeti tagsági jogviszony megszűnése – a tag halálától eltekintve – a munkaviszonyra és a vállalkozási (megbízási) jogviszonyra nincs kihatással. A szerződő felek ettől eltérhetnek.
 
@@ -615,7 +643,7 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 ### A befektető tag
 
-60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek – az önkormányzat tag kivételével – nem lehet befektető tagja.
+60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek – az önkormányzat, továbbá karitatív tevékenységet ellátó közhasznú jogállású szervezet tag kivételével – nem lehet befektető tagja.
 
 (2) A befektető tag pénzbeli hozzájárulás vagy a 49. § (3) bekezdésében foglalt követelményeknek megfelelő nem pénzbeli hozzájárulás rendelkezésre bocsátásával a szövetkezetnél befektetői részjegyet jegyez (továbbiakban: befektetői részjegy).
 
@@ -635,13 +663,16 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 ### A tagsági jogviszony megszűnése
 
-61. § A tagsági jogviszony megszűnik, ha:
+61. § (1) A tagsági jogviszony megszűnik, ha:
 
 - a) a tag a szövetkezetből kilép;
 - b) a tag a vagyoni hozzájárulását (pótbefizetési kötelezettségét) – az alapszabályban (közgyűlési határozatban) meghatározott időpontig – nem teljesítette;
-- c) a tag meghal (megszűnik);
-- d) a szövetkezet a tagot kizárja;
-- e) a szövetkezet átalakulással vagy jogutód nélkül megszűnik.
+- c) a szociális szövetkezet karitatív tevékenységet ellátó közhasznú jogállású szervezet tagjának közhasznú jogállása megszűnik;
+- d) a tag meghal (megszűnik);
+- e) a szövetkezet a tagot kizárja;
+- f) a szövetkezet átalakulással vagy jogutód nélkül megszűnik.
+
+(2) Az 56. § (2a) bekezdésében szabályozott jogviszony az (1) bekezdés b) pontjában foglalt esetben a teljesítésre nyitva álló határidőt követő napon szűnik meg.
 
 62. § A kilépési szándékot az igazgatóságnak írásban kell bejelenteni. Az alapszabályban kell meghatározni, hogy a kilépésre vonatkozó bejelentés és a tagsági jogviszony megszűnése között milyen időtartamnak kell eltelnie, azonban az nem lehet hosszabb három hónapnál.
 
@@ -1014,7 +1045,7 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 108. § E törvénynek a szövetkezetekről szóló 2006. évi X. törvény, az illetékekről szóló 1990. évi XCIII. törvény és a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.) módosított 59. § (3) bekezdését a Módtv. hatálybalépését követően nyilvántartásba vett szociális szövetkezetek esetében kell alkalmazni.
 
-109. §
+109. § E törvénynek a szociális szövetkezetekkel összefüggésben egyes törvények, továbbá a közfoglalkoztatáshoz kapcsolódó egyes törvények módosításáról szóló 2013. évi XLI. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezései hatálybalépésekor már működő szociális szövetkezetek az alapszabályukat 2013. szeptember 30-áig kötelesek a Módtv.2. rendelkezéseinek megfelelően módosítani vagy a szövetkezet szociális jellegét megszüntetni.
 
 110. §
 

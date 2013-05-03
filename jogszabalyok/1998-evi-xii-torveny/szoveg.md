@@ -310,6 +310,8 @@ hajtja végre.
 
 (2) A központi adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
+(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.
+
 (3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
 (4) Az útlevélhatóság, illetve a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.

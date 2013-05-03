@@ -886,7 +886,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 31. § (1) Az adóbevallás az adózó azonosításához, az adóalap, a mentességek, a kedvezmények, az adó, a költségvetési támogatás alapja és összege megállapításához szükséges adatokat tartalmazza. Az adózó az önadózással megállapított adóról – ideértve a közvetett vámjogi képviselőnek az importáló helyett a saját nevében teljesített adóbevallását is, az eljárási illetékek kivételével –, továbbá költségvetési támogatásról adónként, költségvetési támogatásonként az erre a célra rendszeresített nyomtatványon adóbevallást tesz. A költségvetési támogatás előlegének, illetve gyakoribb igénybevételének igénylése nem minősül adóbevallásnak. Az adóhatóság olyan nyomtatványt is rendszeresíthet, amely alkalmas több jogcímen fennálló adókötelezettség, költségvetési támogatásigénylés bevallására, illetve az adókötelezettség bevallása mellett költségvetési támogatás igénylésére.
 
-(2) A munkáltató, a kifizető (ideértve az egyéni vállalkozónak nem minősülő magánszemély munkáltatót is), illetőleg az 52. § (4) bekezdésének l), p), r), s) és t) pontjaiban meghatározottak a rájuk vonatkozó bevallási gyakoriságtól függetlenül, havonként, a tárgyhót követő hó 12-éig elektronikus úton bevallást tesznek az adó- és/vagy társadalombiztosítási kötelezettséget eredményező, magánszemélyeknek teljesített kifizetésekkel, juttatásokkal összefüggő valamennyi adóról – kivéve a kamatjövedelem adóról –, járulékokról és/vagy az alábbi adatokról:
+(2) A munkáltató, a kifizető (ideértve az egyéni vállalkozónak nem minősülő magánszemély munkáltatót is), illetőleg az 52. § (4) bekezdésének l), p), r), s), t) és v) pontjaiban meghatározottak a rájuk vonatkozó bevallási gyakoriságtól függetlenül, havonként, a tárgyhót követő hónap 12. napjáig elektronikus úton bevallást tesznek az adó- és/vagy társadalombiztosítási kötelezettségeket eredményező, magánszemélyeknek teljesített kifizetésekkel, juttatásokkal összefüggő valamennyi adóról – kivéve a kamatjövedelem adóról –, járulékokról és/vagy az alábbi adatokról:
 
 - 1. a Tbj. 44. §-ának (1) bekezdése szerinti nyilvántartásra kötelezett adatairól (neve, székhelye, adóazonosító száma),
 - 2. a munkáltató, kifizető jogelődjének adóazonosító számáról,
@@ -921,7 +921,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 - 26. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választásáról,
 - 27. az a munkáltató, amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait),
 - 28. a felszolgálási díj után fizetett nyugdíjjárulék alapjáról és összegéről,
-- 29. a magánnyugdíjpénztári tagság tényéről,
+- 29. a szövetkezetekről szóló törvényben meghatározott tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapjáról és összegéről, valamint az egészségügyi szolgáltatási járulékról,
 - 30. a szociális hozzájárulási adó alapjáról és összegéről,
 - 31. szociális hozzájárulási adóból igénybe vett kedvezmény (a 23. pontban meghatározott kedvezmények kivételével) esetén a személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapjáról és összegéről, továbbá a külön jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett kedvezmény jogcíméről, alapjáról és összegéről,
 
@@ -1372,7 +1372,8 @@ veheti igénybe.
 - r) a Magyarországon bejegyzett egyház,
 - s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató adózó,
 - t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett,
-- u) a járási hivatal.
+- u) a járási hivatal,
+- v) a szociális szövetkezet.
 
 (5) Az adatszolgáltatásra kötelezett személy adatszolgáltatásának tartalmaznia kell a magánszemély adóazonosító számát.
 
@@ -1401,7 +1402,8 @@ szükséges,
   - ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
 - j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat a kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv részére a költségvetési támogatások folyósítása során a köztartozás visszatartása céljából,
 - k)
-- l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához.
+- l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához,
+- m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
 (8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adóhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 

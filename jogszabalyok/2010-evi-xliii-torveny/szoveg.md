@@ -27,7 +27,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - a) a Közbeszerzési Hatóság,
 - b) az Egyenlő Bánásmód Hatóság,
 - c) a Gazdasági Versenyhivatal,
-- d) Nemzeti Adatvédelmi és Információszabadság Hatóság.
+- d) Nemzeti Adatvédelmi és Információszabadság Hatóság,
+- e) a Nemzeti Választási Iroda.
 
 (4) Kormányhivatal
 
