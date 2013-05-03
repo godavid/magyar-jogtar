@@ -445,7 +445,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 54. § A képviselő-testület évente legalább egyszer előre meghirdetett közmeghallgatást tart, amelyen a helyi lakosság és a helyben érdekelt szervezetek képviselői a helyi közügyeket érintő kérdéseket és javaslatot tehetnek. Az elhangzott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni.
 
-55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását. Ebben az esetben a feloszlás szabályszerűségére vonatkozó kormányhivatali nyilatkozat beszerzését követően három hónapon belüli időpontra időközi választást kell kitűzni. Az időközi választás költségét az önkormányzat viseli.
+55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 
 (2) A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, valamint az általános választást megelőző év november 30. napját követően. A határidő megállapításkor a feloszlásra irányuló kezdeményezés időpontját kell figyelembe venni.
 

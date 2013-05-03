@@ -992,7 +992,8 @@ esetében.
 - n) magánszemély lakástulajdonát elidegenítő szerződés érvénytelenségének megállapítása iránt indított perben;
 - o) külön törvényben meghatározott referenciaadat-szolgáltató és központi hitelinformációs rendszert kezelő pénzügyi vállalkozás ellen, a központi hitelinformációs rendszerbe történő adatátadás és kezelés miatt, illetőleg a referenciaadatok helyesbítése vagy törlése iránt indított perben;
 - p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
-- r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irányuló nemperes eljárásban.
+- r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irányuló nemperes eljárásban;
+- s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 
