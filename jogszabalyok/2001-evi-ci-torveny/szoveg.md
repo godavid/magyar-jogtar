@@ -12,7 +12,7 @@ Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpá
 
 (2) A felnőttképzés e törvényben nem szabályozott kérdéseiben a szakképzésről szóló törvény (a továbbiakban: Sztv.), a nemzeti köznevelésről szóló törvény (a továbbiakban: Nktv.), a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.), valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény (a továbbiakban: Szht.) rendelkezéseit kell megfelelően alkalmazni.
 
-3. § (1) A törvény hatálya – a (4) bekezdésben foglalt kivételekkel – kiterjed
+3. § (1) A törvény hatálya kiterjed
 
 - a) a felnőttképzésben részt vevő, illetve a felnőttképzéshez kapcsolódó szolgáltatást igénybe vevő felnőttre,
 - b) a (2) bekezdésben meghatározott felnőttképzési tevékenységet folytató jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni cégekre, egyéni vállalkozókra.
@@ -26,10 +26,11 @@ Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpá
 
 (4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
-(5) E törvény hatálya nem terjed ki:
+(5) E törvény hatálya – a 21. § (2) bekezdésében, valamint a (7) és (8) bekezdésben és a 26. §-ban foglaltak kivételével – nem terjed ki:
 
-- a) az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdésének a)–c) pontja szerinti egészségügyi ágazati képzésekre, valamint
-- b) a közszolgálati tisztviselőkről szóló törvény alapján szervezett képzésre, továbbképzésre, átképzésre.
+- a) az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdésének a)–c) pontja szerinti egészségügyi ágazati képzésekre,
+- b) a közszolgálati tisztviselőkről szóló törvény alapján szervezett képzésre, továbbképzésre, átképzésre, valamint
+- c) az Sztv. alapján szervezett mesterképzésre és vizsgáztatásra.
 
 3/A. §
 
@@ -373,7 +374,7 @@ köteles eleget tenni.
 
 26. § (1) Az NFA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
 
-- a) az e törvény hatálya alá tartozó képzések támogatására,
+- a) az e törvény hatálya alá tartozó, valamint a 3. § (5) bekezdés szerinti képzések és vizsgáztatás támogatására,
 - b) a felnőttképzést folytató akkreditált intézmények technikai feltételei fejlesztésének támogatására,
 - c) a felnőttképzés érdekében végzett fejlesztő tevékenység támogatására,
 - d) az Európai Unió felnőttképzési programjaihoz való csatlakozás hazai pénzügyi forrásaihoz.

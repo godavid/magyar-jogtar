@@ -1,0 +1,2869 @@
+# 2013. évi XXXVI. törvény
+
+a választási eljárásról
+
+## ÁLTALÁNOS RÉSZ
+
+### I. Fejezet — ALAPVETŐ SZABÁLYOK
+
+#### 1. A törvény hatálya
+
+1. § E törvényt kell alkalmazni
+
+- a) az országgyűlési képviselők választásán,
+- b) a helyi önkormányzati képviselők és polgármesterek választásán,
+- c) a nemzetiségi önkormányzati képviselők választásán,
+- d) az Európai Parlament tagjainak választásán,
+- e) abban az eljárásban, amelyre e törvény alkalmazását törvény elrendeli [az a)–e) pontban meghatározottak a továbbiakban együtt: választás].
+
+#### 2. A választási eljárás alapelvei
+
+2. § (1) A választási eljárás szabályainak alkalmazása során érvényre kell juttatni a következő alapelveket:
+
+- a) a választás tisztaságának megóvása,
+- b) önkéntes részvétel a választási eljárásban,
+- c) esélyegyenlőség a jelöltek és a jelölő szervezetek között,
+- d) a fogyatékossággal élő választópolgárok joggyakorlásának elősegítése,
+- e) jóhiszemű és rendeltetésszerű joggyakorlás,
+- f) a választási eljárás nyilvánossága.
+
+(2) A választási szervek rendelkezésére álló adatok – törvényben megállapított kivétellel – nyilvánosak.
+
+(3) A választás kitűzése és a választás eredményének jogerőre emelkedése közötti időszakban az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseit a választási szervek azzal az eltéréssel alkalmazzák, hogy a közérdekű és a közérdekből nyilvános adatok megismerése iránti igénynek haladéktalanul, legfeljebb 5 napon belül tesznek eleget.
+
+#### 3. Értelmező rendelkezések
+
+3. § E törvény alkalmazásában
+
+- 1. fogyatékossággal élő választópolgár: az a választópolgár, aki érzékszervi – így különösen látás-, hallás-, mozgásszervi, értelmi képességeit jelentős mértékben vagy egyáltalán nem birtokolja, illetőleg a kommunikációjában számottevően korlátozott, és ez számára tartós hátrányt jelent a társadalmi életben való aktív részvétel során,
+- 2. hozzátartozó: a házastárs, a bejegyzett élettárs, az élettárs, az egyeneságbeli rokon és annak házastársa vagy bejegyzett élettársa, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és nevelőszülő, a testvér, a házastárs vagy bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa vagy bejegyzett élettársa,
+- 3. jelölő szervezet: az országgyűlési képviselők választásán a választás kitűzésekor a civil szervezetek bírósági nyilvántartásában jogerősen szereplő párt, továbbá az országos nemzetiségi önkormányzat, ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette; az Európai Parlament tagjainak választásán a választás kitűzésekor a civil szervezetek bírósági nyilvántartásában jogerősen szereplő párt, ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette; a helyi önkormányzati képviselők és polgármesterek választásán a választás kitűzésekor a civil szervezetek bírósági nyilvántartásában jogerősen szereplő párt, valamint egyesület, a szakszervezet kivételével, ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette; a nemzetiségi önkormányzati képviselők választásán a választás kitűzésekor a civil szervezetek bírósági nyilvántartásában jogerősen szereplő, az adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesület, ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette,
+- 4. képviselő: e törvény tárgyi hatálya alá tartozó választáson megválasztott képviselő, nemzetiségi szószóló, polgármester,
+- 5. magyarországi lakcím: a bejelentett magyarországi lakóhely címe; a sem magyarországi, sem külföldi bejelentett lakóhellyel nem rendelkező személy esetében a bejelentett magyarországi tartózkodási hely címe,
+- 6. magyar állampolgárságot igazoló okirat: az útlevél, a honosítási okirat és az állampolgársági bizonyítvány,
+- 7. meghatalmazott: közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező személy,
+- 8. miniszter: a választások és népszavazások szabályozásáért felelős miniszter,
+- 9. név: házassági családi és utónév, ennek hiányában, valamint az anyja neve esetén a születési családi és utónév,
+- 10. polgármester: a polgármester és a főpolgármester,
+- 11. település: a község, a város, járásszékhely város, megyei jogú város és a fővárosi kerület,
+- 12. települési szintű lakóhely: olyan lakóhely, amely esetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartás a bejelentett település neve mellett a „lakcím nélküli” bejegyzést tartalmazza,
+- 13. ügyfélkapu: a magyar kormányzat elektronikus ügyfélbeléptető és azonosító rendszere,
+- 14. választási szerv: a választási bizottság és a választási iroda.
+
+#### 4. A nemzetközi megfigyelő
+
+4. § (1) Más állam vagy nemzetközi szervezet Nemzeti Választási Iroda által – a választások megfigyelése céljából – nyilvántartásba vett megfigyelője
+
+- a) a választási eljárás teljes menetét figyelemmel kísérheti, a választási szervek munkájánál jelen lehet,
+- b) a választási bizottságok irataiba betekinthet, azokból – a személyes adatokat nem tartalmazó – másolatot kérhet,
+- c) kérdést intézhet a választási szervek tagjaihoz, és felhívhatja azok figyelmét az általa tapasztalt rendellenességekre,
+- d) a választási eljárást és a választási szervek tevékenységét nem zavarhatja és nem befolyásolhatja,
+- e) tevékenysége végzése alatt köteles a Nemzeti Választási Iroda által rendelkezésére bocsátott regisztrációs kártyát jól látható helyen és módon viselni,
+- f) köteles pártatlanul végezni tevékenységét.
+
+(2) A Nemzeti Választási Iroda a nemzetközi megfigyelőkről nyilvántartást vezet. A nyilvántartás tartalmazza a nemzetközi megfigyelő nevét, születési helyét és idejét, valamint a megbízó állam vagy nemzetközi szervezet nevét. A nemzetközi megfigyelők nevét, valamint a megbízó állam vagy nemzetközi szervezet nevét a Nemzeti Választási Iroda a választások hivatalos honlapján közzéteszi.
+
+(3) A nemzetközi megfigyelő nyilvántartásba vételéről, valamint nyilvántartásból való törléséről a Nemzeti Választási Iroda elnöke dönt, a döntés ellen nincs helye jogorvoslatnak.
+
+(4) A nemzetközi megfigyelő személyes adatait a nyilvántartásból a szavazást követő kilencvenedik nap utáni munkanapon törölni kell.
+
+#### 5. A külképviseleti megfigyelő
+
+5. § (1) A külképviseletekre a jelöltet állító jelölő szervezetek, valamint a független jelöltek külképviseletenként és jelölő szervezetenként (független jelöltenként) legfeljebb két megfigyelőt bízhatnak meg. A közös jelöltet állító jelölő szervezetek együttesen jogosultak legfeljebb két megfigyelő megbízására.
+
+(2) Külképviseleti megfigyelő csak a központi névjegyzékben szereplő választópolgár lehet.
+
+(3) A külképviseleti megfigyelőt a Nemzeti Választási Bizottságnál – nevének és személyi azonosítójának, ennek hiányában magyar állampolgárságát igazoló okirata típusának és számának közlésével – a magyarországi szavazást megelőző tizedik napig kell bejelenteni. A Nemzeti Választási Bizottság a külképviseleti megfigyelőt nyilvántartásba veszi. A Nemzeti Választási Iroda a külképviseleti megfigyelő nevét és személyi azonosítóját, ennek hiányában magyar állampolgárságát igazoló okirata típusát és számát megküldi a külképviseleti választási iroda vezetőjének.
+
+(4) A Nemzeti Választási Bizottság által nyilvántartásba vett külképviseleti megfigyelő jelen lehet a külképviseleti választási iroda munkájánál. A külképviseleti megfigyelő
+
+- a) figyelemmel kísérheti a külképviseleti választási iroda munkáját,
+- b) a szavazást, illetőleg a külképviseleti választási iroda munkáját tevőlegesen vagy ráutaló magatartással nem befolyásolhatja, és nem zavarhatja,
+- c) a szavazás befejezéséről kiállított jegyzőkönyvben rögzítheti észrevételeit,
+- d) kifogást nyújthat be,
+- e) a szavazás lezárását követően a lezárt urnát aláírhatja,
+- f) a szavazóhelyiségben köteles regisztrációs kártyát viselni.
+
+(5) A külképviseleti megfigyelő megbízásával és tevékenységével kapcsolatos költségek az (1) bekezdés szerinti megbízót terhelik.
+
+#### 6. A választás kitűzése
+
+6. § (1) A választást úgy kell kitűzni, hogy a magyarországi szavazás napja a kitűzés napját követő hetvenedik és kilencvenedik nap közé essen.
+
+(2) A szavazást vasárnap kell megtartani.
+
+(3) A szavazás napja nem eshet a munka törvénykönyve szerinti munkaszüneti napra, továbbá húsvét- vagy pünkösdvasárnapra.
+
+7. § Ha a választási bizottság vagy a bíróság megismételteti a szavazást, az erről szóló határozatában az ismételt szavazást a megismételtetett szavazás napját követő harminc napon belüli időpontra tűzi ki.
+
+8. § (1) Az időközi választást
+
+- a) a mandátum megüresedésétől,
+- b) ha a választás eredménytelen vagy elegendő jelölt hiányában nem lehetett megtartani, a szavazás kitűzött napjától
+
+számított százhúsz napon belülre kell kitűzni.
+
+(2) Nem lehet kitűzni
+
+- a) az országgyűlési képviselők időközi választását az országgyűlési képviselők általános választása évének január 1. napja és az országgyűlési képviselők általános választásának napja,
+- b) a helyi önkormányzati képviselők és polgármesterek időközi választását a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1. napja és a helyi önkormányzati képviselők és polgármesterek általános választásának napja,
+- c) a nemzetiségi önkormányzati képviselők időközi választását a nemzetiségi önkormányzati képviselők általános választása évének január 1. napja és a nemzetiségi önkormányzati képviselők általános választásának napja
+
+közötti napra.
+
+9. § Az országgyűlési képviselők általános választásának napjára vagy a helyi önkormányzati képviselők általános választásának napjára nem tűzhető ki országos népszavazás.
+
+#### 7. A határidők számítása
+
+10. § (1) Az e törvényben meghatározott határidők jogvesztők.
+
+(2) A határidőket naptári napokban kell számítani.
+
+(3) A határidő annak utolsó napján 16 órakor jár le. A választási bizottság döntésére rendelkezésre álló határidő 24 órakor jár le.
+
+(4) A 16 órát követően teljesített eljárási cselekményt – a választási szerv által végzett eljárási cselekmény kivételével – a következő napon teljesítettnek kell tekinteni.
+
+11. § (1) Az e törvényben foglalt határidők naptár szerinti dátumait általános választásra a miniszter rendeletben, időközi választásra a választást kitűző választási bizottság határozattal állapítja meg.
+
+(2) Ha az e törvényben foglalt határidő munkaszüneti napon járna le, a miniszter a rendeletében a határidő lejártának naptár szerinti dátumát az azt megelőző vagy követő munkanapra állapíthatja meg.
+
+#### 8. A választási eljárás költségei
+
+12. § A választások előkészítésével és lebonyolításával kapcsolatos állami feladatok végrehajtásának költségeit, valamint a választási szervek tevékenységével összefüggő egyéb költségeket – az Országgyűlés által megállapított mértékben – a központi költségvetésből kell biztosítani. E pénzeszközök felhasználásáról az Állami Számvevőszék tájékoztatja az Országgyűlést.
+
+#### 9. Beszámoló
+
+13. § (1) A Nemzeti Választási Iroda elnöke az általános választásokat követően a választással kapcsolatos állami feladatok megszervezéséről és lebonyolításáról beszámol az Országgyűlésnek.
+
+(2) A Nemzeti Választási Bizottság elnöke az általános választásokat követően a Nemzeti Választási Bizottság választáson végzett tevékenységéről beszámol az Országgyűlésnek.
+
+### II. Fejezet — A VÁLASZTÁSI BIZOTTSÁGOK
+
+#### 10. A választási bizottság
+
+14. § (1) A választási bizottságok a választópolgárok független, kizárólag a törvénynek alárendelt szervei, amelyeknek elsődleges feladata a választási eredmény megállapítása, a választások tisztaságának, törvényességének biztosítása, a pártatlanság érvényesítése és szükség esetén a választás törvényes rendjének helyreállítása.
+
+(2) Választási bizottságok:
+
+- a) Nemzeti Választási Bizottság,
+- b) területi választási bizottság,
+- c) országgyűlési egyéni választókerületi választási bizottság,
+- d) helyi választási bizottság,
+- e) szavazatszámláló bizottság.
+
+(3) Az egy szavazókörrel rendelkező településen a szavazatszámláló bizottság feladat- és hatáskörét a helyi választási bizottság gyakorolja.
+
+(4) A Nemzeti Választási Bizottság legalább hét, a szavazatszámláló bizottság, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottság legalább öt, a területi választási bizottság, az országgyűlési egyéni választókerületi választási bizottság és a több szavazókörrel rendelkező településen a helyi választási bizottság legalább három tagból áll.
+
+15. § (1) A szavazatszámláló bizottság, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottság tagjai a szavazást követő napon mentesülnek a jogszabályban előírt munkavégzési kötelezettség alól, és erre az időre átlagbér illeti meg őket, amelyet a munkáltató fizet.
+
+(2) A munkáltató a választási szerv (1) bekezdés szerinti tagját megillető bér és járulékai megtérítését a szavazást követő öt napon belül igényelheti a helyi választási irodától.
+
+#### 11. A választási bizottság tagjai
+
+16. § A választási bizottság választott és megbízott tagokból áll.
+
+17. § (1) A 26. §-ban, a 28. §-ban, a 35. § (3) bekezdésében és a 171. § (1) bekezdésében foglaltak kivételével
+
+- a) a szavazatszámláló bizottságnak és a helyi választási bizottságnak csak a településen,
+- b) az országgyűlési egyéni választókerületi választási bizottságnak csak az országgyűlési egyéni választókerületben,
+- c) a területi választási bizottságnak csak a megyében, illetve fővárosban,
+- d) a Nemzeti Választási Bizottságnak csak magyarországi
+
+lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár lehet tagja.
+
+(2) A választási bizottság választott tagja az lehet, aki az országgyűlési képviselők választásán jelöltként indulhat.
+
+(3) A Nemzeti Választási Bizottság választott tagja az lehet, aki a (2) bekezdésben foglalt feltételnek megfelel és jogi egyetemi diplomával rendelkezik.
+
+(4) A választási bizottság megbízott tagja az lehet, aki az adott választáson jelöltként indulhat.
+
+18. § (1) A választási bizottságnak nem lehet tagja
+
+- a) a köztársasági elnök,
+- b) a háznagy,
+- c) képviselő,
+- d) alpolgármester,
+- e) jegyző,
+- f) másik választási bizottság tagja, választási iroda tagja,
+- g) a Magyar Honvédséggel szolgálati jogviszonyban álló személy, valamint
+- h) jelölt.
+
+(2) Nem lehet a választási bizottság választott tagja az (1) bekezdésben foglaltakon túl
+
+- a) párt tagja,
+- b) a választókerületben jelöltet állító jelölő szervezet tagja,
+- c) a választókerületben induló jelölt hozzátartozója,
+- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, közalkalmazotti, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy, állami vezető.
+
+19. § (1) A választott és megbízott tagok jogai és kötelezettségei – a 41. § (3) bekezdésében és a 45. § (3) bekezdésében foglalt kivétellel – azonosak.
+
+(2) A választási bizottság választott tagjait tiszteletdíj illeti meg.
+
+(3) A Nemzeti Választási Bizottság választott tagjai tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap tízszerese. A Nemzeti Választási Bizottság elnöke tiszteletdíjának havi összege a közszolgálati tisztviselői illetményalap tizenötszöröse.
+
+#### 12. A választási bizottság tagjainak megválasztása
+
+20. § (1) A Nemzeti Választási Bizottság hét tagját és három póttagját a köztársasági elnök javaslatára az Országgyűlés az előző Nemzeti Választási Bizottság választott tagjai megbízatásának lejártát megelőző kilencven napon belül választja kilenc évre.
+
+(2) A Nemzeti Választási Bizottság tagjának és póttagjának megválasztásához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.
+
+(3) Ha az első szavazás eredménytelen, második szavazást kell tartani. Ha a második szavazás is eredménytelen, a Nemzeti Választási Bizottság tagjainak és póttagjainak megválasztásához a jelen lévő országgyűlési képviselők több mint felének szavazata szükséges. A második és további szavazásra a köztársasági elnök új jelölteket javasolhat.
+
+21. § A területi választási bizottság három tagját és legalább két póttagot a fővárosi, megyei közgyűlés a helyi önkormányzati képviselők és polgármesterek általános választásának kitűzését követően, legkésőbb a szavazás napja előtti negyvenkettedik napon választja meg; személyükre a területi választási iroda vezetője tesz indítványt.
+
+22. § Az országgyűlési egyéni választókerületi választási bizottság három tagját és legalább két póttagot az országgyűlési egyéni választókerület székhelye szerinti település képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti negyvenkettedik napon választja meg; személyükre az országgyűlési egyéni választókerületi választási iroda vezetője tesz indítványt.
+
+23. § A helyi választási bizottság három – az egy szavazókörrel rendelkező településen öt – tagját és legalább két póttagot a települési önkormányzat képviselő-testülete a helyi önkormányzati képviselők és polgármesterek általános választásának kitűzését követően, legkésőbb a szavazás napja előtti negyvenkettedik napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt.
+
+24. § (1) A szavazatszámláló bizottság három tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti huszadik napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt. A szavazatszámláló bizottság tagjait és a póttagokat települési szinten kell megválasztani.
+
+(2) Az egy szavazókörrel rendelkező településen nem kell szavazatszámláló bizottságot választani.
+
+(3) A 78. § szerint kijelölt szavazókör szavazatszámláló bizottságát a helyi választási iroda vezetője a póttagok közül a szükséges számban további tagokkal egészíti ki, ha – az átjelentkező választópolgárokra tekintettel – a szavazókör névjegyzékében szereplő választópolgárok száma meghaladja a kilencszázat.
+
+25. § (1) A választási bizottság tagjaira és póttagjaira tett indítványhoz módosító javaslat nem nyújtható be.
+
+(2) A választási bizottság tagjainak és póttagjainak megválasztásáról egy szavazással dönt az Országgyűlés, a közgyűlés, illetve a képviselő-testület.
+
+26. § Ha a választási bizottság tagjainak megválasztására határidőben nem kerül sor,
+
+- a) a szavazatszámláló bizottság tagjait a helyi választási iroda vezetőjének indítványára az országgyűlési egyéni választókerületi választási bizottság,
+- b) a helyi választási bizottság tagjait a helyi választási iroda vezetőjének indítványára a területi választási bizottság,
+- c) az országgyűlési egyéni választókerületi választási bizottság tagjait az országgyűlési egyéni választókerületi választási iroda vezetőjének, a területi választási bizottság tagjait a területi választási iroda vezetőjének indítványára a Nemzeti Választási Bizottság
+
+– jegyzőkönyvbe foglalt döntéssel – haladéktalanul megbízza.
+
+#### 13. A választási bizottság tagjainak megbízása
+
+27. § (1) A Nemzeti Választási Bizottság további egy-egy tagját azok a pártok bízzák meg, amelyekhez tartozó képviselők az Országgyűlésben képviselőcsoportot alkotnak. E bekezdés alapján nincs lehetőség bizottsági tag megbízására az országgyűlési képviselők általános választása kitűzésének napja és az Országgyűlés alakuló ülésének napja között.
+
+(2) Az országgyűlési képviselők általános választásának kitűzését követően a Nemzeti Választási Bizottság további egy-egy tagját az országos listát állító jelölő szervezetek bízzák meg.
+
+(3) Az Európai Parlament tagjai választásának kitűzését követően a Nemzeti Választási Bizottság további egy-egy tagját a listát állító jelölő szervezetek bízzák meg.
+
+28. § (1) A területi választási bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság további egy-egy tagját a választókerületben jelöltet, illetve listát állító jelölő szervezetek, valamint a választókerületben induló független jelöltek bízzák meg.
+
+(2) A szavazatszámláló bizottságba, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottságba a választókerületben jelöltet, illetve listát állító jelölő szervezetek, valamint a független jelöltek két-két tagot bízhatnak meg.
+
+29. § (1) A közös jelöltet, illetve listát állító jelölő szervezetek együttesen jogosultak a választási bizottság 28. § szerinti számú tagjának megbízására.
+
+(2) Egy jelölő szervezet, illetve párt, valamint egy független jelölt egy választási bizottságba csak a 28. § szerinti számú tagot bízhat meg. E bekezdés alkalmazásában a jelölő szervezet által megbízott tagnak kell tekinteni azt a megbízott tagot is, akit a jelölő szervezet mint közös jelöltet vagy listát állító jelölő szervezet más jelölő szervezettel együttesen bíz meg.
+
+30. § (1) A választási bizottság megbízott tagját a választási bizottság elnökénél, a szavazatszámláló bizottság megbízott tagját a helyi választási iroda vezetőjénél kell bejelenteni.
+
+(2) A választási bizottság megbízott tagját – a 27. § (1) bekezdése kivételével – legkésőbb a szavazás napját megelőző tizenhatodik napon lehet bejelenteni.
+
+(3) A bejelentés tartalmazza a megbízó nevét, a megbízott tag nevét, magyarországi lakcímét és személyi azonosítóját.
+
+31. § A megbízott tag választójogát a választási iroda ellenőrzi.
+
+32. § (1) Ha a megbízás nem felel meg a törvényben foglalt feltételeknek, a választási bizottság elnöke a választási bizottság elé terjeszti az ügyet.
+
+(2) A választási bizottság a bejelentéstől számított három napon belül határozattal dönt a megbízás elfogadásáról vagy visszautasításáról.
+
+(3) A szavazatszámláló bizottság megbízott tagja esetében a helyi választási iroda vezetője határozattal visszautasítja a megbízást, ha az nem felel meg a törvényben foglalt feltételeknek.
+
+#### 14. A választási bizottsági tag megbízatásának megszűnése
+
+33. § (1) A Nemzeti Választási Bizottság
+
+- a) választott tagjának megbízatása a Nemzeti Választási Bizottság alakuló ülésétől számított kilenc év lejártáig,
+- b) 27. § (1) bekezdése alapján megbízott tagjának megbízatása az országgyűlési képviselők következő általános választása kitűzésének napjáig, de legfeljebb a képviselőcsoport megszűnéséig,
+- c) 27. § (2) bekezdése alapján megbízott tagjának megbízatása az Országgyűlés alakuló ülésének napjáig,
+- d) 27. § (3) bekezdése alapján megbízott tagjának megbízatása a választás végleges eredményének jogerőssé válásáig
+
+tart.
+
+(2) Ha az Országgyűlés a Nemzeti Választási Bizottság tagjait nem választja meg az (1) bekezdés a) pontjában megjelölt határidőig, az előző Nemzeti Választási Bizottság választott tagjainak megbízatása az új Nemzeti Választási Bizottság alakuló ülésének időpontjáig meghosszabbodik.
+
+(3) A területi választási bizottság, az országgyűlési egyéni választókerületi választási bizottság, a helyi választási bizottság és a szavazatszámláló bizottság
+
+- a) választott tagjának megbízatása a következő általános választásra megválasztott választási bizottság alakuló üléséig,
+- b) megbízott tagjának megbízatása a választás végleges eredményének jogerőssé válásáig
+
+tart.
+
+34. § (1) A választási bizottság tagjának megbízatása a 33. §-ban foglaltakon túl megszűnik:
+
+- a) ha a megbízatás 17. §-ban foglalt feltételei megszűntek,
+- b) a 18. § szerinti összeférhetetlenség esetén,
+- c) lemondással,
+- d) ha a megbízott tag megbízatását a megbízó visszavonja,
+- e) ha a megbízott tagot megbízó független jelölt vagy a jelölő szervezet által állított, a megbízásra jogosító jelölt vagy lista kiesik,
+- f) a tag halálával.
+
+(2) A választási bizottsági tag megbízatásának az (1) bekezdés szerinti megszűnését a választási bizottság határozattal állapítja meg.
+
+(3) A megbízatás (1) bekezdés a), b) és e) pontja szerinti megszűnésének megállapítását bárki indítványozhatja.
+
+(4) Az indítványról a választási bizottság három napon belül dönt. A döntéshozatalban az érintett tag nem vehet részt, az érintett tagot a határozatképesség szempontjából nem kell figyelembe venni.
+
+#### 15. A választási bizottság megüresedett tagságának betöltése
+
+35. § (1) Ha a választási bizottság választott tagjának megbízatása a 34. § (1) bekezdés a)–c) és f) pontja szerinti okból megszűnt, helyébe a póttagok megválasztására irányuló indítványban a soron következő – a szavazatszámláló bizottság esetében a helyi választási iroda vezetője által kijelölt – póttag lép.
+
+(2) Póttag hiányában a települési önkormányzat képviselő-testülete vagy a fővárosi, megyei közgyűlés, a Nemzeti Választási Bizottság esetében az Országgyűlés új tagot választ.
+
+(3) Ha nem került sor a választási bizottság új tagjának megválasztására, a 26. § szerint kell eljárni. Ha a 26. § a) pontja szerinti esetben az országgyűlési egyéni választókerületi választási bizottság nem működik, helyette a helyi választási bizottság, ha a 26. § b) pontja szerinti esetben a területi választási bizottság nem működik, helyette a Nemzeti Választási Bizottság jár el.
+
+36. § Ha a választási bizottság megbízott tagjának megbízatása a 34. § (1) bekezdés a)–d) és f) pontjában meghatározott okból megszűnt, helyébe a megbízó új tagot bízhat meg.
+
+#### 16. Eskü- vagy fogadalomtétel
+
+37. § (1) A választási bizottság tagja és póttagja a megválasztását vagy megbízását követő öt napon belül, a szavazatszámláló bizottság tagja és póttagja legkésőbb a szavazást megelőző második napon esküt vagy fogadalmat tesz.
+
+(2) A Nemzeti Választási Bizottság választott tagja és póttagja az Országgyűlés előtt, a Nemzeti Választási Bizottság megbízott tagja az Országgyűlés elnöke előtt, a területi választási bizottság tagja és póttagja a főpolgármester, megyei közgyűlés elnöke előtt, a szavazatszámláló bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság tagja és póttagja a polgármester előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel tesz esküt vagy fogadalmat.
+
+(3) Ha az eskü vagy fogadalom letételére az (1) bekezdésben foglalt határidőig nem kerül sor, a polgármester helyett a főpolgármester, illetve a megyei közgyűlés elnöke előtt, a főpolgármester, illetve a megyei közgyűlés elnöke helyett a Nemzeti Választási Bizottság elnöke előtt kell esküt vagy fogadalmat tenni.
+
+(4) A választási bizottság tagja az eskü- vagy fogadalomtételt követően gyakorolhatja jogait.
+
+#### 17. A választási bizottság alakuló ülése
+
+38. § (1) A választási bizottság – tagjai megválasztását és eskü- vagy fogadalomtételét követően – alakuló ülést tart.
+
+(2) A Nemzeti Választási Bizottság az alakuló ülését az előző Nemzeti Választási Bizottság megbízatásának lejártát követő munkanapon tartja meg. A 33. § (2) bekezdése szerinti esetben a Nemzeti Választási Bizottság alakuló ülését a megválasztása napján kell megtartani.
+
+#### 18. A választási bizottság elnöke
+
+39. § (1) A választási bizottság az alakuló ülésén a választott tagok közül megválasztja elnökét és annak helyettesét. Az elnök és az elnökhelyettes személyére a bizottság tagjai tehetnek javaslatot.
+
+(2) A választási bizottságot az elnök képviseli. Ha a választási bizottságnak nincs elnöke vagy az elnök a tevékenységében akadályozott, az elnök hatáskörét a helyettese gyakorolja.
+
+#### 19. A választási bizottság ülése
+
+40. § (1) A választási bizottság ülése nyilvános.
+
+(2) A választási bizottság elnökének a rend fenntartására tett intézkedése mindenkire kötelező.
+
+(3) A választási bizottság üléséről – a szavazatszámláló bizottság kivételével – jegyzőkönyv készül. A jegyzőkönyv tartalmazza az ülés időpontjának és helyszínének megjelölését, a jelen lévő tagok nevét, a választási bizottság döntését, valamint a kisebbségi véleményt.
+
+41. § (1) A választási bizottság határozatképes, ha az esküt vagy fogadalmat tett tagok több mint fele jelen van.
+
+(2) A szavazatszámláló bizottság, valamint az egy szavazókörrel rendelkező településen a szavazatszámláló bizottság hatáskörét gyakorló helyi választási bizottság határozatképes, ha legalább három tag jelen van.
+
+(3) A Nemzeti Választási Bizottságnak az országos nemzetiségi önkormányzat által megbízott tagját csak a nemzetiségeket érintő ügyekben kell figyelembe venni a határozatképesség szempontjából.
+
+#### 20. A Nemzeti Választási Bizottság ügyrendje
+
+42. § A Nemzeti Választási Bizottság az eljárása részletes szabályait – az alakuló ülését követő harminc napon belül – ügyrendben állapítja meg, amelyet a választások hivatalos honlapján közzé kell tenni.
+
+#### 21. A tényállás megállapítása
+
+43. § (1) A választási bizottság a rendelkezésére álló bizonyítékok alapján tisztázza a döntéshozatalhoz szükséges tényállást.
+
+(2) A választási bizottság eljárásában minden olyan bizonyíték felhasználható, amely alkalmas a tényállás tisztázásának megkönnyítésére. Bizonyíték különösen: a nyilatkozat, az irat, a tanúvallomás és a tárgyi bizonyíték.
+
+(3) A választási bizottság a kérelmező részére – kérésére – biztosíthatja a szóbeli nyilatkozattétel lehetőségét. Ez esetben az ellenérdekű fél számára is – ha jelen van – lehetővé kell tenni a szóbeli nyilatkozattételt.
+
+(4) A választási bizottság vagy a választási iroda által hivatalosan ismert és a köztudomású tényeket nem kell bizonyítani.
+
+(5) A választási bizottság a bizonyítékokat egyenként és összességükben értékeli, és az ezen alapuló meggyőződése szerint állapítja meg a tényállást.
+
+#### 22. A választási bizottság döntése
+
+44. § (1) A választási bizottság az ügy érdemében határozatot, az eljárás során felmerült minden egyéb kérdésben jegyzőkönyvbe foglalt döntést hoz.
+
+(2) A választási bizottság a tudomására jutott törvénysértés esetén – jegyzőkönyvbe foglalt döntéssel – kezdeményezi a hatáskörrel rendelkező szerv eljárását.
+
+45. § (1) A választási bizottság döntéséhez a jelen lévő tagok több mint felének azonos tartalmú szavazata szükséges.
+
+(2) Szavazni igennel vagy nemmel lehet. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) A Nemzeti Választási Bizottságnak az országos nemzetiségi önkormányzat által megbízott tagja csak a nemzetiségeket érintő ügyekben rendelkezik szavazati joggal, egyéb ügyekben tanácskozási joggal vehet részt a Nemzeti Választási Bizottság ülésén.
+
+#### 23. A határozat
+
+46. § A választási bizottság határozata tartalmazza
+
+- a) a választási bizottság megnevezését, a határozat számát,
+- b) a kérelmező nevét és lakcímét vagy székhelyét,
+- c) a rendelkező részben
+  - ca) a választási bizottság döntését,
+  - cb) a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslat benyújtásának feltételeiről való tájékoztatást,
+- d) az indokolásban
+  - da) a megállapított tényállást és az annak alapjául elfogadott bizonyítékokat,
+  - db) a felajánlott, de mellőzött bizonyítást és a mellőzés indokait,
+  - dc) a mérlegelési jogkörben hozott határozat esetén a mérlegelésben szerepet játszó szempontokat és tényeket,
+  - dd) azokat a jogszabályhelyeket, amelyek alapján a választási bizottság a határozatot hozta,
+- e) a döntéshozatal idejét,
+- f) a választási bizottság elnökének aláírását és a választási bizottság bélyegzőlenyomatát.
+
+47. § (1) A választási bizottság elsőfokú határozata jogerőssé válik, ha ellene nem fellebbeztek, és a fellebbezési határidő letelt.
+
+(2) A választási bizottság másodfokú, valamint a Nemzeti Választási Bizottság elsőfokú határozata jogerőssé válik, ha ellene nem nyújtottak be bírósági felülvizsgálat iránti kérelmet, és a bírósági felülvizsgálat iránti kérelem benyújtására rendelkezésre álló határidő letelt.
+
+#### 24. A határozat közlése
+
+48. § (1) A határozatot – ha jelen van, vagy ha telefaxszáma vagy elektronikus levélcíme rendelkezésre áll – a meghozatala napján rövid úton kell közölni a kérelmezővel, valamint azzal, akire a határozat jogot vagy kötelezettséget keletkeztet vagy származtat. A határozat rövid úton való közlése
+
+- a) a jelenlévők részére a határozat átadásával,
+- b) telefaxon,
+- c) elektronikus dokumentum formájában (email) vagy
+- d) a kézbesítési megbízott részére az a)–c) pontban meghatározott módon
+
+történhet. A határozat rövid úton való közlésének módját (módjait) a kérelmező jelöli meg.
+
+(2) A határozat (1) bekezdés szerinti közlésének tényét és módját az iratra fel kell jegyezni, az azt igazoló dokumentumot az ügyiratban el kell helyezni.
+
+(3) A határozatot – ha a közlésre az (1) bekezdés a) pontja szerint nem került sor – a meghozatalát követő munkanapon postai szolgáltató útján meg kell küldeni vagy más módon kézbesíteni kell az érintettnek. Belföldre a határozatot hivatalos iratként kell kézbesíteni. A határozatot – a polgár eltérő rendelkezése hiányában – az érintett központi névjegyzékben szereplő értesítési címére, ennek hiányában lakcímére kell megküldeni.
+
+49. § (1) A határozatot kérésére, ingyenesen át kell adni a választási bizottság megbízott tagja részére.
+
+(2) A választási bizottság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza.
+
+#### 25. A határozat kijavítása
+
+50. § (1) Ha a határozatban név-, szám- vagy más elírás van, a választási bizottság, illetve felhatalmazása alapján a választási bizottság elnöke a hibát kijavítja, ha az nem hat ki az ügy érdemére.
+
+(2) A kijavítás ellen jogorvoslatnak nincs helye.
+
+(3) A kijavítást közölni kell azzal, akivel a kijavított határozatot közölték, továbbá nyilvánosságra kell hozni.
+
+#### 26. Az iránymutatás
+
+51. § (1) A Nemzeti Választási Bizottság a választással kapcsolatos jogszabályok egységes értelmezése érdekében a választási szervek számára iránymutatást adhat ki.
+
+(2) Az iránymutatás kötelező jogi hatással nem rendelkezik, kizárólag iránymutató jellegű, ellene jogorvoslatnak helye nincs.
+
+(3) Az iránymutatást a választások hivatalos honlapján közzé kell tenni.
+
+### III. Fejezet — A VÁLASZTÁSI IRODÁK
+
+#### 27. A választási iroda
+
+52. § (1) Választási irodák:
+
+- a) Nemzeti Választási Iroda,
+- b) területi választási iroda,
+- c) országgyűlési egyéni választókerületi választási iroda,
+- d) helyi választási iroda,
+- e) külképviseleti választási iroda.
+
+(2) A szavazatszámláló bizottság mellett a helyi választási iroda egy tagja jegyzőkönyvvezetőként működik. A 78. § szerint kijelölt szavazókör szavazatszámláló bizottsága mellett közreműködő jegyzőkönyvvezetők számát a helyi választási iroda vezetője állapítja meg.
+
+#### 28. A Nemzeti Választási Iroda
+
+53. § (1) A Nemzeti Választási Iroda autonóm államigazgatási szerv.
+
+(2) A Nemzeti Választási Iroda független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Nemzeti Választási Iroda számára feladatot csak törvény vagy törvény felhatalmazása alapján kiadott jogszabály írhat elő.
+
+54. § (1) A Nemzeti Választási Iroda fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez.
+
+(2) A Nemzeti Választási Iroda tárgyévi költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.
+
+(3) Az előző évi bevételeiből származó maradványt a Nemzeti Választási Iroda a következő években a feladatai teljesítésére felhasználhatja.
+
+#### 29. A Nemzeti Választási Iroda elnöke
+
+55. § (1) A Nemzeti Választási Irodát elnök vezeti. A Nemzeti Választási Iroda elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki a felsőfokú végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül.
+
+(2) A Nemzeti Választási Iroda elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben köztársasági elnök, a Kormány tagja, államtitkár, képviselő, alpolgármester, főpolgármester-helyettes, illetve párt tisztségviselője vagy alkalmazottja volt.
+
+(3) A köztársasági elnök a Nemzeti Választási Iroda elnökét kilenc évre nevezi ki.
+
+(4) A Nemzeti Választási Iroda elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt vagy fogadalmat tesz.
+
+56. § (1) A Nemzeti Választási Iroda elnöke nem lehet tagja pártnak, nem folytathat politikai tevékenységet, megbízatása összeegyeztethetetlen minden más állami vagy önkormányzati tisztséggel és megbízatással.
+
+(2) A Nemzeti Választási Iroda elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a szerzői jogi védelem alá eső, továbbá a lektori és a szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+
+(3) A Nemzeti Választási Iroda elnöke nem lehet gazdasági társaság vezető tisztségviselője, felügyelőbizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett tagja.
+
+(4) A Nemzeti Választási Iroda elnöke nem lehet
+
+- a) választási bizottság tagja,
+- b) jelölt,
+- c) az országgyűlési képviselők választásán vagy az Európai Parlament tagjainak választásán induló jelölt hozzátartozója,
+- d) jelölő szervezet tagja.
+
+57. § (1) A Nemzeti Választási Iroda elnöke a kinevezését követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+
+(2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Nemzeti Választási Iroda elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
+
+(3) A vagyonnyilatkozat nyilvános, oldalhű másolatát a választások hivatalos honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Nemzeti Választási Iroda elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+
+(4) A Nemzeti Választási Iroda elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Nemzeti Választási Iroda elnöke köteles a vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban a miniszterelnök rendelkezésére bocsátani. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
+
+(6) A Nemzeti Választási Iroda elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+
+58. § (1) A Nemzeti Választási Iroda elnöke államtitkári illetményre és juttatásokra jogosult.
+
+(2) A Nemzeti Választási Iroda elnökét naptári évenként húsz munkanap szabadság illeti meg.
+
+(3) A Nemzeti Választási Iroda elnöke kiadja a Nemzeti Választási Iroda Szervezeti és Működési Szabályzatát.
+
+59. § (1) A Nemzeti Választási Iroda elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(2) Az elnök megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+60. § (1) A Nemzeti Választási Iroda elnökének megbízatása megszűnik
+
+- a) a megbízatási idejének lejártával,
+- b) lemondásával,
+- c) halálával,
+- d) a kinevezéséhez szükséges feltételek hiányának vagy a vagyonnyilatkozat-tételi előírások megsértésének megállapításával,
+- e) összeférhetetlensége megállapításával.
+
+(2) A Nemzeti Választási Iroda elnöke a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A Nemzeti Választási Iroda elnökének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlését követő napon szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Ha a Nemzeti Választási Iroda elnöke az 56. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök indítványára dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A Nemzeti Választási Iroda elnökének kinevezéséhez szükséges feltételek hiányát a miniszterelnök indítványára a köztársasági elnök állapítja meg. A köztársasági elnök – a miniszterelnök indítványára – megállapítja a vagyonnyilatkozat-tételi szabályok megsértését, ha a Nemzeti Választási Iroda elnöke vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(5) A miniszterelnök a (3) és (4) bekezdés alapján megtett indítványát a köztársasági elnök és a Nemzeti Választási Iroda elnöke részére egyidejűleg megküldi.
+
+(6) A Nemzeti Választási Iroda elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Munkaügyi és Közigazgatási Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+
+(7) A megbízatás az (1) bekezdés a) pontja szerinti megszűnése esetén a Nemzeti Választási Iroda elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+(8) A köztársasági elnöknek a (3) és (4) bekezdéssel és az 55. §-sal hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
+#### 30. A Nemzeti Választási Iroda személyi állománya
+
+61. § (1) A Nemzeti Választási Iroda közszolgálati tisztviselői és munkavállalói felett a munkáltatói jogokat a Nemzeti Választási Iroda elnöke gyakorolja.
+
+(2) A Nemzeti Választási Iroda közszolgálati tisztviselői és munkavállalói összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
+
+(3) Ha a Nemzeti Választási Iroda közszolgálati tisztviselője vagy munkavállalója az 56. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy vele szemben összeférhetetlenségi ok merül fel, a Nemzeti Választási Iroda elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A Nemzeti Választási Iroda elnöke más központi államigazgatási szerv közszolgálati tisztviselőjét és munkavállalóját – a szerv vezetőjének engedélyével – a Nemzeti Választási Iroda feladatainak elvégzésébe bevonhatja, részére utasítást adhat.
+
+#### 31. A Nemzeti Választási Iroda elnökének helyettesei
+
+62. § (1) A Nemzeti Választási Iroda elnöke jogosult legfeljebb három elnökhelyettes határozatlan időre történő kinevezésére. A Nemzeti Választási Iroda elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
+
+(2) Az elnökhelyettes a Szervezeti és Működési Szabályzatban meghatározott feltételek esetén helyettesíti az elnököt. Az elnökhelyettes egyéb feladatait a Szervezeti és Működési Szabályzat határozza meg.
+
+(3) Az elnökhelyettesnek meg kell felelnie a Nemzeti Választási Iroda elnökének kinevezéséhez szükséges, az 55. § (1) és (2) bekezdésében előírt feltételeknek.
+
+(4) Az elnökhelyettes összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
+
+(5) Az elnökhelyettes az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, gyakorolja az elnök hatásköreit és ellátja feladatait.
+
+63. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra az 57. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Nemzeti Választási Iroda elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
+
+64. § (1) Az elnökhelyettes helyettes államtitkári illetményre és juttatásokra jogosult.
+
+(2) Az elnökhelyettest naptári évenként húsz munkanap szabadság illeti meg.
+
+(3) Az elnökhelyettes a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(4) Az elnökhelyettes megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+65. § (1) A Nemzeti Választási Iroda elnökhelyettesének megbízatása megszűnik
+
+- a) lemondásával,
+- b) halálával,
+- c) a kinevezéséhez szükséges feltételek hiányának megállapításával,
+- d) összeférhetetlensége megállapításával,
+- e) felmentésével,
+- f) a tisztségétől való megfosztással.
+
+(2) A Nemzeti Választási Iroda elnökhelyettese a Nemzeti Választási Iroda elnökéhez intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A Nemzeti Választási Iroda elnökhelyettesének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Ha a Nemzeti Választási Iroda elnökhelyettese az 56. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a Nemzeti Választási Iroda elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A Nemzeti Választási Iroda elnöke felmenti a Nemzeti Választási Iroda elnökhelyettesét, ha a Nemzeti Választási Iroda elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
+
+(5) A Nemzeti Választási Iroda elnöke a Nemzeti Választási Iroda elnökhelyettesét felmentheti.
+
+(6) A Nemzeti Választási Iroda elnöke megfosztja tisztségétől a Nemzeti Választási Iroda elnökhelyettesét, ha a Nemzeti Választási Iroda elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(7) A Nemzeti Választási Iroda elnökhelyettesének kinevezéséhez szükséges feltételek hiányát a Nemzeti Választási Iroda elnöke állapítja meg.
+
+#### 32. Az egyéb választási irodákra vonatkozó rendelkezések
+
+66. § (1) A területi választási iroda vezetője a megyei önkormányzat jegyzője, illetve a fővárosi önkormányzat főjegyzője.
+
+(2) Az országgyűlési egyéni választókerületi választási iroda vezetője az országgyűlési egyéni választókerület székhely településének jegyzője.
+
+(3) A helyi választási iroda vezetője a jegyző.
+
+(4) Ha az (1)–(3) bekezdés szerinti tisztség betöltetlen, a területi választási iroda vezetőjét a Nemzeti Választási Iroda elnöke, az országgyűlési egyéni választókerületi választási iroda és a helyi választási iroda vezetőjét a területi választási iroda vezetője nevezi ki.
+
+(5) A választási iroda vezetője a választási iroda tagjai közül kinevezi helyettesét.
+
+67. § (1) A választási iroda további tagjait a választási iroda vezetője a választási iroda feladatainak végrehajtásához szükséges számban, határozatlan időre bízza meg. A választási iroda a tagjairól nyilvántartást vezet.
+
+(2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
+
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő és közalkalmazott bízható meg.
+
+(2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
+
+69. § (1) A választási irodának nem lehet tagja
+
+- a) képviselő,
+- b) alpolgármester,
+- c) választási bizottság tagja,
+- d) jelölt,
+- e) a választókerületben jelöltet állító jelölő szervezet tagja, valamint
+- f) a választókerületben induló jelölt hozzátartozója.
+
+(2) Ha a választási iroda vezetőjével szemben kizárási ok merül fel, azt haladéktalanul köteles bejelenteni a Nemzeti Választási Iroda elnökének, aki őt felmenti, és kinevezi az iroda új vezetőjét.
+
+(3) A választási iroda tagja a vele szemben felmerült kizárási okot a választási iroda vezetőjével köteles haladéktalanul közölni, aki őt felmenti.
+
+70. § A választási iroda vezetője a felettes választási iroda vezetője előtt, a választási iroda többi tagja a megbízó előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt vagy fogadalmat tesz.
+
+71. § (1) A választási irodák szakmai tevékenységét a Nemzeti Választási Iroda elnöke irányítja.
+
+(2) A Nemzeti Választási Iroda elnöke valamennyi választási iroda vezetője részére, a területi választási iroda vezetője az országgyűlési egyéni választókerületi választási iroda vezetője és a helyi választási iroda vezetője részére, az országgyűlési egyéni választókerületi választási iroda vezetője a helyi választási iroda vezetője részére az e törvényben meghatározott feladatainak ellátásával kapcsolatban közvetlen utasítást adhat.
+
+(3) A felettes választási iroda vezetőjén kívül más személy vagy testület a választások előkészítésével és lebonyolításával kapcsolatos feladatok végrehajtására a választási iroda vezetőjének nem adhat utasítást. A választási iroda tagja számára a választások előkészítésével és lebonyolításával kapcsolatos feladatok végrehajtására csak a választási iroda vezetője adhat utasítást.
+
+(4) A választási bizottság elnöke a bizottság mellett működő választási iroda vezetőjének a bizottság titkársági feladatainak ellátása körében utasítást adhat.
+
+72. § A Nemzeti Választási Iroda elnöke a választások lebonyolításában részt vevő egyéb szervek vezetői részére a választási feladatok végrehajtása körében utasítást adhat.
+
+73. § (1) A választási iroda tagjait a miniszter által megállapított mértékű díjazás illeti meg.
+
+(2) A Nemzeti Választási Iroda elnöke a feladatai nem vagy nem megfelelő módon történő végrehajtása esetén a választási iroda vezetőjét megillető díj mértékét csökkentheti, végső esetben annak kifizetésétől eltekinthet.
+
+74. § A választási iroda vezetőjének határozatára a 46. §, a 47. §, a 48. § (3) bekezdése és az 50. § rendelkezéseit kell alkalmazni.
+
+#### 33. A választási irodák feladatai
+
+75. § A választási irodák
+
+- a) ellátják a választás előkészítésével, lebonyolításával kapcsolatos szervezési feladatokat,
+- b) gondoskodnak a választópolgárok, jelöltek és jelölő szervezetek tájékoztatásáról, választási információs szolgálatot működtetnek,
+- c) ellátják a választási bizottságok titkársági feladatait, döntésre előkészítik a választási bizottságok hatáskörébe tartozó ügyeket,
+- d) biztosítják a választási bizottságok működésének és a szavazás lebonyolításának tárgyi és technikai feltételeit,
+- e) megszervezik a választási szervek tagjainak oktatását,
+- f) gondoskodnak a választási iratok kezeléséről, biztonságos őrzéséről, illetőleg megsemmisítéséről,
+- g) ellátják az igazgatási és informatikai próbákkal kapcsolatos feladatokat,
+- h) az adatvédelem és az informatikai biztonság követelményeinek biztosításával, feladatkörükben eljárva működtetik a választás előkészítéséhez és lebonyolításához szükséges választási információs rendszereket,
+- i) a technikai háttér biztosításával segítséget nyújtanak a szavazatok összesítéséhez, a választás eredményének megállapításához,
+- j) ellátják a jogszabályokban meghatározott egyéb feladatokat.
+
+#### 34. A Nemzeti Választási Iroda további feladatai
+
+76. § A Nemzeti Választási Iroda ellátja a 75. §-ban foglalt feladatokat, továbbá
+
+- a) gondoskodik a központi névjegyzék vezetéséről,
+- b) gondoskodik a választás lebonyolításához szükséges közbeszerzési eljárások lefolytatásáról, a termékek, szolgáltatások beszerzéséről,
+- c) gondoskodik az informatikai rendszer kialakításáról és biztonságos működtetéséről,
+- d) gondoskodik a választás központi logisztikai feladatainak ellátásáról,
+- e) gondoskodik a választás pénzügyi lebonyolítása központi feladatainak ellátásáról,
+- f) gondoskodik a választáshoz kapcsolódó adatok biztonságos tárolásáról,
+- g) működteti a választások hivatalos honlapját,
+- h) megszervezi az igazgatási és informatikai próbákat,
+- i) gondoskodik a választás lebonyolításához szükséges központi nyomtatványok előállításáról és szállításáról,
+- j) kutatásokat végez a választások története, a választási rendszerek nemzetközi összehasonlítása és a választási eljárás módszerei és eszközei fejlesztési lehetőségeinek témakörében,
+- k) együttműködik más államok választási szerveivel.
+
+### IV. Fejezet — A SZAVAZÓKÖRÖK
+
+#### 35. A szavazókörök kialakítása
+
+77. § (1) A szavazókörök számát, sorszámát és területi beosztását, valamint a szavazóhelyiségek címét a helyi választási iroda vezetője határozattal állapítja meg úgy, hogy egy szavazókörre mintegy hatszáz, legfeljebb ezerötszáz, a központi névjegyzékben szereplő választópolgár jusson, de minden településen legyen legalább egy szavazókör.
+
+(2) A szavazókör területe nem lépheti át sem a település, sem az országgyűlési, sem a helyi önkormányzati választások választókerületi határait.
+
+78. § A két vagy több szavazókörrel rendelkező településen a helyi választási iroda vezetője kijelöli azt a szavazókört, ahol a települési szintű lakóhellyel rendelkező választópolgárok szavazhatnak.
+
+#### 36. A szavazókörök felülvizsgálata
+
+79. § (1) A szavazókörök kialakítását érintő változásokat a helyi választási iroda vezetője folyamatosan figyelemmel kíséri, és szükség esetén módosítja a szavazóköri beosztást.
+
+(2) A választás kitűzésétől a szavazás napjáig nem lehet szavazókör határát és sorszámát, továbbá település határát és elnevezését, utcanevet, házszámot és – ha az érintett ingatlan lakcímnyilvántartás szerinti címe annak helyrajzi száma – helyrajzi számot megváltoztatni.
+
+#### 37. A határozat közzététele
+
+80. § A helyi választási iroda vezetője a szavazókörök kialakításáról és felülvizsgálatáról szóló határozatát a helyben szokásos módon tizenöt napra közzéteszi, megjelölve a központi névjegyzékben szereplő választópolgárok szavazókörönkénti számát, továbbá a 78. § alapján kijelölt szavazókört is.
+
+#### 38. A szavazókörök és választókerületek nyilvántartása
+
+81. § (1) A szavazókörök és választókerületek nyilvántartása az 1. melléklet szerinti adatokat tartalmazza.
+
+(2) A szavazókörök és választókerületek nyilvántartását a Nemzeti Választási Iroda a választások hivatalos honlapján folyamatosan közzéteszi. A helyi választási iroda vezetője a nyilvántartásban átvezeti a módosításokat.
+
+### V. Fejezet — A KÖZPONTI NÉVJEGYZÉK
+
+#### 39. A központi névjegyzék
+
+82. § (1) A központi névjegyzék a Nemzeti Választási Iroda által vezetett elektronikus nyilvántartás.
+
+(2) A központi névjegyzék tartalmazza
+
+- a) az e törvény hatálya alá tartozó bármely választáson választójogosult, magyarországi lakcímmel rendelkező választópolgár adatait,
+- b) választójoggal a nagykorúság hiánya miatt nem rendelkező, de a tizenhetedik életévét betöltött, magyarországi lakcímmel rendelkező polgárnak az adatait,
+- c) annak az e törvény hatálya alá tartozó bármely választáson választójogosult, magyarországi lakcímmel nem rendelkező választópolgárnak az adatait, akit kérelmére a központi névjegyzékbe felvettek,
+- d) annak a választójoggal a nagykorúság hiánya miatt nem rendelkező, de a tizenhetedik életévét betöltött magyarországi lakcímmel nem rendelkező polgárnak az adatait, akit kérelmére a központi névjegyzékbe felvettek [a)–d) e fejezetben a továbbiakban együtt: választópolgár].
+
+83. § (1) A központi névjegyzék a választópolgár 2. melléklet szerinti adatait tartalmazza.
+
+(2) A központi névjegyzék 2. melléklet szerinti adatait – a (3) bekezdés kivételével – a polgárok személyi és lakcím adatait tartalmazó nyilvántartásból, a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban nem szereplő választópolgár esetében a magyar állampolgárságát igazoló okirat nyilvántartásából, továbbá a választójoggal nem rendelkező nagykorú polgárok nyilvántartásából, a szavazókörök és választókerületek nyilvántartásából és a szavazóköri névjegyzékből történő adatátvétellel kell létrehozni.
+
+(3) A központi névjegyzék 2. melléklet ib), j), k), l) és – a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban nem szereplő választópolgár esetében – m) pontja szerinti adatait a választási iroda a választópolgár kérelme alapján rögzíti a névjegyzékben.
+
+#### 40. A központi névjegyzékkel kapcsolatos kérelem
+
+84. § (1) A névjegyzékbe vételét, névjegyzékbe vételének meghosszabbítását, illetve a névjegyzékben szereplő adatai módosítását az a magyarországi lakcímmel nem rendelkező választópolgár kérheti folyamatosan, az adott választást megelőző tizenötödik napig, aki az e törvény hatálya alá tartozó bármely választáson választójogosult.
+
+(2) A még nem nagykorú polgár a tizenhetedik életévének betöltését követően kérheti a névjegyzékbe vételét. A kérelem benyújtásakor a polgár önállóan tehet jognyilatkozatot.
+
+85. § (1) A magyarországi lakcímmel rendelkező választópolgár kérheti
+
+- a) nemzetiséghez tartozásának,
+- b) szavazási segítség iránti igényének,
+- c) személyes adatai kiadása megtiltásának
+
+bejegyzését a központi névjegyzékbe, illetve a bejegyzés törlését.
+
+(2) A magyarországi lakcímmel nem rendelkező választópolgár a 88. § b) pontja szerinti segítség iránti igényének központi névjegyzékbe való bejegyzését, illetve a bejegyzés törlését kérheti.
+
+#### 41. A nemzetiségi választópolgárként történő nyilvántartással kapcsolatos kérelem
+
+86. § A nemzetiségi választópolgárként történő nyilvántartás iránti kérelemnek tartalmaznia kell
+
+- a) a nemzetiség megjelölését,
+- b) a választópolgár nyilatkozatát, amelyben megvallja az adott nemzetiséghez tartozását,
+- c) annak megjelölését, hogy nemzetiségi választópolgárként történő névjegyzékbe vételét az országgyűlési képviselők választására is kiterjedő hatállyal kéri-e.
+
+87. § A nemzetiségi választópolgárként történő névjegyzékbevétel iránti kérelmet el kell utasítani, ha a választópolgár már nemzetiségi választópolgárként szerepel a központi névjegyzékben.
+
+#### 42. Fogyatékossággal élő választópolgárok segítése
+
+88. § A fogyatékossággal élő választópolgár a következő segítséget igényelheti választójogának gyakorlása érdekében:
+
+- a) Braille-írással készült értesítő megküldése,
+- b) könnyített formában megírt tájékoztató anyag megküldése,
+- c) Braille-írással ellátott szavazósablon alkalmazása a szavazóhelyiségben és a mozgóurnás szavazás során,
+- d) akadálymentes szavazóhelyiség alkalmazása.
+
+#### 43. Az adatkiadás megtiltása
+
+89. § (1) A választópolgár jogosult megtiltani, hogy a választási szervek a róla nyilvántartott adatokat a 153. § szerint kiadják.
+
+(2) A kérelemben a választópolgár a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti, az adatainak szolgáltatását korlátozó vagy tiltó nyilatkozatot is tehet.
+
+#### 44. A választópolgárok tájékoztatása
+
+90. § A Nemzeti Választási Iroda a miniszter rendeletében meghatározott időben és módon tájékoztatja a választópolgárokat a névjegyzékkel kapcsolatos tudnivalókról.
+
+#### 45. A központi névjegyzékkel kapcsolatos kérelem benyújtása
+
+91. § (1) A magyarországi lakcímmel rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
+
+- a) személyesen a lakóhelye vagy tartózkodási helye szerinti helyi választási irodához vagy
+- b) levélben, az ügyfélkapun vagy a választások hivatalos honlapján keresztül a lakcíme szerinti helyi választási irodához
+
+nyújthatja be.
+
+(2) A magyarországi lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
+
+- a) levélben,
+- b) az ügyfélkapun keresztül,
+- c) a választások hivatalos honlapján keresztül
+
+nyújthatja be a Nemzeti Választási Irodához.
+
+(3) A Magyarországon élő, lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet – a (2) bekezdésben foglaltakon túl – bármely helyi választási irodához személyesen vagy levélben is benyújthatja.
+
+92. § (1) A központi névjegyzékkel kapcsolatos kérelemnek tartalmaznia kell
+
+- a) a választópolgár
+  - aa) nevét,
+  - ab) születési nevét,
+  - ac) születési helyét,
+  - ad) anyja nevét,
+  - ae) személyi azonosítóját,
+- b) a magyarországi lakcímmel nem rendelkező választópolgár értesítési címét, ha azt a polgárok személyi és lakcím adatait tartalmazó nyilvántartás nem tartalmazza.
+
+(2) Ha a választópolgár nem rendelkezik személyi azonosítóval, a központi névjegyzékkel kapcsolatos kérelmének az (1) bekezdésben foglalt adatokon túl tartalmaznia kell a választópolgár születési idejét, valamint magyar állampolgárságát igazoló okiratának típusát és számát is.
+
+#### 46. A központi névjegyzékkel kapcsolatos kérelem elbírálása
+
+93. § (1) A választási iroda a névjegyzékkel kapcsolatos kérelemnek csak abban az esetben adhat helyt, ha a választópolgárnak a 92. § (1) bekezdés a) pontja szerint a kérelemben szereplő adatai megegyeznek a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, személyi azonosítóval nem rendelkező kérelmező esetén a magyar állampolgárságát igazoló okirata nyilvántartásának adataival.
+
+(2) Azt, hogy a kérelmező adatai megegyeznek-e a magyar állampolgárságát igazoló okirat nyilvántartásának adataival, a Nemzeti Választási Iroda a központi útiokmány-nyilvántartásból közvetlen adathozzáféréssel átvett adatok alapján, illetve az állampolgársági ügyekben eljáró szerv megkeresése útján ellenőrzi.
+
+(3) Az állampolgársági ügyekben eljáró szerv a megkeresésnek három napon belül tesz eleget.
+
+94. § (1) A központi névjegyzékkel kapcsolatos kérelmet a beérkezésétől számított öt napon belül kell elbírálni.
+
+(2) A beérkezése napján, vagy ha nem munkanapon érkezik be, akkor a következő munkanapon, de legkésőbb a szavazást megelőző második napon kell elbírálni
+
+- a) a 84. §, a 97. § (1) bekezdés a) pontja és a 334. § (1) bekezdése szerinti kérelmet, ha a választás kitűzése és a szavazást megelőző tizenhatodik nap között érkezik be,
+- b) a 85. § szerinti kérelmet, ha a választás kitűzése és a szavazást megelőző második nap között érkezik be,
+- c) a 334. § (2) bekezdése szerinti kérelmet, ha az Európai Parlament tagjai választásának kitűzése és a szavazást megelőző második nap között érkezik be.
+
+(3) A 93. § (3) bekezdése szerinti esetben a kérelem elbírálására megállapított határidőt a magyar állampolgárságot igazoló okirat nyilvántartását vezető szerv megkeresésre adott válaszának beérkezésétől kell számítani.
+
+95. § (1) A választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja és a 334. § szerinti kérelem elutasításáról, valamint a 97. § (1) bekezdés b) pontja és (2) bekezdés b) pontja szerinti törlésről határozattal dönt. A határozatra a 74. § rendelkezéseit alkalmazni kell.
+
+(2) Ha a választási iroda a 84. §, a 85. §, a 97. § (1) bekezdés a) pontja vagy a 334. § szerinti kérelemnek helyt ad, döntéséről a 48. § (1) vagy (3) bekezdése szerint értesíti a kérelmezőt.
+
+#### 47. A központi névjegyzék vezetése
+
+96. § (1) A központi névjegyzék adatait folyamatosan frissíteni kell a következő nyilvántartások adataiban bekövetkezett változásokkal:
+
+- a) a polgárok személyi és lakcím adatait tartalmazó nyilvántartás,
+- b) a választójoggal nem rendelkező polgárok nyilvántartása,
+- c) a szavazókörök és választókerületek nyilvántartása.
+
+(2) A Nemzeti Választási Iroda közvetlen hozzáférést biztosít a választási iroda számára a választópolgárok központi névjegyzéki adataihoz.
+
+(3) A választópolgár a központi névjegyzékben nyilvántartott adatairól a magyarországi lakcíme szerinti helyi választási irodában, a magyarországi lakcímmel nem rendelkező választópolgár a Nemzeti Választási Irodában másolatot kérhet.
+
+(4) A Nemzeti Választási Bizottság tagja a magyarországi lakcímmel nem rendelkező választópolgárok központi névjegyzékben nyilvántartott adataiba betekinthet, de azokról feljegyzést, másolatot nem készíthet.
+
+#### 48. Törlés a központi névjegyzékből
+
+97. § (1) A Nemzeti Választási Iroda törli a központi névjegyzékből a kérelmére névjegyzékbe vett, külföldön élő, magyarországi lakcímmel nem rendelkező polgárt
+
+- a) ha törlését kéri,
+- b) a névjegyzékbe vétele napjától számított tíz év elteltével; a határidő megszakad, ha a választópolgár a névjegyzékben szereplő adatait módosítja, névjegyzékbe vételének meghosszabbítását kéri vagy szavazási iratot ad le.
+
+(2) A Nemzeti Választási Iroda törli a központi névjegyzékből azt, aki
+
+- a) elhunyt,
+- b) elvesztette választójogát.
+
+#### 49. A választójoggal nem rendelkező polgárok nyilvántartása
+
+98. § (1) A Nemzeti Választási Iroda vezeti a választójoggal nem rendelkező polgárok nyilvántartását. A nyilvántartásba fel kell venni azt a nagykorú, valamint tizenhetedik életévét betöltött kiskorú polgárt, aki
+
+- a) a belátási képességének korlátozottsága miatt a választójogból kizárt,
+- b) a büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti,
+- c) a közügyektől eltiltott,
+- d) a szabadságvesztés-büntetését tölti.
+
+(2) A Nemzeti Választási Iroda elektronikus úton, egyedi informatikai alkalmazás igénybevételével, közvetlen adathozzáféréssel átveszi a polgárok törvényben meghatározott adatait
+
+- a) a gondnokoltak nyilvántartásából,
+- b) a bűntettesek nyilvántartásából.
+
+(3) A Nemzeti Választási Iroda a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyazonosító és lakcímadatok tekintetében a polgárok személyi és lakcím adatait tartalmazó nyilvántartásból való rendszeres adatátvétellel biztosítja.
+
+(4) Ha a polgár választójogosultságát visszanyerte, adatait a választójoggal nem rendelkező polgárok nyilvántartásából törölni kell. A választójoggal nem rendelkező polgárok nyilvántartásából törölt polgár adatait a törléstől számított hat hónapig meg kell őrizni.
+
+99. § (1) A választójoggal nem rendelkező polgárok nyilvántartása csak a választójog megállapításának céljára használható fel, abból adat más célra nem szolgáltatható.
+
+(2) A választójoggal nem rendelkező polgárok nyilvántartásának adatait az (1) bekezdésben meghatározott célból a választási iroda, a választási bizottság és a bíróság jogosult igényelni.
+
+100. § (1) A választójoggal nem rendelkező polgárok nyilvántartása nem nyilvános, abba csak az érintett személy a saját adatai tekintetében, a bíróság, a választási bizottság és a választási iroda tagjai tekinthetnek be. A betekintésről nyilvántartást kell vezetni.
+
+(2) Bármely nagykorú polgár kérheti a Nemzeti Választási Irodától annak igazolását, hogy a választójoggal nem rendelkező polgárok nyilvántartása alapján vele szemben nem áll fenn a választójogból való kizáró ok.
+
+### VI. Fejezet — A SZAVAZÓKÖRI NÉVJEGYZÉK
+
+#### 50. A szavazóköri névjegyzék
+
+101. § A Nemzeti Választási Iroda a választás kitűzését követő naptól a szavazást követő tizenötödik napig a választáson szavazati joggal rendelkező választópolgárok központi névjegyzékben nyilvántartott adatait – a szavazókörök és választókerületek nyilvántartásával összekapcsolva – a 3. melléklet szerinti adattartalommal szavazóköri bontásban teszi hozzáférhetővé a helyi választási iroda számára (a továbbiakban: szavazóköri névjegyzék).
+
+102. § (1) Egy választópolgár csak egy szavazóköri névjegyzékben szerepelhet.
+
+(2) Az a polgár, aki legkésőbb a szavazás napján betölti tizennyolcadik életévét, a választás kitűzésének napját követő naptól szerepel a szavazóköri névjegyzéken.
+
+(3) Azt a választópolgárt, aki a 88. § d) pontja szerint kérte, hogy akadálymentes szavazóhelyiségben szavazhasson, és akinek a lakcíme szerint kijelölt szavazóhelyiség nem akadálymentes, a helyi választási iroda a lakcíme szerinti szavazóhelyiséggel azonos településen és választókerületben lévő, akadálymentes szavazóhelyiséggel rendelkező szavazókör névjegyzékébe teszi át.
+
+(4) A szavazatszámláló bizottság tagját és jegyzőkönyvvezetőjét kérelmére a helyi választási iroda annak a szavazókörnek a névjegyzékébe teszi át, amely szavazatszámláló bizottságának munkájában a szavazás napján részt vesz, feltéve, hogy az ugyanazon választókerületbe tartozik, mint a választópolgár lakcíme szerinti szavazókör.
+
+#### 51. A mozgóurnát igénylő választópolgárok jegyzéke
+
+103. § (1) A mozgóurna iránti kérelmet a szavazóköri névjegyzékben szereplő, mozgásában egészségi állapota vagy fogyatékossága, illetve fogvatartása miatt gátolt választópolgár nyújthatja be.
+
+(2) A mozgóurna iránti kérelemnek
+
+- a) a választás kitűzését követően, de legkésőbb a szavazást megelőző második napon kell megérkeznie a helyi választási irodához vagy
+- b) a szavazás napján, legkésőbb 15 óráig kell megérkeznie a szavazatszámláló bizottsághoz.
+
+(3) A mozgóurna iránti kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell
+
+- a) a választópolgár szavazókör területén lévő tartózkodási helyét, ahova a mozgóurna kivitelét kéri, ha az a magyarországi lakcímétől eltér, valamint
+- b) a mozgóurna-igénylés okát.
+
+104. § (1) A helyi választási iroda a mozgóurnát igénylő választópolgárt felveszi a mozgóurnát igénylő választópolgárok jegyzékébe.
+
+(2) A szavazatszámláló bizottság a mozgóurnát igénylő választópolgárt felveszi a mozgóurnát igénylő választópolgárok jegyzékébe, és törli a kinyomtatott szavazóköri névjegyzékből.
+
+105. § (1) A mozgóurnát igénylő választópolgárok jegyzéke a választópolgárok szavazóköri névjegyzékben szereplő adatait tartalmazza, továbbá a 103. § (3) bekezdés a) pontja szerinti adatot.
+
+(2) A mozgóurnát igénylő választópolgárok jegyzékéből törölni kell azt, akit a szavazóköri névjegyzékből törölnek.
+
+#### 52. A szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének kinyomtatása
+
+106. § (1) A szavazást megelőző második napon 16 óráig bekövetkező változások átvezetését követően a Nemzeti Választási Iroda a szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok jegyzékét lezárja.
+
+(2) A helyi választási iroda – vagy megbízása alapján a területi választási iroda – a lezárt szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok jegyzékét legkésőbb a szavazást megelőző napon kinyomtatja. A helyi választási iroda vezetője a kinyomtatott szavazóköri névjegyzéket és mozgóurnát igénylő választópolgárok jegyzékét hitelesíti.
+
+107. § (1) A kinyomtatott szavazóköri névjegyzék nem tartalmazza a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárok adatait.
+
+(2) Ha egy napon több választást is tartanak a szavazókörben, a kinyomtatott szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzéke tartalmazza valamennyi választás adatait, valamint azt, hogy a választópolgár melyik választáson jogosult szavazni.
+
+(3) A kinyomtatott szavazóköri névjegyzéken és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékén – a 104. § (2) bekezdése szerinti változás kivételével – nem vezethető át változás.
+
+#### 53. A megismételtetett szavazás névjegyzéke
+
+108. § Ha a választási bizottság vagy a bíróság megismételteti a szavazást a szavazókörben, az ismételt szavazáson
+
+- a) azok a választópolgárok szerepelhetnek a szavazóköri névjegyzékben, akik
+  - aa) a megismételtetett szavazáson a szavazóköri névjegyzékben szerepeltek,
+  - ab) a megismételtetett szavazás napját követően, de legkésőbb az ismételt szavazás napján válnak nagykorúvá,
+- b) nem szerepelnek a szavazóköri névjegyzékben azok, akik a megismételtetett szavazás napját követően létesítenek lakcímet a szavazókörben.
+
+#### 54. A szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének megsemmisítése
+
+109. § (1) A kinyomtatott szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét a szavazást követő kilencvenedik nap utáni első munkanapon meg kell semmisíteni.
+
+(2) A szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének adatait a szavazást követő kilencvenedik nap utáni első munkanapon törölni kell.
+
+#### 55. A szavazóköri névjegyzékkel kapcsolatos kérelem benyújtása
+
+110. § (1) A 103. §, a 250. §, a 259. § és a 265. § szerinti kérelemre a 91. § (1) bekezdés és a 92. § (1) bekezdés a) pontjának rendelkezéseit kell alkalmazni.
+
+(2) A 103. § (2) bekezdés a) pontja szerinti kérelmet a választópolgár meghatalmazott
+
+útján is benyújthatja ahhoz a helyi választási irodához, amelynek szavazóköri névjegyzékében szerepel.
+
+(3) A 103. § (2) bekezdés b) pontja szerinti kérelmet a szavazatszámláló bizottsághoz kell eljuttatni.
+
+111. § A levélben benyújtott kérelemnek a kérelem benyújtására meghatározott határidőben kell beérkeznie a választási irodába.
+
+#### 56. A szavazóköri névjegyzékkel kapcsolatos kérelem elbírálása
+
+112. § (1) A kérelmet – a 93. § (1) bekezdése rendelkezéseinek alkalmazásával – az a választási iroda bírálja el, ahova a kérelmet benyújtották.
+
+(2) A 103. § (2) bekezdés a) pontja szerinti kérelmet az a helyi választási iroda bírálja el, amelynek szavazóköri névjegyzékén a választópolgár a kérelem benyújtásakor szerepel.
+
+(3) A 103. § (2) bekezdés b) pontja szerinti kérelmet a szavazatszámláló bizottság bírálja el.
+
+113. § (1) A 103. § (2) bekezdés a) pontja, a 250. §, a 259. § és a 265. § szerinti kérelmet beérkezése napján, vagy ha nem munkanapon érkezik be, akkor a következő munkanapon kell elbírálni.
+
+(2) A 103. § (2) bekezdés a) pontja szerinti kérelmet legkésőbb a szavazást megelőző második napon, a 103. § (2) bekezdés b) pontja szerinti kérelmet beérkezésekor haladéktalanul el kell bírálni.
+
+114. § A választási iroda a 103. § (2) bekezdés a) pontja, a 250. §, a 259. § és a 265. § szerinti kérelem elutasításáról határozattal dönt.
+
+#### 57. A választópolgár tájékoztatása
+
+115. § (1) Azt a választópolgárt, aki legkésőbb a szavazás napját megelőző ötvennyolcadik napon a szavazóköri névjegyzékben szerepel, a helyi választási iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
+
+(2) Az értesítőt a választópolgár értesítési címére, ennek hiányában lakcímére a szavazást megelőző negyvennyolcadik napig kell megküldeni.
+
+(3) Az értesítő tartalmazza
+
+- a) a választás megnevezését,
+- b) a szavazás napját,
+- c) a választókerületet,
+- d) a szavazókört,
+- e) a szavazóhelyiség címét,
+- f) a szavazóhelyiség akadálymentességére vonatkozó információt,
+- g) a választópolgár nevét,
+- h) a választópolgár magyarországi lakcímét,
+- i) a választással kapcsolatos tájékoztatást.
+
+(4) A választópolgár – ha nem kapja meg az értesítőt, az megsemmisül vagy elvész – a helyi választási irodától új értesítőt igényelhet.
+
+116. § (1) A helyi választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki a szavazás napját megelőző ötvennyolcadik napot követően kerül a település szavazóköri névjegyzékébe.
+
+(2) Ha a választási iroda a 250. § vagy a 259. § szerinti kérelemnek helyt ad, értesítő átadásával vagy megküldésével tájékoztatja a választópolgárt.
+
+117. § A választópolgár részére – a 88. § a) pontja szerinti kérelmére – Braille-írással készült értesítőt küld a Nemzeti Választási Iroda.
+
+118. § (1) A választás kitűzésétől a névjegyzék lezárásáig a település szavazóköri névjegyzékének adatait – a 3. melléklet fb)–fe) és fg) pontja szerinti adatok kivételével – a helyi választási irodában bárki megtekintheti.
+
+(2) A szavazóköri névjegyzék adatairól – a szavazókörbe kerülő kinyomtatott példányon kívül – másolat nem készíthető.
+
+### VII. Fejezet — A JELÖLTÁLLÍTÁS
+
+#### 58. A jelölő szervezet bejelentése
+
+119. § (1) Azt a szervezetet, amely jelöltet vagy listát kíván állítani, a választás kitűzését követően jelölő szervezetként be kell jelenteni a Nemzeti Választási Bizottságnál.
+
+(2) A jelölő szervezetet a képviseletére jogosult személy jelentheti be.
+
+#### 59. Az ajánlóív
+
+120. § (1) Jelöltet ajánlani ajánlóíven lehet.
+
+(2) Az ajánlóívet a független jelöltként indulni szándékozó választópolgár, illetve a jelölő szervezet a jelölt nyilvántartásba vételére illetékes választási bizottság mellett működő választási irodától igényelheti a választás kitűzését követően.
+
+(3) Az ajánlóív iránti igénynek tartalmaznia kell a jelöltként indulni szándékozó választópolgár nevét, személyi azonosítóját, ennek hiányában magyar állampolgárságát igazoló okiratának típusát és számát, lakcímét, valamint nyilatkozatát arról, hogy
+
+- a) a jelölést elfogadja,
+- b) nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetve megválasztása esetén arról lemond.
+
+121. § (1) Az ajánlóíven a választási iroda feltünteti a jelöltként indulni szándékozó választópolgár nevét, a jelölő szervezet nevét vagy a független jelölés tényét, a választókerület megjelölését. Közös jelölt esetén az ajánlóíven a közös jelöltet állító valamennyi jelölő szervezet nevét fel kell tüntetni.
+
+(2) A választási iroda az igénylését követően haladéktalanul, de legkorábban a szavazást megelőző negyvennyolcadik napon átadja az igénylő részére az általa igényelt mennyiségű ajánlóívet. A választási iroda valamennyi ajánlóívet sorszámmal, valamint hitelesítő bélyegzőlenyomattal lát el.
+
+#### 60. Az ajánlás
+
+122. § (1) Az a választópolgár ajánlhat jelöltet, aki a választáson a választókerületben választójoggal rendelkezik.
+
+(2) Az ajánlóívre rá kell vezetni az ajánlást adó választópolgár nevét, személyi azonosítóját, valamint az anyja nevét. Az ajánlóívet az ajánló választópolgár saját kezűleg aláírja.
+
+(3) Egy választópolgár több jelöltet is ajánlhat.
+
+(4) Egy választópolgár egy jelöltet csak egy ajánlással támogathat, a további ajánlásai érvénytelenek.
+
+(5) Az ajánlás nem vonható vissza.
+
+(6) Az ajánlóíven az ajánlást gyűjtő személy feltünteti nevét és aláírását.
+
+123. § (1) Ajánlást a polgárok zaklatása nélkül – a (2) bekezdésben foglalt kivétellel – a jelölő szervezet képviselője vagy a jelöltként indulni szándékozó választópolgár, illetve annak képviselője bárhol gyűjthet.
+
+(2) Nem gyűjthető ajánlás:
+
+- a) az ajánlást gyűjtő és az ajánló munkahelyén munkaidejében vagy munkaviszonyból, illetve munkavégzésre irányuló más jogviszonyból fakadó munkavégzési kötelezettsége teljesítése közben,
+- b) a Magyar Honvédségnél és a központi államigazgatási szerveknél szolgálati viszonyban levő személytől a szolgálati helyén vagy szolgálati feladatának teljesítése közben,
+- c) tömegközlekedési eszközön,
+- d) állami, helyi és nemzetiségi önkormányzati szervek hivatali helyiségében,
+- e) felsőoktatási és köznevelési intézményben,
+- f) egészségügyi szolgáltató helyiségében.
+
+(3) Az ajánlásért az ajánlást adó választópolgár részére előnyt adni vagy ígérni tilos. Az ajánlást adó választópolgár az ajánlásért nem kérhet előnyt, illetve nem fogadhat el előnyt vagy annak ígéretét.
+
+(4) Érvénytelen az az ajánlás, amelyet az ajánlási szabályok megsértésével gyűjtöttek.
+
+#### 61. A jelölt bejelentése
+
+124. § (1) A jelöltet az ajánlóívek átadásával kell bejelenteni a nyilvántartásba vételére illetékes választási bizottságnál.
+
+(2) A független jelöltként indulni szándékozó választópolgár, illetve a jelöltet állítani szándékozó jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet köteles átadni a választási irodának a jelölt bejelentésére rendelkezésre álló határidőben. E kötelezettség elmulasztása esetén a jelölt nyilvántartásba vételére illetékes választási bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott ajánlóív után a kötelező legkisebb munkabér havi összegének fele.
+
+#### 62. Az ajánlások ellenőrzése
+
+125. § (1) A választási iroda az ajánlásokat ellenőrzi.
+
+(2) Az ajánlások ellenőrzése során meg kell vizsgálni a 122. §-ban foglalt követelmények teljesülését, azonosítani kell az ajánló választópolgárt, meg kell állapítani, hogy rendelkezik-e választójoggal, továbbá meg kell állapítani, hogy az érvényes ajánlások száma eléri-e a jelöltséghez szükséges számot.
+
+(3) Az ajánló választópolgár azonosítását és választójoga megállapítását az ajánlóíven feltüntetett adatainak a központi névjegyzék és a szavazókörök és választókerületek nyilvántartásának adataival való összevetésével kell elvégezni.
+
+126. § Az ajánlás érvényes, ha
+
+- a) az ajánló választópolgár a szavazást megelőző negyvennyolcadik nap és az ajánlóív benyújtásának napja közötti bármely időpontban jogosult volt jelöltet ajánlani a választókerületben,
+- b) az ajánló választópolgár ajánlóíven feltüntetett adatai a központi névjegyzék adataival teljeskörűen megegyeznek,
+- c) az ajánlás megfelel a 122. §-ban foglalt követelményeknek.
+
+127. § (1) Az ajánlások ellenőrzését a jelölt bejelentésétől számított három napon belül kell elvégezni.
+
+(2) Az ajánlások tételes ellenőrzését nem kell tovább folytatni, ha bizonyossá válik, hogy az érvényes ajánlások száma eléri a jelöltséghez szükséges számot.
+
+(3) Az ajánlások ellenőrzésének eredményéről a választási iroda tájékoztatja a jelölt nyilvántartásba vételére illetékes választási bizottságot.
+
+128. § Az ajánlóíveket az illetékes választási iroda a szavazást követő kilencvenedik nap utáni munkanapon megsemmisíti.
+
+#### 63. A lista bejelentése
+
+129. § (1) A lista bejelentésének tartalmaznia kell a listán állított valamennyi jelölt nevét, személyi azonosítóját, lakcímét, valamint nyilatkozatát arról, hogy
+
+- a) a jelölést elfogadja,
+- b) nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetve megválasztása esetén arról lemond.
+
+(2) A listán legfeljebb háromszor annyi jelölt állítható, mint a listán megszerezhető mandátumok száma. A listán szereplő jelöltek sorrendjét a jelölő szervezet határozza meg.
+
+130. § (1) A listán szereplő jelöltek sorrendjét a lista bejelentése után nem lehet módosítani.
+
+(2) Ha valamelyik jelölt a listáról kiesett, helyére a listán soron következő jelölt lép. A bejelentett listára új jelölt nem jelenthető be.
+
+(3) A jelölő szervezet a listát, illetve a listán szereplő jelölt jelölését legkésőbb a lista bejelentésére rendelkezésre álló határidő utolsó napján visszavonhatja. A visszavont lista helyett a jelölő szervezet új listát nem állíthat.
+
+131. § A közös listával kapcsolatos jognyilatkozatot a közös listát állító jelölő szervezetek közösen teszik meg.
+
+#### 64. A jelölő szervezet, a jelölt és a lista nyilvántartásba vétele
+
+132. § Az illetékes választási bizottság minden, a törvényes feltételeknek megfelelő jelölő szervezetet, jelöltet, illetve listát – legkésőbb a bejelentését követő harmadik napon – nyilvántartásba vesz.
+
+133. § (1) A választási iroda a bejelentett szervezet létezését és adatainak hitelességét a civil szervezetek bírósági nyilvántartásában, a bejelentett jelölt adatait a központi névjegyzékben ellenőrzi.
+
+(2) A választási bizottság visszautasítja a jelölő szervezet, a jelölt, illetve a lista nyilvántartásba vételét, ha bejelentése a törvényes feltételeknek nem felel meg.
+
+134. § A jelölő szervezet rövidített neve a civil szervezetek nyilvántartásában szereplő rövidített név, ennek hiányában a jelölő szervezet bejelentésekor megjelölt egyéb rövidített név, amely azonban nem lehet azonos más szervezetnek a civil szervezetek bírósági nyilvántartásába vagy a jelölő szervezetek, jelöltek és listák nyilvántartásába már bejegyzett nevével vagy rövidített nevével.
+
+#### 65. A jelölő szervezetek, jelöltek és listák nyilvántartása
+
+135. § (1) A bejelentett és a nyilvántartásba vett jelölő szervezetek, jelöltek és listák közhiteles, elektronikus nyilvántartását – a 4. melléklet szerinti adattartalommal – a Nemzeti Választási Iroda vezeti. A nyilvántartás változásait a nyilvántartásba vevő vagy abból törlő választási bizottság mellett működő választási iroda vezeti át a nyilvántartáson.
+
+(2) A jelöltek adatait a központi névjegyzék adatai alapján folyamatosan frissíteni kell. Ha a jelölt elveszíti a választhatóság jogát, ennek tényét a nyilvántartásból való törlése érdekében a választási iroda haladéktalanul jelzi a választási bizottságnak.
+
+136. § A jelölő szervezetek adatait a civil szervezetek bírósági nyilvántartásának adatai alapján folyamatosan frissíteni kell. Ha a jelölő szervezetet törlik a civil szervezetek bírósági nyilvántartásából, a Nemzeti Választási Bizottság törli a jelölő szervezetet a jelölő szervezetek nyilvántartásából.
+
+#### 66. A jelölt kiesése
+
+137. § A jelölt kiesik, ha a szavazás megkezdése előtt a jelölésről írásban lemond, a központi névjegyzékből törlésre kerül, a választhatóság jogát elveszíti, továbbá ha a választási bizottság a jelöltet állító jelölő szervezetet törli a jelölő szervezetek, jelöltek és listák nyilvántartásából. A kiesett jelölt nevét a jelölő szervezetek, jelöltek és listák nyilvántartásából, valamint az egyéni szavazólapokról törölni kell.
+
+#### 67. A lista kiesése
+
+138. § A lista kiesik, ha a jelölő szervezet a listát visszavonja, a szavazás megkezdése előtt a listán szereplő valamennyi jelölt kiesik, továbbá ha a választási bizottság a jelöltet állító jelölő szervezetet törli a jelölő szervezetek, jelöltek és listák nyilvántartásából. A kiesett listát a jelölő szervezetek, jelöltek és listák nyilvántartásából, valamint a szavazólapokról törölni kell.
+
+### VIII. Fejezet — A VÁLASZTÁSI KAMPÁNY
+
+#### 68. Kampányidőszak és eszközök
+
+139. § A választási kampányidőszak a szavazás napját megelőző 50. naptól a szavazás napján a szavazás befejezéséig tart.
+
+140. § Kampányeszköznek minősül minden olyan eszköz, amely alkalmas a választói akarat befolyásolására vagy annak megkísérlésére, így különösen a
+
+- a) plakát,
+- b) jelölő szervezet vagy jelölt által történő közvetlen megkeresés,
+- c) politikai reklám és politikai hirdetés,
+- d) választási gyűlés.
+
+141. § Kampánytevékenység a kampányeszközök kampányidőszakban történő felhasználása és minden egyéb kampányidőszakban folytatott tevékenység a választói akarat befolyásolása vagy ennek megkísérlése céljából.
+
+142. § Nem minősül választási kampánynak a választási szervek tevékenysége, az állampolgárok – mint magánszemélyek – közötti személyes kommunikáció, függetlenül annak tartalmától és formájától.
+
+143. § A 77. § (1) bekezdése alapján megállapított szavazóhelyiségek bejáratától számított 150 méteres távolságon belül – közterületen – választási kampánytevékenység a szavazás napján nem folytatható.
+
+#### 69. Plakát
+
+144. § (1) E § alkalmazásában plakát a választási falragasz, felirat, szórólap, vetített kép, embléma mérettől és hordozóanyagtól függetlenül.
+
+(2) A kampányidőszakban a jelölő szervezetek és a jelöltek engedély és bejelentés nélkül készíthetnek plakátot.
+
+(3) Plakát a kampányidőszakban – a (4)–(7) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
+
+(4) Épület falára, kerítésre plakátot elhelyezni kizárólag a tulajdonos, a bérlő, illetőleg – állami vagy önkormányzati tulajdonban lévő ingatlan esetén – a vagyonkezelői jog gyakorlójának hozzájárulásával lehet.
+
+(5) Egyes középületeken vagy a közterület meghatározott részén plakát, illetve óriásplakát elhelyezését a helyi önkormányzat, a fővárosban a fővárosi önkormányzat műemlékvédelmi, környezetvédelmi okból rendeletben megtilthatja. Állami vagy önkormányzati hatóság elhelyezésére szolgáló épületen vagy azon belül plakátot elhelyezni tilos.
+
+(6) A választási kampányt szolgáló önálló hirdető-berendezés elhelyezésére, valamint az óriásplakátok vonatkozásában a közterület-használatról szóló jogszabályokat kell alkalmazni.
+
+(7) A plakátot úgy kell elhelyezni, hogy az ne fedje más jelölt vagy jelölő szervezet plakátját, és károkozás nélkül eltávolítható legyen. A plakátot az, aki elhelyezte vagy akinek érdekében elhelyezték, a szavazást követő 30 napon belül köteles eltávolítani, vagy ennek elmaradása esetén az eltávolítás költségét viselni.
+
+#### 70. Választási gyűlés
+
+145. § (1) Választási gyűlést kampányidőszakban lehet tartani. A szavazás napján választási gyűlés nem tartható. A választási gyűlések nyilvánosak. A rend fenntartásáról a gyűlés szervezője gondoskodik.
+
+(2) A választási kampány céljára az állami és önkormányzati költségvetési szervek a jelöltek, jelölő szervezetek számára azonos feltételekkel bocsáthatnak rendelkezésre helyiséget és egyéb szükséges berendezést. Állami vagy önkormányzati hatóság elhelyezésére szolgáló épületben választási kampánytevékenységet folytatni, választási gyűlést tartani tilos, kivéve az ötszáznál kevesebb lakosú településen, feltéve, hogy más közösségi célú épület nem áll rendelkezésre.
+
+#### 71. Politikai reklám és politikai hirdetés
+
+146. § E fejezet alkalmazásában
+
+- a) politikai reklám a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 203. § 55. pontjában meghatározott politikai reklám, azzal az eltéréssel, hogy a párt, politikai mozgalom és kormány alatt jelölő szervezetet és független jelöltet kell érteni.
+- b) politikai hirdetés az ellenérték fejében közzétett, valamely jelölő szervezet vagy független jelölt népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, sajtótermékben közzétett médiatartalom vagy filmszínházban közzétett audiovizuális tartalom.
+
+147. § (1) A médiaszolgáltató egyenlő feltételek mellett teheti közzé a jelöltet állító jelölő szervezetek és a független jelöltek politikai reklámjait. Közös jelölt esetén a jelölő szervezetek együttesen jogosultak a politikai reklám megrendelésére.
+
+(2) A politikai reklámhoz véleményt, értékelő magyarázatot fűzni tilos.
+
+(3) A politikai reklám közzétételéért a médiaszolgáltató ellenszolgáltatást nem kérhet, és nem fogadhat el.
+
+(4) Az audiovizuális médiaszolgáltatásban közzétételre szánt politikai reklám megrendelője köteles a reklám feliratozásáról vagy jelnyelvi tolmácsolással való ellátásáról gondoskodni.
+
+(5) A politikai reklám közzétételére egyebekben az Mttv. rendelkezéseit kell alkalmazni.
+
+(6) Az országgyűlési képviselők általános választását megelőző kampányidőszakban a közszolgálati médiaszolgáltatók a Nemzeti Választási Bizottság által – valamennyi országos lista és egyéni választókerületi jelölt jogerős nyilvántartásba vételét követően – a (7) és (8) bekezdésben foglaltak szerint, meghatározott számú alkalommal és időtartamban kötelesek közzétenni
+
+- a) az országos listát állító jelölő szervezetek
+- b) az országos listát – sem önállóan, sem más jelölő szervezettel közösen – nem állító, de egyéni választókerületi jelöltet állító jelölő szervezetek,
+- c) a független jelöltek
+
+politikai reklámjait.
+
+(7) Az országgyűlési képviselők általános választását megelőző kampányidőszakban az országos listát állító jelölő szervezetek rendelkezésére álló műsoridőt – amelynek tartama az összes országos lista és az összes médiaszolgáltató tekintetében együttesen hatszáz perc – médiaszolgáltatónként, az országos listák között egyenlő arányban kell felosztani.
+
+(8) Az országgyűlési képviselők általános választását megelőző kampányidőszakban az országos listát – sem önállóan, sem más jelölő szervezettel közösen – nem állító, de egyéni választókerületi jelöltet állító jelölő szervezetek, valamint a független jelöltek rendelkezésére álló műsoridőt – amelynek tartama jelöltenként a (7) bekezdés alapján egy országos listára jutó műsoridő harmincad része – médiaszolgáltatónként, a jogerősen nyilvántartásba vett jelöltek számának arányában kell megállapítani.
+
+(9) A (6) bekezdés a) pontjában és a (7) bekezdésben foglalt rendelkezéseket az Európai Parlament tagjainak választásán is alkalmazni kell azzal, hogy a rendelkezésre álló műsoridő tartama az összes lista és az összes médiaszolgáltató tekintetében együttesen háromszáz perc.
+
+(10) Az országgyűlési képviselők általános választásán az országos listát állító jelölő szervezet, illetve az Európai Parlament tagjainak választásán a listát állító jelölő szervezet által, illetve érdekében csak közszolgálati médiaszolgáltatásban, a (6)–(9) bekezdésben foglaltak szerint tehető közzé politikai reklám.
+
+148. § (1) Az Mttv. 203. § 60. pontjában meghatározott sajtótermékekben politikai hirdetés a választási kampányidőszakban az e §-ban foglaltak szerint tehető közzé. A sajtótermékben közzétett politikai hirdetésnek azonnal felismerhetőnek és más médiatartalmaktól megkülönböztethetőnek kell lennie.
+
+(2) Amennyiben sajtótermék politikai hirdetést kíván közölni, a választás kitűzését követő 5 munkanapon belül az Állami Számvevőszékhez eljuttatja hirdetési szolgáltatásainak árjegyzékét, amelyet az nyilvántartásba vesz, és honlapján közzétesz. A sajtótermék ugyanezt az árjegyzékét a honlapján közzéteszi.
+
+(3) Politikai hirdetést kizárólag olyan sajtótermék közölhet, amelynek hirdetési árjegyzékét az Állami Számvevőszék nyilvántartásba vette. Politikai hirdetés csak a nyilvántartásba vett árjegyzék által meghatározott ellenérték fejében közölhető. Magyarországon letelepedett kiadók sajtótermékei közül csak az közölhet politikai hirdetést, amely az Mttv. szerinti hatósági nyilvántartásban szerepel.
+
+(4) Az (1) bekezdésben meghatározott sajtótermék a szavazás napját követő 15 napon belül az Állami Számvevőszéket tájékoztatja a közzétett politikai hirdetésekről. A tájékoztatás tartalmazza, hogy az egyes jelöltek és jelölő szervezetek politikai hirdetéseit kinek a megrendelésére, milyen ellenérték fejében, mely időpontban és milyen terjedelemben tette közzé. Az Állami Számvevőszék e tájékoztatásokat a honlapján közzéteszi.
+
+#### 72. Közvetlen politikai kampány
+
+149. § Választási kampányanyag a választópolgár részére közvetlen megkeresés módszerével a 89. §-ban meghatározottak alapján juttatható azzal, hogy egyéb adatai felhasználásához – mint mobiltelefonszám, elektronikus levélcím – a kifejezett hozzájárulása szükséges.
+
+#### 73. Közvélemény-kutatás
+
+150. § A szavazás napján a közvélemény-kutatást végző személy abba az épületbe, amelyben a szavazóhelyiség van, nem léphet be, a választópolgárokat semmilyen módon nem zaklathatja, és csak az épületből kilépőket kérdezheti meg. Az ilyen módon készített közvélemény-kutatás eredményét (exit poll) is csak a szavazás befejezése után szabad nyilvánosságra hozni.
+
+#### 74. A média kampányban való részvételével kapcsolatos jogorvoslat
+
+151. § (1) A médiaszolgáltatók és a sajtó, illetve a filmszínházak választási kampányban való részvételével, – az e törvény rendelkezéseinek megsértésével – kapcsolatos kifogást a Nemzeti Választási Bizottság bírálja el. Körzeti és helyi, illetve lekérhető médiaszolgáltatással vagy nem országosan terjesztett sajtótermékkel kapcsolatos kifogást az országgyűlési képviselők választásán a médiatartalom-szolgáltató székhelye vagy lakóhelye szerint illetékes országgyűlési egyéni választókerületi választási bizottság, a helyi önkormányzati képviselők és polgármesterek választásán, a nemzetiségi önkormányzati képviselők választásán, továbbá az Európai Parlament tagjainak választásán a médiatartalom-szolgáltató székhelye vagy lakóhelye szerint illetékes területi választási bizottság bírálja el.
+
+(2) A kifogásban a kérelmező megjelöli, vagy lehetőség szerint csatolja a törvénysértés bizonyítékául szolgáló műsorszámot vagy médiatartalmat. A megjelölt műsorszámot az (1) bekezdés szerint illetékes választási bizottság – amennyiben szükséges és a kérelmező nem csatolta – hivatalból szerzi be.
+
+152. § (1) Ha a választási bizottság a kifogásnak helyt ad, a 218. § (2) bekezdése a), b) és d) pontjaiban foglalt jogkövetkezmények alkalmazásán túl kötelezi a médiatartalom-szolgáltatót, hogy határozata rendelkező részét
+
+- a) napilap és internetes sajtótermék, valamint lekérhető médiaszolgáltatás esetében a határozat közlésétől számított három napon belül, a jogsértő közléshez hasonló módon,
+- b) más időszaki lap esetében a legközelebbi számban, a jogsértő közléshez hasonló módon,
+- c) lineáris médiaszolgáltatás esetében a határozat közlésétől számított három napon belül, a jogsértő közléssel azonos napszakban és ahhoz hasonló módon
+
+tegye közzé.
+
+(2) A választási bizottság az (1) bekezdésben foglaltak mellett bírságot is kiszabhat. Annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintett médiaszolgáltató típusát, lefedettségét, a jogsértéssel érintett sajtótermék típusát, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+
+(3) A bírság legmagasabb összege a kötelező legkisebb munkabér havi összegének ötvenszerese.
+
+#### 75. Adatszolgáltatás a névjegyzékből
+
+153. § A szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a 89. § rendelkezéseire is figyelemmel –
+
+- a) a jelölt kérésére – az érintett választókerületre kiterjedően – a jelölt nyilvántartásba-vételére illetékes választási iroda,
+- b) a listát állító jelölő szervezet kérésére – a jelölő szervezet által megjelölt választókerületekre kiterjedően – a Nemzeti Választási Iroda
+
+öt napon belül, de legkorábban a 132. § szerinti nyilvántartásba vételüket követően átadja.
+
+154. § (1) A 153. § a) pontja szerinti adatszolgáltatás teljesítésének feltétele, hogy a jelölt igazolja a kötelező legkisebb munkabér egy havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
+
+(2) A 153. § b) pontja szerinti adatszolgáltatás teljesítésének feltétele, hogy a listát állító jelölő szervezet igazolja a kötelező legkisebb munkabér egy havi összegének megfelelő összegű adatszolgáltatási díjnak a listás választókerületben megválasztható képviselők száma szerinti befizetését a Nemzeti Választási Iroda számlájára.
+
+155. § (1) Az adatszolgáltatás adatait kizárólag közvetlen politikai kampány céljára lehet felhasználni. Egyéb célú felhasználásuk, másolásuk, harmadik személynek történő átadásuk tilos.
+
+(2) Az adatszolgáltatás adatait a 132. § szerint nyilvántartásba vett jelölt és listát állító jelölő szervezet legkésőbb a szavazás napján köteles megsemmisíteni, és az erről készült jegyzőkönyvet három napon belül köteles átadni az adatszolgáltatást teljesítő választási irodának.
+
+### IX. Fejezet — A SZAVAZÁS ELŐKÉSZÍTÉSE
+
+#### 76. A szavazólap adattartalma
+
+156. § Az egyéni szavazólap alap-adattartalmát az 5. melléklet, a listás szavazólap alap-adattartalmát a 6. melléklet állapítja meg.
+
+157. § (1) Ha az egyéni szavazólapon két vagy több azonos nevű választópolgár szerepelne jelöltként, e jelölteket a születési évük – nevük után, zárójelben való – feltüntetésével kell megkülönböztetni. Ha két, azonos nevű, ugyanazon jelölő szervezet által állított vagy független jelölt azonos évben született, e jelölteket
+
+- a) a lakcímük szerinti település, ha az is azonos
+- b) foglalkozásuk
+
+nevük után, zárójelben való feltüntetésével kell megkülönböztetni a szavazólapon.
+
+(2) Az (1) bekezdés b) pontja szerinti esetben a választási iroda felhívására az érintett jelöltek legkésőbb a felhívástól számított harmadik napon nyilatkoznak a szavazólapon feltüntetendő foglalkozásukról.
+
+158. § (1) Közös jelölt, illetve lista esetén a szavazólap a jelölt, illetve lista állításában részt vevő valamennyi jelölő szervezet nevét tartalmazza.
+
+(2) A szavazólapon fel kell tüntetni a jelölő szervezet rövidített nevét, illetve jelképének szürkeárnyalatos képét is, ha azt a jelölő szervezet a szavazólap adattartalmának jóváhagyását megelőzően kéri.
+
+159. § (1) A több utónévvel rendelkező jelölt kérheti, hogy a szavazólap csak az egyik utónevét tartalmazza.
+
+(2) A jelölt kérheti, hogy a szavazólap a nevének részét képező „dr.” megjelölést ne tartalmazza.
+
+(3) Az (1) és a (2) bekezdés szerinti kérelem ellenére is tartalmazza a szavazólap a jelölt mindkét utónevét, illetve a „dr.” megjelölést, ha ellenkező esetben az egyéni szavazólapon több azonos nevű jelölt szerepelne.
+
+#### 77. Az esélyegyenlőség érvényesítése a szavazólapon
+
+160. § (1) A szavazólapon a jelöltek, illetve listák a választási bizottság által kisorsolt sorrendben szerepelnek.
+
+(2) A választási bizottság a bejelentett jelöltek, illetve listák – annak a jelöltnek vagy listának a kivételével, amelynek nyilvántartásba vételét jogerősen elutasították – sorrendjének sorsolását a jelöltek, illetve listák bejelentésére rendelkezésre álló határnapon, 16 óra után végzi el.
+
+(3) Ha a sorsolást követően valamely jelöltet vagy listát nem vesznek nyilvántartásba, vagy abból törölnek, a szavazólapon szereplő jelöltek, illetve listák egymáshoz viszonyított sorrendje nem változik. A szavazólapon a jelölteket, listákat folyamatos sorszámozással ellátva kell feltüntetni.
+
+161. § (1) A szavazólapon a jelöltek, jelölő szervezetek adatait nagybetűvel, azonos betűtípussal és betűméretben kell feltüntetni.
+
+(2) A jelölő szervezet jelképét húsz milliméter magas és negyven milliméter széles területen kell elhelyezni a szavazólapon.
+
+(3) Ha a közös jelölt, illetve lista állításában részt vevő jelölő szervezetek több jelkép feltüntetését kérik a szavazólapon, azokat együttesen kell a húsz milliméter magas és negyven milliméter széles területen elhelyezni.
+
+#### 78. A szavazólap adattartalmának jóváhagyása
+
+162. § (1) A szavazólap adattartalmát a választási bizottság hagyja jóvá azt követően, hogy valamennyi bejelentett jelölt, illetve lista nyilvántartásba-vétele tárgyában határozatot hozott.
+
+(2) Ha a szavazólap adattartalmának jóváhagyását követően – jogorvoslati döntés vagy a nyilvántartásból való törlés következtében – megváltozik a szavazólap adattartalma, a választási bizottság újabb jóváhagyására nincs szükség, a választási iroda gondoskodik a változások átvezetéséről a szavazólapon, és erről tájékoztatja a jelölő szervezeteket és a független jelölteket.
+
+#### 79. A szavazólapok elkészítése
+
+163. § (1) A szavazólapok elkészítéséről a Nemzeti Választási Iroda gondoskodik.
+
+(2) A szavazólapokat a szavazóhelyiségben is ellenőrizhető biztonsági elemmel kell ellátni.
+
+#### 80. A szavazásnapi iratok és kellékek átadása
+
+164. § (1) A szavazást megelőző napon a helyi választási iroda átadja a szavazóköri névjegyzéket, a mozgóurnát igénylő választópolgárok jegyzékét, a szavazólapokat és a szavazáshoz szükséges egyéb kellékeket a szavazatszámláló bizottság elnökének.
+
+(2) Az iratok és kellékek őrzését a szavazás napjáig a helyi választási iroda biztosítja.
+
+#### 81. A szavazóhelyiség kialakítása
+
+165. § (1) A szavazóhelyiséget úgy kell kialakítani, hogy
+
+- a) a választópolgárok számára jól megközelíthető legyen,
+- b) garantálja a választópolgárok befolyásolástól mentes joggyakorlását,
+- c) biztosítsa a szavazatszámláló bizottság zavartalan működését.
+
+(2) A szavazóhelyiség nem lehet olyan épületben, amely – részben vagy egészében – jelölt vagy jelölő szervezet használatában van.
+
+166. § Minden településen minden választókerületben legalább egy szavazóhelyiséget akadálymentesíteni kell.
+
+167. § (1) A szavazóhelyiség berendezéséről a helyi választási iroda gondoskodik.
+
+(2) A szavazóhelyiségben a szavazás titkosságának biztosítása érdekében a szavazás zökkenőmentes lebonyolításához szükséges számú, de legalább két szavazófülkét kell kialakítani.
+
+(3) A szavazóhelyiségben legalább két szavazóurnát kell elhelyezni, valamint legalább egy mozgóurnát kell biztosítani.
+
+(4) A szavazatszámláló bizottság és a választópolgárok részére a szavazóhelyiségben és a szavazófülkékben – megfelelő módon rögzítve – tollat kell elhelyezni.
+
+(5) Abban a szavazóhelyiségben, amelynek szavazóköri névjegyzékében olyan választópolgár szerepel, aki a 88. § c) pontja szerinti segítséget igényelte, Braille-írással ellátott szavazósablont kell biztosítani.
+
+### X. Fejezet — A SZAVAZÁS
+
+#### 82. A szavazás helye
+
+168. § A választópolgár a lakcíme szerinti szavazókörben szavazhat
+
+- a) a szavazóhelyiségben vagy
+- b) mozgóurnával.
+
+#### 83. A szavazás ideje
+
+169. § A szavazóhelyiségben szavazni a szavazás napján 6 órától 19 óráig lehet.
+
+#### 84. Szavazás a szavazóhelyiségben
+
+170. § A szavazóhelyiséget a szavazás ideje alatt nem lehet bezárni, és a szavazást nem lehet meghosszabbítani vagy – rendkívüli, a választás szabadságát vagy titkosságát, illetve a választás lebonyolítását veszélyeztető esemény kivételével – felfüggeszteni.
+
+171. § (1) Ha a szavazatszámláló bizottság – az egy szavazókörrel rendelkező településen a helyi választási bizottság – munkájában részt vevő tagok száma kevesebb mint öt, a helyi választási iroda vezetője a póttagok közül a bizottságot kiegészíti. Ha ilyen módon nincs lehetőség a bizottság kiegészítésére, akkor arról a területi választási iroda vezetője gondoskodik más település szavazatszámláló bizottsági póttagjának megbízásával.
+
+(2) Ha a szavazás napján a szavazatszámláló bizottság szavazóhelyiségben jelen lévő tagjainak a száma három alá csökken, vagy a szavazás a választás szabadságát vagy titkosságát, illetve a választás lebonyolítását veszélyeztető esemény miatt lehetetlenné válik, a szavazást a szavazatszámláló bizottság jelen lévő tagjai azonnal felfüggesztik, az urnát, továbbá az iratokat zárolják, és a felfüggesztés tényéről a helyi választási iroda vezetőjét a szavazás törvényes folytatásának biztosítása érdekében haladéktalanul értesítik.
+
+172. § (1) A szavazatszámláló bizottság tagjai a szavazóhelyiségben csak a hivatalosan elhelyezett tollat használhatják.
+
+(2) A szavazatszámláló bizottság tagjai a szavazás időtartama alatt – a hivatalos választási iratok és az (1) bekezdés szerinti toll kivételével – nem használhatnak adatrögzítésre vagy adattovábbításra alkalmas eszközt a szavazóhelyiségben.
+
+173. § (1) A választási iratok, egyéb kellékek elhelyezését követően a szavazás megkezdéséig a szavazatszámláló bizottság és a választási iroda tagjai, valamint a nemzetközi megfigyelő tartózkodhat a szavazóhelyiségben.
+
+(2) A szavazás megkezdésétől a szavazás lezárásáig a szavazatszámláló bizottság, a jegyzőkönyvvezető, a médiatartalom-szolgáltató képviselője, valamint a nemzetközi megfigyelő tartózkodhat a szavazóhelyiségben.
+
+(3) A választópolgár – valamint a 181. § (1) bekezdése szerinti segítője – a választójoga gyakorlásához szükséges ideig tartózkodhat a szavazóhelyiségben.
+
+174. § (1) A szavazatszámláló bizottság az urnák állapotát, valamint azt, hogy azok üresek, az elsőként szavazó választópolgárral együtt – aki a szavazatszámláló bizottság tagja és a jegyzőkönyvvezető nem lehet – a szavazás megkezdése előtt megvizsgálja.
+
+(2) Az urnákat az elsőként szavazó választópolgár jelenlétében úgy kell lezárni, hogy azokból – az urna szétszedése nélkül – ne lehessen szavazólapot eltávolítani.
+
+(3) Ezt követően a szavazatszámláló bizottság jelen levő tagjai és az elsőként szavazó választópolgár a szavazóköri jegyzőkönyvön aláírásával tanúsítja, hogy az urnák lezárásukkor üresek, továbbá az urnák szabályszerű lezárását.
+
+(4) A szavazatszámláló bizottság a mozgóurnába ellenőrző lapot helyez, amely tartalmazza az ellenőrző lap elhelyezésének időpontját, valamint a szavazatszámláló bizottság jelen levő tagjainak és az elsőként szavazó választópolgárnak az aláírását.
+
+175. § A szavazóhelyiségben az a választópolgár szavazhat, aki a kinyomtatott szavazóköri névjegyzékben szerepel.
+
+176. § A választópolgár igazolja személyazonosságát, valamint lakcímét vagy személyi azonosítóját. A szavazatszámláló bizottság megállapítja, hogy a polgár szerepel-e a kinyomtatott szavazóköri névjegyzékben.
+
+177. § (1) A szavazatszámláló bizottság visszautasítja azt a választópolgárt, aki
+
+- a) nem tudja személyazonosságát és lakcímét vagy személyi azonosítóját igazolni,
+- b) nem szerepel a kinyomtatott szavazóköri névjegyzékben,
+- c) már szavazott,
+- d) megtagadja a szavazólap átvételének 179. § szerinti igazolását.
+
+(2) A visszautasított választópolgárokról a jegyzőkönyvvezető külön jegyzéket vezet, a visszautasítást a szavazatszámláló bizottság nem foglalja határozatba.
+
+178. § (1) Ha a szavazásnak nincs akadálya, a szavazatszámláló bizottság a szavazóköri névjegyzék alapján a választópolgár részére átadja a szavazólapot, amelyet a választópolgár jelenlétében a bal felső sarkában bélyegzőlenyomattal lát el, valamint a szavazólap elhelyezésére szolgáló borítékot.
+
+(2) A szavazatszámláló bizottság szükség esetén – a választópolgár befolyásolása nélkül – megmagyarázza a szavazás módját.
+
+(3) Ha egy, az egyéni szavazólapon szereplő jelölt vagy egy lista a szavazólapok elkészítése után, de a szavazás napját megelőzően kiesett, e tényről a szavazatszámláló bizottság köteles a szavazóhelyiségben elhelyezett hirdetményen, valamint szükség szerint szóban tájékoztatni a választópolgárokat. A kiesett jelölt vagy lista nevét a szavazólapon át kell húzni.
+
+179. § (1) A szavazólap átvételét a választópolgár a kinyomtatott szavazóköri névjegyzéken saját kezű aláírásával igazolja.
+
+(2) Az írásképtelen választópolgár helyett – e tény feltüntetésével – a szavazatszámláló bizottság két tagja írja alá a névjegyzéket.
+
+180. § (1) A szavazólap kitöltésére szavazófülke áll a választópolgár rendelkezésére. A szavazófülke igénybevételére a szavazatszámláló bizottság felhívja a választópolgárt, de arra nem kötelezheti.
+
+(2) A szavazólap kitöltésének ideje alatt – a 181. § (1) bekezdése kivételével – csak a szavazó választópolgár tartózkodhat a szavazófülkében.
+
+(3) A választópolgár a szavazóhelyiségben tartózkodásának időtartama alatt semmilyen módon nem akadályozhat más választópolgárt a titkos szavazásra vonatkozó joga gyakorlásában.
+
+181. § (1) Az a választópolgár, aki nem tud olvasni, illetve akit testi fogyatékossága vagy egyéb ok akadályoz a szavazásban, általa választott segítő – ennek hiányában a szavazatszámláló bizottság két tagjának együttes – segítségét igénybe veheti.
+
+(2) A 167. § (5) bekezdése szerinti szavazókörben a látássérült választópolgár Braille-írással ellátott szavazósablont vehet igénybe a szavazás segítése céljából. A szavazatszámláló bizottság a választópolgár szavazólapját belehelyezi a szavazósablonba, és így adja át a választópolgár részére. A szavazást követően a választópolgár a szavazólapot kiveszi a szavazósablonból, borítékba helyezheti és az urnába dobja, a szavazósablont visszaadja a szavazatszámláló bizottságnak.
+
+182. § (1) A választópolgár a szavazólapot borítékba helyezheti és az urnába dobja.
+
+(2) Ha a választópolgár a szavazólap urnába történő helyezése előtt jelzi, hogy a szavazólap kitöltését elrontotta, a rontott szavazólapot a szavazatszámláló bizottság bevonja, egy külön e célra szolgáló borítékba helyezi, és a rontott szavazólap helyett új szavazólapot ad ki. A szavazatszámláló bizottság a rontott szavazólap helyett újat – választópolgáronként és szavazólapfajtánként – csak egyszer adhat ki.
+
+183. § A 19 órakor sorban álló választópolgárok még szavazhatnak. Ezután a szavazatszámláló bizottság a szavazást lezárja.
+
+#### 85. Szavazás mozgóurnával
+
+184. § (1) A mozgóurnát a szavazatszámláló bizottság két tagja viszi ki – a szavazókör területén belül – a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárhoz.
+
+(2) Az esetleges rontott szavazólapok kicserélése érdekében a mozgóurnás szavazáshoz a választópolgárok számánál legfeljebb tízzel több szavazólapot visz ki a szavazatszámláló bizottság két tagja.
+
+(3) A mozgóurnás szavazáshoz a szavazólapot előzetesen, a szavazóhelyiségben bélyegzőlenyomattal látja el a szavazatszámláló bizottság.
+
+(4) A mozgóurnás szavazás során fel nem használt, eőre lebélyegzett szavazólapokat a szavazatszámláló bizottság tagjai a szavazóhelyiségbe történő visszaérkezésükkor felhasználásra alkalmatlanná teszik, és külön csomagolják.
+
+(5) A mozgóurnás szavazást úgy kell megszervezni, hogy a szavazatszámláló bizottság tagjai 19 óráig visszaérjenek a szavazóhelyiségbe a mozgóurnával.
+
+185. § (1) A mozgóurnás szavazásra a 175–182. § rendelkezéseit kell megfelelően alkalmazni, a névjegyzék helyett azonban a mozgóurnát igénylő választópolgárok jegyzékét kell használni.
+
+(2) Szavazófülke helyett a szavazás titkosságát garantáló körülményeket kell a választópolgár számára biztosítani.
+
+#### 86. A szavazás módja
+
+186. § (1) Érvényesen szavazni csak a hivatalos szavazólapon szereplő jelöltre, listára lehet.
+
+(2) Érvényesen szavazni a jelölt neve melletti, illetve lista neve feletti körbe tollal írt két, egymást metsző vonallal lehet.
+
+### XI. Fejezet — Az EREDMÉNY MEGÁLLAPÍTÁSA
+
+#### 87. A szavazatszámlálás nyilvánossága
+
+187. § A szavazatszámlálás során a szavazatszámláló bizottság, a jegyzőkönyvvezető, a médiatartalom-szolgáltató képviselője, valamint a nemzetközi megfigyelő tartózkodhat a szavazóhelyiségben.
+
+#### 88. A szavazatszámlálás
+
+188. § A szavazóhelyiségben és a mozgóurnába leadott szavazatokat a szavazatszámláló bizottság a szavazás lezárását követően haladéktalanul megszámlálja.
+
+189. § A szavazatszámláló bizottság először megszámlálja a fel nem használt, valamint a rontott szavazólapokat, és azokat külön-külön csomagolja.
+
+190. § A szavazatszámláló bizottság a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzéke alapján megállapítja a szavazáson megjelent választópolgárok számát.
+
+191. § (1) A szavazatszámláló bizottság az urna felbontása előtt ellenőrzi az urna sértetlenségét, és felbontja az urnát.
+
+(2) Ha a mozgóurnában nem található az ellenőrző lap, a mozgóurnában lévő valamennyi szavazólap érvénytelen. Ebben az esetben e szavazólapokat meg kell számlálni és külön kell csomagolni.
+
+192. § A szavazatszámláló bizottság összekeveri az urnákban és a mozgóurnában lévő – a 191. § szerint nem érvénytelen – szavazólapokat, majd azokat megszámlálja.
+
+193. § (1) Érvénytelen a szavazólap, amely
+
+- a) nincs ellátva a hivatalos bélyegzőlenyomattal,
+- b) a törvényben meghatározottnál több szavazatot tartalmaz, vagy
+- c) nem tartalmaz érvényes szavazatot.
+
+(2) Érvénytelen az a szavazat, amelyet
+
+- a) nem a 186. § (2) bekezdése szerint adtak le,
+- b) kiesett jelöltre, listára adtak le.
+
+(3) A szavazat érvényességét – ha az egyéb feltételeknek megfelel – nem érinti, ha a szavazólapon a (2) bekezdés szerint érvénytelen szavazat is szerepel, vagy ha a szavazólapon bármilyen megjegyzést tettek, például a jelöltek, listák sorrendjét megváltoztatták, a jelölt nevét, listát kihúzták, nevet, listát hozzáírtak.
+
+194. § A szavazatszámláló bizottság külön csoportba helyezi és összeszámlálja az érvénytelen szavazólapokat. Az érvénytelenség okát a szavazólap hátoldalára rá kell vezetni, és azt a szavazatszámláló bizottság jelen lévő tagjai aláírják. A szavazatszámláló bizottság az érvénytelen szavazólapokat külön csomagolja.
+
+195. § Az érvényes szavazatokat jelöltenként, illetve listánként külön-külön meg kell számolni, majd el kell végezni a szavazólapok csomagolását. A csomagra rá kell írni az érvényes szavazatok jelöltenkénti, illetve listánkénti számát.
+
+196. § A szavazólapokat, illetve a szavazatokat legalább kétszer meg kell számlálni. Az ismételt számlálást addig kell folytatni, amíg annak eredménye valamely megelőző számlálás eredményével azonos nem lesz.
+
+197. § Ha az urnákban talált, hivatalos bélyegzőlenyomattal ellátott szavazólapok száma meghaladja a szavazáson megjelent választópolgárok számát, a szavazatszámláló bizottság a jelöltekre, illetve listákra leadott szavazatok közül jelöltenként, illetve listánként a többletnek megfelelő számú szavazatot érvénytelennek nyilvánít.
+
+198. § A szavazólapokat tartalmazó csomagokat úgy kell lezárni, hogy – a csomagolás megsértése nélkül – ne lehessen abból szavazólapot kivenni, illetve abba szavazólapot betenni. A csomagra rá kell írni a szavazókör sorszámát és a csomagban lévő szavazólapok megjelölését és számát. A csomagot a szavazatszámláló bizottság jelen lévő tagjai aláírásukkal, valamint bélyegzőlenyomattal hitelesítik.
+
+#### 89. A szavazóköri eredmény megállapítása
+
+199. § A szavazatszámláló bizottság a szavazatok megszámlálását követően megállapítja a választás szavazóköri eredményét.
+
+#### 90. A választás eredményének megállapítása
+
+200. § A választási bizottság megállapítja a választás eredményét.
+
+201. § A listás szavazás eredményének megállapításakor a listák sorrendjét a 160. § (1) bekezdése alapján elvégzett sorsolás eredménye szerint kell figyelembe venni.
+
+#### 91. Jegyzőkönyv
+
+202. § (1) A szavazóköri, valamint a választási eredményről jegyzőkönyvet kell készíteni.
+
+(2) A jegyzőkönyvet két példányban kell kiállítani, melyeket a választási bizottság jelen levő tagjai aláírnak.
+
+(3) A szavazatszámláló bizottság jegyzőkönyvvezetője a szavazóköri jegyzőkönyv adattartalmát – a jegyzőkönyv kitöltését követően haladéktalanul – a helyi választási irodába továbbítja, amely azt a szavazatösszesítő informatikai rendszerben rögzíti.
+
+(4) A jegyzőkönyv egy-egy másolati példányát az illetékes választási bizottság elnöke – kérésükre, a szavazóhelyiségben haladéktalanul és ingyenesen – átadja a választási bizottság megbízott tagjainak. Sokszorosítás után a választási bizottság elnöke a másolatot bélyegzőlenyomattal és aláírásával hitelesíti.
+
+203. § (1) A szavazatszámláló bizottság a jegyzőkönyveket, választási iratokat, nyomtatványokat és szavazólapokat – a szavazatszámlálás befejezését és a jegyzőkönyvek kitöltését követően haladéktalanul – a helyi választási irodához szállítja, amely a szavazóköri jegyzőkönyv adattartalmát a szavazatösszesítő informatikai rendszerben rögzíti.
+
+(2) A választási irodák a választás nem hiteles eredményét tartalmazó tájékoztató adatokat a szavazás lezárását követően nyilvánosságra hozzák.
+
+204. § A jegyzőkönyv egy példánya az illetékes választási irodában a szavazást követő három napon belül megtekinthető.
+
+205. § (1) A szavazólapokat a helyi választási irodában kell elhelyezni, és kilencven napig meg kell őrizni úgy, hogy illetéktelen személyek részére ne váljanak hozzáférhetővé. A választás eredményével összefüggő büntetőeljárás esetén az érintett szavazólapokat az ügy jogerős lezárásáig kell megőrizni.
+
+(2) A szavazást követő kilencvenedik nap utáni munkanapon a választási iratokat – a jegyzőkönyvek kivételével – meg kell semmisíteni. A jegyzőkönyvek első példányát kilencven nap elteltével a Magyar Nemzeti Levéltárnak át kell adni.
+
+#### 92. A megbízólevél
+
+206. § A választás eredményét megállapító választási bizottság a választás eredményének jogerőssé válását követő három napon belül átadja a megbízólevelet a megválasztott képviselőnek. A választási bizottság e hatáskörét a választási bizottság elnökére átruházhatja.
+
+#### 93. A képviselők nyilvántartása
+
+207. § (1) A Nemzeti Választási Iroda a megválasztott képviselőkről nyilvántartást vezet.
+
+(2) A képviselők nyilvántartásán az általános választások közötti változásokat a megbízólevelet átadó választási bizottság mellett működő választási iroda átvezeti.
+
+(3) A Nemzeti Választási Iroda a képviselők választójogát a központi névjegyzék adatai alapján folyamatosan ellenőrzi, a választójog megszűnéséről a megbízólevelet átadó választási bizottságot haladéktalanul értesíti.
+
+### XII. Fejezet — A JOGORVOSLAT
+
+#### 94. A kifogás benyújtása
+
+208. § Kifogást a választásra irányadó jogszabály, illetve a választás és a választási eljárás alapelveinek megsértésére (a továbbiakban együtt: jogszabálysértés) hivatkozással a központi névjegyzékben szereplő választópolgár, jelölt, jelölő szervezet, továbbá az ügyben érintett természetes és jogi személy, jogi személyiség nélküli szervezet nyújthat be.
+
+209. § (1) A kifogást úgy kell benyújtani, hogy az legkésőbb a sérelmezett jogszabálysértés elkövetésétől számított harmadik napon megérkezzen a kifogás elbírálására hatáskörrel rendelkező választási bizottsághoz.
+
+(2) Folyamatosan fennálló tevékenység esetében a kifogást a sérelmezett tevékenység fennállásának teljes időtartama alatt be lehet nyújtani. A jogorvoslati határidő kezdete nem a sérelmezett tevékenység kezdő időpontja, hanem az az utolsó időpont, amikor a sérelmezett állapot még fennáll.
+
+210. § (1) A választási iroda tevékenységével kapcsolatos kifogás elbírálása annak a választási bizottságnak a hatáskörébe tartozik, amely mellett a választási iroda működik.
+
+(2) Ha a választáson az (1) bekezdés szerinti választási bizottság nem működik, a kifogást az a választási bizottság bírálja el, amely mellett a választási iroda felettes választási irodája működik.
+
+211. § A szavazatszámláló bizottság tevékenysége és döntése ellen – a szavazóköri eredményt megállapító döntés kivételével – kifogást lehet benyújtani.
+
+212. § (1) A kifogást írásban – személyesen, levélben, telefaxon vagy elektronikus levélben eljuttatva – lehet benyújtani.
+
+(2) A kifogásnak tartalmaznia kell
+
+- a) a jogszabálysértés megjelölését,
+- b) a jogszabálysértés bizonyítékait,
+- c) a kifogás benyújtójának nevét, lakcímét (székhelyét) és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét,
+- d) a kifogás benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a magyar állampolgárságát igazoló okiratának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba-vételi számát.
+
+(3) A kifogás tartalmazhatja benyújtójának telefaxszámát vagy elektronikus levélcímét, illetve kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.
+
+#### 95. A kifogás áttétele
+
+213. § (1) Ha a választási bizottság megítélése szerint a kifogás elbírálására nem az a választási bizottság illetékes, amelyhez azt benyújtották, a választási bizottság az ügyet – legkésőbb a beérkezését követő napon – jegyzőkönyvbe foglalt döntéssel átteszi az annak elbírálására illetékes választási bizottsághoz. A választási bizottság köteles eljárni a hozzá áttett ügyben.
+
+(2) A választási bizottság az (1) bekezdés szerinti hatáskörét – jegyzőkönyvbe foglalt döntéssel – a bizottság elnökére átruházhatja.
+
+(3) Ha a választási bizottság, illetve a bizottság elnöke az ügyet nem teszi át az illetékes választási bizottsághoz, a választási bizottság köteles az ügyben eljárni.
+
+(4) Ha a kifogás áttételére kerül sor, a kifogás határidőben történt benyújtásának vizsgálatakor azt az időpontot kell figyelembe venni, amikor az első választási bizottsághoz beérkezett.
+
+#### 96. A kifogás elbírálása
+
+214. § A választási bizottság a benyújtott kifogásról legkésőbb a beérkezésétől – áttétel esetén az elbírálására jogosult választási bizottsághoz történő beérkezésétől – számított harmadik napon dönt.
+
+215. § A kifogást érdemi vizsgálat nélkül el kell utasítani, ha
+
+- a) nem a 208. § szerinti jogosult nyújtotta be,
+- b) elkésett,
+- c) nem tartalmazza a 212. § (2) bekezdésében foglaltakat vagy
+- d) annak elbírálása nem tartozik egyik választási bizottság hatáskörébe sem.
+
+216. § A kifogás a választási bizottság határozatának meghozataláig visszavonható, a választási bizottság azonban az eljárást hivatalból folytathatja.
+
+217. § (1) A választási bizottság együttes vizsgálat és elbírálás végett elrendelheti azoknak az előtte folyamatban levő ügyeknek az egyesítését, amelyeknek tárgya egymással összefügg.
+
+(2) Ha a választási bizottság által érdemben elbírált ügyben újabb kifogást nyújtanak be, és az nem tartalmaz a választási bizottság által még nem értékelt bizonyítékot, a választási bizottság elnöke megküldi a kifogás benyújtója részére a választási bizottság határozatának – személyes adatokat nem tartalmazó – másolatát, és erről a következő ülésen tájékoztatja a választási bizottságot.
+
+(3) A választási bizottság az elnök tájékoztatását jegyzőkönyvbe foglalt döntéssel tudomásul veszi vagy – ha a (2) bekezdésben foglalt feltételek nem állnak fenn – az ügy érdemében határozatot hoz.
+
+218. § (1) A választási bizottság a kifogásról a rendelkezésére álló adatok alapján dönt.
+
+(2) Ha a választási bizottság a kifogásnak helyt ad
+
+- a) megállapítja a jogszabálysértés tényét,
+- b) a jogsértőt eltiltja a további jogszabálysértéstől,
+- c) a választási eljárást vagy annak a jogorvoslattal érintett részét megsemmisíti és megismételteti,
+- d) a választási kampány szabályainak megsértése, illetve a 124. § (2) bekezdésében és a 155. §-ban foglalt kötelezettség megszegése esetén bírságot is kiszabhat.
+
+219. § (1) A választási bizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és területi kiterjedtségét, a jogsértés ismétlődő jellegét – veszi figyelembe. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+
+(2) A bírság legmagasabb összege természetes személy esetén a kötelező legkisebb munkabér havi összegének ötszöröse, egyébként a kötelező legkisebb munkabér havi összegének tizenötszöröse.
+
+(3) A bírság, ha azt a kötelezett az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a Nemzeti Választási Iroda megkeresésére az állami adóhatóság szed be.
+
+220. § Ha a választási bizottság a kifogásnak nem ad helyt, azt elutasítja.
+
+#### 97. A fellebbezés
+
+221. § (1) A választási bizottság elsőfokú határozata ellen a központi névjegyzékben szereplő választópolgár, jelölt, jelölő szervezet, továbbá az ügyben érintett természetes és jogi személy, jogi személyiség nélküli szervezet fellebbezést nyújthat be.
+
+(2) Nincs helye fellebbezésnek a jegyzőkönyvbe foglalt döntés, a másodfokon eljáró választási bizottság által hozott határozat, valamint a Nemzeti Választási Bizottság határozata ellen.
+
+#### 98. A bírósági felülvizsgálat
+
+222. § (1) A választási bizottság másodfokú határozata, továbbá a Nemzeti Választási Bizottság határozata ellen az ügyben érintett természetes és jogi személy, jogi személyiség nélküli szervezet bírósági felülvizsgálati kérelmet nyújthat be.
+
+(2) A bírósági felülvizsgálatra csak akkor kerülhet sor, ha a választási eljárásban a fellebbezési jogot kimerítették vagy a fellebbezés e törvény rendelkezései szerint kizárt.
+
+(3) Nincs helye bírósági felülvizsgálatnak a jegyzőkönyvbe foglalt döntés ellen.
+
+#### 99. A fellebbezés és a bírósági felülvizsgálati kérelem benyújtása
+
+223. § (1) A fellebbezést személyesen, levélben, telefaxon vagy elektronikus levélben, a bírósági felülvizsgálati kérelmet személyesen vagy levélben, illetve olyan elektronikus dokumentumként lehet benyújtani, amelyet a kérelem benyújtójának jogi képviselője vagy a 224. § (5) bekezdésben meghatározott esetben a kérelem benyújtója minősített elektronikus aláírásával látott el. Ha a bírósági felülvizsgálat iránti kérelmet elektronikus dokumentumként nyújtja be, annak mellékleteit a kérelmező oldalhű másolatban elektronikus okirati formába alakítja.
+
+(2) Nem nyújthat be fellebbezést és bírósági felülvizsgálati kérelmet az ügyben eljárt választási bizottság és annak tagja.
+
+(3) Fellebbezést és bírósági felülvizsgálati kérelmet lehet benyújtani
+
+- a) jogszabálysértésre hivatkozással, illetve
+- b) a választási bizottság mérlegelési jogkörben hozott határozata ellen.
+
+224. § (1) A fellebbezést és a bírósági felülvizsgálati kérelmet a megtámadott határozatot hozó választási bizottságnál kell előterjeszteni.
+
+(2) A fellebbezést és a bírósági felülvizsgálati kérelmet úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított harmadik napon megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
+
+(3) A fellebbezésnek, illetve a bírósági felülvizsgálati kérelemnek tartalmaznia kell
+
+- a) a kérelem 223. § (3) bekezdése szerinti alapját,
+- b) a kérelem benyújtójának nevét, lakcímét (székhelyét) és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét,
+- c) a kérelem benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a magyar állampolgárságát igazoló okiratának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba-vételi számát.
+
+(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem tartalmazhatja benyújtójának telefaxszámát vagy elektronikus levélcímét, illetve kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.
+
+(5) A bírósági felülvizsgálati eljárásban az ügyvédi képviselet kötelező. A jogi szakvizsgával rendelkező személy – a szakvizsga-bizonyítvány egyszerű másolatának csatolásával – saját ügyében ügyvédi képviselet nélkül is eljárhat.
+
+225. § A fellebbezésben és a bírósági felülvizsgálati kérelemben új tények és bizonyítékok is felhozhatók.
+
+226. § A fellebbezést a választási iroda az ügy összes iratával a beérkezése napján felterjeszti a fellebbezés elbírálására jogosult választási bizottsághoz.
+
+227. § (1) A bírósági felülvizsgálati kérelmet a választási iroda az ügy összes iratával legkésőbb a beérkezését követő napon 9 óráig felterjeszti az annak elbírálására jogosult bírósághoz.
+
+(2) Az ügyben nem érintett természetes személy által benyújtott bírósági felülvizsgálati kérelem felterjesztésekor a választási iroda tájékoztatja a bíróságot, hogy a polgár szerepel-e a központi névjegyzékben.
+
+#### 100. A fellebbezés és a bírósági felülvizsgálati kérelem, valamint a választással kapcsolatos alkotmányjogi panasz elbírálása
+
+228. § (1) A fellebbezésről az annak elbírálására jogosult választási bizottság legkésőbb a beérkezésétől számított harmadik napon dönt.
+
+(2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
+
+229. § (1) A bírósági felülvizsgálati kérelmet a másodfokú határozatot hozó választási bizottság székhelye szerint illetékes ítélőtábla bírálja el. A Nemzeti Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálati kérelmet a Kúria bírálja el.
+
+(2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
+
+230. § A fellebbezés és a bírósági felülvizsgálat iránti kérelem a választási bizottság, illetve a bíróság határozatának meghozataláig visszavonható, a választási bizottság azonban a fellebbezési eljárást hivatalból folytathatja.
+
+231. § (1) A fellebbezést és a bírósági felülvizsgálati kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
+
+- a) nem a 221. § (1) bekezdés, illetve a 222. § (1) bekezdés szerinti jogosult nyújtotta be,
+- b) elkésett,
+- c) nem a 224. § (1) bekezdése szerinti választási bizottsághoz nyújtották be,
+- d) nem tartalmazza a 224. § (3) bekezdésében foglaltakat.
+
+(2) A bírósági felülvizsgálati kérelmet érdemi vizsgálat nélkül el kell utasítani továbbá, ha a 224. § (5) bekezdésében foglalt rendelkezés megsértésével nyújtják be.
+
+(3) A fellebbezés és a bírósági felülvizsgálati kérelem nem utasítható el, ha a jogosult a fellebbezést az elbírálására jogosult választási bizottságnál, illetve a bírósági felülvizsgálati kérelmet az elbírálására jogosult bíróságnál – határidőben – terjeszti elő. A fellebbezés elbírálására jogosult választási bizottság mellett működő választási iroda, illetve a bíróság ebben az esetben haladéktalanul intézkedik az iratok beszerzéséről.
+
+(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem alapján a fellebbezés elbírálására jogosult választási bizottság, illetve a bíróság a sérelmezett határozatot, valamint az azt megelőző eljárást megvizsgálja.
+
+(5) A választási bizottság, illetve a bíróság a megtámadott határozatot
+
+- a) helybenhagyja vagy
+- b) megváltoztatja.
+
+232. § (1) A fellebbezési eljárás során hozott határozatot a másodfokon eljárt választási bizottság közli a fellebbezővel és azokkal, akikkel az elsőfokú határozatot közölték.
+
+(2) A másodfokon eljáró választási bizottság a fellebbezés elbírálása érdekében megküldött iratokat a határozat jogerőre emelkedését követően – a határozattal együtt – visszaküldi az első fokon eljáró választási bizottsághoz.
+
+(3) A bírósági felülvizsgálat során hozott határozatot a kérelmezővel és azokkal, akikkel a másodfokú határozatot közölték, a bíróság közli.
+
+(4) A bíróság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza.
+
+(5) A bíróság határozata ellen további jogorvoslatnak helye nincs.
+
+(6) A bíróság a bírósági felülvizsgálati kérelem elbírálása érdekében megküldött iratokat – a határozatával együtt – visszaküldi a felülvizsgált határozatot hozó választási bizottsághoz.
+
+233. § Az Alkotmánybíróság az e törvény alapján, a választási szerv határozatával kapcsolatos jogorvoslati eljárásban hozott bírói döntés elleni alkotmányjogi panaszról az Alkotmánybíróságról szóló 2011. évi CLI. törvény 56. §-a szerint a beérkezésétől számított három munkanapon belül, a befogadott alkotmányjogi panaszról további három munkanapon belül dönt.
+
+#### 101. A szavazókörök kialakításával és felülvizsgálatával kapcsolatos jogorvoslat
+
+234. § (1) A helyi választási iroda vezetőjének a szavazókörök kialakításáról és felülvizsgálatáról szóló határozata ellen a közzétételének időtartama alatt nyújtható be fellebbezés a helyi választási iroda vezetőjéhez.
+
+(2) A helyi választási iroda vezetője a fellebbezést a területi választási iroda vezetőjéhez terjeszti fel, aki azt három napon belül elbírálja, és a szavazóköri beosztást módosítja, vagy a fellebbezést elutasítja.
+
+(3) A területi választási iroda vezetőjének határozata ellen további jogorvoslatnak helye nincs.
+
+#### 102. A névjegyzékkel kapcsolatos jogorvoslat
+
+235. § (1) A helyi választási iroda központi névjegyzékkel kapcsolatos kérelmet elbíráló döntése ellen legkésőbb az arról szóló értesítés kézhezvételét követő tizenötödik napon lehet fellebbezést benyújtani.
+
+(2) A helyi választási iroda szavazóköri névjegyzékkel kapcsolatos kérelmet elbíráló döntése ellen legkésőbb az arról szóló értesítés kézhezvételét követő harmadik napon, de nem később mint a szavazást megelőző második napon lehet fellebbezést benyújtani.
+
+236. § (1) A névjegyzékkel kapcsolatos fellebbezést a megtámadott határozatot hozó helyi választási iroda vezetőjéhez kell benyújtani.
+
+(2) A helyi választási iroda vezetője a fellebbezésről legkésőbb a beérkezését követő tizenötödik napon, a választás kitűzését követően meghozott döntés esetén legkésőbb a beérkezését követő napon dönt.
+
+(3) Ha a helyi választási iroda vezetője a fellebbezésnek helyt ad, a névjegyzéket módosítja.
+
+(4) Ha a helyi választási iroda vezetője a fellebbezésnek nem ad helyt, a fellebbezést legkésőbb az elbírálására rendelkezésre álló határidő utolsó napján felterjeszti a járásbírósághoz.
+
+(5) A bíróság a fellebbezésről legkésőbb a beérkezését követő tizenötödik napon, a választás kitűzését követően meghozott döntés esetén a beérkezését követő három napon belül, de legkésőbb a szavazást megelőző napon dönt. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el.
+
+(6) Ha a bíróság a fellebbezést alaposnak tartja, elrendeli a névjegyzék módosítását, ellenkező esetben a fellebbezést elutasítja.
+
+(7) A Nemzeti Választási Iroda központi névjegyzékkel kapcsolatos kérelmet elbíráló döntése elleni fellebbezést a Nemzeti Választási Iroda elnökéhez kell benyújtani. A fellebbezés benyújtására és elbírálására a 235. § (1) bekezdése és a (2)–(6) bekezdés rendelkezéseit kell alkalmazni. Ha a Nemzeti Választási Iroda elnöke a fellebbezésnek nem ad helyt, a fellebbezést a Fővárosi Törvényszék bírálja el.
+
+237. § A fellebbezést el kell utasítani, ha azt a fellebbezés benyújtója a polgárok személyi és lakcím adatait tartalmazó nyilvántartás vagy a választójoggal nem rendelkező polgárok nyilvántartása adataival ellentétes tényekre alapozza.
+
+238. § A választási iroda vezetőjének döntését az érintettel és azzal, aki a fellebbezést benyújtotta, a bíróság határozatát a megtámadott határozatot hozó választási iroda vezetőjével is közölni kell.
+
+#### 103. A jelöltek, listák sorrendjének sorsolása elleni jogorvoslat
+
+239. § A 160. § szerinti sorsolás ellen nincs helye önálló jogorvoslatnak. A sorsolás törvényessége elleni jogorvoslat a szavazólap adattartalmának jóváhagyása elleni bírósági felülvizsgálati kérelembe foglalható.
+
+#### 104. A szavazólap adattartalmának jóváhagyása elleni jogorvoslat
+
+240. § (1) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos határozata ellen nincs helye fellebbezésnek.
+
+(2) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos határozata elleni bírósági felülvizsgálati kérelmet úgy kell benyújtani, hogy az legkésőbb a választási bizottság határozatának meghozatalát követő napon megérkezzen a megtámadott határozatot hozó választási bizottsághoz. A bírósági felülvizsgálati kérelmet a választási bizottság székhelye szerinti ítélőtábla, a Nemzeti Választási Bizottság esetén a Kúria bírálja el. A bíróság a bírósági felülvizsgálati kérelemről legkésőbb a felterjesztését követő napon dönt.
+
+#### 105. A választás eredménye elleni jogorvoslat
+
+241. § (1) A szavazatszámláló bizottság szavazóköri eredményt megállapító döntése ellen csak a választási bizottságnak a választási eredményt megállapító döntése elleni fellebbezéssel együtt van helye.
+
+(2) A választási bizottságnak a választás eredményét megállapító döntése ellen
+
+- a) a szavazatszámláló bizottság szavazóköri eredményt megállapító döntésének törvénysértő voltára, vagy
+- b) a szavazóköri eredmények összesítésére és a választási eredmény megállapítására vonatkozó szabályok megsértésére
+
+hivatkozással lehet fellebbezést benyújtani.
+
+(3) Ha a (2) bekezdés a) pontja alapján benyújtott fellebbezés elbírálása csak a szavazatok újraszámlálása útján lehetséges, a fellebbezést elbíráló választási bizottság, illetve a bírósági felülvizsgálati kérelmet elbíráló bíróság köteles a szavazatokat újraszámlálni. A szavazatok újraszámlálása esetén a fellebbezés, illetve a bírósági felülvizsgálati kérelem elbírálására rendelkezésre álló határidő hat napra nő, és a választási bizottság vagy a bíróság a választási irodák tagjainak közreműködését igénybe veheti.
+
+(4) Azt követően, hogy a szavazatszámláló bizottság megállapította a szavazóköri eredményt, a szavazatok újraszámlálására csak a (3) bekezdés alapján van lehetőség.
+
+#### 106. Jogorvoslat a választási szerv hallgatása miatt
+
+242. § (1) Ha a választási szerv eljárási kötelességének határidőn belül nem tesz eleget, a felettes választási szerv az erre irányuló kifogás megérkezésétől vagy a hivatalos tudomásszerzéstől számított három napon belül megállapítja a jogszabálysértés tényét, és
+
+- a) a mulasztó választási szervet az eljárás soron kívüli lefolytatására utasítja vagy
+- b) meghozza az elmulasztott döntést.
+
+(2) Ha a Nemzeti Választási Bizottság eljárási kötelességének határidőn belül nem tesz eleget, a Kúria az erre irányuló kifogás megérkezésétől számított három napon belül megállapítja a jogszabálysértés tényét, és a Nemzeti Választási Bizottságot az eljárás soron kívüli lefolytatására utasítja.
+
+## KÜLÖNÖS RÉSZ
+
+### XIII. Fejezet — AZ ORSZÁGGYŰLÉSI KÉPVISELŐK VÁLASZTÁSA
+
+243. § Az országgyűlési képviselők választásán e törvény I–XII. Fejezetét az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+#### 107. A választás kitűzése
+
+244. § (1) Az országgyűlési képviselők időközi választását – az országgyűlési egyéni választókerületi választási bizottság javaslatára figyelemmel – a Nemzeti Választási Bizottság tűzi ki.
+
+(2) Ha a választási bizottság vagy a bíróság a levélben szavazást megismételteti, a szavazás megismételtetéséről szóló határozatában az ismételt szavazást a megismételtetett szavazás napját követő negyvenedik és ötvenedik nap közötti időpontra tűzi ki.
+
+#### 108. A választási szervek
+
+245. § Az országgyűlési képviselők választásán a következő választási bizottságok működnek:
+
+- a) Nemzeti Választási Bizottság,
+- b) országgyűlési egyéni választókerületi választási bizottság,
+- c) szavazatszámláló bizottság (egy szavazókörös településen a helyi választási bizottság).
+
+#### 109. A szavazókörök kialakítása
+
+246. § Ha a település területén több országgyűlési egyéni választókerület található, a 78. § szerinti szavazókört abban az országgyűlési egyéni választókerületben kell kijelölni, amelyben a polgármesteri hivatal vagy a közös önkormányzati hivatal székhelye van.
+
+#### 110. A szavazóköri névjegyzék
+
+247. § (1) A kinyomtatott szavazóköri névjegyzék nem tartalmazza a külképviseleti névjegyzékben és a levélben szavazók névjegyzékében szereplő választópolgárok adatait sem.
+
+(2) A szavazóköri névjegyzék az átjelentkezéssel szavazó választópolgár adatai mellett a magyarországi lakcíme szerinti országgyűlési egyéni választókerület megjelölését is tartalmazza.
+
+(3) Az átjelentkezéssel szavazó választópolgár a mozgóurna iránti kérelemben a település területén lévő tartózkodási helyet jelölhet meg, ahova a mozgóurna kivitelét kéri.
+
+248. § Az értesítő, valamint a szavazóköri névjegyzék tartalmazza a választópolgár nemzetiségének megjelölését, ha a választópolgár legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján az országgyűlési képviselők választásának névjegyzékére is kiterjedő hatállyal szerepel nemzetiségi választópolgárként a központi névjegyzékben.
+
+249. § (1) Ha legkésőbb a szavazást megelőző második napon a választópolgár kérelmére
+
+- a) a választópolgár nemzetiséghez tartozását a választási iroda törli a központi névjegyzékből, vagy
+- b) a választási iroda úgy módosítja a választópolgár adatait a központi névjegyzékben, hogy nemzetiségi választópolgárként történt névjegyzékbe vételének hatálya az országgyűlési képviselők választásának névjegyzékére nem terjed ki,
+
+a szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell.
+
+(2) A választópolgár nemzetiségi adatát a Nemzeti Választási Iroda törli a szavazóköri névjegyzékből, ha az adott nemzetiség nem rendelkezik nemzetiségi listával.
+
+#### 111. Az átjelentkezés
+
+250. § (1) Az átjelentkezésre irányuló kérelmet az a lakcíme szerinti szavazóköri névjegyzékben szereplő választópolgár nyújthatja be, aki a szavazás napján Magyarország területén, de a magyarországi lakcíme szerinti szavazókörtől eltérő szavazókör területén tartózkodik.
+
+(2) Az átjelentkezésre irányuló kérelemnek a választás kitűzését követően, legkésőbb a szavazást megelőző második napon kell megérkeznie a helyi választási irodához.
+
+(3) Az átjelentkezésre irányuló kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell annak a településnek a megjelölését, ahol a választópolgár szavazni kíván.
+
+(4) A helyi választási iroda a kérelem alapján a választópolgárt törli a lakcíme szerinti szavazókör névjegyzékéből, egyidejűleg felveszi a (3) bekezdés szerint megjelölt település 78. § szerint kijelölt szavazókörének névjegyzékébe, egy szavazókörös településen a szavazókör névjegyzékébe.
+
+(5) Az átjelentkező választópolgár a szavazást megelőző második napon 16 óráig módosíthatja vagy visszavonhatja átjelentkezési kérelmét. A kérelemnek tartalmaznia kell a 92. § (1) bekezdés a) pontjában foglalt adatokat.
+
+#### 112. A megismételtetett szavazás névjegyzéke
+
+251. § Ha a választási bizottság vagy a bíróság megismételteti a szavazást a szavazókörben, az ismételt szavazáson nem szerepelnek a szavazóköri névjegyzékben azok sem, akik a megismételtetett szavazáson a külképviseleti névjegyzékben vagy a levélben szavazók névjegyzékében szerepeltek.
+
+#### 113. A jelölt bejelentése
+
+252. § (1) Az egyéni választókerületi jelöltet legkésőbb a szavazást megelőző harmincnegyedik napon kell bejelenteni.
+
+(2) Az egyéni választókerületi jelöltet az országgyűlési egyéni választókerületi választási bizottság veszi nyilvántartásba.
+
+#### 114. Az országos lista bejelentése
+
+253. § (1) Az országos listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
+
+(2) Az országos listát a Nemzeti Választási Bizottság veszi nyilvántartásba.
+
+254. § (1) A pártlista állításánál a jelölő szervezetnek a lista nyilvántartásba vételéig bejelentett egyéni választókerületi jelöltjei számát kell figyelembe venni, kivéve azt a jelöltet, akinek nyilvántartásba vételét az országgyűlési egyéni választókerületi választási bizottság elutasította.
+
+(2) A Nemzeti Választási Bizottság törli a nyilvántartásból a pártlistát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált egyéni választókerületi jelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
+
+255. § (1) A nemzetiségi lista ajánlására a 120. § (1)–(2) bekezdése, valamint a 121–128. § rendelkezéseit kell alkalmazni. A központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal szereplő választópolgár ajánlhat nemzetiségi listát.
+
+(2) A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor a nemzetiségi választópolgárként a szavazást megelőző negyvennyolcadik napon a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal szereplő választópolgárokat kell figyelembe venni.
+
+#### 115. A szavazólap adattartalma
+
+256. § (1) Külön szavazólap szolgál az egyéni választókerületi, az országos pártlistás és – nemzetiségenként – a nemzetiségi listás szavazásra.
+
+(2) A levélben szavazás szavazólapja a bélyegzőlenyomat elhelyezésére szolgáló területen a „levélben szavazás szavazólapja” körfeliratot tartalmazza,
+
+(3) A listák sorszámának sorsolásakor a pártlistákat és a nemzetiségi listákat együtt kell kezelni. Az országos pártlistás szavazólapon a pártlistákat az így kisorsolt sorrendjükben kell feltüntetni, de a szavazólapon a pártlistákat egytől induló folyamatos sorszámozással kell megjelölni.
+
+(4) A nemzetiségi önkormányzat által állított nemzetiségi lista szavazólapja tartalmazza a nemzetiség megnevezését is. A nemzetiségi lista szavazólapján nem kell a lista sorszámát feltüntetni.
+
+(5) A nemzetiségi önkormányzat által állított nemzetiségi lista szavazólapján a 6. melléklet a)–f) és k) pontja szerinti szöveget, valamint a nemzetiség megnevezését a nemzetiség nyelvén is fel kell tüntetni.
+
+(6) A nemzetiségi önkormányzat által állított nemzetiségi lista szavazólapján a jelölő szervezet kérésére a jelölő szervezet nevét, rövidített nevét, a jelölt kérésére a jelölt nevét a nemzetiség nyelvén is fel kell tüntetni.
+
+#### 116. A szavazás
+
+257. § (1) A szavazatszámláló bizottság a szavazóköri névjegyzék, illetve a mozgóurnát igénylő választópolgárok jegyzéke alapján a választópolgár részére egy egyéni választókerületi szavazólapot és egy pártlistás szavazólapot ad át. Az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként névjegyzékben szereplő választópolgár részére egy egyéni választókerületi szavazólapot és nemzetiségének listás szavazólapját adja át.
+
+(2) Az átjelentkezéssel szavazó választópolgár a lakcíme szerinti országgyűlési egyéni választókerület szavazólapján és az országos listás szavazólapon szavaz. A szavazólapok elhelyezésére szolgáló borítékon az országgyűlési egyéni választókerület megjelölése szerepel. A választópolgár a szavazólapokat a borítékba helyezi, és a borítékot lezárja.
+
+(3) A kijelölt szavazókör szavazatszámláló bizottsága a mozgóurnás szavazás lebonyolítását az átjelentkezéssel szavazó választópolgárok tekintetében a település egészére kiterjedő illetékességgel végzi.
+
+#### 117. A szavazatszámlálás
+
+258. § (1) A magyarországi lakcímmel nem rendelkező választópolgárok által levélben leadott szavazatok megszámlálásánál a Nemzeti Választási Bizottság, a Nemzeti Választási Iroda, a médiatartalom-szolgáltató képviselője, valamint a nemzetközi megfigyelő lehet jelen.
+
+(2) A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat az egyéni választókerületi és az országos listás választás tekintetében külön-külön kell alkalmazni.
+
+#### 118. A külképviseleti névjegyzék
+
+259. § (1) A külképviseleti névjegyzékbe való felvételére irányuló kérelmet a szavazóköri névjegyzékben szereplő, a szavazás napján külföldön tartózkodó választópolgár nyújthat be.
+
+(2) A külképviseleti névjegyzékbe való felvételre irányuló kérelemnek a választás kitűzését követően, legkésőbb a szavazást megelőző tizenhatodik napon kell megérkeznie.
+
+(3) A kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell
+
+- a) a kérelmező értesítési címét, ha a helyi választási iroda vezetőjének döntéséről szóló értesítés kézbesítését nem a nyilvántartott értesítési címére vagy a magyarországi lakcímére kéri,
+- b) annak a külképviseletnek a megjelölését, ahol a kérelmező a választójogát gyakorolni kívánja.
+
+260. § (1) A kérelem alapján a választási iroda a választópolgárt haladéktalanul felveszi a külképviseleti névjegyzékbe, egyidejűleg feltünteti a szavazóköri névjegyzéken a külképviseleti névjegyzékbe vételét.
+
+(2) A külképviseleti névjegyzék a 7. melléklet szerinti adatokat tartalmazza.
+
+261. § (1) A külképviseleti névjegyzékbe felvett választópolgár legkésőbb a magyarországi szavazást megelőző kilencedik napon módosíthatja a 259. § (3) bekezdés b) pontja szerinti adatot.
+
+(2) A külképviseleti névjegyzékbe felvett választópolgár legkésőbb a magyarországi szavazást megelőző kilencedik napon kérheti törlését a külképviseleti névjegyzékből.
+
+262. § A külképviseleti névjegyzékből törölni kell azt, akit a szavazóköri névjegyzékből törölnek.
+
+263. § A Nemzeti Választási Iroda a külképviseleti névjegyzék adatait oly módon továbbítja a külképviseletekre, hogy annak adatait csak a külképviseleti választási iroda ismerhesse meg. Ha a Nemzeti Választási Iroda a külképviseleti névjegyzék adatait elektronikus úton küldi meg a külképviseletnek, a külképviseleti választási iroda a külképviseleti névjegyzéket kinyomtatja és hitelesíti.
+
+264. § A külképviseleti névjegyzék adatait a szavazást követő kilencvenedik nap utáni első munkanapon törölni kell.
+
+#### 119. A levélben szavazók névjegyzéke
+
+265. § (1) A levélben szavazók névjegyzékébe való felvételére irányuló kérelmet a szavazóköri névjegyzékben szereplő, a szavazás napján külföldön tartózkodó választópolgár nyújthat be.
+
+(2) A levélben szavazók névjegyzékébe való felvételre irányuló kérelemnek a választás kitűzését követően,
+
+- a) ha a választópolgár a szavazási levélcsomag postai kézbesítését kéri, legkésőbb a szavazást megelőző tizedik napon,
+- b) ha a választópolgár a szavazási levélcsomagot személyesen vagy meghatalmazott útján a helyi választási irodában veszi át, legkésőbb a szavazást megelőző harmadik napon
+
+kell megérkeznie.
+
+(3) A levélben szavazók névjegyzékében szereplő választópolgár legkésőbb a szavazást megelőző harmadik napon kérheti törlését a levélben szavazók névjegyzékéből.
+
+(4) A levélben szavazók névjegyzékébe való felvételre irányuló kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell annak megjelölését, ha a szavazási levélcsomagot a lakcíme szerinti helyi választási irodában kívánja átvenni.
+
+266. § (1) A kérelem alapján a választási iroda a választópolgárt felveszi a levélben szavazók névjegyzékébe, egyidejűleg feltünteti a szavazóköri névjegyzéken a levélben szavazók névjegyzékébe vételét.
+
+(2) A Nemzeti Választási Iroda felveszi a levélben szavazók névjegyzékébe azt a magyarországi lakcímmel nem rendelkező választópolgárt, aki a legkésőbb a szavazást megelőző tizenötödik napon benyújtott kérelme alapján szerepel a központi névjegyzékben. A Nemzeti Választási Iroda feltünteti a központi névjegyzéken a választópolgárnak a levélben szavazók névjegyzékébe vételét.
+
+(3) A 86–88. § szerinti kérelem alapján a központi névjegyzékbe történt bejegyzést, annak módosítását vagy törlését a levélben szavazók névjegyzékén nem kell átvezetni.
+
+(4) A levélben szavazók névjegyzéke a 8. melléklet szerinti adatokat tartalmazza.
+
+267. § A levélben szavazók névjegyzékéből törölni kell
+
+- a) azt a magyarországi lakcímmel rendelkező választópolgárt, aki egyetlen szavazóköri névjegyzékben sem szerepel,
+- b) azt a magyarországi lakcímmel nem rendelkező választópolgárt, akit a központi névjegyzékből törölnek.
+
+268. § A levélben szavazók névjegyzékének adatait a szavazást követő kilencvenedik nap utáni első munkanapon törölni kell.
+
+#### 120. Szavazás a külképviseleten
+
+269. § (1) A külképviseleti szavazás akkor lehetséges, ha azt a fogadó állam nem ellenzi.
+
+(2) A külképviseleten a magyarországi szavazás napján, helyi idő szerint 6 és 19 óra között lehet szavazni. Azokon a külképviseleteken, ahol az időeltolódás a közép-európai időhöz képest –1 vagy –2 óra, a helyi idő szerinti 6 óra és a közép-európai idő szerinti 19 óra között lehet szavazni. Az amerikai kontinensen létesített külképviseleteken a magyarországi szavazást megelőző napon, helyi idő szerint 6 és 19 óra között lehet szavazni.
+
+(3) A külképviseleti választási iroda – a szavazatszámlálás kivételével – ellátja a szavazatszámláló bizottság részére megállapított feladatokat. A külképviseleti választási iroda vezetője dönt a szavazás folyamán felmerült vitás kérdésekben.
+
+(4) A külképviseleti névjegyzékbe felvett választópolgár a külképviseleten, vagy ha a külképviselet épülete nem alkalmas a szavazás lebonyolítására, a külképviselet által biztosított egyéb helyiségben szavazhat. A szavazás céljára szükség esetén több helyiséget kell biztosítani, továbbá a külképviseleti névjegyzékben szereplő választópolgárok folyamatos szavazását lehetővé tevő számú szavazófülkét kell kialakítani és urnát kell felállítani.
+
+(5) A szavazás megkezdésétől a szavazás lezárásáig a külképviseleti választási iroda tagja, a médiatartalom-szolgáltató képviselője, valamint a külképviseleti és a nemzetközi megfigyelő tartózkodhat a szavazóhelyiségben.
+
+(6) A szavazás felfüggesztésének tényéről a Nemzeti Választási Irodát a szavazás törvényes folytatásának biztosítása érdekében haladéktalanul értesíteni kell.
+
+(7) A külképviseleti választási iroda vezetője az urnába ellenőrző lapot helyez, amely tartalmazza az ellenőrző lap elhelyezésének időpontját, valamint a külképviseleti választási iroda jelen levő tagjainak és az elsőként szavazó választópolgárnak az aláírását.
+
+270. § A külképviseleti választási iroda – a személyazonosság megállapítására alkalmas igazolvány alapján – megállapítja a szavazni kívánó polgár személyazonosságát és azt, hogy szerepel-e a külképviseleti névjegyzékben. Vissza kell utasítani azt, aki személyazonosságát a fenti módon nem tudja igazolni, vagy nem szerepel a külképviseleti névjegyzékben.
+
+271. § (1) A külképviseleten szavazó választópolgár a lakcíme szerinti országgyűlési egyéni választókerület szavazólapján és az országos listás szavazólapon szavaz. A szavazólapok elhelyezésére szolgáló borítékon az országgyűlési egyéni választókerület megjelölése szerepel.
+
+(2) A választópolgár a szavazólapokat a borítékba helyezi, és a borítékot lezárja.
+
+272. § Ha a külképviseleten a szavazás lezárását megelőző óráig egyetlen választópolgár sem szavaz, az elsőként szavazó választópolgár a külképviseleti választási iroda tagja is lehet.
+
+273. § A külképviseleti választási iroda a szavazás lezárását követően az urnában – annak felnyitása nélkül – elhelyezi a szavazás befejezéséről kiállított jegyzőkönyvet, és az urnát lezárja úgy, hogy ne lehessen abba szavazólapot elhelyezni vagy abból szavazólapot eltávolítani.
+
+#### 121. A szavazási levélcsomag
+
+274. § A levélben szavazók névjegyzékébe felvett választópolgár levélben szavazhat.
+
+275. § (1) A szavazási levélcsomag tartalmazza
+
+- a) a levélben szavazás szavazólapját,
+- b) a választópolgár azonosításához szükséges nyilatkozat nyomtatványát (a továbbiakban: azonosító nyilatkozat),
+- c) a levélben szavazás szavazólapjának borítékját (a továbbiakban: belső boríték),
+- d) a belföldi postára adás esetére bérmentesített válaszborítékot,
+- e) a szavazás módjáról szóló tájékoztatást.
+
+(2) A szavazási levélcsomag válaszborítékjának címzése
+
+- a) a magyarországi lakcímmel rendelkező választópolgár lakcíme szerinti országgyűlési egyéni választókerületi választási iroda címét,
+- b) a magyarországi lakcímmel nem rendelkező választópolgár esetében a Nemzeti Választási Iroda címét
+
+tartalmazza.
+
+(3) A levélben szavazás listás szavazólapjának mérete és kialakítása eltérhet a szavazóhelyiségben használt szavazólaptól. A levélben szavazás szavazólapja bélyegzőlenyomat nélkül érvényes.
+
+276. § Ha a választópolgár rendelkezik magyarországi lakcímmel, a lakcíme szerinti országgyűlési egyéni választókerület szavazólapján és az országos listás szavazólapon szavaz.
+
+#### 122. A szavazási levélcsomag kézbesítése
+
+277. § (1) A levélben szavazók névjegyzékében szereplő választópolgár számára – annak kivételével, aki a szavazási levélcsomag személyes átvételét kérte – a Nemzeti Választási Iroda a levélben szavazás szavazólapjának elkészültét követően haladéktalanul megküldi a szavazási levélcsomagot.
+
+(2) Az a választópolgár, aki a szavazási levélcsomag személyes átvételét kérte, a levélben szavazás szavazólapjának elkészültét követően, legkésőbb a szavazást megelőző harmadik napon veheti át a szavazási levélcsomagot a lakcíme szerinti helyi választási irodában.
+
+#### 123. Szavazás levél útján
+
+278. § (1) A választópolgár a szavazási levélcsomagban megkapott szavazólap kitöltését követően a kitöltött szavazólapot a belső borítékba helyezi, és azt lezárja.
+
+(2) A választópolgár az azonosító nyilatkozatot kitölti és aláírja.
+
+(3) A lezárt belső borítékot és a kitöltött azonosító nyilatkozatot a választópolgár a válaszborítékba zárja.
+
+#### 124. A levélben leadott szavazási irat eljuttatása a választási irodához
+
+279. § (1) A levélben szavazók névjegyzékében szereplő, magyarországi lakcímmel rendelkező választópolgár a szavazatát tartalmazó válaszborítékot
+
+- a) a lakcíme szerinti országgyűlési egyéni választókerületi választási irodába postai úton juttathatja el úgy, hogy a szavazást megelőző napon 24 óráig megérkezzen, vagy
+- b) a magyarországi szavazást megelőző tizenöt napon belül minden munkanapon 9 és 16 óra között, valamint a külképviseleti szavazás ideje alatt eljuttathatja bármely külképviseleti választási irodába.
+
+(2) A levélben szavazók névjegyzékében szereplő, magyarországi lakcímmel nem rendelkező választópolgár a szavazatát tartalmazó válaszborítékot
+
+- a) a Nemzeti Választási Irodába juttathatja el úgy, hogy a szavazást megelőző napon 24 óráig megérkezzen,
+- b) a magyarországi szavazást megelőző tizenöt napon belül minden munkanapon 9 és 16 óra között, valamint a külképviseleti szavazás ideje alatt eljuttathatja bármely külképviseleti választási irodába, vagy
+- c) a magyarországi szavazásra rendelkezésre álló időszakban eljuttathatja bármely országgyűlési egyéni választókerületi választási irodába.
+
+280. § (1) A szavazatot tartalmazó válaszboríték belföldön bérmentesítés nélkül feladható.
+
+(2) A postai szolgáltató a legkésőbb a szavazást megelőző harmadik napon belföldön felvett vagy átvett válaszborítékot a szavazást megelőző napon 24 óráig kézbesíti a Nemzeti Választási Iroda részére.
+
+281. § (1) A külképviseleten a külképviseleti választási iroda, az országgyűlési egyéni választókerületi székhely településen az országgyűlési egyéni választókerületi választási iroda biztosítja a szavazatot tartalmazó válaszboríték leadásának lehetőségét.
+
+(2) A válaszborítékot az iroda folyamatos felügyelete alatt álló urnába lehet bedobni. A külképviseleten az urnát 16 és 9 óra között biztonságos helyen kell tárolni.
+
+(3) Az országgyűlési egyéni választókerületi székhely településen az országos listát állító jelölő szervezetek által megbízott megfigyelők jelen lehetnek az urna felügyelete során. A megfigyelőkre az 5. §-t kell alkalmazni.
+
+#### 125. A szavazatok továbbítása
+
+282. § (1) A szavazatszámláló bizottság az átjelentkezéssel szavazó választópolgár által leadott szavazatok borítékját nem bontja fel, hanem külön szállítóborítékba zárva a helyi választási irodához szállítja. A szállítóborítékon fel kell tüntetni a benne lévő borítékok számát.
+
+(2) A helyi választási iroda a szállítóborítékot a szavazást követő napon az országgyűlési egyéni választókerületi választási irodának adja át.
+
+283. § (1) Az országgyűlési egyéni választókerületi választási iroda a nála levélben leadott szavazatokat tartalmazó válaszborítékokat szállítóborítékba zárja.
+
+(2) Az országgyűlési egyéni választókerületi választási iroda a szavazást követő napon a Nemzeti Választási Irodához szállítja a nála levélben leadott szavazatokat tartalmazó válaszborítékokat, valamint a helyi választási irodáktól átvett szállítóborítékokat.
+
+284. § A külképviseleti választási iroda a külképviseleten leadott szavazatokat tartalmazó lezárt urnát, valamint a külképviseleten levélben leadott szavazatokat tartalmazó válaszborítékokat a magyarországi szavazást követő negyedik nap 24 óráig a Nemzeti Választási Irodához szállítja. Az ezt követően beérkező szavazatokat figyelmen kívül kell hagyni.
+
+285. § (1) A Nemzeti Választási Iroda valamennyi urna beérkezését követően, de legkésőbb a magyarországi szavazást követő ötödik napon a külképviseleteken leadott szavazatokat tartalmazó urnákat felbontja.
+
+(2) Ha az urna határidőn túl vagy nem a 273. §-ban meghatározott módon lezárt állapotban érkezik meg a Nemzeti Választási Irodához, vagy az urnában nem található az ellenőrző lap, az abban lévő szavazatokat az eredmény megállapításánál nem lehet figyelembe venni, az urnát – tartalmával együtt – a szavazást követő kilencvenedik nap utáni első munkanapon meg kell semmisíteni. Arról, hogy az urna nem a 273. §-ban meghatározott módon lezárt állapotban van, a Nemzeti Választási Bizottság dönt.
+
+286. § Ha a külképviseletről érkezett urnában vagy az átjelentkezéssel szavazó választópolgárok szavazatai között lezáratlan vagy olyan boríték van, amely az egyéni választókerület megjelölését nem tartalmazza, az le nem adott szavazatnak számít, és külön kell csomagolni.
+
+287. § (1) A Nemzeti Választási Iroda a külképviseletekről érkezett urnákban található lezárt borítékokat, valamint az átjelentkezéssel szavazó választópolgárok szavazatait tartalmazó lezárt borítékokat országgyűlési egyéni választókerületenként szétválogatja és zárt csomagba helyezi, amelyen fel kell tüntetni az abban elhelyezett borítékok számát. A Nemzeti Választási Iroda a csomagban elhelyezett borítékok számát külön jegyzőkönyvben rögzíti, amelynek egy példányát szintén a csomagba helyezi, és azt lezárja. A csomagot a Nemzeti Választási Iroda elnöke aláírásával és bélyegzőlenyomattal hitelesíti.
+
+(2) A Nemzeti Választási Iroda a csomagot, valamint a külképviseleteken levélben leadott, az országgyűlési egyéni választókerületi választási iroda részére megcímzett válaszborítékokat az országgyűlési egyéni választókerületi választási iroda vezetőjének vagy az általa megbízott tagjának adja át.
+
+#### 126. A levélben leadott szavazási iratok ellenőrzése
+
+288. § (1) A magyarországi lakcímmel rendelkező választópolgárok szavazatát tartalmazó szavazási iratok ellenőrzését az országgyűlési egyéni választókerületi választási iroda, a magyarországi lakcímmel nem rendelkező választópolgárok szavazatát tartalmazó szavazási iratok ellenőrzését a Nemzeti Választási Iroda végzi.
+
+(2) A szavazási iratok ellenőrzését a Nemzeti Választási Iroda legkorábban a szavazást megelőző hatodik napon, az országgyűlési egyéni választókerületi választási iroda legkorábban a szavazást követő napon kezdheti meg.
+
+289. § (1) A választási iroda megvizsgálja a határidőben beérkezett szavazási iratokat.
+
+(2) A szavazási iratok vizsgálata során a választási iroda a beérkezett szavazási iratot – a szavazólapot tartalmazó belső boríték felbontása nélkül – ellenőrzi. Az azonosító nyilatkozat tartalmát a választási iroda a levélben szavazók névjegyzéke alapján ellenőrzi.
+
+(3) Érvénytelen a szavazási irat, ha
+
+- a) a válaszboríték nincs lezárva,
+- b) a válaszborítékból hiányzik az azonosító nyilatkozat vagy a belső boríték,
+- c) a válaszborítékban – ugyanazon választáson – több belső boríték van,
+- d) a belső boríték nincs lezárva,
+- e) a nyilatkozat hiányosan tartalmazza a választópolgár adatait, vagy nem tartalmazza a választópolgár aláírását,
+- f) a polgár nem szerepel a levélben szavazók névjegyzékében,
+- g) a választópolgár már leadott érvényes szavazási iratot,
+- h) a választópolgárnak az azonosító nyilatkozaton feltüntetett adatai eltérnek a levélben szavazók névjegyzékében szereplő adataitól, kivéve az időközben történt név-, illetve lakcímváltozást,
+- i) a szavazási irat elkésett.
+
+290. § (1) Ha a szavazási irat a 289. § (3) bekezdése szerint érvénytelen, ennek okát a válaszborítékon fel kell tüntetni, s a válaszboríték tartalmát – a belső boríték felnyitása nélkül – vissza kell helyezni a válaszborítékba.
+
+(2) Az érvénytelen szavazási iratot tartalmazó válaszborítékokat külön kell csomagolni.
+
+291. § (1) Ha a szavazási irat a 289. § (3) bekezdése szerint nem érvénytelen, a választási iroda a levélben szavazók névjegyzékén megjelöli, hogy a választópolgár érvényes szavazási iratot adott le.
+
+(2) A választási iroda az érvényes szavazási iratokban lévő belső borítékokat – azok felnyitása nélkül – a megszámlálásukig külön tárolja.
+
+(3) Az érvényes szavazási iratokban lévő azonosító nyilatkozatokat külön kell csomagolni.
+
+(4) Az országgyűlési egyéni választókerületi választási iroda a borítékokat külön csomagolja. A csomagban elhelyezett borítékok számát külön jegyzőkönyvben rögzíti, amelynek egy példányát szintén a csomagba helyezi, és azt lezárja. A csomagot az országgyűlési egyéni választókerületi választási iroda vezetője aláírásával és bélyegzőlenyomattal hitelesíti.
+
+#### 127. A szavazatok megszámlálása
+
+292. § (1) Az országgyűlési egyéni választókerületi választási bizottság a szavazást megelőző 8. napig kijelöli a külképviseleteken leadott szavazatok, az átjelentkezéssel szavazó választópolgárok által leadott szavazatok, valamint a választókerületben lakcímmel rendelkező választópolgárok által levélben leadott szavazatok megszámlálására illetékes, az országgyűlési egyéni választókerület székhely településén működő szavazatszámláló bizottságot, amely nem lehet a 78. § szerint kijelölt szavazókör szavazatszámláló bizottsága.
+
+(2) Az (1) bekezdés szerinti szavazatszámláló bizottság a szavazás lezárásakor lezárja az urnát úgy, hogy ne lehessen abba szavazólapot elhelyezni vagy abból szavazólapot eltávolítani. Az urnát a szavazatszámláló bizottság az országgyűlési egyéni választókerületi választási iroda vezetőjének adja át, aki gondoskodik annak biztonságos őrzéséről.
+
+(3) Az országgyűlési egyéni választókerületi választási iroda vezetője legkésőbb a magyarországi szavazást követő hatodik napon az (1) bekezdés szerinti szavazatszámláló bizottság elnökének átadja
+
+- a) az urnát,
+- b) a 287. § (1) bekezdése szerinti csomagot, valamint
+- c) a 291. § (4) bekezdése szerinti csomagot.
+
+(4) Az (1) bekezdés szerinti szavazatszámláló bizottság a csomagokban lévő borítékokat – azok felbontása nélkül – összekeveri a szavazókörben leadott szavazatokat tartalmazó borítékokkal, és a XI. Fejezetben a szavazatszámláló bizottság részére megállapított feladatokat haladéktalanul elvégzi.
+
+293. § A magyarországi lakcímmel nem rendelkező választópolgárok levélben leadott szavazatait a Nemzeti Választási Bizottság felügyelete mellett a Nemzeti Választási Iroda számlálja meg. A számlálást nem lehet megkezdeni a szavazás napján 19 órát megelőzően.
+
+#### 128. A választás eredményének megállapítása
+
+294. § (1) Az egyéni választókerületi szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda az országgyűlési egyéni választókerületi választási irodához továbbítja.
+
+(2) Az országgyűlési egyéni választókerületi választási bizottság a szavazóköri jegyzőkönyvek alapján, legkésőbb a szavazást követő hatodik napon megállapítja a választás egyéni választókerületi eredményét. Az országgyűlési egyéni választókerületi választási iroda a választás egyéni választókerületi eredményéről kiállított jegyzőkönyv egy példányát – annak jogerőre emelkedését követően haladéktalanul – a Nemzeti Választási Irodához juttatja el.
+
+295. § A magyarországi lakcímmel nem rendelkező választópolgárok levélben szavazásának eredményét a Nemzeti Választási Bizottság állapítja meg.
+
+296. § (1) Az országos listás szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda a Nemzeti Választási Irodához juttatja el.
+
+(2) A Nemzeti Választási Bizottság
+
+- a) az országos listás szavazás eredményéről kiállított szavazóköri jegyzőkönyvek,
+- b) a levélben szavazás eredményét megállapító jegyzőkönyv, valamint
+- c) a választás egyéni választókerületi eredményéről kiállított jegyzőkönyvek
+
+alapján, legkésőbb a szavazást követő tizenkilencedik napon megállapítja a választás országos listás eredményét.
+
+#### 129. A jogorvoslat
+
+297. § (1) Az országgyűlési egyéni választókerületi választási bizottság dönt
+
+- a) a szavazatszámláló bizottság tevékenysége, döntése elleni kifogásról, valamint a szavazóhelyiségben elkövetett egyéb cselekménnyel kapcsolatos kifogásról,
+- b) minden olyan kifogásról, amely kifejezetten az egyéni választókerületi választáshoz kapcsolódik.
+
+(2) A Nemzeti Választási Bizottság dönt
+
+- a) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja alá,
+- b) az országgyűlési egyéni választókerületi választási bizottság döntése elleni fellebbezésről.
+
+#### 130. A választás eredményének közzététele
+
+298. § A Nemzeti Választási Bizottság a választás eredményének jogerőssé válását követően a Magyar Közlönyben közzéteszi a választás eredményéről készült közleményét.
+
+#### 131. A megbízólevél
+
+299. § A Nemzeti Választási Bizottság a nemzetiségi szószóló részére is átadja a megbízólevelet.
+
+#### 132. Időközi választás
+
+300. § (1) Az időközi választáson a magyarországi lakcímmel rendelkező, de a szavazás napján külföldön tartózkodó választópolgár csak levél útján szavazhat, a válaszborítékot csak postai úton juttathatja el az országgyűlési egyéni választókerületi választási irodába.
+
+(2) Az időközi választáson csak az országgyűlési egyéni választókerületben lévő szavazókörbe lehet átjelentkezni.
+
+### XIV. Fejezet — A HELYI ÖNKORMÁNYZATI KÉPVISELŐK ÉS POLGÁRMESTEREK VÁLASZTÁSA
+
+301. § A helyi önkormányzati képviselők és polgármesterek választásán e törvény I–XII. Fejezetét az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+#### 133. A választás kitűzése
+
+302. § (1) A választást úgy kell kitűzni, hogy a szavazás napja a kitűzés napját követő nyolcvanadik és századik nap közé essen.
+
+(2) A települési önkormányzati képviselők és a polgármester időközi választását a helyi választási bizottság, a megyei, illetve a fővárosi közgyűlés és a főpolgármester időközi választását a területi választási bizottság tűzi ki.
+
+#### 134. A választási eljárás költségei
+
+303. § A képviselő-testület, közgyűlés feloszlásának kimondása vagy feloszlatása miatt tartott időközi választás előkészítésének és lebonyolításának költségeit a helyi önkormányzat költségvetéséből kell biztosítani.
+
+#### 135. A választási szervek
+
+304. § A helyi önkormányzati képviselők és polgármesterek választásán a következő választási bizottságok működnek:
+
+- a) Nemzeti Választási Bizottság,
+- b) területi választási bizottság,
+- c) helyi választási bizottság,
+- d) szavazatszámláló bizottság.
+
+#### 136. Az uniós állampolgár jelölt bejelentése
+
+305. § Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentéséhez csatolni kell a jelölt nyilatkozatát arról is, hogy az állampolgársága szerinti tagállamban nem áll olyan jogszabályi, bírósági vagy más hatósági rendelkezés hatálya alatt, amely szerint nem választható.
+
+#### 137. A mandátumok számának megállapítása
+
+306. § A helyi választási iroda, illetve a területi választási iroda vezetője az általános választást megelőző évben június 30-ig határozatban állapítja meg a képviselő-testület, illetve a közgyűlés soron következő általános választáson megválasztandó tagjainak számát.
+
+#### 138. A szavazókörök kialakítása
+
+307. § A tízezernél több lakosú településen a 78. § szerinti szavazókört abban az egyéni választókerületben kell kijelölni, amelyben a polgármesteri hivatal vagy a közös önkormányzati hivatal székhelye van.
+
+### XV. Fejezet — A NEMZETISÉGI ÖNKORMÁNYZATI KÉPVISELŐK VÁLASZTÁSA
+
+308. § A nemzetiségi önkormányzati képviselők választásán e törvény I–XII. Fejezetét, továbbá a 274. §, a 275. §, a 277. §, a 278. § és a 289–291. § rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+#### 139. A választás kitűzése
+
+309. § (1) A nemzetiségi önkormányzati képviselők általános választását a Nemzeti Választási Bizottság legkésőbb a szavazás napja előtti hetvenötödik napon, a helyi önkormányzati képviselők és polgármesterek általános választásának napjára tűzi ki.
+
+(2) A települési nemzetiségi önkormányzati képviselők időközi választását a helyi választási bizottság, a területi nemzetiségi önkormányzati képviselők időközi választását a területi választási bizottság, az országos nemzetiségi önkormányzati képviselők időközi választását a Nemzeti Választási Bizottság tűzi ki.
+
+#### 140. A választási eljárás költségei
+
+310. § Az időközi választás előkészítésének és lebonyolításának költségeit a nemzetiségi önkormányzat költségvetéséből kell biztosítani, ha az időközi választást azért kell megtartani, mert
+
+- a) az általános választást követően az önkormányzat nem alakult meg,
+- b) a képviselő-testületet, közgyűlést feloszlatták,
+- c) a képviselő-testület, közgyűlés kimondta feloszlását.
+
+#### 141. A választási szervek
+
+311. § (1) A nemzetiségi önkormányzati képviselők választásán a következő választási bizottságok működnek:
+
+- a) Nemzeti Választási Bizottság,
+- b) területi választási bizottság,
+- c) helyi választási bizottság,
+- d) szavazatszámláló bizottság.
+
+(2) A választási bizottságba a jelölő szervezet nem bízhat meg tagot.
+
+(3) A szavazatszámláló bizottságot a helyi választási iroda vezetője a póttagok közül a szükséges számban kiegészíti, ha a nemzetiségi szavazókör névjegyzékében lévő választópolgárok száma meghaladja a kilencszázat.
+
+#### 142. A szavazókör kialakítása
+
+312. § Valamennyi nemzetiség számára közös szavazókör szolgál.
+
+#### 143. A névjegyzék
+
+313. § A választópolgár azon településen szerepelhet a nemzetiségi szavazóköri névjegyzékben, ahol a helyi önkormányzati képviselők és polgármesterek választásának szavazóköri névjegyzékében szerepel vagy – időközi választás esetén – szerepelhet.
+
+314. § Az értesítő, az ajánlószelvény, valamint a szavazóköri névjegyzék a nemzetiség megnevezését is tartalmazza.
+
+315. § Azon nemzetiség választópolgárát, amelynek települési nemzetiségi önkormányzati választását a Nemzeti Választási Bizottság nem tűzte ki, vagy amelynek választását jelöltek hiányában nem lehet megtartani, a helyi választási iroda felveszi a levélben szavazók névjegyzékébe. Az ilyen választópolgár számára megküldött értesítő a 115. § (3) bekezdés e) és f) pontja szerinti adatot nem tartalmazza.
+
+#### 144. A jelölt- és listaállításhoz szükséges ajánlások számának megállapítása
+
+316. § A jelölt, lista állításához szükséges ajánlások számát a választást kitűző határozatban, egész számra felfelé kerekítve kell megállapítani.
+
+#### 145. A nemzetiségi szervezet bejelentése
+
+317. § (1) A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság – amelynél a jelölő szervezetet bejelentették – veszi nyilvántartásba. Időközi választáson a jelölt, illetve lista nyilvántartásba vételére hatáskörrel rendelkező választási bizottságnál kell bejelenteni a jelölő szervezetet.
+
+(2) A jelölő szervezet bejelentéséhez csatolni kell az alapszabályát, amely bizonyítja, hogy az adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesület.
+
+#### 146. A jelölt bejelentése
+
+318. § (1) A települési nemzetiségi önkormányzati jelöltet legkésőbb a szavazást megelőző harmincnegyedik napon kell bejelenteni.
+
+(2) A települési nemzetiségi önkormányzati jelöltet a helyi választási bizottság veszi nyilvántartásba.
+
+(3) A jelöltnek arról is nyilatkoznia kell, hogy
+
+- a) a nemzetiség képviseletét vállalja,
+- b) a választást megelőző tíz évben nemzetiségi önkormányzati képviselők általános vagy időközi választásán nem volt más nemzetiség önkormányzatának jelöltje, és
+- c) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+
+#### 147. A lista bejelentése
+
+319. § (1) A területi és az országos nemzetiségi önkormányzati választáson állított listát legkésőbb a szavazást megelőző harmincharmadik napon kell bejelenteni.
+
+(2) A területi nemzetiségi önkormányzati választáson állított listát és az azon szereplő jelölteket a területi választási bizottság, az országos nemzetiségi önkormányzati választáson állított listát és az azon szereplő jelölteket a Nemzeti Választási Bizottság veszi nyilvántartásba.
+
+(3) A 318. § (3) bekezdésének rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
+
+320. § (1) A lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – települési nemzetiségi önkormányzati jelöltjeinek számát kell figyelembe venni, kivéve azt a jelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
+
+(2) A választási bizottság törli a nyilvántartásból a listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált települési nemzetiségi önkormányzati jelöltjeinek száma együttesen nem éri el a nemzetiségek jogairól szóló törvényben foglalt minimumot.
+
+#### 148. A szavazólap adattartalma
+
+321. § (1) Külön szavazólap szolgál a települési, a területi és az országos nemzetiségi önkormányzat megválasztására.
+
+(2) A szavazólap tartalmazza a nemzetiség megnevezését is.
+
+(3) A szavazólapon az 5. mellékelt a)–f) és k) pontja, illetve a 6. melléklet a)–f) és k) pontja szerinti szöveget, valamint a nemzetiség megnevezését a nemzetiség nyelvén is fel kell tüntetni.
+
+(4) A szavazólapon a jelölő szervezet kérésére a jelölő szervezet nevét, rövidített nevét, a jelölt kérésére a nevét a nemzetiség nyelvén is fel kell tüntetni.
+
+#### 149. A szavazási levélcsomag eljuttatása a levélben szavazók névjegyzékében szereplő választópolgárok számára
+
+322. § (1) A helyi választási iroda a szavazási levélcsomagban megküldött belső borítékon feltünteti a nemzetiség megnevezését.
+
+(2) A választópolgár részére a Nemzeti Választási Iroda küldi meg a szavazási levélcsomagot.
+
+(3) Az a választópolgár, aki a szavazási levélcsomag személyes átvételét kérte, a levélben szavazás szavazólapjának elkészültét követően, legkésőbb a szavazást megelőző harmadik napon veheti át a szavazási levélcsomagot a lakcíme szerinti helyi választási irodában.
+
+#### 150. Szavazás
+
+323. § (1) Ha a településen tartanak települési nemzetiségi önkormányzati választást, a különböző, települési nemzetiségi önkormányzati választásban érintett nemzetiségek számára – a területi és az országos nemzetiségi önkormányzati választásra is – közös nemzetiségi szavazóhelyiség szolgál.
+
+(2) A nemzetiségi szavazóhelyiséget úgy kell kialakítani, hogy a fogyatékossággal élő választópolgárok számára akadálymentes legyen.
+
+(3) A levélben szavazók névjegyzékében szereplő választópolgár a szavazatát tartalmazó válaszborítékot a lakcíme szerinti területi választási irodába postai úton juttathatja el úgy, hogy a szavazást megelőző napon 24 óráig megérkezzen.
+
+#### 151. A levélben leadott szavazási iratok ellenőrzése
+
+324. § (1) A szavazási iratok ellenőrzését a területi választási iroda legkorábban a szavazást követő napon kezdheti meg.
+
+(2) A szavazási irat abban az esetben is érvénytelen, ha a belső borítékon nincs feltüntetve a nemzetiség megnevezése.
+
+#### 152. A szavazatszámlálás nyilvánossága
+
+325. § A levélben leadott szavazatok megszámlálásánál a számlálást végző választási bizottság, a választási iroda, a médiatartalom-szolgáltató képviselője, valamint a nemzetközi megfigyelő lehet jelen.
+
+#### 153. A szavazatszámlálás
+
+326. § A szavazatszámlálásra és a jegyzőkönyvek elkészítésére vonatkozó szabályokat nemzetiségenként, valamint a települési, a területi és az országos nemzetiségi választás tekintetében külön-külön kell alkalmazni.
+
+#### 154. A levélben leadott szavazatok megszámlálása
+
+327. § A levélben szavazók névjegyzékében szereplő választópolgárok területi és országos nemzetiségi önkormányzati választásra leadott szavazatainak megszámlálását és a levélben szavazás eredményének megállapítását a területi választási bizottság végzi.
+
+#### 155. A választás eredményének megállapítása
+
+328. § A települési nemzetiségi önkormányzati választás eredményét a helyi választási bizottság állapítja meg.
+
+329. § (1) A területi és az országos nemzetiségi önkormányzati választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig eljuttatja a területi választási irodához.
+
+(2) A területi választási bizottság a szavazóköri jegyzőkönyvek és a levélben szavazás eredményét megállapító jegyzőkönyv alapján megállapítja a területi nemzetiségi önkormányzati választás eredményét.
+
+(3) A területi választási bizottság a szavazóköri jegyzőkönyvek és a levélben szavazás eredményét megállapító jegyzőkönyv alapján megállapítja az országos nemzetiségi önkormányzati választás területi részeredményét.
+
+(4) A Nemzeti Választási Bizottság a területi választási bizottságoknak az országos nemzetiségi önkormányzati választás területi részeredményét megállapító jegyzőkönyvei alapján megállapítja az országos nemzetiségi önkormányzati választás eredményét.
+
+#### 156. A jogorvoslat
+
+330. § (1) A helyi választási bizottság dönt
+
+- a) a szavazatszámláló bizottság tevékenysége, döntése elleni kifogásról, valamint a szavazóhelyiségben elkövetett egyéb cselekménnyel kapcsolatos kifogásról,
+- b) minden olyan kifogásról, amely kifejezetten a települési nemzetiségi önkormányzati választáshoz kapcsolódik.
+
+(2) A területi választási bizottság dönt
+
+- a) minden olyan kifogásról, amely kifejezetten a területi nemzetiségi önkormányzati választáshoz kapcsolódik,
+- b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja alá, és az elkövetés helye a területi választási bizottság illetékességi területén található,
+- c) a helyi választási bizottság döntése elleni fellebbezésről.
+
+(3) A Nemzeti Választási Bizottság dönt
+
+- a) minden olyan kifogásról, amely kifejezetten az országos nemzetiségi önkormányzati választáshoz kapcsolódik,
+- b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja vagy a (2) bekezdés a) pontja alá, és az elkövetés helye nem határozható meg,
+- c) a területi választási bizottság döntése elleni fellebbezésről.
+
+### XVI. Fejezet — Az EURÓPAI PARLAMENT TAGJAINAK VÁLASZTÁSA
+
+331. § Az Európai Parlament tagjainak választásán e törvény I–XII. Fejezetét, a 244. § (2) bekezdése, a 247. § (1) és (3) bekezdése, a 250. §, a 251. §, a 256. § (2) bekezdése, a 257. § (3) bekezdése, a 258. § (1) bekezdése, a 259–265. §, a 266. § (1) és (3) bekezdése, a 267–270. §, a 271. § (2) bekezdése, a 272–274. §, a 275. § (1) és (3) bekezdése, a 277. §, a 278. §, a 280. §, a 281. §, a 284–286. §, a 288. § (2) bekezdése, a 289. §, a 290. §, a 291. § (1)–(3) bekezdése, valamint a 298. § rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+#### 157. A választás kitűzése
+
+332. § (1) A választást a helyi önkormányzati képviselők és polgármesterek általános választásának kitűzésével együtt kell kitűzni.
+
+(2) A választást az Európai Unió által meghatározott időszakon belüli vasárnapra kell kitűzni. Ha az Európai Unió által meghatározott időszakon belüli vasárnap a munka törvénykönyve szerinti munkaszüneti napra, húsvét- vagy pünkösdvasárnapra esik, az Európai Parlament tagjainak választását, a helyi önkormányzati képviselők és polgármesterek általános választását és a nemzetiségi önkormányzati képviselők általános választását az Európai Unió által meghatározott időszakon belüli másik napra kell kitűzni.
+
+#### 158. A választási szervek
+
+333. § Az Európai Parlament tagjainak választásán a következő választási bizottságok működnek:
+
+- a) Nemzeti Választási Bizottság,
+- b) területi választási bizottság,
+- c) helyi választási bizottság,
+- d) szavazatszámláló bizottság.
+
+#### 159. Az Európai Unió más tagállama állampolgárának névjegyzékbe vétele iránti kérelem
+
+334. § (1) Az Európai Unió más tagállama állampolgárának az Európai Parlament tagjainak választására történő névjegyzékbe vétel iránti kérelmének tartalmaznia kell
+
+- a) a választópolgár
+  - aa) nevét,
+  - ab) személyi azonosítóját,
+- b) ha alkalmazható, akkor annak a településnek vagy választókerületnek a megjelölését, amelynek névjegyzékébe az állampolgársága szerinti tagállamban legutóbb felvették,
+- c) a választópolgár nyilatkozatát, hogy szavazati jogát csak Magyarországon gyakorolja.
+
+(2) A névjegyzékből való törlésre irányuló kérelemnek tartalmaznia kell a választópolgár
+
+- a) nevét,
+- b) személyi azonosítóját.
+
+#### 160. Az Európai Unió más tagállama állampolgárának névjegyzékbe vétele
+
+335. § A Nemzeti Választási Iroda a választás évében május 20-ig értesíti az Európai Unió tagállamainak az európai parlamenti választás során ezen adatok fogadására illetékes központi szerveit azokról az állampolgáraikról, akik a szavazóköri névjegyzékében szerepelnek. Az értesítés a választópolgár következő adatait tartalmazza:
+
+- a) név,
+- b) nem,
+- c) születési hely és idő,
+- d) állampolgárság,
+- e) az a település, szavazókör vagy választókerület, amelynek névjegyzékében az érintett az állampolgársága szerinti államban utoljára szerepelt.
+
+#### 161. A választójogukat más uniós tagállamban gyakorló választópolgárok törlése
+
+336. § Az Európai Parlament tagjainak választására az Európai Unió más tagállamában névjegyzékbe vett magyar állampolgárokról kapott értesítés alapján az érintett választópolgárokat a Nemzeti Választási Iroda törli a szavazóköri névjegyzékből.
+
+#### 162. Adatszolgáltatás a választójoggal nem rendelkező polgárok nyilvántartásából
+
+337. § A Nemzeti Választási Iroda az Európai Unió tagállamának az európai parlamenti választás során az adatkezelésre jogosult, illetékes szerve kérésére három napon belül adatot szolgáltat a választójoggal nem rendelkező polgárok nyilvántartásából az európai parlamenti választáson az érintett tagállamban névjegyzékbe vételét kérő vagy jelöltként induló magyar állampolgár választójogáról.
+
+#### 163. A lista bejelentése
+
+338. § (1) A listát legkésőbb a szavazást megelőző harmincnegyedik napon kell bejelenteni.
+
+(2) A listát a Nemzeti Választási Bizottság veszi nyilvántartásba.
+
+(3) A lista ajánlására a 120. § (1)–(2) bekezdése, valamint a 121–128. § rendelkezéseit is alkalmazni kell.
+
+339. § (1) Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentéséhez csatolni kell a jelölt nyilatkozatát arról is, hogy az Európai Parlament tagjainak választásán csak Magyarországon indul jelöltként.
+
+(2) Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentésekor a Nemzeti Választási Bizottság a jelölt állampolgársága szerinti tagállam illetékes hatóságának megkeresése útján ellenőrzi, hogy a jelölt az állampolgársága szerinti tagállamban nem áll olyan rendelkezés hatálya alatt, amely szerint nem választható, illetve hogy ilyen kizáró okról az illetékes hatóságnak nincs tudomása.
+
+(3) A Nemzeti Választási Iroda a 2. melléklet a), ia) és ib) pontja szerinti adatok megküldésével – a nyilvántartásba vétel jogerőre emelkedését követő három napon belül – tájékoztatja az Európai Unió tagállamainak illetékes szerveit azokról az állampolgáraikról, akiket a Nemzeti Választási Bizottság jelöltként nyilvántartásba vett.
+
+340. § A Nemzeti Választási Bizottság elutasítja annak a jelöltnek a nyilvántartásba vételét, illetve törli a jelöltek közül azt, akit az Európai Unió más tagállamában jelöltként nyilvántartásba vettek.
+
+#### 164. Szavazás levél útján
+
+341. § (1) A szavazási levélcsomag válaszborítékjának címzése a Nemzeti Választási Iroda címét tartalmazza.
+
+(2) A levélben szavazók névjegyzékében szereplő választópolgár a szavazatát tartalmazó válaszborítékot
+
+- a) a Nemzeti Választási Irodába juttathatja el úgy, hogy a szavazást megelőző napon 24 óráig megérkezzen,
+- b) a magyarországi szavazást megelőző tizenöt napon belül minden munkanapon 9 és 16 óra között eljuttathatja bármely külképviseleti választási irodába.
+
+(3) A szavazási iratok ellenőrzését a Nemzeti Választási Iroda végzi.
+
+#### 165. A szavazatszámlálás
+
+342. § A külképviseleten és a levélben leadott szavazatokat a Nemzeti Választási Bizottság felügyelete mellett a Nemzeti Választási Iroda számlálja meg.
+
+#### 166. A választás eredményének megállapítása
+
+343. § (1) A szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda a Nemzeti Választási Irodához továbbítja.
+
+(2) A Nemzeti Választási Bizottság
+
+- a) a szavazóköri jegyzőkönyvek,
+- b) a külképviseleti szavazás eredményét megállapító jegyzőkönyv és
+- c) a levélben leadott szavazatok megszámlálásának eredményét megállapító jegyzőkönyv
+
+alapján megállapítja a választás eredményét.
+
+344. § A választás nem hiteles eredményét tartalmazó tájékoztató adatokat, valamint a választási eredményt csak azt követően lehet közzétenni, hogy a szavazás az Európai Unió valamennyi tagállamában befejeződött.
+
+#### 167. A jogorvoslat
+
+345. § (1) A szavazatszámláló bizottság eredményt megállapító döntése elleni fellebbezést a Nemzeti Választási Bizottságnál kell előterjeszteni.
+
+(2) A helyi választási bizottság dönt a szavazatszámláló bizottság tevékenysége, döntése elleni kifogásról, valamint a szavazóhelyiségben elkövetett egyéb cselekménnyel kapcsolatos kifogásról.
+
+(3) A területi választási bizottság dönt a helyi választási bizottság döntése elleni fellebbezésről.
+
+(4) A Nemzeti Választási Bizottság dönt
+
+- a) minden olyan kifogásról, amely nem tartozik az (1) bekezdés vagy a (3) bekezdés alá,
+- b) a területi választási bizottság döntése elleni fellebbezésről,
+- c) a szavazatszámláló bizottság eredményt megállapító döntése elleni fellebbezésről.
+
+## ZÁRÓ RÉSZ
+
+### XVII. Fejezet — Záró rendelkezések
+
+#### 168. Felhatalmazó rendelkezések
+
+346. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályait,
+- b) a választási eljárásban használandó nyomtatványokat,
+- c) a választási eljárás határidőit és határnapjait,
+- d) a választási eredmény országosan összesített adatainak körét,
+- e) a választási költségek normatíváit, tételeit, elszámolási és belső ellenőrzési rendjét,
+- f) a Nemzeti Választási Bizottság kivételével a választási bizottságok tagjait megillető tiszteletdíj és a választási irodák tagjait megillető díjazás összegét,
+- g) a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokat,
+- h) a bírság megfizetésének részletes szabályait.
+
+#### 169. Hatályba léptető rendelkezések
+
+347. § Ez a törvény a kihirdetését követő tizenötödik napon lép hatályba.
+
+#### 170. A jogszabály rövidítésének meghatározása
+
+348. § E törvény rövidítése: „Ve.”.
+
+#### 171. Átmeneti rendelkezések
+
+349. § (1) A választási eljárásról szóló 1997. évi C. törvény rendelkezéseit kell alkalmazni
+
+- a) az országgyűlési képviselők e törvény hatálybalépését követő első általános választását megelőző időközi országgyűlési választásokon,
+- b) a helyi önkormányzati képviselők és polgármesterek e törvény hatálybalépését követő választásán a helyi önkormányzati képviselők és polgármesterek választásának eljárási szabályait megállapító törvény hatálybalépéséig,
+- c) az országos és helyi népszavazásról, az országos és helyi népi kezdeményezésről, valamint a polgári kezdeményezésről szóló törvény hatálybalépéséig az országos és helyi népszavazásokra, az országos és helyi népi kezdeményezésekre, valamint a polgári kezdeményezésekre,
+- d) a nemzetiségi önkormányzatok e törvény hatálybalépését követő első általános választását megelőzően a területi és országos nemzetiségi önkormányzatok időközi választására, és a területi és országos nemzetiségi önkormányzati mandátum megüresedése esetén a mandátum betöltésére,
+- e) az Európai Parlament tagjainak e törvény hatálybalépését követő első általános választását megelőzően az európai parlamenti mandátum megüresedése esetén a mandátum betöltésére.
+
+(2) Az 1997. évi C. törvényben az Országos Választási Bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, az Országos Választási Iroda számára megállapított hatáskört a Nemzeti Választási Iroda látja el.
+
+(3) A választási eljárásról szóló 1997. évi C. törvény 99/E. §-a szerinti nyilvántartás adatait az e törvény hatályba lépését követő tizenöt napon belül meg kell semmisíteni.
+
+350. § (1) Az Európai Parlament tagjainak 2014. évi választásán nem kell alkalmazni a 332. § (1) bekezdését.
+
+(2) Az Európai Parlament tagjainak 2014. évi választásán a következő választási bizottságok működnek:
+
+- a) Nemzeti Választási Bizottság,
+- b) országgyűlési egyéni választókerületi választási bizottság,
+- c) szavazatszámláló bizottság (egy szavazókörös településen a helyi választási bizottság).
+
+(3) Az Európai Parlament tagjainak 2014. évi választásán
+
+- a) az országgyűlési egyéni választókerületi választási bizottság dönt a szavazatszámláló bizottság tevékenysége, döntése elleni kifogásról, valamint a szavazóhelyiségben elkövetett egyéb cselekménnyel kapcsolatos kifogásról,
+- b) a Nemzeti Választási Bizottság dönt
+  - ba) minden olyan kifogásról, amely nem tartozik az a) pont alá,
+  - bb) az országgyűlési egyéni választókerületi választási bizottság döntése elleni fellebbezésről.
+
+351. § (1) A szavazóköröket első alkalommal 2013. július 31-ig kell kialakítani.
+
+(2) A központi névjegyzékbe való felvételt, valamint a 85. § (1) bekezdés szerinti adat bejegyzését 2013. november 1. napjától lehet kérni. A magyarországi lakcímmel nem rendelkező választópolgár a központi névjegyzékbe való felvételére irányuló kérelmet levélben már 2013. augusztus 1-től benyújthatja; a 2013. november 1-jét megelőzően így benyújtott kérelmet a Nemzeti Választási Iroda 2013. november 30-ig bírálja el.
+
+(3) A magyarországi lakcímmel rendelkező választópolgár, valamint a Magyarországon élő, lakcímmel nem rendelkező választópolgár a 85. § (1) bekezdés szerinti adat bejegyzését 2014. január 1-jét követően kérheti.
+
+352. § (1) A Nemzeti Választási Bizottság tagjait első alkalommal az e törvény hatálybalépését követő szeptember hónapban kell megválasztani.
+
+(2) Az e törvény hatályba lépésekor működő Országos Választási Bizottság tagjainak megbízatása az (1) bekezdés szerint megválasztott Nemzeti Választási Bizottság alakuló üléséig tart.
+
+353. § 2014-ben nem lehet időközi önkormányzati választást tartani április 1-je és az önkormányzati általános választás napja között.
+
+#### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+354. § (1) Az Általános rész, valamint az 1–6. melléklet az Alaptörvény 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 147. § (6), (7) és (9) bekezdése az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+(3) A 233. § az Alaptörvény 24. cikk (5) bekezdése alapján sarkalatosnak minősül.
+
+(4) A XIII. Fejezet és a 7. melléklet az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(5) A XIV. Fejezet az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(6) A XV. Fejezet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+#### 173. Az Európai Unió jogának való megfelelés
+
+355. § (1) A 90. §, a 334–337. §, a 339. §, a 340. § – az Alaptörvény XXIII. cikk (2) bekezdésével együtt – a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választások során történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 93/109/EK irányelvének (1993. december 6.) való megfelelést szolgálja.
+
+(2) A 305. § – az Alaptörvény XXIII. cikk (2) bekezdésével együtt – a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 94/80/EK irányelvének (1994. december 19.) való megfelelést szolgálja.
+
+(3) A 332. § (2) bekezdése és a 344. § – az Alaptörvény XXIII. cikk (2) bekezdésével és az Európai Parlament tagjainak választásáról és jogállásáról szóló 2003. évi CXIII. törvénnyel (a továbbiakban: EPvjt.) együtt – a Tanács az Európai Parlament képviselőinek közvetlen és általános választójog alapján történő választásáról szóló 76/787/ESZAK, EGK, Euratom határozatához mellékelt okmánynak való megfelelést szolgálja.
+
+#### 174. Módosító rendelkezések
+
+356. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 15/B. §-a helyébe a következő rendelkezés lép:
+
+„15/B. § (1) A bíróságnak a cselekvőképességet korlátozó gondnokság alá helyezést kimondó, a cselekvőképességet kizáró gondnokság alá helyezést kimondó, valamint a felülvizsgálati eljárás alapján hozott ítéletében rendelkeznie kell a választójogból való kizárás kérdéséről.
+
+(2) A bíróság azt a nagykorú személyt zárja ki a választójogból, akinek a választójog gyakorlásához szükséges belátási képessége
+
+a) pszichés állapota, szellemi fogyatkozása vagy szenvedélybetegsége miatt tartósan vagy időszakonként visszatérően nagymértékben csökkent, vagy
+
+b) pszichés állapota vagy szellemi fogyatkozása miatt tartósan teljes mértékben hiányzik.”
+
+357. § Az illetékekről szóló 1990. évi XCIII. törvény 62. § (1) bekezdése a következő s) ponttal egészül ki:
+
+[A feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül illetékfeljegyzési jog illeti meg:]
+
+„s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban.”
+
+358. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 23. § a) pontja helyébe a következő rendelkezés lép:
+
+[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
+
+„a) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint a választási eljárásról szóló törvényben meghatározott feladatai ellátásához;”
+
+359. § A külföldre utazásról szóló 1998. évi XII. törvény 27. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.”
+
+360. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+
+a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
+
+b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és i) pontjában meghatározott adatok.”
+
+361. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (3) bekezdése a következő e) ponttal egészül ki:
+
+[Autonóm államigazgatási szerv]
+
+„e) a Nemzeti Választási Iroda.”
+
+362. § A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 3. §-a helyébe a következő rendelkezés lép:
+
+„3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év január 1-jei lakosságszám alapján kell meghatározni.”
+
+363. § Az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény (a továbbiakban: Vjt.) 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § Az egyéni választókerületben a jelöléshez legalább ötszáz választópolgár ajánlása szükséges.”
+
+364. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 11. pontja a következő l) alponttal kiegészülve lép hatályba:
+
+„l) a választási bizottság tagja;”
+
+365. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény
+
+- a) 2. §-ában a „Közbeszerzési Hatóság” szövegrész helyébe a „Közbeszerzési Hatóság, a Nemzeti Választási Iroda” szöveg,
+- b) 234. §-a (2) bekezdésében a „Pénzügyi Szervezetek Állami Felügyeleténél” szövegrész helyébe a „Pénzügyi Szervezetek Állami Felügyeleténél, a Nemzeti Választási Irodánál” szöveg
+
+lép.
+
+(2) A Vjt. 2. számú mellékletében a „Székhelye: Budaörs” szövegrész helyébe a „Székhelye Budakeszi” szöveg, a „Székhelye: Sajószentpéter” szövegrész helyébe a „Székhelye: Kazincbarcika” szöveg lép.
+
+(3) A Vjt. 2. számú mellékletében
+
+- a) a Baranya megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
+
+„4. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (házszámok nélkül) a Hársfa útig, Hársfa út (házszámok nélkül) a Rákos Lajos utcáig, tovább a Hársfa út (mindkét oldala) a Bokor utcáig, a Bokor utca (házszámok nélkül) végig, a Diósi út páros oldala a Zsolnay Vilmos utcáig, a Zsolnay Vilmos utca (mindkét oldala) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (mindkét oldala) a Tüskésréti útig, a Tüskésréti út (mindkét oldala) az 58-as útig a Nagyárpádi út (mindkét oldala) a Tüskés dűlőig, a Tüskés dűlő (mindkét oldala), a Nagyárpádi út (mindkét oldala) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (mindkét oldala), a Cserge dűlőig, a Cserge dűlő (mindkét oldala), az 57-es országút a városhatárig, a városhatár az óramutató járásával egyező irányban a Szentlőrinc felé haladó vasútvonal belépési pontjáig, a vasútvonal a Tüzér utcáig, a Megyeri Nagyhíd a vasútvonaltól a Veress Endre utcáig, a Tüzér utca páratlan oldala, a Szigeti út középvonala a Kürt utcáig, a Kürt utca (házszámok nélkül), az Ifjúság útja (házszámok nélkül), az Édesanyák útja (mindkét oldala), a Nyár utca (mindkét oldala), a Bálicsi út (mindkét oldala), a Bálics dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bálics dűlőtől a Fürkész dűlőig, a Fürkész dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bárány tető torkolatáig, a Bárány tető (mindkét oldala), a Bárány út, majd a Demokrácia utca a Lapisi útig, Lapisi út, majd a Remeteréti út végig, majd az Orfű felé vezető út a városhatárig, a városhatár a 66-os országút belépési pontjáig terjedő szakaszok által körbezárt terület.”
+
+- b) a Baranya megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 15. pontja helyébe a következő rendelkezés lép:
+
+„15. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (mindkét oldala) a Hársfa útig, a Hársfa út (mindkét oldala) a Rákos Lajos utcáig, tovább a Hársfa út (házszámok nélkül) a Bokor utcáig, a Bokor utca (mindkét oldala) végig, a Diósi út páratlan oldala a Zsolnay Vilmos útig, a Zsolnay Vilmos utca (házszámok nélkül) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (házszámok nélkül) a Tüskésréti útig, a Tüskésréti út (házszámok nélkül) az 58-as útig, a Nagyárpádi út (házszámok nélkül) a Tüskés dűlőig, a Tüskés dűlő (házszámok nélkül), a Nagyárpádi út (házszámok nélkül) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (házszámok nélkül) a Cserge dűlőig, a Cserge dűlő (házszámok nélkül), az 57-es országút a városhatárig, a városhatár az óramutató járásával ellenkező irányban a 66-os országútig, valamint a Szentlőrinc felé haladó vasútvonal városhatáron való belépési pontjától a városhatár az óramutató járásával egyező irányban a Remeteréti útig, majd a Remeteréti út, a Lapisi út torkolatáig, a Lapisi út a Demokrácia utcáig, a Bárány út (házszámok nélkül), a Bárány tető (házszámok nélkül) az Erdész utcáig, az Erdész utca (házszámok nélkül)a Fürkész dűlőig, a Fürkész dűlő (házszámok nélkül), az Erdész utca (házszámok nélkül) a Bálics dűlő torkolatáig, a Bálics dűlő (házszámok nélkül), a Bálicsi út (házszámok nélkül), a Nyár utca (házszámok nélkül), az Édesanyák útja (házszámok nélkül), az Ifjúság útja (mindkét oldala), a Kürt utca (mindkét oldala), a Szigeti út középvonala a Tüzér utcáig, a Tüzér utca páros oldala, a Megyeri Nagyhíd a vasútvonalig, a Szentlőrinc felé haladó vasútvonal a városhatárig terjedő szakaszok által körbezárt terület.”
+
+- c) a Bács-Kiskun megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 3. pontja helyébe a következő rendelkezés lép:
+
+„3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- d) a Bács-Kiskun megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 3. pontja helyébe a következő rendelkezés lép:
+
+„3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+- e) a Borsod-Abaúj-Zemplén megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
+
+„4. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+- f) a Borsod-Abaúj-Zemplén megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 1. pontja helyébe a következő rendelkezés lép:
+
+„1. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- g) a Csongrád megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés 5. pontja helyébe a következő rendelkezés lép:
+
+„5. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+- h) a Csongrád megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 10. pontja helyébe a következő rendelkezés lép:
+
+„10. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- i) a Fejér megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
+
+„Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7-8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd–sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+- j) a Fejér megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 27. pontja helyébe a következő rendelkezés lép:
+
+„27. Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7–8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd-sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- k) a Győr-Moson-Sopron 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 1. pontja helyébe a következő rendelkezés lép:
+
+„1. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+- l) a Győr-Moson-Sopron 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 10. pontja helyébe a következő rendelkezés lép:
+
+„10. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- m) a Hajdú-Bihar megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
+
+„Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (minden házszám) az Árpád térig, az Árpád tér (26-os házszámtól a házszámozás végéig), a Csapó utca páros oldala, a Piac utca (2-től 14-es házszámig) és a Kossuth tér (minden házszám), a Hatvan utca páratlan oldala, a Segner János tér (minden házszám), a Kishegyesi út páratlan oldala a Tócó csatornáig, a Tócó csatorna déli irányban a 4-es főútig, a 4-es főút középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- n) a Hajdú-Bihar megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
+
+„Debrecen választókerülethez tartozó területének határvonala: Budapest felől a 4-es főút középvonala a városhatáron való belépési ponttól a Tócó csatornáig, a Tócó csatorna északi irányban a Kishegyesi útig, a Kishegyesi út páros oldala a Segner János térig, a Segner János tér (házszám nélkül), a Hatvan utca páros oldala, a Piac utca (1-től a 11-es házszámig), a Csapó utca páratlan oldala, a Rakovszky Dániel utca (1-től a 25-ös házszámig) az Ótemető utcáig, az Ótemető utca páratlan oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páratlan oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér déli oldala a Vámospércsi útig, a Vámospércsi út páratlan oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
+
+- o) a Hajdú-Bihar megye 03. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
+
+„4. Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (házszám nélkül) az Árpád térig, az Árpád tér (1-től 25-ös házszámig), a Rakovszky Dániel utca páros oldala az Ótemető utcáig, az Ótemető utca páros oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páros oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér északi oldala a Vámospércsi útig, a Vámospércsi út páros oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
+
+366. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 32. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.”
+
+#### 175. Hatályon kívül helyező rendelkezések
+
+367. § Hatályát veszti
+
+- a) a választási eljárásról szóló 1997. évi C. törvény,
+- b) az EPvjt. 5. § (3) bekezdése,
+- c) a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 9/A. §-ában a „magyar állampolgár,” szövegrész,
+- d) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 57. §-a, 98. § (1) bekezdésének második mondata, valamint (2) bekezdése,
+- e) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX törvény 55. § (1) bekezdésének második és harmadik mondata.
+
+### 1. melléklet a 2013. évi XXXVI. törvényhez
+
+A szavazókörök és választókerületek nyilvántartásának adattartalma
+
+A szavazókörök és választókerületek nyilvántartása tartalmazza:
+
+a) az országgyűlési egyéni választókerületek sorszámát, a választókerületbe tartozó választópolgárok számát, a választókerületbe tartozó települések nevét, valamint azon települések esetében, amelyek több egyéni választókerületre oszlanak, a választókerületbe tartozó szavazókörök sorszámát,
+
+b) a tízezernél több lakosú településeken a helyi önkormányzati egyéni választókerületek sorszámát, a választókerületbe tartozó választópolgárok számát, a választókerületbe tartozó szavazókörök sorszámát,
+
+c) településenként az egyes szavazókörök sorszámát, a szavazókörbe tartozó címeket, a szavazókörbe tartozó választópolgárok számát, a szavazókör szavazóhelyiségének címét,
+
+d) a 78. § szerint kijelölt szavazókör megjelölését,
+
+e) a nemzetiségi szavazókör szavazóhelyiségének címét,
+
+f) a 281. § (1) bekezdése szerinti szavazatleadó hely címét,
+
+g) a szavazóhelyiség akadálymentességére vonatkozó információt,
+
+h) a szavazókörök és választókerületek térképes megjelenítését,
+
+i) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
+
+### 2. melléklet a 2013. évi XXXVI. törvényhez
+
+A központi névjegyzék adattartalma
+
+A központi névjegyzék tartalmazza
+
+a) a választópolgár nevét, születési nevét,
+
+b) a választópolgár személyi azonosítóját,
+
+c) a választópolgár magyarországi lakóhelyének és tartózkodási helyének címét,
+
+d) a választópolgár anyja nevét,
+
+e) a választópolgár születési helyét és idejét,
+
+f) a magyarországi lakcímmel nem rendelkező választópolgár esetében továbbá a magyar állampolgárságát igazoló okiratának típusát és számát, ha nem rendelkezik személyi azonosítóval,
+
+g) annak megjelölését, hogy a választópolgár mely választáson, mely választókerületben rendelkezik a szavazás jogával, mely választáson választható,
+
+h) annak megjelölését, hogy melyik településen és egyéni választókerületben szerepelt a választópolgár a szavazóköri névjegyzékben a helyi önkormányzati képviselők és polgármesterek legutóbbi választásának napján,
+
+i) az Európai Unió más tagállamának állampolgáraként az Európai Parlament tagjainak választására névjegyzékbe vett választópolgár esetében továbbá
+
+ia) állampolgárságát,
+
+ib) ha rendelkezésre áll, annak a településnek vagy választókerületnek a megjelölését, amelynek névjegyzékébe az állampolgársága szerinti tagállamban legutóbb felvették,
+
+j) a nemzetiségi választópolgárként névjegyzékbe vett választópolgár esetében annak megjelölését, hogy a választópolgár
+
+ja) mely nemzetiséghez tartozóként szerepel a névjegyzékben,
+
+jb) nemzetiségi választópolgárként történt névjegyzékbe vétele az országgyűlési képviselők választására is kiterjed-e,
+
+k) annak megjelölését, hogy a fogyatékossággal élő választópolgár milyen, a 88. § szerinti segítséget igényel,
+
+l) a 89. § szerinti nyilatkozat tartalmát,
+
+m) a választópolgárnak a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett, ennek hiányában a 92. § (1) bekezdés b) pontja szerint bejelentett értesítési címét,
+
+n) a választókerület és a szavazókör megjelölését,
+
+o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát.
+
+### 3. melléklet a 2013. évi XXXVI. törvényhez
+
+A szavazóköri névjegyzék adattartalma
+
+A szavazóköri névjegyzék tartalmazza
+
+a) a választás megnevezését,
+
+b) a szavazás napját,
+
+c) a települést és a választókerületet,
+
+d) a szavazókör sorszámát,
+
+e) a szavazóhelyiség címét,
+
+f) a választópolgár
+
+fa) nevét,
+
+fb) születési nevét,
+
+fc) születési helyét,
+
+fd) anyja nevét,
+
+fe) személyi azonosítóját,
+
+ff) magyarországi lakcímét,
+
+fg) által a 88. § szerint igényelt szavazási segítség megjelölését,
+
+fh) névjegyzékbeli sorszámát,
+
+g) az országgyűlési képviselők választásán átjelentkezéssel szavazó választópolgár lakcíme szerinti országgyűlési egyéni választókerület megjelölését,
+
+h) a szavazóköri névjegyzékben szereplő választópolgárok számát.
+
+### 4. melléklet a 2013. évi XXXVI. törvényhez
+
+A jelölő szervezetek, jelöltek és listák nyilvántartásának adattartalma
+
+A jelölő szervezetek, jelöltek és listák nyilvántartása tartalmazza
+
+a) a jelölő szervezet
+
+aa) nevét és székhelyét,
+
+ab) rövidített nevét,
+
+ac) jelképét,
+
+ad) típusát,
+
+ae) képviselőjének nevét és lakcímét, képviseleti jogának terjedelmét,
+
+af) nevében jelölt, lista bejelentésére meghatalmazott személy nevét, lakcímét és meghatalmazásának terjedelmét,
+
+b) a jelölt
+
+ba) nevét és lakcímét,
+
+bb) személyi azonosítóját,
+
+bc) független jelölésének tényét vagy annak megjelölését, hogy melyik jelölő szervezet egyéni jelöltje, illetve melyik jelölő szervezet listáján szerepel,
+
+bd) nyilatkozatát arról, ha több utóneve közül csak az egyik feltüntetését kéri, illetve a „dr” megjelölés feltüntetését nem kéri a szavazólapon,
+
+be) nyilatkozatát arról, ha neve nemzetiségi nyelven való feltüntetését kéri a szavazólapon,
+
+bf) foglalkozását a 157. § (2) bekezdése szerinti esetben,
+
+c) a listát állító jelölő szervezetet,
+
+d) a Kormány rendeletében meghatározott egyéb – személyes adatnak nem minősülő –adatokat.
+
+A nyilvántartás tartalmazza annak megjelölését, hogy a jelölő szervezetet, jelöltet, listát melyik választásra vették nyilvántartásba, a jelölt melyik választókerületben indul, illetve a listát melyik választókerületben állították.
+
+### 5. melléklet a 2013. évi XXXVI. törvényhez
+
+Az egyéni szavazólap adattartalma
+
+Az egyéni szavazólap tartalmazza
+
+a) a „szavazólap” megjelölést,
+
+b) a bélyegzőlenyomat elhelyezésére szolgáló terület megjelölését a szavazólap bal felső sarkában,
+
+c) a választás megnevezését,
+
+d) a szavazás napját,
+
+e) a választókerület megjelölését,
+
+f) annak megjelölését, hogy hány jelöltre lehet érvényesen szavazni,
+
+g) a jelölt sorszámát,
+
+h) a jelölt nevét,
+
+i) a szavazásra szolgáló kört,
+
+j) a jelölő szervezet nevét vagy a „független jelölt” megnevezést,
+
+k) az érvényes szavazat formájára vonatkozó tájékoztatást.
+
+### 6. melléklet a 2013. évi XXXVI. törvényhez
+
+A listás szavazólap adattartalma
+
+A listás szavazólap tartalmazza
+
+a) a „szavazólap” megjelölést,
+
+b) a bélyegzőlenyomat elhelyezésére szolgáló terület megjelölését a szavazólap bal felső sarkában,
+
+c) a választás megnevezését,
+
+d) a szavazás napját,
+
+e) a választókerület megjelölését,
+
+f) annak megjelölését, hogy csak egy listára lehet érvényesen szavazni,
+
+g) a lista sorszámát,
+
+h) a szavazásra szolgáló kört,
+
+i) a jelölő szervezet nevét,
+
+j) a listán szereplő első öt jelölt nevét,
+
+k) az érvényes szavazat formájára vonatkozó tájékoztatást.
+
+### 7. melléklet a 2013. évi XXXVI. törvényhez
+
+A külképviseleti névjegyzék adattartalma
+
+A külképviseleti névjegyzék tartalmazza
+
+a) a választás megnevezését,
+
+b) a szavazás napját,
+
+c) a külképviselet megjelölését,
+
+d) a választópolgár
+
+da) nevét,
+
+db) személyi azonosítóját,
+
+dc) magyarországi lakcímét,
+
+dd) anyja nevét,
+
+de) születési helyét,
+
+df) névjegyzékbeli sorszámát,
+
+e) a választópolgár részére átadandó szavazólapok megjelölését,
+
+f) a külképviseleti névjegyzékben szereplő választópolgárok számát.
+
+### 8. melléklet a 2013. évi XXXVI. törvényhez
+
+A levélben szavazók névjegyzékének adattartalma
+
+A levélben szavazók névjegyzéke tartalmazza
+
+a) a választás megnevezését,
+
+b) a szavazás napját,
+
+c) a választókerületet,
+
+d) a választópolgár
+
+da) nevét,
+
+db) személyi azonosítóját, ennek hiányában a magyar állampolgárságát igazoló okiratának típusát és számát,
+
+dc) magyarországi lakcímét, ennek hiányában lakóhelyének címét,
+
+dd) anyja nevét,
+
+de) születési helyét és idejét,
+
+df) névjegyzékbeli sorszámát,
+
+dg) értesítési címét,
+
+e) annak megjelölését, ha a magyarországi lakcímmel rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte,
+
+f) a választópolgár részére megküldendő szavazólapok megjelölését,
+
+g) a levélben szavazók névjegyzékében szereplő választópolgárok számát.

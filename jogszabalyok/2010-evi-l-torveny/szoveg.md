@@ -20,7 +20,7 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 ### II. Fejezet — VÁLASZTÓKERÜLETEK, SZAVAZÓKÖRÖK
 
-3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a választás évének január 1-jei lakosságszáma alapján kell meghatározni, mely adatot a lakosságszám-adatot nyilvántartó központi szerv küldi meg minden év január 15-ig a helyi és a területi választási iroda vezetője számára.
+3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év január 1-jei lakosságszám alapján kell meghatározni.
 
 4. § A 10 000 vagy ennél kevesebb lakosú település – egyéni listás választási rendszerben – egy választókerületet alkot, amelyben a képviselők száma:
 
@@ -93,7 +93,7 @@ jelöltnek ajánlott.
 
 (4) Főpolgármester jelölt az, akit a főváros választópolgárainak 2%-a ajánlott.
 
-9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, magyar állampolgár, továbbá nyilatkozatot tesz arról, hogy
+9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, továbbá nyilatkozatot tesz arról, hogy
 
 - a) a nemzetiség képviseletét vállalja,
 - b) a legutóbbi két választáson nem volt más nemzetiség önkormányzatának jelöltje,

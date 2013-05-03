@@ -535,7 +535,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (3) Nem eredményez adófizetési kötelezettséget
 
 - a) a (2) bekezdés c)–d), f) pontjában meghatározott jogviszony, ha a jogi személy, az egyéb szervezet tagja (ideértve az egyházi személyt is) saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan – a c)–d) pontban meghatározott jogviszonyban álló – természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte;
-- b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony.
+- b) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló (hallgató) tagjával fennálló jogviszony;
+- c) a szociális szövetkezetnek a szövetkezetekről szóló törvényben meghatározott tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonya.
 
 (4) A kifizetőt terhelő adónak nem alapja:
 

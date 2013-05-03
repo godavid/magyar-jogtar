@@ -372,7 +372,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 (3) Az országos nemzetiségi önkormányzati képviselők választását ki kell tűzni.
 
-57. § A nemzetiségi önkormányzati általános választást a helyi önkormányzati képviselők és polgármesterek általános választásának napjára kell kitűzni.
+57. §
 
 ### A jelölés
 
@@ -692,9 +692,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 97. § A települési nemzetiségi önkormányzat testülete évente legalább egyszer, a szervezeti és működési szabályzatban szabályozott rendben közmeghallgatást tart. A közmeghallgatásról jegyzőkönyv készül.
 
-98. § (1) A nemzetiségi önkormányzat testülete a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását. Ebben az esetben – a feloszlás szabályszerűségének egyidejű megállapítása mellett – hetvenöt napon belüli időpontra időközi választást kell kiírni, amelynek költségét a nemzetiségi önkormányzat viseli.
+98. § (1) A nemzetiségi önkormányzat testülete a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 
-(2) A képviselő-testület, közgyűlés feloszlása nem mondható ki a választást megelőző és azt követő hat hónapon belül. A határidő megállapításkor a feloszlatásra irányuló kezdeményezés időpontját kell figyelembe venni.
+(2)
 
 ### A nemzetiségi önkormányzati képviselő
 
