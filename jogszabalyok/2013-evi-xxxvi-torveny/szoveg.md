@@ -2465,142 +2465,17 @@ alapján megállapítja a választás eredményét.
 
 #### 174. Módosító rendelkezések
 
-356. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 15/B. §-a helyébe a következő rendelkezés lép:
-
-„15/B. § (1) A bíróságnak a cselekvőképességet korlátozó gondnokság alá helyezést kimondó, a cselekvőképességet kizáró gondnokság alá helyezést kimondó, valamint a felülvizsgálati eljárás alapján hozott ítéletében rendelkeznie kell a választójogból való kizárás kérdéséről.
-
-(2) A bíróság azt a nagykorú személyt zárja ki a választójogból, akinek a választójog gyakorlásához szükséges belátási képessége
-
-a) pszichés állapota, szellemi fogyatkozása vagy szenvedélybetegsége miatt tartósan vagy időszakonként visszatérően nagymértékben csökkent, vagy
-
-b) pszichés állapota vagy szellemi fogyatkozása miatt tartósan teljes mértékben hiányzik.”
-
-357. § Az illetékekről szóló 1990. évi XCIII. törvény 62. § (1) bekezdése a következő s) ponttal egészül ki:
-
-[A feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül illetékfeljegyzési jog illeti meg:]
-
-„s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban.”
-
-358. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 23. § a) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
-
-„a) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint a választási eljárásról szóló törvényben meghatározott feladatai ellátásához;”
-
-359. § A külföldre utazásról szóló 1998. évi XII. törvény 27. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a) és e) pontja alapján kezelt adatállományból.”
-
-360. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-a) a 11. § (1) bekezdés e), f), h) és i) pontjában, a 11. § (2) bekezdés a), d) és e) pontjában meghatározott adatok, továbbá
-
-b) a 16. § (1) bekezdés f) és i) pontjában, a 16. § (2) bekezdés a), d) és i) pontjában meghatározott adatok.”
-
-361. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (3) bekezdése a következő e) ponttal egészül ki:
-
-[Autonóm államigazgatási szerv]
-
-„e) a Nemzeti Választási Iroda.”
-
-362. § A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 3. §-a helyébe a következő rendelkezés lép:
-
-„3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év január 1-jei lakosságszám alapján kell meghatározni.”
-
-363. § Az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény (a továbbiakban: Vjt.) 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § Az egyéni választókerületben a jelöléshez legalább ötszáz választópolgár ajánlása szükséges.”
+#### 356–363. §
 
 364. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 11. pontja a következő l) alponttal kiegészülve lép hatályba:
 
 „l) a választási bizottság tagja;”
 
-365. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény
-
-- a) 2. §-ában a „Közbeszerzési Hatóság” szövegrész helyébe a „Közbeszerzési Hatóság, a Nemzeti Választási Iroda” szöveg,
-- b) 234. §-a (2) bekezdésében a „Pénzügyi Szervezetek Állami Felügyeleténél” szövegrész helyébe a „Pénzügyi Szervezetek Állami Felügyeleténél, a Nemzeti Választási Irodánál” szöveg
-
-lép.
-
-(2) A Vjt. 2. számú mellékletében a „Székhelye: Budaörs” szövegrész helyébe a „Székhelye Budakeszi” szöveg, a „Székhelye: Sajószentpéter” szövegrész helyébe a „Székhelye: Kazincbarcika” szöveg lép.
-
-(3) A Vjt. 2. számú mellékletében
-
-- a) a Baranya megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
-
-„4. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (házszámok nélkül) a Hársfa útig, Hársfa út (házszámok nélkül) a Rákos Lajos utcáig, tovább a Hársfa út (mindkét oldala) a Bokor utcáig, a Bokor utca (házszámok nélkül) végig, a Diósi út páros oldala a Zsolnay Vilmos utcáig, a Zsolnay Vilmos utca (mindkét oldala) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (mindkét oldala) a Tüskésréti útig, a Tüskésréti út (mindkét oldala) az 58-as útig a Nagyárpádi út (mindkét oldala) a Tüskés dűlőig, a Tüskés dűlő (mindkét oldala), a Nagyárpádi út (mindkét oldala) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (mindkét oldala), a Cserge dűlőig, a Cserge dűlő (mindkét oldala), az 57-es országút a városhatárig, a városhatár az óramutató járásával egyező irányban a Szentlőrinc felé haladó vasútvonal belépési pontjáig, a vasútvonal a Tüzér utcáig, a Megyeri Nagyhíd a vasútvonaltól a Veress Endre utcáig, a Tüzér utca páratlan oldala, a Szigeti út középvonala a Kürt utcáig, a Kürt utca (házszámok nélkül), az Ifjúság útja (házszámok nélkül), az Édesanyák útja (mindkét oldala), a Nyár utca (mindkét oldala), a Bálicsi út (mindkét oldala), a Bálics dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bálics dűlőtől a Fürkész dűlőig, a Fürkész dűlő (mindkét oldala), az Erdész utca (mindkét oldala) a Bárány tető torkolatáig, a Bárány tető (mindkét oldala), a Bárány út, majd a Demokrácia utca a Lapisi útig, Lapisi út, majd a Remeteréti út végig, majd az Orfű felé vezető út a városhatárig, a városhatár a 66-os országút belépési pontjáig terjedő szakaszok által körbezárt terület.”
-
-- b) a Baranya megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 15. pontja helyébe a következő rendelkezés lép:
-
-„15. Pécs választókerülethez tartozó területének határvonala: A 66-os országút városhatáron való belépésétől a Komlói út (mindkét oldala) a Hársfa útig, a Hársfa út (mindkét oldala) a Rákos Lajos utcáig, tovább a Hársfa út (házszámok nélkül) a Bokor utcáig, a Bokor utca (mindkét oldala) végig, a Diósi út páratlan oldala a Zsolnay Vilmos útig, a Zsolnay Vilmos utca (házszámok nélkül) a Basamalom útig, a Basamalom út (házszámok nélkül) a vasútvonalig, a vasútvonal a Sport utcáig, a Sport utca (házszámok nélkül) a Tüskésréti útig, a Tüskésréti út (házszámok nélkül) az 58-as útig, a Nagyárpádi út (házszámok nélkül) a Tüskés dűlőig, a Tüskés dűlő (házszámok nélkül), a Nagyárpádi út (házszámok nélkül) a Kemény Zsigmond utcáig, a Kemény Zsigmond utca (házszámok nélkül) a Cserge dűlőig, a Cserge dűlő (házszámok nélkül), az 57-es országút a városhatárig, a városhatár az óramutató járásával ellenkező irányban a 66-os országútig, valamint a Szentlőrinc felé haladó vasútvonal városhatáron való belépési pontjától a városhatár az óramutató járásával egyező irányban a Remeteréti útig, majd a Remeteréti út, a Lapisi út torkolatáig, a Lapisi út a Demokrácia utcáig, a Bárány út (házszámok nélkül), a Bárány tető (házszámok nélkül) az Erdész utcáig, az Erdész utca (házszámok nélkül)a Fürkész dűlőig, a Fürkész dűlő (házszámok nélkül), az Erdész utca (házszámok nélkül) a Bálics dűlő torkolatáig, a Bálics dűlő (házszámok nélkül), a Bálicsi út (házszámok nélkül), a Nyár utca (házszámok nélkül), az Édesanyák útja (házszámok nélkül), az Ifjúság útja (mindkét oldala), a Kürt utca (mindkét oldala), a Szigeti út középvonala a Tüzér utcáig, a Tüzér utca páros oldala, a Megyeri Nagyhíd a vasútvonalig, a Szentlőrinc felé haladó vasútvonal a városhatárig terjedő szakaszok által körbezárt terület.”
-
-- c) a Bács-Kiskun megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 3. pontja helyébe a következő rendelkezés lép:
-
-„3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- d) a Bács-Kiskun megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 3. pontja helyébe a következő rendelkezés lép:
-
-„3. Kecskemét választókerülethez tartozó területének határvonala: Lajosmizse felől az 5. számú főút középvonala a városhatáron való belépési ponttól az 5202 jelű Ladánybenei út és az 5. számú főútvonal körforgalmi csomópontjáig, a csomóponttól a 0220/182 és 0219/1 helyrajzi számú külterületi utak középvonala a 0244/2 helyrajzi számú külterületi útig, északi irányban a 0244/2, majd keleti irányban a 0253 helyrajzi számú külterületi utak középvonala a Vacsi közi útig, a Vacsi közi út középvonala a Mikszáth Kálmán körútig, a Mikszáth Kálmán körút középvonala és folytatásában az izraelita temető északnyugati határvonala az 5. számú főútig, az 5. számú főút középvonala a Mátyás téren keresztül a Jókai utcáig, a Jókai utca középvonala a Hornyik János körútig, a Hornyik János körút középvonala és folytatásában a Széchenyi téren keresztül a Gáspár András körút középvonala a Petőfi Sándor utcáig, a Petőfi Sándor utca középvonala a Kőhíd utcáig, a Kőhíd utca és folytatásában a Nyíri út középvonala a III. Béla körútig, a III. Béla körút és folytatásában a Csalánosi út középvonala az 52-es útig, az 52-es út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-- e) a Borsod-Abaúj-Zemplén megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
-
-„4. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-- f) a Borsod-Abaúj-Zemplén megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 1. pontja helyébe a következő rendelkezés lép:
-
-„1. Miskolc választókerülethez tartozó területének határvonala: A 26-os országút és folytatásában a Szentpéteri kapu középvonala a városhatáron való belépési ponttól az Arany János tér keleti oldalán haladva a Szeles utcáig, a Szeles utca középvonala a Szentpáli utcáig, a Szentpáli utca középvonala a Nagy Imre utcáig, a Nagy Imre utca középvonala a Kazinczy utcáig, a Kazinczy majd a Szemere utca középvonala az Arany János utcáig, az Arany János utca középvonala a Szinva patakig, a Szinva patak a Corvin utcáig, a Corvin utca középvonala a Görgey Artúr utcáig, a Görgey Artúr utca középvonala a Mindszent térig, a Mindszent tértől a Papszer utca középvonala a Mélyvölgy utcáig, a Mélyvölgy utca középvonala és folytatásában a Csáti sor középvonala a Petőfi sorig, a Petőfi sor középvonala a Horvát tetőig, a Horvát tető középvonala és folytatásában a Mendikás dűlő középvonala a Ruzsinszőlő utcáig, a Ruzsinszőlő utca középvonala a Csermőkei útig, a Csermőkei út középvonala a Miskolctapolcai útig, a Miskolctapolcai út középvonala a Benedekalja utcáig, a Benedekalja és folytatásában a Dr. Kalocsai Kálmán utca középvonala a dohány utcai drótkötélpályáig, a drótkötélpálya a fordulóig, a fordulótól a drótkötélpálya addigi nyomvonalának délnyugati irányú elméleti meghosszabbítása a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- g) a Csongrád megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés 5. pontja helyébe a következő rendelkezés lép:
-
-„5. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-- h) a Csongrád megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 10. pontja helyébe a következő rendelkezés lép:
-
-„10. Szeged választókerülethez tartozó területének határvonala: A Sándorfalvi út középvonala a városhatáron belépési ponttól az algyői vasútvonalig, a vasútvonal az Izabella hídig, az Izabella híd középvonala a Kossuth Lajos sugárútig, a Kossuth Lajos sugárút középvonala a Széchenyi téren keresztül egyenes vonalban a Vörösmarty utcáig, a Vörösmarty utca középvonala a Stefániáig, a Stefánia középvonala a Belvárosi hídig, a Belvárosi híd középvonala a híd közepéig, a Tisza középvonala folyásiránnyal szemben a Maros tiszai torkolatáig, a Maros középvonala a városhatárig, a városhatár vonala déli irányban a Kamara-töltésig, a Kamara-töltés az újszeged-makói vasútvonalig, a vasútvonal déli irányban az Újszentiváni útig, az Újszentiváni út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- i) a Fejér megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
-
-„Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7-8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd–sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-- j) a Fejér megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 27. pontja helyébe a következő rendelkezés lép:
-
-„27. Székesfehérvár választókerülethez tartozó területének határvonala: A 81-es országút középvonala a városhatáron való belépési ponttól a Szent Flórián körút és Móri út kereszteződéséig, a kereszteződéstől előbb a 7-es, majd a körforgalomtól 7–8-as út közös szakaszának középvonala a Mór felé vezető vasútvonalig, a vasútvonal a székesfehérvári vasútállomás felé a Balatoni útig, a Balatoni út középvonala a Horvát István utcáig, a Horvát István utca középvonala a Széchenyi utcáig, a Széchenyi utca középvonala a vasútvonalig, a vasútvonal a börgönd-sárbogárd elágazásig, az elágazástól a Seregélyes felé haladó vasútvonal a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- k) a Győr-Moson-Sopron 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 1. pontja helyébe a következő rendelkezés lép:
-
-„1. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-- l) a Győr-Moson-Sopron 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 10. pontja helyébe a következő rendelkezés lép:
-
-„10. Győr választókerülethez tartozó területének határvonala: Hegyeshalom felől az M1-es autópálya középvonala a városhatáron való belépési ponttól a 83-as útig, a 83-as út középvonala a 821. sz. főútig, a 821. sz. főút középvonala a Lajta utcáig, a Lajta utca középvonala az Ikva utcáig, az Ikva utca középvonala a Mónus Illés utcáig, a Mónus Illés utca és folytatásában a Magyar utca középvonala, majd a Földes Gábor utca középvonala az Ifjúság körútig, az Ifjúság körút középvonala a Szigethy Attila útig, a Szigethy Attila út középvonala a Fehérvári útig, a Fehérvári út középvonala az Erfurti útig, az Erfurti út középvonala a Szőnyi Márton utcáig, a Szőnyi Márton utca középvonala a Zöld utcáig, a Zöld utca középvonala a Somogyi Imre utcáig, a Somogyi Imre utca középvonala a József Attila utcáig, a József Attila utca középvonala a Fehérvári útig, a Fehérvári út és folytatásában a Külső Fehérvári út középvonala a 81-es számú útig, a 81-es számú út középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- m) a Hajdú-Bihar megye 01. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
-
-„Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (minden házszám) az Árpád térig, az Árpád tér (26-os házszámtól a házszámozás végéig), a Csapó utca páros oldala, a Piac utca (2-től 14-es házszámig) és a Kossuth tér (minden házszám), a Hatvan utca páratlan oldala, a Segner János tér (minden házszám), a Kishegyesi út páratlan oldala a Tócó csatornáig, a Tócó csatorna déli irányban a 4-es főútig, a 4-es főút középvonala a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- n) a Hajdú-Bihar megye 02. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezés helyébe a következő rendelkezés lép:
-
-„Debrecen választókerülethez tartozó területének határvonala: Budapest felől a 4-es főút középvonala a városhatáron való belépési ponttól a Tócó csatornáig, a Tócó csatorna északi irányban a Kishegyesi útig, a Kishegyesi út páros oldala a Segner János térig, a Segner János tér (házszám nélkül), a Hatvan utca páros oldala, a Piac utca (1-től a 11-es házszámig), a Csapó utca páratlan oldala, a Rakovszky Dániel utca (1-től a 25-ös házszámig) az Ótemető utcáig, az Ótemető utca páratlan oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páratlan oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér déli oldala a Vámospércsi útig, a Vámospércsi út páratlan oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával megegyező irányban a kiindulási pontig.”
-
-- o) a Hajdú-Bihar megye 03. számú országgyűlési egyéni választókerület területére vonatkozó rendelkezések 4. pontja helyébe a következő rendelkezés lép:
-
-„4. Debrecen választókerülethez tartozó területének határvonala: Nyíregyháza felől a 4-es főút középvonala a városhatáron való belépési ponttól és folytatásában a Kassai út (házszám nélkül) az Árpád térig, az Árpád tér (1-től 25-ös házszámig), a Rakovszky Dániel utca páros oldala az Ótemető utcáig, az Ótemető utca páros oldala a vasútvonalig, a vasútvonal dél felé a Faraktár utcáig, a Faraktár utca páros oldala a vasútvonaltól a Komáromi Csipkés György térig, a Komáromi Csipkés György tér északi oldala a Vámospércsi útig, a Vámospércsi út páros oldala a Panoráma útig, a Panoráma út északi irányban a 4908-as jelű útig, a 4908-as jelű út északkeleti irányban a városhatárig, a városhatár vonala az óramutató járásával ellentétes irányban a kiindulási pontig.”
-
-366. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 32. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.”
+#### 365–366. §
 
 #### 175. Hatályon kívül helyező rendelkezések
 
-367. § Hatályát veszti
-
-- a) a választási eljárásról szóló 1997. évi C. törvény,
-- b) az EPvjt. 5. § (3) bekezdése,
-- c) a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 9/A. §-ában a „magyar állampolgár,” szövegrész,
-- d) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 57. §-a, 98. § (1) bekezdésének második mondata, valamint (2) bekezdése,
-- e) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX törvény 55. § (1) bekezdésének második és harmadik mondata.
+#### 367. §
 
 ### 1. melléklet a 2013. évi XXXVI. törvényhez
 
