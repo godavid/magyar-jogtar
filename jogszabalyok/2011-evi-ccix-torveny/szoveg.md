@@ -706,6 +706,8 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (3) Ha a közműves szennyvízelvezetés és -tisztítás igénybevételét szennyvízmennyiség-mérő rögzíti, a szennyvízalapdíj e mérő névleges kapacitásához kötött. A szennyvízmérő nélküli szennyvízalapdíj viszonyítási alapja a vízmérő átfolyási átmérője.
 
+(4) A víziközmű-szolgáltató által alkalmazható számlaképről szóló miniszteri rendeletben meghatározottak szerint a víziközmű-szolgáltató elkülönítetten tünteti fel a számlában az alapdíjat és a fogyasztással arányos díjat mind az ivóvíz-, mind a szennyvízelvezetési szolgáltatás vonatkozásában.
+
 64. § (1) A fogyasztással arányos díjak tekintetében a lakossági felhasználókra nézve – a víziközmű-szolgáltatást megalapozó, elsődlegesen lakossági felhasználói ellátást szolgáló társadalmi érdekre tekintettel – a nem lakossági felhasználókhoz képest alacsonyabb díjakat eredményező díjrendszer is meghatározható.
 
 (2) Az (1) bekezdés szerinti eltérés alkalmazása esetében víziközmű-szolgáltatás díja a nem lakossági felhasználók esetében nem lehet magasabb, mint a víziközmű-szolgáltatás lakossági felhasználókra vonatkozó díjának másfélszerese.
@@ -798,7 +800,11 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 - 16. a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 - 17. a Hivatal eljárásában közreműködő szakhatóság kijelölését,
-- 18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait rendeletben állapítsa meg.
+- 18. a víziközmű-fejlesztési hozzájárulás alkalmazásának részletes szabályait;
+- 19. az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat;
+- 20. a gördülő fejlesztési tervek tartalmát, ütemezését, felülvizsgálatának szabályait, továbbá a tervek jóváhagyásának szempontjait
+
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben
 
@@ -806,7 +812,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - 2. állapítsa meg a víziközmű-szolgáltatás átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok körét és a közzététel módját;
 - 3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 - 4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
-- 5.
+- 5. állapítsa meg a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a víziközmű-szolgáltatók által alkalmazható számlaképet.
 - 6–8.
 - 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
@@ -828,19 +834,11 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 #### 25. Átmeneti rendelkezések
 
-76. § (1) A 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig
-
-- a) a víziközmű-szolgáltató legfeljebb az állami tulajdonú közüzemi vízműből szolgáltatott ivóvízért, illetőleg az állami tulajdonú közüzemi csatornamű használatáért fizetendő díjakról szóló miniszteri rendeletben a rá vonatkozóan meghatározott, 2011. december 31-én hatályos díjat,
-- b) az a) ponttól eltérő esetben a víziközmű-szolgáltató a 2011. december 31-én alkalmazott bruttó díjhoz képest legfeljebb 4,2 százalékkal megemelt mértékű díjat alkalmazhat.
+76. § (1) A 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltató a 2013. január 31-én jogszerűen alkalmazott díjat alkalmazhatja.
 
 (2)
 
-(3) A Hivatal az (1) bekezdés alapján alkalmazandó díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére az alábbi esetekben:
-
-- a) a településen addig nem nyújtott víziközmű-szolgáltatás kerül bevezetésre,
-- b) olyan víziközmű-beruházást adnak át, amely következtében a települést ellátó vízközmű-hálózat működtetési költségei megemelkednek,
-- c) víziközmű-beruházásra vonatkozó szerződés vagy átadott víziközmű-beruházás vonatkozásában – szerződésben vállalt kötelezettségként – a víziközmű pótlási fedezetét vagy a beruházás finanszírozásához igénybe vett külső forrás hitelszolgálati fedezetét a víziközmű-szolgáltatás díjába be kell építeni, vagy
-- d) törvényben meghatározott, vagyonkezeléssel kapcsolatos kötelezettség teljesítése érdekében szükséges.
+(3) A Hivatal a miniszterrel egyetértésben a jogszabályban rögzített szolgáltatási díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére abban az esetben, ha a településen beruházás keretében megvalósult, olyan víziközművet helyeznek üzembe, amelynek eredményeként addig nem nyújtott víziközmű-szolgálatatás kerül bevezetésre.
 
 (4) A kérelemben részletesen és teljeskörűen alá kell támasztani, hogy – a 62. § (1) bekezdésében és a (3) bekezdésben foglaltakra figyelemmel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
 
@@ -848,14 +846,13 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (6) A víziközmű-szolgáltató a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően alkalmazhatja.
 
-(7) A Hivatal a 65. § (2) bekezdés szerinti javaslatát első alkalommal 2013. szeptember 15-ig küldi meg.
+(7) A Hivatal a 65. § (2) bekezdése szerinti javaslatát első alkalommal 2014. október 15-ig küldi meg.
 
-77. § (1) A 74. § (2) bekezdés 4. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig
+(8) A közművezetékek adójáról szóló 2012. évi CLXVIII. törvény, a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény, valamint a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, közművezetékek után fizetendő adó, illetve pénzügyi tranzakciós illeték (a továbbiakban együtt: különadó) fizetésére kötelezett víziközmű-szolgáltatók a különadó terhét önállóan viselik, azt az általuk nyújtott szolgáltatás árába közvetlenül vagy közvetve nem érvényesíthetik.
 
-- a) a víziközmű-szolgáltató legfeljebb az állami tulajdonú közüzemi vízműből szolgáltatott ivóvízért, illetőleg az állami tulajdonú közüzemi csatornamű használatáért fizetendő díjakról szóló miniszteri rendeletben a rá vonatkozóan meghatározott, 2011. december 31-én hatályos díjat,
-- b) az a) ponttól eltérő esetben a víziközmű-szolgáltató a 2011. december 31-én alkalmazott bruttó díjhoz képest legfeljebb 4,2 százalékkal megemelt mértékű díjat alkalmazhat.
+77. § (1) A 74. § (2) bekezdés 4. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a víziközmű-szolgáltató a 2013. január 31-én jogszerűen alkalmazott díjat alkalmazhatja.
 
-(2) A Hivatal az átadási árra vonatkozó javaslatát első alkalommal 2013. szeptember 15-ig küldi meg.
+(2) A Hivatal az átadási árra vonatkozó javaslatát első alkalommal 2014. október 15-ig küldi meg.
 
 78. § (1) A 2012. július 15-én meglévő üzemeltetési szerződés tekintetében – az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott szempontok szerint – vagyonértékelést kell végeztetni 2015. december 31-ig.
 
@@ -915,6 +912,8 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 - a) nem éri el a 100 000-et, akkor a működési engedélyt 2014. december 31. napjával,
 - b) ha az a) pont szerinti értéket eléri, de kevesebb, mint a 36.§ c) pontja szerinti érték, akkor a működési engedélyt 2016. december 31. napjával visszavonja.
+
+(3) A Hivatal a kizárólagosan állami tulajdonban álló gazdasági társaság víziközmű-szolgáltatókénti működését – az integrációs folyamatok elősegítése, az ellátásbiztonság folyamatosságának megőrzése végett – engedélyezési eljárás lefolytatás nélkül, a közérdekű üzemeltetési feladatok ellátására, határozatlan időtartamra engedélyezi.
 
 85. § A 49–50. § éves beszámoló készítésére vonatkozó rendelkezéseit első alkalommal a 2013. évi beszámoló elkészítésére kell alkalmazni.
 
