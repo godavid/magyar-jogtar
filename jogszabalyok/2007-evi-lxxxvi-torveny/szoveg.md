@@ -601,6 +601,8 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
+(5a) A (3) bekezdés szerinti mérőberendezések éves gyakorisággal történő leolvasása esetén az adott naptári évben történő leolvasás legkésőbbi időpontja az adott naptári évet megelőző évben történt leolvasás napja. Nem minősül e bekezdés megsértésének, ha a leolvasás a megadott határnapig a felhasználó önhibájából nem valósul meg.
+
 (6) A közvilágítás céljára vételezett villamos energia fogyasztásmérés nélküli elszámolását az elosztó a fényforrások előtétekkel növelt beépített teljesítményeinek összege és a közvilágítási égésidő szorzataként végzi.
 
 (7) Amennyiben az elosztó vagy a közvilágításra kötelezett a közvilágítási célra vételezett villamos energia elszámolását fogyasztásmérés adatai alapján kívánja elvégezni, az elosztó köteles a közvilágításra kötelezett teljes területén a leolvasásokat azonos napon elvégezni, a fogyasztási adatokat összegezni és az összegzett adatokat továbbítani, illetve a rendszerhasználati díjakat az összegzett adatok alapján számlázni.

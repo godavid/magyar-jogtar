@@ -1240,6 +1240,8 @@ lehet igénybe venni.
 
 (3) Az elszámolás során a számlában fel kell tüntetni az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállást is.
 
+(3a) A fogyasztásmérő berendezés évente egyszer történő leolvasása esetén az adott naptári évben történő leolvasás legkésőbbi időpontja az adott naptári évet megelőző évben történt leolvasás napja. Nem minősül e bekezdés megsértésének, ha a leolvasás a megadott határnapig a felhasználó önhibájából nem valósul meg.
+
 (4) A rendszerüzemeltető köteles a rendszerhasználóhoz kapcsolódó felhasználási helyek napi fogyasztási adatairól adatszolgáltatást biztosítani erre alkalmas informatikai rendszereiken keresztül. Ha a rendszerhasználó nem kap tájékoztatást, vagy hibás tájékoztatást kap az ellátásában lévő felhasználók napi fogyasztási adatairól, és ennek következtében jelentős egyensúlytalanságba esik az ezt okozó rendszerüzemeltető köteles megtéríteni a rendszerhasználónak az ebből származó igazolt pótdíj-fizetési kötelezettségeit és kárát.
 
 100/A. § (1) A felhasználó esedékes díjfizetési kötelezettségének elmulasztása miatt – a 29. § (3) bekezdése szerinti feltételek teljesülése esetén – a földgázkereskedő a földgázelosztónál kezdeményezheti előre fizető mérő felszerelését.

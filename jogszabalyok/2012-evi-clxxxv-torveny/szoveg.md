@@ -1188,29 +1188,31 @@ rendeletben állapítsa meg.
 
 (9) A hulladékgazdálkodási közszolgáltatási szerződés (8) bekezdés szerinti megkötéséig a törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet a települési önkormányzattal – az e törvény hatálybalépését megelőzően – megkötött hulladékgazdálkodási közszolgáltatási szerződésben foglaltaknak megfelelően a hulladékgazdálkodási közszolgáltatás ellátásáról gondoskodik.
 
-91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét 2013. évre az e §-ban foglalt eltérésekkel kell megállapítani.
+91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét 2013. július 1-jétől 2014. december 31-éig az e §-ban foglalt eltérésekkel kell megállapítani.
 
-(2) A 88. § (3) bekezdésének b) pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a közszolgáltató – a (3), (4) és (6) bekezdésben meghatározott kivétellel – a 2012. december 31-én alkalmazott bruttó díjhoz képest legfeljebb 4,2%-kal megemelt mértékű díjat alkalmazhat.
+(2) A természetes személy ingatlantulajdonos részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
-(3) Ha a települési önkormányzat képviselő-testülete a 2012. december 31-én hatályos települési önkormányzati rendelet szerint díjat nem alkalmazott, a közszolgáltató a (2) bekezdés szerinti díjat a 2012. december 31-én érvényes közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződésben meghatározott díjhoz képest alkalmazhatja.
+(3) A hulladékgazdálkodási közszolgáltatási szerződéssel rendelkező társasházat és lakásszövetkezetet a (2) bekezdésben meghatározott díjcsökkentés a társasházban, illetve lakásszövetkezetben az ingatlantulajdonnal rendelkező természetes személyek vonatkozásában illeti meg. A társasház, illetve a lakásszövetkezet írásban tájékoztatja a közszolgáltatót az ingatlantulajdonnal rendelkező természetes személyek és más ingatlantulajdonosok társasházon, illetve lakásszövetkezeten belüli megoszlásáról. A közszolgáltató a tájékoztatás kézhezvételét követő hónapban esedékes számlájában érvényesíti az ingatlantulajdonnal rendelkező természetes személyeket e rendelkezés alapján megillető díjcsökkenést. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető tulajdoni hányadok aránya alapján kell elszámolni.
 
-(4) Ha a 2012. december 31-ig létrejött hulladékgazdálkodási közszolgáltatásra vonatkozó szerződés alapján a települési önkormányzat vagy a törvény hatálybalépésekor működő települési önkormányzati társulás hulladékgazdálkodási közszolgáltatással kapcsolatos beruházás finanszírozásához ISPA vagy Kohéziós Alap társfinanszírozású projekt, illetve a Környezet és Energia Operatív Program (KEOP) keretében támogatást vett igénybe, és ilyen támogatásból megvalósult hulladékgazdálkodási rendszert fejleszt vagy üzemeltet, a szerződéses kötelezettségvállaláson alapuló költségeket a Hivatal jóváhagyása alapján a díjba beépítheti, és a (2) bekezdés szerint alkalmazható díjnál magasabb mértékű díjat is alkalmazhat.
+(4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlantulajdonost a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
 
-(5) Ha a közszolgáltató a (4) bekezdés szerinti esetben a (2) vagy (3) bekezdés szerint alkalmazható díjnál magasabb mértékű díjat kíván alkalmazni, a közszolgáltató a Hivatalhoz benyújtott kérelmében részletesen és teljes körűen alátámasztja, hogy a hulladékgazdálkodási közszolgáltatási díj megváltoztatását mely körülmények és milyen mértékben indokolják.
+(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlantulajdonosok, illetve társasházak és lakásszövetkezetek részére a (2) és (3) bekezdésben foglaltak teljesüléséről.
 
-(6) Az a közszolgáltató, amely működését e törvény hatálybelépését követően kezdte meg, a hulladékgazdálkodási közszolgáltatási díjat a Hivatal jóváhagyása alapján alkalmazhatja. A közszolgáltató a Hivatalhoz benyújtott kérelemben részletesen és teljes körűen alátámasztja, hogy az általa javasolt összegben alkalmazandó hulladékgazdálkodási közszolgáltatási díjat mely körülmények és milyen mértékben indokolják.
+(6) E § vonatkozásában a költségvetési szervre a természetes személy ingatlantulajdonosra irányadó szabályokat kell alkalmazni.
 
-(7) A (4) és (6) bekezdés szerinti esetben a Hivatal a díjemelésre, illetve a díjmegállapításra vonatkozó kezdeményezést közigazgatási hatósági eljárás keretében 45 napon belül bírálja el. A Hivatal a kezdeményezésben foglaltaktól eltérően is megállapíthatja a díjemelés, illetve a díjmegállapítás mértékét azzal, hogy az a kezdeményezésben megjelölt mértéknél nem lehet magasabb.
+(7) A nem természetes személy ingatlantulajdonos részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. december 31-én alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegét.
 
-(8) A Hivatal a (4) és (6) bekezdés szerinti javaslatát az OHÜ-vel együttműködve, az OHÜ javaslatának figyelembevételével készíti el.
+(8) Az a közszolgáltató, amely működését e törvény hatálybalépését követően kezdte meg, a hulladékgazdálkodási közszolgáltatási díjat a Hivatal jóváhagyása alapján alkalmazhatja. A közszolgáltató a Hivatalhoz benyújtott kérelemben részletesen és teljes körűen alátámasztja, hogy az általa javasolt összegben alkalmazandó hulladékgazdálkodási közszolgáltatási díjat mely körülmények és milyen mértékben indokolják.
 
-(9) Az OHÜ a (8) bekezdés szerinti esetben a Hivatal megkeresésére a megkereséstől számított 15 napon belül javaslatát elkészíti, és azt a Hivatal részére megküldi.
+(9) A (8) bekezdés szerinti esetben a Hivatal a díjemelésre, illetve a díjmegállapításra vonatkozó kérelmet közigazgatási hatósági eljárás keretében 45 napon belül bírálja el. A Hivatal a kérelemben foglaltaktól eltérően is megállapíthatja a díjemelés, illetve a díjmegállapítás mértékét azzal, hogy az a kérelemben megjelölt mértéknél nem lehet magasabb.
 
-(10) Ha az OHÜ a (9) bekezdésben meghatározott határidőn belül a javaslatát a Hivatal részére nem küldi meg, a Hivatal ennek hiányában is javaslatot tehet a miniszternek.
+(10) A Hivatal a (8) bekezdés szerinti határozatát az OHÜ-vel együttműködve, az OHÜ javaslatának figyelembevételével készíti el. Az OHÜ a Hivatal megkeresésére a megkereséstől számított 15 napon belül javaslatát elkészíti, és azt a Hivatal részére megküldi.
 
-(11) A (4) és a (6) bekezdés szerinti esetben a közszolgáltatónak a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően kell alkalmaznia.
+(11) Ha az OHÜ a (10) bekezdésben meghatározott határidőn belül javaslatát a Hivatal részére nem küldi meg, a Hivatal ennek hiányában is határozatot hozhat.
 
-(12) A Hivatal a 47. § (5) bekezdés szerinti javaslatát első alkalommal 2013. szeptember 30-ig küldi meg.
+(12) A (8) bekezdés szerinti esetben a közszolgáltatónak a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően kell alkalmaznia.
+
+(13) A Hivatal a 47. § (5) bekezdés szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
 
 92. § (1) 2020. december 31-ig a háztartási, valamint a háztartásihoz hasonló hulladék részét képező papír-, fém-, műanyag- és üveghulladék újrahasználatra előkészítésének és újrafeldolgozásának együttes mértékét a képződött mennyiséghez viszonyítva tömegében országos szinten legalább 50%-ra kell növelni.
 

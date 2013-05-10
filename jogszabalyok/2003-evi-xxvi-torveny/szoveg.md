@@ -159,7 +159,7 @@ az Országos Területrendezési Tervről
 
 9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő országos vasúti mellékvonalak területét a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
 
-9/B. § (1) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére az állami főépítész térségi területfelhasználási engedélyt ad ki.
+9/B. § (1) Az országos, a kiemelt térségi vagy megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén- és széndioxid szállítóvezetékek elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény, valamint a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezésére az állami főépítész térségi területfelhasználási engedélyt ad ki.
 
 (2) Az állami főépítész (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
 
@@ -432,7 +432,7 @@ térségi hulladéklerakó hely nem jelölhető ki.
 31. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra jogosult államigazgatási szervek körét és az eljárás részletes szabályait,
-- b) az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá szénhidrogén- és szén-dioxid-szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.
+- b) az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá szénhidrogén- és szén-dioxid-szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény, valamint a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak és főutak területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.
 
 32. § E törvény 2. § 25a. pontja és 9/B. § (1) bekezdése a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 4. cikk (1) bekezdésének való részbeni megfelelést szolgálja.
 

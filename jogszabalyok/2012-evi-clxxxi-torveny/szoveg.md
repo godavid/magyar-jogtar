@@ -495,7 +495,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (2) A jelzéskezelők biztosítják, hogy e § hatálybalépésétől számított három éven belül valamennyi, a Schengeni Információs Rendszerből a SIS II-be áttöltésre került hazai figyelmeztető jelzés megfeleljen a SIS II-t szabályozó uniós jogi aktusok rendelkezéseinek. Ezeket a szempontokat a figyelmeztető jelzések valamennyi módosítása, kiegészítése, helyesbítése vagy frissítése esetén, illetve a figyelmeztető jelzésre elért találat esetén is vizsgálni kell.
 
-44. § (1) A 48. § (1)–(4) bekezdése, (7)–(8) bekezdése, (10) bekezdés a)–d) pontja, valamint a 49. § (2) és (4) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+44. § (1)
 
 (2) A 66. § (1)–(2) és (4) bekezdése az Alaptörvény 5. cikk (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
