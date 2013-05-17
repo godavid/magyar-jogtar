@@ -531,7 +531,7 @@ terület lehet.
 - g) a származási bizonyítványok részletes adattartalmát, kiadási rendjét;
 - h) az adatszolgáltatás rendjét;
 - i) a VINGIS részletes tartalmát, valamint a szőlészeti borászati szakigazgatás szerveinek a VINGIS adataihoz való hozzáférési jogosultságát;
-- j) a nem hegyközségi települések esetén az e törvényben meghatározott közigazgatási feladatokat ellátó hegyközségek meghatározását;
+- j)
 - k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 - l)
 - m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;

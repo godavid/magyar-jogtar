@@ -19,6 +19,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2b) E törvény alkalmazásában a hasznosítás fogalmán a Nemzeti Földalapba tartozó földrészletnek a 3. §-ban meghatározott tulajdonosi jogok gyakorlója által e törvényben meghatározott módon, jogcímen történő átadását, átengedését kell érteni.
 
+(2c) Az (1) bekezdéstől eltérően nem képezi a Nemzeti Földalap részét a Nemzeti Eszközkezelő Zrt. által az állam javára megvásárolt ingatlan.
+
 (3) A Nemzeti Földalap rendeltetése:
 
 - a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;

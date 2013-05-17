@@ -34,7 +34,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (4) Az (1)–(3) bekezdésben meghatározottak szerint adóalany a külföldi magánszemély és szervezet is feltéve, hogy adómentességét nemzetközi szerződés vagy viszonosság nem biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
-(5) A törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki a Magyar Államra, a helyi önkormányzatra, az országos és helyi kisebbségi önkormányzatra, a költségvetési szervre, az egyházra, a Magyar Nemzeti Vagyonkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, továbbá a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra.
+(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az egyházra, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre és a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra.
 
 (6) Ha e törvény az adóalanyiságot az év első napján fennálló állapothoz köti és az önkormányzat az adót év közben vezeti be, akkor a bevezetés évében az adó alanyának azt kell tekinteni, aki/amely az adót bevezető rendelet hatálybalépésének napján megfelel az adóalanyiság követelményeinek.
 
