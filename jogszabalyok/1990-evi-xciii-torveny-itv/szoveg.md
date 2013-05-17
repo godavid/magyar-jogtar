@@ -665,11 +665,12 @@ megszerzése;
 - 36. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
 - 37. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás,
 - 37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat,
-- 38. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás.
+- 38.
 - 38. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás.
 - 39. a személyiadat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
 - 40. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
-- 41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány.
+- 41. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
+- 41. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a kincstár által a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
