@@ -2808,7 +2808,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (2) Az állami adóhatóság abban az esetben jár el az (1) bekezdés szerint, amennyiben felé az adók módjára behajtandó köztartozás kötelezettje a lakóingatlan állam által történő megvásárlásának kezdeményezését hitelt érdemlően igazolja.
 
-(3) Az állami adóhatóság a (2) bekezdés szerinti igazolás hitelt érdemlőségének ellenőrzése érdekében megkeresheti az állami kezesség érvényesítőjét vagy a Nemzeti Eszközkezelő Zrt.-t.
+(3) Az állami adóhatóság a (2) bekezdés szerinti igazolás hitelességének ellenőrzése érdekében írásbeli nyilatkozattétel céljából megkeresheti az állami kezesség érvényesítőjét.
 
 (4) Az állami adóhatóság a lakóingatlan vonatkozásában az ingatlan-végrehajtást foganatosíthatja vagy folytathatja, amennyiben arról értesül, hogy az állami kezesség érvényesítője a lakóingatlan állam által történő megvásárlásának kezdeményezéséhez való hozzájárulást elutasította, vagy a Nemzeti Eszközkezelő Zrt. a lakóingatlanra vonatkozó vételi ajánlatot visszautasította.
 

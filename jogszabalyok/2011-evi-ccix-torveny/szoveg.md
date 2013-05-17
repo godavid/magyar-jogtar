@@ -600,6 +600,8 @@ végezhet.
 
 (6) A környezetvédelmi és vízügyi hatóság az ingatlan tulajdonosát közérdekből – tekintet nélkül az (1) és (2) bekezdésben meghatározott határidőre vagy az (1) bekezdésben meghatározott feltételre – kötelezi az ingatlan beköttetésére, és ezzel a víziközmű-szolgáltatás igénybevételére, ha a saját célú vízellátó létesítmény, egyedi szennyvízkezelő létesítmény vagy egyedi zárt szennyvíztároló közegészségügyi, környezetvédelmi vagy vízgazdálkodási szempontból káros hatása állapítható meg.
 
+(7) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
+
 #### 18. A víziközmű-szolgáltatás szüneteltetése a közműves ivóvízellátás,
 
 valamint a közműves szennyvízelvezetés és -tisztítás tekintetében

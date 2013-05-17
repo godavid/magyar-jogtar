@@ -24,9 +24,9 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 4. § E törvény és e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:
 
-- a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését árutermelés céljából feldolgozza, illetve értékesíti,
-- b) borászati termelő: aki borszőlőt, mustot, illetve bort árutermelési célú tovább-feldolgozás – ide nem értve a földrajzi jelzés nélkül forgalomba hozott bor előállítását – céljából vásárol,
-- c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés, vagy földrajzi jelzés nélkül forgalomba hozott bor előállítása céljából vásárol,
+- a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, és nem minősül borászati termelőnek,
+- b) borászati termelő: aki borászati terméket értékesítés céljából állít elő,
+- c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés céljából vásárol,
 - d) borvidék: a szőlőtermesztésről és a borgazdálkodásról szóló törvény szerinti borvidék,
 - e) borrégió: a borvidékek közös érdekeik előmozdítására, valamint az általuk előállított termékek származás-, minőség- és eredetvédelmére létrehozott olyan önkéntes társulása, amely hasonló szőlő- és bortermelési hagyományokkal rendelkező, földrajzilag egymáshoz közel eső vagy határos borvidékek összességéből áll.
 
@@ -64,16 +64,16 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (5) A közgyűlésen
 
-- a) a szőlészeti termelőt a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
-- b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező borászati termelőt egy szavazat
+- a) a szőlőültetvénnyel rendelkező hegyközségi tagot a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
+- b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező hegyközségi tagot egy szavazat
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, akinek nincs hegyközségi járuléktartozása, és adatszolgáltatási kötelezettségének eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig az év első közgyűlésének napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
-(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők és azon szőlészeti termelők választják meg, akiknél az általuk feldolgozott szőlő vagy bor több mint fele felvásárlásból származik.
+(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg.
 
 (9) A határozathozatal és a tisztségviselők választásának rendjét az alapszabályban kell meghatározni.
 
@@ -142,7 +142,7 @@ illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát
 
 (4) Nem választható meg tisztségviselőnek, akinek hegyközségi járuléktartozása áll fent, illetve adatszolgáltatási kötelezettségének nem tett eleget.
 
-(5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségre jelölt személy hatósági bizonyítvánnyal igazolja.
+(5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségviselő személy hatósági bizonyítvánnyal igazolja.
 
 (6) A hegyközségi tanács titkára a tisztségviselői megbízatás időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi a tisztségviselő tekintetében a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását. A hatósági ellenőrzés céljából a hegyközségi tanács titkára adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tisztségviselő büntetlen előéletű-e, valamint hogy a tisztségviselői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -195,7 +195,7 @@ kezeli.
 
 17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelő tevékenységet végző nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
 
-(2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
+(2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (3) A szőlészeti és borászati felvásárló és a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni a nevét (cégnevét), lakóhelyét (székhelyét, telephelyét), adóazonosító jelét vagy adószámát, a mezőgazdasági és vidékfejlesztési támogatási szerv által adott regisztrációs számát, és a miniszter e törvény felhatalmazása alapján kiadott rendelete szerinti egyéb, személyes adatnak nem minősülő adatokat.
 
@@ -252,9 +252,13 @@ kezeli.
 
 (5) Az alapszabály elfogadását követően a hegyközségi tanács székhelye szerint illetékes törvényszéknél kérni kell a hegyközségi tanács nyilvántartásba-vételét. A hegyközségi tanács a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal. A törvényszék a hegyközségi tanács nyilvántartásba-vételéről szóló határozatát a miniszterrel is közli.
 
-23. § A szőlészeti és borászati szekció azonos számú tagot választ a hegyközségi tanács tagjai közül az igazgatóválasztmányba, és ennek tagjai közül a küldöttek együttes ülésén megválasztja a hegyközségi tanács elnökét és – amennyiben szükséges – alelnökét. Az ügyek viteléért felelős tisztségviselő a titkár, akit a hegyközségi tanács javaslata alapján a Hegyközségek Nemzeti Tanácsának főtitkára nevez ki. A titkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
+23. § (1) A szőlészeti és borászati szekció azonos számú tagot választ a hegyközségi tanács tagjai közül az igazgatóválasztmányba, és ennek tagjai közül a küldöttek együttes ülésén megválasztja a hegyközségi tanács elnökét és – amennyiben szükséges – alelnökét. Az ügyek viteléért felelős tisztségviselő az elnök.
 
-24. § (1) A hegyközségi tanács kizárólagos hatáskörébe tartozik
+(2) A hegyközségi tanács javaslata alapján a Hegyközségek Nemzeti Tanácsának főtitkára titkárt nevez ki. A titkár munkáltatója – az 56. § (3) bekezdésben foglalt eltéréssel – a Hegyközségek Nemzeti Tanácsa, felette a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
+
+(3) A hegyközségi tanács elnöke feladatainak ellátásával az alapszabály felhatalmazása alapján a titkár is megbízható.
+
+24. § (1) A hegyközségi tanács, ennek hiányában a hegyközségi választmány kizárólagos hatáskörébe tartozik
 
 - a) a 2011. december 31-e előtt benyújtott – a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet szerinti – termékleírással,
 - b) a borvidéki rendtartással,
@@ -265,7 +269,7 @@ kapcsolatos feladatok ellátása.
 
 (2) A szőlészeti és a borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába szekciónként delegált egy-egy küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8) bekezdése szerint kell megválasztani.
 
-25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet.
+25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.
 
 #### 17. A borvidéki régiós tanács
 
@@ -314,7 +318,7 @@ kapcsolatos feladatok ellátása.
 - a) a minőségvédelem érdekében összehangolja tagjai szőlészeti és borászati szakmai tevékenységét;
 - b) gondoskodhat – a helyi önkormányzattal együttműködve – a működési területéhez tartozó szőlők őrzéséről;
 - c) szolgáltatásokkal és szaktanácsadással segíti tagjai gazdálkodását;
-- d) védi a hegyközség szőlészeti termelőinek érdekeit és tájékoztatást ad a tagok tevékenységét segítő, közérdekű információkról;
+- d) védi a hegyközség szőlészeti és borászati termelőinek érdekeit és tájékoztatást ad a tagok tevékenységét segítő, közérdekű információkról;
 - e) ellenőrzi tagjainál a hegyközség feladatkörét érintő rendtartási előírások betartását;
 - f) rendezvényeket, borversenyeket szervez.
 
@@ -395,7 +399,7 @@ kapcsolatos feladatok ellátása.
 
 (6) A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
 
-(7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró felett a munkáltatói jogokat a kinevezés és felmentés tekintetében a Hegyközségek Nemzeti Tanácsának főtitkára, más munkáltatói jogok tekintetében a hegyközségi tanács titkára gyakorolja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
+(7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró munkáltatója – az 58. § (4) bekezdésben foglalt eltéréssel – Hegyközségek Nemzeti Tanácsa. A hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja, aki e jogok gyakorlására – a kinevezés és felmentés kivételével – a hegyközségi tanács titkárát is feljogosíthatja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogok teljes körét a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
 
 (8) Hegybíró csak olyan személy lehet, aki
 
@@ -428,7 +432,7 @@ jár el.
 
 43. § (1) A Hegyközségek Nemzeti Tanácsa közigazgatási hatósági ügyben eljáró tisztségviselője, illetve ügyintézője csak olyan büntetlen előéletű személy lehet, aki a közigazgatási alapvizsgát letette, vagy vállalja, hogy kinevezése esetén a vizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de kinevezésétől számított legkésőbb egy éven – belül leteszi. A határidő elmulasztása esetén a tisztségviselő, illetve ügyintéző munkaviszonya megszűnik.
 
-(2) A 38. § f) pontjában meghatározott ügyekben eljáró ügyintéző csak olyan jogi végzettséggel rendelkező személy lehet, aki felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsa elnöke gyakorolja.
+(2) A 38. § f) pontjában meghatározott ügyekben eljáró ügyintéző csak olyan jogi végzettséggel rendelkező személy lehet, aki felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja, vagy akinek a megbízója a Hegyközségek Nemzeti Tanácsa.
 
 (3) A szervezeti és működési szabályzatban kell meghatározni a közigazgatási hatósági ügyben eljáró személy kizárás miatt vagy bármely más okból való akadályoztatása esetére a feltételeknek megfelelő másik személy kijelölésére vonatkozó szabályokat.
 
@@ -468,9 +472,17 @@ jár el.
 - f) pályázatból származó bevétel,
 - g) egyéb, az alapszabályban meghatározott bevételek.
 
-(2) A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegybíró a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel határozatban közli.
+(2) A hegyközségi tagoknak, valamint a szőlészeti és borászati felvásárlóknak hegyközségi járulékot kell fizetni azon hegyközség részére, amelynek működési területén a termelő-, illetve a felvásárló tevékenységüket végzik. A hegyközségi járulék mértékét és felhasználásának célját a választmány javaslata alapján minden év május 31. napjáig a közgyűlés határozza meg. A hegybíró a kivetett járulékot és annak esedékességét a járulékfizetésre kötelezettel határozatban közli.
 
-(3) A hegyközségi járulék alapját szőlészeti termelő hegyközségi tag esetében az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján kell megállapítani. Borászati termelő hegyközségi tag esetében a hegyközségi járulék alapját a feldolgozott bormennyiség alapján kell megállapítani azzal, hogy az a szőlészeti termelő által feldolgozott bormennyiség alapján megállapított járulékmérték kétszeresénél nem lehet több.
+(3) A hegyközségi járulék alapját
+
+- a) szőlészeti termelő hegyközségi tag esetében az általa művelt szőlőültetvény területe és a megtermelt szőlőmennyiség alapján kell megállapítani;
+- b) borászati termelő hegyközségi tag esetében az általa művelt szőlőültetvény területe és a feldolgozott szőlő-, valamint bormennyiség alapján kell megállapítani azzal, hogy a szőlőültetvény területe alapján meghatározott járulékalap azonos az a) pont szerinti járulékalappal;
+- c) szőlészeti és borászati felvásárló esetében a felvásárolt szőlő, must, illetve bor mennyisége alapján, a b) pont szerinti feldolgozott bormennyiségre vonatkozó járulékalappal azonos mértékben kell megállapítani.
+
+(3a) Termelői szerveződés vagy termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás által a termelői szerveződés tagjaitól felvásárolt szőlő, must, illetve bor mennyisége után nem kell hegyközségi járulékot fizetni.
+
+(3b) A szőlészeti termelőnek nem kell hegyközségi járulékot fizetni azon megtermelt szőlőmennyiség után, amelyet borászati termelő hegyközségi tag, vagy szőlészeti és borászati felvásárló részére értékesített.
 
 (4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el. Meg nem fizetés esetén a járulékot – a hegyközség javára – adók módjára kell behajtani.
 
@@ -552,11 +564,15 @@ kell fedezni.
 
 (2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő hegyközségek törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás – a hegybírók megbízatásának kivételével – az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. március 31-én megszűnik.
 
+(3) A hegyközségek – az 5. § (1) bekezdése szerinti feltételeknek nem megfelelő hegyközség kivételével – alapszabályát e törvény hatálybalépését követően megtartott első közgyűlésen – a 6. § (5), valamint (7) bekezdése szerint – kell összhangba hozni e törvény rendelkezéseivel. Ezen időpontig az e törvény hatálybalépésének napján hatályos alapszabály rendelkezései szerint kell eljárni.
+
 56. § (1) A hegyközségi tanácsok e törvény szerinti igazgatóválasztmányának tagjait, illetve elnökét, valamint a 24. § (2) bekezdése szerinti küldötteket legkésőbb 2013. július 31-ig kell megválasztani.
 
 (2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő hegyközségi tanácsok törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. július 31-én megszűnik.
 
-57. § (1) A Hegyközségek Nemzeti Tanácsa elnökségét, elnökét és alelnökét 2013. november 30-ig a kell megválasztani.
+(3) A (2) bekezdés szerint megszűnő megbízatással bíró titkár munkáltatója a hegyközségi tanács.
+
+57. § (1) A Hegyközségek Nemzeti Tanácsa elnökségét, elnökét és alelnökét 2013. október 31-ig a kell megválasztani.
 
 (2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő Hegyközségek Nemzeti Tanácsának törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. november 30-án megszűnik.
 
@@ -566,13 +582,34 @@ kell fedezni.
 
 58. § (1) A hegyközség választmányának 2013. május 1-ig ki kell írnia a hegybíró tisztség betöltésére szóló pályázatot. A választmánynak a beérkezett pályázatokat 2013. június 15-ig értékelnie kell, és javaslatot kell tennie a Hegyközségek Nemzeti Tanácsa felé a hegybíró személyére.
 
-(2) 2013. július 15-ig a Hegyközségek Nemzeti Tanácsa főtitkárának ki kell neveznie a hegybírókat.
+(2) 2013. július 10-ig a Hegyközségek Nemzeti Tanácsa főtitkárának ki kell neveznie a hegybírókat. A kinevezett hegybíró 2013. július 15-től tölti be hivatalát.
 
-(3) A (2) bekezdés szerinti kinevezésig az e törvény hatálybalépése napján hivatalban lévő hegybírók gondoskodnak az e törvényben a hegybírók részére meghatározott feladatok ellátásáról. Megbízatásuk az új hegybírók kinevezésével megszűnik.
+(3) A (2) bekezdés szerinti hivatalba lépésig az e törvény hatálybalépése napján, illetve ezt követően hivatalban lévő hegybírók gondoskodnak az e törvényben a hegybírók részére meghatározott feladatok ellátásáról. Megbízatásuk az új hegybírók hivatalba lépésével megszűnik.
+
+(4) A (2) bekezdés szerinti hegybíró hivatalba lépését megelőzően hivatalban lévő hegybíró munkáltatója a hegyközség.
 
 #### 34. A hegyközségek ellenőrzése
 
 59. § A mezőgazdasági igazgatási szerv ellenőrzi a hegyközségeknek e törvény hatályba lépésétől végzett tevékenységét, és 2013. december 31-ig jelentést készít a miniszternek.
+
+59/A. § (1) A miniszter a hegyközségi szervezetek tisztújításának felügyeletére, továbbá a hegyközségek működésének elősegítésére miniszteri biztost bízhat meg.
+
+(2) A miniszteri biztos jogosult
+
+- a) részt venni a hegyközségi szervezetek közgyűlésén és más testületi ülésén,
+- b) jelentést, tájékoztatást kérni a hegyközségi szervezetek tisztségviselőitől, valamint a hegyközségi szervezetekkel foglalkoztatási vagy megbízási jogviszonyban levő személytől,
+- c) megismerni a hegyközségi szervezetek által kezelt valamennyi adatot,
+- d) megtekinteni a hegyközségi szervezetek bármely iratát,
+- e) belépni a hegyközségi szervezetek által használt bármely helyiségbe.
+
+(3) A miniszteri biztos feladata a hegyközségi szervezetek tisztújítási folyamata, valamint az e törvény rendelkezéseinek való megfeleléssel összefüggő cselekmények lebonyolításának elősegítése, amelynek érdekében
+
+- a) javaslatok, módszertani ajánlások, eljárásrendek készítésével összefüggő feladatokat, intézkedéseket kezdeményez,
+- b) közreműködik az eljárási cselekmények előkészítésében,
+- c) folyamatos kapcsolatot tart a hegyközségi szervezetek vezetőivel és a miniszterrel,
+- d) ellátja mindazokat a feladatokat, amelyeket a miniszter a feladatának végrehajtása érdekében részére egyedileg meghatároz.
+
+(4) A miniszteri biztos a tevékenységéről megbízatása végén beszámol a miniszternek.
 
 ### X. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
