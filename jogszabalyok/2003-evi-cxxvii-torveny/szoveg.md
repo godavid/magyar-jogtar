@@ -86,7 +86,7 @@ kell alkalmazni.
   - e) a Magyar Gyógyszerkönyvben meghatározott alkoholtermék és benzin külön jogszabályban foglaltak szerint gyógyszer-nagykereskedelmi tevékenység folytatására jogosító engedéllyel rendelkezők által történő csomagolását (kiszerelését), az azt megelőzően végzett mechanikai szűrését, illetve a gyógyszertárak által végzett gyógyszertári kiszerelését,
   - f) a csokoládégyártáshoz felhasznált vagy felhasználásra kerülő alkoholos gyümölcsből az alkoholtermék gyártási melléktermékként történő visszanyerését, ha azt a vámhatóságnak előzetesen bejelentették,
   - g) az adózott üzemanyagoknak a fuvarozás során vagy az üzemanyagtöltő állomáson, vagy a jövedéki engedélyes kereskedő, illetve a végfelhasználó telephelyén a lefejtéskor bekövetkező keveredését, illetve csővezetékes szállítás esetén az egymás után szállított ásványolajok keveredését,
-  - h) a vegyipari és gyógyszeripari hatóanyagok, intermedierek előállításához használt jövedéki termékek tisztítását, ha azt adómentes felhasználó vagy felhasználói engedélyes végzi és a tisztítással visszanyert jövedéki terméket a vegyipari vagy gyógyszeripari adómentes felhasználó vagy a felhasználói engedélyes az engedélyezett célra használja fel,
+  - h) az adómentes felhasználói vagy a felhasználói engedélyes tevékenység során szennyezetté vált jövedéki termék tisztítását, ha azt adómentes felhasználó vagy felhasználói engedélyes végzi és a tisztítással visszanyert jövedéki terméket az engedélyezett célra használja fel,
   - i) a növényi olajok oldószeres kivonással történő gyártásához zárt rendszerben felhasznált 2710 11 25 vámtarifaszámú ásványolaj visszanyerése, amennyiben a gyártási folyamatban újrafelhasználásra kerül,
   - j) a 2909 19 00 vámtarifaszám alá tartozó etil-tercier-butil-éter (a továbbiakban: ETBE) vagy a bioetanol [7. § 37. pont] előállításához beszerzett 2207 10 00 vámtarifaszámú, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholtermék kőolajfinomító adóraktárban, finomítói ásványolajraktárban vagy ásványolaj-tárolóban a külön jogszabály szerint, motorbenzinbe való bekeverés céljából történő denaturálását,
   - k) az üzemanyagtöltő állomás vagy az üzemi motorikusgáztöltő-állomás tárolótartályában a 2711 12, 2711 13 és 2711 19 00 vámtarifaszámú cseppfolyósított szénhidrogének keveredését,
@@ -153,6 +153,9 @@ kell alkalmazni.
   - a) ellenszolgáltatás fejében vagy saját költségre kizárólag közúti árufuvarozásra szolgáló, legalább 7,5 tonna megengedett legnagyobb össztömegű gépjárművel vagy nyerges járműszerelvénnyel (nyerges vontatóval) végzett közúti árufuvarozáshoz, vagy
   - b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 vagy M3 kategóriába tartozó gépjárművel végzett személyszállításhoz használnak fel.
 - 52. légiutas-ellátási tevékenység: a gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi járművek fedélzetéről, az utasok részére felszolgálásra vagy értékesítésre szánt, a 3. § (2) bekezdés b)–g) pontja szerinti jövedéki termékek utántöltési célú levétele, ideiglenes tárolása, illetve 15 napon belül gazdasági célú légi közlekedési tevékenységet végző, a nemzetközi légi forgalomban részt vevő légi jármű fedélzetére történő felvitele, amennyiben a levételt, a tárolást és a felvitelt a jövedéki engedélyes kereskedő miniszteri rendeletben előírt módon igazolja.
+- 53. regionális beruházási támogatás: a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról szóló iránymutatás (2006/C 54/08), valamint a csoportmentességi rendelet 13. cikke szerinti támogatás;
+- 54. környezetvédelmi beruházási támogatás: a környezetvédelem állami támogatásáról szóló közösségi iránymutatás (2008/C 82/01) 3.1.6.1 pontja szerinti támogatás, valamint a csoportmentességi rendelet 23. cikke szerinti támogatás;
+- 55. mezőgazdasági beruházási támogatás: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló közösségi iránymutatások, 2007–2013 (2006/C 319/1) IV.A és IV.B pontja szerinti támogatás.
 
 ### II. Fejezet — ADÓKÖTELEZETTSÉG, ADÓFELFÜGGESZTÉS, ADÓFIZETÉSI KÖTELEZETTSÉG
 
@@ -1125,7 +1128,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (2) A feleslegessé vált adómentesen beszerzett jövedéki termék a vámhatóság előzetes jóváhagyása alapján és felügyelete mellett adóraktárba termékkísérő okmány kiállításával szállítható.
 
-(3) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált adómentesen beszerzett jövedéki termék a vámhatóság felügyelete mellett megsemmisíthető, adóraktárba szállítható, továbbá – a vegyipari, élelmiszeripari és a gyógyszeripari felhasználás esetén – a jövedéki terméket beszerző adómentes felhasználó tisztíthatja (regenerálhatja).
+(3) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált, adómentesen beszerzett jövedéki termék a vámhatóság felügyelete mellett megsemmisíthető, adóraktárba szállítható, továbbá azt a jövedéki terméket beszerző adómentes felhasználó tisztíthatja (regenerálhatja).
 
 (4) Az adómentes felhasználást követően a technológiából visszanyert, valamint a (3) bekezdés szerinti regenerált jövedéki terméket készletre kell venni, amely az adókötelezettség keletkezése szempontjából betárolásnak minősül.
 
@@ -1441,6 +1444,10 @@ minősül.
 
 (5) A (2) bekezdés b) és d) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
 
+(6) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
+
+(7) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban.
+
 ### Adómentes felhasználás
 
 53. § (1) Adómentes célú felhasználásnak minősül
@@ -1737,6 +1744,10 @@ alapján számított összeg erejéig, de legfeljebb 60 millió forint összegbe
 (3) A felhasználói engedélyesnek tárgyévenként az egyéb ellenőrzött ásványolaj és a megfigyelt termék beszerzéséről, előállításáról (kiszereléséről), felhasználásáról, értékesítéséről és készletéről elszámolást kell készítenie és a tárgyévet követő hó 20-áig a vámhatósághoz benyújtania, amelyet a vámhatóság a helyszínen ellenőrizhet. Ha az elszámolás alapján kimutatott, nyilvántartás szerinti zárókészlet meghaladja a számviteli rend szerint elvégzett készletfelvétellel megállapított tényleges zárókészletet, a készlethiányt – figyelemmel a külön jogszabály szerint elszámolható veszteségre, valamint a 62. § (8)–(9) bekezdésének rendelkezésére is – nem engedélyezett célra történt felhasználásnak kell tekinteni. Az elszámolás során kimutatott készleteltéréssel a nyilvántartás szerinti zárókészletet helyesbíteni kell.
 
 (4) Nem kell havi jelentést készítenie és a vámhatósághoz benyújtania annak a felhasználói engedélyesnek, aki az egyéb ellenőrzött ásványolajat és a megfigyelt terméket gyógyszergyártásban vagy a termék kémiai átalakulását eredményező vegyi reakcióban használja fel.
+
+(5) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált, felhasználói engedéllyel beszerzett jövedéki termék a vámhatóság felügyelete mellett megsemmisíthető, adóraktárba szállítható, továbbá a jövedéki terméket beszerző felhasználói engedélyes tisztíthatja (regenerálhatja). A regenerálással előállított termék felhasználói engedéllyel beszerzett terméknek minősül.
+
+(6) Az engedélyezett célra történő felhasználást követően a technológiából visszanyert, valamint az (5) bekezdés szerinti regenerált jövedéki terméket készletre kell venni.
 
 ### Az egyéb ellenőrzött ásványolaj és a megfigyelt termék belföldi forgalmazása
 
