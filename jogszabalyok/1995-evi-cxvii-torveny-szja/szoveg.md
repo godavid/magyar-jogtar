@@ -2045,6 +2045,12 @@ kell figyelembe venni.
 - b) az önkéntes kölcsönös egészségpénztár(ak)ba/önsegélyező pénztár(ak)ba együttvéve a minimálbér 30 százalékát,
 - c) foglalkoztatói nyugdíjszolgáltató intézménybe a minimálbér 50 százalékát meg nem haladó rész akkor, ha a magánszemély nyilatkozik, hogy az adott jogcímen bevétele az adott hónapra más juttatótól nem volt, továbbá akkor, ha a juttató a hozzájárulást havonta, vagy – az adott hónapokra vonatkozó összegek közlésével – több hónapra előre, vagy utólagosan legfeljebb három hónapra utalja át egy összegben. Egyösszegű utalás esetében azt a magánszemélynél a közölt összegeknek megfelelő hónap(ok) szerinti juttatásnak kell tekinteni. A megállapított adót a kifizető a közölt összegeknek megfelelőhónapokra vonatkozó szabályok szerint és mértékkel, előre történő utalás esetén a juttatás közölt hónapjának, utólagos utalás esetén az utalás hónapjának kötelezettségeként vallja be és fizeti meg.
 
+(3a) Béren kívüli juttatásnak minősül a munkáltatói tag által az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összegből az a rész, amely évente nem haladja meg a pénztártag alkalmazottak létszáma és a minimálbér szorzatát azzal, hogy
+
+- a) a befizetett összegnek az értékhatárt meghaladó része egyes meghatározott juttatásnak minősül,
+- b) a béren kívüli juttatásnak az egy magánszemélyre jutó összegét a 70. § (4) bekezdés szerinti éves keretösszeg számításánál figyelmen kívül kell hagyni,
+- c) az alkalmazottak létszámaként a befizetéskor – az adóéven belül több befizetés esetén az első befizetéskor – pénztártag alkalmazottak létszáma vehető figyelembe.
+
 (4) A kifizető az adókötelezettség megállapításához a béren kívüli juttatásra vonatkozó rendelkezésekben foglalt feltételek általa nem ismert fennállását a magánszemélynek az adott juttatásra vonatkozó nyilatkozata alapján veszi figyelembe.
 
 (5) Ha béren kívüli juttatásra vonatkozóan az adóhatóság a feltételek fennállásának hiányát állapítja meg, a jogkövetkezményeket – ha nem rendelkezik a magánszemély nyilatkozatával – a kifizető viseli. Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye, illetve a magánszemély a nyilatkozat átadását nem tudja igazolni, akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az adóhatóság határozata alapján kell viselnie.
@@ -2664,6 +2670,14 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (8) Ha a magánszemély nyugdíj-előtakarékossági számláját 2013. január 1-jét megelőzően nyitotta meg, illetve az önkéntes kölcsönös nyugdíjpénztárban, a foglalkoztatói nyugdíjszolgáltató intézményben tagi jogviszonya 2013. január 1-jét megelőzően keletkezett, a magánszemélyt megillető nyugdíjszolgáltatás adókötelezettségére az 1. számú melléklet 2012. december 31-én hatályos 6.5. alpontját lehet alkalmazni.
 
+84/X. § (1) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 71. § (3a) bekezdését a munkáltató – döntése szerint – az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően az önkéntes kölcsönös biztosító pénztárakról szóló törvény alapján célzott szolgáltatásra befizetett összegre is alkalmazhatja. A munkáltató ilyen döntése esetén a célzott szolgáltatásra befizetett összeg után a közterheket 2013. május hónapra vonatkozó kötelezettségként állapítja meg, vallja be és fizeti meg.
+
+(2) Az önkéntes kölcsönös biztosító pénztár e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 1. számú melléklet 6. pont 6.10. alpontját az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összeg terhére nyújtott szolgáltatásokra akkor alkalmazhatja, ha a munkáltató az önkéntes biztosító pénztárat teljes bizonyító erejű okiratba foglalt nyilatkozatában tájékoztatja arról, hogy adókötelezettségét az (1) bekezdés szerint kívánja megállapítani. A nyilatkozat megtétele esetén a munkáltató az (1) bekezdés előírásai szerint jár el. Az önkéntes biztosító pénztár a munkáltató nyilatkozatának birtokában az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően teljesített célzott szolgáltatások után felmerült adókötelezettségét önellenőrzéssel helyesbíti, és a magánszemély részére kiadott igazolást módosítja.
+
+(3) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 1. számú melléklet 4. pont 4.7. b) alpontját, 4.12. a) alpontját, 4.13. alpontját és 4.18. alpontját, valamint 8. pont 8.6. a) alpontját 2012. január 1-jétől alkalmazni lehet.
+
+(4) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel módosított 1. számú melléklet 8. pont 8.15. alpontját 2012. július 1-jétől alkalmazni lehet.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2796,7 +2810,7 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.7. a) kormányrendeletben szabályozott feltételek alapján két- és többoldalú nemzetközi oktatási együttműködési megállapodás keretében az oktatásért felelős miniszter által a Magyar Ösztöndíj Bizottság vagy a Magyar Ösztöndíj Bizottság Irodája javaslatára adományozott ösztöndíj, egyéb juttatás,
 
-b) a felsőoktatásról szóló törvény, illetve a felsőoktatásban részt vevő hallgatók juttatásait szabályozó kormányrendelet(ek) alapján
+b) a nemzeti felsőoktatásról szóló törvény, illetve a felsőoktatásban részt vevő hallgatók juttatásait szabályozó kormányrendelet(ek) alapján
 
 ba) külföldi felsőoktatási intézményben tanuló belföldi hallgató,
 
@@ -2822,7 +2836,7 @@ bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének
 
 4.12. a felsőoktatási intézmény nappali tagozatos hallgatója részére
 
-a) a felsőoktatásról szóló törvény szerint az őt megillető juttatásként kifizetett
+a) a nemzeti felsőoktatásról szóló törvény szerint az őt megillető juttatásként kifizetett
 
 – ösztöndíj,
 
@@ -2832,7 +2846,7 @@ a) a felsőoktatásról szóló törvény szerint az őt megillető juttatáské
 
 b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
-4.13. a közoktatásról szóló törvényben meghatározott nevelési-oktatási intézmény, a felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy egyház által a tanuló, a hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontokban nem említett pénzbeli juttatás;
+4.13. a közoktatásról szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy egyház által a tanuló, a hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontokban nem említett pénzbeli juttatás;
 
 4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása;
 
@@ -2842,7 +2856,7 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 
 4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 
-4.18. a felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
+4.18. a nemzeti felsőoktatásról szóló törvény alapján adományozott arany, gyémánt, vas, illetve rubin díszoklevélhez kapcsolódóan a felsőoktatási intézmény által a Szabályzatában meghatározott feltételek szerint kifizetett pénzbeli juttatásnak az a része, amely nem haladja meg az adóév első napján érvényes minimálbér havi összegének négyszeresét;
 
 4.19. a szépkorúak jubileumi köszöntéséről szóló kormányrendelet alapján folyósított juttatás;
 
@@ -2865,6 +2879,8 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
 azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+
+4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
 5.
 
@@ -2937,6 +2953,8 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6.9. a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás – szerződőként vagy a biztosítóhoz bejelentett díjfizetőként fizetett – rendszeres díja azzal, hogy rendszeres díjnak minősül az a díj, amelyet a biztosítási szerződés alapján legalább évente egy alkalommal kell fizetni, és amelynek összege nem haladja meg a biztosítási szerződés alapján az előző évi kötelezően fizetendő díjak együttes összegének a Központi Statisztikai Hivatal által közzétett, a díjnövelés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét.
+
+6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.
 
 7. Egyéb indokkal adómentes:
 
@@ -3026,7 +3044,7 @@ azzal, hogy az a)–b) pont szerinti rendelkezés nem alkalmazható, ha az eleng
 
 8.6. az ingyenesen vagy kedvezményesen juttatott
 
-a) a gyermeknek vagy rá tekintettel más magánszemélynek a közoktatásról szóló törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény vagy a tankönyvpiac rendjéről szóló törvény alapján, a hallgatónak a felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
+a) a gyermeknek vagy rá tekintettel más magánszemélynek a közoktatásról szóló törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény vagy a tankönyvpiac rendjéről szóló törvény alapján, a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
 
 b) a közoktatásról szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérletjegy;
 
@@ -3064,7 +3082,7 @@ ab) visszatérítés vagy áru, szolgáltatás vásárlásához kapcsolódó má
 
 b) üzleti forgalmának növelése érdekében valamely termék megismertetése céljából adott áruminta, azzal, hogy árumintának minősül a képviselt termék olyan jellemző kisebb része vagy mennyisége, amely kizárólag a képviselt termék bemutatására szolgál, és amely fizikai állapotánál, vagyoni értékénél fogva tartós használatra és más cél elérésére nem alkalmas;
 
-8.15. az a kedvezmény, amely után a kifizető az erről szóló törvényben meghatározott fogyasztói árkiegészítésben részesül;
+8.15. az a személyszállítási közszolgáltatási utazási kedvezmény, amely után a kifizető a személyszállítási szolgáltatásokról szóló törvényben meghatározott szociálpolitikai menetdíj-támogatásban részesül;
 
 8.16. a Magyar Honvédség, a rendvédelmi szervezetek, valamint a Nemzeti Adó- és Vámhivatal tartósan fokozott igénybevételnek kitett, terepfoglalkozáson, gyakorlaton részt vevő vagy őr- és ügyeleti szolgálatot ellátó hivatásos és szerződéses állományú tagjának, valamint a polgári védelmi szervezet békeidőszaki, minősített időszaki katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a rendvédelmi középiskola tanulója, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
 

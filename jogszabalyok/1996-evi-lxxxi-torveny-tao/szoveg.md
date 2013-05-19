@@ -165,9 +165,9 @@ fejében a jogosult által kapott ellenérték;
 - 34. természeti erőforrás: a környezet védelmének általános szabályairól szóló törvényben meghatározott fogalom;
 - 34/a. üzemkörön kívüli ingatlan: az az ingatlan, amely nincs az adózó vállalkozási tevékenységével közvetlen összefüggésben; ilyennek minősül különösen az üzemen belüli lakóépület, valamint az elsődlegesen jóléti célt szolgáló épület, építmény;
 - 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
-- 36. mozgóképszakmai hatóság által kiadott támogatási igazolás: a mozgóképszakmai hatóság által a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója részére kiállított igazolás, amely tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
+- 36.
 - 37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett szervezet.
-- 38. az előadó-művészeti államigazgatási szerv által kiadott támogatási igazolás: az előadó-művészeti államigazgatási szerv által az előadó-művészeti szervezet támogatója részére kiadott, a támogatást nyújtó adózó megnevezését, székhelyét, adószámát és a kedvezményre jogosító támogatás összegét tartalmazó okirat, amely tekintetében az egy előadó-művészeti szervezethez kapcsolódó, tárgyévre vonatkozóan kiadott kedvezményre jogosító támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
+- 38.
 - 39. előadó-művészeti szervezet jegybevétele: e törvény alkalmazásában az a TESZOR 90.01. Előadóművészet, a TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenységből a bábszínházi előadás általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele.
 - 40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló törvényben egyéni cégként meghatározott jogalany.
 - 41. látvány-csapatsport: a labdarúgás, a kézilabda, a kosárlabda, a vízilabda, a jégkorong sportág;
@@ -177,7 +177,7 @@ fejében a jogosult által kapott ellenérték;
   - b) alsóbb bajnoki osztályaiban részt vevő (indulási jogot elnyert) sportszervezet abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz. Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakosztállyal) működő sportszervezet esetén az e törvényben a hivatásos sportszervezetekre előírt rendelkezéseket csak arra a jogi személy szervezeti egységre (szakosztályra) kell alkalmazni, amelyik az a)–b) pont szerinti versenyrendszerek bajnoki osztályaiban részt vesz.
 - 43/a. látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő utánpótlás-nevelés fejlesztését végző alapítvány, amelyik közhasznúnak minősül;
 - 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
-- 45. a látvány-csapatsport támogatását biztosító támogatási igazolás: olyan okirat, amelyet a 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, a 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állít ki a látvány-csapatsport tevékenység támogatója és a támogatás igénybevételére jogosult szervezet részére;
+- 45.
 - 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
 
 ## MÁSODIK RÉSZ — A TÁRSASÁGI ADÓ
@@ -716,17 +716,17 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (16)
 
-### Térségi és egyéb adókedvezmények
+### A filmalkotás és az előadó-művészeti szervezetek támogatásának adókedvezménye és egyéb adókedvezmények
 
-22. § (1) Az adózó a 4. § 36. és 38. pontja szerinti, részére kiadott támogatási igazolásban szereplő összegig – döntése szerint – a támogatás juttatásának adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+22. § (1) Az adózó a (2) és (4) bekezdés szerinti, részére kiadott támogatási igazolásban szereplő összegig – döntése szerint – a támogatás juttatásának adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
-(2)
+(2) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója (ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál e célra vezetett számlára befizető adózót) az (1) bekezdés szerinti adókedvezményt a mozgóképszakmai hatóság által kiállított támogatási igazolás alapján veheti igénybe. A támogatási igazolás tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.
 
 (3) A mozgóképszakmai hatóság által egy filmalkotáshoz kiadott, kedvezményre való jogosultságot igazoló támogatási igazolások összértéke nem haladhatja meg a mozgóképszakmai hatóság által jóváhagyott közvetlen filmgyártási költség Mktv. 12. § (10) bekezdésében meghatározott részének 20 százalékát, azzal, hogy nem állítható ki igazolás, ha a filmalkotás az Mktv. rendelkezései szerint nem jogosult közvetett állami támogatásra.
 
-(4)
+(4) Az előadó-művészeti szervezet támogatója az (1) bekezdés szerinti adókedvezményt az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv által kiállított támogatási igazolás alapján veheti igénybe. Az egy előadó-művészeti szervezethez kapcsolódóan a tárgyévre vonatkozóan kiadott támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
 
-(5)
+(5) Az előadó-művészeti szervezet támogatója a támogatás juttatásáért a támogatott előadó-művészeti szervezet részéről ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult az (1) bekezdés szerinti adókedvezmény igénybevételére.
 
 (6)–(7)
 
@@ -838,7 +838,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 ### Látvány-csapatsportok támogatásának adókedvezménye
 
-22/C. § (1) Látvány-csapatsport támogatása keretében az adózó a következő jogcímekre nyújthat támogatást (juttatást):
+22/C. § (1) Látvány-csapatsport támogatása (e § alkalmazásában a továbbiakban: támogatás) keretében az adózó a következő jogcímekre nyújthat támogatást (juttatást):
 
 - a) a látvány-csapatsport országos sportági szakszövetsége részére
   - aa) az utánpótlás-nevelési feladatainak ellátására,
@@ -872,9 +872,26 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
-(3) Az adókedvezmény a látvány-csapatsport támogatását biztosító támogatási igazolás alapján vehető igénybe. A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére pedig a látvány-csapatsport országos sportági szakszövetsége azt követően állítja ki, hogy a látvány-csapatsport támogatásának igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot jóváhagyja, és amely tartalmazza a támogatást (juttatást) nyújtó köztartozásmentes adózó megnevezését, székhelyét, adószámát, a kedvezményre jogosító támogatás (juttatás) összegét, valamint a támogatás igénybevételére jogosult szervezet önálló pénzforgalmi számlájának számát – jogcímenként –, amelyre a támogató a sportigazgatási szerv vagy a látvány-csapatsport országos sportági szakszövetsége által kiállított támogatási igazolásban szereplő támogatási összeget vagy annak egy részét a támogatási igazolás kézhezvételét követően teljesíti.
+(3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
 
-(3a) A támogatási igazolás a sportfejlesztési program jóváhagyását követően attól függetlenül kiállítható, hogy a támogatás elő-, vagy utófinanszírozással valósul meg. A látvány-csapatsportok támogatása adókedvezménye igénybevételének további feltétele – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint – a támogatási igazolásban szereplő összegű támogatás adózó részéről történő teljesítése a támogatott szerv részére.
+- a) a támogatási igazolásban szereplő összegű támogatást a támogatott szervezet, a (3a) és (3b) bekezdésben meghatározott kiegészítő sportfejlesztési támogatást (a továbbiakban: kiegészítő sportfejlesztési támogatás) az ott meghatározottak szerint a látvány-csapatsport országos sportági szakszövetség vagy az (1) bekezdés e) pontjában meghatározott sportköztestület számára átutalja, valamint
+- b) a támogatás és a kiegészítő sportfejlesztési támogatás átutalásának megtörténtét az állami adóhatóság részére – a (3d) bekezdés figyelembe vételével – bejelentse.
+
+(3a) Az adózó a támogatási igazolásban meghatározott összeg 19. § (1) és (2) bekezdése szerinti adókulccsal számított értéke legalább 75 százalékát köteles szponzori vagy támogatási szerződés keretében a támogatás adóévében annak a látvány-csapatsport országos sportági szakszövetségnek befizetni, amely sportágát az adókedvezmény alapjául szolgáló támogatásban részesítette. Az (1) bekezdés e) pontjában meghatározott sportköztestület részére nyújtott támogatás esetén az adózó a kiegészítő sportfejlesztési támogatást e sportköztestület részére köteles szponzori vagy támogatási szerződés keretében megfizetni.
+
+(3b) Az adózó a kiegészítő sportfejlesztési támogatás mértékét a 10 százalékos társasági adókulcs szerinti mértékkel akkor állapíthatja meg, ha a támogatás adóévében a 19 százalékos társasági adókulcs alkalmazására nem köteles. Ha az adózó a kiegészítő sportfejlesztési támogatás mértékét a várható fizetendő adó alapján a 10 százalékos társasági adókulcs alapján határozza meg és a támogatás adóévében a pozitív adóalapja meghaladja az 500 millió forintot, az adózó köteles a támogatás legalább 7 százalékát a támogatás adóévét követő 90 napon belül a (3a) bekezdésben meghatározott módon kiegészítő sportfejlesztési támogatásra fordítani.
+
+(3c) Az adózó a támogatást és a kiegészítő sportfejlesztési támogatást a látvány-csapatsport országos sportági szakszövetsége vagy a sportigazgatási szerv által a támogatási igazolásban meghatározott fizetési számlára utalja át a támogatási igazolás kézhezvételét követően.
+
+(3d) Az adózó a támogatás és a kiegészítő sportfejlesztési támogatás kifizetésének tényét – annak pénzügyi teljesítésétől számított 8 napon belül – az állami adóhatóság részére bejelenti. A bejelentés elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(3e) A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állítja ki azt követően, hogy a támogatás igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot jóváhagyja. A támogatási igazolás a sportfejlesztési program jóváhagyását követően arra tekintet nélkül állítható ki, hogy a támogatás elő-, vagy utófinanszírozással valósul meg.
+
+(3f) A támogatási igazolás tartalmazza:
+
+- a) a támogatást (juttatást) nyújtó köztartozásmentes adózó megnevezését, székhelyét, adószámát,
+- b) a kedvezményre jogosító támogatás (juttatás) összegét, valamint
+- c) – jogcímenként – a támogatott szervezet önálló fizetési számlájának számát.
 
 (4) A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet jóváhagyott, adott támogatási időszakra vonatkozó sportfejlesztési programjában szereplő,
 
@@ -919,11 +936,11 @@ szélessávú internetszolgáltatást szolgáló beruházás,
   - ba) naponta a sportcélú ingatlan üzemidejének legalább 20%-ában és évente legalább 10 nap, vagy
   - bb) naponta a sportcélú ingatlan üzemidejének legalább 16%-ában és évente legalább 8 nap, vagy
   - bc) naponta a sportcélú ingatlan üzemidejének legalább 12%-ában és évente legalább 6 nap ingyenesen vagy kedvezményes áron hasznosítja,
-- c) bérelt vagy más jogcímen használt, nem a látvány-csapatsportban működő hivatásos sportszervezet tulajdonában álló ingatlan esetén a sportcélú ingatlant piaci áron béreli vagy más jogcímen használja, azzal, hogy a látvány-csapatsportban működő hivatásos sportszervezet által fizetett bérleti, vagy a használatért járó egyéb díj nem lehet alacsonyabb a bérelt vagy más jogcímen használt létesítménynek – ideértve a látvány-csapatsport támogatásból finanszírozott beruházások eredményeként megvalósuló létesítményeket is – a bérleményre vagy más jogcímen történő használatra eső tényleges értékcsökkenési költségei és működési költségei összegének 50%-ánál, figyelembe véve a létesítmény teljes és a hivatásos sportszervezet által ténylegesen igénybe vett kapacitásának arányát.
+- c) bérelt vagy más jogcímen használt, nem a látvány-csapatsportban működő hivatásos sportszervezet tulajdonában álló ingatlan esetén a sportcélú ingatlant piaci áron béreli vagy más jogcímen használja, azzal, hogy a látvány-csapatsportban működő hivatásos sportszervezet által fizetett bérleti, vagy a használatért járó egyéb díj nem lehet alacsonyabb a bérelt vagy más jogcímen használt létesítménynek – ideértve a támogatásból finanszírozott beruházások eredményeként megvalósuló létesítményeket is – a bérleményre vagy más jogcímen történő használatra eső tényleges értékcsökkenési költségei és működési költségei összegének 50%-ánál, figyelembe véve a létesítmény teljes és a hivatásos sportszervezet által ténylegesen igénybe vett kapacitásának arányát.
 - d) a jelenértékén legalább 5 millió forint értékű tárgyi eszköz felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a támogatásból megvalósuló felújítást legalább 5 évig az eredeti rendeltetésének megfelelően hasznosítja, valamint benyújtja a sportcélú ingatlan tulajdonosának előzetes írásbeli hozzájárulását arról, hogy erre az időtartamra – a felújított sportcélú ingatlan üzembe helyezését követő 30 napon belül – a Magyar Állam javára az ingatlan-nyilvántartásba az igénybe vett adókedvezmény mértékéig jelzálogjog kerül bejegyzésre,
 - e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruházás, felújítás esetén a (3) bekezdésben meghatározott sportfejlesztési program benyújtásával egyidejűleg írásban nyilatkozik a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége felé arról, hogy a sportcélú ingatlanfejlesztésre nyílt pályázatot ír ki és a pályázati eljárás eredménye alapján nyertes személlyel köt szerződést a tárgyi eszköz beruházás, felújítás megvalósítására.
 
-(6a) A (6) bekezdés e) pontjában foglaltakat a látvány-csapatsport támogatása támogatási rendszerből megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a látvány-csapatsport támogatását biztosító támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.
+(6a) A (6) bekezdés e) pontjában foglaltakat a támogatásból megvalósuló, építési beruházással járó, sportcélú ingatlanra irányuló tárgyi eszköz beruházás, felújítás esetén nem kell alkalmazni, ha a támogatási kérelem tárgya sportcélú ingatlanra irányuló, nem a támogatásból finanszírozott, már megkezdett építési beruházással járó tárgyi eszköz beruházás, felújítás, és ezen sportcélú ingatlanfejlesztést közbeszerzési eljárás eredményeként nyertes ajánlattevő végzi.
 
 (7) A támogatott szervezet a (6) bekezdés a) pontjában meghatározott piaci alapon történő hasznosítási kötelezettségtől – az elsődleges sportcél veszélyeztetése nélkül – a sportcélú ingatlan nem versenyrendszerben szervezett szabadidősport-események lebonyolítása, valamint a helyi önkormányzat sportról szóló törvényben meghatározott iskolai testneveléssel és diáksporttal kapcsolatos feladatainak ellátása, főiskolai-egyetemi sport események, valamint közösségi célú szabadidős, szórakoztató és kulturális események lebonyolítása céljából a (6) bekezdés ba)–bc) pontjában meghatározott mértékeken felül is eltérhet.
 
@@ -931,7 +948,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (9) A sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége a jelenértékén legalább 300 millió forint értékű sportfejlesztési program e törvény felhatalmazása alapján kiadott kormányrendelet alapján a sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. A sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 10 napon belül közli álláspontját a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége vezetőjével. Véleményeltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége vezetője a sportpolitikáért felelős miniszter útján a Kormány döntését kéri. A sportigazgatási szerv vagy – az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén – a látvány-csapatsport országos sportági szakszövetsége vezetője a Kormány döntésének megfelelően jóváhagyja vagy elutasítja a sportfejlesztési program e törvény szerinti támogatását és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.
 
-(10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a látvány-csapatsport támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
+(10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
 
 ### Az adókedvezmények igénybevételének szabályai
 
@@ -1288,7 +1305,11 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (6) E törvénynek az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 22/C. § (10) bekezdését első alkalommal a 2013–2014-es támogatási időszakra vonatkozóan benyújtott sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
 
-29/T. § E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 4. § 38. pontja alkalmazása során a támogatott szerv úgy jár el, hogy a 2013. évi adóévről kiállított támogatási igazolások összértéke ne haladja meg az előadó-művészeti szervezet EGT-tagállamban 2012. évben tartott előadásaiból származó jegybevétele 80%-át.
+29/T. § (1) Az egy előadó-művészeti szervezet részére a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke legfeljebb az e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésében meghatározott mértékig terjedhet.
+
+(2) Az előadó-művészeti szervezet erre vonatkozó kérelme esetén a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke megállapításánál – az (1) bekezdéstől és e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésétől eltérően – az előadó-művészeti szervezet EGT-tagállamban 2013. évben tartott előadásaiból származó jegybevétele 80%-át kell figyelembe venni.
+
+29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakban benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -1319,7 +1340,10 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (10) Felhatalmazást kap a Kormány, hogy a látvány-csapatsport egyes támogatási jogcímein nyújtható támogatás (juttatás) igénybevételének részletes feltételeit és eljárásrendjét, a támogatás feltételét képező sportfejlesztési program jóváhagyásának, a támogatást biztosító támogatási igazolás kiállításának, sportlétesítmény-fejlesztési célra irányuló tárgyi eszköz beruházás, felújítás kiszorító hatás elkerülése miatti korlátozásának, a sportcélú ingatlanfejlesztésre irányuló nyílt pályázat kiírásának és elbírálásának, a támogatási igazolás alapján igénybe vehető egyes jogcímeken nyújtott támogatás felhasználásának, elszámolásának, ellenőrzésének, valamint a támogató és a támogatott szervezet között a támogatásra tekintettel a támogató részére nyújtott juttatás tilalmának és a tilalom megszegése következményeinek részletes szabályait rendeletben állapítsa meg.
 
-(11) Felhatalmazást kap a kultúráért felelős miniszter, hogy az e törvény 22. § (1) bekezdése alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(11) Felhatalmazást kap a kultúráért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben a 22. § (1) bekezdése alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan
+
+- a) a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
+- b) a 22. § (4) bekezdése szerinti támogatási igazolás iránti kérelem tartalmát, a támogatási igazolás kiállítására irányuló eljárás szabályait és a támogatási igazolás tartalmát, valamint a támogatási igazolással kapcsolatos adatszolgáltatás és ellenőrzés részletes szabályait meghatározza.
 
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
@@ -1526,7 +1550,7 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 11. A gazdasági társaságokról szóló törvényben előírt saját tőke jegyzett tőke arány, vagy a veszteség fedezetét szolgáló tőkeemelés révén szerzett tulajdoni részesedésre elszámolt értékvesztés.
 
-12.
+12. az adóévben szponzori vagy támogatási szerződés keretében nyújtott, a 22/C. § (3a)–(3b) bekezdés szerinti kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;
 
 13. az adózó által (a közhasznú szervezet kivételével) az adóévben nem adomány céljából, visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke (ide nem értve az általános forgalmi adóról szóló törvény szerinti árumintát), az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha a juttatás külföldi személy vagy az üzletvezetés helye alapján külföldi illetőségű részére történik vagy az adózó nem rendelkezik a juttatásban részesülő nyilatkozatával, amely szerint a juttatás adóévében az eredmény e juttatás következtében elszámolt bevétel nélkül számítva nem lesz negatív, amelyet a beszámoló elkészítését követően nyilatkozat útján igazol;
 
@@ -1568,7 +1592,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
 
-15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 4. § 36., 38. vagy 44–45. pontja alapján került sor.
+15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 22. § (1) bekezdése vagy a 22/C. § (1) bekezdése alapján került sor.
 
 16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
 
