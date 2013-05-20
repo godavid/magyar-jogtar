@@ -551,141 +551,11 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 #### 49. §
 
-50. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Béren kívüli juttatásnak minősül a munkáltatói tag által az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összegből az a rész, amely évente nem haladja meg a pénztártag alkalmazottak létszáma és a minimálbér szorzatát azzal, hogy
-
-a) a befizetett összegnek az értékhatárt meghaladó része egyes meghatározott juttatásnak minősül,
-
-b) a béren kívüli juttatásnak az egy magánszemélyre jutó összegét a 70. § (4) bekezdés szerinti éves keretösszeg számításánál figyelmen kívül kell hagyni,
-
-c) az alkalmazottak létszámaként a befizetéskor – az adóéven belül több befizetés esetén az első befizetéskor – pénztártag alkalmazottak létszáma vehető figyelembe.”
-
-(2) Az Szja tv. a következő 84/X. §-sal egészül ki:
-
-„84/X. § (1) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 71. § (3a) bekezdését a munkáltató – döntése szerint – az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően az önkéntes kölcsönös biztosító pénztárakról szóló törvény alapján célzott szolgáltatásra befizetett összegre is alkalmazhatja. A munkáltató ilyen döntése esetén a célzott szolgáltatásra befizetett összeg után a közterheket 2013. május hónapra vonatkozó kötelezettségként állapítja meg, vallja be és fizeti meg.
-
-(2) Az önkéntes kölcsönös biztosító pénztár e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 1. számú melléklet 6. pont 6.10. alpontját az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett összeg terhére nyújtott szolgáltatásokra akkor alkalmazhatja, ha a munkáltató az önkéntes biztosító pénztárat teljes bizonyító erejű okiratba foglalt nyilatkozatában tájékoztatja arról, hogy adókötelezettségét az (1) bekezdés szerint kívánja megállapítani. A nyilatkozat megtétele esetén a munkáltató az (1) bekezdés előírásai szerint jár el. Az önkéntes biztosító pénztár a munkáltató nyilatkozatának birtokában az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény hatálybalépését megelőzően teljesített célzott szolgáltatások után felmerült adókötelezettségét önellenőrzéssel helyesbíti, és a magánszemély részére kiadott igazolást módosítja.
-
-(3) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 1. számú melléklet 4. pont 4.7. b) alpontját, 4.12. a) alpontját, 4.13. alpontját és 4.18. alpontját, valamint 8. pont 8.6. a) alpontját 2012. január 1-jétől alkalmazni lehet.
-
-(4) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel módosított 1. számú melléklet 8. pont 8.15. alpontját 2012. július 1-jétől alkalmazni lehet.”
-
-(3) Az Szja tv. 1. számú melléklete e törvény 1. melléklete szerint módosul.
-
-(4) Az Szja tv. 1. számú melléklet 4. pont 4.7. b) alpontjában, 4.12. a) alpontjában, 4.13. alpontjában és 4.18. alpontjában, valamint 8. pont 8.6. a) alpontjában a „felsőoktatásról” szövegrész helyébe a „nemzeti felsőoktatásról” szöveg lép.
-
-51. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 22. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) szerinti megrendelésre készült filmalkotás vagy nem megrendelésre készült filmalkotás támogatója (ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságnak a kincstárnál e célra vezetett számlára befizető adózót) az (1) bekezdés szerinti adókedvezményt a mozgóképszakmai hatóság által kiállított támogatási igazolás alapján veheti igénybe. A támogatási igazolás tartalmazza a támogatást nyújtó adózó megnevezését, székhelyét, adószámát, illetve a kedvezményre jogosító támogatás összegét.”
-
-(2) A Tao. tv. 22. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Az előadó-művészeti szervezet támogatója az (1) bekezdés szerinti adókedvezményt az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szerv által kiállított támogatási igazolás alapján veheti igénybe. Az egy előadó-művészeti szervezethez kapcsolódóan a tárgyévre vonatkozóan kiadott támogatási igazolások összértéke nem haladhatja meg az előadó-művészeti szervezet EGT-tagállamban a tárgyévet megelőző évben tartott előadásaiból származó jegybevétele 80%-át.
-
-(5) Az előadó-művészeti szervezet támogatója a támogatás juttatásáért a támogatott előadó-művészeti szervezet részéről ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult az (1) bekezdés szerinti adókedvezmény igénybevételére.”
-
-(3) A Tao. tv. 22/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
-
-a) a támogatási igazolásban szereplő összegű támogatást a támogatott szervezet, a (3a) és (3b) bekezdésben meghatározott kiegészítő sportfejlesztési támogatást (a továbbiakban: kiegészítő sportfejlesztési támogatás) az ott meghatározottak szerint a látvány-csapatsport országos sportági szakszövetség vagy az (1) bekezdés e) pontjában meghatározott sportköztestület számára átutalja, valamint
-
-b) a támogatás és a kiegészítő sportfejlesztési támogatás átutalásának megtörténtét az állami adóhatóság részére – a (3d) bekezdés figyelembe vételével – bejelentse.”
-
-(4) A Tao. tv. 22/C. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-„(3a) Az adózó a támogatási igazolásban meghatározott összeg 19. § (1) és (2) bekezdése szerinti adókulccsal számított értéke legalább 75 százalékát köteles szponzori vagy támogatási szerződés keretében a támogatás adóévében annak a látvány-csapatsport országos sportági szakszövetségnek befizetni, amely sportágát az adókedvezmény alapjául szolgáló támogatásban részesítette. Az (1) bekezdés e) pontjában meghatározott sportköztestület részére nyújtott támogatás esetén az adózó a kiegészítő sportfejlesztési támogatást e sportköztestület részére köteles szponzori vagy támogatási szerződés keretében megfizetni.”
-
-(5) A Tao. tv. 22/C. §-a a következő (3b)–(3f) bekezdéssel egészül ki:
-
-„(3b) Az adózó a kiegészítő sportfejlesztési támogatás mértékét a 10 százalékos társasági adókulcs szerinti mértékkel akkor állapíthatja meg, ha a támogatás adóévében a 19 százalékos társasági adókulcs alkalmazására nem köteles. Ha az adózó a kiegészítő sportfejlesztési támogatás mértékét a várható fizetendő adó alapján a 10 százalékos társasági adókulcs alapján határozza meg és a támogatás adóévében a pozitív adóalapja meghaladja az 500 millió forintot, az adózó köteles a támogatás legalább 7 százalékát a támogatás adóévét követő 90 napon belül a (3a) bekezdésben meghatározott módon kiegészítő sportfejlesztési támogatásra fordítani.
-
-(3c) Az adózó a támogatást és a kiegészítő sportfejlesztési támogatást a látvány-csapatsport országos sportági szakszövetsége vagy a sportigazgatási szerv által a támogatási igazolásban meghatározott fizetési számlára utalja át a támogatási igazolás kézhezvételét követően.
-
-(3d) Az adózó a támogatás és a kiegészítő sportfejlesztési támogatás kifizetésének tényét – annak pénzügyi teljesítésétől számított 8 napon belül – az állami adóhatóság részére bejelenti. A bejelentés elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
-
-(3e) A támogatási igazolást az (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a sportigazgatási szerv, az (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelmére a látvány-csapatsport országos sportági szakszövetsége állítja ki azt követően, hogy a támogatás igénybevételére jogosult szervezet által benyújtott, a támogatás igénybevételének feltételét képező, tervezett támogatással érintett sportfejlesztési programot jóváhagyja. A támogatási igazolás a sportfejlesztési program jóváhagyását követően arra tekintet nélkül állítható ki, hogy a támogatás elő-, vagy utófinanszírozással valósul meg.
-
-(3f) A támogatási igazolás tartalmazza:
-
-a) a támogatást (juttatást) nyújtó köztartozásmentes adózó megnevezését, székhelyét, adószámát,
-
-b) a kedvezményre jogosító támogatás (juttatás) összegét, valamint
-
-c) – jogcímenként – a támogatott szervezet önálló fizetési számlájának számát.”
-
-(6) A Tao. tv. 29/T. §-a helyébe a következő rendelkezés lép:
-
-„29/T. § (1) Az egy előadó-művészeti szervezet részére a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke legfeljebb az e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésében meghatározott mértékig terjedhet.
-
-(2) Az előadó-művészeti szervezet erre vonatkozó kérelme esetén a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke megállapításánál – az (1) bekezdéstől és e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésétől eltérően – az előadó-művészeti szervezet EGT-tagállamban 2013. évben tartott előadásaiból származó jegybevétele 80%-át kell figyelembe venni.”
-
-(7) A Tao. tv. a következő 29/U. §-sal egészül ki:
-
-„29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakban benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.”
-
-(8) A Tao. tv. 30. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Felhatalmazást kap a kultúráért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben a 22. § (1) bekezdése alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan
-
-a) a támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat;
-
-b) a 22. § (4) bekezdése szerinti támogatási igazolás iránti kérelem tartalmát, a támogatási igazolás kiállítására irányuló eljárás szabályait és a támogatási igazolás tartalmát, valamint a támogatási igazolással kapcsolatos adatszolgáltatás és ellenőrzés részletes szabályait
-
-meghatározza.”
-
-(9) A Tao. tv.
-
-- a) „Térségi és egyéb adókedvezmények” alcímének címében a „Térségi” szövegrész helyébe az „A filmalkotás és az előadó-művészeti szervezetek támogatásának adókedvezménye” szöveg;
-- b) 22. § (1) bekezdésében a „4. § 36. és 38. pontja” szövegrész helyébe a „(2) és (4) bekezdés” szöveg;
-- c) 22/C. § (1) bekezdésében a „támogatása” szövegrész helyébe a „támogatása (e § alkalmazásában a továbbiakban: támogatás)” szöveg;
-- d) 22/C. § (6) bekezdés c) pontjában a „látvány-csapatsport támogatásból” szövegrész helyébe a „támogatásból” szöveg;
-- e) 22/C. § (6a) bekezdésében a „látvány-csapatsport támogatása támogatási rendszerből” szövegrész helyébe a „támogatásból” szöveg, a „látvány-csapatsport támogatását biztosító támogatásból” szövegrész helyébe a „támogatásból” szöveg;
-- f) 22/C. § (10) bekezdésében a „látvány-csapatsport támogatás” szövegrész helyébe a „támogatás” szöveg;
-- g) 3. számú melléklet B) fejezet 15. pontjában a „4. § 36., 38. vagy 44–45. pontja” szövegrész helyébe a „22. § (1) bekezdése vagy a 22/C. § (1) bekezdése” szöveg
-
-lép.
-
-(10) A Tao. tv. 3. számú melléklete a 2. melléklet szerint módosul.
-
-(11) Hatályát veszti a Tao. tv. 4. § 36., 38. és 45. pontja.
+#### 50–51. §
 
 #### 52. §
 
-53. § (1) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 7. § 1. pont h) alpontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában
-
-1. jövedéki termék belföldi előállítása: a belföldön bármilyen alapanyag, termék felhasználásával, bármilyen eljárással végzett termelési, feldolgozási, kiszerelési (palackozási) tevékenység, amelynek eredményeként jövedéki termék jön létre, kivéve:]
-
-„h) az adómentes felhasználói vagy a felhasználói engedélyes tevékenység során szennyezetté vált jövedéki termék tisztítását, ha azt adómentes felhasználó vagy felhasználói engedélyes végzi és a tisztítással visszanyert jövedéki terméket az engedélyezett célra használja fel,”
-
-(2) A Jöt. 7. §-a a következő 53–55. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„53. regionális beruházási támogatás: a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásokról szóló iránymutatás (2006/C 54/08), valamint a csoportmentességi rendelet 13. cikke szerinti támogatás;
-
-54. környezetvédelmi beruházási támogatás: a környezetvédelem állami támogatásáról szóló közösségi iránymutatás (2008/C 82/01) 3.1.6.1 pontja szerinti támogatás, valamint a csoportmentességi rendelet 23. cikke szerinti támogatás;
-
-55. mezőgazdasági beruházási támogatás: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló közösségi iránymutatások, 2007–2013 (2006/C 319/1) IV.A és IV.B pontja szerinti támogatás.”
-
-(3) A Jöt. 45. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált, adómentesen beszerzett jövedéki termék a vámhatóság felügyelete mellett megsemmisíthető, adóraktárba szállítható, továbbá azt a jövedéki terméket beszerző adómentes felhasználó tisztíthatja (regenerálhatja).”
-
-(4) A Jöt. 52. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott regionális beruházási támogatás, a környezetvédelmi beruházási támogatás vagy a mezőgazdasági beruházási támogatás összegét.
-
-(7) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e regionális beruházási támogatásban, környezetvédelmi beruházási támogatásban vagy mezőgazdasági beruházási támogatásban.”
-
-(5) A Jöt. 60. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) A szennyezetté, illetve az engedélyezett felhasználási célra alkalmatlanná vált, felhasználói engedéllyel beszerzett jövedéki termék a vámhatóság felügyelete mellett megsemmisíthető, adóraktárba szállítható, továbbá a jövedéki terméket beszerző felhasználói engedélyes tisztíthatja (regenerálhatja). A regenerálással előállított termék felhasználói engedéllyel beszerzett terméknek minősül.
-
-(6) Az engedélyezett célra történő felhasználást követően a technológiából visszanyert, valamint az (5) bekezdés szerinti regenerált jövedéki terméket készletre kell venni.”
+53. § (1)–(5)
 
 (6)–(9)
 
@@ -701,32 +571,6 @@ lép.
 
 #### 65–66. §
 
-### 1. melléklet a 2013. évi XXXVII. törvényhez
-
-1. Az Szja tv. 1. számú melléklet 4. pontja a következő 4.26. alponttal egészül ki:
-
-[Egyes tevékenységekhez kapcsolódóan adómentes:]
-
-„4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.”
-
-2. Az Szja tv. 1. melléklet 6. pontja a következő 6.10. alponttal egészül ki:
-
-(A károk megtérülése, a kockázatok viselése körében adómentes:)
-
-„6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.”
-
-3. Az Szja tv. 1. számú melléklet 8. pont 8.15. alpontja helyébe a következő rendelkezés lép:
-
-(A nem pénzben kapott juttatások közül adómentes:)
-
-„8.15. az a személyszállítási közszolgáltatási utazási kedvezmény, amely után a kifizető a személyszállítási szolgáltatásokról szóló törvényben meghatározott szociálpolitikai menetdíj-támogatásban részesül;”
-
-### 2. melléklet a 2013. évi XXXVII. törvényhez
-
-- 1. A Tao. tv. 3. számú melléklet A) fejezete a következő 12. ponttal egészül ki:
-
-[A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:]
-
-„12. az adóévben szponzori vagy támogatási szerződés keretében nyújtott, a 22/C. § (3a)–(3b) bekezdés szerinti kiegészítő sportfejlesztési támogatás adóévi adózás előtti eredmény terhére elszámolt összege;”
+### 1–2. melléklet a 2013. évi XXXVII. törvényhez
 
 ### 3. melléklet a 2013. évi XXXVII. törvényhez
