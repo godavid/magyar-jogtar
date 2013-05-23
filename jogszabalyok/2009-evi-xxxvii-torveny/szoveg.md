@@ -149,13 +149,15 @@ a kincstári vagyon részét képezi.
 
 (7) Az állam 100%-os tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam 100%-os tulajdonában álló erdővel.
 
-(8) Az optimális állami birtokszerkezet kialakítása során végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
+(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
-9. § (1) Állami tulajdonú erdőt és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet csak vagyonkezelés formájában lehet hasznosításra átengedni.
+(9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
-(2) Állami tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy száz százalékos állami tulajdonú gazdálkodó szervezet végezheti.
+9. § (1) Az állam 100%-os tulajdonában álló erdőt és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet csak vagyonkezelés formájában lehet hasznosításra átengedni.
 
-(3) A vagyonkezelő a (4) bekezdés kivételével az erdő hasznosítását harmadik személynek nem engedheti át.
+(2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy száz százalékos állami tulajdonú gazdálkodó szervezet végezheti.
+
+(3) A vagyonkezelő a (4) bekezdés kivételével az erdő használatát, hasznosítását harmadik személynek nem engedheti át.
 
 (4) Honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdés szerinti szerv vagy gazdálkodó szervezet használatába adhatja.
 
