@@ -47,7 +47,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 ### A beutazás, valamint a három hónapot meg nem haladó tartózkodás joga
 
-3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal jogosult beutazni Magyarország területére.
+3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmánnyal, lejárt érvényességű személyazonosító igazolvánnyal vagy beutazás céljából elismert egyéb okmánnyal jogosult beutazni Magyarország területére.
 
 (2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy Magyarország területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal jogosult beutazni Magyarország területére.
 
@@ -70,7 +70,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (2) A három hónapot meg nem haladó tartózkodásra jogosító vízum a harmadik ország állampolgárságával rendelkező családtagot többszöri beutazásra és az első beutazás napjától számított bármely hat hónapos időszakban három hónapos tartózkodásra jogosítja.
 
-5. § A beutazástól számított három hónapot meg nem haladó tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet Magyarország szociális ellátórendszerére.
+5. § A beutazástól számított három hónapot meg nem haladó tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmány, lejárt érvényességű személyazonosító igazolvány vagy beutazás céljából elismert egyéb okmány; a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet Magyarország szociális ellátórendszerére.
 
 ### A három hónapot meghaladó tartózkodás joga
 
