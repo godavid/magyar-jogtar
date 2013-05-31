@@ -8,7 +8,7 @@ a statisztikáról
 
 ### A törvény célja
 
-Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény az adatok statisztikai módszerekkel történő felvételét, feldolgozását, tárolását, átadását, átvételét, elemzését, szolgáltatását, közlését, valamint közzétételét (a továbbiakban: statisztikai tevékenység) szabályozza.
+Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény az adatok statisztikai módszerekkel történő felvételével, feldolgozásával, tárolásával, átadásával, átvételével, elemzésével, szolgáltatásával, közlésével, valamint közzétételével kapcsolatos közhatalmi és egyéb tevékenységet (a továbbiakban: statisztikai tevékenység) szabályozza.
 
 ### A törvény hatálya
 
@@ -71,7 +71,9 @@ Stt.6. § (1) A KSH feladata:
 
 (3) A statisztikai regiszter (2) bekezdés szerinti tartalma – a csoportképzés alapjául szolgáló alapadatok kivételével – nyilvános. A hivatalos statisztikai szolgálathoz tartozó szervek részére – az országos statisztikai adatgyűjtési programban szereplő adatgyűjtéseik megszervezése érdekében – a regiszter tartalma az ehhez szükséges mértékben kiegészíthető.
 
-Stt.6/A. §
+Stt.6/A. § (1) A KSH az adatok gyűjtéséhez, az adatok feldolgozásához, és az adatok közzétételéhez kapcsolódó közhatalmi feladatait a KSH elnöke által alapított, a magyar állam 100%-os tulajdonában álló Statisztikai Elemző Központ Korlátolt Felelősségű Társaság bevonásával látja el.
+
+(2) A gazdasági társaság felett a tulajdonosi jogokat a magyar állam nevében a KSH elnöke gyakorolja.
 
 Vhr.2. § (1) A KSH feladatainak ellátásához kapcsolódóan a Kormány részére javaslatot tesz
 
@@ -275,21 +277,27 @@ Vhr.7/C. § (1) Amennyiben az ELEKTRA rendszerben üzemzavar történik, a KSH a
 
 Stt.10. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden Magyarországon bekövetkezett születés, haláleset, házasságkötés, bejegyzett élettársi kapcsolat létesítése, élettársi nyilatkozat nyilvántartásba vétele, házasság felbontása, valamint érvénytelenné nyilvánítása, bejegyzett élettársi kapcsolat felbontása, megszüntetése, a nyilvántartott élettársi kapcsolat megszűnése (a továbbiakban együtt: népmozgalmi esemény), valamint lakcímváltozás.
 
-(2) A népmozgalmi események statisztikai felmérése céljából a KSH a következő személyes adatokat gyűjti: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkahely, gyermekek száma, a népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény és a kapcsolódó népmozgalmi események helye és ideje.
+(1a) A népmozgalmi események körében kell megfigyelni a magyarországi lakcímmel rendelkező személyek külföldön bekövetkezett halálozását, valamint a magyarországi lakcímmel rendelkező anyák külföldön történt szülését, amennyiben az esemény anyakönyvezésére Magyarországon is sor kerül.
+
+(2) A népmozgalmi események felmérése a következő adatkörökre terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással, mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény helye és ideje.
 
 (3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
 
-(4) A (2) bekezdés szerinti adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szervek, bíróságok és a közjegyzők kötelesek szolgáltatni. A lakcím adatokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a reá vonatkozó szabályok szerint szolgáltatja.
+(4) A (2) bekezdés szerinti adatkörökbe tartozó, rendelkezésre álló adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szervek, a halottvizsgálati bizonyítvány kiállítására jogosult orvos, a bíróságok és a közjegyzők, valamint – a külföldön történt események esetén – a hazai anyakönyvezést végző hatóságok kötelesek szolgáltatni. A lakcímadatokat a személyiadat- és lakcímnyilvántartást kezelő központi szerv a rá vonatkozó szabályok szerint szolgáltatja.
 
-Vhr.8. § (1) A születés és haláleset statisztikai számbevételénél az 1. számú, illetőleg a 2. számú melléklet szerinti adattartalmú adatszolgáltató lapot az egészségügyi szerv, valamint az anyakönyvvezető tölti ki, és továbbítja az illetékes KSH igazgatóságnak.
+(5) A KSH a halottvizsgálattal kapcsolatos eljárásra vonatkozó külön jogszabályok szerint jogosult a halottvizsgálattal kapcsolatos adatokat egyedi azonosításra alkalmas módon átvenni és kezelni.
 
-(2) A házasságkötés statisztikai számbavételénél a 3. számú melléklet szerinti adattartalmú adatszolgáltató lapot az anyakönyvvezető tölti ki, és azt megküldi az illetékes KSH-igazgatóságnak.
+Vhr.8. § (1) A születés és haláleset statisztikai számbavételénél az 1., illetőleg a 2. melléklet szerinti adattartalmú adatszolgáltató lapot az egészségügyi szerv, illetve a halottvizsgálati bizonyítvány kiállítására jogosult orvos, valamint az anyakönyvvezető, illetve – a külföldön történt események esetén – a hazai anyakönyvezést végző hatóság tölti ki, és továbbítja a KSH-nak.
 
-(3) A válás statisztikai számbavételénél a kötelék felbontása kérdésében ítéletet hozó bíróság az ítélet jogerőre emelkedését követően a 4. számú melléklet szerinti adattartalmú adatszolgáltató lapot tölti ki és megküldi a házasságkötés helye szerint illetékes anyakönyvvezetőnek, aki azt – kiegészítés után – továbbítja az illetékes KSH-igazgatósághoz.
+(2) A házasságkötés statisztikai számbavételénél a 3. melléklet szerinti adattartalmú adatszolgáltató lapot az anyakönyvvezető tölti ki, és azt megküldi a KSH-nak.
 
-(4) Az (1)—(2) bekezdés esetében az adatszolgáltatást a tárgyhónapot követő hónap 5-ig, a (3) bekezdés esetében az ítélet jogerősítési záradékkal történő ellátását követő hét napon belül kell teljesíteni.
+(3) A házasság felbontásának, valamint érvénytelenné nyilvánításának statisztikai számbavételénél a házassági perben ítéletet hozó bíróság az ítélet jogerőre emelkedését követően a 4. melléklet szerinti adattartalmú adatszolgáltató lapot tölti ki és megküldi a házasságkötés helye szerint illetékes anyakönyvvezetőnek, aki azt – az anyakönyvi bejegyzésre vonatkozó kiegészítés után – továbbítja a KSH-nak.
 
-(5) A lakcímváltozásokról a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a tárgyhónapot követő második hónap hetedik napjáig szolgáltat adatot a KSH-nak az 5. számú melléklet szerinti adattartalommal.
+(4) Az (1) bekezdés esetében – az (5) bekezdésben foglalt kivétellel –, valamint a (2) bekezdés esetében az adatszolgáltatást az anyakönyvi bejegyzést követő hónap ötödik napjáig, a (3) bekezdés esetében az ítélet jogerősítési záradékkal történő ellátását követő hét napon belül kell teljesíteni.
+
+(5) A külföldön történt népmozgalmi események esetében az 1., illetőleg a 2. melléklet szerinti tartalmú adatszolgáltatást a tárgyévben bekövetkezett események vonatkozásában a hazai anyakönyvezést végző hatóság a tárgyévet követő év március 31-ig teljesíti a KSH felé.
+
+(6) A lakcímváltozásokról a személyiadat- és lakcímnyilvántartást kezelő központi szerv a nyilvántartásba vételt követő második hónap hetedik napjáig szolgáltat adatot a KSH-nak az 5. melléklet szerinti adattartalommal.
 
 ### Országos statisztikai adatgyűjtési program
 
@@ -443,7 +451,18 @@ Stt.26. § (1) Ez a törvény 1993. május 15-én lép hatályba.
 - a) a kötelező statisztikai fogalmakat, módszereket, osztályozásokat, névjegyzékeket és számjeleket rendeletben szabályozza, és
 - b) rendeletében statisztikai közleményt hatályon kívül helyezzen.
 
-Stt.27–28. §
+### Az Európai Unió jogának való megfelelés
+
+Stt.27. § Ez a törvény
+
+- a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
+- b) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 2008. december 16-i 1338/2008/EK európai parlamenti és tanácsi rendelet,
+- c) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 1338/2008/EK európai parlamenti és tanácsi rendeletnek a halálokok statisztikája tekintetében történő végrehajtásáról szóló 2011. április 5-i 328/2011/EU bizottsági rendelet,
+- d) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. július 11-i 862/2007/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+Stt.28. §
 
 Vhr.23. §
 
@@ -451,243 +470,241 @@ Vhr.23. §
 
 Vhr.24. § Ez a rendelet 1994. január 1-jén lép hatályba.
 
-### 1. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+Vhr.25. § Ez a rendelet
+
+a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
+
+b) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 2008. december 16-i 1338/2008/EK európai parlamenti és tanácsi rendelet,
+
+c) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 1338/2008/EK európai parlamenti és tanácsi rendeletnek a halálokok statisztikája tekintetében történő végrehajtásáról szóló 2011. április 5-i 328/2011/EU bizottsági rendelet,
+
+d) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. július 11-i 862/2007/EK európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 1. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 Az élveszületési lap adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A gyermek születésének
+2. A gyermek:
 
-helye
+2.1. neve
 
-ideje
+2.2. születésének helye, időpontja
 
-neme
+2.3. neme
 
-Az anya családi állapota
+2.4. állampolgársága
 
-A szülők házasságkötésének időpontja
+3. Az anya:
 
-születésének időpontja
+3.1. neve
 
-lakcíme
+3.2. családi állapota
 
-iskolai végzettsége
+4. A szülők:
 
-gazdasági aktivitása
+4.1. házasságkötésének időpontja
 
-foglalkozása, munkaköre
+4.2. születésének helye, időpontja
 
-foglalkozási viszonya
+4.3. lakcíme
 
-állománycsoportja, beosztása
+4.4. állampolgársága
 
-munkáltatójának, munkahelyének megnevezése
+4.5. iskolai végzettsége
 
-Többes szülés esetén a többes szülés száma és a születés sorszáma
+4.6. gazdasági aktivitása
 
-A gyermek hányadik terhességből származik
+4.7. foglalkozása, munkaköre, foglalkozási viszonya
 
-Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
+5. Többes szülés esetén a többes szülés száma és a születés sorszáma
 
-Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
+6. A gyermek hányadik terhességből származik
 
-Az anya jelenlegi terhességét megelőző élveszülésének késői magzati halálozásának ideje
+7. Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
 
-Egyéb szülészeti események száma (magzati halálozások, terhességmegszakítás, méhen kívüli terhesség)
+8. Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
 
-Hol történt a szülés, a szülésnél ki segédkezett
+9. A jelenlegi terhességet megelőző élveszülés, késői magzati halálozás ideje
 
-A terhesség időtartama
+10. Magzati halálozások, terhességmegszakítások, méhen kívüli terhességek száma
 
-A gyermek súlya, hossza és 5 perces Apgár-értéke
+11. Hol történt a szülés, a szülésnél ki segédkezett
 
-fejlődési rendellenessége
+12. A terhesség időtartama
 
-### 2. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+13. A gyermek súlya, hossza és 5 perces Apgár-értéke, fejlődési rendellenessége
+
+### 2. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A halálesettel összefüggő adatfelvételi lapok adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A haláleset
+2. A haláleset helye, időpontja
 
-helye:
+3. Az elhalt:
 
-időpontja:
+3.1. neme
 
-Az elhalt
+3.2. családi állapota
 
-neme:
+3.3. neve
 
-családi állapota:
+3.4. születésének helye, időpontja
 
-neve:
+3.5. lakcíme
 
-születési ideje:
+3.6. állampolgársága
 
-társadalombiztosítási azonosító jele:
+3.7. iskolai végzettsége
 
-lakcíme:
+3.8. halála előtti gazdasági aktivitása
 
-iskolai végzettsége:
+3.9. foglalkozása, munkaköre, foglalkozási viszonya
 
-halála előtti gazdasági aktivitása:
+3.10. utolsó házasságkötésének ideje
 
-foglalkozása, munkaköre:
+4. Életben lévő házastárs:
 
-foglalkozási viszonya:
+4.1. születésének helye, időpontja
 
-állománycsoportja, beosztása:
+4.2. lakcíme
 
-a munkáltatójának, munkahelyének megnevezése:
+4.3. állampolgársága
 
-utolsó házasságkötésének ideje:
+5. Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van
 
-Életben lévő házastárs születési ideje:
+6. A haláleset közelebbi helye
 
-Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van:
+7. Csecsemőhalálozás esetén még:
 
-A haláleset közelebbi helye:
+7.1. az élveszületés helye
 
-A halál okának megállapítója és arra vonatkozó adatok, hogy a halott részesült-e orvosi kezelésben vagy sem:
+7.2. többes szülés esetén hányas szülés, hányadik szülött
 
-A halálhoz vezető betegség(ek), állapot(ok) és azok időtartama:
+7.3. az anya családi állapota
 
-Erőszakos halálesetnél annak helye, módja, oka, körülményei és időpontja:
+7.4. az anya házasságkötésének időpontja
 
-Csecsemőhalálozás esetén még:
+8. A halottvizsgálati bizonyítvány és annak módosításáról szóló értesítő adatai, a perinatális halottvizsgálati bizonyítvány, perinatális halálozási (kórszövettani) értesítő adatai
 
-az élveszülés helye:
-
-többes szülés esetén hányas szülés, hányadik szülött:
-
-az anya családi állapota:
-
-mikor kötött házasságot:
-
-### 3. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+### 3. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A házassági lap adattartalma
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-A házasságkötés
+2. A házasságkötés helye, időpontja
 
-helye
+3. A férj és a feleség adatai:
 
-időpontja
+3.1. házassági családi és utóneve
 
-A férj és a feleség adatai:
+3.2. születési családi és utóneve
 
-Házasságkötés előtti családi és utónév
+3.3. születésének helye, időpontja
 
-A születés időpontja
+3.4. családi állapota a házasságkötés előtt
 
-Családi állapot a házasságkötés előtt
+3.5. lakcíme
 
-Lakcím
+3.6. állampolgársága
 
-Hányadik házasság a jelenlegi
+3.7. hányadik házassága a jelenlegi
 
-Az előző házasság megszűnésének időpontja
+3.8. az előző házasság megszűnésének időpontja
 
-Élve született és életben lévő gyermekek száma
+3.9. élve született és életben lévő gyermekek száma
 
-Iskolai végzettség
+3.10. iskolai végzettsége
 
-Gazdasági aktivitás a házasságkötéskor
+3.11. gazdasági aktivitása
 
-Foglalkozás, munkakör a házasságkötéskor
+3.12. foglalkozása, munkaköre, foglalkozási viszonya
 
-Foglalkozási viszony
+### 4. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
-Állománycsoport, beosztás
+A házasság felbontásáról, valamint érvénytelenné nyilvánításáról szóló lap adattartalma
 
-A munkáltató megnevezése
+1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-### 4. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+2. A házasságkötés helye, időpontja
 
-A válási lap adattartalma
+3. A házasságot jogerősen felbontó bíróság megnevezése
 
-Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+4. A jogerős ítélet ügyszáma
 
-A házasságkötés
+5. Az ítélet jogerőre emelkedésének ideje
 
-helye
+6. A férj és a feleség adatai:
 
-ideje
+6.1. családi és utóneve
 
-A házasságot jogerősen felbontó bíróság megnevezése
+6.2. a házasságkötés előtti családi állapota
 
-A jogerős ítélet ügyszáma
+6.3. születésének helye, időpontja
 
-Az ítélet jogerőre emelkedésének ideje
+6.4. lakcíme
 
-A férj és a feleség adatai:
+6.5. állampolgársága
 
-Családi és utónév
+6.6. a jelenlegi válás hányadik válás
 
-A házasságkötés előtti családi állapot
+6.7. az összes élveszületett és életben lévő gyermek száma
 
-A születés időpontja
+6.8. iskolai végzettsége
 
-Lakcím a kereset beadásakor
+6.9. gazdasági aktivitása
 
-A jelenlegi válás hányadik válás
+6.10. foglalkozása, munkaköre, foglalkozási viszonya
 
-Az összes élveszületett és életben lévő gyermek száma
+7. A felek közös, életben lévő gyermekeinek száma, életkora
 
-A felek közös, életben lévő gyermekeinek száma, életkora
+8. A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
 
-A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
+9. A bíróság tartási kötelezettséget megállapított-e, kinek a javára
 
-A bíróság tartási kötelezettséget megállapított-e, kinek a javára
+10. A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot.
 
-Iskolai végzettség
+11. A keresetet indító fél
 
-Gazdasági aktivitás a kereset beadásakor
+12. A kereset beadásának ideje
 
-Foglalkozás, munkakör a kereset beadásakor
+13. A kötelék kérdésében hozott jogerős ítélet kelte
 
-Foglalkozási viszony
+14. A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
 
-Állománycsoport, beosztás
+15. A házassági perben házassági vagyonjogi igényt érvényesítettek-e
 
-A munkáltató, munkahely megnevezése
-
-A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot. A keresetet indító fél
-
-A kereset beadásának ideje
-
-A kötelék kérdésében hozott jogerős ítélet kelte
-
-A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
-
-A házassági perben házassági vagyonjogi igényt érvényesítettek-e
-
-### 5. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+### 5. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A lakcímváltozásokról szóló adatszolgáltatás adattartalma
 
-A lakcímet változtató személy
+1. A lakcímet változtató személy:
 
-neme
+1.1. neme
 
-születési dátuma
+1.2. születésének helye, időpontja
 
-lakóhelye
+1.3. lakóhelye
 
-tartózkodási helye
+1.4. tartózkodási helye
 
-családi állapota
+1.5. családi állapota
 
-A település
+1.6. állampolgársága
 
-amelyikből elköltözik
+2. A lakcímváltoztatás időpontja
 
-ahová beköltözik
+3. A lakcím:
+
+3.1. ahonnan elköltözik
+
+3.2. ahová beköltözik
 
 ### 6. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 

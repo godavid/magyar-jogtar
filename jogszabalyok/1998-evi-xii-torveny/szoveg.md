@@ -12,6 +12,8 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (3) A külföldre utazás joga érvényes úti okmánnyal gyakorolható. A magyar állampolgár érvényes személyazonosító igazolvánnyal is gyakorolhatja a külföldre utazás jogát EGT-állam területére történő beutazáskor, valamint nemzetközi szerződés alapján, illetve ha azt EGT-államnak nem minősülő állam belső joga biztosítja, amely tényt, illetve annak megszűnését az adott állam értesítését követően a külpolitikáért felelős miniszter a Hivatalos Értesítőben és honlapján haladéktalanul közzétesz.
 
+(4) A magyar állampolgár nemzetközi szerződésben meghatározott országok területére történő beutazáskor a nemzetközi szerződésben meghatározott lejárt érvényességű úti okmánnyal vagy lejárt érvényességű személyazonosító igazolvánnyal is gyakorolhatja a külföldre utazás jogát.
+
 ### A törvény hatálya
 
 2. § E törvény szabályozza az úti okmánnyal történő ellátás rendjét, az eljárás alapvető szabályait, a külföldre utazás jogának korlátozását, valamint az ezekkel összefüggő személyes adatok kezelését.
