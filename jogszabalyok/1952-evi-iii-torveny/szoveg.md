@@ -418,9 +418,11 @@ illetékességét.
 
 (2) Ha a per folyamán derül ki, hogy beavatkozásnak nem lett volna helye, a bíróság a beavatkozót – a felek és a beavatkozó meghallgatása után – a perből kizárja.
 
-(3) A beavatkozást megengedő határozat ellen fellebbezésnek helye nincs. A beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen a beavatkozó fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben részt vehet.
+(3) A beavatkozás tárgyában hozott határozat ellen – a (4) bekezdés szerinti beavatkozás esetét kivéve – fellebbezésnek helye nincs.
 
-57. § (1) A beavatkozó – az egyezséget, az elismerést és a jogról való lemondást kivéve – minden cselekményre jogosult, amelyet az általa támogatott fél megtehet, cselekményeinek azonban csak annyiban van hatálya, amennyiben a fél a cselekményt elmulasztja, illetőleg amennyiben a beavatkozó cselekményei a fél cselekményeivel nem állnak ellentétben. Ha a perben hozott ítélet jogereje a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó cselekményei akkor is hatályosak, ha azok az általa támogatott fél cselekményeivel ellentétben állnak; az ilyen ellentétes cselekmények befolyását az ügy eldöntésére a bíróság a per egyéb adatait is figyelembe véve bírálja el.
+(4) Ha a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó a beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben részt vehet.
+
+57. § (1) A beavatkozó – az egyezséget, az elismerést és a jogról való lemondást kivéve – minden cselekményre jogosult, amelyet az általa támogatott fél megtehet, cselekményeinek azonban csak annyiban van hatálya, amennyiben a fél a cselekményt elmulasztja, illetőleg amennyiben a beavatkozó cselekményei a fél cselekményeivel nem állnak ellentétben. Ha a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó cselekményei akkor is hatályosak, ha azok az általa támogatott fél cselekményeivel ellentétben állnak; az ilyen ellentétes cselekmények befolyását az ügy eldöntésére a bíróság a per egyéb adatait is figyelembe véve bírálja el.
 
 (2) A féllel közlendő határozatokat és iratokat a beavatkozóval is közölni kell.
 
@@ -674,7 +676,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Az ügyész, állami szerv, valamint a per megindítására, illetőleg az abban való fellépésre külön jogszabállyal feljogosított más személy vagy szervezet és a perben érvényesített igény jogosultja közül a megítélt perköltség azt illeti meg, akinél a költségek felmerültek. Pervesztesség esetében a költségek megfizetésére általában azt kell kötelezni, aki a pert megindította. Ha azonban a pert megindítónak és a perben érvényesített igény jogosultjának eljárási cselekményei nem voltak összhangban, a költség megfizetésére azt kell kötelezni, akinek a perbeli cselekménye folytán a költség felmerült.
 
-83. § (1) A beavatkozó által támogatott fél pernyertessége esetében az ellenfelet a beavatkozó költségének megfizetésére is kötelezni kell. A beavatkozó által támogatott fél pervesztessége esetében az ellenfélnek a beavatkozással felmerült költségtöbbletében a beavatkozót kell elmarasztalni; ha azonban a perben hozott ítélet jogereje a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozót az általa támogatott féllel egyetemlegesen kell kötelezni az ellenfél összes költségeinek megfizetésére. A beavatkozás elutasítása esetében a beavatkozót kell elmarasztalni abban a költségben, amelyet a beavatkozás az azt ellenző feleknek okozott.
+83. § (1) A beavatkozó által támogatott fél pernyertessége esetében az ellenfelet a beavatkozó költségének megfizetésére is kötelezni kell. A beavatkozó által támogatott fél pervesztessége esetében az ellenfélnek a beavatkozással felmerült költségtöbbletében a beavatkozót kell elmarasztalni; ha azonban a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozót az általa támogatott féllel egyetemlegesen kell kötelezni az ellenfél összes költségeinek megfizetésére. A beavatkozás elutasítása esetében a beavatkozót kell elmarasztalni abban a költségben, amelyet a beavatkozás az azt ellenző feleknek okozott.
 
 (2) Ha a perbehívott a perbehívást nem fogadja el, vagy ha a perbehívóhoz való csatlakozását, illetőleg a perbe való belépését elutasítják, a perbehívó felet kötelezni kell annak a költségnek a megfizetésére, amelyet a perbehívással az ellenfélnek okozott. Ha a perbehívott a perbehívóhoz beavatkozóként csatlakozik, a jelen § (1) bekezdése irányadó.
 
@@ -1260,7 +1262,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 - d) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt – akár ugyanazon bíróság, akár más bíróság előtt – a per már folyamatban van (128. §), vagy annak tárgyában már jogerős ítéletet hoztak (229. §);
 - e) a félnek nincs perbeli jogképessége (48. §);
 - f) a felperes követelése időelőtti, vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
-- g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe;
+- g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe, továbbá – ha jogszabály másként nem rendelkezik - a munkáltató helytállási kötelezettsége körébe tartozó személyhez fűződő jogot sértő tevékenység és egyéb károkozás miatt a pert a munkavállaló ellen indították.
 - h) külön jogszabály a keresetindításra határidőt állapít meg, ezt a felperes elmulasztja, és igazolási kérelmet sem terjeszt elő, vagy azt a bíróság elutasítja;
 - i) a 124. § (2) bekezdésében foglalt ok áll fenn,
 - j) a felperes a hiánypótlás végett (95. §) neki visszaadott keresetlevelet a kitűzött határidő alatt nem adta be, vagy újból hiányosan adta be, és emiatt a keresetlevél nem bírálható el.
@@ -1664,6 +1666,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A bíróság a bizonyító fél kérelmére az ellenfelet is kötelezheti a tanú nevének és idézhető címének a (3), illetve (4) bekezdésben meghatározott módon történő bejelentésére, ha a bizonyító fél valószínűsíti, hogy az általa nem ismert tanút az ellenfél ismeri vagy ismernie kell. Ebben az esetben a tanú személyi adatainak zártan kezelésére vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a tanú zártan kezelt személyi adatait a bizonyító fél sem ismerheti meg, és az adatok zártan történő kezelését a 172. § (4) bekezdésében meghatározott eseteken kívül csak akkor lehet megszüntetni, ha a bizonyító fél időközben egyéb úton megismerte a tanú személyi adatait.
 
+(7) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt kérik megidézni, az (1)–(6) bekezdés szerinti idézhető címe a szolgálati helye szerinti bíróság címe. Ha a bíró szolgálati viszonya a per alatt megszűnik, az idézhető címére vonatkozóan az általános szabályok az irányadók.
+
 167/A. § (1) A tizennegyedik életévét be nem töltött kiskorút csak akkor lehet tanúként kihallgatni, ha a vallomásától várható bizonyíték másként nem pótolható.
 
 (2) A kiskorú tanú kihallgatásánál a törvényes képviselője jelen lehet. A kihallgatáskor a figyelmeztetéseket és tájékoztatásokat a kiskorú tanú korára, érettségére figyelemmel, számára érthető módon kell közölni. A kihallgatásnak megfelelő légkörben, a kiskorú számára érthető módon kell megtörténnie.
@@ -1675,6 +1679,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 168. § (1) A tanút az elnök idézi meg. Az idézésben (96. §) meg lehet jelölni azokat a körülményeket is, amelyekre a tanú kihallgatása szükségesnek mutatkozik, s a tanút fel lehet hívni, hogy meghatározott feljegyzéseit, iratait vagy a bizonyításnál felhasználható egyéb tárgyait hozza magával.
 
 (1a) A tizennegyedik életévét be nem töltött kiskorú tanút törvényes képviselője útján idézi a bíróság azzal a felhívással, hogy a tanú megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú tanú idézéséről a bíróság a törvényes képviselőjét értesíti.
+
+(1b) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt kérik megidézni, a bíróság a bírót a szolgálati helye szerinti bíróság címéről idézi. Ha a bíró szolgálati viszonya a per alatt megszűnik, az idézésre az általános szabályok az irányadók.
 
 (2) Ha a tanú a fél által bejelentett adatok téves volta miatt nem volt megidézhető, a bíróságnak a tanú ismételt megidézése előtt meg kell vizsgálnia, hogy a fél téves bejelentése nem a per elhúzását célozta-e. Ezt a rendelkezést kell megfelelően alkalmazni arra az esetre is, amikor a bíróság a bizonyító fél ellenfelét kötelezte a tanú adatainak bejelentésére.
 
@@ -1745,6 +1751,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (6) A tanú személyi adatai zártan történő kezelése tárgyában a kihallgatást foganatosító bíróság a felek meghallgatása nélkül dönt, külön határozatot hoznia azonban nem kell, a jegyzőkönyvben elegendő a (3)–(5) bekezdésben foglaltak megtörténtére utalni.
 
 173. § (1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli.
+
+(1a) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt hallgatja ki a bíróság, a meghallgatása előtt személyazonosságát a nevének, feladatkörének, munkakörének, vezetői megbízásának, a szolgálati helye szerinti bíróság nevének és címének a rögzítésével kell megállapítani. A bíró személyazonosságának megállapítását követően a kihallgatására az (1) bekezdésében foglaltak megfelelően irányadóak. Ha a bíró szolgálati viszonya a per alatt megszűnik, a válaszadási kötelezettségére vonatkozóan az általános szabályok az irányadók.
 
 (2) Ezután a tanút részletesen ki kell hallgatni, tisztázva azt is, hogy az általa előadottakról miként szerzett tudomást.
 
@@ -1839,6 +1847,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - c) azt a szakértőt, aki a véleménynyilvánítással alapos ok nélkül késlekedik, illetve a véleménynyilvánításának várható késedelméről a részére nyitva álló határidő lejártát megelőzően a bíróságot nem értesíti, az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújtja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is. A tanú, illetve szakértő elővezetését el kell rendelni, ha a tanú, illetve a szakértő a szabályszerű idézés (kirendelés) ellenére ismételten nem jelent meg, és elmaradását alapos okkal előzetesen ki nem mentette vagy engedély nélkül eltávozott.
 
 (1a) A tizennegyedik életévét be nem töltött kiskorúval szemben az (1) bekezdésben meghatározott kényszerítő eszközök nem alkalmazhatók. Ha a tanúként idézett tizennegyedik életévét be nem töltött kiskorú szabályszerű idézés ellenére nem jelent meg vagy engedély nélkül eltávozott, és a törvényes képviselője nem igazolja, hogy vétlen a kiskorú meg nem jelenésében, illetve eltávozásában, a törvényes képviselő pénzbírsággal sújtható és az okozott költség megtérítésére kötelezhető.
+
+(1b) A bíró elővezetésének elrendeléséről az elővezetendő bíró szolgálati helye szerinti bíróság elnökét, a bíróság elnöke elővezetésének elrendeléséről a kinevezőjét is értesíteni kell. Ha a bíró szolgálati viszonya a per alatt megszűnik, az elővezetésre vonatkozóan az általános szabályok az irányadók.
 
 (2) Az eljáró bíróság annak a szakértőnek a munkadíját, aki a véleménynyilvánítással alapos ok nélkül késlekedik és a véleménynyilvánításra nyitva álló határidő alatt a határidő meghosszabbítását nem kéri (104. §), illetve a meghosszabbított határidő alatt sem nyilvánít véleményt, a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti.
 
@@ -2410,7 +2420,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 257. § (1) Ha az elsőfokú bíróság a fellebbezéssel megtámadott végzéshez nincs kötve (227. §), a fellebbezésnek maga is eleget tehet. Egyébként a végzés ellen beadott fellebbezés tárgyában a másodfokú bíróság tárgyaláson kívül határoz. A fellebbezés másodpéldányát az elsőfokú bíróság azzal a figyelmeztetéssel kézbesíti a fellebbező fél ellenfelének, hogy a fellebbezés kézhezvételétől számított nyolc nap alatt az elsőfokú bíróságnál észrevételeket terjeszthet elő. Csatlakozó fellebbezés előterjesztésének nincs helye. A határidő indokolt esetben megrövidíthető. A határidő eltelte után az elsőfokú bíróság az iratokat – az esetleg benyújtott észrevételekkel együtt – felterjeszti. A másodfokú bíróság a feleket a szükséghez képest meghallgatja (113. §).
 
-(2)
+(2) A beavatkozást elutasító vagy a beavatkozót a perből kizáró határozat ellen előterjesztett fellebbezést, ha a fellebbezési, illetve észrevételezési határidő valamennyi féllel szemben lejárt, illetve ha a fellebbezést, észrevételt valamennyi fél hiánytalanul benyújtotta, az elsőfokú bíróság a szükséges periratokkal együtt legkésőbb nyolc napon belül felterjeszti a másodfokú bírósághoz, és arról a másodfokú tanács annak érkezésétől számított tizenöt napon belül tárgyalás tartása nélkül határoz.
 
 258. § (1) Ha a fellebbezéssel megtámadott végzés jogszabályt sért, a megváltoztatáshoz szükséges adatok pedig nem állapíthatók meg, a másodfokú bíróság a végzést hatályon kívül helyezi, és az elsőfokú bíróságot új határozat hozatalára utasítja.
 
@@ -2502,7 +2512,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - k) a vízumkiadás tárgyában hozott bírósági határozat ellen;
 - l) ha azt törvény kizárja.
 
-(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre.
+(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyekben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a nem vagyoni kártérítés iránt indított perekre, a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre, valamint azokra az ügyekre, amelyek ingatlan tulajdonára vagy ingatlant terhelő jogra vonatkoznak, vagy ingatlanra vonatkozó jogviszonyból erednek, továbbá valamennyi olyan ügyre, amely megállapításra irányul.
 
 (3) Nincs helye a felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
 
@@ -3655,7 +3665,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 386/K. § Az e fejezet rendelkezései alapján zajló perekben kiszabható pénzbírság legmagasabb összege ötmillió forint.
 
-386/L. § Az 56. § (3) bekezdés szerinti, a beavatkozást megengedő határozat ellen fellebbezésnek helye nincs. A beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen a beavatkozó fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben nem vehet részt, újabb beavatkozási kérelmet nem nyújthat be.
+386/L. §
 
 386/M. § A 173. § rendelkezései helyett a kiemelt jelentőségű perek tekintetében az alábbi rendelkezések irányadóak:
 
@@ -3962,6 +3972,10 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 (3) A 2012. december 31-én másodfokon folyamatban lévő közigazgatási ügyeket az ítélőtábla legkésőbb 2013. február 1-jéig megküldi az illetékes törvényszéknek mint másodfokú bíróságnak.
 
 (4) Az ügyek (2) és (3) bekezdés szerinti megküldése során a 129. § és a 158. § (2) bekezdés rendelkezéseit nem kell alkalmazni.
+
+397/D. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 56. § (3) és (4) bekezdésének, 57. § (1) bekezdésének és 83. § (1) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépését követően bejelentett beavatkozásokra kell alkalmazni.
+
+(2) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 130. § (1) bekezdés g) pontjának, 167. § (7) bekezdésének, 168. § (1b) bekezdésének, 173. § (1a) bekezdésének, 185. § (1b) bekezdésének, 257. § (2) bekezdésének és 271. § (2) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével.
 

@@ -14,6 +14,10 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
   - c) a kölcsön fedezete a Magyarország területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség, illetve a lízing tárgya Magyarország területén lévő lakóingatlan;
 - 2. fedezeti ingatlan: lakáshitel-szerződésből eredő hiteltartozás biztosítására jelzálogjoggal terhelt lakóingatlan, ha a lakáshitel-szerződésből eredő lejárt tartozás megfizetése tekintetében több mint 90 napos késedelem áll fenn;
 - 3. fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és a hiteladós között létrejött olyan – nem e törvény hatálya alá tartozó és futamidő módosításnak nem minősülő – megállapodás, amelynek eredményeként a hiteladóst a hátralévő futamidő meghatározott időtartamára a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
+- 3a. gyermek: a hiteladóssal közös háztartásban élő, általa eltartott vér szerinti, örökbe fogadott vagy gyámsága alatt álló és legalább egy éve vele együtt élő gyermek, ha
+  - a) a 16. életévét még nem töltötte be,
+  - b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be, vagy
+  - c) a 16. életévét már betöltött olyan megváltozott munkaképességű személy, akinek ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 - 4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt, de legfeljebb a legmagasabb árfolyamig felmerülő és a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön – ide nem értve a pénzügyi lízingszerződést – ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
 - 5. hiteladós: az a természetes személy, aki pénzügyi intézménnyel devizakölcsönre vonatkozóan kölcsönszerződést vagy pénzügyi lízingszerződést kötött és e szerződésből eredően tartozása áll fenn;
 - 6. hitelező: lakáshitel-szerződésből eredő követeléssel rendelkező személy;
@@ -49,7 +53,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (2) A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka alatt svájci frank esetén a 180 HUF/CHF, euró esetén a 250 HUF/EUR, japán jen esetén a 2,5 HUF/JPY árfolyamot alkalmaz. A rögzített árfolyam alkalmazási időszaka
 
 - a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját – ha nem kerül sor közjegyzői okiratba foglalására, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés megkötését – követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
-- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, de legkésőbb 2017. június 30. napját megelőző utolsó törlesztés esedékességi napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
 (3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
@@ -88,14 +92,16 @@ a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatko
 
 #### 3. A gyűjtőszámlahitel részletes szabályai
 
-3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2013. év május hónap 31. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
+3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
 
 - a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg a 90 napot,
 - b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt, illetve az ilyen programban való részvételét legkésőbb a rögzített árfolyam alkalmazási időszak kezdő időpontjára megszünteti,
-- c) a devizakölcsönnek a folyósításkor alkalmazott árfolyamon számított forint összege nem haladta meg a 20 millió forintot,
+- c) a devizakölcsönnek a folyósításkor alkalmazott árfolyamon számított forint összege – az (1a) bekezdésben meghatározott eltéréssel – nem haladta meg a 20 millió forintot,
 - d) amennyiben a devizakölcsön fedezetéül szolgáló lakóingatlant több pénzügyi intézmény által alapított jelzálogjog terheli, e zálogjog által biztosított valamennyi követelés tekintetében nem áll fenn 90 napot meghaladó késedelem, és
 - e) a devizakölcsön fedezetéül szolgáló lakóingatlanra vezetett végrehajtás nincs folyamatban,
 - f) a pénzügyi lízingszerződésre vonatkozó szerződést a felek 2011. december 15. napja előtt kötötték.
+
+(1a) Az (1) bekezdés c) pontjában meghatározott feltételnek nem kell megfelelni, ha a devizakölcsön fedezetéül szolgáló lakóingatlan legalább három gyermek bejelentett lakó- vagy tartózkodási helye.
 
 (2) A rögzített árfolyam alkalmazási időszaka alatt a hiteladós nem állhat más állami fizetéskönnyítő program hatálya alatt.
 
