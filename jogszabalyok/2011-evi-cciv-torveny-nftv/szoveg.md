@@ -601,7 +601,7 @@ címet adományozhat.
 
 (2) Az (1) bekezdésben nem említett személy tanulmányait kizárólag önköltséges formában folytathatja.
 
-(3) A hallgatói jogviszony a felvételről vagy az átvételről szóló döntés alapján, a beiratkozással jön létre. A beiratkozást megelőzően a 15. § (2)–(6) bekezdésben meghatározott képzésben részt vevő hallgatóval hallgatói ösztöndíjszerződést, illetve az önköltség fizetése mellett folytatott képzés tekintetében hallgatói képzési szerződést kell kötni. A hallgatói szerződések nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.
+(3) A hallgatói jogviszony a felvételről vagy az átvételről szóló döntés alapján, a beiratkozással jön létre. A 15. § (2)–(6) bekezdésében meghatározott magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató az e törvényben előírt sajátos feltételek teljesítésére köteles. A 15. § (2)–(6) bekezdésében meghatározott önköltség fizetése mellett folytatott képzés tekintetében hallgatói képzési szerződést kell kötni. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.
 
 (4) A felvételre jelentkező egy felvételi eljárásban legfeljebb öt jelentkezést nyújthat be. Amennyiben ugyanazon szakra magyar állami (rész)ösztöndíjjal támogatott és önköltséges képzési formára egyaránt jelentkezik, az egy jelentkezésnek minősül.
 
@@ -715,9 +715,16 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 - b) magyar állami részösztöndíjjal támogatott hallgató,
 - c) önköltséges hallgató.
 
-(2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – az állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
+(2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – a magyar állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
 
-(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a hallgatói szerződések nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
+(2a) A hallgatói hitel az (1) bekezdés
+
+- a) a) pontja szerinti hallgató számára a hallgatói léttel kapcsolatos költségek,
+- b) b) és c) pontjában meghatározott hallgató számára a hallgatói léttel, valamint a képzéssel kapcsolatos költségek
+
+finanszírozásához járul hozzá.
+
+(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
 
 (4) A miniszter évente – a 39. § (5) és (6) bekezdésében megállapított keretek között – határozattal állapítja meg azt, hogy mely, a felsőoktatási intézmények által folytatott szakos képzésen vehető igénybe magyar állami (rész)ösztöndíj. A képzésre a felvétel teljesítéséhez szükséges minimális felvételi követelményt (pontszámot) a Kormány rendelete, az adott szak magyar állami (rész)ösztöndíjjal támogatott képzésére történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a miniszter határozata állapítja meg.
 
@@ -761,20 +768,20 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 48. § (1) A hallgatót magyar állami (rész)ösztöndíjas vagy önköltséges képzési formára kell besorolni.
 
-(2) A felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félévben, amelyben hallgatói jogviszonya nem szünetelt, nem szerezte meg legalább az ajánlott tantervben előírt kreditmennyiség ötven százalékát, illetve az intézmény szervezeti és működési szabályzatában ajánlott tanulmányi átlagot.
+(2) A felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félévben, amelyben hallgatói jogviszonya nem szünetelt, nem szerezte meg legalább az ajánlott tantervben előírt kreditmennyiség ötven százalékát, illetve az intézmény szervezeti és működési szabályzatában ajánlott tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja.
 
 (3) Ha a magyar állami (rész)ösztöndíjjal támogatott hallgatói létszámkeretre felvett hallgatónak a tanulmányai befejezése előtt megszűnik a hallgatói jogviszonya, vagy a hallgató a tanulmányait bármely okból önköltséges formában folytatja tovább, helyére – ilyen irányú kérelem esetén – a felsőoktatási intézményben önköltséges formában tanulmányokat folytató hallgató léphet. Az átsorolásról a felsőoktatási intézmény a magyar állami (rész)ösztöndíjjal támogatott képzésre átsorolását kérő önköltséges hallgatók tanulmányi teljesítménye alapján dönt.
 
 (4)
 
-#### 28/A. A hallgatói ösztöndíjszerződés
+#### 28/A. A magyar állami (rész)ösztöndíjjal támogatott képzés sajátos feltételei
 
-48/A. § A magyar állami (rész)ösztöndíjas hallgató a hallgatói ösztöndíjszerződés alapján – a 48/B. §-ban meghatározottakra figyelemmel – köteles:
+48/A. § A magyar állami (rész)ösztöndíjas hallgató – a 48/B. §-ban meghatározottakra figyelemmel – köteles:
 
-- a) az általa folyatott, magyar állami (rész)ösztöndíjjal támogatott képzésen a képzési és kimeneti követelményekben meghatározott tanulmányi idő alatt, de legfeljebb a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresén belül megszerezni az oklevelet, és
-- b) az oklevél megszerzését követő húsz éven belül az általa állami (rész)ösztöndíjjal folytatott tanulmányok ideje kétszeresének megfelelő időtartamban magyar joghatóság alatt álló munkáltatónál társadalombiztosítási jogviszonyt eredményező munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt létesíteni, fenntartani vagy magyar joghatóság alatt vállalkozási tevékenységet folytatni (a továbbiakban: hazai munkaviszony),
+- a) az általa folyatott, magyar állami (rész)ösztöndíjjal támogatott adott képzésen a képzési és kimeneti követelményekben meghatározott tanulmányi idő alatt, de legfeljebb a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresén belül megszerezni az oklevelet, és
+- b) az oklevél megszerzését követő húsz éven belül az általa állami (rész)ösztöndíjjal folytatott tanulmányok idejével megegyező időtartamban magyar joghatóság alatt álló munkáltatónál a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-ában meghatározott biztosítási jogviszonyt eredményező munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt fenntartani vagy magyar joghatóság alatt vállalkozási tevékenységet folytatni (a továbbiakban: hazai munkaviszony),
 - c) átalányként megfizetni a hallgató adott képzésére tekintettel a Magyar Állam által folyósított 48/C. § (1) bekezdés a) pontja szerinti állami ösztöndíj 50%-ának megfelelő összeget a Magyar Államnak, ha az a) pontban meghatározott határidőn belül nem szerzi meg a magyar állami (rész)ösztöndíjjal támogatott képzésben az oklevelet, vagy
-- d) visszafizetni a hallgató adott képzésére tekintettel a Magyar Állam által folyósított 48/C. § (1) bekezdés a) pontja szerinti állami ösztöndíjnak a visszatérítés esedékessé válásának naptári félévét megelőző utolsó napon érvényes jegybanki alapkamatot három százalékponttal meghaladó kamattal megnövelt összegét a Magyar Államnak, ha az oklevél megszerzését követően nem létesít, nem tart fenn a b) pont szerint hazai munkaviszonyt.
+- d) visszafizetni az adott képzésére tekintettel a magyar állam által folyósított 48/C. § (1) bekezdés a) pontja szerinti magyar állami (rész)ösztöndíjnak – évente a Központi Statisztikai Hivatal által megállapított éves átlagos fogyasztóiár-növekedés mértékével növelt – összegét a magyar államnak, ha az oklevél megszerzését követően nem tart fenn a b) pont szerint hazai munkaviszonyt.
 
 48/B. § (1) A 48/A. § b) pontjában meghatározott kötelezettség több részletben is teljesíthető.
 
@@ -790,9 +797,9 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (7) Ha a hallgató párhuzamos képzésben folytatja tanulmányait, vagy egymást követően több oklevelet szerez, a 48/A. § b) és d) pontja szerinti kötelezettséget az első oklevél megszerzésének időpontjától kell számítani, és képzésenként teljesíteni kell.
 
-(8) A 48/A. § a) pontjában meghatározott kötelezettség a szakváltást nem korlátozza. Szakváltás esetén a szerződés teljesítése szempontjából az újabb szak képzési ideje irányadó.
+(8) A 48/A. § a) pontjában meghatározott kötelezettség a szakváltást nem korlátozza. Szakváltás esetén a feltételek teljesítése szempontjából az újabb szak képzési ideje irányadó.
 
-48/C. § (1) A hallgatói ösztöndíjszerződés alapján a Magyar Állam köteles:
+48/C. § (1) A hallgató által teljesítendő feltételek tekintetében a magyar állam köteles:
 
 - a) a hallgató által az adott képzésben igénybe vett támogatási idő alatt, de legfeljebb a hallgatói jogviszonyának megszűnéséig a magyar állami (rész)ösztöndíjas hallgatóra tekintettel biztosítani a felsőoktatási intézménynek a hallgató magyar állami (rész)ösztöndíjjal támogatott képzésének költségeit (a továbbiakban: állami ösztöndíj),
 - b) foglalkoztatáspolitikai eszközrendszerére támaszkodva törekedni arra, hogy a magyar állami (rész)ösztöndíjas hallgató számára a magyar állami (rész)ösztöndíjjal támogatott képzés befejezését követően megfelelő munkalehetőséget biztosítson.
@@ -803,74 +810,67 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (4) Amennyiben a hallgató olyan képzésen folytat tanulmányokat magyar állami (rész)ösztöndíjjal támogatott formában, melyet az adott intézmény önköltséges formában nem indított, a (3) bekezdésben meghatározott számításokat az adott képzésre más intézményekben megállapított önköltségek közül a legalacsonyabb figyelembevételével kell elvégezni.
 
-48/D. § (1) A hallgatói ösztöndíjszerződés tartalmazza a 48/A–48/C. §-ban foglalt feltételeket.
+48/D. § (1)
 
-(2) Az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkezőnek a hallgatói szerződések nyilvántartásáért felelős szerv a felsőoktatási intézmények felvételi eljárásainak szabályairól szóló kormányrendeletben meghatározott besorolási döntésében tájékoztatja az állami (rész)ösztöndíjjal támogatott képzéshez kötődő hallgatói jogviszony létesítésének feltételeiről, és egyidejűleg tájékoztatást ad a hallgatói ösztöndíjszerződés feltételeiről.
+(2) Az állami (rész)ösztöndíjjal támogatott képzésre besorolt jelentkező a beiratkozáskor nyilatkozik a képzés feltételeinek vállalásáról.
 
-(3) A hallgatói szerződéskötés a felsőoktatási intézménybe történő beiratkozási eljárás része.
+(3)
 
-(4) A hallgatói ösztöndíjszerződést a felvételt nyert jelentkezővel a Magyar Állam nevében a hallgatói szerződések nyilvántartásáért felelős szerv köti meg.
+(4)
 
-(5) A magyar állami (rész)ösztöndíjas hallgató az általa aláírt hallgatói ösztöndíjszerződés egy eredeti példányát nyolc napon belül köteles megküldeni a hallgatói szerződések nyilvántartásáért felelős szerv számára.
+(5)
 
-48/E. § (1) A hallgatói ösztöndíjszerződés aláírásával a felvételt nyert jelentkező hozzájárul ahhoz, hogy azon felsőoktatási intézmény, mellyel a felvételt nyert jelentkező hallgatói jogviszonyt létesít, az aláírt hallgatói ösztöndíjszerződés egy eredeti példányát megőrizze, valamint az abban foglalt adatokat a hallgatói jogviszonya fennállása alatt kezelje.
+48/E. § (1)
 
-(2) A hallgatói ösztöndíjszerződés aláírásával a felvételt nyert jelentkező vállalja, hogy a szerződésben meghatározott adatokat, valamint a hallgatói ösztöndíjszerződésben meghatározott kötelezettségek teljesítésének nyomon követése, ellenőrzése érdekében szükséges adatokat a hallgatói szerződések nyilvántartásáért felelős szerv számára a hallgatói ösztöndíjszerződésben meghatározott módon szolgáltatja, valamint hozzájárul ahhoz, hogy a hallgatói szerződések nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjjal támogatott képzésével és a foglalkoztatási útjával összefüggő személyes és jogviszonyára vonatkozó adatait a szerződés megszűnéséig kezelje.
+(2)
 
-(3) A hallgatói ösztöndíjszerződés aláírásával a felvételt nyert jelentkező hozzájárul ahhoz, hogy amennyiben nem szolgáltatja a (2) bekezdésben meghatározott adatokat, vagy azok ellenőrzése szükségessé válik, a hallgatói szerződések nyilvántartásáért felelős szerv a hallgatói ösztöndíjszerződésben meghatározott kötelezettségek teljesítésének nyomon követése, ellenőrzése érdekében a személyi adat- és lakcímnyilvántartás központi szervétől, a munkaügyi központoktól és kirendeltségektől, a Magyar Államkincstártól, az országos egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatóság szervétől, az adóhatóságtól, valamint a lakóhelye szerinti helyi önkormányzatoktól beszerezze a magyar állami (rész)ösztöndíjas hallgatóra vonatkozó alábbi adatokat:
+(3)
 
-- a) természetes személyazonosító adatok,
-- b) lakcímre (lakóhely és tartózkodási hely) vonatkozó adat,
-- c) a hazai munkaviszony(ok) létesítésére és időtartamára vonatkozó adat,
-- d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként nyilvántartásba vételre, valamint álláskeresőként eltöltött időtartamra vonatkozó adat,
-- e) terhességi gyermekágyi segélyre jogosultságra, valamint ennek időtartamára vonatkozó adat,
-- f) gyermekgondozási segélyre jogosultságra, valamint ennek időtartamára vonatkozó adat,
-- g) gyermekgondozási díjra jogosultságra, valamint ennek időtartamára vonatkozó adat,
-- h) megváltozott munkaképességre, valamint ennek időtartamára vonatkozó adat,
-- i) a nyugdíjkorhatár elérésére vonatkozó időpont.
+(4) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során a magyar állami (rész)ösztöndíjban részesített személlyel elektronikus úton is kapcsolatot tarthat.
 
-(4) A hallgatói ösztöndíjszerződés aláírásával a felvételt nyert jelentkező hozzájárul ahhoz, hogy a hallgatói szerződések nyilvántartásáért felelős szerv az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során elektronikus úton is tarthassa a kapcsolatot vele.
-
-48/F. § (1) A hallgatói ösztöndíjszerződés határozatlan időre jön létre.
-
-(2) A hallgatói ösztöndíjszerződés megszűnik, amennyiben a magyar állami (rész)ösztöndíjas hallgató szerződéses kötelezettségét teljesítette vagy annak teljesítése alól ezen alcímben meghatározottak szerint mentesült.
+#### 48/F. §
 
 48/G. § A felsőoktatási intézmény gondoskodik
 
-- a) a magyar állami (rész)ösztöndíjas hallgatója vonatkozásában az aláírt hallgatói ösztöndíjszerződés egy példányának átvételéről, a hallgatói jogviszony fennállása alatti megőrzéséről,
+- a)
 - b) az állami (rész)ösztöndíjjal támogatott képzéshez kötődő hallgatói jogviszony létesítése tényének, valamint az oklevél megszerzése időpontjának a tanulmányi adminisztrációs nyilvántartásban történő rögzítéséről,
-- c) a b) pontban meghatározott adatoknak a hallgatói szerződések nyilvántartásáért felelős szerv részére történő szolgáltatásáról.
+- c) a b) pontban meghatározott adatoknak a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére történő szolgáltatásáról.
 
-48/H. § A hallgatói szerződések nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjas hallgató vonatkozásában nyilvántartja
+48/H. § A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjas hallgató vonatkozásában nyilvántartja
 
-- a) a megkötött hallgatói ösztöndíjszerződéseket és az azokban foglalt adatokat,
+- a)
 - b) a magyar állami (rész)ösztöndíjas hallgató minden megkezdett, magyar állami (rész)ösztöndíjjal támogatott képzésére vonatkozóan
   - ba) az adott képzés elvégzéséhez igénybe vett aktív félévek számát és az adott félévekre megállapított önköltséget,
   - bb) a tanulmányok megkezdésének és az oklevél megszerzésének időpontját,
-- c) az igénybe vett állami ösztöndíjnak az adott félév lezárását követő, aktuális összegét.
+- c) az igénybe vett magyar állami (rész)ösztöndíjnak az adott félév lezárását követő, aktuális összegét.
 
-48/I. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a nyilvántartása alapján a magyar állami (rész)ösztöndíjas hallgatóval évente közli az általa igénybe vett állami ösztöndíj aktuális összegét.
+48/I. § (1) A képzés befejezését megelőzően a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartása alapján a magyar állami (rész)ösztöndíjas hallgatóval évente közli az általa igénybe vett állami ösztöndíj összegét.
 
-(2) A hallgatói szerződések nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjjal támogatott képzés befejezésének, vagy ha a magyar állami (rész)ösztöndíjas hallgató az adott képzést nem fejezi be, a hallgatói jogviszony megszűnésének időpontjától számított hatvan napon belül közli a volt magyar állami (rész)ösztöndíjas hallgatóval az adott képzésen általa igénybe vett állami ösztöndíj teljes összegét. Ezen alcím alkalmazásában a képzés befejezésének időpontja az adott képzésben a végbizonyítvány kiállításának napja.
+(2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjjal támogatott képzés befejezésének, vagy ha a magyar állami (rész)ösztöndíjas hallgató az adott képzést nem fejezi be, a hallgatói jogviszony megszűnésének időpontjától számított hatvan napon belül közli a volt magyar állami (rész)ösztöndíjas hallgatóval az adott képzésen általa igénybe vett állami ösztöndíj teljes összegét.
 
-48/J. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a hallgatói ösztöndíjszerződés hatálya alatt nyomon követi a volt magyar állami (rész)ösztöndíjas hallgató foglalkoztatási útját.
+(3) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a (2) bekezdésben meghatározott időpontot követően évente közli az igénybe vett állami ösztöndíjnak – a 48/A. § d) pontja szerinti feltétel teljesítése során irányadó – összegét.
 
-(2) A hallgatói szerződések nyilvántartásáért felelős szerv a magyar állami (rész)ösztöndíjjal támogatott képzés befejezésének vagy a hallgatói jogviszony megszűnésének időpontjától évente közli a volt magyar állami (rész)ösztöndíjas hallgatóval a hallgatói ösztöndíjszerződésben vállalt kötelezettség alapján az állami ösztöndíj összegét vagy abból a még hátralévő részt.
+48/J. § A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv nyomon követi a volt magyar állami (rész)ösztöndíjas hallgató foglalkoztatási útját.
 
-48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a mentességek megállapításával kapcsolatos feladatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alkalmazásával első fokon a hallgatói szerződések nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
+48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
 - a) a terhességi-gyermekágyi segély, a gyermekgondozási segély és a gyermekgondozási díj folyósításának időtartama,
 - b) az az időszak, amely alatt a volt magyar állami (rész)ösztöndíjas hallgató a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskereső és járadékra jogosult.
 
-48/M. § (1) Mentesül a volt magyar állami (rész)ösztöndíjas hallgató a hallgatói ösztöndíjszerződésben a 48/A. § a) és c) pontja alapján vállalt kötelezettség alól, ha három gyermeket szül.
+48/M. § (1) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § a) és c) pontjában meghatározott feltételt, ha három gyermeket szül.
 
-(2) Mentesül a volt magyar állami (rész)ösztöndíjas hallgató a hallgatói ösztöndíjszerződésben a 48/A. § c) pontja alapján vállalt kötelezettség alól, ha halmozottan hátrányos helyzetű.
+(2) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § c) pontja alapján meghatározott feltételt, ha beiratkozását követően az adott szakon
 
-(3) Mentesül a volt magyar állami (rész)ösztöndíjas hallgató a hallgatói ösztöndíjszerződésben a 48/A. § d) pontja alapján vállalt kötelezettség egy része alól, ha a visszafizetési időszak alatt hazai munkaviszonyt létesít, tart fenn annak időtartamával arányosan.
+- a) felsőoktatási szakképzés, illetve osztott képzés esetén legfeljebb egy félévig,
+- b) osztatlan képzés esetén legfeljebb két félévig
 
-48/N. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § a) pontja alapján vállalt kötelezettség teljesítésének felfüggesztését engedélyezheti
+folytatott tanulmányokat magyar állami (rész)ösztöndíjjal támogatott képzésben és a 42. § (1) bekezdés b) pontja szerinti átvételére nem került sor.
+
+(3) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § c) pontja alapján meghatározott feltételt vagy annak egy részét, ha a visszafizetési időszak alatt hazai munkaviszonyt létesít, tart fenn, annak időtartamával arányosan.
+
+48/N. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltétel teljesítésének felfüggesztését engedélyezi
 
 - a) a külföldi felsőoktatási intézményben folytatott tanulmányokra,
 - b) nyelvvizsga-bizonyítvány megszerzése érdekében felnőttképzésben folytatott tanulmányokra
@@ -882,21 +882,15 @@ tekintettel.
 - a) a külföldi felsőoktatási intézmény és a külföldön folytatott tanulmányok az adott állam joga szerint felsőoktatási intézménynek és felsőfokú képzésnek számítanak,
 - b) az oklevél kiadásához szükséges nyelvvizsga-bizonyítvány megszerzése érdekében folytatott tanulmányait felnőttképzési jogviszonyban végzi.
 
-(3) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § c) pontja alapján vállalt kötelezettség teljesítése alól mentesítheti, ha a hallgató hazai munkaviszonyt létesít és az el nem végzett szakra irányadó képzési idő kétszeresének megfelelő időtartamban fenntartja.
+(3) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § c) pontja alapján meghatározott feltételt – kormányrendeletben meghatározottak szerint – teljesítettnek tekinti, ha a hallgató hazai munkaviszonyt az állami (rész)ösztöndíjjal igénybe vett képzési időnek megfelelő időtartamban tart fenn.
 
-48/O. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § a) pontja alapján vállalt kötelezettség alól mentesítheti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
+48/O. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltételt teljesítettnek tekinti, ha a hallgató az oklevelét tartós betegsége, balesete, szülés miatt nem képes megszerezni.
 
-(2) A hallgatói szerződések nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgatót, kérelmére a hallgatói ösztöndíjszerződésben a 48/A. § b)–d) pontjai alapján vállalt kötelezettség vagy annak egy része teljesítése alól mentesítheti, ha a hallgató a kötelezettségét
+(2) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § b)–d) pontja alapján meghatározott feltételt vagy annak egy részét teljesítettnek tekinti, ha a hallgató a kötelezettségét megváltozott munkaképességére tekintettel, tartós betegsége, balesete, szülés, kettő vagy több gyermek nevelésére tekintettel vagy más váratlan ok miatt, önhibáján kívül nem képes teljesíteni.
 
-- a) megváltozott munkaképességére tekintettel,
-- b) tartós betegsége, balesete, szülés,
-- c) kettő vagy több gyermek nevelésére tekintettel
+(3) A (2) bekezdésben a gyermeknevelésre vonatkozó kedvezményt a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezi.
 
-nem képes teljesíteni.
-
-(3) A (2) bekezdés c) pontjában meghatározott kedvezményt a hallgatói szerződések nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezheti.
-
-48/P. § (1) Amennyiben a hallgatói szerződések nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat jogerőre emelkedését követő harmincadik napig kell megfizetni (esedékesség).
+48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat jogerőre emelkedését követő harminc napon belül kell megfizetni (esedékesség).
 
 (2) A (1) bekezdésben meghatározott határozatnak – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
 
@@ -904,25 +898,27 @@ nem képes teljesíteni.
 - b) a részletfizetés feltételeire és a részletfizetés kérelmezésének módjára vonatkozó tájékoztatást,
 - c) az igény érvényesítésének módjára vonatkozó tájékoztatást.
 
-(3) Az állami ösztöndíj vagy annak egy része visszatérítését a volt magyar állami (rész)ösztöndíjas hallgatót foglalkoztató munkáltató vagy más személy – a hallgatói szerződések nyilvántartásáért felelős szervhez intézett nyilatkozat benyújtásával – átvállalhatja.
+(3) A magyar állami (rész)ösztöndíj vagy annak egy része visszatérítését a volt magyar állami (rész)ösztöndíjas hallgatót foglalkoztató munkáltató vagy más személy – a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervhez intézett nyilatkozat benyújtásával – átvállalhatja.
 
 (4) A visszatérítési kötelezettség személyhez kötődő kötelezettség, mely nem terheli a hagyatékot.
 
-48/Q. § A volt magyar állami (rész)ösztöndíjas hallgató kérelmére a hallgatói szerződések nyilvántartásáért felelős szerv
+48/Q. § (1) A volt magyar állami (rész)ösztöndíjas hallgató kérelmére a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv
 
 - a) ötmillió forint alatti összegű állami ösztöndíj visszatérítési kötelezettsége esetén legfeljebb tíz évre szóló,
 - b) ötmillió forint feletti összegű állami ösztöndíj visszatérítési kötelezettsége esetén legfeljebb tizenöt évre szóló
 
-részletfizetést engedélyezhet.
+részletfizetést engedélyez.
 
-48/R. § (1) A hallgatói szerződések nyilvántartásáért felelős szerv a visszatérítési kötelezettség összegét megállapító jogerős határozatot a Magyar Államot megillető igény érvényesítéséhez szükséges adatokkal együtt megküldi az állami adóhatóságnak a visszatérítendő összeg behajtása érdekében, ha a jogerősen megállapított visszatérítési kötelezettséget a volt magyar állami (rész)ösztöndíjas hallgató, vagy a 48/P. § (3) bekezdése szerint azt tőle átvállaló személy az átvállalt összeg erejéig
+(2) A fizetési kötelezettség az esedékességet megelőzően is teljesíthető.
+
+48/R. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a visszatérítési kötelezettség összegét megállapító jogerős határozatot a magyar államot megillető igény érvényesítéséhez szükséges adatokkal együtt megküldi az állami adóhatóságnak a visszatérítendő összeg behajtása érdekében, ha a jogerősen megállapított visszatérítési kötelezettséget a volt magyar állami (rész)ösztöndíjas hallgató vagy a 48/P. § (3) bekezdése szerint azt tőle átvállaló személy az átvállalt összeg erejéig
 
 - a) határidőre nem teljesíti, és
 - b) a volt magyar állami (rész)ösztöndíjas hallgató részletfizetési vagy e törvényben meghatározott más kérelmet nem terjesztett elő, vagy az e kérelmek tárgyában hozott jogerős döntésben foglaltaknak határidőre nem tesz eleget.
 
 (2) Az állami adóhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a Magyar Állam javára jegyezteti be.
 
-48/S. § A 48/A. § c)–d) pontja alapján teljesített befizetés a központi költségvetés bevételét képezi.
+48/S. § A 48/A. § c) és d) pontja alapján teljesített befizetés a Felsőoktatási Struktúraátalakítási Alap bevételét képezi.
 
 ### XIII. Fejezet — A TANULMÁNYI KÖTELEZETTSÉGEK TELJESÍTÉSE
 
@@ -1106,7 +1102,8 @@ részletfizetést engedélyezhet.
 - e) felsőoktatási szakképzésben, ha a hallgató tanulmányainak folytatására egészségileg alkalmatlanná vált, és a felsőoktatási intézményben nem folyik másik, megfelelő felsőoktatási szakképzés, vagy a hallgató nem kíván továbbtanulni, illetve a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
 - f) ha a hallgató hallgatói jogviszonyát – fizetési hátralék miatt – a rektor a hallgató eredménytelen felszólítása és a hallgató szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
 - g) a kizárás fegyelmi határozat jogerőre emelkedésének napján,
-- h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján.
+- h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján,
+- i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja és nem vállalja az önköltséges képzésben való részvételt.
 
 (2) Az (1) bekezdés d) pontjában foglaltak szerint nem szűnik meg az alapképzésben részt vevő hallgató hallgatói jogviszonya, ha az alapfokozat megszerzését követően a soron következő félévre mesterképzésre felvételt nyert.
 
@@ -2123,7 +2120,7 @@ esélyegyenlőségét biztosítja.
 - 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket, a magán intézmények gazdálkodásával kapcsolatos kérdéseket,
 - 21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a köztársasági ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
 - 22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
-- 23. a hallgatói szerződések nyilvántartásáért felelős szervnek a hallgatói ösztöndíjszerződés, a hallgatói képzési szerződés nyilvántartásával, kezelésével kapcsolatos eljárási szabályait, a hallgatói képzési szerződés feltételeit,
+- 23. a magyar állami ösztöndíjjal támogatott képzésből eredő kötelezettségek teljesítésének rendjét, a hallgatói képzési szerződés nyilvántartásával, kezelésével kapcsolatos eljárási szabályokat, a hallgatói képzési szerződés feltételeit,
 - 24. az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 - 25. a habilitációs eljárás rendjét,
 - 26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit.
@@ -2133,7 +2130,7 @@ esélyegyenlőségét biztosítja.
 
 - a) a felsőoktatási intézmények nyilvántartását vezető szervet,
 - b) a felsőoktatási információs rendszer működéséért felelős szervet,
-- c) a hallgatói szerződések nyilvántartásáért felelős szervet
+- c) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervet
 
 rendeletben jelölje ki.
 
@@ -2160,7 +2157,9 @@ rendeletben jelölje ki.
 
 (6) Az e törvény 39. § (3) bekezdése, 46. § (1) bekezdése szerinti hallgatói szerződést első alkalommal a 2012/2013. tanév első évfolyamára történő beiratkozást megelőzően kell megkötni.
 
-(7) Jogszabály a hatályba lépését megelőzően – a 39. § (3) bekezdése, 46. § (1) bekezdése szerint – megkötött hallgatói szerződések tartalmát kizárólag hallgató számára kedvezőbb feltétel megállapításával változtathatja meg.
+(7)
+
+(8) E törvény 39. § (3) bekezdésének, 46. § (3) bekezdésének, 48/A–48/S. §-ának a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvénynek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a 2013 szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, felsőoktatási szakképzésre, valamint az azt követő évfolyamokra – magyar állami (rész)ösztöndíjjal támogatott képzésre – felvett, beiratkozott hallgatók tekintetében, továbbá a Módtv. hatálybalépését megelőzően már megkötött hallgatói szerződéssel rendelkező hallgatók tekintetében is alkalmazni kell azzal, hogy a hallgatói szerződés megkötésekor tett jognyilatkozatot a Módtv-vel megállapított 48/D. § (2) bekezdése szerint megtett jognyilatkozatnak kell tekinteni, valamint a hallgatói szerződés helyébe a Módtv-vel megállapított 28/A. alcímben meghatározott jogok és kötelezettségek lépnek.
 
 112. § (1) A felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: 1993. évi felsőoktatási törvény) alapján megkezdett képzéseket – folyamatos képzésben – változatlan szakmai követelmények, változatlan vizsgarend keretében, változatlan oklevél kiadásával kell befejezni.
 
@@ -2589,7 +2588,9 @@ ac) a középiskola adatai,
 
 ad) a felvételi kérelem elbírálásához szükséges adatok,
 
-ae) a felvételi eljárás adatai;
+ae) a felvételi eljárás adatai,
+
+af) a 48/D. § (2) bekezdése szerinti nyilatkozat azonosító száma;
 
 b) a hallgatói (doktorjelölt) jogviszonnyal összefüggő adatok:
 
@@ -2731,7 +2732,7 @@ aj) a hallgató diákigazolványának sorszáma,
 
 ak) a törzslap azonosító száma,
 
-al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosítási azonosító jele,
+al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosító azonosító jele, a felvételi azonosító, a 48/D. § (2) bekezdés szerinti nyilatkozat azonosító száma,
 
 am) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, a korábban megszerzett oklevélre vonatkozó adatok,
 
@@ -2858,22 +2859,24 @@ b) a felsőoktatási információs rendszer működéséért felelős szerv elek
 
 ### 5. melléklet a 2011. évi CCIV. törvényhez
 
-#### A hallgatói ösztöndíjszerződések alapján nyilvántartott és kezelt személyes és különleges adatok
+#### A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnél nyilvántartott és kezelt személyes és különleges adatok
 
-- 1. E törvény által nyilvántartott adatok, az állami (rész)ösztöndíjas hallgató
-  - a) természetes személyazonosító adatai,
+- 1. E törvény által nyilvántartott adatok az állami (rész)ösztöndíjas hallgató
+  - a) természetes személyazonosító adatai, adóazonosító jele, társadalombiztosítási azonosító jele,
   - b) lakcímre (lakóhely és tartózkodási hely) vonatkozó adatai,
-  - c) a hazai munkaviszony(ok) létesítésére és időtartamára vonatkozó adatai,
-  - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként nyilvántartásba vételre, valamint álláskeresőként eltöltött időtartamra vonatkozó adatai,
-  - e) terhességi gyermekágyi segélyre jogosultságra, valamint ennek időtartamára vonatkozó adatai,
-  - f) gyermekgondozási segélyre jogosultságra, valamint ennek időtartamára vonatkozó adatai,
-  - g) gyermekgondozási díjra jogosultságra, valamint ennek időtartamára vonatkozó adatai,
+  - c) hazai munkaviszony(ok) létesítésére és időtartamára vonatkozó adatai,
+  - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra vonatkozó adatai,
+  - e) terhességi-gyermekágyi segélyre való jogosultságra, valamint ennek időtartamára vonatkozó adatai,
+  - f) gyermekgondozási segélyre való jogosultságra, valamint ennek időtartamára vonatkozó adatai,
+  - g) gyermekgondozási díjra való jogosultságra, valamint ennek időtartamára vonatkozó adatai,
   - h) megváltozott munkaképességre, valamint ennek időtartamára vonatkozó adatai,
-  - i) a nyugdíjkorhatár elérésére vonatkozó adata.
-- 2. Az 1. pontban megjelölt adatok kezelésére jogosult a hallgatói szerződések nyilvántartásáért felelős szerv.
-- 3. Az adatkezelés célja: Az állami (rész)ösztöndíjas hallgató által vállalt, a hallgatói ösztöndíjszerződésben meghatározott kötelezettségek teljesítésének nyomon követése, ellenőrzése.
-- 4. Az adatkezelés időtartama: Az adatok a hallgatói ösztöndíjszerződés megszűnésétől számított 5 évig kezelhetőek.
-- 5. Az adatok továbbíthatók:
-  - a) a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat;
+  - i) nyugdíjkorhatár elérésére vonatkozó adata,
+  - j) felsőoktatási képzésére, a hallgatói jogviszonyára vonatkozó adatai.
+- 2. Az 1. pontban megjelölt adatok kezelésére a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv jogosult.
+- 3. Az adatkezelés célja: Az állami (rész)ösztöndíjas hallgató által vállalt kötelezettségek teljesítésének nyomon követése, ellenőrzése.
+- 4. Az adatkezelés időtartama: Az adatok a hallgató részére meghatározott feltételek teljesítésétől számított 5 évig kezelhetőek.
+- 5. Továbbítható:
+  - a) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, valamint az államigazgatási szervnek, ha konkrét ügy eldöntéséhez szükséges adat;
   - b) a nemzetbiztonsági szolgálat részére valamennyi adat.
-- 6. A hallgatói szerződések nyilvántartásáért felelős szerv a nyilvántartott személyek természetes személyazonosító adatairól és lakcíméről – azonosítás és a változások ellenőrzése céljából – térítésmentesen, elektronikus úton adatot igényelhet a személyiadat- és lakcímnyilvántartás központi szervétől, a munkaügyi központoktól és kirendeltségektől, a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől, az adóhatóságtól.
+- 6. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a nyilvántartott személyek természetes személyazonosító adatairól és lakcíméről – azonosítás és a változások ellenőrzése céljából – térítésmentesen, elektronikus úton adatot igényelhet a személyiadat- és lakcímnyilvántartás központi szervétől, a munkaügyi központoktól és kirendeltségeiktől, a kincstártól, az egészségbiztosítási szervtől, a nyugdíjbiztosítási igazgatási szervtől és az adóhatóságtól.
+- 7. A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv azonosítás és a változások ellenőrzése céljából történő adatigényléshez a személyiadat- és lakcímnyilvántartás központi szervének, a munkaügyi központoknak és kirendeltségeiknek, a kincstárnak, az egészségbiztosítási szervnek, a nyugdíjbiztosítási igazgatási szervnek és az adóhatóságnak megküldheti a nyilvántartott személyek természetes személyazonosító adatait, továbbá adóazonosító jelét és társadalombiztosítási azonosító jelét. A személyiadat- és lakcímnyilvántartás központi szerve, a munkaügyi központok és kirendeltségeik, a kincstár, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az adóhatóság a sikeres azonosítást követően a kért adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
