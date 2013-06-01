@@ -4,7 +4,7 @@ az állattenyésztésről szóló 1993. évi CXIV. törvény módosításáról
 
 1. §
 
-2. §
+2. § Hatályát veszti az Átv. 45/A. § (1a) bekezdésének „b), c), e) és” szövegrésze.
 
 3. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
 

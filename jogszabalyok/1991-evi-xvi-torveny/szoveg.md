@@ -91,6 +91,16 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (6) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy az értékesítési eljárás során megszerzett társaság minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
 
+### Dohánytermék-kiskereskedelmi koncessziós pályázatra irányadó különös szabályok
+
+10/B. § (1) Az ágazati törvényben meghatározott dohánytermék-kiskereskedelmi koncessziós eljárásra e törvény rendelkezéseit az e §-ban meghatározott eltéréssel kell alkalmazni.
+
+(2) Az ágazati törvény a nyilvános pályázati felhívás közzétételére az e törvény 8. § (1) bekezdésében meghatározottnál rövidebb határidőt, illetve eltérő közzétételi helyeket is előírhat.
+
+(3) E törvény 9. §-ától eltérően a pályázati kiírás a dohánytermék-kiskereskedelmi koncessziós pályázatok benyújtására 60 napnál rövidebb, de legalább 20 napot elérő határidőt határozhat meg.
+
+(4) Az ágazati törvény alapján megkötött koncessziós szerződésben a felek e törvény 16. §-ában foglaltaktól, továbbá – abban az esetben, ha a koncesszió jogosultja e tevékenységét nem gazdasági társaság útján gyakorolja – e törvény 17. §-ában, valamint 20. §-ában foglaltaktól eltérhetnek.
+
 ### A koncessziós szerződés
 
 11. § Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.

@@ -465,7 +465,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
 - k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
-(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés b), c), e) és g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
+(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
 
 (2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
 

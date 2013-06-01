@@ -28,14 +28,14 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 4. § E törvény alkalmazásában
 
-- a) fogyatékos személy: az, aki érzékszervi – így különösen látás-, hallásszervi, mozgásszervi, értelmi képességeit jelentős mértékben vagy egyáltalán nem birtokolja, illetőleg a kommunikációjában számottevően korlátozott, és ez számára tartós hátrányt jelent a társadalmi életben való aktív részvétel során;
+- a) fogyatékos személy: az a személy, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – illetve ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;
 - b) rehabilitáció: az egészségügyi, mentálhigiénés, oktatási, képzési, átképzési, foglalkoztatási, szociális rendszerekben megvalósuló folyamat, amelynek célja a fogyatékos személy képességének fejlesztése, szinten tartása a társadalmi életben való részvételének, valamint önálló életvitelének elősegítése;
 - c) segédeszköz: a fogyatékos személy fizikai vagy érzékszervi képessége részleges vagy teljes hiányának részleges vagy teljes pótlását szolgáló eszköz;
 - d) támogató szolgálat: a fogyatékos személy önálló életvitelét elősegítő, a mindennapi szükségletei kielégítését célzó – személyes közreműködés által megvalósuló – szolgáltatás;
 - e) lakóotthon: a fogyatékos személy önálló életvitelét elősegítő, kisközösséget befogadó lakhatási forma;
 - f) közszolgáltatás:
   - fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
-  - fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási szolgáltatás, ellátás, illetve tevékenység,
+  - fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási, közlekedési szolgáltatás, ellátás, illetve tevékenység,
   - fc) a helyi és nemzetiségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és nemzetiségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
   - fd) minden ügyfélszolgálati rendszerben működtetett szolgáltató tevékenység, továbbá
   - fe) minden olyan hatósági engedély vagy hatósági kötelezettség alapján végzett nyilvános szolgáltató tevékenység, amely település vagy településrész közellátását szolgálja, használata nem korlátozott, illetve nem korlátozható;
@@ -127,7 +127,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - b) az álláshelyre a fogyatékos személy oly módon jelentkezett, hogy jelezte a meghallgatáshoz szükséges speciális igényeit, és
 - c) azok biztosítása a munkáltató számára nem jelent aránytalanul nagy terhet. Aránytalanul nagy tehernek minősül az, ha a kötelezettség teljesítése a munkáltató működését ellehetetleníti.
 
-16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára speciális munkahelyek működtetésével a munkához való jogát lehetőség szerint biztosítani kell. A védett munkahelyet a központi költségvetés normatív támogatásban részesíti.
+16. § Ha a fogyatékos személy foglalkoztatása az integrált foglalkoztatás keretében nem megvalósítható, úgy számára a munkához való jogát lehetőség szerint biztosítani kell. A megváltozott munkaképességű munkavállalókat foglalkoztató akkreditált munkáltatókat és a szociális foglalkoztatást végző foglalkoztatókat a központi költségvetés – jogszabályban meghatározottak szerint – támogatásban részesíti.
 
 ### Lakóhely, közösségbe való befogadás, önálló életvitel
 
@@ -147,7 +147,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) A fogyatékos személy számára – sportolási lehetőségeinek megteremtéséhez – a sportolási célú, szabadidős intézmények használatát hozzáférhetővé kell tenni.
 
-(3) A fogyatékos személyek szabadidő- és tömegsportját a Wesselényi Miklós Sportközalapítvány támogatja, a fogyatékos személyek verseny- és élsportjának támogatása a központi költségvetésből történik.
+(3) A fogyatékos személyek szabadidő- és tömegsportját a Magyar Olimpiai Bizottság támogatja, a fogyatékos személyek verseny- és élsportjának támogatása a központi költségvetésből történik.
 
 ### IV. Fejezet — A REHABILITÁCIÓ
 
@@ -217,17 +217,19 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### A fogyatékossági támogatás mértéke
 
-23/A. § (1) A fogyatékossági támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összegének
+23/A. § (1) A fogyatékossági támogatás havi összege 2013. június 1-jétől
 
-- a) 65%-a a 23. § (1) bekezdésének a)–e) és h) pontja szerinti esetekben, kivéve az e § b) pontjában megjelölt eseteket,
-- b) 80%-a,
-  - ba) a 23. § (1) bekezdésének f) és g) pontja szerinti esetben,
-  - bb) a 23. § (1) bekezdésének a), c)–e) és h) pontjában foglalt esetekben, feltéve, hogy a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
+- a) 19 500 forint – a b) pontban foglaltak kivételével – a 23. § (1) bekezdésének a)–e) és h) pontja szerinti esetben,
+- b) 24 000 forint
+  - ba) a 23. § (1) bekezdés f) és g) pontja szerinti esetben, és
+  - bb) a 23. § (1) bekezdés a), c)–e) és h) pontja szerinti esetben, ha a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
 
 (2) Ha a vakok személyi járadékában részesülő látási fogyatékos személy fogyatékossági támogatásra tart igényt, őt a fogyatékossági támogatás a vakok személyi járadékának megszüntetését követően
 
 - a) az (1) bekezdés a) pontja szerinti összegben illeti meg, ha önkiszolgálási képességének vizsgálatát nem kéri;
 - b) az (1) bekezdés b) pontja szerinti összegben illeti meg, ha önkiszolgálási képességének hiányát megállapítják.
+
+(3) A fogyatékossági támogatás (1) és (2) bekezdés szerinti összegét 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell, az újonnan megállapításra kerülő fogyatékossági támogatást pedig ugyanilyen emelt összegben kell megállapítani.
 
 ### Hatásköri, eljárási szabályok
 
@@ -340,11 +342,13 @@ tevékenységet végez.
 
 (7) A fogyatékos személyek jogszabályban biztosított jogait megsértővel szemben az Országos Fogyatékosügyi Tanács, illetve a fogyatékos személyek országos érdek-képviseleti szervezetei pert indíthatnak a fogyatékos személyeket megillető jogok érvényesítése érdekében abban az esetben is, ha a jogsértés személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
-### VII. Fejezet — ORSZÁGOS FOGYATÉKOSÜGYI PROGRAM
+### VII. Fejezet — ORSZÁGOS FOGYATÉKOSSÁGÜGYI PROGRAM
 
-26. § (1) Az Országgyűlés a fogyatékos személyek esélyegyenlőségének megteremtéséhez szükséges intézkedések megalapozása érdekében Országos Fogyatékosügyi Programot (a továbbiakban: Program) határoz meg. A Programban foglaltakat az egészségügyi, foglalkoztatási, oktatási, közlekedési tervezésben, továbbá a településfejlesztésben, valamint az egyéb állami tervezés körébe tartozó döntés meghozatala során érvényre kell juttatni.
+26. § (1) Az Országgyűlés által a fogyatékos személyek esélyegyenlőségének megteremtéséhez szükséges intézkedések megalapozása érdekében elfogadott Országos Fogyatékosságügyi Programban (a továbbiakban: Program) foglaltakat az egészségügyi, foglalkoztatási, szociálpolitikai, oktatási, közlekedési tervezésben, továbbá a településfejlesztésben, valamint az egyéb állami tervezés körébe tartozó döntés meghozatala során érvényre kell juttatni.
 
 (2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter útján – a Kormány gondoskodik.
+
+(2a) Az Országos Fogyatékosságügyi Tanács részt vesz a Program előkészítésében, és figyelemmel kíséri annak végrehajtását.
 
 (3) A Program az alábbiakat tartalmazza:
 
@@ -354,39 +358,34 @@ tevékenységet végez.
 - d) a fogyatékos személyek és családjuk életminőségének javításához szükséges feltételrendszer meghatározását;
 - e) a fogyatékos személyeknek a társadalom életében való aktív részvételét elősegítő terveket;
 - f) a fogyatékos személyek létszámához és társadalmilag elismert igényeikhez igazodva a közlekedési rendszerek (tömegközlekedési eszközök, utasforgalmi létesítmények), a szállítás, az épített környezet átalakításának, valamint a speciális oktatás és speciális foglalkoztatás célállapotban elérendő indokolt mértékének meghatározását;
-- g) a kitűzött célok megvalósításához szükséges eszközöket és intézményeket, valamint a szükséges pénzügyi forrásokat.
+- g) a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtéséhez szükséges, az állam által biztosítandó eszközöket és intézkedéseket;
+- h) a kitűzött célok megvalósításához szükséges eszközök és intézmények meghatározását.
 
-(4) A Programot az Országgyűlés fogadja el. Végrehajtásáról a Kormány kétévente jelentést tesz az Országgyűlésnek. Az Országgyűlés a határozatot legalább négyévente felülvizsgálja.
+(4) A Kormány a Programban megfogalmazott célok ütemezett végrehajtása érdekében Intézkedési Tervet készít. Az Intézkedési Terv tartalmazza a célok végrehajtásához az adott időszakban szükséges intézkedéseket, az intézkedésekért felelős személy megjelölését, az egyes intézkedések megvalósításához szükséges forrást, továbbá a megvalósítás határidejét.
 
-### VIII. Fejezet — A FOGYATÉKOSOKAT MEGILLETŐ JOGOK VÉDELME, TOVÁBBÁ A TÖRVÉNYBŐL FAKADÓ FELADATOK KÖTELEZETTJE
+### VIII. Fejezet — A FOGYATÉKOS SZEMÉLYEKET MEGILLETŐ JOGOK VÉDELME, TOVÁBBÁ A TÖRVÉNYBŐL FAKADÓ FELADATOK KÖTELEZETTJE
 
 27. § Amennyiben valakit fogyatékossága miatt jogellenesen hátrány ér, megilletik mindazok a jogok, amelyek a személyhez fűződő jogok sérelme esetén irányadók.
+
+27/A. § A fogyatékos személyek jogainak előmozdítása, életminőségük javítása, önálló életvitelük támogatása és az e törvényben megfogalmazott egyéb célok, feladatok megvalósítása érdekében nyújtott, európai uniós forrásból finanszírozott, illetve hazai költségvetési támogatás esetén a társadalmi esélyegyenlőség előmozdításáért felelős miniszter döntése alapján a képviseletében eljáró közreműködő szervezetként a szakmai felügyelete alatt álló, a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott szervezet jár el.
 
 ### Záró rendelkezések
 
 28. § Ez a törvény 1999. január 1-jén lép hatályba azzal, hogy a fogyatékossági támogatásról szóló törvényi rendelkezéseket 1999. szeptember 30-ig kell megalkotni.
 
-29. § (1) A közlekedési rendszereknek, tömegközlekedési eszközöknek, utasforgalmi létesítményeknek, jelző- és tájékoztató berendezéseknek – amennyiben jogszabály másként nem rendelkezik – fokozatosan, de legkésőbb 2010. január 1-jéig kell a 8. §-ban foglalt feltételeknek megfelelniük.
+29. §
 
-(2) A törvény 9. §-ában szabályozott közlekedési szállítást végző hálózat kiépítéséről fokozatosan, de legkésőbb 2010. január 1-jéig gondoskodni kell.
+29/A. § (1) A kincstár a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról szóló 2013. évi LXII. törvénnyel megállapított 23/A. § alapján emelésre kerülő, 2013. június hónapra járó fogyatékossági támogatást a jogosultak számára már emelt összegben folyósítja, illetve állapítja meg.
 
-(3) A fogyatékos személy a 13. §-ban szabályozott speciális oktatásának tárgyi, személyi feltételeit fokozatosan, de legkésőbb 2005. január 1-jéig kell megteremteni.
+(2) A vakok személyi járadéka 2013. június 1-jétől havi 16 160 forint összegben jár. A kincstár a 2013. június hónapra járó vakok személyi járadékát a jogosultak számára már emelt összegben folyósítja. A vakok személyi járadékát 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.
 
-(4) A fogyatékos személy speciális munkahelyen történő foglalkoztatásának 16. § szerinti feltételeit fokozatosan, de legkésőbb 2005. január 1-jéig kell megteremteni.
-
-(5)
-
-(6)
-
-(7) Az Országos Fogyatékosügyi Tanács e törvény hatálybalépésétől számított három hónapon belül jön létre.
-
-(8) A Kormány a Programot legkésőbb 1999. április 30-ig benyújtja az Országgyűlésnek.
+29/B. § Az e törvény alapján létrehozott, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosításáról szóló 2013. évi LXII. törvény hatálybalépésének napján működő Országos Fogyatékosügyi Tanács tagjainak megbízatása 2013. szeptember 30-áig szól.
 
 30. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) a súlyos fogyatékosság minősítésének, felülvizsgálatának részletes szabályait;
 - b) a fogyatékossági támogatás folyósításának, elszámolásának szabályait;
-- c) a speciális munkahely működésének, finanszírozásának szabályait;
+- c)
 - d) a Fogyatékosügyi Tanács szervezetére és működésére vonatkozó részletes szabályokat.
 - e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
