@@ -230,50 +230,13 @@ való megfelelést szolgálja.
 
 #### 32–33. §
 
-34. § A Kkt. 32. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A 8. § (1) bekezdés h) pontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására, valamint a használati díj- és pótdíjszedésre, a pótdíj behajtására és a díj ellenőrzésre vonatkozó állami feladatok pénzügyi forrásait a költségvetési törvényben a 33. § (5) bekezdésében meghatározott szerv költségvetésében kell megállapítani.”
+#### 34. §
 
 #### 35. §
 
-36. § (1) A Kkt. 48. § (3) bekezdés a) pont 15. alpontja helyébe a következő rendelkezés lép:
+#### 36. §
 
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,”
-
-(rendeletben határozza meg.)
-
-(2) A Kkt. 48. § (3) bekezdés a) pont 21. alpontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„21. a közigazgatási bírsággal sújtandó közlekedési szabályszegések körét, az e tevékenységekre vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását,”
-
-(rendeletben határozza meg.)
-
-(3) A Kkt. 48. § (3) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap
-
-a Kormány, hogy)
-
-„j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos bírságolással összefüggő hatósági feladatok részletes szabályait,”
-
-(rendeletben állapítsa meg.)
-
-37. § (1) A Kkt.
-
-- a) 33/B. § (3) bekezdésében az „A használati díj és az útdíj” szövegrész helyébe az „A használati díj” szöveg,
-- b) 33/B. § (4) bekezdésében az „A használati díj és az útdíj” szövegrész helyébe az „A használati díj” szöveg,
-- c) 33/B. § (5) bekezdésében az „a használati díjat vagy az útdíjat” szövegrész helyébe az „a használati díjat” szöveg,
-- d) 48. § (3) bekezdés g) pont 3. alpontjában a „használati díj és útdíj” szövegrész helyébe a „használati díj” szöveg
-
-lép.
+37. § (1)
 
 (2)
 
