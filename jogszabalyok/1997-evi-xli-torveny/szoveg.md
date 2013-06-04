@@ -266,11 +266,11 @@ h) a halászati őrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és környezetvédelmi szabályokról.
 
-(4) A tanfolyam részletes szakmai anyagát a Földművelésügyi Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(4) A tanfolyam részletes szakmai anyagát a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
 
 (5)
 
-(6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Tatai Mezőgazdasági és Élelmiszeripari Szakmunkásképző Iskola útján – gondoskodik.
+(6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégium útján – gondoskodik.
 
 Vhr. 10. § (1) Az állami horgászjegyet a halászati hatóság közvetlenül vagy nevében az általa megbízott szervezet adja ki.
 
@@ -408,7 +408,7 @@ felmentést adhat, eseti engedéllyel.
 
 (6)
 
-Vhr. 13/A. § (1) Az elektromos halászgép minősítési-üzembehelyezési vizsgáztatását a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola és Szakiskola (Tata) intézetében vagy a Halászati és Öntözési Kutató Intézetben (Szarvas) végezteti el a gép tulajdonosa. Az elektromos halászgépnek a villamos halászó-készülékekről szóló MSZ–05 44.1603:1983 számú szabványban foglaltaknak kell megfelelni.
+Vhr. 13/A. § (1) Az elektromos halászgép minősítési-üzembehelyezési vizsgáztatását a Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakközépiskola, Szakiskola és Kollégiumban vagy a Halászati és Öntözési Kutató Intézetben (Szarvas) végezteti el a gép tulajdonosa. Az elektromos halászgépnek a villamos halászó-készülékekről szóló MSZ–05 44.1603:1983 számú szabványban foglaltaknak kell megfelelni.
 
 (2) Az eredményes vizsgáról a kijelölt intézet igazolást ad, amit a tulajdonos köteles az állandó lakóhelye szerinti halászati hatóságnak – az elektromos halászgéppel egyidejűleg – bemutatni.
 
@@ -517,7 +517,7 @@ Vhr. 16. § (1) A jogosult az Országos Halászati Adattár (a továbbiakban: Ad
 
 (3) Az (1)–(2) bekezdésben foglaltakat első alkalommal – az 1998. évi adatok vonatkozásában – 1999. március 15. napjáig kell az Adattár felé teljesíteni.
 
-Vhr. 17. § (1) Az Adattár fenntartásáról és működtetéséről a miniszter a Haltenyésztési Kutató Intézet (a továbbiakban: Intézet) útján gondoskodik. Az Intézet felelős az Adattár üzemeltetéséért és karbantartásáért, az adatok védelméért, az információs rendszer számítógépparkjának és programjainak folyamatos fejlesztéséért.
+Vhr. 17. § (1) Az Adattár fenntartásáról és működtetéséről a miniszter a Halászati és Öntözési Kutatóintézet (a továbbiakban: Intézet) útján gondoskodik. Az Intézet felelős az Adattár üzemeltetéséért és karbantartásáért, az adatok védelméért, az információs rendszer számítógépparkjának és programjainak folyamatos fejlesztéséért.
 
 (2) Az ország halállományának állapotára vonatkozó adatok közül csak a miniszter által már közzétett adatok nyilvánosak.
 
@@ -551,31 +551,31 @@ Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosí
 
 (5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.
 
-Vhr. 19. § (1) A halászati őr köteles a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt vizsgát tenni. A vizsga letételéről a halászati hatóság a 6. számú melléklet szerinti bizonyítványt adja ki.
+Vhr. 19. § (1) A halászati hatóság a halászati őrök számára tanfolyamot és vizsgát szervez. A halászati hatóság a sikeres vizsgát követően a 6. számú melléklet szerinti vizsgabizonyítványt állít ki.
 
-(2) A vizsga részletes szakmai anyagának meghatározásáról a minisztérium gondoskodik.
+(2) A halászati őr kétévente – díj ellenében – köteles a halászattal és a horgászattal, a halvédelemmel, valamint a halászati őrzéssel összefüggő jogszabályokkal kapcsolatos továbbképzésen részt venni. A továbbképzésen való részvételt a halászati hatóság a 6. számú melléklet szerinti bizonyítványba bejegyzi.
 
-Vhr. 20. § (1) A halászati vizsgát tett halászati őr megbízásának vagy foglalkoztatásának megkezdése előtt a működésének helye szerinti halászati hatóság halászati felügyelője előtt köteles esküt tenni. A halászati őr esküjének szövege a következő:
+(3) Az (1) bekezdésben foglalt vizsga részletes szakmai anyagának meghatározásáról a minisztérium és a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) gondoskodik.
 
-,,Én ……………………………… esküszöm, hogy a rám bízott halászati vízterület (halastó) halállományára és élőhelyére, valamint a halászati berendezésekre lelkiismeretesen vigyázok. Feladataimat a jogszabályok rendelkezéseinek, a szakmai szabályoknak és a kapott megbízásnak, utasításnak megfelelően teljesítem. A halászat, horgászat érdekeit sértő cselekmények és károkozások megelőzésére a szükséges intézkedéseket megteszem. A hatályos jogszabályoknak megfelelően mindazokkal a személyekkel szemben eljárok, akik a halászati vízterületen (a halastavon) vagy annak partján jogosultság hiányában halásznak, horgásznak, továbbá a halállomány és élőhelyének érdekeit sértik vagy veszélyeztetik.''
+Vhr. 20. § (1) A vizsgát tett halászati őr megbízásának vagy foglalkoztatásának megkezdése előtt a működésének helye szerinti halászati hatóság halászati felügyelője előtt köteles esküt tenni. A halászati őr esküjének szövege a következő:
 
-(2) A halászati hatóság az eskü kivételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi.
+”Én .............................. esküszöm, hogy a rám bízott halászati vízterület (halastó) halállományára és élőhelyére, valamint a halgazdálkodási, halászati és horgászati létesítményekre, berendezésekre lelkiismeretesen vigyázok. Feladataimat a jogszabályok rendelkezéseinek, a szakmai szabályoknak és a kapott megbízásnak, utasításnak megfelelően teljesítem. A halászati, horgászati előírásokat sértő cselekmények és károkozások megelőzésére a szükséges intézkedéseket megteszem. A hatályos jogszabályoknak megfelelően mindazokkal a személyekkel szemben eljárok, akik a halászati vízterületen (a halastavon) vagy annak partján jogosultság hiányában halásznak, horgásznak, továbbá a halállományt és a halászati vízterületek élőhelyeit és környezetét sértik vagy veszélyeztetik.”
+
+(2) A halászati hatóság az eskü letételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi.
 
 (3) Az esküokmány mintáját a 6. számú melléklet tartalmazza.
 
-Vhr. 21. § (1) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – hatósági igazolványt és az igazolvánnyal azonos sorszámú szolgálati naplót ad át.
+Vhr. 21. § (1) A szolgálati igazolvány és szolgálati jelvény leírását a 7. számú melléklet tartalmazza. A rendőrség a kiállított szolgálati igazolványt és szolgálati jelvényt 30 napon belül postai úton juttatja el a halászati jog jogosultja részére. A halászati jog jogosultja az esküt tett halászati őr részére – a halászati hatóság tájékoztatásával egyidejűleg – átadja a szolgálati igazolványt és szolgálati jelvényt.
 
-(2)
+(2) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – szolgálati naplót ad ki.
 
-(3) A hatósági igazolvány és a szolgálati napló elvesztését haladéktalanul be kell jelenteni a halászati hatóságnál.
+(3) A szolgálati igazolvány, a szolgálati jelvény, illetve a szolgálati napló elvesztését haladéktalanul be kell jelenteni a halászati jog jogosultjánál és a halászati hatóságnál. A halászati hatóság az elvesztés bejelentésével a rendőrségnél kezdeményezi a szolgálati igazolvány és szolgálati jelvény körözését.
 
-(4) A halászati őr a megbízása vagy foglalkoztatása megszűnése esetén 30 napon belül köteles a hatósági igazolványt és a szolgálati naplót a halászati hatóságnak átadni, amely az átvételről igazolást állít ki. A szolgálati naplót öt évig meg kell őrizni.
+(4) A halászati őr a megbízatása vagy foglalkoztatása megszűnése esetén, illetve (6) bekezdésben meghatározott esetekben 5 napon belül köteles a szolgálati igazolványt, a szolgálati jelvényt a halászati jog jogosultjának átadni, amely az átvételről igazolást állít ki és tájékoztatja a halászati hatóságot. A szolgálati naplót öt évig meg kell őrizni.
 
-(5) A halászati hatóság az esküt tett és hatósági igazolvánnyal, valamint naplóval ellátott halászati őrökről – a 8. számú melléklet szerint – nyilvántartást vezet.
+(5) A halászati hatóság az esküt tett és szolgálati igazolvánnyal, szolgálati jelvénnyel, valamint szolgálati naplóval ellátott halászati őrökről – a 8. számú melléklet szerint – nyilvántartást vezet.
 
-(6) A halászati őr igazolványának visszavonását a halászati hatóságnál a halászati őr munkáltatója, vagy megbízója, illetve a rendőrség kezdeményezheti.
-
-(7) A halászati őrök továbbképzéséről az MGSzH Központ gondoskodik.
+(6) Amennyiben a halászati hatóság bejelentés kivizsgálása után vagy szakmai felügyeleti ellenőrzés keretében megállapítja, hogy a halászati őr nem jogszabályok szerint látja el feladatát, akkor a halászati őr szolgálati igazolványának, szolgálati jelvényének visszavonását kezdeményezheti a rendőrségnél.
 
 Vhr. 22. § A halászati őr a Hhtv. 34. §-a (4) bekezdésének b) pontja szerint a jármű átvizsgálásáról intézkedik, ha a halállomány és élőhelyének őrzése céljából annak ellenőrzése is szükséges.
 
@@ -597,7 +597,7 @@ Hhtv. 36. § (1) A halászati vízterületen bekövetkezett halpusztulás észle
 
 (3) A halpusztulás okozta vízminőségi kár elhárítására és a kár viselésére a vízgazdálkodásról szóló 1995. évi LVII. törvény rendelkezései az irányadók.
 
-Vhr. 23. § (1) A vízszennyezésekkel kapcsolatos halélettani kérdésekben az országos hatáskörű Vízélettani Laboratórium (Százhalombatta), valamint a területileg illetékes megyei (fővárosi) növényegészségügyi és talajvédelmi állomás szakvéleményét kell irányadónak tekinteni.
+Vhr. 23. § (1) A vízszennyezésekkel kapcsolatos halélettani kérdésekben az országos hatáskörű NÉBIH Növény-, Talaj- és Agrárkörnyezet-védelmi Igazgatóság Gödöllői Vízélettani Laboratórium, valamint a területileg illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága szakvéleményét kell irányadónak tekinteni.
 
 (2) A szennyvízből és a befogadó vízből – a szennyvíz betorkollása alatt és felett – 3-3 hatósági vízmintát kell gyűjteni a megyei (fővárosi) növényegészségügyi és talajvédelmi állomás képviselőjének jelenlétében. Egy-egy sorozat vízminta a jogosultnál, illetve a feltételezett károkozónál marad, a minta harmadik sorozata a vizsgálatok elvégzésére szolgál.
 
@@ -776,7 +776,7 @@ Hhtv. 51. § (1) A halgazdálkodási, illetve halvédelmi bírság mértékét a
 
 Hhtv. 51/A. §
 
-Vhr. 31. § A halgazdálkodási, illetve halvédelmi bírság összegét – a halászati hatóság határozatának jogerőre emelkedésétől számított harminc napon belül – a halászati hatóság határozatához mellékelt készpénz-átutalási megbízáson kell megfizetni az MgSzH 10032000-00289782-00000000 számú számlájára. A kiadott készpénz-átutalási megbízáson a halászati hatóság feltünteti a fizetendő bírság jogcímét és összegét, valamint a határozat számát.
+Vhr. 31. § A halgazdálkodási, illetve halvédelmi bírság összegét – a halászati hatóság határozatának jogerőre emelkedésétől számított harminc napon belül – a halászati hatóság határozatához mellékelt készpénz-átutalási megbízáson kell megfizetni a NÉBIH 10032000-00289782-00000000 számú számlájára. A kiadott készpénz-átutalási megbízáson a halászati hatóság feltünteti a fizetendő bírság jogcímét és összegét, valamint a határozat számát.
 
 ### VII. Fejezet — A HALÁSZATTAL ÖSSZEFÜGGŐ FELADATOK PÉNZÜGYI FEDEZETE
 
@@ -887,11 +887,7 @@ Hhtv. 57/A. § E törvény az 56. § (1) bekezdésének l) pontjában adott felh
 
 MINTA
 
-FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
-
-………………………………………… MEGYEI
-
-HALÁSZATI HATÓSÁG
+.......... MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 NYILVÁNTARTÁSI LAP
 
@@ -939,11 +935,7 @@ bejelentő aláírása
 
 MINTA 1. oldala
 
-FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
-
-………………………………………… MEGYEI
-
-HALÁSZATI HATÓSÁG
+.......... MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 (Szigorú számadású nyomtatvány)
 
@@ -979,11 +971,7 @@ Méretkorlátozások [kivonat a …/1997. (…) FM rendeletből]:
 
 MINTA 1. oldala
 
-FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
-
-………………………………………… MEGYEI
-
-HALÁSZATI HATÓSÁG
+.......... MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 megbízásából
 
@@ -1065,13 +1053,7 @@ Méretkorlátozások [kivonat a …/1997. (…) FM rendeletből]:
 
 MINTA 1. oldala
 
-FÖLDMŰVELÉSÜGYI ÉS
-
-VIDÉKFEJLESZTÉSI MINISZTÉRIUM
-
-……………………………… MEGYEI
-
-HALÁSZATI HATÓSÁG
+.......... MEGYEI KORMÁNYHIVATAL FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 megbízásából
 
@@ -1145,9 +1127,9 @@ I. rész
 
 A halászati őr esküjének letételéről szóló esküokmány mintájáról
 
-MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL
+.................................................... MEGYEI KORMÁNYHIVATAL
 
-.................................................... MEGYEI
+FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG
 
 HALÁSZATI HATÓSÁG
 
@@ -1157,17 +1139,15 @@ ESKÜOKMÁNY
 
 a halászati őr esküjének letételéről
 
-Igazolom, hogy ........................................................................... (név) (születési helye, ideje)
+Igazolom, hogy ................................................................... (név)................................................................(születési helye, ideje)
 
-......................................................... (lakcím)........................... szövegű szolgálati esküt a mai napon előttem letette. Ennek alapján részére a .................. számú hatósági igazolványt és azonos számú szolgálati naplót kiadtam és nevezett személyt az esküt tett halászati őrök nyilvántartásába .................. sorszám alatt bevezettem.
+......................................................... (lakcím)........................... szövegű szolgálati esküt a mai napon előttem letette. Ennek alapján részére a .................. számú szolgálati jelvényt, szolgálati igazolványt, valamint az azonos számú szolgálati naplót kiadtam és nevezett személyt az esküt tett halászati őrök nyilvántartásába .................. sorszám alatt bevezettem.
 
 Kelt .................., 20...... ........................ hó ...... napján
 
 P. H.
 
-.....................................................
-
-halászati felügyelő
+.....................................................halászati felügyelő
 
 II. rész
 
@@ -1177,82 +1157,61 @@ Vizsgabizonyítvány
 
 Sorszám:
 
-Igazolom, hogy (név)
+Igazolom, hogy ................................................................................. (név)
 
-(születési hely)
+............................................................................................................. (születési hely)
 
-(születési időpont)
+............................................................................................................. (születési időpont)
 
-(lakcím)
+............................................................................................................. (lakcím)
 
-A ................................................... Megyei Mezőgazdasági Szakigazgatási Hivatalnál a halászatról és a horgászatról szóló 1997. évi XLI. törvény által előírt halőri vizsgát sikeresen letette.
+A ............................................................ megyei kormányhivatal halászati hatósága előtt a halászatról és a horgászatról szóló 1997. évi XLI. törvény által előírt halászati őri vizsgát/továbbképzési vizsgát* sikeresen letette.
 
 Kelt ..............................., 20............. ..................................... hó .............. napján
 
 P. H.
 
-....................................................
+....................................................halászati felügyelő
 
-halászati felügyelő
+*megfelelő aláhúzandó
 
 ### 7. számú melléklet a 78/1997. (XI. 4.) FM rendelethez
 
 I. rész
 
-Halászati őr hatósági igazolványa
+A halászati őr szolgálati igazolványa
 
-MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL
+A rendészeti feladatokat ellátók szolgálati igazolványa az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 10. § (2) bekezdésében meghatározott adattartalommal rendelkező
 
-........................................................ MEGYEI
+1. Az ISO 7810 (1995) vagy azzal egyenértékű szabványnak megfelelő, ID-1 méretű, többrétegű, melegen laminált, műanyag kártya, amely megfelel az „A” okmányvédelmi kategóriának.
 
-HALÁSZATI HATÓSÁG
-
-Igazolvány száma: ........................
-
-(Érvényes visszavonásig)
-
-Név:
-
-Születési hely, év:
-
-Lakcím:
-
-| Fénykép helye 3x4 cm-es |
-| --- |
-
-Foglalkoztató, megbízó neve, címe:
-
-Működési helye, halászati vízterület megjelölésével:
-
-Az igazolvány tulajdonosa jogosult a halászati őrzési feladatok ellátására.
-
-Kelt ................................., 20......... ............................... hó .............. napján
-
-P. H.
-
-......................................................
-
-halászati felügyelő
+2. Az alapanyagba integrált arckép méretének legalább 30x24 mm-nek kell lenni. Az arcképmezőn belül az áll és a fejtető közötti résznek a teljes képmagasság 70–80%-a közöttinek kell lenni.
 
 II. rész
+
+A halászati őr szolgálati jelvénye
+
+1. A szolgálati azonosító jelvény 80 mm magas, 60 mm széles ovális, felül „RENDÉSZETI FELADATELLÁTÁS” felirat, alul sorszám található. A középső síkban, 45 mm átmérőjű egyedi logó kap helyet, melynek alsó széle az alapjelvény aljától 10 mm-re van. A jelvényen található sorszám 6 számjegyből áll.
+
+2. A szolgálati azonosító jelvény fekete bőralátéten rögzített, mely gombolásos kivitelű. A bőralátét 2 mm-rel szélesebb a fémjelvénynél, felül a gombolás céljára lyukasztott és hasított.
+
+3. Egyedi logó: Sötétkék kör alakú mezőben a ponty faj (Cyprinus carpio L.) fehér színű, jobbra néző sematikus ábrázolása helyezkedik el, alatta fekete színű „HALÁSZATI ŐR” félkör felirat található.
+
+III. rész
 
 A halászati őr szolgálati naplójának kötelező tartalmi elemei
 
 Halászati őr szolgálati naplója
 
-MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL
+.................................................... MEGYEI KORMÁNYHIVATAL
 
-.................................................... MEGYEI
-
-HALÁSZATI HATÓSÁG
+FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG HALÁSZATI HATÓSÁG
 
 Sorszám: ..................
 
 (Szigorú számadású nyomtatvány)
 
-Igazolom, hogy e szolgálati napló vezetésére (név)
-
-............................................................................ (születési helye, ideje) ......................................... (halászati őr hatósági igazolvány száma) jogosult.
+Igazolom, hogy e szolgálati napló vezetésére ......................................................................................................................... (név)....................................................................... (születési helye, ideje) ....................................... (halászati őr szolgálati igazolvány száma) jogosult.
 
 A szolgálati napló ......... számú számozott oldalból áll.
 
@@ -1260,9 +1219,7 @@ Kelt .........................................., 20........ ....................
 
 P. H.
 
-....................................................
-
-halászati felügyelő
+.................................................... halászati felügyelő
 
 A halászati őr szolgálati naplójának kötelezőek a rovatai, melyeket a napló 3. oldalán kell felsorolni:
 
@@ -1282,16 +1239,16 @@ A napló további lapjai üresek, a halászati őr a kötelező rovatok szerinti
 
 A halászati őrök nyilvántartásának mintája
 
-MEZŐGAZDASÁGI SZAKIGAZGATÁSI HIVATAL
+…………………………………… MEGYEI KORMÁNYHIVATAL
 
-.................................................... MEGYEI
+FÖLDMŰVELÉSÜGYI IGAZGATÓSÁG
 
 HALÁSZATI HATÓSÁG
 
 Nyilvántartás a halászati őrökről
 
-| Sorszám | Név | Szül. hely, idő | Lakóhely | Eskütétel időpontja | Hatósági igazolvány és szolgálati napló száma | Foglalkoztató (megbízó) neve, székhelye | Működési hely (halászati vízterület) | Halászati hatóság aláírása | Egyéb |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sor- szám | Nyilván- tartásba vétel idő- pontja | Családi és utónév | Anyja leány- kori családi és utóneve | Szüle- tési hely, idő | Lakóhely | Eskütétel idő- pontja, eskü- okmány száma | Szolgálati igazol- vány, jelvény, napló száma | Vizsgák időpontja és sorszáma | Működési hely, halászati vízterület kódja | Munkáltató (megbízó) megneve- zése és címe | Alkalma- zási jogvi- szony típusa | Foglalkoztatás kezdete/ befejezése |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### 9. számú melléklet a 78/1997. (XI. 4.) FM rendelethez
 
