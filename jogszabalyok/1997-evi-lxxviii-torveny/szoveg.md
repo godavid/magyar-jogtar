@@ -38,7 +38,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 8. Építmény: építési tevékenységgel létrehozott, illetve késztermékként az építési helyszínre szállított, – rendeltetésére, szerkezeti megoldására, anyagára, készültségi fokára és kiterjedésére tekintet nélkül – minden olyan helyhez kötött műszaki alkotás, amely a terepszint, a víz vagy az azok alatti talaj, illetve azok feletti légtér megváltoztatásával, beépítésével jön létre (az építmény az épület és műtárgy gyűjtőfogalma).
 - 9. Közhasználatú építmény: az olyan építmény (építményrész), amely – a település vagy településrész ellátását szolgáló funkciót tartalmaz, és – használata nem korlátozott, illetve nem korlátozható (pl. alap-, közép-, felsőfokú oktatási, egészségvédelmi, gyógyító, szociális, kulturális, művelődési, sport, pénzügyi, kereskedelmi, biztosítási, szolgáltatási célú építmények mindenki által használható részei), továbbá – használata meghatározott esetekben kötelező, illetve elkerülhetetlen (pl. a közigazgatás, igazságszolgáltatás, ügyészség építményeinek mindenki által használható részei), valamint, amelyet – törvény vagy kormányrendelet közhasználatúként határoz meg
 - 10. Épület: jellemzően emberi tartózkodás céljára szolgáló építmény, amely szerkezeteivel részben vagy egészben teret, helyiséget vagy ezek együttesét zárja körül meghatározott rendeltetés vagy rendeltetésével összefüggő tevékenység, avagy rendszeres munkavégzés, illetve tárolás céljából.
-- 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet.
+- 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet és a Duna-parti építési szabályzat.
 - 12. Integrált településfejlesztési stratégia: a településfejlesztési koncepcióban foglalt környezeti, társadalmi és gazdasági célok megvalósítását egyidejűleg szolgáló középtávú fejlesztési program.
 - 13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet az ingatlan-nyilvántartás ekként tart nyilván.
 - 14. Önkormányzati (települési, a fővárosban fővárosi és kerületi, térségi) főmérnök: a települési önkormányzat településüzemeltetési, a település műszaki – különösen a sajátos építményekkel és a katasztrófavédelemmel kapcsolatos – feladatainak ellátásában közreműködő, e feladatokkal kapcsolatos döntést előkészítő személy.
@@ -62,9 +62,10 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 32. Építészeti érték: az épített környezet minden olyan tárgyi és szellemi (építészettörténeti, építőművészeti, műszaki-tudományos) építészeti minőséggel rendelkező alkotásokban megjelenő értéke, amelyben a mindenkori társadalom – ezen belül a helyi közösségek – identitása és alkotóképessége fejeződik ki.
 - 33. Építészeti örökség: az épített környezet maradandó építészeti értéket is képviselő elemeinek (építmény, épületegyüttes, táj- és kertépítészeti alkotás) összessége – annak minden beépített alkotórészével, tartozékával és berendezésével együtt.
 - 34. Helyi építészeti értékvédelem: a helyi építészeti örökség értékeinek feltárása, számbavétele, védetté nyilvánítása, fenntartása és védelmének biztosítása.
-- 35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos szabályoknak, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek épületmagasságát, a fővárosi infrastruktúra területbiztosítását, valamint a Duna főmedrével közvetlenül határos telkek rendeltetését megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
+- 35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos településrendezési és építési követelményeknek, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek beépítési magasságát, a fővárosi infrastruktúra területbiztosítását megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
 - 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
 - 37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
+- 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 
 ### Általános követelmények
 
@@ -224,7 +225,8 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 (2) A településrendezés eszközei
 
 - a) a településszerkezeti terv, amelyet a településfejlesztési koncepció alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
-- b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg.
+- b) a helyi építési szabályzat, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki és állapít meg,
+- c) a Duna-parti építési szabályzat, amelyet a településszerkezeti terv és a Fővárosi rendezési szabályzat alapján a fővárosi önkormányzat képviselő-testülete dolgoztat ki és állapít meg.
 
 9/C. §
 
@@ -277,7 +279,12 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 - a) a fővárosi településszerkezeti terv,
 - b) a fővárosi rendezési szabályzat,
-- c) a fővárosi kerületi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a kerület területére megállapított kerületi építési szabályzat.
+- c) a fővárosi kerületi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a kerület területére megállapított kerületi építési szabályzat,
+- d) a fővárosi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a Duna főmedrével közvetlenül határos telkek és a Margitsziget területére megállapított Duna-parti építési szabályzat.
+
+### A Duna-parti építési szabályzat
+
+14/B. § Az építés helyi rendjének biztosítása érdekében a fővárosi önkormányzat az országos településrendezési és építési követelményeknek megfelelően a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket Duna-parti építési szabályzatban állapítja meg.
 
 ### Több település építésügyi feladatainak közös ellátása
 
@@ -1358,6 +1365,8 @@ terjedő közigazgatási bírsággal sújtja.
 
 (7) A főváros településszerkezeti tervét és a főváros rendezési szabályzatát 2014. június 30-ig el kell fogadni.
 
+(7a) A Duna-parti építési szabályzat hatálybalépéséig a 14/B. §-ban meghatározott területekre vonatkozóan a fővárosi kerületi önkormányzat által elfogadott településrendezési eszközöket kell alkalmazni.
+
 (8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
 (9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
@@ -1459,7 +1468,8 @@ rendeletben állapítsa meg.
 
 - 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárásáról, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
 - 2.
-- 3. a fővárosi rendezési szabályzatát.
+- 3. a fővárosi rendezési szabályzatát,
+- 4. a Duna-parti építési szabályzatát.
 
 (8) Felhatalmazást kap
 
