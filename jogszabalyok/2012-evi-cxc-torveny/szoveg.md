@@ -4,12 +4,14 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 #### 1. Egyes ingatlanok fővárosi önkormányzat részére történő átadása
 
-1. § (1) A fővárosi kerületi önkormányzatok tulajdonában álló, a Duna partvonalával közvetlenül határos
+1. § (1) Budapest közigazgatási területén a fővárosi kerületi önkormányzatok és az állam tulajdonában álló, a Duna partvonalával közvetlenül határos
 
 - a) budai és pesti alsó rakparton lévő ingatlanok, valamint kikötőhelyek és kikötői infrastruktúra,
-- b) az a) pont alá nem tartozó, a nagyhajók fogadására alkalmas kikötőhelyek és kikötői infrastruktúra2013. január 1-jével – az egységes városkép kialakítása és a közlekedés fejlesztése érdekében – ingyenesen a fővárosi önkormányzat használatába kerülnek.
+- b) az a) pont hatálya alá nem tartozó ingatlanok, valamint a nagyhajók fogadására alkalmas kikötőhelyek és kikötői infrastruktúra
 
-(2) A fővárosi kerületi és a fővárosi önkormányzat – az érintett ingatlanok helyrajzi számát is tartalmazó – közös kérelme és megállapodása alapján az ingatlanügyi hatóság a fővárosi önkormányzat javára az ingatlan-nyilvántartásba használati jogot jegyez be. Az ingatlan-nyilvántartási eljárás díjmentes.
+2013. július 1. napjával – az egységes városkép kialakítása és a közlekedés fejlesztése érdekében – e törvény erejénél fogva, vagyonkezelési szerződés kötése nélkül ingyenesen 99 évre a fővárosi önkormányzat vagyonkezelésébe kerülnek.
+
+(2) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot a fővárosi önkormányzat kérelme alapján az ingatlan-nyilvántartásba be kell jegyezni. A bejegyzést a fővárosi önkormányzat kezdeményezi, az ingatlan-nyilvántartási eljárás díjmentes. Az érintett ingatlanok helyrajzi számait az 1. melléklet tartalmazza.
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
@@ -23,15 +25,15 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 #### 3. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 5. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 6. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -131,4 +133,102 @@ d) a 12. § (3) bekezdése szerinti vitás ügyek rendezésének, illetve a fel�
 
 (3)
 
-9. § E törvény 1. §-a, 3. §-a, 6. §-a és 8. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+9. § E törvény
+
+- a) 1. §-a és 1. melléklete az Alaptörvény 31. cikk (3) bekezdése, továbbá 38. cikk (1) és (2) bekezdése,
+- b) 3. §-a, 6. §-a és 8. §-a az Alaptörvény 31. cikk (3) bekezdése
+
+alapján sarkalatosnak minősül.
+
+### 1. melléklet a 2012. évi CXC. törvényhez
+
+#### A fővárosi önkormányzat vagyonkezelésébe kerülő, a Duna partvonalával közvetlenül határos ingatlanok listája
+
+| Sorszám | Helyrajzi szám | Tulajdonos |
+| --- | --- | --- |
+| 1. | 76502 (284/170162 tulajdoni hányad) | Magyar Állam |
+| 2. | 76500 (116091/133627 tulajdoni hányad) | Magyar Állam |
+| 3. | 25964/1 | Magyar Állam |
+| 4. | 25990/2 | Magyar Állam |
+| 5. | 24314 | Magyar Állam |
+| 6. | 63624 | Magyar Állam |
+| 7. | 19308/2 | Magyar Állam |
+| 8. | 19306/2 | Magyar Állam |
+| 9. | 19305/2 | Magyar Állam |
+| 10. | 19304/2 | Magyar Állam |
+| 11. | 19303/2 | Magyar Állam |
+| 12. | 4082/33 | Magyar Állam |
+| 13. | 43578 | Magyar Állam |
+| 14. | 232045/5 | Magyar Állam |
+| 15. | 232045/6 | Magyar Állam |
+| 16. | 14387/1 | I. kerületi Önkormányzat |
+| 17. | 6229/1 | I. kerületi Önkormányzat |
+| 18. | 14617/16 | II. kerületi Önkormányzat |
+| 19. | 14617/9 | II. kerületi Önkormányzat |
+| 20. | 63623 | III. kerületi Önkormányzat |
+| 21. | 23790/9 | III. kerületi Önkormányzat |
+| 22. | 63576 | III. kerületi Önkormányzat |
+| 23. | 60004 | III. kerületi Önkormányzat |
+| 24. | 23035/4 | III. kerületi Önkormányzat |
+| 25. | 23738/6 | III. kerületi Önkormányzat |
+| 26. | 23789 | III. kerületi Önkormányzat |
+| 27. | 19337/1 | III. kerületi Önkormányzat |
+| 28. | 19330 | III. kerületi Önkormányzat |
+| 29. | 19309/2 | III. kerületi Önkormányzat |
+| 30. | 19307/2 | III. kerületi Önkormányzat |
+| 31. | 19296/2 | III. kerületi Önkormányzat |
+| 32. | 19295/2 | III. kerületi Önkormányzat |
+| 33. | 19288/2 | III. kerületi Önkormányzat |
+| 34. | 19287/2 | III. kerületi Önkormányzat |
+| 35. | 17977/2 | III. kerületi Önkormányzat |
+| 36. | 14621 (363/619 tulajdoni hányad) | III. kerületi Önkormányzat |
+| 37. | 14617/13 | III. kerületi Önkormányzat |
+| 38. | 14617/17 | III. kerületi Önkormányzat |
+| 39. | 76501 | IV. kerületi Önkormányzat |
+| 40. | 76498 | IV. kerületi Önkormányzat |
+| 41. | 75844 | IV. kerületi Önkormányzat |
+| 42. | 70406 | IV. kerületi Önkormányzat |
+| 43. | 70410 | IV. kerületi Önkormányzat |
+| 44. | 70411 | IV. kerületi Önkormányzat |
+| 45. | 70412 | IV. kerületi Önkormányzat |
+| 46. | 76505 | IV. kerületi Önkormányzat |
+| 47. | 23817/2 | V. kerületi Önkormányzat |
+| 48. | 23817/3 | V. kerületi Önkormányzat |
+| 49. | 37060 | IX. kerületi Önkormányzat |
+| 50. | 38017/7 | IX. kerületi Önkormányzat |
+| 51. | 4107/53 | XI. kerületi Önkormányzat |
+| 52. | 4082/2 (13402/70554 tulajdoni hányad) | XI. kerületi Önkormányzat |
+| 53. | 4004/2 | XI. kerületi Önkormányzat |
+| 54. | 43621 | XI. kerületi Önkormányzat |
+| 55. | 43620 | XI. kerületi Önkormányzat |
+| 56. | 43618 | XI. kerületi Önkormányzat |
+| 57. | 43586 | XI. kerületi Önkormányzat |
+| 58. | 43580 | XI. kerületi Önkormányzat |
+| 59. | 43584/2 | XI. kerületi Önkormányzat |
+| 60. | 43577 | XI. kerületi Önkormányzat |
+| 61. | 25911/1 | XIII. kerületi Önkormányzat |
+| 62. | 25915 (899/2529 tulajdoni hányad) | XIII. kerületi Önkormányzat |
+| 63. | 25900/4 | XIII. kerületi Önkormányzat |
+| 64. | 25666/2 | XIII. kerületi Önkormányzat |
+| 65. | 25723/2 | XIII. kerületi Önkormányzat |
+| 66. | 25666/4 | XIII. kerületi Önkormányzat |
+| 67. | 224983 | XXII. kerületi Önkormányzat |
+| 68. | 224967/1 | XXII. kerületi Önkormányzat |
+| 69. | 224967/3 | XXII. kerületi Önkormányzat |
+| 70. | 232041 | XXII. kerületi Önkormányzat |
+| 71. | 232035/1 | XXII. kerületi Önkormányzat |
+| 72. | 232035/25 | XXII. kerületi Önkormányzat |
+| 73. | 232035/24 | XXII. kerületi Önkormányzat |
+| 74. | 232035/23 | XXII. kerületi Önkormányzat |
+| 75. | 232038/21 | XXII. kerületi Önkormányzat |
+| 76. | 232048/1 | XXII. kerületi Önkormányzat |
+| 77. | 232185 | XXII. kerületi Önkormányzat |
+| 78. | 232318 | XXII. kerületi Önkormányzat |
+| 79. | 232319/2 | XXII. kerületi Önkormányzat |
+| 80. | 232320 | XXII. kerületi Önkormányzat |
+| 81. | 224961 | XXII. kerületi Önkormányzat |
+| 82. | 224969 | XXII. kerületi Önkormányzat |
+| 83. | 232322 | XXII. kerületi Önkormányzat |
+| 84. | 232045/3 | XXII. kerületi Önkormányzat |
+| 85. | 232324 | XXII. kerületi Önkormányzat |
+| 86. | 232327 | XXII. kerületi Önkormányzat |
