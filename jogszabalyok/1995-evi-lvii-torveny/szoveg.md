@@ -255,9 +255,9 @@ kell törekedni.
 
 (2) A vízigények a felhasználható vízkészlet mennyiségi és minőségi védelmére is tekintettel elsősorban a vízhasználat céljára még le nem kötött vízkészletből elégíthetők ki.
 
-(3) Az ásvány-, gyógy- és termálvizek felhasználásánál előnyben kell részesíteni a gyógyászati, illetve a gyógyüdülési használatot. A kizárólag energiahasznosítás céljából kitermelt termálvizet, a (3a) bekezdésben foglalt kivétellel – a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló rendeletben megfogalmazottak szerint – vissza kell táplálni. A vízügyi hatósági feladatokat ellátó szerv – a 2009. szeptember 30-án jogerős vízjogi üzemeltetési engedéllyel rendelkező, energiahasznosítási célú termálvíztermelés esetében – kérelemre engedélyezi a visszatáplálás mellőzését, ha a kérelemmel érintett kitermelés megfelel az (1) bekezdésben meghatározott szempontok érvényesülését szolgáló, a Kormány által rendeletben meghatározott feltételeknek.
+(3) Az ásvány-, gyógy- és termálvizek felhasználásánál előnyben kell részesíteni a gyógyászati, illetve a gyógyüdülési használatot.
 
-(3a) A mezőgazdasági termelés területén, kizárólag energiahasznosítás céljából a termálvíz, a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló rendeletben meghatározott feltételekkel visszatáplálási kötelezettség nélkül kitermelhető. A visszatáplálási kötelezettség mellőzésével történő kitermelést a vízügyi hatósági feladatokat ellátó szerv kérelemre engedélyezi.
+(3a)
 
 (4) A vízigények kielégítésének sorrendje az (1)—(3) bekezdésekben foglaltakra is figyelemmel:
 
@@ -542,11 +542,15 @@ alapján kell kiszámítania.
 
 (2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
 
+(5) A szénhidrogén kitermelési céllal mélyített, de arra alkalmatlan kutak termálvíz kitermelési célú hasznosítására a vízügyi hatóság ad engedélyt.
+
 29. § (1) Vízjogi engedélyt a hatóság az előírt feltételek megléte esetén csak abban az esetben adhat ki, ha a vízilétesítmény, a vízimunka, illetve a vízhasználat:
 
 - a) nem veszélyezteti a vízkészlet védelméhez fűződő érdekeket;
 - b) megfelel a vízimunkára, a vízilétesítmények, víziközművek megvalósítására, átépítésére és megszüntetésére, valamint üzemeltetésére és a vízhasználatok gyakorlására kiadott vízgazdálkodási, műszaki és biztonsági szabályoknak, a vízháztartás, vízminőség, felszín alatti és felszíni vizek védelmével összefüggő egyéb szabályozásnak;
 - c) megfelel a külön jogszabályban foglalt előírásoknak.
+
+(1a) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
 
 (2) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
@@ -941,8 +945,8 @@ E törvény alkalmazásában
 - 34. vízkárelhárítási célú tározó:
   - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
   - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
-- 35. mezőgazdasági termelés: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. január 19-i 73/2009/EK tanácsi rendelet 2. cikke szerinti mezőgazdasági termelő által folytatott mezőgazdasági tevékenység;
-- 36. kizárólag energiahasznosítási célú termálvíz hasznosítás a mezőgazdasági termelés területén: olyan termálvíz hasznosítás, ahol a hasznosított geotermikus energia több mint 50%-a a mezőgazdasági termelést szolgálja.
+- 35.
+- 36.
 - 37. nem közművel összegyűjtött háztartási szennyvíz: olyan háztartási szennyvíz, amelyet a keletkezés helyéről vagy átmeneti tárolóból – közcsatornára való bekötés vagy a helyben történő tisztítás és befogadóba vezetés lehetőségének hiányában – gépjárművel szállítanak el ártalmatlanítás céljából;
 - 38. begyűjtés: a nem közművel összegyűjtött háztartási szennyvíznek az ingatlan tulajdonosától, vagyonkezelőjétől, birtokosától vagy használójától történő átvétele, elszállítása és ártalmatlanítás céljából történő átadása.
 - 39. mederhasználati jog: a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetőjét a vízilétesítmény által igénybe vett terület mértékéig megillető használati jog;
