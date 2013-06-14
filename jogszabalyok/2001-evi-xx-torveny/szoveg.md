@@ -246,11 +246,11 @@ szerezhet.
 
 (3) Az igazgatóság tagja és az igazgatóság tagjának közeli hozzátartozója [Ptk. 685. § b) pont] nem lehet európai parlamenti, országgyűlési, illetőleg önkormányzati képviselő.
 
-(4) Az igazgatóság 5–7 tagból áll. Az igazgatóság tagjait a tulajdonosi jogok gyakorlója – öt éves időtartamra – választja meg és hívja vissza.
+(4) Az igazgatóság 5–9 tagból áll. Az igazgatóság tagjait a tulajdonosi jogok gyakorlója – öt éves időtartamra – nevezi ki és hívja vissza. Az igazgatóság élén az elnök áll. Az igazgatóság elnökét maga választja tagjai közül.
 
 15. § (1) Az MFB Zrt. munkaszervezetének élén a szakosított hitelintézettel munkaviszonyban álló vezérigazgató áll.
 
-(2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató az igazgatóság tagja és elnöke, aki jogosult az elnök-vezérigazgató cím használatára.
+(2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató megbízatásának időtartama alatt – a tulajdonosi jogok gyakorlójának erre vonatkozó külön döntése nélkül – az igazgatóság tagja. A vezérigazgatóra a 14. § (4) bekezdésében meghatározott, az igazgatóság tagjai megbízatásának időtartamára vonatkozó rendelkezést nem kell alkalmazni. Amennyiben az igazgatóság elnöke, valamint a vezérigazgató személye azonos, a vezérigazgató jogosult az elnök–vezérigazgató cím használatára.
 
 (3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.
 
@@ -272,7 +272,7 @@ szerezhet.
 
 (2) Az MFB Zrt. alkalmazottai kötelesek a feladatuk ellátása során tudomásukra jutott üzleti titkot, banktitkot és értékpapír-titkot megőrizni.
 
-(3) Az MFB Zrt. feladatkörét érintő ügyben az üzleti titok megtartásának kötelezettsége alól az MFB Zrt. alkalmazottai részére a felmentést az MFB Zrt. elnök-vezérigazgatója adhatja meg.
+(3) Az MFB Zrt. feladatkörét érintő ügyben az üzleti titok megtartásának kötelezettsége alól az MFB Zrt. alkalmazottai részére a felmentést az MFB Zrt. vezérigazgatója adhatja meg.
 
 ### Az összeférhetetlenség
 
@@ -390,9 +390,9 @@ Vértesi Erdészeti és Faipari Zrt.
 
 Zalaerdő Erdészeti Zrt.
 
-HM Budapesti Erdőgazdasági Zrt.
+Budapesti Erdőgazdaság Zrt.
 
-HM Kaszó Erdőgazdasági Zrt.
+Kaszó Erdőgazdaság Zrt.
 
 HM VERGA Erdőgazdasági Zrt.
 
