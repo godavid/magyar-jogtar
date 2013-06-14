@@ -84,11 +84,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
-(3) A 2. mellékletben felsorolt állami tulajdonban álló nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő gazdasági társasági részesedések felett a tulajdonosi jogok gyakorlására kizárólag
-
-- a) törvényben kijelölt miniszter,
-- b) központi költségvetési szerv, vagy
-- c) az állam 100%-os tulajdonában álló gazdálkodó szervezet jogosult.
+(3)
 
 (4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló 2011. évi CVIII. törvény XIV. fejezetében meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
 
@@ -157,6 +153,25 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 7. § (1) A nemzeti vagyon alapvető rendeltetése a közfeladat ellátásának biztosítása. A nemzeti vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
 (2) A nemzeti vagyongazdálkodás feladata a nemzeti vagyon rendeltetésének megfelelő, az állam, az önkormányzat mindenkori teherbíró képességéhez igazodó, elsődlegesen a közfeladatok ellátásához és a mindenkori társadalmi szükségletek kielégítéséhez szükséges, egységes elveken alapuló, átlátható, hatékony és költségtakarékos működtetése, értékének megőrzése, állagának védelme, értéknövelő használata, hasznosítása, gyarapítása, továbbá az állam vagy a helyi önkormányzat feladatának ellátása szempontjából feleslegessé váló vagyontárgyak elidegenítése.
+
+7/A. § (1) Az állam tulajdonában álló nemzeti vagyon tekintetében tulajdonosi joggyakorló kizárólag
+
+- a) miniszter,
+- b) központi költségvetési szerv,
+- c) az állam 100%-os tulajdonában álló gazdálkodó szervezet vagy
+- d) az állam és a c) pontban meghatározott szervezet együttesen 100%-os tulajdonában álló gazdasági társaság
+
+lehet.
+
+(2) Amennyiben az (1) bekezdés c)–d) pontjában meghatározott tulajdonosi szerkezet megváltozik, e törvény erejénél fogva megszűnik a tulajdonosi joggyakorló jogosultsága. A tulajdonosi joggyakorlás megszűnésének időpontja az a nap, amelyen az (1) bekezdés c)–d) pontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik. E naptól kezdődően a tulajdonosi jogokat az állami vagyonról szóló törvényben meghatározott tulajdonosi joggyakorló gyakorolja.
+
+(3) A 2. mellékletben felsorolt állami tulajdonban álló nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő gazdasági társasági részesedések felett a tulajdonosi jogok gyakorlására kizárólag
+
+- a) törvényben kijelölt miniszter,
+- b) központi költségvetési szerv vagy
+- c) az állam 100%-os tulajdonában álló gazdálkodó szervezet
+
+jogosult.
 
 8. § (1) Az állam és a helyi önkormányzat nem alapíthat olyan gazdasági társaságot, és öröklés vagy törvény rendelkezése alapján, valamint a követelés fejében szerzett részesedés kivételével nem szerezhet részesedést olyan gazdasági társaságban amely, vagy amelynek valamely – nem természetes személy – tagja nem átlátható. Nem átlátható szervezetben öröklés címén, törvényi rendelkezés alapján vagy követelés fejében szerzett részesedés esetén az állam vagy a helyi önkormányzat köteles haladéktalanul intézkedni részesedése megszüntetése érdekében.
 
@@ -1998,6 +2013,8 @@ Budapesti körvasút vonalai közül:
 
 5 Székesfehérvár - Komárom (Rendező)
 
+11 Győr – Veszprém
+
 12 (2) Tatabánya - Oroszlány
 
 16 Hegyeshalom - Porpác
@@ -2032,7 +2049,7 @@ Budapesti körvasút vonalai közül:
 
 86 Vámosgyörk - Újszász
 
-87 (1) Füzesabony - Eger
+87 Füzesabony - Putnok
 
 89 Nyékládháza - Tiszapalkonya-Erőmű
 
@@ -2060,13 +2077,11 @@ Budapesti körvasút vonalai közül:
 
 155 Kiskunhalas - Kiskunfélegyháza
 
+318 Nagyirtás – Nagybörzsöny
+
 Budapesti körvasút vonalai közül:
 
 201 Budapest-Angyalföldi elágazás - Budapest-Angyalföld
-
-207 Budapest-Józsefváros - Budapest-Ferencváros
-
-208 Budapest-Józsefváros - Kőbánya felső
 
 210 Rákosrendező - Vasúttörténeti park
 
@@ -2106,9 +2121,9 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% |
 | Vértesi Erdészeti és Faipari Zrt. | 100% |
 | Zalaerdő Erdészeti Zrt. | 100% |
-| HM Budapesti Erdőgazdaság Zrt. | 100% |
-| HM Kaszó Erdőgazdaság Zrt. | 100% |
-| HM VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
+| Budapesti Erdőgazdaság Zrt. | 100% |
+| Kaszó Erdőgazdaság Zrt. | 100% |
+| VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
 | HM Armcom Zrt. | 100% |
 | HM Currus Zrt. | 100% |
 | HM Arzenál Zrt. | 100% |
@@ -2123,7 +2138,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% |
 | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
 | Államadósság Kezelő Központ Zrt. | 100% |
-| Garantiqa Hitelgarancia Zrt. | 50%+1 szavazat |
+| Garantiqa Hitelgarancia Zrt. | 25%+1 szavazat |
 | Kisvállalkozás-fejlesztő Pénzügyi Zrt. | 50%+1 szavazat |
 | Regionális Fejlesztési Holding Zrt. | 100% |
 | Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
@@ -2151,6 +2166,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Vasúti Pályakapacitás-elosztó Kft. | 100% |
 | TIG Tartalékgazdálkodási Nonprofit Kft. | 100% |
 | Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat |
+| RÁBA Járműipari Holding Nyrt. | 50% + 1 szavazat |
 
 II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
 
@@ -2195,7 +2211,7 @@ I. kerület
 | 6. | Kapisztrán tér 2., 3., 4. | Nándor laktanya |
 | 7. | Kapisztrán tér 6. | a Mária-Magdolna templom tornyának és falainak maradványai |
 | 8. | Táncsics Mihály u. 1. | lakóház |
-| 9. | Táncsics Mihály u. 7. | Erdődy-palota |
+| 9. |  |  |
 | 10. | Táncsics Mihály u. 9. | József-kaszárnya, az Erdélyi-bástya és Kammerhof |
 
 II. kerület
@@ -2390,7 +2406,7 @@ XXII. kerület
 | 107. | FÜLE Széchenyi u. 107. | tájház |
 | 108. | ISZKASZENTGYÖRGY, Kossuth tér 1. | Amadé-Bajzáth-Pappenheim-kastélyegyüttes és parkja |
 | 109. | LOVASBERÉNY Fehérvári u. | Cziráky-kastélyegyüttes, kápolna és kastélypark |
-| 110. | MARTONVÁSÁR, Emlékezés tere | Brunszvik-kastélyegyüttes és parkja |
+| 110. |  |  |
 | 111. | NÁDASDLADÁNY, Április 4. u. | Nádasdy-kastély és parkja |
 | 112. | SOPONYA Nagyláng Dózsa Gy. u. | Zichy-kastélyegyüttes és parkja |
 | 113. | SZÉKESFEHÉRVÁR, Koronázó tér | romkert, koronázó templom romjai |
