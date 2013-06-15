@@ -1627,7 +1627,7 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 (4) Ha a védelembe vétel során a családi pótlék természetbeni formában történő nyújtása válik szükségessé, a gyámhatóság – a gyermeket gondozó szülő, illetve a korlátozottan cselekvőképes gyermek meghallgatását követően, véleményük figyelembevételével, továbbá a gyermekjóléti szolgálat és szükség szerint a 17. § (1) bekezdése szerinti jelzőrendszer tagjai javaslatának figyelembevételével – gondoskodik a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási terv elkészítéséről.
 
-(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről, és ezzel egyidejűleg a természetben nyújtott családi pótlék települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára történő utalásáról.
+(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről, és ezzel egyidejűleg a természetben nyújtott családi pótlék fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára történő utalásáról.
 
 68/C. § (1) A települési önkormányzat jegyzője a családi pótlék természetbeni formában történő biztosítása céljából a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
 
