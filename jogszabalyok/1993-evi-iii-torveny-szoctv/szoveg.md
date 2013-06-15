@@ -2924,7 +2924,8 @@ kaphatnak.
 - c) a rendszeres szociális segélyben részesülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit
 - d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
 - e) a normatív lakásfenntartási támogatásra jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
-- f) a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában történő nyújtásának eljárási szabályait és a természetbeni juttatás formáit.
+- f) a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában történő nyújtásának eljárási szabályait és a természetbeni juttatás formáit,
+- g) az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.
 
 133. § (1) E törvény — a 24. § (2) bekezdése, a 33—37. §-a, a 127. §-a, a 129—130. §-a, valamint a 135. §-a kivételével — a kihirdetést követő 30. napon lép hatályba.
 
@@ -3025,6 +3026,8 @@ formájában lehet létrehozni.
 (2) Bentlakásos intézményi ellátás 2014. december 31-éig működtethető lakóotthoni formában.
 
 140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
+
+140/R. § A települési önkormányzatnak legkésőbb 2013. december 31-éig kell megalkotnia az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét.
 
 ### Az Európai Unió jogának való megfelelés
 

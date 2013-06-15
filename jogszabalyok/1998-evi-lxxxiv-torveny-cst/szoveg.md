@@ -348,7 +348,7 @@ gyermek mulasztott.
 
 (4) Az anyasági támogatás iránti kérelmet az igényelbíráló szerv a kérelem megérkezését követő naptól számított nyolc napon belül elbírálja, a jogosultság megállapítása esetén a támogatást fizetési számlára vagy kifizetési utalványon kiutalja.
 
-(5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a kincstár a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak a természetbeni nyújtást elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára utalásáról.
+(5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a kincstár a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak az illetékes fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára utalásáról.
 
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
