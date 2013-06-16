@@ -6,15 +6,7 @@ az önkormányzati segély kialakításával összefüggő törvénymódosítás
 
 1–4. §
 
-5. § Az Szt. 132. § (4) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza)
-
-„g) az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.”
-
-6. § Az Szt. a következő 140/R. §-sal egészül ki:
-
-„140/R. § A települési önkormányzatnak legkésőbb 2013. december 31-éig kell megalkotnia az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét.”
+5–6. §
 
 7–9. §
 
@@ -22,7 +14,7 @@ az önkormányzati segély kialakításával összefüggő törvénymódosítás
 
 10–12. §
 
-13. § A Gyvt. 68/B. § (5) bekezdésében a „települési önkormányzat részére” szövegrész helyébe a „fővárosi és megyei kormányhivatal részére” szöveg lép.
+13. §
 
 14. §
 
@@ -40,9 +32,7 @@ az önkormányzati segély kialakításával összefüggő törvénymódosítás
 
 #### 6. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-18. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 37. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a gyámhatóság a családi pótlék természetbeni nyújtását rendeli el, a kincstár a gyámhatóság határozatában foglaltak szerint intézkedik az ellátásnak az illetékes fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára utalásáról.”
+18. §
 
 #### 7. Záró rendelkezések
 
