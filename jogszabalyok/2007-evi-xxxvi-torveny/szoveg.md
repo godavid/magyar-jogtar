@@ -242,6 +242,8 @@ a szabálysértési jogsegélyről
 
 (3) Az Európai Unió tagállamaitól érkező külföldi határozat végrehajtásra akkor vehető át, ha a megkeresést a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott formanyomtatvány tanúsítvánnyal együtt küldik meg.
 
+(4) Nemzetközi szerződés alapján a külföldi határozat végrehajtása átvehető, ha a megkeresés a határozat lényegi elemeit tartalmazó, külön jogszabályban meghatározott formanyomtatvány tanúsítvány alkalmazásával történt. A 29. § (1) bekezdés d) pontja ebben az esetben nem alkalmazható.
+
 28. § (1) A központi hatóság a külföldi határozat végrehajtása átvételének feltételeit hivatalból vizsgálja.
 
 (2) A külföldi ítélet vagy határozat végrehajtását haladéktalanul fel kell függeszteni, illetve a végrehajtási eljárást meg kell szüntetni, ha a megkereső külföldi hatóság a végrehajtás akadályát képező döntésről, intézkedésről vagy egyéb körülményről tájékoztatja a központi hatóságot. A központi hatóság erről értesíti a 30. § (1) bekezdése szerint illetékes általános szabálysértési hatóságot.
@@ -252,7 +254,9 @@ a szabálysértési jogsegélyről
 - b) a külföldi határozat alapjául szolgáló cselekményt a magyar szabálysértési hatóság vagy a bíróság már jogerősen elbírálta,
 - c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását Magyarország már átvette,
 - d) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem az ahhoz mellékelt határozatra vonatkozik,
-- e) a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
+- e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
+
+(1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
 
 (2) Nincs helye a külföldi határozat végrehajtásának, ha annak jogerőre emelkedése óta egy év eltelt.
 
@@ -262,9 +266,9 @@ a szabálysértési jogsegélyről
 
 (2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes általános szabálysértési hatóság nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését az az általános szabálysértési hatóság hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
 
-(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja.
+(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.
 
-31. § (1) Ha az azonos típusú közúti közlekedési szabályok megsértése esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
+31. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában az azonos típusú közúti közlekedési szabályok megsértése esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
 
 (2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 
@@ -281,11 +285,13 @@ a szabálysértési jogsegélyről
 (3) A határozat végrehajtása átadásának további feltétele, hogy
 
 - a) az elkövető a pénzbírságot nem fizette meg,
-- b) a pénzbírság összege a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
+- b) nemzetközi szerződés eltérő rendelkezésének hiányában a pénzbírság összege a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett napi hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
 
 35. § (1) A végrehajtás átadására irányuló megkereséseket a szabálysértési hatóság, illetve a bíróság a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott formanyomtatvány tanúsítvánnyal együtt megküldi a központi hatóságnak.
 
 (2) A megkereséshez egyéb – személyes adatot nem tartalmazó – tájékoztatás is csatolható az átadásra kerülő határozattal kapcsolatban, különösen a határozat indokaira vonatkozóan. Az alkalmazott magyar jogszabályi rendelkezések szövegét a megkereséshez csatolni kell.
+
+(3) Nemzetközi szerződés alapján a végrehajtás átadására irányuló megkeresés a határozat lényegi elemeit tartalmazó, külön jogszabályban meghatározott formanyomtatvány tanúsítvány a központi hatóságnak való megküldésével valósul meg. Ebben az esetben a határozatot csak akkor kell megküldeni, ha azt a végrehajtást átvevő külföldi hatóság kéri.
 
 36. § Ha a végrehajtást a külföldi hatóság átvette, az elkövetővel szemben Magyarországon további végrehajtási cselekményt csak akkor lehet foganatosítani, ha a végrehajtást átvevő államban az elkövető kivonta magát a végrehajtás alól, vagy a határozat egyéb okból nem volt végrehajtható, s erről a végrehajtást átvevő külföldi hatóság értesítette a központi hatóságot.
 
@@ -322,6 +328,8 @@ a szabálysértési jogsegélyről
 40. § (1) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy rendeletben meghatározza a pénzbírságot kiszabó jogerős szabálysértési határozatok végrehajtásának átadására, illetve átvételére jogosult központi hatóságot.
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy rendeletben határozza meg az Európai Unió tanácsának a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB kerethatározatának melléklete szerinti formanyomtatvány tanúsítványt és annak kitöltési szabályait.
+
+(3) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy rendeletben határozza meg a 27. § (4) bekezdése szerinti nemzetközi szerződés alapján használandó formanyomtatvány tanúsítványt és annak kitöltési szabályait.
 
 ### Módosuló rendelkezések
 
