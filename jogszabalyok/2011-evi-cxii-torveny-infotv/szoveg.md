@@ -344,7 +344,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 26. § (1) Az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szervnek vagy személynek (a továbbiakban együtt: közfeladatot ellátó szerv) lehetővé kell tennie, hogy a kezelésében lévő közérdekű adatot és közérdekből nyilvános adatot – az e törvényben meghatározott kivételekkel – erre irányuló igény alapján bárki megismerhesse.
 
-(2) Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja.
+(2) Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. A közérdekből nyilvános személyes adatok a célhoz kötött adatkezelés elvének tiszteletben tartásával terjeszthetőek. A közérdekből nyilvános személyes adatok honlapon történő közzétételére az 1. melléklet és a közfeladatot ellátó személy jogállására vonatkozó külön törvény rendelkezései irányadóak.
 
 (3) Ha törvény másként nem rendelkezik, közérdekből nyilvános adat a jogszabály vagy állami, illetőleg helyi önkormányzati szervvel kötött szerződés alapján kötelezően igénybe veendő vagy más módon ki nem elégíthető szolgáltatást nyújtó szervek vagy személyek kezelésében lévő, e tevékenységükre vonatkozó, személyes adatnak nem minősülő adat.
 
@@ -402,6 +402,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 (5) Ha a közérdekű adat megismerése iránti igény teljesítésének megtagadása tekintetében törvény az adatkezelő mérlegelését teszi lehetővé, a megtagadás alapját szűken kell értelmezni, és a közérdekű adat megismerésére irányuló igény teljesítése kizárólag abban az esetben tagadható meg, ha a megtagadás alapjául szolgáló közérdek nagyobb súlyú a közérdekű adat megismerésére irányuló igény teljesítéséhez fűződő közérdeknél.
 
 (6) A közfeladatot ellátó szervnek a közérdekű adatok megismerésére irányuló igények teljesítésének rendjét rögzítő szabályzatot kell készítenie.
+
+(7) A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Ha erre való hivatkozással az adatigénylés elutasításra kerül, az adatigénylő az 52. § alapján a Hatóságnál bejelentéssel vizsgálatot kezdeményezhet.
 
 31. § (1) Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint – ha a költségtérítést nem fizette meg – a másolat készítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat.
 
@@ -928,6 +930,8 @@ dönt.
 (2) Az 1–37. §, a 38. § (1)–(3) bekezdése, a 38. § (4) bekezdés a)–f) pontja, a 38. § (5) bekezdése, a 39. §, a 41–68. §, a 70–72. §, a 75–77. § és a 79–88. §, valamint az 1. melléklet 2012. január 1-jén lép hatályba.
 
 (3) A 38. § (4) bekezdés g) és h) pontja, valamint a 69. § 2013. január 1-jén lép hatályba.
+
+73/A. § E törvénynek az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2013. évi XCI. törvénnyel megállapított 26. § (2) bekezdését és 30. § (7) bekezdését az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2013. évi XCI. törvény hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell.
 
 74. § A Hatóság első elnökére a miniszterelnök 2011. november 15-éig tesz javaslatot a köztársasági elnöknek. A Hatóság első elnökét a köztársasági elnök 2012. január 1-jei hatállyal nevezi ki.
 

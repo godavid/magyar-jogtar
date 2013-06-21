@@ -992,7 +992,7 @@ A HELYI ÖNKORMÁNYZATOK TÖRVÉNYESSÉGI FELÜGYELETE
 
 E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat polgármesterét. A polgármester jogosult a képviselő-testület feloszlatással kapcsolatos álláspontját az Országgyűlés döntésének meghozatala előtt ismertetni.
 
-(3) Ha az Országgyűlés a képviselő-testületet feloszlatja, az új képviselő-testület megválasztására vonatkozó időközi választást a feloszlatás Országgyűlés által meghatározott időpontjától számított három hónapon belüli időpontra kell kitűzni.
+(3)
 
 (4) Az Országgyűlés dönt az állam területi tagozódásáról, továbbá – az érintett önkormányzatok véleményének kikérése után – a megyék összevonásáról, szétválasztásáról, határainak megváltoztatásáról, elnevezéséről és székhelyéről, valamint a fővárosi kerületek kialakításáról.
 
