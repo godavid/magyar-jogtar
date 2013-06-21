@@ -393,7 +393,7 @@ használhatja fel.
 
 (4) Az alapszabály az alelnököket felhatalmazhatja az agrárkamara általános vagy meghatározott ügyekben történő képviseletére.
 
-(5) Az elnök és az alelnökök feladatukat csak személyesen láthatják el, feladatuk elvégzése során a törvényeknek, valamint az agrárkamara alapszabályának és más önkormányzati szabályzatának alávetve az agrárkamara érdekében járnak el. Az elnök és az alelnökök alkalmazásával összefüggésben a jogviszony létesítése és megszüntetése tekintetében az országos küldöttgyűlés, egyebekben az elnökség határoz.
+(5) Az agrárkamara elnöke és alelnöke a feladatait csak személyesen láthatja el, kivéve, ha az elnök vagy az alelnök egyben az agrárkamara megyei (fővárosi) szervének elnöke vagy alelnöke is; ebben az esetben a helyettesítésük rendjéről mind az agrárkamara, mind agrárkamara megyei (fővárosi) szervének szervezeti és működési szabályzatában rendelkezni kell. Az elnök és az alelnökök a feladatuk elvégzése során a törvényeknek, valamint az agrárkamara alapszabályának és más önkormányzati szabályzatának alávetve az agrárkamara érdekében járnak el. Az elnök és az alelnökök alkalmazásával összefüggésben a jogviszony létesítése és megszüntetése tekintetében az országos küldöttgyűlés, egyebekben az elnökség határoz.
 
 ### Az ellenőrző bizottság
 
@@ -459,7 +459,7 @@ használhatja fel.
 
 (4) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében, amennyiben az kétséges, a politikai párt nyilatkozata az irányadó.
 
-(5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet elnöke, alelnöke vagy főigazgatója.
+(5) A tisztségviselő azonos agrárkamarai szervezeten belül egyidejűleg egy agrárkamarai tisztséget tölthet be és egy szavazati jog illeti meg. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet főigazgatója.
 
 (6) Az elnökségnek, az etikai és a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 

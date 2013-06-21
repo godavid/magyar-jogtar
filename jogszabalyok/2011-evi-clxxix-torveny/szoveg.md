@@ -170,7 +170,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 (4) A nemzetiségi anyanyelvű és anyanyelvi közneveléshez az anyanyelvű pedagógusok képzésének, továbbképzésének biztosítása állami feladat. E feladat keretében az állam támogatja a nemzetiségek anya-, illetve nyelvországából érkező oktatók magyarországi vendégtanári alkalmazását is.
 
-24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát. Az intézmény fenntartói jogának átadása nem járhat intézmény-átszervezéssel.
+24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát.
 
 (2) Az országos nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatási miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
@@ -348,11 +348,13 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 szerepelhet a nemzetiségi névjegyzékben.
 
-54. § A választáson a nemzetiségi névjegyzékbe vett választópolgár választható, ha a helyi önkormányzati képviselők és polgármesterek választásán választható, továbbá nyilatkozatot tesz arról, hogy
+54. § A választáson a nemzetiségi névjegyzékbe vett választópolgár választható, ha
 
-- a) a nemzetiség képviseletét vállalja,
-- b) a választást megelőző tíz évben általános vagy időközi nemzetiségi önkormányzati választás során nem volt más nemzetiség önkormányzatának jelöltje, és
-- c) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+- a) a helyi önkormányzati képviselők és polgármesterek választásán választható,
+- b) a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje, továbbá
+- c) nyilatkozatot tesz arról, hogy
+  - ca) a nemzetiség képviseletét vállalja,
+  - cb) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
 
 ### A választókerületek
 
@@ -934,7 +936,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - b) véleményt nyilvánít a nemzetiségek védelmével kapcsolatos két- és többoldalú nemzetközi megállapodások hazai végrehajtásáról és kezdeményezi az abban foglaltak érvényesítéséhez szükséges intézkedések megtételét,
 - c) a képviselt nemzetiségek csoportjait érintő kérdésekben közigazgatási szervektől tájékoztatást kérhet, részükre javaslatot tehet, a hatáskörükbe tartozó ügyekben intézkedést kezdeményezhet,
 - d) egyetértési jogot gyakorol – az adott nemzetiséget közvetlenül érintő kérdésekben – a fejlesztési tervekkel kapcsolatban,
-- e) közreműködik a nemzetiségi önkormányzati képviselők választásával kapcsolatos tájékoztatónak a helyi választási bizottság és a nemzetiségpolitikáért felelős állami szerv által történő összeállításában.
+- e)
 
 (2) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a köznevelési törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók oktatási önigazgatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges. Az e tárgyban alkotott jogszabály soron kívüli felülvizsgálata érdekében a nemzetiségi jogok sérelmére hivatkozással az országos nemzetiségi önkormányzat közvetlenül bírósághoz fordulhat.
 
@@ -1016,9 +1018,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív állami hozzájárulás tekintetében a humán szolgáltatást ellátó egyházi intézményekkel azonos elbírálás alá esnek.
 
-128. § (1) A 126. § (2) bekezdés a) pontja szerinti feladatfinanszírozási rendszer célja, hogy a nemzetiségi önkormányzatok rendelkezésére álljon az általuk ellátott kötelező nemzetiségi közfeladatok ellátása működési kiadásainak fedezete.
+128. § (1) A 126. § (2) bekezdés a) pontja szerinti feladatfinanszírozási rendszer célja, hogy a nemzetiségi önkormányzatok rendelkezésére álljon az általuk ellátott kötelező nemzetiségi közfeladatok ellátása kiadásainak fedezete.
 
-(2) A feladatfinanszírozási rendszerben a központi költségvetés feladatalapú támogatást nyújt, amelynek következő évre történő meghatározásához a nemzetiségi önkormányzat törvényben meghatározott módon és határidőig adatot szolgáltat. Az adatszolgáltatást az államháztartásért felelős miniszter és a nemzetiségpolitikáért felelős miniszter – ágazati miniszterek javaslata alapján – kiadott útmutatójának megfelelően kell elkészíteni.
+(2) A feladatfinanszírozási rendszer keretében a központi költségvetésből nyújtott működési költségvetési és feladatalapú költségvetési támogatást a nemzetiségi önkormányzat kizárólag nemzetiségi közfeladatai ellátására használhatja fel.
 
 (3) A feladatfinanszírozás részletes szabályait a Kormány rendeletében állapítja meg.
 
@@ -1231,7 +1233,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (7) A 133. § szerinti rendelkezések 2012. évben azzal az eltéréssel alkalmazandóak, hogy a központi költségvetésről szóló törvény Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezetéből a helyi nemzetiségi önkormányzatot megillető támogatást a 2011. december 30-án hatályos szabályok szerint kell folyósítani. A helyi önkormányzat a költségvetési támogatás helyi nemzetiségi önkormányzatot megillető, a nettósítás során csökkentett összegét a fizetési számláján történő jóváírástól számított öt munkanapon belül továbbutalja a helyi nemzetiségi önkormányzat fizetési számlájára.
 
-160. § (1) Az állam a magyarországi nemzetiségek anyanyelvét közösség-összetartó tényezőként ismeri el. Az állam tekintet nélkül arra, hogy a nevelési, oktatási intézménynek ki a fenntartója, támogatja a nemzetiségek által használt nyelv alkalmazását a nemzetiségi nevelésben, oktatásban.
+160. § (1)
 
 (2)–(3)
 

@@ -184,6 +184,8 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 
 10/H. § (1) Az Országgyűlés volt elnöke, ha e tisztségét legalább két évig betöltötte és megbízatása az Országgyűlés megbízatásának megszűnése miatt szűnt meg, további hat hónapon – lemondása esetén három hónapon – keresztül a havi tiszteletdíjának megfelelő összegű juttatásra jogosult, amely nem önálló tevékenységből származó jövedelemnek minősül.
 
+(1a) Az Országgyűlés volt elnöke nem jogosult az (1) bekezdés szerinti ellátásra, ha megbízatása az Országgyűlés megbízatásának megszűnése miatt szűnt meg és az új Országgyűlés elnökévé megválasztják.
+
 (2) Ha az Országgyűlés elnökének megbízatása az (1) bekezdésben meghatározott okokból két évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, az (1) bekezdésben megjelölt juttatás felére jogosult.
 
 10/I. § (1) Az Országgyűlés volt elnökét – a megbízatása megszűnését követően annyi ideig, ameddig e tisztségét betöltötte – személyes gépkocsihasználat illeti meg, amelyhez személygépkocsit és gépjárművezetőt a rendőrség biztosít.
@@ -202,4 +204,6 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 
 13. § E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit az Országgyűlésnek a Módtv2. hatálybalépésekor hivatalban lévő elnökére és az Országgyűlésnek a Módtv2. hatálybalépését megelőzően hivatalban volt elnökére is alkalmazni kell azzal, hogy az Országgyűlés a Módtv2. hatálybalépését megelőzően hivatalban volt elnöke a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 24. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásra akkor jogosult, ha a Módtv2. hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-14. § E törvény 1–5/A. §-a, 6. § (1), (4)–(8) bekezdése, 7–10. §-a, 10/A–10/F. §-a, 12. §-a és 13. §-a az Alaptörvény 4. cikk (5) bekezdése alapján sarkalatosnak minősül.
+13/A. § E törvény rendelkezéseit – ha törvény eltérően nem rendelkezik – az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2013. évi XC. törvény hatálybalépését követően megtartott országgyűlési képviselők általános választása során megválasztott képviselő tekintetében nem kell alkalmazni.
+
+14. § E törvény 1–5/A. §-a, 6. § (1), (4)–(8) bekezdése, 7–10. §-a, 10/A–10/F. §-a, 12. §-a, 13. §-a és 13/A. §-a az Alaptörvény 4. cikk (5) bekezdése alapján sarkalatosnak minősül.
