@@ -20,7 +20,7 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 ### II. Fejezet — VÁLASZTÓKERÜLETEK, SZAVAZÓKÖRÖK
 
-3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év január 1-jei lakosságszám alapján kell meghatározni.
+3. § A települési önkormányzat képviselő-testülete, a fővárosi és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszám alapján kell meghatározni.
 
 4. § A 10 000 vagy ennél kevesebb lakosú település – egyéni listás választási rendszerben – egy választókerületet alkot, amelyben a képviselők száma:
 
@@ -93,12 +93,13 @@ jelöltnek ajánlott.
 
 (4) Főpolgármester jelölt az, akit a főváros választópolgárainak 2%-a ajánlott.
 
-9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, továbbá nyilatkozatot tesz arról, hogy
+9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt –, ha
 
-- a) a nemzetiség képviseletét vállalja,
-- b) a legutóbbi két választáson nem volt más nemzetiség önkormányzatának jelöltje,
-- c) a legutóbbi két polgármester-választáson vagy települési önkormányzat képviselő-testülete tagjainak választásán nem indult más nemzetiség jelöltjeként, továbbá
-- d) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+- a) a település nemzetiségi névjegyzékében szerepel,
+- b) a helyi önkormányzati képviselők és polgármesterek, továbbá a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje, továbbá
+- c) nyilatkozatot tesz arról, hogy
+  - ca) a nemzetiség képviseletét vállalja,
+  - cb) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
 
 10. § (1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek több mint felében jelöltet állított.
 

@@ -30,15 +30,15 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 
 (2) A polgárőr egyesület az (1) bekezdésben foglalt polgárőri tevékenységen túlmenően kiegészítő feladatként önkéntesen közreműködhet
 
-- a) a katasztrófákra történő felkészülés, a katasztrófák elleni védekezés és a helyreállítás, újjáépítés feladataiban, valamint a polgári védelmi szervezetek tevékenységében, továbbá a környezet veszélyeztetésének, károsításának megelőzésében és elhárításában, következményeinek felszámolásában,
+- a) a katasztrófákra történő felkészülés, a katasztrófák elleni védekezés és a helyreállítás, újjáépítés feladataiban, valamint a polgári védelmi szervezetek tevékenységében, továbbá a környezet veszélyeztetésének, károsításának megelőzésében és elhárításában, következményeinek felszámolásában, aminek keretében az erdő lovaglás elől el nem zárt területén lovas járőrszolgálatot is elláthat,
 - b) a baleset-megelőzési, az áldozatvédelmi, a közlekedésbiztonsági, állat-, környezet- és természetvédelmi tevékenység támogatásában, a lakosság és az önkormányzatok közötti kapcsolat erősítésében,
 - c) az otthonában élő fogyatékos személy védelmében, a polgárok és javaik védelmében, az állami és önkormányzati vagyon megóvásában,
 - d) a közterületen közbiztonsági, bűnmegelőzési, valamint bűnüldözési célból elhelyezett képfelvevő által rögzített felvételek megfigyelésében,
 - e) a rendezvények helyszínének biztosításában,
 - f) a Rendőrségről szóló törvény alapján a rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és a polgárőr szervezet működési területén illetékes helyi önkormányzat által létrehozott bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában,
 - g) az önálló, valamint közös feladat- vagy szolgálatellátás útján az együttműködő szervek szakmai tevékenységének segítésében,
-- h) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben, valamint
-- i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában,
+- h) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben,
+- i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában, valamint
 - j) a közforgalmú vasúti személyszállítási szolgáltatás rendjének biztosításában.
 
 (3) A polgárőr egyesület (1) bekezdésben meghatározott alapfeladatait más társadalmi szervezet nem végezheti, ilyen célra más társadalmi szervezet nem alapítható.
@@ -51,6 +51,8 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 (2) A polgárőr egyesület a 3. § (2) bekezdés a) pontjában meghatározott, a katasztrófák elleni védekezéssel összefüggő kiegészítő feladat ellátását akkor kezdheti meg, valamint végezheti, ha rendelkezik a hivatásos katasztrófavédelmi szerv illetékes területi szervének előzetes írásbeli egyetértésével.
 
 (3) A polgárőr egyesület működési területe annak a településnek, fővárosi kerületnek, valamint az azokkal közvetlenül határos település földrajzi területe, amelyet a polgárőr egyesület székhelyeként megjelölt. A polgárőr egyesület működési területe – az alapfeladata ellátásával összefüggésben, indokolt esetben – a fővárosi kerület, valamint az azzal közvetlenül határos kerület közigazgatási területén túl a főváros teljes közigazgatási területére is kiterjedhet.
+
+(3a) A polgárőr egyesület működési területe a lovas járőrszolgálat ellátása tekintetében – a (3) bekezdésben meghatározott területen túl – a polgárőrség székhelyeként megjelölt településsel, fővárosi kerülettel közvetlenül határos erdőterület lovas járőrszolgálat elől el nem zárt területére is kiterjed.
 
 (4) A polgárőr egyesület a 3. § (2) bekezdés j) pontjában meghatározott feladat ellátását akkor kezdheti meg, valamint végezheti, ha a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást köt.
 
@@ -86,7 +88,7 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 
 (9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.
 
-6. § (1) A polgárőr szervezet tevékenysége során együttműködik az általános rendőrségi feladatok ellátására létrehozott szervvel, a hivatásos katasztrófavédelmi szervekkel, továbbá együttműködhet az egyéb rendvédelmi szervekkel, az önkormányzati tűzoltóságokkal és az önkéntes tűzoltó egyesületekkel, az állami és önkormányzati szervekkel, a Nemzeti Adó- és Vámhivatal vámszervével, a közlekedési hatósággal, a környezet- és természetvédelmi szervekkel, a mezei és természetvédelmi őrszolgálatokkal, az erdészeti szakszemélyzettel, a hivatásos vadászokkal, valamint a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.
+6. § (1) A polgárőr szervezet tevékenysége során együttműködik az általános rendőrségi feladatok ellátására létrehozott szervvel, a hivatásos katasztrófavédelmi szervekkel, továbbá együttműködhet az egyéb rendvédelmi szervekkel, az önkormányzati tűzoltóságokkal és az önkéntes tűzoltó egyesületekkel, az állami és önkormányzati szervekkel, a Nemzeti Adó- és Vámhivatal vámszervével, a közlekedési hatósággal, a környezet- és természetvédelmi szervekkel, a mezei és természetvédelmi őrszolgálatokkal, az erdészeti szakszemélyzettel, a hivatásos vadászokkal, a lovas járőrszolgálattal érintett erdőterület tulajdonosával, kezelőjével, illetve ezek képviselőjével, valamint a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.
 
 (2) Az együttműködés különösen a tevékenységek közös ellátását, a szakmai tevékenység segítését, a kölcsönös tájékoztatást, a tevékenység összehangolását, a képzési programokban való részvétel elősegítését, valamint az önkéntesen vállalt feladatok támogatását jelenti.
 
@@ -174,6 +176,8 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 
 személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat ellátását és magára nézve kötelezőnek ismeri el a (2) bekezdés szerinti szabályzatokat.
 
+(4) Erdőterületen történő lovas járőrszolgálatot csak az Országos Polgárőr Szövetség szervezésében lefolytatott oktatást eredményesen elvégző polgárőr láthat el.
+
 #### 6. A polgárőr igazolvány kibocsátása és a nyilvántartás
 
 11. § (1) A polgárőr a 3. § (1) és (2) bekezdésben meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. A polgárőr igazolvány formátumát a rendészetért felelős miniszter állapítja meg.
@@ -255,8 +259,8 @@ tartalmazza.
 
 - a) a területileg illetékes polgárőr egyesülettel közösen látja el tevékenységét,
 - b) arra a polgárőr egyesület a 6. § (1) bekezdésben meghatározott szervekkel együttműködési megállapodást kötött,
-- c) a polgárőr egyesületet, vagy a területi szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra, vagy
-- d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött.
+- c) a polgárőr egyesületet, vagy a területi szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
+- d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött, vagy
 - e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.
 
 (3) Amennyiben az általános rendőrségi feladatok ellátására létrehozott szerv arról tájékoztatja a polgárőr egyesületet, hogy működési területén fokozott ellenőrzést hajt végre, ennek tartama alatt a polgárőr egyesület saját feladatainak ellátását köteles bejelenteni és a fokozott ellenőrzést elrendelő rendőri szerv utasításainak megfelelően eljárni.
@@ -267,7 +271,7 @@ tartalmazza.
 
 (3) A polgárőr hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rendfokozati jelzést nem használhat.
 
-(4) A polgárőri szolgálat ellátása során a polgárőr köteles magánál tartani polgárőr igazolványát. Ha polgárőr közterületen, vagy közforgalmú személyszállítási eszközön lát el polgárőri szolgálatot, annak tartama alatt polgárőri igazolványát köteles a formaruhán jól látható helyen, az egyedi azonosítót tartalmazó oldalával kifelé fordítva, kitűzve viselni.
+(4) A polgárőri szolgálat ellátása során a polgárőr köteles magánál tartani polgárőr igazolványát. Ha a polgárőr közterületen vagy közforgalmú személyszállítási eszközön lát el polgárőri szolgálatot, illetve az erdő területén lovas járőrszolgálatot teljesít, ennek tartama alatt polgárőri igazolványát köteles a formaruhán jól látható helyen, az egyedi azonosítót tartalmazó oldalával kifelé fordítva, kitűzve viselni.
 
 (5) A polgárőr a polgárőri szolgálat ellátása során – a Rendőrségről szóló törvényben meghatározott vegyi eszköz kivételével – nem tarthat magánál a közbiztonságra különösen veszélyes eszközökről szóló kormányrendeletben meghatározott közbiztonságra különösen veszélyes eszközt, továbbá nem viselhet lőfegyvert.
 
@@ -428,7 +432,7 @@ rögzíti.
 
 (3) A 26. § (1) bekezdés b) és c) pontja szerinti ruházat vagy annak fedezete a központi költségvetésben – az e törvénynek megfelelően átalakult, e törvény szerint működő polgárőr egyesületek tagja vonatkozásában – 2013. január 1-jét követően biztosítható. Az új formaruhák biztosításáig az e törvény hatálybalépését megelőzően használt formaruhák tovább használhatók, amennyiben megfelelnek a 15. § (3) bekezdésében foglalt követelményeknek.
 
-(4) Az Országos Polgárőr Szövetség az e törvény szerint működő polgárőr egyesületek tagjainak a polgárőr igazolványokat 2013. július 1-jéig köteles kiadni. Az új polgárőr igazolványok kiadásáig az e törvény hatálybalépését megelőzően, az Országos Polgárőr Szövetség által kiadott polgárőr igazolványok tovább használhatók.
+(4) Az Országos Polgárőr Szövetség az e törvény szerint működő polgárőr egyesületek tagjainak a polgárőr igazolványokat 2013. december 31-éig köteles kiadni. Az új polgárőr igazolványok kiadásáig az e törvény hatálybalépését megelőzően, az Országos Polgárőr Szövetség által kiadott polgárőr igazolványok tovább használhatók.
 
 (5) Az Országos Polgárőr Szövetség, mint köztestület a Fővárosi Bíróság által, a 3664/2011. megyei nyilvántartási számon és 5603/1991. országos nyilvántartásbeli azonosító számon nyilvántartott Országos Polgárőr Szövetség általános jogutódjaként alakul meg. Az Országos Polgárőr Szövetség a törvény hatálybalépését követő 60. napon belül köteles az alapító közgyűlését összehívni, amelyen meg kell állapítani az alapszabályt, valamint ügyintéző-képviselő szervet (elnökséget) és ellenőrző szervet kell választani.
 

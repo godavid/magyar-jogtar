@@ -10,9 +10,9 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2013. évi
 
-- a) bevételi főösszegét 15 323 816,1 millió forintban,
+- a) bevételi főösszegét 15 325 316,1 millió forintban,
 - b) kiadási főösszegét 16 205 150,9 millió forintban,
-- c) hiányát 881 334,8 millió forintban
+- c) hiányát 879 834,8 millió forintban
 
 állapítja meg.
 
@@ -56,7 +56,7 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 #### 5. Az állam vagyonával kapcsolatos rendelkezések
 
-6. § (1) A 2013. évben a Magyar Nemzeti Vagyonkezelő Zrt. az állam nevében – a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 5. § (1) bekezdése szerinti engedélyen alapuló hitelviszonyt megtestesítő értékpapír kibocsátása kivételével – hitelfelvételre, értékpapír-kibocsátásra és kezességvállalásra nem jogosult. A 2013. évben a Magyar Nemzeti Vagyonkezelő Zrt. a saját nevében hitelfelvételre, értékpapír-kibocsátásra és kezességvállalásra nem jogosult.
+6. § (1) A Magyar Nemzeti Vagyonkezelő Zrt. hitelfelvételre és kezességvállalásra nem jogosult. A Magyar Nemzeti Vagyonkezelő Zrt. – az Államadósság Kezelő Központ Zrt. (a továbbiakban: ÁKK Zrt.) törvényben meghatározott feladatkörét nem érintve – az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter erre vonatkozó engedélye alapján jogosult az állam képviseletében eljárni olyan hitelviszonyt megtestesítő értékpapír kibocsátása során, amelynek kibocsátója az állam, és amely az állam tulajdonában levő pénzügyi eszköz átcseréléséhez, illetve biztosítékként annak megszerzéséhez kapcsolódik. Ilyen hitelviszonyt megtestesítő értékpapír forgalomba hozatal és mögöttes pénzkövetelés, illetve pénzösszegnek a kibocsátó rendelkezésre bocsátása nélkül is létrehozható a Magyar Nemzeti Vagyonkezelő Zrt. értékpapírszámláján.
 
 (2) A 2013. évben a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet kiadásai terhére történő, 1000,0 millió forint összeget elérő mértékű kötelezettségvállalásokat és – a központi alrendszer likviditási helyzetére figyelemmel – a kifizetések ütemezését az állami vagyon felügyeletéért felelős miniszter a rábízott vagyon vagyonkezelési tervének keretében hagyja jóvá.
 
@@ -79,7 +79,7 @@ képezi.
 
 (6) A Nemzeti Eszközkezelő Zrt. által vagyonkezelt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó bevételeket a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 1. cím, 1. Értékesítési bevételek alcímen, és az 1. cím, 2. Hasznosítási bevételek alcímen belül önálló jogcímcsoporton kell elszámolni. Ezek a bevételek a 2013. évben a Kormány határozatában adott jóváhagyásával a Nemzeti Eszközkezelő Zrt. jogszabályban meghatározott feladatellátásának finanszírozására használhatók fel. A Kormány határozatában legfeljebb a pénzforgalmilag teljesült hasznosítási és értékesítési bevételek mértékéig engedélyezheti a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet Nemzeti Eszközkezelő Zrt. feladatait finanszírozó kiadási előirányzatainak megemelését.
 
-(7) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. cím, 2. alcím, 4. jogcímcsoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, amely a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege 80%-ának mértékéig az államháztartásért felelős miniszter engedélyével túlléphető.
+(7) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. cím, 2. alcím, 4. jogcímcsoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, mely előirányzat a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege 100%-ának mértékéig az államháztartásért felelős miniszter engedélyével túlléphető.
 
 (8) A Honvédelmi Minisztérium által vagyonkezelt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből származó – a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2013. évben a Kormány határozatában adott jóváhagyásával a Magyar Honvédség technikai modernizációjára, technikai eszközeinek fenntartására és javítására használhatók fel. A Kormány határozatában legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig új kiadási előirányzatot hozhat létre a XIII. Honvédelmi Minisztérium fejezetben vagy engedélyezheti e fejezet meglévő kiadási előirányzatának megemelését.
 
@@ -131,6 +131,10 @@ képezi.
 
 (7) A központi költségvetési szervek a 25 év alatti valamint az 55 év feletti, továbbá a képzettséget nem igénylő (egyszerű) munkakörben foglalkoztatott munkavállalók, valamint a gyesről visszatérő és tartós munkanélküliség után elhelyezkedő munkavállalók foglalkoztatásához kapcsolódó 2013. évi szociális hozzájárulási adó változásból eredő kiadási megtakarításaikat kötelesek befizetni a központi költségvetés javára a tárgyhónapot követő hónap 20. napjáig.
 
+(8) A miniszterek és a Miniszterelnökséget vezető államtitkár irányítása vagy felügyelete alá tartozó költségvetési szervek az irányadó öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerzett közalkalmazotti vagy kormányzati szolgálati jogviszonyban állók jogviszonyának az 1700/2012. (XII. 29.) Korm. határozat által elrendelt megszüntetéséből eredő kiadási megtakarításaikat kötelesek befizetni a központi költségvetés javára.
+
+(9) A Pénzügyi Szervezetek Állami Felügyelete 1500,0 millió forintot köteles befizetni a központi költségvetés javára 2013. augusztus 31. napjáig.
+
 11. § (1) A Nemzeti Közszolgálati Egyetem Rendészettudományi Kar nappali tagozatos ösztöndíjas hallgatói pénzbeli juttatásának normatívája 308 000 forint/fő/év.
 
 (2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 79/E. §-a alapján az egyetemi tanári munkakör 1. fizetési fokozatának garantált illetménye 2013. január 1-jétől 437 300 forint.
@@ -161,7 +165,7 @@ képezi.
 
 (7) A Kutatási és Technológiai Innovációs Alap a 2013. évben a központi költségvetésbe összesen 10 000,0 millió forintot ad át a kutatás-fejlesztési tevékenység Kutatási és Technológiai Innovációs Alapon kívüli finanszírozásához. A befizetési kötelezettséget negyedévente, az éves előirányzat 1/4 részével kell teljesíteni.
 
-(8) A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás fel nem használt részét a Nemzeti Foglalkoztatási Alap 2013. október 31-ig befizeti a központi költségvetésbe.
+(8) A kötelező legkisebb munkabér és a garantált bérminimum rendezéssel összefüggő támogatás fel nem használt részéből legfeljebb 3000,0 millió forint munkahelyek megőrzése és bővítése céljából aktív foglalkoztatáspolitikai célokra használható fel, a további fel nem használt részt a Nemzeti Foglalkoztatási Alap 2013. október 31-ig befizeti a központi költségvetésbe.
 
 #### 8. A Nyugdíjbiztosítási Alap költségvetése
 
@@ -240,6 +244,27 @@ előirányzatainak év közbeni megváltoztatására.
 
 kivéve az államháztartásról szóló 2011. CXCV. törvény (a továbbiakban: Áht.) 40. § (4) bekezdésében foglaltakat, valamint a fejezetet irányító szervek vezetőinek a fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítását.
 
+(3) Irányító szervi hatáskörben végrehajtott fejezeten belüli előirányzat-átcsoportosítással 2013. június 30-áig fejezeti tartalékot kell létrehozni
+
+- a) az I. Országgyűlés fejezet, 1–4. címnél 477,8 millió forint,
+- b) az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság címnél 8,2 millió forint,
+- c) az I. Országgyűlés fejezet, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság címnél 9,5 millió forint,
+- d) az I. Országgyűlés fejezet, 22. Egyenlő Bánásmód Hatóság címnél 4,2 millió forint,
+- e) a II. Köztársasági Elnökség fejezetnél 26,3 millió forint,
+- f) a III. Alkotmánybíróság fejezetnél 35,5 millió forint,
+- g) a IV. Alapvető Jogok Biztosának Hivatala fejezetnél 22,8 millió forint,
+- h) az V. Állami Számvevőszék fejezetnél 153,2 millió forint,
+- i) a VI. Bíróságok fejezetnél 1530,9 millió forint,
+- j) a VIII. Ügyészség fejezetnél 732,9 millió forint,
+- k) a XXX. Gazdasági Versenyhivatal fejezetnél 45,8 millió forint,
+- l) a XXXIV. Magyar Művészeti Akadémia fejezetnél 39,4 millió forint
+
+összeggel.
+
+(4) Az I. Országgyűlés fejezet, 10. Közszolgálati médiaszolgáltatás támogatása cím, 1. Közszolgálati hozzájárulás alcím kiadási előirányzatából 2000,0 millió forint fejezeten belüli – államháztartásért felelős miniszteri hatáskörű –átcsoportosításával Média tartalékot kell létrehozni.
+
+(5) A (3) és (4) bekezdés szerint képzett tartalék az Országgyűlés határozatban adott jóváhagyásával használható fel.
+
 #### 11. A Kormány, az államháztartásért felelős miniszter és a fejezetet irányító szervek vezetőinek különleges jogosítványai
 
 25. § (1) A Kormány az önkormányzati, valamint az állami feladatellátásban 2012. évben bekövetkezett és a 2013. évben bekövetkező változásokkal – ideértve az egyházat, a belső egyházi jogi személyt, a társadalmi szervezetet, az alapítványt, a közalapítványt, a civil szervezetet, az országos nemzetiségi önkormányzatot, a nonprofit gazdasági társaságot, a gazdasági társaságot és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozót érintő feladat-, és intézmény-átadást is – összefüggő valamennyi, a Kormány irányítása alá tartozó, a feladat-, és intézmény-átadással érintett fejezetek közötti átcsoportosítást az Áht. rendelkezéseitől eltérően saját hatáskörben végrehajthat.
@@ -281,6 +306,10 @@ alakulását, továbbá javaslatot tesz az (5) bekezdés szerinti kiadási elői
 (16) A Kormány a LXIII. Nemzeti Foglalkoztatási Alap fejezet kiadásai terhére átcsoportosítást hajthat végre a XX. Emberi Erőforrások Minisztériuma fejezet javára az Útravaló Ösztöndíjprogram Út a szakmához alprogramjának megvalósításához.
 
 (17) A II. Köztársasági Elnökség fejezetet és a XVIII. Külügyminisztérium fejezetet irányító szervek vezetői az államfői protokollal kapcsolatos feladatok ellátásához szükséges előirányzat-átcsoportosításról fejezeti hatáskörben intézkedhetnek.
+
+(18) A Nemzeti Választási Iroda feladatellátása érdekében a Kormány átcsoportosítást hajthat végre azon előirányzatok terhére, amelyek a Nemzeti Választási Iroda hatáskörébe tartozó feladatok kiadásait tartalmazzák.
+
+(19) A Köztársasági Elnöki Hivatal főigazgatója a II. Köztársasági Elnökség fejezet, 2. cím 2. alcím 3. Államfői protokoll kiadásai jogcímcsoport terhére átcsoportosítást hajthat végre a II. Köztársasági Elnökség fejezet, 1. Köztársasági Elnöki Hivatal cím javára.
 
 26. § (1) A XVI. Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal igazgatása cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatán legfeljebb 25 000,0 millió forint, a 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatán legfeljebb 6750,0 millió forint előirányzat-módosítás engedélyezhető, ha a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 1. Általános forgalmi adó alcím előirányzata, 2. Jövedéki adó alcím előirányzata, a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 3. cím, 1. Személyi jövedelemadó alcím előirányzata, a LXXI. Nyugdíjbiztosítási Alap fejezet, 1. cím, 1. Szociális hozzájárulási adó Ny. Alapot megillető része és munkáltatói nyugdíjbiztosítási járulék alcím előirányzata, a LXXI. Nyugdíjbiztosítási Alap fejezet 1. cím, 2. alcím, 1. Biztosított által fizetett nyugdíjjárulék jogcímcsoport előirányzata, a LXXII. Egészségbiztosítási Alap fejezet, 1. cím, 2. Biztosítotti egészségbiztosítási járulék alcím előirányzata együttesen legalább 101%-ban teljesül.
 
@@ -468,7 +497,10 @@ történik.
 
 (2) Az (1) bekezdés szerinti viszontgarancia mértéke a Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség érvényesítéséből a társaságot terhelő fizetési kötelezettség 85%-a.
 
-(3) A Garantiqa Hitelgarancia Zrt. az (1) bekezdés szerinti viszontgaranciával a kis- és középvállalkozások, valamint a Munkavállalói Résztulajdonosi Program megvalósítására – a Munkavállalói Résztulajdonosi Programról szóló törvény alapján – létrejövő szervezetek legfeljebb 25 év lejáratú hitel-, kölcsönszerződésből, bankgarancia-szerződésből és termelési célú eszközbeszerzéshez kapcsolódó pénzügyi lízingszerződésből, továbbá faktoringszerződésből eredő kötelezettségéért vállalhat készfizető kezességet azzal, hogy a készfizető kezességvállalás legfeljebb egyéves futamidejű faktoringügyletekhez kapcsolódhat.
+(3) A Garantiqa Hitelgarancia Zrt. az (1) bekezdés szerinti viszontgaranciával
+
+- a) a kis- és középvállalkozások, valamint a Munkavállalói Résztulajdonosi Program megvalósítására – a Munkavállalói Résztulajdonosi Programról szóló törvény alapján – létrejövő szervezetek legfeljebb 25 év lejáratú hitel-, kölcsönszerződésből, bankgarancia-szerződésből és termelési célú eszközbeszerzéshez kapcsolódó pénzügyi lízingszerződésből, továbbá faktoringszerződésből eredő kötelezettségéért vállalhat készfizető kezességet azzal, hogy a készfizető kezességvállalás legfeljebb egyéves futamidejű faktoringügyletekhez kapcsolódhat, valamint
+- b) készfizető kezességet vállalhat gyógyszerész vállalkozási célú, a biztonságos és gazdaságos gyógyszer- és gyógyászati segédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltételek teljesítése érdekében történő tulajdoni hányad megszerzését szolgáló – a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló kormányrendelet szerinti Patika Hitelprogram keretében – 2013. július 1-je és 2016. december 31-e között létrejött hitel vagy kölcsönszerződéséhez.
 
 (4) Az (1) bekezdés szerinti viszontgarancia kiterjed a Garantiqa Hitelgarancia Zrt.-nek a tőkepiacról szóló törvény alapján működő kockázati tőkealapnak gazdasági társaságban fennálló kockázati tőkebefektetése értékesítéséből származó követelés 50%-áért vállalt készfizető kezességére is. A készfizető kezességgel biztosított követelés mértéke nem haladhatja meg a tulajdonszerzésre fordított összeg 50%-át.
 
@@ -481,7 +513,7 @@ történik.
 
 (6) A Garantiqa Hitelgarancia Zrt. által az (1) bekezdés szerinti állami viszontgarancia mellett vállalt készfizető kezesség állománya 2013. december 31-én nem haladhatja meg az 550 000,0 millió forintot.
 
-(7) A Garantiqa Hitelgarancia Zrt. által az (1) bekezdés szerinti állami viszontgaranciával vállalt készfizető kezesség érvényesítése esetén – törvény eltérő rendelkezésének hiányában – a társaság köteles minden szükséges jogcselekményt megtenni a vállalkozással szemben fennálló, reá átszálló követelés behajtására. A központi költségvetést illeti meg a társaság által behajtott – a behajtási költségekkel csökkentett – összegnek az érvényesített állami viszontgarancia mértékével megegyező százalékban kifejezett arányos része.
+(7) A Garantiqa Hitelgarancia Zrt. által az (1) bekezdés szerinti állami viszontgaranciával vállalt készfizető kezesség érvényesítése esetén – törvény eltérő rendelkezésének hiányában – a társaság köteles minden szükséges jogcselekményt megtenni a (3) bekezdés szerinti kötelezettekkel szemben fennálló, reá átszálló követelés behajtására. A központi költségvetést illeti meg a társaság által behajtott – a behajtási költségekkel csökkentett – összegnek az érvényesített állami viszontgarancia mértékével megegyező százalékban kifejezett arányos része.
 
 (8) Ha a készfizető kezességvállalás biztosítékaként a Garantiqa Hitelgarancia Zrt. biztosítást köt, a biztosító intézet térítése behajtási bevételnek minősül, és arra a (7) bekezdés szabályai az irányadók.
 
@@ -521,6 +553,20 @@ történik.
 
 (4) Az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság a jogszabályi állami kezességért a kezesség fennállásának időtartamára számítva, havonta a 256 milliárd forint 0,12%-ának megfelelő mértékű kezességvállalási díjat fizet legkésőbb 2013. október 15-ig.
 
+44/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől felvett kölcsöneiből eredő fizetési kötelezettsége 80%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség állománya 2013. december 31-én nem haladhatja meg a 8000,0 millió forint összeget.
+
+(3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti kölcsönei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
+
+44/C. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára kihelyezett, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönszerződéseiből eredő fizetési kötelezettsége 80%-ának teljesítéséért.
+
+(2) Az (1) bekezdés szerinti állami készfizető kezesség csak az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
+
+(3) Az (1) bekezdés szerinti állami készfizető kezesség együttes állománya 2013. december 31-én nem haladhatja meg a 8000,0 millió forint összeget.
+
+(4) A KAVOSZ Vállalkozásfejlesztési Zrt. az (1) bekezdés szerinti kölcsönök biztosítékaként az állami készfizető kezességvállaláson túl további biztosíték előírására nem köteles.
+
 45. § (1) Ha az államnak szerződéssel, illetve jogszabállyal vállalt kezesség- vagy viszontgarancia érvényesítéséből – a 46. § szerinti viszontgarancia kivételével – olyan fizetési kötelezettsége keletkezik, amely nem szerepel az 1. mellékletben, azt a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 33. Állam által vállalt kezesség és viszontgarancia érvényesítése cím terhére kell teljesíteni.
 
 (2) Az Államadósság Kezelő Központ Zrt.-nek az állami kezesség, garancia melletti forrásbevonással kapcsolatos feladatokban történő közreműködésért fizetendő díjat a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 32. cím, 1. Vegyes kiadások alcím terhére kell teljesíteni.
@@ -543,7 +589,7 @@ történik.
 
 47. § (1) Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga
 
-- a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím
+- a) az I. Országgyűlés fejezeten belül az Országgyűlés Hivatala főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím, 22. Egyenlő Bánásmód Hatóság cím, 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím, 24. Nemzeti Választási Iroda cím,
 - b) a XI. Miniszterelnökség fejezeten belül a miniszterelnökséget vezető államtitkárnak – mint a fejezetet irányító szerv vezetőjének – a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím előirányzataira.
 
 (2) Az (1) bekezdésben megjelölt jogokat és kötelezettségeket
@@ -553,7 +599,8 @@ történik.
   - ab) 20. Pénzügyi Szervezetek Állami Felügyelete cím tekintetében a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
   - ac) 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
   - ad) 22. Egyenlő Bánásmód Hatóság cím tekintetében az Egyenlő Bánásmód Hatóság elnöke,
-  - ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
+  - ae) 23. Magyar Energetikai és Közmű-szabályozási Hivatal cím tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke,
+  - af) 24. Nemzeti Választási Iroda cím felett a Nemzeti Választási Iroda elnöke
 - b) a XI. Miniszterelnökség fejezet 6. Kormányzati Ellenőrzési Hivatal cím tekintetében a Kormányzati Ellenőrzési Hivatal elnöke
 
 gyakorolja.
@@ -582,7 +629,7 @@ gyakorolja.
 
 (6) Az Európai Bizottság és Magyarország Kormánya által elfogadott Halászati Operatív Program forrásaiból finanszírozott programok, projektek esetén a 6. mellékletben a 2007–2013. évekre meghatározott és még kötelezettségvállalással nem terhelt európai uniós kötelezettségvállalási keret-előirányzat és az ahhoz kapcsolódó központi költségvetési finanszírozás együttes összegéig vállalható tárgyévi és éven túli fizetési kötelezettség.
 
-(7) Az európai uniós tagsághoz kapcsolódó támogatások maradéktalan felhasználása érdekében az államháztartásért felelős miniszter egyetértésével az (1)–(4) és (6) bekezdésben meghatározott mértéken túl is vállalható tárgyévi és éven túli fizetési kötelezettség.
+(7) Az európai uniós források maradéktalan felhasználása érdekében az államháztartásért felelős miniszter egyetértésével vállalható tárgyévi előirányzatot meghaladó vagy éven túli fizetési kötelezettség, mely az (1)–(4) és (6) bekezdésben foglalt programok esetében az ott meghatározott mértéket is meghaladhatja.
 
 (8) A XIX. Uniós fejlesztések fejezet, 2. cím, 4. alcím, 1. Gazdaságfejlesztés Operatív Program jogcímcsoporton, valamint a XIX. Uniós fejlesztések fejezet, 2. cím, 4. alcím, 29. Közép-magyarországi Operatív Program jogcímcsoporton belül a JEREMIE-típusú pénzügyi eszközök végrehajtása során megtérült visszatérítendő támogatásokból származó bevételek a Gazdaságfejlesztés Operatív Program, és a Közép-magyarországi Operatív Program forrását növelik, amelyre tárgyévi és éven túli fizetési kötelezettség vállalható a pénzügyi eszközökre vonatkozó közösségi szabályok szerint, kizárólag a Gazdaságfejlesztés Operatív Program 4. pénzügyi eszközök prioritás, és a Közép-magyarországi Operatív Program 1.3. intézkedés keretében.
 
@@ -728,9 +775,9 @@ gyakorolja.
 
 (4) Az átvállalással érintett (1) bekezdés szerinti adósság a Gst. 3. § (1) bekezdés a)–c) pontjában, a (2) bekezdés szerinti adósság a Gst. 3. § (1) bekezdés a)–b) pontjában foglaltaknak megfelelő – kölcsön- vagy hiteljogviszonyon, hitelviszonyt megtestesítő értékpapíron, továbbá az (1) bekezdés alapján átvállalt adósság esetében váltókibocsátáson alapuló – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény (a továbbiakban: hitelező) felé fennálló tartozásokat foglalja magában.
 
-(5) Az átvállalással érintett önkormányzat az átvállalással érintett folyószámlahitel és váltó állományát az (1) és (2) bekezdés szerinti átvállalás érdekében – a (8) bekezdés szerinti költségvetési támogatással érintett ügyletek kivételével – a 74. § (6) bekezdése szerinti tételes átvállalásról szóló megállapodás előtt legalább 15 nappal – a kölcsön- vagy hiteljogviszonnyal azonos feltétekkel – működési vagy fejlesztési hitellé alakítja át.
+(5) Az átvállalással érintett önkormányzat az átvállalással érintett folyószámlahitel állományát az (1) és (2) bekezdés szerinti átvállalás érdekében – a (8) bekezdés szerinti költségvetési támogatással érintett ügyletek kivételével – a 74. § (6) bekezdése szerinti tételes átvállalásról szóló megállapodás előtt legalább 15 nappal – a kölcsön- vagy hiteljogviszonnyal azonos feltétekkel – működési vagy fejlesztési hitellé alakítja át.
 
-(6) Az átvállalással érintett adósság részét képező, hitelviszonyt megtestesítő értékpapírokat az átvállalással érintett önkormányzatok az átvállalást megelőzően – az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel – kölcsönjogviszonnyá alakíthatják át. Ennek hiányában az állam az értékpapír lejárat előtti visszaváltásából eredő fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam az értékpapír-tulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével is kiválthatja.
+(6) Az átvállalással érintett adósság részét képező, hitelviszonyt megtestesítő értékpapírokat és váltókat az átvállalással érintett önkormányzatok az átvállalást megelőzően – az adott hitelviszonyt megtestesítő értékpapírban, illetve az adott váltóban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel – kölcsönjogviszonnyá alakíthatják át. Ennek hiányában az állam az adott hitelviszonyt megtestesítő értékpapír, illetve az adott váltó lejárat előtti visszaváltásából, visszafizetéséből eredő fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam az értékpapír-, illetve váltótulajdonostól történő, az adott értékpapírban, illetve váltóban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével is kiválthatja.
 
 (7) Ha az átvállalással érintett önkormányzatnak az átvállalás időpontjában fennálló, (1) és (2) bekezdés szerinti átvállalással érintett adósságállománya nem éri el az (1) és (2) bekezdés szerint az állam által átvállalandó adósság összegét, úgy az állam az önkormányzat átvállaláskor fennálló adósságállománya erejéig hajtja végre az adósságátvállalást.
 
@@ -780,22 +827,7 @@ gyakorolja.
 
 (2) A 72. § (1) és (2) bekezdése szerinti adósság összegének megállapítása, a devizában denominált ügyletek 72. § (8) bekezdés szerinti forintértékének megállapítása és a 74. § (1) bekezdése szerinti adatszolgáltatás során a devizában denominált ügyletek esetén a 2012. december 31-én érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
-76. § (1) Az állam átvállalja a fekvőbeteg intézmények átvételét szabályozó törvény 1. § 2. pontjában meghatározott átvett vagyonba tartozó gazdasági társaságok azon a fekvőbeteg intézmény működtetéshez és fejlesztéshez kötődő, 2012. december 31-i, az átvállalás időpontjában fennálló adósságának és annak az átvállalás időpontjáig számított járulékainak összegét, amelyhez a fekvőbeteg intézmények átvételét szabályozó törvény 1. mellékletében meghatározott egészségügyi intézmény tulajdonos és fenntartó települési önkormányzat és a fekvőbeteg intézmények átvételét szabályozó törvény 2. mellékletében meghatározott egészségügyi intézmények által használt vagyon tulajdonos települési önkormányzat által vállalt kezesség kapcsolódik.
-
-(2) Az átvállalással érintett (1) bekezdés szerinti adósság a Gst. 3. § (1) bekezdés a)–b) pontjában foglaltaknak megfelelő, hitelező felé – kölcsön- vagy hiteljogviszonyon, hitelviszonyt megtestesítő értékpapíron, alapuló – fennálló tartozásokat foglalja magában.
-
-(3) A gazdasági társaság az átvállalással érintett folyószámlahitel állományát az (1) bekezdés szerinti átvállalás érdekében a (6) bekezdése szerinti átvállalásról szóló megállapodás előtt legalább 15 nappal – a kölcsön- vagy hiteljogviszonnyal azonos feltételekkel – működési vagy fejlesztési hitellé alakítja át.
-
-(4) Az állam az átvállalással érintett adósság részét képező, hitelviszonyt megtestesítő értékpapírok esetében az értékpapír lejárat előtti visszaváltásából eredő, a lejárt kölcsön- vagy hiteljogviszony esetén az abból származó fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam az értékpapír-tulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével is kiválthatja.
-
-(5) Az átvállalással érintett adósságelemek tőke- és járulékösszegéről a fekvőbeteg intézmények átvételét szabályozó törvény 2. § (1) bekezdése szerinti kijelölt szerv – elektronikus úton – 2013. január 18-áig adatot szolgáltat az államháztartásért felelős miniszternek. Az adatszolgáltatás mellékleteként a kijelölt szerv csatolja
-
-- a) gazdasági társaságonként a hitelező által az átvállalás alapját képező összegről – jogviszonyonkénti bontásban, ezen belül megjelölve a tőke és a járulék összegét, a járulékok számításának módját, valamint e tételek adott hitelezőre vonatkozó teljes összegét – kiállított igazolásokat,
-- b) az önkormányzati kezességvállalást igazoló dokumentumokat.
-
-(6) Az államháztartásért felelős miniszter az (5) bekezdés szerinti adatszolgáltatás alapján gondoskodik az (1)–(4) bekezdés szerinti adósságelemek 2013. június 28-áig történő átvállalásáról akként, hogy az ÁKK Zrt. útján megállapodást köt a gazdasági társaságokkal és azok hitelezőivel.
-
-(7)
+76. §
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -805,7 +837,9 @@ gyakorolja.
 - b) az egyedi támogatások, költségtérítések, valamint az egyéb vállalati támogatások mértékét és felhasználási szabályait,
 - c) a 10. § (7) bekezdésében meghatározott – központi költségvetési szervekre vonatkozó – befizetési kötelezettség szabályait,
 - d) a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruházás ösztönzési célelőirányzat jogcímcsoport előirányzata felhasználásának részletes szabályait,
-- e) a 35. § (3)–(4) és (7)–(8) bekezdése szerinti támogatás igénylésének, folyósításának, elszámolásának, ellenőrzésének részletes szabályait.
+- e) a 35. § (3)–(4) és (7)–(8) bekezdése szerinti támogatás igénylésének, folyósításának, elszámolásának, ellenőrzésének részletes szabályait,
+- f) a 10. § (8) bekezdése szerinti kiadási megtakarítás befizetési kötelezettségének szabályait.
+- g) a 44/B. § és 44/C. § szerinti állami kezesség, valamint a 44/C. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 
 (2) Felhatalmazást kap
 
@@ -953,7 +987,19 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  | 2 |  |  |  | Felújítások | 2,0 |  |  |
 |  |  |  |  |  | 3 |  |  |  | Egyéb felhalmozási kiadások | 6,0 |  |  |
 | 23. cím összesen |  |  |  |  |  |  |  |  |  | 4 734,5 | 4 734,5 |  |
-|  |  |  |  |  |  | I. fejezet összesen: |  |  |  | 123 749,0 | 15 864,5 | 35 516,3 |
+| 24 |  |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  |  |
+|  | 1 |  |  |  |  |  |  | Nemzeti Választási Iroda |  |  |  | 550,0 |
+|  |  |  |  | 1 |  |  |  | Működési költségvetés |  |  |  |  |
+|  |  |  |  |  | 1 |  |  | Személyi juttatások |  | 295,0 |  |  |
+|  |  |  |  |  | 2 |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  | 79,0 |  |  |
+|  |  |  |  |  | 3 |  |  | Dologi kiadások |  | 81,0 |  |  |
+|  |  |  |  | 2 |  |  |  | Felhalmozási költségvetés |  |  |  |  |
+|  |  |  |  |  | 1 |  |  | Beruházások |  | 95,0 |  |  |
+|  | 2 |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |
+|  |  | 1 |  |  |  |  |  | Időközi és nemzetiségi választások lebonyolítása |  | 81,0 |  | 81,0 |
+|  |  | 2 |  |  |  |  |  | A 2014. évi választások előkészítése |  | 2300,0 |  | 2300,0 |
+| 24. cím összesen: |  |  |  |  |  |  |  |  |  | 2931,0 |  | 2931,0 |
+|  |  |  |  |  |  | I. fejezet összesen: |  |  |  | 126 680,0 | 15 864,5 | 38 447,3 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1166,7 +1212,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 19 |  |  |  |  |  | Kárpát-medencei Magyar Jogsegélyszolgálat |  |  |  | 50,0 |  | 50,0 |
 |  |  | 20 |  |  |  |  |  | Bűncselekmények áldozatainak kárenyhítése |  |  |  | 100,0 |  | 100,0 |
 |  |  | 27 |  |  |  |  |  | Nemzetközi kötelezettségek teljesítése |  |  |  | 22,0 |  | 22,0 |
-|  |  | 31 |  |  |  |  |  | Időközi és nemzetiségi választások lebonyolítása |  |  |  | 81,0 |  | 81,0 |
+|  |  | 31 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 41 |  |  |  |  |  | Ludovika Campus |  |  |  | 3 400,0 |  | 3 400,0 |
 |  |  | 43 |  |  |  |  |  | Smithsonian Folklife Fesztiválon való részvétel |  |  |  | 200,0 |  | 200,0 |
 |  | 3 |  |  |  |  |  | Államháztartáson kívüli szervezetek támogatása |  |  |  |  |  |  |  |
@@ -1180,11 +1226,11 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 3 |  |  |  |  |  | Nemzetpolitikai tevékenység támogatása |  |  |  | 3 539,4 |  | 3 539,4 |
 |  | 11 |  |  |  |  |  | Járási szociális feladatok ellátása |  |  |  |  | 18 325,9 |  | 18 325,9 |
 |  | 25 |  |  |  |  |  | Fejezeti általános tartalék |  |  |  |  | 161,8 |  | 161,8 |
-|  |  |  |  |  |  | 1- 20. cím összesen: |  |  |  |  |  | 243 600,7 | 53 032,0 | 190 568,7 |
+|  |  |  |  |  |  | 1- 20. cím összesen: |  |  |  |  |  | 243 519,7 | 53 032,0 | 190 487,7 |
 | 24 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja |  |  |  |  | 79 528,7 |  |  |
 |  | 3 |  |  |  |  |  | Különféle kifizetések |  |  |  |  | 10 000,0 |  |  |
-|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 333 129,4 | 53 032,0 | 190 568,7 |
+|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 333 048,4 | 53 032,0 | 190 487,7 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2672,7 +2718,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  | 21 |  |  |  |  |  | Az önkormányzatoktól 2013-ban átvállalt forint hitelek kamatkiadásai |  |  | 6 192,7 |  |  |
 |  | 2 |  |  |  |  |  | Államkötvények kamatelszámolása |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Piaci értékesítésű államkötvények kamatelszámolásai |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Hiányt finanszírozó és adósságmegújító államkötvények kamatelszámolásai |  |  | 662 239,6 | 62 251,4 |  |
+|  |  |  | 1 |  |  |  |  |  | Hiányt finanszírozó és adósságmegújító államkötvények kamatelszámolásai |  |  | 659 389,6 | 62 251,4 |  |
 |  |  | 2 |  |  |  |  |  | Nem piaci értékesítésű államkötvények kamatelszámolása |  |  |  |  |  |  |
 |  |  |  | 1 |  |  |  |  |  | Lakással kapcsolatos államkötvények kamatelszámolásai |  |  | 727,5 |  |  |
 |  |  |  | 2 |  |  |  |  |  | Konszolidációval kapcsolatos államkötvények kamatelszámolásai |  |  | 17 440,1 |  |  |
@@ -2690,7 +2736,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 2 |  |  |  |  |  | Forint elszámolások |  |  |  | 8 316,9 |  |  |
 |  | 2 |  |  |  |  |  | Állampapírok értékesítését támogató kommunikációs kiadások |  |  |  |  | 1 500,0 |  |  |
 |  | 3 |  |  |  |  |  | Adósságkezelés költségei |  |  |  |  | 980,0 |  |  |
-|  |  |  |  |  |  | XLI. fejezet összesen: |  |  |  |  |  | 1 252 377,5 | 93 244,8 |  |
+|  |  |  |  |  |  | XLI. fejezet összesen: |  |  |  |  |  | 1 249 527,5 | 93 244,8 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2737,7 +2783,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 2 |  |  |  |  |  | Termékdíjak |  |  |  |  | 60 000,1 |  |
 |  |  | 3 |  |  |  |  |  | Egyéb központosított bevételek |  |  |  |  | 19 154,7 |  |
 | 5 |  |  |  |  |  | Költségvetési befizetések |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  | 55 120,5 |  |
+|  | 1 |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  | 56 620,5 |  |
 |  | 2 |  |  |  |  |  | Munkahelyvédelmi akciótervvel összefüggő befizetések |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  | 18 700,0 |  |
 |  |  | 2 |  |  |  |  |  | Helyi önkormányzati költségvetési szervek |  |  |  |  | 11 500,0 |  |
@@ -2828,7 +2874,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 2 |  |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  | 11 572,8 |  |  |
 |  | 3 |  |  |  |  |  | Központi Nukleáris Pénzügyi Alap támogatása |  |  |  |  | 13 492,4 |  |  |
 |  | 4 |  |  |  |  |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása |  |  |  |  | 12,3 |  |  |
-|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 877 058,3 | 7 457 424,9 |  |
+|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 877 058,3 | 7 458 924,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3207,8 +3253,8 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  |  | 5. cím összesen: |  |  |  |  |  | 9 139,4 | 424,6 | 8 714,8 |
 |  |  |  |  |  |  | LXXII. fejezet összesen: |  |  |  |  |  | 1 804 273,9 | 1 804 273,9 | 8 714,8 |
 |  |  |  |  |  |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  | 16 205 150,9 |  |  |
-|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 323 816,1 |  |  |
-|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | -881 334,8 |  |  |
+|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 325 316,1 |  |  |
+|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | -879 834,8 |  |  |
 
 ### 2. melléklet a 2012. évi CCIV. törvényhez
 

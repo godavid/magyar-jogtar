@@ -590,6 +590,10 @@ lehet.
 
 (2) Az erdők és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek közjóléti funkciójának fejlesztése és összehangolása érdekében erdőtervezési körzetenként közjóléti fejlesztési tervet kell készíteni.
 
+(3) A közjóléti fejlesztési tervekben a fejlesztési irányokat kiemelten a meglévő turistautak, a lovaglás és kerékpározás célját szolgáló utak által előidézett közjóléti igényekre figyelemmel kell megtervezni.
+
+(4) Az erdőben a jelzett turistautak és kerékpározás célját szolgáló utak, valamint a bejelentett lovaglás célját szolgáló utak nyomvonalát, jellemző adatait a közjóléti létesítményekről vezetett nyilvántartásban kell nyilvántartani és az erdészeti hatóság honlapján közzé kell tenni.
+
 ### Az Országos Erdőállomány Adattár
 
 38. § (1) Az erdők nyilvántartása, az erdőgazdálkodás kiszámítható működése és országos szintű szabályozása érdekében a miniszter Adattárat működtet.
@@ -1160,10 +1164,20 @@ lévő erdőben
 
 ### Az erdő látogatása
 
-91. § (1) Az erdőben – annak rendeltetésétől függetlenül – üdülés, sportolás és kirándulás céljából gyalogosan bárki saját felelősségére ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
+91. § (1) Az erdőben – annak rendeltetésétől függetlenül – üdülés, sportolás és kirándulás céljából gyalogosan, emberi erővel hajtott kerékpárral, lóval, valamint az erdészeti feltáró hálózat részein sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
 
 - a) más jogszabály azt korlátozza, vagy
 - b) az arra jogosult a látogatás korlátozását az e törvényben foglaltak alapján elrendelte.
+
+(1a) Nem állami, illetve nem helyi önkormányzati tulajdonú erdőben az erdészeti feltáró hálózat részein kívül lovagolni, emberi erővel hajtott kerékpárral közlekedni tilos, kivéve, ha az erdő tulajdonosa az erdő nem állami, illetve nem helyi önkormányzati tulajdoni jellegét megfelelően nem jelezte.
+
+(1b) Az erdőben abban az esetben lehet a megjelölt turistaúton kerékpározni és lovagolni, a megjelölt kerékpáros úton lovagolni, ha az együttes használat lehetősége jelzéssel az adott turistaúton vagy kerékpáros úton megjelölésre került.
+
+(1c) Az (1b) bekezdés szerinti együttes használatot az erdészeti hatóság engedélyezi, ha az a látogatók életét és testi épségét nem veszélyezteti.
+
+(1d) Az (1b) bekezdésben foglalt kivétellel a megjelölt turista- vagy kerékpáros út keresztezése esetén a lovas az úton kizárólag lépésben haladhat át.
+
+(1e) Az erdőben sport vagy turisztikai célú, lóval vontatott járművel turistaúton közlekedni tilos.
 
 (2) Aki erdőben nem erdőgazdálkodással összefüggő tevékenység céljából tartózkodik, az e törvény alkalmazásában az erdő látogatója.
 
@@ -1174,20 +1188,26 @@ lévő erdőben
 - a) az erdei életközösségben, az erdő talajában és az erdészeti létesítményekben kárt nem okozhat,
 - b) az ott tartózkodók pihenését, valamint a rendeltetésszerű erdőgazdálkodási tevékenységet indokolatlanul nem zavarhatja.
 
-(5) Üdülési, sportolási, illetőleg kirándulási célból – a kijelölt út kivételével – gyalogosan sem vehető igénybe
+(5) Üdülési, sportolási, illetőleg kirándulási célból – a kijelölt út kivételével – gyalogosan, kerékpárral és lóval sem vehető igénybe
 
-- a) az erdősítés területe, amíg a rajtalévő faállomány a két méter átlagos magasságot el nem éri;
+- a) az erdősítés területe, amíg a rajta lévő faállomány a két méter átlagos magasságot el nem éri;
 - b) az erdőrezervátum magterülete.
 
-92. § (1) Az erdőben lovagolni, illetőleg járművel közlekedni csak az arra kijelölt úton szabad.
+(6) Kiépített parkerdei utat lovaglás céljára kizárólag az erre a célra kijelölt és bejelentett szakaszon lehet igénybe venni.
 
-(2) Erdőben lovaglásra, valamint járműközlekedésre utat az erdőgazdálkodó javaslata alapján vagy harmadik fél kezdeményezése esetén az erdőgazdálkodó egyetértésével az erdészeti hatóság jelöl ki.
+(7) Kiépített parkerdei utat lóval vontatott járművel nem szabad igénybe venni.
+
+92. § (1) Az erdőben látogatás céljából járművel – ideértve a nem sport vagy turisztikai célú, lóval vontatott járművet, valamint a nem csak emberi erővel hajtott kerékpárt is – közlekedni csak az arra kijelölt úton szabad.
+
+(2) Erdőben járműközlekedésre utat az erdőgazdálkodó javaslata alapján vagy harmadik fél kezdeményezése esetén az erdőgazdálkodó egyetértésével az erdészeti hatóság jelöl ki.
 
 (3) Az erdészeti hatóság a kijelölést az út műszaki tulajdonságaihoz igazodva egyes járműfajtákra korlátozhatja.
 
-(4) Az erdőben lovaglásra, valamint járműközlekedésre kijelölt utat mindenki saját felelősségére veheti igénybe.
+(4) Az erdőben járműközlekedésre kijelölt utat mindenki saját felelősségére veheti igénybe.
 
-(5) Amennyiben lovagló- és kerékpárút kijelölésére sor kerül, állami erdőben a közérdek fokozott érvényesülése érdekében törekedni kell a regionálisan is összefüggő erdei lovagló és kerékpáros útvonal hálózat kijelölésére.
+(5)
+
+92/A. § Erdőben quaddal, terep-motorkerékpárral, segédmotoros kerékpárral, valamint motorkerékpárral közlekedni tilos. Az erdészeti vagy jogosult erdészeti szakszemélyzet segédmotoros kerékpárral vagy közúti forgalomba helyezett, legfeljebb 500 cm3 hengerűrtartalmú motorkerékpárral közlekedhet az erdőben munkavégzés céljából.
 
 93. § (1) Az erdőgazdálkodó hozzájárulásával szabad az erdőben:
 
@@ -1214,7 +1234,7 @@ lévő erdőben
 
 (2) A vadászat időtartamára a vadászatra jogosult az erdőgazdálkodó hozzájárulásával átmenetileg korlátozhatja az erdő egyes részeinek a látogatását.
 
-95. § (1) Az erdőgazdálkodó a turista-, lovagló- vagy a járműközlekedésre kijelölt utat érintő korlátozást köteles minden alkalommal az erdészeti hatóságnak előzetesen bejelenteni.
+95. § (1) Az erdőgazdálkodó a megjelölt turistautat, a bejelentett lovaglóutat vagy a járműközlekedésre kijelölt utat érintő korlátozást köteles minden alkalommal az erdészeti hatóságnak előzetesen bejelenteni.
 
 (2) Az erdőgazdálkodó mentesül az (1) bekezdés szerinti kötelezettség alól, ha a korlátozás azonnali elrendelésére az életet vagy testi épséget közvetlenül veszélyeztető állapot megszüntetésének érdekében kerül sor. Ha a korlátozás időtartama a 24 órát meghaladja, azt az erdészeti hatóságnak haladéktalanul be kell jelenteni.
 

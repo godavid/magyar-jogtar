@@ -420,7 +420,9 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (5) A (4) bekezdésben megjelölt előirányzatot megillető, a nettó finanszírozás keretében le nem vonható összeg biztosítására Esztergom Város Önkormányzata 2012. április 15. napjáig 350,0 millió forint, 2012. szeptember 30. napjáig 400,0 millió forint, 2012. december 20. napjáig pedig a (4) bekezdés szerinti előirányzatból fennmaradó összegű befizetést köteles teljesíteni. A decemberi befizetési kötelezettségről a Kincstár az általa készített éves elszámolás alapján tájékoztatja az önkormányzatot. Amennyiben az önkormányzat e kötelezettségét nem teljesíti, a Kincstár haladéktalanul beszedési megbízást nyújt be az önkormányzat fizetési számlájával szemben. A 2012. április 15. napjáig teljesítendő összeg csökken a 2012. január–március hónapokban levonással teljesült összeggel.
 
-(6) Ha az (5) bekezdés alapján benyújtott beszedési megbízás hatvan napon belül nem teljesül, a Kincstár adósságrendezési eljárás megindítását kezdeményezi. Az eljárásban a Kincstár az Állam képviseletében teljes jogkörrel jár el.
+(6) Ha az (5) bekezdés alapján benyújtott beszedési megbízás hatvan napon belül nem teljesül, a befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
+
+(6a) A (6) bekezdés szerinti behajtási eljárást az adóhatóság az államháztartásért felelős miniszterrel egyetértésben, részletekben indítja meg úgy, hogy az önkormányzat központi költségvetéssel szemben fennálló fizetési kötelezettsége legkésőbb 2013. szeptember 20-áig megszűnjön.
 
 (7) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt nem kell alkalmazni a 4. melléklet szerinti jövedelemkülönbség mérséklési támogatásra és beszámításra, valamint az 5., 6. és 7. melléklet szerinti támogatások igénylésére és döntéshozatali eljárására.
 

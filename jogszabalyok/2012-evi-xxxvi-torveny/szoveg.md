@@ -332,6 +332,8 @@ terheli.
 
 (3) Ha e törvény kivételt nem tesz, az Országgyűlés tisztségeire, illetve országgyűlési bizottságaiba bármely képviselő megválasztható.
 
+(3a) A képviselő az eskü letételéig és az esküokmány aláírásáig – az alakuló ülés megtartásával szükségszerűen együtt járó feladatok elvégzésének kivételével – nem vehet részt az Országgyűlés munkájában.
+
 (4) A köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő határozati javaslatot terjeszthet elő. Nemzetközi szerződés kihirdetéséről szóló törvényjavaslatot a Kormány terjeszthet elő. A törvényjavaslathoz és a határozati javaslathoz indokolást kell fűzni.
 
 #### 12.
@@ -445,15 +447,15 @@ terheli.
 
 (2) Az ülést vezető elnök megvonja a szót attól a felszólalótól, aki a rendreutasítást követően ismételten sértő vagy illetlen kifejezést használ.
 
-(3) Ha a képviselő felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselővel szemben pénzbírság kiszabását.
+(3) Ha a képviselő felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselő adott havi tiszteletdíjának csökkentését.
 
 (4) A kizárásra vonatkozó javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
 (5) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
 
-(6) A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a kirívóan sértő kifejezés használatától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni.
+(6) A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a kirívóan sértő kifejezés használatától számított öt napon belül jogosult a képviselő adott havi tiszteletdíjának csökkentését javasolni.
 
-(7) A (3) és (6) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
+(7) A (3) és (6) bekezdés szerinti, a képviselő adott havi tiszteletdíjának csökkentésére irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
 
 49. § (1) Az ülést vezető elnök felszólítás és figyelmeztetés nélkül megvonhatja a szót attól a felszólalótól, aki az ülést vezető elnök döntését, ülésvezetését – ügyrendi javaslat kivételével – kifogásolja. Az a felszólaló, akitől az ülést vezető elnök felszólítás és figyelmeztetés nélkül vonta meg a szót, kérheti a házszabályi rendelkezések értelmezéséért felelős bizottság eseti jellegű állásfoglalását.
 
@@ -461,25 +463,25 @@ terheli.
 
 (3) Akitől a szót az (1) bekezdés, a 46. § (2) bekezdése vagy a 48. § (2) bekezdése alapján megvonták, ugyanazon az ülésnapon, ugyanabban az ügyben nem szólalhat fel újra.
 
-(4) Ha a képviselő az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselővel szemben pénzbírság kiszabását. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
+(4) Ha a képviselő az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, az ülést vezető elnök rendreutasítás és figyelmeztetés nélkül javasolhatja a képviselő kizárását az ülésnap hátralévő részéből, illetve a képviselő adott havi tiszteletdíjának csökkentését. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
 
 (5) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
 (6) Az ülésnapról kizárt képviselő az ülésnapon nem szólalhat fel újra. Az ülésnapról kizárt képviselő a kizárás napjára tiszteletdíjra nem jogosult.
 
-(7) A házelnök – a (4) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (4) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni.
+(7) A házelnök – a (4) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (4) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő adott havi tiszteletdíjának csökkentését javasolni.
 
-(8) A (4) és (7) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
+(8) A (4) és (7) bekezdés szerinti, a képviselő adott havi tiszteletdíjának csökkentésére irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő egyhavi tiszteletdíjának harmadát.
 
-50. § (1) Ha a képviselő az Országgyűlés ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, az ülést vezető elnök javasolhatja a képviselő ülésnapról való kizárását, jogai gyakorlásának felfüggesztését és vele szemben pénzbírság kiszabását.
+50. § (1) Ha a képviselő az Országgyűlés ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, az ülést vezető elnök javasolhatja a képviselő ülésnapról való kizárását, jogai gyakorlásának felfüggesztését és az adott havi tiszteletdíjának csökkentését.
 
 (2) A kizárásra irányuló javaslatról az Országgyűlés vita nélkül határoz. Ha az Országgyűlés határozatképtelen, a kizárásról az ülést vezető elnök határoz. Ha a képviselőt az (1) bekezdés szerint az ülésnapról kizárták, a kizárás időtartama alatt az Országgyűlés ülésein és az országgyűlési bizottságok munkájában nem vehet részt, tiszteletdíjra nem jogosult. Az ülést vezető elnök az Országgyűlés következő ülésén tájékoztatja az Országgyűlést a kizárásról és annak indokáról. Ezt követően az Országgyűlés vita nélkül határoz az ülést vezető elnök döntésének törvényességéről.
 
-(2a) A házelnök – az (1) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – az (1) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselővel szemben pénzbírság kiszabását javasolni.
+(2a) A házelnök – az (1) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – az (1) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselő adott havi tiszteletdíjának csökkentését javasolni.
 
 (3) A képviselő jogai gyakorlásának felfüggesztéséről az Országgyűlés – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság állásfoglalásának kikérésével – a jelen lévő képviselők kétharmadának szavazatával dönt. A képviselő jogainak gyakorlása legfeljebb három ülésnapra függeszthető fel.
 
-(4) Az (1) és (2a) bekezdés szerinti, pénzbírság kiszabására irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A pénzbírság összege nem haladhatja meg a képviselő egyhavi tiszteletdíjának összegét.
+(4) Az (1) és (2a) bekezdés szerinti, a képviselő adott havi tiszteletdíjának csökkentésére irányuló javaslatról az Országgyűlés a javaslattételt követő ülésén, vita nélkül határoz. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő egyhavi tiszteletdíjának összegét.
 
 (5) Az Országgyűlés a jelen lévő képviselők kétharmadának szavazatával az (1) bekezdésben meghatározott magatartás ugyanazon ülésszakon belül való folytatása esetén a képviselő jogainak gyakorlását
 
@@ -499,15 +501,15 @@ terheli.
 (2) Ha a képviselő a bizottsági ülésen
 
 - a) felszólalása során az Országgyűlés tekintélyét vagy valamely személyt, csoportot – így különösen valamely nemzeti, etnikai, faji vagy vallási közösséget – kirívóan sértő kifejezést használ, vagy az általa használt sértő kifejezés súlyos rendzavaráshoz vezet, vagy
-- b) az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, a bizottság javasolhatja a képviselő kizárását a bizottsági ülés hátralévő részéből, illetve vele szemben pénzbírság kiszabását. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
+- b) az Országgyűlés tekintélyét, rendjét súlyosan sértő magatartást tanúsít, illetve magatartásával a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályait megszegi, a bizottság javasolhatja a képviselő kizárását a bizottsági ülés hátralévő részéből, illetve az adott havi tiszteletdíjának csökkentését. A javaslatban meg kell jelölni az intézkedés okát, illetve – a házszabályi rendelkezések tanácskozási rendre vagy szavazásra vonatkozó szabályainak megszegése esetén – a megsértett házszabályi rendelkezést is.
 
-(3) Ha a képviselő a bizottság ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, a bizottság javasolhatja a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve vele szemben pénzbírság kiszabását.
+(3) Ha a képviselő a bizottság ülésén fizikai erőszakot alkalmazott, illetve közvetlen fizikai erőszakkal fenyegetett vagy arra hívott fel, a bizottság javasolhatja a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve az adott havi tiszteletdíjának csökkentését.
 
 (4) A (2) és (3) bekezdés szerinti javaslat megtételéről vagy a képviselő kizárásáról a bizottság – bármely tagjának indítványára – vita nélkül dönt.
 
-(5) A házelnök – a (2) bekezdés szerinti jogkövetkezményre irányuló javaslat hiányában – a (2) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselővel szemben pénzbírság kiszabását javasolni. A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (3) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselővel szemben pénzbírság kiszabását javasolni.
+(5) A házelnök – a (2) bekezdés szerinti jogkövetkezményre irányuló javaslat hiányában – a (2) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő adott havi tiszteletdíja csökkentését javasolni. A házelnök – a (3) bekezdés szerinti bármely jogkövetkezményre irányuló javaslat hiányában – a (3) bekezdés szerinti magatartás tanúsításától számított öt napon belül jogosult a képviselő képviselői jogai gyakorlásának felfüggesztését, illetve a képviselő adott havi tiszteletdíja csökkentését javasolni.
 
-(6) A pénzbírság kiszabására, illetve a képviselő képviselői jogai gyakorlásának felfüggesztésére a 48. § (7) bekezdése, a 49. § (8) bekezdése, illetve az 50. § (3)–(7) bekezdése rendelkezéseit kell alkalmazni azzal, hogy az 50. § (5) bekezdésének alkalmazásában figyelembe kell venni azt is, ha a képviselő a (3) bekezdésben meghatározott magatartást az Országgyűlés ülésén követi el.
+(6) A képviselő adott havi tiszteletdíjának csökkentésére, illetve a képviselő képviselői jogai gyakorlásának felfüggesztésére a 48. § (7) bekezdése, a 49. § (8) bekezdése, illetve az 50. § (3)–(7) bekezdése rendelkezéseit kell alkalmazni azzal, hogy az 50. § (5) bekezdésének alkalmazásában figyelembe kell venni azt is, ha a képviselő a (3) bekezdésben meghatározott magatartást az Országgyűlés ülésén követi el.
 
 #### 19. A házelnök rendészeti jogköre
 
@@ -742,7 +744,7 @@ terheli.
 
 (2) A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során a mentelmi jog felfüggesztésével és a mentelmi jog megsértésével összefüggő, a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság által kért adatokat a képviselő és minden állami szerv köteles haladéktalanul a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság rendelkezésére bocsátani. A mentelmi jog felfüggesztésére irányuló és a mentelmi jog megsértése miatti vizsgálat során átvett, illetve rendelkezésre bocsátott adatokat a mentelmi jog felfüggesztésére irányuló eljárás és a mentelmi jog megsértése miatti vizsgálat lezárulását követő harmincadik napon törölni kell.
 
-(3) A mentelmi jog felfüggesztésére irányuló ügyben az érintett képviselő a határozathozatal előtt felszólalhat és ismertetheti álláspontját. A mentelmi jog felfüggesztésére irányuló döntéshez a jelen lévő képviselők kétharmadának a szavazata szükséges.
+(3) A mentelmi jog felfüggesztésére irányuló ügyben a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság előadója, valamint az érintett képviselő a határozathozatal előtt öt-öt perces időkeretben felszólalhat és ismertetheti álláspontját. A mentelmi jog felfüggesztésére irányuló döntéshez a jelen lévő képviselők kétharmadának a szavazata szükséges.
 
 (4) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 
@@ -1215,7 +1217,11 @@ terheli.
 
 (7) A házelnök az Országgyűlési Őrségnek az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjével összefüggő tevékenysége részletes szabályait 2013. január 1-jéig határozza meg és teszi közzé az Országgyűlés honlapján.
 
-(8) Azon volt képviselőre, akinek megbízatása az e törvény hatálybalépésekor hivatalban lévő Országgyűlés megbízatásának megszűnésével szűnik meg, az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 9. §-át kell alkalmazni.
+(8) Azon képviselőre, akinek megbízatása az e törvény hatálybalépésekor hivatalban lévő Országgyűlés megbízatásának megszűnésével szűnik meg, az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 9. és 10/H. §-át kell alkalmazni.
+
+(8a) A 40. alcímben foglalt rendelkezéseket az Országgyűlésnek a 40. alcím hatálybalépését megelőzően hivatalban volt elnökére is alkalmazni kell azzal, hogy az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10/I. § (2) bekezdésében foglalt juttatás tekintetében még fennálló jogosultság a 40. alcím hatálybelépésének az időpontjában megszűnik.
+
+(8b) Az Országgyűlésnek a 40. alcím hatálybalépését megelőzően hivatalban volt elnöke a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 24. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásra akkor jogosult, ha az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
 (9) A 124. § (1) bekezdésében és a 127. § (2) bekezdésében foglalt feladatokat 2012. december 31-ig az Országgyűlés Hivatalának gazdasági főigazgatója látja el.
 
@@ -1223,7 +1229,7 @@ terheli.
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 147. § (2)–(3) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 48. § (3), (6) és (7) bekezdése, a 49. § (4), (7) és (8) bekezdése, az 50. § (1), (2a) és (4) bekezdése, az 52. § (2), (3), (5) és (6) bekezdése, a Harmadik rész, a 36. és 37. alcím, a 145. § (8) bekezdése, a 147. § (2)–(3) bekezdése, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
