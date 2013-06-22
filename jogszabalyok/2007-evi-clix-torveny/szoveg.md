@@ -1078,7 +1078,7 @@ megküldeni.
 101. § (1) Összevont alapú felügyelet alá tartozik az a viszontbiztosító,
 
 - a) amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban,
-- b) amelynek anyavállalata biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító, viszontbiztosító,
+- b) amelynek anyavállalata biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító,
 - c) amelynek anyavállalata vegyes tevékenységű biztosítói holding társaság.
 
 (2) Az összevont alapú felügyelet kiterjed az (1) bekezdésben foglaltakon túl
@@ -1093,7 +1093,7 @@ megküldeni.
 
 102. § (1) A Felügyelet az összevont alapú felügyelet alá tartozó viszontbiztosítókról nyilvántartást vezet.
 
-(2) A Felügyelet feladata azon magyarországi székhelyű viszontbiztosítónak e fejezet szerinti összevont alapú felügyelete, amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban, vagy amely biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, viszontbiztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalata.
+(2) A Felügyelet feladata a 101. § (1) bekezdésében meghatározott, magyarországi székhelyű viszontbiztosítónak e fejezet szerinti összevont alapú felügyelete.
 
 (3) Az összevont alapú felügyelet alá tartozó magyarországi székhelyű viszontbiztosító 2 munkanapon belül köteles bejelenteni a Felügyeletnek a (2) bekezdés szerinti anya- és leányvállalati, valamint részesedési viszony létrejöttét, módosulását, illetve megszűnését.
 
@@ -1121,7 +1121,7 @@ megküldeni.
 
 ### A Felügyelet nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyeleti tevékenység tekintetében
 
-105. § (1) Ha magyarországi székhelyű biztosító(k), viszontbiztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k), viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, viszontbiztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalatai, a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a biztosító összevont alapú felügyeletét melyikük látja el.
+105. § (1) Ha magyarországi székhelyű viszontbiztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k), viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vegyes tevékenységű biztosítói holding társaság vagy vegyes pénzügyi holding társaság leányvállalatai, akkor a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a viszontbiztosító összevont alapú felügyeletét melyikük látja el.
 
 (2) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más tagállam felügyeleti hatóságával szorosan együttműködik.
 
@@ -1161,18 +1161,18 @@ megküldeni.
 
 (2) Ha a viszontbiztosító leányvállalata vagy egy vállalkozása a viszontbiztosítóban részesedési viszonnyal rendelkezik és ezen anyavállalat egy másik biztosítóban vagy viszontbiztosítóban, vagy részesedési viszonnyal rendelkezik egy másik biztosítóban vagy viszontbiztosítóban, a korrigált szavatoló tőke megfelelés számítását minden biztosítónak, illetve viszontbiztosítónak el kell végeznie, amely anyavállalat vagy részesedési viszonnyal rendelkezik egy másik biztosítóban vagy viszontbiztosítóban.
 
-(3) Ha több viszontbiztosító ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalata, a korrigált szavatoló tőke megfelelés számítását a biztosítói holding társaság, a viszontbiztosító vagy a harmadik országbeli biztosító végzi el és adja át az összevont alapú felügyelet alá tartozó biztosító részére.
+(3) Ha több viszontbiztosító ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság leányvállalata, akkor a korrigált szavatoló tőke megfelelés számítását a biztosítói holding társaság, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító vagy a vegyes pénzügyi holding társaság végzi el és adja át az összevont alapú felügyelet alá tartozó viszontbiztosító részére.
 
-(4) Ha a biztosítói holding társaság vagy a viszontbiztosító maga is biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalata, a Felügyelet egyedi mérlegelés alapján engedélyezheti, hogy a korrigált szavatoló tőke megfelelés számítását kizárólag a legfelső szinten levő anyavállalati biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító végezze el.
+(4) Ha a biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság maga is biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság leányvállalata, akkor a Felügyelet engedélyezheti, hogy a korrigált szavatoló tőke megfelelés számítását kizárólag a legfelső szinten levő anyavállalati biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság végezze el.
 
 (5) A Felügyelet a viszontbiztosítót a korrigált szavatoló tőke megfelelés számítása alól abban az esetben mentesítheti, ha
 
 - a) a viszontbiztosító egy másik magyarországi székhelyű biztosító leányvállalata vagy egy másik magyarországi székhelyű biztosító részesedési viszonnyal rendelkezik a viszontbiztosítóban és az anyavállalat vagy részesedési viszonnyal rendelkező biztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
-- b) a viszontbiztosító egy magyarországi székhelyű biztosítói holding társaság, illetőleg viszontbiztosító leányvállalata, és a korrigált szavatoló tőke megfelelés számításába a biztosító és a biztosítói holding társaság vagy viszontbiztosító egyaránt bevonásra kerül,
-- c) egy másik tagállamban bejegyzett biztosító, biztosítói holding társaság vagy viszontbiztosító a viszontbiztosítónak anyavállalata vagy a viszontbiztosítóban részesedési viszonnyal rendelkezik és a 105. § (1) bekezdés szerinti felügyeleti megállapodás alapján a másik tagállam felügyeleti hatósága a viszontbiztosító összevont alapú felügyeletét ellátja,
-- d) a viszontbiztosító egy harmadik országbeli biztosító vagy viszontbiztosító leányvállalata vagy a viszontbiztosítóban egy harmadik országbeli biztosító vagy viszontbiztosító részesedési viszonnyal rendelkezik és az anyavállalat vagy részesedési viszonnyal rendelkező biztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
-- e) a viszontbiztosító és más magyarországi székhelyű biztosító(k) vagy viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalatai és a biztosítói holding társaság, a viszontbiztosító vagy a harmadik országbeli biztosító korrigált szavatoló tőke számításába a viszontbiztosítót bevonja,
-- f) a viszontbiztosító és más tagállamban bejegyzett biztosító(k) vagy viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalatai és a 105. § (1) bekezdés szerinti felügyeleti megállapodás alapján a tagállam felügyeleti hatósága az összevont alapú felügyeletüket ellátja.
+- b) a viszontbiztosító egy magyarországi székhelyű biztosítói holding társaság, vegyes pénzügyi holding társaság, vagy viszontbiztosító leányvállalata, és a korrigált szavatoló tőke megfelelés számításába a biztosító és a biztosítói holding társaság, vegyes pénzügyi holding társaság vagy viszontbiztosító egyaránt bevonásra kerül,
+- c) egy másik tagállamban bejegyzett biztosító, biztosítói holding társaság, vegyes pénzügyi holding társaság vagy viszontbiztosító a viszontbiztosítónak anyavállalata vagy a viszontbiztosítóban részesedési viszonnyal rendelkezik és a 105. § (1) bekezdésében meghatározott felügyeleti megállapodás alapján a másik tagállam felügyeleti hatósága a viszontbiztosító összevont alapú felügyeletét ellátja,
+- d) a viszontbiztosító egy harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalata, vagy a viszontbiztosítóban egy harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító részesedési viszonnyal rendelkezik, és az anyavállalat vagy részesedési viszonnyal rendelkező harmadik országbeli biztosító, harmadik országbeli viszontbiztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
+- e) a viszontbiztosító és más magyarországi székhelyű biztosító(k) vagy viszontbiztosító(k) ugyanazon biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalatai, és a biztosítói holding társaság, a vegyes pénzügyi holding társaság, a viszontbiztosító, a harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító korrigált szavatoló tőke számításába a viszontbiztosítót bevonja,
+- f) a viszontbiztosító és más tagállamban bejegyzett biztosító(k) vagy viszontbiztosító(k) ugyanazon biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalatai és a 105. § (1) bekezdésében meghatározott felügyeleti megállapodás alapján a tagállam felügyeleti hatósága az összevont alapú felügyeletüket ellátja.
 
 (6) A Felügyelet az (5) bekezdés alapján mentesítést kizárólag abban az esetben adhat, ha teljesül az e törvény előírásaival egyenértékű követelményeknek megfelelő korrigált szavatoló tőke számítás és a szavatoló tőke a 101. § (2) bekezdése szerinti vállalkozások közötti megfelelő megosztása.
 
@@ -1233,7 +1233,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (2) A Felügyelet egyedi mérlegelés alapján engedélyezheti, hogy a viszontbiztosító más tagállamban bejegyzett biztosítója vagy viszontbiztosítója – ha az leányvállalata vagy olyan vállalkozása, amelyben részesedési viszonnyal rendelkezik – szavatoló tőke szükségletét és szavatoló tőkéjét az adott ország előírásainak megfelelően számított értéken vegye figyelembe a korrigált szavatoló tőke megfelelés számításakor.
 
-(3) Ha a viszontbiztosító biztosítói holding társaságon keresztül rendelkezik részesedési viszonnyal más biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban a közbenső biztosítói holding társaság szavatoló tőke szükségletét a viszontbiztosító korrigált szavatoló tőke szükségletének számítása során nullának kell tekinteni, a szavatoló tőke elemei pedig megegyeznek a (3) bekezdésben megjelölt tőkekövetelmények számításánál figyelembe vehető tőkeelemekkel.
+(3) Ha a viszontbiztosító biztosítói holding társaságon vagy vegyes pénzügyi holding társaságon keresztül rendelkezik részesedési viszonnyal más biztosítóban, viszontbiztosítóban, harmadik országbeli biztosítóban, harmadik országbeli viszontbiztosítóban, a közbenső biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükségletét a viszontbiztosító korrigált szavatoló tőke szükségletének számítása során nullának kell tekinteni, a szavatoló tőke elemei pedig megegyeznek a (3) bekezdésben megjelölt tőkekövetelmények számításánál figyelembe vehető tőkeelemekkel.
 
 (4) Ha a harmadik országbeli biztosítóra az e törvényben rögzítettekkel egyenértékű engedélyezési és szavatoló tőke követelmények vonatkoznak, a Felügyelet érvényben lévő felügyeleti megállapodáson alapuló egyedi mérlegelés alapján engedélyezheti, hogy a viszontbiztosító a harmadik országbeli kapcsolt biztosítója szavatoló tőke szükségletét és szavatoló tőkéjét az adott ország előírásainak megfelelően számított értéken vegye figyelembe a korrigált szavatoló tőke megfelelés számításakor.
 
@@ -1243,11 +1243,11 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (7) A viszontbiztosító szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedésének könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a viszontbiztosító és a Felügyelet rendelkezésére. Így kell eljárni a 101. § (3) bekezdésében meghatározott esetekben is.
 
-### Biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalataként működő viszontbiztosító korrigált szavatoló tőke megfelelése
+### Biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalataként működő viszontbiztosító korrigált szavatoló tőke megfelelése
 
-111. § (1) A 101. § (1) bekezdésének b) pontjában meghatározott viszontbiztosító korrigált szavatoló tőke megfelelésének számításába a biztosítói holdingtársaság, a harmadik országbeli viszontbiztosító, illetve a harmadik országbeli biztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a viszontbiztosító részesedési viszonnyal rendelkezik, be kell vonni.
+111. § (1) A 101. § (1) bekezdés b) pontjában meghatározott viszontbiztosító korrigált szavatoló tőke megfelelésének számításába be kell vonni a biztosítói holdingtársaság, vegyes pénzügyi holding társaság, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a viszontbiztosító részesedési viszonnyal rendelkezik.
 
-(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha viszontbiztosító lenne. A biztosítói holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, illetőleg viszontbiztosító esetében pedig a 109. § (2)–(7) bekezdéseiben foglaltakat kell értelemszerűen alkalmazni.
+(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha viszontbiztosító lenne. A biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, harmadik országbeli viszontbiztosító esetében pedig a 109. § (2)–(7) bekezdéseiben foglaltakat kell értelemszerűen alkalmazni.
 
 (3) Az anyavállalat vagy részesedési viszonnyal rendelkező vállalkozás szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy minden olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedése könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a viszontbiztosító és a Felügyelet rendelkezésére.
 
@@ -1454,6 +1454,7 @@ rendeletben szabályozza.
 - a) Az Európai Parlament és a Tanács 1998. október 27-i 98/78/EK irányelve a biztosítási vagy viszontbiztosítási csoportok biztosítóinak, illetve viszontbiztosítóinak kiegészítő felügyeletéről.
 - b) Az Európai Parlament és a Tanács 2005. november 16-i 2005/68/EK irányelve a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról.
 - c) Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
+- d) Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
 ### 1. számú melléklet a 2007. évi CLIX. törvényhez
 

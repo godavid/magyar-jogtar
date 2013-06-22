@@ -149,17 +149,10 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - 72. viszontbiztosítási tevékenység: a biztosító, viszontbiztosító, foglalkoztatói nyugdíj szolgáltató intézmény, harmadik országbeli biztosító, viszontbiztosító, foglalkoztatói nyugdíj szolgáltató intézmény, illetve a Lloyd's néven ismert biztosítást kötők egyesületének valamely tagja által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása;
 - 73. viszontbiztosító: az a vállalkozás, amely a székhelye szerinti tagállamban kizárólag viszontbiztosítási és azzal közvetlenül összefüggő tevékenység végzésére kapott engedélyt;
 - 74. vegyes tevékenységű biztosítói holding társaság: az az anyavállalat, amely nem biztosító, nem harmadik országbeli biztosító, nem viszontbiztosító, nem harmadik országbeli viszontbiztosító, nem biztosítói holding társaság és nem vegyes pénzügyi holding társaság, azonban legalább egy tagállami biztosító, viszontbiztosító leányvállalattal rendelkezik;
-- 75. szabályozott vállalkozás: hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító;
-- 76. pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság;
-- 77. banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás;
-- 78. befektetési szolgáltatási ágazat: befektetési vállalkozás;
-- 79. biztosítási szolgáltatási ágazat: biztosító, viszontbiztosító, illetőleg biztosítói holding társaság;
-- 80. vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot;
+- 75–79.
+- 80. vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom;
 - 81. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
-- 82. érintett felügyeleti hatóság:
-  - a) a pénzügyi konglomerátum szabályozott vállalkozásának felügyeletét ellátó tagállami felügyeleti hatóság, vagy
-  - b) a 189/H. § szerinti koordinátor, vagy
-  - c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt érdekelt hatóság, ha a pénzügyi konglomerátumnak az érdekelt felügyeleti hatóság tagállamában lévő piaci részesedése eléri az öt százalékot, és az érdekelt felügyeleti hatóság által engedélyezett szabályozott vállalkozás a pénzügyi konglomerátumon belül jelentős;
+- 82.
 - 83. szoros kapcsolat: a Hpt.-ben meghatározott fogalom;
 - 84. jellemző kockázat: az egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező termékek ágazati, illetve alágazati besorolását meghatározó kockázat. Az egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező termékek abba az egy biztosítási ágazatba, illetve biztosítási alágazatba tartoznak, amely megfelel az adott termék díjkalkulációja szerint a legnagyobb arányú díjrésszel fedezett kockázat ágazati, illetve alágazati besorolásának;
 - 85. biztosítási alágazat: meghatározott biztosítási kockázatok biztosítási ágazaton belüli csoportja;
@@ -2414,7 +2407,7 @@ megküldeni.
 178. § (1) Összevont alapú felügyelet alá tartozik az a biztosító,
 
 - a) amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban,
-- b) amelynek anyavállalata biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító, viszontbiztosító,
+- b) amelynek anyavállalata biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító,
 - c) amelynek anyavállalata vegyes tevékenységű biztosítói holding társaság.
 
 (2) Az összevont alapú felügyelet kiterjed az (1) bekezdésben foglaltakon túl
@@ -2427,7 +2420,7 @@ megküldeni.
 
 179. § (1) A Felügyelet az összevont alapú felügyelet alá tartozó biztosítókról nyilvántartást vezet.
 
-(2) A Felügyelet feladata azon magyarországi székhelyű biztosítónak e fejezet szerinti összevont alapú felügyelete, amely anyavállalata másik biztosítónak, viszontbiztosítónak vagy harmadik országbeli biztosítónak, viszontbiztosítónak, vagy részesedési viszonnyal rendelkezik legalább egy másik biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, viszontbiztosítóban, vagy amely biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, viszontbiztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalata.
+(2) A Felügyelet feladata a 178. § (1) bekezdésében meghatározott, magyarországi székhelyű biztosítónak e fejezet szerinti összevont alapú felügyelete.
 
 (3) Az összevont alapú felügyelet alá tartozó magyarországi székhelyű biztosító 2 munkanapon belül köteles bejelenteni a Felügyeletnek a (2) bekezdés szerinti anya- és leányvállalati, valamint részesedési viszony létrejöttét, módosulását, illetve megszűnését.
 
@@ -2457,7 +2450,7 @@ megküldeni.
 
 ### A Felügyelet nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyeleti tevékenység tekintetében
 
-182. § (1) Ha magyarországi székhelyű biztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy vegyes tevékenységű biztosítói holding társaság leányvállalatai, a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a biztosító összevont alapú felügyeletét melyikük látja el.
+182. § (1) Ha magyarországi székhelyű biztosító(k) és más tagállamban vagy tagállamokban székhellyel rendelkező biztosító(k), viszontbiztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító, vegyes tevékenységű biztosítói holding társaság vagy vegyes pénzügyi holding társaság leányvállalatai, akkor a Felügyelet az adott tagállamok felügyeleti hatóságaival kötött felügyeleti megállapodásban rögzíti, hogy a biztosító összevont alapú felügyeletét melyikük látja el.
 
 (2) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más tagállam felügyeleti hatóságával szorosan együttműködik.
 
@@ -2497,18 +2490,18 @@ megküldeni.
 
 (2) Ha a biztosító leányvállalat vagy egy vállalkozás a biztosítóban részesedési viszonnyal rendelkezik és ezen biztosító anyavállalat egy másik biztosítóban vagy részesedési viszonnyal rendelkezik egy másik biztosítóban, a korrigált szavatoló tőke megfelelés számítását minden biztosítónak el kell végeznie, amely anyavállalat vagy részesedési viszonnyal rendelkezik egy másik biztosítóban.
 
-(3) Ha több biztosító ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalata, a korrigált szavatoló tőke megfelelés számítását a biztosítói holding társaság, a viszontbiztosító vagy a harmadik országbeli biztosító végzi el és adja át az összevont alapú felügyelet alá tartozó biztosító részére.
+(3) Ha több biztosító ugyanazon biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság leányvállalata, akkor a korrigált szavatoló tőke megfelelés számítását a biztosítói holding társaság, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító vagy a vegyes pénzügyi holding társaság végzi el és adja át az összevont alapú felügyelet alá tartozó biztosító részére.
 
-(4) Ha a biztosítói holding társaság vagy a viszontbiztosító maga is biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalata, a Felügyelet egyedi mérlegelés alapján engedélyezheti, hogy a korrigált szavatoló tőke megfelelés számítását kizárólag a legfelső szinten levő anyavállalati biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító végezze el.
+(4) Ha a biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság maga is biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalata, akkor a Felügyelet engedélyezheti, hogy a korrigált szavatoló tőke megfelelés számítását kizárólag a legfelső szinten levő anyavállalati biztosítói holding társaság, viszontbiztosító, harmadik országbeli biztosító, harmadik országbeli viszontbiztosító vagy vegyes pénzügyi holding társaság végezze el.
 
 (5) A Felügyelet a biztosítót a korrigált szavatoló tőke megfelelés számítása alól abban az esetben mentesítheti, ha
 
 - a) a biztosító egy másik magyarországi székhelyű biztosító leányvállalata vagy egy másik magyarországi székhelyű biztosító részesedési viszonnyal rendelkezik a biztosítóban és az anyavállalat vagy részesedési viszonnyal rendelkező biztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
-- b) a biztosító egy magyarországi székhelyű biztosítói holding társaság, illetőleg viszontbiztosító leányvállalata, és a korrigált szavatoló tőke megfelelés számításába a biztosító és a biztosítói holding társaság vagy viszontbiztosító egyaránt bevonásra kerül,
-- c) egy másik tagállamban bejegyzett biztosító, biztosítói holding társaság vagy viszontbiztosító a biztosítónak anyavállalata vagy a biztosítóban részesedési viszonnyal rendelkezik és a 182. § (1) bekezdés szerinti felügyeleti megállapodás alapján a másik tagállam felügyeleti hatósága a biztosító összevont alapú felügyeletét ellátja,
-- d) a biztosító egy harmadik országbeli biztosító leányvállalata vagy a biztosítóban egy harmadik országbeli biztosító részesedési viszonnyal rendelkezik és az anyavállalat vagy részesedési viszonnyal rendelkező biztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
-- e) a biztosító és más magyarországi székhelyű biztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalatai és a biztosítói holding társaság, a viszontbiztosító vagy a harmadik országbeli biztosító korrigált szavatoló tőke számításába a biztosítót bevonja,
-- f) a biztosító és más tagállamban bejegyzett biztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalatai és a 182. § (1) bekezdés szerinti felügyeleti megállapodás alapján a tagállam felügyeleti hatósága a biztosító(k) összevont alapú felügyeletét ellátja.
+- b) a biztosító egy magyarországi székhelyű biztosítói holding társaság, vegyes pénzügyi holding társaság, vagy viszontbiztosító leányvállalata, és a korrigált szavatoló tőke megfelelés számításába a biztosító és a biztosítói holding társaság, vegyes pénzügyi holding társaság vagy viszontbiztosító egyaránt bevonásra kerül,
+- c) egy másik tagállamban bejegyzett biztosító, biztosítói holding társaság, vegyes pénzügyi holding társaság vagy viszontbiztosító a biztosítónak anyavállalata vagy a biztosítóban részesedési viszonnyal rendelkezik, és a 182. § (1) bekezdésében meghatározott felügyeleti megállapodás alapján a másik tagállam felügyeleti hatósága a biztosító összevont alapú felügyeletét ellátja,
+- d) a biztosító egy harmadik országbeli biztosító, harmadik országbeli viszontbiztosító leányvállalata, vagy a biztosítóban egy harmadik országbeli biztosító, harmadik országbeli viszontbiztosító részesedési viszonnyal rendelkezik és az anyavállalat vagy részesedési viszonnyal rendelkező harmadik országbeli biztosító, harmadik országbeli viszontbiztosító a korrigált szavatoló tőke megfelelésének számításába bevonja,
+- e) a biztosító és más magyarországi székhelyű biztosító(k) ugyanazon biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalatai és a biztosítói holding társaság, a vegyes pénzügyi holding társaság, a viszontbiztosító, a harmadik országbeli biztosító vagy a harmadik országbeli viszontbiztosító korrigált szavatoló tőke számításába a biztosítót bevonja,
+- f) a biztosító és más tagállamban bejegyzett biztosító(k) ugyanazon biztosítói holding társaság, viszontbiztosító, vegyes pénzügyi holding társaság, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalatai és a 182. § (1) bekezdésében meghatározott felügyeleti megállapodás alapján a tagállam felügyeleti hatósága a biztosító(k) összevont alapú felügyeletét ellátja.
 
 (6) A Felügyelet az (5) bekezdés alapján mentesítést kizárólag abban az esetben adhat, ha teljesül az e törvény előírásaival egyenértékű követelményeknek megfelelő korrigált szavatoló tőke számítás és a szavatoló tőke a 178. § (2) bekezdése szerinti vállalkozások közötti megfelelő megosztása.
 
@@ -2577,7 +2570,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (3) A korrigált szavatoló tőke megfelelés számítása során a biztosító valamennyi leányvállalatát vagy olyan vállalkozását, amelyben részesedési viszonnyal rendelkezik, ha az viszontbiztosító, az e törvényben rögzített szabályoknak megfelelően kalkulált tőkekövetelményekre vonatkozó előírások alapján veszi figyelembe.
 
-(4) Ha a biztosító biztosítói holding társaságon keresztül rendelkezik részesedési viszonnyal más biztosítóban, viszontbiztosítóban vagy harmadik országbeli biztosítóban, a közbenső biztosítói holding társaság szavatoló tőke szükségletét a biztosító korrigált szavatoló tőke szükségletének számítása során nullának kell tekinteni, a szavatoló tőke elemei pedig megegyeznek a (3) bekezdésben megjelölt tőkekövetelmények számításánál figyelembe vehető tőkeelemekkel.
+(4) Ha a biztosító biztosítói holding társaságon vagy vegyes pénzügyi holding társaságon keresztül rendelkezik részesedési viszonnyal más biztosítóban, viszontbiztosítóban, harmadik országbeli biztosítóban vagy harmadik országbeli viszontbiztosítóban, a közbenső biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükségletét a biztosító korrigált szavatoló tőke szükségletének számítása során nullának kell tekinteni, a szavatoló tőke elemei pedig megegyeznek a (3) bekezdésben megjelölt tőkekövetelmények számításánál figyelembe vehető tőkeelemekkel.
 
 (5) Ha a harmadik országbeli biztosítóra az e törvényben rögzítettekkel egyenértékű engedélyezési és szavatoló tőke követelmények vonatkoznak, a Felügyelet érvényben lévő felügyeleti megállapodáson alapuló egyedi mérlegelés alapján engedélyezheti, hogy a biztosító a harmadik országbeli kapcsolt biztosítója szavatoló tőke szükségletét és szavatoló tőkéjét az adott ország előírásainak megfelelően számított értéken vegye figyelembe a korrigált szavatoló tőke megfelelés számításakor.
 
@@ -2587,11 +2580,11 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (8) A biztosító szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedésének könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a biztosító és a Felügyelet rendelkezésére. Így kell eljárni a 178. § (3) bekezdésében meghatározott esetekben is.
 
-### Biztosítói holding társaság, viszontbiztosító vagy harmadik országbeli biztosító leányvállalataként működő biztosító korrigált szavatoló tőke megfelelése
+### Biztosítói holding társaság, vegyes pénzügyi holding társaság, viszontbiztosító, harmadik országbeli biztosító vagy harmadik országbeli viszontbiztosító leányvállalataként működő biztosító korrigált szavatoló tőke megfelelése
 
-188. § (1) A 178. § (1) bekezdésének b) pontjában meghatározott biztosító korrigált szavatoló tőke megfelelésének számításába a biztosítói holdingtársaság, a harmadik országbeli viszontbiztosító, illetve a harmadik országbeli biztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a biztosító részesedési viszonnyal rendelkezik, be kell vonni.
+188. § (1) A 178. § (1) bekezdés b) pontjában meghatározott biztosító korrigált szavatoló tőke megfelelésének számításába be kell vonni a biztosítói holdingtársaság, vegyes pénzügyi holding társaság, harmadik országbeli biztosító, viszontbiztosító, harmadik országbeli viszontbiztosító valamennyi leányvállalatát vagy valamennyi vállalkozását, amelyben a biztosító részesedési viszonnyal rendelkezik.
 
-(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha biztosító lenne. A biztosítói holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, illetőleg viszontbiztosító esetében pedig a 187. § (2)–(7) bekezdéseiben foglaltakat kell értelemszerűen alkalmazni.
+(2) A korrigált szavatoló tőke megfelelés számítása során az anyavállalatot úgy kell tekinteni, mintha biztosító lenne. A biztosítói holding társaság vagy vegyes pénzügyi holding társaság szavatoló tőke szükséglete nulla, a viszontbiztosító, a harmadik országbeli biztosító, a harmadik országbeli viszontbiztosító esetében pedig a 187. § (2)–(7) bekezdésében foglaltakat kell értelemszerűen alkalmazni.
 
 (3) Az anyavállalat vagy részesedési viszonnyal rendelkező vállalkozás szavatoló tőkéjéből le kell vonni minden olyan leányvállalatában vagy minden olyan vállalkozásában, amelyben részesedési viszonnyal rendelkezik, fennálló részesedése könyv szerinti értékét, amely a korrigált szavatoló tőke megfelelés számításához szükséges információkat nem bocsátja a biztosító és a Felügyelet rendelkezésére.
 
@@ -2605,227 +2598,9 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 (4) A szanálási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
 
-### III/A. Fejezet — KIEGÉSZÍTŐ FELÜGYELET
+### III/A. Fejezet
 
-### Pénzügyi konglomerátum
-
-189/A. § (1) Pénzügyi konglomerátum – e törvény szerint – az a csoport [3. § (1) bekezdésének 81. pontja],
-
-- a) amelynek élén 1. biztosító áll vagy 2. nem szabályozott vállalkozás áll, és a csoport tevékenysége a (3) bekezdésben foglaltaknak megfelelően jelentős mértékben a pénzügyi ágazatba sorolható, és
-- b) amelyben van olyan vállalkozás, amely a biztosítási szolgáltatási ágazathoz és olyan vállalkozás, amely a banki vagy befektetési szolgáltatási ágazathoz tartozik és
-- c) amely vállalkozásaiban összevontan (konszolidáltan), illetőleg aggregáltan mért tevékenység mind a biztosítási szolgáltatási, mind a banki vagy befektetési szolgáltatási ágazatban jelentős a (4) vagy (5) bekezdésben meghatározott feltételeknek megfelelően.
-
-(2) A pénzügyi konglomerátum élén álló vállalkozás
-
-- a) az anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások közül egyetlen vállalkozás sem rendelkezik benne ellenőrző befolyással vagy részesedési viszonnyal,
-- b) a legnagyobb mérlegfőösszegű anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között több, az a) pontban foglaltaknak megfelelő anyavállalat található,
-- c) a legnagyobb mérlegfőösszegű vállalkozás azon vállalkozások közül, amelyekben – a pénzügyi konglomerátumhoz tartozó vállalkozások közül – egyetlen vállalkozás sem rendelkezik ellenőrző befolyással vagy részesedési viszonnyal, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nincs az a) pontban foglaltaknak megfelelő anyavállalat,
-- d) a legnagyobb mérlegfőösszegű vállalkozás, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nem található az a)–c) pontban foglalt feltételeknek megfelelő vállalkozás.
-
-(3) A csoport pénzügyi ágazatbeli tevékenysége jelentősnek minősül, ha a csoporton belül a pénzügyi ágazathoz tartozó szabályozott és nem szabályozott vállalkozások mérlegfőösszegeinek összege meghaladja a csoport összesített mérlegfőösszegének negyven százalékát.
-
-(4) Az adott pénzügyi ágazatbeli tevékenység jelentősnek minősül, ha
-
-- a) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a mérlegfőösszege és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített mérlegfőösszege arányának és
-- b) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a tőkekövetelménye és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített tőkekövetelménye arányának
-
-számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgáltatási, mind a banki és befektetési szolgáltatási ágazatban. A számítások során a banki és a befektetési szolgáltatási ágazat egy ágazatnak tekintendő.
-
-(5) A pénzügyi ágazaton belüli ágazatok közötti tevékenység jelentősnek minősül, ha a (4) bekezdés szerinti számítások alapján legkisebb ágazat mérlegfőösszege is meghaladja a hatmilliárd eurót.
-
-(6) A Felügyelet mint koordinátor az érdekelt felügyeleti hatóságokkal együttműködve pénzügyi konglomerátumnak tekinthet egy csoportot, és előírhatja a 189/F–189/G. § rendelkezéseinek betartását, ha
-
-- a) a legkisebb pénzügyi ágazat nagysága meghaladja az öt százalékot 1. a (4) bekezdés alapján számított átlag tekintetében vagy 2. ezen ágazat mérlegfőösszege és a pénzügyi ágazat mérlegfőösszegének arányában vagy 3. ezen ágazat tőkekövetelménye és a pénzügyi ágazat összesített tőkekövetelményének arányában; vagy
-- b) a banki vagy a befektetési szolgáltatási ágazatban a mérlegfőösszeg és a biztosítási szolgáltatási ágazatban a bruttó díjbevétel alapján számított piaci részesedés Magyarországon meghaladja az öt százalékot.
-
-(7) Ha valamely mutató értéke a (3)–(5) bekezdésben megadott érték alá csökken, de a (3) bekezdés szerinti érték a harmincöt százalékot, a (4) bekezdés szerinti érték a nyolc százalékot, illetőleg az (5) bekezdés szerinti érték az ötmilliárd eurót eléri, akkor a csoportot ezt követően még három évig pénzügyi konglomerátumnak kell tekinteni.
-
-(8) Ha a Felügyelet látja el a koordinátori feladatokat, akkor az érdekelt felügyeleti hatóságokkal együttműködve a (7) bekezdésben említett hároméves időtartam alatt bármikor dönthet a kiegészítő felügyelet gyakorlásának megszüntetéséről.
-
-(9) A mérlegre vonatkozó számításokat a csoport vállalkozásainak számviteli összesített mérlegfőösszege alapján kell elvégezni. A csoport azon vállalkozásait, amelyekben részesedési viszonya van a csoport egy másik vállalkozásának, a számviteli törvény szerinti tőkearányos mértékben kell figyelembe venni az összesített mérlegfőösszeg megállapításakor. Ellenőrző befolyás fennálltakor az összevont (konszolidált) mérlegbeli adatokat kell figyelembe venni.
-
-(10) E fejezet alkalmazásában
-
-- a) a hitelintézet tőkekövetelménye a Hpt. 76. § (1)–(2) bekezdésében meghatározott tőkekövetelménynek és a Hpt. 5. számú melléklet 16. pontja szerinti limittúllépések értéke tőkekövetelményének az összege;
-- b) a befektetési vállalkozás tőkekövetelménye a Bszt. 105. §-ának (2) és (5) bekezdéseiben meghatározott tőkeszükséglet;
-- c) a biztosító tőkekövetelménye a 121. § (3) bekezdésében meghatározott minimális szavatoló tőke szükséglet és a 126. §-ban meghatározott minimális biztonsági tőke közül a magasabb érték;
-- d) harmadik országbeli szabályozott vállalkozás esetén a tőkekövetelmény a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – minimális tőke.
-
-(11) Ha egy pénzügyi konglomerátumon belül egy másik pénzügyi konglomerátum is található, akkor ez utóbbi pénzügyi konglomerátumra ezen fejezet előírásait nem kell alkalmazni.
-
-(12) E fejezet alkalmazásában biztosító alatt a 3. § (1) bekezdésének 10. pontjától eltérően a harmadik országbeli biztosítót is érteni kell.
-
-### Kiegészítő felügyelet
-
-189/B. § (1) A kiegészítő felügyelet célja a pénzügyi konglomerátum csoport szintű prudens működésének felügyelete. Ennek érdekében a kiegészítő felügyeletet ellátó Felügyelet a pénzügyi konglomerátum kockázatvállalását, csoporton belüli ügyleteit, tőkemegfelelését, belső kontroll rendszerét és kockázatkezelését a csoport szintjén felügyeli.
-
-(2) Kiegészítő felügyelet alá tartozik a pénzügyi konglomerátum élén álló biztosító,
-
-- a) amely ellenőrző befolyással vagy részesedési viszonnyal rendelkezik szabályozott vállalkozásban, amelyek közül legalább egy hitelintézet vagy befektetési vállalkozás, vagy
-- b) amelynek anyavállalata az Európai Unió valamely tagállamában székhellyel rendelkező vegyes pénzügyi holding társaság, vagy
-- c) amely ellenőrző befolyással rendelkezik egy banki vagy befektetési szolgáltatási ágazatbeli vállalkozásban.
-
-(3) A kiegészítő felügyelet kiterjed
-
-- a) a pénzügyi konglomerátumhoz tartozó vállalkozásra,
-- b) a pénzügyi konglomerátumhoz tartozó biztosítóra, amelynek anyavállalata harmadik országban székhellyel rendelkező szabályozott vállalkozás,
-- c) a pénzügyi konglomerátumhoz tartozó biztosítóra, amelynek anyavállalata harmadik országban székhellyel rendelkező vegyes pénzügyi holding társaság.
-
-189/C. § (1) Ha a Felügyelet az általa engedélyezett biztosítót e fejezet alapján pénzügyi konglomerátumhoz tartozó vállalkozásnak minősíti, akkor a kiegészítő felügyelet e vállalkozásra és a csoportra kiterjed.
-
-(2) Az (1) bekezdés szerint pénzügyi konglomerátumnak minősítés érdekében a Felügyelet
-
-- a) folyamatosan vizsgálja, hogy az általa engedélyezett biztosító pénzügyi konglomerátumhoz tartozik-e,
-- b) szorosan együttműködik a csoporton belüli szabályozott vállalkozás felügyeleti hatóságával,
-- c) értesíti az érintett felügyeleti hatóságot, ha egy magyarországi székhellyel rendelkező szabályozott vállalkozásról megállapítja, hogy az a pénzügyi konglomerátumhoz tartozik.
-
-189/D. § (1) A Felügyelet feladata a 189/B. § (2) bekezdésében, illetőleg a 189/B. § (3) bekezdésének b) és c) pontjában meghatározott, Magyarországon székhellyel rendelkező biztosító kiegészítő felügyelete.
-
-(2) A Felügyeletnek nem feladata a vegyes pénzügyi holding társaság, a pénzügyi konglomerátumhoz tartozó harmadik országbeli és pénzügyi ágazaton kívüli nem szabályozott vállalkozás egyedi alapú vizsgálata, elemzése, értékelése.
-
-(3) Ha a Felügyelet önállóan vagy az érdekelt felügyeleti hatóságokkal együttműködve dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, akkor kiegészítő felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű biztosítót, illetőleg meghatározhatja, hogy valamely vállalkozásra a kiegészítő felügyelet kiterjed.
-
-(4) A Felügyelet az érdekelt felügyeleti hatóságokkal együttműködve
-
-- a) egy – a koordinátor által a 189/F. § (5) bekezdésében mentesített – vállalkozást, a koordinátor kezdeményezésére, a 189/A. § (3)–(5) bekezdésében meghatározott számításokból figyelmen kívül hagyhat, illetőleg
-- b) a 189/A. § (3) és (4) bekezdésében meghatározott küszöbérték számítása során, a koordinátor kezdeményezésére, három egymást követő évet vehet figyelembe, illetőleg – amennyiben jelentős változások következnek be a csoport szerkezetében – e küszöbértékek teljesülésétől eltekinthet, illetőleg
-- c) a 189/A. § (3) és (4) bekezdésének alkalmazása során – kivételes esetben – a mérlegfőösszegen alapuló mutatószámot helyettesítheti vagy kiegészítheti a bevételi szerkezeten, illetőleg a mérlegen kívüli tevékenységeken alapuló mutatószámmal, ha azokat a kiegészítő felügyelet célját tekintve meghatározónak tartja.
-
-### A kiegészítő felügyelet alá tartozó biztosító prudens működése
-
-189/E. § (1) A kiegészítő felügyelet alá tartozó biztosító, illetőleg a vegyes pénzügyi holding társaság felelős azért, hogy az ellenőrző befolyása alatt álló vállalkozások együttesére is biztosított legyen a prudens működés, a kockázatvállalási és a tőkemegfelelési előírások betartása.
-
-(2) A kiegészítő felügyelet alá tartozó biztosító, illetőleg a vegyes pénzügyi holding társaság a kiegészítő felügyeletre vonatkozó előírások betartása és végrehajtása érdekében utasíthatja az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozást, amely köteles azt végrehajtani.
-
-(3) A kiegészítő felügyelet alá tartozó biztosító igazgatósága köteles megjelölni, melyik tagja felelős az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozás prudens működéséért.
-
-### A kiegészítő felügyelet alá tartozó biztosító pénzügyi konglomerátum szintű kockázatvállalása, csoporton belüli ügyletei és tőkemegfelelése
-
-189/F. § (1) A kiegészítő felügyelet alá tartozó biztosító a pénzügyi konglomerátum szintjén is köteles megfelelni a tőkemegfelelési előírásnak és rögzíteni a pénzügyi konglomerátum szintjére vonatkozó tőkemegfelelési elveket.
-
-(2) A kockázatvállalásra és a csoporton belüli ügyletekre vonatkozó (9) bekezdés szerinti adatot és információt, a tőkemegfelelési előírásoknak való kiegészítő felügyeleti szintű megfelelést a kiegészítő felügyelet alá tartozó biztosító, illetőleg a vegyes pénzügyi holding társaság határozza meg évente legalább egy alkalommal. Ezek eredményét és a meghatározásuk alapjául szolgáló lényeges adatokat a pénzügyi konglomerátum élén álló biztosító vagy a vegyes pénzügyi holding társaság jelenti a koordinátor részére.
-
-(3) Ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás – de nem vegyes pénzügyi holding társaság – áll, a Felügyelet mint koordinátor által – az érdekelt felügyeleti hatósággal és a pénzügyi konglomerátummal történt egyeztetést követően – kijelölt, a pénzügyi konglomerátumhoz tartozó biztosító nyújtja be a (2) bekezdésben említett eredményeket és annak meghatározását szolgáló lényeges adatokat a koordinátor részére.
-
-(4) A vegyes pénzügyi holding társaság köteles a számításokat átadni a kiegészítő felügyelet alá tartozó biztosítónak. A vegyes pénzügyi holding társaság kiegészítő felügyelet alá tartozó biztosító leányvállalata a kiegészítő felügyeleti szintű számításokhoz szükséges egyedi adatokat köteles elkülönítetten kezelni, és azokat nem használhatja fel más célra.
-
-(5) A Felügyelet mint koordinátor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól mentesíthet egy vállalkozást, ha
-
-- a) székhelye olyan harmadik országban van, amelynek jogrendszere nem teszi lehetővé a szükséges adatok, információk átadását vagy
-- b) bevonása a kiegészítő felügyelet célját tekintve félrevezető eredményre vezetne vagy
-- c) bevonása a kiegészítő felügyelet célját tekintve elhanyagolható lenne.
-
-(6) Az (5) bekezdés b) pontjában meghatározott mentesítést lehetővé tevő döntés meghozatala előtt a Felügyelet mint koordinátor – a sürgős esetek kivételével – egyeztet az érdekelt illetékes hatóságokkal.
-
-(7) Ha több vállalkozás külön-külön mentesíthető lenne az (5) bekezdés c) pontja alapján, de együttesen nem tekinthető elhanyagolható jelentőségűnek, akkor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól nem mentesíthető.
-
-(8) Az (5) bekezdés b) és c) pontja alapján mentesített biztosító székhelye szerinti tagállam felügyeleti hatósága a pénzügyi konglomerátum élén álló vállalkozástól a biztosító felügyelete érdekében adatot és információt kérhet.
-
-(9) A Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal lefolytatott egyeztetés alapján határozza meg, mely csoporton belüli ügyletet és mely kockázatot kell figyelembe venni a (2)–(4) bekezdés szerinti számítások során. Az egyeztetéskor figyelembe kell venni a pénzügyi konglomerátum csoportszerkezetét és a pénzügyi konglomerátum egészének kockázatkezelését. A csoporton belüli ügylet és a kockázatvállalás jelentős mértékének meghatározása érdekében a Felügyelet mint koordinátor – az érdekelt felügyeleti hatóságokkal és a pénzügyi konglomerátummal folytatott egyeztetés alapján – megállapítja a szavatoló tőkére, illetőleg a biztosítástechnikai tartalékra vonatkozó küszöbértéket.
-
-(10) Ha a (9) bekezdés alapján a kockázatvállalásra és a csoporton belüli ügyletre vonatkozó küszöbérték nem kerül meghatározásra, akkor az ügylet abban az esetben minősül jelentősnek, ha értéke meghaladja a pénzügyi konglomerátum szintjén az összesített tőkekövetelmény öt százalékát.
-
-(11) A pénzügyi konglomerátum szintű tőkemegfelelési számítások módját külön jogszabály tartalmazza.
-
-### A kiegészítő felügyelet alá tartozó biztosító pénzügyi konglomerátum szintű kockázatkezelési és belső kontroll rendszere
-
-189/G. § (1) A kiegészítő felügyelet alá tartozó biztosító köteles gondoskodni a pénzügyi konglomerátum szintű belső kontroll rendszer és kockázatkezelés megfelelő működéséről.
-
-(2) A kockázatkezelés magában foglalja:
-
-- a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és stratégiák alapján megvalósuló vállalatirányítást,
-- b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
-- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
-- d) azokat a legalább évente felülvizsgált szabályokat, amelyek a megfelelő helyreállítási és szanálási intézkedésekhez és tervekhez való hozzájárulást és – szükség esetén – azok kidolgozását célozzák.
-
-(3) A belső kontroll rendszer magában foglalja:
-
-- a) a jelentős kockázatok azonosítását és mérését, valamint a szavatoló tőkének a kockázatokhoz való hozzárendelését,
-- b) a csoporton belüli ügyletek és a kockázatvállalás azonosítását, mérését és ellenőrzését.
-
-(4) A kiegészítő felügyelet alá tartozó biztosítónak rendelkeznie kell a kiegészítő felügyelet érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetőleg azok megbízhatóságát biztosító informatikai és belső kontroll rendszerrel.
-
-### A koordinátor
-
-189/H. § (1) A Felügyelet mint érintett hatóság együttműködik az Európai Unió tagállamainak érintett hatóságaival a pénzügyi konglomerátumbeli vállalkozások kiegészítő felügyeletének összehangolásáért és ellátásáért felelős felügyeleti hatóság (a továbbiakban: koordinátor) kijelölése során.
-
-(2) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén álló biztosító tevékenységének megkezdését a Felügyelet engedélyezte.
-
-(3) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás áll és
-
-- a) a Felügyelet által engedélyezett biztosító anyavállalata vegyes pénzügyi holding társaság vagy
-- b) több, az Európai Unió tagállamában székhellyel rendelkező szabályozott vállalkozás anyavállalata Magyarországon székhellyel rendelkező vegyes pénzügyi holding társaság és a pénzügyi konglomerátum valamely biztosítója magyarországi székhellyel rendelkezik vagy
-- c) a pénzügyi konglomerátumban nem található a vegyes pénzügyi holding társaság székhelyének tagállamában engedélyezett biztosító, a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata a biztosítási szolgáltatási ágazat, valamint a legnagyobb mérlegfőösszege magyarországi székhellyel rendelkező biztosítónak van.
-
-(4) A Felügyelet látja el a koordinátori feladatokat, ha
-
-- a) a pénzügyi konglomerátum élén több, az Európai Unió különböző tagállamaiban székhellyel rendelkező vegyes pénzügyi holding társaság áll és ezen tagállamok mindegyikében rendelkezik a pénzügyi konglomerátum szabályozott vállalkozással, vagy
-- b) a pénzügyi konglomerátum élén nem áll anyavállalat, valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata a biztosítási szolgáltatási ágazat és a pénzügyi konglomerátumon belül a legnagyobb mérlegfőösszege egy magyarországi székhellyel rendelkező biztosítónak van.
-
-(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint megbízhat más érintett felügyeleti hatóságot a koordinátori feladatok ellátásával, ha a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét is.
-
-### A koordinátor feladata
-
-189/I. § (1) A Felügyelet koordinátorként
-
-- a) ellátja a pénzügyi konglomerátum pénzügyi helyzetének áttekintését és értékelését,
-- b) összegyűjti és továbbítja az érintett felügyeleti hatóságok részére a pénzügyi konglomerátum vállalkozásaira vonatkozó adatokat és információkat,
-- c) ellenőrzi a 189/F. §-ban foglalt, a pénzügyi konglomerátumon belüli kockázatvállalásra, tőkekövetelményre és csoporton belüli ügyletekre vonatkozó rendelkezések betartását,
-- d) ellenőrzi a 189/G. §-ban foglalt, a pénzügyi konglomerátum belső kontroll rendszerére és kockázatkezelésére vonatkozó rendelkezések betartását,
-- e) az érintett felügyeleti hatóságokkal együttműködve megtervezi és összehangolja a felügyeleti feladatok ellátását,
-- f) a kiegészítő felügyelet céljának elérése érdekében felmerülő egyéb feladatokat ellátja, a szükséges intézkedéseket megteszi, és a döntéseket meghozza,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az Európai Bizottságot valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az európai felügyeleti hatóságok vegyes bizottságát valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
-
-(2) A kiegészítő felügyelet elősegítése és megvalósítása érdekében a Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal, valamint szükség esetén más érdekelt felügyeleti hatóságokkal együttműködési megállapodást köt.
-
-### A felügyeleti hatóságokkal történő együttműködés
-
-189/J. § (1) A Felügyelet szorosan együttműködik az érintett felügyeleti hatóságokkal a pénzügyi konglomerátum kiegészítő felügyeletének ellátása érdekében. A Felügyelet a kiegészítő felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat az érintett felügyeleti hatóságok részére átadja.
-
-(2) Az érintett felügyeleti hatóságokkal történő együttműködés a következőkre terjed ki:
-
-- a) a pénzügyi konglomerátum csoportszerkezetének meghatározására, valamint a csoport szabályozott vállalkozásainak felügyeletét ellátó felügyeleti hatóság azonosítására,
-- b) a pénzügyi konglomerátum stratégiai elvének és céljának figyelemmel kísérésére,
-- c) a pénzügyi konglomerátum pénzügyi helyzetének, a tőkemegfelelésének, a csoporton belüli ügyleteinek, a kockázatvállalásának és a jövedelmezőségének figyelemmel kísérésére,
-- d) a pénzügyi konglomerátumbeli vállalkozások minősített befolyással rendelkező tulajdonosának és a vezető állású személyének azonosítására,
-- e) a pénzügyi konglomerátum szervezetének, valamint a pénzügyi konglomerátum szintű kockázatkezelésnek és belső kontroll rendszernek a figyelemmel kísérésére,
-- f) a pénzügyi konglomerátum vállalkozásaitól származó információk gyűjtésére és az összegyűjtött információk ellenőrzésére,
-- g) a pénzügyi konglomerátum szabályozott vállalkozásának működését kedvezőtlenül befolyásoló változás figyelemmel kísérésére,
-- h) a felügyeleti hatóság által hozott szankciókról és kivételes intézkedésekről történő tájékoztatásra.
-
-(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal, és a Központi Bankok Európai Rendszerével és az Európai Rendszerkockázati Testülettel is folytathat információcserét.
-
-(4) A Felügyeletnek – a határozata meghozatalát megelőzően – egyeztetnie kell azon érintett felügyeleti hatósággal, amely felügyeleti feladatának ellátását a döntés érintheti
-
-- a) az engedélyhez kötött tulajdonos személyében, vezető állású személyben bekövetkezett változás,
-- b) szankciók és kivételes intézkedések
-
-tekintetében.
-
-(5) A (4) bekezdéstől eltérően nem áll fenn az előzetes egyeztetési kötelezettség sürgős esetben vagy ha az a döntés hatékonyságát kedvezőtlenül befolyásolja. Ilyenkor a Felügyeletnek az érintett hatóságokat a határozatról utólagosan és haladéktalanul tájékoztatnia kell.
-
-(6) A Felügyelet mint koordinátor a feladata ellátása érdekében a pénzügyi konglomerátum élén álló vállalkozásra vonatkozó adatok és információk átadása érdekében megkeresheti a vállalkozás székhelye szerinti felügyeleti hatóságot.
-
-### Információ átadása
-
-189/K. § (1) A pénzügyi konglomerátumon belüli szabályozott és nem szabályozott vállalkozás, valamint az érintett természetes személy köteles a pénzügyi konglomerátum élén álló vállalkozás részére minden adatot és információt megadni a kiegészítő felügyelet érdekében elvégzendő számításokhoz. Ezen egyedi adatot és információt köteles a pénzügyi konglomerátum élén álló vállalkozás elkülönítetten – az adatvédelmi előírások betartásával – kezelni.
-
-(2) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében szükséges adatért és információért az érintett felügyeleti hatósághoz fordulhat.
-
-### Felügyeleti ellenőrzés
-
-189/L. § (1) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében a pénzügyi konglomerátum vállalkozásai által átadott adatok és információk helyességét jogosult – helyszínen és helyszínen kívül – ellenőrizni.
-
-(2) A Felügyelet az Európai Unió más tagállamának érintett felügyeleti hatóságához fordulhat az ellenőrzés lefolytatása érdekében.
-
-189/M. § (1) A 189/B. § (3) bekezdésének b) és c) pontjában említett biztosítót tartalmazó pénzügyi konglomerátum esetében a pénzügyi konglomerátum élén álló harmadik országbeli anyavállalat figyelmen kívül hagyásával kell az érintett hatóságoknak kijelölniük a koordinátort.
-
-(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet és mindent elkövet, hogy az európai felügyeleti hatóságok vegyes bizottsága által készített alkalmazandó iránymutatást betartson. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
-
-(3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor az olyan pénzügyi konglomerátum kiegészítő felügyeletét, amelynek élén a 189/B. § (3) bekezdésének b), illetőleg c) pontjában meghatározott biztosító harmadik országbeli anyavállalata áll, nem a Felügyelet látja el.
-
-(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor a Felügyelet mint koordinátor látja el a kiegészítő felügyeleti feladatokat és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+189/A–189/M. §
 
 ### IV. Fejezet — A FELÜGYELET ELJÁRÁSA, INTÉZKEDÉSEI
 
@@ -3313,7 +3088,7 @@ rendeletben állapítsa meg.
 - o)
 - p) a biztosításközvetítői és biztosítási szaktanácsadói nyilvántartás működtetésének szabályait,
 - q)
-- r) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módját, tartalmát, szerkezetét és gyakoriságát
+- r)
 
 rendeletben állapítsa meg.
 
@@ -4457,6 +4232,8 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 35. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 
 36. Az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+
+37. Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
 ### 13. számú melléklet a 2003. évi LX. törvényhez
 

@@ -44,6 +44,8 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 (4) A hulladékból, az erdészeti és mezőgazdasági maradékanyagokból, a nem élelmezési célú cellulóztartalmú anyagokból és a lignocellulóz-tartalmú anyagokból előállított bioüzemanyagok hozzájárulását az egyéb bioüzemanyagok hozzájárulásához viszonyítva kétszeresen kell figyelembe venni.
 
+2/A. § Az energiapolitikáért felelős miniszter elektronikus úton, havonta frissülő honlapon a megújuló energiaforrásból előállított energiával működő járművek üzembe helyezői és üzemeltetői, valamint felhasználói számára a megújuló energia közlekedési célú felhasználásának elősegítése céljából tájékoztatást nyújt a megújuló energiaforrásból előállított energiával működő járművek használatáról és az ilyen járművek használatával összefüggő előnyökről. A tájékoztatásra vonatkozó részletes szabályokat az energiapolitikáért felelős miniszter e törvény végrehajtására kiadott rendeletben állapítja meg.
+
 #### 3. A bioüzemanyagok fenntarthatósági követelményei
 
 3. § (1) A bioüzemanyagot
@@ -179,13 +181,13 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - l) a 3. § és a 7. § szerinti bírság megállapításával, mérséklésével és megfizetésével kapcsolatos részletes szabályokat,
 - m) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 - n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét,
-- o) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás, jelentéstétel és ezek elmulasztása esetén fizetendő bírság kiszabásának és megfizetésének részletes szabályait.
+- o)
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 
-- a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból származó energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
+- a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
 - b) az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyag üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait,
-- c) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás szabályait rendeletben állapítsa meg.
+- c) a megújuló energia közlekedési célú felhasználásáról, a megújuló energiaforrásból előállított energiával működő járművek használatáról és az azzal kapcsolatos előnyökről szóló tájékoztatás szabályait, rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a bioüzemanyag-előállítás fenntartható minősítésének igazolásáért, nyilvántartásba vételéért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
@@ -199,7 +201,9 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (4)
 
-14/A. § A 13. § (1) bekezdésben meghatározott rendeletek hatálybalépéséig az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény és a Jöt. 2010. december 4. napján hatályos rendelkezéseit kell alkalmazni.
+14/A. § Az 5. § (3) bekezdésében foglaltaktól eltérően a Kormány a 2016. évben kötelezően bekeverendő bioüzemanyag-részarány mértékét a 2014. évben határozza meg.
+
+14/B. § A 9. §-ban foglalt rendelkezéseket a 13. § (2) bekezdés a) pontja szerinti felhatalmazás alapján kiadott rendelet hatálybalépésének napjától kell alkalmazni.
 
 15. § E törvény
 
@@ -210,7 +214,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - e) a 2009/28/EK irányelv 3. cikk (4) bekezdés a)–c) pontjának,
 - f) a 2009/28/EK irányelv 5. cikk (1) bekezdés 3. albekezdésének,
 - g) a 2009/28/EK irányelv 21. cikk (2) bekezdésének,
-- h) 2003/30/EK irányelv 4. cikk (1) bekezdésének való megfelelést szolgálja.
+- h) 2003/30/EK irányelv 4. cikk (1) bekezdésének,
+- i) a 2009/28/EK irányelv 14. cikk (1) bekezdésének való megfelelést szolgálja.
 
 15/A. § E törvény 11/A. §-a az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 

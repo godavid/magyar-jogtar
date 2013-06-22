@@ -315,11 +315,30 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 
 ### A radioaktív és nukleáris anyagok nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályai
 
-16. § (1) Az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 20. és 21. pontjának megfelelően a radioaktív anyagokról – és ezen belül elkülönítetten a nukleáris anyagokról – központi nyilvántartást vezet, amely tartalmazza a radioaktív anyagok helyét, fizikai és kémiai tulajdonságait, valamint az atomenergia alkalmazóját és a velük kapcsolatos tevékenységeket. A központi nyilvántartás adatai statisztikai célokra is felhasználhatók.
+16. § (1) Az atomenergia-felügyeleti szerv a 17. § (2) bekezdés 20. és 21. pontjának megfelelően a radioaktív anyagokról – és ezen belül elkülönítetten a nukleáris anyagokról – központi nyilvántartást vezet, amely a név és az elérhetőségi adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
 
 (2) Az atomenergia alkalmazója a birtokában lévő radioaktív anyagok helyéről, fizikai, kémiai tulajdonságairól és a velük kapcsolatos tevékenységekről helyi nyilvántartást vezet, kezeli a helyi nyilvántartás adatait, beleértve a (4) bekezdés szerinti személyes adatokat is, és adatokat szolgáltat a központi nyilvántartás számára. A nyilvántartást az atomenergia alkalmazója az adatszolgáltatási kötelezettségének megszűnését követő öt évig köteles megőrizni.
 
 (3) Az atomenergia-felügyeleti szerv kialakítja és működteti a központi nyilvántartás rendszerét, központi nyilvántartásba veszi a helyi nyilvántartásokat, továbbá ellenőrzi a központi és helyi nyilvántartások adattartalmának egyezését, valamint a helyi nyilvántartásban nyilvántartott radioaktív anyagokat és a tényleges állományt.
+
+(3a) A központi nyilvántartás tartalmazza:
+
+- a) a radioaktív anyagok helyét, fizikai és kémiai tulajdonságait,
+- b) a radioaktív anyag tulajdonosának és birtokosának nevét és lakcímét,
+- c) az atomenergia alkalmazóját és a radioaktív anyaggal kapcsolatos tevékenységeket,
+- d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság vezetőjének nevét és címét,
+- e) a radioaktív anyag feltalálási helyét,
+- f) zárt sugárforrások esetében – ideértve a radioaktív hulladékká minősített zárt sugárforrásokat is – tulajdonosonként és birtokosonként és radionuklidonként a radioaktív anyagok engedélyezett maximális készletét, aktuális készletét, fajtáját, aktivitását és rendeltetését (a felhasználás és az alkalmazás engedélyezett formáját),
+- g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
+- h) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
+
+(3b) A központi nyilvántartás nukleáris anyagok esetében tartalmazza továbbá:
+
+- a) a nukleáris üzemanyagciklussal kapcsolatos tevékenységeket és telephelyeket,
+- b) az egyes nukleáris anyaggal rendelkező szervezetek rendelkezése alá tartozó nukleáris anyagok minőségét és mennyiségét elemenként (urán, plutónium, tórium), valamint hasadóanyag tartalmát,
+- c) az összes nukleáris anyaggal rendelkező szervezet rendelkezése alá tartozó nukleáris anyagok minőségét és összesített mennyiségét elemenként (urán, plutónium, tórium), valamint összesített hasadóanyag tartalmát,
+- d) a nukleáris anyagoknak a nukleáris anyaggal rendelkező szervezetek közötti forgalmát,
+- e) a nemzetközi jelentésekben és adatszolgáltatásokban szereplő adatközlések helyességét.
 
 (4) Az atomenergia-felügyeleti szerv kezeli és feldolgozza a központi nyilvántartás részét képező következő személyes adatokat:
 
@@ -335,7 +354,9 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 
 (6) Az atomenergia-felügyeleti szerv a személyes adatokat a (2) bekezdésben meghatározott helyi nyilvántartási és adatszolgáltatási kötelezettség megszűnésétől számított öt évig kezeli. Ezt követően az adatokat archív adatbázisba helyezi. Az archív adatbázisból az adatok selejtezése a radioaktív (ezen belül nukleáris) anyag végleges elhelyezését, az országból való kiszállítását vagy teljes felhasználását követően történik.
 
-(7) A rendőrség, a nemzetbiztonsági szolgálatok és az egészségügyi államigazgatási szerv jogszabályban előírt feladatai ellátásához – térítésmentesen – adatokat, beleértve a (4) bekezdésben meghatározott adatokat is, igényelhet a központi nyilvántartásból.
+(6a) A radioaktív és a nukleáris anyagok központi nyilvántartásában szereplő adatok nemzetbiztonsági érdekből nem nyilvánosak.
+
+(7) Saját magára vonatkozóan valamennyi, radioaktív és nukleáris anyaggal rendelkező és adatszolgáltatásra kötelezett személy vagy szervezet adatot igényelhet a radioaktív és a nukleáris anyagok nyilvántartásából. A rendőrség a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme céljából, a nemzetbiztonsági szolgálatok a nemzetbiztonsági ellenőrzéssel összefüggő feladatok ellátása céljából, az egészségügyi államigazgatási szerv a közegészségügyi feladatai ellátása céljából, a bíróság a büntetőeljárás lefolytatása, büntetés és intézkedés végrehajtása, továbbá polgári perben a tényállás megállapítása céljából – térítésmentesen – adatokat, beleértve a (4) bekezdésben meghatározott adatokat is, igényelhet a központi nyilvántartásból. A központi nyilvántartás adatai statisztikai célokra felhasználhatók.
 
 (8) A radioaktív anyagok – és ezen belül elkülönítetten a nukleáris anyagok – nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás részletes szabályait jogszabály állapítja meg.
 
@@ -427,7 +448,7 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 
 (2) Szakértőként kizárólag független és pártatlan személy járhat el, akit a követelményeknek való megfelelésről szóló döntés, a vélemény és a megállapítás közlésekor annak tartalmához személyes érdek nem fűz, kizárólag szakmai szempontjai vezetik, és munkájáért járó díja szakvéleménye tartalmától nem függ.
 
-(3) Az energiapolitikáért felelős miniszter az általa kiadott rendeletben határozza meg, hogy a szakértői tevékenységgel kapcsolatos mely eljárásokért és milyen összegű igazgatási szolgáltatási díjat kell fizetni.
+(3) A szakértői tevékenység engedélyezése, új szakterülettel való bővítésének engedélyezése iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
 19/B. § (1) Szakértői tevékenység folytatását a kamara annak engedélyezi, aki
 
@@ -447,6 +468,8 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 - g) a szakértői tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat jogerőre emelkedésének napját,
 - h) a szakértői tevékenység szünetelésének tényét, kezdő napját és időtartamát,
 - i) a nyilvántartási számot.
+
+(3a) A nyilvántartás a (3) bekezdés d)–i) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános a szakértő szakmai gyakorlatának rövid leírása és ideje, a szakterület, a szakértő engedélye kiállításának napja, a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat jogerőre emelkedésének napja, a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama, valamint a nyilvántartási szám. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
 
@@ -831,7 +854,7 @@ kezeli.
 
 68. § (1) Felhatalmazást kap az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter, hogy rendeletben szabályozza
 
-- a) a nukleáris anyagok nyilvántartásának és ellenőrzésének – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
+- a) a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait az egészségügyért felelős miniszterrel, a rendészetért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 - b) a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait az egészségügyért, a rendészetért, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben;
 - c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 - d) a nukleáris és más radioaktív anyagok nyilvántartásával összefüggő igazgatási szolgáltatások igénybevételéért, továbbá az atomenergia-felügyeleti szerv hatósági tevékenységéért, ezen belül a nukleáris biztonsági hatósági tevékenységért fizetendő díjakat az adópolitikáért felelős miniszterrel egyetértésben;

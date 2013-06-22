@@ -51,7 +51,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 11a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
 - 12. Elszámolási pont: az elszámolási mérés, vagy a mérési rendszer alapján létrehozott vagy mérésekből számítási eljárással képzett elszámolási mérési pont, amelyhez egyértelműen hozzárendelhető a menetrend, a rendszerszintű szolgáltatás, az elszámolási mérés, és amely elszámolási pont a csatlakozási ponttal egyértelműen összerendelhető;
 - 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
-- 13a. Eredetigazolás: olyan dokumentum, amely igazolja a megújuló energiaforrásból előállított vagy a nagyhatékonyságú, hasznos hőigényen alapuló, kapcsoltan termelt villamos energia mennyiségét;
+- 13a. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az adott termelő egység által előállított villamos energia meghatározott mennyisége megújuló energiaforrásból vagy nagy hatékonyságú kapcsolt energiatermelésből származik;
 - 14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel, engedélyezési szempontból ideértve az energia tározós erőművet is;
 - 15. Erőművi névleges teljesítőképesség: a beépített villamosenergia-termelő egységek generátorkapcson, tervezési körülmények között mért névleges aktív (wattos) teljesítményeinek összege;
 - 16. Felhasználási hely: egy vagy több csatlakozási ponton keresztül ellátott, összefüggő terület, ahol a felhasználó a villamos energiát felhasználja;
@@ -94,6 +94,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 - 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
 - 45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
+- 45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az eladási ár emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 - 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 - 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 - 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
@@ -162,9 +163,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (2)–(3)
 
-6/A. § (1) A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából eredetigazolást állít ki, és gondoskodik az eredetigazolások elektronikus nyilvántartásáról.
-
-(2) Amennyiben az eredetigazolás kiállítására a kötelező átvételi rendszerben való részvételi jogosultság ellenőrzése céljából kerül sor, úgy a 12. § (1) bekezdésében foglaltakat kell alkalmazni.
+6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák elektronikus nyilvántartásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 ### Új termelő kapacitások létesítése
 
@@ -177,6 +176,12 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 (4) A pályázati kiírásnak részletes leírást kell adnia a pályázati eljárásról, továbbá a pályázat értékelési szempontjairól.
 
 (5) Megújuló energiaforrást hasznosító új termelőkapacitások létesítése során, valamint kiemelt európai szervezettel való kutatás-fejlesztési célú együttműködés biztosításra az állam érdekében létesített kutatási szervezet mint felhasználó esetében a hálózati engedélyesek az e törvény végrehajtására kiadott jogszabályban és a Hivatal határozatában meghatározott feltételek szerint és mértékben kötelesek viselni a közcélú hálózat műszaki átalakításából (különösen hálózati csatlakozások és a hálózat megerősítéséből) származó azon költségeket, amelyek az elosztó és átviteli hálózatra való csatlakozás műszaki feltételeit megteremtik. Ezen költségeknek a hálózati engedélyeseket terhelő részét a Hivatal a rendszerhasználati díjak megállapítása során indokolt mértékben figyelembe veszi.
+
+7/A. § (1) Megújulóenergia-támogatási rendszer keretében támogatás kizárólag azon megújuló energiaforrást hasznosító energiatermelő berendezések létesítésére és működtetésére nyújtható, amelyek megfelelnek a megújuló energiaforrásból energiát termelő berendezések műszaki követelményeiről szóló rendeletben meghatározott feltételeknek.
+
+(2) Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a megújuló energiaforrások alkalmazásának és elterjesztésének elősegítéséről, a megújuló energiaforrásból származó energia használatáról és alkalmazásáról, valamint a megújulóenergia-támogatási rendszerekről elektronikus úton, havonta frissülő honlapon nyújt tájékoztatást a felhasználók, az építőipari szakemberek, a mérnökök, tervezők, valamint a megújuló energiaforrást hasznosító energiatermelő rendszerek üzembe helyezői számára.
+
+(3) A megújulóenergia-támogatási rendszer keretében történő támogatás igénybevételéhez szükséges műszaki követelményeket, valamint a tájékoztatásra vonatkozó részletes szabályokat a miniszter e törvény végrehajtására kiadott rendeletben határozza meg.
 
 8. § (1) A Hivatal – az átviteli rendszerirányító közreműködésével, a külön jogszabályban meghatározott feltételek szerint – erőmű létesítésére és a keresletoldali szabályozási intézkedések megvalósítására pályázatot írhat ki, amennyiben Magyarországon a piaci folyamatok eredményeként rendelkezésre álló villamos energia mennyisége hosszú távon előreláthatóan nem képes kielégíteni a felhasználók várható villamosenergia-igényét, továbbá ez a környezetvédelmi célkitűzések, illetve az új, energiafelhasználás szempontjából hatékonyabb technológiák felhasználásának támogatása érdekében szükséges.
 
@@ -232,7 +237,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 11/A. § A Hivatal a Nemzeti Cselekvési Tervben foglalt, termelésre vonatkozó célok teljesülését legalább kétévente felülvizsgálja, erről nyilvános jelentést és a Kormány számára szükség szerint a 11. § (2) bekezdésben meghatározottakra kiterjedő javaslatot készít.
 
-12. § (1) A termelő kérelmére a Hivatal igazolja a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia és hasznos hő mennyiségét, valamint a kapcsoltan termelt energia előállításához felhasznált elsődleges energiaforrást.
+12. § (1) A megújuló energiaforrásból vagy a nagy hatékonyságú kapcsolt energiatermelésből származó villamos energia mennyiségét az értékesítő kizárólag származási garanciával igazolhatja a felhasználó részére.
 
 (2) Amennyiben a 11. § (1) bekezdésének b) pontja szerinti kötelező átvétel keretében értékesítő a megújuló és nem megújuló energiaforrásokat együttesen felhasználó termelő nem a külön jogszabályban meghatározott elszámolást alkalmazza, akkor a piaci ár és a kötelező átvételi ár különbségéből adódó árbevétel-többletet köteles visszafizetni, és a Hivatal jogosult vele szemben a 96. § (1) bekezdése szerinti jogkövetkezményeket alkalmazni.
 
@@ -289,7 +294,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - e) kapcsolatot tart harmadik felekkel, a Hivatallal és az Európai Unió más tagállamaiban energiapiaci szabályozó hatóságként kijelölt külföldi szabályozó hatóságokkal (a továbbiakban: külföldi szabályozó hatóság); és
 - f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására.
 
-(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.
+(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.
 
 18. § Az átviteli rendszerirányító legalább félévente köteles a Hivatal és a miniszter részére a magyar villamosenergia-rendszer rendszerszintű teljesítmény- és energiamérlegét, primer energiaforrás felhasználását, az erőművi kapacitások különböző időtávú rendelkezésre állását, az átviteli és elosztó hálózatok fejlesztését, valamint a fogyasztás alakulását bemutató állapotjelentést küldeni.
 
@@ -2657,7 +2662,7 @@ villamos energia képezi.
 - 21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózathasználati szerződés, a kapcsolt mérlegkör tagsági szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
 - 22. a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályait,
 - 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
-- 24. a megújuló energiaforrásból, a hulladékból nyert energiából és a kapcsolt energiatermelésből származó villamos energia eredetét igazoló bizonyítványra, a bizonyítvány kiadására, az ilyen energiaforrásból termelt villamos energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
+- 24. a megújuló energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat,
 - 25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 - 26. Magyarország nemzetközi kötelezettségvállalásán alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre vonatkozó részletes szabályokat,
 - 27. az e törvény szerinti hatósági árakra vonatkozó rendelkezések végrehajtásának ellenőrzésére vonatkozó eljárás, valamint az alkalmazandó jogkövetkezmények végrehajtásának részletes szabályait,
@@ -2679,7 +2684,8 @@ villamos energia képezi.
 - 43. a hálózatfejlesztési tervre vonatkozó szempontrendszert,
 - 44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
 - 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
-- 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat
+- 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
+- 47. a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját
 
 rendeletben állapítsa meg.
 
@@ -2693,8 +2699,8 @@ rendeletben állapítsa meg.
 - 6. a kapcsoltan termelt villamos energia mennyisége megállapításának számítási módját, valamint a kapcsoltan termelt villamos energia mennyiségének igazolására vonatkozó eljárás részletes szabályait,
 - 7. az engedélyesek e törvény szerinti engedélyköteles tevékenységével, különösen az átviteli rendszerirányító rendszerirányítási tevékenységével összefüggő árakkal, és a villamosenergia-fogyasztással kapcsolatos adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. § (2) bek.] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat, valamint a felhasználótól eltérő fizető megállapítására vonatkozó szabályokat,
 - 8. a felhasználók mérési adataihoz történő hozzáférés szabályait, az adatok formátumát, a mérési adatok felhasználók, valamint a villamosenergia-kereskedők részére történő átadásával kapcsolatos eljárás rendjét,
-- 9. a megújuló energiaforrásokból nyert energiával termelt villamos energiára vonatkozó eredetigazolásra figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
-- 10.
+- 9. a megújuló energiaforrásokból nyert energiával termelt energiára vonatkozó származási garanciára figyelemmel a megújuló energiaforrásokból előállított vagy felhasznált energia meghatározására és részarányának számítására vonatkozó eljárás szabályait, valamint a megújuló energiaforrásokból előállított vagy felhasznált energia mennyiségének számítási módját energiaforrásonként és felhasználási módonként,
+- 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,
 - 11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit, valamint csatlakozási díjak meghatározásának szempontjait és a díjak elemeit,
 - 12.
 - 13. az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztási szabályait és a szétosztás során alkalmazható árak meghatározásának módját,
@@ -2972,7 +2978,9 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) E törvény 3. § 28. pontja, 3. § 30. pontja és 3. § 40. pontja a hasznos hőigényen alapuló kapcsolt energiatermelés belső energiapiacon való támogatásáról és a 92/42/EGK irányelv módosításáról szóló 2004. február 11-i 2004/8/EK európai parlamenti és tanácsi irányelv 3. cikk b)–d) pontjának való megfelelést szolgálja.
 
-(3) E törvény 3. § 4. pontja, 3. § 13a. pontja és 3. § 47. pontja a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk e) és j) pontjának, valamint 4. cikk (1) bekezdésének való megfelelést szolgálja.
+(3) A 3. § 4. pontja, a 3. § 13a. pontja, a 3. § 45b. pontja és a 3. § 47. pontja, valamint a 6/A. §, a 7/A. §, a 12. § (1) bekezdése, a 170. § (1) bekezdés 24. pontja, a 170. § (2) bekezdés 9. és 10. pontja a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk e), j), k) pontjának, 4. cikk (1) bekezdésének, 13. cikk (2) és (6) bekezdésének, 14. cikk (1), (2), (5) és (6) bekezdésének, valamint 15. cikkének való megfelelést szolgálja.
+
+(3a) A 3. § 13a. pontja, a 6/A. §, a 170. § (1) bekezdése az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikk (10) bekezdésének való megfelelést szolgálja.
 
 (4) Ez a törvény
 
