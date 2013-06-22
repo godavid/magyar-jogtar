@@ -328,12 +328,14 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (8) Törvény előírhatja, hogy meghatározott közszolgáltatást kizárólag erre a célra alapított költségvetési szerv, olyan állami vagy legalább többségi önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, amelyben az állam vagy az önkormányzat legalább többségi befolyással bír vagy e gazdasági társaság legalább többségi tulajdonában álló és legalább többségi befolyása alatt álló jogi személyiséggel rendelkező gazdasági társaság vagy önkormányzati társulás láthat el.
 
+(9) A helyi önkormányzat képviselő-testülete az államháztartáson kívüli forrás átvételére és átadására vonatkozó rendelkezéseket rendeletben szabályozza.
+
 42. § A képviselő-testület hatásköréből nem ruházható át:
 
 - 1. a rendeletalkotás;
 - 2. szervezetének kialakítása és működésének meghatározása, a törvény által hatáskörébe utalt választás, kinevezés, vezetői megbízás;
 - 3. a helyi népszavazás elrendelése, kitüntetések és elismerő címek alapítása;
-- 4. a gazdasági program, a hitelfelvétel, a kötvénykibocsátás, a kölcsönfelvétel vagy más adósságot keletkeztető kötelezettségvállalás, államháztartáson kívüli forrás átvétele, átadása;
+- 4. a gazdasági program, a hitelfelvétel, a kötvénykibocsátás, a kölcsönfelvétel vagy más adósságot keletkeztető kötelezettségvállalás, alapítványi forrás átvétele és átadása;
 - 5. önkormányzati társulás létrehozása, megszüntetése, abból történő kiválás, a társulási megállapodás módosítása, társuláshoz, érdekképviseleti szervezethez való csatlakozás, abból történő kiválás;
 - 6. megállapodás külföldi önkormányzattal való együttműködésről, nemzetközi önkormányzati szervezethez való csatlakozás, abból történő kiválás;
 - 7. intézmény alapítása, átszervezése, megszüntetése;
