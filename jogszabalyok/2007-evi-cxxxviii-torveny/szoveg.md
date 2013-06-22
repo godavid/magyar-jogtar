@@ -551,7 +551,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 - r) a kockázatok figyelemmel kísérésére, mérésére, ellenőrzésére és kezelésére vonatkozó szabályzat tervezetét,
 - s) a kereskedési könyv vezetésére vonatkozó szabályzat tervezetét,
 - t) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a befektetési vállalkozással szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a befektetési vállalkozás összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt átadják,
-- u) a befektetési vállalkozással szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a befektetési vállalkozás részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához,
+- u) a befektetési vállalkozással szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a befektetési vállalkozás részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához,
 - v) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy vagy szervezet azonosító adatait,
 - w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást.
 
@@ -1946,18 +1946,18 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 (4) Ha a befektetési szolgáltatási tevékenységet e törvény rendelkezései alapján hitelintézet végzi, az egy ügyféllel vagy ügyfélcsoporttal szemben vállalt kockázatok összértékének meghatározása során a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások alapján számított kockázatokat és a Hpt. alapján számított kockázatokat összevontan veszi figyelembe.
 
-102. § (1) Az EU-szintű befektetési vállalkozás anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatai
+102. § (1) Az EU-szintű befektetési vállalkozás anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat és annak leányvállalatai vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat és annak leányvállalatai
 
 - a) az eszköz vagy mérlegen kívüli tételek kockázattal súlyozott értékének e törvény felhatalmazása alapján kiadott rendeletben meghatározott belső minősítésen alapuló módszerrel történő számítását,
-- b) a központi kormányokkal, központi bankokkal, hitelintézetekkel, befektetési vállalkozásokkal és vállalatokkal szemben fennálló követelések vagy függő követelések esetén a saját nemteljesítéskori veszteségráta és hitel- egyenértékesítési tényező becslések alkalmazását,
+- b) a központi kormányokkal, központi bankokkal, hitelintézetekkel, befektetési vállalkozásokkal és vállalatokkal szemben fennálló követelések vagy függő követelések esetén a saját nemteljesítéskori veszteségráta és hitel-egyenértékesítési tényező becslések alkalmazását,
 - c) a működési kockázat tőkekövetelményének e törvény felhatalmazása alapján kiadott rendeletben meghatározott fejlett mérési módszerrel történő számítását, vagy
-- d) a partnerkockázat tőkekövetelményének e törvény felhatalmazása alapján kiadott rendeletben meghatározott belső modell módszer szerinti számítását
+- d) a partnerkockázat tőkekövetelményének e törvény felhatalmazása alapján kiadott, a befektetési vállalkozás hitelkockázatáról szóló rendeletben meghatározott belső modell módszer szerinti számítását
 
 együttesen is alkalmazhatják.
 
-(2) Az (1) bekezdés szerinti együttes alkalmazáshoz az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának engedélye szükséges.
+(2) Az (1) bekezdés szerinti együttes alkalmazáshoz az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának engedélye szükséges.
 
-(3) A (2) bekezdésben meghatározott engedély iránti kérelmet a EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat nyújtja be a székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságához.
+(3) A (2) bekezdésben meghatározott engedély iránti kérelmet a EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat nyújtja be a székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságához.
 
 (4) Ha a (3) bekezdés szerint eljáró felügyeleti hatóság a Felügyelet, az engedélyt a 174. § szabályai szerint, az ott meghatározott eljárásában adja meg.
 
@@ -2041,7 +2041,7 @@ együttesen is alkalmazhatják.
 
 (2) A befektetési vállalkozás az (1) bekezdésben meghatározott stratégiát és eljárást legalább évente egyszer felülvizsgálja, amelynek során gondoskodik arról, hogy ennek tartalma összhangban legyen az általa végzett tevékenység jellegével, összetettségével és méretével.
 
-(3) Az EGT-állambeli befektetési vállalkozás anyavállalat, az EGT-állambeli pénzügyi holding társaság anyavállalat, az EU-szintű befektetési vállalkozás anyavállalat és az EU-szintű pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben foglaltaknak a Tpt. 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is köteles megfelelni.
+(3) Az EGT-állambeli befektetési vállalkozás anyavállalat, az EGT-állambeli pénzügyi holding társaság anyavállalat, az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben foglaltaknak a Tpt. 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is köteles megfelelni.
 
 (4) Ha egy befektetési vállalkozás ellenőrző befolyás alatt áll vagy egy vállalkozás ezen befektetési vállalkozásban részesedési viszonnyal rendelkezik és a befektetési vállalkozás maga is ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a befektetési vállalkozás az (1) és (2) bekezdésben rögzített követelményeknek a Tpt. 181/A. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is köteles megfelelni.
 
@@ -2979,7 +2979,7 @@ bírság megfizetésére kötelezheti.
 
 174. § (1) A Felügyelet a 102. § (3) bekezdése szerinti kérelem beérkezését követően
 
-- a) haladéktalanul továbbítja azt azon EGT-állam hatáskörrel rendelkező felügyeleti hatósága részére, amely területén székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
+- a) haladéktalanul továbbítja azt azon EGT-állam hatáskörrel rendelkező felügyeleti hatósága részére, amely területén székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
 - b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott EGT-állam hatáskörrel rendelkező felügyeleti hatóságát a kérelemre vonatkozó vélemény, fenntartás Felügyelet részére történő megküldésének határidejéről (a továbbiakban: többoldalú eljárás).
 
 (2) A Felügyelet a többoldalú eljárás keretében a hiánytalan kérelem beérkezésétől számított hat hónapon belül kizárólag valamennyi, az eljárásban részt vevő EGT-állam hatáskörrel rendelkező felügyeleti hatósága egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat).
@@ -2988,9 +2988,9 @@ bírság megfizetésére kötelezheti.
 
 (4) A Felügyelet a határozatát megküldi a többoldalú eljárásban részt vevő valamennyi EGT-állam hatáskörrel rendelkező felügyeleti hatóságának.
 
-175. § (1) Ha a 174. § (1) bekezdése szerinti eljárás lefolytatására más EGT-állam hatáskörrel rendelkező felügyeleti hatósága jogosult, és az EU-szintű befektetési vállalkozás anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat befektetési vállalkozásnak minősülő leányvállalatának prudenciális felügyeletét a Felügyelet látja el, akkor a Felügyelet a hiánytalan kérelem kézhezvételét követően, az eljárásra jogosult más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által meghatározott időszakon belül megküldi a 102. § (3) bekezdése szerinti kérelemre vonatkozó véleményét, fenntartását.
+175. § (1) Ha a 174. § (1) bekezdése szerinti eljárás lefolytatására más EGT-állam hatáskörrel rendelkező felügyeleti hatósága jogosult, és az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat befektetési vállalkozásnak minősülő leányvállalatának prudenciális felügyeletét a Felügyelet látja el, akkor a Felügyelet a hiánytalan kérelem kézhezvételét követően, az eljárásra jogosult más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által meghatározott időszakon belül megküldi a 102. § (3) bekezdése szerinti kérelemre vonatkozó véleményét, fenntartását.
 
-(2) Ha az EU-szintű befektetési vállalkozás anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható.
+(2) Ha az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható.
 
 (3) A Felügyelet a más EGT-állam hatáskörrel rendelkező felügyeleti hatósága határozatának tényét magyar nyelven a honlapján közzéteszi.
 
@@ -3099,7 +3099,8 @@ vonatkozó részletes szabályokat.
 - c) az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről,
 - d) az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról,
 - e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
-- f) az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról.
+- f) az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról,
+- g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
 (2) E törvény a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

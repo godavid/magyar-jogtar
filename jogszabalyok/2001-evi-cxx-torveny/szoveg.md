@@ -19,7 +19,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - i) a magyar hatóság által ellátott, e törvényben meghatározott felügyeleti tevékenységre,
 - j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 - k) befektetési vállalkozásnak nem minősülő, az összevont alapú felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg pénzügyi holdingtársasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holdingtársaságra,
-- l) befektetési vállalkozásnak nem minősülő, a kiegészítő felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
+- l)
 - m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
 - n) a Magyarország területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyarország területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
 - o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
@@ -52,7 +52,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 5. aukció: a forgalomba hozatal azon módja, amely keretén belül a kibocsátó az általa meghatározott feltételek szerint lehetőséget biztosít ajánlattételre és a beérkezett vételi ajánlatok meghatározott szempont alapján versenyeznek,
 - 6. állampapír: a magyar vagy külföldi állam, az MNB, az Európai Központi Bank vagy az Európai Unió más tagállamának jegybankja által kibocsátott, hitelviszonyt megtestesítő értékpapír,
 - 7. áru: minden vagyoni értékkel bíró forgalomképes birtokba vehető dolog, vagy dolog módjára hasznosítható természeti erő, valamint az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, ide nem értve a pénzügyi eszközt,
-- 8. banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás,
+- 8.
 - 9. befektetési ajánlás: pénzügyi eszközre, tőzsdei termékre vagy annak kibocsátójára vonatkozó olyan elemzés, javaslat vagy más információ, amelynek nyilvánosságra hozatala vagy mások számára oly módon történő hozzáférhetővé tétele, amely alapján az nyilvánosságra kerülhet, befolyásolhatja, hogy a befektető saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac hatásaitól tegye függővé,
 - 10. befektetési alap: Batv.-ben meghatározott fogalom,
 - 11.
@@ -60,14 +60,14 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 13–14.
 - 15. befektetési jegy: Batv.-ben meghatározott fogalom,
 - 16.
-- 17. befektetési szolgáltatási ágazat: befektetési vállalkozás,
+- 17.
 - 18. befektetési tanácsadás: a Bszt.-ben meghatározott tevékenység,
 - 19. befektetési vállalkozás: a Bszt.-ben meghatározott vállalkozás,
 - 20. befektető: az a személy, aki a befektetési alapkezelővel vagy más befektetővel kötött szerződés alapján saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac, illetve a szabályozott piac, tőzsde hatásaitól teszi függővé, kockáztatja,
 - 21. minősített befolyás: a Bszt.-ben meghatározott fogalom.
 - 22. befolyásszerzés: a céltársaság szavazati jogot megtestesítő részvényének, illetőleg szavazati jognak a megszerzése, ideértve a szavazati jogot biztosító részvényre vonatkozó vételi jog, visszavásárlási jog, határidős vételi megállapodás érvényesítését vagy a szavazati jog használati, haszonélvezeti jog alapján történő gyakorlását, valamint azt, ha a befolyás nem a befolyásszerző közvetlenül erre irányuló magatartása révén, hanem egyéb körülmények – így különösen jogutódlás vagy a részvénytársaságnak a részvényesek szavazati jogát érintő, a szavazati arányokat módosító határozata vagy a szavazati jogok feléledése – következtében, illetve összehangoltan eljáró személyek e célból megvalósított együttműködésének eredményeképpen jön létre,
 - 23. biztosító: a Bit. 3. §-a (1) bekezdésének 10. pontja szerinti biztosító, a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit. 3. §-a (1) bekezdésének 23. pontja szerinti harmadik országbeli biztosító is,
-- 24. biztosítási szolgáltatási ágazat: biztosító, viszontbiztosító, illetőleg biztosítói holding társaság,
+- 24.
 - 25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános ajánlattételi eljárás tárgyát képezik,
 - 26. csereügylet: az Szmt. szerinti swap ügylet,
 - 27. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
@@ -91,12 +91,10 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 35. ellenőrzött társaság: a Gt.-ben ilyenként meghatározott fogalom,
 - 36. elszámolási rendszer: pénz- és értékpapír-átutalások egységes rend és közös szabályok szerinti feldolgozására, pozícióvezetésre vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
 - 37. elszámolóház: a tőzsdén és tőzsdén kívül megkötött pénz- és tőkepiaci ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat teljesítő szakosított hitelintézet,
-- 38. EU-szintű befektetési vállalkozás anyavállalat: olyan tagállami befektetési vállalkozás anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
-- 39. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
-- 40. érintett felügyeleti hatóság:
-  - a) a pénzügyi konglomerátum szabályozott vállalkozásának felügyeletét ellátó tagállami felügyeleti hatóság, vagy
-  - b) a 18l/S. § szerinti koordinátor, vagy
-  - c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt érdekelt hatóság, ha a pénzügyi konglomerátumnak az érdekelt felügyeleti hatóság tagállamában lévő piaci részesedése eléri az öt százalékot, és az érdekelt felügyeleti hatóság által engedélyezett szabályozott vállalkozás a pénzügyi konglomerátumon belül jelentős,
+- 38. EU-szintű befektetési vállalkozás anyavállalat: olyan tagállami befektetési vállalkozás anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
+- 39. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
+- 39a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: olyan tagállami vegyes pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
+- 40.
 - 41. érintett személy: minden olyan személy, aki gazdasági vagy szakmai tevékenysége körében befektetési ajánlást készít vagy terjeszt,
 - 42. értékpapír: a forgalomba hozatal helyének joga szerint értékpapírnak minősülő pénzügyi eszköz,
 - 43. értékpapírkód: az értékpapír sorozat azonosítására szolgáló ISIN azonosító,
@@ -163,7 +161,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 99. nyílt végű befektetési alap: a Batv. szerinti befektetési alap,
 - 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek, illetőleg jogi személyiség nélküli egyéb szervezetek, akik/amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 - 101. pénzpiaci eszköz: sorozatban kibocsátott, pénzkövetelésre szóló eszköz, amellyel a pénzpiacon kereskednek,
-- 102. pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság,
+- 102.
 - 103. pénzügyi eszköz: a Bszt.-ben meghatározott eszköz,
 - 104. pénzügyi holding társaság: a Hpt.-ben meghatározott fogalom,
 - 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
@@ -185,6 +183,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 116. szabályozott információ: az összefoglaló jelentés, a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 - 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
 - 118. szoros kapcsolat: a Hpt.-ben meghatározott fogalom,
+- 118a. tagállami vegyes pénzügyi holding társaság anyavállalat: olyan vegyes pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
 - 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
 - 120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei egymással szemben – valamint a központi szerződő fél kötelezettségvállalása mellett – kötött ügylet esetében a központi szerződő fél tevékenységet végző szervezet ügyfelei és a központi szerződő fél tevékenységet végző szervezet között – fennálló pénzben meghatározott követeléseinek (pozícióinak) kiegyenlítése (átutalása), illetőleg az ügyfelek egymással szemben nem pénzben fennálló követeléseinek teljesítése (szállítása),
 - 121. termékcsoport: olyan termékek köre, amelyekkel a tőzsdén annak szabályzata alapján azonos feltételek mellett lehet kereskedni,
@@ -198,7 +197,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 129. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
 - 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató, befektetési alapkezelő által vezetett számla,
 - 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
-- 132. vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot,
+- 132. vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom,
 - 133. vegyes tevékenységű holding társaság: olyan hitelintézetnek, befektetési vállalkozásnak, pénzügyi holding társaságnak és vegyes pénzügyi holding társaságnak nem minősülő vállalkozás, amelynek legalább egy befektetési vállalkozás leányvállalata van,
 - 134. vezető állású személy:
   - a) a vállalkozás vezető tisztségviselője, felügyelő bizottsági tagja,
@@ -211,7 +210,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - c) amely esetén a szavazati jogok többségét – a vállalkozás más tulajdonosával kötött megállapodás alapján – egy személy egyedül gyakorolhatja, vagy
   - d) amely fölött a létesítő okirat, megállapodás alapján egy személy döntő befolyást, ellenőrzést gyakorol vagy gyakorolhat,
 - 137. kereskedési nap: minden munkanap, kivéve, amelyet a szabályozott piac előzetesen kereskedési szünnappá nyilvánít,
-- 138. konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó befektetési vállalkozás és EU-szintű befektetési vállalkozási anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság,
+- 138. konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó befektetési vállalkozás és EU-szintű befektetési vállalkozási anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság,
 - 139. szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése: szabályozott piacra bevezetett részvény forgalomban tartásának megszüntetése
   - a) valamennyi szabályozott piacon (kivezetés),
   - b) az adott szabályozott piacon, feltéve hogy a részvényt más szabályozott piacon forgalmazzák (átvezetés),
@@ -634,7 +633,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (6) Ha a kérelmező az értékpapírt Magyarországon nyilvánosan forgalomba kívánja hozni és a tájékoztatót nem magyar nyelven készíti el, az összefoglalót magyar nyelven is el kell készíteni. Ha a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy a tájékoztatót más tagállam hatáskörrel rendelkező felügyeleti hatósága által megadott engedély alapján teszi közzé Magyarországon, az összefoglalót magyar nyelven is el kell készíteni.
 
-(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni és közzé kell tenni.
+(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett tagállam hatáskörrel rendelkező felügyeleti hatósága által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni, és közzé kell tenni.
 
 43/A. §
 
@@ -1526,12 +1525,12 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 181/A. § (1) Összevont alapú felügyelet alá tartozik az a befektetési vállalkozás, amelynek
 
 - a) legalább egy hitelintézet, pénzügyi vállalkozás, vagy befektetési vállalkozás leányvállalata van, vagy ilyen típusú intézményben részesedési viszonnyal rendelkezik, vagy
-- b) anyavállalata pénzügyi holding társaság.
+- b) anyavállalata pénzügyi holding társaság vagy vegyes pénzügyi holding társaság.
 
 (2) Az összevont alapú felügyelet kiterjed az összevont alapú felügyelet alá tartozó befektetési vállalkozásra, és
 
 - a) az (1) bekezdés a) pontja szerinti hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelőre és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
-- b) az (1) bekezdés b) pontja szerinti pénzügyi holding társaságra és annak olyan hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelőre és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
+- b) az (1) bekezdés b) pontjában meghatározott pénzügyi holding társaságra, vegyes pénzügyi holding társaságra és annak olyan hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelőjére, alternatív befektetési alapkezelőjére és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
 
 181/B. § (1) A Felügyelet feladata a 181/A. § (1) bekezdésében meghatározott, Magyarországon bejegyzett befektetési vállalkozás összevont pénzügyi helyzeten alapuló felügyelete.
 
@@ -1628,6 +1627,12 @@ rendelkezik.
 
 (2) A 181/H. § szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
+(3) Ha a befektetési vállalkozás anyavállalata harmadik országbeli befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A vizsgálat során egyeztet az Európai Bankbizottsággal. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+
+(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+
+(5) A (4) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
+
 181/J. § (1) Ha a befektetési vállalkozás anyavállalat, akkor az összevont alapú felügyeletet az Európai Unió a befektetési vállalkozást engedélyező tagállamának hatáskörrel rendelkező felügyeleti hatósága látja el.
 
 (2) Ha a befektetési vállalkozás anyavállalata pénzügyi holding társaság, akkor az összevont alapú felügyeletet a befektetési vállalkozást engedélyező tagállam hatáskörrel rendelkező felügyeleti hatósága látja el.
@@ -1679,231 +1684,9 @@ a székhelye van, vagy amely tagállamban olyan befektetési vállalkozás léte
 
 181/K. § E fejezet, valamint a 391. § f) és g) pontjának és a 10. számú melléklet 1. m) pontjának alkalmazásában személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.
 
-### XIX/B. Fejezet — KIEGÉSZÍTŐ FELÜGYELET
+### XIX/B. Fejezet
 
-### Pénzügyi konglomerátum
-
-181/L. § (1) Pénzügyi konglomerátum – e törvény szerint – az a csoport [5. § (1) bekezdésének 27. pontja],
-
-- a) amelynek élén 1. befektetési vállalkozás áll vagy 2. nem szabályozott vállalkozás áll, és a csoport tevékenysége a (3) bekezdésben foglaltaknak megfelelően jelentős mértékben a pénzügyi ágazatba sorolható, és
-- b) amelyben van olyan vállalkozás, amely a biztosítási szolgáltatási ágazathoz és olyan vállalkozás, amely a banki vagy befektetési szolgáltatási ágazathoz tartozik és
-- c) amely vállalkozásaiban összevontan (konszolidáltan), illetőleg aggregáltan mért tevékenység mind a biztosítási szolgáltatási, mind a banki vagy befektetési szolgáltatási ágazatban jelentős a (4) vagy (5) bekezdésben meghatározott feltételeknek megfelelően.
-
-(2) A pénzügyi konglomerátum élén álló vállalkozás
-
-- a) az anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások közül egyetlen vállalkozás sem rendelkezik benne ellenőrző befolyással vagy részesedési viszonnyal,
-- b) a legnagyobb mérlegfőösszegű anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között több, az a) pontban foglaltaknak megfelelő anyavállalat található,
-- c) a legnagyobb mérlegfőösszegű vállalkozás azon vállalkozások közül, amelyekben – a pénzügyi konglomerátumhoz tartozó vállalkozások közül – egyetlen vállalkozás sem rendelkezik ellenőrző befolyással vagy részesedési viszonnyal, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nincs az a) pontban foglaltaknak megfelelő anyavállalat,
-- d) a legnagyobb mérlegfőösszegű vállalkozás, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nem található az a)–c) pontban foglalt feltételeknek megfelelő vállalkozás.
-
-(3) A csoport pénzügyi ágazatbeli tevékenysége jelentősnek minősül, ha a csoporton belül a pénzügyi ágazathoz tartozó szabályozott és nem szabályozott vállalkozások mérlegfőösszegeinek összege meghaladja a csoport összesített mérlegfőösszegének negyven százalékát.
-
-(4) Az adott pénzügyi ágazatbeli tevékenység jelentősnek minősül, ha
-
-- a) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a mérlegfőösszege és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített mérlegfőösszege arányának és
-- b) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a tőkekövetelménye és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített tőkekövetelménye arányának
-
-számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgáltatási, mind a banki és befektetési szolgáltatási ágazatban. A számítások során a banki és a befektetési szolgáltatási ágazat egy ágazatnak tekintendő.
-
-(5) A pénzügyi ágazaton belüli ágazatok közötti tevékenység jelentősnek minősül, ha a (4) bekezdés szerinti számítások alapján legkisebb ágazat mérlegfőösszege is meghaladja az egyezerhatszázmilliárd forintot.
-
-(6) A Felügyelet mint koordinátor az érdekelt felügyeleti hatóságokkal együttműködve pénzügyi konglomerátumnak tekinthet egy csoportot, és előírhatja a 181/Q–181/R. § rendelkezéseinek betartását, ha
-
-- a) a legkisebb pénzügyi ágazat nagysága meghaladja az öt százalékot 1. a (4) bekezdés alapján számított átlag tekintetében vagy 2. ezen ágazat mérlegfőösszege és a pénzügyi ágazat mérlegfőösszegének arányában vagy 3. ezen ágazat tőkekövetelménye és a pénzügyi ágazat összesített tőkekövetelményének arányában; vagy
-- b) a banki vagy a befektetési szolgáltatási ágazatban a mérlegfőösszeg és a biztosítási szolgáltatási ágazatban a bruttó díjbevétel alapján számított piaci részesedés Magyarországon meghaladja az öt százalékot.
-
-(7) Ha valamely mutató értéke a (3)–(5) bekezdésben megadott érték alá csökken, de a (3) bekezdés szerinti érték a harmincöt százalékot, a (4) bekezdés szerinti érték a nyolc százalékot, illetőleg az (5) bekezdés szerinti érték az egyezerháromszázmilliárd forintot eléri, akkor a csoportot ezt követően még három évig pénzügyi konglomerátumnak kell tekinteni.
-
-(8) Ha a Felügyelet látja el a koordinátori feladatokat, akkor az érdekelt felügyeleti hatóságokkal együttműködve a (7) bekezdésben említett hároméves időtartam alatt bármikor dönthet a kiegészítő felügyelet gyakorlásának megszüntetéséről.
-
-(9) A mérlegre vonatkozó számításokat a csoport vállalkozásainak számviteli összesített mérlegfőösszege alapján kell elvégezni. A csoport azon vállalkozásait, amelyekben részesedési viszonya van a csoport egy másik vállalkozásának, az Szmt. szerinti tőkearányos mértékben kell figyelembe venni az összesített mérlegfőösszeg megállapításakor. Ellenőrző befolyás fennálltakor az összevont (konszolidált) mérlegbeli adatokat kell figyelembe venni.
-
-(10) E fejezet alkalmazásában
-
-- a) a hitelintézet tőkekövetelménye
-  - aa) a Hpt. 76. §-ának (1)–(2) bekezdésében meghatározott tőkekövetelménynek, és
-  - ab) a Hpt. 5. számú melléklet 16. pontja szerinti limittúllépések értéke tőkekövetelményének
-
-összege;
-
-- b) a befektetési vállalkozás tőkekövetelménye a Bszt. 105. §-ának (1), (2) és (5) bekezdésében meghatározott tőkeszükséglet;
-- c) a biztosító tőkekövetelménye a Bit. 121. §-ának (3) bekezdésében meghatározott minimális szavatoló tőke szükséglete és a Bit. 126. §-ában meghatározott minimális biztonsági tőke közül a magasabb érték;
-- d) harmadik országbeli szabályozott vállalkozás esetén a tőkekövetelmény a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – minimális tőke.
-
-(11) Ha egy pénzügyi konglomerátumon belül egy másik pénzügyi konglomerátum is található, akkor ez utóbbi pénzügyi konglomerátumra ezen fejezet előírásait nem kell alkalmazni.
-
-### Kiegészítő felügyelet
-
-181/M. § (1) A kiegészítő felügyelet célja a pénzügyi konglomerátum csoport szintű prudens működésének felügyelete. Ennek érdekében a kiegészítő felügyeletet ellátó Felügyelet a pénzügyi konglomerátum kockázatvállalását, csoporton belüli ügyleteit, tőkemegfelelését, belső kontroll rendszerét és kockázatkezelését a csoport szintjén felügyeli.
-
-(2) Kiegészítő felügyelet alá tartozik a pénzügyi konglomerátum élén álló befektetési vállalkozás,
-
-- a) amely ellenőrző befolyással vagy részesedési viszonnyal rendelkezik szabályozott vállalkozásban, amelyek közül legalább egy biztosító, vagy
-- b) amelynek anyavállalata az Európai Unió valamely tagállamában székhellyel rendelkező vegyes pénzügyi holding társaság, vagy
-- c) amely ellenőrző befolyással rendelkezik egy biztosítási szolgáltatási ágazatbeli vállalkozásban.
-
-(3) A kiegészítő felügyelet kiterjed
-
-- a) a pénzügyi konglomerátumhoz tartozó vállalkozásra,
-- b) a pénzügyi konglomerátumhoz tartozó befektetési vállalkozásra, amelynek anyavállalata harmadik országban székhellyel rendelkező szabályozott vállalkozás,
-- c) a pénzügyi konglomerátumhoz tartozó befektetési vállalkozásra, amelynek anyavállalata harmadik országban székhellyel rendelkező vegyes pénzügyi holding társaság.
-
-181/N. § (1) Ha a Felügyelet az általa engedélyezett befektetési vállalkozást e fejezet alapján pénzügyi konglomerátumhoz tartozó vállalkozásnak minősíti, akkor a kiegészítő felügyelet e vállalkozásra és a csoportra kiterjed.
-
-(2) Az (1) bekezdés szerint pénzügyi konglomerátumnak minősítés érdekében a Felügyelet
-
-- a) folyamatosan vizsgálja, hogy az általa engedélyezett befektetési vállalkozás pénzügyi konglomerátumhoz tartozik-e,
-- b) szorosan együttműködik a csoporton belüli szabályozott vállalkozás felügyeleti hatóságával,
-- c) értesíti az érintett felügyeleti hatóságot, ha egy magyarországi székhellyel rendelkező szabályozott vállalkozásról megállapítja, hogy az a pénzügyi konglomerátumhoz tartozik.
-
-181/O. § (1) A Felügyelet feladata a 181/M. § (2) bekezdésében, illetőleg a 181/M. § (3) bekezdésének b) és c) pontjában meghatározott, Magyarországon székhellyel rendelkező befektetési vállalkozás kiegészítő felügyelete.
-
-(2) A Felügyeletnek nem feladata a vegyes pénzügyi holding társaság, a pénzügyi konglomerátumhoz tartozó harmadik országbeli és pénzügyi ágazaton kívüli nem szabályozott vállalkozás egyedi alapú vizsgálata, elemzése, értékelése.
-
-(3) Ha a Felügyelet önállóan vagy az érdekelt felügyeleti hatóságokkal együttműködve dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, akkor kiegészítő felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű befektetési vállalkozást, illetőleg meghatározhatja, hogy valamely vállalkozásra a kiegészítő felügyelet kiterjed.
-
-(4) A Felügyelet az érdekelt felügyeleti hatóságokkal együttműködve
-
-- a) egy – a koordinátor által a 181/Q. § (5) bekezdésében mentesített – vállalkozást, a koordinátor kezdeményezésére, a 181/L. § (3)–(5) bekezdésében meghatározott számításokból figyelmen kívül hagyhat, illetőleg
-- b) a 181/L. § (3) és (4) bekezdésében meghatározott küszöbérték számítása során, a koordinátor kezdeményezésére, három egymást követő évet vehet figyelembe, illetőleg – amennyiben jelentős változások következnek be a csoport szerkezetében – e küszöbértékek teljesülésétől eltekinthet, illetőleg
-- c) a 181/L. § (3) és (4) bekezdésének alkalmazása során – kivételes esetben – a mérlegfőösszegen alapuló mutatószámot helyettesítheti vagy kiegészítheti a bevételi szerkezeten, illetőleg a mérlegen kívüli tevékenységeken alapuló mutatószámmal, ha azokat a kiegészítő felügyelet célját tekintve meghatározónak tartja.
-
-### A kiegészítő felügyelet alá tartozó befektetési vállalkozás prudens működése
-
-181/P. § (1) A kiegészítő felügyelet alá tartozó befektetési vállalkozás, illetőleg a vegyes pénzügyi holding társaság felelős azért, hogy az ellenőrző befolyása alatt álló vállalkozások együttesére is biztosított legyen a prudens működés, a kockázatvállalási és a tőkemegfelelési előírások betartása.
-
-(2) A kiegészítő felügyelet alá tartozó befektetési vállalkozás, illetőleg a vegyes pénzügyi holding társaság a kiegészítő felügyeletre vonatkozó előírások betartása és végrehajtása érdekében utasíthatja az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozást, amely köteles azt végrehajtani.
-
-(3) A kiegészítő felügyelet alá tartozó befektetési vállalkozás igazgatósága köteles megjelölni, melyik tagja felelős az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozás prudens működéséért.
-
-### A kiegészítő felügyelet alá tartozó befektetési vállalkozás pénzügyi konglomerátum szintű kockázatvállalása, csoporton belüli ügyletei és tőkemegfelelése
-
-181/Q. § (1) A kiegészítő felügyelet alá tartozó befektetési vállalkozás a pénzügyi konglomerátum szintjén is köteles megfelelni a tőkemegfelelési előírásoknak és rögzíteni a pénzügyi konglomerátum szintjére vonatkozó tőkemegfelelési elveket.
-
-(2) A kockázatvállalásra és a csoporton belüli ügyletekre vonatkozó (9) bekezdés szerinti adatot és információt, a tőkemegfelelési előírásoknak való kiegészítő felügyeleti szintű megfelelést a kiegészítő felügyelet alá tartozó befektetési vállalkozás, illetőleg a vegyes pénzügyi holding társaság határozza meg évente legalább egy alkalommal. Ezek eredményét és a meghatározásuk alapjául szolgáló lényeges adatokat a pénzügyi konglomerátum élén álló befektetési vállalkozás vagy a vegyes pénzügyi holding társaság jelenti a koordinátor részére.
-
-(3) Ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás – de nem vegyes pénzügyi holding társaság – áll, a Felügyelet mint koordinátor által – az érdekelt felügyeleti hatósággal és a pénzügyi konglomerátummal történt egyeztetést követően – kijelölt, a pénzügyi konglomerátumhoz tartozó befektetési vállalkozás nyújtja be a (2) bekezdésben említett eredményeket és annak meghatározását szolgáló lényeges adatokat a koordinátor részére.
-
-(4) A vegyes pénzügyi holding társaság köteles a számításokat átadni a kiegészítő felügyelet alá tartozó befektetési vállalkozásnak. A vegyes pénzügyi holding társaság kiegészítő felügyelet alá tartozó befektetési vállalkozás leányvállalata a kiegészítő felügyeleti szintű számításokhoz szükséges egyedi adatokat köteles elkülönítetten kezelni, és azokat nem használhatja fel más célra.
-
-(5) A Felügyelet mint koordinátor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól mentesíthet egy vállalkozást, ha
-
-- a) székhelye olyan harmadik országban van, amelynek jogrendszere nem teszi lehetővé a szükséges adatok, információk átadását vagy
-- b) bevonása a kiegészítő felügyelet célját tekintve félrevezető eredményre vezetne vagy
-- c) bevonása a kiegészítő felügyelet célját tekintve elhanyagolható lenne.
-
-(6) Az (5) bekezdés b) pontjában meghatározott mentesítést lehetővé tevő döntés meghozatala előtt a Felügyelet mint koordinátor – a sürgős esetek kivételével – egyeztet az érdekelt hatáskörrel rendelkező hatóságokkal.
-
-(7) Ha több vállalkozás külön-külön mentesíthető lenne az (5) bekezdés c) pontja alapján, de együttesen nem tekinthető elhanyagolható jelentőségűnek, akkor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól nem mentesíthető.
-
-(8) Az (5) bekezdés b) és c) pontja alapján mentesített befektetési vállalkozás székhelye szerinti tagállam felügyeleti hatósága a pénzügyi konglomerátum élén álló vállalkozástól a befektetési vállalkozás felügyelete érdekében adatot és információt kérhet.
-
-(9) A Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal lefolytatott egyeztetés alapján határozza meg, mely csoporton belüli ügyletet és mely kockázatot kell figyelembe venni a (2)–(4) bekezdés szerinti számítások során. Az egyeztetéskor figyelembe kell venni a pénzügyi konglomerátum csoportszerkezetét és a pénzügyi konglomerátum egészének kockázatkezelését. A csoporton belüli ügylet és a kockázatvállalás jelentős mértékének meghatározása érdekében a Felügyelet mint koordinátor – az érdekelt felügyeleti hatóságokkal és a pénzügyi konglomerátummal folytatott egyeztetés alapján – megállapítja a szavatoló tőkére, illetőleg a biztosítástechnikai tartalékra vonatkozó küszöbértéket.
-
-(10) Ha a (9) bekezdés alapján a kockázatvállalásra és a csoporton belüli ügyletre vonatkozó küszöbérték nem kerül meghatározásra, akkor az ügylet abban az esetben minősül jelentősnek, ha értéke meghaladja a pénzügyi konglomerátum szintjén az összesített tőkekövetelmény öt százalékát.
-
-(11) A pénzügyi konglomerátum szintű tőkemegfelelési számítások módját külön jogszabály tartalmazza.
-
-### A kiegészítő felügyelet alá tartozó befektetési vállalkozás pénzügyi konglomerátum szintű kockázatkezelési és belső kontroll rendszere
-
-181/R. § (1) A kiegészítő felügyelet alá tartozó befektetési vállalkozás köteles gondoskodni a pénzügyi konglomerátum szintű belső kontroll rendszer és kockázatkezelés megfelelő működéséről.
-
-(2) A kockázatkezelés magában foglalja:
-
-- a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és stratégiák alapján megvalósuló vállalatirányítást,
-- b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
-- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
-- d) azokat a legalább évente felülvizsgált szabályokat, amelyek célja a megfelelő helyreállítási és szanálási intézkedések és tervek kidolgozása.
-
-(3) A belső kontroll rendszer magában foglalja:
-
-- a) a jelentős kockázatok azonosítását és mérését, valamint a szavatoló tőkének a kockázatokhoz való hozzárendelését,
-- b) a csoporton belüli ügyletek és a kockázatvállalás azonosítását, mérését és ellenőrzését.
-
-(4) A kiegészítő felügyelet alá tartozó befektetési vállalkozásnak rendelkeznie kell a kiegészítő felügyelet érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetőleg azok megbízhatóságát biztosító informatikai és belső kontroll rendszerrel.
-
-### A koordinátor
-
-181/S. § (1) A Felügyelet mint érintett hatóság együttműködik az Európai Unió tagállamainak érintett hatóságaival a pénzügyi konglomerátumbeli vállalkozások kiegészítő felügyeletének összehangolásáért és ellátásáért felelős felügyeleti hatóság (a továbbiakban: koordinátor) kijelölése során.
-
-(2) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén álló befektetési vállalkozás tevékenységének megkezdését a Felügyelet engedélyezte.
-
-(3) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás áll és
-
-- a) a Felügyelet által engedélyezett befektetési vállalkozás anyavállalata vegyes pénzügyi holding társaság vagy
-- b) több, az Európai Unió tagállamában székhellyel rendelkező szabályozott vállalkozás anyavállalata Magyarországon székhellyel rendelkező vegyes pénzügyi holding társaság és a pénzügyi konglomerátum valamely befektetési vállalkozása magyarországi székhellyel rendelkezik vagy
-- c) a pénzügyi konglomerátumban nem található a vegyes pénzügyi holding társaság székhelyének tagállamában engedélyezett befektetési vállalkozás, a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együttesen a banki és a befektetési szolgáltatási ágazat, valamint a legnagyobb mérlegfőösszege magyarországi székhellyel rendelkező befektetési vállalkozásnak van.
-
-(4) A Felügyelet látja el a koordinátori feladatokat, ha
-
-- a) a pénzügyi konglomerátum élén több, az Európai Unió különböző tagállamaiban székhellyel rendelkező vegyes pénzügyi holding társaság áll és ezen tagállamok mindegyikében rendelkezik a pénzügyi konglomerátum szabályozott vállalkozással, vagy
-- b) a pénzügyi konglomerátum élén nem áll anyavállalat,
-
-valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együttesen a banki és befektetési szolgáltatási ágazat és a pénzügyi konglomerátumon belül a legnagyobb mérlegfőösszege egy magyarországi székhellyel rendelkező befektetési vállalkozásnak van.
-
-(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint megbízhat más érintett felügyeleti hatóságot a koordinátori feladatok ellátásával, ha a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét is.
-
-### A koordinátor feladata
-
-181/T. § (1) A Felügyelet koordinátorként
-
-- a) ellátja a pénzügyi konglomerátum pénzügyi helyzetének áttekintését és értékelését,
-- b) összegyűjti és továbbítja az érintett felügyeleti hatóságok részére a pénzügyi konglomerátum vállalkozásaira vonatkozó adatokat és információkat,
-- c) ellenőrzi a 181/Q. §-ban foglalt, a pénzügyi konglomerátumon belüli kockázatvállalásra, tőkekövetelményre és csoporton belüli ügyletekre vonatkozó rendelkezések betartását,
-- d) ellenőrzi a 181/R. §-ban foglalt, a pénzügyi konglomerátum belső kontroll rendszerére és kockázatkezelésére vonatkozó rendelkezések betartását,
-- e) az érintett felügyeleti hatóságokkal együttműködve megtervezi és összehangolja a felügyeleti feladatok ellátását,
-- f) a kiegészítő felügyelet céljának elérése érdekében felmerülő egyéb feladatokat ellátja, a szükséges intézkedéseket megteszi, és a döntéseket meghozza,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és európai felügyeleti hatóságok vegyes bizottságát valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
-
-(2) A kiegészítő felügyelet elősegítése és megvalósítása érdekében a Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal, valamint szükség esetén más érdekelt felügyeleti hatóságokkal együttműködési megállapodást köt.
-
-### A felügyeleti hatóságokkal történő együttműködés
-
-181/U. § (1) A Felügyelet szorosan együttműködik az érintett felügyeleti hatóságokkal a pénzügyi konglomerátum kiegészítő felügyeletének ellátása érdekében. A Felügyelet a kiegészítő felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat az érintett felügyeleti hatóságok részére átadja.
-
-(2) Az érintett felügyeleti hatóságokkal történő együttműködés a következőkre terjed ki:
-
-- a) a pénzügyi konglomerátum csoportszerkezetének meghatározására, valamint a csoport szabályozott vállalkozásainak felügyeletét ellátó felügyeleti hatóság azonosítására,
-- b) a pénzügyi konglomerátum stratégiai elvének és céljának figyelemmel kísérésére,
-- c) a pénzügyi konglomerátum pénzügyi helyzetének, a tőkemegfelelésének, a csoporton belüli ügyleteinek, a kockázatvállalásának és a jövedelmezőségének figyelemmel kísérésére,
-- d) a pénzügyi konglomerátumbeli vállalkozások minősített befolyással rendelkező tulajdonosának és a vezető állású személyének azonosítására,
-- e) a pénzügyi konglomerátum szervezetének, valamint a pénzügyi konglomerátum szintű kockázatkezelésnek és belső kontroll rendszernek a figyelemmel kísérésére,
-- f) a pénzügyi konglomerátum vállalkozásaitól származó információk gyűjtésére és az összegyűjtött információk ellenőrzésére,
-- g) a pénzügyi konglomerátum szabályozott vállalkozásának működését kedvezőtlenül befolyásoló változás figyelemmel kísérésére,
-- h) a felügyeleti hatóság által hozott szankciókról és kivételes intézkedésekről történő tájékoztatásra.
-
-(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal és a Központi Bankok Európai Rendszerével és az Európai Rendszerkockázati Testülettel is folytathat információcserét.
-
-(4) A Felügyeletnek – a határozata meghozatalát megelőzően – egyeztetnie kell azon érintett felügyeleti hatósággal, amely felügyeleti feladatának ellátását a döntés érintheti
-
-- a) az engedélyhez kötött tulajdonos személyében, vezető állású személyben bekövetkezett változás,
-- b) szankciók és kivételes intézkedések
-
-tekintetében.
-
-(5) A (4) bekezdéstől eltérően nem áll fenn az előzetes egyeztetési kötelezettség sürgős esetben vagy ha az a döntés hatékonyságát kedvezőtlenül befolyásolja. Ilyenkor a Felügyeletnek az érintett hatóságokat a határozatról utólagosan és haladéktalanul tájékoztatnia kell.
-
-(6)
-
-### Információ átadása
-
-181/V. § (1) A pénzügyi konglomerátumon belüli szabályozott és nem szabályozott vállalkozás, valamint az érintett természetes személy köteles a pénzügyi konglomerátum élén álló vállalkozás részére minden adatot és információt megadni a kiegészítő felügyelet érdekében elvégzendő számításokhoz. Ezen egyedi adatot és információt köteles a pénzügyi konglomerátum élén álló vállalkozás elkülönítetten – az adatvédelmi előírások betartásával – kezelni.
-
-(2) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében szükséges adatért és információért az érintett felügyeleti hatósághoz fordulhat.
-
-### Felügyeleti ellenőrzés
-
-181/W. § (1) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében a pénzügyi konglomerátum vállalkozásai által átadott adatok és információk helyességét jogosult – helyszínen és helyszínen kívül – ellenőrizni.
-
-(2) A Felügyelet az Európai Unió más tagállamának érintett felügyeleti hatóságához fordulhat az ellenőrzés lefolytatása érdekében.
-
-181/X. § (1) A 181/M. § (3) bekezdésének b) és c) pontjában említett befektetési vállalkozást tartalmazó pénzügyi konglomerátum esetében a pénzügyi konglomerátum élén álló harmadik országbeli anyavállalat figyelmen kívül hagyásával kell az érintett hatóságoknak kijelölniük a koordinátort.
-
-(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet az európai felügyeleti hatóságok vegyes bizottsága által kiadott iránymutatásokat is figyelembe véve. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
-
-(3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor az olyan pénzügyi konglomerátum kiegészítő felügyeletét, amelynek élén a 181/M. § (3) bekezdés b), illetőleg c) pontjában meghatározott befektetési vállalkozás harmadik országbeli anyavállalata áll, nem a Felügyelet látja el.
-
-(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor a Felügyelet mint koordinátor látja el a kiegészítő felügyeleti feladatokat és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+181/L–181/X. §
 
 ### XX. Fejezet
 
@@ -4711,7 +4494,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - l)
 - m)
 - n) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésének formáját és tartalmát.
-- o) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módját, tartalmát, szerkezetét és gyakoriságát;
+- o)
 - p)
 - q) a piacbefolyásolásra utaló magatartások minősítésekor figyelembe veendő körülményeket;
 - r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
@@ -5141,6 +4924,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 24. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 - 25. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 - 26. Az Európai Parlament és a Tanács 2010. november 24-i 2010/73/EU irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK és a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv módosításáról.
+- 27. Az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
 

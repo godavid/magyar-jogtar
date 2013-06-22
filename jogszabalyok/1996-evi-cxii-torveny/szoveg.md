@@ -12,7 +12,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - b) Magyarország területén székhellyel rendelkező hitelintézet által külföldön alapított hitelintézet, pénzügyi vállalkozás e törvényben meghatározott pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységének c) pont szerinti felügyeletére,
 - c) a magyar hatóság által ellátott – e törvényben meghatározott – felügyeleti tevékenységre,
 - d) pénzügyi intézménynek nem minősülő, az összevont alapú felügyelet hatálya alá tartozó hitelintézettel, illetőleg a pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holding társaságra,
-- e) pénzügyi intézménynek nem minősülő, a kiegészítő felügyelet hatálya alá tartozó hitelintézettel, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
+- e)
 - f) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 - g) az elismert külső hitelminősítő szervezet és exporthitel-ügynökség hitelminősítésének elismerésére és az elismert külső hitelminősítő szervezetre.
 
@@ -552,20 +552,18 @@ végezhet.
 
 (5) Az (1) bekezdés b) és d) pontjában, valamint a 20. § e) pontjában foglalt engedély megadása előtt, ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre az engedélyezési kérelmet benyújtó hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
 
-14/A. § (1) Ha egy EU-szintű hitelintézeti anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik
+14/A. § (1) Ha egy EU-szintű hitelintézeti anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat és annak leányvállalatai vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat és annak leányvállalatai együttesen kérelmezik
 
 - a) a kockázattal súlyozott kitettség érték belső minősítésen alapuló módszerrel történő számításának,
-- b) a 76/C. § (6) bekezdésének d) pontja szerinti saját nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező becslés alkalmazásának,
+- b) a 76/C. § (6) bekezdés d) pontja szerinti saját nemteljesítéskori veszteségráta és hitel-egyenértékesítési tényező becslés alkalmazásának,
 - c) a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának,
-- d) a külön jogszabály alapján partnerkockázati kitettség tőkekövetelményének belső modell módszer szerinti számításának
-
-engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak kell benyújtania a székhelye szerinti tagállam illetékes felügyeleti hatóságának.
+- d) a hitelintézet partnerkockázatának kezeléséről szóló kormányrendelet alapján a partnerkockázati kitettség tőkekövetelményének belső modell módszer szerinti számításának engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak kell benyújtania a székhelye szerinti tagállam illetékes felügyeleti hatóságának.
 
 (2) A kérelem elbírálásában a Felügyelet a 14/B. §-ban foglaltak szerint együttműködik más tagállam illetékes felügyeleti hatóságával.
 
-14/B. § (1) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeletét, akkor a 14/A. § (1) bekezdésében meghatározott engedélykérelem hiánytalan beérkezését követően a Felügyelet
+14/B. § (1) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézet felügyeletét, akkor a 14/A. § (1) bekezdésében meghatározott engedélykérelem hiánytalan beérkezését követően a Felügyelet
 
-- a) a kérelmet haladéktalanul továbbítja azon tagállam illetékes felügyeleti hatósága részére, amelyben székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű hitelintézeti anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
+- a) a kérelmet haladéktalanul továbbítja azon tagállam illetékes felügyeleti hatósága részére, amelyben székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
 - b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott tagállami felügyeleti hatóságot a kérelemre vonatkozó vélemény, fenntartás Felügyelet részére történő megküldésének határidejéről (a továbbiakban: többoldalú eljárás).
 
 (2) A Felügyelet a többoldalú eljárás keretében a hiánytalan kérelem beérkezésétől számított hat hónapon belül csak valamennyi, az eljárásban részt vevő tagállami felügyeleti hatóság egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat).
@@ -574,9 +572,9 @@ engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vag
 
 (4) A Felügyelet a határozatát megküldi a többoldalú eljárásban részt vevő valamennyi tagállami illetékes felügyeleti hatóságnak és a kérelmezőnek.
 
-(5) Ha az eljárás lefolytatására másik tagállam illetékes felügyeleti hatósága jogosult, és az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalati hitelintézetét a Felügyelet felügyeli, akkor a Felügyelet a hiánytalan kérelem rendelkezésére állását követően, az eljárásra jogosult tagállami felügyeleti hatóság által meghatározott időszakon belül megküldi a 14/A. § (1) bekezdés szerinti kérelemre vonatkozó véleményét, fenntartását.
+(5) Ha az eljárás lefolytatására másik tagállam illetékes felügyeleti hatósága jogosult, és az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézetét a Felügyelet felügyeli, akkor a Felügyelet a hiánytalan kérelem rendelkezésére állását követően, az eljárásra jogosult tagállami felügyeleti hatóság által meghatározott időszakon belül megküldi a 14/A. § (1) bekezdés szerinti kérelemre vonatkozó véleményét, fenntartását.
 
-(6) Ha az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat székhelye szerinti illetékes tagállami felügyeleti hatóság a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a tagállami felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. A Felügyelet hatáskörébe tartozó szervezet tekintetében a más tagállami felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+(6) Ha az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti illetékes tagállami felügyeleti hatóság a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a tagállami felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. A Felügyelet hatáskörébe tartozó szervezet tekintetében a más tagállami felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
 15. § (1) A Felügyelet engedélye szükséges a (2) bekezdésben foglalt eltérésekkel a pénzügyi vállalkozás
 
@@ -666,7 +664,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - e) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kézbesítési megbízottjáról, aki csak Magyarországon bejegyzett ügyvéd, illetve (társas) ügyvédi iroda, vagy a kérelmező magyarországi bankképviselete lehet;
 - f) pénzügyi vállalkozás esetében annak igazolását, hogy a vállalkozás rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint a 18. § (2) bekezdés d)–f), h) és k)–l) pontjában foglaltakat;
 - g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja;
-- h) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához.
+- h) az összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához.
 
 (2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő pénzügyi intézményben minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
 
@@ -1453,9 +1451,14 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
-(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy az, aki
+(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél és vegyes pénzügyi holding társaságnál nem lehet vezető állású személy az, aki
 
-- a) minősített befolyással rendelkezik (vagy rendelkezett), illetőleg vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben 1. amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy 2. amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
+- a) minősített befolyással rendelkezik (vagy rendelkezett), vagy vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben,
+  - aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
+  - ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
+
+és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
+
 - b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
@@ -2034,7 +2037,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
 
-- a) hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás,
+- a) hitelintézet, befektetési vállalkozás, vegyes pénzügyi holding társaság, pénzügyi vállalkozás, befektetési alapkezelő, vagyonkezelő társaság vagy járulékos vállalkozás,
 - b) a hitelintézettel azonos összevont alapú felügyeleti számításokban teljeskörűen kerül figyelembevételre,
 - c) a hitelintézetével azonos kockázatértékelési, kockázatmérési és ellenőrzési eljárásokkal rendelkezik,
 - d) magyarországi székhellyel rendelkezik,
@@ -2166,7 +2169,7 @@ ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfe
 - e) az Európai Unió tagállamának regionális kormányával, helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
   - ea) a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a regionális kormány, a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, valamint
   - eb) az Európai Unió tagállamának központi kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
-- f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
+- f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, vegyes pénzügyi holding társaság, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
 - g) a központi kormányzat, regionális kormányzat, illetőleg helyi önkormányzat által finanszírozott olyan gazdálkodó szervezetben fennálló részesedés esetén, amelyhez a sztenderd módszer alkalmazása esetén nulla százalékos kockázati súlyt kell rendelni,
 - h) a gazdaság valamely ágazatának előmozdítására irányuló állami programok keretében felmerült olyan részesedések esetén, amelynél a hitelintézet általi befektetésekhez jelentős állami támogatást nyújtanak, és ezáltal a befektetésekre állami – ágazati, az érintett vállalkozás ezen tevékenységére kiterjedő – felügyelet és támogatás-felhasználási korlátozások vonatkoznak azzal, hogy az ez alapján mentesíthető részesedések értéke nem haladhatja meg a szavatoló tőke tíz százalékát,
 - i) a kötelező jegybanki tartalékra vonatkozó előírást levelező bankon keresztül teljesítő hitelintézet az általa elhelyezett kötelező tartalékra,
@@ -2259,7 +2262,7 @@ számítja ki.
 - c) ha a fejlett mérési módszer eredményei félrevezető képet adnak a hitelintézet működési kockázatáról, vagy
 - d) olyan elháríthatatlan, a hitelintézet érdekkörén kívüli, neki fel nem róható esemény esetén, amely megakadályozza a fejlett mérési módszer alkalmazását.
 
-(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a külön jogszabály szerinti – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor a Felügyelet a külön jogszabályban meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
+(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor a Felügyelet a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
 
 (10) Ha
 
@@ -2656,12 +2659,12 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 90. § (1) Összevont alapú felügyelet alá tartozik az a hitelintézet, amelynek
 
 - a) legalább egy hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás leányvállalata van, vagy ilyen típusú intézményben részesedési viszonnyal rendelkezik, vagy
-- b) anyavállalata pénzügyi holding társaság.
+- b) anyavállalata pénzügyi holding társaság vagy vegyes pénzügyi holding társaság.
 
 (2) Az összevont alapú felügyelet kiterjed az összevont alapú felügyelet alá tartozó hitelintézetre, és
 
 - a) az (1) bekezdés a) pontja szerinti hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelő társaságára és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
-- b) az (1) bekezdés b) pontja szerinti pénzügyi holding társaságra és annak olyan hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelő társaságára és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
+- b) az (1) bekezdés b) pontjában meghatározott pénzügyi holding társaságra, vegyes pénzügyi holding társaságra és annak olyan hitelintézetére, pénzügyi vállalkozására, befektetési vállalkozására, befektetési alapkezelő társaságára, alternatív befektetési alapkezelőjére és járulékos vállalkozására, amelyben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
 
 (3) Ha valamely hitelintézet anyavállalata befektetési vállalkozás, illetve a befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, a Tpt. összevont alapú felügyeletre vonatkozó szabályait kell alkalmazni.
 
@@ -2756,11 +2759,11 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 (2) A 96/A. § szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
-(3) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet vagy pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A vizsgálat során egyeztet az Európai Bankbizottsággal. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+(3) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A vizsgálat során egyeztet az Európai Bankhatósággal. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
 
 (4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és köteles ennek érdekében minden lehetséges intézkedést megtenni.
 
-(5) A (4) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli hitelintézet vagy pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
+(5) A (4) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
 
 96/C. § (1) Ha a hitelintézet anyavállalat, akkor az összevont alapú felügyeletet az Európai Unió hitelintézetet engedélyező tagállamának illetékes felügyeleti hatósága látja el.
 
@@ -2809,226 +2812,9 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 - a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
 - b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely tagállamban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
 
-### XIV/A. Fejezet — KIEGÉSZÍTŐ FELÜGYELET
+### XIV/A. Fejezet
 
-### Pénzügyi konglomerátum
-
-96/D. § (1) Pénzügyi konglomerátum – e törvény szerint – az a csoport [2. számú melléklet II. fejezet 13. pontja],
-
-- a) amelynek élén 1. hitelintézet áll vagy 2. nem szabályozott vállalkozás áll, és a csoport tevékenysége a (3) bekezdésben foglaltaknak megfelelően jelentős mértékben a pénzügyi ágazatba sorolható, és
-- b) amelyben van olyan vállalkozás, amely a biztosítási szolgáltatási ágazathoz és olyan vállalkozás, amely a banki vagy befektetési szolgáltatási ágazathoz tartozik és
-- c) amely vállalkozásaiban összevontan (konszolidáltan), illetőleg aggregáltan mért tevékenység mind a biztosítási szolgáltatási, mind a banki vagy befektetési szolgáltatási ágazatban jelentős a (4) vagy (5) bekezdésben meghatározott feltételeknek megfelelően.
-
-(2) A pénzügyi konglomerátum élén álló vállalkozás
-
-- a) az anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások közül egyetlen vállalkozás sem rendelkezik benne ellenőrző befolyással vagy részesedési viszonnyal,
-- b) a legnagyobb mérlegfőösszegű anyavállalat, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között több, az a) pontban foglaltaknak megfelelő anyavállalat található,
-- c) a legnagyobb mérlegfőösszegű vállalkozás azon vállalkozások közül, amelyekben – a pénzügyi konglomerátumhoz tartozó vállalkozások közül – egyetlen vállalkozás sem rendelkezik ellenőrző befolyással vagy részesedési viszonnyal, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nincs az a) pontban foglaltaknak megfelelő anyavállalat,
-- d) a legnagyobb mérlegfőösszegű vállalkozás, ha a pénzügyi konglomerátumhoz tartozó vállalkozások között nem található az a)–c) pontban foglalt feltételeknek megfelelő vállalkozás.
-
-(3) A csoport pénzügyi ágazatbeli tevékenysége jelentősnek minősül, ha a csoporton belül a pénzügyi ágazathoz tartozó szabályozott és nem szabályozott vállalkozások mérlegfőösszegeinek összege meghaladja a csoport összesített mérlegfőösszegének negyven százalékát.
-
-(4) Az adott pénzügyi ágazatbeli tevékenység jelentősnek minősül, ha
-
-- a) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a mérlegfőösszege és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített mérlegfőösszege arányának és
-- b) a csoportnak az adott pénzügyi ágazaton belüli vállalkozásainak a tőkekövetelménye és a csoport valamennyi pénzügyi ágazatba tartozó vállalkozásainak összesített tőkekövetelménye arányának
-
-számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgáltatási, mind a banki és befektetési szolgáltatási ágazatban. A számítások során a banki és a befektetési szolgáltatási ágazat egy ágazatnak tekintendő.
-
-(5) A pénzügyi ágazaton belüli ágazatok közötti tevékenység jelentősnek minősül, ha a (4) bekezdés szerinti számítások alapján legkisebb ágazat mérlegfőösszege is meghaladja az egyezerhatszázmilliárd forintot.
-
-(6) A Felügyelet mint koordinátor az érdekelt felügyeleti hatóságokkal együttműködve pénzügyi konglomerátumnak tekinthet egy csoportot, és előírhatja a 96/I–96/J. § rendelkezéseinek betartását, ha
-
-- a) a legkisebb pénzügyi ágazat nagysága meghaladja az öt százalékot 1. a (4) bekezdés alapján számított átlag tekintetében vagy 2. ezen ágazat mérlegfőösszege és a pénzügyi ágazat mérlegfőösszegének arányában vagy 3. ezen ágazat tőkekövetelménye és a pénzügyi ágazat összesített tőkekövetelményének arányában; vagy
-- b) a banki vagy a befektetési szolgáltatási ágazatban a mérlegfőösszeg és a biztosítási szolgáltatási ágazatban a bruttó díjbevétel alapján számított piaci részesedés Magyarországon meghaladja az öt százalékot.
-
-(7) Ha valamely mutató értéke a (3)–(5) bekezdésben megadott érték alá csökken, de a (3) bekezdés szerinti érték a harmincöt százalékot, a (4) bekezdés szerinti érték a nyolc százalékot, illetőleg az (5) bekezdés szerinti érték az egyezerháromszázmilliárd forintot eléri, akkor a csoportot ezt követően még három évig pénzügyi konglomerátumnak kell tekinteni.
-
-(8) Ha a Felügyelet látja el a koordinátori feladatokat, akkor az érdekelt felügyeleti hatóságokkal együttműködve a (7) bekezdésben említett hároméves időtartam alatt bármikor dönthet a kiegészítő felügyelet gyakorlásának megszüntetéséről.
-
-(9) A mérlegre vonatkozó számításokat a csoport vállalkozásainak számviteli összesített mérlegfőösszege alapján kell elvégezni. A csoport azon vállalkozásait, amelyekben részesedési viszonya van a csoport egy másik vállalkozásának, a számviteli törvény szerinti tőkearányos mértékben kell figyelembe venni az összesített mérlegfőösszeg megállapításakor. Ellenőrző befolyás fennálltakor az összevont (konszolidált) mérlegbeli adatokat kell figyelembe venni.
-
-(10) E fejezet alkalmazásában
-
-- a) a hitelintézet tőkekövetelménye 1. a 76. § (1)–(2) bekezdésében meghatározott tőkekövetelménynek, és 2. az 5. számú melléklet 16. pontja szerinti limittúllépések értéke tőkekövetelményének összege;
-- b) a befektetési vállalkozás tőkekövetelménye a Bszt. 105. §-ának (2) és (5) bekezdésében meghatározott tőkeszükséglet;
-- c) a biztosító tőkekövetelménye a Bit. 121. §-ának (3) bekezdésében meghatározott minimális szavatoló tőke szükséglete és a Bit. 126. §-ában meghatározott minimális biztonsági tőke közül a magasabb érték;
-- d) harmadik országbeli szabályozott vállalkozás esetén a tőkekövetelmény a székhelye szerinti ország jogszabályai szerinti – a működés feltételeként előírt – minimális tőke.
-
-(11) Ha egy pénzügyi konglomerátumon belül egy másik pénzügyi konglomerátum is található, akkor ez utóbbi pénzügyi konglomerátumra ezen fejezet előírásait nem kell alkalmazni.
-
-### Kiegészítő felügyelet
-
-96/E. § (1) A kiegészítő felügyelet célja a pénzügyi konglomerátum csoport szintű prudens működésének felügyelete. Ennek érdekében a kiegészítő felügyeletet ellátó Felügyelet a pénzügyi konglomerátum kockázatvállalását, csoporton belüli ügyleteit, tőkemegfelelését, belső kontroll rendszerét és kockázatkezelését a csoport szintjén felügyeli.
-
-(2) Kiegészítő felügyelet alá tartozik a pénzügyi konglomerátum élén álló hitelintézet,
-
-- a) amely ellenőrző befolyással vagy részesedési viszonnyal rendelkezik szabályozott vállalkozásban, amelyek közül legalább egy biztosító, vagy
-- b) amelynek anyavállalata az Európai Unió valamely tagállamában székhellyel rendelkező vegyes pénzügyi holding társaság, vagy
-- c) amely ellenőrző befolyással rendelkezik egy biztosítási szolgáltatási ágazatbeli vállalkozásban.
-
-(3) A kiegészítő felügyelet kiterjed
-
-- a) a pénzügyi konglomerátumhoz tartozó vállalkozásra,
-- b) a pénzügyi konglomerátumhoz tartozó hitelintézetre, amelynek anyavállalata harmadik országban székhellyel rendelkező szabályozott vállalkozás,
-- c) a pénzügyi konglomerátumhoz tartozó hitelintézetre, amelynek anyavállalata harmadik országban székhellyel rendelkező vegyes pénzügyi holding társaság.
-
-96/F. § (1) Ha a Felügyelet az általa engedélyezett hitelintézetet e fejezet alapján pénzügyi konglomerátumhoz tartozó vállalkozásnak minősíti, akkor a kiegészítő felügyelet e vállalkozásra és a csoportra kiterjed.
-
-(2) Az (1) bekezdés szerint pénzügyi konglomerátumnak minősítés érdekében a Felügyelet
-
-- a) folyamatosan vizsgálja, hogy az általa engedélyezett hitelintézet pénzügyi konglomerátumhoz tartozik-e,
-- b) szorosan együttműködik a csoporton belüli szabályozott vállalkozás felügyeleti hatóságával,
-- c) értesíti az érintett felügyeleti hatóságot, ha egy magyarországi székhellyel rendelkező szabályozott vállalkozásról megállapítja, hogy az a pénzügyi konglomerátumhoz tartozik.
-
-96/G. § (1) A Felügyelet feladata a 96/E. § (2) bekezdésében, illetőleg a 96/E. § (3) bekezdésének b) és c) pontjában meghatározott, Magyarországon székhellyel rendelkező hitelintézet kiegészítő felügyelete.
-
-(2) A Felügyeletnek nem feladata a vegyes pénzügyi holding társaság, a pénzügyi konglomerátumhoz tartozó harmadik országbeli és pénzügyi ágazaton kívüli nem szabályozott vállalkozás egyedi alapú vizsgálata, elemzése, értékelése.
-
-(3) Ha a Felügyelet önállóan vagy az érdekelt felügyeleti hatóságokkal együttműködve dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, akkor kiegészítő felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, illetőleg meghatározhatja, hogy valamely vállalkozásra a kiegészítő felügyelet kiterjed.
-
-(4) A Felügyelet az érdekelt felügyeleti hatóságokkal együttműködve
-
-- a) egy – a koordinátor által a 96/I. § (5) bekezdésében mentesített – vállalkozást, a koordinátor kezdeményezésére, a 96/D. § (3)–(5) bekezdésében meghatározott számításokból figyelmen kívül hagyhat, illetőleg
-- b) a 96/D. § (3) és (4) bekezdésében meghatározott küszöbérték számítása során, a koordinátor kezdeményezésére, három egymást követő évet vehet figyelembe, illetőleg – amennyiben jelentős változások következnek be a csoport szerkezetében – e küszöbértékek teljesülésétől eltekinthet, illetőleg
-- c) a 96/D. § (3) és (4) bekezdésének alkalmazása során – kivételes esetben – a mérlegfőösszegen alapuló mutatószámot helyettesítheti vagy kiegészítheti a bevételi szerkezeten, illetőleg a mérlegen kívüli tevékenységeken alapuló mutatószámmal, ha azokat a kiegészítő felügyelet célját tekintve meghatározónak tartja.
-
-### A kiegészítő felügyelet alá tartozó hitelintézet prudens működése
-
-96/H. § (1) A kiegészítő felügyelet alá tartozó hitelintézet, illetőleg a vegyes pénzügyi holding társaság felelős azért, hogy az ellenőrző befolyása alatt álló vállalkozások együttesére is biztosított legyen a prudens működés, a kockázatvállalási és a tőkemegfelelési előírások betartása.
-
-(2) A kiegészítő felügyelet alá tartozó hitelintézet, illetőleg a vegyes pénzügyi holding társaság a kiegészítő felügyeletre vonatkozó előírások betartása és végrehajtása érdekében utasíthatja az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozást, amely köteles azt végrehajtani.
-
-(3) A kiegészítő felügyelet alá tartozó hitelintézet igazgatósága köteles megjelölni, melyik tagja felelős az ellenőrző befolyása alatt álló pénzügyi ágazatbeli vállalkozás prudens működéséért.
-
-### A kiegészítő felügyelet alá tartozó hitelintézet pénzügyi konglomerátum szintű kockázatvállalása, csoporton belüli ügyletei és tőkemegfelelése
-
-96/I. § (1) A kiegészítő felügyelet alá tartozó hitelintézet a pénzügyi konglomerátum szintjén is köteles megfelelni a tőkemegfelelési előírásoknak és rögzíteni a pénzügyi konglomerátum szintjére vonatkozó tőkemegfelelési elveket.
-
-(2) A kockázatvállalásra és a csoporton belüli ügyletekre vonatkozó (9) bekezdés szerinti adatot és információt, a tőkemegfelelési előírásoknak való kiegészítő felügyeleti szintű megfelelést a kiegészítő felügyelet alá tartozó hitelintézet, illetőleg a vegyes pénzügyi holding társaság határozza meg évente legalább egy alkalommal. Ezek eredményét és a meghatározásuk alapjául szolgáló lényeges adatokat a pénzügyi konglomerátum élén álló hitelintézet vagy a vegyes pénzügyi holding társaság jelenti a koordinátor részére.
-
-(3) Ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás – de nem vegyes pénzügyi holding társaság – áll, a Felügyelet mint koordinátor által – az érdekelt felügyeleti hatósággal és a pénzügyi konglomerátummal történt egyeztetést követően – kijelölt, a pénzügyi konglomerátumhoz tartozó hitelintézet nyújtja be a (2) bekezdésben említett eredményeket és annak meghatározását szolgáló lényeges adatokat a koordinátor részére.
-
-(4) A vegyes pénzügyi holding társaság köteles a számításokat átadni a kiegészítő felügyelet alá tartozó hitelintézetnek. A vegyes pénzügyi holding társaság kiegészítő felügyelet alá tartozó hitelintézet leányvállalata a kiegészítő felügyeleti szintű számításokhoz szükséges egyedi adatokat köteles elkülönítetten kezelni, és azokat nem használhatja fel más célra.
-
-(5) A Felügyelet mint koordinátor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól mentesíthet egy vállalkozást, ha
-
-- a) székhelye olyan harmadik országban van, amelynek jogrendszere nem teszi lehetővé a szükséges adatok, információk átadását vagy
-- b) bevonása a kiegészítő felügyelet célját tekintve félrevezető eredményre vezetne vagy
-- c) bevonása a kiegészítő felügyelet célját tekintve elhanyagolható lenne.
-
-(6) Az (5) bekezdés b) pontjában meghatározott mentesítést lehetővé tevő döntés meghozatala előtt a Felügyelet mint koordinátor – a sürgős esetek kivételével – egyeztet az érdekelt illetékes hatóságokkal.
-
-(7) Ha több vállalkozás külön-külön mentesíthető lenne az (5) bekezdés c) pontja alapján, de együttesen nem tekinthető elhanyagolható jelentőségűnek, akkor a kiegészítő felügyelet szerinti tőkemegfelelési számításba való bevonás alól nem mentesíthető.
-
-(8) Az (5) bekezdés b) és c) pontja alapján mentesített hitelintézet székhelye szerinti tagállam felügyeleti hatósága a pénzügyi konglomerátum élén álló vállalkozástól a hitelintézet felügyelete érdekében adatot és információt kérhet.
-
-(9) A Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal lefolytatott egyeztetés alapján határozza meg, mely csoporton belüli ügyletet és mely kockázatot kell figyelembe venni a (2)–(4) bekezdés szerinti számítások során. Az egyeztetéskor figyelembe kell venni a pénzügyi konglomerátum csoportszerkezetét és a pénzügyi konglomerátum egészének kockázatkezelését. A csoporton belüli ügylet és a kockázatvállalás jelentős mértékének meghatározása érdekében a Felügyelet mint koordinátor – az érdekelt felügyeleti hatóságokkal és a pénzügyi konglomerátummal folytatott egyeztetés alapján – megállapítja a szavatoló tőkére, illetőleg a biztosítástechnikai tartalékra vonatkozó küszöbértéket.
-
-(10) Ha a (9) bekezdés alapján a kockázatvállalásra és a csoporton belüli ügyletre vonatkozó küszöbérték nem kerül meghatározásra, akkor az ügylet abban az esetben minősül jelentősnek, ha értéke meghaladja a pénzügyi konglomerátum szintjén az összesített tőkekövetelmény öt százalékát.
-
-(11) A pénzügyi konglomerátum szintű tőkemegfelelési számítások módját külön jogszabály tartalmazza.
-
-### A kiegészítő felügyelet alá tartozó hitelintézet pénzügyi konglomerátum szintű kockázatkezelési és belső kontroll rendszere
-
-96/J. § (1) A kiegészítő felügyelet alá tartozó hitelintézet köteles gondoskodni a pénzügyi konglomerátum szintű belső kontroll rendszer és kockázatkezelés megfelelő működéséről.
-
-(2) A kockázatkezelés magában foglalja:
-
-- a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és stratégiák alapján megvalósuló vállalatirányítást,
-- b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
-- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
-- d) azokat a legalább évente felülvizsgált szabályokat, amelyek a helyreállítási és szanálási intézkedésekhez, valamint tervekhez való hozzájárulást és – szükség esetén – azok kidolgozását célozzák.
-
-(3) A belső kontroll rendszer magában foglalja:
-
-- a) a jelentős kockázatok azonosítását és mérését, valamint a szavatoló tőkének a kockázatokhoz való hozzárendelését,
-- b) a csoporton belüli ügyletek és a kockázatvállalás azonosítását, mérését és ellenőrzését.
-
-(4) A kiegészítő felügyelet alá tartozó hitelintézetnek rendelkeznie kell a kiegészítő felügyelet érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetőleg azok megbízhatóságát biztosító informatikai és belső kontroll rendszerrel.
-
-### A koordinátor
-
-96/K. § (1) A Felügyelet mint érintett hatóság együttműködik az Európai Unió tagállamainak érintett hatóságaival a pénzügyi konglomerátumbeli vállalkozások kiegészítő felügyeletének összehangolásáért és ellátásáért felelős felügyeleti hatóság (a továbbiakban: koordinátor) kijelölése során.
-
-(2) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén álló hitelintézet tevékenységének megkezdését a Felügyelet engedélyezte.
-
-(3) A Felügyelet látja el a koordinátori feladatokat, ha a pénzügyi konglomerátum élén nem szabályozott vállalkozás áll és
-
-- a) a Felügyelet által engedélyezett hitelintézet anyavállalata vegyes pénzügyi holding társaság vagy
-- b) több, az Európai Unió tagállamában székhellyel rendelkező szabályozott vállalkozás anyavállalata Magyarországon székhellyel rendelkező vegyes pénzügyi holding társaság és a pénzügyi konglomerátum valamely hitelintézete magyarországi székhellyel rendelkezik vagy
-- c) a pénzügyi konglomerátumban nem található a vegyes pénzügyi holding társaság székhelyének tagállamában engedélyezett hitelintézet, a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együttesen a banki és a befektetési szolgáltatási ágazat, valamint a legnagyobb mérlegfőösszege magyarországi székhellyel rendelkező hitelintézetnek van.
-
-(4) A Felügyelet látja el a koordinátori feladatokat, ha
-
-- a) a pénzügyi konglomerátum élén több, az Európai Unió különböző tagállamaiban székhellyel rendelkező vegyes pénzügyi holding társaság áll és ezen tagállamok mindegyikében rendelkezik a pénzügyi konglomerátum szabályozott vállalkozással, vagy
-- b) a pénzügyi konglomerátum élén nem áll anyavállalat,
-
-valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együttesen a banki és befektetési szolgáltatási ágazat és a pénzügyi konglomerátumon belül a legnagyobb mérlegfőösszege egy magyarországi székhellyel rendelkező hitelintézetnek van.
-
-(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint megbízhat más érintett felügyeleti hatóságot a koordinátori feladatok ellátásával, ha a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét is.
-
-### A koordinátor feladata
-
-96/L. § (1) A Felügyelet koordinátorként
-
-- a) ellátja a pénzügyi konglomerátum pénzügyi helyzetének áttekintését és értékelését,
-- b) összegyűjti és továbbítja az érintett felügyeleti hatóságok részére a pénzügyi konglomerátum vállalkozásaira vonatkozó adatokat és információkat,
-- c) ellenőrzi a 96/I. §-ban foglalt, a pénzügyi konglomerátumon belüli kockázatvállalásra, tőkekövetelményre és csoporton belüli ügyletekre vonatkozó rendelkezések betartását,
-- d) ellenőrzi a 96/J. §-ban foglalt, a pénzügyi konglomerátum belső kontroll rendszerére és kockázatkezelésére vonatkozó rendelkezések betartását,
-- e) az érintett felügyeleti hatóságokkal együttműködve megtervezi és összehangolja a felügyeleti feladatok ellátását,
-- f) a kiegészítő felügyelet céljának elérése érdekében felmerülő egyéb feladatokat ellátja, a szükséges intézkedéseket megteszi, és a döntéseket meghozza,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az európai felügyeleti hatóságok vegyes bizottságát valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
-
-(2) A kiegészítő felügyelet elősegítése és megvalósítása érdekében a Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal, valamint szükség esetén más érdekelt felügyeleti hatóságokkal együttműködési megállapodást köt.
-
-### A felügyeleti hatóságokkal történő együttműködés
-
-96/M. § (1) A Felügyelet szorosan együttműködik az érintett felügyeleti hatóságokkal a pénzügyi konglomerátum kiegészítő felügyeletének ellátása érdekében. A Felügyelet a kiegészítő felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat az érintett felügyeleti hatóságok részére átadja.
-
-(2) Az érintett felügyeleti hatóságokkal történő együttműködés a következőkre terjed ki:
-
-- a) a pénzügyi konglomerátum csoportszerkezetének meghatározására, valamint a csoport szabályozott vállalkozásainak felügyeletét ellátó felügyeleti hatóság azonosítására,
-- b) a pénzügyi konglomerátum stratégiai elvének és céljának figyelemmel kísérésére,
-- c) a pénzügyi konglomerátum pénzügyi helyzetének, a tőkemegfelelésének, a csoporton belüli ügyleteinek, a kockázatvállalásának és a jövedelmezőségének figyelemmel kísérésére,
-- d) a pénzügyi konglomerátumbeli vállalkozások minősített befolyással rendelkező tulajdonosának és a vezető állású személyének azonosítására,
-- e) a pénzügyi konglomerátum szervezetének, valamint a pénzügyi konglomerátum szintű kockázatkezelésnek és belső kontroll rendszernek a figyelemmel kísérésére,
-- f) a pénzügyi konglomerátum vállalkozásaitól származó információk gyűjtésére és az összegyűjtött információk ellenőrzésére,
-- g) a pénzügyi konglomerátum szabályozott vállalkozásának működését kedvezőtlenül befolyásoló változás figyelemmel kísérésére,
-- h) a felügyeleti hatóság által hozott szankciókról és kivételes intézkedésekről történő tájékoztatásra.
-
-(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal, a Központi Bankok Európai Rendszerével és az Európai Rendszerkockázati Testülettel is folytathat információcserét.
-
-(4) A Felügyeletnek – a határozata meghozatalát megelőzően – egyeztetnie kell azon érintett felügyeleti hatósággal, amely felügyeleti feladatának ellátását a döntés érintheti
-
-- a) az engedélyhez kötött tulajdonos személyében, vezető állású személyben bekövetkezett változás,
-- b) szankciók és kivételes intézkedések
-
-tekintetében.
-
-(5) A (4) bekezdéstől eltérően nem áll fenn az előzetes egyeztetési kötelezettség sürgős esetben vagy ha az a döntés hatékonyságát kedvezőtlenül befolyásolja. Ilyenkor a Felügyeletnek az érintett hatóságokat a határozatról utólagosan és haladéktalanul tájékoztatnia kell.
-
-(6) A Felügyelet mint koordinátor a feladata ellátása érdekében a pénzügyi konglomerátum élén álló vállalkozásra vonatkozó adatok és információk átadása érdekében megkeresheti a vállalkozás székhelye szerinti felügyeleti hatóságot.
-
-### Információ átadása
-
-96/N. § (1) A pénzügyi konglomerátumon belüli szabályozott és nem szabályozott vállalkozás, valamint az érintett természetes személy köteles a pénzügyi konglomerátum élén álló vállalkozás részére minden adatot és információt megadni a kiegészítő felügyelet érdekében elvégzendő számításokhoz. Ezen egyedi adatot és információt köteles a pénzügyi konglomerátum élén álló vállalkozás elkülönítetten – az adatvédelmi előírások betartásával – kezelni.
-
-(2) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében szükséges adatért és információért az érintett felügyeleti hatósághoz fordulhat.
-
-### Felügyeleti ellenőrzés
-
-96/O. § (1) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében a pénzügyi konglomerátum vállalkozásai által átadott adatok és információk helyességét jogosult – helyszínen és helyszínen kívül – ellenőrizni.
-
-(2) A Felügyelet az Európai Unió más tagállamának érintett felügyeleti hatóságához fordulhat az ellenőrzés lefolytatása érdekében.
-
-96/P. § (1) A 96/E. § (3) bekezdésének b) és c) pontjában említett hitelintézetet tartalmazó pénzügyi konglomerátum esetében a pénzügyi konglomerátum élén álló harmadik országbeli anyavállalat figyelmen kívül hagyásával kell az érintett hatóságoknak kijelölniük a koordinátort.
-
-(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet az európai felügyeleti hatóságok vegyes bizottsága által kiadott iránymutatásokat is figyelembe véve.
-
-(3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor az olyan pénzügyi konglomerátum kiegészítő felügyeletét, amelynek élén a 96/E. § (3) bekezdésének b), illetőleg c) pontjában meghatározott hitelintézet harmadik országbeli anyavállalata áll, nem a Felügyelet látja el.
-
-(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor a Felügyelet mint koordinátor látja el a kiegészítő felügyeleti feladatokat és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+96/D–96/P. §
 
 ## IV. RÉSZ — BETÉTBIZTOSÍTÁS ÉS INTÉZMÉNYVÉDELEM
 
@@ -3716,7 +3502,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 ### XXII/A. Fejezet
 
-137/A. § (1) A hitelintézet egyedi alapon, a tagállami hitelintézeti anyavállalat, tagállami pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata, EU-szintű hitelintézeti anyavállalat és az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata a 90. § (2) bekezdés szerinti vállalkozások vonatkozásában összevont alapon is nyilvánosságra hozza a külön jogszabályban meghatározott információkat.
+137/A. § (1) A hitelintézet egyedi alapon, a tagállami hitelintézeti anyavállalat, a tagállami pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata, az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat és EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelet alá tartozó hitelintézet leányvállalata a 90. § (2) bekezdésében meghatározott vállalkozások vonatkozásában összevont alapon is nyilvánosságra hozza a hitelintézetek nyilvánosságra hozatali követelményének teljesítéséről szóló kormányrendeletben meghatározott információkat.
 
 (2) A hitelintézet az igazgatóság által jóváhagyott szabályzatban határozza meg a nyilvánosságra hozatali elveket. A szabályzatban meg kell határozni az információ ellenőrzésére, valamint a nyilvánosságra hozatal megfelelőségének értékelésére vonatkozó szabályokat is, illetve a nyilvánosságra hozatal gyakoriságát.
 
@@ -3883,7 +3669,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 (3) Ha a hatóságok az (1) bekezdésben foglalt eljárás során a határozatot négy hónapon belül nem hozzák meg, a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről a leányvállalatok kockázatelemzésének és az Európai Unió tagállamainak hatáskörrel rendelkező felügyeleti hatóságai véleményének figyelembevételével a Felügyelet hozza meg.
 
-(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak.
+(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak, az EU-szintű pénzügyi holding társaság anyavállalatnak vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak.
 
 (5) A Felügyelet a határozat alapjául szolgáló tényállást évente, vagy ha a leányvállalat felügyeletéért felelős illetékes hatóság a pótlólagos tőkekövetelmény előírására vonatkozóan írásban, indokolt esetben kérelmezi, felülvizsgálja. Az utóbbi esetben a felülvizsgálat kétoldalúan is történhet.
 
@@ -5060,6 +4846,8 @@ esetében kell alkalmazni.
 
 234/M. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 51. § (2) bekezdés a) és p) pontot, valamint 53. § (1) bekezdést az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő adatátadások során is alkalmazni kell.
 
+234/N. § A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvénnyel megállapított 44. § (4) bekezdésében foglalt rendelkezéseknek a hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő vegyes pénzügyi holding társaságnak legkésőbb 2014. január 1-től kell megfelelnie.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -5098,17 +4886,17 @@ vonatkozó részletes szabályokat.
 - o)
 - p) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire, továbbá
 - q)
-- r) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módjára, tartalmára, szerkezetére és gyakoriságára
+- r)
 
 vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) a hitelintézetek befektetési szabályzatára,
-- b) a belső ellenőrzési rendszerekre, eljárásokra,
+- b) a belső ellenőrzési rendszerekre, eljárásokra
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat.
+- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
 
 (4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -5342,7 +5130,7 @@ b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapjá
 
 18. Fizetési rendszer: pénzátutalási rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz.
 
-II. Az összevont alapú, valamint a kiegészítő felügyelethez kapcsolódó fogalommeghatározások
+II. Az összevont alapú felügyelethez kapcsolódó fogalommeghatározások
 
 1. Ellenőrző befolyás: az Szmt. szerinti anyavállalat fogalmánál használt meghatározó befolyás, illetőleg egy személy és egy vállalkozás között fennálló olyan kapcsolat, amelynek alapján
 
@@ -5364,33 +5152,21 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 6. Vegyes tevékenységű holding társaság: olyan hitelintézetnek, befektetési vállalkozásnak, pénzügyi holding társaságnak és vegyes pénzügyi holding társaságnak nem minősülő vállalkozás, amelynek legalább egy hitelintézet leányvállalata van.
 
-7. Szabályozott vállalkozás: hitelintézet, befektetési vállalkozás vagy biztosító.
+7–11.
 
-8. Pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság.
+12. Vegyes pénzügyi holding társaság: a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott fogalom.
 
-9. Banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás.
+12a. Tagállami vegyes pénzügyi holding társaság anyavállalat: olyan vegyes pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
 
-10. Befektetési szolgáltatási ágazat: befektetési vállalkozás.
+13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat és az EU-szintű vegyes pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet, valamint az EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság.
 
-11. Biztosítási szolgáltatási ágazat: biztosító, viszontbiztosító, illetőleg biztosítói holding társaság.
+14–15.
 
-12. Vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot.
+16. EU-szintű hitelintézeti anyavállalat: olyan tagállami hitelintézeti anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
-13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet és EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság
+17. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
-14. Érintett felügyeleti hatóság:
-
-a) a pénzügyi konglomerátum szabályozott vállalkozásának felügyeletét ellátó tagállami felügyeleti hatóság, vagy
-
-b) a 96/K. § szerinti koordinátor, vagy
-
-c) az a) és b) pontokban megjelölt felügyeleti hatóságok által kijelölt érdekelt hatóság, ha a pénzügyi konglomerátumnak az érdekelt felügyeleti hatóság tagállamában lévő piaci részesedése eléri az öt százalékot, és az érdekelt felügyeleti hatóság által engedélyezett szabályozott vállalkozás a pénzügyi konglomerátumon belül jelentős.
-
-15. Biztosító: a Bit. 3. §-a (1) bekezdésének 10. pontja szerinti biztosító és a Bit. 3. §-a (1) bekezdésének 23. pontja szerinti harmadik országbeli biztosító.
-
-16. EU-szintű hitelintézeti anyavállalat: olyan tagállami hitelintézeti anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
-
-17. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
+17a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: olyan tagállami vegyes pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik.
 
 III. Egyéb meghatározások
 
@@ -5404,7 +5180,7 @@ b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testüle
 
 c) létesítő okirat, megállapodás alapján vagy összehangoltan eljáró személyek együttműködésének eredményeképpen jelentős befolyást gyakorolhat a vállalkozás működésére.
 
-3. Jó üzleti hírnév: a pénzügyi intézmény és a pénzforgalmi intézmény vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény és a pénzforgalmi intézmény irányítására, illetve tulajdonlására való alkalmasságát igazoló feltételek megléte.
+3. Jó üzleti hírnév: a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a vegyes pénzügyi holding társaság vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a vegyes pénzügyi holding társaság irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte.
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
@@ -5656,9 +5432,9 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 17. Nemteljesítéskori veszteségráta (LGD): az ügyfél nemteljesítéséből származó veszteségnek a nemteljesítés időpontjában fennálló kitettséghez viszonyított aránya.
 
-18. Tagállami hitelintézeti anyavállalat: olyan hitelintézet, amely hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne.
+18. Tagállami hitelintézeti anyavállalat: olyan hitelintézet, amely hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne.
 
-19. Tagállami pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
+19. Tagállami pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik.
 
 20. Üzleti egység: leányvállalat vagy a hitelintézet által meghatározott szempontok szerint egyértelműen körülhatárolható, homogén és más kitettségtől eltérő módon kezelt kitettségek csoportja.
 
@@ -6015,6 +5791,8 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 16. Az Európai Parlament és a Tanács 2009/110/EK irányelve az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről.
 
 17. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
+
+18. Az Európai Parlament és a Tanács 2011. november 16-án kelt 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
 II. Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában:
 
