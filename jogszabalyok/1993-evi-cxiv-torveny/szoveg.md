@@ -17,7 +17,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - e) hosszú távon megőrizhetők legyenek a nemzeti értéket képviselő fajták génjei, egyedei, illetve azok csoportjai, genetikai sokféleségük;
 - f) biztosítsa a nemzetközi előírásokhoz való alkalmazkodást.
 
-2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, prémes állat, méh, hal, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
+2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, csincsilla, eb, mézelő méh, ponty, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
 
 ### Fogalommeghatározások
 
@@ -434,7 +434,9 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 ### Ellenőrzés
 
-44. § A tenyésztési hatóság eljárása során minden olyan helyen ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak.
+44. § (1) A tenyésztési hatóság eljárása során minden olyan helyen – ide értve az engedéllyel vagy tenyésztő szervezeti elismeréssel nem rendelkező személyek vagy szervezetek tevékenységének helyét is – ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak, tenyésztési nyilvántartást vezetnek, illetve egyéb állattenyésztési tevékenységet végeznek.
+
+(2) A tenyésztési hatóság az ellenőrzés során az állatokkal kapcsolatos nyilvántartásokba betekinthet, az állatok adatait, valamint a 18. § (6) bekezdés a) és b) pontjában foglalt adatokat bekérheti, megismerheti.
 
 ### Jogkövetkezmények
 
@@ -465,7 +467,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
 - k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
-(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
+(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés b), c), e) és g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.
 
 (2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
 
