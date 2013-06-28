@@ -775,7 +775,7 @@ osztja szét.
 
 (3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásgazdálkodásért és lakáspolitikáért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
 
-90/A. §
+90/A. § Ha az állami lakás tulajdonjogát ingyenesen közhasznú szervezet vagy köztestület részére ruházták át, vagy azt törvény ingyenesen ilyen szervezet tulajdonába adta, a lakásban határozatlan idejű lakásbérleti joggal rendelkező bérlő bérleti jogviszonyára az e törvény szerinti, állami lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
 
 ### Végrehajtási eljárás
 
