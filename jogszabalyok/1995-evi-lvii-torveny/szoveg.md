@@ -83,9 +83,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (4) A helyi önkormányzat víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
 
-5. § (1) Külön jogszabályban meghatározottaknak megfelelően a területi jelentőségű vízgazdálkodási, vízvédelmi feladatok, koncepciók egyeztetésére, véleményezésére Területi és Részvízgyűjtő szintű, az országos jelentőségű vízgazdálkodási feladatok, koncepciók egyeztetésére, véleményezésére Országos Vízgazdálkodási Tanácsot (a továbbiakban együtt: vízgazdálkodási tanácsok) kell létrehozni.
-
-(2) A vízgazdálkodási tanácsok munkájában a külön jogszabályban meghatározott szervek, szervezetek képviselői és a tárgyalt témában érintettek képviselői vesznek részt.
+5. § A területi jelentőségű vízgazdálkodási, vízvédelmi feladatok, koncepciók egyeztetésére, véleményezésére területi és részvízgyűjtő hatáskörű, az országos jelentőségű vízgazdálkodási feladatok, koncepciók egyeztetésére, véleményezésére országos vízgazdálkodási tanácsot (a továbbiakban együtt: vízgazdálkodási tanácsok) kell létrehozni.
 
 5/A. § (1) Ha jogszabály vízgazdálkodási szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
 
@@ -857,7 +855,7 @@ rendeletben történő megállapítására.
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
-- b) a vízgazdálkodási tanácsok összetételére és működésére vonatkozó szabályok;
+- b)
 - c) a vízgazdálkodás országos és területi rendjének;
 - d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
 - e) a mezőgazdasági vízszolgáltató művek üzemeltetésének

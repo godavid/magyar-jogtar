@@ -61,22 +61,43 @@ terjed ki.
 
 ### Géntechnológiai hatóságok
 
-4. § (1) Géntechnológiai tevékenység végzését a Kormány által határozatban létrehozott testület (a továbbiakban: géntechnológiai testület) 8. § szerint kialakított véleménye alapján
+4. § (1) Géntechnológiai tevékenység végzését a Géntechnológiai Eljárásokat Véleményező Bizottság (a továbbiakban: Géntechnológiai Bizottság) 8. § szerint kialakított véleménye alapján
 
 - a) humán-egészségügyi, humán gyógyszergyártási célú, valamint az emberi testtel közvetlenül érintkező vegyi anyagokkal kapcsolatos géntechnológiai tevékenység esetén az egészségügyi géntechnológiai hatóság,
 - b) a mezőgazdaság és az élelmiszeripar területén történő (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve zárt rendszerű, valamint egyéb ipari célú géntechnológiai tevékenység esetén a környezetvédelmi és mezőgazdasági vonatkozású szempontok figyelembevételével a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság (a továbbiakban az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság együtt: géntechnológiai hatóság) engedélyezi, amennyiben az engedélyezés nemzeti hatáskörbe tartozik.
 
-(2) Az uniós hatáskörbe tartozó engedélyezési eljárásokban a nemzeti hatósági feladatokat a géntechnológiai hatóság látja el, mely a feladatának ellátása során – az adminisztratív feladatokat kivéve – egyeztet a géntechnológiai testülettel. A környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az uniós hatáskörbe tartozó, élelmiszerekre és takarmányokra vonatkozó engedélyezési eljárások során egyeztet az egészségügyi géntechnológiai hatósággal. Az egészségügyi géntechnológiai hatóság az uniós hatáskörbe tartozó engedélyezési eljárások során egyeztet a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatósággal.
+(2) Az uniós hatáskörbe tartozó engedélyezési eljárásokban a nemzeti hatósági feladatokat a géntechnológiai hatóság látja el, mely a feladatának ellátása során – az adminisztratív feladatokat kivéve – egyeztet a Géntechnológiai Bizottsággal. A környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az uniós hatáskörbe tartozó, élelmiszerekre és takarmányokra vonatkozó engedélyezési eljárások során egyeztet az egészségügyi géntechnológiai hatósággal. Az egészségügyi géntechnológiai hatóság az uniós hatáskörbe tartozó engedélyezési eljárások során egyeztet a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatósággal.
 
 (3) Az egészségügyi géntechnológiai hatóság az (1) bekezdés b) pontjában, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az (1) bekezdés a) pontjában meghatározott szakterületeken történő engedélyezés során szakhatóságként jár el.
 
 (4) Az (1) bekezdés szerinti engedélyezési eljárásokban való szakhatósági közreműködés szabályait az e törvény felhatalmazása alapján kiadott jogszabály határozza meg.
 
-### A géntechnológiai testület
+### A Géntechnológiai Bizottság
 
-5. § (1) A géntechnológiai hatóság az engedély iránti kérelmet a géntechnológiai testület véleményére figyelemmel bírálja el. A géntechnológiai hatóság az engedély iránti kérelmet a géntechnológiai testület véleménye ellenére is elutasíthatja vagy az engedélyt megadhatja.
+5. § (1) A géntechnológiai hatóság az engedély iránti kérelmet a Géntechnológiai Bizottság véleményére figyelemmel bírálja el. A géntechnológiai hatóság az engedély iránti kérelmet a Géntechnológiai Bizottság véleménye ellenére is elutasíthatja vagy az engedélyt megadhatja.
 
-(2) A géntechnológiai testület tagjai a minisztériumokkal kormányzati szolgálati jogviszonyban lévő személyek nem lehetnek. A géntechnológiai testület tagjai munkájukért díjazásban részesülnek.
+(2) A Géntechnológiai Bizottságba
+
+- a) a Magyar Tudományos Akadémia a genetika, a környezettudományok, az orvostudományok, az agrártudományok, a jogtudományok és az állatorvostudományok területéről egy-egy, összesen hat,
+- b) az agrárpolitikáért felelős miniszter a mezőgazdaság és az ipar területéről egy-egy,
+- c) a természetvédelemért felelős miniszter a környezetvédelem és a természetvédelem területéről egy-egy,
+- d) az egészségügyért felelős miniszter az egészségügy területéről egy,
+- e) az oktatásért felelős miniszter az oktatás területéről egy,
+- f) a kutatás-fejlesztésért és technológiai innovációért felelős miniszter egy,
+- g) a környezetvédelmi céllal bejegyzett civil szervezetek közösen négy,
+- h) az egészségvédelmi és a fogyasztóvédelmi céllal bejegyzett civil szervezetek közösen egy-egy
+
+képviselőt küldenek.
+
+(3) A Géntechnológiai Bizottság tagjainak megbízatása négy évre szól, ezt követően a küldő intézmény, minisztérium, illetve szervezet új tagot jelöl, illetve választ. A tagok megbízatása egy alkalommal, négyéves időtartamra meghosszabbítható. A küldő intézmény, minisztérium, illetve szervezet új tag jelölése, illetve választása útján, részletes szakmai indoklás mellett kezdeményezheti az általa jelölt, illetve választott tag visszahívását a Géntechnológiai Bizottságból.
+
+(4) Nem lehetnek a Géntechnológiai Bizottság tagjai a minisztériumokkal közszolgálati jogviszonyban lévő személyek. A Géntechnológiai Bizottság tagjai géntechnológiai tevékenységben anyagilag sem közvetlenül, sem közvetve nem lehetnek érdekeltek. A tagok a Géntechnológiai Bizottság munkájában való részvétel előtt összeférhetetlenségi nyilatkozatot tesznek, amely a géntechnológiai hatóság honlapján közzétételre kerül.
+
+(5) A Géntechnológiai Bizottság ülésein a Bizottság meghívására tanácskozási joggal részt vehet a hasznosító is. A Bizottság működési feltételeiről a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel együttesen – a szakterületükön véleményezett ügyekkel arányosan – az agrárpolitikáért felelős miniszter gondoskodik, aki felkéri a tagokat a Bizottság működésében való részvételre.
+
+(6) A Géntechnológiai Bizottság a tagjai közül titkos szavazással, egyszerű szótöbbséggel elnököt választ. Az elnök megbízatása két évre szól. A Bizottság munkáját a tagok közül választott titkár segíti. Az elnöki és a titkári tisztségek betöltésének időtartama nem haladhatja meg a négy évet.
+
+(7) A Géntechnológiai Bizottság szervezetére és működésére vonatkozó egyéb szabályokat e törvény felhatalmazása alapján kiadott jogszabály állapítja meg.
 
 ### Az engedélyezés általános szabályai
 
@@ -103,18 +124,18 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 - a) a kérelem beérkezéséről értesíti az ügyfelet a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügyfél kérelmére történő értesítésére vonatkozó szabályai szerint,
 - b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a felhatalmazása alapján kiadott jogszabály előírásainak; amennyiben a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, hiánypótlásra visszaküldi azt, megjelölve a kérelem elbírálásához szükséges további információkat és benyújtásuk szükségességének okát,
-- c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a géntechnológiai testületnek, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
+- c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a Géntechnológiai Bizottságnak, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
 
-(2) A géntechnológiai testület
+(2) A Géntechnológiai Bizottság
 
 - a) a kérelmet és a hozzá csatolt dokumentációt megvizsgálja,
 - b) felméri a kérelemben foglalt tevékenység folytatásával járó kockázatot,
 - c) elfogadja az Európai Unió tagállamaiban végzett környezeti és biológiai hatásvizsgálatokat, de, ha alapos okból szükséges, a géntechnológiai hatóságnak további ellenőrző kísérletek és vizsgálatok – különösen környezeti és biológiai hatásvizsgálatok – elvégzésének a géntechnológiai hatóság határozatában való előírását javasolja,
 - d) a kérelemben foglalt tevékenységhez hozzájáruló, azt feltételekhez kötő vagy ellenző véleményt készít.
 
-(3) A géntechnológiai testület a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
+(3) A Géntechnológiai Bizottság a (2) bekezdésben előírtak teljesítéséhez szakértő véleményét is kérheti.
 
-(4) A géntechnológiai testület véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
+(4) A Géntechnológiai Bizottság véleményének kialakításánál – a (2) bekezdésben foglaltakkal összhangban – vizsgálja a géntechnológiával módosított szervezet alkalmazásának közvetlen vagy közvetett, azonnali vagy később várhatóan bekövetkező hatásait, így különösen:
 
 – a hatására bekövetkező változást az emberben és a természetes szervezetekben, mindenekelőtt a DNS-ben és az ellenálló képességben,
 
@@ -126,7 +147,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (5) A (2) bekezdés c) pontjában meghatározott ellenőrző kísérletek és vizsgálatok elvégzésének költségeit a hasznosító viseli. A (3) bekezdésben meghatározott szakértők közreműködésének költségeit a szakterületüknek megfelelően a természetvédelemért, a kutatás-fejlesztésért és technológiai innovációért, az egészségügyért, valamint az oktatásért felelős miniszter által vezetett minisztérium költségvetési előirányzataiban kell biztosítani.
 
-(6) A géntechnológiai testület a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.
+(6) A Géntechnológiai Bizottság a kérelemre vonatkozó véleményét a géntechnológiai hatóságnak a kérelem kézhezvételétől számított 30 napon belül megküldi.
 
 ### A géntechnológiai módosítás és a zárt rendszerű felhasználás engedélyezésének különös szabályai
 
@@ -140,7 +161,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (2)–(3)
 
-(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében hivatalos lapjában és honlapján közzéteszi. Az engedély tervezetére annak a hivatalos lapban való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a géntechnológiai testületnek. Az észrevételt annak kézhezvételétől számított 10 napon belül a géntechnológiai testület megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a géntechnológiai testület véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
+(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében hivatalos lapjában és honlapján közzéteszi. Az engedély tervezetére annak a hivatalos lapban való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a Géntechnológiai Bizottságnak. Az észrevételt annak kézhezvételétől számított 10 napon belül a Géntechnológiai Bizottság megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
 
 (5) Az eljárási határidő számításakor nem kell figyelembe venni azt az időtartamot, amely alatt a géntechnológiai hatóság a társadalmi konzultációt lefolytatja.
 
@@ -170,9 +191,9 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (2) A géntechnológiai hatóság az éves jelentés alapján a nem forgalomba hozatali célú kibocsátást felülvizsgálja, amelynek során figyelembe veszi az ellenőrzésre jogosult hatóság által a területi bejárásról évközben megküldött ellenőrzési jegyzőkönyveket is.
 
-(3) A géntechnológiai hatóság az éves jelentést, illetve az (1) bekezdés szerinti nyilatkozatot véleményezés céljából megküldi a géntechnológiai testületnek és a szakhatósági állásfoglalás kialakítása céljából az engedélyezési eljárásban az e törvény felhatalmazása alapján kiadott kormányrendelet szerinti esetben közreműködő szakhatóságnak. A géntechnológiai testület a jelentéssel kapcsolatos véleményét, valamint az engedély esetleges módosítására vagy visszavonására vonatkozó véleményét a jelentés kézhezvételétől számított 30 napon belül a géntechnológiai hatóságnak megküldi.
+(3) A géntechnológiai hatóság az éves jelentést, illetve az (1) bekezdés szerinti nyilatkozatot véleményezés céljából megküldi a Géntechnológiai Bizottságnak és a szakhatósági állásfoglalás kialakítása céljából az engedélyezési eljárásban az e törvény felhatalmazása alapján kiadott kormányrendelet szerinti esetben közreműködő szakhatóságnak. A Géntechnológiai Bizottság a jelentéssel kapcsolatos véleményét, valamint az engedély esetleges módosítására vagy visszavonására vonatkozó véleményét a jelentés kézhezvételétől számított 30 napon belül a géntechnológiai hatóságnak megküldi.
 
-(4) Ha a felülvizsgálat azzal az eredménnyel zárul, hogy az engedély megadásakor figyelembe vett feltételek, illetve körülmények megváltoztak, a géntechnológiai hatóság a géntechnológiai testület véleményének kikérését követően az engedélyt módosítja. Ha azonban a megváltozott feltételek, illetve körülmények folytán az engedély megadásának feltételei már nem állnak fenn vagy a kibocsátás nem felel meg a jogszabályi előírásoknak, illetve nem tesz eleget az engedélyben foglaltaknak, a géntechnológiai hatóság a géntechnológiai testület véleményének kikérését követően az engedélyt visszavonja.
+(4) Ha a felülvizsgálat azzal az eredménnyel zárul, hogy az engedély megadásakor figyelembe vett feltételek, illetve körülmények megváltoztak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének kikérését követően az engedélyt módosítja. Ha azonban a megváltozott feltételek, illetve körülmények folytán az engedély megadásának feltételei már nem állnak fenn vagy a kibocsátás nem felel meg a jogszabályi előírásoknak, illetve nem tesz eleget az engedélyben foglaltaknak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének kikérését követően az engedélyt visszavonja.
 
 ### A forgalomba hozatal különös szabályai
 
@@ -273,11 +294,11 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 - b) az engedélyezési határozatot, valamint
 - c) a géntechnológiai módosításokat végző laboratóriumok és a laboratóriumok felelős vezetőinek nevét tartalmazó jegyzéket.
 
-(2) A géntechnológiai testület tagja a géntechnológiai testület működés során tudomására jutott adatokat köteles bizalmasan kezelni, és azokról csak a kérelmező hozzájárulása esetén adhat harmadik személynek tájékoztatást. Ezt a rendelkezést kell alkalmazni akkor is, ha a hasznosító a benyújtott kérelmét visszavonja.
+(2) A Géntechnológiai Bizottság tagja a Géntechnológiai Bizottság működés során tudomására jutott adatokat köteles bizalmasan kezelni, és azokról csak a kérelmező hozzájárulása esetén adhat harmadik személynek tájékoztatást. Ezt a rendelkezést kell alkalmazni akkor is, ha a hasznosító a benyújtott kérelmét visszavonja.
 
 (3) Az (1) bekezdés szerinti adatokat a géntechnológiai hatóság – az (1) bekezdés a) pontja szerinti adatok esetén az engedély tervezetének közzétételével egyidejűleg – küldi meg a nyilvántartó szerv részére.
 
-(4) A nyilvántartás céljából átadott adatok közül a hasznosító üzleti titokhoz vagy szabadalomhoz, illetve fajtaoltalomhoz fűződő jogát sértő adatok nem nyilvánosak, amennyiben azok ilyen módon való kezelését a hasznosító a géntechnológiai testülettől vagy a géntechnológiai hatóságtól kéri.
+(4) A nyilvántartás céljából átadott adatok közül a hasznosító üzleti titokhoz vagy szabadalomhoz, illetve fajtaoltalomhoz fűződő jogát sértő adatok nem nyilvánosak, amennyiben azok ilyen módon való kezelését a hasznosító a Géntechnológiai Bizottságtól vagy a géntechnológiai hatóságtól kéri.
 
 (5) A nyilvántartó szerv az adatokat az engedélyben meghatározott jogosultsági idő lejártát követő 10 évig tartja nyilván.
 
@@ -287,9 +308,9 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (3) A 19. § (1) bekezdésében meghatározott adatok nyilvántartására és hozzáférhetőségére vonatkozó részletes szabályokat az e törvény felhatalmazása alapján kiadott jogszabály állapítja meg.
 
-21. § (1) Az ellenőrzésre jogosult hatóság évente tájékoztatót készít a géntechnológiai hatóságnak a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerű felhasználásának és kibocsátásának ellenőrzéséről, amelyet tájékoztatásul megküld a géntechnológiai testület részére is.
+21. § (1) Az ellenőrzésre jogosult hatóság évente tájékoztatót készít a géntechnológiai hatóságnak a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerű felhasználásának és kibocsátásának ellenőrzéséről, amelyet tájékoztatásul megküld a Géntechnológiai Bizottság részére is.
 
-(2) A géntechnológiai testület tevékenységével összefüggő feladatok teljesítéséről annak elnöke és titkára évente összefoglaló beszámolót készít, amelynek részét képezik az (1) bekezdésben meghatározott tájékoztatók. A beszámolót az agrárpolitikáért felelős miniszter által vezetett minisztérium a hivatalos lapjában és honlapján közzéteszi.
+(2) A Géntechnológiai Bizottság tevékenységével összefüggő feladatok teljesítéséről annak elnöke és titkára évente összefoglaló beszámolót készít, amelynek részét képezik az (1) bekezdésben meghatározott tájékoztatók. A beszámolót az agrárpolitikáért felelős miniszter által vezetett minisztérium a hivatalos lapjában és honlapján közzéteszi.
 
 ### Baleset
 
@@ -359,7 +380,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (2)
 
-(3) A 22. § (1), (2) és (3a)–(6) bekezdését, a géntechnológiai testületre és a szakhatóságokra vonatkozó előírás kivételével a 23. §-t, 24/A. §-t, valamint a 25. § (1) bekezdés első mondatát az egymás melletti termesztésre is alkalmazni kell azzal az eltéréssel, hogy az ott nevesített géntechnológiai tevékenység helyett egymás melletti termesztést, géntechnológiai hatóság helyett termesztési hatóságot, a géntechnológiai tevékenység ellenőrzésére jogosult hatóság helyett az egymás melletti termesztés ellenőrzésére jogosult hatóságot, hasznosító helyett pedig termesztésre jogosultat kell érteni.
+(3) A 22. § (1), (2) és (3a)–(6) bekezdését, a Géntechnológiai Bizottságra és a szakhatóságokra vonatkozó előírás kivételével a 23. §-t, 24/A. §-t, valamint a 25. § (1) bekezdés első mondatát az egymás melletti termesztésre is alkalmazni kell azzal az eltéréssel, hogy az ott nevesített géntechnológiai tevékenység helyett egymás melletti termesztést, géntechnológiai hatóság helyett termesztési hatóságot, a géntechnológiai tevékenység ellenőrzésére jogosult hatóság helyett az egymás melletti termesztés ellenőrzésére jogosult hatóságot, hasznosító helyett pedig termesztésre jogosultat kell érteni.
 
 (4) Amennyiben az ellenőrzés során megállapítást nyer, hogy a pufferzónán belüli földtulajdonos, illetve földhasználó megszegi a 21/B. § (9) bekezdésében foglalt tilalmat, az egymás melletti termesztés ellenőrzésére jogosult hatóság értesítése alapján a termesztési hatóság kötelezi a jogsértőt a tilalom ellenére termesztett növények megsemmisítésére.
 
@@ -383,7 +404,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 ### IV. Fejezet — HATÓSÁGI ELLENŐRZÉS ÉS INTÉZKEDÉSEK
 
-22. § (1) A géntechnológiai tevékenységgel kapcsolatos jogszabályokban és az engedélyben foglaltak betartását az ellenőrzésre jogosult hatóság a tevékenység helyszínén ellenőrzi. Az ellenőrzésre jogosult hatóság a helyszíni ellenőrzés során a tevékenységet felfüggeszti a géntechnológiai hatóság 25. § (1) bekezdése szerinti döntéséig, ha
+22. § (1) A géntechnológiai tevékenységgel kapcsolatos jogszabályokban és az engedélyben foglaltak betartását az ellenőrzésre jogosult hatóság a tevékenység helyszínén ellenőrzi. Az ellenőrzésre jogosult hatóság a helyszíni ellenőrzés során a tevékenységet felfüggeszti a géntechnológiai hatóság n25. § (1) bekezdése szerinti döntéséig, ha
 
 - a) a tevékenység eltér az engedélyben, valamint a vonatkozó jogszabályokban foglaltaktól,
 - b) nem engedélyezett géntechnológiai tevékenységet észlel,
@@ -415,7 +436,7 @@ esetén.
 
 ### Az engedély feltételhez kötése, módosítása, felfüggesztése, visszavonása
 
-23. § (1) Amennyiben az engedélyezett géntechnológiai tevékenység az engedély alapjául szolgáló kockázat értékeléshez képest kockázatnövekedést jelent, különösen az emberi egészség és a környezet vonatkozásában, a géntechnológiai hatóság hivatalból vagy az engedélyezési eljárásban e törvény felhatalmazása alapján kiadott jogszabály szerinti esetben közreműködött szakhatóság, illetve az ellenőrzésre jogosult hatóság kezdeményezésére, a géntechnológiai testület véleménye alapján
+23. § (1) Amennyiben az engedélyezett géntechnológiai tevékenység az engedély alapjául szolgáló kockázat értékeléshez képest kockázatnövekedést jelent, különösen az emberi egészség és a környezet vonatkozásában, a géntechnológiai hatóság hivatalból vagy az engedélyezési eljárásban e törvény felhatalmazása alapján kiadott jogszabály szerinti esetben közreműködött szakhatóság, illetve az ellenőrzésre jogosult hatóság kezdeményezésére, a Géntechnológiai Bizottság véleménye alapján
 
 - a) a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedélyt feltételhez köti, módosítja, felfüggeszti, vagy ha az engedély megadásának feltételei már nem állnak fenn, az engedélyt visszavonja,
 - b) uniós hatáskörbe tartozó engedély esetén az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kapcsolattartó szerven keresztül kezdeményezi az engedély módosítását vagy visszavonását.
@@ -435,13 +456,13 @@ esetén.
 
 24/A. § Ha a géntechnológiai tevékenység végzésére jogosító engedélyt kérelmező vagy a hasznosító a kérelemben meghatározott géntechnológiával módosított szervezettel, illetve az engedélyezett tevékenységgel kapcsolatban fontos új adatokhoz jut vagy a tevékenységet olyan módon kívánja megváltoztatni, amely az ezzel járó kockázatokat jelentősen megnöveli, az emberi egészség és a környezet védelmét biztosító intézkedések megtétele mellett erről a géntechnológiai hatóságot haladéktalanul tájékoztatnia kell. A kérelmezőnek az engedély iránti kérelemmel benyújtott dokumentációt felül kell vizsgálnia és a kérelmet módosítania kell vagy vissza kell vonnia. A hasznosítónak az engedély iránti kérelemmel benyújtott dokumentációt felül kell vizsgálnia és az engedély módosítására vagy visszavonására irányuló kérelmet kell benyújtania. A géntechnológiai hatóság a hasznosító tájékoztatását követően a 25. § (1) bekezdése szerint jár el.
 
-25. § (1) A géntechnológiai hatóság az ellenőrzésre jogosult hatóság 22. § (1) bekezdése szerinti értesítése, vagy a 22. § (1) bekezdésében foglaltak észlelése esetén az engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról való döntésig az emberi egészséget vagy a környezetet veszélyeztető esetekben a tevékenység folytatását korlátozhatja vagy megtilthatja. A géntechnológiai hatóság az intézkedésről és annak okairól az intézkedés megtétele után haladéktalanul tájékoztatja a géntechnológiai testületet.
+25. § (1) A géntechnológiai hatóság az ellenőrzésre jogosult hatóság 22. § (1) bekezdése szerinti értesítése, vagy a 22. § (1) bekezdésében foglaltak észlelése esetén az engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról való döntésig az emberi egészséget vagy a környezetet veszélyeztető esetekben a tevékenység folytatását korlátozhatja vagy megtilthatja. A géntechnológiai hatóság az intézkedésről és annak okairól az intézkedés megtétele után haladéktalanul tájékoztatja a Géntechnológiai Bizottságot.
 
-(2) A géntechnológiai testület az (1) bekezdésben meghatározott intézkedés fenntartásáról az intézkedésről való tájékoztatás kézhezvételétől számított harminc napon belül véleményt alkot, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a géntechnológiai testület véleményét figyelembe véve dönt az intézkedés fenntartásáról.
+(2) A Géntechnológiai Bizottság az (1) bekezdésben meghatározott intézkedés fenntartásáról az intézkedésről való tájékoztatás kézhezvételétől számított harminc napon belül véleményt alkot, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményét figyelembe véve dönt az intézkedés fenntartásáról.
 
-(3) A tevékenység folytatásának megtiltása esetén, a géntechnológiai testületnek az intézkedés fenntartását indokoltnak tartó véleménye kézhezvétele után a géntechnológiai hatóság a géntechnológiával módosított szervezetek azonnali megsemmisítését rendeli el. A megsemmisítést a géntechnológiai hatóság által kijelölt helyen kell elvégezni, és azt az ellenőrzésre jogosult hatóság ellenőrzi.
+(3) A tevékenység folytatásának megtiltása esetén, a Géntechnológiai Bizottságnak az intézkedés fenntartását indokoltnak tartó véleménye kézhezvétele után a géntechnológiai hatóság a géntechnológiával módosított szervezetek azonnali megsemmisítését rendeli el. A megsemmisítést a géntechnológiai hatóság által kijelölt helyen kell elvégezni, és azt az ellenőrzésre jogosult hatóság ellenőrzi.
 
-(4) A (2) bekezdésben meghatározott határidő a géntechnológiai testület által a döntéshez szükségesnek tartott vizsgálat elvégzésének határidejével meghosszabbodik.
+(4) A (2) bekezdésben meghatározott határidő a Géntechnológiai Bizottság által a döntéshez szükségesnek tartott vizsgálat elvégzésének határidejével meghosszabbodik.
 
 (5)
 
@@ -534,6 +555,8 @@ esetén.
 - d) az egymás melletti termesztésre vonatkozó képzésre és vizsgáztatásra vonatkozó előírásokat.
 
 (9) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben megállapítsa a védzáradéki eljárás alá vont termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és meghatározza a védzáradéki eljárás időtartamára szükséges biztonsági intézkedéseket.
+
+(10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel, az oktatásért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.
 
 35. §
 

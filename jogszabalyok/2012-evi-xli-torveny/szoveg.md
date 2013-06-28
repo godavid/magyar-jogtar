@@ -93,6 +93,7 @@ a következő törvényt alkotja:
 - 33. szociálpolitikai menetdíj-támogatás: személyszállítási közszolgáltatások keretében megvalósuló utazásokhoz az állam által jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott támogatás;
 - 34. többségi befolyás: Ptk. 685/B. §-a szerinti többségi befolyás;
 - 35. vonal: a vasúti közlekedésben a vonatok, a közúti járművel végzett személyszállítási szolgáltatás esetén a közúti járművek indulási és végállomása között az egymás után elhelyezkedő megállási helyek, a hajózásban a kikötési helyeket rögzítő szolgáltatási előírás, függetlenül attól, hogy egy-egy járat megáll-e az adott helyen.
+- 36. közösségi kerékpáros rendszer: több állomásból álló, automatizáltan működő, bárki számára folyamatosan igénybe vehető, rövid távú és egyirányú utazásra alkalmas kerékpár-kölcsönzési rendszer.
 
 #### 3. Együttműködési kötelezettség
 
@@ -188,15 +189,14 @@ a következő törvényt alkotja:
 
 (5) A (3) bekezdésben meghatározott esetben a közforgalmú személyszállítási szolgáltatást teljesítő közlekedési szolgáltató a (4) bekezdésben meghatározott adatokat a polgári jogi igények elévüléséig tartja nyilván.
 
-8. § (1) A vasút-, trolibusz- és az autóbusz-állomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, kikötőben, valamint a személyszállító vasúti járművek, trolibuszok, az autóbuszok és a hajók, kompok belterében, a vasút-, trolibusz- és az autóbusz-állomáson, hajóállomáson és megállóhelyen található berendezések, a személyszállító vasúti járművek, trolibusz, autóbusz, és a hajók, kompok, továbbá az utasok életének, személyének, testi épségének és vagyontárgyaik védelme céljából az információs önrendelkezési jogról és az információsszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, a közlekedésszervező, valamint a vasút-, trolibusz-, autóbusz- és hajóállomás vagy megállóhely, kikötő üzemeltetője (e szakasz alkalmazásában a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, valamint a készített kép- és hangfelvételt kezelni.
+8. § (1) A vasút-, trolibusz-, autóbusz- és közösségi kerékpár-állomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, kikötőben, valamint a személyszállító vasúti járművek, trolibuszok, az autóbuszok és a hajók, kompok belterében, a vasút-, trolibusz-, autóbusz- és közösségi kerékpár-állomáson, hajóállomáson és megállóhelyen található berendezések, a személyszállító vasúti járművek, trolibusz, autóbusz, közösségi kerékpáros rendszer eszközei és a hajók, kompok, továbbá az utasok életének, személyének, testi épségének és vagyontárgyaik védelme céljából az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, a közlekedésszervező, valamint a vasút-, trolibusz-, autóbusz-, közösségi kerékpár- és hajóállomás vagy megállóhely, kikötő üzemeltetője (e szakasz alkalmazásában a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, valamint a készített kép- és hangfelvételt kezelni.
 
 (2) A szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén – a vakok és gyengénlátók számára is érzékelhető módon – köteles
 
 - a) a vasút-, hajó-, trolibusz- és az autóbusz-állomás és megállóhely bejáratánál,
-- b) a személyszállító vasúti járműre, hajóra, trolibuszra és az autóbuszra való felszállásra szolgáló peronoknál, valamint
-- c) a személyszállító vasúti járművön, hajón, trolibuszon és az autóbuszon
-
-figyelemfelhívó jelzést és ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+- b) a személyszállító vasúti járműre, hajóra, trolibuszra, és az autóbuszra való felszállásra szolgáló peronoknál,
+- c) a személyszállító vasúti járművön, hajón, trolibuszon és az autóbuszon, valamint
+- d) közösségi kerékpár gyűjtőállomásán figyelemfelhívó jelzést és ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
 
 (3) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
 
@@ -429,6 +429,8 @@ járati engedéllyel végezhet. Járati engedély a szolgáltató kérelmére, k
 (3) A feladat átadásával kapcsolatos részletes szabályokat, az átadott feladatok pénzügyi és teljesítményi korlátait, valamint a kötelező és az önként vállalt feladatok számviteli elhatárolásának szabályait – a kijelölő jogszabályban meghatározott alapfeltételek alapján – szerződésben (a továbbiakban: feladatellátási szerződés) rögzítik.
 
 (4) A kijelölő jogszabály – az (1)–(3) bekezdésben foglaltak szerint – a közlekedésszervező feladatává teheti az utastájékoztatást, a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását, a jegy- és bérletértékesítést, illetve a jegy- és bérletellenőrzést, valamint a bevételek beszedését.
+
+(4a) A kijelölő jogszabály a közlekedésszervező feladatává teheti a közösségi kerékpáros rendszer létrehozását és fenntartását, amennyiben az a települési önkormányzat – a fővárosban a Fővárosi Önkormányzat – döntése alapján a helyi személyszállítási szolgáltatások integrált részét képezi.
 
 (5) Ha a kijelölő jogszabály a bevételek beszedését a közlekedésszervező feladataként rögzíti, a közlekedési közszolgáltatásokkal kapcsolatos díjbevételek beszedésére, szociális menetdíj-támogatás igénylésére a közlekedésszervező az e törvényben meghatározott szabályok szerint jogosult és kötelezett.
 
@@ -664,9 +666,9 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 - a) azon utazási kedvezmények után, amelynek pénzügyi fedezetére jogszabály más forrást határoz meg,
 - b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitikai céllal nyújt, vagy
-- c) az önkormányzatok által és a nevelési-oktatási intézmények által saját tanulóik részére történő vásárlások kivételével a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
+- c) a nevelési-oktatási intézménnyel jogviszonyban álló gyermek, tanuló részére – az állami intézményfenntartó központ (a továbbiakban: Központ) által fenntartott nevelési oktatási intézmények esetében a Központ, egyéb esetben a nevelési-oktatási intézmény, vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
 
-(5) A nemzeti mobil fizetési szervezet általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől megvásárolja.
+(5) A nemzeti mobil fizetési szervezet általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy annak viszonteladójától megvásárolja.
 
 (6) A szociálpolitikai menetdíj-támogatást igénylő közlekedési szolgáltató köteles a (7)–(8) bekezdésekben meghatározott, támogatás igénybevételére nem jogosító jegy- és bérleteladásokat darabszám, érték és kedvezményes díjtípus szerint a támogatásra jogosító jegy- és bérleteladásoktól elkülönítve nyilvántartani.
 
@@ -878,7 +880,7 @@ leghamarabb kérelmezheti, kezdeményezheti.
 - h) a személygépkocsival díj ellenében végzett közúti személyszállítás részletes szabályait,
 - i) a vízi személyszállítási szolgáltatás feltételeire, a víziközlekedési személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
 - j) a törvény 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdésében, valamint a 32. § (1) bekezdésének e)– h) pontjában, a (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését, továbbá
-- k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által alkalmazható bírság mértékére, valamint megfizetésére vonatkozó részletes szabályokat,
+- k)
 - k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és a közlekedési hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
