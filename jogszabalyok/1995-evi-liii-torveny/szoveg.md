@@ -366,7 +366,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 (5) A Kormány a Program elkészítésekor fennálló feltételek módosulása, illetve a végrehajtás helyzetének alakulásától függően javaslatot tehet a Program felülvizsgálatára. A felülvizsgálat során a Program tervezésére vonatkozó előírásokat kell alkalmazni.
 
-(6) A Program tervezésében, végrehajtásában és szükség szerinti felülvizsgálatában külön jogszabályban meghatározott szerv működik közre.
+(6)
 
 ### A Kormány környezetvédelmi tevékenysége
 
@@ -554,13 +554,13 @@ képviselői.
 
 (2) A regionális környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása regionális szinten hatékony és indokolt.
 
-(3) A regionális környezetvédelmi program végrehajtásáról a regionális fejlesztési tanács gondoskodik és a végrehajtásról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
+(3) A regionális környezetvédelmi program végrehajtásáról a regionális fejlesztési tanács gondoskodik.
 
 (4) A regionális fejlesztési tanács a döntési hatáskörébe utalt támogatásokról szóló döntések meghozatalakor elősegíti a programban előirányzott fejlesztések támogatását.
 
 48/D. § (1) A megyei környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása megyei szinten hatékony és indokolt.
 
-(2) A megyei közgyűlés gondoskodik a megyei környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, figyelemmel kíséri az azokban foglalt feladatok megoldását. A megyei közgyűlés a végrehajtásról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
+(2) A megyei közgyűlés gondoskodik a megyei környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, figyelemmel kíséri az azokban foglalt feladatok megoldását.
 
 (3) A megyei önkormányzat éves költségvetéséről szóló zárszámadásával egyidejűleg be kell számolni a megyei környezetvédelmi program végrehajtásának előző évi alakulásáról.
 
@@ -600,7 +600,7 @@ kapcsolatos feladatokat és előírásokat.
 
 (3) A települési önkormányzat gondoskodik a települési környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, és figyelemmel kíséri a feladatok ellátását.
 
-(4) A fővárosi közgyűlés a környezetvédelmi programja végrehajtásáról legalább kétévente tájékoztatja a 40. § (6) bekezdésben meghatározott közreműködő szervet.
+(4)
 
 (5) Települési önkormányzatok – az önálló települési környezetvédelmi program mellett vagy helyett – közös települési környezetvédelmi programot is készíthetnek.
 
@@ -619,7 +619,7 @@ véleményezésre megküldi.
 
 (4) A véleményező szervek szakmai véleményükről hatvan napon belül tájékoztatják a környezetvédelmi program kidolgozóját.
 
-(5) Az elfogadott területi környezetvédelmi programot meg kell küldeni a program tervezetét véleményezőknek. Az elfogadott regionális és a megyei környezetvédelmi programot a 40. § (6) bekezdésben meghatározott közreműködő szerv részére is meg kell küldeni tájékoztatásul.
+(5) Az elfogadott területi környezetvédelmi programot meg kell küldeni a program tervezetét véleményezőknek.
 
 (6) A területi környezetvédelmi programok végrehajtásának helyzetéről a lakosságot rendszeres időközönként tájékoztatni kell.
 

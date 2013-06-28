@@ -50,8 +50,12 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 10. csomagolási segédanyag: a csomagolás kiegészítő vagy járulékos részeként felhasználható – így különösen záró, rögzítő, párnázó, díszítő – elemek, valamint kellékek, így különösen címke, páralekötő anyag, hordfogantyú, ragasztó gyűjtőfogalma;
 - 11. egyéb csomagolószer: csomagolóanyag, csomagolási segédanyag;
 - 12. egyéni hulladékkezelés: az 1. § (3) bekezdés a) és b), valamint d) és e) pontja szerinti termékdíjköteles termék termék- és anyagáramából keletkezett hulladék
-  - a) magánszemély vevőtől a kötelezett telephelyén történő saját gyűjtése, ideértve a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtését, illetve
-  - b) saját célú felhasználás esetén kötelezett telephelyén történő gyűjtése és az a) és b) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
+  - a) végfelhasználó vevőtől a kötelezett telephelyén történő saját gyűjtése, ideértve a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtését,
+  - b) saját célú felhasználás esetén a kötelezett telephelyén történő gyűjtése, vagy
+  - c) végfelhasználó vevőtől csomagolószer hulladékának hajléktalan-ellátó szervezettel vagy intézménnyel ténylegesen, közösen a szervezet, intézmény épületében elhelyezett gyűjtőautomatával történő gyűjtése
+
+és az a)–c) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
+
 - 13. elektromos, elektronikai berendezés: legfeljebb 1000 V váltakozó feszültségű, illetve 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőktől vagy villamos áramtól függ, ideértve az elektromágneses mező, illetve villamos áram előállítását, mérését, átvitelét biztosító eszközöket is;
 - 14. forgalomba hozatal: termékdíjköteles termék tulajdonjogának első belföldi ingyenes vagy visszterhes átruházása, ideértve a más termék tartozékaként vagy alkotórészeként való átruházást, továbbá a csomagolószer csomagolás részekénti átruházását, nem minősül forgalomba hozatalnak a termékdíjköteles terméknek a természetes személy által nem gazdasági tevékenység keretében végzett átruházása;
 - 15. harmadik ország: az Európai Közösségen kívüli állam;

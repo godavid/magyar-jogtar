@@ -467,7 +467,7 @@ az élelmiszerlánc-felügyeleti szervnek haladéktalanul jelenteni.
 
 (4) A vadászható madárfajok egyedeire, a fészekrakás és fiókanevelés időszakában, illetve a szaporodási időszakban – vonuló fajok esetében a fiókanevelési területükre történő visszatérésük során is – tilos vadászni.
 
-38/A. § (1) Amennyiben nincs más kielégítő megoldás és az érintett vadászható vadfajok állományának a (6) bekezdésben meghatározott kedvező védelmi helyzete nem sérül, közösségi jelentőségű vadászható vadfaj vonatkozásában a vadászati hatóság a szükséges mértékben és módon a 28. § (4) bekezdésében, a 30. § (2) bekezdésében, a 38. § (3) bekezdésében és a 39. § (3) bekezdésében foglalt tevékenységeket a következő – madárfaj esetében csak az a)–f) pontban szereplő – okból engedélyezheti, illetve rendelheti el:
+38/A. § (1) Amennyiben nincs más kielégítő megoldás és az érintett vadászható vadfajok állományának az (5) bekezdésben meghatározott kedvező védelmi helyzete nem sérül, közösségi jelentőségű vadászható vadfaj vonatkozásában a vadászati hatóság a szükséges mértékben és módon a 28. § (4) bekezdésében, a 30. § (2) bekezdésében, a 38. § (3) bekezdésében és a 39. § (3) bekezdésében foglalt tevékenységeket a következő – madárfaj esetében csak az a)–f) pontban szereplő – okból engedélyezheti, illetve rendelheti el:
 
 - a) közegészségügyi, illetve közbiztonsági okból,
 - b) a légi közlekedés biztonsága érdekében,
@@ -689,7 +689,7 @@ kell biztosítani.
 59. § Vadász az a személy lehet, aki rendelkezik:
 
 - a) vadászjeggyel vagy vadászati engedéllyel;
-- b) vadászlőfegyver-tartási engedéllyel;
+- b) vadászlőfegyverrel vadászó vadász esetén, vadászlőfegyver-tartási engedéllyel;
 - c) a ragadozó madárral vadászó vadász esetén a természetvédelmi hatóság által ragadozó madár tartására kiadott engedéllyel.
 - d)
 
@@ -739,7 +739,7 @@ kell biztosítani.
 - a) a vadászjegyet vagy a vadászati engedélyt (a továbbiakban együtt: engedély),
 - b) az egyéni lőjegyzéket,
 - c) az e törvényben írt vadfaj vadászata esetén az azonosítójelet, továbbá
-- d) a vadászlőfegyver-tartási engedélyt, vagy ragadozó madárral való vadászatra jogosító engedélyt
+- d) vadászlőfegyverrel történő vadászat esetén a vadászlőfegyver-tartási engedélyt, vagy ragadozó madárral történő vadászat esetén a ragadozó madárral való vadászatra jogosító engedélyt
 
 a vadászat alkalmával köteles állandóan magánál tartani, és azt a jogosult, a hivatásos vadász, a vadászati hatóság, a rendőri szerv, valamint a természetvédelmi hatóság felhívására bemutatni.
 
@@ -767,7 +767,7 @@ a vadászat alkalmával köteles állandóan magánál tartani, és azt a jogosu
 
 ### Vadászvizsga
 
-66. § (1) Vadászvizsgát (a továbbiakban: vizsga) kizárólag a kamara által megbízott, legalább három főből álló bizottság (a továbbiakban: bizottság) előtt lehet tenni. A bizottság egyik tagja a miniszter által kijelölt személy. A bizottság munkájában való részvételre csak felsőfokú vadgazdálkodási képesítéssel rendelkező személy kérhető fel.
+66. § (1) Vadászvizsgát (a továbbiakban: vizsga) kizárólag a kamara által megbízott, három főből álló bizottság előtt lehet tenni.
 
 (2) A vizsga a vadászati jog gyakorlásával, hasznosításával, továbbá a természetvédelemmel kapcsolatos elméleti ismeretekből, valamint – kivéve a kizárólag vadászíjjal, illetve ragadozó madárral vadászókat – sörétes és golyós lőfegyverrel történő gyakorlati vadászlövészetből áll. Az íjjal vadászók gyakorlati vadászíjász, a ragadozó madárral vadászók gyakorlati solymász vizsgát tesznek.
 
@@ -1131,7 +1131,7 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 92. § (1) A miniszter a vadászati igazgatással összefüggő egyes szervezési feladatait a vadászati hatóság útján látja el. A vadászati hatóság:
 
 - a) nyilvántartást vezet a vadászterületekről, a jogosult nevéről (cégéről), címéről (székhelyéről), valamint a vadászati jog haszonbérleti szerződésekről;
-- b) gondoskodik a vadászvizsga megszervezéséről;
+- b) a kamara bevonásával gondoskodik a vadászvizsga megszervezéséről;
 - c) nyilvántartást vezet a hivatásos vadászokról;
 - d) a vadászati jog gyakorlásával, hasznosításával összefüggésben statisztikai adatokat gyűjt, illetve szolgáltat;
 - e) összeállítja és közzéteszi a vadkárbecslői szakértői névsort;
@@ -1144,11 +1144,7 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakóhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
 - b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-93. § (1) A miniszter a feladat- és hatáskörébe tartozó, a vad védelmét, a vadgazdálkodást, a vadászati jog gyakorlását, hasznosítását érintő kérdésekben véleményező, javaslattevő tevékenységet ellátó Országos Vadgazdálkodási Tanácsot, valamint területi vadgazdálkodási tanácsokat (a továbbiakban: Vadgazdálkodási Tanács) hoz létre.
-
-(2) A Vadgazdálkodási Tanács tevékenységével elősegíti a vadgazdálkodói érdekeltség és a vadászati jog gyakorlásához, hasznosításához fűződő közérdek közötti összhang megteremtését.
-
-(3) A Vadgazdálkodási Tanács a miniszter felkérése alapján véleményt nyilvánít a vadászati jog gyakorlását, hasznosítását érintő szakmai kérdésekben, valamint jogszabálytervezetekről.
+#### 93. §
 
 #### 94. §
 
@@ -1192,7 +1188,7 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 
 - a) a természetvédelemért felelős miniszterrel egyetértésben rendeletben szabályozza 1. a vadászható állatfajok körét, valamint a közösségi jelentőségű vadászható vadfajok körét, 2. a vadászati idényt, 3. a vízivad vadászata rendjének szabályait, az ólomsörét használatának tilalma alá eső vizes területeket, 4. a körzeti vadgazdálkodási terv védett természeti területekre vonatkozó kötelező előírásait;
 - b) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
-- c) rendeletben szabályozza 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat, 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, valamint a körzeti vadgazdálkodási terv védett természeti területekre nem vonatkozó kötelező előírásait, 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait, 4. a vadjelölési szabályokat, 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, 6. a vadászjegyre, az egyéni lőjegyzékre és a vadászati engedélyre vonatkozó szabályokat, 7. a vadászkutya fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és használatának, valamint vizsgáztatásának szabályait, 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait, 9. a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot, 10. az egyes vadfajok vadászatának formáját, 11. a vadászat rendjének általános szabályait, valamint a nem vízivad vadfajok vadászata rendjének szabályait, 12. a trófeabírálat szabályait, 13. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait, 14. a vad elejtésével kapcsolatos szabályokat, 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat, 16. a vadászterület határa megállapításának szabályait, 17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait, 18. az önálló és a társult vadászati jog gyakorlásának szabályait, 19. a bérvadászat szabályait, 20. a vadaskert, vadaspark és a vadfarm létesítésének szabályait, 21. a hatósági vadászat szabályait, 22. a vadvédelmi és vadászati célú kerítés létesítésének szabályait, 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait, 24. a hivatásos vadász alkalmazásának, tevékenységének és nyilvántartásának szabályait, 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat, 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat, 27. a vadászati hatóság eljárására vonatkozó szabályokat, 28. az Országos Vadgazdálkodási Tanács létrehozására és működésére vonatkozó szabályokat, 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját, 30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét, 32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
+- c) rendeletben szabályozza 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat, 2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, valamint a körzeti vadgazdálkodási terv védett természeti területekre nem vonatkozó kötelező előírásait, 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének és a szolgálati naplójának mintáját, továbbá annak vezetési szabályait, 4. a vadjelölési szabályokat, 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, 6. a vadászjegyre, az egyéni lőjegyzékre és a vadászati engedélyre vonatkozó szabályokat, 7. a vadászkutya fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és használatának, valamint vizsgáztatásának szabályait, 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait, 9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot, 10. az egyes vadfajok vadászatának formáját, 11. a vadászat rendjének általános szabályait, valamint a nem vízivad vadfajok vadászata rendjének szabályait, 12. a trófeabírálat szabályait, 13. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait, 14. a vad elejtésével kapcsolatos szabályokat, 15. a vad, vadhús felvásárlása, feldolgozása, forgalomba hozatala során vezetett nyilvántartásra vonatkozó szabályokat, 16. a vadászterület határa megállapításának szabályait, 17. a vadászterületek és a vadászatra jogosultak nyilvántartásának szabályait, 18. az önálló és a társult vadászati jog gyakorlásának szabályait, 19. a bérvadászat szabályait, 20. a vadaskert, vadaspark és a vadfarm létesítésének szabályait, 21. a hatósági vadászat szabályait, 22. a vadvédelmi és vadászati célú kerítés létesítésének szabályait, 23. a mesterséges vadtenyésztés, továbbá a vad befogásának szabályait, 24. a hivatásos vadász alkalmazásának, tevékenységének és nyilvántartásának szabályait, 25. a vadászati jog gyakorlásának, hasznosításának módjáról és feltételeiről szóló működési szabályzatra vonatkozó szabályokat, 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat, 27. a vadászati hatóság eljárására vonatkozó szabályokat, 28. 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját, 30. az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, 31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét, 32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.
 

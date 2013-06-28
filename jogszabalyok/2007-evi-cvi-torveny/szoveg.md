@@ -36,13 +36,19 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2) A központi költségvetési szerv – ha törvény eltérően nem rendelkezik – önálló tulajdonjoggal nem rendelkezik, bármely dolog tulajdonjogát, gazdálkodó szervezet részesedését, vagy valamely vagyoni értékű jogot a Magyar Állam javára szerez meg.
 
-3. § (1) Az állami vagyon felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét – ha törvény eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) gyakorolja, aki e feladatát a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Magyar Fejlesztési Bank, illetve a (2) bekezdés szerinti tulajdonosi joggyakorló szervezet útján látja el.
+3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként:
+
+- a) ha törvény vagy miniszteri rendelet eltérően nem rendelkezik, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.),
+- b) törvényben kijelölt személy vagy
+- c) az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) által rendeletben kijelölt személy
+
+gyakorolja.
 
 (1a) Azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a tulajdonosi jogokat a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint gyakorolja.
 
 (1b) Az Egészségbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat az egészségbiztosításért felelős miniszter, a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat a nyugdíjpolitikáért felelős miniszter gyakorolja.
 
-(2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az (1) bekezdés alapján őt megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
+(2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
 
 (3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2) bekezdés alapján a Magyar Állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
 
@@ -53,6 +59,8 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
 
 (2) Az állami vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy a közérdekű adatok nyilvánosságáról szóló törvény szerinti közfeladatot ellátó szervnek vagy személynek minősül.
+
+5/A. § Az e törvény anyagi és eljárási szabályainak megsértésével kötött szerződés semmis.
 
 ### II. Fejezet
 
@@ -263,11 +271,13 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### IV. Fejezet — AZ ÁLLAMI VAGYONNAL VALÓ GAZDÁLKODÁS
 
-23. § (1) Az állami vagyont az MNV Zrt. maga kezeli, vagy szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján központi költségvetési szervnek, természetes vagy jogi személynek, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek hasznosításra átengedi.
+23. § (1) Az állami vagyonnal a tulajdonosi joggyakorló maga gazdálkodik, vagy szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján hasznosításra átengedi, illetőleg vagyonkezelésbe, haszonélvezetbe adja.
 
 (2) Az állami vagyon hasznosítására kötött szerződések elsődleges célja az állami vagyon hatékony működtetése, állagának védelme, értékének megőrzése, illetve gyarapítása, az állami és közfeladatok ellátásának elősegítése.
 
-(3) Az MNV Zrt. a vagyon hasznosításának átengedésére csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – a Magyar Állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
+(3) A tulajdonosi joggyakorló és a vagyonkezelő a vagyon hasznosítására csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – az állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
+
+(4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás eredményeként a szerződés a pályázati kiírástól, valamint a nyertes pályázattól eltérő tartalommal nem köthető meg.
 
 24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
@@ -283,7 +293,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (4) Zártkörű pályázat esetén egyidejűleg, közvetlenül és azonos módon – a pályázati felhívás megküldésével – legalább három egymástól független érdekeltet írásban kell felhívni ajánlattételre.
 
-(5) Az (1)–(4) bekezdésben foglaltak irányadóak akkor is, ha központi költségvetési szerv vagy állami tulajdonú gazdasági társaság a használat, vagy az MNV Zrt.-vel kötött szerződés alapján őt megillető más jog gyakorlását – amennyiben erre az MNV Zrt.-vel kötött szerződése lehetőséget ad – bérleti vagy más visszterhes szerződés alapján harmadik személynek átengedi.
+(5) Az (1)–(4) bekezdésben foglaltak irányadóak akkor is, ha központi költségvetési szerv vagy állami tulajdonú gazdasági társaság a használat, vagy a tulajdonosi joggyakorlóval kötött szerződés alapján őt megillető más jog gyakorlását – amennyiben erre a tulajdonosi joggyakorlóval kötött szerződése lehetőséget ad – bérleti vagy más visszterhes szerződés alapján harmadik személynek átengedi.
 
 (6) Amennyiben az állami vagyon használatára irányuló valamely szerződés vételi jogot is biztosít a használati jog jogosultja számára, akkor a használati jog átengedése az állami vagyon értékesítésére vonatkozó szabályok szerint történhet.
 
@@ -295,17 +305,17 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - d) a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet VI. címében meghatározott közélet tisztasága elleni vagy XVII. fejezetében meghatározott gazdasági bűncselekmény elkövetése miatt büntetett előéletű, aki gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll, illetve akinek tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdése alapján a bíróság jogerős ítéletében korlátozta;
 - e) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott és ezért az eljárásból kizárták.
 
-(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, az MNV Zrt. jogosult a szerződést azonnali hatállyal felmondani.
+(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, az a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
 
 (3) Az értékesítés szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
 (4) Az állami vagyon hasznosítására irányuló szerződést írásba kell foglalni.
 
-25/A. § (1) Az állami vagyon hasznosítására irányuló szerződés megkötését megelőzően a szerződő fél azt a tényt, hogy vele szemben nem áll fenn a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, hatósági bizonyítvánnyal igazolja az MNV Zrt. részére. Ha a szerződő fél nem igazolja, hogy vele szemben nem áll fenn a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, vele az állami vagyon hasznosítására irányuló szerződés nem köthető.
+25/A. § (1) Az állami vagyon hasznosítására irányuló szerződés megkötését megelőzően a szerződő fél azt a tényt, hogy vele szemben nem áll fenn a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, hatósági bizonyítvánnyal igazolja az a tulajdonosi joggyakorló részére. Ha a szerződő fél nem igazolja, hogy vele szemben nem áll fenn a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, vele az állami vagyon hasznosítására irányuló szerződés nem köthető.
 
-(2) A szerződés érvényességének időtartama alatt az MNV Zrt. a szerződő felet írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy vele szemben a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok fenn áll-e. Ha a szerződő fél igazolja, hogy vele szemben nem áll fenn 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, az MNV Zrt. az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+(2) A szerződés érvényességének időtartama alatt az a tulajdonosi joggyakorló a szerződő felet írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy vele szemben a 25. § (1) bekezdés d) pontjában meghatározott kizáró ok fenn áll-e. Ha a szerződő fél igazolja, hogy vele szemben nem áll fenn 25. § (1) bekezdés d) pontjában meghatározott kizáró ok, az a tulajdonosi joggyakorló az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
 
-(3) Az MNV Zrt.
+(3) Az a tulajdonosi joggyakorló
 
 - a) az (1) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés megkötéséről meghozott döntés időpontjáig,
 - b) a (2) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés érvényessége végéig kezeli.
@@ -314,15 +324,23 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### A vagyonkezelés szabályai
 
-27. § (1) Az állami vagyonra vonatkozóan az MNV Zrt. kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
+27. § (1) Az állami vagyonra vonatkozóan az a tulajdonosi joggyakorló kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
 
-(2) A vagyonkezelő köteles a vagyontárgy értékét megőrizni, állagának megóvásáról, jó karban tartásáról, működtetéséről gondoskodni, továbbá – a központi költségvetési szervek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.
+(2) A vagyonkezelő köteles a vagyontárgy állagának megóvásáról, jó karbantartásáról, működtetéséről gondoskodni, továbbá – a központi költségvetési szervek kivételével – díjat fizetni, jogszabályban és szerződésben előírt más kötelezettségét teljesíteni, valamint a vagyontárgyat jogszabályban vagy szerződésben meghatározott célnak megfelelően használni. Amennyiben a vagyonkezelő ezen kötelezettségének nem tesz eleget, a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
 
 (3) A vagyonkezelési szerződés valamely, az államot megillető jog gyakorlásának átengedésére is irányulhat, ilyen esetben a dolgok vagyonkezelésének szabályait kell megfelelően alkalmazni.
 
 (4)
 
 (5) A vagyonkezelés további szabályait, valamint a vagyonkezelt állami vagyon és az ahhoz kapcsolódó bevételek és kiadások nyilvántartásának szabályait a Kormány rendeletben állapítja meg.
+
+(6) A vagyonkezelő a vagyonkezelt eszközökkel kapcsolatban köteles a tulajdonosi joggyakorlóval egyeztetett számviteli politikájában meghatározott módon értékcsökkenést elszámolni.
+
+(7) A vagyonkezelő – a központi költségvetési szervek kivételével – a vagyonkezelt eszközök értékének megőrzéséről legalább a vagyonkezelt eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni (visszapótlási kötelezettség), valamint e célra az értékcsökkenésnek megfelelő mértékben céltartalékot képezni.
+
+(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
+
+(9) A visszapótlási kötelezettség módját és mértékét, a visszapótlási kötelezettség alóli (8) bekezdés szerinti felmentés tényét, a céltartalék képzésének és felhasználásának rendjét, részletes tartalmát a vagyonkezelési szerződésben kell rögzíteni.
 
 ### Központi költségvetési szervek vagyongazdálkodására vonatkozó szabályok
 
@@ -370,7 +388,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### Az elidegenítés általános szabályai
 
-33. § (1) Állami vagyon tulajdonjogának átruházására, ideértve a vagyon gazdasági társaság részére nem pénzbeli szolgáltatásként történő nyújtását is – ha törvény eltérően nem rendelkezik – kizárólag az MNV Zrt. jogosult. Az értékesítés lebonyolítására az MNV Zrt. – a közbeszerzésekről szóló jogszabályi rendelkezéseknek megfelelően – harmadik személynek megbízást adhat.
+33. § (1) Állami vagyon tulajdonjogának átruházására, ideértve a vagyon gazdasági társaság részére nem pénzbeli szolgáltatásként történő nyújtását is – ha törvény eltérően nem rendelkezik – kizárólag az a tulajdonosi joggyakorló jogosult. Az értékesítés lebonyolítására az a tulajdonosi joggyakorló – a közbeszerzésekről szóló jogszabályi rendelkezéseknek megfelelően – harmadik személynek megbízást adhat.
 
 (2) A központi költségvetési szervek a működésükhöz már nem szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet értékesítésére – az ingatlanok kivételével – önállóan jogosultak, amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg.
 
@@ -764,15 +782,15 @@ lép.
 
 (4) E törvény hatálybalépésével a költségvetési kutatóhelynek minősülő központi költségvetési szerv válik a kincstári vagyon részét képező, az e törvény hatálybalépése előtt az adott kutatóhelyre jogszabály erejénél fogva átszálló, illetve ellenérték fejében vagy ingyenesen szerzett, szellemi alkotáson fennálló jogok jogosultjává, valamint a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 19. §-a szerinti hasznosító vállalkozásban szerzett részesedés tulajdonosává.
 
-69/A. § (1) Az állami vállalatok átalakulásakor a jogutód gazdasági társaság tulajdonába kerülő vagyonelemek jogi helyzetének rendezése érdekében az MNV Zrt. jogosult az állami vállalat átalakulásával létrejött és 2010. december 31-én legalább többségi állami tulajdonú gazdasági társasággal (e § alkalmazásában a továbbiakban: gazdasági társaság) ingatlan-nyilvántartási bejegyzésre alkalmas szerződésben megállapítani azon vagyonelemek körét, amelyek átalakulás, illetve tulajdonjog rendezés jogcímen a gazdasági társaság tulajdonába, illetve az állam tulajdonába kerülnek, tekintet nélkül arra, hogy a szerződés megkötésének időpontjában az érintett ingatlanok az ingatlan-nyilvántartás szerint állami tulajdonban vagy a gazdasági társaság tulajdonában vannak.
+69/A. § (1) Az állami vállalatok átalakulásakor a jogutód gazdasági társaság tulajdonába kerülő, vagy a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 26. § (1) bekezdésében meghatározott vagyonkezelő nyilvántartásában szereplő vagyonelemek jogi helyzetének rendezése érdekében az MNV Zrt. jogosult az állami vállalat átalakulásával létrejött gazdasági társasággal vagy a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 26. § (1) bekezdésében meghatározott gazdasági társasággal (e § alkalmazásában együttesen vagy külön-külön: gazdasági társaság) ingatlan-nyilvántartási bejegyzésre alkalmas szerződésben megállapítani azon vagyonelemek körét, amelyek átalakulás, illetve tulajdonjog rendezés jogcímen a gazdasági társaság tulajdonába, illetve az állam tulajdonába kerülnek, tekintet nélkül arra, hogy a szerződés megkötésének időpontjában az érintett ingatlan az ingatlan-nyilvántartás vagy a gazdasági társaság nyilvántartása szerint állami tulajdonban vagy a gazdasági társaság tulajdonában van, és nincs a földhivatali nyilvántartás szerint harmadik személy tulajdonában, feltéve, hogy a gazdasági társaság a szerződéskötéskor legalább többségi állami tulajdonban van.
 
 (2) Az (1) bekezdés szerinti szerződés megkötése és tartalma tekintetében felek az állami vagyonra vonatkozó jogszabályokban foglaltaktól eltérhetnek.
 
 (3) Az (1) bekezdés szerinti szerződés alapján az ingatlanügyi hatóság köteles az ingatlan-nyilvántartásba bejegyezni a szerződésben meghatározott jogosult tulajdonjogát.
 
-(4) Az MNV Zrt. és a gazdasági társaság az (1) bekezdés szerinti szerződésben számolnak el egymással. Az elszámolás történhet olyan módon, hogy a gazdasági társaság az állami tulajdonba kerülő eszközöket a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 36. § (2) bekezdés e) pontja alapján a tőketartalék terhére, a gazdasági társaság tulajdonába kerülő vagyonelemeket pedig az Sztv. 36. § (1) bekezdés f) pontja szerint a tőketartalék javára számolja el. Ebben az esetben az MNV Zrt.-nél az eszközök nyilvántartásba történő kivezetése vagy bevezetése az induló tőke módosításaként is elszámolható.
+(4) Az MNV Zrt. és a gazdasági társaság az (1) bekezdés szerinti szerződésben rendelkeznek az elszámolásról. Az elszámolás történhet olyan módon, hogy a gazdasági társaság az állami tulajdonba kerülő eszközöket a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 36. § (2) bekezdés e) pontja alapján a tőketartalék terhére, a gazdasági társaság tulajdonába kerülő vagyonelemeket pedig az Sztv. 36. § (1) bekezdés f) pontja szerint a tőketartalék javára számolja el. Ebben az esetben az MNV Zrt.-nél az eszközök nyilvántartásba történő kivezetése vagy bevezetése az induló tőke módosításaként is elszámolható.
 
-(5) Az MNV Zrt. – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társaság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásáról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték, díj- és járulékmentesek, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
+(5) Az MNV Zrt. – annak érdekében, hogy a jogügylet számviteli elszámolása a gazdasági társaság vagyonában ne eredményezzen vagyonvesztést – jogosult a gazdasági társaság visszapótlási kötelezettségét elengedni, a visszapótlási kötelezettségből származó követelést a gazdasági társasság javára nem pénzbeli hozzájárulásként rendelkezésre bocsátani vagy az elszámolásról egyéb módon rendelkezni. A jogügylet és az annak végrehajtására irányuló eljárások (így különösen az ingatlan-nyilvántartási bejegyzés, telekalakítás, más célú hasznosítási eljárás) adó-, illeték-, díj-, valamint járulékmentesek és nem minősülnek az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alapján termékértékesítésnek, illetve szolgáltatásnyújtásnak, a megállapodás esetleges egyéb költségei az MNV Zrt.-vel szerződő gazdasági társaságot terhelik.
 
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 685. §-ának b) pontjában meghatározott személyek minősülnek.
 

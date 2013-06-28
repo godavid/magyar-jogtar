@@ -378,34 +378,7 @@ A haszonbérbe adó azonnali hatállyal felmondhatja a haszonbérleti szerződé
 - b) az erdőfelújítási kötelezettségének nem tesz eleget;
 - c) haszonvételi jogosultságát az erdészeti hatóság jogerősen korlátozta.
 
-### Az Országos Erdő Tanács
-
-21. § (1) A miniszter a feladat- és hatáskörébe tartozó, az erdő védelmét és a fenntartható erdőgazdálkodást érintő kérdések megtárgyalásához az erdőgazdálkodás széles körű társadalmi és tudományos, szakmai megalapozása, valamint az erdőhöz fűződő érdekek közti összhang megteremtése érdekében – legfeljebb 16 tagú – véleményező, javaslattevő tevékenységet ellátó Országos Erdő Tanácsot (a továbbiakban: Tanács) hoz létre.
-
-(2) A Tanács tevékenységével elősegíti az erdőhöz fűződő közérdek és az erdőgazdálkodói érdekeltség közötti összhang megteremtését.
-
-(3) A Tanács véleményt nyilvánít
-
-- a) az erdő védelmét és a fenntartható erdőgazdálkodást érintő jogszabálytervezetekről;
-- b) az erdőgazdálkodás gazdasági, szabályozási, valamint hosszú távra szóló fejlesztési irányelveiről;
-- c) az erdők vagyonkezelésével összefüggő egyes kérdésekről.
-
-(4) A Tanács javaslatot tehet az erdők védelmével, gyarapításával, a fenntartható gazdálkodással kapcsolatos tudományos kutatásokkal, az erdészeti képzéssel, továbbá az erdők védelmével, fenntartásával és kezelésével, valamint az ezekre vonatkozó pénzügyi források felhasználásával kapcsolatban.
-
-(5) A Tanács az erdő védelme, valamint a társadalom és az erdészet viszonyának javítása érdekében munkájáról tájékoztatja a közvéleményt. Ennek keretében javaslatokat tesz a hatáskörrel rendelkező kormányzati szervek és civil érdekképviseleti szervezetek részére az erdővel és erdészettel kapcsolatos kommunikációra.
-
-(6) A Tanácsban egyenlő arányban vesznek részt
-
-- a) az erdők ügyében feladatkörrel rendelkező kormányzati szervek,
-- b) az erdőtulajdonosok, erdőgazdálkodók érdekképviseleti szervei, erdészeti civil szervezetek,
-- c) az erdők ügyével foglalkozó tudományos intézmények,
-- d) az erdők ügyével alapszabályuk szerint foglalkozó környezet- és természetvédő, természetjáró, turisztikai, ismeretterjesztő civil szervezetek képviselői.
-
-(7) A Tanács tagjait a delegáló szervezetek és intézmények javaslatai alapján a miniszter kéri fel.
-
-(8) A Tanács javaslata alapján a miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Nemzeti Erdőprogram végrehajtásáról.
-
-(9) A miniszter évenként tájékoztatót tesz közzé az ország erdőállományának helyzetéről, állapotáról.
+#### 21. §
 
 ### II. Fejezet — AZ ERDŐ RENDELTETÉSE ÉS AZ ÜZEMMÓD
 
@@ -696,6 +669,10 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 
 - a) a (2) bekezdés szerinti tájékoztatás kapcsán tett észrevételek alapján azt indokoltnak tartja, vagy
 - b) elvégzett erdőgazdálkodási tevékenységgel összefüggésben szükségesnek látja az adott térségben a fenntartható erdőgazdálkodási tevékenységgel kapcsolatban a nyilvánosság véleményének megismerését.
+
+(4) A miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Nemzeti Erdőprogram végrehajtásáról.
+
+(5) A miniszter évenként tájékoztatót tesz közzé az ország erdőállományának helyzetéről, állapotáról.
 
 ### IV. Fejezet — AZ ERDŐ ÉS FÁSÍTÁS TELEPÍTÉSE
 
@@ -1452,7 +1429,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - 1. az erdőgazdálkodói nyilvántartásba vétel és az erdőgazdálkodói nyilvántartás vezetésének részletes szabályait;
 - 2. a szabad rendelkezésű erdő és fásítás telepítésére, a telepítés bejelentésére, engedélyezésére, a bennük tervezett fakitermelés bejelentésére vonatkozó részletes szabályokat;
 - 3. az erdészeti létesítményekre vonatkozó szabályokat;
-- 4. az Országos Erdő Tanács működésének részletes szabályait;
+- 4.
 - 5. az erdőtervezési körzetek jegyzékét; a körzeti erdőterv készítésének részletes szabályait;
 - 6. az Országos Erdőállomány Adattár működtetésének és az adatszolgáltatás rendjének részletes szabályait;
 - 7. az erdőtelepítés, erdőfelújítás és az erdőnevelés részletes szabályait;

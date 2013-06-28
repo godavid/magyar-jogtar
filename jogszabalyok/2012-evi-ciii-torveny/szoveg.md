@@ -4,14 +4,18 @@ az Erzsébet-programról
 
 Az Országgyűlés a gyermekekről való felelős gondoskodás jegyében, az ahhoz kapcsolódó források megteremtése, valamint a társadalmi szolidaritásra építve a Szent Erzsébet-i hagyományok újraélesztése érdekében a következő törvényt alkotja.
 
-1. § Az Erzsébet-program célja, hogy a meglévő keretek között jelentősen csökkentse azon gyermekek számát, akik részére nem biztosított a napi többszöri étkezés, az életkoruknak megfelelő egészséges táplálék, a tudás megszerzéséhez szükséges egészségi állapot, a regenerációhoz szükséges aktív kikapcsolódás lehetősége.
+1. § Az Erzsébet-program célja, hogy a meglévő keretek között jelentősen csökkentse azon szociálisan rászorulók, különösen gyermekek számát, akik részére nem biztosított a napi többszöri étkezés, az életkoruknak megfelelő egészséges táplálék, a tudás megszerzéséhez szükséges egészségi állapot, a regenerációhoz szükséges aktív kikapcsolódás lehetősége.
 
 2. § (1) E törvény alkalmazásában
 
 - a) Erzsébet-program: az állam által az 1. § megvalósítása céljából szervezett és lebonyolított szociális program és szolgáltatás, amely nyereség célzatú piaci szerepet nem tölt be,
 - b) Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány (a továbbiakban: MNÜA) által kibocsátott,
-  - ba) a személyi jövedelemadóról szóló törvény szerinti, fogyasztásra kész étel vásárlására felhasználható, valamint
-  - bb) szociális célból törvényben meghatározott termék vagy szolgáltatás vásárlására felhasználható utalvány.
+  - ba) fogyasztásra kész étel vásárlására, melegkonyhás vendéglátóhelyi szolgáltatások igénybevételére,
+  - bb) a kifizetőt terhelő adó mellett vagy adómentesen adható, meghatározott termékek vásárlására, szolgáltatások igénybevételére,
+  - bc) gyermekek neveléséhez, gondozásához szükséges termékek vásárlására, szolgáltatások igénybevételére,
+  - bd) szociális célból, törvényben meghatározott termékek vásárlására, szolgáltatások igénybevételére
+
+felhasználható utalvány.
 
 (2) Az Erzsébet-program végrehajtásáról az MNÜA gondoskodik.
 
@@ -33,7 +37,9 @@ kapcsolódó szervezési és lebonyolítási teendőket láthat el.
 
 5. § Az MNÜA a 4. §-ban meghatározott forrásokat kizárólag a 3. §-ban meghatározott feladatok ellátására használhatja fel.
 
-6. § Az MNÜA Erzsébet-programmal kapcsolatos feladatai végrehajtásához közreműködőként általa alapított és százszázalékos tulajdonában álló gazdasági társaságot vehet igénybe. Az MNÜA feladatainak ellátásához együttműködhet más nonprofit szervezettel.
+6. § (1) Az MNÜA az Erzsébet-programmal kapcsolatos feladatai végrehajtásához együttműködhet civil szervezetekkel, gazdasági társaságokkal, valamint egyéb jogi és természetes személyekkel.
+
+(2) A 3. §-ban meghatározott közfeladatok megvalósulása érdekében az állam elősegíti a szociális üdültetési feladatok, ifjúsági és gyermekprogramok alapjául szolgáló szállodák és táborhelyek létrehozását, fejlesztését és működtetését.
 
 7. § Ez a törvény a kihirdetését követő nyolcadik napon lép hatályba.
 

@@ -16,7 +16,7 @@ egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, va
 
 4. § (1) A szerződés csak abban az esetben köthető meg, ha
 
-- a) a helyi önkormányzat a szerződés általa történő aláírásának időpontjában szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik,
+- a) a helyi önkormányzat a szerződés általa történő aláírásának időpontjában az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja szerint köztartozásmentes adózónak minősül és az MNV Zrt.-vel szemben lejárt tartozással nem rendelkezik,
 - b) a helyi önkormányzat képviselő-testülete, közgyűlése határozatot hozott a közigazgatási területén fekvő, az 1. melléklet szerinti állami tulajdonú ingatlan igényléséről és azt az MNV Zrt. részére – az e törvény hatálybalépését követő hatvan napon belül – megküldte, és
 - c) a helyi önkormányzat a közigazgatási területén fekvő, az 1. melléklet szerinti állami tulajdonú ingatlanról – a b) pont szerinti határozat elfogadását követő – harminc napon belül a helyi önkormányzat jegyzője által kiállított adó- és értékbizonyítványt vagy hatvan napon belül a független szakértő által elkészített forgalmi értékbecslést az MNV Zrt. részére megküldte.
 
@@ -71,20 +71,78 @@ egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, va
 
 #### 4. Egyes a Budapest Főváros Önkormányzata tulajdonában álló ingatlanok ingyenes állami tulajdonba adása
 
-10. § (1) Az Országgyűlés az Nvtv. 14. § (1) bekezdése alapján úgy rendelkezik, hogy a Budapest Főváros Önkormányzata tulajdonában álló,
+10. § (1) Az Országgyűlés az Nvtv. 14. § (1) bekezdése alapján úgy rendelkezik, hogy a Budapest Főváros Önkormányzata tulajdonában álló, Budapest 24447/2 helyrajzi számú és Budapest 24456/3 helyrajzi számú ingatlanok, 2013. augusztus 1-jével ingyenesen az állam tulajdonába kerülnek az ifjúság és gyermekvédelmi programok, az aktív kikapcsolódás lehetőségeit ötvöző közösségi tér megteremtése és működtetése, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében. Az Erzsébet-tér, mint közpark üzemeltetése állami feladat.
 
-- a) Budapest 24447/2 helyrajzi számú és Budapest 24456/3 helyrajzi számú ingatlanok 2013. augusztus 1-jével,
-- b) Budapest 24447/1 helyrajzi számú, a Budapest 24447/3 helyrajzi számú, a Budapest 24456/1 helyrajzi számú, valamint a Budapest 24833/1 helyrajzi számú ingatlanok 2016. december 31-ével [az a) és b) pont szerinti ingatlanok a továbbiakban együtt: Erzsébet tér],
-
-e törvény erejénél fogva ingyenesen az állam tulajdonába kerülnek az aktív kikapcsolódás lehetőségeit ötvöző közösségi tér megteremtése és működtetése, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében. Az Erzsébet tér, mint közpark üzemeltetése állami feladat.
-
-(2) Az Erzsébet tér, mint közpark üzemeltetése körében, az (1) bekezdés szerinti ingatlanok részét képező zöldfelületek és az egységes kezelésű közösségi tér fejlesztését és karbantartását az állam a Belváros-Lipótvárosi Budapest Főváros V. kerület Önkormányzata útján, az erre a célra nevesített támogatások biztosítása mellett látja el. A zöldfelületek és az egységes kezelésű közösségi tér fejlesztésére és karbantartására vonatkozó üzemeltetési szerződéseket az állam nevében az MNV Zrt. köti meg.
-
-10/A. § E törvénynek az egyes állami és önkormányzati tulajdonú ingatlanok ingyenes átadásáról szóló 2016. évi CLXX. törvény 3. §-ával módosított 10. § (2) bekezdése szerinti fejlesztésre és karbantartásra vonatkozó üzemeltetési szerződést legkésőbb 2017. január 31-ig meg kell kötni.
+(2) Az állam tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzése iránt az MNV Zrt. intézkedik.
 
 #### 5. A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosítása
 
-11–18. §
+11. § A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NET tv.) 1. §-a a következő l) ponttal egészül ki:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában)
+
+„l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésébe adott, az e törvény szerint nem lakóingatlannak és nem lakhatási célú ingatlannak minősülő egyéb ingatlan, valamint a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan, amelyre nézve a bérleti jogviszony megszűnt és jogszabályban meghatározott módon hasznosításra kerül.”
+
+12. § A NET tv. 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A Nemzeti Eszközkezelő)
+
+„c) az általa megvásárolt lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan (a továbbiakban együtt: ingatlan) felett vagyonkezelői jogot gyakorol,”
+
+13. § A NET tv. 7/A. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az (1) bekezdés szerinti tulajdonba adás az (1) bekezdésben meghatározott feltétel hiányában akkor is kezdeményezhető, ha a települési önkormányzat az önkormányzati tulajdonba adás kezdeményezésének időpontjáig valamennyi – a közigazgatási területén lévő – olyan lakóingatlan átvételét vállalja, amelyre vonatkozóan az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az e törvény szerint létrejött bérleti jogviszony megszűnt.”
+
+14. § A NET tv. 21. § (1) bekezdése a következő mondattal egészül ki:
+
+„A fennmaradó vételárhányadot az ingatlanra korábban árverést kitűző végrehajtónak, ha pedig az árverés kitűzésére még nem került sor, annak a végrehajtónak kell kifizetni, aki által lefolytatott végrehajtási eljárásban a legkorábban került bejegyzésre a végrehajtási jog az ingatlan-nyilvántartásba.”
+
+15. § (1) A NET tv. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Nemzeti Eszközkezelő
+
+a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra,
+
+b) a pályázat alapján kiválasztott, jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel a lakhatási célú ingatlanra és
+
+c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel – jogszabályban meghatározott feltételek mellett – a tartalék ingatlanra
+
+[az a)–c) pont szerinti személy a továbbiakban együtt: bérlő] lakásbérleti szerződést köt.”
+
+(2) A NET tv. 22. §-a a következő (1b) bekezdéssel egészül ki:
+
+„(1b) Az (1) bekezdés a) és b) pontjában meghatározott esetben kizárólag határozatlan időre szóló bérleti szerződés köthető.”
+
+16. § A NET tv. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha lakásbérleti jogviszony megszűnik, az üresen maradt ingatlanra a Nemzeti Eszközkezelő más, e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő bérlővel bérleti szerződést köthet.”
+
+17. § A NET tv. 25. §-a a következő h) és i) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
+
+„h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára és a bérlő kötelezettségeire,
+
+i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat.”
+
+18. § A NET tv.
+
+- a) 7. § (1) bekezdésében a „lakóingatlanok” szövegrész helyébe az „ingatlanok” szöveg,
+- b) 8. § (1) bekezdés d) pontjában az „ingatlan” szövegrész helyébe a „lakóingatlan” szöveg,
+- c) 13. § (1) bekezdésében az „az ingatlan” szövegrész helyébe az „a lakóingatlan” szöveg,
+- d) 13. § (6) bekezdésében az „az ingatlanon” szövegrész helyébe az „a lakóingatlanon” szöveg,
+- e) 13/A. § (3) bekezdésében az „ingatlan” szövegrész helyébe a „lakóingatlan” szöveg,
+- f) 16. § (2) bekezdésében az „az ingatlan” szövegrész helyébe az „a lakóingatlan” szöveg,
+- g) 19. §-ban az „az ingatlant” szövegrész helyébe az „a lakóingatlant” szöveg,
+- h) 21. § (2) bekezdésében az „az ingatlanra” szövegrész helyébe az „a lakóingatlanra” szöveg,
+- i) 23. § a) pontjában az „a lakóingatlanba, illetve a lakhatási célú ingatlanba” szövegrész helyébe az „az ingatlanba” szöveg,
+- j) 23. § c) pontjában az „a lakóingatlanban, illetve a lakhatási célú ingatlanban” szövegrész helyébe az „az ingatlanban” szöveg,
+- k) 23. § e) pontjában a „lakásban” szövegrész helyébe az „ingatlanban” szöveg,
+- l) 23. § f) pontjában az „a lakóingatlannal” szövegrész helyébe az „a lakóingatlannal és a tartalék ingatlannal” szöveg,
+- m) 23. § h) pontjában az „a lakóingatlan, illetve a lakhatási célú ingatlan” szövegrész helyébe az „az ingatlan” szöveg,
+- n) 30. § (1) bekezdésében az „ingatlanok” szövegrész helyébe a „lakóingatlanok” szöveg
+
+lép.
 
 #### 6. Záró rendelkezés
 
@@ -325,7 +383,7 @@ e törvény erejénél fogva ingyenesen az állam tulajdonába kerülnek az akt�
 | 229 | Budapest | Budapest Főváros XXIII. kerület Soroksár Önkormányzat | Budapest | 196857 | 1/1 |
 | 230 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 202788/69 | 1/1 |
 | 231 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 209927 | 1/1 |
-| 232 |  |  |  |  |  |
+| 232 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 209961/8 | 1/1 |
 | 233 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 210039 | 1/1 |
 | 234 | Budapest | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Budapest | 221684 | 1/1 |
 | 235 | Budapest | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Budapest | 224181 | 32/144 |

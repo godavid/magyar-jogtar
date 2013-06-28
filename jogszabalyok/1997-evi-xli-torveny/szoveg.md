@@ -533,7 +533,7 @@ Vhr. 18. § (1) Az adattárban a nyilvános adatokba való betekintés díjmente
 
 Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosított halászati vízterület halállományát és élőhelyét őrizni, vagy őrzéséről – halászati őr útján – gondoskodni. Halászati őr egyéb vízterületen, illetőleg halastavon is igénybe vehető. Halászati őrt több jogosult közösen is foglalkoztathat. A halászati őr feladataival mezei őrszolgálat is megbízható.
 
-(2) Halászati őr a működési helye szerinti halászati hatóságnál az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát és a miniszter által rendeletben meghatározott szövegű esküt tesz.
+(2) Halászati őr a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt köteles vizsgát tenni. Halászati őr az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát a rendészeti feladatokat ellátó személyek, a segédfelügyelők, valamint a személy- és vagyonőrök képzéséről és vizsgáztatásáról szóló rendeletben kijelölt szerv előtt köteles letenni. Halászati őr a működési helye szerinti halászati hatóságnál a miniszter által rendeletben meghatározott szövegű esküt tesz.
 
 (2a) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyen- vagy formaruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
 
@@ -547,7 +547,7 @@ Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosí
 - d) a személytől a területi engedélyt elvenni és azt a kibocsátónak haladéktalanul megküldeni,
 - e) a személytől az állami halász- és horgászjegyet visszatartani és azt a halászatra jogosulton keresztül a kezdeményezett hatósági eljáráshoz mellékelve köteles a halászati hatóságnak megküldeni.
 
-(4a) Az a halászati őr, aki állami, vagy önkormányzati alkalmazásban áll a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti intézkedéseket és kényszerítő eszközöket alkalmazhatja.
+(4a) A halászati őr a (4) bekezdésben meghatározott esetben az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározottak szerint alkalmazhat intézkedéseket és kényszerítő eszközöket.
 
 (5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény, valamint a miniszter rendeletben állapítja meg.
 
@@ -705,11 +705,7 @@ Hhtv. 46. § (1) A miniszter a halászattal összefüggő irányítási, szervez
 
 (4)
 
-### Országos Halászati Bizottság
-
-Hhtv. 47. § (1) A miniszter a 10–11., valamint 45–46. §-okban foglalt, a feladat- és hatáskörébe tartozó ügyekben véleményező, javaslattevő tevékenységet ellátó Országos Halászati Bizottságot hoz létre, amely elősegíti a halászati jog gyakorlásával összefüggő egyéni és közérdek közötti összhang megteremtését, továbbá a miniszter felkérése alapján véleményt nyilvánít halászati szakmai kérdésekben, valamint az azokra vonatkozó jogalkotási elképzelésekről.
-
-(2) Az Országos Halászati Bizottság tagjait az érintett kormányzati, országos érdekképviseleti és szakmai szervek, az Önkormányzatok Szövetségének Tanácsa, valamint a tudomány képviselői közül a miniszter kéri fel. Az Országos Halászati Bizottság működési feltételeinek biztosításáról a miniszter gondoskodik.
+Hhtv. 47. §
 
 ### A halászati hatóság feladat- és hatásköre
 
@@ -869,7 +865,7 @@ Hhtv. 56. § (1) Felhatalmazást kap a miniszter arra, hogy:
 - l) az idegen és nem honos halfajok telepítésének szabályait,
 - m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat,
 - n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat,
-- o) a halászati őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat
+- o) a halászati őr szolgálati igazolványára és szolgálati jelvényére, valamint a halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat
 
 rendeletben határozza meg.
 
