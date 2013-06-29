@@ -142,6 +142,12 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (3) A fizetési rendszer működtetését végző szervezet az MNB által engedélyezett üzletszabályzatát vagy üzletszabályzat módosítását legkésőbb az MNB engedélyének hatálybalépése napján, egységes szerkezetben a honlapján közzéteszi.
 
+(4) Az MNB 4. § (5) bekezdés szerinti feladatkörében eljárva ellátja a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) 18. cikke szerinti kollégiumban való részvételből eredő feladatokat.
+
+(5) Az MNB szakhatóságként vesz részt – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 14. cikk (1) bekezdésében meghatározott, a központi szerződő fél tevékenységi és a 15. cikk (1) bekezdése szerinti a tevékenységi és szolgáltatási körének kiterjesztése, valamint a 35. cikkben meghatározott kiszervezés iránti engedélyezési, a 20. cikkben meghatározott engedély visszavonás iránti eljárásban. Az MNB szakhatóságként vesz részt – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 21. cikk (1) és (3) bekezdésében meghatározott, a központi szerződő félre vonatkozó éves felülvizsgálati és értékelési eljárásban, továbbá a 41. cikk (2) bekezdése szerinti, a biztosíték követelményekre vonatkozó modellek és paraméterek, valamint a 49. cikk (1) bekezdése szerinti, stresszteszt modellek és paraméterek jóváhagyására irányuló eljárásban. Az MNB szakhatóságként vesz részt továbbá – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 54. cikk (1) bekezdésében meghatározott, a központi szerződő fél interoperabilitási megállapodásához való hatósági jóváhagyási eljárásban.
+
+20/A. § Az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 260/2012/EU európai parlamenti és tanácsi rendelet (2012. március 14.) (a továbbiakban: a 260/2012/EU európai parlamenti és tanácsi rendelet) 10. cikke szerinti illetékes hatóságként az MNB látja el a 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
 #### 11. Jegybanki információs rendszer
 
 21. § (1) A 4. § (1)–(7) bekezdésében meghatározott feladatai ellátásához – ideértve a monetáris, a fizetési mérleg és a kapcsolódó állományi, az értékpapír, a pénzügyi számla, a pénzügyi stabilitási, a pénzforgalmi, a fizetési rendszer statisztikáinak összeállítását – az MNB jegybanki információs rendszert működtet, amelyhez a jogszabályban meghatározott szervezetek és természetes személyek az MNB elnöke rendeletében előírt – személyes adatnak nem minősülő – információkat kötelesek szolgáltatni.
@@ -182,10 +188,13 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 22. § (1) A jegybanki ellenőrzés
 
 - a) e törvény rendelkezéseinek,
-- b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
+- b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó vagy az MNB felé bejelentési kötelezettség alá eső kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
 - c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvénynek az MNB felügyeleti hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végző szolgáltatókra vonatkozó rendelkezéseinek,
 - d) a jegybanki információs rendszerhez információszolgáltatást előíró jogszabály rendelkezéseinek és
-- e) az MNB elnöke rendeleteinek a megtartására, az MNB hatósági határozataiban, szakhatósági állásfoglalásaiban foglaltak végrehajtására, valamint a Tpt. és a Hpt. alapján kiszervezett tevékenységet végzők ellenőrzésére terjed ki.
+- e) az MNB elnöke rendeleteinek,
+- f) a 260/2012/EU európai parlamenti és tanácsi rendeletnek
+
+a megtartására, az MNB hatósági határozataiban, szakhatósági állásfoglalásaiban foglaltak végrehajtására, valamint a Tpt. és a Hpt. alapján kiszervezett tevékenységet végzők ellenőrzésére terjed ki.
 
 (2) A jegybanki ellenőrzés a jogszabályban meghatározottak szerinti adatszolgáltatásból származó adatok ellenőrzését, valamint az MNB által lefolytatott hatósági ellenőrzési eljárást foglalja magába. A jegybanki ellenőrzés keretében az MNB jogosult adatok, beszámolók, mérlegek, bizonylatok és vizsgálati anyagok bekérésére. Az adatszolgáltatásból származó adatokat az MNB folyamatosan ellenőrzi, az ellenőrzésről az ügyfelet nem értesíti.
 
@@ -255,6 +264,8 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (11) Olyan kötelezett esetén, amely számára az MNB fizetési számlát vezet, az MNB közvetlen kielégítés útján hajtja be a pénzfizetésre szóló határozatból eredő lejárt tartozást.
 
+(12) A Tpt. szerinti elszámolóházi, központi értéktári, központi szerződő fél tevékenység engedélyezésének eljárásában az MNB szakhatósági közreműködésének ügyintézési határideje 45 nap. A 20. § (5) bekezdése szerinti feladatkörbe tartozó szakhatósági közreműködés ügyintézési határideje 30 nap.
+
 #### 14. Az MNB intézkedései és szankciói
 
 25. § (1) Ha az MNB a jegybanki ellenőrzés végén megállapítja, hogy az ellenőrzött személy, szervezet, a szervezet vezetője, valamint a rá irányadó jogszabályok szerint vezető állásúnak minősülő személye a 22. § (1) bekezdésében meghatározott jogszabályokban, az MNB hatósági határozatában vagy az ellenőrzött szervezet belső szabályaiban foglaltakat megszegi, elmulasztja, késedelmesen vagy hiányosan teljesíti, az ellenőrzött személlyel vagy szervezettel szemben a következő intézkedéseket alkalmazza:
@@ -268,7 +279,10 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 - g) kötelezi a 65. § (3) bekezdése alapján kiadott rendeletek alapján a fizetési rendszer működtetését végző, a Tpt. szerinti elszámolóházi tevékenységet, a központi értéktár és a központi szerződő fél tevékenységet folytató szervezetet a kockázatkezelési eljárások, stratégiák, módszerek megerősítésére,
 - h) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által fogalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
 - i) bírságot szab ki,
-- j) egyéb, törvényben előírt intézkedéseket alkalmaz.
+- j) megtiltja a forgatható utalványok további kibocsátását,
+- k) elrendeli a kibocsátott forgatható utalványok forgalomból való kivonását,
+- l) elrendeli a forgatható utalványok megsemmisítését,
+- m) egyéb, törvényben előírt intézkedéseket alkalmaz.
 
 (2) Az intézkedéseket az MNB együttesen és ismételten is alkalmazhatja.
 
@@ -288,7 +302,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (6) Az (5) bekezdésben meghatározott határidőkön belül intézkedés akkor is alkalmazható, ha az intézkedéssel érintett természetes személy az intézkedés alkalmazásakor már nem áll az ellenőrzött szervezet vagy személy alkalmazásában, megbízatása megszűnt vagy az ellenőrzött tevékenységet már nem végzi.
 
-(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep vagy a pénzügyi intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
+(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt, a pénzforgalmi intézményt, az elektronikuspénz-kibocsátó intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep, a pénzügyi intézmény, a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
 (8) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
 
@@ -751,7 +765,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
   - bc) az elszámolás és a teljesítés rendjét,
   - bd) a kockázatok kezelésének szabályait,
   - be) a kötelező biztosíték képzésének, felhasználásának szabályait,
-  - bf) a tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályait,
+  - bf)
   - bg) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
   - bh) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit;
 - c) a központi értéktár esetében
@@ -762,11 +776,12 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 - d) a központi szerződő fél tevékenységet végző szervezet esetében
   - da) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
   - db) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
-  - dc) a tőzsdei ügylet teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
+  - dc) a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
   - dd) a kockázatok kezelésének szabályait,
   - de) a kötelező biztosítékok képzésének, felhasználásának szabályait,
   - df) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
-  - dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit.
+  - dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit,
+  - dh) az elszámolás és teljesítés rendjét.
 
 (4) Az MNB elnökének rendelete esetében az igazságügyért felelős miniszter véleményét nem kell kikérni.
 
@@ -792,9 +807,13 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 68. § E törvény 1–9. §-a, 11. §-a, 12. § (1) és (3) bekezdése, 19–21. §-a, 27. § (1), (2) és (10) bekezdése, 28. § (1), (2), (4) és (5) bekezdése, 30. §-a, 42–50. §-a és 67. §-a az Alaptörvény 41. cikk (1), (4) és (5) bekezdése alapján sarkalatosnak minősül.
 
-#### 37. Módosító rendelkezések
+#### 37. Az Európai Unió jogának való megfelelés
 
-69–76. §
+69. § (1) E törvény a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) E törvény az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+70–76. §
 
 77. §
 

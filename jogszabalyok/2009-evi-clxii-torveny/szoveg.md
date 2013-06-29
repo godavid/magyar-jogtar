@@ -12,7 +12,7 @@ a fogyasztónak nyújtott hitelről
 - b) a fizetési számlához kapcsolódó hitelkeretre, ha az annak alapján nyújtott kölcsönt egy hónapon belül vissza kell fizetni,
 - c) olyan hitelre, amellyel kapcsolatban a fogyasztó hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
 - d) olyan munkáltatói hitelre, amely a nyilvánosság számára nem hozzáférhető, és amellyel kapcsolatban a munkavállalónak hitelkamatot és egyéb ellenszolgáltatást a piacon szokásos mértéknél alacsonyabb mértékű teljes hiteldíj mutató mellett köteles, vagy hitelkamatot és egyéb ellenszolgáltatást nem köteles fizetni,
-- e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVII. törvényben meghatározott befektetési hitelre,
+- e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott befektetési hitelre,
 - f) olyan hitelre, amelyet bíróság hoz létre,
 - g) olyan hitelre, amely fennálló tartozás kamat- és egyéb ellenszolgáltatás-mentes átütemezésére vonatkozik,
 - h) olyan törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban meghatározott közérdeket szolgáló hitelre, amelyet korlátozott körben nyújtanak, és amely kamatmentes, vagy amelyre vonatkozó hitelkamat a piacon szokásos mértéknél alacsonyabb, vagy a piacon szokásos mértékű hitelkamat mellett a piacon szokásos feltételeknél a fogyasztó számára kedvezőbb; ideértve a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben meghatározott áthidaló kölcsönt, a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben meghatározott gyűjtőszámlahitelt, valamint a külön jogszabály szerint nyújtott hallgatói hitelt.
@@ -113,7 +113,7 @@ a fogyasztónak nyújtott hitelről
 
 (5) Ha a (3) bekezdés 8. és 9. pontja vonatkozásában a fogyasztó a hitelezőt és a hitelközvetítőt tájékoztatja az általa előnyben részesített hitel jellemzőiről, a hitelező és a hitelközvetítő a teljes hiteldíj mutató és a fogyasztó által fizetendő teljes összeg tekintetében ezeket veszi figyelembe.
 
-(6) Ha a hitelszerződés alapján a hitel lehívására több módon kerülhet sor, és ez eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli minden egyéb ellenszolgáltatást – ideértve díjat, jutalékot és költséget – jelentenek, a hitelező és a hitelközvetítő ennek lehetőségét köteles jelezni.
+(6) Ha a hitelszerződés alapján a hitel lehívására több módon kerülhet sor, és ezek eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli egyéb ellenszolgáltatást – ideértve díjat, jutalékot és költséget – jelentenek és a hitelező az adott hiteltípusnál leggyakoribb lehívási módot veszi figyelembe, a hitelező és a hitelközvetítő köteles jelezni, hogy más lehívási mód magasabb teljes hiteldíjmutatót eredményezhet.
 
 (7) Ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben, vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, az (1) bekezdés szerinti tájékoztatás során a hitelező és a hitelközvetítő köteles egyértelműen és tömören tájékoztatni, hogy a részletek megfizetése nem eredményezi automatikusan a hitel teljes összegének visszafizetését, kivéve, ha a szerződésben a felek erről megállapodtak.
 
@@ -128,7 +128,7 @@ a fogyasztónak nyújtott hitelről
 
 (2) A hitelközvetítő a 6. § (3) bekezdése, illetve a 12. § (1) bekezdésének a) pontja szerinti tájékoztatással egyidejűleg köteles feltüntetni, hogy a fogyasztó érdekében, vagy egy vagy több hitelező képviseletében jár el.
 
-(3) A hitelközvetítő a hitelszerződés megkötését megelőzően köteles papíron vagy más tartós adathordozón a fogyasztót tájékoztatni a részére fizetendő díj-, költség- és egyéb fizetési kötelezettségről.
+(3) A hitelközvetítő köteles a fogyasztót tájékoztatni a fogyasztó által részére fizetendő díj-, költség- és egyéb fizetési kötelezettségről és ezt a hitelszerződés megkötését megelőzően a hitelközvetítő és a fogyasztó megegyezése alapján papíron vagy más tartós adathordozón rögzíteni kell.
 
 8. § Ha a hitelszerződés megkötése a fogyasztó kérése alapján a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény (a továbbiakban: Tétv.) szerinti olyan távközlő eszköz útján történik, amely a 6. § és a 7. § (2)–(3) bekezdése szerinti előzetes tájékoztatást nem teszi lehetővé, így különösen, ha az a Tétv. 4. §-ának (3) bekezdése szerint telefonon történik, a hitelező és a hitelközvetítő a hitelszerződés megkötését követően haladéktalanul köteles a 6. § és 7. § (2)–(3) bekezdése szerinti tájékoztatást megadni.
 
@@ -486,7 +486,6 @@ a fogyasztónak nyújtott hitelről
 | 2. A hitel lényeges jellemzőinek ismertetése |  |
 | a hitel típusa | ... |
 | a hitel teljes összege a hitelszerződésben szereplő hitel összege vagy a lehívható összeg felső határa | ... |
-| a hitel lehívásának feltételei a hitel rendelkezésre bocsátásának módja és időpontja | ... |
 | a hitel futamideje | ... |
 | adott esetben Önt a hitelező bármikor felszólíthatja a hitel teljes összegének visszafizetésére | ... |
 | 3. A hitellel kapcsolatos ellenszolgáltatás |  |
@@ -504,10 +503,11 @@ a fogyasztónak nyújtott hitelről
 | telefonszáma* | ... |
 | e-mail címe* | ... |
 | telefaxszáma* | ... |
-| internet címe* | ... |
-| a hitelező cégjegyzékszáma vagy bírósági nyilvántartásba vételi száma | ... [cégjegyzékszám vagy bírósági nyilvántartásba vételi szám] |
+| internetcíme* | ... |
+| a hitelező cégjegyzékszáma vagy bírósági nyilvántartásba-vételi száma | ... [cégjegyzékszám vagy bírósági nyilvántartásba vételi szám] |
 | a hitelező tevékenységét engedélyező felügyelő hatóság | ... |
-| az elállási jog gyakorlása | ... [az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell] |
+| az elállási jog gyakorlása |  |
+| Önnek 14 naptári napon belül joga van elállni a hitelszerződéstől. | ... [az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell] |
 | a szerződés létrejöttét megelőző időszakban a hitelező által alkalmazandó jog | ... |
 | jogválasztás, továbbá kizárólagos hatáskör, illetékesség kikötése | ... [vonatkozó szerződési rendelkezés meghatározása] |
 | nyelvhasználat | ... [az előzetes tájékoztatás nyelvéről, a szerződéskötés nyelvéről, továbbá a szerződés hatálya alatt a fogyasztóval való kapcsolattartás – a fogyasztóval egyetértésben megállapított – nyelv] |

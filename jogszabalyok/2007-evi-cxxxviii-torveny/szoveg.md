@@ -261,6 +261,8 @@ teljesítése esetén nyújtható.
 
 (2) A külföldi befektetési vállalkozás fióktelepe árutőzsdei szolgáltatást akkor nyújthat, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
 
+(3) Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (a továbbiakban: 1031/2010/EU bizottsági rendelet) 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a Felügyelet e törvény 9. § (1) bekezdés a) és b) pontjában meghatározott tevékenységnek a 9. § (2) bekezdés b) pontjában meghatározott eszközre vonatkozó árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.
+
 ### IV. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK TÁRGYI ÉS TECHNIKAI FELTÉTELEI
 
 ### Az informatikai rendszer
@@ -627,7 +629,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy al
 - i) a személyi feltételek teljesülését igazoló okiratok másolatát,
 - j) e törvényben és külön jogszabályban meghatározott tárgyi, technikai feltételek teljesülésének részletes leírását,
 - k) a könyvvizsgáló igazolását arra vonatkozólag, hogy az árutőzsdei szolgáltató informatikai rendszere alkalmas a 18. § (2) bekezdésében meghatározott követelmények teljesítésére,
-- l)
+- l) az 1031/2010/EU bizottsági rendelet 59. cikkében meghatározott feltételek teljesülésének részletes leírását, amennyiben a kérelmező által a c) pont keretében megjelölt végezni kívánt tevékenység a 11. § (3) bekezdésében meghatározottakra vonatkozik.
 - m) fióktelep formájában működő árutőzsdei szolgáltató esetében a székhely szerinti felügyeleti hatóság igazolását arról, hogy rendelkezik a tevékenység végzésére jogosító tevékenységi engedéllyel,
 - n) fióktelep formájában működő árutőzsdei szolgáltató vezető állású személyének döntési, irányítási jogköre bemutatását.
 
@@ -2242,7 +2244,7 @@ szemben.
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét a Tpt. 205. §-ban meghatározott bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét a Tpt. 205. §-ban meghatározott, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet szerinti bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -2337,7 +2339,8 @@ részére,
 - o) a tulajdonosi megfeleltetés érdekében a központi értéktár részére nyújtott adatszolgáltatás,
 - p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás,
 - q) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésére álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérése alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
-- r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás.
+- r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás,
+- s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás.
 
 ### A panaszkezelés
 

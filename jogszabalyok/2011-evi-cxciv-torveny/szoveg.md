@@ -176,7 +176,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 - a) jogszabály felhatalmazása alapján állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok forgalomba hozatalát szervezheti, ezzel kapcsolatos tanácsadási feladatokat láthat el,
 - b) a (2) bekezdésben meghatározott mértékű díj ellenében közreműködhet az állam, az önkormányzat, valamint ezek többségi tulajdonában álló gazdálkodó szervezete hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában,
-- c) közreműködhet az Országos Betétbiztosítási Alap szabad pénzeszközeinek kezelésében,
+- c) közreműködhet az Országos Betétbiztosítási Alap szabad pénzeszközeinek kezelésében, valamint annak hitelfelvételével, kölcsönfelvételével, hitelviszonyt megtestesítő értékpapírjának kibocsátásával kapcsolatos feladatok – ideértve az üzleti stratégiával kapcsolatos tanácsadást is – ellátásában.
 - d) közreműködik a Nyugdíjreform és Adósságcsökkentő Alap eszközeinek kezelésében és értékesítésében,
 - e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 

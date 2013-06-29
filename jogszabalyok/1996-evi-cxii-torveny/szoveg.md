@@ -49,7 +49,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - g) a külön jogszabály alapján létrehozott Diákhitel Központra.
 - h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
-(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
+(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
 (4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 218. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikus pénz kibocsátóját említenek, azon a kincstárt is érteni kell.
 
@@ -112,9 +112,9 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (3) A Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező külföldi pénzügyi intézmény a 3. § (1) bekezdésének b) és c) pontjában, illetve a 3. § (2) bekezdésének d) pontjában meghatározott tevékenységet határon átnyúló szolgáltatás formájában is végezhet, ha a székhely szerinti felügyeleti hatóságtól engedéllyel rendelkezik ezen tevékenységek végzésére.
 
-(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet, 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás és pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/B. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény határon átnyúló szolgáltatást is végezhet.
+(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet, 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás, pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/B. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény és elektronikuspénz-kibocsátási tevékenysége, pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/D. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény határon átnyúló szolgáltatást is végezhet.
 
-3/B. § A 3. § (4)–(6) bekezdés szerinti engedélyt nem kell beszerezni az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet, 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás és pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/B. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény határon átnyúló szolgáltatására vonatkozóan, illetve magyarországi fióktelepe által végzett, a székhely állam felügyeleti hatósága által engedélyezett tevékenységet illetően.
+3/B. § A 3. § (4)–(6) bekezdés szerinti engedélyt nem kell beszerezni az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet, 15. § (4) bekezdésében meghatározott feltételeknek megfelelő pénzügyi vállalkozás, pénzforgalmi szolgáltatása, valamint pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/B. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény és elektronikuspénz-kibocsátási tevékenysége, pénzforgalmi szolgáltatása, valamint a pénzforgalmi szolgáltatásához kapcsolódó hitel- és pénzkölcsön nyújtása [6/D. §] tekintetében az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény határon átnyúló szolgáltatására vonatkozóan, illetve magyarországi fióktelepe által végzett, a székhely állam felügyeleti hatósága által engedélyezett tevékenységet illetően.
 
 ### A pénzügyi intézmény
 
@@ -1582,7 +1582,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
-- e) a büntető-, valamint polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
+- e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - h) a helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 17. § (5) bekezdésében meghatározott esetben a helyi önkormányzatokért felelős miniszterrel és az államháztartásért felelős miniszterrel,
@@ -1663,7 +1663,8 @@ van összefüggésben.
 - r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
 - s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 - t) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
-- u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltató által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás.
+- u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltató által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
+- v) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
 
 (2)–(10)
 
@@ -2331,7 +2332,7 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
   - ca) mindazon tételt, amelyet a szavatoló tőke kiszámítása során a prudenciális előírások túllépése miatt a hitelintézet a szavatoló tőkéjéből levont,
   - cb) a fizetést követő két munkanapot meg nem haladóan fennálló valuta-, illetve devizaügyletből származó követelést,
   - cc) az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést,
-  - cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési, értékpapír-elszámolási és klíring szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási, klíring és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
+  - cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési és elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
   - ce) a pénzforgalmi szolgáltatásból – ideértve a fizetési, klíring és értékpapír-elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában – származó pénzforgalmi szolgáltatóval szemben fennálló napon belüli kitettséget.
 
 (5) A nagykockázat meghatározásánál a pénzügyi szolgáltatási tevékenység és a befektetési szolgáltatási tevékenység során vállalt kockázatokat együttesen kell figyelembe venni. A befektetési szolgáltatási tevékenység során vállalt kockázatokkal a (2) és (3) bekezdésben meghatározott mérték túlléphető abban az esetben, ha a hitelintézet ezen kockázatok fedezetére jogszabályban meghatározott mértékű tőkével rendelkezik.
@@ -2433,7 +2434,7 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 - b) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) 56. § (2) bekezdése, és
 - c) a bírósági végrehajtásról szóló 1994. évi LIII. törvény
 
-alapján megszerzett ingatlanokat három éven belül el kell idegenítenie.
+alapján megszerzett ingatlanokat hat éven belül el kell idegenítenie.
 
 (3)
 
@@ -2919,6 +2920,8 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (12) A 101. § (1) bekezdésének alkalmazása során az egyéni vállalkozó által elhelyezett betét – elhelyezésének időpontjától függetlenül – az ugyanazon személy által magánszemélyként elhelyezett betéttől külön betétnek minősül.
 
+(13) A közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódóan a hitelintézetnél nyitott számlák – amelyeket a hitelintézet nem a 2. számú melléklet I. Fejezet 6. pontja szerinti letéti szolgáltatás keretében vezet – a 101. § (1) bekezdésének alkalmazása során elhelyezésének időpontjától függetlenül a kártalanítási összeghatár szempontjából külön betétnek minősülnek a közjegyzőnek, végrehajtónak, ügyvédnek a hitelintézetnél lévő más betéteitől. E számlára (több számla esetén valamennyi számlára külön-külön) a közjegyzővel, végrehajtóval, ügyvéddel szemben a 100. § (1) bekezdés l) pontjában rögzített kizáró ok fennállása esetén is kiterjed az Alap által nyújtott biztosítás. Az Alap jogosult – a 105. § szerinti kártalanítási eljárás során – az ügyvédi kamarai szabályzatban előírt letéti nyilvántartásnak az ügyvédtől (ügyvédi irodától) való bekérésével ellenőrizni, hogy a kártalanítási összeghatár szempontjából külön betétnek minősül-e az ügyvédi letéti számlán elhelyezett összeg.
+
 102. § (1) Az Alap által biztosított betétek esetében a hitelintézet és a betétes között beszámításnak akkor van helye, ha a betétesnek a hitelintézettel szemben hitellel vagy más ügylettel kapcsolatos lejárt tartozása van. A hitelintézet a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az Alappal közölni. A hitelintézet köteles okirattal igazolni, hogy a betétest (az adóst) a beszámítási igényéről tájékoztatta. Ha a beszámításra sor kerül, akkor az Alap a 101. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.
 
 (2) A kártalanítás mértékének megállapítása során az ügyfélnek az Alap tagjánál fennálló valamennyi befagyott követelését össze kell számítani. Ha az Alap tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.
@@ -3091,16 +3094,17 @@ a kért információt megadni.
 - b) hitelintézetek által teljesített rendszeres, illetve rendkívüli éves befizetés,
 - c)
 - d) az Alap által felvett kölcsön,
-- e) egyéb bevétel.
+- e) egyéb bevétel,
+- f) az Alap által kibocsátott kötvény.
 
 (2) Az Alap – a 98. § (1) bekezdésének b) pontja szerinti feladat ellátása érdekében – hitelt vehet fel:
 
 - a) az MNB-től, illetve
 - b) hitelintézettől.
 
-(3) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – hiteleiből, kölcsöneiből erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat nem kell fizetnie.
+(3) Az Alap a 98. § (1) bekezdés b) pontja szerinti feladat ellátása érdekében kötvényt bocsáthat ki.
 
-(4)
+(4) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 98. § (1) bekezdés b) pontja szerinti kötelezettségei teljesítése érdekében – az államháztartásért felelős miniszter által jóváhagyott összegű – felvett hiteleiből, kölcsöneiből és kötvénykibocsátásából erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat nem kell fizetnie.
 
 ### Csatlakozási díj
 
@@ -3125,7 +3129,7 @@ a kért információt megadni.
 
 (7) A (6) bekezdés alapján felemelt éves díj nem lépheti túl a hitelintézetnél a tárgyévet megelőző év december 31-én fennálló, biztosított betétállomány három ezrelékét.
 
-(8) Az Alap az általa a 119. § (1) bekezdésének d) pontja szerint felvett kölcsön visszafizetése érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, mely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a (2) bekezdés szerint megállapított díj mértékét.
+(8) Az Alap az általa a 119. § (1) bekezdés f) pontja alapján kibocsátott kötvény és d) pontja szerint felvett kölcsön visszafizetése érdekében a hitelintézetek számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség mértéke nem haladhatja meg egyetlen hitelintézet esetében sem a (2) bekezdés szerint megállapított díj mértékét.
 
 (9) Ha a kölcsön igénybevételét szükségessé tevő káresemény kapcsán az Alap bevételre tesz szert, azt elsősorban a fennálló kölcsöntartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, illetőleg visszafizetésére kell fordítani.
 
@@ -4849,6 +4853,8 @@ esetében kell alkalmazni.
 
 234/N. § A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvénnyel megállapított 44. § (4) bekezdésében foglalt rendelkezéseknek a hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő vegyes pénzügyi holding társaságnak legkésőbb 2014. január 1-től kell megfelelnie.
 
+234/P. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény 10. §-ával megállapított 101. § (13) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -4894,10 +4900,10 @@ vonatkozó részletes szabályokat.
 (3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) a hitelintézetek befektetési szabályzatára,
-- b) a belső ellenőrzési rendszerekre, eljárásokra
+- b) a belső ellenőrzési rendszerekre, eljárásokra,
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat.
+- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
 
 (4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
