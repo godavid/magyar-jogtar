@@ -20,6 +20,12 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (5) E törvény szerint áru a pénz és az értékpapír kivételével minden forgalomképes ingó dolog.
 
+(6) Közraktározási biztosíték a közraktári tevékenység felfüggesztése vagy a közraktári engedély visszavonása esetén felhasználható pénzösszeg, amely kizárólag a közraktározott áru leltározásával, mennyiségének és minőségének ellenőrzésével, vagyonvédelmével, biztosításával, kiszolgáltatásával, valamint kényszerértékesítésével kapcsolatban felmerülő, közvetlen költségek fedezetére szolgál.
+
+(7) Nagykockázatú tárolásnak minősül, ha a művi tárolással egy telephelyen letett áru közraktári jegyen feltüntetett értéke eléri a közraktár saját tőkéjének kétszeresét.
+
+(8) A közraktár vagyonának a számvitelről szóló törvény szerinti befektetett eszközök és forgóeszközök minősülnek.
+
 ### Szervezeti és működési feltételek
 
 2. § (1) Közraktár kizárólag részvénytársaságként vagy fióktelepként működhet. A részvénytársasági formában működő közraktárra a gazdasági társaságokról szóló törvény rendelkezéseit, a fióktelep formájában működő közraktárra a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
@@ -30,7 +36,14 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (4) Az alaptőke, illetve a dotációs tőke pénzbeli részét a közraktári tevékenység engedélyezése iránti kérelem benyújtásáig kell szolgáltatni. A pénzbeli hozzájárulást a közraktári tevékenység engedélyezése iránti kérelem benyújtása előtt olyan belföldi székhelyű hitelintézetnél kell befizetni, illetve a működés megkezdéséig olyan hitelintézetnél vezetett számlán kell tartani, amely nem vesz részt az alapításban, amelyben az alapítónak nincs tulajdona, illetve, amely az alapítóban nem rendelkezik tulajdonnal.
 
-(5) A nem pénzbeli hozzájárulásként a közraktár rendelkezésére bocsátott, a közraktári tevékenység folytatására alkalmas, tehermentes ingatlannak a Magyar Könyvvizsgálói Kamara bejegyzett tagja vagy a kamarai nyilvántartásba bejegyzett könyvvizsgálói társaság által megállapított értéke nem lehet kevesebb kétszázötvenmillió forintnál, s e feltételnek a közraktári tevékenység folytatása alatt is folyamatosan fenn kell állnia.
+(5) Nem pénzbeli hozzájárulásként a közraktári tevékenység folytatására alkalmas, tehermentes ingatlan bocsátható a közraktár rendelkezésére, amelynek értéke nem lehet kevesebb kétszázötvenmillió forintnál. Az ingatlan értékét ingatlanszakértő által megállapított, és a Magyar Könyvvizsgálói Kamara bejegyzett tagja vagy a kamarai nyilvántartásba bejegyzett könyvvizsgálói társaság által elfogadott értéken kell figyelembe venni. E feltételeknek az (5a) bekezdésben foglalt eltéréssel a közraktári tevékenység folytatása alatt is folyamatosan fenn kell állnia.
+
+(5a) Az (5) bekezdés szerinti ingatlan kizárólag az 1. § (6) bekezdésében meghatározott közraktározási biztosíték 4/B. § (3) bekezdés b) pontja szerinti formában való nyújtása érdekében terhelhető meg a közraktározási biztosíték összegének erejéig.
+
+(5b) Az (5) bekezdés szerinti értékbecslést végezheti
+
+- a) az igazságügyi szakértői névjegyzékbe az értékbecslési szakterületnek megfelelő ágazati szakértőként bejegyzett szakértő, vagy
+- b) olyan gazdálkodó szervezet, amely az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanvagyon-értékelői és közvetítői tevékenység végzésére jogosult szolgáltatókról vezetett nyilvántartásban szerepel, és legalább egy személyesen közreműködő tagja vagy alkalmazottja, foglalkoztatottja az a) pontban meghatározott szakértői jogosultsággal rendelkezik.
 
 (6) Cégnevében, hirdetésében vagy bármilyen más módon a ,,közraktár'' elnevezést, e fogalmak összetételeit, jelzős alakját, továbbá rokonértelmű vagy idegen nyelvű megfelelőjét csak az e törvény rendelkezéseinek megfelelően alapított és működtetett, belföldön cégjegyzékben bejegyzett részvénytársaság vagy fióktelep szerepeltetheti.
 
@@ -55,19 +68,53 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (2) A közraktár által felvett kölcsön biztosítékául zálogjogot a 2. § (2) bekezdése szerinti ingatlanra alapítani nem lehet.
 
-(3) A közraktár a 40. § (1) bekezdésében foglalt vagyonbiztosításon túl felelősségbiztosítást is köthet. Ha a közraktár nem rendelkezik a tárolt áruk értékének megfelelő felelősségbiztosítással, az általa kibocsátott közraktári jegyeken feltüntetett áruérték naptári évenként nem lehet több, mint saját tőkéjének ötszöröse.
+(3) A közraktár a 40. § (1) bekezdésében foglalt vagyonbiztosításon túl felelősségbiztosítást is köthet. Ha a közraktár nem rendelkezik a tárolt áruk értékének megfelelő felelősségbiztosítással, az általa kibocsátott közraktári jegyeken feltüntetett áruérték naptári évenként nem lehet több, mint az előző üzleti évi éves beszámolóban kimutatott saját tőkéjének ötszöröse.
 
 (4) A közraktár, annak vezetője, vezető tisztségviselője, könyvvizsgálója, a felügyelő bizottság tagja, továbbá a közraktár munkavállalója vagy munkavégzésre irányuló egyéb jogviszonyban álló személy a közraktározott áru tulajdonjogát a közraktár által történő értékesítés során nem szerezheti meg.
 
+4/A. § (1) A közraktár által az üzleti évben művi tárolással közraktározott árukra kibocsátott közraktári jegyek értéke nem haladhatja meg az elfogadott, az előző üzleti évi éves beszámolóban kimutatott saját tőke ötvenszeresét.
+
+(2) Az (1) bekezdésben meghatározott számításban nem kell figyelembe venni azon közraktározott áruk értékét, amelyek folyamatos felügyeletét a közraktár a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti elektronikai vagyonvédelmi rendszer alkalmazásával biztosítja.
+
+(3) A közraktározott készletek állományát a közraktár köteles közraktári jegyen feltüntetett értéken havonta, a tárgyhónapot követő hónap 15. napjáig könyveiben kimutatni.
+
+(4) A közraktár által végzett valamennyi nagykockázatú tárolás keretében letett áru együttes értéke legfeljebb a művi tárolással közraktározható érték húsz százaléka lehet.
+
+4/B. § (1) A közraktár köteles az 1. § (6) bekezdésében meghatározott célra közraktározási biztosítékot képezni és folyamatosan fenntartani.
+
+(2) A közraktározási biztosíték alapja az aktuális közraktározott készletek forintban meghatározott értéke, mértéke az alap egy ezreléke.
+
+(3) Közraktározási biztosíték lehet
+
+- a) a közraktár által hitelintézetnél lekötött, elkülönített és zárolt pénzösszeg (a továbbiakban: pénzbeli letét),
+- b) legalább egy évre szóló bankgarancia,
+- c) biztosítási szerződés alapján kiállított kötelezvény (a továbbiakban: biztosítói kötelezvény).
+
+(4) Pénzbeli letétet a tevékenységét megkezdő közraktár esetén az első közraktári jegy kibocsátását követő negyedév utolsó napjáig kell teljesíteni.
+
+(5) Bankgarancia vagy biztosítói kötelezvény esetén a helytállás mértékét az előző üzleti évben közraktározott érték számtani átlaga alapján kell meghatározni. Tevékenységét megkezdő közraktár esetén a bankgarancia vagy biztosítói kötelezvény mértékét első alkalommal a közraktár által az első üzleti évre tervezett közraktározott értékre vonatkozó nyilatkozat alapján kell megállapítani és legkésőbb az első közraktári jegy kibocsátását megelőzően a bankgaranciára vagy a biztosítói kötelezvényre vonatkozó szerződést meg kell kötni.
+
+(6) A (3) bekezdésben meghatározott közraktározási biztosítékformák külön-külön, illetve együttesen is alkalmazhatóak.
+
+4/C. § (1) A közraktározási biztosíték igénybevételéhez a felügyelet előzetes engedélye szükséges.
+
+(2) Amennyiben a felügyelet az (1) bekezdés szerinti engedélyezés során azt állapítja meg, hogy a közraktározási biztosíték felhasználása nem az 1. § (6) bekezdésben meghatározott célok fedezésére irányul, a közraktározási biztosíték igénybevételéhez szükséges engedély iránti kérelmet elutasítja.
+
+(3) A közraktározási biztosítékra vonatkozóan a közraktár és a hitelintézet vagy biztosító között létrejött szerződésnek tartalmaznia kell azt a kikötést, hogy a szerződésben meghatározott bármely megszűnési feltétel beállásáról a hitelintézet vagy a biztosító a felügyeletet haladéktalanul írásban tájékoztatja, valamint a hitelintézet vagy a biztosító a közraktározási biztosíték terhére kizárólag abban az esetben teljesít kifizetést, ha a közraktár előzetesen bemutatja a felügyelet (1) bekezdésben meghatározott engedélyét, és a közraktározási biztosíték terhére teljesített kifizetés időpontjáról a hitelintézet vagy a biztosító értesíti a felügyeletet.
+
+(4) A közraktár negyedévente köteles a közraktározási biztosíték összegét a mindenkori készletérték alapján felülvizsgálni, szükség esetén a felülvizsgálat időpontjától számított 15 napon belül kiegészíteni.
+
+(5) A (4) bekezdés szerinti felülvizsgálat alapján, a közraktározott készletek legalább 30%-os csökkenése esetén a közraktár kérelmezheti a felügyelettől a pénzbeli letét összegének legfeljebb a mindenkori készletértéknek megfelelő mértékig való csökkentését. A kérelmet a felügyelet tizenöt napon belül elbírálja.
+
 ### A közraktári engedély
 
-5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, illetőleg szüntetheti meg, ha azt a közraktározás-felügyelet (a továbbiakban: felügyelet) a Pénzügyi Szervezetek Állami Felügyelete egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
+5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, illetőleg szüntetheti meg, ha azt a felügyelet a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
 
 (2) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelemhez két példányban mellékelni kell:
 
 - a) a részvénytársaság a szervezeti felépítésének, az irányítási, döntési és ellenőrzési rendjére vonatkozó, illetőleg a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket a létesítő okirat részletesen nem tartalmazza;
 - b) a 2. § (4)–(5) bekezdésében meghatározott feltételek meglétét igazoló okiratokat;
-- c)
+- c) a közraktározási biztosíték formájára vonatkozó nyilatkozatot;
 - d) a közraktár üzletszabályzatának tervezetét, ideértve az általános szerződési feltételeket is;
 - e) zálogkölcsönnyújtás esetén a kölcsönnyújtással kapcsolatos szabályzatokat, ideértve a fedezetek minősítésére, illetőleg értékelésére vonatkozó szabályzatot;
 - f) a használni kívánt közraktári jegy, letéti könyv (letéti szelvény) nyomtatványainak mintáját;
@@ -154,7 +201,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 - a) intézkedési tervet, amely bemutatja, hogy az alaptőke, illetőleg a dotációs tőke megváltoztatása milyen hatással van a közraktári tevékenység gyakorlására;
 - b) a jegyzett tőke megváltoztatása esetén a közraktár igazgatósága által a közgyűlés elé terjesztett határozattervezetet.
 
-5/D. § A közraktári tevékenység megszüntetése iránt kérelmet kell benyújtani a felügyelethez. A közraktári tevékenység megszüntetését a felügyelet akkor engedélyezi, ha a közraktár a kérelmében meghatározott időpontig valamennyi általa kötött közraktári szerződést teljesítette, az általa kötött közraktári szerződések alapján kibocsátott közraktári jegyeket bevonta, és ezt a felügyelet felé hitelt érdemlően igazolta.
+5/D. § A közraktári tevékenység megszüntetése iránt kérelmet kell benyújtani a felügyelethez. A közraktári tevékenység megszüntetését a felügyelet akkor engedélyezi, ha a közraktár a kérelmében meghatározott időpontig valamennyi általa kötött közraktári szerződést teljesítette, az általa kötött közraktári szerződések alapján kibocsátott közraktári jegyeket bevonta, a 12/A. §-ban meghatározott felügyeleti díjat megfizette, és ezt a felügyelet felé hitelt érdemlően igazolta.
 
 6. § (1) A közraktári tevékenység folytatására, illetve megszüntetésére vonatkozó engedély iránti kérelmet két példányban kell benyújtani.
 
@@ -169,7 +216,9 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 (6) A felügyelet a közraktározási piac tájékoztatása érdekében a honlapján naprakészen és folyamatosan közzéteszi
 
 - a) az általa kiadott tevékenységi engedéllyel rendelkezők jegyzékét (közraktár neve, székhelye, telefon- és faxszáma, e-mail címe, engedély száma, engedély kiadásának időpontja), a tevékenység felfüggesztésének és az engedély visszavonásának tényét és időpontját, valamint a kirendelt felügyeleti biztos nevét, kirendelésének időpontját,
-- b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött.
+- b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött,
+- c) az ellenőrzése eredményeként hozott jogerős és előzetesen végrehajtható határozatát,
+- d) a döntése ellen indított jogorvoslati eljárás tényét, és a jogorvoslati eljárás eredményét.
 
 (7) A (2) bekezdésében felsorolt dokumentumok, valamint a 13. § (1) és (3) bekezdésében foglalt bejelentés elektronikus úton is benyújthatóak.
 
@@ -246,14 +295,14 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 9. § (1) A közraktári piac ellenőrzését a felügyelet látja el. A feladata e körben a piac szabályozása és a közbizalom érdekében a közraktári tevékenység engedélyezése, s a közraktár – e törvényben és a rá vonatkozó egyéb jogszabályokban előírt – kötelezettségei betartásának folyamatos ellenőrzése.
 
-(2)
+(2) A közraktári engedély 10. § (1) bekezdés c) pontja szerinti visszavonása esetén a felügyelet felügyeleti jogkörét a közraktár által kibocsátott valamennyi közraktári jegy bevonásáig gyakorolhatja.
 
-(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a Pénzügyi Szervezetek Állami Felügyeletével együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
+(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a PSZÁF-fel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
 
 (4) Az ellenőrzés során a közraktár köteles
 
 - a) az ingatlanra vonatkozó, harminc napnál nem régebbi tulajdoni lapot,
-- b) az éves beszámolóját, és a beszámoló óta eltelt időszakról készült jelentést,
+- b) a közraktározási biztosíték fennállására vonatkozó igazolást,
 - c) a közraktári szerződésekről és a kiállított közraktári jegyekről, valamint a közraktározott áru becsértékéről vezetett nyilvántartását,
 - d) az általa nyújtott kölcsönökről készített kimutatást, továbbá
 - e) egyéb az ellenőrzéshez szükséges iratokat
@@ -280,6 +329,8 @@ a felügyelet rendelkezésére bocsátani.
 
 (8) A felügyelet döntését a felügyeleti szerv nem változtathatja meg, valamint nem semmisítheti meg.
 
+(9) A felügyelet döntései ellen fellebbezésnek nincs helye.
+
 9/B. § Ha a felügyelet a hatósági ellenőrzés során megállapítja, hogy
 
 - a) az igazgatóság tagja, a fióktelep vezetője, a közraktár vezetője vagy a közraktári tevékenység irányításával megbízott vezető állású munkavállalója
@@ -296,21 +347,28 @@ a felügyelet rendelkezésére bocsátani.
 - a) kötelezheti a közraktárat, hogy a megadott határidőn belül küszöbölje ki a jogsértést, illetve tevékenységét a jogszabályoknak megfelelően végezze;
 - b) felfüggesztheti a közraktár tevékenységét;
 - c) visszavonhatja a közraktári engedélyt;
-- d) a közraktárt ötvenezer forinttól ötvenmillió forintig terjedő bírsággal sújthatja.
+- d) a közraktárt ötvenezer forinttól ötvenmillió forintig terjedő bírsággal sújthatja;
+- e) a PSZÁF egyetértésével megtilthatja a zálogkölcsön-nyújtási tevékenység folytatását.
 
-(2) Ha a közraktár a felügyelet felszólításának az abban meghatározott határidőn belül nem tesz eleget, a felügyelet újabb határozattal az (1) bekezdés b)–d) pontjában, valamint a (4) bekezdésben foglalt szankciókat alkalmazhatja.
+(1a) A felügyelet az (1) bekezdés b) és c) pontjában meghatározott intézkedéssel egyidejűleg értesíti a közraktárral a közraktározási biztosítékra szerződéses jogviszonyban álló hitelintézetet vagy biztosítót.
 
-(3) A felügyelet határozata ellen fellebbezésnek helye nincs.
+(2) Ha a közraktár a felügyelet felszólításának az abban meghatározott határidőn belül nem tesz eleget, a felügyelet újabb határozattal az (1) bekezdés b)–e) pontjában, valamint a (4) bekezdésben foglalt szankciókat alkalmazhatja.
+
+(3)
 
 (4) A felügyelet az (1) bekezdésben meghatározott intézkedéseken kívül a közraktár vezetőjét – a jogsértés mértékétől függően – egymillió forintig terjedő bírság megfizetésére kötelezheti, illetve kötelezheti az igazgatóságot vagy az igazgatóság jogait gyakorló vezérigazgatót a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására. Az intézkedés elmulasztása esetén a felügyelet a cégbíróságnál törvényességi felügyeleti eljárást kezdeményez.
+
+(5) Amennyiben az (1) bekezdés b) vagy c) pontjában meghatározott intézkedés alkalmazására azért került sor, mert a közraktár vezetőjének tevékenysége a közraktár biztonságos, jogszabályszerű működését veszélyezteti, a felügyelet a közraktár vezetőjét öt évre eltilthatja attól, hogy a közraktárban vezető tisztséget lásson el.
+
+(6) Az (1) bekezdés d) pontjában, valamint a (4) bekezdésben meghatározott bírság adók módjára behajtható köztartozásnak minősül.
 
 10/A. § (1) A felügyelet felfüggeszti a közraktár tevékenységét, ha a külföldi vállalkozás közraktári tevékenysége felett felügyeletet gyakorló, székhely szerint illetékes szervezet a külföldi vállalkozás tevékenységét felfüggesztette.
 
 (2) A felügyelet visszavonja a közraktári engedélyt, ha a külföldi vállalkozás a fióktelepét megszüntette.
 
-11. § (1) Ha tevékenységét felfüggesztik, vagy engedélyét visszavonják, a közraktár – a határozatban megjelölt időponttól kezdődően – újabb közraktári szerződést akkor sem köthet, ha a határozatot bíróság előtt megtámadta. Felfüggesztés esetén a korábban kötött közraktári szerződésekből eredő kötelezettségeket teljesíteni kell.
+11. § (1) Ha tevékenységét felfüggesztik, vagy engedélyét visszavonják, a közraktár – a határozatban megjelölt időponttól kezdődően – újabb közraktári szerződést akkor sem köthet, ha a határozatot bíróság előtt megtámadta. Felfüggesztés és az engedély visszavonása esetén a korábban kötött közraktári szerződésekből eredő kötelezettségeket teljesíteni kell.
 
-(2) A közraktári tevékenység felfüggesztése vagy az engedély visszavonása esetén a határozatban megjelölt időponttól kezdődően a közraktárhoz felügyeleti biztost kell kirendelni. A kirendeléstől kezdődően a közraktár közraktári tevékenységgel, kölcsönügylettel kapcsolatos jognyilatkozatot csak a felügyeleti biztos ellenjegyzésével tehet. Ha a felügyelet álláspontja szerint fennáll a veszélye annak, hogy a közraktár e törvény szerinti kötelezettségének nem tud eleget tenni, a felügyelet a közraktár vagyonával kapcsolatos intézkedések érvényességét a felügyeleti biztos ellenjegyzéséhez kötheti. A felügyeleti biztos részére a felügyelet a közraktárhoz való kirendelésével összefüggésben más feladatot is megállapíthat.
+(2) A közraktári tevékenység felfüggesztése vagy az engedély visszavonása esetén a határozatban megjelölt időponttól kezdődően a közraktárhoz felügyeleti biztost kell kirendelni. A kirendeléstől kezdődően a közraktár közraktári tevékenységgel, kölcsönügylettel kapcsolatos, valamint a közraktározási biztosítékból történő kifizetésre vonatkozó jognyilatkozatot csak a felügyeleti biztos ellenjegyzésével tehet. Ha a felügyelet álláspontja szerint fennáll a veszélye annak, hogy a közraktár e törvény szerinti kötelezettségének nem tud eleget tenni, a felügyelet a közraktár vagyonával kapcsolatos intézkedések érvényességét a felügyeleti biztos ellenjegyzéséhez kötheti. A felügyeleti biztos részére a felügyelet a közraktárhoz való kirendelésével összefüggésben más feladatot is megállapíthat.
 
 (3) Felügyeleti biztosnak olyan természetes személy nevezhető ki, aki megfelel a közraktár vezetőjével szemben támasztott, a 7. § (1) és (2) bekezdésében meghatározott követelményeknek, és e követelmények hitelt érdemlő igazolását a kinevezéssel egyidejűleg benyújtja a felügyeletnek.
 
@@ -324,7 +382,7 @@ a felügyelet rendelkezésére bocsátani.
 
 (8) A felügyeleti biztos a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint helyszíni szemlét végezhet.
 
-12. § (1) Ha a közraktár a közraktározásból folyó kötelezettségeinek eleget tett vagy a felügyeleti biztos további munkájára nincs szükség, a felügyelet a biztost visszarendeli, egyben kötelezi a közraktárat a kirendeléssel kapcsolatos költségek megtérítésére. A felügyeleti biztos javadalmazását a felügyelet biztosítja.
+12. § (1) Ha a közraktár a közraktározásból eredő kötelezettségeinek eleget tett, vagy a felügyeleti biztos további munkájára nincs szükség, a felügyelet a felügyeleti biztost visszarendeli, egyben kötelezi a közraktárat a felügyeleti biztos javadalmazásának és a kirendeléssel kapcsolatos egyéb költségek megtérítésére.
 
 (2) A felügyeleti biztost visszarendelő határozat rendelkező részét a felügyelet a cégbíróságnak megküldi, valamint kérelmezi a felügyeleti biztos nevének, munkahelyének, beosztásának, és a visszarendelés időpontjának a Cégközlönyben történő közzétételét.
 
@@ -334,17 +392,29 @@ a felügyelet rendelkezésére bocsátani.
 
 ### A felügyeleti díj
 
-12/A. § (1) A felügyeleti eljárásért a közraktár felügyeleti díjat fizet a felügyelet részére. A felügyeleti díj mértéke az előző naptári évben (beszámolási időszakban) – a 16. § (5) bekezdésében foglaltaknak megfelelően – kibocsátott közraktári jegyeken feltüntetett érték együttes összegének 0,4 ezreléke, de legfeljebb tizenötmillió forint.
+12/A. § (1) A felügyeleti eljárásért a közraktár felügyeleti díjat köteles fizetni.
 
-(2) A felügyeleti díjat a tárgyévet követő év március 31-ig kell befizetni. Azok a közraktárak, amelyek tevékenységüket év közben megszüntették – a tevékenység megszüntetését követő 30 napon belül – a megszüntetésig kibocsátott közraktári jegyek értéke alapján kötelesek a felügyeleti díjat befizetni.
+(2) A felügyeleti díj alapdíjból és az előző naptári évben kibocsátott közraktári jegyeken feltüntetett érték alapján megállapított forgalomarányos díjból áll.
 
-(3) A 28. §-ban meghatározott zálogkölcsön nyújtására is engedéllyel rendelkező közraktár felügyeleti díjat fizet a Pénzügyi Szervezetek Állami Felügyelete részére. A felügyeleti díj a (4)–(5) bekezdés szerint számított alapdíj összege.
+(3) A közraktár az alapdíjat a felügyelet részére, továbbá, amennyiben a közraktár a 28. §-ban meghatározott zálogkölcsön nyújtására is engedéllyel rendelkezik, a PSZÁF részére is köteles megfizetni.
 
-(4) Az alapdíj az alapdíjegység és az (5) bekezdés szerinti szorzószám szorzata. Az alapdíjegység ötvenezer forint.
+(4) Az alapdíj az alapdíjegység, valamint az (5) és a (6) bekezdésben meghatározott szorzószám szorzata. Az alapdíjegység ötvenezer forint.
 
-(5) A szorzószám közraktár esetén: négy.
+(5) A felügyelet részére fizetendő alapdíj szorzószáma: húsz.
+
+(6) A PSZÁF részére fizetendő alapdíj szorzószáma: négy.
+
+(7) A forgalomarányos felügyeleti díj mértéke az előző naptári évben, illetve beszámolási időszakban kibocsátott közraktári jegyeken feltüntetett érték együttes összegének 0,4 ezreléke, de legfeljebb tizennégymillió forint.
 
 12/B. § A közraktári tevékenység engedélyezéséért, valamint az 5/C. §-ban, az 5/D. §-ban, a 8. §-ban és a 13. § (1) bekezdésében meghatározott engedélyezési eljárásért a kérelmező igazgatási szolgáltatási díjat fizet a felügyelet részére.
+
+12/C. § (1) A 12/A. § szerint meghatározott felügyeleti díjat a tárgyévet követő év január 31-ig kell befizetni. Az a közraktár, amely tevékenységét év közben kezdte meg, a felügyeleti díjat első ízben a tevékenység megkezdését követő év január 31-ig köteles megfizetni. Az a közraktár, amely tevékenységének megszüntetését év közben kezdeményezte, vagy amelynek tevékenységi engedélyét a felügyelet év közben vonta vissza, a felügyeleti díjat a bejelentés napjától, illetve a visszavonó határozat közlésének napjától számított harminc napon belül köteles megfizetni.
+
+(2) A felügyelet részére határidőben meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.
+
+(3) A felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén az esedékesség napjától a teljesítés napjáig késedelmi pótlékot kell fizetni.
+
+(4) A késedelmi pótlék mértéke minden naptári nap után a felügyeleti díj felszámításának időpontjában érvényes jegybanki alapkamat kétszeresének háromszázhatvanötöd része.
 
 ### Bejelentési kötelezettség
 
@@ -354,17 +424,21 @@ a felügyelet rendelkezésére bocsátani.
 - b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 - c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a Pénzügyi Szervezetek Állami Felügyeletének a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a PSZÁF-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 
-- a) ha költséget, ráfordítást eredményező kötelezettségeinek összege eléri a közraktár saját tőkéjének huszonöt százalékát;
+- a) ha költséget, ráfordítást eredményező kötelezettségeinek összege eléri a közraktár az előző üzleti évi éves beszámolóban kimutatott saját tőkéjének huszonöt százalékát;
 - b) fizetésképtelensége veszélyét;
 - c) szétválási vagy egyesülési szándékát;
 - d) a közraktári tevékenységgel kapcsolatos személyi és tárgyi feltételekben bekövetkezett változást, illetve a tárgyi feltételek megszűnését;
 - e) cégadatainak megváltozását;
 - f) a részvénytársaság tulajdonosi szerkezetének megváltozását;
-- g) a létesítő okirat engedélyt nem igénylő változását.
+- g) a létesítő okirat engedélyt nem igénylő változását;
+- h) a közraktározási biztosíték nyújtási formájának megváltoztatását;
+- i) a 2.§ (5) bekezdése szerinti ingatlanvagyon összetételének változására irányuló szándékát.
+
+(3a) A közraktár köteles az arra jogosult szerv által elfogadott, könyvvizsgálói záradékot, vagy a könyvvizsgálói záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentést tartalmazó, a számviteli törvény szerinti beszámolóját, annak elfogadását követő tizenöt napon belül a felügyeletnek megküldeni.
 
 (4) A felügyelet harminc napon belül megvizsgálja, hogy a (3) bekezdés a)–d) pontjai szerinti bejelentésben foglalt esemény veszélyezteti-e a közraktár zavartalan működését, kötelezettségeinek teljesítését, illetve igényel-e felügyeleti intézkedést.
 
@@ -407,13 +481,13 @@ a felügyelet rendelkezésére bocsátani.
 (3) A közraktározás – a felek megállapodása alapján – történhet oly módon, hogy az árut
 
 - a) a többi árutól elkülönítve, vagy
-- b) a többi letevő azonos fajú helyettesíthető áruival összekeverve
+- b) a többi letevő vagy azonos letevő különböző szerződés alapján közraktározott, azonos fajú helyettesíthető áruival összekeverve
 
 tárolják.
 
 (4) A (3) bekezdés a) pontjában írt esetben a közraktárnak a közraktári jegy alapján a letevő által letett árut kell kiadni, a b) pont szerinti esetben a közraktári jegy birtokosa a közraktártól a letett áru alapján megállapított és közraktári jegyen megjelölt minőségnek és mennyiségnek megfelelő áru kiadására tarthat igényt.
 
-(5) A letevő a közraktározás megkezdésekor köteles az áru minőségét tanúsítani. A közraktár és a letevő a minőségre tekintettel megállapodik, hogy a közraktár által történő átvétel időpontjában az áru milyen értéket képvisel, amelyet a közraktári szerződésben rögzíteni kell. Eltérő megállapodás hiányában az áru értéke a letevő könyveiben az áru értékeként megjelölt összeg. A felek megállapodhatnak abban is, hogy az áru értékét szakértő állapítsa meg. Az áru így megállapított értéke az alapja a kártérítési igénynek.
+(5) A letevő a közraktározás megkezdésekor köteles az áru minőségét tanúsítani, és származását igazolni. A közraktár és a letevő a minőségre tekintettel megállapodik, hogy a közraktár által történő átvétel időpontjában az áru milyen értéket képvisel, amelyet a közraktári szerződésben rögzíteni kell. Eltérő megállapodás hiányában az áru értéke a letevő könyveiben az áru értékeként megjelölt összeg. A felek megállapodhatnak abban is, hogy az áru értékét szakértő állapítsa meg. Az áru így megállapított értéke az alapja a kártérítési igénynek.
 
 (6) Az áru szavatosságának megőrzése érdekében a letevő és a közraktár megállapodhat abban, hogy a közraktározás ideje alatt a letevő az árut azonos fajtájú, mennyiségű, és minőségű áruval kicserélje. A letett áru kicserélésére vonatkozó részletes szabályokat a közraktár üzletszabályzatában kell rögzíteni.
 
@@ -421,9 +495,11 @@ tárolják.
 
 (2) A szabályzatnak tartalmaznia kell:
 
-- a) a raktározható áru körét, az áru közraktárban történő elhelyezésének, őrzésének, az áru kísérőokmányainak, a közraktári tevékenységből eredő és egyéb szolgáltatásoknak, az áru árverés útján történő értékesítésének szabályait, feltételeit, valamint
+- a) a raktározható áru körét, az áru közraktárban történő elhelyezésének, őrzésének, az áru kísérőokmányainak, a közraktári tevékenységből eredő és egyéb szolgáltatásoknak, az áru árverés útján történő értékesítésének szabályait, feltételeit,
 - b) a közraktári tevékenységből eredő és az egyéb szolgáltatás után járó díjakat,
-- c) a szabályzat hatálybalépésének időpontját.
+- c) a szabályzat hatálybalépésének időpontját,
+- d) a közraktár által alkalmazott vagyonvédelmi rendszer megjelölését,
+- e) a közraktározott áru minőségének megóvása érdekében a közraktár által lefolytatott ellenőrzés módszerét, az ellenőrzések gyakoriságát.
 
 (3) A díjszabályzat változása a letevővel megkötött közraktári szerződésben rögzített díjat nem érinti.
 
@@ -433,15 +509,19 @@ tárolják.
 
 (3) Ha az áru átvétele, vagy kiszolgáltatása több részletben történik, minden részmennyiségről jegyzőkönyvet kell felvenni.
 
+18/A. § Az áttárolással járó költségeket az viseli, akinek az érdekkörében felmerült okból az áttárolás szükségessé vált.
+
 ### A felek jogai és kötelezettségei
 
 19. § (1) A közraktár a nála elhelyezett árut a szerződésben meghatározott módon köteles megóvni a mennyiségi és minőségi változásoktól. Az e törvényben szabályozott módon köteles eljárni, ha az árut a megromlás veszélye fenyegeti.
 
 (2) A letevő köteles tájékoztatni a közraktárat arról, hogy az áru milyen különleges kezelést igényel. Az ennek elmulasztásából eredő károkért a közraktár a letevővel szemben felelősséggel nem tartozik, illetve a károk megtérítését a letevőtől követelheti.
 
-20. § (1) A közraktár a közraktározást saját raktárban vagy művi raktárban végezheti. A közraktár művi raktárt csak abban az esetben vehet igénybe, ha a raktár rendelkezik a működéséhez szükséges hatósági engedéllyel, valamint a letenni kívánt árut egyéb árutól elkülönítve, zárható helyen lehet raktározni.
+20. § (1) A közraktár a közraktározást saját raktárban vagy művi raktárban végezheti. A közraktár művi raktárt csak abban az esetben vehet igénybe, ha a raktár rendelkezik a működéséhez szükséges hatósági engedéllyel, továbbá, ha a közraktár folyamatosan biztosítja a művi raktárban letett árunak a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti mechanikai vagyonvédelmi rendszerrel való őrzését.
 
 (2) A művi tárolás megkezdéséig a közraktár a művi raktárt birtokba veszi és a felügyeletet a közraktározás ideje alatt biztosítja. A közraktár felügyeleti kötelezettsége a megőrzéssel kapcsolatos összes teendőkre, valamint a törvény rendelkezései teljes körű betartásának ellenőrzésére terjed ki.
+
+(2a) Amennyiben művi tárolás esetén a letenni kívánt árut egyéb árutól nem lehet elkülöníteni, vagy a tárolás nem zárt helyen történik, az árura vonatkozóan közraktári jegyet csak abban az esetben lehet kibocsátani, ha a közraktár az áru védelmére olyan jelzőrendszert alkalmaz, amely folyamatosan biztosítja az áruhoz való illetéktelen hozzáférés megakadályozását.
 
 (3) A letevő – ha az áru jellegéből vagy a felek megállapodásából más nem következik – csomagolva köteles átadni az árut úgy, hogy az ne károsodjék, illetve más áruban kárt ne okozzon, a személy- és vagyonbiztonságot ne veszélyeztesse.
 
@@ -451,6 +531,18 @@ tárolják.
 
 (6) A közraktárt a közraktározott áru tekintetében megilleti a birtoklás és a birtokvédelem joga.
 
+(7) A közraktározott árut a művi raktár üzemeltetője sem a közraktárral, sem a letevővel szembeni esetleges követelésének biztosítékaként nem tarthatja vissza.
+
+20/A. § (1) 2014. január 1-től amennyiben a művi tárolással közraktározott áruk értéke az előző üzleti évi éves beszámolóban kimutatott saját tőke huszonötszörösét meghaladja, a közraktár köteles a közraktárban letett áruk folyamatos felügyeletét a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti elektronikai vagyonvédelmi rendszer alkalmazásával biztosítani.
+
+(2) 2015. január 1-től amennyiben a művi tárolással közraktározott áruk értéke az előző üzleti évi éves beszámolóban kimutatott saját tőke tizenötszörösét meghaladja, a közraktár köteles a közraktárban letett áruk folyamatos felügyeletét a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti elektronikai vagyonvédelmi rendszer alkalmazásával biztosítani.
+
+(3) 2016. január 1-től amennyiben a művi tárolással közraktározott áruk értéke az előző üzleti évi éves beszámolóban kimutatott saját tőke tízszeresét meghaladja, a közraktár köteles a közraktárban letett áruk folyamatos felügyeletét a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti elektronikai vagyonvédelmi rendszer alkalmazásával biztosítani.
+
+(4) 2017. január 1-től a közraktár köteles a művi tárolás keretében közraktárban letett áruk folyamatos felügyeletét a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti elektronikai vagyonvédelmi rendszer alkalmazásával biztosítani.
+
+(5) Az (1)–(4) bekezdésben meghatározott kötelezettség nem terjed ki az olyan, művi tárolás keretében közraktárban letett árukra, amelyeknek értéke letevőnként vagy raktáranként az 50 millió forintot nem haladja meg.
+
 ### A közraktár egyéb szolgáltatásai
 
 21. § (1) A közraktár a közraktári szerződésben vállalhatja az áru általános kezelésén felül egyéb szolgáltatások teljesítését is.
@@ -459,14 +551,17 @@ tárolják.
 
 ### Közraktári felelősség
 
-22. § (1) A közraktár felel azért a kárért, amely a közraktározásra elhelyezett áruban az átvételtől a kiszolgáltatásig különösen a teljes vagy részleges elveszésből, megsemmisülésből, megromlásból vagy megsérülésből keletkezik, kivéve, ha
+22. § (1) A közraktár felel azért a kárért, amely a közraktározásra elhelyezett áruban az átvételtől a kiszolgáltatásig különösen a teljes vagy részleges elveszésből, megsemmisülésből, megromlásból vagy megsérülésből keletkezik, kivéve, ha a közraktár tevékenységi körén kívül eső elháríthatatlan ok miatt következett be.
 
-- a) a közraktár tevékenységi körén kívül eső elháríthatatlan ok,
-- b) az áru belső tulajdonsága (természetes minősége),
-- c) a csomagolás rejtett hiányossága,
-- d) a letevő, illetve a képviseletében eljáró személy felróható magatartása
+(1a) Nem minősül a közraktári tevékenység körén kívül eső elháríthatatlan oknak a művi raktár üzemeltetőjének érdekkörében felmerülő ok.
 
-miatt következett be.
+(1b) Amennyiben az (1) bekezdésben meghatározott kár
+
+- a) az áru belső tulajdonságából (természetes minőségéből),
+- b) a csomagolás rejtett hiányosságából,
+- c) a letevő, illetve a képviseletében eljáró személy felróható magatartásából
+
+származik, a közraktár a kár összegének megtérítését a letevőtől követelheti.
 
 (2) A közraktárat terheli annak bizonyítása, hogy a kárt a tevékenységi körén kívül eső elháríthatatlan ok okozta, a letevőt terheli annak bizonyítása, hogy a kár nem az áru belső tulajdonságaira vezethető vissza. A csomagolás hiányosságát a közraktár, azt, hogy a kár nem ennek következtében állott elő, a letevő köteles bizonyítani. A letevő köteles bizonyítani, hogy maga vagy képviselői úgy jártak el, ahogy az általában elvárható.
 
@@ -483,7 +578,7 @@ miatt következett be.
 
 ### A közraktári tevékenységből eredő perek
 
-23/A. § A közraktári tevékenységből eredő perekben a Polgári perrendtartás váltóperekre vonatkozó eljárási szabályait kell alkalmazni. [Pp. 125. § (2) és (4) bekezdése; 217. § (4) bekezdése; 234. § (1) bekezdése]
+23/A. § A közraktári tevékenységből eredő perekben, valamint a közraktárban letett árura vonatkozó birtokperekben a polgári perrendtartás váltóperekre vonatkozó eljárási szabályait kell alkalmazni. [Pp. 125. § (2) és (4) bekezdése; 217. § (4) bekezdése; 234. § (1) bekezdése]
 
 ### IV. Fejezet — A közraktári jegy
 
@@ -521,9 +616,13 @@ miatt következett be.
 
 (5) A közraktári jegy birtokosát a hátiratok összefüggő láncolata igazolja, az üres forgatmányt érvényesnek kell tekinteni. A közraktári jegy forgatása nem közraktári tevékenység.
 
-(6) A közraktári jegy birtokosa a zálogjegy forgatásával kölcsönt vehet fel. A szabályosan forgatott zálogjegy önmagában a zálogjegyen szereplő összeg iránti pénzkövetelést testesíti meg, és ennek fedezetéül zálogjogot biztosít birtokosának a közraktárban elhelyezett árun.
+(6) A szabályosan forgatott zálogjegy önmagában a zálogjegyen szereplő összeg iránti pénzkövetelést testesíti meg, és ennek fedezetéül zálogjogot biztosít birtokosának a közraktárban elhelyezett árun.
+
+(6a) A közraktári jegy birtokosa a zálogjegy forgatásával a közraktári jegyen feltüntetett érték erejéig olyan kölcsönt vehet fel, amelynek igényérvényesítési határideje legfeljebb a közraktári jegy lejáratát követően egy év.
 
 (7) Az árujegy magában véve csak a zálogjegyen feltüntetett összeggel csökkentett értékkel rendelkezik, és a közraktárnak az áru kiszolgáltatására vonatkozó, a zálogjegy által korlátozott kötelezettségét bizonyítja.
+
+(8) A zálogjegyen feltüntetett kölcsönösszeg visszafizetése után a hitelező haladéktalanul köteles a birtokában lévő közraktári jegy valamennyi szelvényrészét az adósnak kiadni.
 
 27. § (1) Ha a zálogjegy átruházása külön történik, az első hátiratnak tartalmaznia kell:
 
@@ -542,9 +641,9 @@ miatt következett be.
 
 ### A zálogkölcsön
 
-28. § (1) A közraktár a közraktári jegy kiállítása után az áru értéke kétharmadának erejéig kölcsönt nyújthat a közraktári jegy birtokosa részére úgy, hogy az egy ügyfélnek vagy ügyfélcsoportnak nyújtott zálogkölcsön összege nem haladhatja meg a közraktár saját tőkéjének huszonöt százalékát. Az ügyfélcsoport meghatározására a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény értelmező rendelkezései az irányadóak. A kölcsön biztosítására a zálogjegyet a közraktárra kell forgatni.
+28. § (1) A közraktár a közraktári jegy kiállítása után az áru értéke kétharmadának erejéig kölcsönt nyújthat a közraktári jegy birtokosa részére úgy, hogy az egy ügyfélnek vagy ügyfélcsoportnak nyújtott zálogkölcsön összege nem haladhatja meg a közraktár az előző üzleti évi éves beszámolóban kimutatott saját tőkéjének huszonöt százalékát. Az ügyfélcsoport meghatározására a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény értelmező rendelkezései az irányadóak. A kölcsön biztosítására a zálogjegyet a közraktárra kell forgatni.
 
-(2) A közraktár által nyújtott zálogkölcsönök együttes összege nem haladhatja meg a közraktár saját tőkéjének ötszörösét.
+(2) A közraktár által nyújtott zálogkölcsönök együttes összege nem haladhatja meg a közraktár az előző üzleti évi éves beszámolóban kimutatott saját tőkéjének ötszörösét.
 
 (3) A közraktár által nyújtott kölcsön lejáratát úgy kell meghatározni, hogy az ne essék későbbi időpontra, mint a közraktári szerződés lejárata.
 
@@ -567,6 +666,10 @@ miatt következett be.
 (2) A közraktár a zálogkölcsönnyújtásról szóló (1) bekezdés alapján hozott határozatát annak meghozatalától számított tizenöt napon belül köteles a felügyeletnek bejelenteni.
 
 (3) A közraktár köteles a vele, vagy tulajdonosával szoros kapcsolatban álló vállalkozásoknak nyújtott zálogkölcsönről elkülönített nyilvántartást vezetni.
+
+28/C. § (1) A közraktár a zálogkölcsön-nyújtási tevékenységet akkor kezdheti meg, ha a közraktári engedély iránti kérelméhez, illetve a már működő közraktár a közraktári engedély módosítása iránti kérelméhez az 5. § (2) bekezdés e) és l) pontjában meghatározott dokumentumokat mellékelte, és a közraktár részére a felügyelet a zálogkölcsön-nyújtási tevékenység folytatását az 5. § (1) bekezdésének első mondata szerint engedélyezte.
+
+(2) A közraktár a zálogkölcsön-nyújtási tevékenységet akkor szüntetheti meg, ha a tevékenység megszüntetését a felügyelet az 5. § (1) bekezdésében foglaltak szerint engedélyezte.
 
 ### V. Fejezet — A közraktári tevékenység befejezése
 
@@ -672,7 +775,7 @@ miatt következett be.
 - f) ha nincs további ajánlat, a felajánlott legmagasabb vételár háromszori kikiáltása után kijelenti, hogy az árut a legtöbbet ajánló megvette;
 - g) az árverésről árverési jegyzőkönyvet készít, amely tartalmazza az e §-ban felsoroltakat, valamint az árverési biztos és a vevő aláírását, amellyel a vevő elismeri a kikiáltott vételár megfizetésének kötelezettségét.
 
-(3) Az áru árverésen történő értékesítése esetén az általános forgalmiadó-fizetési kötelezettség alapja az árverésen elért általános forgalmi adó nélküli ár. Az árverésen történő értékesítésre egyebekben az általános forgalmi adóról szóló 1992. évi LXXIV. törvény rendelkezései az irányadók.
+(3) Az áru árverésen történő értékesítése esetén az általános forgalmiadó-fizetési kötelezettség alapja az árverésen elért általános forgalmi adó nélküli ár. Az árverésen történő értékesítésre egyebekben az általános forgalmi adóról szóló törvény rendelkezései az irányadók.
 
 (4) Ha a felajánlott legmagasabb vételár nem éri el a kikiáltási árat, az áru megromlásának veszélye miatt történt értékesítés esetén az árverési biztos a legmagasabb ajánlati áron, de legalább a kikiáltási ár ötven százalékán kiálthatja ki ismét az árat. Ha így sem sikerül az értékesítés, akkor a legmagasabb árat ajánló vevő részére kell értékesíteni az árut.
 
@@ -701,9 +804,15 @@ miatt következett be.
 
 (4) Az árujegy birtokosa a zálogjegy birtokosának, illetve a zálogjegy forgatóinak csak akkor tartozik felelősséggel, ha ő volt a zálogjegy első forgatója.
 
-### Végrehajtás, csődeljárás, felszámolás
+### Végrehajtás, csődeljárás, felszámolás, végelszámolás, kényszertörlési eljárás
 
-38. § (1) A közraktárba letett árut bírósági végrehajtás során lefoglalni nem lehet. A közraktárba letett áru nem tartozik a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló, többször módosított 1991. évi IL. törvény (a továbbiakban: Cstv.) által meghatározott vagyonba. Az árujegyet és a zálogjegyet – mint értékpapírt – bírósági végrehajtás során le lehet foglalni, és a Cstv. szerinti vagyon megállapításánál is figyelembe kell venni. A bírósági végrehajtás során történő értékesítéskor a végrehajtó által készített jegyzőkönyv pótolja a forgató nyilatkozatot.
+38. § (1) A közraktárba letett áru nem tartozik a közraktárnak a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.) szerinti vagyonába.
+
+(1a) A közraktárba letett árut bírósági végrehajtás során lefoglalni nem lehet.
+
+(1b) Az árujegyet és a zálogjegyet – mint értékpapírt – bírósági végrehajtás során le lehet foglalni, és a Cstv. szerinti vagyon megállapításánál is figyelembe kell venni.
+
+(1c) A bírósági végrehajtás során történő értékesítéskor a végrehajtó által készített jegyzőkönyv pótolja a forgató nyilatkozatot.
 
 (2) Az árujegy birtokosának csődeljárása esetén a zálogjegy birtokosára nem hat ki a fizetési haladék és a kényszeregyezség. Ha a követelését nem elégíti ki a zálogjegy első forgatója, a lejáratot követően a zálogjegybirtokos e törvény alapján az áru értékesítése során befolyt összegből kérheti a kielégítést.
 
@@ -715,11 +824,29 @@ miatt következett be.
 
 (6) A zálogjegy birtokosának csődeljárása és felszámolása az árujegy birtokosának igényét nem érinti.
 
-39. § (1) A közraktár ellen indított felszámolási eljárásra a Cstv. rendelkezéseit kell alkalmazni azzal, hogy a felszámolás kezdő időpontját követően közraktári szerződést a felszámoló sem köthet, a közraktári szerződések teljesítésére vonatkozóan pedig a közraktár tevékenysége felfüggesztésének szabályai [10. § (1) bek. b) pontja és 11. § (1) bekezdés] irányadók.
+39. § (1) A közraktár ellen indított csődeljárásra és felszámolási eljárásra a Cstv. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A közraktár felszámolása során kötendő kényszeregyezség esetén az adós egyezségi ajánlatához köteles előzetesen megszerezni a felügyelet jóváhagyását. Ha a felügyelet a jóváhagyást megtagadja és az adós a hitelezőkkel egyezséget kötött, a felügyelet a 10. § (1) bekezdésének c) pontja szerint jár el, és a 11. § (2) bekezdésében foglalt következményeket kell alkalmazni.
+(2)
 
 (3) Közraktár felszámolása esetén az ellene a közraktári szerződésből eredő kártérítés iránti követeléseket a Cstv. 57. §-a (1) bekezdésének b) pontja szerint kell besorolni és kielégíteni, a közraktár elleni zálogjogból és óvadékból eredő követeléseket megelőzően.
+
+(4) Közraktár ellen indított felszámolási eljárás lefolytatására a Budapest Környéki Törvényszék kizárólagos illetékességgel rendelkezik.
+
+(5) A bíróság a felszámolás iránti kérelemről, valamint a felszámolást elrendelő végzés elleni fellebbezésről tizenöt napon belül határoz.
+
+(6) A felügyelet a felszámolást elrendelő végzés jogerőre emelkedését követően haladéktalanul visszavonja a közraktár tevékenységi engedélyét.
+
+39/A. § A közraktár ellen elrendelt kényszertörlésről szóló határozatot a bíróság haladéktalanul megküldi a felügyeletnek.
+
+39/B. § (1) Amennyiben a felügyelet a csőd- vagy felszámolási eljárás iránti kérelem benyújtását, vagy a végelszámolás elhatározását megelőzően felügyeleti biztost rendelt ki, a felügyeleti biztos megbízatása a végelszámolás kezdő időpontjáig, illetve mindaddig tart, amíg a bíróság a csődeljárás vagy felszámolás elrendeléséről szóló határozatában a vagyonfelügyelőt vagy a felszámolót nem rendeli ki.
+
+(2) A felszámolás vagy végelszámolás kezdő időpontját követően közraktári szerződést a felszámoló vagy végelszámoló sem köthet, csődeljárás kezdő időpontját követően közraktári szerződés a vagyonfelügyelő engedélyével köthető.
+
+(3) A csődeljárás, felszámolás vagy végelszámolás kezdő időpontját követően a vagyonfelügyelőnek, a felszámolónak, illetve végelszámolónak a korábban a közraktár által kötött közraktári szerződésekből eredő valamennyi kötelezettséget teljesítenie kell.
+
+39/C. § (1) A közraktár vezetője a csődeljárás megindítására irányuló kérelmének benyújtásával egyidejűleg köteles erről a felügyeletet értesíteni.
+
+(2) A bíróság a csődeljárást elrendelő végzést a felügyeletnek is megküldi.
 
 ### Biztosítás
 
@@ -772,7 +899,17 @@ miatt következett be.
 
 (5) Ha az (1) bekezdés szerinti közraktár nem kíván közraktárként működni, vagy a felügyelet a közraktári engedély kiadását megtagadja, új közraktári szerződést nem köthet, de a már megkötött ügyletekből eredő kötelezettségeket – a megkötésekor hatályban volt szabályok szerint – köteles teljesíteni. Ha a már megkötött közraktári ügyleteknek a Kereskedelmi Törvény szerinti teljesítése is veszélyben van, a felügyelet a közraktárhoz felügyeleti biztost rendelhet ki, aki e törvénynek megfelelő jogkörrel köteles ott eljárni.
 
-45. §
+45. § (1) A közraktározásról szóló 1996. évi XLVIII. törvény módosításáról szóló 2013. évi LXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (5) bekezdés szerinti értékbecslést a Módtv. hatálybalépésekor működő közraktárnak első alkalommal a Módtv. hatálybalépését követő 60 napon belül kell elvégeznie.
+
+(2) Amennyiben az (1) bekezdésben meghatározott értékbecslés eredményeként az ingatlan értéke a kettőszázötvenmillió forintot nem éri el, a közraktár köteles az érték megállapításától számított 180 napon belül a jogellenes helyzetet megszüntetni.
+
+(3) A Módtv. megállapított 1. § (6) bekezdésében meghatározott közraktározási biztosítékot a Módtv. hatálybalépésekor működő közraktárnak legkésőbb a Módtv. hatálybalépését követő 120 napon belül kell biztosítania.
+
+(4) A Módtv.-vel megállapított 20. § (1) bekezdés szerinti, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti mechanikai vagyonvédelmi rendszerrel való folyamatos őrzést a Módtv. hatálybalépésekor működő közraktárnak legkésőbb a Módtv. hatálybalépését követő 90 napon belül kell biztosítania.
+
+(5) A Módtv.-vel megállapított 20. § (2a) bekezdését, valamint 22. § (1), (1a), valamint (1b) bekezdését csak a Módtv. hatálybalépését követően megkötött közraktári szerződésekre vonatkozóan kell alkalmazni.
+
+45/A. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
 
 ### Hatálybalépés
 

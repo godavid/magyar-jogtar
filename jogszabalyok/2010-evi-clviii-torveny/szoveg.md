@@ -97,6 +97,10 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (7) A short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet (2012. március 14.) (a továbbiakban: a 236/2012/EU európai parlamenti és tanácsi rendelet) 32. cikke szerinti illetékes hatóságként a Felügyelet látja el a 236/2012/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
+(8) Az Európai Parlament és a Tanács a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU rendelete (a továbbiakban: 648/2012/EU rendelet) 2. cikk 13. pontja szerinti illetékes hatóságként látja el a rendelet végrehajtásához kapcsolódó feladatokat az MNB-nek az MNB-ről szóló törvényben meghatározott szakhatósági közreműködése mellett.
+
+(9) Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (2010. november 12.) (a továbbiakban: a 1031/2010/EU bizottsági rendelet) 43. cikke szerinti illetékes hatóságként a Felügyelet látja el a 1031/2010/EU bizottsági rendelet 37–42. cikkének végrehajtását.
+
 7. § A Felügyelet feladata
 
 - a) engedélykérelmek és más beadványok elbírálása,
@@ -106,7 +110,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - e) ha törvény eltérően nem rendelkezik, eljárás a d) pontban foglaltak megsértése esetén, és ennek során intézkedések alkalmazása, kivételes intézkedések alkalmazása, bírság kiszabása,
 - f) a 4. §-ban meghatározott törvények hatálya alá tartozó személyektől és szervezetektől származó információk és adatok, továbbá a hivatalosan ismert és a köztudomású tények alapján a pénzügyi piacok folyamatos felügyelete,
 - g) az Országos Betétbiztosítási Alap igazgatótanácsa működésének, döntései előkészítésének és végrehajtásának segítése,
-- h) bennfentes kereskedelem, piacbefolyásolás, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén, a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése esetén, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
+- h) bennfentes kereskedelem és piacbefolyásolás (ideértve a továbbiakban a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, illetve piaci manipulációt), engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén, a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése esetén, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése esetén piacfelügyeleti eljárás indítása,
 - i) külföldi pénzügyi hatóságokkal, különösen az Európai Gazdasági Térség államaiban pénzügyi felügyeleti hatóságokkal való együttműködés,
 - j) feladatkörében a nyilvánosságra hozatali és az Európai Bizottság felé fennálló bejelentési kötelezettségek teljesítése,
 - k) a fióktelep létesítésével és a határon átnyúló tevékenység végzésével kapcsolatos értesítési és tájékoztatási kötelezettség teljesítése, valamint a fióktelepek működésével kapcsolatos szükséges vizsgálatok elvégzése érdekében az Európai Gazdasági Térség államaiban pénzügyi hatósági feladatokat ellátó hatóságokkal való együttműködés,
@@ -181,7 +185,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - b) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal,
 - c) az Európai Rendszerkockázati Testülettel,
 - d) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
-- e) az Európai Bankbizottsággal.
+- e) az Európai Bankbizottsággal,
+- f) a Központi Bankok Európai Rendszerével.
 
 (2) A Felügyelet teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
 
@@ -260,6 +265,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 (6) A Felügyelet tájékoztatja az Európai Bank Hatóságot a felügyeleti kollégium tevékenységéről és közli vele a felügyeleti konvergencia szempontjából lényeges információkat.
 
 (7) A Felügyelet fogadó ország felügyeleti szerepét ellátva részt vesz más külföldi pénzügyi felügyeleti hatóság által alapított felügyeleti kollégium tevékenységében.
+
+12/A. § A Felügyelet létrehozza és működteti a 648/2012/EU rendelet 18. cikkében meghatározott Kollégiumot.
 
 ### II. Fejezet — A PÉNZÜGYI SZERVEZETEK ÁLLAMI FELÜGYELETÉNEK SZERVEZETE ÉS GAZDÁLKODÁSA
 
@@ -549,6 +556,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (3) Az (1) bekezdés nem alkalmazható az alapítási, a tevékenységi engedélyezési, valamint a minősített befolyás megszerzésére irányuló eljárásokban, amelyek során az ügyfél köteles az iratok hiteles magyar nyelvű fordítását biztosítani.
 
+(4) A 648/2012/EU rendelet alapján végzett tevékenységi engedélyezési eljárás során az ügyfél köteles a Felügyelet részére – a Felügyelet külön felhívására – az okiratokat magyar és angol nyelven is benyújtani.
+
 41. § A Felügyelet eljárása során a Ket. 10. § (2) bekezdése, 29. § (3) bekezdés b) pontja, a 33/A. § és a 49. § nem alkalmazható.
 
 42. § (1) A tényállás tisztázása során a Felügyelet a Ket. tényállás tisztázására és hatósági ellenőrzésre vonatkozó szabályait alkalmazza.
@@ -776,6 +785,8 @@ végez.
 (2) Nem kötelezhető bírság fizetésére az, aki bizonyítani tudja, hogy úgy járt el, ahogy az ilyen tisztséget betöltő személytől az adott helyzetben általában elvárható.
 
 (3) Testületi szerv esetében nem kötelezhető bírság megfizetésére azon testületi tag, aki a bírság alapját képező döntés meghozatalában nem vett részt, vagy a döntés ellen szavazott, és ezt az ülésről készített jegyzőkönyvben rögzítették.
+
+63/A. § A Felügyelet a 6. § (8) bekezdésében meghatározott feladatának ellátása során az ellenőrzési eljárás szabályait megfelelően kell alkalmazni.
 
 ### Fogyasztóvédelmi ellenőrzés
 
@@ -1370,7 +1381,8 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 - l) a Bizottság 2010/44/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek az alapok egyesülésére, a master-feeder struktúrákra és a bejelentési eljárásokra vonatkozó különös rendelkezései tekintetében történő végrehajtásáról,
 - m) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról,
 - n) az Európai Parlament és a Tanács 236/2012/EU rendelete (2012. március 14.) a short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról,
-- o) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
+- o) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
+- o) az 1031/2010/EU bizottsági rendelete az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól.
 
 121. § (1) E törvény 5. § (1) bekezdése, a 70. §-a, 71. § (1) bekezdés a)–c) pontja és a 73. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet feladatkörében és eljárásában.
 
@@ -1383,8 +1395,7 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 - e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése,
-- f) (6) bekezdése a 2009/65/EK európai parlamenti és tanácsi irányelvnek a bejelentő levél és az ÁÉKBV-igazolás formája és tartalma, a bejelentés céljára az illetékes hatóságok közötti elektronikus kommunikáció használata, valamint a helyszíni ellenőrzésekre és vizsgálatokra és az illetékes hatóságok közötti információcserére vonatkozó eljárások tekintetében történő végrehajtásáról szóló, 2010. július 1-i 584/2010/EU bizottsági rendelet, valamint
-- g) a Bizottság 2010. július 1-i, 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló 583/2010/EU rendelet végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.
+- f) (6) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.
 
 (4) A pénzügyi fogyasztói jogvita tekintetében
 

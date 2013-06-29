@@ -24,7 +24,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - n) a Magyarország területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyarország területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
 - o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
 - p) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
-- q) Magyarország területén a befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
+- q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott érték-papírkölcsönzésre.
 
 2. § Nem tartozik a törvény hatálya alá
 
@@ -68,7 +68,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 22. befolyásszerzés: a céltársaság szavazati jogot megtestesítő részvényének, illetőleg szavazati jognak a megszerzése, ideértve a szavazati jogot biztosító részvényre vonatkozó vételi jog, visszavásárlási jog, határidős vételi megállapodás érvényesítését vagy a szavazati jog használati, haszonélvezeti jog alapján történő gyakorlását, valamint azt, ha a befolyás nem a befolyásszerző közvetlenül erre irányuló magatartása révén, hanem egyéb körülmények – így különösen jogutódlás vagy a részvénytársaságnak a részvényesek szavazati jogát érintő, a szavazati arányokat módosító határozata vagy a szavazati jogok feléledése – következtében, illetve összehangoltan eljáró személyek e célból megvalósított együttműködésének eredményeképpen jön létre,
 - 23. biztosító: a Bit. 3. §-a (1) bekezdésének 10. pontja szerinti biztosító, a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit. 3. §-a (1) bekezdésének 23. pontja szerinti harmadik országbeli biztosító is,
 - 24.
-- 25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános ajánlattételi eljárás tárgyát képezik,
+- 25. céltársaság: magyarországi székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaság, amelynek részvényei a nyilvános vételi ajánlati eljárás tárgyát képezik,
 - 26. csereügylet: az Szmt. szerinti swap ügylet,
 - 27. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
 - 28. deltatényező: az opció alapjául szolgáló pénzügyi eszköz, áru vagy deviza árfolyamának (árának) egy pénzegységnyi változása hatására az opció értékében bekövetkező változást jelző mutatószám,
@@ -89,8 +89,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 33. egyedi kockázat: az értékpapír vagy származtatott ügylet esetén az ügylet alapját képező értékpapír egyedi jellemzőihez kapcsolható árfolyamváltozás kockázata,
 - 34. ellenőrző befolyás: a Hpt.-ben ilyenként meghatározott fogalom,
 - 35. ellenőrzött társaság: a Gt.-ben ilyenként meghatározott fogalom,
-- 36. elszámolási rendszer: pénz- és értékpapír-átutalások egységes rend és közös szabályok szerinti feldolgozására, pozícióvezetésre vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
-- 37. elszámolóház: a tőzsdén és tőzsdén kívül megkötött pénz- és tőkepiaci ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat teljesítő szakosított hitelintézet,
+- 36. elszámolási rendszer: a tőzsdén, vagy a tőzsdén kívül megkötött pénz- és tőkepiaci ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
+- 37. elszámolóház: a tőzsdén, a tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügyletek elszámolásával és teljesítésével kapcsolatos szolgáltatásokat végző szakosított hitelintézet,
 - 38. EU-szintű befektetési vállalkozás anyavállalat: olyan tagállami befektetési vállalkozás anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
 - 39. EU-szintű pénzügyi holding társaság anyavállalat: olyan tagállami pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
 - 39a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: olyan tagállami vegyes pénzügyi holding társaság anyavállalat, amelyben az Európai Unió tagállamában székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással nem rendelkezik,
@@ -108,7 +108,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 51. forgalmazó: az értékpapír forgalomba hozatalában közreműködő befektetési vállalkozás, hitelintézet,
 - 52. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik,
 - 53. független pénzügyi szakértő: olyan könyvvizsgáló, befektetési tanácsadási tevékenység végzésére jogosult személy vagy forgalmazó, aki a vételi ajánlat közzétételének időpontját megelőző három éven belül nem állt megbízásos jogviszonyban sem az ajánlattevővel, sem a vételi ajánlattal érintett részvénytársasággal, sem az ebben, illetve az ajánlattevőben befolyással rendelkező személlyel,
-- 54. garanciaalap: tőkepiaci ügyletek elszámolásának a biztosítékaként az elszámolóház által kezelt olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
+- 54. garanciaalap: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, a földgázellátásról szóló 2008. évi XL. törvényben meghatározott egyensúlyozó platformon (a továbbiakban: egyensúlyozó platform) árura, illetve pénzügyi eszközre kötött ügyletek elszámolásának a biztosítékaként az elszámolóház, illetve a központi szerződő fél által kezelt olyan pénz-, illetve értékpapíralap, amely a teljesítéshez óvadékul szolgál,
 - 55. harmadik ország: az az ország, amely nem tagja az Európai Uniónak,
 - 56. hátralévő átlagos futamidő: fix kamatozású kötvények esetén az egyes kifizetésekig hátralévő időtartamnak a – kifizetések lejáratig számított hozammal diszkontált jelenértékének a kötvény árfolyamához viszonyított arányával – súlyozott átlaga. Változó kamatozású kötvények esetén az átlagos hátralévő futamidő a következő kamatmegállapításig hátralévő időtartammal egyenlő (duration),
 - 57. hitelviszonyt megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó (az adós) meghatározott pénzösszegnek a rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint kamatozó értékpapír esetén annak meghatározott módon számított kamatát vagy egyéb hozamát (a továbbiakban együtt: kamat), illetőleg az általa vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti,
@@ -129,7 +129,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - a) az összes foglalkoztatotti létszáma kettőszázötven főnél kevesebb,
   - b) mérlegfőösszege nem haladja meg a negyvenhárommillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
   - c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg fordulónapján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeget,
-- 70. klíring: a fizetési megbízásokra, pénz- és tőkepiaci ügyletek elszámolására – ide nem értve a Hpt. szerinti elszámolásforgalmi ügyletet –, átutalásokra (transzferekre) vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a tényleges teljesítést megelőzően (bruttó vagy nettó elven),
+- 70. elszámolás: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletek elszámolására vonatkozó megbízások feldolgozásának, egyeztetésének és megerősítésének a folyamata, a teljesítés alapjául szolgáló végső elszámolandó pozíció kialakítása a teljesítést megelőzően (bruttó vagy nettó elven), valamint annak biztosítása, hogy megfelelő eszközök álljanak rendelkezésre a teljesítéshez,
 - 71. kockázati tőkealap: kockázati tőkealap-jegy zártkörű forgalomba hozatalával létrehozott és működtetett, jogi személyiséggel rendelkező vagyontömeg, amelyet a kockázati tőkealap-kezelő a befektetők általános megbízása alapján, azok érdekében kezel,
 - 72. kockázati tőkealap-kezelő: kockázati tőkealap-kezelési tevékenységre engedéllyel rendelkező részvénytársaság, illetve fióktelep,
 - 73. kockázati tőkealap-kezelési tevékenység: a kockázati tőkealap-kezelő által a meghirdetett befektetési elveknek megfelelő kockázati tőkealap kialakítása és a kockázati tőkealap vagyonának a kockázati tőkealap-kezelő döntése alapján a kockázati tőkealap alapkezelési szabályzatában meghirdetett befektetési elveknek megfelelő kezelése, befektetése,
@@ -141,8 +141,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 79. központi értékpapír-nyilvántartás: a központi értéktár által vezetett, a belföldön kibocsátott értékpapírok adatait visszakereshető módon tartalmazó nyilvántartás,
 - 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
 - 81. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer,
-- 82. központi szerződő fél: tőzsdei, tőzsdén kívüli tőkepiaci ügylet és törvényben meghatározott szervezett piacon kötött ügylet teljesítéséhez kapcsolódó kötelezettségvállalás végzésére jogosult gazdasági társaság,
-- 83. központi szerződő fél tevékenység: az elszámolóház, illetve a központi szerződő fél által a tőzsdeügylet és a tőzsdén kívüli tőkepiaci ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás,
+- 82. központi szerződő fél: a központi szerződő fél tevékenység végzésére jogosító engedéllyel rendelkező gazdasági társaság,
+- 83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 - 84. közvetett tulajdon, illetve közvetett befolyás: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (köztes vállalkozás) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlása. A közvetett tulajdon, a közvetett befolyás arányának megállapításához a közvetett tulajdonnal, közvetett befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 - 85. közvetlen befektetési ajánlás: olyan befektetési ajánlás, amely pénzügyi eszköz vagy tőzsdei termék vételére, eladására, tartására vagy ezekkel egyenértékű befektetői döntésre tesz kifejezett javaslatot,
 - 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
@@ -153,7 +153,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
 - 92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
 - 93.
-- 94. nyilvános ajánlattétel, nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
+- 94. nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 - 95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
 - 96. nyilvános vételi ajánlat (vételi ajánlat): olyan, a céltársaság részvényeseihez szóló, a céltársaság részvényei vagy azok egy részének megszerzésére tett (nem a céltársaságtól származó) nyilvános felhívás, amelynek célja vagy eredménye a céltársaságban való befolyásszerzés, illetőleg a meglévő befolyás mértékének a növelése,
 - 97. nyilvántartott: a Hpt.-ben meghatározott fogalom,
@@ -166,7 +166,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 104. pénzügyi holding társaság: a Hpt.-ben meghatározott fogalom,
 - 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 - 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
-- 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló pénzügyi ügyletből eredő tartozásoknak és követeléseknek az adott pénzügyi termék piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+- 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 - 108. referenciaadat: a Hpt.-ben meghatározott fogalom,
 - 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 - 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
@@ -185,7 +185,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 118. szoros kapcsolat: a Hpt.-ben meghatározott fogalom,
 - 118a. tagállami vegyes pénzügyi holding társaság anyavállalat: olyan vegyes pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
 - 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
-- 120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei egymással szemben – valamint a központi szerződő fél kötelezettségvállalása mellett – kötött ügylet esetében a központi szerződő fél tevékenységet végző szervezet ügyfelei és a központi szerződő fél tevékenységet végző szervezet között – fennálló pénzben meghatározott követeléseinek (pozícióinak) kiegyenlítése (átutalása), illetőleg az ügyfelek egymással szemben nem pénzben fennálló követeléseinek teljesítése (szállítása),
+- 120. teljesítés: az elszámolóházi tevékenységet végző szervezet ügyfelei, a központi értéktár ügyfelei, valamint a központi szerződő fél ügyfelei között, valamint a központi szerződő fél kötelezettségvállalása mellett kötött ügylet esetében a központi szerződő fél ügyfelei és a központi szerződő fél között fennálló pénzben, illetve nem pénzben meghatározott követelések (pozíciók) kiegyenlítése,
 - 121. termékcsoport: olyan termékek köre, amelyekkel a tőzsdén annak szabályzata alapján azonos feltételek mellett lehet kereskedni,
 - 122. tőzsde: a hatékony tőkeáramlás, tőkeértékelés, az árfolyam és egyéb kockázat megosztása érdekében a tőzsdei termékek keresletét és kínálatát koncentráló, azok kereskedését lebonyolító, a nyilvános árfolyam-alakulást elősegítő vállalkozás,
 - 123. tőzsdei adat: a tőzsdei kereskedés során a tőzsdére bevezetett tőzsdei termékek vonatkozásában a tőzsdei kereskedők által tett, és a kereskedési rendszer által sorbarendezett ajánlatok, továbbá a létrejött tőzsdei ügyletek ár-, illetve árfolyam-információi, valamint a tőzsde által számított és közzétett indexértékek,
@@ -326,9 +326,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4)
 
-15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdésének f) vagy g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
+15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdés f) vagy g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
 
-- a) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírt hoz forgalomba, illetve az állampapír kibocsátója saját maga végzi a forgalomba hozatalt;
+- a) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírt hoz forgalomba;
 - b) a külföldi hitelintézet, illetve a külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba;
 - c) a befektetési alapkezelő az általa kezelt befektetési alap befektetési jegyét hozza forgalomba.
 
@@ -348,30 +348,37 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 20. § (1) Ha az értékpapír forgalomba hozatala a zártkörű forgalomba hozatal feltételeinek nem felel meg, a nyilvános forgalomba hozatal szabályait kell alkalmazni.
 
-(2) A zártkörűen forgalomba hozott értékpapír nyilvános értékesítésre történő felajánlására, illetőleg szabályozott piacra történő bevezetésére az értékpapírok nyilvános forgalomba hozatalára vonatkozó szabályokat kell alkalmazni.
+(2) Ha e törvény másként nem rendelkezik, a zártkörűen forgalomba hozott értékpapír nyilvános értékesítésre történő felajánlására, illetve szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrációjára az értékpapírok nyilvános forgalomba hozatalára vonatkozó szabályokat kell alkalmazni.
 
-(3) Zártkörűen működő részvénytársaság részvényének nyilvános értékesítésre történő felajánlásához, illetőleg szabályozott piacra történő bevezetéséhez a létesítő okirat módosításáról szóló közgyűlési határozat szükséges.
+(3) Zártkörűen működő részvénytársaság részvényének nyilvános értékesítésre történő felajánlásához, illetve szabályozott piacra történő bevezetéséhez, vagy multilaterális kereskedési rendszerbe történő regisztrációjához a létesítő okirat módosításáról szóló közgyűlési határozat szükséges.
 
-(4) A zártkörűen forgalomba hozott értékpapír a nyilvános értékesítésre történő felajánlását, illetőleg a szabályozott piacra történő bevezetését követően nyilvánosan forgalomba hozott értékpapírnak minősül.
+(4) A zártkörűen forgalomba hozott értékpapír a nyilvános értékesítésre történő felajánlását, illetve a szabályozott piacra történő bevezetését vagy multilaterális kereskedési rendszerbe történő regisztrációját követően nyilvánosan forgalomba hozott értékpapírnak minősül.
 
 (5) A külföldön forgalomba hozott értékpapír belföldi nyilvános értékesítésre történő felajánlására, illetőleg szabályozott piacra történő bevezetésére az értékpapírok nyilvános forgalomba hozatalára vonatkozó rendelkezéseket kell alkalmazni, amely ezt követően nyilvánosan forgalomba hozott értékpapírnak minősül.
 
-21. § (1) Ha e törvény másként nem rendelkezik, értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése esetén a kibocsátó, az ajánlattevő, illetőleg az értékpapír szabályozott piacra történő bevezetését kezdeményező személy kibocsátási tájékoztatót (a továbbiakban: tájékoztató) és a Bizottság 809/2004/EK rendeletének 31. cikkében meghatározott hirdetményt (a továbbiakban: hirdetmény) köteles közzétenni.
+21. § (1) Ha e törvény másként nem rendelkezik, értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése vagy multilaterális kereskedési rendszerbe történő regisztrációja esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy kibocsátási tájékoztatót (a továbbiakban: tájékoztató) és a Bizottság 809/2004/EK rendeletének 31. cikkében meghatározott hirdetményt (a továbbiakban: hirdetmény) köteles közzétenni.
 
 (2) Nem kell tájékoztatót és hirdetményt közzétenni:
 
 - a) tizenkét hónapnál rövidebb eredeti lejáratú pénzpiaci eszköz forgalomba hozatala esetén;
 - b) nyílt végű befektetési alapra kibocsátott befektetési jegy forgalomba hozatala esetén;
 - c) értékpapír szabályozott piacra történő bevezetése esetén, ha
-  - ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg a ötmillió eurót vagy az annak megfelelő összeget, és
+  - ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg uniós szinten az ötmillió eurót vagy az annak megfelelő összeget, és
   - cb) az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
-- d) a 22. §-ban meghatározott esetben.
+- d) értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha
+  - da) a regisztrálandó értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg az ötmillió eurót vagy annak megfelelő összeget, vagy
+  - db) a regisztrálandó értékpapír-sorozat szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be van vezetve;
+- e) a 22. §-ban meghatározott esetben.
 
 (3) A kibocsátó a (2) bekezdésben meghatározott esetekben a forgalomba hozatali eljárás lezárását követő 15 napon belül bejelenti a forgalomba hozatalt a Felügyeletnek. A Felügyelet ellenőrizheti, hogy a forgalomba hozatal a (2) bekezdésben foglaltaknak megfelelt-e.
 
 (4) Nem kell hirdetményt közzétenni, ha a nyilvános forgalomba hozatalra az Európai Unió másik tagállamának hatáskörrel rendelkező felügyeleti hatósága által engedélyezett tájékoztató vagy alaptájékoztató alapján kerül sor, és a tagállamban hirdetmény közzétételét nem követelik meg.
 
-22. § (1) Nem kell tájékoztatót és hirdetményt közzétenni olyan nyilvános ajánlattétel esetén, amikor
+(5) A kibocsátó, az ajánlattevő, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy – ha az értékpapírt szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére nem vezették be – a regisztrációhoz tájékoztatót és hirdetményt köteles közzétenni akkor is, ha a multilaterális kereskedési rendszerbe regisztrált és regisztrálandó ugyanazon sorozatba tartozó értékpapír kibocsátási összértéke eléri vagy meghaladja az ötmillió eurót vagy az annak megfelelő összeget, és korábban a Felügyelet által engedélyezett tájékoztató és hirdetmény nem került közzétételre.
+
+(6) A (2) bekezdés d) pont da) alpontjában meghatározott esetben a kibocsátó, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kérő személy az értékpapír-sorozat regisztrációjának feltételeként a piacműködtető által meghatározott tartalmú és általa jóváhagyott információs dokumentumot készít és a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven tesz közzé.
+
+22. § (1) Nem kell tájékoztatót és hirdetményt közzétenni olyan nyilvános értékesítésre történő felajánlás esetén, amikor
 
 - a) a kibocsátó korábban már forgalomba hozott részvényekkel azonos fajtájú, illetve azonos osztályba tartozó, azokat helyettesítő részvényeket bocsát ki, és az ilyen új részvények forgalomba hozatala nem jelenti a kibocsátott alaptőke növelését;
 - b) az értékpapírt részvénytársaságban történő, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel és az értékpapírra vonatkozóan fennállnak a (2) bekezdésben meghatározott feltételek;
@@ -404,11 +411,13 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 23. § (1) Értékpapír nyilvános forgalomba hozatalának előkészítésével és lebonyolításával a kibocsátó, illetve az ajánlattevő befektetési szolgáltatót köteles megbízni, kivéve, ha
 
-- a) a nyilvános forgalomba hozatal szabályozott piacra történő bevezetéssel történik;
+- a) e törvény a nyilvános forgalomba hozatal szabályait kizárólag szabályozott piacra történő bevezetés esetére rendeli alkalmazni;
 - b) az állampapírt a kibocsátó saját maga hozza forgalomba;
 - c) a befektetési alapkezelő az általa kezelt befektetési alap befektetési jegyét hozza forgalomba;
-- d) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírját hozza forgalomba, vagy
-- e) külföldi hitelintézet, illetve külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba.
+- d) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírját hozza forgalomba;
+- e) külföldi hitelintézet, illetve külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba;
+- f) e törvény a nyilvános forgalomba hozatal szabályait kizárólag multilaterális kereskedési rendszerbe történő regisztráció esetére rendeli alkalmazni, és az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanazon multilaterális kereskedési rendszerbe már korábban regisztrálták, vagy
+- g) e törvény a nyilvános forgalomba hozatal szabályait kizárólag multilaterális kereskedési rendszerbe történő regisztráció esetére rendeli alkalmazni, és a regisztrálandó értékpapír-sorozat szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be van vezetve.
 
 (2) Hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatala kibocsátási program keretében is történhet. A kibocsátási program keretében különböző fajtájú hitelviszonyt megtestesítő értékpapírok is forgalomba hozhatók, illetőleg különböző forgalomba hozatali módok is alkalmazhatók.
 
@@ -426,9 +435,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) A másodlagos értékpapír forgalomba hozatalának időpontjától annak bevonásáig az elsődleges értékpapír által jog nem gyakorolható.
 
-25. § (1) Semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha – a 21. §-ban foglalt kivétellel – az értékpapírt a Felügyelet által engedélyezett tájékoztató és hirdetmény hiányában, illetőleg – a 23. § (1) bekezdésében meghatározott eset kivételével – befektetési szolgáltató igénybevétele nélkül hozták nyilvánosan forgalomba. Ugyancsak semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha zártkörűen működő részvénytársaság részvényét a működési forma megváltoztatására vonatkozó közgyűlési határozat nélkül ajánlották fel nyilvános értékesítésre, illetve kezdeményezték annak szabályozott piacra történő bevezetését.
+25. § (1) Semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha – a 21. §-ban foglalt kivétellel – az értékpapírt a Felügyelet által engedélyezett tájékoztató és hirdetmény hiányában, illetve – a 23. § (1) bekezdésében meghatározott eset kivételével – befektetési szolgáltató igénybevétele nélkül hozták nyilvánosan forgalomba. Ugyancsak semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha zártkörűen működő részvénytársaság részvényét a működési forma megváltoztatására vonatkozó közgyűlési határozat nélkül ajánlották fel nyilvános értékesítésre, illetve kezdeményezték annak szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját.
 
-(2) Az (1) bekezdésben említett esetben a befektetőknek okozott kárért a kibocsátó, az ajánlattevő, illetőleg az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen felel.
+(2) Az (1) bekezdésben említett esetben a befektetőknek okozott kárért a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó egyetemlegesen felel.
 
 26. § (1) A tájékoztatónak tartalmaznia kell minden, a kibocsátó, illetőleg az értékpapírban foglalt kötelezettség teljesítésére kezességet (garanciát) vállaló személy piaci, gazdasági, pénzügyi, jogi helyzetének és annak várható alakulásának, valamint az értékpapírhoz kapcsolódó jogoknak a befektető részéről történő megalapozott megítéléséhez szükséges adatot.
 
@@ -438,7 +447,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) A tájékoztató a regisztrációs okmányból, az értékpapírjegyzékből és az összefoglalóból áll. A tájékoztató egyetlen összevont dokumentumként is elkészíthető (összevont tájékoztató).
 
-(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra és a tájékoztatót nem magyar nyelven készítették el.
+(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése, illetve multilaterális kereskedési rendszerbe történő regisztrációja céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra, illetve regisztrálni kívánják multilaterális kereskedési rendszerbe, és a tájékoztatót nem magyar nyelven készítették el.
 
 27. § (1) Az összefoglalóban röviden, közérthetően, a tájékoztató eredeti nyelvén, olyan formában és tartalommal kell ismertetni az értékpapír lényeges jellemzőit és fő kockázatait, hogy az a befektetők értékpapírra vonatkozó befektetési döntésének meghozatalát elősegítse. Az összefoglalót az értékpapírok jellemzőinek összehasonlíthatóságát biztosító, az (1a) bekezdés szerinti kiemelt információt is tartalmazó formátumban kell elkészíteni. Az összefoglalóban fel kell hívni a figyelmet arra, hogy
 
@@ -451,8 +460,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 - a) a kibocsátóra, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személyre vonatkozó alapvető adatokat, kockázatainak, pénzügyi helyzetének megítéléséhez szükséges adatokat,
 - b) az értékpapírral kapcsolatos kockázatok, valamint az értékpapír által megtestesített jogok befektető általi megismeréséhez szükséges információkat,
-- c) a nyilvános ajánlattétel általános feltételeit, ideértve a kibocsátó vagy az ajánlattevő által felszámított, a befektetőt terhelő díjakat, költségeket,
-- d) a forgalomba hozatal, illetve a szabályozott piacra történő bevezetés részleteit,
+- c) a nyilvános értékesítésre történő felajánlás általános feltételeit, ideértve a kibocsátó vagy az ajánlattevő által felszámított, a befektetőt terhelő díjakat, költségeket,
+- d) a forgalomba hozatal, illetve a szabályozott piacra történő bevezetés, valamint a multilaterális kereskedési rendszerbe történő regisztráció részleteit,
 - e) a forgalomba hozatal céljának és a forgalomba hozataltól várható haszon felhasználásának ismertetését.
 
 (2) Ha a felajánlott értékpapír mennyisége, illetőleg végleges ajánlati ára a tájékoztatóban nem jeleníthető meg, akkor
@@ -480,7 +489,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (2) Az összefoglaló nem tartalmazhat hivatkozást.
 
-29. § (1) Az értékpapír tulajdonosának a tájékoztató félrevezető tartalmával és az információ elhallgatásával okozott kár megtérítéséért a kibocsátó, a forgalmazó (forgalmazási konzorcium esetében a vezető forgalmazó), az értékpapírban foglalt jogokért kezességet (garanciát) vállaló személy, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy felel. A tájékoztatóban pontosan, egyértelműen azonosítható módon meg kell jelölni annak a személynek a nevét/megnevezését, a forgalomba hozatalban betöltött szerepét, valamint lakcímét/székhelyét, aki/amely a tájékoztató vagy annak valamely részének tartalmáért felel. A tájékoztatóban foglalt minden információra, illetőleg az információ hiányára is ki kell terjednie valamely személy felelősségvállalásának.
+29. § (1) Az értékpapír tulajdonosának a tájékoztató félrevezető tartalmával és az információ elhallgatásával okozott kár megtérítéséért a kibocsátó, a forgalmazó (forgalmazási konzorcium esetében a vezető forgalmazó), az értékpapírban foglalt jogokért kezességet (garanciát) vállaló személy, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy felel. A tájékoztatóban pontosan, egyértelműen azonosítható módon meg kell jelölni annak a személynek a nevét vagy megnevezését, a forgalomba hozatalban betöltött szerepét, valamint lakcímét vagy székhelyét, aki vagy amely a tájékoztató vagy annak valamely része tartalmáért felel. A tájékoztatóban foglalt minden információra, illetve az információ hiányára is ki kell terjednie valamely személy felelősségvállalásának.
 
 (2) A tájékoztatót az (1) bekezdés szerint felelős valamennyi személy köteles külön aláírt felelősségvállaló nyilatkozattal ellátni. A nyilatkozatnak tartalmaznia kell azt, hogy a tájékoztató a valóságnak megfelelő adatokat és állításokat tartalmazza, illetve nem hallgat el olyan tényeket és információkat, amelyek az értékpapír, valamint a kibocsátó és az értékpapírban foglalt kötelezettségért kezességet (garanciát) vállaló személy helyzetének megítélése szempontjából jelentőséggel bírnak.
 
@@ -491,7 +500,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 30. § A 29. § (1) bekezdésében meghatározott személyt a tájékoztató, illetőleg a hirdetmény közzétételétől számított öt évig terheli a 29. §-ban meghatározott felelősség. E felelősség érvényesen nem zárható ki és nem korlátozható.
 
-31. § (1) A tájékoztató a közzététel Felügyelet általi engedélyezését követő tizenkét hónapig érvényes. Az értékpapírt – a 32. §-ban foglaltak figyelembevételével – legkésőbb a tájékoztató érvényességének időszaka alatt lehet nyilvánosan forgalomba hozni vagy szabályozott piacra bevezetni. A tájékoztató érvényességének időszaka alatt az értékpapír forgalmazásához nem szükséges újabb tájékoztató készítése, feltéve, hogy a tájékoztató kiegészítésére a 32. §-ban foglaltak szerint sor kerül, és a tájékoztató használatához a tájékoztatót készítő személy írásban hozzájárult.
+31. § (1) A tájékoztató a közzététel Felügyelet általi engedélyezését követő tizenkét hónapig érvényes. Az értékpapírt – a 32. §-ban foglaltak figyelembevételével – legkésőbb a tájékoztató érvényességének időszaka alatt lehet nyilvánosan forgalomba hozni vagy szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni. A tájékoztató érvényességének időszaka alatt az értékpapír forgalmazásához nem szükséges újabb tájékoztató készítése, feltéve, hogy a tájékoztató kiegészítésére a 32. §-ban foglaltak szerint sor kerül, és a tájékoztató használatához a tájékoztatót készítő személy írásban hozzájárult.
 
 (2) Kibocsátási programra vonatkozóan közzétett alaptájékoztató tizenkét hónapig hatályos. Jelzáloglevél adagolt kibocsátás keretében történő forgalomba hozatala, illetőleg tizenkét hónapon belül legalább két alkalommal történő forgalomba hozatala esetén az alaptájékoztató az összes forgalomba hozatali eljárás lezárásáig hatályos, azzal, hogy az utolsó forgalomba hozatali eljárást tizenkét hónapon belül meg kell kezdeni.
 
@@ -499,9 +508,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) Ha a kibocsátó rendelkezik tizenkét hónapnál nem régebben jóváhagyott regisztrációs okmánnyal, értékpapír nyilvános forgalomba hozatala esetén elegendő az értékpapírjegyzéket és az összefoglalót közzétennie. Ebben az esetben az értékpapírjegyzéknek tartalmaznia kell a kibocsátóra vonatkozó, a regisztrációs okmány engedélyezése óta bekövetkezett lényeges változásokat, amelyek befolyásolják a kibocsátó megítélését, kivéve, ha a tájékoztató kiegészítésére a 32. §-ban foglaltak szerint sor került. A külön eljárás keretében engedélyezett értékpapírjegyzék és összefoglaló a regisztrációs okmánnyal együtt érvényes tájékoztatónak minősül.
 
-32. § (1) Ha a közzététel engedélyezése és forgalomba hozatali eljárás lezárása, illetőleg az értékpapírral történő kereskedésnek a szabályozott piacon való megkezdése között olyan lényeges tény vagy körülmény jut a Felügyelet tudomására, ami a tájékoztató, illetőleg az alaptájékoztató kiegészítését teszi szükségessé, a Felügyelet a kibocsátó és a forgalmazó meghallgatása után elrendeli a tájékoztató, illetőleg az alaptájékoztató kiegészítését.
+32. § (1) Ha a közzététel engedélyezése és forgalomba hozatali eljárás lezárása, illetve az értékpapírral történő kereskedésnek a szabályozott piacon, illetve multilaterális kereskedési rendszerben való megkezdése között olyan lényeges tény vagy körülmény jut a Felügyelet tudomására, ami a tájékoztató, illetve az alaptájékoztató kiegészítését teszi szükségessé, a Felügyelet a kibocsátó és a forgalmazó meghallgatása után elrendeli a tájékoztató, illetve az alaptájékoztató kiegészítését.
 
-(2) A kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó köteles haladéktalanul a tájékoztató, illetőleg az alaptájékoztató kiegészítését kezdeményezni, ha az engedély kiadása és a forgalomba hozatali eljárás lezárásának határideje, illetőleg a szabályozott piacon való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a tudomására, amely a tájékoztató, illetőleg az alaptájékoztató kiegészítését indokolttá teszi.
+(2) A kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó köteles haladéktalanul a tájékoztató, illetve az alaptájékoztató kiegészítését kezdeményezni, ha az engedély kiadása és a forgalomba hozatali eljárás lezárásának határideje, illetve a szabályozott piacon, illetve multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a tudomására, amely a tájékoztató, illetve az alaptájékoztató kiegészítését indokolttá teszi.
 
 (3) A tájékoztató, illetve az alaptájékoztató kiegészítésének közzétételéhez a Felügyelet engedélye szükséges. A kiegészítés közzétételének engedélyezésére a tájékoztató közzététele engedélyezésének szabályait kell alkalmazni azzal, hogy az engedélykérelmet a Felügyelet hét munkanapon belül bírálja el.
 
@@ -509,34 +518,34 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (5) Az (1) és (2) bekezdésben meghatározott esetekben a kiegészítés közzétételéig a Felügyelet a forgalomba hozatali eljárást felfüggesztheti.
 
-33. § (1) Ha a tájékoztatót az értékpapír forgalomba hozatalára irányuló eljárás időtartama alatt vagy a szabályozott piacra történő bevezetés előtt kiegészítették, az a befektető, aki a kiegészítés közzététele előtt az értékpapírt lejegyezte vagy megvételére megállapodást kötött, jogosult a jegyzési nyilatkozat visszavonására, a megállapodástól való elállásra. A befektető az elállás jogát a kiegészítés közzétételét követő két munkanapon belül gyakorolhatja. Az elállás jogának gyakorlására nyitva álló határidőt a kibocsátó vagy az ajánlattevő meghosszabbíthatja, az elállási jog gyakorlására nyitva álló határidőt azonban a kiegészítésnek tartalmaznia kell. A befektető elállása esetén a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy az értékpapírvétellel kapcsolatos költségét és kárát megtéríteni. A kiegészítés közzétételét követő két munkanapos időtartam alatt az allokáció nem folytatható le.
+33. § (1) Ha a tájékoztatót az értékpapír forgalomba hozatalára irányuló eljárás időtartama alatt vagy a szabályozott piacon, illetve multilaterális kereskedési rendszerben történő kereskedés megkezdése előtt kiegészítették, az a befektető, aki a kiegészítés közzététele előtt az értékpapírt lejegyezte vagy megvételére megállapodást kötött, jogosult a jegyzési nyilatkozat visszavonására, a megállapodástól való elállásra. A befektető az elállási jogát a kiegészítés közzétételét követő két munkanapon belül gyakorolhatja. Az elállás jogának gyakorlására nyitva álló határidőt a kibocsátó vagy az ajánlattevő meghosszabbíthatja, az elállási jog gyakorlására nyitva álló határidőt azonban a kiegészítésnek tartalmaznia kell. A befektető elállása esetén a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését, multilaterális kereskedési rendszerbe történő regisztrálását kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy az értékpapírvétellel kapcsolatos költségét és kárát megtéríteni. A kiegészítés közzétételét követő két munkanapos időtartam alatt az allokáció nem folytatható le.
 
 (2) Ha jogszabály vagy a kibocsátó, illetőleg az ajánlattevő a forgalomba hozatali eljárás eredményességének feltételéül a forgalomba hozandó értékpapír legkisebb mennyiségét megjelölte és a megjelölt mennyiségre a forgalomba hozatali eljárás zárónapjáig nem történik kötelezettségvállalás, a kibocsátó, az ajánlattevő vagy a forgalmazó a forgalomba hozatali eljárás zárónapját követő hét napon belül köteles a már befizetett teljes összeget a tájékoztatóban meghirdetett módon – kamatfizetési kötelezettség nélkül – visszafizetni.
 
-(3) Ha a Felügyelet a tájékoztató közzétételéhez adott engedélyt visszavonta, a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó a jegyzéskor vagy vásárláskor befizetett összeget az engedély visszavonásától számított tizenöt napon belül köteles visszafizetni. A kibocsátó vagy az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy a vásárlással kapcsolatos költségét és kárát megtéríteni.
+(3) Ha a Felügyelet a tájékoztató közzétételéhez adott engedélyt visszavonta, a kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését, multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy vagy a forgalmazó a jegyzéskor vagy vásárláskor befizetett összeget az engedély visszavonásától számított tizenöt napon belül köteles visszafizetni. A kibocsátó vagy az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó egyetemlegesen köteles a befektetőnek a jegyzéssel vagy a vásárlással kapcsolatos költségét és kárát megtéríteni.
 
-34. § (1) A Felügyelet általi jóváhagyását követően a tájékoztatót közzé kell tenni legkésőbb a forgalomba hozatali eljárás kezdő időpontját, illetőleg a szabályozott piacon történő kereskedés megkezdését megelőzően, legalább a (3) bekezdésben megjelölt helyen.
+34. § (1) A Felügyelet általi jóváhagyását követően a tájékoztatót közzé kell tenni legkésőbb a forgalomba hozatali eljárás kezdő időpontját, illetve a szabályozott piacon, illetve multilaterális kereskedési rendszerben történő kereskedés megkezdését megelőzően, legalább a (3) bekezdésben megjelölt helyen.
 
 (2) Ha egy részvénysorozatot kibocsátásakor hoznak nyilvánosan forgalomba és a forgalomba hozatali eljárás időtartama kevesebb, mint hat munkanap, a tájékoztatót legalább hat munkanappal a forgalomba hozatali eljárás lezárását megelőzően kell közzé tenni.
 
 (3) A tájékoztató teljes szövegét az (1)–(2) bekezdésben meghatározott időpontban
 
-- a) közzé kell tenni a kibocsátó és – ha van – a forgalmazó, valamint a Felügyelet honlapján, ha a Felügyelet nyújt ilyen szolgáltatást,
-- b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
-- c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés l)–s) pontjaiban meghatározott – a tájékoztató tartalmával megegyező – adatokat.
+- a) közzé kell tenni a (4) bekezdésben meghatározott helyen, vagy
+- b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac, illetve multilaterális kereskedési rendszer kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
+- c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés k)–r) pontjában meghatározott – a tájékoztató tartalmával megegyező – adatokat.
 
-(4) A (3) bekezdésen kívüli esetekben a közzététel helye:
+(4) A közzététel helye:
 
 - a) legalább egy országos terjesztésű napilap,
 - b) a kibocsátó és – ha van – a forgalmazó honlapja,
-- c) annak a szabályozott piacnak a honlapja, amelyen az értékpapírral kereskednek vagy
+- c) annak a szabályozott piacnak, illetve multilaterális kereskedési rendszernek a honlapja, amelyen az értékpapírral kereskednek, vagy
 - d) a Felügyelet honlapja, ha a Felügyelet nyújt ilyen szolgáltatást az e törvény szerinti közzétételi kötelezettség teljesítése céljából.
 
 (5)
 
-(6) A (4) bekezdés a) pontja szerinti közzététel esetén a tájékoztatót minden olyan tagállamban, ahol az értékpapírt nyilvánosan forgalomba hozzák, vagy szabályozott piacra be kívánják vezetni, legalább egy, széles körben terjesztett napilapban meg kell jelentetni.
+(6) A (4) bekezdés a) pontja szerinti közzététel esetén a tájékoztatót minden olyan tagállamban, ahol az értékpapírt nyilvánosan forgalomba hozzák, vagy szabályozott piacra be kívánják vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánják, legalább egy, széles körben terjesztett napilapban meg kell jelentetni.
 
-(7) Ha a tájékoztatót elektronikus úton teszik közzé, a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó a befektető kérésére köteles azt nyomtatott formában ingyenesen rendelkezésére bocsátani.
+(7) Ha a tájékoztatót elektronikus úton teszik közzé, a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerben történő regisztrációját kezdeményező személy vagy a forgalmazó a befektető kérésére köteles azt nyomtatott formában ingyenesen rendelkezésére bocsátani.
 
 (8) Az elektronikus úton történő közzététel esetében biztosítani kell, hogy a tájékoztató mindaddig könnyen hozzáférhető legyen, amíg az értékpapír forgalomban van.
 
@@ -546,9 +555,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (11) A Felügyelet – a hozzá bejelentett adatok alapján – a honlapján közzéteszi, hogy a közzétételre kötelezettek hol tesznek eleget közzétételi kötelezettségüknek.
 
-35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalmazásban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetőleg az értékpapír szabályozott piacra történő bevezetését kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót és a hirdetményt – kereskedelmi kommunikáció.
+35. § (1) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden, a befektetők tájékoztatását szolgáló, a kibocsátó, az ajánlattevő, a forgalmazásban forgalmazóként vagy jegyzési garanciavállalás formájában részt vevő befektetési vállalkozás vagy hitelintézet, illetve az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy által reklámban vagy egyéb módon közölt információ – ide nem értve a tájékoztatót, az alaptájékoztatót, a hirdetményt és a 21. § (6) bekezdés szerinti információs dokumentumot – kereskedelmi kommunikáció.
 
-(2) A kereskedelmi kommunikációban foglalt információnak összhangban kell lennie a tájékoztató tartalmával.
+(2) A kereskedelmi kommunikációban foglalt információnak összhangban kell lennie a tájékoztató és a 21. § (6) bekezdés szerinti információs dokumentum tartalmával.
 
 (3) Az értékpapír nyilvános forgalomba hozatalával összefüggésbe hozható minden reklámnak egyértelmű utalást kell tartalmaznia e jellegére vonatkozóan.
 
@@ -567,14 +576,15 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - a) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amelynek névértéke legalább ezer euró, illetőleg a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán átszámítva ennek megfelelő összeg, vagy
 - b) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amely átváltás útján, vagy az általa megtestesített jog gyakorlásával jogot ad valamely más értékpapír vagy pénz megszerzésére, feltéve, hogy a kibocsátó nem azonos a megszerezhető másik értékpapír kibocsátójával és nem tartozik vele azonos csoportba.
 
-(4) A (3) bekezdésben meghatározott esetben a kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést kezdeményező személy abban a tagállamban kezdeményezheti a tájékoztató vagy alaptájékoztató közzétételének engedélyezését, amelyben az értékpapírt nyilvánosan vételre fel akarja ajánlani, vagy amelyben az értékpapírt szabályozott piacra be kívánja vezetni.
+(4) A (3) bekezdésben meghatározott esetben a kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést, illetve multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy abban a tagállamban kezdeményezheti a tájékoztató vagy alaptájékoztató közzétételének engedélyezését, amelyben az értékpapírt nyilvánosan vételre fel akarja ajánlani, vagy amelyben az értékpapírt szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja.
 
-37. § (1) Harmadik országban székhellyel rendelkező kibocsátó által benyújtott engedélykérelem alapján a Felügyelet engedélyezheti a tájékoztató közzétételét, ha a kibocsátó az értékpapírt Magyarországon kívánja nyilvánosan forgalomba hozni, illetőleg szabályozott piacra bevezetni és a tájékoztató
+37. § (1) Harmadik országban székhellyel rendelkező kibocsátó által benyújtott engedélykérelem alapján a Felügyelet engedélyezheti a tájékoztató közzétételét, ha
 
-- a) megfelel az Európai Unió szabályainak, vagy
-- b) megfelel a nemzetközi szabványoknak, így különösen az IOSCO közzétételi szabványainak és
-
-a tájékoztatóban foglalt információra, így különösen a kibocsátó pénzügyi helyzetére vonatkozó információra az e törvényben foglalt követelményekkel egyenértékű követelmények vonatkoznak.
+- a) a kibocsátó az értékpapírt Magyarországon kívánja nyilvánosan forgalomba hozni, szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni,
+- b) a tájékoztató megfelel
+  - ba) az Európai Unió szabályainak vagy
+  - bb) a nemzetközi szabványoknak, így különösen az IOSCO közzétételi szabványainak, és
+- c) a tájékoztatóban foglalt információra, így különösen a kibocsátó pénzügyi helyzetére vonatkozó információra az e törvényben foglalt követelményekkel egyenértékű követelmények vonatkoznak.
 
 (2) A Felügyeletnek az (1) bekezdés alapján megadott engedélyére a 40–41. § alkalmazandó.
 
@@ -588,16 +598,16 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 - f)
 - g) gazdasági társasági vagy szövetkezeti formában működő kibocsátó esetén a létesítő okiratot;
 - h) a forgalomba hozatalt elhatározó döntést tartalmazó okiratot;
-- i) zártkörűen működő részvénytársaság részvényének nyilvános forgalomba hozatalra történő felajánlása, illetőleg szabályozott piacra történő bevezetése esetén a társaság működési formájának módosítására vonatkozó döntést tartalmazó okiratot;
+- i) zártkörűen működő részvénytársaság részvényének nyilvános forgalomba hozatalra történő felajánlása, illetve szabályozott piacra történő bevezetése, valamint multilaterális kereskedési rendszerben történő regisztrációja esetén a társaság működési formájának módosítására vonatkozó döntést tartalmazó okiratot;
 - j) a forgalomba hozatal előkészítésével és lebonyolításával megbízott befektetési szolgáltató és a kibocsátó közötti szerződést vagy szerződéstervezetet, illetőleg a forgalomba hozatalban közreműködő befektetési szolgáltatók egymás közötti szerződéseit.
 
-(2) A Felügyelet felhívására a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó, valamint ezen személyek könyvvizsgálója, vezető tisztségviselője, ellenőrző részesedéssel rendelkező tulajdonosa, illetőleg az a jogi személy, amelyben a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy, illetőleg a forgalmazó ellenőrző részesedéssel rendelkezik, köteles a tájékoztatóban foglaltakat igazolni, adatokkal, dokumentumokkal alátámasztani.
+(2) A Felügyelet felhívására a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy és a forgalmazó, valamint ezen személyek könyvvizsgálója, vezető tisztségviselője, ellenőrző részesedéssel rendelkező tulajdonosa, illetve az a jogi személy, amelyben a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy vagy a forgalmazó ellenőrző részesedéssel rendelkezik, köteles a tájékoztatóban foglaltakat igazolni, adatokkal, dokumentumokkal alátámasztani.
 
 (3)
 
-(4) Ha az értékpapír forgalomba hozatala a befektetők szempontjából a szokásostól eltérő kockázatú – így különösen, ha a hitelviszonyt megtestesítő értékpapír kibocsátója kevesebb mint egy éve működik, ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a kibocsátó hiteltartozásainak összege meghaladja saját tőkéjének összegét, vagy a kibocsátó, az ajánlattevő, vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó felelőssége a tájékoztatóval kapcsolatosan nem egyetemleges – a Felügyelet kötelezi a forgalmazót és a kibocsátót, az ajánlattevőt, vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személyt ennek a tájékoztató elején, valamint a kereskedelmi kommunikációjában feltűnő módon történő feltüntetésére.
+(4) Ha az értékpapír forgalomba hozatala a befektetők szempontjából a szokásostól eltérő kockázatú – így különösen, ha a hitelviszonyt megtestesítő értékpapír kibocsátója kevesebb mint egy éve működik, ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a kibocsátó hiteltartozásainak összege meghaladja saját tőkéjének összegét, vagy a kibocsátó, az ajánlattevő, vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy és a forgalmazó felelőssége a tájékoztatóval kapcsolatosan nem egyetemleges – a Felügyelet kötelezi a forgalmazót és a kibocsátót, az ajánlattevőt vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személyt ennek a tájékoztató elején, valamint kereskedelmi kommunikációjában feltűnő módon történő feltüntetésére.
 
-(5) A kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését kezdeményező személy, illetve a forgalmazó a Felügyeletnek haladéktalanul bejelenti, ha az engedélyezési eljárás időtartama alatt olyan tény vagy körülmény jut a tudomására, amely a benyújtott tervezet helyesbítését (kiegészítését, módosítását) teszi szükségessé.
+(5) A kibocsátó, az ajánlattevő, illetve az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy, illetve a forgalmazó a Felügyeletnek haladéktalanul bejelenti, ha az engedélyezési eljárás időtartama alatt olyan tény vagy körülmény jut a tudomására, amely a benyújtott tervezet helyesbítését (kiegészítését, módosítását) teszi szükségessé.
 
 (6) A Felügyelet az engedély megadását megtagadja, ha a tájékoztató nem felel meg e törvény, a végrehajtására kiadott jogszabály vagy az Fttv. rendelkezéseinek, a forgalomba hozatal joggal való visszaélésre irányul, vagy a forgalmazó, a kibocsátó nem tesz eleget a (2)–(4) bekezdés alapján tett felügyeleti intézkedésnek.
 
@@ -621,7 +631,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 42. § A Felügyelet honlapján közzéteszi az általa közzétételre engedélyezett, e törvény 26–27. §-a szerinti tájékoztatókat és alaptájékoztatókat, vagy az általa közzétételre engedélyezett, a jelen törvény 26–27. §-a szerinti tájékoztatók és alaptájékoztatók listáját. Ha a Felügyelet honlapján a közzétételre engedélyezett tájékoztatók és alaptájékoztatók listáját teszi közzé, ezzel együtt – ha lehetséges – megadja az Európai Unió másik tagállamának hatáskörrel rendelkező hatósága, a kibocsátó vagy a szabályozott piac honlapján közzétett tájékoztatóhoz a továbbutalást (hiperhivatkozást) is. A közzétett listát a Felügyelet naprakész állapotban tartja és biztosítja, hogy honlapján 12 hónapon át elérhető legyen.
 
-43. § (1) Ha a Magyarországon, illetőleg harmadik országban székhellyel rendelkező kérelmező az értékpapírt kizárólag Magyarországon kívánja nyilvánosan forgalomba hozni, illetve szabályozott piacra bevezetni, a tájékoztatót a Felügyelet által elfogadott nyelven kell elkészíteni.
+43. § (1) Ha a Magyarországon illetve harmadik országban székhellyel rendelkező kérelmező az értékpapírt kizárólag Magyarországon kívánja nyilvánosan forgalomba hozni, illetve szabályozott piacra bevezetni vagy multilaterális kereskedési rendszerbe regisztrálni, a tájékoztatót a Felügyelet által elfogadott nyelven kell elkészíteni.
 
 (2) Ha a kérelmező az értékpapírt kizárólag más tagállamban kívánja nyilvánosan forgalomba hozni, illetve szabályozott piacra bevezetni, a tájékoztatót – a kérelmező választása szerint – vagy az érintett tagállam hatáskörrel rendelkező felügyeleti hatósága által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni.
 
@@ -629,11 +639,11 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (4) A (2) bekezdésben foglalt eljárásához a Felügyelet előírhatja, hogy a tájékoztatót – a kérelmező választása szerint – a Felügyelet által elfogadott nyelven vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven is be kell nyújtani.
 
-(5) Ha a kérelmező az értékpapírt Magyarországon és az Európai Unió más tagállamában is nyilvánosan forgalomba kívánja hozni, illetve szabályozott piacra be kívánja vezetni, a tájékoztatót a Felügyelet által elfogadott nyelven kell elkészíteni, valamint – a kérelmező választása szerint – az érintett tagállamok hatáskörrel rendelkező felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven is rendelkezésre kell bocsátani.
+(5) Ha a kérelmező az értékpapírt Magyarországon és az Európai Unió más tagállamában is nyilvánosan forgalomba kívánja hozni, illetve szabályozott piacra be kívánja vezetni, vagy multilaterális kereskedési rendszerbe regisztrálni, a tájékoztatót a Felügyelet által elfogadott nyelven kell elkészíteni, valamint – a kérelmező választása szerint – az érintett tagállamok hatáskörrel rendelkező felügyeleti hatóságai által elfogadott nyelven vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven is rendelkezésre kell bocsátani.
 
-(6) Ha a kérelmező az értékpapírt Magyarországon nyilvánosan forgalomba kívánja hozni és a tájékoztatót nem magyar nyelven készíti el, az összefoglalót magyar nyelven is el kell készíteni. Ha a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését kezdeményező személy a tájékoztatót más tagállam hatáskörrel rendelkező felügyeleti hatósága által megadott engedély alapján teszi közzé Magyarországon, az összefoglalót magyar nyelven is el kell készíteni.
+(6) Ha a kérelmező az értékpapírt Magyarországon nyilvánosan forgalomba kívánja hozni és a tájékoztatót nem magyar nyelven készíti el, az összefoglalót magyar nyelven is el kell készíteni. Ha a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy a tájékoztatót más tagállam hatáskörrel rendelkező felügyeleti hatósága által megadott engedély alapján teszi közzé Magyarországon, az összefoglalót magyar nyelven is el kell készíteni.
 
-(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett tagállam hatáskörrel rendelkező felügyeleti hatósága által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni, és közzé kell tenni.
+(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni, és közzé kell tenni.
 
 43/A. §
 
@@ -711,6 +721,12 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 (2) Az e fejezetben foglaltakat nem kell alkalmazni a nyílt végű befektetési alapra kibocsátott befektetési jegyre, illetve az ilyen befektetési alapban megvásárolt vagy eladott befektetési jegyre.
 
 (3) Az e fejezetben foglaltakat nem kell alkalmazni az államra, az olyan nemzetközi testületre, amelynek legalább egy tagállam a tagja, az EKB-ra és a tagállamok nemzeti központi bankjaira.
+
+(4) Az e fejezetben foglaltakat nem kell alkalmazni a szabályozott piacra be nem vezetett részvény vagy kötvény kibocsátójára, ide nem értve az 54. § (2) bekezdés b) pontját azzal, hogy az egyes pénzügyi évek végét követő legkésőbb hat hónapon belül kell közzétenni az éves jelentést.
+
+(5) A kizárólag multilaterális kereskedési rendszerbe regisztrált (szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be nem vezetett) értékpapír kibocsátójára vonatkozóan a multilaterális kereskedési rendszer működtetője szabályzatban állapítja meg a rendkívüli tájékoztatás szabályait.
+
+(6) A (4) és (5) bekezdésben hivatkozott kibocsátó az ott meghatározott közzétételeit a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven köteles közzétenni.
 
 52/A. §
 
@@ -1682,7 +1698,7 @@ az összevont alapú felügyelet ellátásáról az érintett (beleértve a pén
 
 a székhelye van, vagy amely tagállamban olyan befektetési vállalkozás létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, hatáskörrel rendelkező felügyeleti hatóságát, valamint központi bankját.
 
-181/K. § E fejezet, valamint a 391. § f) és g) pontjának és a 10. számú melléklet 1. m) pontjának alkalmazásában személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.
+181/K. § E fejezet alkalmazásában személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.
 
 ### XIX/B. Fejezet
 
@@ -2821,7 +2837,7 @@ tevékenység.
 
 - a)
 - b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az elszámolási technikát, módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
-- c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, számítógépes kereskedési rendszer esetén a próbafuttatások eredményeit, melyből megállapítható, hogy a kérelmező 1. által üzemeltetett kereskedési rendszer biztosítja, hogy a tőzsdei kereskedők a kereskedésben való részvétel során azonos szolgáltatásokat azonos feltételekkel vehessenek igénybe, 2. által üzemeltetett kereskedési rendszer biztosítja a tisztességes, rendezett, megbízható és átlátható ajánlattételi rendet és áralakulást, a piaci viszonyok folyamatos nyomon követhetőségét, lehetővé teszi a tőzsde vagy a Felügyelet 325–329. §-okban meghatározott intézkedéseinek végrehajtását, 3. biztosítja a tőzsdei ajánlatok és üzletkötések rögzítését, megőrzését, illetve a tőzsdei adatok nyilvánosságra hozatalát; 4. adatkezelése megfelel a biztonságos adatvédelem feltételeinek; 5. informatikai rendszere alkalmas a tőzsdei ügyletek elszámolására (amennyiben a tőzsdei ügyletek elszámolása nem a tőzsde által történik, az elszámolóházi tevékenységet végző szervezettel, illetve a központi értéktárral kötött megállapodást kell benyújtani);
+- c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, számítógépes kereskedési rendszer esetén a próbafuttatások eredményeit, melyből megállapítható, hogy a kérelmező 1. által üzemeltetett kereskedési rendszer biztosítja, hogy a tőzsdei kereskedők a kereskedésben való részvétel során azonos szolgáltatásokat azonos feltételekkel vehessenek igénybe, 2. által üzemeltetett kereskedési rendszer biztosítja a tisztességes, rendezett, megbízható és átlátható ajánlattételi rendet és áralakulást, a piaci viszonyok folyamatos nyomon követhetőségét, lehetővé teszi a tőzsde vagy a Felügyelet 325–329. §-okban meghatározott intézkedéseinek végrehajtását, 3. biztosítja a tőzsdei ajánlatok és üzletkötések rögzítését, megőrzését, illetve a tőzsdei adatok nyilvánosságra hozatalát; 4. adatkezelése megfelel a biztonságos adatvédelem feltételeinek; 5. informatikai rendszere alkalmas a tőzsdei ügyletek elszámolására (amennyiben a tőzsdei ügyletek elszámolása nem a tőzsde által történik, az elszámolóházi tevékenységet végző szervezettel, illetve a központi szerződő féllel kötött megállapodást kell benyújtani);
 - d) szabályzatait;
 - e) üzleti tervet a működés első három évére vonatkozóan;
 - f) a felelősségbiztosításról szóló szerződést;
@@ -3023,11 +3039,11 @@ foglaltakat.
 
 (2) A tőzsdei ügylet azonnali, határidős és opciós ügylet és ezek kombinációja lehet.
 
-(3) A tőzsdei ügylet érvényességéhez a tőzsdei ügylet adatainak a tőzsdei szabályzatban meghatározott módon történő rögzítése, határidős és opciós ügylet esetében továbbá az elszámolóház visszaigazolása is szükséges.
+(3) A tőzsdei ügylet érvényességéhez a tőzsdei ügylet adatainak a tőzsdei szabályzatban meghatározott módon történő rögzítése, ezen felül az elszámolóházi tevékenységet végző szervezet vagy a központi szerződő fél nyilvántartásba vétele és visszaigazolása is szükséges.
 
 320. § Ha a tőzsdei ügyletben az ügylet tárgyának tényleges átadására anélkül vállalnak kötelezettséget, hogy a teljesítés módját és idejét meghatározták volna, a kötelezettséget a tőzsdei szabályzatban meghatározott módon és időben kell teljesíteni (azonnali ügylet).
 
-321. § (1) A Felek megállapodhatnak abban, hogy a tőzsde ügyletben vállalt kötelezettségeiket a tőzsdei szabályzat által meghatározott későbbi időpontban teljesítik (határidős ügylet). Ebben az esetben a tőzsdei ügylet a tőzsde szabályzata szerinti teljesítési feltételekkel azáltal jön létre, hogy az ügyletet az elszámolóház nyilvántartásba veszi és visszaigazolja. Az elszámolóház által nyilvántartásba vett határidős ügyletből eredő kötelezettséget – a központi szerződő félként kötelezettséget vállaló szervezet szabályzata által meghatározott módon – mindkét fél irányában a központi szerződő félként kötelezettséget vállaló szervezet teljesíti.
+321. § (1) A szerződő felek megállapodhatnak abban, hogy a tőzsdei ügyletben vállalt kötelezettségeiket a tőzsdei szabályzat által meghatározott későbbi időpontban teljesítik (határidős ügylet).
 
 (2) A határidős ügylet teljesítése történhet az ügylet tárgyának tényleges átadásával, közraktári jeggyel történő teljesítéssel, illetőleg készpénzes elszámolással. Az elszámolásra vonatkozó szabályok a szerződés tárgyának tényleges átadásával történő teljesítését korlátozhatják vagy kizárhatják.
 
@@ -3037,7 +3053,7 @@ foglaltakat.
 
 (3) Az opció a tőzsdei ügylet megkötésétől számítva legfeljebb öt évre köthető ki. Az opció gyakorlása meghatározott határnapra is kiköthető, ez esetben a határnap nem lehet távolabbi, mint a tőzsdei ügylet megkötésétől számított öt év. Az öt évet meghaladó időtartamra vagy öt évnél távolabbi határnapra, illetve határozatlan időre kikötött opció semmis. A tőzsdei szabályzat az opció – egyes tőzsdei ügyletekben kiköthető – időtartamát és határnapját meghatározhatja.
 
-(4) Az opciós ügylet azáltal jön létre, hogy azt az elszámolóház nyilvántartásba veszi és visszaigazolja. Az elszámolóház által nyilvántartásba vett opciós ügyletből eredő kötelezettséget – a központi szerződő félként kötelezettséget vállaló szervezet szabályzata által meghatározott módon – mindkét fél irányában a központi szerződő félként kötelezettséget vállaló szervezet teljesíti.
+(4)
 
 (5) A bíróság a kötelezettet az opciós ügyletből folyó kötelezettsége alól nem mentesítheti.
 
@@ -3045,11 +3061,11 @@ foglaltakat.
 
 ### XXXVIII. Fejezet — A TŐZSDEI FORGALOM ELSZÁMOLÁSA
 
-324. § (1) A tőzsdei forgalom elszámolása a tőzsde vagy attól szervezetileg független, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár által történhet.
+324. § (1) A tőzsdei forgalom elszámolása a tőzsde vagy attól szervezetileg független, elszámolóházi tevékenységet végző szervezet vagy központi szerződő fél által történhet.
 
-(2) Ha az elszámolás nem a tőzsde által történik, a tőzsde köteles szerződést kötni elszámolóházi tevékenységet végző szervezettel, illetve központi értéktárral.
+(2) Ha az elszámolás nem a tőzsde által történik, a tőzsde köteles szerződést kötni elszámolóházi tevékenységet végző szervezettel, illetve központi szerződő féllel.
 
-(3) Értékpapír-kereskedést lebonyolító tőzsde a (2) bekezdés szerinti szerződést azzal az elszámolóházi tevékenységet végző szervezettel köti meg, amely az értékpapír-teljesítés lebonyolítására szerződéssel rendelkezik a dematerializált értékpapírok előállítását, nyilvántartását e törvény alapján végző központi értéktárral.
+(3) Értékpapír-kereskedést lebonyolító tőzsde a (2) bekezdés szerinti szerződést azzal az elszámolóházi tevékenységet végző szervezettel vagy központi szerződő féllel köti meg, amely az értékpapír-teljesítés lebonyolítására szerződéssel rendelkezik a dematerializált értékpapírok előállítását, nyilvántartását e törvény alapján végző központi értéktárral.
 
 ### A tőzsdei forgalmazás felfüggesztése
 
@@ -3077,7 +3093,7 @@ foglaltakat.
 
 ### XXXIX. Fejezet — A TŐZSDE GAZDÁLKODÁSA, BEFEKTETÉSI KORLÁTOZÁSOK
 
-330. § (1) A tőzsde szabad pénzeszközét nem fektetheti az adott tőzsdére bevezetett és forgalmazott tőzsdei termékbe, ide nem értve az állampapírt és a tőzsde, a tőzsdei elszámolást végző elszámolóház és központi értéktár, valamint az elszámolóházban és a központi értéktárban részesedéssel rendelkező pénzügyi holding társaság által kibocsátott részvényt.
+330. § (1) A tőzsde szabad pénzeszközét nem fektetheti az adott tőzsdére bevezetett és forgalmazott tőzsdei termékbe, ide nem értve az állampapírt és a tőzsde, a tőzsdei ügyletek elszámolását, illetve teljesítését végző központi szerződő fél, elszámolóház, illetve központi értéktár, valamint az elszámolóházban, a központi szerződő félben és a központi értéktárban részesedéssel rendelkező pénzügyi holding társaság által kibocsátott részvényt.
 
 (2) A tőzsde szabad pénzeszközét nem fektetheti a 307. § (2) bekezdésében meghatározott részesedéssel rendelkező tulajdonosa által kibocsátott értékpapírba, ide nem értve az állampapírt.
 
@@ -3121,19 +3137,19 @@ foglaltakat.
 
 (2) A tőzsde felszámolójának vagy végelszámolójának a kijelölését követő legalább hat hónapig a tőzsdei tevékenység folytatását biztosítania kell.
 
-(3) Tőzsdei tevékenység folytatásával felhagyó tőzsdén kötött tőzsdei ügyletből származó nyitott pozíció átvihető az e törvény alapján működő más tőzsdére, a tőzsdék, illetőleg az elszámolóházi tevékenységet végző szervezet szabályzatában meghatározott feltételekkel.
+(3) Tőzsdei tevékenység folytatásával felhagyó tőzsdén kötött tőzsdei ügyletből származó nyitott pozíció átvihető az e törvény alapján működő más tőzsdére, a tőzsdék, illetve az elszámolóházi tevékenységet végző szervezet, illetve a központi szerződő fél szabályzatában meghatározott feltételekkel
 
 (4) A tőzsdei kereskedő a tőzsdei tevékenység folytatásával felhagyó tőzsde utolsó kereskedési napját legalább 45 nappal megelőzően köteles írásban értesíteni az ügyfelet a tőzsdei tevékenység folytatásának megszűnéséről. A tőzsdei ügyletből származó nyitott pozíció másik tőzsdére történő átvitelével összefüggő költség, díj az ügyfélre nem hárítható át.
 
-## TIZEDIK RÉSZ — AZ ELSZÁMOLÓHÁZI ÉS KÖZPONTI ÉRTÉKTÁRI TEVÉKENYSÉG
+## TIZEDIK RÉSZ — AZ ELSZÁMOLÓHÁZI, KÖZPONTI ÉRTÉKTÁRI ÉS KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG
 
 ### XLII. Fejezet — ELSZÁMOLÓHÁZI TEVÉKENYSÉG
 
 334. § Elszámolóházi tevékenység az alábbi tevékenységek végzése:
 
-- a) a klíring,
-- b) a klíringelt ügylet pénzügyi teljesítése,
-- c) a klíringelt ügylet nem pénzbeli (termékkel) történő teljesítése, ide nem értve az értékpapírral történő teljesítést,
+- a) a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolása,
+- b) az a) pont szerint elszámolt ügylet pénzügyi teljesítése,
+- c) az a) pont szerint elszámolt ügylet nem pénzbeli (termékkel történő) teljesítése, ide nem értve az értékpapírral történő teljesítést,
 - d) az értékpapír-kölcsönzési rendszer működtetése.
 
 ### Elszámolóházi tevékenység végzésére jogosult szervezet
@@ -3145,16 +3161,18 @@ foglaltakat.
 
 (2) Külföldi szervezet elszámolóházi tevékenységet Magyarországon fióktelepe útján folytathat.
 
+(2a) E törvény alkalmazásában az elszámolóházi tevékenységet végző szervezet az (1) és (2) bekezdésben felsorolt intézmény.
+
 (3) Az elszámolóház elszámolóházi tevékenységen kívül kizárólag
 
 - a) a központi értéktári tevékenységet,
 - b) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegészítő szolgáltatást,
 - c) a 336. § (2) bekezdésének c) pontjában meghatározott tevékenységet,
-- d) központi szerződő fél tevékenységet,
+- d)
 - e) a Hpt. 3. §-a (1) bekezdésének b) és d) pontjában meghatározott pénzügyi szolgáltatási tevékenységet,
 - f) értékpapír-kölcsönzést,
 - g) nemesfém letéti őrzését és letétkezelését,
-- h) üvegházhatású gázkibocsátási egységekre és légszennyező anyag-kibocsátási jogokra vonatkozó ügyletek elszámolását,
+- h) tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon árura kötött ügyletek elszámolására irányuló,
 - i) az elszámolóházi tevékenységet segítő kiegészítő tevékenységként:
   - ia) informatikai,
   - ib) adatszolgáltatási,
@@ -3165,7 +3183,7 @@ foglaltakat.
 
 tevékenységet végezhet.
 
-(4) Az elszámolóház kizárólag abban az esetben jogosult a 335. § (3) bekezdésének d) pontjában meghatározott tevékenységet végezni, amennyiben nem rendelkezik a 335. § (3) bekezdésének a) és b) pontjában meghatározott tevékenység végzésére jogosító engedéllyel.
+(4)
 
 (5) Az elszámolóház jogosult továbbá a központi szerződő fél által kiszervezett tevékenységek végzésére.
 
@@ -3186,14 +3204,16 @@ tevékenységet végezhet.
 - k) a Magyar Állam számára;
 - l) az állam vagyonát kezelő szervezetek számára;
 - m) az MNB számára;
-- n) az Országos Betétbiztosítási Alap számára és
-- o) a Befektető-védelmi Alap számára
+- n) az Országos Betétbiztosítási Alap számára,
+- o) a Befektető-védelmi Alap számára;
+- p) pénzforgalmi intézménynek és
+- q) elektronikuspénz-kibocsátó intézménynek
 
 nyújthat.
 
-(2) Az elszámolóház a Hpt. 3. § (1) bekezdésének b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt ügylet teljesítése érdekében végezheti.
+(2) Az elszámolóház a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa, a központi szerződő fél által elszámolt vagy központi szerződő fél által elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezheti.
 
-(3) Az elszámolóház a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag tőzsdei ügylettel, tőzsdén kívüli értékpapírügylettel, értékpapír forgalomba hozatalával, az értékpapíron alapuló fizetéssel, befektetési szolgáltatással, kiegészítő befektetési szolgáltatással, az értékpapírban foglalt kötelezettségen alapuló fizetéssel vagy erre vonatkozó szolgáltatással, árutőzsdei szolgáltatással, valamint törvényben meghatározott szervezett piac számára nyújtott szolgáltatással kapcsolatos elszámolás lebonyolítása érdekében végezhet.
+(3) Az elszámolóház a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag tőzsdei ügylettel, tőzsdén kívüli értékpapírügylettel, értékpapír forgalomba hozatalával, az értékpapíron alapuló fizetéssel, befektetési szolgáltatással, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatással, az értékpapírban foglalt kötelezettségen alapuló fizetéssel vagy erre vonatkozó szolgáltatással, árutőzsdei szolgáltatással, egyensúlyozó platformon nyújtott szolgáltatással, valamint külön törvényben meghatározott szervezett piac számára nyújtott szolgáltatással kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezhet.
 
 ### XLIII. Fejezet — KÖZPONTI ÉRTÉKTÁRI TEVÉKENYSÉG
 
@@ -3208,8 +3228,8 @@ nyújthat.
 (2) A központi értéktár központi értéktári tevékenységen kívül kizárólag:
 
 - a) a Bszt. 5. §-a (2) bekezdésének a) és b) pontjaiban meghatározott kiegészítő szolgáltatást,
-- b) kizárólag tőzsdén kívüli szállítás fizetés ellenében történő elszámolással lezáruló értékpapírügylet esetén a 334. § a) pontjában meghatározott elszámolóházi tevékenységet,
-- c) kizárólag értékpapírral történő teljesítés esetén a 334. § c) pontjában meghatározott elszámolóházi tevékenységet,
+- b) tőzsdén kívüli értékpapírügylet esetén a 334. § a) pontjában meghatározott elszámolóházi tevékenységet,
+- c) értékpapírral történő teljesítést,
 - d) a 334. § d) pontjában meghatározott elszámolóházi tevékenységet,
 - e) a 335. § (3) bekezdésének g) és i) pontjában meghatározott elszámolóházi tevékenységet kisegítő tevékenységet, és
 - f) értékpapír-kölcsönzést
@@ -3235,9 +3255,9 @@ folytathat.
 - c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval előszerződést kötött a részükre nyújtandó szolgáltatásokról;
 - d) rendelkezik a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel; és
 - e) rendelkezik a 345. §-ban meghatározott szabályzatokkal;
-- f) ha központi szerződő fél tevékenységet nem végez, legalább a 321. § (1) bekezdése és a 322. § (4) bekezdése szerinti tőzsdei ügyletek teljesítésért történő kötelezettségvállalás tekintetében előszerződést kötött a központi szerződő féllel.
+- f)
 
-(6) Tőzsde a 334. §-ban meghatározott elszámolóházi tevékenység folytatására jogosító engedélyt a (4) bekezdés c)–e) pontjaiban meghatározott feltételek teljesítése esetén kaphat.
+(6) Tőzsde a 334. §-ban meghatározott elszámolóházi tevékenység folytatására jogosító engedélyt az (5) bekezdés c)–e) pontjában meghatározott feltételek teljesítése esetén kaphat.
 
 (7) Elszámolóházi tevékenység folytatására jogosító engedélyt a fióktelep akkor kaphat, ha a fióktelepet létesítő külföldi kérelmező igazolja a (4)–(6) bekezdésben foglaltak teljesítését, továbbá
 
@@ -3263,7 +3283,7 @@ folytathat.
 - i) a felelősségbiztosításról szóló szerződést;
 - j) a kérelmező nyilatkozatát arra vonatkozóan, hogy az elszámolóházi tevékenységét mikor kívánja megkezdeni;
 - k) a vezető állású személyek megnevezését;
-- l) ha központi szerződő fél tevékenységet nem végez, a központi szerződő féllel kötött előszerződést.
+- l)
 
 340. § (1) Az elszámolóházi tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
@@ -3284,7 +3304,7 @@ folytathat.
 
 340/A. § (1) A központi értéktári tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet az engedélyt a 336. § (1) bekezdésében foglalt tevékenységek teljes körére adja meg.
 
-(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy központi szerződő fél tevékenységet nem végző elszámolóháznak adja meg, amely rendelkezik
+(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy elszámolóháznak adja meg, amely rendelkezik
 
 - a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
 - b) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel,
@@ -3334,56 +3354,63 @@ folytathat.
 
 ### XLIV/B. Fejezet — A KÖZPONTI SZERZŐDŐ FÉL TEVÉKENYSÉG ENGEDÉLYEZÉSE
 
-340/D. § (1) Központi szerződő fél által végezhető tevékenységek:
+340/D. § (1) A központi szerződő fél a tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon pénzügyi eszközökre kötött ügylet elszámolását végzi és az elszámolt ügylet teljesítésére kötelezettséget vállal.
 
-- a) központi szerződő féli tevékenység
-- b) a 334. § a) pontjában meghatározott tevékenység.
+(2) A központi szerződő fél az (1) bekezdésben meghatározott tevékenységen kívül jogosult
 
-(2) A központi szerződő félként történő tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza.
+- a) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletek teljesítéséhez kapcsolódóan kötelezettséget vállalni,
+- b) árura tőzsdén, tőzsdén kívül, vagy külön törvény által meghatározott szervezett piacon, egyensúlyozó platformon kötött ügyletet elszámolni,
+- c) az általa elszámolt, illetve az általa elszámolásra közvetített ügyletek vonatkozásában pénzügyi teljesítést végezni,
+- d) a Hpt. 3. § (1) bekezdés b) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylet teljesítése érdekében, kizárólag likvid eszközben történő, legalább teljes mértékű fedezettséget biztosító biztosítéknyújtás mellett végezni,
+- e) a Hpt. 3. § (1) bekezdés d) pontjában meghatározott tevékenységet kizárólag az általa elszámolt, illetve az általa elszámolásra közvetített ügylettel kapcsolatos pénzügyi teljesítés lebonyolítása érdekében végezni, valamint
+- f) a fenti tevékenységeket segítő kiegészítő tevékenységként informatikai, adatszolgáltatási, valamint oktatási tevékenységet végezni.
 
-(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
+(3) A központi szerződő fél a (2) bekezdés d)–e) pontjában meghatározott bármely tevékenységet szakosított hitelintézetként végezheti.
 
-- a) legalább 20 millió forint alaptőkével,
-- b) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
-- c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, továbbá elszámolóházzal kötött előszerződéssel,
-- d) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel és
-- e) a 350/E. §-ban meghatározott szabályzatokkal.
+(4) A központi szerződő fél által végzett elszámolás nem minősül elszámolóházi tevékenységnek.
 
-(4) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) A központi szerződő fél tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet engedélye meghatározza a pénzügyi eszközök kategóriáit, amelyek vonatkozásában a központi szerződő fél tevékenysége végezhető. Az (1) bekezdésben meghatározott tevékenység végzéséhez szükséges, továbbá a (2) bekezdésben foglalt tevékenységek végzésére, valamint a (3) bekezdésben foglaltak szerint a szakosított hitelintézetként való működésre jogosító engedély a (6) bekezdésben foglalt engedélyezéssel egy eljárásban is megadható.
 
-(5) Külföldi központi szerződő fél fióktelepe Magyarországon központi szerződő fél tevékenység végzésére akkor kaphat engedélyt, ha
+(6) A központi szerződő fél tevékenységek végzésére jogosító engedélyt a Felügyelet azon Magyarország területén székhellyel rendelkező, jogi személyiséggel rendelkező gazdasági társaság részére adja meg, amely a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben meghatározott előírásoknak való megfelelésen túl rendelkezik:
 
-- a) a kérelmező igazolja a (3) bekezdésben foglaltak teljesítését;
-- b) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a külföldi kérelmező székhelye szerinti felügyeleti hatóság között;
-- c) a kérelmező nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért;
-- d) a kérelmező benyújtja a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájárulását vagy tudomásulvételét tartalmazó nyilatkozatát;
-- e) a kérelmező székhelye szerinti állam jogszabályai biztosítják a kérelmező prudens, biztonságos működését; és
-- f) a kérelmező székhelye szerint hatáskörrel rendelkező felügyeleti hatóság igazolja, hogy a kérelmező székhelye és főirodája is az adott államban van.
+- a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
+- b) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval kötött előszerződéssel,
+- c) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel és
+- d) a 350/E. §-ban meghatározott szabályzatokkal.
+
+(7) A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 16. cikk (1) bekezdésében meghatározott indulótőke összegét a tevékenységi engedély iránti kérelem benyújtását megelőző naptári hónap utolsó napján érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+
+(8) A (2) bekezdés d) és e) pontjában meghatározott tevékenységet végző központi szerződő fél alapítására, működésére és felügyeletére a Hpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(9) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
 340/E. § A központi szerződő fél tevékenység végzéséről szóló engedély iránti kérelemhez mellékelni kell:
 
 - a) a társaság hatályos létesítő okiratát, három hónapnál nem régebbi cégkivonatát,
 - b) igazolást az alaptőke befizetéséről,
-- c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, valamint elszámolóházzal kötött előszerződést,
+- c) legalább egy befektetési vállalkozással, hitelintézettel vagy árutőzsdei szolgáltatóval, kötött előszerződést,
 - d) a 350/E. §-ban meghatározott szabályzatokat,
 - e) szervezeti felépítésének, irányítási, döntési és ellenőrzési rendjének bemutatását, ha ezeket az alapító okirat nem tartalmazza,
-- f) a rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök leírását,
-- g) a felelősségbiztosításról szóló szerződést,
+- f) a rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök leírását, melyből megállapítható, hogy a kérelmező
+  - fa) által üzemeltetett elszámolási rendszer biztosítja a pontos, megbízható és átlátható elszámolási rendet,
+  - fb) adatkezelése megfelel a biztonságos adatvédelem (tárolás, mentés, visszakereshetőség) feltételeinek,
 - h) a működés első 3 évére vonatkozó üzleti tervet,
-- i) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi szerződő fél tevékenységet mikor kívánja megkezdeni.
+- i) a kérelmező nyilatkozatát arra vonatkozóan, hogy a központi szerződő fél tevékenységet mikor kívánja megkezdeni,
+- j) az elszámolás és garanciavállalás részletes bemutatását, különösen az elszámolási technikát, módszereket, adatrögzítési, adatmentési, adatvédelmi megoldásokat,
+- k) a belső szabályzatokat,
+- l) a vezető állású személyek megnevezését.
 
 340/F. § (1) A Felügyelet a központi szerződő fél tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha
 
-- a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg,
-- b) az engedély kiadásának feltételei már nem állnak fenn és azok megfelelő határidő elteltével nem pótolhatók,
-- c) a központi szerződő fél az engedélyezett tevékenységet hat hónapon belül nem kezdi meg,
-- d) a központi szerződő fél a tevékenység folytatásával felhagy,
-- e) a központi szerződő fél a tevékenységre vonatkozó, e törvényben és más jogszabályban meghatározott előírásokat ismétlődően vagy súlyosan megszegi,
-- f) a fióktelep formájában működő elszámolóházi tevékenységet végző szervezet létesítőjének tevékenységi engedélyét a székhely szerinti felügyeleti hatóság visszavonta.
+- a)–d)
+- e) a központi szerződő fél tevékenységet végző szervezet a tevékenységre vonatkozó, e törvényben és más jogszabályban, valamint a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlament és tanácsi rendeletében meghatározott előírásokat ismétlődően vagy súlyosan megszegi,
+- f) a fióktelep formájában működő központi szerződő fél tevékenységet végző szervezet létesítőjének tevékenységi engedélyét a székhely szerinti felügyeleti hatóság visszavonta.
 
-(2) A Felügyelet az (1) bekezdés d) pontja alapján a tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha a központi szerződő fél ügyfele felé vállalt összes kötelezettségének eleget tett, továbbá legalább a 321. § (1) bekezdése és a 322. § (4) bekezdése szerinti tőzsdei ügyletek teljesítéséért történő kötelezettségvállalást más központi szerződő fél, vagy elszámolóház átvette.
+(2) A Felügyelet a központi szerződő fél kérelmére indult eljárásban a központi szerződő fél tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha a központi szerződő fél ügyfele felé vállalt összes kötelezettségének eleget tett.
 
 340/G. § Ha a kérelmező a 340/B. § a) pont aa) alpontjában, valamint a 340/E. § a) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+
+340/H. § Központi szerződő fél pénzügyi szolgáltatási tevékenységére a Hpt. rendelkezéseit kell alkalmazni.
 
 ### XLV. Fejezet — A KÖZPONTI ÉRTÉKTÁRBAN TÖRTÉNŐ TULAJDONSZERZÉS SZABÁLYAI
 
@@ -3413,9 +3440,9 @@ folytathat.
 
 ### XLVI. Fejezet — ÖSSZEFÉRHETETLENSÉG
 
-343. § (1) A központi értéktárral, az elszámolóházi tevékenységet végző szervezettel, valamint a központi szerződő féllel munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban álló személy befektetési vállalkozásnál, hitelintézetnél, a központi értéktár, elszámolóházi tevékenységet végző szervezet, illetőleg központi szerződő fél ügyfelénél és szabályozott piacra bevezetett értékpapír kibocsátójánál – ide nem értve az értéktárban, az elszámolóházi tevékenységet végző szervezetben, illetőleg a központi szerződő félben tulajdonosi részesedéssel rendelkező pénzügyi holding társaságot –
+343. § (1) A központi értéktárral, az elszámolóházi tevékenységet végző szervezettel, valamint a központi szerződő féllel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy – kivéve a vezető állású személyként megbízási jogviszonyban álló személyt – befektetési vállalkozásnál, hitelintézetnél [kivéve a 335. § (1) bekezdés a) pontjában meghatározott szakosított hitelintézetet], a központi értéktár, az elszámolóházi tevékenységet végző szervezet, továbbá a központi szerződő fél ügyfelénél, szabályozott piacra bevezetett értékpapír kibocsátójánál és szabályozott piac működtetőjénél – ide nem értve a központi értéktárban, az elszámolóházi tevékenységet végző szervezetben, valamint a központi szerződő félben tulajdonosi részesedéssel rendelkező pénzügyi holding társaságot –
 
-- a) nem állhat munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban; és
+- a) nem állhat munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban; és
 - b) nem lehet vezető állású személy.
 
 (2) A központi értéktárnál, az elszámolóházi tevékenységet végző szervezetnél, valamint a központi szerződő félnél munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban álló személy befektetési vállalkozásban, hitelintézetben, elszámolóházi tevékenységet végző szervezetben, központi szerződő félben közvetlen tulajdont nem szerezhet, kivéve a szabályozott piacra bevezetett részvény tulajdonjogának megszerzését.
@@ -3433,21 +3460,21 @@ folytathat.
 
 (2) Az elszámolóházi tevékenységet végző szervezet által nyújtott szolgáltatásra irányuló szerződést írásba kell foglalni.
 
-(3) Amennyiben az elszámolóházi tevékenységet végző szervezet a központi szerződő fél tevékenységet nem maga végzi, köteles e tevékenység ellátására központi szerződő féllel szerződést kötni.
+(3)
 
 ### Az elszámolóházi tevékenységhez szükséges szabályzatok
 
-345. § (1) A 334. §-ban meghatározott elszámolóházi tevékenységek, és a 335. § (3) bekezdésében meghatározott elszámolóházi tevékenység mellett végezhető tevékenységek, a 336. § (2) bekezdés a) pontjában meghatározott kiegészítő szolgáltatás, valamint központi szerződő félként történő kötelezettségvállalás a Felügyelet által jóváhagyott üzletszabályzat, szabályzatok alapján folytathatóak.
+345. § (1) A 334. §-ban meghatározott elszámolóházi tevékenységek és a 335. § (3) bekezdésében meghatározott tevékenységek a Felügyelet által jóváhagyott üzletszabályzat, szabályzatok alapján folytathatóak.
 
 (2) Az (1) bekezdés szerinti elszámolóházi üzletszabályzatban, szabályzatokban meg kell határozni:
 
 - a) az ügyfelekkel szembeni jogviszony keletkezésének, megszűnésének rendjét, az ügyfelekkel szemben támasztott pénzügyi és technikai feltételeket;
-- b) a klíring és az elszámolás rendjét;
+- b) az elszámolás és a teljesítés rendjét;
 - c) a pénzszámlák számlavezetésének rendjét és szabályait;
 - d) a pénz- és értékpapír-kölcsönzés szabályait;
 - e) a kockázatok kezelésének módját;
 - f) a kötelező biztosíték képzésének, felhasználásának módját;
-- g) a tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályait;
+- g)
 - h) a garanciaalapok képzésének, igénybevételének, kezelésének rendjét;
 - i) az ügyfelek által az elszámolóház részére nyújtandó információ körét, az információnyújtás rendjét;
 - j) az elszámolóház által alkalmazható szankciók körét és a jogorvoslat rendjét;
@@ -3455,9 +3482,9 @@ folytathat.
 - l) az elszámolóház által a szolgáltatást igénybe vevők részére felszámított díjat;
 - m)
 - n) központi értéktári tevékenységet végző elszámolóháznak a 350/B. § (2) bekezdésének b), c) és e) pontjában foglaltakat;
-- o) központi szerződő fél tevékenységet végző elszámolóháznak a 350/E. § (2) bekezdésének b) pontjában foglaltakat.
+- o)
 
-(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, melyet követően a klíring, illetve elszámolási utasítás visszavonhatatlan.
+(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, amelyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak az elszámolóházi tevékenységet végző szervezet ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
@@ -3471,7 +3498,7 @@ folytathat.
 - b) a szabályzat nincs összhangban az üzletszabályzat vagy más szabályzat rendelkezésével,
 - c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
 
-(8) Az elszámolóházi tevékenységet végző szervezet az üzletszabályzatát, valamint azok módosítását a Felügyelet jóváhagyását követően a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. A (2) bekezdés e) és l) pontjában meghatározott szabályzat közzétételétől az elszámolási tevékenységet végző szervezet eltekinthet.
+(8) Az elszámolóházi tevékenységet végző szervezet az üzletszabályzatát, valamint annak módosítását a Felügyelet jóváhagyását követően a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza.
 
 (9) Az elszámolóházi tevékenységet végző szervezet üzletszabályzata és szabályzatai, illetve azok módosításai a (6) bekezdés szerinti nyilvánosságra hozatalt követően lépnek hatályba.
 
@@ -3489,7 +3516,7 @@ folytathat.
 
 (4) Az e § szerinti óvadék igénybevétele esetén az elszámolóházi tevékenységet végző szervezet az ügyfelét az óvadék haladéktalan visszapótlására szólítja fel. Az óvadék az ügyfél bevételeiből minden más követelést megelőzően visszapótolandó.
 
-347. § (1) Az elszámolóházi tevékenységet végző szervezet a befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató tulajdonát képező, és az ügyfeleiket megillető bármely pénzügyi eszközt és pénzeszközt egymástól és saját vagyonától elkülönítve köteles nyilvántartani.
+347. § (1) Az elszámolóházi tevékenységet végző szervezet az ügyfelei tulajdonát képező, és az azok ügyfeleit megillető bármely pénzügyi eszközt és pénzeszközt egymástól és a saját vagyonától elkülönítve köteles nyilvántartani.
 
 (2)
 
@@ -3534,7 +3561,7 @@ folytathat.
 - f) a központi értéktár által a szolgáltatást igénybe vevők részére felszámított díjat; és
 - g) az értékpapír kölcsönzés szabályait.
 
-(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek elszámolásával kapcsolatosan azt az időpontot, melyet követően a klíring, illetve elszámolási utasítás visszavonhatatlan.
+(3) Az üzletszabályzatban, illetve a szabályzatokban kell meghatározni az ügyletek teljesítésével kapcsolatosan azt az időpontot, amelyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak a központi értéktár ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
@@ -3588,7 +3615,11 @@ folytathat.
 - e) a garanciaalapok képzésének, igénybevételének, kezelésének rendjét,
 - f) az ügyfelek által a központi szerződő fél részére nyújtandó információ körét, az információnyújtás rendjét,
 - g) a központi szerződő fél által alkalmazható szankciók körét és a jogorvoslat rendjét,
-- h) a szolgáltatást igénybevevők részére felszámított díjat.
+- h) a szolgáltatást igénybevevők részére felszámított díjat,
+- i) az elszámolás és teljesítés rendjét,
+- j) a pénzszámlák számlavezetésének rendjét és szabályait, amennyiben a 340/D. § (2) bekezdés e) pontja szerinti tevékenységet végez,
+- k) a pénzkölcsönzés szabályait, amennyiben a 340/D. § (2) bekezdés d) pontja szerinti tevékenységet végez,
+- l) az ügylet elszámolásával kapcsolatosan azt az időpontot, melyet követően az ügyfél a megbízását nem vonhatja vissza.
 
 (3) A szabályzatoknak a központi szerződő fél ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
@@ -3616,11 +3647,15 @@ folytathat.
 
 (4) Az e § szerinti óvadék igénybevétele esetén a központi szerződő fél az ügyfelét az óvadék haladéktalan visszapótlására szólítja fel. Az óvadék az ügyfél bevételeiből minden más követelést megelőzően visszapótolandó.
 
-(5) A központi szerződő fél jogosult a tevékenységéhez kapcsolódó informatikai feladatokat kiszervezni. Abban az esetben, ha az informatikai feladatok kiszervezése olyan személy részére történik, amely megfelel a központi szerződő fél számára előírt technikai feltételeknek, akkor ezen előírások teljesítését a kiszervezett tevékenységet végző személynél kell vizsgálni.
+(5)
+
+(6) A központi szerződő fél az ügyfelei tulajdonát képező, és az azok ügyfeleit megillető bármely pénzügyi eszközt és pénzeszközt egymástól és a saját vagyonától elkülönítve köteles nyilvántartani.
+
+(7) A központi szerződő fél jogosult a szabályzatában meghatározott módon kockázatkezelési célra létrehozott garanciaalap kezelését végezni.
 
 ### XLVIII. Fejezet — BEFEKTETÉSI SZABÁLYOK
 
-351. § (1) Az elszámolóházi tevékenységet végző szervezet, a központi értéktár, valamint a központi szerződő fél nem szerezhet olyan részesedést, illetőleg nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel.
+351. § (1) Az elszámolóházi tevékenységet végző szervezet, a központi értéktár, valamint a központi szerződő fél nem szerezhet olyan részesedést, és nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel. A központi szerződő fél befektetései kapcsán a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben foglaltaknak meg kell felelni.
 
 (2) A központi értéktár közvetlen tulajdoni részesedést – a (3) bekezdés kivételével – kizárólag az általa folytatott tevékenység végzésével összefüggésben szerezhet
 
@@ -3658,8 +3693,9 @@ folytathat.
 (2) A kiszervezés
 
 - a) nem eredményezheti a vállalkozás vezető állású személyei hatáskörének átadását,
-- b) nem eredményezhet változást az ügyfél és a vállalkozás közötti szerződéses viszonyban és nem befolyásolhatja a vállalkozás ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését, és
-- c) nem eredményezhet változást az e törvény szerinti, tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
+- b) a központi értéktár, az elszámolóházi tevékenységet végző szervezet esetében
+  - ba) nem eredményezhet változást az ügyfél és a vállalkozás közötti szerződéses viszonyban és nem befolyásolhatja a vállalkozás ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését, és
+  - bb) nem eredményezhet változást az e törvény szerinti tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében.
 
 (3) Ha a vállalkozás e törvényben szabályozott tevékenységet, vagy kritikus funkcióját szervezi ki, a kiszervezésről szóló megállapodás megkötését megelőzően meggyőződik arról, hogy a leendő szerződő fél
 
@@ -3669,14 +3705,16 @@ folytathat.
 - d) rendelkezik-e mindazokkal a szervezeti megoldásokkal, működési és eljárási szabályokkal, valamint személyi és tárgyi feltételekkel, amelyek biztosítják, hogy a vállalkozás számára minden, a felügyeleti hatóság eljárásához szükséges információt és adatot az elvárt formában és határidőben szolgáltasson, és
 - e) rendelkezik-e olyan vészforgatókönyvvel, amely a vészhelyzetek megoldására és a biztonsági eszközök rendszeres felülvizsgálatára vonatkozó szabályokat tartalmazza.
 
-(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak.
+(4) A vállalkozás kritikus funkció kiszervezéséről szóló megállapodást csak azzal köthet, aki megfelel a (3) bekezdésben foglaltaknak, valamint a központi szerződő fél esetén a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendeletben foglaltaknak.
+
+(4a) A központi szerződő fél a kockázatkezeléshez kapcsolódó főbb tevékenységének kiszervezéséhez a Felügyelet engedélye szükséges.
 
 (5) A vállalkozás az (1) bekezdésben meghatározott tevékenysége vagy szolgáltatása kiszervezésére harmadik országban székhellyel rendelkező személlyel vagy szervezettel akkor köthet megállapodást, ha a leendő szerződő megfelel a (3) bekezdésben foglaltaknak, valamint:
 
 - a) a székhelye szerinti állam e tevékenység végzésére irányadó jogszabályainak és a hatáskörrel rendelkező felügyeleti hatóság prudenciális felügyelete alatt áll, és
 - b) a kiszervezett tevékenységére nézve hatáskörrel rendelkező felügyeleti hatóság és a Felügyelet között együttműködési megállapodás van hatályban.
 
-(6) A (3) és (4) bekezdés alkalmazásában kritikus funkciónak minősül minden olyan funkció, amelynek végrehajtásában tapasztalható hiányosság vagy eltérés kétségessé teszi a vállalkozás e törvényben előírt kötelezettségeinek teljesítését, jövedelmezőségét vagy a befektetési szolgáltatási tevékenység végzésének folyamatosságát.
+(6) A (3) és (4) bekezdés alkalmazásában kritikus funkciónak minősül minden olyan funkció, amelynek végrehajtásában tapasztalható hiányosság vagy eltérés kétségessé teszi a vállalkozás e törvényben előírt kötelezettségeinek teljesítését, jövedelmezőségét vagy a befektetési szolgáltatási tevékenység végzésének folyamatosságát, valamint központi szerződő fél esetén olyan funkció vagy tevékenység, amely a kockázatkezeléshez kapcsolódik.
 
 (7) Nem minősül a (3) és (4) bekezdés alkalmazásában kritikus funkciónak
 
@@ -3719,6 +3757,8 @@ folytathat.
 
 353. § (1) Az elszámolóház elleni felszámolási eljárás során a hitelintézetek felszámolására vonatkozó általános szabályokat a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
+(1a) A 340/D. § (2) bekezdés d) vagy e) pontjában meghatározott tevékenységet végző központi szerződő fél elleni felszámolási eljárás során a hitelintézetek felszámolására vonatkozó általános szabályokat a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
 (2) Az elszámolóházi tevékenységet végző szervezet, valamint a központi szerződő fél ellen indított felszámolási eljárás esetén nem tartozik az elszámolóházi tevékenységet végző szervezet, központi szerződő fél felszámolási vagyonába a 346. §-ban, illetve a 350/F. §-ban meghatározott biztosíték és óvadék.
 
 (3) Az elszámolóházi tevékenységet végző szervezettel, a központi szerződő féllel szembeni számlakövetelések kielégítésére – a Cstv. 57. §-ában meghatározott kielégítési sorrendtől eltérően – a felszámolási költségek kielégítését követően kerül sor.
@@ -3747,11 +3787,11 @@ folytathat.
 
 ### LI. Fejezet — RÉSZVÉNYKÖNYV VEZETÉS
 
-355. § (1) A befektetési vállalkozás, részvénytársasági formában működő árutőzsdei szolgáltató, befektetési alapkezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár részvényeiről és a részvények tulajdonosairól olyan részvénykönyvet köteles a befektetési vállalkozás igazgatósága vezetni, amely legalább a következő adatokat tartalmazza:
+355. § (1) A befektetési vállalkozás, részvénytársasági formában működő árutőzsdei szolgáltató, befektetési alapkezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár részvényeiről és a részvények tulajdonosairól olyan részvénykönyvet köteles a befektetési vállalkozás igazgatósága vezetni, amely legalább a következő adatokat tartalmazza:
 
 - a) a részvénytulajdonos nevét, természetes személy esetén lakcímét, anyja nevét, állampolgárságát, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság esetén székhelyét;
 - b) ha a részvénynek több tulajdonosa van, akkor a tulajdonosok és a közös képviselő a) pontban meghatározott adatait;
-- c) a részvény értékpapírkódját, illetőleg sorozatát és névértékét;
+- c) a részvény értékpapírkódját, valamint sorozatát és névértékét;
 - d) a részvény fajtáját;
 - e) a részvényszerzés időpontját;
 - f) a részvényszerzés részvénykönyvbe történő bejegyzésének időpontját;
@@ -3767,11 +3807,11 @@ folytathat.
 
 ### Vezető állású személyekre és minősített befolyással rendelkezőkre vonatkozó feltételek
 
-356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
+356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi szerződő félnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki,
 
-- a) felsőfokú végzettséggel rendelkezik;
-- b) legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
-- c) hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+- a) aki felsőfokú végzettséggel rendelkezik;
+- b) aki legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
+- c) aki hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
 (2) A pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személynek az választható meg, aki megfelel az (1) bekezdésben meghatározott feltételeknek.
@@ -3792,27 +3832,27 @@ folytathat.
 
 ### Könyvvizsgálat
 
-358. § (1) A nyilvánosan forgalomba hozott értékpapír kibocsátó, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár által – a Gt.-nek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
+358. § (1) A kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve központi értéktár által – a Gt.-nek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
 (2)–(4)
 
-(5) A nyilvánosan forgalomba hozott értékpapír kibocsátó, a tőzsde, illetve az elszámolóházi tevékenységet végző szervezet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a nyilvánosan forgalomba hozott értékpapír kibócsátónál, tőzsdénél, illetve elszámolóházi tevékenységet végző szervezetnél, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, illetve elszámolóházi tevékenységet végző szervezetnél – könyvvizsgálói feladatot.
+(5) A nyilvánosan forgalomba hozott értékpapír kibocsátó, a tőzsde, a központi szerződő fél, illetve az elszámolóházi tevékenységet végző szervezet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, központi szerződő félnél, illetve elszámolóházi tevékenységet végző szervezetnél, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, a központi szerződő félnél, illetve elszámolóházi tevékenységet végző szervezetnél – könyvvizsgálói feladatot.
 
-(6) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy – egyidejűleg – legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és az egy intézménytől származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, tőzsdétől és elszámolóházi tevékenységet végző szervezettől, illetve a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) hatvan százalékát.
+(6) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy – egyidejűleg – legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és az egy intézménytől származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, tőzsdétől, központi szerződő féltől és elszámolóházi tevékenységet végző szervezettől, illetve a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) hatvan százalékát.
 
-(7) Az (1) bekezdésben foglaltakon túlmenően további követelmény a könyvvizsgáló céggel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy intézménytől származó bevétele nem haladhatja meg az éves nettó árbevételének tíz százalékát. A könyvvizsgáló cégnek az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, kockázati tőkealap-kezelőtől, tőzsdétől, elszámolóházi tevékenységet végző szervezettől, valamint központi értéktártól a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített bevétele nem haladhatja meg az éves nettó árbevételének harminc százalékát.
+(7) Az (1) bekezdésben foglaltakon túlmenően további követelmény a könyvvizsgáló céggel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy intézménytől származó bevétele nem haladhatja meg az éves nettó árbevételének tíz százalékát. A könyvvizsgáló cégnek az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátótól, hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól, befektetési alapkezelőtől, kockázati tőkealap-kezelőtől, tőzsdétől, elszámolóházi tevékenységet végző szervezettől, központi szerződő féltől, valamint központi értéktártól és a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített bevétele nem haladhatja meg az éves nettó árbevételének harminc százalékát.
 
 359. §
 
-360. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
+360. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
 - a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
-- b) bűncselekmény elkövetésére vagy a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár belső szabályzatának, kockázati tőkealap kezelési szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-- c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
-- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
+- b) bűncselekmény elkövetésére vagy a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár belső szabályzatának, kockázati tőkealap kezelési szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
+- c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
 - e) úgy ítéli meg, hogy kockázati tőkealap-kezelő tevékenysége folytán a befektetők érdekei veszélyben forognak;
-- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
-- g) jelentős véleménykülönbség alakult ki közte és a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezetése között a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
+- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
+- g) jelentős véleménykülönbség alakult ki közte és a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezetése között a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
 
 (2)
 
@@ -3821,15 +3861,15 @@ folytathat.
 - a) a könyvvizsgáló jogosult a Felügyelettel konzultálni, illetőleg a Felügyeletet tájékoztatni,
 - b) a Felügyelet jogosult a könyvvizsgálótól közvetlenül tájékoztatást kérni és kapni.
 
-361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdésének d) pontjában meghatározott intézkedésként a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
+361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdés d) pontjában meghatározott intézkedésként a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
 
 362. §
 
-363. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+363. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
-(2) A Felügyelet jogosult a könyvvizsgáló Tpt. 360. § (3) bekezdés b) pontja szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a kockázati tőkealap-kezelőnél, a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, illetve a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
+(2) A Felügyelet jogosult a könyvvizsgáló a 360. § (3) bekezdés b) pontja szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a kockázati tőkealap-kezelőnél, a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, a központi szerződő félnél, illetve a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
 
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár köteles a Felügyeletnek bemutatni.
+(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szmt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár köteles a Felügyeletnek bemutatni.
 
 ### Kereskedelmi kommunikációra vonatkozó külön rendelkezés
 
@@ -3871,7 +3911,11 @@ folytathat.
 
 (5) Befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi értéktár, központi szerződő fél jogutód nélküli megszűnése esetén a megszűnt szervezet által kezelt üzleti, illetőleg értékpapírtitkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
 
-372–374. §
+372. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a központi értéktári, a központi szerződő fél, valamint az elszámolóházi tevékenység végzése érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
+
+373. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás.
+
+374. §
 
 ### Összesített adatok átadása
 
@@ -3891,7 +3935,7 @@ folytathat.
 - d) a tőzsdei ügylettel;
 - e) a befektetési vállalkozás, hitelintézet és ügyfele között pénzügyi eszközre vonatkozó megbízás elfogadásának megtagadásával;
 - f) a tőzsde szabályzatával;
-- g) az elszámolóházi tevékenységet végző szervezet és a központi értéktár alapszabályával, üzletszabályzatával és szabályzataival;
+- g) az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapszabályával, üzletszabályzatával és szabályzataival;
 - h) pénzügyi szolgáltatással és kiegészítő pénzügyi szolgáltatással;
 - i) a befektetési és pénzügyi szolgáltatók kizárólagosságot nem sértő egyéb szolgáltatási tevékenységével
 
@@ -3987,7 +4031,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, a központi szerződő fél, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,1 ezreléke.
 
-(6) Ha elszámolóház központi értéktári, illetve központi szerződő fél tevékenységet is végez, akkor a központi értéktárra, illetve központi szerződő félre vonatkozó díjfizetés alól mentesül.
+(6) Ha elszámolóház központi értéktári, tevékenységet is végez, akkor a központi értéktárra, vonatkozó díjfizetés alól mentesül.
 
 382–385. §
 
@@ -4017,29 +4061,28 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-- a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár neve, székhelye;
-- b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár alapításának időpontja;
-- c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenységi köre;
-- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár jegyzett tőkéjének mértéke;
-- e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
-- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár vezető állású személyei;
-- g)
-- h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenysége megkezdésének időpontja;
-- i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
-- j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár fióktelepe létesítésének időpontja és helye;
-- k) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
-- l) a kibocsátó neve, székhelye;
-- m) a kibocsátó alapításának időpontja;
-- n) a kibocsátó jegyzett tőkéjének nagysága;
-- o) a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
-- p) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
-- q) a forgalomba hozatal adatai;
-- r) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
-- s) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
-- t)
+- a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár neve, székhelye;
+- b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár alapításának időpontja;
+- c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenységi köre;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
+- e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő él és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár vezető állású személyei;
+- g) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
+- h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+- i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
+- j) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
+- k) a kibocsátó neve, székhelye;
+- l) a kibocsátó alapításának időpontja;
+- m) a kibocsátó jegyzett tőkéjének nagysága;
+- n) a kibocsátó vezető állású személyeinek családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban: természetes személyazonosító adatai), lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+- o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
+- p) a forgalomba hozatal adatai;
+- q) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
+- r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+- s) az engedélyezett tájékoztató;
+- t) a közzétételre kötelezett által megjelölt közzétételi hely.
 - u)–v)
-- x) az engedélyezett tájékoztató;
-- y) a közzétételre kötelezett által megjelölt közzétételi hely.
+- x)–y)
 
 (2) A Felügyelet nyilvántartásba veszi:
 
@@ -4064,12 +4107,12 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 394. § (1) A Felügyelet feladata ellátása érdekében kezelheti
 
-- a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
+- a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 - b) a tőzsdében történő tulajdonszerzés engedélyezése iránti kérelmet benyújtó személy, illetve a tőzsde tulajdonosának a 308. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
-- c) az általa folytatott eljárás keretében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár ügyfelének adatait;
-- d) a bejelentésre kötelezett bennfentes személy adatait;
-- e) a Psztv. szerinti piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó értékpapír-, ügyfél- és fizetési számla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos természetes személyazonosító adatot, az állampolgárságát, a lakóhelyét, a tartózkodási helyét, ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges;
-- f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében 1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy, 2–3. 4. a tőzsde tisztségviselője és alkalmazottja, 5. az elszámolóházi tevékenységet végző szervezet illetőleg a központi értéktár vezető állású személye és alkalmazottja, 6. az ügynök, 7. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja, 8. adatait;
+- c) a Psztv. 53. §-a szerinti ellenőrzési eljárás során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;
+- d) a bejelentésre kötelezett bennfentes jogi személy azonosító adatait, bennfentes természetes személy esetében a természetes személyazonosító adatait, lakcímét, valamint az ügylet azonosító adatait;
+- e) a Psztv. szerinti piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó értékpapír-, ügyfél- és fizetésiszámla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos természetes személyazonosító adatot, az állampolgárságát, a lakóhelyét, a tartózkodási helyét, ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges;
+- f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében 1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy, 2. a tőzsde tisztségviselője és alkalmazottja, 3. az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél vagy a központi értéktár vezető állású személye és alkalmazottja, 4. az ügynök, 5. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja természetes személyazonosító adatait;
 - g)
 - h) a befolyásszerzés mértékének ellenőrzése érdekében a nyilvánosan működő részvénytársaság tulajdonosainak adatait;
 - i) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozással szoros kapcsolatban álló személy adatait;
@@ -4078,7 +4121,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 - l)
 - m) a piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó, az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával kapcsolatos személyes adatot (családi és utónév, születési név, lakóhely, tartózkodási hely), ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges. Az adat megismeréséhez az ügyész előzetes jóváhagyása szükséges. A jóváhagyást az ügyész abban az esetben tagadja meg, ha a Felügyelet nem valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges vagy az adatkezelés egyéb törvényi feltételei nem állnak fenn.
 
-(2) Az (1) bekezdés, a 391. § (1) bekezdésének u) pontja, valamint a 391. § (2) bekezdése vonatkozásában a Felügyelet az érintett természetes személyazonosító adatait, állampolgárságát és lakcímét, tartózkodási helyét, valamint az engedélyezési és ellenőrzési célú adatkezelés során a befektetés, tulajdoni részesedés, szakképzettség, szakmai gyakorlat, választott tisztség, beosztás, munkaviszony, büntetlenség és a 357. §-ban meghatározott kizáró okok megállapításához szükséges adatokat kezeli.
+(2) Az (1) bekezdés, a 391. § (2) bekezdése vonatkozásában a Felügyelet az érintett természetes személyazonosító adatait, állampolgárságát és lakcímét, valamint az engedélyezési és ellenőrzési célú adatkezelés során a befektetés, tulajdoni részesedés, szakképzettség, szakmai gyakorlat, választott tisztség, beosztás, munkaviszony, büntetlenség és a 357. §-ban meghatározott kizáró okok megállapításához szükséges adatokat kezeli.
 
 (3) A jogi személy vagy jogi személyiséggel nem rendelkező más gazdasági társaság azonosító adatai:
 
@@ -4099,7 +4142,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 - a) a vezető tisztségviselői megbízatás, felügyelő bizottsági tagság, munkaviszony és tőzsdei tisztségviselői megbízatás megszűnésétől számított öt évig,
 - b) az ügynök tevékenységének megszüntetését követő öt évig,
-- c) a tőzsdében, az elszámolóházi tevékenységet végző szervezetben, a központi értéktárban meglévő tulajdon elidegenítésétől számított tíz évig,
+- c) a tőzsdében, az elszámolóházi tevékenységet végző szervezetben, a központi értéktárban, központi szerződő félben meglévő tulajdon elidegenítésétől számított tíz évig,
 - d) a bennfentes kereskedelem, piacbefolyásolás és ügyféllel kapcsolatos eljárás esetén a felügyeleti eljárás lezárásától számított tíz évig,
 - e) a nyilvánosan működő részvénytársaságban történő befolyás megszűnésétől számított öt évig, és
 - f) az a)–e) pontban meg nem határozott esetekben a Felügyelet birtokába kerülésétől számított öt évig
@@ -4108,12 +4151,12 @@ kezelheti.
 
 ### Adatszolgáltatás
 
-395. § (1) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) és k) pontban foglaltak kivételével – közzétenni:
+395. § (1) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) pontban foglaltak kivételével – közzétenni:
 
 - a) valamely engedélyezett tevékenység megkezdését;
 - b) a részvényesei nevét (cégnevét), illetve tulajdoni és szavazati hányadukat;
 - c) a járulékos vállalkozásban történő befolyásszerzést, illetve a befolyás megszűnését;
-- d) a 356. §-ban és a 11. számú mellékletben meghatározott személyi körben bekövetkezett változást;
+- d) a 356. §-ban és a Batv. 8. § (5)–(8) bekezdésében meghatározott személyi körben bekövetkezett változást;
 - e) az ügynökkel kötött szerződés megkötését, módosítását és megszűnését;
 - f) fióktelepének, képviseletének megnyitását és megszűnését;
 - g) a közgyűlésének összehívását a napirend közlésével, valamint a közgyűlés által hozott határozatokat, az utóbbiak lényeges tartalmának összefoglalásával;
@@ -4127,7 +4170,7 @@ kezelheti.
 - b) ha az alapító vagy annak bármely államban működő fióktelepe fizetésképtelenné vált, vagy ellene csőd-, illetve felszámolási eljárás indult,
 - c) ha az alapító székhelye szerinti felügyeleti hatóság az adott intézménnyel, vagy bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-(3) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.
+(3) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.
 
 (4) A bejelentési kötelezettségének
 
@@ -4144,7 +4187,7 @@ kell eleget tenni.
 
 (5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 
@@ -4190,7 +4233,7 @@ kell eleget tenni.
 
 399. § (1)
 
-(2) A Felügyelet külföldi felügyeleti hatósággal kötött, tőzsdei kereskedési joggal rendelkező vállalkozások felügyeletére is kiterjedő nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
+(2) A Felügyelet külföldi felügyeleti hatósággal kötött, tőzsdei kereskedési joggal rendelkező vállalkozások felügyeletére is kiterjedő nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, központi szerződő fél alapszabályában vagy szabályzatában illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
 
 (3) Ha a Felügyelet megállapítja, hogy valamely más tagállamban székhellyel rendelkező kibocsátó, illetőleg forgalmazó a nyilvános forgalomba hozatal szabályait megsértette, illetőleg hogy a Magyarországon szabályozott piacra bevezetett értékpapír más tagállamban székhellyel rendelkező kibocsátója megsértette a forgalomban tartással kapcsolatos kötelezettségeit, értesíti a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot.
 
@@ -4208,31 +4251,28 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
-- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsdei tevékenységre, az elszámolóházi, illetve központi értéktári tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
-- b) az engedély nélküli tőzsdei, elszámolóházi, illetve központi értéktári tevékenység folytatását megtilthatja;
+- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsde által végzett tevékenységre, az elszámolóház által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
+- b) az engedély nélkül tőzsdei, elszámolóházi, a központi szerződő fél által végzett, illetve központi értéktári tevékenység folytatását megtilthatja;
 - c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet;
-- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
-- e) kötelezheti a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
-- f) a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
-- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
+- e) kötelezheti a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
+- f) a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
+- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
 - h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
 - i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék kereskedésből történő kivezetését;
-- j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár tevékenységi engedélyét visszavonhatja;
+- j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
 - k) a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
-- l) felügyeleti biztost rendelhet ki a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, illetve a központi értéktárhoz;
+- l) felügyeleti biztost rendelhet ki a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, központi szerződő félhez illetve a központi értéktárhoz;
 - m) törvényben meghatározott esetben és mértékben bírságot szabhat ki;
 - n) meghatározott időszakra felfüggesztheti az értékpapír forgalomba hozatalát, a pénzügyi eszköz forgalmazását, a nyilvánosan működő részvénytársaságban történő befolyásszerzésre irányuló nyilvános vételi ajánlatra vonatkozó eljárást;
 - o) ha törvény alapján a részvényes a részvénytársasággal szemben tagsági jogait nem gyakorolhatja, ezt a tényt a Felügyelet határozatban megállapítja, és szükség esetén elrendelheti a tagsági jogok gyakorlásának felfüggesztését;
 - p) más illetékes hatóságnál eljárást kezdeményezhet;
-- q)
-- r) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár 1. osztalékának kifizetését, 2. vezető állású személyének történő kifizetést, 3. tulajdonosainak e szervezetektől való kölcsönfelvételét, illetve, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak, 4. tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést, 5. hitel- vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását), 6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
-- s) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. a működési költségek csökkentésére, 4. megfelelő nagyságú tartalék képzésére;
-- t) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
-- u)
-- v) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
-- w) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza.
-- x)
-- y)
+- q) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, központi szerződő fél, illetve a központi értéktár 1. osztalékának kifizetését, 2. vezető állású személyének történő kifizetést, 3. tulajdonosainak e szervezetektől való kölcsönfelvételét, illetve, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak, 4. tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést, 5. hitel- vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását), 6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
+- r) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, illetve a központi értéktárat 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. a működési költségek csökkentésére, 4. megfelelő nagyságú tartalék képzésére;
+- s) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
+- t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
+- u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
+- v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja.
 
 (2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
@@ -4252,13 +4292,13 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg a Bszt. kiszervezésre vonatkozó előírásainak.
 
-(8) A Felügyelet az (1) bekezdés r) pontja 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
+(8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
 (9)
 
 ### A felügyeleti biztos
 
-401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár
+401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve központi értéktár
 
 - a) olyan helyzetbe kerül, amelyben fennáll annak a veszélye, hogy kötelezettségeinek nem tud eleget tenni;
 - b) igazgatósága (más vezető állású személye) nem tudja ellátni feladatát, és ez veszélyezteti a befektetők érdekeit;
@@ -4266,7 +4306,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (2) Az (1) bekezdés b) pontjában meghatározott helyzet különösen akkor áll fenn, ha
 
-- a) a tulajdonosok vagy a fióktelep alapítója a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
+- a) a tulajdonosok vagy a fióktelep alapítója a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
 - b) az igazgatóság a közgyűlést felügyeleti intézkedés ellenére nem hívja össze.
 
 (3) A Felügyelet a szabályozott piacra, tőzsdére felügyeleti biztost akkor rendelhet ki, ha a szabályozott piacnak, tőzsdének nincs a 317. § (4) bekezdés a)–d) és h) pontjaiban meghatározott érvényes szabályzata, vagy harminc napnál hosszabb időtartam alatt az igazgatóság megválasztására, illetve az ügyvezető kinevezésére nem kerül sor. A felügyeleti biztos feladatait és jogkörét a kirendelő határozat tartalmazza.
@@ -4275,18 +4315,18 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (5) A felügyeleti biztos javaslata alapján a Felügyelet harminc napon belül határozatot hoz a továbbiakban alkalmazandó intézkedésekről.
 
-402. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a kockázati tőkealap-kezelő, a szabályozott piac, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár igazgatósági tagjainak a gazdasági társaságokra vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+402. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a kockázati tőkealap-kezelő, a szabályozott piac, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár igazgatósági tagjainak a gazdasági társaságokra vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
 (2) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(3) A (2) bekezdéstől eltérően az igazgatóság, és a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a kockázati tőkealap-kezelővel, a szabályozott piaccal, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a kockázati tőkealap-kezelőt, a szabályozott piacot, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
+(3) A (2) bekezdéstől eltérően az igazgatóság és a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a kockázati tőkealap-kezelővel, a szabályozott piaccal, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi szerződő féllel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a kockázati tőkealap-kezelőt, a szabályozott piacot, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi szerződő felet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
 
 (4) A felügyeleti biztos feladata:
 
-- a) a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vagyoni helyzetének felmérése;
+- a) a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vagyoni helyzetének felmérése;
 - b) az ügyfélkövetelések teljesíthetőségének felmérése;
-- c) az a) és b) pontban előírtakhoz szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár nyilvántartásának helyreállítása; és
-- d) a szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár működtetése.
+- c) az a) és b) pontban előírtakhoz szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár nyilvántartásának helyreállítása; és
+- d) a szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár működtetése.
 
 (5)
 
@@ -4294,7 +4334,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 ### Az Európai Unió másik tagállamában székhellyel rendelkező intézmények fióktelepének felügyelete
 
-404. § (1) Ha az Európai Unió másik tagállamában székhellyel rendelkező kockázati tőkealap-kezelő, szabályozott piac, tőzsde, elszámolóház, illetve központi értéktár fióktelepe megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet felszólítja a fióktelepet a szabályellenes helyzet megszüntetésére.
+404. § (1) Ha az Európai Unió másik tagállamában székhellyel rendelkező kockázati tőkealap-kezelő, szabályozott piac, tőzsde, elszámolóház, központi szerződő fél, illetve központi értéktár fióktelepe megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet felszólítja a fióktelepet a szabályellenes helyzet megszüntetésére.
 
 (2) Ha a fióktelep a felszólításnak nem tesz eleget, a Felügyelet értesíti az Európai Unió másik tagállamának illetékes felügyeleti hatóságát a szabályellenes helyzetről, illetőleg kezdeményezi, hogy a hatáskörrel rendelkező felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
@@ -4314,7 +4354,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a kockázati tőkealap-kezelőt, tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
 
-(2)
+(2) A Felügyelet a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti nem pénzügyi szerződő felet a rendelet 4. és 9–11. cikkében előírt kötelezettsége megsértése esetén bírság megfizetésére kötelezheti.
 
 ### A bírság összege
 
@@ -4920,7 +4960,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 20. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
 - 21. A Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
 - 22. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
-- 23.
+- 23. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.
 - 24. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 - 25. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 - 26. Az Európai Parlament és a Tanács 2010. november 24-i 2010/73/EU irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról szóló 2003/71/EK és a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv módosításáról.

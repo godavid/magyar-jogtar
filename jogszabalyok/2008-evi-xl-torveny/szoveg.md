@@ -1055,7 +1055,7 @@ földgázrendszerhez való hozzáférés
 
 91/A. § (1) Az egyensúlyozó platformot a szállítási rendszerirányító működteti.
 
-(2) Az egyensúlyozó platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a szállítási rendszerirányító által kiírt pályázaton nyertes elszámolóház végzi.
+(2) Az egyensúlyozó platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a szállítási rendszerirányító által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet végzi.
 
 (3) Az egyensúlyozó platformon ügyletet kizárólag az egyensúlyozó platformon tagsággal rendelkezők köthetnek. Az egyensúlyozó platform tagja lehet
 
@@ -1075,7 +1075,7 @@ ha megfelel az egyensúlyozó platform szabályzatában meghatározott követelm
 
 (6) A szállítási rendszerüzemeltető és a rendszerhasználók a hidraulikai és a kereskedelmi egyensúly biztosításához a 91. § (3) bekezdése szerinti saját rendelkezésű egyensúlyozó eszközök mellett az egyensúlyozó platformon beszerzett, valamint értékesített földgázmennyiségeket vehetnek igénybe.
 
-(7) Az egyensúlyozó platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerirányítóval, az ügyletek pénzügyi elszámolására az elszámolóházzal szerződést köt. A piaci szereplők közötti adásvétel az elszámolóház közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik. Az egyensúlyozó platform működtetésének díját a szállítási rendszerirányítási díj tartalmazza.
+(7) Az egyensúlyozó platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerirányítóval, az ügyletek pénzügyi elszámolására központi szerződő féllel vagy elszámolóházi tevékenységet végző szervezettel szerződést köt. A piaci szereplők közötti adásvétel a központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik. Az egyensúlyozó platform működtetésének díját a szállítási rendszerirányítási díj tartalmazza.
 
 (8) Az egyensúlyozó platformot működtető engedélyes köteles együttműködni a szervezett földgázpiaci engedélyessel.
 

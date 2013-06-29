@@ -21,7 +21,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 (5a) E törvény alkalmazásában:
 
 - a) beszállítói ügylet: a magyar árukat és szolgáltatásokat exportáló devizabelföldi gazdálkodó szervezet és más devizabelföldi gazdálkodó szervezet által megkötött olyan szerződés, amelynek tárgya az exportáló devizabelföldi gazdálkodó szervezet által devizakülföldi gazdálkodó szervezettel kötött, magyar áruk vagy szolgáltatások exportjára irányuló szerződésben foglalt kötelezettség teljesítéséhez szükséges áruszállítás vagy szolgáltatás-nyújtás,
-- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását elősegítő befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
+- b) exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
@@ -39,7 +39,13 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
   - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től;
   - gb) kötvények kibocsátása.
 
-(2) Az Eximbank a pénzkölcsön nyújtása keretében az export finanszírozása érdekében kedvező kamatozású hitelt és kötött segélyhitelt nyújthat devizabelföldi és devizakülföldi hitelintézeteknek, a magyar áruk és szolgáltatások kivitelét végző gazdálkodó szervezeteknek és az ezen árukat, szolgáltatásokat megvásárló (igénybe vevő) devizakülföldieknek. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
+(2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek és kedvező kamatozású hiteleket nyújthat
+
+- a) devizabelföldi és devizakülföldi hitelintézeteknek,
+- b) a belföldi székhelyű, magyar árukat, szolgáltatásokat exportáló gazdálkodó szervezeteknek (a továbbiakban: exportőr),
+- c) az exportőr exportjának teljesítését az 1. § (5a) bekezdés a) pontjában meghatározottak szerint elősegítő beszállítóknak,
+- d) az exportot az 1. § (5a) bekezdés b) pontjában meghatározottak szerint elősegítő, belföldi vagy külföldi befektetést megvalósító exportőrnek,
+- e) a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
 (3) Az (1) bekezdés f) pontjában meghatározott tevékenységet az Eximbank kizárólag az adott ügylettel kapcsolatban végezhet, olyan gazdasági társaságok, egyéni cégek és egyéni vállalkozók (a továbbiakban: ügyfelek) részére, amelyeknek hitelt nyújtott, vagy amelyekért garanciát vállalt, a hitel-, illetve a garanciajogviszony fennállásáig.
 
@@ -253,7 +259,9 @@ szerzett.
 
 - a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott exportcélú hitelnél és pénzkölcsönnél,
 - b) az Eximbank által olyan külföldi vevőnek nyújtott hitelnél és pénzkölcsönnél, amikor a célország hitelminősítési besorolása a Gazdasági Együttműködési és Fejlesztési Szervezet „Hivatalosan támogatott exporthitelekről szóló megállapodásban” foglalt módszerek szerint legalább 3 vagy annál jobb és a célország központi költségvetése vagy központi bankja garantálja a hitel és a pénzkölcsön visszafizetését,
-- c) az Eximbank által külföldi vevőnek nyújtott és a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél,
+- c) a bankgaranciával fedezett összeg mértékéig az Eximbank által nyújtott,
+  - ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, vagy
+  - cb) olyan hitelintézet bankgaranciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
 - d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib Rt. nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.
 
 22. §

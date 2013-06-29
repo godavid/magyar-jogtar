@@ -358,7 +358,7 @@ a viszontbiztosítókról
 - b) valamennyi érintett tagállam felügyeleti hatóságának hozzájárulása,
 - c) a választott illetékes felügyeleti hatóság indokolással történő megjelölése.
 
-(6) A (2) bekezdés a) pontja szerinti megállapodások megkötéséről szóló tájékoztatót a Felügyelet a Pénzügyi Közlönyben teszi közzé.
+(6) A (2) bekezdés a) pontja szerinti megállapodások megkötéséről szóló tájékoztatót a Felügyelet internetes honlapján közzéteszi és gondoskodik róla, hogy ezen információk a honlapon folyamatosan elérhetőek legyenek.
 
 (7) A Felügyelet eseti tájékoztatást kérhet a harmadik országbeli viszontbiztosító fióktelepétől a terjesztett viszontbiztosítási szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy azok megfelelnek a jogszabályoknak.
 

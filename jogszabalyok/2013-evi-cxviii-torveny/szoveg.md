@@ -77,72 +77,7 @@ egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, va
 
 #### 5. A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosítása
 
-11. § A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NET tv.) 1. §-a a következő l) ponttal egészül ki:
-
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában)
-
-„l) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésébe adott, az e törvény szerint nem lakóingatlannak és nem lakhatási célú ingatlannak minősülő egyéb ingatlan, valamint a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan, amelyre nézve a bérleti jogviszony megszűnt és jogszabályban meghatározott módon hasznosításra kerül.”
-
-12. § A NET tv. 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Eszközkezelő)
-
-„c) az általa megvásárolt lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan (a továbbiakban együtt: ingatlan) felett vagyonkezelői jogot gyakorol,”
-
-13. § A NET tv. 7/A. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az (1) bekezdés szerinti tulajdonba adás az (1) bekezdésben meghatározott feltétel hiányában akkor is kezdeményezhető, ha a települési önkormányzat az önkormányzati tulajdonba adás kezdeményezésének időpontjáig valamennyi – a közigazgatási területén lévő – olyan lakóingatlan átvételét vállalja, amelyre vonatkozóan az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az e törvény szerint létrejött bérleti jogviszony megszűnt.”
-
-14. § A NET tv. 21. § (1) bekezdése a következő mondattal egészül ki:
-
-„A fennmaradó vételárhányadot az ingatlanra korábban árverést kitűző végrehajtónak, ha pedig az árverés kitűzésére még nem került sor, annak a végrehajtónak kell kifizetni, aki által lefolytatott végrehajtási eljárásban a legkorábban került bejegyzésre a végrehajtási jog az ingatlan-nyilvántartásba.”
-
-15. § (1) A NET tv. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Nemzeti Eszközkezelő
-
-a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra,
-
-b) a pályázat alapján kiválasztott, jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel a lakhatási célú ingatlanra és
-
-c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel – jogszabályban meghatározott feltételek mellett – a tartalék ingatlanra
-
-[az a)–c) pont szerinti személy a továbbiakban együtt: bérlő] lakásbérleti szerződést köt.”
-
-(2) A NET tv. 22. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Az (1) bekezdés a) és b) pontjában meghatározott esetben kizárólag határozatlan időre szóló bérleti szerződés köthető.”
-
-16. § A NET tv. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha lakásbérleti jogviszony megszűnik, az üresen maradt ingatlanra a Nemzeti Eszközkezelő más, e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő bérlővel bérleti szerződést köthet.”
-
-17. § A NET tv. 25. §-a a következő h) és i) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára és a bérlő kötelezettségeire,
-
-i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat.”
-
-18. § A NET tv.
-
-- a) 7. § (1) bekezdésében a „lakóingatlanok” szövegrész helyébe az „ingatlanok” szöveg,
-- b) 8. § (1) bekezdés d) pontjában az „ingatlan” szövegrész helyébe a „lakóingatlan” szöveg,
-- c) 13. § (1) bekezdésében az „az ingatlan” szövegrész helyébe az „a lakóingatlan” szöveg,
-- d) 13. § (6) bekezdésében az „az ingatlanon” szövegrész helyébe az „a lakóingatlanon” szöveg,
-- e) 13/A. § (3) bekezdésében az „ingatlan” szövegrész helyébe a „lakóingatlan” szöveg,
-- f) 16. § (2) bekezdésében az „az ingatlan” szövegrész helyébe az „a lakóingatlan” szöveg,
-- g) 19. §-ban az „az ingatlant” szövegrész helyébe az „a lakóingatlant” szöveg,
-- h) 21. § (2) bekezdésében az „az ingatlanra” szövegrész helyébe az „a lakóingatlanra” szöveg,
-- i) 23. § a) pontjában az „a lakóingatlanba, illetve a lakhatási célú ingatlanba” szövegrész helyébe az „az ingatlanba” szöveg,
-- j) 23. § c) pontjában az „a lakóingatlanban, illetve a lakhatási célú ingatlanban” szövegrész helyébe az „az ingatlanban” szöveg,
-- k) 23. § e) pontjában a „lakásban” szövegrész helyébe az „ingatlanban” szöveg,
-- l) 23. § f) pontjában az „a lakóingatlannal” szövegrész helyébe az „a lakóingatlannal és a tartalék ingatlannal” szöveg,
-- m) 23. § h) pontjában az „a lakóingatlan, illetve a lakhatási célú ingatlan” szövegrész helyébe az „az ingatlan” szöveg,
-- n) 30. § (1) bekezdésében az „ingatlanok” szövegrész helyébe a „lakóingatlanok” szöveg
-
-lép.
+11–18. §
 
 #### 6. Záró rendelkezés
 
