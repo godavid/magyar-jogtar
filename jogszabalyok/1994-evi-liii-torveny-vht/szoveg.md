@@ -782,7 +782,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Nincs helye a végrehajtás megszüntetésének az (1) bekezdés a) pontjában foglalt esetben, ha a végrehajtási költség megfizetésére a 34. és 41. § szerint nem került sor.
 
-56. § (1) A végrehajtást elrendelő bíróság végzéssel megszünteti, illetőleg korlátozza a végrehajtást, ha közokirat alapján megállapította, hogy a végrehajtandó határozatot jogerős határozat hatályon kívül helyezte, illetőleg megváltoztatta. A bíróság a végrehajtást megszüntető végzésében arról is rendelkezik, hogy ki viseli a végrehajtási költséget.
+56. § (1) A végrehajtást elrendelő bíróság végzéssel megszünteti, illetőleg korlátozza a végrehajtást, ha közokirat alapján megállapította, hogy a végrehajtandó határozatot jogerős határozat hatályon kívül helyezte, illetőleg megváltoztatta vagy jogerős bírósági határozat – ide nem értve a végrehajtás megszüntetési (korlátozási) perben hozott jogerős határozatot – megállapította, hogy a végrehajtási záradékkal ellátott okiratba foglalt végrehajtani kívánt követelés érvényesen nem jött létre. A bíróság a végrehajtást megszüntető végzésében arról is rendelkezik, hogy ki viseli a végrehajtási költséget.
 
 (2) Az (1) bekezdésben említett esetben a végrehajtást elrendelő bíróság az adós kérelmére végzéssel arra kötelezheti a végrehajtást kérőt, hogy — teljesen, illetőleg részben — térítse vissza az adósnak a végrehajtás során kapott összeget (vagyontárgyat) és a végrehajtási költséget, illetőleg megfelelő részét. Ez akkor is irányadó, ha az adós a végrehajtás megelőzése végett önként teljesítette a kötelezettségét, és ezt igazolta. Tartásdíj címén kifizetett összeg (átadott vagyontárgy) ilyen visszatérítésének nincs helye.
 
@@ -3967,6 +3967,15 @@ kérhetnek adatszolgáltatást.
 
 306/B. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 233. § (1) bekezdés e) pontját a 2013. január 1-jét követően kiírt önálló bírósági végrehajtói és törvényszéki végrehajtói álláspályázatok alapján történt bírósági végrehajtói kinevezések esetén kell alkalmazni.
 
+306/C. § (1) E törvénynek a bírósági végrehajtással kapcsolatos egyes törvények módosításáról szóló 2013. évi XCIX. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) bekezdésben foglalt eltérésekkel – a folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) E törvénynek a Módtv.-vel megállapított
+
+- a) 7. §-át és 52/B. §-át azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépésének időpontjában még nem került sor a lakóingatlan becsértékének megállapítására,
+- b) 103. § (8) bekezdését azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépését követően történik a gépjármű lefoglalása,
+- c) 233. § (2) bekezdés h) pontját a Módtv. hatálybalépését követően kiírt álláspályázatok elbírálása során kell alkalmazni,
+- d) 267. § (1) bekezdés e) pontját és 267. § (2) bekezdés e) pontját a Módtv. hatálybalépését követően elkövetett fegyelmi vétség miatt indult végrehajtói fegyelmi eljárásokban kell alkalmazni.
+
 ### Felhatalmazás
 
 307. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3983,7 +3992,7 @@ kérhetnek adatszolgáltatást.
 - e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 - g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
-- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
+- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
 - i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
 - j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
 - k) az általános költségátalány megfizetéséről szóló szabályokat,
