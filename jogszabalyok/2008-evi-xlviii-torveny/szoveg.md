@@ -51,7 +51,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 (3) Az (1) bekezdés szerinti hozzájáruló nyilatkozat bármikor korlátozás és indokolás nélkül, ingyenesen visszavonható. Ebben az esetben a nyilatkozó nevét és minden egyéb személyes adatát az (5) bekezdésben meghatározott nyilvántartásból haladéktalanul törölni kell, és részére reklám az (1) bekezdésben meghatározott módon a továbbiakban nem közölhető.
 
-(4) A postáról szóló 2003. évi CI. törvényben meghatározott címzett reklámküldeményben reklám természetes személy mint a reklám címzettje részére közvetlen üzletszerzés útján a címzett előzetes és kifejezett hozzájárulásának hiányában is küldhető, a reklámozó és a reklámszolgáltató azonban köteles biztosítani, hogy a reklám címzettje a reklám küldését bármikor ingyenesen és korlátozás nélkül megtilthassa. Megtiltás esetén az érintett személy részére reklám közvetlen üzletszerzés útján a továbbiakban nem küldhető.
+(4) Címzett reklámküldemény természetes személy mint a reklám címzettje részére közvetlen üzletszerzés útján a címzett előzetes és kifejezett hozzájárulásának hiányában is küldhető, a reklámozó és a reklámszolgáltató azonban köteles biztosítani, hogy a reklám címzettje a reklám küldését bármikor ingyenesen és korlátozás nélkül megtilthassa. Megtiltás esetén az érintett személy részére reklám közvetlen üzletszerzés útján a továbbiakban nem küldhető.
 
 (5) A reklámozó, a reklámszolgáltató, illetve a reklám közzétevője – az (1) bekezdés szerinti hozzájárulásban meghatározott körben – a náluk hozzájáruló nyilatkozatot tevő személyek személyes adatairól nyilvántartást vezet. Az ebben a nyilvántartásban rögzített – a reklám címzettjére vonatkozó – adat csak a hozzájáruló nyilatkozatban foglaltaknak megfelelően, annak visszavonásáig kezelhető, és harmadik fél számára kizárólag az érintett személy előzetes hozzájárulásával adható át.
 
@@ -60,6 +60,8 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 (7) Az (1), illetve a (4) bekezdésben meghatározott módon közölt reklámhoz kapcsolódóan egyértelműen és szembetűnően tájékoztatni kell a címzettet arról a címről és egyéb elérhetőségről, ahol az ilyen reklámok részére történő közléséhez való hozzájáruló nyilatkozatának visszavonása, illetve a reklám küldésének megtiltása iránti igényét bejelentheti, továbbá – a (4) bekezdés szerinti esetben – ebből a célból az ugyanazon reklámozó érdekében ugyanazon címzett részére 2009. október 1-jét követően első alkalommal küldött reklámküldeménynek tartalmaznia kell a lemondást lehetővé tevő, postai úton címzett, térítésmentesen feladható és könyvelt küldeményként, igazolható módon kézbesített válaszlevelet.
 
 (8) Az (1) bekezdés szerinti hozzájáruló nyilatkozat kérésére vonatkozó közvetlen megkeresés reklámot nem tartalmazhat, ide nem értve a vállalkozás nevét és megjelölését.
+
+(9) E § alkalmazásában címzett reklámküldemény: kizárólag hirdetést, üzletszerzési vagy reklámanyagot tartalmazó – egyszerre legalább 500 címzett részére feladott, a címzett neve, címe, és az üzenet jellegét nem módosító adat kivételével azonos tartalmú – a postai szolgáltatásokról szóló törvény szerinti, ott önállóan nem nevesített postai küldemény.
 
 ### Általános reklámtilalmak és reklámkorlátozások
 

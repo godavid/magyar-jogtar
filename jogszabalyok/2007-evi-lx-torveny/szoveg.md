@@ -86,7 +86,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a Magyar Állam kincstári vagyonába tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
-(2) A kiotói egység a nemzeti forgalmi jegyzékbe való bejegyzéssel jön létre, illetve a jegyzékből való törléssel szűnik meg. A kiotói egységek vagyonkezelője gondoskodik az adott kötelezettségvállalási időszak végén a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
+(2) A kiotói egység a nemzeti forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott kötelezettségvállalási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
@@ -94,7 +94,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 9. § (1) A nemzeti vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény, valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A kibocsátási jogosultságok feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
+(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja, illetve teljesíti.
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
@@ -193,7 +193,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 - a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
 - b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
-- c) a kiotói egységek vagyonkezelésében közreműködő szervet [9. § (2) bekezdés].
+- c)
 
 (7) Felhatalmazást kap a miniszter, hogy
 

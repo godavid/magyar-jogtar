@@ -664,7 +664,7 @@ kell alkalmazni.
 
 (4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a kényszertörlési eljárás esetét kivéve – végelszámolásnak van helye.
 
-(5) Ha a gazdasági társaság megszűnésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvény alapján kerül sor, az (1)–(4) bekezdés helyett a jogutód nélküli megszűnés feltételeire, az eljárás lefolytatására, a társaságot terhelő kötelezettségek rendezésére a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló törvényt kell alkalmazni.
+(5) Ha a gazdasági társaság megszűnésére az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-a alapján kerül sor, az (1)–(4) bekezdésben foglaltak nem alkalmazandók, a jogutód nélküli megszűnés feltételei, az eljárás lefolytatása, a társaságot terhelő kötelezettségek rendezése tekintetében az Áht.-ban foglaltakat kell alkalmazni.
 
 ### 3. CÍM — Az átalakulás közös szabályai
 
@@ -1252,7 +1252,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - a) a társaság saját tőkéje veszteség folytán a törzstőke felére csökkent, vagy
 - b) a társaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve, ha vagyona tartozásait nem fedezi.
 
-(3) A (2) bekezdésben megjelölt esetekben – amennyiben a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleg szerint azok fennállnak – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
+(3) A (2) bekezdésben megjelölt esetekben – kivéve, ha a társaság a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
 
 144. § (1) A taggyűlést – a társasági szerződés eltérő rendelkezése hiányában – a társaság székhelyére vagy telephelyére kell összehívni, ettől eltérni csak a tagok egyszerű szótöbbséggel hozott előzetes hozzájárulásával lehet.
 
@@ -1979,7 +1979,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - b) saját tőkéje a 207. § (1) bekezdésében meghatározott összeg alá csökkent, vagy
 - c) a részvénytársaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve ha vagyona tartozásait nem fedezi.
 
-(2) Az (1) bekezdésben megjelölt esetekben – amennyiben a közgyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleg szerint azok fennállnak – a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
+(2) Az (1) bekezdésben megjelölt esetekben – kivéve, ha a társaság a közgyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
 
 246. § Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, a 245. § (1) bekezdésének a) pontja szerinti körülmény változatlanul fennáll, az alaptőke leszállítása kötelező.
 

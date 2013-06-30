@@ -80,7 +80,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k) és a kén-hexafluorid (SF6), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 - 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
 - 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
-- 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére.
+- 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére,
+- 34. derogációs kérelem: a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikke alapján az Európai Bizottság által a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozattal, és a C(2012) 8675 bizottsági határozattal (a továbbiakban: Európai Bizottság határozatai) jóváhagyott magyar derogációs kérelem,
+- 35. derogációs kiosztás: a derogációs kérelem alapján, a jelen törvény 6/A. alcímének megfelelően történő, egyszeri kiosztás egyes magyarországi villamosenergia-termelők részére.
 
 #### 3. A kibocsátási engedély és a nyomonkövetési terv
 
@@ -160,17 +162,17 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 12. § (1) Az ÜHG-egység dematerializált, immateriális, forgalomképes vagyoni értékű jog, amely az 1193/2011/EU bizottsági rendelet 38. cikkében meghatározott módon jön létre.
 
-(2) A magyar állam tulajdonában lévő ÜHG-egységek feletti vagyonkezelői jogot a miniszter gyakorolja.
+(2) Az állam tulajdonában lévő ÜHG-egységek tekintetében a tulajdonosi jogok gyakorlója a miniszter.
 
 (3) A magyar állam tulajdonában lévő és az 1193/2011/EU bizottsági rendelet értelmében a magyar nemzeti tisztviselő által kezelt számlákon lévő ÜHG-egységek nyilvántartásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
 13. § (1) A magyar állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló törvény és végrehajtására kiadott kormányrendeletek, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) és a végrehajtására kiadott kormányrendeletek tulajdonjog átruházásával, állami vagyon elidegenítésével, a vagyonnal történő rendelkezéssel kapcsolatos szabályait az 1193/2011/EU bizottsági rendeletben, az e törvényben és a végrehajtására kiadott kormányrendeletben foglalt eltéréssel kell alkalmazni.
 
-(2) A magyar állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló 2007. évi CVI. törvény vagyonkezelői szerződés megkötésére, díj fizetésére vagy szerződésben előírt más kötelezettség teljesítésére vonatkozó rendelkezései nem alkalmazandók.
+(2)
 
 (3) A magyar állam tulajdonában lévő ÜHG-egységek esetében az Nvtv. értéknyilvántartásra, könyvvezetési és beszámoló készítési kötelezettségre vonatkozó rendelkezései nem alkalmazandók.
 
-(4) Az ÜHG-egység e törvény szerinti térítésmentes kiosztása átruházásnak minősül. A térítésmentes kiosztás során az Nvtv. átlátható szervezetre, valamint az átruházott vagyon hasznosításáról történő éves beszámolási kötelezettségre vonatkozó rendelkezéseit nem kell alkalmazni.
+(4)
 
 14. § (1) A 2013. január 1-jétől kezdődően kiadott ÜHG-egység a kiosztás szerinti kereskedési időszak során megvalósuló kibocsátásokra érvényes.
 
@@ -182,34 +184,94 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 15. § (1) A harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott referenciaértékek és kisegítő szabályok alapján kell elvégezni.
 
-(2) Az ingyenesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egység-mennyiség 100%-a azon létesítmények számára, amelyek a 2012/498/EU bizottsági határozat I. mellékletében felsorolt ágazatokba tartoznak.
+(2) A térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egységmennyiség 100%-a azon létesítmények számára, amelyek a módosításokkal egységes szerkezetbe foglalt 2010/2/EU tanácsi határozat mellékletében felsorolt ágazatokba tartoznak.
 
-(3) Az ingyenesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egység-mennyiség 80%-a 2013-ra, majd lineárisan csökkenő mértékű éves kiosztás mellett 30%-a 2020-ra azon létesítmények esetében, amelyek nem tartoznak a (2) bekezdésben hivatkozott ágazatokba. Az alkalmazandó szorzótényezőket a 2011/278/EU bizottsági határozat szabályozza.
+(3) Az térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egység-mennyiség 80%-a 2013-ra, majd lineárisan csökkenő mértékű éves kiosztás mellett 30%-a 2020-ra azon létesítmények esetében, amelyek nem tartoznak a (2) bekezdésben hivatkozott ágazatokba. Az alkalmazandó szorzótényezőket a 2011/278/EU bizottsági határozat szabályozza.
 
-(4) A létesítményeknek évente kiosztható ingyenes kibocsátásiegység-mennyiséget a Nemzeti Végrehajtási Intézkedés tartalmazza. A Nemzeti Végrehajtási Intézkedés tervezetét – kereskedési időszakonként – a miniszter készíti el és nyújtja be jóváhagyásra az Európai Bizottságnak. A Nemzeti Végrehajtási Intézkedést az Európai Bizottság jóváhagyását követően a Kormány határozatban teszi közzé.
+(4) A létesítményeknek évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a Nemzeti Végrehajtási Intézkedés tartalmazza. A Nemzeti Végrehajtási Intézkedés tervezetét a miniszter készíti el és nyújtja be jóváhagyásra az Európai Bizottságnak. A Nemzeti Végrehajtási Intézkedést az Európai Bizottság jóváhagyását követően a Kormány határozatban teszi közzé.
 
 (5) A Nemzeti Végrehajtási Intézkedés alapján a miniszter elkészíti a nemzeti kiosztási táblát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a miniszter minden év február 28-ig a jegyzékkezelő útján gondoskodik a kibocsátási egységeknek az üzemeltetők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
-16. § (1) Az új belépők az üzemszerű működés megkezdését követően egy éven belül a miniszterhez benyújtott kérelem alapján részesülhetnek ingyenes kiosztásban. A határidő elmulasztása jogvesztő. Az üzemszerű működés megkezdése előtt keletkezett, független hitelesítő által hitelesített kibocsátás esetében további kibocsátási egység kiosztása a múltbeli kibocsátások alapján lehetséges. A kérelemhez ebben az esetben csatolni kell a hitelesítői jelentést.
+16. § (1) Az új belépők az üzemszerű működés megkezdését követően egy éven belül a miniszterhez benyújtott kérelem alapján részesülhetnek térítésmentes kiosztásban. A határidő elmulasztása jogvesztő. Az üzemszerű működés megkezdése előtt keletkezett, független hitelesítő által hitelesített kibocsátás esetében további kibocsátási egység kiosztása a múltbeli kibocsátások alapján lehetséges. A kérelemhez ebben az esetben csatolni kell a hitelesítői jelentést.
 
-(2) A kérelmet a miniszter jóváhagyás céljából továbbítja az Európai Bizottságnak, majd az Európai Bizottság döntését követően és annak megfelelően a kérelmet jóváhagyja vagy elutasítja. Jóváhagyás esetén a miniszter a kereskedési időszak egyes éveire vonatkozóan megállapítja a létesítmény számára ingyenesen kiosztható kibocsátási egységek mennyiségét és a jegyzékkezelő útján gondoskodik a kibocsátási egységek üzemeltető számláján történő jóváírásáról.
+(2) A kérelmet a miniszter jóváhagyás céljából továbbítja az Európai Bizottságnak, majd az Európai Bizottság döntését követően és annak megfelelően a kérelmet jóváhagyja vagy elutasítja. Jóváhagyás esetén a miniszter a kereskedési időszak egyes éveire vonatkozóan megállapítja a létesítmény számára térítésmentesen kiosztható kibocsátási egységek mennyiségét és a jegyzékkezelő útján gondoskodik a kibocsátási egységek üzemeltető számláján történő jóváírásáról.
 
 (3) Meglévő létesítmények esetében, ha a létesítmény kapacitását 2011. június 30. után
 
-- a) jelentősen bővítették, a bővítés tekintetében az üzemeltető kérelemre részesülhet ingyenes kiosztásban,
-- b) jelentősen csökkentették, a csökkentésre tekintettel a kapacitáscsökkentés évét követő évtől csökken az ingyenesen kiosztott kibocsátási egységek száma.
+- a) jelentősen bővítették, a bővítés tekintetében az üzemeltető kérelemre részesülhet térítésmentes kiosztásban,
+- b) jelentősen csökkentették, a csökkentésre tekintettel a kapacitáscsökkentés évét követő évtől csökken az térítésmentesen kiosztott kibocsátási egységek száma.
 
-(4) Ha egy létesítmény beszünteti működését, a működés beszüntetésének évét követő évtől nem részesülhet ingyenes kibocsátási egységben. A 2011/278/EU bizottsági határozat 22. cikk (1) és (2) bekezdése szerint működését részlegesen beszüntető létesítmény számára történő kibocsátási-egység-kiosztást a 2011/278/EU bizottsági határozat szerint ki kell igazítani.
+(4) Ha egy létesítmény beszünteti működését, a működés beszüntetésének évét követő évtől nem részesülhet térítésmentes kibocsátási egységben. A 2011/278/EU bizottsági határozat 22. cikk (1) és (2) bekezdése szerint működését részlegesen beszüntető létesítmény számára történő kibocsátási-egység-kiosztást a 2011/278/EU bizottsági határozat szerint ki kell igazítani.
 
 (5) A (2)–(4) bekezdés szerinti módosításokat követően a miniszter elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és megküldi az Európai Bizottságnak. Az Európai Bizottság jóváhagyása esetén, a nemzeti kiosztási tábla módosítását a központi tisztviselő végzi el az európai egységes ügyleti jegyzőkönyvben.
 
-17. § (1) Nem részesülhetnek térítésmentes kiosztásban a villamosenergia-termelők, a szén-dioxid elkülönítését szolgáló létesítmények, a szén-dioxid szállítására szolgáló csővezetékek és a szén-dioxid-tárolóhelyek.
+17. § (1) Az érintett villamosenergia-termelők részére a derogációs kérelem alapján történő derogációs kiosztás kivételével nem részesülhetnek kiosztásban a villamosenergia-termelők, a szén-dioxid elkülönítését szolgáló létesítmények, a szén-dioxid szállítására szolgáló csővezetékek és a széndioxid-tárolóhelyek.
 
 (2) Villamosenergia-termelés céljára új belépő nem részesülhet térítésmentes kiosztásban.
 
 (3) Térítésmentes kiosztásban részesül a távfűtés és a nagy hatásfokú kapcsolt energiatermelés a gazdaságilag indokolt módon, kereslet kielégítése céljából folytatott hőtermelés vagy hűtési szolgáltatások tekintetében.
 
 18. § A kibocsátási egység kiosztására vonatkozó részletes szabályokat a Kormány e törvény végrehajtására kiadott rendeletben állapítja meg.
+
+#### 6/A. A kibocsátási egységek villamosenergia-termelők részére történő egyszeri kiosztása
+
+18/A. § (1) A villamosenergia-termelők a derogációs kérelem alapján 2013-ban derogációs kiosztásban részesülnek. Az egyes villamosenergia-termelők részére történő derogációs kiosztás célja a derogációs kérelemben meghatározott beruházások végrehajtásának támogatása.
+
+(2) A derogációs kiosztásban részt vevő villamosenergia-termelők körét és a részükre 2013-ban kiosztható kibocsátási egységek mennyiségét a derogációs kérelem alapján a Kormány rendeletben határozza meg.
+
+(3) A Kormány (2) bekezdés szerinti rendelete alapján a miniszter, a (6) bekezdésben foglaltakra figyelemmel, elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő, a (6) bekezdésben foglaltakra figyelemmel, a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
+
+(4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat jogerőre emelkedésétől számított 7 napon belül tesznek eleget.
+
+(5) Ha a (4) bekezdés szerinti fizetési kötelezettség teljesítéséig a villamosenergia-termelő a részére kiosztott kibocsátási egységeket értékesíti, köteles az értékesítés árbevételét a (4) bekezdés szerinti fizetési kötelezettsége teljesítésére fordítani. A (4) bekezdés szerinti fizetési kötelezettség teljesítését követően a villamosenergia-termelő a részére kiosztott kibocsátási egységekkel szabadon rendelkezik.
+
+(6) Nem részesülhet derogációs kiosztásban az a villamosenergia-termelő, amely a kiosztás időpontjában csőd- vagy felszámolási eljárás hatálya alatt áll, vagy amelynek a kibocsátási-engedélyét vagy a kibocsátási engedélye alapjául szolgáló bármely más olyan engedélyét jogerősen felfüggesztették vagy visszavonták, amelynek következtében a villamosenergia-termelő termelő tevékenységet a derogációs kiosztás időpontjában jogszerűen nem folytathat.
+
+18/B. § (1) Ha a derogációs kiosztásra jogosult villamosenergia-termelő a kibocsátási egységek piaci értékének megfizetésére vonatkozó 18/A. § (4) bekezdése szerinti fizetési kötelezettségének határidőben részben vagy egészben nem tesz eleget, a hatóság a fizetési határidő lejártát követő 6 napon belül kötelezi az érintett villamosenergia-termelőt a fizetési kötelezettségének 7 napon belül történő teljesítésére (a továbbiakban: fizetési felszólítás).
+
+(2) Ha a derogációs kiosztásra jogosult villamosenergia-termelő az (1) bekezdés szerinti fizetési felszólításnak határidőben sem tesz eleget, a hatóság megállapítja a fizetési kötelezettség teljesítésének elmulasztását és mulasztási bírságot szab ki.
+
+(3) Az (1) bekezdés szerinti fizetési felszólításban meghatározott piaci értéket és mulasztási bírságot a villamosenergia-termelőnek a (2) bekezdés szerinti határozat jogerőre emelkedését követő 10 napon belül kell megfizetnie. A mulasztási bírság mértékét a hatóság a Kormány rendelete alapján szabja ki. Ha a kötelezett a fizetési kötelezettségének határidőben nem tesz eleget, a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
+
+(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a hatóság javaslatára a miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. Ha a hatóság értesíti a minisztert a fizetési kötelezettség villamosenergia-termelő általi – hiánytalan – teljesítéséről, a miniszter – a jegyzékkezelő útján – gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.
+
+18/C. § (1) A villamosenergia-termelők által a 18/A. § (4) bekezdése szerint megfizetett piaci érték,
+
+a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogációs kérelemben meghatározott beruházások támogatására fordítható.
+
+(2) A hatóság a derogációs kiosztással összefüggő feladatai ellátására a kincstárnál központi euró számlát (a továbbiakban: központi számla) és a derogációs kérelemben meghatározott beruházásonként beruházási euró számlákat (a továbbiakban: beruházási számla) nyit. A villamosenergia-termelők által a 18/A. § (4) bekezdése szerint teljesített befizetések a központi számlára történnek, és onnan kerülnek a hatóság által továbbutalásra az egyes beruházási számlákra. A központi számla és a beruházási számlák feletti rendelkezésre kizárólag a hatóság jogosult.
+
+(3) A hatóság által a derogációs kérelemben meghatározott beruházás támogatására fordított összeg egy beruházás esetében sem haladhatja meg a derogációs kérelemben az Európai Bizottság által az érintett beruházás tekintetében jóváhagyott támogatási összeget. Ha a kiosztott kibocsátási egységek piaci értéke a hatóság (4) bekezdés szerint számított működési költségeinek levonása után meghaladja az Európai Bizottság által a derogációs kérelemben meghatározott beruházások támogatására jóváhagyott teljes összeget, a fennmaradó összeg felhasználásáról a miniszter a 26. § (1) bekezdése szerint gondoskodik.
+
+(4) A hatóság a derogációs kiosztással kapcsolatban felmerülő, a Kormány rendeletében meghatározott költségeit a részére a 18/A. § (4) bekezdése szerint megfizetett összegből fedezi. E költségek fedezésére a hatóság jogosult 100 ezer eurót a részére a 18/A. § (4) bekezdése szerint megfizetett összegből a központi számlán visszatartani. A hatóság a költségeinek levonását követően a központi számlán fennmaradó összeget a beruházási számlákra továbbutalja. A központi számlán és a beruházási számlákon képződő kamatbevételeket a hatóság a beruházások megvalósítására fordítja.
+
+18/D. § (1) A derogációs kérelemben meghatározott beruházások végrehajtói (a továbbiakban: beruházók) a beruházásokat e törvény és a végrehajtására kiadott rendelet alapján hajtják végre.
+
+(2) A beruházók a derogációs kérelemben jóváhagyott támogatási összegek kifizetését a hatósághoz benyújtott kérelem útján igényelhetik. Az igényelhető támogatási összeg nem haladhatja meg a központi számlán – a hatóság működési költségeinek levonását követően –rendelkezésre álló összeget. A beruházók részére támogatási összegek kizárólag a beruházási folyamat során már felmerült kiadások fedezésére folyósíthatóak és kizárólag az Európai Bizottság által előzetesen jóváhagyott beruházások megvalósítására fordíthatóak. A beruházások előfinanszírozása nem megengedett. A támogatási összegek beruházók által történő igénylésére és a támogatások kifizetésére vonatkozó szabályokat a Kormány rendeletben határozza meg.
+
+18/E. § (1) A hatóság jogosult ellenőrizni a beruházások megvalósítását és a beruházások elkészültét követően a beruházások működését nyomon követni. A beruházások ellenőrzése során a tényállás tisztázása keretében a hatóság független könyvvizsgáló jelentését szerzi be (kötelező bizonyítási eszköz). Az ellenőrzés és nyomon követés szabályait, ideértve a független könyvvizsgáló kijelölésére vonatkozó szabályokat is, a Kormány rendeletben határozza meg.
+
+(2) Ha a beruházó a hatóság által részére folyósított támogatási összeget nem a vonatkozó jogszabályokban vagy az Európai Bizottság határozataiban foglaltaknak megfelelően használja fel, a hatóság a beruházóval szemben hatósági ellenőrzést folytat le a beruházások ellenőrzése céljából (a továbbiakban: felügyeleti eljárás). A felügyeleti eljárás keretében a hatóság a beruházóval szemben a Kormány rendeletében meghatározottak szerint bírságot szab ki, meghatározott esetben a támogatást visszafizetteti, vagy a támogatás folyósítását megszünteti. Ha a felügyeleti eljárás keretében kiszabott bírság vagy visszafizetendő támogatás nem kerül a hatóság által megszabott határidőben megfizetésre, akkor a jogerős határozat alapján a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
+
+18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az első jelentését 2014. január 31-ig a miniszter útján nyújtja be az Európai Bizottság részére. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig köteles elkészíteni.
+
+(2) A beruházó a derogációs kérelemben meghatározott beruházás megvalósításának előrehaladásáról a hatóságnak a tárgyévet követő év január 5-ig jelentést nyújt be. A beruházás befejezését követő 6 hónapon belül a beruházó a hatóság részére zárójelentést nyújt be.
+
+(3) A beruházók a hatóság tájékoztatására kötelesek a beruházás előrehaladásáról közbenső előrehaladási jelentést készíteni, és azt a tárgyév június 30-ig a hatósághoz benyújtani.
+
+(4) Ha a beruházó e törvényben meghatározott jelentéstételi kötelezettségének határidőben nem tesz eleget, a hatóság vele szemben bírságot szab ki.
+
+(5) A derogációs kiosztásra jogosult villamosenergia-termelő a Kormány rendeletében meghatározottak szerint jelentést készít, és azt a hatóság részére 2013. december 31-ig megküldi.
+
+(6) A hatóság a beruházások befejezését követő harmadik évben megvizsgálja a derogációs kérelem szerinti megfelelőségi mutatók teljesítését és arról jelentést készít.
+
+(7) Az (1)–(3) bekezdés szerinti jelentések kötelező tartalmi elemeit és a jelentéstétel részletes szabályait a Kormány rendeletben határozza meg.
+
+18/G. § (1) A hatóság 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait felügyeleti jogkörben módosítani vagy megváltoztatni nem lehet. A hatóság 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatai ellen fellebbezésnek, újrafelvételi eljárásnak helye nincs.
+
+(2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közzé teszi.
+
+(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak a minisztérium honlapján történő közzétételéről.
 
 #### 7. A légiközlekedési kibocsátási egységek kiosztása a légi jármű üzembentartóknak
 
@@ -270,7 +332,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 #### 9. Az ÜHG-egységek értékesítése és forgalomképessége
 
-25. § (1) A magyar állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a vagyonkezelő az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. A magyar állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
+25. § (1) A magyar állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. A magyar állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
 
 (2) A magyar állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
 
@@ -288,7 +350,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (3) Az (1) bekezdés szerinti bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek, valamint évente jelentést tesz az Európai Bizottságnak.
 
-27. § A magyar állam tulajdonában lévő ÜHG-egységek vagyonkezelésére, értékesítésére és az értékesítésből származó bevételek felhasználására vonatkozó részletes szabályokat a Kormány e törvény végrehajtására kiadott rendeletében állapítja meg.
+27. § A magyar állam tulajdonában lévő ÜHG-egységek értékesítéséből származó bevételek felhasználására vonatkozó részletes szabályokat a Kormány e törvény végrehajtására kiadott rendeletében állapítja meg.
 
 28. § Az ÜHG egység mint forgalomképes vagyoni értékű jog az állami vagyonból történő kikerülést (térítésnélküli átadás, értékesítés) követően szabadon átruházható az EGT-megállapodásban részes államokban lakóhellyel rendelkező természetes személyek, székhellyel rendelkező jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, illetve olyan, harmadik állambeli természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, amelyek harmadik állama elismeri az ÜHG-egységeket.
 
@@ -374,7 +436,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (4) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során a 2009/406/EK európai parlamenti és tanácsi határozat 3. és 5. cikkében meghatározott rugalmas éves elszámolási szabályok vehetők igénybe.
 
-38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás a magyar állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti vagyonkezelői jogokat a miniszter gyakorolja.
+38. § (1) A 2009/406/EK európai parlamenti és tanácsi határozat 3. cikk (2) bekezdése és II. melléklete alapján Magyarország számára a 2013–2020 közötti időszakra vonatkozóan évenként maximálisan engedélyezett, a 37. § (1) bekezdése szerinti üvegházhatású gázkibocsátás a magyar állam tulajdonában álló vagyoni értékű jogosultság (a továbbiakban: ESD-egység). Az ESD-egység feletti tulajdonosi jogokat a miniszter gyakorolja.
 
 (2) Az ESD-egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
@@ -396,14 +458,22 @@ vonatkozó adatok környezeti információnak minősülnek.
 - a) a kibocsátási engedély iránti kérelem tartalmára és benyújtására vonatkozó részletes szabályokat,
 - b) a kibocsátási engedély tartalmára vonatkozó részletes szabályokat,
 - c) az ÜHG-egységek kiosztásához szükséges részletszabályokat,
-- d) a magyar állam tulajdonában lévő ÜHG-egységek vagyonkezelésére, a vagyonkezelési szerződés tartalmára és az ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
+- d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
 - e) a magyar állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
 - f) az ÜHG-egységek értékesítéséből származó bevételek felhasználására, a felhasználás elveire vonatkozó részletes szabályokat,
 - g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 - h) a CER és az ERU beszámításának részletes szabályait,
 - i) az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait,
 - j) az 1. melléklet szerinti tevékenység gázkibocsátása engedélyezésére, a kibocsátások nyomon követésére, jelentésére és az ÜHG-egységek visszaadására vonatkozó részletes szabályokat,
-- k) a villamosenergia-termelők esetében az átmeneti ingyenes kiosztásra vonatkozó szabályokat
+- k) a derogációs kiosztás keretében kiosztásban részesülő villamosenergia-termelők körét és a részükre kiosztható kibocsátási egységek mennyiségét,
+- l) a derogációs kiosztás keretében kiosztásra kerülő kibocsátási egységek piaci értékének meghatározására és kiszámítási módjára vonatkozó szabályokat,
+- m) a piaci érték megfizetésére, a jelentéstételre és a támogatások felhasználásra vonatkozó szabályok megsértése esetén alkalmazható intézkedések körét és a kiszabható bírságok mértékét,
+- n) a hatóságnak a derogációs kérelem alapján nyújtható támogatások folyósításával, kezelésével és ellenőrzésével kapcsolatos feladatait és jogosítványait,
+- o) a hatóság saját tevékenységével összefüggésben felmerült elszámolható működési költségeinek körét és az azok elszámolására vonatkozó szabályokat,
+- p) a támogatási összegek beruházók által történő igénylésére és a támogatások kifizetésére vonatkozó szabályokat,
+- q) a derogációs kérelemmel összefüggő jelentéstétel és a független könyvvizsgáló kijelölésének részletes szabályait,
+- r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó részletes szabályokat,
+- s) a piaci érték megfizetésének módját és pénznemét
 
 rendeletben állapítsa meg.
 
@@ -436,6 +506,10 @@ rendeletben állapítsa meg.
 
 (6)
 
+(7) Ha az Európai Bizottság a térítésmentes kiosztás alapját képező Nemzeti Végrehajtási Intézkedést, illetve az az alapján elkészített nemzeti kiosztási táblát a tárgyév február 10-éig nem hagyja jóvá, az ÜHG-egységek jóváírásáról a miniszter – eltérően a 15. § (5) bekezdésében és a 20. § (4) bekezdésében foglaltaktól – a nemzeti kiosztási tábla bizottsági jóváhagyásától számított 21 napon belül gondoskodik.
+
+(8) A (7) bekezdésben foglalt rendelkezés 2013-ban is alkalmazandó.
+
 42. § (1) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
 
 - a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
@@ -455,6 +529,8 @@ való megfelelést szolgálja.
 - e) az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat,
 - f) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat,
 - g) a 2010/2/EU és a 2011/278/EU határozatnak a CO2-kibocsátás-áthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok tekintetében történő módosításáról szóló, 2012. augusztus 17-i 2012/498/EU bizottsági határozat
+- h) a magyar energiaágazat korszerűsítését célzó, az EU ETS-irányelv 10c. cikke szerinti beruházásokról szóló SA.34086 (2012/N). számú bizottsági határozat (HL C 43. 2013. 2. 15., 12–16.o.), és
+- i) a Magyarország által a 2003/87/EK parlamenti és tanácsi irányelv 10.c cikkének (5) bekezdése alapján benyújtott, a villamosenergia-termelés korszerűsítése céljából átmenetileg ingyenes kibocsátási egységek kiosztására vonatkozó kérelemről szóló, 2012. november 30-i C(2012) 8675 számú bizottsági határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

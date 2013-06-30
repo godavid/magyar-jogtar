@@ -442,7 +442,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (4a) A földhasználó az (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – a változásokat (ideértve a használat megszűnését is) 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e bekezdésben megjelölt rendeletben meghatározott formanyomtatványon.
 
-(5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
+(5) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a (2) bekezdésben meghatározott bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
 
 (6) A bírság kiszabásával egyidejűleg az ingatlanügyi hatóság – határidő megjelölésével – a bejelentés pótlására szólítja fel a mulasztó földhasználót. A határozatban előírt határidő elmulasztása esetén – újabb határidő megjelölésével – a bírságot ismételten ki kell szabni.
 
@@ -478,10 +478,12 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 25/F. §
 
-25/G. § (1) 2013. március 30. napjáig a földhasználati nyilvántartásba bejegyzett
+25/G. § (1) A földhasználati nyilvántartásba bejegyzett
 
 - a) magánszemély földhasználó a személyi azonosítóját és az állampolgárságát,
-- b) gazdálkodó szervezet földhasználó a statisztikai azonosítóját köteles a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon a földhasználatát nyilvántartó ingatlanügyi hatóság részére bejelenteni (a továbbiakban: azonosító adatközlés), annak érdekében, hogy az a) és b) pontban meghatározott adatok a földhasználati nyilvántartásba bejegyzésre kerüljenek.
+- b) gazdálkodó szervezet földhasználó a statisztikai azonosítóját köteles 2013. szeptember 30-ig bejelenteni a földhasználatát nyilvántartó ingatlanügyi hatóság részére (a továbbiakban: azonosító adatközlés), annak érdekében, hogy az a) és b) pontban meghatározott adatok a földhasználati nyilvántartásba bejegyzésre kerüljenek, és ezáltal a 25/C. § (3b) bekezdésében meghatározott földhasználati összesítő szolgáltatása biztosított legyen. Az adatok bejelentését a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon kell megtenni.
+
+(1a) Az ingatlanügyi hatóság az (1) bekezdés a) pontjában meghatározott személyes adatokat kizárólag az (1) bekezdésben meghatározott célból kezelheti, és használhatja fel, azokat nem továbbíthatja.
 
 (2) Ha a földhasználó több ingatlanügyi hatóság illetékességi területén fekvő termőföldet használ, és ezért a földhasználatait több ingatlanügyi hatóság tartja nyilván, az (1) bekezdés szerinti azonosító adatközlési bejelentését választása szerint kizárólag az egyik ingatlanügyi hatóság felé kell megtennie azzal, hogy az azonosító adatközlést tartalmazó adatlapon fel kell tüntetni azoknak a településeknek a nevét, amely településeken a nyilvántartásba vett földhasználatának tárgyát képező földrészletek vannak.
 
@@ -694,10 +696,15 @@ rendelettel megállapítsa.
 
 (7) A Módtv. 11. §-ával megállapított 25/B. § (1)–(1e) bekezdésében, (2), (4) és (4a) bekezdésében foglaltakat az ingatlanügyi hatósághoz a földhasználati nyilvántartásba vétel céljából 2012. december 31-ig beérkezett, de el nem bírált földhasználati bejelentések esetében is alkalmazni kell.
 
-(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. április 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
+(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. szeptember 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
 
 (9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.
 
 (10) Az egyes agrár tárgyú törvények módosításáról szóló 2013. évi XXXV. törvény (a továbbiakban: Módtv. 3.) 6. §-ával módosított 11. § (1) bekezdésében foglaltakat – az ingatlan-nyilvántartásról szóló törvényben foglaltaktól eltérően – a Módtv. 3. hatálybalépésekor folyamatban lévő, valamint a megismételt ingatlan-nyilvántartási eljárásokban is alkalmazni kell.
+
+(11) A termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi CVII. törvénnyel (a továbbiakban: Módtv. 4.) módosított 25/G. § (1) bekezdésében előírt bejelentési kötelezettség azt a földhasználati nyilvántartásba bejegyzett földhasználót terheli, aki a Módtv. 4. hatálybalépéséig
+
+- a) nem tett eleget a Módtv. 14. §-ával megállapított 25/G. § (1) bekezdés szerinti azonosító adatközlési kötelezettségének, és
+- b) 2013. szeptember 30-ig a 25/B. § (2) bekezdés szerinti földhasználati bejelentést sem tesz.
 
 ### 1–3. számú melléklet az 1994. évi LV. törvényhez
