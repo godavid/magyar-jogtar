@@ -17,7 +17,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 - c) az Alap – tárgyévet megelőző – pénzmaradványa;
 - d) belföldi vagy külföldi természetes és jogi személyek, illetve jogi személyiséggel nem rendelkező gazdasági társaságok által teljesített, önkéntes befizetések, adományok, segélyek;
 - e) nemzetközi szervezetektől, intézményektől származó támogatások;
-- f) visszatérítési kötelezettséggel nyújtott támogatások visszatérítései, valamint az Alapból nyújtott támogatással létrehozott gazdasági eredményből való részesedés;
+- f) visszafizetési kötelezettséggel nyújtott támogatások visszafizetései, valamint az Alapból nyújtott támogatással létrehozott gazdasági eredményből való részesedés;
 - g) egyéb bevételek.
 
 3. § (1) E törvény hatálya alá tartozik – a (2)–(3) bekezdésben foglalt kivétellel – a belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény hatálya alá tartozó gazdasági társaság.
@@ -99,10 +99,12 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 (5) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítható
 
 - a) az Új Széchenyi Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása,
-- b) a hazai – a Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása,
+- b) a hazai – a Kormány által jóváhagyott – K+F infrastrukturális fejlesztések támogatása,
 - c) európai uniós együttműködés keretében megvalósuló – a Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása,
 - d) a Kormány által jóváhagyott, az Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a K+F kapacitás ösztönzést elősegítő projektek támogatása,
 - e) az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
+
+(5a) Az (5) bekezdés b) pontja szerinti támogatás visszafizetési kötelezettséggel vagy arra tekintet nélkül történő nyújtásáról a Kormány dönt.
 
 (6) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül a nemzetközi European X-Ray Free-Electron Laser Facility (XFEL) GmbH-ban (a továbbiakban: GmbH) való tagi hozzájárulás és éves tagdíj a kutatás-fejlesztésért és technológiai innovációért felelős szerv részére az Alapból biztosítható. A GmbH-ban a kutatás-fejlesztésért és technológiai innovációért felelős szerv 1%-os részesedést szerezhet.
 
@@ -159,7 +161,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 15. § Az egészségügy többletforráshoz jutása érdekében szükséges törvénymódosításokról, valamint egyéb törvények módosításáról szóló 2012. évi CLIV. törvény 16. §-ával megállapított 4. § (1) bekezdését a 2012-ben kezdődő adóévben is lehet alkalmazni.
 
-16. §
+16. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Módtv.) megállapított 8. § (5) bekezdés b) pontját és (5a) bekezdését a Módtv. hatálybalépését megelőzően nyújtott támogatásokra is alkalmazni kell.
 
 17. § A Kormány felhatalmazást kap arra, hogy rendeletben határozza meg
 

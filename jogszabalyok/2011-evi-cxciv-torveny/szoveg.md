@@ -95,7 +95,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
-(6) Az önkormányzat az általa vállalt kezességekről jogszabályban foglaltak szerint adatot szolgáltat.
+(6)
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja a kormányzati hozzájáruláshoz kötött ügyletek esetében.
 
@@ -358,6 +358,20 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (2) Ha jogszabály eltérően nem rendelkezik, az állam részére forintban kell teljesíteni az (1) bekezdés szerinti fizetési kötelezettséget.
 
+28/A. § (1) A fizetési kötelezettség vállalkozási tevékenységet végző jogalanya által a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófaveszély és veszélyhelyzet (a továbbiakban együtt: katasztrófahelyzet) esetén, annak időtartama alatt, ellenszolgáltatás nélkül, a katasztrófahelyzet következményeinek elhárítása, mérséklése céljából
+
+- a) végzett tevékenységet vagy
+- b) a katasztrófahelyzetben lévők számára nyújtott szolgáltatást, termékátadást
+
+a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevékenységvégzésnek kell tekinteni, mint amit a jogalany a vállalkozási, gazdasági tevékenységi körében fejtett ki.
+
+(2) Nem keletkezik fizetési kötelezettség
+
+- a) az (1) bekezdés szerinti tevékenységvégzés után, feltéve, ha azt a fizetési kötelezettséggel érintett, vállalkozási tevékenységet végző jogalany a tevékenységvégzés napjától számított 60 napon belül, a nyújtott szolgáltatás és átadott termék megnevezésével, mennyiségének megjelölésével a fizetési kötelezettséggel kapcsolatos ügyben illetékes adóhatósághoz bejelenti,
+- b) az (1) bekezdés szerinti tevékenységvégzés keretében – a katasztrófahelyzetre tekintettel – a katasztrófahelyzetben levők által kapott vagyoni érték után.
+
+(3) Fizetési kötelezettséget megállapító jogszabály katasztrófahelyzet, továbbá a jogalanyok széles körét érintő – veszélyhelyzetnek nem minősülő – az emberi életet veszélyeztető elemi csapás, ipari szerencsétlenség esetén, az (1) és (2) bekezdésben foglaltakhoz képest a jogalanyokra kedvezőbb rendelkezést is megállapíthat.
+
 29. § (1) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét megállapítani kizárólag törvényben, vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik.
 
 (2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a bírság, pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
@@ -508,7 +522,7 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 45. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) az önkormányzat adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
+- a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,
 - b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletéhez történő miniszteri hozzájárulás részletes szabályait,
 - c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit.
 
@@ -556,7 +570,7 @@ rendeletben állapítsa meg.
 
 49. § A Magyarország 2013. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
 
-#### 50. §
+50. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: 2013. évi CIII. tv.) megállapított 28/A. § (1) és (2) bekezdését a 2013. március 14-e és 16-a közötti időszakban bekövetkezett szélsőséges időjárási körülmények során a mentéshez ellenérték nélkül nyújtott segítségre, továbbá a 2013. évi CIII. tv. hatálybalépését megelőzően, 2013. évben kihirdetett veszélyhelyzetre is alkalmazni kell azzal, hogy a 2013. évi CIII. tv. hatálybalépését megelőzően folytatott 28/A. § szerinti tevékenységvégzés esetén a bejelentési kötelezettséget a 2013. évi CIII. tv. hatálybalépésétől számított 60 napon belül kell teljesíteni.
 
 #### 51. §
 

@@ -480,6 +480,8 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (3) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a megtett intézkedésekről haladéktalanul tájékoztatja a katasztrófák elleni védekezésért felelős minisztert.
 
+(4) A katasztrófaveszély kezdetének és megszűnésének időpontját, helyét a hivatásos katasztrófavédelmi szerv központi szervének vezetője a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzéteszi.
+
 #### 20. A veszélyhelyzet
 
 44. § A veszélyhelyzet az Alaptörvény 53. Cikkében meghatározott olyan helyzet, amelyet különösen a következő események válthatnak ki:

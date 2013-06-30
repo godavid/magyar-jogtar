@@ -12,28 +12,15 @@ a bírósági végrehajtással kapcsolatos egyes törvények módosításáról
 
 9–23. §
 
-24. § A Vht. a következő 306/C. §-sal egészül ki:
-
-„306/C. § (1) E törvénynek a bírósági végrehajtással kapcsolatos egyes törvények módosításáról szóló 2013. évi XCIX. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) bekezdésben foglalt eltérésekkel – a folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) E törvénynek a Módtv.-vel megállapított
-
-a) 7. §-át és 52/B. §-át azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépésének időpontjában még nem került sor a lakóingatlan becsértékének megállapítására,
-
-b) 103. § (8) bekezdését azokban a folyamatban lévő végrehajtási eljárásokban kell alkalmazni, amelyekben a Módtv. hatálybalépését követően történik a gépjármű lefoglalása,
-
-c) 233. § (2) bekezdés h) pontját a Módtv. hatálybalépését követően kiírt álláspályázatok elbírálása során kell alkalmazni,
-
-d) 267. § (1) bekezdés e) pontját és 267. § (2) bekezdés e) pontját a Módtv. hatálybalépését követően elkövetett fegyelmi vétség miatt indult végrehajtói fegyelmi eljárásokban kell alkalmazni.”
+24. §
 
 25. §
 
 26. § A Vht.
 
-- a) 56. § (1) bekezdésében a „megváltoztatta” szövegrész helyébe a „megváltoztatta vagy jogerős bírósági határozat – ide nem értve a végrehajtás megszüntetési (korlátozási) perben hozott jogerős határozatot – megállapította, hogy a végrehajtási záradékkal ellátott okiratba foglalt végrehajtani kívánt követelés érvényesen nem jött létre” szöveg,
+- a)
 - b)–o)
-- p) 307. § (2) bekezdés d) pontjában az „ellátására” szövegrész helyébe az „ellátására és panaszügyintézésére” szöveg,
-- q) 307. § (2) bekezdés h) pontjában a „díjazását” szövegrész helyébe a „díjazását és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait” szöveg lép.
+- p)–q) lép.
 
 27. §
 

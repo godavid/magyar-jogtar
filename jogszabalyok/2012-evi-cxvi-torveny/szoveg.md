@@ -56,7 +56,8 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
 - j) az éves költségvetési törvényben foglaltak szerint mentesített központi kezelésű előirányzatokkal kapcsolatos fizetési művelet,
 - k) a kincstár által a Nemzeti Adó- és Vámhivatal számára vezetett nemzetgazdasági számlák és az azokhoz kapcsolódóan nyitható alszámlákon megvalósuló fizetési művelet,
-- l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet.
+- l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
+- m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla.
 
 #### 4. A pénzügyi tranzakciós illetékfizetési kötelezettség keletkezése
 
@@ -130,3 +131,5 @@ köteles teljesíteni.
 10. § Ez a törvény 2013. január 1-jén lép hatályba.
 
 11. § Az e törvény hatálybalépését megelőzően megkezdett fizetési műveletre és fizetési műveletnek nem minősülő műveletre e törvényt akkor kell alkalmazni, ha a művelet teljesítési napja 2013. január 1-jére vagy ezt követő napra esik.
+
+12. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Mód tv.) megállapított 3. § (4) bekezdés m) pontjának rendelkezését a Mód tv. hatálybalépését megelőzően, 2013. évben kezdeményezett átutalásokra is alkalmazni kell.

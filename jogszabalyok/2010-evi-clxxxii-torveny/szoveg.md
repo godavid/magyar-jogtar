@@ -21,9 +21,11 @@ a következő törvényt alkotja:
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
 - a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
-- b) civil szervezet, települési és területi önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
+- b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású intézmény, települési, területi és nemzetiségi önkormányzat, és az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
 - c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
 - d) egyház, belső egyházi jogi személy, valamint az általuk fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+
+(2a) Az (1a) bekezdésben meghatározott célra az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve.
 
 (3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
 
@@ -54,7 +56,7 @@ a következő törvényt alkotja:
 
 #### 3. Az Alap pénzügyi forrásai
 
-4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
+4. § (1) Az Alappal – az e törvényben foglaltak figyelembevételével – négytagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, az államháztartásért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
 
 (2) Az Alap bevételei:
 
@@ -121,6 +123,8 @@ a következő törvényt alkotja:
 
 9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 2011. évi CXCV. törvény szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
 
+(1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.
+
 (2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
 
 (3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
@@ -135,7 +139,8 @@ a következő törvényt alkotja:
 - b) a MÁÉRT tagja, vagy annak közeli hozzátartozója;
 - c) a Kollégium elnöke, tagja, vagy azok közeli hozzátartozója;
 - d) a Bizottság tagja, vagy annak közeli hozzátartozója;
-- e) az Alapból támogatásban részesülő természetes személy, az Alapból támogatásban részesülő szervezet képviselője, vagy annak közeli hozzátartozója.
+- e) az Alapból támogatásban részesülő természetes személy, vagy annak közeli hozzátartozója;
+- f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.
 
 9/B. § (1) Az Alap kezelő szerve végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását.
 
