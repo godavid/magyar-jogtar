@@ -868,6 +868,8 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (9) A bekerülési (beszerzési) érték részét képező – az (1)–(2) és a (4)–(8) bekezdésben felsorolt – tételeket a felmerüléskor, a gazdasági esemény megtörténtekor (legkésőbb az üzembe helyezéskor) kell számításba venni a számlázott, a kivetett összegben. Amennyiben az üzembe helyezésig, a raktárba történő beszállításig a számla, a megfelelő bizonylat nem érkezett meg, a fizetendő összeget az illetékes hatóság nem állapította meg, akkor az adott eszköz értékét a rendelkezésre álló dokumentumok (szerződés, piaci információ, jogszabályi előírás) alapján kell meghatározni. Az így meghatározott érték és a ténylegesen számlázott vagy később módosított fizetendő (kivetett) összeg közötti különbözettel a beszerzési értéket a végleges bizonylatok kézhezvétele időpontjában akkor kell módosítani, ha a különbözet összege az adott eszköz értékét jelentősen módosítja. Amennyiben a különbözet összege jelentősen nem módosítja az adott eszköz bekerülési (beszerzési) értékét, annak összegét a végleges bizonylatok kézhezvétele időpontjában egyéb ráfordításként, illetve egyéb bevételként kell elszámolni.
 
+(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.
+
 48. § (1) A tárgyi eszköznél értéket növelő bekerülési (beszerzési) értékként kell figyelembe venni a meglevő tárgyi eszköz bővítésével, rendeltetésének megváltoztatásával, átalakításával, élettartamának növelésével összefüggő munka, továbbá az elhasználódott tárgyi eszköz eredeti állaga (kapacitása, pontossága) helyreállítását szolgáló felújítási munka ellenértékét (saját vállalkozásban történt megvalósítása esetén az 51. § szerinti közvetlen önköltség aktivált értékét is).
 
 (2) A tárgyi eszköz folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munka, továbbá az erdőnevelési, az erdőfenntartási, az erdőfelújítási munka ellenértékét, illetve saját vállalkozásban végzett megvalósítása esetén a felmerült és a tevékenységhez közvetlenül kapcsolódó költségek értékét nem lehet a tárgyi eszköz bekerülési (beszerzési) értékében figyelembe venni.
@@ -1399,6 +1401,8 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 
 (3) Az értékesítés nettó árbevételét növelő tételként kell elszámolni a vásárolt és saját termelésű készlet értékesítéséhez, a szolgáltatásnyújtáshoz kapcsolódóan utólag felszámított felár, az eladási árat növelő korrekciók helyesbítő számlában, nyugtában rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a teljesítés időpontjára vonatkozik).
 
+(4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
+
 74. § (1) Belföldi értékesítés árbevételeként kell elszámolni a belföldi vevőnek értékesített vásárolt és saját termelésű készlet, valamint a belföldi igénybe vevő részére teljesített szolgáltatás 75. § szerint meghatározott értékét, függetlenül attól, hogy azt forintban, devizában, valutában, termék- vagy szolgáltatásimporttal egyenlítik ki. Belföldi értékesítés árbevételeként kell elszámolni a vámszabad és a tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét, továbbá a vámszabad és a tranzitterületen lévő vállalkozónál a belföldi vállalkozónak, illetve a más vámszabad és tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét.
 
 (2) Exportértékesítés árbevételeként kell elszámolni a vásárolt és saját termelésű készlet külkereskedelmi termékforgalomban külföldi vevőnek történő értékesítésének, továbbá a külföldi igénybe vevő részére végzett szolgáltatásnyújtásnak a 75. § szerint meghatározott értékét, függetlenül attól, hogy azt devizában, valutában, forintban, termék- vagy szolgáltatásimporttal egyenlítik ki.
@@ -1470,6 +1474,8 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 (6) Az eladott (közvetített) szolgáltatások értékeként a vásárolt és változatlan formában értékesített szolgáltatások bekerülési értékét kell elszámolni az értékesítéskor.
 
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepe a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől igénybe vett szolgáltatásokat (ideértve az irányítás átterhelt költségeit, ráfordításait is) a számlázott értéken – jellegének megfelelően – a (3)–(4), illetve a (6) bekezdés szerinti szolgáltatásként köteles az anyagjellegű ráfordítások között kimutatni.
+
+(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.
 
 79. § (1) Személyi jellegű ráfordítások az alkalmazottaknak munkabérként, a szövetkezet tagjainak munkadíjként elszámolt összeg, a természetes személy tulajdonos (tag) személyes közreműködése ellenértékeként kivett összeg, továbbá a személyi jellegű egyéb kifizetések, valamint a bérjárulékok.
 
@@ -2684,7 +2690,8 @@ a különbözettel.
 - d) aki az engedélyezéskor vagy az engedély megadását követően valótlan adatot közölt, az engedély visszavonására okot adó körülményt 30 napon belül nem jelentette be, a valótlan adatközlés, illetve a bejelentés elmulasztása utólagos megállapításakor,
 - e) aki azt kéri,
 - f) akit jogerős bírói ítélet a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezett,
-- g) aki elhalálozott.
+- g) aki elhalálozott,
+- h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.
 
 (7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
 
@@ -2693,7 +2700,8 @@ a különbözettel.
 - c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha az engedély visszavonására a (6) bekezdés c) pontja miatt,
 - d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
 - e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
-- f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt került sor.
+- f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt,
+- g) az engedély visszavonását követően, ha arra a (6) bekezdés h) pontja miatt került sor.
 
 (7a) Ha a könyvviteli szolgáltatást végzők nyilvántartása az engedéllyel rendelkező vonatkozásában egynél több regisztrálási szakterületet tartalmaz, a szakterületek közül törölni kell azt,
 

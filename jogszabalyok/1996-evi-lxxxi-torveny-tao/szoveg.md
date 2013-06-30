@@ -1309,7 +1309,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (2) Az előadó-művészeti szervezet erre vonatkozó kérelme esetén a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke megállapításánál – az (1) bekezdéstől és e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésétől eltérően – az előadó-művészeti szervezet EGT-tagállamban 2013. évben tartott előadásaiból származó jegybevétele 80%-át kell figyelembe venni.
 
-29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakban benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
+29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakra benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
