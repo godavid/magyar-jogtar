@@ -956,7 +956,12 @@ a kárviselésre vonatkozó szabályok
 
 (2) Az (1) bekezdésben meghatározott jogosultságot nem szerezhet az a személy,
 
-- a) akinek a bíróság a büntetőjogi felelősségét a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott tiltott állatviadal szervezése, állatkínzás vagy természetkárosítás bűncselekmény elkövetése miatt jogerősen megállapította,
+- a) akinek a bíróság a büntetőjogi felelősségét
+  - aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott tiltott állatviadal szervezése, állatkínzás vagy természetkárosítás,
+  - ab) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott természetkárosítás, állatkínzás, orvvadászat, orvhalászat vagy tiltott állatviadal szervezése
+
+bűncselekmény elkövetése miatt jogerősen megállapította,
+
 - b) aki barlangi túravezető vagy barlangi kutatásvezető foglalkozástól eltiltás hatálya alatt áll.
 
 (3) Nem szerezhet az (1) bekezdés a) és b) pontjában meghatározott jogosultságot az a személy sem,

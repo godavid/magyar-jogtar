@@ -107,12 +107,14 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-8/A. § A parkolási igazolvány nyilvántartás tartalmazza:
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-- a) a jogosult természetes személyazonosító és lakcím adatát;
+8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza:
+
+- a) a jogosult természetes személyazonosító és lakcímadatát;
 - b) a jogosult fényképét (arcképmását);
 - c) a jogosult aláírását;
-- d) a jogosult törvényes képviselőjének természetes személyazonosító és lakcím adatát;
+- d) a jogosult törvényes képviselőjének természetes személyazonosító és lakcímadatát;
 - e) a jogosult írásképtelensége esetén törvényes képviselője aláírását;
 - f) a kiállító hatóság megnevezését;
 - g) a parkolási igazolvány sorszámát;
@@ -120,6 +122,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - i) a kiállítás dátumát;
 - j) egyéb, jogszabályban megjelölt személyes adatnak nem minősülő adatokat;
 - k) a parkolási igazolvány kiadásának megtagadására, visszavonására, érvénytelenségére, megsemmisítésére, kiadásának korlátozására vonatkozó adatokat.
+
+(2) A parkolási igazolvány nyilvántartása az (1) bekezdés b) és c), valamint e)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 9. § (1) A járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó):
 
@@ -154,6 +158,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (6) Az (1) bekezdés b) és f) pontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
 
+(7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 9/A. § (1) A származás-ellenőrzési nyilvántartás tartalmazza:
 
 - a) a járműtulajdonos (üzembentartó) természetes személyazonosító adatát (megnevezését),
@@ -165,6 +171,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - g) a származás ellenőrzésének eredményét.
 
 (2) A származás-ellenőrzési nyilvántartásba vétellel összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.
+
+(3) A származás-ellenőrzési nyilvántartás az (1) bekezdés c)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 9/B. § (1) Az előzetes eredetiségvizsgálati nyilvántartás tartalmazza:
 
@@ -182,6 +190,8 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 (3) Az (1) bekezdés h) pontjában szereplő adat a járműnyilvántartásból kerül az eredetiségvizsgálati nyilvántartásba.
 
 (4) Az előzetes eredetiségvizsgálati eljárás során felvett adatokat a nyilvántartó ellenőrzés céljából jogosult a járműnyilvántartás adataival összevetni.
+
+(5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 10. § A nyilvántartó a nyilvántartási eljárásban, az érintett személy és a hatóság kapcsolattartása céljából kezeli a nyilvántartásban szereplő személyek személyi azonosítóját, amelyet az érintett személy az eljárás során köteles közölni a hatósággal. A nyilvántartó a személyi azonosítót csak belső azonosítóként használhatja.
 
@@ -309,6 +319,8 @@ igényelhető.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
+(4) A Rendőrség az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadata alapján történő lekérdezéssel jogosult a járműnyilvántartás 9. § (1) bekezdés szerinti adatait megismerni.
+
 20. § A 19. §-ban megjelölt szervek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
 
 21. § A nyilvántartásból adatot igényelhet magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kérelmező):
@@ -324,7 +336,7 @@ igényelhető.
 
 22/A. § A nyilvántartó a járműnyilvántartásból történő adatszolgáltatás során a személyiadat- és lakcímnyilvántartás szerinti lakcím adatokat adja át, feltéve, hogy az adatkérés nem az azt tartalmazó okmányban szereplő lakcímadatra vagy a történeti állomány adatára irányul.
 
-23. § A nyilvántartó a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
+23. § A nyilvántartó a 9. § (2) bekezdésében megjelölt adatokról a járműazonosító adatok kivételével szolgáltat adatot, ha az érintett személy a személyes adatainak szolgáltatását megtiltotta.
 
 24. § (1) A 21. § a) pontjában meghatározott kérelmezők részére az engedély- és a parkolási igazolvány nyilvántartásából adatok akkor szolgáltathatók, ha a kérelem a járművezető, illetve a parkolási igazolvány használatára jogosult természetes személy személyazonosító adatát, vagy a parkolási igazolvány használatára jogosult intézmény megnevezését is tartalmazza.
 
@@ -345,6 +357,15 @@ igényelhető.
 
 (5) Törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a nyilvántartó az engedély-nyilvántartásnak a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, valamint a b) pont ba) és bb) alpontjában meghatározott adatairól a személyazonosításra alkalmas járművezetői engedély érvényességének megállapítása céljából adatot szolgáltathat. A 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatot a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
 
+(6) A nyilvántartó a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
+
+- a) a polgár természetes személyazonosító adatai alapján a polgár vezetői engedélye okmányazonosítója titkosított kapcsolati kódjának, illetve
+- b) a polgár vezetői engedélyének okmányazonosítója alapján a személyiadat- és lakcímnyilvántartásban szereplő természetes személyazonosító adatok
+
+továbbítására jogosult.
+
+(7) A nyilvántartó a vezetői engedély kiadásáról szóló döntését követően a vezetői engedély okmány megszemélyesítésével egyidejűleg a vezetői engedély okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
+
 25. § A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, illetőleg az adatokat személyazonosításra alkalmatlan módon statisztikai célra továbbíthatja.
 
 26. § (1) A nyilvántartás adatai összekapcsolhatók a körözött járművek és okmányok nyilvántartásával, valamint a kötelező gépjármű-felelősségbiztosítási kötvény nyilvántartással.
@@ -364,7 +385,9 @@ igényelhető.
 (3) A (2) bekezdés szerinti automatizált keresés elrendelésére feljogosított hatóságok:
 
 - a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
-- b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+- b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési és közigazgatási eljárások lefolytatása céljából
+  - ba) a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+  - bb) közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, valamint az autópályák, autóutak és főutak használatának díjáról szóló törvény szerinti útdíjellenőrzésre feljogosított szervezet,
 - c) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
 - d) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a külön törvényben meghatározott szervek.
 
@@ -387,6 +410,14 @@ igényelhető.
 - c) a közúti közlekedésről szóló 1988. évi I. törvény 20. és 21. §-ában meghatározott közigazgatási bírságot kiszabó hatóság.
 
 (3) A nyilvántartó az automatizált keresés eredményéről az elrendelő hatóságot haladéktalanul értesíti.
+
+### Automatizált keresés az engedély-nyilvántartásban
+
+27/D. § (1) A nyilvántartó, mint nemzeti kapcsolattartó pont a vezetői engedély kiállításához, pótlásához, megújításához vagy cseréjéhez szükséges ellenőrzés céljából történő adatigénylés teljesítéséhez biztosítja az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 8. § (1) bekezdés a) pont aa)–ag) alpontjaiban és a 8. § (1) bekezdés b) pontjában meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést.
+
+(2) A nyilvántartó a közlekedési igazgatási hatóság által egyedi ügyben igényelt adatlekérdezés esetén – az adatlekérdezést igénylő közlekedési igazgatási hatóság által meghatározott személy vezetési jogosultságával összefüggő és vezetői engedélyére vonatkozó adatok tekintetében – a Vezetői Engedélyek Európai Uniós Hálózata (RESPER) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést végez az Európai Unió más tagállama nemzeti vezetői engedély nyilvántartási adatállományaiban.
+
+(3) A nyilvántartó az automatizált keresés eredményéről az adatigénylő közlekedési igazgatási hatóságot haladéktalanul értesíti.
 
 ### IV. Fejezet — ADATVÉDELEM
 
@@ -473,7 +504,10 @@ igényelhető.
 
 (5) A nyilvántartó a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl a közreműködőkről vezetett nyilvántartásban nyilvántartja a közreműködő által bejelentett vizsgáló természetes személyazonosító adatait, valamint a vizsgálói jogosultságára vonatkozó adatokat.
 
-33/B. § (1) A nyilvántartó a büntetőeljárás jogerős lezárásáig vagy annak megszüntetéséig felfüggeszti a vizsgálónak a vizsgálói tevékenységre való jogosultságát, ha vele szemben a közélet tisztasága elleni, a közbizalom elleni vagy vagyon elleni bűncselekmény miatt büntetőeljárás indult.
+33/B. § (1) A nyilvántartó a büntetőeljárás jogerős lezárásáig vagy annak megszüntetéséig felfüggeszti a vizsgálónak a vizsgálói tevékenységre való jogosultságát, ha vele szemben
+
+- a) a 2013. június 30-ig hatályban volt közélet tisztasága elleni, a közbizalom elleni vagy vagyon elleni,
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII., XXXIII. vagy XXXV–XXXVII. Fejezetében meghatározott bűncselekmény miatt büntetőeljárás indult.
 
 (2) A nyilvántartó a vizsgálói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgáló büntetlen előéletű és nem áll a vizsgálói tevékenységet kizáró foglalkozástól eltiltás vagy az (1) bekezdés szerinti büntetőeljárás hatálya alatt. A hatósági ellenőrzés céljából a nyilvántartó adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a közúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás vagy az (1) bekezdés szerinti büntetőeljárás hatálya alatt áll-e.
 
@@ -527,18 +561,16 @@ igényelhető.
   - ba) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozatnak,
   - bb) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i, 2008/616/IB tanácsi határozatnak,
   - bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló, 2009. szeptember 21-i, 2009/1023/IB tanácsi határozatnak, továbbá
-- c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i, 2011/82/EU európai parlamenti és tanácsi irányelv 4. és 7. Cikkének, valamint I. Mellékletének
+- c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i, 2011/82/EU európai parlamenti és tanácsi irányelv 4. és 7. Cikkének, valamint I. Mellékletének,
+- d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének
 
 való megfelelést szolgálja.
-
-(2) E törvény
-
-- a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 2006. december 20-i, 1986/2006/EK európai parlamenti és tanácsi rendelet, továbbá
-- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 31–34. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007/533/IB tanácsi határozat 36., 38–39. és 45–49. cikkének átültetését szolgálja.
 
 (3) E törvény
 
 - a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
-- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének végrehajtását szolgálja.
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének
+
+végrehajtását szolgálja.

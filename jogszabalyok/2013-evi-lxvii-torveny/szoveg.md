@@ -51,41 +51,199 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 #### 3. Úthasználati jogosultság
 
-#### 3. §
+3. § (1) Az útdíjköteles elemi útszakaszok útdíjköteles gépjárművel történő használatához e törvényben meghatározott úthasználati jogosultságot kell szerezni.
+
+(2) Az (1) bekezdés szerinti úthasználati jogosultság ellenértékeként a díjfizetésre kötelezettek az e törvény felhatalmazása alapján kiadott rendeletben meghatározott útdíj fizetésére kötelesek.
+
+(3) Az útdíjat az útdíjköteles gépjárművek egyes csoportjaira vonatkozóan e törvény felhatalmazása alapján kiadott rendeletben meghatározott díjkategóriák szerint kell megfizetni.
+
+(4) Az útdíjat az úthasználó által használt útdíjköteles elemi útszakaszok alapján kell megfizetni.
+
+(5) Ugyanazon útszakasz használatáért ugyanazon gépjármű után nem keletkezhet egyszerre használati díj és útdíj fizetési kötelezettség.
+
+(6) A gépjármű üzemben tartója – a (7) bekezdésben foglaltak kivételével – felel azért, hogy az általa üzemeltetett gépjárművel az (1) bekezdésben meghatározott előírások betartásra kerüljenek.
+
+(7) Amennyiben a közúti forgalomban történő ellenőrzés során a járművezető személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért a járművezető felelős.
 
 #### 4. Az útdíj mértékének meghatározásával kapcsolatos alapelvek
 
-#### 4–5. §
+4. § (1) Az útdíj meghatározása során irányadó díjkategóriák kialakításakor tekintettel kell lenni a gépjárművek motorjának környezetvédelmi besorolására is, előnyben részesítve a környezetkímélő gépjárművek úthasználatát.
+
+(2) Az útdíj részét képezi az infrastruktúra díj és – erre vonatkozó szakmapolitikai döntés esetén – részét képezheti a külsőköltség díj. Az infrastruktúra díjtételeket kifejezetten az érintett infrastruktúra-hálózat építési, üzemeltetési, fenntartási és bővítési költségeire alapozva kell megállapítani. A súlyozott átlagos infrastruktúradíj-tételek tartalmazhatják a piaci feltételekre alapozott tőkehozamot vagy haszonkulcsot is.
+
+(3) Az infrastruktúra díj mértékének meghatározásakor a forgalomszabályozási szempontok alapján alkalmazni lehet napszaktól, naptípustól, illetve évszaktól függő időszaki szorzókat is egy adott útszakasz vonatkozásában, de az infrastruktúra díj differenciálása egyetlen díjtétel esetében sem haladhatja meg 175%-nál nagyobb mértékben a súlyozott átlagos infrastruktúra díj legmagasabb összegét. Azon csúcsidőszakok időtartama, amelyek alatt a forgalmi torlódások csökkentése érdekében magasabb infrastruktúra díjat alkalmaznak, naponta nem haladhatja meg az öt órát.
+
+(4) Az útdíj tartalmazhatja az adott útszakaszokon a közlekedésnek tulajdonítható levegőszennyezés által okozott károk és költségek, valamint – ha az érintett terület lakossága zajártalomnak van kitéve – a közlekedésnek tulajdonítható zajártalom által okozott károk, költségek számszerűsítése alapján meghatározott költségátalányt is (külsőköltség-díj).
+
+5. § (1) Az elmaradott régiók felzárkóztatása érdekében az útdíjak megállapításakor lehetőség van a területi alapú megkülönböztetésre.
+
+(2) Az útdíj mértékének meghatározása során tilos indokolatlan közvetett vagy közvetlen megkülönböztetést alkalmazni, így különösen tilos a gépjárművek üzemben tartójának, az úthasználónak vagy a szerződött díjfizetőnek a honossága vagy letelepedési országa, továbbá a gépjárművek nyilvántartásba vételi helye, illetve a közlekedés kiindulási pontja vagy célállomása alapján történő megkülönböztetése.
+
+(3) Az infrastruktúra díj tekintetében a rendszeres úthasználók számára legfeljebb 13% díjkedvezmény adható. A díjkedvezmény az e törvény felhatalmazása alapján kiadott rendeletben meghatározott mértékben és feltételek alapján vehető igénybe.
+
+(4) A díjak megállapításakor figyelembevételre kerülő díjelemeket, a költségek számítási módszerét és az egyes gépjármű-kategóriákra való felosztását e törvény felhatalmazása alapján kiadott rendelet állapítja meg.
 
 #### 5. Az útdíj-fizetés lehetséges módjai
 
-#### 6–8. §
+6. § (1) Az útdíjszedést az UD rendszer használatával úgy kell végezni, hogy az ne gátolja a forgalom szabad áramlását.
+
+(2) Az útdíjköteles elemi útszakaszok használatához szükséges úthasználati jogosultság áll fenn
+
+- a) az úthasználat megkezdését megelőzően váltott viszonylati jegy alapján annak feltételei szerint, vagy
+- b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
+
+(3) Nem alapozza meg az úthasználati jogosultságot, ha a fedélzeti eszközt az úthasználó nem az arra vonatkozó szabályoknak megfelelően használja, vagy olyan fedélzeti eszköz útján teljesít bevallást, amelyet a fedélzeti eszközt regisztráló útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek szerint érvénytelenítette.
+
+(4) Az útdíjszedő megállapítja az útdíj összegét és beszedi az adott útdíjköteles elemi útszakasz vonatkozásában e törvény szerint bevallást benyújtó útdíjszolgáltatótól. Az útdíj útdíjszedő részére történő megfizetésnek nem lehet feltétele, hogy az annak megfelelő pénzösszeg az útdíjszolgáltatóhoz a díjfizetésre kötelezettől beérkezzen.
+
+(5) Az útdíjszolgáltató az útdíj beszedésével kapcsolatos műveletek során a szerződött díjfizetővel az UD rendszerhez való hozzáférésre vonatkozó szerződésben meghatározott, az e törvény hatálya alá tartozó gépjárművek útdíjköteles elemi útszakaszokon történő közlekedésére vonatkozóan az útdíjszedő részére az útdíjszedővel fennálló szerződésének megfelelő módon és gyakorisággal bevallást nyújt be, továbbá az útdíjszedő által a (4) bekezdés alapján megállapított útdíjat az útdíjszedőnek megfizeti. Az útdíjszolgáltató jogosult az útdíjat a szerződött díjfizetővel kötött, hatályos szerződés rendelkezéseinek és a jogszabályoknak megfelelően a díjfizetésre kötelezettől beszedni, vagy a díjfizetésre kötelezett által előre megfizetett útdíjegyenleg terhére elszámolni. Az útdíjszedő a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet az útdíjszolgáltatóknak.
+
+(6) A díjszedő köteles olyan szervezeti egységet vagy a kizárólagos tulajdonában álló gazdasági társaságot létrehozni és fenntartani, amely útdíjszolgáltatói feladatokat lát el.
+
+(7) Az egyetemes útdíjszolgáltatót az útdíjszolgáltató által nyújtandó alapvető szolgáltatások tekintetében, így különösen az UD rendszer szabályszerű használatához szükséges szolgáltatásokra vonatkozóan szerződéskötési kötelezettség terheli a díjfizetésre kötelezettel szemben, amennyiben ilyen irányú szándékát az egyetemes útdíjszolgáltatónak írásban bejelenti. Az egyetemes útdíjszolgáltató e szerződéskötési kötelezettségét viszonteladóin keresztül is teljesítheti. Az egyetemes útdíjszolgáltató a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a viszonteladóknak.
+
+(8) Az úthasználó bevallási közreműködőt vehet igénybe annak érdekében, hogy bevallási kötelezettségét a bevallási közreműködőn keresztül teljesítse az útdíjszolgáltató felé. A bevallási közreműködő jogszabályban meghatározott feltételek teljesítése esetén végezheti e tevékenységét, és szerződést kell kötnie az útdíjszolgáltatóval kötelezettségei teljesítése érdekében. A bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, az általa biztosított fedélzeti eszköz útján rögzített adatokat továbbítja az útdíjszolgáltatónak, amely alapján az útdíjszolgáltató a bevallást az útdíjszedőnek benyújtja, és – az útdíjszolgáltató és a szerződött díjfizető között fennálló szerződés alapján – közvetlenül az úthasználótól beszedi az útdíjat az útdíjszedő javára. A bevallási közreműködő az általa biztosított fedélzeti eszköz szabályszerű működésre való alkalmasságáért és a fenti adatok továbbításáért felelősséggel tartozik az úthasználónak. Amennyiben a bevallási közreműködőt az egyetemes útdíjszolgáltató vonja be, úgy a bevallási közreműködő részére az egyetemes útdíjszolgáltató a beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet.
+
+(9) Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni a külön jogszabályban foglalt követelményeknek megfelelő bevallási közreműködőkkel.
+
+7. § (1) Viszonylati jegyet az egyetemes útdíjszolgáltatónál lehet váltani. A viszonylati jegy ellenértékét annak megváltásakor kell kiegyenlíteni.
+
+(2) A viszonylati jegy formájában teljesített bevallást a viszonylati jegyet kibocsátó egyetemes útdíjszolgáltató a viszonylati jegy megváltását követően, azonban annak érvényességi idejét megelőzően továbbítja az útdíjszedőnek, a viszonylati jegynek megfelelő tartalommal.
+
+(3) Az útdíjszedő által kivetett útdíjat az útdíjszedő jogszabályban meghatározott esetekben téríti vissza.
+
+8. § Az útdíjszedő, az útdíjszolgáltató és a bevallási közreműködő az e törvény felhatalmazása alapján kiadott rendelet szerint meghatározott útdíj összegén felül nem számíthat fel a díjfizetésre kötelezettnek semmilyen további díjat vagy indokolatlan költséget az UD rendszerhez való hozzáférésért. Az úthasználati jogosultság ellenértékének meghatározásakor a jogszabályban meghatározott útdíj mértékétől nem lehet eltérni.
 
 #### 6. Mentesség a díj megfizetése alól
 
-#### 9–12. §
+9. § (1) Az útdíjfizetési és bevallási kötelezettség nem terheli:
+
+- a) a Magyar Honvédséget, a Katonai Nemzetbiztonsági Szolgálatot, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti rendvédelmi szerveket és az Országgyűlési Őrséget az általuk üzemben tartott gépjárművek után,
+- b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erőket és a Magyarországon felállított nemzetközi katonai parancsnokságokat hivatali vagy szolgálati gépjárműveik után, valamint az egyéb szervezeteket a nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműveik után,
+- c) az útdíjköteles elemi útszakasz kezelői feladatait jogszabály vagy a jogszabályban kijelölt közútkezelővel kötött szerződés alapján ellátó személyt vagy szervezetet, a kezelt útszakaszon közútkezelői feladatokat ellátó gépjármű után,
+- d) az útdíjszedőt a feladatait ellátó gépjárművei után,
+- e) a megkülönböztető jelzés használatára jogosultat a Magyarországon kiadott forgalmi rendszámú gépjárművek után, függetlenül attól, hogy a megkülönböztető jelzést az útdíjköteles elemi útszakaszon való haladás közben használják-e,
+- f) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjárművek üzemeltetőit, ezen feladatok ellátása során, továbbá az önkéntes tűzoltó egyesületek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes vagy köteles polgári védelmi egységek tagjait az elrendelt gyakorlat során igénybe vett gépjárművek után,
+- g) a közlekedési hatóságot az általa üzemben tartott, közlekedési hatósági feladat teljesítése érdekében igénybe vett gépjárművek után,
+- h) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni Megállapodás) és viszonosság körébe tartozó járművek,
+- i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során.
+
+(2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
+
+(3) A közlekedésért felelős miniszter (a továbbiakban: miniszter) a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
+
+(4) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartását a Kormány által rendeletben kijelölt hatóság vezeti (a továbbiakban: nyilvántartó).
+
+(5) Az útdíjköteles elemi útszakaszok díjmentes használatára jogosultak nyilvántartása tartalmazza
+
+- a) a jármű forgalmi rendszámát,
+- b) a jármű azonosító és műszaki adatait,
+- c) a járműokmány eltulajdonítására, megsemmisülésére, elvesztésére, találására, megkerülésére vonatkozó adatokat,
+- d) a díjmentes használat jogcímének megjelölését, továbbá
+- e) a díjmentes használati jogosultság kezdő időpontját és annak időtartamát.
+
+(6) A nyilvántartás személyes adatokat nem tartalmaz.
+
+10. § A 9. § (1) bekezdés h) és i) pontjában meghatározott járművek a nemzetközi kapcsolattartásra jogosult hatósághoz, az f) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő bejelentés alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően jogosultak a díjmentesség igénybevételére.
+
+11. § (1) A nyilvántartót elektronikus úton értesíti a 9. § (1) bekezdés alapján mentességet élvező szervezet a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9. § (5) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
+
+(2) A nemzetközi szerződés, nemzetközi egyezmény és viszonosság körébe tartozó, a nemzetközi humanitáriánus segélyszállítmányokat szállító járművek esetében, továbbá a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításban részt vevő gépjárművek időszakos díjmentességét a nemzetközi kapcsolattartásra jogosult, valamint a katasztrófavédelmi hatóság az (1) bekezdésben meghatározott módon jegyzi be a nyilvántartásba.
+
+12. § A nyilvántartó a 9. § (5) bekezdésben megjelölt adatokat az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság megszűnését követő 2 évig kezeli.
 
 ### III. Fejezet — AZ ÚTDÍJ-BEVÉTEL FELHASZNÁLÁSA
 
 #### 7. Az útdíj-bevétel felhasználásának alapelvei
 
-#### 13. §
+13. § (1) Az útdíjból származó bevétel az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára számolandó el, mint költségvetési bevétel.
+
+(2) Az útdíj bevétel, ide nem értve a (3) bekezdésben foglalt külsőköltség díjbevételt, az alábbi sorrend figyelembevételével – a mindenkori szakmapolitikai döntésekkel összhangban – használható fel:
+
+- a) az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+- b) a díjköteles országos közúthálózat üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+- c) az egyéb országos közúthálózati elemek üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+- d) a közúti közlekedési infrastruktúrával összefüggő egyéb állami feladatok, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+- e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésre állási díja fizetésének,
+- f) az országos közúthálózati elemek meglévő kapacitásának bővítése és új hálózati elemek kiépítése
+
+érdekében.
+
+(3) Az útdíj bevételből a külsőköltség díjbevétel az alábbi sorrend figyelembevételével – a mindenkori szakmapolitikai döntésekkel összhangban – használható fel:
+
+- a) a hatékony árképzés elősegítése,
+- b) a közúti közlekedésnek tulajdonítható környezetszennyezés forrásnál való csökkentése,
+- c) a közúti közlekedésnek tulajdonítható környezetszennyezés hatásainak a szennyezés forrásánál történő enyhítése,
+- d) a járművek széndioxid kibocsátásának mérséklésére és energiahatékonyságának javítása és ellenőrzése,
+- e) a közúti közlekedés biztonságának javítása,
+- f) a közlekedők által igénybe vehető alternatív infrastruktúra fejlesztése, illetve a meglévő kapacitás növelése,
+- g) a transzeurópai közlekedési hálózat támogatása,
+- h) a logisztikai tevékenység optimalizálása,
+- i) a biztonságos parkolóhelyek biztosítása
+
+érdekében.
 
 ### IV. Fejezet — A MEGTETT ÚTTAL ARÁNYOS DÍJSZEDÉSI RENDSZERREL ÖSSZEFÜGGŐ KÖZIGAZGATÁSI FELADATOK
 
 #### 8. Az útdíjfizetési kötelezettség teljesítésének ellenőrzése és elmulasztásának szankciója
 
-#### 14. §
+14. § Jogosulatlan úthasználatnak minősül – a 9. § szerinti mentesség eseteinek kivételével – , ha:
+
+- a) az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan és nincs hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése,
+- b) a díjfizetésre kötelezett az útdíjköteles elemi útszakaszt a díjkategóriájánál alacsonyabb díjkategóriához tartozó bevallás alapján használja, vagy
+- c) az útdíjköteles elemi útszakasz használatára az érintett gépjármű vonatkozásában van hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése, de a fedélzeti eszköz szabályszerű működtetésének az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek valamelyike nem teljesül az útdíjköteles elemi útszakaszok használata során, és az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan.
 
 15. § (1) A bírság mértékét úgy kell megállapítani, hogy az az előírt díj megfizetésére ösztönözze a díjfizetésre kötelezetteket.
 
-(2)
+(2) A kiszabott bírság az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezet javára elszámolandó költségvetési bevételként a központi költségvetés bevételét képezi. A kiszabott bírság összegének megfizetése forintban, az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlaszámra történő befizetéssel történik.
 
-#### 16–17. §
+16. § Az e törvény szerinti jogosulatlan úthasználat szabályszegés, amelynek észlelése esetén a közúti közlekedésről szóló törvény alapján bírság szabható ki.
+
+17. § (1) Az útdíjszedő az útdíjellenőrzési feladatokat ellátó általános rendőrségi feladatokat ellátó szerv (a továbbiakban: Rendőrség) útdíjellenőrzési tevékenységének támogatása érdekében:
+
+- a) az adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
+- b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal,
+- c) a b) pont szerinti összevetés alapján összeállított adatállományt – kivéve a jogosult úthasználatra vonatkozó adatokat – átadja az útdíjellenőrzésre jogosult hatóság számára.
+
+(2) A Rendőrség az (1) bekezdés c) pontja szerinti adatokat összeveti az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival, majd az összevetés eredményeként előállított, a vélelmezett szabályszegések esetében hivatalból megindítja a külön törvényben meghatározott hatósági eljárást.
+
+(3) A Rendőrség az útdíjellenőrzési tevékenysége keretében jogosult közvetlenül adathozzáféréssel a rögzített rendszám adat alapján az ellenőrzéshez szükséges gépjárműre vonatkozó adatokat átvenni az úthasználati jogosultsággal rendelkezőkről az útdíjszedő által vezetett nyilvántartásból (úthasználati jogosultsággal rendelkezők nyilvántartása).
+
+(4) Az UD rendszerben kezelt adatok teljes körét egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult átvenni
+
+- a) a bíróság, a közigazgatási bírság bírósági felülvizsgálatával kapcsolatos eljárás lefolytatása céljából,
+- b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
+- c) a nyomozó hatóságok, a hatáskörükbe tartozó bűncselekmények nyomozásával összefüggő feladatok ellátása érdekében,
+- d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
+- e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
+- f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége céljából.
+
+(5) Az (4) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
 
 #### 9. Az útdíjszedő és az útdíjszolgáltatók tevékenységének felügyelete
 
-#### 18–20. §
+18. § Az e törvény felhatalmazása alapján kiadott rendeletben kijelölt felügyeleti szerv hatósági ellenőrzés keretében ellenőrzi az útdíjszedő és az útdíjszolgáltató e törvény és az annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó tevékenységének jogszerűségét.
+
+19. § (1) A felügyeleti szerv az ellenőrzés során az útdíjszedő és az útdíjszolgáltató e törvény hatálya alá tartozó tevékenységeire vonatkozó adatbázisaiba betekinthet, az ott tárolt adatokról, listákról másolatot, vagy feljegyzést készíthet. Az így tudomására jutott személyes adatokat a felügyeleti szerv a hatósági ellenőrzési eljárás lezárását követő egy év elteltével törli.
+
+(2) Az útdíjszedő és az útdíjszolgáltató az adatbázisait úgy köteles kialakítani és működtetni, hogy a felügyeleti szerv az ellenőrzési feladatának az adatbázis működésének sérelme nélkül, bármikor eleget tudjon tenni.
+
+(3) A felügyeleti szerv a vizsgálatának megállapításait jogosult nyilvánosságra hozni azzal, hogy a díjfizetésre kötelezettek és az úthasználók személyes adatait nem hozhatja nyilvánosságra.
+
+(4) Ha a felügyeleti szerv az ellenőrzési jogosítványai alapján adatot kér, a megkeresésnek – ha e törvény másként nem rendelkezik – a megkeresett útdíjszedő és útdíjszolgáltató a felügyeleti szerv által megállapított határidőn belül köteles eleget tenni.
+
+20. § (1) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy az útdíjszedő, vagy az útdíjszolgáltató nem a jogszabályoknak megfelelően végzi tevékenységét, az alábbi jogkövetkezményeket alkalmazhatja:
+
+- a) felhívja az érintett útdíjszedő vagy útdíjszolgáltató figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére,
+- b) felügyeleti bírságot szab ki, amelynek mértéke 1 millió forinttól 100 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi,
+- c) az a) pont alapján megadott határidő eredménytelen eltelte után az útdíjszolgáltató tevékenységét, EETS szolgáltató esetén annak magyarországi tevékenységét felfüggeszti, és ezt a tényt az általa vezetett nyilvántartásban rögzíti.
+
+(2) A felügyeleti bírság kiszabása során a felügyeleti szerv mérlegeli:
+
+- a) a jogszabálysértés súlyát,
+- b) korábbi jogszabálysértés súlyát és gyakoriságát,
+- c) az útdíjszedő vagy útdíjszolgáltató éves árbevételének nagyságát,
+- d) a jogszabálysértéssel okozott kár nagyságát és a károsultak számát.
 
 #### 10. A díjszedésben résztvevő szervezetek nyilvántartása
 
@@ -96,11 +254,25 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - a) egyéni vállalkozó esetén annak nevét, lakóhelyét, anyja nevét, születési helyét és idejét, elektronikus levélcímét, telefonszámát, fizetési számla számát, valamint a személyazonosításra szolgáló okmánya számát, továbbá vállalkozói igazolványának számát vagy a bejegyző hatóság által kiadott azonosítóját, és adószámát vagy a bejegyzése szerinti ország adóhatósága által kiadott más hasonló azonosítóját,
 - b) jogi személy és jogi személy nélküli gazdasági társaság (alábbiakban együttesen: szervezet) esetén a szervezet nevét, székhelyét, cégjegyzékszámát vagy a bejegyző hatóság által kiadott azonosítóját, adószámát vagy a bejegyzése szerinti ország adóhatósága által kiadott más hasonló azonosítóját, fizetési számlája számát, a képviseletére jogosultak nevét, beosztásukat, a szervezet elektronikus levélcímét és telefonszámát.
 
-(3)–(4)
+(3) A felügyeleti szerv a (2) bekezdésben foglaltakon túl az (1) bekezdésben meghatározott céllal nyilvántartást vezet az alábbiakról:
+
+- a) az útdíjköteles elemi útszakaszok, továbbá annak megjelölése, hogy ezek közül melyek tartoznak az EETS körébe,
+- b) az útdíjköteles elemi útszakaszokon díjszedői feladatokat ellátó szervezet(ek) megnevezése,
+- c) az útdíjköteles elemi útszakaszokon alkalmazott díjszedési technológia,
+- d) az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj megállapításával összefüggő adatok (így különösen a díjkategóriák és más, a díjfizetést befolyásoló jellemzők, valamint az alkalmazott díjtételek),
+- e) az útdíjszedő által külön jogszabályban meghatározott területi nyilatkozat teljes szövege.
+
+(4) Amennyiben a nyilvántartott adataiban változás áll be, a nyilvántartásban szereplő személy vagy szervezet köteles a változást 15 napon belül a felügyeleti szervnek bejelenteni. A bejelentett változást a felügyeleti szerv a változások idejének megjelölésével vezeti át. Amennyiben a felügyeleti szerv a változásról hivatalból szerez tudomást, úgy a változás átvezetéséről is hivatalból gondoskodik, az adatváltoztatásról a nyilvántartott személyt, szervezetet 15 napon belül értesíti. Amennyiben a bejelentés megtételére köteles személy bejelentési kötelezettségének nem tesz eleget és a felügyeleti szerv hivatalból sem szerez tudomást a változásról annak bekövetkezésétől számított 15 napon belül, úgy a felügyeleti szerv a 20. § (1) bekezdés a) és b) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
 
 (5) Amennyiben a felügyeleti szerv a 20. § (1) bekezdés c) pontja alkalmazásával valamely útdíjszolgáltató vagy EETS szolgáltató tevékenységét felfüggeszti, akkor ennek a 21. § (1) bekezdése szerinti nyilvántartásba történő bejegyzéséről is rendelkezik határozatában. Az útdíjszolgáltató vagy EETS szolgáltató a tevékenységének felfüggesztéséről szóló határozat jogerőre emelkedésétől számított legalább három hónapos várakozási időt követően kérheti a felügyeleti szervtől, hogy hatósági ellenőrzést folytasson le az érintett útdíjszolgáltatónál vagy EETS szolgáltatónál annak megállapítása érdekében, hogy indokolt-e a tevékenység felfüggesztésének fenntartása. Amennyiben a felügyeleti szerv ellenőrzésének eredményeként megállapítja, hogy az érintett útdíjszolgáltató vagy EETS szolgáltató megszüntette a felfüggesztés alapjául szolgáló körülményeket és rendelkezik a tevékenység jogszerű folytatásának feltételeivel, akkor a felügyeleti szerv engedélyezi a tevékenység folytatását, és intézkedik a tevékenység felfüggesztésének nyilvántartásból való törléséről.
 
-#### 22. §
+22. § (1) A felügyeleti szerv évente legalább egyszer megvizsgálja, hogy az útdíjszolgáltató teljesíti-e a rá vonatkozó jogszabályi követelményeket. Amennyiben nem, 30 napos határidő tűzésével felhívja az útdíjszolgáltatót a jogszabálynak való megfelelésre, ennek eredménytelen eltelte után az újtdíjszolgáltatót törli a nyilvántartásból.
+
+(2) A nyilvántartás adatai – egyéni vállalkozók lakóhelyének, személyazonosításra szolgáló okmánya számának kivételével – közérdekből nyilvánosak.
+
+(3) A felügyeleti szerv minden naptári év végén elektronikus úton eljuttatja az Európai Unió tagállamainak nyilvántartást vezető szervezetei és az Európai Bizottság számára az EETS szolgáltatásba bevont úthálózatra és az EETS szolgáltatókra vonatkozó adatokat.
+
+(4) A felügyeleti szerv értesíti az EETS szolgáltató nyilvántartásba vételének helye szerint illetékes tagállamot és az Európai Bizottságot, ha a számára e tagállam nyilvántartást vezető szervezete által megküldött adatok és az általa belföldön tapasztalt tényleges helyzet közötti eltérést észlel.
 
 #### 11. Egyeztető szerv
 
@@ -160,13 +332,21 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - e) a gépjármű vagy gépjárműszerelvény forgalmi rendszámát,
 - f) a gépjárműnek vagy gépjárműszerelvénynek a díjkategória meghatározásához szükséges jellemzőit.
 
-(5)–(7)
+(5) A Rendőrség jogosult az úthasználati jogosultsággal rendelkezőkről és az érvénytelenített fedélzeti eszközökről az útdíjszedő által vezetett nyilvántartással, valamint az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak adataival összevetni a (4) bekezdés szerinti adatokat. Az útdíjellenőrzési feladatok ellátása során a Rendőrség jogosult a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében meghatározott adatokat, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. § (2) bekezdés b) pontja és (6) bekezdése szerinti adatokat, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény III. fejezet 1. Címében meghatározott adatokat, valamint a közúti közlekedésről szóló 1988. évi I. törvény 21/D. § (1) bekezdésében foglalt adatokat, továbbá az útdíjköteles elemi útszakaszok térítésmentes használatára jogosultak nyilvántartásában szereplő adatokat átvenni.
+
+(6) A Rendőrség jogosult külföldi hatósági jelzéssel ellátott jármű rendszámát, amennyiben a jármű fedélzeti eszközzel felszerelt, annak azonosító adatait; a szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, amennyiben a jogsértő üzembentartó személye helyszíni ellenőrzés, illetve automatizált lekérdezés útján nem volt megállapítható.
+
+(7) A Rendőrség a bírság kiszabására irányuló eljárásban közvetlen adathozzáféréssel átveheti a tagállami járműnyilvántartásokból a szabályszegés bizonyításához szükséges rendszám adatokat, a természetes személy üzemben tartó személyi- és lakcímadatait, és a nem természetes személy üzemben tartó azonosításához szükséges adatokat.
 
 (8) Az útdíjszolgáltató köteles az általa vezetett, az úthasználatra vonatkozó szolgáltatási szerződés hatálya alá tartózó személyek és gépjárművek útdíjszedéshez és útdíjellenőrzéshez szükséges adatait – az e §-ban meghatározott adatkezelési jogosultságok figyelembevételével – az útdíjszedő, az útdíjellenőrzésre feljogosított szervezet, valamint a felügyeleti szerv számára átadni.
 
-(9)–(11)
+(9) Az útdíjszedő és az útdíjszolgáltató köteles – az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban rögzített módon – együttműködni a titkos információgyűjtésre, illetve titkos adatszerzésre a nemzetbiztonsági szolgálatokról szóló törvény, továbbá a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint felhatalmazott szervezetekkel. Az útdíjszedő és az útdíjszolgáltató, valamint az útdíjellenőrzésre feljogosított szervezet az e törvény alapján folytatott tevékenységét olyan módon köteles végezni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a titkos adatszerzést.
 
-#### 27. §
+(10) A büntetőeljárásról szóló törvény szerinti nyomozó hatóságok és a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Nemzeti Adó- és Vámhivatal törvényben foglalt feladatai ellátása érdekében az útdíjköteles elemi útszakaszon közlekedő járművek díjszedési jellemzőit (így különösen az úthasználat helyét, idejét, a gépjármű vagy gépjárműszerelvény forgalmi rendszámát és a díj mértékének megállapítása során jelentőséggel bíró jellemzőit) az UD rendszer igénybevétele útján megfigyelhetik, az onnan származó adatokat tárolhatják.
+
+(11) Az útdíjszedő és az útdíjszolgáltató – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, gépjárműveit érintő adatszolgáltatási megkeresésekről. A tájékoztatás elektronikus megvalósításának módját és eljárásrendjét az útdíjszedő, az útdíjszolgáltató és a felügyeleti szerv közötti együttműködési megállapodásban kell rögzíteni.
+
+27. § Az útdíjból, valamint ennek megfizetésének elmaradása esetén fizetett bírságból származó bevételeket, illetve ezek felhasználására vonatkozó adatokat a 13. § (2) bekezdésében meghatározott célok finanszírozását szolgáló költségvetési előirányzat kezelője köteles a honlapján hozzáférhetővé tenni, illetve az e törvény felhatalmazása alapján kiadott rendelet szerint létrehozott Társadalmi Egyeztető Szervezet részére – kérés esetén – megküldeni.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -228,17 +408,98 @@ való megfelelést szolgálja.
 
 #### 18. Módosító rendelkezések
 
-#### 32–33. §
+32. § (1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 12. § (3c)–(5) bekezdése helyébe a következő rendelkezés lép:
+
+„(3c) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett –berendezésekre, amelyek kizárólag a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
+
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), (3c) bekezdésekben megállapított tilalmat megszegik, valamint a (3b) bekezdésben megállapított tilalmak megszegése estében a közvilágítási-, villany-, telefonoszlop tulajdonosát vagy a reklámtábla tulajdonosát a jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság fizetésére kötelezi. A bírság ismételten is kiszabható.
+
+(4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a következőket mérlegeli:
+
+a) a közvetlen balesetveszély lehetősége,
+
+b) a tilalom megszegésének ismétlődése.
+
+(5) A közút kezelője a hozzájárulása nélkül vagy attól eltérő módon az út területén elhelyezett reklámcélú tárgyat vagy berendezést a reklám célú tárgy tulajdonosának, közvilágítási-, villany-, telefonoszlop esetében az oszlop tulajdonosának vagy a reklámtábla tulajdonosának költségére eltávolíthatja.”
+
+(2) A Kkt. 15. § (2) bekezdése helyébe a következő rendelkezés lép :
+
+„(2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.”
+
+(3) A Kkt. 20. § (1) bekezdése a következő m) ponttal egészül ki:
+
+(Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban)
+
+„m) az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra”
+
+(vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.)
+
+(4) A Kkt. 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).”
+
+(5) A Kkt. 20. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) vagy m) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.”
+
+(6) A Kkt. 20. § (7) bekezdésének helyébe a következő rendelkezés lép:
+
+„(7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a hatósági eljárás lefolytatása során, illetve a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
+
+a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+
+b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, bankgaranciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.”
+
+(7) A Kkt. 20. § (11) bekezdése a következő g) ponttal egészül ki:
+
+[Magyarország területén magyar vagy külföldi rendszámú közúti jármű közlekedésére, valamint a közúti járművel végzett áru-, illetve személyszállítási tevékenységre vonatkozó az (1) bekezdés szerinti rendelkezések megtartását]
+
+„g) az (1) bekezdés m) pontja tekintetében a rendőrség”
+
+[jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is, a belföldi forgalomban közlekedő járműnek az (1) bekezdés a) és b), valamint f)–j) pontjában meghatározott ellenőrzésébe a vámhatóság is bevonható.]
+
+(8) A Kkt. 20. §-a a következő (16) bekezdéssel egészül ki:
+
+„(16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.”
+
+33. § (1) A Kkt. 21. § (1) bekezdése a következő h) ponttal egészül ki:
+
+[A gépjármű üzemben tartója, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személy felel azért, hogy az általa üzemeltetett, illetve használt gépjárművel]
+
+„h) a díjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra”
+
+(vonatkozó – külön jogszabályban meghatározott – egyes előírások betartásra kerüljenek.)
+
+(2) A Kkt. 21. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) Amennyiben a 20. § (1) bekezdés k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.”
+
+(3) A Kkt. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának – az (1) bekezdés h) pontja kivételével – kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.”
+
+(4) A Kkt. 21. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának az (1) bekezdés h) pontja esetén kizárólag az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló törvényben (a továbbiakban: ED törvény) meghatározott UD rendszer üzemeltetője által a bírság kiszabására jogosult hatóságnak átadott adatok alapján van helye.”
 
 #### 34. §
 
-#### 35. §
+35. § A Kkt. 33/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az ÁAK Zrt. látja el. Ennek végrehajtása érdekében a KKK szerződést köt az ÁAK Zrt.-vel.”
 
 #### 36. §
 
 37. § (1)
 
-(2)
+(2) Hatályát veszti a Kkt.
+
+- a) 29/F. §-a,
+- b) 33/A. § (2) bekezdése,
+- c) 33/B. § (2) és (9) bekezdése,
+- d) 48. § (3) bekezdés a) pont 19. alpontja,
+- e) 48. § (3) bekezdés b) pont 38. alpontja,
+- f) 48. § (3) bekezdés g) pont 1. alpontja.
 
 (3) Nem lép hatályba
 
@@ -247,4 +508,36 @@ való megfelelést szolgálja.
 
 (4) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 252. §-ával megállapított, a közúti közlekedésről szóló 1988. évi I. törvény 20/A. § (1) bekezdése a „ , valamint a 33/C. § (1) bekezdése szerinti ellenőrzés” szövegrész nélkül lép hatályba.
 
-#### 38–40. §
+38. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. §-a a következő e) ponttal egészül ki:
+
+[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
+
+„e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.”
+
+39. § (1) A rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 84. § (2) bekezdése a következő l) ponttal egészül ki:
+
+(A rendőrség a törvényben meghatározott feladatai teljesítése érdekében térítés nélkül adatot kérhet az alábbi nyilvántartásokból)
+
+„l) az autópályák, autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény alapján az UD Rendszerben kezelt jogosulatlan úthasználók adatbázisából,”
+
+(2) Az Rtv. 84. § (2) bekezdése a következő v) ponttal egészül ki:
+
+(A rendőrség a törvényben meghatározott feladatai teljesítése érdekében térítés nélkül adatot kérhet az alábbi nyilvántartásokból)
+
+„v) központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartásból”
+
+(3) Az Rtv. 84. § (2) bekezdésének g) pontjában az „és az előzetes eredetiségvizsgálati nyilvántartás)” szövegrész helyébe az „ , a díjköteles útszakaszok díjmentes használatára jogosultak nyilvántartása és az előzetes eredetiségvizsgálati nyilvántartás)” szöveg lép.
+
+40. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 19. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A Rendőrség az útdíjköteles elemi útszakaszok díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadata alapján történő lekérdezéssel jogosult a járműnyilvántartás 9. § (1) bekezdés szerinti adatait megismerni.”
+
+(2) A Kknyt. 27/A. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A (2) bekezdés szerinti automatizált keresés elrendelésére feljogosított hatóságok:]
+
+„b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési és közigazgatási eljárások lefolytatása céljából
+
+ba) a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+
+bb) közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, valamint az autópályák, autóutak és főutak használatának díjáról szóló törvény szerinti útdíjellenőrzésre feljogosított szervezet,”

@@ -68,6 +68,8 @@ is végezhető, feltéve, ha az a)–b) pont szerinti felhasználásról, tárol
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
 
+(11) A fémkereskedelmi hatóság által a (10) bekezdés alapján vezetett nyilvántartás – a telephelyek nyitva tartására vonatkozó adat, illetve azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
 ### A fémkereskedő nyilvántartási és bejelentési kötelezettsége
 
 5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként (címzettenként) az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást köteles vezetni, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíteni. A fémkereskedő a nyilvántartásban szereplő adatokról külön jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel.
@@ -99,7 +101,7 @@ törli.
 - e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére elektronikus úton teljesíti, és
 - f) aki rendelkezik a külön jogszabályban meghatározott képesítéssel vagy amely a külön jogszabályban meghatározott képesítéssel rendelkező személyt foglalkoztat.
 
-(2) Nem adható engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(2) Nem adható engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét a 2013. június 30-ig hatályban volt gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 7. § (1) A kérelmező a 6. §-ban foglalt feltételek fennállása esetén is csak arra a raktározásra, tárolásra használt telephelyre kaphat engedélyt, ahol az előállított, raktározott fémkereskedelmi engedélyköteles anyagok biztonságos tárolásához, pontos mennyiségi számbavételéhez, a hatósági felügyelet ellátásához, az ellenőrzések folytatásához szükséges tárgyi feltételek adottak.
 
@@ -150,7 +152,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 - a) a fémkereskedő ellen felszámolási eljárás indult,
 - b) a fémkereskedő az e törvényben a tevékenységi biztosíték rendelkezésre bocsátásával vagy a fémkereskedelmi hatóság felé fennálló adatszolgáltatási kötelezettségével kapcsolatban fennálló kötelezettségét elmulasztja, és a hiányosság megszüntetésére a fémkereskedelmi hatóság által megadott határidőn belül nem intézkedik,
 - c) az 5. § (4) bekezdés szerinti kötelezettségét nem teljesíti,
-- d) a fémkereskedőt, a fémkereskedő vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és az elítélt az ítélet jogerőre emelkedésével a büntetett előélethez fűződő hátrányos következmények alól nem mentesült,
+- d) a fémkereskedőt, a fémkereskedő vezetőjét, vezető tisztségviselőjét a 2013. június 30-ig hatályban volt gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény, illetve a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és az elítélt az ítélet jogerőre emelkedésével a büntetett előélethez fűződő hátrányos következmények alól nem mentesült,
 - e) a fémkereskedő nem felel meg a 6. § (1) bekezdés a) pontjában, illetve a 7. § (1) bekezdésében foglalt feltételeknek.
 
 (3) A fémkereskedelmi hatóság a fémkereskedelmi engedély visszavonásával, illetve módosításával az engedélyköteles tevékenység adott telephelyen való végzésének jogosultságát megszünteti, amennyiben a fémkereskedelmi tevékenységet a fémkereskedelmi engedélyben foglalt feltételektől eltérően végző fémkereskedővel szemben a 11. § (2) bekezdés a) pontja alapján jogerősen bírságot szab ki.
@@ -211,6 +213,8 @@ fémkereskedelmi engedélyköteles anyag hasznosítását.
 (6) A jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 
 13. § (1) A fémkereskedelmi hatóság nyilvántartást vezet az eltulajdonított fémkereskedelmi engedélyköteles anyagok azonosításához szükséges adatokról, amelyet honlapján közzétesz.
+
+(1a) A fémkereskedelmi hatóság által az (1) bekezdés alapján vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A fémkereskedelmi hatóság eljárására az e törvényben nem szabályozott kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 

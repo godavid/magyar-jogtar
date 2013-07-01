@@ -88,6 +88,11 @@ terjed ki.
 
 9. § Az e törvényben foglalt egészségügyi szolgáltatások az egészségbiztosítóval az adott szolgáltatásra finanszírozási szerződéssel rendelkező (a továbbiakban: finanszírozott) egészségügyi szolgáltatónál vehetők igénybe. A finanszírozott egészségügyi szolgáltató feladata a 18. § (6) bekezdésében foglalt ellátások közül azok végzése is, amelyek a központi költségvetés terhére az E. Alapon keresztül kerülnek finanszírozásra.
 
+9/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 292/B. §-ában foglaltakat a finanszírozott egészségügyi szolgáltatók és a 30. § (2) bekezdése szerinti szerződéssel rendelkező szolgáltatók vonatkozásában azzal az eltéréssel kell alkalmazni, hogy esetükben
+
+- a) a pénztartozás teljesítésére a Ptk. 292/B. § (1) bekezdésében meghatározott határidő hatvan nap,
+- b) a pénztartozás teljesítésére szerződésben kikötött határidő a hatvan napot meghaladó részében semmis.
+
 ### II. Fejezet — AZ EGÉSZSÉGBIZTOSÍTÁS EGÉSZSÉGÜGYI SZOLGÁLTATÁSAI
 
 ### 1. CÍM — Térítésmentesen, igénybe vehető egészségügyi szolgáltatások
@@ -681,7 +686,7 @@ igazolja.
 
 (5) Az egészségbiztosító a külön jogszabályban meghatározottak figyelembevételével gyógyászati ellátás támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdés b)–c) pontjában foglalt feltételeknek és külön jogszabályban foglaltak szerint gyógyászati ellátás rendelésére jogosult.
 
-(6) Az egészségbiztosító külön jogszabályban foglaltak szerint anyatej, gyógyszer, gyógyászati segédeszköz saját maga vagy a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
+(6) Az egészségbiztosító külön jogszabályban foglaltak szerint anyatej, gyógyszer, gyógyászati segédeszköz saját maga vagy a Ptk. szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
 
 (7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója részére
 
@@ -1647,3 +1652,5 @@ meghatározására.
 83/A. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 83/B. § Ez a törvény az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+83/C. § E törvény 9/A. §-a a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

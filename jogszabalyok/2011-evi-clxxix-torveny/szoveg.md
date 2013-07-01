@@ -1427,7 +1427,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2)–(3)
 
-220–230. §
+220–221. §
+
+222. §
+
+223–230. §
 
 231–232. §
 

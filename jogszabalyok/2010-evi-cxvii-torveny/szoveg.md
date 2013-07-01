@@ -130,6 +130,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - a) az általa forgalomba hozott üzemanyag és más közlekedési célú energiatermék tekintetében a forgalomba hozott teljes mennyiségről, a beszerzési helyről és a származás helyéről, valamint
 - b) az üzemanyagból vagy más közlekedési célú energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
 
+(2a) A vámhatóság az üzemanyag-forgalmazók jelentéseiről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+
 (3) A jelentést az üzemanyag-forgalmazó az energiapolitikáért felelős miniszter rendeletében meghatározott módon hitelesíti.
 
 (4) Amennyiben az üzemanyag-forgalmazó a (2) bekezdés szerinti jelentést az előírt határidőre nem nyújtja be, vagy nem a meghatározott tartalommal nyújtja be, a vámhatóság bírságot szab ki.

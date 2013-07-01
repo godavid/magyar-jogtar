@@ -908,6 +908,8 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 - j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
 - k) a nemzetiséghez való tartozásra vonatkozó adatok.
 
+(2a) Az állami foglalkoztatási szerv által vezetett nyilvántartás az álláskeresők nyilvántartásba vételéhez, az álláskeresési ellátás megállapításához és igénybevételéhez szükséges, e törvényben meghatározott adatok tekintetében – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) Az (2) bekezdés alapján nyilvántartásba vett adatokból
 
 - a) a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv az ellátás megállapítása, folyósítása, ellenőrzése céljából a TAJ szám alkalmazásával az a)–c), e) és g) pontjai,

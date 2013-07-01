@@ -400,6 +400,8 @@ teszi szükségessé.
 
 (3) Az állatkert létesítése iránt benyújtott kérelemhez csatolni kell az állattartási szabályzatot.
 
+(4) Az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
 40. § (1) Cirkuszi menazséria létesítéséhez és fenntartásához a kereskedelmi hatóság engedélye szükséges. A hatóság az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
 
 (2) Az (1) bekezdést a cirkuszi menazséria létesítési és működtetési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.

@@ -172,6 +172,8 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - b) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét, székhelyét és telephelyét,
 - c) a közszolgáltatás megkezdésének és befejezésének időpontját.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok és a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A tűzvédelmi hatóság
 
 - a) folyamatosan vizsgálja

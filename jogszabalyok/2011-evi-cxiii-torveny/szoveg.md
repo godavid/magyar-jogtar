@@ -220,7 +220,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 - a) az ország egész területére, vagy több megyét érintő részére a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter,
 - b) illetékességi területén a megyei, fővárosi (a továbbiakban együtt: megyei) védelmi bizottság elnöke, valamint a polgármester,
-- c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
+- c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője, továbbá a (6) bekezdés szerinti esetben a lőtér és a gyakorlótér működtetéséért felelős parancsnok [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
 
 (2) A Kormány rendeletében meghatározott eljárási szabályok szerint elrendeli
 
@@ -246,7 +246,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - a) megállapítja a helyi jellegű szolgáltatások és szolgáltatásra kötelezettek körét,
 - b) nyilvántartást vezet, amelyben elősegíti a megyei védelmi bizottság elnökének, valamint a helyi védelmi bizottság illetékességi területén a polgármesterek hatáskörébe tartozó igénybevételi jog gyakorlását, koordinálja az igénybevétel helyi szintű végrehajtását.
 
-(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője jogosult.
+(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője, lőterek és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésére pedig a lőtér és gyakorlótér működtetéséért felelős parancsnok jogosult.
 
 (7) Rendkívüli állapot vagy szükségállapot idején, ha az (1) bekezdés b) és c) pontja szerinti igénybevételi hatóság intézkedésének időigénye miatt a honvédségi érdekek sérelmének súlyos és közvetlen veszélye áll fenn, az illetékes katonai szervezet parancsnoka közvetlenül a szolgáltatásra kötelezettel közölt határozattal elrendelheti a gépjárművek, műszaki munkagépek, üzemanyag-technikai eszközök, valamint a szükséges üzemanyag igénybevételét.
 
@@ -328,7 +328,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 19. § (1) Az Országgyűlés állapítja meg
 
 - a) Magyarország biztonság- és védelempolitikájának alapelveit, valamint az azokban előírt feladatok végrehajtásának főbb irányait és feltételeit,
-- b) a Honvédség részletes bontású létszámát, főbb haditechnikai eszközeit és biztosítja az ezekhez szükséges anyagi forrásokat.
+- b) a Honvédség részletes bontású létszámát, ide értve az önkéntes tartalékosokat is, főbb haditechnikai eszközeit és biztosítja az ezekhez szükséges anyagi forrásokat.
 
 (2) Az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága folyamatosan figyelemmel kíséri a Honvédség feladatainak megvalósítását, felkészültsége és felszereltsége színvonalát, a rendelkezésre bocsátott anyagi erőforrások felhasználását.
 
@@ -461,7 +461,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - a) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szerveknek a helyi védelmi bizottság illetékességi területe szerinti vezetője,
 - b) a helyi védelmi bizottság illetékességi területén működő, a helyi védelmi bizottság feladatrendszerében érintett szakigazgatási szerv vezetője,
 - c) a fővárosi és megyei kormányhivatal képviselője,
-- d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője.
+- d) különleges jogrend bevezetése esetén a katonai igazgatási szerv képviselője,
+- e) a helyi védelmi bizottság titkára.
 
 28. § (1) A helyi védelmi bizottság a megyei védelmi bizottság irányítása alatt működő közigazgatási szerv, amely a illetékességi területén irányítja és összehangolja a honvédelmi felkészítés helyi feladatainak végrehajtását.
 
@@ -608,9 +609,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A Honvédséget a szárazföldi csapatok, a légierő csapatai, a logisztikai és támogató erők, valamint a Honvédség feladatainak végrehajtása érdekében egyéb szaktevékenységet folytató szervezetek alkotják. A szárazföldi csapatok és a légierő csapatai haderőnemet képeznek. A haderőnemek fegyvernemekből és szakcsapatokból tevődnek össze. A katonai igazgatás szervei a Honvéd Vezérkar főnöke alárendeltségébe tartoznak.
 
-(4) A honvéd tisztjelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Ludovika Zászlóalj állományába tartozik, emellett a katonai felsőoktatást folytató intézménnyel előkészítő vagy hallgatói jogviszonyban áll.
+(4) A honvéd tisztjelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Ludovika Zászlóalj állományába tartozik, emellett a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: NKE) hallgatói jogviszonyban áll.
 
-(5) A Ludovika Zászlóalj a katonai felsőoktatást folytató intézményben folyó képzés céljainak megvalósítását biztosítva látja el katonai feladatait. A zászlóalj – a katonai felsőoktatást folytató intézménnyel együttműködésben – a honvéd tisztjelöltek kiképzésének gyakorlati részét haditechnikai eszközeinek és anyagainak felhasználásával, állami tulajdonú és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlanok igénybevételével biztosítja.
+(5) A Ludovika Zászlóalj az NKE-n folyó képzés céljainak megvalósítását biztosítva látja el katonai feladatait. A Ludovika Zászlóalj – az NKE-vel együttműködésben – a honvéd tisztjelöltek kiképzésének gyakorlati részét haditechnikai eszközeinek és anyagainak felhasználásával, állami tulajdonú és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlanok igénybevételével biztosítja.
+
+(6) A honvéd altiszt-jelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Altiszti Akadémia állományába tartozik, emellett az Altiszti Akadémiával tanulói jogviszonyban áll.
 
 (7) A Honvédség szervezeti felépítésére, működésére, haditechnikai eszközeire és anyagaira, valamint hadfelszerelésére vonatkozó adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Honvéd Vezérkar főnöke engedélyezheti.
 
@@ -644,6 +647,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 „Isten engem úgy segéljen!”
 
+(4) A Honvédség hadrendje szerinti szervezeteknél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.
+
 #### 26. A Honvédség tartalékos állománya
 
 41. § (1) A Honvédség tartalékos rendszere önkéntesség és jogszabályi kötelezettség alapján szervezett tartalék elemekből áll.
@@ -665,6 +670,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 42. § (1) A Honvédség szervezeteinek elhelyezéséhez, és feladatai ellátásához rendelkezésre bocsátott ingatlanok állami tulajdonban, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében állnak.
 
 (2) A katonai szervezetek kijelölés alapján használatba kapják az ingatlanokat.
+
+(3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.
 
 ### VII. Fejezet — A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
 
@@ -813,6 +820,24 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A katonai őrség őrzés-védelmi feladatainak ellátásához biztosítani kell a szükséges állományt, fegyverzetet, technikai feltételeket, védőeszközöket, valamint a megfelelő szolgálati körülményeket.
 
+#### 35/A. Katonai Rendészeti Szolgálat
+
+54/A. § A Magyarország területén működtetett katonai rendészeti szolgálatok rendeltetése a katonai rend és fegyelem fenntartása. A rendészeti szolgálatok hatásköre a Honvédség személyi állománya, gép- és harcjárművei rendészeti ellenőrzésére és a jogszabályban meghatározott egyéb feladatok végrehajtására terjed ki.
+
+54/B. § (1) A katonai rendész jogosult jogszabályban meghatározottak szerint
+
+- a) forgalmat irányítani,
+- b) szolgálati gépjárművet a közúton megállítani,
+- c) szolgálati gépjárművel a közlekedési rendszabályok megtartását, a járműhasználat szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a jármű birtoklásának jogszerűségét, a jármű közlekedésbiztonsági állapotát és adatait a forgalomban – a jogszabályban meghatározottak alapján – ellenőrizni,
+- d) szolgálati jármű vezetőjét a rendszeresített eszközzel légzésminta – ha nála a vezetési képességére hátrányosan ható szer befolyása, alkoholfogyasztás miatt bűncselekmény, szabálysértés, vagy a közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés elkövetésének gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta – adására kötelezni,
+- e) helyszínt biztosítani,
+- f) területzárást végrehajtani, és
+- g) kényszerítő eszközt alkalmazni, személyi szabadságot korlátozó és nem korlátozó intézkedéseket tenni.
+
+(2) A katonai rendész a forgalomban való részvételt megtilthatja, ha a jármű vagy vezetőjének állapota a közúti forgalom biztonságát veszélyezteti, és a további jogellenes járműhasználat megakadályozása céljából a jármű kulcsait elveheti, és a járművet más módon mozgásában korlátozhatja.
+
+54/C. § A katonai rendészeti szervek feladataikat önállóan vagy a rendőrséggel együttműködésben, továbbá nyomozótiszt, katonai ügyész utasítása alapján teljesítik.
+
 #### 36. A katonai szervezetek fegyverhasználata
 
 55. § (1) A katonai szervezetek fegyverhasználati joghoz kötött feladataik végrehajtására rendszeresített fegyverzetüket a törvényben, a nemzetközi szerződésekben, valamint a jogszabályoknak megfelelő elöljárói parancsokban meghatározottak szerint használják. Kötelékben a katona csak a kötelék parancsnokának parancsára használhatja fegyverét. A katonai szervezetek – a cél eléréséhez feltétlenül szükséges és arányos mértékben – törvényben meghatározott feltételek szerint más kényszerítő eszközt is alkalmazhatnak.
@@ -821,7 +846,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A honvédelemért felelős miniszter által kijelölt katonai szervezetek fegyveresen, fegyverhasználati joggal teljesítik a nemzetközi szerződésben foglalt katonai kötelezettségeket.
 
-(4) Ha a (3) bekezdés szerinti műveletet folytató többnemzetiségű katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma és az ezek alapján kiadott parancsok szerint harctevékenységet kell végezni, a fegyverhasználat és más kényszerítő eszközök alkalmazása során ezen dokumentumoknak a hazai jogszabályokban nem szabályozott előírásait is érvényesíteni kell. A fegyverhasználat kilátásba helyezését tartalmazó szóbeli és írásbeli figyelmeztetést, céljától függően lehetőleg az ellenség vagy a helyi lakosság nyelvén kell megtenni.
+(4) Ha a (3) bekezdés szerinti műveletet folytató többnemzeti katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma és az ezek alapján kiadott parancsok szerint harctevékenységet kell végezni, a fegyverhasználat és más kényszerítő eszközök alkalmazása során ezen dokumentumoknak a hazai jogszabályokban nem szabályozott előírásait is érvényesíteni kell. A fegyverhasználat kilátásba helyezését tartalmazó szóbeli és írásbeli figyelmeztetést – céljától függően – lehetőleg az ellenség vagy a helyi lakosság nyelvén kell megtenni.
 
 (5) Ha a műveletek jellege nem teszi lehetővé, hogy a katona az ellenséget egyedileg is megadásra szólítsa fel, és ellenállás esetén a fegyverhasználatot kilátásba helyezze, vagy ha az arra irányuló figyelmeztetés nem járt eredménnyel, akkor a fegyverhasználatát az általa kezelt harceszköz használatára vonatkozó szabályzatok szerint, az ellenállás leküzdéséhez szükséges és arányos erőt alkalmazva, a nemzetközi hadijogban foglalt előírások és elvek figyelembevételével végezi.
 
@@ -927,6 +952,10 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
+61/A. § (1) Műveleti területen végzett katonai tevékenység során a katona, amennyiben azt a műveletet folytató többnemzeti katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma megengedi, az abban foglaltak szerint, a nemzetközi jog normáival összhangban testi sérülés okozására alkalmas kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására.
+
+(2) Az (1) bekezdés alkalmazása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
+
 #### 40. A légierőre vonatkozó különös fegyverhasználati szabályok
 
 62. § (1) A Magyarország légterének oltalmazásában részt vevő szövetségi és nemzeti légvédelmi készenléti erők feladatköre a légteret megsértő, vagy jogosulatlanul igénybe vevő, az azonosítatlan, ismeretlen szándékkal repülést végző vagy ott ellenséges tevékenységet folytató, repülési szabályt sértő, továbbá a bajbajutott légi járművekre terjed ki.
@@ -965,9 +994,11 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (6) A személyi állomány, a csapatok és a járművek megkülönböztetésére jelzéseket kell alkalmazni. Ezek a katonai egyenruha, a katonai rendfokozati jelzés, a csapatkarjelzés és csapatjelvény, a Honvédség meghatározott közúti, légi és vízi járműveinek jelzései, valamint az összefoglaló honvéd elnevezés.
 
-(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához, az öltözködésre vonatkozó szabályoknak megfelelően, a Honvédségnél rendszeresített egyenruhát viselnek. Ha az önkéntes tartalékos a rendelkezésre állása időszakában – illetve a szerződésében meghatározott esetben –, valamint a rendvédelmi szerv tagja a Honvédség érdekében végez tevékenységet, részére az egyenruha viselése engedélyezhető. A nyugállományúak egyenruha-viselését törvény állapítja meg. E személyi körön túl további személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
+(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése engedélyezhető az önkéntes tartalékosnak a rendelkezésre állása időszakában és a rendvédelmi szerv tagjának, ha a Honvédség érdekében végez tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
 
-(8) A Honvédség tényleges állományú tagjának rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. Az önkéntes védelmi tartalékos és az önkéntes műveleti tartalékos katona a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a tényleges állomány, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult.
+(7a) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. Miniszteri rendeletben meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
+
+(8) A Honvédség tényleges állományú tagjának rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. A honvéd tisztjelöltek és a honvéd altiszt-jelöltek egyenruhájukon rendfokozat helyett évfolyamjelzést viselnek. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a tényleges állomány tagja, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja.
 
 (9) A csapatkarjelzés a Honvédség tényleges állományú tagja karjelzés szerinti katonai szervezethez való tartozásának és korábbi katonai szervezetének megkülönböztető jele.
 
@@ -1002,7 +1033,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (2) A Honvédség tényleges katonai és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
 
-- a) szünetel a Honvédség hivatásos állományába történő felvétel,
+- a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,
 - b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
 - c) a rendfokozatba történő előléptetésre eltérő szabályok állapíthatók meg, valamint a szolgálat teljesítéséért és érdemeik elismeréséül érdemrendek, érdemérmek és emlékérmek alapíthatók,
 - d) a beosztásba történő kinevezés és felmentés, az áthelyezés, a vezénylés, a kirendelés, az ellátás, a szabadság és a fegyelmi felelősség, a méltatlanság, továbbá a szolgálat egyéb szabályai a hatályos szabályoktól eltérően is megállapíthatók,
@@ -1263,19 +1294,20 @@ rendelheti el.
 - d) a Szolgálati Szabályzat részeként
   - da) a szolgálati tevékenység, a készenléti és ügyeleti szolgálati rendszer működéseinek részleteit,
   - db) az önkéntes tartalékos őrzésvédelmi és a katonai rendészeti tevékenység teljesítését,
-  - dc) a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
+  - dc) a személyi szabadság korlátozásának eljárási szabályait és a végrehajtásának módját, a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,
 - e) a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe, irányítása, fenntartói irányítása és felügyelete alá tartozó, valamint a Honvédség hadrendje szerinti szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
-- f) a Honvédség személyi állományának élet-, szolgálati, és munkakörülményeivel összefüggő juttatásainak, ideértve az egyes szociális juttatások, a laktanyai elhelyezés, és a lakhatást célzó ellátás jogosultjainak körét, feltételeit és rendjét,
+- f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak és a kormánytisztviselőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók és kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 - g) a NATO-NYEU központi nyilvántartó, a NATO-NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
-- h) a meg nem térülő károk leírással és törléssel történő rendezésének és nyilvántartásának sajátos szabályait,
+- h) a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 - i) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
-- j) honvédelmi ágazatban dolgozók igazolványának fajtáit, az igazolványok kezelését és kiadását,
+- j) a Honvédségnél rendszeresített igazolványok fajtáit, az igazolványok kezelését és kiadását,
 - k) a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 - l) az egészségügyért felelős miniszter egyetértésével a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának, felülvizsgálatának rendjét,
 - m) a külföldi katonai szolgálat esetén a rangidős nemzeti képviselőt megillető jogköröket,
 - n) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait,
 - o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat,
-- p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait.
+- p) az adópolitikáért felelős miniszterrel egyetértésben a katonai hatóságok eljárásáért fizetendő igazgatási szolgáltatás díj mértékét és a díjfizetés szabályait,
+- q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
 

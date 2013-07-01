@@ -56,478 +56,165 @@ lép.
 
 #### 8. A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény módosítása
 
-11. § (1) A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 8. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az (5) bekezdés b) pontja szerinti támogatás visszafizetési kötelezettséggel vagy arra tekintet nélkül történő nyújtásáról a Kormány dönt.”
-
-(2) A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény a következő 16. §-sal egészül ki:
-
-„16. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Módtv.) megállapított 8. § (5) bekezdés b) pontját és (5a) bekezdését a Módtv. hatálybalépését megelőzően nyújtott támogatásokra is alkalmazni kell.”
-
-(3) A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 2. § f) pontjában a „visszatérítési” szövegrész helyébe a „visszafizetési” szöveg, a „visszatérítései” szövegrész helyébe a „visszafizetései” szöveg lép.
-
-(4) Hatályát veszti a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 8. § (5) bekezdés b) pontjában a „visszatérítendő” szövegrész.”
+11. §
 
 #### 9. A gazdasági társaságokról szóló 2006. évi IV. törvény módosítása
 
-12. § (1) A gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 68. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a gazdasági társaság megszűnésére az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-a alapján kerül sor, az (1)–(4) bekezdésben foglaltak nem alkalmazandók, a jogutód nélküli megszűnés feltételei, az eljárás lefolytatása, a társaságot terhelő kötelezettségek rendezése tekintetében az Áht.-ban foglaltakat kell alkalmazni.”
-
-(2) A Gt. 143. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdésben megjelölt esetekben – kivéve, ha a társaság a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.”
-
-(3) A Gt. 245. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben megjelölt esetekben – kivéve, ha a társaság a közgyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.”
+12. §
 
 #### 10. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-13. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 43. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A katasztrófaveszély kezdetének és megszűnésének időpontját, helyét a hivatásos katasztrófavédelmi szerv központi szervének vezetője a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzéteszi.”
+13. §
 
 #### 11. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-14. § (1)–(3)
+14. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A (2) bekezdésben foglaltak és a jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalás kivételével az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat az Áht. szerinti önkormányzati kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.”
+
+(2) A Gst. 10. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Települési önkormányzat adósságot keletkeztető ügyletet – a (2) bekezdés szerinti kormányzati engedély nélkül megköthető ügyletek és a (10) bekezdés szerinti adósságmegújító hitel kivételével – csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló 1990. évi C. törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette.”
+
+(3) A Gst. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Nincs szükség a Kormány hozzájárulására
+
+a) a központi költségvetésből nyújtott, európai uniós vagy más nemzetközi szervezettől megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló,
+
+b) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozó,
+
+c) a likvid hitelre vonatkozó,
+
+d) a fővárosi önkormányzat és megyei jogú város esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át meg nem haladó, de legfeljebb 10 millió forint összegű fejlesztési célú
+
+adósságot keletkeztető ügylet megkötéséhez, továbbá
+
+e) a d) pont szerinti önkormányzat-kategóriákba tartozó önkormányzatok ott leírtak szerinti értékhatárokat meg nem haladó összegű Áht. szerinti önkormányzati kezesség- és garanciavállalásaihoz.”
 
 (4)
 
-(5)–(8)
+(5) A Gst. 10. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdés d) pontjának alkalmazásakor az ugyanazon fejlesztési cél megvalósítását szolgáló fejlesztésekhez kapcsolódó ügyletek értékét egybe kell számítani.”
+
+(6) A Gst. 10. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) A (2) bekezdés e) pontjának alkalmazásakor az ugyanazon adósnak nyújtott kezesség- és garanciavállalások értékét egybe kell számítani.”
+
+(7) A Gst. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az önkormányzat működési célra a (4a) bekezdés szerinti ügylet kivételével csak likvid hitelt vehet fel.”
+
+(8) A Gst. 10. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az önkormányzat a 2012. december 31-e előtt kötött működési célú ügyletét egyszeri alkalommal, a Kormány előzetes hozzájárulásával naptári éven túli futamidejű adósságmegújító hitellel kiválthatja vagy szerződésmódosítással naptári éven túli futamidejű ügyletté alakíthatja. Ezen adósságmegújító hitel, illetve a szerződésmódosítás eredményeként előálló ügylet összege nem lehet nagyobb, mint az eredeti ügyletből 2012. december 31-én fennálló adósság. A Kormány az előzetes hozzájárulást a (10) bekezdésben meghatározott feltételek teljesülése esetén adja meg.”
 
 (9)–(10)
 
-(11)–(15)
+(11) A Gst. 10. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-(16) A Gst. a következő 28/A. §-sal egészül ki:
+„(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járulhat hozzá:
 
-„28/A. § (1) A fizetési kötelezettség vállalkozási tevékenységet végző jogalanya által a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófaveszély és veszélyhelyzet (a továbbiakban együtt: katasztrófahelyzet) esetén, annak időtartama alatt, ellenszolgáltatás nélkül, a katasztrófahelyzet következményeinek elhárítása, mérséklése céljából
+a) az adósságot keletkeztető ügylet – a (7) bekezdés szerinti adatszolgáltatást is figyelembe véve – az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
 
-a) végzett tevékenységet vagy
+b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi, azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
 
-b) a katasztrófahelyzetben lévők számára nyújtott szolgáltatást, termékátadást
+c) ha teljesül az (1a) és a (3) bekezdés szerinti feltétel.”
 
-a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevékenységvégzésnek kell tekinteni, mint amit a jogalany a vállalkozási, gazdasági tevékenységi körében fejtett ki.
+(12) A Gst. 10. §-a a következő (8a) bekezdéssel egészül ki:
 
-(2) Nem keletkezik fizetési kötelezettség
+„(8a) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a (3) bekezdés és a (8) bekezdés b) pontja szerinti feltétel, azzal, hogy a (3) bekezdés alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.”
 
-a) az (1) bekezdés szerinti tevékenységvégzés után, feltéve, ha azt a fizetési kötelezettséggel érintett, vállalkozási tevékenységet végző jogalany a tevékenységvégzés napjától számított 60 napon belül, a nyújtott szolgáltatás és átadott termék megnevezésével, mennyiségének megjelölésével a fizetési kötelezettséggel kapcsolatos ügyben illetékes adóhatósághoz bejelenti,
+(13) A Gst. 10. §-a következő (8b) bekezdéssel egészül ki:
 
-b) az (1) bekezdés szerinti tevékenységvégzés keretében – a katasztrófahelyzetre tekintettel – a katasztrófahelyzetben levők által kapott vagyoni érték után.
+„(8b) A Kormány a (8), (8a) és (10) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.”
 
-(3) Fizetési kötelezettséget megállapító jogszabály katasztrófahelyzet, továbbá a jogalanyok széles körét érintő – veszélyhelyzetnek nem minősülő – az emberi életet veszélyeztető elemi csapás, ipari szerencsétlenség esetén, az (1) és (2) bekezdésben foglaltakhoz képest a jogalanyokra kedvezőbb rendelkezést is megállapíthat.”
+(14) A Gst. 10. § (9) bekezdése helyébe a következő rendelkezés lép:
 
-(17) A Gst. 45. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+„(9) Az önkormányzat az (1) bekezdés szerinti hozzájárulás iránti kérelméhez
 
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
+a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
 
-„a) az önkormányzat adósságot keletkeztető ügyletéhez, továbbá kezesség- és garanciavállalásához történő kormányzati hozzájárulás részletszabályait, valamint a 10. § (3) bekezdésében meghatározott saját bevételek körét,”
+b) kötvény nyilvános kibocsátásának szándéka esetén a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 
-(18) A Gst. a következő 50. §-sal egészül ki:
+c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
 
-„50. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: 2013. évi CIII. tv.) megállapított 28/A. § (1) és (2) bekezdését a 2013. március 14-e és 16-a közötti időszakban bekövetkezett szélsőséges időjárási körülmények során a mentéshez ellenérték nélkül nyújtott segítségre, továbbá a 2013. évi CIII. tv. hatálybalépését megelőzően, 2013. évben kihirdetett veszélyhelyzetre is alkalmazni kell azzal, hogy a 2013. évi CIII. tv. hatálybalépését megelőzően folytatott 28/A. § szerinti tevékenységvégzés esetén a bejelentési kötelezettséget a 2013. évi CIII. tv. hatálybalépésétől számított 60 napon belül kell teljesíteni.”
+d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
+
+e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
+
+mellékeli.”
+
+(15) A Gst. 10. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+
+a) a szerződésmódosítást követően előálló kondíciók mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
+
+b) a módosított szerződés az eredetihez képest hosszabb futamidejű vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, vagy a kezesség, illetve garancia összege nő.”
+
+(16)–(18)
 
 15. § (1)
 
-(2) Hatályát veszti a Gst. 10. § (6) bekezdése.
+(2)
 
 #### 12. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-16. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 2. § (1) bekezdése a következő t)–v) pontokkal egészül ki:
-
-(E törvény alkalmazásában)
-
-„t) átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. §-a szerinti átlátható szervezet,
-
-u) önkormányzati garancia: az önkormányzati alrendszerben vállalható olyan kötelezettség, ami alapján a garanciavállaló saját költségvetése terhére, szerződésben meghatározott feltételek szerint, a kötelezett nem szerződésszerű teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
-
-v) önkormányzati kezesség: az önkormányzati alrendszerben a Polgári Törvénykönyvről szóló törvény szerinti kezességnek megfelelően vállalt kötelezettség.”
-
-(2) Az Áht. II. Fejezete a következő 9/A. alcímmel egészül ki:
-
-„9/A. Az állami tulajdonú gazdasági társaságok állami feladatellátásának központi költségvetési szerv által történő átvétele
-
-11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy az állami vagyon felügyeletéért felelős miniszter által kijelölt személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
-
-a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
-
-b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság
-
-(ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére az ebben az alcímben foglaltakat kell alkalmazni.
-
-(2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel dönt. Az átvétel időpontjának, illetve a kormányrendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
-
-(3) A (2) bekezdés szerinti kormányrendeletben meg kell határozni:
-
-a) a társaságot cégneve, székhelye, cégjegyzékszáma, főtevékenysége, adószáma feltüntetésével,
-
-b) azt a központi költségvetési szervet, amely az állami feladatot alaptevékenységként a továbbiakban ellátja, ideértve az e célból a kormányrendelet alapján vagy azzal összhangban alapításra kerülő költségvetési szervet is (a továbbiakban együtt: átvevő költségvetési szerv),
-
-c) azt a személyt, aki a 11/C. § (2) bekezdése szerinti esetben az államot képviseli,
-
-d) azt a személyt, aki a szervezeti átalakítással, az átadás-átvétellel összefüggő feladatok végrehajtásáért felelős (a továbbiakban: átvételi felelős), vagy az átvételi felelős kijelölésére jogosult minisztert,
-
-e) az állami feladat átvételének időpontját.
-
-(4) Az állami feladat átvételének időpontját megelőzően a társaság ügyvezetése
-
-a) felméri a társaságot megillető jogokat, követeléseket és a társaságot terhelő kötelezettségeket,
-
-b) előkészíti a társaság szerződéseinek az átvevő költségvetési szerv által történő átvételét, ezen belül előkészíti az eszközök és a források leltározását, a tevékenységet lezáró számviteli beszámoló és a záró adóbevallás elkészítését,
-
-c) írásban tájékoztatja a társasággal szerződéses jogviszonyban álló feleket az állami feladat átvételéről, így értesíti különösen a társaság fizetési számláját, értékpapírszámláját és ügyfélszámláját vezető pénz-, tőke- és biztosítási piaci szolgáltatókat az átvevő költségvetési szervnek vagy a 11/C. § (2) bekezdése szerinti esetben az államnak a társaság jogviszonyaiba történő belépéséről,
-
-d) teljesíti a társaság megszűnésével összefüggő bejelentéseket és adatszolgáltatásokat mindazon hatóságok, állami és önkormányzati szervek felé, amelyeknek nyilvántartásában a társaság szerepel, vagy amely által kiadott hatósági engedély engedélyese, és
-
-e) gondoskodik a társaságnál foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, az átvevő költségvetési szervnél történő továbbfoglalkoztatásról szóló tájékoztatásról, ezen belül tájékoztatja különösen az átvevő költségvetési szervet az átvétellel érintett munkaviszonyokból származó jogokról és kötelezettségekről azzal, hogy a tájékoztatás elmaradása nem érinti az átvevő költségvetési szervvel vagy a 11/C. § (2) bekezdése szerinti esetben az állammal szemben e jogviszonyokból származó igények érvényesíthetőségét.
-
-(5) A (4) bekezdésben foglaltak elvégzését követően a társaság és az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam képviselője – jegyzőkönyvet vesz fel arról, hogy a társaság vagyonát, iratait, számviteli és adóbizonylatait, a bíróságokkal, hatóságokkal fennálló, illetve megszüntetett jogviszonyokra vonatkozó iratokat az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam képviselője – átvette, a szükséges tájékoztatást megkapta. A jegyzőkönyvnek tartalmaznia kell az átvevő költségvetési szerv irat- és bizonylat-megőrzési kötelezettségét.
-
-(6) A társaság vezető tisztségviselői az (5) bekezdés szerinti jegyzőkönyvben nyilatkoznak
-
-a) az átadott vagyontárgyak és iratok teljességéről,
-
-b) a társaság fennálló jogviszonyaira vonatkozó tájékoztatás teljességéről,
-
-c) a társaság vagyonára vonatkozóan a közhiteles nyilvántartásokba való bejegyzéshez szükséges okiratok kiállításáról és azok átadásáról, és
-
-d) a társaság részvételével működő szervezetekben az állam tagként történő bejegyzéséhez szükséges okiratok kiállításáról és azok átadásáról.
-
-(7) A társaság vezető tisztségviselői korlátlanul és egyetemlegesen felelnek azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással és a (6) bekezdés szerinti nyilatkozattétellel összefüggő kötelezettségeiket nem vagy nem teljeskörűen teljesítették, vagy valótlan tartalmú nyilatkozatot tettek.
-
-(8) Azon társaság ezen alcím alapján történő megszüntetése kizárt, amely
-
-a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést közzétettek, vagy az ellene indított felszámolási eljárást jogerősen elrendelték, vagy ha a külföldi székhelyű társaság személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van, vagy
-
-b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha annak megfizetésére halasztást kapott.
-
-(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény 135. § (1) bekezdése és 223. § (1) bekezdése szerinti – üzletrésszel vagy részvénnyel.
-
-11/B. § (1) A társaság legkésőbb az állami feladat átvételének időpontját megelőzően átutalja valamennyi pénzforgalmi számláján lévő pénzeszközét az átvevő költségvetési szerv fizetési számlájára, valamint a készpénzállományát átadja az átvevő költségvetési szerv részére. A pénzeszközök átadását a társaság saját tőkéjével (ezen belül az eredménytartalékával) szemben kell elszámolni.
-
-(2) Az állami feladat átvételének időpontjában a társaság tulajdonában álló vagyon e törvény erejénél fogva ingyenesen az államra száll. Az állam tulajdonába került vagyon tekintetében a vagyonkezelői jog e törvény erejénél fogva ingyenesen az átvevő költségvetési szervet illeti meg.
-
-(3) A (2) bekezdés alkalmazásában vagyonon a társaság számviteli beszámolójában szereplő eszközöket kell érteni az Nvt. 2. §-a szerinti vagyonelemek kivételével.
-
-(4) Az állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az eszköznek a társaság könyveiben szereplő bruttó értékével. Az átvételt követően nyilvántartásba kell venni az adott vagyonelemhez kapcsolódóan a társaság által korábban elszámolt értékcsökkenést és értékvesztést.
-
-(5) A (2) bekezdésben meghatározottak az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (3) bekezdés h) pontjában foglalt átalakítással esnek egy tekintet alá.
-
-(6) Az átvevő költségvetési szerv az állami feladat átvételének időpontjától számított harminc napon belül gondoskodik a társaság – az állami feladat átvételét megelőző napra, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
-
-(7) A társaság számviteli beszámolójának elkészítésére az e törvényben meghatározott eltérésekkel az Szt. 178. § (1) bekezdés f) pontja felhatalmazása alapján kiadott kormányrendeletben foglalt előírásokat kell alkalmazni.
-
-11/C. § (1) Az állami feladat átvételének időpontjában – a (2) bekezdésben foglaltak kivételével – a társaság valamennyi jogának és kötelezettségének jogutódja az átvevő költségvetési szerv.
-
-(2) A társaságnak a 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyaiból, a 41. § (4) bekezdése szerinti ügyleteiből és a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Stabilitási tv.) 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből származó valamennyi joga és kötelezettsége az állami feladat átvételének időpontjában e törvény erejénél fogva az államra száll. A 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyokat a 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározottak szerint a feladat átvételének időpontját követő kilencven napon belül felül kell vizsgálni.
-
-(3) Azon (1) és (2) bekezdés szerinti jogviszony, amelynek kizárólagos jogosultjává az átvevő költségvetési szerv és kizárólagos kötelezettjévé az állam válik, a közfeladat átvételének időpontjában e törvény erejénél fogva megszűnik.
-
-(4) Az (1) és (2) bekezdés szerinti jogutódlás a társasággal szemben fennálló követeléseket nem teszi lejárttá, és a jogutódlásra hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
-
-(5) Az állami feladat átvételekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint polgári peres és nemperes eljárásokban a társaság jogutódjának az átvevő költségvetési szerv – a (2) bekezdés szerinti ügyletekkel kapcsolatban az állam – tekintendő, és ezen eljárásokban hozott határozatban megállapított kötelezettség vagy jogosultság az átvevő költségvetési szervet, illetve az államot terheli vagy illeti meg. Az átvételi felelős gondoskodik arról, hogy a fél személyében történő változás az állami feladat átvételekor folyamatban lévő eljárásokban bejelentésre kerüljön.
-
-(6) Az állami feladat ellátásával összefüggő hatósági engedélyek jogosultjának az állami feladat átvételének időpontjától az átvevő költségvetési szerv tekintendő. A hatósági engedélyek ennek megfelelő módosítását az átvevő költségvetési szerv az állami feladat átvételének időpontját követően haladéktalanul kezdeményezi.
-
-(7) Az európai uniós társfinanszírozású projektek tekintetében az állami feladat átvételének időpontjában a kedvezményezett társaság helyébe az átvevő költségvetési szerv lép. A jogutódlás miatti szerződésmódosítást az átvevő költségvetési szerv az állami feladat átvételének időpontjától számított tíz napon belül kezdeményezi. A támogató, illetve a közreműködő szervezet a szerződésmódosításokat a kezdeményezéstől számított harminc napon belül hajtja végre.
-
-(8) Az európai uniós társfinanszírozású pályázati konstrukciók tekintetében az állami feladat átvételének időpontjában a pályázó társaság helyébe az átvevő költségvetési szerv lép.
-
-(9) Az állami feladat átvételekor folyamatban lévő közbeszerzési eljárásokban az állami feladat átvételének időpontjában a társaság helyébe az átvevő költségvetési szerv lép.
-
-11/D. § (1) A társaság ezen alcím alapján történő megszűnésére a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) végelszámolásra vonatkozó szabályait – ideértve a jogutód nélküli megszűnés bejegyzése iránti eljárás szabályait is – nem kell alkalmazni.
-
-(2) Az átvételi felelős a 11/A. § (2) bekezdése szerinti kormányrendelet kihirdetését követően haladéktalanul kezdeményezi a felhívás egyszeri közzétételét a Cégközlönyben. A felhívásban tájékoztatást kell adni arról, hogy a társaság megszűnésére e törvény rendelkezései alapján kerül sor, továbbá hivatkozni kell a kormányrendeletre, és meg kell jelölni a törzskönyvi nyilvántartásba már bejegyzett átvevő költségvetési szervet, illetve a 11/A. § (3) bekezdés c) pontja szerinti képviselőt. A felhívásnak tartalmaznia kell, hogy a még le nem járt követelések megtérítését a hitelező nem követelheti, az e törvény szerinti feladatátvételre hivatkozással a szerződést nem mondhatja fel. Ha az állami feladatot újonnan alapított költségvetési szerv veszi át, az átvételi felelős a költségvetési szerv törzskönyvi nyilvántartásba való bejegyzését követően haladéktalanul a Cégközlönyben második felhívás közzétételét kezdeményezi, amelyben az első felhívásban foglaltakon túlmenően meg kell jelölni az átvevő költségvetési szervet.
-
-(3) Az átvételi felelősnek az állami feladat átvételének napját követően haladéktalanul, elektronikus úton benyújtott kérelmére a cégbíróság jogutód feltüntetése nélkül, öt munkanapon belül az állami feladat átvételének napjától megszűntnek nyilvánítja és törli a társaságot a cégjegyzékből. Az e bekezdés szerinti cégeljárásban a jogi képviselet kötelező. A kérelemben fel kell tüntetni, hogy a törlést e törvény, valamint a 11/A. § (2) bekezdése szerinti kormányrendelet alapján kérik. A kérelemhez csatolni kell a társaság vezető tisztségviselőjének nyilatkozatát arról, hogy nem áll fenn a 11/A. § (8) bekezdése szerinti kizáró ok.
-
-(4) A (3) bekezdés szerinti eljárásban a cégbíróság a társaság cégjegyzékből történő törlése során a Ctv.-ben előírt feltételek fennállását nem vizsgálja, azzal, hogy a törléshez az állami adóhatóságnak az adózás rendjéről szóló törvény szerinti, a cégbíróság részére a társaság megszűnésével összefüggően nyújtott tájékoztatására kizárólag a 11/A. § (8) bekezdés b) pontjában foglaltak tekintetében, soron kívül kerül sor.
-
-(5) A 11/A. § (8) bekezdésében foglaltak fennállása esetén a társaság ezen alcímben foglaltak alapján nem törölhető a cégjegyzékből.
-
-(6) A társaság tagjával szemben – a társaság e törvény alapján történő jogutód nélküli megszűnésekor – a megszűnő társaságot terhelő kötelezettségekből származó követelés nem érvényesíthető.
-
-11/E. § (1) Ha az állami feladatot újonnan alapított központi költségvetési szerv veszi át, az új központi költségvetési szerv nyilvántartásba vétel iránti kérelem benyújtásának annyival kell megelőznie az állami feladat átvételének időpontját, hogy az állami feladat folyamatos ellátása biztosított legyen, és az átvevő költségvetési szerv legkésőbb az állami feladat átvételének időpontjától megkezdhesse a működését, továbbá hogy a foglalkoztatottak jogviszonyával kapcsolatos intézkedések kellő időben megtörténjenek.
-
-(2) Ha átvevő költségvetési szervként már működő központi költségvetési szerv kerül kijelölésre, az alapító okirat módosítására az (1) bekezdést kell alkalmazni.
-
-(3) Az (1) és (2) bekezdés szerinti esetekben a kincstár törzskönyvi nyilvántartás vezetésével kapcsolatos eljárása során az ügyintézési határidő tíz nap. Ha a kincstár hiánypótlási felhívást bocsát ki, annak teljesítésére legfeljebb ötnapos határidőt állapíthat meg. A kincstár eljárására egyebekben az e törvényben foglaltakat kell alkalmazni.
-
-11/F. § (1) Az állami feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény vagy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – az állami feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
-
-(2) Az (1) bekezdés szerinti jogállásváltozásról az érintetteket az átvevő költségvetési szerv a jogállásváltozás időpontját megelőző tizenöt napon belül tájékoztatja. Ha eddig a határidőig az átvevő költségvetési szerv még nincs nyilvántartásba véve, abban az esetben az átvételi felelős tájékoztatja az érintetteket.
-
-(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha az átvevő költségvetési szerv a jogállási törvény rendelkezései alapján nem létesíthet közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyt az átadással érintett munkavállalóval, ebben az esetben a munkaviszony e törvény erejénél fogva a jogállásváltozás időpontját követő harmincadik napon megszűnik.
-
-(4) A (3) bekezdésben foglaltakat kell megfelelően alkalmazni, ha a munkavállalóval szemben a jogállási törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló legfeljebb az (5) bekezdésben foglalt időpontig intézkedik, és ezt igazolja.
-
-(5) A jogállásváltozás időpontját követő tizenöt napon belül a munkavállalót a jogállásváltozás időpontjával a jogállási törvény szerint be kell sorolni, és illetményét meg kell állapítani.
-
-(6) A munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül aláírja a kinevezési okmányt, vagy nyilatkozik arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben munkaviszonya jogállásváltozás nélkül a jogállásváltozás időpontját követő harmincadik napon megszűnik. E rendelkezést megfelelően alkalmazni kell akkor is, ha a munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül nem tesz nyilatkozatot vagy nem írja alá a kinevezési okiratot.
-
-(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
-
-(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
-
-(9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
-
-(10) Ha a munkavállaló további foglalkoztatása – az átvevő költségvetési szervre irányadó jogállási törvény vonatkozó szabályaival összhangban – munkaviszonyban történik, abban az esetben az (1) bekezdéstől eltérően a munkaviszony nem alakul át. A munkavállaló részére a munkaszerződést a jogállásváltozás időpontját követő tizenöt napon belül kell átadni. A munkavállaló a munkaszerződés kézhezvételét követő tizenöt napon belül nyilatkozhat arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben a munkaviszony a jogállásváltozás időpontját követő harmincadik napon szűnik meg.
-
-(11) Az átvevő költségvetési szerv a (3)–(4), (6) és (10) bekezdés esetén köteles a megszűnés napjával a munkavállaló számára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 77. § (1) bekezdés c) pontja szerinti végkielégítést és az Mt. 63. § (2) bekezdés szerinti távolléti díjat megfizetni.
-
-(12) A társaságnál hatályos kollektív szerződés az állami feladat átvételének időpontjában hatályát veszti.
-
-(13) A társaságnál működő üzemi tanács az állami feladat átvételének időpontjában megszűnik.”
-
-(3) Az Áht. 39. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervhez, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervhez, valamint az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szerveihez költségvetési főfelügyelőt, felügyelőt rendelhet ki. Az államháztartásért felelős miniszter a költségvetési főfelügyelő, felügyelő kirendelésére vonatkozó döntését az érintett fejezetet irányító szerv vezetőjével és a kormányzati tevékenység összehangolásáért felelős miniszterrel előzetesen egyezteti.”
-
-(4) Az Áht. 45. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.), a Nemzeti Földalapkezelő Szervezet, a Magyar Fejlesztési Bank Zrt., és törvényben vagy az állami vagyon felügyeletéért felelős miniszter rendeletében kijelölt, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott tulajdonosi joggyakorló szervezet (a továbbiakban együtt: tulajdonosi joggyakorló szervezet) az állam nevében hitelt, kölcsönt csak a tulajdonosi joggyakorlása alatt álló gazdasági társaság részére nyújthat. A hitel, kölcsön nyújtásához, átütemezéséhez az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter előzetes jóváhagyása szükséges.
-
-(2) A tulajdonosi joggyakorló szervezet az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést és támogatást – kivéve a szakmai feladatok ellátásához nyújtott támogatást – csak az állami vagyon felügyeletéért felelős miniszter jóváhagyásával nyújthat. Az állami vagyon felügyeletéért felelős miniszter a jóváhagyásról az állami támogatások versenyszempontú ellenőrzéséért felelős szervezet és az államháztartásért felelős miniszter írásos véleményének ismeretében dönt.”
-
-(5) Az Áht. 57. §-a helyébe a következő rendelkezés lép:
-
-„57. § (1) A helyi önkormányzat, helyi nemzetiségi önkormányzat a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatásokat e fejezet rendelkezései szerint a kincstár útján igényli, azok módosítását a kincstár útján kezdeményezi, és azokról a kincstár útján mond le.
-
-(2) A helyi önkormányzat, helyi nemzetiségi önkormányzat az általános működéséhez és ágazati feladataihoz kapcsolódó támogatásokat – a települési önkormányzatok muzeális intézményi feladatainak támogatása kivételével – a folyósítás évében használhatja fel.
-
-(3) A helyi önkormányzat, helyi nemzetiségi önkormányzat a 14. § (3) bekezdése szerinti fejezetből származó költségvetési támogatásokat és a települési önkormányzatok muzeális intézményi feladatainak támogatását a folyósítás évét követő év december 31-ig használhatja fel. Jogszabály ennél rövidebb felhasználási időt is megállapíthat.
-
-(4) A helyi önkormányzat, helyi nemzetiségi önkormányzat az éves költségvetési beszámolójában számol el a számára e fejezet szerint folyósított támogatásokkal.”
-
-(6) Az Áht. 58. §-a helyébe a következő rendelkezés lép:
-
-„58. § (1) A kincstár a költségvetési év utolsó napjáig a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során vizsgálja a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások igénylésében és évközi módosításában szerepeltetett mutatószámokat és azok alakulását, az igénylés és annak módosítása megalapozottságát.
-
-(2) Ha a kincstár az (1) bekezdés szerinti mutatószámot megalapozatlannak tartja, a Ket. 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a helyi önkormányzatot, helyi nemzetiségi önkormányzatot, hogy a mutatószámon a kincstár által meghatározott változtatásokat a soron következő mutatószám módosításkor, illetve az elszámolás során vezesse át. Nem kell határozatot hozni, ha a helyi önkormányzat, helyi nemzetiségi önkormányzat a kincstár álláspontját alátámasztó bizonyítékok ismertetése során az eltérés jogszerűségét igazolja.
-
-(3) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat a határozatban foglaltaknak nem tesz eleget, a kincstár jogosult a határozatában meghatározott mutatószámok átvezetésére.
-
-(4) A kincstár (2) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat felülvizsgálata bíróságtól kérhető. A perre a helyi önkormányzat, helyi nemzetiségi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bíróság illetékes. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit – az (5) bekezdésben meghatározott eltérésekkel – alkalmazva, soron kívül jár el.
-
-(5) A keresetlevelet a kincstárnál a felülvizsgálni kért döntés közlésétől számított tizenöt napon belül kell benyújtani vagy ajánlott küldeményként postára adni. A keresetlevélben a kincstár (3) bekezdés szerinti intézkedésének felfüggesztése nem kérelmezhető. A bíróság a kincstár (2) bekezdés szerinti határozatát megváltoztathatja.”
-
-(7) Az Áht. 59. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kincstár az (1) bekezdés szerinti költségvetési támogatás felhasználásának megkezdését vagy – ha annak teljes felhasználására az ellenőrzés megindítását megelőzően sor került – a költségvetési támogatás felhasználását a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során a költségvetési év utolsó napjáig ellenőrzi.
-
-(3) Ha a kincstár az (1) bekezdés szerinti költségvetési támogatás felhasználását a (2) bekezdés szerinti ellenőrzés alapján megalapozatlannak tartja, a Ket. 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a helyi önkormányzatot, helyi nemzetiségi önkormányzatot a költségvetési támogatásról vagy annak egy részéről való lemondásra. A határozatban foglaltak önkéntes teljesítésének elmaradása esetén a kincstár jogosult a költségvetési támogatás visszavonására.”
-
-(8) Az Áht. 59. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A kincstár (3) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat bírósági felülvizsgálatára az 58. § (4) és (5) bekezdését kell alkalmazni.
-
-(5) Az (1) bekezdés szerinti költségvetési támogatás ellenőrzésére a (2) bekezdésben meghatározottakon túl jogszabályban meghatározott szerv vagy személy is jogosult.”
-
-(9) Az Áht. 63. § (1) bekezdése a következő j) ponttal egészül ki:
-
-(A kormányzati ellenőrzési szerv ellenőrzési jogköre kiterjed)
-
-„j) működési célú költségvetési támogatás nyújtása esetén a kedvezményezett működésének és gazdálkodásának ellenőrzésére.”
-
-(10) Az Áht. 48. alcíme helyébe a következő rendelkezés lép:
-
-„48. Az önkormányzati biztos
-
-71. § (1) Ha a helyi önkormányzat által irányított költségvetési szerv harminc napon túli, lejárt esedékességű elismert tartozásállományának mértéke két egymást követő hónapban eléri az éves eredeti kiadási előirányzatának 10%-át vagy a százötven millió forintot, az irányító szerv a költségvetési szervhez önkormányzati biztost jelöl ki. Önkormányzati rendelet önkormányzati biztos kirendelését az e bekezdésben meghatározottaknál kisebb mérték, rövidebb időtartam, lejárat esetén is kötelezővé teheti.
-
-(2) A lejárt esedékességű tartozásállomány fennállásáig a pénzügyi ellenjegyzés és az érvényesítés szabályain felül csak az önkormányzati biztos ellenjegyzésével vállalható kötelezettség, és rendelhető el utalványozás.
-
-(3) Az önkormányzati biztos a helyi önkormányzat által irányított költségvetési szerv szervezeti felépítését, működési folyamatát és gazdálkodását érintő racionalizálási javaslatokat tehet, intézkedéseket kezdeményezhet.”
-
-(11) Az Áht. 79. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A kincstárban fizetési számlát kötelesek vezetni)
-
-„j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik, és”
-
-([az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].)
-
-(12) Az Áht. 56. alcíme a következő 83/A. §-sal egészül ki:
-
-„83/A. § (1) A belföldi gépjárművek után beszedett adónak (a továbbiakban: gépjárműadó) a települési önkormányzat és a központi költségvetés közötti – a központi költségvetésről szóló törvényben meghatározott mértékű – megosztását a kincstár ellenőrzi. A kincstár ellenőrzéséhez a települési önkormányzat a Kormány rendeletében meghatározott adatszolgáltatást teljesít.
-
-(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét nem vagy nem a központi költségvetésről szóló törvénynek megfelelően teljesítette, a Ket. 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
-
-(3) A kincstár (2) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat bírósági felülvizsgálatára az 58. § (4) és (5) bekezdését kell alkalmazni azzal, hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
-
-(4) Ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (2) bekezdés szerinti határozatában foglaltaknak a határozat közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg erejéig a kincsár a határozat bírósági felülvizsgálatára tekintet nélkül beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben.”
+16. § (1)–(12)
 
 (13)
 
-(14) Az Áht. 92. § (3) bekezdése helyébe a következő rendelkezés lép:
+(14)–(25)
 
-„(3) Törvényben meghatározott feltételek bekövetkezése esetén állami kezesség, állami garancia (a továbbiakban e § alkalmazásában: jogszabályi állami kezesség) szerződéskötés vagy nyilatkozat kibocsátása nélkül keletkezik. A jogszabályi állami kezesség részletes feltételeit és szabályait a Kormány rendeletben állapítja meg.”
-
-(15) Az Áht. 92. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában az egyedi állami kezesség és a jogszabályi állami kezesség feltétele az állami támogatási szabályoknak megfelelő, támogatástartalmat nem vagy azt az állami támogatási szabályokkal összeegyeztethető módon tartalmazó kezességvállalási vagy garanciavállalási díj kikötése.”
-
-(16) Az Áht. 92. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Egyedi állami kezességvállalás esetén – törvény eltérő rendelkezése hiányában – a kezességvállalási vagy garanciavállalási díjat az államháztartásért felelős miniszter állapítja meg. Az államháztartásért felelős miniszter az általa megállapított díjat vagy annak egy részét – indokolt esetben és az állami támogatási szabályokkal összeegyeztethető módon – elengedheti.”
-
-(17) Az Áht. 92. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az egyedi állami kezesség és a jogszabályi állami kezességvállalás alapján az állam által kifizetett összeg a tartozás eredeti kötelezettjének az állammal szembeni tartozásává válik, és azt – törvény eltérő rendelkezése hiányában – adók módjára behajtandó köztartozásként kell behajtani.”
-
-(18) Az Áht. 92. § (8) és (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában hitelviszonyon alapuló jogviszonyhoz kapcsolódó jogszabályi állami kezesség feltétele a jogszabályi állami kezességen túlmenően az alapügylet tőkeösszege felének megfelelő fedezet hitelező általi előírása.
-
-(9) Törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában a jogszabályi állami kezességgel fedezett alapjogviszony feltételeinek módosítása esetén is biztosítani kell, hogy a jogszabályi állami kezesség nélküli fedezettség aránya legalább olyan mértékű legyen, mint az alapjogviszony létrejöttekor.”
-
-(19) Az Áht. 104. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kincstár nyilvántartást vezet a költségvetési szervekről, a helyi önkormányzatokról, a nemzetiségi önkormányzatokról, a társulásokról, a térségi fejlesztési tanácsokról, valamint jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személyekről (a továbbiakban együtt: törzskönyvi jogi személy). A nyilvántartás közhiteles hatósági nyilvántartásnak minősül.”
-
-(20) Az Áht. 69. alcíme a következő 106/B. §-sal egészül ki:
-
-„106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat – a személyes adatok kivételével – megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.”
-
-(21) Az Áht. 109. § (1) bekezdése a következő 38–40. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
-
-„38. a gépjárműadó központi költségvetést megillető hányadával kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
-
-39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait,
-
-40. a 11/A. § (1) bekezdése szerinti társaság
-
-a) által ellátott állami feladat központi költségvetési szerv részére történő átadását és a feladatátvétellel összefüggésben szükséges intézkedéseket,
-
-b) átvevő költségvetési szerv részére történő vagyonátadásával, iratátadásával összefüggő részletes feladatokat.”
-
-(22) Az Áht. 109. § (3) bekezdés 1. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap az államháztartásért felelős miniszter arra, hogy)
-
-„1. a számviteli elszámolásokra vonatkozó szabályozás megváltozása esetén a beszámoló készítés és a könyvvezetés sajátos feladatait, az áttérés lebonyolításával kapcsolatos könyvviteli feladatokat, valamint az (1) bekezdés 33. és 34. pontjának felhatalmazása alapján kiadott kormányrendeletben meghatározott előírások alapján az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módját,”
-
-(rendeletben szabályozza.)
-
-(23) Az Áht. 109. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A nemzetközi pénzügyi intézményekkel létrejövő szerződéses jogviszonyokban – ideértve a magánszektor beruházásaihoz kapcsolódó szerződésekkel összefüggő egyetértő nyilatkozat kiadását – az államot az államháztartásért felelős miniszter képviseli, amelynek során felel a szerződések előkészítéséért, megkötéséért, módosításáért, megszüntetéséért és a szerződésből eredő kötelezettségek teljesítéséért.”
-
-(24) Az Áht. 111. §-a a következő (24) bekezdéssel egészül ki:
-
-„(24) A helyi önkormányzat, helyi nemzetiségi önkormányzat 2012. évben igénybe vett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára e törvény 2013. január 1-jén hatályos rendelkezéseit kell alkalmazni azzal, hogy a felülvizsgálat a helyi önkormányzat, helyi nemzetiségi önkormányzat általános működésének és ágazati feladatainak támogatásai helyett a normatív hozzájárulásaira, támogatásaira, illetve a települési önkormányzatok jövedelemkülönbségének mérséklését szolgáló támogatásra terjed ki.”
-
-(25) Az Áht. 73. alcíme a következő 111/E. §-sal egészül ki:
-
-„111/E. § (1) A Kormány 29. § (1) bekezdése szerinti határozatának közzététele hiányában a 36. § (4) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy több év, vagy a költségvetési éven túli év kiadási előirányzata terhére olyan mértékig lehet kötelezettséget vállalni, hogy a kötelezettségvállalás forrásául szolgáló kiadási előirányzatokat terhelő kötelezettségvállalások, más fizetési kötelezettségek összege egyik évben sem haladhatja meg
-
-a) működési célú kiadás esetén a költségvetési év működési költségvetésében jóváhagyott eredeti kiadási előirányzatok hetven százalékát,
-
-b) felhalmozási célú kiadás esetén a költségvetési év felhalmozási költségvetésében jóváhagyott eredeti kiadási előirányzatok ötven százalékát.
-
-(2) Az (1) bekezdés szerinti, az ötmilliárd forintot elérő vagy azt meghaladó értékű, több éves fizetési kötelezettséggel járó szerződések megkötéséhez a Kormány előzetes engedélye szükséges.
-
-(3) A Kormány egyedi határozatával az irányítása alá tartozó fejezetek tekintetében az (1) és (2) bekezdésben meghatározott értékhatártól eltérő mértéket is megállapíthat.
-
-(4) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a Kormány egyedi határozatával megállapíthatja egyes, tárgyévi előirányzattal nem rendelkező programok, beruházások és más fejlesztések tárgyévet követő évet, éveket terhelő kötelezettségvállalásának összegszerű keretét.”
-
-17. § (1) Az Áht.
-
-- 1. 2. § (1) bekezdés s) pontjában a „felfüggesztése.” szövegrész helyébe a „felfüggesztése,” szöveg,
-- 2. 22. § (1) bekezdésében a „Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Stabilitási tv.)” szövegrész helyébe a „Stabilitási tv.” szöveg,
-- 3. 36. § (4) bekezdés a) pontjában a „b) és c) pontja” szövegrész helyébe a „c) és d) pontja” szöveg,
-- 4. 63. § (1) bekezdés h) pontjában a „közreműködnek, és” szövegrész helyébe a „közreműködnek,” szöveg,
-- 5. 63. § (1) bekezdés i) pontjában az „ellenőrzésére.” szövegrész helyébe az „ellenőrzésére, és” szöveg,
-- 6. 63. § (3) bekezdésében az „a Magyar Államot” szövegrész helyébe az „az államot”, a „Magyar Állam” szövegrész helyébe az „az állam” szöveg,
-- 7. 67. § (3) bekezdésében az „a Magyar Állam” szövegrész helyébe az „az állam” szöveg,
-- 8. 72. § (3) bekezdésében a „szemléletbén” szövegrész helyébe a „szemléletben” szöveg,
-- 9. 109. § (1) bekezdés 37. pontjában a „részletes szabályait.” szövegrész helyébe a „részletes szabályait,” szöveg,
-- 10. 111. § (13) bekezdésében a „2013. június 30-ig” szövegrészek helyébe a „2014. június 30-ig” szöveg,
-- 11. 111. § (23) bekezdésében a „2011. évben igénybevett támogatásai” szövegrész helyébe a „2011. évben igénybevett hozzájárulásai, támogatásai” szöveg
-
-lép.
+17. § (1)
 
 (2)
 
 (3)
 
-18. § (1) Hatályát veszti az Áht.
-
-- a) 50. § (2) bekezdése,
-- b) 109. § (3) bekezdés 5. pontja,
-- c) 74. és 75. alcíme.
-
-(2) Hatályát veszti az Áht.
-
-- a) 39. § (3) bekezdésében az „– az államháztartásért felelős miniszter irányítása alá tartozó költségvetési szerv esetén a kormányzati tevékenység összehangolásáért felelős miniszter egyetértésével – „ szövegrész,
-- b) 79. § (3) bekezdésében az „a megyei önkormányzatok és” szövegrész,
-- c) 109. § (1) bekezdés 17. pontjában az „a kincstári biztos és” szövegrész,
-- d) 111. § (16) bekezdésében a „2012. december 31-én hatályos” és a „2013. június 30-áig” szövegrész.
+18. §
 
 #### 13. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény módosítása
 
-19. § (1) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Grtv.) 6. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) E § alkalmazásában címzett reklámküldemény: kizárólag hirdetést, üzletszerzési vagy reklámanyagot tartalmazó – egyszerre legalább 500 címzett részére feladott, a címzett neve, címe, és az üzenet jellegét nem módosító adat kivételével azonos tartalmú – a postai szolgáltatásokról szóló törvény szerinti, ott önállóan nem nevesített postai küldemény.”
-
-(2) A Grtv. 6. § (4) bekezdésében az „A postáról szóló 2003. évi CI. törvényben meghatározott címzett reklámküldeményben reklám” szövegrész helyébe a „Címzett reklámküldemény” szöveg lép.
+19. §
 
 #### 14. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
-20. § (1) A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:]
-
-„b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású intézmény, települési, területi és nemzetiségi önkormányzat, és az általuk alapított, illetve fenntartott jogi személyiségű intézmény,”
-
-(2) A Bgatv. 1. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (1a) bekezdésben meghatározott célra az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve.”
-
-(3) A Bgatv. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Alappal – az e törvényben foglaltak figyelembevételével – négytagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, az államháztartásért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.”
-
-(4) A Bgatv. 9. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.”
-
-(5) A Bgatv. 9/A. § e) pontja helyébe a következő rendelkezés lép, ezzel egyidejűleg a § a következő f) ponttal egészül ki:
-
-(Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet:)
-
-„e) az Alapból támogatásban részesülő természetes személy, vagy annak közeli hozzátartozója;
-
-f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.”
+20. §
 
 ### III. Fejezet — ADÓZÁSSAL ÉS SZÁMVITELLEL ÖSSZEFÜGGŐ EGYES TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 15. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-21. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 17. § (1) bekezdésének o) pontja helyébe a következő rendelkezés lép:
-
-(Mentes az ajándékozási illeték alól:)
-
-„o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;”
-
-(2) Az Itv. 99/F. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel megállapított szövegét a 2013. január 1-jét követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben kell alkalmazni.”
-
-(3) Az Itv. 99/F. § (1) bekezdésében a „16. § (1) bekezdés b) és f) pontját, a 17. § (1) bekezdés g) és n) pontját” szövegrész helyébe a „16. § (1) bekezdés f) pontját, a 17. § (1) bekezdés n) pontját” szöveg lép.
-
-(4) Hatályát veszti az Itv. 17. § (1) bekezdésének t) pontja.
+21. §
 
 #### 16. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-22. §
+22. § (1) A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) a következő új alcímmel és 40/A. §-sal egészül ki:
+
+„A települési adó csökkentése
+
+40/A. § (1) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (2) bekezdésben meghatározott módon – levonható az adóalany által
+
+a) az ideiglenes jellegű tevékenység után az adóévben megfizetett adó,
+
+b) a ráfordításként, költségként az adóévben elszámolt, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj (a továbbiakban: útdíj) 7,5%-a.
+
+(2) Az adóévben megfizetett ideiglenes jellegű tevékenység utáni adó és az útdíj (1) bekezdés szerinti része a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.”
+
+(2) Hatályát veszti a Htv. 40. §-ának (3) és (4) bekezdése.
 
 #### 17. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-23. §
+23. § A gépjárműadóról szóló 1991. évi LXXXII. törvény 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adó mértéke a 6. § (2)–(3) bekezdései szerinti adóalap esetén az adóalap minden megkezdett 100 kilogrammja után:
+
+a) a légrugós vagy azzal egyenértékű rugózási rendszerű tehergépjármű, nyergesvontató, autóbusz esetén 850 Ft,
+
+b) az a) pont alá nem tartozó tehergépjármű, nyergesvontató, autóbusz esetén 1380 Ft.”
 
 #### 18. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -535,35 +222,11 @@ f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő sze
 
 #### 19. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-25. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/U. §-ában a „2013–2014-es támogatási időszakban” szövegrész helyébe a „2013–2014-es támogatási időszakra” szöveg lép.
+25. §
 
 #### 20. A számvitelről szóló 2000. évi C. törvény módosítása
 
-26. § (1) A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 47. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.”
-
-(2) Az Szt. 73. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.”
-
-(3) Az Szt. 78. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.”
-
-(4) Az Szt. 151. § (6) bekezdése a következő h) ponttal egészül ki:
-
-(A könyvviteli szolgáltatás végzésére jogosító engedély visszavonásával egyidejűleg a nyilvántartásból törölni kell azt a természetes személyt,)
-
-„h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.”
-
-(5) Az Szt. 151. § (7) bekezdése a következő g) ponttal egészül ki:
-
-[Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:]
-
-„g) az engedély visszavonását követően, ha arra a (6) bekezdés h) pontja miatt”
-
-(került sor.)
+26. §
 
 #### 21. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
@@ -571,7 +234,125 @@ f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő sze
 
 #### 22. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-28–29. §
+28. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 1. § (3) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+(A törvény hatálya kiterjed)
+
+„h) a könyvvizsgálói közfelügyeleti feladatokat ellátó szervezetre (a továbbiakban: közfelügyeleti hatóság).”
+
+(2) A Kkt. 9/A. §-a helyébe a következő rendelkezés lép:
+
+„9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott döntés ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.”
+
+(3) A Kkt. 55. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1) és (2) bekezdés teljesítését a közfelügyeleti hatóság ellenőrzi.”
+
+(4) A Kkt. 149. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+„149. § (1) A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásának biztosítása céljából a kamara a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek könyvvizsgálói tevékenységét minőségbiztosítási rendszer keretében folyamatosan ellenőrzi (kamarai minőségellenőrzés).
+
+(2) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek tevékenységét a közfelügyeleti hatóság minőségbiztosítási rendszer keretében folyamatosan ellenőrzi (a továbbiakban: minőségellenőrzés). A minőségellenőrzés lefolytatására az itt nem szabályozott kérdésekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.”
+
+(5) A Kkt. a következő alcímmel és 173/B. és 173/C. §-sal egészül ki:
+
+„A minőségellenőrzés lefolytatása
+
+173/B. § (1) Minőségellenőrzést kell lefolytatni legalább 3 évente a kamarai tag könyvvizsgálónál, a könyvvizsgáló cégnél, ha az közérdeklődésre számot tartó gazdálkodóra vonatkozóan végez jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+
+(2) Az (1) bekezdésben meghatározott időtartamba nem számít bele az az időszak, amelyben a kamarai tag könyvvizsgáló szüneteltette a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását.
+
+(3) A minőségellenőrzés tekintetében a közfelügyeleti hatóság jár el.
+
+(4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
+
+a) a kamara fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
+
+b) a kamarai tag könyvvizsgáló, a könyvvizsgáló cég saját magával szemben kéri,
+
+c) a közfelügyeleti hatóság kezdeményezi.
+
+(5) A (4) bekezdés b) pontja szerint lefolytatott minőségellenőrzés díjköteles, amelynek mértékét a miniszter rendeletben állapítja meg.
+
+(6) A közfelügyeleti hatóság nevében minőségellenőrzést végző személyre (a továbbiakban: ellenőr) a következő feltételeknek kell teljesülniük:
+
+a) az ellenőr, valamint az ellenőrzés alá vont könyvvizsgáló cég között a minőségellenőrzési eljárás alatt nem áll fenn üzleti kapcsolat és üzleti kapcsolatban a könyvvizsgáló cégnél lefolytatott legutolsó minőségellenőrzés által lefedett időszakot követően sem álltak,
+
+b) az ellenőr, valamint az ellenőrzés alá vont kamarai tag könyvvizsgáló és annak közeli hozzátartozója között nem áll fenn üzleti kapcsolat és üzleti kapcsolatban a kamarai tag könyvvizsgálónál lefolytatott legutolsó minőségellenőrzés által lefedett időszakot követően sem álltak,
+
+c) az ellenőr és az ellenőrzés alá vont kamarai tag egymásnak nem közeli hozzátartozói,
+
+d) az ellenőrrel szemben az a)–c) pontban támasztott követelmények az ellenőr közeli hozzátartozója tekintetében is teljesülnek,
+
+e) legalább két év eltelt annak megszűnésétől számítva, hogy az ellenőr az ellenőrzés alá vont jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt,
+
+f) az ellenőr nem áll olyan kamarai tagsági jogviszonyban, amely alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorolható,
+
+g) az ellenőr nem áll könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban.
+
+(7) Az ellenőrzés során ellenőrként az járhat el, aki rendelkezik megfelelő szakmai képzettséggel és a könyvvizsgálat, valamint a pénzügyi beszámolás területén releváns tapasztalattal, továbbá részt vett minőségbiztosítási ellenőrzéssel kapcsolatos képzésben.
+
+(8) A közfelügyeleti hatóság az ellenőrzés lefolytatása érdekében előzetesen adatokat, információkat, iratokat kérhet be.
+
+(9) Az ellenőr az ellenőrzést a közfelügyeleti hatóság vezetője vagy az általa kijelölt személy által kiadott megbízólevél birtokában folytathatja le. A megbízólevél tartalmazza az ellenőr nevét, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég azonosító adatait, valamint azt, hogy mely időszak tekintetében kell az ellenőrzést lefolytatni.
+
+(10) Az ellenőr az ellenőrzés alá vont kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől minden olyan iratot, adatot, információt, nyilatkozatot megkérhet, az ellenőrzés alá vont minden olyan munkafolyamatát megvizsgálhatja, amely az ellenőrzés lefolytatásához szükséges. Az ellenőr az ellenőrzés során jogosult az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég helyiségeibe belépni, iratairól, adathordozóiról, nyilvántartásairól másolatot készíteni, illetve készíttetni.
+
+(11) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég jogosult az ellenőr személyazonosságáról és megbízásáról meggyőződni.
+
+(12) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az ellenőrzés során köteles az ellenőrrel együttműködni, a helyszíni ellenőrzés feltételeit biztosítani.
+
+(13) Ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szakértő igénybevétele szükséges, a minőségellenőrzésbe az ellenőr irányítása mellett szakértőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök is bevonhatók.
+
+(14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
+
+(15) Minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap.
+
+173/C. § (1) A minőségellenőrzésről az ellenőr záró jelentést készít.
+
+(2) A záró jelentést az ellenőrzés befejezésétől számított tizenöt napon belül kell elkészíteni.
+
+(3) A záró jelentést az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek meg kell küldeni.
+
+(4) A záró jelentésre az átvételétől számított nyolc napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a közfelügyeleti hatósághoz kell benyújtani.
+
+(5) A hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
+
+(6) A minőségellenőrzés során hozott jogerős határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
+
+(7) A minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
+
+a) kötelezés továbbképzésen való részvételre,
+
+b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
+
+c) fegyelmi eljárás kezdeményezése.
+
+(8) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a (6) bekezdés szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a hatóság a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
+
+(9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén fegyelmi eljárást kezdeményez a kamaránál. A fegyelmi eljárás kezdeményezéséről a közfelügyeleti hatóság indokolt esetben értesíti a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.”
+
+(6) A Kkt. a következő 196/A. §-sal egészül ki:
+
+„196/A. § A közfelügyeleti hatóság harmadik ország könyvvizsgálói közfelügyeleti tevékenységében részt vevő illetékes hatósággal kötött, viszonosságon alapuló megállapodása alapján, az illetékes hatóság megkeresésére – feladatkörében eljárva – jogosult
+
+a) kamarai tag könyvvizsgáló, könyvvizsgáló cég iratait, dokumentumait megismerni;
+
+b) kamarai tag könyvvizsgálónál, könyvvizsgáló cégnél ellenőrzést lefolytatni.”
+
+(7) A Kkt. a következő 208/D. §-sal egészül ki:
+
+„208/D. § A kamarának a 2013. évre a 185. § szerinti közfelügyeleti díj ötven százalékát kell megfizetnie a közfelügyeleti hatóságnak. A kamara a 2013. évi közfelügyeleti díj vonatkozásában 2013. július 30-ig köteles előleget fizetni a közfelügyeleti hatóság fizetési számlájára. Az előleg összege a 2013. évre fizetendő közfelügyeleti díj – megelőző év adatainak figyelembe vételével kalkulált – várható összegének száz százaléka.”
+
+29. § A Kkt.
+
+- 1. 5. § k) pontjában a „minőségellenőrzés” szövegrész helyébe a „kamarai minőségellenőrzés”,
+- 2. 50. § (4) bekezdésében a „minőségellenőrzés(ek)” szövegrész helyébe a „minőségellenőrzés(ek), kamarai minőségellenőrzés(ek)”,
+- 3. 55. § (1) bekezdés e) pontjában a „kamarai minőségellenőrzés” szövegrész helyébe a „minőségellenőrzés, kamarai minőségellenőrzés”,
+- 4. 67. § (1) bekezdésében az „a minőségellenőrzéshez” szövegrész helyébe az „a minőségellenőrzéshez, a kamarai minőségellenőrzéshez”,
+- 5. 106. § (2) bekezdés c) pontjában az „a minőségellenőrzés”, szövegrész helyébe az „a minőségellenőrzés, a kamarai minőségellenőrzés”
+
+szöveg lép.
 
 #### 23. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
@@ -579,31 +360,51 @@ f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő sze
 
 #### 24. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-31. §
+31. § Hatályát veszti a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 4. § (1a) bekezdés d) pontjában a „(3) bekezdése” szövegrész.
 
 #### 25. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény módosítása
 
-32–33. §
+32. § Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/E. §-a helyébe a következő rendelkezés lép:
+
+„462/E. § (1) A szabad vállalkozási zóna területén belül működő kifizető (ide nem értve a munkaerő-kölcsönzést folytató munkáltatót) az őt az adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
+
+(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló kedvezménnyel érintett munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő az új munkavállalóval létesített, adófizetési kötelezettséget eredményező munkaviszony alapján a munkavállalót az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint 27 százalékával a foglalkoztatás első két évében, 14,5 százalékával a foglalkoztatás harmadik évében.
+
+(3) A részkedvezményre való jogosultság feltétele, hogy
+
+a) a kifizető a létszámát az új munkavállalóval létesített munkaviszony kezdetét megelőző hónap – Központi Statisztikai Hivatal által a munkaügy-statisztikai adatszolgáltatáshoz kiadott útmutató szerinti – átlagos statisztikai állományi létszámához képest növeli, és a megemelt létszámot az új munkavállaló foglalkoztatása alatt, de legalább a (2) bekezdésben meghatározott kedvezményezett időszakban nem csökkenti, és
+
+b) a kedvezménnyel érintett munkavállaló bejelentett lakóhelye legalább hat hónapja, valamint a tényleges munkavégzési helye abban a szabad vállalkozási zónában található, amelyben a kifizető működik.
+
+(4) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki helyett a kifizető a munkaviszony megszűnését követő hónap utolsó napjáig másik munkavállalóval létesít munkaviszonyt; e másik munkavállaló után a kedvezmény a (2) bekezdésben meghatározott kedvezményezett időszak fennmaradó részére érvényesíthető.
+
+(5) A részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+
+(6) E § alkalmazásában új munkavállaló az,
+
+a) akivel a kifizető a (3) bekezdés a) pontja szerinti létszámát növeli,
+
+b) akinek a munkaviszonya nem a Nemzeti Foglalkoztatási Alapból folyósított, új munkahely létesítése feltételével adott támogatás igénybevételével jött létre, és
+
+c) aki a kedvezményezett foglalkoztatása kezdetét megelőző egy évben a kifizetőnél vagy a kifizető – a társasági adóról és az osztalékadóról szóló törvény szerinti – kapcsolt vállalkozásnak minősülő vállalkozásánál nem tartozott az átlagos statisztikai állományi létszámba.”
+
+33. § Az Eat. a következő 467/B. §-sal egészül ki:
+
+„467/B. § Ha a kifizető a 2013. július 1-jét megelőző adó-megállapítási időszakban a szabad vállalkozási zónákban működő vállalkozások adókedvezményét érvényesítette, az adókedvezményt a 462/E. § 2013. június 30-án hatályos rendelkezései alapján – választás szerint – továbbra is alkalmazhatja.”
 
 #### 26. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
 34. § (1)
 
-(2) A Pti. törvény 3. § (4) bekezdése a következő m) ponttal egészül ki:
-
-[Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget]
-
-„m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla.”
+(2)
 
 (3)–(4)
 
-(5) A Pti. törvény a következő 12. §-sal egészül ki:
-
-„12. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Mód tv.) megállapított 3. § (4) bekezdés m) pontjának rendelkezését a Mód tv. hatálybalépését megelőzően, 2013. évben kezdeményezett átutalásokra is alkalmazni kell.”
+(5)
 
 #### 27. Az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény módosítása
 
-35. § (1) Az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény (a továbbiakban: Módtv.) 84. § (7) bekezdésében a „48–50. §” szövegrész helyébe a „48. § (3) és (5)–(14) bekezdése, a 49. §–50. §” szöveg lép.
+35. § (1)
 
 (2) Nem lép hatályba a Módtv. 48. § (1), (2) és (4) bekezdése.
 

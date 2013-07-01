@@ -101,7 +101,7 @@ felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen
 
 - a) közalkalmazott,
 - b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
-- c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel
+- c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel
 
 tölthet be.
 
@@ -116,6 +116,8 @@ tölthet be.
 (2) Az az oktató, tudományos kutató és tanár, akinek a hivatásos szolgálati viszonya neki fel nem róható okból megszűnt vagy aki a hivatásos szolgálat felső korhatárát elérte, kérésére állományviszonyának megváltoztatása mellett közalkalmazottként, pályázat kiírása nélkül, az eredeti munkakörében tovább foglalkoztatható, ha a munkakör ellátása nincs hivatásos szolgálati viszonyhoz kötve.
 
 (3) A (2) bekezdés szerinti felróhatóság szempontjából a hivatásos szolgálati viszony megszüntetésekor kiadott szolgálati viszonyra vonatkozó igazolás az irányadó.
+
+16/A. § A honvédségi szervezetnél beosztást betöltő, az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai alap- és mesterképzési szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
 
 #### 2. A vezetőkre vonatkozó szabályok
 
@@ -169,7 +171,7 @@ hatósági bizonyítvánnyal igazolja.
 
 kezeli.
 
-24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de 25 évesnél – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél – nem idősebb, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. A honvédtiszti alapképzés tekintetében további feltétel, hogy a hallgató vállalja a honvéd tisztjelölti szolgálati viszony létesítését és fenntartását a honvédtiszti alapképzés idejére.
+24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. A honvédtiszti alapképzés tekintetében további feltétel, hogy a hallgató hozzájárul a nemzetbiztonsági alkalmasságának ellenőrzéséhez, és vállalja a honvéd tisztjelölti szolgálati viszony létesítését és fenntartását a honvédtiszti alapképzés idejére.
 
 25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Honvéd Vezérkar főnöke engedélyezheti.
 

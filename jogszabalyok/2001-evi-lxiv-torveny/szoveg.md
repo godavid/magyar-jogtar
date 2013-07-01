@@ -683,20 +683,21 @@ kulturális javakat.
 
 71. § (1) A kormányrendeletben meghatározott szerv vezeti
 
-- a) a régészeti lelőhelyek hatósági,
+- a) a régészeti lelőhelyek,
 - b) a régészeti feltárási engedélyek,
 - c) a védetté nyilvánított régészeti lelőhelyek,
-- d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
+- d) a műemlékek, műemléki jelentőségű területek, műemléki környezetek és történeti tájak központi, közhiteles nyilvántartását, amely tartalmazza az a)–d) pontokban meghatározottakkal összefüggő, az örökségvédelem szempontjából fontos adatokat.
 
-(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi hatósági nyilvántartást vezet:
+(2) A kultúráért felelős miniszter szakmai irányítása alatt álló hatóság központi nyilvántartást vezet:
 
 - a) a védetté nyilvánított kulturális javakról,
 - b) a kiviteli engedélyekről és igazolásokról,
 - c) a jogtalanul eltulajdonított, eltűnt védett kulturális örökségi elemekről, valamint a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
 - d) jogszabályban meghatározott egyéb adatokról, valamint
-- e) az a)–d) pontokban meghatározottakkal összefüggő, a kulturális örökség szempontjából fontos adatokról.
+- e) az a)–d) pontokban meghatározottakkal összefüggő, a kulturális örökség szempontjából fontos adatokról,
+- f) az ideiglenesen védetté nyilvánított kulturális javakról.
 
-72. § (1) A 71. § (1) és (2) bekezdése szerinti nyilvántartás nyilvános, és közhitelesen tanúsítja a benne szereplő kulturális örökség elemeinek védettségét. A kulturális örökség védelme érdekében a nyilvántartást vezető szerv a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – miniszteri rendelet alapján korlátozhatja.
+72. § (1) A 71. § (1) bekezdése és a (2) bekezdés a) és f) pontja szerinti nyilvántartás a védettség fennállására vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A kulturális örökség védelme érdekében a nyilvántartást vezető szerv a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – miniszteri rendelet alapján korlátozhatja.
 
 (1a) A 71. § (1) bekezdés a) és c)–d) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható.
 
@@ -738,6 +739,8 @@ kulturális javakat.
 (2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kormányrendeletben meghatározott szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A kormányrendeletben meghatározott szerv a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdés szerinti nyilvántartás, a szakértői tevékenység végzésére való jogosultságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 #### 75/B. §
 

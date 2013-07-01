@@ -71,9 +71,13 @@ az államhatárról
 
 10. § Az államhatár láthatóságának biztosítására, a határvonal megjelölésére és a határjelek karbantartására nemzetközi szerződésben létrehozott határbizottságok elnökét a határrendészetért felelős miniszter, a határbizottság tagját, illetve a határmegbízottat – a feladatkörnek megfelelően – a határrendészetért felelős miniszter vagy a térképészetért felelős miniszter egyedi okirattal nevezi ki.
 
+10/A. § A rendőrség a Kormány által rendeletben meghatározott eljárásrend szerint megállapíthatja a határforgalomra, a határátkelőhelyen történő tartózkodásra vonatkozó szabályokat, valamint a határátkelőhely működésének a szabályait (a továbbiakban: a határátkelőhely rendje).
+
 ### Az államhatár átlépésének feltételei
 
 11. § Az államhatárt nemzetközi szerződésben és törvényben meghatározott feltételekkel – ha nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa kivételt nem tesz – a forgalom számára megnyitott, a forgalom jellegének megfelelő közúti, vasúti, vízi vagy légi határátkelőhelyen vagy a határátlépési ponton, ellenőrzés mellett szabad átlépni.
+
+11/A. § Az államhatár átlépése során be kell tartani az államhatár átlépésével összefüggő jogszabályi rendelkezéseket, valamint a határátkelőhely rendjét.
 
 12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alaptörvény XXVII. cikk (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
 
@@ -116,7 +120,8 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 
 - a) a határátkelőhely megnyitására és határátlépési pont létesítésére vonatkozó követelményeket, továbbá a működtetés feltételeit,
 - b) az ideiglenes határátkelőhely megnyitásának és működésének szabályait, és kijelölje az eljárásra jogosult szervet,
-- c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit.
+- c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit,
+- d) a határátkelőhely rendjének kötelező tartalmát, megállapításának módját, részletes eljárási szabályait és feltételeit.
 
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 

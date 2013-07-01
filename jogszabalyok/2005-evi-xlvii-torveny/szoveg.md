@@ -14,9 +14,10 @@ az igazságügyi szakértői tevékenységről
 - b) cégjegyzékbe bejegyzett gazdasági társaság (a továbbiakban: társaság), valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező vállalkozás (a továbbiakban: vállalkozás),
 - c) e célra létesített igazságügyi szakértői intézmény,
 - d) igazságügyi szakértői testület,
-- e) külön jogszabályban feljogosított állami szerv, intézmény, szervezet (a továbbiakban együtt: szervezet)
+- e) külön jogszabályban feljogosított állami szerv, intézmény, szervezet (a továbbiakban együtt: szervezet),
+- f) külön törvény szerinti Teljesítésigazolási Szakértői Szerv
 
-[a továbbiakban az a)–e) pont e törvény alkalmazásában együtt: szakértő] végezhet.
+[a továbbiakban az a)–f) pont e törvény alkalmazásában együtt: szakértő] végezhet.
 
 (2) Az igazságügyi szakértő az igazságügyi szakértői tevékenységet önálló tevékenységként, egyéni vállalkozóként, társaság vagy vállalkozás tagjaként vagy alkalmazottjaként, illetve e célra létesített igazságügyi szakértői intézmény nevében végezheti.
 
@@ -47,6 +48,8 @@ az igazságügyi szakértői tevékenységről
 
 (6) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására az igazságügyi szakértői névjegyzéket vezető hatóság szakhatósági állásfoglalást szerez be. A szakhatóság eljárására irányadó ügyintézési határidő harminc nap.
 
+(6a) Ha a kérelemhez benyújtott iratok és a rendelkezésre álló adatok alapján az igazságügyi szakértői névjegyzéket vezető hatóság azt állapítja meg, hogy a kérelmező a névjegyzékbevétel feltételeinek kétséget kizáróan megfelel, az igazságügyi szakértői névjegyzéket vezető hatóság a szakhatóság megkeresését mellőzheti, és a szakmai gyakorlati idő szakirányú jellegét maga állapíthatja meg.
+
 (7) A miniszter a rendeletében az igazságügyi szakértői tevékenység folytatásához kötelező szakmai gyakorlat időtartamára egyes szakterületeken öt évnél rövidebb határidőt állapíthat meg, ha
 
 - a) a képesítés megszerzése már feltételezi az igazságügyi szakértői tevékenység végzéséhez szükséges szakmai gyakorlatot,
@@ -55,7 +58,7 @@ az igazságügyi szakértői tevékenységről
 
 (8) Ha a kérelmező a szakterülethez előírt képesítés megszerzésétől számított legalább három évig igazságügyi szakértői intézményben szakértőjelöltként dolgozott, és tevékenységét alkalmazotti vagy más jogviszonyban legalább napi hatórás munkavégzés keretében végezte, a képesítés megszerzésétől számított három év elteltével kérheti felvételét a névjegyzékbe.
 
-4. § (1) A névjegyzékbe történő felvétel iránti kérelmet az igazságügyi szakértői névjegyzéket vezető hatóságnál kell benyújtani. A kérelemhez csatolni kell az 1. számú mellékletben meghatározott iratokat. Az 1. számú mellékletben meghatározott iratok közül nem kell csatolni a kérelemhez a hatósági bizonyítványt, ha az abban szereplő adatok továbbítását a kérelmező a 4/A. § (1) bekezdés b) pontjában meghatározott módon kéri. Az eljárás során szóbeli kérelmet csak személyesen lehet előterjeszteni, a telefaxon történő kapcsolattartás kizárt.
+4. § (1) A névjegyzékbe történő felvétel iránti kérelmet az igazságügyi szakértői névjegyzéket vezető hatóságnál kell benyújtani. A kérelemhez csatolni kell az 1. számú mellékletben meghatározott iratokat. Az 1. számú mellékletben meghatározott iratok közül nem kell csatolni a kérelemhez a hatósági erkölcsi bizonyítványt, ha az abban szereplő adatok továbbítását a kérelmező a 4/A. § (1) bekezdés b) pontjában meghatározott módon kéri. Az eljárás során szóbeli kérelmet csak személyesen lehet előterjeszteni, a telefaxon történő kapcsolattartás kizárt.
 
 (2) Ha a kérelem hiányos, az igazságügyi szakértői névjegyzéket vezető hatóság megfelelő határidő megjelölésével a kérelmezőt a hiányok pótlására hívja fel.
 
@@ -65,7 +68,7 @@ az igazságügyi szakértői tevékenységről
 
 4/A. § (1) A kérelmező a névjegyzékbe való felvételt megelőzően
 
-- a) hatósági bizonyítvánnyal igazolja, hogy a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, vagy
+- a) hatósági erkölcsi bizonyítvánnyal igazolja, hogy a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, vagy
 - b) kéri, hogy az arra vonatkozó adatokat, amely szerint a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény vele szemben nem áll fenn, a bűnügyi nyilvántartó szerv az igazságügyi szakértői névjegyzéket vezető hatóság részére – annak a névjegyzékbe való felvétel elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (2) Az (1) bekezdés b) pontjában meghatározott adatigénylés során az igazságügyi szakértői névjegyzéket vezető hatóság a 3. § (3) bekezdés a) pontjában meghatározott feltételt, valamint a 3. § (4) bekezdésében meghatározott körülményt igazoló adatokat igényelheti a bűnügyi nyilvántartó szervtől.
@@ -91,6 +94,8 @@ az igazságügyi szakértői tevékenységről
 
 5. § (1) Az igazságügyi szakértő e törvény 2. számú mellékletében meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza.
 
+(1a) Az (1) bekezdés szerinti névjegyzék – a 2. számú melléklet 1. pont a)–e), g), i), l) és n) pontjában, valamint s) pont sa) és sb) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Az e törvény 2. számú melléklete 1. pont m) alpontjának ma) és mc) alpontja szerint nyilvántartott igazságügyi szakértőnek az a), f)–h) és j) pontjaiban, k) pontjának ka) alpontjában, t), valamint u) pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a világhálón is közzéteszi.
 
 (3) A névjegyzék (2) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. Az igazságügyi szakértői névjegyzéket vezető hatóság a 2. számú melléklet 1. pontjának kb), kc), mf) és o)–r) pontjaiban és sa) alpontjában foglalt adatok kivételével a nyilvántartás adatait a szakértői kamara részére átadja, azt a szakértői kamara a külön törvény rendelkezései szerint nyilvántartja és kezeli.
@@ -99,7 +104,9 @@ az igazságügyi szakértői tevékenységről
 
 (5) A külön jogszabályban megjelölt, biztonságos kézbesítési szolgáltatást működtető szervezet – megkeresésre – a természetes személyazonosító adatok alapján a biztonságos kézbesítési szolgáltatásról szóló jogszabály szerinti, kapcsolattartáshoz szükséges azonosítókat az elektronikus kézbesítés érdekében a hivatalos szerv részére átadja.
 
-(6) A 2. számú melléklet 1. pontjának m) pont md) és me) alpontjában foglalt adatokat a szakértői kamara, az a)–i), l), n) és q) pontjában foglalt adatokat az igazságügyi szakértő, az r) és s) pontjában foglalt adatokat az ügyben eljáró hatóság köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak. A 2. számú melléklet 1. pont r) és s) pontjában foglalt adatokról az ügyben eljáró hatóság az igazságügyért felelős minisztert és a szakértői kamarát is értesíteni köteles.
+(6) A 2. számú melléklet 1. pontjának m) pont md) és me) alpontjában foglalt adatokat a szakértői kamara, az a)–i), l), n) és q) pontjában foglalt adatokat az igazságügyi szakértő, az r) és s) pontjában foglalt adatokat az ügyben eljáró hatóság köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak. A 2. számú melléklet 1. pont r) és s) pontjában foglalt adatokról az ügyben eljáró hatóság az igazságügyi szakértői névjegyzéket vezető hatóságot és a szakértői kamarát is értesíteni köteles.
+
+(6a) Az ügyben jogerős döntést hozó bíróság az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenti, ha a szakértő szakvéleménye szakmai megalapozatlansága (a továbbiakban: megalapozatlan szakvélemény) miatt az eljárás elhúzódott vagy az felesleges költséget okozott.
 
 (7) Az igazságügyi szakértő, az ügyben eljáró hatóság és a szakértői kamara 8 napon belül köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak a névjegyzékben nyilvántartott adatokban bekövetkezett változást.
 
@@ -114,7 +121,9 @@ az igazságügyi szakértői tevékenységről
 (2) Az igazságügyi szakértői névjegyzéket vezető hatóság a 3. § (3) bekezdés a) pontjában, valamint a 3. § (4) bekezdésében meghatározott körülmény meghatározott igazolása céljából kezeli
 
 - a) a kérelmező,
-- b) az igazságügyi szakértő azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+- b) az igazságügyi szakértő
+
+azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány tartalmaz.
 
 (3) A (2) bekezdésben meghatározott személyes adatokat az igazságügyi szakértői névjegyzéket vezető hatóság
 
@@ -131,7 +140,7 @@ az igazságügyi szakértői tevékenységről
 
 - a) azt az igazságügyi szakértő kéri,
 - b) a névjegyzékbe való bejegyzés feltételei – ide nem értve a 3. § (4) bekezdésében meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek,
-- c)
+- c) a névjegyzékbe megalapozatlan szakvélemény miatt öt alkalommal kerül bejegyzés,
 - d) a névjegyzékben szereplő adatok változását felhívásra, ismételten nem jelenti be,
 - e)
 - f) a hatósági kirendelésnek – a 3. § (3) bekezdés d) pontjába ütköző módon – ismételten nem tesz eleget,
@@ -144,7 +153,7 @@ az igazságügyi szakértői tevékenységről
 - i) meghalt,
 - j) büntetett előéletű, a bíróság jogerős ítéletével eltiltotta az igazságügyi szakértői vagy a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól.
 
-(2) Ha a névjegyzékből történő törlésre az (1) bekezdés f) pontja vagy a h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított 5 éven belül, ha a törlésre az (1) bekezdés g) pontja vagy h) pontjának hb) és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított 1 éven belül a névjegyzékbe nem vehető fel.
+(2) Ha a névjegyzékből történő törlésre az (1) bekezdés c) és f) pontja vagy a h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított 5 éven belül, ha a törlésre az (1) bekezdés g) pontja vagy h) pontjának hb) és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított 1 éven belül a névjegyzékbe nem vehető fel.
 
 (3) Az igazságügyi szakértői névjegyzéket vezető hatóság az (1) bekezdés a) és b) pontja esetében az igazságügyi szakértőt az érintett szakterületről törli.
 
@@ -326,6 +335,8 @@ az igazságügyi szakértői tevékenységről
 
 (2) Az (1) bekezdésben meghatározott adatokban bekövetkezett változásokat – ideértve azon szakterület (szakterületek) változását, melyen a társaság igazságügyi szakértői tevékenységet végez – a társaság vezető tisztségviselője köteles 8 napon belül az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni.
 
+(3) Az (1) bekezdés szerinti névjegyzék – a 2. számú melléklet 2. pont a)–c) pontjában, e) pont ea), eb) és ed) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 24. § A társaságot a névjegyzékből törölni kell, ha
 
 - a) a cégbíróság a cégjegyzékből – a 24/B. §-ban megjelölt eset kivételével – törli,
@@ -386,6 +397,8 @@ az igazságügyi szakértői tevékenységről
 (2) A szakértői intézmény (1) bekezdésben foglalt adatai nyilvánosak és azokat az igazságügyi szakértői névjegyzéket vezető hatóság a világhálón is közzéteszi. Az (1) bekezdésben foglaltakat a szakértői intézmény szakértői tevékenységet végző szervezeti egységeire is megfelelően alkalmazni kell.
 
 (3) Az (1) bekezdésben meghatározott adatokban bekövetkezett változásokat – ideértve azon szakterület (szakterületek) változását, melyen a szakértői intézmény szakértői tevékenységet végez – a szakértői intézmény vezetője köteles 8 napon belül az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni.
+
+(4) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés d) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 ### Az igazságügyi szakértői testületek
 
@@ -486,7 +499,7 @@ vonatkozó részletes szabályokat.
 
 (7)–(8)
 
-32. § (1) A miniszter 2013. december 31-ig
+32. § (1) A miniszter 2014. december 31-ig
 
 - a) felülvizsgálja a névjegyzékben szereplő igazságügyi szakértők névjegyzékbe vétele feltételeinek fennállását,
 - b)
@@ -545,7 +558,7 @@ b) az engedélyezni kért szakterület(ek) megnevezését.
 
 a) a külön jogszabályban megjelölt képesítési feltétel meglétét tanúsító okirat hiteles másolatát (honosított vagy elismert okirat esetében ennek hiteles másolatát),
 
-b) a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény igazolására kiállított hatósági bizonyítványt,
+b) a 3. § (3) bekezdés a) pontjában meghatározott feltétel, valamint a 3. § (4) bekezdésében meghatározott körülmény igazolására kiállított hatósági erkölcsi bizonyítványt,
 
 c) a szakmai működés részletes leírását (a kérelmező – a pontos naptári időtartam szerinti meghatározással – mikor, hol, milyen munkakört töltött be, milyen időtartamú szakmai gyakorlattal és képesítéssel rendelkezik; a szakmai működés, a szaktudás megítéléséhez szükséges egyéb adatokat pl. a szakmai cikkek, értekezések megjelenésének időpontját és helyét stb.),
 
@@ -697,7 +710,7 @@ o) nyilvántartási szám;
 
 p) az igazgatási ügyiratok ügyszáma;
 
-q)
+q) megalapozatlan szakvélemény adásának ténye, az ügyre történő utalással;
 
 r) a késedelembe esés ténye, az ügyre történő utalással;
 
@@ -705,7 +718,7 @@ s) a szakértő ellen
 
 sa) közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
 
-sb) indult etikai eljárás során kiszabott etikai büntetés, vagy a felmentés valamint az eljárás megszüntetésének ténye.
+sb) indult etikai eljárás során kiszabott etikai büntetés,
 
 t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja,
 

@@ -194,7 +194,7 @@ keletkezik.
 
 (2) Az (1) bekezdés szerinti nyilatkozatot az egyéni hulladékkezelést teljesítőnek termék- és anyagáramonként kell megtennie.
 
-(3)
+(3) Az állami adóhatóság által az (1) bekezdés alapján a környezetvédelmi termékdíj fizetésére kötelezettekről vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Az egyéni hulladékkezelőként való teljesítésre, valamint a termékdíjátalány-fizetésre vonatkozó, az (1) és a 40. § (5) bekezdésben előírt határidő elmulasztása jogvesztő.
 

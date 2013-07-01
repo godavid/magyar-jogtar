@@ -130,6 +130,20 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (3) A szakértő a szakértői véleményében világörökségi komplex hatásvizsgálati dokumentációt köteles bemutatni.
 
+(4) A kulturális szakértői nyilvántartás az alábbi adatok tekintetében közhiteles hatósági nyilvántartásnak minősül:
+
+- a) szakterület, részszakterület, szakág,
+- b) nyilvántartásba vétel száma,
+- c) nyilvántartásba vétel időpontja.
+
+(5) A (4) bekezdés szerinti nyilvántartás vonatkozásában bizonyítási eszközként
+
+- a) a végzettséget, szakképzettséget igazoló okirat,
+- b) az akkreditált szakértői tanfolyam jellegű szakmai továbbképzés elvégzéséről szóló tanúsítvány, valamint
+- c) a szakmai gyakorlatot igazoló irat
+
+vehető figyelembe.
+
 10. § (1) A világörökségi helyszínek által hordozott kiemelkedő egyetemes érték megőrzését szolgáló kezelés 7. §-ban foglalt feladatainak világörökségi kezelési terv alapján történő ellátására – amennyiben azt külön jogszabály nem utalja más szerv hatáskörébe – helyszínenként egy világörökségi gondnokság működik.
 
 (2) A világörökségi gondnokság olyan, az adott világörökségi helyszín kiemelkedő egyetemes értékének jellegéhez kötődő tevékenységű, jogi személyiséggel rendelkező szervezet – így különösen költségvetési szerv, önkormányzat, egyházi jogi személy, egyesület, alapítvány, nonprofit gazdasági társaság –, amelynek tevékenysége kiterjed a világörökségi érdekek képviseletére, a kiemelkedő egyetemes érték védelmére, valamint működési területe magában foglalja a világörökségi területet vagy annak jelentős részét.

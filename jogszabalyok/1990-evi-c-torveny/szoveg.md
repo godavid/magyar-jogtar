@@ -480,11 +480,16 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (2) Ideiglenes jelleggel végzett iparűzési tevékenység esetén az adó mértéke naptári naponként legfeljebb 5000 forint.
 
-(3) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (4) bekezdésben meghatározott módon – levonható az ideiglenes jellegű tevékenység után az adóévben megfizetett adó.
+(3)–(4)
 
-(4) Az ideiglenes tevékenység után megfizetett adó a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes [székhely, illetve telephely(ek) szerinti] önkormányzatokhoz kimutatott törvényi adóalapok arányában vonható le.
+### A települési adó csökkentése
 
-#### 40/A. §
+40/A. § (1) A székhely, illetőleg a telephely szerinti önkormányzathoz az adóévre fizetendő adóból, legfeljebb azonban annak összegéig terjedően – a (2) bekezdésben meghatározott módon – levonható az adóalany által
+
+- a) az ideiglenes jellegű tevékenység után az adóévben megfizetett adó,
+- b) a ráfordításként, költségként az adóévben elszámolt, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj (a továbbiakban: útdíj) 7,5%-a.
+
+(2) Az adóévben megfizetett ideiglenes jellegű tevékenység utáni adó és az útdíj (1) bekezdés szerinti része a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.
 
 ### V. Fejezet — Az adóelőleg megállapítása, az adó bevallása és az adó megfizetése
 

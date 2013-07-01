@@ -1839,9 +1839,10 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 (3) Nem kell a Hatóság 115. §-ban meghatározott engedélyét kérni
 
 - a) a háztartási méretű kiserőmű építéséhez,
-- b) A 0,5 MW-nál nem nagyobb névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
+- b) a védett természeti terület és Natura 2000 terület kivételével az 50 kVA-nál nagyobb, de legfeljebb 0,5 MW névleges teljesítőképességű kiserőmű építéséhez, ha az nem csatlakozik villamosműhöz,
 - c) a magánvezetékre, ha a teljes magánvezeték egy épületen belül helyezkedik el,
-- d) a kisfeszültségű csatlakozó berendezésre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult.
+- d) a kisfeszültségű csatlakozó berendezésre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult,
+- e) a védett természeti terület és Natura 2000 terület kivételével a kisfeszültségű magánvezetékre, amennyiben az kizárólag olyan ingatlanon kerül megépítésre, amelynek tulajdonosa az építéshez hozzájárult.
 
 117. § (1)
 
@@ -2931,6 +2932,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (2) E törvénynek a Mód. 2. törvénnyel megállapított 50/B. §-ában foglaltaknak az engedélyeseknek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük.
 
 178/O. § A Mód. 2. törvénnyel az engedélyesekre megállapított új kötelezettségek engedélyesek általi teljesítésével kapcsolatosan felmerülő költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
+
+178/P. § E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 67. §-ával megállapított 116. § (3) bekezdés e) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

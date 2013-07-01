@@ -8,9 +8,11 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 1. § E törvény célja, hogy rendelkezzen a személyazonosító jel helyébe lépő azonosítási módokról, megállapítsa az azonosító kódok képzésének, kezelésének és továbbításának szabályait, továbbá rögzítse az adatkezelőknek és az azonosító kódokkal érintett természetes személyeknek (a továbbiakban: polgár) az azonosító kódok használatával kapcsolatos jogait és kötelezettségeit.
 
-2. § (1) A törvény hatálya az e törvényben meghatározott azonosító kódokra, az azonosító kódok használatára feljogosított adatkezelőkre és adatkezelésekre, valamint a velük érintettként kapcsolatba kerülő polgárokra terjed ki.
+2. § (1) E törvény hatálya az e törvényben meghatározott azonosító kódokra, az azonosító kódok használatára feljogosított adatkezelőkre és adatkezelésekre, a velük érintettként kapcsolatba kerülő polgárokra, az összerendelési nyilvántartásra és az összerendelési nyilvántartáshoz az e törvény szerint kapcsolódó nyilvántartásokra, valamint az összerendelési nyilvántartás által e törvény szerint érintett azonosító kódok és más egyedi azonosítók használatára feljogosított adatkezelőkre terjed ki.
 
 (2) E törvény hatálya nem terjed ki a más törvényben meghatározott személyazonosítási módokra, valamint a kizárólag belső azonosításra szolgáló technikai kódokra.
+
+(3) E törvényt az adó- és vámügyi eljárásokban képzett azonosító kódokra is alkalmazni kell.
 
 ### I. Fejezet — Értelmező rendelkezések
 
@@ -60,7 +62,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 7. § (1) Az adatkezelő az érintettel, illetve más adatkezelővel való, meghatározott célú kapcsolattartása során csak azt az azonosító kódot használhatja, amelyre a feladatot meghatározó törvény őt felhatalmazza.
 
-(2) Az az adatkezelő, akit e törvény az azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, írásbeli hozzájárulása alapján használhatja fel.
+(2) Az az adatkezelő, akit törvény azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, írásbeli hozzájárulása vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti ügyintézési rendelkezésében tett hozzájárulása alapján használhatja fel.
 
 (3) A polgárt a hozzájárulás megadása, megtagadása, illetve visszavonása miatt hátrány nem érheti, a hozzájárulás megadásáért bármilyen előny kilátásba helyezése tilos.
 
@@ -78,29 +80,78 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 10. § Az adóazonosító jelet, illetőleg a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat fizet a polgár, ha az új hatósági igazolvány kiadása a birtokából való elkerülés (lopás, elvesztés, megsemmisülés) vagy megrongálódás miatt válik szükségessé.
 
-10/C. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ a polgár azonosítására, a polgár jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett más, személyazonosításra alkalmas hatósági igazolvánnyal is igazolhatja személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
+### Összerendelési nyilvántartás
 
-(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját tartalmazó közhiteles nyilvántartás kezelőjének átadja a polgár által használt személyazonosításra alkalmas igazolvány okmányazonosítóját. Az okmányazonosítót tartalmazó közhiteles nyilvántartás kezelője átadja az okmányazonosítóhoz tartozó, titkosított kapcsolati kódot az összerendelési nyilvántartást vezető szervnek.
+10/A. § (1) A (2) bekezdés szerinti azonosítót képző adatkezelő e § rendelkezései szerint köteles összerendelési nyilvántartási kapcsolati kódot képezni, és annak csak általa visszafejthető titkosított változatát – típusmegjelöléssel együtt – a természetes személyek összerendelési nyilvántartásának átadni.
 
-(3) Az összerendelési nyilvántartást vezető szerv az adatátadás alapján megküldi az adatkezelő által igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője részére az igényelt azonosító kódhoz tartozó, titkosított kapcsolati kódot. A megkeresés alapján az igényelt azonosító kódot tartalmazó közhiteles nyilvántartás kezelője megküldi az adatkezelő részére az igényelt azonosító kódot, feltéve, hogy az adatkezelő az igényelt azonosító kód kezelésére jogosult.
+(2) A természetes személyek összerendelési nyilvántartása az alábbi azonosítókhoz tartozó titkosított kapcsolati kódokat tartalmazza:
 
-(4) A (2) és (3) bekezdés szerinti adategyeztetés az adatkezelő által képzett egyedi tranzakciós kódra hivatkozással történik. Az egyedi tranzakciós kód képzési szabályait az adatkezelő határozza meg, azzal, hogy az egyedi tranzakciós kód nem lehet azonos az adóazonosító jellel, a TAJ számmal, a személyazonosító jellel, valamely okmányazonosítóval vagy bármely egyéb, az adatkezelő által használt azonosítóval, továbbá nem származtatható azokból.
+- a) személyi azonosító,
+- b) központi idegenrendészeti nyilvántartási azonosító,
+- c) TAJ szám,
+- d) adóazonosító jel,
+- e) személyazonosító igazolvány okmányszáma,
+- f) útlevél okmányszáma,
+- g) kártya formátumú vezetői engedély okmányszáma,
+- h) a Ket. szerinti, az állam által kötelezően nyújtandó azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+- i) a Ket. szerinti személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
+- j) az ügyfél ügyintézési rendelkezésének nyilvántartási azonosítója, valamint
+- k) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója
 
-(5) Az adatkezelő az adatlekérdezést követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatlekérdezés érdekében a (2) bekezdés szerint megadott okmányazonosítót, amelynek kezelésére egyébként nem jogosult.
+(jelen alcím alkalmazásában a továbbiakban együtt: azonosító).
 
-10/D. § (1) Ha valamely adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, a polgár a jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett elektronikus azonosítás útján is igazolhatja az azonosítót, illetve személyazonosságát, feltéve, hogy azt a polgár a külön jogszabály szerinti ügyintézési rendelkezésében megengedte.
+(3) A természetes személyek összerendelési nyilvántartásába új személyhez tartozó bejegyzés felvétele a (2) bekezdés a), b) és k) pontja szerinti nyilvántartások adatkezelőinek kezdeményezésére történhet.
 
-(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő olyan módon azonosítja elektronikus úton a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
+(4) A (3) bekezdés szerinti nyilvántartás adatkezelője a polgár adatainak nyilvántartásba vételekor kapcsolati kódot képez, azt az azonosító kódhoz rendelten nyilvántartásba veszi, és csak általa visszafejthető titkosítással a kapcsolati kódot annak típusmegjelölésével az összerendelési nyilvántartásnak átadja, amely új összerendelési nyilvántartási bejegyzést hoz létre vagy az összerendelési nyilvántartási bejegyzést az újabb kapcsolati kóddal kiegészíti.
 
-(3) A polgár személye valamely személlyel akkor feleltethető meg egyértelműen, ha az azonosítás keretében igazolt adatok alapján egyértelműen megállapítható a személy azonossága, és az igazolt adatok egyeznek az ügyfélre vonatkozó,
+(5) A (3) bekezdésben nem szereplő nyilvántartás adatkezelője az azonosító kód képzésekor kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével az összerendelési nyilvántartásnak – az összerendelési nyilvántartás újabb kapcsolati kóddal történő kiegészítése céljából – átadja
 
-- a) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal,
-- b) a személyiadat- és lakcímnyilvántartásban vagy az idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal az összerendelési nyilvántartáson keresztül közvetve egyértelműen megfeleltethető adatokkal,
-- c) a külön törvény szerinti ügyintézési rendelkezésben az ügyfél által rögzített azonosító adatokkal,
-- d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből a rendszer valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
-- e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal.
+- a) a természetes személyazonosító adatokkal, ha az azonosító kiadása azokon alapult, vagy
+- b) az összerendelési nyilvántartásban nyilvántartott más azonosítóval, amennyiben az az azonosító kiadásakor már rendelkezésére állt.
 
-(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, úgy a 10/C. § megfelelően irányadó azzal, hogy okmányazonosítón az azonosítás szolgáltató által hitelesen igazolt azonosító kód vagy az azonosítás szolgáltató által megadott, a polgárra vonatkozó más olyan kód értendő, amelyet az ügyfél az ügyintézési rendelkezésében megadott.
+(6) Az összerendelési nyilvántartás az összerendelési bejegyzéshez rendelten azonosítónként külön-külön titkosított kapcsolati kódokat annak típusmegjelölésével tartalmaz, egyéb azonosítót vagy azonosító adatokat nem tárol.
+
+(7) Az adatkezelő a (2) bekezdés a) és c)–i) pontja szerinti azonosító kódot igazoló hatósági igazolványt vagy okiratot csak a (4) és (5) bekezdésben meghatározott feladatok végrehajtását követően bocsáthatja az érintett rendelkezésére.
+
+(8) Az összerendelési nyilvántartás az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítéséhez számára megküldött természetes személyazonosító adatokat vagy azonosítót csak a (2) bekezdés szerinti nyilvántartásokból a természetes személyazonosító adatokkal vagy azonosítóval azonosított természetes személyhez tartozó kapcsolati kód titkosított formájának lekérdezéséhez használja fel, a természetes személyazonosító adatokat és azonosítókat nem tárolja.
+
+(9) Az összerendelési nyilvántartásban aktuálisan tárolt kapcsolati kód lecserélését kezdeményezheti
+
+- a) az összerendelési nyilvántartás adatkezelője, illetve
+- b) a (2) bekezdés szerinti nyilvántartás adatkezelője.
+
+(10) A (2) bekezdésben meghatározott nyilvántartás adatkezelője kapcsolati kód állományát legalább félévente cseréli. A kapcsolati kód állomány gyakoribb cseréjét vagy meghatározott feltételek szerinti lecserélését jogszabály kötelezővé teheti.
+
+10/C. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő a 10/A. § (2) bekezdésének a), c)–g) vagy j) pontja szerinti azonosítót használ a polgár azonosítására, vagy valamely eljárásban ezen azonosítók valamelyikének megadása kötelező, a polgár jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett más, személyazonosításra alkalmas igazolvánnyal is igazolhatja az adatkezelő által használt azonosítóját.
+
+(2) Az (1) bekezdés szerinti adatkezelő a polgár által igazolt azonosítót és az igényelt azonosító típusmegjelölését az annak kiadására és nyilvántartására kijelölt közhiteles nyilvántartás adatkezelőjének továbbítja. A nyilvántartás adatkezelője elektronikus úton továbbítja a továbbított azonosítóhoz tartozó titkosított kapcsolati kódot az összerendelési nyilvántartást vezető szervnek.
+
+(3) Az összerendelési nyilvántartás az adatátadás alapján elektronikus úton továbbítja az igényelt azonosítót tartalmazó nyilvántartás adatkezelője részére az igényelt azonosítóhoz tartozó titkosított kapcsolati kódot. Az igényelt azonosítót tartalmazó közhiteles nyilvántartás adatkezelője elektronikus úton továbbítja az (1) bekezdés szerinti adatkezelő részére az igényelt azonosítót, feltéve hogy az adatkezelő az azonosító kezelésére jogosult.
+
+(4) A (2) és (3) bekezdés szerinti adattovábbítás az (1) bekezdés szerinti adatkezelő által képzett egyedi tranzakciós kódra hivatkozással történik. Az egyedi tranzakciós kód képzési szabályait az adatigénylő adatkezelő határozza meg azzal, hogy az egyedi tranzakciós kód nem lehet azonos a 10/A. § (2) bekezdés szerinti bármely azonosítóval vagy bármely egyéb, az adatkezelő által használt azonosítóval, továbbá nem származtatható azokból.
+
+(5) Az adatkezelő az adatigénylésre kapott válaszüzenet megérkezését követően haladéktalanul törli a polgár által az (1)–(4) bekezdés szerinti adatigénylés érdekében a (2) bekezdés szerint megadott azonosítót, kivéve ha annak kezelésére törvény feljogosítja.
+
+10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár a jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett a Ket. szerinti azonosítás szolgáltatás útján is igazolhatja, feltéve hogy azt a polgár a Ket. szerinti ügyintézési rendelkezésében megengedte.
+
+(2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő elektronikus úton olyan módon azonosítja a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
+
+(3) A polgár személye valamely személlyel akkor feleltethető meg egyértelműen, ha az igazolt adatok egyeznek az ügyfélre vonatkozó,
+
+- a) a személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban szereplő természetes személyazonosító adatokkal,
+- b) az összerendelési nyilvántartás adatainak felhasználásával igényelt, a személyiadat- és lakcímnyilvántartásban, a központi idegenrendészeti nyilvántartásban vagy az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásában szereplő természetes személyazonosító adatokkal,
+- c) a Ket. szerinti ügyintézési rendelkezésében az ügyfél által megadott azonosítási szolgáltató regisztrációs nyilvántartásában szereplő azonosító adatokkal,
+- d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adatokkal, amelyekből valamely közhiteles nyilvántartáson keresztüli ellenőrzés útján az ügyfél személyének az adott személyhez rendeltségét ellenőrizheti, vagy
+- e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal, feltéve hogy a nyilvántartásba vétel a (2) bekezdés rendelkezéseinek megfelelt.
+
+(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, úgy az azonosító, illetve személyazonosság igazolására a továbbiakban a 10/C. § megfelelően irányadó. Az összerendelési nyilvántartás lekérdezése az azonosítás szolgáltató által igazolt, a 10/A. § (2) bekezdés szerinti valamely azonosító alapján történik.
+
+10/E. § Ha a polgár ahhoz az ügyintézési rendelkezésében hozzájárult, a polgár azonosítására az összerendelési nyilvántartás hatálya alá tartozó azonosító használatára jogosult, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/D. § megfelelő alkalmazásával
+
+- a) a polgárok személyiadat- és lakcímnyilvántartásból,
+- b) a központi idegenrendészeti nyilvántartásból,
+- c) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásából, vagy
+- d) a Kormány által rendeletben meghatározott más nyilvántartásból, ha az adatszolgáltatás igénylésére az adatkezelő törvény alapján jogosult.
 
 ### III. Fejezet — Az adóazonosító jel
 
@@ -122,7 +173,9 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 14. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv az újszülött születési családi és utónevét, születési helyét és idejét, anyja nevét, valamint lakcímét közli az állami adóhatósággal. Az újszülött részére az állami adóhatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv adatszolgáltatása alapján az adóigazolványt hivatalból adja ki.
 
-15. § Az adóigazolványt a polgár köteles megőrizni, és annak adatait felhívásra – személyazonosságának hitelt érdemlő igazolása mellett – megismerhetővé tenni az adóhatóság, valamint az adózással kapcsolatban adatszolgáltatásra kötelezett szerv számára.
+15. § (1) Az adóigazolványt a polgár köteles megőrizni, és annak adatait felhívásra – személyazonosságának hitelt érdemlő igazolása mellett – megismerhetővé tenni az adóhatóság, valamint az adózással kapcsolatban adatszolgáltatásra kötelezett szerv számára.
+
+(2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
 
 16. § Ha a polgár birtokából az adóigazolvány kikerül, e tényt haladéktalanul be kell jelenteni az állami adóhatóságnak.
 
@@ -223,7 +276,9 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - k) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
 - l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.
 
-25. § A 23–24. §-okban meghatározott szerv kérésére a polgár – személyazonosságának hitelt érdemlő igazolása mellett – TAJ számát köteles megismerhetővé tenni.
+25. § (1) A 23. és 24. §-ban meghatározott szerv kérésére a polgár – személyazonosságának hitelt érdemlő igazolása mellett – TAJ számát köteles megismerhetővé tenni.
+
+(2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
 
 26. § (1) A társadalombiztosítási szerv kapcsolati kódot képezhet az ugyanazon polgárra vonatkozó, rendszeresen ismétlődő adatszolgáltatás igénylése, teljesítése, valamint az adatszolgáltatást kérő nyilvántartásának karbantartása céljából. Ugyanazon polgárra adatkérőnként más-más kapcsolati kódot kell képezni.
 
@@ -270,13 +325,15 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár feladatai ellátásához;
 - r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
-33. § A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. § a)–k) és n)–o) pontjaiban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
+33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
+
+(2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
 
 34. § (1) A polgár a személyi azonosítóját a népszavazási kezdeményezés, népi kezdeményezés, európai polgári kezdeményezés támogatására aláírást, illetőleg a választási eljárásban jelöltajánlást gyűjtő szervnek és polgárnak kezdeményezési, jelöltállítási jogának gyakorlásakor köteles átadni.
 
 (2) Az (1) bekezdésben megjelölt szerv és polgár az aláírások gyűjtése során jogosult a személyi azonosító kezelésére.
 
-35. § A személyi azonosítót a polgár előzetes írásbeli hozzájárulásának tartalma szerint jogosult kezelni az az adatkezelő, akit az érintett erre feljogosít.
+35. § A személyi azonosítót a polgár előzetes írásbeli vagy a Ket. szerinti ügyintézési rendelkezésében tett hozzájárulásának tartalma szerint jogosult kezelni az az adatkezelő, akit az érintett erre feljogosít.
 
 ### A személyi azonosító továbbítása
 
@@ -351,6 +408,10 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (3)
 
+### Felhatalmazó rendelkezések
+
+40/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az összerendelési nyilvántartás működését.
+
 ### Módosuló rendelkezések
 
 41–44. §
@@ -364,6 +425,37 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 (2) E törvény 6. §-ának (3) bekezdése, 28–37. §-ai és 44–45. §-ai 1997. január 1-jén lépnek hatályba.
 
 (3) E törvény 40. §-ának (1) és (3) bekezdése a kihirdetése napján lép hatályba.
+
+46/A. § (1) Az összerendelési nyilvántartás létrehozása (a továbbiakban: kezdeti adatfeltöltés) során a személyiadat- és lakcímnyilvántartást, és a központi idegenrendészeti nyilvántartást kezelő szerv
+
+- a) kapcsolati kódot képez az általa vezetett nyilvántartásban nyilvántartott minden természetes személyre, és
+- b) a kapcsolati kódot az általa vezetett nyilvántartás azonosító kódjához rendelten nyilvántartásba veszi.
+
+(2) Az összerendelési nyilvántartást vezető szervnek:
+
+- a) a személyiadat- és lakcímnyilvántartást kezelő szerv az általa képzett összerendelési kapcsolati kódnak a csak általa visszafejthető titkosított változatát – típusmegjelöléssel –, ahhoz rendelten a természetes személy természetes személyazonosító adatait, a természetes személy elhalálozásának vagy magyar állampolgársága megszűnésének tényére és időpontjára, valamint e törvény 37. § (1) bekezdés a) és b) pontja szerinti kapcsolati kódjaira vonatkozó adatot,
+- b) az (1) bekezdés b) pontja szerinti adatkezelő szerv a nyilvántartásában aktívként szereplő személy tekintetében az összerendelési kapcsolati kódnak a csak általa visszafejthető titkosított változatát – típusmegjelöléssel –, ahhoz rendelten a természetes személy természetes személyazonosító adatait, valamint a természetes személy jogállására, elhalálozására, valamint tartózkodási jogosultsága megszűnésének tényére és időpontjára vonatkozó adatokat
+
+küldi meg.
+
+(3) Az összerendelési nyilvántartás adatkezelője a személyiadat- és lakcímnyilvántartástól kapott adatállomány alapján minden, a nyilvántartás aktuális és történeti állományában szereplő személyre létrehozza a természetes személy összerendelési bejegyzését;
+
+(4) Az összerendelési nyilvántartás adatkezelője a központi idegenrendészeti nyilvántartástól kapott adatállomány adatait összeveti a személyiadat- és lakcímnyilvántartás által átadott adatállományban szereplő adatokkal. Amennyiben a (4) bekezdés szerinti összerendelési bejegyzéshez tartozó természetes személyhez egyértelműen hozzárendelhető a központi idegenrendészeti nyilvántartás adatállományában szereplő, a személyiadat- és lakcímnyilvántartás hatálya alá is tartozó természetes személy, akkor a (4) bekezdés szerinti összerendelési bejegyzést ki kell egészíteni az idegenrendészeti összerendelési titkosított kapcsolati kóddal. Egyéb természetes személy esetében – az idegenrendészeti összerendelési titkosított kapcsolati kód alapján – a természetes személy számára új összerendelési bejegyzést kell létrehozni. Az e bekezdés szerinti eljárás eredménytelensége esetén a központi idegenrendészeti nyilvántartást kezelő szerv hibakezelési eljárást folytat le.
+
+(5) A kezdeti adatfeltöltés során az állami adóhatóság az (1) bekezdés megfelelő alkalmazásával jár el azzal, hogy az összerendelési nyilvántartást vezető szerv részére az általa a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján kezelt kapcsolati kódot is megküldi.
+
+(6) Az összerendelési nyilvántartás vezetője
+
+- a) az (1)–(5) bekezdés alapján kapott adatok alapján létrehozza az összerendelési nyilvántartást,
+- b) kapcsolati kód képzése és annak a csak általa visszafejthető titkosított változata összerendelési nyilvántartásnak történő átadása céljából megkeresi a 10/A. § (2) bekezdés c), e), f), g) és j) pontjaiban meghatározott azonosítókat nyilvántartó szerveket (a továbbiakban: egyedi azonosítót nyilvántartó szerv).
+
+(7) Az egyedi azonosítót nyilvántartó szerv a nyilvántartásában kezelt egyedi azonosítóhoz összerendelési kapcsolati kódot képez, majd annak a csak általa visszafejthető titkosított változatát – típusmegjelöléssel –, és ahhoz rendelten a természetes személy természetes személyazonosító adatait az összerendelési nyilvántartást vezető szerv részére továbbítja. A társadalombiztosítási azonosító jel kiadására és nyilvántartására jogosult adatkezelő a (4) bekezdésben foglalt adatokon kívül az általa a 37. § (1) bekezdés a), illetve b) pontja alapján kezelt kapcsolati kódot is továbbítja az összerendelési nyilvántartást vezető szerv részére.
+
+(8) A továbbított titkosított kapcsolati kód az egyedi azonosításra alkalmas adatok alapján az összerendelési nyilvántartásba bejegyzésre kerül.
+
+(9) Az (1)–(5) bekezdés szerinti eljárás eredménytelensége esetén kapcsolati kóddal el nem látott természetes személyek azonosítóinak hozzárendelését hibakezelési eljárás keretében egyedileg kell elvégezni.
+
+(10) Az (1)–(9) bekezdés szerinti eljárást követően az összerendelési nyilvántartás vezetője a természetes személyek közvetlen azonosítására rendelkezésre bocsátott azonosító adatokat helyreállíthatatlanul törli.
 
 ### 1. számú melléklet az 1996. évi XX. törvényhez
 

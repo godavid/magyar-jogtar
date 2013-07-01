@@ -588,7 +588,7 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 
 (6) A fegyveres szerv az (1) és (5) bekezdésben meghatározott adatokat, illetve a feltételeknek való megfelelést a szolgálati viszony fennállása alatt ellenőrizheti.
 
-(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor, továbbá ez esetben a 64. § (5) bekezdése alkalmazandó.
+(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor.
 
 (8) Az (1) bekezdés d) pontjában meghatározott megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
@@ -1210,7 +1210,7 @@ távolléti díjnak megfelelő összeg.
 
 (4) Akinek a rokkantságát, megváltozott munkaképességű személyek ellátását a szolgálattal összefüggő baleset, betegség miatt állapították meg, és a rokkantságát, megváltozott munkaképességű személyek ellátását megszüntették, a hivatásos állományba visszavehető, ha az egészségi állapotának megfelelő beosztás részére biztosítható.
 
-(5) A hivatásos állomány szolgálati járandóságban részesülő volt tagja – az (1)–(4) bekezdésben meghatározott feltételeknek való megfelelés esetén is – csak akkor vehető vissza hivatásos állományba, ha a szolgálati járandóságának folyósítását a hivatásos szolgálat idejére szünetelteti.
+(5)
 
 (6) Visszavétel esetén a hivatásos állomány tagja legfeljebb olyan rendfokozatba léptethető elő, mint amilyen rendfokozatot folyamatos szolgálatteljesítés esetén soron történő előléptetéssel elérhetett volna.
 
@@ -1501,15 +1501,17 @@ távolléti díjnak megfelelő összeg.
 
 (2) Eggyel magasabb rendfokozatba kell előléptetni, kinevezni a hősi halottá nyilvánított tisztet, főtisztet és tábornokot. A hősi halottá nyilvánított, tisztnél alacsonyabb rendfokozatú személyt hadnagyi rendfokozatba kell kinevezni.
 
-### A hivatásos állomány tagjának minősítése
+### A hivatásos állomány tagjának teljesítményértékelése és minősítése
 
-82. § (1) A hivatásos állomány tiszti, főtiszti és tábornoki rendfokozatú tagját — a nyugdíjkorhatár elérését megelőző 5 év kivételével — magasabb beosztásba történő kinevezése, besorolása előtt, továbbá szakmai alkalmatlanságának felmerülése esetén, a próbaidő megszűnése után, a véglegesítéskor, a szolgálati viszony meghosszabbításakor, illetve, ha azt fontos okból maga kérte, de legalább 5 évenként az állományilletékes parancsnok minősíti. Egyéb esetekben szolgálati jellemzést kell készíteni.
+82. § (1) A hivatásos állomány tagjának szolgálatellátását, magatartását és a vele szemben támasztott követelményekhez való viszonyát évente 2 alkalommal értékelni kell (a továbbiakban: teljesítményértékelés).
 
-(2) A hivatásos állomány tiszthelyettesi és zászlósi rendfokozatú tagjairól minden esetben szolgálati jellemzést kell készíteni, melynek tartalmát és készítésének eseteit külön jogszabály állapítja meg.
+(2) A teljesítményértékelés kötelező és ajánlott elemekből áll.
 
-(3) A minősítés és a szolgálati jellemzés célja a hivatásos állomány tagja szolgálati teljesítményének megítélése, a teljesítményt befolyásoló ismeretek, képességek, személyiségjegyek értékelése, továbbá az előmenetelének elősegítése.
+(3) A teljesítményértékelés szintjének meghatározásakor figyelembe kell venni a szolgálati hely szervezeti teljesítményének – miniszter által meghatározott rendben és szempontok alapján végrehajtott – tárgyévi értékelését.
 
-(4) A minősítés kötelező elemeit a törvény 4. számú mellékletében foglalt minősítési lap tartalmazza. A minősítésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek. A minősített alkalmasságának megítélését indokolni kell.
+(4) A tárgyévet lezáró teljesítményértékelés – az értékelt képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését, valamint a beosztás ellátására való alkalmasságára, további fejleszthetőségére és előmenetelre vonatkozó következtetést is tartalmazó – szöveges indokolással kiegészítve adja az értékelt tárgyévre szóló minősítését.
+
+(5) Az értékelő vezető a minősítés alapján kezdeményezheti az értékeltnek a vezetői és utánpótlási adatbankba való felvételét vagy az abból való törlését, továbbá a szolgálati viszony módosítását vagy megszüntetését.
 
 83. § (1) A hivatásos állomány tagja kérésére az állományilletékes parancsnok köteles lehetővé tenni, hogy a szervezeti egységnél működő érdekképviseleti szerv vagy tisztségviselője a minősítésben foglalt megállapításokra észrevételt tegyen.
 
@@ -2097,7 +2099,7 @@ megfelelő címpótlékot kell folyósítani.
 
 (2) Fegyelmi eljárás keretében kell elbírálni a hivatásos állomány tagjának azt a szabálysértését – a szabálysértési elzárással is büntethető szabálysértés kivételével –, amelyet szolgálati helyen vagy a szolgálattal összefüggésben követett el.
 
-(3) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-ában meghatározott esetben a büntető jogszabályok alkalmazása szempontjából katonának [Btk. 122. § (1) bek.] tekintendő hivatásos állomány tagjának katonai vétségét fegyelmi eljárásban kell elbírálni. Amennyiben a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész határozata ellen nem jelentettek be panaszt, – a Be. 485/A. §-a szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
+(3) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-ában meghatározott esetben a büntető jogszabályok alkalmazása szempontjából katonának [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdés, illetve az 1978. évi IV. törvény 122. § (1) bekezdés] tekintendő hivatásos állomány tagjának katonai vétségét fegyelmi eljárásban kell elbírálni. Amennyiben a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész határozata ellen nem jelentettek be panaszt, – a Be. 485/A. §-a szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
 
 120. § (1) A fenyítés célja a szolgálati rend és fegyelem védelme, az elkövetőnek és másoknak a fegyelemsértéstől való visszatartása.
 
@@ -2115,7 +2117,7 @@ megfelelő címpótlékot kell folyósítani.
 - d) jogos védelmi helyzetben,
 - e) végszükségben
 
-követte el. A fenyíthetőséget kizáró okok értelmezésére a Büntető Törvénykönyvről szóló 1978. évi IV. törvény rendelkezéseit kell megfelelően alkalmazni.
+követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelkezéseit kell megfelelően alkalmazni.
 
 (3) Nem tekinthető a (2) bekezdés a) pontja szerinti kóros elmeállapotnak az az eset, amikor a hivatásos állomány tagja a cselekményt önhibából eredő ittas vagy bódult állapotban követte el.
 
@@ -2123,7 +2125,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Büntető Tö
 
 (2) Nem indítható fegyelmi eljárás abban az esetben sem, ha a fegyelmi jogkör gyakorlójának a fegyelemsértésről, szabálysértésről való tudomásszerzésétől számított három hónap eltelt.
 
-(3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően az (1) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója az (1) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állományúnak a büntetőeljárásban gyanúsítottként történő bevonását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
+(3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően az (1) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Btk. 26. §-ában, illetve az 1978. évi IV. törvény 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója az (1) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állományúnak a büntetőeljárásban gyanúsítottként történő bevonását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
 
 (4) Szabálysértés fegyelmi eljárásban történő elbírálásakor a szabálysértésekről szóló jogszabályokban meghatározott elévülési szabályokat kell alkalmazni azzal, hogy ha az ügyben szabálysértési hatóság járt el és az ügyet fegyelmi eljárásra átteszi, az állományilletékes parancsnoknak a fegyelmi eljárást az áttételt követő három hónapon belül meg kell indítania.
 
@@ -3083,9 +3085,9 @@ különbözetének megtérítése iránti igényt.
 
 264/C. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
 
-- a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot,
-- b) megfelel a miniszter által meghatározott alkalmassági követelményeknek, és
-- c) a szolgálati járandóságát a különleges foglalkoztatási állomány idejére szünetelteti, kérelmére – függetlenül attól, hogy melyik fegyveres szervnél vagy a Magyar Honvédségnél állt fenn szolgálati viszonya – a rendőrség különleges foglalkoztatási állományába kell venni.
+- a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot, és
+- b) megfelel a miniszter által meghatározott alkalmassági követelményeknek
+- c)
 
 (2) A szenior állományba tartozó szolgálati beosztást nem lát el.
 
@@ -3603,7 +3605,9 @@ A pótlékok mértéke:
 
 (2) Az (1) bekezdés – a katonai fogdát kivéve – nem alkalmazható, ha az érintett személyt az ellene emelt vád alól jogerősen felmentették, vagy a büntetőeljárást megszüntették.
 
-331. §
+### Az öregségi nyugdíj, korhatár előtti ellátás, valamint szolgálati járandóság szüneteltetése
+
+331. § Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy hivatásos állományba való visszavételéről, valamint a szolgálati járandóságban részesülő személy szenior állományba vételéről az állományilletékes parancsnok – az öregségi nyugdíjnak, korhatár előtti ellátásnak, illetve szolgálati járandóságnak a Tny. tv. 83/C. § (1) bekezdése, illetve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. § (1) bekezdése szerint történő szüneteltetése érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
 
 ### XXV. Fejezet — HATÁLYBALÉPTETŐ RENDELKEZÉSEK
 

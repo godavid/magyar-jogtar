@@ -533,7 +533,25 @@ vonatkozó információ.
 
 (2) Mélyművelésre szolgáló bányatelek esetében a bányavállalkozó akkor jogosult az építési és telekalakítási tilalom elrendelését kezdeményezni, ha a bányászati tevékenység előreláthatóan kihat a felszíni ingatlanra.
 
-(3) A bányatelek megállapítására vagy módosítására (bővítésére, csökkentésére, egyesítésére vagy megosztására) irányuló kérelem elbírálási eljárásában a bányafelügyelet a kutatási (készletszámítási) adatok alapján megállapítja a bányatelekben található ásványi nyersanyagok mennyiségét, haszonanyagként vagy meddőanyagként történő besorolását. A kutatási területről, a bányatelekről és a bányaműveléssel érintett területekről a bányafelügyelet nyilvántartást vezet.
+(3) A bányatelek megállapítására vagy módosítására (bővítésére, csökkentésére, egyesítésére vagy megosztására) irányuló kérelem elbírálási eljárásában a bányafelügyelet a kutatási (készletszámítási) adatok alapján megállapítja a bányatelekben található ásványi nyersanyagok mennyiségét, haszonanyagként vagy meddőanyagként történő besorolását.
+
+(3a) A kutatási területről és a bányatelekről a bányafelügyelet nyilvántartást vezet. A nyilvántartásnak tartalmaznia kell:
+
+- a) a kutatási terület esetében
+  - aa) a kutatást engedélyező határozat számát és jogerőre emelkedésének napját, kutatási jogadomány esetén a koncessziós szerződés iktatási számát és hatálybalépésének időpontját,
+  - ab) a kutatási terület közigazgatási megjelölését az érintett települések megnevezésével, valamint az egységes országos vetületi rendszer (a továbbiakban: EOV rendszer) szerinti koordinátákkal történő lehatárolását, a kutatási blokkok EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatási terület alap- és fedőlapját,
+  - ac) a kutatásra engedélyezett ásványi nyersanyag megnevezését,
+  - ad) a kutatási jog jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét,
+  - ae) a kutatásra engedélyezett időtartamot,
+  - af) a kutatási jog visszavonása esetén, a kutatási jog megszűnésének napját,
+- b) a bányatelek esetében
+  - ba) a bányatelket megállapító határozat számát, jogerőre emelkedésének napját,
+  - bb) a bányatelek védnevét, jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét, határvonal töréspontjainak EOV rendszer szerinti koordinátáit, területét (felszíni vetületét), alap- és fedőlapját,
+  - bc) a bányatelekben található ásványi nyersanyagok megnevezését, mennyiségét (földtani és kitermelhető vagyon),
+  - bd) az ásványi nyersanyag kitermelésének módját,
+  - be) a bányatelket törlő határozat számát, jogerőre emelkedésének napját.
+
+(3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező jogerős határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett. A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -568,6 +586,8 @@ vonatkozó információ.
 (3) Bányaüzemi felelős műszaki vezetői tevékenységet csak az folytathat, aki rendelkezik a bányafelügyelet engedélyével. A bányafelügyelet annak engedélyezi a bányaüzemi felelős műszaki vezetői tevékenység folytatását, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
 
 (4) A bányafelügyelet az engedély kiadásával egyidejűleg nyilvántartásba veszi a bányaüzemi felelős műszaki vezetőt. A nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát. A nyilvántartásból kizárólag a bányaüzemi felelős műszaki vezetői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A bányaüzemi felelős műszaki vezető felel a 27. § (2) bekezdésében foglalt rendelkezések, a műszaki előírások és bányabiztonsági szabályok bányaüzemben történő végrehajtásáért, valamint megtartásuk ellenőrzéséért, e körben a bányavállalkozó képviselőjének minősül. Felelőssége nem zárja ki a bányavállalkozó vagy beosztása, munkaköre alapján más személy felelősségét.
 
@@ -1230,11 +1250,19 @@ fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 - q) a földtani közeg által okozott veszélyek és káros folyamatok elleni védelem szempontjainak érvényesítése,
 - r) a földtani közeg hasznosítási lehetőségeinek számbavétele, értékelése és a hasznosítás földtani feltételeinek meghatározása.
 
-(2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak engedélyezi, aki megfelel a külön jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+(2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak a gazdálkodó szervezetnek, valamint e tevékenységet végző, irányító, felügyelő személynek engedélyezi, aki megfelel a jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+
+(2a) A gazdálkodó szervezetekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyes megnevezését, székhelyét (telephelyét, fióktelepét), az engedély fajtáját és hatályát, a felelős személy nevét és lakcímét, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségét és a robbanóanyag kereskedelmi megnevezését.
+
+(2b) A tevékenységet végző, irányító, felügyelő személyekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza a tevékenység folytatására engedéllyel rendelkező természetes személyazonosító adatait, az engedély típusát, nyilvántartási számát, kiadójának nevét, érvényességi körét, hatályát, az engedélyező határozat számát.
+
+(2c) A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő polgári felhasználású robbanóanyag-forgalmazási tevékenység folytatására irányuló szándékát köteles a bányafelügyeletnek bejelenteni.
 
-(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenységek folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
+(4) A nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenység folytatását a bányafelügyelet annak engedélyezi, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, gyakorlati idővel, és megfelel az ott meghatározott egyéb feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely tartalmazza a tevékenység folytatására engedéllyel rendelkező személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát, engedélyének sorszámát, az engedélyezett tevékenység megnevezését, valamint a nyilvántartásból törlés időpontját és iktatási számát.
+
+(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a tevékenység folytatására engedéllyel rendelkező személyek jegyzékét, amely tartalmazza az engedéllyel rendelkező személy nevét és címét, engedélyének számát, és az engedélyezett tevékenység betűkódját.
 
 (5) A bányafelügyelet – tudomására jutását követően – haladéktalanul köteles intézkedni a hatósági felügyelete alá tartozó tevékenységek gyakorlásával kapcsolatban a 2. §-ban meghatározott közérdek sérelmének megelőzésére, illetőleg megszüntetésére.
 
@@ -1482,7 +1510,7 @@ bányahatósági felügyelete
   - m) az Európai Bizottság számára megküldendő jelentés előkészítésére és benyújtására,
 - 22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására,
 - 23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
-- 24. az ásványi nyersanyag és geotermikus energiavagyon hatósági nyilvántartására,
+- 24. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 - 25. a 26/A. § (5) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 - 26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre,
 - 27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására,

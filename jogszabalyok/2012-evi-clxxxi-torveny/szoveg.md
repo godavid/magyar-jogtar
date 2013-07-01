@@ -625,7 +625,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (15)
 
-#### 61–63. §
+#### 61–62. §
+
+#### 63. §
 
 #### 64. §
 

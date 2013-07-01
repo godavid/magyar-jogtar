@@ -1145,7 +1145,7 @@ kell számítani.
 
 ### A megfizetés, a kiutalás módja
 
-38. § (1) A pénzforgalmi számlanyitásra kötelezett adózó a fizetési kötelezettségét belföldi pénzforgalmi számlájáról történő átutalással köteles teljesíteni, az állami adó- és vámhatósághoz teljesítendő befizetések vonatkozásában ideértve a külön jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő fizetést is. A pénzforgalmi számlanyitásra kötelezett adózó az eljárási illeték, az állami adó- és vámhatóságnál kezdeményezett eljárásokért fizetendő igazgatási szolgáltatási díj, az adórendszeren kívüli keresettel járó foglalkoztatáshoz kapcsolódó regisztrációs díj, az egyszerűsített foglalkoztatáshoz kapcsolódó közteher-fizetési kötelezettség, valamint – ha végrehajtási eljárás alatt áll – a végrehajtói letéti számlára történő befizetés vonatkozásában az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét
+38. § (1) A pénzforgalmi számlanyitásra kötelezett adózó a fizetési kötelezettségét belföldi pénzforgalmi számlájáról történő átutalással köteles teljesíteni, az állami adó- és vámhatósághoz teljesítendő befizetések vonatkozásában ideértve a külön jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő, valamint a külön jogszabályban meghatározott egyszerűsített elektronikus fizetést is. A pénzforgalmi számlanyitásra kötelezett adózó az eljárási illeték, az állami adó- és vámhatóságnál kezdeményezett eljárásokért fizetendő igazgatási szolgáltatási díj, az adórendszeren kívüli keresettel járó foglalkoztatáshoz kapcsolódó regisztrációs díj, az egyszerűsített foglalkoztatáshoz kapcsolódó közteher-fizetési kötelezettség, valamint – ha végrehajtási eljárás alatt áll – a végrehajtói letéti számlára történő befizetés vonatkozásában az állami adó- és vámhatóságnál fennálló fizetési kötelezettségét
 
 - a) készpénz-helyettesítő fizetési eszközzel (bankkártyával), vagy
 - b) a külön jogszabályban meghatározott, az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül POS terminál útján történő bankkártyás fizetés útján is teljesítheti.
@@ -1173,11 +1173,11 @@ kell számítani.
 
 40. § (1) Az adóhatóság által nyilvántartott adót az adózónak adónként, a megfelelő adószámlára kell megfizetnie, illetve a költségvetési támogatást támogatásonként, a megfelelő számláról kell visszaigényelnie. A bírságot, a pótlékot és a költséget külön számlára kell megfizetni.
 
-(2) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a költségvetési csalás (Btk. 310. §) bűncselekmény elkövetője által teljesített, a bűncselekménnyel okozott vagyoni hátrány összegével megegyező – a büntetés korlátlan enyhítését eredményezően – megfizetett összeget.
+(2) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a költségvetési csalás [Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 396. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 310. §] bűncselekmény elkövetője által teljesített, a bűncselekménnyel okozott vagyoni hátrány összegével megegyező – a büntetés korlátlan enyhítését eredményezően – megfizetett összeget.
 
 (2a) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a 2011. december 31-ig hatályban volt adócsalás, valamint a munkáltatással összefüggésben elkövetett adócsalás bűncselekmények elkövetője által teljesített, a bűncselekménnyel okozott bevételcsökkenés összegével megegyező – büntethetőséget megszüntető okot eredményező – összeget.
 
-(3) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás (Btk. 310. §) miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – megfizetett összeget.
+(3) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás (Btk. 396. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 310. §) miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – megfizetett összeget.
 
 (4) Az illetéket – ha törvény másként nem rendelkezik – az állami adóhatóság számlájára kell megfizetni.
 
@@ -1435,9 +1435,13 @@ szükséges,
 - a) az adózó által a társasági adóbevallásban megjelölt mikro-, kis-, vagy középvállalkozás meghatározására vonatkozó kódról;
 - b) az adózó által az egyszerűsített vállalkozói adóbevallásban szereplő statisztikai állományi létszámra vonatkozó adatról az Európai Bizottság felé történő éves beszámolási kötelezettség teljesítése érdekében.
 
-(19)
+(19) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozóhatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresést a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
 
-(20)–(22)
+(20) A (19) bekezdés szerinti elektronikus kapcsolattartásra köteles pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás az elektronikus kapcsolattartáshoz szükséges adatait köteles bejelenteni az állami adó- és vámhatóságnak.
+
+(21) A (19) bekezdés szerinti elektronikus kapcsolattartás során az állami adó- és vámhatóság által meghatározott formátumú küldemények továbbíthatóak. Az állami adó- és vámhatóság az általa üzemeltetett honlapon köteles közzétenni az üzenetformátumokat és az azokhoz tartozó üzenetsémákat a bevezetési idejük feltüntetésével. A küldeményt a feladónak el kell látnia legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel, valamint titkosítania kell.
+
+(22)
 
 ### Adótitok
 
@@ -1502,7 +1506,7 @@ szükséges,
 
 (12) A kettős adóztatás elkerüléséről szóló nemzetközi szerződés információcseréről rendelkező cikke keretében a magyar illetékes hatóság a külföldi állam illetékes hatóságának a magánszemélyekről az egyezmény rendelkezéseinek végrehajtása, a külföldi állam adóztatási jogának biztosítása, illetőleg a kettős adóztatás elkerülése érdekében az azonosításhoz, az adómegállapításhoz, az ellenőrzéshez, a bizonyítási eljáráshoz, illetőleg a tényállás tisztázásához szükséges olyan személyes adatokat adhat át, amelyeket nyilvántartásai tartalmaznak vagy amelyek megszerzését a belföldi jogszabályok számára lehetővé teszik.
 
-(13) Az adótitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér adótitoknak minősülő adatot az adóhatóságtól.
+(13) Az adótitok megőrzésének a kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi információs egységként működő hatóság – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – az adótitoknak minősülő adatot az állami adóhatóság nyilvántartásából (az arra a célra kialakított rendszer útján) közvetlen hozzáféréssel lekérdezi vagy írásbeli megkeresés útján kér adótitoknak minősülő adatot az adóhatóságtól.
 
 (14) Ha az állami adóhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a jogerős határozata egy példányának megküldésével tájékoztatja a munkaügyi hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán jogerőssé vált határozatokat a következő hónap 10. napjáig elektronikus úton továbbítja a munkaügyi hatóságnak és az egészségbiztosítási szervnek.
 
@@ -3080,8 +3084,8 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (1a) A bíróság által jogerősen megállapított
 
-- a) költségvetési csalás (Btk. 310. §),
-- b) csalás (Btk. 318. §),
+- a) csalás (Btk. 373. §), költségvetési csalás (Btk. 396. §),
+- b) a 2013. június 30-ig hatályban volt költségvetési csalás, csalás,
 - c) a 2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, vagy
 - d) a 2005. szeptember 1-jéig hatályban volt társadalombiztosítási, egészségbiztosítási vagy nyugdíjjárulék fizetési kötelezettség megsértése
 
@@ -3090,7 +3094,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 (1b) Az (1a) bekezdésben foglaltakat kell alkalmazni akkor is, ha
 
 - a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
-- b) az eljárást az elkövetővel szemben a Btk. 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
+- b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
 (2) Az önellenőrzés bevallása – ha az adókülönbözet az adózó javára mutatkozik – az (1) bekezdésben meghatározott elévülést megszakítja.
 
@@ -3370,28 +3374,15 @@ módját és technikai feltételeit.
 - b) a munkáltató (kifizető) az általa teljesített, 16. § (4) és (4b) bekezdés szerinti bejelentés és a 31. § (2) bekezdés szerinti bevallás adataihoz,
 - c) a magánszemély adózó a b) pont szerinti saját magára vonatkozó adatokhoz hozzáférhet.
 
-(16) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység az adópolitikáért felelős miniszter engedélyével folytatható. E tevékenységek folytatását az adópolitikáért felelős miniszter annak engedélyezi, aki büntetlen előéletű, és nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az ott meghatározott egyéb feltételeknek. Az adópolitikáért felelős miniszter a tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet. Az adópolitikáért felelős miniszter az engedély megadásával egyidejűleg hivatalból igazolványt állít ki. Az engedély kiadásával, visszavonásával, valamint az igazolvány pótlásával, cseréjével, a nyilvántartásban szereplő adatok módosításával összefüggő, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért (e §-ban a továbbiakban együtt: eljárás) külön jogszabály szerinti igazgatási szolgáltatási díjat kell fizetni. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet akkor folytathat, ha legalább egy tagja vagy alkalmazottja az e bekezdés szerinti nyilvántartásban szerepel.
+(16)
 
-(17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a (16) bekezdés szerinti engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
+(17) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység végzéséhez szükséges engedély kibocsátásának és visszavonásának feltételeit, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint az engedéllyel rendelkezők kötelező továbbképzésére vonatkozó részletes szabályokat azzal, hogy az eljárás során méltányossági eljárásnak nincs helye.
 
-(18) A (16) bekezdés szerinti nyilvántartások – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – a természetes személy következő adatait és az alábbi tényeket tartalmazzák:
+(18) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezetet rendeletben kijelölje.
 
-- a) természetes személyazonosító adatok,
-- b)–c)
-- d) lakcím, levelezési cím,
-- e) telefonszám, elektronikus elérhetőség,
-- f) hatósági igazolvány száma, a kiadás időpontja,
-- g) a szakképesítést igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
-- h) egyéb szakképesítések megnevezése, az ezen képesítéseket igazoló oklevél, bizonyítvány száma, a kiállító intézmény neve, a kiállítás kelte,
-- i) az államilag elismert idegennyelv-tudást igazoló nyelvvizsga (nyelvvizsgák) típusa, valamint fokozata.
+(19)
 
-(19) A (16) bekezdés szerinti nyilvántartásban szereplő adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység folytatására jogosult személy neve, levelezési címe, nyilvántartási száma, adótanácsadói, adószakértői, okleveles adószakértői igazolványának száma, valamint hozzájárulása esetén egyéb, a nyilvántartásban szereplő adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásban szereplő nyilvános adatokban bekövetkezett változásokat az adópolitikáért felelős miniszter a Pénzügyi Közlönyben évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
-
-(20) A (16) bekezdés szerinti hatósági eljárás – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – ügyintézési határideje 60 nap azzal, hogy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – ha a (16) bekezdés szerinti engedélyező szerv a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
-
-(21) Amennyiben a kérelmező az eljárás – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – iránti kérelmét hibásan, hiányosan, vagy nem a (17) bekezdésben hivatkozott rendelet szerinti mellékletekkel felszerelve terjeszti elő, akkor a kérelmezőt az adópolitikáért felelős miniszter a kérelem előterjesztését követő 30 napon belül hiánypótlásra hívja fel.
-
-(22) A (16) bekezdés szerinti eljárás iránti kérelmet az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett külön közleményben megjelölt címen, az adópolitikáért felelős miniszter által vezetett minisztérium e feladatra kijelölt szervezeti egységénél, valamint a kincstár területi szervezeti egységeinél lehet előterjeszteni.
+(20)–(22)
 
 (23)
 
@@ -3417,24 +3408,64 @@ módját és technikai feltételeit.
 
 részére az állami adóhatóság által teljesített adatátadással érintett adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát.
 
-175/A. § (1) Az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az adópolitikáért felelős miniszter részére – annak az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az adópolitikáért felelős miniszter arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a kérelmező büntetlen előéletű-e, valamint gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakörellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+### Adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vétele
 
-(2) Az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében az adópolitikáért felelős miniszter ellenőrzi azt is, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint nem áll-e gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az adópolitikáért felelős miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+175/A. § (1) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartását végző szervezet (a továbbiakban: nyilvántartásba vételt végző szervezet) engedélyével folytatható.
 
-(3) Ha az adópolitikáért felelős miniszter a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenységet gyakorló személy büntetett előéletű vagy gazdasági, pénzügy-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll, haladéktalanul intézkedik az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásához szükséges engedély visszavonása érdekében.
+(2) Adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység folytatását a nyilvántartásba vételt végző szervezet annak engedélyezi, aki
 
-(4) Az (1) és (2) bekezdés alapján megismert személyes adatokat az adópolitikáért felelős miniszter
+- a) büntetlen előéletű,
+- b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és
+- c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+
+(3) Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet akkor folytathat, ha legalább egy tagja vagy alkalmazottja az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásában szerepel.
+
+(4) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
+175/B. § (1) Az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a nyilvántartás végző szervezet részére – annak az adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a nyilvántartásba vételt végző szervezet arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a kérelmező büntetlen előéletű-e, valamint gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(2) Az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében a nyilvántartásba vételt végző szervezet ellenőrzi azt is, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint nem áll-e gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a nyilvántartásba vételt végző szervezet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenységet gyakorló személy büntetlen előéletű-e, valamint gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(3) Ha a nyilvántartásba vételt végző szervezet a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenységet gyakorló személy büntetett előéletű vagy gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll, haladéktalanul intézkedik az adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység gyakorlásához szükséges engedély visszavonása érdekében.
+
+(4) Az (1) és (2) bekezdés alapján megismert személyes adatokat a nyilvántartásba vételt végző szervezet
 
 - a) az adótanácsadói, adószakértői vagy okleveles adószakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
-- b) adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+- b) adótanácsadói, adószakértői vagy az okleveles adószakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-kezeli.
+175/C. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező természetes személy szolgáltató Magyarország területén adótanácsadói, adószakértői vagy okleveles adószakértői szolgáltatás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire is figyelemmel – az e szolgáltatók nyilvántartásba vételét végző szervezetnek bejelenteni. A nyilvántartásba vételt végző szervezet az adótanácsadói, adószakértői vagy okleveles adószakértői szolgáltatás végzésére jogosult bejelentést tevőt nyilvántartásba veszi, amely nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
-175/B. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező természetes személy szolgáltató Magyarország területén adótanácsadói, adószakértői, avagy okleveles adószakértői szolgáltatás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire is figyelemmel – az e szolgáltatók nyilvántartását vezető adópolitikáért felelős miniszternek bejelenteni. Az adópolitikáért felelős miniszter az adótanácsadói, adószakértői, avagy okleveles adószakértői szolgáltatás végzésére jogosult bejelentést tevőt nyilvántartásba veszi.
-
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó szervezet határon átnyúló adótanácsadói, adószakértői, avagy okleveles adószakértői szolgáltatási tevékenysége keretében adótanácsadói, adószakértői, avagy okleveles adószakértői szolgáltatást akkor folytathat, ha a feladat irányításával, vezetésével megbízott tagja, alkalmazottja teljesítette az (1) bekezdés szerinti bejelentési kötelezettségét.
+(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó szervezet határon átnyúló adótanácsadói, adószakértői vagy okleveles adószakértői szolgáltatási tevékenysége keretében adótanácsadói, adószakértői vagy okleveles adószakértői szolgáltatást akkor folytathat, ha a feladat irányításával, vezetésével megbízott tagja, alkalmazottja teljesítette az (1) bekezdés szerinti bejelentési kötelezettségét.
 
 (3) A határon átnyúló szolgáltatásnyújtás tekintetében az átmeneti és alkalmi jelleget a szolgáltatás időtartamára, gyakoriságára, rendszerességére és folytonosságára tekintettel a nyilvántartást vezető szervezet esetenként állapítja meg.
+
+175/D. § (1) A 175/A. § (1) bekezdése szerinti engedély megadására irányuló közigazgatási hatósági eljárás megindításához szükséges kérelmet az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett közleményben meghatározott címen, a nyilvántartásba vételt végző szervezetnél vagy a kincstár területi szervénél lehet előterjeszteni.
+
+(2) Az eljárás ügyintézési határideje – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – 60 nap azzal, hogy – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően – ha a nyilvántartásba vételt végző szervezet a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
+
+(3) Ha a kérelmező az eljárás – ide nem értve a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárást – iránti kérelmét hibásan, hiányosan vagy nem az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott mellékletekkel csatolva terjeszti elő, a kérelmezőt a nyilvántartásba vételt végző szervezet a kérelem előterjesztését követő 30 napon belül hiánypótlásra hívja fel.
+
+(4) A nyilvántartásba vételt végző szervezet az engedély megadásával egyidejűleg hivatalból igazolványt állít ki.
+
+(5) A nyilvántartásba vételt végző szervezet határozata ellen a kérelmező az adópolitikáért felelős miniszterhez címzett fellebbezéssel élhet.
+
+(6) Az engedély kiadásával, visszavonásával, valamint az igazolvány pótlásával, cseréjével, a nyilvántartásban szereplő adatok módosításával összefüggő, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+175/E. § (1) A nyilvántartásba vételt végző szervezet a tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet.
+
+(2) A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – a természetes személy következő adatait és az alábbi tényeket tartalmazza:
+
+- a) természetes személyazonosító adatok,
+- b) lakcím, levelezési cím,
+- c) telefonszám, elektronikus elérhetőség,
+- d) hatósági igazolvány száma, a kiadás időpontja,
+- e) a szakképesítést igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
+- f) egyéb szakképesítések megnevezése, az ezen képesítéseket igazoló oklevél, bizonyítvány száma, a kiállító intézmény neve, a kiállítás kelte,
+- g) az államilag elismert idegennyelv-tudást igazoló nyelvvizsga típusa, valamint fokozata.
+
+(3) A nyilvántartásba vett adótanácsadó, adószakértő vagy okleveles adószakértő neve, levelezési címe, nyilvántartási száma, adótanácsadói, adószakértői vagy okleveles adószakértői igazolványának száma, valamint hozzájárulása esetén egyéb, a nyilvántartásban szereplő adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásban szereplő nyilvános adatokban bekövetkezett változásokat az adópolitikáért felelős miniszter által vezetett minisztérium honlapján a nyilvántartást végző szervezet évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá a nyilvántartásba vételt végző szervezet honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
+
+(4) A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig őrzi meg.
 
 ### Egyes adókra vonatkozó különös rendelkezések
 
@@ -3609,6 +3640,10 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (3) Az adózó költségeit az adózó viseli.
 
 (4) Az (1) és (2) bekezdésben foglalt költségekről az adóhatóság határozatában (végzésében) rendelkezik.
+
+### Az állami adó- és vámhatóság által vezetett közhiteles hatósági nyilvántartások
+
+179/A. § Az állami adóhatóság a 7. § (5) bekezdésében, a 16. § (3), (4) és (11) bekezdésében, a 17. § (5), (10)–(12) és (17) bekezdésében, a 20. § (1) és (6) bekezdésében, a 20/A. § (2) bekezdésében, a 22. § (1), (4) és (5) bekezdésében, a 22/A. § (1) bekezdésében, az 54. § (5) bekezdésében, az 55. § (4)–(6) bekezdésében és az 55/A. §-ban meghatározott adatok tekintetében közhiteles hatósági nyilvántartást vezet, illetve a 24. § (1) bekezdésében, a 43. § (1) bekezdésében, az 54. § (6) bekezdésében, a 176/C–176/E. §-ban, valamint a 178. § 31. és 32. pontjában foglalt nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság a 22/C. §-ban meghatározott adatokról közhiteles hatósági nyilvántartást vezet. E nyilvántartások azon adat kivételével minősülnek közhitelesnek, amely adatokat jogszabály más nyilvántartás részeként közhitelesnek minősít.
 
 ### X. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -3824,6 +3859,12 @@ kell alkalmazni.
 (9) A környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult ügyekben a vámhatóság jár el.
 
 (10) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások, továbbá a környezetvédelmi termékdíj bejelentésekkel kapcsolatban 2012. december 31-éig indult eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.
+
+196. § (1) E törvénynek az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételére vonatkozóan az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított rendelkezéseit a 2013. július 1-jén, illetve azt követően induló ügyben kell alkalmazni. A 2013. június 30-án folyamatban lévő ügyek tekintetében az eljárás megindításakor hatályban lévő rendelkezéseket kell alkalmazni.
+
+(2) Az adópolitikáért felelős miniszter által 2013. július 1. előtt kibocsátott és 2013. június 30-án érvényben lévő adótanácsadói, adószakértői és okleveles adószakértői engedélyhez – az azon feltüntetett érvényességi időn belül – ugyanazok a jogok és kötelezettségek kapcsolódnak, mint a nyilvántartásba vételt végző szervezet által 2013. július 1-én és azt követően kibocsátott engedélyhez.
+
+197. § Az adópolitikáért felelős miniszter a nyilvántartásba vételt végző hatóság rendelkezésére bocsátja az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel a nyilvántartásba vételt végző hatóság hatáskörébe utalt feladattal kapcsolatosan az adópolitikáért felelős miniszter által kezelt adatokat, dokumentumokat, információkat, olyan formában és ütemezésben, hogy azok alapján a nyilvántartásba vételt végző hatóság 2013. július 1-jével megkezdhesse az e törvényben szabályozott feladatai ellátását.
 
 198. § Az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 176/B. §-nak való megfelelés elősegítése érdekében az adópolitikáért felelős miniszter jogszabályban meghatározottak szerint támogatást nyújt a nyugtaadási kötelezettség pénztárgéppel való teljesítésére kötelezett adóalanyoknak a pénztárgép jogszabályban meghatározott, online kapcsolatra képes, adóügyi ellenőrző egységgel rendelkező pénztárgépre való 2013. évi cseréjéhez és a pénztárgép jogszabályban meghatározott adóügyi ellenőrző egységgel való ellátásához.
 

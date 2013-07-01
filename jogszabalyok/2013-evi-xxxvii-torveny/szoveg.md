@@ -549,7 +549,39 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 #### 47–48. §
 
-#### 49. §
+49. § (1) A gépjárműadóról szóló 1991. évi LXXXII. törvény (a továbbiakban: Gjt.) 17/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Nem adóköteles az a magánszemély tulajdonában álló személygépkocsi, amelynek használatával összefüggésben a használó – költségei ellentételezésére – kizárólag az Szja tv. 7. § (1) bekezdés r) pontja és 25. § (2) bekezdés b) pontja szerinti költségtérítést kap, továbbá az olyan, magánszemélynek pénzügyi lízingbe adott személygépkocsi, amely után költséget nem számoltak el és az olyan, magánszemélynek tartós bérletbe adott személygépkocsi, amely után kizárólag értékcsökkenési leírást számoltak el.”
+
+(2) A Gjt. 17/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adó alanya a személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok. Pénzügyi lízingbe vagy tartós bérletbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő, tartós bérletbe vevő.”
+
+(3) A Gjt. 17/C. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A nem magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe, tartós bérletbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség a tulajdonszerzést, pénzügyi lízingbe vételt, tartós bérletbe vételt követő hónap 1. napján keletkezik.
+
+(2) A magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe, tartós bérletbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség annak a hónapnak az 1. napján keletkezik, amelyet megelőző hónapban a személygépkocsi után a tulajdonos, a pénzügyi lízingbe vevő, tartós bérletbe vevő költséget számolt el. Amennyiben a költséget a személygépkocsi után nem a személygépkocsi magánszemély tulajdonosa, pénzügyi lízingbe vevője, tartós bérletbe vevője számolja el, és
+
+a) a tulajdonos, pénzügyi lízingbe vevő, tartós bérbe vevő a személygépkocsit ellenérték fejében nem magánszemélynek engedi át, akkor az adókötelezettség a személygépkocsi használatra való átengedését követő hónap első napján keletkezik,
+
+b) a személygépkocsi használatának átengedése ingyenesen vagy magánszemély részére ellenérték fejében történik, akkor az adókötelezettség annak a hónapnak az első napján keletkezik, amelyet megelőző hónapban a költség elszámolása megtörtént.
+
+(3) Amennyiben személygépkocsi után a költséget nem a magánszemély tulajdonos, pénzügyi lízingbe vevő, tartós bérletbe vevő számolja el, akkor a költség első ízben való elszámolásának tényéről és időpontjáról a használó ezen időpontot követő 8 napon belül a tulajdonost, lízingbe vevőt, tartós bérletbe vevőt írásban értesíti. Ha a használó a nyilatkozattételt elmulasztja, akkor a tulajdonost, lízingbe vevőt, tartós bérletbe vevőt egyébként terhelő adót a használó köteles megfizetni.”
+
+(4) A Gjt. 17/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adókötelezettség megszűnik annak a hónapnak az utolsó napján, amelyben a hatósági nyilvántartásban szereplő személygépkocsit a nem magánszemély tulajdonos elidegeníti, amelyben a nem magánszemély pénzügyi lízingbe vevő a személygépkocsit a lízingbe adónak visszaadja, illetve amelyben a nem magánszemély tartós bérletbe vevő a személygépkocsit a bérbeadónak visszaadja. A magánszemély tulajdonos, pénzügyi lízingbe vevő, tartós bérletbe vevő, illetve a hatósági nyilvántartásban nem szereplő személygépkocsi után költséget elszámoló adóalany adókötelezettsége annak a hónapnak az utolsó napján szűnik meg, amelyben a személygépkocsi után költséget a jövőben elszámolni már nem kívánó magánszemély tulajdonos, lízingbe vevő, tartós bérletbe vevő utoljára számolt el költséget, illetve a személygépkocsi használója arról nyilatkozik, hogy a személygépkocsi után költséget már nem kíván elszámolni. Megszűnik az adókötelezettség annak a hónapnak az utolsó napján, amelyben a személygépkocsit jogellenesen elidegenítették vagy amelyben a személygépkocsi megsemmisült.”
+
+(5) A Gjt. 18. §-a a következő 30. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték.”
+
+(6) A Gjt. a következő 19/B. §-sal egészül ki:
+
+„19/B. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 17/A. § (2) bekezdését, 17/B. § (1) bekezdését, 17/C. § (1)–(3) és (5) bekezdését és 18. § 30. pontját azon egy éven túli időszakra vagy határozatlan időre bérbe adott személygépkocsira kell alkalmazni, amely esetén a személygépkocsi bérletére vonatkozó szerződés 2013. június 30-át követően lép hatályba.”
 
 #### 50–51. §
 
@@ -559,15 +591,41 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 (6)–(9)
 
-#### 54. §
+54. § Az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 355. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A hatóság a foglalkoztatót, illetve az egyéni vállalkozót (a továbbiakban együtt: foglalkoztató) – az e törvény végrehajtására kiadott jogszabályokban foglaltak szerint elkészített állapotfelmérés alapján – határozatban mentesíti a korkedvezmény-biztosítási járulék megfizetése alól, ha az eljárás során megállapítja, hogy a korkedvezményre jogosító munkakörben és munkahelyen történő foglalkoztatás esetén
+
+a) a különösen nehéz fizikai munka,
+
+b) a különösen terhelő klíma,
+
+c) az ergonómiai kóroki tényezőknek való tartós kitétel,
+
+d) a fokozott pszichés megterhelés,
+
+e) a pszichoszociális kóroki tényezőknek való tartós kitétel
+
+nem áll fenn, vagy csak olyan mértékben áll fenn, amely a korkedvezményre való jogosultság megállapítását – a foglalkoztató, illetve az egyéni vállalkozó által biztosított munkafeltételekre és munkakörülményekre tekintettel – nem indokolja. A korkedvezmény-biztosítási járulék megfizetése alóli mentesítés kezdő időpontja az erről szóló határozat jogerőre emelkedésének napja.
+
+(2) A foglalkoztatónak az állapotfelmérést a munkavédelemről szóló 1993. évi XCIII. törvény 54. § (3) bekezdésében előírt kötelezettségekkel együtt, de legkésőbb 2014. december 31-éig el kell végeznie, és az elkészítést követő tizenöt napon belül meg kell küldenie a hatóságnak.
+
+(3) A foglalkoztató az állapotfelmérés benyújtásával egyidejűleg írásban tájékoztatja a hatóságot
+
+a) a korkedvezményre jogosító munkakörben foglalkoztatott biztosítottak nevéről (családi és utónév, valamint születési név) és lakóhelyéről, tartózkodási helyéről,
+
+b) a 356. § (1) bekezdése szerinti szakszervezet nevéről, székhelyéről és a szakszervezet képviselőjének nevéről.”
 
 #### 55–58. §
 
-#### 59. §
+59. § Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 458. § (1) bekezdés b) pontjában az „annak tartama” szövegrész helyébe az „a gyermekgondozási segély, ápolási díj folyósítása” szöveg lép.
 
 #### 60–63. §
 
-#### 64. §
+64. § Hatályát veszti a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
+
+- a) 28. § (1) bekezdés a) pontjában az „a gyermeknevelési támogatás,” szövegrész,
+- b) 29. § (4) bekezdés a) pontjában az „a gyermeknevelési támogatás,” szövegrész,
+- c) 31. § (4) bekezdés a) pontjában az „ – átalányadózónak nem minősülő –” szövegrész.
 
 #### 65–66. §
 

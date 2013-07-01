@@ -330,6 +330,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a személyazonosító igazolvány nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
 
+(8) A nyilvántartás szervei a külön törvényben meghatározott esetekben és megkereső szervek javára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben meghatározott rendelkezések szerint adatot szolgáltatnak a polgár azonosítása, a megkereső szervek általi azonosítás, a megkereső szervek által kezelhető azonosító kódok lekérdezése érdekében.
+
 18. § (1) Egyedi adatszolgáltatás az adatigénylő lakó- vagy tartózkodási helye, székhelye, telephelye szerint, illetőleg az érintett polgár ismert lakcíme szerint illetékes járási hivataltól kérelmezhető. A központi szervtől akkor igényelhető az egyedi adatszolgáltatás, ha az a járási hivatal által – a szükséges technikai feltételek hiányában, vagy egyéb okból – nem, illetőleg csak célszerűtlenül teljesíthető.
 
 (2) Csoportos adatszolgáltatás a járási hivatal illetékességi területén lakcímmel rendelkező polgárok adatairól az illetékes járási hivataltól, a polgárok szélesebb körének adatait érintően a központi szervtől igényelhető.
@@ -397,7 +399,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - b) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az ezzel kapcsolatosan előírt feladatai végrehajtásához;
 - c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
-- e)
+- e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 - g) az anyakönyvi és névváltoztatási ügyekben eljáró szerv törvényben meghatározott feladatai ellátásához;
 - h) a Központi Statisztikai Hivatal a statisztikáról szóló 1993. évi XLVI. törvényben meghatározott feladatai ellátásához;

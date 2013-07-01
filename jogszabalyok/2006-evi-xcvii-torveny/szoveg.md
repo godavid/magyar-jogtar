@@ -410,6 +410,8 @@ adja ki.
 
 (4) A kamarai hatósági ügyben első fokon a területi szervezet elnöksége, másodfokon az országos elnökség jár el.
 
+19/C. § A szakmai kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A szakmai kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
 20. § A szakmai kamara etikai vétség gyanúja esetén etikai eljárást folytat le. E törvény alkalmazásában etikai vétség:
@@ -452,7 +454,7 @@ is közli.
   - aa) hatósági közvetítőre,
   - ab) eljárási költség viselésére,
   - ac) költségmentességre,
-  - ad) elektronikus kapcsolattartásra vonatkozó rendelkezései, továbbá
+  - ad) vonatkozó rendelkezései, továbbá
 - b) az ügyintézési határidő hatvan nap, amelyet az eljáró etikai bizottság elnöke annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
 
 24. § (1) Az első fokú etikai eljárásban a bizonyítási eljárás keretében tárgyalás tartása kötelező.

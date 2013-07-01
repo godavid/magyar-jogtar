@@ -209,6 +209,8 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 6. § (1) E törvény alapján a vasúti pályahálózat működtetése, valamint a vasúti személyszállítás, az árutovábbítás és a vontatási szolgáltatás – a (8) bekezdésben meghatározott kivétellel – működési hatósági engedélyhez (a továbbiakban: működési engedély) kötött tevékenység.
 
+(1a) A vasúti igazgatási szerv a kiadott működési engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A vasúti személyszállításra és a vasúti árutovábbításra működési engedély külön-külön is megszerezhető. Vontatási szolgáltatás vasúti személyszállításra vagy vasúti árutovábbításra vonatkozó működési engedély birtokában végezhető. Működési engedélyt az a szervezet kaphat, amely teljesíti az e törvényben és a külön jogszabályban meghatározott feltételeket. Ha vasúti társaság kizárólag vontatási szolgáltatást nyújt, azt a működési engedély iránti kérelmében meg kell jelölnie és a működési engedélyében ezt rögzíteni kell. Kizárólag vontatási szolgáltatás nyújtása estén a vasúti társaság személyszállítási üzletszabályzatot [20. § (1) bekezdés] vagy árutovábbítási üzletszabályzatot [23. § (1) bekezdés] nem köteles készíteni.
 
 (3) Egy vasúti társaság részére egy működési engedély adható ki vasúti pályahálózat működtetésre. Ha a vasúti pályahálózat működtetője nem független vasúti pályahálózat-működtetőnek minősül, a működési engedélyben erre utalni kell.

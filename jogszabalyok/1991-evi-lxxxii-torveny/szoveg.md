@@ -91,8 +91,8 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (2) Az adó mértéke a 6. § (2)–(3) bekezdései szerinti adóalap esetén az adóalap minden megkezdett 100 kilogrammja után:
 
-- a) a légrugós vagy azzal egyenértékű rugózási rendszerű nyerges vontató, tehergépjármű, autóbusz esetén 1200 Ft,
-- b) az a) pont alá nem tartozó gépjárművek és pótkocsik esetén 1380 Ft.
+- a) a légrugós vagy azzal egyenértékű rugózási rendszerű tehergépjármű, nyergesvontató, autóbusz esetén 850 Ft,
+- b) az a) pont alá nem tartozó tehergépjármű, nyergesvontató, autóbusz esetén 1380 Ft.
 
 (3) Az „E” betűjelű ideiglenes rendszámtáblával ellátott személyszállító gépjármű után 10 000 Ft, míg a tehergépjármű után 46 000 Ft adót kell fizetni. A „P” betűjelű ideiglenes rendszámtábla kiadása esetén 23 000 Ft adót kell fizetni. A gépjármű állandó rendszámtáblával való ellátását követő hónap 1. napjától az adófizetési kötelezettségre az általános szabályok az irányadók. Amennyiben a hatósági nyilvántartás szerint állandó rendszámmal ellátott gépjárműre „E” betűjelű ideiglenes rendszámtáblát adnak ki, ez után nem kell az e bekezdés szerinti adót megfizetni.
 
@@ -195,28 +195,28 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 17/A. § (1) Adóköteles az a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti személygépkocsi – ide nem értve a kizárólag elektromos hajtómotorral ellátott személygépkocsit – (a továbbiakban, e fejezet alkalmazásában személygépkocsi), amely nem magánszemély tulajdonában áll, továbbá az a személygépkocsi, amely után a számvitelről szóló 2000. évi C. törvény szerint költséget, ráfordítást, illetve az Szja tv. szerint tételes költségelszámolással költséget, értékcsökkenési leírást (a továbbiakban költség, ráfordítás, értékcsökkenési leírás együtt: költség) számoltak el.
 
-(2) Nem adóköteles az a magánszemély tulajdonában álló személygépkocsi, amelynek használatával összefüggésben a használó – költségei ellentételezésére – kizárólag az Szja tv. 7. §-a (1) bekezdésének r) pontja és 25. §-a (2) bekezdésének b) pontja szerinti költségtérítést kap, továbbá az olyan, magánszemélynek pénzügyi lízingbe adott személygépkocsi, amely után költséget nem számoltak el.
+(2) Nem adóköteles az a magánszemély tulajdonában álló személygépkocsi, amelynek használatával összefüggésben a használó – költségei ellentételezésére – kizárólag az Szja tv. 7. § (1) bekezdés r) pontja és 25. § (2) bekezdés b) pontja szerinti költségtérítést kap, továbbá az olyan, magánszemélynek pénzügyi lízingbe adott személygépkocsi, amely után költséget nem számoltak el és az olyan, magánszemélynek tartós bérletbe adott személygépkocsi, amely után kizárólag értékcsökkenési leírást számoltak el.
 
 ### Az adó alanya
 
-17/B. § (1) Az adó alanya a személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok. Pénzügyi lízingbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a lízingbe vevő.
+17/B. § (1) Az adó alanya a személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok. Pénzügyi lízingbe vagy tartós bérletbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő, tartós bérletbe vevő.
 
 (2) A hatósági nyilvántartásban nem szereplő személygépkocsi esetén az adó alanya az a személy vagy szervezet, aki vagy amely a személygépkocsi után költséget számol el.
 
 ### Az adókötelezettség keletkezése, megszűnése
 
-17/C. § (1) A nem magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség a tulajdonszerzést, lízingbe vételt követő hónap 1. napján keletkezik.
+17/C. § (1) A nem magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe, tartós bérletbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség a tulajdonszerzést, pénzügyi lízingbe vételt, tartós bérletbe vételt követő hónap 1. napján keletkezik.
 
-(2) A magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség annak a hónapnak az 1. napján keletkezik, amelyet megelőző hónapban a személygépkocsi után a tulajdonos, a lízingbe vevő költséget számolt el. Amennyiben a költséget a személygépkocsi után nem a személygépkocsi magánszemély tulajdonosa, lízingbe vevője számolja el, és
+(2) A magánszemély tulajdonában álló, vagy általa pénzügyi lízingbe, tartós bérletbe vett, hatósági nyilvántartásban szereplő személygépkocsi esetében az adókötelezettség annak a hónapnak az 1. napján keletkezik, amelyet megelőző hónapban a személygépkocsi után a tulajdonos, a pénzügyi lízingbe vevő, tartós bérletbe vevő költséget számolt el. Amennyiben a költséget a személygépkocsi után nem a személygépkocsi magánszemély tulajdonosa, pénzügyi lízingbe vevője, tartós bérletbe vevője számolja el, és
 
-- a) a tulajdonos, lízingbe vevő a személygépkocsit ellenérték fejében nem magánszemélynek engedi át, akkor az adókötelezettség a személygépkocsi használatra való átengedését követő hónap első napján keletkezik,
+- a) a tulajdonos, pénzügyi lízingbe vevő, tartós bérbe vevő a személygépkocsit ellenérték fejében nem magánszemélynek engedi át, akkor az adókötelezettség a személygépkocsi használatra való átengedését követő hónap első napján keletkezik,
 - b) a személygépkocsi használatának átengedése ingyenesen vagy magánszemély részére ellenérték fejében történik, akkor az adókötelezettség annak a hónapnak az első napján keletkezik, amelyet megelőző hónapban a költség elszámolása megtörtént.
 
-(3) Amennyiben személygépkocsi után a költséget nem a magánszemély tulajdonos, pénzügyi lízingbe vevő számolja el, akkor a költség első ízben való elszámolásának tényéről és időpontjáról a használó ezen időpontot követő 8 napon belül a tulajdonost, lízingbe vevőt írásban értesíti. Ha a használó a nyilatkozattételt elmulasztja, akkor a tulajdonost, lízingbe vevőt egyébként terhelő adót a használó köteles megfizetni.
+(3) Amennyiben személygépkocsi után a költséget nem a magánszemély tulajdonos, pénzügyi lízingbe vevő, tartós bérletbe vevő számolja el, akkor a költség első ízben való elszámolásának tényéről és időpontjáról a használó ezen időpontot követő 8 napon belül a tulajdonost, lízingbe vevőt, tartós bérletbe vevőt írásban értesíti. Ha a használó a nyilatkozattételt elmulasztja, akkor a tulajdonost, lízingbe vevőt, tartós bérletbe vevőt egyébként terhelő adót a használó köteles megfizetni.
 
 (4) A hatósági nyilvántartásban nem szereplő személygépkocsi után az adókötelezettség annak a hónapnak az 1. napján keletkezik, amelyet megelőző hónapban a személygépkocsi után költséget számoltak el.
 
-(5) Az adókötelezettség megszűnik annak a hónapnak az utolsó napján, amelyben a hatósági nyilvántartásban szereplő személygépkocsit a nem magánszemély tulajdonos elidegeníti, illetve amelyben a nem magánszemély pénzügyi lízingbe vevő a személygépkocsit a lízingbe adónak visszaadja. A magánszemély tulajdonos, pénzügyi lízingbe vevő, illetve a hatósági nyilvántartásban nem szereplő személygépkocsi után költséget elszámoló adóalany adókötelezettsége annak a hónapnak az utolsó napján szűnik meg, amelyben a személygépkocsi után költséget a jövőben elszámolni már nem kívánó magánszemély tulajdonos, lízingbe vevő utoljára számolt el költséget, illetve a személygépkocsi használója arról nyilatkozik, hogy a személygépkocsi után költséget már nem kíván elszámolni. Megszűnik az adókötelezettség annak a hónapnak az utolsó napján, amelyben a személygépkocsit jogellenesen elidegenítették vagy amelyben a személygépkocsi megsemmisült.
+(5) Az adókötelezettség megszűnik annak a hónapnak az utolsó napján, amelyben a hatósági nyilvántartásban szereplő személygépkocsit a nem magánszemély tulajdonos elidegeníti, amelyben a nem magánszemély pénzügyi lízingbe vevő a személygépkocsit a lízingbe adónak visszaadja, illetve amelyben a nem magánszemély tartós bérletbe vevő a személygépkocsit a bérbeadónak visszaadja. A magánszemély tulajdonos, pénzügyi lízingbe vevő, tartós bérletbe vevő, illetve a hatósági nyilvántartásban nem szereplő személygépkocsi után költséget elszámoló adóalany adókötelezettsége annak a hónapnak az utolsó napján szűnik meg, amelyben a személygépkocsi után költséget a jövőben elszámolni már nem kívánó magánszemély tulajdonos, lízingbe vevő, tartós bérletbe vevő utoljára számolt el költséget, illetve a személygépkocsi használója arról nyilatkozik, hogy a személygépkocsi után költséget már nem kíván elszámolni. Megszűnik az adókötelezettség annak a hónapnak az utolsó napján, amelyben a személygépkocsit jogellenesen elidegenítették vagy amelyben a személygépkocsi megsemmisült.
 
 (6) Ha a személygépkocsi után magánszemély számol el költséget, a költség elszámolásának napja az a nap, amely napon a költségről szóló bizonylatot kiállították vagy amely napot az útnyilvántartásba a gépjármű használatával összefüggésben bejegyeztek, értékcsökkenési leírás elszámolása esetén – ha az átalányban történik – a személygépkocsi használatbavételének napja, egyébként az értékcsökkenési leírás megkezdésétől a teljes leírásig terjedő időszak minden hónapjának első napja.
 
@@ -295,6 +295,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 - 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
 - 29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló, 2012. augusztus 15-én hatályos 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: KöHÉM rendelet) 5. számú melléklet II. alpontja szerinti környezetvédelmi osztály jelzés (kód). Ha a KöHÉM rendelet szerinti osztály jelzés nem ismert, akkor azt a személygépkocsi légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl. forgalmi engedély, típus-bizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztály-jelzése: ”6”. Ha a személygépkocsi osztályjelzése a KöHÉM rendelet 2012. augusztus 15-ét követő módosítása miatt „15”-nél nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztály-jelzés „15”.
+- 30. tartós bérletbe adott személygépkocsi: az a személygépkocsi, amelyet egy éven túli időszakra vagy határozatlan időre adtak bérbe, feltéve, hogy a bérbe vevő üzembentartói jogát a hatósági nyilvántartásba bejegyezték.
 
 ### Átmeneti és vegyes rendelkezések
 
@@ -307,6 +308,8 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 (6) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a gépjárműadó nyilvántartásának, kezelésének, elszámolásának szabályait rendelettel állapítsa meg.
 
 19/A. § A Gjt. 2010. június 30-án hatályos 17/F. §-ában meghatározott feltételekkel és mértékben levonható a 2010. II. negyedévi cégautóadóból a nagy teljesítményű személygépkocsik adója.
+
+19/B. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 17/A. § (2) bekezdését, 17/B. § (1) bekezdését, 17/C. § (1)–(3) és (5) bekezdését és 18. § 30. pontját azon egy éven túli időszakra vagy határozatlan időre bérbe adott személygépkocsira kell alkalmazni, amely esetén a személygépkocsi bérletére vonatkozó szerződés 2013. június 30-át követően lép hatályba.
 
 ### Hatálybaléptető rendelkezések
 

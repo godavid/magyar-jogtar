@@ -10,7 +10,12 @@ az ingatlan-nyilvántartásról
 
 ### Az ingatlan-nyilvántartás tartalma
 
-2. § (1) Az ingatlan-nyilvántartás településenként tartalmazza az ország valamennyi ingatlanának e törvény szerint meghatározott adatait, az ingatlanhoz kapcsolódó jogokat és jogi szempontból jelentős tényeket. Az ingatlan-nyilvántartás tartalmazza továbbá az oda bejegyzett személyeknek a nyilvántartáshoz szükséges, e törvényben meghatározott, személyazonosító és lakcímadatait is.
+2. § (1) Az ingatlan-nyilvántartás
+
+- a) településenként tartalmazza
+  - aa) az ország valamennyi ingatlanának e törvény szerint meghatározott adatait,
+  - ab) az ingatlanhoz kapcsolódó jogokat és jogi szempontból jelentős tényeket,
+- b) tartalmazza továbbá az oda bejegyzett személyeknek a nyilvántartáshoz szükséges, e törvényben meghatározott, személyazonosító és lakcímadatait.
 
 (2) Az e törvényben felsorolt jogokon és tényeken kívül az ingatlan-nyilvántartásba más jog bejegyzését, tény feljegyzését csak törvény rendelheti el.
 
@@ -59,6 +64,8 @@ az ingatlan-nyilvántartásról
 ### Közhitelesség
 
 5. § (1) Az ingatlan-nyilvántartás – ha törvény kivételt nem tesz – a bejegyzett jogok és a feljegyzett tények fennállását hitelesen tanúsítja. Ha valamely jogot az ingatlan-nyilvántartásba bejegyeztek, illetve, ha valamely tényt oda feljegyeztek, senki sem hivatkozhat arra, hogy annak fennállásáról nem tudott.
+
+(1a) Az ingatlan-nyilvántartás az e törvényben foglaltak szerint nyilvántartott adatok tekintetében – a 2. § (1) bekezdés b) pontjában meghatározott adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) Az ellenkező bizonyításáig az ingatlan-nyilvántartásba bejegyzett jogról és feljegyzett tényről vélelmezni kell, hogy az fennáll, és az ingatlan-nyilvántartás szerinti jogosultat illeti meg. A jogok, tények törlése esetén – az ellenkező bizonyításáig – azt kell vélelmezni, hogy azok nem állnak fenn.
 

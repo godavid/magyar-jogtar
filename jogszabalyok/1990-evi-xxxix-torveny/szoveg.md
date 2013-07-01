@@ -6,7 +6,7 @@ Az Országgyűlés a megalakulása alkalmából, megemlékezve Nagy Imre és má
 
 ### Végrehajtási kegyelem
 
-1. § (1) Az egy évet meg nem haladó szabadságvesztés végrehajtása alól mentesül a szándékos bűncselekmény miatt elítélt, kivéve ha visszaeső (Btk. 137. § 12., 13., 14. pont).
+1. § (1) Az egy évet meg nem haladó szabadságvesztés végrehajtása alól mentesül a szándékos bűncselekmény miatt elítélt, kivéve ha visszaeső (1978. évi IV. törvény 137. § 12., 13., 14. pont).
 
 (2) A három évet meg nem haladó szabadságvesztés végrehajtása alól mentesül
 
@@ -34,21 +34,21 @@ Az Országgyűlés a megalakulása alkalmából, megemlékezve Nagy Imre és má
 6. § (1) Nem indítható, illetve nem folytatható büntető eljárás az 1990. június 1-je előtt elkövetett
 
 - a) vétség miatt,
-- b) olyan bűntett miatt, amelyre a törvény három évi szabadságvesztésnél nem súlyosabb büntetés kiszabását rendeli, kivéve a hivatali visszaélést (Btk. 225. §), a vesztegetést (Btk. 250. § (1) bekezdés, 251. § (2) bekezdés, 252. § (1) bekezdés, 253. § (2) bekezdés, 255. §) és a hűtlen kezelést (Btk. 319. § (3) bekezdés a) pont),
-- c) a Btk. XVII. fejezetének I., II. és IV. címében meghatározott olyan bűntett miatt, amelyre a törvény öt évi szabadságvesztésnél nem súlyosabb büntetés kiszabását rendeli.
+- b) olyan bűntett miatt, amelyre a törvény három évi szabadságvesztésnél nem súlyosabb büntetés kiszabását rendeli, kivéve a hivatali visszaélést (1978. évi IV. törvény 225. §), a vesztegetést (1978. évi IV. törvény 250. § (1) bekezdés, 251. § (2) bekezdés, 252. § (1) bekezdés, 253. § (2) bekezdés, 255. §) és a hűtlen kezelést (1978. évi IV. törvény 319. § (3) bekezdés a) pont),
+- c) a 1978. évi IV. törvény XVII. fejezetének I., II. és IV. címében meghatározott olyan bűntett miatt, amelyre a törvény öt évi szabadságvesztésnél nem súlyosabb büntetés kiszabását rendeli.
 
 (2) Az (1) bekezdés alapján megszüntetett büntető eljárást folytatni kell, ha azt a terhelt az eljárást megszüntető határozat közlésétől számított nyolc napon belül kéri.
 
 ### Mentesítés a büntetett előélethez fűződőhátrányok alól
 
-7. § Az 1990. június 1-je előtt kiszabott büntetéseket illetően a törvény erejénél fogva beálló mentesítésnek a Btk. 102. §-a (1) bekezdésének d)—f) pontjában, illetőleg 121. §-a (1) bekezdésének c) pontjában, továbbá bírósági mentesítéshez szükséges várakozási időnek a Btk. 103. §-a (1) és (3) bekezdésében meghatározott tartama a felére csökken.
+7. § Az 1990. június 1-je előtt kiszabott büntetéseket illetően a törvény erejénél fogva beálló mentesítésnek a 1978. évi IV. törvény 102. §-a (1) bekezdésének d)—f) pontjában, illetőleg 121. §-a (1) bekezdésének c) pontjában, továbbá bírósági mentesítéshez szükséges várakozási időnek a 1978. évi IV. törvény 103. §-a (1) és (3) bekezdésében meghatározott tartama a felére csökken.
 
 ### Kizáró körülmények
 
 8. § (1) Az 1. § (1) bekezdésében és a 2—7. §-ban meghatározott kegyelem nem terjed ki arra,
 
-- a) aki többszörös visszeső (Btk. 137. § 14. pont),
-- b) akit 1. kémkedés bűntette (Btk. 147. §), 2. államtitok vagy katonai titok kiszolgáltatásának bűntette (Btk. 148. §), 3. emberölés bűntette (Btk. 166. § (1)—(3) bekezdés), 4. maradandó fogyatékosságot, súlyos egészségromlást, életveszélyt vagy halált okozó testi sértés, illetőleg különös kegyetlenséggel elkövetett súlyos testi sértés bűntette (Btk. 170. § (4)—(5) bekezdés), 5. erőszakos közösülés bűntette (Btk. 197. §), 6. szemérem elleni erőszak bűntette (Btk. 198. §), 7. természet elleni erőszakos fajtalanság bűntette (Btk. 200. §), 8. fogolyzendülés bűntette (Btk. 246. §), 9. terrorcselekmény bűntette (Btk. 261. § (1)—(3) bekezdés), 10. légijármű hatalomba kerítésének bűntette (Btk. 262. §), 11. üzletszerűen, bűnszövetségben vagy jelentős mennyiségű kábítószerrel elkövetett kábítószerrel visszaélés bűntette (Btk. 282. § (3) bekezdés), 12. pénzhamisítás bűntette (Btk. 304. § (1)—(3) bekezdés), 13. dolog elleni erőszakkal vagy zsebtolvajlás útján elkövetett lopás vétsége vagy bűntette (Btk. 316. § (2) bekezdés második fordulatának d) és i) pontja, valamint a (2) bekezdés első fordulatának és a (4)—(6) bekezdésnek dolog elleni erőszakkal vagy zsebtolvajlás útján megvalósított esetei), 14. rablás bűntette (Btk. 321. §), 15. kifosztás bűntette (Btk. 322. §), 16. halált okozó vagy egyéb különösen súlyos következménnyel járó zendülés bűntette (Btk. 352. § (3) bekezdés b) pont), 17. szándékos emberölést is megvalósító elöljáró vagy szolgálati közeg elleni erőszak bűntette (Btk. 355. § (5) bekezdés a) pont) miatt ítéltek el, illetőleg e bűncselekmény miatt kell ellene büntető eljárást indítani vagy folytatni;
+- a) aki többszörös visszeső (1978. évi IV. törvény 137. § 14. pont),
+- b) akit 1. kémkedés bűntette (1978. évi IV. törvény 147. §), 2. államtitok vagy katonai titok kiszolgáltatásának bűntette (1978. évi IV. törvény 148. §), 3. emberölés bűntette (1978. évi IV. törvény 166. § (1)—(3) bekezdés), 4. maradandó fogyatékosságot, súlyos egészségromlást, életveszélyt vagy halált okozó testi sértés, illetőleg különös kegyetlenséggel elkövetett súlyos testi sértés bűntette (1978. évi IV. törvény 170. § (4)—(5) bekezdés), 5. erőszakos közösülés bűntette (1978. évi IV. törvény 197. §), 6. szemérem elleni erőszak bűntette (1978. évi IV. törvény 198. §), 7. természet elleni erőszakos fajtalanság bűntette (1978. évi IV. törvény 200. §), 8. fogolyzendülés bűntette (1978. évi IV. törvény 246. §), 9. terrorcselekmény bűntette (1978. évi IV. törvény 261. § (1)—(3) bekezdés), 10. légijármű hatalomba kerítésének bűntette (1978. évi IV. törvény 262. §), 11. üzletszerűen, bűnszövetségben vagy jelentős mennyiségű kábítószerrel elkövetett kábítószerrel visszaélés bűntette (1978. évi IV. törvény 282. § (3) bekezdés), 12. pénzhamisítás bűntette (1978. évi IV. törvény 304. § (1)—(3) bekezdés), 13. dolog elleni erőszakkal vagy zsebtolvajlás útján elkövetett lopás vétsége vagy bűntette (1978. évi IV. törvény 316. § (2) bekezdés második fordulatának d) és i) pontja, valamint a (2) bekezdés első fordulatának és a (4)—(6) bekezdésnek dolog elleni erőszakkal vagy zsebtolvajlás útján megvalósított esetei), 14. rablás bűntette (1978. évi IV. törvény 321. §), 15. kifosztás bűntette (1978. évi IV. törvény 322. §), 16. halált okozó vagy egyéb különösen súlyos következménnyel járó zendülés bűntette (1978. évi IV. törvény 352. § (3) bekezdés b) pont), 17. szándékos emberölést is megvalósító elöljáró vagy szolgálati közeg elleni erőszak bűntette (1978. évi IV. törvény 355. § (5) bekezdés a) pont) miatt ítéltek el, illetőleg e bűncselekmény miatt kell ellene büntető eljárást indítani vagy folytatni;
 - c) akivel szemben a bíróság halmazati büntetést szabott ki, illetőleg bűnhalmazatban levő több bűncselekmény miatt indul vagy folyik büntető eljárás, ha a bűnhalmazatban levő bűncselekmények bármelyike a b) pontban felsorolt bűncselekmény;
 - d) akivel szemben a bíróság összböntetést szabott ki, ha az összbüntetésbe foglalt büntetések bármelyikét a b) pontban felsorolt bűncselekmény miatt szabták ki.
 

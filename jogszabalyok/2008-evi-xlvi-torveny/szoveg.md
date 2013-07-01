@@ -635,6 +635,8 @@ terheli.
   - ca) természetes személyek esetén a természetes személyazonosító adatokat, lakhelyet, telephelyet, elérhetőséget, adóazonosító jelet,
   - cb) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
+(2a) Az (1) bekezdés c), l), m), n), o), q) és r) pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
 (3) Élelmiszer-, illetve takarmány-vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
 (4) Az élelmiszerlánc-felügyeleti szerv a (2) bekezdés a) és c) pontja szerinti adatokat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerből veszi át.
@@ -652,6 +654,8 @@ terheli.
 ### Az élelmiszerlánc-felügyeleti információs rendszer
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti az élelmiszerlánc-felügyeleti információs rendszert (a továbbiakban: FELIR).
+
+(1a) A FELIR a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A FELIR tartalmazza
 

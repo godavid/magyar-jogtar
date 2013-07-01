@@ -230,7 +230,7 @@ kezelésére.
 
 (4) A hatóság az eljárása során – jogszabályban meghatározott módon és körben – jogosult az eljárás lefolytatásához szükséges védett adat megismerésére.
 
-(5) A hatóság az eljárás során a személyes adatot és a védett adatot – az ugyanazon ügyben folyó, e törvényben szabályozott eljárások kivételével – csak akkor továbbíthatja más szervhez, ha azt törvény megengedi, vagy ha az érintett ehhez hozzájárult. A hozzájárulást az érintett az ügyintézési rendelkezésben is megadhatja.
+(5) A hatóság az eljárás során a személyes adatot és a védett adatot – az ugyanazon ügyben folyó, e törvényben szabályozott eljárások kivételével – csak akkor továbbíthatja más szervhez, ha azt törvény megengedi, vagy ha az érintett ehhez hozzájárult. A hozzájárulást az érintett az ügyintézési rendelkezésben, továbbá – ha jogszabály lehetővé teszi, – az érintett elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett telefonon is megadhatja.
 
 (6) Az adat védelmére vonatkozó szabályok megtartása nem vezethet a jogorvoslathoz való jog korlátozásához.
 
@@ -243,7 +243,8 @@ kezelésére.
 (2) Ha a hatóság különleges adatot az ügyfél hozzájárulása alapján továbbít, az ügyfél a hozzájárulását az alábbi módokon is megadhatja:
 
 - a) hozzájárulás adása az ügyintézési rendelkezésben,
-- b) hozzájárulás az ügyfél ügyintézési rendelkezésében meghatározott módon hitelesített elektronikus nyilatkozatában.
+- b) hozzájárulás az ügyfél ügyintézési rendelkezésében meghatározott módon hitelesített elektronikus nyilatkozatában,
+- c) ha jogszabály lehetővé teszi, hozzájárulás adása telefonon az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítéssel.
 
 ### II. Fejezet — JOGHATÓSÁG, HATÁSKÖR, ILLETÉKESSÉG
 
@@ -258,6 +259,8 @@ kezelésére.
 ### A hatáskör megállapítása és az eljárási kötelezettség
 
 19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
+
+(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben az integrált ügyfélszolgálat (a továbbiakban: kormányablak) az ügyre vonatkozó külön jogszabályban meghatározott, az eljárásra hatáskörrel és illetékességgel rendelkező hatóság mellett az elsőfokú eljárás lefolytatására hatáskörrel és illetékességgel rendelkező hatóságnak minősül.
 
 (2) Ha önkormányzati rendelet eltérően nem rendelkezik, önkormányzati hatósági ügyben első fokon a képviselő-testület jár el. A képviselő-testület ezt a hatáskörét a polgármesterre, a bizottságára, a társulására vagy a jegyzőre ruházhatja át.
 
@@ -289,7 +292,7 @@ kezelésére.
 
 21. § (1) Ha jogszabály másként nem rendelkezik, az azonos hatáskörű hatóságok közül az a hatóság jár el, amelynek illetékességi területén
 
-- a) az ügyfél lakó- vagy tartózkodási helye, ennek hiányában szálláshelye (a továbbiakban együtt: lakcím), illetve székhelye, telephelye, fióktelepe (a továbbiakban együtt: székhely) van,
+- a) az ügyfél lakóhelye, tartózkodási helye, ennek hiányában értesítési címe (a továbbiakban együtt: lakcím), illetve székhelye, telephelye, fióktelepe (a továbbiakban együtt: székhely) van,
 - b) az ügy tárgyát képező ingatlan fekszik,
 - c) az ügy tárgyát képező tevékenységet gyakorolják vagy gyakorolni kívánják, vagy
 - d) a jogellenes magatartást elkövették.
@@ -423,6 +426,8 @@ tart kapcsolatot az ügyféllel.
 
 (2) Az (1) bekezdést megfelelően alkalmazni kell az ügyfél és a hatóság, valamint a hatóságok egymással történő kapcsolattartására.
 
+(2a) Az iratkezelési rendszerek közötti iratáthelyezés szolgáltatáshoz csatlakozott hatóság írásban e szolgáltatás igénybevételével is kapcsolatot tarthat más hatósággal.
+
 (3) Több igénybe vehető kapcsolattartási forma közül a hatóság a költségtakarékosság és a hatékonyság szempontjai alapján választ, előnyben részesítve az elektronikus utat.
 
 (4) Az első kapcsolatfelvétel alkalmával a hatóság felhívja az ügyfél figyelmét a kapcsolattartás lehetséges formáira, és tájékoztatást ad a kapcsolattartásra szolgáló elérhetőségéről, valamint a hatóság által nyújtott elektronikus tájékoztatás elérhetőségéről.
@@ -439,6 +444,8 @@ tart kapcsolatot az ügyféllel.
 
 28/B. § (1) Ha törvény, eredeti jogalkotói hatáskörben kiadott kormányrendelet vagy önkormányzati hatósági ügyben önkormányzati rendelet eltérően nem rendelkezik, az ügyfél – jogszabályban meghatározott feltételekkel – jogosult elektronikus úton kapcsolatot tartani a hatósággal, kivéve, ha az az adott kapcsolattartás tekintetében nem értelmezhető.
 
+(1a) Az ügyfél jogosult elektronikus úton kapcsolatot tartani a kormányablakkal, kivéve ha az az adott kapcsolattartás tekintetében nem értelmezhető.
+
 (2) Az ügyfél akkor köteles elektronikus úton kapcsolatot tartani a hatósággal, ha azt törvény az adott ügyben vagy eljárási cselekmény vonatkozásában előírja.
 
 (3) Törvény eltérő rendelkezése hiányában nem alkalmazható elektronikus út a 20. § (6) bekezdése és a 24. § (1) bekezdése szerinti kérelem vonatkozásában, valamint a hatóság döntésének bírósági felülvizsgálatával kapcsolatos eljárásban.
@@ -449,7 +456,7 @@ tart kapcsolatot az ügyféllel.
 
 ### Tájékoztatás
 
-28/C. § (1) Ha jogszabály eltérően nem rendelkezik, az ügyfél az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja tájékoztatáskérés céljából.
+28/C. § (1) Ha jogszabály eltérően nem rendelkezik, az ügyfél az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja tájékoztatáskérés céljából, és ha jogszabály lehetővé teszi, az e fejezetben meghatározott valamennyi kapcsolattartási formát használhatja időpontfoglalás céljából.
 
 (2)
 
@@ -643,6 +650,8 @@ számított nyolc napon belül értesíteni kell.
 
 (2) Életveszéllyel vagy súlyos kárral fenyegető helyzet során az azonnali intézkedést igénylő ügyben a kérelmet telefonon is elő lehet terjeszteni.
 
+(2a) Ha jogszabály lehetővé teszi, az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett a kérelmet telefonon is elő lehet terjeszteni.
+
 (3) Jogszabály előírhatja, hogy az ügyfél a kérelmét az e célra rendszeresített formanyomtatványon vagy elektronikus kapcsolattartás esetén on-line felületen vagy valamely szoftver használatával elektronikus űrlapon nyújtsa be. Ha törvény az elektronikus kapcsolattartást kötelezővé teszi, és a kérelmet on-line felületen vagy valamely szoftver használatával elektronikus űrlapon kell benyújtani, az elektronikus űrlap kitölthető és letölthető, valamint a szoftver letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint közzéteszi.
 
 (4) Az ügyfél az eljárás megindítására irányuló kérelmét a határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig visszavonhatja.
@@ -671,11 +680,13 @@ számított nyolc napon belül értesíteni kell.
 
 (3) Ha a kérelem nem felel meg a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek, az eljáró hatóság a kérelem beérkezésétől számított nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet. Nem bocsátható ki hiánypótlási felhívás olyan adat igazolására vagy melléklet csatolására, amelyet a 36. § (2) bekezdése alapján a hatóságnak kell beszereznie, továbbá akkor sem, ha az ügyfél a tartalmilag hiánytalan kérelmet azért nem formanyomtatványon vagy elektronikus űrlapon nyújtja be, mert a formanyomtatvány kitölthető és letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint nem tette közzé.
 
+(3a) Ha jogszabály lehetővé teszi, a hiánypótlást az ügyfél telefonon is teljesítheti – az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett –, ha ez a hiányzó adatok tekintetében értelmezhető.
+
 (4) Törvény vagy kormányrendelet a hiánypótlási felhívás kibocsátására nyolc napnál hosszabb határidőt is megállapíthat.
 
 (5) Hiánypótlási felhívás az eljárás során akkor is kibocsátható, ha a kérelem megfelelt a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek, de a tényállás tisztázása során felmerült új adatra tekintettel az szükséges.
 
-38. § (1) A természetes személy ügyfél az elsőfokú eljárás megindítására irányuló kérelmét az eljárásra hatáskörrel rendelkező illetékes hatóságnál, a Kormány által rendeletben meghatározott ügyekben az integrált ügyfélszolgálaton (a továbbiakban: kormányablak), vagy ha jogszabály azt nem zárja ki, lakcíme vagy munkahelye szerinti székhelyű, azonos hatáskörű hatóságnál, ennek hiányában pedig a lakcíme vagy munkahelye szerint illetékes jegyzőnél is előterjesztheti, aki azt továbbítja a hatáskörrel rendelkező illetékes hatósághoz.
+38. § (1) A természetes személy ügyfél az elsőfokú eljárás megindítására irányuló kérelmét az eljárásra hatáskörrel rendelkező illetékes hatóságnál, a Kormány által rendeletben meghatározott ügyekben a kormányablakban, vagy ha jogszabály azt nem zárja ki, lakcíme vagy munkahelye szerinti székhelyű, azonos hatáskörű hatóságnál, ennek hiányában pedig a lakcíme vagy munkahelye szerint illetékes jegyzőnél is előterjesztheti, aki azt továbbítja a hatáskörrel rendelkező illetékes hatósághoz.
 
 (2) Jogszabály az (1) bekezdéstől eltérően is kijelölheti azt a hatóságot vagy szervet, amelyikhez a kérelem előterjeszthető.
 
@@ -784,7 +795,7 @@ számított nyolc napon belül értesíteni kell.
 
 40/A. § (1) A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. Írásbeli meghatalmazás esetében a meghatalmazott köteles eredeti meghatalmazását vagy annak hitelesített másolatát az első kapcsolatfelvétel alkalmával az iratokhoz csatolni.
 
-(2) Az írásbeli meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. Az ügyvédnek adott meghatalmazáshoz, ha azt az ügyfél saját kezűleg írta alá, tanúk alkalmazása nem szükséges; az ügyvédi meghatalmazásra egyebekben az erre vonatkozó külön jogszabályok irányadók.
+(2) Az írásbeli meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni, vagy a meghatalmazást ügyintézési rendelkezésben kell megtenni. Az ügyvédnek adott meghatalmazáshoz, ha azt az ügyfél saját kezűleg írta alá, tanúk alkalmazása nem szükséges; az ügyvédi meghatalmazásra egyebekben az erre vonatkozó külön jogszabályok irányadók. Az ügyintézési rendelkezésben adott meghatalmazás esetén a meghatalmazott a képviseleti jogosultságát az ügyintézési rendelkezésre irányadó szabályok szerint igazolja.
 
 (3) A külföldön kiállított meghatalmazást közokiratba vagy hitelesített magánokiratba kell foglalni, és felülhitelesítéssel kell ellátni.
 
@@ -825,6 +836,8 @@ számított nyolc napon belül értesíteni kell.
 (8) A fővárosi és megyei kormányhivatal hatósági közvetítőkről vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
 
 (9) A (8) bekezdés szerinti nyilvántartásnak a hatósági közvetítő nevére, elérhetőségére, képesítésére, valamint tevékenységi körére vonatkozó adatai nyilvánosak.
+
+(10) A (8) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 ### Kizárás
 
@@ -969,6 +982,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (3) A szakhatóságot – ha az a feladat- és hatáskörét érinti – a tanú és a szakértő meghallgatásáról, a szemléről, a tárgyalásról és a közmeghallgatásról legalább öt nappal korábban értesíteni kell.
 
+(4) Ha jogszabály lehetővé teszi, az ügyfél személyesen vagy telefonon is értesíthető.
+
 ### A tényállás tisztázása
 
 50. § (1) A hatóság köteles a döntéshozatalhoz szükséges tényállást tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le.
@@ -979,7 +994,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A hatósági eljárásban olyan bizonyíték használható fel, amely alkalmas a tényállás tisztázásának megkönnyítésére. Bizonyíték különösen: az ügyfél nyilatkozata, az irat, a tanúvallomás, a szemléről készült jegyzőkönyv, a szakértői vélemény, a hatósági ellenőrzésen készült jegyzőkönyv és a tárgyi bizonyíték.
 
-(5) A hatóság szabadon választja meg az alkalmazandó bizonyítási eszközt. Törvény előírhatja, hogy a hatóság a határozatát kizárólag valamely bizonyítási eszközre alapozza, továbbá törvény vagy kormányrendelet meghatározott ügyekben kötelezővé teheti valamely bizonyítási eszköz alkalmazását, illetve előírhatja valamely szerv véleményének a kikérését.
+(5) A hatóság szabadon választja meg az alkalmazandó bizonyítási eszközt. Törvény előírhatja, hogy a hatóság a határozatát kizárólag valamely bizonyítási eszközre alapozza, továbbá jogszabály meghatározott ügyekben kötelezővé teheti valamely bizonyítási eszköz alkalmazását, illetve előírhatja valamely szerv véleményének a kikérését.
 
 (6) A hatóság a bizonyítékokat egyenként és összességükben értékeli, és az ezen alapuló meggyőződése szerint állapítja meg a tényállást.
 
@@ -1063,6 +1078,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (5) Az ügyfél vagy képviselője, ha más tudomása ellenére az ügy szempontjából jelentős valótlan tényt állít, illetve ha a (3) bekezdés szerinti kötelező adatszolgáltatás körében a (4) bekezdésben foglalt ok hiányában adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős tényt elhallgat, vagy valótlan adatot szolgáltat, eljárási bírsággal sújtható.
 
 (6) A hatóság köteles az ügyfelet a nyilatkozattétellel, illetve adatszolgáltatási kötelezettséggel kapcsolatos jogairól tájékoztatni és kötelességeire, valamint a kötelezettségek elmulasztásának jogkövetkezményeire figyelmeztetni.
+
+(7) Ha jogszabály lehetővé teszi, az ügyfél az (1) bekezdés szerinti nyilatkozatot és a (3)–(4) bekezdés szerinti adatszolgáltatást – az ügyfél elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett – telefonon is megteheti, illetve teljesítheti, továbbá a nyilatkozattételt, adatszolgáltatást telefonon is megtagadhatja.
 
 ### Irat
 
@@ -1513,7 +1530,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A hatóság a döntését a 28/A. § (1) bekezdésében meghatározott módon közölheti. A 71. § (7) bekezdése szerinti esetben a hatóság a nem elektronikusan kézbesítendő iratokat az elektronikus döntésről készített hiteles papír alapú másolatként kézbesíti.
 
-(5) A hatóság a döntést hivatalos iratként kézbesíti. Telefax útján nem közölhető a határozat és az önállóan fellebbezhető végzés, kivéve, ha a döntés közlésére jogosult személy vagy szerv ezt előzetesen kérte vagy ehhez hozzájárult.
+(5) A hatóság a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy írásbelinek minősülő elektronikus úton kézbesíti. Telefax útján nem közölhető a határozat és az önállóan fellebbezhető végzés, kivéve ha a döntés közlésére jogosult személy vagy szerv ezt előzetesen kérte vagy ehhez hozzájárult.
 
 (6) Ha jogszabály nem zárja ki, a döntést szóban is lehet közölni az (1) és (2) bekezdésben meghatározott személlyel. A közlés tényét és időpontját az iratra fel kell jegyezni, és azt alá kell íratni. Az (1) és (2) bekezdésben meghatározott személy kérelmére a szóban közölt döntést tíz napon belül írásban meg kell küldeni a számára.
 
@@ -1700,7 +1717,13 @@ teljesíti.
 
 ### Hatósági nyilvántartás
 
-86. § (1) A hatóság a jogszabályban meghatározott adatokról hatósági nyilvántartást vezet.
+86. § (1) A hatóság a törvényben meghatározott adatokról közhiteles hatósági nyilvántartást vezet. E törvény hatósági nyilvántartásra vonatkozó rendelkezései tekintetében hatósági nyilvántartás alatt közhiteles hatósági nyilvántartást kell érteni.
+
+(1a) A hatósági nyilvántartás közhitelessége alapján az ellenkező bizonyításáig vélelmezni kell annak jóhiszeműségét, aki a hatósági nyilvántartásban szereplő adatokban bízva szerez jogot. Az ellenkező bizonyításáig a hatósági nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az fennáll, a hatósági nyilvántartásból törölt adatról vélelmezni kell, hogy nem áll fenn. Senki sem hivatkozhat arra, hogy a hatósági nyilvántartásba bejegyzett adatot nem ismeri, kivéve ha a hatósági nyilvántartásba bejegyzett adat személyes adatnak vagy törvény által védett titoknak minősül, és megismerhetőségének törvényi feltételei nem állnak fenn.
+
+(1b) A hatósági nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság csak jogszabályban e célból meghatározott bizonyítási eszközt használhat fel.
+
+(1c) Az (1a) és (1b) bekezdés tekintetében nem alkalmazható a 82. § (1) bekezdése.
 
 (2) A hatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre a határozatra vonatkozó 71–73. §-okban és a 78. §-ban meghatározottakat nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján jogerőre emelkedik.
 
@@ -1896,6 +1919,8 @@ teljesíti.
 
 (2) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról szóban vagy írásban lemondhat, a szóban történő lemondást jegyzőkönyvbe kell foglalni. A fellebbezési jogról történő lemondó nyilatkozat nem vonható vissza.
 
+(3) Ha jogszabály lehetővé teszi, a fellebbezésre jogosult a (2) bekezdés szerinti nyilatkozatot – a fellebbezésre jogosult elektronikus azonosítását követően, az információ megőrzését biztosító módon történő rögzítés mellett – telefonon is megteheti. Fellebbezés benyújtásának telefonon nincs helye.
+
 100. § (1) Nincs helye fellebbezésnek
 
 - a) a döntés ellen, ha az ügyben törvény azt kizárja,
@@ -2008,7 +2033,7 @@ teljesíti.
 
 107. § (1) Önkormányzati hatósági ügyben a fellebbezés elbírálása a képviselő-testület hatáskörébe tartozik, ha az elsőfokú döntést nem a képviselő-testület hozta.
 
-(2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására, ha első fokon államigazgatási hatósági ügyben a járási (fővárosi kerületi) hivatal, a polgármester vagy a jegyző járt el.
+(2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására, ha első fokon államigazgatási hatósági ügyben a járási (fővárosi kerületi) hivatal, a kormányablak, a polgármester vagy a jegyző járt el.
 
 (3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben bírósági felülvizsgálatnak van helye.
 
@@ -2492,29 +2517,33 @@ teljesíti.
 
 (5) Az a hatóság, amely az ügyfél azonosítására a természetes személyazonosító adatoktól eltérő azonosítót képez, az azonosító ügyféllel való közlését megelőzően kapcsolati kódot képez, azt az azonosítóhoz rendelten nyilvántartásba veszi, és csak általa visszafejthető titkosítással a kapcsolati kódot annak típusmegjelölésével az összerendelési nyilvántartásnak az összerendelési bejegyzés kiegészítése céljából átadja. Az azonosítóval összefüggő olyan adatlekérdezés, illetve adattovábbítás, amelynél a hatóság által kezelttől eltérő azonosító használata is szükséges, a továbbiakban az összerendelési nyilvántartás igénybevételével, az összerendelési nyilvántartásra vonatkozó rendelkezések szerint történhet.
 
-### A szabályozott elektronikus ügyintézési szolgáltatás bejelentése és engedélyezése, nyújtásának általános feltételei
+(6) A szabályozott elektronikus ügyintézési szolgáltató a szolgáltatás nyújtása során biztosítja a közérdekű, illetve közérdekből nyilvános adatok megismerhetőségét és a személyes, illetve védett adatok védelmét.
 
-161. § (1) Ha a szabályozott elektronikus ügyintézési szolgáltató nem hatóság, vagy a hatóság a szabályozott elektronikus ügyintézési szolgáltatást más hatóság számára is biztosítja, vagy a szabályozott elektronikus ügyintézési szolgáltatást nem csak saját ügyfelei számára biztosítja, szabályozott elektronikus ügyintézési szolgáltatást a szabályozott elektronikus ügyintézési szolgáltató csak az elektronikus ügyintézési felügyelet engedélye alapján nyújthat.
+(7) A szabályozott elektronikus ügyintézési szolgáltatások nyilvános és tájékoztató jellegű részének elérése, valamint a közérdekű adatok elektronikus hozzáférhetővé tétele nem korlátozható, az igénybevevő előzetes azonosításához nem köthető.
 
-(2) Az (1) bekezdés alá nem tartozó szabályozott elektronikus ügyintézési szolgáltatás, valamint az elektronikus ügyintézéshez kapcsolódó, a szabályozott elektronikus ügyintézési szolgáltatások körébe nem sorolt elektronikus ügyintézési szolgáltatásokat az e hatóságnak tett bejelentés alapján lehet nyújtani.
+### Elektronikus Ügyintézési Felügyelet
 
-(3) Ha a szabályozott elektronikus ügyintézési szolgáltatás nem engedélyköteles, a bejelentő a szabályozott elektronikus ügyintézési szolgáltatás nyújtását az elektronikus ügyintézési felügyelet által rendszeresített elektronikus nyomtatványon legkésőbb a szolgáltatás nyújtásának megkezdésével egyidejűleg bejelenti az elektronikus ügyintézési felügyelet számára.
+161. § (1) Szabályozott elektronikus ügyintézési szolgáltatás az Elektronikus Ügyintézési Felügyeletnek (a továbbiakban: Felügyelet) tett bejelentés alapján nyújtható. E törvény felhatalmazása alapján kiadott kormányrendelet – közérdeken alapuló kényszerítő indok alapján – előírhatja, hogy valamely szabályozott elektronikus ügyintézési szolgáltatás csak a Felügyelet engedélye alapján nyújtható.
 
-(4) Engedélyköteles szabályozott elektronikus ügyintézési szolgáltatás esetén az elektronikus ügyintézési felügyelet az engedélyt megadja, és a szabályozott elektronikus ügyintézési szolgáltatást nyilvántartásba veszi, ha a kérelemben foglalt szabályozott elektronikus ügyintézési szolgáltatás a jogszabályban foglalt követelményeknek megfelel. Ha az elektronikus ügyintézési felügyelet a rá irányadó ügyintézési határidőn belül nem hoz döntést, az engedély megadottnak tekintendő.
+(2) A bejelentésre, az engedélyezésre, a szabályozott elektronikus ügyintézési szolgáltatások nyilvántartásának vezetésére, a felügyeleti tevékenységre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény rendelkezései a jelen § szerinti, valamint a Kormány rendeletében meghatározott eltérésekkel megfelelően alkalmazandók.
 
-(5) Az elektronikus ügyintézési felügyelet (4) bekezdés szerinti eljárásában a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter szakhatóságként vesz részt, és kötelező állásfoglalást ad ki a kérelemben foglalt szabályozott elektronikus ügyintézési szolgáltatás műszaki előírásoknak való megfelelőségéről, infrastrukturális alkalmasságáról. Ha a szakhatóság a rá irányadó ügyintézési határidőn belül nem hoz döntést, a szakhatósági hozzájárulást megadottnak kell tekinteni.
+(3) A bejelentést, vagy engedélyköteles szolgáltatás esetén az engedély iránti kérelmet, illetve a bejelentésben vagy az engedélyben foglaltak módosulása esetén a bejelentés módosítását vagy az engedély módosítása iránti kérelmet a kérelmezőnek legalább 30 nappal a szolgáltatás tervezett megkezdését, illetve a módosítás végrehajtását megelőzően kell benyújtani a Felügyelet részére.
 
-(6) Az elektronikus ügyintézési felügyelet ellenőrzi a szabályozott elektronikus ügyintézési szolgáltatások jogszabályoknak való megfelelőségét.
+(4) A szabályozott elektronikus ügyintézési szolgáltató köteles a Felügyelet részére a szolgáltatás nyújtásának megszüntetése előtt legalább 60 nappal a szolgáltatás nyújtásának befejezését bejelenteni és azt az elektronikus tájékoztatás szabályai szerint közzétenni. A bejelentés nem mentesíti a szolgáltatót a jogszabályban kötelezően előírt, vagy saját megállapodásában vállalt szolgáltatási időszak biztosításától.
 
-(7) A szabályozott elektronikus ügyintézési szolgáltató a szolgáltatás nyújtása során biztosítja a közérdekű, illetve közérdekből nyilvános adatok megismerhetőségét és a személyes, illetve védett adatok védelmét.
+(5) A Felügyelet ellenőrzi, hogy a szabályozott elektronikus ügyintézési szolgáltatás nyújtása megfelel-e a jogszabályoknak, valamint a bejelentésben benyújtott vagy az engedély kiadásának alapjául szolgáló dokumentumoknak.
 
-(8) A szabályozott elektronikus ügyintézési szolgáltatások nyilvános és tájékoztató jellegű részének elérése, valamint a közérdekű adatok elektronikus hozzáférhetővé tétele nem korlátozható, az igénybevevő előzetes azonosításához nem köthető.
+(6) A Felügyelet a szabályozott elektronikus ügyintézési szolgáltatások nyújtásának megkönnyítése érdekében ajánlásokat bocsát ki.
+
+(7) A Felügyelet és a szabályozott elektronikus ügyintézési szolgáltató közötti kapcsolattartás kizárólag elektronikus úton, az elektronikus kapcsolattartásra vonatkozó rendelkezések szerint történik.
 
 ### Ügyintézési rendelkezés
 
-162. § (1) Ha törvény eltérően nem rendelkezik, a hatóság köteles az ügyfél ügyintézési rendelkezését az elektronikus kapcsolattartás során figyelembe venni. Ha törvény eltérően nem rendelkezik, a hatóság az ügyféltől elektronikus nyilatkozatot csak akkor fogadhat el és elektronikus nyilatkozatot az ügyfélnek csak akkor küldhet, ha az ügyfél az ügyintézési rendelkezésében vagy az ügyintéző személyes közreműködésével történő eljárási cselekmények esetében az adott eljárás során ezt nem zárta ki.
+162. § (1) Ha törvény eltérően nem rendelkezik, a hatóság köteles az ügyfél ügyintézési rendelkezését az elektronikus kapcsolattartás (beleértve a hangkapcsolatot biztosító elektronikus utat és a telefont) során figyelembe venni. Ha törvény eltérően nem rendelkezik, a hatóság az ügyféltől elektronikus nyilatkozatot csak akkor fogadhat el és elektronikus nyilatkozatot az ügyfélnek csak akkor küldhet, ha az ügyfél az ügyintézési rendelkezésében vagy az ügyintéző személyes közreműködésével történő eljárási cselekmények esetében az adott eljárás során ezt nem zárta ki.
 
-(2) Az ügyfél ügyintézési rendelkezésének tartalmáról a nyilvántartó szerv a hatóságot jogszabályban meghatározott módon tájékoztatja, ha a hatóság megadja az ügyfél azonosításához szükséges adatokat. A nyilvántartó szerv a hatóságot csak az ügyfél azon ügyintézési rendelkezésének tartalmáról tájékoztatja, amelyet jogszabály számára lehetővé tesz, vagy az ügyfél az ügyintézési rendelkezése szerint az adott hatósággal meg kívánt osztani.
+(1a) Ha valamely jognyilatkozat tekintetében jogszabály írásba foglalást vagy teljes bizonyító erejű magánokiratba foglalást követel meg, úgy az ügyintézési rendelkezésben tett jognyilatkozat e követelményt teljesíti.
+
+(2) Az ügyfél ügyintézési rendelkezésének tartalmáról a nyilvántartó szerv a hatóságot – az összerendelési nyilvántartás igénybevételével – jogszabályban meghatározott módon tájékoztatja, ha a hatóság megadja az ügyfél azonosításához szükséges adatokat. A nyilvántartó szerv a hatóságot csak az ügyfél azon ügyintézési rendelkezésének tartalmáról tájékoztatja, amelyet jogszabály számára lehetővé tesz, vagy az ügyfél az ügyintézési rendelkezése szerint az adott hatósággal meg kívánt osztani.
 
 (3) Az ügyfél ügyintézési rendelkezésében nyilatkozhat úgy, hogy az eljárást lefolytató hatóság elektronikus úton időszakonként összesítve tájékoztassa az ügyfelet érintően lezajlott, jogszabályban meghatározott eljárási cselekményekről, feltéve, hogy az adott hatóság ezt a szolgáltatást biztosítja. Ha az ügyfél kéri, a nyilvántartó szerv a tájékoztatást a hatóságok nevében együttesen adja meg az ügyfélnek.
 
@@ -2522,7 +2551,9 @@ teljesíti.
 
 (5) Ha valamely személy törvényben vagy kormányrendeletben meghatározott – az e törvény hatálya alá nem tartozó – elektronikus ügyintézési szolgáltatások tekintetében tesz ügyintézési rendelkezést, arra – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvénynek az ügyintézési rendelkezésre vonatkozó szabályait alkalmazni kell azzal, hogy hatóság alatt az elektronikus ügyintézési szolgáltatást nyújtó szolgáltatót, ügyfél alatt az azt igénybe vevő személy kell érteni.
 
-(6) Az összerendelési nyilvántartás kezelője az összerendelési nyilvántartásba új személy bejegyzésekor értesíti az ügyfél ügyintézési rendelkezését nyilvántartó szervet. A nyilvántartó szerv az értesítés alapján kapcsolati kódot képez, azt nyilvántartásba veszi, és csak általa visszafejthető titkosítással, annak típusmegjelölésével az összerendelési nyilvántartásnak az összerendelési bejegyzés kiegészítése céljából átadja. Az ügyfél ügyintézési rendelkezését a nyilvántartó szerv az általa képzett kapcsolati kódhoz rendelten veszi nyilvántartásba és tárolja, az ügyfél természetes személyazonosító adatait és azonosító kódjait – az ügyfél által önkéntesen rögzített adatokon túl – nem tárolja. Az ügyintézési rendelkezés lekérdezésére az összerendelési nyilvántartás igénybe vételével kerülhet sor.
+(6) Az összerendelési nyilvántartás adatkezelője új személy összerendelési bejegyzésének nyilvántartásba történő bejegyzésekor elektronikus úton értesíti az ügyfél ügyintézési rendelkezését nyilvántartó szervet. A nyilvántartó szerv az értesítés alapján az összerendelési nyilvántartásra irányadó szabályok szerint jár el a kapcsolati kód képzése és az összerendelési bejegyzés kiegészítése érdekében.
+
+(7) Az ügyfél által tett ügyintézési rendelkezést a nyilvántartó szerv az általa képzett kapcsolati kódhoz rendelten veszi nyilvántartásba és tárolja. Az ügyfél természetes személyazonosító adatait és azonosító kódjait – az ügyfél által önkéntesen rögzített adatokon túl – a nyilvántartó szerv nem tárolja.
 
 ### Azonosítás
 
@@ -2539,27 +2570,36 @@ teljesíti.
 - a) a természetes személy hatóságnál, közhiteles nyilvántartásban vagy a személyazonosság igazolására alkalmas hatósági igazolványban elektronikusan tárolt képmásával, írásképével vagy más biometrikus adataival összevetve, vagy
 - b) az elektronikus ügyintézési eljárásban használható azonosítás útján.
 
+164/A. § (1) Ha a szabályozott elektronikus ügyintézési szolgáltatás hatóság általi igénybevételéhez a hatóság képviseletében eljáró természetes személy azonosítása szükséges, a hatóság – a jogosulatlan adatkezelés megelőzése céljából – jogosultsági nyilvántartást vezet, amely tartalmazza az igénybevételre jogosult természetes személy
+
+- a) természetes személyazonosító adatait vagy a hatóság nyilvántartásában szereplő azonosítót,
+- b) felhasználói jogosultságának szintjét, az engedélyezés és visszavonás dátumát, valamint
+- c) szervezeti felhasználói azonosítóját.
+
+(2) A szabályozott elektronikus ügyintézési szolgáltatás hatóság általi, közvetlen adathozzáféréssel történő igénybevétele során a hatóság a szabályozott elektronikus ügyintézési szolgáltató részére átadja
+
+- a) az adatigénylő szervezet megnevezését és szakrendszeri azonosítóját,
+- b) az adatkezelési műveletet végző személy nevét vagy az informatikai rendszer azonosítóját, valamint szervezeti felhasználói azonosítóját.
+
+(3) A szabályozott elektronikus ügyintézési szolgáltatás hatóság általi, nem közvetlen adathozzáféréssel történő igénybevétele során a szolgáltatás igénybevételét a szolgáltató a hatóság által arra feljogosított természetes személy számára biztosítja.
+
+(4) A hatóság az (1) bekezdés szerinti adatokat az igénybevételre jogosult természetes személy hozzáférési jogosultságának megszűnését követő 5 évig kezeli.
+
 ### Kézbesítési szolgáltatás
 
 165. § (1) A kézbesítési szolgáltatást nyújtó személy vagy szervezet (a továbbiakban: kézbesítési szolgáltató) jogszabályban meghatározott módon közreműködik a döntések és más elektronikus nyilatkozatok (e fejezet alkalmazásában a továbbiakban: üzenet) kézbesítésében.
 
 (2) Ha a hatóság által használt kézbesítési szolgáltatás nem biztonságos kézbesítési szolgáltatás, a hatóság elektronikus kézbesítést akkor alkalmazhat, ha a címzett ügyintézési rendelkezésében vagy külön nyilatkozatában (külön megállapodásban vagy az eljárás során) az ilyen módon történő kézbesítéshez hozzájárult. Ilyen esetben az üzenet akkor tekinthető kézbesítettnek, ha az ügyfél nyilatkozik az üzenet fogadásáról. A döntések közlésére – az ügyfél elektronikus ügyintézési rendelkezésben tett eltérő rendelkezése hiányában – kizárólag biztonságos kézbesítési szolgáltatás alkalmazható. Az ügyfél elektronikus ügyintézési rendelkezésében a jogszabályban meghatározott követelményeknek megfelelő egyéb kézbesítési szolgáltatás alkalmazását is lehetővé teheti.
 
-### Biztonságos elektronikus igazolási szolgáltatás
-
-166. § (1) A biztonságos elektronikus igazolási szolgáltatás során a szolgáltató az igazolásban foglalt tény, állapot, jogosultság vagy más adat (a továbbiakban: az igazolt adat) fennállásáról jogszabályban meghatározottak szerint hitelesített elektronikus igazolást állít ki.
-
-(2) A szolgáltató köteles az igazolt adat valódiságáról vagy az igazolt adat alapjául szolgáló papír alapú vagy elektronikus igazolás hitelességéről jogszabályban meghatározott módon meggyőződni.
-
-(3) A szolgáltató az elektronikus igazolás kiállítása alapjául más által kiállított igazolást csak közokirati formában fogadhat el.
-
-(4) A hatóság az elektronikus igazolást köteles befogadni, ha az elektronikus igazolást közhiteles elektronikus nyilvántartást vezető szerv vagy a Kormány által biztonságos elektronikus igazolási szolgáltatás nyújtására kijelölt szolgáltató állította ki. Az igazolás befogadása nem jelenti azt, hogy a hatóság az elektronikus igazolás tartalmával kapcsolatosan az adott eljárás szerint irányadó bizonyítási szabályokat mellőzni volna köteles.
+166. §
 
 ### Iratérvényességi nyilvántartás
 
 167. § (1) Az iratérvényességi szolgáltatás keretében a szolgáltató lehetővé teszi, hogy az igénybe vevő birtokában lévő hiteles papír alapú vagy elektronikus okiratok hitelességét, illetve – amennyiben erre adatok rendelkezésre állnak – tartalmát ellenőrizze.
 
 (2) A másolatkészítő aláírása és bélyegzőlenyomata nélkül is az eredeti okiratéval azonos bizonyító ereje van az elektronikus okiratról jogszabályban kijelölt szervezet által jogszabályban meghatározott eljárásban kibocsátott papír alapú másolatnak, feltéve, hogy az okirat a jogszabályban meghatározott szerv által vezetett iratérvényességi nyilvántartásban szerepel.
+
+(2a) Az iratérvényességi nyilvántartás az elektronikus iratról készült hiteles papír alapú másolat vagy az elektronikus irat teljes tartalmát – a kizárólag közérdekű adatot vagy közérdekből nyilvános adatot tartalmazó irat kivételével – csak titkosítva tartalmazhatja. Ha az elektronikus iratról készült papír alapú másolat az iratérvényességi nyilvántartás szabályai szerint kerül hitelesítésre, úgy a másolatkészítő köteles a visszafejtéshez szükséges kulcsot a papír alapú dokumentumon elhelyezni.
 
 (3) Az iratérvényességi szolgáltatás igénybe vevője az iratérvényességi nyilvántartásban rögzíti az általa kiállított okiratoknak a szolgáltató által meghatározott egyes adatait, illetve tartalmi elemeit. Az iratérvényességi nyilvántartás nyilvánosan elérhető, abban bárki ellenőrizheti a birtokában lévő, a nyilvántartásban rögzített okiratnak a nyilvántartásban elérhető adatait, valamint adott esetben az okirat hitelességét is.
 
@@ -2574,77 +2614,81 @@ teljesíti.
 - a) az eljárást lezáró döntés két éven túl jogerőssé vált, és határozat esetén ezen kétéves időtartam alatt nem kérték annak bírósági felülvizsgálatát vagy újrafelvételét, és a hatóság tudomása szerint a határozattal szemben alkotmányjogi panaszt nem nyújtottak be, és az átalakított papír alapú irat elektronikus másolatának megőrzését a hatóság biztosítja, vagy
 - b) az irat tartalmát valamely más iratba belefogalmazták, amely iratot a selejtezendő irat készítője igazolhatóan megismert, és a legalább 60 napos kifogásolási időszak alatt eltérésre vonatkozó kifogással nem élt.
 
-### Az állam által kötelezően biztosítandó szabályozott elektronikus ügyintézési szolgáltatások
+### Az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások
 
-168. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles biztosítani:
+168. § (1) Az alábbi szabályozott elektronikus ügyintézési szolgáltatásokat a Kormány köteles nyújtani:
 
 - a) az ügyfél ügyintézési rendelkezésének nyilvántartása,
 - b) az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről,
-- c) az ügyfél adataiban bekövetkező változás átvezetése,
-- d) összerendelési nyilvántartás szolgáltatás,
-- e) azonosítási szolgáltatás természetes személy ügyfelek részére,
-- f) biztonságos kézbesítési szolgáltatás,
-- g) elektronikus dokumentumtárolási szolgáltatás,
-- h) biztonságos elektronikus igazolási szolgáltatás,
-- i) hitelesítés-szolgáltatás,
-- j) a hatóság nyilatkozattételével kapcsolatos elektronikus igazolás szolgáltatása,
-- k) adatelérési felület biztosításával kapcsolatos szabályozott elektronikus ügyintézési szolgáltatás,
-- l) elektronikus tájékoztatási szolgáltatás,
-- m) elektronikus fizetési és elszámolási rendszer,
-- n) iratérvényességi nyilvántartás,
-- o) kormányzati hitelesítés-szolgáltatás,
-- p) kormányzati elektronikus aláírás ellenőrzési szolgáltatás,
-- q) központi azonosítási ügynök,
-- r) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
-- s) azonosításra visszavezetett dokumentumhitelesítés,
-- t) elektronikus irat hiteles papír alapú irattá alakítása,
-- u) papír alapú irat átalakítása hiteles elektronikus irattá,
-- v) jogszabályban kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatások.
+- c) összerendelési nyilvántartás szolgáltatás,
+- d) azonosítási szolgáltatás természetes személy ügyfelek részére,
+- e) biztonságos kézbesítési szolgáltatás,
+- f) elektronikus dokumentumtárolási szolgáltatás,
+- g) a hatóság nyilatkozattételével kapcsolatos elektronikus igazolás szolgáltatása,
+- h) elektronikus fizetési és elszámolási rendszer,
+- i) iratérvényességi nyilvántartás,
+- j) kormányzati hitelesítés-szolgáltatás,
+- k) kormányzati elektronikus aláírás ellenőrzési szolgáltatás,
+- l) központi azonosítási ügynök,
+- m) ÁNYK űrlapbenyújtás támogatási szolgáltatás,
+- n) azonosításra visszavezetett dokumentumhitelesítés,
+- o) elektronikus irat hiteles papír alapú irattá alakítása,
+- p) papír alapú irat átalakítása hiteles elektronikus irattá,
+- q) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás,
+- r) központi érkeztetési ügynök,
+- s) központi kézbesítési ügynök,
+- t) az e törvény felhatalmazása alapján kiadott kormányrendeletben kötelezően nyújtandóként előírt további szabályozott elektronikus ügyintézési szolgáltatás.
 
 (2) Jogszabály egyes szabályozott elektronikus ügyintézési szolgáltatások nyújtását más szervek számára is előírhatja.
 
+(3) Kormányrendelet valamely szabályozott elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti, illetve előírhatja, hogy valamely szabályozott elektronikus ügyintézési szolgáltatást kizárólag a jogszabályban kijelölt szolgáltató nyújthatja.
+
 ### Ügyfél-regisztrációs eljárás
 
-168/A. § (1) Ha valamely elektronikus ügyintézési szolgáltatás igénybevétele előzetes regisztrációhoz kötött, a regisztrációs eljárás (a továbbiakban: ügyfél-regisztrációs eljárás) során az ügyfél ennek az alcímnek a rendelkezései szerint
+168/A. § (1) Ha valamely szabályozott elektronikus ügyintézési szolgáltatás igénybevétele előzetes regisztrációhoz kötött, a regisztrációs eljárás (a továbbiakban: ügyfél-regisztrációs eljárás) során az ügyfél ennek az alcímnek a rendelkezései szerint
 
-- a) elektronikusan regisztrálhat olyan azonosítás szolgáltatás használatával, amelynek alapjául szolgáló regisztráció megfelel a jelen alcím szerinti követelményeknek, vagy amelynek használatát az ügyfél egyébként az ügyintézési rendelkezésében lehetővé tette, vagy
-- b) személyes megjelenéssel a jelen alcím szerinti követelményeknek megfelelő eljárásban regisztrálhat.
+- a) elektronikusan regisztrálhat olyan azonosítási szolgáltatás használatával, amelynek alapjául szolgáló regisztráció megfelel a b) pont szerinti követelményeknek, és amelynek használatát az ügyfél egyébként az ügyintézési rendelkezésében lehetővé tette, vagy
+- b) személyes megjelenéssel regisztrálhat, a jelen alcím szerinti követelményeknek megfelelő eljárásban.
 
-(2) A regisztrációt megelőzően az ügyfélnek vagy az ügyfél képviseletében eljáró természetes személynek (a továbbiakban együtt: igénylő) személyesen meg kell jelennie a regisztrációt végző szervezet előtt. A szabályozott elektronikus ügyintézési szolgáltató által meghatározott esetben a személyes megjelenéssel egyenértékű a regisztrációt végző szervezet külső helyszínen lefolytatott eljárása is, ha azonos biztonsági körülmények között biztosítható az ügyfél személyazonosságának az e §-ban meghatározott ellenőrzése.
+(2) A regisztrációt megelőzően a természetes személy ügyfélnek vagy a nem természetes személy ügyfél képviseletében eljáró természetes személynek (a továbbiakban együtt: igénylő) személyesen meg kell jelennie a regisztrációt végző szervezet előtt. A szabályozott elektronikus ügyintézési szolgáltató által meghatározott esetben a személyes megjelenéssel egyenértékű a regisztrációt végző szervezet külső helyszínen lefolytatott eljárása is, ha azonos biztonsági körülmények között biztosítható az igénylő személyazonosságának az e §-ban meghatározott ellenőrzése.
 
-(3) A természetes személy személyes megjelenése esetén az ügyfél-regisztrációs szerv a felhasználó által bemutatott, a külön jogszabályban meghatározott személyazonosság igazolására alkalmas hatósági igazolványban szereplő adatok alapján az ügyfelet azonosítja; megadott adatait összeveti
+(3) A természetes személy személyes megjelenése esetén a természetes személyt az ügyfél-regisztrációs szerv az általa bemutatott, külön jogszabályban meghatározott, a személyazonosság igazolására alkalmas hatósági igazolványban szereplő adatok alapján azonosítja. Az ügyfél-regisztrációs szerv a természetes személy hatósági igazolványban szereplő természetes személyazonosító adatait összeveti
 
-- a) a személyiadat- és lakcímnyilvántartás,
-- b) olyan külföldi esetén, aki abban nem szerepel, a központi idegenrendészeti nyilvántartás,
-- c) ha a természetes személy az a) és b) pont szerinti nyilvántartásban sem szerepel, az általa bemutatott útlevél vagy a schengeni övezetbe tartozó EGT részes állam polgára esetén az adott állam által kibocsátott személyazonosításra alkalmas okmány adataival. Az ügyfél-regisztrációs szerv az azonosítási tevékenység során az adatokat kizárólag személyazonosításra és a jogosult adatkezelők által megküldött természetes személyazonosító adatokkal való egyezés vagy eltérés megállapítására használhatja fel.
+- a) a személyiadat- és lakcímnyilvántartás adataival,
+- b) a személyiadat- és lakcímnyilvántartásban nem szereplő külföldi természetes személy esetén a központi idegenrendészeti nyilvántartás adataival,
+- c) az a) és b) pont szerinti nyilvántartásban nem szereplő természetes személy esetén az általa bemutatott útlevélben vagy az Európai Gazdasági Térségről szóló Egyezményben részes tagállam állampolgára esetén a tagállam által kibocsátott személyazonosításra alkalmas okmányban szereplő adatokkal.
 
-(4) Az azonosítás sikere esetén az ügyfél-regisztrációs szerv
+(4) Az ügyfél-regisztrációs szerv a bemutatott személyazonosításra alkalmas hatósági igazolványba bejegyzett születési nevet, a hatósági igazolvány okmányazonosítóját és típusát – az igazolvány valódiságának és érvényességének, valamint az arcképmás- és az aláírás adatok azonosságának megállapítása céljából – továbbítja az okmányt nyilvántartó központi nyilvántartás számára. Az okmányt kiadó és nyilvántartó szerv az ügyfél-regisztrációs szerv számára a természetes személyazonosító adatokat, az okmány kiadására és a személyazonosság érvényességére vonatkozó adatokat, valamint – az ügyfél-regisztrációs szerv ilyen igénye esetén – az arcképmás és aláírás adatot továbbítja.
 
-- a) átemeli az igénylő természetes személyazonosító adatait a személyi adat- és lakcímnyilvántartásból vagy a központi idegenrendészeti nyilvántartásból,
-- b) a (3) bekezdés c) pont szerinti esetben a bemutatott okmányból a természetes személyazonosító adatokat, az állampolgárságot emeli át
+(5) Az ügyfél-regisztrációs szerv a kapott adatokat összeveti a bemutatott okmányban szereplő adatokkal, illetve megállapítja, hogy az arcképmás megfeleltethető-e az előtte megjelent személlyel.
 
-az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés sikertelensége esetén az ügyfél-regisztrációs szerv az ügyfél-regisztrációt megtagadja, és az esetleg már rögzített adatokat helyreállíthatatlanul törli.
+(6) Az ügyfél-regisztrációs szerv a (4) bekezdés szerinti adatokat kizárólag személyazonosításra és az adatokkal való egyezés vagy eltérés megállapítására használhatja fel.
 
-(5) A regisztráció és a személyazonosság ellenőrzése alapjául szolgáló, rögzítendő adatok helyességét az igénylő nyilatkozatban, saját kezű aláírásával ellátva igazolja.
+(7) A nem természetes személy ügyfél képviseletében eljáró természetes személy képviseleti jogosultságát az ügyfél-regisztrációs szerv a külön törvényben meghatározott nyilvántartás, vagy az eljáró természetes személy által bemutatott, a törvényes képviseletet igazoló okirat alapján ellenőrzi.
 
-(6) A (3) bekezdés szerinti hatósági igazolvány azonosító adatait, az igénylő adatainak egyezését és a hatósági igazolvány érvényességét a regisztrációs szervezet az igazolványt nyilvántartó szerv közhiteles nyilvántartásában ellenőrzi.
+(8) Sikeres azonosítás esetén az ügyfél-regisztrációs szerv
 
-(7) Amennyiben a (6) bekezdés szerinti ellenőrzés nem vezetett eredményre – adategyezőség nem volt megállapítható vagy a hatósági igazolvány érvénytelen volt, illetve az ellenőrzés a hatósági nyilvántartásban egyéb okból nem volt végrehajtható – a regisztráció nem hozható létre.
+- a) az igénylő természetes személyazonosító és okmányazonosító adatait (okmányazonosító száma és típusa) a (3) bekezdés a) vagy b) pontja szerinti nyilvántartásokból átveszi,
+- b) a (3) bekezdés c) pont szerinti esetben a bemutatott személyazonosításra alkalmas okmányból a természetes személyazonosító adatokat, a bemutatott okmány számát és típusát bejegyzi az ügyfél-regisztrációs adatbázisba, valamint
+- c) a hatóságnak minősülő ügyfél-regisztrációs szerv lehetőséget biztosít az ügyfél számára ügyintézési rendelkezés tételére, amennyiben ennek műszaki feltételei adottak.
 
-### Az elektronikus tájékoztatás
+(9) Az arcképmás- és aláírás adatokat a személyazonosság megállapítását követően haladéktalanul törölni kell. A természetes személy adatait a szabályozott elektronikus ügyintézési szolgáltatást nyújtó szolgáltató a szolgáltatásra történő ügyfél-regisztráció megszűnésétől számított 5 évig tárolja.
 
-169. § (1) A hatóság és a 38/A. § szerinti közreműködő hatóság által az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus tájékoztatás – az ott meghatározott adatokon túl – tartalmazza
+(10) Amennyiben a (4) és (5) bekezdés szerinti eljárás során adategyezőség és megfeleltethetőség nem volt megállapítható vagy a személyazonosság igazolására bemutatott hatósági igazolvány érvénytelen volt, az ügyfél-regisztrációs szerv az ügyfél-regisztrációt megtagadja, és az esetleg már rögzített adatokat helyreállíthatatlanul törli.
 
-- a) az ügyek intézése során az elektronikus ügyindítási vagy ügyintézési lehetőségekről, az elektronikus kapcsolattartásról, így különösen a központi szolgáltatások igénybevételének feltételeiről, a szükséges kérelem és más beadvány, nyomtatvány, űrlap, informatikai alkalmazás elérhetőségéről, alkalmazásáról szóló tájékoztatást, és
-- b) az elektronikus kapcsolattartás technikai szabályairól és az üzemzavarról szóló tájékoztatást.
+(11) Az ügyfél-regisztrációs szerv a (4) bekezdésben meghatározott adatok mellett a kérelmező által megadott felhasználói nevet és – ahol ez értelmezhető – elektronikus levelezési címet is felveszi az ügyfél-regisztrációs nyilvántartásba és kapcsolati kódot képez, amelyet a természetes személyazonosító adatokhoz rendelten az ügyfél-regisztrációs nyilvántartásába bejegyez.
 
-(2) A hatóság és a 38/A. § szerinti közreműködő hatóság köteles arról gondoskodni, hogy a közzétett információk hitelesek, pontosak, naprakészek és az interneten keresztül folyamatosan hozzáférhetők legyenek.
+(12) Az ügyfél-regisztrációs szerv a regisztráció során nyilvántartásba vett adatokról, valamint az általa képzett azonosítóról igazolást állít ki. Az igazolásban szerepeltetett, az igénylő által megadott adatok helyességét az igénylő a kinyomtatott igazolásban saját kezű aláírásával, elektronikus úton előállított igazolásban legalább fokozott biztonságú elektronikus aláírásával vagy azonosításra visszavezetett dokumentumhitelesítés útján igazolja.
 
-(3) A hatóság és a kormányablak az ügyfelek személyes megjelenéséhez kötött hatósági ügyek intézését elektronikus úton vagy telefonon történő előzetes időpontfoglalással teszi lehetővé.
+168/B. § (1) Az életvitelszerűen külföldön élő, Magyarországon bejelentett lakóhellyel vagy szálláshellyel nem rendelkező természetes személy a 168/A. § megfelelő alkalmazásával önkéntesen regisztrálhat az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásába (a továbbiakban: elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása) annak érdekében, hogy közigazgatási hatósági ügyeit elektronikusan tudja intézni. Ezen adatokat az elektronikus ügyintézést igénybe vevő külföldiek nyilvántartásának vezetésére kijelölt szerv kezeli. Az e bekezdés szerinti természetes személynek az állam által kötelezően nyújtandó azonosítási szolgáltatásra történő regisztrációjával egyidejűleg a regisztrációs szerv kezdeményezi e személy felvételét az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásába.
 
-(4) A hatóság köteles biztosítani, hogy az általa az elektronikus ügyintézéssel kapcsolatosan elektronikus úton közzétett és automatikusan elérhető tájékoztatás legalább egy éven belül közzétett tartalma visszakereshető legyen, és arról kérelemre bárki másolatot kapjon.
+(2) Az (1) bekezdés szerinti személy ügyintézési rendelkezést akkor tehet, ha szerepel az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásában.
 
-(5) A számítógépes rendszerrel lefolytatott eljárási cselekmények köréről a hatóság köteles részletes tájékoztatást közzétenni, automatikus döntés esetén a döntési algoritmusokat is nyilvánosságra hozva.
+(3) Az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásának adatkezelője a bejegyzéssel egyidejűleg a természetes személy számára egyedi nyilvántartási azonosítót, valamint ahhoz rendelten összerendelési nyilvántartási kapcsolati kódot képez és azt – titkosítva – az összerendelési nyilvántartásnak az összerendelési nyilvántartásra vonatkozó rendelkezések szerint átadja.
+
+(4) Az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartásából – az összerendelési nyilvántartáson keresztül – azonosítási célú adattovábbítás teljesíthető. A nyilvántartott természetes személy adatait az elektronikus ügyintézést igénybe vevő külföldiek személyi nyilvántartása a regisztráció törlésétől számított 5 évig, de legfeljebb a regisztrációtól számított 50 évig tartalmazza.
+
+169. §
 
 ### Hatósági szolgáltatás
 
@@ -2659,131 +2703,24 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 - a) más hatóságok elektronikus tájékoztatásához, illetve elektronikus kapcsolattartási rendszeréhez történő hozzáférést biztosíthat, valamint
 - b) az ügyfél azonosítását követően egyedi hatósági ügye intézéséhez internetes kapcsolati lehetőséget, szakmai és informatikai segítséget nyújthat.
 
-(3) Jogszabályban arra feljogosított szervezet az ügyfél számára az alábbi hatósági szolgáltatásokat biztosíthatja:
+(2a) A kormányablak az (1) bekezdés szerinti eljárásokban jogosult az ügyfél által benyújtott papír alapú iratokról hiteles elektronikus másolat készítésére, a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló külön jogszabály rendelkezései szerint, a kormányablak általi ügyintézésre irányadó jogszabályban meghatározott eltérésekkel.
 
-- a) az (1) bekezdés a) pontjában meghatározott hatósági szolgáltatásból a beadvány elektronikus irattá alakítását a vonatkozó szabályozott elektronikus ügyintézési szolgáltatás szabályai szerint, az elektronikus irat hatóság nevében történő átvételét és – amennyiben ennek informatikai feltételei adottak – annak a hatóság informatikai rendszerében történő elhelyezését,
+(3) Jogszabályban kijelölt szervezet az ügyfél számára az alábbi hatósági szolgáltatásokat biztosíthatja:
+
+- a) az (1) bekezdés a) pontjában meghatározott hatósági szolgáltatásból a beadvány elektronikus irattá alakítását a vonatkozó szabályozott elektronikus ügyintézési szolgáltatás szabályai szerint, az elektronikus irat hatóság nevében történő átvételét és – amennyiben ennek informatikai feltételei adottak – annak a hatóság informatikai rendszerében történő elhelyezését, továbbá ügyintézési lehetőség biztosítását más hatóságok hatáskörébe tartozó, az ügyfél számára elektronikus ügyintézési szolgáltatás keretében intézhető eljárásokban, jogszabályban meghatározott módon,
 - b) az (1) bekezdés b) és c) pontjában meghatározott hatósági szolgáltatást, valamint
 - c) a (2) bekezdés a) és b) pontjában meghatározott hatósági szolgáltatást.
 
 (4) Az (1) bekezdés b) és c) pontjában és a (2) bekezdés a) és b) pontjában meghatározott hatósági szolgáltatás teljesítésére jogszabály az érintett hatóságok számára soronkívüliséget vagy rövidített ügyintézési határidőt is megállapíthat.
 
-### X/A. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK ÉRVÉNYESÍTÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK
+(5) Jogszabályban arra feljogosított hatóság országos telefonos ügyfélszolgálatot üzemeltet, amely jogszabályban meghatározottak szerint
 
-### Az egyenlő bánásmód követelményének megsértése miatt indított hatósági eljárás általános szabályai
+- a) az ügyfél számára jogszabályban meghatározott, más hatóságok hatáskörébe tartozó eljárások tekintetében ügyintézési lehetőséget biztosít, valamint
+- b) tájékoztatást ad a jogszabályban meghatározott, más hatóságok hatáskörébe tartozó eljárásokról.
 
-169/B. § (1) Az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóság (e fejezetben a továbbiakban: hatóság) az e fejezetben meghatározott feladatkörében nem utasítható.
+### X/A. Fejezet
 
-(2) A hatóság
-
-- a) kérelem alapján vagy hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint
-- b) kérelem alapján vizsgálatot folytat annak megállapítására, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet.
-
-(3) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
-
-169/C. § (1) Az egyenlő bánásmód követelménye megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
-
-- a) a hatóság, vagy
-- b) az egyenlő bánásmód követelménye megsértésének elbírálására hatáskörrel rendelkező más közigazgatási szerv folytatja le.
-
-(2) Az eljárás megindításáról, annak jogerős befejezéséről, valamint a döntéssel kapcsolatos bírósági felülvizsgálat során hozott jogerős ítéletről vagy végzésről a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
-
-(3) Ha az (1) bekezdés alapján valamely közigazgatási szerv előtt eljárás indult, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
-
-- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén a megindult eljárását az ügy jogerős elbírálásáig felfüggeszti.
-
-(4) Ha az ügyet valamely közigazgatási szerv elbírálta, más közigazgatási szerv ugyanazon törvénysértés tekintetében
-
-- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén megindult eljárásában a jogerős határozatban megállapított tényállást alapul véve jár el.
-
-(5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének az egyenlő bánásmódról és esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) 4. § a)–d) pontjában meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
-
-(6) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményének megsértésével kapcsolatban hozott közigazgatási döntés bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
-
-169/D. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban az Ebktv. 3. § e) pontja szerinti szervezet (e fejezetben a továbbiakban: szervezet), valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el.
-
-(2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban a szervezetet megilletik az ügyfél jogai.
-
-(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, a szervezet a hatóság előtt eljárást indíthat.
-
-169/E. § Az egyenlő bánásmód követelményének megsértése miatt indított eljárásban az Ebktv. 19. §-ában meghatározott bizonyítási szabályok alkalmazásának van helye.
-
-169/F. § (1) Ha az egyenlő bánásmód követelményének megsértése miatt a jogsérelmet szenvedett fél vagy a szervezet bíróság előtt eljárást indított, a hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárását az ügy jogerős elbírálásáig felfüggeszti és az erről hozott végzést közli a bírósággal.
-
-(2) A bíróság az egyenlő bánásmód követelményének megsértése miatt hozott jogerős határozatát, vagy az előtte folyamatban levő eljárást felfüggesztő végzését a hatóságnak vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szervnek megküldi.
-
-(3) A hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárása során ugyanazon törvénysértés tekintetében a bíróság határozatának kézhezvételét követően az abban megállapított tényállást alapul véve jár el.
-
-(4) A bíróság határozatának jogerőre emelkedését követően az egyenlő bánásmód követelményének megsértése miatt közigazgatási szerv előtt ugyanazon törvénysértés tekintetében
-
-- a) azonos személy ellen elkövetett törvénysértés miatt eljárás nem indítható,
-- b) más személy ellen elkövetett törvénysértés esetén a hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv a bíróság határozatában megállapított tényállást alapul véve jár el.
-
-169/G. § (1) A kérelemre indult eljárásban az egyéb eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont, a sérelmet szenvedett ügyféllel ellenérdekű ügyfél előlegezi meg.
-
-(2) A kérelem elutasítása esetén a sérelmet szenvedett ügyfél csak akkor viseli az egyéb eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
-
-### Az egyenlő bánásmód követelmények megsértése esetén alkalmazható jogkövetkezmények
-
-169/H. § Az egyenlő bánásmód követelményének érvényesülését vizsgáló hatósági eljárás akkor indítható meg, ha a jogsértésről való tudomásszerzéstől számított egy év, vagy a jogsértés bekövetkezésétől számított három év még nem telt el.
-
-169/I. § (1) Ha a hatóság megállapította az egyenlő bánásmód követelményének megsértését,
-
-- a) elrendelheti a jogsértő állapot megszüntetését,
-- b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
-- c) elrendelheti a jogsértést megállapító jogerős határozatának nyilvános közzétételét,
-- d) bírságot szabhat ki,
-- e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
-
-(2) Az (1) bekezdésben meghatározott jogkövetkezményeket a 94/A. § (1) bekezdésének megfelelő alkalmazásával kell meghatározni.
-
-(3) Az (1) bekezdésben meghatározott jogkövetkezmények együttesen is alkalmazhatóak.
-
-(4) A bírság összege ötvenezer forinttól hatmillió forintig terjedhet.
-
-(5) Ha a hatóság megállapította, hogy az arra kötelezett munkáltató elmulasztotta az esélyegyenlőségi terv elfogadását, felszólítja a munkáltatót a mulasztás pótlására, és – a (2) és (3) bekezdés megfelelő alkalmazásával – az (1) bekezdés c)–e) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
-
-169/J. § (1) A hatóság döntése ellen fellebbezésnek nincs helye.
-
-(2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
-
-(3) A bírósági felülvizsgálat során a Fővárosi Közigazgatási és Munkaügyi Bíróság három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
-
-169/K. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság jogerős és végrehajtható határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat jogsértést állapított meg.
-
-(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
-
-- a) a foglalkoztató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét,
-- b) a jogsértést megállapító határozat keltét és számát, jogerőre emelkedésének és végrehajthatóvá válásának időpontját,
-- c) a jogsértés megjelölését,
-- d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
-- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság hatályon kívül helyező, vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító döntést hozott.
-
-(3) A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
-
-(4) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
-
-169/L. § (1) A hatóság – a (3) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, a 169/K. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén a 169/K. § (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására az államháztartásról szóló törvény alapján jogerős és végrehajtható közigazgatási határozattal sor került.
-
-(2) Az (1) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
-
-(3) Ha a hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
-
-- a) az (1)–(2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
-- b) – amennyiben a (1)–(2) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
-
-(4) A hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
-
-### Adatkezelésre vonatkozó különös szabályok
-
-169/M. § (1) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése a 169/B. § (2) bekezdés a)–b) pontja szerinti eljárása során a hatásköre gyakorlásához nem elengedhetetlenül szükséges.
-
-(2) Az eljárás alá vont ügyfél az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az ügyfél olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
-
-(3) A hatóság a (2) bekezdés alapján csak olyan különleges adat rendelkezésre bocsátására hívhat fel, amely kezelése az eljárás céljára tekintettel elengedhetetlenül szükséges, és amely hiányában az eljárás eredményessége nem lenne biztosítható.
-
-(4) A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis szemletárgyként való lefoglalására is.
+169/B–169/M. §
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2805,9 +2742,7 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 
 (4) E törvénynek a Módtv. 46. §-ával megállapított VIII. Fejezetét kell alkalmazni az e rendelkezés hatálybalépésekor még meg nem indult végrehajtási eljárásokra is.
 
-(5) E törvénynek a Módtv. 46. §-ával megállapított 169/H. §-át az e rendelkezés hatálybalépését követően elkövetett jogsértésekre kell alkalmazni.
-
-(6) E törvénynek a Módtv. 46. §-ával megállapított X/A. Fejezete szerinti eljárás a Módtv. hatálybalépését megelőzően elkövetett jogsértések tekintetében az e rendelkezés hatálybalépését követő harminc napon belül indítható.
+(5)–(6)
 
 (7) E törvénynek a Módtv. 47. §-ával megállapított, az elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
@@ -2816,13 +2751,24 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 - a) az elektronikus kapcsolattartás, illetve az elektronikus ügyintézés lehetőségét a 2012. március 31-én hatályos szabályoknak megfelelően biztosítani, mindaddig, amíg az e törvénynek való megfelelést nem biztosítják,
 - b) megteremteni az e törvénynek való megfelelés feltételeit.
 
-(7b) A 2012. március 31-én létező ügyfélkapu 2012. április 1-jét követően is fennmarad, az ügyfélkapuval rendelkező természetes személyek adatait az ügyfélkapu regisztrációs adatbázist kezelő szerv az ügyfélkapu regisztrációs adatbázisban kezeli tovább, kivéve, ha a természetes személy az ügyfélkapu és az ahhoz kapcsolódó személyes adatai törlését az ügyfélkapu regisztrációs adatbázist kezelő szervtől kéri.
+(7b) A 2012. március 31-én létező ügyfélkapu 2012. április 1-jét követően is fennmarad, az ügyfélkapuval rendelkező természetes személyek adatait – az állampolgárságra vonatkozó adat kivételével – az ügyfélkapu regisztrációs adatbázist kezelő szerv a 168/A. § szerinti ügyfél-regisztrációs adatbázisában kezeli tovább, kivéve ha a természetes személy az ügyfélkapu és az ahhoz kapcsolódó személyes adatai törlését az ügyfél-regisztrációs adatbázist kezelő szervtől kéri.
 
 (8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2014. július 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2014. július 1-jéig kell bejelenteni.
 
 (9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2014. július 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.
 
+(9a) Az egyes, az elektronikus ügyintézéssel kapcsolatos törvények módosításáról szóló 2013. évi LXXXI. törvény
+
+- a) hatálybalépésekor a Felügyelet engedélyével rendelkező szabályozott elektronikus ügyintézési szolgáltatást nyújtó szolgáltatók részére kiadott engedély 2014. június 30-ig érvényes,
+- b) hatálybalépését megelőzően a Felügyelet részére bejelentést tett szabályozott elektronikus ügyintézési szolgáltatást nyújtó szolgáltatók 2014. június 30-ig jogosultak szabályozott elektronikus ügyintézési szolgáltatás nyújtására.
+
+(9b) Az állam által kötelezően biztosítandó szabályozott elektronikus ügyintézési szolgáltatások nyújtására jogszabályban kijelölt szervezetnek a kijelölés szerinti szolgáltatást, ha jogszabály másképp nem rendelkezik, legkésőbb 2014. július 1-jétől kell nyújtania. A kijelölt szervezet 2014. június 30-ig a kijelölés szerinti szolgáltatást e törvény rendelkezéseinek megfelelően, engedély, illetve bejelentés nélkül nyújthatja.
+
+(9c) E törvénynek az egyes, az elektronikus ügyintézéssel kapcsolatos törvények módosításáról szóló 2013. évi LXXXI. törvénnyel megállapított rendelkezéseit az egyes, az elektronikus ügyintézéssel kapcsolatos törvények módosításáról szóló 2013. évi LXXXI. törvény hatálybalépését követően indult eljárásokban kell alkalmazni.
+
 (10) E törvénynek a fővárosi és megyei kormányhivatalok működésével összefüggő törvények, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CCX. törvénnyel módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+
+(11) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 55. §-ával módosított 21. § (1) bekezdés a) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 171/A. § Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
 
@@ -2841,16 +2787,17 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 - g) hivatás gyakorlásához kötött titok: különösen az orvosi, ügyvédi, közjegyzői, lelkészi-egyházi személyi hivatás gyakorlásához kötött titok,
 - h) hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbe fogadó és a nevelőszülő; az örökbe fogadott és a nevelt gyermek; a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
 - i) irat, okirat, közokirat, magánokirat: a polgári perrendtartásról szóló törvény szerinti irat, okirat, közokirat és magánokirat,
-- j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektronikus ügyintézéssel kapcsolatos szolgáltatások: 1. az ügyfél ügyintézési rendelkezésének nyilvántartása, 2. az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről, 3. az ügyfél adataiban bekövetkező változás átvezetése, 4. összerendelési nyilvántartás vezetése, 5. azonosítási szolgáltatás, 6. kézbesítési szolgáltatás, 7. elektronikus dokumentumtárolási szolgáltatás, 8. hitelesítés-szolgáltatás, 9. nyilatkozattételi jogosultsággal kapcsolatos elektronikus igazolás szolgáltatása, 10. 10. hozzáférés az elektronikus iratkezelő rendszerhez, 11. hozzáférés biztosítása elektronikus nyilvántartások adataihoz, 12. hozzáférés biztosítása az informatikai rendszer működésével kapcsolatos adatokhoz, 13. elektronikus irat hiteles papír alapú irattá alakítása, 14. papír alapú irat átalakítása hiteles elektronikus irattá, 15. elektronikus iratról hiteles elektronikus másolat készítése, 16. elektronikus iratról hiteles, más formátumú elektronikus másolat készítése, 17. elektronikus iratok kezelése, 18. a hatóság informatikai rendszeréhez automatikus adatelérési felület (hozzáférés) biztosítása más hatóság számára, 19. biztonságos elektronikus igazolási szolgáltatás, 20. iratérvényességi nyilvántartás vezetése, 21. elektronikus tájékoztatási szolgáltatás, 22. elektronikus dokumentum titkosítása, 23. elektronikus űrlapok kezelése, 24. elektronikus aláírás ellenőrzési szolgáltatás, 25. informatikai háttér szolgáltatása, 26. azonosításra visszavezetett dokumentumhitelesítés, 27. elektronikus fizetési és elszámolási rendszer, 28. az e törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
+- j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektronikus ügyintézéssel kapcsolatos szolgáltatások: 1. az ügyfél ügyintézési rendelkezésének nyilvántartása, 2. az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről, 3. 4. összerendelési nyilvántartás vezetése, 5. azonosítási szolgáltatás, 6. kézbesítési szolgáltatás, 7. elektronikus dokumentumtárolási szolgáltatás, 8. hitelesítés-szolgáltatás, 9. nyilatkozattételi jogosultsággal kapcsolatos elektronikus igazolás szolgáltatása, 10. 10. hozzáférés az elektronikus iratkezelő rendszerhez, 11. hozzáférés biztosítása elektronikus nyilvántartások adataihoz, 12. hozzáférés biztosítása az informatikai rendszer működésével kapcsolatos adatokhoz, 13. elektronikus irat hiteles papír alapú irattá alakítása, 14. papír alapú irat átalakítása hiteles elektronikus irattá, 15. elektronikus iratról hiteles elektronikus másolat készítése, 16. elektronikus iratról hiteles, más formátumú elektronikus másolat készítése, 17. elektronikus iratok kezelése, 18. a hatóság informatikai rendszeréhez automatikus adatelérési felület (hozzáférés) biztosítása más hatóság számára, 19. biztonságos elektronikus igazolási szolgáltatás, 20. iratérvényességi nyilvántartás vezetése, 21. 22. elektronikus dokumentum titkosítása, 23. elektronikus űrlapok kezelése, 24. elektronikus aláírás ellenőrzési szolgáltatás, 25. informatikai háttér szolgáltatása, 26. azonosításra visszavezetett dokumentumhitelesítés, 27. elektronikus fizetési és elszámolási rendszer, 28. iratkezelő rendszerek közötti iratáthelyezés-szolgáltatás, 29. központi érkeztetési ügynök, 30. központi kézbesítési ügynök, 31. személyre szabott ügyintézési felület, 32. az e törvény felhatalmazása alapján kiadott kormányrendeletben szabályozott elektronikus ügyintézési szolgáltatásként nevesített további elektronikus ügyintézéssel kapcsolatos szolgáltatás.
 - k) szabályozott elektronikus ügyintézési szolgáltató:
   - ka) a szabályozott elektronikus ügyintézési szolgáltatások elemeit saját ügyfelei számára nyújtó, illetve saját belső működése körében biztosító hatóság,
   - kb) a szabályozott elektronikus ügyintézési szolgáltatást más hatóság ügyfelei számára is nyújtó hatóság,
   - kc) a hatóságnak nem minősülő olyan személy, aki a szabályozott elektronikus ügyintézési szolgáltatást ügyfelek vagy hatóságok számára ingyenesen vagy ellenérték fejében elérhetővé teszi,
-- l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, valamint a magántitok,
-- m) ügyintézési rendelkezés: az ügyfélnek az elektronikus ügyintézéssel kapcsolatos, jogszabályban meghatározott tartalmú, a jogszabályban rendszeresített űrlap szerinti formában tett és a jogszabályban kijelölt szerv (a továbbiakban: nyilvántartó szerv) által nyilvántartásba vett rendelkezése,
+- l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, a fizetési titok, az adótitok, a vámtitok, valamint a magántitok,
+- m)
 - n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
 - o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató,
-- p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy.
+- p) kiskorú, korlátozottan cselekvőképes személy, cselekvőképtelen személy: a polgári törvénykönyv szerinti kiskorú, korlátozottan cselekvőképes személy, illetve cselekvőképtelen személy,
+- q) elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint nyújtott elektronikus tájékoztatás.
 
 ### Hatálybalépés
 
@@ -2899,13 +2846,18 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 
 (3) Felhatalmazást kap a Kormány, hogy a kormányablakot vagy kormányablakokat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.
 
+(4) Felhatalmazást kap a Kormány, hogy a 169/A. § (3) bekezdése szerinti szervezetet kijelölje, valamint az általa biztosított hatósági szolgáltatások nyújtásának szabályait rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg azokat az ügyeket, amelyekben a kormányablak az ügyre vonatkozó jogszabályban meghatározott hatóság mellett első fokon jogosult eljárni, valamint a kormányablak eljárásának részletes szabályait.
+
 175. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 - a) az elektronikus ügyintézési felügyeletet,
 - b) az ügyintézési rendelkezést nyilvántartó szervet,
 - c) az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások szolgáltatóit.
 - d) az ügyfélkapu regisztrációs szervet vagy szerveket,
-- e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket.
+- e) az ügyfélkapu regisztrációs adatbázist kezelő szervet vagy szerveket,
+- f) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásának adatkezelőjét.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
@@ -2923,22 +2875,25 @@ az ügyfél-regisztrációs adatbázisba. Az azonosítás és ellenőrzés siker
 - a) az írásbelinek nem minősülő elektronikus nyilatkozat írásbelinek minősülő elektronikus nyilatkozattá történő átalakításának, elektronikus iratról hiteles papír alapú kiadmány vagy másolat készítésének, papír alapú iratról hiteles elektronikus másolat készítésének részletes szabályait,
 - b) az ügyintézési rendelkezés tételének és nyilvántartásba vételének részletes szabályait,
 - c) az azonosítási hibából eredő kockázat és a biztonsági szintek közötti kapcsolatot, az azonosítási hiba bekövetkezéséből származó lehetséges kár jellege és súlyosságának mérlegelése során figyelembe veendő részletes szempontokat,
-- d) a szabályozott elektronikus ügyintézési szolgáltatások részletes követelményeit, a szabályozott elektronikus ügyintézési szolgáltatásnyújtás részletes eljárási rendjét, valamint a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési feltételeket,
+- d) a szabályozott elektronikus ügyintézési szolgáltatások részletes követelményeit, a szabályozott elektronikus ügyintézési szolgáltatásnyújtás részletes eljárási rendjét, az engedélyköteles szabályozott elektronikus ügyintézési szolgáltatások körét, valamint a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési feltételeket,
 - e) a szabályozott elektronikus ügyintézési szolgáltató által teljesítendő személyi és pénzügyi feltételeket,
-- f) az elektronikus ügyintézési szolgáltatás engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és csökkentésével kapcsolatos szabályokat, valamint
+- f)
 - g) az elektronikus fizetésekre és elszámolásokra vonatkozó részletes szabályokat.
 
 (4) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben a technikai előírásokat igénylő szabályozott elektronikus ügyintézési szolgáltatások követelményeit rendeletben állapíthassa meg.
 
-176. § E törvény X/A. Fejezete
+(5) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az elektronikus ügyintézési szolgáltatás bejelentéséért, engedélyezéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
-- a) a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló, 1978. december 19-i 79/7/EGK tanácsi irányelvnek,
-- b) a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról szóló, 2000. június 29-i 2000/43/EK tanácsi irányelvnek,
-- c) a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek létrehozásáról szóló, 2000. november 27-i 2000/78/EK tanácsi irányelvnek,
-- d) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról szóló, 2004. december 13-i 2004/113/EK tanácsi irányelvnek,
-- e) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+176. §
 
-177–182. §
+177. § E törvény
+
+- a) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelvnek, valamint
+- b) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+178–182. §
 
 183. §
 

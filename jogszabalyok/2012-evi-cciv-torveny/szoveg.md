@@ -413,7 +413,7 @@ történik.
 
 35. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos, területi, települési nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a köznevelési feladatot alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami köznevelési intézmény fenntartója) részére normatív és egyéb hozzájárulást állapít meg a következők szerint:
 
-- a) a nem állami köznevelési intézmény fenntartóját 2013. augusztus 31-éig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
+- a) a nem állami köznevelési intézmény fenntartóját 2013. szeptember 30-áig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
   - aa) az óvodai, iskolai, kollégiumi étkeztetés támogatására a nem állami köznevelési intézmény fenntartóját az általa étkeztetett gyermekek, tanulók után a támogatás nem a 2012. évi költségvetési törvény szerint, hanem a 2. melléklet II. pont 3. b) alpontban meghatározott támogatással azonos összegben és azonos feltételek mellett illeti meg,
   - ab) a települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat támogatást a 2. melléklet II. pontja szerinti feladatokhoz az 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetből igényelhet, e feladatok támogatása esetében a nem állami köznevelési intézmény fenntartójára vonatkozó szabályokat nem lehet alkalmazni,
 - b) a 2012. évi költségvetési törvénynek az a) pont szerinti rendelkezései alkalmazása során a 2012. évi költségvetési törvény 2012. december 31-én hatályos 3. és 8. mellékletében meghatározott normatív hozzájárulás időarányos részét kell figyelembe venni, a 2012. évi költségvetési törvénynek a 2012. december 31-én hatályos 5. melléklet 5. pontjában, 11. pontjának a)–c) alpontjában, továbbá a 11. d) pontjának da)–de) és dg) alpontjában meghatározott támogatásokat pedig az oktatásért felelős miniszter rendeletében meghatározottak szerint kell biztosítani,
@@ -434,9 +434,9 @@ történik.
 - q) a nemzeti, etnikai kisebbségi nevelés, nemzeti, etnikai kisebbségi nevelés-oktatás alatt nemzetiségi nevelést, nemzetiségi nevelést-oktatást kell érteni,
 - r) a Közokt. tv. 86. § (6) bekezdése és a kiegészítő kisebbségi oktatás alatt a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvénynek a kiegészítő nemzetiségi oktatásra vonatkozó szabályait kell érteni,
 - s) a Közokt. tv. és végrehajtási rendeletei alatt az Nkt.-t és végrehajtási rendeleteit is érteni kell,
-- t) a nem állami köznevelési intézmény finanszírozására 2013. szeptember 1-jétől a (2) bekezdése szerinti törvényben meghatározott szabályokat kell alkalmazni.
+- t) a nem állami köznevelési intézmény finanszírozására 2013. október 1-jétől a (2) bekezdése szerinti törvényben meghatározott szabályokat kell alkalmazni.
 
-(2) A Kormány a nem állami köznevelési intézmény 2013. szeptember 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. június 30-áig dolgozza ki és nyújtja be az Országgyűlés részére.
+(2) A Kormány a nem állami köznevelési intézmény 2013. október 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. szeptember 1-jéig dolgozza ki és nyújtja be az Országgyűlés részére.
 
 (3) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
 
@@ -553,19 +553,21 @@ történik.
 
 (4) Az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság a jogszabályi állami kezességért a kezesség fennállásának időtartamára számítva, havonta a 256 milliárd forint 0,12%-ának megfelelő mértékű kezességvállalási díjat fizet legkésőbb 2013. október 15-ig.
 
-44/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől felvett kölcsöneiből eredő fizetési kötelezettsége 80%-ának teljesítéséért.
+44/B. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönnyújtás céljára pénzügyi intézményektől hitelszerződés alapján felvett kölcsöneiből eredő fizetési kötelezettsége 100%-ának teljesítéséért.
 
-(2) Az (1) bekezdés szerinti állami készfizető kezesség állománya 2013. december 31-én nem haladhatja meg a 8000,0 millió forint összeget.
+(2) Az (1) bekezdés szerinti állami készfizető kezesség állománya 2013. december 31-én nem haladhatja meg a 10 000,0 millió forint összeget.
 
-(3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti kölcsönei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
+(3) A KAVOSZ Vállalkozásfejlesztési Zrt. (1) bekezdés szerinti hitelszerződése biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles.
 
-44/C. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára kihelyezett, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló kölcsönszerződéseiből eredő fizetési kötelezettsége 80%-ának teljesítéséért.
+44/C. § (1) Az állam – jogszabályban meghatározott feltételek mellett – készfizető kezesként felel a KAVOSZ Vállalkozásfejlesztési Zrt. által a (2) bekezdés szerinti kölcsönfelvevők számára az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetését szolgáló hitelszerződés alapján kihelyezett kölcsönökből eredő fizetési kötelezettség 80%-ának teljesítéséért.
 
 (2) Az (1) bekezdés szerinti állami készfizető kezesség csak az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díj fizetésére kötelezett kis- és középvállalkozások kölcsöneire terjed ki.
 
 (3) Az (1) bekezdés szerinti állami készfizető kezesség együttes állománya 2013. december 31-én nem haladhatja meg a 8000,0 millió forint összeget.
 
 (4) A KAVOSZ Vállalkozásfejlesztési Zrt. az (1) bekezdés szerinti kölcsönök biztosítékaként az állami készfizető kezességvállaláson túl további biztosíték előírására nem köteles.
+
+(5) A KAVOSZ Vállalkozásfejlesztési Zrt. által az (1) bekezdés szerinti hitelszerződéshez előírt, a szerződött hitelösszeg 20%-át és a hitelszerződés aláírásakor érvényes 3 havi ügyleti kamat együttes összegét meg nem haladó mértékű biztosítékok az (1) bekezdés szerinti állami készfizető kezesség beváltása esetén nem szállnak át az államra.
 
 45. § (1) Ha az államnak szerződéssel, illetve jogszabállyal vállalt kezesség- vagy viszontgarancia érvényesítéséből – a 46. § szerinti viszontgarancia kivételével – olyan fizetési kötelezettsége keletkezik, amely nem szerepel az 1. mellékletben, azt a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 33. Állam által vállalt kezesség és viszontgarancia érvényesítése cím terhére kell teljesíteni.
 
@@ -783,6 +785,14 @@ gyakorolja.
 
 (8) A 72. § (1)–(2) és (4) bekezdése szerinti adósság egyes elemeinek átvállalását az állam úgy is teljesítheti, hogy 250 millió forintnál kisebb összegű adósságelemből átvállalandó adósságrész visszafizetéséhez az állam egyszeri, vissza nem térítendő költségvetési támogatást nyújt. A törlesztési célú támogatásnak a hitelezők számlájára történő közvetlen folyósításáról az államháztartásért felelős miniszter legkésőbb 2013. június 28-áig gondoskodik.
 
+(9) A hitelező az államháztartásért felelős miniszternél írásban kezdeményezheti a 2012. évi költségvetési törvény 76/C. §-a alapján egyszeri, vissza nem térítendő költségvetési támogatással történt előtörlesztést követően az érintett önkormányzatoknál a 2012. december 12-ei adósságból fennmaradt, és a (8) bekezdés, továbbá a 74. § (6) bekezdése alapján átvállalással érintett önkormányzat (1)–(2) bekezdés szerinti, a 2012. december 31-ei adósságából az átvállalást követően fennálló adósságállománya állam általi átvállalását, az érintett önkormányzat írásos engedélyével.
+
+(10) A (9) bekezdés szerinti kezdeményezés leadásának határideje a 2013. június 28-án adósságrendezés alatt nem álló önkormányzatok adóssága tekintetében 2013. szeptember 30-a, az állam a kezdeményezett átvállalást 2013. december 31-éig hajtja végre. Az átvállalás feltétele, hogy a hitelező az átvállalásra felkínált adósságrész 7%-ának megfelelő összeget a központi költségvetés részére 2013. december 20-áig forintban megfizesse.
+
+(11) A (9) bekezdés szerinti kezdeményezés leadásának határideje a 2013. június 28-án adósságrendezési eljárás alatt álló önkormányzatok esetén az adósságrendezési eljárást követő törlesztési célú támogatás kiutalásának, illetve az adósság átvállalásának napját követő 60. nap. Az állam a kezdeményezett átvállalást a kezdeményezés beadását követő 60. napon, de legkorábban 2013. december 31-én hajtja végre. Az átvállalás feltétele, hogy az önkormányzat ne álljon adósságrendezési eljárás alatt és a hitelező az átvállalásra felkínált adósságrész 7%-ának megfelelő összeget a központi költségvetés részére, a felkínált adósságrész átvállalását megelőző 10. napig, forintban megfizesse.
+
+(12) A devizában fennálló adósságrész után fizetendő befizetési kötelezettséget a befizetés napját megelőző munkanapon a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+
 73. § (1) A 72. § (1) bekezdése és a 74. § (3) bekezdése szerinti adósság átvállalásának mértékét az átvállalással érintett önkormányzat 2012. június 30-i egy főre jutó iparűzési adóerőképességének (a továbbiakban: adóerőképesség) és az átvállalással érintett önkormányzat településkategóriája adóerőképessége korrigált átlagának egymáshoz viszonyított aránya alapján kell meghatározni. A számítás során figyelembe vett településkategóriák a következők:
 
 - a) megyei jogú város,
@@ -828,6 +838,8 @@ gyakorolja.
 (2) A 72. § (1) és (2) bekezdése szerinti adósság összegének megállapítása, a devizában denominált ügyletek 72. § (8) bekezdés szerinti forintértékének megállapítása és a 74. § (1) bekezdése szerinti adatszolgáltatás során a devizában denominált ügyletek esetén a 2012. december 31-én érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 76. §
+
+76/A. § A 9. melléklet 4–23. sorában meghatározott előirányzatok, valamint a Kormány 2013. évi döntésén alapuló előirányzat-átcsoportosítás útján létrejött beruházási, felújítási, vagy egyéb felhalmozási célú kiadást tartalmazó előirányzatok terhére új kötelezettséget vállalni az államháztartásért felelős miniszter előzetes egyetértésével lehet. A 9. melléklet 1–3. sorában meghatározott előirányzatok esetében új kötelezettség vállalásának feltétele, hogy a kötelezettségvállalásra jogosult előzetesen kikérje az államháztartásért felelős miniszter véleményét. Az államháztartásért felelős miniszter a kötelezettségvállalásra jogosult kérésére az egyetértést a 2013. szeptember 1-jéig esedékes új kötelezettségvállalások mindegyikére általánosan is, a véleményt pedig az előirányzat teljes összegére, vagy annak meghatározott részére vonatkozóan is megadhatja. Az egyetértés és a vélemény megadása során figyelemmel kell lenni az állami vagyon értékesítéséből vagy hasznosításából származó várható többletbevételre.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -5244,3 +5256,40 @@ a) ha a gyermekvédelmi szakellátásban részesülő gyermek bölcsődei vagy c
 b) az otthont nyújtó ellátásban, utógondozói ellátásban részesülők gondozási napok szerinti nyilvántartását – elhelyezés-típusonként, ellátási szükségletekre bontva – jogszabályban meghatározott szerv vezeti az ellátást nyújtó intézmények adatszolgáltatása alapján,
 
 c) ha a bentlakásos intézmény köznevelési feladatot is ellát, a nem állami fenntartó az intézményen belül oktatott tanulók alapján a feladatokhoz kapcsolódóan igénybe veheti a 35. § szerinti köznevelési célú állami hozzájárulásokat és kiegészítő támogatásokat is.
+
+### 9. melléklet a 2012. évi CCIV. törvényhez
+
+Beruházási Alap
+
+|  | A | B |
+| --- | --- | --- |
+|  | I. ORSZÁGGYŰLÉS fejezetben |  |
+| 1 |  | Kossuth Lajos tér rekonstrukciója (4. cím, 9. alcím) |
+|  | VI. BÍRÓSÁGOK fejezetben |  |
+| 2 |  | Pest megyei bíróság épület rekonstrukció (3. cím, 1. alcím, 1. jogcímcsoport) |
+| 3 |  | Igazságszolgáltatás beruházásai (3. cím, 1. alcím, 2. jogcímcsoport) |
+|  | X. KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI MINISZTÉRIUM fejezetben |  |
+| 4 |  | Közigazgatási és Igazságügyi Hivatal (15. cím, 2. előirányzatcsoport, 1. kiemelt előirányzat) |
+| 5 |  | Ludovika Campus (20. cím, 2. alcím, 41. jogcímcsoport) |
+|  | XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben |  |
+| 6 |  | Regionális víziközmű rendszerek állami kötelezettségei és a pályázati fejlesztéséhez szükséges önerő (20. cím, 1. alcím, 5. jogcímcsoport) |
+| 7 |  | Balatoni regionális víziközmű-hálózat fejlesztése (20. cím, 1. alcím, 9. jogcímcsoport) |
+| 8 |  | Ivóvízbázis-védelmi Program végrehajtása (20. cím, 1. alcím, 19. jogcímcsoport) |
+| 9 |  | Ivóvíz-minőség javító program (20. cím, 1. alcím, 20. jogcímcsoport) |
+|  | XVII. NEMZETI FEJLESZTÉSI MINISZTÉRIUM fejezetben |  |
+| 10 |  | Egyedi kormánydöntésen alapuló közlekedési beruházások (20. cím, 31. alcím, 2. jogcímcsoport) |
+| 11 |  | Országos közúthálózat és gyorsforgalmi úthálózat fejlesztés (20. cím, 31. alcím, 3. jogcímcsoport) |
+| 12 |  | Vasúti hidak és acélszerkezetek felújítása (20. cím, 31. alcím, 6. jogcímcsoport) |
+|  | XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA fejezetben |  |
+| 13 |  | Művészeti intézmények (12. cím, 2. előirányzatcsoport, 1. kiemelt előirányzat) |
+| 14 |  | Nemzeti Sportközpontok (13. cím, 2. alcím, 2. előirányzatcsoport, 1. kiemelt előirányzat) |
+| 15 |  | Vári rekonstrukciók (Szent György tér, Mátyás-templom) (20. cím, 1. alcím, 4. jogcímcsoport, 2. jogcím) |
+| 16 |  | Debreceni Nagyerdei Labdarúgó Stadion rekonstrukciója (20. cím, 24. alcím, 13. jogcímcsoport, 2. jogcím) |
+| 17 |  | Egyházi épített örökség védelme és egyéb beruházások (20. cím, 55. alcím, 7. jogcímcsoport) |
+| 18 |  | A Piarista Rend Magyar Tartománya fejlesztéseinek támogatása (20. cím, 55. alcím, 8. jogcímcsoport) |
+| 19 |  | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése (20. cím, 55. alcím, 10. jogcímcsoport) |
+| 20 |  | A debreceni református oktatási-nevelési intézményrendszer infrastrukturális fejlesztése (20. cím, 55. alcím, 11. jogcímcsoport) |
+|  | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
+| 21 |  | Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai (2. cím, 1. alcím, 1. jogcímcsoport, 2. jogcím) |
+| 22 |  | Stadionfejlesztés (2. cím, 1. alcím, 1. jogcímcsoport, 3. jogcím) |
+| 23 |  | Az állam tulajdonosi felelősségével kapcsolatos környezetvédelmi feladatok finanszírozása (2. cím, 3. alcím, 5. jogcímcsoport) |

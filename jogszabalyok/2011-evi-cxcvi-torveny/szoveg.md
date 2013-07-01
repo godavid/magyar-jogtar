@@ -295,7 +295,8 @@ javára történik.
 - h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létrehozása és működtetése – a földi kiszolgálási tevékenység kivételével – a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - i) az országos közutak és műtárgyaik, országos törzshálózati vasúti pálya, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
 - j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
-- k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése.
+- k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
+- l) dohánytermékek kiskereskedelme,
 - m) az a)–l) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
@@ -332,6 +333,8 @@ javára történik.
 közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szervezet részére engedhető át és kizárólag általuk gyakorolható.
 
 (11) Az (1) bekezdés k) pontjában és a (2) bekezdés f) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga – a (4) és (5) bekezdésben meghatározott korlátozásokra figyelemmel – törvényben szabályozott módon másnak átengedhető.
+
+(11a) Az (1) bekezdés l) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga külön ágazati törvényben szabályozott módon másnak átengedhető.
 
 (12) A (4)–(6) bekezdésben foglalt korlátozások figyelembevételével, valamint a (7)–(11) bekezdésben meghatározottakon kívül az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége gyakorlásának időleges joga koncessziós szerződés megkötése nélkül kizárólag
 

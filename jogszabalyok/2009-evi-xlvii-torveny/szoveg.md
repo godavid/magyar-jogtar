@@ -58,14 +58,14 @@ azonosítása.
 
 - a) az érintett
   - aa) családi és utónevét,
-  - ab) születési családi és utónevét,
+  - ab) születési családi és utónevét, továbbá annak megváltozása esetén előző születési családi és utónevét,
   - ac) nemét,
   - ad) születési helyét és idejét,
-  - ae) anyja születési családi és utónevét,
+  - ae) anyja születési családi és utónevét, továbbá annak megváltoztatása esetén anyja előző születési családi és utónevét,
   - af) személyi azonosítóját,
   - ag) előző családi és utónevét,
   - ah) állampolgárságát, előző állampolgárságát, valamint
-  - ai) lakcímét (a továbbiakban együtt: személyazonosító adatok),
+  - ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
 - b) az érintett arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak,
 - c) a kapcsolati kódot, valamint
 - d) a halál tényét és időpontját.
@@ -128,7 +128,7 @@ azonosítása.
 
 érdekében.
 
-10. § A bűntettesek nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) alapján nem mentesült.
+10. § A bűntettesek nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedése napján a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) alapján nem mentesült.
 
 11. § (1) A bűntettesek nyilvántartása tartalmazza
 
@@ -136,13 +136,13 @@ azonosítása.
 - b) a belső azonosító kódot;
 - c) bűnösséget megállapító jogerős ítéletben a bíróság által megállapított
   - ca) bűncselekmény megnevezését,
-  - cb) bűncselekmény Btk. szerinti minősítését,
+  - cb) bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
   - cc) elkövetői és elkövetési alakzatot,
   - cd) bűncselekmény elkövetésének helyét, idejét,
   - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- e) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+- e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - g) összbüntetésbe foglalás esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - h) közkegyelem vagy egyéni kegyelem alapján a bírósági határozatot érintő változásokat, az egyéni kegyelmi határozat számát és keltét;
@@ -154,11 +154,11 @@ azonosítása.
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
 
-- a) a szabadságvesztés előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés végrehajtása megkezdésének) napját, valamint a szabadságvesztés előjegyzett utolsó napját,
+- a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés vagy az elzárás végrehajtása megkezdésének) napját, valamint a szabadságvesztés vagy az elzárás előjegyzett utolsó napját,
 - b) a feltételes szabadságra bocsátás napját, a feltételes szabadság leteltének napját, a feltételes szabadság megszüntetésének tényét, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát és keltét, a pártfogó felügyelet időtartamát,
 - c) a büntetés félbeszakítása esetén az engedélyező megnevezését, határozatának számát és keltét, a félbeszakítás időtartamát, a jogellenesen a büntetés-végrehajtási intézeten kívül töltött időtartamot,
 - d) a szabadon bocsátás napját,
-- e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
+- e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
 
 12. § (1) A személyazonosító adatokat, valamint a 11. § (1) bekezdés c)–g), i) és k) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
 
@@ -167,6 +167,8 @@ azonosítása.
 (3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
+
+(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
 
 13. § A bűntettesek nyilvántartásába felvett adatokat az érintett mentesítésének időpontjáig kell nyilvántartani.
 
@@ -187,9 +189,10 @@ azonosítása.
 - a) akinek az adatait a bűntettesek nyilvántartásából a mentesítés folytán törölték,
 - b) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján mentesült,
 - c) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
-- d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelést, elkobzást, vagyonelkobzást alkalmazott,
+- d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, valamint
-- f) akit az ügyész megrovásban részesített.
+- f) akivel szemben a bíróság jóvátételi munkát alkalmazott, valamint
+- g) akit az ügyész megrovásban részesített.
 
 16. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 
@@ -197,14 +200,14 @@ azonosítása.
 - b) a belső azonosító kódot;
 - c) a jogerős ítéletben a bíróság által megállapított
   - ca) bűncselekmény megnevezését,
-  - cb) bűncselekmény Btk. szerinti minősítését,
+  - cb) bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
   - cc) elkövetői és elkövetési alakzat megjelölését,
   - cd) bűncselekmény elkövetésének helyét, idejét,
-  - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső vagy többszörös visszaeső,
+  - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát és keltét;
 - e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- f) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
+- f) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
 - g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját;
 - h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
@@ -215,7 +218,7 @@ azonosítása.
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
 
-- a) a szabadságvesztés előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés megkezdésének) napját, valamint a szabadságvesztés előjegyzett utolsó napját,
+- a) a szabadságvesztés vagy az elzárás előjegyzett kezdő napját, foganatba vételének (a befogadásnak, illetve a szabadságvesztés vagy az elzárás megkezdésének) napját, valamint a szabadságvesztés vagy az elzárás előjegyzett utolsó napját,
 - b) a feltételes szabadságra bocsátás napját, a feltételes szabadság leteltének napját, a feltételes szabadság megszüntetésének tényét, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát és keltét, a pártfogó felügyelet időtartamát,
 - c) a büntetés félbeszakítása esetén az eljárt hatóság megnevezését, határozatának számát és keltét, a félbeszakítás időtartamát, a jogellenesen a büntetés-végrehajtási intézeten kívül töltött időtartamot,
 - d) a szabadon bocsátás napját,
@@ -223,7 +226,7 @@ azonosítása.
 - f) a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, az ideiglenes elbocsátás megszüntetésének tényét,
 - g) a javítóintézeti nevelésből elbocsátás napját,
 - h) a közérdekű munka, valamint a pénzbüntetés szabadságvesztésre történő átváltoztatásáról szóló határozat számát és keltét, az eljárt bíróság megnevezését, az így kiszabott büntetés mértékét,
-- i) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát, továbbá
+- i) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát, továbbá
 - j) a kényszergyógykezelés megszüntetésének napját.
 
 17. § (1) A személyazonosító adatokat, valamint a 16. § (1) bekezdés c) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
@@ -245,6 +248,8 @@ azonosítása.
 
 közli a bűnügyi nyilvántartó szervvel.
 
+(7a) A 16. § (2) bekezdés i) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+
 (8) A 16. § (2) bekezdés j) pontjában meghatározott adatot az igazságügyi megfigyelő és elmegyógyító intézet közli a bűnügyi nyilvántartó szervvel.
 
 18. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt végrehajtandó szabadságvesztés kiszabása esetén,
@@ -254,7 +259,7 @@ közli a bűnügyi nyilvántartó szervvel.
   - ab) öt évet meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, vagy
 - b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkét évig kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
@@ -272,7 +277,7 @@ kell nyilvántartani.
 
 kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított három évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított három évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
 
@@ -280,9 +285,10 @@ kell nyilvántartani.
 
 - a) megrovás alkalmazása esetén az ítélet jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
 - b) próbára bocsátás alkalmazása esetén a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől,
-- c) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás elrendelése esetén a jogerőre emelkedéstől,
-- d) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
-- e) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ítélet esetén az ítélet jogerőre emelkedésétől
+- c) jóvátételi munka alkalmazása esetén a jóvátételi munka elvégzésének igazolásától,
+- d) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tételének elrendelése esetén a jogerőre emelkedéstől,
+- e) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
+- f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ítélet esetén az ítélet jogerőre emelkedésétől
 
 számított három évig kell nyilvántartani.
 
@@ -326,8 +332,9 @@ számított három évig kell nyilvántartani.
 
 25. § A büntetőeljárás hatálya alatt állók nyilvántartásába felvett adatokat
 
-- a) a büntetőeljárás jogerős befejezéséig vagy
-- b) a nyomozás megszüntetéséig
+- a) a büntetőeljárás jogerős befejezéséig,
+- b) a nyomozás megszüntetéséig vagy
+- c) a közvetítői eljárásban való részvételre, illetve kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételre tekintettel történő vádemelés elhalasztása, nyomozás vagy eljárás felfüggesztése esetén a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvétel sikeres igazolására, illetve a tevékeny megbánásra tekintettel a nyomozás vagy az eljárás megszüntetését követő három évig
 
 kell nyilvántartani.
 
@@ -377,7 +384,7 @@ kell nyilvántartani.
 - g) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozás tényét, időtartamát, illetve megszűnése tényét,
 - h) a kényszerintézkedést és egyéb korlátozást elrendelő határozat, a bűnösséget megállapító vagy a felmentő ítélet szerinti bűncselekmény
   - ha) megnevezését,
-  - hb) Btk. szerinti minősítését,
+  - hb) 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 - i) a határozattal és a határozatot hozó bírósággal kapcsolatban:
   - ia) a kényszerintézkedés és egyéb korlátozás elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó bíróság megnevezését, illetve határozatának számát és keltét,
   - ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
@@ -541,7 +548,12 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 44. § (1) A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában annak a büntetőeljárás alá vont személynek az ujj- és tenyérnyomatát kell nyilvántartani, akit
 
 - a) ötévi vagy ezt meghaladó szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetésének megalapozott gyanúja vagy
-- b) öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos, testi sértés (Btk. 170. §), segítségnyújtás elmulasztása (Btk. 172. §), személyi szabadság megsértése (Btk. 175. §), emberkereskedelem (Btk. 175/B. §), magánlaksértés (Btk. 176. §), közlekedés biztonsága elleni bűncselekmény (Btk. 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 185. §), közúti veszélyeztetés (Btk. 186. §), cserbenhagyás (Btk. 190. §), megrontás (Btk. 201. §), tiltott pornográf felvétellel visszaélés (Btk. 204. §), üzletszerű kéjelgés elősegítése (Btk. 205. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), beutazási és tartózkodási tilalom megsértése (Btk. 214. §), embercsempészés (Btk. 218. §), hivatali visszaélés (Btk. 225. §), bántalmazás hivatalos eljárásban (Btk. 226. §), hivatalos személy elleni erőszak (Btk. 229. §), közfeladatot ellátó személy elleni erőszak (Btk. 230. §), hamis vád (Btk. 233. §), bűnpártolás (Btk. 244. §), vesztegetés (Btk. 250. §), befolyással üzérkedés (Btk. 256. §), közveszélyokozás (Btk. 259. §), terrorcselekmény (Btk. 261. §), visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), közveszéllyel fenyegetés (Btk. 270/A. §), garázdaság (Btk. 271. §), rendbontás (Btk. 271/A. §), közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §), visszaélés kábítószerrel (Btk. 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), pénzhamisítás (Btk. 304. §), költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt adócsalás és csempészet, készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 313/B. §), lopás (Btk. 316. §), sikkasztás (Btk. 317. §), csalás (Btk. 318. §), rongálás (Btk. 324. §), jármű önkényes elvétele (Btk. 327. §) bűncselekmény elkövetésének megalapozott gyanúja
+- b) öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos
+  - ba) 2011. december 31-ig hatályban volt adócsalás és csempészet,
+  - bb) a 2013. június 30-ig hatályban volt testi sértés (1978. évi IV. törvény 170. §), segítségnyújtás elmulasztása (1978. évi IV. törvény 172. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §), emberkereskedelem (1978. évi IV. törvény 175/B. §), magánlaksértés (1978. évi IV. törvény 176. §), közlekedés biztonsága elleni bűncselekmény (1978. évi IV. törvény 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (1978. évi IV. törvény 185. §), közúti veszélyeztetés (1978. évi IV. törvény 186. §), cserbenhagyás (1978. évi IV. törvény 190. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése (1978. évi IV. törvény 205. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), beutazási és tartózkodási tilalom megsértése (1978. évi IV. törvény 214. §), embercsempészés (1978. évi IV. törvény 218. §), hivatali visszaélés (1978. évi IV. törvény 225. §), bántalmazás hivatalos eljárásban (1978. évi IV. törvény 226. §), hivatalos személy elleni erőszak (1978. évi IV. törvény 229. §), közfeladatot ellátó személy elleni erőszak (1978. évi IV. törvény 230. §), hamis vád (1978. évi IV. törvény 233. §), bűnpártolás (1978. évi IV. törvény 244. §), vesztegetés (1978. évi IV. törvény 250. §), befolyással üzérkedés (1978. évi IV. törvény 256. §), befolyás vásárlása (1978. évi IV. törvény 256/A. §), közveszélyokozás (1978. évi IV. törvény 259. §), terrorcselekmény (1978. évi IV. törvény 261. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), garázdaság (1978. évi IV. törvény 271. §), rendbontás (1978. évi IV. törvény 271/A. §), közokirat-hamisítás (1978. évi IV. törvény 274. §), magánokirat-hamisítás (1978. évi IV. törvény 276. §), egyedi azonosító jel meghamisítása (1978. évi IV. törvény 277/A. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (1978. évi IV. törvény 300/C. §), pénzhamisítás (1978. évi IV. törvény 304. §), költségvetési csalás (1978. évi IV. törvény 310. §), készpénz-helyettesítő fizetőeszközzel visszaélés (1978. évi IV. törvény 313/C. §), lopás (1978. évi IV. törvény 316. §), sikkasztás (1978. évi IV. törvény 317. §), csalás (1978. évi IV. törvény 318. §), rongálás (1978. évi IV. törvény 324. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §) bűncselekmény elkövetésének megalapozott gyanúja vagy
+  - bc) testi sértés (Btk. 164. §), segítségnyújtás elmulasztása (Btk. 166. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178. és 179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), teljesítményfokozó szerrel visszaélés (Btk. 185. §), egészségügyi termék hamisítása (Btk. 186. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), magánlaksértés (Btk. 221. §), közlekedés biztonsága elleni bűncselekmény (Btk. 232. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), közúti veszélyeztetés (Btk. 234. §), cserbenhagyás (Btk. 239. §), hamis vád (Btk. 268. §), bűnpártolás (Btk. 282. §), vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), befolyás vásárlása (Btk. 298. §), befolyással üzérkedés (Btk. 299. §), bántalmazás hivatalos eljárásban (Btk. 301. §), bántalmazás közfeladatot ellátó személy eljárásában (Btk. 302. §), hivatali visszaélés (Btk. 305. §), közfeladati helyzettel visszaélés (Btk. 306. §), hivatalos személy elleni erőszak (Btk. 310. §), közfeladatot ellátó személy elleni erőszak (Btk. 311. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), közveszély okozása (Btk. 322. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), közveszéllyel fenyegetés (Btk. 338. §), garázdaság (Btk. 339. §), rendbontás (Btk. 340. §), közokirat-hamisítás (Btk. 342. §), biztonsági okmány hamisítása (Btk. 344. §) hamis magánokirat felhasználása (Btk. 345. §), egyedi azonosító jellel visszaélés (Btk. 347. §), embercsempészés (Btk. 353. §), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), jármű önkényes elvétele (Btk. 380. §), pénzhamisítás (Btk. 389. §), készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), tiltott adatszerzés (Btk. 422. §), információs rendszer vagy adat megsértése (Btk. 423. §) bűncselekmény elkövetésének megalapozott gyanúja
+
+miatt büntetőeljárás alá vontak.
 
 miatt büntetőeljárás alá vontak.
 
@@ -652,10 +664,14 @@ kezelt DNS-profillal állapítja meg.
 
 - a) ötévi vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekmény,
 - b) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-- c) három évig terjedő szabadságvesztéssel büntetendő emberkereskedelem (Btk. 175/B. §), megrontás (Btk. 201. §), tiltott pornográf felvétellel visszaélés (Btk. 204. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), embercsempészés (Btk. 218. §),
-- d) kétévi szabadságvesztésnél súlyosabb büntetéssel fenyegetett kábítószerrel vagy kábítószernek minősülő anyaggal való visszaélés (Btk. 282. §),
-- e) fegyveres elkövetéssel megvalósuló bűncselekmény vagy
-- f) az állam elleni bűncselekményekkel (Btk. X. fejezet), a terrorcselekménnyel (Btk. 261. §), a nemzetközi gazdasági tilalom megszegésével (Btk. 261/A. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a pénzmosással (Btk. 303. §), valamint a szolgálati bűncselekményekkel (Btk. XX. Fejezet I. cím) kapcsolatban fennálló feljelentési kötelezettség elmulasztása vagy a terrorcselekményre irányuló előkészület (Btk. 261. §)
+- c) három évig terjedő szabadságvesztéssel büntetendő
+  - ca) 2013. június 30-ig hatályban volt emberkereskedelem (1978. évi IV. törvény 175/B. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), embercsempészés (1978. évi IV. törvény 218. §),
+  - cb) emberkereskedelem (Btk. 192. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), embercsempészés (Btk. 353. §),
+- d) 2013. június 30-ig hatályban volt kábítószerrel vagy kábítószernek minősülő anyaggal való visszaélés (1978. évi IV. törvény 282. §),
+- e) kábítószer birtoklása (Btk. 178. §), kábítószer készítésének elősegítése (Btk. 182. §),
+- f) fegyveres elkövetéssel megvalósuló bűncselekmény vagy
+- g) a 2013. június 30-ig hatályban volt állam elleni bűncselekményekkel (1978. évi IV. törvény X. fejezet), terrorcselekménnyel (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegésével (1978. évi IV. törvény 261/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), pénzmosással (1978. évi IV. törvény 303. §), valamint szolgálati bűncselekményekkel (1978. évi IV. törvény XX. Fejezet I. cím) kapcsolatban fennálló feljelentési kötelezettség elmulasztása,
+- h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bb), bd) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást közveszély színhelyén vagy dolog elleni erőszakkal követik el, és bb)–be) alpont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el] jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
 
 miatt indítottak büntetőeljárást.
 
@@ -825,11 +841,11 @@ előírja.
 
 - a) annak a személynek, akire az adatigénylés vonatkozik
   - aa) a családi és utónevét,
-  - ab) a születési családi és utónevét,
+  - ab) születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, előző születési családi és utónevét,
   - ac) a születési helyét és idejét,
-  - ad) az anyja születési családi és utónevét,
+  - ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét,
   - ae) az állampolgárságát,
-  - af) a lakcímét, valamint
+  - af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
 - b) az adatigénylő pontos megnevezését és címét.
 
 ### Az adatigénylés alapján,
@@ -958,7 +974,7 @@ MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 
 77. § A bűnügyi nyilvántartó szerv központi hatóságként végzi a bűnügyi nyilvántartási rendszerben kezelt adatoknak az Európai Unió más tagállamával való cseréjével összefüggő adatfogadási, adatátadási és egyéb adatkezelési feladatokat.
 
-78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és f) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ítéletben szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
+78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és g) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ítéletben szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
 
 - a) az elítélt személyazonosító adatai,
 - b) az ítélet kelte, jogerőre emelkedésének időpontja, az ítéletet hozó bíróság megnevezése,
@@ -968,7 +984,7 @@ MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 (2) Az átvevő tagállamot tájékoztatni kell
 
 - a) az adatok átadásával egyidejűleg az adatok törlésének várható időpontjáról, továbbá
-- b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és f) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek.
+- b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és g) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek.
 
 (3) Ha az érintett személy két vagy több, az Európai Unió más tagállamának állampolgára, az (1) és (2) bekezdés szerinti adatokat valamennyi érintett tagállamnak továbbítani kell.
 

@@ -365,9 +365,13 @@ figyelembevételével kell számítani.
 
 (6) A (2)–(5) bekezdésben nem szabályozott kérdéseket a 17. § (2) bekezdés g) pontja alapján az alapszabályban kell meghatározni.
 
-(7) A kőolaj szekció tagja az (1) bekezdés szerinti nyilatkozatnak a Szövetséghez történő benyújtása előtt – a nyilatkozatban foglalt adatok helytállóságának ellenőrzése érdekében – megkeresi a Nemzeti Adó- és Vámhivatalt (a továbbiakban: NAV). A NAV a záradékolt nyilatkozatot megküldi a tag részére.
+(7)
 
-(8)–(9)
+(8) Az (1) bekezdés szerinti nyilatkozatot a tag a Szövetséghez elektronikus úton nyújtja be.
+
+(9) A Szövetség a (8) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi a Nemzeti Adó- és Vámhivatalnak (a továbbiakban: NAV), amely az adatok helytállósága esetén a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére.
+
+(9a) A NAV a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
 (10) A kőolaj szekció tagja köteles a NAV ellenőrzést végző szervével egyeztetést lefolytatni, ha a nyilatkozat adatait a NAV nem helytállónak minősítette.
 
@@ -460,7 +464,7 @@ rendeletben állapítsa meg.
 
 54. § (1)–(2)
 
-(3)
+(3) Hatályát veszti a 42. § (7) bekezdése.
 
 (4)
 

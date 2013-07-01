@@ -194,7 +194,12 @@ minősítési szintű.
 
 (3) A személyi biztonsági tanúsítvány kiadásához az érintett az adat minősítési szintjének megfelelő szintű, a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés alapján készített szakvélemény kockázati tényezőt tartalmaz. A személyi biztonsági tanúsítvány a szakvélemény kiállításától számított 5 évig érvényes.
 
-(4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő, e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeket.
+(4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
+
+- a) az e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai és adminisztratív, valamint
+- b) ha a szerv a minősített adatot elektronikus információs rendszeren kezeli, az e törvényben és az elektronikus információbiztonságról szóló törvényben és végrehajtásukra kiadott jogszabályokban meghatározott elektronikus
+
+biztonsági feltételeket.
 
 (5) Minden olyan helyiséget, épületet, építményt, ahol minősített adatot kezelnek, fizikai biztonsági intézkedésekkel kell védeni az arra nem jogosult személyeknek a minősített adathoz történő hozzáférése ellen.
 
@@ -364,7 +369,8 @@ vonatkozó feltételek.
 - q) gondoskodik a biztonsági vezetők részére tartandó képzésről és továbbképzésről,
 - r) együttműködik a Nemzeti Adatvédelmi és Információszabadság Hatósággal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
 - s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza azok zónabesorolását,
-- t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását.
+- t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását,
+- u) elvégzi az elektronikus információbiztonságról szóló jogszabályokban számára meghatározott feladatokat.
 
 (3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
 

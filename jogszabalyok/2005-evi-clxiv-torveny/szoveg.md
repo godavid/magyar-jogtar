@@ -6,7 +6,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 ### A törvény hatálya
 
-1. § E törvény hatálya – a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
+1. § E törvény hatálya – a külön törvényben meghatározott egészségügyi szolgáltatás, a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység, valamint a külön törvényben meghatározott dohánytermék-kiskereskedelmi engedélyköteles tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
 
 2. § E törvény alkalmazásában:
 
@@ -42,6 +42,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 28. üzleten kívüli kereskedés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék forgalmazása céljából a vásárlónak – annak kifejezett kérése nélkül – a lakásán, munkahelyén vagy más tartózkodási helyén való felkeresésével vagy az e célból szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
 - 29. vásár: olyan épület, épületegyüttes vagy terület, ahol rendszerint többen folytatnak idényjellegű vagy meghatározott eseményekhez, naptári napokhoz kötődő eseti jellegű kiskereskedelmi tevékenységet;
 - 30. vendéglátás: kész- vagy helyben készített ételek, italok jellemzően helyben fogyasztás céljából történő forgalmazása, ideértve az azzal összefüggő szórakoztató és egyéb szolgáltató tevékenységet is.
+- 31. üzlet működésével összefüggésben elkövetett jogellenes cselekmény: az üzlet területén, illetve az üzlet bejáratától számított 5 méteres távolságon belül az üzlet működésével közvetlen összefüggésben elkövetett bűncselekmény vagy szabálysértés,
+  - a) amely az üzemeltető, foglalkoztatott tudomásával vagy közreműködésével valósul meg, vagy
+  - b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzletmenet biztosítása érdekében szükséges intézkedés elmulasztása tesz lehetővé, feltéve, hogy az üzemeltető tud, vagy a tőle elvárható gondosság tanúsítása esetén tudhatott volna a foglalkoztatott mulasztásáról.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
@@ -123,7 +126,11 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (7) Vendéglátó üzletben a vendégek szórakoztatására zeneszolgáltatás, műsoros előadás, táncrendezvény vagy egyéb szórakoztató szolgáltatás olyan módon nyújtható, illetve szervezhető, hogy az nem járhat a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal.
 
-(8) Világörökségi területen a szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet 24 óra és 6 óra közötti nyitva tartásához a jegyző engedélye szükséges. Az engedélyezési eljárásban a rendőrség szakhatóságként vesz részt, amely szakhatósági eljárás a tevékenység közbiztonságra gyakorolt hatásával, a személy- és vagyonbiztonsággal kapcsolatos szakkérdésre irányul. A rendőrség a szakhatósági hozzájárulást hivatalból évente felülvizsgálja, illetve lakossági bejelentés alapján bármikor felülvizsgálhatja. Amennyiben a rendőrség a felülvizsgálat során megállapítja a szakhatósági hozzájárulásban előírtak megsértését, a szakhatósági hozzájárulását visszavonja.
+(8) A világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet 24 és 6 óra közötti nyitva tartásához a jegyző engedélye szükséges. Az engedélyezési eljárásban az általános rendőrségi feladatok ellátására létrehozott szerv szakhatóságként vesz részt, amely szakhatósági eljárás a vendéglátó üzlet 24 és 6 óra közötti nyitva tartásának a közbiztonságra gyakorolt hatásával, a személy- és vagyonbiztonsággal kapcsolatos szakkérdésre, továbbá az üzlet működésével összefüggésben elkövetett jogellenes cselekmények megismétlődése veszélyének értékelésére irányul. A jegyző az engedélyt – az általános rendőrségi feladatok ellátására létrehozott szerv szakhatósági közreműködése mellett – hivatalból háromévente felülvizsgálja; amennyiben a megadását követően felmerült körülmények folytán a szakhatósági állásfoglalás a felülvizsgálat során az eredeti tartalommal nem adható meg, a jegyző az engedélyt módosítja vagy visszavonja.
+
+(9) A (8) bekezdés alapján kiadott engedély megadása a korábbi kérelem elutasításától számított legalább hat hónap elteltével kérelmezhető ismételten ugyanarra a helyiségre.
+
+(10) A (8) bekezdés hatálya alá tartozó, a kereskedelemről szóló 2005. évi CLXIV. törvény módosításáról szóló 2013. évi CXVII. törvény (a továbbiakban: Módtv.) hatálybalépésekor működési engedéllyel vagy igazolással, valamint a 24 és 6 óra közötti nyitvatartási jogosultsággal rendelkező, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek esetében, amennyiben a jegyző akár hivatalból, akár a rendőrség írásbeli tájékoztatása alapján észleli, hogy a (8) bekezdés szerinti engedély megadásához szükséges feltételek nem állnak fenn, az üzlet 24 és 6 óra közötti nyitva tartását korlátozhatja.
 
 ### A kereskedelmet kiszolgáló szolgáltató tevékenység folytatásának általános feltételei
 
@@ -260,7 +267,9 @@ nyilvántartást vezet.
 
 (2)
 
-11. § A 6. § (8) bekezdés hatálybalépése előtt kiadott, működési engedéllyel vagy igazolással rendelkező, a 6. § (8) bekezdés hatálya alá tartozó üzletek nyilvántartását a helyi önkormányzat haladéktalanul megküldi a területileg illetékes rendőrkapitányságnak a szakhatósági hozzájárulási eljárás lefolytatására. Amennyiben a rendőrség az üzlet ellenőrzése során vagy hivatalból megállapítja, hogy annak tevékenysége sérti a személy-, vagyon- és közbiztonságot, kezdeményezi a területileg illetékes jegyzőnél az üzlet 24 és 6 óra közötti zárva tartásának elrendelését.
+11. § (1) A Módtv.-vel megállapított 6. § (8) bekezdésében foglalt előírás nem alkalmazható a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény és a kereskedelemről szóló 2005. évi CLXIV. törvény módosításáról szóló 2012. évi CXLIII. törvény hatálybalépésekor működési engedéllyel vagy igazolással, valamint 24 és 6 óra közötti nyitvatartási jogosultsággal rendelkező, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek esetében.
+
+(2) A 6. § (8)–(10) bekezdése nem alkalmazható a Módtv. hatálybalépésekor folyamatban lévő eljárásokban.
 
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
@@ -303,10 +312,12 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, hogy a 6. § (4) bekezdésében meghatározottaknak megfelelően az üzletek éjszakai (22 óra és 6 óra közötti) nyitvatartási rendjét rendeletben szabályozza.
+(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
 (7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket rendeletben szabályozza.
 
 13. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.

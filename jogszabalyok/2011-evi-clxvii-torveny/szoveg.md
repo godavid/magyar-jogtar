@@ -79,7 +79,7 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 (3) A (2) bekezdés alapján nem csökkenthető a szolgálati járandóság összege, ha
 
-- a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor a Hszt. 180. §-a vagy a Hjt. 201. §-a alapján minősítő határozattal megállapították,
+- a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor minősítő határozattal megállapították,
 - b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
 - c) a jogosult önkéntes tartalékos szerződést kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig.
 
@@ -158,14 +158,13 @@ kell érteni.
 
 11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
 
-(2) Nem kell a Tny. 83/C. § (1), (2) és (4) bekezdését alkalmazni, ha a szolgálati járandóságban részesülő személy fegyveres szervvel vagy a Magyar Honvédséggel hivatásos szolgálati viszonyban áll.
+(2)
 
 12. § (1) A korhatár előtti ellátás és a szolgálati járandóság folyósítását szüneteltetni kell, ha a jogosult
 
 - a) a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 4. § (2) bekezdés h) pontjára vagy 40. § (6) bekezdésére tekintettel,
 - b) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 11. § (4a) bekezdés a) pontjára vagy 45/A. §-ára tekintettel,
-- c) a Hszt. 64. § (5) bekezdése vagy 264/C. § (1) bekezdés c) pontja alapján, vagy
-- d) a Hjt. 69. § (5) bekezdése alapján
+- c)–d)
 
 kérelmezi.
 
@@ -176,7 +175,9 @@ kérelmezi.
 14. § (1) A szolgálati járandóság folyósítását szüneteltetni kell, ha a jogosult a szolgálati jogviszonyának időtartama alatt
 
 - a) öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekményt, vagy
-- b) öt évet el nem érő szabadságvesztéssel büntetendő szándékos testi sértés [Btk. 170. § (2) bekezdés], személyi szabadság megsértése [Btk. 175. § (1) bekezdés], emberkereskedelem [Btk. 175/B. § (1) bekezdés], embercsempészés [Btk. 218. § (1) bekezdés], hivatali visszaélés (Btk. 225. §), bántalmazás hivatalos eljárásban [Btk. 226. § (1) bekezdés], vesztegetés [Btk. 251. § (1) bekezdés, 253. § (1) bekezdés, 254. § (1) bekezdés], befolyás vásárlása (Btk. 256/A. §), vesztegetés nemzetközi kapcsolatban [Btk. 258/B. § (1) bekezdés, 258/C. § (1) bekezdés], vagy befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban [Btk. 258/E. § (2) bekezdés] bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült.
+- b) öt évet el nem érő szabadságvesztéssel büntetendő
+  - ba) a 2013. június 30-ig hatályban volt szándékos testi sértés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 170. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (1) bekezdés], emberkereskedelem [1978. évi IV. törvény 175/B. § (1) bekezdés], embercsempészés [1978. évi IV. törvény 218. § (1) bekezdés], hivatali visszaélés (1978. évi IV. törvény 225. §), bántalmazás hivatalos eljárásban [1978. évi IV. törvény 226. § (1) bekezdés], vesztegetés [1978. évi IV. törvény 251. § (1) bekezdés, 253. § (1) bekezdés, 254. § (1) bekezdés], befolyás vásárlása (1978. évi IV. törvény 256/A. §), vesztegetés nemzetközi kapcsolatban [1978. évi IV. törvény 258/B. § (1) bekezdés, 258/C. § (1) bekezdés], vagy befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban [1978. évi IV. törvény 258/E. § (2) bekezdés],
+  - bb) szándékos testi sértés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 164. § (3) bekezdés], személyi szabadság megsértése [Btk. 194. § (1) bekezdés], emberkereskedelem [Btk. 192. § (1) bekezdés], vesztegetés [Btk. 290. § (1) és (4) bekezdés], vesztegetés elfogadása [Btk. 291. § (1) bekezdés], hivatali vesztegetés [Btk. 293. § (1) és (3) bekezdés], befolyás vásárlása (Btk. 298. §), hivatali visszaélés (Btk. 305. §) vagy embercsempészés [Btk. 353. § (1) bekezdés] bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült.
 
 (2) A szolgálati járandóság folyósítását
 
@@ -192,7 +193,7 @@ kell szüneteltetni.
 
 a bűnügyi nyilvántartó szervnek.
 
-(4) A bűnügyi nyilvántartó szerv a (3) bekezdésben meghatározott személyek természetes személyazonosító adatait összeveti a bűntettesek nyilvántartásában kezelt adatokkal. Ha az összevetés alapján a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdés szerinti bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényt, a bűncselekmény vagy bűncselekmények elkövetésének idejét, valamint az érintett természetes személyazonosító adatait továbbítja a Hszt. 199. §-ában és a Hjt. 225. §-ában meghatározott központi személyügyi nyilvántartásokat kezelő szerveknek (a továbbiakban együtt: központi személyügyi nyilvántartást kezelő szerv).
+(4) A bűnügyi nyilvántartó szerv a (3) bekezdésben meghatározott személyek természetes személyazonosító adatait összeveti a bűntettesek nyilvántartásában kezelt adatokkal. Ha az összevetés alapján a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdés szerinti bűncselekményt követett el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényt, a bűncselekmény vagy bűncselekmények elkövetésének idejét, valamint az érintett természetes személyazonosító adatait továbbítja a Hszt. 199. §-ában meghatározott, valamint a Magyar Honvédség központi személyügyi nyilvántartását kezelő szerv részére (a továbbiakban együtt: központi személyügyi nyilvántartást kezelő szerv).
 
 (5) A központi személyügyi nyilvántartást kezelő szerv a bűnügyi nyilvántartó szervtől átvett adatokat összeveti az általa kezelt központi személyügyi nyilvántartás adattartalmával. Ha az összevetés alapján a központi személyügyi nyilvántartást kezelő szerv azt állapítja meg, hogy a (3) bekezdésben meghatározott személy az (1) bekezdésben meghatározott bűncselekményt a szolgálati viszonyának időtartama alatt követte el, és az elítéléshez fűződő hátrányos jogkövetkezmények alól nem mentesült, e tényről, valamint az érintett személy természetes személyazonosító adatairól tájékoztatja a (3) bekezdés a) pontja szerinti esetben a nyugdíjmegállapító szervet, a (3) bekezdés b) pontja szerinti esetben pedig a nyugdíjfolyósító szervet.
 
@@ -273,7 +274,7 @@ a bűnügyi nyilvántartó szervnek.
 
 ### 12–28.
 
-#### 26–60. §
+#### 27–60. §
 
 #### 29.
 

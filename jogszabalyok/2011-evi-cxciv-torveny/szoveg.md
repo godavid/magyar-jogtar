@@ -80,18 +80,27 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 - b) az adósságot keletkeztető ügylet a kormányzati szektorba sorolt egyéb szervezet jogszabályban meghatározott kötelező feladata ellátásához szükséges fejlesztéshez vagy működési költséghez szükséges, és
 - c) a hitel felhasználásával megvalósítandó fejlesztés esetében a fejlesztés kiadásainak megtérülése valószínűsíti a hitel visszafizetését, és a hitel felhasználásának átfogó közgazdasági elemzése a hitel visszafizetése szempontjából megnyugtató eredményre vezet.
 
-10. § (1) Az önkormányzat adósságot keletkeztető ügyletet – a (2) bekezdésben meghatározott kivétellel – érvényesen csak a Kormány előzetes hozzájárulásával köthet.
+10. § (1) A (2) bekezdésben foglaltak és a jogszabályon alapuló, kötelező kezesség-, illetve garanciavállalás kivételével az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat az Áht. szerinti önkormányzati kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
 
-(2) A Kormány hozzájárulása nélkül lehetséges:
+(1a) Települési önkormányzat adósságot keletkeztető ügyletet – a (2) bekezdés szerinti kormányzati engedély nélkül megköthető ügyletek és a (10) bekezdés szerinti adósságmegújító hitel kivételével – csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló 1990. évi C. törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette.
 
-- a) a magyar költségvetést érintő, az Európai Uniós vagy más nemzetközi szervezettől megnyert pályázat önrészének és a támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető kötelezettségvállalásra,
-- b) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre,
-- c) a likvid hitelre vonatkozó, valamint
-- d) a Fővárosi Önkormányzat és a megyei jogú város esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében pedig a 10 millió forintot meg nem haladó fejlesztési célú adósságot keletkeztető ügylet megkötése. A d) pont alkalmazása tekintetében az ugyanazon fejlesztési cél megvalósítását szolgáló fejlesztéshez kapcsolódó ügyletek értékét egybe kell számítani.
+(2) Nincs szükség a Kormány hozzájárulására
+
+- a) a központi költségvetésből nyújtott, európai uniós vagy más nemzetközi szervezettől megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló,
+- b) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozó,
+- c) a likvid hitelre vonatkozó,
+- d) a fővárosi önkormányzat és megyei jogú város esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át meg nem haladó, de legfeljebb 10 millió forint összegű fejlesztési célú adósságot keletkeztető ügylet megkötéséhez, továbbá
+- e) a d) pont szerinti önkormányzat-kategóriákba tartozó önkormányzatok ott leírtak szerinti értékhatárokat meg nem haladó összegű Áht. szerinti önkormányzati kezesség- és garanciavállalásaihoz.
+
+(2a) A (2) bekezdés d) pontjának alkalmazásakor az ugyanazon fejlesztési cél megvalósítását szolgáló fejlesztésekhez kapcsolódó ügyletek értékét egybe kell számítani.
+
+(2b) A (2) bekezdés e) pontjának alkalmazásakor az ugyanazon adósnak nyújtott kezesség- és garanciavállalások értékét egybe kell számítani.
 
 (3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4) Az önkormányzat működési célra csak likvid hitelt vehet fel.
+(4) Az önkormányzat működési célra a (4a) bekezdés szerinti ügylet kivételével csak likvid hitelt vehet fel.
+
+(4a) Az önkormányzat a 2012. december 31-e előtt kötött működési célú ügyletét egyszeri alkalommal, a Kormány előzetes hozzájárulásával naptári éven túli futamidejű adósságmegújító hitellel kiválthatja vagy szerződésmódosítással naptári éven túli futamidejű ügyletté alakíthatja. Ezen adósságmegújító hitel, illetve a szerződésmódosítás eredményeként előálló ügylet összege nem lehet nagyobb, mint az eredeti ügyletből 2012. december 31-én fennálló adósság. A Kormány az előzetes hozzájárulást a (10) bekezdésben meghatározott feltételek teljesülése esetén adja meg.
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
@@ -99,18 +108,25 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja a kormányzati hozzájáruláshoz kötött ügyletek esetében.
 
-(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
+(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járulhat hozzá:
 
-- a) az adósságot keletkeztető ügylet az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
-- b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
-- c) amennyiben teljesül a (3) bekezdés szerinti feltétel.
+- a) az adósságot keletkeztető ügylet – a (7) bekezdés szerinti adatszolgáltatást is figyelembe véve – az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
+- b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi, azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
+- c) ha teljesül az (1a) és a (3) bekezdés szerinti feltétel.
+
+(8a) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a (3) bekezdés és a (8) bekezdés b) pontja szerinti feltétel, azzal, hogy a (3) bekezdés alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.
+
+(8b) A Kormány a (8), (8a) és (10) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.
 
 (9) Az önkormányzat az (1) bekezdés szerinti hozzájárulás iránti kérelméhez
 
 - a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
 - b) kötvény nyilvános kibocsátásának szándéka esetén a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 - c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
-- d) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat mellékeli.
+- d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
+- e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
+
+mellékeli.
 
 (10) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, amennyiben teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.
 
@@ -118,10 +134,10 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
 
-(13) A megkötött adósságot keletkeztető ügyletekre vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
+(13) A megkötött adósságot keletkeztető ügyletekre, valamint a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz a Kormány engedélyét kell kérni, ha
 
-- a) a szerződésmódosítást követően előálló szerződési feltételek mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
-- b) a módosított szerződés az eredetihez képest hosszabb futamidejű, vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket.
+- a) a szerződésmódosítást követően előálló kondíciók mellett kötött ügylet a szerződésmódosítás időpontjában engedélykötelesnek minősül, és
+- b) a módosított szerződés az eredetihez képest hosszabb futamidejű vagy nagyobb ügyletértékű, vagy az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, vagy a kezesség, illetve garancia összege nő.
 
 (14) A szerződésmódosításra vonatkozó, a (13) bekezdés szerinti ügyletekre a (10) bekezdés szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
 
@@ -562,13 +578,9 @@ rendeletben állapítsa meg.
 
 (7) E törvény rendelkezéseit a 2012. január 1-jét követően kihirdetett jogszabályok esetében kell alkalmazni.
 
-48. § (1) Az önkormányzatok 2012. évben lejáró likvid hiteleinek, pénzforgalmi számlához kapcsolódóan nyújtott és egyéb működési hiteleinek változatlan ügyletérték melletti, legfeljebb 2013. június 30-áig való meghosszabbítására, illetve legfeljebb 2013. június 30-áig tartó futamidejű adósságmegújító hitellel történő kiváltására irányuló ügyletek megkötéséhez a Kormány 10. § (1) bekezdése szerinti előzetes hozzájárulása nem szükséges.
+#### 48. §
 
-(2) Az 1. § c) pontjában foglaltaktól eltérően az önkormányzatok esetében likvid hitelnek minősül az a pénzforgalmi számlához kapcsolódóan nyújtott hitel is, amelynek 2012. december 31-én fennálló állománya van.
-
-(3) Az (1) bekezdés rendelkezéseit a hatálybalépését követően megkötött és a hatálybalépésekor fennálló ügyletekre, a (2) bekezdés rendelkezéseit a hatálybalépésekor fennálló ügyletekre kell alkalmazni.
-
-49. § A Magyarország 2013. évi központi költségvetéséről szóló törvény alapján átvállalással érintett önkormányzati adósságot keletkeztető ügyletekre vonatkozó, az átvállalás miatt szükségessé vált szerződésmódosításokhoz nem szükséges a Kormány 10. § (13) bekezdés szerinti hozzájárulása.
+#### 49. §
 
 50. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: 2013. évi CIII. tv.) megállapított 28/A. § (1) és (2) bekezdését a 2013. március 14-e és 16-a közötti időszakban bekövetkezett szélsőséges időjárási körülmények során a mentéshez ellenérték nélkül nyújtott segítségre, továbbá a 2013. évi CIII. tv. hatálybalépését megelőzően, 2013. évben kihirdetett veszélyhelyzetre is alkalmazni kell azzal, hogy a 2013. évi CIII. tv. hatálybalépését megelőzően folytatott 28/A. § szerinti tevékenységvégzés esetén a bejelentési kötelezettséget a 2013. évi CIII. tv. hatálybalépésétől számított 60 napon belül kell teljesíteni.
 

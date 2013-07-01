@@ -290,6 +290,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - f) a felülvizsgálat időpontját;
 - g) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám).
 
+(1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés e) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A kincstár a nyilvántartásból adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.

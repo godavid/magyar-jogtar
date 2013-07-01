@@ -1223,7 +1223,7 @@ biztonsági kockázatú lehet.
 
 (5) Az értékelés eredményét a Minősítő Bizottság a sportrendezvények biztonsági minősítése során figyelembe veszi. A Minősítő Bizottság súlyos vagy ismétlődő hiányosságok esetén javaslatot tesz a sportpolitikáért felelős miniszter részére a szakszövetség vagy a tagszervezeteként működő sportszervezet állami támogatásának felfüggesztésére, illetve visszavonására.
 
-(6) A sportszövetség az (1) bekezdésben meghatározott helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével. Az értékelést írásba foglalja és – különösen az eltiltásokkal és azok érvényesítésével kapcsolatban – megteszi a fejlesztés végrehajtása érdekében szükséges intézkedéseket.
+(6) A sportszövetség az (1) bekezdésben meghatározott helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével. Az értékelést írásba foglalja és – különösen az eltiltásokkal és a kizárásokkal, valamint azok érvényesítésével kapcsolatban – megteszi a fejlesztés végrehajtása érdekében szükséges intézkedéseket.
 
 ### A rendező
 
@@ -1250,7 +1250,7 @@ biztonsági kockázatú lehet.
 - b) nem áll nyilvánvalóan alkohol, kábítószer vagy más bódító hatású szer befolyása alatt,
 - c) nem tart magánál szeszes italt, kábítószert, valamint olyan tárgyat, amely a sportrendezvény megtartását, továbbá mások személyi és vagyonbiztonságát veszélyezteti, vagy amelynek a sportrendezvényre való bevitelét a szervező a belépőjegy vásárlását megelőzően megtiltotta, és erről a belépőjegy vásárlóját megfelelő módon tájékoztatta,
 - d) nem tart magánál mások iránti gyűlöletre uszító feliratot, zászlót vagy egyébként jogszabály által tiltott önkényuralmi jelképet,
-- e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint szabálysértési kitiltás hatálya alatt;
+- e) nem áll a 73. § (1) bekezdése szerinti kizárás, a sportrendezvények látogatásától eltiltás büntetés vagy a szabálysértési kitiltás hatálya alatt,
 - f) vállalja, hogy a rendező felszólítására igazolja személyazonosságát, valamint
 - g) tudomásul veszi, hogy a sportrendezvény ideje alatt róla kép- és hangfelvétel készíthető.
 
@@ -1264,17 +1264,19 @@ biztonsági kockázatú lehet.
 
 (5) A szervező a résztvevőt a beléptetés feltételeiről, az ellenőrzés módjáról és az eltávolítás lehetőségéről a sportlétesítményen kívül és annak területén jól látható, piktogramokkal is ellátott, aktualizált hirdetményeken, valamint a belépőjegyen és a bérleten köteles – magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is – tájékoztatni.
 
-72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
+72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat, a labdarúgás sportág tekintetében a kiemelt biztonsági kockázatú sportrendezvény és a fokozott biztonsági kockázatú sportrendezvény esetében beléptető rendszert alkalmaz. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
 
 (2) Beléptető rendszer alkalmazása esetén a szervező
 
-- a) csak névre szóló belépőjegyet, bérletet értékesíthet;
-- b) személyazonosításra alkalmas, kedvezményekre jogosító kártya (a továbbiakban: klubkártya) kiváltását teheti kötelezővé;
+- a) csak névre szóló belépőjegyet, bérletet értékesíthet,
+- b) személyazonosításra alkalmas, kedvezményekre jogosító kártya (a továbbiakban: klubkártya) kiváltását teheti kötelezővé, valamint
 - c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának személyazonosságát ellenőrzi, és személyes adatait egybeveti a belépőjegy, a bérlet vagy a klubkártya adataival.
 
 (3) Ha a beléptetéskor a belépőjegy, a bérlet vagy a klubkártya birtokosának személyes adatai nem egyeznek a személyazonosság igazolására alkalmas igazolványban szereplő adatokkal, a beléptetést meg kell tagadni.
 
-(4) Nem állítható ki névre szóló belépőjegy, bérlet, illetve klubkártya olyan személy részére, aki a sportrendezvény látogatásától eltiltás vagy a sportrendezvényről, sportlétesítményből kitiltás hatálya alatt áll.
+(4) A szervező vagy a jegyértékesítést a szervező megbízásából végző személy a belépőjegy, bérlet eladásakor, valamint a beléptetés során jogosult a néző személyazonosságát a személyazonosság igazolására alkalmas igazolvány alapján megállapítani.
+
+(5) Beléptető rendszer alkalmazása esetén a szervező vagy a jegyértékesítést a szervező megbízásából végző személy a belépőjegy, a bérlet vagy a klubkártya eladásakor, valamint a rendező a beléptetés során a néző személyazonosságát egybeveti a sportrendészeti nyilvántartás adataival. A sportrendészeti nyilvántartásban szereplő személynek belépőjegy, bérlet vagy klubkártya nem értékesíthető, az eltiltó és a kitiltó határozat szerinti sportrendezvény helyszínére, illetve sportlétesítménybe történő belépését meg kell tagadni.
 
 72/A. § (1) A szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet e tevékenységi körében névre szóló belépőjegyet és bérletet – ha a szervező sportszervezet, akkor klubkártyát is – állíthat ki és értékesíthet. A belépőjegyen, bérleten, valamint klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét, valamint lakcímét az azokat kibocsátó szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet vagy sportszervezet a belépőjegy, a bérlet, illetve a klubkártya érvényességének lejáratát követő 3 munkanapig nyilvántartja.
 
@@ -1282,17 +1284,17 @@ biztonsági kockázatú lehet.
 
 (3) Az (1) bekezdésben meghatározott határidőn belül a (2) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség, illetve a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
 
-### Az eltiltás
+### A sportrendezvényen történő részvételből való kizárás
 
-73. § (1) A szervező az általa szervezett sportrendezvény esetén köteles a sportrendezvényről eltávolított személy részére a belépőjegy-eladást megtagadni, valamint megakadályozni, hogy a sportrendezvényen részt vehessen (a továbbiakban együtt: sportrendezvény látogatásától eltiltás). A sportrendezvény látogatásától eltiltás lehetőségéről a szervező a sportlétesítményen kívül és annak területén jól látható hirdetményben köteles tájékoztatást adni, amit – általános szerződési feltételként – magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is fel kell tüntetni.
+73. § (1) A szervező az általa szervezett sportrendezvény esetén köteles a sportrendezvényről eltávolított személy részére a belépőjegy-eladást megtagadni, valamint megakadályozni, hogy a sportrendezvényen részt vehessen (a továbbiakban együtt: sportrendezvényen történő részvételből való kizárás). A sportrendezvényen történő részvételből való kizárás lehetőségéről a szervező a sportlétesítményen kívül és annak területén jól látható hirdetményben köteles tájékoztatást adni, amit – általános szerződési feltételként – magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is fel kell tüntetni.
 
-(2) A sportrendezvény látogatásától eltiltás időtartama hat hónapnál rövidebb nem lehet és a szervező által szervezett minden sportrendezvényre vonatkozó eltiltás esetén a két évet, míg a meghatározott sportlétesítményre vonatkozó eltiltás esetén a négy évet nem haladhatja meg.
+(2) A sportrendezvényen történő részvételből való kizárás időtartama hat hónapnál rövidebb nem lehet és a szervező által szervezett minden sportrendezvényre vonatkozó kizárás esetén a két évet, a meghatározott sportlétesítményre vonatkozó kizárás esetén a négy évet nem haladhatja meg.
 
-(3) A szervezőnek a sportrendezvény látogatásától eltiltásra vonatkozó döntése ellen a néző bírósághoz fordulhat.
+(3) A szervezőnek a sportrendezvényen történő részvételből való kizárásra vonatkozó döntése ellen a néző bírósághoz fordulhat.
 
-(4) A sportrendezvény látogatásától eltiltható az a személy is, akit a 71. § (3) bekezdése alapján el kellett volna távolítani, de erre azért nem került sor, mert a sportrendezvény helyszínén való szervezői (rendezői) beavatkozás következtében olyan nézői cselekmény volt várható, amely a sportrendezvény biztonságát aránytalanul veszélyeztette volna.
+(4) A sportrendezvényen történő részvételből kizárható az a személy is, akit a 71. § (3) bekezdése alapján el kellett volna távolítani, de erre azért nem került sor, mert a sportrendezvény helyszínén való szervezői (rendezői) beavatkozás következtében olyan nézői cselekmény volt várható, amely a sportrendezvény biztonságát aránytalanul veszélyeztette volna.
 
-(5) A szervező az általa eltiltott személy nevét, születési helyét és idejét, az eltiltás időtartamát, a sportlétesítmény megnevezését, valamint azon sportrendezvények körét, amelyre az eltiltás hatálya kiterjed, 3 napon belül továbbítja a sportrendészeti nyilvántartásba.
+(5) A szervező az általa kizárt személy nevét, születési helyét és idejét, a kizárás időtartamát, a sportlétesítmény megnevezését, valamint azon sportrendezvények körét, amelyre kizárás hatálya kiterjed, 3 napon belül továbbítja a sportrendészeti nyilvántartásba.
 
 (6) A sportrendészeti nyilvántartásból – a jegyértékesítés és a sportrendezvényre történő beléptetés céljából –
 
@@ -1330,13 +1332,20 @@ igényelhet adatot.
 
 ### A sportrendészeti nyilvántartás
 
-76/A. § (1) A rendőrség a sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek e törvény alapján nyilvántartott személyes adatait a sportrendezvények biztonságának védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, mások jogainak védelme, a jegyértékesítés, valamint a sportrendezvényre történő belépés megtagadásának megállapítása céljából kezeli.
+76/A. § (1) A rendőrség a sportrendezvényen történő részvételből a szervező által kizárt, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott vagy a sportrendezvények látogatásától eltiltott személyek e törvény alapján nyilvántartott személyes adatait a sportrendezvények biztonságának védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, mások jogainak védelme, a jegyértékesítés, valamint a sportrendezvényre történő belépés megtagadásának megállapítása céljából kezeli.
 
-(2) A sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek nyilvántartása (a továbbiakban: sportrendészeti nyilvántartás) a hatálya alá tartozó személyek következő adatait tartalmazza:
+(2) A sportrendezvényen történő részvételből a szervező által kizárt, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott vagy a sportrendezvények látogatásától eltiltott személyek nyilvántartása (a továbbiakban: sportrendészeti nyilvántartás) a hatálya alá tartozó személyek következő adatait tartalmazza:
 
 - a) a családi és utónév,
 - b) a születési hely és idő, valamint
 - c) az anyja születési családi és utóneve.
+
+(2a) A sportrendezvények látogatástól eltiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+
+- a) az eltiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+- b) az elkövetett bűncselekmény megnevezését és minősítését,
+- c) az eltiltás időtartamát, továbbá
+- d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre az eltiltás hatálya kiterjed.
 
 (3) A kitiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
 
@@ -1345,21 +1354,25 @@ igényelhet adatot.
 - c) a kitiltás időtartamát, továbbá
 - d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre a kitiltás hatálya kiterjed.
 
-(4) Az eltiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+(4) A sportrendezvényen történő részvételből való kizárás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
 
-- a) az eltiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
-- b) az eltiltó szervezet megnevezését,
-- c) az eltiltás időtartamát, továbbá
-- d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre az eltiltás hatálya kiterjed.
+- a) a kizárt személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+- b) a kizárást elrendelő szervezet megnevezését,
+- c) a kizárás időtartamát, továbbá
+- d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre a kizárás hatálya kiterjed.
 
-(5) A rendőrség a sportrendészeti nyilvántartás adatait az eltiltás, valamint a kitiltás időtartamáig kezeli. Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
+(4a) A (2a) bekezdés b)–d) pontjában, a (3) bekezdés b)–d) pontjában, valamint a (4) bekezdés b)–d) pontjában foglalt adatok tekintetében a nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A rendőrség a sportrendészeti nyilvántartás adatait az eltiltás, valamint a kitiltás és a kizárás időtartamáig kezeli. Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
 
 (6) A sportrendészeti nyilvántartásból a rendőrség
 
 - a) a közrend és a közbiztonság védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére a (2)–(4) bekezdésben foglalt,
-- b) a rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek a (3) bekezdés a) és d) pontjában, valamint az (4) bekezdés a) és d) pontjában meghatározott
+- b) a rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek a (2a) bekezdés a) és d) pontjában, a (3) bekezdés a) és d) pontjában, valamint az (4) bekezdés a) és d) pontjában meghatározott
 
 adatokat továbbítja.
+
+(6a) A (2a) bekezdésben foglalt adatokat az a bíróság közli a sportrendészeti nyilvántartást vezető szervvel, amely előtt a büntetőeljárás befejeződött.
 
 (7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a szabálysértési nyilvántartás adatait adja át.
 
