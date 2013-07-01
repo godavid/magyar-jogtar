@@ -1782,7 +1782,7 @@ Ptk.232. § (1) A szerződéses kapcsolatokban – ha jogszabály kivételt nem 
 
 (2) Az államháztartás alrendszereiben harmadik személyekkel szemben vállalt vagy az alrendszereket egyébként harmadik személyekkel szemben terhelő fizetési kötelezettség esetén, ide értve a támogatási szerződésekből eredő fizetési kötelezettséget is, a kamatfizetés mellőzésére vagy a törvényesnél alacsonyabb mértékű kamat fizetésére irányuló szerződési kikötés – ha jogszabály eltérően nem rendelkezik – semmis. Ezt a rendelkezést kell alkalmazni az államháztartás alrendszereiből nyújtott támogatások felhasználására kötött szerződésekben, valamint a jogszabályban meghatározott közfeladat ellátásával megbízott és e körben olyan szervezetek által vállalt fizetési kötelezettség esetében is, amelyet államháztartási szervezet alapított, vagy amelyben ilyen szervezet többségi befolyással rendelkezik.
 
-(3) A kamat mértéke – ha azt a felek nem határozták meg és jogszabály kivételt nem tesz – megegyezik a jegybanki alapkamattal. A magánszemélyek egymás közötti viszonyában kikötött kamat – ha jogszabály eltérően nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis. A fizetendő kamat számításakor az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
+(3) A kamat mértéke – ha azt a felek nem határozták meg és jogszabály kivételt nem tesz – megegyezik a jegybanki alapkamattal. A magánszemélyek egymás közötti viszonyában kikötött kamat – ha jogszabály eltérően nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis. A fizetendő kamat számításakor az érintett naptári félév első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
 
 (4) A felek által túlzott mértékben megállapított kamatot a bíróság mérsékelheti.
 
@@ -1814,7 +1814,7 @@ Ptk.236. § (1) A megtámadást egy éven belül írásban kell a másik féllel
 
 - a) a tévedés, megtévesztés felismerésekor;
 - b) jogellenes fenyegetés esetében a kényszerhelyzet megszűntekor;
-- c) a felek szolgáltatásainak feltűnő aránytalansága vagy tisztességtelen szerződési feltétel [209/A. § (1) bekezdés, 301/A. § (4) bekezdés] esetén a sérelmet szenvedő fél teljesítésekor – részletekben történő teljesítésnél az első teljesítéskor –, illetve, ha ő a teljesítéskor kényszerhelyzetben volt, ennek megszűntekor.
+- c) a felek szolgáltatásainak feltűnő aránytalansága vagy tisztességtelen szerződési feltétel [209/A. § (1) bekezdés, 292/A. § (4) bekezdés, 301/A. § (4) bekezdés, 405. § (1) bekezdés és 407/A. § (1) bekezdés] esetén a sérelmet szenvedő fél teljesítésekor – részletekben történő teljesítésnél az első teljesítéskor –, illetve, ha ő a teljesítéskor kényszerhelyzetben volt, ennek megszűntekor.
 
 (3) A megtámadási határidőre az elévülés nyugvásának és megszakadásának szabályai megfelelően irányadók. A megtámadásra jogosult a szerződésből eredő követeléssel szemben kifogás útján megtámadási jogát akkor is érvényesítheti, ha a megtámadási határidő már eltelt.
 
@@ -2392,6 +2392,44 @@ Ptk.292. § (1) A pénztartozás teljesítésének helye – ha jogszabály kiv�
 
 (2) A jogosult a határnapot megelőzően, illetőleg a határidő kezdete előtt felajánlott teljesítést is köteles elfogadni; ilyenkor a teljesítés és a lejárat közötti időre kamat vagy kártalanítás nem jár. A feleknek az ilyen kamatra vagy kártalanításra vonatkozó megállapodása – jogszabály engedélye hiányában – semmis; a semmisség a szerződés egyéb rendelkezéseire nem hat ki.
 
+Ptk.292/A. § (1) Ha a felek a szerződésben a pénztartozás teljesítésének idejét nem határozták meg, a pénztartozást a jogosult fizetési felszólításának vagy számlájának kézhezvételétől számított harminc napon belül kell teljesíteni.
+
+(2) A jogosult teljesítésétől számított harminc napon belül kell teljesíteni a pénztartozást, ha
+
+- a) a jogosult fizetési felszólításának vagy számlájának kézhezvétele a jogosult teljesítését (építési, valamint szerelési szerződés esetén az átadás-átvételi eljárás befejezését) megelőzte;
+- b) nem állapítható meg egyértelműen a jogosult fizetési felszólítása vagy számlája kézhezvételének időpontja; vagy
+- c) a kötelezettnek fizetési felszólítás vagy számla bevárása nélkül teljesítenie kell fizetési kötelezettségét.
+
+(3) Gazdálkodó szervezetek közötti szerződésben az ellenkező bizonyításáig a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult gazdálkodó szervezet hátrányára eltérő szerződési feltételnek kell tekinteni a pénztartozás teljesítésére az (1) és (2) bekezdésben foglaltaktól eltérő, hatvan napnál hosszabb határidőt meghatározó szerződési feltételt.
+
+(4) Ha a jogosult gazdálkodó szervezet, gazdálkodó szervezetek közötti szerződésben, a jogosult gazdálkodó szervezet hátrányára az e § rendelkezéseitől a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul eltérő szerződési feltételt a jogosult megtámadhatja.
+
+(5) A gazdálkodó szervezetek közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének határidejét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult gazdálkodó szervezet hátrányára megállapító kikötést a külön jogszabályban meghatározott szervezet is megtámadhatja. A megtámadás alapossága esetén a bíróság a kikötés érvénytelenségét a kikötés alkalmazójával szerződő valamennyi félre kiterjedő hatállyal megállapítja. Az érvénytelenség megállapítása nem érinti azokat a szerződéseket, amelyeket a megtámadásig már teljesítettek.
+
+(6) A külön jogszabályban meghatározott szervezet kérheti továbbá az olyan, az (5) bekezdés szerinti általános szerződési feltétel tisztességtelenségének megállapítását, amelyet szerződéskötések céljából határoztak meg és tettek nyilvánosan megismerhetővé, akkor is, ha az érintett feltétel még nem került alkalmazásra. A bíróság a sérelmes általános szerződési feltétel tisztességtelenségének megállapítása esetén eltiltja a nyilvánosságra hozót a feltétel alkalmazásától.
+
+(7) Az (5) és a (6) bekezdés szerinti eljárásban a bíróság az igény érvényesítőjének kérelmére elrendeli, hogy a szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója saját költségére gondoskodjék a szerződési feltétel tisztességtelenségének megállapítására vonatkozó közlemény közzétételéről. A közlemény szövegéről és a közzététel módjáról a bíróság határoz. A közleménynek tartalmaznia kell az érintett szerződési feltétel pontos meghatározását, tisztességtelenségének megállapítását, valamint az e jellegét alátámasztó érveket.
+
+Ptk.292/B. § (1) A szerződő hatóság – szerződő hatóságnak nem minősülő személlyel kötött szerződése esetén – a pénztartozást a következő szabályok szerint köteles teljesíteni:
+
+- a) a pénztartozás teljesítési határideje nem haladhatja meg a jogosult fizetési felszólítása vagy számlája szerződő hatóság általi kézhezvételének napját követő harminc napot; a számla kézhezvételének napja nem képezheti a felek között érvényes megállapodás tárgyát;
+- b) amennyiben nem állapítható meg egyértelműen a jogosult fizetési felszólítása vagy számlája szerződő hatóság általi kézhezvételének időpontja, vagy a szerződő hatósággal szerződő fél fizetési felszólításának vagy számlájának szerződő hatóság általi kézhezvétele a szerződő hatósággal szerződő fél teljesítését megelőzte, a pénztartozás teljesítési határideje nem haladhatja meg a szerződésben meghatározott módon és tartalommal történő teljesítés (építési, valamint szerelési szerződés esetén az átadás-átvételi eljárás befejezésének) napját követő harminc napot.
+
+(2) A szerződésben foglalt, a pénztartozás teljesítésére kikötött határidő az (1) bekezdés a) és b) pontjában meghatározott határidőket csak akkor haladhatja meg, ha a szerződésben a felek a pénztartozás halasztott teljesítésében állapodtak meg, feltéve hogy az a szerződés jellege miatt tényszerűen indokolt; a pénztartozás teljesítésére kikötött határidő ebben az esetben sem haladhatja meg a hatvan napot. A felek által a pénztartozás teljesítésére kikötött határidő a hatvan napot meghaladó részében semmis.
+
+(3) Az (1) bekezdés rendelkezéseitől eltérően, a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára kikötött olyan határidőt, amely a hatvan napot nem haladja meg, a jogosult megtámadhatja.
+
+(4) A szerződő hatóság és a gazdálkodó szervezet közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének határidejét
+
+- a) hatvan napnál hosszabb határidőben meghatározó szerződési kikötés hatvan napot meghaladó része semmisségének megállapítását; vagy
+- b) az (1) bekezdés rendelkezéseitől eltérően, a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult gazdálkodó szervezet hátrányára meghatározó, hatvan napot meg nem haladó határidőre vonatkozó kikötés megtámadásával a kikötés érvénytelenségének megállapítását
+
+a külön jogszabályban meghatározott szervezet is kérheti. A kérelem alapossága esetén a bíróság a kikötés semmisségét, illetve érvénytelenségét a kikötés alkalmazójával szerződő valamennyi félre kiterjedő hatállyal megállapítja. A semmisség, illetve az érvénytelenség megállapítása nem érinti azokat a szerződéseket, amelyeket már teljesítettek.
+
+(5) A külön jogszabályban meghatározott szervezet kérheti továbbá az olyan, a (4) bekezdés szerinti általános szerződési feltétel semmisségének, illetve tisztességtelenségének megállapítását, amelyet szerződéskötések céljából határoztak meg és tettek nyilvánosan megismerhetővé, akkor is, ha az érintett feltétel még nem került alkalmazásra. A bíróság a sérelmes általános szerződési feltétel semmisségének, illetve tisztességtelenségének megállapítása esetén eltiltja a nyilvánosságra hozót a feltétel alkalmazásától.
+
+(6) A (4) és az (5) bekezdés szerinti eljárásban a bíróság az igény érvényesítőjének kérelmére elrendeli, hogy a szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója saját költségére gondoskodjék a szerződési feltétel semmisségének, illetve tisztességtelenségének megállapítására vonatkozó közlemény közzétételéről. A közlemény szövegéről és a közzététel módjáról a bíróság határoz. A közleménynek tartalmaznia kell az érintett szerződési feltétel pontos meghatározását, semmisségének, illetve tisztességtelenségének megállapítását, valamint az e jellegét alátámasztó érveket.
+
 Ptk.293. § Ha a kötelezett kamattal és költséggel is tartozik, és a fizetett összeg az egész tartozás kiegyenlítésére nem elég, azt elsősorban a költségre, azután a kamatra és végül a főtartozásra kell elszámolni. A kötelezett eltérő rendelkezése hatálytalan.
 
 Ptk.294. § Az állami pénzintézeti számlarendszerbe bevont szervezetek fizetéseire vonatkozó rendelkezéseket külön jogszabály tartalmazza.
@@ -2420,7 +2458,7 @@ Ptk.297. § (1) Beszámításnak nincs helye olyan szolgáltatással szemben, am
 
 Ptk.298. § A kötelezett késedelembe esik,
 
-- a) ha a szerződésben megállapított vagy a szolgáltatás rendeltetéséből kétségtelenül megállapítható teljesítési idő eredménytelenül eltelt:
+- a) ha a szerződésben vagy jogszabályban meghatározott, vagy a szolgáltatás rendeltetéséből kétségtelenül megállapítható teljesítési idő eredménytelenül eltelt:
 - b) más esetekben, ha kötelezettségét a jogosult felszólítására nem teljesíti.
 
 Ptk.299. § (1) A kötelezett köteles megtéríteni a jogosultnak a késedelemből eredő kárát, kivéve, ha bizonyítja, hogy a késedelem elhárítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
@@ -2433,35 +2471,49 @@ Ptk.300. § (1) A jogosult – függetlenül attól, hogy a kötelezett késedel
 
 (3)
 
-Ptk.301. § (1) Pénztartozás esetében – ha jogszabály eltérően nem rendelkezik – a kötelezett a késedelembe esés időpontjától kezdve akkor is köteles a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot fizetni, ha a tartozás egyébként kamatmentes. A kamatfizetési kötelezettség akkor is beáll, ha a kötelezett késedelmét kimenti.
+Ptk.301. § (1) Pénztartozás esetében – ha jogszabály eltérően nem rendelkezik – a kötelezett a késedelembe esés időpontjától kezdve akkor is köteles a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal – ha a pénztartozást idegen pénznemben kell teljesíteni, az adott pénznemre a kibocsátó jegybank által meghatározott alapkamattal, ennek hiányában a pénzpiaci kamattal – megegyező mértékű kamatot fizetni, ha a tartozás egyébként kamatmentes. A kamatfizetési kötelezettség akkor is beáll, ha a kötelezett késedelmét kimenti.
 
-(2) Az államháztartás alrendszereiben harmadik személyekkel szemben vállalt vagy az alrendszereket egyébként harmadik személyekkel szemben terhelő fizetési kötelezettség késedelmes teljesítése esetén a késedelmi kamat tekintetében is alkalmazni kell a kamatfizetés mellőzésére vagy a törvényesnél alacsonyabb mértékű kamatfizetésre irányuló szerződési kikötés semmisségére vonatkozó rendelkezést.
+(2) A kamat számításakor a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
 
-(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat egyharmadával megegyező mértékű kamatot, de összességében legalább az (1) bekezdésben meghatározott kamatot köteles megfizetni. A magánszemélyek egymás közötti viszonyában kikötött késedelmi kamat – ha jogszabály másként nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis.
+(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat – ha a pénztartozást idegen pénznemben kell teljesíteni, az adott pénznemre a kibocsátó jegybank által meghatározott alapkamat, ennek hiányában a pénzpiaci kamat – egyharmadával megegyező késedelmi kamatot, de összesen legalább az (1) bekezdésben meghatározott kamatot köteles fizetni. A magánszemélyek egymás közötti viszonyában kikötött késedelmi kamat – ha jogszabály másként nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis.
 
 (4) A felek által túlzott mértékben megállapított késedelmi kamatot a bíróság mérsékelheti.
 
 (5) A jogosult követelheti a késedelmi kamatot meghaladó kárát.
 
-Ptk.301/A. § (1) Gazdálkodó szervezetek között a késedelmi kamatra vonatkozó szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+Ptk.301/A. § (1) Gazdálkodó szervezetek közötti szerződések esetén a késedelmi kamatra vonatkozó általános szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A késedelmi kamat mértéke a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat hét százalékkal növelt összege.
+(2) A késedelmi kamat mértéke a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat – ha a pénztartozást idegen pénznemben kell teljesíteni, az adott pénznemre a kibocsátó jegybank által meghatározott alapkamat, ennek hiányában a pénzpiaci kamat – nyolc százalékponttal növelt értéke. A kamat számításakor a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére. A késedelmi kamatot kizáró szerződési feltétel semmis, kivéve, ha a kötelezett késedelme esetére kötbér fizetésére köteles.
 
-(3) A kamatfizetési kötelezettség a jogosult fizetési felszólításának (számlájának) kézhezvételétől számított harminc nap elteltétől esedékes, illetve a jogosult teljesítésétől számított harminc nap elteltétől, ha a jogosult fizetési felszólításának (számlájának) kézhezvétele a jogosult teljesítését megelőzte, vagy a kézhezvétel időpontja nem állapítható meg.
+(3) Ha a kötelezett késedelembe esik, köteles a jogosultnak a követelése behajtásával kapcsolatos költségei fedezésére legalább negyven eurónak a Magyar Nemzeti Bank késedelmi kamatfizetési kötelezettség kezdőnapján érvényes hivatalos deviza-középárfolyama szerint megfelelő forintösszeget megfizetni. E kötelezettség teljesítése nem mentesít a késedelem egyéb jogkövetkezményei alól; a kártérítésbe azonban a behajtási költségátalány összege beszámít. Az e bekezdésben foglaltaktól eltérő kikötés semmis.
 
-(4) A késedelmi kamat mértékét vagy esedékességét a (2) és (3) bekezdésben foglaltaktól eltérően, a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító szerződési kikötést a jogosult megtámadhatja.
+(4) A késedelmi kamat mértékét a (2) bekezdésben foglaltaktól eltérően, a késedelmi kamat esedékességét a 292/A. § (1)–(3) bekezdésében meghatározott fizetési határidőt követő naptól eltérően a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító szerződési kikötést a jogosult megtámadhatja.
 
-(5) Az általános szerződési feltételként a szerződés részévé váló, a (4) bekezdés szerinti kikötést a külön jogszabályban meghatározott szervezet is megtámadhatja a bíróság előtt. A megtámadás alapossága esetén a bíróság a kikötés érvénytelenségét a kikötés alkalmazójával szerződő valamennyi félre kiterjedő hatállyal megállapítja. Az érvénytelenség megállapítása nem érinti azokat a szerződéseket, amelyeket a megtámadásig már teljesítettek.
+(5) Az általános szerződési feltételként a szerződés részévé váló, a késedelmi kamat mértékét, esedékességét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító kikötést a külön jogszabályban meghatározott szervezet is megtámadhatja. A megtámadás alapossága esetén a bíróság a kikötés érvénytelenségét a kikötés alkalmazójával szerződő valamennyi félre kiterjedő hatállyal megállapítja. Az érvénytelenség megállapítása nem érinti azokat a szerződéseket, amelyeket a megtámadásig már teljesítettek.
 
-(6) A külön jogszabályban meghatározott szervezet kérheti továbbá az olyan, a (4) bekezdés szerinti általános szerződési feltétel tisztességtelenségének megállapítását, amelyet szerződéskötések céljából határoztak meg és tettek nyilvánosan megismerhetővé, akkor is, ha az érintett feltétel még nem került alkalmazásra. A bíróság a sérelmes általános szerződési feltétel tisztességtelenségének megállapítása esetén eltiltja a nyilvánosságra hozót a feltétel alkalmazásától.
+(6) A külön jogszabályban meghatározott szervezet kérheti továbbá az (5) bekezdés szerinti olyan általános szerződési feltétel tisztességtelenségének megállapítását, amelyet szerződéskötések céljából határoztak meg és tettek nyilvánosan megismerhetővé, akkor is, ha az érintett feltétel még nem került alkalmazásra. A bíróság a sérelmes általános szerződési feltétel tisztességtelenségének megállapítása esetén eltiltja a nyilvánosságra hozót a feltétel alkalmazásától.
 
-(7) A (2) és (3) bekezdésben foglaltaktól jogszabály csak a jogosult javára térhet el.
+(7) Az (5) és a (6) bekezdés szerinti eljárásban a bíróság az igény érvényesítőjének kérelmére elrendeli, hogy a szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója saját költségére gondoskodjék a szerződési feltétel tisztességtelenségének megállapítására vonatkozó közlemény közzétételéről. A közlemény szövegéről és a közzététel módjáról a bíróság határoz. A közleménynek tartalmaznia kell az érintett szerződési feltétel pontos meghatározását, tisztességtelenségének megállapítását, valamint az e jellegét alátámasztó érveket.
 
-(8) A felek által a (2) bekezdésben meghatározotthoz képest túlzottan alacsony mértékben megállapított késedelmi kamatot, továbbá a késedelmi kamat esedékességének a (3) bekezdésben meghatározottól eltérően megállapított időpontját a bíróság megváltoztathatja, kivéve, ha a törvény rendelkezéseitől való eltérést a szerződéskötéskor fennálló körülmények indokolták.
+(8) A külön jogszabályban meghatározott szervezet kérheti az olyan általános szerződési feltétel semmisségének megállapítását, amely kizárja a késedelmi kamat, illetve kizárja vagy korlátozza a követelés behajtásával kapcsolatos költségek megfizetésére vonatkozó kötelezettséget. A semmisség megállapítására a 292/B. § (4)–(6) bekezdésében foglaltakat alkalmazni kell.
 
-Tvr.5/D. § (1) A Ptk. 301/A. §-ának (5) bekezdése szerinti megtámadásra, valamint a 301/A. § (6) bekezdése szerinti eljárás kezdeményezésére jogosult a kis- és középvállalkozások érdekeinek képviseletét ellátó társadalmi szervezet.
+Ptk.301/B. § (1) A szerződő hatóság szerződő hatóságnak nem minősülő személlyel kötött szerződése esetén a késedelmi kamatra vonatkozó általános szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Az 5/B. §-ban foglaltakat megfelelően alkalmazni kell a Ptk. 301/A. §-ának (5) és (6) bekezdése alapján indított eljárásokban is.
+(2) A késedelmi kamat mértéke a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat – ha a pénztartozást idegen pénznemben kell teljesíteni, az adott pénznemre a kibocsátó jegybank által meghatározott alapkamat, ennek hiányában a pénzpiaci kamat – legalább nyolc százalékponttal növelt értéke. A kamat számításakor a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére. A késedelmi kamatot kizáró vagy korlátozó szerződési feltétel semmis, kivéve, ha a kötelezett késedelme esetére kötbér fizetésére köteles.
+
+(3) Ha a kötelezett késedelembe esik, köteles a jogosultnak a követelése behajtásával kapcsolatos költségei fedezésére legalább negyven eurónak a Magyar Nemzeti Bank késedelmi kamatfizetési kötelezettség kezdőnapján érvényes hivatalos deviza-középárfolyama szerint megfelelő forintösszeget megfizetni. E kötelezettség teljesítése nem mentesít a késedelem egyéb jogkövetkezményei alól; a kártérítésbe azonban a behajtási költségátalány összege beszámít. Az e bekezdésben foglaltaktól eltérő kikötés semmis.
+
+(4) A késedelmi kamat esedékességét a 292/B. § (1)–(2) bekezdésében meghatározott fizetési határidőt követő naptól eltérően megállapító szerződési kikötés semmis.
+
+(5) A szerződő hatóság és a gazdálkodó szervezet közötti szerződés részévé általános szerződési feltételként váló, a (2)–(4) bekezdésben foglaltaktól eltérő szerződési kikötés semmisségének megállapítását a külön jogszabályban meghatározott szervezet is kérheti. A kérelem alapossága esetén a bíróság a kikötés semmisségét a kikötés alkalmazójával szerződő valamennyi félre kiterjedő hatállyal megállapítja. A semmisség megállapítása nem érinti azokat a szerződéseket, amelyeket már teljesítettek.
+
+(6) A külön jogszabályban meghatározott szervezet kérheti továbbá az (5) bekezdés szerinti olyan általános szerződési feltétel semmisségének megállapítását, amelyet szerződéskötések céljából határoztak meg és tettek nyilvánosan megismerhetővé, akkor is, ha az érintett feltétel még nem került alkalmazásra. A bíróság a sérelmes általános szerződési feltétel semmisségének megállapítása esetén eltiltja a nyilvánosságra hozót a feltétel alkalmazásától.
+
+(7) Az (5) és a (6) bekezdés szerinti eljárásban a bíróság az igény érvényesítőjének kérelmére elrendeli, hogy a szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója saját költségére gondoskodjék a szerződési feltétel semmisségének megállapítására vonatkozó közlemény közzétételéről. A közlemény szövegéről és a közzététel módjáról a bíróság határoz. A közleménynek tartalmaznia kell az érintett szerződési feltétel pontos meghatározását, semmisségének megállapítását, valamint az e jellegét alátámasztó érveket.
+
+Tvr.5/D. § (1) A Ptk. 292/A. § (5)–(7) bekezdése, 292/B. § (4)–(6) bekezdése, 301/A. § (5)–(8) bekezdése, valamint a 301/B. § (5)–(7) bekezdése szerinti eljárás kezdeményezésére jogosult a kis- és középvállalkozások érdekeinek képviseletét ellátó civil szervezet.
+
+(2)
 
 ### Fizetési késedelem jogkövetkezményei gazdálkodó szervezetek terven alapuló viszonyában
 
@@ -3254,7 +3306,7 @@ Ptk.404. § (1) A munkahely az építési-szerelési munka végzésére akkor al
 
 (4) A vállalkozó kérésére – szükség esetén – a megrendelő köteles a tervek magyarázatát, a részletes kivitelezési utasítást megadni.
 
-Ptk.405. § (1) A megrendelő köteles a munkát a vállalkozó értesítésében megjelölt időpontra kitűzött átadás-átvételi eljárás során megvizsgálni és a vizsgálat alapján felfedezett hiányokat, hibákat, a hibás munkarészekre eső költségvetési összegeket, valamint az érvényesíteni kívánt szavatossági igényeket jegyzőkönyvben rögzíteni.
+Ptk.405. § (1) A megrendelő köteles a munkát a vállalkozó értesítésében megjelölt időpontra kitűzött átadás-átvételi eljárás során megvizsgálni és a vizsgálat alapján felfedezett hiányokat, hibákat, a hibás munkarészekre eső költségvetési összegeket, valamint az érvényesíteni kívánt szavatossági igényeket jegyzőkönyvben rögzíteni. Ha a felek a szerződésben másként nem állapodnak meg, az átadás-átvétel időtartama legfeljebb harminc nap. Gazdálkodó szervezetek közötti szerződésben, illetve szerződő hatóság által megrendelőként gazdálkodó szervezettel kötött szerződésben az átadás-átvétel időtartamára vonatkozó rendelkezéstől a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a vállalkozó hátrányára eltérő szerződési feltételt a vállalkozó megtámadhatja.
 
 (2) Ha a megrendelő egyes munkarészeket a teljesítés előtt ideiglenes jelleggel átvesz (előzetes átadás), ezek tekintetében a kárveszély az átvétel időpontjától a megrendelőre száll át.
 
@@ -3274,7 +3326,7 @@ Ptk.407. § (1) Szerelési szerződés alapján a vállalkozó technológiai sze
 
 (3)
 
-Ptk. 407/A. § (1) Az átadás-átvétel próbaüzemmel történik. A próbaüzem időtartama harminc nap.
+Ptk. 407/A. § (1) Az átadás-átvétel próbaüzemmel történik. Ha a felek a szerződésben másként nem állapodnak meg, a próbaüzem időtartama harminc nap. Gazdálkodó szervezetek közötti szerződésben, illetve szerződő hatóság által megrendelőként gazdálkodó szervezettel kötött szerződésben a próbaüzem időtartamára vonatkozó rendelkezéstől a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a vállalkozó hátrányára eltérő szerződési feltételt a vállalkozó megtámadhatja.
 
 (2) A próbaüzem előtt meg kell győződni arról, hogy a berendezés a próbaüzemre alkalmas-e. Az erre vonatkozó nyilatkozatokat, továbbá a hibákat, hiányokat és a kijavításukra, pótlásukra megállapított határidőket jegyzőkönyvbe kell foglalni.
 
@@ -5047,13 +5099,13 @@ Tvr.18. § A törvény hatálybalépése előtt kiadott hatályos jogszabályoka
 
 b) közeli hozzátartozók: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és neveltgyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, valamint a testvér, hozzátartozó továbbá: az élettárs, az egyeneságbeli rokon házastársa, bejegyzett élettársa, a jegyes, a házastárs, a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, bejegyzett élettársa;
 
-c) gazdálkodó szervezet: az állami vállalat, az egyéb állami gazdálkodó szerv, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, az egyes jogi személyek vállalata, a leányvállalat, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a végrehajtói iroda, az egyéni cég, továbbá az egyéni vállalkozó. Az állam, a helyi önkormányzat, a költségvetési szerv, az egyesület, a köztestület, valamint az alapítvány gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira is a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni, kivéve, ha a törvény e jogi személyekre eltérő rendelkezést tartalmaz;
+c) gazdálkodó szervezet: az állami vállalat, az egyéb állami gazdálkodó szerv, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi együttműködési csoportosulás, az egyes jogi személyek vállalata, a leányvállalat, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a végrehajtói iroda, az egyéni cég, továbbá az egyéni vállalkozó. Az állam, a helyi önkormányzat, a költségvetési szerv, az egyesület, a köztestület, valamint az alapítvány gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira is a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni, kivéve, ha a törvény e jogi személyekre eltérő rendelkezést tartalmaz; a 292/A–292/B. §, 301/A–301/B. §, 405. § (1) bekezdés, valamint a 407/A. § (1) bekezdés tekintetében nem minősül gazdálkodó szervezetnek az, aki a közbeszerzésekről szóló törvény értelmében ajánlatkérő (szerződő hatóság).
 
 d) fogyasztó: a gazdasági vagy szakmai tevékenység körén kívül eső célból szerződést kötő személy;
 
 e) fogyasztói szerződés: az a szerződés, amely fogyasztó és olyan személy között jön létre, aki (amely) a szerződést gazdasági vagy szakmai tevékenysége körében köti; a törvény jótállásra és kellékszavatosságra vonatkozó szabályai alkalmazásában az a szerződés minősül fogyasztói szerződésnek, amelynek tárgya ingó dolog, kivéve a villamos energiát, a – tartályban, palackban vagy egyéb módon korlátozott mennyiségben vagy meghatározott űrtartalommal ki nem szerelt – vizet és gázt, továbbá a végrehajtási eljárás vagy más hatósági intézkedés folytán eladott dolgot, valamint az olyan árverésen eladott használt dolgot, amelyen a fogyasztó személyesen részt vehet (fogyasztási cikk);
 
-f)
+f) szerződő hatóság: a közbeszerzésekről szóló törvény szerinti ajánlatkérő, akkor is, ha közbeszerzési eljárás lefolytatására nem köteles.
 
 Ptk.685/A. § Élettársi kapcsolat áll fenn két olyan házasságkötés vagy bejegyzett élettársi kapcsolat létesítése nélkül közös háztartásban érzelmi és gazdasági közösségben (életközösségben) együtt élő személy között, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri, féltestvéri kapcsolatban.
 
@@ -5076,7 +5128,7 @@ Ptk.688. § Ez a törvény a következő uniós jogi aktusoknak való megfelelé
 
 - a) a Tanács 93/13/EGK irányelve (1993. április 5.) a fogyasztóval kötött szerződésekben alkalmazott tisztességtelen szerződési feltételekről; a törvény 205/A–205/B. §-a, 207. §-ának (2) és (3) bekezdése, 209. §-a, 209/A. §-ának (2) bekezdése, 209/B. §-a, 239. §-ának (2) bekezdése, valamint 685. §-ának d) pontja;
 - b) az Európai Parlament és a Tanács 1999/44/EK irányelve (1999. május 25.) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól; a törvény 248. §-ának (1)–(3) bekezdése, 277. §-ának (1)–(3) bekezdése, 305. §-ának (2) bekezdése, 305/A. §-a, 306. §-ának (1)–(2) és (5) bekezdése, 307. §-ának (2) bekezdése, 308. §-ának (4) bekezdése, 308/A. §-ának (2) bekezdése, 309. §-ának (1) bekezdése, 311. §-a, 372. §-ának (2) bekezdése, valamint 685. §-ának d)–e) pontja;
-- c) az Európai Parlament és a Tanács 2000/35/EK irányelve (2000. június 29.) a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről; a törvény 209. §-ának (2) bekezdése, 301/A. §-a és 368. §-ának (1) bekezdése;
+- c) az Európai Parlament és a Tanács 2011/7/EU irányelve (2011. február 16.) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről; a törvény 209. § (2) bekezdése, 209/A. § (1) bekezdése, 236. § (2) bekezdés c) pontja, 292/A–292/B. §-a, 298. § a) pontja, 301/A–301/B. §-a, 368. § (1) bekezdése, 405. § (1) bekezdése, 407/A. § (1) bekezdése és 685. § f) pontja;
 - d) az Európai Parlament és a Tanács 2002/47/EK irányelve (2002. június 6.) a pénzügyi biztosítékokról szóló megállapodásokról; a törvény 270–271/A. §-a.
 
 Ptk. 689. § A kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 1. § (1) bekezdésével megállapított 232. § (3) bekezdést és az 1. § (2) bekezdésével megállapított 301. § (3) bekezdést a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
