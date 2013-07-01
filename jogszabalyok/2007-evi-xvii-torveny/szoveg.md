@@ -495,7 +495,7 @@ feladatok ellátásáért.
 
 (7) A mezőgazdasági és vidékfejlesztési támogatási szerv, a hatáskörrel rendelkező hatóság, valamint az élelmiszerlánc-felügyeleti információs rendszeren keresztül az élelmiszerlánc-felügyeleti szerv a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
 
-(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg.
+(8) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását az ügyfél-azonosító szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél részére csak egy ügyfél-azonosító szám állapítható meg. Az ügyfél-nyilvántartási rendszer az ügyfél-azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 28/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az az ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését is.
 
@@ -545,15 +545,7 @@ feladatok ellátásáért.
 
 ### Mezőgazdasági Parcella Azonosító Rendszer
 
-31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ide értve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
-
-(2) A MePAR számítógépes rendszerének térképi alapját az Egységes Országos Vetületi Rendszerben (EOV) kell elkészíteni, és meg kell felelnie az 1:10 000-es méretarányú állami topográfiai térkép pontosságának.
-
-(3) A MePAR működtetése során állami feladatként biztosítani kell az adatok programszerű felújítását és változásvezetését. A változásvezetési eljárás kérelemre vagy hivatalból indítható.
-
-(4) A MePAR nyilvános. A földterület használatához kapcsolódó támogatások kapcsán benyújtott kérelmekhez az ügyfelek részére a MePAR vonatkozó adataihoz való hozzáférést biztosítani kell. A földterület használatához kapcsolódó támogatások kapcsán benyújtott kérelmekhez papír alapú térképek alkalmazása esetén a hozzáférést egy példányban költségtérítés-mentesen kell biztosítani.
-
-(5) A (4) bekezdésben foglaltaktól eltérő célú felhasználás, valamint az ügyfél által kézhez kapott, de a kérelmezés során fel nem használt térképek esetén fizetendő költségtérítés mértékét, továbbá az adatok más számítógépes rendszerben történő felhasználásának feltételeit a mezőgazdasági és vidékfejlesztési támogatási szerv állapítja meg.
+31. § Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
 ### Intervenciós raktárregiszter
 
@@ -561,13 +553,17 @@ feladatok ellátásáért.
 
 (2) Az intervenciós raktárregiszter a 28. § (2) bekezdés szerinti adatokon kívül tartalmazza az ügyfél regisztrációs számát, a raktározási helyszíneket és a raktározási építmények műszaki paramétereit.
 
+(2a) Az intervenciós raktárregiszter a (2) bekezdésben foglalt adatok tekintetében – kivéve a 28. § (2) bekezdésében foglalt természetes személyazonosító adatokat – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A hatósági nyilvántartás adatait a mezőgazdasági és vidékfejlesztési támogatási szerv az informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a mezőgazdasági és vidékfejlesztési támogatási szerv által történik a raktárregiszterbe történő felvétel iránt benyújtott kérelem alapján. A mezőgazdasági és vidékfejlesztési támogatási szerv azokat a raktározókat, akikkel már kötött raktárszerződést, hivatalból nyilvántartásba veszi.
 
 (4) Az intervenciós raktárnyilvántartással kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
 
 ### A szőlőültetvények országos térinformatikai nyilvántartása
 
-31/B. § A szőlőültetvények országos térinformatikai nyilvántartásának (a továbbiakban: VINGIS) adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
+31/B. § (1) A szőlőültetvények országos térinformatikai nyilvántartásának (a továbbiakban: VINGIS) adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
+
+(2) A VINGIS adatbázisa az ellenkező bizonyításáig hitelesen tanúsítja a rögzített adattartalom fennállását.
 
 ### Tevékenységihely-nyilvántartási rendszer
 

@@ -300,7 +300,7 @@ lajstromban tartja nyilván.
 
 (3) A hajózási hatóság által kiadott képesítő okmánnyal rendelkező személy nem végezheti a képesítő okmányban megnevezett képesítésnek megfelelő tevékenységet, ha büntetett előéletű, vagy ha hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt áll.
 
-(4) A hajózási képesítések nyilvántartását a hajózási hatóság végzi.
+(4) A hajózási hatóság az általa kiadott hajózási képesítő okmányokról közhiteles hatósági nyilvántartást vezet.
 
 26/A. § (1) A képesítéshez kötött szolgálat gyakorlását megelőzően a képesítő okmány kiadása céljából a kérelmező
 
@@ -323,7 +323,7 @@ lajstromban tartja nyilván.
 
 26/B. § (1) A külön jogszabályban meghatározott hatósági vizsgát a hajózási hatóság által megbízott vizsgabizottság előtt kell letenni.
 
-(2) A vizsgabizottság tagja (a továbbiakban: vizsgabiztos) az lehet, akit a hajózási hatóság a Vizsgabiztosok Névjegyzékébe felvett.
+(2) A vizsgabizottság tagja (a továbbiakban: vizsgabiztos) az lehet, akit a hajózási hatóság a Vizsgabiztosok Névjegyzékébe felvett. A Vizsgabiztosok Névjegyzéke a vizsgabiztosi tevékenységre vonatkozó adatok, valamint a vizsgatárgyakra és képesítésekre vonatkozó adatok tekintetében, amelyekre a vizsgabiztos kijelölhető, közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Nem vehető fel a Vizsgabiztosok Névjegyzékébe az a személy, aki büntetett előéletű.
 
@@ -373,14 +373,11 @@ lajstromban tartja nyilván.
 (4) Nem lehet hajóparancsnok, aki
 
 - a) büntetett előéletű,
-- b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. cselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, vasúti, légi vagy vízi közlekedés veszélyeztetése, a 189. § (2) bekezdése szerinti járművezetés tiltott átengedése, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet IV. címében meghatározott hivatali bűncselekmény, V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, államtitoksértés, szolgálati titoksértés, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, a visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, közveszéllyel fenyegetés, garázdaság, önbíráskodás, közokirat-hamisítás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, számítástechnikai rendszer és adatok elleni bűncselekmény, számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása, pénzhamisítás, pénzhamisítás elősegítése, költségvetési csalás, a 2011. december 31-ig hatályban volt csempészet, készpénz-helyettesítő eszköz hamisítása, visszaélés készpénz-helyettesítő eszközzel, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás, zsarolás, rongálás, orgazdaság, jármű önkényes elvétele vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
-  - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
-  - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
-  - bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
-  - bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-  - be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
-  - bf) szándékos bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig,
-  - bg) gondatlan bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig,
+- b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
+  - ba) a 2011. december 31-ig hatályban volt csempészet,
+  - bb) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, személyi szabadság megsértése, emberrablás, emberkereskedelem, 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, vasúti, légi vagy vízi közlekedés veszélyeztetése, 189. § (2) bekezdése szerinti járművezetés tiltott átengedése, erőszakos közösülés, szemérem elleni erőszak, 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet IV. címében meghatározott hivatali bűncselekmény, V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, a visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, közveszéllyel fenyegetés, garázdaság, önbíráskodás, közokirat-hamisítás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, visszaélés új pszichoaktív anyaggal, számítástechnikai rendszer és adatok elleni bűncselekmény, számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása, pénzhamisítás, pénzhamisítás elősegítése, költségvetési csalás, készpénz-helyettesítő eszköz hamisítása, visszaélés készpénz-helyettesítő eszközzel, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás, zsarolás, rongálás, orgazdaság, jármű önkényes elvétele miatt,
+  - bc) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XIII. Fejezetében meghatározott emberiesség elleni bűncselekmény, XIV. Fejezetében meghatározott háborús bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 164. § (3)–(8) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, emberrablás, emberrablás feljelentésének elmulasztása, emberkereskedelem, személyi szabadság megsértése, kényszerítés, szexuális erőszak, 200. § (4) bekezdés c) pontja szerinti kerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, 221. § (2) bekezdés b) pontja vagy (3)–(4) bekezdése szerinti magánlaksértés, vasúti, légi vagy vízi közlekedés veszélyeztetése, 238. § (2) bekezdése szerinti járművezetés tiltott átengedése, radioaktív anyaggal visszaélés, XXIV. Fejezetében meghatározott állam elleni bűncselekmény, minősített adattal visszaélés, XXVIII. Fejezetében meghatározott hivatali bűncselekmény, XXIX. Fejezetében meghatározott hivatalos személy elleni bűncselekmény, terrorcselekmény, terrorcselekmény feljelentésének elmulasztása, terrorizmus finanszírozása, jármű hatalomba kerítése, bűnszervezetben részvétel, 322. § (1)–(3) bekezdése szerinti közveszély okozása, közérdekű üzem működésének megzavarása, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, nemzetközi gazdasági tilalom megszegése, nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés, közveszéllyel fenyegetés, garázdaság, közokirat-hamisítás, embercsempészés, rablás, kifosztás, zsarolás, önbíráskodás, lopás, rongálás, sikkasztás, csalás, információs rendszer felhasználásával elkövetett csalás, hűtlen kezelés, orgazdaság, jármű önkényes elvétele, pénzhamisítás, pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, költségvetési csalás, információs rendszer vagy adat megsértése, információs rendszer védelmét biztosító technikai intézkedés kijátszása miatt,
+  - bd) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig, szándékos bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig, gondatlan bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig,
 - c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
 - d) vízi jármű vezetésétől eltiltás hatálya alatt áll.
 
@@ -394,7 +391,7 @@ lajstromban tartja nyilván.
 
 36. § (1) Az úszólétesítmény vezetője felel az úszólétesítmény biztonságos, környezet- és természetkímélő üzemeléséért, a hajózás rendjének megtartásáért, az úszólétesítmény, valamint az azon lévő személyek és tárgyak biztonságáért és épségéért.
 
-(2) A hajó vezetőjét az (1) bekezdésben foglalt kötelezettsége alól nem mentesíti, ha a hajón révkalauz (50. §) tartózkodik.
+(2)
 
 37. § Az úszólétesítmény vezetője köteles a hajózás biztonságát, az úszólétesítményt, a rajta tartózkodó személyeket, illetőleg a rajta lévő tárgyakat fenyegető veszély, továbbá kár elhárítása érdekében az adott helyzetben lehetséges minden intézkedést megtenni.
 
@@ -534,6 +531,8 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (2) Magyar lobogó alatt közlekedő úszólétesítményen szolgálat csak szolgálati könyv birtokában látható el.
 
+(3) A kiadott szolgálati könyvekről a kiadó hajózási hatóság nyilvántartást vezet, amely nyilvántartás a hajón töltött szolgálati időre, a beosztásra és az egészségügyi alkalmasságra vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 ### Személyes adatok kezelése
 
 48/A. § (1) Az úszólétesítmény tulajdonosa, üzemben tartója vagy vezetője a hajózási hatóság, a rendőrség, a vámhatóság, a határőrség és az egészségügyi államigazgatási szerv által hivatalból indított vagy folytatott eljárás esetén, a hatóság hatáskörébe tartozó eljárásban – a hatóságnak a folyami információs szolgáltatások központ útján megküldött kérésére – a hatóság döntéséhez szükséges adatokat, továbbá a 21. § (2) bekezdésében, valamint a 47. § (1) és (2) bekezdésében meghatározott személyes adatokat átadja. Az átadás történhet a folyami információs szolgáltatások központ útján is.
@@ -551,7 +550,9 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 - e) az úszólétesítmények lajstromába bejegyzett személy természetes személyazonosító és lakcím adatait,
 - f) a tengeri hajók engedélyezett felszereléseiről, illetve a visszavont vagy elutasított kérelmekről vezetett nyilvántartásban szereplő személy természetes személyazonosító adatait,
 - g) a hajózási hatóság által kiadott szolgálati könyvekről vezetett nyilvántartásban szereplő személy természetes személyazonosító adatait,
-- h) a révkalauzok nyilvántartásába felvett személy természetes személyazonosító adatait kezeli.
+- h)
+
+kezeli.
 
 (5) A hajózási hatóság a büntetett előéletre, a foglalkozástól eltiltásra vagy a járművezetéstől eltiltásra vonatkozóan kezelt adatot
 
@@ -573,32 +574,9 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (3) Úszólétesítmény árvíz- és belvízvédekezéshez, vízminőségi kárelhárításhoz való igénybevételéről külön jogszabály rendelkezik.
 
-## HARMADIK RÉSZ — A RÉVKALAUZ
+## HARMADIK RÉSZ
 
-50. § (1) A hajón, illetve az önjáró úszómunkagépen üzemeltetése során
-
-- a) víziútnak a hajózási hatóság által megállapított szakaszain,
-- b) amennyiben a belvízi nagyhajó vagy az önjáró úszómunkagép vezetője, illetve a szolgálatot teljesítő fedélzeti tiszt az adott víziútszakaszra érvényes képesítéssel nem rendelkezik
-
-révkalauzt kell igénybe venni.
-
-(2) Révkalauzi tevékenységet az a személy láthat el, akit a hajózási hatóság révkalauzként nyilvántartásba vett.
-
-(3) A révkalauzok nyilvántartásába a hajózási hatóság azt a személyt jegyezheti be, aki
-
-- a) az úszólétesítmény (kötelék) vezetésére meghatározott képesítéssel rendelkezik,
-- b) a víziút adott szakaszára vonalvizsgát tett, és a vizsga letételét követően az adott szakaszon hajó vezetőjeként legalább 12 havi hajózási gyakorlatot szerzett,
-- c) a révkalauzi tevékenység körében okozott kár megtérítésére felelősségbiztosítási szerződést kötött.
-
-(4) A révkalauz az általa adott utasításokért és az általa végrehajtott műveletekért, illetve azok következményeiért büntetőjogi és polgári vagy munkajogi felelősséggel tartozik.
-
-(5) A hajó vagy önjáró úszómunkagép vezetője köteles a révkalauznak a vezetésre vonatkozó utasításait követni és a révkalauzzal az úszólétesítmény és az általa továbbított további úszólétesítmények főméreteit és merülését közölni, továbbá a révkalauzt tájékoztatni a hajó vezetéséhez alkalmazott berendezések működéséről.
-
-(6) Amennyiben a vezető nem követi a révkalauznak a vezetésre vonatkozó utasításait, a révkalauznak jogában áll a további tevékenységet megtagadni, és ezt a hajónaplóba bejegyeztetni, azonban az úszólétesítmény vezetőállását a legközelebbi kikötőig nem hagyhatja el, és köteles a vezetőt a hajóútra vonatkozó információkkal ellátni.
-
-(7) A révkalauz köteles a vezetőt a víziközlekedés rendjének általa észlelt megszegésére figyelmeztetni.
-
-(8) A révkalauz a hajó működésének belső rendjére vonatkozó utasítást nem adhat.
+50. §
 
 ## NEGYEDIK RÉSZ — A HAJÓZÁSI TEVÉKENYSÉG VÉGZÉSÉNEK FELTÉTELEI
 
@@ -617,6 +595,17 @@ révkalauzt kell igénybe venni.
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 
 (4) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy a Magyarország területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, a rendőrség vízirendészeti szerve haladéktalanul értesíti a hajózási hatóságot.
+
+(5) A hajózási hatóság a kiadott hajózási engedélyekről nyilvántartást vezet, amely tartalmazza:
+
+- a) a vezető nevét,
+- b) az engedélyezett hajózási tevékenységet,
+- c) az üzemeltetett úszólétesítmények lajstromszámát, nevét, illetve jelét,
+- d) azt a vízterületet (folyó, tó, folyamkilométer stb.), amelyen az engedélyezett hajózási tevékenység végezhető,
+- e) a hajózási engedély időbeli hatályát,
+- f) a kérelmező hajózási vállalkozás és a hajózási tevékenységhez használt úszólétesítmény magyar tulajdoni hányadának a megjelölését.
+
+(6) A hajózási engedélyekről vezetett nyilvántartás az (5) bekezdésben foglalt adatok tekintetében – az (5) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 52. § (1) Hajózási engedély az EGT-államban lajstromozott úszólétesítményt üzemben tartó, magyarországi székhelyű jogi személy és gazdálkodó szervezet részére adható.
 
@@ -1024,7 +1013,7 @@ rendeletben történő megállapítására.
 - 11. a kikötő – ideértve a kikötőhelyet és a veszteglőhelyet is –, továbbá a komp- és révátkelőhelyek létesítése, üzemben tartása, megszüntetése feltételeinek, továbbá használata általános rendjének,
 - 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
 - 13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
-- 14. a révkalauzi tevékenység ellátása részletes feltételeinek,
+- 14.
 - 15. a veszélyes áruk tengeri és belvízi fuvarozásának,
 - 16. a víziközlekedés rendjének,
 - 17. a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,

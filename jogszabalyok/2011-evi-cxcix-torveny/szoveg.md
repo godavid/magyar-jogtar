@@ -2761,7 +2761,7 @@ terjed ki.
 
 (5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el.
 
-199. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényben, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvényben szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó közszolgálati tisztviselők érdekegyeztető fóruma is.
+199. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényben, szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó közszolgálati tisztviselők érdekegyeztető fóruma is.
 
 ### Munkahelyi kormánytisztviselői érdekegyeztetés
 

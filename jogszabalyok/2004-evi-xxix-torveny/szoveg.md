@@ -2,19 +2,47 @@
 
 az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról
 
-### ELSŐ–MÁSODIK Fejezet
+### ELSŐ Fejezet
+
+#### 1. §
+
+#### 2. §
+
+#### 3. §
+
+### MÁSODIK Fejezet
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 ### HARMADIK Fejezet — EGYES, FOGLALKOZTATÁSSAL ÖSSZEFÜGGŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11–15. §
+#### 11. §
 
-16. §
+#### 12. §
 
-17–18. §
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
 
 19. § A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény (a továbbiakban: Bjt.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
 
@@ -38,29 +66,177 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 „,,(1) Felhatalmazást kap a Kormány, hogy a tartós külszolgálatot ellátó bírónak az e törvény szerinti javadalmazásán kívüli egyéb juttatásait – az OIT egyetértésével – rendeletben állapítsa meg.''”
 
-24–25. §
+#### 24. §
 
-### NEGYEDIK–ÖTÖDIK Fejezet
+#### 25. §
+
+### NEGYEDIK Fejezet
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+### ÖTÖDIK Fejezet
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
 
 ### HATODIK Fejezet
 
-41–43. §
+#### 41. §
 
-44–56. §
+#### 42. §
 
-57–80. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
 
 ### KILENCEDIK Fejezet
 
-81–92. §
+#### 81. §
 
-93. §
+#### 82. §
 
-94–96. §
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
 
 ### TIZEDIK Fejezet
 
-97–104. §
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
 
 ### TIZENEGYEDIK Fejezet — EGYES TÖRVÉNYEK ÉS TÖRVÉNYEREJŰ RENDELETEK MÓDOSÍTÁSA
 
@@ -68,11 +244,15 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (2)
 
-106–107. §
+#### 106. §
+
+#### 107. §
 
 108. § (1)
 
-(2)–(3)
+(2)
+
+(3)
 
 109. § Az egyesülési jogról szóló 1989. évi II. törvény 8. §-a helyébe a következő rendelkezés lép:
 
@@ -80,15 +260,33 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (2) Párt alapítója és tisztségviselője csak olyan személy lehet, aki az országgyűlési képviselők választásán vagy a helyi önkormányzati képviselők választásán választójoggal rendelkezik.''”
 
-110. §
+#### 110. §
 
 111. § (1)
 
 (2)
 
-112. §
+#### 112. §
 
-113–122. §
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
 
 ### TIZENKETTEDIK Fejezet — AZ EURÓPAI CSALÁSELLENES HIVATALLAL KAPCSOLATOS EGYÜTTMŰKÖDÉSRŐL
 
@@ -96,13 +294,10 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (2) E fejezet hatálya kiterjed azokra
 
-a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
-
-b) a területfejlesztésről és területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési és fejlesztési tanácsokra és munkaszervezeteikre,
-
-c) jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre,
-
-d) természetes személyekre,
+- a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
+- b) a területfejlesztésről és területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési és fejlesztési tanácsokra és munkaszervezeteikre,
+- c) jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre,
+- d) természetes személyekre,
 
 (a továbbiakban együtt: vizsgált személyek és szervezetek), akik/amelyek az Európai Közösségek közös költségvetéséből nyújtott támogatásban részesülnek, ennek felhasználásában közreműködnek, vagy az Európai Közösségek közös költségvetéséhez való hozzájárulás teljesítésében vesznek részt, valamint az OLAF Koordinációs Irodára.
 
@@ -118,25 +313,16 @@ d) természetes személyekre,
 
 125. § Az OLAF Koordinációs Iroda alapfeladatai körében:
 
-a) elősegíti az Európai Közösségek pénzügyi érdekeinek védelmével kapcsolatban az OLAF által végzett vizsgálatok lebonyolítását,
-
-b) koordinálja az OLAF által lefolytatott helyszíni ellenőrzések során felmerülő feladatokat,
-
-c) továbbítja az uniós költségvetési támogatások felhasználása során észlelt szabálytalanságok tekintetében a közösségi szektorális jogszabályokban meghatározott jelentéseket az OLAF felé,
-
-d) meghívottként részt vesz az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló programok monitoring bizottságainak ülésein,
-
-e) az európai uniós támogatás pályáztatásával, a kedvezményezettekkel kötött szerződésekkel, a támogatások felhasználásával kapcsolatos dokumentációkban szereplő adatokat megismerheti,
-
-f) kizárólag az OLAF által vizsgált üggyel kapcsolatban, a jelentéstétel céljából, kizárólag az ahhoz szükséges mértékben személyes, illetve bűnügyi személyes adatot kezelhet az e fejezetben foglaltak szerint,
-
-g) az OLAF által elrendelt egyedi vizsgálatokhoz, információkérésekhez kapcsolódóan továbbítja az OLAF megkereséseit legkésőbb 15 napon belül a megkereséssel érintett szervek felé,
-
-h) segítséget nyújt a vizsgált személyek és szervezetek, illetve a vizsgálattal nem érintett személyektől és szervezetektől érkező szabálytalansági kérdésekben történő megkeresések, bejelentések esetén is, ha megítélésük szerint valamely szerv, szervezet vagy személy eljárása, illetőleg mulasztása az Európai Unió pénzügyi érdekeit sérti vagy veszélyezteti, egyúttal haladéktalanul intézkedik a megkeresések, bejelentések továbbításáról a hatáskörrel és illetékességgel rendelkező közigazgatási szervek felé,
-
-i) az Európai Unió pénzügyi érdekeit sértő szabálytalanságokról olyan statisztikai célú nyilvántartást vezet, amely személyes adatot nem tartalmazza,
-
-j) minden év június 1-jéig Összefoglalót készít az adópolitikáért felelős miniszter részére az Európai Közösségek pénzügyi érdekeit sértő, az EUCS tv. 125. §. c) pontjában meghatározott szabálytalanságokról, valamint az OLAF Magyarországgal kapcsolatos vizsgálatairól az EUCS tv. 125. §-ának i) pontjában meghatározott nyilvántartás, valamint az EUCS tv. 130. §-a e) pontjában előírt tájékoztatók alapján.
+- a) elősegíti az Európai Közösségek pénzügyi érdekeinek védelmével kapcsolatban az OLAF által végzett vizsgálatok lebonyolítását,
+- b) koordinálja az OLAF által lefolytatott helyszíni ellenőrzések során felmerülő feladatokat,
+- c) továbbítja az uniós költségvetési támogatások felhasználása során észlelt szabálytalanságok tekintetében a közösségi szektorális jogszabályokban meghatározott jelentéseket az OLAF felé,
+- d) meghívottként részt vesz az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló programok monitoring bizottságainak ülésein,
+- e) az európai uniós támogatás pályáztatásával, a kedvezményezettekkel kötött szerződésekkel, a támogatások felhasználásával kapcsolatos dokumentációkban szereplő adatokat megismerheti,
+- f) kizárólag az OLAF által vizsgált üggyel kapcsolatban, a jelentéstétel céljából, kizárólag az ahhoz szükséges mértékben személyes, illetve bűnügyi személyes adatot kezelhet az e fejezetben foglaltak szerint,
+- g) az OLAF által elrendelt egyedi vizsgálatokhoz, információkérésekhez kapcsolódóan továbbítja az OLAF megkereséseit legkésőbb 15 napon belül a megkereséssel érintett szervek felé,
+- h) segítséget nyújt a vizsgált személyek és szervezetek, illetve a vizsgálattal nem érintett személyektől és szervezetektől érkező szabálytalansági kérdésekben történő megkeresések, bejelentések esetén is, ha megítélésük szerint valamely szerv, szervezet vagy személy eljárása, illetőleg mulasztása az Európai Unió pénzügyi érdekeit sérti vagy veszélyezteti, egyúttal haladéktalanul intézkedik a megkeresések, bejelentések továbbításáról a hatáskörrel és illetékességgel rendelkező közigazgatási szervek felé,
+- i) az Európai Unió pénzügyi érdekeit sértő szabálytalanságokról olyan statisztikai célú nyilvántartást vezet, amely személyes adatot nem tartalmazza,
+- j) minden év június 1-jéig Összefoglalót készít az adópolitikáért felelős miniszter részére az Európai Közösségek pénzügyi érdekeit sértő, az EUCS tv. 125. §. c) pontjában meghatározott szabálytalanságokról, valamint az OLAF Magyarországgal kapcsolatos vizsgálatairól az EUCS tv. 125. §-ának i) pontjában meghatározott nyilvántartás, valamint az EUCS tv. 130. §-a e) pontjában előírt tájékoztatók alapján.
 
 126. § (1) Az OLAF Koordinációs Iroda az OLAF megkeresésében foglaltak teljesítése céljából a megkeresés szerinti támogatásokkal érintett természetes személyek és szervezetek azonosító adatait, valamint a támogatással érintett tevékenységükre vonatkozó, e fejezetben meghatározott dokumentációkban szereplő adatait, továbbá az érintett természetes személyeknek e törvény szerinti bűnügyi adatait kezelheti.
 
@@ -146,63 +332,61 @@ j) minden év június 1-jéig Összefoglalót készít az adópolitikáért fele
 
 127. § Az OLAF Koordinációs Iroda kizárólag a jelentéstételi kötelezettsége érdekében a szabálytalansággal érintettek személyes adatainak, illetőleg a vizsgált személyekre és szervezetekre vonatkozó következő adatok kezelésére jogosult:
 
-a) természetes személyek esetén:
+- a) természetes személyek esetén:
+  - aa) név (családi és utónév, születési név),
+  - ab) lakóhely, tartózkodási hely,
+  - ac) foglalkozás, beosztás;
+- b) szervezetek esetén:
+  - ba) név/cégnév (teljes és rövidített név),
+  - bb) szervezet típusa,
+  - bc) szervezet címe, székhelye,
+  - bd) cégjegyzékszám,
+  - be) alapító okirat,
+  - bf) képviseletre jogosult neve.
 
-aa) név (családi és utónév, születési név),
+128. § (1) Az OLAF Koordinációs Iroda az OLAF megkereséseinek, illetve az európai közösségi jogi normákban előírt jelentéstételi kötelezettség teljesítése céljából a büntetőeljárás megindításának, felfüggesztésének, illetve befejezésének tényéről, illetve a büntetett előélethez fűződő hátrányos következmények alóli mentesítés bekövetkeztéig bűnügyi személyes adatot az alábbi bűncselekmények esetében kezelhet:
 
-ab) lakóhely, tartózkodási hely,
-
-ac) foglalkozás, beosztás;
-
-b) szervezetek esetén:
-
-ba) név/cégnév (teljes és rövidített név),
-
-bb) szervezet típusa,
-
-bc) szervezet címe, székhelye,
-
-bd) cégjegyzékszám,
-
-be) alapító okirat,
-
-bf) képviseletre jogosult neve.
-
-128. § (1) Az OLAF Koordinációs Iroda az OLAF megkereséseinek, illetőleg az európai közösségi jogi normákban előírt jelentéstételi kötelezettség teljesítése céljából a büntetőeljárás megindításának, felfüggesztésének, illetve befejezésének tényéről, illetve a büntetett előélethez fűződő hátrányos következmények alóli mentesítés bekövetkeztéig bűnügyi személyes adatot az alábbi bűncselekmények esetében kezelhet: vesztegetés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 250–255. §)], vesztegetés nemzetközi kapcsolatban (Btk. 258/B–258/D. §), a számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), hitelezési csalás (Btk. 297/A. §), gazdálkodó szervezet vezető állású személyének visszaélése (Btk. 298/A. §), saját tőke csorbítása (Btk. 298/B. §), gazdasági adatszolgáltatási kötelezettség elmulasztása (Btk. 299. §), tőkebefektetési csalás (Btk. 299/B. §), pénzmosás (Btk. 303. és 303/A. §), pénzhamisítás (Btk. 304. §), pénzhamisítás elősegítése (Btk. 304/A. §), költségvetési csalás (Btk. 310. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §), a 2011. december 31-ig hatályban volt adócsalás, visszaélés jövedékkel, jövedéki orgazdaság, csempészet és az Európai Közösségek pénzügyi érdekeinek megsértése, sikkasztás (Btk. 317. §), csalás (Btk. 318. §), hűtlen kezelés (Btk. 319. §), hanyag kezelés (Btk. 320. §), orgazdaság (Btk. 326. §).
+- a) a 2011. december 31-ig hatályban volt adócsalás, visszaélés jövedékkel, jövedéki orgazdaság, csempészet és az Európai Közösségek pénzügyi érdekeinek megsértése,
+- b) a 2013. június 30-ig hatályban volt vesztegetés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 250–255. §], vesztegetés nemzetközi kapcsolatban (1978. évi IV. törvény 258/B–258/D. §), a számvitel rendjének megsértése (1978. évi IV. törvény 289. §), csődbűncselekmény (1978. évi IV. törvény 290. §), hitelezési csalás (1978. évi IV. törvény 297/A. §), gazdálkodó szervezet vezető állású személyének visszaélése (1978. évi IV. törvény 298/A. §), saját tőke csorbítása (1978. évi IV. törvény 298/B. §), gazdasági adatszolgáltatási kötelezettség elmulasztása (1978. évi IV. törvény 299. §), tőkebefektetési csalás (1978. évi IV. törvény 299/B. §), pénzmosás (1978. évi IV. törvény 303. és 303/A. §), pénzhamisítás (1978. évi IV. törvény 304. §), pénzhamisítás elősegítése (1978. évi IV. törvény 304/A. §), költségvetési csalás (1978. évi IV. törvény 310. §), jövedékkel visszaélés elősegítése (1978. évi IV. törvény 311/B. §), sikkasztás (1978. évi IV. törvény 317. §), csalás (1978. évi IV. törvény 318. §), hűtlen kezelés (1978. évi IV. törvény 319. §), hanyag kezelés (1978. évi IV. törvény 320. §), orgazdaság (1978. évi IV. törvény 326. §),
+- c) vesztegetés [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 290. §], vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), gazdasági csalás (Btk. 374. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), hűtlen kezelés (Btk. 376. §), hanyag kezelés (Btk. 377. §), orgazdaság (Btk. 379. §), pénzhamisítás (Btk. 389. §), pénzhamisítás elősegítése (Btk. 390. §), költségvetési csalás (Btk. 396. §), a költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 397. §), jövedékkel visszaélés elősegítése (Btk. 398. §), pénzmosás (Btk. 399–400. §), a számvitel rendjének megsértése (Btk. 403. §), csődbűncselekmény (Btk. 404. §), saját tőke csorbítása (Btk. 407. §), gazdasági adatszolgáltatási kötelezettség elmulasztása (Btk. 409. §), tőkebefektetési csalás (Btk. 411. §).
 
 (2) A megkeresés, illetőleg a jelentéstételi kötelezettség teljesítését követően a jelentésben szereplő adatokat az OLAF Koordinációs Iroda vezetője haladéktalanul megsemmisíti.
 
 129. § A vizsgált személy és szervezet jogosult:
 
-a) az ellenőrzést végző OLAF tisztviselő igazolványának, illetve megbízólevelének bemutatását kérni, ennek hiányában a közreműködést megtagadni,
-
-b) a vizsgálat megállapításait megismerni, azokra észrevételeket tenni, és az észrevételekre írásban választ kapni, bizonyítási indítványokat előterjeszteni, a jegyzőkönyvet megismerni,
-
-c) megfelelő képviseletről gondoskodni.
+- a) az ellenőrzést végző OLAF tisztviselő igazolványának, illetve megbízólevelének bemutatását kérni, ennek hiányában a közreműködést megtagadni,
+- b) a vizsgálat megállapításait megismerni, azokra észrevételeket tenni, és az észrevételekre írásban választ kapni, bizonyítási indítványokat előterjeszteni, a jegyzőkönyvet megismerni,
+- c) megfelelő képviseletről gondoskodni.
 
 130. § A vizsgált személy és szervezet köteles:
 
-a) az ellenőrzés során az OLAF-fal együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzések alkalmával biztosítani,
+- a) az ellenőrzés során az OLAF-fal együttműködni, az ellenőrzés feltételeit a helyszíni ellenőrzések alkalmával biztosítani,
+- b) az OLAF tisztviselőjét az ellenőrzési munkájában a helyszínen a megfelelő dokumentumok, számlák, a pénzügyi program megvalósítását igazoló költségvetési és számviteli anyagok, számítógépes adatok, a támogatott projektek pénzügyi és műszaki megvalósítására, a beruházások előmenetelére vonatkozó dokumentációk rendelkezésre bocsátásával segíteni,
+- c) a vizsgálat megállapításai alapján a hibák kijavítása céljából a saját hatáskörébe tartozó intézkedéseket haladéktalanul megtenni,
+- d) olyan eljárásokat kidolgozni, melyek a szabálytalanságok feltárását, a felelősök megállapítását, a használt módszerek felderítését és a szabálytalanság mértékének, illetve következményeinek meghatározását célozzák,
+- e) az OLAF által végzett helyszíni ellenőrzés tényéről, illetőleg az OLAF által közvetlenül hozzá intézett megkeresésről és az arra adott válaszról tájékoztatni az OLAF Koordinációs Irodát.
 
-b) az OLAF tisztviselőjét az ellenőrzési munkájában a helyszínen a megfelelő dokumentumok, számlák, a pénzügyi program megvalósítását igazoló költségvetési és számviteli anyagok, számítógépes adatok, a támogatott projektek pénzügyi és műszaki megvalósítására, a beruházások előmenetelére vonatkozó dokumentációk rendelkezésre bocsátásával segíteni,
+#### 131. §
 
-c) a vizsgálat megállapításai alapján a hibák kijavítása céljából a saját hatáskörébe tartozó intézkedéseket haladéktalanul megtenni,
+#### 132. §
 
-d) olyan eljárásokat kidolgozni, melyek a szabálytalanságok feltárását, a felelősök megállapítását, a használt módszerek felderítését és a szabálytalanság mértékének, illetve következményeinek meghatározását célozzák,
+#### 133. §
 
-e) az OLAF által végzett helyszíni ellenőrzés tényéről, illetőleg az OLAF által közvetlenül hozzá intézett megkeresésről és az arra adott válaszról tájékoztatni az OLAF Koordinációs Irodát.
+#### 134. §
 
-131–137. §
+#### 135. §
+
+#### 136. §
+
+#### 137. §
 
 138. § (1)
 
 (2) E fejezet összeegyeztethető szabályozást tartalmaz
 
-a) a Tanács 2185/96/EURATOM, EK rendeletével az Európai Közösségek pénzügyi érdekeinek csalással és egyéb szabálytalanságokkal szembeni védelmében a Bizottság által végzett helyszíni ellenőrzésekről és vizsgálatokról;
-
-b) a Tanács 1073/1999/EK rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról;
-
-c) Tanács 1074/1999/EURATOM rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról.
+- a) a Tanács 2185/96/EURATOM, EK rendeletével az Európai Közösségek pénzügyi érdekeinek csalással és egyéb szabálytalanságokkal szembeni védelmében a Bizottság által végzett helyszíni ellenőrzésekről és vizsgálatokról;
+- b) a Tanács 1073/1999/EK rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról;
+- c) Tanács 1074/1999/EURATOM rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról.
 
 ### TIZENHARMADIK Fejezet — EGYES TÖRVÉNYI RENDELKEZÉSEK MEGÁLLAPÍTÁSA
 
@@ -228,11 +412,11 @@ egyes rendelkezések
 
 140/B. § (1) A nemzeti külkereskedelmi államigazgatási szerv nyilvántartja és kezeli – a 140. § (1) bekezdése alapján elrendelt korlátozások érvényesítése céljából –
 
-a) a 140. § (1) bekezdés szerinti tevékenység folytatására jogosult természetes személy, jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét vagy lakcímét, levelezési címét, cégjegyzékszámát vagy az egyéni vállalkozói nyilvántartási számát, statisztikai számjelét és adóazonosító számát, egyedi vámazonosító számát,
+- a) a 140. § (1) bekezdés szerinti tevékenység folytatására jogosult természetes személy, jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét vagy lakcímét, levelezési címét, cégjegyzékszámát vagy az egyéni vállalkozói nyilvántartási számát, statisztikai számjelét és adóazonosító számát, egyedi vámazonosító számát,
+- b) az a) pontban meghatározottak képviseletére jogosult személy természetes személyazonosító adatait, valamint kérelmére a kapcsolattartáshoz szükséges elérhetőségi adatait,
+- c) az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak nem minősülő és a kormányrendeletben meghatározott – adatokat.
 
-b) az a) pontban meghatározottak képviseletére jogosult személy természetes személyazonosító adatait, valamint kérelmére a kapcsolattartáshoz szükséges elérhetőségi adatait,
-
-c) az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak nem minősülő és a kormányrendeletben meghatározott – adatokat.
+(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nemzeti külkereskedelmi államigazgatási szerv az érintett (1) bekezdés szerinti személyes adatainak nyilvántartására legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
 
@@ -240,19 +424,13 @@ c) az engedélyezési eljárás során birtokába kerülő és keletkező – sz
 
 (2) A nemzeti külkereskedelmi államigazgatási szerv az általa kezelt vagy nyilvántartott adatokat – ha törvény eltérően nem rendelkezik – az alábbi szervek részére, azok megkeresése alapján átadja:
 
-a) az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiből következő kötelezettségek teljesítése érdekében az Európai Unió Bizottsága, illetve az Európai Unió tagországainak az egyes kereskedelmi korlátozások vonatkozásában hatáskörrel rendelkező szervei részére,
-
-b) a vámhatóságnak a vámeljáráshoz,
-
-c) a bíróságnak büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
-
-d) a nyomozó hatóságnak és az ügyészségnek bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
-
-e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-
-f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
-
-g) az állami adóhatóságnak adóellenőrzési célra.
+- a) az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiből következő kötelezettségek teljesítése érdekében az Európai Unió Bizottsága, illetve az Európai Unió tagországainak az egyes kereskedelmi korlátozások vonatkozásában hatáskörrel rendelkező szervei részére,
+- b) a vámhatóságnak a vámeljáráshoz,
+- c) a bíróságnak büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- d) a nyomozó hatóságnak és az ügyészségnek bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
+- e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
+- f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
+- g) az állami adóhatóságnak adóellenőrzési célra.
 
 140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
 
@@ -260,7 +438,9 @@ g) az állami adóhatóságnak adóellenőrzési célra.
 
 (3) A bírság kiszabásának elévülési ideje az elkövetés időpontjától számított öt év. Ha a jogsértő magatartás folyamatos, az elévülési idő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, az elévülési idő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-(4)–(5)
+(4)
+
+(5)
 
 140/E. § (1) Felhatalmazást kap a Kormány, hogy a 140. § (1) bekezdése szerinti – az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelével, behozatalával, valamint azoknak Magyarország területén történő átszállításával összefüggő – korlátozásokat, az azokhoz kapcsolódó feltételeket, valamint az egyes korlátozásokkal összefüggő engedélyezési és más hatósági feladatokat, ezek eljárási szabályait rendeletben határozza meg.
 
@@ -296,13 +476,10 @@ g) az állami adóhatóságnak adóellenőrzési célra.
 
 143. § (1) A panasz, illetőleg a közérdekű bejelentés alapján – ha alaposnak bizonyul – gondoskodni kell
 
-a) a jogszerű, illetőleg a közérdeknek megfelelő állapot helyreállításáról vagy az egyébként szükséges intézkedések megtételéről;
-
-b) a feltárt hibák okainak megszüntetéséről;
-
-c) az okozott sérelem orvoslásáról, továbbá
-
-d) indokolt esetben a felelősségre vonás kezdeményezéséről.
+- a) a jogszerű, illetőleg a közérdeknek megfelelő állapot helyreállításáról vagy az egyébként szükséges intézkedések megtételéről;
+- b) a feltárt hibák okainak megszüntetéséről;
+- c) az okozott sérelem orvoslásáról, továbbá
+- d) indokolt esetben a felelősségre vonás kezdeményezéséről.
 
 (2) A panaszost, illetőleg a bejelentőt – a (4) bekezdésben foglaltak kivételével – nem érheti hátrány a panasz, illetőleg a közérdekű bejelentés megtétele miatt.
 
@@ -310,54 +487,53 @@ d) indokolt esetben a felelősségre vonás kezdeményezéséről.
 
 (4) Ha nyilvánvalóvá vált, hogy a bejelentő rosszhiszeműen járt el, és ezzel bűncselekményt vagy szabálysértést követett el; másnak kárt vagy egyéb jogsérelmet okozott, adatai az eljárás kezdeményezésére, illetőleg lefolytatására jogosult szerv vagy személy részére átadhatóak.
 
-143/A–143/E. §
+#### 143/A. §
+
+#### 143/B. §
+
+#### 143/C. §
+
+#### 143/D. §
+
+#### 143/E. §
 
 ### TIZENNEGYEDIK Fejezet — ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
 
-144. §
+#### 144. §
 
-145. §
+#### 145. §
 
 146. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló szerződést kihirdető törvény hatálybalépése napján lép hatályba.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A Kt. e törvény 39. §-ával megállapított 20. § v) pontját a már megkötött szerződések tekintetében 2005. január 1-jétől kell alkalmazni.
 
 147. § (1) E törvény hatálybalépésével egyidejűleg
 
-a) a Gyt. 3. § a) pontjának ,,a 12. § és 13. § kivételével az országgyűlési képviselők és a helyi önkormányzati képviselők választásával összefüggő gyűlésekre, valamint a képviselői és a tanácstagi beszámoló gyűlésekre'' szövegrésze helyébe ,,a választási eljárásról szóló törvény hatálya alá tartozó gyűlésekre'' szöveg, a 8. § (1) bekezdésében az ,,illetőleg a közlekedés rendjének aránytalan sérelmével járna'' szövegrész helyébe a ,,vagy ha a közlekedés más útvonalon nem biztosítható'' szöveg,
-
-b) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 13. §-ában az ,,állampolgárok'' szövegrész helyébe a ,,választópolgárok'' szöveg,
-
-c) az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény 26. § (1) és (3) bekezdésében ,,az állampolgárok'' szövegrész helyébe ,,a természetes személyek'' szöveg,
-
-d) a Hvt. 8. § (3) bekezdés e) pontjában ,,az állampolgárok élet- és vagyonbiztonsága'' szövegrész helyébe ,,az élet- és vagyonbiztonság'' szöveg,
-
-e)
-
-f)
-
-g) az Idtv. 4. § (1) bekezdés b) pontjában a ,,vízummal'' szövegrész helyébe a ,,vízummal vagy a 7. § (2) bekezdés b)–c) pontjában meghatározott tartózkodásra jogosító engedéllyel'' szöveg, 14. § (6) bekezdésében az ,,és'' szövegrész helyébe ,,vagy'' szöveg, 66. § (1) bekezdésében a ,,Rendőrség'' szövegrészek helyébe a Rendőrség és a Határőrség'' szöveg
+- a) a Gyt. 3. § a) pontjának ,,a 12. § és 13. § kivételével az országgyűlési képviselők és a helyi önkormányzati képviselők választásával összefüggő gyűlésekre, valamint a képviselői és a tanácstagi beszámoló gyűlésekre'' szövegrésze helyébe ,,a választási eljárásról szóló törvény hatálya alá tartozó gyűlésekre'' szöveg, a 8. § (1) bekezdésében az ,,illetőleg a közlekedés rendjének aránytalan sérelmével járna'' szövegrész helyébe a ,,vagy ha a közlekedés más útvonalon nem biztosítható'' szöveg,
+- b) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 13. §-ában az ,,állampolgárok'' szövegrész helyébe a ,,választópolgárok'' szöveg,
+- c) az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény 26. § (1) és (3) bekezdésében ,,az állampolgárok'' szövegrész helyébe ,,a természetes személyek'' szöveg,
+- d) a Hvt. 8. § (3) bekezdés e) pontjában ,,az állampolgárok élet- és vagyonbiztonsága'' szövegrész helyébe ,,az élet- és vagyonbiztonság'' szöveg,
+- e)
+- f)
+- g) az Idtv. 4. § (1) bekezdés b) pontjában a ,,vízummal'' szövegrész helyébe a ,,vízummal vagy a 7. § (2) bekezdés b)–c) pontjában meghatározott tartózkodásra jogosító engedéllyel'' szöveg, 14. § (6) bekezdésében az ,,és'' szövegrész helyébe ,,vagy'' szöveg, 66. § (1) bekezdésében a ,,Rendőrség'' szövegrészek helyébe a Rendőrség és a Határőrség'' szöveg
 
 lép.
 
 (2) E törvény hatálybalépésének napján hatályát veszti
 
-a) a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 12. § (4) bekezdése,
-
-b) a Met. 12. § d) pontja, 15. § a) pontjának és 19. § (1) bekezdésének ,,személyazonosításra alkalmas,'' szövegrésze, 16. § d) pontja, 24. §-át megelőző cím, 33. § (5) bekezdése, 38. § (3)–(4) bekezdése, 50. § (2) bekezdése, 57. § b) pontjának ,,nemzetközi megállapodás alapján'' szövegrésze, továbbá 59. § (5) bekezdése,
-
-c) a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 13–14. §-a, valamint 38. § (1) bekezdése,
-
-d)
-
-e) az Idtv. 4. § (1) bekezdés a) pontjának ,,vagy a 7. § (2) bekezdésben meghatározott tartózkodásra jogosító engedéllyel'' szövegrész, 9. §-a (3) bekezdésében a ,,folyamatos'' szövegrész, 11. §-a, 12. § (2) bekezdésének b) pontja, 16. § (3) bekezdése, a 17. § (1) bekezdés d) pontjának ,,vagy'' szövegrésze, a 17. § (1) bekezdés e) pontja, a 18. § (4) bekezdése, a 21. § (3) bekezdése, a 32. § (2) bekezdés g) pontja, a 33. §-a (2) bekezdéséből ,,a szabálysértési hatóságok, valamint a helyszíni bírság kiszabására jogosult szervek a 32. § (2) bekezdés g) pontja esetében a területi idegenrendészeti hatóságnak'' szövegrész, a 35. § (3) bekezdése, a 44. § előtti címből ,,a szabálysértési hatóság, illetőleg a menekültügyi hatóság'' szövegrész, a 44. § (1) bekezdéséből ,,a szabálysértési vagy a menekültügyi hatóság'' szövegrész, a 44. § (2) bekezdéséből ,,a menekültügyi, valamint a szabálysértési hatóság'' szövegrész, a 44. § (4) bekezdése, a 47. § (2) bekezdése, a 49. § (2) bekezdése, az 54. § (4) bekezdés e) pontjának ,,továbbá a tartására fordított összeget'' szövegrésze, az 58. § (3) bekezdése és az 59. § (1) bekezdéséből a ,,szabálysértési, menekültügyi'' szövegrész, az 59. § (3) bekezdéséből a ,,a kiutasító határozat elleni fellebbezésben, illetőleg'' szövegrész, a 68. §, a 70. §-t megelőző alcím, a 70. §, továbbá a 95. § e), j) és k) pontjai.
-
-f)
+- a) a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 12. § (4) bekezdése,
+- b) a Met. 12. § d) pontja, 15. § a) pontjának és 19. § (1) bekezdésének ,,személyazonosításra alkalmas,'' szövegrésze, 16. § d) pontja, 24. §-át megelőző cím, 33. § (5) bekezdése, 38. § (3)–(4) bekezdése, 50. § (2) bekezdése, 57. § b) pontjának ,,nemzetközi megállapodás alapján'' szövegrésze, továbbá 59. § (5) bekezdése,
+- c) a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 13–14. §-a, valamint 38. § (1) bekezdése,
+- d)
+- e) az Idtv. 4. § (1) bekezdés a) pontjának ,,vagy a 7. § (2) bekezdésben meghatározott tartózkodásra jogosító engedéllyel'' szövegrész, 9. §-a (3) bekezdésében a ,,folyamatos'' szövegrész, 11. §-a, 12. § (2) bekezdésének b) pontja, 16. § (3) bekezdése, a 17. § (1) bekezdés d) pontjának ,,vagy'' szövegrésze, a 17. § (1) bekezdés e) pontja, a 18. § (4) bekezdése, a 21. § (3) bekezdése, a 32. § (2) bekezdés g) pontja, a 33. §-a (2) bekezdéséből ,,a szabálysértési hatóságok, valamint a helyszíni bírság kiszabására jogosult szervek a 32. § (2) bekezdés g) pontja esetében a területi idegenrendészeti hatóságnak'' szövegrész, a 35. § (3) bekezdése, a 44. § előtti címből ,,a szabálysértési hatóság, illetőleg a menekültügyi hatóság'' szövegrész, a 44. § (1) bekezdéséből ,,a szabálysértési vagy a menekültügyi hatóság'' szövegrész, a 44. § (2) bekezdéséből ,,a menekültügyi, valamint a szabálysértési hatóság'' szövegrész, a 44. § (4) bekezdése, a 47. § (2) bekezdése, a 49. § (2) bekezdése, az 54. § (4) bekezdés e) pontjának ,,továbbá a tartására fordított összeget'' szövegrésze, az 58. § (3) bekezdése és az 59. § (1) bekezdéséből a ,,szabálysértési, menekültügyi'' szövegrész, az 59. § (3) bekezdéséből a ,,a kiutasító határozat elleni fellebbezésben, illetőleg'' szövegrész, a 68. §, a 70. §-t megelőző alcím, a 70. §, továbbá a 95. § e), j) és k) pontjai.
+- f)
 
 (3)
 
-148. §
+148. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet a 2004. évi XXIX. törvényhez

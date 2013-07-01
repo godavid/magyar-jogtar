@@ -87,6 +87,8 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (4) Az adóhatóság vezetője a rendelkező nyilatkozat évét megelőző év utolsó napjáig az (1) bekezdés szerinti kedvezményezett technikai számát a Magyar Közlönyben közzéteszi.
 
+(5) A (4) bekezdésben meghatározott adatok tekintetében az adóhatóság vezetője – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+
 #### 3. A rendelkező nyilatkozat megtételének szabályai és érvényességi kellékei
 
 5. § (1) A magánszemély a rendelkező nyilatkozatot – függetlenül a személyi jövedelemadó megállapításának és bevallásának módjától – az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 1. számú melléklet I. fejezet B) pont 2. b) alpontjában meghatározott határidőig juttathatja el az adóhatósághoz. E határidő elmulasztása jogvesztő.
@@ -160,7 +162,11 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (2) Az adóhatóság az (1) bekezdés a) és b) pontja szerinti adatokat kedvezményezettenként, a kedvezményezett nevének, székhelyének, adószámának, a kedvezményezettet megillető összegének és a kedvezményezett javára érvényesen rendelkezők számának megjelölésével a rendelkező nyilatkozat évének szeptember 15. napjáig, illetve a c) pontja szerinti adatokat a rendelkező nyilatkozat évének első napjától honlapján – a kedvezményezett nevének, adószámának, illetve technikai számának és székhelyének megjelölésével – közzéteszi.
 
+(2a) Az adóhatóság az (1) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
+
 (3) A jogszabályi feltételeknek megfelelő azon kedvezményezettekről, akik számára az átutalás megtörtént, a (2) bekezdés szerinti közzétételre a rendelkező nyilatkozat évének utolsó napját követően kerül sor.
+
+(3a) Az adóhatóság a (3) bekezdésben meghatározott adatok tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
 (4) Az adóhatóság biztosítja a (3) bekezdésben meghatározott adatokat tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére az általa működtetett információs portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 

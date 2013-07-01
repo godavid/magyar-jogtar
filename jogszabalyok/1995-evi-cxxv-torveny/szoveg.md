@@ -32,7 +32,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait, valamint objektumai műveleti védelmét;
 - h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő;
 - i) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését;
-- j) saját beszerzései tekintetében elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
+- j) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
 
 5. § Az Alkotmányvédelmi Hivatal
 
@@ -43,13 +43,20 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
 - f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 - g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
-- h) a nyomozás elrendeléséig végzi az állam elleni bűncselekmények [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) X. fejezet], az emberiség elleni bűncselekmények (Btk. XI. fejezet), illetve működési területén a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
+- h) a nyomozás elrendeléséig végzi
+  - ha) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), illetve működési területén a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
+  - hb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), illetve működési területén a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
+
+bűncselekmények felderítését;
+
 - i)
-- j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §) és a közveszéllyel fenyegetés (Btk. 270/A. §) bűncselekményekre vonatkozóan,
+- j) információkat szerez
+  - ja) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (1978. évi IV. törvény 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), a közveszélyokozás (1978. évi IV. törvény 259. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a közösség elleni izgatás (1978. évi IV. törvény 269. §), a rémhírterjesztés (1978. évi IV. törvény 270. §) és a közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §),
+  - jb) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §) és a közveszéllyel fenyegetés (Btk. 338. §) bűncselekményekre vonatkozóan;
 - k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
 - m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
-- n) saját beszerzései tekintetében elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést és kiegészítő ellenőrzést.
+- n) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
 
 6. § A Katonai Nemzetbiztonsági Szolgálat
 
@@ -64,12 +71,24 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - i) információkat gyűjt a nemzetbiztonságot veszélyeztető, jogellenes fegyverkereskedelemről, a honvédelemért felelős miniszter által vezetett minisztériumot és a Magyar Honvédség biztonságát veszélyeztető szervezett bűnözésről, ezen belül kiemelten a jogellenes kábítószer- és fegyverkereskedelemről;
 - j) közreműködik a nemzetközileg ellenőrzött termékek és technológiák, valamint a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - k) ellátja az illetékességi körébe tartozó, a kormányzati tevékenység szempontjából fontos katonai szervek és létesítmények (intézmények), valamint a kormányzati és katonai vezetési objektumok biztonsági védelmét;
-- l) működési területén a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
-- m) működési területén felderíti a terrorcselekményt (Btk. 261. §);
-- n) működési területén információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §), a közveszéllyel fenyegetés (Btk. 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (Btk. 263/B. §) bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség törvényes feladatainak végrehajtását;
+- l) működési területén a nyomozás elrendeléséig végzi
+  - la) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
+  - lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
+
+bűncselekmények felderítését;
+
+- m) működési területén felderíti
+  - ma) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekményt (1978. évi IV. törvény 261. §),
+  - mb) a terrorcselekményt (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318. §);
+- n) működési területén információkat szerez
+  - na) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (1978. évi IV. törvény 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), a közveszélyokozás (1978. évi IV. törvény 259. §), a nemzetközi jogi kötelezettség megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a közösség elleni izgatás (1978. évi IV. törvény 269. §), a rémhírterjesztés (1978. évi IV. törvény 270. §), a közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (1978. évi IV. törvény 263/B. §),
+  - nb) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §), a közveszéllyel fenyegetés (Btk. 338. §)
+
+bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség törvényes feladatainak végrehajtását;
+
 - o) ellátja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség szervezeteiben folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat;
 - p) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését;
-- q) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést és kiegészítő ellenőrzést;
+- q) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
 - r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 - s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
 
@@ -83,7 +102,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felügyeletet,
 - e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 - f) elvégzi a hatáskörébe tartozó, valamint a 68. § (4) bekezdésének f) pontjában meghatározott személyek nemzetbiztonsági ellenőrzését, illetve ellátja az objektumai műveleti védelmét,
-- g) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
+- g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
@@ -349,7 +368,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 36. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja – a jogos védelem és a végszükség esetein kívül – lőfegyvert használhat
 
 - a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, illetve az ezekkel történő közvetlen fenyegetés elhárítására;
-- b) az alkotmányos rend erőszakos megváltoztatása (Btk. 139. §), a rombolás (Btk. 142. §), a kémkedés (Btk. 147. §), a népirtás (Btk. 155. §), a közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), a légijármű hatalomba kerítése (Btk. 262. §) bűncselekmények elkövetésének megakadályozására vagy megszakítására;
+- b) a népirtás (Btk. 142. §), az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a rombolás (Btk. 257. §), a kémkedés (Btk. 261. §), a terrorcselekmény (Btk. 314–316. §), a jármű hatalomba kerítése (Btk. 320. §) és a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
 - c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 - d) a nemzetbiztonsági szolgálat objektumát ért vagy azt közvetlenül fenyegető támadás elhárítására.
 

@@ -36,7 +36,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (3) Az (1) bekezdés a) pontjában foglaltaktól eltérően dohányzóhely kijelölése nélkül is lehet dohányozni
 
-- a) a dohánytermék kereskedelmi bemutatója céljából létrejött rendezvényen,
+- a)
 - b) szállásszolgáltatást nyújtó intézmények kifejezetten dohányzóként kiadott és ekként megjelölt, zárt légterű szobáiban, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezés vagy tűzvédelmi előírás egyébként nem tiltja.
 
 (4) A (2) bekezdés a) és b) pontjában foglaltakon túlmenően nyílt légtérben sem jelölhető ki dohányzóhely
@@ -112,17 +112,13 @@ hozható meg.
 
 ### A dohánytermékek forgalomba hozatalánakegyes korlátai
 
-5. § (1) Dohánytermék nem árusítható közoktatási intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
+5. § (1) Dohánytermék-kiskereskedelemreirányuló tevékenység nem végezhető közoktatási intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
 
-(2)
+(2) Dohánytermék árumintaként nem forgalmazható.
 
-(3)
+(3) Dohánytermék árusítása automatából nem megengedett.
 
-(4) Dohánytermék árumintaként nem forgalmazható.
-
-(5) Dohánytermék az üzlet jellegét, kialakítását figyelembe véve az egyéb termékektől elkülönítve, önálló polcon vagy az üzlethelyiség erre a célra elkülönített részén, vagy kizárólag dohánytermékek, illetőleg azok fogyasztásához kapcsolódó kiegészítő kellékek forgalmazására szolgáló önálló üzlethelyiségben hozható kereskedelmi forgalomba.
-
-(6) Az (5) bekezdésben foglalt rendelkezések betartását a fogyasztóvédelmi hatóság rendszeresen ellenőrzi.
+(4) E § alkalmazásában dohánytermékek-kiskereskedelem alatt a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben ekként meghatározott fogalmat kell érteni.
 
 6. § (1) Cigarettát forgalomba hozni csak abban az esetben lehet, ha a forgalomba kerülő fogyasztói csomagolási egység felirata – szembetűnően, kontrasztos háttérben, jól olvashatóan, tartósan, magyar nyelven – egyaránt tartalmazza
 
@@ -142,7 +138,7 @@ hozható meg.
 
 (5) A dohánytermékek címkézésének és csomagolásának további részletes szabályaira külön jogszabály rendelkezései az irányadóak.
 
-(6) Dohánytermék árusítása automatából nem megengedett.
+(6)
 
 ### A dohánytermékek fogyasztására,illetőleg forgalmazására vonatkozó tilalmak,valamint kötelezettségek megszegése
 

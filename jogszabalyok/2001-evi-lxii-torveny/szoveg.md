@@ -238,9 +238,19 @@ Ezek az információk szolgálják
 
 (5) Ha az igazolvány melléklete a kedvezmények igénybevételre jogosító igazolások bejegyzésére alkalmatlanná vált, betelt, akkor az adott kedvezmény (utazási, diák-, pedagógus-) igénybevételére jogosító pótfüzetet kell kérvényezni, amely nem minősül új igazolvány iránti kérelemnek. A pótfüzetnek tartalmaznia kell a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” okmányszámát és a jogosult nevét. A pótfüzet a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” elválaszthatatlan részét képezi.
 
-(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére.
+(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
-(6a) Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+- a) az igazolványba bejegyzett adatokat,
+- b) az igazolvány tulajdonosának külföldi lakóhelyét,
+- c) az igazolványra jogosító családi kapcsolatot,
+- d) a tartózkodásra jogosító engedélye számát,
+- e) a (2) bekezdésben meghatározott adatokat,
+- f) az igazolvány kiadásának, cseréjének, pótlásának, kiadása megtagadásának, az igazolvány visszavonásának, érvénytelenítésének okát, időpontját, továbbá
+- g) a talált igazolvány visszaadásának tényét és időpontját.
+
+(6a) A (6) bekezdés szerinti nyilvántartás a (2) bekezdésben, a (3) bekezdés e)–g) pontjában, valamint a (6) bekezdés a) és d)–g) pontjában foglalt adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(6b) Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére. Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
@@ -250,6 +260,11 @@ Ezek az információk szolgálják
 - d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
 
 (7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
+
+21/A. § Az elbíráló hatóság által vezetett közhiteles hatósági nyilvántartásba történő bejegyzés, valamint az onnan való törlés során az alábbi bizonyítási eszközök használhatóak fel:
+
+- a) okirat,
+- b) az ügyfél nyilatkozata.
 
 22. § (1) Az elbíráló hatóság eljárására az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezései az irányadók. Az államigazgatási eljárás költségeit az állam viseli.
 

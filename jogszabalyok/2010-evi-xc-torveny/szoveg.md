@@ -43,6 +43,8 @@ teljesítheti.
 - b) a háztartási alkalmazott adóazonosító jele és társadalombiztosítási azonosító jele,
 - c) a tényleges foglalkoztatás kezdő napja.
 
+(3a) Az állami adóhatóság a (3) bekezdésben meghatározott adattartalmú bejelentésekről nyilvántartást vezet, amely – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A háztartási alkalmazott (1) bekezdés b) pontja szerint történő bejelentése a kormányzati tájékoztató szolgáltatás (a továbbiakban: központi ügyfélszolgálat) útján történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. A központi ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
 (5) Az (1) bekezdés szerinti bejelentés a teljesítés napját magában foglaló hónap utolsó napjáig terjedő időszakra vonatkozik. Ugyanazon foglalkoztatott következő hónapban történő ismételt foglalkoztatása esetén a bejelentést az (1) bekezdés szabályainak megfelelően újra teljesíteni kell.

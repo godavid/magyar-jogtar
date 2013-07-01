@@ -93,6 +93,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - e) által a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a székhelyétől, és
 - f) névjegyzékbe vételének időpontját, a határozat számát.
 
+(2a) Az (1) és (2) bekezdés szerinti névjegyzék – az (1) bekezdés a)–c), k) és m) pontjában, valamint a (2) bekezdés a)–c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A névjegyzék adatai – a 6. § (1) bekezdés b), k), l) pontjaiban foglaltak kivételével – nyilvánosak, amelyeket a miniszter a világhálón tesz közzé.
 
 (4) A nyilvános adatok jogszabályban meghatározott körét a miniszter a Hivatalos Értesítőben is közzéteszi.

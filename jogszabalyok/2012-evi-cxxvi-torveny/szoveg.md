@@ -315,6 +315,8 @@ használhatja fel.
 - s) az e törvényben meghatározottakon túl a kamarai tisztségviselők összeférhetetlenségének eseteit;
 - t) mindazt, amiben e törvény az alapszabály rendelkezését írja elő.
 
+18/A. § Az agrárkamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. Az agrárkamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ### Az országos küldöttgyűlés
 
 19. § (1) Az agrárkamara legfőbb szerve a tagok által öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés választott tagjai az agrárkamarai országos küldöttek, valamint az agrárkamara megyei szervezetének elnökei.

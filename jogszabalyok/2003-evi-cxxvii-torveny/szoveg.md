@@ -888,7 +888,10 @@ is végezhető, feltéve, ha az a)–c) pont szerinti előállításról, felhas
 
 (2) Az egyéni vállalkozó, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja törvény) szerinti mezőgazdasági őstermelő mentesül a kettős könyvvezetés és a mérleg hitelesítés kötelezettsége alól, ha az egyéni vállalkozókra az Szja törvény 5. számú mellékletében előírt nyilvántartást vezet.
 
-(3) Nem adható engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+- a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti gazdasági vagy a közélet tisztasága elleni,
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 36. § (1) A kérelmező a 35. §-ban foglalt feltételek fennállása esetén is csak arra a termékgyártásra, raktározásra, tárolásra használt üzemre, raktárra kaphat engedélyt, ahol az előállított, raktározott jövedéki termékek biztonságos tárolásához, pontos mennyiségi számbavételéhez, a hatósági felügyelet ellátásához, az ellenőrzések folytatásához szükséges tárgyi feltételek adottak, továbbá, amelyre rendelkeznek azokkal a hatósági engedélyekkel, amelyeket jogszabály az adóraktárban folytatni kívánt tevékenység gyakorlásához külön előír.
 
@@ -1055,7 +1058,10 @@ a 38. § (4) bekezdésének figyelembevételével.
 - e) aki az e törvényben meghatározott egyéb feltételekkel is rendelkezik;
 - f) aki jövedéki ügyintéző, illetve aki jövedéki ügyintézőt foglalkoztat.
 
-(3) Nem adható keretengedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható keretengedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+- b) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (4) A kérelmező a (2)–(3) bekezdésben foglalt feltételek fennállása mellett is csak akkor kaphat keretengedélyt, ha
 
@@ -1322,7 +1328,7 @@ végzés ellen.
 
 48/C. Ha az e törvény szerinti, vámhatóság által kiadott engedély engedélyese jogutódlással szűnik meg, a jogutódnak az engedély módosítását kell kérnie.
 
-48/D. § (1) Az e törvény szerinti engedélyt – kivéve az egyszerűsített adóraktári engedélyt – kérelmező természetes személy, kérelmező szervezet vezetője vagy vezető tisztségviselője az engedély iránti kérelem benyújtásával egyidejűleg a vámhatóság részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen nem ítélték el, vagy jogerősen elítélték, de az engedély iránti kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a vámhatóság részére – annak az e törvény szerinti engedély birtokában folytatható tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+48/D. § (1) Az e törvény szerinti engedélyt – kivéve az egyszerűsített adóraktári engedélyt – kérelmező természetes személy, kérelmező szervezet vezetője vagy vezető tisztségviselője az engedély iránti kérelem benyújtásával egyidejűleg a vámhatóság részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni bűncselekmény, illetve a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen nem ítélték el, vagy jogerősen elítélték, de az engedély iránti kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a vámhatóság részére – annak az e törvény szerinti engedély birtokában folytatható tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (2) A vámhatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy az engedélyes természetes személlyel, az engedélyes szervezet vezetőjével vagy vezető tisztségviselőjével szemben az e törvény szerint kiadott engedély birtokában folytatott tevékenység gyakorlásának időtartama alatt fennállnak-e az (1) bekezdés szerinti tények. A hatósági ellenőrzés céljából a vámhatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az engedélyes természetes személlyel, az engedélyes szervezet vezetőjével vagy vezető tisztségviselőjével szemben az (1) bekezdés szerinti tények fennállnak-e.
 
@@ -1336,6 +1342,12 @@ kezeli.
 (4) A csomagküldő kereskedő adóügyi képviselője esetében a nyilvántartásba vételi eljárás kezdeményezése és lefolytatása, illetve a nyilvántartásba vételhez meghatározott, a 35. § (3) bekezdése szerinti feltétel fennállásának hatósági ellenőrzése során az adatigénylésre, adatátvételre és adatkezelésre vonatkozóan az (1)–(3) bekezdésben meghatározott rendelkezéseket megfelelően kell alkalmazni.
 
 (5) Az adóraktári, bejegyzett kereskedői, bejegyzett feladói, felhasználói engedélyhez, a keretengedélyhez, a jövedéki termék szabad forgalomban végzett kereskedelméhez, importálásához, exportálásához szükséges jövedéki engedélyhez, valamint a csomagküldő kereskedő és a csomagküldő kereskedő adóügyi képviselőjének nyilvántartásba vételéhez szükséges kérelemhez az e törvényben vagy végrehajtási rendeletében előírt feltételek teljesítését igazoló okmányokat, iratokat, nyilatkozatokat, dokumentációkat eredeti vagy hitelesített másolati példányban kell csatolni e törvény vagy e törvény végrehajtási rendeletének eltérő rendelkezése hiányában. A kérelmezőnek nem kell igazolást csatolnia arról, hogy nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, továbbá arról, hogy a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, vagy ha van, arra részletfizetést vagy fizetési halasztást engedélyeztek számára.
+
+48/E. § (1) A vámhatóság az adóraktári engedéllyel, a bejegyzett kereskedői engedéllyel, a bejegyzett feladói engedéllyel, a keretengedéllyel, a felhasználói engedéllyel, a jövedéki engedéllyel rendelkező személyekről, továbbá a csomagküldő kereskedőkről, a csomagküldő kereskedők adóügyi képviselőiről, az üzemi motorikus gáztöltő állomás üzemeltetőiről, a nyilvántartásba vett felhasználókról és a mobil palackozóval rendelkező személyekről közhiteles hatósági nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartásban az engedélyes vagy a nyilvántartásba vett nevére, engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély érvényességére vonatkozó adatok minősülnek közhitelesnek.
+
+(3) A vámhatóság az (1) bekezdésben felsorolt személyekre vonatkozó, közhitelesnek minősülő adatokat hivatalos honlapján közzéteszi.
 
 ### VIII. Fejezet — HATÓSÁGI FELÜGYELET
 
@@ -1705,7 +1717,10 @@ talajjal egybeépített vagy talajhoz rögzített, az illetékes hatóság álta
 - d) aki a (6) bekezdésben foglaltak szerint a felhasználói engedély kiadását megelőzően jövedéki biztosítékot nyújtott;
 - e) aki rendelkezik az üzemére, a raktárára, illetve az ott folytatott tevékenységére jogszabályban megkövetelt hatósági engedélyekkel.
 
-(4) Nem adható felhasználói engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(4) Nem adható felhasználói engedély, ha a kérelmező természetes személyt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+- b) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (5) A felhasználói engedély iránti kérelemhez meg kell adni
 
@@ -2634,7 +2649,10 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 - c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 - d) akinek a vámhatóság, az adóhatóság felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn.
 
-(3) Nem adható engedély, ha az engedélyt kérelmező természetes személyt vagy a szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(3) Nem adható engedély, ha az engedélyt kérelmező természetes személyt vagy a szervezet vezetőjét, vezető tisztségviselőjét
+
+- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti gazdasági vagy a közélet tisztasága elleni,
+- b) a Btk. XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (4) A jövedéki engedélyes kereskedelmi tevékenységre (kivéve a nem saját számlára végzett közösségi kereskedelmi tevékenységet, illetve a jövedéki termék más tagállamba történő kivitelét) és a saját számlára végzett importtevékenységre szóló jövedéki engedély (2) bekezdésben foglaltakon túli feltétele, hogy a kérelmező
 
@@ -2762,12 +2780,13 @@ jövedéki biztosítékot nyújtania.
 
 (4) A kereskedelmi hatóság a jövedéki termékek kereskedelmi forgalmazására jogosító működési engedélyről szóló döntéseket a működési engedélyről szóló döntés meghozatalával egyidejűleg, a nem kizárólag üzletben forgalmazható jövedéki termék forgalmazására irányuló, a Kertv. szerinti bejelentések másolatát pedig legkésőbb a bejelentés nyilvántartásba vételét követő munkanapon küldi meg a vámhatóságnak.
 
-(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – a dohánygyártmány kivételével, illetve figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb nyolc nappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
+(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb nyolc nappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
 
 (6) Mozgóbolt útján
 
 - a) a tüzelőolaj és a propán vagy a propán-bután gáz, továbbá – kizárólag a hivatalosan meghirdetett technikai sportversenyeken (motor-, autó-, repülő-, motorcsónakversenyeken), a versenyen részt vevő gépjárművek használatára – az üzemanyag csak a felhasználás helyszínén, olyan tartállyal felszerelt, forgalmi rendszámmal ellátott közúti gépjárműből (tankautó) értékesíthető, amely a mérésügyi szerv által hitelesített, ólomzárral ellátott mérőműszeren (átfolyásmérőn), kiszolgálótömlőn és pillanatelzárón keresztül méri ki a terméket,
-- b) az alkoholtermék, a bor, a sör, a pezsgő és a köztes alkoholtermék kizárólag kiszerelve, olyan forgalmi rendszámmal ellátott tehergépjárműből (autóbusz) értékesíthető, amely szilárd alapanyagú térelemekkel körülhatárolt, zárt légtérrel rendelkezik.
+- b) az alkoholtermék, a bor, a sör, a pezsgő és a köztes alkoholtermék kizárólag kiszerelve, olyan forgalmi rendszámmal ellátott tehergépjárműből (autóbusz) értékesíthető, amely szilárd alapanyagú térelemekkel körülhatárolt, zárt légtérrel rendelkezik,
+- c) dohányterméket csak a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Dohánytörvény) 11. § (3) bekezdése alapján, és csak a Dohánytörvény 4. § (2) bekezdésében meghatározott részvénytársaság, vagy e részvénytársaság által külön feljogosított nem jövedéki engedélyes kereskedő útján lehet értékesíteni.
 
 (7) Az (5) bekezdés szerinti bejelentésben meg kell adni a mozgóboltként üzemelő közúti gépjármű típusát, forgalmi rendszámát, az ellátott települések, értékesítési megállóhelyek megnevezését és helyét, azok megközelítésének útvonalát, a településenként, megállóhelyenként előre meghatározott nyitvatartási időt, valamint a jövedéki termék raktározására használt épület, épületrész címét (helyrajzi számát).
 

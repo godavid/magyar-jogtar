@@ -21,7 +21,9 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - 1. Aláírás-létrehozó adat: olyan egyedi adat (jellemzően kriptográfiai magánkulcs), melyet az aláíró az elektronikus aláírás létrehozásához használ.
 - 2. Aláírás-ellenőrző adat: olyan egyedi adat (jellemzően kriptográfiai nyilvános kulcs), melyet az elektronikusan aláírt elektronikus dokumentumot megismerő személy az elektronikus aláírás ellenőrzésére használ.
 - 3. Aláírás-létrehozó eszköz: olyan hardver, illetve szoftver eszköz, melynek segítségével az aláíró az aláírás-létrehozó adatok felhasználásával az elektronikus aláírást létrehozza.
-- 4. Aláíró: az a természetes személy, aki az aláírás-létrehozó eszközt birtokolja és a saját vagy más személy nevében aláírásra jogosult, valamint az a jogi személy vagy közhiteles nyilvántartásban szereplő jogi személyiség nélküli szervezet, amely az aláírás-létrehozó eszközt birtokolja, és akinek a nevében az őt képviselő természetes személy az elektronikus aláírást az elektronikus dokumentumon elhelyezi, valamint aki meghatározza, hogy a nevében jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz elektronikus aláírást elektronikusan dokumentumon elhelyezzen.
+- 4. Aláíró: a) a természetes személy, aki az aláírás-létrehozó eszközt birtokolja vagy aki a szolgáltató által üzemeltetett aláírás-létrehozó eszközön lévő aláírás-létrehozó adathoz kizárólagosan hozzáfér, és a saját vagy más személy nevében aláírásra jogosult,
+  - b) a jogi személy vagy közhiteles nyilvántartásban szereplő jogi személyiség nélküli szervezet, amely az aláírás-létrehozó eszközt birtokolja vagy aki a szolgáltató által üzemeltetett aláírás-létrehozó eszközön lévő aláírás-létrehozó adathoz kizárólagosan hozzáfér, és akinek a nevében az őt képviselő természetes személy az elektronikus aláírást az elektronikus dokumentumon elhelyezi, valamint
+  - c) aki meghatározza, hogy a nevében jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz elektronikus aláírást elektronikusan dokumentumon elhelyezzen.
 - 5. Biztonságos aláírás-létrehozó eszköz: az e törvény 1. számú mellékletében foglalt követelményeknek eleget tevő aláírás-létrehozó eszköz.
 - 6. Elektronikus aláírás: elektronikusan aláírt elektronikus dokumentumhoz azonosítás céljából logikailag hozzárendelt vagy azzal elválaszthatatlanul összekapcsolt elektronikus adat.
 - 7. Elektronikus aláírás ellenőrzése: az elektronikusan aláírt elektronikus dokumentum aláíráskori, illetve ellenőrzéskori tartalmának összevetése, továbbá az aláíró személyének azonosítása a dokumentumon szereplő, illetve a hitelesítés-szolgáltató által közzétett aláírás-ellenőrző adat, tanúsítvány visszavonási információk, valamint a tanúsítvány felhasználásával.
@@ -108,6 +110,8 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 (5) A (4) bekezdés szerinti felelősségvállalás úgy is történhet, hogy a belföldi hitelesítés-szolgáltató tanúsítványt bocsát a külföldi hitelesítés-szolgáltató rendelkezésére (a továbbiakban: felülhitelesítés), melyet a külföldi hitelesítés-szolgáltató a saját maga által kibocsátott tanúsítványhoz csatolhat.
 
 (6) A hitelesítés-szolgáltató a felelősségvállalást vagy a felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítésszolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
+
+(6a) A Hatóság által a (6) bekezdés alapján vezetett jegyzék – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (7) Az (1)–(2) bekezdésben foglaltakon kívüli külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítványhoz a 3. § (1) bekezdése szerinti jogkövetkezmények fűződnek.
 
@@ -379,10 +383,12 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 17. § (1) A Hatóság
 
-- a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (2) bekezdése szerinti személyeket (szervezeteket);
+- a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (5) bekezdése szerinti személyeket (szervezeteket);
 - b) a szolgáltatók működésének időtartama alatt vizsgálja, illetőleg ellenőrzi, hogy a szolgáltatók megfelelnek-e az e törvény, a felhatalmazása alapján kiadott jogszabályok, a szolgáltatási szabályzat, illetve az általános szerződési feltételek előírásainak;
 - c) a b) pontban foglalt követelmények nem teljesítése esetén a 21–23. § szerinti intézkedéseket és szankciókat alkalmazza;
 - d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok segítségével bárki számára hozzáférhető és folyamatosan elérhető módon közzéteszi.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A Hatóság eljárásaira a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell alkalmazni.
 
@@ -402,6 +408,8 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (3) A Hatóság a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(3a) A (3) bekezdés szerinti nyilvántartás az engedélyezett szakértői tevékenység tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A Hatóság az elektronikus aláírási szolgáltatási szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és nem áll-e a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a Hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy az elektronikus aláírási szolgáltatási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Hatóság a hatósági ellenőrzés időtartamára vagy az elektronikus aláírási szolgáltatási szakértői nyilvántartásból való törlésről szóló döntés jogerőre emelkedéséig kezeli.
@@ -412,14 +420,16 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### Nyilvántartások
 
-19. § A Hatóság nyilvántartást vezet és tesz közzé
+19. § (1) A Hatóság nyilvántartást vezet és tesz közzé
 
 - a) a 7. § (1) bekezdése alapján bejelentett szolgáltatókról, amely tartalmazza a szolgáltató nevét, székhelyét (lakóhelyét, telephelyét, működési helyét), az általa végzett szolgáltatás megjelölését, valamint azt a tényt, hogy a szolgáltató az adott szolgáltatás vonatkozásában minősített szolgáltató, továbbá az általa szolgáltatott aláírás-létrehozó eszköz azonosító jelét és jogszabályban meghatározott egyéb adatokat;
-- b) a 7. § (2) bekezdése szerinti aláírás-létrehozó eszközökről és egyéb elektronikus aláírási termékekről, melyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
-- c) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék tanúsítására kijelölt szervezetekről, mely tartalmazza a szervezet nevét, elérhetőségét, szakterületét, valamint jogszabályban meghatározott egyéb adatokat;
-- d) a minősített hitelesítés-szolgáltató által kibocsátott hitelesítési és időbélyegzési rend megnevezéséről, melyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
+- b) a 7. § (5) bekezdése szerinti aláírás-létrehozó eszközökről és egyéb elektronikus aláírási termékekről, amelyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
+- c) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék tanúsítására kijelölt szervezetekről, amely tartalmazza a szervezet nevét, elérhetőségét, szakterületét, valamint jogszabályban meghatározott egyéb adatokat;
+- d) a minősített hitelesítés-szolgáltató által kibocsátott hitelesítési és időbélyegzési rend megnevezéséről, amelyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
 - e) a 16/B. § szerinti önkéntes akkreditációs rendszerekről és az azok működtetéséért felelős szervezetekről, amely tartalmazza az önkéntes akkreditációs rendszer elnevezését, a működtetésért felelős személy vagy szervezet nevét és székhelyét (lakóhelyét, telephelyét vagy működési helyét);
 - f) a 16/B. § szerinti önkéntes akkreditációs rendszerek keretében tanúsított szolgáltatókról, amely tartalmazza a tanúsított szolgáltató nevét, székhelyét (lakóhelyét, telephelyét, működési helyét), a tanúsító önkéntes akkreditációs rendszer elnevezését és a tanúsítás érvényességi időtartamát.
+
+(2) Az (1) bekezdés b), c), e) és f) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 ### A szolgáltatók ellenőrzése, intézkedések
 
@@ -484,6 +494,8 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 24. § (1) Aláíró eszközök és egyéb elektronikus aláírási termékek tanúsítására jogosult tanúsító szervezetként a miniszter azokat a természetes személyeket és szervezeteket jelöli ki, amelyek erre vonatkozó kérelmet nyújtanak be, és rendelkeznek az aláíró eszközök és egyéb elektronikus aláírási termékek tanúsításához szükséges szakértelemmel.
 
 (2) A kijelölt, illetőleg a laboratóriumok, a tanúsító és az ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény szerinti szakmai akkreditáló bizottságok által az (1) bekezdés szerinti tevékenységre akkreditált szervezeteket a Hatóság nyilvántartásba veszi.
+
+(2a) A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Tanúsító szervezet az aláíró eszközök és az egyéb elektronikus aláírási termékek tanúsítását külső befolyástól mentesen köteles végezni.
 

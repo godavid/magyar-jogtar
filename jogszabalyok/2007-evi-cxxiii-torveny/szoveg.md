@@ -10,7 +10,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 ### Kisajátítási célok és feltételek
 
-2. § Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, az alábbi közérdekű célokra lehetséges:
+2. § Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, a 4. és 5. § szerinti esetekben, az alábbi közérdekű célokra lehetséges:
 
 - a) honvédelem;
 - b) nemzetközi szerződés alapján megvalósuló területcsere;
@@ -37,21 +37,21 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - c) a közérdekű cél megvalósítására kizárólag az adott ingatlanon kerülhet sor, illetve ha a közérdekű cél megvalósítására több ingatlan alkalmas, annak más ingatlanon való megvalósítása a tulajdon nagyobb sérelmével járna; és
 - d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a kisajátítási hatóság a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
 
-(2) Az adásvételi szerződés megkötését meghiúsultnak kell tekinteni, ha
+(2) Az adásvételi vagy csereszerződés megkötését meghiúsultnak kell tekinteni, ha
 
-- a) a kisajátítást kérő ajánlatát a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem fogadja el, illetve arra nem nyilatkozik; vagy
-- b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba feljegyezték, illetve bejegyzés alatt áll; vagy
-- c) a tulajdonos vagy más kártalanításra jogosult lakóhelye, tartózkodási helye, illetőleg székhelye ismeretlen, illetve a kisajátítást kérő ajánlatának közlése részükre egyéb körülményeik folytán rendkívüli nehézséggel vagy számottevő késedelemmel járna.
+- a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző egy éven belül megtett – ajánlatát a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem fogadja el, illetve arra nem nyilatkozik;
+- b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba feljegyezték, feljegyzés alatt áll, illetve más módon igazolták; vagy
+- c) a tulajdonos vagy más kártalanításra jogosult lakóhelye, tartózkodási helye, székhelye ismeretlen, vagy a kisajátítást kérő ajánlatának közlése részükre egyéb körülményeik folytán rendkívüli nehézséggel vagy számottevő késedelemmel járna; önmagában a tulajdonosok vagy más kártalanításra jogosultak nagy száma nem minősül ilyen egyéb körülménynek.
 
-4. § (1) A 2. § szerinti közérdekű célokra az alábbi feltételek mellett lehetséges kisajátítás:
+4. § (1) A 2. § szerinti közérdekű célokra az alábbi esetekben lehetséges kisajátítás:
 
-- a) honvédelem céljából, ha az ingatlan kisajátítását a külön törvényben meghatározott esetben és feltételek fennállása mellett igénylik, és az a honvédelmi feladatok ellátása érdekében szükséges;
+- a) honvédelem céljából, ha az ingatlan kisajátítása a honvédelemről szóló törvényben meghatározott honvédelmi érdekből szükséges;
 - b) nemzetközi szerződés alapján megvalósuló területcsere céljából, ha a másik ország részére szükséges területátadás más módon nem lehetséges;
-- c) terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, vagy a helyi építési szabályzatban szerepel, a cél az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei, vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem valósítható meg, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására, vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
+- c) a 2. § d) pontja szerinti célból, valamint terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, a cél megvalósítása az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem várható el, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
 - d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény létesítése, fejlesztése céljából, ha
   - da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon való megépítése, vagy országos közút építése érdekében szükséges,
   - db) a felszíni vagy felszín alatti vasút létesítési joga alapján történő igénybevétel (létesítés, üzemeltetés) a létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza,
-  - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
+  - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
   - dd) híd vagy alagút építése, fejlesztése érdekében, amennyiben arra – országos közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági, vagy közlekedéspolitikai szempontok alapján kerül sor,
   - de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza;
 - e) energiatermelés céljából, ha
@@ -71,21 +71,22 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - gc) szénhidrogén szállítóvezetékek, valamint ezek tartozékai és alkotórészei elhelyezése és üzemeltetése céljából szolgalmi jog alapításában a tulajdonos és az engedélyes, illetve a vezeték tulajdonosa között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a szolgalmi jogot az illetékes hatóság nem engedélyezte;
 - h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hírközlési építmény elhelyezése és üzemeltetése céljából közérdekű használati jog alapításában az ingatlan tulajdonos és az engedélyes között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a használati jogot az illetékes hatóság nem engedélyezte;
 - i) örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
-  - ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
+  - ia) az érintett ingatlanon olyan tevékenység folyik, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
   - ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
   - ic) a nemzeti emlékhely megközelítése másként nem lehetséges,
   - id) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
 - j) természetvédelem céljából, ha
-  - ja) a tulajdonos a védett természeti területen, a védelem céljával oly mértékig össze nem egyeztethető tevékenységet folytat, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
-  - jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – külön törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi;
-- k) vízgazdálkodási feladatok ellátása céljából, ha
+  - ja) védett természeti területen a védelem céljával oly mértékig össze nem egyeztethető tevékenység folyik, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
+  - jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi,
+  - jc) védett természeti területen a védett természeti területek természetvédelmi kezeléséért felelős szerv által megvalósítandó élőhely-rekonstrukciós beruházások beavatkozási vagy célterületén az élőhely helyreállítása másképp nem végezhető el;
+- k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása céljából, ha
   - ka) a Vásárhelyi Terv Továbbfejlesztése szerinti nyomvonalas létesítménynek jogszabállyal megállapított nyomvonalon való megépítése,
   - kb) vízkár elhárítási (árvíz, belvíz, aszály) célú vízilétesítmények megvalósítása,
   - kc) közműves vízellátó és szennyvízkezelő és -elvezető létesítmények megvalósítása,
   - kd) felszíni és felszín alatti vízkészletek közérdekű igénybevétele, tározása, el-, illetve továbbvezetését szolgáló létesítmények megvalósítása,
   - ke) a közcélú vízilétesítmény, illetve vízbázisok (távlati vízbázisok) belső védőövezetének biztosítása érdekében szükséges;
 - l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljából, ha
-  - la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
+  - la) az erdőben olyan tevékenység folyik, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
   - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna;
 - m) környezetvédelem céljából, ha
   - ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
@@ -103,41 +104,44 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 (3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.
 
-5. § (1) A 2. § n)–o) pontja alapján az ingatlan megvásárlása és kisajátítása kezdeményezésének joga az ingatlan tulajdonosát is megilleti, ha
+5. § (1) A 2. § c) és n)–o) pontja alapján az ingatlan megvásárlása és kisajátítása kezdeményezésének joga az ingatlan tulajdonosát is megilleti, ha az ingatlan tulajdonjogát az a) vagy b) pont szerinti korlátozás keletkezése előtt szerezte meg, és
 
-- a) az ingatlan tulajdonjogát a b) vagy c) pont szerinti tulajdoni korlátozás előtt szerezte meg, és
-- b) az ingatlan rendeltetését a helyi építési szabályzat, illetőleg szabályozási terv valamely később megvalósítandó – jogszabályban megállapított – olyan közérdekű célban határozza meg, amelynek megvalósítása a tulajdonostól nem várható el, és ez a tulajdonosi és építési jogokat,
-- c) a 2. § o) pontja szerinti kisajátítási célokhoz kapcsolódó közérdekű használati jog, vezetékjog, szolgalmi jog – a jog létesítését követően – az ingatlan rendeltetésszerű használatát
+- a) az ingatlan rendeltetését a helyi építési szabályzat valamely később megvalósítandó – jogszabályban megállapított – olyan közérdekű célban határozza meg, amelynek megvalósítása a tulajdonostól nem várható el, és ez a tulajdonosi és építési jogokat, vagy
+- b) a 2. § o) pontja szerinti közérdekű használati jog, szolgalmi jog – a jog létesítését követően – az ingatlan rendeltetésszerű használatát
 
 jelentősen akadályozza vagy megszünteti.
 
-(2) Az (1) bekezdés b) pontja szerinti esetben a tulajdonos akkor kérheti a közérdekű cél jogosultjának, ennek hiányában az önkormányzatnak a kisajátítási kérelem benyújtására vonatkozó kötelezését, ha az ingatlan adásvételére vonatkozó megállapodás annak kezdeményezésétől számított öt éven belül nem jött létre.
+(2) Az (1) bekezdés a) pontja szerinti esetben a tulajdonos annak a szervnek a kisajátítási kérelem benyújtására vonatkozó kötelezését kérheti, akivel – az épített környezet alakításáról és védelméről szóló törvény szerint – az ingatlan adásvételére vonatkozó megállapodás a tulajdonos kezdeményezésétől számított öt éven belül nem jött létre.
 
-(3) Az (1) bekezdés c) pontja szerinti esetben a közérdekű cél jogosultjának a kisajátítási kérelem benyújtására vonatkozó kötelezését a tulajdonos a létesítmény használatbavételi engedélye végrehajthatóvá válásától számított két évig kérheti.
+(3) Az (1) bekezdés b) pontja szerinti esetben a közérdekű cél jogosultjának a kisajátítási kérelem benyújtására vonatkozó kötelezését a tulajdonos a jog létesítésétől, vagy a létesítmény használatbavételi engedélye végrehajthatóvá válásától számított két évig kérheti.
 
 (4) Az (1) bekezdés szerinti esetben az ingatlan tulajdonosának kell igazolnia, hogy az ingatlan megvásárlását kezdeményezte, de az adásvételre vonatkozó megállapodás a kezdeményezése ellenére nem jött létre.
 
+(5) Közös tulajdonban álló ingatlan esetében a kisajátítást valamennyi – a kisajátítással tulajdont szerzőtől különböző – tulajdonostársnak kérelmeznie kell.
+
 ### Kisajátítással érintett ingatlan
 
-6. § (1) A kisajátítási tervben szereplő ingatlan adásvétellel történő megszerzése esetében az ingatlant terhelő – jogszabályon vagy szerződésen alapuló – elővásárlási, visszavásárlási, vételi (opció) jog nem gyakorolható.
+6. § (1) A kisajátítási tervben szereplő ingatlan adásvétellel vagy cserével történő megszerzése esetében az ingatlant terhelő – jogszabályon vagy szerződésen alapuló – elővásárlási, visszavásárlási, vételi (opció) jog nem gyakorolható.
 
 (2) Az ingatlannak egy része is kisajátítható (részleges kisajátítás).
 
-(3) Nincs helye részleges kisajátításnak, ha az ingatlan visszamaradó része a megengedett legkisebb teleknagyságot nem éri el.
+(3) Beépítésre szánt területen nincs helye részleges kisajátításnak, ha az ingatlan visszamaradó része a megengedett legkisebb teleknagyságot nem éri el, kivéve, ha az ingatlan e teleknagyságot már eredetileg sem érte el. Beépítésre nem szánt területen a részleges kisajátításnak nem akadálya, ha az ingatlan visszamaradó része a megengedett legkisebb teleknagyságot nem éri el, azonban a felek erre irányuló megállapodása esetén a visszamaradó részt is ki kell sajátítani.
 
-(4) A tulajdonos kérelmére az egész ingatlant ki kell sajátítani, ha az ingatlan részleges kisajátítása következtében
+(4) A tulajdonos kérelmére a visszamaradó részt ki kell sajátítani, ha az ingatlan részleges kisajátítása következtében
 
 - a) az ingatlan visszamaradó része eredeti céljára használhatatlanná válik,
 - b) az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné vagy számottevően költségesebbé válik,
 - c) a visszamaradó rész gazdaságos értékesítése nem lehetséges.
 
-(5) Az egész ingatlan kisajátítását legkésőbb a kisajátítási tárgyalás befejezéséig lehet kérni.
+(5) A visszamaradó rész kisajátítását legkésőbb a kisajátítási tárgyalás befejezéséig lehet kérni.
 
-7. § (1) Termőföld kisajátítására – amennyiben a kisajátítás céljának megvalósítása érdekében a termőföld igénybevétele szükséges – akkor kerülhet sor, ha a földnek a más célú hasznosítását az ingatlanügyi hatóság engedélyezte, vagy a más célú hasznosítás folytatásához hozzájárult. A termőföld a más célú hasznosítás folytatásához való hozzájárulás hiányában is kisajátítható, ha a hatóság a más célú hasznosítás folytatásához kizárólag a tulajdonosi hozzájárulás hiánya miatt nem járult hozzá.
+(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet; erről a tulajdonost a kisajátítási eljárás megindításáról szóló értesítésben külön tájékoztatni kell. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
+
+7. § (1) Termőföld kisajátítására – amennyiben a kisajátítás céljának megvalósítása érdekében a termőföld igénybevétele szükséges – akkor kerülhet sor, ha a földnek a végleges más célú hasznosítását az ingatlanügyi hatóság engedélyezte, vagy a más célú hasznosítás folytatásához hozzájárult. A termőföld védelméről szóló 2007. évi CXXIX. törvény 17/A. §-ában említett területek esetében a termőföld a más célú hasznosítás folytatásához való hozzájárulás hiányában is kisajátítható, ha az ingatlanügyi hatóság a más célú hasznosítás folytatásához kizárólag a tulajdonosi, illetve haszonélvezői hozzájárulás hiánya miatt nem járult hozzá.
 
 (2) Erdőterület kisajátításához – amennyiben a kisajátítást követően az ingatlant nem a külön törvény szerinti erdőként hasznosítják – az erdészeti hatóságnak az erdőterület igénybevételére kiadott elvi hozzájárulása szükséges. Amennyiben a kisajátítási kérelem szerint az ingatlant részben vagy egészben továbbra is erdőként hasznosítják, a kisajátításhoz az erdészeti hatóság egyetértését kell beszerezni.
 
-(3) Védett természeti területet érintő kisajátításhoz – a 4. § (1) bekezdésének j) pontjában szabályozott esetek kivételével – a természetvédelmi hatóság előzetes hozzájárulása szükséges.
+(3) Védett természeti és Natura 2000 területet érintő kisajátításhoz – a 4. § (1) bekezdés j) pontjában szabályozott esetek kivételével – a természetvédelmi hatóság előzetes hozzájárulása szükséges.
 
 (4) Védetté nyilvánított régészeti lelőhely, illetve műemlék kisajátításához – a 4. § (1) bekezdésének i) pontjában szabályozott esetek kivételével – a kormányrendeletben meghatározott szerv előzetes hozzájárulása szükséges.
 
@@ -145,7 +149,7 @@ jelentősen akadályozza vagy megszünteti.
 
 (6) Külföldi állam vagy nemzetközi szervezet tulajdonában álló ingatlan kisajátítása előtt a külpolitikáért felelős miniszter álláspontját be kell beszerezni.
 
-(7) Bányászati célból történő kisajátításhoz a bányafelügyelet szakvéleményének beszerzése szükséges.
+(7) Bányászati célból történő kisajátításhoz a bányafelügyeletnek a bányászati cél indokoltságára vonatkozó véleményének a beszerzése szükséges.
 
 (8) Honvédelmi célra igénybe vett, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok (ingatlanrészek) kisajátításához a honvédelmért felelős miniszter hozzájárulása vagy azok honvédelmi célra feleslegessé nyilvánítása szükséges.
 
@@ -153,17 +157,23 @@ jelentősen akadályozza vagy megszünteti.
 
 8. § (1) A kisajátítási határozat jogerőre emelkedésével – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.
 
-(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról, és az ingatlanra feljegyzett tényekről.
+(2) A kisajátítási határozatban rendelkezni kell az ingatlanra vonatkozóan más személyt megillető jogokról és az ingatlanra feljegyzett tényekről.
 
-(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (4) bekezdésben felsorolt jogok kivételével –, és az ingatlanra feljegyzett tények megszűnnek. A pénzbeli kártalanítás a zálogjog tárgyaként a kisajátított ingatlan helyébe lép.
+(3) Pénzbeli kártalanítás esetén a kisajátított ingatlanra vonatkozóan más személyt megillető jogok – a (6) bekezdésben foglalt eltéréssel –, és az ingatlanra feljegyzett tények megszűnnek.
 
-(4) A telki szolgalom, továbbá a jogszabályon alapuló szolgalom, vezetékjog és más használati jog, egyéb tulajdoni korlátozás, valamint a bérleti jog megszűnéséről akkor kell rendelkezni, ha a kisajátítás célja más módon nem valósítható meg, vagy ha a jogosult a megszüntetéshez hozzájárult.
+(4) Ha a kisajátított ingatlanon jelzálogjog állt fenn, a tulajdonos és a zálogjogosult eltérő megállapodásának hiányában a pénzbeli kártalanítás – a jelzálogjoggal biztosított követelés erejéig – a zálogjog tárgyaként a kisajátított ingatlan helyébe lép és a kártalanítás ezen hányadát bírósági letétbe kell helyezni. A jelzálogjoggal biztosított követelés összegéről a kisajátítási hatóság felhívására a jelzálogjogosult nyilatkozni köteles.
 
-(5) Ha a kártalanítás részben vagy egészben csereingatlannal történik, a kisajátított ingatlanra vonatkozó jogok a (4) és (6) bekezdésben foglaltak kivételével a csereingatlanra szállnak át.
+(5) Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, az ingatlanért járó pénzbeli kártalanítást a végrehajtói letéti számlára kell átutalni vagy befizetni.
 
-(6) A bérleti, a haszonbérleti, a haszonélvezeti jogot és a használat jogát a jogosult kérelmére kell a csereingatlanra átvinni. A lakásra és a nem lakás céljára szolgáló helyiségre vonatkozó bérleti jog a csereingatlanra nem vihető át.
+(6) A telki szolgalom, egyéb szolgalom, vezetékjog és más használati jog, egyéb tulajdoni korlátozás megszűnéséről akkor kell rendelkezni, ha a kisajátítás célja más módon nem valósítható meg, vagy ha a jogosult a megszüntetéshez hozzájárult. A jog jogosultja a kisajátítást kérő megkeresésére köteles nyilatkozni a jog fenntartása vagy a megszüntetéshez való hozzájárulás kérdésében. Ha a jog megszüntetése hatósági hatáskörbe tartozik, a kisajátítási hatóság a hatáskörrel rendelkező hatóság határozata alapján állapítja meg a jog megszűnését. Az e bekezdésben foglaltakat a tulajdonosnak mind pénzbeli, mind csereingatlannal történő kártalanítása esetében is alkalmazni kell.
 
-(7) A (6) bekezdés szerinti kérelmet az erre jogosult legkésőbb a kisajátítási tárgyalás befejezéséig nyújthatja be.
+(7) Ha a kártalanítás csereingatlannal történik, a kisajátított ingatlanra vonatkozó jogok – a (6) bekezdésben foglalt jogok kivételével és a (8) bekezdésben foglalt eltéréssel – a csereingatlanra átszállnak.
+
+(8) A bérleti, a haszonbérleti, a haszonélvezeti jogot és a használat jogát a jogosult kérelmére kell a csereingatlanra átvinni; a kérelmet az erre jogosult legkésőbb a kisajátítási tárgyalás befejezéséig nyújthatja be. A lakásra és a nem lakás céljára szolgáló helyiségre vonatkozó bérleti jog a csereingatlanra nem vihető át.
+
+(9) Az ingatlan kisajátításának ténye önmagában a jelzálogjoggal biztosított követelést nem teszi lejárttá, és nem szolgálhat a jogviszony megszüntetése vagy a kielégítési jog gyakorlásának alapjául. Ez a rendelkezés nem érinti a szerződésen vagy jogszabályon alapuló egyéb jogok – az e bekezdésben említettől eltérő okból való – gyakorlásának lehetőségét.
+
+(10) Pénzbeli és csereingatlannal történő kártalanítás esetében e § rendelkezéseit megfelelően alkalmazni kell azzal, hogy jelzálogjog esetében a követelés alatt a követelés csereingatlannal nem fedezett részét kell érteni.
 
 ### Kártalanítás
 
@@ -183,7 +193,7 @@ kell figyelembe venni.
 - a) az ingatlanra feljegyzett tények megszűnéséért;
 - b) az olyan épületért, amelynél az építést vagy fennmaradást engedélyező határozat a későbbi lebontás esetére a kártalanítást kizárta, illetőleg amelynek a tulajdonos költségére való lebontását az építésügyi hatóság elrendelte.
 
-(2) Az elmaradt haszon megtérítésére a 18. § keretei között kerülhet sor.
+(2)
 
 (3) Az (1) bekezdés b) pontjában említett épületet, továbbá – ha az ingatlanon használhatatlan romépület áll, amiért a tulajdonos érték hiányában kártalanítást nem kapott – a használhatatlan romépületet a tulajdonos lebonthatja és anyagát elviheti.
 
@@ -199,12 +209,12 @@ kell figyelembe venni.
 
 11. § A kártalanítás – a 13–14. §-ban foglalt kivétellel – pénzben történik.
 
-12. § (1) Ha a kisajátított épületben levő lakást, illetőleg nem lakás céljára szolgáló helyiséget bérlő vagy egyéb használó használja, forgalmi értékként a lakott értéket kell figyelembe venni.
+12. § (1) Ha a kisajátított épületben levő lakást, illetőleg nem lakás céljára szolgáló helyiséget bérlő vagy egyéb használó (a továbbiakban együtt: használó) használja, forgalmi értékként a lakott értéket kell figyelembe venni.
 
 (2) A beköltözhető forgalmi értéket kell figyelembe venni, ha a kisajátított épületben levő lakást, illetőleg nem lakás céljára szolgáló helyiséget
 
 - a) a tulajdonos használja és részére cserelakást (cserehelyiséget) nem kell adni, vagy
-- b) bérlő vagy egyéb használó használja, és a cserelakásra (cserehelyiségre) vonatkozó igényéről lemond, valamint pénzbeli kártalanításra sem tart igényt.
+- b) használó használja, és a használó cserelakásra (cserehelyiségre), valamint pénzbeli kártalanításra sem tart igényt.
 
 13. § (1) Csereingatlannal történhet a kártalanítás, ha abban a tulajdonos és a kisajátítást kérő megegyezik.
 
@@ -216,21 +226,19 @@ kell figyelembe venni.
 
 (5) A (3) és (4) bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha a részben kisajátított ingatlan kiegészítése céljára felajánlott terület értéke és a kisajátított ingatlanért járó kártalanítás összege különböző. A felajánlott terület értékét a 9. § (3) bekezdésében foglalt rendelkezések alkalmazásával kell megállapítani.
 
-14. § (1) A kisajátított épületben lévő lakás, illetőleg nem lakás céljára szolgáló helyiség használója részére a kisajátítást kérő köteles megfelelő cserelakást, illetőleg cserehelyiséget biztosítani. A cserelakás megfelelőségének megállapításánál a lakások és helyiségek bérletéről szóló törvény rendelkezéseit kell alkalmazni. A cserehelyiség akkor megfelelő, ha a tevékenység hasonló körülmények között történő folytatására alkalmas.
+14. § (1) Ha a kisajátított épületben lévő lakást, vagy nem lakás céljára szolgáló helyiséget a tulajdonos vagy használó használja, részére – legkésőbb a tárgyaláson előterjesztett kérelmére – a kisajátítást kérő köteles megfelelő cserelakást, illetve cserehelyiséget biztosítani. A cserelakás megfelelőségének megállapításánál a lakások és helyiségek bérletéről szóló törvény rendelkezéseit kell alkalmazni. A cserehelyiség akkor megfelelő, ha a tevékenység hasonló körülmények között történő folytatására alkalmas.
 
-(2) A kisajátításra kerülő épületben lévő lakás használója részére nem kell cserelakást adni, ha
+(2) A kisajátításra kerülő épületben lévő lakás esetén nem kérhető cserelakás, ha
 
-- a) a használó a cserelakásra vonatkozó igényéről – legkésőbb a kisajátítási tárgyaláson – lemond;
-- b) a használó tulajdonában ugyanabban a városban (községben) beköltözhető és megfelelő lakás van;
-- c) a jogcím nélküli használó – törvény rendelkezése alapján – másik lakásra nem tarthat igényt.
+- a) a tulajdonos vagy a használó tulajdonában ugyanabban a városban (községben) beköltözhető és megfelelő lakás van;
+- b) a jogcím nélküli használó – törvény rendelkezése alapján – másik lakásra nem tarthat igényt.
 
-(3) A kisajátításra kerülő épületben lévő nem lakás céljára szolgáló helyiség használója részére nem kell cserehelyiséget adni, ha a használó
+(3) A kisajátításra kerülő épületben lévő nem lakás céljára szolgáló helyiség esetén a tulajdonos vagy a használó nem kérhet cserehelyiséget, ha
 
-- a) a cserehelyiségre vonatkozó igényéről – legkésőbb a kisajátítási tárgyaláson – lemond;
-- b) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
-- c) tulajdonában (kezelésében, használatában) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
+- a) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
+- b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 
-(4) Ha a kisajátított épületben lévő lakást, illetőleg nem lakás céljára szolgáló helyiséget nem a tulajdonos használja és a (2) bekezdés a)–b) pontja alapján cserelakást, vagy a (3) bekezdés alapján cserehelyiséget nem kell adni, a használó részére pénzbeli kártalanítás jár.
+(4) Ha a jogosult a felajánlott és – szakértői vélemény alapján – megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
 
 15. § Műemlék kisajátítása esetén a pénzbeli kártalanítás összegének megállapításakor a műemlék fenntartására, illetve helyreállítására a kisajátítási eljárás megindítását megelőző öt évben visszatérítési kötelezettség nélkül az államháztartási, európai uniós, vagy egyéb nemzetközi forrásokból kapott támogatások összegét olyan arányban kell csökkentő tényezőként figyelembe venni, amilyen arányban az a műemlék forgalmi értékére hatással volt.
 
@@ -238,17 +246,19 @@ kell figyelembe venni.
 
 (2) Ingyenesen szerzett vagyonkezelői jog megszűnéséért kártalanítás nem jár. Az állagmegóvó és értéknövelő munkák értékét csak akkor kell megtéríteni, ha arra nem költségvetési forrásból került sor.
 
+(3) A vagyonkezelői jog ellenérték fejében vagy ingyenesen történő megszerzéséről a vagyonkezelő a kisajátítási hatóság felhívására köteles nyilatkozni. A vagyonkezelő nyilatkozattételének elmaradása esetén – ha mulasztását nem igazolja – a vagyonkezelői jog megszerzése ingyenesnek tekintendő.
+
 17. § (1) A földhasználati jogot ingyenesen megszerző használó részére a használati jog megszűnéséért kártalanítás nem jár. A telek, illetőleg a föld értékét növelő munkák ellenértékét azonban a földhasználó részére meg kell téríteni. E kártalanítást az ingatlanért járó kártalanításnál figyelembe kell venni.
 
 (2) Haszonélvezeti joggal terhelt ingatlan kisajátítása esetén – ha a tulajdonos pénzbeli kártalanításban részesül – a megszűnt haszonélvezeti jog értékét az eset összes körülményeinek gondos mérlegelésével kell meghatározni. Ennek során figyelembe kell venni különösen a haszonélvezeti joggal terhelt ingatlan jellegét, a haszonélvezeti jog gyakorlásának módját, a jogosult személyi körülményeit, a hasznosítás lehetőségeit és a hasznosítással elérhető anyagi előnyöket, továbbá a haszonélvezeti jognak az ingatlan forgalmi értékére gyakorolt hatását.
 
 (3) A haszonélvezeti jogért járó kártalanítás nem lehet kevesebb az illetékekről szóló törvény alapján, a vagyoni értékű jogok megszerezése után fizetendő illeték számításának alapjánál, de nem érheti el azt az összeget, ami haszonélvezeti jog fennállása hiányában a tulajdonos részére kártalanításként járna.
 
-18. § Ha a kisajátítás jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet, vagy a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. §-ának 17. pontja szerinti egyéni vállalkozó, vagy mezőgazdasági őstermelő vállalkozás céljára használt ingatlanát érinti, meg kell téríteni a kisajátítás következtében szükséges üzemátszervezés, üzemáttelepítés és költözködés költségét; a kisajátítás által okozott kárt (például termeléskiesés, a tevékenységnek a kisajátítási eljárás miatti szüneteléséből adódó bevételkiesés, többletköltségek), egyéb fizetési kötelezettségeket.
+18. §
 
 19. § (1) A kisajátítással kapcsolatos értékveszteséget meg kell téríteni. Értékveszteségként kell megtéríteni különösen
 
-- a) mezőgazdasági művelés alatt álló ingatlan esetében a lábon álló és függő termés értékét, ha az a birtokbaadás időpontjában már megállapítható, ennek hiányában a folyó gazdasági év várható termésének értékét;
+- a) mezőgazdasági művelés alatt álló ingatlan esetében a lábon álló és függő termés értékét, ha az a birtokba bocsátás időpontjában már megállapítható, ennek hiányában a folyó gazdasági év várható termésének értékét;
 - b) erdő esetében a lábon álló faállomány értékét;
 - c) az ingatlan egy részének kisajátítása esetén a visszamaradt ingatlanrész értékének csökkenését.
 
@@ -258,17 +268,17 @@ kell figyelembe venni.
 
 - a) mező- és erdőgazdasági művelés alatt álló ingatlan esetében a folyó gazdasági évben elvégzett mező- és erdőgazdasági munkák költségét, és az egyéb ráfordítások költségét;
 - b) a kisajátított épületben levő lakás (nem lakás céljára szolgáló helyiség) és a cserelakás (cserehelyiség) bérleti díja közötti ötévi különbözetet;
-- c) az egyéb, indokolt és igazolt költségeket.
+- c)
 
 21. § (1) A kártalanítás megfizetésére – törvény eltérő rendelkezése hiányában – a kisajátítással tulajdont szerző kisajátítást kérő állam, illetve helyi önkormányzat, a 36. § (2) és (3) bekezdése szerinti esetben a kisajátítást kérő harmadik személy köteles.
 
-(2) A kártalanítási összeget egy összegben kell megfizetni, a kifizetés a kártalanításra jogosult fizetési számláját vezető pénzforgalmi szolgáltató útján történik.
+(2) A kártalanítási összeget egy összegben kell megfizetni. A kifizetés a kártalanításra jogosult fizetési számláját vezető pénzforgalmi szolgáltató útján történik. Ha a kártalanításra jogosult fizetési számlát nem jelöl meg, részére a kártalanítást fizetési számláról történő készpénzkifizetéssel, postai úton kell teljesíteni.
 
 (3) A kisajátítást kérő a kifizetési kötelezettségét akkor teljesíti, amikor a pénzforgalmi számláját vezető pénzforgalmi szolgáltató a pénzforgalmi számlát a kártalanítás összegével megterheli.
 
 (4) A kártalanítási összeg a kisajátítási határozat jogerőre emelkedésével esedékes, ettől az időponttól kezdődően jár a polgári törvénykönyv szerinti késedelmi kamat is.
 
-(5) Ha a kisajátítani kért ingatlan birtokba adása a határozat jogerőre emelkedése előtt megtörtént, a polgári törvénykönyv szerinti késedelmi kamat is a birtokbaadás napjától jár.
+(5)
 
 (6) A kártalanítási összeget bírósági letétbe kell helyezni, ha
 
@@ -276,134 +286,161 @@ kell figyelembe venni.
 - b) a kártalanításra jogosult a kártalanítási összeget nem veszi át,
 - c) a kártalanításra jogosultak között a jogosultság vagy az összeg felosztása kérdésében vita van, és a felek e miatt a bírósághoz fordultak,
 - d) az ingatlant terhelő valamely követelés vitás,
-- e) sorrendi tárgyalás tartása szükséges,
-- f) a kártalanításra jogosult lakóhelye (székhelye) ismeretlen; a kisajátítási határozatot azonban ilyen esetben is közölni kell a kártalanításra jogosult képviseletére az államigazgatási hatóság által kirendelt ügygondnokkal.
+- e) pénzbeli kártalanítás esetében a tulajdonos és a zálogjogosult eltérően nem állapodnak meg,
+- f) a kártalanításra jogosult lakóhelye (székhelye) ismeretlen; a kisajátítási határozatot azonban ilyen esetben is közölni kell a kártalanításra jogosult képviseletére kirendelt ügygondnokkal vagy eseti gondnokkal,
+- g) a kártalanításra jogosult fizetési számlát nem jelöl meg és
+  - ga) a kártalanítás fizetési számláról történő készpénzkifizetéssel, postai úton történő kifizetése eredménytelen, vagy
+  - gb) a kártalanításra jogosult magyarországi lakóhellyel (tartózkodási hellyel) vagy székhellyel (telephellyel) nem rendelkezik.
+
+### Járulékos költség
+
+21/A. § (1) A kisajátítási kártalanítás megfizetésére kötelezett – az ingatlan tulajdonjogának elvonásáért, az ingatlanon fennálló jogok megszűnéséért, valamint a kisajátítással kapcsolatos értékveszteségért és költségekért járó kártalanításon felül – köteles megtéríteni a kisajátítással közvetlenül összefüggően
+
+- a) a költözködés,
+- b) üzletszerű gazdasági tevékenységet folytató személy vagy szervezet esetében
+  - ba) az üzemáttelepítés, üzemátszervezés,
+  - bb) a termeléskiesés, a tevékenységnek a kisajátítási eljárás miatti szüneteléséből adódó bevételkiesés, valamint
+- c) az a) és b) pontban foglaltakon túlmenően a kisajátítás okozta hátrányok kiküszöbölése miatt a kártalanításra jogosultnál – a kisajátított ingatlan birtokba bocsátását követő legfeljebb 90 napon belül – felmerült indokolt és igazolt költséget [az a)–c) pontokban szereplő költségek a továbbiakban együtt: járulékos költség].
+
+(2) A kisajátítási kártalanítás megfizetésére kötelezett kivételesen indokolt esetben 90 napon túl felmerült járulékos költség megtérítésére is kötelezhető, ha a kártalanításra jogosult igazolja, hogy a költségek önhibáján kívül merültek fel 90 napon túl. A költségek felmerülésének időpontja ebben az esetben sem lehet későbbi, mint a kisajátított ingatlan birtokba bocsátását követő 6. hónap.
 
 ### Kisajátítási eljárás
 
-22. § (1)
+22. § (1) A kisajátítási eljárásra – az e törvényben foglalt eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság az illetékes.
+(2) A kisajátítási eljárást a kisajátítási hatóság folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti kisajátítási hatóság illetékes. A kisajátítási eljárás ügyintézési határideje 45 nap, mely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+
+(3) A kisajátítási eljárásnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti egyéb eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a kisajátítást kérő viseli. A kisajátítási eljárás során a kisajátítási hatóság által hivatalból indított eljárások kisajátítási hatóság által megfizetendő költségeit a kisajátítást kérő a kisajátítási hatóság részére megtéríti. E bekezdés rendelkezései a végrehajtási költségre nem vonatkoznak.
+
+(4) A 24. § (3) bekezdése szerinti kötelezés alapján indult kisajátítási eljárásban a kisajátítási kérelem visszavonásának nincs helye.
 
 23. § (1) A kisajátítási eljárásban ügyfél:
 
 - a) a kisajátítást kérő,
 - b) az állam, illetve az önkormányzat tulajdonszerzésével járó, harmadik személy által indított eljárásban az állami tulajdonosi jogokat gyakorló szervezet, illetve a kisajátítással tulajdont szerző önkormányzat,
 - c) a kártalanításra jogosult tulajdonos, vagyonkezelő,
-- d) mindaz az ingatlan-nyilvántartásból kitűnő egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti, ideértve az ingatlan-nyilvántartásba még be nem jegyzett, de széljegyzetként már feltüntetett jogszerzőt is,
-- e) mindazon ingatlan-nyilvántartáson kívüli egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti.
+- d) mindaz az ingatlan-nyilvántartásból, valamint a földhasználati nyilvántartásból kitűnő egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti, ideértve az ingatlan-nyilvántartásba még be nem jegyzett, de – a 6. § (6) bekezdés szerint az elidegenítési tilalom hatálya alá nem tartozó – széljegyzettként feltüntetett jogszerzőt is,
+- e) mindazon egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátítás érinti.
 
-(2) A gyámhatóság az eljáró hatóság megkeresésére ügygondnokot rendel ki abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
+(2) A gyámhatóság a kisajátítási hatóság megkeresésére ügygondnokot vagy eseti gondnokot rendel ki abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
 
 (3) Az ügyfeleket az eljárás megindításáról postai úton kell értesíteni.
 
-24. § (1) A kisajátítási eljárás kérelemre indul.
+24. § (1) A kisajátítási eljárás kérelemre indul. A kérelmet – a kisajátítási hatóság honlapján közzétett formanyomtatványon – ingatlanonként kell benyújtani.
 
-(2) A kérelmet a kisajátítást kérő nyújtja be. Az állam, önkormányzat mint kisajátítást kérő nevében a tulajdonosi jogot gyakorló szerv, illetve az a szerv járhat el, amelyet az állami, önkormányzati tulajdonosi jogokat gyakorló szerv meghatalmaz, vagy az eljárásra jogszabály jelöli ki. Kisajátítást kérő harmadik személyként a 36. § (2)–(3) bekezdése szerinti esetben a tevékenység végzésére engedéllyel rendelkező, nem engedélyköteles tevékenység esetén a létesítő okirata szerint a kisajátítási célt megvalósító tevékenységre jogosult, illetve az állam javára – törvényi rendelkezés alapján – saját nevében, kisajátítást kérőként való eljárásra kijelölt személy járhat el.
+(2) A kérelmet a kisajátítást kérő nyújtja be. Az állam, önkormányzat mint kisajátítást kérő nevében a tulajdonosi jogot gyakorló szerv, illetve az a szerv járhat el, amelyet az állami, önkormányzati tulajdonosi jogokat gyakorló szerv meghatalmaz, vagy az eljárásra jogszabály jelöl ki, vagy amely olyan állami, önkormányzati költségvetési szerv, amelynek – jogszabály vagy az alapító okirata alapján – a kisajátítást megalapozó közérdekű cél megvalósítása a feladatkörébe tartozik. Kisajátítást kérő harmadik személyként a 36. § (2) és (3) bekezdése szerinti esetben a tevékenység végzésére engedéllyel rendelkező, nem engedélyköteles tevékenység esetén a létesítő okirata szerint a kisajátítási célt megvalósító tevékenységre jogosult, illetve az állam javára – törvényi rendelkezés alapján – saját nevében, kisajátítást kérőként való eljárásra kijelölt személy járhat el.
 
-(3) A kisajátítási hatóság – a kisajátítandó ingatlan tulajdonosának a 2. § n)–o) pontján, illetve az 5. §-on alapuló kérelmére – határozattal kötelezi a kisajátítási kérelem benyújtására azt, aki e törvény szerinti kisajátítást kérő lehet, és az ingatlanon fennálló használati vagy egyéb joga az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti. A határozat ellen fellebbezésnek helye nincs.
+(3) A kisajátítási hatóság – a kisajátítandó ingatlan tulajdonosának az 5. §-on alapuló kérelmére – határozattal kötelezi a kisajátítási kérelem benyújtására azt, aki e törvény szerinti kisajátítást kérő lehet, és az ingatlanon fennálló használati vagy egyéb joga az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti.
 
-(4) A kérelemben meg kell jelölni a kisajátítás célját, a célban megjelölt tevékenység vagy beruházás megkezdésének határidejét, illetve ütemezését.
+(4) A kisajátítási kérelemben meg kell jelölni a kisajátítás célját, valamint – a 4. § (1) bekezdés b), i) és j) pontja, l) pont la) alpontja és az 5. § szerinti esetekben történő kisajátítást kivéve – a célban megjelölt tevékenység vagy beruházás megkezdésének határidejét, illetve ütemezését.
 
-(5) A kisajátítási kérelemhez – a 24/A. § szerinti eltéréssel – mellékelni kell:
+(5) A kisajátítási kérelemhez mellékelni kell:
 
-- a) külön jogszabály rendelkezése alapján – a kisajátítási tervet öt példányban;
-- b) a kisajátítást kérő bejelentését az ingatlan tulajdonosa és más ügyfelek nevéről, lakáscíméről (telephelyéről), ha ezek az adatok a kisajátítási terv elkészítését követően megváltoztak;
-- c) a kisajátítást kérő nyilatkozatát – kivéve az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Épt.) 30. §-ának (4) bekezdése szerinti és a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 7. §-ának (2) bekezdése szerinti kisajátítást – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet, illetve lakás (helyiség) rendelkezésre áll;
-- d) a kisajátítás céljának megfelelően az illetékes hatóságnak a 7. § szerinti engedélyét, hozzájárulását, egyetértését, szakvéleményét tartalmazó iratokat, illetve a 7. § (1) bekezdés utolsó mondata szerinti esetben az ingatlanügyi hatóság határozatát;
-- e) kisajátítást kérő harmadik személy esetében a tevékenység végzésére vonatkozó engedélyt, nem engedélyköteles tevékenység esetén létesítő okiratát.
-- f)
+- a) az e törvény végrehajtására kiadott jogszabály szerint a kisajátítási tervet, az e törvény végrehajtására kiadott jogszabály szerinti esetben záradékkal ellátva;
+- b) a kisajátítást kérő bejelentését az ingatlan tulajdonosa és más ügyfelek nevéről, lakáscíméről (székhelyéről), ha ezek az adatok a kisajátítási terv elkészítését követően megváltoztak;
+- c) a kisajátítást kérő nyilatkozatát – kivéve az 5. § szerinti és a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) szerinti kisajátítást – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésre áll;
+- d) a kisajátítás céljának megfelelően a 7. § szerinti dokumentumokat;
+- e) kisajátítást kérő harmadik személy esetében a tevékenység végzésére vonatkozó engedélyt, nem engedélyköteles tevékenység esetén létesítő okiratát;
+- f) a 8. § (6) bekezdése szerinti nyilatkozatokat, ennek hiányában annak igazolását, hogy a kisajátítást kérő a jogosultat a nyilatkozat beszerzése érdekében megkereste.
 
 (6) A kisajátítást kérő köteles a 2–5. § szerinti szempontok mérlegeléséhez szükséges adatokról a kisajátítási hatóságot tájékoztatni, és az azokat igazoló dokumentumokat a hatóság rendelkezésére bocsátani.
 
-(7) Ha a kisajátítást kérő nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a kisajátítási hatóság az adatokat hivatalból szerzi be.
+(7) Ha a kisajátítást kérő nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a kisajátítási hatóság az adatokat hivatalból szerzi be. Ha a szükséges adatokat a cégnyilvántartás tartalmazza és ezen adatok a cégnyilvántartásban elektronikus formában állnak rendelkezésre, a kisajátítási hatóság azokat elektronikus úton, közvetlen lekérdezéssel szerzi be. A kisajátítási hatóság az ügyfelek teljes körének a felmérése érdekében az ügyfelek adatait hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől, valamint – a földhasználati nyilvántartással érintett ingatlan esetében – a földhasználati nyilvántartást vezető szervtől.
 
-24/A. § Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a kisajátítási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet.
+(8) Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a kisajátítási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet. Ha a szükséges adatokat a cégnyilvántartás tartalmazza és ezen az adatok a cégnyilvántartásban elektronikus formában állnak rendelkezésre, a kisajátítási hatóság azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-25. § (1) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság tárgyalást tűz ki.
+24/A. § (1) A kisajátítási kérelem hiányainak pótlására a kisajátítást kérő csak egy alkalommal hívható fel, és az ennek során meghatározott hiánypótlási határidő nem hosszabbítható meg. A hiánypótlásra meghatározott határidő eredménytelen elteltét követően a kisajátítási hatóság a hiányok ezt követő pótlásáig terjedő időt, de legfeljebb 30 nap időtartamot alapul véve a kisajátítást kérőt – ha mulasztását nem igazolta – eljárási bírsággal sújtja. Az eljárási bírság mértéke naponta 10 000 forint. Az eljárási bírság kiszabását követően a kisajátítási hatóság – ha a hiányok pótlása megtörtént – folytatja az eljárást, ellenkező esetben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint megszüntetheti az eljárást vagy a rendelkezésre álló adatok alapján dönt.
 
-(2) A kisajátítási hatóság a kisajátítási terv egy példányát mellékelve, a tárgyalás kitűzésével egyidejűleg, a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló, valamint a Vásárhelyi Terv továbbfejlesztéséről szóló törvények hatálya alá tartozó kisajátítási kérelem esetén pedig az ennek beérkezésétől számított nyolc napon belül megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének az ingatlan-nyilvántartásba történő feljegyzése érdekében.
+(2) Az (1) bekezdésben foglalt előírások – a hiánypótlások számára vonatkozó szabályt kivéve – irányadók a kisajátítást kérő részére a tényállás tisztázása során felmerült új adatokra tekintettel elrendelt hiánypótlási felhívásokra is.
 
-(3) A kisajátítási hatóság a tárgyalás kitűzésével egyidejűleg
+(3) Az e §-ban foglaltak nem vonatkoznak a 24. § (3) bekezdése szerinti kötelezés alapján indult kisajátítási eljárásokra.
 
-- a) tájékoztatja az ügyfeleket arról, hogy az ingatlanra milyen közérdekű célra kértek kisajátítást és a kisajátítási terv észrevételezés céljából hol és mikor tekinthető meg, továbbá
-- b) a kártalanításra vonatkozó szakvélemény elkészítése céljából igazságügyi szakértőt rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A tárgyalásra a szakértőt meg kell idézni.
+24/B. § Ha a kisajátítási terv záradéka a kisajátítási eljárás folyamán lejár, a kisajátítási hatóság a tervet újrazáradékolás céljából az erre hatáskörrel rendelkező szervnek megküldi és ezt követően eljárását az újrazáradékolásig felfüggeszti.
 
-(4) A szakértő a szakvéleményt a külön jogszabályban meghatározott szerkezetben és adattartalommal, a mérlegelés módszerének és a figyelembe vett szempontoknak a bemutatásával köteles elkészíteni.
+25. § (1) A kisajátítási hatóság a kisajátítási kérelem beérkezésétől számított nyolc napon belül a kisajátítással érintett tulajdonosok nevét és lakcímét, valamint az ingatlan helyrajzi számát tartalmazó végzésével – részleges kisajátítás esetén a kisajátítási tervet is mellékelve – megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének és az elidegenítési tilalomnak az ingatlan-nyilvántartásba történő feljegyzése, valamint az ingatlan tulajdoni lapján széljegyzett személynek és ingatlan-nyilvántartási jogelődjének neve (cégneve) és lakcíme (székhelye) közlése érdekében. A kisajátítási hatóság végzése és annak melléklete ingatlan-nyilvántartási feljegyzésre alkalmas okirat, valamint az ingatlanügyi hatóság ezen okirat alapján teljesíti a név- és lakcímadatok szolgáltatását is.
 
-(5) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a kisajátítási hatóság jogszerűnek tartja.
+(2) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a kisajátítási hatóság – a 26. §-ban foglalt kivételekkel – tárgyalást tűz ki, továbbá a kisajátításra vonatkozó szakvélemény elkészítése céljából az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértőt (a továbbiakban: szakértő) rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A kisajátítási hatóság a szakértő kirendelésekor tájékoztatja az ügyfeleket arról, hogy az elkészült szakértői vélemény a kisajátítási hatóságnál mikor tekinthető meg, valamint részleges kisajátítás esetén – ha szükséges – kötelezi a kisajátítást kérőt a kisajátítandó ingatlan határainak a szakértővel egyeztetett időpontra történő ideiglenes kitűzésére is, mely kitűzést az ingatlanon fennálló jog jogosultja tűrni köteles.
 
-26. § (1)
+(3) A szakértő a szakvéleményt jogszabályban meghatározott szerkezetben és adattartalommal, a mérlegelés módszerének és a figyelembe vett szempontoknak a bemutatásával köteles elkészíteni.
 
-(2) Nagyszámú ügyfelet érintő kisajátítás esetén hatósági közvetítő vehető igénybe.
+26. § (1) A tárgyalásra a szakértőt meg kell idézni. A szakértő a véleményét megküldi a kisajátítási hatóság részére. A szakértői véleménynek az ügyfelek részére történő megküldéséről a kisajátítási hatóság kérelemre gondoskodik.
 
-27. § (1) A tárgyaláson ismertetni kell a kártalanításra vonatkozó szakvéleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakvéleményre tett észrevételeket. A kisajátítási hatóság és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
+(2) A szakértői véleménynek a kisajátítási hatóság részére történő megküldése és a tárgyalás között legalább 10, legfeljebb 15 napnak kell eltelnie.
 
-(2) Ha a lakások, illetőleg a nem lakás céljára szolgáló helyiségek használóinak elhelyezéséről a lakásügyi, illetve az elhelyező hatóságnak kell határoznia, annak legkésőbb a tárgyaláson nyilatkoznia kell az elhelyezés módjáról; ettől a nyilatkozatától egyoldalúan nem térhet el.
+(3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek – elektronikus vagy postai úton, telefaxon vagy személyesen – legkésőbb a tárgyaláson tehetik meg.
+
+(4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság – elektronikus vagy postai úton, vagy telefaxon – továbbítja a szakértő részére.
+
+(5) Mellőzhető a tárgyalás kitűzése és a szakértő kirendelése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
+
+(6) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a kisajátítási hatóság jogszerűnek tartja.
+
+27. § (1) A tárgyaláson ismertetni kell a szakértői véleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakértői véleményre előzetesen, valamint a tárgyaláson tett észrevételeket. A kisajátítási hatóság és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
+
+(2) A tulajdonos, valamint az ingatlant használó legkésőbb a tárgyaláson nyilatkozik arról, hogy az ingatlant – a 29. §-ban foglalt végső határidőre figyelemmel – mennyi időn belül képes birtokba bocsátani.
 
 28. § (1) A kisajátítási hatóság a kisajátítás tárgyában 2–5. § meghatározott célok és feltételek fennállásának vizsgálata, illetve szempontok mérlegelése alapján dönt. A vizsgálat kiterjed arra is, hogy fennállnak-e a kisajátítás e törvényben meghatározott egyéb feltételei.
 
-(2) A kisajátítás feltételeinek elbírálása során a kisajátítási hatóság köteles megvizsgálni azt is, hogy biztosítható-e a kisajátítani kért épületben levő lakások és nem lakás céljára szolgáló helyiségek használóinak megfelelő időn belül való elhelyezése.
+(2) A kisajátítás feltételeinek elbírálása során a kisajátítási hatóság köteles megvizsgálni azt is, hogy biztosítható-e a kisajátítani kért épületben levő lakást és nem lakás céljára szolgáló helyiséget használó tulajdonos vagy használó megfelelő időn belül való elhelyezése.
 
 (3)
 
-29. § (1) A kisajátítási hatóságnak a kérelemnek helyt adó határozatában – a (3) bekezdésben említett kivétellel – külön kell rendelkeznie arról, hogy a kisajátított ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért és a jogok megszűnése miatt keletkezett kárért, továbbá a kisajátítással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást állapít meg. Rendelkezni kell a kártalanítás megfizetésének határidejéről is.
+29. § (1) A kisajátítási hatóságnak a kérelemnek helyt adó határozatában – a 29/A. §-ban foglalt kivétellel – külön kell rendelkeznie arról, hogy a kisajátított ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért, továbbá a kisajátítással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást, valamint – a döntés meghozatalakor már igazolt – járulékos költségekért milyen összegű megtérítést állapít meg.
 
-(2) Ha a kisajátított ingatlanra végrehajtási jog van bejegyezve, a kisajátítási hatóság a határozatot közli az illetékes bírósági végrehajtóval is, aki megteszi a bírósági végrehajtásról szóló törvény szerint szükséges intézkedéseket. Ha a kisajátított, végrehajtási joggal nem terhelt ingatlant – ide nem értve az olyan tulajdonos által használt lakást, akinek nincs ugyanazon településen vagy attól legfeljebb 50 kilométerre másik beköltözhető lakása – a kártalanítási összeget meghaladó, lejárt esedékességű, elismert vagy végrehajtható követelés terheli, a kisajátítási hatóság határozatában csak a kártalanítás összegét állapítja meg. Ilyen esetben az összeg felosztásáról bármely ügyfél kérelmére – a bírósági végrehajtásról szóló törvény szabályainak alkalmazásával – a kisajátítási hatóság székhelye szerint illetékes bíróság gondoskodik.
+(2) Az (1) bekezdésben meghatározott kártalanítást, valamint megtérítést – kamatokkal együtt – a kisajátítási határozat jogerőre emelkedését követő 30 napon belül kell megfizetni és az azt követő 8 napon belül kell a kisajátítási hatóság részére a megfizetést igazolni.
 
-(3) Ha a kisajátítást kérő és a többi ügyfél a kártalanítás tárgyában egyezséget kötött, és az a szakértői véleménnyel is összhangban van, a kisajátítási hatóság az általa is jóváhagyott egyezséget határozatába foglalja.
+(3) Csereingatlannal történő kártalanítás esetében a csereingatlant, valamint a kisajátítást kérőt terhelő értékkülönbözetet, továbbá az (1) bekezdésben meghatározott megtérítést a kisajátítási határozat jogerőre emelkedését követő 30 napon belül kell birtokba adni, illetve megfizetni és ennek megtörténtét az azt követő 8 napon belül a kisajátítási hatóság részére – a birtokba adást átadás-átvételt igazoló közokirattal vagy teljes bizonyító erejű magánokirattal – igazolni.
 
-(4) A kártalanítás tárgyában kötött, a kisajátítási hatóság által jóváhagyott egyezséget a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint (234–238. §) lehet megtámadni.
+(4) A kisajátítási hatóság hivatalból vizsgálja a (2) és (3) bekezdésben foglalt kötelezettségek teljesítését.
 
-(5) Ha a kisajátított ingatlanért járó kártalanítás és a csereingatlan értéke különböző, a tulajdonost a határozatban kötelezni kell a különbözet megtérítésére, illetőleg rendelkezni kell arról, hogy a kisajátítást kérő különbözetképpen milyen összegű pénzbeli kártalanítást köteles fizetni.
+(5) A kártalanításra jogosult az őt terhelő értékkülönbözetet a csereingatlan birtokba adását követő 30 napon belül köteles megfizetni, kivéve, ha mentességben vagy fizetési kedvezményben részesült.
 
-30. § Ha a kisajátítás az ingatlannak csak egy részét érinti, nem kell telekalakítási eljárást lefolytatni.
+(6) A kisajátított ingatlan elhagyására kötelezett az ingatlant
 
-31. § A kisajátítási hatóság kisajátítási határozata ellen közigazgatási úton fellebbezésnek helye nincs.
+- a) a kártalanítás, valamint a megtérítés megfizetését, vagy
+- b) a csereingatlan birtokba adását és az esetleges értékkülönbözet, valamint a megtérítés megfizetését követően, a kisajátítási határozatban meghatározott időpontig köteles a kisajátítást kérő részére birtokba bocsátani.
+
+(7) A birtokba bocsátásra a kisajátítási hatóság a (6) bekezdés szerinti időpontot követő legfeljebb 2 hónapos határidőt állapíthat meg. A kisajátítási hatóság ennél hosszabb határidőt is megállapíthat, ha ebben a felek megállapodtak, vagy ha az a 10. § szerinti tulajdonosi cselekmények elvégzéséhez szükséges.
+
+(8) Ha a kisajátított ingatlan mezőgazdasági művelés alatt áll, a birtokba bocsátásra közvetlenül a termés betakarítása előtti időpontot csak kivételesen, sürgős szükség esetében szabad megjelölni; a körülményekhez képest ilyenkor is lehetővé kell tenni, hogy a föld használója (tulajdonosa) a termést betakaríthassa.
+
+29/A. § (1) Ha a kisajátítást kérő és a többi ügyfél a kártalanítás tárgyában egyezséget kötött, a kisajátítási hatóság az egyezséget határozatába foglalja.
+
+(2) A kártalanítás tárgyában kötött, a kisajátítási hatóság által jóváhagyott egyezséget a Polgári Törvénykönyvről szóló törvénynek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint lehet megtámadni.
+
+30. § Ha a kisajátítás az ingatlannak csak egy részét érinti, az ingatlan megosztásáról – telekalakítási eljárás lefolytatása nélkül, a kisajátítási terv alapján – a kisajátítási hatóság dönt.
+
+31. § A kisajátítási hatóság e törvény alapján hozott határozata ellen fellebbezésnek helye nincs.
 
 32. § (1) A kisajátítási határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a pert a kisajátítást kérő ellen is meg kell indítani;
-- b) a közigazgatási perben az ingatlan fekvése szerint illetékes közigazgatási és munkaügyi bíróság jár el;
+- b) a perben az ingatlan fekvése szerint illetékes közigazgatási és munkaügyi bíróság jár el;
 - c) a bíróságnak a keresetlevél beérkezését követő 45 napon belül tárgyalást kell tartania;
-- d) a bíróságnak a jogalap tekintetében három hónapon belül közbenső ítélettel döntést kell hoznia, kivéve, ha az ügyben igazságügyi szakértő kirendelése szükséges és a szakértői vélemény előterjesztésére ezen időszak alatt az ügy bonyolultsága miatt nem kerülhet sor, vagy ha a keresetet elutasítja;
-- e) a bíróság – kérelemre – ideiglenes intézkedéssel rendelkezhet az ingatlan birtokba adásáról, amennyiben a kártalanítás igazságügyi szakértő által megállapított összegének a birtokbaadással egyidejű megfizetését a kisajátítást kérő vállalja. A pert – a felek megegyezésének hiányában – a kártalanítás összegszerűsége tekintetében tovább kell folytatni;
-- f) a bíróság a közigazgatási határozatot megváltoztathatja, kivéve, ha a kisajátítási hatóság a kisajátítást kérő kérelmét arra hivatkozva utasította el, hogy nincs helye kisajátításnak, és a közigazgatási határozat ezen rendelkezése jogszabálysértő; ebben az esetben a bíróság a közigazgatási határozatot hatályon kívül helyezi, és a kisajátítási hatóságot új eljárásra kötelezi,
-- g) az f) pont alapján hozott bírósági ítélet ellen fellebbezésnek nincs helye.
+- d) a bíróság a közigazgatási határozatot megváltoztathatja, kivéve, ha a kisajátítási hatóság a kisajátítást kérő kérelmét arra hivatkozva utasította el, hogy nincs helye kisajátításnak, és a közigazgatási határozat ezen rendelkezése jogszabálysértő; ebben az esetben a bíróság a közigazgatási határozatot hatályon kívül helyezi, és a kisajátítási hatóságot új eljárásra kötelezi;
+- e) a d) pont alapján hozott bírósági ítélet ellen fellebbezésnek nincs helye.
 
-(2) A bíróságnak a közigazgatási határozat végrehajtását felfüggesztő végzése kizárja az ingatlan tulajdonjogának átszállását. Ebben az esetben az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a per jogerős befejezéséig felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed.
+(2) Ha kisajátítás jogalapjának vitatása miatt indított közigazgatási perben a bíróság a közigazgatási határozat végrehajtását felfüggeszti, az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a per jogerős befejezéséig felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed. A bíróság a végrehajtást felfüggesztő végzését az ingatlanügyi hatóságnak illetve az építésügyi hatóságnak haladéktalanul megküldi.
 
-(3) A kisajátítási hatóság jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
+(3) Az e §-ban foglaltak a kisajátítási hatóság e törvény szerinti egyéb határozataival szemben kezdeményezett közigazgatási perek esetében megfelelően alkalmazandók.
 
-(4) A kisajátítási határozat felügyeleti jogkörben nem változtatható meg, és nem semmisíthető meg.
+32/A. § (1) A kisajátítási hatóság jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
-33. § (1) A határozat jogerőre emelkedése után a határozat és a kisajátítási terv egy-egy példányát – a jogerőre utaló feljegyzéssel ellátva – az ingatlanügyi hatóság és a kisajátítást kérő, valamint a állami, önkormányzati tulajdonosi jogokat gyakorló szerv részére meg kell küldeni. A határozat jogerőre emelkedéséről a többi ügyfelet is értesíteni kell.
+(2) A kisajátítási hatóság döntése felügyeleti jogkörben nem változtatható meg, és nem semmisíthető meg.
+
+33. § (1) A kisajátítási határozat jogerőre emelkedése után a határozatot – a jogerőre utaló feljegyzéssel ellátva – a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási terv egy példányát is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat jogerőre emelkedéséről a többi ügyfelet is értesíteni kell.
 
 (2) A jogerős határozatot az adó helyesbítése, illetőleg kivetése céljából az illetékes helyi adóhatóságnak is meg kell küldeni.
 
-34. § (1) A kisajátított ingatlant a jogerős kisajátítási határozatban megjelölt időpontban kell birtokba adni, feltéve, hogy a kártalanítási összeget megfizették vagy a csereingatlant birtokba adták.
-
-(2) Ha a kisajátított ingatlan mezőgazdasági művelés alatt áll, a birtokbaadásra közvetlenül a termés betakarítása előtti időpontot csak kivételesen, sürgős szükség esetében szabad megjelölni; a körülményekhez képest ilyenkor is lehetővé kell tenni, hogy a föld használója (tulajdonosa) a termést betakaríthassa.
-
-(3) A birtokbaadás a kisajátítási hatóság feladata.
-
-(4) Ha a kisajátított épület használója részére cserelakást (cserehelyiséget) kell biztosítani, a birtokbaadás időpontját úgy kell megjelölni, hogy arra csak a használó megfelelő elhelyezése után kerüljön sor.
-
-(5) A birtokbaadásról jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell a birtokbaadás tényét, továbbá az ingatlanon és tartozékaiban a kártalanításra vonatkozó szakvélemény elkészítését követően bekövetkezett változásokat. A jegyzőkönyv egy példányát a kisajátítást kérő részére kell megküldeni.
-
-(6) A kisajátítást kérő távollétében az ingatlant nem lehet birtokba adni. Más ügyfelek távolmaradása a birtokbaadást nem akadályozza; erre az ügyfelet a határozatban figyelmeztetni kell.
-
-(7) A csereingatlan birtokbaadását a csereingatlan fekvése szerinti kisajátítási hatóság rendeli el.
-
-(8) Az Aptv. szerinti célra, valamint a Vásárhelyi terv továbbfejlesztése érdekében megvalósuló árvízvédelmi létesítmény építésére kisajátított épületet és építmény nélküli ingatlant a kártalanítási összeg megfizetésének igazolását követően, helyszíni eljárás nélkül kell birtokba adni.
+34. §
 
 35. § (1) A kisajátított ingatlan csak a kérelemben megjelölt célra használható fel.
 
 (2) A kisajátítást kérőnek az ingatlant a kisajátítási határozatban meghatározott határidőn belül a kisajátítás céljára fel kell használnia és a kisajátítási cél szerinti használatot a kisajátítási határozatban előírt időtartamig biztosítania kell.
 
-(3) Amennyiben a kisajátítás célja a (2) bekezdésben meghatározott időtartamon belül nem valósul meg, az ingatlan korábbi tulajdonosát visszavásárlási jog illeti meg. Az ingatlan korábbi tulajdonosának jogutód nélküli megszűnése esetén, vagy ha a korábbi tulajdonos (vagy annak jogutódja) a visszavásárlási jogról lemond, a visszavásárlási jog az állam, illetve az ingatlan fekvése szerinti önkormányzat tulajdonosi jogainak gyakorlóját illeti meg.
+(3) Amennyiben a kisajátítás célja a (2) bekezdésben meghatározott időtartamon belül nem valósul meg, az ingatlan korábbi tulajdonosát visszavásárlási jog illeti meg. Az ingatlan korábbi tulajdonosának jogutód nélküli megszűnése esetén, vagy ha a korábbi tulajdonos (vagy annak jogutódja, örököse) a visszavásárlási jogról lemond, a visszavásárlási jog az állam, illetve az ingatlan fekvése szerinti önkormányzat tulajdonosi jogainak gyakorlóját illeti meg.
 
-(4) E § rendelkezései a 2. § j) és k) pontja szerinti esetben nem alkalmazhatók.
+(4) E § rendelkezései a 4. § (1) bekezdés b), i) és j) pontja, l) pont la) alpontja és az 5. § szerinti esetekben történő kisajátítás esetében nem alkalmazhatók.
 
 36. § (1) A kisajátítást elrendelő határozat jogerőre emelkedésével az ingatlan tulajdonjogát az állam, illetve a helyi önkormányzat szerzi meg.
 
@@ -416,31 +453,36 @@ kell figyelembe venni.
 
 (3) A (2) bekezdésben nem szereplő esetekben az állami, illetve önkormányzati tulajdonosi jogokat gyakorló szerv a kisajátítás alapján az állam, illetve a helyi önkormányzat tulajdonába került ingatlant – a kisajátítási eljárásban a kisajátítás kérő harmadik személy által megfizetett kártalanításra tekintettel – versenyeztetés és ellenszolgáltatás nélkül, külön törvény rendelkezései szerint adja a kisajátítást kérő harmadik személy tulajdonába, vagyonkezelésébe vagy használatába.
 
-(4) Nem lehet tulajdonba adni az ingatlant, ha
+(4) Nem lehet annak a tulajdonába adni az ingatlant, aki az ingatlanon jogszabály rendelkezésénél fogva nem szerezhet tulajdonjogot.
 
-- a) jogszabály rendelkezésénél fogva kizárólagos állami tulajdonba, az önkormányzat forgalomképtelen törzsvagyonába tartozik, illetve a kisajátítási cél megvalósítása következtében kizárólagos állami tulajdonná, forgalomképtelen önkormányzati törzsvagyonná válik;
-- b) a tulajdonba adás egyéb okból nem lehetséges.
-
-37. § (1) A tulajdonváltozást az ingatlanügyi hatóság a jogerős kisajátítási határozat vagy – a kisajátítási tervben szereplő ingatlan adásvétel útján történő megszerzése esetén – kérelem és adásvételi szerződés alapján vezeti át az ingatlan-nyilvántartáson.
+37. § (1) A tulajdonváltozást az ingatlanügyi hatóság a jogerős kisajátítási határozat vagy – a kisajátítási tervben szereplő ingatlan adásvétel vagy csere útján történő megszerzése esetén – kérelem és adásvételi vagy csereszerződés alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) Ha az (1) bekezdés szerinti tulajdonváltozás az ingatlannak csak egy részét érinti, a tulajdonváltozást és a földrészlet megosztását az ingatlanügyi hatóság
 
-- a) kisajátítás esetén a földrészlet megosztására is kiterjedő jogerős kisajátítási határozat, valamint az ingatlanügyi hatóság és az építésügyi hatóság által záradékolt kisajátítási terv és az annak alapján készített, szintén e hatóságok által záradékolt változási vázrajz,
-- b) adásvétel esetén kérelem, valamint adásvételi szerződés, közös tulajdont megszüntető szerződés, továbbá az ingatlanügyi hatóság és az építésügyi hatóság által záradékolt kisajátítási terv és az annak alapján készített, szintén e hatóságok által záradékolt változási vázrajz
+- a) kisajátítás esetén a földrészlet megosztására is kiterjedő jogerős kisajátítási határozat, valamint a kisajátítási terv,
+- b) adásvétel vagy csere esetén kérelem, valamint adásvételi vagy csereszerződés, közös tulajdont megszüntető szerződés, továbbá a kisajátítási terv
 
 alapján vezeti át az ingatlan-nyilvántartáson.
 
-38. § (1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Gyorsforgalmi út építése esetében előmunkálatnak minősül a lőszermentesítés és – feltárási engedély birtokában – a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.
+(3) Az ingatlanügyi hatóság a kisajátítási hatóság megkeresésére, a kisajátítás tárgyában hozott döntés alapján törli az ingatlan-nyilvántartásból a kisajátítási eljárás megindításának tényére, valamint az elidegenítési tilalomra vonatkozó feljegyzést.
+
+### Járulékos költség megtérítése
+
+37/A. § A kisajátítási kártalanítás megfizetésére kötelezettnek – a kisajátítási határozatban nem rendezett – indokolt és igazolt járulékos költségek megtérítésére való kötelezését a kisajátítási kártalanításra jogosult a 21/A. § szerinti időpontokat követő 15 napon belül kérelmezheti a kisajátítási hatóságnál. A járulékos költségeket a kötelezett egy összegben, a 21. § (2) bekezdésében meghatározott módon köteles megfizetni a jogosult részére; a kifizetésre a kisajátítási hatóság legfeljebb 60 napos teljesítési határidőt állapíthat meg. A járulékos költség megtérítésére irányuló eljárásnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti egyéb eljárási költségeit a kötelezett viseli; az eljárásra egyebekben – az e törvény szerinti eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai alkalmazandók.
+
+### Előmunkálat
+
+38. § (1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Gyorsforgalmi út építése esetében előmunkálatnak minősül a lőszermentesítés és a próbafeltárás, valamint a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.
 
 (2) A kisajátításhoz szükséges előmunkálatokra engedélyt kell kérni a kisajátítási hatóságtól. Az előmunkálatok engedélyezését a kisajátítást kérő és az előmunkálatokat végző szerv együttesen köteles kérni. A kérelemben meg kell jelölni az ingatlan adatait, a tulajdonos, a használó, az ingatlan-nyilvántartásban feltüntetett egyéb jogosult lakáscímét (telephelyét), az elvégezni kívánt előmunkálatokat és a kisajátítás célját. A kérelemben be kell mutatni azokat az adatokat és körülményeket, és csatolni kell azokat a dokumentumokat, amelyek a kisajátítás feltételeinek fennállását valószínűsítik, és az előmunkálatok végzésének szükségességét indokolják.
 
 (3) Az engedélyezés során a kisajátítási hatóság megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot postai úton közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
 
-(4) Az Aptv. 1. melléklete szerinti gyorsforgalmi út építése céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését. Az előmunkálatok megkezdésének időpontjában a beruházó köteles a földvédelmi járulék területarányos részét megfizetni.
+(4) Az Aptv. 1. melléklete szerinti gyorsforgalmi út építése céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését.
 
 39. § (1) Ha az előmunkálatok engedélyezésekor azok megkezdésének időpontja megállapítható, azt a kérelemnek helyt adó határozatban kell megjelölni.
 
-(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább három munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
+(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább öt munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 
@@ -448,9 +490,13 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (5) Az előmunkálati engedélyben meghatározott munkálatok során okozott, illetve azzal összefüggésben keletkezett károkért járó kártalanítást – a kisajátítási kártalanítás szabályainak alkalmazásával – a kisajátítási hatóság állapítja meg.
 
+### Adófizetési kötelezettség
+
 40. § (1) A kisajátítási tervben megjelölt ingatlanra megkötött adásvételi szerződés alapján kifizetett vételár a kisajátítási eljárás során megállapított kártalanítással megegyezően adó- és illetékmentes, ide nem értve az általános forgalmi adót.
 
 (2) A kártalanítás összegét úgy kell tekinteni, mint amely az általános forgalmi adót is tartalmazza, amennyiben a kisajátítás keretében történő tulajdonátszállást az általános forgalmi adóról szóló törvény szerint adófizetési kötelezettség terheli.
+
+### Záró rendelkezések
 
 41. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba, rendelkezéseit – ide értve az általános forgalmi adó fizetésére vonatkozó kötelezettséget is – a hatálybalépését követően indult kisajátítási eljárásokra kell alkalmazni.
 
@@ -458,7 +504,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (3) Felhatalmazást kap a Kormány, hogy
 
-- a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és közzétételének rendjére,
+- a) a kisajátítási terv kötelező elemeire, elkészítésére, felülvizsgálására, záradékolására és a kisajátítási hatóság részére történő benyújtására,
 - b) a kártalanítás megfizetésének egyéb előírásaira, valamint az értékkülönbözet megfizetése tekintetében fizetési kedvezmény megadására
 
 vonatkozó szabályokat rendeletben állapítsa meg.

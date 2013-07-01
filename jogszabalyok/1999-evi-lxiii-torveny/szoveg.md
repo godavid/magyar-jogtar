@@ -31,7 +31,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 (7) A képviselő-testület a szervezeti és működési szabályzatában, illetőleg – a szabályzattal együtt elfogadott – hivatali ügyrendben határozhatja meg a felügyelet szervezeti formáját, a felügyelet, illetőleg a felügyelő feladatait.
 
-(8) A felügyelő az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+(8)
 
 2. § (1) A felügyelő köztisztviselő. Közszolgálati jogviszonyára, ha e törvény eltérően nem rendelkezik, a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -45,7 +45,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 ### Általános szabályok
 
-3. § A felügyelő feladatait az önkormányzat illetékességi területén lévő közterületen, az önkormányzat intézményeinek, gazdasági szervezeteinek területén, valamint az önkormányzat tömegközlekedési feladatának ellátása során üzemeltetett tömegközlekedési eszköz szerződésszerű használatának ellenőrzése során látja el.
+3. § A felügyelő feladatait – törvény vagy kormányrendelet eltérő rendelkezése hiányában – az önkormányzat illetékességi területén lévő közterületen, az önkormányzat intézményeinek, gazdasági szervezeteinek területén, valamint az önkormányzat tömegközlekedési feladatának ellátása során üzemeltetett tömegközlekedési eszköz szerződésszerű használatának ellenőrzése során látja el.
 
 4. § (1) A felügyelő a feladatát járőrszolgálat vagy őrszolgálat keretében országosan egységes egyenruhában teljesíti.
 
@@ -166,7 +166,7 @@ haladéktalanul törli.
 
 (2)
 
-23. § (1) A felügyelő eljárására az ügy jellegétől függően a közigazgatási hatósági eljárás általános szabályairól szóló, illetőleg a szabálysértésekről szóló törvény rendelkezéseit kell alkalmazni.
+23. § (1) A felügyelő eljárására az ügy jellegétől függően a közigazgatási hatósági eljárás általános szabályairól szóló, illetőleg a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Az e törvényben szabályozott felügyelői intézkedések miatti jogorvoslatra a közigazgatási hatósági eljárás, illetőleg a szabálysértési eljárás szabályai az irányadók.
 

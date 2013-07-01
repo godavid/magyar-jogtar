@@ -269,7 +269,7 @@ hajtja végre.
 
 ### V. Fejezet — Adatkezelés és adatszolgáltatás
 
-24. § A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
+24. § (1) A központi adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
 
 - a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét,
 - b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
@@ -282,6 +282,8 @@ hajtja végre.
 - i) a külföldre utazás korlátozásának tényét és a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat,
 - j) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevélhatóság megnevezését, a törlés időpontját, valamint a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat, továbbá
 - k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit.
+
+(2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 24/A. § (1) A központi adatkezelő szerv központi útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
@@ -346,6 +348,13 @@ hajtja végre.
 (5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus ügyintézés útján is teljesíthető.
 
 (6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
+
+(7) A központi adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
+
+- a) a polgár természetes személyazonosító adatai alapján a polgár útlevele okmányazonosítója titkosított kapcsolati kódjának, illetve
+- b) a polgár útlevelének okmányazonosítója alapján az útlevélben szereplő természetes személyazonosító adatok továbbítására jogosult.
+
+(8) A központi adatkezelő szerv az útlevél kiadásáról szóló döntését követően az útlevél okmány megszemélyesítésével egyidejűleg az útlevél okmányazonosítója alapján kapcsolati kódot képez, majd a titkosított kapcsolati kódot annak típusmegjelölésével a külön törvény szerinti összerendelési nyilvántartásnak az összerendelési bejegyzés újabb kapcsolati kóddal történő kiegészítése céljából átadja.
 
 29. § (1) Az útlevélhatóság és a központi adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
 

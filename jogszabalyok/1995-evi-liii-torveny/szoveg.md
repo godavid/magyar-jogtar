@@ -889,7 +889,7 @@ tarthatók nyilván.
 
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetekben a környezethasználat a környezethasználó által a környezetvédelmi hatóság részére adott bejelentést követően kezdhető meg, illetve folytatható.
 
-(3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól, valamint a környezethasználók által a (2) bekezdés szerint tett bejelentésekről hatósági nyilvántartást vezet.
+(3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól közhiteles hatósági nyilvántartást vezet.
 
 (4) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
 
@@ -1051,6 +1051,10 @@ közös szabályai
 
 (2) A környezethasználó ennek keretében felülvizsgálja (felülvizsgáltatja) a tevékenységével kapcsolatos környezeti hatásokat, környezeti nyilatkozatot készít (készíttet), azt hitelesítteti a környezetvédelmi vezetési és hitelesítési rendszer által előírt követelményeknek való megfelelés szempontjából a környezeti hitelesítésre jogosulttal és nyilvántartásba vétel céljából benyújtja az erre külön jogszabályban feljogosított szervezetnek, továbbá ezt követően mindenki számára hozzáférhetővé teszi.
 
+(3) A környezetvédelmi hatóság a környezetvédelmi vezetési és hitelesítési rendszerben részt vevő környezethasználókról nyilvántartást vezet.
+
+(4) A (3) bekezdés szerinti nyilvántartás az abban szereplő hatósági határozat vonatkozásában – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 ### Változás-bejelentési kötelezettség, ellenőrzés
 
 82. § (1) A 66. § (1) bekezdés szerinti engedélyekben, valamint a 66. § (2) bekezdés szerinti bejelentésekben alapul vett körülmények jelentős megváltozását, illetve tervezett jelentős megváltoztatását, továbbá a tulajdonosváltozást az érdekelt köteles a környezetvédelmi hatóságnak tizenöt napon belül bejelenteni.
@@ -1138,6 +1142,8 @@ adja ki.
 (3) Az (1) bekezdés szerinti szakértői tevékenység folytatását a környezetvédelmi hatóság, illetve a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A kérelem tartalmazza a kérelmező természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a kérelmezett szakértői szakterületet, illetve részszakterületet.
 
 (4) A (2) bekezdés szerinti hatóság a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és szakértői szakterületét, illetve részszakterületét. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a (2) bekezdés szerinti hatóság vagy kamara részére – annak a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a (2) bekezdés szerinti hatóság vagy a kamara a (6) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -1372,7 +1378,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 7. a környezetvédelmi szempontból minősítendő anyagok, termékek, tevékenységek és technológiák körét, minősítésének általános szabályait;
 - 8. azokat a környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni;
 - 9. a hatásterület meghatározásának szabályait;
-- 10. Magyarország területén a védelmi és honvédelmi feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét;
+- 10.
 - 11. a környezeti jelentés készítésére kötelezettek körét, valamint a környezeti jelentés készítésére vonatkozó részletes szabályokat;
 - 12. az egységes környezethasználati engedélyezési eljárás részletes szabályait;
 - 13. a környezetvédelmi vezetési és hitelesítési rendszerek működési, környezeti hitelesítési és nyilvántartási kereteit, feltételeit;
@@ -1431,6 +1437,8 @@ kapcsolatos részletes szabályokat.
 - b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
 (15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
+
+(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.
 
 110/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a környezetvédelmi hatóságot vagy hatóságokat, valamint a környezetvédelmi igazgatási szervet vagy szerveket.
 

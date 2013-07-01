@@ -31,7 +31,12 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 (2) Nem lehet egyéni vállalkozó:
 
 - a) aki korlátozottan cselekvőképes vagy cselekvőképtelen,
-- b) akit a közélet tisztasága elleni [a büntető törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. Fejezet VII. cím] a nemzetközi közélet tisztasága elleni (Btk. XV. Fejezet VIII. cím), gazdasági (Btk. XVII. Fejezet), vagyon elleni (Btk. XVIII. Fejezet) bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
+- b) akit
+  - ba) a 2013. június 30-ig hatályban volt közélet tisztasága elleni [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. Fejezet VII. cím], nemzetközi közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet) vagy vagyon elleni (1978. évi IV. törvény XVIII. Fejezet) bűncselekmény,
+  - bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), költségvetést károsító (Btk. XXXIX. Fejezet), pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet) vagy a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekmény
+
+miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
+
 - c) akit szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztére ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
 - d) aki egyéni cég tagja vagy gazdasági társaság korlátlanul felelős tagja.
 
@@ -129,6 +134,8 @@ kell megtenni.
 - g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 - h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
 - i) a törlés időpontját és okát.
+
+(1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–i) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni. A nyilvántartást vezető szerv a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 

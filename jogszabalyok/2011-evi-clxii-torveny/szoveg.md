@@ -1751,7 +1751,7 @@ jogosult.
 - d) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
 - e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
-223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
+223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
 224. § A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
 

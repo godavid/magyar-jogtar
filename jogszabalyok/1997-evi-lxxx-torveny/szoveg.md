@@ -207,11 +207,11 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 - f) gyermekgondozási segélyben,
 - g) Magyarországon nyilvántartásba vett egyháztól, felekezettől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 - h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban részesül,
-- i) a közoktatásról szóló törvény hatálya alá tartozó alapfokú, középfokú nevelési-oktatási vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó – magyar állampolgársággal nem rendelkező – személy, aki a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
+- i) a köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
 - j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 - k) a reá irányadó nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
-- l) kiskorú, magyar állampolgársággal és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
-- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá az illetékes magyar hatóság által ideiglenes hatállyal elhelyezett, otthont nyújtó ellátás keretében átmeneti és tartós nevelésbe vett külföldi kiskorú személy,
+- l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
+- m) személyes gondoskodást nyújtó bentlakásos szociális intézményben elhelyezett személy (ide nem értve a külföldi állampolgárt), a gyermekvédelmi rendszerben utógondozási ellátásban részesülő 18–24 éves fiatal felnőtt, továbbá magyar hatóság által a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján ideiglenes hatállyal elhelyezett vagy nevelésbe vett külföldi kiskorú személy,
 - n) fogvatartott,
 - o) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 54. §-a alapján szociálisan rászorult,
 - p) egészségügyi szolgáltatás megszerzése érdekében kötött megállapodás alapján jogosult,
@@ -224,7 +224,7 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
-(3) Az (1) bekezdés a)–k), továbbá o), s), u), v) és w) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
+(3) Az (1) bekezdés a)–k), továbbá o), s), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas és a szomszédos államokban élő magyarokról szóló törvény hatálya alatt álló, nappali rendszerű oktatás keretében államilag támogatott vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában résztvevő hallgató kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
 
 (4) Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani. Amennyiben a jogosultság egyszerre több jogcím alapján is megállapítható, akkor a jogcímek (1) bekezdésben foglalt felsorolása jogosultsági sorrendet jelent azzal, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésben felsorolt jogcímeket megelőzi.
 
@@ -364,7 +364,7 @@ Tbj. 27. § (1)
 
 Tbj. 28. § (1) A 27. §-ban meghatározott járulékalap alsó határát arányosan csökkenteni kell azon időszak figyelembevételével, amely alatt a társas vállalkozó
 
-- a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
+- a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
 - b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - c) fogvatartott,
 - d) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát szünetelteti.
@@ -381,7 +381,7 @@ Tbj. 29. § (1)
 
 (4) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles nyugdíjjárulékot és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
 
-- a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj folyósításának tartama alatt vállalkozói tevékenységét személyesen folytatja –,
+- a) táppénzben, baleseti táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban részesül – kivéve, ha a gyermekgondozási segély, az ápolási díj folyósításának tartama alatt vállalkozói tevékenységét személyesen folytatja –,
 - b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - c) fogvatartott,
 - d) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét szünetelteti,
@@ -427,7 +427,7 @@ Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidej
 
 (4) A természetbeni és pénzbeli egészségbiztosítási járulék, valamint a nyugdíjjárulék alapja a ténylegesen elért járulékalapot képező jövedelem, eva adózó egyéni vállalkozó esetében az Eva tv.-ben meghatározott adóalap 4 százaléka, átalányadózó egyéni vállalkozó esetében az átalányban megállapított jövedelem, ha
 
-- a) az – átalányadózónak nem minősülő – egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
+- a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
 - b) az egyéni vállalkozó, a társas vállalkozó közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
 
 (5) Amennyiben a társas vállalkozóként biztosított több gazdasági társaság személyesen közreműködő tagja vagy ügyvezetője, a járulékfizetési alsó határ utáni járulékot – évente egy alkalommal történő választása szerint – egyszer kell figyelembe venni. A társas vállalkozó e választásáról a tárgyév január 31-éig nyilatkozik a társas vállalkozásnak.
@@ -537,7 +537,7 @@ Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o),
 
 (2) Az a belföldi személy, aki nem biztosított és egészségügyi szolgáltatásra a 16. § (1) bekezdésének a)–p) és s)–w) pontja, valamint a 13. § szerint sem jogosult, köteles a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot fizetni.
 
-(3) A (2) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik Magyarország területén. Az egyéves időtartamba beszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha az állami adóhatóság az egy éves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, a lakcímre vonatkozó adatok közlése érdekében.
+(3) A (2) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel, illetve tartózkodási engedéllyel rendelkező hontalan személy esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint bejelentett szálláshellyel rendelkezik Magyarország területén. Az egyéves időtartamba beleszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha az állami adóhatóság az egyéves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a szálláshellyel kapcsolatos idegenrendészeti nyilvántartást kezelő szervet, a lakcímre vonatkozó adatok közlése érdekében.
 
 (4) A járulékfizetést a kötelezett helyett annak hozzájárulásával más személy vagy szerv is teljesítheti. A járulékfizetés átvállalása az állami adóhatóság jóváhagyásával válik érvényessé.
 
@@ -574,6 +574,8 @@ Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás az egészségbiztosítás
 
 Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási, egészségbiztosítási- és munkaerő-piaci, valamint nyugdíjjárulék-alapot képező jövedelem, a biztosított után megfizetett, illetőleg a tőle levont egészségbiztosítási járulék és nyugdíjjárulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 
+(1a) A 40. § szerinti nyilvántartások az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásoknak minősülnek.
+
 (2) Az állami adóhatóság a jogosulatlan társadalombiztosítási ellátások igénybevételének megakadályozása, az ellátások összegének megállapítása érdekében az e törvényben és az Art.-ben meghatározott adatokat a biztosítottak adóazonosító jelének feltüntetésével szolgáltatja. A nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) az átadott nyilvántartás adatait a saját nyilvántartásának adataival az 1996. évi XX. törvény szabályai szerinti kapcsolati kód alkalmazásával veti egybe. A társadalombiztosítási igazgatási szervek a jogosulatlan ellátások igénybevevőiről adóazonosító jel feltüntetésével tájékoztatják az állami adóhatóságot.
 
 (3) A társadalombiztosítási ellátások megállapítása és jogszerű igénybevételének ellenőrzése érdekében az állami adóhatóság az Art. 52. § (7) bekezdésében foglaltak szerint adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a rehabilitációs hatóság és az egészségbiztosítási szerv részére.
@@ -603,6 +605,8 @@ Tbj. 42. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi
 (3) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján – a felhasználás céljának és jogalapjának egyidejű megjelölése mellett – jogszabályban meghatározott módon szolgáltathatnak.
 
 (4) A bíróságok, az ügyészségek, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+
+(5) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, valamint a Magyarország által kötött nemzetközi egyezmények alapján egészségbiztosítási jogosultságokat igazoló nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 Tbj. 43. § (1) A 42. § (1) bekezdés alapján nyilvántartásba vett adatokból
 
@@ -829,6 +833,8 @@ Tbj. 56. § (1) Az adózás rendjéről szóló törvény rendelkezéseit az e t
 Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi foglalkoztató (a továbbiakban: külföldi vállalkozás) javára biztosítási kötelezettséggel járó jogviszony keretében munkát végző foglalkoztatott részére kifizetett járulékalapot képező jövedelem alapulvételével a külföldi vállalkozás a 19. § (2)–(3) bekezdéseiben meghatározott nyugdíjjárulékot, valamint egészségbiztosítási- és munkaerő-piaci járulékot állapít meg és von le.
 
 (2) A külföldi vállalkozás a biztosítási kötelezettséggel járó jogviszonnyal összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget az Art. 8. és 9. §-ában meghatározott képviselő útján, ennek hiányában közvetlenül saját maga teljesíti. Ha a külföldi vállalkozás a járulékkötelezettséget közvetlenül teljesíti, a biztosítás kezdetét megelőzően köteles bejelentkezni az állami adóhatóságnál, és kérelmezni, hogy az állami adóhatóság foglalkoztatói minőségében vegye nyilvántartásba.
+
+(2a) Az állami adóhatóság által a külföldi vállalkozásokról vezetett (2) bekezdés szerinti nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Ha a külföldi vállalkozás a járulékkötelezettségek teljesítésére nem rendelkezik Art. szerinti képviselővel, és a (2) bekezdésben foglalt bejelentkezést is elmulasztja, az általa foglalkoztatott természetes személy biztosításával összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget a foglalkoztatott teljesíti, és viseli a járulékkötelezettségek elmulasztása miatti jogkövetkezményeket (ide nem értve a mulasztási bírságot és az adóbírságot).
 

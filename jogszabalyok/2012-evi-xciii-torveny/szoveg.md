@@ -456,7 +456,7 @@ rendeletben szabályozza.
 
 89. § (1) A közoktatásról szóló 1993. évi LXXIX. törvény 88. § (1) bekezdés alapján készített feladatellátási, intézményhálózat-működtetési és köznevelési fejlesztési tervek érvényessége 2013. március 1-jéig meghosszabbodik.
 
-(2) Nem lép hatályba az anyakönyvi eljárásról szóló 2010. évi I. törvény 98. §-a, 99. § (1) bekezdése és 100. § (1) bekezdés b) pontja.
+(2)
 
 (3) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 133. § (3) bekezdés rendelkezését azzal az eltéréssel kell alkalmazni 2012-ben a Kormány által intézményfenntartásra kijelölt szerv esetében, hogy az alapilletmény-eltérítés mértéke az első hat hónap teljesítményértékelése alapján 2012. július 31-ig módosítható a Kormány által intézményfenntartásra kijelölt szerv vezetője döntésével és a kormánymegbízott egyetértésével. Az alapilletmény-eltérítés 2012. január 1-jétől érvényes, azzal, hogy az alapilletmény-csökkentésére csak a megállapítás napját követő naptól kerülhet sor.
 

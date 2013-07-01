@@ -1254,7 +1254,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
-(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény rendelkezéseit is megfelelően alkalmazni kell.
+(3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, valamint a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell.
 
 (4) Ha az igazságügyi alkalmazott nemzetközi szervnél vagy az Európai Unió szervénél jogviszonyt létesít, igazságügyi alkalmazotti szolgálati jogviszonya az új jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 

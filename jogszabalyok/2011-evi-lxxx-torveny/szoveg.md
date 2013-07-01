@@ -102,13 +102,15 @@ A Melléklet a jelen Szabályzat szerves részét képezi.
 
 A Melléklet szövege a Veszélyes Áruk Fuvarozási Szakértő Bizottsága által az 1980. május 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) 19. cikk 4. §-a szerint, az Egyezményt módosító 1999. június 3-án kelt Jegyzőkönyv hatálybalépésekor megállapított szöveg.”
 
-3. § A RID 6. cikke szerinti Mellékletének 2011. január 1-jétől hatályos és hiteles angol nyelvű szövegét és annak hivatalos magyar nyelvű fordítását e törvény 1. melléklete tartalmazza.
+3. §
 
 4. § (1) A veszélyes áru szállítás biztonsága érdekében a közlekedési hatóság nyilvántartja a RID Melléklete 1.8.3 szakasza szerinti veszélyes áru szállítási biztonsági tanácsadó
 
 - a) természetes személyazonosító adatait,
 - b) állampolgárságát,
 - c) veszélyes áru szállítási biztonsági tanácsadó képesítéséről szóló bizonyítványának érvényességi idejét, valamint azt, hogy a bizonyítványa mely alágazatra, valamint veszélyességi osztályra vonatkozik.
+
+(1a) A veszélyesáru-szállítási biztonsági tanácsadókról vezetett nyilvántartás az (1) bekezdés c) pontja szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (2) Az adatokat a bizonyítvány érvényességi idejének lejártától számított 5 évig kell megőrizni.
 
@@ -133,9 +135,3 @@ való megfelelést is szolgálja.
 8. § Hatályát veszti a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függelékének Melléklete 2009. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2009. évi LIX. törvény.
 
 ### 1. melléklet a 2011. évi LXXX. törvényhez
-
-#### A Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID – a COTIF Egyezmény C Függeléke)
-
-Melléklete
-
-20110000000080_1

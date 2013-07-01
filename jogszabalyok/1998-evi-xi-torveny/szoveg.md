@@ -161,6 +161,8 @@ az ügyvédekről
 
 (7) A hitelesítés-szolgáltató a tanúsítvány érvényességét a területi ügyvédi kamara megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
+12/C. § A Magyar Ügyvédi Kamara és a kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Ügyvédi Kamara és a kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ## MÁSODIK RÉSZ — AZ ÜGYVÉDI KAMARAI TAGSÁG
 
 ### II. Fejezet — A KAMARAI TAGSÁG KELETKEZÉSE
@@ -405,7 +407,7 @@ megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvánta
 - f) az igazolványának, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolványának okmányazonosítója és az okmányazonosító alapján nyilvántartott következő tények:
   - fa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. §-ának (4) bekezdése szerinti tények,
   - fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) pontja szerinti tények és az okmány érvényességi ideje,
-  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ának i)–j) pontjai szerinti tények,
+  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
   - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 
 (6) Ha a fél az ellenőrzéshez nem járult hozzá, az ellenőrzés csak az igazolvány (5) bekezdés f) pontjában foglalt adataira terjedhet ki.
@@ -659,7 +661,7 @@ fogadhat el.
 
 (3) Az eljárás alá vont ügyvéd, a képviselője, a kamara elnöke és a fegyelmi megbízott az eljárás bármely szakában az eljárásra, valamint a bizonyítékokra nyilatkozatot tehet, az iratokba betekinthet, a tanúhoz, a szakértőhöz kérdést intézhet, és további bizonyítási indítványt terjeszthet elő.
 
-53. § A tárgyalás nyilvános. A fegyelmi tanács a nyilvánosságot a tárgyalás bármely szakában kizárhatja, ha az ügyvédi titok vagy a személyiségi jogok védelmében szükséges.
+53. § A tárgyalás nem nyilvános.
 
 ### Az ügyvédi tevékenység felfüggesztése
 
@@ -696,6 +698,22 @@ fogadhat el.
 (4) A határozatot a fegyelmi tanács elnöke és tagjai írják alá.
 
 (5) A határozatot és indokait szóban ki kell hirdetni, és 30 napon belül az eljárás alá vont ügyvéd, a képviselője, valamint a kamara elnöke részére kézbesíteni kell.
+
+### Fegyelmi eljárás során hozott határozatok módosítása, visszavonása, kijavítása és kiegészítése
+
+55/A. § (1) Ha a kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács megállapítja, hogy
+
+- a) a bíróság,
+- b) a kamara elnöke határozata esetében a Magyar Ügyvédi Kamara elnöksége, vagy
+- c) az elsőfokú fegyelmi határozata esetében a másodfokú fegyelmi tanács által el nem bírált fegyelmi eljárás keretében hozott határozata jogszabályt, alapszabályt vagy kamarai szabályzatot sért, a határozatát módosítja vagy visszavonja. A határozatot annak kell kézbesíteni, akinek a módosított vagy visszavont határozatot kézbesítették.
+
+(2) Az (1) bekezdés szerinti eljárás lefolytatására, ha törvény eltérően nem rendelkezik, a kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács csak egy ízben, és a határozat jogerőre emelkedésétől számított egy éven belül jogosult. Ha a határozat bírósági felülvizsgálata van folyamatban, a kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács az érdemi ellenkérelem előterjesztéséig módosíthatja vagy vonhatja vissza határozatát.
+
+55/B. § (1) A kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács a fegyelmi eljárás keretében hozott határozatát név-, szám- vagy számítási hiba és más hasonló elírás esetén kijavítja.
+
+(2) A kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács a fegyelmi eljárás keretében hozott határozatát kiegészítheti, ha az ügy érdeméhez tartozó kérdésben nem határozott. A kiegészítés a határozat egyéb részeit nem érintheti. A határozat kiegészítését legkésőbb a határozat kézbesítésétől számított 15 napon belül kérhetik azok, akiknek az kézbesítésre került.
+
+(3) A kamara elnöke, a Magyar Ügyvédi Kamara elnöksége vagy a fegyelmi tanács a kijavításról és a kiegészítésről hivatalból vagy kérelemre – a szükséghez képest az érintettek meghallgatása után – hoz határozatot, és azt mindazok számára kézbesíti, akiknek a kijavítással vagy kiegészítéssel érintett határozatot kézbesíteni kellett.
 
 ### Jegyzőkönyv
 
@@ -1078,6 +1096,8 @@ szerint illetékes kamaránál kell előterjeszteni.
 - n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
 - o) jogosultságát az elektronikus cégeljárásban való részvételre.
 
+(1a) Az európai közösségi jogászok névjegyzéke az (1) bekezdésben foglalt adatok vonatkozásában – az (1) bekezdés a)–e), valamint k)–n) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Az (1) bekezdésben foglalt adatok közül a c) és n) pontban felsorolt adatok nem nyilvánosak.
 
 (3) A Magyar Ügyvédi Kamara az (1) bekezdésben felsorolt adatokról központi nyilvántartást vezet.
@@ -1163,7 +1183,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (5) Az egyénileg tevékenykedő európai közösségi jogászra az egyéni ügyvédekre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-89/M. § (1) Az európai közösségi jogász alkalmazott ügyvédi tevékenység végzésére jogosult. Az alkalmazott európai közösségi jogászok névjegyzékébe történő felvételnél a 13. § (3) bekezdésének b)–d) pontja nem alkalmazható.
+89/M. § (1) Az európai közösségi jogász alkalmazott ügyvédi tevékenység végzésére jogosult. Az alkalmazott európai közösségi jogászok névjegyzékébe történő felvételnél a 13. § (3) bekezdésének b)–d) pontja nem alkalmazható. Az alkalmazott európai közösségi jogászok névjegyzéke – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A kamara az alkalmazott európai közösségi jogász adatait haladéktalanul köteles megküldeni a Magyar Ügyvédi Kamarának.
 
@@ -1554,9 +1574,13 @@ szerint illetékes kamaránál kell előterjeszteni.
 - n) a kamarai tag jogosultságát az elektronikus cégeljárásban való részvételre,
 - o) a kamarai tagnak az ügyvédjelölt foglalkoztatására vonatkozó jogosultságát.
 
+(1a) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a)–d), j), k) és m) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Külföldi jogi tanácsadó esetén az (1) bekezdés d) pontjában foglaltakat nem kell nyilvántartani, de a külföldi jogi tanácsadóval együttműködő magyar ügyvéd (iroda) adatait, a külföldi iroda nevét, címét és a külföldi bejegyzésre vonatkozó adatait a külföldi jogi tanácsadó nyilvántartásában szerepeltetni kell.
 
 (3) Ügyvédi iroda esetén az iroda nevét, címét, telefon- és telefax-számát, valamint tagjainak nevét, lakcímét kell nyilvántartani.
+
+(3a) A (3) bekezdés szerinti nyilvántartás – a tag természetes személyazonosító, valamint lakcím-azonosító adata kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (4) Az (1)–(3) bekezdésben felsorolt adatok közül az a), e), h) és n) pontban felsorolt adatok nyilvánosak, közzétehetők, vagy bárki számára kiadhatók.
 

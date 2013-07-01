@@ -34,13 +34,15 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (7) A (6) bekezdés szerinti vélelemre alapított határozat kizárólag a 3. § (1) bekezdés a)–b), valamint i) pontjainak megsértésével összefüggésben tartalmazhat rendelkezést. Az ebbe a körbe nem tartozó jogsértések miatt a tevékenységet ténylegesen irányító foglalkoztatóval szemben a vélelemmel megállapított munkaviszonyt érintően csak a vélelmet tartalmazó határozat jogerőre emelkedése után történt elkövetés esetén hozható határozat.
 
-(8) Az ágazati miniszter eltérő szabályokat állapíthat meg a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, a Katonai Nemzetbiztonsági Szolgálatnál, továbbá a rendvédelmi szerveknél a 3. § alkalmazására, és a feladatok ellátására önálló szervezetet hozhat létre.
+(8)
 
 2. § (1) A munkaügyi ellenőrzést – az e törvényben foglalt kivételekkel – a munkaügyi hatóság munkaügyi felügyelői (a továbbiakban: felügyelő) látják el.
 
 (2) A bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó bányavállalkozók és bányaüzemek, illetve a bányafelügyelet felügyelete alá tartozó tevékenységek munkaügyi ellenőrzését a bányafelügyelet végzi.
 
 (3) Az Mt. 295. § (1) bekezdés e) pontja kivételével az Mt. 295–296. §-ában meghatározott szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól a munkaügyi hatóság és a bányafelügyelet beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára.
+
+(4) Az (1) bekezdés szerinti munkaügyi hatóság hatósági jogköre nem terjed ki a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre és az önkormányzati tűzoltóságra.
 
 2/A. § (1) A munkaügyi hatóság az ellenőrzési tevékenységét e törvény szerinti szempontok alapján a munkaügyi hatóság vezetője által megállapított, és a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában évenként február 20-áig közzétett ellenőrzési irányelv alapján végzi.
 
@@ -231,6 +233,8 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (6) A munkaügyi hatóság a (4) bekezdésben foglalt kötelezettsége teljesítése érdekében nyilvántartást vezet a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vonatkozó rendelkezések, valamint a munkaviszony létesítésével összefüggő bejelentési kötelezettség megsértésével érintett munkavállalókról és az (5) bekezdésben meghatározott személyi adatokról.
 
+(6a) A (6) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat jogerőssé és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
 (8) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (2) bekezdése alapján kezelt adatokból a 2. §-ban meghatározott munkaügyi ellenőrzést végző személy – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
@@ -262,6 +266,8 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 - c) a jogsértés megjelölését,
 - d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
 - e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést (hatályon kívül vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító) hozott.
+
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – az (1) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A hatósági nyilvántartás adatait a munkaügyi hatóság az általa létrehozott informatikai rendszerben kezeli. Az (1) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkaügyi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
 
@@ -301,8 +307,8 @@ is érteni kell.
 
 (6) Felhatalmazást kap
 
-- a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, valamint a Katonai Nemzetbiztonsági Szolgálatnál,
-- b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél.
+- a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
+- b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál.
 
 9/A. § Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvénnyel (a továbbiakban: T.) megállapított 3. § (1) bekezdés t) pontját, (5) bekezdését és a 6/B. §-t a T. hatálybalépését követően indult ügyekben kell alkalmazni.
 

@@ -157,7 +157,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 1. CÍM — Az előadó-művészeti szervezetek nyilvántartása
 
-7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről a kijelölt szerv nyilvántartást vezet.
+7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről a kijelölt szerv nyilvántartást vezet, amely nyilvántartás az előadó-művészeti szervezetek (2) bekezdés a) pontjában, b) pont ba) és bd) alpontjában szereplő adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartás tartalmazza
 

@@ -66,6 +66,8 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 - k) a vezetői engedély visszaadásának időpontját,
 - l) az utánképzés igazolásának időpontját.
 
+(1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől számított nyolc napon belül értesíti a Nyilvántartót.
 
 (3) A Nyilvántartót az (1) bekezdés j)–k) pontjaiban megjelölt adatokról a vezetői engedély átvételére, kiadására jogosult, külön jogszabályban meghatározott hatóság az okmány leadását, kiadását, az igazolás bemutatását követő három napon belül értesíti.
@@ -127,13 +129,16 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 ### 1. számú melléklet a 2000. évi CXXVIII. törvényhez
 
-| Kódszám | Tényállás | Pontszám |
-| --- | --- | --- |
-| 01 | Segítségnyújtás elmulasztása (közúti közlekedés körében) [Btk. 172. §] | 11 |
-| 02 | Közúti veszélyeztetés [Btk. 186. §] | 11 |
-| 03 | Közúti baleset okozása [Btk. 187. §] | 9 |
-| 04 | Járművezetés ittas vagy bódult állapotban [Btk. 188. §] | 11 |
-| 05 | Járművezetés tiltott átengedése [Btk. 189. §] | 11 |
-| 06 | Cserbenhagyás [Btk. 190. §] | 11 |
+#### A pontrendszer hatálya alá tartozó bűncselekmények
+
+|  | Kódszám |  | Tényállás |  | Pontszám |
+| --- | --- | --- | --- | --- | --- |
+|  | 01 |  | Segítségnyújtás elmulasztása (közúti közlekedés körében) [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 166. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 172. §] |  | 11 |
+|  | 02 |  | Közúti veszélyeztetés (Btk. 234. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 186. §) |  | 11 |
+|  | 03 |  | Közúti baleset okozása (Btk. 235. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 187. §) |  | 9 |
+|  | 04 |  | Járművezetés ittas állapotban (Btk. 236. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 188. §) |  | 11 |
+|  | 05 |  | Járművezetés bódult állapotban (Btk. 237. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 188. §) |  | 11 |
+|  | 06 |  | Járművezetés tiltott átengedése (Btk. 238. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 189. §) |  | 11 |
+|  | 07 |  | Cserbenhagyás (Btk. 239. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 190. §) |  | 11 |
 
 ### 2. számú melléklet a 2000. évi CXXVIII. törvényhez

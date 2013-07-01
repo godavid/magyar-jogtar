@@ -723,7 +723,10 @@ terheli.
 
 73. § (1) A képviselő bíróság vagy hatóság előtt – képviselői megbízatásának ideje alatt és azt követően – nem vonható felelősségre leadott szavazata, továbbá a képviselői megbízatásának gyakorlása során a képviselői megbízatásával összefüggésben általa közölt tény vagy vélemény miatt.
 
-(2) Az (1) bekezdésben meghatározott mentesség nem vonatkozik a képviselők polgári jogi felelősségére és a következő bűncselekményekre: közösség elleni izgatás, nemzeti jelkép megsértése, a nemzetiszocialista és kommunista rendszerek bűneinek nyilvános tagadása, visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősített adattal.
+(2) Az (1) bekezdésben meghatározott mentesség nem vonatkozik a képviselők polgári jogi felelősségére és a következő bűncselekményekre:
+
+- a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti közösség elleni izgatás, nemzeti jelkép megsértése, a nemzetiszocialista és kommunista rendszerek bűneinek nyilvános tagadása, visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősített adattal,
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti közösség elleni uszítás, nemzeti jelkép megsértése, a nemzetiszocialista vagy kommunista rendszerek bűneinek nyilvános tagadása, minősített adattal visszaélés.
 
 74. § (1) A képviselő ellen csak az Országgyűlés előzetes hozzájárulásával lehet büntetőeljárást, valamint – a mentelmi jogról az adott ügyre vonatkozó önkéntes lemondás hiányában – szabálysértési eljárást indítani vagy folytatni, továbbá büntetőeljárásjogi kényszerintézkedést alkalmazni.
 
@@ -771,7 +774,7 @@ terheli.
 - g) ügyész,
 - h) állami vezető – a Kormány tagja és az államtitkár kivételével –,
 - i) kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója,
-- j) az önkéntes tartalékos szolgálati jogviszony kivételével a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
+- j) az önkéntes tartalékos szolgálati jogviszony kivételével a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy,
 - k) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja,
 - l) a Közbeszerzési Hatóság keretében működő Tanács tagja.
 
@@ -892,9 +895,9 @@ terheli.
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
-(3) Ha a képviselő a megválasztása előtt ügyész, kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója, a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(3) Ha a képviselő a megválasztása előtt ügyész, kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
+97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 
 (2) A képviselői, valamint a háznagyi megbízatás időtartama vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 

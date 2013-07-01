@@ -129,7 +129,11 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 68. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a földgázellátásban megkülönböztetett feltételek szerint vehetnek részt.
 - 69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 - 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére propán-, butángázok és ezek elegyeiből álló gázok csővezetéken keresztül történő elosztása és értékesítése.
-- 71.
+- 71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+- 72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a bányafelügyelet által kiadott, érvényes engedéllyel rendelkezik.
+- 73. PB-gáz kiskereskedő: aki
+  - a) a PB-gáz palackos PB-gáz értékesítőhelyen vagy üzemanyagtöltő állomáson történő értékesítéséhez szükséges, a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerinti bejelentést megtette, illetve a PB-gáz palackból turista használatú palackba történő átfejtés végzésére engedéllyel rendelkezik, vagy
+  - b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalmazóval fennálló szerződéses kapcsolat alapján a PB-gáz forgalmazó tulajdonában lévő palackos PB-gázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette.
 
 ### II. Fejezet — FÖLDGÁZIPARI TEVÉKENYSÉGEK
 
@@ -1263,7 +1267,11 @@ lehet igénybe venni.
 - c) a rendszerüzemeltető vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett alapszolgáltatásokon túli egyéb szolgáltatások 106. § szerinti díja,
 - d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 - e) a 141. § (3) bekezdés és a 141/A. § szerinti felajánlási ár, valamint
-- f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig.
+- f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
+- g) a vezetékes PB-gáz szolgáltatás és a PB-gáz tartályban történő értékesítésének lakossági PB-gáz fogyasztó által fizetendő ára, valamint
+- h) a 11,5 kg-os töltettömegű palackos PB-gáz
+  - ha) gázkiskereskedő részére történő értékesítésének ára, és
+  - hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára.
 
 (2a) A földgázellátással összefüggésben
 
@@ -1275,6 +1283,14 @@ lehet igénybe venni.
 - f) az egyetemes szolgáltató és a volt közüzemi nagykereskedő a (2) bekezdés f) pontjában
 
 foglalt árat vagy díjat köteles megfizetni.
+
+(2b) A PB-gáz ellátással összefüggésben
+
+- a) a lakossági PB-gáz fogyasztó a (2) bekezdés g) pontjában,
+- b) a PB-gáz kiskereskedő a (2) bekezdés h) pont ha) alpontjában, és
+- c) a palackos PB-gáz fogyasztó a (2) bekezdés h) pont hb) alpontjában
+
+foglalt árat köteles megfizetni.
 
 (3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdés szerinti díjakat a Hivatal elnöke rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát a miniszter rendeletben állapítja meg.
 
@@ -1416,10 +1432,28 @@ foglalt árat vagy díjat köteles megfizetni.
 
 (6)
 
-109. § A 103–108. §-ban foglalt rendelkezések megsértése esetén a Hivatal
+108/A. § (1) A vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a vezetékes PB-gáz szolgáltató által alkalmazott, a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó ár 90%-át.
 
-- a) megtiltja a jogszabályt sértő díj, illetve ár alkalmazását, és egyidejűleg kötelezi az engedélyest a jogszerű ellenérték alkalmazására, valamint
-- b) kötelezi az engedélyest a 103–108. §-ban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
+(2) A tartályos PB-gáz lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a PB-gáz forgalmazó által alkalmazott, a tartályos PB-gáz értékesítésre vonatkozó, általános forgalmi adót is tartalmazó ár 90%-át.
+
+(3) A PB-gáz forgalmazó által a PB-gáz kiskereskedő, illetve közvetlenül a palackos PB-gáz fogyasztó részére 11,5 kg-os töltettömegű palackban történő PB-gáz értékesítés általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a PB-gáz forgalmazó által alkalmazott, a 11,5 kg-os töltettömegű palackokra vonatkozó, általános forgalmi adót is tartalmazó értékesítési ár 90%-át.
+
+(4) A PB-gáz kiskereskedő által a palackos PB-gáz fogyasztó részére 11,5 kg-os töltettömegű palackban történő PB-gáz értékesítés általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a PB-gáz kiskereskedő által alkalmazott, a 11,5 kg-os töltettömegű palackokra vonatkozó, általános forgalmi adót is tartalmazó értékesítési ár 90%-át.
+
+(5) A vezetékes PB-gáz szolgáltató és a PB-gáz forgalmazó egyértelműen, írásban, a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla közlésével egyidejűleg köteles tájékoztatást nyújtani a lakossági PB-gáz fogyasztó részére az (1)–(2) bekezdésben foglaltak teljesüléséről.
+
+(6) A PB-gáz kiskereskedő a (4) bekezdésben, a palackos PB-gáz fogyasztó részére értékesítő PB-gáz forgalmazó a (3) bekezdésben foglaltak teljesüléséről egyértelműen, az értékesítés helyén jól látható helyre kifüggesztett hirdetményben köteles tájékoztatást nyújtani.
+
+(7) A vezetékes PB-gáz szolgáltató, valamint a PB-gáz forgalmazó a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az (1)–(3) bekezdésben foglalt előírások teljesülését.
+
+(8) A hatósági árat és az áralkalmazási feltételeket a GET. szerinti engedélyesek esetén az engedélyesek üzletszabályzatának függeléke tartalmazza.
+
+(9) Az (5) és a (6) bekezdés szerinti rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
+
+109. § A 103–108/A. §-ban foglalt rendelkezések megsértése esetén a Hivatal
+
+- a) megtiltja a jogszabályt sértő díj, illetve ár alkalmazását, és egyidejűleg kötelezi az engedélyest, a PB-gáz forgalmazót, illetve a PB-gáz kiskereskedőt a jogszerű ellenérték alkalmazására, valamint
+- b) kötelezi az engedélyest a 103–108/A. §-ban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
 - c) bírságot szabhat ki.
 
 109/A. § A számvitelről szóló 2000. évi C. törvény általános szabályaitól eltérően, ha a 133. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján kiadott rendeletben foglaltak alapján az egyetemes szolgáltatónak az általa egyetemes szolgáltatás céljára igénybe vett földgáz forrásain a tényadatok alapján nyeresége vagy vesztesége keletkezik, és annak indokolt mértéke az árszabályozás során figyelembevételre kerül, ennek érvényesítendő hatását az egyetemes szolgáltató éves beszámolójának mérlegében időbeli elhatárolásként szerepeltetheti. A jelen §-ban foglaltaknak megfelelően készített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában a számvitelről szóló 2000. évi C. törvény rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
@@ -1868,7 +1902,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (5) Az (1) bekezdésben meghatározott földgáztároló, ingatlan vagy tulajdoni részesedés kizárólag adásvétel vagy csere jogcímén ruházható át vagy idegeníthető el. Az apportálásra az adásvételre vonatkozó szabályokat kell alkalmazni. Az (1) bekezdés a) és b) pontjában meghatározott földgáztároló vagy ingatlan cseréjére kizárólag akkor kerülhet sor, ha a földgáztárolót, vagy ingatlant megszerző személy maga is földgáztároló engedélyes. Az (1) bekezdés c) pontjában meghatározott tulajdoni részesedés cseréjére kizárólag akkor kerülhet sor, ha a tulajdoni részesedést megszerző személy maga is földgáztároló engedélyesben közvetlen tulajdoni részesedéssel rendelkezik.
 
-(6) Az (1) bekezdésben meghatározott földgáztárolót, ingatlant vagy tulajdoni részesedést semmilyen formában nem lehet biztosítékul adni, fedezetként lekötni, megterhelni, különösen arra zálogjogot, vételi jogot alapítani, vagy a földgáztárolóhoz, ingatlanhoz, felépítményhez vagy tulajdoni részesedéshez kapcsolódó jogosultságokat más számára – akár időlegesen sem – átengedni, illetve ezen jogosultságok fennállását vagy gyakorlását bármely módon korlátozó megállapodást kötni.
+(6) Az (1) bekezdésben meghatározott földgáztárolót, ingatlant vagy tulajdoni részesedést a Hivatal előzetes jóváhagyásával lehet biztosítékul adni, fedezetként lekötni, megterhelni, különösen arra zálogjogot, vételi jogot alapítani, vagy a földgáztárolóhoz, ingatlanhoz, felépítményhez vagy tulajdoni részesedéshez kapcsolódó jogosultságokat más számára – akár időlegesen – átengedni, illetve ezen jogosultságok fennállását vagy gyakorlását bármely módon korlátozó megállapodást kötni.
 
 (7) Az e §-ban foglaltakkal ellentétes vagy az e §-ban foglaltak megkerülésére irányuló szerződés, megállapodás vagy egyoldalú jognyilatkozat semmis.
 
@@ -1925,6 +1959,8 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 (15) Az engedélyesek külön jogszabályban meghatározott informatikai rendszert működtetnek az együttműködés biztosítása érdekében.
 
 (16) A Hivatal köteles a miniszter számára külön jogszabályban meghatározott adatokat szolgáltatni.
+
+(17) A vezetékes PB-gáz szolgáltató, a PB-gáz forgalmazó köteles a Hivatal, továbbá a miniszter számára jogszabályban meghatározott adatokat szolgáltatni.
 
 125/A. § (1) A szállítási rendszerüzemeltető és a földgáztárolói engedélyes, valamint a szállítási rendszer tulajdonosa nem oszthat meg üzleti szempontból érzékeny információt az integrált vállalkozás többi részével, kivéve ha ez egy üzleti tranzakció végrehajtása érdekében szükséges.
 
@@ -2157,7 +2193,7 @@ az Európai Unió szerveivel
 - 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait, valamint a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit és alkalmazásának általános szabályait,
 - 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, a nagycsaládosokat megillető kedvezményre vonatkozó szabályokat, az egyetemes szolgáltatók részére vételre felajánlott földgázforrás árát, a 141. § és a 141/A. § szerinti szerződések tekintetében felajánlás keretében értékesített mennyiséget a földgáztárolóból és nem földgáztárolóból származó mennyiség szerinti bontásban; az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges (felhasználási és tárolási célú) hazai termelésű földgáz mennyiségét, az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, az igénybevételre jogosultak vagy e törvény szerint kötelezettek körét, valamint a 141/A–141/B. §-okban foglaltak megsértése esetén az e rendelkezésekben meghatározott engedélyesekkel szemben alkalmazandó jogkövetkezmények körét, valamint a kapcsolt termelésszerkezet átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, az adatbázishoz való hozzáférés részletes szabályait és a szükséges adatszolgáltatást,
-- 5. az engedélyesek adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. §-ának (2) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
+- 5. az engedélyesek és a PB-gáz forgalmazók adatszolgáltatásának módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó egyesületek, a miniszter, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. §-ának (2) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6. a rendszerhasználati díj felülvizsgálatára irányuló eljárásban kötelezően benyújtandó adatok és dokumentumok körét,
 - 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
 - 7. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
@@ -2237,7 +2273,7 @@ földgáz képezi.
 
 (7) Az (1) bekezdésben meghatározott bevételi hiány kiegyenlítése esetén a rendszerirányító elkülönített számlájáról kifizetés nem teljesíthető.
 
-139. § (1) Az egyetemes szolgáltatásra jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a 140. § (1) bekezdésnek megfelelően beadott kérelmek alapján – az e törvény 32. §-a szerinti egyetemes szolgáltatói engedély megszerzésének feltételével – a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen történő egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltató lép. Az egyetemes szolgáltatási szerződéseket 2016. július 1-jéig kell megkötni.
+139. § (1) Az egyetemes szolgáltatásra jogosult felhasználók közüzemi szerződéseiben a közüzemi szolgáltató helyébe a 140. § (1) bekezdésnek megfelelően beadott kérelmek alapján – az e törvény 32. §-a szerinti egyetemes szolgáltatói engedély megszerzésének feltételével – a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatói engedélyes működési engedélyében meghatározott szolgáltatási területével azonos területen történő egyetemes szolgáltatás nyújtására köteles egyetemes szolgáltató lép.
 
 (2) A földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatásra jogosult, de az e törvény szerinti egyetemes szolgáltatásra nem jogosult és földgázkereskedővel még szerződést nem kötött felhasználók földgázellátását – a felhasználó igénye esetén – a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatói engedélyes által megjelölt – a szolgáltatóval egy társaságcsoportba tartozó – földgázkereskedő köteles biztosítani. Az egyetemes szolgáltatásra nem jogosult felhasználó és a földgázkereskedő között a szolgáltatás igénybevételével szerződés jön létre, a lényeges feltételekre vonatkozó megállapodás és az üzletszabályzatban meghatározott feltételek szerint. Az egyetemes szolgáltatásra nem jogosult felhasználó és a földgázkereskedő a szerződés létrejöttének napját követő gázév kezdő napjáig köteles a szerződést írásba foglalni.
 
@@ -2351,13 +2387,18 @@ földgáz képezi.
 
 (14) A hazai termelésű földgáz Felajánlási rendeletben meghatározott szabályok szerinti veszteség elszámolás nélkül számított súlyozott éves átlagára nem lehet kevesebb mint 0,907 Ft/MJ.
 
-(15) A hazai termelésű földgáz termelő részére kapcsolt termelésszerkezet átalakítási hozzájárulás, illetve kiegyenlítő hozzájárulás jogcímen fizetési kötelezettség állapítható meg.
+(15) Kapcsolt termelésszerkezet átalakítási hozzájárulás, illetve kiegyenlítő hozzájárulás jogcímen fizetési kötelezettség állapítható meg
 
-(16) A kapcsolt termelésszerkezet átalakítási hozzájárulás, illetve kiegyenlítő hozzájárulás mértékét a miniszter a Felajánlási rendeletben állapítja meg azzal, hogy a hozzájárulás mértéke nem haladhatja meg a Felajánlási rendeletben meghatározott hazai termelésű földgáz ára és a (14) bekezdés szerinti súlyozott éves átlagár különbözetét.
+- a) a hazai termelésű földgáz termelő, illetve
+- b) a távfűtésben részesülő fogyasztók ellátásbiztonsága érdekében a távhő- és kapcsoltan hőtermelő társaságoknak értékesítésre történő felajánlás céljából a földgáz biztonsági készlet mértékéről, értékesítéséről és visszapótlásáról szóló miniszteri rendeletben meghatározottak szerint a biztonsági földgázkészletből részesült földgázkereskedő
+
+részére.
+
+(16) A kapcsolt termelésszerkezet átalakítási hozzájárulás, illetve kiegyenlítő hozzájárulás mértékét a miniszter a Felajánlási rendeletben állapítja meg azzal, hogy a hazai termelésű földgáz termelő esetében a hozzájárulás mértéke nem haladhatja meg a Felajánlási rendeletben meghatározott hazai termelésű földgáz ára és a (14) bekezdés szerinti súlyozott éves átlagár különbözetét.
 
 (17) A kapcsolt termelésszerkezet átalakítási hozzájárulást a VET. 147. § (1)–(3) és (5) bekezdéseiben foglalt szabályok szerint a VET. szerinti átviteli rendszerirányító részére kell megfizetni.
 
-(18) A kiegyenlítő hozzájárulást a hazai termelésű földgáz termelő köteles a bevételeitől elkülönítve nyilvántartani és a külön jogszabályban meghatározottak szerint megfizetni.
+(18) A kiegyenlítő hozzájárulást a hazai termelésű földgáz termelő és a (15) bekezdés b) pontja szerinti földgázkereskedő köteles a bevételeitől elkülönítve nyilvántartani és a külön jogszabályban meghatározottak szerint megfizetni.
 
 141/C. § (1) A Felajánlási rendelet 1. mellékletében foglaltak alapján 2011. első és második negyedévére a volt közüzemi nagykereskedő ismét köteles felajánlani földgáz forrását az egyetemes szolgáltatók részére az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény kihirdetését követő három munkanapon belül, öt munkanapig tartó ajánlati kötöttség mellett. A szerződést 2011. január 1-ig írásba kell foglalni. Ezen szerződés 2011. június 30-ig nem szüntethető meg.
 
@@ -2444,6 +2485,26 @@ földgáz képezi.
 146/E. § E törvény Mód. 4. törvénnyel megállapított 100. §-a szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasás – az e törvény 142. § (1) bekezdés szerinti mintaprojektek kivételével – okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.
 
 146/F. § A Mód. 4. törvénnyel az engedélyesekre megállapított új kötelezettségek engedélyesek általi teljesítésével kapcsolatosan felmerülő költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
+
+146/G. § (1) Vezetékes PB-gáz szolgáltatást 2012. december 1-jét követően megkezdő vezetékes PB-gáz szolgáltató esetében a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, vezetékes PB-gáz szolgáltatók által 2012. december 1-jén alkalmazott árak 2012. évben értékesített mennyiség szerint súlyozott átlagának 90 %-át.
+
+(2) Tartályos PB-gáz értékesítési tevékenységet 2012. december 1-jét követően megkezdő PB-gáz forgalmazó esetében a tartályos PB-gáz lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a tartályos PB-gáz lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, PB-gáz forgalmazók által 2012. december 1-jén alkalmazott árak 2012. évben értékesített mennyiség szerint súlyozott átlagának 90 %-át.
+
+(3) PB-gáz kiskereskedők részére a PB-gáz 11,5 kg-os töltettömegű palackban történő forgalmazását 2012. december 1-jét követően megkezdő PB-gáz forgalmazó esetében a 11,5 kg-os töltettömegű palackban történő PB-gáz értékesítés általános forgalmi adót is tartalmazó ára nem haladhatja meg a PB-gáz PB-gáz kiskereskedők részére, 11,5 kg-os töltettömegű palackban történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, PB-gáz forgalmazók által 2012. december 1-jén alkalmazott árak átlagának 90 %-át.
+
+(4) PB-gáz 11,5 kg-os töltettömegű palackban történő forgalmazását 2012. december 1-jét követően megkezdő PB-gáz kiskereskedő esetében a PB-gáz forgalmazó által e PB-gáz kiskereskedő részére meghatározott 11,5 kg-os töltettömegű palackban értékesített PB-gáz általános forgalmi adót is tartalmazó ára nem haladhatja meg a PB-gáz 11,5 kg-os töltettömegű palackban történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, a PB-gáz forgalmazó által a PB-gáz kiskereskedők tekintetében 2012. december 1-jén alkalmazott árak átlagának 90%-át.
+
+(5) Palackos PB-gáz fogyasztók részére a PB-gáz 11,5 kg-os töltettömegű palackban történő forgalmazását 2012. december 1-jét követően megkezdő PB-gáz forgalmazó, illetve PB-gáz kiskereskedő esetében a 11,5 kg-os töltettömegű palackban történő PB-gáz értékesítés általános forgalmi adót is tartalmazó ára nem haladhatja meg a PB-gáz palackos PB-gáz fogyasztók részére, 11,5 kg-os töltettömegű palackban történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó, PB-gáz forgalmazók által 2012. december 1-jén alkalmazott árak 2012. évben értékesített mennyiség szerint súlyozott átlagának 90 %-át.
+
+(6) A vezetékes PB-gáz szolgáltatók az (1) bekezdés szerinti, a PB-gáz forgalmazók a (2)-(4) bekezdés szerinti átlagárak meghatározásához szükséges árakra és mennyiségekre vonatkozó adatokat a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi LXXIX. törvény hatálybalépését követő 15 napon belül kötelesek a Hivatal részére megadni. Az adatszolgáltatás határidőn túl történő teljesítése, illetve elmulasztása esetén a Hivatal bírságot szabhat ki. A bírság kiszabására és mértékére e törvényben, valamint a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, az engedélyesekre vonatkozó bírságolási szabályokat kell megfelelően alkalmazni.
+
+(7) Az (1)–(5) bekezdés alapján meghatározott átlagárakat a Hivatal – tájékoztató jelleggel – a honlapján 2013. augusztus 1-jéig közzéteszi.
+
+(8) Az (1) bekezdés szerinti vezetékes PB-gáz szolgáltató, valamint a (2) bekezdés szerinti PB-gáz forgalmazó az (1) és a (2) bekezdésben foglaltakról köteles tájékoztatást nyújtani a 108/A. § (5) bekezdésben előírtak szerint.
+
+(9) Az (5) bekezdés szerinti PB-gáz forgalmazó és PB-gáz kiskereskedő az (5) bekezdésben foglaltakról köteles tájékoztatást nyújtani a 108/A. § (6) bekezdésben előírtak szerint.
+
+(10) A (8) és a (9) bekezdés szerinti rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

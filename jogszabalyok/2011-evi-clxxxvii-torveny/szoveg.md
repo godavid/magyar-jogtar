@@ -129,7 +129,7 @@ irányul.
 
 (4) Ha a megyében az állami fenntartású szakképző iskolai tanulólétszám a tízezret nem éri el, a megyei szakképző iskolai feladatok legfeljebb két – legalább kétezer tanulóval működő – állami, önkormányzati fenntartású szakképző iskola keretében láthatóak el.
 
-(5) Kizárólag művészeti szakmacsoportba tartozó szakképzési feladatok, valamint a speciális szakiskolai és a készségfejlesztő speciális szakiskolai feladatok, valamint a (12) bekezdés a) pontja szerinti szakközépiskolai feladatok önálló szakképző iskola keretében is elláthatóak, amely szakképző iskolára a (2)–(4) bekezdésben foglalt létszámfeltételeket figyelmen kívül kell hagyni.
+(5) Kizárólag művészeti szakmacsoportba tartozó szakképzési feladatok, valamint a speciális szakiskolai és a készségfejlesztő speciális szakiskolai feladatok önálló szakképző iskola keretében is elláthatóak. Önálló szakképző iskola keretében láthatóak el a szakközépiskolai feladatok is, amennyiben az iskola az azonos feladatellátási helyen a szakközépiskolai feladatok mellett más, a nemzeti köznevelésről szóló törvény hatálya alá tartozó, nem szakképzési feladatot is ellát, és a köznevelési intézményben a szakközépiskolai tanulólétszám aránya nem haladja meg a huszonöt százalékot. Az e bekezdés szerinti szakképző iskolára a (2)–(4) bekezdésben foglalt létszámfeltételeket figyelmen kívül kell hagyni.
 
 (6) A térségi integrált szakképző központ a szakképzési feladatellátás olyan együttműködési rendszere, amelynek feladata az állami, önkormányzati feladatellátásban a szakképzés térségi feladatainak összehangolása, a képzés és a forrásfelhasználás hatékonyságának növelése, a szakképzési feladatellátás optimalizálása, a párhuzamos képzések és fejlesztések kiküszöbölése, valamint a munkaerő-piaci igények iskolai rendszerű szakképzésben való érvényesítése. A térségi integrált szakképző központ tagjai egyéb feladatok végrehajtásában is együttműködhetnek.
 
@@ -141,13 +141,7 @@ irányul.
 
 (11) A fenntartó a (2)–(4) bekezdésben foglalt létszámfeltételek teljesülését szakképző iskolájában folyamatosan vizsgálja. Amennyiben a hivatalos októberi statisztikai adatok alapján a fenntartó azt állapítja meg, hogy intézményében a (2)–(4) bekezdésben előírt feltételek szerinti tanulói létszám nyolcvanöt százalékát egymást követő két tanévben a (3) bekezdés szerinti tanulói létszám nem éri el, úgy a fenntartó intézkedési tervet készít, amelyet a területileg illetékes kormányhivatal hagy jóvá, ennek alapján a fenntartó a következő tanév végéig dönt az átszervezésről.
 
-(12) A szakképzési feladatellátásban a települési önkormányzat működtetőként részt vehet azzal, hogy
-
-- a) a szakközépiskolai feladatellátásban az azonos feladatellátási helyen a szakközépiskolai feladatok mellett más, a nemzeti köznevelésről szóló törvény hatálya alá tartozó, nem szakképzési feladatot is ellát, és a fenntartott intézményben a szakközépiskolai tanulólétszám aránya nem haladja meg a huszonöt százalékot,
-- b) a szakközépiskola kizárólag a művészeti szakmacsoportban lát el szakképzési feladatokat, az a) pontban meghatározott létszámarány teljesítése nélkül,
-- c)
-
-(13) A (12) bekezdésben meghatározott fenntartó részt vehet a speciális és a készségfejlesztő speciális szakiskolai feladatellátásban. A (12) bekezdés a) pontja szerinti létszámarányt a működtető vagy a fenntartó változásakor kell vizsgálni azzal, hogy az iskola hivatalos októberi statisztikai adatai alapján három tanítási év átlagában a nappali rendszerű iskolai oktatásban részt vevő iskolai tanulóinak létszámát kell figyelembe venni.
+(12)–(13)
 
 (14)
 
@@ -311,6 +305,8 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
 (5) A szakmai vizsgabizottsági tagságra vonatkozó megbízás – a képzést folytató intézmény által javasolt, a képzésben részt vett oktató vizsgabizottsági tag kivételével – az országos szakképzési névjegyzék részét képező vizsgabizottsági névjegyzéken (a továbbiakban: vizsgabizottsági névjegyzék) szereplő személynek adható.
 
+(5a) A (4) és (5) bekezdés, valamint az 58. § (3) bekezdés szerinti országos szakképzési névjegyzék részét képező szakértői névjegyzék közhiteles hatósági nyilvántartásnak minősül.
+
 (6) A szakmai vizsgabizottság munkáját szakértők segíthetik.
 
 (7) A szakmai vizsgabizottság döntése, intézkedése vagy intézkedésének elmulasztása ellen a vizsgázó jogszabálysértésre hivatkozva – a közléstől, ennek hiányában a tudomásra jutástól számított öt napon belül – törvényességi kérelmet nyújthat be.
@@ -359,7 +355,7 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 
 (2) Az engedélyezési eljárásért a komplex szakmai vizsgát szervező intézmény a vizsgaszervezési engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díjáról és a díj megfizetésének szabályairól szóló rendeletben meghatározott igazgatási szolgáltatási díjat köteles fizetni.
 
-(3) A hivatal a komplex szakmai vizsga szervezésére engedéllyel rendelkező intézményekről az intézmény megnevezését, székhelyét, a vizsgaszervezési engedélyben szereplő szakképesítések azonosító számát, megnevezését és a vizsgaszervezési engedély kiadásának időpontját tartalmazó nyilvántartást vezet, továbbá ellenőrzi az engedéllyel rendelkező intézmények vizsgaszervezéssel összefüggő tevékenységét.
+(3) A hivatal a komplex szakmai vizsga szervezésére engedéllyel rendelkező intézményekről az intézmény megnevezését, székhelyét, a vizsgaszervezési engedélyben szereplő szakképesítések azonosító számát, megnevezését és a vizsgaszervezési engedély kiadásának időpontját tartalmazó közhiteles hatósági nyilvántartást vezet, továbbá ellenőrzi az engedéllyel rendelkező intézmények vizsgaszervezéssel összefüggő tevékenységét.
 
 (4) A (3) bekezdés szerinti nyilvántartás nyilvános, azt a szakképzésért és felnőttképzésért felelős miniszter az általa vezetett minisztérium, valamint a hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő nyolc napon belül frissíteni kell. A hivatal a vizsgaszervezési engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek és az állami szakképzési és felnőttképzési szervnek.
 
@@ -676,7 +672,7 @@ kezeli.
 
 #### 26. A tanulószerződés kötésére jogosult szervezet
 
-43. § (1) Tanulószerződést az a gyakorlati képzést szervező gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb olyan szerv, szervezet (a továbbiakban együtt: gyakorlati képzést szervező szervezet) köthet, amely a gyakorlati képzés folytatására jogosult szervezetek nyilvántartásában (a továbbiakban e fejezet alkalmazásában: nyilvántartás) szerepel.
+43. § (1) Tanulószerződést az a gyakorlati képzést szervező gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb olyan szerv, szervezet (a továbbiakban együtt: gyakorlati képzést szervező szervezet) köthet, amely a gyakorlati képzés folytatására jogosult szervezetek közhiteles hatósági nyilvántartásában (a továbbiakban e fejezet alkalmazásában: nyilvántartás) szerepel.
 
 (2) A tanulószerződés kötésére jogosult egyéb szerv, szervezet
 
@@ -1103,6 +1099,8 @@ kezeli.
 
 (4) Az állami szakképzési és felnőttképzési szerv az általa őrzött törzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott törzslapok központi nyilvántartási adatait törli.
 
+(4a) Az (1) bekezdés c) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (5) A nyilvántartás alapján az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre az állami szakképzési és felnőttképzési szerv.
 
 (5a) Az iskolarendszeren kívüli szakképzésben szerzett szakképesítésről az (5) bekezdés alapján készült bizonyítványmásodlat kiállítására alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló rendelet bizonyítványmásodlatra vonatkozó rendelkezéseit.
@@ -1446,7 +1444,7 @@ kezeli.
 
 (31)–(32)
 
-(33) A Kormány a 88. § (6) bekezdésében meghatározott rendeletet 2013. május 31-ig adja ki.
+(33)
 
 (34) Az e törvény hatálybalépése előtt a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXVI. törvény alapján megalakult regionális fejlesztési és képzési bizottságok 2012. szeptember 30-ig látják el feladataikat. Az e törvényben meghatározott megyei fejlesztési és képzési bizottságokat 2012. szeptember 30-ig kell megalakítani, amely bizottságok az e törvény szerinti feladataikat 2012. október 1-jétől látják el.
 

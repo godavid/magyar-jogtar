@@ -145,7 +145,8 @@ véleményét.
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
 - b) a Kormány tagja,
 - c) a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője,
-- d) a helyi önkormányzat képviselő-testülete.
+- d) a helyi önkormányzat képviselő-testülete,
+- e) a Honvéd Vezérkar főnöke.
 
 (2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az állami kitüntetésekhez, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
 
@@ -157,7 +158,7 @@ véleményét.
 - d) az elismerés adományozásának feltételeit és rendjét, valamint
 - e) az elismerés leírását
 
-a 22. § (1) bekezdés b)–d) pontja szerinti jogosult rendeletben meghatározta, illetve a 22. § (1) bekezdés a) pontja szerinti jogosult a Hivatalos Értesítőben közzétette.
+a 22. § (1) bekezdés b)–d) pontja szerinti jogosult – a 22. § (1) bekezdés e) pontja szerinti jogosult esetében a honvédelemért felelős miniszter – rendeletben meghatározta, illetve a 22. § (1) bekezdés a) pontja szerinti jogosult a Hivatalos Értesítőben közzétette.
 
 (2) A 21–22. § szerinti elismerést az adományozásra jogosult egyedi határozattal adományozza. Az adományozásról szóló közleményt – a 22. § (1) bekezdés d) pontja szerinti jogosult által kiadott határozat kivételével – a Hivatalos Értesítőben közzé kell tenni.
 

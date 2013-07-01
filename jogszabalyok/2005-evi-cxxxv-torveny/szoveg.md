@@ -23,7 +23,7 @@ Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminősé
 
 - a) bűncselekmény esetén
   - aa) a feljelentés elutasítására, a nyomozás megszüntetésére, az eljárás megszüntetésére, illetve a vádlott felmentésére gyermekkor, kóros elmeállapot, kényszer vagy fenyegetés, tévedés, jogos védelem, végszükség vagy elöljáró parancsa,
-  - ab) a feljelentés elutasítására, illetve az eljárás megszüntetésére a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 32. §-ában meghatározott büntethetőséget megszüntető ok
+  - ab) a feljelentés elutasítására, illetve az eljárás megszüntetésére a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 25. §-ában – illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 32. §-ában – meghatározott büntethetőséget megszüntető ok,
 - b) tulajdon elleni szabálysértés esetén a feljelentés elutasítására, illetve a szabálysértési eljárás megszüntetésére a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 83. § (1) bekezdés bb) és bc) alpontjában, c)–e) és h)–i) pontjában meghatározott ok
 
 miatt került sor.
@@ -123,9 +123,7 @@ miatt került sor.
 - e) a kárenyhítésre okot adó bűncselekmény miatt indult büntetőeljárásban a tanúvallomást jogosulatlanul megtagadta, vagy a szakértői vizsgálatban a közreműködési kötelezettségét nem teljesítette, illetőleg az idézéssel szembeni mulasztása miatt vele szemben jogerősen rendbírságot szabtak ki,
 - f) a kárenyhítési eljárásban az orvosi, szakértői vizsgálatban történő közreműködési kötelezettségét nem teljesíti, a kért kiegészítő adatokat nem szolgáltatja, a meghallgatásról indokolatlanul távol marad,
 - g) a büntetőeljárás lefolytatásához szükséges magánindítványt nem tette meg,
-- h) a kárenyhítésre okot adó bűncselekmény miatt indult büntetőeljárásban, illetve a bűncselekménnyel összefüggésben 1. hamis vád (Btk. 233–236. §), 2. hatóság félrevezetése (Btk. 237. §), 3. hamis tanúzás (Btk. 238–241. §), 4. hamis tanúzásra felhívás (Btk. 242. §), 5. hatósági eljárás akadályozása (Btk. 242/A. §), 6. mentőkörülmény elhallgatása (Btk. 243. §), 7. bűnpártolás (Btk. 244. §), 8. zártörés (Btk. 249. §), 9. az elkövető, illetőleg az elkövető hozzátartozója sérelmére személy elleni erőszakos vagy közveszélyt okozó
-
-bűncselekményt követett el, és azt a bíróság jogerős határozatában megállapította.
+- h) a kárenyhítésre okot adó bűncselekmény miatt indult büntetőeljárásban, illetve a bűncselekménnyel összefüggésben 1. hamis vád (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 233–236. §, illetve Btk. 268–270. §), 2. hatóság félrevezetése (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 237. §, illetve Btk. 271. §), 3. hamis tanúzás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 238–241. §, illetve Btk. 272–275. §), 4. hamis tanúzásra felhívás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 242. §, illetve Btk. 276. §), 5. a 2013. június 30-ig hatályban volt hatósági eljárás akadályozása (1978. évi IV. törvény 242/A. §), illetve kényszerítés hatósági eljárásban (Btk. 278. §), 6. mentő körülmény elhallgatása (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 243. §, illetve Btk. 281. §), 7. bűnpártolás (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 244. §, illetve Btk. 282. §), 8. zártörés (a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 249. §, illetve Btk. 287. §), 9. az elkövető, illetve az elkövető hozzátartozója sérelmére személy elleni erőszakos vagy közveszélyt okozó bűncselekményt követett el, és azt a bíróság jogerős határozatában megállapította.
 
 ### IV. Fejezet — ÁLTALÁNOS ELJÁRÁSI SZABÁLYOK
 
@@ -186,6 +184,19 @@ bűncselekményt követett el, és azt a bíróság jogerős határozatában meg
 - c) az áldozat kérelmére került kiállításra és azt az áldozat a támogatás iránti kérelmének mellékleteként a kiállítást követő 15 napon túl nyújtja be az áldozatsegítő szolgálathoz.
 
 (5) A büntetőeljárás befejezéséről határozatot hozó nyomozó hatóság, ügyész vagy bíróság – ha az ügyben korábban igazolást állítottak ki – 3 napon belül tájékoztatja az áldozatsegítő szolgálatot az eljárás eredményéről.
+
+(5a) Az (5) bekezdés szerinti tájékoztatás tartalmazza
+
+- a) a büntetőeljárás befejezéséről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság megnevezését és határozatának számát, keltét, jogerőre emelkedésének napját,
+- b) a támogatás igénybevételéhez kiállított igazolás számát és az abban szereplő áldozat 10. § (3) bekezdés a) pontja szerinti adatait,
+- c) a büntetőeljárásra vonatkozó adatok közül
+  - ca) a büntetőeljárás befejezésének az eredményét (büntetőeljárás megszüntetése, felmentés vagy büntetőjogi felelősség megállapítása),
+  - cb) a büntetőeljárás megszüntetése esetén a megszüntetés a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 190. § (1) bekezdésében, 192. § (1)–(2) bekezdésében, 192/A. § (1) bekezdésében vagy 267. § (1) bekezdésében meghatározott indokát a törvényhely pontos megjelölésével,
+  - cc) ítélet és tárgyalás mellőzésével hozott végzés esetén a bűncselekménynek a Be. 258. § (2) bekezdés d) pontja szerinti megjelölését, felmentő ítélet esetén továbbá azt, ha a vádlott kényszergyógykezelését a bíróság elrendelte,
+  - cd) az áldozat eljárásjogi helyzetének megjelölését, vagy azt, hogy nem vett részt a büntetőeljárásban,
+  - ce) ha az áldozat magánfélként polgári jogi igényt terjesztett elő, az arról szóló döntést,
+  - cf) ha az ügyben folytattak le közvetítői eljárást, akkor ennek eredményét, megállapodás esetén, ha kár megtérítésére került sor, annak összegét,
+- d) ha a 8. § c)–e) pontjaiban foglalt feltételek valamelyike bekövetkezett, az erre vonatkozó adatokat, a 8. § h) pontja esetén azt, ha hamis vád, hamis tanúzás miatt az eljáró hatóság feljelentéssel élt vagy az ügyben büntetőeljárás indult.
 
 (6) A szabálysértési hatóság, illetve a bíróság az eljárást lezáró határozatát – ha az ügyben igazolást állítottak ki – közli az áldozatsegítő szolgálattal.
 
@@ -478,6 +489,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (2) E törvényt kell alkalmazni a hatálybalépését megelőzően elkövetett bűncselekménnyel összefüggésben, ha a kárenyhítés iránti kérelem benyújtását a Korm. rendelet – mint korábbi jogszabály – lehetővé tette.
 
 (3) E törvénynek a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 122. § (3) bekezdésével megállapított 15/A. §-át a hatálybalépését megelőzően jogerősen megállapított, de még meg nem fizetett tartozásokra is alkalmazni kell.
+
+(4) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 59. §-ával megállapított 11. § (5a) bekezdését e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 ### Felhatalmazás
 

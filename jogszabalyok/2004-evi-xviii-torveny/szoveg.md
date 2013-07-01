@@ -247,7 +247,7 @@ terület lehet.
 
 ### Forgalomba hozatal
 
-24. § (1) Árutermelési céllal borászati terméket előállítani, tárolni, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, melyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A hegybíró a borászati üzemet nyilvántartásba veszi.
+24. § (1) Árutermelési céllal borászati terméket előállítani, tárolni, kezelni, kiszerelni csak a borászati hatóság által engedélyezett borászati üzemben lehet. A borászati hatóság az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek teljesülése esetén ad engedélyt, amelyet a borászati üzem helye szerint illetékes hegybíróval is közöl. A borászati hatóság a borászati üzemet nyilvántartásba veszi. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza az engedélyes regisztrációs számát, a borászati üzem üzemeltetőjének nevét, a borászati üzem címét, a borászati üzemben végezhető tevékenységek felsorolását, palackozásra vonatkozó tevékenység engedélyezése esetén a palackozó üzem kódját, nyilvántartásba vételének dátumát.
 
 (2) A vámhatóság az egyszerűsített adóraktári engedély visszavonásáról – az érintett engedélyes nevére (cégnevére), lakhelyére (székhelyére), az engedély visszavonásának tényére és időpontjára vonatkozó adatok megadásával – értesíti a borászati hatóságot és az illetékes hegyközséget.
 
@@ -433,11 +433,14 @@ terület lehet.
 - i)
 - j) a bor származási bizonyítványok valóságtartalmát,
 - k) a borszőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonását,
-- l) a termékleírásnak való megfelelést.
+- l) a termékleírásnak való megfelelést,
+- m) a helyi borbíráló bizottságok működését.
 
 (2) A helyszíni ellenőrzés során készült jegyzőkönyvben fel kell tüntetni az ellenőrzés keretében elrendelt ideiglenes intézkedést is. A borászati hatóság a hegybíró hatáskörébe is tartozó esetekben a jegyzőkönyv egy példányát a borászati üzem helye szerint illetékes hegyközségnek is megküldi.
 
 (3) A borászati hatóság ellátja a lepárlási, valamint a mustsűrítménnyel való mustjavítási intézkedésekhez kapcsolódó szakmai ellenőrzési feladatokat.
+
+(4) A borászati hatóság a helyi borbíráló bizottságokról nyilvántartást vezet. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza a helyi borbíráló bizottság nevét, a helyi borbíráló bizottságot működtető szervezet nevét, a helyi borbíráló bizottság székhelyét, a helyi borbíráló bizottság működésének helyét, a helyi borbíráló bizottság nyilvántartásba vételének dátumát.
 
 45. §
 

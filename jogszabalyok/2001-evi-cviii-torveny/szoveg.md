@@ -157,6 +157,18 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 12. § A 10–11. §-ok rendelkezései alapján a szolgáltató nem mentesül a felelősség alól, ha az igénybevevő a szolgáltató megbízásából vagy utasításai alapján cselekszik.
 
+### Eljárás elektronikus úton közzétett jogellenes adat ideiglenes vagy végleges hozzáférhetetlenné tétele érdekében
+
+12/A. § (1) Ha büntetőeljárás során a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét rendelte el, a 2. § lc) alpontjában meghatározott szolgáltató az elrendelésről szóló határozat kézhezvételétől számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat visszaállítható módon történő eltávolításáról.
+
+(2) Ha büntetőeljárás során a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét rendelte el, a 2. § lc) alpontjában meghatározott szolgáltató az elrendelésről szóló határozatnak a bírósági végrehajtó általi átadásától számított egy munkanapon belül intézkedik az elektronikus úton közzétett jogellenes adat végleges módon történő eltávolításáról.
+
+(3) Az ideiglenes vagy végleges hozzáférhetetlenné tétel teljesítésére kötelezett köteles a bíróság megnevezésével és a határozat számának a megjelölésével tájékoztatni a felhasználókat a tartalom eltávolításának vagy a tartalomhoz hozzáférés megakadályozásának a jogalapjáról.
+
+(4) Ha a bíróság az ideiglenes hozzáférhetetlenné tételt megszünteti, vagy a büntetőeljárás befejezésekor az elektronikus adat visszaállítására kötelezi a szolgáltatót, a szolgáltató az erről szóló határozat kézhezvételétől számított egy munkanapon belül az adatot ismételten hozzáférhetővé teszi.
+
+(5) A 2. § lc) alpontjában meghatározott szolgáltatóval szemben a bíróság az (1), (2) és (4) bekezdésben meghatározott kötelezettség elmulasztása miatt a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot, illetve a büntetések és az intézkedések végrehajtásáról szóló törvényben meghatározott mértékű pénzbírságot szabhat ki.
+
 ### Értesítés a jogsértő információs társadalommal összefüggő szolgáltatásról
 
 13. § (1) Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát, továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – sérti (a továbbiakban: jogosult), teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével felhívhatja a 9–11. §-okban meghatározott szolgáltatót a jogát sértő tartalmú információ eltávolítására.

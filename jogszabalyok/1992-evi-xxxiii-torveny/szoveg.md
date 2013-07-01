@@ -42,7 +42,7 @@ a közalkalmazottak jogállásáról
 
 ### Az országos, ágazati és területi érdekegyeztetés
 
-4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény és a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
+4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
 
 (2) Az OKÉT-ban a Kormány – az alapszabályban meghatározott – országos szakszervezeti szövetségek és országos önkormányzati érdekképviseleti szervezetek képviselőivel egyeztet.
 
@@ -864,7 +864,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 44/A. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaszerződés teljesítésére vonatkozó rendelkezései (VIII. fejezet) közül az 57. § nem alkalmazható.
 
-(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény hatálya alá tartozó munkáltatónál végez munkát.
+(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
 
 45–51. §
 
@@ -1478,6 +1478,10 @@ eltöltött időt.
 - a) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt;
 - b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt;
 - c) a munkavállalók jogainak a vállalkozások, üzletek, vagy ezek részeinek átruházása esetén történő védelmére vonatkozó tagállami jogszabályok közelítéséről szóló, a Tanács 2001/23/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt.
+
+95. § (1) E törvény a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E törvény az egy harmadik ország állampolgára, illetve hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, ...-i, .../2013/EU európai parlamenti és tanácsi rendelet 6., 33. cikkei végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. számú melléklet 1992. évi XXXIII. törvényhez
 

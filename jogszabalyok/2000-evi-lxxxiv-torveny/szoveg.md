@@ -77,6 +77,8 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 - a) a növényvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a növényvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
+2/C. § A kamara az Alapszabályban vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ### III. Fejezet — A KAMARA SZERVEZETE
 
 ### A területi szervezet

@@ -701,6 +701,8 @@ a szabadalmi ügyvivőkről
 
 (11) A (6)–(9) bekezdésekben meghatározott ügyek elektronikus úton nem intézhetők.
 
+30/A. § A Kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ### A Kamara szervezete
 
 31. § (1) A Kamara szervei:

@@ -254,7 +254,7 @@ alkalmazható.
 
 - a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására;
 - b) a testi épséget vagy a személyi szabadságot súlyosan veszélyeztető közvetlen támadás elhárítására;
-- c) a közveszélyokozás, a terrorcselekmény vagy a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűncselekményének megakadályozására vagy megszakítására;
+- c) a terrorcselekmény, a jármű hatalomba kerítése vagy a közveszély okozása bűncselekmény megakadályozására vagy megszakítására;
 - d) bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének a megakadályozására;
 - e) lőfegyver, illetőleg robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására;
 - f) a bv. szerv ellen elkövetett fegyveres támadás elhárítására;
@@ -339,6 +339,8 @@ alkalmazható.
 - d) a végrehajtás során a büntetés-végrehajtás e törvényben meghatározott feladatai ellátásához és a fogvatartott jogainak a gyakorlásához szükséges adatokra, iratokra;
 - e) a büntetőeljárásban, illetve a fogvatartottal kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, államigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a bv. szervezet részére meg kell küldeni.
 
+(3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 28/A. § A büntetés-végrehajtási szervezet, illetőleg a végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel az elítélt kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 - a) családi és utónevére,
@@ -346,7 +348,14 @@ alkalmazható.
 - c) telefonszámára és
 - d) kapcsolattartói minőségére.
 
-29. § (1) Az adatkezelő szerv az általa kezelt adatokat továbbítja, valamint az iratokról teljes körű tájékoztatást ad
+28/B. § (1) A bíróság értesítése alapján a fogvatartó bv. szerv nyilvántartja a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény XIX. Fejezet] sértettjének az elítélt szabadulásáról történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+
+(2) Az (1) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
+
+- a) a sértett családi és utónevét, és
+- b) a sértett által megadott lakcímet.
+
+29. § (1) Az adatkezelő szerv – a 28/B. § (2) bekezdésében meghatározott adatok kivételével – az általa kezelt adatokat továbbítja, valamint az iratokról teljes körű tájékoztatást ad
 
 - a) a miniszter,
 - b) a bíróság,
@@ -357,19 +366,19 @@ alkalmazható.
 
 részére.
 
-(2) Az (1) bekezdésben nem említett állami szervek, nemzetközi és egyéb szervezetek, továbbá az állampolgárok részére — törvényben meghatározott esetben hivatalból, egyébként kérelemre — a feladataik ellátásához, illetve a jogaik érvényesítéséhez szükséges adatokat az adatkezelő szerv továbbítja, valamint az iratokról tájékoztatást ad.
+(2) Az (1) bekezdésben nem említett állami szervek, nemzetközi és egyéb szervezetek, továbbá az állampolgárok részére — törvényben meghatározott esetben hivatalból, egyébként kérelemre — a feladataik ellátásához, illetve a jogaik érvényesítéséhez szükséges adatokat – a 28/B. § (2) bekezdésében meghatározott adatok kivételével – az adatkezelő szerv továbbítja, valamint az iratokról tájékoztatást ad.
 
 (3) Az adatszolgáltatásra irányuló kérelemnek az adatkérés indokát, jogszabályi alapját, illetve az adatszolgáltatáshoz fűződő érdek igazolását kell tartalmaznia.
 
 (4) A fogvatartott adatai — személyazonosításra alkalmatlan módon — statisztikai és tudományos célra felhasználhatók.
 
-29/A. § (1) A büntetés-végrehajtási szervezet által kezelt személyes adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
+29/A. § (1) A 28/B. § (2) bekezdésében meghatározott adatok kivételével a büntetés-végrehajtási szervezet által kezelt személyes adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
 
 (2) Amennyiben lehetséges, az adattovábbítás esetén csatolni kell azon információkat, amelyek lehetővé teszik az átvevő számára, hogy megítélje az adatok pontosságát, teljességét, naprakészségét és megbízhatóságát.
 
 (3) Az adattovábbítás során utalni kell a személyes adat kezelése során érvényesítendő korlátozásokra, valamint az adatkezelés adatkezelő szerv által meghatározott lehetséges időtartamára.
 
-(4) Harmadik ország hatósága, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható személyes adat, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+(4) Harmadik ország hatósága, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható személyes adat, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása. A 28/B. § (2) bekezdésében meghatározott adat nem továbbítható harmadik ország hatósága, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére.
 
 (5) Az Európai Unió tagállamának illetékes hatósága, az Európai Unió által létrehozott nemzetközi bűnüldöző szervezet, illetve harmadik ország illetékes hatóságai, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli más nemzetközi szervezet által továbbított vagy hozzáférhetővé tett személyes adat harmadik ország, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére a (4) bekezdésben meghatározott feltételek megléte esetén akkor továbbítható, ha az adatot átadó hatóság, szervezet – nemzeti jogának, illetve nemzetközi szerződésben foglaltaknak megfelelően – hozzájárult az adat átadásához.
 
@@ -386,6 +395,8 @@ részére.
 32. § (1) A fogvatartottról felvett adatokat az adatkezelő szerv a büntetés, intézkedés végrehajtásától vagy a végrehajthatóság megszűnésétől számított huszonöt évig köteles megőrizni.
 
 (2) A fogvatartott szabadulásakor a kapcsolattartó adatait a kapcsolattartók nyilvántartásából törölni kell.
+
+(3) A 28/B. § (2) bekezdésében meghatározott adatokat a fogvatartott szabadulásakor a nyilvántartásból törölni kell.
 
 33. §
 

@@ -449,7 +449,10 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 (4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
-(5) Az (1) és a (4) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni: Btk. XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények.
+(5) Az (1) és (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
+
+- a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel 1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a 1978. évi IV. törvény XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények,
+- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
 
 23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján bizonyítja, hogy a 22. § (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
@@ -2231,7 +2234,8 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 - f) Gazdasági Versenyhivatallal,
 - g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel,
 - h) nemzetbiztonsági szolgálattal,
-- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel
+- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel,
+- j) pénzügyi információs egységként működő hatósággal
 
 szemben.
 
@@ -2280,7 +2284,8 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 - b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban meghatározott módon kér, illetőleg továbbít adatot, ha az együttműködési megállapodás vagy a külföldi felügyeleti hatóság megkeresése tartalmazza az általa aláírt titoktartási záradékot,
 - c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési vállalkozástól, illetőleg az árutőzsdei szolgáltatótól, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 - d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
-- e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot.
+- e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot,
+- f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól.
 
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
@@ -3164,7 +3169,7 @@ vonatkozó részletes szabályokat.
 - 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 - 3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
-- 4. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
+- 4. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 - 5. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 - 6. Cstv.: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény,
 - 7. Fkt.: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény,

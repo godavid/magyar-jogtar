@@ -2686,7 +2686,7 @@ kérdésében.
 
 (6) Az első fokú bíróságnak fellebbezéssel meg nem támadott ítélete csak a fellebbezési határidő utolsó napjától számított tizenötödik nap elteltével emelkedik jogerőre.
 
-(7) Az első fokú bíróság a keresetnek helytadó ítéletet – jogerőre emelkedése után – közli az illetékes anyakönyvvezetővel.
+(7) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.
 
 (8) A házasságot felbontó vagy az érvénytelenséget megállapító rendelkezés részjogerejét az első fokon eljárt tanács elnöke az iratoknak a másodfokú bírósághoz történő felterjesztése előtt köteles megállapítani.
 
@@ -3977,6 +3977,6 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 130. § (1) bekezdés g) pontjának, 167. § (7) bekezdésének, 168. § (1b) bekezdésének, 173. § (1a) bekezdésének, 185. § (1b) bekezdésének, 257. § (2) bekezdésének és 271. § (2) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével.
+398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
 
 399. § E törvény 323. §-a az európai fizetési meghagyásos eljárás létrehozásáról szóló 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.

@@ -524,7 +524,9 @@ változás következik be.
 
 44. § Gépjárművet forgalomba helyezni, a forgalmi engedélybe üzemben tartóval kapcsolatos bejegyzést tenni, ideiglenes forgalomban tartási engedélyt kiadni, azt meghosszabbítani, a gépjármű hatósági jelzését (rendszámtábláját) cserélni, a gépjármű időszakos vizsgálatát elvégezni abban az esetben lehet, ha az e törvény szerinti biztosítási kötelezettségnek eleget tettek.
 
-45. § (1) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság eljárása során történő tanúsítására a külön rendeletben meghatározott igazolóeszköz szolgál.
+45. § (1) A forgalmi engedélybe történő üzembentartói adat bejegyzése és a gépjármű időszakos vizsgálata során, továbbá a közúti forgalomban részt vevő jármű ellenőrzésekor a biztosítási fedezet fennállását az ellenőrzésre jogosult hatóság elektronikus úton, közvetlen lekérdezéssel, a kötvénynyilvántartó szervvel számítógépes kommunikációs kapcsolat segítségével ellenőrzi. E hatósági eljárások során az ügyfél, illetve az ellenőrzés alá vont jogosult a felelősségbiztosítási szerződés fennállását az (1a) bekezdésben meghatározott igazolóeszközzel is bizonyítani.
+
+(1a) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság – a 44. §-ban meghatározott, azonban az (1) bekezdésben nem említett – eljárása során történő tanúsítására a gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokról szóló miniszteri rendeletben meghatározott igazolóeszköz szolgál.
 
 (2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
 
@@ -559,11 +561,13 @@ változás következik be.
 - i) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - j) a 46. § (2) bekezdésében foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - k) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
-- l) a 46. § (2) bekezdésében foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+- l) a 46. § (2) bekezdésében foglalt adatok tekintetében közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából
+  - la) a közlekedési hatóság és a közlekedési igazgatási hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan, és
+  - lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző hatóság a közúti forgalomban résztvevő jármű tekintetében, az adatigénylés időpontja szerinti adatokra vonatkozóan.
 - m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 - n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy és jogi személyiséggel nem rendelkező szervezet a felhasználás céljának és jogalapjának igazolása mellett.
 
-(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 
 (3) Az (1) bekezdés n) pontjában szereplő adatigénylő az adatszolgáltatásért a mindenkori általános tételű eljárási illetéknek megfelelő összegű díjat köteles fizetni a kötvénynyilvántartó szerv részére.
 

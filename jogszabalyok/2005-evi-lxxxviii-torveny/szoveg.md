@@ -15,14 +15,15 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 - a) az önkéntes véradásra,
 - b) az önkéntes, illetve létesítményi tűzoltóként végzett tevékenységre,
-- c) a polgári természetőrként végzett tevékenységre.
+- c) a polgári természetőrként végzett tevékenységre,
+- d) a nemzeti köznevelésről szóló törvény szerinti közösségi szolgálatra.
 
 (3) E törvény nem érinti a 3. § (1) bekezdésén kívüli személynél, szervezetnél, illetve tevékenységi körben más vagy mások javára, ellenszolgáltatás nélkül végzett önkéntes tevékenységet.
 
-2. § (1) Közérdekű önkéntes tevékenység a fogadó szervezetnél a 3. §-ban meghatározott tevékenységi körben ellenszolgáltatás nélkül végzett munka, kivéve, ha
+2. § (1) Közérdekű önkéntes tevékenység a fogadó szervezetnél a 3. §-ban meghatározott tevékenységi körben ellenszolgáltatás nélkül végzett tevékenység, kivéve, ha
 
 - a) a személy a tevékenységet maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója javára végzi,
-- b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul,
+- b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul, vagy
 - c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban, egyesület, illetve egyház tagjaként, alapítvány, közalapítvány kezelő szervének tagjaként vagy egyházi személyként.
 
 (2) Ellenszolgáltatásnak minősül minden olyan vagyoni előny, amelyhez az önkéntes vagy közeli hozzátartozója a közérdekű önkéntes tevékenységhez kapcsolódóan jut.
@@ -53,7 +54,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
   - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézmény,
   - fb) egészségügyi szolgáltató,
-  - fc) közoktatási intézmény,
+  - fc) köznevelési intézmény,
   - fd) felsőoktatási intézmény,
   - fe) muzeális intézmény,
   - ff) nyilvános könyvtár,
@@ -79,12 +80,12 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (4) Aki a fogadó szervezetnél jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapuló tevékenységet végez, az e körbe tartozó feladatokat a fogadó szervezetnél önkéntes jogviszonyban nem végezheti.
 
-(5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a közoktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a közoktatási intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
+(5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a nevelési-oktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a köznevelési intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
 
 (6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
 - a) a fogadó szervezet az önkéntes által okozott kár megtérítésére felelősségbiztosítási szerződést kötött,
-- b) az önkéntes szállása, ellátása és visszautazása biztosított,
+- b) az önkéntes szállása, ellátása és visszautazása biztosított, valamint
 - c) az önkéntes egészségügyi szolgáltatásra jogosult, vagy rendelkezik az egészségügyi szolgáltatások költségét fedező biztosítással.
 
 5. § (1) A tizennyolcadik életévét be nem töltött személy, illetve a korlátozottan cselekvőképes nagykorú személy olyan közérdekű önkéntes tevékenységet folytathat, amely megfelel életkorának, testi, értelmi és erkölcsi fejlettségének, illetve képességeinek, valamint amely nem veszélyezteti egészségét, fejlődését és tankötelezettségének teljesítését.
@@ -108,7 +109,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 - a) a közérdekű önkéntes tevékenység tartalmát,
 - b) a közérdekű önkéntes tevékenység ellátásának helyét,
-- c) a közérdekű önkéntes tevékenységre fordítandó időt és a pihenőidőt,
+- c) a közérdekű önkéntes tevékenységre fordítandó időt és a pihenőidőt, valamint
 - d) azokat a 2. § (3) bekezdésének a)–h) pontja szerinti juttatásokat, amelyeket az önkéntesnek biztosítanak, és rendelkezni kell azokról az önkéntes szerződés megszűnésének esetére.
 
 (2) A fogadó intézménynél, illetve annak fenntartójánál végzett közérdekű önkéntes tevékenység esetén jogszabály meghatározhatja az önkéntes szerződés további kötelező tartalmi elemeit is.
@@ -125,7 +126,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - d) a közérdekű önkéntes tevékenységet külföldön végzik,
 - e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt,
 - f) bármelyik fél azonnali hatályú felmondáshoz való jogát korlátozzák,
-- g) az önkéntes kéri,
+- g) az önkéntes kéri, vagy
 - h) ezt jogszabály elrendeli.
 
 7. § (1) Az önkéntes szerződés megszűnik
@@ -148,7 +149,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 - a) az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit,
 - b) a szükséges pihenőidőt,
-- c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését,
+- c) a közérdekű önkéntes tevékenység ellátásához szükséges tájékoztatást és irányítást, az ismeretek megszerzését, valamint
 - d) tizennyolcadik életévét be nem töltött önkéntes, illetve a korlátozottan cselekvőképes nagykorú önkéntes esetén a közérdekű önkéntes tevékenység folyamatos, szakszerű felügyeletét.
 
 (2) Ha az önkéntes szerződés másként nem rendelkezik, a fogadó szervezet gondoskodik
@@ -158,14 +159,14 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 9. § (1) Az önkéntes köteles
 
-- a) a közérdekű önkéntes tevékenységet a vonatkozó jogszabályok, szakmai és etikai előírások, valamint a fogadó szervezet utasításai szerint személyesen végezni,
+- a) a közérdekű önkéntes tevékenységet a vonatkozó jogszabályok, szakmai és etikai előírások, valamint a fogadó szervezet utasításai szerint személyesen végezni, és
 - b) a közérdekű önkéntes tevékenység során tudomására jutott személyes adatot, üzleti és egyéb titkot megőrizni.
 
 (2) Az önkéntes köteles megtagadni az utasítás teljesítését, ha annak végrehajtása más személy életét, testi épségét vagy egészségét közvetlenül veszélyeztetné.
 
 (3) Az önkéntes nem köteles a fogadó szervezet utasításait teljesíteni, ha annak végrehajtása
 
-- a) az önkéntes életét, testi épségét vagy egészségét közvetlenül veszélyeztetné,
+- a) az önkéntes életét, testi épségét vagy egészségét közvetlenül veszélyeztetné, vagy
 - b) jogszabályba vagy az önkéntes szerződésbe ütközik.
 
 (4) Ha az utasítás végrehajtása kárt idézhet elő, az önkéntes köteles erre az utasítást adó figyelmét felhívni. Az önkéntes nem felel az általa okozott kárért, amennyiben figyelemfelhívási kötelezettségének eleget tett.
@@ -174,50 +175,50 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (2) Amennyiben az önkéntes bizonyítja, hogy
 
-- a) a testi sérüléséből, illetve egészségkárosodásából eredő kára,
+- a) a testi sérüléséből, illetve egészségkárosodásából eredő kára, vagy
 - b) a tulajdonában vagy használatában álló, a közérdekű önkéntes tevékenység ellátásához szükséges dologban a közérdekű önkéntes tevékenység végzésének helyén keletkező kára
 
 az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervezet akkor mentesül a felelősség alól, ha bizonyítja, hogy a kárt működési körén kívül eső elháríthatatlan ok vagy kizárólag az önkéntes elháríthatatlan magatartása okozta. A fogadó szervezetnek nem kell megtérítenie a kárnak azt a részét, amely az önkéntes felróható magatartásából származott.
 
 (3) Az önkéntes közeli hozzátartozója az önkéntes halálából eredő kárát a (2) bekezdésben foglaltak szerint érvényesítheti.
 
-11. § (1) A fogadó szervezet a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszternek (a továbbiakban: miniszter) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
+11. § (1) A fogadó szervezet a társadalmi esélyegyenlőség előmozdításáért felelős miniszternek (a továbbiakban: miniszter) köteles – a (2) bekezdésben foglaltak kivételével előzetesen – bejelenteni az önkéntesek foglalkoztatását, és a bejelentett adatokban bekövetkező változásokat. A bejelentést a miniszter által e célra rendszeresített és a miniszter által vezetett minisztérium honlapján, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 14. § (1) bekezdése szerinti honlapon (a továbbiakban: Civil Információs Portál), valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell teljesíteni. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
 
-- a) az önkéntesek foglalkoztatását,
-- b) a Bejelentési lapon feltüntetett adatokban bekövetkező változásokat.
+(2) Ha az önkéntes szükséghelyzetben történő alkalmi foglalkoztatásának előzetes bejelentésére nincs lehetőség, a bejelentési kötelezettségnek a közérdekű önkéntes tevékenység megkezdésétől számított tizenöt napon belül kell eleget tenni. Az 1. melléklet 1–3. pontja szerinti adatokban bekövetkező változást az azt követő tizenöt napon belül kell bejelenteni.
 
-(2) Ha az önkéntes szükséghelyzetben történő alkalmi foglalkoztatásának előzetes bejelentésére nincs lehetőség, a bejelentési kötelezettségnek a közérdekű önkéntes tevékenység megkezdésétől számított tizenöt napon belül kell eleget tenni. A melléklet 1. pontja szerinti adatokban bekövetkező változást az azt követő tizenöt napon belül kell bejelenteni.
-
-(3) A bejelentéshez mellékelni kell
+(3) A bejelentéshez csatolni kell
 
 - a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
-- b) civil szervezet, közhasznú szervezet esetében
-  - ba) a hatályos létesítő okirat másolatát és
-  - bb) a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól (hatályos kivonat, cégkivonat);
-- c) egyházi jogi személy esetén a nyilvántartásba vételére illetékes szerv harminc napnál nem régebbi igazolását az egyházi jogi személy adatairól.
+- b) civil szervezet és közhasznú szervezet esetén
+  - ba) a hatályos létesítő okirat másolatát, és
+  - bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
+- c) az egyházak nyilvántartásába fel nem vett belső egyházi jogi személy esetén az egyház egésze, illetve legfőbb szerve vagy az egyházak nyilvántartásába felvett felettes egyházi szerve – az egyházak nyilvántartásában feltüntetett – képviselőjének nyilatkozatát a fogadó szervezet nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fogadó szervezet belső egyházi jogi személy;
+- d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
+- e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
 
-(4) Fogadó intézmény, illetve annak fenntartója esetén a bejelentéshez mellékelni kell annak igazolását, hogy a fogadó intézmény jogszerűen működik, továbbá, ha a fogadó intézmény, illetve annak fenntartója
+(4) Ha a bejelentéshez
 
-- a) egyesület, alapítvány, közalapítvány, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
-- b) egyéni vállalkozó, az egyéni vállalkozókról vezetett nyilvántartásba történő bejegyzés igazolását,
-- c) cégjegyzékben nyilvántartott cég, a nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát.
+- a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
+- b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(4a) A cégjegyzékben nyilvántartott fogadó intézmény, illetve a fenntartója cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(4a) A bejelentést benyújtó egyház vagy belső egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig az egyház és a nyilatkozatot kiállító felettes egyházi szerv adatait a miniszter az egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(4b) Ha a szervezet adatairól szóló, a nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolásának (hatályos kivonat) benyújtására kötelezett civil szervezet a (3) bekezdés b) pont bb) alpontja vagy a (4) bekezdés a) pontja szerinti mellékletet a bejelentéshez nem csatolja, a hatályos kivonatot a miniszter saját hatáskörben szerzi be a bíróságtól.
+(4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-(5) Ha a fogadó szervezet egyházi jogi személy – annak alapszabályában jogi személynek nyilvánított, nyilvántartásba nem vett – szervezeti egysége, a kérelemhez mellékelni kell az egyházi jogi személy képviselőjének erre vonatkozó nyilatkozatát.
+(5)
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
 
 12. § (1) A 11. §-ban foglaltak szerint bejelentett adatokról a miniszter a fogadó szervezetek nyilvánossága és az önkéntesek védelme érdekében nyilvántartást vezet.
+
+(1a) A fogadó szervezetek nyilvántartása hatósági nyilvántartás, amely közhitelesen tanúsítja a bejelentkezési kötelezettség teljesítését, a bejelentés tartalmát az 1. melléklet 1., 4. és 5. pontja szerinti adatok tekintetében, valamint a 13. § (3) bekezdése szerinti adatokat.
 
 (2) A nyilvántartásba vételről a miniszter kizárólag az iratok alapján dönt. A miniszter megtagadja a bejelentő, illetve a bejelentésben meghatározott tevékenységi kör nyilvántartásba vételét, illetőleg törli a nyilvántartásból a fogadó szervezetet, illetve tevékenységi kört, ha
 
 - a) a bejelentő nem a 3. § (1) bekezdése szerinti fogadó szervezet,
 - b) kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
-(3) A nyilvántartásban szereplő adatokat a miniszter az általa vezetett minisztérium honlapján közzéteszi.
+(3) A nyilvántartásban szereplő adatokat a miniszter a Civil Információs Portálon közzéteszi.
 
 (4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkaügyi hatóságnak és a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
 
@@ -238,7 +239,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - d) a 6. § (1) bekezdésének a)–c) pontjában meghatározottakat,
 - e) a közérdekű önkéntes tevékenység megkezdésének időpontját,
 - f) határozott időre kötött önkéntes szerződés esetén azt az időpontot, amikor a szerződés hatálya megszűnik,
-- g) tizennyolcadik életévét be nem töltött önkéntes esetén a közérdekű önkéntes tevékenységre fordított idővel kapcsolatos adatokat,
+- g) tizennyolcadik életévét be nem töltött önkéntes esetén a közérdekű önkéntes tevékenységre fordított idővel kapcsolatos adatokat, valamint
 - h) az önkéntesnek a 2. § (3) bekezdése szerint nyújtott juttatásokat.
 
 (2) A fogadó szervezet a nyilvántartást az önkéntes jogviszony megszűnését követően öt évig köteles megőrizni. A fogadó szervezet megszűnése, illetve halála esetén a nyilvántartást a jogutódja, örököse, jogutód nélküli megszűnése esetén az iratok megőrzésére jogszabály vagy határozat alapján kötelezett őrzi.
@@ -257,22 +258,17 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3)–(4)
 
-### Melléklet a 2005. évi LXXXVIII. törvényhez
+### 1. melléklet a 2005. évi LXXXVIII. törvényhez
 
-#### BEJELENTÉSI LAP közérdekű önkéntes tevékenység bejelentésére
+#### A fogadó szervezet és az adatmódosítás bejelentésére szolgáló adatlapok és elektronikus űrlapok adattartalma
 
-BEJELENTÉSI LAP
-
-közérdekű önkéntes tevékenység bejelentésére
-
-- 1. A fogadó szervezet
-  - a) neve:
-  - b) székhelye:
-  - c) adószáma:
-  - d) költségvetési szerv törzskönyvi nyilvántartási száma:
-  - e) típusa*: □ helyi önkormányzat, azok társulása □ nemzetiségi önkormányzat □ költségvetési szerv □ közhasznú jogállású szervezet □ nem közhasznú jogállású civil szervezet □ egyházi jogi személy □ szociális, gyermekjóléti, gyermekvédelmi szolgáltató intézmény □ egészségügyi szolgáltató □ közoktatási intézmény □ felsőoktatási intézmény □ muzeális intézmény □ nyilvános könyvtár □ közlevéltár □ nyilvános magánlevéltár □ közművelődési intézmény
-- 2. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök:
-- 3. Kíván-e építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni? □ igen □ nem Az építési tevékenység helye:
-- 4. Kíván-e tizennyolcadik életévét be nem töltött önkéntest, illetve korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni? □ igen □ nem
-- 5. Kíván-e olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt? □ igen □ nem
-- 6. Kíván-e külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni? □ igen □ nem Nyilatkozom, hogy a 2. pontban meghatározott tevékenységi körök megfelelnek a közérdekű önkéntes tevékenységről szóló törvény 3. §-ában meghatározottaknak. Kelt: .................................................................... ........................................................................................a fogadó szervezet képviselőjének aláírása ___________ * A fogadó intézmény fenntartóját a fogadó intézmény típusánál kell jelezni.
+- 1. A fogadó szervezet neve, székhelye, típusa és adószáma, cégjegyzékben nyilvántartott fogadó szervezet esetén cégjegyzékszáma, költségvetési szerv fogadó szervezet esetén törzskönyvi nyilvántartási száma.
+- 2. A fogadó szervezet kapcsolattartójának neve, beosztása és elérhetősége.
+- 3. A fogadó szervezet telephelye, telefonszáma, elektronikus levélcíme vagy más olyan, a kapcsolat felvételéhez szükséges adata, amelynek nyilvántartásba való felvételét kéri.
+- 4. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök és tevékenységek, valamint a fogadó szervezet nyilatkozata arról, hogy ezek a tevékenységi körök és tevékenységek megfelelnek a 3. §-ban foglaltaknak.
+- 5. A fogadó szervezet nyilatkozata arról, hogy a fogadó szervezet kíván-e
+- 5.1. építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni, és ha igen, annak helyéről,
+- 5.2. tizennyolcadik életévét be nem töltött önkéntest foglalkoztatni,
+- 5.3. korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni,
+- 5.4. külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni,
+- 5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt vagy letelepedett személyt.

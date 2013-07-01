@@ -286,6 +286,8 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - d) az engedély számát és a tevékenység megkezdésének vagy folytatásának az engedélyben foglalt területi és időbeli korlátait, valamint
 - e) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott adatokat.
 
+(2a) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés c) és d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A szolgáltatás felügyeletét ellátó hatóság az adott szolgáltatási tevékenység tekintetében törli a nyilvántartásból azt a szolgáltatót, aki a tevékenység végzésére a továbbiakban nem jogosult.
 
 ### Bejelentéshez kötött tevékenységet folytatószolgáltatók nyilvántartása
@@ -297,6 +299,8 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - a) a 22. § (1) bekezdés a)–c) pontjában és (2) bekezdésében meghatározott adatokat,
 - b) határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a 22. § (3) bekezdésében foglalt adatokat és azt az időtartamot, amelyre a bejelentés szól, továbbá
 - c) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott egyéb adatokat.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a) és b) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 28. § A szolgáltatás felügyeletét ellátó hatóság törli a 27. § szerinti nyilvántartásból a szolgáltatót, ha
 
@@ -315,6 +319,8 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - c) annak a szolgáltatási tevékenységnek a megjelölését, amelynek folytatására a szolgáltató nem jogosult,
 - d) a tilalom időbeli és területi hatályát, valamint
 - e) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott adatokat.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés c) és d) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 30. § (1) A 26. §, a 27. §, valamint a 29. § szerinti nyilvántartás a szolgáltatási tevékenység folytatásának hatósági ellenőrzését és a szolgáltatás igénybe vevőinek tájékoztatását szolgálja.
 

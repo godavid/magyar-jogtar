@@ -656,7 +656,7 @@ kell biztosítani.
 
 (4)
 
-55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadászt a Büntető Törvénykönyv 230. §-ának c) pontjában meghatározott, közfeladatokat ellátó polgári őrt a Büntető Törvénykönyv 229. §-a szerinti büntetőjogi védelem illeti meg.
+55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadászt a Büntető Törvénykönyv szerinti büntetőjogi védelem illeti meg.
 
 ### IV. Fejezet — A VADÁSZAT
 
@@ -1104,6 +1104,8 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 
 (3) A vadászati hatóság a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(3a) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A vadászati hatóság az (1) bekezdés szerinti szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a vadászati hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
 (5) A vadászati hatóság a szakértő (4) bekezdésben meghatározott személyes adatait a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
@@ -1180,7 +1182,11 @@ során közigazgatási eljárásban hozott döntése ellen közigazgatási eljá
 
 „,,f) az önkormányzatot megillető vadászati jog haszonbérbe adásából származó bevétel;''.”
 
-#### 97–99. §
+#### 97. §
+
+#### 98. §
+
+#### 99. §
 
 ### Felhatalmazás
 

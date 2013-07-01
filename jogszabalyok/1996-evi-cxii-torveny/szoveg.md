@@ -330,7 +330,12 @@ végezhet.
 
 (3) Az (1)–(2) bekezdésben foglaltakat székhely-, telephelyváltozás esetén, valamint a pénzügyi szolgáltatási tevékenység módosításakor is biztosítani kell.
 
-(4) Akit a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott államtitok és szolgálati titok megsértése bűncselekmény, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény elkövetése miatt elítéltek, úgyszintén az, akivel szemben e bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig pénzváltási tevékenységet végzőnél vezető állású személyként nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet.
+(4) Pénzváltási tevékenységet végzőnél vezető állású személyként nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet az,
+
+- a) akit
+  - aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal bűncselekmény, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény elkövetése miatt elítéltek,
+  - ab) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt elítéltek,
+- b) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
 
 (5) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (4) bekezdésben meghatározott foglalkoztatási feltétel fennállásának ellenőrzésére – a bűntettesek nyilvántartásának és a büntetőeljárás alatt állók nyilvántartásának adatai alapján – a Felügyelet jogosult.
 
@@ -1470,7 +1475,10 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 - b) más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél könyvvizsgáló,
 - c) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 
-(6) Akivel szemben a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetőleg külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
+(6) Akivel szemben
+
+- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében,
+- b) a Btk. XXVII. Fejezetében vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetve külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
 
 (7) Nyilvános részvénytársasági formában működő hitelintézet alapszabálya – a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 295. §-ának (2) bekezdésétől eltérően – az igazgatósági tagok visszahívását a szavazatok egyszerű többségénél nagyobb, de legfeljebb háromnegyedes arányú határozathoz is kötheti.
 
@@ -1611,8 +1619,9 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (7) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
-- a) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
-- b) a magyar bűnüldöző szerv, illetőleg a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva, vagy nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv, illetőleg külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
+- a) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+- b) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől,
+- c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
 (8) A Felügyelet, valamint az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
@@ -1622,11 +1631,11 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 52. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
-- a) kábítószerrel való visszaéléssel,
-- b) terrorcselekménnyel,
-- c) robbanóanyaggal vagy robbantószerrel való visszaéléssel,
-- d) lőfegyverrel vagy lőszerrel való visszaéléssel,
-- e) pénzmosással,
+- a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
+- b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318. §),
+- c) robbanóanyaggal vagy robbantószerrel visszaéléssel (1978. évi IV. törvény 263. §, illetve Btk. 324. §),
+- d) lőfegyverrel vagy lőszerrel visszaéléssel (1978. évi IV. törvény 263/A. §, illetve Btk. 325. §),
+- e) pénzmosással (1978. évi IV. törvény 303–303/A. §, illetve Btk. 399–400. §),
 - f) bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 - g) bennfentes kereskedelemmel, vagy
 - h) piacbefolyásolással
@@ -1635,7 +1644,7 @@ van összefüggésben.
 
 (1a) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
 
-(2) A pénzügyi intézmény a megkeresések teljesítése során köteles az államtitok és a szolgálati titok védelméről szóló jogszabályban foglalt feltételeknek megfelelő védelmi intézkedéseket megtenni.
+(2) A pénzügyi intézmény a megkeresések teljesítése során köteles a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával eljárni.
 
 53. § (1) Az 51. § (2) bekezdés d), f), g) és p) pontja, az 51. § (7) bekezdése, az 52. §, valamint az 54. § (1) bekezdésének p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja.
 

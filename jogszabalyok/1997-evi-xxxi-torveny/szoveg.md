@@ -45,7 +45,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 5. § E törvény alkalmazásában
 
 - a) gyermek: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorú,
-- b) fiatalkorú: az a személy, aki a szabálysértés vagy a bűncselekmény elkövetésekor 14. évét betöltötte, de 18. évét még nem,
+- b) fiatalkorú: az a személy, aki a szabálysértés elkövetésekor 14. évét, bűncselekmény elkövetésekor 12. évét – illetve 2013. június 30-át megelőzően elkövetett bűncselekmény esetén a 14. évét – betöltötte, de 18. évét még nem,
 - c) fiatal felnőtt: az a nagykorú személy, aki a 24. évét nem töltötte be,
 - d) a gyermek hozzátartozói: a vér szerinti és az örökbe fogadó szülők (a továbbiakban együtt: szülő), a szülő házastársa, a szülő testvére, a nagyszülő, a nagyszülő házastársa, a nagyszülő testvére, a dédszülő, a testvér, a testvér házastársa, a saját gyermek,
 - e) a gyermek közeli hozzátartozói: ha e törvény másképp nem rendelkezik, a szülő, a szülő házastársa, a szülő testvére, a nagyszülő, testvér, a saját gyermek,
@@ -58,7 +58,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 - m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elrendelt hatósági intézkedésen alapuló ellátás és védelem,
 - n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
-- o) várandós anya válsághelyzete: olyan családi, környezeti, szociális, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését,
+- o) várandós anya válsághelyzete: olyan családi, környezeti, szociális, társadalmi helyzet vagy ezek következtében kialakult állapot, amely a várandós anya testi vagy lelki megrendülését, társadalmi ellehetetlenülését okozza, és ezáltal veszélyezteti a gyermek egészséges megszületését; ezen belül terhességét eltitkoló válsághelyzetben lévő várandós anya az a válsághelyzetben lévő várandós anya, aki nyilatkozata szerint állapotát környezete és hozzátartozói előtt titokban szándékozik tartani,
 - p) tartós betegség: azon kórforma, amely a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosít,
 - q) fogyatékos gyermek, fiatal felnőtt:
   - qa) a gyermekvédelmi pénzbeli és természetbeni ellátások tekintetében a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosító fogyatékosságban szenvedő gyermek, fiatal felnőtt,
@@ -182,7 +182,7 @@ kerülhet sor.
 (8) Nem lehet gyermekjogi képviselő az a személy,
 
 - a) aki büntetett előéletű,
-- b) aki büntetlen előéletű, de a bíróság büntetőjogi felelősségét jogerős ítéletben megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XII. fejezet I. címében meghatározott élet, testi épség és egészség elleni bűncselekmény, II. címében meghatározott egészségügyi beavatkozás, orvostudományi kutatás rendje és az egészségügyi önrendelkezés elleni bűncselekmény, kényszerítés, a lelkiismeret és vallásszabadság megsértése, közösség tagja elleni erőszak, személyi szabadság megsértése, emberrablás, emberkereskedelem, zaklatás, magántitok megsértése, visszaélés személyes adattal, visszaélés közérdekű adattal, XIV. fejezetében meghatározott házasság, család, ifjúság és nemi erkölcs elleni bűncselekmény, embercsempészet, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmény és VI. címében meghatározott igazságszolgáltatás elleni bűncselekmény, XVI. fejezet II-IV. címében meghatározott köznyugalom, közbizalom és közegészség elleni bűncselekmény, lopás, sikkasztás, csalás, hűtlen kezelés, hanyag kezelés, rablás, kifosztás, zsarolás, orgazdaság vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
+- b) aki büntetlen előéletű, de a bíróság büntetőjogi felelősségét jogerős ítéletben megállapította a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XII. fejezet I. címében meghatározott élet, testi épség és egészség elleni bűncselekmény, II. címében meghatározott egészségügyi beavatkozás, orvostudományi kutatás rendje és az egészségügyi önrendelkezés elleni bűncselekmény, kényszerítés, a lelkiismeret és vallásszabadság megsértése, közösség tagja elleni erőszak, személyi szabadság megsértése, emberrablás, emberkereskedelem, zaklatás, magántitok megsértése, visszaélés személyes adattal, visszaélés közérdekű adattal, XIV. fejezetében meghatározott házasság, család, ifjúság és nemi erkölcs elleni bűncselekmény, embercsempészet, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmény és VI. címében meghatározott igazságszolgáltatás elleni bűncselekmény, XVI. fejezet II–IV. címében meghatározott köznyugalom, közbizalom és közegészség elleni bűncselekmény, lopás, sikkasztás, csalás, hűtlen kezelés, hanyag kezelés, rablás, kifosztás, zsarolás, orgazdaság, illetve a 2012. évi C. törvény XV. Fejezetében meghatározott élet, testi épség és egészség elleni bűncselekmény, XVI. Fejezetében meghatározott egészségügyi beavatkozás és kutatás rendje elleni bűncselekmény, XVII. Fejezetében meghatározott egészséget veszélyeztető bűncselekmény, emberrablás, emberrablás feljelentésének elmulasztása, emberkereskedelem, személyi szabadság megsértése, kényszerítés, a lelkiismeret és vallásszabadság megsértése, közösség tagja elleni erőszak, az egészségügyi önrendelkezési jog megsértése, személyes adattal visszaélés, közérdekű adattal visszaélés, zaklatás, magántitok megsértése, XIX. Fejezetében meghatározott nemi élet szabadsága és nemi erkölcs elleni bűncselekmény, XX. Fejezetében meghatározott gyermekek érdekét sértő és család elleni bűncselekmény, környezetkárosítás, természetkárosítás, a hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, XXVI. Fejezetében meghatározott igazságszolgáltatás elleni bűncselekmény, XXIX. Fejezetében meghatározott hivatalos személy elleni bűncselekmény, XXXII. Fejezetében meghatározott köznyugalom elleni bűncselekmény, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény, embercsempészet, járványügyi szabályszegés, rablás, kifosztás, zsarolás, lopás, sikkasztás, csalás, hűtlen kezelés, hanyag kezelés, orgazdaság vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
   - ba) ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - bb) öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - bc) végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
@@ -1174,7 +1174,7 @@ Az otthont nyújtó ellátás során a gyermekek helyzetét folyamatosan figyele
 - b) a gyermekotthon, vagy
 - c) az Szt. hatálya alá tartozó fogyatékosokat ápoló-gondozó bentlakásos intézmény, illetve fogyatékosok vagy pszichiátriai betegek lakóotthona (a továbbiakban: fogyatékosok vagy pszichiátriai betegek otthona) a területi gyermekvédelmi szakszolgálat támogatásával, különösen családgondozással, a gyermek törvényes képviseletének ellátásával.
 
-(7) Az otthont nyújtó ellátásban részesülő gyermek családi pótlékának felhasználható részét a gyermek teljes körű ellátásának kiegészítésére kell fordítani, így különösen ruházattal, szabadidő-eltöltéshez, kulturálódáshoz, játékhoz, sporthoz szükséges eszközökkel való ellátására, fejlesztésére, tehetségének gondozására, továbbá a gyermekotthonban elhelyezett gyermek zsebpénzének biztosítására.
+(7) Az otthont nyújtó ellátásban részesülő gyermek családi pótlékának felhasználható részét a gyermek teljes körű ellátására vagy teljes körű ellátásának kiegészítésére kell fordítani, így különösen ruházattal, szabadidő-eltöltéshez, kulturálódáshoz, játékhoz, sporthoz szükséges eszközökkel való ellátására, fejlesztésére, tehetségének gondozására, továbbá a gyermekotthonban elhelyezett gyermek zsebpénzének biztosítására.
 
 ### Utógondozói ellátás
 
@@ -1340,6 +1340,8 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 - a) gondoskodik az örökbefogadás előtti tanácsadás és örökbefogadói tanfolyam, valamint az örökbefogadás utáni segítséget nyújtó szolgáltatások megszervezéséről, továbbá
 - b) a nemzetközi örökbefogadási ügyekben eljáró központi hatóság (a továbbiakban: központi hatóság) megkeresésére külföldi állampolgárságú gyermek örökbefogadását követően jelentést készít az örökbefogadás helyzetéről.
+
+(4) Ha a terhességét eltitkoló válsághelyzetben lévő várandós anya kérelmére a gyámhatóság a gyermek lakóhelyéül a fővárosi területi gyermekvédelmi szakszolgálat székhelyét állapította meg, a fővárosi területi gyermekvédelmi szakszolgálat feladata a gyermek számára kiállított iratok megőrzése, valamint kiadása a gyámhatóság által megjelölt törvényes képviselő számára.
 
 63. § (1) A gyermekvédelmi szakszolgáltatás az átmeneti és a tartós nevelésbe vett gyermek gyámjának (hivatásos gyámjának), gondozójának egyéni program szerinti gondozási, nevelési tevékenysége segítése és szakmai ellenőrzése érdekében
 
@@ -2363,6 +2365,8 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 - h) szakmai tevékenységének leírását,
 - i) szakértői tevékenysége szüneteltetésének, felfüggesztésének időtartamát.
 
+(2a) Az (1) bekezdés szerinti névjegyzék a (2) bekezdés e)–g) és i) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (3) A névjegyzékben szereplő adatokból – szakterületenkénti tagolásban – a Kormány által erre kijelölt szerv a Szolg. tv. 30. § (2) bekezdésében meghatározottakon túl a honlapján közzéteszi a szakértő
 
 - a) értesítési címét,
@@ -2469,9 +2473,11 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 128. § (1) A gyámügyi eljárásban meg kell hallgatni a szülőt és más törvényes képviselőt, a gondozót, a korlátozottan cselekvőképes személyt és az ítélőképessége birtokában levő cselekvőképtelen gyermeket, továbbá minden esetben azt, akivel szemben kötelezettséget kívánnak megállapítani, valamint – szükség szerint – a gyermek más közeli hozzátartozóit. A meghallgatást mellőzni lehet, ha a meghallgatás miatti késedelem elháríthatatlan kárral vagy veszéllyel járna.
 
+(1a) A terhességét eltitkoló válsághelyzetben lévő, korlátozottan cselekvőképes kiskorú anya kérelmére a gyámhatóság mellőzheti a törvényes képviselő meghallgatását, ha az a terhességét eltitkoló válsághelyzetben lévő várandós anya vagy a születendő gyermek érdekét veszélyeztetné.
+
 (2) Ha jogszabály a gyermek személyi ügyeiben a törvényes képviselő eljárását vagy nyilatkozatát írja elő, a szülői felügyeletet együttesen gyakorló mindkét szülőnek személyesen kell eljárnia, illetőleg személyesen kell nyilatkoznia.
 
-(3) A kapcsolattartással, a kiskorú házasságkötésének engedélyezésével, az örökbefogadással, a családi jogállással, a szülői ház elhagyásával, a családbafogadással és a gyámsággal, gondnoksággal kapcsolatos jognyilatkozatokat csak személyesen lehet megtenni, valamint, ha a tényállás tisztázása érdekében a gyámhatóság tárgyalást tart, azon személyesen kell megjelenni.
+(3) A kapcsolattartással, a kiskorú házasságkötésének engedélyezésével, az örökbefogadással, a származás megismerésével, a terhességét eltitkoló válsághelyzetben lévő várandós anya születendő gyermeke lakóhelyének megállapításával, a családi jogállással, a szülői ház elhagyásával, a családbafogadással és a gyámsággal, gondnoksággal kapcsolatos jognyilatkozatokat csak személyesen lehet megtenni, valamint, ha a tényállás tisztázása érdekében a gyámhatóság tárgyalást tart, azon személyesen kell megjelenni.
 
 (4)–(5)
 
@@ -2758,6 +2764,8 @@ vonatkozó adatokat kezelhet.
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
 - d) az ellátással kapcsolatos döntéseket,
 - e) a jogosultság megállapításához szükséges jövedelmi adatokat.
+
+(1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A gyámhatóság nyilvántartást vezet a hatósági intézkedéssel védelembe vett gyermekekről. A nyilvántartás tartalmazza
 

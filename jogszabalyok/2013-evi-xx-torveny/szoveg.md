@@ -42,7 +42,7 @@ az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsol
 
 36. § (1)
 
-(2)
+(2) Hatályát veszti a Kenytv. 11. § (2) bekezdése és 12. § (1) bekezdés c) és d) pontja.
 
 #### 11. Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény módosítása
 

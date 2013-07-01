@@ -78,7 +78,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 - a) akinek tartózkodási célja keresőtevékenység folytatása,
 - b) aki a tartózkodás teljes időtartamára elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, és külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik, vagy
-- c) aki tanulmányok – ideértve a szakképzést, továbbá a felnőttképzést, ha annak képzési programja akkreditált – folytatása céljából felvételt nyert a közoktatásról vagy a felsőoktatásról szóló törvény hatálya alá tartozó oktatási intézménybe, és tartózkodása teljes időtartama során elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, valamint külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik.
+- c) aki tanulmányok – ideértve a szakképzést, továbbá a felnőttképzést, ha annak képzési programja akkreditált – folytatása céljából felvételt nyert a nemzeti köznevelésről szóló törvény, illetve a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó oktatási intézménybe, és tartózkodása teljes időtartama során elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, valamint külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik.
 
 (2) Ha az EGT-állampolgár teljesíti az (1) bekezdés a) vagy b) pontjában meghatározott feltételeket, családtagja tartózkodásra jogosult.
 
@@ -242,7 +242,15 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 20. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
 
-(1a) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye. A fellebbezés tárgyában hozott döntés ellen további jogorvoslatnak nincs helye.
+(1a) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
+
+(1b) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
+
+(1c) Az (1a) bekezdés szerinti döntés bírósági felülvizsgálata iránti kérelmet a fellebbezés tárgyában hozott elutasító döntés közlésétől számított három napon belül az elsőfokú hatóságnál kell benyújtani. A hatóság a kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+
+(1d) A bíróság az (1c) bekezdés szerinti kérelemről – annak beérkezésétől számított – nyolc napon belül, nemperes eljárásban határoz, az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A Fővárosi Közigazgatási és Munkaügyi Bíróság döntése ellen további jogorvoslatnak nincs helye.
+
+(1e) A bíróság eljárására – ha az eljárás nemperes jellegéből más nem következik – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni.
 
 (2) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során a kérelmező törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
 
@@ -655,7 +663,7 @@ meghosszabbítása
 
 ### Felelősségi szabályok
 
-65. § (1) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, aki vagy amely gazdasági célú személyszállítási tevékenység végzésére jogosult (a továbbiakban: fuvarozó) köteles a szállítást megelőzően megbizonyosodni arról, hogy a harmadik ország állampolgárságával rendelkező családtag rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal.
+65. § (1) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, aki vagy amely gazdasági célú személyszállítási tevékenység végzésére jogosult (a továbbiakban: fuvarozó), köteles a szállítást megelőzően megbizonyosodni arról, hogy a harmadik ország állampolgárságával rendelkező családtag rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve három hónapot meg nem haladó tartózkodásra jogosító vízummal.
 
 (2) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, közúton, illetve vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan utasát hozta, vagy amely köteles őt befogadni, ha
 
@@ -671,7 +679,7 @@ meghosszabbítása
 
 (6) A közrendvédelmi bírság megfizetésének kötelezettsége alól a fuvarozó akkor mentesül, ha bizonyítja, hogy az (1) bekezdésben foglalt ellenőrzési kötelezettségének a tőle elvárható gondossággal eleget tett.
 
-66. § (1) A légi fuvarozót a határforgalmat ellenőrző hatóság közrendvédelmi bírsággal sújtja, amennyiben a légi fuvarozó – a külön jogszabályban meghatározottak szerinti kötelezettségét megszegve – nem szolgáltat adatot azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy valamely schengeni államnak a területéről szállít Magyarország területére.
+66. § (1) A légi fuvarozót a határforgalmat ellenőrző hatóság kezdeményezésére az eljáró hatóság közrendvédelmi bírsággal sújtja, amennyiben a légi fuvarozó – a külön jogszabályban meghatározottak szerinti kötelezettségét megszegve – nem szolgáltat adatot azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy valamely schengeni államnak a területéről szállít Magyarország területére.
 
 (2) Az (1) bekezdésben foglalt rendelkezéseket kell alkalmazni akkor is, ha a légi fuvarozó hiányos adatokat vagy – az elvárható gondosság tanúsítása hiányában – valótlan adatot továbbít.
 
@@ -731,7 +739,7 @@ meghosszabbítása
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
-(3)
+(3) Az (1) bekezdésben meghatározott nyilvántartások – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.
 
 76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
 

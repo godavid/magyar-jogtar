@@ -395,6 +395,8 @@ kötheti.
 
 (3) A környezetvédelmi hatóság az engedéllyel rendelkező közvetítő szervezetekről nyilvántartást vezet.
 
+(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 30. § (1) A 24. § (1) bekezdésében, valamint a 26–27. §-ban előírt követelmények megsértése esetén az eljárás lefolytatására a fogyasztóvédelmi hatóság jogosult, ha a jogsértés a fogyasztóvédelemről szóló törvény (a továbbiakban: Fgytv.) értelmében vett fogyasztót érint.
 
 (2) Az (1) bekezdés, valamint a 23. § (3) bekezdés szerinti rendelkezés az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezés.
@@ -981,6 +983,8 @@ vonatkozó adatokat.
 
 (3) A környezetvédelmi hatóság a hulladékgazdálkodási engedéllyel rendelkezők (1) bekezdésben, valamint a nyilvántartásba vettek (2) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatokat ide nem értve – honlapján ingyenesen és naprakész állapotban közzéteszi.
 
+(4) Az (1) bekezdés b), c), d) és f) pontja kapcsán vezetett nyilvántartás, valamint a (2) bekezdés szerinti nyilvántartás a (2) bekezdés b)–d) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 81. § (1) A környezetvédelmi hatóság hulladékgazdálkodási közszolgáltatási engedélyt csak annak a hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezetnek adhat, amelyben az állam, a települési önkormányzat vagy a települési önkormányzatok társulása a szavazatok többségével tulajdoni hányada alapján közvetlenül vagy közvetve rendelkezik, és a társaság tulajdonosaként jogosult arra, hogy a vezető tisztségviselők és a felügyelőbizottság tagjai többségét megválassza vagy visszahívja.
 
 (2) A hulladékgazdálkodási közszolgáltatási engedélynek legalább a következő adatokat kell tartalmaznia:
@@ -992,7 +996,7 @@ vonatkozó adatokat.
 - e) a bevezetendő biztonsági és elővigyázatossági intézkedésekre vonatkozó követelményeket, valamint
 - f) a közszolgáltatási engedélyre jogosult közszolgáltatói hulladékgazdálkodási tervét.
 
-(3) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (2) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatokat ide nem értve – honlapján ingyenesen és naprakész állapotban közzéteszi.
+(3) A környezetvédelmi hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezőkről – a (2) bekezdés b)–d) pontjában foglalt adatok tekintetében – közhiteles hatósági nyilvántartást vezet. A hatóság a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezők (2) bekezdésben meghatározott adatait – a személyes adatnak minősülő adatok kivételével – honlapján ingyenesen és naprakész állapotban közzéteszi.
 
 82. § (1) A környezetvédelmi hatóság a hulladékbirtokostól, illetve a hulladék szállítójától, közvetítőjétől, kereskedőjétől, kezelőjétől és a közszolgáltatótól, valamint a melléktermék gyártójától, felhasználójától, forgalmazójától tájékoztató adatot, összefoglalót, igazolást, jelentést kérhet.
 
@@ -1190,29 +1194,45 @@ rendeletben állapítsa meg.
 
 91. § (1) A hulladékgazdálkodási közszolgáltatási díj legmagasabb mértékét 2013. július 1-jétől 2014. december 31-éig az e §-ban foglalt eltérésekkel kell megállapítani.
 
-(2) A természetes személy ingatlantulajdonos részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
+(2) A természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. április 14. napján alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegének 90 százalékát.
 
-(3) A hulladékgazdálkodási közszolgáltatási szerződéssel rendelkező társasházat és lakásszövetkezetet a (2) bekezdésben meghatározott díjcsökkentés a társasházban, illetve lakásszövetkezetben az ingatlantulajdonnal rendelkező természetes személyek vonatkozásában illeti meg. A társasház, illetve a lakásszövetkezet írásban tájékoztatja a közszolgáltatót az ingatlantulajdonnal rendelkező természetes személyek és más ingatlantulajdonosok társasházon, illetve lakásszövetkezeten belüli megoszlásáról. A közszolgáltató a tájékoztatás kézhezvételét követő hónapban esedékes számlájában érvényesíti az ingatlantulajdonnal rendelkező természetes személyeket e rendelkezés alapján megillető díjcsökkenést. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető tulajdoni hányadok aránya alapján kell elszámolni.
+(2a) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
 
-(4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlantulajdonost a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
+(2b) A közszolgáltató részéről a hulladékgazdálkodási közszolgáltatási szerződés megszegésének minősül, ha a (2) és (5) bekezdésben meghatározott kötelezettségét nem teljesíti. A közszolgáltató a fogyasztóvédelmi hatóság által megállapított szerződésszegése esetén minden érintett számlára vonatkozóan számlánként összesen 10 000 forint kötbért köteles fizetni a szerződésszegéssel érintett természetes személynek.
 
-(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlantulajdonosok, illetve társasházak és lakásszövetkezetek részére a (2) és (3) bekezdésben foglaltak teljesüléséről.
+(2c) A (2) bekezdés szempontjából alkalmazott díjnak
 
-(6) E § vonatkozásában a költségvetési szervre a természetes személy ingatlantulajdonosra irányadó szabályokat kell alkalmazni.
+- a) a települési önkormányzat rendeletében a természetes személy ingatlantulajdonosra megállapított teljes díj, vagy
+- b) ha a települési önkormányzati rendelet díjat nem állapított meg, akkor a 2012. április 14-én a közszolgáltatóval fennálló hulladékgazdálkodási közszolgáltatási szerződésben a természetes személy ingatlantulajdonosokra vonatkozóan meghatározott díj összegének a díjfizetésre egyébként kötelezett lakosszámra eső értéke tekintendő.
 
-(7) A nem természetes személy ingatlantulajdonos részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) nem haladhatja meg a 2012. december 31-én alkalmazott díj legfeljebb 4,2 százalékkal megemelt összegét.
+(2d) Ha a szolgáltatási, illetve műszaki tartalom változása vagy a közszolgáltató döntése folytán a 2012. április 14-ét követően 2013. június 30-ig alkalmazott díj a 2012. április 14-én alkalmazott díjnál alacsonyabb, a (2) bekezdés szerinti díj számításánál ezt – több alacsonyabb alkalmazott díj esetén a legalacsonyabbat – kell a számítás alapjául venni.
 
-(8) Az a közszolgáltató, amely működését e törvény hatálybalépését követően kezdte meg, a hulladékgazdálkodási közszolgáltatási díjat a Hivatal jóváhagyása alapján alkalmazhatja. A közszolgáltató a Hivatalhoz benyújtott kérelemben részletesen és teljes körűen alátámasztja, hogy az általa javasolt összegben alkalmazandó hulladékgazdálkodási közszolgáltatási díjat mely körülmények és milyen mértékben indokolják.
+(3) A társasházat a (2) bekezdésben meghatározott díjcsökkentés a társasházat alkotó azon albetétek vonatkozásában illeti meg, amelyeket természetes személy ingatlanhasználó használ. A társasház évente írásban tájékoztatja a közszolgáltatót a természetes személy és nem természetes személy ingatlanhasználók társasházon belüli megoszlásáról. A közszolgáltató a tájékoztatás kézhezvételét követően kiállított, esedékes számlájában érvényesíti a természetes személy ingatlanhasználók után a társasházat e rendelkezés alapján megillető díjcsökkenést. E rendelkezés megfelelően alkalmazandó a lakásszövetkezetre is. A díjcsökkenést vita esetén a közhiteles nyilvántartásból megismerhető, természetes és nem természetes személy tulajdonosok tulajdoni hányadainak egymáshoz viszonyított aránya alapján kell elszámolni.
 
-(9) A (8) bekezdés szerinti esetben a Hivatal a díjemelésre, illetve a díjmegállapításra vonatkozó kérelmet közigazgatási hatósági eljárás keretében 45 napon belül bírálja el. A Hivatal a kérelemben foglaltaktól eltérően is megállapíthatja a díjemelés, illetve a díjmegállapítás mértékét azzal, hogy az a kérelemben megjelölt mértéknél nem lehet magasabb.
+(4) A közszolgáltatást igénybe vevő társasház vagy lakásszövetkezet a társasházban, illetve lakásszövetkezetben lakó természetes személy ingatlanhasználót a (2) bekezdésben meghatározott díjtétel alapján a díjcsökkentés összegéről tájékoztatja.
 
-(10) A Hivatal a (8) bekezdés szerinti határozatát az OHÜ-vel együttműködve, az OHÜ javaslatának figyelembevételével készíti el. Az OHÜ a Hivatal megkeresésére a megkereséstől számított 15 napon belül javaslatát elkészíti, és azt a Hivatal részére megküldi.
+(5) A közszolgáltató a kibocsátott számlán szereplő fizetendő összeg vonatkozásában a számla kiküldésével egyidejűleg részletes írásbeli tájékoztatást nyújt a természetes személy ingatlanhasználók, illetve társasházak és lakásszövetkezetek részére a (2) és (3) bekezdésben foglaltak teljesüléséről.
 
-(11) Ha az OHÜ a (10) bekezdésben meghatározott határidőn belül javaslatát a Hivatal részére nem küldi meg, a Hivatal ennek hiányában is határozatot hozhat.
+(5a) A közszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. július 1-je óta eltelt időszakban.
 
-(12) A (8) bekezdés szerinti esetben a közszolgáltatónak a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően kell alkalmaznia.
+(5b) Az (5) bekezdésben foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
 
-(13) A Hivatal a 47. § (5) bekezdés szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
+(6) E § vonatkozásában a költségvetési szervre és a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti ápolást, gondozást nyújtó intézményre a természetes személy ingatlanhasználóra irányadó szabályokat kell alkalmazni.
+
+(7) A nem természetes személy ingatlanhasználó részére kiállított számlában meghatározott hulladékgazdálkodási közszolgáltatásért fizetendő összeg nem haladhatja meg a települési önkormányzat 2012. december 31-én hatályos rendeletében meghatározott – kedvezmények és mentességek nélküli – teljes közszolgáltatási díj legfeljebb 4,2 százalékkal megemelt összegét.
+
+(8) Ha a nem természetes személy ingatlantulajdonos vonatkozásában a települési önkormányzat 2012. december 31-én külön díjat nem alkalmazott, a (7) bekezdés esetében közszolgáltatási díjnak
+
+- a) a települési önkormányzat rendeletében általánosan megállapított, vagy
+- b) a természetes személy ingatlantulajdonos által – kedvezmények és mentességek nélkül – fizetett
+
+közszolgáltatási díjat kell tekinteni.
+
+(9) 2013. évre vonatkozóan a közszolgáltató a felügyeleti díjat a Hivatal részére díjfelügyeleti tevékenységéért szeptember 1. napjáig fizeti meg.
+
+(10)–(12)
+
+(13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
 
 92. § (1) 2020. december 31-ig a háztartási, valamint a háztartásihoz hasonló hulladék részét képező papír-, fém-, műanyag- és üveghulladék újrahasználatra előkészítésének és újrafeldolgozásának együttes mértékét a képződött mennyiséghez viszonyítva tömegében országos szinten legalább 50%-ra kell növelni.
 

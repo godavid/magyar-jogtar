@@ -403,6 +403,8 @@ minősül.
 
 (8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
+(9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
+
 Jövedelemkiegészítés közalkalmazotti vagy kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
 16/A. § Ezen alcím alkalmazásában:

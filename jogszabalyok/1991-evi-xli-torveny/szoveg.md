@@ -92,7 +92,7 @@ a közjegyzőkről
 - c) közjegyzőhelyettes és közjegyzőjelölt névjegyzékbe vétele esetén nevét, születési helyét és időpontját, anyja nevét, a névjegyzékbe vétel időpontját, az alkalmazó közjegyző nevét és székhelyét,
 - d) szükség esetén a közjegyzői iroda nevét, székhelyét, cégjegyzékszámát, tagjainak nevét és személyazonosító adatait.
 
-(10)
+(10) A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A Magyar Országos Közjegyzői Kamara és a területi közjegyzői kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
 
 ### A közjegyző illetékességi területe
 
@@ -595,6 +595,8 @@ illetékességi területén.
 (7) A közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes az (5) bekezdés a)–g) pontjaiban írt körülményeket köteles haladéktalanul bejelenteni a területi elnökségnek.
 
 (8) Ha a közjegyzői iroda a (2) bekezdés szerinti adatokat a bejelentésben nem közli, a kamara az adatok közlése iránt megkeresi a közjegyzői iroda bejegyzését végző cégbíróságot.
+
+(9) A (2) és a (4) bekezdés szerinti névjegyzék – a (2) bekezdés a), d) és e) pontjában foglalt adatok kivételével –, valamint az (5) bekezdés szerinti nyilvántartás – az (5) bekezdés a)–c) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 49/B. § A Magyar Országos Közjegyzői Kamara a közjegyzőt, a közjegyzőhelyettest és a közjegyzőjelöltet külön jogszabály szerinti arcképes igazolvánnyal látja el.
 
@@ -1171,7 +1173,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 - f) az igazolványának, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolványának okmányazonosítóját és az okmányazonosító alapján nyilvántartott következő tényeket:
   - fa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. §-ának (4) bekezdése szerinti tények,
   - fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) pontja szerinti tények és az okmány érvényességi ideje,
-  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ának i)–j) pontjai szerinti tények,
+  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
   - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 
 (6) A közjegyző köteles megtagadni a közreműködést, ha

@@ -37,22 +37,24 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - a) tűz (tűzeset): az az égési folyamat, amely veszélyt jelent az életre, a testi épségre vagy az anyagi javakra, illetve azokban károsodást okoz;
 - b) tűz elleni védekezés (a továbbiakban: tűzvédelem): a tűzesetek megelőzése, a tűzoltási feladatok ellátása, a tűzvizsgálat, valamint ezek feltételeinek biztosítása;
 - c) tűzmegelőzés: a tüzek keletkezésének megelőzésére, továbbterjedésének megakadályozására, illetőleg a tűzoltás alapvető feltételeinek biztosítására vonatkozó, a létesítés és a használat során megtartandó tűzvédelmi jogszabályok, szabványok, hatósági előírások rendszere és az azok érvényesítésére irányuló tevékenység;
-- d) tűzvédelmi megfelelőségi tanúsítvány: a kijelölt vagy az Európai Bizottságnál bejelentett tanúsító szervezet által kiadott dokumentum, amely bizonyítja, hogy a tűzoltó-technikai termék, továbbá a tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelel a jogszabályokban, honosított harmonizált szabványokban meghatározott tűzvédelmi előírásoknak;
+- d) tűzvédelmi megfelelőségi tanúsítvány: a magyarországi kijelölt tanúsító vagy az Európai Bizottságnál megfelelőségértékelési eljárás elvégzésére bejelentett szervezet által kiadott dokumentum, amely bizonyítja, hogy a tűzoltó-technikai termék, vagy a tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelel a tűzvédelmi, biztonságossági követelményben meghatározott tűzvédelmi előírásoknak;
 - e) tűzoltási feladat: a veszélyeztetett személyek mentése, a tűz terjedésének megakadályozása, az anyagi javak védelme, a tűz eloltása és a szükséges biztonsági intézkedések megtétele, továbbá a tűz közvetlen veszélyének elhárítása;
 - f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;
 - g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technológiai folyamat, műszaki meghibásodás, veszélyes anyag szabadba jutása vagy egyéb cselekmény által előidézett veszélyhelyzet során az emberélet, a testi épség és az anyagi javak védelme érdekében a tűzoltóság részéről – a rendelkezésére álló, illetőleg az általa igénybe vett eszközökkel – végzett elsődleges beavatkozói tevékenység;
-- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás könnyítésére és a tűzkár csökkentésére, vagy a tűz terjedésének megakadályozására alkalmazott berendezés/eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás, műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz;
+- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz, amely nem tartozik az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 305/2011/EU rendelet) hatálya alá;
 - i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel fokozottan tűz- és robbanásveszélyes, vagy tűz- és robbanásveszélyes tűzveszélyességi osztályba tartozó – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
-- j) építési termék: minden olyan anyag, szerkezet, berendezés vagy több, különböző részből összeállított elem, amelyet azért állítanak elő, hogy építményekbe állandó jelleggel beépítsék;
-- k) honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően magyar nyelven nemzeti szabványként közzétettek;
-- l) tűzvédelmi biztonságossági követelmény: tűzvédelmi biztonságossági követelményt megállapító jogszabály, európai közösségi jogi aktus vagy honosított harmonizált szabvány;
-- m) megfelelőségi igazolás: az építési termékek műszaki követelményeire és megfelelőségi igazolására vonatkozó külön jogszabályban meghatározott igazolás;
+- j) építési termék: minden olyan termék vagy készlet, amelyet azért állítottak elő és hoztak forgalomba, hogy építményekbe vagy építmények részeibe állandó jelleggel beépítsék és amelynek teljesítménye befolyásolja az építménynek az építményekkel kapcsolatos alapvető követelmények tekintetében nyújtott teljesítményét;
+- k) szabvány: egy elismert szabványügyi testület által ismételt vagy folyamatos alkalmazás céljára elfogadott műszaki előírás, amelynek betartása nem kötelező és amely a következő kategóriák valamelyikébe tartozik: nemzetközi szabvány, európai szabvány, harmonizált szabvány, nemzeti szabvány;
+- l) tűzvédelmi, biztonságossági követelmény: az építési termék, tűzoltó-technikai termék, tűz- vagy robbanásveszélyes készülék, gép, berendezés tűzvédelmi, biztonságossági tulajdonságát, jellemzőjét megállapító műszaki előírás;
+- m) teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja;
 - n) hivatásos tűzoltóság: tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott, önálló működési területtel rendelkező hivatásos tűzoltóság;
 - o) tűzoltóőrs (tűzőrség): a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
 - p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
 - q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
 - r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.
-- s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése.
+- s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése;
+- t) műszaki előírás: műszaki tartalmú alapdokumentum, mely lehet európai uniós jogi aktus, jogszabály, harmonizált, európai vagy nemzeti szabvány, európai műszaki értékelés, nemzeti műszaki értékelés, hatályos építőipari műszaki engedély vagy műszaki irányelv;
+- u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik.
 
 ### A tűzjelzés
 
@@ -126,7 +128,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - a) tűzoltó készülékek karbantartása és felülvizsgálata,
 - b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
 - c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
-- d) tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok, valamint tűzjelző és tűzoltó központok távfelügyelete,
+- d)
 - e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
 - f) tűzvédelmi szakvizsgáztatás tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tűzvédelmi hatóságnak bejelenteni. A bejelentésben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
@@ -138,29 +140,45 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
 - c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.
 
-13. § (1) Forgalomba hozni, forgalmazni, beépíteni, használni és készenlétben tartani csak megfelelőségi igazolással rendelkező építési terméket, tűzvédelmi megfelelőségi tanúsítvánnyal rendelkező tűzoltó-technikai terméket, tűz- vagy robbanásveszélyes készüléket, gépet, berendezést (a továbbiakban együtt: termék) lehet.
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(2) Ha a tűzoltó-technikai termékre nincs tűzvédelmi biztonságossági követelmény, azt csak a tűzvédelmi hatóság vizsgálaton alapuló hatósági engedélye alapján lehet forgalomba hozni, beépíteni, használni és készenlétben tartani.
+13. § (1) Építési terméket forgalomba hozni, forgalmazni akkor lehet, ha az a 305/2011/EU rendelet szerint forgalomba hozható. Beépítéskor az építési termék teljesítményét az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott módon igazolni kell.
 
-(3) Az e törvényben meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan terméknek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban (a továbbiakban: EGT-megállapodás) részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a közbiztonság, illetve az emberi egészség és élet védelme tekintetében az e törvényben meghatározottal egyenértékű védelmet nyújtanak.
+(2) Tűzoltó-technikai terméket forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha
 
-(4) A hatósági engedélyezést megalapozó vizsgálati eljárásra a tűzvédelmi megfelelőségi tanúsítvány kiadására vonatkozó szabályok az irányadók.
+- a) az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja,
+- b) annak megfelelőségét a termékre vonatkozó tűzvédelmi, biztonságossági követelményben meghatározott módon, annak hiányában a gyártó, forgalmazó, importőr vagy meghatalmazott képviselő vizsgálaton alapuló megfelelőségi nyilatkozatával igazolják, vagy
+- c) tűzvédelmi, biztonságossági követelmény hiányában, vagy amennyiben a tűzvédelmi megfelelőségi tanúsítvány beszerzése nem lehetséges, a termék a tűzvédelmi hatóság vizsgálaton alapuló hatósági engedélyével rendelkezik.
 
-(5) A megfelelőségi igazolást, a tűzvédelmi megfelelőségi tanúsítványt, illetve a (2) bekezdésben meghatározott hatósági engedélyt vissza kell vonni, ha a termék nem felel meg a megfelelőségi igazolásban, a tűzvédelmi megfelelőségi tanúsítványban vagy a hatósági engedélyben megállapított követelményeknek.
+(3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja.
 
-(6)–(7)
+(4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet, amellyel szemben műszaki előírás tűzállósági vagy tűzvédelmi követelményt határoz meg, csak úgy építhető be, ha az építményszerkezet műszaki előírásban meghatározott követelményeknek való megfelelősége, az alábbi módok valamelyike szerint igazolt:
 
-13/A. § (1) Termék tűzvédelmi megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
+- a) Magyarországon vagy az Európai Unióban akkreditált vizsgáló laboratórium által elvégzett vizsgálati jelentés vagy az ez alapján kiadott nyilatkozat,
+- b) a vonatkozó EuroCode szabványok alapján elvégzett tűzállósági vagy tűzvédelmi méretezés, a méretezésnek megfelelő kivitelezést igazoló építési napló bejegyzés, vagy
+- c) szakértői intézet vagy akkreditált vizsgáló laboratórium igazolásán alapuló építési napló bejegyzés,
+- d) a jogszabályi előírásoknak való megfelelőséget igazoló építési napló bejegyzés, amennyiben az építményszerkezet tűzvédelmi teljesítményét a jogszabály meghatározza,
+- e) jogszabályban meghatározott esetben az ott meghatározott szakértő nyilatkozata.
 
-(2) Amennyiben a piacfelügyeleti hatóság megállapítja, hogy a rendeltetésszerűen használt termék tűzvédelmi szempontból veszélyezteti a biztonságot, megtiltja annak forgalomba hozatalát, forgalmazását, felhasználását, és piacfelügyeleti bírságot szabhat ki.
+(5) Az Európai Unió másik tagállamában vagy Törökországban az ott irányadó előírásoknak megfelelően előállított vagy forgalomba hozott, továbbá az Európai Gazdasági Térségről szóló megállapodásban részes – az előbbiektől eltérő – államban az ott irányadó előírásoknak megfelelően előállított, (1)–(3) bekezdés szerinti termékekre az Európai Közösség létrehozásáról szóló szerződésnek az áruk szabad áramlását biztosító rendelkezéseihez kapcsolódó kölcsönös elismerés alkalmazásáról szóló törvény előírásait kell alkalmazni.
 
-(3) A megfelelőségi igazolással, tűzvédelmi megfelelőségi tanúsítvánnyal vagy a 13. § (2) bekezdésében meghatározott hatósági engedéllyel nem rendelkező termék forgalomba hozatalát, forgalmazását a piacfelügyeleti hatóság megtiltja, és piacfelügyeleti bírságot szabhat ki.
+(6) Az (5) bekezdésben foglalt termékek esetén a védelem egyenértékűségét tűzvédelmi hatóság vizsgálhatja.
+
+(7) A (2) bekezdés b) és c) alpontjában meghatározott vizsgálatra a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírásai az irányadók.
+
+(8) Az (1)–(3) bekezdés szerinti termék forgalomba hozatalához, forgalmazásához, beépítéséhez kiadott iratot, uniós jogi aktusokban és magyar jogszabályokban meghatározott módon vissza kell vonni, ha a termék nem felel meg az abban megállapított tulajdonságoknak, feltételeknek.
+
+13/A. § (1) A 13. § (1) és (2) bekezdésben felsorolt termékek tűzvédelmi, biztonságossági követelményeknek való megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
+
+(2) Amennyiben a piacfelügyeleti hatóság megállapítja, hogy a rendeltetésszerűen használt 13. § (1)–(3) bekezdése szerinti termék tűzvédelmi szempontból veszélyezteti a biztonságot, megtiltja annak forgalomba hozatalát, forgalmazását, beépítését, felhasználását és piacfelügyeleti bírságot szabhat ki.
+
+(3) A 13. § (1)–(3) bekezdés szerinti, a forgalomba hozatalhoz, forgalmazáshoz, beépítéshez szükséges irattal nem rendelkező termék forgalomba hozatalát, forgalmazását, beépítését a piacfelügyeleti hatóság megtiltja és piacfelügyeleti bírságot szabhat ki.
 
 (4) A piacfelügyeleti eljárásokban az ügyintézési határidő hatvan nap, amely egy alkalommal további hatvan nappal meghosszabbítható.
 
 (5) A jogerősen kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A piacfelügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
 
-(6) A piacfelügyeleti hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint jogszabály alapján gyakorolja.
+(6) A piacfelügyeleti hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, jogszabályok, valamint műszaki előírások alapján gyakorolja.
 
 ### Tűzvizsgálati feladatok
 
@@ -229,7 +247,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 20. § (1) A tűzvédelmi helyzetre kiható olyan tevékenységet, amely a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatását teszi szükségessé, vagy a raktározás, termelés kapacitásának 15%-kal történő növelését eredményezi, a tevékenység megkezdése előtt legalább tizenöt nappal a kezdeményező a tűzvédelmi hatóságnál köteles bejelenteni.
 
-(2) Minden új tűz- vagy robbanásveszéllyel járó készülék, gép, berendezés, technológia, anyag bevezetése, illetőleg alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, illetve elvégeztetni.
+(2) Minden új tűz- vagy robbanásveszélyes technológia, anyag bevezetése, vagy alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, vagy elvégeztetni.
 
 21. § (1) Jogszabályban meghatározott esetben az építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
 
@@ -566,6 +584,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - c) a szakértői igazolvány számát, a kiadás időpontját, valamint
 - d) a tűzvédelmi szakterület megnevezését.
 
+(3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak a (3) bekezdés b)–d) pontjában szereplő adatai is nyilvánosak.
 
 (5) A tűzvédelmi hatóság az engedély megadásával egyidejűleg tűzvédelmi szakértői igazolványt állít ki. A hatósági igazolvány tartalmazza a szakértő természetes személyazonosító adatait, a tűzvédelmi szakterület megnevezését, a szakértői igazolvány számát, a kiadás időpontját. A hatósági igazolványon a hitelessége igazolásához szükséges további – nem személyes – adatok is feltüntethetőek.
@@ -616,14 +636,15 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 - 14. a tűzoltóságok által végezhető szolgáltatások körét és szabályait,
 - 15.
-- 16. az európai közösségi jogi aktusok, honosított harmonizált szabványok által nem szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi biztonságossági követelményeket,
+- 16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
 - 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 - 18.
 - 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 - 20–22.
 - 23. a tűzvédelem műszaki követelményeinek megállapítását,
 - 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat.
+- 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
+- 26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés szakértői nyilatkozattal történő igazolhatóságának eseteit és módját.
 
 (3)
 
@@ -641,7 +662,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.
 
-(2)
+(2) A 2013. július 1. előtt a tűzoltó-technikai termékként kezelt építési termékekre kiadott tűzvédelmi megfelelőségi tanúsítványok és forgalmazási engedélyek érvényességi idejükig, de legkésőbb 2015. július 1-ig érvényesek.
 
 (3)
 
@@ -650,3 +671,5 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (5)
 
 49. § A tűzvédelmi szabályzatokat az erről szóló miniszteri rendelet hatálybalépését követő hat hónapon belül kell kiadni.
+
+50. § Ez a törvény az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

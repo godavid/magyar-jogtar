@@ -192,7 +192,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
 
-(4)
+(4) A Magyar Kereskedelmi és Iparkamara külön jogszabály szerint – a területi kereskedelmi és iparkamarák bevonásával – biztosítja a Teljesítésigazolási Szakértői Szerv működésének feltételeit.
 
 13. § (1) A gazdasági kamarák – ideértve az országos kamarákat is – a 9–12. §-okban foglalt közfeladatokat – a 10. § (1) bekezdésének c)–e) pontjaiban foglalt eltérések figyelembevételével – minden gazdálkodó szervezet vonatkozásában ellátják.
 
@@ -237,6 +237,8 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - q) az elnök (alelnökök) jogkörét, illetve az ügyek meghatározott csoportjaira nézve képviseleti jogköre átruházásának szabályait;
 - r) a kamara éves költségvetésének és a beszámoló (mérleg) elfogadásának rendjét;
 - s) az e törvényben meghatározottakon túl a kamarai tisztségviselők összeférhetetlenségének eseteit.
+
+16/A. § A gazdasági kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A gazdasági kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
 
 ### A területi gazdasági kamara küldöttgyűlése
 
