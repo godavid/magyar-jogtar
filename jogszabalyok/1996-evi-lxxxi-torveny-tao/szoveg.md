@@ -1542,7 +1542,13 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 7. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerinti megállapodás alapján fizetett egészségbiztosítási járulék;
 
-8. az a költség, ráfordítás, amely a Büntető Törvénykönyvben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyásolással üzérkedés nemzetközi kapcsolatokban bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel;
+8. az a költség, ráfordítás, amely
+
+a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyásolással üzérkedés nemzetközi kapcsolatokban, vagy
+
+b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatározott vesztegetés, vesztegetés elfogadása, hivatali vesztegetés, hivatali vesztegetés elfogadása, vesztegetés bírósági vagy hatósági eljárásban, vesztegetés elfogadása bírósági vagy hatósági eljárásban vagy befolyással üzérkedés
+
+bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel;
 
 9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat;
 

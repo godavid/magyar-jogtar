@@ -161,7 +161,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - e) időskorúak járadékában, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
 - f) a reá irányadó öregségi nyugdíjkorhatárt betöltötte, és jövedelme nincs.
 
-13. § A gyermekotthon vezetője, a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet igazgatója a gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló gyermekre tekintettel járó családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és a gyermek teljes körű ellátásának kiegészítésére biztosítja annak személyre szóló felhasználását. A szociális intézmény vezetője a családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és biztosítja annak személyre szóló felhasználását.
+13. § A gyermekotthon vezetője, a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet igazgatója a gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló gyermekre tekintettel járó családi pótlék teljes összegét a gyermek teljes körű ellátására vagy ellátásának kiegészítésére használja fel. A szociális intézmény vezetője a szociális intézményben elhelyezett gyermekre tekintettel járó családi pótlék teljes összegét a teljes körű ellátás biztosítására vagy annak kiegészítésére használja fel.
 
 14. § Amennyiben a tizennyolcadik életévét betöltött személynek rendszeres jövedelme van, úgy a rá tekintettel vagy a részére megállapított családi pótlék folyósítását a negyedik hónaptól mindaddig szüneteltetni kell, amíg rendszeres jövedelemmel rendelkezik. A szüneteltetés a 12. § (1) bekezdése szerinti számítást nem érinti.
 
@@ -433,6 +433,8 @@ gyermek mulasztott.
 - g) a jogosult, a jogosult házastársának, bejegyzett élettársának, élettársának, továbbá a nagykorú gyermek jövedelmére vonatkozó adat;
 - h) az ellátásra jogosító gyermek tartós betegségére, súlyos fogyatékosságára vonatkozó adat;
 - i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat.
+
+(2a) A (2) bekezdés h) pontja szerinti adatkör tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az igényelbíráló szerv a (2) bekezdés szerinti adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
 

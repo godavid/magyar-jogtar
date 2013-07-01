@@ -2018,6 +2018,8 @@ számlakibocsátási kötelezettséget jelent.
 
 ### Okiratok megőrzése
 
+178/A. § Az állami adóhatóság által az együttműködő közösségekről, a pénzforgalmi elszámolást választó adózókról és az MNB, illetve az EKB által hivatalosan közzétett árfolyamot alkalmazó adózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
 179. § (1) Minden személy, szervezet, aki (amely) e törvényben szabályozott jogot gyakorol, illetőleg akire (amelyre) e törvény kötelezettséget állapít meg, köteles az adómegállapítás hiánytalan és helyes volta ellenőrizhetőségének érdekében az általa vagy nevében kibocsátott, valamint a birtokában levő vagy egyéb módon rendelkezésére álló okiratot legalább az adó megállapításához való jog elévüléséig megőrizni.
 
 (2) Az (1) bekezdés szerinti megőrzési kötelezettség papír alapú okirat esetében a kibocsátásra kötelezett részéről a másodlati példányra, a befogadó részéről az okirat eredeti példányára, vagy – ha azt e törvény nem zárja ki – eredeti példány hiányában annak hiteles másolatára vonatkozik. A megőrzési kötelezettség teljesíthető a papír alapon kibocsátott okirat elektronikus formában történő megőrzésével is. Elektronikus okirat kizárólag elektronikus formában őrizhető meg. A kötelezettség teljesítését nem befolyásolja az elektronikus okirat formátumának a 168/A. §-ban foglalt követelményeknek megfelelő megváltoztatása. A megőrzési kötelezettség elektronikus formában történő teljesítése esetén az adóalanynak elektronikusan kell megőriznie a számla eredetének hitelességét, adattartalma sértetlenségét biztosító adatokat is.
@@ -3183,6 +3185,50 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (7) E törvénynek a Mód3 törvénnyel megállapított 251/A. §-a a belföldön nem letelepedett adóalanyok 2013. évi adóvisszatérítési időszakaira vonatkozó adó-visszatéríttetési kérelmeire alkalmazandó először.
 
+282. § (1) E § alkalmazásában
+
+- a) Közösség: a Horvát Köztársaság csatlakozása előtti Közösség területe;
+- b) kibővült Közösség: a Horvát Köztársaság csatlakozása utáni Közösség területe;
+- c) csatlakozás: a Horvát Köztársaság csatlakozása az Európai Unióhoz.
+
+(2) A terméknek teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alá vagy a 111. § (1) bekezdésében meghatározott eljárások egyikének hatálya alá helyezése időpontjában hatályos rendelkezéseket a Horvát Köztársaság csatlakozását követően továbbra is alkalmazni kell ezen termékeknek az említett eljárások hatálya alóli kikerüléséig, feltéve, hogy a következő feltételek együttesen teljesülnek:
+
+- a) a terméket a Közösségbe vagy a Horvát Köztársaságba a csatlakozást megelőzően importálták;
+- b) a termék a Közösségbe vagy a Horvát Köztársaságba történő importja óta ezen eljárás hatálya alatt áll;
+- c) a termék a csatlakozást megelőzően nem került ki ezen eljárás hatálya alól.
+
+(3) A terméknek árutovábbítási eljárás hatálya alá történő helyezésekor hatályos rendelkezéseket a Horvát Köztársaság csatlakozását követően továbbra is alkalmazni kell ezen terméknek az említett eljárás hatálya alóli kikerüléséig, feltéve, hogy a következő feltételek együttesen teljesülnek:
+
+- a) a termék a csatlakozást megelőzően került az árutovábbítási eljárás hatálya alá;
+- b) a termék a csatlakozást megelőzően nem került ki ezen eljárás hatálya alól.
+
+(4) Termékimportnak minősül a Horvát Köztársaságban vagy a Közösségben bizonyíthatóan szabad forgalomban lévő terméknek
+
+- a) az ideiglenes behozatalra vonatkozó szabályozás vagy a 111. § (1) bekezdésében meghatározott eljárások egyike alóli vagy ezen eljárások egyikének megfelelő olyan eljárás hatálya alóli kikerülése, amelynek hatálya alá a csatlakozást megelőzően került a (2) bekezdésben meghatározott feltételek szerint;
+- b) az árutovábbítási eljárás hatálya alóli kikerülése, ha ezen eljárás alá a termék a Horvát Köztársaság területén a csatlakozást megelőzően került abból a célból, hogy azt az adóalanykényt eljáró személy ezen időpontot megelőzően ellenérték fejében értékesítse.
+
+(5) Termékimportnak minősül az is, ha a csatlakozást követően az adóalany vagy nem adóalany olyan terméket használ a tagállam területén, amelyet a csatlakozást megelőzően értékesítettek számára a Közösség vagy a Horvát Köztársaság területén, feltéve, hogy a következő feltételek együttesen teljesülnek:
+
+- a) ezen termék értékesítésére adómentesség vonatkozik a 98. § értelmében vagy a Horvát Köztársaságban érvényben lévő egyenértékű rendelkezés értelmében;
+- b) a csatlakozást megelőzően nem történt meg ezen termék importja a Horvát Köztársaság vagy a Közösség területére.
+
+(6) A (4) bekezdésében meghatározott esetekben az importot abban a tagállamban kell teljesítettnek tekinteni, amelynek területén a termék kikerül azon eljárás alól, amelynek hatálya alá a csatlakozást megelőzően került.
+
+(7) Nem keletkezik adófizetési kötelezettség a (4) és (5) bekezdésben meghatározott termékimportnak minősülő esetekben, feltéve, hogy a következő feltételek valamelyike teljesül:
+
+- a) az importált terméket a kibővült Közösségen kívülre adják fel vagy fuvarozzák el;
+- b) az ideiglenes behozatal következtében a (4) bekezdés a) pontja értelmében importált termék nem közlekedési eszköz és abba a tagállamba adják fel vagy fuvarozzák el, ahonnan azt exportálták azon személy részére, aki (amely) azt exportálta;
+- c) az ideiglenes behozatal következtében a (4) bekezdés a) pontja értelmében importált termék olyan közlekedési eszköz, amelyet a csatlakozást megelőzően szereztek be vagy importáltak a Horvát Köztársaságba vagy a Közösség valamelyik tagállamába a hazai piacára vonatkozó adózási rendet szabályozó általános szabályok alapján, vagy amely nem részesült export címén Héa-mentességben vagy –visszatérítésben.
+
+(8) A (7) bekezdés c) pontjában említett feltétel teljesítettnek minősül a következő esetekben:
+
+- a) a közlekedési eszköz első forgalomba helyezésének időpontja és az Európai Unióhoz történő csatlakozás időpontja között több, mint nyolc év telt el;
+- b) ha az import címén fizetendő adó összege elhanyagolható.
+
+283. § (1) E törvénynek a Mód3 törvénnyel megállapított 9. számú melléklet 11/A. pontját azokban az esetekben kell alkalmazni először, amelyekben az adófizetési kötelezettség 2013. július 1. napján vagy azt követően keletkezik.
+
+(2) A Horvát Köztársaságban gazdasági céllal letelepedett adóalanyokat az Áfa tv. XVIII. Fejezetében szabályozott adó-visszatéríttetési jog az ott meghatározott feltételek fennállása mellett a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása napján vagy azt követően belföldön teljesített ügyletek tekintetében illeti meg. A Horvát Köztársaságban letelepedett adóalanyok esetében a 2013. évi adóvisszatérítési időszakra vonatkozóan benyújtott adó-visszatéríttetési kérelmekre a 251/B. § (2) bekezdés b) pontjában foglalt összeget időarányosan kell figyelembe venni.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3568,27 +3614,11 @@ B. pont
 
 #### Az „adó” kifejezés jelentése a Közösség egyes tagállamaiban
 
-- 1. A Belga Királyság esetében: Belasting over de toegevoegde waarde (BTW), illetőleg Taxe sur la valeur ajoutée (TVA);
-- 2. a Bolgár Köztársaság esetében: Danak varhu dobavena stojnost;
-- 3. Ciprus esetében: Foros Prostithemenis Aksias (FPA);
-- 4. a Cseh Köztársaság esetében: Daň z přidané hodnoty (DPH);
-- 5. a Dán Királyság esetében: Merværdiafgift (Moms);
-- 6. az Egyesült Királyság esetében: Value Added Tax (VAT);
-- 7. az Észt Köztársaság esetében: Käibemaksu;
-- 8. a Finn Köztársaság esetében: Arvonlisävero (ALV);
-- 9. a Francia Köztársaság esetében: Taxe sur la valeur ajoutée (TVA);
-- 10. a Görög Köztársaság esetében: Foros Prostithemenis Aksias (FPA);
-- 11. a Holland Királyság esetében: Belasting over de toegevoegde waarde (BTW);
-- 12. Írország esetében: Cáin Bhreisluacha, illetőleg Value Added Tax (VAT);
-- 13. a Lengyel Köztársaság esetében: Podatek od towarow i usług;
-- 16. a Luxemburgi Nagyhercegség esetében: Taxe sur la valeur ajoutée (TVA);
-- 17. a Máltai Köztársaság esetében: It-Taxxa Fuq Il-Valur Mizjud;
-- 18. Magyarország esetében: Általános forgalmi adó (ÁFA);
-- 19. a Németországi Szövetségi Köztársaság esetében: Umsatzsteuer (USt);
-- 20. az Olasz Köztársaság esetében: Imposta sul valore aggiunto (IVA);
-- 21. az Osztrák Köztársaság esetében: Umsatzsteuer (USt);
-- 22. a Portugál Köztársaság esetében: Imposto sobre o Valor Acrescentado (IVA);
-- 23. Románia esetében: Taxa pe valoarea adăugată (TVA);
-- 25. a Svéd Királyság esetében: Mervärdesskatt (Moms);
-- 26. a Szlovák Köztársaság esetében: Daň z pridanej hodnoty (DPH);
-- 27. a Szlovén Köztársaság esetében: Davek na dodano vrednost.
+| 1. A Belga Királyság esetében: Belasting over de toegevoegde waarde (BTW), illetőleg Taxe sur la valeur ajoutée (TVA); 2. a Bolgár Köztársaság esetében: Danak varhu dobavena stojnost; 3. Ciprus esetében: Foros Prostithemenis Aksias (FPA); 4. Cseh Köztársaság esetében: Daň z přidané hodnoty (DPH); |  |  |
+| --- | --- | --- |
+|  |  |  |
+| 6. az Egyesült Királyság esetében: Value Added Tax (VAT); 7. az Észt Köztársaság esetében: Käibemaksu; 8. a Finn Köztársaság esetében: Arvonlisävero (ALV); 9. a Francia Köztársaság esetében: Taxe sur la valeur ajoutée (TVA); 10. a Görög Köztársaság esetében: Foros Prostithemenis Aksias (FPA); 11. a Holland Királyság esetében: Belasting over de toegevoegde waarde (BTW); 11/A. a Horvát Köztársaság esetében: Porez na dodanu vrijednost (PDV); 12. Írország esetében: Cáin Bhreisluacha, illetőleg Value Added Tax (VAT); 13. a Lengyel Köztársaság esetében: Podatek od towarow i usług; |  |  |
+|  |  |  |
+| 16. a Luxemburgi Nagyhercegség esetében: Taxe sur la valeur ajoutée (TVA); 17. a Máltai Köztársaság esetében: It-Taxxa Fuq Il-Valur Mizjud; 18. Magyarország esetében: Általános forgalmi adó (ÁFA); 19. a Németországi Szövetségi Köztársaság esetében: Umsatzsteuer (USt); 20. az Olasz Köztársaság esetében: Imposta sul valore aggiunto (IVA); 21. az Osztrák Köztársaság esetében: Umsatzsteuer (USt); 22. a Portugál Köztársaság esetében: Imposto sobre o Valor Acrescentado (IVA); 23. Románia esetében: Taxa pe valoarea adăugată (TVA); |  |  |
+|  |  |  |
+| 25. a Svéd Királyság esetében: Mervärdesskatt (Moms); 26. a Szlovák Köztársaság esetében: Daň z pridanej hodnoty (DPH); 27. a Szlovén Köztársaság esetében: Davek na dodano vrednost. |  |  |

@@ -392,7 +392,7 @@ szükséges.
 - j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 - k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
-(4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A nyilvántartásban szereplő adatok közhitelesek. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
+(4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
 
 (5) A nyilvántartás tartalmazza
 
@@ -406,6 +406,8 @@ szükséges.
 - c) a fenntartó képviseletére jogosult személy nevét,
 - d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat,
 - e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt intézmény iratainak őrzési helyét.
+
+(5a) A hivatal és a kormányhivatal által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6) Ha a köznevelési intézmény székhelye megváltozik, a (2) bekezdésben foglaltak szerint újra nyilvántartásba kell venni, feltéve hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
 
@@ -630,23 +632,25 @@ rendkívüli szünetet rendel el.
 
 #### 24. A katonai és rendvédelmi köznevelési intézményekre vonatkozó külön rendelkezések
 
-36. § (1) A Magyar Honvédség, valamint a rendvédelmi szervek részére köznevelési intézményt csak a honvédelemért vagy a rendvédelmi szerv irányításáért felelős miniszter létesíthet és tarthat fenn. A miniszter a 83–85. §-ban meghatározott fenntartói kötelezettségek teljesítésével és jogok gyakorlásával megbízhatja – a köznevelési intézmény létesítése, megszüntetése, tevékenységi körének megállapítása és módosítása kivételével – az ágazatához tartozó szervet, szervezetet vagy intézményt.
+36. § (1) A Magyar Honvédség, valamint a rendvédelmi szervek részére nevelési-oktatási intézményt csak a honvédelemért felelős miniszter vagy a rendvédelmi szerv irányításáért felelős miniszter létesíthet, és tarthat fenn. A miniszter a 83–85. §-ban meghatározott fenntartói kötelezettségek teljesítésével és jogok gyakorlásával megbízhatja – a nevelési-oktatási intézmény létesítése, megszüntetése, tevékenységi körének megállapítása, és módosítása kivételével – az ágazatához tartozó szervet, szervezetet vagy intézményt.
 
-(2) Ha nemzetközi szerződés másképp nem rendelkezik, a Magyar Honvédség, valamint a rendvédelmi szervek iskolája tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár vagy bevándorlási engedéllyel rendelkezik, szolgálatra alkalmas. Ezekben az iskolákban az SZMSZ a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
+(2) Ha nemzetközi szerződés másképp nem rendelkezik, a rendvédelmi szervek által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár vagy bevándorlási engedéllyel rendelkezik, és a szolgálatra alkalmas. A Magyar Honvédség által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár, a felvétel évében a 23. életévét nem tölti be, cselekvőképes, a szolgálatra alkalmas és vállalja, hogy a katonai szakképzés idejére honvéd altiszt-jelölti szolgálati viszonyt létesít, és tart fenn. A rendvédelmi szervek által fenntartott nevelési-oktatási intézményben SZMSZ, a Magyar Honvédség által fenntartott nevelési-oktatási intézmény esetében jogszabály a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
 
 (3) Ha a szakközépiskola, a szakiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 (4) Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,
 
 - a) a szakközépiskola és a szakiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
-- b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, katonai szabályok és a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
-- c) az SZMSZ, házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára a Magyar Honvédségben és a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, továbbá ezek megsértése miatt fegyelmi eljárás kezdeményezhető,
+- b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
+- c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára – a fenntartás függvényében – a Magyar Honvédségben érvényesülő, vagy a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,
 - d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
 - e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást,
 - f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
-- g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan – írásbeli megállapodásban – a törvény szabályaitól el lehet térni,
+- g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén írásbeli megállapodásban, a honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén jogszabályban e törvény szabályaitól el lehet térni,
 - h) országos feladatot ellátó intézménynek minősül,
 - i) a 60. § (2) bekezdés b) pontja szerinti életkori határ a katonai szakképesítések esetén huszonnégy év.
+
+(5) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel altiszt-jelölti szolgálati viszonyban álló tanulók és a szolgálati viszonyban álló pedagógusok jogviszonyára, az intézményvezető megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
 
 #### 25. A köznevelés rendszerében hozott döntésekkel kapcsolatos szabályok
 
@@ -758,7 +762,8 @@ tekintetében.
 - d) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
 - e) az igényjogosultság elbírálásához és igazolásához szükséges adatai az igénybe vehető állami támogatás igénylése céljából a fenntartó részére,
 - f) a számla kiállításához szükséges adatai a tankönyvforgalmazókhoz,
-- g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítványokat nyilvántartó szervezetnek a bizonyítványok nyilvántartása céljából, továbbá a nyilvántartó szervezettől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez
+- g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítványokat nyilvántartó szervezetnek a bizonyítványok nyilvántartása céljából, továbbá a nyilvántartó szervezettől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
+- h) a Magyar Honvédség központi személyügyi szerve részére a honvédelemért felelős miniszter által fenntartott köznevelési intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a (4) bekezdés d) és e) pontja szerinti adat,
 
 továbbítható.
 
@@ -1244,6 +1249,19 @@ fegyelmi büntetés szabható ki.
 
 (4) A pedagógusok tevékenységét szakértők, szaktanácsadók segítik. A szaktanácsadó feladata a pedagógusok munkájának szakirányú (tantárgyi vagy sajátos pedagógiai területen igényelt) segítése, véleményezése, konzultációk, továbbképzések, szakmai fórumok szervezése. A szaktanácsadó központi szakmai irányítás mellett látja el feladatait. Szaktanácsadói megbízást kizárólag az kaphat, aki pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettséggel és szakképzettséggel, pedagógus-szakvizsgával, valamint a nevelő-oktató munkában eltöltött legalább tízéves szakmai gyakorlattal rendelkezik. A szaktanácsadó pedagógiai-szakmai szolgáltatást nyújtó intézmény alkalmazásában áll vagy egyéb köznevelési intézmény alkalmazottja vagy onnan öt évnél nem régebben ment nyugdíjba.
 
+(4a) Az Oktatáskutató és Fejlesztő Intézet a szaktanácsadókról névjegyzéket vezet. Az Oktatáskutató és Fejlesztő Intézet döntése elleni fellebbezést az oktatásért felelős miniszter bírálja el.
+
+(4b) A szaktanácsadói névjegyzék tartalmazza a szaktanácsadó
+
+- a) természetes személyazonosító és lakcímadatát,
+- b) végzettségét és szakképzettségét,
+- c) a szakterületének jogszabályban meghatározott megnevezését,
+- d) nyilvántartásba-vételi számát.
+
+(4c) A (4a) bekezdés szerinti névjegyzék a (4b) bekezdés c)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4d) A szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
+
 (5)
 
 (6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézményben alkalmazottak felett a helyi munkaszervezéssel összefüggő, az állami intézményfenntartó központ szervezeti és működési szabályzatában meghatározott egyes átruházott munkáltatói jogokat gyakorol.
@@ -1641,15 +1659,34 @@ figyelembe veszi.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
 
-(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet, amely tartalmazza a köznevelési szakértői tevékenység folytatására jogosult személy természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. A névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
+
+- a) természetes személyazonosító és lakcímadatát,
+- b) munkahelyét,
+- c) jogszabályban meghatározott szakterületét, szakirányát,
+- d) nyilvántartásba-vételi számát,
+- e) szakértői igazolásának számát.
+
+(4a) A (4) bekezdés szerinti névjegyzék a (4) bekezdés c)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (5) Az (1) bekezdés szerinti tevékenység folytatását külön jogszabály továbbképzéshez vagy szakvizsga letételéhez kötheti.
 
-(6) A hivatal által vezetett Országos érettségi vizsgaelnöki névjegyzék tartalmazza azok nevét, szakterületét, lakcímét és munkahelyét, akik érettségi vizsga vizsgaelnöki megbízást kaphatnak. Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+(6) Az Országos érettségi vizsgaelnöki névjegyzék tartalmazza az érettségi vizsgaelnöki megbízás ellátására jogosult
+
+- a) természetes személyazonosító és lakcímadatát,
+- b) munkahelyét,
+- c) jogszabályban meghatározott szakterületét,
+- d) nyilvántartásba-vételi számát,
+- e) vizsgaelnöki igazolásának számát,
+- f) vizsgaelnöki igazolásának hatályát.
+
+(6a) A (6) bekezdés szerinti névjegyzék a (6) bekezdés c)–f) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(6b) Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
 
 (7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól. Szakképzés tekintetében a vizsgaelnöki névjegyzék elkészítéséről és kiadásáról a szakképzésről szóló törvény rendelkezik.
 
-(8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
+(8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6b) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
@@ -1833,6 +1870,21 @@ ellenőrzés.
 
 (9) A Magyarország területén tartózkodó menedékesek gyermekei részére az oktatásért felelős miniszter – az idegenrendészetért és menekültügyért felelős miniszter egyetértésével – ideiglenes működési engedély kiadásával engedélyezheti nevelési-oktatási intézmény működését a 90. § (1) bekezdésben meghatározott feltételek hiányában is, ha működése nem ellentétes az Alaptörvényben foglaltakkal. Az ideiglenes működési engedély egy évre szól és több alkalommal is meghosszabbítható. Az ideiglenes működési engedély iránti kérelmet az idegenrendészetért és menekültügyért felelős miniszter nyújtja be. Az ideiglenes működési engedély kiadásával egyidejűleg a nevelési-oktatási intézményt nyilvántartásba kell venni. Az ideiglenes működési engedélyben az oktatásért felelős miniszter tudomásul veszi, hogy az ideiglenes menedéket élvezők Magyarország területén gyermekeik részére megszervezték az óvodai nevelést vagy iskolai nevelés-oktatást. Az ideiglenes működési engedély nem jelenti annak elismerését, hogy a nevelési-oktatási intézmény megfelel azon ország előírásainak, ahonnan az ideiglenes menedéket élvezők Magyarország területére érkeztek, továbbá nem jelenti az iskola által kiállított bizonyítvány Magyarország részéről történő elismerését.
 
+(10) A külföldi nevelési-oktatási intézményekről vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
+(11) A (10) bekezdés alapján a külföldi nevelési-oktatási intézményekről vezetett nyilvántartás tartalmazza
+
+- a) a köznevelési intézmény
+  - aa) hivatalos nevét,
+  - ab) székhelyét és telephelyeit,
+  - ac) alapító okiratának számát,
+  - ad) nyilvántartásba-vételi számát,
+  - ae) képviseletére jogosult személy nevét,
+- b) a fenntartó
+  - ba) nevét,
+  - bb) képviseletére jogosult személy nevét,
+  - bc) Magyarországon bejegyzett címét.
+
 91. § (1) Magyar állampolgár engedély nélkül folytathat tanulmányokat külföldön és tankötelezettségét külföldi nevelési-oktatási intézményben is teljesítheti.
 
 (2) A tanköteles tanuló tanulmányainak külföldön történő folytatását – a tanköteles gyermek nyilvántartása céljából – be kell jelenteni a lakóhely, ennek hiányában tartózkodási hely szerint illetékes járási hivatalnak, vagy, ha a tanuló már hazai iskolába beiratkozott, az iskola igazgatójának.
@@ -1902,7 +1954,7 @@ egyetértésben gyakorolja.
 
 (3) Felhatalmazást kap
 
-- a) a honvédelemért felelős miniszter, hogy a Magyar Honvédség, valamint a rendvédelmi szerv irányításáért felelős miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – az oktatásért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges egészségügyi követelményeket, pályaalkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
+- a) a rendvédelmi szerv irányításáért felelős miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – az oktatásért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
 - b) az egészségügyért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait rendeletben állapítsa meg.
 
 (4) Felhatalmazás kap a Kormány, hogy
@@ -1924,7 +1976,9 @@ egyetértésben gyakorolja.
 - o) a 74. § (4) bekezdés szerinti mentesülés iránti kérelem és a 74. § (5) bekezdés szerinti vállalásra vonatkozó kérelem benyújtásának és elbírálásának szabályait,
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 - q) az állami intézményfenntartó központtal a köznevelési intézmény feladatait szolgáló ingatlan működtetése céljából köthető szerződés részletes tartalmát,
-- r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét
+- r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
+- s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
+- t) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét
 
 rendeletben állapítsa meg.
 

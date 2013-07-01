@@ -968,6 +968,10 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (3) Az eljárás alá vont személy a sértettel szemben követelést nem érvényesíthet és beszámítási kifogással nem élhet.
 
+#### 77/A. Elektronikus kapcsolattartás
+
+93/A. § A szabálysértési hatóságok – ideértve a helyszíni bírság kiszabására jogosult szerveket és személyeket is –, az ügyész, a bíróság, valamint a büntetés-végrehajtási szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton is tarthatják egymással, valamint az eljárás alá vont személlyel a kapcsolatot. E szervek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehetnek igénybe.
+
 ### XIII. Fejezet — A SZABÁLYSÉRTÉSI HATÓSÁG HATÁROZATAI
 
 #### 78. A határozat
@@ -1491,21 +1495,17 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 139. § (1) A szabálysértési elzárást a büntetések és az intézkedések végrehajtásáról szóló jogszabályban meghatározottak szerinti büntetés-végrehajtási intézetben kell végrehajtani.
 
-(2) Ha a szabálysértési elzárás büntetéssel sújtott külön gondoskodást igénylő mentális vagy fizikai állapota indokolttá teszi, a büntetés sajátos büntetés-végrehajtási intézetben is végrehajtható.
+(2)
 
 (3) A szabálysértési elzárás végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(4) A szabálysértési elzárás végrehajtása során a fiatalkorút a felnőtt korútól el kell különíteni.
+(4)
 
 140. § (1) A szabálysértési elzárást kiszabó bíróság kérelemre egészségi, családi vagy más fontos okból a szabálysértési elzárás, illetve a pénzbírság helyébe lépő szabálysértési elzárás végrehajtását legfeljebb hat hónappal elhalaszthatja. Kérelem előterjesztésének a szabálysértési elzárás megkezdésére előírt időpontig van helye.
 
 (2) A halasztást elutasító végzés ellen az elkövető és képviselője, fiatalkorú esetén a törvényes képviselő is a végzés közlésétől számított három napon belül fellebbezhet. A fellebbezést a törvényszék a beérkezéstől számított három napon belül tanácsülésen bírálja el.
 
-(3) A büntetés-végrehajtási intézet parancsnoka kérelemre engedélyezheti a szabálysértési elzárás végrehajtásának legfeljebb harminc napra történő félbeszakítását.
-
-(4) Ha az elkövető kórházi gyógykezelése szükséges és az a büntetés-végrehajtás keretei között nem megoldható, a szabálysértési elzárás végrehajtását félbe kell szakítani.
-
-(5) A félbeszakítást elutasító határozat ellen az elkövető és képviselője, fiatalkorú esetén a törvényes képviselő is a határozat közlésétől számított három napon belül a büntetés-végrehajtásért felelős miniszterhez fellebbezhet. A fellebbezést a beérkezéstől számított három napon belül kell elbírálni.
+(3)–(5)
 
 #### 105. A pénzbírság, a helyszíni bírság, a szabálysértési költség, a rendbírság valamint az okozott kár végrehajtása
 
@@ -1573,6 +1573,10 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (4) A közérdekű munka végrehajtása érdekében az állami foglalkoztatási szerv elsősorban az elkövető lakóhelye vagy tartózkodási helye szerinti település területén működő, vagy olyan közérdekű munka végzésére alkalmas munkahelyet jelöl ki, amelynek a megközelítése – az elkövető lakóhelyétől vagy tartózkodási helyétől – tömegközlekedési eszközzel az egy órát nem haladja meg. A közérdekű munka végrehajtása során az állami foglalkoztatási szerv – az elkövető egészségi állapotának és munkára való alkalmasságának figyelembevételével, a munkáltató beleegyezésével – foglalkoztatót jelöl ki a közérdekű munka végrehajtásának helyéül.
 
+(4a) Az állami foglalkoztatási szerv a munkahely kijelölésekor figyelembe veszi, hogy a foglalkoztatót a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) alapján közérdekű munka végrehajtására szolgáló munkahelyként kijelölték-e.
+
+(4b) Ha az állami foglalkoztatási szervet a pártfogó felügyelő a Bv. tvr. 64. § (1) bekezdése alapján értesítette arról, hogy a 144/A. § (1) bekezdés szerinti nyilvántartásban is szereplő foglalkoztatót közérdekű munka végrehajtására szolgáló munkahelyként jelölte ki, és a 144/A. § (2) bekezdés c) pontja alapján a foglalkoztatónál több elkövető nem állítható munkába, a foglalkoztatót a (4) bekezdés alapján közérdekű munka végrehajtásának helyéül nem lehet kijelölni.
+
 (5) A kijelölt munkahely haladéktalanul értesíti az állami foglalkoztatási szervet, ha az elkövető nem kezdi meg a közérdekű munka végzését, vagy munkakötelezettségének nem tesz eleget.
 
 (6) A közérdekű munka végzésére szolgáló munkahely kijelölése során az állami foglalkoztatási szerv figyelembe veszi a településen rendelkezésre álló, közfoglalkoztatottakat foglalkoztató gazdálkodó szervezetek munkaerőigényét is.
@@ -1627,6 +1631,8 @@ vonatkozó adatokat.
 vehető nyilvántartásba.
 
 (6) Az (5) bekezdés a)–c) pontjában meghatározott foglalkoztatók kötelesek bejelenteni, az (5) bekezdés d)–e) pontjában meghatározott foglalkoztatók bejelenthetik az állami foglalkoztatási szerv részére a (2) bekezdés a)–i) pontjaiban foglalt adatokat.
+
+(6a) Az állami foglalkoztatási szerv a pártfogó felügyelő Bv. tvr. 64. § (1) bekezdése szerinti értesítése alapján, a munkahely kijelölésének megfelelően haladéktalanul módosítja a foglalkoztatói nyilvántartásban nyilvántartott adatokat.
 
 (7) A foglalkoztatói nyilvántartásból a 157. § (1) bekezdésében meghatározott szervek, az ott meghatározott célból jogosultak adatot átvenni.
 
@@ -1963,7 +1969,7 @@ szabálysértést követ el.
 
 171. § Aki közterületen vagy nyilvános helyen olyan, a közbiztonság, közrend fenntartására irányuló tevékenységet végez, amelyre jogszabály nem jogosítja fel, vagy ilyen tevékenység látszatát kelti, szabálysértést követ el.
 
-#### 127. Tiltott kéjelgés
+#### 127. Tiltott prostitúció
 
 172. § Aki a külön törvényben, vagy törvény felhatalmazása alapján hozott önkormányzati rendeletben a szexuális szolgáltatással összefüggő korlátozást, illetve tilalmat megszegi, szabálysértést követ el.
 
@@ -2000,7 +2006,7 @@ szabálysértést követ el.
 177. § (1) Aki
 
 - a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást, orgazdaságot,
-- b) ötvenezer forintot meg nem haladó kárt okozva készpénz-helyettesítő fizetési eszközzel visszaélést, csalást, szándékos rongálást,
+- b) ötvenezer forintot meg nem haladó kárt okozva csalást, szándékos rongálást,
 - c) ötvenezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést
 
 követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabálysértést követ el.
@@ -2054,12 +2060,21 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 - a) a lőfegyver vagy lőszer gyártására, tartására, kereskedelmére, javítására vagy használatára és szállítására vonatkozó szabályokat megszegi,
 - b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, tart vagy forgalomba hoz, szabálysértést követ el.
 
+(1a) Aki
+
+- a) kézilőfegyverhez, vadászlőfegyverhez vagy sportlőfegyverhez tartozó, csekély mennyiségű lőszert engedély nélkül megszerez vagy tart,
+- b) az engedéllyel tartott kézilőfegyveréhez, vadászlőfegyveréhez vagy sportlőfegyveréhez tartozó csekély mennyiségű lőszert engedéllyel nem rendelkezőnek átad,
+
+szabálysértést követ el.
+
 (2) Aki
 
 - a) a légfegyver, gáz- és riasztófegyver, muzeális fegyver, színházi fegyver, illetve hatástalanított lőfegyver gyártására, kereskedelmére, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
 - b) a lőtér üzemeltetésére vonatkozó rendelkezéseket megszegi,
 
 szabálysértést követ el.
+
+(2a) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
 
 (3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
@@ -2221,7 +2236,7 @@ szabálysértést követ el.
 
 199. § (1) Aki
 
-- a) a kábítószerek, vagy a pszichotrop anyagokkal kapcsolatos engedély-, illetve bejelentés-köteles tevékenységek végzésének szabályait, továbbá az ezen anyagokkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó szabályokat megszegi,
+- a) a kábítószerekkel, a pszichotrop anyagokkal vagy az új pszichoaktív anyagokkal kapcsolatos engedély-, illetve bejelentésköteles tevékenységek végzésének szabályait, továbbá az ezen anyagokkal kapcsolatos adatszolgáltatási kötelezettségre vonatkozó szabályokat megszegi,
 - b) kábítószer-prekurzornak minősülő vegyi anyagokkal (jegyzékben szereplő anyagok) kapcsolatos engedély-, illetve bejelentés-köteles tevékenységek végzésének szabályait megszegi,
 
 szabálysértést követ el.
@@ -2230,14 +2245,11 @@ szabálysértést követ el.
 
 #### 153/A. Gyógyszerrendészeti szabálysértés
 
-199/A. § (1) Aki
-
-- a) engedély nélkül gyógyszert készít vagy forgalmaz, illetőleg a forgalomból kivont vagy Magyarországon nem engedélyezett gyógyszert jogosulatlanul forgalomba hoz vagy indokolatlan mennyiségben tart, Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart,
-- b) olyan gyógyszert készít vagy olyan gyógyszert hoz forgalomba, amely a vonatkozó jogszabályokban foglaltaknak nem felel meg, szabálysértést követ el.
+199/A. § (1) Aki engedély nélkül gyógyszert készít, forgalmaz, vagy Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
 
-(3) Az (1) bekezdés a) pontja alkalmazásában indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott beteg személyes szükségleteinek kielégítését célozza.
+(3) Az (1) bekezdés alkalmazásában indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott beteg személyes szükségleteinek kielégítését célozza.
 
 #### 154. Szeszesital-árusítás, -kiszolgálás és -fogyasztás tilalmának megszegése
 
@@ -2256,9 +2268,9 @@ szabálysértést követ el.
 
 201. § (1) Aki olyan helységben, vagy az ország területének olyan részében tartózkodik, ahonnan a bíróság kitiltotta, szabálysértést követ el.
 
-(2) Aki a szabálysértés miatt szabálysértési hatóság, illetve bíróság által elrendelt kitiltás szabályait megszegi, szabálysértést követ el.
+(2) Aki a bíróság jogerős határozatával elrendelt sportrendezvények látogatásától való eltiltás, vagy a szabálysértés miatt szabálysértési hatóság, illetve bíróság által elrendelt kitiltás szabályait megszegi, szabálysértést követ el.
 
-(3) Aki olyan sportrendezvényen vagy sportlétesítményben tartózkodik, ahonnan a sportról szóló törvényben, a sportrendezvény látogatásától eltiltották, szabálysértést követ el.
+(3) Aki olyan sportrendezvényen vagy sportlétesítményben tartózkodik, ahonnan a sportról szóló törvényben, a sportrendezvényen történő részvételből kizárták, szabálysértést követ el.
 
 (4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
@@ -2525,11 +2537,11 @@ ha ezzel a légi közlekedés biztonságát nem veszélyezteti, szabálysértés
 
 ### XXIX. Fejezet — AZ ÉLELMISZERLÁNC-BIZTONSÁGI ÉS FOGYASZTÓVÉDELMI SZABÁLYSÉRTÉSEK
 
-#### 185. Áru hamis megjelölése
+#### 185. Versenytárs utánzása
 
-231. § (1) Aki árut – a versenytárs hozzájárulása nélkül – olyan jellegzetes külsővel, csomagolással, megjelöléssel vagy elnevezéssel állít elő, amelyről a versenytárs, vagy annak jellegzetes tulajdonsággal rendelkező áruja ismerhető fel, vagy ilyen árut forgalomba hozatal céljából megszerez, tart, illetőleg forgalomba hoz, feltéve, hogy az áru értéke a százezer forintot nem haladja meg, szabálysértést követ el.
+231. § (1) Aki a versenytárs hozzájárulása nélkül árut olyan jellegzetes külsővel, csomagolással, megjelöléssel vagy elnevezéssel állít elő, amelyről a versenytárs, vagy annak jellegzetes tulajdonsággal rendelkező áruja ismerhető fel, vagy ilyen árut forgalomba hozatal céljából megszerez, tart, illetőleg forgalomba hoz, feltéve, hogy az áru értéke a százezer forintot nem haladja meg, szabálysértést követ el.
 
-(2) Ha a cselekmény elkövetését a Nemzeti Adó- és Vámhivatal vámszerve észleli vagy a feljelentést a Nemzeti Adó- és Vámhivatalnál teszik, a szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszervének hatáskörébe tartozik.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
 
 #### 186. Árdrágítás
 
@@ -2561,10 +2573,9 @@ szabálysértést követ el.
 
 #### 190. Rossz minőségű termék forgalomba hozatala
 
-236. § (1) Aki
+236. § (1) Aki rossz minőségű terméket jó minőségű termékként előállít, értékesít, használatba ad, illetve forgalomba hoz, vagy ezek iránt intézkedik, feltéve, hogy a termék értéke a százezer forintot nem haladja meg, szabálysértést követ el.
 
-- a) rossz minőségű terméket jó minőségű termékként előállít, értékesít, használatba ad, illetve forgalomba hoz, vagy ezek iránt intézkedik,
-- b) szabálysértést követ el.
+(1a) Az (1) bekezdés alkalmazásában rossz minőségű a termék, ha a jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, ilyen előírás hiányában akkor, ha a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
@@ -2577,6 +2588,32 @@ szabálysértést követ el.
 #### 192. Élelmiszer engedély nélküli előállítása, forgalomba hozatala
 
 238. § Aki élelmiszer-előállítási vagy -forgalmazási tevékenységet engedély vagy bejelentés nélkül végez, szabálysértést követ el.
+
+### XXIX/A. Fejezet — A SZELLEMI TULAJDON ELLENI SZABÁLYSÉRTÉSEK
+
+#### 192/A. Szerzői vagy szerzői joghoz kapcsolódó jogok megsértése
+
+238/A. § (1) Aki
+
+- a) másnak vagy másoknak a szerzői jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát vagy jogait százezer forintot meg nem haladó vagyoni hátrányt okozva megsérti,
+- b) a szerzői jogról szóló törvény szerint a magáncélú másolásra tekintettel a szerzőt, illetve a kapcsolódó jogi jogosultat megillető, százezer forintot meg nem haladó üreshordozó díj, illetve reprográfiai díj megfizetését elmulasztja,
+
+szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+
+(3) Nem valósítja meg az (1) bekezdés a) pontja szerinti szabálysértést, aki másnak vagy másoknak a szerzői jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát vagy jogait többszörözéssel vagy lehívásra történő hozzáférhetővé tétellel sérti meg, feltéve, hogy a cselekmény jövedelemszerzés célját közvetve sem szolgálja.
+
+#### 192/B. Iparjogvédelmi jogok megsértése
+
+238/B. § (1) Aki a jogosultnak törvény, törvénnyel kihirdetett nemzetközi szerződés vagy európai uniós jogi aktus alapján fennálló szabadalmi oltalom, növényfajta-oltalom, kiegészítő oltalmi tanúsítvány, védjegyoltalom, földrajziárujelző-oltalom, formatervezésiminta-oltalom, használatiminta-oltalom, topográfiaoltalom alapján fennálló jogát
+
+- a) az oltalom tárgyának utánzásával vagy átvételével,
+- b) az oltalom tárgyának utánzásával vagy átvételével előállított áru forgalomba hozatalával, vagy az ilyen áru forgalomba hozatal céljából való megszerzésével vagy tartásával
+
+megsérti, és ezzel százezer forintot meg nem haladó vagyoni hátrányt okoz, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
 
 ### XXX. Fejezet — A JÁRVÁNYÜGYI, ERDŐVÉDELMI, MEZŐ-, ERDŐ- ÉS VÍZGAZDÁLKODÁSI SZABÁLYSÉRTÉSEK
 

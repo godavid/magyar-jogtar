@@ -271,6 +271,8 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 19. § (1) A 18–18/A. §-ban szabályozott nyilvántartásból a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, rehabilitációs hatóság, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban: adatigénylésre jogosult szervek) részére – külön törvényben meghatározott feladataik ellátása céljából – eseti megkeresésük alapján továbbíthatók az általuk törvény alapján kezelhető adatok.
 
+(1a) A 18. §-ban szabályozott nyilvántartás a 18. § f) pont szerinti adatkör tekintetében, a 18/A. § szerinti nyilvántartás a 18/A. § f) pont szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában vagy a 43/B. § alapján ápolási díjban, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a jegyző, illetve a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
 (3) A jegyző az aktív korúak ellátására jogosultak tekintetében a 18. § a)–c), f), valamint h) pontjaiban meghatározott adatokról az állami foglalkoztatási szervet – annak törvényben meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
@@ -1043,7 +1045,11 @@ a jegyző, illetve a járási hivatal a kérelmet érdemi vizsgálat nélkül el
 - d) a közgyógyellátásra való jogosultság megállapításáról döntést hozó szerv megnevezését és határozatának számát,
 - e) a jogosult betegségének BNO kódját,
 - f) a jogosult számára megállapított, a jogosultsági időtartam alatt még felhasználható és az 50/E. §-ban szabályozott időszakban még rendelkezésre álló gyógyszerkeretének összegét,
-- g) a jogosult közgyógyellátási igazolványának számát.
+- g) a jogosult közgyógyellátási igazolványának számát,
+- h) a támogatás jogcímét (alanyi, normatív, méltányossági),
+- i) a közgyógyellátásra jogosult által a közgyógyellátás terhére igénybe vett gyógyszert és gyógyászati segédeszközt.
+
+(3a) A (2) bekezdés szerinti nyilvántartás a (3) bekezdés c)–i) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A nyilvántartás adatainak megismerésére – a (3) bekezdés e) pontja szerinti adat kivételével – az 51. §-ban meghatározott módon és célból a működési engedéllyel rendelkező gyógyszertár jogosult.
 
@@ -1413,10 +1419,7 @@ miatt.
 
 ### Jelzőrendszeres házi segítségnyújtás
 
-65. § (1) A jelzőrendszeres házi segítségnyújtás a saját otthonukban élő, egészségi állapotuk és szociális helyzetük miatt rászoruló, a segélyhívó készülék megfelelő használatára képes időskorú vagy fogyatékos személyek, illetve pszichiátriai betegek részére az önálló életvitel fenntartása mellett felmerülő krízishelyzetek elhárítása céljából nyújtott ellátás. Jelzőrendszeres házi segítségnyújtást biztosíthat
-
-- a) a házi segítségnyújtást végző szolgáltató, illetve intézmény, vagy
-- b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, az önkormányzati társulás és a 86. § (2) bekezdésének c) pontja szerinti önkormányzat, úgy, hogy a házi segítségnyújtást a 90. § (4) bekezdése szerinti megállapodás útján biztosítja.
+65. § (1) A jelzőrendszeres házi segítségnyújtás a saját otthonukban élő, egészségi állapotuk és szociális helyzetük miatt rászoruló, a segélyhívó készülék megfelelő használatára képes időskorú vagy fogyatékos személyek, illetve pszichiátriai betegek részére az önálló életvitel fenntartása mellett felmerülő krízishelyzetek elhárítása céljából nyújtott ellátás.
 
 (2) A jelzőrendszeres házi segítségnyújtás keretében biztosítani kell
 
@@ -1424,7 +1427,12 @@ miatt.
 - b) a segélyhívás okául szolgáló probléma megoldása érdekében szükséges azonnali intézkedések megtételét,
 - c) szükség esetén további egészségügyi vagy szociális ellátás kezdeményezését.
 
-(3) A fogyatékos személyek, illetve a pszichiátriai betegek részére nyújtott jelzőrendszeres házi segítségnyújtás ellátója együttműködik a támogató szolgáltatást, illetve a pszichiátriai betegek részére közösségi alapellátást nyújtó szolgáltatóval.
+(3) A jelzőrendszeres házi segítségnyújtás ellátója
+
+- a) fogyatékos személyek, illetve pszichiátriai betegek részére nyújtott ellátás esetében a támogató szolgáltatást, illetve a pszichiátriai betegek részére közösségi alapellátást nyújtó szolgáltatóval,
+- b) idősek, krónikus betegek részére nyújtott ellátás esetében a területi házi segítségnyújtó szolgálattal
+
+együttműködik.
 
 (4) A jelzőrendszeres házi segítségnyújtás igénybevétele szempontjából szociálisan rászorult
 
@@ -1435,6 +1443,8 @@ miatt.
 (5) A (4) bekezdés c) pontja szerinti esetben a háztartásban élő kiskorú személyt nem kell figyelembe venni.
 
 (6) A súlyos fogyatékosságot a 65/C. § (5)–(7) bekezdése szerint, a pszichiátriai betegséget és az egészségi állapot miatti indokoltságot külön jogszabály szerint kell igazolni.
+
+(7) A jelzőrendszeres házi segítségnyújtás biztosítása állami feladat.
 
 ### Közösségi ellátások
 
@@ -2575,7 +2585,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 és bentlakásos ellátás esetében a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona nincs.
 
-115. § (1) A személyes gondoskodás körébe tartozó szociális ellátások térítési díja (a továbbiakban: intézményi térítési díj) a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás egy főre jutó összegének, támogató szolgáltatás és jelzőrendszeres házi segítségnyújtás esetén a szolgáltatási önköltség és a szolgáltatás külön jogszabály szerinti költségvetési támogatásának különbözete. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, a közös költségelemek szolgáltatásonkénti közvetlen költségeinek arányában történő megosztásával. Emelt színvonalú bentlakásos ellátás esetében az intézményi térítési díjat az előző évben ténylegesen igénybe vett központi költségvetésről szóló törvényben biztosított támogatással kell számítani.
+115. § (1) A személyes gondoskodás körébe tartozó szociális ellátások térítési díja (a továbbiakban: intézményi térítési díj) a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás egy főre jutó összegének, támogató szolgáltatás esetén a szolgáltatási önköltség és a szolgáltatás külön jogszabály szerinti költségvetési támogatásának különbözete. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, a közös költségelemek szolgáltatásonkénti közvetlen költségeinek arányában történő megosztásával. Emelt színvonalú bentlakásos ellátás esetében az intézményi térítési díjat az előző évben ténylegesen igénybe vett központi költségvetésről szóló törvényben biztosított támogatással kell számítani.
 
 (2) A kötelezett által fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető konkrét összegben állapítja meg, és arról az ellátást igénylőt a megállapodás megkötésekor írásban tájékoztatja. Az önkormányzati fenntartó a személyi térítési díjat határozattal is megállapíthatja. A személyi térítési díj nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
 
@@ -2861,7 +2871,7 @@ kaphatnak.
 
 131. § A szociális szakmai programok meghirdetésével kell elősegíteni a fenntartó számára a szociális intézmények olyan mértékű fejlesztésének támogatását, hogy az érintett önkormányzatok eleget tudjanak tenni az e törvényben előírt kötelezettségüknek.
 
-131/A. § A támogató szolgáltatások, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások és 2012. január 1-jétől az utcai szociális munka működtetését az állam – a külön jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
+131/A. § A támogató szolgáltatások, a közösségi ellátások és 2012. január 1-jétől az utcai szociális munka működtetését az állam – a külön jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
 
 131/B. § Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális szolgáltatások fenntartásának költségeit az állam feladatfinanszírozás útján biztosítja.
 
@@ -2883,7 +2893,7 @@ kaphatnak.
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 - o) a szociális intézmények, szolgáltatók országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését;
-- p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
+- p) a támogató szolgáltatás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;
 - s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;

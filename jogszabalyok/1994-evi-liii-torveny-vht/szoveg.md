@@ -60,9 +60,9 @@ a bírósági végrehajtásról
 - a) a bíróság és a közjegyző által kiállított végrehajtási lap,
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
 - c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
-- d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
+- d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 - e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
-- f) a bűnügyi zárlatot elrendelő határozat,
+- f) a bűnügyi zárlatot elrendelő és az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozat,
 - g) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
 - h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
 
@@ -660,7 +660,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 - f) az igazolvány, valamint a személyazonosítóról és a lakcímről szóló hatósági igazolvány okmányazonosítója és az okmányazonosító alapján nyilvántartott következő tények:
   - fa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 17. §-ának (4) bekezdése szerinti tények,
   - fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) pontja szerinti tények és az okmány érvényességi ideje,
-  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ának i)–j) pontjai szerinti tények,
+  - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
   - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 
 (5) A végrehajtó a végrehajtási eljárásban részt vevő jogi képviselő képviseleti jogosultságát a jogi képviselő által bemutatott ügyvédi vagy jogtanácsosi igazolvány alapján az illetékes ügyvédi kamara, illetve a jogtanácsosi névjegyzéket vezető törvényszék nyilvántartásában szereplő adatok alapján ellenőrizheti.
@@ -2232,6 +2232,22 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (9) Ha az (1) bekezdésben foglalt perben hozott határozat kizárólag pénzfizetésre kötelezést tartalmaz, a határozat végrehajtása a pénzkövetelés végrehajtására vonatkozó szabályok szerint történik.
 
+### Elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása
+
+184/B. § (1) Az elektronikus adat végleges hozzáférhetetlenné tételét elrendelő bírósági határozat végrehajtása során a 172–177. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) Az elektronikus adat végleges hozzáférhetetlenné tételéről szóló értesítésben a bíróság a kötelezettet azonnali teljesítésre hívja fel és azt megküldi a végrehajtónak.
+
+(3) A végrehajtó az értesítést személyesen kézbesíti a kötelezettnek, és ellenőrzi a kötelezett azonnali teljesítését a helyszínen; a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést, amennyiben az azonnali teljesítés feltételei nem állnak fenn.
+
+(4) Ha a végrehajtó az ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a meghatározott cselekményt, erről nyomban a teljesítési határidő lejártának napját is tartalmazó jegyzőkönyvet készít és azt legkésőbb a jegyzőkönyv készítésének napját követő munkanapon a megállapított pénzbírság kiszabása céljából beterjeszti a végrehajtást foganatosító bírósághoz.
+
+(5) A végrehajtó a pénzbírságot kiszabó határozat jogerőre emelkedését követő öt munkanapon belül ismételten – szükség esetén a helyszínen – ellenőrzi a kötelezett teljesítését.
+
+(6) Ha a végrehajtó az ismételt ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a meghatározott cselekményt a (4)–(5) bekezdés megfelelő, a teljesítés megtörténtéig ismételt alkalmazásával jár el.
+
+(7) A végrehajtás megszűnik az értesítés végrehajtó általi átvételét követő három év elteltével.
+
 ### X. Fejezet — BIZTOSÍTÁSI INTÉZKEDÉS VÉGREHAJTÁSA
 
 ### A biztosítási intézkedés elrendelésének feltételei
@@ -2367,6 +2383,18 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 (4) Ha a bíróság a biztosítási intézkedést a (2) bekezdés alapján megszünteti, a biztosítási intézkedéssel felmerült költség megtérítésére – ideértve a zárgondnok díját és költségét – a végrehajtást kérőt kötelezi.
 
 201/B. § A fizetési meghagyásos eljárás során elrendelt biztosítási intézkedést a fizetési meghagyásos eljárás perré alakulása esetén a fél kérelmére a perbíróság a kérelem beérkezésétől számított 8 napon belül felülvizsgálja, és ennek eredményeként a biztosítási intézkedés hatályát fenntartja vagy azt megszünteti.
+
+### Elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtása
+
+201/C. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét, illetve visszaállítását elrendelő bírósági határozat végrehajtása során a 172–177. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozatot a bíróság megküldi a végrehajtónak.
+
+(3) A végrehajtó a határozatot személyesen kézbesíti a kötelezettnek, és ellenőrzi a kötelezett azonnali teljesítését a helyszínen, illetve ha az azonnali teljesítés feltételei nem állnak fenn, a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést.
+
+(4) Ha a végrehajtó az ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a kötelezettséget, erről haladéktalanul – a teljesítési határidő lejártának napját is tartalmazó – jegyzőkönyvet készít, és azt legkésőbb a jegyzőkönyv készítésének napját követő munkanapon beterjeszti az elektronikus adat ideiglenes hozzáférhetetlenné tételét vagy visszaállítását elrendelő bírósághoz rendbírság kiszabása céljából.
+
+(5) Ha az elektronikus adat ideiglenes hozzáférhetetlenné tételének vagy visszaállításának elrendelése esetén a rendbírság kiszabását követően a kötelezett teljesít, és erről a végrehajtót értesíti, a végrehajtó az értesítés átvételét követő öt munkanapon belül ismételten – szükség esetén a helyszínen – ellenőrzi a kötelezett teljesítését, és az ellenőrzés eredményéről haladéktalanul tájékotatja az azt elrendelő bíróságot.
 
 ### Bűnügyi zárlat
 
@@ -2504,7 +2532,9 @@ az e Fejezetben foglaltak szerint jár el.
 
 ### Közös szabályok
 
-210/C. § A vagyonelkobzás végrehajtása során végrehajtást kérőnek az állam minősül, amelynek nevében – e törvényben foglalt kivételekkel – a vagyonelkobzásról szóló értesítést kiállító bíróság gazdasági hivatala jár el.
+210/C. § (1) A vagyonelkobzás végrehajtása során végrehajtást kérőnek az állam minősül, amelynek nevében – e törvényben foglalt kivételekkel – a vagyonelkobzásról szóló értesítést kiállító bíróság gazdasági hivatala jár el.
+
+(2) Ha a végrehajtás végrehajtás alá vonható vagyontárgy hiányában vagy a lefoglalt vagyontárgy sikertelen értékesítése miatt szünetel, a végrehajtó a szünetelésről szóló jegyzőkönyv másolatát megküldi a vagyon-visszaszerzési eljárás elrendelésére jogosult ügyész részére is.
 
 ### Pénzösszegben elrendelt vagyonelkobzás végrehajtása
 
@@ -2827,7 +2857,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
   - bd) szándékos bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított öt évig,
   - be) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
 - c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
-- d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás mellékbüntetés hatálya alatt áll,
+- d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás hatálya alatt áll,
 - e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott, a határozat jogerőre emelkedésétől számított 10 évig,
 - f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására alkalmatlan, vagy
 - g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen.
@@ -3132,7 +3162,7 @@ esetén van lehetőség.
 
 (5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány, valamint a fegyelmi büntetésként kiszabott pénzbírságok összege fedezi.
 
-250/A. § (1) A kamara a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást.
+250/A. § (1) A kamara a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés a), d–f) pontjában, a (3) bekezdés d), f), valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A végrehajtók névjegyzéke a következő adatokat tartalmazza:
 
@@ -3325,6 +3355,8 @@ kérhetnek adatszolgáltatást.
 
 (4) A kamara a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a miniszter hagyja jóvá.
 
+253/H. § A kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a Ket. szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara a Ket. alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+
 ### A végrehajtó díjazása
 
 254. § (1) A végrehajtót a tevékenységéért — a jogszabályba foglalt végrehajtói díjszabás szerint megállapított — díj és költségtérítés illeti meg.
@@ -3413,6 +3445,8 @@ kérhetnek adatszolgáltatást.
 (5) A cégjegyzékből jogerős határozattal törölt végrehajtói irodát a kamara törli a végrehajtói irodák kamarai nyilvántartásából.
 
 (6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a végrehajtói irodával szemben törvényességi felügyeleti eljárás lefolytatását.
+
+(7) A végrehajtói irodák nyilvántartása – a 254/G. § (1) bekezdés a), b), e) pontjában foglalt adatok, valamint a 254/G. § (1) bekezdés c) pontjában a végrehajtói iroda tagjainak természetes személyazonosító, valamint lakcímazonosító adatainak kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 254/E. § (1) A végrehajtói iroda tagjai közül végrehajtási cselekményt a végrehajtási eljárásra vonatkozó szabályok szerint csak a végrehajtó tag, illetve – a rá irányadó szabályok szerint – az iroda által foglalkoztatott végrehajtó-helyettes végezhet.
 
@@ -3844,7 +3878,7 @@ kérhetnek adatszolgáltatást.
 294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a miniszter és a kamara elnöke új eljárást kezdeményezhet, ha
 
 - a) olyan tényre vagy bizonyítékra, illetőleg olyan jogerős bírósági vagy hatósági határozatra hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
-- b) az alapügyben a fegyelmi bíróság valamelyik tagja a kötelességét a büntetőtörvénybe ütköző módon megszegte.
+- b) az alapügyben a fegyelmi bíróság valamelyik tagja a kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
 
 (2) Az eljárás alá vont személy terhére új eljárás kezdeményezésének csak az elévülési időn belül (269. §) és csak akkor van helye, ha az eljárás alá vont személy még szolgálatban van.
 

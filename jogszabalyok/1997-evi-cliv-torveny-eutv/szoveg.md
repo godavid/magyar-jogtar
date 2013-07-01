@@ -839,7 +839,7 @@ kötelező szűrővizsgálatát rendelheti el.
 - b) a véradásra donorként jelentkező, és a véradásban való részvételre alkalmas személy,
 - c) saját anyatejet más számára adományozó nő,
 - d) a szerv-, szövetátültetés céljából – élő személyből vagy halottból – eltávolított szervet, szövetet adományozó vagy a kivétel ellen életében tiltakozó nyilatkozatot nem tett személy,
-- e) nemi erkölcs elleni bűncselekmény, kábítószerrel való visszaélés, illetve személy elleni erőszakkal, vagy személyi sérülés okozásával elkövetett bűncselekmény elkövetésével gyanúsított, illetve vádolt olyan személy, aki az elkövetés során a fertőződést átadhatta, vagy fertőződhetett, továbbá az ilyen bűncselekmény sértettje, amennyiben a fertőződés kockázata fennáll,
+- e) a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, a kábítószer-kereskedelem, a kábítószer birtoklása, a kóros szenvedélykeltés, a kábítószer készítésének elősegítése, az új pszichoaktív anyaggal visszaélés, a 2013. június 30-ig hatályban volt visszaélés kábítószerrel, visszaélés új pszichoaktív anyaggal, illetve a személy elleni erőszakkal, vagy személyi sérülés okozásával elkövetett bűncselekmény elkövetésével gyanúsított, illetve vádolt olyan személy, aki az elkövetés során a fertőződést átadhatta, vagy fertőződhetett, továbbá az ilyen bűncselekmény sértettje, amennyiben a fertőződés kockázata fennáll,
 - f) az e) pontban meghatározottakon kívül az a személy, akinek vizsgálatát a bíróság a fertőzés lehetőségének tisztázása érdekében elrendelte,
 - g) akit külön törvény szerint erre köteleztek.
 

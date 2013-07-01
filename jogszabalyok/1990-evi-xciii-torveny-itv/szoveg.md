@@ -647,7 +647,7 @@ megszerzése;
 - 21. az ellenőrzés, hitelesítés vagy hozzájárulás céljából — jogszabály rendelkezése alapján — iratra vezetett hivatalos záradék;
 - 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
 - 23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve az adó-, a vám-, az illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása, valamint az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
-- 24. a birtokösszevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, továbbá a kisajátítási eljárás;
+- 24. a birtokösszevonási célú önkéntes földcsere megszervezése iránt az ingatlanügyi hatóságnál kezdeményezett eljárás, valamint a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, a kisajátítási eljárás, a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint a kisajátítási kérelem benyújtására kötelezés iránti eljárás;
 - 25. a járványügyi intézkedésként kezdeményezett állategészségügyi eljárás;
 - 26. közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése;
 - 27. a külkereskedelmi áruforgalomban áru kivitelének, átvitelének engedélyezésére irányuló eljárás;

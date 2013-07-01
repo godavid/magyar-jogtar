@@ -1909,7 +1909,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 (4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 41. § (8) bekezdése, az 55. § (4) bekezdése, a 86. § (8) bekezdése, a 88. § (6) bekezdése, a 89. § (1)–(3) bekezdése, (4) bekezdésének a), c)–d) pontja és (6) bekezdése, a 89/A. §-a, a 90. § (1)–(2) bekezdése és (3) bekezdésének b) pontja, (4) bekezdésének b) pontja, a 91. § c)–d) pontja, a 92. §-a, a 93. § (1)–(2) és (6) bekezdése szerinti adatokat nem kell tartalmaznia.
 
-(5) Az egyszerűsített éves beszámoló kiegészítő mellékletében a könyvvizsgáló által a 88. § (8) bekezdésének b) pontjában foglalt jogcímeken felszámított díjakat nem kell összegszerűen bemutatni, ha az tartalmazza a díjak jogcímenkénti megoszlását, és a Könyvvizsgálói Közfelügyeleti Bizottság részére, annak kérésére, a vállalkozó a díjakról részletes tájékoztatást ad.
+(5) Az egyszerűsített éves beszámoló kiegészítő mellékletében a könyvvizsgáló által a 88. § (8) bekezdésének b) pontjában foglalt jogcímeken felszámított díjakat nem kell összegszerűen bemutatni, ha az tartalmazza a díjak jogcímenkénti megoszlását, és a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság részére, annak kérésére, a vállalkozó a díjakról részletes tájékoztatást ad.
 
 (6) Az egyszerűsített éves beszámoló kiegészítő mellékletének nem kell tartalmaznia a 90. § (3) bekezdésének c) pontja szerinti mérlegen kívüli tételek és mérlegben nem szereplő megállapodások pénzügyi kihatásait.
 
@@ -2720,6 +2720,8 @@ a különbözettel.
 - h) regisztrálási szakterületét, valamint
 - i) szakmai továbbképzési kötelezettségének teljesítését.
 
+(8a) A könyvviteli szolgáltatást végzők nyilvántartása – a (8) bekezdés b) és c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
 (9) A könyvviteli szolgáltatást végzők nyilvántartása tartalmazhatja, a könyvviteli szolgáltatást végző önkéntes adatszolgáltatása alapján a nyilvántartásba felvettek
 
 - a) telefonszámát,
@@ -2766,7 +2768,7 @@ a különbözettel.
 
 152/A. § A 151. § (5) bekezdés szerinti engedélyezési eljárásért, a 152. § (2) bekezdése szerinti akkreditációs eljárásért, valamint kreditpont-minősítési eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-152/B. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező természetes személy szolgáltató Magyarország területén a 151. § (1) bekezdése szerinti könyvviteli szolgáltatás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire is figyelemmel – a nyilvántartásba vételt végző szervezetnek bejelenteni. A nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatás végzésére jogosult bejelentést tevőt nyilvántartásba veszi.
+152/B. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező természetes személy szolgáltató Magyarország területén a 151. § (1) bekezdése szerinti könyvviteli szolgáltatás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény rendelkezéseire is figyelemmel – a nyilvántartásba vételt végző szervezetnek bejelenteni. A nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatás végzésére jogosult bejelentést tevőt nyilvántartásba veszi, amely nyilvántartás – a természetes személyazonosító adatok, a lakcím és a levelezési cím kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező könyvviteli szolgáltatásnyújtó szervezet határon átnyúló szolgáltatási tevékenysége keretében a 151. § (1) bekezdése szerinti könyvviteli szolgáltatást akkor folytathat, ha a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja teljesítette az (1) bekezdés szerinti bejelentési kötelezettségét.
 
@@ -2863,7 +2865,7 @@ a különbözettel.
 
 155/A. § (1) A 155. § (6) bekezdése szerinti könyvvizsgáló vagy könyvvizsgáló cég megbízása csak megfelelő indok alapján mondható fel. A számviteli vagy a könyvvizsgálati eljárások tekintetében fennálló véleményeltérés nem minősül megfelelő indoknak.
 
-(2) A vállalkozó az ok megjelölésével közli a Könyvvizsgálói Közfelügyeleti Bizottsággal, ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a megbízásának időtartama alatt lemondott, vagy ha a megbízást a vállalkozó felmondta.
+(2) A vállalkozó az ok megjelölésével közli a könyvvizsgálói közfelügyeleti feladatokat ellátó hatósággal, ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a megbízásának időtartama alatt lemondott, vagy ha a megbízást a vállalkozó felmondta.
 
 155/B. § (1) Ha a megbízó legfőbb szerve könyvvizsgáló céget választ a könyvvizsgálói tevékenység ellátására, a személyében felelős kamarai tag könyvvizsgáló helyettesítésére – annak tartós távolléte esetére – helyettes könyvvizsgáló is kijelölhető.
 

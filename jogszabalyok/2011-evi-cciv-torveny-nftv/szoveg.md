@@ -705,6 +705,8 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 (3) Szünetel a hallgatói jogviszony, ha a hallgatót fegyelmi büntetésként eltiltják a tanulmányok folytatásától.
 
+(4) Szünetel a hallgatói jogviszony az önkéntes tartalékos katonai tényleges szolgálatteljesítés időtartamára, amely időszakban a hallgató mentesül a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározott kötelezettségek alól.
+
 ### XII. Fejezet — A MAGYAR ÁLLAMI (RÉSZ)ÖSZTÖNDÍJAS ÉS AZ ÖNKÖLTSÉGES HALLGATÓ
 
 #### 27. A költségviselés formái
@@ -1922,7 +1924,7 @@ eltérő rendelkezéseket állapíthat meg,
 
 #### 63. Az igazgatási, rendvédelmi, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
 
-104. § (1) E törvény rendelkezéseit az igazgatási, rendvédelmi, katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni.
+104. § (1) E törvény rendelkezéseit az igazgatási, a rendvédelmi, a katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében e törvényt a honvédek jogállásáról szóló törvényben foglalt eltérésekkel együtt kell alkalmazni.
 
 (2) Azokat a kérdéseket, amelyeket e törvény alapján a foglalkoztatási követelményrendszerben kell szabályozni, a felsőoktatási intézmény kollektív szerződése is szabályozhatja.
 

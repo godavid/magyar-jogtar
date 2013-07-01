@@ -581,7 +581,22 @@ osztja szét.
 
 (8) Ingatlanközvetítői, ingatlanvagyon-értékelő és -közvetítői tevékenységet folytatni kívánó személy e tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll e tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az ingatlanvállalkozás-felügyeleti hatóság részére – annak az ingatlanközvetítői, az ingatlanvagyon-értékelő és -közvetítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az ingatlanvállalkozás-felügyeleti hatóság a 64/D. § (5) bekezdésében meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
-64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság a tevékenység folytatására engedéllyel rendelkező személyekről és az arra jogosult, a 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetekről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az engedéllyel rendelkező természetes személy vagy az egyéni vállalkozó természetes személyazonosító adatait, a lakcímét, az értesítési címét, a szakképzettséget tanúsító bizonyítvány (oklevél) számát.
+64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására engedéllyel rendelkező természetes személyekről és az arra jogosult, 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetekről nyilvántartást vezet. A nyilvántartás – az (1a) bekezdés a)–f) pontjában meghatározottak kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
+
+- a) a szolgáltatási tevékenységet végző természetes személy munkáltatójának megnevezését és székhelyét,
+- b) a szolgáltatási tevékenység során használt nyelv megjelölését,
+- c) a természetes személy szolgáltatási tevékenység gyakorlására jogosító szakképesítésének az Országos Képzési Jegyzékben szereplő azonosító számát, a bizonyítvány számát, a kiállító intézmény megjelölését, a kiadás helyét és időpontját,
+- d) a szolgáltató gazdálkodó szervezet cégjegyzékszámát, egyéni vállalkozó esetén nyilvántartási számát,
+- e) a szolgáltató gazdálkodó szervezet képviseletére jogosult személy – egyéni vállalkozó esetén saját – nevét és lakóhelyét,
+- f) szolgáltató gazdálkodó szervezet esetén a szolgáltatási tevékenység végzésére igazolással rendelkező személyesen közreműködő tag vagy alkalmazott nevét,
+- g) a nyilvántartásba vétel időpontját,
+- h) nyilvántartási számát.
+
+(1b) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok – az (1a) bekezdés c) pontjában foglaltak kivételével – nyilvánosak.
+
+(1c) Az ingatlanvállalkozás-felügyeleti hatóság az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a nyilvántartásból való törlésig kezeli.
 
 (2) A nyilvántartásba vett természetes személy, egyéni vállalkozó neve, értesítési címe, szakmai tevékenységének megnevezése és a nyilvántartásba vétel száma nyilvános, amelyről bárki tájékoztatást kérhet. A nyilvántartásban szereplő minden további adatról a bíróság részére tájékoztatást lehet adni; a más – kívülálló – harmadik személy részére történő tájékoztatás megadásához az érintett természetes személy írásbeli hozzájárulása szükséges.
 

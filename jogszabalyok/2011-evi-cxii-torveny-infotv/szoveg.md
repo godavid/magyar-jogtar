@@ -36,7 +36,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - 6. közérdekből nyilvános adat: a közérdekű adat fogalma alá nem tartozó minden olyan adat, amelynek nyilvánosságra hozatalát, megismerhetőségét vagy hozzáférhetővé tételét törvény közérdekből elrendeli;
 - 7. hozzájárulás: az érintett akaratának önkéntes és határozott kinyilvánítása, amely megfelelő tájékoztatáson alapul, és amellyel félreérthetetlen beleegyezését adja a rá vonatkozó személyes adatok – teljes körű vagy egyes műveletekre kiterjedő – kezeléséhez;
 - 8. tiltakozás: az érintett nyilatkozata, amellyel személyes adatainak kezelését kifogásolja, és az adatkezelés megszüntetését, illetve a kezelt adatok törlését kéri;
-- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az általa megbízott adatfeldolgozóval végrehajtatja;
+- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
 - 10. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
 - 11. adattovábbítás: az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
 - 12. nyilvánosságra hozatal: az adat bárki számára történő hozzáférhetővé tétele;
@@ -45,7 +45,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - 15. adatzárolás: az adat azonosító jelzéssel ellátása további kezelésének végleges vagy meghatározott időre történő korlátozása céljából;
 - 16. adatmegsemmisítés: az adatokat tartalmazó adathordozó teljes fizikai megsemmisítése;
 - 17. adatfeldolgozás: az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől, feltéve hogy a technikai feladatot az adatokon végzik;
-- 18. adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely az adatkezelővel kötött szerződése alapján – beleértve a jogszabály rendelkezése alapján történő szerződéskötést is – adatok feldolgozását végzi;
+- 18. adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerződés alapján – beleértve a jogszabály rendelkezése alapján kötött szerződést is – adatok feldolgozását végzi;
 - 19. adatfelelős: az a közfeladatot ellátó szerv, amely az elektronikus úton kötelezően közzéteendő közérdekű adatot előállította, illetve amelynek a működése során ez az adat keletkezett;
 - 20. adatközlő: az a közfeladatot ellátó szerv, amely – ha az adatfelelős nem maga teszi közzé az adatot – az adatfelelős által hozzá eljuttatott adatait honlapon közzéteszi;
 - 21. adatállomány: az egy nyilvántartásban kezelt adatok összessége;
@@ -129,7 +129,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 #### 7. Adattovábbítás külföldre
 
-8. § (1) Személyes adatot e törvény hatálya alá tartozó adatkezelő harmadik országban adatkezelést folytató adatkezelő részére akkor továbbíthat, vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére akkor adhat át, ha
+8. § (1) Személyes adatot e törvény hatálya alá tartozó adatkezelő vagy adatfeldolgozó harmadik országban adatkezelést folytató adatkezelő részére akkor továbbíthat, vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére akkor adhat át, ha
 
 - a) ahhoz az érintett kifejezetten hozzájárult, vagy
 - b) az adatkezelésnek az 5. §-ban, illetve a 6. §-ban előírt feltételei teljesülnek, és – a 6. § (2) bekezdésében foglalt esetet kivéve – a harmadik országban az átadott adatok kezelése, valamint feldolgozása során biztosított a személyes adatok megfelelő szintű védelme.
@@ -167,7 +167,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 10. § (1) Az adatfeldolgozónak a személyes adatok feldolgozásával kapcsolatos jogait és kötelezettségeit e törvény, valamint az adatkezelésre vonatkozó külön törvények keretei között az adatkezelő határozza meg. Az általa adott utasítások jogszerűségéért az adatkezelő felel.
 
-(2) Az adatfeldolgozó tevékenységének ellátása során más adatfeldolgozót nem vehet igénybe.
+(2) Az adatfeldolgozó az adatkezelő rendelkezése szerint vehet igénybe további adatfeldolgozót.
 
 (3) Az adatfeldolgozó az adatkezelést érintő érdemi döntést nem hozhat, a tudomására jutott személyes adatokat kizárólag az adatkezelő rendelkezései szerint dolgozhatja fel, saját céljára adatfeldolgozást nem végezhet, továbbá a személyes adatokat az adatkezelő rendelkezései szerint köteles tárolni és megőrizni.
 
@@ -207,7 +207,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - b) személyes adatainak helyesbítését, valamint
 - c) személyes adatainak – a kötelező adatkezelés kivételével – törlését vagy zárolását.
 
-15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
+15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
 
 (2) Az adatkezelő az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából adattovábbítási nyilvántartást vezet, amely tartalmazza az általa kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
 
@@ -950,7 +950,11 @@ dönt.
 - c) a közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvnek,
 - d) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak való megfelelést szolgálja.
 
-#### 78–89. §
+78. § (1)–(2)
+
+(3)–(9)
+
+#### 79–89. §
 
 ### 1. melléklet a 2011. évi CXII. törvényhez
 
