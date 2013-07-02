@@ -965,73 +965,7 @@ adatok.
 
 #### 38. Módosító rendelkezések
 
-71. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.) 1. számú melléklet 1. pontja a következő 1.11. alponttal egészül ki:
-
-(A szociális és más ellátások közül adómentes:)
-
-„1.11. a honvédek jogállásáról szóló törvényben meghatározott kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.”
-
-72. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 16. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.”
-
-73. § (1) A Hvt. 14. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A szolgáltatások igénybevételét elrendelheti)
-
-„c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője, továbbá a (6) bekezdés szerinti esetben a lőtér és a gyakorlótér működtetéséért felelős parancsnok [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].”
-
-(2) A Hvt. 14. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője, lőterek és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésére pedig a lőtér és gyakorlótér működtetéséért felelős parancsnok jogosult.”
-
-(3) A Hvt. 27. § (4) bekezdése a következő e) ponttal egészül ki:
-
-[A helyi védelmi bizottság testületi szerv. A helyi védelmi bizottság elnöke a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) vezetője, elnökhelyettesei a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy, a honvédelmi feladatok tekintetében a Honvédség állományából szükség esetén vezényelt tényleges állományú katona. Tagjai az elnökön és az elnökhelyettesen kívül:]
-
-„e) a helyi védelmi bizottság titkára.”
-
-(4) A Hvt. 40. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A Honvédség hadrendje szerinti szervezeteknél munkavállaló kizárólag közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskör-gyakorlással közvetlenül össze nem függő munkakörben foglalkoztatható. Nem Magyarországon települő honvédségi szervezet szolgálati vagy kormányzati szolgálati jogviszonyt nem igénylő munkakörében közalkalmazott is foglalkoztatható.”
-
-(5) A Hvt. 42. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlannal határos, az államháztartás valamely alrendszerébe tartozó jogi személy vagy ennek többségi befolyásával működő gazdálkodó szervezet tulajdonában vagy vagyonkezelésében lévő közterületi ingatlan honvédelmi érdekkel összefüggő, honvédségi szervezet általi, indokolt és szükséges mértékű használatát a honvédségi szervezet erre irányuló igénybejelentése alapján – a nemzeti vagyonról szóló törvény rendelkezéseivel összhangban – ingyenesen kell biztosítani.”
-
-(6) A Hvt. 55. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a (3) bekezdés szerinti műveletet folytató többnemzeti katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma és az ezek alapján kiadott parancsok szerint harctevékenységet kell végezni, a fegyverhasználat és más kényszerítő eszközök alkalmazása során ezen dokumentumoknak a hazai jogszabályokban nem szabályozott előírásait is érvényesíteni kell. A fegyverhasználat kilátásba helyezését tartalmazó szóbeli és írásbeli figyelmeztetést –céljától függően – lehetőleg az ellenség vagy a helyi lakosság nyelvén kell megtenni.”
-
-(7) A Hvt. 39. alcíme a következő 61/A. §-sal egészül ki:
-
-„61/A. § (1) Műveleti területen végzett katonai tevékenység során a katona, amennyiben azt a műveletet folytató többnemzeti katonai szervezet műveleti utasítása, harctevékenységi előírásokat tartalmazó dokumentuma megengedi, az abban foglaltak szerint, a nemzetközi jog normáival összhangban testi sérülés okozására alkalmas kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására.
-
-(2) Az (1) bekezdés alkalmazása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.”
-
-(8) A Hvt. 81. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza)
-
-„f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, továbbá a honvédségi munkavállalóknak és a kormánytisztviselőknek nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások körét, a jogosultság feltételeit és rendjét, továbbá a külföldi szolgálatot teljesítő és külföldi képzésben részt vevő honvédségi munkavállalók és kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,”
-
-(9) A Hvt. 81. § (2) bekezdése a következő q) ponttal egészül ki:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza)
-
-„q) a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait.”
-
-74. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény a következő 16/A. §-sal egészül ki:
-
-„16/A. § A honvédségi szervezetnél beosztást betöltő, az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai alap- és mesterképzési szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.”
-
-75. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 41. § (7) bekezdése a következő h) ponttal egészül ki:
-
-(A gyermek, tanuló adatai közül)
-
-„h) a Magyar Honvédség központi személyügyi szerve részére a honvédelemért felelős miniszter által fenntartott köznevelési intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a (4) bekezdés d) és e) pontja szerinti adat,”
-
-(továbbítható.)
+71–75. §
 
 76. §
 
@@ -1325,9 +1259,7 @@ b) ha 2013. június 30-án kettővel magasabb rendfokozattal rendszeresített sz
 
 „(5) Az állomány tagja szolgálatteljesítési idejének megállapítására és ellentételezésére 2013. december 31-ig a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 2013. június 30-án hatályos 91–95. §-át, 114. § (1) bekezdés g) és h) pontját kell alkalmazni.”
 
-78. § (1) Az Szja. 1. számú melléklet 8. pont 8.16. alpontjában a „minősített időszaki” szövegrész helyébe a „különleges jogrendi” szöveg lép.
-
-(2) A Hvt. 19. § (1) bekezdés b) pontjában a „létszámát,” szövegrész helyébe a „létszámát, ide értve az önkéntes tartalékosokat is,” szöveg lép.
+78. § (1)–(2)
 
 (3) A Hjt.
 
@@ -1387,7 +1319,7 @@ szöveggel lép hatályba.
 - i) 254. §-a és
 - j) 258. §-a.
 
-80. § Hatályát veszti az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló 2011. évi CLXXVII. törvény.
+80. §
 
 #### 39. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

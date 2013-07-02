@@ -301,11 +301,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (7) Azok a kiskereskedők, akik a 2. § hatálybalépését megelőzően dohánytermékek értékesítésére jogosultak voltak, a 2. § hatálybalépését követően dohányterméket a dohánytermék-nagykereskedőktől már nem vásárolhatnak, és a meglévő dohánytermék-készletük értékesítését legfeljebb a 2. § hatálybalépését követő 15 napig folytathatják. A dohánytermék-nagykereskedő köteles az általa értékesített és az e bekezdés rendelkezései miatt a kiskereskedőknél megmaradt – sértetlen csomagolású – dohánytermékeket a kiskereskedő kérelmére 30 napon belül azon az áron visszavásárolni, amelyen a dohánytermék a kiskereskedő részére értékesítésre került.
 
-24/A. § (1) A 24. § (4) bekezdése rendelkezéseit nem érintve a 2013. július 1-jét megelőzően kiállított engedély birtokában a dohányboltot 2013. május 1-jét követően 2013. június 30-ig – az e §-ban meghatározott eltéréssel – a kereskedelmi tevékenységre vonatkozó általános szabályok szerint üzemeltetni lehet (a dohánybolt előzetes üzemeltetése).
-
-(2) A dohánybolt előzetes üzemeltetésének megkezdésére azt követően kerülhet sor, ha az engedély jogosultja e szándékát a vámhatóság felé bejelenti, azzal, hogy a 13/A. § (3) bekezdésének a rendelkezését e bejelentésre is alkalmazni kell. A dohánybolt előzetes üzemeltetéséhez a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározott működési engedélyre nincs szükség.
-
-(3) A dohánybolt előzetes üzemeltetése során a dohányboltban csak a 3. § 8. pontjában felsorolt termékek forgalmazására kerülhet sor.
+#### 24/A. §
 
 24/B. § (1) Törvény eltérő rendelkezése hiányában az
 
@@ -332,39 +328,7 @@ rendeletben állapítsa meg.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-25. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Vagyontv.) 12. § (1) bekezdése az alábbi l) ponttal egészül ki:
-
-[12. § (1) Az állam kizárólagos gazdasági tevékenységei a következők:]
-
-„l) dohánytermékek kiskereskedelme.”
-
-(2) A Vagyontv. 12. §-a a következő (11a) bekezdéssel egészül ki:
-
-„(11a) Az (1) bekezdés l) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga külön ágazati törvényben szabályozott módon másnak átengedhető.”
-
-(3) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Grtv.) 19. § (4) bekezdésének helyébe a következő rendelkezés lép:
-
-„(4) Nem kell alkalmazni az (1) bekezdésben foglalt tilalmat
-
-a) a kizárólag a dohánytermék forgalmazóinak szóló szakmai célú reklámra,
-
-b) arra a sajtótermékre, amelyet nem az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: az Európai Gazdasági Térség államai) területén nyomtattak és adtak ki, és elsődlegesen nem az Európai Gazdasági Térség államainak területén való forgalmazásra állítottak elő.”
-
-(4) Hatályát veszti a Grtv. 19. § (5) és (6) bekezdése.
-
-(5) Hatályát veszti a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (3) bekezdés a) pontja és 6. § (6) bekezdése.
-
-(6) Az Nvt. 5. §-a helyébe a következő rendelkezés lép:
-
-„5. § (1) Dohánytermék-kiskereskedelemre irányuló tevékenység nem végezhető közoktatási intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
-
-(2) Dohánytermék árumintaként nem forgalmazható.
-
-(3) Dohánytermék árusítása automatából nem megengedett.
-
-(4) E § alkalmazásában dohánytermékek-kiskereskedelem alatt a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben ekként meghatározott fogalmat kell érteni.”
-
-(7) A kereskedelemről szóló 2005. évi CLXIV. törvény 1. §-ában az „a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység kivételével” szövegrész helyébe az „a külön törvényben meghatározott egészségügyi szolgáltatás, a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység, valamint a külön törvényben meghatározott dohánytermék-kiskereskedelmi engedélyköteles tevékenység kivételével” szöveg lép.
+#### 25. §
 
 26. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámhatóság által lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 

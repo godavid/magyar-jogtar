@@ -43,7 +43,7 @@ a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvíz
 - a) a veszélyes áruk szárazföldi szállításáról szóló 2008. szeptember 24-i 2008/68/EK európai parlamenti és tanácsi irányelvnek, valamint
 - b) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődéshez való második hozzáigazításáról szóló 2012. december 3-i 2012/45/EU bizottsági irányelvnek való megfelelést szolgálja.
 
-9. § Hatályát veszti a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2011. évi LXXVIII. törvény.
+9. §
 
 ### 1. melléklet a 2013. évi CXI. törvényhez
 

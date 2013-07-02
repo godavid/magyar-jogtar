@@ -1406,9 +1406,7 @@ szövegrész.
 
 #### 2. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-83. § A polgári perrendtartásról szóló 1952. évi III. törvény 290. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.”
+83. §
 
 #### 3. A nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet módosítása
 
@@ -1484,47 +1482,37 @@ szövegrész.
 
 #### 21. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XLIX. törvény módosítása
 
-108. § Hatályát veszti az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XLIX. törvény.
+108. §
 
 #### 22. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-109. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
-
-- a) 3. § 18. pontjában az „az adatkezelővel kötött szerződése” szövegrész helyébe a „szerződés” szöveg, a „történő szerződéskötést” szövegrész helyébe a „kötött szerződést” szöveg,
-- b) 8. § (1) bekezdésében az „adatkezelő harmadik” szövegrész helyébe az „adatkezelő vagy adatfeldolgozó harmadik” szöveg,
-- c) 15. § (1) bekezdésében az „általa megbízott” szövegrész helyébe az „általa vagy rendelkezése szerint megbízott” szöveg
-
-lép.
-
-110. § Hatályát veszti az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 78. § (1) és (2) bekezdése.
-
-111. § Hatályát veszti az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3. § 9. pontjában az „általa megbízott” szövegrész.
+109–111. §
 
 #### 23. A Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény módosítása
 
-112. § Hatályát veszti a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény 72. alcíme.
+112. §
 
 #### 24. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-113. § Hatályát veszti a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 222. §-a.
+113. §
 
 #### 25. Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény módosítása
 
-114. § Hatályát veszti az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 258. alcíme.
+114. §
 
 #### 26. A járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvény módosítása
 
-115. § Hatályát veszti a járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvény 89. § (2) bekezdése.
+115. §
 
 #### 27. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-116. § Hatályát veszti a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 63. §-a.
+116. §
 
 #### 28. Hatályon kívül helyező rendelkezések
 
 117. §
 
-118. § Hatályát veszti az egyes törvényeknek a Magyary Egyszerűsítési Programmal és a területfejlesztéssel összefüggő módosításáról szóló 2012. évi CCVII. törvény.
+118. §
 
 #### 29. Záró rendelkezések
 
