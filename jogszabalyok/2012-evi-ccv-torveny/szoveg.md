@@ -3136,49 +3136,13 @@ való megfelelést szolgálja.
 
 250. §
 
-251. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 9. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A honvédelemért felelős miniszter a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, szolgálati viszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkavégzésre irányuló jogviszonyban kifejtett munkatevékenységre – e törvény figyelembevételével, kivételesen indokolt esetben – eltérő követelményeket, eljárási szabályokat állapíthat meg az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozóan.”
-
-(2) Az Mvt. 86. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A munkavédelmi hatóság hatósági jogköre nem terjed ki)
-
-„e) a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.”
-
-(3) Az Mvt. 88. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes építési munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;”
-
-(4) Az Mvt. 88. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.”
-
-252. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kt.) 110. §-a a következő (16) bekezdéssel egészül ki:
-
-„(16) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi feladatokkal kapcsolatos sajátos környezethasználatokat, amelyek esetén környezetvédelmi megbízottat kell alkalmazni, továbbá a feladatok során alkalmazható környezetvédelmi eljárások, technológiák, anyagok, készletek fajtáját és mennyiségét.”
+251–252. §
 
 253. §
 
 254. §
 
-255. § (1) A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 2. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az (1) bekezdés szerinti munkaügyi hatóság hatósági jogköre nem terjed ki a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre és az önkormányzati tűzoltóságra.”
-
-(2) A Met. 9. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Felhatalmazást kap
-
-a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
-
-b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál.”
-
-256. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 124. § (3) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+255–256. §
 
 257. §
 
@@ -3186,188 +3150,48 @@ b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa me
 
 259. § (1)
 
-(2) A Hvt. 38. § (4) és (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A honvéd tisztjelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Ludovika Zászlóalj állományába tartozik, emellett a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: NKE) hallgatói jogviszonyban áll.
-
-(5) A Ludovika Zászlóalj az NKE-n folyó képzés céljainak megvalósítását biztosítva látja el katonai feladatait. A Ludovika Zászlóalj – az NKE-vel együttműködésben – a honvéd tisztjelöltek kiképzésének gyakorlati részét haditechnikai eszközeinek és anyagainak felhasználásával, állami tulajdonú és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlanok igénybevételével biztosítja.”
-
-(3) A Hvt. 38. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A honvéd altiszt-jelölt a Honvédség önálló állománytáblával rendelkező, a Honvéd Vezérkar főnöke közvetlen alárendeltségébe tartozó Altiszti Akadémia állományába tartozik, emellett az Altiszti Akadémiával tanulói jogviszonyban áll.”
+(2)–(3)
 
 (4)–(6)
 
-(7) A Hvt. 63. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése engedélyezhető az önkéntes tartalékosnak a rendelkezésre állása időszakában és a rendvédelmi szerv tagjának, ha a Honvédség érdekében végez tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.”
-
-(8) A Hvt. 63. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. Miniszteri rendeletben meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.”
-
-(9) A Hvt. 63. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A Honvédség tényleges állományú tagjának rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. A honvéd tisztjelöltek és a honvéd altiszt-jelöltek egyenruhájukon rendfokozat helyett évfolyamjelzést viselnek. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a tényleges állomány tagja, a rendvédelmi szervek állománya, valamint – a rá vonatkozó korlátozásokkal – e szervezetek nyugállományú tagja és az önkéntes tartalékos jogosult. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja.”
-
-(10) A Hvt. a következő 35/A. alcímmel egészül ki:
-
-„35/A. Katonai Rendészeti Szolgálat
-
-54/A. § A Magyarország területén működtetett katonai rendészeti szolgálatok rendeltetése a katonai rend és fegyelem fenntartása. A rendészeti szolgálatok hatásköre a Honvédség személyi állománya, gép- és harcjárművei rendészeti ellenőrzésére és a jogszabályban meghatározott egyéb feladatok végrehajtására terjed ki.
-
-54/B. § (1) A katonai rendész jogosult jogszabályban meghatározottak szerint
-
-a) forgalmat irányítani,
-
-b) szolgálati gépjárművet a közúton megállítani,
-
-c) szolgálati gépjárművel a közlekedési rendszabályok megtartását, a járműhasználat szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a jármű birtoklásának jogszerűségét, a jármű közlekedésbiztonsági állapotát és adatait a forgalomban – a jogszabályban meghatározottak alapján – ellenőrizni,
-
-d) szolgálati jármű vezetőjét a rendszeresített eszközzel légzésminta – ha nála a vezetési képességére hátrányosan ható szer befolyása, alkoholfogyasztás miatt bűncselekmény, szabálysértés, vagy a közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés elkövetésének gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta – adására kötelezni,
-
-e) helyszínt biztosítani,
-
-f) területzárást végrehajtani, és
-
-g) kényszerítő eszközt alkalmazni, személyi szabadságot korlátozó és nem korlátozó intézkedéseket tenni.
-
-(2) A katonai rendész a forgalomban való részvételt megtilthatja, ha a jármű vagy vezetőjének állapota a közúti forgalom biztonságát veszélyezteti, és a további jogellenes járműhasználat megakadályozása céljából a jármű kulcsait elveheti, és a járművet más módon mozgásában korlátozhatja.
-
-54/C. § A katonai rendészeti szervek feladataikat önállóan vagy a rendőrséggel együttműködésben, továbbá nyomozótiszt, katonai ügyész utasítása alapján teljesítik.”
-
-(11) A Hvt. 65. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Honvédség tényleges katonai és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján: )
-
-„a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,”
+(7)–(11)
 
 (12)
 
-(13) A Hvt. 81. § (2) bekezdés d) pont dc) alpontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
-
-a Szolgálati Szabályzat részeként)
-
-„dc) a személyi szabadság korlátozásának eljárási szabályait és a végrehajtásának módját, a kényszerítő eszköz alkalmazásának, illetve az alkalmazás kivizsgálásának részletes szabályait,”
-
-(14) A Hvt. 81. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza:)
-
-„h) a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,”
-
-(15) A Hvt. 81. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza:)
-
-„j) a Honvédségnél rendszeresített igazolványok fajtáit, az igazolványok kezelését és kiadását,”
+(13)–(15)
 
 (16)–(17)
 
-260. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 24. §-a helyébe a következő rendelkezés lép:
-
-„24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. A honvédtiszti alapképzés tekintetében további feltétel, hogy a hallgató hozzájárul a nemzetbiztonsági alkalmasságának ellenőrzéséhez, és vállalja a honvéd tisztjelölti szolgálati viszony létesítését és fenntartását a honvédtiszti alapképzés idejére.”
-
-261. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 36. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Honvédség, valamint a rendvédelmi szervek részére nevelési-oktatási intézményt csak a honvédelemért felelős miniszter vagy a rendvédelmi szerv irányításáért felelős miniszter létesíthet, és tarthat fenn. A miniszter a 83–85. §-ban meghatározott fenntartói kötelezettségek teljesítésével és jogok gyakorlásával megbízhatja – a nevelési-oktatási intézmény létesítése, megszüntetése, tevékenységi körének megállapítása, és módosítása kivételével – az ágazatához tartozó szervet, szervezetet vagy intézményt.
-
-(2) Ha nemzetközi szerződés másképp nem rendelkezik, a rendvédelmi szervek által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár vagy bevándorlási engedéllyel rendelkezik, és a szolgálatra alkalmas. A Magyar Honvédség által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár, a felvétel évében a 23. életévét nem tölti be, cselekvőképes, a szolgálatra alkalmas és vállalja, hogy a katonai szakképzés idejére honvéd altiszt-jelölti szolgálati viszonyt létesít, és tart fenn. A rendvédelmi szervek által fenntartott nevelési-oktatási intézményben SZMSZ, a Magyar Honvédség által fenntartott nevelési-oktatási intézmény esetében jogszabály a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.”
-
-(2) Az Nktv. 36. § (4) bekezdés b) és c) pontja helyébe a következő rendelkezés lép:
-
-(Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,)
-
-„b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
-
-c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára – a fenntartás függvényében – a Magyar Honvédségben érvényesülő, vagy a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,”
-
-(3) Az Nktv. 36. § (4) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,)
-
-„g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén írásbeli megállapodásban, a honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén jogszabályban e törvény szabályaitól el lehet térni,”
-
-(4) Az Nktv. 36. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel altiszt-jelölti szolgálati viszonyban álló tanulók és a szolgálati viszonyban álló pedagógusok jogviszonyára, az intézményvezető megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.”
-
-(5) Az Nktv. 94. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap)
-
-„a) a rendvédelmi szerv irányításáért felelős miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – az oktatásért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,”
-
-(rendeletben állapítsa meg.)
+260–261. §
 
 262. § (1)
 
-(2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 23. § (6) bekezdése a következő c) ponttal egészül ki:
+(2)
 
-[Az (1) bekezdéstől eltérően mentesül a rehabilitációs hozzájárulás fizetésének kötelezettsége alól különösen]
-
-„c) a honvédek jogállásáról szóló törvény szerinti honvédségi szervezet.”
-
-263. § A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény (a továbbiakban: Kitüntetési törvény) 22. § (1) bekezdése a következő e) ponttal egészül ki:
-
-[A feladatkörével összefüggő egyes kiemelkedő tevékenységek, teljesítmények elismerésére kitüntető címet, díjat, oklevelet, plakettet vagy más elismerést (a továbbiakban: elismerés) alapíthat és adományozhat]
-
-„e) a Honvéd Vezérkar főnöke.”
-
-264. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 45. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Szünetel a hallgatói jogviszony az önkéntes tartalékos katonai tényleges szolgálatteljesítés időtartamára, amely időszakban a hallgató mentesül a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározott kötelezettségek alól.”
-
-(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 104. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény rendelkezéseit az igazgatási, a rendvédelmi, a katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében e törvényt a honvédek jogállásáról szóló törvényben foglalt eltérésekkel együtt kell alkalmazni.”
-
-265. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 4. § (1) bekezdésében és 44/A. § (2) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
-
-266. § Az Mvt. 87. § 9. pontjában a „Magyar Honvédségnél, a Katonai Nemzetbiztonsági Szolgálatnál” szövegrész helyébe a „honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter” szöveg lép.
-
-267. § Az Szja. 1. számú melléklet 4.6. pontjában az „a honvédelemért felelős miniszter” szövegrész helyébe az „a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke”, a „(dísztőr, gyűrű stb.)” szövegrész helyébe a „(különösen szál- vagy lőfegyver, dísztőr, gyűrű)” szöveg lép.
-
-268. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 16. § (5) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
-
-269. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
-
-270. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 3. § (2) bekezdés b) pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
-
-271. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 1. § (1) bekezdés 7a. pont f) alpontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+263–271. §
 
 272. §
 
-273. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 13. § c) pontjában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+273. §
 
 274. § (1)
 
-(2) A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 223. §-ában az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+(2)
 
 275. § (1)
 
-(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 151. § (1) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
+(2)
 
-276. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 14. § (4) bekezdésében az „és a Hjt. 225. §-ában meghatározott központi személyügyi nyilvántartásokat kezelő szerveknek” szövegrész helyébe a „meghatározott, valamint a Magyar Honvédség központi személyügyi nyilvántartását kezelő szerv részére” szöveg lép.
+276–278. §
 
-277. § A Kitüntetési törvény 23. § (1) bekezdésében a „22. § (1) bekezdés b)–d) pontja szerinti jogosult” szövegrész helyébe a „22. § (1) bekezdés b)–d) pontja szerinti jogosult – a 22. § (1) bekezdés e) pontja szerinti jogosult esetében a honvédelemért felelős miniszter – ” szöveg lép.
+279. § (1)
 
-278. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 80. § j) pontjában, 96. § (3) bekezdésében és a 97. § (1) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény” szövegrész helyébe az „a honvédek jogállásáról szóló törvény” szöveg lép.
-
-279. § (1) Hatályát veszti
-
-- a) a Kt. 110. § (7) bekezdés 10. pontja,
-- b) a Met. 1. § (8) bekezdése,
+- a)–b)
 - c)
 - d)
-- e) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 5. § (3) bekezdés a) pontjában az „a Hszt. 180. §-a vagy a Hjt. 201. §-a alapján” szövegrész,
-- f) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 199. §-ában a „valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvényben” szövegrész.
+- e)–f)
 
-(2) Hatályát veszti a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény.
-
-(3) Hatályát veszti a 280. §.
+(2)–(3)
 
 280. §
 

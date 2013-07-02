@@ -462,24 +462,4 @@ hogy az elektronikus információs rendszer biztonságának felügyeletével és
 
 #### 16. Módosító rendelkezések
 
-27. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény 10. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
-
-a) az e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai és adminisztratív, valamint
-
-b) ha a szerv a minősített adatot elektronikus információs rendszeren kezeli, az e törvényben és az elektronikus információbiztonságról szóló törvényben és végrehajtásukra kiadott jogszabályokban meghatározott elektronikus
-
-biztonsági feltételeket.”
-
-(2) A minősített adat védelméről szóló 2009. évi CLV. törvény 20. § (2) bekezdése a következő u) ponttal egészül ki:
-
-(A Nemzeti Biztonsági Felügyelet)
-
-„u) elvégzi az elektronikus információbiztonságról szóló jogszabályokban számára meghatározott feladatokat.”
-
-28. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adatfeldolgozó az adatkezelő rendelkezése szerint vehet igénybe további adatfeldolgozót.”
-
-29. § Hatályát veszti a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény 4. §-a.
+27–29. §

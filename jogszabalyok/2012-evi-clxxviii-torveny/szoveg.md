@@ -85,7 +85,7 @@ egyes adótörvények és azzal összefüggő egyéb törvények módosításár
 
 110. § (1)
 
-(2) Hatályát veszti a Jöt. 109. § (5) bekezdésében az „a dohánygyártmány kivételével, illetve” szövegrész.
+(2)
 
 (3)
 
@@ -107,71 +107,15 @@ egyes adótörvények és azzal összefüggő egyéb törvények módosításár
 
 147–148. §
 
-149. § Az Áfa tv. a következő 282. §-sal egészül ki:
-
-„282. § (1) E § alkalmazásában
-
-a) Közösség: a Horvát Köztársaság csatlakozása előtti Közösség területe;
-
-b) kibővült Közösség: a Horvát Köztársaság csatlakozása utáni Közösség területe;
-
-c) csatlakozás: a Horvát Köztársaság csatlakozása az Európai Unióhoz.
-
-(2) A terméknek teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alá vagy a 111. § (1) bekezdésében meghatározott eljárások egyikének hatálya alá helyezése időpontjában hatályos rendelkezéseket a Horvát Köztársaság csatlakozását követően továbbra is alkalmazni kell ezen termékeknek az említett eljárások hatálya alóli kikerüléséig, feltéve, hogy a következő feltételek együttesen teljesülnek:
-
-a) a terméket a Közösségbe vagy a Horvát Köztársaságba a csatlakozást megelőzően importálták;
-
-b) a termék a Közösségbe vagy a Horvát Köztársaságba történő importja óta ezen eljárás hatálya alatt áll;
-
-c) a termék a csatlakozást megelőzően nem került ki ezen eljárás hatálya alól.
-
-(3) A terméknek árutovábbítási eljárás hatálya alá történő helyezésekor hatályos rendelkezéseket a Horvát Köztársaság csatlakozását követően továbbra is alkalmazni kell ezen terméknek az említett eljárás hatálya alóli kikerüléséig, feltéve, hogy a következő feltételek együttesen teljesülnek:
-
-a) a termék a csatlakozást megelőzően került az árutovábbítási eljárás hatálya alá;
-
-b) a termék a csatlakozást megelőzően nem került ki ezen eljárás hatálya alól.
-
-(4) Termékimportnak minősül a Horvát Köztársaságban vagy a Közösségben bizonyíthatóan szabad forgalomban lévő terméknek
-
-a) az ideiglenes behozatalra vonatkozó szabályozás vagy a 111. § (1) bekezdésében meghatározott eljárások egyike alóli vagy ezen eljárások egyikének megfelelő olyan eljárás hatálya alóli kikerülése, amelynek hatálya alá a csatlakozást megelőzően került a (2) bekezdésben meghatározott feltételek szerint;
-
-b) az árutovábbítási eljárás hatálya alóli kikerülése, ha ezen eljárás alá a termék a Horvát Köztársaság területén a csatlakozást megelőzően került abból a célból, hogy azt az adóalanykényt eljáró személy ezen időpontot megelőzően ellenérték fejében értékesítse.
-
-(5) Termékimportnak minősül az is, ha a csatlakozást követően az adóalany vagy nem adóalany olyan terméket használ a tagállam területén, amelyet a csatlakozást megelőzően értékesítettek számára a Közösség vagy a Horvát Köztársaság területén, feltéve, hogy a következő feltételek együttesen teljesülnek:
-
-a) ezen termék értékesítésére adómentesség vonatkozik a 98. § értelmében vagy a Horvát Köztársaságban érvényben lévő egyenértékű rendelkezés értelmében;
-
-b) a csatlakozást megelőzően nem történt meg ezen termék importja a Horvát Köztársaság vagy a Közösség területére.
-
-(6) A (4) bekezdésében meghatározott esetekben az importot abban a tagállamban kell teljesítettnek tekinteni, amelynek területén a termék kikerül azon eljárás alól, amelynek hatálya alá a csatlakozást megelőzően került.
-
-(7) Nem keletkezik adófizetési kötelezettség a (4) és (5) bekezdésben meghatározott termékimportnak minősülő esetekben, feltéve, hogy a következő feltételek valamelyike teljesül:
-
-a) az importált terméket a kibővült Közösségen kívülre adják fel vagy fuvarozzák el;
-
-b) az ideiglenes behozatal következtében a (4) bekezdés a) pontja értelmében importált termék nem közlekedési eszköz és abba a tagállamba adják fel vagy fuvarozzák el, ahonnan azt exportálták azon személy részére, aki (amely) azt exportálta;
-
-c) az ideiglenes behozatal következtében a (4) bekezdés a) pontja értelmében importált termék olyan közlekedési eszköz, amelyet a csatlakozást megelőzően szereztek be vagy importáltak a Horvát Köztársaságba vagy a Közösség valamelyik tagállamába a hazai piacára vonatkozó adózási rendet szabályozó általános szabályok alapján, vagy amely nem részesült export címén Héa-mentességben vagy –visszatérítésben.
-
-(8) A (7) bekezdés c) pontjában említett feltétel teljesítettnek minősül a következő esetekben:
-
-a) a közlekedési eszköz első forgalomba helyezésének időpontja és az Európai Unióhoz történő csatlakozás időpontja között több, mint nyolc év telt el;
-
-b) ha az import címén fizetendő adó összege elhanyagolható.”
-
-150. § Az Áfa tv. a következő 283. §-sal egészül ki:
-
-„283. § (1) E törvénynek a Mód3 törvénnyel megállapított 9. számú melléklet 11/A. pontját azokban az esetekben kell alkalmazni először, amelyekben az adófizetési kötelezettség 2013. július 1. napján vagy azt követően keletkezik.
-
-(2) A Horvát Köztársaságban gazdasági céllal letelepedett adóalanyokat az Áfa tv. XVIII. Fejezetében szabályozott adó-visszatéríttetési jog az ott meghatározott feltételek fennállása mellett a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása napján vagy azt követően belföldön teljesített ügyletek tekintetében illeti meg. A Horvát Köztársaságban letelepedett adóalanyok esetében a 2013. évi adóvisszatérítési időszakra vonatkozóan benyújtott adó-visszatéríttetési kérelmekre a 251/B. § (2) bekezdés b) pontjában foglalt összeget időarányosan kell figyelembe venni.”
+149–150. §
 
 151. §
 
-152. § Az Áfa tv.
+152. §
 
 - a)
 - b)–c)
-- d) 9. számú melléklete a 8. melléklet szerint módosul. szerint módosul.
+- d)
 
 153–154. §
 
@@ -243,13 +187,7 @@ b) ha az import címén fizetendő adó összege elhanyagolható.”
 
 (3)
 
-(4) Az Art. 52. §-a a következő (19)–(21) bekezdéssel egészül ki:
-
-„(19) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozóhatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresést a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
-
-(20) A (19) bekezdés szerinti elektronikus kapcsolattartásra köteles pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás az elektronikus kapcsolattartáshoz szükséges adatait köteles bejelenteni az állami adó- és vámhatóságnak.
-
-(21) A (19) bekezdés szerinti elektronikus kapcsolattartás során az állami adó- és vámhatóság által meghatározott formátumú küldemények továbbíthatóak. Az állami adó- és vámhatóság az általa üzemeltetett honlapon köteles közzétenni az üzenetformátumokat és az azokhoz tartozó üzenetsémákat a bevezetési idejük feltüntetésével. A küldeményt a feladónak el kell látnia legalább fokozott biztonságú elektronikus aláírással és időbélyegzővel, valamint titkosítania kell.”
+(4)
 
 264–287. §
 
@@ -263,15 +201,13 @@ b) ha az import címén fizetendő adó összege elhanyagolható.”
 
 292. §
 
-293. § Az Art.
+293. §
 
 - 1–11.
-- 12. 38. § (1) bekezdésében az „a külön jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő fizetést is” szövegrész helyébe az „a külön jogszabályban meghatározott elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül átutalással történő, valamint a külön jogszabályban meghatározott egyszerűsített elektronikus fizetést is” szöveg;
+- 12.
 - 13–33.
 - 34–35.
 - 36.
-
-lép.
 
 294. §
 
@@ -454,12 +390,6 @@ lép.
 ### 6–7. melléklet a 2012. évi CLXXVIII. törvényhez
 
 ### 8. melléklet a 2012. évi CLXXVIII. törvényhez
-
-Az Áfa tv. 9. számú melléklete a következő 11/A. ponttal egészül ki:
-
-(Az „adó” kifejezés jelentése a Közösség egyes tagállamaiban)
-
-„11/A. a Horvát Köztársaság esetében: Porez na dodanu vrijednost (PDV);”
 
 ### 9. melléklet a 2012. évi CLXXVIII. törvényhez
 

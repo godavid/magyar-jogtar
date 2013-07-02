@@ -142,8 +142,8 @@ azonosítása.
   - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
-- f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+- e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás vagy tevékenység megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a javítóintézeti nevelés hátralévő részének szabadságvesztésre történő átváltoztatása esetén a javítóintézeti nevelést alkalmazó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+- f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, jóvátételi munka helyett büntetés kiszabása esetén a jóvátételi munkát elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - g) összbüntetésbe foglalás esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - h) közkegyelem vagy egyéni kegyelem alapján a bírósági határozatot érintő változásokat, az egyéni kegyelmi határozat számát és keltét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
@@ -160,9 +160,11 @@ azonosítása.
 - d) a szabadon bocsátás napját,
 - e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
 
-12. § (1) A személyazonosító adatokat, valamint a 11. § (1) bekezdés c)–g), i) és k) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
+12. § (1) A személyazonosító adatokat, valamint a 11. § (1) bekezdés c)–g) és k) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
 
 (2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
+
+(2a) A 11. § (1) bekezdés i) pontjában meghatározott adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
 (3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
@@ -207,8 +209,8 @@ azonosítása.
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát és keltét;
 - e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- f) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
-- g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját;
+- f) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás vagy tevékenység megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
+- g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját, jóvátételi munka helyett büntetés kiszabása esetén a jóvátételi munkát elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
 - j) a külföldi ítélet érvényének elismerése esetén ennek tényét;
@@ -241,12 +243,7 @@ azonosítása.
 
 (6) A 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat a javítóintézeti nevelést végrehajtó szerv közli a bűnügyi nyilvántartó szervvel.
 
-(7) A 16. § (2) bekezdés h) pontja szerinti,
-
-- a) a pénzbüntetés szabadságvesztés büntetésre történő átváltoztatására vonatkozó adatokat az alapügyben első fokon eljárt bíróság,
-- b) a közérdekű munka szabadságvesztés büntetésre történő átváltoztatására vonatkozó adatokat a büntetés-végrehajtási bíró
-
-közli a bűnügyi nyilvántartó szervvel.
+(7) A 16. § (2) bekezdés h) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
 (7a) A 16. § (2) bekezdés i) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
 
@@ -259,7 +256,7 @@ közli a bűnügyi nyilvántartó szervvel.
   - ab) öt évet meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, vagy
 - b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkét évig kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás, lefokozás vagy szolgálati viszony megszüntetése büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
@@ -277,7 +274,7 @@ kell nyilvántartani.
 
 kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított három évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás, lefokozás vagy szolgálati viszony megszüntetése büntetés esetén a mentesítés beálltától számított három évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
 
@@ -671,7 +668,7 @@ kezelt DNS-profillal állapítja meg.
 - e) kábítószer birtoklása (Btk. 178. §), kábítószer készítésének elősegítése (Btk. 182. §),
 - f) fegyveres elkövetéssel megvalósuló bűncselekmény vagy
 - g) a 2013. június 30-ig hatályban volt állam elleni bűncselekményekkel (1978. évi IV. törvény X. fejezet), terrorcselekménnyel (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegésével (1978. évi IV. törvény 261/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), pénzmosással (1978. évi IV. törvény 303. §), valamint szolgálati bűncselekményekkel (1978. évi IV. törvény XX. Fejezet I. cím) kapcsolatban fennálló feljelentési kötelezettség elmulasztása,
-- h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bb), bd) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást közveszély színhelyén vagy dolog elleni erőszakkal követik el, és bb)–be) alpont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el] jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
+- h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bc) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást dolog elleni erőszakkal követik el, bb)–be) alpont és c) pont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el], jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
 
 miatt indítottak büntetőeljárást.
 
@@ -874,8 +871,8 @@ valamint a közvetlen hozzáférés útján történő adattovábbítás biztos�
 - a) a kérelemben megjelölt törvényben meghatározott feltételeknek megfelel,
 - b) büntetlen előéletű,
 - c) nem áll közügyektől eltiltás hatálya alatt,
-- d) nem áll foglalkozástól eltiltás hatálya alatt, vagy
-- e) mely foglalkozástól eltiltás hatálya alatt áll.
+- d) nem áll foglalkozástól vagy tevékenységtől eltiltás hatálya alatt, vagy
+- e) mely foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
 
 (4) A (3) bekezdés a) pontjában meghatározott tény kizárólag önállóan igazolható, a (3) bekezdés b), c), d) és e) pontjában meghatározott tények önállóan vagy – a d) és az e) pont együttes igazolása kivételével – együttesen is igazolhatóak.
 
@@ -996,15 +993,19 @@ MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 
 ### Kérelemre történő adattovábbítás az Európai Unió más tagállamának, valamint harmadik országnak
 
-80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
+80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a kényszerintézkedés hatálya alatt állók nyilvántartásának, valamint a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
+
+(1a) Ha az (1) bekezdés szerinti adattovábbítási kérelem teljesítéséhez a kérelemben foglaltakon túl további adat szükséges, a bűnügyi nyilvántartó szerv a kérelem kézhezvételét követően haladéktalanul további tájékoztatást kér az adattovábbítási kérelmet benyújtó, az Európai Unió más tagállama kijelölt központi hatóságától.
 
 (2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed. A megkereső tagállam kijelölt központi hatósága részére – az állampolgárság szerinti tagállam kijelölt központi hatóságát kivéve – adat csak büntetőeljárás céljából adható át.
 
-(3) Az (1) és (2) bekezdés szerinti adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
+(3) Az (1)–(2) bekezdés szerinti adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
 (4) Ha az Európai Unió más tagállamának kijelölt központi hatósága nem a megkeresett tagállam állampolgárságával rendelkező állampolgár tekintetében intéz megkeresést a bűnügyi nyilvántartások adataira vonatkozóan, annak tekintetében a bűnügyi jogsegélyről szóló európai egyezmény alapján kell eljárni.
 
 (5) A tagállami ítéletek nyilvántartásából harmadik ország részére a 33. §-ban meghatározott adat kizárólag az adatot a bűnügyi nyilvántartó szerv részére megküldő tagállam által meghatározott korlátok között, büntetőeljárás céljából történő felhasználásra továbbítható.
+
+80/A. § Ha a megkereső tagállamban vagy Magyarországon lakóhellyel rendelkező vagy korábban lakóhellyel rendelkező személy, illetve a megkereső tagállam vagy Magyarország állampolgára, vagy volt állampolgára a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be a megkereső tagállam központi hatóságához, a bűnügyi nyilvántartó szerv a kézhezvételtől számított húsz munkanapon belül továbbítja az adatokat.
 
 ### VII. Fejezet — ADATTOVÁBBÍTÁS A BŰNÜGYI ÉS RENDÉSZETI BIOMETRIKUS ADATOK NYILVÁNTARTÁSA ADATÁLLOMÁNYAIBÓL
 
@@ -1032,7 +1033,8 @@ MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 - b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
 - c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv felderítés, elhárítás és információszerzés,
 - d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
-- e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása
+- e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása,
+- f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése
 
 céljából jogosult.
 

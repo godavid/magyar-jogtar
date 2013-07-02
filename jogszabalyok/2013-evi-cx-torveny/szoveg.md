@@ -38,11 +38,7 @@ rendeletben állapítsa meg.
 - a) a veszélyes áruk szárazföldi szállításáról szóló 2008. szeptember 24-i 2008/68/EK európai parlamenti és tanácsi irányelvnek, valamint
 - b) a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődéshez való második hozzáigazításáról szóló 2012. december 3-i 2012/45/EU bizottsági irányelvnek való megfelelést szolgálja.
 
-9. § Hatályát veszti
-
-- a) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállpodás (ADR) „A” és „B” Melléklete 2011. évi módosításaival és kiegészítéseivel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2011. évi LXXIX. törvény;
-- b) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet;
-- c) a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének kihirdetéséről és belföldi alkalmazásáról szóló 20/1979. (IX. 18.) KPM rendelet módosításáról szóló 46/2005. (VI. 28.) GKM rendelet.
+9. §
 
 ### 1. melléklet a 2013. évi CX. törvényhez
 
