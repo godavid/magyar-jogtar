@@ -332,9 +332,7 @@ magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valam
 
 291. § (1)–(2)
 
-(3) A Sport tv. 72. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Beléptető rendszer alkalmazása esetén a szervező vagy a jegyértékesítést a szervező megbízásából végző személy a belépőjegy, a bérlet vagy a klubkártya eladásakor, valamint a rendező a beléptetés során a néző személyazonosságát egybeveti a sportrendészeti nyilvántartás adataival. A sportrendészeti nyilvántartásban szereplő személynek belépőjegy, bérlet vagy klubkártya nem értékesíthető, az eltiltó, a kitiltó vagy a kizáró határozat szerinti sportrendezvény helyszínére, illetve sportlétesítménybe történő belépését meg kell tagadni.”
+(3)
 
 (4)–(10)
 
@@ -524,7 +522,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
 
 (5) A 291. § (3) bekezdése 2013. július 2-án lép hatályba.
 
-(5a) A 310. § (1) bekezdése 2014. január 1-jén lép hatályba.
+(5a) A 310. § (1) bekezdése 2014. január 1-jén lép hatályba
 
 (6) A 234. § a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 55. cikk (2) bekezdésében meghatározott eljárás keretében, a SIS II alkalmazhatóságáról szóló tanácsi határozatban foglalt napon lép hatályba.
 
