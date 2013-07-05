@@ -15,8 +15,9 @@ Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a 
 - a) az általa nyújtott médiaszolgáltatás analóg terjesztése a Magyarország tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyarország felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
 - b) központi ügyvezetésének helye Magyarország területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket Magyarország területén hozzák,
 - c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de a médiatartalom-szolgáltató munkaerejének jelentős része Magyarország területén dolgozik,
-- d) ha Magyarország területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye Magyarország területén található, vagy
-- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de tevékenységét Magyarország területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+- d) Magyarország területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye Magyarország területén található,
+- e) a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de tevékenységét Magyarország területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal, vagy
+- f) az általa nyújtott médiaszolgáltatást a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 43/A. § (1) bekezdés b) pontja szerinti ideiglenes digitális műsorszórási jogosultság gyakorlása révén terjeszti.
 
 (3) A törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amely az (1)–(2) bekezdés alapján nem minősül Magyarország területén letelepedettnek, és amely egyetlen más tagállamban sem minősül letelepedettnek, ha Magyarország területén található műholdas feladó-állomást használ, vagy a műholdnak Magyarország tulajdonában álló átviteli kapacitását használja.
 
@@ -742,7 +743,7 @@ magyar nyelvű felirattal – például teletext szolgáltatáson keresztül –
 - a) szükségállapot, az ország jelentős területét érintő elemi csapás vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos médiaszolgáltatás, vagy
 - b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek szolgálata.
 
-(5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 38. § (1) bekezdésben megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye.
+(5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a Dtv. 38. § (1) bekezdésében megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye.
 
 (6)
 
@@ -1268,7 +1269,7 @@ közönségarányát.
 
 (4) Az (1)–(3) bekezdésben foglaltak teljesítését hivatalból vagy kérelemre a Hivatal ellenőrzi.
 
-(5) A (3)–(4) bekezdésben foglaltak teljesítését hivatalból vagy kérelemre a Hivatal ellenőrzi.
+(5) Az (1)–(3) bekezdés szerinti továbbítási kötelezettség a helyi vagy körzeti vételkörzetű, földfelszíni műsorszórás révén megvalósított műsorterjesztési szolgáltatást nyújtó műsorterjesztőt e szolgáltatása tekintetében nem terheli.
 
 75. § (1) A műsorterjesztőt – teljes kapacitásának tíz százalékáig, de legfeljebb három médiaszolgáltatás tekintetében – a médiaszolgáltatók körzeti vagy helyi, audiovizuális közösségi médiaszolgáltatására vonatkozó, műszakilag és gazdaságilag megalapozott szerződéses ajánlata tekintetében szerződéskötési kötelezettség terheli.
 
@@ -3540,6 +3541,8 @@ rendeletben megállapítsa.
 
 218. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) kezelésének, fenntartásának és működtetésének feladatát 2011. március 31. után a Hatóság látja el. Ezen időpontig gondoskodni kell a NAVA átadásáról a Hatóság részére, ideértve a működéshez kapott költségvetési támogatás időarányos részének átadását is.
 
+218/A. § E törvénynek a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+
 ### V. Fejezet
 
 #### 219. §
@@ -3550,7 +3553,7 @@ rendeletben megállapítsa.
 
 ### VI/A. Fejezet — Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-229. § E törvény 1–203. §-a, 206–218. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (3) bekezdése és 23. cikke alapján sarkalatosnak minősül.
+229. § E törvény 1–203. §-a, 206–218/A. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (3) bekezdése és 23. cikke alapján sarkalatosnak minősül.
 
 ### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
