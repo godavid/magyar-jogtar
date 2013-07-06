@@ -106,7 +106,11 @@ tervezetét.
 
 6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
-7. §
+7. § A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti állami intézményfenntartó központ tekintetében a következő eltéréssel kell alkalmazni:
+
+- a) a tankerületi igazgató a járási, a megyeközponti tankerületi igazgató a járási továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett, járási, illetve megyei szinten reprezentatív szakszervezetekkel a járási, illetve a megyei szintű érdekegyeztető fórum keretei között egyeztet,
+- b) járási, megyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a járási tankerület illetékességi területén, illetve a megyeközponti tankerület illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
+- c) az állami intézményfenntartó központ elnöke a közalkalmazottak jogviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe tartozó kérdések kivételével – országos jelentőségű kérdésekben a reprezentatív szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
 
 ### A szakszervezetek, a kollektív szerződés
 
@@ -820,7 +824,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyhoz kapcsolódó munkakörre, magasabb vezetői, vezetői megbízásra nem alkalmazható.
 
-(4) A felsőoktatási intézményben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 121. §-ának (8) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
+(4) A felsőoktatási intézményben – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. § (12) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
 
 (5) A (2) bekezdés b) pontjától eltérően a kutatás-fejlesztésről és a technológiai innovációról szóló törvény szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak – a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
 

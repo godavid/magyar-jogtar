@@ -70,7 +70,9 @@ az emberi felhasználásra kerülő gyógyszerekről
 
 ### Záró rendelkezések
 
-24–25. §
+24. § Ez a törvény a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+25. §
 
 ### Melléklet az emberi felhasználásra kerülő gyógyszerekről szóló törvényhez
 
@@ -98,6 +100,7 @@ A) Jegyzék:
 | 15. | MAL | 3,5-dimetoxi–4-metallil-oxi-fenetil-amin 3,5-dimethoxy–4-(2-methylallyloxy)-phenethylazan |
 | 16. | MBDB | 2-(metil-amino)–1-(3,4-metilén-dioxi-fenil)-bután vagy N-metil–1-(1,3-benzo-dioxol–5-il)–2-bután-amin [1-(1,3-benzodioxol–5-yl)butan–2-yl](methyl)azan |
 | 17. | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
+| 17.a | 4- MA, 4- methylamphetamine (4-metilamfetamin) | 1-(4-methylphenyl)propan-2-amine |
 | 18. | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron)/ MDPV | 1-(1,3-benzodioxol–5-yl)–2-(pyrrolidin–1-yl)pentan–1-one |
 | 19. | 4-methylethcathinone (4-metiletkatinon)/4-MEC | 2-(ethylamino)–1-(4-methylphenyl)propan–1-one |
 | 20. | Mephedrone (Mefedron) | 1-(4-methylphenyl)–2-methylaminopropan–1-one |

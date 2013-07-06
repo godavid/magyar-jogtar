@@ -54,7 +54,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 - d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 2. és 3. számú mellékletében szereplő országos közgyűjtemény és a következőkben felsorolt egyéb kulturális intézmény: 1. Magyar Állami Operaház, 2. Magyar Országos Levéltár, 3. Országos Széchényi Könyvtár, 4. Magyar Nemzeti Filmarchívum, 5. Neumann János Multimédia Központ és Digitális Könyvtár;
 - e) az országos szakmúzeumok;
 - f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetésből egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
-- g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékletében meghatározott felsőoktatási intézmény;
+- g) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. mellékletében meghatározott felsőoktatási intézmény;
 - h) a Nemzeti Együttműködési Alap.
 - i) a Magyar Művészeti Akadémia.
 

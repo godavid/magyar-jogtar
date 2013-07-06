@@ -10,7 +10,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 - a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesítményt;
 - b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
-- c) a katasztrófa veszélyességű robbanásveszélyes, tűzveszélyes, mérgező, valamint az egészségre vagy a környezetre veszélyes anyagot, és az ezek felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet; továbbá a jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt;
+- c) olyan robbanásveszélyes, tűzveszélyes, mérgező, valamint az egészségre vagy a környezetre veszélyes anyag felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet, amely katasztrófát okozhat, továbbá a jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt;
 - d) a lakosság alapvető szükségletét biztosító infrastruktúra és közműrendszer egyes elemeit;
 - e) a kiemelt jelentőségű nemzeti, kulturális értéket;
 - f) a postai szolgáltató kiemelt létesítményét, a közszolgálati rádió és televízió, a távközlési rendszerek központi létesítményét.
@@ -131,7 +131,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 7. § (1) A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha
 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
-- b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és iskolai végzettségre vonatkozó követelményeket.
+- b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
 (2) A fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
 

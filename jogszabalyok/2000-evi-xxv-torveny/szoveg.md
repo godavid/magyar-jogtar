@@ -260,7 +260,7 @@ is legyen;
 
 (4) Az egészségügyi államigazgatási szerv az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
 
-(5)
+(5) Az egészségügyi államigazgatási szerv ellátja a CLP 45. cikke szerinti feladatokat.
 
 (6) A Magyarország területén előforduló bármilyen eredetű, vegyi anyag okozta emberi mérgezési esetet az egészségügyért felelős miniszter által meghatározott módon az egészségügyi államigazgatási szervhez be kell jelenteni.
 
@@ -319,6 +319,8 @@ is legyen;
 31/A. § Az egészségügyi államigazgatási szerv által e törvény vagy e törvény szabályozási tárgykörében európai közösségi rendelet alapján a veszélyes anyagok és keverékek kémiai biztonsága, valamint a biocid termékekkel és hatóanyagokkal kapcsolatos tevékenységek körében kérelemre lefolytatott eljárásért vagy igazgatási jellegű szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 31/B. § A biocid termék engedélyezésével kapcsolatos eljárásokban az elektronikus kapcsolattartás kizárt.
+
+31/C. § A biocid termék engedélyezésével kapcsolatos eljárásokban az egészségügyi államigazgatási szerv és a szakhatóság az engedélyezési feltételeket egyeztetés alapján állapítja meg.
 
 ### A kémiai biztonság hatósági ellenőrzése
 
@@ -382,7 +384,7 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 - c) a veszélyes anyagokkal és készítményekkel kapcsolatos egyes tevékenységek gyakorlásához, valamint a veszélyes anyagokkal és készítményekkel folytatott tevékenységekkel kapcsolatos kockázat-becslés végzéséhez szükséges feltételek, ideértve a képesítési feltételeket is,
 - d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának,
 - e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének,
-- f) a biocid anyagok és termékek – ideértve az irtószereket is – előállításának, forgalomba hozatalának és felhasználásának,
+- f) a biocid anyagok és termékek – ideértve az irtószereket is – előállításának, forgalomba hozatalának és felhasználásának, valamint az ezzel összefüggő hatósági eljárásoknak
 - g) a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet
   - ga) 2. cikk (7) és (8) bekezdése végrehajtása körében a biocid termékek ivóvíz-szolgáltatásban történő felhasználása – szükség szerinti – korlátozásának, valamint egyes biocid termékeknek a rendelet előírásai alól honvédelmi érdekből történő mentesítésének,
   - gb) 17. cikk (5) bekezdése végrehajtása körében a lakosság biocid termékek előnyeiről és kockázatairól, valamint felhasználásuk minimálisra csökkentésének lehetőségeiről szóló tájékoztatásának,
@@ -416,7 +418,7 @@ részletes szabályait rendeletben meghatározza.
 - e) a Kormány, hogy a nemzetközi információs rendszerben (PIC) megjelölt egyes veszélyes anyagok exportjának, importjának, forgalmazásának, használatának korlátozását,
 - f) az egészségügyért felelős miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértésben a lakosság egészségének, illetve a környezet védelme érdekében korlátozni indokolt veszélyes anyagok, illetve veszélyes keverékek, valamint tevékenységek körét, valamint a korlátozás módját,
 - g)
-- h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid termékekben felhasználható hatóanyagok jegyzékét, a kis kockázattal járó biocid termékek hatóanyagainak jegyzékét, a hatóanyagokra vonatkozó általános adatok körét, a biocid termékekre vonatkozó közös alapadatokat, a hatóanyagokra és a biocid termékekre vonatkozó kiegészítő adatokat, valamint az aktív hatóanyagok és a biocid termékek adatait,
+- h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid termékekben felhasználható hatóanyagok jegyzékét, a kis kockázattal járó biocid termékek hatóanyagainak jegyzékét, a hatóanyagokra vonatkozó általános adatok körét, a biocid termékekre vonatkozó közös alapadatokat, a hatóanyagokra és a biocid termékekre vonatkozó kiegészítő adatokat, valamint az aktív hatóanyagok és a biocid termékek adatait, továbbá a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendelet 89. cikke szerinti átmeneti intézkedések körében a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának részletes szabályait,
 - i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 31/A. § szerinti, kémiai biztonsági és biocid termékekkel és hatóanyagokkal kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
 - j) a környezetvédelemért felelős miniszter, hogy
   - ja)
@@ -451,7 +453,8 @@ rendeletben meghatározza.
 - h) az Európai Parlament és a Tanács 2008/112/EK irányelve (2008. december 16.) a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról, 4. és 5. cikk (a törvény 1. § c) és d) pontja),
 - i) az Európai Parlament és a Tanács 2011/65/EU irányelve (2011. június 8.) egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról.
 
-(2) Ez a törvény a 34. § (3) bekezdésének b) pontjában, a 34. § (4) bekezdés a) pontjának aj) alpontjában, valamint a 34. § (5) bekezdésében foglalt felhatalmazás alapján kiadott végrehajtási rendeleteivel együtt
+(2) Ez a törvény a 34. § (3) bekezdés b) és f) pontjában, a 34. § (4) bekezdés a) pont aj) alpontjában foglalt felhatalmazás alapján kiadott végrehajtási rendeleteivel együtt
 
 - a) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i, 1907/2006/EK európai parlamenti és tanácsi rendelet,
-- b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+- b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i, 1272/2008/EK európai parlamenti és tanácsi rendelet, és
+- c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

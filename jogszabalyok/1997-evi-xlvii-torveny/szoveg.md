@@ -274,6 +274,8 @@ van szükség, és
 
 (2) Az (1) bekezdés szerinti célból történő adatkezelés érdekében a 16. § (5) bekezdése szerinti Nemzeti Rákregiszter továbbítja az egészségügyi államigazgatási szerv részére a népegészségügyi szűrővizsgálat keretében észlelt daganatos eredetű megbetegedésekre vonatkozó egészségügyi és személyazonosító adatokat.
 
+(3) Az (1) bekezdés szerinti célból történő adatkezelés érdekében a szűrővizsgálatot végző egészségügyi szolgáltatók a szűrővizsgálaton részt vett személyek személyazonosító adatait és a szűrővizsgálatra vonatkozó egészségügyi adatait, valamint a szűrővizsgálat időpontját továbbítják az egészségügyi államigazgatási szerv részére.
+
 ### Egészségügyi szakember-képzés
 
 17. § (1) Az egészségügyi szakember-képzés céljából – a betegellátó és a (2) bekezdés kivételével – az érintett (törvényes képviselője) hozzájárulásával lehet jelen a gyógykezelés során orvos, orvostanhallgató, egészségügyi szakdolgozó, egészségügyi főiskola, egészségügyi szakiskola vagy egészségügyi szakközépiskola hallgatója, valamint tanulója.
@@ -282,17 +284,17 @@ van szükség, és
 
 ### Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése, minőség- és teljesítményértékelés
 
-18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges, TAJ számmal összekapcsolt egészségügyi adatok kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges egészségügyi adatok, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az ahhoz kapcsolódó TAJ szám, nem, születési dátum és postai irányítószám kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
 
-(2) A szakmai minőségértékelésért felelős szerv az azonos TAJ számhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
+(2) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti, azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
 
-(3) A szakmai minőségértékelésért felelős szerv a kapcsolati kód képzését követően az (1) bekezdés szerinti célból kapott TAJ számot haladéktalanul törli.
+(3) A szakmai minőségértékelésért felelős szerv a kapcsolati kód képzését követően az (1) bekezdés szerinti célból kapott személyazonosító adatokat haladéktalanul törli.
 
-(4) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti szervek által más adatkezelési célból létrehozott és a 4. § (2) bekezdés x) pontja szerinti célból átadott, TAJ számmal összekapcsolt adatbázisokat, illetve nyilvántartásokat a kapcsolati kód képzését követően haladéktalanul törli.
+(4) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti szervek által más adatkezelési célból létrehozott és a 4. § (2) bekezdés x) pontja szerinti célból átadott, az (1) bekezdés szerinti személyazonosító adattal összekapcsolt adatbázisokat, illetve nyilvántartásokat a kapcsolati kód képzését követően haladéktalanul törli.
 
-(5) A 4. § (2) bekezdés x) pontja szerinti célból egyedi ügy kivizsgálása érdekében a minőségértékelésért felelős szerv, az ügy kivizsgálásának lezárását követő 5 évig kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát. Az érintett TAJ száma más személyazonosító adatokkal történő összekapcsolás nélkül kezelendő.
+(5) A 4. § (2) bekezdés x) pontja szerinti célból egyedi ügy kivizsgálása érdekében a minőségértékelésért felelős szerv, az ügy kivizsgálásának lezárását követő 5 évig kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát.
 
-18/A. § A teljesítményértékelésért felelős szerv a 4. § (2) bekezdés y) pontja szerinti célból kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát és születési dátumát az adatok átadása, az adatkezelés és a kapcsolati kód képzése tekintetében a 18.§ (1)–(4) bekezdésében foglaltak szerint.
+18/A. § A teljesítményértékelésért felelős szerv a 4. § (2) bekezdés y) pontja szerinti célból kezelheti az érintett egészségügyi adatait, valamint az érintett TAJ számát, nemét, születési dátumát és postai irányítószámát az adatok átadása, az adatkezelés és a kapcsolati kód képzése tekintetében a 18.§ (1)–(4) bekezdésében foglaltak szerint.
 
 19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
 
@@ -537,12 +539,13 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - b) a járványügyi érdekből felügyelet alá vont kórokozók, valamint a fertőző betegségek bejelentésével kapcsolatos kötelezettségeket,
 - c) a halál tényének és okának bejelentésére vonatkozó részletes szabályokat,
 - d) a veleszületett rendellenességek bejelentésére vonatkozó részletes szabályokat,
-- e) a 20. § (4) bekezdés szerinti adatok körének meghatározására, gyűjtésére, feldolgozására és bejelentésére vonatkozó részletes szabályokat,
+- e) a 20. § (4) bekezdés szerinti adatok körének meghatározására, gyűjtésére, feldolgozására, bejelentésére és közzétételére vonatkozó részletes szabályokat,
 - f) a gyógykezelés során alkalmazandó egészségügyi dokumentáció jellegére vonatkozó szabályokat, valamint az alkalmazandó nyomtatványok – e törvény keretei közötti – adattartalmát,
 - g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelentési kötelezettség teljesítésének és a bejelentendő adatok gyűjtésének és kezelésének szabályait,
 - h) az elektronikus vényre vonatkozó részletszabályokat,
 - i) a Betegségregiszterre vonatkozó részletes szabályokat,
-- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
+- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat,
+- k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

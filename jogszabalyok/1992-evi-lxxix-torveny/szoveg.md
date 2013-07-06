@@ -32,7 +32,7 @@ Az Országgyűlés annak tudatában, hogy— a fogantatással induló magzati é
 - b) elvégzik a magzat egészséges fejlődését ellenőrző és a gyermeket váró nő egészségvédelmét biztosító szűrővizsgálatokat;
 - c) segítséget adnak a gyermeket váró nőnek a szülésre, szoptatásra, csecsemő- és gyermekgondozásra való felkészüléshez.
 
-(3) A terhesgondozás részletes szabályait, a kötelező és az állami gondoskodás keretében térítésmentesen igénybe vehető fakultatív szűrővizsgálatok körét az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
+(3)
 
 4. §
 
@@ -161,6 +161,8 @@ Az Országgyűlés annak tudatában, hogy— a fogantatással induló magzati é
 (2) Felhatalmazást kap a Kormány, hogy a családvédelmi szolgálat működésének engedélyezésére vonatkozó részletes szabályokat rendeletben megállapítsa.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy a fogamzásgátló eszközök és készítmények rászorultságtól függő kedvezményes igénybevételének feltételeit rendeletben meghatározza.
+
+(4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a várandósgondozás részletes szabályait rendeletben állapítsa meg.
 
 17. § (1) Ez a törvény 1993. január 1-jén lép hatályba.
 

@@ -93,7 +93,23 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (5) Az e törvény hatálybalépése előtt odaítélt „tudomány doktora” fokozat és MTA doktora cím egyenértékű az e törvény hatálybalépése után megítélt MTA doktora címmel.
 
-(6) A Doktori Tanács külföldön szerzett tudományos fokozatot – érdemi vizsgálat után – csak akkor honosíthat, ha a fokozat egyenértékűségét a tudomány kandidátusa vagy a tudomány doktora magyar fokozattal nemzetközi egyezmény vagy szerződés mondja ki.
+(6) A Doktori Tanács külföldön szerzett tudományos fokozatot – érdemi vizsgálat után – csak akkor honosíthat, ha a fokozat egyenértékűségét a tudomány kandidátusa vagy a tudomány doktora magyar fokozattal nemzetközi egyezmény vagy szerződés mondja ki. A Magyar Tudományos Akadémia elnöke dönt – a Doktori Tanács véleményének kikérését követően – a külföldi tudományos fokozatnak az adott szakterületen kutatást közfeladatként végző akadémiai költségvetési szervnél tudományos munkakörben történő (vendégkutatói) foglalkoztatáshoz szükséges elfogadásáról. Az Akadémia irányítása alá tartozó költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait a Kormány rendeletben állapítja meg.
+
+### A hazai akadémikusok és az MTA doktorai tiszteletdíjának felfüggesztése
+
+8/A. § (1) A 6. § (4) bekezdése és a 8. § (3) bekezdése szerinti tiszteletdíjak és hozzátartozói ellátások folyósítását az Akadémia elnöke felfüggeszti, ha a jogosult büntetőjogi felelősségét a bíróság bűncselekmény elkövetése miatt jogerős ítéletben megállapította és a jogosult
+
+- a) szándékos bűncselekmény miatt kiszabott végrehajtandó szabadságvesztés büntetés hatálya alatt áll,
+- b) foglalkozástól eltiltás büntetés hatálya alatt áll, vagy
+- c) közügyektől eltiltás mellékbüntetés hatálya alatt áll.
+
+(2) A felfüggesztés az (1) bekezdés a)–c) pontjában meghatározott büntetés, illetve mellékbüntetés végrehajtása befejezéséig vagy végrehajthatóságának megszűnéséig tart.
+
+(3) A jogosult az (1) bekezdés szerinti jogerős ítéletről az Akadémia elnökét tájékoztatja.
+
+(4) Az Akadémia elnöke a jogosultról a tiszteletdíj vagy a hozzátartozói ellátás folyósítása feltételeinek fennállása ellenőrzése céljából adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag az (1) bekezdés a)–c) pontjában meghatározott adatra irányulhat.
+
+(5) Az Akadémia elnöke a jogosult (1) bekezdés szerinti személyes adatait az ellenőrzés időtartamára vagy – a tiszteletdíj folyósításának felfüggesztése esetén – a jogosult tiszteletdíjának vagy hozzátartozói ellátásának folyósítása felfüggesztésének időtartamára kezelni.
 
 ### A Közgyűlés
 
@@ -347,7 +363,7 @@ a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szer
 
 24. § (1) Felhatalmazást kap a Kormány, hogy az akadémiai költségvetési szervek gazdálkodására vonatkozó szabályokat – e törvény 20. § (6) bekezdése alapján – rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Kormány, hogy a hazai akadémikust megillető tiszteletdíj, a hozzátartozói ellátások, továbbá az Akadémia Magyarországon élő doktora tiszteletdíjának mértékét rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány, hogy a hazai akadémikust megillető tiszteletdíj, a hozzátartozói ellátások, továbbá az Akadémia doktora tiszteletdíja megállapításának feltételeit, mértékét, folyósításának és felfüggesztésének szabályait rendeletben állapítsa meg.
 
 (3) Az alapellátás intézetenkénti összegét és a közfeladatokat, valamint azok ellátásának feltételeit a 2011. évi költségvetés tervezéséig kell összehangolni.
 

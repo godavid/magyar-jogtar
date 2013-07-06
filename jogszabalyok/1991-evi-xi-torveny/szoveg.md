@@ -50,17 +50,17 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) Az élelmezés- és táplálkozásegészségügy keretében az egészségügyi államigazgatási szerv
 
-- a) kimutatja a kozmetikai készítményekben, a gyermekjátékokban, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
+- a) kimutatja a kozmetikai készítményekben, valamint az ezek készítéséhez használt anyagok összetevőiben előforduló vagy kezelésük során belekerülő vegyi, fizikai illetve biológiai egészségkárosító anyagokat, kimunkálja az ezekre vonatkozó közegészségügyi határértékeket és követelményeket, ellenőrzi és érvényesíti ezeket a termelés, feldolgozás, tárolás és forgalmazás során;
 - b) táplálkozás-egészségügy szakterületen
   - ba) vizsgálatokat végez a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozóan,
-  - bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, az oktatási és nevelési intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel,
+  - bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, a nevelési-oktatási intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel, valamint a nevelési-oktatási intézményekben eladásra szánt élelmiszerek tápanyag-beviteli értékének megfelelősége tekintetében,
   - bc) a ba) és a bb) alpont szerinti területeken közreműködik a táplálkozás-egészségügyi előírások kidolgozásában,
   - bd) a ba)–bc) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-biztonsági tudományos szervet;
 - c) egyes élelmiszerekkel kapcsolatosan
   - ca) külön jogszabály szerint végzi a különleges táplálkozási célú élelmiszerekkel, az étrend-kiegészítőkkel, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerekkel, az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal, az élelmiszerek tápértékjelölésével kapcsolatos nyilvántartási, bejelentési eljárásokkal összefüggő szakértői feladatokat, külön jogszabály szerint az Európai Unió közvetlenül alkalmazandó jogi előírása szerinti egyes eljárásokban ellátja a tagállami feladatokat, továbbá szakmai kapcsolatot tart az Európai Unió táplálkozás-egészségügyi és táplálkozás-tudományi szakterületen illetékes szervével,
   - cb) ellenőrzi a ca) alpont szerinti élelmiszerek meghatározott táplálkozási céloknak való megfelelését, és egészségi ártalom vagy annak gyanúja, illetve az emberi egészség veszélyeztetése esetén intézkedik,
   - cc) ellátja az új élelmiszerek engedélyezésével összefüggő, külön jogszabály szerinti feladatokat,
-  - cd) ellátja a technológiai segédanyagokkal, élelmiszer-csomagolóanyagokkal, élelmiszeriparban felhasznált mosó- és fertőtlenítőszerekkel, az élelmiszert előállító, feldolgozó-, csomagoló-, tároló- és forgalomba hozó helyek engedélyezésével összefüggő, külön jogszabály szerinti feladatokat;
+  - cd) ellátja a technológiai segédanyagokkal, az élelmiszeriparban felhasznált mosó- és fertőtlenítőszerekkel, az élelmiszert előállító, feldolgozó-, csomagoló-, tároló- és forgalomba hozó helyek engedélyezésével összefüggő, jogszabályban meghatározott feladatokat;
 - d) a betegélelmezés és a diétás étkeztetés területén
   - da) vizsgálja a fekvőbeteg-gyógyintézeti betegélelmezés keretében nyújtott étkeztetést – a rendszeres diétát, a speciális diétát és az enterális szondatáplálást is beleértve – és a fekvőbeteg-gyógyintézeten kívüli diétás étkeztetést tápanyagszámítással, biokémiai elemzéssel,
   - db) a da) alpont szerinti vizsgálatok eredménye alapján közreműködik a táplálkozás-egészségügyi előírások kidolgozásában.
@@ -116,7 +116,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - b) felügyeli az egészségügyi intézmények működésére vonatkozó szabályok érvényesülését, és szakmai felügyeletet gyakorol az egészségügyi szolgáltatók és a lakossági gyógyszerellátást nyújtók tevékenysége felett ;
 - c) szakmai javaslatot tesz egészségügyi intézmények létesítése, fejlesztése, megszüntetése kérdésében a tulajdonos, illetőleg a finanszírozó számára;
 - d) véleményezi az egészségügyi intézmények szervezetével és feladatával kapcsolatos módosító elképzeléseket;
-- e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet és nyilvántartja az engedélyeket;
+- e) engedélyezi – ha jogszabály másként nem rendelkezik – az egészségügyi szolgáltató tevékenységének végzését, ellenőrzi a tevékenységet, valamint nyilvántartást vezet az egészségügyi szolgáltatókról, az egészségügyi szolgáltatók szervezeti egységeiről, az általuk végezhető, engedélyezett szakmákról, valamint az egy szakmán belül végezhető egyes tevékenységről, továbbá az egészségügyi szolgáltatás nyújtására jogosító működési engedélyekről;
 - f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét, ideértve a gyógyszertári ügyeletet és készenlétet is ;
 - g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 - h) ellátja a gyógyszerellátással és a kábítószerekkel kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
@@ -131,7 +131,49 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
-7–9. §
+(3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont ac) alpontja és b)–d) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(4) Az (1) bekezdés e) pontja szerinti nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) az egészségügyi szolgáltató:
+  - aa) cégnevét,
+  - ab) cégjegyzékszámát vagy bírósági nyilvántartásba vétele számát, egyéni vállalkozó esetén nyilvántartásba vétele számát,
+  - ac) a nyilvántartó rendszer által meghatározott egyedi azonosító számát,
+- b) a szolgáltató székhelyére és az egészségügyi szolgáltatás végzésének helyszínéül szolgáló telephelyére vonatkozó adatokat:
+  - ba) helységnév,
+  - bb) utca, házszám,
+  - bc) postai irányítószám,
+- c) az egészségügyi szolgáltató valamennyi szervezeti egységére vonatkozóan külön-külön:
+  - ca) az engedélyezett egészségügyi szakmákat a hozzájuk tartozó kóddal, és az ellátási forma megnevezését a hozzá tartozó kóddal,
+  - cb) a közszolgáltatásban való részvételének tényét,
+  - cc) az engedélyezett egészségügyi szakma miniszteri rendeletben megállapított progresszivitási szintjét,
+  - cd) az engedélyezett tevékenységek körét, amennyiben a működési engedély a szakmán belül csak egyes tevékenységek nyújtására került kiadásra,
+  - ce) a szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését,
+  - cf) az engedélyező hatóság megnevezését,
+  - cg) a működési engedély keltét, számát,
+  - ch) a működés bármely korlátozásával kapcsolatos adatot,
+  - ci) a közfinanszírozott egészségügyi szolgáltatások körében a szervezeti egység által nyújtott szolgáltatás jellegére figyelemmel a szervezeti egységben engedélyezett szakmákhoz tartozó kapacitásadatokat,
+  - cj) a c) pont ca) alpont szerinti szakmák szünetelését, a szünetelés kezdő és befejező időpontja szerint,
+  - ck) a járóbeteg-szakellátásban és az alapellátásban a heti rendelési időt, az alapellátásban a rendelkezésre állási időt napi bontásban, valamint a helyettesítésre vonatkozó adatokat,
+  - cl) a szervezeti egységhez tartozóan, ellátási formától függően az ügyeleti részvételt, készenléti rendszerben való részvétel tényét,
+- d) a gyógyászati segédeszközök forgalmazásával, javításával, illetve kölcsönzésével foglalkozó szolgáltatók vonatkozásában a szolgáltató heti nyitvatartási rendjét, valamint annak megjelölését, hogy a szolgáltató – jogszabályban meghatározottak szerint – sorozatgyártású, egyedi méretvétel alapján készült vagy méretre igazított gyógyászati segédeszközt forgalmaz, javít, illetve kölcsönöz.
+
+(5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
+
+(6) A (4) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+
+7. § (1) Az ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek és a víz kezelésére alkalmazni kívánt technológiák alkalmazására kiadott engedélyekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) az alkalmazási engedély számát,
+- b) az engedélyes nevét,
+- c) az engedélyezett termék, technológia megjelölését, valamint
+- d) az alkalmazási engedélyben megadott alkalmazási feltételeket.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), c) és d) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+8–9. §
 
 ### Az egészségügyi államigazgatási szerv hatósági jogköre
 
@@ -187,12 +229,13 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - b) a gyógy- és közfürdők, valamint a természetes fürdőhelyek üzemeltetésére, működtetésére,
 - c) a gyógytényezőkre, gyógyhelyekre, fürdő- és klímagyógyintézetekre,
 - d) a szennyvizekkel, veszélyes hulladékokkal kapcsolatos közegészségügyi követelmények érvényesítésére,
-- e) a kozmetikai termékek, a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésére, táplálkozás-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
+- e) a kozmetikai termékek gyártására, egészségkárosítás nélküli alkalmazhatóságára, forgalomba hozatalára, forgalmazására,
 - f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
 - g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, berendezések, létesítmények üzemeltetésére,
 - h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
 - i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre,
-- j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
+- j) a kórházakban és más egészségügyi szolgáltatóknál előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzésére,
+- k) a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek, a tápanyag-összetételre és egészségre vonatkozó állításokkal ellátott élelmiszerek meghatározott táplálkozási célnak való megfelelésre, táplálkozási-élettani hatású összetevőjének egészségkárosítás nélküli fogyaszthatóságára, alkalmazhatóságára, forgalomba hozatalára, forgalmazására vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
 (1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.
 
@@ -226,7 +269,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
+(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
 
 13/B. § (1)
 
@@ -260,6 +303,14 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - d) felülvizsgálja, illetve értékeli az irányítása alá tartozó költségvetési szervek beszámolóit;
 - e) megállapítja az irányítása alá tartozó költségvetési szervek pénzmaradványát, előirányzat-maradványát, egyidejűleg meghatározva a kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználásának célját, rendeltetését;
 - f) megállapítja az irányítása alá tartozó költségvetési szervek létszám-előirányzatát (létszámkeretét).
+
+14/B. § (1) Az egészségügyi államigazgatási szerv jogerős határozata alapján jogosított ügyfél helyébe jogutódja léphet.
+
+(2) Az egészségügyi államigazgatási szerv fellebbezéssel megtámadható döntései ellen fellebbezni indokolással ellátva lehet.
+
+(3) A Ket. 114. § (2) bekezdésében foglaltaktól eltérően, a Ket. 114. § (1) bekezdése szerinti eljárás lefolytatására az egészségügyi államigazgatási szerv a döntés közlésétől számított három éven belül jogosult.
+
+(4) Az egészségügyi államigazgatási szerv döntése a Ket. 139. § (1) bekezdése alapján külföldön is végrehajtható.
 
 15. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 
@@ -305,7 +356,14 @@ rendeletben határozza meg.
   - da) 19. cikk (4) és (5) bekezdésének végrehajtása körében a nem előre csomagolt kozmetika termékek – ideértve azon termékeket is, amelyeket a vevő kérésére a vásárláskor csomagolnak be vagy azonnali eladásra előre csomagolnak – címkézésének részletes szabályait, valamint a magyar nyelven feltüntetendő tájékoztatások körét,
   - db) 22. cikkének végrehajtása körében a kozmetikai termékek piacfelügyeletét ellátó szervek kijelölését,
   - dc) 34. cikk (1) és (2) bekezdésének végrehajtása körében az illetékes nemzeti hatóság és méregellenőrző központ kijelölését,
-  - dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését.
+  - dd) 37. cikkének végrehajtása körében a rendelet megsértése esetén alkalmazandó hatékony, arányos és visszatartó erejű szankciók körét, illetve kijelölését,
+- e) a kozmetikai termékek
+  - ea) gyártására,
+  - eb) mikrobiológiai tisztasági követelményeire,
+  - ec) használata során felmerülő nemkívánatos hatásokat értékelő méregellenőrző központ feladataira, valamint a méregellenőrző központnak megtett bejelentésekkel kapcsolatos követelményekre,
+  - ed) piacfelügyeleti ellenőrzésére kijelölt szervek feladatkörének megosztására
+
+vonatkozó szabályokat.
 
 (13) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kereskedelemért felelős miniszterrel, valamint az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben az energiaitalok megengedett térfogatértékeit és azok ellenőrzési módszereit rendeletben határozza meg.
 

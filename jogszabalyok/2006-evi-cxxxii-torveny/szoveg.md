@@ -193,13 +193,19 @@ a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. h
 
 (7) A (6) bekezdésben foglaltak alól kivételt képeznek az átvett feladat és az egészségügyi intézmény által ellátott egyéb közfeladat, illetve az ezekhez kapcsolódó vagyon szétválasztásához szükséges és az átvett feladatnak az állam általi ellátását nem veszélyeztető olyan intézkedések, amelyet a Kormány által kijelölt szerv által előzetesen engedélyezett.
 
-(8) Az átvett feladatot végző önkormányzati egészségügyi intézmény és az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig a folyamatos ellátás biztosítása érdekében az 1/A. § (5) bekezdését alkalmazni kell azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
+(8) Ha az átvett feladatot ellátó helyi önkormányzati egészségügyi intézmény a feladat átvételekor az átvett feladaton túl más egészségügyi vagy egyéb közfeladatot is ellát, a folyamatos ellátás biztosítása érdekében
+
+- a) az 1/A. § (5) bekezdése alapján hozott határozat az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig alkalmazható, vagy
+- b) az egészségügyi államigazgatási szerv elrendelheti az 1/A. § (5) bekezdése szerinti vagyonelemeknek a szakellátási feladatot az 1/A. § (11) bekezdésében meghatározott időponttól ellátó egészségügyi szolgáltató számára – az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig – történő ingyenes használatba adását, azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
 
 1/J. § (1) Ha az átvett feladat ellátásáról a helyi önkormányzat önkormányzati társulás útján gondoskodott, az átvett feladat tekintetében a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek (a továbbiakban: Mötv.) az önkormányzati társulás megszűnésére vonatkozó szabályait alkalmazni kell.
 
 (2) Az (1) bekezdés szerinti esetben az átvett feladatot ellátó intézmény, illetve az átvett feladat ellátására szolgáló önkormányzati vagyon abban az időpontban száll át az államra, amikor azt az érintett helyi önkormányzat az Mötv. 90. § (4) bekezdése alapján a társulástól visszakapta.
 
-(3) Az átvett feladatot végző intézmény és az átvett feladat ellátására szolgáló önkormányzati vagyon államra történő átszállásáig a folyamatos ellátás biztosítása érdekében az 1/A. § (5) bekezdését alkalmazni kell.
+(3) Ha az átvett feladat ellátásáról a helyi önkormányzat önkormányzati társulás útján gondoskodott, a folyamatos ellátás biztosítása érdekében
+
+- a) az 1/A. § (5) bekezdése alapján hozott határozat az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig alkalmazható, vagy
+- b) az egészségügyi államigazgatási szerv elrendelheti az 1/A. § (5) bekezdése szerinti vagyonelemeknek a szakellátási feladatot az 1/A. § (11) bekezdésében meghatározott időponttól ellátó egészségügyi szolgáltató számára – az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig – történő ingyenes használatba adását.
 
 #### 3. A szakellátási feladat ellátására irányuló megállapodás és az egészségügyi ellátási szerződés
 
@@ -436,7 +442,7 @@ köthet.
 
 5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint amennyiben az érintett egészségügyi szolgáltató fenntartójával nem azonos, a Kormány által kijelölt szerv szakértői véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
-(2) Az ellátási területet településenként, illetőleg valamely településre csak részben kiterjedő ellátási terület esetén a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
+(2) Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
 
 (3) Az ellátási területeket úgy kell meghatározni, hogy azok – a (9) bekezdésben foglalt kivétellel – átfedés- és hézagmentesen megfeleljenek az adott egészségügyi térség területének, azzal, hogy az (5) bekezdés és a (9) bekezdés b) pontja szerinti esetben az ellátási terület az egészségügyi térség határán túlterjedhet. Amennyiben az adott egészségügyi térségben valamely szakmában ellátást nyújtó egészségügyi szolgáltató nincs, egy másik egészségügyi térségben működő, a hiányzó szakma vonatkozásában megfelelő kapacitással rendelkező szolgáltató ellátási területe a térséghatáron túlterjedhet.
 
@@ -450,15 +456,53 @@ köthet.
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
+(7b) A kapacitás-nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+
 (8) A kapacitás-nyilvántartás tartalmazza
 
 - a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
 - b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
 - c) a tartalékkapacitásokra,
 - d) a 2. § (2)–(4) bekezdésében foglaltak figyelembevételével az egészségügyi közszolgáltatásért felelős szervre, és
-- e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre vonatkozóan az e törvény végrehajtásáról szóló kormányrendeletben meghatározott adatokat.
+- e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre vonatkozóan a (8b)–(8d) bekezdésben meghatározott adatokat.
 
 (8a) Ha a kapacitás-nyilvántartásban szereplő adatok helytállóságát valamely egészségügyi szolgáltató, illetve fenntartó vitatja, a nyilvántartást vezető egészségügyi államigazgatási szerv az adatok megváltoztatására irányuló kérelem tárgyában dönt és – szükség szerint –a kapacitás-nyilvántartást módosítja. Az egészségügyi államigazgatási szerv határozatára a 6. §-t alkalmazni kell.
+
+(8b) A kapacitás-nyilvántartásban a szakellátási kapacitások ellátási formánként, szolgáltatónként és szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
+
+- a) a kapacitással rendelkező egészségügyi szolgáltató nevét, székhelyét, egyedi azonosítóját,
+- b) a kapacitás tekintetében a közszolgáltatásért felelős szerv nevét és székhelyét,
+- c) a kapacitással rendelkező egészségügyi szolgáltató szerinti térség megnevezését,
+- d) a kapacitás szerinti szakma megnevezését, kódját,
+- e) a kapacitás mennyiségét (óraszám, illetve ágyszám, illetve egyéb finanszírozási egység),
+- f) a kapacitások módosításának dátumát,
+- g) a szünetelő kapacitások mennyiségét, a szünetelés kezdő időpontját és a szünetelés befejezésének időpontját, továbbá a szünetelés idejére más egészségügyi szolgáltató kijelölésének tényét,
+- h) a tartalékkapacitásokat,
+- i) a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve a 2. § (1) bekezdés b) pontja szerinti szerződés
+  - ia) típusának megjelölését (ellátási szerződés/megállapodás),
+  - ib) megkötésének időpontját,
+  - ic) hatálybalépésének időpontját,
+  - id) időtartamát (határozatlan/határozott – határozott időtartam esetében annak ideje években megadva),
+  - ie) által feladat teljesítésére kötelezett fél nevét, székhelyét,
+  - if) által érintett egészségügyi szolgáltató fenntartójának nevét, székhelyét,
+  - ig) által érintett szakma megnevezését és a kapacitás mértékét.
+
+(8c) A kapacitás-nyilvántartásban a szakellátási kapacitásokhoz kapcsolódó ellátási területek térségenként, ellátási formánként, szolgáltatónként, szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
+
+- a) a térség megnevezését,
+- b) az egészségügyi szolgáltató nevét, egyedi azonosítóját, székhelyét,
+- c) az ellátás nyújtásának telephelyét,
+- d) a szakma megnevezését, kódját,
+- e) az ellátás progresszivitási szintjét,
+- f) az ellátási kötelezettséggel érintett ellátási területet településenként, illetve településrészenként.
+
+(8d) A kapacitás-nyilvántartásban a tartalékkapacitások a (8) bekezdés szerinti kapacitásoktól elkülönülten, ellátási terület és szolgáltatóhoz való közvetlen hozzárendelés nélkül, az alábbi formában szerepelnek:
+
+- a) aktív fekvőbeteg-szakellátási tartalékkapacitások ágyszáma,
+- b) krónikus és rehabilitációs fekvőbeteg-szakellátási tartalékkapacitások ágyszáma,
+- c) járóbeteg-szakellátási tartalékkapacitások szakorvosi óra száma,
+- d) járóbeteg-szakellátási tartalékkapacitások nem szakorvosi óra száma,
+- e) egyéb teljesítményegységek szerinti tartalék finanszírozási egységek száma.
 
 (9) A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
 
@@ -520,9 +564,9 @@ köthet.
 
 #### 8. A kapacitások átcsoportosításának és módosításának szabályai
 
-7. § (1) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
+7. § (1) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
 
-(2) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató lekötött krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
+(2) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
 
 (3) A fenntartó – a (2) bekezdésben foglaltak figyelembevételével, az ellátási forma megváltoztatása nélkül – kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásainak más, a szolgáltató finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
 
@@ -655,6 +699,19 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 (14) Az egészségügyet érintő egyes törvényeknek az egészségügyi szakellátási felelősséggel kapcsolatos, valamint egyes közszférában foglalkoztatott egészségügyi dolgozók foglalkoztatási helyzetével összefüggő módosításáról szóló 2013. évi XL. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (8) bekezdés e) pontja szerinti adatokat a 2013. május 1-jén érvényes szerződések, illetve megállapodások tekintetében az azok alapján feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2013. május 1. és 2013. július 15. között megküldi a kapacitás-nyilvántartást vezető egészségügyi államigazgatási szerv részére. A beérkezett és a rendelkezésére álló adatok alapján a kapacitás-nyilvántartást vezető szerv 2013. augusztus 31-éig módosítja a kapacitás-nyilvántartást az 5/A. § (8) bekezdése alapján azzal, hogy eltérő adat hiányában egészségügyi közszolgáltatásért felelős szervként annak az egészségügyi szolgáltatónak a fenntartóját kell megnevezni, amelyik szolgáltatóhoz az adott kapacitás a kapacitás-nyilvántartás szerint 2013. augusztus 31-én tartozik. A kapacitás-nyilvántartásnak 2013. szeptember 1-jétől kell megfelelnie a Módtv. által megállapított 5/A. § (8) bekezdésének. 2013. szeptember 1-jétől a kapacitás feletti rendelkezési jog a kapacitás-nyilvántartásban az adott kapacitás tekintetében egészségügyi közszolgáltatásért felelős szervként megnevezett szervet illeti meg.
 
 (15) A 2013. április 28-án hatályos – a 2. § (1) bekezdése szerinti – megállapodásoknak és egészségügyi ellátási szerződésnek 2014. január 1-jétől kell megfelelnie az e törvényben meghatározott feltételeknek. Ennek érdekében a megállapodással, illetve a szerződéssel feladatot átadó egészségügyi közszolgáltatásért felelős szerv 2013. november 1-jéig felülvizsgálja a megállapodást, illetve a szerződést és kezdeményezi annak a szükség szerinti módosítását, illetve az új szerződés, illetve megállapodás megkötését.
+
+(16) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 1/I. § (8) bekezdést és 1/J. § (3) bekezdést az azok hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(17) Ha a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve a 2. § (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) 5. § (1) bekezdése szerint – a kijelölt szerv által gyakorolt felmondás alapján – szűnik meg, a megszűnést a Ttv. 5. § (1) bekezdése szerinti kijelölt szerv jelenti be – a felmondással egyidejűleg – a 2. § (8) bekezdésben foglaltaknak megfelelően. A Ttv. 5. § (1) bekezdése szerinti szerződés a felek közös megegyezésével is megszüntethető azzal, hogy ebben az esetben
+
+- a) biztosítani kell a betegellátás folyamatosságát,
+- b) az a) pontban foglaltak érdekében az egészségügyi államigazgatási szerv a személyi és tárgyi feltételek előzetes vizsgálata nélkül hivatalból intézkedik a kapacitások átcsoportosításáról, az ellátási területek módosításáról és a működési engedély kiadásáról,
+- c) a 2/E. §-ban foglaltakat nem kell alkalmazni,
+- d) a megszűnő szerződés, illetve megállapodás tárgyát képező feladat ellátáshoz szükséges eszközöknek és készleteknek a korábban a feladatot ellátó egészségügyi szolgáltatótól történő megszerzésekor, illetve a megszűnő szerződés alapján feladatot ellátó szolgáltató által megkötött szerződésekbe való belépéssel történő kötelezettségvállalások esetén közbeszerzési eljárást nem kell lefolytatni,
+- e) a Ttv. 5/A. § (2) bekezdése szerinti tájékoztatásnak legkésőbb az átadást megelőző öt munkanappal korábban meg kell történnie, a munkavállaló pedig az átadást megelőző munkanapig teheti meg a Ttv. 5/A. § (5) bekezdése szerinti nyilatkozatot, és
+- f) a Ttv. 5. § (1) bekezdése szerinti kijelölt szervnek kell – a megszüntetésről szóló megegyezéssel egyidejűleg – megtennie a 2. § (8) bekezdése szerinti bejelentést.
+
+(18) A Módtv2. által megállapított (17) bekezdést az annak hatálybalépésekor már hatályos megállapodásoknak és szerződéseknek a Módtv2. hatálybalépését követő megszűnésére is alkalmazni kell függetlenül attól, hogy a felek a megállapodás vagy a szerződés megszüntetéséről a Módtv2. hatálybalépését megelőzően vagy azt követően egyeznek-e meg.
 
 15. §
 
