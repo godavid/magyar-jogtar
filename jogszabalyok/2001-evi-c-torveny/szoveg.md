@@ -44,13 +44,15 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) A külföldi oklevelek által tanúsított tudományos fokozat e törvény III. Fejezete szerinti honosítása azon hazai felsőoktatási intézmény feladata, amely a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) szerint a külföldi oklevélnek megfelelő tudományágban vagy művészeti ágban doktori fokozat odaítélésére jogosult.
 
-(4)–(5)
+(4) A kérelmező valamely külföldi képzés sikeres elvégzését tanúsító okiratának hazai felsőoktatási intézményben foglalkoztatott oktató vagy tudományos kutató képesítésként történő, a Harmadik rész szerinti elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi képzés sikeres elvégzését tanúsító okirattal rendelkező kérelmezőt foglalkoztatni kívánja.
+
+(5) A külföldi oklevelek által tanúsított tudományos fokozatnak az adott munkakör betöltése céljából, a III. fejezet rendelkezéseinek megfelelő alkalmazásával történő honosítása a Magyar Tudományos Akadémia feladata, amennyiben a külföldi tudományos fokozattal rendelkező személyt a Magyar Tudományos Akadémia irányítása alá tartozó, az adott szakterületen kutatást közfeladatként végző költségvetési szerv közalkalmazottként tudományos munkakörben kívánja foglalkoztatni.
 
 (6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése azon hazai egyházi felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
 
 (7) Külföldön folytatott résztanulmányok beszámítása annak az oktatási intézménynek a hatásköre, amelyben a kérelmező a tanulmányait folytatni szándékozik.
 
-(8) E törvény alkalmazása során eljáró hatóságnak a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság és a 4. § (2)–(3), valamint (6)–(7) bekezdésében meghatározott oktatási intézmény minősül.
+(8) E törvény alkalmazása során eljáró hatóságnak a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, a (2)–(4) és a (6)–(7) bekezdésben meghatározott oktatási intézmény, valamint az (5) bekezdésben a Magyar Tudományos Akadémia irányítása alá tartozó költségvetési szerveire vonatkozó rendelkezése tekintetében a Magyar Tudományos Akadémia minősül.
 
 (9) A Magyarországon működő külföldi felsőoktatási intézmény által kiállított oklevelek hazai elismeréséről az Ftv. szerint adott engedély rendelkezhet.
 
@@ -92,15 +94,30 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - c) az a) és b) pontban megjelölt okiratok magyar nyelvű hiteles fordítását, és
 - d) ha az eljárásért díjat kell fizetni, annak igazolását, hogy a kérelmező a díjat megfizette.
 
-(2) Az eljáró hatóság felhívhatja a kérelmezőt a (1) bekezdés a) és b) pontjaiban meghatározott okiratok eredetijének bemutatására. Az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében nem hiteles fordítást is elfogad.
+(2) Az eljáró hatóság felhívhatja a kérelmezőt a (1) bekezdés a) és b) pontjaiban meghatározott okiratok eredetijének bemutatására.
 
 (3) Az eljáró hatóság kivételes méltányosságból felmentheti a kérelmezőt a (1) bekezdésben meghatározott okiratainak benyújtása alól, ha a kérelmező menekült, menedékes vagy befogadott, az elismerést továbbtanulási céllal kéri, és bizonyítja vagy valószínűsíti, hogy okiratai neki fel nem róható okból nem állnak rendelkezésére.
 
-(4) Hiteles fordításnak minősül az Országos Fordító és Fordításhitelesítő Iroda, a magyar külképviseleti szerv és a magyar közjegyző hitelesítési záradékával ellátott fordítás.
+(4) Hiteles fordításnak minősül
 
-(5)
+- a) az Országos Fordító és Fordításhitelesítő Iroda hiteles fordítása és a hitelesítési záradékával ellátott fordítás,
+- b) a magyar külképviseleti szerv hitelesítési záradékával ellátott fordítás,
+- c) a magyar közjegyző hitelesítési záradékával ellátott fordítás, továbbá
+- d) az a magyar nyelvű fordítás, amely hitelesnek minősül valamely tagállam [28. § (1) bekezdése] joga szerint.
 
-(6) Hiteles másolatnak minősül a jogszabály által hitelesnek minősített másolat, továbbá az eljáró hatóság által az eredeti okiratról készített és hitelesített másolat.
+(5) Az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében nem hiteles fordítást is elfogad.
+
+(6) Ha az (5) bekezdés szerinti nem hiteles fordítás pontosságával kapcsolatban kétség merül fel, akkor az eljáró hatóság tizenöt napos határidő megállapításával felhívja a kérelmezőt a fordítás pontosítására. Ha a kérelmező a felhívásnak nem tesz eleget, vagy az újabb fordítás sem alkalmas arra, hogy a döntés alapjául szolgáljon, akkor az eljáró hatóság hiteles fordítás beszerzése iránt intézkedik, amelynek a költségeit a kérelmező viseli.
+
+(7) A Harmadik rész szerinti eljárásban az eljáró hatóság angol nyelvű okiratok esetén nem hiteles fordítást is elfogad. Az Oktatási Hivatal a Harmadik rész szerinti eljárásában az angol, a francia és a német nyelvű okiratokat fordítás nélkül is elfogadja.
+
+(8) Hiteles másolatnak minősül
+
+- a) a jogszabály által hitelesnek minősített másolat,
+- b) az eljáró hatóság által az eredeti okiratról készített másolat, továbbá
+- c) az a másolat, amely hitelesnek minősül valamely tagállam joga szerint.
+
+(9) A kérelmező a hazai bizonyítványról, oklevélről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállítására irányuló kérelmét írásbelinek nem minősülő elektronikus levél útján is benyújthatja.
 
 8. § (1) Az elismerési és a honosítási eljárás során a kérelmező felhívható arra, hogy a 7. §-ban meghatározott okiratok mellett
 
@@ -216,7 +233,10 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - b) külföldi oklevélhez vezető képzés vagy kutatás időtartama az egy évet eléri, és
 - c) külföldi oklevél végzettségi szintje a hazai doktori fokozat végzettségi szintjével összevethető.
 
-(5)
+(5) Hazai felsőoktatási intézményben megszerezhető felsőoktatási szakképzést tanúsító oklevélként az a külföldi oklevél ismerhető el, amely
+
+- a) felsőfokú képzésben folytatott legalább kétéves időtartamú tanulmányok befejezését tanúsítja, és
+- b) nem tanúsít az (1), (2), (3) vagy (4) bekezdés szerinti végzettséget.
 
 ### III. Fejezet — TUDOMÁNYOS FOKOZAT HONOSÍTÁSA
 
@@ -247,7 +267,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 18. § (1) Külföldi oklevél által tanúsított szakképzettség akkor ismerhető el a hazai felsőoktatásban megszerezhető szakképzettségként, ha
 
-- a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
+- a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, felsőfokú szakképzést, felsőoktatási szakképesítést vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
 - b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
 
 (2) Az eljáró hatóság a szakképzettség elismerését feltételekhez kötheti. Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság előírhatja, hogy a kérelmező
@@ -413,7 +433,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (16) Minimális képzési követelménynek minősül az európai közösségi jog által valamely képzésre megszabott képesítési előírás.
 
-(17) Hiteles fordításnak minősül a 7. § (4) bekezdésében foglaltak mellett az a magyar fordítás is, amely hitelesnek minősül valamely tagállam joga szerint. Hiteles másolatnak minősül a 7. § (6) bekezdésében foglaltak mellett az a másolat is, amely hitelesnek minősül valamely tagállam joga szerint.
+(17)
 
 (18) Önálló vállalkozó az, aki önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végez gazdasági tevékenységet.
 
@@ -724,7 +744,7 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 
 (2) Az e törvény II. fejezete szerinti eljárásért, ha továbbtanulási céllal történik, az eljáró hatóság a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díjat.
 
-(3) Az e törvény III., IV. és V. fejezete, valamint Harmadik része szerinti eljárásért az eljárási díj háromszorosát kell befizetni az eljáró hatóság számlájára.
+(3) Az e törvény III., IV. és V. fejezete, valamint Harmadik része szerinti eljárásért az eljárási díj háromszorosát kell befizetni az eljáró hatóság számlájára. Mentes azonban az eljárási díj alól az e törvény X. Fejezete szerinti bejelentés, még abban az esetben is, ha a szolgáltatásnyújtás előzetes ellenőrzés alá tartozik.
 
 (4) A szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díj tízszeresét.
 

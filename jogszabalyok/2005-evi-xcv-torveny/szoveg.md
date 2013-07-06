@@ -8,7 +8,7 @@ a következő törvényt alkotja:
 
 1. § E törvény alkalmazásában:
 
-- 1. gyógyszer: bármely anyag vagy azok keveréke, amelyet emberi betegségek megelőzésére vagy kezelésére állítanak elő vagy azok az anyagok vagy keverékei, amelyek farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az ember valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve az orvosi diagnózis felállítása érdekében alkalmazható;
+- 1. gyógyszer: bármely anyag vagy azok keveréke, amelyet emberi betegségek megelőzésére vagy kezelésére alkalmazható termékként jelenítenek meg, vagy azok az anyagok vagy keverékei, amelyek farmakológiai, immunológiai vagy metabolikus hatások kiváltása révén az ember valamely élettani funkciójának helyreállítása, javítása vagy módosítása, illetve az orvosi diagnózis felállítása érdekében az emberi szervezetben vagy emberi szervezeten alkalmazhatók;
 - 2. magisztrális gyógyszer: az a gyógyszerkészítmény, amelyet a gyógyszerész a gyógyszertárban a Magyar, illetve Európai Gyógyszerkönyv (a továbbiakban: Gyógyszerkönyv) vagy a Szabványos Vényminta Gyűjtemény (Fo-No) (a továbbiakban: Vényminta Gyűjtemény) rendelkezései alapján, orvosi előírásra vagy a Gyógyszerkönyv szerint saját kezdeményezésére készít és a gyógyszertár által ellátott betegek kezelésére szolgál;
 - 3. homeopátiás gyógyszer: a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően készült homeopátiás törzsoldatnak nevezett anyagból a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően előállított gyógyszer, amely több alkotóelemet is tartalmazhat;
 - 4. kábítószer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő anyag;
@@ -67,6 +67,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
   - b) eredete, így a gyártója, a gyártó országa, a származási országa vagy a forgalombahozatali engedély jogosultja,
   - c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehetővé tevő nyilvántartások és dokumentumok, függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 - 43. Párhuzamos import: Forgalomba hozatalra engedélyezett emberi alkalmazásra kerülő gyógyszer vagy annak a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő változatának Magyarországra történő szállítása olyan EGT-megállapodásban részes államból, ahol a gyógyszer szintén rendelkezik forgalombahozatali engedéllyel.
+- 44. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára forgalmazott vagy a forgalmazóknál található gyógyszer visszagyűjtése;
+- 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
 
 ### A törvény hatálya
 
@@ -302,6 +304,46 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (8) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy a külön jogszabályban meghatározott hatóság részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
+(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről közhiteles hatósági nyilvántartást vezet.
+
+(10) A (9) bekezdés szerinti nyilvántartás tartalmazza a gazdálkodó szervezet:
+
+- a) nevét,
+- b) székhelyét,
+- c) telephelyeit,
+- d) engedélyének számát és érvényességi idejét,
+- e) tevékenységének jellegét,
+- f) cégjegyzékszámát vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+
+(11) Az egészségügyi államigazgatási szerv a díszítő mák és kannabisz növény exportját, importját, transzferét végző, a tisztítatlan mákszalma-maradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát tároló, továbbá új pszichoaktív anyagot ipari célra használó, exportáló, importáló, új pszichoaktív anyag transzferét és forgalmazását végző gazdálkodó szervezetekről nyilvántartást vezet.
+
+(12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) a gazdálkodó szervezet
+  - aa) nevét,
+  - ab) székhelyét,
+  - ac) telephelyeit,
+- b) a hatósági bizonyítvány számát,
+- c) a tevékenység jellegének és helyének pontos megjelölését,
+- d) a kábítószerért felelős személy megnevezését,
+- e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+
+(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(14) Az egészségügyi államigazgatási szerv a kábítószerek, pszichotróp anyagok és új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetekről nyilvántartást vezet.
+
+(15) A (14) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) a gazdálkodó szervezet
+  - aa) nevét,
+  - ab) székhelyét,
+- b) hatósági bizonyítvány számát,
+- c) a tevékenység jellegének pontos megjelölését,
+- d) a kábítószerért felelős személy megnevezését,
+- e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+
+(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b) és c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
 15/A. § (1) A külön jogszabályban meghatározott hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező személy büntetlen előéletű, és nem áll a 15. § (4) vagy (5) bekezdésében meghatározott foglalkozástól eltiltás hatálya alatt.
 
 (2) A külön jogszabályban meghatározott hatóság az (1) bekezdésben meghatározott körülmény igazolása céljából kezeli
@@ -333,7 +375,20 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Amennyiben az 1 éven belüli, az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat szerinti kockázatértékelés lezárásához a szakértői szerv megállapításai szerint nem áll rendelkezésre elegendő adat, az új pszichoaktív anyag minősítése további 1 évre meghosszabbítható.
 
-15/D. §
+15/D. § (1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatalra engedélyezett kábítószert és pszichotrop anyagot tartalmazó gyógyszerek teljes köréről közhiteles hatósági nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza a gyógyszer
+
+- a) nevét és gyógyszerformáját,
+- b) besorolását,
+- c) státuszát,
+- d) egy adagolási egységben lévő hatóanyag mennyiségét,
+- e) hatóanyagának nemzetközi nevét,
+- f) forgalomba hozatali engedélyének számát,
+- g) forgalomba hozatali engedélyének jogosultját,
+- h) kiszerelését,
+- i) kiadhatóságát,
+- j) bevitelét megtiltó országok megjelölését.
 
 15/E. §
 
@@ -349,11 +404,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) A gyógyszertár működtetőjének ellátási felelősségéről a gyógyszertárak létesítéséről és működésük egyes szabályairól külön jogszabály rendelkezik.
 
-(5) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon vele szerződésben álló gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
+(5) A forgalomba hozatali engedély jogosultja köteles az általa forgalmazott gyógyszerek nagykereskedelmi forgalmazási lehetőségét a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedőnek biztosítani, amennyiben a nagykereskedő külön jelzi, hogy a beszerezni kívánt gyógyszer magyarországi ellátási igény kielégítéséhez szükséges. Az e bekezdés alapján beszerzett gyógyszer kizárólag magyarországi egészségügyi szolgáltatónak adható tovább és nagykereskedelmi tevékenység keretében az országból nem vihető ki. A nagykereskedő az e bekezdés alapján beszerzett gyógyszerről külön – az egészségügyért felelős miniszter rendeletében meghatározott – nyilvántartást vezet.
+
+(5a) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
 
 (6) Az (2) bekezdés szerinti gyógyszerhiányra vonatkozó bejelentést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi és erről az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjét és az egészségbiztosítási szervet értesíti.
 
 (7) Az (2) bekezdés szerinti gyógyszerhiány esetében a forgalomba hozatali engedély jogosultja és a gyógyszer-nagykereskedő a gyógyszerhiány kezelése érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint köteles együttműködni az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjével, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel.
+
+(8) Amennyiben a gyógyszerészeti államigazgatási szerv arról kap értesítést, hogy a magyarországi lakossági ellátásra szánt gyógyszer kivitele olyan mértékű, hogy az fenyegeti az adott gyógyszerrel történő ellátás folyamatos biztosítását, a gyógyszerészeti államigazgatási szerv a gyógyszer nagykereskedelmi tevékenység körében végzett kivitelét az ellátásbiztonság garantálásához szükséges – legfeljebb egyéves – időtartamra megtiltja, amennyiben megállapítja, hogy az adott gyógyszer kivitele gyógyszerellátási zavart idézhet elő.
 
 ### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
 
@@ -361,15 +420,33 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) A feltételezett minőségi hiba bejelentője a bejelentéssel egyidejűleg köteles a minőség-ellenőrző vizsgálathoz szükséges – a külön jogszabályban meghatározott mennyiségű – gyógyszert is megküldeni.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(4) Amennyiben minőség-ellenőrző vizsgálatra van szükség, a gyógyszer beszerzéséről a gyógyszerészeti államigazgatási szerv gondoskodik.
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalombahozatali engedélyében rögzített követelményeknek, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó határozatot a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+
+(4)
 
 (5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalombahozatali engedély jogosultját terhelik.
 
 17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
 
 (2) Különös méltánylást érdemlő betegellátási érdekből vagy esetleges gyógyszerellátási zavar megelőzése érdekében a gyógyszerészeti államigazgatási szerv az (1) bekezdés rendelkezéseitől eltekinthet.
+
+17/B. § (1) A tényállás tisztázása érdekében – a hatósági ellenőrzés keretében folytatott eljárások esetén – a gyógyszerészeti államigazgatási szerv bármely személyt vagy szervezetet nyilatkozattételre hívhat fel és a gyógyszerészeti államigazgatási szerv kérésére bármely személy vagy szervezet köteles a kezelésében levő adatokat, illetve a birtokában levő iratok másolatát olvasható és másolható formában a gyógyszerészeti államigazgatási szerv rendelkezésére bocsátani. A gyógyszerészeti államigazgatási szerv jogosult bármely személy birtokában levő adathordozóról fizikai tükörmásolatot készíteni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni, ha valószínűsíthető, hogy az adathordozón a 20. § szerinti hatósági ellenőrzés keretében folytatott eljáráshoz kapcsolódó adatok találhatók.
+
+(2) A tényállás tisztázása érdekében a gyógyszerészeti államigazgatási szerv jogosult a más hatóság hatósági ellenőrzése nyomán rendelkezésére álló – a hatósági ellenőrzés keretében folytatott eljárásokhoz kapcsolódó – adatainak megismerésére.
+
+(3) A gyógyszerészeti államigazgatási szerv – a hatósági ellenőrzés keretében folytatott eljárásokkal összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a gyógyszerészeti államigazgatási szerv a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
+
+(4) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés keretében folytatott eljárások során bármely helyszínt átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat. A kutatás során az eljáró személy az ügyfelet, az ügyfél megbízottját (volt megbízottját), alkalmazottját (volt alkalmazottját) szóban vagy írásban felvilágosítás és magyarázat adására kötelezheti, illetve a helyszínen más módon tájékozódhat. Magáncélú, illetve magánhasználatú helyiségben, ideértve a járműveket és más területet is, helyszíni ellenőrzést folytatni csak akkor lehet, ha az az ügyfél bármely jelenlegi vagy volt vezető tisztségviselője, alkalmazottja, megbízottja, valamint a ténylegesen az irányítást gyakorló, vagy korábban irányítást gyakorolt más személy használatában van.
+
+(5) A (4) bekezdésben meghatározott vizsgálati cselekményre előzetes ügyészi jóváhagyással kerülhet sor. Az ügyészség a kérelmezett vizsgálati cselekményt akkor hagyja jóvá, ha a gyógyszerészeti államigazgatási szerv valószínűsíti, hogy más vizsgálati cselekmény nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy a kérelem szerinti helyszínen a megjelölt jogsértéssel kapcsolatos információforrás fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. Az ügyészség a kérelmezett vizsgálati cselekményt részben is jóváhagyhatja, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető. Az ügyészség jóváhagyása alapján a kibocsátásától számított kilencven napig foganatosítható vizsgálati cselekmény.
+
+(6) A (4) bekezdésben meghatározott vizsgálati cselekményről az érintetteket a vizsgálati cselekmény megkezdésével egyidejűleg szóban kell értesíteni, és lehetőleg az érintettek jelenlétében kell elvégezni. A vizsgálati cselekmény megkezdése előtt közölni kell az ügyészi jóváhagyást és a vizsgálati cselekmény célját.
+
+(7) A gyógyszerészeti államigazgatási szerv – amennyiben a tényállás tisztázása érdekében szükségesnek tartja – hivatalból elrendelheti az általa meghallgatott tanú adatainak zártan kezelését.
+
+(8) A hatósági ellenőrzés keretében folytatott eljárások esetén az ügyintézési határidő 90 nap, amelyet az eljáró hatóság vezetője annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.
 
 ### Farmakovigilancia
 
@@ -452,9 +529,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 - e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
-(4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
+(4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható. Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény rendelkezéseit.
 
-(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint.
+(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet.
 
 (6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
@@ -584,6 +661,8 @@ kártérítést fizet.
 (5) Az egészségbiztosítási szerv és a gyógyszerészeti államigazgatási szerv a hivatalos lapjukban megjelenő – a gyógyszerek forgalomba hozatalával, orvosi rendelésével, valamint az árukhoz nyújtott társadalombiztosítási támogatással kapcsolatos – közleményeiket az internetes honlapjukon közzéteszik.
 
 (6) A gyógyszerészeti államigazgatási szerv e törvényben foglaltak alapján hozott, valamint a gyógyszernek nem minősülő gyógyhatású készítmények nyilvántartása és forgalomba hozatala tárgyában hozott döntései ellen fellebbezésnek helye nincs.
+
+(7) A gyógyszerészeti államigazgatási szerv a Magyarországon forgalomba hozatalra engedélyezett, gyógyszernek nem minősülő gyógyhatású készítmények nevéről és az engedélyezés dátumáról közhiteles hatósági nyilvántartást vezet.
 
 27. § A Ket. 28/B. §-a szerinti elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
 
@@ -877,8 +956,9 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.I.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  | 360 000 |
 | III.I.2. |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  | 90 000 |
 | III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  | 90 000 |
+| III.I.4. |  | Gyógyszerközvetítői tevékenység regisztrációja |  |  |  |  |  | 90 000 |
 | III.J. | Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylat kiadás |  |  |  |  |  |  | 382 500 |
-| III.K. | Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és alkalmanként |  |  |  |  |  |  | 22 500 |
+| III.K. | Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és bizonylatonként |  |  |  |  |  |  | 22 500 |
 | III.L. | Szakértői tevékenység végzése, szaktanácsadás, konzultáció óradíja |  |  |  |  |  |  | 8 000 |
 | III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  | 405 000 |
 | III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |
@@ -893,3 +973,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.P. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |
 | III.P.1. | A forgalomba hozatali engedély módosítása |  |  |  |  |  |  | 90 000 |
 | III.P.2. | A forgalomba hozatali engedély meghosszabbítása |  |  |  |  |  |  | 90 000 |
+| III.Q. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |
+| III.Q.1. | Gyógyszerhatóanyag-gyártási, import és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  | 90 000 |
+| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 675 000 |
+| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 675 000 |
+| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  | 225 000 |

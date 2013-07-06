@@ -382,6 +382,8 @@ minősül.
 
 15/D. § A 11/A–15/D. §-ban foglaltaktól kollektív szerződés – az Mt. 135. § (2) bekezdésében, valamint 165. § (2) bekezdésében foglaltakon túlmenően, a Kjt. 83. §-ában foglaltaktól eltérően – csak az alkalmazott egészségügyi dolgozó javára térhet el.
 
+15/E. § Amennyiben a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény (a továbbiakban: Átvételi tv.) 7. §-a alapján közalkalmazotti jogviszonyban továbbfoglalkoztatott személy az Átvételi tv. 7. § (5) bekezdésére tekintettel jubileumi jutalom iránti igényt érvényesít, a megállapítható jubileumi jutalom összegét csökkenteni kell azon juttatás összegével, amelyet a foglalkoztatott a gazdasági társaságnál vagy annak az Átvételi tv. 7. § (5) bekezdése szerinti jogelődjénél kollektív szerződés, munkaszerződés vagy egyoldalú munkáltatói kötelezettségvállalás alapján, kifejezetten huszonöt év, harminc év vagy negyven év jogviszonyban töltött idejére tekintettel kapott (a továbbiakban e § alkalmazásában: felvett juttatás). Amennyiben a felvett juttatás mértéke eléri vagy meghaladja a megállapítható jubileumi jutalom összegét, a közalkalmazott részére a felvett juttatással értékelt jogviszonyban töltött idejére tekintettel jubileumi jutalom nem állapítható meg.
+
 ### Közszolgálati jogviszony, kormányzati szolgálati jogviszony és szolgálati viszony
 
 16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
@@ -666,7 +668,7 @@ kell érteni.
 - a) 2012. augusztus 1-jén a törvény erejénél fogva megszűnnek,
 - b) az a) pontban foglaltaktól eltérően az (1) bekezdés szerinti esetben az (1) bekezdésben meghatározott időtartamig hatályban maradnak, azzal, hogy e megállapodások felmondására a 2012. június 30-án hatályos 14/A. § (2) bekezdését kell alkalmazni.
 
-(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel (a továbbiakban: Módtv2.) módosított 29. § (18) bekezdését 2012. január 1-jétől kell alkalmazni.
+(3)
 
 (4) A Módtv2.-vel módosított 14/D. § szerinti, a Módtv2. hatálybalépésekor fennálló jogviszonyt a Módtv2. hatálybalépését követő 30 napon belül be kell jelenteni a fenntartónak. A fenntartó a jogviszony jóváhagyása tárgyában a bejelentéstől számított 60 napon belül dönt.
 
