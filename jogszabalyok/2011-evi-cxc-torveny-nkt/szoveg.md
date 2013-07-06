@@ -371,7 +371,7 @@ szükséges.
 
 #### 19. A köznevelési intézmények alapítása, megszüntetése
 
-21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – az állami intézményfenntartó központ által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
+21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – az állami intézményfenntartó központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
 (2) A köznevelési intézmény alapítását az alapító okirat, az állami intézményfenntartó központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, az állami intézményfenntartó központ által fenntartott intézmény esetében a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szervnél (a továbbiakban: hivatal), más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
 
@@ -448,7 +448,7 @@ rendelkezik.
 
 (3)
 
-23. § (1) Ha a köznevelési intézményt nem az állami intézményfenntartó központ, települési önkormányzat alapítja, működésének megkezdéséhez engedély szükséges.
+23. § (1) Ha a köznevelési intézményt nem állami költségvetési szerv, vagy települési önkormányzat – beleértve a helyi önkormányzatok társulását is – alapítja, működésének megkezdéséhez engedély szükséges.
 
 (2) Az engedély akkor adható ki, ha a köznevelési intézmény a 22. § (1)–(2) bekezdésben meghatározottak szerint rendelkezik a működéséhez szükséges feltételekkel és a nyilvántartásba vétel óta kevesebb mint hat hónap telt el. Az engedély kiadásával összefüggő költségeket a kérelem benyújtója viseli.
 
@@ -1264,9 +1264,11 @@ fegyelmi büntetés szabható ki.
 
 (5)
 
-(6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézményben alkalmazottak felett a helyi munkaszervezéssel összefüggő, az állami intézményfenntartó központ szervezeti és működési szabályzatában meghatározott egyes átruházott munkáltatói jogokat gyakorol.
+(6) A köznevelési intézményben végzett munka jellegén, természetén nem változtat az a körülmény, hogy a köznevelési intézménynek ki a fenntartója. Az állami intézményfenntartó központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az állami intézményfenntartó központ vezetője gyakorolja. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézmény alkalmazottjai tekintetében – a bérgazdálkodást érintő döntések, a kinevezés és a közalkalmazotti jogviszony megszüntetése kivételével – gyakorolja a munkáltatói jogokat. Az állami intézményfenntartó központ által fenntartott köznevelési intézmény vezetője az e bekezdésben meghatározottak szerint gyakorolhatja a munkáltatói jogot azok tekintetében is, akik a működtető, vagy az általa megbízott személy, illetve szervezet intézkedése alapján végeznek munkát a köznevelési intézményben, amennyiben a működtető így dönt.
 
 (7) A köznevelési intézményben történő foglalkoztatás esetén nem összeférhetetlen, ha a magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult a Munka Törvénykönyve szerinti közeli hozzátartozójával irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba kerülne.
+
+(8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon az állami intézményfenntartó központ által fenntartott köznevelési intézményt is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
 
 #### 35. A pedagógus kötelességei és jogai
 
@@ -1978,6 +1980,7 @@ egyetértésben gyakorolja.
 - q) az állami intézményfenntartó központtal a köznevelési intézmény feladatait szolgáló ingatlan működtetése céljából köthető szerződés részletes tartalmát,
 - r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 - s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
+- s) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát
 - t) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét
 
 rendeletben állapítsa meg.
@@ -2074,7 +2077,7 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (19) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
 
-(20) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a szakmai gyakorlata szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik 2015. szeptember 1-jétől első minősítéséig a Pedagógus I. fokozatba és a szakmai gyakorlata szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra.
+(20) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2015. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik 2015. szeptember 1-től első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra, azzal az eltéréssel, hogy a besorolás szerinti fokozat megnevezése igazodik a munkakör megnevezéséhez.
 
 (21) Nem vonatkozik a minősítési kötelezettség arra a nevelési-oktatási intézményben foglalkoztatott pedagógusra, aki 2013. szeptember 1-jétől, és arra a pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatottra, aki 2015. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
 

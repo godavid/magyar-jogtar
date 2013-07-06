@@ -340,7 +340,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 - a) a gyógykezeléssel összefüggő adatainak kezeléséről tájékoztatást kapni,
 - b) a rá vonatkozó egészségügyi adatokat megismerni,
-- c) az egészségügyi dokumentációba betekinteni, valamint azokról saját költségére másolatot kapni,
+- c) az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot vagy másolatot készíteni vagy saját költségére másolatot kapni,
 - d) a fekvőbeteg-gyógyintézetből történő elbocsátásakor zárójelentést (137. §) kapni,
 - e) egészségügyi adatairól indokolt célra – saját költségére – összefoglaló vagy kivonatos írásos véleményt kapni.
 
@@ -484,6 +484,17 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 (2) Az (1) bekezdés szerinti nyilvántartást – a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendeletben foglaltak szerint – a Kormány által kijelölt szerv vezeti.
 
 (3) Az (1) bekezdés szerinti nyilvántartás tartalmazza a betegjogi, ellátottjogi és gyermekjogi képviselő családi és utónevét, születési nevét, születési helyét és idejét, az anya születési családi és utónevét, lakóhelyét és tartózkodási helyét, állampolgárságát, a képesítésére vonatkozó adatot, valamint a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti adatokat.
+
+(3a) Az (1) bekezdés szerinti nyilvántartás a következő adatok tekintetében minősül közhitelesnek:
+
+- a) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti jogvédelmi tanfolyam elvégzését igazoló tanúsítvány megnevezése, száma, kelte,
+- b) a továbbképzési kötelezettséggel kapcsolatban az adott naptári évben teljesített továbbképzési órák száma,
+- c) a szüneteltetéssel kapcsolatban a szünetelés kezdő és záró napja,
+- d) a nyilvántartási igazolvány:
+  - da) száma,
+  - db) érvényességével, érvénytelenségével, érvénytelenítésével kapcsolatos bejegyzés,
+  - dc) elvesztése, megrongálódása, megsemmisülése esetén az igazolvány pótlására vonatkozó bejegyzés,
+- e) a nyilvántartás megszűnésének, megszüntetésének időpontja és jogalapja.
 
 ### A közvetítői tanács
 
@@ -679,7 +690,7 @@ alapul.
 
 (4) Élelmiszer előállításával, kezelésével, forgalmazásával csak olyan személy foglalkozhat, akinek az egészségi állapota a fogyasztók egészségét nem veszélyezteti és a tevékenységhez szükséges szakmai, egészségügyi és higiéniai ismeretekkel rendelkezik.
 
-(5) A közegészségügyi megfelelőség szempontjából az élelmiszerrel esik egy tekintet alá a rendeltetésszerű vagy szokásos használata során a szájjal érintkező gyermekjáték és más használati tárgy, illetve a kozmetikai készítmény.
+(5) A közegészségügyi megfelelőség szempontjából az élelmiszerrel esik egy tekintet alá a rendeltetésszerű vagy szokásos használata során a kozmetikai készítmény.
 
 50. § (1) A táplálkozás-egészségügy feladata a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozó egyes vizsgálatok végzése, ezek alapján táplálkozási ajánlások kidolgozása – kiemelt figyelemmel a táplálkozással összefüggő nem fertőző betegségek előfordulásának csökkentésére –, a beavatkozási pontok és programok meghatározása, szervezése, lebonyolítása, értékelése és monitorozása.
 
@@ -1204,7 +1215,8 @@ beutalása alapján vehető igénybe.
 - a) a külön jogszabályban meghatározott életmentő tevékenységhez az azt végző orvos, illetve munkacsoport szállítása (pl. szervátültetés),
 - b) életmentő orvosi eszköz és gyógyszer, valamint átültetésre kerülő szerv sürgős szállítása,
 - c) mentési készenlét biztosítása balesetek helyszínén, továbbá tömeges balesetek és rendkívüli esetek kárhelyén a helyszín biztosításának, illetve a veszélyhelyzet elhárításának idejére (mozgóőrség),
-- d) mentési készenlét biztosítása rendezvény helyszínén, térítés ellenében, meghatározott helyen és ideig (rendezvénybiztosítás).
+- d) mentési készenlét biztosítása rendezvény helyszínén, térítés ellenében, meghatározott helyen és ideig (rendezvénybiztosítás),
+- e) mentési készenlét térítés ellenében történő ellátása olyan helyszíneken, amelyek az ott időszakosan vagy folyamatosan végzett tevékenység jellege alapján – ideértve az építkezést, műszaki munkálatok elvégzését – a balesetveszély szempontjából fokozottan kockázatosnak tekintendők (helyszínbiztosítás).
 
 (6) A közterületen vagy nyilvános helyen tartózkodó, magatehetetlen ittas személyt a mentőszolgálat kijózanítás céljából egészségügyi megfigyelésre, illetve ellátásra az illetékes egészségügyi szolgáltatóhoz szállítja. A megfigyelés az érintett kijózanodásáig, de legfeljebb 24 óráig tarthat. A beszállított személyt kijózanodásáig, de legfeljebb 24 órai időtartamra lehet az egészségügyi intézményben visszatartani.
 
@@ -1297,14 +1309,15 @@ beutalása alapján vehető igénybe.
 - d) az orvostechnikai eszközökkel kapcsolatos baleset, váratlan esemény bejelentéssel,
 - e) az orvostechnikai eszközökkel kapcsolatos váratlan esemény kivizsgálásával,
 - f) a balesetfelelős bejelentésével,
-- g) az implantátum beültetése során előírt nyilvántartással kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+- g) az implantátum beültetése során előírt nyilvántartással
+- h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
 
 (2) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a bírság összege
 
-- a) az (1) bekezdés a) pontja esetén 50 000 forinttól 400 000 forintig,
+- a) az (1) bekezdés a), g) és h) pontja esetén 50 000 forinttól 400 000 forintig,
 - b) az (1) bekezdés b) pontja esetén 10 000 forinttól 140 000 forintig,
 - c) az (1) bekezdés c) pontja esetén 50 000 forinttól 150 000 forintig,
-- d) az (1) bekezdés d)–g) pontja esetén 15 000 forinttól 50 000 forintig
+- d) az (1) bekezdés d)–f) pontja esetén 15 000 forinttól 50 000 forintig
 
 terjedhet.
 
@@ -1479,7 +1492,7 @@ kell alkalmazni.
 
 111. § (1) Az egészségügyi dolgozók alapnyilvántartásáról szóló miniszteri rendeletben foglalt egészségügyi szakképesítéseket az oklevél vagy bizonyítvány megszerzését, illetve magyarországi honosítását vagy elismerését követően alapnyilvántartásba kell venni.
 
-(2) Az alapnyilvántartás célja a megszerzett szakképesítés közhiteles tanúsítása.
+(2) Az alapnyilvántartás célja a megszerzett szakképesítés közhiteles tanúsítása. Az alapnyilvántartás a (3) bekezdés b) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Az alapnyilvántartás az alábbi adatokat tartalmazza:
 
@@ -1497,7 +1510,7 @@ kell alkalmazni.
 
 112. § (1) Azt a személyt, aki az e törvényben foglalt feltételeknek megfelel, kérelmére működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
+(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartás a (4) bekezdés b)–n) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
 
 (3) Nem vehető fel a működési nyilvántartásba az,
 
@@ -1578,9 +1591,11 @@ a törléstől számított egy évig,
 - a) a nyilvántartott személy e törvényben és jogszabályban foglaltak szerint teljesítette továbbképzési kötelezettségét vagy mentesül a továbbképzési kötelezettségteljesítés alól, és ezt a működési nyilvántartást vezető szerv részére igazolja, valamint
 - b) nyilvántartásba vételt kizáró ok nem áll fenn.
 
-(3) A működési nyilvántartás egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy az EGT valamely más tagállamában történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
+(3) A működési nyilvántartás (1) bekezdés szerinti érvényességi ideje egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy más EGT tagállamban történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
 
 (4) A (3) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a közfeladat ellátásának időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
+
+(4a) A (3) és (4) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy gyermekvállalás miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a terhességi gyermekágyi segély, a gyermekgondozási díj vagy gyermekgondozási segély jogosultsági ideje időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
 
 (5) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
 
@@ -1616,13 +1631,13 @@ a törléstől számított egy évig,
 
 ### Egységes ágazati humánerőforrás-monitoringrendszer
 
-114. § (1) Az egészségügyi ágazati humánerőforrás nyomon követése céljából egységes egészségügyi ágazati humánerőforrás-monitoringrendszer működik, amely ellátja a (2) bekezdésben, valamint a külön jogszabályban meghatározott feladatokat.
+114. § (1) Az egészségügyi ágazati humánerőforrás nyomon követése, valamint stratégiai tervezésének elősegítése céljából egységes egészségügyi ágazati humánerőforrás-monitoring rendszer működik, amely ellátja a (2) bekezdésben, valamint a jogszabályban meghatározott feladatokat.
 
 (2) Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszert működtető egészségügyi államigazgatási szerv
 
-- a) a 112. § (4) bekezdés a)–c), e), g) és j)–l) pontjai szerinti adatokat,
-- b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
-- c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének járás szerinti megjelölését,
+- a) a 112. § (4) bekezdés szerinti adatokat,
+- b)
+- c)
 - d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 - e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettekre, a szakvizsgát tett személyekre vonatkozó adatokat, valamint a 116/A. § (5) bekezdés d) pontja szerinti adatokat,
 - f) a d) és e) pontokban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
@@ -1636,7 +1651,7 @@ a törléstől számított egy évig,
 (3) A (2) bekezdés szerinti szervnek
 
 - a) személyazonosításra alkalmas módon továbbítja
-  - aa) a (2) bekezdés a)–c) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
+  - aa) a (2) bekezdés a) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
   - ab) a (2) bekezdés e) pontja szerinti adatokat az egészségügyi államigazgatási szerv,
   - ac) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
   - ad) a (2) bekezdés i) és k) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
@@ -1647,6 +1662,8 @@ a törléstől számított egy évig,
   - bd) a (2) bekezdés l) pontja szerinti adatokat az egészségbiztosítási államigazgatási szerv.
 
 (4) Az egységes ágazati humánerőforrás-monitoring végrehajtása érdekében a (2) bekezdésben meghatározott szerv a (2) bekezdésben meghatározottakon kívül jogosult a hatósági, ellenőrzési és gazdasági tevékenységgel járó, továbbá a nyilvános és közhitelű nyilvántartások vezetésével összefüggő adatgyűjtést végző szervtől a rendelkezésre álló adatokat egyedi azonosításra alkalmatlan módon átvenni. Ezen adatok átadása céljából megkeresett szervek a megkeresésben foglaltak szerinti adatokat térítésmentesen kötelesek átadni.
+
+(4a) Az egységes egészségügyi ágazati humánerőforrás-monitoring rendszert működtető egészségügyi államigazgatási szerv felé az állami foglalkoztatási szerv, a kormányzati személyügyi szolgáltató, valamint valamennyi, működési engedéllyel rendelkező egészségügyi szolgáltató köteles megküldeni az egészségügyi dolgozók által betölthető álláshelyére – különösen az álláshely betöltési feltételeire –, valamint a foglalkoztatási igényére vonatkozó adatokat azok keletkezésétől, illetve változásától számított öt munkanapon belül, a rendelkezésre álló egészségügyi humánerőforrás legmegfelelőbb hasznosulása érdekében.
 
 (5) A (3) bekezdés szerinti szerv az ott meghatározottak szerinti adatokat a jogszabályban meghatározott határidőben, illetve gyakorisággal, de legalább évente egyszer a naptári év végét követő 14 napon belül, a (2) bekezdés j) pontja tekintetében a jogszabály szerinti adatközlési határidőt követő 30 napon belül, a (2) bekezdés h) és k) pontja tekintetében havonta térítésmentesen továbbítja a (2) bekezdés szerinti szervnek.
 
@@ -1689,6 +1706,8 @@ a törléstől számított egy évig,
 - e) a munkáltató nevét, címét, adószámát és bankszámla számát.
 
 (5a) A 150. § (4) bekezdésében meghatározott feladat végrehajtásában – jogszabályban történő kijelölés esetén – az egészségügyi államigazgatási szerv részt vehet. A kijelölés alapján eljáró egészségügyi államigazgatási szerv a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
+
+(5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
 
 (6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
@@ -1755,6 +1774,8 @@ a törléstől számított egy évig,
 - c) a képzésbe lépéshez szükséges szakképzettséget igazoló oklevél számát, kiállításának a helyét, idejét és az oklevelet kiállító intézmény megnevezését,
 - d) a megszerzett szakvizsga-bizonyítvány megnevezését, számát, eredményét,
 - e) az egészségügyi szakmai tevékenység végzésére jogosító okirat másolatát.
+
+(6a) Az (5) bekezdés szerinti nyilvántartás a (6) bekezdés a) pont ac) és ad) alpontjában, valamint b)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (7) Az (5) bekezdésben meghatározott nyilvántartás adatainak, valamint az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos valamennyi dokumentumnak a kötelező megőrzési ideje 50 év.
 
@@ -2231,12 +2252,14 @@ költségének fedezetét.
 
 (4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.
 
+152/A. § A települési önkormányzat együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben az ezeket végző szervekkel és személyekkel, valamint támogatja és aktívan kezdeményezi ezen tevékenységeket.
+
 153. § (1) A települési önkormányzat a környezet- és település-egészségügyi feladatok körében
 
 - a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról,
 - b) biztosítja a 73. § (1) bekezdése szerinti külön jogszabályban meghatározott rovarok és rágcsálók irtását,
 - c) folyamatosan figyelemmel kíséri a település környezet-egészségügyi helyzetének alakulását és ennek esetleges romlása esetén – lehetőségeihez képest – saját hatáskörben intézkedik, vagy a hatáskörrel rendelkező és illetékes hatóságnál kezdeményezi a szükséges intézkedések meghozatalát,
-- d) együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben, valamint támogatja és aktívan kezdeményezi ezeket.
+- d)
 
 (2) A települési önkormányzat képviselő-testülete dönt a gyógyiszap és gyógyforrástermék kitermeléséről, kezeléséről, az elismert gyógyvíz, a gyógyiszap és a gyógyforrástermék palackozásáról, csomagolásáról, valamint forgalomba hozataláról, illetve engedélyezi e tevékenységeket.
 
@@ -2284,12 +2307,14 @@ költségének fedezetét.
 - d) az egészségügyi szolgáltató ellátási területének módosítása,
 - e) az egészségügyi szolgáltató szakellátási kapacitásainak átcsoportosítása,
 - f) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
-- g) az egészségügyi szolgáltató finanszírozási szerződése megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának jóváhagyása,
+- g)
 - h) az egészségügyi szolgáltatónak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
 - i) az egészségügyi szolgáltató működését szabályozó dokumentumok jóváhagyása,
 - j) az egészségügyi szolgáltató működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti rendelési idő tekintetében, valamint
 - k) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás. A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik.
 - l) az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatóját érintő fejlesztési célú pályázathoz szükséges fenntartói nyilatkozat megtétele.
+
+(6) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója a finanszírozási szerződés megkötéséről, módosításáról, megszűnéséről a fenntartóját és az egészségügyért felelős minisztert is tájékoztatja.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -2534,7 +2559,10 @@ aki megfelel a 171. § (1) bekezdésben foglaltaknak;
 
 (5) Kutatóhely csak ivarsejtekkel végzett orvostudományi kutatás céljára és kizárólag az ivarsejt átvételére jogosult egészségügyi szolgáltató vagy kutatóhely részére adhat át ivarsejteket.
 
-174. § (1) Az egészségügyi szolgáltató az adományozott és általa elfogadott ivarsejteket a felhasználásig fagyasztva tárolja. A ivarsejtek tárolása külön jogszabályban meghatározottak szerint kizárható, illetőleg időtartama korlátozható. A korlátozott időtartamig tárolható ivarsejteket a tárolási idő lejártát követően meg kell semmisíteni.
+174. § (1) Az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló jogszabályban
+
+- a) meghatározott esetben az egészségügyi szolgáltató az adományozott és általa elfogadott ivarsejteket a felhasználásig fagyasztva tárolja,
+- b) meghatározottak szerint az ivarsejtek tárolása kizárható vagy időtartama korlátozható azzal, hogy a korlátozott időtartamig tárolható ivarsejteket a tárolási idő lejártát követően meg kell semmisíteni.
 
 (2) Egészségügyi okból szakorvosi javaslat alapján, illetőleg egyéb indokolt kérelemre ivarsejtek fagyasztva tárolás céljából cselekvőképes személytől későbbi, a letevő saját felhasználása céljából is átvehetők (ivarsejt letét). Letétként kizárólag a letevő saját és személyesen átadott ivarsejtjei vehetők át.
 
@@ -3168,7 +3196,7 @@ megítéléséhez szükséges.
 
 (2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
 
-- a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
+- a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, valamint az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló törvény szerinti nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
 - b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
 (3) Különleges jogrend bevezetésekor a katasztrófa-egészségügyi ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
@@ -3204,7 +3232,8 @@ minősíthet egészségügyi válsághelyzetnek.
 - d) a jogi és igazgatási szabályozás kidolgozására,
 - e) az egészségügyi készletek tartalékolására,
 - f) a speciális képzési feladatok ellátására, és
-- g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására.
+- g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására,
+- h) a szükséggyógyintézetek elhelyezésére alkalmas ingatlanok előzetes kijelölésére.
 
 (4) A katasztrófa-egészségügyi ellátás tényleges működése kiterjed
 
@@ -3249,7 +3278,7 @@ látja el.
 
 (3) Az (1) bekezdés szerinti szakértői tevékenység folytatását az egészségügyi államigazgatási szerv annak engedélyezi, aki büntetlen előéletű, nem áll egészségügyi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(4) Az egészségügyi államigazgatási szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(4) Az egészségügyi államigazgatási szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy nevét, nyilvántartási számát, működésének szakterületét, valamint az érvényességi idejét. A nyilvántartás a szakértői tevékenység végzésére jogosult személy nevének kivételével közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (5) A 234. § (1) bekezdése szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint, hogy nem áll az egészségügyi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az egészségügyi államigazgatási szerv részére – annak a szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során az egészségügyi államigazgatási szerv a (6) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -3328,11 +3357,31 @@ elnevezés használatát engedélyezték.
 
 ### A gyógytényezőkkel, fürdő- és klímagyógyintézetekkelés gyógyhelyekkel kapcsolatos engedélyek módosítása, visszavonása
 
-242. § A gyógytényezőkkel, fürdő- és klímagyógyintézetekkel, valamint a gyógyhelyekkel kapcsolatban kiadott bármely engedély és hozzájárulás egészségügyi érdekből módosítható vagy visszavonható, illetőleg az engedély vagy hozzájárulás további fenntartása egészségügyi érdekből szükséges intézkedések megtételéhez köthető.
+242. § (1) A gyógytényezőkkel, fürdő- és klímagyógyintézetekkel, valamint a gyógyhelyekkel kapcsolatban kiadott bármely engedély és hozzájárulás egészségügyi érdekből módosítható, visszavonható vagy az engedély vagy hozzájárulás további fenntartása egészségügyi érdekből szükséges intézkedések megtételéhez köthető.
+
+(2) A gyógyhelyekről, a gyógyfürdő- és klímagyógyintézetekről, a Magyarországon kitermelt elismert természetes ásványvizekről, gyógyvizekről, gyógyiszapokról és az egyéb természetes gyógytényezőkről, valamint a külföldről behozott és bejelentett palackozott gyógyvizekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
+
+(3) A (2) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) az engedély számát,
+- b) az engedélyes nevét, valamint
+- c) az engedély tárgyát.
+
+(4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 ### Természetes fürdővizekhez kapcsolódó engedély
 
 242/A. § (1) Természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenység végzéséhez a minőségellenőrzésért felelős egészségügyi államigazgatási szerv engedélye szükséges. Az eljáró hatóság az engedély megadásával egyidejűleg hivatalból nyilvántartásba veszi a szolgáltatót.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás az (1b) bekezdés a) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(1b) Az (1) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) az engedély számát,
+- b) az engedélyes nevét, valamint
+- c) az engedély tárgyát.
+
+(1c) Az (1) bekezdés szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő mintavételi és laboratóriumi vizsgálati tevékenységének folytatására irányuló szándékát köteles a minőségellenőrzésért felelős egészségügyi államigazgatási szervnek bejelenteni.
 
@@ -3367,7 +3416,7 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 - a) az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás eltérően rendelkezik, vagy
 - b) szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
 
-(7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről Magyarország területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele – kivéve az állami vérellátó szolgálat által megkötött egyezményt vagy megállapodást – az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
+(7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről Magyarország területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele – kivéve az állami vérellátó szolgálat által megkötött egyezményt vagy megállapodást – az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul, amelyre vonatkozóan az egészségügyi államigazgatási szerv a kérelmezőt nyilatkoztatja. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
 (8) Nem magyar állampolgár halála esetén az állampolgársága szerinti állam konzulját haladéktalanul értesíteni kell.
 
@@ -3412,6 +3461,8 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 244/D. §
 
 244/E. § A 2013. április 28-án hatályos 244/D. § (5) bekezdés alapján meghozott döntések – a 244/D. § hatályon kívül helyezésére tekintettel – nem kerülnek alkalmazásra és a döntési kötelezettség teljesítésének elmulasztása jogkövetkezményekkel nem jár.
+
+244/F. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv3.) megállapított 113. § (4a) bekezdésében foglaltak a Módtv3. hatályba lépésekor érvényes működési nyilvántartással rendelkező egészségügyi dolgozók esetében is alkalmazandók.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -3529,7 +3580,7 @@ rendeletben megállapítsa.
 - q) a szervekkel, szövetekkel és sejtekkel kapcsolatos tevékenység tekintetében a szerv-, szövet- és sejtátültetésre, valamint a szerv-, szövet- és sejttárolásra vonatkozó részletes szabályokat,
 - r) a véradások szervezésével kapcsolatos részletes szabályokat, a térítéses véradások eseteit, a véradókat megillető költségtérítés, illetőleg a célzott (saját vagy meghatározott személy részére történő) véradás szabályait, továbbá a vérellátás biztonságának biztosítása érdekében szükséges önkéntes véradásra történő felhívás anyagi támogatásának ösztönzésével kapcsolatos szabályokat,
 - s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait,
-- sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat,
+- sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
 - t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 - u) az egységes ágazati humánerőforrás-monitoringrendszer működésének részletes szabályait,
 - v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, visszavonására, valamint – az államháztartásért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat

@@ -2685,6 +2685,8 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (4) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel módosított 1. számú melléklet 8. pont 8.15. alpontját 2012. július 1-jétől alkalmazni lehet.
 
+84/Y. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 1. számú melléklet 4.13. pontjában foglaltakat a 2013. január 1-jétől megszerzett pénzbeli juttatások tekintetében kell alkalmazni.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2843,25 +2845,33 @@ bármely esetben feltéve, hogy az nem minősül tevékenység ellenértékének
 
 4.11. a szakképző iskolai tanulónak, illetve felsőfokú szakképzésben részt vevő hallgatónak tanulószerződés, illetve hallgatói szerződés alapján, valamint szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, valamint a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény alapján a Nemzeti Foglalkoztatási Alap képzési alaprésze terhére folyósított szakiskolai tanulmányi ösztöndíj;
 
-4.12. a felsőoktatási intézmény nappali tagozatos hallgatója részére
+4.12. a nemzeti felsőoktatási törvény szerinti
 
-a) a nemzeti felsőoktatásról szóló törvény szerint az őt megillető juttatásként kifizetett
+4.12.1. hallgató részére
+
+a) nappali tagozaton az őt megillető juttatásként kifizetett
 
 – ösztöndíj,
 
 – tankönyv- és jegyzettámogatás teljes összege,
 
-– a diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
+– diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
-b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+b) nappali tagozaton a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
-4.13. a közoktatásról szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy egyház által a tanuló, a hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontokban nem említett pénzbeli juttatás;
+c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
+
+4.12.2. doktorjelölt részére a nemzeti felsőoktatási kiválóság ösztöndíj;
+
+4.12.3. oktató, kutató részére a nemzeti felsőoktatási kiválóság ösztöndíj;
+
+4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy vallási közösség által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
 
 4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása;
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
-4.16. az „Útravaló” Ösztöndíjprogram keretében a kormány rendeletében meghatározott feltételekkel és módon adományozott tanulói és mentori ösztöndíj, valamint a nemzetiségpolitikáért felelős miniszter rendeletével alapított – anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák tanulói részére adományozható – ösztöndíj;
+4.16. az „Útravaló” Ösztöndíjprogram keretében a Kormány rendeletében meghatározott feltételekkel és módon adományozott tanuló és mentori ösztöndíj, a nemzetiségpolitikáért felelős miniszter rendeletével alapított anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák, valamint – amennyiben az adott nemzetiség ilyen intézményt nem tart fenn – nemzetiségi nyelvoktatást folytató középfokú iskolák tanulói részére adományozható ösztöndíj;
 
 4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, a Deák Ferenc Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 

@@ -2585,7 +2585,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 és bentlakásos ellátás esetében a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona nincs.
 
-115. § (1) A személyes gondoskodás körébe tartozó szociális ellátások térítési díja (a továbbiakban: intézményi térítési díj) a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás egy főre jutó összegének, támogató szolgáltatás esetén a szolgáltatási önköltség és a szolgáltatás külön jogszabály szerinti költségvetési támogatásának különbözete. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, a közös költségelemek szolgáltatásonkénti közvetlen költségeinek arányában történő megosztásával. Emelt színvonalú bentlakásos ellátás esetében az intézményi térítési díjat az előző évben ténylegesen igénybe vett központi költségvetésről szóló törvényben biztosított támogatással kell számítani.
+115. § (1) A személyes gondoskodás körébe tartozó szociális ellátások térítési díja (a továbbiakban: intézményi térítési díj) – a 88. § (1) bekezdése szerinti intézmények kivételével – a szolgáltatási önköltség és a központi költségvetésről szóló törvényben biztosított támogatás egy főre jutó összegének, támogató szolgáltatás esetén a szolgáltatási önköltség és a szolgáltatás külön jogszabály szerinti költségvetési támogatásának különbözete. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, a közös költségelemek szolgáltatásonkénti közvetlen költségeinek arányában történő megosztásával. Emelt színvonalú bentlakásos ellátás esetében az intézményi térítési díjat az előző évben ténylegesen igénybe vett központi költségvetésről szóló törvényben biztosított támogatással kell számítani.
 
 (2) A kötelezett által fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető konkrét összegben állapítja meg, és arról az ellátást igénylőt a megállapodás megkötésekor írásban tájékoztatja. Az önkormányzati fenntartó a személyi térítési díjat határozattal is megállapíthatja. A személyi térítési díj nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
 
@@ -3038,6 +3038,8 @@ formájában lehet létrehozni.
 140/Q. § A 2012. december 31-ét megelőzően hatályos 58. § alapján kijelölt módszertani intézmények kijelölése 2012. december 31-én megszűnik.
 
 140/R. § A települési önkormányzatnak legkésőbb 2013. december 31-éig kell megalkotnia az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét.
+
+140/R. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 115. § (1) bekezdése alapján a 88. § (1) bekezdés a) és b) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2012. évi intézményi térítési díjjal, a 88. § (1) bekezdés c) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2011. évi intézményi térítési díjjal. A fenntartó az intézményi térítési díjat a 2012. évi fogyasztói árnövekedésnek megfelelő mértékben korrigálhatja.
 
 ### Az Európai Unió jogának való megfelelés
 
