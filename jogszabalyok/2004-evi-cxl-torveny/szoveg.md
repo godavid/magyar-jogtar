@@ -165,6 +165,8 @@ eljárásban.
 - e) a szakhatóság közreműködésére,
 - f) a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánításra.
 
+(4) A hulladékgazdálkodási közszolgáltatási tevékenység minősítésével kapcsolatos eljárásban törvény az ügyfélkörre vonatkozóan e törvény rendelkezéseitől eltérő szabályokat állapíthat meg.
+
 ### Ügyfél
 
 15. § (1) Ügyfél az a természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, akinek jogát vagy jogos érdekét az ügy érinti, akit hatósági ellenőrzés alá vontak, illetve akire nézve a hatósági nyilvántartás adatot tartalmaz.
