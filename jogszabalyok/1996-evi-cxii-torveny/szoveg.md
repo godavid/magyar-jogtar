@@ -928,7 +928,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - c) a jegyzett tőke leszállítása,
 - d) részvényfajta megváltoztatása, új részvényfajta kibocsátása, vagy a korábban kibocsátott részvények típusainak módosítása,
 - e) az igazgatóság jogkörének módosítása,
-- f) átváltoztatható vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
+- f) átváltoztatható, átváltozó vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
 - g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása,
 - h) részjegy névértékének, az egy tag által jegyezhető vagy jegyzendő részjegyek számának megváltoztatása.
 
@@ -1546,7 +1546,7 @@ együttesen jogosult.
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) Felügyelettel,
-- b) Országos Betétbiztosítási Alappal, önkéntes betét- és intézményvédelmi alappal,
+- b) az Országos Betétbiztosítási Alappal, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal szemben,
 - c) MNB-vel,
 - d) nemzetbiztonsági szolgálattal,
 - e) Állami Számvevőszékkel,
@@ -3185,7 +3185,7 @@ az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetés�
 
 127. § Az Alap a 124. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet és az MNB-t. Az Alap erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.
 
-### XX. Fejezet — Önkéntes betét- és intézménybiztosítás
+### XX. Fejezet — Betét- és intézménybiztosításra
 
 128. § (1) A hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapot (a továbbiakban: önkéntes alap) hozhatnak létre. Az önkéntes alap jogi személy.
 
@@ -3362,9 +3362,11 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 130. § Az önkéntes alap a betétek befagyása miatt, illetve a kifizetés elkerülése érdekében tervezett intézkedéseiről tájékoztatja a Felügyeletet.
 
-### XX/A. Fejezet
+130/A. § (1) Törvény kimondhatja intézményvédelmi integrációs szervezet létrehozását (kötelező intézményvédelmi szervezet).
 
-130/A. §
+(2) A kötelező intézményvédelmi szervezet szervezetének és működésének szabályait törvény határozza meg.
+
+### XX/A. Fejezet
 
 130/B. §
 
@@ -3898,7 +3900,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
   - ab) a tulajdonos vagy a harmadik országbeli hitelintézet nem képes, illetőleg nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és a Felügyelet határozatában előírt szintre felemelni, vagy
   - ac) a Felügyelet által jóváhagyott helyreállítási tervben foglaltakat nem, vagy csak jelentős késedelemmel, illetőleg eltérésekkel hajtják végre, vagy
 - b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelmény ötven százalékát, vagy
-- c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását.
+- c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
+- d) a szövetkezeti hitelintézet működési engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
 
 (3)
 
@@ -4504,17 +4507,19 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 216. § (1) Szövetkezeti formában működő pénzügyi vállalkozást legalább tizenöt tag, szövetkezeti hitelintézetet legalább kétszáz tag alapíthat, illetve működtethet.
 
+(1a) A szövetkezeti hitelintézet működési engedélye kiadásának feltétele, hogy taggá váljon a szövetkezeti hitelintézetek integrációjában és „C” sorozatú elsőbbségi részvénnyel rendelkezzen a Takarékbank Zrt-ben.
+
 (2) Szövetkezeti hitelintézetnek természetes és jogi személyek lehetnek a tagjai, a jogi személyek száma azonban nem haladhatja meg a tagok számának egyharmadát.
 
 (2a) Szövetkezeti hitelintézet esetében a részjegy névértéke nem haladhatja meg a tízezer forintot.
 
-(3) Szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a Magyar Állam, a feladatkörében eljáró önkéntes intézményvédelmi alap, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.
+(3) Szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a Magyar Állam, a Magyar Fejlesztési Bank, a kötelező intézményvédelmi szervezet, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.
 
 (4) Szövetkezeti formában működő hitelintézet határozatképtelenség miatt megismételt közgyűlése az eredeti napirendre felvett bármely kérdésben – ide nem értve a részjegy névértékének felemelését – hozhat határozatot.
 
 (4a) Szövetkezeti hitelintézet esetében a tag csak a szövetkezet tagját hatalmazhatja meg a közgyűlésen történő képviseletre azzal, hogy egy tag kizárólag egy további tagot képviselhet.
 
-(5) Szövetkezeti hitelintézet esetében az alapszabály megállapításához, a szövetkezet egyesüléséről való döntéshez és a részjegyek névértékének megváltoztatásához a közgyűlésen jelenlévő tagok kétharmadának igenlő szavazata szükséges.
+(5) A szövetkezeti hitelintézetek alapszabályukat vagy alapító okiratukat a kötelező intézményvédelmi szervezet igazgatósága által meghatározott szöveggel fogadják el. Az alapszabály megállapításához, a szövetkezet egyesüléséről való döntéshez és a részjegyek névértékének megváltoztatásához a közgyűlésen jelenlévő tagok felének igenlő szavazata szükséges.
 
 (6) Szövetkezeti hitelintézet esetében a közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót – a közgyűlés napirendi pontjával kapcsolatos iratok kivételével – kötelező valamennyi tagnak megküldeni, valamint az összehívásról hirdetményt közzétenni. A közgyűlési meghívónak és a hirdetménynek tartalmaznia kell, hogy a tag kérésére az iratokat a szövetkezeti hitelintézet hol és mely időpontokban bocsátja rendelkezésre. A közgyűlés által meghozott határozatokról a szövetkezeti hitelintézet valamennyi tagját levélben tájékoztatni kell.
 
@@ -4524,7 +4529,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (9) Szövetkezeti hitelintézet esetében a szövetkezetekről szóló 2006. évi X. törvény 106. §-ának (5) és (8) bekezdését nem kell alkalmazni.
 
-216/A. § (1) Szövetkezeti hitelintézet tagja, illetőleg örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
+(10) Szövetkezeti hitelintézet esetében a szövetkezetekről szóló 2006. évi X. törvény 20. § (2) bekezdése e) pontját azzal az eltéréssel kell alkalmazni, hogy a szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Takarékbank Zrt. előzetes jóváhagyása szükséges.
+
+216/A. § (1) Ha törvény kivételt nem tesz, a szövetkezeti hitelintézet tagja, illetőleg örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
 
 (2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, legfeljebb a megszűnést követő második éves beszámolót megállapító közgyűlés (küldöttgyűlés) napjától számított harmincadik napig a szövetkezet igazgatósága köteles meghosszabbítani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti hitelintézet saját tőkéje, illetőleg szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében meghatározott tőkekövetelményt.
 
@@ -5724,7 +5731,7 @@ f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét ny
 
 20. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
 
-21. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
+21. A részvénnyé – jövőbeli objektív feltétel alapján – átváltozó kötvény a járulékos tőkébe beszámít és szavatoló tőkeelemnek minősül. A részvénnyé átváltoztatható kötvény csak akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
 
 22. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
 

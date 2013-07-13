@@ -14,13 +14,13 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 (2) Az Egyetem külföldi hallgatójának jogállására e törvényt kell alkalmazni, ha jogszabály vagy a képzésről szóló megállapodás eltérően nem rendelkezik.
 
-2. § Az e törvényben nem szabályozott kérdésekben a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) rendelkezéseit kell alkalmazni.
+2. § Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
 3. § E törvény alkalmazásában
 
 - 1. közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő közigazgatási képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok;
 - 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított, a rendészeti képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok;
-- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított védelmi és katonai képzési ágak alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
+- 3. katonai felsőoktatás: a honvédtiszti életpályára történő felkészítés, valamint a honvédelmi terület civil szakembereinek felkészítése érdekében indított honvédelmi és katonai képzési ág alapképzési szakjai, valamint a hozzájuk kapcsolódó mesterképzési szakok. A katonai felsőoktatás részét képező honvédtiszti alap- és mesterképzés a haza fegyveres szolgálatára és a parancsnoki feladatok ellátására irányuló felkészítésre is kiterjed;
 - 4. nemzetbiztonsági felsőoktatás: a nemzetbiztonsági ágazat szakembereinek felkészítése érdekében indított nemzetbiztonsági alapképzési szak, valamint a hozzá kapcsolódó mesterképzési szak.
 
 ### II. Fejezet — A FENNTARTÓI TESTÜLET
@@ -36,14 +36,15 @@ felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen
 5. § Az FT
 
 - a) kiírja a rektori pályázatot,
-- b) dönt az Egyetem államilag támogatott és költségtérítéses képzésre felvehető hallgatói létszámának szakonkénti megosztásáról,
+- b) dönt az Egyetemre felvehető hallgatói létszám szakonkénti megosztásáról a 21/A. § (1) bekezdésében foglalt költségviselési formák szerinti bontásban,
 - c) elfogadja az intézményfejlesztési tervet, valamint a minősített adat védelmére vonatkozó egyetemi szabályzatot,
-- d) meghatározza az Egyetemen magasabb vezetői és vezetői megbízással rendelkezők számát úgy, hogy eltérhet az Ftv.-ben foglalt előírásoktól,
+- d) meghatározza az Egyetemen magasabb vezetői és vezetői megbízással rendelkezők számát,
 - e) benyújtja a Kormányhoz az éves költségvetési beszámolót és a támogatási tervet,
 - f) ellenőrzi az állam által rendelkezésre bocsátott eszközök felhasználásának hatékonyságát és jogszerűségét,
 - g) törvényességi ellenőrzést gyakorol az Egyetem felett,
 - h) gyakorolja az Egyetem részére nyújtott támogatás felhasználása feletti belső ellenőrzési jogkörét, valamint
-- i) meghatározza a szakmai ellenőrzés rendszerét.
+- i) meghatározza a szakmai ellenőrzés rendszerét,
+- j) az éves központi költségvetés tervezésekor benyújtja a Kormányhoz az Egyetem támogatási tervét a 36. §-ban foglaltak alapján.
 
 6. § Az FT képviselőjét a szenátus és a kari tanács ülésére tanácskozási joggal meg kell hívni.
 
@@ -71,7 +72,7 @@ felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen
 
 10. § (1) A szenátus az alapító okiratban és az FT határozataiban foglaltaknak megfelelően határozza meg az Egyetem képzési és kutatási feladatait, továbbá ellenőrzi azok végrehajtását.
 
-(2) A szenátus javaslatot tesz az FT-nek az intézményfejlesztési terv elfogadására. Az intézményfejlesztési terv magában foglalja a kutatási-fejlesztési-innovációs stratégiát is.
+(2) A szenátus javaslatot tesz az FT-nek az intézményfejlesztési terv elfogadására.
 
 (3) A szenátus véleményt nyilvánít a rektori és magasabb vezetői pályázatokról.
 
@@ -91,19 +92,24 @@ felelős miniszterek (a továbbiakban együtt: fenntartó miniszterek) közösen
 - a) az egyetemi hallgatói önkormányzat elnöke és a kari hallgatói önkormányzatokból karonként három hallgató,
 - b) karonként egy reprezentatív szakszervezeti képviselő.
 
-12. § Az Egyetemen gazdasági tanács nem működik.
+12. § (1) Az Egyetemen gazdasági tanács nem működik.
+
+(2) Az Egyetem az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzés folytatására.
 
 ### IV. Fejezet — AZ EGYETEM ALKALMAZOTTAI ÉS VEZETŐI
 
 #### 1. Az alkalmazottakra vonatkozó szabályok
 
-13. § Az Egyetemen munkakört, vezetői beosztást
+13. § (1) Az Egyetemen munkakört, vezetői beosztást
 
 - a) közalkalmazott,
-- b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
-- c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel
+- b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
+- c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
+- d) közszolgálati tisztviselő
 
 tölthet be.
+
+(2) Az Egyetemen jogszabályban meghatározott feltételekkel munkakör munkaviszonyban is betölthető. Munkaviszonyban csak olyan személy foglalkoztatható, aki a továbbképzések keretein belül oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatot lát el.
 
 14. § A közalkalmazott oktató, tudományos kutató és tanár a munkahelyén pártpolitikától mentes magatartást köteles tanúsítani.
 
@@ -121,13 +127,21 @@ tölthet be.
 
 #### 2. A vezetőkre vonatkozó szabályok
 
-17. § A vezetői beosztásokat nyilvános pályázat útján kell betölteni.
+17. § (1) Az Egyetemen a következő magasabb vezetői megbízások adhatók:
+
+- a) rektor,
+- b) rektor-helyettes,
+- c) dékán,
+- d) gazdasági főigazgató,
+- e) főtitkár.
+
+(2) A vezetői beosztásokat nyilvános pályázat útján kell betölteni.
 
 18. § (1) A rektorhelyettest, a dékánt és a főtitkárt a rektor az FT előzetes egyetértésével bízza meg.
 
 (2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens kaphat.
 
-(3) A gazdasági főigazgató személyéről az FT az állami vagyon felügyeletéért felelős miniszter egyetértésével dönt.
+(3) A gazdasági főigazgatót a rektor előterjesztésére az FT bízza meg, illetve vonja vissza vezetői megbízását az államháztartásért felelős miniszter előzetes tájékoztatása mellett.
 
 (4) Az (1) bekezdés szerinti vezető megbízását – a saját kérésére vagy a szenátus javaslatára – a rektor az FT előzetes egyetértésével a határidő lejárta előtt visszavonhatja.
 
@@ -140,6 +154,18 @@ tölthet be.
 ### V. Fejezet — AZ EGYETEM HALLGATÓI
 
 21. § Hallgatói jogviszony csak olyan személlyel létesíthető, aki büntetlen előéletű.
+
+21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
+
+- a) közszolgálati ösztöndíjas hallgató,
+- b) önköltség fizetésére nem kötelezett hallgató, aki hivatásos, szerződéses vagy honvéd tisztjelölti jogviszonyban áll,
+- c) önköltséges hallgató.
+
+(2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel. A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgatói juttatásra nem jogosult.
+
+(3) A közszolgálati ösztöndíjas hallgatókkal – a rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatók kivételével – az Egyetem köt ösztöndíjszerződést. A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatókkal a rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal köti meg az ösztöndíjszerződést.
+
+(4) Az Egyetem által kötött közszolgálati ösztöndíjszerződés az Nftv. által a magyar állami ösztöndíjjal támogatott hallgatók részére meghatározott feltételeket tartalmazza azzal, hogy az Nftv. 48/A., 48/C. és 48/R. §-ában a Magyar Államon az Egyetemet kell érteni.
 
 22. § A honvédtiszti alap- és mesterképzésben, valamint a rendészeti képzésben nem létesíthető hallgatói jogviszony azzal,
 
@@ -181,7 +207,7 @@ kezeli.
 
 27. § (1) A hallgató köteles a beiratkozást megelőzően fogadalmat tenni és a hallgatói jogviszonya alatt fogadalmához méltó magatartást tanúsítani.
 
-(2) A hallgató az (1) bekezdésben foglalt kötelezettségének megtartása érdekében, az Ftv. 46. § (7) bekezdés c) pontjától eltérően, vélt vagy valós jogsérelméről az ezzel kapcsolatos jogorvoslati, hatósági, illetve bírósági eljárás jogerős lezárását követően tájékoztathatja a nyilvánosságot.
+(2) A hallgató az (1) bekezdésben foglalt kötelezettségének megtartása érdekében,, vélt vagy valós jogsérelméről az ezzel kapcsolatos jogorvoslati, hatósági, illetve bírósági eljárás jogerős lezárását követően tájékoztathatja a nyilvánosságot.
 
 (3) A (2) bekezdés szerinti korlátozás a hallgató jogorvoslati jogának tiszteletben tartása érdekében az Egyetemet is terheli.
 
@@ -225,7 +251,7 @@ kezeli.
 
 32. § A hallgató jogviszonya megszűnik, ha az Egyetem az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a hallgatóval szemben fennáll a 21. és 22. §-ban meghatározott kizáró ok, vagy ha a hallgató a 23. § (2) bekezdésében meghatározott kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
-33. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya – az e törvényben és az Ftv.-ben foglaltakon túlmenően – megszűnik a rektor határozata alapján elbocsátással, a határozat jogerőre emelkedésének napján.
+33. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya – az e törvényben és az Nftv.-ben foglaltakon túlmenően – megszűnik a rektor határozata alapján elbocsátással, a határozat jogerőre emelkedésének napján.
 
 (2) A hallgatói jogviszony – a (4) bekezdésben foglalt korlátozással – elbocsátással akkor szüntethető meg, ha
 
@@ -249,15 +275,28 @@ kezeli.
 
 ### VI. Fejezet — AZ EGYETEM GAZDASÁGI TEVÉKENYSÉGE
 
-35. § Az Egyetem önállóan működő és gazdálkodó központi költségvetési szerv.
+35. § (1) Az Egyetem önállóan működő és gazdálkodó központi költségvetési szerv.
 
-36. § (1) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást a rendészetért és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.
+(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást a rendészetért és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.
 
-(2) A rendészeti képzésben részt vevő ösztöndíjas hallgató pénzbeli juttatásának fedezetét az ösztöndíj-szerződést kötő rendvédelmi szerv, illetve Nemzeti Adó- és Vámhivatal éves költségvetésében kell biztosítani.
+36. § (1) A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
 
-(3) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
+(2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
-(4) Az FT és az FT hivatalának költségvetése az Egyetem költségvetésében szerepel.
+(3) Az FT és az FT hivatalának költségvetése az Egyetem költségvetésében szerepel.
+
+(4) Az Egyetem költségvetésében kell biztosítani
+
+- a) az (1) bekezdés kivételével a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
+- b) az Egyetem engedélyezett költségvetési létszámának személyi juttatásait,
+- c) az egyéb személyi jellegű juttatások költségeit,
+- d) a (2) bekezdés kivételével az Egyetem teljes működésének költségeit a feladatellátás alapján,
+- e) az FT által jóváhagyott kutatási és fejlesztési programok támogatását,
+- f) a 13. § (1) bekezdés b) és c) pontja szerinti vezényelt vezetői állomány illetményének FT által meghatározott vezetői illetményre történő kiegészítés költségeit.
+
+(5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
+
+(6) Az Egyetemre nem alkalmazandók az oktatásért felelős miniszter által biztosított támogatások szabályai.
 
 37. § A térítési díjból és a költségtérítésből befolyt összeget az Egyetem és az adott kar a szervezeti és működési szabályzatban meghatározott arányban jogosult felhasználni.
 
@@ -282,13 +321,15 @@ kezeli.
 
 41. § (1) Közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatási képzés az illetékes felügyeletet gyakorló miniszter előzetes engedélye alapján indulhat.
 
-(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás tekintetében az adott évben államilag támogatott és költségtérítéses képzésbe felvehető hallgatói létszámkeretet.
+(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
 
 (3) A felügyeletet gyakorló miniszter az általa felügyelt felsőoktatás vonatkozásában meghatározza a (2) bekezdés szerint megállapított létszámkereten belül a hallgatói létszámok intézményenkénti és – az Egyetem kivételével – szakonkénti elosztását.
 
+(4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.
+
 42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az illetékes felügyeletet gyakorló miniszter egyetértésével dönt.
 
-43. § Az oktatásért felelős miniszter alap- és mesterképzések képzési és kimeneti követelményeit megállapító rendelete a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az illetékes felügyeletet gyakorló miniszter egyetértésével adható ki.
+43. § A közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -298,13 +339,15 @@ kezeli.
 
 - a) az FT és hivatala működésének szabályait,
 - b) az Egyetem gazdálkodásának, finanszírozásának különös szabályait, valamint
-- c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat.
+- c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat,
+- d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait.
 
 (2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
 - a) a közigazgatási, rendészeti, katonai és nemzetbiztonsági felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
-- c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait.
+- c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait,
+- d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
 
@@ -340,7 +383,9 @@ kezeli.
 
 #### 6.
 
-52–55. §
+52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.
+
+53–55. §
 
 #### 7.
 

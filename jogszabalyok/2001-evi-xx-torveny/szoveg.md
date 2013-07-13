@@ -36,7 +36,8 @@ a következő törvényt alkotja:
 - j) az arra jogosult pártoknak a működési feltételeiket szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtásában;
 - k) az 1. számú mellékletben meghatározott állami tulajdonú gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő bankgarancia nyújtásában;
 - l) a Magyar Állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében, különös tekintettel az agrárpiac fejlesztésének, a mezőgazdaság fenntartható fejlődésének, az agrár-innováció elősegítésének, az agrárfoglalkoztatás növelésének, a gazdálkodók integrációs együttműködésének biztosítására;
-- m) kormányhatározat alapján egyéb fejlesztési feladatok ellátásában.
+- m) kormányhatározat alapján egyéb fejlesztési feladatok ellátásában;
+- m) külön jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában
 
 3. § (1) Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
 

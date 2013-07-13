@@ -220,7 +220,8 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 (5) Kötelező a közgyűlés soron kívüli összehívása (rendkívüli közgyűlés), ha
 
 - a) olyan ügyről kell határozni, amely a közgyűlés kizárólagos hatáskörébe tartozik, és a késedelmes döntés a szövetkezet működőképességét veszélyeztetné, illetve a szövetkezet jogszabályban vagy az alapszabályban előírt kötelezettségének megsértésével járna;
-- b) a tagok legalább tíz százaléka vagy a felügyelő bizottság írásban, az ok megjelölésével indítványozza.
+- b) a tagok legalább tíz százaléka vagy a felügyelő bizottság írásban, az ok megjelölésével indítványozza;
+- c) Takarékszövetkezet és hitelszövetkezet esetén az Integrációs szervezet illetve a Magyarországi Takarékszövetkezeti Bank Zrt. a vezető tisztségviselők vonatkozásában tisztújítás érdekében indítványozza.
 
 (6) A közgyűlést (küldöttgyűlést) – ha az alapszabály eltérő helyet nem állapít meg – a szövetkezet székhelyén kell megtartani.
 
@@ -266,6 +267,8 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 (2) A szavazatok kétharmadát kitevő szavazattöbbség szükséges a 20. § (2) bekezdésének k), l), m) pontjaiban meghatározott ügyekben, az a) pontjában foglalt határozathoz a szövetkezet összes tagja felének, de legalább a jelenlévők kétharmadának a szavazata szükséges, az i) és n) pontjában foglalt határozathoz pedig a szövetkezet összes tagja kétharmadának szavazata szükséges.
 
 (3) A közgyűlés a határozatokat nyílt szavazással hozza meg, a vezető tisztségviselők és a felügyelő bizottság tagjai megválasztására és visszahívására vonatkozó határozatok kivételével, amelyekben titkos szavazással dönt.
+
+(4) Külön törvényben meghatározott esetben a szövetkezet vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a szövetkezet legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.
 
 26. § (1) A közgyűlésről jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell:
 
@@ -316,7 +319,7 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 
 29. § (1) A szövetkezet vezető tisztségviselői: az igazgatóság elnöke és tagjai, illetőleg az ügyvezető elnök.
 
-(2) Vezető tisztségviselőnek csak nagykorú természetes személy választható, ideértve a jogi személy, illetőleg jogi személyiség nélküli gazdasági társasági tagokat a szövetkezetnél képviselő természetes személyeket is.
+(2) Vezető tisztségviselőnek csak nagykorú természetes személy választható, ideértve a jogi személy, illetőleg jogi személyiség nélküli gazdasági társasági tagokat a szövetkezetnél képviselő természetes személyeket is. Takarékszövetkezet és hitelszövetkezet esetén a vezető tisztségviselő kinevezéséhez 2013. december 31-ig a külön jogszabály által meghatározott Integrációs szervezet, 2014. január 1-től a Magyarországi Takarékszövetkezeti Bank Zrt. hozzájárulása is szükséges.
 
 (3) A vezető tisztségviselői megbízás az érintett személy által való elfogadással jön létre. A vezető tisztségviselő a szövetkezet belső működése körében a szövetkezettel, illetve annak szerveivel, valamint más tisztségviselőivel kapcsolatos feladatait csak személyesen láthatja el, képviseletnek nincs helye.
 
