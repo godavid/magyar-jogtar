@@ -32,11 +32,159 @@ az oktatás szabályozására vonatkozó egyes törvények módosításáról
 
 #### 8. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-15. §
+15. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 1. § (2) bekezdés a) pontja a következő ag) alponttal egészül ki:
+
+(Törvény eltérő rendelkezése hiányában e törvény hatálya nem terjed ki)
+
+„ag) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény”
+
+(által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és általuk üzemeltetett lőterekre.)
 
 #### 9. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-16–29. §
+16. § (1) A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: NKE tv.) 5. § b) pontja helyébe a következő rendelkezés lép:
+
+(Az FT)
+
+„b) dönt az Egyetemre felvehető hallgatói létszám szakonkénti megosztásáról a 21/A. § (1) bekezdésében foglalt költségviselési formák szerinti bontásban,”
+
+(2) Az NKE tv. 5. §-a a következő j) ponttal egészül ki:
+
+(Az FT)
+
+„j) az éves központi költségvetés tervezésekor benyújtja a Kormányhoz az Egyetem támogatási tervét a 36. §-ban foglaltak alapján.”
+
+17. § Az NKE tv. 12. §-a helyébe a következő rendelkezés lép:
+
+„12. § (1) Az Egyetemen gazdasági tanács nem működik.
+
+(2) Az Egyetem az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzés folytatására.”
+
+18. § Az NKE tv. 13. §-a helyébe a következő rendelkezés lép:
+
+„13. § (1) Az Egyetemen munkakört, vezetői beosztást
+
+a) közalkalmazott,
+
+b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
+
+c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
+
+d) közszolgálati tisztviselő
+
+tölthet be.
+
+(2) Az Egyetemen jogszabályban meghatározott feltételekkel munkakör munkaviszonyban is betölthető. Munkaviszonyban csak olyan személy foglalkoztatható, aki a továbbképzések keretein belül oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatot lát el.”
+
+19. § Az NKE tv. 17. §-a helyébe a következő rendelkezés lép:
+
+„17. § (1) Az Egyetemen a következő magasabb vezetői megbízások adhatók:
+
+a) rektor,
+
+b) rektor-helyettes,
+
+c) dékán,
+
+d) gazdasági főigazgató,
+
+e) főtitkár.
+
+(2) A vezetői beosztásokat nyilvános pályázat útján kell betölteni.”
+
+20. § Az NKE tv. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A gazdasági főigazgatót a rektor előterjesztésére az FT bízza meg, illetve vonja vissza vezetői megbízását az államháztartásért felelős miniszter előzetes tájékoztatása mellett.”
+
+21. § Az NKE tv. 21. §-a helyébe a következő rendelkezés lép, egyidejűleg a következő 21/A. §-sal egészül ki:
+
+„21. § Hallgatói jogviszony csak olyan személlyel létesíthető, aki büntetlen előéletű.
+
+21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
+
+a) közszolgálati ösztöndíjas hallgató,
+
+b) önköltség fizetésére nem kötelezett hallgató, aki hivatásos, szerződéses vagy honvéd tisztjelölti jogviszonyban áll,
+
+c) önköltséges hallgató.
+
+(2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel. A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgatói juttatásra nem jogosult.
+
+(3) A közszolgálati ösztöndíjas hallgatókkal – a rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatók kivételével – az Egyetem köt ösztöndíjszerződést. A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatókkal a rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal köti meg az ösztöndíjszerződést.
+
+(4) Az Egyetem által kötött közszolgálati ösztöndíjszerződés az Nftv. által a magyar állami ösztöndíjjal támogatott hallgatók részére meghatározott feltételeket tartalmazza azzal, hogy az Nftv. 48/A., 48/C. és 48/R. §-ában a Magyar Államon az Egyetemet kell érteni.”
+
+22. § Az NKE tv. 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § (1) Az Egyetem önállóan működő és gazdálkodó központi költségvetési szerv.
+
+(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást a rendészetért és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.”
+
+23. § Az NKE tv. 36. §-a helyébe a következő rendelkezés lép:
+
+„36. § (1) A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
+
+(2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
+
+(3) Az FT és az FT hivatalának költségvetése az Egyetem költségvetésében szerepel.
+
+(4) Az Egyetem költségvetésében kell biztosítani
+
+a) az (1) bekezdés kivételével a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
+
+b) az Egyetem engedélyezett költségvetési létszámának személyi juttatásait,
+
+c) az egyéb személyi jellegű juttatások költségeit,
+
+d) a (2) bekezdés kivételével az Egyetem teljes működésének költségeit a feladatellátás alapján,
+
+e) az FT által jóváhagyott kutatási és fejlesztési programok támogatását,
+
+f) a 13. § (1) bekezdés b) és c) pontja szerinti vezényelt vezetői állomány illetményének FT által meghatározott vezetői illetményre történő kiegészítés költségeit.
+
+(5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
+
+(6) Az Egyetemre nem alkalmazandók az oktatásért felelős miniszter által biztosított támogatások szabályai.”
+
+24. § Az NKE tv. 41. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.”
+
+25. § Az NKE tv. 43. §-a helyébe a következő rendelkezés lép:
+
+„43. § A közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit a közigazgatás-fejlesztésért felelős miniszter – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben szabályozza.”
+
+26. § (1) Az NKE tv. 44. § (1) bekezdése a következő d) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
+
+„d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait.”
+
+(2) Az NKE tv. 44. § (2) bekezdése a következő d) ponttal egészül ki:
+
+(Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – a honvédelemért és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg)
+
+„d) a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában az alap- és mesterképzések képzési és kimeneti követelményeit.”
+
+27. § Az NKE tv. a következő 52. §-sal egészül ki:
+
+„52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.”
+
+28. § Az NKE tv.
+
+- a) 2. §-ában a „felsőoktatásról szóló törvény (a továbbiakban: Ftv.)” szövegrész helyébe a „nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.)”,
+- b) 3. § 3. pontjában a „védelmi és katonai képzési ágak” szövegrész helyébe a „honvédelmi és katonai képzési ág”,
+- c) 33. § (1) bekezdésében az „Ftv.-ben” szövegrész helyébe az „Nftv.-ben”
+
+szöveg lép.
+
+29. § Hatályát veszti az NKE tv.
+
+- a) 5. § d) pontjában az „úgy, hogy eltérhet az Ftv.-ben foglalt előírásoktól” szövegrész,
+- b) 5. § e) pontjában az „és támogatási tervet” szövegrész,
+- c) 10. § (2) bekezdésének utolsó mondata,
+- d) 27. § (2) bekezdésében az „az Ftv. 46. § (7) bekezdés c) pontjától eltérően” szövegrész,
+- e) 41. § (2) bekezdésében az „államilag támogatott és költségtérítéses képzésbe” szövegrész.
 
 #### 10. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -109,7 +257,8 @@ százaléka.”
 75. § Az Nftv.
 
 - 1–9.
-- 10–11.
+- 10. 63. alcím címében az „Az igazgatási, rendvédelmi” szövegrész helyébe az „A közigazgatási, rendészeti”,
+- 11. 104. § (1) bekezdésében az „az igazgatási, rendvédelmi” szövegrész helyébe az „a közigazgatási, rendészeti”,
 - 12–18.
 
 szöveg lép.

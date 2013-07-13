@@ -291,6 +291,8 @@ kell alkalmazni.
 
 (3) A vezető tisztségviselő az új vezető tisztségviselői megbízás elfogadásától számított tizenöt napon belül azokat a társaságokat, ahol már vezető tisztségviselő vagy felügyelőbizottsági tag, írásban tájékoztatni köteles.
 
+(4) Külön törvényben meghatározott esetben a gazdasági társaság vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a gazdasági társaság legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.
+
 25. § (1) A vezető tisztségviselő – a nyilvánosan működő részvénytársaságban való részvényszerzés kivételével – nem szerezhet részesedést a gazdasági társaságéval azonos tevékenységet főtevékenységként megjelölő más gazdálkodó szervezetben [Ptk. 685. § c) pont], továbbá nem lehet vezető tisztségviselő a társaságéval azonos főtevékenységet végző más gazdasági társaságban, illetve szövetkezetben, kivéve, ha ezt az érintett gazdasági társaság társasági szerződése lehetővé teszi vagy a gazdasági társaság legfőbb szerve ehhez hozzájárul.
 
 (2) A vezető tisztségviselő és közeli hozzátartozója [Ptk. 685. § b) pont], valamint élettársa nem köthet a saját nevében vagy javára a gazdasági társaság főtevékenysége körébe tartozó ügyleteket, kivéve, ha ezt a társasági szerződés megengedi.
@@ -1572,11 +1574,17 @@ számítandó.
 
 ### Az átváltoztatható és a jegyzési jogot biztosítókötvény
 
-194. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amelyet a kötvényes kérésére részvénnyé kell átalakítani (átváltoztatható kötvény).
+194. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amelyet a kötvényes vagy a részvénytársaság igazgatósága kérésére részvénnyé kell átalakítani (átváltoztatható kötvény).
 
 (2) A részvénytársaság olyan névre szóló kötvény kibocsátását is elhatározhatja, amely utóbb, az alaptőke felemelésekor tulajdonosának – a részvényeseket követően – jegyzési jogot biztosít (jegyzési jogot biztosító kötvény).
 
 (3) Az átváltoztatható és a jegyzési jogot biztosító kötvényre vonatkozó rendelkezéseket az alapszabály állapítja meg. A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátására.
+
+### Az átváltozó kötvény
+
+194/A. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amely egy később bekövetkező objektív feltétel bekövetkezte esetén részvénnyé alakul át (átváltozó kötvény).
+
+(2) A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltozó vagy feltételesen átváltozó kötvény kibocsátására.
 
 ### A részvényutalvány és az ideiglenes részvény
 
@@ -1699,7 +1707,7 @@ számítandó.
 
 - a) a nem pénzbeli hozzájárulás tárgyát, értékét, szolgáltatásának időpontját, az ellenében adandó részvények számát, névértékét, a hozzájárulást szolgáltató nevét (cégét), lakóhelyét (székhelyét) és a nem pénzbeli hozzájárulásnak az alapszabály szerinti értékét előzetesen felülvizsgáló könyvvizsgáló vagy szakértő nevét (cégét), székhelyét (lakóhelyét);
 - b) az egyes részvényfajtákhoz, részvényosztályokhoz, illetve részvénysorozatokhoz kapcsolódó jogokat és a részvényekhez fűződő egyes jogok esetleges korlátozását, a részvények más részvényfajtába, részvényosztályba, illetve részvénysorozatba tartozó részvényre történő átalakításának szabályait, valamint az egyes részvényfajtához, illetve részvényosztályhoz tartozó részvények számát, névértékét, illetve kibocsátási értékét részvénysorozatonként;
-- c) az átváltoztatható vagy jegyzési jogot biztosító kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
+- c) az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
 - d) a részvények átruházásának korlátozását vagy annak a részvénytársaság beleegyezéséhez kötését;
 - e) a részvények kötelező bevonásával [267. § (3) bekezdés] összefüggésben szükséges rendelkezéseket;
 - f) az igazgatóság felhatalmazását – a visszaváltható részvényhez kapcsolódó jogok gyakorlásával, a saját részvény megszerzésével, osztalékelőleg fizetésével, valamint az alaptőkének az alaptőkén felüli vagyon terhére történő felemelésével kapcsolatban – közbenső mérleg elfogadására;
@@ -1873,7 +1881,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - f) döntés – ha e törvény eltérően nem rendelkezik – osztalékelőleg fizetéséről;
 - g) döntés a nyomdai úton előállított részvény dematerializált részvénnyé történő átalakításáról;
 - h) az egyes részvénysorozatokhoz fűződő jogok megváltoztatása, illetve az egyes részvényfajták, osztályok átalakítása;
-- i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátásáról;
+- i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátásáról;
 - j) döntés – ha e törvény másként nem rendelkezik – az alaptőke felemeléséről;
 - k) döntés – ha e törvény másként nem rendelkezik – az alaptőke leszállításáról;
 - l) döntés a jegyzési elsőbbségi jog gyakorlásának kizárásáról, illetve az igazgatóság felhatalmazásáról a jegyzési elsőbbségi jog korlátozására, illetve kizárására;
@@ -1992,7 +2000,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - a) új részvények forgalomba hozatalával;
 - b) az alaptőkén felüli vagyon terhére;
 - c) dolgozói részvény forgalomba hozatalával; illetve
-- d) feltételes alaptőke-emelésként, átváltoztatható kötvény forgalomba hozatalával
+- d) feltételes alaptőke-emelésként, átváltozó vagy átváltoztatható kötvény forgalomba hozatalával történik.
 
 történik.
 
@@ -2084,25 +2092,28 @@ történik.
 
 (4) Dolgozói részvény forgalomba hozatala esetén az alaptőkén felüli vagyon terhére történő, valamint az új részvények zártkörű forgalomba hozatalával történő alaptőke-emelés szabályai megfelelően irányadóak.
 
-### Alaptőke-emelésátváltoztatható kötvény forgalomba hozatalával
+### Alaptőke-emelés átváltoztatható vagy átváltozó kötvény forgalomba hozatalával
 
-263. § (1) A közgyűlés feltételes alaptőke-emelést határozhat el átváltoztatható kötvény forgalomba hozatalával. Az átváltoztatható kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
+263. § (1) A közgyűlés vagy felhatalmazásával az igazgatóság feltételes alaptőke-emelést határozhat el átváltoztatható vagy átváltozó kötvény forgalomba hozatalával. Az átváltoztatható, ill. az átváltozó kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
 
-(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban meg kell határozni
+(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban vagy a közgyűlés felhatalmazásával eljáró igazgatóság határozatában meg kell határozni
 
 - a) a kötvénykibocsátás módját (zártkörű, nyilvános);
 - b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási értékét, a kötvények sorozatát (kötvény jellemzők), a jegyzés helyét és idejét;
 - c) a kötvények részvénnyé történő átalakításának feltételeit, időpontját;
-- d) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
-- e) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.
+- d) átváltozó kötvény esetén a részvénnyé történő átváltozásának objektív feltételét vagy feltételeit;
+- e) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
+- f) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.
 
 264. § (1) Eredményes kötvénykibocsátás esetén a közgyűlés köteles a kötvényjegyzésre rendelkezésre állt határidő lejártát követő hatvan napon belül alapszabályát módosítani.
 
 (2) Amennyiben a kötvényjegyzés eredménytelen volt, az igazgatóság köteles a kötvényjegyzés lezárásától számított harminc napon belül e tényt a cégbíróságnak elektronikus úton bejelenteni.
 
-265. § (1) A kötvénytulajdonosok a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
+265. § (1) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a tulajdonosok a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek (a kötvényes által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
 
-(2) Az átváltoztatható kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) bekezdés szerinti bejelentés megtételére rendelkezésre álló időtartam lejártát követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.
+(2) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a részvénytársaság igazgatósága a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt az átváltoztatható kötvényeket részvénnyé változtatja át, és erről kötvény tulajdonosait tájékoztatja (az igazgatóság által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos az igazgatóság által elhatározott átalakítással egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. Az igazgatóság döntésének meghozatalával a kötvénytulajdonos jogosulttá válik részvényutalványra.
+
+(3) Az átváltoztatható kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) bekezdés szerinti kötvényes általi bejelentés, ill. a (2) bekezdés szerinti igazgatóság általi átváltoztatás megtételére rendelkezésre álló időtartam lejártát követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.
 
 ### Az alaptőke leszállítása
 
@@ -2219,9 +2230,11 @@ történik.
 
 (4) A (3) bekezdésben foglaltak szerint eljáró könyvvizsgálónak vagy más, az egyesülő részvénytársaságoktól független szakértőnek a részvénytársaságok megbízása alapján készített jelentésében nyilatkoznia kell az egyesülési szerződés tervezetében és a vezető tisztségviselők írásbeli beszámolójában foglaltak megalapozottságáról. A jelentésnek tartalmaznia kell az arra vonatkozó állásfoglalást is, hogy a tervezett egyesülés veszélyezteti-e a részvénytársaságokkal szembeni hitelezői követeléseknek a kielégítését.
 
-(5) Az átváltoztatható kötvény esetében az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonosok számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul saját jogosultsága megváltoztatásához. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. E bekezdés rendelkezéseit nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták e tulajdonosok helyzetét egy esetleges egyesülés esetére.
+(5) Az átváltoztatható és az átváltozó kötvény esetében az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonosok számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul saját jogosultsága megváltoztatásához. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. E bekezdés rendelkezéseit nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták e tulajdonosok helyzetét egy esetleges egyesülés esetére.
 
-(6) Amennyiben az egyesülő részvénytársaságok valamennyi részvényese egyhangú határozattal úgy határoz, az egyesülés során a (3)–(4) bekezdések rendelkezései nem alkalmazandóak.
+(6) Az átváltozó kötvény tulajdonosa az egyesülő társaságok által kibocsátott átváltozó kötvény visszavásárlását a jogutód részvénytársaságtól nem igényelheti.
+
+(7) Amennyiben az egyesülő részvénytársaságok valamennyi részvényese egyhangú határozattal úgy határoz, az egyesülés során a (3)–(4) bekezdések rendelkezései nem alkalmazandóak.
 
 280. § (1) Az egyesüléssel érintett részvénytársaságok harminc nappal az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt kötelesek az egyesülési szerződés tervezetét, az egyesülő részvénytársaságok vezető tisztségviselői által készített írásbeli beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére és az írásbeli beszámolóra vonatkozó álláspontját tartalmazó jelentést benyújtani az egyesülő részvénytársaságok cégjegyzékét vezető cégbírósághoz.
 
@@ -2479,7 +2492,7 @@ történik.
 
 313. § (1) Ha a nyilvánosan működő részvénytársaság eltérő részvényfajtába, illetve részvényosztályba tartozó részvényeket hozott forgalomba, az alaptőke felemelését elhatározó, illetve az arról döntő közgyűlési határozat érvényességének feltétele, hogy a tőkeemeléssel közvetlenül érintett, továbbá az alapszabály által érintettnek minősített részvényfajta, illetve részvényosztály részvényesei az alapszabályban meghatározott módon az alaptőke felemeléséhez külön hozzájáruljanak. A hozzájárulás megadásának módjára vonatkozó részletes szabályokat az alapszabályban kell megállapítani. Ez a szabály megfelelően irányadó az igazgatóságot tőkeemelésre felhatalmazó közgyűlési határozat esetén is.
 
-(2) Ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg.
+(2) Kivéve, ha külön törvény másként rendelkezik, ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg. Az átváltozó kötvény tulajdonosát elsőbbségi jog nem illeti meg.
 
 (3) A részvénytársaság köteles az alapszabályban meghatározott módon tájékoztatni a részvényeseket, illetve az átváltoztatható és a jegyzési jogot biztosító kötvények tulajdonosait a részvények átvételére vonatkozó elsőbbségi jog gyakorlásának lehetőségéről és módjáról, így a megszerezhető részvények névértékéről, illetve kibocsátási értékéről, valamint e jog érvényesítésére nyitva álló – legalább tizenöt napos – időszak kezdő és zárónapjáról.
 
