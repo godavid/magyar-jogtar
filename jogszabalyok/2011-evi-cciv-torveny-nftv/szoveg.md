@@ -1948,7 +1948,7 @@ eltérő rendelkezéseket állapíthat meg,
 
 ### XXX. Fejezet — VEGYES RENDELKEZÉSEK
 
-#### 63. Az igazgatási, rendvédelmi, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
+#### 63. A közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
 
 104. § (1) E törvény rendelkezéseit az igazgatási, a rendvédelmi, a katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében e törvényt a honvédek jogállásáról szóló törvényben foglalt eltérésekkel együtt kell alkalmazni.
 
