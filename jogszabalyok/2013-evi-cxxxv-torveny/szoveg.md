@@ -366,133 +366,7 @@ A fenti kérdésekben a Felügyelet ügyintézésére 8 munkanapos határidő á
 
 #### 10. Módosuló jogszabályok
 
-22. § (1) A Hpt. 20. § f) pontja helyébe az alábbi rendelkezés lép:
-
-„f) átváltoztatható, átváltozó vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,”
-
-(2) A Hpt. 49. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-„b) az Országos Betétbiztosítási Alappal, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal szemben,”
-
-23. § A Hpt. a következő 130/A. §-al egészül ki, egyúttal XX. fejezet címe „Betét- és intézménybiztosításra”-ra módosul:
-
-„130/A. § (1) Törvény kimondhatja intézményvédelmi integrációs szervezet létrehozását (kötelező intézményvédelmi szervezet).
-
-(2) A kötelező intézményvédelmi szervezet szervezetének és működésének szabályait törvény határozza meg.”
-
-24. § A Hpt. 130/O. § (3) bekezdésének számozása 130/B. §-ra változik és a Hpt. 216. §-a a következő (1a) bekezdéssel egészül ki
-
-„(1a) A szövetkezeti hitelintézet működési engedélye kiadásának feltétele, hogy taggá váljon a szövetkezeti hitelintézetek integrációjában és „C” sorozatú elsőbbségi részvénnyel rendelkezzen a Takarékbank Zrt-ben.”
-
-25. § A Hpt. 163. § (2) bekezdése a következő d) ponttal egészül ki:
-
-„d) a szövetkezeti hitelintézet működési engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja”
-
-26. § (1) A Hpt. 216. § (3) bekezdése a következőképpen módosul:
-
-„(3) Szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a Magyar Állam, a Magyar Fejlesztési Bank, a kötelező intézményvédelmi szervezet, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.”
-
-(2) A Hpt. 216. § (5) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(5) A szövetkezeti hitelintézetek alapszabályukat vagy alapító okiratukat a kötelező intézményvédelmi szervezet igazgatósága által meghatározott szöveggel fogadják el. Az alapszabály megállapításához, a szövetkezet egyesüléséről való döntéshez és a részjegyek névértékének megváltoztatásához a közgyűlésen jelenlévő tagok felének igenlő szavazata szükséges.”
-
-(3) A Hpt. 216. § az alábbi (10) bekezdéssel egészül ki:
-
-„(10) Szövetkezeti hitelintézet esetében a szövetkezetekről szóló 2006. évi X. törvény 20. § (2) bekezdése e) pontját azzal az eltéréssel kell alkalmazni, hogy a szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Takarékbank Zrt. előzetes jóváhagyása szükséges.”
-
-27. § A Hpt. 216/A. § (1) bekezdése a következők szerint módosul:
-
-„(1) Ha törvény kivételt nem tesz, a szövetkezeti hitelintézet tagja, illetőleg örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.”
-
-28. § A Hpt. 5. sz. mellékletének 21. pontja helyébe az alábbi rendelkezés lép:
-
-„21. A részvénnyé – jövőbeli objektív feltétel alapján – átváltozó kötvény a járulékos tőkébe beszámít és szavatoló tőkeelemnek minősül. A részvénnyé átváltoztatható kötvény csak akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.”
-
-29. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFBtv.) 2. §-a a következő m) ponttal egészül ki:
-
-[2. § Az MFB Zrt. feladata, hogy ... vegyen]
-
-„m) külön jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában”
-
-30. § (1) A Gt. az alábbi új 24. § (4) bekezdéssel egészül ki:
-
-„24. § (4) Külön törvényben meghatározott esetben a gazdasági társaság vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a gazdasági társaság legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.”
-
-(2) A Gt. 194. § rendelkezései helyébe az alábbi szövegrész lép:
-
-„Az átváltoztatható és a jegyzési jogot biztosító kötvény
-
-194. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amelyet a kötvényes vagy a részvénytársaság igazgatósága kérésére részvénnyé kell átalakítani (átváltoztatható kötvény).
-
-(2) A részvénytársaság olyan névre szóló kötvény kibocsátását is elhatározhatja, amely utóbb, az alaptőke felemelésekor tulajdonosának – a részvényeseket követően – jegyzési jogot biztosít (jegyzési jogot biztosító kötvény).
-
-(3) Az átváltoztatható és a jegyzési jogot biztosító kötvényre vonatkozó rendelkezéseket az alapszabály állapítja meg. A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátására.”
-
-31. § A Gt. 194. § rendelkezéseit követően az alábbi 194/A. §-sal egészül ki:
-
-„Az átváltozó kötvény
-
-194/A. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amely egy később bekövetkező objektív feltétel bekövetkezte esetén részvénnyé alakul át (átváltozó kötvény).
-
-(2) A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltozó vagy feltételesen átváltozó kötvény kibocsátására.”
-
-32. § A Gt. 208. § (2) bekezdés c) pont rendelkezése helyébe az alábbi szövegrész lép:
-
-[(2) Szükség szerint tartalmazza az alapszabály:]
-
-„c) az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;”
-
-33. § A Gt. 231. § (2) bekezdés i) pont rendelkezései helyébe az alábbi szövegrész lép:
-
-[(2) A közgyűlés kizárólagos hatáskörébe tartozik:]
-
-„i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátásáról;”
-
-34. § A Gt. 248. § (1) bekezdés d) pont rendelkezései helyébe az alábbi szövegrész lép:
-
-[(1) Az alaptőke felemelése]
-
-„d) feltételes alaptőke-emelésként, átváltozó vagy átváltoztatható kötvény forgalomba hozatalával történik.”
-
-35. § A Gt. 263. § rendelkezései helyébe az alábbi szövegrész lép:
-
-„Alaptőke-emelés átváltoztatható vagy átváltozó kötvény forgalomba hozatalával
-
-263. § (1) A közgyűlés vagy felhatalmazásával az igazgatóság feltételes alaptőke-emelést határozhat el átváltoztatható vagy átváltozó kötvény forgalomba hozatalával. Az átváltoztatható, ill. az átváltozó kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
-
-(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban vagy a közgyűlés felhatalmazásával eljáró igazgatóság határozatában meg kell határozni
-
-a) a kötvénykibocsátás módját (zártkörű, nyilvános);
-
-b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási értékét, a kötvények sorozatát (kötvény jellemzők), a jegyzés helyét és idejét;
-
-c) a kötvények részvénnyé történő átalakításának feltételeit, időpontját;
-
-d) átváltozó kötvény esetén a részvénnyé történő átváltozásának objektív feltételét vagy feltételeit;
-
-e) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
-
-f) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.”
-
-36. § A Gt. 265. § rendelkezései helyébe az alábbi szövegrész lép:
-
-„265. § (1) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a tulajdonosok a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek (a kötvényes által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
-
-(2) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a részvénytársaság igazgatósága a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt az átváltoztatható kötvényeket részvénnyé változtatja át, és erről kötvény tulajdonosait tájékoztatja (az igazgatóság által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos az igazgatóság által elhatározott átalakítással egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. Az igazgatóság döntésének meghozatalával a kötvénytulajdonos jogosulttá válik részvényutalványra.
-
-(3) Az átváltoztatható kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) bekezdés szerinti kötvényes általi bejelentés, ill. a (2) bekezdés szerinti igazgatóság általi átváltoztatás megtételére rendelkezésre álló időtartam lejártát követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.”
-
-37. § A Gt. 279. § (5)–(7) bekezdés rendelkezései helyébe az alábbi szövegrész lép:
-
-„(5) Az átváltoztatható és az átváltozó kötvény esetében az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonosok számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul saját jogosultsága megváltoztatásához. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. E bekezdés rendelkezéseit nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták e tulajdonosok helyzetét egy esetleges egyesülés esetére.
-
-(6) Az átváltozó kötvény tulajdonosa az egyesülő társaságok által kibocsátott átváltozó kötvény visszavásárlását a jogutód részvénytársaságtól nem igényelheti.
-
-(7) Amennyiben az egyesülő részvénytársaságok valamennyi részvényese egyhangú határozattal úgy határoz, az egyesülés során a (3)–(4) bekezdések rendelkezései nem alkalmazandóak.”
-
-38. § A Gt. 313. § (2) bekezdés rendelkezései helyébe az alábbi szövegrész lép:
-
-„(2) Kivéve, ha külön törvény másként rendelkezik, ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg. Az átváltozó kötvény tulajdonosát elsőbbségi jog nem illeti meg.”
+#### 22–38. §
 
 39. § A polgári törvénykönyvről szóló 2013. évi V. tv. a 3:240. § rendelkezéseit követően az alábbi 3:240/A. §-sal kiegészülve lép hatályba:
 
@@ -560,21 +434,7 @@ e) kötvény zártkörű kibocsátása esetén a kötvények átvételére jogos
 
 „(5) Az átváltoztatható vagy átváltozó kötvény esetén az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonos számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul jogosultsága csökkenéséhez. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható, átváltozó vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. Az e bekezdésben foglalt szabályokat nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták a kötvénytulajdonosok helyzetét egy esetleges egyesülés esetére.”
 
-45. § A tőkepiacról szóló 2001. évi CXX. törvény 5. §-a az alábbi 77/A. rendelkezéssel bővül:
-
-„5. § 77/A. A kötvény névre szóló, hitelviszonyt megtestesítő értékpapír, amely lejárat nélküli vagy – jogszabály által megszabott keretek között – lejárattal rendelkezik. A kötvényben a kibocsátó (az adós) arra kötelezi magát, hogy az ott megjelölt pénzösszegnek az előre meghatározott kamatát vagy egyéb jutalékait, valamint az általa vállalt esetleges egyéb szolgáltatásokat (a továbbiakban együtt: kamat), továbbá a pénzösszeget a kötvény mindenkori tulajdonosának, illetve jogosultjának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetőleg teljesíti. A kötvénynek tartalmaznia kell: a) a kibocsátáshoz szükséges felhatalmazást, b) a kötvény elnevezését és kibocsátásának célját, c) a kötvény névértékét, értékpapírkódját és – dematerializált kötvény kivételével – sorszámát, d) a kibocsátó megnevezését, e) az átruházásra vonatkozó esetleges korlátozást, f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfizetési és beváltási (törlesztési) időpontokat és feltételeket, g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat, h) a kötvény kiállításának helyét és napját, i) a kibocsátó aláírását. Dematerializált kötvényre is a fentieket kell alkalmazni, azzal az eltéréssel, hogy az i) pontban meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza. Kötvény kibocsátására jogosult: a) az állam, beleértve a külföldi államot is, b) a Magyar Nemzeti Bank, c) az önkormányzat, d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját joga alapján kötvény kibocsátására jogosult, e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe, f) külön törvényben erre feljogosított szervezet.”
-
-46. § (1) A szövetkezetekről szóló 2006. évi X. törvény 20. § (5) bekezdése az alábbi c) ponttal egészül ki:
-
-„c) Takarékszövetkezet és hitelszövetkezet esetén az Integrációs szervezet illetve a Magyarországi Takarékszövetkezeti Bank Zrt. a vezető tisztségviselők vonatkozásában tisztújítás érdekében indítványozza.”
-
-(2) A szövetkezetekről szóló 2006. évi X. törvény 25 §-a az alábbi új (4) bekezdéssel egészül ki:
-
-„25. § (4) Külön törvényben meghatározott esetben a szövetkezet vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a szövetkezet legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.”
-
-47. § A szövetkezetekről szóló 2006. évi X. törvény 29. § (2) bekezdése az alábbi mondattal egészül ki:
-
-„Takarékszövetkezet és hitelszövetkezet esetén a vezető tisztségviselő kinevezéséhez 2013. december 31-ig a külön jogszabály által meghatározott Integrációs szervezet, 2014. január 1-től a Magyarországi Takarékszövetkezeti Bank Zrt. hozzájárulása is szükséges.”
+#### 45–47. §
 
 48. § A törvény felhatalmazza a kormányt, hogy e törvény 38. §-ára figyelemmel újraszabályozza a kötvényről szóló 285/2001. (XII. 26.) Korm. rendeletbe foglalt kérdéseket és a kormányrendelet 1–3. §-ait helyezze hatályon kívül.
 
