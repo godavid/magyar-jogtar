@@ -944,7 +944,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A választott újabb ellátást a korábban megállapított ellátás folyósításának megszüntetését követő naptól kell folyósítani. A választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell az újabb ellátásra való jogosultság kezdő napjától a korábban megállapított ellátás folyósítása megszüntetésének napjáig kifizetett ellátás nettó összegével. Az ellátások közötti különbözet kamatmentes kifizetésére a csökkentés teljesítését követő három munkanapon belül kerül sor.
 
-39/A. § (1) Az egészségbiztosítási pénzellátás (terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz) összegének megállapításánál jövedelemként azt az összeget kell figyelembe venni, amely után a biztosított pénzbeli egészségbiztosítási járulék fizetésére kötelezett volt.
+39/A. § (1) Az egészségbiztosítás pénzbeli ellátásai (terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz) összegének megállapításánál az ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszonyban elért jövedelmet kell figyelembe venni.
 
 (2) A biztosítás megszűnését követően járó pénzellátások összegének megállapítására és folyósítására a biztosítottakra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -996,6 +996,10 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 (3) A (2) bekezdésben nem említett biztosított terhességi-gyermekágyi segélyének naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni.
 
+(3a) A terhességi-gyermekágyi segély megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
+
+(3b) Ugyanazon személy részére ugyanazon gyermeke jogán ismételten benyújtott terhességi-gyermekágyi segély iránti kérelmet újra elbírálni nem lehet, a terhességi-gyermekágyi segélyt annak időtartama alatt a (3a) bekezdés szerinti határozatban megállapított összegben kell folyósítani.
+
 (4) A terhességi-gyermekágyi segély naptári napi összegének megállapítására vonatkozó részletes szabályokat a Kormány állapítja meg.
 
 (5) A terhességi-gyermekágyi segélyre, ha jogszabály eltérő rendelkezést nem tartalmaz, a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
@@ -1038,13 +1042,13 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 42/D. § (1) A gyermekgondozási díj a naptári napi átlagkereset 70 százaléka, de legfeljebb havonta a mindenkori minimálbér kétszeresének 70 százaléka.
 
-(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (2)–(5) bekezdése szerint kell megállapítani.
+(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (2)–(5), (6a) és (6b) bekezdése szerint kell megállapítani.
 
-(3)
+(3) A gyermekgondozási díj megállapításakor határozatban kell rendelkezni az ellátás folyósításának időtartamáról és naptári napi összegéről.
 
-(4) A 48. § (2)–(3) bekezdése alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig – hivatalból – felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(4) A 48. § (2), (3) és (6a) bekezdése alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
-(5) Ha a gyermekgondozási díjat ugyanazon gyermek után és ugyanazon személy számára ismételten állapítják meg, úgy a díj összege azonos lesz az első ízben megállapított, de a (4) bekezdésben foglaltak szerint korrigált díj összegével.
+(5) Ugyanazon személy részére ugyanazon gyermeke jogán ismételten benyújtott gyermekgondozási díj iránti kérelmet újra elbírálni nem lehet, a gyermekgondozási díjat annak időtartama alatt a (3) bekezdés szerinti határozatban megállapított összegben kell folyósítani.
 
 (6) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani, az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget.
 
@@ -1119,11 +1123,11 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 48. § (1)
 
-(2) A táppénz összegét a táppénzre jogosultság kezdő napját közvetlenül megelőző naptári évben elért, pénzbeli egészségbiztosítási járulék alapját képező jövedelem (a továbbiakban: jövedelem) naptári napi átlaga alapján kell megállapítani.
+(2) A táppénz összegét a táppénzre jogosultság kezdő napját közvetlenül megelőző naptári évben elért jövedelem naptári napi átlaga alapján kell megállapítani.
 
 (3) Ha a biztosított a (2) bekezdésben megjelölt időtartam alatt nem rendelkezett legalább 180 naptári napi jövedelemmel, a táppénz összegét a táppénzre jogosultság kezdő napját megelőző 180 naptári napi jövedelem napi átlaga alapján kell megállapítani. A 180 naptári napi jövedelmet legfeljebb a táppénzre jogosultság kezdő napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni, ha a biztosítási idő folyamatos. A folyamatos biztosítási idő [48/A. § (1) bekezdés] megszakítása esetén a táppénz alapjaként a megszakítást megelőző jövedelmet nem lehet figyelembe venni.
 
-(4) Ha a biztosított a (2)–(3) bekezdésben (irányadó időszakban) táppénzalapként meghatározott jövedelemmel nem rendelkezik, táppénzét – az (5) bekezdésben foglaltak kivételével – a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a szerződés szerinti vagy a tényleges jövedelme a minimálbért nem éri el. Ez esetben a táppénz alapja a szerződés szerinti, ennek hiányában a tényleges jövedelem.
+(4) Ha a biztosított a (2)–(3) bekezdésben (irányadó időszakban) táppénzalapként meghatározott jövedelemmel nem rendelkezik, táppénzét – az (5) bekezdésben foglaltak kivételével – a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a szerződés szerinti vagy a tényleges jövedelme a minimálbért nem éri el. Ez esetben a táppénz alapja a tényleges, ennek hiányában a szerződés szerinti jövedelem.
 
 (5) Ha a biztosítottnak azért nem volt a (2)–(3) bekezdés szerint figyelembe vehető jövedelme, mert táppénzben, terhességi-gyermekágyi segélyben, gyermekgondozási díjban részesült a táppénz naptári napi összegét a korábban folyósított ellátás alapját képező összeg figyelembevételével kell megállapítani, ha az a (4) bekezdés szerint megállapított összegnél kedvezőbb.
 
@@ -1132,16 +1136,30 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 - a) a korábbi keresőképtelensége is az újabb keresőképtelensége első napját magában foglaló naptári évben kezdődött, és
 - b) a korábbi táppénzét a (2)-(3) bekezdésben foglaltak alapján állapították meg.
 
+(6a) Ha a biztosított a (2)–(3) bekezdésben meghatározott időszakban nem rendelkezik 180 naptári napi jövedelemmel, de a táppénzre való jogosultság első napját megelőzően van legalább 180 napi folyamatos biztosítási jogviszonya, táppénzét a tényleges, ennek hiányában a szerződés szerinti jövedelme alapján kell megállapítani.
+
+(6b) Ha a biztosított a (2)–(3) bekezdésben meghatározott időszakban nem rendelkezik 180 naptári napi jövedelemmel, és a táppénzre való jogosultság első napját megelőzően nincs legalább 180 naptári napi folyamatos biztosítási jogviszonya, táppénzét a jogosultság kezdő napján érvényes minimálbér alapulvételével kell megállapítani, kivéve, ha a tényleges vagy a szerződés szerinti jövedelme a minimálbért nem éri el. Ez esetben a táppénz alapja a tényleges, ennek hiányában a szerződés szerinti jövedelem.
+
 (7) A táppénz alapjaként figyelembe vehető, a (2) bekezdésben meghatározott jövedelem naptári napi átlagának kiszámítására vonatkozó részletes szabályokat a Kormány állapítja meg.
 
-(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának harmincad részét.
+(8) A táppénz összege a figyelembe vehető jövedelem naptári napi átlagának
 
-#### 48/A. §
+- a) hatvan százaléka folyamatos, legalább kétévi biztosítási idő esetében,
+- b) ötven százaléka
+  - ba) az a) pont szerintinél rövidebb folyamatos biztosítási idő esetében,
+  - bb) a fekvőbeteg-gyógyintézeti ellátás tartama alatt, valamint
+  - bc) a 44. § d) pontjában meghatározott esetben,
+
+azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának harmincad részét.
+
+48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély folyósításának az ideje.
+
+(2) A 48. § (6a) és (6b) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 5. §-ában meghatározott biztosítási időket lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
 
 49. § (1) A gyermeknevelési támogatás, az ápolási díj, a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék vagy az átmeneti bányászjáradék mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermeknevelési támogatás, az ápolási díj, a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék vagy az átmeneti bányászjáradék folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
-- b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartam alatt elért, biztosítási jogviszonyból származó pénzbeli egészségbiztosítási járulék alapját képező jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
+- b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartama alatt a 39/A. § (1) bekezdés szerint elért, biztosítási jogviszonyból származó jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
 
 (2)
 
@@ -1206,7 +1224,11 @@ ha az (1) bekezdésben foglalt feltételek fennállnak.
 
 ### Baleseti táppénz
 
-55. § (1) Baleseti táppénz annak jár, aki a biztosítás fennállása alatt, vagy a biztosítás megszűnését követő legkésőbb harmadik napon üzemi baleset következtében keresőképtelenné válik.
+55. § (1) Baleseti táppénzre az jogosult, aki a biztosítás fennállása alatt vagy a biztosítás megszűnését követő legkésőbb harmadik napon üzemi baleset következtében keresőképtelenné válik.
+
+(1a) Az üzemi baleset bekövetkeztekor egyidejűleg fennálló biztosítási jogviszonyok esetén a biztosított baleseti táppénzre abban a jogviszonyában jogosult, amelyben az üzemi baleset éri.
+
+(1b) A biztosított baleseti táppénzre jogosult akkor is, ha ugyanabból a balesetből eredően ismételten keresőképtelenné válik.
 
 (2) Keresőképtelen az, aki az üzemi balesettel összefüggő és gyógykezelést igénylő egészségi állapota miatt vagy gyógyászati segédeszköz hiányában munkát végezni nem tud.
 
@@ -1357,6 +1379,8 @@ bírálja el és utólag folyósítja.
 (2) Az üzemi baleset jogerős megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.
 
 (3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a baleseti táppénz meghosszabbítása esetén az orvosszakértői szervet szakértőként kell igénybe venni.
+
+(3a) Amennyiben a baleseti táppénzre irányuló kérelem azért nem bírálható el, mert a baleset üzemiségére vonatkozóan még nem született döntés, a kérelem elbírálására vonatkozó ügyintézési határidő kezdő napja a baleset üzemiségét megállapító határozat jogerőre emelkedését követő nap.
 
 (4) A baleseti járadék iránti igényt a nyugdíj-megállapító szervnél kell bejelenteni.
 
@@ -1568,6 +1592,10 @@ bírálja el és utólag folyósítja.
 82/D. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 35. § (8) bekezdésében és 36. § (8a) bekezdésében foglaltakat a folyamatban lévő ügyekben, illetve eljárásokban is alkalmazni kell.
 
 82/E. § Amennyiben 2010. április 30-a után született gyermek vonatkozásában gyermekgondozási díjat igényelnek, és a jogosultság megszerzésekor vagy az azt megelőző két éven belül a jogosult e törvény 2010. április 30-áig hatályos szabályai szerint jogosult volt gyermekgondozási díjra, akkor a gyermekgondozási díj folyósításának időtartama a korábbi gyermekgondozási díjra való jogosultság megszerzését megelőző két évben, valamint a korábbi gyermekgondozási díj lejártát követően az e törvény 42/A. § (4) bekezdése szerint számított, biztosításban töltött napok számával egyezik meg, de nem lehet rövidebb 365 napnál, és legfeljebb a gyermek 2. életévének betöltéséig jár. A korábbi gyermekgondozási díj lejártát követően biztosításban töltött időbe az új gyermekgondozási díj időtartamának kiszámítása vonatkozásában nem számít bele a gyermekgondozási segély, valamint a terhességi gyermekágyi segély folyósításának időtartama.
+
+82/F. § (1) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 39/A. § (1) bekezdést, 42. § (3a) és (3b) bekezdést, 42/D. § (2)–(5) bekezdést, 48. § (4), (6a) és (6b), valamint (8) bekezdést, 48/A. §-t, 49. § (1) bekezdés b) pontját, 55. § (1)–(1b) bekezdést, 65. § (3a) bekezdést a 2013. július 14-ét követően kezdődő ellátásra való jogosultság esetében kell alkalmazni, azzal, hogy a 2014. május 11-ét megelőzően született gyermekekre tekintettel igényelt és megállapított terhességi-gyermekágyi segély vagy gyermekgondozási díj összege nem lehet alacsonyabb, mint ami a 2013. július 15-ét megelőzően hatályos szabályok alapján járna.
+
+(2) A 2013. július 15-ét megelőzően megállapított terhességi-gyermekágyi segély és gyermekgondozási díj esetében az ellátás összegét a megállapításkor hatályos szabályok alapján megállapított összegben kell továbbfolyósítani. A jogosultság fennállásának időtartama alatt az ellátás összegét ismételten megállapítani nem lehet.
 
 ### Záró rendelkezések
 
