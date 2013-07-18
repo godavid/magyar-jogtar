@@ -149,7 +149,7 @@ kell kiírni.
 
 Hhtv. 12. § A pályázathoz mellékelni kell a 11. § (3) bekezdésében, valamint a 25. § (1) bekezdésében meghatározottak teljesítésére vonatkozó, a haszonbérlet időtartamára szóló halgazdálkodási tervet (27. §).
 
-Vhr. 6. § (1) A halászati vízterület Magyar Államot megillető halászati jogának haszonbérbe adására vonatkozó pályázat elbírálásánál a miniszter – az Országos Halászati Bizottság véleménye alapján – az érintett miniszterekkel egyetértésben határoz.
+Vhr. 6. § (1)
 
 (2) A Magyar Államot megillető önálló halászati jog haszonbérbe adására vonatkozó pályázatot legalább tízéves időtartamú haszonbérletre kell kiírni.
 
@@ -266,7 +266,7 @@ h) a halászati őrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és környezetvédelmi szabályokról.
 
-(4) A tanfolyam részletes szakmai anyagát a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(4)
 
 (5)
 
@@ -306,7 +306,7 @@ g) a horgászattal kapcsolatos legfontosabb természet- és környezetvédelmi s
 
 h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
-(2) A horgászvizsga részletes szakmai anyagát a minisztérium – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
+(2)
 
 (3) Horgászvizsgát a halászati hatóság által – az illetékességi területén – kijelölt szervezetnél lehet tenni.
 
@@ -804,7 +804,7 @@ kapcsolatos személyi és dologi költségek részbeni vagy teljes fedezésére 
 
 Vhr. 32. § (1) A Hhtv. 52. §-a (1) bekezdésének a)–f) pontjaiban felsorolt tevékenységekhez támogatás elnyerésére a miniszter évente nyilvános pályázatot ír ki.
 
-(2) A pályázat elbírálása során a miniszter az Országos Halászati Bizottság véleménye alapján határoz.
+(2)
 
 Vhr. 33. § Az államot megillető halászati jog haszonbérleti díját, valamint a halászatfejlesztési hozzájárulás összegét évente március 31. napjáig kell átutalási megbízáson teljesíteni a Magyar Államkincstárnál vezetett FM Halgazdálkodási tevékenységek 10032000-01220191-55000000 számú számlára.
 
