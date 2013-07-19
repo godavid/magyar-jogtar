@@ -18,7 +18,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - b)
 - c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
 - d) kártyaterem üzemeltetése,
-- e)
+- e) távszerencsejáték szervezése,
 - f)
 - g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
@@ -26,13 +26,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges. Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.
 
-(5a) Ha az állami adóhatóság megállapítja, hogy internetes oldalon az állami adóhatóság engedélye nélkül szerveznek szerencsejátékot,
+(5a)
 
-- a) az internetes oldalhoz való hozzáférésben közvetítő szolgáltatóként résztvevő elektronikus hírközlési szolgáltatót erről tájékoztatja, és egyidejűleg felhívja a szolgáltatót arra, hogy hálózatában tegye hozzáférhetetlenné a szerencsejátékban való részvételre vonatkozó ajánlatot, valamint
-- b) erről és a szervező által tétfizetés érdekében megjelölt pénzforgalmi számláról tájékoztatja a pénzügyi intézményt, illetve egyidejűleg felhívja a pénzforgalmi szolgáltatót arra, hogy az érintett pénzforgalmi számláról és pénzforgalmi számlára átutalás, beszedés, egyéb fizetési megbízás, művelet teljesítésében a – legfeljebb 90 napos – tilalom feloldásáig ne működjön közre.
-- c)
-
-(5b) A távszerencsejáték szervezője csak olyan – a magyar hatóságok által közvetlenül és teljes körűen ellenőrizhető – valós idejű fizetési módot alkalmazhat, illetve fogadhat el, amely során a befizető személyazonosságának megállapítása kétséget kizáró módon lehetséges, valamint szolgáltatást csak ilyen módón beazonosított és regisztrált játékosnak nyújthat.
+(5b)
 
 (6) Szerencsejátékban – a 16. § szerinti nem folyamatosan szervezett sorsolásos játék kivételével – 18 éven aluli személyek nem vehetnek részt.
 
@@ -44,7 +40,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
 
-2. § (1) Liberalizált tevékenység az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység, továbbá az 1. § (3) bekezdésének g) pontjában meghatározott tevékenységek közül a hírközlő eszköz és rendszer útján szervezett lóversenyfogadás és kártyajátékok nyújtása (továbbiakban együtt: távszerencsejáték).
+2. § (1) Liberalizált tevékenység az 1. § (3) bekezdés a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység.
 
 (2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – az állami adóhatóság engedélye szükséges. Az állami adóhatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
@@ -132,7 +128,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
 
-(4) Az állami adóhatóság a távszerencsejáték engedélyezése iránti kérelem elbírálásáról három hónapon, egyéb szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
+(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt . E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
 
 (5)
 
@@ -235,7 +231,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó és a kártyaterem működtetőjével, valamint a távszerencsejáték-szervezővel szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén az e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -263,7 +259,8 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - d) kaszinójáték,
 - e) fogadás,
 - f) kártyajáték,
-- g)–h)
+- g) távszerencsejáték.
+- h)
 
 ### 1. CÍM — Sorsolásos játék
 
@@ -500,27 +497,91 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-### Távszerencsejátékok
+### 5. CÍM — Távszerencsejáték
 
-29/C. § (1) Távszerencsejátékot szervező gazdasági társaságnak valamely EGT-állam területén székhellyel és legalább 200 millió forintnak megfelelő összegű jegyzett tőkével kell rendelkeznie.
+29/C. § (1) Távszerencsejáték a sportfogadás, a kártyajáték vagy a kaszinójáték, ha azt hírközlő eszköz és rendszer útján szervezik. A fogadási esemény fogalmára a 28/A. § (1) bekezdésben foglalt rendelkezéseket kell alkalmazni. Távszerencsejáték keretében szervezett sportfogadás az agár- és lóversenyre, valamint sportrendezvényre fogadás.
 
-(2) A szervezőnek igazolnia kell, hogy a külön jogszabályban meghatározott szerencsejáték szervezői gyakorlattal rendelkezik, vagy ennek hiányában az állami adóhatóság által a külön jogszabályban foglaltak alapján megállapított, magasabb összegű biztosítékot kell nyújtania.
+29/D. § A 3. § (1) bekezdés a) pontja szerinti esetben az állami játékszervező kizárólagos tulajdonában álló gazdasági társaságnak vagy az állam többségi részesedésével működő gazdálkodó szervezetnek, a 3. § (1) bekezdés b) pontja szerinti esetben a koncessziós társaságnak legalább 200 millió forint jegyzett tőkével kell rendelkeznie.
 
-(3) Ha a szervező Magyarország területén nem rendelkezik székhellyel, a szervezőnek olyan belföldi lakóhellyel vagy székhellyel rendelkező képviselőt kell meghatalmaznia, aki a cég nevében a hatóságok előtt eljárni jogosult és egyben a szervező kézbesítési megbízottjának is minősül. Ha a szervező nem rendelkezik Magyarországon belföldi fiókteleppel, akkor az adóügyekkel kapcsolatban köteles az adózás rendjéről szóló törvény 9. §-a szerinti pénzügyi képviselőt megbízni. Az e bekezdés szerinti képviseletet – a külön jogszabályban meghatározott feltételek teljesülése esetén – ugyanazon személy is elláthatja.
+29/E. § (1) A 3. § (1) bekezdés b) pontja szerinti esetben a tárgyévi távszerencsejáték koncessziós díj jogszabályi minimumát a tárgyévre vonatkozó központi költségvetésről szóló törvény határozza meg. A 2013. évet követő tárgyévekben a koncessziós díj minimumát a tárgyévet megelőző évre a központi költségvetésről szóló törvényben meghatározott koncessziós díj jogszabályi minimuma és a tárgyévi tervezett gazdasági környezet figyelembe-vételével kell meghatározni.
 
-(4) A szervező köteles akkreditált ellenőrző testület által bevizsgált játékrendszert és üzleti rendszert alkalmazni. Az állami adóhatóság az engedély érvényessége alatt bármikor elrendelheti, hogy a szervező a rendszer további tesztelését, ellenőrzését és tanúsítását végezze el.
+(2) A koncessziós szerződésben a felek a jogszabályi minimumot meghaladó mértékű koncessziós díjban megállapodhatnak. A koncessziós szerződésben meghatározott, a jogszabályi minimumot meghaladó mértékű koncessziós díjat évente kell valorizálni oly módon, hogy a tárgyévi koncessziós díjat a koncessziós díj megfizetését megelőző évi, a Központi Statisztikai Hivatal által közzétett éves fogyasztói árindexszel megnövelve kell kiszámítani. A koncessziós díjat a tárgyév február hó 15-éig kell megfizetni. Ha a koncessziós időtartam év közben kezdődik meg vagy fejeződik be, az adott évre a koncessziós díj időarányos részét kell megfizetni.
 
-(5) Távszerencsejáték szervezése esetén az adat feldolgozására és tárolására szolgáló eszközöket (szerver) EGT-államban kell elhelyezni. A szervezőnek a távszerencsejáték szolgáltatás igénybevételével összefüggő adatok tárolását Magyarország területén található adattárolásra szolgáló eszközön is biztosítania kell. A tárolt adatoknak ki kell terjednie különösen az ügyfél-regisztrációra, a játékosi számla finanszírozásának részleteire, a játékosi számla egyenlegének alakulására, a játékmenettel kapcsolatos adatokra és tranzakciókra.
+(3) A koncesszió időtartama legfeljebb 5 év.
 
-(6) A szervezőnek akadálymentes hozzáférést kell biztosítania az állami adóhatóság részére a szerveren és az (5) bekezdésben megjelölt tárolóeszközön tárolt adatokhoz és ennek érdekében biztosítania kell a megfelelő eszközöket és az adatok biztonságát garantáló szoftvert. A hozzáférésnek lehetővé kell tennie az adatok olvasását, másolását és a kimásolt adatok feldolgozását.
+29/F. § (1) A szervező a távszerencsejáték-szervezés engedélyezése iránti kérelemben több játéktípust is megjelölhet. A kérelmet az e törvényben és a külön jogszabályban meghatározott tartalommal kell előterjeszteni a külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetését igazoló okirattal egyidejűleg.
 
-(7) A szervezőnek biztosítani kell a tárolt és hozzáférhetővé tett adatok biztonságát, az adatokat az adómegállapításhoz való jog elévüléséig meg kell őriznie.
+(2) A távszerencsejáték-szervező a távszerencsejáték műszaki-informatikai rendszer e törvényben és külön jogszabályban meghatározott feltételeknek való megfelelését a külön jogszabályban meghatározott módon igazolja.
 
-(8) Az állami adóhatóság jóváhagyhatja, hogy az (5) bekezdésben meghatározott adattárolására szolgáló eszköz ne kerüljön Magyarország területén elhelyezésre, ha az adatfeldolgozásra és –tárolásra szolgáló eszköz (szerver) elhelyezése szerinti EGT-állam hatósága felügyeli a szervező szerencsejáték szervezői tevékenységét és ezen felügyelő hatóság megállapodással rendelkezik az állami adóhatósággal a szervező által Magyarország területén nyújtott szerencsejáték szolgáltatás felügyeletére vonatkozóan.
+(3) Az állami adóhatóság az engedélyezési eljárás során és az engedély érvényességi időtartama alatt a távszerencsejáték műszaki-informatikai rendszer megfelelőségének ellenőrzése céljából a szervezőtől és a szervező hozzájárulása esetén a szervező részére műszaki vagy informatikai szolgáltatást nyújtó személytől vagy szervezettől kiegészítő információkat kérhet és ezeket az információkat a hatósági eljárásban bizonyítékként felhasználhatja.
 
-(9) A szervező köteles a szerencsejáték-szervezői tevékenységéről havonta, a tárgyhónapot követő hónap 20. napjáig elszámolást, jelentést készíteni és azt elektronikus úton az állami adóhatóság részére benyújtani.
+(4) Az állami adóhatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel – legfeljebb 5 éves határozott időtartamra adja ki.
 
-(10) Az állami adóhatóság a szerencsejáték szervező tevékenységet legfeljebb 5 éves időtartamra engedélyezi, az engedély megújítható.
+29/G. § (1) A szervező a szerverhez a távoli hozzáférés lehetőségét az állami adóhatóság részére folyamatosan köteles biztosítani.
+
+(2) A 3. § (1) bekezdés a) pontja szerinti esetben a szervert Magyarországon kell elhelyezni.
+
+(3) Az állami adóhatóság a távszerencsejáték-szervezési engedélyt – jogorvoslatra, illetve a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható döntésével – a kötelezettség teljesítéséig, illetve az akadály elhárításáig, de legfeljebb 6 hónapos időtartamra haladéktalanul felfüggesztheti, ha a szervező az (1) vagy (2) bekezdés szerinti kötelezettségének az engedély érvényességi időszaka alatt nem tesz eleget.
+
+(4) Ha a szervező a (3) bekezdés szerinti felfüggesztés esetén a kötelezettség teljesítéséről, illetve az akadály elhárításáról 6 hónapon belül nem gondoskodik, az állami adóhatóság az engedélyt – jogorvoslatra, illetve a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajtható döntésével – visszavonja.
+
+29/H. § (1) A szervező a játékost a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 7–11. §-ában meghatározott ügyfél-átvilágítási intézkedések elvégzése érdekében a következő adatok rögzítésével nyilvántartásba veszi:
+
+- a) családi és utónév, születési családi és utónév,
+- b) lakcím,
+- c) állampolgárság,
+- d) azonosító okmány típusa, száma,
+- e) születési hely és idő.
+
+(2) A szervező az (1) bekezdésben meghatározott természetes személy személyazonosságának igazoló ellenőrzése érdekében megkeresheti a személyiadat- és lakcímnyilvántartást. Az ellenőrzés elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatszolgáltatás útján valósul meg. Ha az ellenőrzés eredménye az egyezőséget nem támasztja alá, a szervező az ügyfél-azonosítást a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 14. § (2) bekezdése szerint végzi el.
+
+(3) A szervező a személyiadat- és lakcímnyilvántartást a (2) bekezdés szerinti személyazonosságot igazoló ellenőrzés keretében az alábbi adatokkal kapcsolatban keresheti meg:
+
+- a) családi és utónév, születési családi és utónév,
+- b) lakcím,
+- c) állampolgárság,
+- d) személyazonosító igazolvány száma,
+- e) születési hely és idő.
+
+(4) Játékosként kizárólag természetes személy vehető nyilvántartásba. Ha a játékos életkora nem állapítható meg, vagy a 18. életév betöltése egyébként kétséges, a szervező a játékos nyilvántartásba vételét megtagadja.
+
+(5) A szervező a játékos nyilvántartásba vétele keretében a játékos részére játékosi egyenleget hoz létre. Egy játékos részére egy szervezőnél egy játékosi egyenleg nyitható. A játékosi egyenleget a szervező a felelős játékszervezés elvének tiszteletben tartásával, az e törvényben és külön jogszabályban meghatározottak szerint vezeti. A játékosi egyenlegen a szervező az engedély felfüggesztésének időtartama alatt csak a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át és csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet. A játékosi egyenleg megszüntetése esetén a szervező a játékügyletekkel kapcsolatban a játékossal a külön jogszabályban meghatározottak szerint elszámol.
+
+29/I. § (1) A szervező távszerencsejáték-szervezéssel kapcsolatban használt honlapján az e törvény szerint nyújtott szerencsejáték-szolgáltatással kapcsolatban magyar nyelven kell feltüntetni legalább a következő információkat:
+
+- a) a szerencsejátékban való részvétel feltételei és a játék szabályai,
+- b) a játékosi egyenleg kezelésének, a tétek befizetésének, a nyeremények kifizetésének szabályai,
+- c) a játékosi panaszok kezelésének rendje,
+- d) a szerencsejáték-szervező a)–c) pontban foglaltakkal kapcsolatos elérhetősége,
+- e) a 18 éven aluli személyek játéktilalmára vonatkozó figyelmeztetés,
+- f) a túlzásba vitt szerencsejáték ártalmaira, szenvedélybetegség kialakulására vonatkozó figyelmeztetés,
+- g) Magyarországon szerencsejáték játékfüggőség kezelésével foglalkozó legalább egy szervezet elnevezése, elérhetősége,
+- h) az állami adóhatóság mint engedélyező és felügyeleti hatóság megnevezése és elérhetősége játékosi bejelentésekkel, felügyeleti eljárással kapcsolatban,
+- i) a távszerencsejáték engedély meglétére utalás, az engedélyezett játéktípus vagy játéktípusok megjelölése, az engedély felfüggesztése esetén ennek ténye és időtartama.
+
+(2) A szervezőnek biztosítania kell a játékos részére a külön jogszabályban meghatározott önkizárás és az önkorlátozás lehetőségét.
+
+29/J. § (1) Az állami adóhatóság honlapján – a jogkövető magatartás elősegítése és a játékosok védelme érdekében – közzéteszi a következő információkat:
+
+- a) az érvényes távszerencsejáték-szervezési engedéllyel rendelkező távszerencsejáték- szervező cégneve (elnevezése), székhelye, az engedélyezett játéktípusok, az engedély érvényességi ideje, a szervező távszerencsejáték-szervezéssel kapcsolatban használt és engedélyezett honlapjának (honlapjainak) címe, valamint az engedély felfüggesztése esetén ennek ténye és időtartama,
+- b) legalább egy, Magyarországon szerencsejáték-függőség kezelésével foglalkozó szervezet elnevezése, elérhetősége,
+- c) az állami adóhatóság elektronikus, telefonos és postai elérhetősége távszerencsejáték-szervezés esetén játékosi bejelentésekkel, felügyeleti eljárással kapcsolatban.
+
+(2) Az állami adóhatóság az (1) bekezdés szerinti közzététel adatait legkésőbb a változást követő munkanapon módosítja.
+
+29/K. § (1) A szervező a távszerencsejáték szervezői tevékenységéről e tevékenység hatékony hatósági felügyelete érdekében a kéthetente, a tárgyidőszakot tartalmazó hónap 15. és utolsó naptári napján elektronikus úton – az állami adóhatóság által rendszeresített űrlapon vagy az állami adóhatóság által jóváhagyott adathordozó eszköz felhasználásával – adatszolgáltatást teljesít az állami adóhatóságoz.
+
+(2) Az adatszolgáltatásban a szervező a játékügyletek és a játékosi egyenlegen vezetett ügyletek alakulásával kapcsolatos, külön jogszabályban meghatározott adatokat tünteti fel.
+
+(3) A szervező a távszerencsejátékkal kapcsolatos adatokat az adat keletkezésétől számított 6 évig köteles megőrizni és kérésre az állami adóhatóság részére – papír alapon, elektronikusan vagy adathordozó eszközön – hozzáférhetővé tenni.
+
+29/L. § (1) Az állami adóhatóság a 3. § (1) bekezdés b) pontja szerinti távszerencsejáték-szervezés hatékony hatósági felügyelete vagy a legjobb felügyeleti gyakorlatok megosztása érdekében megállapodást köthet az Európai Unió tagállama vagy más állam – különösen a koncesszióba vevő székhelye, a koncessziós társaság nem magyarországi szervere szerinti állam, illetve a koncesszióba vevő részére a magyar hatóság által kiadottól eltérő távszerencsejáték- (online szerencsejáték-) engedélyt kiadó állam – szerencsejáték-felügyeleti hatóságával.
+
+(2) A megállapodás a magyar és a másik részes fél állam adatvédelmi és egyéb jogszabályaival összhangban tartalmazza az együttműködés részteles szabályait, így különösen az átadható információk körét és felhasználásuk feltételeit.
+
+(3) Az (1) bekezdés szerinti együttműködés keretében az állami adóhatóság által szerzett vagy szolgáltatott információra az e törvény szerint a belföldi jogsegély keretében szerzett vagy szolgáltatott információra vonatkozó adatvédelmi szabályokat kell alkalmazni. Az állami adóhatóság az (1) bekezdés szerinti információt az e törvényben biztosított, szerencsejáték-szervezés engedélyezési, felügyeleti tevékenységével összefüggésben használhatja fel.
+
+(4) Az e §-ban foglalt rendelkezésektől eltérni az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződésben foglaltak alapján lehet.
 
 ### II. Fejezet — A sorsolásos játékok és a totalizatőri rendszerű fogadások nyereményalapja
 
@@ -556,7 +617,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### 2. CÍM — Játékadó
 
-### Sorsolásos játékok, fogadások és a távszerencsejátékok játékadója
+### Sorsolásos játékok, fogadások és a távszerencsejáték játékadója
 
 32. § (1) Az e törvény 16. §-ában foglaltak kivételével, más, nem folyamatosan szervezett sorsolásos játékok játékadója a nyereményalap 16%-a. A sorsjáték játékadója a havi tiszta játékbevétel 30%-a, a lottójáték játékadója a 30. § (5) bekezdése szerinti havi nyereményalap 24%-a, a bingójáték játékadója a havi nyereményalap 7%-a, a jokerjáték játékadója a havi nyereményalap 17%-a, más számsorsjáték játékadója a havi nyereményalap 17%-a. A kenójáték játékadója a havi tiszta játékbevétel 24%-a.
 
@@ -566,7 +627,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
 
-(5) A távszerencsejátékok játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.
+(5) A távszerencsejáték játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.
 
 ### Játékautomaták játékadója játékadója
 
@@ -690,7 +751,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 37. §
 
 - 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
-- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyhónapban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező/az engedély birtokosa által felszámított díjak és/vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
+- 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete. 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett tétek és kifizetett nyeremények különbözete, kivéve, ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik. 2.2.
 - 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 - 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 - 5. Közérdekű cél: a szerencsejáték szervező tevékenységi körét meghaladó, saját, vagy alkalmazottai érdekein túli, közösségi érdekeket szolgáló cél. A közösségi érdek meghatározásához a közérdekű célként meghatározott tevékenység felügyeletét ellátó szerv egyetértése szükséges. Lóversenyfogadás esetében közérdekű célnak minősül a versenyló tenyésztés is.
@@ -708,15 +769,18 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
   - b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
 - 16. Fogadási ajánlat: a fogadásszervező nyilvánosságra hozott ajánlata, amely tartalmazza a meghatározott fogadási esemény lefogadható bekövetkezését, kimeneteleit, valamint a totalizatőri rendszerű fogadás esetén a nyereményre fordítandó összeg meghatározásának módját, a bukmékeri rendszerű fogadás esetén pedig a nyereményszorzót.
 - 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
-- 18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek.
+- 18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Távszerencsejáték esetében kaszinójáték a sorsolásos játék kivételével a kaszinójáték játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet a nyilvántartásba vett játékosok részvételével szerveznek.
 - 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 - 20.
 - 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
-- 22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
-- 23. Távszerencsejáték: a lóversenyfogadás és a kártyajáték, ha azt hírközlő eszköz és rendszer útján szervezik.
+- 22. Kártyajáték: kizárólag a jelenlévők – távszerencsejáték esetén a nyilvántartásba vett játékosok – részvételével szervezett, kártyával lebonyolított szerencsejáték.
+- 23.
 - 24. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 - 25. Biztosíték: EGT-állam területén székhellyel rendelkező hitelintézetnél vagy befektetési szolgáltatónál elhelyezett pénz vagy állampapír, EGT-állam területén székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.
 - 26. Nemzetközi együttműködés keretében szervezett szerencsejáték: különböző államokban székhellyel rendelkező szerencsejáték szervezők által közösen szervezett sorsolásos játék, illetve totalizatőri rendszerű fogadás, amely esetén a különböző államban székhellyel rendelkező szerencsejáték szervezők mindegyike rendelkezik a székhelye szerinti államban az adott szerencsejáték szervezésére vonatkozó engedéllyel és a szervezők az együttműködés keretében az általuk önállóan gyűjtött tétekből közös nyereményalapot képeznek.
+- 27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
+- 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
+- 29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
 
 ### Záró rendelkezések
 
@@ -732,7 +796,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h)
-- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
+- i) a távszerencsejáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,
 - j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával kapcsolatos részletes szabályokat rendeletben határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak rendeletben történő megállapítására.
 
 (3)
@@ -767,6 +831,6 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 
 ### Jogszabály tervezetének egyeztetése
 
-41. § Az e törvény 1. § (3) bekezdés e) és f) pontja, 1. § (5b) bekezdése, 1. § (7) bekezdése, 2. § (1) bekezdése, 13/A. §-a, 26. § (1a) és (1b) bekezdése, 26. § (3) és (4) bekezdése, 26. § (22)–(25) bekezdése, 29/C. § (4)–(8) bekezdése, 37. § 23. pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/96/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+41. § Az e törvény 1. § (3) bekezdés e) pontja, 2. § (1) bekezdése, 26. § (3) és (4) bekezdése, 29/C–29/L. §-a, 37. § 21., 27–29. pontja, 36/G–36/J. §-a tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/96/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Melléklet az 1991. évi XXXIV. törvényhez

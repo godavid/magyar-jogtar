@@ -763,6 +763,11 @@ gyakorolja.
 - a) Budapesten és Pest megyében I. kategóriájú játékkaszinó esetében 631,2 millió forint, II. kategóriájú játékkaszinó esetében 368,2 millió forint,
 - b) az a) pontban foglalt kivétellel I. kategóriájú játékkaszinó esetében 526 millió forint, II. kategóriájú játékkaszinó esetében 52,6 millió forint.
 
+71/A. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 29/E. § (1) bekezdése szerinti koncessziós díj jogszabályi minimuma
+
+- a) egy játéktípusra érvényes távszerencsejáték-szervezési engedély esetén 100 millió forint,
+- b) több játéktípusra érvényes távszerencsejáték-szervezési engedély esetén játéktípusonként 100 millió forint.
+
 72. § (1) Az állam az 5000 fő lakosságszámot meghaladó település települési önkormányzatának – ideértve a fővárosi önkormányzatot és a kerületi önkormányzatokat is – (a továbbiakban: átvállalással érintett önkormányzat) a (2) és (3) bekezdés szerinti adósságelemei nélkül számított 2012. december 31-én fennálló adósságállománya és ezen adósságnak az átvállalást követően esedékessé váló járulékai összegéből – a 74. § (3) bekezdésében meghatározott kivétellel – a 74. § (5) bekezdés szerinti megállapodás alapján számított összeget átvállalja.
 
 (2) Az állam teljes mértékben átvállalja az 5000 fő lakosságszámot meghaladó település
