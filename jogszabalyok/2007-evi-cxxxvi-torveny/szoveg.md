@@ -18,7 +18,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - f) ingatlanügylettel kapcsolatos tevékenységet folytat;
 - g) könyvvizsgálói tevékenységet folytat;
 - h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján folytat;
-- i) játékkaszinót, elektronikus kaszinót vagy kártyatermet működtet;
+- i) játékkaszinót, kártyatermet működtet vagy távszerencsejátékot szervez;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedik;
 - k) árukereskedelmi tevékenysége folytatása során hárommillió-hatszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 - l) önkéntes kölcsönös biztosítópénztárként működik;
@@ -78,12 +78,14 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - s) ügyfél:
   - sa) aki a szolgáltatóval az 1. § (1) bekezdésében megjelölt tevékenységi körbe tartozó szolgáltatás igénybevételére üzleti kapcsolatot létesít vagy a szolgáltató részére ügyleti megbízást ad, és
   - sb) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában, aki az ingatlan eladása és vétele céljából ajánlatot kér;
-- t) ügyfél-átvilágítás: a 6. §-ban meghatározott esetben a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése;
+- t) ügyfél-átvilágítás:
+  - ta) a 6. §-ban meghatározott esetben a 7–10. §-ban meghatározott ügyfél-átvilágítási intézkedések elvégzése,
+  - tb) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 29/H. § (1) és (2) bekezdésében meghatározott játékos nyilvántartásba vétele.
 - u) ügyleti megbízás: az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött eseti jogviszony;
 - v) üzleti kapcsolat:
   - va) az ügyfél és a szolgáltató között az 1. § (1) bekezdés a)–e), g)–h) és j)–m) pontjában megjelölt tevékenységi körbe tartozó szolgáltatás igénybevételére vonatkozó szerződéssel létrejött tartós jogviszony,
   - vb) a 36. § (2) bekezdésében meghatározott közjegyzői tevékenységet folytató szolgáltató tekintetében az eljárás lefolytatása,
-  - vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó, elektronikus kaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, vagy
+  - vc) az 1. § (1) bekezdés i) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában a játékkaszinó vagy kártyaterem területére történő első belépéssel létrejött tartós jogviszony, illetve a távszerencsejáték szervezőjénél a játékos nyilvántartásba vétele.
   - vd) az 1. § (1) bekezdés f) pontjában meghatározott tevékenységet végző szolgáltató vonatkozásában az ügyfél és a szolgáltató között a szolgáltató tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozó jogviszony.
 - w) pénzmosás: a 2013. június 30-ig hatályos, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 303–303/A. §-ában, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 399–400. §-ában meghatározott elkövetési magatartások;
 - x) terrorizmus finanszírozása: az 1978. évi IV. törvény 261. § (1) és (2) bekezdése szerinti bűncselekmény elkövetéséhez szükséges anyagi eszköz szolgáltatása vagy gyűjtése, illetve a Btk. 318. §-ában meghatározott elkövetési magatartások;
