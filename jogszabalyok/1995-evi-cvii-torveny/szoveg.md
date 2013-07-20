@@ -36,7 +36,7 @@ a büntetés-végrehajtási szervezetről
 - f) meghatározza az oktatás, a képzés és a továbbképzés irányait, összehangolja az erre irányuló tevékenységet;
 - g) jogszabályban meghatározottak szerint munkáltatói jogkört gyakorol;
 - h) meghatározza a kizárólag hivatásos szolgálati jogviszonyban álló személyekkel betölthető beosztásokat;
-- i)
+- i) kinevezi, illetve felmenti a büntetés-végrehajtás országos parancsnokát, illetve az országos parancsnok javaslatára kinevezi, illetve felmenti az országos parancsnok helyetteseit;
 - j) rendszeresíti a bv. szervezetnél alkalmazható kényszerítő eszközöket, fegyverzeti, egyenruházati anyagokat, hír- és biztonsági rendszereket;
 - k) megsemmisíti vagy megváltoztatja az országos parancsnok jogszabálysértő intézkedését;
 - l) jogszabályban meghatározott esetekben felülvizsgálja az országos parancsnok határozatait, kivéve, ha a határozat a bíróság előtt közvetlenül megtámadható;
@@ -46,13 +46,13 @@ a büntetés-végrehajtási szervezetről
 
 (3) A miniszter a bv. szervezet részére egyedi utasítást az országos parancsnok útján adhat.
 
-4. § (1) Az országos parancsnok a jogszabályok, az állami irányítás egyéb jogi eszközei, és a miniszter törvényben meghatározott jogkörében hozott döntéseinek keretei között vezeti a bv. szervezetet. Az országos parancsnok a bv. szervezet személyi állományának szolgálati elöljárója, illetve felettese.
+4. § (1) Az országos parancsnok a jogszabályok, a közjogi szervezetszabályozó eszközök, és a miniszter törvényben meghatározott jogkörében hozott döntéseinek keretei között vezeti a bv. szervezetet. Az országos parancsnok a bv. szervezet személyi állományának szolgálati elöljárója, illetve felettese.
 
 (2) Az országos parancsnok
 
 - a) gondoskodik a bv. szervezet törvényes működéséről;
 - b) előterjesztést, javaslatot tesz a miniszter részére;
-- c) jogszabály meghozatalát nem igénylő kérdésben intézkedéssel állapítja meg az egyes rendszeresen ismétlődő tevékenységek végrehajtásának szakmai, technikai és eljárási szabályait;
+- c)
 - d) meghatározott tevékenység vagy feladat végrehajtására, illetve a hivatásos állomány tagjaira vonatkozóan — egyedi döntésként — parancsot ad;
 - e) gondoskodik a bv. szervezet költségvetésében foglaltak megtartásáról;
 - f) jogszabályban meghatározottak szerint munkáltatói jogkört gyakorol;
@@ -65,9 +65,9 @@ a büntetés-végrehajtási szervezetről
 
 ### Az Országos Parancsnokság
 
-5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok intézkedései alapján
+5. § Az Országos Parancsnokság a jogszabályok, a miniszter döntései és az országos parancsnok utasításai, valamint egyedi intézkedései alapján
 
-- a) előkészíti az országos parancsnok intézkedéseit, parancsait és előterjesztéseit;
+- a) előkészíti az országos parancsnok utasításait, parancsait és előterjesztéseit;
 - b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak nevelésével, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával kapcsolatos tevékenységet;
 - c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 - d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továbbiakban: gazdasági társaságok) és a fogvatartottak foglalkoztatására létrehozott költségvetési szervek működésével kapcsolatban ellátja a miniszter által meghatározott büntetés-végrehajtási feladatokat;
@@ -77,7 +77,7 @@ a büntetés-végrehajtási szervezetről
 
 ### A büntetés-végrehajtási intézetek és intézmények
 
-6. § (1) A büntetés-végrehajtási intézetek (a továbbiakban: intézet) a jogszabályok, az országos parancsnok intézkedései és parancsai, valamint a szervezeti és működési szabályzatukban foglaltak alapján ellátják a büntetések és intézkedések végrehajtásával járó feladatokat, a fogvatartottak — köztük a kóros elmeállapotúak — gyógykezelését, elmemegfigyelését és kivizsgálását.
+6. § (1) A büntetés-végrehajtási intézetek (a továbbiakban: intézet) a jogszabályok, az országos parancsnoki utasítások, az országos parancsnok parancsai, valamint a szervezeti és működési szabályzatukban foglaltak alapján ellátják a büntetések és intézkedések végrehajtásával járó feladatokat, a fogvatartottak — köztük a kóros elmeállapotúak — gyógykezelését, elmemegfigyelését és kivizsgálását.
 
 (2) Intézet a büntetés és az intézkedés jellegére, a végrehajtási fokozatra, a fogvatartottak életkorára, nemére és a végrehajtás egyéb sajátos körülményeire tekintettel alapítható.
 
@@ -341,7 +341,7 @@ alkalmazható.
 
 (3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-28/A. § A büntetés-végrehajtási szervezet, illetőleg a végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel az elítélt kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
+28/A. § A büntetés-végrehajtási szervezet, illetőleg a végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 - a) családi és utónevére,
 - b) lakcímére (székhelyére),

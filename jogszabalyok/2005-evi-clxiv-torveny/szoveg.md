@@ -118,7 +118,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
 
-(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete a helyi sajátosságok figyelembevételével az üzletek éjszakai (22 óra és 6 óra közötti) nyitvatartási rendjét rendeletben szabályozhatja.
+(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése a helyi sajátosságok figyelembevételével az üzletek éjszakai (22 óra és 6 óra közötti) nyitvatartási rendjét rendeletben szabályozhatja.
 
 (5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását korlátozhatja. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárva tartási időszakot rendelhet el.
 
@@ -312,7 +312,7 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
+(5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 

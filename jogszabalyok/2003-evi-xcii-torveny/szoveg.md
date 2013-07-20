@@ -1627,7 +1627,7 @@ kapcsolatos adóztatási feladatok ellátása, ide nem értve a végrehajtási e
 
 82. § (1) Helyi adóügyben az az önkormányzati adóhatóság jár el, amelynek önkormányzata a helyi adót bevezette.
 
-(2) Belföldi rendszámú gépjárművek adója ügyében az az önkormányzati adóhatóság (fővárosban a kerületi önkormányzati adóhatóság) az illetékes, amelynek területén a közúti közlekedési nyilvántartásba bejegyzett adóalany lakóhelye, székhelye, illetőleg telephelye található. Az adóalany személyében bekövetkezett változás az önkormányzati adóhatóság illetékességét a gépjárműadóról szóló törvény szerint változtatja meg.
+(2) Belföldi rendszámú gépjárművek adója ügyében az az önkormányzati adóhatóság (fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatóság) az illetékes, amelynek területén a közúti közlekedési nyilvántartásba bejegyzett adóalany lakóhelye, székhelye, illetőleg telephelye található. Az adóalany személyében bekövetkezett változás az önkormányzati adóhatóság illetékességét a gépjárműadóról szóló törvény szerint változtatja meg.
 
 (3) A termőföld bérbeadásából származó jövedelem adóztatására a föld fekvése szerinti önkormányzati adóhatóság az illetékes.
 
@@ -2889,10 +2889,10 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 - a) a feleknek,
 - b) azoknak, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van,
-- c) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek,
+- c) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főjegyzőnek,
 - d) az ingatlanügyi hatóságnak.
 
-(5) A pályázati hirdetményt – a megérkezését követő első munkanaptól kezdődően – 15 napig ki kell függeszteni az adóhatóságnak, az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatalnak, valamint az ingatlanügyi hatóságnak a hirdetőtáblájára, és az adós kérelmére egyéb megfelelő módon is közhírré kell tenni. A kifüggesztés időtartama 30 nap azoknál a lakóingatlanoknál, amelyekre a települési önkormányzatot külön jogszabály szerint elővásárlási jog illeti meg.
+(5) A pályázati hirdetményt – a megérkezését követő első munkanaptól kezdődően – 15 napig ki kell függeszteni az adóhatóságnak, az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatalnak, illetve főpolgármesteri hivatalnak, valamint az ingatlanügyi hatóságnak a hirdetőtáblájára, és az adós kérelmére egyéb megfelelő módon is közhírré kell tenni. A kifüggesztés időtartama 30 nap azoknál a lakóingatlanoknál, amelyekre a települési önkormányzatot külön jogszabály szerint elővásárlási jog illeti meg.
 
 156/C. § (1) Az ajánlatnak tartalmaznia kell
 
@@ -4442,7 +4442,7 @@ G) Hatósági adatszolgáltatás
 
 1. Az építésügyi hatóság az általa kiadott jogerős használatbavételi, illetőleg jogerős fennmaradási engedély egy példányát, a jogerőre emelkedés közlése időpontjának megjelölésével megküldi az illetékes önkormányzati adóhatósághoz és az ingatlan fekvése szerint illetékes állami adóhatósághoz.
 
-2. A közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a járműnyilvántartásából, valamint az 1992. évi LXVI. törvény szerinti nyilvántartásból a január 1-jei állapotnak megfelelő adatokat január 31. napjáig közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal a következő tartalommal:
+2. A közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a járműnyilvántartásából, valamint az 1992. évi LXVI. törvény szerinti nyilvántartásból a január 1-jei állapotnak megfelelő adatokat január 31. napjáig közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatósággal a következő tartalommal:
 
 a) a gépjármű rendszáma, alvázszáma, személygépjármű saját tömege, tehergépjármű saját tömege és megengedett együttes tömege,
 
@@ -4468,7 +4468,7 @@ c) január 20. napjáig azon tulajdonos tulajdonjoga kezdetének és megszűnés
 
 d) 2011. január 20. napjáig a 2006. január 1. és 2009. december 31. közötti időszakban a közlekedési igazgatási hatóság által a járműnyilvántartásba utólagosan bejegyzett köztes tulajdonos tulajdonjoga kezdetének és megszűnésének időpontját
 
-a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal.
+a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatósággal.
 
 4. Az első fokon eljáró közlekedési igazgatási hatóság által a jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során a közlekedési igazgatási ügymenetet támogató informatikai rendszerben rögzített, az ügyfél által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) és (2) bekezdésében szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, kamratérfogatát, teljesítményét, össztömegét, gyártási évét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét, adóazonosító számát) elektronikus úton továbbítja az állami adóhatóságnak.
 

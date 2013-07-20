@@ -54,7 +54,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 - i) ellátás: jogszabályban meghatározott pénzbeli, természetbeni, illetve személyes gondoskodást nyújtó alapellátás és szakellátás,
 - j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
-- k) gyámhatóság: a fővárosi és megyei kormányhivatal szakigazgatási szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakigazgatási szerve, valamint a települési önkormányzat jegyzője,
+- k) gyámhatóság: a fővárosi és megyei kormányhivatal szakigazgatási szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakigazgatási szerve, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
 - l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 - m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elrendelt hatósági intézkedésen alapuló ellátás és védelem,
 - n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
@@ -2138,11 +2138,11 @@ feltéve, ha lakhatása saját vagy közeli hozzátartozója lakókörnyezetébe
 
 ### A települési önkormányzat feladatai
 
-94. § (1) A települési önkormányzat, fővárosban a fővárosi kerületi önkormányzat feladata a gyermekek védelme helyi ellátó rendszerének kiépítése és működtetése, a területén lakó gyermekek ellátásának megszervezése.
+94. § (1) A települési önkormányzat, fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat feladata a gyermekek védelme helyi ellátó rendszerének kiépítése és működtetése, a területén lakó gyermekek ellátásának megszervezése.
 
 (2) A települési önkormányzat az e törvényben foglaltak szerint biztosítja a rendkívüli gyermekvédelmi támogatást, a személyes gondoskodást nyújtó alapellátások keretében – a (3)–(4) bekezdésben meghatározottak figyelembevételével – a gyermekjóléti szolgáltatást, a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, szervezi és közvetíti a máshol igénybe vehető ellátásokhoz való hozzájutást.
 
-(2a) A települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni.
+(2a) A települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni.
 
 (3) Az a települési önkormányzat, fővárosban a kerületi önkormányzat, amelynek területén
 

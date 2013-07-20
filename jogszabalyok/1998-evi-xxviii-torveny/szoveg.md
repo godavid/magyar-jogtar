@@ -474,26 +474,26 @@ teszi szükségessé.
 
 (8) Jogszabályban meghatározott közfeladat ellátása érdekében az adatbázis működtetője az adatbázishoz
 
-- a) hozzáférést biztosít a települési, fővárosban a kerületi önkormányzat részére,
+- a) hozzáférést biztosít a települési, fővárosban a fővárosi kerületi és a fővárosi önkormányzat részére,
 - b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
 
 (9) Az adatbázisban szereplő adatok tulajdonjogot nem igazolnak.
 
-42/B. § (1) A tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat ebrendészeti feladatainak elvégzése érdekében, illetve a veszettség elleni oltás járványvédelmi vonatkozásaira való tekintettel három évente legalább egy alkalommal ebösszeírást végez.
+42/B. § (1) A tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat ebrendészeti feladatainak elvégzése érdekében, illetve a veszettség elleni oltás járványvédelmi vonatkozásaira való tekintettel három évente legalább egy alkalommal ebösszeírást végez.
 
-(2) Az ebösszeírás során a települési, fővárosban a kerületi önkormányzat jogosult kezelni a 42/A. § (4) bekezdés szerinti adatokat.
+(2) Az ebösszeírás során a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat jogosult kezelni a 42/A. § (4) bekezdés szerinti adatokat.
 
-(3) A települési, fővárosban a kerületi önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokról helyi elektronikus nyilvántartást vezet, az állat tulajdonosa, tartója és más személyek jogainak, személyes biztonságának és tulajdonának védelme, valamint ebrendészeti és állatvédelmi feladatainak hatékony ellátása céljából.
+(3) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokról helyi elektronikus nyilvántartást vezet, az állat tulajdonosa, tartója és más személyek jogainak, személyes biztonságának és tulajdonának védelme, valamint ebrendészeti és állatvédelmi feladatainak hatékony ellátása céljából.
 
-(4) Az adatbázis működtetőjének kérésére a települési, fővárosban a kerületi önkormányzat, valamint a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
+(4) Az adatbázis működtetőjének kérésére a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat, valamint a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
 
-(5) Az eb tulajdonosa és tartója az ebösszeíráskor köteles a (2) bekezdés szerinti adatokat a települési, fővárosban a kerületi önkormányzat rendelkezésére bocsátani.
+(5) Az eb tulajdonosa és tartója az ebösszeíráskor köteles a (2) bekezdés szerinti adatokat a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat rendelkezésére bocsátani.
 
-42/C. § (1) Az ebtartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat az adott év első napjáig négy hónapos kort betöltött eb után az eb tulajdonosától évente ebrendészeti hozzájárulást szedhet be.
+42/C. § (1) Az ebtartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat az adott év első napjáig négy hónapos kort betöltött eb után az eb tulajdonosától évente ebrendészeti hozzájárulást szedhet be.
 
 (2) Az adott évi ebrendészeti hozzájárulás tekintetében az eb tulajdonosának az év első napján az oltási könyvben tulajdonosként feltüntetett természetes vagy jogi személyt, jogi személyiség nélküli szervezetet kell tekinteni.
 
-(3) Az éves ebrendészeti hozzájárulás mértékét a tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat
+(3) Az éves ebrendészeti hozzájárulás mértékét a tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat
 
 - a) az eb tartási céljának,
 - b) az eb tartásának állatjóléti és ebrendészeti jellemzőinek (tartási hely típusa, mérete, tartott ebek száma),
@@ -514,7 +514,7 @@ eb után.
 
 (6) Az állatmenhelyről, ebrendészeti telepről vagy állatvédelmi szervezettől történő örökbefogadás tényét az örökbeadó intézmény vagy szervezet vezetője írásban igazolja.
 
-(7) A települési, fővárosban a kerületi önkormányzat köteles a befolyt ebrendészeti hozzájárulás teljes összegét az ebek ivartalanításának támogatására, az állatmenhelyek és az ebrendészeti telepek fenntartására, állatvédelmi szervezetek támogatására, valamint az ebösszeírás vagy egyéb, az ebtartással kapcsolatos állatjóléti és közegészségügyi intézkedések finanszírozására fordítani.
+(7) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat köteles a befolyt ebrendészeti hozzájárulás teljes összegét az ebek ivartalanításának támogatására, az állatmenhelyek és az ebrendészeti telepek fenntartására, állatvédelmi szervezetek támogatására, valamint az ebösszeírás vagy egyéb, az ebtartással kapcsolatos állatjóléti és közegészségügyi intézkedések finanszírozására fordítani.
 
 (8) A határidőre meg nem fizetett ebrendészeti hozzájárulás adók módjára behajtandó köztartozás.
 
@@ -593,7 +593,7 @@ eb után.
 
 (3)
 
-48/A. § (1) A települési, fővárosban a kerületi önkormányzat önkormányzati állatvédelmi őrszolgálatot működtethet.
+48/A. § (1) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat önkormányzati állatvédelmi őrszolgálatot működtethet.
 
 (2) Az önkormányzati állatvédelmi őrszolgálatra vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
@@ -638,9 +638,9 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
+(5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
 
-(6) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy a kedvtelésből tartott állatok tartásának szabályait rendeletben határozza meg.
+(6) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy a kedvtelésből tartott állatok tartásának szabályait rendeletben határozza meg.
 
 50. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a végrehajtására kiadott jogszabályokkal együtt – az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 

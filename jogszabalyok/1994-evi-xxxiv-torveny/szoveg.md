@@ -32,7 +32,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
   - c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszervezet működését anyagi források biztosításával vagy más módon elősegítsék.
 - 16. elvégzi a részére törvényben vagy kormányrendeletben megállapított, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat, valamint
 - 17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban,
-- 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában.
+- 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
+- 19. ellátja a segélyhívó számok fogadásából eredő feladatokat.
 
 2. § (1) A rendőrség védelmet nyújt az életet, a testi épséget, a vagyonbiztonságot közvetlenül fenyegető vagy sértő cselekménnyel szemben, felvilágosítást és segítséget ad a rászorulónak. A rendőrség tiszteletben tartja és védelmezi az emberi méltóságot, óvja az ember jogait.
 
@@ -176,11 +177,20 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 - a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőknél, valamint a hivatásos állomány tagjánál a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Szervezett Bűnözés elleni Koordinációs Központhoz vezényelt tagjai,
-  - bb) a ba) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
-  - bc) az NBF kivételével a ba) és bb) alpontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a ba) és bb) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
-  - bd) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
+  - ba) a közszolgálati tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
+  - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Szervezett Bűnözés elleni Koordinációs Központhoz vezényelt tagjai,
+  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
+  - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
+  - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
+
+(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+
+- a) állampolgársági eljárással, menekültügyi eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
+- b) közbeszerzési eljárás során,
+- c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
+- d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
+- e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -277,9 +287,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 ### III. Fejezet — A RENDŐRSÉG EGYÜTTMŰKÖDÉSE
 
-8. § (1) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv létesítéséhez és megszüntetéséhez előzetesen ki kell kérni az érintett települési, Budapesten a fővárosi kerületi önkormányzat képviselő-testületének a véleményét.
+8. § (1) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv létesítéséhez és megszüntetéséhez előzetesen ki kell kérni az érintett települési, Budapesten a fővárosi kerületi önkormányzat képviselő-testületének, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlésének a véleményét.
 
-(2) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv vezetőjének kinevezését megelőzően a kinevezési jogkör gyakorlója kikéri az illetékességi területen működő települési — Budapesten a fővárosi kerületi — önkormányzatok képviselő-testületének a véleményét. Rendőrfőkapitány esetében a megyei (fővárosi) önkormányzat képviselő-testületének véleményét kell kérni. A szükségessé váló felmentésről az illetékes önkormányzatokat — az érintettel történő közléssel egyidejűleg — tájékoztatni kell.
+(2) A rendőrkapitányság, a határrendészeti kirendeltség és a más helyi rendőri szerv vezetőjének kinevezését megelőzően a kinevezési jogkör gyakorlója kikéri az illetékességi területen működő települési — Budapesten a fővárosi kerületi — önkormányzatok képviselő-testületének, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlésének a véleményét. Rendőrfőkapitány esetében a megyei (fővárosi) önkormányzat képviselő-testületének véleményét kell kérni. A szükségessé váló felmentésről az illetékes önkormányzatokat — az érintettel történő közléssel egyidejűleg — tájékoztatni kell.
 
 (3) Ha a települési önkormányzatok többsége, illetve a megyei (fővárosi) önkormányzat a kinevezéssel szemben foglal állást, és a kinevezési jogkör gyakorlója nem állít újabb jelöltet, döntése szakmai indokairól az érintett önkormányzatokat állásfoglalásban tájékoztatja.
 
@@ -520,7 +530,7 @@ igazolja.
 - a) aki a rendőr felszólítására nem tudja magát hitelt érdemlően igazolni, vagy az igazolást megtagadja;
 - b) aki bűncselekmény elkövetésével gyanúsítható;
 - c) akitől bűncselekmény gyanúja vagy szabálysértés, valamint közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
-- d) aki a szülői felügyelet vagy a gyámság, illetőleg a nevelőszülőnél vagy gyermekotthonban történő elhelyezése alól hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a körözését gyermek átadására irányuló bírósági végrehajtás során rendelték el;
+- d) aki a szülői felügyelet vagy a gyámság, valamint a nevelőszülőnél vagy gyermekotthonban történő elhelyezésének hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a felkutatását és előállítását gyermek átadására irányuló bírósági végrehajtás során rendelték el;
 - e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 - f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
 - g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye;
@@ -591,7 +601,7 @@ igazolja.
 39. § (1) A rendőr magánlakásba bebocsátás vagy hatósági határozat nélkül nem léphet be, illetve nem hatolhat be, kivéve
 
 - a) segélyhívás esetén vagy öngyilkosság megakadályozása céljából;
-- b) bűncselekmény elkövetésének megakadályozása, megszakítása, vagy a bűncselekmény elkövetőjének vagy gyanúsítottjának elfogása és előállítása céljából;
+- b) bűncselekmény elkövetésének megakadályozása, megszakítása vagy büntetőeljárás terheltjének elfogása és előállítása céljából;
 - c) közveszély, továbbá az életet vagy testi épséget fenyegető közvetlen veszély elhárítása, illetőleg az ilyen veszélyben lévők kimentése érdekében;
 - d) rendkívüli vagy tisztázatlan okból bekövetkezett halálesettel kapcsolatos intézkedés megtételére;
 - e) végrehajtási eljárás lefolytatása, illetve az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából, ha az abban való közreműködés – jogszabály alapján – a rendőrség számára kötelező;
@@ -627,10 +637,13 @@ igazolja.
 
 (5a) A rendőrség a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrzött szállás területén – a lakóhelyiségek, a tisztálkodás céljára szolgáló helyiségek és a WC-k kivételével – bűnmegelőzési, valamint az őrzésbiztonsági feltételek ellenőrzése céljából képfelvevőt helyezhet el és felvételt készíthet.
 
+(5b) A rendőrség a segélyhívások fogadásával összefüggésben, a segítségnyújtási kötelezettség teljesítése, a segélyhívás alapján szükséges intézkedések megtétele céljából a fogadott segélyhívásokról felvételt készíthet.
+
 (6) Az
 
 - a) (1), (2) és (5) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 - b) (5a) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
+- c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 
 használható fel.
 
@@ -638,7 +651,8 @@ használható fel.
 
 - a) az (1) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
 - b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
-- c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével
+- c) az (5) és (5a) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
+- d) az (5b) bekezdés alapján rögzített felvételt a rögzítést követő egy év elteltével
 
 törölni kell.
 
@@ -646,7 +660,9 @@ törölni kell.
 
 (9) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5) és (5a) bekezdése szerint rögzített felvételből – a külön jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, illetőleg nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5), (5a) és (5b) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+
+(1a) A rendőrség a segélyhívást követő intézkedés lefolytatása céljából az intézkedés lefolytatására feladat- és hatáskörrel rendelkező egészségügyi szervet, hivatásos katasztrófavédelmi szervet a segélyhívásokkal kapcsolatban a rendőrség által kezelt adatok továbbításával értesíti.
 
 (2) A rendőrség a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -1183,7 +1199,8 @@ felderítése során.
 
 - a) bűnmegelőzési, felderítési, bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
 - b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
-- c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait
+- c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait,
+- d) a segélyhívások fogadása keretében megismert személyes adatokat,
 
 kezeli.
 
@@ -1221,11 +1238,14 @@ kezeli.
 
 81. § A rendőrség az intézkedéssel érintett természetes személy személyazonosító adatait – nem magyar állampolgár esetében állampolgárságát is –, lakcímét, értesítési címét, az üggyel összefüggő adatait, továbbá a bűnüldözési célú adatkezelésekben a bűncselekményhez kapcsolódó kriminalisztikai jellegű adatokat kezeli. A Rendőrség törvény rendelkezése alapján azonosító kódokat használhat.
 
+81/A. § A rendőrség kezeli az általa fogadott segélyhívások esetén a hívó fél által megadott adatokat és a hívó fél által használt telefonállomás azonosított adatait a segélyhívás fogadásától számított egy évig.
+
 82. § (1) A rendőrség a különleges adatok közül kezeli
 
 - a) a büntetett előéletre vonatkozó adatot, valamint
 - b) bűnüldözési tevékenysége során egyéb bűnügyi személyes adatot és az elkövetőnek vagy a sértettnek a bűncselekménnyel összefüggő egészségügyi adatát, továbbá
-- c) a külön törvényben szabályozott közigazgatási feladatköréhez kapcsolódóan az ott meghatározott különleges adatokat.
+- c) a külön törvényben szabályozott közigazgatási feladatköréhez kapcsolódóan az ott meghatározott különleges adatokat,
+- d) a segélyhívások fogadása keretében megismert egészségi állapotra, kóros szenvedélyre vonatkozó személyes adatokat.
 
 (2) A rendőrség kezelheti azokat a különleges adatokat, amelyeknek kezeléséhez az érintett megfelelő tájékoztatás után írásban hozzájárult.
 
@@ -1647,7 +1667,8 @@ bírálja el.
 - j) állapítsa meg a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás rendjét,
 - k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,
 - l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat,
-- m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait.
+- m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
+- n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, továbbá feladatai ellátásának részletes szabályait.
 
 (2)
 
@@ -1658,7 +1679,7 @@ bírálja el.
 - a) a rendőrség szerveinek illetékességi területét,
 - b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
 - c) a rendőrségi fogdák rendjét,
-- d) a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokat, a szabad vízen való tartózkodás alapvető szabályait,
+- d)
 - e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,

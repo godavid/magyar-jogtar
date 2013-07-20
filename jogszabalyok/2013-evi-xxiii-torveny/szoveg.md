@@ -456,7 +456,7 @@ rendeletben állapítsa meg.
 
 (2) E törvény hatálybalépése az igazgatóság, az igazgatótanács és a felügyeleti bizottság tagjainak tagsági viszonyát nem érinti.
 
-52. § A 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek e törvény hatálybalépését követő hat hónapon belül kell kialakítania.
+52. § A 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2014. július 1-jéig kell kialakítania.
 
 53. § (1) E törvény 54. § (2) bekezdése a tengeri balesetek és események kivizsgálására szolgáló, a 2009/18/EK európai parlamenti és tanácsi rendelet 5. cikkének (4) bekezdése szerint kidolgozott közös módszertan elfogadásáról szóló, 2011. december 9-i 1286/2011/EU bizottsági rendelet végrehajtását szolgálja.
 
