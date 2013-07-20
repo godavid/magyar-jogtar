@@ -135,7 +135,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 6/A. § (1) E törvényben meghatározott feltételek teljesülése esetén – jogszabályban meghatározott körben és az ott meghatározottak szerint –
 
-- a) a települési önkormányzat (fővárosban a kerületi önkormányzat)
+- a) a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat)
   - aa) elláthatja az épített környezet helyi védelmét, a helyi építészeti értékek, a településkép, a rálátás és kilátás védelmét, továbbá meghatározza a település területfelhasználásához az építményekben létesíthető rendeltetések körét és a reklámok elhelyezésére vonatkozó követelményeket,
   - ab) előzetes tájékoztatást ad az ügyfeleknek a helyi településrendezési előírások tartalmáról, ennek keretében javaslatot tehet a telek beépítésének feltételeire a településkép és az építészeti örökség megóvásával és minőségi alakításával kapcsolatban,
   - ac) szakmai konzultációt biztosít az ab) alpontban meghatározott követelmények teljesítése érdekében,
@@ -560,7 +560,9 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 ### Településképi véleményezési eljárás
 
-30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
+30/C. § (1) A települési önkormányzat polgármestere a megkeresés beérkezésétől számított 15 napon belül az illeszkedési követelmények teljesítésével kapcsolatban – az összevont telepítési eljárással nem érintett, valamint az építészeti-műszaki tervtanácsról szóló kormányrendelet által nem szabályozott körben, az (1a) bekezdésben foglaltak kivételével – véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez.
+
+(1a) A fővárosi helyi építészeti értékvédelem alá vont építmény, illetve a fővárosi önkormányzat által közvetlenül igazgatott területen lévő építmény esetében az (1) bekezdésben meghatározott körben és módon a (2)–(4) bekezdésben meghatározottak szerint a fővárosi önkormányzat főpolgármestere adhat véleményt.
 
 (2) A polgármester az (1) bekezdés szerinti véleményének kialakításához az önkormányzat rendeletében meghatározottak szerint kikéri az önkormányzati főépítész vagy a helyi építészeti-műszaki tervtanács szakmai véleményét. Ha a polgármester az (1) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, hozzájárulását megadottnak kell tekinteni.
 
@@ -574,7 +576,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 ### Településképi bejelentési eljárás
 
-30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
+30/D. § (1) Települési önkormányzat (fővárosban a kerületi önkormányzat) polgármestere, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármester településképi bejelentési eljárást folytathat le – e törvény végrehajtására kiadott kormányrendelet keretei között, e tárgyban hozott önkormányzati rendeletben meghatározott esetekben és módon – hatósági engedélyhez nem kötött tevékenységek, a reklámelhelyezések és rendeltetésmódosítások tekintetében.
 
 (2) A településképi eljárást bejelentés formájában az ügyfél a polgármesternél kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester a tevékenység végzését a bejelentést követő 8 napon belül nem tiltja meg.
 
@@ -1291,7 +1293,7 @@ kérelmező személy,
 (10) Az adatkezelő a (9) bekezdésben felsorolt személyek alábbi személyes adatait kezeli:
 
 - a) természetes személyazonosító adatok,
-- b) lakcím, székhely,
+- b) lakcím, értesítési cím, székhely,
 - c) adóazonosító jel, adószám,
 - d) jogi személy vagy jogi személyiség nélküli szervezet esetén a cég képviseletére jogosultak neve, adóazonosító jele, lakcíme,
 - e) a (9) bekezdés a) és d) pontja kivételével a szakképzettség megnevezése, okirati száma, szakmagyakorlási jogosultsági névjegyzéki száma,
@@ -1471,7 +1473,7 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat) arra, hogy rendeletben állapítsa meg
+(6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 
 - 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárási szabályairól, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
 - 2. a településkép védelme érdekében a reklámok, reklámberendezések és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló szabályokat,
@@ -1484,7 +1486,7 @@ rendeletben állapítsa meg.
 (7) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg
 
 - 1. a helyi építészeti értékek védelme érdekében 1.1. a védetté nyilvánításról, 1.2. a védettség megszüntetésének eljárásáról, 1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról szóló szabályokat,
-- 2.
+- 2. fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait,
 - 3. a fővárosi rendezési szabályzatát,
 - 4. a Duna-parti építési szabályzatát.
 

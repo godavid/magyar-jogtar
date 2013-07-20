@@ -50,7 +50,12 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 
 (2) A polgárőr egyesület a 3. § (2) bekezdés a) pontjában meghatározott, a katasztrófák elleni védekezéssel összefüggő kiegészítő feladat ellátását akkor kezdheti meg, valamint végezheti, ha rendelkezik a hivatásos katasztrófavédelmi szerv illetékes területi szervének előzetes írásbeli egyetértésével.
 
-(3) A polgárőr egyesület működési területe annak a településnek, fővárosi kerületnek, valamint az azokkal közvetlenül határos település földrajzi területe, amelyet a polgárőr egyesület székhelyeként megjelölt. A polgárőr egyesület működési területe – az alapfeladata ellátásával összefüggésben, indokolt esetben – a fővárosi kerület, valamint az azzal közvetlenül határos kerület közigazgatási területén túl a főváros teljes közigazgatási területére is kiterjedhet.
+(3) A polgárőr egyesület működési területe annak a településnek, fővárosi kerületnek, valamint az azokkal közvetlenül határos település földrajzi területe, amelyet a polgárőr egyesület székhelyeként megjelölt. A polgárőr egyesület működési területe – indokolt esetben –
+
+- a) az alapfeladata ellátásával összefüggésben a fővárosi kerület, valamint az azzal közvetlenül határos kerület közigazgatási területén túl a főváros teljes közigazgatási területére, valamint
+- b) a kiegészítő feladata ellátásával összefüggésben a székhelye szerinti fővárosi kerület területén túl a fővárosi önkormányzat által közvetlenül igazgatott területre
+
+is kiterjedhet.
 
 (3a) A polgárőr egyesület működési területe a lovas járőrszolgálat ellátása tekintetében – a (3) bekezdésben meghatározott területen túl – a polgárőrség székhelyeként megjelölt településsel, fővárosi kerülettel közvetlenül határos erdőterület lovas járőrszolgálat elől el nem zárt területére is kiterjed.
 

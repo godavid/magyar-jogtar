@@ -44,7 +44,7 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 | --- | --- | --- |
 | Budapest VIII. kerület | Budapest IX. kerület | Budapest X. kerület |
 | Budapest XIII. kerület | Budapest XIV. kerület | Budapest XVI. kerület |
-| Budapest XVII. kerület |  |  |
+| Budapest XVII. kerület | Margitsziget |  |
 
 1/2. Budai Központi Kerületi Bíróság
 

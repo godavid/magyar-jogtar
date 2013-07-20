@@ -237,7 +237,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 (2) Az állami földmérési alaptérképi adatbázis az állami ingatlan-nyilvántartási térképi adatbázis kötelező alapja.
 
-12. § (1) Új állami földmérési alaptérképi adatbázis készítésének előkészületi munkálatairól, az elhatárolás és a felmérés várható időpontjáról a munka végrehajtója értesíti a települési, illetve a kerületi önkormányzatot, amely azt a helyben szokásos módon kihirdeti.
+12. § (1) Új állami földmérési alaptérképi adatbázis készítésének előkészületi munkálatairól, az elhatárolás és a felmérés várható időpontjáról a munka végrehajtója értesíti a települési, illetve a kerületi, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzatot, amely azt a helyben szokásos módon kihirdeti.
 
 (2) Új, helyszíni felmérésen alapuló állami földmérési alaptérképi adatbázis előállításakor minden esetben – térképfelújításnál szükség szerint – a földrészletek határvonalát elhatárolással kell megállapítani. Az elhatároláshoz távérzékelési adat is felhasználható.
 
@@ -508,7 +508,7 @@ amelyek együttesen alkotják az alapponthálózati pontok adatbázisát.
 
 (7) Új alaphálózati pont létesítésekor az ingatlanügyi hatóság határozatban rendelkezik a közérdekű használati jog keletkezése miatt felmerülő, az ingatlan tulajdonosát megillető, értékbecsléssel alátámasztott kártalanításról. A kártalanítás összegét a közérdekű használati jog (5) bekezdésben meghatározott jogosultja téríti meg az ingatlan tulajdonosának. A határozat ellen közigazgatási úton fellebbezésnek helye nincs.
 
-(8) A közigazgatási határok megjelölésére szolgáló földmérési jelek az érintett települési (fővárosban a kerületi) önkormányzatok tulajdonában, a földrészleteket elhatároló jelek pedig a földrészletek tulajdonosainak tulajdonában vannak.
+(8) A közigazgatási határok megjelölésére szolgáló földmérési jelek az érintett települési (fővárosban a kerületi, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatok tulajdonában, a földrészleteket elhatároló jelek pedig a földrészletek tulajdonosainak tulajdonában vannak.
 
 #### 22. A földmérési jelek védelme
 

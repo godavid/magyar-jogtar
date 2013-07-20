@@ -277,8 +277,8 @@ valamint intézkedni annak megsemmisítéséről.
 
 (2) Az (1) bekezdés szerinti kötelezettség
 
-- a) ha az állati eredetű melléktermék tulajdonosa ismeretlen vagy ismeretlen helyen tartózkodik, az állati eredetű melléktermék fellelési helye szerint illetékes települési (fővárosban kerületi) önkormányzatot,
-- b) közterületen a települési (fővárosban kerületi) önkormányzatot,
+- a) ha az állati eredetű melléktermék tulajdonosa ismeretlen vagy ismeretlen helyen tartózkodik, az állati eredetű melléktermék fellelési helye szerint illetékes települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatot,
+- b) közterületen a települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzatot,
 - c) közúton a közút kezelőjét
 
 terheli.

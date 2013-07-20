@@ -188,7 +188,7 @@ lép.
 
 (5) Az 1. § (1)–(8) bekezdése, valamint (10)–(17) bekezdése, a 2–6. §, a 7. § a), b) és d) pontja, a 8. § (1)–(3) bekezdése, (5)–(7) bekezdése, valamint (9)–(29) bekezdése, továbbá a 9. §, a 10. § és a 24. § az e törvény kihirdetését követő második hónap első napján lép hatályba.
 
-(6) A 27. §, a 30. § és a 36. § 2013. október 1-jén lép hatályba.
+(6) A 27. §, a 30. § és a 36. § 2014. július 1-jén lép hatályba.
 
 (7) Az 1. § (9) bekezdése, a 7. § c) pontja, a 8. § (4) és (8) bekezdése, a 14. § (4) bekezdése, (9) és (10) bekezdése, valamint a 17. § (3) bekezdése 2014. január 1-jén lép hatályba.
 

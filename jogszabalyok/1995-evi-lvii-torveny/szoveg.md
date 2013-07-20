@@ -102,6 +102,8 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - a) a vízgazdálkodási szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a vízgazdálkodási szakértői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
+5/B. § A szabad vízen, valamint a szabad vizek jegén való tartózkodás, az azokon tartott rendezvény, munkavégzés engedélyezésének, bejelentésének eljárási szabályait, valamint a viharjelzéssel kapcsolatos szabályokat kormányrendelet állapítja meg.
+
 ### III. Fejezet — A tulajdonra és a tulajdon működtetésére vonatkozó rendelkezések
 
 6. § (1)–(3)
@@ -845,7 +847,7 @@ indokolja.
 - r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
 - s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek;
 - t) a vizek kártételei elleni védekezés részletes feladatainak és módjának;
-- u)
+- u) a szabad vízen, valamint a szabad vizek jegén való tartózkodás szabályainak, az azokon tartott rendezvény, munkavégzés engedélyezése, bejelentése eljárási szabályainak, valamint a viharjelzéssel kapcsolatos szabályoknak;
 - v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 - w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
 - x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok;
