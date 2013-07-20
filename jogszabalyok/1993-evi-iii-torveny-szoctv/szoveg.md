@@ -132,7 +132,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 gyakorolja (a továbbiakban az a)–e) pontokban foglaltak együtt: szociális hatáskört gyakorló szerv).
 
-(2)
+(2) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az e törvényben a helyi önkormányzat képviselő-testülete számára meghatározott feladat- és hatásköröket a fővárosi önkormányzat közgyűlése, a települési önkormányzat polgármestere számára meghatározott feladat- és hatásköröket a főpolgármester, a jegyző számára meghatározott feladat- és hatásköröket a fővárosi főjegyző gyakorolja.
 
 (3)–(5)
 
@@ -1166,7 +1166,7 @@ részesül, amelyet az adósságkövetelés jogosultjának kell folyósítani.
 - b) adósságkezelési tanácsadást működtet, továbbá
 - c) az adósságcsökkentési támogatás és a 38. § (5) bekezdés szerinti lakásfenntartási támogatás nyújtásához saját forrást különít el.
 
-(2) A fővárosi kerületi önkormányzat, valamint az a települési önkormányzat, amelyiknek területén negyvenezernél több állandó lakos él, köteles adósságkezelési szolgáltatást nyújtani.
+(2) A fővárosi önkormányzat a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében, a fővárosi kerületi önkormányzat, valamint az a települési önkormányzat, amelynek területén negyvenezernél több állandó lakos él, köteles adósságkezelési szolgáltatást nyújtani.
 
 (3) A települési önkormányzat a külön jogszabályban meghatározott feltételek szerint az adósságkezelési tanácsadást saját intézménye vagy más szerv útján biztosíthatja.
 
@@ -1771,7 +1771,7 @@ vonatkozó előírásoknak.
 
 (3)
 
-(4) A fővárosi kerületi önkormányzat köteles biztosítani az (1)–(2) bekezdés szerinti szociális szolgáltatásokat, a 88. § (2) bekezdésében foglaltak figyelembevételével.
+(4) A fővárosi kerületi önkormányzat biztosítja az (1) és (2) bekezdés szerinti szociális szolgáltatásokat, a 88. § (2) bekezdésében foglaltak figyelembevételével. A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az (1) és (2) bekezdés szerinti szolgáltatásokat a fővárosi önkormányzat biztosítja.
 
 87. §
 

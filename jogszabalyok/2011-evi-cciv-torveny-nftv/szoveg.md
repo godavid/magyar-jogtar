@@ -1684,7 +1684,7 @@ a felsőoktatási intézménynek a 85/A. § szerint nyújtott költségvetési t
 - b) a vagyon valós piaci értékének megfelelő ellenértéke fejében,
 - c) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
 - d) a miniszter előzetes értesítése mellett,
-- e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi – önkormányzat elővásárlási jogának biztosításával
+- e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával
 
 történhet.
 

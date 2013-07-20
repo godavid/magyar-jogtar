@@ -1376,7 +1376,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 - a) a bírósági árverési csarnokban,
 - b) a bíróság épületében,
-- c) a községi, városi, fővárosi kerületi önkormányzat épületében vagy a felsorolt önkormányzatok jegyzője által kijelölt helyiségben,
+- c) a községi, városi, fővárosi kerületi, illetve a fővárosi önkormányzat épületében vagy a felsorolt önkormányzatok jegyzője, főjegyzője által kijelölt helyiségben,
 - d) az adós lakásán,
 - e) a foglalás helyén,
 - f) az ingóság őrzésének helyén,
@@ -1398,7 +1398,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 - a) a bíróság hirdetőtábláján,
 - b) a bírósági árverési csarnok hirdetőtábláján,
-- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal hirdetőtábláján.
+- c) az árverés helye szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján.
 
 (2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
 
@@ -1762,7 +1762,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 145. § (1) Az árverési hirdetményt ki kell függeszteni:
 
 - a) a bíróság hirdetőtábláján,
-- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal hirdetőtábláján,
+- b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi polgármesteri hivatal, a főpolgármesteri hivatal hirdetőtábláján,
 - c) az ingatlanügyi hatóság hirdetőtábláján.
 
 (2) Az árverési hirdetményt az árverésnek a hirdetményben feltüntetett időtartamára kell a hirdetőtáblán kifüggesztve tartani.

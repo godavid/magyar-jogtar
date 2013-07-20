@@ -194,7 +194,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) A fővárosi önkormányzat olyan önkormányzat, amely a települési és a területi önkormányzat feladat- és hatásköreit is elláthatja. A fővárosi önkormányzat képviselő-testülete a közgyűlés. A közgyűlést a főpolgármester képviseli.
 
-(4) A főváros területe kerületekre tagozódik, minden fővárosi kerületben települési önkormányzat működik.
+(4) A főváros területe kerületekre, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetre tagozódik. Minden fővárosi kerületben települési önkormányzat működik.
 
 (5) A fővárosban főpolgármesteri hivatal, a fővárosi kerületben polgármesteri hivatal működik. A főpolgármesteri hivatalt a főjegyző, a kerületi polgármesteri hivatalt a jegyző vezeti. A fővárosban és a fővárosi kerületben több aljegyző is kinevezhető.
 
@@ -204,7 +204,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 23. § (1) A fővárosi önkormányzat az e törvényben meghatározottak szerint ellátja mindazokat a terület- és településfejlesztési, valamint területrendezési, településrendezési és településüzemeltetési feladatokat, amelyek a főváros egészét érintik, vagy amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak.
 
-(2) A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, valamint a több kerületét érintő helyi önkormányzati feladatokat.
+(2) A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, több kerületét, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetet érintő helyi önkormányzati feladatokat.
 
 (3) A fővárosi kerületi önkormányzatok – törvény keretei között – önállóan gyakorolják a települési önkormányzatokat megillető valamennyi feladat- és hatáskört, amelyet törvény nem utal a fővárosi önkormányzat kizárólagos feladat- és hatáskörébe, valamint ellátják az (1) bekezdésbe nem tartozó településfejlesztési, valamint településrendezési és településüzemeltetési feladatokat.
 
