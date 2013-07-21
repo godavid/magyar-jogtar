@@ -32,7 +32,7 @@ a bírósági végrehajtásról
 
 7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, illetőleg az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
 
-(2) Ha előre látható, hogy a követelést a munkabérre, illetőleg a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtással nem lehet viszonylag rövidebb időn belül behajtani, az adós bármilyen lefoglalható vagyontárgya végrehajtás alá vonható. A lefoglalt ingatlant azonban csak akkor lehet értékesíteni, ha a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve, vagy csak aránytalanul hosszú idő múlva elégíthető ki.
+(2) Ha előre látható, hogy a követelést a munkabérre, illetőleg a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtással nem lehet viszonylag rövidebb időn belül behajtani, az adós bármilyen lefoglalható vagyontárgya végrehajtás alá vonható. A lefoglalt ingatlant azonban csak akkor lehet értékesíteni, ha a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve, vagy csak aránytalanul hosszú idő múlva elégíthető ki. Ha az adóssal szemben indított végrehajtás során behajtandó tőkekövetelés – több követelés esetén az összes tőkekövetelés – összege nem haladja meg az 500 ezer Ft-ot vagy pedig nem haladja meg az 1 millió Ft-ot és egyéb követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára, az adós lakóingatlanára – az egyéb feltételek fennállása esetén – árverés akkor tűzhető ki és a lakóingatlan becsértéke akkor állapítható meg, ha az adós az 52/B. § szerinti részletfizetést nem teljesítette.
 
 (3) E törvény alkalmazásában pénzforgalmi szolgáltatónál kezelt összeg:
 
@@ -282,13 +282,15 @@ a bírósági végrehajtásról
 - b) a 2201/2003/EK tanácsi rendelet I. és II. melléklete szerinti igazolást,
 - c) a 805/2004/EK rendelet I. és II. melléklete, valamint IV. és V. melléklete szerinti tanúsítványt,
 - d) a 861/2007/EK rendelet IV. melléklete szerinti tanúsítványt,
-- e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot.
+- e) a 4/2009/EK tanácsi rendelet I. és II. melléklete szerinti kivonatot,
+- f) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény V. melléklete szerinti igazolást.
 
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
 - a) a 44/2001/EK tanácsi rendelet VI. melléklete szerinti tanúsítványt,
 - b) a 805/2004/EK rendelet I–V. melléklete szerinti tanúsítványt,
-- c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot.
+- c) a 4/2009/EK tanácsi rendelet III. és IV. melléklete szerinti kivonatot,
+- d) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló Luganóban 2007. október 30. napján aláírt Luganói Egyezmény VI. melléklete szerinti igazolást.
 
 (3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
 
@@ -609,6 +611,8 @@ a bírósági végrehajtásról
 
 (7) Ha a bírságolás eredménytelennek bizonyult, a végrehajtó ezt jelzi a bíróságnak, amely intézkedik a megbírságolt büntetőjogi felelősségre vonásának kezdeményezése iránt. Ugyanígy jár el a bíróság, ha saját hatáskörben észleli a feljelentésre alapot adó körülményt.
 
+(8) A bíróság az (1) bekezdéstől eltérően a lefoglalt gépjármű becsértékének megfelelő összegű rendbírságot szab ki az adóssal szemben, ha az adós nem tesz eleget a 103. § (8) bekezdése alapján használt gépjárműnek az árverés megtartása érdekében történő rendelkezésre bocsátása érdekében kiadott végrehajtói felhívásnak.
+
 ### Ügygondnok
 
 46. § (1) A végrehajtó az adós részére ügygondnokot rendel, ha az adósnak van lefoglalható vagyontárgya, de az adós
@@ -749,6 +753,18 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 (7) Ha az adós ellen több végrehajtás van folyamatban, részletfizetés csak valamennyi követelésre és valamennyi végrehajtást kérő nyilatkozatát figyelembe véve állapítható meg.
 
 (8) Ha a bíróság a részletfizetés megállapításával kapcsolatban előterjesztett végrehajtási kifogásnak helyt ad, a végrehajtó intézkedését módosíthatja és megállapíthatja a részletfizetés feltételeit vagy azt, hogy a részletfizetés nem áll fenn.
+
+52/B. § (1) A végrehajtó az adós számára – az 52/A. § (5) bekezdés b) pontja szerinti feltételekkel, havi egyenlő összegű részleteket megállapítva – részletfizetést állapít meg, ha megtette az intézkedéseket az adós pénzügyi intézménynél kezelt összegeinek, munkabérének, ingóságainak végrehajtás alá vonása iránt, de azok eredményeként a tartozás teljes összegét nem sikerült behajtani és
+
+- a) az 52/A. § alapján még nem került sor korábban részletfizetés engedélyezésére,
+- b) az adóssal szemben 500 ezer Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás vagy pedig 1 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás, de más követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára az ingatlan-nyilvántartásba, és
+- c) a követelés behajtása érdekében az adós lakóingatlanának árverésére lenne szükség.
+
+(2) A részletfizetés engedélyezéséhez a végrehajtást kérő beleegyezésére nincs szükség; a részletfizetés megállapításáról szóló jegyzőkönyvet részére is kézbesíteni kell.
+
+(3) Az adós által teljesített részlet összegébe a tőle levonásra kerülő letiltott összegeket be kell számítani.
+
+(4) A lakóingatlan becsértékének megállapítására és első árverésének kitűzésére csak akkor kerülhet sor, ha az adós a részlet teljesítését elmulasztotta.
 
 53. § (1) A végrehajtó a végrehajtás szüneteléséről — az okát is feltüntető — jegyzőkönyvet készít, és a jegyzőkönyv másolatát megküldi a feleknek.
 
@@ -1033,6 +1049,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Ha a pénzforgalmi szolgáltató nem ismeri el, hogy az adóst megillető pénzösszeget kezeli, vagy a végrehajtást foganatosító hatóság rendelkezését nem teljesíti, a végrehajtást kérő pert indíthat ellene a követelés behajtása iránt. A követelés összegéért fennálló helytállási kötelezettség nem mentesíti a pénzforgalmi szolgáltatót a végrehajtásból eredő kötelezettségek nemteljesítése miatt e törvényben és más jogszabályokban meghatározott jogkövetkezmények alkalmazása alól.
 
+(3) Ha a pénzforgalmi szolgáltató az adóst megillető, de végrehajtás alá nem vonható mentes pénzösszeget a 79/A. §-ban vagy a 79/D. §-ban foglaltak ellenére kifizeti a végrehajtást foganatosító hatóság rendelkezésére, a pénzforgalmi szolgáltató a mentesnek minősülő összegért felelős az adósnak és köteles azt részére visszatéríteni. A mentes összegért fennálló helytállási kötelezettség nem mentesíti a pénzforgalmi szolgáltatót a végrehajtásból eredő kötelezettségek nemteljesítése miatt e törvényben és más jogszabályokban meghatározott jogkövetkezmények alkalmazása alól.
+
 79/F. § (1) Ha a pénzforgalmi szolgáltatónál kezelt összeg az adós szabad rendelkezése alól átutalási végzés alapján történő visszatartás alapján került ki, ez az összeg átutalási végzés alapján átutalható vagy kiutalható, és hatósági átutalási megbízás alapján is átutalható.
 
 (2) Az adós szabad rendelkezése alól zárolás iránti végrehajtói felhívás alapján kikerült összeg a zárolással biztosított követelés behajtása érdekében kiadott átutalási végzés vagy hatósági átutalási megbízás alapján utalható át vagy utalható ki.
@@ -1231,6 +1249,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
   - cb) tulajdonoshoz kötött forgalmazási korlátozásra vonatkozó adatok, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok okmányazonosító jelére, kiadására, érvényességére, cseréjére és visszavonására vonatkozó adatok,
 - e) a jármű korábbi tulajdonosának (átruházójának) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettsége teljesítésének ténye és időpontja.
+
+(8) A végrehajtást foganatosító bíróság a természetes személy adósnak a foglalásról való tudomásszerzést követő 8 napon belül a bírósághoz előterjesztett kérelmére a kérelem beérkezését követő 8 napon belül, meghallgatás tartása esetén pedig a meghallgatáson meghozott végzéssel engedélyezheti a lefoglalt gépjármű – több gépjármű esetén egyik gépjárműve – árverésig történő használatát, ha az adósnak arra a munkavégzése helyszínére történő eljutása, üzemi, üzleti tevékenységének folytatása vagy saját és családtagjainak szállítása érdekében van szüksége, és az eljárás során korábban rendbírsággal nem sújtották. A kérelemben meg kell jelölni annak indokát és azt, hogy a kérelmező a meghallgatásra rövid úton milyen módon idézhető, továbbá csatolni kell hozzá a kérelem indokainak alátámasztását igazoló okiratokat. A bíróság a gépjármű használatát engedélyező végzését megküldi a végrehajtónak, aki intézkedik a gépjármű forgalomba történő visszahelyezése iránt. A bíróság végzése ellen nincs helye fellebbezésnek. Az adós köteles a gépjárművet az árverés megtartása érdekében a végrehajtó felhívására a felhívásban megjelölt időpontban és helyszínre szállítani, ennek elmulasztása esetén vele szemben rendbírság kiszabásának van helye.
 
 103/A. § (1) Vízi vagy légi jármű lefoglalása esetén a végrehajtó lefoglalja a forgalomban való részvételre jogosító okmányokat is, ezeket a foglalási jegyzőkönyv másolatával együtt megküldi a vízi, légi járművek lajstromát, illetőleg nyilvántartását vezető hatóságnak, amely a jármű lefoglalását bejegyzi a nyilvántartásába. A 103. § (3) bekezdése megfelelően irányadó a vízi és légi járművek lefoglalásánál is.
 
@@ -2048,6 +2068,12 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 (3) A (2) bekezdésben foglalt eseteken kívül a végrehajtó a felosztási terv elkészítéséig, a bíróság pedig a felosztási terv ellen benyújtott végrehajtási kifogás elbírálásáig elrendelt végrehajtások jogosultjainak kielégítéséről dönthet a felosztási tervben.
 
 (4) A felosztási terv ellen a kézbesítésétől számított 15 napon belül végrehajtási kifogást lehet előterjeszteni a végrehajtást foganatosító bíróságnál. A bíróság a végrehajtási kifogásról végzéssel dönt; ha a végrehajtási kifogásnak helyt ad, a felosztási tervet megváltoztatja. A bíróság a felosztási terv végrehajtási kifogással nem érintett részét is megváltoztathatja, ha abban elírás vagy számítási hiba van, illetőleg a végrehajtó nem a jogszabálynak megfelelően készítette el a felosztási tervet.
+
+### Kielégítés a Nemzeti Eszközkezelő által kifizetett vételárból
+
+171/A. § (1) Ha a végrehajtás alá vont ingatlant a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelő vásárolta meg és a lakóingatlanra bejegyzett jelzálogjoggal rendelkező jogosultak követelésének kielégítését követően fennmaradó vételár hányad kifizetésére kerül sor a végrehajtó részére, azt az árverés során befolyt összeg kifizetésére vonatkozó szabályok szerint kell elszámolni és kifizetni.
+
+(2) Ha a végrehajtás alá vont ingatlanra árverést korábban még nem tűztek ki, a végrehajtó a vételár hányad felosztása során azokat a követeléseket elégíti ki, amelyek tekintetében a végrehajtási jogot az ingatlan-nyilvántartásba korábban bejegyezték.
 
 ## HARMADIK RÉSZ — KÜLÖNLEGES VÉGREHAJTÁSI ELJÁRÁSOK
 
