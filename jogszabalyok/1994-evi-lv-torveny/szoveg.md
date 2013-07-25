@@ -491,7 +491,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (4) Az (1) bekezdésben meghatározott, a földhasználó által közölt azonosító adatokat az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, a törvényszékek által vezetett nyilvántartás, valamint a törzskönyvi nyilvántartás adataiból ellenőrizheti.
 
-(5) Az ingatlanügyi hatóság a 25/B. § (5) bekezdésében meghatározott mértékű bírsággal sújtja azt a földhasználati nyilvántartásba bejegyzett földhasználót, aki az (1) bekezdés szerinti azonosító adatközlési kötelezettségének az ott megjelölt határidőn belül nem tesz eleget.
+(5) Az ingatlanügyi hatóság húszezer forint összegű bírsággal sújtja azt a földhasználati nyilvántartásba bejegyzett földhasználót, aki az (1) bekezdés szerinti azonosító adatközlési kötelezettségének az ott megjelölt határidőn belül nem tesz eleget.
 
 ### IV. Fejezet — A BIRTOKTAGOK KIALAKÍTÁSÁRA IRÁNYULÓ ELJÁRÁSOK
 
