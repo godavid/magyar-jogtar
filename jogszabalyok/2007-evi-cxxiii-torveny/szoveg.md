@@ -28,7 +28,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - n) építésügyi korlátozások felszámolása;
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
 - p) környezetvédelem;
-- q) sportinfrastruktúra fejlesztése.
+- q) sportinfrastruktúra fejlesztése;
+- r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése.
 
 3. § (1) Kisajátításnak akkor van helye, ha
 
@@ -91,15 +92,17 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - m) környezetvédelem céljából, ha
   - ma) ingatlan-nyilvántartásba feljegyzett tartós környezetkárosodás felszámolása,
   - mb) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítész által kiadott térségi területfelhasználási engedélyben szereplő hulladékkezelő létesítmény elhelyezése,
-  - mc) hulladékkezelő létesítmény rekultivációja
+  - mc) hulladékkezelő létesítmény rekultivációja,
+  - md) sűrűn beépített nagyvárosias lakóterület levegőszennyezettségének és zajterhelésének csökkentése céljából zöldterület kialakítása
 
 érdekében szükséges;
 
-- n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül.
+- n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése céljából, ha a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül;
+- o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
 
 (2) Nem kell alkalmazni
 
-- a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
+- a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, o) pontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
 - b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 
 (3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.
@@ -152,6 +155,8 @@ jelentősen akadályozza vagy megszünteti.
 (7) Bányászati célból történő kisajátításhoz a bányafelügyeletnek a bányászati cél indokoltságára vonatkozó véleményének a beszerzése szükséges.
 
 (8) Honvédelmi célra igénybe vett, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok (ingatlanrészek) kisajátításához a honvédelmért felelős miniszter hozzájárulása vagy azok honvédelmi célra feleslegessé nyilvánítása szükséges.
+
+(9) A 4. § (1) bekezdés m) pont md) alpontja szerinti célból történő kisajátításhoz a környezetvédelmi hatóság véleményének a beszerzése szükséges.
 
 ### Az ingatlan tulajdonának tehermentes megszerzése
 
@@ -495,6 +500,70 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 40. § (1) A kisajátítási tervben megjelölt ingatlanra megkötött adásvételi szerződés alapján kifizetett vételár a kisajátítási eljárás során megállapított kártalanítással megegyezően adó- és illetékmentes, ide nem értve az általános forgalmi adót.
 
 (2) A kártalanítás összegét úgy kell tekinteni, mint amely az általános forgalmi adót is tartalmazza, amennyiben a kisajátítás keretében történő tulajdonátszállást az általános forgalmi adóról szóló törvény szerint adófizetési kötelezettség terheli.
+
+### Előzetes eljárás
+
+40/A. § (1) Aki e törvény szerint kisajátítást kérő lehet (ezen alcím alkalmazásában a továbbiakban: kérelmező), kérheti a kisajátítási hatóságtól a kisajátítás jogalapjának és a kisajátítási kártalanítás összegének előzetes megállapítását. Az eljárásnak (ezen alcím alkalmazásában a továbbiakban: előzetes eljárás) akkor van helye, ha a kérelmező tulajdonát képező ingatlan (ezen alcím alkalmazásában a továbbiakban: érintett ingatlan) tulajdonjogát érintően más személy (ezen alcím alkalmazásában a továbbiakban: igénylő) a kérelmezővel szemben pert indított.
+
+(2) Az előzetes eljárás tárgya kizárólag annak vizsgálata, hogy az előzetes eljárás idején fennálló körülmények alapján az érintett ingatlan tekintetében
+
+- a) a kisajátítás jogalapja fennállna-e, és
+- b) a jogalap fennállása esetén a kisajátítási kártalanítás – a járulékos költségeket ide nem értve – mekkora összegű lenne.
+
+(3) Az előzetes eljárásban úgy kell eljárni, mintha az érintett ingatlan az igénylő tulajdonában állna.
+
+(4) A kérelmezőnek az egész ingatlan kisajátítását kell kérnie és a kisajátítási hatóság ennek alapján vizsgálja a kisajátítás jogalapjának a fennállását és a kártalanítás összegének nagyságát.
+
+(5) Az előzetes eljárásra (ideértve a bírósági felülvizsgálatot is) – az eljárás tárgyából értelemszerűen következő, valamint az ezen alcímben kiemelt eltérésekkel – e törvénynek a kisajátításra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni.
+
+40/B. § (1) Az előzetes eljárásban a 3. § (1) bekezdés b) pontjában foglalt feltétel fennállását nem kell vizsgálni.
+
+(2) Az előzetes eljárásban ügyfél kizárólag a kérelmező és az igénylő.
+
+(3) A kérelmet írásban, formanyomtatvány alkalmazása nélkül kell benyújtani.
+
+(4) A kérelemben meg kell jelölni azt is, hogy annak célja a kisajátítás jogalapjának és a kártalanítás összegének előzetes megállapítása. A kérelemhez mellékelni kell a tulajdoni per megindítását igazoló iratot is, valamint meg kell jelölni az igénylő nevét, lakcímét (székhelyét) is.
+
+(5) Az előzetes eljárás megindításától kezdve az érintett ingatlanon építési tilalom áll fenn. Az építési tilalom a kérelmezőre nem vonatkozik, feltéve, hogy az érintett ingatlanon való építkezésének egyéb akadálya nincs. Az építési tilalmat az ingatlan-nyilvántartásba fel kell jegyezni, eziránt a kisajátítási hatóság az előzetes eljárásra irányuló kérelem beérkezését követő nyolc napon belül – a kérelmező és az igénylő nevét, címét (székhelyét) is megjelölő végzésével – megkeresi az ingatlanügyi hatóságot. Az építési tilalom annak 40/D. § szerinti törléséig áll fenn.
+
+(6) Az eljárás tárgyából értelemszerűen következő rendelkezések alkalmazásának mellőzésén felül az előzetes eljárás során az alábbi rendelkezéseket sem kell alkalmazni:
+
+- a) 6. § (6) bekezdése,
+- b) 24. § (5) bekezdés b), c) és f) pontja,
+- c) 24/A. §,
+- d) 25. § (1) bekezdése,
+- e) 33. §.
+
+40/C. § (1) A kisajátítási hatóság a kisajátítás jogalapjának fennállása tárgyában és a kártalanítási összeg mértéke tekintetében határozattal dönt (ezen alcím alkalmazásában a továbbiakban: előzetes állásfoglalás).
+
+(2) Az előzetes állásfoglalás kisajátítás jogalapjára vonatkozó része ellen az igénylő vagy a kérelmező e törvény általános szabályai szerint jogorvoslattal élhet. Az előzetes állásfoglalás kártalanítási összegre vonatkozó része a 40/E. § szerinti kisajátítási eljárásban (ezen alcím alkalmazásában a továbbiakban: tényleges kisajátítási eljárás) hozott döntéssel szembeni jogorvoslattal támadható meg, ha az előzetes állásfoglalás kártalanítási összegre vonatkozó részét a kisajátítási hatóság a tényleges kisajátítási eljárásban hozott döntéséhez felhasználja.
+
+(3) Az előzetes állásfoglalás az igénylőnek az érintett ingatlanon való tulajdonszerzését követő hat hónapig, vagy – ha ez a korábbi időpont – a jogerőre emelkedésétől számított két évig hatályos.
+
+40/D. § (1) Az előzetes eljárásban feljegyzett építési tilalmat
+
+- a) az ingatlanügyi hatóság hivatalból törli, ha a tulajdoni per eredménye alapján történő tulajdonosváltozás ingatlan-nyilvántartási bejegyzését követő 60 napon belül az érintett ingatlanra nem kérik – a kérelmező által vagy nevében indított – kisajátítási eljárás megindítása tényének feljegyzését,
+- b) a kérelmező kérelmére törölni kell.
+
+(2) Ha a tulajdoni per nem az igénylő pernyertességével zárul, a per befejezését követő 30 napon belül a kérelmező köteles az építési tilalom törlését kérelmezni.
+
+(3) Ha az (1) bekezdés a) pontja alapján nem kerül sor az építési tilalom törlésére, az építési tilalom a tényleges kisajátítási eljárás időtartama alatt is fennmarad és törléséről a tényleges kisajátítási eljárás tárgyában hozott döntésben kell rendelkezni.
+
+40/E. § (1) Ha – pernyertessége folytán – az igénylő tulajdonába került érintett ingatlan kisajátítása iránt a kérelmező az előzetes állásfoglalás hatályossági idején belül, az előzetes eljárásban megjelölt kisajátítási és beruházási, illetve tevékenységi céllal azonos céllal kisajátítási eljárást indít, a tényleges kisajátítási eljárásban e törvénynek a kisajátításra vonatkozó általános rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A tényleges kisajátítási eljárásban benyújtott kisajátítási kérelemnek tartalmaznia kell az arra való utalást, hogy korábban a kisajátítási hatóság előzetes állásfoglalást adott ki, és a kérelemhez csatolni kell az előzetes állásfoglalást is. A kisajátítási hatóság az eljárás megindításáról szóló értesítéshez csatolja az előzetes állásfoglalást.
+
+(3) A tényleges kisajátítási eljárásban a kisajátítási hatóság a kisajátítás jogalapja tekintetében döntését az előzetes állásfoglalásban foglaltakra alapítja, kivéve, ha az attól való eltérést a 3. § (1) bekezdés b) pontjában foglalt feltétel tekintetében lefolytatott bizonyítás vagy a (4) bekezdésben foglaltak indokolják.
+
+(4) A tényleges kisajátítási eljárásban a kisajátítási hatóság hivatalból vizsgálja – ideértve különösen az előzetes állásfoglalást megalapozó körülmények jogalapra kiható esetleges módosulásának a vizsgálatát is –, hogy a tényleges kisajátítási eljáráskor fennálló körülményeket figyelembe véve a kisajátítás jogalapja – ide nem értve a 3. § (1) bekezdés b) pontjában foglalt feltételt – az előzetes állásfoglalásban foglaltakkal egyezően megállapítható-e. Ezen vizsgálat körében a 24/A. § (1) bekezdésének a hiánypótlások számára vonatkozó rendelkezése nem alkalmazható.
+
+(5) Ha a vizsgálat alapján a jogalap fennállása megállapítható, és a 3. § (1) bekezdés b) pontjában foglalt feltétel is fennáll, a kisajátítási hatóság a jogalap tekintetében további bizonyítást nem folytat le, döntését a kisajátítás jogalapja tekintetében az előzetes állásfoglalásban foglaltakra alapítottan hozza meg. Ebben az esetben az igénylő mint tulajdonos a kisajátítás jogalapjának megállapítását csak azon a címen támadhatja meg, hogy a vizsgálat során jogszabálysértés történt, ideértve különösen azt, ha a kisajátítási hatóság tévesen állapította meg, hogy a kisajátítás jogalapja az előzetes állásfoglalással megegyezően fennáll a tényleges kisajátítási eljáráskor is.
+
+(6) Ha a vizsgálat alapján a jogalap fennállása nem állapítható meg, a kisajátítási hatóság a kisajátítás jogalapja tekintetében is az általános szabályok szerint jár el.
+
+(7) A tényleges kisajátítási eljárásban a kisajátítási hatóság az előzetes eljárásban felvett egyéb bizonyítékot is felhasználhatja.
+
+(8) Az építési tilalom fennállásának ideje alatt a kérelmező által elvégzett ráfordítások és értéknövelő beruházások értékét a tényleges kisajátítási eljárásban a kisajátítási kártalanítás megállapítása során nem lehet figyelembe venni.
 
 ### Záró rendelkezések
 
