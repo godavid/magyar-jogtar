@@ -52,8 +52,8 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - m) jóváhagyja az Országgyűlés Hivatala, valamint az Országgyűlési Őrség költségvetésének tervezetét, és ellenőrzi az elfogadott költségvetés végrehajtását,
 - n) megteszi, illetve kezdeményezi az Országgyűlés biztonsága érdekében szükséges intézkedéseket,
 - o) gyakorolja a jogutód nélkül megszűnt országgyűlési bizottság elnökének titokvédelemmel összefüggő jogait,
-- p) rendészeti, illetve – e törvényben meghatározott esetekben – fegyelmi jogkört gyakorol a tárgyalási rend, az Országgyűlés zavartalan működésének biztosítása és az Országgyűlés méltóságának megőrzése érdekében,
-- q) irányítja az Országgyűlési Őrséget, kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
+- p) e törvényben meghatározott esetekben gyakorolja rendészeti, illetve fegyelmi jogkörét,
+- q) az Országgyűlési Őrség irányításával összefüggésben kiadja az Országgyűlési Őrség Szervezeti és Működési Szabályzatát,
 - r) az Országgyűlés Hivatala, valamint az Országgyűlési Őrség vezetőinek utasítást adhat feladat elvégzésére vagy mulasztás pótlására, az Országgyűlés Hivatalát, illetve az Országgyűlési Őrséget jelentéstételre vagy beszámolóra kötelezheti, fenntarthatja magának a jogot e szervek döntéseinek előzetes vagy utólagos jóváhagyására,
 - s) ellátja mindazon feladatokat, amelyeket számára az Alaptörvény, a házszabályi rendelkezések, más törvény, illetve országgyűlési határozat előír.
 
@@ -513,7 +513,7 @@ terheli.
 
 #### 19. A házelnök rendészeti jogköre
 
-53. § (1) A házelnök – az Országgyűlés zavartalan működésének, illetve az Országgyűlés méltóságának biztosítása érdekében – rendészeti jogkört gyakorol. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol.
+53. § (1) A házelnök az e törvényben és az Alaptörvényben meghatározottak szerint gyakorolja rendészeti jogkörét. A tárgyalási és szavazási rend fenntartása érdekében az ülést vezető alelnök is rendészeti jogkört gyakorol az e törvényben és az Alaptörvényben meghatározottak szerint.
 
 (2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezetteti az ülésteremből az 50. § (2) bekezdése szerint kizárt képviselőt, ha a képviselő az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
 
@@ -798,7 +798,7 @@ terheli.
 
 - a) olyan állami részesedéssel működő gazdálkodó szervezet vezető tisztségviselője, felügyelőbizottsági tagja, vezető állású munkavállalója, amelyben az államot 10%-nál nagyobb szavazati jog vagy részesedés illeti meg,
 - b) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa külföldi állam, külföldi helyhatóság vagy nemzetközi szervezet,
-- c) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa belföldi vagy külföldi egyház,
+- c) olyan gazdálkodó szervezet 5%-ot meghaladó szavazati joggal vagy részesedéssel rendelkező tagja vagy részvényese, vezető állású munkavállalója, amely gazdálkodó szervezet közvetlen vagy közvetett kizárólagos vagy többségi tulajdonosa belföldi vagy külföldi vallási közösség,
 - d) olyan gazdálkodó szervezet vezető tisztségviselője, felügyelőbizottsági tagja, vezető állású munkavállalója, amelyben helyi önkormányzatnak, nemzetiségi önkormányzatnak, helyi önkormányzatok társulásának, fejlesztési tanácsnak, közalapítványnak, az államháztartás valamely alrendszerébe sorolt köztestületnek kizárólagos vagy közvetlen vagy közvetett többségi részesedése van,
 - e) olyan gazdálkodó szervezet vezető tisztségviselője vagy felügyelő bizottsági tagja, vezető állású munkavállalója, amelynek legalább 10%-os társasági részesedése a megválasztásától (kinevezésétől) számított két éven belül került ki a magyar állam vagy külföldi állam, helyi önkormányzat, helyi önkormányzati társulás, fejlesztési tanács vagy külföldi helyhatóság tulajdonából,
 - f) a képviselői megbízatás fennállása alatt, illetve annak megszűnésétől számított két évig a közbeszerzésekről szóló törvény hatálya alá tartozó szervezettel a törvény hatálya alá tartozó beszerzések teljesítésére irányuló szerződéses viszonyban álló gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja, vezető állású munkavállalója,
@@ -807,7 +807,7 @@ terheli.
 - i) olyan gazdálkodó szervezetben tulajdoni részesedéssel rendelkező tag vagy részvényes, amely a nemzeti vagyonról szóló törvény szerint nem minősül átlátható szervezetnek,
 - j) az államháztartás alrendszeréből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján az államháztartáson kívüli természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező egyéb szervezetek – ide nem értve a társasházat – számára nyújtott támogatások odaítélése céljából létrehozott szerv vezetője, tagja, illetve a szerv döntésének előkészítésében vagy meghozatalában közreműködő személy.
 
-85. § A képviselő a megbízatása alatt, illetve annak megszűnésétől számított két évig nem köthet vételi megállapodást olyan gazdálkodó szervezet részesedésének megszerzésére, amelyben a magyar vagy külföldi állam, helyi önkormányzat, helyi önkormányzati társulás vagy külföldi helyhatóság, párt, magyarországi vagy külföldi egyház, vallásfelekezet, alapcélként vallási tevékenységet végző egyesület közvetlen vagy közvetett kizárólagos vagy többségi befolyással rendelkezik.
+85. § A képviselő a megbízatása alatt, illetve annak megszűnésétől számított két évig nem köthet vételi megállapodást olyan gazdálkodó szervezet részesedésének megszerzésére, amelyben a magyar vagy külföldi állam, helyi önkormányzat, helyi önkormányzati társulás vagy külföldi helyhatóság, párt, belföldi vagy külföldi vallási közösség közvetlen vagy közvetett kizárólagos vagy többségi befolyással rendelkezik.
 
 #### 32. Egyéb összeférhetetlenségi szabályok
 
@@ -1037,7 +1037,7 @@ terheli.
 
 #### 42. Az Országgyűlési Őrség szervezete és irányítása
 
-127. § (1) Az Országgyűlési Őrség a házelnök irányítása alatt álló fegyveres szerv. Az Országgyűlési Őrség önállóan működő központi költségvetési szerv, amelynek gazdálkodásával kapcsolatos feladatait az Országgyűlés Hivatala látja el. Az Országgyűlési Őrség az Országgyűlés költségvetési fejezetében önálló címet képez.
+127. § (1) Az Országgyűlési Őrség fegyveres szerv. Az Országgyűlési Őrség önállóan működő központi költségvetési szerv, amelynek gazdálkodásával kapcsolatos feladatait az Országgyűlés Hivatala látja el. Az Országgyűlési Őrség az Országgyűlés költségvetési fejezetében önálló címet képez.
 
 (2) Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlési Őrség költségvetésére vonatkozó javaslatot a házelnök a költségvetéssel foglalkozó állandó bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
@@ -1170,7 +1170,7 @@ terheli.
 
 (2) Az (1) bekezdés alapján a panaszt a jogsérelemtől, intézkedés elmulasztása esetén az arról való tudomásszerzéstől számított harminc napon belül lehet előterjeszteni, és a beérkezéstől, illetve az áttételtől számított harminc napon belül kell elbírálni.
 
-(3) Az (1) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó társadalmi szervezet vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+(3) Az (1) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó civil szervezet vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
 (4) Az Országgyűlési Őrség parancsnoka a panaszban foglaltakat közigazgatási hatósági eljárásban bírálja el. Az Országgyűlési Őrség parancsnokának a panaszról hozott határozata ellen fellebbezésnek nincsen helye, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
 

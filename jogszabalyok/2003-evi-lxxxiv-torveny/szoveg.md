@@ -72,7 +72,7 @@ terjed ki.
 
 (6) A több, illetve a több fajta jogviszony keretében egészségügyi tevékenységet végző egészségügyi dolgozó az egyes jogviszonyai szerinti egészségügyi szolgáltatónál nyilatkozatban tanúsítja, hogy az egészségügyi tevékenysége az (5) bekezdés szerinti korlátot nem haladja meg.
 
-(7) Az egyházi jogi személyek egészségügyi dolgozói feladatukat egyházi személyként is elláthatják.
+(7) Egyházi személyként és vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként egészségügyi dolgozói feladatot egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltatónál lehet végezni.
 
 6. § (1) Az egészségügyi dolgozó köteles önképzéssel és a szervezett továbbképzések által biztosított lehetőség igénybevételével magát rendszeresen továbbképezni annak érdekében, hogy tevékenységét az egészségtudományok mindenkori állásának megfelelően – a rendelkezésre álló személyi és tárgyi feltételek keretei között – végezhesse. Az egészségügyi dolgozónak a kötelező jellegű továbbképzések miatt felmerült és igazolt költségeit (tanfolyami díj, utazási költség, szállásköltség stb.) a munkáltató megtérítheti.
 
@@ -91,7 +91,7 @@ terjed ki.
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
-- h) egyházi személyként,
+- h) egyházi személyként vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
 - j) egyéni cég tagjaként.
 
@@ -151,7 +151,7 @@ terjed ki.
 
 (2) Az e fejezetben, valamint a 29–31. §-ban meghatározott egészségügyi ágazati előmeneteli szabályokat
 
-- a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – állami, önkormányzati vagy az egészségügyi közszolgáltatások nyújtása tekintetében ezekkel egy tekintet alá eső egyházi, valamint felsőoktatási intézményi – ideértve az egészségtudományi centrumokat, az egyetemi klinikai központokat, klinikákat – tulajdonban, illetve fenntartásban álló, fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
+- a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
 - b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra
 
 kell alkalmazni.
@@ -332,7 +332,7 @@ minősül.
 
 (3) Az (1) és (2) bekezdésben foglaltaktól eltérően, az Mt. 97. § (2) bekezdésében foglalt általános munkarend szerinti heti pihenőnapra eső rendes munkaidőben elrendelt egészségügyi ügyelet után az alkalmazott egészségügyi dolgozót az egészségügyi ügyelet idejére járó munkabérén, illetményén felül 50%-os mértékű ügyeleti pótlék illeti meg.
 
-(4) Az egészségügyi ügyelet díjazására az Mt. 143. § (1) bekezdés b) és c) pontja nem alkalmazható.
+(4) Az egészségügyi ügyelet díjazására az Mt. 143. § (2) bekezdés b) és c) pontja nem alkalmazható.
 
 (5) A 12/F. § (2) bekezdése szerint beosztott egészségügyi ügyelet esetében a 12 órát meghaladó napi munkaidőre
 
@@ -361,7 +361,7 @@ minősül.
 
 14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
-(2) Az Mt. 122. § (3) bekezdésében foglaltaktól eltérően a szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – ebben az esetben is megilleti a munkavállalót naptári évenként legalább egyszer legalább tizennégy összefüggő naptári nap távollétet biztosító szabadság.
+(2) Az Mt. 122. § (3) bekezdésében foglaltaktól eltérően a szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – a szabadságot ebben az esetben is úgy kell kiadni, hogy a munkavállaló naptári évenként egy alkalommal, legalább tizennégy egybefüggő napra mentesüljön a munkavégzési és rendelkezésre állási kötelezettség alól. E tekintetben – a szabadságként kiadott napon túl – a heti pihenőnap (heti pihenőidő), a munkaszüneti nap és az egyenlőtlen munkaidő-beosztás szerinti szabadnap vehető figyelembe.
 
 (3) A (2) bekezdésben foglaltaktól eltérően a munkáltató a közalkalmazott kérése nélkül kettőnél több, legfeljebb négy részletben is kiadhatja a szabadságot a Kjt. 57. § (3) bekezdés szerinti pótszabadságra jogosító munkakört betöltő közalkalmazott esetében.
 
@@ -705,7 +705,7 @@ kell érteni.
 - a) 2012. augusztus 1-jén a törvény erejénél fogva megszűnnek,
 - b) az a) pontban foglaltaktól eltérően az (1) bekezdés szerinti esetben az (1) bekezdésben meghatározott időtartamig hatályban maradnak, azzal, hogy e megállapodások felmondására a 2012. június 30-án hatályos 14/A. § (2) bekezdését kell alkalmazni.
 
-(3)
+(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel (a továbbiakban: Módtv2.) módosított 29. § (18) bekezdését 2012. január 1-jétől kell alkalmazni.
 
 (4) A Módtv2.-vel módosított 14/D. § szerinti, a Módtv2. hatálybalépésekor fennálló jogviszonyt a Módtv2. hatálybalépését követő 30 napon belül be kell jelenteni a fenntartónak. A fenntartó a jogviszony jóváhagyása tárgyában a bejelentéstől számított 60 napon belül dönt.
 

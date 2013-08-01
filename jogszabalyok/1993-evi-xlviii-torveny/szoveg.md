@@ -232,7 +232,7 @@ felszíni előkutatás
 
 (3) A bányajáradék mértéke a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek:
 
-- a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében – a b), d) és e) pontban foglalt kivétellel – 12%-a;
+- a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében – a b), d) és e) pontban foglalt kivétellel – 16%-a
 - b) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkön kitermelt földgáz esetében
   - ba) J %-a, ahol
 
@@ -266,7 +266,7 @@ h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
 
 (3a) A bányajáradék mértéke az 1. § (7) bekezdése szerinti engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra felhasznált, hasznosított ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
 
-(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.A (3) bekezdés ba) pont szerinti bányajáradék mértéke akkor emelkedik az előbbiek szerint, ha P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, vagy jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
+(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
 (5)
 

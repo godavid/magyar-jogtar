@@ -931,7 +931,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (4) Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megszűnését követő 15 napon belül tesz adóbevallást. A késedelem igazolására vonatkozó kérelmet (a továbbiakban: igazolási kérelem) a bevallással egyidejűleg kell benyújtani. Ha a vállalkozási tevékenységet nem folytató és általános forgalmi adó fizetésére nem kötelezett magánszemélynek a személyi jövedelemadó-bevallás elkészítéséhez szükséges iratok, igazolások önhibáján kívül nem állnak rendelkezésére és ezért bevallását előreláthatóan nem tudja határidőben benyújtani, a bevallási késedelemről a bevallás benyújtására előírt határidőn belül bejelentést tesz. A magánszemély adózó a bejelentéshez kapcsolódó adóbevallást a bevallási késedelmet kimentő igazolási kérelemmel együtt nyújtja be. Az igazolási kérelem nem utasítható el, ha a magánszemély külföldről származó jövedelemmel is rendelkezik és a határidő mulasztását azzal menti ki, hogy az adókötelezettségének megállapításához nemzetközi egyezmény, viszonosság, vagy külföldi adójog vizsgálata szükséges.
 
-(5) A társasági adóbevallás helyett az adóévet követő év február 25-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi együttműködési csoportosulás, foglalkoztatói nyugdíjszolgáltató intézmény, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el.
+(5) A társasági adóbevallás helyett az adóévet követő év február 25-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi együttműködési csoportosulás, foglalkoztatói nyugdíjszolgáltató intézmény, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el.
 
 (6) A bevallás benyújtásával egyenértékű, ha az adózó az adóhatóság által rendszeresített elektronikus űrlapon – a bevallás benyújtására előírt határidőig – nyilatkozik, hogy a bevallás benyújtására az adott időszakban azért nem került sor, mert adókötelezettsége nem keletkezett. E rendelkezés nem alkalmazható a soron kívüli bevallási kötelezettség esetén, továbbá felszámolás, végelszámolás esetén a tevékenységet lezáró adóbevallásra, valamint a felszámolás, végelszámolás befejezésekor benyújtandó adóbevallásra.
 
@@ -1369,7 +1369,7 @@ veheti igénybe.
 - n) az adókedvezmény (adómentesség) igénybevételére jogosító igazolást kiállító szerv,
 - o) költségvetési támogatás igénybevételére jogosító igazolás kiállítója,
 - p) a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § b) pontja szerinti egyéni vállalkozó,
-- r) a Magyarországon bejegyzett egyház,
+- r) a egyházi jogi személy,
 - s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató adózó,
 - t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett,
 - u) a járási hivatal,

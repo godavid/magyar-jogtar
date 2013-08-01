@@ -24,7 +24,7 @@ Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpá
 
 (3)
 
-(4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
+(4) E törvény hatálya nem terjed ki a egyházi jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
 (5) E törvény hatálya – a 21. § (2) bekezdésében, valamint a (7) és (8) bekezdésben és a 26. §-ban foglaltak kivételével – nem terjed ki:
 
@@ -235,7 +235,7 @@ köteles eleget tenni.
 
 (3) A FAT független szakmai testület.
 
-(4) A FAT legfeljebb 15 tagból áll. Tagjait a miniszter nevezi ki – az elnök kivételével – hároméves időtartamra. A FAT a miniszter, valamint az egyházak, a gazdasági kamarák, a munkaadók, a munkavállalók, a helyi önkormányzatok, a felnőttképzési szakmai szervezetek képviselőiből, továbbá a felnőttképzés elismert szakértői közül kinevezett személyekből áll. Nem lehet a FAT tagja, aki e törvény 3. § (1) bekezdés b) pontjában foglalt felnőttképzést folytató szervezetnek, illetve e szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
+(4) A FAT legfeljebb 15 tagból áll. Tagjait a miniszter nevezi ki – az elnök kivételével – hároméves időtartamra. A FAT a miniszter, valamint a vallási közösségek, a gazdasági kamarák, a munkaadók, a munkavállalók, a helyi önkormányzatok, a felnőttképzési szakmai szervezetek képviselőiből, továbbá a felnőttképzés elismert szakértői közül kinevezett személyekből áll. Nem lehet a FAT tagja, aki e törvény 3. § (1) bekezdés b) pontjában foglalt felnőttképzést folytató szervezetnek, illetve e szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
 
 (5) A FAT tagjainak névsorát a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.
 

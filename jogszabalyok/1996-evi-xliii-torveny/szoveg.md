@@ -578,9 +578,14 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 - b) akinek életvitele nem kifogásolható és hozzájárul annak a szolgálati viszony létesítése előtti, valamint a szolgálati viszony fennállása alatti ellenőrzéséhez,
 - c) aki elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozását,
 - d) aki tudomásul veszi, hogy szolgálati viszonya fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – törvényben meghatározott szerveknél és módon – ellenőrizhetik (a továbbiakban: megbízhatósági vizsgálat),
-- e) aki hozzájárul a jogszabályokban meghatározott szintű nemzetbiztonsági ellenőrzéséhez, ha az a beosztása ellátásához szükséges.
+- e)
 
-(2)–(3)
+(2) Az (1) bekezdésben írt feltételeknek megfelelő olyan személlyel, aki tervezett beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül, hivatásos szolgálati viszony akkor létesíthető, ha a nemzetbiztonsági ellenőrzést végző szerv a hivatásos szolgálati viszony létesítéséhez
+
+- a) hozzájárult vagy
+- b) a hozzájárulást megtagadta, de a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony létesítését jóváhagyta.
+
+(3) A (2) bekezdésben meghatározott esetben a nemzetbiztonsági ellenőrzéssel egyidejűleg a kifogástalan életvitel ellenőrzésére nem kerül sor.
 
 (4) A szolgálati viszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket a jelentkezőnek igazolnia kell.
 
@@ -614,6 +619,8 @@ személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban 
 ### Kifogástalan életvitel ellenőrzése
 
 37/B. § (1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény ösztöndíjas hallgatójának, valamint tanulójának életvitelét a hallgatói, tanulói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja és az ösztöndíjas hallgató, valamint a tanuló életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.
+
+(1a) A jelentkező, valamint a hivatásos állomány tagja életvitelének ellenőrzésére nem kerül sor, ha a jelentkező a tervezett beosztása, illetve a hivatásos állomány tagja a beosztása alapján külön törvény szerint nemzetbiztonsági ellenőrzés alá eső személynek minősül.
 
 (2) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető, vagy az 56. § (6) és (6a) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a hivatásos állományba jelentkező
 
@@ -1021,14 +1028,15 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
-- a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására alkalmatlanná vált,
+- a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján beosztásának ellátására alkalmatlanná vált,
 - b) a hivatásos szolgálatra alkalmatlanná vált, mert
   - ba) nem felel meg a kifogástalan életvitel követelményének,
   - bb)
 - c) a vezetői kinevezés visszavonását követően a 75/B. § (4) bekezdése szerinti beosztás nem biztosítható;
 - d) megsérti a 18. § (2) bekezdés rendelkezéseit;
 - e) a hivatásos szolgálatra méltatlanná vált, mert olyan cselekményt követett el, amely a fegyveres szerv működésébe vetett közbizalmat súlyosan veszélyezteti és emiatt nem várható el, hogy a fegyveres szerv a szolgálati viszonyát fenntartsa,
-- f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható.
+- f) a 44. § (3a) vagy (4) bekezdésében meghatározott esetben részére a rendelkezési állomány megszűnésekor megfelelő beosztás nem biztosítható,
+- g) a nemzetbiztonsági ellenőrzést végző szerv a szolgálati viszony létrehozására vonatkozó hozzájárulását visszavonta és a külön törvény szerint arra feljogosított személy, szerv vagy testület a hivatásos szolgálati viszony fenntartását nem hagyta jóvá.
 
 (3)
 
@@ -1995,7 +2003,7 @@ költséget.
 - b) az állami kezességvállalással biztosított hitel nagyságát;
 - c) a hitel lejártának időpontját. A fenti adatokban bekövetkezett változásokról a hivatásos állomány tagja haladéktalanul köteles tájékoztatni az állományilletékes parancsnokát.
 
-(6) Amennyiben a hivatásos állomány tagjának szolgálati viszonya az 53. § a)–b) és f)–g), valamint az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi vagy pszichikai állapota miatti megszűnés kivételével –, b) vagy e) pontja alapján, továbbá az 59. § (1) bekezdés b), d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
+(6) Amennyiben a hivatásos állomány tagjának szolgálati viszonya az 53. § a)–b) és f)–g), valamint az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi vagy pszichikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja alapján, továbbá az 59. § (1) bekezdés b), d) pontja alapján szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
 (7) Az állományilletékes parancsnok a hivatásos állomány tagja szolgálati viszonyának (6) bekezdés szerinti megszűnése esetén erről 8 napon belül értesíti a hivatásos állomány tagja által az (5) bekezdés alapján bejelentett hitelintézetet.
 
@@ -2864,7 +2872,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) A miniszter, illetve a munkáltatói jogkört gyakorló elöljáró a hivatásos, valamint a nyugállomány tagját – a szolgálat teljesítése során szerzett érdemeire figyelemmel – a fegyveres szerv, fegyvernem, helyőrség, szervezeti egység halottjává nyilváníthatja.
 
-209. § (1) A kegyelet hivatalos kifejezéseként az elhunytat – a (2) bekezdésben foglalt kivétellel – végtisztesség megadásaként katonai tiszteletadással, az intézkedésre jogosult hozzátartozó kérésének megfelelően egyházi vagy polgári szertartással kell eltemetni.
+209. § (1) A kegyelet hivatalos kifejezéseként az elhunytat – a (2) bekezdésben foglalt kivétellel – végtisztesség megadásaként katonai tiszteletadással, az intézkedésre jogosult hozzátartozó kérésének megfelelően polgári szertartással vagy vallási közösség által végzett vallásos szertartással kell eltemetni.
 
 (2) Nem illeti meg az (1) bekezdés szerinti katonai tiszteletadással történő eltemetés azt, aki a halálát szándékosan maga okozta, illetve akinek a halála önhibájából eredő ittas vagy bódult állapotának következménye.
 

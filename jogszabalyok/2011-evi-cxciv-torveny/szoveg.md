@@ -2,7 +2,7 @@
 
 Magyarország gazdasági stabilitásáról
 
-Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (5) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
+Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (7) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -411,7 +411,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 34. § Nem kell alkalmazni a 32. §-t és a 33. §-t, ha
 
 - a) a fizetési kötelezettség az Európai Unió kötelező jogi aktusának való megfelelés miatt kerül megállapításra.
-- b) a fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó, valamint az új fizetési kötelezettséget megállapító törvény megalkotására a Magyarország Alaptörvényének Átmeneti Rendelkezései 29. cikk (1) bekezdésében meghatározott okból kerül sor.
+- b) a fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó, valamint az új fizetési kötelezettséget megállapító törvény megalkotására az Alaptörvény 37. cikk (6) bekezdésében meghatározott okból kerül sor.
 
 35. § A fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmény, mentesség körét és mértékét, valamint az új fizetési kötelezettséget megállapító törvényt kizárólag ezzel azonos vagy hasonló életviszonyokat szabályozó törvényben lehet módosítani vagy hatályon kívül helyezni.
 

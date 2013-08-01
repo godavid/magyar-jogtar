@@ -192,7 +192,7 @@ minősítési szintű.
 
 (2) A minősített adathoz – az e törvényben meghatározott kivételekkel – kizárólag személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező jogosult felhasználó a felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
 
-(3) A személyi biztonsági tanúsítvány kiadásához az érintett az adat minősítési szintjének megfelelő szintű, a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés alapján készített szakvélemény kockázati tényezőt tartalmaz. A személyi biztonsági tanúsítvány a szakvélemény kiállításától számított 5 évig érvényes.
+(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a kiállításától számított 5 évig érvényes.
 
 (4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
 
@@ -387,7 +387,7 @@ vonatkozó feltételek.
   - ab) állampolgársága,
   - ac) úti okmányának okmányazonosítója,
   - ad) minősített adat felhasználásához kötődő munkahelye, beosztása és feladatköre,
-  - ae) a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott biztonsági kérdőívben és szakvéleményben foglalt adatai,
+  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdő ívben és a nemzetbiztonsági ellenőrzést végző szerv hozzájárulásában foglalt adatai,
 - b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi ideje és szintje.
 
 (2) Az (1) bekezdésben meghatározott adatokat a Nemzeti Biztonsági Felügyelet az érintett személy részére kiadott utolsó személyi biztonsági tanúsítvány érvényességi idejének lejártát vagy visszavonását követően a minősített adattal visszaélés bűncselekményére a büntető törvénykönyvben meghatározott büntetési tétel felső határának megfelelő ideig kezeli.

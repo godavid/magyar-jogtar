@@ -220,7 +220,7 @@ merült fel.
 
 (3) Az eljáró bíróságot a Kúria jelöli ki akkor is, ha az illetékességet meghatározó körülmények nem állapíthatók meg.
 
-20/A. § Az Országos Bírósági Hivatal elnöke az illetékes bíróság helyett más, azonos hatáskörű bíróságot jelöl ki az ügy elbírálására, ha a bíróság rendkívüli munkaterhe miatt az ügyek ésszerű időn belül való elbírálása más módon nem biztosítható, és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
+20/A. §
 
 ### A bíró kizárása
 
@@ -460,7 +460,7 @@ bírálja el.
 
 (5) A Magyarország területén élő terhelt köteles a lakóhelyének, illetve a tartózkodási helyének címét, és annak megváltozását az elköltözés után három munkanapon belül annál a bíróságnál, ügyésznél, illetőleg nyomozó hatóságnál bejelenteni, amelyik vele szemben büntetőeljárást folytat. Ennek elmulasztása esetén – ha ehhez e törvény más jogkövetkezményt nem fűz – a terhelt rendbírsággal sújtható, és az okozott költség megfizetésére kötelezhető. Erre a terheltet a nyomozás során az első kihallgatásakor, a bírósági eljárásban a vádirat kézbesítésekor figyelmeztetni kell.
 
-(6) Ha e törvény a terhelt hozzátartozójának (örökösének) indítványtételi jogot biztosít, a hozzátartozó (örökös) jogaira a terhelt jogai megfelelően irányadóak. Ha a terhelt olyan egyházi személy volt, aki azon egyház szabályai szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó (örökös) hiányában – az egyenesági rokon jogai illetik meg a volt egyháza szerinti egyházi elöljáróját.
+(6) Ha e törvény a terhelt hozzátartozójának vagy örökösének indítványtételi jogot biztosít, a hozzátartozó vagy örökös jogaira a terhelt jogai irányadóak. Ha a terhelt egyházi személy vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja volt, aki az olyan egyházi jogi személy vagy vallási tevékenységet végző szervezet belső szabálya szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó vagy örökös hiányában – az egyenesági rokon jogai az egyházi jogi személy vagy vallási tevékenységet végző szervezet elöljáróját illetik meg.
 
 ### A védő
 
@@ -553,7 +553,7 @@ bírálja el.
 - c) a büntetőeljárási jogairól és kötelességeiről a bíróságtól, az ügyésztől és a nyomozó hatóságtól felvilágosítást kapjon,
 - d) e törvényben meghatározott esetekben jogorvoslattal éljen.
 
-(3) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azt követően meghalt, helyébe egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet, és gyakorolhatja a (2) bekezdésben meghatározott jogokat. Ha a sértett olyan egyházi személy volt, aki azon egyház szabályai szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó (örökös) hiányában – az egyenesági rokon jogai illetik meg a volt egyháza szerinti egyházi elöljáróját.
+(3) Ha a sértett akár a büntetőeljárás megindítása előtt, akár azt követően meghalt, helyébe egyenesági rokona, házastársa, élettársa vagy törvényes képviselője léphet, és gyakorolhatja a (2) bekezdésben meghatározott jogokat. Ha a sértett egyházi személy vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja volt, aki az olyan egyházi jogi személy vagy vallási tevékenységet végző szervezet belső szabálya szerint, amelyhez életében tartozott, egyházi rend vagy fogadalom okából házasságot nem köthetett, halála után – hozzátartozó vagy örökös hiányában – az egyenesági rokon jogai az egyházi jogi személy vagy vallási tevékenységet végző szervezet elöljáróját illetik meg.
 
 ### A magánvádló
 
@@ -1070,7 +1070,7 @@ bírálja el.
 
 81. § (1) Nem hallgatható ki tanúként
 
-- a) a lelkész, illetőleg az egyházi személy arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
+- a) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
 - b) a védő arról, amiről mint védő szerzett tudomást, vagy amit a terhelttel védői minőségében közölt,
 - c) akitől a testi vagy szellemi állapota miatt nyilvánvalóan nem várható helyes vallomás,
 - d) a hatósági tanú olyan tényekre, adatokra, körülményekre nézve, amelyre titoktartási kötelezettség terheli, és ez alól a bíróság, az ügyész, illetőleg a nyomozó hatóság nem mentette fel.

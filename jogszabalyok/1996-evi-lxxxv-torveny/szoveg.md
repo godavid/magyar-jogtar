@@ -33,7 +33,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 30. § (1) Teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
-- b) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
+- b) az egyházi jogi személy.
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
 
@@ -100,7 +100,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 - a) a Magyar Állam,
 - b)–d)
-- e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti belső egyházi jogi személy;
+- e) az egyházi jogi személy,
 - f)–j)
 - k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 - l)

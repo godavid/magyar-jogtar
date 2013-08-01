@@ -24,7 +24,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 - a) a személy a tevékenységet maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója javára végzi,
 - b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul, vagy
-- c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban, egyesület, illetve egyház tagjaként, alapítvány, közalapítvány kezelő szervének tagjaként vagy egyházi személyként.
+- c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban egyesület, alapítvány vagy közalapítvány kezelő szervének, vagy vallási közösség tagjaként.
 
 (2) Ellenszolgáltatásnak minősül minden olyan vagyoni előny, amelyhez az önkéntes vagy közeli hozzátartozója a közérdekű önkéntes tevékenységhez kapcsolódóan jut.
 
@@ -50,7 +50,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 - c) a költségvetési szerv az alaptevékenysége körében;
 - d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
-- e) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
+- e) a magyarországi székhelyű egyházi jogi személy vagy vallási tevékenységet végző szervezet a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 - f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
   - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézmény,
   - fb) egészségügyi szolgáltató,
@@ -192,7 +192,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - b) civil szervezet és közhasznú szervezet esetén
   - ba) a hatályos létesítő okirat másolatát, és
   - bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
-- c) az egyházak nyilvántartásába fel nem vett belső egyházi jogi személy esetén az egyház egésze, illetve legfőbb szerve vagy az egyházak nyilvántartásába felvett felettes egyházi szerve – az egyházak nyilvántartásában feltüntetett – képviselőjének nyilatkozatát a fogadó szervezet nevéről, székhelyéről és képviselőjének személyéről, továbbá arról, hogy a fogadó szervezet belső egyházi jogi személy;
+- c) az egyházi jogi személy esetében a nyilvántartásba vett adataira vonatkozóan kiállított, harminc napnál nem régebbi igazolást.
 - d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
 - e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
 
@@ -201,7 +201,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
 - b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
-(4a) A bejelentést benyújtó egyház vagy belső egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig az egyház és a nyilatkozatot kiállító felettes egyházi szerv adatait a miniszter az egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
+(4a) A bejelentést benyújtó egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig a bevett egyház és a nyilatkozatot kiállító személy adatait a miniszter a bevett egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
 
 (4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 

@@ -118,9 +118,9 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 16. § A médiatartalom nem sértheti az alkotmányos rendet.
 
-17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
+17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség elleni gyűlölet keltésére.
 
-(2) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport kirekesztésére.
+(2) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség kirekesztésére.
 
 #### 18. §
 
@@ -172,7 +172,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) E törvény 22. §-a a törvény hatálybalépését követő napon hatályát veszti.
 
-23/A. § E törvény 1–9. §-a és 12–21. §-a az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+23/A. § E törvény 1–9. §-a és 12–21. §-a az Alaptörvény IX. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### X. CÍM — A törvény rövidített megjelölése
 

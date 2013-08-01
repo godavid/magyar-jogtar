@@ -12,7 +12,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 (2) A végső nyughely megválasztásában és a temetés lebonyolításában az abban közreműködők és az eltemettetők, az elhunyt életében tett rendelkezésére figyelemmel kötelesek együttműködni.
 
-(3) A temetés módja lehet világi és egyházi. A világi temetés szertartásrendjét az eltemettetők határozzák meg. Az egyházi temetés az egyházak hitéleti tevékenységének, vallási szokásainak tiszteletben tartásával történik.
+(3) A temetés polgári szertartás vagy vallási közösség által vallásos szertartás keretében végezhető. A polgári szertartás rendjét az eltemettetők határozzák meg. A vallási közösség által végzett temetés a vallási közösség hitéleti tevékenységének, vallási szokásainak tiszteletben tartásával történik.
 
 (4) E törvényben foglalt rendelkezéseket a nemzetiségek törvényben biztosított jogainak érvényesítésével kell végrehajtani.
 
@@ -22,7 +22,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 (2) A törvény rendelkezéseit alkalmazni kell
 
-- a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
+- a) azoknak a vallási közösségeknek, települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
 - b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valamint temetkezési szolgáltatási tevékenységet végző természetes és jogi személyeknek, illetőleg annak, akire nézve e tevékenységek során jogok keletkeznek, és kötelezettségek hárulnak.
 
 (3) A törvény rendelkezéseit a műemlékvédelem alatt álló temetők, temetkezési emlékhelyek és temetési helyek tekintetében a kulturális örökség védelméről szóló törvénnyel összhangban kell alkalmazni.
@@ -49,7 +49,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Általános szabályok
 
-4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, az egyház, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet [Ptk. 685. § c) pontja] és közhasznú szervezet lehet.
+4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, a vallási közösség, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet [Ptk. 685. § c) pontja] és közhasznú szervezet lehet.
 
 (2) Azon a településen, ahol nincs önkormányzati tulajdonú temető, gazdálkodó szervezet vagy közhasznú szervezet a temetőtulajdonban tulajdoni hányadot akkor szerezhet, ha az önkormányzat legalább 51%-os tulajdoni hányadban tulajdonosa lesz a temetőnek. Az önkormányzat tulajdoni hányada a működés során sem csökkenthető 51% alá.
 
@@ -176,7 +176,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 ### A temetés
 
-19. § (1) Az eltemetés módja szerint a temetés hamvasztással vagy elhamvasztás nélkül történik, egyházi vagy világi szertartás szerint.
+19. § (1) Az eltemetés módja szerint a temetés hamvasztással vagy hamvasztás nélkül történik.
 
 (2) Az eltemetés módjára és helyére nézve az elhunyt életében tett rendelkezése az irányadó, amennyiben ez nem ró az eltemettető személyére aránytalanul nagy terhet.
 
@@ -235,7 +235,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) A temetkezési szolgáltatási tevékenységek teljeskörűen vagy önállóan is végezhetők (a továbbiakban együtt: temetkezési szolgáltatás).
 
-(3) Az egyházi szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.
+(3) A vallási közösség által végzett vallásos szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.
 
 26. § (1) Temetkezési szolgáltatási tevékenység kormányrendeletben meghatározott műszaki, közegészségügyi és alapvető kegyeleti, illetve személyi feltételek szerint gyakorolható.
 
@@ -254,7 +254,7 @@ csak engedélyezett telephelyen végezheti.
 
 (6) Köztemető területén külön jogszabályban meghatározott telepengedély alapján gyakorolható ipari és szolgáltató tevékenység végzésére nem lehet telephelyet létesíteni, és ilyen tevékenységgel létrehozott terméket – a temetéshez szükséges kellékek kivételével – nem lehet forgalmazni.
 
-28. § A temetkezési szolgáltató a tevékenység ellátása során köteles az eltemettetőnek a temetési szertartásra vonatkozó rendelkezését – az egyházi temetés esetén az egyházi szertartás rendjének megfelelően – tiszteletben tartani.
+28. § A temetkezési szolgáltató a tevékenység ellátása során köteles az eltemettetőnek a temetési szertartásra vonatkozó rendelkezését – a vallási közösség által vallásos szertartás keretében végzett temetés esetén a vallásos szertartás rendjének megfelelően – tiszteletben tartani.
 
 ### A temetkezési szolgáltató
 
@@ -373,7 +373,7 @@ csak engedélyezett telephelyen végezheti.
 
 ### A hősi temetőre, hősi temetési helyre vonatkozó különös szabályok
 
-40/A. § A hősi temető, hősi temetési hely védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és önkormányzati szervek, az egyházak, a civil szervezetek, illetve a jogi és természetes személyek.
+40/A. § A hősi temető, hősi temetési hely védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és önkormányzati szervek, a vallási közösségek, a civil szervezetek, illetve a jogi és természetes személyek.
 
 40/B. § (1) Hősi temetővé, hősi temetési hellyé minősítésre, azok megnyitására, áthelyezésére, megszüntetésére, az azokból történő exhumálás, a sírokon emelt síremlékek létesítésének, felújításának, átépítésének és elbontásának engedélyezésére, valamint e tevékenységek végrehajtásának ellenőrzésére a honvédelemért felelős miniszter jogosult.
 

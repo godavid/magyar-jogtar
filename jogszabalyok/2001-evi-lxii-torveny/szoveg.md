@@ -168,7 +168,7 @@ Ezek az információk szolgálják
 - c) akit a lakóhelye szerinti állam
   - ca) magát magyar nemzetiségűnek valló személyként tart nyilván, vagy
   - cb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet tagként nyilvántart, vagy
-  - cc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartanak számon.
+  - cc) területén működő valamely vallási közösség nyilvántartásában magyar nemzetiségűként tartanak számon.
 
 (4) Nem jogosult ,,Magyar igazolvány''-ra az a kérelmező
 

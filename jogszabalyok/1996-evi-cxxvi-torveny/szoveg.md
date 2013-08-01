@@ -30,19 +30,19 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 - a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – jogerős határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
 - b) a magánszemély önellenőrzést nyújtott be, és ez alapján az adótöbbletet meg is fizette.
 
-(2) Az adóhatóság a rendelkező nyilatkozat évét követő év szeptember 30. napjáig a 4. § (1) bekezdése szerinti kedvezményezettnek átutalja az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget, a 4/A. § (1) bekezdés b) pontja szerint meghatározott kiemelt előirányzat kezeléséért felelős fejezetnek pedig adatot szolgáltat ezen összegről. A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által vezetett minisztérium a 6/B. § (2) bekezdésében foglaltaknak megfelelően utalja át az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget. Az utalás csak abban az esetben teljesíthető, ha az (1) bekezdés a)–b) pontjaiban foglaltak szerinti adóhatósági határozatból, illetve önellenőrzésből egyértelműen megállapítható az összevont adóalap adójának, illetve a levonandó kedvezményeknek az összege.
+(2) Az adóhatóság a rendelkező nyilatkozat évét követő év szeptember 30. napjáig a 4. § (1) bekezdése szerinti kedvezményezettnek átutalja az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget, a 4/A. § (1) bekezdés b) pontja szerint meghatározott kiemelt előirányzat kezeléséért felelős fejezetnek pedig adatot szolgáltat ezen összegről. A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter a 6/B. § (2) bekezdésében foglaltaknak megfelelően utalja át az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget. Az utalás csak abban az esetben teljesíthető, ha az (1) bekezdés a)–b) pontjaiban foglaltak szerinti adóhatósági határozatból, illetve önellenőrzésből egyértelműen megállapítható az összevont adóalap adójának, illetve a levonandó kedvezményeknek az összege.
 
 (3) Ha a magánszemély rendelkező nyilatkozatot tartalmazó adóbevallásának módosítása, önellenőrzése vagy adóhatósági ellenőrzése az összevont adóalap adójának az Szja. tv. 45. §-a szerinti kedvezmények levonása, illetve átutalások teljesítése után fennmaradó részére kevesebbet állapít meg a bevallott, illetve megállapított összegnél, akkor a különbözetnek az 1. § (4) bekezdés a)–b) pontjában rögzített hányadát – ha az kedvezményezettenként legalább ezer forint, és a rendelkezés teljesítése a kedvezményezett javára már megtörtént – az adóhatóság határozata alapján a magánszemélynek meg kell fizetnie.
 
 3. § (1) Az adóhatóság a rendelkező nyilatkozatban és az adóbevallásban feltüntetett adatok alapján utalja át a 4. §-ban meghatározott kedvezményezettek javára az 1–2. § rendelkezései szerint meghatározott összeget.
 
-(2) A 4/A. § (1) bekezdés a) pontja szerinti egyházi kedvezményezetteket megillető támogatást az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által vezetett minisztérium utalja át. A 4/A. § (1) bekezdés b) pontja szerinti kiemelt előirányzat javára felajánlott összeget az Országgyűlés által meghatározott célok megvalósításában érintett költségvetési fejezetet irányító szerv vezetője a 6/D. §-nak megfelelően használja fel.
+(2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezetteket megillető támogatást az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter utalja át. A 4/A. § (1) bekezdés b) pontja szerinti kiemelt előirányzat javára felajánlott összeget az Országgyűlés által meghatározott célok megvalósításában érintett költségvetési fejezetet irányító szerv vezetője a 6/D. §-nak megfelelően használja fel.
 
 (3) Az (1) és (2) bekezdések szerinti utalás nem teljesíthető, amennyiben összege kedvezményezettenként nem éri el a 100 forintot.
 
 #### 2. A rendelkezési jog kedvezményezettje
 
-4. § (1) E törvény alkalmazásában kedvezményezett
+4. § (1) Kedvezményezettnek minősül
 
 - a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
   - aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
@@ -76,12 +76,12 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (5) Az adóhatóság a magánszemélyek saját érdekkörébe tartozóan érvényes rendelkező nyilatkozatai alapján minden év szeptember 1-éig felhívja az (1) bekezdés szerinti kedvezményezettet a (2) bekezdésében meghatározottak 30 napon belüli teljesítésére. A felhívást a kedvezményezett levelezési címére, ennek hiányában székhelyére kell megküldeni. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell alkalmazni.
 
-4/A. § (1) E törvény alkalmazásában kedvezményezett:
+4/A. § (1) A 4. § (1) bekezdésében meghatározottakon túl kedvezményezettnek minősül
 
-- a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) szerint elismert egyház, vallásfelekezet, vallási közösség (a továbbiakban együtt: egyház) – ide nem értve a belső egyházi jogi személyt – feltéve, ha az adóhatóság a (2) bekezdés szerint technikai számmal látta el,
+- a) a bevett egyház (ide nem értve annak belső egyházi jogi személyét) a (2) bekezdésben meghatározottak szerint,
 - b) a rendelkező nyilatkozat évére vonatkozó központi költségvetésről szóló törvényben – a felhasználásért felelős fejezet megjelölésével, kiemelt előirányzatként – meghatározott cél.
 
-(2) Az adóhatóság a magánszemély rendelkező nyilatkozatában felajánlásra kerülő összegre igényt tartó egyházat – kérelmére – technikai számmal látja el. Ha az adóhatóság a technikai számot kiadta, az egyház a technikai szám kiadásának évét követő évben válik kedvezményezetté.
+(2) Az adóhatóság a bevett egyházat – kérelmére – technikai számmal látja el. A bevett egyház a technikai szám kiadásának évét követő évben válik kedvezményezetté.
 
 (3) Az adóhatóság hivatalból technikai számmal látja el az (1) bekezdés b) pontja szerinti kedvezményezettet.
 
@@ -174,7 +174,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 6/B. § (1) Az adóhatóság a rendelkező nyilatkozat évét követő időszakban a jogvitákat lezáró határozatok, valamint a 6. § (2) bekezdése és a 2. § (1) bekezdése alapján a 4/A. § (1) bekezdésében meghatározott kedvezményezetteket megillető összegről az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert és az adópolitikáért felelős minisztert a rendelkező nyilatkozat évének augusztus 31-i tájékoztatójához kapcsolt pótlistán értesíti.
 
-(2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter – az adóhatóság által a rendelkező nyilatkozat évének december 31. napjával meghatározott és az (1) bekezdés szerint a korábbi időszak pótlistája alapján – megnövelt összeget a rendelkező nyilatkozat évét követő év január 31-éig utalja át, feltéve, hogy a kedvezményezett az átutalás időpontjában is egyházként van nyilvántartva.
+(2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter – az adóhatóság által a rendelkező nyilatkozat évének december 31. napjával meghatározott és az (1) bekezdés szerint a korábbi időszak pótlistája alapján – megnövelt összeget a rendelkező nyilatkozat évét követő év január 31-éig utalja át, feltéve, hogy a kedvezményezett az átutalás időpontjában is bevett egyházként van nyilvántartva.
 
 #### 6. A támogatás felhasználásának szabályai
 
@@ -241,21 +241,21 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter egyetértésével kiadott rendeletben szabályozza a beszámolási kötelezettség formai és tartalmi követelményeit.
 
-8/A. § (1) Az Ehtv. 34. § (1) bekezdése szerinti szervezet (a továbbiakban: szervezet) a 4. § (1) bekezdés a) pont aa) alpontja szerinti kedvezményezettnek minősül azzal, hogy a 4. § (1) bekezdésében meghatározott feltételeket a 2012., 2013. és 2014. rendelkező évben nem kell teljesítenie.
+8/A. § (1) A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 2012. január 1-jén hatályos 34. § (1) bekezdése szerinti szervezet (a továbbiakban: szervezet) a 4. § (1) bekezdés a) pont aa) alpontja szerinti kedvezményezettnek minősül azzal, hogy a 4. § (1) bekezdésében meghatározott feltételeket a 2012., 2013. és 2014. rendelkező évben nem kell teljesítenie.
 
 (2) A 2012., 2013. és 2014. évben a szervezet 4. § (2) bekezdésében meghatározott feltételek meglétét igazoló nyilatkozatának a 4. § (2) bekezdés e) pontjában foglaltakat nem kell tartalmaznia, továbbá a szervezetnek nem kell teljesítenie a 6/C. § (1) bekezdése szerinti kötelezettséget.
 
-(3) A szervezetnek az adóhatóság a rendelkezés évének december 31-ével meghatározott és – a 6/B. § (1) bekezdése szerint – a korábbi időszak pótlistája alapján megnövelt összeget a szervezet nyilvántartásba vételét követő 15 napon belül, de legkésőbb 2012. december 15-éig utalja át.
+(3)
 
 (4) Az adóhatóság a szervezetet a 2011. rendelkező év utáni időszakban a jogvitákat lezáró határozatok, valamint a 2. § (1) bekezdése és a 6. § (2) bekezdése alapján megillető támogatás mértékéről tájékoztatja.
 
 (5) Az adóhatóság 2015. január 1-jét követően a 7. § (7) bekezdése szerinti ellenőrzést a szervezet 4. § szerinti kedvezményezettként folytatott közcélú tevékenysége tekintetében végzi.
 
-(6) Az Ehtv. 35. § (3) bekezdése alapján megszüntetett szervezet részére a 2012. rendelkező évben felajánlott és e törvény rendelkezései alapján még ki nem utalt támogatás a központi költségvetés bevétele.
+(6) Az Ehtv. 2012. január 1-jén hatályos 35. § (3) bekezdése alapján megszüntetett szervezet részére a 2012. rendelkező évben felajánlott és e törvény rendelkezései alapján még ki nem utalt támogatás a központi költségvetés bevétele.
 
-(7) A szervezet technikai száma 2012. január 1-jén, az Ehtv. 34. § (2) bekezdése szerinti egyház technikai száma – ha az Országgyűlés az Ehtv. 34. § (2) bekezdés szerinti elismerését elutasítja – 2012. május 20-án megszűnik. A megszüntetett technikai szám ismételten csak annak a szervezetnek adható ki, amelyet az Országgyűlés a technikai szám megszüntetését követően egyházként ismert el.
+(7) A szervezet technikai száma 2012. január 1-jén, az Ehtv. 2012. január 1-jén hatályos 34. § (2) bekezdése szerinti egyház technikai száma – ha az Országgyűlés az Ehtv. 2012. január 1-jén hatályos 34. § (2) bekezdés szerinti elismerését elutasítja – 2012. május 20-án megszűnik. A megszüntetett technikai szám ismételten csak annak a szervezetnek adható ki, amelyet az Országgyűlés a technikai szám megszüntetését követően egyházként ismert el.
 
-(8) Ha a szervezetet az Országgyűlés 2012. május 20-áig egyházként elismeri, az egyház – a 4/A. § (2) bekezdésétől eltérően – a technikai szám kiadásának évében is jogosult a 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek járó felajánlott támogatásra.
+(8)
 
 (9) A szervezet a 6/C. § (1) bekezdés szerinti beszámolási kötelezettséget első alkalommal a 2013. évben teljesíti azzal, hogy a 2011. évben kiutalt támogatásról 2013-ban kell a beszámolási kötelezettséget teljesíteni.
 

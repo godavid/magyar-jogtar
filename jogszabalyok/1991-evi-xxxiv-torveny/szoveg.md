@@ -483,7 +483,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) Kártyaterem kizárólag a közterület felől saját bejárattal rendelkező épületben, vagy külön bejárattal rendelkező építészetileg zárt helyiségben létesíthető. A kártyateremben legalább 5 kártyaasztalnak kell üzemelnie és legfeljebb 10 kártyaasztal helyezhető el. Egy kártyaasztalnál legfeljebb 10 játékos játszhat. A kártyaterem alapterületének akkorának kell lennie, hogy kártyaasztalonként legalább 16 m2 álljon a játékosok rendelkezésre, melybe a vendéglátásra szolgáló terület nem számítható be.
 
-(6) Ifjúsági, gyermek, oktatási vagy nevelési intézmény, ifjúsági klub, egyházi vagy egészségügyi intézmény, továbbá kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
+(6) Ifjúsági, gyermek, oktatási vagy nevelési intézmény, ifjúsági klub, egészségügyi intézmény, nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet ellátó egyházi jogi személy e célt szolgáló ingatlana,, továbbá kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
 
 (7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
 

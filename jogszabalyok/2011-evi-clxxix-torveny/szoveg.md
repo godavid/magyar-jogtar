@@ -31,7 +31,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
   - b) nemzetiségi feladatot ellátó közgyűjtemény: olyan könyvtár, levéltár, muzeális intézmény, kép- illetve hangarchívum, amelynek alapító okiratában szerepel a nemzetiségi feladatellátás, vagy amelynek állományában nemzetiségi nyelvű, vagy nemzetiségre vonatkozó dokumentumok huszonöt százalékot elérő arányban találhatók, függetlenül a fenntartó szervezet típusától;
   - c) nemzetiségi közösségi színtér: nemzetiségi lakosság rendszeres vagy alkalmi közművelődési tevékenységének, a lakosság önszerveződő közösségeinek kulturális szolgáltatásokkal való ellátása érdekében közművelődési megállapodás alapján működtetett, erre a célra alkalmassá tett és üzemeltetett, adott településen (településeken) rendszeresen működő intézmény;
 - 6. nemzetiségi feladatot ellátó tudományos intézmény: alapító okirata, illetve tevékenysége szerint részben vagy egészben egy vagy több nemzetiség anyanyelvén, illetve más nyelveken az adott közösség szellemi, épített és tárgyi emlékeire, hagyományaira, kultúrájára, történelmére, nyelvére, intézményeire, társadalmi viszonyaira vonatkozó adatok gyűjtésével, tudományos értékű feldolgozásával és közzétételével foglakozó intézete, vagy műhelye, tekintet nélkül annak szervezet-típusára;
-- 7. nemzetiség szellemi és vallási öröksége: az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny-, illetve hivatásos előadó-művészeti, hitéleti, egyházi, alkotóművészeti (különösen irodalmi, képző- és iparművészeti) hagyományainak összessége;
+- 7. nemzetiség szellemi és vallási öröksége: az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny-, illetve hivatásos előadó-művészeti, hitéleti, alkotóművészeti (különösen irodalmi, képző- és iparművészeti) hagyományainak összessége;
 - 8. nemzetiség épített és tárgyi öröksége: a kulturális örökség védelméről szóló törvény hatálya alá tartozó azon műemléki és kulturális javak, amelyek a nemzetiség kulturális, történeti, vallási hagyományai megőrzésének szempontjából kiemelt jelentőségűek (különösen településrész, közterület, épületegyüttes, épület, temető, temetkezési hely, szobor, emlékmű, emléktábla, tárgyi képi hangrögzített, írásos emlék, művészeti alkotás);
 - 9. nemzetiségi témájú műsor: a nemzetiségekről szóló, a nemzetiségi közösségek megismerését, kulturális értékeinek bemutatását szolgáló, sokoldalúan és kiegyensúlyozottan tájékoztató magyar nyelvű rádiós vagy audiovizuális program;
 - 10. nemzetiségi közszolgálati műsor: a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhelyei által készített műsor, illetve sajtótermék, amelynek alapvető célja a nemzetiségi közösség sokoldalú, kiegyensúlyozott anyanyelvű tájékoztatása;
@@ -123,7 +123,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 14. § A nemzetiséghez tartozóknak a közéletben való részvétele – e minőségükre tekintettel – nem korlátozható. Érdekeik kifejezésére, védelmére – jogszabályi keretek között – egyesületeket, pártokat hozhatnak létre.
 
-15. § A nemzetiséghez tartozó személyeknek joguk van a családra vonatkozó nemzetiségi hagyományok tiszteletben tartására, családi kapcsolataik ápolására, családi ünnepeiknek anyanyelven történő megtartására és az ezekhez kapcsolódó egyházi szertartások anyanyelven való lebonyolításának igénylésére.
+15. § A nemzetiséghez tartozó személyeknek joguk van a családra vonatkozó nemzetiségi hagyományok tiszteletben tartására, családi kapcsolataik ápolására, családi ünnepeiknek anyanyelven történő megtartására és az ezekhez kapcsolódó, vallási közösség által végzett szertartások anyanyelven való lebonyolításának igénylésére.
 
 16. § (1) A nemzetiséghez tartozó személynek joga, hogy anyanyelvén használja a családi és utónevét, és joga van családi és utónevének hivatalos elismeréséhez.
 
@@ -191,9 +191,9 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 (7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
 
-(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvény – egyházi intézményekre vonatkozó – szabályai szerinti tartalommal kötik meg.
+(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvénynek az egyházi köznevelési intézményre vonatkozó szabályai szerinti tartalommal kötik meg.
 
-26. § (1) Az országos nemzetiségi önkormányzatok esetében a nemzetiségi nevelés-oktatás finanszírozása az egyházi intézményekkel azonos módon történik.
+26. § (1) Az országos nemzetiségi önkormányzatok esetében a nemzetiségi óvodai nevelés, iskolai, kollégiumi nevelés-oktatás, valamint a helyi nemzetiségi önkormányzatok esetében a nemzetiségi iskolai, kollégiumi nevelés-oktatás finanszírozása a nevelési-oktatási feladatot ellátó egyházi jogi személyekre vonatkozó szabályokkal azonosan történik.
 
 (2) Az (1) bekezdés szerinti finanszírozás során a központi költségvetés a nemzetiségi önkormányzatok köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, továbbá kiegészítő támogatásokat nyújt.
 
@@ -273,7 +273,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 - a) a nemzetiségi kultúrák tárgyi emlékeinek gyűjtését, közgyűjtemények alapítását és gyarapítását;
 - b) a nemzetiségek könyvkiadását és időszaki kiadványainak megjelentetését;
 - c) a törvényeknek és közérdekű közleményeknek a nemzetiségek anyanyelvén történő ismertetését;
-- d) a nemzetiség családi eseményeihez kapcsolódó egyházi szertartások anyanyelven történő lebonyolítását, illetve az egyházaknak a nemzetiség anyanyelvén végzett vallási tevékenységét.
+- d) a nemzetiség családi eseményeihez kapcsolódó, vallási közösség által végzett szertartások anyanyelven történő lebonyolítását, illetve a vallási közösségeknek a nemzetiség anyanyelvén végzett vallási tevékenységét.
 
 43. § A magyarországi kulturális örökség digitalizálása és archiválása során biztosítani kell a nemzetiségekkel kapcsolatos kulturális értékek digitalizálását és archiválását is. A digitalizálási és archiválási feladatok ellátásakor ki kell kérni az érintett nemzetiségi közösség szakmai szervezeteinek véleményét.
 
@@ -556,13 +556,13 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 81. § (1) Az e törvény által meghatározott nemzetiségi jogok, különösen a kollektív nyelvhasználat, oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás kérdéskörében a nemzetiségi lakosságot e minőségében érintő helyi önkormányzati határozatot a képviselő-testület csak az e lakosságot képviselő települési nemzetiségi önkormányzat, ennek hiányában a területi nemzetiségi önkormányzat egyetértésével alkothatja meg.
 
-(2) A nemzetiségi intézmények vezetőinek megbízására (vezetői megbízás visszavonására) – ha nem az adott nemzetiség önkormányzata gyakorolja a megbízási jogot -, valamint a nemzetiséghez tartozók oktatási önigazgatására is kiterjedő fenntartói döntés meghozatalára csak az adott nemzetiség önkormányzata egyetértésével, egyházi fenntartású intézmény esetében az adott nemzetiség önkormányzata véleményének kikérésével kerülhet sor. Érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek véleményét ki kell kérni.
+(2) A nemzetiségi intézmények vezetőinek megbízására (vezetői megbízás visszavonására) – ha nem az adott nemzetiség önkormányzata gyakorolja a megbízási jogot -, valamint a nemzetiséghez tartozók oktatási önigazgatására is kiterjedő fenntartói döntés meghozatalára csak az adott nemzetiség önkormányzata egyetértésével, egyházi köznevelési intézmény vagy egyházi felsőoktatási intézmény esetében az adott nemzetiség önkormányzata véleményének kikérésével kerülhet sor. Érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek véleményét ki kell kérni.
 
 82. § Az e törvény által meghatározott nemzetiségi jogok védelmében, különösen a helyi kollektív nyelvhasználat, az oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás tárgyában folyó hatósági eljárásokban az adott nemzetiség területileg illetékes települési nemzetiségi önkormányzatát, ennek hiányában területi, ennek hiányában országos önkormányzatát a – közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy más törvény által meghatározott rendben – ügyféli jogállás, e körben nyilatkozattételi és jogorvoslati jogosultság illeti meg.
 
 83. § (1) Amennyiben a 81. § szerinti tárgykörökben a helyi önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül felülvizsgálja a rendeletet és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat, kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
 
-(2) Ha jogszabály az e törvényben meghatározott tárgykörökön túl egyéb tárgyban ír elő együttműködési kötelezettséget, és a feladatkörében eljáró állami, önkormányzati szerv, egyházi szervezet az előírt egyetértés, vélemény hiányában hoz döntést, határozatot, vagy vélemény hiányában alkot jogszabályt, az érintett nemzetiségi önkormányzat kezdeményezésére a felettes szerv, illetve a fővárosi és megyei kormányhivatal a döntést soron kívül megvizsgálja és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat, kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
+(2) Ha jogszabály az e törvényben meghatározott tárgykörökön túl egyéb tárgyban ír elő együttműködési kötelezettséget, és a feladatkörében eljáró állami, önkormányzati szerv, egyházi jogi személy az előírt egyetértés, vélemény hiányában hoz döntést, határozatot, vagy vélemény hiányában alkot jogszabályt, az érintett nemzetiségi önkormányzat kezdeményezésére a felettes szerv, illetve a fővárosi és megyei kormányhivatal a döntést soron kívül megvizsgálja és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat, kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
 
 (3) Amennyiben a 80. § szerinti megállapodás megkötésre határidőben nem kerül sor, a fővárosi és a megyei kormányhivatal soron kívüli eljárást folytat le, ennek keretében egyeztetést koordinál a felek között. Az egyeztetés eredménytelensége esetén a nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat. A bíróság a szerződést soron kívüli eljárásban létrehozza és tartalmát megállapítja, továbbá dönt a nemzetiségi önkormányzat kártérítési igényéről.
 
@@ -893,7 +893,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - c) a más szervtől átvett intézmény fenntartásával kapcsolatos feladatok ellátása,
 - d) a képviselt közösség érdekképviseletével, esélyegyenlőségének megteremtésével kapcsolatos feladatok ellátása, különösen tekintettel a helyi önkormányzatnak a nemzetiségek jogainak érvényesítésével kapcsolatos feladataira,
 - e) a nemzetiségi önkormányzat illetékességi területén működő állami, helyi önkormányzati vagy más szerv által fenntartott intézmények működésével, feladatellátásával összefüggő, a nemzetiségi közösség kulturális autonómiája megerősítését szolgáló döntési, együttdöntési jogok gyakorlása,
-- f) a képviselt közösség kulturális autonómiájának megerősítése érdekében a közösség önszerveződésének szervezési és működtetési feladatok ellátásával történő támogatása, kapcsolattartás a képviselt közösség helyi nemzetiségi civil szervezeteivel, szerveződéseivel, helyi egyházi szervezetekkel,
+- f) a képviselt közösség kulturális autonómiájának megerősítése érdekében a közösség önszerveződésének szervezési és működtetési feladatok ellátásával történő támogatása, kapcsolattartás a képviselt közösség helyi nemzetiségi civil szervezeteivel, szerveződéseivel, a helyi nemzetiségi önkormányzat területén működő vallási közösségekkel,
 - g) a nemzetiségi önkormányzat illetékességi területén lévő, a nemzetiségi közösséghez kötődő kulturális javak megőrzése érdekében szükséges intézkedések kezdeményezése,
 - h) közreműködés a fejlesztési tervek előkészítésében,
 - i) a nemzetiségi nyelven folyó nevelésre és oktatásra irányuló igények felmérése.
@@ -1016,7 +1016,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (3) Nemzetiségi önkormányzat által alapított, korábban állami támogatásban nem részesülő szervezet, továbbá nemzetiségi önkormányzat által újonnan létesítendő vagy meglévő szervezet átalakításával létrehozandó szervezet részére a (2) bekezdés b)–c) pontja szerinti állami támogatásra a nemzetiségpolitikáért felelős állami szerv és az alapító nemzetiségi önkormányzat előzetes megállapodása alapján, az államháztartás működési rendjéről szóló jogszabályok szerint kerülhet sor.
 
-127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív állami hozzájárulás tekintetében a humán szolgáltatást ellátó egyházi intézményekkel azonos elbírálás alá esnek.
+127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív és egyéb hozzájárulások tekintetében az egyházi jogi személlyel azonos elbírálás alá esnek.
 
 128. § (1) A 126. § (2) bekezdés a) pontja szerinti feladatfinanszírozási rendszer célja, hogy a nemzetiségi önkormányzatok rendelkezésére álljon az általuk ellátott kötelező nemzetiségi közfeladatok ellátása kiadásainak fedezete.
 
@@ -1275,7 +1275,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (6) Az előleg megállapításakor nem kell a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit alkalmazni.
 
-(7) A (4)–(6) bekezdésben nem szabályozott kérdésekben a humán szolgáltatást ellátó egyházi intézményekre vonatkozó finanszírozási szabályokat kell alkalmazni.
+(7) A (4)–(6) bekezdésben nem szabályozott kérdésekben az egyházi jogi személyre vonatkozó finanszírozási szabályokat kell alkalmazni.
 
 (8)–(17)
 

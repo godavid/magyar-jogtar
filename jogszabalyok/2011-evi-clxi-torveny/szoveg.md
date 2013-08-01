@@ -402,33 +402,9 @@ indítványozza.
 
 61. § A határozat a fővárosi és megyei kormányhivatalra és a helyi önkormányzatra kötelező.
 
-### V. Fejezet — AZ ELJÁRÓ BÍRÓSÁG KIJELÖLÉSE AZ ÜGYEK ÉSSZERŰ IDŐN BELÜL VALÓ ELBÍRÁLÁSÁNAK BIZTOSÍTÁSA ÉRDEKÉBEN
+### V. Fejezet
 
-#### 17. Az eljáró bíróság kijelölésének feltétele és a kijelölés iránti indítvány
-
-62. § (1) Az OBH elnöke az OBT által meghatározott elvek figyelembevételével az ügy elbírálására az illetékes bíróság helyett kivételesen más, azonos hatáskörű bíróságot jelölhet ki, ha az ügy vagy a bíróságra az adott időszakban érkezett ügyek meghatározott csoportjának elbírálása a bíróság rendkívüli és aránytalan munkaterhe miatt ésszerű időn belül másként nem biztosítható és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
-
-(2) A kijelölést az ítélőtábla vagy a törvényszék elnöke, továbbá a legfőbb ügyész az ügy érkezésétől számított 15 napon belül indítványozhatja az OBH elnökénél.
-
-(3) A kijelölés iránti indítványban meg kell indokolni, hogy a kijelöléssel érintett ügy vagy a bíróságra a (1) bekezdésben meghatározott időszakban érkezett ügyek meghatározott csoportja ésszerű időn belül való elbírálása miért nem biztosítható, továbbá fel kell sorolni azokat az ügyforgalmi, személyzeti és egyéb adatokat, amelyek a bíróság rendkívüli és aránytalan munkaterhét igazolják.
-
-(4) Az eljáró bíróság kijelölésének kezdeményezéséről a kijelölést kezdeményező postai szolgáltató útján, egyúttal a hirdetőtáblára történő kifüggesztéssel értesíti a perben érintett feleket. Az értesítés tartalmazza a más bíróság kijelölése elleni jogorvoslatról szóló tájékoztatást.
-
-#### 18. Az eljáró bíróság kijelölése
-
-63. § (1) Az OBH elnöke az indítvány érkezésétől számított 8 napon belül megvizsgálja, hogy az ügyforgalmi, személyzeti és egyéb adatok, valamint a kijelöléssel érintett ügy sajátosságaira tekintettel az indítvány megalapozott-e, továbbá, hogy mely bíróság jelölhető ki az eljárásra. Az OBH elnöke kikéri a kijelöléssel érintett bíróság és büntetőügy esetében – ha az indítványozó nem a legfőbb ügyész – a legfőbb ügyész véleményét, továbbá bármely bíróságtól adatot vagy véleményt kérhet; a megkeresésnek soron kívül eleget kell tenni.
-
-(2) A kijelölésről az OBH elnöke az (1) bekezdés szerinti vélemények és adatok beérkezésétől számított 8 napon belül dönt az indítvány elutasításával, ha az nem megalapozott, vagy másik bíróság kijelölésével, ha az indítvány megalapozott. Az OBH elnöke döntésében ismerteti az OBT által meghatározott elvek alkalmazását.
-
-(3) Az eljáró bíróság kijelölésével érintett peres fél a kijelölésről szóló határozatnak a bíróságok hivatalos honlapján és a központi honlapon való közzétételétől számított 8 napon belül az eljáró bíróságot kijelölő határozat ellen fellebbezéssel élhet. A határidő elmulasztása esetén igazolási kérelemnek helye nincs. A fellebbezést az OBH elnökénél írásban kell benyújtani, eggyel több példányban, mint ahány fél a perben érdekelt.
-
-(4) A fél által a (3) bekezdésben foglaltak szerint benyújtott fellebbezést a Kúria 8 munkanapon belül, nemperes eljárásban bírálja el. A fellebbezés elkésettsége esetén a Kúria a fellebbezést érdemi vizsgálat nélkül elutasítja. A Kúria az OBH elnökének mérlegeléssel hozott döntését csak annyiban vizsgálhatja felül, amennyiben az OBH elnöke a döntés kialakítására irányadó jogszabályokat megsértette.
-
-(5) Ha a Kúria a felülvizsgálat során azt állapítja meg, hogy az OBH elnökének az eljáró bíróságot kijelölő határozata e törvénynek az eljáró bíróság kijelölésére vonatkozó szabályainak megfelel, az eljáró bíróságot kijelölő határozatot helyben hagyja. Ha az eljáró bíróságot kijelölő határozat e törvénynek az eljáró bíróság kijelölésére vonatkozó szabályainak nem felel meg, a Kúria a határozatot hatályon kívül helyezi. Az eljáró bíróság kijelöléséről szóló határozatot a Kúria nem változtathatja meg.
-
-(6) A Kúria határozatát az OBH elnökén keresztül kézbesíti a feleknek, egyúttal gondoskodik a határozatnak a bíróságok hivatalos honlapján és a központi honlapon való közzétételéről. Ha a Kúria az eljáró bíróság kijelöléséről szóló határozatot helyben hagyja, az OBH elnöke a kijelölésről haladéktalanul értesíti a kijelölt bíróságot, valamint – ha a kijelölés büntetőügyet érint – a legfőbb ügyészt. A Kúria határozatának a felek részére történő kézbesítése, illetve a kézbesítés sikertelen volta az eljáró bíróság kijelölését nem érinti.
-
-64. § A kijelöléssel érintett ügyben – a 63. § (3)–(6) bekezdésében foglalt kivétellel – e fejezet szerinti újabb kijelölésnek nincs helye.
+#### 62–64. §
 
 ## HARMADIK RÉSZ — A BÍRÓSÁGOK KÖZPONTI IGAZGATÁSA
 
@@ -440,11 +416,11 @@ indítványozza.
 
 #### 20. Az OBH elnökének megválasztása
 
-66. § Az OBH elnökét az Országgyűlés a határozatlan időre kinevezett és legalább 5 éves bírói szolgálati viszonnyal rendelkező bírák közül 9 évre választja meg a képviselők kétharmadának szavazatával.
+66. § Az OBH elnökét az Országgyűlés a határozatlan időre kinevezett és legalább 5 éves bírói szolgálati viszonnyal rendelkező bírák közül választja az Alaptörvény 25. cikk (6) bekezdésében foglaltak szerint. Az OBH elnöke nem választható újra.
 
 67. § (1) A köztársasági elnök az OBH elnökének személyére a korábbi elnök megbízatási ideje lejártát megelőző 3 hónapon belül, de legkésőbb a megbízatási idő lejártát megelőző negyvenötödik napon javaslatot tesz.
 
-(2) Ha az OBH elnökének megbízatása a 70. § (1) bekezdés b)–i) pontjában meghatározott okból szűnt meg, a köztársasági elnök 30 napon belül tesz javaslatot az OBH elnökének személyére.
+(2) Ha az OBH elnökének megbízatása a 70. § (1) bekezdés b)–f) pontjában meghatározott okból szűnt meg, a köztársasági elnök 30 napon belül tesz javaslatot az OBH elnökének személyére.
 
 (3) A jelöltet az Országgyűlés igazságüggyel foglalkozó bizottsága meghallgatja. Azt a jelöltet, akit sikertelen választás után a köztársasági elnök újra jelöl, nem kell ismét meghallgatni.
 
@@ -465,23 +441,20 @@ indítványozza.
 
 69. § (1) Az OBH elnökére – ha törvény másképpen nem rendelkezik – a bírákra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha az OBH elnök bírói szolgálati viszonya – az elnöki tisztség érintése nélkül – megszűnik.
+(2) Az (1) bekezdésben foglaltakat kell alkalmazni akkor is, ha az OBH elnök bírói szolgálati viszonya megszűnik.
 
 #### 22. Az OBH elnöke megbízatásának megszűnése
 
 70. § (1) Az OBH elnökének megbízatása megszűnik:
 
 - a) a megbízatási időtartam leteltével,
-- b) a halálával,
-- c) a cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezésével,
-- d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé vagy polgármesterré történő megválasztásával, továbbá állami vezetővé történő megválasztásával vagy kinevezésével,
-- e) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el,
-- f) lemondással,
-- g) az összeférhetetlenség kimondásával,
-- h) felmentéssel vagy
-- i) a tisztségtől való megfosztással.
+- b) a bírói szolgálati viszonya megszűnésével,
+- c) lemondással,
+- d) az összeférhetetlenség kimondásával,
+- e) felmentéssel vagy
+- f) a tisztségtől való megfosztással.
 
-(2) Az OBH elnöke megbízatásának megszűnését az (1) bekezdés a)–f) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés g)–i) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz. A megbízatás megszűnésének kimondásához a képviselők kétharmadának szavazata szükséges.
+(2) Az OBH elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetében az Országgyűlés elnöke állapítja meg. Az (1) bekezdés d)–f) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz. A megbízatás megszűnésének kimondásához a képviselők kétharmadának szavazata szükséges.
 
 (3) Az OBH elnöke megbízatásának megszűnéséről az Országgyűlés elnöke annak megállapítását követő 8 napon belül tájékoztatja a köztársasági elnököt.
 
@@ -503,9 +476,9 @@ indítványozza.
 
 (2) A tisztségtől való megfosztást az (1) bekezdésben foglaltak szerinti indítvány megtételére jogosult, az arra alapot adó ok vizsgálatát követően – az okok részletes kifejtésével, és az azok alapjául szolgáló iratok egyidejű csatolásával – indítványozhatja. Az indítványt az Országgyűlés igazságüggyel foglalkozó bizottsága megvizsgálja, és javaslatot tesz az Országgyűlésnek a határozat tartalmára.
 
-75. § (1) Ha az OBH elnökének megbízatása a határozott idő leteltével szűnik meg – és bírói szolgálati viszonya korábban nem szűnt meg –, őt pályázat kiírása nélkül, legalább az elnöki megbízatását megelőzővel azonos szintű bíróságra, illetve ha járásbírósági vagy közigazgatási és munkaügyi bírósági bíró volt, legalább törvényszékre tanácselnöknek kell kinevezni.
+75. § (1) Ha az OBH elnökének megbízatása a határozott idő leteltével szűnik meg, őt pályázat kiírása nélkül, legalább az elnöki megbízatását megelőzővel azonos szintű bíróságra, illetve ha járásbírósági vagy közigazgatási és munkaügyi bírósági bíró volt, legalább törvényszékre tanácselnöknek kell kinevezni.
 
-(2) Ha az OBH elnökének megbízatása a határozott idő letelte előtt szűnik meg – és bírói szolgálati viszonya korábban nem szűnt meg –, őt pályázat nélkül, lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírói beosztásba kell helyezni.
+(2) Ha az OBH elnökének megbízatása a határozott idő letelte előtt szűnik meg, őt pályázat nélkül, lehetőleg a korábbi szolgálati helyére és legalább a korábbival azonos bírói beosztásba kell helyezni.
 
 #### 23. Az OBH elnökének feladatai
 
@@ -537,7 +510,7 @@ indítványozza.
 (4) Az OBH elnöke a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateherméréssel kapcsolatos feladatkörében
 
 - a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő közigazgatási és munkaügyi bírósággal, valamint járásbíróságokkal együttes – szükséges bírói létszámát,
-- b) az OBT által meghatározott elvek figyelembevételével az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra, ha az az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében szükséges,
+- b)
 - c)
 - d) dönt a bírósági statisztikai adatok gyűjtéséről és az adatok feldolgozásával kapcsolatos központi feladatokról, és
 - e) meghatározza és szükség esetén évente felülvizsgálja a bírói munkateher mérésére szolgáló adatlapokat és módszereket, legalább évente egy alkalommal áttekinti a munkateher és az országos ügyforgalmi adatok alakulását, valamint bírósági szintenként és ügyszakonként meghatározza a peres és nemperes eljárások átlagos országos munkaterhét.
@@ -594,7 +567,7 @@ indítványozza.
 
 (2) Az OBH elnökének határozatait az érintettekkel haladéktalanul, de legkésőbb 8 napon belül írásban kell közölni. Az OBH elnöke a határozatait a szükséghez képest indokolja.
 
-(3) Az OBH elnökének szabályzatát a Magyar Közlönyben, ajánlását és – az (5) bekezdésben foglalt kivétellel – határozatát a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában kell közzétenni.
+(3) Az OBH elnökének szabályzatát a Magyar Közlönyben, ajánlását és – az (5) bekezdésben foglalt kivétellel – határozatát a központi honlapon, továbbá a bíróságok hivatalos lapjában kell közzétenni.
 
 (4) Az OBH elnöke a központi honlapon közzéteszi a bíróságok általános helyzetéről és a bíróságok igazgatási tevékenységéről szóló, az Országgyűlés számára készített beszámolót, továbbá a kinevezési jogkörébe tartozó vezetői állásra pályázók meghallgatásának jegyzőkönyveit.
 
@@ -768,7 +741,7 @@ indítványozza.
 (2a) Az OBT a statisztikai adatgyűjtés, az ügyelosztás és a munkatehermérés területén
 
 - a) kivételesen indokolt esetben elrendelheti a társadalom széles körét érintő vagy a közérdek szempontjából kiemelkedő jelentőségű ügyek soron kívüli intézését,
-- b) meghatározza az eljáró bíróság kijelölésénél figyelembe veendő elveket az OBH elnökének azon jogköre vonatkozásában, amely szerint az ügyek ésszerű időn belül való elbírálása érdekében az eljáró bíróság helyett másik bíróságot jelöl ki az eljárásra.
+- b)
 
 (3) Az OBT a személyzeti területen
 
@@ -932,9 +905,10 @@ indítványozza.
 - p) felelős a bíróságok működésével kapcsolatban törvényben előírt személyes adatokat tartalmazó, valamint jogszabályokban vagy – az adatvédelmi szabályok figyelembevételével – az OBH elnöke által elrendelt nyilvántartások vezetéséért, adatok szolgáltatásáért,
 - q) felelős az OBH elnöke határozatainak határidőben történő végrehajtásáért,
 - r) gondoskodik a Kúria ügyfélfogadási idejének és rendjének a központi honlapon és a Kúria honlapján történő közzétételéről, és
-- s) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
+- s) kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított 30 napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát,
+- t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnökének szabályzata vagy az OBH elnökének határozata a hatáskörébe utal.
 
-(2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
+(2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
 
 #### 33. A bírósági vezetők
 
@@ -1324,7 +1298,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 - a) az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és – ha törvény kivételt nem tesz – az e minőségében eljáró személy családi és utónevét, illetve neveit (a továbbiakban együtt: nevét), továbbá beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt,
 - b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét,
 - c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, ha a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van,
-- d) a társadalmi szervezet vagy alapítvány nevét, székhelyét és képviselőjének nevét,
+- d) az egyesület vagy alapítvány nevét, székhelyét és képviselőjének nevét,
 - e) a közérdekből nyilvános adatot.
 
 (3) Ha a nyilvánosságot a tárgyalás egészéről vagy egy részéről kizárták, és a nyilvánosság kizárását megalapozó, törvényben meghatározott érdek védelme másképpen nem biztosítható, a határozat egyes részeinek vagy a határozat egészének a gyűjteményben való megjelentetését mellőzni, illetve a közzétett határozat egyes részeit vagy a határozat egészét a gyűjteményből törölni kell.
@@ -1412,7 +1386,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (7) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 

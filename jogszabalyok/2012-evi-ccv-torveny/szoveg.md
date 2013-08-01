@@ -213,7 +213,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 19. § A különleges műveleti kiképzések, gyakorlatok alkalmával az állomány tagjának személyi szabadsága előzetes írásbeli beleegyezés alapján a kiképzés céljának elérése érdekében a szükséges mértékben és ideig, de összefüggően legfeljebb 96 óra időtartamban korlátozható.
 
-20. § (1) Az állomány tagja szolgálatteljesítési időben a szolgálatteljesítési kötelezettség sérelme nélkül vehet igénybe lelki gondozást, és vehet részt vallási szertartáson.
+20. § (1) Az állomány tagja szolgálatteljesítési időben a szolgálatteljesítési kötelezettség sérelme nélkül vehet igénybe lelki gondozást, és vehet részt vallásos szertartáson.
 
 (2) Az (1) bekezdésben foglaltak megvalósulását a Kormány rendeletében meghatározott keretek között a Tábori Lelkészi Szolgálat biztosítja.
 
@@ -346,7 +346,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 (4) Azt a tényt, hogy a (2) bekezdésben meghatározott kizáró ok vele szemben nem áll fenn, a szolgálati viszony létesítését megelőzően, a szolgálati viszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja.
 
-(5) A tábori lelkész szolgálati viszonyának létesítéséhez az egyház egyetértése is szükséges.
+(5) A tábori lelkész szolgálati viszonyának létesítéséhez a bevett egyház egyetértése is szükséges.
 
 32. § (1) Hivatásos szolgálati viszony létesíthető
 
@@ -825,7 +825,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 - e) a magyar állampolgárság megszűnésével,
 - f) a más állam állampolgárságának megszerzésével akkor, ha az állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a Honvédség feladatainak ellátásában,
 - g) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező esetekben,
-- h) tábori lelkész esetében, ha az egyház visszahívja, feltéve, hogy más megfelelő szolgálati beosztásban nem foglalkoztatható tovább,
+- h) tábori lelkész esetében, ha a bevett egyház visszahívja, feltéve, hogy más megfelelő szolgálati beosztásban nem foglalkoztatható tovább,
 - i) a 31. § (2) bekezdése szerinti követelmények igazolásának ismételt szabályszerű felhívást követő elmulasztása esetén, ha az állomány tagja nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
 - j) a katonai szolgálatra fizikai okból alkalmatlansága esetén,
 - k) a 147. § (1) bekezdés f) vagy g) pontja szerinti fenyítést kiszabó határozat jogerőre emelkedésével,
@@ -1847,7 +1847,7 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 (3) A munkáltatói jogkört gyakorló az állomány azon elhunyt tagját, akit az (1) vagy a (2) bekezdés alapján nem minősítettek, a „Katonai szolgálat halottjává” nyilváníthatja.
 
-(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó kérésének megfelelően – egyházi vagy polgári szertartással kell eltemetni.
+(4) A kegyelet hivatalos kifejezéseként az elhunytat a minősítéstől függően a végtisztesség megadásaként katonai tiszteletadással, és – az intézkedésre jogosult közeli hozzátartozó kérésének megfelelően – vallási közösség által végzett szertartással vagy polgári szertartással kell eltemetni.
 
 (5) A kegyeleti minősítés szempontjait és feltételeit, a (4) bekezdés szerinti katonai temetés feltételeit, és a Honvédség által a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit miniszteri rendelet határozza meg.
 

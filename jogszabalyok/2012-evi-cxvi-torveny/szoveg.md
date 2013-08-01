@@ -105,10 +105,10 @@ köteles teljesíteni.
 
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
-- a) a pénzügyi tranzakciós illeték alapjának 0,2 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
-- b) a d) pont szerinti kivétellel pénzügyi tranzakciós illeték alapjának 0,2 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
-- c) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén, de fizetési műveletenként legfeljebb 6 ezer forint
-- d) a pénzügyi tranzakciós illeték alapjának 0,2 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint az állampapír forgalmazásával kapcsolatos fizetési műveletek esetében, ha az illetékfizetésre a kincstár kötelezett.
+- a) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
+- b) a d) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
+- c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
+- d) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint az állampapír forgalmazásával kapcsolatos fizetési műveletek esetében, ha az illetékfizetésre a kincstár kötelezett.
 
 (2) Az (1) bekezdés alkalmazásában a csoportos átutalás egyes átutalási megbízásai és a csoportos beszedési megbízás egyes beszedési megbízásai önálló fizetési műveletnek minősülnek.
 
@@ -137,6 +137,10 @@ köteles teljesíteni.
 
 10. § Ez a törvény 2013. január 1-jén lép hatályba.
 
-11. § Az e törvény hatálybalépését megelőzően megkezdett fizetési műveletre és fizetési műveletnek nem minősülő műveletre e törvényt akkor kell alkalmazni, ha a művelet teljesítési napja 2013. január 1-jére vagy ezt követő napra esik.
+11. § (1) Az e törvény hatálybalépését megelőzően megkezdett fizetési műveletre és fizetési műveletnek nem minősülő műveletre e törvényt akkor kell alkalmazni, ha a művelet teljesítési napja 2013. január 1-jére vagy ezt követő napra esik.
+
+(2) E törvénynek az egyes közteherviselési kötelezettséget előíró törvények módosításáról szóló 2013. évi CXXIII. törvénnyel megállapított 7. § (1) bekezdését azon műveletekre kell alkalmazni, amelyek teljesítési napja 2013. július 31-ét követő napra esik.
+
+(3) A pénzforgalmi szolgáltató (ide nem értve a kincstárat) 2013-ban a tranzakciós illeték elmaradását pótló egyszeri befizetésre kötelezett. A tranzakciós illeték elmaradását pótló egyszeri befizetés összege a 8. § szerint január–április hónapokra együttesen megállapított tranzakciós illeték összegének 208 százaléka. A pénzforgalmi szolgáltató (jogutódja) a tranzakciós illeték elmaradását pótló egyszeri befizetés összegét 2013. szeptember 20-áig megállapítja, az esedékességének megfelelő részletezettségben – a 8. § (1) bekezdésében meghatározott módon – bevallja, valamint négy egyenlő részletben – első ízben 2013. szeptember 20-áig – megfizeti.
 
 12. § E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel (a továbbiakban: Mód tv.) megállapított 3. § (4) bekezdés m) pontjának rendelkezését a Mód tv. hatálybalépését megelőzően, 2013. évben kezdeményezett átutalásokra is alkalmazni kell.

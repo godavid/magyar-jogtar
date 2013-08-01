@@ -425,7 +425,7 @@ közigazgatási területére terjed ki.
 
 (3) A fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata és kérelme nélkül bekerülnek a nyilvános könyvtárak jegyzékébe: a nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtárak, a megyei könyvtárak, a 3. számú melléklet szerinti országos szakkönyvtárak, illetőleg az állami egyetemek könyvtárai.
 
-(4) Az egyházak és más könyvtárfenntartók az (1) bekezdésben foglaltak teljesítésével és az erről szóló nyilatkozat csatolásával kérhetik a minisztertől könyvtáruk felvételét a nyilvános könyvtárak jegyzékébe.
+(4) A fenntartó az (1) bekezdésben foglaltak teljesítésével és az erről szóló nyilatkozat csatolásával kérheti a minisztertől könyvtárai felvételét a nyilvános könyvtárak jegyzékébe.
 
 (5) Az (1) bekezdésben felsorolt követelmények betartását a miniszter ellenőrzi. Ha a könyvtár nem felel meg az (1) bekezdésben foglalt követelmények valamelyikének, a miniszter elrendeli a hiány pótlását, aminek elmaradása esetén a könyvtárat törli a nyilvános könyvtárak jegyzékéből.
 
@@ -853,7 +853,7 @@ közigazgatási területére terjed ki.
 
 (3)
 
-(4) Az egyházak a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, múzeumaik és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, múzeumaik és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
 
 ## VI. RÉSZ — A muzeális intézményekben, a nyilvános könyvtárakban,a közművelődési intézményekben és a levéltárakban alkalmazottak foglalkoztatásának egyes kérdései
 

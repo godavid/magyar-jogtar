@@ -37,7 +37,7 @@ Az Országgyűlés megerősítve nemzetközi jogi elkötelezettségét, miszerin
 
 (2) E törvény alkalmazásában úgy kell tekinteni, hogy a bűncselekmény miatt az elkövetővel szemben politikai okból nem indítottak büntetőeljárást akkor, ha a kommunista diktatúrában az elkövetéskor hatályos büntető törvény ellenére nem indult büntetőeljárás és a bűncselekményt a pártállam nevében, érdekében vagy egyetértésével követték el.
 
-4. § (1) A kommunista bűncselekmény elévülésére az Alaptörvény Átmeneti Rendelkezései 2. cikk (2) és (3) bekezdésében foglaltak irányadók.
+4. § (1) A kommunista bűncselekmény elévülésére az Alaptörvény U) cikk (7) és (8) bekezdésében foglaltak irányadók.
 
 (2) E törvény nem érinti annak a kommunista bűncselekménynek az elévülését, amelynek elévülése az elkövetéskor hatályos büntető törvény szerint 1990. május 2-a és 2011. december 31-e között történt volna meg, és amely miatt 1990. május 2-a és 2011. december 31-e között az elkövetővel szemben büntetőeljárás indult.
 
@@ -49,7 +49,7 @@ Az Országgyűlés megerősítve nemzetközi jogi elkötelezettségét, miszerin
 
 (3) Az (1), illetve (2) bekezdés alapján kommunista bűncselekmény elkövetése miatt kiszabott büntetés korlátlanul enyhíthető, különös tekintettel a kommunista bűncselekmény elkövetésével vádolt személy egészségi állapotára vagy életkorára.
 
-7. § A kommunista bűncselekmény – az Alaptörvény Átmeneti Rendelkezései 2. cikk (2) és (3) bekezdése szerinti – elévülését az elkövetővel szemben a bűncselekmény miatt 2011. december 31-ét követően tett büntetőeljárási cselekmény félbeszakítja. A félbeszakítás napján az elévülés – az Alaptörvény Átmeneti Rendelkezései 2. cikk (2) és (3) bekezdése szerinti – határideje ismét elkezdődik.
+7. § A kommunista bűncselekmény – az Alaptörvény U) cikk (7) és (8) bekezdése szerinti – elévülését az elkövetővel szemben a bűncselekmény miatt 2011. december 31-ét követően tett büntetőeljárási cselekmény félbeszakítja. A félbeszakítás napján az elévülés – az Alaptörvény U) cikk (7) és (8) bekezdése szerinti – határideje ismét elkezdődik.
 
 #### 3. Záró rendelkezések
 

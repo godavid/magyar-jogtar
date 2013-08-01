@@ -10,14 +10,14 @@ Az Országgyűlés, elismerve a gazdasági és társadalmi párbeszéd szerepét
 
 #### 2. A Tanács létrehozásának célja, működésének elvei
 
-2. § (1) A Tanács a gazdaság és a társadalom fejlődését érintő átfogó ügyek, a kormányzati ciklusokon átívelő nemzeti stratégiák megvitatására, valamint a harmonikus és kiegyensúlyozott gazdasági fejlődés, illetve az ehhez illeszkedő szociális modellek kidolgozásának és megvalósításának előmozdítására létrejött, az Országgyűléstől és a Kormánytól független, konzultációs, javaslattevő és tanácsadó testület, a munkaadói és munkavállaló érdek-képviseleti szervezetek, a gazdasági kamarák, a nemzetpolitika területén tevékenykedő civil szervezetek, a tudomány hazai és határon túli képviselői, valamint a külön törvény szerinti egyházak közötti társadalmi párbeszéd legátfogóbb, sokoldalú konzultatív fóruma.
+2. § (1) A Tanács a gazdaság és a társadalom fejlődését érintő átfogó ügyek, a kormányzati ciklusokon átívelő nemzeti stratégiák megvitatására, valamint a harmonikus és kiegyensúlyozott gazdasági fejlődés, illetve az ehhez illeszkedő szociális modellek kidolgozásának és megvalósításának előmozdítására létrejött, az Országgyűléstől és a Kormánytól független, konzultációs, javaslattevő és tanácsadó testület, a munkaadói és munkavállaló érdek-képviseleti szervezetek, a gazdasági kamarák, a nemzetpolitika területén tevékenykedő civil szervezetek, a tudomány hazai és határon túli képviselői, valamint a bevett egyházak közötti társadalmi párbeszéd legátfogóbb, sokoldalú konzultatív fóruma.
 
 (2) A Tanács
 
 - a) a munkaadói és munkavállalói érdek-képviseleti szervezetek, illetve érdek-képviseleti szövetségek,
 - b) az országos gazdasági kamarák,
 - c) a nemzetpolitika területén tevékenykedő civil szervezetek,
-- d) az egyházak, valamint
+- d) a bevett egyházak, valamint
 - e) a tudomány
 
 hazai és határon túli magyar képviselőinek részvételével működik.
@@ -55,7 +55,7 @@ hazai és határon túli magyar képviselőinek részvételével működik.
   - a) a Magyar Tudományos Akadémia elnöke,
   - b) a Magyar Tudományos Akadémia, a Magyar Rektori Konferencia és a Magyar Közgazdasági Társaság által, szervezetenként delegált gazdaság- és társadalom-kutató,
   - c) a Magyar Tudományos Akadémia által kijelölt, a határon túli magyar tudományos élet képviselője;
-- 5. a külön törvény szerinti egyházak képviselői.
+- 5. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11/A. § (1) bekezdése szerinti tevékenységgel összefüggésben foglalkoztatott személyek számát tekintve legjelentősebb gazdasági súlyt képviselő négy bevett egyház képviselői.
 
 (2) A Tanács tagjai az őket delegáló szervezet megbízásából tagjai a tanácsnak. A Tanács tagjainak megbízatása négy évre szól.
 

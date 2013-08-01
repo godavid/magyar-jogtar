@@ -39,7 +39,7 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 #### 4. A központi alrendszer egyes tartalék-előirányzatai
 
-5. § (1) Céltartalék szolgál a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 2. Közszférában foglalkoztatottak bérkompenzációja alcímen a költségvetési szerveknél és az egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatottak részére a 2013. évben – jogszabály alapján – járó többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
+5. § (1) Céltartalék szolgál a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 2. Közszférában foglalkoztatottak bérkompenzációja alcímen a költségvetési szerveknél és a nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet önmaga vagy intézménye útján ellátó belső egyházi jogi személynél foglalkoztatottak részére a 2013. évben – jogszabály alapján – járó többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
 
 (2) Céltartalék szolgál a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 3. Különféle kifizetések alcímen
 
@@ -52,7 +52,7 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 (4) A többlettámogatás igénylési feltételeit, az igény bejelentésének, megállapításának, a többlettámogatás folyósításának, elszámolásának, a felhasználás ellenőrzésének szabályait az (1) bekezdés és a (2) bekezdés a) pontja tekintetében a Kormány rendeletben állapítja meg.
 
-(5) A költségvetési szerveknél és az egyházak közcélú tevékenységet folytató intézményeinél foglalkoztatott magánszemély és e körben foglalkoztatott házas- vagy élettársa, továbbá a gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők a 2013. évi adó- és járulékváltozások ellentételezésének megállapításához a saját és házas- vagy élettársa munkáltatója részére is nyilatkozik – a kompenzáció összegének megállapítása érdekében – a családi kedvezményre való jogosultságáról, az annak igénylése során figyelembe vehető kedvezményezett eltartottak számáról, adóazonosító jeléről, illetményéről és a jogviszonya keletkezésének időpontjáról. A nyilatkozatra vonatkozó további rendelkezéseket a Kormány rendeletben állapítja meg.
+(5) A költségvetési szerveknél és a nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet önmaga vagy intézménye útján ellátó belső egyházi jogi személynél foglalkoztatott magánszemély és e körben foglalkoztatott házas- vagy élettársa, továbbá a gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők a 2013. évi adó- és járulékváltozások ellentételezésének megállapításához a saját és házas- vagy élettársa munkáltatója részére is nyilatkozik – a kompenzáció összegének megállapítása érdekében – a családi kedvezményre való jogosultságáról, az annak igénylése során figyelembe vehető kedvezményezett eltartottak számáról, adóazonosító jeléről, illetményéről és a jogviszonya keletkezésének időpontjáról. A nyilatkozatra vonatkozó további rendelkezéseket a Kormány rendeletben állapítja meg.
 
 #### 5. Az állam vagyonával kapcsolatos rendelkezések
 
@@ -267,7 +267,7 @@ kivéve az államháztartásról szóló 2011. CXCV. törvény (a továbbiakban:
 
 #### 11. A Kormány, az államháztartásért felelős miniszter és a fejezetet irányító szervek vezetőinek különleges jogosítványai
 
-25. § (1) A Kormány az önkormányzati, valamint az állami feladatellátásban 2012. évben bekövetkezett és a 2013. évben bekövetkező változásokkal – ideértve az egyházat, a belső egyházi jogi személyt, a társadalmi szervezetet, az alapítványt, a közalapítványt, a civil szervezetet, az országos nemzetiségi önkormányzatot, a nonprofit gazdasági társaságot, a gazdasági társaságot és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozót érintő feladat-, és intézmény-átadást is – összefüggő valamennyi, a Kormány irányítása alá tartozó, a feladat-, és intézmény-átadással érintett fejezetek közötti átcsoportosítást az Áht. rendelkezéseitől eltérően saját hatáskörben végrehajthat.
+25. § (1) A Kormány az önkormányzati, valamint az állami feladatellátásban 2012. évben bekövetkezett és a 2013. évben bekövetkező változásokkal – ideértve az egyházi jogi személyt, a társadalmi szervezetet, az alapítványt, a közalapítványt, a civil szervezetet, az országos nemzetiségi önkormányzatot, a nonprofit gazdasági társaságot, a gazdasági társaságot és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozót érintő feladat-, és intézmény-átadást is – összefüggő valamennyi, a Kormány irányítása alá tartozó, a feladat-, és intézmény-átadással érintett fejezetek közötti átcsoportosítást az Áht. rendelkezéseitől eltérően saját hatáskörben végrehajthat.
 
 (2) Az 5. § (2) bekezdése szerinti előirányzat fejezetekre, címekre, alcímekre, jogcímcsoportokra, jogcímekre, előirányzat-csoportokra, kiemelt előirányzatokra – felmérés alapján – történő átcsoportosítására az államháztartásért felelős miniszter kap felhatalmazást.
 
@@ -409,9 +409,9 @@ történik.
 
 ### V. Fejezet — A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA
 
-#### 16. Az egyházak és társadalmi önszerveződések közcélú és egyéb tevékenységének támogatása
+#### 16. Az egyházi jogi személyek és társadalmi önszerveződések közcélú és egyéb tevékenységének támogatása
 
-35. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos, területi, települési nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a köznevelési feladatot alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami köznevelési intézmény fenntartója) részére normatív és egyéb hozzájárulást állapít meg a következők szerint:
+35. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos, területi, települési nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a köznevelési feladatot alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami köznevelési intézmény fenntartója) részére normatív és egyéb hozzájárulást állapít meg a következők szerint:
 
 - a) a nem állami köznevelési intézmény fenntartóját 2013. szeptember 30-áig – a b) pontban meghatározott 5. melléklet szerinti támogatások esetén 2013. december 31-éig – megillető normatív és egyéb hozzájárulásra a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény (a továbbiakban: 2012. évi költségvetési törvény) 2012. december 31-én hatályos 38. § (1) bekezdés a)–e) és h) pontjának, (2), (3) és (5)–(9) bekezdését a b)–s) pontban meghatározott eltéréssel kell alkalmazni azzal, hogy
   - aa) az óvodai, iskolai, kollégiumi étkeztetés támogatására a nem állami köznevelési intézmény fenntartóját az általa étkeztetett gyermekek, tanulók után a támogatás nem a 2012. évi költségvetési törvény szerint, hanem a 2. melléklet II. pont 3. b) alpontban meghatározott támogatással azonos összegben és azonos feltételek mellett illeti meg,
@@ -438,21 +438,21 @@ történik.
 
 (2) A Kormány a nem állami köznevelési intézmény 2013. október 1-jétől alkalmazandó törvényi finanszírozási szabályait 2013. szeptember 1-jéig dolgozza ki és nyújtja be az Országgyűlés részére.
 
-(3) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyház és belső egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
+(3) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, civil szervezet, országos nemzetiségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
 
 - a) a támogatás a nem állami szociális fenntartót a települési önkormányzatok 2. melléklet II. pont 3. a) alpontja és a III. pont 3. b)–l) alpontjában meghatározott támogatásaival azonos jogcímeken, összegben és feltételek mellett illeti meg,
 - b) – a hajléktalanok átmeneti intézményei kivételével – a nem állami szociális fenntartó, ha a Szoctv. 57. § (2) bekezdése és a Gyvt. 15. § (3) bekezdése a), illetve b) pontja szerinti feladatot lát el, a 8. melléklet szerinti támogatásra jogosult,
 - c) a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó gazdasági társaságot – ide nem értve a nonprofit gazdasági társaságot – és egyéni vállalkozót az a) és b) pont szerinti támogatás 30%-ának megfelelő támogatás illeti meg.
 
-(4) A Szoctv. 4. § (1) bekezdés m) pont mb) alpontjában és a Gyvt. 5. § s) pont sb) alpontjában meghatározott szociális és gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt fenntartó egyház és belső egyházi jogi személy az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény szerinti kiegészítő támogatásra jogosult. E kiegészítő támogatás mértéke a (3) bekezdés a) és b) pont szerinti támogatás 57,9%-a.
+(4) A Szoctv. 4. § (1) bekezdés m) pont mb) alpontjában és a Gyvt. 5. § s) pont sb) alpontjában meghatározott szociális és gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt fenntartó egyházi jogi személy az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény szerinti kiegészítő támogatásra jogosult. E kiegészítő támogatás mértéke a (3) bekezdés a) és b) pont szerinti támogatás 57,9%-a.
 
 (5) A nem állami szociális fenntartó a (3) bekezdés alapján megállapított támogatás teljes összegét a folyósítást követő 15 napon belül köteles annak az intézménynek átadni, amelyre tekintettel a támogatás megállapítására sor került.
 
-(6) Az egyház és a belső egyházi jogi személy a (4) bekezdés szerinti kiegészítő támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a humánszolgáltatást ellátó intézményei, illetve azok humánszolgáltatásai támogatására fordítani.
+(6) Az egyházi jogi személy a (4) bekezdés szerinti kiegészítő támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a humánszolgáltatást ellátó intézményei, illetve azok humánszolgáltatásai támogatására fordítani.
 
 (7) A (3) bekezdés szerinti támogatás és a (4) bekezdés szerinti kiegészítő támogatás elszámolása – a Kormány rendeletében meghatározott eljárási szabályok szerint – a XX. Emberi Erőforrások Minisztériuma fejezet terhére, illetve javára történik.
 
-(8) A nem állami szociális fenntartó – ha 2012. december 31-én működési engedéllyel rendelkezett és normatív állami hozzájárulásra volt jogosult – 2013. január és február hónapra a Kormány rendeletében meghatározott eljárási szabályok szerinti elszámolás mellett a 2012. évi december hónapra tekintettel folyósított normatív állami hozzájárulással azonos összegű támogatásra jogosult. Az egyház és a belső egyházi jogi személy e támogatás után járó kiegészítő támogatására a (4) és (6) bekezdést alkalmazni kell.
+(8) A nem állami szociális fenntartó – ha 2012. december 31-én működési engedéllyel rendelkezett és normatív állami hozzájárulásra volt jogosult – 2013. január és február hónapra a Kormány rendeletében meghatározott eljárási szabályok szerinti elszámolás mellett a 2012. évi december hónapra tekintettel folyósított normatív állami hozzájárulással azonos összegű támogatásra jogosult. Az egyházi jogi személy e támogatás után járó kiegészítő támogatására a (4) és (6) bekezdést alkalmazni kell.
 
 (9) Az önkormányzati tűzoltóság a fenntartásához és működéséhez az átvállalt feladattal arányos költségvetési támogatást a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 41. § (5) bekezdése és 34. § (1) és (3) bekezdése alapján a XIV. Belügyminisztérium fejezet, 20. cím, 10. Önkormányzati tűzoltóságok normatív támogatása alcím előirányzatából a következő feltételek és normatívák szerint veheti igénybe:
 
@@ -2450,7 +2450,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  | 1 |  |  |  |  |  | Az 5000 lakosnál kisebb településeken szolgálatot teljesítő egyházi személyek jövedelempótléka |  |  | 1 600,0 |  | 1 600,0 |
 |  |  | 7 |  |  |  |  |  | Egyházi épített örökség védelme és egyéb beruházások |  |  |  | 1 350,0 |  | 1 350,0 |
 |  |  | 8 |  |  |  |  |  | A Piarista Rend Magyar Tartománya fejlesztéseinek támogatása |  |  |  | 1 200,0 |  | 1 200,0 |
-|  |  | 9 |  |  |  |  |  | Egyházak közösségi célú programjainak és beruházásainak támogatása |  |  |  | 650,0 |  | 650,0 |
+|  |  | 9 |  |  |  |  |  | Egyházi közösségi célú programok és beruházások támogatása |  |  |  | 650,0 |  | 650,0 |
 |  |  | 10 |  |  |  |  |  | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése |  |  |  | 1 500,0 |  | 1 500,0 |
 |  | 56 |  |  |  |  |  | Nemzetiségi támogatások |  |  |  |  | 514,9 |  | 514,9 |
 |  | 57 |  |  |  |  |  | Országos nemzetiségi önkormányzatok és média támogatása |  |  |  |  |  |  |  |

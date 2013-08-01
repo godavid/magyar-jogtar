@@ -297,7 +297,9 @@ kapcsolatos feladatok ellátása.
 
 29. § A Hegyközségek Nemzeti Tanácsa ülésén tanácskozási joggal részt vesznek a miniszter vagy képviselője, a borászati hatóság, az országos szőlészeti-borászati oktatási, kutatási intézmények, valamint szakmai érdek-képviseleti szervezetek képviselői.
 
-30. §
+30. § (1) Az újratelepítési jogtartalékba helyezett újratelepítési jogok, mint mezőgazdasági vagyoni értékű jogok, a Magyar Állam tulajdonát képzik.
+
+(2) A jogtartalék részét képező újratelepítési jogok tekintetében a tulajdonosi jogokat a Hegyközségek Nemzeti Tanácsa gyakorolja.
 
 31. § A Hegyközségek Nemzeti Tanácsa ügyintéző szervezetet hoz létre, és arra vonatkozóan szervezeti és működési szabályzatot készít, amelyet az elnökség fogad el. Az ügyintéző szervezet vezetője a főtitkár.
 
@@ -358,7 +360,7 @@ kapcsolatos feladatok ellátása.
 
 - a) segíti a hegyközségek és a hegyközségi tanácsok tevékenységét;
 - b) összegzi és elemzi a hegyközségek adatszolgáltatását, és ennek alapján javaslatokat dolgoz ki az esetleges agrárpiaci beavatkozásra;
-- c)
+- c) vezeti az újratelepítési jogok központi nyilvántartását;
 - d) termékek piacra jutását elősegítő szolgáltatásokat szervez;
 - e) képviselheti a hegyközséget a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben;
 - f) elbírálja a hegybíró közigazgatási hatósági ügyben hozott elsőfokú határozata ellen benyújtott fellebbezést;
@@ -383,7 +385,7 @@ kapcsolatos feladatok ellátása.
 - a) eljár a névjegyzékbe való felvétellel, illetve törléssel kapcsolatos ügyekben, vezeti a hegyközségi névjegyzéket,
 - b) első fokon eljár a közigazgatási hatósági ügyekben,
 - c) az e törvényben, valamint jogszabályban meghatározott módon a hegyközség által vezetett nyilvántartásokból adatot szolgáltat,
-- d)
+- d) kiadja a telepítési és kivágási engedélyeket, vezeti az újratelepítési jogok nyilvántartását,
 - e) vezeti a gazdasági aktát, ellenőrzi a gazdasági aktában nyilvántartott területek állapotát, a nyilvántartott adatok valóságtartalmát,
 - f) ellátja a számára törvényben meghatározott feladatokat,
 - g) az engedély nélkül telepített, illetve kivágott szőlőültetvényekről értesíti a növénytermesztési hatóságot,

@@ -255,7 +255,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a Miniszterelnökség, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
 - b) a Honvédség és a rendvédelmi szervek,
 - c) a közigazgatási, bírósági és ügyészségi szervek alaprendeltetésük, valamint honvédelmi feladataik ellátásához szükséges mértékben,
-- d) az egyházak azon dolgok és jogok tekintetében, amelyek közvetlenül az egyházi, hitéleti feladatokat szolgálják,
+- d) a vallási közösségek azon dolgok és jogok tekintetében, amelyek közvetlenül a hitéleti feladatokat szolgálják,
 - e) az országgyűlési képviselettel rendelkező pártok, az országgyűlési képviseleti tevékenységhez szükséges mértékben,
 - f) az országos munkavállalói és munkaadói érdekképviseleti szervezetek országos szövetségei azon dolgok és jogok tekintetében, amelyek érdekképviseleti feladatuk ellátásához nélkülözhetetlenek,
 - g) azok a közforgalmú személyszállító, továbbá árufuvarozó szervezetek – ideértve a légi személyszállítást és légi árufuvarozást ellátó szervezeteket is –, amelyeket e tevékenység végzésére hoztak létre, vagy amelyek e tevékenységet szerződés alapján végzik, a létfontosságú közlekedés és szállítás fenntartásához szükséges mértékben, valamint a léginavigációs szolgáltatást ellátó szervezet,
@@ -319,7 +319,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - f) teljesítik gazdasági és anyagi szolgáltatási kötelezettségeiket,
 - g) közreműködnek a különleges jogrend idején kiadott rendeletek és intézkedések végrehajtásában.
 
-(4) A társadalmi szervezetek, egyházak és karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.
+(4) A társadalmi szervezetek, a vallási közösségek és a karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.
 
 ### II. Fejezet — A HONVÉDELEM IRÁNYÍTÁSA
 

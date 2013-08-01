@@ -136,7 +136,7 @@ meghatározott esetben.
 
 (2) Jogszabályban nem szereplő pályázati feltétel a munkakörhöz szükséges speciális szakismeret esetén, ahhoz kapcsolódóan írható elő; erről a pályázókat a pályázati felhívásban külön tájékoztatni kell. A pályázati feltételekben rögzíteni kell azt is, ha a pályázat e törvény 33. §-a szerint kerül kiírásra.
 
-(3) A pályázati felhívást a bíróságok hivatalos lapjában, valamint a bíróságok központi internetes honlapján bárki számára hozzáférhető módon közzé kell tenni.
+(3) A pályázati felhívást a bíróságok hivatalos lapjában, valamint a bíróságok központi internetes honlapján (a továbbiakban: központi honlap) bárki számára hozzáférhető módon közzé kell tenni.
 
 #### 7. A pályázat benyújtása
 
@@ -231,7 +231,7 @@ meghatározott esetben.
 
 (2) A bíróság elnöke a pályázókat a pályázat eredményéről írásban tájékoztatja, egyidejűleg közli a pályázó rangsorban elfoglalt helyét és pontszámát.
 
-(3) Az OBH elnöke a bíró áthelyezésére vonatkozó határozatát a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában közzéteszi.
+(3) Az OBH elnöke a bíró áthelyezésére vonatkozó határozatát a központi honlapon, továbbá a bíróságok hivatalos lapjában közzéteszi.
 
 (4) Eredményes pályázat esetén a nyertes pályázó kinevezéséről szóló határozatnak a Magyar Közlönyben történő közzétételétől, vagy a nyertes pályázó áthelyezéséről szóló határozatnak a (3) bekezdés szerinti közzétételétől számított 15 napos jogvesztő határidőn belül a pályázaton részt vett és a 13. § szerint el nem utasított pályázó a pályázat eredményével szemben kifogással élhet, ha a nyertes pályázó esetében a bíróvá történő kinevezés e törvényben meghatározott feltételei nem állnak fenn, illetve ha a nyertes pályázó a pályázati kiírásban szereplő feltételeknek nem felel meg.
 
@@ -881,7 +881,7 @@ történő rendelkezésre állás.
 
 (2) A szolgálati bíróság által megállapított ügyrendet az OBT hagyja jóvá.
 
-(3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a bíróságok központi internetes honlapján.
+(3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a központi honlapon.
 
 #### 45. A fegyelmi vétség
 
@@ -1247,7 +1247,7 @@ kezdődik.
 
 160. § Az OBH elnökének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
-161. § Ha az OBH elnökének bírói tisztsége az OBH elnöki tisztség érintése nélkül szűnik meg, az OBH elnökének tiszteletdíjára a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek a miniszter javadalmazására, juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni. Jogállására egyebekben a bírák jogállásáról és javadalmazásáról szóló törvényt kell alkalmazni azzal, hogy ha az OBH elnöke öregségi nyugdíjban részesül, tiszteletdíjának nettó összegét a részére járó nyugdíj havi nettó összegével csökkentett mértékben kell folyósítani.
+#### 161. §
 
 #### 60. Az OBH elnökhelyettesének illetménye és juttatásai
 
@@ -1649,7 +1649,7 @@ jogosult.
 
 (3) Az ülnök nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
 
-213. § (1) Az ülnököket a bíróság illetékességi területén lakóhellyel rendelkező nagykorú magyar állampolgárok, a bíróság illetékességi területén működő helyi önkormányzatok és a társadalmi szervezetek – kivéve a pártokat – jelölik.
+213. § (1) Az ülnököket a bíróság illetékességi területén lakóhellyel rendelkező nagykorú magyar állampolgárok, a bíróság illetékességi területén működő helyi önkormányzatok és az egyesületek – kivéve a pártokat – jelölik.
 
 (2) A fiatalkorúak büntető ügyeiben eljáró bíróság pedagógus ülnökeit a bíróság illetékességi területén működő alapfokú és középfokú nevelési-oktatási intézmények tantestületei jelölik.
 
@@ -1741,12 +1741,12 @@ jogosult.
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 148. §-át, 149. § (1) bekezdését, 152. §-át, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 136. § (3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (5) bekezdését, 148. § (1) bekezdés a) pontját és (2) bekezdés a) pontját, 149. §-át, 152. §-át, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
 - a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az e törvényben megállapított alapszabadságra vonatkozik,
+- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az alap- és pótszabadság egyötödére vonatkozik,
 - c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
 - d) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
 - e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
@@ -1910,7 +1910,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (7) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 
