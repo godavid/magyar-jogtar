@@ -30,7 +30,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet – a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettséggel összhangban – mindenki köteles megóvni.
 
-(2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, valamint az egyházak, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
+(2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
 
 (3) A világörökségi és a várományos területet az Egyezménnyel összhangban, annak egyetemes és nemzeti értékeit megőrizve és a köz érdekét szolgálva kell használni, bemutatni, fenntartható módon fejleszteni vagy szükség szerint helyreállítani.
 
@@ -146,7 +146,7 @@ vehető figyelembe.
 
 10. § (1) A világörökségi helyszínek által hordozott kiemelkedő egyetemes érték megőrzését szolgáló kezelés 7. §-ban foglalt feladatainak világörökségi kezelési terv alapján történő ellátására – amennyiben azt külön jogszabály nem utalja más szerv hatáskörébe – helyszínenként egy világörökségi gondnokság működik.
 
-(2) A világörökségi gondnokság olyan, az adott világörökségi helyszín kiemelkedő egyetemes értékének jellegéhez kötődő tevékenységű, jogi személyiséggel rendelkező szervezet – így különösen költségvetési szerv, önkormányzat, egyházi jogi személy, egyesület, alapítvány, nonprofit gazdasági társaság –, amelynek tevékenysége kiterjed a világörökségi érdekek képviseletére, a kiemelkedő egyetemes érték védelmére, valamint működési területe magában foglalja a világörökségi területet vagy annak jelentős részét.
+(2) A világörökségi gondnokság olyan, az adott világörökségi helyszín kiemelkedő egyetemes értékének jellegéhez kötődő tevékenységű, jogi személyiséggel rendelkező szervezet – így különösen költségvetési szerv, helyi önkormányzat, egyházi jogi személy, egyesület, alapítvány, nonprofit gazdasági társaság –, amelynek tevékenysége kiterjed a világörökségi érdekek képviseletére, a kiemelkedő egyetemes érték védelmére, valamint működési területe magában foglalja a világörökségi területet vagy annak jelentős részét.
 
 (3) A kultúráért felelős miniszter a világörökségi gondnokságot világörökségi helyszínenként – a (4) bekezdésben meghatározott kivétellel – a (2) bekezdésben foglaltak figyelembevételével választja ki. A világörökségi gondnokság megbízása visszavonásig, de legfeljebb hét évre szól, amely meghosszabbítható.
 

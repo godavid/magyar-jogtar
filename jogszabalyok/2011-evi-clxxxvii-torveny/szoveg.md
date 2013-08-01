@@ -679,7 +679,7 @@ kezeli.
 - a) a köznevelési intézmények kivételével az Egészségügy, az Egészségügyi technika, a Szociális, a Pedagógia, a Képző- és iparművészet, a Hang-, film és színháztechnika ágazatba tartozó, valamint a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítések megszerzésére irányuló gyakorlati képzést szervező
   - aa) költségvetési szervként működő intézmény,
   - ab) alapítvány, egyesület, egyházi jogi személy,
-  - ac) alapítvány, egyesület, egyházi jogi személy fenntartásában működő intézmény, továbbá
+  - ac) ab) alpontban meghatározottak fenntartásában működő intézmény, továbbá
 - b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
@@ -815,7 +815,7 @@ kezeli.
 
 #### 32. Az együttműködési megállapodás feltételei
 
-56. § (1) A tanuló gyakorlati képzése a gyakorlati képzést folytató és szervező szakképző iskola és a gyakorlati képzés feltételeivel részben vagy egészben rendelkező szakképzési hozzájárulásra kötelezett gazdálkodó szervezet vagy költségvetési szervként működő intézmény, alapítvány, egyesület, egyházi jogi személy, alapítvány, egyesület, egyházi jogi személy fenntartásában működő intézmény, őstermelő közötti együttműködési megállapodás alapján abban az esetben folytatható, ha
+56. § (1) A tanuló gyakorlati képzése a gyakorlati képzést folytató és szervező szakképző iskola és a gyakorlati képzés feltételeivel részben vagy egészben rendelkező szakképzési hozzájárulásra kötelezett gazdálkodó szervezet vagy a 43. § (2) bekezdés a) pont aa)–ac) alpontjában meghatározott szerv, szervezet, őstermelő közötti együttműködési megállapodás alapján abban az esetben folytatható, ha
 
 - a) a szakmai és vizsgakövetelményben a gyakorlati képzésre előírt képzési idő negyven százaléknál kevesebb,
 - b) a gyakorlati képzés szervezője a szakképző iskola, és a gyakorlati képzést folytató szervezet csak az összefüggő szakmai gyakorlatot szervezi meg,

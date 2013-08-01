@@ -14,7 +14,7 @@ a közalkalmazottak jogállásáról
 
 (4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
-(5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. §, az 53. § (1) bekezdés, az 53/A–53/B. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
+(5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
 
 (6) E törvény alkalmazásában fenntartó a munkáltató alapító szerve vagy az a szerv, amelyre e jogot átruházták, illetve a jogszabály által kijelölt szerv vagy személy. A munkáltató fenntartójának kell tekinteni az önkormányzati társulást és azt az önkormányzatot is, amely megállapodás alapján gyakorolja a fenntartói jogokat.
 
@@ -32,7 +32,10 @@ a közalkalmazottak jogállásáról
 
 (4) Amennyiben e törvény közalkalmazotti jogviszonyra vonatkozó szabályt említ, ezen az (1)—(3) bekezdésben foglaltakat kell érteni.
 
-3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül a 13. § nem alkalmazható, a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása közérdekű adatnak minősül, azt bárki megismerheti.
+3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül
+
+- a) a 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni, valamint a 13. § nem alkalmazható,
+- b) a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása – a nemzetbiztonsági szolgálatok által foglalkoztatott közalkalmazottakat kivéve – közérdekű adatnak minősül, azt bárki megismerheti.
 
 (2) Az Mt. 198–207. §, 213. §-a és 228. §-a a közalkalmazotti jogviszony tekintetében nem alkalmazható. Az Mt. 208–211. §-a csak a 22/B. § szerinti magasabb vezetőre alkalmazható.
 
@@ -402,6 +405,10 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 
 (3) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató személyében bekövetkező változásról szóló VI. fejezete megfelelően abban az esetben alkalmazható, ha az átadó és az átvevő munkáltató e törvény hatálya alá tartozik.
 
+(4) A közalkalmazotti jogviszony tekintetében az Mt. 40. § (1) bekezdése azzal az eltéréssel alkalmazandó, hogy a 33. § (2)–(3) bekezdésben és a 37. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni, ha a közalkalmazott közalkalmazotti jogviszonyát lemondással arra hivatkozva szünteti meg, hogy a munkáltató személyében bekövetkezett változás miatt a rá irányadó munkafeltételek lényeges és hátrányos megváltozása következtében a közalkalmazotti jogviszony fenntartása számára aránytalan sérelemmel járna vagy lehetetlenné válna.
+
+(5) A közalkalmazotti jogviszony tekintetében az Mt. 40. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott az (4) bekezdés szerinti lemondást – a 27. § (1) bekezdésében foglalt szabályok alkalmazásával – köteles megindokolni.
+
 ### II. Fejezet — A közalkalmazotti jogviszony megszűnése
 
 25. § (1) A közalkalmazotti jogviszony megszűnik:
@@ -426,7 +433,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
   - fc) a 44. § (4) bekezdése szerint, vagy
   - fd) a (3) bekezdés szerint, valamint
 - g) rendkívüli felmentéssel
-  - ga) az Mt. 78. §-a szerinti esetben, vagy
+  - ga)
   - gb)
 - h)
 
@@ -544,14 +551,12 @@ alakul át.
 
 (4) Rendkívüli lemondás esetén — e törvényben előírt kivételektől eltekintve — a lemondás szabályai nem alkalmazhatók.
 
-30. § (1) A munkáltató a közalkalmazotti jogviszonyt – a 30/A–30/B. §-ban foglalt korlátozással – felmentéssel akkor szüntetheti meg, ha
+30. § (1) A munkáltató a közalkalmazotti jogviszonyt – a 30/A–30/D. §-ban és a 32. §-ban foglalt korlátozással – felmentéssel akkor szüntetheti meg, ha
 
 - a) megszűnt a munkáltatónak az a tevékenysége, amelyben a közalkalmazottat foglalkoztatták;
 - b) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, a központi költségvetési szerv vezetője vagy az önkormányzati képviselő-testület döntése alapján a munkáltatónál létszámcsökkentést, illetve átszervezést kell végrehajtani, és emiatt a közalkalmazott további foglalkoztatására nincs lehetőség;
 - c) a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná vált vagy munkáját nem végzi megfelelően;
-- d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (Mt. 294. § (1) bekezdés g) pont);
-- e)
-- f)
+- d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont].
 
 (2) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie, és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -638,7 +643,7 @@ az erről szóló tájékoztatás közlésének időpontja irányadó a felment�
 - b) ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig, valamint
 - c) ha a közalkalmazott házastársa sorkatonai, illetve polgári szolgálatot teljesít.
 
-(2) Ha a 30/A. § (1) bekezdése szerinti munkáltatónál van olyan munkakör, amelynek ellátására az (1) bekezdésben említett közalkalmazott alkalmas, a közalkalmazotti jogviszonyt mindaddig nem lehet felmentéssel megszüntetni, amíg a közalkalmazott ilyen munkahelyre áthelyezhető, feltéve, hogy ezt elvállalja. Nem terheli ez a kötelezettség a munkáltatót, ha a felmentés indoka – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdés c)–f) pontján alapul. A munkáltató munkakör-felajánlásával kapcsolatban a 30/A. § és a 30/C. § szerint köteles eljárni.
+(2) Ha a 30/A. § (1) bekezdése szerinti munkáltatónál van olyan munkakör, amelynek ellátására az (1) bekezdésben említett közalkalmazott alkalmas, a közalkalmazotti jogviszonyt mindaddig nem lehet felmentéssel megszüntetni, amíg a közalkalmazott ilyen munkahelyre áthelyezhető, feltéve, hogy ezt elvállalja. Nem terheli ez a kötelezettség a munkáltatót, ha a felmentés indoka – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdés c)–d) pontján és (4) bekezdésén alapul. A munkáltató munkakör-felajánlásával kapcsolatban a 30/A. § és a 30/C. § szerint köteles eljárni.
 
 33. § (1) Felmentés esetén a felmentési idő legalább hatvan nap, de a nyolc hónapot nem haladhatja meg. Ettől eltérően, ha a felmentés – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdésének c) pontján alapul, a felmentési idő harminc nap.
 
@@ -659,7 +664,16 @@ Kollektív szerződés 8 hónapnál hosszabb felmentési időt nem állapíthat 
 
 (4)
 
-33/A. §
+33/A. § (1) A munkáltató a közalkalmazotti jogviszonyt rendkívüli felmentéssel megszüntetheti, ha a közalkalmazott
+
+- a) a közalkalmazotti jogviszonyból eredő lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal jelentős mértékben megszegi, vagy
+- b) olyan magatartást tanúsít, amely a közalkalmazotti jogviszony fenntartását lehetetlenné teszi.
+
+(2) A munkáltató köteles a rendkívüli felmentést megindokolni. Az indokolásból a rendkívüli felmentés okának világosan ki kell tűnnie. Vita esetén a rendkívüli felmentés indokának valóságát és okszerűségét a munkáltatónak kell bizonyítania.
+
+(3) A rendkívüli felmentés jogát az annak alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkeztétől számított egy éven belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig lehet gyakorolni. A tudomásszerzés időpontjának – ha a rendkívüli felmentés jogát testület jogosult gyakorolni – azt kell tekinteni, amikor a rendkívüli felmentés okáról a testületet – mint a munkáltatói jogkört gyakorló szervet – tájékoztatják.
+
+(4) Rendkívüli felmentés esetén – az e törvényben meghatározott kivételektől eltekintve – a felmentés szabályai nem alkalmazhatók.
 
 34–35. §
 
@@ -692,7 +706,7 @@ Kollektív szerződés 8 hónapnál hosszabb felmentési időt nem állapíthat 
 
 (3) Ha a közalkalmazottal ugyanazon munkáltató legalább két alkalommal határozott időre szóló közalkalmazotti jogviszonyt létesít, és a korábbi közalkalmazotti jogviszony megszűnése, valamint az újabb közalkalmazotti jogviszony létesítésének időpontja között hat hónapnál hosszabb idő nem telt el, a közalkalmazott végkielégítésre jogosult, feltéve, hogy közalkalmazotti jogviszonya a 27. § (2) bekezdés szerinti eljárásban, a 30. § (1) bekezdés a) vagy b) pontjában foglalt okok alapján kerül megszüntetésre, vagy a 25. § (1) bekezdés a) pontja szerint szűnik meg. Kettőnél több határozott idejű közalkalmazotti jogviszony esetén a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani. Ha az első mondatban szereplő okokra alapított megszüntetés vagy megszűnés alapján a közalkalmazott végkielégítésre vált jogosulttá, az azonos felek közötti újabb határozott idejű kinevezés esetén a végkielégítésre való jogosultság megállapításakor figyelmen kívül kell hagyni azon közalkalmazotti jogviszonyok időtartamát, amelyekre tekintettel a korábbi végkielégítés kifizetése megtörtént.
 
-(4) A végkielégítésre való jogosultság feltétele, hogy a közalkalmazott a (6) bekezdésben meghatározott időtartamú közalkalmazotti jogviszonnyal rendelkezzen. A közalkalmazott végkielégítésre való jogosultságának megállapításánál — az áthelyezést kivéve — nem lehet beszámítani a korábbi közalkalmazotti jogviszonyban töltött időt. A végkielégítésre való jogosultság szempontjából emellett figyelmen kívül kell hagyni a 22. § (8) bekezdés b) és c) pontjában meghatározott időtartamot is, kivéve a közeli hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát.
+(4) A végkielégítésre való jogosultság feltétele, hogy a közalkalmazott a (6) bekezdésben meghatározott időtartamú közalkalmazotti jogviszonnyal rendelkezzen. A közalkalmazott végkielégítésre való jogosultságának megállapításánál — az áthelyezést kivéve — nem lehet beszámítani a korábbi közalkalmazotti jogviszonyban töltött időt. A végkielégítésre való jogosultság szempontjából emellett figyelmen kívül kell hagyni a 22. § (8) bekezdés b) és c) pontjában meghatározott időtartamot is, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása céljából, továbbá a tizenkét éven aluli gyermek betegsége esetén az otthoni ápolás érdekében igénybe vett fizetés nélküli szabadság időtartamát.
 
 (5) A végkielégítésre való jogosultság megállapításánál figyelembe kell venni
 
@@ -738,7 +752,7 @@ távolléti díjának megfelelő összeg.
 
 37/B. §
 
-38. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–70. §, a 77. §, a 79. § és a 85. § nem alkalmazható.
+38. § (1) A közalkalmazotti jogviszony tekintetében az Mt.–nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–70. §, a 77–79. § és a 85. § nem alkalmazható.
 
 (2) Az Mt. 71–76. §-át azzal az eltéréssel kell alkalmazni, hogy
 
@@ -749,6 +763,8 @@ távolléti díjának megfelelő összeg.
 (3) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálatoknál fennálló közalkalmazotti jogviszony tekintetében az Mt. 71–76. §-ának rendelkezései nem alkalmazhatók.
 
 (4) A létszámcsökkentést eredményező döntést megelőzően a miniszter a 6. § (6) bekezdése szerinti ágazati (alágazati) érdekegyeztető fórumban, ennek hiányában a KOMT-ban, illetőleg az önkormányzat az önkormányzati érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
+
+(5) A közalkalmazotti jogviszony tekintetében az Mt. 83. §-át azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott kérelmére – az Mt. 82. § (1) bekezdésében meghatározott jogkövetkezményen túlmenően – a bíróság a közalkalmazotti jogviszonyt abban az esetben is helyreállítja, ha a munkáltató, vagy annak fenntartója megsérti a felmentési korlátozásokra vonatkozó rendelkezéseket [30/A–30/D. §; 32. §].
 
 38/A. § (1)–(2)
 
@@ -836,7 +852,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2) A hozzájárulás megtagadásával szemben munkaügyi jogvita nem kezdeményezhető.
 
-43/A. § (1) A 41–43. §-ban foglaltakon túlmenően, a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó egyes – jogszabály szerinti – költségvetési szerveknél nem bízható meg magasabb vezető, illetőleg vezető beosztás ellátásával az, aki – illetőleg, akinek közeli hozzátartozója – a szerv fő tevékenységével azonos vállalkozói tevékenységet végez, az ilyen tevékenységet végző és az intézménnyel gazdasági kapcsolatban álló gazdasági társasággal, illetőleg munkáltatóval tagsági viszonyban, munkaviszonyban, további munkaviszonyban, illetőleg munkavégzésre irányuló egyéb jogviszonyban áll.
+43/A. § (1) A 41–43. §-ban foglaltakon túlmenően, a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó egyes – jogszabály szerinti – költségvetési szerveknél nem bízható meg magasabb vezető, illetőleg vezető beosztás ellátásával az, aki – illetőleg, akinek hozzátartozója – a szerv fő tevékenységével azonos vállalkozói tevékenységet végez, az ilyen tevékenységet végző és az intézménnyel gazdasági kapcsolatban álló gazdasági társasággal, illetőleg munkáltatóval tagsági viszonyban, munkaviszonyban, további munkaviszonyban, illetőleg munkavégzésre irányuló egyéb jogviszonyban áll.
 
 (2) Az (1) bekezdésben meghatározott munkáltatónál megbízott magasabb vezető és vezető munkavégzésre irányuló további jogviszonyt nem létesíthet. Nem vonatkozik ez a tilalom arra a jogviszonyra, amelyet tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységre létesítettek.
 
@@ -925,10 +941,20 @@ alapszabadság illeti meg.
 
 58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
 
-59. § A közalkalmazotti jogviszony tekintetében
+59. § (1) A közalkalmazotti jogviszony tekintetében
 
-- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, 116–117. §, 119. § (2) bekezdés és a 135. § (4)–(6) bekezdés nem alkalmazható;
+- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés, a 116–117. §, a 119. § (2) bekezdés, a 123. § (6) bekezdés és a 135. § (4)–(6) bekezdés nem alkalmazható;
 - b) jogszabály vagy kollektív szerződés – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a közalkalmazott javára eltérhet.
+
+(2) A közalkalmazotti jogviszony tekintetében
+
+- a) az Mt. 95. § (2) bekezdés c) pontjában és (3) bekezdés c) pontjában foglalt, a munkáltató 79. § (1) bekezdése szerinti azonnali hatályú felmondásán
+  - aa) a munkáltató általi próbaidő alatti azonnali hatályú megszüntetést, valamint
+  - ab) a 27. § (2) bekezdése szerinti – ide nem értve a közalkalmazott szakmai alkalmatlanságával vagy nem megfelelő munkavégzésével indokolt – azonnali hatályú megszüntetést,
+- b) az Mt. 95. § (2) bekezdés d) pontjában és (3) bekezdés d) pontjában foglalt, a munkáltató működésével összefüggő okkal indokolt felmondásán a 30. § (1) bekezdés a) vagy b) pontjával indokolt felmentést,
+- c) az Mt. 95. § (4) bekezdés d) pontjában foglalt, a munkáltatónak a munkavállaló munkaviszonnyal kapcsolatos magatartásával, valamint e) pontjában foglalt, nem egészségi okkal összefüggő képességével indokolt felmondásán a 27. § (2) bekezdés és a 30. § (1) bekezdés c) pontja szerinti, a közalkalmazott tartós szakmai alkalmatlanságával vagy nem megfelelő munkavégzésével indokolt azonnali hatályú megszüntetést vagy felmentést kell érteni.
+
+(3) Az Mt. 95. § (4) bekezdését alkalmazni kell a 30. § (4) bekezdése szerinti felmentés esetén is.
 
 ### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
 
@@ -965,9 +991,11 @@ alapszabadság illeti meg.
   - ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és a felsőoktatásról szóló törvény szerinti tudományos fokozat,
   - jb) a Magyar Tudományos Akadémia hazai rendes és levelező tagsága, az akadémiai doktori cím.
 
-(2) Az (1) bekezdésben említett iskolai végzettséget, illetve szakképesítést, szakképzettséget a közoktatási, a szakképzési és felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni.
+(2) Az (1) bekezdésben említett iskolai végzettséget, illetve szakképesítést, szakképzettséget a köznevelési, a szakképzési és a felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni. Ennek során a részszakképesítés és a szakképesítés-elágazás is szakképesítésnek, a szakképesítés-ráépülés pedig szakképesítésre épülő szakképesítésnek tekintendő.
 
 (3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 66. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+
+(3a) Azon szakképesítés esetében, ahol a szakképesítés szakmai és vizsgakövetelménye a szakképzésben való részvétel feltételeként az iskolai végzettség megléte helyett a bemeneti kompetenciák meglétét is elfogadja, a szakképesítéssel rendelkező személyt a besorolás szempontjából minden esetben úgy kell tekinteni, mintha rendelkezne az előírt iskolai végzettséggel is.
 
 (4) Végrehajtási rendelet rendelkezhet az (1) és (3) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni. A felmentés időtartamának eredménytelen eltelte esetén a közalkalmazotti jogviszony a törvény erejénél fogva megszűnik.
 
@@ -1023,7 +1051,12 @@ alapszabadság illeti meg.
 
 (8) A (7) bekezdéstől eltérően, a közalkalmazotti jogviszony létesítésekor a garantált illetménynél magasabb összegű illetmény megállapítható, azzal, hogy – az egy évet meg nem haladó időtartamú határozott idejű közalkalmazotti jogviszony kivételével – egy év elteltével a közalkalmazottat minősíteni kell. Ha ekkor a közalkalmazott alkalmatlan vagy kevéssé alkalmas minősítést kapott, illetményét – e törvény erejénél fogva a besorolása szerinti – garantált mértékre kell csökkenteni.
 
-(9)
+(9) A közalkalmazottat garantált illetményként legalább
+
+- a) a kötelező legkisebb munkabérnek,
+- b) középfokú vagy magasabb iskolai végzettséget, illetve középfokú vagy magasabb szakképzettséget igénylő munkakör betöltése esetén a garantált bérminimumnak
+
+megfelelő összeg illeti meg.
 
 (10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
 
@@ -1115,7 +1148,7 @@ alapszabadság illeti meg.
 - b) harminc év közalkalmazotti jogviszony esetén háromhavi,
 - c) negyven év közalkalmazotti jogviszony esetén öthavi illetményének megfelelő összeg.
 
-(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d) vagy f) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
+(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
 
 (4) Ha a közalkalmazott közalkalmazotti jogviszonya – a 25. § (2) bekezdés b) pont 1. alpontja szerinti áthelyezés vagy g) pont ga) alpontja szerinti rendkívüli felmentés kivételével – megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont] vagy felmentésére a 30. § (4) bekezdése alapján kerül sor, továbbá legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik, a negyvenéves közalkalmazotti jogviszonnyal járó jubileumi jutalmat részére a jogviszony megszűnésekor ki kell fizetni.
 
@@ -1193,27 +1226,26 @@ alapszabadság illeti meg.
 
 79/E. § A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
 
-80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136. § (1)–(2) bekezdés, a 137–138. §, 145. §, 150. §, 156. §, 157. § (2) bekezdés, 159. § és a 165. § nem alkalmazható.
+80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136. § (1)–(2) bekezdés, a 137–138. §, a 145. §, a 150. §, a 151. § (5) bekezdés, a 156. § (1) bekezdésének b) pontja, a 157. § (2) bekezdés, a 159. § és a 165. § nem alkalmazható.
 
-(2) Az Mt. 148–149., valamint 151–152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díjat a 70–75. § szerinti bérpótlék, valamint a 77. § (1) bekezdése szerinti keresetkiegészítés figyelembevételével kell megállapítani.
+(2) Az Mt. 148–149. §-át, valamint 151. § (1)–(4) bekezdését és 152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díj megállapításakor a 70–75. § szerinti illetménypótlékot, valamint a 77. § (1) bekezdése szerinti havi rendszerességgel fizetett keresetkiegészítést is figyelembe kell venni.
+
+(3) A távolléti díj megállapításakor a 70–75. § szerinti illetménypótlékok közül azokat, amelyek a közalkalmazottat a munkavégzés esetén
+
+- a) folyamatosan megilletik, az Mt. 149. §-ának megfelelően, az alapbérre,
+- b) folyamatosan nem illetik meg, az Mt. 151. § (4) bekezdésének megfelelően, a bérpótlékra vonatkozó szabályok szerint kell figyelembe venni.
+
+(4) A távolléti díj megállapításakor a 77. § (1) bekezdés szerinti, havi rendszerességgel fizetett keresetkiegészítést a (3) bekezdés a) pontjában foglaltak szerint kell figyelembe venni.
 
 ### VI. Fejezet — A közalkalmazott és a munkáltató kártérítési felelőssége
 
-81. § Az Mt. 179. § (3) bekezdése alkalmazásában súlyosan gondatlannak minősül a károkozás különösen, ha
-
-- a) a közalkalmazott
-  - aa) a munkáltató gazdálkodására vonatkozó szabály – szándékosságnak nem minősülő – súlyos megsértésével, vagy
-  - ab) az ellenőrzési kötelezettség elmulasztásával, illetve hiányos teljesítésével
-
-okozta a kárt, vagy
-
-- b) a kár olyan – jogszabályba ütköző – utasítás teljesítéséből keletkezett, amelynek várható következményeire az utasított közalkalmazott előzőleg a figyelmet felhívta.
+81. §
 
 81/A. §
 
 82. § (1) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott kárért teljes mértékben felel.
 
-(2) Amennyiben a magasabb vezető a közalkalmazotti jogviszonyát jogellenesen szünteti meg, hathavi távolléti díjával felel.
+(2) A magasabb vezető, ha közalkalmazotti jogviszonyát jogellenesen szüntette meg – az Mt. 84. § (1)–(2) bekezdésében foglaltaktól eltérően – hat havi távolléti díjával felel.
 
 83. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató és a munkavállaló kártérítési felelősségére szóló rendelkezései (XIII. és XIV. fejezet) közül a 178. § és a 191. § nem alkalmazható.
 
@@ -1285,7 +1317,7 @@ okozta a kárt, vagy
   - al)
 - b) a szociális, valamint a gyermekjóléti és gyermekvédelmi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - ba) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-  - bb)
+  - bb) az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés szabályait,
   - bc) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
   - bd) munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
   - be) pótszabadságra jogosult oktató, nevelő munkát végzők körét,
@@ -1335,7 +1367,7 @@ okozta a kárt, vagy
 
 - a) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
 - b) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
-- c) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+- c) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 - d) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat rendeletben határozza meg.
 
 (4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a Katonai Nemzetbiztonsági Szolgálat irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáérta b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
@@ -1366,9 +1398,9 @@ okozta a kárt, vagy
 - n) a honvédelemért, a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, a szociál- és családpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 - o) a honvédelemért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 - p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízügyért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
-- q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+- q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 - r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
-- s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
+- s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
 - t)
 - u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 - v) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak jutalmazására vonatkozó részletes szabályokat
@@ -1381,14 +1413,14 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 - a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
   - aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
-  - ab) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+  - ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
   - ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
 - b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást.
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 
 - a) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-- b) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+- b) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 - c) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat.
 
 (9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó szervek tekintetében rendeletben határozza meg a külföldi kiküldetést teljesítő közalkalmazottak pénzbeni járandóságaira és a kiküldetésre vonatkozó részletes szabályokat.
@@ -1397,16 +1429,22 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 85/A. § Eltérő rendelkezés hiányában, ahol jogszabály
 
-- a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt;
-- b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt;
-- c) munkavállalót említ, azon közalkalmazottat;
-- d) munkaszerződést említ, azon kinevezést;
-- e) rendes felmondást említ, azon felmentést;
-- f) munkavégzés alóli felmentést említ, azon munkavégzés alóli mentesítést;
-- g) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti tanácsot, illetve közalkalmazotti képviselőt;
-- h) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, egyhavi különjuttatást, keresetkiegészítést és jutalmat;
-- i) alapbért említ, azon illetményt;
-- j) bérpótlékot említ, azon illetménypótlékot
+- a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt,
+- b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt,
+- c) munkavállalót említ, azon közalkalmazottat,
+- d) munkaszerződést említ, azon kinevezést,
+- e) munkáltatói felmondást említ, azon felmentést,
+- f) az Mt. 78. §-a szerinti
+  - fa) munkáltatói azonnali hatályú felmondást említ, azon rendkívüli felmentést,
+  - fb) munkavállalói azonnali hatályú felmondást említ, azon rendkívüli lemondást,
+- g) az Mt. 79. § (1) bekezdés a) pontja szerinti azonnali hatályú felmondást említ, azon a 21/A. § (3) bekezdése szerinti azonnali hatályú megszüntetést,
+- h) az Mt. 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmentést említ, azon a 27. § (2) bekezdése szerinti azonnali hatályú megszüntetést,
+- i) munkavállalói felmondást említ, azon lemondást,
+- j) munkavégzés alóli felmentést említ, azon munkavégzés alóli mentesítést,
+- k) üzemi tanácsot, illetve üzemi megbízottat említ, azon közalkalmazotti tanácsot, illetve közalkalmazotti képviselőt,
+- l) munkabért említ, azon illetményt, illetménypótlékot, illetménykiegészítést, keresetkiegészítést és jutalmat,
+- m) alapbért említ, azon illetményt,
+- n) bérpótlékot említ, azon illetménypótlékot
 
 is érteni kell.
 
@@ -1468,6 +1506,12 @@ eltöltött időt.
 (3) Az Mth. hatálybalépésekor folyamatban lévő fegyelmi eljárás megszűnik.
 
 (4) Az Mth. hatálybalépését megelőzően elkövetett, fegyelmi eljárás tárgyát képező kötelezettségszegés miatt – feltéve, hogy az Mt. 78. § (2) bekezdésében megjelölt határidő még nem telt el – az Mt. 56. § (4) bekezdés szerinti intézkedés vagy azonnali hatályú felmentés 2012. július 15. napjáig közölhető.
+
+91/A. § (1) Az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvény (a továbbiakban: Módtv.) 1. § (5) bekezdésével megállapított 33/A. §-ban foglaltakat a Módtv. hatálybalépését követően közölt rendkívüli felmentésre kell alkalmazni.
+
+(2) A Módtv. 1. § (7) bekezdésével megállapított 38. § (5) bekezdésben foglaltakat a Módtv. hatálybalépése után közölt munkáltatói közalkalmazotti jogviszony-megszüntetés jogellenességének megállapítása iránt indított munkaügyi perben kell alkalmazni.
+
+(3) A Módtv. 1. § (13) bekezdésével megállapított – 80. § (2)–(4) bekezdésében foglaltakat a Módtv. hatálybalépése után esedékessé váló távolléti díjra kell alkalmazni.
 
 92. § (1)
 

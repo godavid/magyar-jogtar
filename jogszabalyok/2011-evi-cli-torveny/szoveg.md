@@ -2,7 +2,7 @@
 
 az Alkotmánybíróságról
 
-Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptörvényben biztosított jogok védelme, a jogrendszer belső összhangjának megőrzése, valamint a hatalommegosztás elvének érvényre juttatása érdekében, az Alaptörvény védelmének legfőbb szerveként működő Alkotmánybíróság hatáskörének, szervezetének, működésének szabályozásáról – az Alaptörvény végrehajtására, az Alaptörvény 24. cikk (5) bekezdése alapján – a következő törvényt alkotja:
+Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptörvényben biztosított jogok védelme, a jogrendszer belső összhangjának megőrzése, valamint a hatalommegosztás elvének érvényre juttatása érdekében, az Alaptörvény védelmének legfőbb szerveként működő Alkotmánybíróság hatáskörének, szervezetének, működésének szabályozásáról – az Alaptörvény végrehajtására, az Alaptörvény 24. cikk (9) bekezdése alapján – a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK, AZ ALKOTMÁNYBÍRÓSÁG JOGÁLLÁSA ÉS SZERVEZETE
 
@@ -95,7 +95,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - a) halállal,
 - b) lemondással,
 - c) összeférhetetlenség miatt a megbízatás megszűnésének megállapításával,
-- d) ha az országgyűlési képviselők választásán már nem választható,
+- d) ha az Alkotmánybíróság tagja az országgyűlési képviselők választásán már nem választható,
 - e) felmentéssel vagy
 - f) kizárással.
 
@@ -222,11 +222,19 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 23. § (1) Az Alkotmánybíróság az Alaptörvény 24. cikk (2) bekezdés a) pontja alapján az elfogadott, de még ki nem hirdetett törvény indítványban meghatározott rendelkezéseinek az Alaptörvénnyel való összhangját az Alaptörvény 6. cikk (2) és (4) bekezdéseiben meghatározott indítványozásra jogosult által benyújtott, határozott kérelmet tartalmazó indítvány alapján vizsgálja.
 
-(2) Az indítvány alapján az elnök gondoskodik az ügy törvényi határidő betartását szolgáló időben történő napirendre vételéről.
+(2) Az indítvány alapján az elnök gondoskodik az ügynek az Alaptörvény 6. cikk (6) és (8) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
 
-(3) Az Alkotmánybíróság (1) bekezdésben megjelölt hatásköre kiterjed a nemzetközi szerződés egyes rendelkezései Alaptörvénnyel való összhangjának előzetes vizsgálatára.
+(3) Az Alkotmánybíróság hatásköre – az (1) bekezdésben foglaltakat nem érintve – kiterjed a nemzetközi szerződés vagy annak valamely rendelkezése, valamint az Alaptörvény 5. cikk (7) bekezdése alapján elfogadott normatív határozat Alaptörvénnyel való összhangjának előzetes vizsgálatára.
 
 (4) A nemzetközi szerződés kötelező hatályának köztársasági elnök általi elismerését megelőzően a köztársasági elnök, illetve ha a nemzetközi szerződést kormányrendelet hirdeti ki, a nemzetközi szerződés kötelező hatályának elismerését megelőzően a Kormány kérheti az Alkotmánybíróságtól a nemzetközi szerződés vagy annak valamely rendelkezése Alaptörvénnyel való összhangjának előzetes vizsgálatát.
+
+(5) A (3) bekezdés szerinti normatív határozat elfogadására irányuló javaslat kezdeményezője, a Kormány, valamint az Országgyűlés elnöke indítványára az Országgyűlés az Alaptörvény 6. cikk (2) bekezdésében meghatározott eljárás szerint kérheti az Alkotmánybíróságtól a határozat Alaptörvénnyel való összhangjának előzetes vizsgálatát. A (3) bekezdés szerinti normatív határozat vizsgálata során az eljárásra és a jogkövetkezményekre a jogszabályok felülvizsgálatára vonatkozó szabályokat kell alkalmazni.
+
+(6) Az Alkotmánybíróság az (5) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Az Országgyűlés elnöke és jegyzői a (3) bekezdés szerinti normatív határozatot csak akkor írják alá, ha az Alkotmánybíróság nem állapít meg alaptörvény-ellenességet.
+
+23/A. § (1) Az Alkotmánybíróság az Alaptörvény S) cikk (3) bekezdése és 24. cikk (5) bekezdése alapján az elfogadott, de még ki nem hirdetett Alaptörvény vagy Alaptörvény-módosítás megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartását az Alaptörvény S) cikk (3) bekezdése és 24. cikk (5) bekezdés a) pontjában meghatározott indítványozásra jogosult által benyújtott, határozott kérelmet tartalmazó indítvány alapján vizsgálja.
+
+(2) Az indítvány alapján az elnök gondoskodik az ügynek az Alaptörvény 24. cikk (6) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
 
 #### 7. Az Alaptörvénnyel való összhang utólagos vizsgálata (utólagos normakontroll eljárás)
 
@@ -236,9 +244,15 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Nincs helye az Alkotmánybíróság utólagos normakontroll eljárásának, ha az indítvány az Alkotmánybíróság által érdemben már elbírált jogszabály vagy jogszabályi rendelkezés vizsgálatára irányul, és az indítványozó az Alaptörvénynek ugyanarra a rendelkezésére, illetve elvére (értékére), és azonos alkotmányos összefüggésre hivatkozva kéri az alaptörvény-ellenességet megállapítani (ítélt dolog), kivéve, ha az Alkotmánybíróság döntése óta a körülmények alapvetően megváltoztak.
 
+24/A. § (1) Az Alkotmánybíróság az Alaptörvény 24. cikk (5) bekezdése alapján a 24. cikk (5) bekezdés b) pontjában meghatározott indítványozásra jogosult által benyújtott, határozott kérelmet tartalmazó indítvány alapján vizsgálja felül az Alaptörvényt, illetve az Alaptörvény módosítását a megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények tekintetében.
+
+(2) Az indítvány alapján az elnök gondoskodik az ügynek az Alaptörvény 24. cikk (6) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
+
 #### 8. Bírói kezdeményezés egyedi normakontroll eljárás iránt
 
-25. § Ha a bírónak az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította, – a bírósági eljárás felfüggesztése mellett – az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál kezdeményezi a jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának kizárását.
+25. § (1) Ha a bírónak az előtte folyamatban levő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította, – a bírósági eljárás felfüggesztése mellett – az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál kezdeményezi a jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának kizárását.
+
+(2) Az indítvány alapján az elnök gondoskodik az ügynek az Alaptörvény 24. cikk (2) bekezdés b) pontja szerinti határidő betartását szolgáló időben történő napirendre vételéről.
 
 #### 9. Az alkotmányjogi panasz
 
@@ -247,7 +261,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - a) az Alaptörvényben biztosított jogának sérelme következett be, és
 - b) jogorvoslati lehetőségeit már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
 
-(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető, ha
+(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető az Alaptörvény 24. cikk (2) bekezdés c) pontja, illetve az Alaptörvény VII. cikk (2) bekezdése alapján, ha
 
 - a) az alaptörvény-ellenes jogszabály rendelkezésének alkalmazása vagy hatályosulása folytán közvetlenül, bírói döntés nélkül következett be a jogsérelem, és
 - b) nincs a jogsérelem orvoslására szolgáló jogorvoslati eljárás, vagy a jogorvoslati lehetőségeit az indítványozó már kimerítette.
@@ -293,13 +307,19 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Az Alkotmánybíróság nem vizsgálja érdemben azt az indítványt, amelyben az indítványozó a népszavazási kérdés tartalmát illető, illetve a hitelesítéssel összefüggő alkotmányossági aggályokra hivatkozik.
 
+#### 11/A. Az Országgyűlés vallási tevékenységet végző szervezet elismerésével összefüggő döntésének vizsgálata
+
+33/A. § (1) Az Országgyűlés vallási tevékenységet végző szervezet egyházként történő elismerését elutasító határozatát az Alkotmánybíróság az érintett vallási tevékenységet végző szervezet indítványára felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül kell az Alkotmánybírósághoz beérkeznie.
+
+(2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság az Országgyűlés egyházként történő elismerésre irányuló eljárásának törvényességét vizsgálja felül.
+
 #### 12. Alaptörvény-ellenesen működő képviselő-testület feloszlatásával összefüggő vélemény
 
 34. § Az Alkotmánybíróság a helyi önkormányzat és a nemzetiségi önkormányzat képviselő-testületének alaptörvény-ellenes működésére vonatkozóan a Kormány indítványa alapján elvi véleményt nyilvánít.
 
-#### 12/A. Alaptörvény-ellenesen működő egyház elismerésének visszavonásával összefüggő vélemény
+#### 12/A. A vallási közösség alaptörvény-ellenes működésével összefüggő vélemény
 
-34/A. § Az Alkotmánybíróság a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény alapján elismert egyház alaptörvény-ellenes működésére vonatkozóan a Kormány indítványa alapján elvi véleményt nyilvánít.
+34/A. § Az Alkotmánybíróság a vallási közösség alaptörvény-ellenes működésére vonatkozóan a bevett egyház esetén a Kormány, a vallási tevékenységet végző szervezet esetén a bíróság indítványa alapján elvi véleményt nyilvánít.
 
 #### 13. A köztársasági elnök tisztségtől való megfosztása
 
@@ -345,13 +365,17 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Ha az Alkotmánybíróság a 23. §-ban meghatározott eljárásában a nemzetközi szerződés rendelkezésének alaptörvény-ellenességét megállapítja, a nemzetközi szerződés kötelező hatályának elismerésére addig nem kerülhet sor, amíg a nemzetközi szerződést létrehozó államok vagy a nemzetközi jog szerződéskötési képességgel rendelkező egyéb alanyai az alaptörvény-ellenességet meg nem szüntetik, vagy ameddig fenntartás megtételével – ha ezt az adott nemzetközi szerződés lehetővé teszi – vagy a nemzetközi jog által elismert egyéb jogintézménnyel élve Magyarország nem zárja ki a nemzetközi szerződés és az Alaptörvény összeütközését.
 
-41. § (1) Ha az Alkotmánybíróság a 24–26. § szerinti eljárásában a hatályos jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességét megállapítja, a jogszabályt vagy jogszabályi rendelkezést teljesen vagy részben megsemmisíti.
+(4) Nem hirdethető ki az Alaptörvény vagy az Alaptörvény módosítása, ha az Alkotmánybíróság a 23/A. §-ban meghatározott eljárásában megállapítja, hogy a megalkotásra vonatkozó, az Alaptörvényben foglalt követelményeket nem tartották meg.
 
-(2) Az (1) bekezdést az Alaptörvény 37. cikk (4) bekezdésében foglalt kivételekre és feltételekre tekintettel kell alkalmazni.
+41. § (1) Ha az Alkotmánybíróság a 24. § vagy a 25–26. § szerinti eljárásában a hatályos jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességét megállapítja, a jogszabályt vagy jogszabályi rendelkezést teljesen vagy részben megsemmisíti.
+
+(1a) Ha az Alkotmánybíróság a 24/A. § szerinti eljárásában megállapítja, hogy az Alaptörvény vagy az Alaptörvény módosítása a megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt követelményeknek nem felel meg, az Alaptörvényt, illetve az Alaptörvény módosítását megsemmisíti.
+
+(2) Az (1) bekezdést az Alaptörvény 37. cikk (4) és (5) bekezdésében foglalt kivételekre és feltételekre tekintettel kell alkalmazni.
 
 (3) Az Alkotmánybíróság hatályon kívül helyezett jogszabály alaptörvény-ellenességét akkor állapíthatja meg, ha a jogszabályt konkrét esetben még alkalmazni kellene.
 
-(4) Az Alkotmánybíróság a 33. §-ban meghatározott hatáskörében az Országgyűlés határozatát helybenhagyja, vagy az Országgyűlés határozatának megsemmisítése mellett az Országgyűlést új határozat meghozatalára hívja fel.
+(4) Az Alkotmánybíróság a 33. §-ban és a 33/A. §-ban meghatározott hatáskörében az Országgyűlés határozatát helybenhagyja, vagy az Országgyűlés határozatának megsemmisítése mellett az Országgyűlést új határozat meghozatalára hívja fel.
 
 42. § (1) Ha az Alkotmánybíróság olyan jogszabály nemzetközi szerződésbe ütközését állapítja meg, amely a nemzetközi szerződést kihirdető jogszabállyal az Alaptörvény alapján nem lehet ellentétes, a nemzetközi szerződéssel ellentétes jogszabályt teljesen vagy részben megsemmisíti.
 
@@ -365,17 +389,19 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (4) Az Alkotmánybíróság a bírói döntés megsemmisítése esetén megsemmisítheti a döntéssel felülvizsgált más bírósági vagy hatósági döntéseket is.
 
-44. § (1) Az Alkotmánybíróságnak a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának a Magyar Közlönyben való közzétételét is.
+44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is.
 
 (2) Az Alkotmánybíróság határozatai az Alkotmánybíróság Hivatalának honlapján digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, díjmentesen hozzáférhetőek. A határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló törvény bírósági határozatok nyilvánosságára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a hivatalos lapban való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
 
+(1a) Az Alkotmánybíróság az Alaptörvény 24. cikk (6) bekezdés b) pontja szerinti esetben az Alaptörvényt vagy az Alaptörvény módosítását a kihirdetésére visszamenőleges hatállyal semmisíti meg.
+
 (2) Ha az Alkotmánybíróság bírói kezdeményezés vagy alkotmányjogi panasz alapján semmisít meg egyedi ügyben alkalmazott jogszabályt, a megsemmisített jogszabály az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható.
 
 (3) A jogszabály megsemmisítése – a (6) bekezdésben foglalt eset kivételével – nem érinti a határozat közzététele napján vagy azt megelőzően létrejött jogviszonyokat, és a belőlük származó jogokat és kötelezettségeket.
 
-(4) Az Alkotmánybíróság az (1)–(3) bekezdésben meghatározottaktól eltérően is meghatározhatja az Alaptörvénnyel ellentétes jogszabály hatályon kívül helyezését, illetve a megsemmisített jogszabály általános vagy egyedi ügyekben történő alkalmazhatatlanságát, ha ezt az Alaptörvény védelme, a jogbiztonság vagy az eljárást kezdeményező különösen fontos érdeke indokolja.
+(4) Az Alkotmánybíróság az (1), (2) és (3) bekezdésben meghatározottaktól eltérően is meghatározhatja az Alaptörvénnyel ellentétes jogszabály hatályon kívül helyezését, illetve a megsemmisített jogszabály általános vagy egyedi ügyekben történő alkalmazhatatlanságát, ha ezt az Alaptörvény védelme, a jogbiztonság vagy az eljárást kezdeményező különösen fontos érdeke indokolja.
 
 (5) A jogszabály megsemmisítése nem érinti a megsemmisített jogszabályon alapuló, Alkotmánybíróság előtti eljárásban nem felülvizsgálható, vagy felül nem vizsgált bírói döntéseket, kivéve, ha az Alkotmánybíróság a megsemmisítésről szóló határozatában ettől eltérően rendelkezik.
 
@@ -439,7 +465,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (2) Az Alkotmánybíróság teljes ülésén dönt
 
-- a) a 23. §-ban, a 35. §-ban és a 38. §-ban meghatározott eljárásban,
+- a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban és a 38. §-ban meghatározott eljárásban,
 - b) alaptörvény-ellenes vagy nemzetközi szerződésbe ütköző törvény megsemmisítéséről, valamint a tanács által érdemben vizsgált ügyben törvény megsemmisítéséről,
 - c) az Alkotmánybíróság ügyrendjének, valamint szervezeti és működési szabályzatának megalkotásáról,
 - d) az Alkotmánybíróság tagja
@@ -455,22 +481,29 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 51. § (1) Az Alkotmánybíróság az Alaptörvény, valamint e törvény szerint arra jogosult indítványa alapján jár el.
 
-(2) Az alkotmányjogi panasz eljárás során kötelező a jogi képviselet. A képviseleti jogosultságot igazolni kell.
+(2)–(3)
 
-(3) Jogi képviselőként eljárhat az ügyvéd (ügyvédi iroda), valamint jogvédő társadalmi szervezet jogi szakvizsgával rendelkező képviselője. A jogi személy és egyéb gazdálkodó szervezet jogtanácsosát az ügyvéd jogállása illeti meg. Jogi szakvizsgával rendelkező személy saját ügyében jogi képviselő nélkül is eljárhat.
+52. § (1) Az indítványnak határozott kérelmet kell tartalmaznia.
 
-52. § (1) Az indítványnak határozott kérelmet kell tartalmaznia. A kérelem akkor határozott, ha egyértelműen megjelöli
+(1a) A 23/A. § és a 24/A. § szerinti hatáskörök gyakorlására irányuló indítványban foglalt kérelem akkor határozott, ha egyértelműen megjelöli
 
-- a) azt a törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
+- a) azt az alaptörvényi, illetve törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
+- b) azokat az Alaptörvény vagy az Alaptörvény módosítása megalkotására, illetve kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelményeket, amelyeket az Alaptörvény vagy az Alaptörvény módosítása megsértett,
+- c) az indokolást arra nézve, hogy az Alaptörvény vagy az Alaptörvény módosítása miért ellentétes a megalkotására, illetve kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelményekkel,
+- d) a kifejezett kérelmet az Alaptörvény vagy az Alaptörvény módosítása megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
+
+(1b) Az (1a) bekezdésben foglalt eseteken kívül a kérelem akkor határozott, ha egyértelműen megjelöli
+
+- a) azt az alaptörvényi, illetve törvényi rendelkezést, amely megállapítja az Alkotmánybíróság hatáskörét az indítvány elbírálására, továbbá amely az indítványozó jogosultságát megalapozza,
 - b) az eljárás megindításának indokait, alkotmányjogi panasz esetén az Alaptörvényben biztosított jog sérelmének lényegét,
 - c) a 38. §-ban meghatározott eljárás kivételével az Alkotmánybíróság által vizsgálandó jogszabályi rendelkezést vagy bírói döntést, továbbá a 33. §-ban meghatározott eljárás indítványozása esetén az Országgyűlés határozatát, illetve a 34–36. §-ban meghatározott eljárás indítványozása esetén az alaptörvény-ellenes működést, magatartást vagy hatáskörgyakorlást,
 - d) az Alaptörvény, illetve a nemzetközi szerződés megsértett rendelkezéseit,
-- e) indokolást arra nézve, hogy a sérelmezett jogszabály, jogszabályi rendelkezés, bírói döntés vagy – a 33. §-ban meghatározott eljárás indítványozása esetén – az Országgyűlés határozata miért ellentétes az Alaptörvény megjelölt rendelkezésével vagy a nemzetközi szerződéssel, továbbá a 34–36. §-ban meghatározott eljárás indítványozása esetén az indítványban foglalt kérelem részletes indoklását, valamint
-- f) kifejezett kérelmet a jogszabály, jogszabályi rendelkezés vagy a bírói döntés megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
+- e) az indokolást arra nézve, hogy a sérelmezett jogszabály, jogszabályi rendelkezés, bírói döntés vagy – a 33. §-ban meghatározott eljárás indítványozása esetén – az Országgyűlés határozata miért ellentétes az Alaptörvény megjelölt rendelkezésével vagy a nemzetközi szerződéssel, továbbá a 34–36. §-ban meghatározott eljárás indítványozása esetén az indítványban foglalt kérelem részletes indokolását, valamint
+- f) a kifejezett kérelmet a jogszabály, jogszabályi rendelkezés vagy a bírói döntés megsemmisítésére, illetve az Alkotmánybíróság döntésének tartalmára.
 
-(2) Az Alkotmánybíróság által lefolytatott vizsgálat kizárólag a megjelölt alkotmányossági kérelemre korlátozódik. Ez a rendelkezés nem érinti az Alkotmánybíróságnak a 28. § (1) bekezdésében, a 32. § (1) bekezdésében, a 38. § (1) bekezdésében, valamint a 46. § (1) és (3) bekezdésében meghatározott, hivatalból megtehető megállapításokra vonatkozó hatáskörét.
+(2) Az Alkotmánybíróság által lefolytatott vizsgálat a megjelölt alkotmányossági kérelemre korlátozódik. Ez a rendelkezés nem érinti az Alkotmánybíróságnak a 28. § (1) bekezdésben, a 32. § (1) bekezdésben, a 38. § (1) bekezdésben és a 46. § (1) és (3) bekezdésben meghatározott, hivatalból megtehető megállapításokra vonatkozó hatáskörét, valamint az Alaptörvény 24. cikk (4) bekezdésében foglaltakat.
 
-(3) Az Alkotmánybíróság a jogszabálynak az indítványban megjelölt rendelkezésével szoros tartalmi összefüggésben álló más rendelkezését is vizsgálhatja és megsemmisítheti, ha ennek elmaradása a jogbiztonságot sértené.
+(3)
 
 (4) Az alkotmánybírósági eljárás feltételeinek fennállását az indítványozónak kell igazolnia.
 
@@ -526,15 +559,27 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 #### 21. Általános eljárási szabályok
 
-57. § (1) Az Alkotmánybíróság az indítványok érdemében a rendelkezésre álló iratok alapján dönt.
+57. § (1) Az Alkotmánybíróság az indítványok érdemében a rendelkezésre álló iratok alapján, illetve az (1b)–(1c) bekezdés szerinti esetben a jogszabály megalkotója, a törvény kezdeményezője vagy ezek képviselőjének meghallgatása, illetve véleménye megismerése után dönt.
 
-(2) Az Alkotmánybíróság elrendelheti az indítványozó vagy harmadik személy személyes meghallgatását vagy nyilatkozattételre hívhatja fel. Az Alkotmánybíróság nyilatkozattételre hívhatja fel, iratok megküldése és vélemény kérése iránt keresheti meg az indítványi kérelemmel érintett szervet, hatóságot, illetve azt a bíróságot, hatóságot, más állami szervet, az Európai Unió intézményét vagy nemzetközi szervet, amelynek megkeresése a kérelem elbírálásához szükséges.
+(1a) Az Alkotmánybíróság honlapján közzé kell tenni, ha törvénnyel, kormányrendelettel vagy más, a személyek széles körét érintő jogszabállyal összefüggésben a 23–26. §-ban vagy a 32. §-ban foglalt hatáskörben eljárás indult. Az Alkotmánybíróság a 23–24. §-ban és a 32. §-ban foglalt hatáskörében indult eljárások esetén –, valamint ha a 25–26. § alapján indult eljárásokban az indítványozó hozzájárult – az indítványt közzéteszi, egyéb esetben az indítványban foglalt alkotmányossági kérelem lényegét az 52. § (1) bekezdés c)–e) pontját illetően – a személyes adatok törlése mellett – nyilvánosságra hozza.
+
+(1b) Ha a jogszabály megalkotója, illetve a törvény kezdeményezője – figyelemmel arra is, hogy az ügy a személyek széles körét érinti-e – az üggyel kapcsolatos álláspontjáról az Alkotmánybíróságot tájékoztatni kívánja, véleményét az (1a) bekezdés szerinti közzétételtől számított 30 napon belül – soron kívüli eljárás esetén 15, illetve az Alaptörvény 6. cikk (8) bekezdése szerinti eljárásban 5 napon belül – megküldi az Alkotmánybíróságnak. A jogszabály megalkotója és a törvény kezdeményezője megállapodás alapján közös véleményt is kialakíthat.
+
+(1c) A jogszabály megalkotója, illetve a törvény kezdeményezője véleményének megküldésével egyidejűleg kérheti az Alkotmánybíróságtól a 25–27. §-ban foglalt hatáskörben a személyes – a 24. §-ban és a 32. §-ban a nyilvános – meghallgatás lehetőségének biztosítását. A jogszabály megalkotója, illetve a törvény kezdeményezője vagy ezek képviselője meghallgatásáról az Alkotmánybíróság teljes ülése dönt; a meghallgatás mellőzéséhez valamennyi tag többségének szavazata szükséges. A jogszabály megalkotója és a törvény kezdeményezője megállapodás alapján közös képviselőt is állíthat a meghallgatásra.
+
+(1d) A jogszabály megalkotója, illetve a törvény kezdeményezője (1b) bekezdés szerinti véleményét az Alkotmánybíróság honlapján közzé kell tenni.
+
+(1e) Az (1c) bekezdés szerinti meghallgatásra az indítványozót is meg kell hívni, és lehetőséget kell biztosítani számára, hogy a jogszabály megalkotója, illetve a törvény kezdeményezője vagy ezek képviselője meghallgatását követően álláspontját kifejtse.
+
+(1f) A nyilvános ülésen a hallgatóság az Alkotmánybíróság elnöke által megjelölt létszámban, az általa kijelölt helyen foglalhat helyet, és a véleménynyilvánítás bármely formájától tartózkodni köteles. Az ülés rendjének megzavarása esetén az Alkotmánybíróság, illetve a tanács elnöke a hallgatóságot vagy annak egy részét az ülésről kiutasíthatja. Ha minősített adat, személyes adat, üzleti titok vagy törvény által védett más adat védelme érdekében szükséges, a meghallgatás e részét zárt ülésen kell folytatni. Zárt ülés tartását a meghallgatott, az Alkotmánybíróság, illetve a tanács elnöke kérelmezheti, arról a teljes ülés, illetve a tanács tagjainak többségével határoz. A nem zárt ülésen történt meghallgatás jegyzőkönyvét az Alkotmánybíróság honlapján közzé kell tenni.
+
+(2) Az Alkotmánybíróság az (1a)–(1c) bekezdés alkalmazásától függetlenül is elrendelheti az indítványozó vagy harmadik személy személyes meghallgatását vagy nyilatkozattételre hívhatja fel. Az Alkotmánybíróság nyilatkozattételre hívhatja fel, iratok megküldése és vélemény kérése iránt keresheti meg az indítványi kérelemmel érintett szervet, hatóságot, illetve azt a bíróságot, hatóságot, más állami szervet, az Európai Unió intézményét vagy nemzetközi szervet, amelynek megkeresése a kérelem elbírálásához szükséges.
 
 (3) Az Alkotmánybíróság egyedi üggyel összefüggésben iratanyag megküldése céljából megkeresheti az ügyben eljárt bíróságot.
 
-(4) A személyes meghallgatásra meghívott személyek kötelesek megjelenni.
+(4) A (2) bekezdés szerint személyes meghallgatásra meghívott személyek kötelesek megjelenni.
 
-(5) A nyilatkozattételre felhívott, illetve az iratok megküldése iránt megkeresett szervek, hatóságok és bíróságok együttműködésre kötelesek.
+(5) A (2) bekezdés szerint nyilatkozattételre felhívott, illetve az iratok megküldése iránt megkeresett szervek, hatóságok és bíróságok együttműködésre kötelesek.
 
 (6) Ha az alapjogi jogsérelem fennállásának eldöntése szakkérdés tisztázását teszi szükségessé, az Alkotmánybíróság kivételesen szakértőt rendel ki az eljárásban. A szakértői bizonyítás részletszabályait az Alkotmánybíróság ügyrendje tartalmazza.
 
@@ -615,7 +660,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 
 69. § (1) Ez a törvény 2012. január 1-jén lép hatályba.
 
-(2) E törvény az Alaptörvény 24. cikk (5) bekezdése alapján sarkalatosnak minősül.
+(2) E törvény az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
 (3)–(4)
 

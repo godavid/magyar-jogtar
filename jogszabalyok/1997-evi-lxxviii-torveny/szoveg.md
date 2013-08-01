@@ -159,7 +159,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 (2) A településfejlesztés és a településrendezés során biztosítani kell a területek közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel. Ennek során figyelembe kell venni
 
 - a) a népesség demográfiai változását, lakásszükségletét,
-- b) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a civil szervezetek, egyházak működési feltételeinek lehetőségeire,
+- b) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a civil szervezetek, az egyházi jogi személyek működési feltételeinek lehetőségeire,
 - c) a helyi népesség identitásának erősítését, kulturális örökségük sokféleségének és gazdagságának megőrzését,
 - d) a népesség megélhetését biztosító gazdasági érdekeket, a munkahelyek megőrzésének és új munkahelyek teremtésének érdekeit, a mező- és erdőgazdaság, a közlekedés, a posta és a hírközlés, a közüzemi ellátás, különösképpen az energia- és vízellátás, a hulladékkezelés, a szennyvízelhelyezés és -kezelés, valamint a nyersanyaglelőhelyek biztosítását,
 - e) a helyi társadalmi-gazdasági és infrastrukturális egyenlőtlenségek csökkentését, az integráció elmélyítését,
@@ -767,7 +767,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (5) A Budapesti és Pest Megyei Mérnöki Kamara független ellenőrzési rendszert működtet az energetikai tanúsítványok tekintetében. Ennek keretében jogszabályban meghatározott tartalmú ellenőrzés céljából évente véletlenszerűen kiválasztja a Nyilvántartásban rendelkezésre álló összes energetikai tanúsítványnak kormányrendeletben meghatározott statisztikailag jelentős hányadát, és az ellenőrzések alapján a hatáskörrel rendelkező szervnél kezdeményezi a jogszabályban meghatározott hatósági intézkedéseket.
 
-38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet akkor végezhet a 16. §, a 32. §, a 33/A. § és a 38/A–38/C. § szerinti tevékenységet, ha tagja vagy alkalmazottja rendelkezik településtervezési, településrendezési szakértői, építészeti-műszaki tervezői, építésügyi műszaki szakértői, beruházáslebonyolítói, építésügyi igazgatási szakértői, felelős műszaki vezetői, építési műszaki ellenőri vagy energetikai tanúsítói jogosultsággal, és ezt a tevékenységet a jogosultsággal rendelkező személy végzi.
+38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet kormányrendeletben meghatározott feltételek mellett vállalhatja és folytathatja a 16. §, a 32. §, a 33/A. § és a 38/A–38/C. § szerinti tevékenységet.
 
 (2) az (1) bekezdésben meghatározott szervezetnek az ott meghatározott tevékenysége folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
 
@@ -1442,7 +1442,8 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
 - 29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint – a (4) bekezdésben foglaltak kivételével – az illetékességi területük lehatárolását,
 - 30. az egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat ellátó települési önkormányzatok körét, a feladatellátás feltételeit, illetékességi területük lehatárolását, a tevékenységet ellátók képesítési és foglalkoztatási feltételeit
-- 31. a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásának létrehozásáról, az adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, az adatszolgáltatásra és a rendszer használatára kötelezettek köréről, az adatokhoz való hozzáférési jogosultságokról, az adatok védelméről, a nyilvántartási rendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat
+- 31. a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásának létrehozásáról, az adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, az adatszolgáltatásra és a rendszer használatára kötelezettek köréről, az adatokhoz való hozzáférési jogosultságokról, az adatok védelméről, a nyilvántartási rendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
+- 32. az építészeti-műszaki tervezés során a tervezési díjfizetési kötelezettség nem teljesítése tárgyában hozott, az építészeti-műszaki tervezőt marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és az ennek alapján megállapítható jogkövetkezmények részletes szabályait
 
 rendelettel állapítsa meg.
 
@@ -1453,6 +1454,8 @@ rendelettel állapítsa meg.
 - c) az 53/F. § (3) bekezdése szerinti felmentés iránti eljárás sajátos szabályait
 
 rendeletben állapítsa meg.
+
+(1b) Felhatalmazást kap a Kormány arra, hogy az építmények építészeti-műszaki tervezése során végezhető feladatok körét, valamint az építészeti-műszaki tervezési tevékenység ellátásáért felszámítható tervezési díj tartalmát rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 

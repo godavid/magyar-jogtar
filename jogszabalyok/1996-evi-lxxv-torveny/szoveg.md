@@ -74,7 +74,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - q)
 - r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
 - s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
-- t) a költségvetési szervek, valamint az egyházi fenntartású közfeladatot ellátó egészségügyi, oktatási, szociális, közgyűjteményi és közművelődési szolgáltatást nyújtó munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának megtartására.
+- t) a költségvetési szerv, valamint nevelési-oktatási, egészségügyi vagy kulturális tevékenysége tekintetében az egyházi jogi személy munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának megtartására.
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 

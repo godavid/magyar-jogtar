@@ -126,6 +126,18 @@ kell érteni.
 
 18. § Az Mt. 295–297. §-át akkor kell alkalmazni, ha az Mt. 295. § (1) bekezdésében meghatározott megállapodást az Mt. hatálybalépését követően kötötték.
 
+18/A. § (1) Az Mt.-nek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvény (a továbbiakban: Módtv.) 8. § (1) bekezdésével megállapított 36. § (2) bekezdését a Módtv. hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló gazdálkodó szervezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 52. §-a szerinti zárómérleg elkészítésére a Módtv. hatálybalépésekor még nem került sor.
+
+(2) Az Mt. Módtv. 8. § (6) bekezdésével megállapított 121. § (1) bekezdését a Módtv. hatálybalépését követően született gyermek esetén kell alkalmazni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
+(3) Az Mt. Módtv. 8. § (9) bekezdésével megállapított 124. §-át a Módtv. hatálybalépését követően kezdődő szabadság esetén kell alkalmazni.
+
+(4) Az Mt. Módtv. 8. § (10) bekezdésével megállapított 126. § (4) bekezdésében foglaltakat a Módtv. hatálybalépését követően kezdődő betegszabadság esetén kell alkalmazni.
+
+(5) Az Mt. Módtv 8. § (19)–(23) bekezdésével megállapított 148–149. §-ában, a 150. § (3) és (5) bekezdésében, valamint a 151. §-ában foglaltakat a Módtv. hatálybalépését követően esedékessé váló távolléti díjra kell alkalmazni.
+
+(6) Az Mt. Módtv. 8. § (28) bekezdésével megállapított 287. § (2) és (3) bekezdésében foglaltakat a Módtv. hatálybalépését követően közölt jognyilatkozatok tekintetében kell alkalmazni.
+
 19. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti tartózkodásra jogosító engedéllyel nem rendelkező harmadik országbeli állampolgár foglalkoztatása esetén, a fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel
 
 - a) a harmadik országbeli állampolgár elmaradt munkabérének és egyéb járandóságainak, valamint
@@ -137,7 +149,7 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 
 (3) Az (1) bekezdés alkalmazásában – az ellenkező bizonyításig – a foglalkoztatásra irányuló jogviszony fennállását legalább három hónap időtartamban vélelmezni kell.
 
-19/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére, valamint a pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+#### 19/A. §
 
 ## MÁSODIK RÉSZ — MÓDOSÍTÓ RENDELKEZÉSEK
 

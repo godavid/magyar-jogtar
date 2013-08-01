@@ -16,7 +16,7 @@ A családok életében kitüntetett jelentőséggel bírnak a nemzedékeken át�
 
 Az állam segíti a munkavállalás és a családi élet összeegyeztetését.
 
-A családok védelme és a családok jólétének erősítése az állam, az önkormányzatok, a civil szervezetek, a médiaszolgáltatók és a gazdasági élet szereplőinek egyaránt feladata. E célok megvalósítására az egyházak is kiemelt figyelmet fordítanak.
+A családok védelme és a családok jólétének erősítése az állam, az önkormányzatok, a civil szervezetek, a médiaszolgáltatók és a gazdasági élet szereplőinek egyaránt feladata. E célok megvalósítására a vallási közösségek is kiemelt figyelmet fordítanak.
 
 Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, valamint annak érdekében, hogy a családok védelmére és jólétének növelésére kiszámítható és biztonságot nyújtó szabályozási környezetet teremtsen, az Alaptörvény végrehajtására, az Alaptörvény L) cikk (3) bekezdése alapján a következő törvényt alkotja:
 

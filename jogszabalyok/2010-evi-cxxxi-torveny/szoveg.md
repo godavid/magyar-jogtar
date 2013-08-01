@@ -122,7 +122,7 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 (2) Stratégiai partnerség alakítható ki különösen
 
 - a) a civil szervezetekkel,
-- b) egyházakkal,
+- b) bevett egyházakkal,
 - c) szakmai, tudományos szervezetekkel,
 - d) országos nemzetiségi önkormányzatokkal,
 - e) érdek-képviseleti szervezetekkel,
@@ -141,7 +141,7 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 
 (5) A megállapodást a honlapon mindenki számára hozzáférhetővé kell tenni.
 
-(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal az egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
+(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal a bevett egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
 
 14. § (1) A stratégiai partner kötelessége, hogy a közvetlen egyeztetés során az adott jogterülettel foglalkozó, stratégiai partnerséggel nem rendelkező szervezetek véleményét is megjelenítse.
 

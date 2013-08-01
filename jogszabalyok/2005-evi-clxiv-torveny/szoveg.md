@@ -118,7 +118,14 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
 
-(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése a helyi sajátosságok figyelembevételével az üzletek éjszakai (22 óra és 6 óra közötti) nyitvatartási rendjét rendeletben szabályozhatja.
+(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
+
+- a) az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, valamint
+- b) a világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek 24 és 6 óra közötti nyitva tartásával összefüggő – a közbiztonság, illetve a köztisztaság fenntartásához kapcsolódó – többletfeladatokhoz igazodó összegű felügyeleti díjat.
+
+(4a) A felügyeleti díjat a helyi rendelet legfeljebb 20 Ft/fő/éjszakai nyitvatartási nap mértékben határozhatja meg. A felügyeleti díj összege az üzlet éves korrigált iparűzési adóalapjának 0,5%-át nem haladhatja meg. A felügyeleti díj alapja vendéglátó üzletek esetén a működési engedélyben vagy igazolásban meghatározott befogadóképesség, egyéb üzletek esetében az alapterület alapján számított 3 négyzetméterenként egy fő. A felügyeleti díjat negyedévente, az azt követő hónap 15-éig kell megfizetni az illetékes önkormányzat erre a célra létrehozott számlájára.
+
+(4b) A felügyeleti díjat az önkormányzat kizárólag a felügyeleti díj fizetésére kötelezett üzletek által közvetlenül vagy közvetve okozott, a települési önkormányzatot egyébként terhelő közbiztonsági, illetve köztisztasági feladatokat meghaladóan az éjszakai nyitva tartással összefüggésben keletkező – az önkormányzat által elkülönítetten kimutatott – közbiztonsági, illetve köztisztasági többletfeladatok ellátására fordíthatja.
 
 (5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását korlátozhatja. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárva tartási időszakot rendelhet el.
 

@@ -48,7 +48,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (5) A külföldi oklevelek által tanúsított tudományos fokozatnak az adott munkakör betöltése céljából, a III. fejezet rendelkezéseinek megfelelő alkalmazásával történő honosítása a Magyar Tudományos Akadémia feladata, amennyiben a külföldi tudományos fokozattal rendelkező személyt a Magyar Tudományos Akadémia irányítása alá tartozó, az adott szakterületen kutatást közfeladatként végző költségvetési szerv közalkalmazottként tudományos munkakörben kívánja foglalkoztatni.
 
-(6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése azon hazai egyházi felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
+(6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
 
 (7) Külföldön folytatott résztanulmányok beszámítása annak az oktatási intézménynek a hatásköre, amelyben a kérelmező a tanulmányait folytatni szándékozik.
 

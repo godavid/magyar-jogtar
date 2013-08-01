@@ -22,7 +22,7 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 - a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
 - b) költségvetési szerv,
-- c) egyház,
+- c) egyházi jogi személy,
 - d) közhasznú jogállású szervezet,
 - e) civil szervezet,
 - f) az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott, vagy erre a célra az állam, önkormányzat által létrehozott gazdálkodó szervezet,

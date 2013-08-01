@@ -66,7 +66,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 - s) fenntartó:
   - sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
-  - sb) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti nyilvántartásba vett egyház, illetve annak belső egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó), nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a civil szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság,
+  - sb) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
   - sc) az egyéni vállalkozó,
   - sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
   - se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
@@ -333,7 +333,7 @@ gyakorolja.
 - g) a pártfogó felügyelői szolgálat,
 - h) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
 - i) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
-- j) a társadalmi szervezetek, egyházak, alapítványok,
+- j) az egyesületek, az alapítványok és az egyházi jogi személyek,
 - k) a munkaügyi hatóság.
 
 (2) Az (1) bekezdésben meghatározott intézmények és személyek kötelesek
@@ -687,14 +687,14 @@ alapozza meg.
 
 (2) Ha az ellátás igénybevételére az (1) bekezdés a) vagy b) pontja alapján kerül sor, a határozatot közölni kell a működtetővel és az ellátást nyújtó intézmény vezetőjével is.
 
-(3) Állami fenntartású intézmény esetén az (1) bekezdés c) és d) pontja szerinti döntésről az intézményvezető értesíti a kérelmezőt, illetve törvényes képviselőjét. Az ellátás igénybevételének elutasítása esetén a kérelmezőt, illetve törvényes képviselőjét írásban kell értesíteni.
+(3) Állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) intézmény esetén az (1) bekezdés c) és d) pontja szerinti döntésről az intézményvezető értesíti a kérelmezőt, illetve törvényes képviselőjét. Az ellátás igénybevételének elutasítása esetén a kérelmezőt, illetve törvényes képviselőjét írásban kell értesíteni.
 
 (4) Ha a kérelmező, illetve törvényes képviselője az intézmény vezetőjének (3) bekezdés szerinti döntését vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Ha az intézményvezető az ellátás igénybevételéről nem intézkedik, a kérelmező, illetve törvényes képviselője az arról való tudomásszerzéstől számított nyolc napon belül a fenntartóhoz fordulhat. Ezekben az esetekben a fenntartó határozattal dönt.
 
 (5) A gyermekjóléti alapellátások igénybevételének – az (5a) bekezdésben foglalt kivétellel – a megkezdése előtt, valamint az utógondozói ellátás igénybevételének megkezdésekor
 
 - a) állami fenntartású szolgáltató, intézmény esetén a szolgáltató vezetője, illetve az intézményvezető,
-- b) egyházi és nem állami fenntartású szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
+- b) egyházi fenntartó által fenntartott (a továbbiakban: egyházi fenntartású) és nem állami fenntartó által fenntartott (a továbbiakban: nem állami fenntartású) szolgáltató, intézmény esetén a fenntartó vagy az általa megbízott személy
 
 a kérelmezővel, illetve törvényes képviselőjével írásban megállapodást köt.
 
@@ -726,9 +726,9 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 - b) soron kívüli elhelyezésre vonatkozó indokolt kérelem alapján,
 - c) az 57. § (2) bekezdése szerinti esetben.
 
-(9) Ha az egyházi, nem állami fenntartó a települési önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő települési önkormányzathoz vagy állami szervhez fordulhat. A települési önkormányzat vagy állami szerv a kérelemről határozattal dönt.
+(9) Ha az egyházi fenntartó vagy a nem állami fenntartó a települési önkormányzattal vagy állami szervvel kötött ellátási szerződés hatálya alá tartozó esetben az ellátásra irányuló kérelmet elutasítja, a kérelmezőt, illetve törvényes képviselőjét írásban értesíti. Ha a kérelmező, illetve törvényes képviselője a döntést vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül az ellátási szerződést megkötő települési önkormányzathoz vagy állami szervhez fordulhat. A települési önkormányzat vagy állami szerv a kérelemről határozattal dönt.
 
-(10) Ha a települési önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi, nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a települési önkormányzatot vagy állami szervet írásban értesíti.
+(10) Ha a települési önkormányzattal vagy állami szervvel ellátási szerződést kötött egyházi fenntartó vagy a nem állami fenntartó az elhelyezést elrendelő döntés ellen fellebbezést nyújt be, a települési önkormányzatot vagy állami szervet írásban értesíti.
 
 ### Tájékoztatási kötelezettség
 
@@ -914,7 +914,7 @@ biztosít.
 
 (4)
 
-(5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi és más nem állami fenntartó is működtethet.
+(5) Gyermekjóléti szolgálatot, gyermekjóléti központot egyházi fenntartó és nem állami fenntartó is működtethet.
 
 ### Gyermekek napközbeni ellátása
 
@@ -2076,7 +2076,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 
 (3) A gyermek utógondozását a gyermek lakóhelye szerinti gyermekjóléti szolgálat, a fiatal felnőtt utógondozását a gyermekotthon, a nevelőszülői hálózatot működtető vagy – az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermek esetén – a területi gyermekvédelmi szakszolgálat látja el.
 
-(4) Az utógondozás feladatainak ellátásába önkéntesek, társadalmi szervezetek, alapítványok és egyházi jogi személyek is bevonhatók.
+(4) Az utógondozás feladatainak ellátásába önkéntesek, egyesületek, alapítványok és bevett egyházak is bevonhatók.
 
 (5) A gyámhatóság az utógondozást az otthonteremtési támogatás iránti kérelem előterjesztésekor ismételten elrendeli, melynek során elsősorban a fiatal felnőtt volt utógondozóját, ha ez nem lehetséges, a fiatal felnőtt választása szerint a lakóhelye vagy a tartózkodási helye szerinti területi gyermekvédelmi szakszolgálat utógondozóját rendeli ki.
 
@@ -2185,13 +2185,13 @@ köteles működtetni.
 
 (7) A jogszabályban meghatározott szakmai, módszertani feladatokat az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
+(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
 
 (8a)
 
 (9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10) A kijelölt egyházi módszertani intézmény feladatkörében, az egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
 
 - a) részt vesz a minőségfejlesztési elvek kidolgozásában,
 - b) ajánlásokat készít a hatékonyabb szolgáltatási módszerek alkalmazására,
@@ -2203,11 +2203,11 @@ köteles működtetni.
 
 (12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
-(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha egyházának az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
+(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha bevett egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt, módszertani feladatokat is ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
 
 ### Ellátási szerződés
 
-97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását, ide nem értve a területi gyermekvédelmi szakszolgáltatást, a települési önkormányzat, illetve az állam – a fenntartói feladatainak a Kormány rendeletében kijelölt szerv útján – állami, egyházi és egyéb nem állami fenntartóval kötött ellátási szerződés útján is biztosíthatja.
+97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását, ide nem értve a területi gyermekvédelmi szakszolgáltatást, a települési önkormányzat, illetve az állam – a fenntartói feladatainak a Kormány rendeletében kijelölt szerv útján – állami fenntartóval, egyházi fenntartóval és nem állami fenntartóval kötött ellátási szerződés útján is biztosíthatja.
 
 (2) Ha az ellátási szerződés alapján a feladat ellátásában vallási vagy világnézeti elkötelezettségű nem állami szerv működik közre, a megállapodás megkötése nem mentesíti a települési önkormányzatot, valamint az állami szervet a feladatellátási kötelezettség alól azon gyermek tekintetében, akinek szülője nem kívánja a nem állami szerv szolgáltatását igénybe venni.
 
@@ -2915,9 +2915,9 @@ törölni kell az adatokat.
 
 (2) Szakmai programok meghirdetésével kell elősegíteni a helyi önkormányzat részére meghatározott ellátási formák létrehozásának, valamint olyan mértékű fejlesztésének és korszerűsítésének támogatását, amely lehetővé teszi az önkormányzat az e törvényben előírt kötelezettségének teljesítését.
 
-145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi és – külön törvényben meghatározott – nem állami fenntartó.
+145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
-(2) Az állami, egyházi és nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
+(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
 
 - a) személyes gondoskodást nyújtó gyermekjóléti alapellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
 - b) gyermekek napközbeni ellátása és – az 51. § (4)–(9) bekezdés szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása.
@@ -2936,13 +2936,13 @@ törölni kell az adatokat.
 - c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
 - d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól kezdődően, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 
-(3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi és nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
+(3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
 
-(4) A nem állami, illetve egyházi fenntartónak a külön jogszabályban meghatározott, és az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.
+(4) Az egyházi fenntartónak és a nem állami fenntartónak az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.
 
-145/A. § (1) Ha a települési önkormányzat vagy a társulás a fenntartásában működő szolgáltatót, intézményt egyházi jogi személy fenntartásába adja át, az egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni.
+145/A. § (1) Ha a települési önkormányzat vagy a társulás a fenntartásában működő szolgáltatót, intézményt egyházi fenntartó fenntartásába adja át, az egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni.
 
-(2) Ha a települési önkormányzat vagy a társulás fenntartásában működő szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi jogi személy új szolgáltatót, intézményt hoz létre, a megszűnt intézményben is végzett gyermekjóléti, gyermekvédelmi szolgáltató tevékenység után kifizetett egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni, feltéve, hogy
+(2) Ha a települési önkormányzat vagy a társulás fenntartásában működő szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi fenntartó új szolgáltatót, intézményt hoz létre, a megszűnt intézményben is végzett gyermekjóléti, gyermekvédelmi szolgáltató tevékenység után kifizetett egyházi kiegészítő támogatást a települési önkormányzat, illetve a társulás köteles a központi költségvetésnek öt éven keresztül folyamatosan, a nettó finanszírozás keretében megtéríteni, feltéve, hogy
 
 - a) a megszűnt és a létrehozott szolgáltatónál, intézményben ellátott gyermekeknek legalább ötven százaléka azonos, valamint
 - b) a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
@@ -2986,7 +2986,7 @@ törölni kell az adatokat.
 
 (6) Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a (3) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 
-(7) Ha a kötelezett a személyi térítési díj egyházi vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a személyi térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
+(7) Ha a kötelezett a személyi térítési díj egyházi fenntartó vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a személyi térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
 
 (8) A személyi térítési díj összege évente két alkalommal vizsgálható felül és változtatható meg, kivéve, ha a kötelezett jövedelme olyan mértékben csökken, hogy az e törvényben szabályozott díjfizetési kötelezettségének nem tud eleget tenni. A kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra vonatkozóan az új térítési díj megfizetésére.
 
@@ -3213,7 +3213,7 @@ gyermek után az intézményi térítési díj 100%-át,
 - p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 - r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárásra, valamint az iskoláztatási támogatás folyósításának felfüggesztésére, a felfüggesztés megszüntetésére és az iskoláztatási támogatás szüneteltetése kezdeményezésére irányuló eljárásra, a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
-- s) a nem állami és egyházi fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
+- s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
 - u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,

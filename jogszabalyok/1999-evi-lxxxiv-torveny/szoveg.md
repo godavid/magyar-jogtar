@@ -30,6 +30,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó nyilvántartás.
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 - 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
+- 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -109,13 +110,13 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza:
+8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
-- a) a jogosult természetes személyazonosító és lakcímadatát;
-- b) a jogosult fényképét (arcképmását);
-- c) a jogosult aláírását;
-- d) a jogosult törvényes képviselőjének természetes személyazonosító és lakcímadatát;
-- e) a jogosult írásképtelensége esetén törvényes képviselője aláírását;
+- a) a jogosult természetes személy esetén természetes személyazonosító és lakcímadatát, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetén megnevezését, székhelyének (telephelyének) címét;
+- b) a jogosult természetes személy fényképét (arcképmását), jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény működési engedély számát;
+- c) a jogosult természetes személy aláírását, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetében a képviselő aláírását;
+- d) a jogosult természetes személy törvényes képviselőjének természetes személyazonosító és lakcímadatát;
+- e) a jogosult természetes személy írásképtelensége esetén törvényes képviselője aláírását;
 - f) a kiállító hatóság megnevezését;
 - g) a parkolási igazolvány sorszámát;
 - h) az érvényesség időtartamát;

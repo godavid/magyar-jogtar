@@ -14,11 +14,7 @@ A művelődéshez való jog esélyegyenlőség alapján való gyakorlásának bi
 
 2–3. §
 
-4. § (1)–(3)
-
-(4) Az állami és a helyi önkormányzati nevelési-oktatási intézményben lehetővé kell tenni, hogy a gyermek, illetőleg a tanuló az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatásban vegyen részt. Az egyházi jogi személy a hit- és vallásoktatást óvodában a szülők, iskolákban és kollégiumban a tanulók és a szülők igénye szerint szervezheti. A hit- és vallásoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában pedig oly módon szervezhető, hogy alkalmazkodjon a kötelező tanórai foglalkozások rendjéhez. A hit- és vallásoktatás tartalmának meghatározása, a hitoktató alkalmazása és ellenőrzése, a hit- és vallásoktatással összefüggő igazgatási cselekmények végzése, így különösen a hit- és vallásoktatásra való jelentkezés megszervezése, előmeneteli értesítések, bizonyítványok kiadása, a foglalkozások ellenőrzése az egyházi jogi személy feladata. Az iskola, a kollégium, illetve az óvoda – a nevelési-oktatási intézményben rendelkezésre álló eszközökből – köteles biztosítani a hit- és vallásoktatáshoz szükséges tárgyi feltételeket, így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket. Az egyházi jogi személy által foglalkoztatott hitoktató alkalmazásakor az e törvény 17. §-ában foglaltakat nem kell alkalmazni. Az óvoda, az iskola és a kollégium az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatással kapcsolatos feladatok ellátása során együttműködik az érdekelt egyházi jogi személlyel.
-
-(5)–(7)
+4. §
 
 4/A. §
 

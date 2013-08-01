@@ -153,7 +153,7 @@ a következő törvényt alkotja:
 
 Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2004. évi CXXXVII. törvényhez
 

@@ -373,9 +373,9 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (4) A nyilvános magánlevéltár a 34/C. §-ban foglaltak szerinti költségvetési támogatásban részesül. A költségvetési támogatás a pártok által fenntartott nyilvános magánlevéltárakat is megilleti.
 
-31. § (1) A nyilvános magánlevéltár köziratnak minősülő levéltári anyag kivételével bármilyen levéltári anyagot gyűjthet, az illetékes egyházi levéltár azonban gyűjtheti az egyház által fenntartott nevelési-oktatási intézmény köziratnak minősülő levéltári anyagát is.
+31. § (1) A nyilvános magánlevéltár köziratnak minősülő levéltári anyag kivételével bármilyen levéltári anyagot gyűjthet, a vallási közösség levéltára gyűjtheti a vallási közösség által fenntartott nevelési-oktatási intézmény köziratnak minősülő levéltári anyagát is.
 
-(2) A kultúráért felelős miniszter engedélyezheti a káptalani vagy konventi hiteleshelyi levéltárak anyagának az illetékes hazai egyházi levéltárban, más köziratnak nyilvános magánlevéltárban történő elhelyezését, ha a levéltár fenntartója az anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi.
+(2) A kultúráért felelős miniszter engedélyezheti a káptalani vagy konventi hiteleshelyi levéltárak anyagának a vallási közösség levéltárában, más köziratnak nyilvános magánlevéltárban történő elhelyezését, ha a levéltár fenntartója az anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi.
 
 ### A maradandó értékű magániratok védelme
 

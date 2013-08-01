@@ -73,7 +73,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 4. A bioüzemanyag közlekedési célú felhasználásának előmozdítására vonatkozó rendelkezések
 
-5. § (1) A motorbenzint vagy a dízelgázolajat forgalomba hozó üzemanyag-forgalmazó a bioüzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba bekeverve – úgy köteles forgalomba hozni, hogy az általa havi szinten forgalomba hozott bioüzemanyag mennyisége elérje a Kormány rendeletében meghatározott kötelező bioüzemanyag-részarány mennyiségét.
+5. § (1) A motorbenzint vagy a dízelgázolajat forgalomba hozó üzemanyag-forgalmazó a bioüzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott bioüzemanyag mennyisége elérje a Kormány rendeletében meghatározott kötelező bioüzemanyag-részarány mennyiségét.
 
 (2) A kötelező bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni
 
@@ -87,23 +87,18 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 6. § (1) A forgalomba hozatal céljából előállított, beszerzett, értékesített és a forgalomba hozott bioüzemanyagra vonatkozó, valamint bioüzemanyag fenntarthatósági követelményeknek való megfelelését igazoló, a Kormány rendeletében meghatározottak szerinti adatokat a rendeletben rögzítettek szerint kell nyilvántartani és bizonylatolni.
 
-(2) Az üzemanyag-forgalmazó köteles havonta, a tárgyhót követő hónap 20. napjáig a tárgyhóban forgalomba hozott motorbenzinről, dízelgázolajról és bioüzemanyagról a Kormány rendeletében meghatározottak szerinti jelentést a vámhatóságnak benyújtani.
+(2) Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év harmadik hónapjának 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról és bioüzemanyagról a Kormány rendeletében meghatározottak szerinti jelentést a vámhatóságnak benyújtani.
 
 (3) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját kővető 12 munkanapon belül a vámhatósághoz benyújtani.
 
 7. § (1) A vámhatóság bírságot szab ki arra az üzemanyag-forgalmazóra, amely
 
-- a) a tárgyhónapban a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot hozott forgalomba, vagy
+- a) a tárgyévben a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot hozott forgalomba, vagy
 - b) az előírt határidőre nem nyújtotta be, vagy nem a meghatározott tartalommal nyújtotta be a 6. § (2)–(3) bekezdése szerinti jelentést.
 
-(2) Az (1) bekezdés a) pontja szerinti esetben kiszabandó bírság alapja az üzemanyag-forgalmazó tárgyhavi motorbenzin- és dízelgázolaj-forgalma alapján a kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának és az üzemanyag-forgalmazó által a tárgyhónapban ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és 35 Ft/MJ fajlagos bírságtételnek a szorzata.
+(2) Az (1) bekezdés a) pontja szerinti esetben kiszabandó bírság alapja az üzemanyag-forgalmazó tárgyévi motorbenzin- és dízelgázolaj-forgalma alapján a kötelező bioüzemanyag-részaránnyal meghatározott bioüzemanyag-mennyiség energiatartalmának és az üzemanyag-forgalmazó által a tárgyévben ténylegesen forgalomba hozott bioüzemanyag-mennyiség energiatartalmának MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és 35 Ft/MJ fajlagos bírságtételnek a szorzata.
 
-(3) Amennyiben az üzemanyag-forgalmazó azért hozott a tárgyhónapban a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot forgalomba, mert
-
-- a) az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, vagy
-- b)
-
-a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti esetben a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával vagy a b) pont szerinti esetben kiszabható bírságalap azon részével, mely az igazolás hiánya miatt keletkezett.
+(3) Ha az üzemanyag-forgalmazó azért hozott a tárgyévben a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot forgalomba, mert az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, a (2) bekezdés szerinti bírságalapot csökkenteni kell a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával.
 
 (4) Az (1) bekezdés b) pontja szerinti esetben az üzemanyag-forgalmazó egyszázezer Ft-tól egymillió Ft-ig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott bioüzemanyag azon mennyiségét, melyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését.
 

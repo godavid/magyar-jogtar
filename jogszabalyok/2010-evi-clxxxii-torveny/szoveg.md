@@ -23,7 +23,7 @@ a következő törvényt alkotja:
 - a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
 - b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású intézmény, települési, területi és nemzetiségi önkormányzat, és az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
 - c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
-- d) egyház, belső egyházi jogi személy, valamint az általuk fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+- d) egyházi jogi személy, valamint a határon túli egyház és annak hitéleti, nevelési-oktatási, gyermekjóléti, kulturális vagy szociális tevékenységet ellátó intézménye.
 
 (2a) Az (1a) bekezdésben meghatározott célra az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve.
 
@@ -43,7 +43,7 @@ a következő törvényt alkotja:
   - aa) nevelés, oktatás, képzés, továbbképzés (ideértve a Szátv. 14. §-ában foglalt támogatásokat is), továbbá tankönyv- és taneszköz-támogatás, ösztöndíj és közösségi sporttevékenység céljára;
   - ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával és megismerhetővé tételével, a hagyományos magyar kultúrtáj védelmével kapcsolatos célokra;
   - ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
-- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, egyházi, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
+- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, vallási, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
   - ba) az alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
   - bb) az európai uniós tagsággal és az Európai Unió által biztosított támogatások felhasználásával kapcsolatos továbbképzési tevékenység ellátására;
 - c) önkormányzat, azok társulása, szövetsége

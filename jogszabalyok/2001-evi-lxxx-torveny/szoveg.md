@@ -12,7 +12,7 @@ a jogellenesen kivitt kulturális javak visszaszolgáltatásáról
 
 - 1. kulturális javak:
   - a) azok a javak, melyeket a tagállam területéről történő jogellenes kivitel előtt vagy azt követően nemzeti jogszabály vagy államigazgatási eljárás keretében hozott hatósági határozat az Európai Közösséget létrehozó szerződés 30. (ex. 36.) Cikke szerinti ,,művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek'' közé sorol, és
-  - b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak, vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik: – muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő közgyűjteménynek, – egyházi intézmények leltárának;
+  - b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő gyűjteménynek vagy egyházi jogi személy vagy vallási tevékenységet végző szervezet leltárának;
 - 2. közgyűjtemény: az a gyűjtemény, mely a tagállam, annak helyi vagy regionális hatósága, illetve olyan intézmény tulajdonát képezi, mely a tagállam területén található és a tagállam jogszabálya szerint közintézménynek minősül, továbbá a tagállam, illetve egy helyi vagy regionális hatóság tulajdona, vagy finanszírozását jelentős mértékben azok biztosítják;
 - 3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak védelméről szóló tagállami jogszabályok vagy a kulturális javak kiviteléről szóló 116/2009/EK tanácsi rendelet megsértésével történt kivitele, illetve a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértés is;
 - 4. kérelmező állam: az a tagállam, amelynek területéről a kulturális javakat jogellenesen kivitték;
@@ -48,11 +48,11 @@ a jogellenesen kivitt kulturális javak visszaszolgáltatásáról
 (2) Nem indítható visszaszolgáltatási eljárás, ha
 
 - a) a kérelmező állam központi szervének a kulturális javak előfordulási helyére vagy a birtokosára vonatkozó információ tudomásra jutásától számított 1 év, vagy
-- b) a jogellenes kiviteltől számított 30 év, illetve közgyűjtemények vagy egyházi intézmények leltárában szereplő javak esetében 75 év
+- b) a jogellenes kiviteltől számított 30 év, illetve közgyűjtemények, valamint az egyházi jogi személy vagy a vallási tevékenységet végző szervezet leltárában szereplő javak esetében 75 év
 
 eltelt.
 
-(3) Nemzetközi szerződés a közgyűjtemények vagy egyházi intézmények leltárában szereplő javak esetében 75 évnél hosszabb igényérvényesítési határidőt is előírhat.
+(3) Nemzetközi szerződés a közgyűjtemények, valamint az egyházi jogi személy vagy a vallási tevékenységet végző szervezet leltárában szereplő javak esetében 75 évnél hosszabb igényérvényesítési határidőt is előírhat.
 
 ### Eljárási szabályok
 

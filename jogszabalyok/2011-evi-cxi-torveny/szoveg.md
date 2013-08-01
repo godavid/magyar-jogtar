@@ -25,7 +25,7 @@ a védelmére.
 
 (2) Az alapvető jogok biztosa véleményezi a feladat- és hatáskörét érintő jogszabályok tervezetét, a hosszú távú fejlesztési, területrendezési és a jövő nemzedékek életminőségét egyébként közvetlenül érintő terveket és koncepciókat, valamint javaslatot tehet az alapvető jogokat érintő jogszabályok módosítására, megalkotására, illetve nemzetközi szerződés kötelező hatályának elismerésére.
 
-(3) Az alapvető jogok biztosa kezdeményezheti a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát az Alkotmánybíróságnál.
+(3) Az alapvető jogok biztosa kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított harminc napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát.
 
 (4) Az alapvető jogok biztosa közreműködik a feladat- és hatáskörét érintő nemzetközi szerződések alapján készülő nemzeti jelentések előkészítésében, figyelemmel kíséri és értékeli e szerződések magyar joghatóság alá tartozó érvényesülését.
 
@@ -221,7 +221,7 @@ A közszolgáltatást végző szerv kizárólag e tevékenységével összefügg
 
 (3) Az alapvető jogok biztosa nem vizsgálhatja
 
-- a) az Országgyűlés,
+- a) – a 2. § (3) bekezdésében foglaltakat ide nem értve – az Országgyűlés,
 - b) a köztársasági elnök,
 - c) az Alkotmánybíróság,
 - d) az Állami Számvevőszék,

@@ -500,7 +500,7 @@ foglaltakat kell alkalmazni.
 
 – az államháztartásért felelős miniszterrel egyetértésben a tankönyvkiadás támogatásának elveit és rendjét,
 
-– az egyházi jogi személy által szervezett, a nevelési-oktatási intézményben folyó fakultatív hit- és vallásoktatásban alkalmazott könyvek jegyzékének összeállítását és közzétételét.
+– az egyházi jogi személy által szervezett, a nevelési-oktatási intézményben folyó hit- és vallásoktatásban alkalmazott könyvek jegyzékének összeállítását és közzétételét.
 
 (2)
 

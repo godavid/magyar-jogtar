@@ -2,9 +2,9 @@
 
 a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról
 
-A magyarországi egyházak és vallási közösségek a társadalom kiemelkedő fontosságú értékhordozó és közösségteremtő tényezői, amelyek hitéleti tevékenységük mellett, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, környezetvédelmi, sport- és más tevékenységükkel, valamint a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország és a nemzet életében. Magyarország elismeri és támogatja a külhoni magyar közösségek életében meghatározó szerepet játszó egyházak és vallási közösségek tevékenységét is.Az Országgyűlés– a lelkiismereti és vallásszabadság érvényre juttatása, a mások meggyőződésének tiszteletben tartása biztosítékaként az egyházak önállóságának biztosítása, az állammal fennálló kapcsolatainak szabályozása céljából,– figyelemmel az Emberi Jogok Egyetemes Nyilatkozatára, az Emberi jogok és alapvető szabadságok védelméről szóló egyezményre, valamint a lelkiismereti és vallásszabadság alapvető emberi jogával kapcsolatban megfogalmazott nemzetközi dokumentumokra, valamint arra, hogy az Európai Unió működéséről szóló szerződés 17. cikke szerint az Európai Unió tiszteletben tartja és nem változtatja meg az egyházak és vallási egyesületek vagy közösségek tagállamokban meglévő státuszát,– az Alaptörvénnyel összhangban, az állam és egyház különvált működésének alkotmányos követelményét figyelemben tartva, de az együttmunkálkodás kölcsönös előnyökön alapuló elveit megfelelően érvényesítve,– folytatva a vallásszabadságot biztosító törvényekben testet öltő hagyományt,– tekintettel az állam világnézeti semlegességére és a felekezetek közötti békés együttélésre való törekvésre,– tiszteletben tartva az egyházakkal megkötött megállapodásokat,– felismerve, hogy a közjó előmozdításának kulcsa az emberi személy méltóságának a tisztelete, amely lehetővé teszi nemcsak az emberek és a családok számára, hanem az egyházak részére is, hogy szabadon teljesítsék küldetésüket,– külön is elismerve Magyarország történelmében és kultúrájában folyamatosan meghatározó jelentőséggel bíró egyházak kiemelkedő szerepét
+A Magyarországon működő vallási közösségek a társadalom kiemelkedő fontosságú értékhordozó és közösségteremtő tényezői, amelyek hitéleti tevékenységük mellett, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, környezetvédelmi, sport- és más tevékenységükkel, valamint a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország és a nemzet életében. Magyarország elismeri és támogatja a külhoni magyar közösségek életében meghatározó szerepet játszó vallási közösségek tevékenységét is.Az Országgyűlés– a lelkiismereti és vallásszabadság érvényre juttatása, a mások meggyőződésének tiszteletben tartása biztosítékaként a vallási közösségek önállóságának biztosítása, az állammal fennálló kapcsolatainak szabályozása céljából,– figyelemmel az Emberi Jogok Egyetemes Nyilatkozatára, az Emberi jogok és alapvető szabadságok védelméről szóló egyezményre, valamint a lelkiismereti és vallásszabadság alapvető emberi jogával kapcsolatban megfogalmazott nemzetközi dokumentumokra, valamint arra, hogy az Európai Unió működéséről szóló szerződés 17. cikke szerint az Európai Unió tiszteletben tartja és nem változtatja meg a vallási közösségek tagállamokban meglévő státuszát,– az Alaptörvénnyel összhangban, az állam és a vallási közösségek különvált működésének alkotmányos követelményét figyelemben tartva, de az együttmunkálkodás kölcsönös előnyökön alapuló elveit megfelelően érvényesítve,– folytatva a vallásszabadságot biztosító törvényekben testet öltő hagyományt,– tekintettel az állam világnézeti semlegességére és a felekezetek közötti békés együttélésre való törekvésre,– tiszteletben tartva a vallási közösségekkel megkötött megállapodásokat,– felismerve, hogy a közjó előmozdításának kulcsa az emberi személy méltóságának a tisztelete, amely lehetővé teszi nemcsak az emberek és a családok számára, hanem a vallási közösségek részére is, hogy szabadon teljesítsék küldetésüket,– külön is elismerve Magyarország történelmében és kultúrájában folyamatosan meghatározó jelentőséggel bíró egyházak kiemelkedő szerepét
 
-az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése alapján, a következő törvényt alkotja:
+az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (4) bekezdése alapján, a következő törvényt alkotja:
 
 ### I. Fejezet — A LELKIISMERETI ÉS VALLÁSSZABADSÁG JOGA
 
@@ -28,13 +28,17 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 
 (2) A lelkiismereti és vallásszabadság jogával összefüggésben a népszámlálás során nem kötelező jelleggel, azonosításra alkalmatlan módon gyűjthető adat.
 
-### II. Fejezet — AZ EGYHÁZAK, VALLÁSFELEKEZETEK ÉS VALLÁSI KÖZÖSSÉGEK JOGÁLLÁSA
+### II. Fejezet — A VALLÁSI KÖZÖSSÉGEK JOGÁLLÁSA
 
-#### 1. A vallási tevékenység
+#### 1. A vallási tevékenység és a vallási közösség jogállására vonatkozó általános szabályok
 
-6. § (1) A vallási tevékenység olyan világnézethez kapcsolódó tevékenység, amely természetfelettire irányul, rendszerbe foglalt hitelvekkel rendelkezik, tanai a valóság egészére irányulnak, valamint az erkölcsöt és az emberi méltóságot nem sértő sajátos magatartáskövetelményekkel az emberi személyiség egészét átfogja.
+6. § (1) Vallási közösség az Országgyűlés által elismert egyház és a vallási tevékenységet végző szervezet. Az Országgyűlés által elismert egyház bevett egyház.
 
-(2) Önmagában nem tekinthető vallási tevékenységnek
+(2) A vallási közösség elsődlegesen vallási tevékenység céljából jön létre és működik.
+
+(3) A vallási tevékenység olyan világnézethez kapcsolódó tevékenység, amely természetfelettire irányul, rendszerbe foglalt hitelvekkel rendelkezik, tanai a valóság egészére irányulnak, valamint sajátos magatartáskövetelményekkel az emberi személyiség egészét átfogja.
+
+(4) Önmagában nem tekinthető vallási tevékenységnek
 
 - a) a politikai és érdekérvényesítő,
 - b) a pszichikai vagy parapszichikai,
@@ -49,205 +53,313 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 - k) a kulturális,
 - l) a sport,
 - m) az állat-, környezet- és természetvédelmi,
-- n) a hitéleti tevékenységhez szükségesen túlmenő adatkezelési,
-- o) a szociális tevékenység.
+- n) a hitéleti tevékenységhez szükségesen túlmenő adatkezelési, valamint
+- o) a szociális
 
-#### 2. Az egyház
+tevékenység.
 
-7. § (1) Az egyház, vallásfelekezet, vallási közösség (a továbbiakban együtt: egyház) azonos hitelveket valló természetes személyekből álló, önkormányzattal rendelkező autonóm szervezet, amely elsődlegesen vallási tevékenység gyakorlása céljából jön létre és működik.
+(5) A vallási közösség kizárólag olyan vallási tevékenységet gyakorolhat, amely az Alaptörvénnyel nem ellentétes, jogszabályba nem ütközik és nem sérti más közösségek jogait és szabadságát.
 
-(2) Az egyház jogi személy.
+7. § A vallási közösség az egyház megjelölést elnevezésében és tevékenységére való utalás során önmeghatározása céljából – a saját hitelvei szerinti tartalommal – használhatja. A vallási tevékenységet végző szervezet elnevezése az egyesületi különös formára való utalást nem tartalmazza.
 
-(3) Az egyház kizárólag olyan vallási tevékenységet gyakorolhat, amely az Alaptörvénnyel nem ellentétes, jogszabályba nem ütközik, nem sérti más közösségek jogait és szabadságát, valamint az emberi méltóságot.
+8. § (1) Az állam a vallási közösségek irányítására, felügyeletére szervet nem működtethet és nem hozhat létre.
 
-(4) Az Országgyűlés által elismert egyházakat a melléklet tartalmazza.
+(2) A vallási közösség hitelvei, belső törvénye, alapszabálya, szervezeti és működési szabályzata vagy azoknak megfelelő más szabályzata (a továbbiakban együtt: belső szabály) alapján hozott határozat érvényre juttatására állami kényszer nem alkalmazható, azt állami hatóság nem vizsgálhatja. A vallási közösség belső szabályon alapuló döntését állami szerv nem módosíthatja vagy bírálhatja felül, a jogszabályban nem szabályozott belső jogviszonyokból eredő jogviták elbírálására állami szervnek nincs hatásköre.
 
-8. § A jelentős társadalmi támogatottsággal rendelkező, történelmi és kulturális értékeket megőrző, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, sportintézményeket fenntartó (a továbbiakban: közcélú tevékenység) egyházzal – működésük biztosítása érdekében – az állam megállapodást köthet.
+9. § (1) A jelentős társadalmi támogatottsággal rendelkező, történelmi és kulturális értékeket megőrző, nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységet önmaga vagy intézménye útján ellátó vallási közösséggel – működése biztosítása érdekében – a Kormány megállapodást köthet.
 
-9. § (1) Az egyházakat azonos jogok illetik és azonos kötelezettségek terhelik.
+(2) A vallási közösségek tényleges társadalmi szerepét, az általuk ellátott (1) bekezdés szerinti tevékenységet az állam a vallási közösségek társadalmi szerepéhez kapcsolódó további jogszabályok megalkotásánál és a velük való kapcsolattartás során figyelembe veheti.
 
-(2) Az egyházak tényleges társadalmi szerepét, az általuk ellátott közcélú tevékenységet az állam az egyházak társadalmi szerepéhez kapcsolódó további jogszabályok megalkotásánál és a velük való kapcsolattartás során figyelembe veheti.
+#### 2. A vallási tevékenységet végző szervezet
 
-10. § (1) Az állam és az egyházak különváltan működnek. Az egyházak önállóak. Az állam a közösségi célok érdekében együttműködik az egyházakkal.
+9/A. § (1) A vallási tevékenységet végző szervezet olyan egyesület, amelynek tagjai azonos hitelveket valló természetes személyek, és amelynek alapszabályában meghatározott célja vallási tevékenység végzése.
 
-(2) Az állam az egyházak irányítására, felügyeletére szervet nem működtethet és nem hozhat létre.
+(2) A vallási tevékenységet végző szervezetre az egyesületre vonatkozó szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(3) Az egyház hitelvei, belső törvénye, szervezeti és működési szabályzata vagy azoknak megfelelő más szabályzata (a továbbiakban együtt: belső egyházi szabály) alapján hozott határozat érvényre juttatására állami kényszer nem alkalmazható, azt az állami hatóságok nem vizsgálhatják. Az egyház belső egyházi szabályon alapuló döntését állami szerv nem módosíthatja vagy bírálhatja felül, a jogszabályban nem szabályozott belső jogviszonyokból eredő jogviták elbírálására állami szervnek nincs hatásköre.
+9/B. § (1) A vallási tevékenységet végző szervezet nyilvántartásba vétele a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
 
-(4) Az egyház a vallási tevékenységhez kapcsolódó személyes adatokat belső egyházi szabálya szerint kezeli, azokat az érintett hozzájárulásával – halála esetén leszármazója hozzájárulásával – továbbíthatja és hozhatja nyilvánosságra.
+(2) A nyilvántartásba vétel iránti kérelem alapján a bíróság kizárólag azt vizsgálja, hogy
 
-#### 3. A belső egyházi jogi személy
+- a) a szervezet képviselői nyilatkoztak arról, hogy az alapítás vallási tevékenység végzése céljából történik,
+- b) a szervezet által gyakorolni kívánt tevékenység a 6. § (4) és (5) bekezdésével nem ellentétes,
+- c) legalább tíz tag a szervezet megalakulását kimondta és elfogadta annak alapszabályát, vagy
+- d) a szervezet tagja kizárólag természetes személy és az alapszabály nem teszi lehetővé, hogy a szervezet tagja nem természetes személy is legyen.
 
-11. § (1) Az egyház belső egyházi szabálya szerint jogi személyiséggel rendelkező egysége vagy szervezete jogi személy (a továbbiakban: belső egyházi jogi személy).
+(3) A bíróság a nyilvántartásba vétel iránti kérelmet kizárólag abban az esetben utasíthatja el, ha a szervezet nem felel meg a (2) bekezdés a)–d) pontjában meghatározott valamely feltételnek.
 
-(2) Nem minősül belső egyházi jogi személynek az egyház belső egyházi szabálya szerint egyházi jogi személyiséggel nem rendelkező, az egyház által létrehozott, jogszabály alapján jogalanyisággal rendelkező szervezet.
+(4) A vallási tevékenységet végző szervezet alapszabálya az egyesületre vonatkozó szabályoktól eltérően határozhatja meg
 
-(3) A belső egyházi jogi személyt az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter (a továbbiakban: miniszter) az egyház egészének vagy legfőbb szervének képviselője kérelmére nyilvántartásba veszi. A nyilvántartás a belső egyházi jogi személyeket az adott egyház szerveként tartalmazza.
+- a) a tagsági jogviszony keletkezésének és a tagsági jogok gyakorlásának módját, valamint
+- b) azoknak a vallási tevékenységet végző szervezettel jogviszonyban álló személyeknek a körét, feladatát és hatáskörét, akik a vallási tevékenységet végző szervezet
+  - ba) működésére vonatkozó belső döntés meghozatalára és ellenőrzésére, illetve
+  - bb) ügyintézésére és képviseletére
 
-(4) A (3) bekezdés alapján nyilvántartásba nem vett belső egyházi jogi személy jogi személyiségét az egyház egészének, illetve legfőbb szervének vagy az adott jogi személy közvetlen felettes egyházi szervének a miniszternél bejelentett képviselője vagy az egyház belső egyházi szabálya szerint erre feljogosított tisztségviselője igazolja.
+jogosultak.
 
-#### 4. Az egyházi intézmény
+(5) A vallási tevékenységet végző szervezet csak vallási tevékenységet végző szervezettel egyesülhet.
 
-12. § (1) Az egyház, a belső egyházi jogi személy nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális, valamint sporttevékenységet végző intézményt létesíthet és tarthat fenn. Az egyházi intézmény az egyház belső egyházi szabálya szerint rendelkezhet egyházi jogi személyiséggel.
+9/C. § (1) Az ügyésznek a vallási tevékenységet végző szervezet működése felett gyakorolt törvényességi ellenőrzése kizárólag a vallási tevékenységet végző szervezet 6. § (4) és (5) bekezdésének megfelelő működésének ellenőrzésére terjed ki. Ha az e feltételek szerinti működés az ügyész önkéntes teljesítésre történő felhívása alapján sem biztosítható, az ügyész pert indít a vallási tevékenységet végző szervezettel szemben.
 
-(2) Az egyházi intézmény világnézeti szempontból elkötelezett, így a felvételnél és a foglalkoztatásra irányuló jogviszony létesítésénél, fenntartásánál és megszüntetésénél a sajátos identitás megőrzéséhez szükséges feltételek határozhatók meg.
+(2) A bíróság a vallási tevékenységet végző szervezetet az ügyész keresete alapján
 
-#### 5. Az egyházi személy
+- a) a működés törvényességének helyreállítására kötelezi, ennek elmaradása esetén megszünteti, vagy
+- b) feloszlatja, ha a vallási tevékenységet végző szervezet működése az Alkotmánybíróság elvi véleménye alapján az Alaptörvénybe ütközik.
 
-13. § (1) Az egyházi személy az egyház belső egyházi szabályában meghatározott, az egyház, belső egyházi személy szolgálatában álló természetes személy.
+#### 3. Az egyházi jogi személy
 
-(2) Az egyházi személy szolgálatát sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban látja el.
+10. § Egyházi jogi személy a bevett egyház és annak belső egyházi jogi személye.
 
-(3) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
+11. § (1) A bevett egyház azonos hitelveket valló természetes személyekből álló, önkormányzattal rendelkező autonóm szervezet, amelynek ezt a közjogi jogállást az Országgyűlés a közösségi célok érdekében történő együttműködés céljából biztosítja.
 
-(4) Az egyházi személyek fokozott szabálysértési és büntetőjogi védelemben részesülnek.
+(2) A bevett egyház jogi személy.
 
-### III. Fejezet — AZ EGYHÁZKÉNT VALÓ ELISMERÉSRE ÉS A NYILVÁNTARTÁSBA VÉTELRE VONATKOZÓ SZABÁLYOK
+(3) A bevett egyházakat azonos jogok illetik és azonos kötelezettségek terhelik.
 
-#### 6. Az egyházként való elismerésre irányuló eljárás
+(4) A bevett egyházakat a melléklet tartalmazza.
 
-14. § (1)
+12. § (1) A bevett egyház belső szabálya szerint jogi személyiséggel rendelkező egysége, szervezete vagy intézménye jogi személy.
 
-(2) Az egyesület akkor ismerhető el egyházként, ha
+(2) A belső egyházi jogi személy a bevett egyház belső szabálya szerint működik, a bevett egyház belső szabályában meghatározott viszonyokban a bevett egyház képviseletében jár el. A belső egyházi jogi személyre a bevett egyházra vonatkozó szabályokat megfelelően kell alkalmazni.
 
-- a) alapcélként vallási tevékenységet végez,
+(3) A 9. § (1) bekezdése szerinti tevékenységet ellátó intézmény a bevett egyház belső szabálya szerint belső egyházi jogi személynek minősülhet. Nem minősül belső egyházi jogi személynek a vallási közösség által létrehozott gazdasági társaság, alapítvány és egyesület.
+
+### II/A. Fejezet — A VALLÁSI KÖZÖSSÉG SZOLGÁLATÁBAN ÁLLÓ SZEMÉLY
+
+13. § (1) Az egyházi személy a bevett egyház belső szabályában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy.
+
+(2) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
+
+(3) Az egyházi személy fokozott szabálysértési és büntetőjogi védelemben részesül.
+
+13/A. § (1) A vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja a vallási tevékenységet végző szervezet szolgálatában álló, munkaviszonyban foglalkoztatott természetes személy.
+
+(2) A vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjára a 13. § (2) és (3) bekezdését alkalmazni kell.
+
+### III. Fejezet — AZ EGYHÁZKÉNT TÖRTÉNŐ ELISMERÉS
+
+#### 4. Az elismerés feltételei
+
+14. § A vallási tevékenységet végző szervezetet az Országgyűlés egyházként ismeri el, ha
+
+- a) elsődlegesen vallási tevékenységet végez,
 - b) tanításának lényegét tartalmazó hitvallása és rítusa van,
-- c) legalább százéves nemzetközi működéssel rendelkezik vagy legalább húsz éve szervezett formában, egyesületként működik Magyarországon, amely húszéves időtartamba beszámít az e törvény hatálybalépése előtt a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyházként való működés is,
-- d) alapszabályát, létesítő okiratát, belső egyházi szabályát elfogadta,
+- c) legalább
+  - ca) százéves nemzetközi működéssel rendelkezik vagy
+  - cb) húsz éve szervezett formában, vallási közösségként működik Magyarországon és Magyarország lakosságának 0,1 százalékát elérő taglétszámmal rendelkezik,
+- d) elfogadott belső szabálya van,
 - e) ügyintéző és képviseleti szerveit megválasztotta vagy kijelölte,
-- f) képviselői nyilatkoznak arról, hogy az általuk létrehozott szervezet tevékenysége nem ellentétes az Alaptörvénnyel, jogszabályba nem ütközik, valamint nem sérti más jogait és szabadságát, és
-- g) az egyesülettel szemben – működése során – nemzetbiztonsági kockázat nem merült fel,
-- h) tanai és tevékenységei nem sértik az ember testi-lelki egészséghez való jogát, az élet védelmét, az emberi méltóságot.
+- f) képviselői nyilatkoznak arról, hogy az általuk gyakorolni kívánt tevékenység nem ellentétes a 6. § (4) és (5) bekezdésével,
+- g) tanai és tevékenységei nem sértik az ember testi-lelki egészséghez való jogát, az élet védelmét, az emberi méltóságot,
+- h) a vallási tevékenységet végző szervezettel szemben – működése során – nemzetbiztonsági kockázat nem merült fel és
+- i) a közösségi célok érdekében történő együttműködés iránti szándékát és annak hosszú távú fenntartására való képességét különösen alapszabálya, tagjainak száma, a kezdeményezést megelőzően a 9. § (1) bekezdése szerinti területeken végzett tevékenysége és az ilyen tevékenységnek a lakosság nagyobb csoportja számára való hozzáférhetősége bizonyítja.
 
-(3)–(5)
+14/A. § (1) A 14. § c) pont ca) alpontja szerinti nemzetközi működést
 
-15. § Az egyesület az e törvénynek az adott egyház bejegyzésére vonatkozó módosítása hatálybalépésének napjától minősül egyháznak.
+- a) legalább két országban egyházi státusszal rendelkező és azonos hitelveket valló egyházak által kiállított igazolás,
+- b) legalább két országban működő és azonos hitelveket valló egyházak, tagegyházak szövetsége által a szövetségi tagságról kiállított igazolás, vagy
+- c) legalább két országban működő részegyházakat összefogó világegyház által kiállított igazolás
 
-#### 7. A nyilvántartásba vételi eljárás
+alapján kell megállapítani.
 
-16. § A miniszter az e törvénynek az adott egyház bejegyzésére vonatkozó módosítása hatálybalépését követő 30 napon belül az egyházat nyilvántartásba veszi.
+(2) A 14. § c) pont cb) alpontja szerinti működésbe beszámít az e törvény hatálybalépése előtt a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyházként, valamint a 2012. január 1-je és a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépése, illetve a 33. § (3) bekezdésében meghatározott időpont között alapcélként vallási tevékenységet végző szervezetként való működés is.
 
-17. § (1) A nyilvántartás tartalmazza az egyház
+(3) A 14. § c) pont cb) alpontja szerinti taglétszámot a Magyarország lakosságszámára vonatkozóan – a kezdeményezés benyújtását megelőzően – a Központi Statisztikai Hivatal által közzétett legutolsó adat alapulvételével kell meghatározni.
+
+(4) Az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter (a továbbiakban: miniszter) a vallási tevékenységet végző szervezet taglétszámának igazolása keretében tudomására jutott személyes adatot a 14. § a)–f) pontja szerinti feltételek
+
+- a) fennállására vonatkozó döntés esetén a döntés közléséig,
+- b) fennállásának hiányára vonatkozó döntés esetén a döntés jogerőre emelkedéséig vagy ha ez későbbi, a jogerős döntés ellen benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig
+
+kezelheti.
+
+(5) A 14. § h) pontja szerinti feltétel teljesülését – a nemzetbiztonsági szolgálatokról szóló törvény szerinti, a nemzetbiztonsági kockázati tényezők vizsgálatát követően – az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottsága állapítja meg.
+
+#### 5. Az elismerési eljárás
+
+14/B. § (1) A vallási tevékenységet végző szervezet egyházként történő elismerését a vallási tevékenységet végző szervezet képviseletére jogosult személy kezdeményezheti. A kezdeményezést a miniszternél kell előterjeszteni.
+
+(2) A miniszter 60 napon belül közigazgatási hatósági eljárás keretében dönt a 14. § a)–f) pontja szerinti feltételek fennállásáról.
+
+(3) A miniszter eljárásában jogász, vallástörténész, vallástudós vagy szociológus szakképzettségű és tudományos fokozattal rendelkező szakértő igénybevétele kötelező. Nem kérhető fel szakértőként egyházi személy.
+
+(4) A 14. § a)–f) pontja szerinti feltételek fennállására vonatkozó döntést az Országgyűlés vallásügyekkel foglalkozó bizottságával (a továbbiakban: bizottság) is közölni kell.
+
+14/C. § (1) A bizottság a miniszter 14/B. § (4) bekezdése szerinti közlése alapján a vallási tevékenységet végző szervezet egyházként történő elismerésére vonatkozó törvényjavaslatot – és ha a 14. § g)–i) pontjában meghatározott feltételek nem állnak fenn, a törvényjavaslathoz kapcsolódóan országgyűlési határozati javaslatot – terjeszt az Országgyűlés elé. A bizottság a törvényjavaslatot, illetve az országgyűlési határozati javaslatot a miniszter 14/B. § (4) bekezdése szerinti közlésétől számított 60 napon belül nyújtja be.
+
+(2) A bizottság eljárásában a vallási tevékenységet végző szervezet nyilvános bizottsági ülésen történő meghallgatása kötelező.
+
+(3) Az Országgyűlés a törvényjavaslat tárgyalása során a 14. § g)–i) pontjában meghatározott feltételek fennállásának vizsgálata alapján a törvényjavaslat benyújtásától számított 60 napon belül a közösségi célok érdekében a vallási tevékenységet végző szervezettel való együttműködés céljából a törvényjavaslat elfogadásával dönt a vallási tevékenységet végző szervezet egyházként történő elismeréséről.
+
+(4) Ha az Országgyűlés a vallási tevékenységet végző szervezet egyházként történő elismerését nem támogatja és a törvényjavaslatot nem fogadja el, a (3) bekezdésben meghatározott határidőn belül dönt az országgyűlési határozat elfogadásáról. Az országgyűlési határozat tartalmazza, hogy a 14. § g)–i) pontjában meghatározott melyik feltétel hiányát és milyen okból állapította meg az Országgyűlés.
+
+(5) Az országgyűlési határozat közzétételétől számított egy éven belül a vallási tevékenységet végző szervezet egyházként történő elismerésére irányuló ismételt kezdeményezés nem indítható.
+
+14/D. § (1) A vallási tevékenységet végző szervezet a miniszter 14/B. § (2) bekezdése szerinti döntésének bírósági felülvizsgálatát a közigazgatási döntések felülvizsgálatára vonatkozó szabályok alapján kérheti.
+
+(2) A vallási tevékenységet végző szervezet az országgyűlési határozat felülvizsgálatát az Alkotmánybíróságtól az Alkotmánybíróságról szóló törvényben meghatározott eljárás keretében kérheti.
+
+15. § A vallási tevékenységet végző szervezet az e törvénynek az adott bevett egyház felvételére vonatkozó módosítása hatálybalépésének napjától minősül bevett egyháznak.
+
+### III/A. Fejezet — AZ EGYHÁZI JOGI SZEMÉLYEK NYILVÁNTARTÁSA
+
+16. § (1) A miniszter az e törvénynek az adott bevett egyház felvételére vonatkozó módosítása hatálybalépését követő 30 napon belül a bevett egyházat nyilvántartásba veszi.
+
+(2) A belső egyházi jogi személyt a miniszter a bevett egyház egészének vagy legfőbb szervének képviselője kérelmére veszi nyilvántartásba. A nyilvántartásba nem vett belső egyházi jogi személy jogi személyiségét a bevett egyház egészének vagy legfőbb szervének vagy az adott belső egyházi jogi személy közvetlen felettes egyházi szervének a miniszternél bejelentett képviselője vagy a bevett egyház belső szabálya szerint erre feljogosított tisztségviselője igazolja.
+
+17. § (1) A nyilvántartás tartalmazza a bevett egyház
 
 - a) nevét, rövidített nevét, illetve a köznyelvben meghonosodott elnevezését,
 - b) székhelyét,
 - c) képviselőjének nevét, lakóhelyét és a képviselet módját,
-- d) ha az egyház ilyennel rendelkezik, címerének és logójának tartalmi leírását.
+- d) ha a bevett egyház ilyennel rendelkezik, címerének és logójának tartalmi leírását.
 
-(2) A nyilvántartásba az egyház létesítő okiratának módosítása esetén be kell jegyezni a létesítő okirat módosításának időpontját, valamint a módosítás nyilvántartásba vételéről szóló határozat számát és jogerőre emelkedésének időpontját.
+(2) A nyilvántartásba a bevett egyház létesítő okiratának módosítása esetén be kell jegyezni a létesítő okirat módosításának időpontját, valamint a módosítás nyilvántartásba vételéről szóló határozat számát és jogerőre emelkedésének időpontját.
 
-(3) A nyilvántartást a miniszter vezeti.
+(3) A nyilvántartást a miniszter vezeti. A miniszter nyilvántartás-vezetéssel összefüggő döntésének bírósági felülvizsgálatát a bevett egyház egészének vagy legfőbb szervének képviselője a közigazgatási döntések felülvizsgálatára vonatkozó szabályok alapján kérheti.
 
-(4) A belső egyházi jogi személy 11. § (3) bekezdése szerinti nyilvántartásba vételére, valamint a nyilvántartásba bejegyzett adatok változására a következő szabályokat kell alkalmazni:
+(3a) A nyilvántartás nem minősül közhiteles hatósági nyilvántartásnak.
 
-- a) a belső egyházi jogi személy nyilvántartásba vételére vonatkozó kérelmet az egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének képviselője terjesztheti elő, amelynek tartalmaznia kell a belső egyházi jogi személyre vonatkozó (1) bekezdés a)–c) pontja szerinti adatokat,
-- b) a nyilvántartás az egyház nyilvántartási száma alatt történik,
+(4) A belső egyházi jogi személy nyilvántartásba vételére, valamint a nyilvántartásba bejegyzett adatok változására a következő szabályokat kell alkalmazni:
+
+- a) a belső egyházi jogi személy nyilvántartásba vételére vonatkozó kérelmet a bevett egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének képviselője terjesztheti elő, amelynek tartalmaznia kell a belső egyházi jogi személyre vonatkozó (1) bekezdés a)–d) pontja szerinti adatokat,
+- b) a nyilvántartás a bevett egyház nyilvántartási száma alatt történik,
 - c) a miniszter a belső egyházi jogi személy nyilvántartásba vételére vonatkozó kérelmet kizárólag abból a szempontból vizsgálja, hogy az az a) pontban foglaltaknak megfelel-e.
 
-18. § (1) A nyilvántartásba bejegyzett adatok változását, valamint a 17. § (4) bekezdése szerinti nyilvántartásba vételhez szükséges adatokat – a változástól, illetve a létesítő okirat módosításától számított tizenöt napon belül – az egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének képviselője a miniszternek bejelenti.
+18. § (1) A nyilvántartásba bejegyzett adatok változását, valamint a 17. § (4) bekezdése szerinti nyilvántartásba vételhez szükséges adatokat – a változástól, illetve a létesítő okirat módosításától számított tizenöt napon belül – a bevett egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének képviselője a miniszternek bejelenti.
 
-(2) Az egyház és a belső egyházi jogi személy nyilvántartásba bejegyzett adatai nyilvánosak.
+(2) Az egyházi jogi személy nyilvántartásba bejegyzett adatai nyilvánosak.
 
-### IV. Fejezet — AZ EGYHÁZAK MŰKÖDÉSE
+### IV. Fejezet — A VALLÁSI KÖZÖSSÉGEK
 
-19. § (1) Az egyház elsősorban vallási tevékenységet végez, saját hitelvei és szertartási rendje szerint működik.
+#### 6. A vallási közösség működésének szabályai
 
-(2) Az egyház részt vállalhat a társadalom értékteremtő szolgálatában, ennek érdekében közcélú tevékenységet végezhet.
+19. § (1) A vallási közösség saját belső szabálya, hitelvei és szertartási rendje szerint működik.
 
-(3) Az egyház céljai megvalósítása érdekében jogosult gazdasági-vállalkozási tevékenységnek nem minősülő tevékenységet, valamint alaptevékenysége mellett gazdasági-vállalkozási tevékenységet is folytatni. Jogosult továbbá vállalkozásokat, civil szervezeteket létrehozni, azokban részt venni.
+(2) A vallási közösség részt vállalhat a társadalom értékteremtő szolgálatában, ennek érdekében önmaga vagy e célra létrehozott intézménye útján a 9. § (1) bekezdésében meghatározott olyan tevékenységet is elláthat, amelyet törvény nem tart fenn kizárólagosan az állam vagy annak intézménye számára.
 
-(4) Az egyház közcélú tevékenysége és intézménye a hasonló tevékenységet folytató állami vagy helyi önkormányzati intézményekkel azonos mértékű költségvetési támogatásra jogosult. Az ilyen intézményben a munkaviszony tartalma a munkabér, a munkaidő és a pihenőidő vonatkozásában a közalkalmazotti jogviszonyhoz igazodik.
+(3) A 9. § (1) bekezdése szerinti tevékenységet a vallási közösség közvetlenül vagy intézményei útján identitásának megfelelően végzi, amelyre tekintettel a felvételhez és a foglalkoztatásra irányuló jogviszony létesítéséhez, fenntartásához és megszüntetéséhez a világnézeti elkötelezettség természete vagy tartalma miatt indokolt, annak megőrzéséhez és gyakorlásához szükséges és arányos feltételek határozhatók meg.
 
-(5) Az állami vagy önkormányzati intézmények foglalkoztatottaira vonatkozó központi bérpolitikai intézkedések az egyház (4) bekezdés szerinti intézményének foglalkoztatottaira is azonos feltételekkel terjednek ki.
+(4) Az Alaptörvény VIII. cikk (2) bekezdése vagy XII. cikk (1) bekezdése alapján létrejött szervezet által ellátott 9. § (1) bekezdése szerinti tevékenységet e célból létrehozott vagy már működő belső egyházi jogi személy az ilyen szervezet egyetemes jogutódjaként nem veheti át.
 
-(6) Az egyház jogszabályban meghatározottak szerint az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül, egyedi döntés alapján támogatásban részesülhetnek.
+(5) A vallási közösség a polgári jogviszonyokban korlátozás nélkül részt vehet, ennek keretében jogosult gazdasági társaságot és civil szervezetet létrehozni, azokban részt venni.
 
-(7) E fejezet rendelkezéseit – az (1) bekezdés kivételével – a belső egyházi jogi személyre is alkalmazni kell.
+19/A. § (1) A vallási közösség bevételei elsősorban természetes személyek, jogi személyek, jogi személyiség nélküli szervezetek adományaiból és egyéb hozzájárulásaiból, valamint az ilyen bevételek hasznaiból tevődnek össze.
 
-20. § (1) Az egyház bevételei elsősorban természetes személyek, jogi személyek, jogi személyiség nélküli szervezetek adományaiból és egyéb hozzájárulásaiból tevődnek össze.
+(2) Az egyházi jogi személy és a vallási tevékenységet végző szervezet adományokat gyűjthet.
 
-(2) Az egyház a polgári jogviszonyokban korlátozás nélkül részt vehet.
+(3) A vallási közösség jogszabályban meghatározottak szerint az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül, egyedi döntés alapján támogatásban részesülhet.
 
-(3) A belső egyházi jogi személy – az egyház belső egyházi szabályában meghatározott módon – adományokat gyűjthet.
+19/B. § (1) A vallási közösség elnevezése, jelképrendszere, szertartásrendje, valamint a köznyelvben meghonosodott neve fokozott jogvédelemben részesül. Más szervezet elnevezése vagy jelképe nem kelthet olyan benyomást, hogy a szervezet, illetve tevékenysége más, korábban nyilvántartásba vett vallási közösség működéséhez kapcsolódik.
 
-(4) Az egyház vonatkozásában – ide nem értve a 6. § (2) bekezdését – nem minősül gazdasági-vállalkozási tevékenységnek
+(2) A vallási közösség elnevezését, jelképrendszerét és a köznyelvben meghonosodott elnevezését – a vallási közösség erre vonatkozó kifejezett írásbeli hozzájárulása nélkül – más nem használhatja. A kifejezett írásbeli hozzájárulás nélküli használatot jogosulatlan használatnak kell tekinteni.
 
-- a) a hitéleti, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális intézmény vagy sportintézmény működtetése, valamint ezek és a környezetvédelmi tevékenység folytatása,
+(3) Ha az egyházi személy vagy a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja nem a vallási közösség más tagja számára végez szolgálatot vagy nyújt szolgáltatást, és akár közvetlen, akár közvetett módon a tevékenysége a vallási közösségével kapcsolatba hozható, köteles az adott vallási közösség nevét a szolgálat vagy szolgáltatás felajánlása előtt jól látható módon feltüntetni, illetve nyilvánvalóvá tenni.
+
+19/C. § A vallási közösség – különösen a szertartások és a belső szabálya szerinti működés zavartalansága érdekében –, a templom és vallásgyakorlásra rendelt más hely, valamint a temető fokozott szabálysértési és büntetőjogi védelemben részesül.
+
+19/D. § Az állam – jogszabályban meghatározott eljárás keretein belül – lehetőséget biztosít a vallási közösségeknek, hogy részt vegyenek a jogalkotás során a jogszabálytervezetek és jogalkotási koncepciók véleményezésében.
+
+#### 7. Az egyházi jogi személy működésének szabályai
+
+20. § (1) Az egyházi jogi személy az általa vagy intézménye útján ellátott 9. § (1) bekezdése szerinti tevékenysége után a hasonló tevékenységet folytató állami vagy helyi önkormányzati intézményekkel azonos mértékű támogatásra jogosult.
+
+(2) A 9. § (1) bekezdése szerinti feladatot ellátó egyházi jogi személynél az ilyen feladathoz kapcsolódóan foglalkoztatottak munkaviszonyának tartalma a munkabér, a munkaidő és a pihenőidő vonatkozásában a közalkalmazotti jogviszonyhoz igazodik. Az ilyen foglalkoztatottakra az állami vagy a helyi önkormányzati intézmények foglalkoztatottaira vonatkozó központi bérpolitikai intézkedések azonos feltételekkel terjednek ki.
+
+(3) Az egyházi jogi személy – a közösségi célok érdekében történő együttműködésére tekintettel – adókedvezményben és azzal egy tekintet alá eső más kedvezményben részesíthető.
+
+21. § (1) Az egyházi jogi személy – a közösségi célok érdekében történő együttműködésére tekintettel – az állam, a helyi önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben és az állam vagy az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézményben – törvényben meghatározott módon – hitéleti oktatást szervezhet.
+
+(2) Az (1) bekezdés szerinti hitéleti oktatáshoz szükséges tárgyi feltételeket és más iskolai foglalkozással nem ütköző időpontját törvényben meghatározottak szerint a nevelési-oktatási intézmény, illetve a felsőoktatási intézmény, a hitéleti oktatásban közreműködő személyt az egyházi jogi személy biztosítja.
+
+(3) A hitéleti oktatás költségeit [ideértve az (1) bekezdésben meghatározottakon túlmenően szervezett hitéleti oktatás költségeit is] – törvény, illetve a bevett egyházzal kötött megállapodás alapján – az állam biztosítja.
+
+22. § (1) Az egyházi jogi személy céljai megvalósítása érdekében jogosult gazdasági-vállalkozási tevékenységnek nem minősülő tevékenységet, valamint elsődlegesen végzett tevékenysége mellett gazdasági-vállalkozási tevékenységet – a 19. § (5) bekezdésében meghatározott kereteken túl is – folytatni.
+
+(2) Az egyházi jogi személy vonatkozásában nem minősül gazdasági-vállalkozási tevékenységnek
+
+- a) a hitéleti tevékenységet és a 9. § (1) bekezdése szerinti tevékenységet szolgáló intézmény vagy sportintézmény működtetése, valamint az ilyen és a környezetvédelmi tevékenység folytatása,
 - b) az üdülő hasznosítása egyházi személy részére történő szolgáltatásnyújtás révén,
 - c) a hitélethez szükséges kiadvány, kegytárgy előállítása, értékesítése,
 - d) az egyházi célra használt ingatlan részleges hasznosítása,
 - e) a temető fenntartása,
-- f) a kizárólag hitéleti, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, sport és környezetvédelmi tevékenységet szolgáló immateriális jószág, tárgyi eszköz és készlet értékesítése, ideértve a munkaruha megtérítését is,
-- g) a hitéleti, nevelési, oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, valamint kulturális, sport és környezetvédelmi tevékenységhez kapcsolódó kiegészítő szolgáltatásnyújtás, a tevékenységet szolgáló eszköz nem nyereségszerzési célú hasznosítása,
-- h) az államtól vagy önkormányzattól átvállalt közfeladat ellátása során létrehozott termék, jegyzet, tankönyv, kiadvány, tanulmány előállítása és értékesítése,
-- i) az egyházi személyek öngondoskodása céljára létrehozott nyugdíjintézet vagy nyugdíjalap működtetése.
+- f) a kizárólag hitéleti tevékenységet, környezetvédelmi tevékenységet vagy a 9. § (1) bekezdése szerinti tevékenységet szolgáló immateriális jószág, tárgyi eszköz és készlet értékesítése, ideértve a munkaruha megtérítését is,
+- g) a hitéleti tevékenységhez, a környezetvédelmi tevékenységhez és a 9. § (1) bekezdése szerinti tevékenységhez kapcsolódó kiegészítő szolgáltatásnyújtás, az ilyen tevékenységet szolgáló eszköz nem nyereségszerzési célú hasznosítása,
+- h) az államtól vagy a helyi önkormányzattól átvállalt közfeladat ellátása során létrehozott termék, jegyzet, tankönyv, kiadvány, tanulmány előállítása és értékesítése,
+- i) az egyházi személyek öngondoskodása céljára létrehozott nyugdíjintézet vagy nyugdíjalap működtetése,
+- j) az egyházi jogi személy nevének, rövidített nevének, köznyelvben meghonosodott elnevezésének, címerének, illetve logójának más által történő használatához adott hozzájárulás.
 
-(5) A (4) bekezdés szerinti tevékenység bevétele különösen
+(3) A (2) bekezdés szerinti tevékenység bevétele különösen
 
 - a) a szolgáltatás ellenértéke, díja, térítése,
 - b) a tevékenységhez kapcsolódó kártalanítás, kártérítés, kötbér, bánatpénz, bírság és adóvisszatérítés,
 - c) a tevékenységhez kapcsolódóan visszafizetési kötelezettség nélkül kapott – pénzügyileg rendezett – támogatás, juttatás, és
 - d) a szabad pénzeszközök betétbe, értékpapírba elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, osztaléknak, illetve az értékpapír hozamának olyan része, amelyet a gazdasági-vállalkozási tevékenységnek nem minősülő tevékenység bevétele az összes bevételben képvisel.
 
-(6) Az egyház adókedvezményben és azzal egy tekintet alá eső más kedvezményben részesíthető.
+23. § (1) Az egyházi jogi személy hitéleti célú bevételeit és azok felhasználását állami szerv nem ellenőrizheti. Hitéleti célú bevételnek minősül különösen a személyi jövedelemadó meghatározott részének bevett egyház számára történő felajánlása, annak költségvetési kiegészítése, az ennek helyébe lépő juttatás, valamint az ingatlanjáradék és annak kiegészítése.
 
-21. § (1) Az egyház hitéleti célú bevételeit és azok felhasználását állami szerv nem ellenőrizheti. Hitéleti célú bevételnek minősül különösen a személyi jövedelemadó meghatározott részének egyház számára történő felajánlása, annak költségvetési kiegészítése, az ennek helyébe lépő juttatás, valamint az ingatlanjáradék és annak kiegészítése.
+(2) Az egyházi jogi személy a nem hitéleti célra nyújtott költségvetési támogatásból származó bevételét és annak felhasználását a számvitelről szóló törvény és a könyvvezetéshez kapcsolódó egyéb jogszabályok szerint tartja nyilván.
 
-(2) Az egyház és a belső egyházi jogi személy a nem hitéleti célra nyújtott költségvetési támogatásból származó bevételét és annak felhasználását a számvitelről szóló törvény és az államháztartásról szóló törvény rendelkezései, valamint a könyvvezetéshez kapcsolódó egyéb jogszabályok szerint tartja nyilván.
+(3) Az egyházi jogi személynek nem hitéleti célra nyújtott támogatás felhasználásának törvényességi szempontok szerinti ellenőrzését az Állami Számvevőszék végzi.
 
-(3) Az egyháznak nem hitéleti célra nyújtott költségvetési támogatás felhasználásának törvényességi szempontok szerinti ellenőrzését az Állami Számvevőszék végzi.
+24. § Az egyházi jogi személy jogszabályban meghatározott rendben végzett tábori lelkészi, valamint börtön- és kórházlelkészi szolgálatot vagy más szolgálatot végezhet.
 
-22. § Az állam lehetőséget biztosít az egyházaknak – jogszabályban meghatározott eljárás keretein belül – hogy részt vegyenek a jogalkotás során a jogszabálytervezetek és jogalkotási koncepciók véleményezésében.
+25. § Az egyházi jogi személy az általa gyakorolt vallási tevékenységhez kapcsolódó személyes adatot a bevett egyház belső szabálya szerint kezeli, azokat az érintett hozzájárulásával – halála esetén leszármazója hozzájárulásával – továbbíthatja és hozhatja nyilvánosságra.
 
-23. § Az egyház – különösen az egyházi szertartások és az egyházkormányzat zavartalan működése tekintetében–, valamint a templomok, a temetők és más szent helyek fokozott szabálysértési és büntetőjogi védelemben részesülnek.
+### V. Fejezet — AZ EGYHÁZI JOGI SZEMÉLYEK ÁTALAKULÁSA ÉS MEGSZŰNÉSE
 
-24. § (1) Az egyház az állam és a helyi önkormányzat által fenntartott nevelési és oktatási intézményben – a tanulók és a szülők igényei szerint – hit- és erkölcstanoktatást tarthat, továbbá felsőoktatási intézményben hitéleti tevékenységet folytathat. A felsőoktatási intézmény köteles a dologi feltételeket, a közoktatási intézmény a dologi feltételeket és más, kötelező iskolai foglalkozásokkal nem ütköző időpontot, az egyház pedig a hitoktató, illetve hittanár személyét biztosítani. A hit- és erkölcstanoktatás költségeit – törvény, illetve az egyházzal kötött megállapodás alapján – az állam biztosítja.
+26. § (1) A bevett egyház jogutód nélkül szűnik meg, ha a bevett egyház
 
-(2) Az egyház jogszabályban meghatározott rendben végzett tábori lelkészi, valamint börtön- és kórházlelkészi szolgálatot vagy más szolgálatot végezhet.
+- a) legfőbb szerve a bevett egyház feloszlásáról határoz vagy
+- b) tevékenységével felhagy és vagyonáról nem rendelkezik.
 
-25. § (1) Az egyház elnevezése, jelképrendszere, szertartásrendje, valamint köznyelvben meghonosodott neve fokozott jogvédelemben részesül. Más szervezet elnevezése és jelképei nem kelthetnek olyan benyomást, hogy a szervezet, illetve tevékenysége más, korábban nyilvántartásba vett egyház működéséhez kapcsolódik.
+(2) A bevett egyház jogutóddal – a bevett egyház képviselőjének kérelmére – szűnik meg
 
-(2) Ha valamely egyházi személy nem egyháztag számára végez szolgálatot vagy szolgáltatást, és akár közvetlen, akár közvetett módon a tevékenysége egyházával kapcsolatba hozható, köteles az adott egyház nevét a szolgálat vagy szolgáltatás felajánlása előtt jól látható módon feltüntetni, nyilvánvalóvá tenni.
+- a) más bevett egyházba való beolvadása vagy összeolvadása (a továbbiakban együtt: egyesülés) vagy
+- b) két vagy több bevett egyházra való különválás
 
-(3) Az egyház elnevezését, a hozzá közvetlenül köthető jelképrendszerét és a köznyelvben meghonosodott elnevezését – erre vonatkozó kifejezett írásbeli hozzájárulás nélkül – más szervezet nem használhatja.
+esetén.
 
-### V. Fejezet — AZ EGYHÁZAK MEGSZŰNÉSE
+(3) A bevett egyházból való kiválás esetén a kiválással létrejövő vallási közösség vallási tevékenységet végző szervezet.
 
-26. § Az egyház jogutód nélkül szűnik meg, ha az egyház
+27. § Az Alkotmánybíróság elvi véleménye alapján az Alaptörvénybe ütköző tevékenységet végző bevett egyház ilyen jogállása az Országgyűlés erre vonatkozó döntése alapján megszűnik.
 
-- a) legfőbb szerve az egyház feloszlásáról határoz,
-- b) tevékenységével felhagy és vagyonáról nem rendelkezik,
-- c) tevékenysége – az Alkotmánybíróság elvi véleménye alapján – az Alaptörvénybe ütközik.
+28. § (1) A Kormány a miniszter előterjesztésére a 26. § (1) bekezdésében és a 27. §-ban meghatározott esetben kezdeményezi az Országgyűlésnél az érintett bevett egyház mellékletből való törlését, illetve egyesülés vagy különválás esetén a melléklet módosítását.
 
-27. § (1) Az egyház jogutódlással – az egyház képviselőjének kérelmére – szűnik meg más egyházzal való egyesülése (beolvadás, összeolvadás) és különválás esetén.
+(2) A bevett egyház a mellékletnek az adott bevett egyház törlésére vonatkozó módosítása hatálybalépésének napján veszti el az ilyen jogállását, és ettől kezdve vallási tevékenységet végző szervezetnek minősül, illetve a 26. § (1) bekezdésében meghatározott esetben e napon szűnik meg.
 
-(2) Az egyház vagyona az egyház más egyházzal való egyesülése, illetve két vagy több egyházra való különválása esetén a jogutód egyház tulajdonába kerül. Ha az egyházból személyek vagy személyek csoportjai kiválnak, de a nyilvántartásba vett egyház fennmarad, a kiválással keletkező új szervezetet a korábbi egyház vagyonából részesedés nem illeti meg.
+(3) A 26. § (2) bekezdésében meghatározott esetben
 
-28. § (1) A Kormány a miniszter előterjesztésére a 26. §-ban és a 27. §-ban meghatározott megszűnési ok fennállása esetén kezdeményezi az Országgyűlésnél az érintett egyház mellékletből való törlését, illetve egyesülés vagy különválás esetén a melléklet módosítását.
+- a) a bevett egyház a mellékletnek az adott bevett egyházra vonatkozó módosítása hatálybalépésének napján szűnik meg, és
+- b) a jogutód bevett egyház a mellékletnek az adott bevett egyház mellékletbe való felvételére vonatkozó módosítása hatálybalépésének napjától minősül bevett egyháznak.
 
-(2) Az egyház a mellékletnek az adott egyház törlésére vonatkozó módosítása hatálybalépésének napján szűnik meg.
+(4) A bevett egyház ilyen jogállásának elvesztése esetén a létrejövő vallási tevékenységet végző szervezet a (2) bekezdésben meghatározott naptól, a bevett egyházból való kiválás esetén a bevett egyház legfőbb szervének erre vonatkozó végleges döntése meghozatalának napjától számított 45 napos jogvesztő határidőn belül köteles a vallási tevékenységet végző szervezetre vonatkozó nyilvántartásba vételi eljárás megindítására. A határidő elmulasztása esetén a vallási tevékenységet végző szervezetet a bíróság feloszlatja.
 
-29. § (1) Az egyház jogutód nélküli megszűnése esetén elszámolási eljárásnak van helye, amelyre a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény VIII. Fejezetét kell alkalmazni.
+29. § (1) A bevett egyház jogutód nélküli megszűnése esetén elszámolási eljárásnak van helye, amelyre a jogutód nélkül megszűnő cég végelszámolására vonatkozó szabályokat kell alkalmazni azzal, hogy bíróság alatt a minisztert kell érteni.
 
-(2) Az egyház jogutód nélküli megszűnése esetén vagyona – a hitelezők követeléseinek kielégítése után – az állam tulajdonába kerül, és azt közcélú tevékenységre kell fordítani.
+(2) A bevett egyház jogutód nélküli megszűnése és a vallási tevékenységet végző szervezet a 9/C. § (2) bekezdése vagy a 28. § (4) bekezdése szerinti feloszlatása esetén a megszűnt bevett egyház, illetve a feloszlatott vallási tevékenységet végző szervezet vagyona – a hitelezők követeléseinek kielégítése után – az állam tulajdonába kerül, és azt a 9. § (1) bekezdése szerinti tevékenységre kell fordítani.
 
-30. § (1) Az egyház jogutód nélküli megszűnése esetén az egyház belső egyházi jogi személye is jogutód nélkül megszűnik.
+(3) A bevett egyház vagyona a bevett egyház más bevett egyházzal való egyesülése, illetve két vagy több bevett egyházra való különválása esetén a jogutód bevett egyház tulajdonába kerül. A bevett egyházból való kiválás esetén, valamint akkor, ha a bevett egyházat személyek vagy személyek csoportjai elhagyják, de a bevett egyház fennmarad, a létrejövő vallási tevékenységet végző szervezetet a bevett egyház vagyonából részesedés nem illeti meg.
 
-(2) Belső egyházi jogi személy megszűnése esetén a vagyoni kérdéseket az egyház belső egyházi szabálya határozza meg.
+30. § (1) A bevett egyház jogutód nélküli megszűnése esetén a bevett egyház belső egyházi jogi személye is jogutód nélkül megszűnik.
+
+(2) Belső egyházi jogi személy megszűnése esetén a vagyoni kérdéseket a bevett egyház belső szabálya határozza meg.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 8. Felhatalmazó rendelkezések
 
-31. § (1) Felhatalmazást kap a Kormány, hogy az egyház és a belső egyházi jogi személy beszámoló készítési és könyvvezetési kötelezettségének sajátosságaira vonatkozó szabályokat rendeletben határozza meg.
+31. § Felhatalmazást kap a Kormány, hogy
 
-(2) Felhatalmazást kap a miniszter, hogy
+- a) az egyházként történő elismerésre irányuló kérelem tartalmát és benyújtásának rendjét,
+- b) a tábori lelkészi szolgálat végzésének szabályait,
+- c) a miniszter által vezetett nyilvántartás tekintetében
+  - ca) a nyilvántartásba vétel szabályait,
+  - cb) a nyilvántartásba bejegyzendő technikai és egyéb adatokat, valamint ezek változása bejelentésének szabályait,
+  - cc) a nyilvántartásból történő adatszolgáltatás, valamint a bevett egyház és a belső egyházi jogi személy nyilvántartásba bejegyzett adatairól kért papír alapú és elektronikus kivonat tartalmát,
+  - cd) a belső egyházi jogi személy nyilvántartásba vételének szabályait, és
+- d) a bevett egyház megszűnésére vonatkozó részletes eljárási szabályokat, valamint a bevett egyház és a belső egyházi jogi személy nyilvántartásból való törlésének szabályait
 
-- a) az egyházak nyilvántartásba vételének szabályait,
-- b) a nyilvántartásba bejegyzendő technikai és egyéb adatokat, valamint ezek változása bejelentésének szabályait,
-- c) a nyilvántartásból történő adatszolgáltatás, valamint az egyház és a belső egyházi jogi személy nyilvántartásba bejegyzett adatairól kért papír alapú és elektronikus kivonat tartalmát,
-- d) a belső egyházi jogi személy nyilvántartásba vételének szabályait, és
-- e) az egyház megszűnésére vonatkozó részletes szabályokat, valamint az egyház és a belső egyházi jogi személy nyilvántartásból való törlésének szabályait rendeletben határozza meg.
+rendeletben meghatározza.
 
 #### 9. Hatályba léptető rendelkezések
 
@@ -265,31 +377,24 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 
 (3) A miniszter az (1) bekezdés szerinti nyilvántartásba vétel során országosan egyedi azonosításra alkalmas nyilvántartási számot állapít meg és ad ki az egyház részére, és erről az egyházat értesíti.
 
-34. § (1)
+34. § (1) A vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor vallási tevékenységet végző egyesület a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésétől vallási tevékenységet végző szervezetnek minősül.
 
-(2) A szervezet
+(2) Az (1) bekezdés szerinti vallási tevékenységet végző szervezet a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor folyamatban lévő változásbejegyzését az egyesületre vonatkozó szabályok szerint kell befejezni az e törvényben meghatározott eltérésekkel.
 
-- a) a 35. §-nak megfelelően kezdeményezheti egyesületként való nyilvántartásba vételét, és
-- b) ha az e törvényben meghatározott feltételeknek megfelel, a III. Fejezetben foglaltak szerint kezdeményezheti az egyesület egyházként történő elismerését.
+35. § (1) Az e törvény 2012. január 1-jén hatályos 34. § (1) bekezdése szerinti olyan szervezet, amellyel szemben
 
-35. § (1) A szervezet 2012. február 29-éig nyilatkozik továbbműködési szándékának hiányáról vagy – továbbműködési szándék esetén – az egyesületre vonatkozó szabályok szerint változásbejegyzési eljárást indít, amelyre a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 37. § (1) bekezdését, 38. §-át és 63. §-át kell alkalmazni azzal, hogy alakuló ülésen az átalakulást elhatározó ülést kell érteni.
+- a) a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor az e törvény 2012. január 1-jén hatályos 35. § (3) bekezdése alapján kényszer-végelszámolási eljárás van folyamatban, vagy
+- b) a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépését követően az a) pont szerinti befejezett eljárással összefüggésben új eljárásra utasítás alapján új eljárás indul,
 
-(2) A szervezet az egyesület nyilvántartásba vételéhez szükséges feltételeket legkésőbb 2012. június 30-áig teljesítheti azzal, hogy ha a szervezet vallási tevékenységét 2012. január 1-jétől a 2011. december 31-én hatályos belső egyházi szabályában meghatározott szervezeti keretek között változatlanul végzi, a bíróság az egyesület bírósági nyilvántartásba vétele során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 62. § (3) bekezdés b) pontja, 63. § (1), (3) és (4) bekezdése szerinti feltételekkel kapcsolatosan nem vizsgálja, hogy a szervezet létesítő okirata megfelel-e a legfőbb szerv, az ügyintéző szerv és a képviseleti szerv létrejöttére és hatáskörére vonatkozó törvényi szabályoknak. E határidő elmulasztása jogvesztő.
+az erre vonatkozó beadványával a bíróságtól a kényszer-végelszámolási eljárás megszüntetését annak egyidejű igazolása mellett kérheti, hogy vallási tevékenységet végző szervezetként történő bejegyzését a 9/B. § (1) bekezdése szerinti bíróságtól kérte.
 
-(3) A bíróság a szervezetet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 2012. február 29-én hatályos 116. § (3)–(6) bekezdésének, 117. §-ának és 118. §-ának alkalmazásával kényszer-végelszámolási eljárás keretében jogutód nélkül megszünteti, ha a szervezet
+(2) A kérelem az (1) bekezdés a) pontja szerinti esetben a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépését követő 30. napig, az (1) bekezdés b) pontja szerinti esetben az új eljárásra utasításról történő tudomásszerzéstől számított 30. napig nyújtható be.
 
-- a) a változásbejegyzési eljárás során a változásbejegyzési eljárásban meghatározott feltételeket nem teljesíti, vagy
-- b) 2012. február 29-éig a továbbműködéséről nem vagy nemlegesen nyilatkozott.
+(3) A bíróság az (1) bekezdés a) vagy b) pontja szerinti eljárást a vallási tevékenységet végző szervezetként történő bejegyzés iránti eljárás jogerős befejezéséig felfüggeszti.
 
-(4) A szervezet a bíróság által a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartott adatait a változásbejegyzési eljárás befejezésével egyidejűleg vagy a (3) bekezdés szerinti kényszer-végelszámolási eljárást követően törölni kell.
+(4) Ha a 9/B. § (1) bekezdése szerinti bíróság az (1) bekezdés szerinti szervezetet vallási tevékenységet végző szervezetként bejegyzi, az (1) bekezdés a) vagy b) pontja szerinti eljárást a bíróság megszünteti.
 
-(5) Ha a miniszter arról értesíti a bíróságot, hogy a melléklet szerinti egyházat és annak belső egyházi jogi személyét nyilvántartásba vette, a bíróság az egyház és annak belső egyházi jogi személye bíróság által nyilvántartott adatait törli.
-
-(6) A (4) és (5) bekezdés szerinti törlésről nem kell végzést hozni.
-
-36. § (1) A szervezet 2012. január 1-jétől a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyház általános jogutódja.
-
-(2) A szervezet lelkiismereti és vallásszabadság jogára, valamint hitéleti, vallási tevékenységére vonatkozóan a 10. §-t és a 13. § (3) bekezdését alkalmazni kell.
+36. § Az e törvény 2012. január 1-jén hatályos 35. § (3) bekezdése alapján a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépését megelőzően kényszer-végelszámolási eljárás során jogutód nélkül megszüntetett vallási tevékenységet végző egyesület azonos hitelvek szerint és azonos elnevezéssel létrehozott vallási tevékenységet végző szervezet a megszüntetett ilyen vallási közösség általános jogutódjának minősül. Ez a rendelkezés a hitelezők kielégítése után megmaradt és az egyesület alapszabálya szerint felosztott vagy törvény rendelkezése alapján más célra fordított vagyon sorsát nem érinti.
 
 37. § (1)
 
@@ -300,9 +405,7 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 - a) közoktatási intézmény tekintetében 2012. augusztus 31-éig,
 - b) szociális intézmény tekintetében 2012. december 31-éig a működésükhöz költségvetési támogatást biztosít.
 
-38. § (1) A Kormány a közcélú tevékenységet végző egyházakkal megkötött megállapodások tiszteletben tartása mellett azokat áttekinti és szükség szerint új megállapodásokat kezdeményez.
-
-(2) A Kormány az e törvény alapján egyháznak nem minősülő – közfeladatot ellátó – szervezettel 2012. december 31-éig a közfeladat-ellátás költségvetési támogatásához kapcsolódó megállapodást köthet.
+38. §
 
 #### 11. Módosító rendelkezések
 
@@ -342,15 +445,15 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 
 #### 13. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-55. § E törvény II–III. Fejezete, 19–20. §-a, 21. § (1) és (2) bekezdése, 22–25. §-a, V. Fejezete, 12. alcíme és melléklete az Alaptörvény VII. cikk (3) bekezdése, 21. § (3) bekezdése az Alaptörvény 43. cikk (4) bekezdése, 49. §-a az Alaptörvény 24. cikk (5) bekezdése, 53. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+55. § A 6–9. §, a 10–13. §, a 14–22. §, a 23. § (1) és (2) bekezdése, a 24–30. § és a melléklet az Alaptörvény VII. cikk (4) bekezdése, a 23. § (3) bekezdése az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 ### Melléklet a 2011. évi CCVI. törvényhez
 
-#### Az Országgyűlés által elismert magyarországi egyházak, vallásfelekezetek és vallási közösségek
+#### A bevett egyházak
 
-29 A 2012: VII. törvény 3. §-a alapján a Magyarországi Iszlám Tanácsot alkotó közösségek a következők: Magyar Iszlám Közösség, Magyarországi Muszlimok Egyháza.
+70 A 2012: VII. törvény 3. §-a alapján a Magyarországi Iszlám Tanácsot alkotó közösségek a következők: Magyar Iszlám Közösség, Magyarországi Muszlimok Egyháza.
 
-30 A 2012: VII. törvény 2. §-a alapján a buddhista vallási közösségek a következők: a Tan Kapuja Buddhista Egyház, Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség, Magyarországi Karma – Kagyüpa Buddhista Közösség, Magyarországi Kínai Chanbuddhista Egyház, Gyémánt Út Buddhista Közösség.
+71 A 2012: VII. törvény 2. §-a alapján a buddhista vallási közösségek a következők: a Tan Kapuja Buddhista Egyház, Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség, Magyarországi Karma – Kagyüpa Buddhista Közösség, Magyarországi Kínai Chanbuddhista Egyház, Gyémánt Út Buddhista Közösség.
 
 |  | A |
 | --- | --- |
@@ -374,10 +477,10 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 | 18 | Erdélyi Gyülekezet |
 | 19 | Hetednapi Adventista Egyház |
 | 20 | Magyarországi Kopt Ortodox Egyház |
-| 21 | Magyarországi Iszlám Tanács29 |
+| 21 | Magyarországi Iszlám Tanács70 |
 | 22 | Krisztusban Hívő Nazarénus Gyülekezetek |
 | 23 | Magyarországi Krisna-tudatú Hívők Közössége |
 | 24 | Az Üdvhadsereg Szabadegyház Magyarország |
 | 25 | Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza |
 | 26 | Magyarországi Jehova Tanúi Egyház |
-| 27 | Buddhista vallási közösségek30 |
+| 27 | Buddhista vallási közösségek71 |

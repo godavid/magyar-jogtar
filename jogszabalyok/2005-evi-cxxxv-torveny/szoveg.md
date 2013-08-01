@@ -134,7 +134,7 @@ miatt került sor.
 - a) a büntető-, illetve szabálysértési eljárásbeli jogairól és kötelezettségeiről,
 - b) a számára elérhető támogatások fajtáiról és az igénylés feltételeiről,
 - c) az e törvényben biztosított támogatásokon kívül igénybe vehető egyéb ellátásokról, juttatásokról, jogérvényesítési lehetőségekről,
-- d) az áldozatsegítésben részt vevő állami, önkormányzati, civil és egyházi szervezetek elérhetőségéről,
+- d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szervezetek és a vallási közösségek elérhetőségéről,
 - e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
 (2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül írásban tájékoztatja az ügyfelet – az (1) bekezdésben foglaltakon túl – arról, hogy áldozatsegítő támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
@@ -470,7 +470,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### Együttműködés és kapcsolattartás
 
-43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a bevándorlási és állampolgársági hivatallal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és az egyházakkal.
+43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a bevándorlási és állampolgársági hivatallal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
 
