@@ -314,7 +314,7 @@ kell keresetként figyelembe venni.
 38. § (1) Szolgálati időként kell továbbá figyelembe venni
 
 - a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
-- b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi szervek megfizették,
+- b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
 - c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 - d) a katonai (polgári) szolgálatban eltöltött időt,
 - e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,

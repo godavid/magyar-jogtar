@@ -72,7 +72,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 - v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképesítéssel, továbbá jogszabályban meghatározott szakmai (személyi és tárgyi) minimumfeltételekkel ellátható olyan egészségügyi szolgáltatások összessége, mely szerepel az egészségügyi szakmai kódjegyzékben;
 - w) fenntartó:
   - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
-  - wb) egyházi jogi személy vagy jogi személyiséggel nem rendelkező egyházi egészségügyi szolgáltató esetén az alapító okiratban fenntartóként megjelölt egyházi jogi személy,
+  - wb) egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltató esetében az egészségügyi szolgáltató alapító okiratában fenntartóként megjelölt ilyen jogalany,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
   - wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
   - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet.
@@ -166,7 +166,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (5) A szülő nőnek joga van arra, hogy az általa megjelölt nagykorú személy a vajúdás és a szülés alatt folyamatosan vele lehessen, a szülést követően pedig arra, hogy – amennyiben ezt az ő vagy újszülöttje egészségi állapota nem zárja ki – újszülöttjével egy helyiségben helyezzék el.
 
-(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel való kapcsolattartásnak és vallása szabad gyakorlásának joga.
+(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
 
 (7) A beteg – törvény eltérő rendelkezése hiányában – jogosult saját ruháinak és személyes tárgyainak a használatára.
 
@@ -2176,7 +2176,7 @@ költségének fedezetét.
 - c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 - e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
-- f) azon egyházak egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
+- f) az olyan vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
 - h) az egészségbiztosítási szerv térségben működő területi kihelyezett szervezeti egységeinek kijelölt képviselője,
 - i) az egészségügyi államigazgatási szerv térségben működő területi szervezeti egységeinek kijelölt képviselője,
@@ -2228,7 +2228,7 @@ költségének fedezetét.
 
 - a) a miniszter részére javaslatot tesz, felkérésre véleményez, elemzést, értékelést készít,
 - b) az adott betegséggel, betegségcsoporttal összefüggésben érdekképviseletet lát el,
-- c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, az egyházakkal, valamint az alapítványokkal.
+- c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, a vallási közösségekkel, valamint az alapítványokkal.
 
 ### A helyi önkormányzatok feladatai
 

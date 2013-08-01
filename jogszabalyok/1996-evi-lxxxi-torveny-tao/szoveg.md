@@ -30,7 +30,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 - d) az ügyvédi iroda, a végrehajtói iroda, a szabadalmi ügyvivői iroda, a közjegyzői iroda, az erdőbirtokossági társulat,
 - e) a Munkavállalói Résztulajdonosi Program szervezete (a továbbiakban: MRP),
 - f) a vízitársulat,
-- g) az alapítvány, a közalapítvány, az egyesület, a köztestület (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), továbbá az egyház, a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
+- g) az alapítvány, a közalapítvány, az egyesület, a köztestület (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), továbbá az egyházi jogi személy, a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
 - h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
 - i) európai területi együttműködési csoportosulás,
 - j) az egyéni cég,
@@ -61,7 +61,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 4. § E törvény alkalmazásában
 
 - 1.
-- 1/a. adomány: a közhasznú szervezet részére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység támogatására, valamint a külön törvényben meghatározott feltételeknek megfelelő egyház részére az ott meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az nem jelent az e törvényben és a személyi jövedelemadóról szóló törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának (részvényesének), vezető tisztségviselőjének, felügyelő bizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a magánszemély tag (részvényes) közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
+- 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben és a személyi jövedelemadóról szóló törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 - 2. adózó: a 2. § (2)–(4) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
 - 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör;
 - 4. árbevétel:
@@ -79,7 +79,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 - 9.
 - 9/a. beszámoló: a számvitelről szóló törvény, vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 - 10. célszervezet: miniszter által a teljes adóévre ilyennek kijelölt gazdasági társaság, szövetkezet (a lakásszövetkezet kivételével) és egyes jogi személyek vállalata;
-- 10/a. egyház: az adóév utolsó napján a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény mellékletében meghatározott egyháznak minősülő adózó és annak belső egyházi jogi személye;
+- 10/a.
 - 10/b. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 - 11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
   - a) valódi gazdasági jelenlétnek minősül a külföldi társaság és az adott államban lévő kapcsolt vállalkozásai által együttesen saját eszközzel és munkaviszonyban foglalkoztatott munkavállalókkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői, valamint kereskedelmi tevékenység, ha az ebből származó bevételük eléri az összes bevételük legalább 50 százalékát;
@@ -184,7 +184,7 @@ fejében a jogosult által kapott ellenérték;
 
 ### II. Fejezet — A társasági adókötelezettség
 
-5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyház társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
+5. § (1) Az adózót jövedelme után e törvény előírása szerint társasági adókötelezettség terheli. Az adóévben vállalkozási tevékenységet nem folytató egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül társasági adókötelezettségét azzal teljesíti, hogy az adóévre bevallást helyettesítő nyilatkozatot tesz.
 
 (2) A belföldi illetőségű adózó társasági adókötelezettsége a társasági szerződése közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben azon a napon, amelyen az alapítását szabályozó jogszabály szerint létrejön. Az adózó adókötelezettsége azon a napon szűnik meg, amelyen a megszűnését szabályozó jogszabály szerint megszűnik, vagy amely napot követő napon bármely egyéb okból kikerül a társasági adó hatálya alól (ideértve a cégbejegyzés iránti kérelem elutasítását vagy a cégbejegyzési eljárás megszüntetését is).
 
@@ -210,7 +210,7 @@ fejében a jogosult által kapott ellenérték;
 
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
-(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
+(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
@@ -394,9 +394,9 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (7) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell az r) és t) pontban foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
 
-### Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
+### Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
 
-9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
+9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
 
 (2) Csökkenteni kell az adózás előtti eredményt
 
@@ -415,7 +415,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
-(5) Az egyház az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
+(5) Az egyházi jogi személy az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
 
 (6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
 
@@ -423,7 +423,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
+(9) Az egyházi jogi személy vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
 (10) Az európai területi együttműködési csoportosulás, és a foglalkoztatói nyugdíjszolgáltató intézmény az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
 
@@ -1005,7 +1005,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól és/vagy a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembe vétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
 
-(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyháznak, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
 
 (12) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
 
@@ -1602,7 +1602,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
 
-17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyház, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
+17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
 
 18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
 

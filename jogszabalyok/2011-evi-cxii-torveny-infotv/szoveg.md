@@ -836,7 +836,7 @@ dönt.
 (3) Nem vezet adatvédelmi nyilvántartást a Hatóság arról az adatkezelésről, amely
 
 - a) az adatkezelővel munkaviszonyban, tagsági viszonyban, óvodai nevelésben való részvételre irányuló, tanulói vagy tanulószerződéses jogviszonyban, kollégiumi tagsági viszonyban vagy – a pénzügyi szervezetek, közüzemi szolgáltatók, elektronikus hírközlési szolgáltatók ügyfelei kivételével – ügyfélkapcsolatban álló személyek adataira vonatkozik;
-- b) egyház, vallásfelekezet, vallási közösség belső szabályai szerint történik;
+- b) a bevett egyház belső szabálya szerint történik;
 - c) az egészségügyi ellátásban kezelt személy betegségével, egészségi állapotával kapcsolatos személyes adatokra vonatkozik gyógykezelés vagy az egészség megőrzése, társadalombiztosítási igény érvényesítése céljából;
 - d) az érintett anyagi és egyéb szociális támogatása céljából nyilvántartott személyes adatokra vonatkozik;
 - e) a hatósági, az ügyészségi és a bírósági eljárás által érintett személyeknek az eljárás lefolytatásával kapcsolatos személyes adataira, vagy a büntetés-végrehajtás során a büntetés-végrehajtással összefüggésben kezelt személyes adatokra vonatkozik;

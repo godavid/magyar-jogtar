@@ -48,11 +48,13 @@ is szervezhető.
 4. § (1) Felsőoktatási intézményt önállóan vagy más jogosulttal együttesen
 
 - a) a magyar állam, országos nemzetiségi önkormányzat,
-- b) a Magyarországon nyilvántartásba vett egyházi jogi személy, beleértve a jogi személyiséggel rendelkező szervezeti egységét is (a továbbiakban: egyházi jogi személy),
+- b) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
 - c) a Magyarország területén székhellyel rendelkező gazdasági társaság,
-- d) a Magyarországon nyilvántartásba vett alapítvány vagy közalapítvány
+- d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási tevékenységet végző szervezet
 
 alapíthat.
+
+(1a) Egyházi felsőoktatási intézmény az (1) bekezdés b) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény. Magán felsőoktatási intézmény az (1) bekezdés c) és d) pontja szerinti fenntartó által fenntartott felsőoktatási intézmény.
 
 (2) Az alapítói jogok gyakorlásának joga az e törvényben meghatározottak szerint átruházható. Az, aki az alapítói jogot gyakorolja, ellátja a felsőoktatási intézmény fenntartásával kapcsolatos feladatokat (a továbbiakban: fenntartó).
 
@@ -132,7 +134,7 @@ jogosult folytatni.
 
 (7) Ha a felsőoktatási intézmény hivatalos neve megváltozik, az erről szóló bejelentést az oktatási hivatal tudomásul veszi, és kezdeményezi a miniszter útján e törvény 1. mellékletének módosítását.
 
-10. § (1) A Kormány nemzetstratégiai célok megvalósítása érdekében, rendeletében meghatározottak szerint, állami vagy egyházi fenntartású felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
+10. § (1) A Kormány nemzetstratégiai célok megvalósítása érdekében, – kormányrendeletben meghatározottak szerint – felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
 
 (2) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert egyetem, vagy egyetemi kar – a Kormány által meghatározott feltételekkel – „kutató” minősítést kaphat.
 
@@ -609,9 +611,9 @@ címet adományozhat.
 
 (4) A felvételre jelentkező egy felvételi eljárásban kormányrendeletben meghatározott számú jelentkezést nyújthat be. Amennyiben ugyanazon szakra magyar állami (rész)ösztöndíjjal támogatott és önköltséges képzési formára egyaránt jelentkezik, az egy jelentkezésnek minősül.
 
-(5) Felsőoktatási szakképzésre, alapképzésre, mesterképzésre és osztatlan képzésre történő jelentkezés esetében a felvételről a felsőoktatási intézmény a jelentkezők teljesítménye, az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása, valamint a jelentkezők által összeállított jelentkezési sorrend figyelembevételével – a mesterképzés kivételével – országosan egységes rangsorolás alapján dönt. A rangsorolásról a felsőoktatási információs rendszer működéséért felelős szerv besorolási döntéssel gondoskodik. A jelentkezőt magyar állami (rész)ösztöndíjjal támogatott képzésre állami felsőoktatási intézménybe, valamint – nemzetközi szerződés, a 92. § és a 94. § szerinti, a Kormány vagy a miniszter által kötött megállapodás alapján, az abban meghatározott feltételekkel – egyházi, illetve magán fenntartású felsőoktatási intézménybe lehet besorolni, felvenni. A jelentkező egy felvételi eljárásban egy képzésre nyerhet felvételt.
+(5) Felsőoktatási szakképzésre, alapképzésre, mesterképzésre és osztatlan képzésre történő jelentkezés esetében a felvételről a felsőoktatási intézmény a jelentkezők teljesítménye, az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása, valamint a jelentkezők által összeállított jelentkezési sorrend figyelembevételével – a mesterképzés kivételével – országosan egységes rangsorolás alapján dönt. A rangsorolásról a felsőoktatási információs rendszer működéséért felelős szerv besorolási döntéssel gondoskodik. A jelentkezőt magyar állami (rész)ösztöndíjjal támogatott képzésre állami felsőoktatási intézménybe, valamint – nemzetközi szerződés, a 92. § és a 94. § szerinti, a Kormány vagy a miniszter által kötött megállapodás alapján, az abban meghatározott feltételekkel – az egyházi felsőoktatási intézménybe vagy magán felsőoktatási intézménybe lehet besorolni, felvenni. A jelentkező egy felvételi eljárásban egy képzésre nyerhet felvételt.
 
-(6) Szakirányú továbbképzésre és doktori képzésre történő jelentkezés esetében a felvételről a felsőoktatási intézmény a jelentkezők teljesítménye és a felvehető létszám, valamint az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása, továbbá a magyar állami (rész)ösztöndíjjal támogatott képzésre felvehető létszám figyelembevételével, a jelentkezők intézményi rangsorolása alapján dönt. Magyar állami (rész)ösztöndíjjal támogatott képzésre állami felsőoktatási intézménybe valamint – nemzetközi szerződés, a 92. § és a 94. § szerinti, a Kormány vagy a miniszter által kötött megállapodás alapján, az abban meghatározott feltételekkel – egyházi, illetve magán fenntartású felsőoktatási intézménybe lehet felvenni.
+(6) Szakirányú továbbképzésre és doktori képzésre történő jelentkezés esetében a felvételről a felsőoktatási intézmény a jelentkezők teljesítménye és a felvehető létszám, valamint az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása, továbbá a magyar állami (rész)ösztöndíjjal támogatott képzésre felvehető létszám figyelembevételével, a jelentkezők intézményi rangsorolása alapján dönt. Magyar állami (rész)ösztöndíjjal támogatott képzésre állami felsőoktatási intézménybe valamint – nemzetközi szerződés, a 92. § és a 94. § szerinti, a Kormány vagy a miniszter által kötött megállapodás alapján, az abban meghatározott feltételekkel – az egyházi felsőoktatási intézménybe vagy magán felsőoktatási intézménybe lehet felvenni.
 
 (7) A felvételt nyert jelentkező abban a félévben létesíthet hallgatói jogviszonyt, amelyre a felvételi eljárás során felvételt nyert.
 
@@ -1251,7 +1253,7 @@ köteles mérlegelni.
 - c) a képzések indításával,
 - d) a felvehető maximális hallgatói létszám megállapításával és módosításával,
 - e) a doktori iskola létesítésével, megszűnésével,
-- f) egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok nyilvántartásba vételével,
+- f) a diákotthonok nyilvántartásba vételével
 - g) felsőoktatási szakkollégiumok nyilvántartásba vételével kapcsolatos ügyekben.
 
 (4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményhez kötve van. Az oktatási hivatal döntésével szemben előterjesztett fellebbezést a miniszter bírálja el.
@@ -1550,7 +1552,7 @@ gyakorolja.
 
 biztosítása.
 
-(3) Az állami támogatásra – a (2) bekezdés d) pontjában meghatározott állami támogatás kivételével – az állami felsőoktatási intézmények azonos feltételek, az egyházi és magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – a Kormánnyal kötött megállapodás alapján válnak jogosulttá.
+(3) Az állami támogatásra – a (2) bekezdés d) pontjában meghatározott állami támogatás kivételével – az állami felsőoktatási intézmények azonos feltételek, az egyházi felsőoktatási intézmények és a magán felsőoktatási intézmények – törvény eltérő rendelkezése hiányában – a Kormánnyal kötött megállapodás alapján válnak jogosulttá.
 
 (4) A pályázati úton adható támogatás lehet különösen:
 
@@ -1710,7 +1712,7 @@ történhet.
 
 #### 56. Az egyházi felsőoktatási intézmények
 
-91. § (1) Hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő képzést (a továbbiakban együtt: hitéleti képzés) az egyházi jogi személy által fenntartott felsőoktatási intézmények (a továbbiakban: egyházi felsőoktatási intézmény) folytathatnak.
+91. § (1) Hitélettel és a hitélettel együtt oktatott hittudománnyal összefüggő képzést (a továbbiakban együtt: hitéleti képzés) az egyházi felsőoktatási intézmény folytathat.
 
 (2) Az egyházi felsőoktatási intézmények e törvény általános rendelkezései szerint nem hitéleti képzést is folytathatnak.
 
@@ -1729,11 +1731,11 @@ történhet.
 
 (7) A hitéleti képzés tekintetében a 6. § (5) bekezdés a) pontjában szabályozott eljárásban csak azt kell vizsgálni, hogy biztosítottak-e a képzés tárgyi feltételei. A felsőoktatási intézmény határozza meg továbbá a felvételi eljárás rendjét és – az érettségi vizsga meglétét kivéve – a felvétel követelményeit.
 
-92. § (1) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyház által fenntartott felsőoktatási intézmény, kollégium és diákotthon a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatói arányában jogosult a 84. § (2) bekezdés d) pontjában meghatározott fenntartási feladatokhoz biztosított állami támogatásra, továbbá eseti és egyedi támogatásokra.
+92. § (1) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyházi felsőoktatási intézmény, kollégium és diákotthon a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatói arányában jogosult a 84. § (2) bekezdés d) pontjában meghatározott fenntartási feladatokhoz biztosított állami támogatásra, továbbá eseti és egyedi támogatásokra.
 
-(2) Az (1) bekezdésben meghatározott támogatásra jogosulttá válhat az az egyház által fenntartott felsőoktatási intézmény, kollégium és diákotthon is, amelynek fenntartójával a miniszter felsőoktatási feladatok ellátására megállapodást köt.
+(2) Az (1) bekezdésben meghatározott támogatásra jogosulttá válhat az az egyházi felsőoktatási intézmény, kollégium és diákotthon is, amelynek fenntartójával a miniszter felsőoktatási feladatok ellátására megállapodást köt.
 
-(3) Az (1) bekezdésben felsorolt egyházak által fenntartott felsőoktatási intézményekben nem hitéleti képzésre felvehető hallgatói létszámot a miniszter az érintett egyházi jogi személyekkel kötött megállapodás alapján határozza meg, azzal a megkötéssel, hogy az évente államilag támogatható hallgatói létszámhelynek az összes állami ösztöndíjjal támogatott hallgatói létszámhelyre felvehetőkhöz viszonyított aránya nem lehet kevesebb, mint az 1997/1998-as tanévben az adott egyház valamennyi felsőoktatási intézményébe államilag finanszírozott hallgatóként felvett hallgatóknak az összes államilag finanszírozott hallgatóhoz viszonyított aránya.
+(3) Az egyházi felsőoktatási intézményben nem hitéleti képzésre felvehető hallgatói létszámot a miniszter az érintett egyházi fenntartóval kötött megállapodás alapján határozza meg, azzal a megkötéssel, hogy az évente államilag támogatható hallgatói létszámhelynek az összes állami ösztöndíjjal támogatott hallgatói létszámhelyre felvehetőkhöz viszonyított aránya nem lehet kevesebb, mint az 1997/1998-as tanévben az érintett egyházi fenntartó valamennyi egyházi felsőoktatási intézményébe államilag finanszírozott hallgatóként felvett hallgatóknak az összes államilag finanszírozott hallgatóhoz viszonyított aránya.
 
 (4) A hitéleti képzésben magyar állami ösztöndíjjal támogatott képzésre felvehető hallgatói létszámot az (1) bekezdésben felsorolt megállapodásban foglaltak szerint kell meghatározni, oly módon, hogy a mesterképzésre az alapképzéssel megegyező számú hallgató vehető fel.
 
@@ -1761,18 +1763,19 @@ eltérő rendelkezéseket állapíthat meg,
 
 (3) Ahol e törvény munkaviszonyt említ, azon egyházi felsőoktatási intézmények esetén az egyházi személy jogviszonyt is érteni kell.
 
-(4) A miniszter az alap- és mesterképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi jogi személy kezdeményezésére szabályoz.
+(4) A miniszter az alap- és mesterképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére szabályoz.
 
-(5) A felsőoktatási intézményeket fenntartó egyházi jogi személyek kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
+(5) Az egyházi fenntartó kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
 
-(6) Az egyházi felsőoktatási intézmények működésére
+(6) Az egyházi felsőoktatási intézmény működésére a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit, a 94. § (2), (3) és (8) bekezdését, valamint a 95. § (2), (3) és (6) bekezdését kell alkalmazni.
 
-- a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény vonatkozó rendelkezéseit,
-- b) a 94. § (2)–(3) és (8) bekezdésben, valamint a 95. § (2)–(3) és (6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+93/A. § Az egyházi jogi személy az állam vagy az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézményben a felsőoktatási intézmény működéséhez illeszkedő módon a hallgatói igények figyelembe vételével szervezhet hitéleti oktatást, amelynek tárgyi feltételeit – így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket – a felsőoktatási intézmény a rendelkezésére álló eszközökkel biztosítja.
 
 #### 57. A magán felsőoktatási intézmények
 
-94. § (1) A 4. § (1) bekezdés c)–d) pontjában meghatározott személy, szervezet által fenntartott felsőoktatási intézmény (a továbbiakban: magán felsőoktatási intézmény) vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket.
+94. § (1) A 4. § (1) bekezdés c)–d) pontjában meghatározott személy, szervezet által fenntartott felsőoktatási intézmény vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket.
+
+(1a) A vallási tevékenységet végző szervezet által fenntartott magán felsőoktatási intézmény is folytathat hitéleti képzést, amelyre a 91. § (6) és (7) bekezdését, a 92. § (6) bekezdését és a 93. § (1) és (4) bekezdését alkalmazni kell. Ahol e törvény munkaviszonyt említ, azon a magán felsőoktatási intézmény hitéleti képzésén foglalkoztatottak esetén a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjának ilyen jogviszonyát is érteni kell.
 
 (2) A magán felsőoktatási intézmények a 12. § (7) bekezdésben, a 12. § (8) bekezdésben, a 29. § (1) bekezdésben, a 37. § (3), (5)–(6) bekezdésben, a 83. § (1) és (5) bekezdésben foglalt rendelkezésektől a szervezeti és működési szabályzatukban eltérhetnek.
 
@@ -2108,7 +2111,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 - 1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott tudományok főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
 - 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
-- 3. a felsőoktatási intézmény, valamint az egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
+- 3. a felsőoktatási intézmény, valamint az egyházi fenntartó vagy alapítvány által fenntartott diákotthonok minimális, létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét és díját, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit
 - 4. a képesítési keretet, a doktori képzés szabályait,
   - a) az alap- és mesterképzés képzési területeit, képzési ágait, szakjait, az azokhoz rendelt kreditek számát, valamint az indítással összefüggő eljárási rendet, továbbá azokat a szakokat, amelyekben külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzést kell szervezni,
   - b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
@@ -2327,7 +2330,7 @@ rendeletben jelölje ki.
 
 (4) A 2005. évi felsőoktatási törvény 106. § (7) bekezdése alapján nyilvántartásba vett képzéseket valamint az azokra vonatkozó az információs rendszer által kezelt adatokat az oktatási hivatal a képzés kifutó rendszerű befejezésével, de legkésőbb 2017. szeptember 1-jén törli a nyilvántartásából, és kezdeményezi a felsőoktatási információs rendszerből való törlést.
 
-(5) A 2011. december 31-én egyházként működő szervezetek – illetve e szervezeteknek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak és vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 36. § (1) bekezdése szerinti jogutódja – által fenntartott államilag elismert felsőoktatási intézmények 2012. január 1-jét követően is folytathatnak hitéleti képzést, valamint változatlan feltételek és állami támogatás biztosítása mellett működtethetők tovább.
+(5) A vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvény hatálybalépésekor a vallási tevékenységet végző szervezet által fenntartott felsőoktatási intézmény a 2013/2014. tanév első napjától a magán felsőoktatási intézményekre vonatkozó szabályok szerint folytathatja a tevékenységét. Az ilyen felsőoktatási intézmény hitéleti képzésére legkésőbb a 2013. évi általános felvételi eljárásban felvett hallgató tanulmányait változatlan feltételek és finanszírozás mellett fejezheti be.
 
 (6) A 2005. évi felsőoktatási törvény 2. számú melléklet II/C. rész 1. ah) és ai) pontjai alapján nyilvántartott személyes adatok a hallgatói jogviszony megszűnését követő öt évig – e törvény hatálybalépését követően – továbbra is nyilvántarthatók.
 
@@ -2355,155 +2358,81 @@ rendeletben jelölje ki.
 
 #### Magyarország államilag elismert felsőoktatási intézményei
 
-#### I. Egyetemek
-
-#### I/A. Állami egyetemek
-
-Budapesti Corvinus Egyetem, Budapest
-
-Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest
-
-Debreceni Egyetem, Debrecen
-
-Eötvös Loránd Tudományegyetem, Budapest
-
-Kaposvári Egyetem, Kaposvár
-
-Liszt Ferenc Zeneművészeti Egyetem, Budapest
-
-Magyar Képzőművészeti Egyetem, Budapest
-
-Miskolci Egyetem, Miskolc
-
-Moholy-Nagy Művészeti Egyetem, Budapest
-
-Nemzeti Közszolgálati Egyetem, Budapest
-
-Nyugat-magyarországi Egyetem, Sopron
-
-Óbudai Egyetem, Budapest
-
-Pannon Egyetem, Veszprém
-
-Pécsi Tudományegyetem, Pécs
-
-Semmelweis Egyetem, Budapest
-
-Szegedi Tudományegyetem, Szeged
-
-Szent István Egyetem, Gödöllő
-
-Széchenyi István Egyetem, Győr
-
-Színház- és Filmművészeti Egyetem, Budapest
-
-#### I/B. Egyházi egyetemek
-
-Debreceni Református Hittudományi Egyetem, Debrecen
-
-Evangélikus Hittudományi Egyetem, Budapest
-
-Károli Gáspár Református Egyetem, Budapest
-
-Országos Rabbiképző – Zsidó Egyetem, Budapest
-
-Pázmány Péter Katolikus Egyetem, Budapest
-
-#### I/C. Magán egyetemek
-
-Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest
-
-Közép-európai Egyetem, Budapest
-
-#### II. Főiskolák
-
-#### II/A. Állami főiskolák
-
-Budapesti Gazdasági Főiskola, Budapest
-
-Dunaújvárosi Főiskola, Dunaújváros
-
-Eötvös József Főiskola, Baja
-
-Eszterházy Károly Főiskola, Eger
-
-Károly Róbert Főiskola, Gyöngyös
-
-Kecskeméti Főiskola, Kecskemét
-
-Magyar Táncművészeti Főiskola, Budapest
-
-Nyíregyházi Főiskola, Nyíregyháza
-
-Szolnoki Főiskola, Szolnok
-
-#### II/B. Egyházi főiskolák
-
-A Tan Kapuja Buddhista Főiskola, Budapest
-
-Adventista Teológiai Főiskola, Pécel
-
-Apor Vilmos Katolikus Főiskola, Vác
-
-Baptista Teológiai Akadémia, Budapest
-
-Bhaktivedanta Hittudományi Főiskola, Budapest
-
-Egri Hittudományi Főiskola, Eger
-
-Esztergomi Hittudományi Főiskola, Esztergom
-
-Gál Ferenc Főiskola, Szeged
-
-Golgota Teológiai Főiskola, Vajta
-
-Győri Hittudományi Főiskola, Győr
-
-Pápai Református Teológiai Akadémia, Pápa
-
-Pécsi Püspöki Hittudományi Főiskola, Pécs
-
-Pünkösdi Teológiai Főiskola, Budapest
-
-Sapientia Szerzetesi Hittudományi Főiskola, Budapest
-
-Sárospataki Református Teológiai Akadémia, Sárospatak
-
-Sola Scriptura Teológiai Főiskola, Budapest
-
-Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza
-
-Szent Bernát Hittudományi Főiskola, Zirc
-
-Szent Pál Akadémia, Budapest
-
-Veszprémi Érseki Hittudományi Főiskola, Veszprém
-
-Wesley János Lelkészképző Főiskola, Budapest
-
-#### II/C. Magán főiskolák
-
-Általános Vállalkozási Főiskola, Budapest
-
-Budapest Kortárstánc Főiskola, Budapest
-
-Budapesti Kommunikációs és Üzleti Főiskola, Budapest
-
-Edutus Főiskola, Budapest
-
-Gábor Dénes Főiskola, Budapest
-
-IBS Nemzetközi Üzleti Főiskola, Budapest
-
-Kodolányi János Főiskola, Székesfehérvár
-
-Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest
-
-Tomori Pál Főiskola, Kalocsa
-
-Wekerle Sándor Üzleti Főiskola, Budapest
-
-Zsigmond Király Főiskola, Budapest
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | I. EGYETEMEK |  |  |
+| 2 |  | I/A. Állami egyetemek |  |
+| 3 |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 4 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
+| 5 |  |  | Debreceni Egyetem, Debrecen |
+| 6 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
+| 7 |  |  | Kaposvári Egyetem, Kaposvár |
+| 8 |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
+| 9 |  |  | Magyar Képzőművészeti Egyetem, Budapest |
+| 10 |  |  | Miskolci Egyetem, Miskolc |
+| 11 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 12 |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
+| 13 |  |  | Nyugat-magyarországi Egyetem, Sopron |
+| 14 |  |  | Óbudai Egyetem, Budapest |
+| 15 |  |  | Pannon Egyetem, Veszprém |
+| 16 |  |  | Pécsi Tudományegyetem, Pécs |
+| 17 |  |  | Semmelweis Egyetem, Budapest |
+| 18 |  |  | Szegedi Tudományegyetem, Szeged |
+| 19 |  |  | Szent István Egyetem, Gödöllő |
+| 20 |  |  | Széchenyi István Egyetem, Győr |
+| 21 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
+| 22 |  | I/B. Nem állami egyetemek |  |
+| 23 |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 24 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 25 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 26 |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 27 |  |  | Közép-európai Egyetem, Budapest |
+| 28 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 29 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 30 | II. FŐISKOLÁK |  |  |
+| 31 |  | II/A. Állami főiskolák |  |
+| 32 |  |  | Budapesti Gazdasági Főiskola, Budapest |
+| 33 |  |  | Dunaújvárosi Főiskola, Dunaújváros |
+| 34 |  |  | Eötvös József Főiskola, Baja |
+| 35 |  |  | Eszterházy Károly Főiskola, Eger |
+| 36 |  |  | Károly Róbert Főiskola, Gyöngyös |
+| 37 |  |  | Kecskeméti Főiskola, Kecskemét |
+| 38 |  |  | Magyar Táncművészeti Főiskola, Budapest |
+| 39 |  |  | Nyíregyházi Főiskola, Nyíregyháza |
+| 40 |  |  | Szolnoki Főiskola, Szolnok |
+| 41 |  | II/B. Nem állami főiskolák |  |
+| 42 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 43 |  |  | Adventista Teológiai Főiskola, Pécel |
+| 44 |  |  | Általános Vállalkozási Főiskola, Budapest |
+| 45 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 46 |  |  | Baptista Teológiai Akadémia, Budapest |
+| 47 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 48 |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 49 |  |  | Budapesti Kommunikációs és Üzleti Főiskola, Budapest |
+| 50 |  |  | Edutus Főiskola, Budapest |
+| 51 |  |  | Egri Hittudományi Főiskola, Eger |
+| 52 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
+| 53 |  |  | Gábor Dénes Főiskola, Budapest |
+| 54 |  |  | Gál Ferenc Főiskola, Szeged |
+| 55 |  |  | Golgota Teológiai Főiskola, Vajta |
+| 56 |  |  | Győri Hittudományi Főiskola, Győr |
+| 57 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
+| 58 |  |  | Kodolányi János Főiskola, Székesfehérvár |
+| 59 |  |  | Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest |
+| 60 |  |  | Pápai Református Teológiai Akadémia, Pápa |
+| 61 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
+| 62 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
+| 63 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
+| 64 |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
+| 65 |  |  | Sola Scriptura Teológiai Főiskola, Budapest |
+| 66 |  |  | Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza |
+| 67 |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
+| 68 |  |  | Szent Pál Akadémia, Budapest |
+| 69 |  |  | Tomori Pál Főiskola, Kalocsa |
+| 70 |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
+| 71 |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
+| 72 |  |  | Wesley János Lelkészképző Főiskola, Budapest |
+| 73 |  |  | Zsigmond Király Főiskola, Budapest |
 
 ### 2. melléklet a 2011. évi CCIV. törvényhez
 

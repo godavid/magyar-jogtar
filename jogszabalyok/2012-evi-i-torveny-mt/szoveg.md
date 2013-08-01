@@ -283,11 +283,13 @@ kézbesítettnek kell tekinteni.
 (2) Felszámolási eljárásban
 
 - a) az (1) bekezdésben,
-- b) a 37–40. §-ban,
-- c) a 66. § (3) bekezdésében,
-- d) a 228. § (4) bekezdésében,
-- e) a 229. § (4) bekezdésében, valamint
-- f) a 282. §-ban
+- b) a 37. §-ban,
+- c) a 38. § (1) bekezdésében,
+- d) a 39–40. §-ban,
+- e) a 66. § (3) bekezdésében,
+- f) a 228. § (4) bekezdésében,
+- g) a 229. § (4) bekezdésében, valamint
+- h) a 282. §-ban
 
 foglaltak nem alkalmazhatók.
 
@@ -580,7 +582,12 @@ foglalkoztatás lehetőségéről.
 
 (2) A felmondás indoka a munkavállaló munkaviszonnyal kapcsolatos magatartásával, képességével vagy a munkáltató működésével összefüggő ok lehet.
 
-(3) Kizárólag a munkáltató személyében bekövetkező változás nem szolgálhat a munkáltató felmondásának indokául.
+(3) Kizárólag
+
+- a) a munkáltató személyében bekövetkező változás,
+- b) a 99. § (3) bekezdése vagy a 135. § (4) bekezdése szerinti megállapodás munkavállaló általi felmondása
+
+nem szolgálhat a munkáltató felmondásának indokául.
 
 (4) A munkáltató a nyugdíjasnak nem minősülő munkavállaló határozatlan tartamú munkaviszonyát a munkavállalóra irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül a munkavállaló munkaviszonnyal kapcsolatos magatartásával indokolt felmondással a 78. § (1) bekezdésében meghatározott okból szüntetheti meg.
 
@@ -955,6 +962,8 @@ szűnik meg és a munkavállaló az általános munkarend, valamint a napi munka
 
 szűnik meg és a munkavállaló a beosztás szerinti munkaidőre járó munkabérnél magasabb összegű munkabérben részesült.
 
+(5) Az (1)–(4) bekezdés rendelkezéseit munkaidőkeret hiányában is alkalmazni kell, ha a munkaviszony hónap közben szűnik meg.
+
 #### 50. A munkaidő-beosztás szabályai
 
 96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg.
@@ -1244,9 +1253,15 @@ munkanap pótszabadság jár.
 
 (2) A föld alatt állandó jelleggel vagy az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát dolgozó munkavállalónak évenként öt munkanap pótszabadság jár.
 
-120. § A munkavállalónak, ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, évenként öt munkanap pótszabadság jár.
+120. § A munkavállalónak, ha
 
-121. § (1) A munkavállaló részére, ha munkaviszonya év közben kezdődött vagy szűnt meg, a szabadság arányos része jár.
+- a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
+- b) fogyatékossági támogatásra jogosult, vagy
+- c) vakok személyi járadékára jogosult
+
+évenként öt munkanap pótszabadság jár.
+
+121. § (1) A munkavállaló részére, ha munkaviszonya év közben kezdődött vagy szűnt meg – a 118. § (4) bekezdését kivéve – a szabadság arányos része jár.
 
 (2) A fél napot elérő töredéknap egész munkanapnak számít.
 
@@ -1256,7 +1271,7 @@ munkanap pótszabadság jár.
 
 (2) A munkáltató évente hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – legfeljebb két részletben a munkavállaló kérésének megfelelő időpontban köteles kiadni. Ennek során a 121. § megfelelően irányadó. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
-(3) A szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy tartama legalább összefüggő tizennégy napot elérjen.
+(3) A szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy a munkavállaló naptári évenként egy alkalommal, legalább tizennégy egybefüggő napra mentesüljön a munkavégzési és rendelkezésre állási kötelezettsége alól. E tekintetben – a szabadságként kiadott napon túl – a heti pihenőnap (heti pihenőidő), a munkaszüneti nap és az egyenlőtlen munkaidő-beosztás szerinti szabadnap vehető figyelembe.
 
 (4) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt tizenöt nappal közölni kell.
 
@@ -1282,9 +1297,13 @@ munkanap pótszabadság jár.
 
 124. § (1) A szabadságot a munkaidő-beosztás szerinti munkanapokra kell kiadni.
 
-(2) A napi munkaidő mértékétől eltérő munkaidő-beosztás esetén, a munkavállaló a szabadság kiadása során a beosztással azonos tartamra mentesül munkavégzési kötelezettsége alól és a kiadott szabadságot ezzel egyező óraszámban kell elszámolni és nyilvántartani.
+(2) Egyenlőtlen munkaidő-beosztás esetén a szabadság kiadása során a hét minden napja munkanapnak számít, kivéve a munkaidő-beosztás szerinti heti pihenőnapot és a munkaszüneti napot.
 
-(3) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni.
+(3) Egyenlőtlen munkaidő-beosztás esetén a szabadság – a (2) bekezdéstől eltérően – az adott naptári évben úgy is kiadható, hogy a munkavállaló a munkaidő-beosztással azonos tartamra mentesül a rendelkezésre állási és munkavégzési kötelezettsége alól.
+
+(4) A szabadságot az (1) és (2) bekezdés esetén munkanapban, a (3) bekezdés esetén a munkavégzés alóli mentesülés tartamával egyező óraszámban kell nyilvántartani.
+
+(5) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni, valamint a (4) bekezdésben foglaltakra tekintettel kell nyilvántartani.
 
 125. § A munkaviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani.
 
@@ -1296,7 +1315,7 @@ munkanap pótszabadság jár.
 
 (3) Évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult.
 
-(4) A betegszabadság kiadásánál a 124. §-ban foglalt rendelkezést kell azzal az eltéréssel alkalmazni, ha a munkavállaló a munkaszüneti nap miatt mentesülne a munkavégzési kötelezettsége alól, ezt a napot munkanapként kell figyelembe venni.
+(4) A betegszabadság kiadásánál a 124. §-ban foglalt rendelkezéseket kell alkalmazni. A 124. § (3) bekezdés alkalmazásakor, ha a betegszabadságként elszámolható idő a beosztás szerinti napi munkaidőnél rövidebb, a teljes beosztás szerinti napi munkaidőt betegszabadságként kell elszámolni.
 
 (5) A betegszabadság tekintetében a 121. § (2) bekezdése megfelelően irányadó.
 
@@ -1362,9 +1381,11 @@ szerinti megállapodásokat.
 
 135. § (1) A felek megállapodása vagy kollektív szerződés
 
-- a) a 122. § (5) bekezdésében,
-- b) a 127. § (1)–(2) és (4) bekezdésében,
-- c) a 134. §-ban
+- a) a 96. § (2) bekezdésében,
+- b) a 122. § (5) bekezdésében,
+- c) a 126. § (4) bekezdésében,
+- d) a 127. § (1)–(2) és (4) bekezdésében,
+- e) a 134. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -1372,16 +1393,20 @@ foglaltaktól nem térhet el.
 
 - a) a 86–93. §-ban,
 - b) a 95. §-ban,
-- c) a 96. § (2)–(3) bekezdésében,
+- c) a 96. § (3) bekezdésében,
 - d) a 97. § (1) bekezdésében,
 - e) a 99. §-ban,
 - f) a 101–108. §-ban,
 - g) a 109. § (2) bekezdésében,
 - h) a 111. §-ban,
 - i) a 113–121. §-ban,
-- j) a 124–126. §-ban,
-- k) a 127. § (5) bekezdésében,
-- l) a 128–133. §-ban
+- j) a 122. § (3) bekezdésében,
+- k) a 123. § (6) bekezdésében,
+- l) a 124. §-ban,
+- m) a 125. §-ban,
+- n) a 126. § (1)–(3) és (5) bekezdésében,
+- o) a 127. § (5) bekezdésében,
+- p) a 128–133. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 
@@ -1412,10 +1437,7 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 (2) Az alapbért időbérben kell megállapítani.
 
-(3) Havi alapbér esetén az egy órára járó alapbér meghatározása során a havi alapbér összegét osztani kell
-
-- a) általános teljes napi munkaidő esetén százhetvennégy órával,
-- b) általánostól eltérő teljes napi vagy részmunkaidő esetén a százhetvennégy óra időarányos részével.
+(3) A havi alapbér meghatározott időszakra járó részének számításánál a havi alapbérnek a hónapban irányadó általános munkarend szerinti egy órára eső összegét szorozni kell az adott időszakra eső általános munkarend szerinti teljesítendő órák számával.
 
 137. § (1) A munkáltató a munkabért teljesítménybérként vagy idő- és teljesítménybér összekapcsolásával is megállapíthatja.
 
@@ -1439,11 +1461,23 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 139. § (1) A bérpótlék a munkavállalót a rendes munkaidőre járó munkabérén felül illeti meg.
 
-(2) A bérpótlék számítási alapja – eltérő megállapodás hiányában – a munkavállaló alapbére.
+(2) A bérpótlék számítási alapja – eltérő megállapodás hiányában – a munkavállaló egy órára járó alapbére.
 
-140. § (1) Vasárnap rendes munkaidőben történő munkavégzésre kötelezett, a 101. § (1) bekezdés d)–e) és i) pontban meghatározott munkavállalót ötven százalék bérpótlék illeti meg.
+(3) A bérpótlék számítási alapjának meghatározásakor a havi alapbér összegét – a 136. § (3) bekezdéstől eltérően –
 
-(2) Munkaszüneti napon rendes munkaidőben történő munkavégzésre kötelezett munkavállalót száz százalék bérpótlék illeti meg.
+- a) általános teljes napi munkaidő esetén százhetvennégy órával,
+- b) rész- vagy általánostól eltérő teljes napi munkaidő esetén a százhetvennégy óra arányos részével
+
+kell osztani.
+
+140. § (1) Vasárnapi munkavégzés esetén ötven százalék bérpótlék (vasárnapi pótlék) jár,
+
+- a) ha a munkavállaló a rendes munkaidőben történő munkavégzésre kizárólag a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott feltételek alapján kötelezhető, továbbá
+- b) a rendkívüli munkaidőre
+  - ba) a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott munkavállalónak,
+  - bb) ha a munkavállaló a 101. § (1) bekezdés alapján rendes munkaidőben történő munkavégzésre nem kötelezhető.
+
+(2) A munkavállalót munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg.
 
 (3) A (2) bekezdés szerinti bérpótlék jár a húsvét- vagy a pünkösdvasárnap, vagy a vasárnapra eső munkaszüneti napon történő munkavégzés esetén.
 
@@ -1453,23 +1487,25 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 142. § A munkavállalónak – a műszakpótlékra jogosult munkavállalót kivéve – éjszakai munkavégzés esetén, ha ennek tartama az egy órát meghaladja, tizenöt százalék bérpótlék jár.
 
-143. § (1) A munkavállalónak ötven százalék bérpótlék vagy – munkaviszonyra vonatkozó szabály vagy a felek megállapodása alapján – szabadidő jár
+143. § (1) A munkavállalót a (2)–(5) bekezdés szerinti ellenérték a rendes munkaidőre járó munkabérén felül illeti meg.
+
+(2) A munkavállalónak ötven százalék bérpótlék vagy – munkaviszonyra vonatkozó szabály vagy a felek megállapodása alapján – szabadidő jár
 
 - a) a munkaidő-beosztás szerinti napi munkaidőt meghaladóan elrendelt rendkívüli munkaidőben,
-- b) a munkaidőkereten vagy
+- b) a munkaidőkereten felül vagy
 - c) az elszámolási időszakon felül
 
 végzett munka esetén.
 
-(2) A szabadidő nem lehet kevesebb az elrendelt rendkívüli munkaidő vagy a végzett munka tartamánál és erre az alapbér arányos része jár.
+(3) A szabadidő nem lehet kevesebb az elrendelt rendkívüli munkaidő vagy a végzett munka tartamánál és erre az alapbér arányos része jár.
 
-(3) A munkaidő-beosztás szerinti heti pihenőnapra (heti pihenőidőre) elrendelt rendkívüli munkaidőben történő munkavégzés esetén száz százalék bérpótlék jár. A bérpótlék mértéke ötven százalék, ha a munkáltató másik heti pihenőnapot (heti pihenőidőt) biztosít.
+(4) A munkaidő-beosztás szerinti heti pihenőnapra (heti pihenőidőre) elrendelt rendkívüli munkaidőben történő munkavégzés esetén száz százalék bérpótlék jár. A bérpótlék mértéke ötven százalék, ha a munkáltató másik heti pihenőnapot (heti pihenőidőt) biztosít.
 
-(4) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót a (3) bekezdés szerinti bérpótlék illeti meg.
+(5) Munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót a (4) bekezdés szerinti bérpótlék illeti meg.
 
-(5) A szabadidőt vagy a (3) bekezdés szerinti heti pihenőnapot (heti pihenőidőt) legkésőbb az elrendelt rendkívüli munkaidőben történő munkavégzést követő hónapban, egyenlőtlen munkaidő-beosztás alkalmazása esetén legkésőbb a munkaidőkeret vagy az elszámolási időszak végéig kell kiadni. Ettől eltérően munkaidőkereten felül végzett munka esetén a szabadidőt legkésőbb a következő munkaidőkeret végéig kell kiadni.
+(6) A szabadidőt vagy a (4) bekezdés szerinti heti pihenőnapot (heti pihenőidőt) legkésőbb az elrendelt rendkívüli munkaidőben történő munkavégzést követő hónapban, egyenlőtlen munkaidő-beosztás alkalmazása esetén legkésőbb a munkaidőkeret vagy az elszámolási időszak végéig kell kiadni. Ettől eltérően munkaidőkereten felül végzett munka esetén a szabadidőt legkésőbb a következő munkaidőkeret végéig kell kiadni.
 
-(6) A felek megállapodása alapján a szabadidőt legkésőbb a tárgyévet követő év december harmincegyedik napjáig kell kiadni.
+(7) A felek megállapodása alapján a szabadidőt legkésőbb a tárgyévet követő év december harmincegyedik napjáig kell kiadni.
 
 144. § (1) Készenlét esetén húsz–, ügyelet esetén negyven százalék bérpótlék jár.
 
@@ -1486,6 +1522,8 @@ végzett munka esetén.
 
 havi átalányt állapíthatnak meg.
 
+(3) A pótlékátalány arányos részének meghatározásakor a 136. § (3) bekezdését megfelelően alkalmazni kell.
+
 #### 67. Díjazás munkavégzés hiányában
 
 146. § (1) A munkavállalót, ha a munkáltató foglalkoztatási kötelezettségének a beosztás szerinti munkaidőben nem tesz eleget (állásidő) – az elháríthatatlan külső okot kivéve – alapbér illeti meg.
@@ -1500,51 +1538,58 @@ havi átalányt állapíthatnak meg.
 - d) óra- vagy teljesítménybérezés esetén a napi munkaidőre, ha az általános munkarend szerinti munkanapra eső munkaszüneti nap miatt csökken a teljesítendő munkaidő,
 - e) ha munkaviszonyra vonatkozó szabály, munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
 
-(4) A betegszabadság tartamára a távolléti díj hetven százaléka jár.
+(4) A (3) bekezdés d) pontjától eltérően, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül.
 
-147. § (1) A munkavállalót a 146. § (1) és (3) bekezdésében meghatározott díjazáson felül bérpótlék is megilleti, ha a munkavégzés alóli mentesülés tartamára irányadó munkaidő-beosztása alapján bérpótlékra lett volna jogosult.
+(5) A betegszabadság tartamára a távolléti díj hetven százaléka jár.
 
-(2) A munkavállalót – az (1) bekezdés szerinti esetben – betegszabadság esetén arányos bérpótlék illeti meg.
+147. § A munkavállalót a 146. § (1) bekezdésben meghatározott díjazáson felül bérpótlék is megilleti, ha a munkaidő-beosztása alapján bérpótlékra lett volna jogosult.
 
 #### 68. A távolléti díj számítása
 
-148. § (1) A távolléti díjat az esedékessége időpontjában érvényes alapbér, valamint az utolsó hat naptári hónapra (irányadó időszak) kifizetett teljesítménybér és bérpótlék figyelembevételével kell megállapítani.
+148. § (1) A távolléti díjat
 
-(2) A távolléti díj kiszámításakor figyelmen kívül kell hagyni azt a munkabért, amelyre a munkavállaló a távollét tartamára munkavégzés hiányában is jogosult.
+- a) az esedékessége időpontjában érvényes alapbér (136. §), pótlékátalány (145. §),
+- b) az esedékesség időpontját megelőző utolsó hat hónapra (irányadó időszak) kifizetett
+  - ba) teljesítménybér (150. §),
+  - bb) bérpótlék (151. §)
 
-(3) A napi- vagy a havi távolléti díj meghatározásakor – a 149. §-ban foglaltakat kivéve – az egy órára járó távolléti díjat a napi munkaidővel vagy a 136. § (3) bekezdésében foglaltak szerint kell megszorozni.
+figyelembevételével kell megállapítani.
 
-(4) A távolléti díj megállapításakor a 149–151. §-ban foglaltak szerint kiszámított összegeket együttesen kell figyelembe venni.
+(2) Az esedékesség időpontja
 
-149. § (1) Havi bér esetén
+- a) a távollét kezdő időpontja,
+- b) a végkielégítés tekintetében
+  - ba) a munkáltatói felmondás közlésének az időpontja,
+  - bb) a 77. § (1) bekezdés b) és c) pontja esetén a munkaviszony megszűnésének időpontja, vagy
+- c) kártérítési felelősség megállapítása esetén a kár bekövetkezésének időpontja, ha a munkaviszony ezt megelőzően megszűnt, a munkaviszony megszűnésének időpontja.
 
-- a) az egy órára járó távolléti díj meghatározásakor a 136. § (3) bekezdésében foglaltakat kell alkalmazni,
-- b) a napi távolléti díj az egy órára járó távolléti díj és a napi munkaidő szorzata,
-- c) a havi távolléti díj megegyezik az alapbérrel.
+(3) Az (1) bekezdés a) pontjában meghatározott díjazást, ha a távollét tartama során összege módosul, a távollét módosítást követő tartamára a távolléti díj számítása során a módosított összeget kell figyelembe venni.
 
-(2) Órabér esetén
+(4) A távolléti díj megállapításakor az (1) bekezdés szerinti összegeket – a 149–151. §-ban foglaltaknak megfelelően – együttesen kell figyelembe venni.
 
-- a) az egy órára járó távolléti díj megegyezik az órabérrel,
-- b) a napi távolléti díj az órabér és a napi munkaidő szorzata,
-- c) a havi távolléti díj meghatározásakor az órabért a 136. § (3) bekezdésében foglaltak szerint kell szorozni.
+149. § (1) Havi bér esetén a távolléti díj 148. § (1) bekezdés a) pont szerinti részének meghatározásakor a 136. § (3) bekezdésében foglaltakat kell alkalmazni.
+
+(2) A távolléti díj 148. § (1) bekezdés a) pont szerinti része a havi- vagy órabér és pótlékátalány távollét tartamára történő kifizetésével is teljesíthető és elszámolható.
 
 150. § (1) A távolléti díj meghatározásakor a 137. § (3) bekezdésében foglaltak szerint kifizetett teljesítménybért kell számításba venni.
 
 (2) A teljesítménybért – a kifizetés időpontjától függetlenül – az irányadó időszakra jutó arányos részben kell figyelembe venni.
 
-(3) A kizárólag teljesítménybérrel díjazott munkavállaló esetében a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni.
+(3) Teljesítménybérezés esetén a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni.
 
 (4) A teljesítménybért az egy órára járó távolléti díj kiszámításakor úgy kell figyelembe venni, hogy az irányadó időszaki rendes munkaidőre járó teljesítménybér összegét osztani kell az irányadó időszakban rendes munkaidőben teljesített és teljesítménybérrel díjazott órák számával (osztószám).
 
-151. § (1) A távolléti díj megállapításakor, ha a munkavállaló munkaideje a munkavégzés alóli mentesülés tartamára nem volt beosztva, a 141–142. §-ban és a 144. § (1) bekezdésében foglaltak szerinti bérpótlékot – a (2)–(3) bekezdésben foglaltak szerint – figyelembe kell venni.
+(5) A távolléti díj meghatározásakor az idő- és teljesítménybér összekapcsolásával megállapított munkabér esetén az időbérrészt a 148. § (1) bekezdés a) pont megfelelő alkalmazásával kell figyelembe venni.
 
-(2) A műszakpótlékot és az éjszakai bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkavállaló az irányadó időszakban legalább a beosztás szerinti munkaideje harminc százalékának megfelelő tartamban műszak- vagy éjszakai bérpótlékra jogosító időszakban végzett munkát.
+151. § (1) A távolléti díj megállapításakor a vasárnapi pótlékot, a műszakpótlékot, az éjszakai pótlékot és a 144. § (1) bekezdés szerinti bérpótlékot a (2)–(5) bekezdésben foglaltak szerint kell figyelembe venni.
 
-(3) Az ügyelet és a készenlét tartamára kifizetett bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkáltató a munkavállaló számára az irányadó időszakban átlagosan legalább havi kilencvenhat óra tartamú ügyeletet vagy készenlétet rendelt el.
+(2) A vasárnapi pótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkavállaló az irányadó időszakban legalább a vasárnapok egyharmadában beosztás szerinti munkaidejében munkát végzett.
 
-(4) A bérpótlékot az egy órára járó távolléti díj kiszámításakor úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett bérpótlék összegét osztani kell az irányadó időszakban, rendes munkaidőben teljesített órák számával (osztószám).
+(3) A műszakpótlékot és az éjszakai bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkavállaló az irányadó időszakban legalább a beosztás szerinti munkaideje harminc százalékának megfelelő tartamban műszak- vagy éjszakai bérpótlékra jogosító időszakban végzett munkát.
 
-(5) Ha a munkáltató a munkavállaló számára az (1) bekezdésben meghatározott bérpótlékok helyett a 145. § szerint átalányt állapított meg, a kifizetett havi átalány összegét osztani kell az irányadó időszakban rendes munkaidőben teljesített órák számával (osztószám).
+(4) Az ügyelet és a készenlét tartamára kifizetett bérpótlékot a távolléti díj kiszámításánál akkor kell figyelembe venni, ha a munkáltató a munkavállaló számára az irányadó időszakban átlagosan legalább havi kilencvenhat óra tartamú ügyeletet vagy készenlétet rendelt el.
+
+(5) A bérpótlékot az egy órára járó távolléti díj kiszámításánál úgy kell figyelembe venni, hogy az irányadó időszakra kifizetett bérpótlék összegét osztani kell az irányadó időszakban, a beosztás szerinti munkaidőben teljesített órák számával (osztószám).
 
 152. § (1) A távolléti díj kiszámításakor, ha az irányadó időszakban munkabér-kifizetés nem történt, az alapbért kell figyelembe venni.
 
@@ -1579,13 +1624,16 @@ havi átalányt állapíthatnak meg.
 
 (3) A (2) bekezdés szerinti tájékoztatásnak olyannak kell lennie, hogy a munkavállaló az elszámolás helyességét, a levonások jogcímét és összegét ellenőrizni tudja.
 
-(4) A munkavállalót a tárgyhónapot követő huszadik napig tájékoztatni kell, ha a munkabér tárgyhónapra vonatkozó elszámolását követően bekövetkező ok az elszámolás módosítását teszi szükségessé. A tájékoztatással egyidejűleg ki kell fizetni a munkabér-különbözetet, ha a munkavállaló a módosított elszámolás alapján a részére járó munkabérnél alacsonyabb összegű munkabérben részesült. A munkáltató, ha a módosított elszámolás alapján a munkavállaló részére az őt megillető munkabérnél magasabb összegű munkabért fizetett ki, a többletet az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint vonhatja le.
+(4) A munkavállalót, ha a munkabér tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a tárgyhónapra vonatkozó munkabér-elszámolás módosításáról legkésőbb a következő havi munkabér elszámolásakor tájékoztatni kell. A munkabér-különbözetet a következő havi munkabérrel egyidejűleg ki kell fizetni. A munkáltató a többletkifizetést az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint levonhatja.
 
-156. § (1) Egyenlőtlen munkaidő-beosztás és órabéres díjazás alkalmazása esetén a munkáltató – eltérő megállapodás hiányában – a munkavállaló munkabérét a 136. § (3) bekezdésében foglaltak megfelelő alkalmazásával számolja el és fizeti ki.
+156. § (1) Egyenlőtlen munkaidő-beosztás és
 
-(2) A munkaidőkeret lejártakor a munkavállaló munkabérét az általános munkarend és a napi munkaidő, valamint a teljesített munkaidő alapulvételével el kell számolni.
+- a) havibéres díjazás esetén a munkavállalónak – a beosztás szerinti munkaidő mértékétől függetlenül – a havi alapbére jár;
+- b) órabéres díjazás esetén – eltérő megállapodás hiányában – a munkáltató a munkavállaló munkabérét az adott hónapban irányadó általános munkarend szerinti munkanapok számának és a napi munkaidőnek az alapulvételével számolja el és fizeti ki.
 
-(3) A munkaidőkeret lejártát követő húsz napon belül, ha a munkavállaló a (2) bekezdés szerint elszámolt munkabérnél alacsonyabb összegű munkabérben részesült, a különbözetet ki kell fizetni.
+(2) A munkaidőkeret vagy az elszámolási időszak lejártakor a munkavállaló munkabérét az általános munkarend és a napi munkaidő, valamint a teljesített munkaidő alapulvételével el kell számolni.
+
+(3) A munkaidőkeret vagy az elszámolási időszak lejártát követően, ha a munkavállaló a (2) bekezdés szerint elszámolt munkabérnél alacsonyabb összegű munkabérben részesült, a különbözetet számára a következő havi munkabérrel ki kell fizetni.
 
 (4) Az előlegnyújtásból eredő követelésre vonatkozó szabályokat kell megfelelően alkalmazni, ha a munkavállaló a (2) bekezdésben foglaltak szerint elszámolt munkabérnél magasabb összegű munkabérben részesült.
 
@@ -1639,7 +1687,7 @@ havi átalányt állapíthatnak meg.
 
 165. § (1) A felek megállapodása vagy kollektív szerződés
 
-- a) a 136. §-ban,
+- a) a 136. § (1) és (2) bekezdésében,
 - b) a 137. § (3) bekezdésében,
 - c) a 138. § (1)–(5) bekezdésében,
 - d) a 139. § (1) bekezdésében,
@@ -1651,9 +1699,10 @@ foglaltaktól nem térhet el.
 
 (2) Kollektív szerződés
 
-- a) a 138. § (6) bekezdésében,
-- b) a 160. §-ban,
-- c) a 164. §-ban
+- a) a 136. § (3) bekezdésében,
+- b) a 138. § (6) bekezdésében,
+- c) a 160. §-ban,
+- d) a 164. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 
@@ -2892,14 +2941,14 @@ foglaltakat kivéve eltérni nem lehet.
 
 kapcsolatos igény érvényesítése iránt.
 
-(2) A keresetlevelet az (1) bekezdésben meghatározott határidőn belül kell előterjeszteni
+(2) A munkavállaló
 
-- a) a 78. §-ban foglaltak szerinti, a munkavállaló által közölt azonnali hatályú felmondással, valamint
-- b) a munkavállaló jogellenes munkaviszony megszüntetésével
+- a) 40. § szerinti felmondásával, vagy
+- b) 78. § szerinti azonnali hatályú felmondásával
 
-kapcsolatos igény érvényesítése iránt.
+kapcsolatos igény az elévülési időn belül érvényesíthető.
 
-(3) A munkaviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
+(3) A munkaviszony megszüntetésére vonatkozó megállapodás vagy egyoldalú jognyilatkozat megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
 (4) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a keresetlevelet legkésőbb a határidő utolsó napján postára adták. Az igényt érvényesítő igazolással élhet, ha a keresetlevél beadására megállapított határidőt elmulasztja. Az igény hat hónap elteltével nem érvényesíthető.
 
@@ -2943,7 +2992,7 @@ kapcsolatos igény érvényesítése iránt.
   - ga) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
   - gb) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
   - gc) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
-  - gd) Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban részesül,
+  - gd) egyházi jogi személytől egyházi, felekezeti nyugdíjban részesül,
   - ge) öregségi, munkaképtelenségi járadékban részesül,
   - gf) növelt összegű öregségi, munkaképtelenségi járadékban részesül, vagy
   - gg) rokkantsági ellátásban részesül,
@@ -3001,7 +3050,9 @@ tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszony
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 
-(7) E törvény más jogszabályban alkalmazandó rövid megjelölése: Mt.
+(7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére, valamint a pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+
+(8) E törvény más jogszabályban alkalmazandó rövid megjelölése: Mt.
 
 299. § E törvény az Európai Unió alábbi jogi aktusainak való megfelelést szolgálja:
 

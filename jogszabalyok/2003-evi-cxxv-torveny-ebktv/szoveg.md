@@ -2,7 +2,7 @@
 
 az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról
 
-Az Országgyűléselismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,kinyilvánítva azt, hogy az esélyegyenlőség előmozdítása elsősorban állami kötelezettség,tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
+Az Országgyűléselismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,kinyilvánítva azt, hogy az esélyegyenlőség és a társadalmi felzárkózás előmozdítása elsősorban állami kötelezettség,tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
 
 a következő törvényt alkotja:
 
@@ -20,7 +20,7 @@ a következő törvényt alkotja:
 - b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 - c) állami támogatás: az államháztartás alrendszereinek költségvetése terhére ingyenes vagy kedvezményes források, illetve egyéb előny bármilyen formában történő nyújtása oly módon, hogy ez állami bevételkiesést vagy állami kiadást jelent, ideértve az állami kezességvállalást is, valamint az Európai Unióból, nemzetközi szervezetektől és más államokból származó források, adományok és segélyek, amennyiben azok a központi költségvetésen keresztül kerülnek folyósításra,
 - d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
-- e) társadalmi és érdek-képviseleti szervezet: az az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzeti és etnikai kisebbség tekintetében a kisebbségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
+- e) civil és érdek-képviseleti szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének, illetve társadalmi felzárkózásának elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
 - f) hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozó, ide nem értve a jegyest,
 - g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül;
 - h) eljárás alá vont személy: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják;
@@ -57,8 +57,8 @@ jogviszonyaik létesítése során, jogviszonyaikban, eljárásaik és intézked
 
 - a) a családjogi jogviszonyokra,
 - b) a hozzátartozók közötti jogviszonyokra,
-- c) az egyházi jogi személyeknek az egyházak hitéleti tevékenységével közvetlenül összefüggő jogviszonyaira, valamint
-- d) e törvény 4. §-ának alkalmazása során – jogszabály eltérő rendelkezése hiányában – a társadalmi szervezetek, a jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek tagjai közötti, a tagsággal összefüggő jogviszonyokra.
+- c) a vallási közösség hitéleti tevékenységével közvetlenül összefüggő jogviszonyára, valamint
+- d) e törvény 4. §-ának alkalmazása során – jogszabály eltérő rendelkezése hiányában – az egyesületek, a jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek tagjai közötti, a tagsággal összefüggő jogviszonyokra.
 
 (2) Az (1) bekezdés d) pontja
 
@@ -137,7 +137,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 - c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
 - d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
 - e) rendszeresen tájékoztatja a közvéleményt és az Országgyűlést az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
-- f) feladatainak ellátása során együttműködik a társadalmi és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
+- f) feladatainak ellátása során együttműködik a civil és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
 - g) az érintettek számára folyamatos tájékoztatást ad és segítséget nyújt az egyenlő bánásmód megsértése elleni fellépéshez;
 - h) közreműködik az egyenlő bánásmód követelményével kapcsolatban nemzetközi szervezetek, így különösen az Európa Tanács számára készülő kormányzati jelentések elkészítésében;
 - i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében.
@@ -307,7 +307,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 ### Képviselet
 
-18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a társadalmi és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A társadalmi és érdek-képviseleti szervezet a képviseleti jogosultságát az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás csatolásával igazolja.
+18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a civil és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A civil és érdek-képviseleti szervezet a képviseleti jogosultságát az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás csatolásával igazolja.
 
 (2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban az (1) bekezdés szerinti szervezetet megilletik az ügyfél jogai.
 
@@ -333,7 +333,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 - a) az ügyész,
 - b) a hatóság,
-- c) a társadalmi és érdek-képviseleti szervezet,
+- c) a civil és érdek-képviseleti szervezet,
 
 ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
@@ -435,7 +435,7 @@ során.
 
 olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemzetiségi oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
 
-(3) A 27. § (2) bekezdésének a) pontjától a nyelvi vagy kulturális önazonosság megőrzését szolgáló, illetve egyházi vagy nemzetiségi oktatási intézmény tekintetében jogszabály eltérően rendelkezhet.
+(3) A nyelvi vagy kulturális önazonosság megőrzése céljából egyházi jogi személy, vallási tevékenységet végző szervezet vagy nemzetiségi önkormányzat által fenntartott köznevelési intézmény, egyházi jogi személy, vallási tevékenységet végző szervezet vagy országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében jogszabály a 27. § (2) bekezdés a) pontjától eltérő rendelkezést állapíthat meg.
 
 29. § Törvény vagy törvény felhatalmazása alapján megalkotott kormányrendelet az iskolarendszeren belüli, valamint az iskolarendszeren kívüli oktatásban részt vevők meghatározott körére – az oktatással, képzéssel összefüggésben – előnyben részesítési kötelezettséget írhat elő.
 

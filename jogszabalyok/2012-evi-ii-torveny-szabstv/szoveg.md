@@ -1625,7 +1625,7 @@ vonatkozó adatokat.
 - a) a helyi önkormányzat, valamint az önkormányzati társulás,
 - b) a költségvetési szerv,
 - c) az állami, az önkormányzati fenntartású oktatási, szociális és egészségügyi intézmény,
-- d) az egyházi fenntartású oktatási, szociális és egészségügyi intézmény, valamint
+- d) az egyházi intézmény, valamint
 - e) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (3) bekezdés f)–j) pontjában meghatározott közfoglalkoztató
 
 vehető nyilvántartásba.
@@ -2125,7 +2125,7 @@ szabálysértést követ el.
 
 #### 142. A vallásgyakorlás jogának megsértése
 
-188. § Az egyház, vallásfelekezet, vallási közösség szertartásaira rendelt helyiségben nyilvánosan botrányt okoz, illetőleg a vallási tisztelet tárgyát vagy a szertartások végzésére szolgáló tárgyat a szertartásokra rendelt helyiségben vagy azon kívül meggyaláz, szabálysértést követ el.
+188. § Aki templomban vagy vallásgyakorlásra rendelt más helyen nyilvánosan botrányt okoz, illetve a vallási tisztelet tárgyát vagy a szertartások végzésére szolgáló tárgyat a szertartásokra rendelt helyiségben vagy azon kívül meggyaláz, szabálysértést követ el.
 
 #### 143. Gyülekezési joggal visszaélés
 

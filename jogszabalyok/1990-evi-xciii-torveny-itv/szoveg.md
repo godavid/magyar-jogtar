@@ -66,7 +66,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - b) a helyi önkormányzatok és azok társulásai,
 - c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 - d) az egyesület, a köztestület,
-- e) az egyház, egyházak szövetsége, egyházi intézmény,
+- e) az egyházi jogi személy,
 - f) az alapítvány, ideértve a közalapítványt is,
 - g) a vízgazdálkodási társulat,
 - h) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
@@ -1561,7 +1561,7 @@ b) a 4. pontban szereplő hitelesítés, ha az olyan okiratra vonatkozik, amelye
 
 VII. A levéltár által készített másolat illetéke
 
-1. A levéltár által készített hitelesített másolatért, továbbá az ügyfél által készített másolatnak és fénymásolatnak a levéltár által történő hitelesítéséért – ideértve az állami vagy felekezeti anyakönyvi másodpéldányokból anyakönyvi kivonat kiállítását – oldalanként 200, de legalább 2000 forint illetéket kell fizetni.
+1. A levéltár által készített hitelesített másolatért, továbbá az ügyfél által készített másolatnak és fénymásolatnak a levéltár által történő hitelesítéséért – ideértve az állami vagy az egyházi jogi személy által vezetett anyakönyvi másodpéldányokból anyakönyvi kivonat kiállítását – oldalanként 200, de legalább 2000 forint illetéket kell fizetni.
 
 2. A levéltárban őrzött irat alapján kiállított, tényt, körülményt igazoló irat kiadása iránt indított eljárásban az általános tételű eljárási illetéket (29. §) kell fizetni.
 

@@ -78,7 +78,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 - m) fenntartó:
   - ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása, a települési nemzetiségi önkormányzat és a területi nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
-  - mb) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti nyilvántartásba vett egyház, illetve annak belső egyházi jogi személye (a továbbiakban együtt: egyházi fenntartó), nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a civil szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság,
+  - mb) az egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó),
   - mc) az egyéni vállalkozó,
   - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
   - me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
@@ -1245,7 +1245,7 @@ nyújtja.
 
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(2) Egyházi fenntartású intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház központi szervének javaslatára egyházi módszertani intézményt jelöl ki öt éves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
+(2) Az egyházi jogi személy által fenntartott (a továbbiakban: egyházi fenntartású) intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter a bevett egyház legfőbb szerve képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) öt éves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
 (3) A kijelölés megszűnik, ha
 
@@ -1258,11 +1258,11 @@ nyújtja.
 
 - a) a kijelölést kérő szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a kijelölésre nem került volna sor,
 - b) a módszertani intézmény a jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi,
-- c) a kijelölésre javaslatot tevő egyház központi szerve a kijelölés visszavonását kezdeményezi.
+- c) a kijelölésre javaslatot tevő bevett egyház legfőbb szervének képviselője a kijelölés visszavonását kezdeményezi.
 
 (5) A módszertani intézmény a kijelölésről írásban, indokolás nélkül lemondhat. A lemondási idő három hónap.
 
-(6) Az egyházi módszertani intézmény módszertani feladatai keretében
+(6) A kijelölt egyházi módszertani intézmény módszertani feladatai keretében
 
 - a) külön jogszabály szerint véleményezi a szakmai programot és részt vesz a szociális hatóság ellenőrzéseiben,
 - b) javaslatot tesz az országos ellátórendszer fejlesztésére,
@@ -1274,15 +1274,15 @@ nyújtja.
 
 (7) A módszertani feladatok ellátására a szociál- és nyugdíjpolitikáért felelős miniszter egyedi támogatást nyújt.
 
-58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel szociális szolgáltatást nyújtó, közfeladatot ellátó egyházi és – külön törvényben meghatározott – nem állami fenntartó.
+58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel szociális szolgáltatást nyújtó, közfeladatot ellátó egyházi fenntartó és a központi költségvetésről szóló törvény szerinti nem állami fenntartó.
 
 (2) A 131/A. §-ban nem említett szociális szolgáltatások esetében
 
 - a) az új szociális szolgáltató, intézmény,
 - b) házi segítségnyújtásnál az új ellátotti létszám,
-- c) nappali és – a külső és az időszakos férőhelyek kivételével – szakosított ellátásnál az új férőhelyek után az állami, egyházi és nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
+- c) nappali és – a külső és az időszakos férőhelyek kivételével – szakosított ellátásnál az új férőhelyek után a központi költségvetésről szóló törvényben biztosított támogatás további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
 
-(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, ellátotti létszámnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást, valamint 2012. július 1-jétől a nem állami fenntartású házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.
+(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, ellátotti létszámnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást, valamint 2012. július 1-jétől a nem állami fenntartó által fenntartott (a továbbiakban: nem állami fenntartású) házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.
 
 (2b) A házi segítségnyújtás nem állami fenntartója – ide nem értve az egyházi fenntartót – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám külön jogszabály szerinti finanszírozási rendszerbe 2012. július 1-jétől történő befogadásának feltétele, hogy a kérelemhez csatolja az ellátási területe szerinti települési önkormányzat hozzájáruló nyilatkozatát.
 
@@ -1399,7 +1399,7 @@ miatt.
 
 64. § (1) A családsegítés a szociális vagy mentálhigiénés problémák, illetve egyéb krízishelyzet miatt segítségre szoruló személyek, családok számára az ilyen helyzethez vezető okok megelőzése, a krízishelyzet megszüntetése, valamint az életvezetési képesség megőrzése céljából nyújtott szolgáltatás.
 
-(2) A családok segítése érdekében veszélyeztetettséget és krízishelyzetet észlelő jelzőrendszer működik. A jegyző, a járási hivatal, továbbá a szociális, egészségügyi szolgáltató, intézmény, valamint a gyermekjóléti szolgálat, a pártfogói felügyelői és a jogi segítségnyújtói szolgálat jelzi, a társadalmi szervezetek, egyházak és magánszemélyek jelezhetik a családsegítést nyújtó szolgáltatónak, intézménynek, ha segítségre szoruló családról, személyről szereznek tudomást.
+(2) A családok segítése érdekében veszélyeztetettséget és krízishelyzetet észlelő jelzőrendszer működik. A jegyző, a járási hivatal, továbbá a szociális, egészségügyi szolgáltató, intézmény, valamint a gyermekjóléti szolgálat, a pártfogói felügyelői és a jogi segítségnyújtói szolgálat jelzi, az egyesületek, az alapítványok, a vallási közösségek és a magánszemélyek jelezhetik a családsegítést nyújtó szolgáltatónak, intézménynek, ha segítségre szoruló családról, személyről szereznek tudomást.
 
 (3) A (2) bekezdés szerint kapott jelzés alapján a családsegítést nyújtó szolgáltató, intézmény feltérképezi az ellátási területen élő szociális és mentálhigiénés problémákkal küzdő családok, személyek körét, és személyesen felkeresve tájékoztatja őket a családsegítés (4) bekezdésben megjelölt céljáról, tartalmáról.
 
@@ -1868,7 +1868,7 @@ rendeletet alkot.
 - b) a szolgáltatások iránti igények alakulását, a várakozók számát, korösszetételét, legfontosabb szociális jellemzőit,
 - c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményrendszer korszerűsítésének irányait.
 
-(6a) A megye, a főváros területén működő nem állami és egyházi fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
+(6a) A megye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
 
 (7) A szolgáltatástervezési koncepciót az önkormányzat az elfogadást megelőzően véleményezteti az intézményvezetőkkel és a nemzetiségi önkormányzattal. A koncepció végleges változatának elfogadása során a kialakított véleményeket az önkormányzat lehetőség szerint figyelembe veszi.
 
@@ -1904,14 +1904,14 @@ rendeletet alkot.
 
 (3) Az állami fenntartó ha az intézmény működésének ellenőrzése során jogszabálysértést állapít meg, intézkedik annak megszüntetéséről.
 
-92/C. § (1) A személyes gondoskodást nyújtó szociális intézmény egyházi, illetve nem állami fenntartója a 92/B. § (1) bekezdésének a), e), f) és h) pontjaiban meghatározott feladatokon túl
+92/C. § (1) Az egyházi fenntartója és a nem állami fenntartó a 92/B. § (1) bekezdésének a), e), f) és h) pontjaiban meghatározott feladatokon túl
 
 - a) gondoskodik az intézmény szervezeti és működési szabályzatának, szakmai programjának, szakosított ellátást nyújtó intézmény esetében házirendjének elkészítéséről,
 - b) biztosítja az intézmény gazdálkodásának és működésének törvényességét.
 
 (2)–(4)
 
-(5) Ha a tartós bentlakást nyújtó egyházi és nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha a nem állami és egyházi fenntartó
+(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 
 - a)
 - b)
@@ -1920,7 +1920,7 @@ rendeletet alkot.
 
 (6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
 
-(7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
+(7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi fenntartót és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
 
 ### VI. CÍM — A működési nyilvántartás
 
@@ -1973,7 +1973,7 @@ rendeletet alkot.
 
 ### VII. CÍM — A szociális szolgáltatások engedélyezése
 
-92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami, egyházi és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
+92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami fenntartó, egyházi fenntartó és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
 
 - a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
 - b) jogerős működési engedéllyel rendelkezik.
@@ -2009,11 +2009,11 @@ rendeletet alkot.
 - c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a működési engedély módosítását vagy visszavonását,
 - d) ha jogszabály kivételt nem tesz, a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét határidőben nem teljesíti,
 - e) a szociális szolgáltató, intézmény vezetőjével vagy – ha a feltételeket a fenntartó nem biztosítja – a fenntartóval szemben, ha a szociális szolgáltató, intézmény nem nyújtja azokat a szolgáltatásokat, amelyeket az engedélyezett szociális szolgáltatásra vonatkozó jogszabályok alapján nyújtania kell,
-- f) az állami fenntartású szociális szolgáltató, intézmény vezetőjével szemben, ha a 94/C. § vagy a 2011. január 1-jét megelőzően hatályos 94/B. § szerinti megállapodás, annak módosítása vagy a szociális szolgáltató, intézmény vezetője által történő megszüntetése jogszabályba ütközik,
-- g) az egyházi és nem állami fenntartóval, valamint a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során az egyházi, nem állami fenntartó nevében eljáró személlyel szemben, ha a megállapodás, annak módosítása vagy a fenntartó által történő megszüntetése jogszabályba ütközik,
+- f) az állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) szociális szolgáltató, intézmény vezetőjével szemben, ha a 94/C. § vagy a 2011. január 1-jét megelőzően hatályos 94/B. § szerinti megállapodás, annak módosítása vagy a szociális szolgáltató, intézmény vezetője által történő megszüntetése jogszabályba ütközik,
+- g) az egyházi fenntartóval, nem állami fenntartóval, valamint a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során az egyházi fenntartó vagy a nem állami fenntartó nevében eljáró személlyel szemben, ha a megállapodás, annak módosítása vagy a fenntartó által történő megszüntetése jogszabályba ütközik,
 - h) a fenntartóval szemben, ha – térítésmentes szociális szolgáltatások kivételével – intézményi térítési díjat nem állapít meg,
 - i) a szociális szolgáltató, intézmény vezetőjével vagy – ha a személyi térítési díjat, illetve a költőpénzt a fenntartó állapította meg – a fenntartóval szemben, ha a személyi térítési díj, illetve a költőpénz megállapítására vagy összegére vonatkozó szabályokat megszegik,
-- j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére vonatkozó szabályokat megszegik,
+- j) a fenntartóval, valamint állami fenntartású intézmény esetén a szociális szolgáltató, intézmény vezetőjével, egyházi fenntartású vagy nem állami fenntartású intézmény esetén a 94/C. §, illetve a 2011. január 1-jét megelőzően hatályos 94/D. § szerinti megállapodás megkötése, módosítása, illetve megszüntetése során a fenntartó nevében eljáró személlyel szemben, ha az egyszeri hozzájárulás megállapítására, összegére, megfizetésére vagy visszafizetésére vonatkozó szabályokat megszegik,
 - k) a fenntartóval és a nevében vagyoni előnyt kérő személlyel szemben, valamint azzal a személlyel, szervezettel szemben, amelynek a vagyoni előnyt nyújtották, ha a 119/A. § szerinti tilalmat megsértik.
 
 (2) A szociális foglalkoztatást engedélyező szerv bírságot szabhat ki
@@ -2104,7 +2104,7 @@ dönt.
 94/C. § (1) Az ellátás igénybevételének megkezdése előtt
 
 - a) állami fenntartású intézmény (szolgáltató) esetén az intézményvezető (szolgáltató vezetője),
-- b) egyházi és nem állami fenntartású intézmény (szolgáltató) esetén a fenntartó vagy az általa megbízott személy az ellátást igénylővel, illetve törvényes képviselőjével írásban megállapodást köt.
+- b) egyházi fenntartású és nem állami fenntartású intézmény (szolgáltató) esetén a fenntartó vagy az általa megbízott személy az ellátást igénylővel, illetve törvényes képviselőjével írásban megállapodást köt.
 
 (2) Nem kell az (1) bekezdés szerint megállapodást kötni
 
@@ -2129,7 +2129,7 @@ esetén.
 - f) az ellátás megszüntetésének módjait,
 - g) az igénybevevő természetes személyazonosító adatait.
 
-94/D. § Ha az egyházi, illetve nem állami fenntartó a helyi önkormányzattal, társulással vagy állami szervvel ellátási szerződést kötött, és az ellátási szerződés hatálya alá tartozó esetben a szociális szolgáltatásra irányuló kérelmet elutasítja, az ellátást igénylőt és törvényes képviselőjét írásban köteles értesíteni. Ebben az esetben az ellátást igénylő és törvényes képviselője a döntés ellen a közléstől számított nyolc napon belül az ellátási szerződést megkötő helyi önkormányzathoz, társuláshoz vagy állami szervhez fordulhat. A helyi önkormányzat, a társulás vagy állami szerv a kérelemről határozattal dönt.
+94/D. § Ha az egyházi fenntartó vagy a nem állami fenntartó a helyi önkormányzattal, társulással vagy állami szervvel ellátási szerződést kötött, és az ellátási szerződés hatálya alá tartozó esetben a szociális szolgáltatásra irányuló kérelmet elutasítja, az ellátást igénylőt és törvényes képviselőjét írásban köteles értesíteni. Ebben az esetben az ellátást igénylő és törvényes képviselője a döntés ellen a közléstől számított nyolc napon belül az ellátási szerződést megkötő helyi önkormányzathoz, társuláshoz vagy állami szervhez fordulhat. A helyi önkormányzat, a társulás vagy állami szerv a kérelemről határozattal dönt.
 
 ### A személyes gondoskodást nyújtó szociális intézményekben ellátottak jogai
 
@@ -2273,7 +2273,7 @@ való jogra.
 
 (3) A bentlakásos intézménynek rendelkeznie kell – a szolgáltatásban foglalkoztatottak védelme érdekében – az ellátást igénybevevők részéről esetlegesen felmerülő veszélyhelyzet kezelésére vonatkozó belső utasítással.
 
-(4) Azoknak a munkavállalóknak a munkaidejét, pihenőidejét, előmeneteli és illetményrendszerét, akik olyan egyházi vagy nem állami fenntartású szolgáltatónál, intézménynél dolgoznak, amely után a fenntartó központi költségvetésről szóló törvényben biztosított támogatásban részesül – ideértve a 127. § (4) bekezdés szerinti szolgáltatót, intézményt is –, a Kjt. 55–80. §-a szerint kell megállapítani. E rendelkezésektől akkor lehet eltérni, ha azzal a munkavállaló kizárólag előnyt szerez.
+(4) Azoknak a munkavállalóknak a munkaidejét, pihenőidejét, előmeneteli és illetményrendszerét, akik olyan egyházi fenntartású vagy nem állami fenntartású szolgáltatónál, intézménynél dolgoznak, amely után a fenntartó központi költségvetésről szóló törvényben biztosított támogatásban részesül – ideértve a 127. § (4) bekezdés szerinti szolgáltatót, intézményt is –, a Kjt. 55–80. §-a szerint kell megállapítani. E rendelkezésektől akkor lehet eltérni, ha azzal a munkavállaló kizárólag előnyt szerez.
 
 (5) A szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
@@ -2444,7 +2444,7 @@ való jogra.
 
 (4) Ha az intézményi jogviszonyt beutaló határozat alapozza meg, a jogviszony megszüntetésére az (1)–(2) bekezdésben foglaltakat értelemszerűen alkalmazni kell, azonban a jogviszonyt a beutaló szerv határozata szünteti meg.
 
-102. § (1) Egyházi és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/C. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
+102. § (1) Egyházi fenntartású és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/C. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
 
 (2) Ápolást, gondozást nyújtó intézmény és ápoló, gondozó célú lakóotthon esetén a fenntartó a megállapodást akkor mondhatja fel, ha az ellátott a házirendet súlyosan megsérti.
 
@@ -2453,7 +2453,7 @@ való jogra.
 - a) alapszolgáltatás esetén tizenöt nap,
 - b) bentlakásos intézmény esetén három hónap.
 
-(4) Ha egyházi és nem állami fenntartású szolgáltató, intézmény esetén a 94/C. § szerint megkötött megállapodás felmondásának jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy, illetőleg a fenntartó vitatja, kérheti a bíróságtól a megállapodás jogellenes felmondásának megállapítását. Az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a bíróság jogerős határozatot nem hoz.
+(4) Ha egyházi fenntartású vagy nem állami fenntartású szolgáltató, intézmény esetén a 94/C. § szerint megkötött megállapodás felmondásának jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy, illetőleg a fenntartó vitatja, kérheti a bíróságtól a megállapodás jogellenes felmondásának megállapítását. Az ellátást változatlan feltételek mellett mindaddig biztosítani kell, amíg a bíróság jogerős határozatot nem hoz.
 
 103. § Az intézményi jogviszony megszűnése esetén az intézmény vezetője értesíti a jogosultat, illetve törvényes képviselőjét
 
@@ -2593,7 +2593,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 (4) Ha az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy a személyi térítési díj összegét vitatja, illetve annak csökkentését vagy elengedését kéri, a (2) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat. Az állami fenntartó a térítési díj összegéről határozattal dönt.
 
-(5) Ha az ellátott, törvényes képviselője vagy a térítési díjat megfizető személy a térítési díj egyházi vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított térítési díjat kell megfizetni.
+(5) Ha az ellátott, törvényes képviselője vagy a térítési díjat megfizető személy a térítési díj egyházi fenntartó vagy nem állami fenntartó által megállapított összegét vitatja, a bíróságtól kérheti a térítési díj megállapítását. A bíróság jogerős határozatáig a korábban megállapított térítési díjat kell megfizetni.
 
 (6) A személyi térítési díj összege a megállapítás időpontjától függetlenül évente két alkalommal vizsgálható felül és változtatható meg, kivéve ha az ellátott jövedelme
 
@@ -2736,15 +2736,15 @@ nyújtó intézmények esetén.
 
 ### VI. Fejezet — SZERZŐDÉSES SZOCIÁLIS ELLÁTÁSOK
 
-120. § A helyi önkormányzat, illetve a társulás, valamint a Kormány, illetve más állami szerv a szociális szolgáltatást vagy a pihenéshez való jog érvényesülését szolgáló szolgáltatást egyházi vagy más, nem állami szervvel, fenntartóval kötött ellátási szerződés útján is biztosíthatja.
+120. § A helyi önkormányzat, illetve a társulás, valamint a Kormány, illetve más állami szerv a szociális szolgáltatást vagy a pihenéshez való jog érvényesülését szolgáló szolgáltatást egyházi vagy más, nem állami szervvel, egyházi fenntartóval vagy nem állami fenntartóval kötött ellátási szerződés útján is biztosíthatja.
 
 121. § (1) Az ellátási szerződést írásban kell megkötni.
 
 (2) Az ellátási szerződésnek tartalmaznia kell
 
-- a) az egyházi, állami fenntartó nevét, székhelyét és adószámát;
+- a) az egyházi fenntartó vagy a nem állami fenntartó nevét, székhelyét és adószámát;
 - b) a szociális ellátás formáját, az ellátásban részesítendők körét, számát;
-- c) az egyházi, nem állami fenntartó nyilatkozatát a szerződésben meghatározott szociális szolgáltatásra vonatkozó külön jogszabályok és szakmai követelmények, nyilvántartási kötelezettségek betartására, illetve a szolgáltatóval, intézménnyel történő betartatására;
+- c) az egyházi fenntartó vagy a nem állami fenntartó nyilatkozatát a szerződésben meghatározott szociális szolgáltatásra vonatkozó külön jogszabályok és szakmai követelmények, nyilvántartási kötelezettségek betartására, illetve a szolgáltatóval, intézménnyel történő betartatására;
 - d) a személyi térítési díj csökkentésének, illetve elengedésének eseteit és módjait;
 - e) szerződésszegés esetén a szolgáltatás folyamatos biztosítására, valamint a kártérítés mértékére vonatkozó kikötést;
 - f) a szerződés felmondásának hónapokban meghatározott idejét;
@@ -2834,7 +2834,7 @@ járul hozzá.
 
 127. § (1) A szociális szolgáltatások után járó központi költségvetésről szóló törvényben biztosított támogatások tartalmazzák az egyes szociális szolgáltatások működtetési költségeihez történő állami hozzájárulást.
 
-(2) A nem állami, illetve egyházi fenntartónak a külön jogszabályban meghatározott, és az általa fenntartott szociális intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia annak az intézménynek, amelyre tekintettel a támogatás megállapítására sor került.
+(2) Az egyházi fenntartónak és a nem állami fenntartónak az általa fenntartott szociális intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia annak az intézménynek, amelyre tekintettel a támogatás megállapítására sor került.
 
 (3) A 92/K. § (5)–(6) bekezdése szerinti férőhelyszámon, illetve házi segítségnyújtás esetén meghatározott ellátotti létszámon felül ellátott személyek után központi költségvetésről szóló törvényben biztosított támogatás nem igényelhető és nem számolható el.
 
@@ -2863,7 +2863,7 @@ járul hozzá.
 
 kaphatnak.
 
-(2) Az egyházi és nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.
+(2) Az egyházi fenntartó és a nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.
 
 129. § Fogyatékos személyek ápolást-gondozást nyújtó intézményeinek címzett támogatással történő beruházása esetén kizárólag az ötven főnél nagyobb férőhelyszámú intézmény kiváltása támogatható.
 
@@ -2885,7 +2885,7 @@ kaphatnak.
 - d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
 - e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 - f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
-- g) a nem állami és egyházi fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
+- g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 - i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 - j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
 - k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;

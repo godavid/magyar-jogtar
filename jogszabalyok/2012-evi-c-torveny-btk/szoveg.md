@@ -642,7 +642,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 - c) a szándékos bűncselekményt végrehajtandó szabadságvesztésre ítélése után, a végrehajtás befejezése előtt követte el, vagy
 - d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt követte el.
 
-(3) Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyháznál vagy azok részére végezheti a jóvátételi munkát.
+(3) Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyházi jogi személynél vagy azok részére végezheti a jóvátételi munkát.
 
 (4) A jóvátételi munka tartamát órákban kell meghatározni, annak legkisebb mértéke huszonnégy, legnagyobb mértéke százötven óra.
 
@@ -4233,7 +4233,7 @@ követik el.
 - a) a rongálás nagyobb kárt okoz,
 - b) az elkövető
   - ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet vagy régészeti leletet,
-  - bb) vallási tisztelet tárgyát vagy vallási szertartás végzésére szolgáló épületet,
+  - bb) vallási tisztelet tárgyát vagy templomot, vallásgyakorlásra rendelt más helyet,
   - bc) temetési helyet, temetkezési emlékhelyet, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyat
 
 rongál meg.
@@ -5556,7 +5556,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
   - b) a polgári védelmi szervezetbe beosztott és polgári védelmi szolgálatot teljesítő személy,
   - c) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott tevékenységének ellátása során,
-  - d) a nyilvántartásba vett egyház lelkésze, valamint az alapcélként vallási tevékenységet végző egyesület vallásos szertartást hivatásszerűen végző tagja,
+  - d) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja,
   - e) a bírósági vagy más hatósági eljárásban a védő, a jogi képviselő, a szakértő, és a hivatalos személynek nem minősülő kézbesítési végrehajtó,
   - f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy az egészségügyről szóló törvényben meghatározott esetekben,
   - g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,

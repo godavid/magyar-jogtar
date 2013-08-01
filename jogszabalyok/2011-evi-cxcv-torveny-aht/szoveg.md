@@ -1164,7 +1164,7 @@ fedezetét.
 
 (4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, valamint a társulás megbízása esetén a társulás és költségvetési szervei fizetési számláját.
 
-(4a) A kincstár az Országgyűlés által elismert egyház megbízása esetén az egyház számára fizetési számlát vezet.
+(4a) A kincstár a bevett egyház megbízása esetén a bevett egyház számára fizetési számlát vezet.
 
 (4b) A Kincstár a 72. § (2) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
@@ -1557,7 +1557,7 @@ kezelésére.
 - 28. a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, beszámolásának a kincstári rendszer általános szabályaitól eltérő sajátos szabályait,
 - 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 - 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
-- 31. a határon túli költségvetési támogatások, az egyházak részére nyújtott költségvetési támogatások, továbbá az országos nemzetiségi önkormányzatok és intézményeik működési támogatása sajátos szabályait,
+- 31. a határon túli költségvetési támogatások, a bevett egyházak részére nyújtott költségvetési támogatások, továbbá az országos nemzetiségi önkormányzatok és intézményeik működési támogatása sajátos szabályait,
 - 32. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 - 33. az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait,
 - 34. az államháztartási összesítések konszolidációs rendjét

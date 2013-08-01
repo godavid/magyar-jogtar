@@ -629,7 +629,7 @@ a bírósági végrehajtásról
 
 47. § (1) A végrehajtási eljárás eredményes lefolytatása érdekében a végrehajtó szükség esetén beszerzi az adós személyének azonosítására szolgáló, továbbá az adós lakóhelyére (tartózkodási helyére), székhelyére, telephelyére, munkahelyére (egyéni vállalkozására), jövedelmére és a végrehajtás alá vonható vagyontárgyaira (ingó, ingatlan vagyon, fizetési számla, betét, értékpapír, érdekeltség gazdasági társaságban stb.) vonatkozó adatokat.
 
-(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, okmányirodát, nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a közjegyzőket, továbbá a kamarát az adós gazdálkodó szervezetekről vezetett nyilvántartásba történő betekintés céljából.
+(2) A végrehajtó az (1) bekezdésben megjelölt eljárása során megkeresheti az adósra és vagyonára vonatkozó adatokat kezelő hatóságokat, szervezeteket, így különösen a rendőrséget, a gépjárműveket nyilvántartó hatóságot, a személyi adat- és lakcímnyilvántartó szerveket, okmányirodát, nyugdíjbiztosítási igazgatási szervet, az egészségbiztosítási szervet, adóhatóságot, cégbíróságot, pénzforgalmi szolgáltatókat, befektetési szolgáltatókat, ingatlanügyi hatóságot, a vízi és légi járművek lajstromát, illetve nyilvántartását vezető szerveket, a távközlési szervezeteket, az ingó jelzálogjogi nyilvántartást (a továbbiakban: zálogjogi nyilvántartás), a közjegyzőket, továbbá a kamarát a végrehajtási ügyekről vezetett nyilvántartásba történő betekintés céljából.
 
 (3) A nyilvántartásokat vezető hatóságok és szervezetek a végrehajtó megkeresésének 8 napon belül, illeték- és díjmentesen kötelesek eleget tenni.
 
@@ -3320,26 +3320,48 @@ esetén van lehetőség.
 
 (8) A felügyelőbiztos díjazását és költségtérítését a bíróság állapítja meg és a kamara viseli.
 
-253/E. § (1) A kamara számítógépes nyilvántartást vezet azokról a gazdálkodó szervezetekről, amelyekkel szemben a végrehajtási eljárás eredménytelen volt, vagy csak részben vezetett eredményre. Gazdálkodó szervezetnek kell tekinteni e § alkalmazásában a Ptk. 685. §-ának c) pontjában említett szervezeteket.
+253/E. § (1) A kamara – a végrehajtók feletti szakmai felügyelet gyakorlásának elősegítése, a végrehajtási eljárás folyamatban létének és az abban érvényesített igénynek az igazolása, az adattal érintett jogalany joggyakorlásának elősegítése, valamint mások jogainak védelme céljából – az önálló bírósági végrehajtók adatszolgáltatása és a kamarához megküldött végrehajtható okiratok adatai alapján elektronikus közhiteles nyilvántartást vezet az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről a következő tartalommal:
 
-(2) A nyilvántartás tartalmazza
+- a) az eljáró végrehajtó neve, székhelye,
+- b) a végrehajtható okiratot kiállító szerv neve és a végrehajtható okirat száma, végrehajtói kézbesítési ügy esetében a kézbesítendő határozatot hozó szerv neve és a határozat száma, a végrehajtóhoz történő megküldésének és érkezésének időpontja,
+- c) a végrehajtási ügy száma, a végrehajtási ügy típusa,
+- d) az adós, kötelezett (végrehajtói kézbesítési ügy esetében címzett) neve, azonosító adatai,
+- e) a végrehajtást kérő (végrehajtói kézbesítési ügy esetében kérelmező) vagy behajtást kérő neve és azonosító adatai,
+- f) a végrehajtandó követelés [pénzkövetelés (főkövetelés) jogcíme, összege, meghatározott cselekmény jellege],
+- g) az ügyben más végrehajtó megkeresésének időpontja, a megkeresett végrehajtó neve és székhelye; az eljárás újraindításának időpontja,
+- h) a végrehajtási ügy befejezésének módja és időpontja, az eljárás újraindításának időpontja,
+- i) a befejezett végrehajtási ügyek irataival kapcsolatban az őrzési idő leteltét követően tett intézkedés (selejtezve, levéltárnak átadva).
 
-- a) a gazdálkodó szervezet azonosítására alkalmas adatokat (név, székhely, cégjegyzékszám, a nyilvántartásba vétel száma),
-- b) azt, hogy a gazdálkodó szervezettel szemben olyan végrehajtási eljárás volt folyamatban, amelynek során a szervezettel szemben fennálló követelés kielégítésére vagy a meghatározott cselekmény teljesítésére nem került sor,
-- c) a pénzkövetelés összegét a járulékokkal együtt,
-- d) az eljárás befejezésének időpontját, illetőleg a szünetelés kezdő időpontjának a megjelölését,
-- e) a végrehajtási ügy számát, és
-- f) azt, hogy a követelést a későbbiekben kielégítették (teljesítették).
+(2) A végrehajtó az (1) bekezdésben meghatározott adatokat – az azokról történt tudomásszerzést követő munkanapon – elektronikus kapcsolattartás útján adja át a kamarának; a kamara a végrehajtási ügy befejezésétől számítva 10 évig kezeli a nyilvántartásban szereplő adatokat, ezt követően gondoskodik az adatok törléséről.
 
-(3) A végrehajtó (törvényszéki végrehajtó) a végrehajtási ügy befejezésekor megkeresi a kamarát az adós gazdálkodó szervezet (2) bekezdésben foglalt adatainak a nyilvántartásba történő bejegyzése céljából. Ha a bejegyzés után az eljárás folytatódik, és ennek során a követelést kielégítették (teljesítették), ezt is közölni kell a kamarával.
+(3) A kamara az adatkezelés során köteles gondoskodni az adatok biztonságáról, így különösen védeni azokat a jogosulatlan hozzáférés, megváltoztatás, nyilvánosságra hozás vagy törlés, sérülés, megsemmisülés ellen.
 
-(4) A kamara a nyilvántartás adatairól költségtérítés fejében tájékoztatást adhat annak, aki ezt a cél és az adatkéréshez fűződő jogi érdek megjelölésével írásban kéri. A nyilvántartásból történő tájékoztatás tényét rögzíteni kell.
+(4) A kamara a végrehajtási ügyek nyilvántartásából az adatigénylésre jogosult részére szolgáltathat adatokat.
 
-(5) Az önálló és megyei bírósági végrehajtónak a (4) bekezdés szerinti tájékoztatásért nem kell költségtérítést fizetnie.
+(5) A végrehajtási ügyek nyilvántartásából annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, bírósági végrehajtónak, ügyésznek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
-(6) Ha az adott gazdálkodó szervezetre vonatkozó nyilvántartás adataiban 5 éven keresztül nem történt változás, a kamara a gazdálkodó szervezetet a nyilvántartásból törli; a nyilvántartás alapjául szolgáló iratokat további 5 évig köteles megőrizni.
+(6) A kamara írásbeli kérelemre tanúsítványt állít ki
 
-(7) A kamara az e §-ban szabályozott adatkezelés során köteles gondoskodni az adatok biztonságáról, így különösen védeni azokat a jogosulatlan hozzáférés, megváltoztatás, nyilvánosságra hozás vagy törlés, sérülés, megsemmisülés ellen.
+- a) a végrehajtási ügyek nyilvántartásában nem szereplő kérelmező számára annak igazolására, hogy a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
+- b) a végrehajtási ügyek nyilvántartásában szereplő kérelmező számára a végrehajtási ügyek nyilvántartásában szereplő adatainak igazolása céljából,
+- c) a célját és az adatkéréshez fűződő jogi érdekét megjelölő kérelmező számára a végrehajtási ügyek nyilvántartásában szereplő gazdálkodó szervezetnek a végrehajtási ügyek nyilvántartásában szereplő adatai igazolása céljából, továbbá annak igazolására, hogy a gazdálkodó szervezet a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel; gazdálkodó szervezetnek kell tekinteni e bekezdés alkalmazásában a Ptk. 685. § c) pontjában meghatározott szervezeteket.
+
+(7) A kamara a (6) bekezdés keretein belül annak igazolására is tanúsítványt állít ki, hogy a végrehajtási ügyek nyilvántartásában a kérelemben megjelölt időszakban nem szerepel az adatigényléssel érintett személy, mint adós (kötelezett) ellen folyamatban lévő vagy a követelés behajthatatlansága, a meghatározott cselekmény nemteljesítése miatt szüneteléssel befejezett bírósági végrehajtási ügy.
+
+(8) A kamara a tanúsítványt költségtérítés fejében, a kérelem szerint papíralapú vagy elektronikus közokiratként, a kérelem beérkezésétől számított 15 napon belül állítja ki; a tanúsítvány tartalmazza a végrehajtási ügy (1) bekezdésben meghatározott adatait, a tanúsítvány kiállításának helyét és időpontját, a kiállító megnevezését, bélyegzőlenyomatát, valamint a kiadmányozásra jogosult aláírását.
+
+(9) A végrehajtási ügyek nyilvántartása a nyilvántartott tényadatok fennállását hitelesen tanúsítja (közhitelesség), az ellenkező bizonyításáig a végrehajtási ügyek nyilvántartásába feljegyzett tényadatról vélelmezni kell, hogy az fennáll, az adat törlése esetén – az ellenkező bizonyításáig – azt kell vélelmezni, hogy az nem áll fenn. A végrehajtási ügyek nyilvántartásában feltüntetett tényadatokkal szemben a bizonyítás azt terheli, aki a tényadatok helyességét, valósággal egyezőségét vitatja.
+
+(10) A végrehajtási ügyek nyilvántartásában szereplő adatok kezelésére szolgáló informatikai alkalmazás működtetője naplót készít
+
+- a) az informatikai alkalmazás üzemben tartási idejéről,
+- b) a végrehajtási ügyek nyilvántartásába történő bejegyzésről a bejegyzett adat, a bejegyzés időpontja, és a bejegyzést végző feltüntetésével,
+- c) a végrehajtási ügyek nyilvántartásából történő adatigénylés teljesítéséről az adatigénylő, az adattovábbítás időpontja, az ahhoz megadott adatok és a szolgáltatott adatok megjelölésével,
+- d) a naplóból történt adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
+
+(11) Ha a büntetőeljárásban eljáró bíróság, ügyész és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, a kamara nem tájékoztathatja az érintettet az adattovábbításról.
+
+(12) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket. A napló adatait a kamara az (5) bekezdés szerint eljárva továbbíthatja.
 
 253/F. § (1) A kamara a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a miniszter rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a miniszter hagyja jóvá.
 
@@ -4048,7 +4070,7 @@ kérhetnek adatszolgáltatást.
 - a) a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket,
 - b) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
 - c) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
-- d) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványával és nyilvántartásával, a kamara által vezetett nyilvántartásokkal, névjegyzékekkel, valamint a kamara igazgatási jellegű feladatainak ellátásával kapcsolatos részletes szabályokat,
+- d) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a kamara által vezetett nyilvántartások, névjegyzékek vezetésére, a kamara igazgatási jellegű feladatainak ellátására, továbbá – az adópolitikáért felelős miniszterrel egyetértésben – a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
 - e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 - g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
