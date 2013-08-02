@@ -150,39 +150,11 @@ A közigazgatási hatósági eljárások racionalizálása és fejlesztése, a h
 
 #### 37. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-37. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 2. §-a a következő 15. ponttal egészül ki:
-
-(E törvény alkalmazása során)
-
-„15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.”
+37. § (1)
 
 (2)–(3)
 
-(4) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A parkolási igazolvány nyilvántartása tartalmazza
-
-a) a jogosult természetes személy esetén természetes személyazonosító és lakcímadatát, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetén megnevezését, székhelyének (telephelyének) címét;
-
-b) a jogosult természetes személy fényképét (arcképmását), jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény működési engedély számát;
-
-c) a jogosult természetes személy aláírását, jogi személy, jogi személyiséggel nem rendelkező jogosult intézmény esetében a képviselő aláírását;
-
-d) a jogosult természetes személy törvényes képviselőjének természetes személyazonosító és lakcímadatát;
-
-e) a jogosult természetes személy írásképtelensége esetén törvényes képviselője aláírását;
-
-f) a kiállító hatóság megnevezését;
-
-g) a parkolási igazolvány sorszámát;
-
-h) az érvényesség időtartamát;
-
-i) a kiállítás dátumát;
-
-j) egyéb, jogszabályban megjelölt személyes adatnak nem minősülő adatokat;
-
-k) a parkolási igazolvány kiadásának megtagadására, visszavonására, érvénytelenségére, megsemmisítésére, kiadásának korlátozására vonatkozó adatokat.”
+(4)
 
 (5)–(7)
 
@@ -246,11 +218,7 @@ k) a parkolási igazolvány kiadásának megtagadására, visszavonására, érv
 
 #### 52. A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény módosítása
 
-52. § (1) A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 2. § 13. pontja helyébe a következő rendelkezés lép:
-
-(E törvény és e törvény felhatalmazása alapján kiadott rendeletek vonatkozásában:)
-
-„13. VINGIS: a szőlőágazati kataszterek közösségi szabályozásnak megfelelő térinformatikai rendszere, amely a borszőlő termőhelyi kataszterének, a kivágási, szerkezetátalakítási és -átállítási támogatások kifizetésének, valamint az oltalom alatt álló földrajzi jelzést, illetve az oltalom alatt álló eredetmegjelölést viselő borok termőhelyei földrajzi lehatárolásának térképi ellenőrzési alapja, és amelynek adatbázisa az ellenkező bizonyításáig hitelesen tanúsítja az abban rögzített adattartalom fennállását.”
+52. § (1)
 
 (2)–(4)
 
