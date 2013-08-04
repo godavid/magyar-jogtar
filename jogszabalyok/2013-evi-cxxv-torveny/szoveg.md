@@ -46,7 +46,15 @@ terjed ki.
 
 (3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 90 nap.
 
-(4)–(6)
+(4) A minősítő, ha a kérelmező kezdeményezi – igazgatási szolgáltatásként – az eljárás megindítását megelőzően szakmai konzultációs lehetőséget biztosít. A szakmai konzultáció az egyes minősítési osztályok eléréséhez szükséges követelményekre, valamint az e követelményeknek való megfelelést igazoló dokumentumokra terjedhet ki.
+
+(5) A (4) bekezdés szerinti konzultáció
+
+- a) az eljárás során szükséges és előírt hatósági jogi aktusokat nem pótolja,
+- b) a törvény előírásainak betartása és a kérelmező részére előírt cselekmények végrehajtása alól nem mentesít, továbbá
+- c) nem szolgálhat hivatkozási alapul a kérelmezett minősítési osztály megfelelősége elbírálásánál.
+
+(6) A kérelmező az e törvény szerinti közigazgatási hatósági eljárások lefolytatásáért, valamint a (4) bekezdés szerinti igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért igazgatási szolgáltatási díjat fizet.
 
 #### 4. Minősítési eljárás
 
@@ -69,7 +77,7 @@ terjed ki.
 - a) a hulladékgazdálkodási közszolgáltatási engedély alapját képező, a környezetvédelmi hatóság által kiadott hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
 - b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási közszolgáltatási engedélyt,
 - c) a közszolgáltatói hulladékgazdálkodási tervet, valamint
-- d)
+- d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
 
 (4) A kérelmezőnek a (3) bekezdésben meghatározottak mellett – a kérelmezett minősítési osztálynak megfelelően – az 1–4. mellékletben meghatározott minősítési feltétel- és követelményrendszer szerint a következő dokumentumok másolatát is be kell nyújtania:
 
@@ -112,7 +120,7 @@ terjed ki.
 
 7. § (1) A minősítő a minősítés iránti kérelem beérkezését követő 8 napon belül megvizsgálja, hogy
 
-- a)
+- a) az igazgatási szolgáltatási díj megfizetésre került-e,
 - b) a kérelem megfelel-e a 4. § szerinti formai követelményeknek.
 
 (2) A kérelem 6. § (2) bekezdésébe ütköző megváltoztatása esetén a minősítő a kérelmet érdemi vizsgálat nélkül elutasítja vagy az eljárást megszünteti.
@@ -166,7 +174,7 @@ terjed ki.
 
 #### 9. Bírság alkalmazása
 
-15. §
+15. § A minősítő a kérelmezőt 50 000 forint összegű bírság megfizetésére kötelezi, ha a kérelmező a 11. § szerinti adatváltozásra vonatkozó bejelentési kötelezettségének határidőben nem tesz eleget.
 
 #### 10. A minősítő okirat visszavonása
 
@@ -273,7 +281,9 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 39. § (1)–(2)
 
-(3)
+(3) A Ht. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közszolgáltató a Hivatal részére a tárgyév díjfelügyeleti tevékenységéért a tárgyév június 30. napjáig felügyeleti díjat fizet.”
 
 40–41. §
 
@@ -287,23 +297,47 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 48–55. §
 
-56. §
+56. § A Ht. 35. alcíme a következő 82/A. §-sal egészül ki:
+
+„82/A. § (1) Az a gazdálkodó szervezet, amely e törvény alapján hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet folytat – kivéve a közszolgáltatót, valamint azt az esetet, ha a tevékenység az egységes környezethasználati engedélyezés hatálya alá tartozik –, a tárgyév február 28-ig a környezetvédelmi hatóság részére éves felügyeleti díjat fizet. A tevékenység év közben történő megkezdése esetén a felügyeleti díj arányos részét kell megfizetni a hulladékgazdálkodási engedély jogerőre emelkedését vagy a nyilvántartásba vételt követő 30 napon belül.
+
+(2) A felügyeleti díj a környezetvédelmi hatóság bevételét képezi, amelyet a felügyeleti tevékenységével kapcsolatos működési költségeinek fedezetére használhat fel.
+
+(3) A felügyeleti díj mértéke
+
+a) hulladékgazdálkodási engedélyhez kötött tevékenységek esetén 40 000 forint,
+
+b) nyilvántartásba vételhez kötött tevékenység esetén 25 000 forint.”
 
 57–58. §
 
 59. § (1)
 
-(2)
+(2) A Ht. 90. § (8) és (9) bekezdése helyébe a következő rendelkezés lép, és a § a következő (10) bekezdéssel egészül ki:
+
+„(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2013. december 31-ig megköti. Hulladékgazdálkodási közszolgáltatást – a (9) bekezdésben meghatározott kivétellel – 2014. január 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és az OHÜ által kiállított minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
+
+(9) Az a törvény hatálybalépésekor, és azóta folyamatosan működő, a települési önkormányzattal megkötött érvényes hulladékgazdálkodási közszolgáltatási szerződéssel és hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezet, amely 2014. január 1-jén
+
+a) az OHÜ által kiállított minősítő okirattal nem rendelkezik, és a települési önkormányzattal hulladékgazdálkodási közszolgáltatási szerződést nem kötött, vagy
+
+b) az OHÜ által kiállított minősítő okirattal rendelkezik, de a települési önkormányzattal hulladékgazdálkodási közszolgáltatási szerződést nem kötött,
+
+2014. július 1-jéig a minősítő okiratot beszerzi és a települési önkormányzattal a hulladékgazdálkodási közszolgáltatási szerződést megköti.
+
+(10) Az a gazdálkodó szervezet, amely hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet végez, a 2013. évben az e tevékenység folytatása miatti éves felügyeleti díj 50%-át a környezetvédelmi hatóság részére legkésőbb 2013. augusztus 31-ig megfizeti.”
 
 (3)
 
-60. § (1)
+60. § (1) A Ht. 5. melléklete a 7. melléklet szerint módosul.
 
 (2)
 
 61–75. §
 
-76. §
+76. § (1) A Ht. 5. melléklet 2. pontjában foglalt táblázatban a „2016” szövegrész helyébe a „2016*” szöveg lép.
+
+(2) A Ht. 5. melléklet 2. pontjában foglalt táblázat 1. pontjában a „hulladék” szövegrész helyébe a „hulladék, ideértve az előkezelt települési hulladékot is” szöveg lép.
 
 77–78. §
 
@@ -441,5 +475,30 @@ P. H.
 | --- |
 
 ### 7. melléklet a 2013. évi CXXV. törvényhez
+
+- 1. A Ht. 5. melléklet 2. pontjában foglalt táblázat 5. pontja helyébe a következő rendelkezés lép:
+
+|  | [Hulladéklerakási járulékfizetéssel érintett | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | hulladék fajtája, jellege, típusa(i) | 2013 | 2014 | 2015 | 2016] |
+
+„
+
+|  | 5. a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 2000 Ft | 4000 Ft | 6000 Ft | 8000 Ft |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| „ |  |  |  |  |  |
+
+- 2. A Ht. 5. melléklet 2. pontjában foglalt táblázat a következő 6. ponttal és az azt követő szöveggel egészül ki:
+
+|  | [Hulladéklerakási járulékfizetéssel érintett | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | hulladék fajtája, jellege, típusa(i) | 2013 | 2014 | 2015 | 2016] |
+
+„
+
+|  | 6. a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 1500 Ft | 3000 Ft | 4500 Ft | 6000 Ft |
+| --- | --- | --- | --- | --- | --- |
+
+* 2017. január 1-jétől a 2016. évre meghatározott hulladéklerakási járulékot kell megfizetni.”
 
 ### 8. melléklet a 2013. évi CXXV. törvényhez
