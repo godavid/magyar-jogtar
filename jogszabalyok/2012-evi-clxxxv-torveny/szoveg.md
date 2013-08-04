@@ -604,7 +604,7 @@ kötheti.
 
 (3) A bíróság a Hivatal határozatát nem változtathatja meg.
 
-49. § (1) A Hivatal részére díjfelügyeleti tevékenységéért a közszolgáltató felügyeleti díjat fizet.
+49. § (1) A közszolgáltató a Hivatal részére a tárgyév díjfelügyeleti tevékenységéért a tárgyév június 30. napjáig felügyeleti díjat fizet.
 
 (2) A felügyeleti díj éves mértéke egyenlő a közszolgáltató által nyújtott hulladékgazdálkodási közszolgáltatással érintett település lakosainak száma és 100 forint szorzatával. A település lakosainak számát a Központi Statisztikai Hivatal által, a tárgyévet megelőzően utoljára közzétett tájékoztatási adatbázis Magyarország lakónépességének továbbszámított, éves és települési bontásban megadott adatai alapján kell meghatározni.
 
@@ -1015,6 +1015,15 @@ vonatkozó adatokat.
 
 (5) A (4) bekezdésben meghatározott hatóság tájékoztatja a gyártó telephelye szerint illetékes környezetvédelmi hatóságot, ha megállapítja, hogy a melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy nem felel meg a 8. § szerinti feltételeknek.
 
+82/A. § (1) Az a gazdálkodó szervezet, amely e törvény alapján hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet folytat – kivéve a közszolgáltatót, valamint azt az esetet, ha a tevékenység az egységes környezethasználati engedélyezés hatálya alá tartozik –, a tárgyév február 28-ig a környezetvédelmi hatóság részére éves felügyeleti díjat fizet. A tevékenység év közben történő megkezdése esetén a felügyeleti díj arányos részét kell megfizetni a hulladékgazdálkodási engedély jogerőre emelkedését vagy a nyilvántartásba vételt követő 30 napon belül.
+
+(2) A felügyeleti díj a környezetvédelmi hatóság bevételét képezi, amelyet a felügyeleti tevékenységével kapcsolatos működési költségeinek fedezetére használhat fel.
+
+(3) A felügyeleti díj mértéke
+
+- a) hulladékgazdálkodási engedélyhez kötött tevékenységek esetén 40 000 forint,
+- b) nyilvántartásba vételhez kötött tevékenység esetén 25 000 forint.
+
 83. § (1) A közszolgáltató által az elszámolással, számlázással, díjfizetéssel kapcsolatban, illetve a díjhátralék esedékességét követően megtett intézkedésekre, valamint a hulladékgazdálkodási közszolgáltatást érintő értesítési, tájékoztatási, szolgáltatásnyújtási kötelezettségre vonatkozó rendelkezések fogyasztókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására az Fgytv.-t kell alkalmazni azzal, hogy a társasházakról szóló törvény szerinti társasházi közösség az Fgytv. alkalmazásában fogyasztónak minősül.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezés.
@@ -1194,9 +1203,16 @@ rendeletben állapítsa meg.
 
 (6)–(7)
 
-(8) A hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezettel legkésőbb 2013. december 31-ig megköti, kivéve, ha az e törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezetnek a települési önkormányzattal érvényes hulladékgazdálkodási közszolgáltatási szerződése van, és a közszolgáltatóra vonatkozó e törvényben meghatározott valamennyi feltételt teljesíti.
+(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2013. december 31-ig megköti. Hulladékgazdálkodási közszolgáltatást – a (9) bekezdésben meghatározott kivétellel – 2014. január 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és az OHÜ által kiállított minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és az OHÜ által kiállított minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
 
-(9) A hulladékgazdálkodási közszolgáltatási szerződés (8) bekezdés szerinti megkötéséig a törvény hatálybalépésekor működő hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezet a települési önkormányzattal – az e törvény hatálybalépését megelőzően – megkötött hulladékgazdálkodási közszolgáltatási szerződésben foglaltaknak megfelelően a hulladékgazdálkodási közszolgáltatás ellátásáról gondoskodik.
+(9) Az a törvény hatálybalépésekor, és azóta folyamatosan működő, a települési önkormányzattal megkötött érvényes hulladékgazdálkodási közszolgáltatási szerződéssel és hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezet, amely 2014. január 1-jén
+
+- a) az OHÜ által kiállított minősítő okirattal nem rendelkezik, és a települési önkormányzattal hulladékgazdálkodási közszolgáltatási szerződést nem kötött, vagy
+- b) az OHÜ által kiállított minősítő okirattal rendelkezik, de a települési önkormányzattal hulladékgazdálkodási közszolgáltatási szerződést nem kötött,
+
+2014. július 1-jéig a minősítő okiratot beszerzi és a települési önkormányzattal a hulladékgazdálkodási közszolgáltatási szerződést megköti.
+
+(10) Az a gazdálkodó szervezet, amely hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet végez, a 2013. évben az e tevékenység folytatása miatti éves felügyeleti díj 50%-át a környezetvédelmi hatóság részére legkésőbb 2013. augusztus 31-ig megfizeti.
 
 (11) A 2. § (1) bekezdés 37. pontja szerinti közszolgáltatón kívül 2013. december 31-ig közszolgáltatónak kell tekinteni azt a hulladékgazdálkodási közszolgáltatást ellátó gazdálkodó szervezetet is, amely 2012. december 31-én hulladékgazdálkodási közszolgáltatást látott el, és azóta e tevékenységét folyamatosan végzi.
 
@@ -1479,13 +1495,16 @@ i = hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jelleg
 
 - 2. A hulladék fajtánkénti egységára:
 
-2K26947_1
+3K63468M_1
 
 |  | Hulladéklerakási járulékfizetéssel érintett hulladék fajtája, jellege, típusa (i) | Hulladéklerakási járulékfizetéssel érintett hulladék egységára évenként (Ft/tonna) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 2013 | 2014 | 2015 | 2016 |
-|  | 1. települési hulladék | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
+|  | 2013 | 2014 | 2015 | 2016* |
+|  | 1. települési hulladék, ideértve az előkezelt települési hulladékot is | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
 |  | 2. építési-bontási hulladék | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
 |  | 3. veszélyes hulladék | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
 |  | 4. települési szennyvíziszap | 3000 Ft | 6000 Ft | 9000 Ft | 12 000 Ft |
-|  | 5. hasznosítás után visszamaradt és tovább hasznosítható veszélyes és nem veszélyes hulladék | 1500 Ft | 3000 Ft | 4500 Ft | 6 000 Ft |
+|  | 5. a hulladékból előállított termék gyártása során képződött és tovább hasznosítható maradék hulladék | 2000 Ft | 4000 Ft | 6000 Ft | 8000 Ft |
+|  | 6. a hulladékból előállított termék gyártása során képződött és tovább nem hasznosítható maradék hulladék | 1500 Ft | 3000 Ft | 4500 Ft | 6000 Ft |
+
+* 2017. január 1-jétől a 2016. évre meghatározott hulladéklerakási járulékot kell megfizetni.
