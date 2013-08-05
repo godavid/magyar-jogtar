@@ -627,7 +627,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (4) A 16. § szerinti sorsolásos játék, valamint a 23. § szerinti ajándéksorsolás, a lóversenyfogadás a játékadó fizetési kötelezettség alól mentes.
 
-(5) A távszerencsejáték játékadója a 37. § 2.1. pontja szerinti tiszta játékbevétel 20%-a.
+(5) A távszerencsejáték kétheti gyakorisággal teljesítendő játékadója a 37. § 2.1. pontja szerint meghatározott tiszta játékbevétel 20%-a.
 
 ### Játékautomaták játékadója játékadója
 
@@ -691,7 +691,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
 - e) a játékkaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint,
 - f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
-- g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint
+- g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint,
+- h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 50 millió forint
 
 felügyeleti díjat fizet.
 
@@ -701,7 +702,8 @@ felügyeleti díjat fizet.
 
 - a) a 36/C. § (2) bekezdés a) és d)–f) pontjaiban foglalt esetekben negyedévente, a kötelezettet terhelő időszaki, időközi, folyamatos elszámolással egyidejűleg, de legkésőbb a tárgynegyedévet követő hónap utolsó napjáig,
 - b) a 36/C. § (2) bekezdés b) és c) pontjaiban foglalt esetekben a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül,
-- c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg
+- c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg,
+- d) a 36/C. § (2) bekezdés h) pontja esetén negyedévente, a tárgynegyedévet követő hónap utolsó napjáig
 
 fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
 
