@@ -2157,7 +2157,7 @@ kell figyelembe venni.
 
 (3) Ha a nyeremény nem pénz, hanem más vagyoni érték, a kifizetőt terhelő adó alapja a nyeremény szokásos piaci értékének 1,19-szerese.
 
-(4) Nem számít jövedelemnek a szerencsejáték szervezéséről szóló törvény 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a pénznyerő automatából, a játékkaszinóból, a bukmékeri rendszerű fogadásból, a lóversenyfogadásból, bingójátékból, továbbá a kártyateremben szervezett kártyajátékból származó nyeremény.
+(4) Nem számít jövedelemnek a jogszerűen szervezett, a szerencsejáték szervezéséről szóló törvény 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a játékkaszinóból, a bukmékeri rendszerű fogadásból, a lóversenyfogadásból, bingójátékból, a kártyateremben szervezett kártyajátékból, valamint a távszerencsejátékból származó nyeremény.
 
 (5) A (3) bekezdés rendelkezését kell alkalmazni a nyilvánosan, bárki számára azonos feltételekkel meghirdetett vetélkedő, verseny nem pénzben kapott díjára, ha az egyébként nem minősül az (1) bekezdésben említett nyereménynek.
 
