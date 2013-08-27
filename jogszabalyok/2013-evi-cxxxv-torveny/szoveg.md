@@ -191,7 +191,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 #### 7.3. A Takarékbank Zrt. alapszabálya
 
-14. § (1) A Takarékbank Zrt. jelen törvény hatálybalépését követő első alapszabályának szövegét a jelen törvény hatályba lépésének napjától számított 30 napon belül az Integrációs Szervezet igazgatósága határozza meg és a Takarékbank Zrt. közgyűlése fogadja el a 20. § (7) bekezdésben foglaltak szerint.
+14. § (1) A Takarékbank Zrt. jelen törvény hatálybalépését követő első alapszabályának szövegét a jelen törvény hatályba lépésének napjától számított 30 napon belül az Integrációs Szervezet igazgatósága határozza meg és a Takarékbank Zrt. közgyűlése fogadja el a 20. § (7) bekezdésben foglaltak szerint. A Takarékbank Zrt. alapszabályának a megállapításához és módosításához, továbbá az egyes részvénysorozatokhoz fűződő jogok megváltoztatásához, valamint az egyes részvényfajták, osztályok átalakításához a szavazásra jogosító részvények által megtestesített szavazatok több mint felét képviselő részvényes szavazata szükséges.
 
 (2) A Takarékbank Zrt. alapszabálya az integráción belüli konszolidáció és a kisebbségi tulajdonosok érdekei védelme érdekében együttes eladási szabályokat állapíthat meg és korlátozhatja, hogy a Takarékbank Zrt. részvényesén és az integrációs szervezeti tagsággal rendelkező szövetkezeti hitelintézeten kívül más hogyan szerezheti meg a Takarékbank Zrt. részvényét illetve kizárhatja vagy korlátozhatja, hogy nem szövetkezeti hitelintézet milyen esetben vagy feltételek mellett szerezhet részvényt a Takarékbank Zrt.-ben.
 
