@@ -88,8 +88,6 @@ c) mesterfokozat esetén kétszáz
 
 százaléka.”
 
-(2)
-
 39–40. §
 
 41. §
@@ -118,7 +116,7 @@ százaléka.”
 
 (4) A 42. § (1) bekezdése 2014. március 15-én lép hatályba.
 
-(5) A 38. § (2) bekezdése és a 42. § (2) bekezdése 2015. szeptember 1-jén lép hatályba.
+(5)
 
 ### 1. melléklet a 2013. évi CXXIX. törvényhez
 
