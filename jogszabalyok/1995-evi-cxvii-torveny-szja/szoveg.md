@@ -2868,7 +2868,7 @@ c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Öszt
 
 4.12.3. oktató, kutató részére a nemzeti felsőoktatási kiválóság ösztöndíj;
 
-4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy vallási közösség által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
+4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
 
 4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása;
 

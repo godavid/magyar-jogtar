@@ -339,7 +339,7 @@ szükséges.
 (3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett
 
 - a) az állami köznevelési közfeladat-ellátás keretében,
-- b) az egyházi vagy más nem állami, nem települési önkormányzati nevelési-oktatási intézményfenntartók által fenntartott pedagógiai intézetben, továbbá
+- b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
 - c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő gazdálkodó szervezet vagy költségvetési szerv által nyújtható.
 
 (4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
@@ -574,7 +574,7 @@ rendkívüli szünetet rendel el.
 
 31. § (1) Az egyházi köznevelési intézmények és a magán köznevelési intézmények az e törvényben foglalt, az általánostól eltérő szabályok szerint működhetnek és szervezhetik tevékenységüket.
 
-(2) Ha a nevelési-oktatási intézményt egyház vagy más nem állami szerv, nem települési önkormányzat tartja fenn:
+(2) Ha a nevelési-oktatási intézményt a 2. § (3) bekezdés b) pontjában meghatározott személy tartja fenn:
 
 - a) a nevelési-oktatási intézmény vallási, világnézeti tekintetben elkötelezett intézményként működhet, és ennek megfelelően a gyermekek vagy a tanulók felvételének előfeltételeként kikötheti valamely vallás, világnézet elfogadását, és ezt felvételi eljárás keretében vizsgálhatja,
 - b) nem kell alkalmazni a gyermekek, tanulók felvételével kapcsolatos rendelkezések közül a kötelező felvételre vonatkozó rendelkezéseket, valamint az osztály-, csoportlétszámokat meghatározó rendelkezéseket a maximális létszámra vonatkozó rendelkezések kivételével,
@@ -594,7 +594,7 @@ rendkívüli szünetet rendel el.
 - d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azokat a szolgáltatásokat, amelyek a megállapodás alapján a gyermekek, tanulók, szülők részére térítésmentessé válnak, továbbá amelyeket térítési díjért vehetnek igénybe.
 - e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
 
-(6) A köznevelési szerződés érvényességi ideje öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
+(6) A köznevelési szerződés érvényességi ideje legalább egy, legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
 
 (7) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.
 
@@ -1487,11 +1487,22 @@ dönt.
 
 (3) Az iskolában a helyi közösségek érdekeinek képviseletére a szülők, a tanulók, a nevelőtestület, az intézmény székhelye szerinti települési önkormányzat, egyházi jogi személyek, a helyi gazdasági kamarák azonos számú képviselőjéből és a fenntartó delegáltjából álló intézményi tanács hozható létre.
 
-(4) Az intézményi tanács elnöke életvitelszerűen az intézmény székhelyével azonos településen lakik.
+(4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat delegáltjaiból kell létrehozni.
 
-(5) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
+(5) Az intézményi tanács
 
-(6) A szülői szervezet, az iskolaszék és az intézményi tanács működésének részletes szabályait külön jogszabály állapítja meg.
+- a) jogi személy, amely hatósági nyilvántartásba vétellel jön létre, a hatósági nyilvántartást a hivatal vezeti,
+- b) székhelye azonos az érintett iskola székhelyével,
+- c) tagjait az intézményvezető bízza meg a delegálásra jogosultak véleménye alapján a feladat ellátására,
+- d) elnökének az választható meg, aki életvitelszerűen az intézmény székhelyével azonos településen lakik,
+- e) ügyrend alapján működik, az ügyrendet az intézményi tanács dolgozza ki és fogadja el azzal, hogy az elfogadott ügyrendet az intézményi tanács elnöke legkésőbb az elfogadást követő tizenötödik napon megküldi a hivatalnak jóváhagyásra,
+- f) ügyrendjének a hivatal által történt jóváhagyását követően az intézményi tanácsot a hivatal felveszi a hatósági nyilvántartásba.
+
+(6) Az intézményi tanács az iskola működésének támogatására alapítványt hozhat létre.
+
+(7) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
+
+(8) Az intézményi tanácsról az (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás tartalmazza az intézményi tanács hivatalos nevét.
 
 #### 44. A köznevelés közfeladatai, a feladatellátásra kötelezettek
 
@@ -1981,7 +1992,7 @@ egyetértésben gyakorolja.
 - d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
 - e) a pedagógusok fővárosi, megyei állandó helyettesítési rendszerének létrehozását és működtetését,
 - f) a pedagógus-szakvizsga bevezetését, a pedagógus-továbbképzés rendszerét, a továbbképzésben résztvevők juttatásait, kedvezményeit; a pedagógus-továbbképzés programjának, az érettségi vizsga vizsgatárgyai jóváhagyási eljárásának részletes szabályait, a pedagógus-továbbképzési programok akkreditációjának feltételeit és eljárási rendjét, az akkreditált továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét, a továbbképzés minőségbiztosításának, ellenőrzésének rendjét, az ellenőrzés során feltárt hiányosságok, a minőségbiztosítás követelményeinek megszegése esetén alkalmazható jogkövetkezményeket, az e bekezdésben meghatározott eljárásokkal kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
-- g) a pedagógusok előmeneteli rendszerét, az egyes fokozatokba történő besoroláshoz szükséges követelményeket, a minősítő vizsgát és a minősítési eljárást lefolytató bizottság működését, a szakmai kritériumokra vonatkozó részletes rendelkezéseket, a minősítő vizsga és a minősítési eljárások során adható minősítések feltételeit, a minősítésekhez kapcsolódó fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt, valamint az ágazati, szakmai sajátosságokra tekintettel a 8. mellékletben meghatározott keretek között az illetménypótlék és a kereset-kiegészítés, a jutalom megállapításának részletes szabályait, a megismételt minősítő vizsga és minősítési eljárások költségét, valamint az ezért kérhető díj mértékét, befizetésének szabályait, a nevelési-oktatási intézményekben elrendelhető rendkívüli munkavégzés, az ügyelet és készenlét elrendelésének feltételeit, az ügyelet és az ügyelet alatt elrendelt munkavégzés díjazását is magában foglaló átalánydíjazás megállapításának szabályait és mértékét, a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatok körét, az eseti helyettesítésnek minősülő helyettesítést, az alkotói szabadság igénybevételének részletes szabályait, a halmozottan hátrányos helyzetű gyermekek, tanulók szülei iskolai végzettséggel összefüggő önkéntes nyilatkozatának kérdéseit, valamint az igazgatótanács munkáltatói jogosítványait,
+- g) a pedagógusok előmeneteli rendszerét, az egyes fokozatokba történő besoroláshoz szükséges követelményeket, a minősítő vizsgát és a minősítési eljárást lefolytató bizottság működését, a szakmai kritériumokra vonatkozó részletes rendelkezéseket, a minősítő vizsga és a minősítési eljárások során adható minősítések feltételeit, a minősítésekhez kapcsolódó fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt, valamint az ágazati, szakmai sajátosságokra tekintettel a 8. mellékletben meghatározott keretek között az illetménypótlék és a kereset-kiegészítés, a jutalom megállapításának részletes szabályait, a megismételt minősítő vizsga és minősítési eljárások költségét, valamint az ezért kérhető díj mértékét, befizetésének szabályait, a nevelési-oktatási intézményekben elrendelhető rendkívüli munkavégzés, az ügyelet és készenlét elrendelésének feltételeit, az ügyelet és az ügyelet alatt elrendelt munkavégzés díjazását is magában foglaló átalánydíjazás megállapításának szabályait és mértékét, a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatok körét, az eseti helyettesítésnek minősülő helyettesítést, az alkotói szabadság igénybevételének részletes szabályait, a pedagógusok munkaideje beosztásának szabályait, a nevelő-oktató munkát közvetlenül segítő alkalmazottak, valamint a gazdasági, ügyviteli, műszaki, kisegítő és más, nem pedagógus-munkakörben alkalmazottak besorolásához szükséges követelményeket, a halmozottan hátrányos helyzetű gyermekek, tanulók szülei iskolai végzettséggel összefüggő önkéntes nyilatkozatának kérdéseit, valamint az igazgatótanács munkáltatói jogosítványait,
 - h) a köznevelés információs rendszerének létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának és kezelésének szabályait,
 - j) a fenntartót
@@ -1996,8 +2007,9 @@ egyetértésben gyakorolja.
 - q) az állami intézményfenntartó központtal a köznevelési intézmény feladatait szolgáló ingatlan működtetése céljából köthető szerződés részletes tartalmát,
 - r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
 - s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
-- s) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát
-- t) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét
+- t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát,
+- u) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
+- v) 2014. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének százalékában meghatározott tanévenkénti mértékét
 
 rendeletben állapítsa meg.
 
@@ -2009,9 +2021,11 @@ rendeletben állapítsa meg.
 
 (2) A 7. § (1) bekezdés i) pontja, a 18. §, a 45. § (2) és (4) bekezdése, az 50. § (7) bekezdése, a 74. § (1)–(3) és (7) bekezdése, a 75–76. §, a 95. § (7) bekezdése 2013. január 1-jén lép hatályba.
 
-(3) A 4. § 13. pont b) alpont, a 8. § (3) bekezdés, a 12–14. §, a 17. § (2) bekezdés második mondata, a 25. § (7) bekezdés, a 27. § (1)–(10) bekezdés, 27. § (12)–(13) bekezdés, 28–29. §, a 35. §, a 46. § (1) bekezdés a) pont, a 46. § (5) bekezdés, a 47. § (7) bekezdés, az 55. § (1) bekezdés, a 60. § (2) bekezdés, a 61. § (3) és (5) bekezdés, a 62. § (3) és (5)–(14) bekezdés, a 64–65. §, a 69. § (5)–(6) bekezdés, a 88. § (4)–(5) bekezdés, a 89. § (1)–(2) bekezdés, 95. § (8) bekezdés, az 1. melléklet, a 2. melléklet, a 4. melléklet, az 5. melléklet, a 6. melléklet, a 7. melléklet, a 8. melléklet 2013. szeptember 1-jén lép hatályba.
+(3) A 4. § 13. pont b) alpont, a 8. § (3) bekezdés, a 12–14. §, a 17. § (2) bekezdés második mondata, a 25. § (7) bekezdés, a 27. § (1)–(10) bekezdés, a 27. § (12)–(13) bekezdés, a 28–29. §, a 35. §, a 46. § (1) bekezdés a) pont, a 46. § (5) bekezdés, a 47. § (7) bekezdés, az 55. § (1) bekezdés, a 60. § (2) bekezdés, a 61. § (3) és (5) bekezdés, a 62. § (3) és (5)–(14) bekezdés, a 64. §, a 65. § (1) bekezdés, a 65. § (3)–(9) bekezdés, a 69. § (5)–(6) bekezdés, a 88. § (4)–(5) bekezdés, a 89. § (1)–(2) bekezdés, a 95. § (8) bekezdés, az 1. melléklet, a 2. melléklet, a 4. melléklet, az 5. melléklet, a 6. melléklet, a 7. melléklet, a 8. melléklet 2013. szeptember 1-jén lép hatályba.
 
 (3a) A 74. § (4)–(6) bekezdése 2012. október 27-én lép hatályba.
+
+(3b) A 65. § (2) bekezdése 2017. szeptember 1-jén lép hatályba.
 
 (4) A 8. § (2) bekezdés, az 53. § (1) bekezdés, 95. § (9) bekezdés 2014. szeptember 1-jén lép hatályba.
 
@@ -2091,11 +2105,17 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (18) A 4. melléklet szerinti osztály-, csoportlétszámokat és a 47. § (7) bekezdésében foglaltakat első alkalommal a 2013/2014. tanévtől felmenő rendszerben kell alkalmazni.
 
-(19) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
+(19) A pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottak első minősítésére vagy minősítő vizsgájára 2013. szeptember 1. és 2018. június 30. között kerül sor.
 
-(20) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2015. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik 2015. szeptember 1-től első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra, azzal az eltéréssel, hogy a besorolás szerinti fokozat megnevezése igazodik a munkakör megnevezéséhez.
+(20) A nevelési-oktatási intézményben és a pedagógiai szakszolgálati intézményben pedagógus-munkakörben foglalkoztatott, továbbá a 65. § (9) bekezdésében meghatározott alkalmazott, aki 2013. szeptember 1-jén már legalább 2 éves szakmai gyakorlattal rendelkezik, első minősítéséig a Pedagógus I. fokozatba és a közalkalmazottak jogállásáról szóló törvény alapján közalkalmazotti jogviszonyban töltött időnek minősülő, továbbá a fizetési fokozat megállapításánál beszámítandó idő szerinti kategóriába, aki két évnél kevesebb szakmai gyakorlattal rendelkezik, Gyakornok fokozatba kerül besorolásra. A munka törvénykönyve hatálya alá tartozó munkavállalók esetén a Pedagógus I. fokozatba történő besorolásnál a munkaviszonyban töltött időt kell alapul venni a közalkalmazottak jogállásáról szóló törvényben meghatározottak alapján.
 
-(21) Nem vonatkozik a minősítési kötelezettség arra a nevelési-oktatási intézményben foglalkoztatott pedagógusra, aki 2013. szeptember 1-jétől, és arra a pedagógiai szakszolgálat keretében pedagógus-munkakörben foglalkoztatottra, aki 2015. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
+(20a) 2013. szeptember 1. és 2014. augusztus 31. között az illetményalap a teljes munkaidőre megállapított kötelező legkisebb alapbér (minimálbér) havi összegének
+
+- a) 118,5 százaléka középfokú végzettség esetén,
+- b) 157,8 százaléka alapfokozat esetén,
+- c) 172,9 százaléka mesterfokozat esetén.
+
+(21) Nem vonatkozik a minősítési kötelezettség arra a pedagógus-munkakörben, valamint pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra, aki a 2013. szeptember 1-jétől számított tizedik tanév végéig eléri a rá vonatkozó öregségi nyugdíjkorhatárt.
 
 (22) A 46. § (5) bekezdés szerinti térítésmentes tankönyvellátást első alkalommal a 2013/2014. tanévben az első évfolyamra beiratkozott tanulók számára, ezt követően felmenő rendszerben kell biztosítani.
 
@@ -2111,6 +2131,8 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 (25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
 
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
+
+(27) Amennyiben a 73. § (3) bekezdése szerinti intézményi tanács nem jött létre, a 73. § (4) bekezdése szerinti intézményi tanács alakuló ülését az érintett iskola intézményvezetője a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvény hatálybalépését követő negyvenöt napon belül hívja össze.
 
 98. § (1) Egyéb foglalkozást a nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott alkalmazott tarthat.
 
