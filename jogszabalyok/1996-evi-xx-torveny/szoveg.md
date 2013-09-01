@@ -357,7 +357,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - r) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
 - s) az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
-- t) feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához.
+- t) feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
+- u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
 ### Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
 

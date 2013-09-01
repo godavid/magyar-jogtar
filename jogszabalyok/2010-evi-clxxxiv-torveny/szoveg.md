@@ -32,6 +32,12 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 (4) A Pest Megyei Munkaügyi Bíróság jogutódja a Budapest Környéki Munkaügyi Bíróság.
 
+5. § (1) E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésének időpontjában folyamatban lévő ügyekben nem kell alkalmazni.
+
+(2) Az Egri Törvényszék és az Egri Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a Módtv. hatálybalépését követően előterjesztett jogorvoslatot a Debreceni Ítélőtábla bírálja el.
+
+(3) A Szolnoki Törvényszék és a Szolnoki Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a Módtv. hatálybalépését követően előterjesztett jogorvoslatot a Szegedi Ítélőtábla bírálja el.
+
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
 A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi bíróságok illetékességi területe
@@ -1725,13 +1731,13 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 
 - 1. FŐVÁROSI ÍTÉLŐTÁBLA
 
-| Budapest főváros | Fejér megye | Heves megye |
+| Budapest főváros | Fejér megye | Nógrád megye |
 | --- | --- | --- |
-| Nógrád megye | Pest megye |  |
+| Pest megye |  |  |
 
 - 2. SZEGEDI ÍTÉLŐTÁBLA
 
-| Csongrád megye | Bács-Kiskun megye | Békés megye |
+| Csongrád megye Jász-Nagykun-Szolnok megye | Bács-Kiskun megye | Békés megye |
 | --- | --- | --- |
 
 - 3. PÉCSI ÍTÉLŐTÁBLA
@@ -1742,9 +1748,9 @@ A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi b
 
 - 4. DEBRECENI ÍTÉLŐTÁBLA
 
-| Hajdú-Bihar megye | Borsod-Abaúj-Zemplén megye | Jász-Nagykun-Szolnok megye |
+| Hajdú-Bihar megye | Borsod-Abaúj-Zemplén megye | Szabolcs-Szatmár-Bereg megye |
 | --- | --- | --- |
-| Szabolcs-Szatmár-Bereg megye |  |  |
+| Heves megye |  |  |
 
 - 5. GYŐRI ÍTÉLŐTÁBLA
 

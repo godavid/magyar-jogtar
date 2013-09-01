@@ -28,13 +28,13 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 
 - 1. állam által elismert szakképesítés: az Országos Képzési Jegyzékben (a továbbiakban: OKJ) meghatározott szakképesítés;
 - 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre;
-- 3.
-- 4.
+- 3. életpálya-tanácsadás (pályaorientáció): a tanácskérő támogatása az életpálya-tanácsadási szolgáltatás keretében az érdeklődésének, képességének, személyiségének és a munkaerő-piaci igényeknek megfelelő pályaterv kialakításában és megvalósításában, amelynek keretében a tanácskérő a pályaválasztáshoz vagy a pályamódosításhoz kap segítséget;
+- 4. az életpálya-tanácsadás formája: az egyéni tanácsadás, a csoportos tanácsadás, a távtanácsadás és az elérő program az életpálya-tanácsadási szolgáltatás keretében;
 - 5. előírt gyakorlat: a szakképesítés megszerzéséhez szükséges, meghatározott munkaterületen, munkakörben korábban megszerzett gyakorlat, amelynek időtartamát a szakképesítés szakmai és vizsgakövetelménye (a továbbiakban: szakmai és vizsgakövetelmény) tartalmazza;
 - 6. első szakképesítés: az iskolai rendszerű szakképzésben elsőként megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
 - 7. eszköz- és felszerelési jegyzék: a szakmai és vizsgakövetelményben szakképesítésenként meghatározott, a képzési feladatok teljesítéséhez szükséges eszközök, gépek, szerszámok, alapanyagok, helyiségek és felszerelések minimuma;
 - 8. feladatprofil: a szakképesítéssel ellátható legjellemzőbb foglalkozás, tevékenység, valamint a munkaterület rövid leírása;
-- 9.
+- 9. foglalkoztatási, munkába állási tanácsadás: a munkavállalással, munkahely-megtartással kapcsolatos problémák feltárása, a problémák megoldásának, a sikeres elhelyezkedés megvalósítási tervének kidolgozása az életpálya-tanácsadási szolgáltatás keretében;
 - 10. gazdálkodó szervezet: gyakorlati képzést folytató, szakképzési hozzájárulásra kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég, egyéni vállalkozó;
 - 11. gyakorlati képzés: a szakmai képzésnek az iskolai tanműhelyben, az állami felnőttképzési intézmény tanműhelyében vagy a gyakorlati képzés folytatására jogosult gazdálkodó szervezetnél, egyéb szervnél vagy szervezetnél folyó azon része, amelynek célja a szakképesítéshez kapcsolódó munkatevékenységek gyakorlatban történő elsajátítása és a tanulónak a komplex szakmai vizsga gyakorlati részére való felkészítése, amelyet iskolai rendszerű szakképzés esetén a szakképzési kerettanterv határoz meg;
 - 12. gyakorlati képzést szervező: a gyakorlati képzés feltételeinek biztosításáért felelős szakképző iskola vagy e törvény szerint nyilvántartásba vett gyakorlati képzést folytató;
@@ -43,8 +43,8 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 15. iskolai előképzettség: a szakképzés megkezdéséhez szükséges iskolai végzettség;
 - 16. iskolai rendszerű szakképzés: a köznevelés keretében a nemzeti köznevelésről szóló törvényben és az e törvényben meghatározott, szakképző iskolában folyó szakképzés, résztvevői a szakképző iskolával tanulói jogviszonyban állnak;
 - 17. iskolai tanműhely: olyan szakképző iskolai feladatellátási helyen lévő gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
-- 18.
-- 19. iskolarendszeren kívüli hatósági jellegű képzés: jogszabályban meghatározott és hatóság által szabályozott tartalmú és célú képzés, amelynek eredményeként hatóság által meghatározott tevékenység folytatására feljogosító irat (engedély, bizonyítvány, a képző intézmény által kiállított igazolás stb.) kiadására kerül sor, vagy amely képzés hiányában jogszabályban meghatározott tevékenység nem folytatható;
+- 18. iskolai pályaválasztási tanácsadás: a pályaválasztási döntés elősegítése az életpálya-tanácsadási szolgáltatás keretében, a tanulmányok iskolai rendszerű vagy iskolarendszeren kívüli szakképzésben történő folytatása érdekében, olyan tanulási-képzési lehetőség, iskolatípus, szakképesítés kiválasztása, amely a tanácskérő igényeinek és a munkaerő-piaci keresletnek megfelel;
+- 19. iskolarendszeren kívüli hatósági jellegű képzés: jogszabályban szabályozott tartalmú és célú olyan, az OKJ-ban nem szereplő képesítés megszerzésére irányuló képzés, amelynek eredményeként dokumentum kiadására kerül sor, és e dokumentum hiányában jogszabályban meghatározott tevékenység, munkakör nem folytatható, nem tölthető be, vagy tevékenység, munkakör a képzést megelőző szakmai szinthez képest magasabb követelményeknek megfelelően folytatható, tölthető be, vagy a dokumentum a képzésben résztvevő számára a képzést megelőző állapothoz képest többletjogosultságot biztosít jogszabályban meghatározott tevékenység, munkakör végzésével, betöltésével összefüggésben;
 - 20. jelenléti óraszám: a kötelező tanórai foglalkozások azon része, amelyeken a részvétel a tanulónak az iskola feladatellátási helyén való személyes megjelenéséhez kötött;
 - 21. komplex szakmai vizsga: az iskolai rendszerű szakképzésben részt vevő tanuló és az iskolarendszeren kívüli szakképzésben részt vevő felnőtt szakmai elméleti és gyakorlati tudásának, képességeinek, készségeinek, ismereteinek mérése, amely az OKJ-ban meghatározott szakképesítés megszerzéséhez szükséges, a szakképesítéshez tartozó feladatprofil szerinti tevékenységek ellátásához meghatározott ismeretek elsajátítását tanúsító, jogszabályban meghatározott bizonyítvány kiadására irányuló eljárás;
 - 22. költségvetési hozzájárulás: a központi költségvetésből a nem állami köznevelési intézmények működéséhez nyújtott, a nemzeti köznevelésről szóló törvényben meghatározott támogatás;
@@ -56,9 +56,9 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 28. modulzáró vizsga: az iskolarendszeren kívüli képzésben a komplex szakmai vizsgára bocsátás feltételeként a szakképzést folytató intézmény által megszervezett vizsga, olyan kompetenciamérés, amellyel az intézmény meggyőződik arról, hogy a képzésben részt vevő elsajátította a szakmai és vizsgakövetelmény egyes követelménymoduljaiban előírtakat;
 - 29. munkahelyi gyakorlat: a szakképesítés megszerzése keretében folyó gyakorlati képzésnek a munkahelyen (a munkavégzéshez hasonló feltételek között, életszerű szituációban) megvalósuló része, amelynek feltételeit a gyakorlati képzés szervezője biztosítja, és amelynek során a szakképzésben részt vevő elsajátítja a munkaerőpiac által is igényelt gyakorlati tudáselemeket, kompetenciákat;
 - 30. országos gazdasági érdekképviseleti szervezet: a gazdasági kamarákról szóló törvényben meghatározott szervezet;
-- 31.
-- 32.
-- 33.
+- 31. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – szakmai és vizsgakövetelményben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a választott szakképesítés komplex szakmai vizsgájára és a választott tevékenység, foglalkozás ellátására;
+- 32. pályainformáció-nyújtás: az életpálya-tanácsadási szolgáltatás keretében a foglalkoztatási, munkavállalási, közgazdasági, pénzügyi, jogi, társadalombiztosítási, migrációs – az információkérőt az adott helyzetben a döntéshozatalhoz segítő – információkat magában foglaló olyan pályainformációs tanácsadás, amely felöleli a teljes egyéni életút támogatását a kisiskoláskortól a munkaerőpiac elhagyásáig, ötvözi a képzések teljes világáról szóló információnyújtást és a munkaerőpiac megismertetését, a képzés és munka világának kapcsolódását;
+- 33. pályakorrekciós tanácsadás: a nem piacképes szakmai végzettséggel rendelkező tanácskérő támogatása új képzési irány vagy foglalkozás megtalálásában az életpálya-tanácsadási szolgáltatás keretében, amelynek alanya minden olyan szakképesítéssel rendelkező személy, akinek a pályaválasztása nem volt megalapozott, vagy szakképesítése nem piacképes;
 - 34. sajátos nevelési igényű tanuló, vizsgázó: a nemzeti köznevelésről szóló törvényben meghatározott sajátos nevelési igényű gyermek, tanuló, és az iskolarendszeren kívüli szakképzésben vizsgázó, fogyatékossággal élő felnőtt;
 - 35. rehabilitációs képzés: a megváltozott munkaképességű, fogyatékossággal élő személy sajátos képességeire alapozó, és azt fejlesztő szakmai képzés, át- és továbbképzés, amely az érintett munkavállalási esélyének, további munkahelymegtartó képességének javítását szolgálja;
 - 36. szakiskolai végzettség: szakiskolában szerzett középfokú iskolai végzettség, amely egyúttal az OKJ-ban meghatározottak szerint államilag elismert szakiskolai szakmai végzettséget is tanúsít;
@@ -70,7 +70,7 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 42. szakmai követelmény: olyan követelmény, amely a gazdaságnak az adott szakemberrel szemben támasztott elvárásait, a szakma gyakorlása közben végzendő feladatok megoldásával kapcsolatban támasztható követelményeket tükrözi. Magába foglalja a munkába lépéshez és a munkavégzés során szükséges kompetenciák (munkaköri követelmények) szintjét, tartalmát, minőségét;
 - 43. szakmai követelménymodul: a szakképesítés szakmai követelményeinek meghatározott része, egyedi szakképesítések esetén annak egésze. A szakképesítés követelménymoduljainak összessége tartalmazza a szakképesítés valamennyi, a szakmai és vizsgakövetelményben rögzített szakmai kompetenciáját;
 - 44. szakmai tantárgy: a szakmai és vizsgakövetelmény teljesítéséhez a szakképzési kerettantervben előírt tantárgy;
-- 45.
+- 45. továbbtanulási tanácsadás: a tanuló adottságainak, tanulási képességének, irányultságának szakszerű vizsgálata, és ennek alapján továbbtanulási irány ajánlása az életpálya-tanácsadási szolgáltatás keretében;
 - 46. vizsgadíj: a vizsga megszervezésével, lebonyolításával kapcsolatban felmerülő, a feladatra elszámolható működési célú kiadások egy vizsgázóra jutó hányada;
 - 47. vizsgafeladat: tartalmazza az írásbeli, interaktív (számítógépes), gyakorlati, szóbeli vizsgatevékenység(ek) célját és a teljesítés meghatározó körülményeit, amelyhez legalább egy vizsgatevékenységet kell hozzárendelni;
 - 48. vizsgáztatási díj: a vizsgabizottság tagjait megillető díjazás;
@@ -115,7 +115,7 @@ irányul.
 
 (2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
 
-(3) A szakképző iskola létesítésére, fenntartására és működésére – e törvény rendelkezéseinek figyelembevételével – a nemzeti köznevelésről szóló törvény, az állami felnőttképzési intézmény létesítésére, fenntartására és működésére a felnőttképzésről szóló törvény, a térségi integrált szakképző központ létesítésére, fenntartására és működésére e törvény rendelkezéseit kell alkalmazni.
+(3) A szakképző iskola létesítésére, fenntartására és működésére – e törvény rendelkezéseinek figyelembevételével – a nemzeti köznevelésről szóló törvény, a térségi integrált szakképző központ létesítésére, fenntartására és működésére e törvény rendelkezéseit kell alkalmazni.
 
 (4) Jogszabályban meghatározott feltételekkel rendelkező egyéni vállalkozó, jogi személyek és ezek jogi személyiséggel nem rendelkező gazdasági társaságai szakképző iskola fenntartása nélkül, más szervezeti keretben is folytathatnak iskolai rendszerű szakképzésben gyakorlati képzést.
 
@@ -143,7 +143,9 @@ irányul.
 
 (12)–(13)
 
-(14)
+(14) Az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítésben államilag támogatott iskolai rendszerű szakképzés kizárólag a vidékfejlesztésért felelős miniszter által alapított és fenntartott szakképző iskolában, vagy nem állami fenntartó esetén – a vidékfejlesztésért felelős miniszter egyetértésével kötött – szakképzési megállapodás alapján folyhat.
+
+(15) A szakképző iskola (14) bekezdés szerinti fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, kivéve, ha a szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret. Ebben az esetben az állami fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja. A létszám számítására a (3) bekezdés rendelkezéseit kell alkalmazni.
 
 (16) A honvédelemért felelős miniszter által fenntartott, kizárólag a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre való felkészítést folytató szakképző iskola esetében a térségi integrált szakképző központ keretében történő működés nem kötelező.
 
@@ -241,11 +243,13 @@ irányul.
 
 (8) A komplex szakmai vizsgán csak olyan bizonyítvány és nyomtatvány használható, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá. A bizonyítvány és a nyomtatvány előállításához és forgalmazásához a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 
-(9)
+(9) A komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartásáról a szakképzésért és felnőttképzésért felelős miniszter gondoskodik.
 
 #### 7. A modulzáró vizsga
 
 10. § (1) Az iskolarendszeren kívüli szakképzésben a szakképzést folytató intézmény a képzési szakaszok lezárásaként a szakmai és vizsgakövetelményben meghatározott moduloknak megfelelő modulzáró vizsgát szervez. A modulzáró vizsga a szakmai és vizsgakövetelményben meghatározottak szerint összevontan is megszervezhető.
+
+(1a) Az iskolarendszeren kívüli szakképzésben a szakképzést folytató intézmény biztosítja a modulzáró vizsga vizsgafeladatait a szakmai és vizsgakövetelményekben, valamint a képzési programban foglaltaknak megfelelően.
 
 (2) Az iskolarendszeren kívüli szakképzésben a komplex szakmai vizsgára bocsátás feltétele a szakmai és vizsgakövetelményben előírt modulzáró vizsga eredményes letétele.
 
@@ -325,7 +329,7 @@ külön engedély nélkül szervezhet komplex szakmai vizsgát.
 
 #### 11. A komplex szakmai vizsgát szervező intézmény adatszolgáltatása
 
-16. § (1)
+16. § (1) A Kormány gondoskodik a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatásáról.
 
 (2) A komplex szakmai vizsgát szervező intézmény és a 12. § (2) bekezdése alapján vizsgaszervezési engedéllyel rendelkező intézmény köteles a vizsgázóról elektronikus úton a szakmai vizsgaszabályzat alapján
 
@@ -490,7 +494,20 @@ tartalmazó törzslapot kiállítani, és azt elektronikusan a vizsgaszabályzat
 
 #### 19. A szakmai képzés ingyenessége
 
-29. § (1)
+29. § (1) Az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzésben – e törvény rendelkezéseinek figyelembevételével, függetlenül az oktatás munkarendjétől – ingyenes
+
+- a) a tanuló részére az első szakképesítésre történő felkészítés keretében az elméleti és a gyakorlati képzés a szakiskolai képzésben öt tanéven keresztül, az érettségi végzettséggel rendelkező tanulók esetén a szakközépiskolai képzésben három tanéven keresztül, valamint egy szakképesítés-ráépülésre történő felkészítés az OKJ-ban előírt képzési időnél egy tanévvel hosszabb ideig,
+- b) a tanuló részére a szakközépiskolában a szakmai érettségire történő felkészítés hat tanéven keresztül,
+- c) szakiskolai végzettséggel rendelkező tanuló részére a 24. § (3) és (4) bekezdésében meghatározott kétéves, érettségire történő középiskolai felkészítésben három tanév,
+- d) a tanuló részére szakközépiskolában a szakmai érettségi vizsga és első alkalommal a javító- és pótló érettségi vizsga,
+- e) szakközépiskolában az érettségi végzettséggel rendelkező tanuló részére egy szakmai érettségi vizsgatárgyból tett érettségi vizsga és első alkalommal a javító- és pótlóvizsga,
+- f) a tanuló részére az iskolai rendszerű szakképzésben az első komplex szakmai vizsga és első alkalommal a javító- és pótlóvizsga.
+
+(1a) Az (1) bekezdés d)–f) pontjában meghatározott javító-, pótlóvizsga ingyenes a volt tanuló részére első alkalommal a tanulói jogviszony megszűnése után is.
+
+(1b) Az (1) bekezdésben foglaltaktól eltérően minden esetben ingyenes az iskolai rendszerű szakképzésben való részvétel a halmozottan hátrányos helyzetű és – az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló kivételével – a sajátos nevelési igényű tanuló részére. Ingyenes az iskolai rendszerű szakképzésben való részvétel az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló részére a második szakképesítés megszerzéséig.
+
+(1c) A kormányhivatal méltányosságból, a hátrányos helyzetű tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére, valamint tartós betegség vagy egyéb, méltányolható körülmény esetén a tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére és a szakképző iskola javaslatára engedélyezheti az (1) bekezdés szerinti időtartam legfeljebb két tanévvel történő meghosszabbítását.
 
 (2) Azon tanulótól, aki a képzésben való ingyenes részvételre jogosult, a gyakorlati képzést folytató szervezet a gyakorlati képzés megszervezéséért, végzéséért és a gyakorlati képzés feltételeinek a biztosításáért a tanulótól vagy a tanuló szülőjétől (gyámjától) nem kérhet és nem fogadhat el, a tanuló vagy a tanuló szülője (gyámja) pedig a gyakorlati képzést folytató szervezetnek nem adhat semmilyen pénzbeli, anyagi, természetbeni hozzájárulást vagy költségtérítést.
 
@@ -680,7 +697,8 @@ kezeli.
   - aa) költségvetési szervként működő intézmény,
   - ab) alapítvány, egyesület, egyházi jogi személy,
   - ac) ab) alpontban meghatározottak fenntartásában működő intézmény, továbbá
-- b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő.
+- b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő,
+- c) a vidékfejlesztésért felelős miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 
@@ -1040,7 +1058,7 @@ kezeli.
   - ec) a szakközépiskolákban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
 - f) kezdeményezi a közismereti tárgyak oktatásához a szakiskolákban, továbbá a szakközépiskolákban kötelezően alkalmazandó kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél, valamint
 - g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
-- h)
+- h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter az OKJ alapján hatáskörébe utalt szakképesítések tekintetében ellátja a szakképesítésért felelős miniszter 73. §-ban meghatározott feladatait.
 
@@ -1087,10 +1105,7 @@ kezeli.
 - b) működteti a nemzeti referencia és koordináló központot, valamint a szakképzési tájékoztatási és információs központot,
 - c) kezeli a komplex szakmai vizsgák adatait és a törzslapokat magába foglaló központi nyilvántartást, valamint az abban szereplő, a vizsgázóra vonatkozó természetes személyazonosító adatokat,
 - d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
-- e) ellátja a Felnőttképzési Akkreditáló Testület
-  - ea) hatáskörébe tartozó akkreditációs ügyek elbírálásának előkészítését,
-  - eb) titkársági feladatait,
-- f) nyilvántartást vezet az akkreditált intézményekről és programokról, valamint
+- e)–f)
 - g) vezeti az országos szakképzési névjegyzéket.
 
 (2) Az állami szakképzési és felnőttképzési szerv feladatainak ellátása során együttműködik a szakképesítésért felelős miniszter által vezetett minisztériummal, a 73. § (4) bekezdésében meghatározott kutató- és fejlesztő-szolgáltató intézetekkel és – az állami szakképzési és felnőttképzési szerv szakképzéssel összefüggő és köznevelést érintő feladatai tekintetében – a megyei, fővárosi kormányhivatalokkal.
@@ -1127,7 +1142,7 @@ kezeli.
 
 (6) A területileg illetékes gazdasági kamara az iskolarendszeren kívüli szakképzés tekintetében a felnőttképzésről szóló törvényben foglaltak szerint közreműködik a gyakorlati képzés ellenőrzésében.
 
-76. § (1)
+76. § (1) A gazdasági kamara – a pályaorientáció részletes szabályairól szóló kormányrendeletben meghatározottak szerint – közreműködik a pályaorientációval összefüggő, e törvényben meghatározott feladatok ellátásban.
 
 (2) A területileg illetékes gazdasági kamara a szakképző iskolával együttműködve ellátja a szintvizsga szervezését, továbbá a honlapján közzéteszi a szintvizsga-feladatbankot.
 
@@ -1200,16 +1215,15 @@ kezeli.
 
 (2) A bizottság közreműködik a munkaerő-piaci információk, a foglalkoztatási, foglalkoztathatósági adatok és prognózisok alapján a nemzetgazdasági igények és a szakképzés fejlesztésének összehangolásában.
 
-(3) A bizottság az (1) bekezdésben meghatározott feladatkörében javaslatot tesz a gazdaság igényeit és a munkaerő-piaci kereslet adatait, valamint az országos, regionális, fővárosi és megyei beiskolázást figyelembe véve a szakképzés fővárosi, megyei szükségleteire. A bizottság javaslatot tesz az adott megyében vagy a fővárosban folytatott szakképzésben indított, állami költségvetési hozzájárulásban részesíthető és a nem támogatott szakképesítésekre (a szakképzés irányaira) és a megyében és a fővárosban indítható szakképesítések keretszámaira (beiskolázási arányaira). A bizottság javaslattételi jogköre nem terjed ki a szakképzésért és felnőttképzésért felelős miniszter által rendeletben meghatározott, munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző, továbbá a honvédelmi és rendészeti szakképesítésekre.
+(3) A bizottság az (1) bekezdésben meghatározott feladatkörében javaslatot tesz a gazdaság igényeit és a munkaerő-piaci kereslet adatait, valamint az országos, regionális, fővárosi és megyei beiskolázásait figyelembe véve a szakképzés fővárosi, megyei szükségleteire. A bizottság javaslatot tesz az adott megyében vagy a fővárosban folytatott szakképzésben indított, állami költségvetési hozzájárulásban részesíthető és a nem támogatott szakképesítésekre (a szakképzés irányaira) és a megyében és a fővárosban indítható szakképesítések keretszámaira (beiskolázási arányaira), valamint az iskolarendszeren kívüli szakmai képzések közül az állam által elismert szakképesítés megszerzésére irányuló szakmai képzések vonatkozásában a felnőttképzésről szóló törvény alapján támogatható szakképesítésekre. A bizottság javaslattételi jogköre nem terjed ki a szakképzésért és felnőttképzésért felelős miniszter által rendeletben meghatározott, munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző, továbbá a honvédelmi és rendészeti szakképesítésekre.
 
-(4) A szakképzés irányaira és a beiskolázási arányokra vonatkozó javaslatot a bizottság
+(4) A szakképzés irányaira és a beiskolázási arányokra vonatkozó javaslatot a bizottság a felnőttoktatást is magába foglaló iskolai rendszerű szakképzésben az állam által elismert szakképesítésekre, és a szakközépiskolák ágazati képzéseire vonatkozóan a szakképzésért és felnőttképzésért felelős miniszter által meghatározott formai követelményeknek megfelelően teszi meg.
 
-- a) a felnőttoktatást is magába foglaló iskolai rendszerű szakképzésben az állam által elismert szakképesítésekre, és a szakközépiskolák ágazati képzéseire,
-- b) az iskolarendszeren kívüli szakképzésben az államháztartás vagy az európai uniós források által támogatott, állam által elismert szakképesítésekre vonatkozóan a szakképzésért és felnőttképzésért felelős miniszter által meghatározott formai követelményeknek megfelelően teszi meg.
+(5) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján, a fenntartók által részére megküldött javaslatok figyelembevételével.
 
-(5) A bizottság a (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján, a fenntartók által részére megküldött javaslatok figyelembevételével.
+(6) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
 
-(6) A bizottság (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
+(7) A bizottság az iskolarendszeren kívüli szakmai képzéseket érintő (3) bekezdés szerinti javaslatát a szakképesítésekre vonatkozó munkaerő-piaci kereslet és a hiány-szakképesítések figyelembevétele alapján, de évente legalább egy alkalommal teszi meg.
 
 82. § A bizottság
 
@@ -1220,7 +1234,7 @@ kezeli.
 - e) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő, a decentralizált kerettel kapcsolatos és az egyéb szakképzési pályázatok elkészítésében, javaslatot tesz a decentralizált keret megyék közötti keretére és prioritásaira, részt vesz a pályázat kiírásában és értékelésében, javaslatot tesz a decentralizált keret pályázatainak nyerteseire és az általuk elnyert összeg nagyságára,
 - f) fenntartói megkeresés esetén állást foglal a szakképzést érintő fenntartói döntések fővárosi, megyei munkaerő-piaci kereslettel összefüggő megalapozottságáról,
 - g) együttműködik a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával a szakképzési feladatok és a szakképzésfejlesztés tervezésében,
-- h)
+- h) közreműködik a pályaorientációs és a pályakövetési feladatok megvalósításában.
 
 83. § (1) A bizottság létszáma hét fő.
 
@@ -1278,15 +1292,45 @@ kezeli.
 
 #### 50. A pályaorientáció
 
-85. §
+85. § (1) Az életpálya-tanácsadási (pályaorientációs) szolgáltatás magában foglalja a pályainformáció-nyújtást, a pályaválasztási tanácsadást, a továbbtanulási tanácsadást, a professzionális pályatanácsadást, a foglalkoztatási és munkába állási tanácsadást, a pályakorrekciós tanácsadást és a kompetenciák fejlesztését, amely segíti a szolgáltatást igénybe vevő pályaválasztását, továbbtanulását, az egész életen át tartó tanulását és a munka világába történő bekapcsolódását az alapfokú iskolába történő felvételtől a munkaerőpiac elhagyásáig.
+
+(2) Az iskolai rendszerű szakképzésbe történő beiskolázást az életpálya-tanácsadási szolgáltatás segíti.
+
+(3) Az életpálya-tanácsadási szolgáltatás megvalósulhat egyéni tanácsadás, csoportos tanácsadás, távtanácsadás, valamint elérő program formájában.
+
+(4) Az életpálya-tanácsadás feladatainak ellátásában részt vesz az alapfokú iskolai oktatást nyújtó intézmény, a szakképző iskola, az iskolafenntartó, a gazdasági kamara, a munkaadói és munkavállalói érdekképviseletek, a megyei fejlesztési és képzési bizottság, valamint a nemzeti foglalkoztatási szerv. Az életpálya-tanácsadási szolgáltatást valamennyi érintett részére elérhetővé kell tenni.
+
+(5) Az iskolai rendszerű oktatásban és szakképzésben tanulók – kiskorú tanuló esetén a szülő (gyám) – részére egyenlő hozzáférést kell biztosítani az életpálya-tanácsadási szolgáltatásokhoz. Ennek keretében biztosítani kell, hogy a tanuló az iskolai előmenetele során, a továbbtanulási, iskolaváltási, iskolatípus-váltási, továbbá szakmaválasztási vagy szakmaváltási döntését megelőzően legalább egyszer személyre szabott életpálya-tanácsadási szolgáltatásban részesüljön.
+
+(6) Az életpálya-tanácsadási szolgáltatás a pályakövetési rendszer által szolgáltatott adatokon, valamint az alapfokú iskolai oktatást nyújtó intézmények és a szakképző iskolák pályaorientációs feladatellátásán alapul.
+
+(7) Az életpálya-tanácsadási szolgáltatás feladatainak ellátását a nemzeti foglalkoztatási szerv koordinálja.
+
+(8) Az életpálya-tanácsadási szolgáltatás feladatai ellátásának részletes szabályait kormányrendelet állapítja meg.
 
 #### 51. A pályakövetés
 
-86. §
+86. § (1) Az iskolai rendszerű képzésben részt vevő tanuló a komplex szakmai vizsgája sikeres befejezését követő három éven belül – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – adatot szolgáltat a pályakövetési rendszernek az iskolában megszerzett, államilag elismert szakképesítése hasznosulásával kapcsolatban, feltéve, hogy nem létesített foglalkoztatási jogviszonyt.
+
+(2) A szakképző iskola a pályakövetésről szóló kormányrendeletben meghatározottak szerint jelentés megküldésével szolgáltat adatot a pályakövetési rendszer működtetéséért felelős szerv részére a vele tanulói jogviszonyban állt tanulók komplex szakmai vizsgájával kapcsolatban. A jelentés tartalmazza a vizsgázó nevét, oktatási azonosító számát, a megszerzett szakképesítés megnevezését, a vizsga helyét és időpontját. Az adatok személyazonosításra alkalmatlan módon feldolgozhatók, iskolánként csoportosíthatók és nyilvánosságra hozhatók. Az adatok a megküldéstől számított harminc évig tárolhatók.
+
+(3) A szakképző iskola a honlapján – egyedi azonosításra alkalmatlan módon – nyilvánosságra hozza a szakképzési évfolyamon tanulmányaikat befejezők munkaerő-piaci helyzetével kapcsolatos, a pályakövetési rendszerben keletkezett adatokat, információkat.
+
+(4) Az iskolarendszeren kívüli képzésben a felnőttképzési intézmény az államháztartás vagy európai uniós források által támogatott képzése tekintetében a pályakövetésről szóló kormányrendeletben meghatározottak szerint szolgáltat adatot a pályakövetési rendszer működtetéséért felelős szerv részére.
+
+(5) Az iskolarendszeren kívüli, az államháztartás vagy európai uniós források által támogatott képzésben részt vevő felnőtt a képzés befejezését követő három éven belül – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – szolgáltat adatot a pályakövetési rendszer működtetéséért felelős szerv részére a képzéssel megszerzett szakképesítés vagy egyéb kompetencia hasznosulására vonatkozóan.
+
+(6) Ha a volt tanuló vagy iskolarendszeren kívüli képzésben részt vett felnőtt az adatszolgáltatás időpontjában vállalkozó vagy önfoglalkoztatóvá vált, közli a pályakövetési rendszer működtetéséért felelős szerv felé, hogy milyen vállalkozást, tevékenységet végez.
+
+(7) Ha a volt tanuló vagy az iskolarendszeren kívüli szakképzésben részt vett felnőtt foglalkoztatási jogviszonyt létesített, a foglalkoztató szolgáltat adatot a pályakövetési rendszer részére. Az adatszolgáltatás keretében közölni kell, hogy a volt tanulót milyen munkakörben foglalkoztatják, illetve milyen tevékenységet lát el.
+
+(8) Az Országos Egészségbiztosítási Pénztár és a Nemzeti Adó- és Vámhivatal – a pályakövetésről szóló kormányrendeletben meghatározottak szerint – a pályakövetési rendszer működtetéséhez szükséges adatokat szolgáltat a foglalkoztatottakról a pályakövetési rendszer működtetéséért felelős szervnek. A pályakövetési rendszer működtetéséért felelős szerv az adatokat kezelheti, feldolgozhatja és konkrét személyhez kapcsolás nélkül összekapcsolhatja a komplex szakmai vizsgákról kiadott bizonyítványok és az oktatási azonosítók adatbázisával.
+
+(9) A pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá a pályakövetési rendszer működtetéséért felelős szerv feladataira vonatkozó részletes szabályokat kormányrendelet állapítja meg.
 
 #### 52. A szakképzést folytató intézményekben nyilvántartott és kezelt adatok
 
-87. § (1) A szakképző iskolákban az alkalmazottak, továbbá a tanulók nyilvántartott és kezelt adatairól a nemzeti köznevelésről szóló törvény, az iskolarendszeren kívüli szakképzésben részt vevők kezelt adatairól a felnőttképzésről szóló törvény melléklete rendelkezik.
+87. § (1) A szakképző iskolákban az alkalmazottak, továbbá a tanulók nyilvántartott és kezelt adatairól a nemzeti köznevelésről szóló törvény, az iskolarendszeren kívüli szakképzésben részt vevők kezelt adatairól a felnőttképzésről szóló törvény rendelkezik.
 
 (2) A komplex szakmai vizsga adatai statisztikai célra felhasználhatók és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon, a szakképzésért és felnőttképzésért felelős miniszter által meghatározott szabályok szerint átadhatók.
 
@@ -1306,7 +1350,7 @@ kezeli.
 
 - a) az OKJ-t, az OKJ-ba történő felvétel és az OKJ-ból való törlés eljárási rendjét,
 - b) a szakmai követelménymodulokat,
-- c) a szakmai vizsgaszabályzatot, a komplex szakmai vizsgák szakmai ellenőrzésének általános szabályait, valamint a komplex szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait,
+- c) a szakmai vizsgaszabályzatot, a komplex szakmai vizsgák szakmai ellenőrzésének általános szabályait, a komplex szakmai vizsgák – személyes adatok körét nem érintő – adatait tartalmazó központi nyilvántartás vezetésének szabályait, valamint a modulzáró vizsgák szervezésének és lebonyolításának részletes szabályait,
 - d) a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 - e) a szakképzés megkezdésének és folytatásának feltételeit,
 - f) a szakképzési megállapodás tartalmát és megkötésének részletes szabályait,
@@ -1334,7 +1378,8 @@ kezeli.
 - d) a megyei fejlesztési és képzési bizottság működésének, tagjai delegálásának szabályait, a javaslattételének elveire, szempontjaira és módszereire vonatkozó előírásokat, továbbá azon művészeti, kulturális, kézműves és hagyományőrző szakképesítéseknek a körét, amelyekre a megyei fejlesztési és képzési bizottság javaslattételi jogköre a 81. § (3) bekezdése alapján nem terjed ki,
 - e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
 - f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket, valamint
-- g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket.
+- g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
+- h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait.
 
 90. § Felhatalmazást kap a szakképesítésért felelős miniszter, hogy az ágazatába tartozó szakképesítések tekintetében rendeletben határozza meg
 
@@ -1450,7 +1495,9 @@ kezeli.
 
 (35)
 
-92/A. § (1) A Kt. és az Szt. szabályai szerint, utolsó alkalommal a 2012/2013-as tanévben induló szakiskolai képzésben szervezett szintvizsgát az e törvény hatálybalépése előtti szabályok és a képzésre vonatkozó szakmai és vizsgakövetelményben meghatározottak szerint kell megszervezni. A szakiskolai tanuló nem kizárólag gyakorlati képzési célt szolgáló tanműhelyben – tanulószerződés keretében – folyó gyakorlati képzésben az e bekezdésben meghatározott szakmai és vizsgakövetelményben előírt szintvizsga teljesítését követően vehet részt.
+(36) Az 5. § (14) bekezdésében meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket és a 2013/2014-es tanévre 2013. szeptember 1. előtt beiskolázott tanulókat érintő képzéseket a szakképző iskola fenntartói jogainak a vidékfejlesztési miniszternek történő átadása és az 5. § (14) bekezdésében meghatározott szakképzési megállapodás megkötése nélkül is befejezheti. Ahol e § az 5. § (1)–(4) bekezdése szerint létrehozott vagy működő szakképző iskolát említ, azon az 5. § (15) bekezdése szerint működő szakképző iskolát is érteni kell.
+
+92/A. § (1) A Kt. és az Szt. szabályai szerint induló szakiskolai képzésben szervezett szintvizsgát az e törvény hatálybalépése előtti szabályok és a képzésre vonatkozó szakmai és vizsgakövetelményben meghatározottak szerint kell megszervezni. Az e bekezdésben meghatározott szakiskolai képzésben részt vevő tanuló a tizedik évfolyamtól az e bekezdésben meghatározott szakmai és vizsgakövetelményben előírt szintvizsga teljesítését megelőzően is részt vehet – tanulószerződés vagy együttműködési megállapodás keretében folyó – gyakorlati képzésben olyan gyakorlati képzőhelyen is, amely nem minősül kizárólag gyakorlati képzési célt szolgáló tanműhelynek. Az e bekezdésben meghatározott szakiskolai képzésben részt vevő kilencedik évfolyamos tanulóra alkalmazni kell a 26. § (1) bekezdésében foglaltakat.
 
 (2) A 25. § (1) bekezdése alkalmazásában a maximális csoportlétszám 2013. augusztus 31-ig tizenkettő fő.
 

@@ -26,6 +26,8 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (4) A NEBEK ellátja a Schengeni Információs Rendszer Kiegészítő Információinak Cseréjét Biztosító Nemzeti Hatóság (SIRENE Iroda) külön törvényben, illetőleg az Európai Unió jogi aktusában meghatározott feladatait.
 
+(5) A NEBEK a Rendőrség, valamint a Vám- és Pénzügyőrség (a továbbiakban: magyar együttműködő szerv) tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
+
 4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
 (1a) A NEBEK az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat alapján létrehozott Europol Információs Rendszerbe az alábbi személyekre vonatkozó személyes adatokat továbbíthatja:
@@ -55,7 +57,20 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 6. § (1) A magyar együttműködő szervnek a NEBEK útján történő adatszolgáltatás kezdeményezésekor közölnie kell az adat- vagy információszolgáltatás célját, az adat törlésére, megsemmisítésére vonatkozó szabályokat, illetőleg a tájékoztatási és helyesbítési (törlési) jog gyakorlásával kapcsolatos korlátozásokat.
 
-(2) A magyar együttműködő szerv által nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei, valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződés által érintett állam részére szolgáltatott információn, adaton – a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet, illetve a másik állam követelményeinek megfelelően – fel kell tüntetni az információ felhasználhatóságát.
+(2) A magyar együttműködő szervnek a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerhez (a továbbiakban: Vízuminformációs Rendszer) betekintés céljából történő hozzáférésre irányuló, a NEBEK útján történő adatszolgáltatást kezdeményező indokolt írásos vagy elektronikus úton továbbított kezdeményezésében az (1) bekezdésben foglaltak mellett fel kell tüntetnie
+
+- a) a konkrét ügy ügyiratszámát, amelyben szükséges a Büntető Törvénykönyvben meghatározott terrorcselekmény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása érdekében az adatszolgáltatás;
+- b) azokat a körülményeket, amelyek alapján valószínűsíthető, hogy a Vízuminformációs Rendszerből történő adatszolgáltatás jelentősen hozzájárulhat az adott bűncselekmények megelőzéséhez, felderítéséhez vagy nyomozásához;
+- c) azokat a körülményeket, amelyek megalapozzák a Vízuminformációs Rendszerből történő adatszolgáltatás szükségességét;
+- d) az a) pont szerinti bűncselekmény minősítését;
+- e) a betekintéshez szükséges, törvényben meghatározott egyéb adatokat, valamint
+- f) a betekintés céljából történő hozzáférés kezdeményezésére a magyar együttműködő szerv vezetője által feljogosított személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot.
+
+(3) A NEBEK a (2) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kérelem teljesítését megelőzően vizsgálni köteles.
+
+(4) Kivételesen sürgős esetben a NEBEK a magyar együttműködő szerv adatszolgáltatás kezdeményezésére vonatkozó szóbeli kérelmét is teljesítheti. Ebben az esetben a (2) bekezdésben foglalt feltételek teljesülését a kérelem teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálnia.
+
+(5) A magyar együttműködő szerv által nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei, valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződés által érintett állam részére szolgáltatott információn, adaton – a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet, illetve a másik állam követelményeinek megfelelően – fel kell tüntetni az információ felhasználhatóságát.
 
 7. § (1) A NEBEK a részére megküldött, az általa átvett vagy továbbított adatot a külön törvényben, az Európai Unió jogi aktusában vagy a nemzetközi szerződésben foglaltaktól eltérő célra nem használhatja fel. Az általa kezelt adatokat a külön törvény alapján az adat-, illetve információigénylésre, továbbá az adat-, illetve információ továbbításának kezdeményezésére jogosult szerv, valamint az adatvédelmi ellenőrző szerv kivételével más külföldi és hazai szervnek vagy személynek nem továbbíthatja, abból strukturált adatállományt csak akkor hozhat létre, ha ezt a vonatkozó nemzetközi szerződés vagy az Európai Unió jogi aktusa lehetővé teszi.
 
@@ -85,6 +100,23 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 (2) A NEBEK vezetője a Magyarország által kötött nemzetközi szerződés hatálya alá tartozó adat esetében feladat- és hatáskörében minősítésre jogosult.
 
 (3) A NEBEK tevékenységével kapcsolatos közérdekű adat nyilvánosságra hozatalát a NEBEK vezetője megtagadhatja, ha ezt bűnüldözési, bűnmegelőzési cél feltétlenül indokolttá teszi, ha külön törvény, az Európai Unió jogi aktusa vagy nemzetközi szerződés így rendelkezik, vagy ha a nemzetközi szervezet ezt kéri.
+
+(4) A NEBEK a lekérdezés jogszerűségének ellenőrzése, valamint az adatok sértetlenségének és biztonságának biztosítása céljából a Vízuminformációs Rendszerben végzett betekintés céljából történő hozzáférésekről adattovábbítási nyilvántartást vezet.
+
+(5) Az adattovábbítási nyilvántartásban foglalt adatokat a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében foglaltak szerint lehet felhasználni és azokat az ott meghatározott időszak elteltével törölni kell.
+
+(6) Az adattovábbítási nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) a betekintés pontos célja, beleértve a konkrét ügyben érintett – a 6. § (2) bekezdés a) pontja szerinti – bűncselekmény megnevezését is;
+- b) a kérelem szerinti ügy ügyiratszámát;
+- c) a hozzáférés dátumát és pontos időpontját;
+- d) a 6. § (4) bekezdés szerinti sürgős eljárásra történő utalást;
+- e) a betekintéshez szükséges, a kérelemben szereplő adatokat;
+- f) a megtekintett adatok típusát;
+- g) a NEBEK által a keresés végrehajtására felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot; valamint
+- h) a magyar együttműködő szerv vezetője által a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személy számára a VIS nemzeti központi hatóság részéről biztosított azonosító kódot.
+
+(7) A NEBEK – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.
 
 ### II. Fejezet
 

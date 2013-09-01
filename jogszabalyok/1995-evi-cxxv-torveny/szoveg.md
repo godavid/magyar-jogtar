@@ -172,6 +172,25 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat belső bűnmegelőzési és bűnfelderítési ellenőrzését a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
+11/A. § (1) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal, a honvédelemért felelős miniszter a Katonai Nemzetbiztonsági Szolgálat tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
+
+(2) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint a honvédelemért felelős miniszter a lekérdezés jogszerűségének ellenőrzése, valamint az adatok sértetlenségének és biztonságának biztosítása céljából a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) végzett betekintés céljából történő hozzáférésekről adattovábbítási nyilvántartást vezet.
+
+(3) Az adattovábbítási nyilvántartásban foglalt adatokat a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében foglaltak szerint lehet felhasználni és azokat az ott meghatározott időszak elteltével törölni kell.
+
+(4) Az adattovábbítási nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) a betekintés céljából történő hozzáférés pontos célját, beleértve a konkrét ügyben érintett – 45. § (2) bekezdés szerinti bűncselekmény – megnevezését is,
+- b) a betekintés céljából történő hozzáférésre irányuló kezdeményezés szerinti ügy ügyiratszámát,
+- c) a hozzáférés dátumát és pontos időpontját,
+- d) a sürgős eljárásra történő utalást,
+- e) a betekintés céljából történő hozzáféréshez szükséges, a kezdeményezésben szereplő adatokat,
+- f) a megtekintett adatok típusát,
+- g) a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter által a keresés végrehajtására felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot, valamint
+- h) az Alkotmányvédelmi Hivatal, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatója által a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot.
+
+(5) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint a honvédelemért felelős miniszter – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.
+
 12. § (1) A nemzetbiztonsági szolgálatok élén főigazgatók állnak, akiket a miniszter előterjesztésére a miniszterelnök nevez ki, és ment fel.
 
 (2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.
@@ -456,7 +475,47 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (4) Az adatszolgáltatást kérő szervek felelősek az átvett adatoknak az e törvényben, illetve az adatkezelésre vonatkozó jogszabályokban foglaltak szerinti kezeléséért, kötelesek az átvett adatokat, azok felhasználását nyilvántartani és kérésre a nemzetbiztonsági szolgálat számára arról tájékoztatást adni.
 
-45. § A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
+45. § (1) A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
+
+(2) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkörét is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatokat irányító miniszterhez, a polgári hírszerzési tevékenység irányításáért felelős miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
+
+(3) A (2) bekezdés szerinti betekintés céljából történő hozzáférést írásban vagy elektronikus úton abban az esetben lehet kezdeményezni, ha
+
+- a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető, hogy a betekintés céljából történő hozzáférés útján megismerhető adat nélkül a (2) bekezdésben meghatározott valamely bűncselekmény megelőzése, felderítése vagy az e cselekményekkel összefüggő információszerzés érdemben nem biztosítható;
+- b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
+
+(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
+
+- a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
+- b) az eljáró hatóság megnevezése, az egyedi ügy ügyiratszáma, a kezdeményezésre jogosult neve és a VIS nemzeti központi hatóság által biztosított azonosító kódja,
+- c) a kezdeményezés alapjául szolgáló bűncselekmény minősítése, továbbá
+- d) a kezdeményezéssel igényelt adat megnevezése és minden egyes igényelt adat tekintetében az arra vonatkozó indokolás, hogy fennáll a (3) bekezdés a) pontjában foglalt feltétel.
+
+(5) A kezdeményezésben a lekérdezésre szolgáló alábbi adatok alapján a (4) bekezdés d) pontjában foglaltak szerinti adatok megismeréséhez meg kell jelölni az alábbi adatkörök közül azt, amelyre a betekintés útján való hozzáférés történik:
+
+- a) családi név, születéskori családi név (korábbi családi név); utónevek; nem; születési idő, hely és ország,
+- b) jelenlegi állampolgárság és a születéskori állampolgárság,
+- c) az úti okmány típusa és száma, a kiállító hatóság, valamint a kiállítás és a lejárat időpontja,
+- d) fő úti cél és a tartózkodás tervezett időtartama,
+- e) az utazás célja,
+- f) az érkezés és az indulás tervezett időpontja,
+- g) az első belépés szerinti tervezett határ vagy tranzitútvonal,
+- h) lakóhely,
+- i) ujjnyomatok,
+- j) a vízum típusa és a vízumbélyeg száma,
+- k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
+
+(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
+
+(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
+
+(8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
+
+- a) a vízumkérdőívről származó egyéb adat,
+- b) a fénykép, és
+- c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vagy meghosszabbított – vízummal kapcsolatos adat.
+
+(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az Alkotmányvédelmi Hivatal, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.
 
 46. § A nemzetbiztonsági szolgálatok a személyes adatok továbbításáról nyilvántartást vezetnek, amely tartalmazza
 

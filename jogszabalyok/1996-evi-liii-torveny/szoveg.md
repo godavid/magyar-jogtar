@@ -1111,7 +1111,7 @@ természetvédelmi bírságot köteles fizetni.
 
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
 
-- 1. a nem halászható (horgászható) fajokat, a halászati (horgászati) tilalmakat és a fajok szerinti tilalmi időket;
+- 1.
 - 2. a védett régi hazai háziállatfajok és fajták megőrzésére, egyedei törzskönyvezésére vonatkozó szabályokat, tenyésztési és teljesítményvizsgálati elveket.
 
 #### 85/A. §

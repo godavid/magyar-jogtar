@@ -239,6 +239,8 @@ köthet.
 
 (8) Az egészségügyi közszolgáltatásért felelős szerv az (1) bekezdés a) pontja szerinti megállapodás, illetve az (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés megszűnésének tényét legkésőbb a megszűnés várható időpontját megelőző 15. napig, a 2/E. § (2) vagy (5) bekezdése alapján történő felmondás esetében pedig a felmondással egyidejűleg bejelenti az egészségügyi államigazgatási szervnek.
 
+(8a) A (7), illetve a (8) bekezdés szerinti bejelentési kötelezettség nem teljesítése esetén – az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározottak szerinti – egészségügyi bírság kiszabásának van helye.
+
 (9) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki az (1) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
 
 (10) Ha egészségügyi szolgáltatónál megállapodással, illetve egészségügyi ellátási szerződéssel érintett feladathoz kapcsolódva jön létre, illetve kerül befogadásra e törvény alapján kapacitás, az – figyelemmel a (2) bekezdésben foglaltakra – a szakellátási feladatot átadó egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok ellátására szolgál.

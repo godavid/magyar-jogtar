@@ -8,7 +8,9 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 4. § (1)–(2)
 
-(3)
+(3) Az Ehi. 13/A. §-a a következő (1b) bekezdéssel egészül ki:
+
+„(1b) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv által kiadott engedély előírásait az engedély jogosultja nem tartja be.
 
 5–8. §
 
@@ -174,21 +176,47 @@ lép.
 
 86–89. §
 
-90. §
+90. § Hatályát veszti a Kbtv. 31/B. §-a.
 
 #### 9. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
-91. §
+91. § (1) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 11/A. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.”
+
+(2) Az Eütev. 11/A. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A 17. § (7) bekezdésében meghatározott kivétellel az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
+
+a) az orvos munkakörben foglalkoztatott egészségügyi dolgozó részére a (4) bekezdés alapján,
+
+b) a (6) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6) bekezdés alapján és
+
+c) a (6a) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6a) bekezdés alapján
+
+járó bért, illetve illetményt kell folyósítani. Ha a szakképzésben részt vevő foglalkoztatására heti 36 órát elérő időben, tartós megbízási szerződés alapján vagy vállalkozói jogviszonyban kerül sor, e rendelkezéseket az egészségügyi dolgozó havi megbízási vagy vállalkozói díjazására kell alkalmazni.”
 
 92. §
 
-93. §
+93. § Az Eütev. 17. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő személynek a képzés ideje alatt, önkéntes segítői jogviszonyban végzett egészségügyi tevékenysége – a költségtérítéses képzésben részt vevő nem magyar állampolgár, valamint hontalanként elismert személy kivételével – a képzés megszerzéséhez szükséges szakmai gyakorlatként nem ismerhető el.”
 
 94. §
 
-95. §
+95. § Az Eütev. 30. §-a helyébe a következő rendelkezés lép:
 
-96. §
+„30. § Az egészségügyi szolgáltató a 11/A. § és a 29/B. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.”
+
+96. § Az Eütev. 31. §-a helyébe a következő rendelkezés lép:
+
+„31. § A Hjt. hatálya alá tartozók esetében, ahol a 29–30. §
+
+a) „alapbért (illetményt)” említ, ott „távolléti díjat”, ahol „illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét”,
+
+b) „különösen az illetménykiegészítés”-t említ, ott „különösen a Hjt. 123. § (3) bekezdése szerinti beosztási illetménykiemelés”-t
+
+kell érteni.”
 
 97. §
 
@@ -196,11 +224,11 @@ lép.
 
 99. § (1) Hatályát veszti az Eütev.
 
-- a)
+- a) 29. § (1)–(15) és (17)–(20) bekezdése,
 - b)
 - c)
 
-(2)
+(2) Hatályát veszti az Eütev. 1/a. és 3. melléklete.
 
 #### 10. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 

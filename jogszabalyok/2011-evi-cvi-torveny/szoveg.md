@@ -47,6 +47,25 @@ kerül sor,
 - a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 - b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
 
+(4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
+
+- a) a tanköteles gyermekének mulasztása miatt vele szemben
+  - aa) szabálysértési eljárás van folyamatban, vagy
+  - ab) e szabálysértés miatt három hónapon belül jogerősen elmarasztalták, vagy
+- b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
+
+(4b) A hivatalból folytatott közigazgatási eljáráshoz a (4a) bekezdés aa) pontjában meghatározott kizárási okról vagy annak hiányáról megkeresésre az általános szabálysértési hatóság, a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) részére.
+
+(4c) A (4a) bekezdés ab) pontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a kirendeltség adatot igényelhet a szabálysértési nyilvántartásból.
+
+(4d) A kizárás kérdésében első fokon a kirendeltség, másodfokon a munkaügyi központ hatósági határozattal dönt.
+
+(4e) Amennyiben a közfoglalkoztatási jogviszony létrehozását követően értesül a kirendeltség a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
+
+(4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
+
+(4g) A (4f) bekezdés hatálya alá tartozó közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, amennyiben a közfoglalkoztatottal szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.
+
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
 (2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam.
@@ -114,7 +133,7 @@ vonatkozó szabályai nem alkalmazhatók,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 - e) az Mt. 58. §-át azzal az eltéréssel kell alkalmazni, hogy a szerződés módosítása nem irányulhat a közfoglalkoztatási jogviszony 12 hónapon túli meghosszabbítására, valamint a közfoglalkoztatottnak a közfoglalkoztatási szerződésben meghatározott program helyett más típusú közfoglalkoztatási támogatási programba történő áthelyezésére,
 - f) az Mt. 59–62. §-a nem alkalmazható,
-- g) az Mt. 64. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak,
+- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, amennyiben jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta.
 - h) az Mt. 70. §-a nem alkalmazható,
 - i) az Mt. 79. § (2) bekezdése nem alkalmazható,
 - j) az Mt. 81. §-a, 82. § (3) és (4) bekezdése, továbbá 83. §-a és 84. §-a nem alkalmazható,
@@ -144,11 +163,15 @@ vonatkozó szabályai nem alkalmazhatók,
 
 4. § A közfoglalkoztatási jogviszonyra a munkaviszonyra irányadó társadalombiztosítási, adózási, munkavédelmi szabályokat kell alkalmazni.
 
-4/A. § (1) Amennyiben több hátrányos helyzetű személy egy közfoglalkoztatónál áll legalább kétéves időtartamban közfoglalkoztatási jogviszonyban, és a közfoglalkoztatottak vállalják, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet együtt fognak dolgozni, a közfoglalkoztatás során használt ingó tárgyi eszközöket az általuk megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti. A közfoglalkoztató javaslatára a legalább kétéves közfoglalkoztatási jogviszony követelménye alól a közfoglalkoztatásért felelős miniszter felmentést adhat.
+4/A. § (1) Amennyiben több hátrányos helyzetű személy egy közfoglalkoztatónál áll legalább egyéves időtartamban közfoglalkoztatási jogviszonyban, és a közfoglalkoztatottak vállalják, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet együtt fognak dolgozni, a közfoglalkoztatás során használt ingó tárgyi eszközöket az általuk megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
 (2) Amennyiben a hátrányos helyzetű személy képzési programmal egybekötött mezőgazdasági célú közfoglalkoztatásban eredményesen vesz részt, és vállalja, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet fog dolgozni, a képzési programmal összefüggésben használt ingó tárgyi eszközöket az általa megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
 (3) Az (1) és (2) bekezdésben foglalt esetekben a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére a termőföldet, a közfoglalkoztató az állatállományt haszonkölcsön-szerződés alapján ingyenesen használatba adhatja. Az ilyen haszonkölcsön-szerződés esetében a termény és a szaporulat a szociális szövetkezet tulajdonába kerül.
+
+(3a) Az (1)–(3) bekezdésben említett haszonkölcsön-szerződésben a szociális szövetkezet vállalja, hogy a hasznosításra kapott eszközök hasznosításával kapcsolatos döntések meghozatala előtt, az arra jogosult szövetkezeti szerv vagy személy a kijelölt állami képviselő véleményét kikéri. Ha a szociális szövetkezet a szerződésben vállalt ezen kötelezettségét megsérti, a haszonkölcsön-szerződést azonnali hatállyal fel kell mondani.
+
+(3b) A szociális szövetkezetbe az állami képviselőt a haszonkölcsön szerződés lejártáig lehet kijelölni. Az állami képviselőt a közfoglalkoztatásért felelős miniszter jelöli ki.
 
 (4) Az ingyenes használat időtartama termőföld esetében a tíz évet nem haladhatja meg. Az ingó tárgyi eszköz két év ingyenes használat után visszakerül a kölcsönadóhoz, kivéve, ha a közfoglalkoztató és a szociális szövetkezet az ingyenes használat időtartamának meghosszabbításában megállapodik. Az állatállomány két év ingyenes használat után a szociális szövetkezet tulajdonába kerül.
 
@@ -308,3 +331,5 @@ vonatkozó szabályai nem alkalmazhatók,
 - d)
 
 59. § Nem lép hatályba az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 24. § (1) bekezdése.
+
+60. § E törvénynek a szociális szövetkezetekkel összefüggésben egyes törvények, továbbá a közfoglalkoztatáshoz kapcsolódó egyes törvények módosításáról szóló 2013. évi XLI. törvénnyel megállapított 4/A. § (1) bekezdésének rendelkezéseit a 2013. szeptember 1-jét megelőzően létesített közfoglalkoztatási jogviszonyok esetén is alkalmazni kell.

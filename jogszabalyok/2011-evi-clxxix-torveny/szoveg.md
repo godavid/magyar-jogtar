@@ -160,7 +160,9 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 (3) A nemzetiséghez tartozó gyermek – a szülője vagy gyámja (a továbbiakban együtt: szülő) döntésétől függően – anyanyelvű, nemzetiségi két tanítási nyelvű, nemzetiségi nyelvoktató vagy roma nemzetiségi köznevelésben vehet részt. A roma nemzetiségi nevelés, nevelés-oktatás folyhat kizárólag magyar nyelven, de a szülők igényei alapján az intézményfenntartó köteles biztosítani a roma nyelv (romani, illetve beás) oktatását is. A 14. életévét betöltött, nem cselekvőképtelen gyermek esetében a szülő e választási jogát gyermekével közösen gyakorolja, a köznevelési intézménybe történő beiratkozáskor.
 
-(4)–(5)
+(4) A nemzetiség anyanyelvű vagy anyanyelvi nevelése, nevelése-oktatása a helyi lehetőségek és igények szerint nemzetiségi óvodában, iskolában, iskolai osztályban vagy csoportban történhet.
+
+(5) A településen meg kell szervezni és fenn kell tartani a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelés-oktatást – a roma nemzetiség esetében a (3) bekezdés szerinti igénynek megfelelően – ha ezt ugyanahhoz a nemzetiséghez tartozó nyolc (gyermek) tanuló szülője a fenntartótól kérte, és az óvodai csoport, iskolai osztály a nemzeti köznevelésről szóló törvény rendelkezései alapján megszervezhető. Ha a tanulólétszám nem teszi lehetővé a nemzetiségi óvodai nevelés, iskolai nevelés-oktatás egy településen belüli megszervezését, az érintett országos önkormányzat kezdeményezésére a feladatellátásra köteles szerv megteremti a kiegészítő nemzetiségi nevelés-oktatás feltételeit. A kiegészítő nemzetiségi nevelés-oktatást az országos nemzetiségi önkormányzat maga is megszervezheti.
 
 23. § (1) A köznevelés és a felsőoktatás törvényi szabályozása, az oktató-nevelő tevékenység szerkezetének és tartalmának meghatározása, valamint e tevékenység ellenőrzése során e törvénnyel összhangban érvényesíteni kell a nemzetiségek kulturális autonómiájának megfelelő nevelési és oktatási érdekeket.
 
@@ -1237,45 +1239,23 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2)–(3)
 
-(4) A feladatellátásra köteles helyi önkormányzatnak, állami szervnek meg kell szerveznie a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelést és oktatást, ha ezt ugyanahhoz a nemzetiséghez tartozó 8 tanuló szülője kérte, és az óvodai csoport, iskolai osztály a közoktatási törvény rendelkezései alapján megszervezhető. Ha a tanulólétszám nem teszi lehetővé a nemzetiségi oktatás egy településen belüli megszervezését, az érintett országos önkormányzat kezdeményezésére a megyei (fővárosi) önkormányzat megteremti a kiegészítő kisebbségi oktatás feltételeit.
+(4)
 
 (5)
 
-161. § A 163. § szerinti nemzetiségi anyanyelvű vagy anyanyelvi oktatás többletköltségét – törvényben meghatározott módon – az állam viseli.
+161. §
 
 162. § (1)
 
-(2) A roma nemzetiségi oktatás folyhat kizárólag magyar nyelven, de a szülők igényei alapján az oktatási intézmény biztosítja a roma nyelv (romani, illetve beás) oktatását is.
+(2)
 
 (3)
 
-163. § (1) A nemzetiségi oktatásra irányuló igények felmérésében és az oktatás megszervezésében az állami, helyi és a nemzetiségi önkormányzatok együttműködnek.
-
-(2) A nemzetiségek anyanyelvű és anyanyelvi oktatásához az anyanyelvű pedagógusok képzésének, továbbképzésének biztosítása állami feladat.
-
-(3) Az állam nemzetközi egyezmények révén is gondoskodik arról, hogy a nemzetiséghez tartozók a nemzetiségek nyelvén oktató, kultúrájukat ápoló külföldi intézményekben vegyenek részt teljes, rész-, illetve tovább- és tudományos képzésben.
-
-(4) A (2) bekezdésben foglaltak teljesítése céljából az állam támogatja a nemzetiségek anya-, illetve nyelvországából érkező oktatók magyarországi vendégtanári alkalmazását.
-
-(5) A nemzetiséghez tartozó által az anyaországban szerzett egyetemi vagy főiskolai oklevél, továbbá az iskolai végzettséget vagy szakképzettséget tanúsító bizonyítvány nemzetközi szerződésben, illetve jogszabályban meghatározottak szerint a Magyarországon szerzett megfelelő oklevéllel, bizonyítvánnyal egyenértékű.
+163. §
 
 164. § (1)
 
-(2) Az országos nemzetiségi önkormányzat 2012. augusztus 31. napját megelőzően kelt megkeresésére a települési önkormányzati intézményfenntartó – az oktatásért felelős miniszter hozzájárulása mellett – köteles átadni az országos nemzetiségi önkormányzat részére annak a nemzetiségi feladatokat ellátó közoktatási intézménynek a fenntartói jogát, amelynek működési feltételeit a helyi önkormányzat a költségvetési helyzete miatt nem képes tovább biztosítani. Az országos nemzetiségi önkormányzat kezdeményezésére az oktatásért felelős miniszter a közoktatási intézmény fenntartói jogának tanév közbeni, azonnali átadásához is hozzájárulhat, amennyiben az érintett nevelési-oktatási intézmény az adott nemzetiséggel kapcsolatos közoktatási feladatok szempontjából kiemelkedő jelentőséggel bír és az átadás nem halasztható. A nemzetiségi jogokkal összefüggő egyes törvények módosításáról szóló 2012. évi CLXXXII. törvény hatálybalépéséig megállapodással le nem zárt eljárás esetén az oktatási intézmény fenntartói jogának átadásáról szóló megállapodást a kormányhivatal a nemzetiségi jogokkal összefüggő egyes törvények módosításáról szóló 2012. évi CLXXXII. törvény hatálybalépését követő 3 napon belül létrehozza.
-
-(3) A fenntartói jog (2) bekezdés szerinti átadás-átvétele során a kormányhivatal – az államháztartás működési rendjére vonatkozó szabályok szerint, valamint e törvény 140–141. §-a rendelkezéseire figyelemmel – a tényleges birtokba adásról jegyzőkönyvet vesz fel. Az eljárás során érvényesnek kell tekinteni a 2012. augusztus 31. napját megelőzően kelt megkereséshez csatolt, az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét. Az átadásra egyebekben e törvény 24–32. §-ában, valamint a köznevelési törvényben foglaltakat alkalmazni kell.
-
-(4) Az országos nemzetiségi önkormányzat a (2)–(3) bekezdés szerint átvett nemzetiségi nevelési-oktatási intézménye után 2013. évben állami költségvetési támogatásra 2013. január 1-jétől válik jogosulttá, ha az átvett nevelési-oktatási intézmény működési engedélyének jogerőre emelkedését követő 15 napon belül megküldi a Magyar Államkincstár fenntartó székhelye szerint illetékes megyei igazgatóság (a továbbiakban: Igazgatóság) számára
-
-- a) az új nevelési-oktatási intézmény adószámát, valamennyi bankszámláját, képviselőjének közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát, a nyilvántartásba vételéről szóló határozatot, a jogerős működési engedélyt, és valamennyi fizetési számlájára vonatkozó felhatalmazó levelét beszedési megbízás benyújtására,
-- b) a nevelési-oktatási intézményt átadó települési önkormányzat által összeállított és megküldött költségvetési támogatásonkénti létszámadatokat tartalmazó kimutatást,
-- c) a Magyar Államkincstár honlapján közzétett 2012. októberi igénylő adatlapot.
-
-(5) Az országos nemzetiségi önkormányzat a 2013. január–április hónapokra a (4) bekezdés szerinti adatok alapján előlegként kapja meg a költségvetési támogatást. Az Igazgatóság a megállapított előleget, annak utalványozását követő öt munkanapon belül folyósítja.
-
-(6) Az előleg megállapításakor nem kell a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit alkalmazni.
-
-(7) A (4)–(6) bekezdésben nem szabályozott kérdésekben az egyházi jogi személyre vonatkozó finanszírozási szabályokat kell alkalmazni.
+(2)–(7)
 
 (8)–(17)
 

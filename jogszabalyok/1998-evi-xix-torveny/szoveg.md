@@ -157,15 +157,15 @@ a büntetőeljárásról
 - h) az állam elleni bűncselekmények (Btk. XXIV. Fejezet);
 - i) a minősített adat és a nemzeti adatvagyon elleni bűncselekmények (Btk. XXV. Fejezet);
 - j) a fogolyzendülés (Btk. 284. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 289. §);
-- k) a korrupciós bűncselekmények (Btk. XXVII. Fejezet);
-- l) a hivatali bűncselekmények (Btk. XXVIII. Fejezet);
+- k) az 554/B. § b) pontja szerinti korrupciós bűncselekmények az ott meghatározott esetekben;
+- l) a hivatali visszaélés (Btk. 305. §);
 - m) a nemzetközileg védett személy elleni erőszak (Btk. 313. §);
 - n) a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a különösen nagy vagy ezt meghaladó kárt okozva elkövetett közveszély okozása [Btk. 322. § (2) bekezdés b) pont], a különösen nagy vagy a különösen jelentős kárt okozva elkövetett közérdekű üzem működésének megzavarása [Btk. 323. § (2) bekezdés c) pont és (3) bekezdés c) pont];
 - o) a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §);
 - p) a választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény (Btk. 350. §);
 - q) a különösen nagy vagy ezt meghaladó értékre elkövetett kifosztás [Btk. 366. § (3) bekezdés a) pont];
-- r) a különösen nagy vagy a különösen jelentős értékre elkövetett lopás [Btk. 370. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy a különösen jelentős kárt okozó rongálás [Btk. 371. § (5) és (6) bekezdés], a különösen nagy vagy a különösen jelentős értékre elkövetett sikkasztás [Btk. 372. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy a különösen jelentős kárt okozó csalás [Btk. 373. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (3) bekezdés a) pont, (4) és (5) bekezdés], a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó hűtlen kezelés [Btk. 376. § (5) bekezdés a) pont és (6) bekezdés], a különösen nagy vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés [Btk. 377. § (2) bekezdés], a különösen nagy vagy a különösen jelentős értékre elkövetett orgazdaság [Btk. 379. § (5) bekezdés a) pont és (6) bekezdés];
-- s) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (4) bekezdés b) és c) pont], a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértése [Btk. 388. § (3) bekezdés b) és c) pont];
+- r) a különösen jelentős értékre elkövetett lopás [Btk. 370. § (6) bekezdés a) pont], a különösen jelentős kárt okozó rongálás [Btk. 371. § (6) bekezdés], a különösen jelentős értékre elkövetett sikkasztás [Btk. 372. § (6) bekezdés a) pont], a különösen jelentős kárt okozó csalás [Btk. 373. § (6) bekezdés a) pont], különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (4) bekezdés a) pont és (5) bekezdés], a különösen jelentős vagyoni hátrányt okozó hűtlen kezelés [Btk. 376. § (6) bekezdés a) pont], a különösen nagy vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés [Btk. 377. § (2) bekezdés], a különösen jelentős értékre elkövetett orgazdaság [Btk. 379. § (6) bekezdés a) pont];
+- s) a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 385. § (4) bekezdés c) pont], a különösen jelentős vagyoni hátrányt okozó iparjogvédelmi jogok megsértése [Btk. 388. § (3) bekezdés c) pont];
 - t) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó költségvetési csalás [Btk. 396. § (4) bekezdés a) pont és (5) bekezdés] és az ezzel összefüggésben elkövetett költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása (Btk. 397. §);
 - u) a pénzmosás (Btk. 399. §);
 - v) a bennfentes kereskedelem (Btk. 410. §), a tőkebefektetési csalás (Btk. 411. §) és a piramisjáték szervezése (Btk. 412. §);
@@ -683,11 +683,14 @@ bírálja el.
 
 ### Soron kívüli eljárás
 
-64/A. § A büntetőeljárást soron kívül kell lefolytatni
+64/A. § (1) A büntetőeljárást soron kívül kell lefolytatni a következő esetekben:
 
-- a) a kiskorú sértett sérelmére elkövetett, az élet, a testi épség és az egészség elleni bűncselekmény (Btk. XV. Fejezet), a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény (Btk. XIX. Fejezet) vagy a gyermekek érdekét sértő és a család elleni bűncselekmény (Btk. XX. Fejezet) miatt,
-- b) az a) pontban meghatározottakon kívül más, személy elleni erőszakos bűncselekmény miatt, ha a kiskorú sértett érdeke a büntetőeljárás mielőbbi befejezését indokolja, így különösen akkor, ha a sértett testi, értelmi vagy erkölcsi fejlődését a bűncselekmény jelentősen veszélyeztette, illetve ha a terhelt az eljárás lefolytatásakor is ellátja a sértett nevelését, felügyeletét vagy gondozását, vagy egyébként is a sértett környezetében él,
-- c) az 554/B. § szerinti kiemelt jelentőségű ügyben.
+- a) ha a terhelt előzetes letartóztatásban van,
+- b) a kiskorú sértett sérelmére elkövetett, az élet, a testi épség és az egészség elleni bűncselekmény (Btk. XV. Fejezet) miatt, a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény (Btk. XIX. Fejezet) miatt, a gyermekek érdekét sértő és a család elleni bűncselekmény (Btk. XX. Fejezet) miatt vagy más, személy elleni erőszakos bűncselekmény miatt, ha a kiskorú sértett érdeke – így különösen akkor, ha a sértett testi, értelmi vagy erkölcsi fejlődését a bűncselekmény jelentősen veszélyeztette, illetve ha a terhelt az eljárás lefolytatásakor is ellátja a sértett nevelését, felügyeletét vagy gondozását, vagy egyébként is a sértett környezetében él – a büntetőeljárás mielőbbi befejezését indokolja,
+- c) a megismételt eljárásban (XVI. Fejezet),
+- d) ha a terhelttel szemben távoltartást rendeltek el (138/A. § és 138/B. §), ha a terhelt mentelmi jogát, illetve diplomáciai vagy a nemzetközi jogon alapuló más mentességét felfüggesztették (XXVIII. Fejezet), kiemelt jelentőségű ügyben (XXVIII/A. Fejezet), a 408. § (1) bekezdés e) pontja alapján előterjesztett perújítási indítvány alapján elrendelt perújítási eljárásban, továbbá az Országos Bírósági Hivatal elnökének határozata vagy a bíróság elnökének rendelkezése alapján.
+
+(2) Az eljárás soron kívüli lefolytatása során az (1) bekezdés szerinti sorrendet kell figyelembe venni azzal, hogy a d) pontban meghatározott eljárások lefolytatásának sorrendjét az ügyek érkezésének időpontja határozza meg.
 
 ### Az igazolás
 
@@ -1552,7 +1555,7 @@ az előzetes letartóztatás indokoltságát felülvizsgálja.
 
 kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott előzetes letartóztatás esetét, továbbá ha az ügyben harmadfokú bírósági eljárás vagy hatályon kívül helyezés folytán megismételt eljárás van folyamatban.
 
-(4) Ha a terhelt az előzetes letartóztatás (3) bekezdése szerinti megszűnését követően elrendelt lakhelyelhagyási tilalom, illetőleg házi őrizet szabályait megszegi, az előzetes letartóztatása ismét elrendelhető. Ekkor az előzetes letartóztatás (3) bekezdés szerinti tartamát az előzetes letartóztatás ismételt elrendelésének napjától kell számítani.
+(4) Ha a terhelt az előzetes letartóztatás (3) bekezdés szerinti megszűnését követően elrendelt lakhelyelhagyási tilalom, illetve házi őrizet szabályait megszegi, az előzetes letartóztatása ismét elrendelhető. A lakhelyelhagyási tilalom, illetve a házi őrizet szabályai megszegésének minősül az is, ha a terhelt a mozgását nyomon követő technikai eszköz működését akadályozza. Ebben az esetben az előzetes letartóztatás (3) bekezdés szerinti tartamát az előzetes letartóztatás ismételt elrendelésének napjától kell számítani.
 
 (5) A nyomozó hatóság előzetes letartóztatás indítványozása iránti előterjesztésének részletesen tartalmaznia kell azokat a körülményeket, amelyek a 129. § (2) bekezdésében meghatározott feltételek valamelyikének fennállását megalapozzák.
 
@@ -1584,7 +1587,7 @@ a bíróság – a vádirat benyújtásáig az ügyész indítványára – a v�
 
 ### Soron kívüli eljárás, az előzetes letartóztatás megszüntetése
 
-136. § (1) A bíróságnak, az ügyésznek, illetőleg a nyomozó hatóságnak arra kell törekednie, hogy az előzetes letartóztatás a lehető legrövidebb ideig tartson. Ha a terhelt előzetes letartóztatásban van, az eljárást soron kívül kell lefolytatni.
+136. § (1) A bíróságnak, az ügyésznek, illetve a nyomozó hatóságnak arra kell törekednie, hogy az előzetes letartóztatás a lehető legrövidebb ideig tartson.
 
 (2) Az előzetes letartóztatás megszűnik, ha a tartama meghosszabbítás vagy fenntartás nélkül lejárt, az eljárást jogerősen befejezték, a nyomozást megszüntették, annak határideje lejárt és az előzetes letartóztatást a bíróság a (3) bekezdés alapján nem hosszabbította meg, továbbá, ha a vádemelést elhalasztották. Az előzetes letartóztatást meg kell szüntetni, ha az elrendelésének oka megszűnt.
 
@@ -1622,7 +1625,7 @@ a bíróság – a vádirat benyújtásáig az ügyész indítványára – a v�
 
 (3) Házi őrizet elrendelése esetén e kényszerintézkedés elrendelésére, tartamára, illetőleg fenntartására, valamint megszüntetésére az előzetes letartóztatás elrendelésére, meghosszabbítására, illetőleg fenntartására, valamint megszüntetésére vonatkozó rendelkezéseket [130. § (1) bek., 131. §, 132. § (1) és (2) bek., 136. § (2)–(4) bek.] kell alkalmazni.
 
-(4) A bíróság úgy rendelkezhet, hogy a házi őrizet előírásainak megtartását a rendőrség – a terhelt hozzájárulásával – a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. A házi őrizet előírásai megtartásának ellenőrzéséről külön jogszabály rendelkezik.
+(4) A bíróság rendelkezhet úgy, hogy a házi őrizet előírásainak megtartását a rendőrség – a terhelt hozzájárulásával – a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. Nincs szükség a terhelt hozzájárulására, ha a házi őrizetet a bíróság a terhelt előzetes letartóztatásának a 132. § (3) bekezdése szerinti megszűnését követően rendelte el. A házi őrizet előírásai megtartásának ellenőrzéséről külön jogszabály rendelkezik.
 
 (5) Katonával [Btk. 122. § (1) bekezdés] szemben szolgálati viszonyának tartama alatt házi őrizet nem rendelhető el.
 
@@ -1666,7 +1669,7 @@ indítványozhatja.
 
 (4) Ha a bíróság a távoltartás módosításáról vagy megszüntetéséről határoz, a távoltartás elrendelését indítványozó nyilatkozatát, valamint az ügyész, a magánvádló, illetőleg a pótmagánvádló indítványát beszerzi. A bíróság a nyilatkozat, illetőleg az indítvány előterjesztésére határidőt állapít meg; ha e határidő eredménytelenül eltelt, a bíróság a rendelkezésre álló adatok alapján határoz. A bíróság a határozatot a 138/A. § (1) bekezdésének b) pontjában meghatározott személy részére is megküldi.
 
-(5) Ha a terhelttel szemben távoltartást rendeltek el, az eljárást soron kívül kell folytatni.
+(5)
 
 139. § (1) Ha a terhelt a lakhelyelhagyási tilalmat, illetőleg a házi őrizet szabályait megszegi, vagy az eljárási cselekményen idézés ellenére nem jelenik meg, és ezt alapos okkal előzetesen nem menti ki, vagy az akadály megszűnése után alapos okkal nyomban nem igazolja, őrizetbe vehető, továbbá házi őrizet esetén az előzetes letartóztatása, lakhelyelhagyási tilalom esetén a házi őrizete vagy az előzetes letartóztatása rendelhető el, illetőleg ha ez nem szükséges, rendbírsággal sújtható.
 
@@ -4687,7 +4690,7 @@ került sor.
 
 403. § (1) A bíróság határozatának hatályon kívül helyezése vagy az Alkotmánybíróság általi megsemmisítése folytán megismételt eljárásban a XII. Fejezet és a XIII. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A megismételt eljárásban a bíróság soron kívül jár el.
+(2)
 
 (3) A megismételt eljárásban a bíróság az ügyet a hatályon kívül helyező határozat, illetve az Alkotmánybíróság megsemmisítő határozata okainak és indokainak figyelembevételével bírálja el.
 
@@ -4800,7 +4803,7 @@ került sor.
 
 (3) A perújítási indítvány megküldése előtt az ügyész nyomozást rendelhet el. Ha az ügyész nyomozást rendel el, a (2) bekezdésben írt határidő a nyomozás befejezésétől számít.
 
-(4) Ha a perújítási indítványt a 408. § (1) bekezdésének e) pontja alapján terjesztették elő, a perújítási eljárást soron kívül kell lefolytatni.
+(4)
 
 412. § (1) A bíróság beszerzi az alapügy iratait, és ha a perújítás megengedhetőségében való döntéshez szükséges, az indítványozó által megjelölt bizonyítási eszközök felkutatása érdekében nyomozást rendel el, és az iratokat megküldi az ügyésznek. A nyomozásra a IX. Fejezet rendelkezései a perújítási eljárás jellegének megfelelően irányadók. Előzetes letartóztatás, ideiglenes kényszergyógykezelés, lakhelyelhagyási tilalom, házi őrizet és távoltartás nem rendelhető el.
 
@@ -5871,7 +5874,7 @@ az ügyész vádat emel.
 
 (2) Ha az indítványt a mentelmi jog felfüggesztésére jogosult elutasította, az eljárást meg kell szüntetni. Ha törvény eltérően nem rendelkezik, az eljárás ilyen okból történő megszüntetése nem akadálya annak, hogy a személyes mentesség megszűnését követően a büntetőeljárást lefolytassák.
 
-(3) A mentelmi jog felfüggesztését követően az eljárást soron kívül, e törvény szerint kell lefolytatni.
+(3)
 
 ### Nemzetközi jogon alapuló mentesség
 
@@ -5906,12 +5909,12 @@ az ügyész vádat emel.
 - c) a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban elkövetett vesztegetés [Btk. 290. § (4) bekezdés], a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy által elkövetett vesztegetés elfogadása [Btk. 291. § (4) bekezdés], a külföldi hivatalos személy működésével kapcsolatban elkövetett hivatali vesztegetés [Btk. 293. § (3) bekezdés], a külföldi hivatalos személy által elkövetett hivatali vesztegetés elfogadása [Btk. 294. § (4) bekezdés], a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban elkövetett befolyás vásárlása [Btk. 298. § (2) bekezdés], a külföldi hivatalos személlyel kapcsolatban elkövetett befolyás vásárlása [Btk. 298. § (3) bekezdés], a külföldi hivatalos személlyel kapcsolatban elkövetett befolyással üzérkedés [Btk. 299. § (3) bekezdés],
 - d) a bűnszervezetben részvétel (Btk. 321. §),
 - e) a bűnszervezetben (Btk. 459. § 1. pont) elkövetett bármely bűncselekmény,
-- f) a csődbűncselekmény súlyosabban minősülő esete [Btk. 404. § (3) bekezdés], a versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban (Btk. 420. §), a pénzmosás (Btk. 399. és 400. §) és a költségvetési csalás súlyosabban minősülő esetei [Btk. 396. § (4)–(5) bekezdés],
+- f)
 - g) azok a bűncselekmények, amelyek büntethetősége a Btk. 26. § (3) bekezdése alapján nem évül el,
 - h) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott nemzetközi jog szerint el nem évülő bűncselekmények,
 - i) a h) pontban foglalt kivétellel az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények.
 
-554/C. § Kiemelt jelentőségű ügyben az eljárást soron kívül kell lefolytatni. Az eljárás soronkívüliségét az eljárás minden részvevője a saját eszközeivel köteles biztosítani.
+554/C. § Az eljárás soronkívüliségét az eljárás minden részvevője a saját eszközeivel köteles biztosítani.
 
 ### A védő
 
@@ -6666,6 +6669,8 @@ az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az elj�
 (2) E törvény tanúvédelemről szóló és a tanúvédelemmel összefüggő, valamint a fedett nyomozóról szóló és a fedett nyomozóval összefüggő rendelkezéseinek a 605. § (1) bekezdésében meghatározott hatálybalépést megelőző hatálybalépéséről – az 1973. évi I. törvény megfelelő módosításával – külön törvény rendelkezik.
 
 (3) A (2) bekezdés szerinti külön törvény rendelkezik a Rendőrségről szóló 1994. évi XXXIV. törvény módosításával kapcsolatos rendelkezéseknek [605. § (8)–(12) bek.] a 605. § (1) bekezdésben meghatározott hatálybalépést megelőző hatálybalépéséről is.
+
+606/A. § E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított 16. § (1) bekezdés k), l), r) és s) pontját a Módtv. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
 
 ### Sarkalatossági záradék
 
