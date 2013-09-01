@@ -868,7 +868,7 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 (2) Az egyéb oktatás körébe tartoznak:
 
 - a) a felnőttképzésből az Országos Képzési Jegyzékben meghatározott szakképesítést adó oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
-- b) a felnőttképzésről szóló törvény alapján szervezett és akkreditált, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
+- b) a felnőttképzésről szóló törvény alapján engedélyezett és szervezett, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
 - c) az államilag, illetőleg nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsgáztatás;
 - d) a tanulmányi és tehetséggondozó verseny szervezése, lebonyolítása.
 
@@ -3229,6 +3229,10 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 283. § (1) E törvénynek a Mód3 törvénnyel megállapított 9. számú melléklet 11/A. pontját azokban az esetekben kell alkalmazni először, amelyekben az adófizetési kötelezettség 2013. július 1. napján vagy azt követően keletkezik.
 
 (2) A Horvát Köztársaságban gazdasági céllal letelepedett adóalanyokat az Áfa tv. XVIII. Fejezetében szabályozott adó-visszatéríttetési jog az ott meghatározott feltételek fennállása mellett a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása napján vagy azt követően belföldön teljesített ügyletek tekintetében illeti meg. A Horvát Köztársaságban letelepedett adóalanyok esetében a 2013. évi adóvisszatérítési időszakra vonatkozóan benyújtott adó-visszatéríttetési kérelmekre a 251/B. § (2) bekezdés b) pontjában foglalt összeget időarányosan kell figyelembe venni.
+
+285. § (1) E törvénynek a felnőttképzésről szóló 2013. évi LXXVII. törvénnyel módosított 85. § (2) bekezdés b) pontját azokban az esetekben kell először alkalmazni, amelyekben a felnőttképzést folytató intézmények által indított képzések indításának időpontja 2013. szeptember 1. napjára esik vagy azt követi.
+
+(2) A felnőttképzésről szóló 2013. évi LXXVII. törvény 30. § (2) bekezdése szerinti képzési programok tekintetében e törvény 85. § (2) bekezdés b) pontjának 2013. augusztus 31. napján hatályos rendelkezéseit kell alkalmazni.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

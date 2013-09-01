@@ -652,7 +652,7 @@ megszerzése;
 - 26. közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése;
 - 27. a külkereskedelmi áruforgalomban áru kivitelének, átvitelének engedélyezésére irányuló eljárás;
 - 28. a jogi segítségnyújtás engedélyezésére irányuló eljárás;
-- 29. a rendőrhatósági kényszerintézkedés alá helyezési eljárásban az eljárás alá vont személy által előterjesztett panasz és fellebbezés,
+- 29. a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés,
 - 30. az adóhatóság által az adózó adószámlájának egyenlegéről készített értesítés tárgyában hozott határozat elleni jogorvoslati eljárás,
 - 31. az egyenlő bánásmód követelményének megsértésével kapcsolatban indított eljárás,
 - 32. őstermelői igazolvány cseréje, ha arra az őstermelői igazolványban szereplő helységnév, utcanév, illetve házszám állami vagy önkormányzati döntés alapján történő változása, illetve az őstermelő lakóhelyének más megye illetékességi területéhez való csatolása miatt kerül sor,
@@ -993,7 +993,8 @@ esetében.
 - o) külön törvényben meghatározott referenciaadat-szolgáltató és központi hitelinformációs rendszert kezelő pénzügyi vállalkozás ellen, a központi hitelinformációs rendszerbe történő adatátadás és kezelés miatt, illetőleg a referenciaadatok helyesbítése vagy törlése iránt indított perben;
 - p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
 - r) a közigazgatási eljárás során hozott végzés felülvizsgálatára irányuló nemperes eljárásban;
-- s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban.
+- s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
+- s) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban.
 
 (2) Az (1) bekezdés a)–c) és g)–h), továbbá l) pontjaiban említett perek esetén, ha az összegszerűség megállapítása a bíróság mérlegelésétől függ és a kereset nem volt nyilvánvalóan eltúlzott, részleges pervesztesség esetén a bíróság a fél illetékfizetésre való kötelezését mellőzheti.
 

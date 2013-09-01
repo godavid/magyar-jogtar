@@ -135,7 +135,8 @@ a bírósági végrehajtásról
 - i) az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1896/2006/EK rendelet) szerint végrehajthatónak nyilvánított európai fizetési meghagyás alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság; ha az európai fizetési meghagyást a magyar közjegyző bocsátotta ki, az európai fizetési meghagyást kibocsátó közjegyző,
 - j) a 861/2007/EK rendelet szerint kis értékű követelések európai eljárásában hozott ítélet alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti járásbíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
-- l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság.
 
 17. § (1) Tartásdíj behajtása érdekében a végrehajtási lapot a jövőben lejáró tartásdíjrészletekre nézve is ki lehet állítani. Ilyenkor csak a végrehajtási eljárás befejezéséig lejárt tartásdíjrészleteknek megfelelő összeget lehet behajtani és a végrehajtást kérőnek kifizetni.
 
@@ -2292,6 +2293,8 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a követelés olyan bírósági határozaton alapul, amelyet a 44/2001/EK tanácsi rendelet vagy a 4/2009/EK tanácsi rendelet alapján Magyarországon el kell ismerni. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
 
+(4) A bíróság a biztosítási intézkedést – 400 millió forintot meg nem haladó összegben – az (1) bekezdés alapján elrendeli, ha a követelés a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben hozott ítéletnek a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező részén alapul, amely ítélet a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
+
 187. § (1) Biztosítási intézkedés rendelhető el az olyan követelés érdekében, amely iránt belföldi bíróságnál
 
 - a) házassági vagyonjogi keresetet indítottak,
@@ -2301,6 +2304,8 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 (2) A biztosítási intézkedést az a bíróság rendeli el, amelynél a kereseti kérelmet benyújtották. A biztosítási intézkedés elrendelése iránti kérelem tárgyában szükség esetén meghallgatást kell tartani.
 
 (3) Biztosítási intézkedés rendelhető el e § alapján akkor is, ha a 44/2001/EK tanácsi rendelet vagy a 4/2009/EK tanácsi rendelet szerinti ügyben a kereseti kérelmet az Európai Unió másik tagállamának bíróságához nyújtották be. A biztosítási intézkedést a 16. § c) pontjában meghatározott bíróság rendeli el.
+
+(4) A (2) bekezdésben meghatározott bíróság biztosítási intézkedést rendel el – 400 millió forintot meg nem haladó összegben – az olyan követelés érdekében, amely iránt belföldi bíróságnál a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított pert indítottak, illetve viszontkeresetet érvényesítettek, és a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére vonatkozó követelés a Teljesítésigazolási Szakértői Szerv szakvéleményén alapul.
 
 188. § (1) Biztosítási intézkedés rendelhető el az olyan követelés érdekében, amely iránt belföldi választottbíróságnál keresetet indítottak, ha a végrehajtást kérő
 
