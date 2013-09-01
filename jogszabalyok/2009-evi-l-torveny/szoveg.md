@@ -18,7 +18,7 @@ Az Országgyűlés a természetes személyek és jogképes szervezetek nem vitat
 
 3. § (1) A pénz fizetésére irányuló, lejárt követelés – a (3)–(4a) bekezdésben foglalt kivételekkel – fizetési meghagyás útján is érvényesíthető. E § alkalmazásában nem tekinthető pénz fizetésére irányuló követelés érvényesítésének a zálogjogból fakadó igény zálogkötelezettel szembeni érvényesítése.
 
-(2) Csak fizetési meghagyás útján vagy a Pp. 127. §-ában meghatározott módon érvényesíthető a kizárólag pénz fizetésére irányuló olyan lejárt követelés, amelynek a Pp. 24. és 25. §-a szerint számított összege az egymillió forintot nem haladja meg, feltéve, hogy
+(2) Csak fizetési meghagyás útján vagy a Pp. 127. §-ában meghatározott módon vagy a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben érvényesíthető a kizárólag pénz fizetésére irányuló olyan lejárt követelés, amelynek a Pp. 24. és 25. §-a szerint számított összege az egymillió forintot nem haladja meg, feltéve, hogy
 
 - a) a kötelezettnek van ismert belföldi lakóhelye vagy tartózkodási helye, illetve székhelye vagy képviselete (a továbbiakban együtt: idézési cím) és
 - b) a pénzkövetelés nem munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból (a továbbiakban együtt: munkaviszony) ered.

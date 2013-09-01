@@ -1000,6 +1000,8 @@ miatt utasított ki.
 - b) a tartózkodás magatartási szabályait;
 - c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás, a hatóság előtti időszakonkénti megjelenésre való kötelezést.
 
+(2a) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott megye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 29. § (1) bekezdés b), illetve e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
+
 (3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, eltartásra köteles meghívóval, eltartásra kötelezhető hozzátartozóval nem rendelkezik.
 
 (4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
@@ -1018,9 +1020,7 @@ miatt utasított ki.
 
 (9) A kijelölt helyen történő tartózkodást megszüntető határozat ellen a harmadik országbeli állampolgár a (6)–(7) bekezdésben foglaltak szerint élhet jogorvoslattal.
 
-63. § (1) Ha a közösségi szálláson vagy befogadó állomáson történő kötelező tartózkodás elrendelésétől tizennyolc hónap eltelt, de az elrendelés alapjául szolgáló körülmény a harmadik országbeli állampolgárnak fel nem róható okból továbbra is fennáll, a harmadik országbeli állampolgár számára más tartózkodási helyet kell kijelölni.
-
-(2) Az (1) bekezdésben meghatározott esetben az idegenrendészeti hatóság a harmadik országbeli állampolgár kérelmére – kivételesen, humanitárius okból – engedélyezheti a közösségi szálláson vagy befogadó állomáson való további tartózkodást.
+63. § Ha a közösségi szálláson vagy befogadó állomáson történő kötelező tartózkodás elrendelésétől számítva két hónap eltelt, de a kijelölt helyen való tartózkodás elrendelésének feltételei fennállnak, a harmadik országbeli állampolgár számára más tartózkodási helyet kell kijelölni.
 
 64. § Az a harmadik országbeli állampolgár, akinek kijelölt helyen való tartózkodását az idegenrendészeti hatóság a 62. § (1) bekezdés e) pontja alapján rendelte el, az elrendelő idegenrendészeti hatóság hozzájárulásával a magyarországi munkavállalásra vonatkozó szabályok szerint jogosult arra, hogy keresőtevékenységet folytasson.
 
@@ -1468,7 +1468,8 @@ szerinti állam vonatkozásában.
 - l) a közegészségügyi hatóság,
 - m) a nyugdíjbiztosítási igazgatási szerv,
 - n) a helyi önkormányzat hatósági feladatot ellátó szerve és
-- o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+- o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok
 
 részére továbbíthat adatot.
 
@@ -1609,6 +1610,10 @@ hatályát veszti.
 (6) A 2013. július 1-jét megelőzően a dublini eljárásban történő átadás vagy visszaadás végrehajtásának biztosítása érdekében elrendelt és folyamatban lévő idegenrendészeti őrizetet 2013. július 1-jén meg kell szüntetni. Ezzel egyidejűleg a menekültügyi hatóság megvizsgálja a törvényben meghatározott rendelkezésre állást biztosító intézkedések alkalmazását.
 
 (7) A 47. § (10) bekezdésében foglalt rendelkezést a 2013. július 1-jét megelőzően elrendelt idegenrendészeti kiutasítások esetén is alkalmazni lehet.
+
+(8) A 2013. szeptember 1-jét megelőzően közösségi szálláson és befogadó állomáson kijelölt helyen való tartózkodásra kötelezett harmadik országbeli állampolgár 2013. október 31-ig tartózkodhat az erre vonatkozó határozat alapján a közösségi szálláson vagy a befogadó állomáson.
+
+(9) Az idegenrendészeti hatóság 2013. október 31-ig köteles megvizsgálni, hogy a (8) bekezdés szerinti harmadik országbeli állampolgárok esetében a kijelölt helyen való tartózkodás elrendelésének feltételei fennállnak-e, és – ha ezek a feltételek fennállnak – más tartózkodási helyet kijelölni.
 
 ### Felhatalmazó rendelkezések
 

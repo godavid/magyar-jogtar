@@ -318,7 +318,7 @@ is legyen;
 
 31/A. § Az egészségügyi államigazgatási szerv által e törvény vagy e törvény szabályozási tárgykörében európai közösségi rendelet alapján a veszélyes anyagok és keverékek kémiai biztonsága, valamint a biocid termékekkel és hatóanyagokkal kapcsolatos tevékenységek körében kérelemre lefolytatott eljárásért vagy igazgatási jellegű szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
-31/B. § A biocid termék engedélyezésével kapcsolatos eljárásokban az elektronikus kapcsolattartás kizárt.
+31/B. §
 
 31/C. § A biocid termék engedélyezésével kapcsolatos eljárásokban az egészségügyi államigazgatási szerv és a szakhatóság az engedélyezési feltételeket egyeztetés alapján állapítja meg.
 

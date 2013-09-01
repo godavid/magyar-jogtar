@@ -4,7 +4,11 @@ az egészségügyet érintő egyes törvényeknek az egészségügyi szakellát�
 
 #### 1. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-1. §
+1. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 13/A. § (2) bekezdése a következő e) ponttal egészül ki:
+
+(Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi és gyógyszerészeti igazgatási hatáskörében eljárva megállapítja, hogy)
+
+„e) az egészségügyi közszolgáltatásért felelős szerv nem teljesíti az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 2. § (7) és (8) bekezdésében meghatározott bejelentési kötelezettségét.”
 
 #### 2. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -36,7 +40,9 @@ az egészségügyet érintő egyes törvényeknek az egészségügyi szakellát�
 
 20. § (1)
 
-(2)
+(2) Az Eftv. 2. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) A (7), illetve a (8) bekezdés szerinti bejelentési kötelezettség nem teljesítése esetén – az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározottak szerinti – egészségügyi bírság kiszabásának van helye.”
 
 21–37. §
 

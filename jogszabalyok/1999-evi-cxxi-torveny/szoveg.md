@@ -126,7 +126,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) elősegítik a gazdaság fejlődésére jelentős hatást gyakorló, nemzetgazdasági szinten hatékony, a közvetlen vállalkozói érdekeltséget meghaladó célok megvalósulását, ennek érdekében részt vesznek az átfogó gazdaságfejlesztési, gazdaságstratégiai döntések előkészítésében, és együttműködnek az állami és a helyi önkormányzati szervekkel, illetve a gazdasági érdekképviseleti szervezetekkel;
 - c) tájékoztatást adnak a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítják a gazdasági együttműködés fejlődését;
 - d) közreműködnek a területfejlesztési koncepciók és programok gazdaságfejlesztési munkarészeinek kidolgozásában és végrehajtásában;
-- e) az országos gazdasági érdekképviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeleteiben meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
+- e) az országos gazdasági érdek-képviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
 
 9/A. § (1) A törvény a gazdasági kamarák számára – a gazdaság fejlesztésével összefüggésben – biztosítja a lehetőséget, hogy
 

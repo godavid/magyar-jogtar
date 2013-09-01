@@ -210,11 +210,19 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 15. § (1) A Takarékbank Zrt. a szövetkezeti hitelintézetek integrációjának központi bankja.
 
-(2)
+(2) A Takarékbank Zrt. a szövetkezeti hitelintézetekre kötelező szabályzatot fogad el
+
+- a) a kockázatkezelés részletes szabályairól, ide értve a hitelengedélyezés, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait valamint a jogszabályokon és egyéb kötelező szabályokon felüli addicionális egyedi tőkekövetelményekre vonatkozó szabályokat;
+- b) a követendő üzletpolitikáról;
+- c) a közös marketing folytatásáról;
+- d) az egységes informatikai rendszer kialakításáról.
 
 (3) A Takarékbank Zrt. ellenőrzi a szövetkezeti hitelintézet tevékenységét, és jogszabályoknak, valamint az Integrációs Szervezet és a Takarékbank Zrt. által kiadott szabályzatoknak megfelelő működés érdekében utasítást adhat a szövetkezeti hitelintézetnek. A szövetkezeti hitelintézet az utasításnak köteles eleget tenni.
 
-(4)
+(4) Amennyiben a szövetkezeti hitelintézet nem tesz eleget az utasításnak vagy nem jogszabályoknak vagy a szabályzatoknak megfelelően működik:
+
+- a) a Takarékbank Zrt. igazgatósága dönthet a szövetkezeti hitelintézet vezető tisztségviselői megbízatásának a felfüggesztéséről legfeljebb 180 napra, mely felfüggesztést legfeljebb további 180 napra meghosszabbíthat vagy – különösen indokolt esetben – dönthet megbízatásuk megszüntetéséről illetve átmeneti időre vezető tisztségviselő vagy tisztségviselők megbízásáról;
+- b) a Takarékbank Zrt. Igazgatóságának kezdeményezése alapján vagy saját kezdeményezéséből az Integrációs Szervezet igazgatósága dönt a szövetkezeti hitelintézet Integrációs Szervezeti tagságának a felfüggesztéséről vagy – indokolt esetben – a szövetkezeti hitelintézet Integrációs Szervezetből történő kizárásáról.
 
 (5) A Takarékbank Zrt. igazgatósága dönt a szövetkezeti hitelintézet vezető tisztségviselője vagy vezető tisztségviselői megbízatása felfüggesztésének a megszüntetéséről illetve az Integrációs Szervezet igazgatósága dönt az Integrációs Szervezeti tagság felfüggesztésének a megszüntetéséről, amennyiben a szövetkezeti hitelintézet az utasításnak eleget tesz illetve helyreállította a jogszabályoknak és a szabályzatoknak megfelelő működését.
 
