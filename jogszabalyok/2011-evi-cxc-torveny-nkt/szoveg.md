@@ -2446,7 +2446,7 @@ rendeletben állapítsa meg.
 
 (7)
 
-(8) Hatályát veszti a Kt. 4. § (4) bekezdése, 12. § (1) bekezdés a) pontja, 16. § (1) és (4) bekezdése, 17/A. §-a, 24. § (4) bekezdése, 27. §-a, 29. §-a, 39. § (3) bekezdése, 52. § (1)–(14) bekezdése és (17)–(18) bekezdése, 53. §-a, 69. § (2) bekezdése, 78. § (2) bekezdése, 94. § (3) bekezdés l) pontja, 118. § (3)–(4) bekezdése, (6) bekezdése és (12)–(14) bekezdése, 121. § (1) bekezdés 14. pontja, 122. § (1) bekezdése, 128. § (8) bekezdése, 1. számú melléklete, 3. számú melléklete.
+(8)
 
 (9)
 
@@ -2671,40 +2671,17 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 ### 2. melléklet a 2011. évi CXC. törvényhez
 
-#### A nevelő- és oktatómunkát közvetlenül segítő alkalmazottak finanszírozott létszáma
+#### A nevelő munkát segítő alkalmazottak finanszírozott létszáma az óvodában
 
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1 | Munkakör | Feltétel | Létszám |
-| 2 | óvodatitkár, iskolatitkár, kollégiumi titkár | intézményenként, ahol a gyermekek, tanulók létszáma eléri a 100 főt: továbbá 450 gyermekenként, tanulónként, kollégiumi titkár önálló kollégiumonként, valamint a székhelyen kívül működő kollégiumi intézményegységenként | 1 |
-| 3 | dajka óvodában | csoportonként | 1 |
-| 4 | gondozónő és takarító óvodában | intézményenként: továbbá telephelyenként, ahol legalább 3 óvodai csoport működik | 1 |
-| 5 | laboráns a köznevelés ötödik évfolyamától | 250 tanulónként | 1 |
-| 6 | pedagógiai asszisztens óvodában | 3 óvodai csoportonként | 1 |
-| 7 | pedagógiai asszisztens iskolában | 100 tanulónként | 1 |
-| 8 | iskolapszichológus, óvodapszichológus | 1–500 gyermek, tanuló között | 0,5 |
-| 9 | iskolapszichológus, óvodapszichológus | 500 gyermek, tanuló felett | 1 |
-| 10 | könyvtáros vagy könyvtárostanár/tanító | 1–100 tanuló között | 0,5 |
-| 11 | könyvtáros vagy könyvtárostanár/tanító | 101–500 tanuló között | 1 |
-| 12 | könyvtáros vagy könyvtárostanár/tanító | 500 tanuló felett | 2 |
-| 13 |  |  |  |
-| 14 | szakorvos kizárólag sajátos nevelési igényű gyermekeket, tanulókat nevelő intézményben | 250 gyermekenként/tanulónként | 1 |
-| 15 | gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens | – | fenntartó döntésétől függ |
-| 16 | szabadidő-szervező | - | fenntartó döntésétől függ |
-| 17 | pszichopedagógus | - | fenntartó döntésétől függ |
-| 18 | műszaki vezető | szakképző iskolában legalább 120 munkahelyes tanműhely, tangazdaság esetén, vagy ha a tanműhely, tangazdaság délelőtt és délután is üzemel | 1 |
-| 19 | szakmacsoportos képzésben vezető | szakterületenként | 1 |
-| 20. | ápoló kizárólagosan sajátos nevelési igényű gyermekeket, tanulókat ellátó kollégiumban | 24 órás ellátásra | 1 |
-| 21. | ápoló kollégiumban | 1–50 tanulóig | 0,5 |
-| 22. | ápoló kollégiumban | 51–500 tanuló között | 1 |
-| 23. | ápoló kollégiumban | 500 tanuló felett | 2 |
-| 24. | ápoló kizárólagosan sajátos nevelési igényűeket ellátó kollégiumban | 1–50 tanuló között | 0,5 |
-| 25. | ápoló kizárólagosan sajátos nevelési igényűeket ellátó kollégiumban | 51–500 tanuló között | 1 |
-| 26. | ápoló kizárólagosan sajátos nevelési igényűeket ellátó kollégiumban | 500 tanuló felett | 2 |
-| 27. | hangszerkarbantartó vagy jelmez- és viselettáros | alapfokú művészeti iskola 1–200 tanuló között | 0,5 |
-| 28. | hangszerkarbantartó vagy jelmez- és viselettáros | alapfokú művészeti iskola 200 tanuló felett | 1 |
-| 29 | úszómester | tanuszodával rendelkező nevelési-oktatási intézményben | 1 |
-| 30 | rendszergazda | intézményenként | 1 |
+| 2 | óvodatitkár | intézményenként, ahol a gyermekek létszáma eléri a 100 főt; továbbá 450 gyermekenként | 1 |
+| 3 | dajka vagy helyette gondozónő és takarító együtt | csoportonként | 1 |
+| 4 | pedagógiai asszisztens | 3 óvodai csoportonként | 1 |
+| 5 | szakorvos kizárólag sajátos nevelési igényű gyermekeket nevelő óvodában | 250 gyermekenként | 0,5 |
+| 6 | pszichopedagógus | – | fenntartó döntésétől függ |
+| 7 | úszómester | tanuszodával rendelkező óvodában | 1 |
 
 ### 3. melléklet a 2011. évi CXC. törvényhez
 
