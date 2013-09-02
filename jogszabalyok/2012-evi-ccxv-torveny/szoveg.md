@@ -12,9 +12,7 @@ az egyes szakképzési és felnőttképzési tárgyú törvények módosításá
 
 13. § (1)–(2)
 
-(3) Az Szt. 5. §-a a következő (15) bekezdéssel egészül ki:
-
-„(15) A szakképző iskola (14) bekezdés szerinti fenntartója szakképzési feladatait egyetlen szakképző iskola fenntartásával látja el, kivéve, ha a szakképző iskolai tanulói létszám az adott fenntartó esetében meghaladja a tízezret. Ebben az esetben az állami fenntartó több szakképző iskola fenntartásával is elláthatja a szakképzési feladatokat úgy, hogy valamennyi szakképző iskola tanulói létszáma az ötezer főt meghaladja. A létszám számítására a (3) bekezdés rendelkezéseit kell alkalmazni.”
+(3)
 
 (4)
 
@@ -22,31 +20,19 @@ az egyes szakképzési és felnőttképzési tárgyú törvények módosításá
 
 21. § (1)
 
-(2) Az Szt. 29. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés d)–f) pontjában meghatározott javító-, pótlóvizsga ingyenes a volt tanuló részére első alkalommal a tanulói jogviszony megszűnése után is.
-
-(1b) Az (1) bekezdésben foglaltaktól eltérően minden esetben ingyenes az iskolai rendszerű szakképzésben való részvétel a halmozottan hátrányos helyzetű és – az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló kivételével – a sajátos nevelési igényű tanuló részére. Ingyenes az iskolai rendszerű szakképzésben való részvétel az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló részére a második szakképesítés megszerzéséig.
-
-(1c) A kormányhivatal méltányosságból, a hátrányos helyzetű tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére, valamint tartós betegség vagy egyéb, méltányolható körülmény esetén a tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére és a szakképző iskola javaslatára engedélyezheti az (1) bekezdés szerinti időtartam legfeljebb két tanévvel történő meghosszabbítását.”
+(2)
 
 22–25. §
 
 26. § (1)
 
-(2) Az Szt. 43. § (2) bekezdése a következő c) ponttal egészül ki:
-
-(A tanulószerződés kötésére jogosult egyéb szerv, szervezet)
-
-„c) a vidékfejlesztésért felelős miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.”
+(2)
 
 27–41. §
 
 42. § (1)–(2)
 
-(3) Az Szt. 92. §-a a következő (36) bekezdéssel egészül ki:
-
-„(36) Az 5. § (14) bekezdésében meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket a szakképző iskola fenntartói jogainak a vidékfejlesztési miniszternek történő átadása és az 5. § (14) bekezdésében meghatározott szakképzési megállapodás megkötése nélkül is befejezheti. Ahol e § az 5. § (1)–(4) bekezdése szerint létrehozott vagy működő szakképző iskolát említ, azon az 5. § (15) bekezdése szerint működő szakképző iskolát is érteni kell.”
+(3)
 
 43–45. §
 
