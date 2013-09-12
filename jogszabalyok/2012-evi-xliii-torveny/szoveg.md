@@ -12,6 +12,10 @@ az Európai Újjáépítési és Fejlesztési Bank létrehozásáról szóló Me
 
 The Governments on whose behalf the present Agreement is signed agree as follows:
 
+Article 1 of the Agreement Establishing the Bank shall be amended to read as follows:
+
+“In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. Subject to the same conditions, the purpose of the Bank may also be carried out in Mongolia and in member countries of the Southern and Eastern Mediterranean as determined by the Bank upon the affirmative vote of not less than two-thirds of the Governors, representing not less than three fourths of the total voting power of the members. Accordingly, any reference in this Agreement and its annexes to “Central and Eastern European countries”, ”countries from Central and Eastern Europe”, “recipient country (or countries)” or “recipient member country (or countries)” shall refer to Mongolia and each of such countries of the Southern and Eastern Mediterranean as well.
+
 Article 18 of the Agreement Establishing the Bank shall be amended to read as follows:
 
 “1. (i) The Bank may accept the administration of Special Funds which are designed to serve the purpose and come within the functions of the Bank in its recipient countries and potential recipient countries. The full cost of administering any such Special Fund shall be charged to that Special Fund.
@@ -29,6 +33,10 @@ Article 18 of the Agreement Establishing the Bank shall be amended to read as fo
 Az Európai Újjáépítési és Fejlesztési Bankról szóló Megállapodás Módosítása A Bank Tevékenységéneka Dél- és Kelet-mediterrán Térségre való Kiterjesztésével kapcsolatban
 
 A kormányok, amelyek nevében a jelen Megállapodást aláírták, a következőkben állapodnak meg:
+
+A Bankot létrehozó megállapodás 1. cikke helyébe a következő szöveg lép:
+
+A gazdasági fejlődéshez és az újjáépítéshez hozzájárulva, a Bank célja, hogy elősegítse az átmenetet a piacgazdaságba, valamint a magán- és vállalkozói kezdeményezéseket a közép- és kelet-európai országokban, amelyek elkötelezték magukat a többpárti demokrácia elvei, a pluralizmus és a piacgazdaság mellett, és azokat alkalmazzák. Azonos feltételek mellett a Bank céljai Mongóliában, valamint a Bank által meghatározott módon a tagok összes szavazati jogának legalább háromnegyedét képviselő kormányzók legalább kétharmadának egyetértésével a dél- és kelet-mediterrán térség tagországaiban is megvalósíthatók. Ennek megfelelően ebben a megállapodásban és ennek mellékleteiben található minden utalás a „közép- és kelet-európai országok”-ra, a „fogadó országok”-ra, valamint a „fogadó tagországok”-ra egyaránt vonatkozik Mongóliára és a dél- és kelet-mediterrán térség valamennyi ilyen országára.”
 
 A Bankot létrehozó megállapodás 18. cikke helyébe a következő szöveg lép:
 
