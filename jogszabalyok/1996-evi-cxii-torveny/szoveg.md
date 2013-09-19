@@ -41,7 +41,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 (2) E törvény rendelkezései nem terjednek ki:
 
 - a) az elkülönített állami pénzalapokra,
-- b)
+- b) a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalványra,
 - c) a (4) bekezdésben meghatározott eltéréssel a kincstárra,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt.-re,
 - e)
@@ -79,7 +79,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - a) pénzváltási tevékenység;
 - b) fizetési rendszer működtetése;
 - c) pénzfeldolgozási tevékenység;
-- d) pénzügyi ügynöki tevékenység a bankközi piacon.
+- d) pénzügyi ügynöki tevékenység a bankközi piacon;
+- e) forgatható utalvány kibocsátására irányuló tevékenység.
 
 (3) Az (1)–(2) bekezdésben foglalt tevékenységek – az e törvényben foglalt eltéréssel – üzletszerűen csak engedéllyel végezhetők.
 
@@ -88,6 +89,11 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 (5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
 (6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
+
+(6a) A (2) bekezdés e) pontjában meghatározott tevékenység
+
+- a) engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető,
+- b) végzésével kapcsolatos, e törvényben meghatározott rendelkezések megtartását az MNB ellenőrzi.
 
 (7) A (6) bekezdésben meghatározott tevékenységek végzésének engedélyezéséről szóló határozatot az MNB közli a Felügyelettel. A Felügyelet a határozat alapján a jogi személyt nyilvántartásba veszi.
 
@@ -248,6 +254,34 @@ végezhet.
 (5) A közvetítő köteles az ügyfél által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt megillető pénzösszegeket elkülönített számlán tartani. Ezek a pénzösszegek a közvetítő más hitelezői kielégítésére végrehajtási és felszámolási eljárás esetén nem használhatók fel.
 
 (6) Az (5) bekezdés szerinti elkülönített számlának tekintendő az a letéti számla, amelyen a közvetítő kizárólag az ügyfelek által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt megillető pénzösszegeket tarthatja.
+
+### Utalványkibocsátó
+
+6/F. § (1) Az utalványkibocsátó az a vállalkozás, amely a 3. § (2) bekezdés e) pontjában meghatározott forgatható utalvány kibocsátására irányuló tevékenységet végez.
+
+(2) Az utalványkibocsátó részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet és legalább tízmillió forint vagy annak megfelelő összegű befizetett jegyzett tőkével kell rendelkeznie.
+
+(3) Az utalványkibocsátó – törvény eltérő rendelkezése hiányában – egyéb üzleti tevékenységet is végezhet azzal a korlátozással, hogy pénzügyi és az (1) bekezdésben meghatározotton kívül más kiegészítő pénzügyi szolgáltatást nem végezhet.
+
+(4) Az utalványkibocsátó a forgatható utalvány értékesítéséhez és visszaváltásához utalványforgalmazót vehet igénybe.
+
+(5) A forgatható utalvány által megtestesített pénzkövetelés az utalványforgalmazó igénybevétele esetében is az utalványkibocsátóval szemben áll fenn.
+
+6/G. § (1) Az utalványkibocsátó a forgatható utalvány kibocsátására irányuló tevékenysége megkezdését és befejezését előzetesen bejelenti az MNB-nek.
+
+(2) A forgatható utalvány kibocsátására irányuló tevékenység megkezdéséről szóló bejelentés tartalmazza legalább
+
+- a) az utalványkibocsátó azonosító adatait (név, székhely, cégjegyzékszám),
+- b) a forgatható utalvány kibocsátására irányuló tevékenység megkezdésének keltét,
+- c) a forgatható utalvány elnevezését, címletét (címleteit), valamint hazai hivatalos pénznemben kifejezett névértékét,
+- d) a kibocsátani tervezett forgatható utalvány állomány hazai hivatalos pénznemben kifejezett összesített névértékét.
+
+(3) A (2) bekezdés szerinti bejelentéshez mellékelni kell:
+
+- a) az utalványkibocsátó hatályos létesítő okiratát,
+- b) harminc napnál nem régebbi okirati igazolást arról, hogy nyilvántartásba vétele megtörtént és nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
+- c) a 6/F. § (2) bekezdése szerinti jegyzett tőke teljes összegének befizetésére és rendelkezésre állására vonatkozó igazolást,
+- d) a forgatható utalvány kibocsátására irányuló tevékenységre vonatkozó általános üzleti feltételeket tartalmazó szabályzatot.
 
 ### Értelmező rendelkezések
 
@@ -2647,6 +2681,32 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 (8) Az elektronikuspénz-kibocsátó intézmény által pénzforgalmi szolgáltatás nyújtása érdekében átvett pénzeszközre a 87/L. §-ban foglaltakat kell alkalmazni.
 
+### XII/C. Fejezet — AZ UTALVÁNYKIBOCSÁTÓ MŰKÖDÉSÉNEK SZABÁLYAI
+
+87/R. § (1) Az utalványkibocsátó a számvitelről szóló törvény szerinti saját tőkéje nem csökkenhet a 6/F. § (2) bekezdésben előírt legkisebb jegyzett tőke alá.
+
+(2) Az utalványkibocsátó a forgatható utalvány kibocsátása ellenében átvett, a forgatható utalvány hazai vagy külföldi hivatalos pénznemben kifejezett névértékének megfelelő pénzeszközzel a sajátjaként nem rendelkezhet, valamint az az utalványkibocsátó felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.
+
+(3) Az utalványkibocsátó a nyilvántartásait úgy vezeti, hogy azok
+
+- a) pontosan mutassák a forgatható utalvány kibocsátása ellenében átvett pénzeszközöket,
+- b) alapján bármikor, késedelem nélkül biztosítható legyen az a) pont szerinti pénzeszközök, valamint az utalványkibocsátó saját pénzeszközeinek elkülönített nyilvántartása,
+- c) valós képet mutassanak az utalványbirtokosok utalványkibocsátóval szemben fennálló mindenkori összesített pénzköveteléséről, amely az utalványbirtokosoknál kintlévő, az utalványkibocsátónál vissza nem váltott, de még visszaváltható forgatható utalványok hazai vagy külföldi hivatalos pénznemben kifejezett névértékéből tevődik össze.
+
+(4) Az utalványkibocsátó köteles az utalványbirtokosok (3) bekezdés c) pontja szerinti pénzkövetelésének fedezeteként
+
+- a) a forgatható utalvány ellenében átvett pénzeszközöket az Európai Unió tagállamában székhellyel rendelkező hitelintézetnél a forgatható utalvány névértékének hazai vagy külföldi hivatalos pénznemében vezetett letéti számlán vagy az Európai Unió tagállama által kibocsátott állampapírba elhelyezni, vagy
+- b) az utalványbirtokossal szemben fennálló pénzügyi kötelezettsége nem teljesítése esetére az utalványkibocsátótól eltérő csoporthoz tartozó, az Európai Unió tagállamában székhellyel rendelkező hitelintézettel, biztosítóval olyan bankgarancia vagy kezesi biztosítási szerződést kötni, amely a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel szüntethető meg.
+
+(5) A (4) bekezdés a) pontja szerint elhelyezett pénzösszeg és állampapír piaci értéke vagy b) pontja szerint garantált, biztosított összeg nem lehet kevesebb a (3) bekezdés c) pontja szerint az utalványkibocsátóval szemben mindenkor fennálló pénzkövetelés összegénél.
+
+(6) Az utalványkibocsátó a (4) és (5) bekezdésben foglalt követelményeknek
+
+- a) a forgatható utalvány ellenértékeként átvett pénzeszköznek a saját fizetési számláján való jóváírása vagy más módon történt rendelkezésére bocsátása munkanapjától kezdve,
+- b) utalványforgalmazó igénybevétele esetén, ha az átvett pénzeszköz a) pont szerinti jóváírására vagy más módon történő rendelkezésre bocsátására a forgatható utalvány értékesítését követő ötödik munkanapig nem kerül sor, akkor ezen ötödik munkanaptól kezdve
+
+köteles megfelelni.
+
 ### XIII. Fejezet — A likviditás biztosítása
 
 ### Forrásgyűjtés
@@ -4670,7 +4730,50 @@ esetében kell alkalmazni.
 
 (7) A pénzügyi szolgáltatást nyújtó személy felelős a függő közvetítő és a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
 
-220. §
+### XXXI/D. Fejezet — A FORGATHATÓ UTALVÁNY FORMAI ÉS TARTALMI ELEMEI
+
+220. § A forgatható utalvány tartalmazza legalább
+
+- a) az utalvány elnevezést olyan megjelenési formában, amely biztosítja a hazai vagy külföldi törvényes fizetőeszköztől való egyértelmű megkülönböztethetőséget,
+- b) a felhasználhatóság lejáratát, ha van ilyen,
+- c) a felhasználhatóság egyéb korlátait, ha van ilyen,
+- d) az utalványkibocsátó megnevezését.
+
+### Az utalványkibocsátó tájékoztatási kötelezettsége
+
+220/A. § (1) Az utalványkibocsátó általános üzleti feltételei tartalmazzák legalább
+
+- a) a forgatható utalvány kibocsátásának, forgalmazásának, megvásárlásának és visszaváltásának szabályait,
+- b) a forgatható utalvány utalványelfogadónál fizető eszközként történő felhasználhatóságának szabályait,
+- c) az ügyfél által az utalványkibocsátó részére fizetendő valamennyi díjat, jutalékot és költséget,
+- d) a sérült forgatható utalvány visszaváltásakor alkalmazandó értékcsökkentés mértékét,
+- e) utalványforgalmazó igénybevétele esetén az utalványforgalmazó azonosító adatait.
+
+(2) Az utalványkibocsátó az általános üzleti feltételeit, valamint az utalványelfogadók listáját nyilvánosan közzéteszi és a folyamatos elérhetőséget a honlapján biztosítja.
+
+(3) Az utalványkibocsátó az általános üzleti feltételeiben meghirdetett díjon, jutalékon és költségen kívül egyéb, valamint annak mértékét meghaladó díjat, jutalékot és költséget az ügyfél terhére nem számíthat fel.
+
+(4) Az utalványkibocsátó az általános üzleti feltételei szerint meghirdetett díjból, jutalékból vagy áthárított költségből az ügyféllel kötött egyedi megállapodás alapján kedvezményt adhat.
+
+(5) Az utalványkibocsátó az általános üzleti feltételek módosításáról annak hatálybalépése előtt legalább 60 nappal tájékoztatja az ügyfelet. Az utalványkibocsátó az ügyfelet tájékoztatja arról is, hogy a módosítást az ügyfél részéről elfogadottnak tekinti, ha annak hatálybalépése előtt az ügyfél nem tájékoztatta az utalványkibocsátót arról, hogy a módosítást nem fogadja el. Ha az ügyfél a módosítást nem fogadja el, a módosítás hatálybalépése előtti napig az ügyfél jogosult az utalványkibocsátóval kötött szerződést felmondani.
+
+(6) Az utalványkibocsátó az (5) bekezdés szerinti tájékoztatást
+
+- a) az utalványelfogadó részére írásban, a szerződésben meghatározott módon küldi meg vagy teszi számára elérhetővé,
+- b) az utalványbirtokost érintő módosítás esetében a módosítás tényét és annak elérhetőségét legalább egy országos vagy regionális napilapban, a módosítás tartalmát a honlapján teszi közzé.
+
+(7) Az utalványkibocsátó a naptári év utolsó napján
+
+- a) az utalványbirtokosok vele szembeni pénzköveteléseként fennálló forgatható utalvány állomány hazai vagy külföldi hivatalos pénznemben kifejezett, összesített névértékét,
+- b) a 87/R. § (4) bekezdése szerinti bontásban az utalványbirtokosok pénzkövetelésének fedezetéül rendelkezésre álló eszközök összesített értékét legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi és folyamatos elérhetőségét a honlapján biztosítja.
+
+### A forgatható utalvány visszaváltása
+
+220/B. § (1) Az utalványkibocsátó az utalványbirtokos kérésére, az annak birtokában lévő forgalomképes forgatható utalványt a (3) bekezdésben meghatározott korlátozással a forgatható utalványon szereplő címletértékkel megegyező névértékű hazai törvényes fizetőeszközre bármikor visszaváltja.
+
+(2) Az utalványkibocsátó a forgatható utalvány visszaváltásáért díjat, jutalékot vagy költséget számíthat fel.
+
+(3) Ha a forgatható utalvány felhasználhatósága lejárathoz kötött, az utalványkibocsátó az (1) bekezdésben foglalt visszaváltási kötelezettsége a forgatható utalvány lejáratát követő tizenkettedik hónap végéig áll fenn.
 
 ### XXXII. Fejezet — Átmeneti és záró rendelkezések
 
@@ -4869,6 +4972,11 @@ esetében kell alkalmazni.
 
 234/N. § A pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvénnyel megállapított 44. § (4) bekezdésében foglalt rendelkezéseknek a hatálybalépésekor már működő vagy engedélyezési eljárás alatt lévő vegyes pénzügyi holding társaságnak legkésőbb 2014. január 1-től kell megfelelnie.
 
+234/O. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény (a továbbiakban: Módtv2.) 116. § (2) bekezdésében meghatározott időpontban forgatható utalvány kibocsátására irányuló tevékenységet végző utalványkibocsátó
+
+- a) a Módtv2.-vel megállapított 6/G. § (1) bekezdés szerinti bejelentési kötelezettségének a 6/G. § (2) bekezdés a)–c) pontja szerinti adattartalom, valamint a bejelentés napján az utalványkibocsátóval szembeni pénzkövetelésként fennálló forgatható utalvány állomány hazai hivatalos pénznemben kifejezett összesített névértékének közlésével a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított 15 napon belül köteles eleget tenni,
+- b) a Módtv2.-vel megállapított 6/F. § (2) bekezdésében, 87/R. §-ában és 220/A. §-ában foglalt követelményeknek a Módtv2. 116. § (2) bekezdésében meghatározott időponttól számított három hónapon belül köteles megfelelni, és a 87/R. § (4) bekezdésében foglalt kötelezettség teljesülésére vonatkozó igazolást eddig az időpontig az MNB-nek megküldeni.
+
 234/P. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény 10. §-ával megállapított 101. § (13) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
 
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
@@ -4916,10 +5024,10 @@ vonatkozó részletes szabályokat.
 (3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) a hitelintézetek befektetési szabályzatára,
-- b) a belső ellenőrzési rendszerekre, eljárásokra,
+- b) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat,
 - c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
 - d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
+- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére.
 
 (4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -5152,6 +5260,10 @@ b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapjá
 17. Kollektív befektetés: meghatározott szabályok alapján befektetési eszközökbe, tőzsdei termékekbe vagy ingatlanokba történő befektetés céljából a befektetők általános megbízása alapján nyilvánosan vagy zártkörűen létrehozott és a befektetők érdekében működtetett vagyon.
 
 18. Fizetési rendszer: pénzátutalási rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz.
+
+19. Forgatható utalvány: minden olyan, az utalványkibocsátóval szembeni pénzkövetelést megtestesítő bankjegynek, 5.1. pont szerinti készpénz-helyettesítő fizetési eszköznek és értékpapírnak nem minősülő, átruházható és többször felhasználható, papír alapú fizetési eszköz, amely áruk vagy szolgáltatások ellenértékének a kiegyenlítésére szolgál.
+
+20. Forgatható utalvány kibocsátására irányuló tevékenység: pénzeszköz ellenében a forgatható utalványnak az utalványkibocsátó által közvetlenül vagy utalványforgalmazó útján az utalványbirtokos rendelkezésére bocsátása.
 
 II. Az összevont alapú felügyelethez kapcsolódó fogalommeghatározások
 
@@ -5418,6 +5530,14 @@ b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azo
 66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
 
 67. Átlagos kinnlevő elektronikuspénz-állomány: az adott naptári nap végén kibocsátott elektronikus pénzre vonatkozó, az azt megelőző hat naptári hónap pénzügyi kötelezettségei mindenkori teljes összegének átlaga, amelynek kiszámítása során az adott hónapra vonatkozó pénzügyi kötelezettségnek az egyes naptári hónapok első naptári napján fennálló pénzügyi kötelezettség tekintendő.
+
+68. Utalványkibocsátó ügyfele: az utalványbirtokos és az utalványelfogadó azzal, hogy az utalványbirtokos és az utalványelfogadó személye megegyezhet.
+
+69. Utalványbirtokos: az a személy, aki vagy amely az utalványkibocsátótól történő megvásárlás útján vagy bármely más módon a rendelkezése alá került forgatható utalványt az utalványelfogadónál áru vagy szolgáltatás ellenértékének a kiegyenlítésére fizetési eszközként felhasználhatja.
+
+70. Utalványelfogadó: az utalványkibocsátóval szerződéses jogviszonyban álló személy, aki vagy amely a forgatható utalványt áru vagy szolgáltatás nyújtás ellenértékének kiegyenlítésére fizetési eszközként az utalványbirtokostól elfogadja.
+
+71. Utalványforgalmazó: az utalványkibocsátóval a forgatható utalványok értékesítésére és visszaváltására szerződéses jogviszonyban álló személy.
 
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
