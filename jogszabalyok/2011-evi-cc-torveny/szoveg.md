@@ -102,7 +102,7 @@ a Kormány által kijelölt szervezet (a továbbiakban: nemzeti mobil fizetési 
 
 (3)
 
-10. § A 2. § a) és b) pontja szerinti szolgáltatást nyújtó szolgáltató a központosított mobil értékesítésű szolgáltatás értékesítése céljából 2013. szeptember 30-áig veheti igénybe az erre a célra 2013. április 1-jét megelőzően kialakított és üzemeltetett mobil fizetési rendszert. A nemzeti mobil fizetési szervezet a nemzeti mobil fizetési rendszer működését a 2. § a) és b) pontja szerinti szolgáltatás tekintetében 2013. szeptember 30-ától biztosítja.
+10. § A 2. § a)–c) pontja szerinti szolgáltatást nyújtó szolgáltató a központosított mobil értékesítésű szolgáltatás értékesítése céljából 2014. július 1-jéig veheti igénybe az erre a célra kialakított és üzemeltetett, e törvénytől eltérő mobil fizetési rendszert. A nemzeti mobil fizetési szervezet a nemzeti mobil fizetési rendszer működését a 2. § a)–c) pontja szerinti szolgáltatás tekintetében legkésőbb 2014. július 1-jétől biztosítja.
 
 11. § (1)
 

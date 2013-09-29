@@ -2,52 +2,15 @@
 
 a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény módosításáról
 
-1. § A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. §-a helyébe a következő rendelkezés lép:
-
-„1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2013. évi
-
-a) bevételi főösszegét 15 325 316,1 millió forintban,
-
-b) kiadási főösszegét 16 376 150,9 millió forintban,
-
-c) hiányát 1 050 834,8 millió forintban
-
-állapítja meg.”
-
-2. § A Kvtv. 6. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. cím, 2. alcím, 4. jogcímcsoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, mely előirányzat a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege 100%-ának és az év folyamán az előirányzat javára történt átcsoportosítások együttes összegének mértékéig az államháztartásért felelős miniszter engedélyével túlléphető.”
+1–2. §
 
 3. §
 
-4. § A Kvtv. 25. §-a következő (20) bekezdéssel egészül ki:
-
-„(20) A szociál- és nyugdíjpolitikáért felelős miniszter a 2013. évi központi költségvetés január–szeptember havi előzetes tényadatai alapján 2013. október 31-éig az államháztartásért felelős miniszterrel egyetértésben a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. Költségvetési befizetések cím, 5. Nyugdíjbiztosítási Alap befizetése alcím javára történő befizetési kötelezettséget határozhat meg a LXXI. Nyugdíjbiztosítási Alap, 4. Egyéb befizetések cím, 1. Költségvetési befizetések alcím terhére.”
+4. §
 
 5. §
 
-6. § A Kvtv. 39. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 2013. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg a 380 000,0 millió forintot.”
-
-7. § A Kvtv.
-
-- a) 47. § (6) bekezdésében a „Nemzeti Fejlesztési Ügynökség” szövegrész helyébe a „Kormány európai uniós támogatások felhasználásáért felelős tagjának irányítása alatt álló, az európai uniós támogatások igénybevételében közreműködő központi hivatal” szöveg, a „fejlesztéspolitikáért felelős miniszter” szövegrész helyébe a „Kormány európai uniós támogatások felhasználásáért felelős tagja” szöveg,
-- b) 77. § (2) bekezdés e) pontjában a „fejlesztéspolitikáért” szövegrész helyébe a „Kormány európai uniós támogatások felhasználásáért felelős tagja, a fejlesztéspolitikáért” szöveg,
-- c) 77. § (2) bekezdés g) pontjában a „miniszter és a fejlesztéspolitikáért felelős miniszter” szövegrész helyébe a „miniszter, a fejlesztéspolitikáért felelős miniszter és a Kormány európai uniós támogatások felhasználásáért felelős tagja” szöveg,
-- d) 2. melléklet I. pont 1. alpont a) alpont aa) alpontjában az „államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.” szöveg,
-- e) 3. melléklet 10. pont f) alpontjában a „fejlesztéspolitikáért felelős miniszter” szövegrész helyébe a „Kormány európai uniós támogatások felhasználásáért felelős tagja” szöveg
-
-lép.
-
-8. § A Kvtv. a következő 81. §-sal egészül ki:
-
-„81. § A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény módosításáról szóló 2013. évi CXLIV. törvény (a továbbiakban: Módtv.) hatálybalépésekor az e törvény a Módtv. hatálybalépését megelőző napon hatályos 72. § (9)–(12) bekezdése alapján folyamatban lévő átvállalási eljárás a törvény erejénél fogva megszűnik, és az államháztartásért felelős miniszter a hitelező által – az állam általi átvállalásra felkínált adósságrészhez kapcsolódóan – megfizetett összeget a Módtv. hatálybalépését követő 15 napon belül visszautalja a hitelezőnek.”
-
-9. § Hatályát veszti a Kvtv.
-
-- a) 35. § (1)–(2) bekezdése,
-- b) 72. § (9)–(12) bekezdése.
+6–9. §
 
 10. §
 
