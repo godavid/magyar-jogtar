@@ -304,45 +304,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### VI. Fejezet — ORSZÁGOS FOGYATÉKOSÜGYI TANÁCS
 
-24. § (1) A Kormány fogyatékosüggyel kapcsolatos feladatainak ellátását az Országos Fogyatékosügyi Tanács (a továbbiakban: Tanács) segíti.
-
-(2) A Tanács
-
-- a) a fogyatékos személyekkel összefüggő döntések meghozatalában kezdeményező, javaslattevő, véleményező és koordináló,
-- b) a döntések végrehajtásának folyamatában elemző és értékelő
-
-tevékenységet végez.
-
-(3) A Tanács
-
-- a) véleményezi a fogyatékos személyeket érintő jogszabályok tervezeteit;
-- b) javaslatot tesz a fogyatékos személyeket érintő döntésekre, programokra, jogi szabályozásra;
-- c) részt vesz a fogyatékos személyek ügyeit érintő tevékenységek koordinálásában;
-- d) rendszeresen tájékoztatja a Kormányt a fogyatékos személyek élethelyzetének alakulásáról.
-
-(4) A Tanács kidolgozza az Országos Fogyatékosügyi Programot, és figyelemmel kíséri végrehajtását.
-
-25. § (1) A Tanács tagjai:
-
-- a) a Tanács elnöke,
-- b) a Program megvalósításával kapcsolatban a Kormány feladatkörében eljáró kormányzati szervek képviselői, összesen 12 fő,
-- c) a mozgássérült, a siket, a vak és gyengénlátó, az értelmi fogyatékos, valamint az autista emberek országos érdek-képviseleti szervezetei által delegált egy-egy fő,
-- d) a Fogyatékos Emberek Szövetségeinek Tanácsa és a Fogyatékosok Nemzeti Sportszövetsége által delegált egy-egy fő,
-- e) a fogyatékos személyek érdekében működő egyéb nem kormányzati szervezetek által delegált négy fő,
-- f) a védett munkahelyek szervezetei által delegált két fő,
-- g) az önkormányzatok országos érdekképviseleteit tömörítő szövetség által delegált egy fő.
-
-(2)
-
-(3) A Tanács elnöke a Kormány által kijelölt miniszter. A Tanács társelnöke a nem kormányzati oldal által a tagok közül választott személy.
-
-(4) A Tanács üléseit szükség szerint, de legalább negyedévente tartja.
-
-(5) A Tanács akkor határozatképes, ha a tagok több mint fele jelen van.
-
-(6) A Tanács működésének költségeit a központi költségvetés társadalmi esélyegyenlőség előmozdításáért felelős miniszter által felügyelt fejezetének költségvetésében kell biztosítani.
-
-(7) A fogyatékos személyek jogszabályban biztosított jogait megsértővel szemben az Országos Fogyatékosügyi Tanács, illetve a fogyatékos személyek országos érdek-képviseleti szervezetei pert indíthatnak a fogyatékos személyeket megillető jogok érvényesítése érdekében abban az esetben is, ha a jogsértés személyek pontosan meg nem határozható, nagyobb csoportját érinti.
+24–25. §
 
 ### VII. Fejezet — ORSZÁGOS FOGYATÉKOSSÁGÜGYI PROGRAM
 
@@ -388,7 +350,7 @@ tevékenységet végez.
 - a) a súlyos fogyatékosság minősítésének, felülvizsgálatának részletes szabályait;
 - b) a fogyatékossági támogatás folyósításának, elszámolásának szabályait;
 - c)
-- d) a Fogyatékosügyi Tanács szervezetére és működésére vonatkozó részletes szabályokat.
+- d)
 - e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait.
