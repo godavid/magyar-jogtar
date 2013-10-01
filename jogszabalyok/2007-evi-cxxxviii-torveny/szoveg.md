@@ -87,7 +87,8 @@ végez befektetési szolgáltatási tevékenységet,
 - 25. értékpapír letéti számla: az ügyfél számára vezetett, az ügyféltől letéti őrzésre átvett értékpapír nyilvántartására szolgáló számla,
 - 26. értékpapírszámla: a Tpt.-ben meghatározott fogalom,
 - 27. értékpapírtitok: minden olyan, az ügyfélről a befektetési vállalkozás, a multilaterális kereskedési rendszer működtetője és az árutőzsdei szolgáltató rendelkezésére álló adat, amely az ügyfél személyére, adataira, vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, illetve a befektetési vállalkozással és árutőzsdei szolgáltatóval kötött szerződéseire, számlájának egyenlegére és forgalmára vonatkozik,
-- 28. felügyeleti hatóság: a befektetési vállalkozás és az árutőzsdei szolgáltató befektetési szolgáltatási tevékenysége, kiegészítő szolgáltatása, illetőleg az árutőzsdei szolgáltató által végezhető tevékenység felügyeletét ellátó, hatáskörrel rendelkező szervezet, ide nem értve a Pénzügyi Szervezetek Állami Felügyeletét,
+- 27a. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB.
+- 28. felügyeleti hatóság: a befektetési vállalkozás és az árutőzsdei szolgáltató befektetési szolgáltatási tevékenysége, kiegészítő szolgáltatása vagy az árutőzsdei szolgáltató által végezhető tevékenység felügyeletét ellátó, hatáskörrel rendelkező szervezet, ide nem értve a Felügyeletet,
 - 29. fióktelep: az Fkt.-ban, illetve Ctv.-ben meghatározott szervezet,
 - 30. fogadó tagállam: a székhely szerinti EGT-államtól eltérő EGT-állam, amelyben a befektetési vállalkozásnak fióktelepe van vagy ahol szolgáltatást nyújt, illetve tevékenységet végez vagy az az EGT-állam, amelyben a szabályozott piac olyan rendszert biztosít, amellyel lehetővé teszi a távoli tagok, illetve a letelepedés helye szerinti EGT-állam résztvevőinek hozzáférését a kereskedési rendszerhez,
 - 31. harmadik ország: az az ország, amely nem minősül EGT-államnak,
@@ -207,7 +208,7 @@ végez befektetési szolgáltatási tevékenységet,
 
 (4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet végezhet.
 
-8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – a (2)–(4) bekezdésben foglaltak figyelembevételével – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélyével végezhető, illetve nyújtható.
+8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – a (2)–(4) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével végezhető, illetve nyújtható.
 
 (2) A külföldi befektetési vállalkozás – ide nem értve a (3) bekezdésben foglalt befektetési vállalkozást – fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetőleg kiegészítő szolgáltatást akkor nyújthat, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
 
@@ -2226,13 +2227,13 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 
 (2) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn a hatáskörében törvény felhatalmazása alapján eljáró
 
-- a) Felügyelettel, felügyeleti hatósággal,
+- a) felügyeleti hatósággal,
 - b) Befektető-védelmi Alappal,
 - c) MNB-vel,
 - d) Állami Számvevőszékkel,
 - e) állami adóhatósággal,
 - f) Gazdasági Versenyhivatallal,
-- g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel,
+- g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, kormányzati ellenőrzési szervvel,
 - h) nemzetbiztonsági szolgálattal,
 - i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel,
 - j) pénzügyi információs egységként működő hatósággal
@@ -2264,7 +2265,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-- a) a hatáskörében eljáró Felügyelettel, Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
+- a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
@@ -2290,7 +2291,7 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
 - a) azt az ügyfelet, ügyfélkört vagy számlát, akiről vagy amelyről a (4) bekezdésben megjelölt szerv vagy hatóság az értékpapírtitok kiadását kéri, és
-- b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB vagy a Felügyelet helyszíni ellenőrzést folytat.
+- b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB helyszíni ellenőrzést folytat.
 
 (6) A (3) és (4) bekezdés szerint adatkérésre jogosult szerv vagy hatóság a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkérésében megjelölt.
 
@@ -2367,9 +2368,9 @@ részére,
 
 (7) A szolgáltató az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A szolgáltatónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A szolgáltatónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
-(9) A szolgáltató a panaszt és az arra adott választ három évig őrzi meg, és azt a Pénzügyi Szervezetek Állami Felügyeletének kérésére bemutatja.
+(9) A szolgáltató a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
 (10) A szolgáltató az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A szolgáltató a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
 
@@ -2438,9 +2439,9 @@ részére,
 
 kell eleget tenni.
 
-(5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
+(5) A kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek adatot szolgáltatni.
 
 (7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.
 
@@ -2450,7 +2451,7 @@ kell eleget tenni.
 
 124. § (1) A részvénytársasági formában működő befektetési vállalkozás és árutőzsdei szolgáltató, illetőleg a korlátolt felelősségű társasági formában működő árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és a Gt., a szövetkezeti formában működő árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és a Sztv., a fióktelep formájában működő befektetési vállalkozás és árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A befektetési vállalkozás végelszámolójának vagy felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+(2) A befektetési vállalkozás végelszámolójának vagy felszámolójának kizárólag az MNBtv.-ben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 
 ### Csődeljárás
 
@@ -2903,15 +2904,12 @@ kezelheti.
 
 165. § A Felügyelet a 164. § (1) bekezdésének h), n), o) és p) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el azzal, hogy a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
-166. § (1) A Felügyelet a befektetési vállalkozást, az árutőzsdei szolgáltatót, ezek vezető állású személyét és alkalmazottját
+166. § A Felügyelet a befektetési vállalkozást, az árutőzsdei szolgáltatót, ezek vezető állású személyét és alkalmazottját
 
-- a) az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmtv.-ben, e törvény szerinti szabályzatában, valamint a Felügyelet határozatában foglalt kötelezettsége megsértése, kijátszása, figyelmen kívül hagyása vagy késedelmes teljesítése esetén,
-- b) ha azt az MNB a (2) bekezdés szerint kezdeményezi, vagy
-- c) ha külföldi felügyeleti hatóság a 177. §-ban foglalt eljárás szerint kezdeményezi,
+- a) az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmtv.-ben, e törvény szerinti szabályzatában, valamint a Felügyelet határozatában foglalt kötelezettsége megsértése, kijátszása, figyelmen kívül hagyása vagy késedelmes teljesítése esetén vagy
+- b) ha külföldi felügyeleti hatóság a 177. §-ban foglalt eljárás szerint kezdeményezi,
 
 bírság megfizetésére kötelezheti.
-
-(2)
 
 167. §
 
@@ -3060,18 +3058,15 @@ bírság megfizetésére kötelezheti.
 - c) a kereskedési könyv vezetésének részletes szabályait,
 - d) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, az árfolyamkockázat és nagykockázatok fedezetére szükséges tőkekövetelmény megállapításának szabályait,
 - e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
-- f) a hitelkockázat, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
+- f) a hitelkockázat – ide nem értve a lakóingatlan és a kereskedelmi ingatlan kockázati súlyára –, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
 - g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat,
 - h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
-- a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
-- b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére
-
-vonatkozó részletes szabályokat.
+(3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
 ### Hatálybalépés
 

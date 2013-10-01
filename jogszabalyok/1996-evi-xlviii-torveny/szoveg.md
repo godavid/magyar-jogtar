@@ -108,7 +108,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 ### A közraktári engedély
 
-5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, illetőleg szüntetheti meg, ha azt a felügyelet a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: PSZÁF) egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
+5. § (1) A közraktár a közraktári tevékenységet akkor kezdheti, vagy szüntetheti meg, ha azt a felügyelet a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) egyetértésével – az e törvényben meghatározott feltételek fennállása alapján – engedélyezte. A közraktár vámszabadterületen való működéséhez erre vonatkozó külön engedély is szükséges.
 
 (2) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelemhez két példányban mellékelni kell:
 
@@ -320,7 +320,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (2) A közraktári engedély 10. § (1) bekezdés c) pontja szerinti visszavonása esetén a felügyelet felügyeleti jogkörét a közraktár által kibocsátott valamennyi közraktári jegy bevonásáig gyakorolhatja.
 
-(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – a PSZÁF-fel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
+(3) A felügyelet évente ellenőrzi a közraktári tevékenység törvényben előírt feltételeinek meglétét, a közraktározás és – az MNB-vel együttműködve – a kölcsönnyújtás gyakorlatát (általános ellenőrzés). A felügyelet az általános ellenőrzéseken kívül – egy-egy részterületre kiterjedően – egyéb célvizsgálatot is elrendelhet.
 
 (4) Az ellenőrzés során a közraktár köteles
 
@@ -371,7 +371,7 @@ a felügyelet rendelkezésére bocsátani.
 - b) felfüggesztheti a közraktár tevékenységét;
 - c) visszavonhatja a közraktári engedélyt;
 - d) a közraktárt ötvenezer forinttól ötvenmillió forintig terjedő bírsággal sújthatja;
-- e) a PSZÁF egyetértésével megtilthatja a zálogkölcsön-nyújtási tevékenység folytatását.
+- e) az MNB egyetértésével megtilthatja a zálogkölcsön-nyújtási tevékenység folytatását.
 
 (1a) A felügyelet az (1) bekezdés b) és c) pontjában meghatározott intézkedéssel egyidejűleg értesíti a közraktárral a közraktározási biztosítékra szerződéses jogviszonyban álló hitelintézetet vagy biztosítót.
 
@@ -419,13 +419,13 @@ a felügyelet rendelkezésére bocsátani.
 
 (2) A felügyeleti díj alapdíjból és az előző naptári évben kibocsátott közraktári jegyeken feltüntetett érték alapján megállapított forgalomarányos díjból áll.
 
-(3) A közraktár az alapdíjat a felügyelet részére, továbbá, amennyiben a közraktár a 28. §-ban meghatározott zálogkölcsön nyújtására is engedéllyel rendelkezik, a PSZÁF részére is köteles megfizetni.
+(3) A közraktár az alapdíjat a felügyelet részére, továbbá, amennyiben a közraktár a 28. §-ban meghatározott zálogkölcsön nyújtására is engedéllyel rendelkezik, az MNB részére is köteles megfizetni.
 
 (4) Az alapdíj az alapdíjegység, valamint az (5) és a (6) bekezdésben meghatározott szorzószám szorzata. Az alapdíjegység ötvenezer forint.
 
 (5) A felügyelet részére fizetendő alapdíj szorzószáma: húsz.
 
-(6) A PSZÁF részére fizetendő alapdíj szorzószáma: négy.
+(6) Az MNB részére fizetendő alapdíj szorzószáma: négy.
 
 (7) A forgalomarányos felügyeleti díj mértéke az előző naptári évben, illetve beszámolási időszakban kibocsátott közraktári jegyeken feltüntetett érték együttes összegének 0,4 ezreléke, de legfeljebb tizennégymillió forint.
 
@@ -447,7 +447,7 @@ a felügyelet rendelkezésére bocsátani.
 - b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 - c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a PSZÁF-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén az MNB-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 

@@ -17,7 +17,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 - a) „B” sorozatú elsőbbségi részvény: a Takarékbank Zrt. által a jelen törvény hatálybalépése előtt kibocsátott, dematerializált, speciális jogokat biztosító szavazatelsőbbségi részvény;
 - b) „C” sorozatú elsőbbségi részvény: a Takarékbank Zrt. által kibocsátandó új, névre szóló, dematerializált speciális jogokat biztosító szavazatelsőbbségi részvény, amelynek összesített névértéke a teljes sorozat tekintetében 320 000 forint, a 160 db részvény névértéke pedig egyenként 2000 forint;
 - c) Előzetes kötelezettségvállaló nyilatkozat: a Gt. 255. § (3) bekezdés szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
-- d) Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete;
+- d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 - e) Folyamatban lévő engedélykérelemmel rendelkező hitelintézet: jelen törvény elfogadásáig a nem takarékszövetkezeti hitelintézetté alakulás iránt a Felügyeletnek kérelmet benyújtott szövetkezeti hitelintézet, amely 2013. december 31-ig a Felügyelet engedélye alapján nem takarékszövetkezeti hitelintézetté alakult és e törvény hatályba lépését követő 100 napon belül már nem tagja az Integrációs Szervezetnek illetve az OTIVA, a REPIVA, a HBA és a TAKIVA intézményvédelmi alapok egyikének sem.
 - f) hitelezési mutatója rossz: nem teljesítő (90 napon túl késedelmes) hiteleinek aránya a teljes hitelállományhoz képest meghaladja a 10 százalékot;
 - g) HBA: Hitelszövetkezetek Első Hazai Önkéntes Betétbiztosítási és Intézményvédelmi Alapja

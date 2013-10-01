@@ -167,7 +167,7 @@ történhet, azzal, hogy az értékelési módszer választását részletesen i
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott korlátozást a könyvvizsgáló Ptk. szerinti közeli hozzátartozójára is alkalmazni kell.
 
-14. § A szabályozott ingatlanbefektetési társaság által választott könyvvizsgáló a vizsgálatának eredményéről a szabályozott ingatlanbefektetési társaságot, az állami adóhatóságot és a Pénzügyi Szervezetek Állami Felügyeletét írásban haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelyek alapján
+14. § A szabályozott ingatlanbefektetési társaság által választott könyvvizsgáló a vizsgálatának eredményéről a szabályozott ingatlanbefektetési társaságot, az állami adóhatóságot és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankot írásban haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelyek alapján
 
 - a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
 - b) bűncselekmény elkövetésére vagy a szabályozott ingatlanbefektetési társaság belső szabályzatának súlyos megsértésére utaló körülményt észlel,

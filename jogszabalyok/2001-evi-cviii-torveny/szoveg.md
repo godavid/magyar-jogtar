@@ -307,7 +307,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (2) A 6. §-ban foglalt rendelkezések megsértése esetén
 
-- a) a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény (a továbbiakban: Psztv.) és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt szolgáltatók tekintetében a Pénzügyi Szervezetek Állami Felügyelete jár el a Psztv. szabályai szerint,
+- a) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank jár el a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 39. §-ában meghatározott törvények hatálya alá tartozó tevékenységet folytató szervezetek, személyek tekintetében az MNBtv. szabályai szerint,
 - b) egyéb szolgáltatók tekintetében a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvény szabályai szerint.
 
 (3) A 14/B. §-ban és a Grt. 6. §-ában foglalt rendelkezéseket megsértő elektronikus hirdetések esetén (a továbbiakban együtt: kéretlen elektronikus hirdetéssel kapcsolatos felügyeleti eljárás) a Hatóság jár el.

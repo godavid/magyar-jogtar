@@ -30,8 +30,8 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellátás
 - e) a Magyar Nemzeti Bank;
 - f) a Gazdasági Versenyhivatal;
 - g) az Országos Műszaki Fejlesztési Bizottság;
-- h) a Magyar Energetikai és Közmű-szabályozási Hivatal;
-- i) a Pénzügyi Szervezetek Állami Felügyelete.
+- h) a Magyar Energetikai és Közmű-szabályozási Hivatal.
+- i)
 
 (3) A Központi Statisztikai Hivatal a 6. § b) és e) pontjában meghatározott feladatainak teljesítése érdekében a (2) bekezdés b)–g) pontjában felsorolt szervektől tájékoztatást kérhet statisztikai tevékenységükről, az országos statisztikai adatgyűjtési program végrehajtásáról. E szervek a kért tájékoztatást kötelesek megadni.
 

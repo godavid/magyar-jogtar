@@ -12,6 +12,8 @@ Az Országgyűlés Magyarország címerének és zászlajának használatát a n
 
 (2) A köztársasági elnök a két angyallal mint pajzstartóval ellátott, a miniszterelnök és az Országgyűlés elnöke a cserfaággal és olajággal övezett címer használatára is jogosult.
 
+(2a) A Magyar Nemzeti Bank a tölgyfaággal és babérággal övezett címer használatára is jogosult.
+
 (3) Az (1) bekezdés hatálya alá nem tartozó költségvetési szervek címerhasználatának eseteit, illetőleg a címernek e szervek épületein, helyiségeiben való elhelyezését a tevékenységi körük szerint feladatkörrel rendelkező miniszter rendeletben határozza meg.
 
 2. § (1) A Magyar Közlöny címfeliratán a címert fel kell tüntetni.

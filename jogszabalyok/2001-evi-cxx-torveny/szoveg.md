@@ -33,7 +33,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 3. § (1) Fióktelep formájában működő tőzsde tekintetében a 307–310. §, a 355–357. §, fióktelep formájában működő elszámolóházi tevékenységet végző szervezet, központi szerződő fél tekintetében a 355–357. §, fióktelep formájában működő központi értéktár esetén a 342. §, 355–357. § rendelkezéseit nem kell alkalmazni.
 
-(2) A Hatodik részt nem kell alkalmazni azokra az ügyletekre, amelyeket devizatartalék-kezelés, monetáris, árfolyam- vagy államadósság-kezelési politikája következtében hajt végre az állam, az MNB, az ÁKK Zrt., a Központi Bankok Európai Rendszere vagy bármely más, erre feljogosított szerv, illetve a képviseletükben eljáró bármely személy.
+(2) A Hatodik részt nem kell alkalmazni azokra az ügyletekre, amelyeket az állam, az MNB, az ÁKK Zrt., a Központi Bankok Európai Rendszere vagy bármely más, erre feljogosított szerv, illetve a képviseletükben eljáró bármely személy devizatartalék-kezelés, monetáris, árfolyam- vagy államadósság-kezelési politikája következtében hajt végre.
 
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -222,7 +222,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 1. OECD: Gazdasági Együttműködési és Fejlesztési Szervezet,
 - 2. ÁKK Zrt: Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság,
 - 3. MNB: a Magyar Nemzeti Bank,
-- 4. Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete,
+- 4. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB,
 - 5. hitelintézet, bank, szakosított hitelintézet, szövetkezeti hitelintézet, pénzügyi vállalkozás: a Hpt.-ben ilyenként meghatározott gazdálkodó szervezet,
 - 6. fióktelep: az Fkt.-ban, illetve a Ctv.-ben ilyenként meghatározott szervezet,
 - 7. külföldi vállalkozás: az Fkt.-ban ilyenként meghatározott szervezet,
@@ -322,7 +322,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - d) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket vagy osztalékként ezekkel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, mint amelyre tekintettel az osztalékfizetés történik;
 - e) az értékpapírt a kibocsátó, illetőleg kapcsolt vállalkozása bármelyikük munkavállalójának, vezető tisztségviselőjének, felügyelő bizottsági tagjának, illetve volt munkavállalójának, vezető tisztségviselőjének és felügyelő bizottsági tagjának ajánlja fel, értékesíti, illetőleg juttatja, ha a kibocsátó valamely értékpapírja valamely szabályozott piacra már be van vezetve.
 
-(3) Az (1) bekezdésben meghatározott összegek átszámításánál a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamot kell alkalmazni.
+(3) Az (1) bekezdésben meghatározott összegek átszámításánál a forgalomba hozatalra vonatkozó döntés napján érvényes, MNB által közzétett, hivatalos devizaárfolyamot kell alkalmazni.
 
 (4)
 
@@ -447,7 +447,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) A tájékoztató a regisztrációs okmányból, az értékpapírjegyzékből és az összefoglalóból áll. A tájékoztató egyetlen összevont dokumentumként is elkészíthető (összevont tájékoztató).
 
-(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése, illetve multilaterális kereskedési rendszerbe történő regisztrációja céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra, illetve regisztrálni kívánják multilaterális kereskedési rendszerbe, és a tájékoztatót nem magyar nyelven készítették el.
+(5) Nem kell a tájékoztatónak összefoglalót tartalmazni, ha a tájékoztató olyan, hitelviszonyt megtestesítő értékpapír szabályozott piacra történő bevezetése, illetve multilaterális kereskedési rendszerbe történő regisztrációja céljából készült, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, ide nem értve azt az esetet, amikor az értékpapírt Magyarországon is be kívánják vezetni szabályozott piacra, illetve regisztrálni kívánják multilaterális kereskedési rendszerbe, és a tájékoztatót nem magyar nyelven készítették el.
 
 27. § (1) Az összefoglalóban röviden, közérthetően, a tájékoztató eredeti nyelvén, olyan formában és tartalommal kell ismertetni az értékpapír lényeges jellemzőit és fő kockázatait, hogy az a befektetők értékpapírra vonatkozó befektetési döntésének meghozatalát elősegítse. Az összefoglalót az értékpapírok jellemzőinek összehasonlíthatóságát biztosító, az (1a) bekezdés szerinti kiemelt információt is tartalmazó formátumban kell elkészíteni. Az összefoglalóban fel kell hívni a figyelmet arra, hogy
 
@@ -573,7 +573,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (3) Magyarországon székhellyel rendelkező kibocsátó a tájékoztató vagy alaptájékoztató közzétételét az Európai Unió másik tagállamának hatáskörrel rendelkező felügyeleti hatóságával is engedélyeztetheti, ha:
 
-- a) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amelynek névértéke legalább ezer euró, illetőleg a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán átszámítva ennek megfelelő összeg, vagy
+- a) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amelynek névértéke legalább ezer euró, vagy a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon átszámítva ennek megfelelő összeg, vagy
 - b) olyan, hitelviszonyt megtestesítő értékpapírt hoz forgalomba, amely átváltás útján, vagy az általa megtestesített jog gyakorlásával jogot ad valamely más értékpapír vagy pénz megszerzésére, feltéve, hogy a kibocsátó nem azonos a megszerezhető másik értékpapír kibocsátójával és nem tartozik vele azonos csoportba.
 
 (4) A (3) bekezdésben meghatározott esetben a kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést, illetve multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy abban a tagállamban kezdeményezheti a tájékoztató vagy alaptájékoztató közzétételének engedélyezését, amelyben az értékpapírt nyilvánosan vételre fel akarja ajánlani, vagy amelyben az értékpapírt szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja.
@@ -643,7 +643,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (6) Ha a kérelmező az értékpapírt Magyarországon nyilvánosan forgalomba kívánja hozni és a tájékoztatót nem magyar nyelven készíti el, az összefoglalót magyar nyelven is el kell készíteni. Ha a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését, illetve multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy a tájékoztatót más tagállam hatáskörrel rendelkező felügyeleti hatósága által megadott engedély alapján teszi közzé Magyarországon, az összefoglalót magyar nyelven is el kell készíteni.
 
-(7) Ha a kérelmező olyan hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes MNB hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni, és közzé kell tenni.
+(7) Ha a kérelmező olyan, hitelviszonyt megtestesítő értékpapírt kíván szabályozott piacra bevezetni, illetve multilaterális kereskedési rendszerbe regisztrálni, amelynek névértéke legalább százezer euró vagy a forgalomba hozatal napján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, a tájékoztatót vagy egy, minden érintett felügyeleti hatóság által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell elkészíteni. Ha a kérelmező az értékpapírt Magyarországon szabályozott piacra be kívánja vezetni, illetve multilaterális kereskedési rendszerbe regisztrálni kívánja és a tájékoztatót nem készíti el magyar nyelven, akkor az összefoglalót magyar nyelven is el kell készíteni, és közzé kell tenni.
 
 43/A. §
 
@@ -664,7 +664,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 (2) Hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalához, illetőleg szabályozott piacra történő bevezetéséhez – ha a forgalomba hozatalra, illetőleg a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a 26–27. §-ban meghatározott tájékoztató helyett a 7. számú melléklet szerint összeállított, a Felügyelet által engedélyezett ismertető tehető közzé a 34. §-ban meghatározott módon azzal, hogy a 7. számú melléklet 3–14. és 17–19. pontjában meghatározott adatokat a 27. § (6) bekezdésében meghatározottak szerint jelenti be a Felügyeletnek és teszi közzé:
 
 - a) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetén, ha az értékpapírok 1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, 2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez, 3. betétgyűjtést valósítanak meg, és 4. kiterjed rájuk az Országos Betétbiztosítási Alap által nyújtott biztosítás;
-- b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes MNB hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok 1. nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és 2. nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
+- b) kibocsátási program keretében forgalomba hozott hasonló típusú értékpapírok esetében, ha az összes forgalomba hozott értékpapír kibocsátási értéke az első forgalomba hozataltól számított tizenkét hónapos időtartamon belül nem éri el a hetvenötmillió eurót, vagy a forgalomba hozatalra vonatkozó döntés napján érvényes, MNB által közzétett hivatalos devizaárfolyamon számítva annak megfelelő összeget és az értékpapírok
+  - ba) nem alárendelt kölcsönt testesítenek meg, nem konvertálhatók és nem átcserélhetők, és
+  - bb) nem adnak jogot más értékpapír megszerzésére és nem kapcsolódnak származtatott termékhez.
 
 (3) Az ismertető a felügyeleti jóváhagyástól számított tizenkét hónapig hatályos.
 
@@ -732,7 +734,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 53. § (1) A 44–46. §-ban foglalt esetek kivételével, ha az értékpapírt a Felügyelet engedélyével valamely szabályozott piacra bevezették, a kibocsátó köteles évente a Felügyelet részére megküldött összefoglaló jelentésben feltüntetni, illetőleg felsorolni mindazt az információt, amit az összefoglaló jelentés közzétételét megelőző tizenkét teljes naptári hónap során közzétett, így különösen a társasági eseményekkel kapcsolatos információkat, a szabályozott piacra bevezetett értékpapírok kibocsátói részére jogszabályban vagy a szabályozott piac szabályzatában előírt tájékoztatás keretében közzétett információkat, és a számviteli jogszabályok által előírt kötelezettségek teljesítése során közzétett információkat. Ha az összefoglaló jelentés hivatkozást tartalmaz, meg kell jelölni, hogy az érintett információ hol érhető el. Az összefoglaló jelentést az 56. §-ban meghatározott módon közzé kell tenni.
 
-(2) Az (1) bekezdésben meghatározott kötelezettséget nem kell teljesíteni olyan hitelviszonyt megtestesítő értékpapír esetében, amelynek névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
+(2) Az (1) bekezdésben meghatározott kötelezettséget nem kell teljesíteni olyan hitelviszonyt megtestesítő értékpapír esetében, amelynek névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg.
 
 ### Rendszeres tájékoztatás
 
@@ -744,7 +746,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - b) éves jelentés,
 - c) nyilvánosan forgalomba hozott részvény kibocsátója időközi vezetőségi beszámoló formájában teljesíti.
 
-(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeg.
+(3) Nem köteles féléves jelentést készíteni a helyi önkormányzat, továbbá az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg.
 
 (4) A kibocsátónak az egyes pénzügyi évek végét követő legkésőbb négy hónapon belül közzé kell tennie az éves jelentését. A helyi önkormányzatnak az éves jelentést a jogszabályban előírt határidőben kell nyilvánosságra hoznia.
 
@@ -752,7 +754,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (6) Nem köteles féléves jelentést készíteni
 
-- a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB hivatalos devizaárfolyamán számítva ennek megfelelő összeget, és a nyilvános forgalomba hozatalhoz tájékoztatót nem készített,
+- a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeget, és a nyilvános forgalomba hozatalhoz tájékoztatót nem készített,
 - b) az a kibocsátó, amely 2005. július 1. napján már létezett, és amely kizárólag a székhely szerinti tagállam által feltétel nélkül és visszavonhatatlanul garantált, hitelviszonyt megtestesítő értékpapírokat bocsát ki.
 
 (7) A nyilvánosan forgalomba hozott részvény kibocsátója a pénzügyi év első, illetve második hat hónapjában időközi vezetőségi beszámolót köteles közzétenni az adott hat hónapos időszak kezdete utáni hetvenedik nap és a vége előtti negyvenkettedik nap közötti időszakban, az adott hat hónapos időszak kezdete és ezen beszámoló közzétételének napja közötti időszakra vonatkozóan.
@@ -933,7 +935,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (2) Ha az (1) bekezdés a) pontjában meghatározott esetben, az ott meghatározott időszakban kevesebb, mint harminchat ügyletre került sor, akkor a forgalommal súlyozott átlagárat nem kell figyelembe venni. Az ellenérték meghatározásánál az (1) bekezdés a) és b) pontja szerinti számított értéket akkor is figyelembe kell venni, ha az első kereskedési nap és a kivezetésről szóló döntés között eltelt idő kevesebb, mint száznyolcvan nap, de a kilencven napot meghaladja.
 
-(3) Ha a kibocsátó részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni.
+(3) Ha a kibocsátó részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 (4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 
@@ -1113,7 +1115,7 @@ közül a legmagasabb összeg.
 
 (2) Ha az (1) bekezdés a) pontjának aa) alpontjában, illetve b) pontjának ba) alpontjában meghatározott esetben, az ott meghatározott időszakban kevesebb, mint harminchat ügyletre került sor, akkor a forgalommal súlyozott átlagárat nem kell figyelembe venni. Az ellenérték meghatározásánál az (1) bekezdés a) pontjának aa) és ab) alpontja szerinti számított értéket akkor is figyelembe kell venni, ha az első kereskedési nap és a vételi ajánlat Felügyelet részére történő benyújtása között eltelt idő kevesebb, mint száznyolcvan nap, de a kilencven napot meghaladja.
 
-(3) Ha a céltársaság részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes MNB hivatalos devizaárfolyamot kell alkalmazni.
+(3) Ha a céltársaság részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
 (4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 
@@ -2108,7 +2110,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (4)
 
-214. § (1) Az Alap a tevékenysége ellátásához szükséges adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet és az MNB az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
+214. § (1) Az Alap a tevékenysége ellátásához szükséges adatok szolgáltatását írhatja elő a tagjai számára, és a helyszínen ellenőrizheti a tagsági viszony alapján a tagokat terhelő kötelezettségek teljesítését. Ebben a körben a Felügyelet az Alap kérésére megadja a rendelkezésére álló adatokat. Ha az Alap feladatkörében eljárva jogszabálysértést észlel, arról haladéktalanul értesíti a Felügyeletet.
 
 (2) Az Alap a kártalanításra jogosult befektetőtől kapott megbízás alapján elláthatja a befektető képviseletét az egyezségi tárgyaláson, illetve felszámolási eljárás során.
 
@@ -2219,21 +2221,21 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (2) Az igazgatóság tagja:
 
-- a) a tőzsde, a központi értéktár és az MNB által kijelölt egy-egy személy;
-- b) az Alap tagjainak – szakmai érdekképviseleti szervezetei által kijelölt – két képviselője;
-- c) a Felügyelet által kinevezett személy;
+- a) a tőzsde és a központi értéktár által kijelölt egy-egy személy;
+- b) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
+- c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (7) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
 - d) az Alap ügyvezető igazgatója.
 
-(3) A kinevezés vagy kijelölés három évre szól.
+(3) A kijelölés három évre szól.
 
 (4) Ha egy megüresedett hely betöltésére több szervezetet is megillet a kijelölés joga és a szervezetek nem tudnak megállapodni az igazgatósági tag személyéről, a betöltendő hely megüresedésekor kijelölésre jogosult szervezetek egy-egy jelöltje közül sorsolással kell kiválasztani az igazgatóság új tagját.
 
-(5) Az igazgatósági tagság megszűnése esetén a kijelölésre, illetve kinevezésre jogosult harminc napon belül dönt az új igazgatósági tag személyéről.
+(5) Az igazgatósági tagság megszűnése esetén a kijelölésre jogosult harminc napon belül dönt az új igazgatósági tag személyéről.
 
 (6) Megszűnik az igazgatósági tagság:
 
 - a) a (3) bekezdésben meghatározott idő elteltével;
-- b) a kijelölés visszavonásával, visszahívással, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
+- b) a kijelölés visszavonásával, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
 - c) a tag halálával; vagy
 - d) az ügyvezető igazgató kivételével lemondással.
 
@@ -2241,9 +2243,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
-(9) A Felügyelet képviselője az igazgatóság ülésén tanácskozási joggal vesz részt.
-
-(10) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg.
+(9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább öt tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 ### Az igazgatóság feladata
 
@@ -2272,7 +2272,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) Az Alap a szabályzatait és az igazgatóság nyilvánossá minősített határozatait a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. Az (1) bekezdés d) pontjában meghatározott szabályzat közzétételétől az Alap eltekinthet.
 
-(4) Az Alap igazgatósága a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj kockázatarányos módosításának szabályozásával kapcsolatban véleményt kér a Felügyelettől és az MNB-től.
+(4) Az Alap igazgatósága a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj kockázatarányos módosításának szabályozásával kapcsolatban véleményt kér az MNB-től.
 
 ### Az Alap forrásai
 
@@ -2562,7 +2562,7 @@ eltöltött időt.
 
 (4) A kockázati tőkealap-kezelő az általa kezelt alap működésének időtartama alatt végelszámolással nem szűnhet meg.
 
-(5) Kockázati tőkealap-kezelő felszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki.
+(5) Kockázati tőkealap-kezelő felszámolójának a bíróság kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki.
 
 (6) A kockázati tőkealap-kezelő által kezelt portfolióban lévő eszközök nem képezik a kockázati tőkealap-kezelő tulajdonát, azok a kockázati tőkealap-kezelő hitelezőinek kielégítésére nem vehetők igénybe.
 
@@ -2672,7 +2672,7 @@ eltöltött időt.
 
 (5) Ha a megszüntetési eljárás során a kockázati tőkealap saját tőkéje a (4) bekezdés alapján bejelentett kötelezettségek figyelembevételével együtt negatívvá válik, akkor a kockázati tőkealap-kezelő köteles azt a Felügyeletnek haladéktalanul bejelenteni.
 
-296/O. § (1) Ha e törvény másként nem rendelkezik, a kockázati tőkealap megszűnésekor felmerülő feladatokat a kockázati tőkealap-kezelő, a kockázati tőkealap-kezelő akadályoztatása, illetve felszámolása esetén a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
+296/O. § (1) Ha e törvény másként nem rendelkezik, a kockázati tőkealap megszűnésekor felmerülő feladatokat a kockázati tőkealap-kezelő, a kockázati tőkealap-kezelő akadályoztatása, illetve felszámolása esetén a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
 
 (2) A 296/M. §-ban meghatározott esetben a kockázati tőkealap portfoliójában lévő eszközöket tizennyolc hónapon belül értékesíteni kell. E határidő indokolt esetben – a Felügyelet engedélyével – legfeljebb hat hónappal meghosszabbítható. A kockázati tőkealap tulajdonában lévő, szabályozott piacra bevezetett értékpapírokat a kockázati tőkealap-jegy tulajdonosai között – a kockázati tőkealap-kezelési szabályzatban rögzített szabályoknak megfelelően – természetben is fel lehet osztani.
 
@@ -2691,7 +2691,7 @@ eltöltött időt.
 
 (6) A befektetők részére kifizetendő összeget a kockázati tőkealap-kezelő elkülönített letéti számlán köteles tartani a befektetők részére történő kifizetésig, illetve az elévülési idő elteltéig.
 
-296/P. § (1) Negatív saját tőkével rendelkező kockázati tőkealap megszüntetését a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
+296/P. § (1) Negatív saját tőkével rendelkező kockázati tőkealap megszüntetését a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
 
 (2) A kockázati tőkealap tulajdonába tartozó vagyon értékesítését, az értékesítésből származó ellenérték befolyását követően a nonprofit gazdasági társaság a hitelezők követeléseit a Cstv. előírásai szerinti kielégítési sorrendben egyenlíti ki.
 
@@ -3136,7 +3136,7 @@ foglaltakat.
 
 ### XLI. Fejezet — A TŐZSDEI TEVÉKENYSÉG FOLYTATÁSÁNAK MEGSZŰNÉSE
 
-333. § (1) Tőzsde felszámolójának vagy végelszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki. Tőzsde felszámolása esetén az eljárás felfüggesztésének nincs helye.
+333. § (1) Tőzsde felszámolójának vagy végelszámolójának a bíróság kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki. Tőzsde felszámolása esetén az eljárás felfüggesztésének nincs helye.
 
 (2) A tőzsde felszámolójának vagy végelszámolójának a kijelölését követő legalább hat hónapig a tőzsdei tevékenység folytatását biztosítania kell.
 
@@ -3288,7 +3288,7 @@ folytathat.
 - k) a vezető állású személyek megnevezését;
 - l)
 
-340. § (1) Az elszámolóházi tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+340. § (1) Az elszámolóházi tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (2) Az elszámolóház pénzügyi szolgáltatási tevékenységére a Hpt. rendelkezéseit, az elszámolóházi tevékenységet végző szervezetek kiegészítő befektetési szolgáltatási tevékenységére pedig e törvény negyedik, illetőleg ötödik részének rendelkezéseit az e részben foglalt eltérésekkel kell alkalmazni.
 
@@ -3313,7 +3313,7 @@ folytathat.
 - b) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel,
 - c) a 350/B. §-ban foglalt szabályzatokkal.
 
-(3) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(3) Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (4) A központi értéktári tevékenység végzéséhez szükséges, a 336. § (2) bekezdésének a)–d) pontjaiban meghatározott tevékenységek végzésére jogosító felügyeleti engedély az (1) bekezdésben foglalt engedélyezéssel egy eljárásban is megadható.
 
@@ -3385,7 +3385,7 @@ folytathat.
 
 (8) A (2) bekezdés d) és e) pontjában meghatározott tevékenységet végző központi szerződő fél alapítására, működésére és felügyeletére a Hpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(9) Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(9) Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 340/E. § A központi szerződő fél tevékenység végzéséről szóló engedély iránti kérelemhez mellékelni kell:
 
@@ -3419,7 +3419,7 @@ folytathat.
 
 341. § (1) A központi értéktárban – a (2) bekezdésben meghatározott eltéréssel – tulajdoni részesedést szerezhet:
 
-- a) az MNB;
+- a)
 - b) központi értéktári tevékenységet végző szervezet, ideértve a külföldi központi értéktári tevékenységet végző szervezetet;
 - c) tőzsdei tevékenységet végző szervezet, ideértve a külföldi tőzsdei tevékenységet végző szervezetet;
 - d) hitelintézet, ideértve a külföldi hitelintézetet;
@@ -3429,7 +3429,7 @@ folytathat.
 
 (2) A központi értéktárban a Magyar Állam, illetőleg a Magyar Állam többségi tulajdonában lévő vállalkozás közvetlen tulajdoni részesedésének mértéke legalább ötven százalék és egy szavazat.
 
-342. § (1) A központi értéktárban minősített befolyást szerző vagy meglévő befolyását módosító személy – ha a befolyásának mértéke eléri a huszonöt, harminchárom, ötven, hetvenöt, kilencven vagy száz százalékot – a befolyásszerzést két munkanapon belül
+342. § (1) A 341. § (1) bekezdés a) pontjában rögzített személy kivételével a központi értéktárban minősített befolyást szerző vagy meglévő befolyását módosító személy – ha a befolyásának mértéke eléri a huszonöt, harminchárom, ötven, hetvenöt, kilencven vagy száz százalékot – a befolyásszerzést két munkanapon belül
 
 - a) bejelenti a Felügyeletnek,
 - b) tájékoztatja azt az elszámolóházi tevékenységet végző szervezetet, amellyel a központi értéktárnak hatályos megállapodása van.
@@ -3439,7 +3439,7 @@ folytathat.
 - a) bejelenti a Felügyeletnek,
 - b) tájékoztatja azt az elszámolóházi tevékenységet végző szervezetet, amellyel a központi értéktárnak hatályos megállapodása van.
 
-(3) A központi értéktár két munkanapon bejelenti a Felügyeletnek, ha tudomást szerez az (1) és (2) bekezdésben meghatározott mértékű befolyás megszerzéséről, módosulásáról vagy megszűnéséről, és ezzel egyidejűleg ezt a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
+(3) A központi értéktár két munkanapon belül bejelenti a Felügyeletnek, ha tudomást szerez az (1) és (2) bekezdésben meghatározott mértékű befolyás megszerzéséről, módosulásáról vagy megszűnéséről, és ezzel egyidejűleg ezt a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi. A közzétételi kötelezettség a 341. § (1) bekezdés a) pontjában rögzített személy tulajdonszerzése esetében is fennáll.
 
 ### XLVI. Fejezet — ÖSSZEFÉRHETETLENSÉG
 
@@ -3493,13 +3493,13 @@ folytathat.
 
 (5) Az üzletszabályzat és a szabályzatok rendelkezéseinek tervezetét az elszámolóházi tevékenységet végző szervezet véleményezteti azzal a tőzsdével, amelynek szerződés alapján tőzsdei elszámolást végez.
 
-(6) Az elszámolóházi tevékenységet végző szervezet üzletszabályzatának és szabályzatainak alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(6) Az elszámolóházi tevékenységet végző szervezet üzletszabályzatának és szabályzatainak alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (7) A Felügyelet az engedélyt nem adja ki, ha
 
 - a) az üzletszabályzat és a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezéseinek,
 - b) a szabályzat nincs összhangban az üzletszabályzat vagy más szabályzat rendelkezésével,
-- c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
+- c)
 
 (8) Az elszámolóházi tevékenységet végző szervezet az üzletszabályzatát, valamint annak módosítását a Felügyelet jóváhagyását követően a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza.
 
@@ -3568,13 +3568,13 @@ folytathat.
 
 (4) Az üzletszabályzatnak és a szabályzatoknak a központi értéktár ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
-(5) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (6) A Felügyelet az engedély megadását megtagadja, ha
 
 - a) a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezéseinek,
 - b) a szabályzat nincs összhangban más szabályzat rendelkezéseivel,
-- c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
+- c)
 
 (7) A Felügyelet engedélyét követően a központi értéktár a (2) bekezdésben meghatározott szabályzatokat a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
 
@@ -3626,13 +3626,13 @@ folytathat.
 
 (3) A szabályzatoknak a központi szerződő fél ügyfeleire nézve biztosítania kell az egyenlő bánásmód követelményének megtartását.
 
-(4) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(4) A (2) bekezdésben foglalt szabályzatok alkalmazhatóságához szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. Az engedélyezési eljárásban az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdéseket a Felügyelet vizsgálja.
 
 (5) A Felügyelet az engedély megadását megtagadja, ha
 
 - a) a szabályzat nem felel meg e törvény vagy más jogszabály rendelkezéseinek,
 - b) a szabályzat nincs összhangban más szabályzat rendelkezéseivel,
-- c) az MNB a szakhatósági állásfoglalásban a hozzájárulást megtagadja.
+- c)
 
 (6) A Felügyelet engedélyét követően a központi szerződő fél a (2) bekezdésben meghatározott szabályzatokat a Felügyelet által üzemeltetett honlapon és a saját honlapján közzéteszi.
 
@@ -4004,7 +4004,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 ### LIII. Fejezet — A FELÜGYELETRE VONATKOZÓ SZABÁLYOK
 
-377. § A Pénzügyi Szervezetek Állami Felügyelete jogállását és hatáskörét külön törvény határozza meg.
+377. §
 
 378. §
 
@@ -4112,9 +4112,9 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 - a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 - b) a tőzsdében történő tulajdonszerzés engedélyezése iránti kérelmet benyújtó személy, illetve a tőzsde tulajdonosának a 308. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
-- c) a Psztv. 53. §-a szerinti ellenőrzési eljárás során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;
+- c) a pénzügyi közvetítőrendszer felügyeletének ellátása során, a Felügyelet ellenőrzési feladatainak ellátása érdekében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár természetes személy ügyfelének természetes személyazonosító adatait, jogi személy ügyfelének azonosító adatait illetve az ilyen adatot tartalmazó nyilvántartást vagy adatbázist; az ügyfél vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, számlájának egyenlegére és forgalmára vonatkozó adatokat;
 - d) a bejelentésre kötelezett bennfentes jogi személy azonosító adatait, bennfentes természetes személy esetében a természetes személyazonosító adatait, lakcímét, valamint az ügylet azonosító adatait;
-- e) a Psztv. szerinti piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó értékpapír-, ügyfél- és fizetésiszámla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos természetes személyazonosító adatot, az állampolgárságát, a lakóhelyét, a tartózkodási helyét, ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges;
+- e) a pénzügyi közvetítőrendszer felügyeletének ellátása során, a piacfelügyeleti eljárással kapcsolatos feladatainak ellátása érdekében az eljárás alá vont ügyfélre vonatkozó értékpapír-, ügyfél- és fizetésiszámla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos természetes személyazonosító adatot, az állampolgárságát, a lakóhelyét, a tartózkodási helyét, ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges;
 - f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében 1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy, 2. a tőzsde tisztségviselője és alkalmazottja, 3. az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél vagy a központi értéktár vezető állású személye és alkalmazottja, 4. az ügynök, 5. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja természetes személyazonosító adatait;
 - g)
 - h) a befolyásszerzés mértékének ellenőrzése érdekében a nyilvánosan működő részvénytársaság tulajdonosainak adatait;
@@ -4188,9 +4188,9 @@ kezelheti.
 
 kell eleget tenni.
 
-(5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
+(5) A kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal az MNB-nek adatot szolgáltatni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 
@@ -4504,6 +4504,8 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 450. § E törvénynek a tőkepiacról szóló 2001. évi CXX. törvény módosításáról szóló 2005. évi LXII. törvénnyel megállapított rendelkezéseit annak hatálybalépését megelőzően forgalomba hozott értékpapírok zártkörű vagy nyilvános minősítésénél nem kell alkalmazni.
 
+450/A. § Az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése nem érinti a 223. § (2) bekezdése alapján létrejött olyan igazgatósági tagsági jogviszonyt, mely 2013. szeptember 30-án már fennállt, azzal hogy az MNB a 223. § (2) bekezdés c) pontjában meghatározott jogosultságával az e törvényben meghatározott megszűnési okok valamelyikének bekövetkezte esetén élhet.
+
 ### Felhatalmazások
 
 451. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
@@ -4542,16 +4544,15 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - q) a piacbefolyásolásra utaló magatartások minősítésekor figyelembe veendő körülményeket;
 - r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
 - s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi késleltetésére vonatkozó részletes szabályokat;
-- t)
-- u)
+- t) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
+- u) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára vonatkozó részletszabályokat.
 
-(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg:
 
-- a) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
-- b) az ISIN azonosítóra vonatkozó részletes szabályokat;
-- c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára, módjára és gyakoriságára vonatkozó részletszabályokat;
-- d) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
-- e) az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.
+- a) az ISIN azonosítóra vonatkozó részletes szabályokat;
+- b) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének módjára és gyakoriságára vonatkozó részletszabályokat;
+- c) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
+- d) az információterjesztésre, az információtárolási rendszerre, továbbá az MNB felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.
 
 ### 1. számú melléklet a 2001. évi CXX. törvényhez
 
@@ -4570,9 +4571,9 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - 11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
 - 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
-- 14.
+- 14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
 - 15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
-- 16. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény,
+- 16.
 - 17. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 - 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 - 19. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény.

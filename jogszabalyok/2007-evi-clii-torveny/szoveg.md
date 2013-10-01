@@ -31,7 +31,8 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 - d) vezetői megbízással rendelkező köztisztviselő,
 - e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
 - f) ügyész vagy
-- g) közjegyző.
+- g) közjegyző,
+- h) bírósági végrehajtó.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
@@ -53,7 +54,7 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 
 4. § A vagyonnyilatkozat-tételi kötelezettséget
 
-- a) a 3. § (1)–(2) bekezdésében meghatározott közszolgálatban álló személyek esetében – ide nem értve a közjegyzőt és az ügyészt – az őket ilyen minőségében alkalmazó szervezet szervezeti és működési szabályzatában,
+- a) a 3. § (1)–(2) bekezdésében meghatározott közszolgálatban álló személyek esetében – ide nem értve a közjegyzőt, a bírósági végrehajtót és az ügyészt – az őket ilyen minőségében alkalmazó szervezet szervezeti és működési szabályzatában,
 - b) a 3. § (3) bekezdés a)–c) pontjában meghatározott esetben a gazdálkodó szervezet létesítő okiratában,
 - c) a 3. § (3) bekezdés d) pontjában foglalt esetben a közalapítvány alapszabályában,
 - d) a 3. § (3) bekezdés e) pontjában meghatározott személyek esetében az őket ilyen minőségükben alkalmazó szervezet szervezeti és működési szabályzatában
@@ -87,7 +88,7 @@ fel kell tüntetni.
 
 7. § A vagyonnyilatkozat őrzéséért
 
-- a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége,
+- a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége, bírósági végrehajtó esetében a kinevezésre jogosult,
 - b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdálkodó szervezet tekintetében a tulajdonosi jogokat az állam nevében gyakorló személy vagy szervezet,
 - c) a 3. § (3) bekezdés d) pontja szerinti kötelezettek esetében az állami támogatási előirányzat kezelője – helyi önkormányzat esetében a jegyző, közalapítvány esetében az alapítói jogokat gyakorló szerv, területfejlesztési tanács esetében annak hivatali szervezete –, vagy ha e szerv nem azonos az állami pénzalap, illetve az állami támogatási előirányzat felhasználásának szakmai lebonyolításáért felelős szervvel, akkor ez utóbbi,
 - d) a Magyar Nemzeti alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke felelős (a továbbiakban együtt: őrzésért felelős).
@@ -201,6 +202,8 @@ fel kell tüntetni.
 (7) 2008. július 1-jén hatályát veszti e törvény 17–20. §-a, 22–25. §-a, 26. § (3)–(6) bekezdése, a 17. §-t és a 25. §-t megelőző alcímek.
 
 (8) 2008. július 1-jén hatályát veszti e törvény 21. §-a.
+
+(9) A bírósági végrehajtással kapcsolatos egyes törvények módosításáról szóló 2013. évi XCIX. törvény hatálybalépésének időpontjában már szolgálatban lévő bírósági végrehajtó első alkalommal 2013. december 31-éig tesz vagyonnyilatkozatot.
 
 ### Melléklet a 2007. évi CLII. törvényhez
 

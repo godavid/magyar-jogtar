@@ -154,7 +154,14 @@ vonatkozik.
 
 (8) Visszaigényelhető a 8. § (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
 
-(9) A (8) bekezdés szerinti visszaigénylésre a földgáz egyetemes szolgáltató a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
+(8a) Az a lakossági fogyasztót ellátó, egyetemes szolgáltatónak nem minősülő földgázkereskedő, amely az általa ellátott lakossági fogyasztó számára
+
+- a) a földgáz-kereskedelmi szolgáltatást a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árszabások megállapításáról szóló miniszteri rendelet szerinti árszabásokhoz kötötten, az adott felhasználási helyre vonatkozó díjelemekkel azonos, de legalább egy díjelem tekintetében alacsonyabb árakon nyújtja, és
+- b) az egyetemes szolgáltatás keretében ellátott lakossági fogyasztó által igénybe vehető, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott szolgáltatásokat biztosítja, visszaigényelheti a 8. § (2) bekezdés b) pontja szerinti tagi hozzájárulásnak azt a részét, amelyet az a)–b) pont szerint ellátott lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére megfizetett.
+
+(8b) A (8a) bekezdés a) pontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
+
+(9) A (8) és (8a) bekezdés szerinti visszaigénylésre az egyetemes szolgáltató, valamint a földgázkereskedő a tagi hozzájárulás befizetésétől számított 90 napon belül jogosult. A Szövetség a visszautalást az igénylésnek és az értékesítés könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül teljesíti.
 
 (10) A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni. Az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
 

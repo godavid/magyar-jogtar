@@ -144,7 +144,7 @@ bíróság vagy az intézkedésre jogosult hatóság általi közlésének időp
 - b) a megállapodásban résztvevők közül legalább egy magyarországi székhellyel rendelkezik,
 - c) a megállapodás tartalmazza a 3. § (1) bekezdésében foglaltakat,
 - d) a megállapodásban elszámoló félként rögzített résztvevő rendelkezik:
-  - da) a Tpt. 334. §-ában megnevezett elszámolóházi tevékenység végzése esetén a Pénzügyi Szervezetek Állami Felügyeletének a Tpt. 338. § (1) bekezdése szerinti tevékenységi engedélyével, vagy
+  - da) a Tpt. 334. §-ában meghatározott elszámolóházi tevékenység végzése esetén a Tpt. 338. § (1) bekezdése szerinti tevékenységi engedéllyel, vagy
   - db) a Hpt. 3. § (2) bekezdés b) pontja szerinti kiegészítő pénzügyi tevékenység (elszámolásforgalom lebonyolítása) végzése esetén a Magyar Nemzeti Banknak a Hpt. 3. § (6) bekezdésében előírt tevékenységi engedélyével, vagy
   - dc) az Európai Unió más tagállama felügyeleti hatósága által kiadott elszámolóházi tevékenység végzésére jogosító engedéllyel,
 - e) ha a rendszer résztvevői között külföldi székhelyű van:
@@ -160,7 +160,7 @@ bíróság vagy az intézkedésre jogosult hatóság általi közlésének időp
 
 (3)
 
-(4) A kérelmező a 10. § d) pont da) alpontja szerinti tevékenységre való jogosultságát az engedélynek a kijelölés iránti kérelem mellékleteként való benyújtásával igazolhatja, ennek hiányában a kijelölő az adat igazolása iránt a Pénzügyi Szervezetek Állami Felügyeletét keresi meg. A kijelölés iránti kérelemhez mellékelni kell:
+(4) A kijelölés iránti kérelemhez mellékelni kell:
 
 - a) a rendszerben résztvevő elszámoló fél 10. § d) pont dc) alpontja szerinti hatósági tevékenységi engedélyét,
 - b) a rendszert létrehozó és működését szabályozó megállapodást,

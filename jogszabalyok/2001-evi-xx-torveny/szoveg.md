@@ -194,7 +194,7 @@ szerezhet.
 
 (3) Az MFB Zrt. által befektetési alapokba, illetőleg kockázati tőkealapokba befektetett fejlesztési tőke összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjét.
 
-9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
+9/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
 ### Az üzleti könyvek vezetése. Az éves beszámoló
 
@@ -204,9 +204,9 @@ szerezhet.
 
 ### V. Fejezet — AZ MFB ZRT. FELÜGYELETE
 
-11. § (1) Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – a Felügyelet látja el.
+11. § (1) Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – az MNB látja el.
 
-(2) A Felügyelet az általa végzett vizsgálat eredményéről készült jelentést a tulajdonosi jogok gyakorlójának küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
+(2) Az MNB az általa végzett vizsgálat eredményéről készült jelentést a tulajdonosi jogok gyakorlójának küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
 
 ### VI. Fejezet — AZ MFB ZRT. SZERVEZETE
 
@@ -228,9 +228,9 @@ szerezhet.
 
 (2) Vezető állású személynek, illetve ügyvezetőnek az a személy választható meg, illetve nevezhető ki, aki megfelel a Hpt. 44. §-ában, illetve a 68. §-ában meghatározott feltételeknek azzal, hogy ügyvezetővé az a személy is megválasztható, illetve kinevezhető, aki rendelkezik hitelintézetnél, vagy szakosított hitelintézetnél szerzett legalább 10 éves szakirányú vezetői gyakorlattal.
 
-(3) Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését az MFB Zrt. a kinevezéstől számított 2 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésre a Hpt. 68. § (2) bekezdését kell megfelelően alkalmazni.
+(3) Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését az MFB Zrt. a kinevezéstől számított 2 munkanapon belül köteles az MNB-nek bejelenteni. A bejelentésre a Hpt. 68. § (2) bekezdését kell megfelelően alkalmazni.
 
-(4) Amennyiben a Felügyelet úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 44. §-ában és 68. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
+(4) Amennyiben az MNB úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 44. §-ában és 68. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
 
 (5) A jelen § rendelkezéseit e törvény mellékleteiben szereplő pénzügyi intézményekre, valamint az 1. és 2. számú mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
 

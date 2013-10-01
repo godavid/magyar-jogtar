@@ -2,7 +2,7 @@
 
 Magyarország gazdasági stabilitásáról
 
-Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (7) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
+Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fenntarthatóságának biztosítása érdekében, a központi költségvetésről szóló törvény megalapozottságának független vizsgálata, valamint az államadósság csökkentésének elősegítése céljából az Alaptörvény végrehajtására, az Alaptörvény XXX. cikke, 34. cikk (5) bekezdése, 37. cikk (6) bekezdése, 40. cikke és 44. cikk (5) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -72,6 +72,8 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 8. § Az állam nevében adósságot keletkeztető ügylet érvényesen csak törvény felhatalmazása alapján köthető.
 
+8/A. § Mindaddig, amíg az államadósság a bruttó hazai termék felét meghaladja, ha az államot terhelő olyan mértékű közvetlen kiadás keletkezik, amelynek teljesítésére a központi költségvetésről szóló törvényben megállapított, a Kormány irányítása alá tartozó fejezetekben rendelkezésre álló előirányzatok nem elegendők, a Kormány jogosult az Áht.-ban foglalt egyes intézkedések megtételére, vagy javaslatot tehet az ilyen kiadások teljesítéséhez szükséges, a 28. § szerinti fizetési kötelezettség törvényben történő megállapítására.
+
 9. § (1) A kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a likvid hitel igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
 
 (2) Az államháztartásért felelős miniszter a hozzájárulást abban az esetben adja meg, ha
@@ -121,7 +123,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 (9) Az önkormányzat az (1) bekezdés szerinti hozzájárulás iránti kérelméhez
 
 - a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
-- b) kötvény nyilvános kibocsátásának szándéka esetén a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
+- b) kötvény nyilvános kibocsátásának szándéka esetén a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése előtt a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 - c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
 - d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
 - e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
@@ -392,7 +394,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a bírság, pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
 
-(3) Törvény felhatalmazása alapján a Magyar Nemzeti Bank elnöke, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat állapíthat meg.
+(3) Törvény felhatalmazása alapján a Magyar Nemzeti Bank elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat állapíthat meg.
 
 (4) Az (1) bekezdéstől eltérően az adópolitikáért felelős miniszter a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben rendeletet alkothat az illeték megállapításának mellőzéséről és az ehhez kapcsolódó eljárási szabályokról.
 
@@ -411,7 +413,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 34. § Nem kell alkalmazni a 32. §-t és a 33. §-t, ha
 
 - a) a fizetési kötelezettség az Európai Unió kötelező jogi aktusának való megfelelés miatt kerül megállapításra.
-- b) a fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó, valamint az új fizetési kötelezettséget megállapító törvény megalkotására az Alaptörvény 37. cikk (6) bekezdésében meghatározott okból kerül sor.
+- b)
 
 35. § A fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmény, mentesség körét és mértékét, valamint az új fizetési kötelezettséget megállapító törvényt kizárólag ezzel azonos vagy hasonló életviszonyokat szabályozó törvényben lehet módosítani vagy hatályon kívül helyezni.
 
@@ -512,16 +514,14 @@ azzal, hogy kifizetett összegnek minősül a számlán található értékpapí
 
 (3) Az államháztartásért felelős miniszter az (1) bekezdés a) pontja szerint szerzett értékpapírt Magyarország területén székhellyel rendelkező hitelintézetnek értékpapír-kölcsön ügylet keretében kölcsönadhatja.
 
-(4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér
+(4) Az államháztartásért felelős miniszter az értékpapírkölcsön-ügyletről vagy a kölcsönnyújtásról szóló döntését megelőzően javaslatot kér a Magyar Nemzeti Bank elnökétől, amely tartalmazza
 
-- a) a Magyar Nemzeti Bank elnökétől, amely tartalmazza
-  - aa) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
-  - ab) a hitelintézet rövid távú likviditási helyzetének értékelését, és
-  - ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést, valamint
-- b) a Pénzügyi Szervezetek Állami Felügyelete elnökétől, amely tartalmazza
-  - ba) a hitelintézet szavatoló tőke helyzetéről szóló értékelést,
-  - bb) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-  - bc) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+- a) a hitelintézet pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményre, pénzügyi piacra, pénzügyi infrastruktúrára és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+- b) a hitelintézet rövid távú likviditási helyzetének értékelését,
+- c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
+- d) a hitelintézet szavatolótőke-helyzetéről szóló értékelést,
+- e) a hitelintézet közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+- f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
 
 (5) Az (1) bekezdés b) pontja szerinti kölcsönnyújtáshoz kapcsolódóan az államháztartásért felelős miniszter a kölcsönfelvevő kötelezettségeként olyan feltételek teljesülését írja elő, amelyek biztosítják, hogy a kölcsön a Magyarország területén székhellyel rendelkező vállalkozások finanszírozási forrásainak bővítését szolgálja.
 

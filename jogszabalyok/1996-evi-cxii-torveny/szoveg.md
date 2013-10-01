@@ -49,7 +49,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - g) a külön jogszabály alapján létrehozott Diákhitel Központra.
 - h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
-(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
+(3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési és felügyeleti tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
 (4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 218. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikus pénz kibocsátóját említenek, azon a kincstárt is érteni kell.
 
@@ -84,28 +84,23 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (3) Az (1)–(2) bekezdésben foglalt tevékenységek – az e törvényben foglalt eltéréssel – üzletszerűen csak engedéllyel végezhetők.
 
-(4) Ha törvény másként nem rendelkezik, kizárólag a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdés a) és d) pontjában meghatározott kiegészítő pénzügyi szolgáltatás.
+(4) Ha törvény másként nem rendelkezik, kizárólag az MNB e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdésben meghatározott kiegészítő pénzügyi szolgáltatás.
 
-(5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5)–(6)
 
-(6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
+(6a) A (2) bekezdés e) pontjában meghatározott tevékenység engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető.
 
-(6a) A (2) bekezdés e) pontjában meghatározott tevékenység
-
-- a) engedély nélkül, az MNB-nek – e törvényben meghatározott módon – tett bejelentés mellett végezhető,
-- b) végzésével kapcsolatos, e törvényben meghatározott rendelkezések megtartását az MNB ellenőrzi.
-
-(7) A (6) bekezdésben meghatározott tevékenységek végzésének engedélyezéséről szóló határozatot az MNB közli a Felügyelettel. A Felügyelet a határozat alapján a jogi személyt nyilvántartásba veszi.
+(7)
 
 (8) Törvény váltóval saját számlára vagy bizományosként történő kereskedelmi tevékenységet [3. § (1) bekezdésének g) pontja] más jogi személy részére is lehetővé teheti.
 
-(9) A függő ügynök a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
+(9) A függő ügynök az MNB engedélye nélkül végezhet ügynöki tevékenységet.
 
-(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
+(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét az MNB által meghatározott módon és gyakorisággal bejelenti az MNB-nek.
 
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 
-(12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
+(12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást az MNB engedélye nélkül is végezhet.
 
 (13) A 3. § (1) bekezdésének e) pontja szerinti pénzügyi szolgáltatási tevékenység végzésére
 
@@ -247,7 +242,7 @@ végezhet.
 
 (2) Közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
-(3) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
+(3) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag az MNB e törvényben meghatározott engedélyével végezheti.
 
 (4) A közvetítő nem jogosult az ügyfél nevében a pénzügyi intézménytől, a pénzforgalmi intézménytől és az elektronikuspénz-kibocsátó intézménytől az ügyfelet megillető pénz átvételére.
 
@@ -371,7 +366,7 @@ végezhet.
   - ab) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt elítéltek,
 - b) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
 
-(5) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (4) bekezdésben meghatározott foglalkoztatási feltétel fennállásának ellenőrzésére – a bűntettesek nyilvántartásának és a büntetőeljárás alatt állók nyilvántartásának adatai alapján – a Felügyelet jogosult.
+(5) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (4) bekezdésben meghatározott foglalkoztatási feltétel fennállásának ellenőrzésére – a bűntettesek nyilvántartásának és a büntetőeljárás alatt állók nyilvántartásának adatai alapján – az MNB jogosult.
 
 ### Kiszervezés
 
@@ -379,7 +374,7 @@ végezhet.
 
 (2) A kiszervezett tevékenységet végzőnek – a kockázattal arányos mértékben – rendelkeznie kell mindazon személyi, tárgyi és biztonsági feltételekkel, melyeket jogszabály a kiszervezett tevékenységet illetően a hitelintézetre vonatkozóan előír.
 
-(3) A hitelintézet köteles a Felügyeletnek a kiszervezésről szóló szerződés aláírását követően két napon belül bejelenteni:
+(3) A hitelintézet köteles az MNB-nek a kiszervezésről szóló szerződés aláírását követően két napon belül bejelenteni:
 
 - a) a kiszervezés tényét,
 - b) a kiszervezett tevékenységet végző nevét, székhelyét vagy állandó lakcímét,
@@ -388,7 +383,7 @@ végezhet.
 (4) A kiszervezésre vonatkozó szerződésnek tartalmaznia kell:
 
 - a) az adatvédelemre vonatkozó előírások érvényesülésének bemutatását,
-- b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, külső könyvvizsgálója, az MNB és a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
+- b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, külső könyvvizsgálója, az MNB helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
 - c) a kiszervezett tevékenységet végző felelősségét a tevékenység megfelelő színvonalon történő végzéséért, illetve a szerződés hitelintézet részéről történő azonnali felmondási lehetőségét a szerződés ismételt vagy súlyos megsértése esetére,
 - d) a kiszervezett tevékenységet végzőtől elvárt, a tevékenység végzésének minőségére vonatkozó részletes követelményeket,
 - e) a kiszervezett tevékenységet végző részéről a bennfentes kereskedelem elkerülése érdekében alkalmazandó szabályokat.
@@ -397,23 +392,23 @@ végezhet.
 
 (6) A hitelintézet belső ellenőrzése köteles a kiszervezett tevékenység szerződésben foglaltaknak megfelelő végzését legalább évente megvizsgálni.
 
-(7) A hitelintézet felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézetnek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
+(7) A hitelintézet felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézetnek haladéktalanul jelentenie kell az MNB részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 
-(8) A Felügyelet a hitelintézet (7) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
+(8) Az MNB a hitelintézet (7) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
 
 (9) Az a kiszervezett tevékenységet végző, amely egyidejűleg több hitelintézet részére végez kiszervezett tevékenységet, köteles az így tudomására jutott tényt, adatot, információt elkülönítetten – az adatvédelmi előírások betartásával – kezelni.
 
-(10) A kiszervezett tevékenységet végző közreműködőt abban az esetben alkalmazhat, ha a közöttük létrejövő szerződés – melyet a hitelintézetnek jóvá kell hagynia – biztosítja a kiszervezett tevékenységnek a Felügyelet, az MNB és a hitelintézet belső ellenőrzése, könyvvizsgálója által történő ellenőrzését.
+(10) A kiszervezett tevékenységet végző közreműködőt abban az esetben alkalmazhat, ha a közöttük létrejövő szerződés – melyet a hitelintézetnek jóvá kell hagynia – biztosítja a kiszervezett tevékenységnek az MNB és a hitelintézet belső ellenőrzése, könyvvizsgálója által történő ellenőrzését.
 
 (11) A hitelintézet vezető tisztségviselője vagy annak közeli hozzátartozója nem állhat tulajdonosi viszonyban a kiszervezett tevékenységet végzővel, illetve a hitelintézet vezető tisztségviselője, közeli hozzátartozója a kiszervezett tevékenység végzésével nem bízható meg.
 
 (12) A hitelintézet a kiszervezett tevékenységek körét, és a kiszervezett tevékenység végzőjét az üzletszabályzatban köteles feltüntetni.
 
-(13) Pénzügyi vállalkozás a Felügyelethez történő bejelentés nélkül szervezheti ki ügyviteli tevékenységét, ha azonban a kiszervezni kívánt ügyviteli tevékenység banktitkot is érint, akkor az (1)–(12) bekezdésben foglaltakat megfelelően alkalmazni kell.
+(13) Pénzügyi vállalkozás az MNB-hez történő bejelentés nélkül szervezheti ki ügyviteli tevékenységét, ha azonban a kiszervezni kívánt ügyviteli tevékenység banktitkot is érint, akkor az (1)–(12) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-13/B. § (1) A pénzforgalmi intézmény a pénzforgalmi szolgáltatás nyújtásának működtetéséhez, az elektronikuspénz-kibocsátó intézmény az elektronikus pénz kibocsátásának és a pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységét kiszervezheti, amennyiben a kiszervezés megkezdését legalább harminc nappal megelőzően előzetesen bejelenti a Felügyeletnek.
+13/B. § (1) A pénzforgalmi intézmény a pénzforgalmi szolgáltatás nyújtásának működtetéséhez, az elektronikuspénz-kibocsátó intézmény az elektronikus pénz kibocsátásának és a pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységét kiszervezheti, amennyiben a kiszervezés megkezdését legalább harminc nappal megelőzően előzetesen bejelenti az MNB-nek.
 
-(2) A bejelentésnek tartalmaznia kell a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény belső ellenőrzése, könyvvizsgálója, az MNB és a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez.
+(2) A bejelentésnek tartalmaznia kell a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény belső ellenőrzése, könyvvizsgálója, az MNB helyszíni, illetve helyszínen kívüli ellenőrzéséhez.
 
 (3) A pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése
 
@@ -422,13 +417,13 @@ végezhet.
 - c) nem eredményezhet változást a tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében, valamint
 - d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, amelynek meglétéhez a pénzforgalmi intézményként vagy az elektronikuspénz-kibocsátó intézményként történő működési engedély megadását kötötték.
 
-(4) A pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszere, a könyvvizsgáló, a Felügyelet, valamint az MNB hatáskörének gyakorlását.
+(4) A pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszere, a könyvvizsgáló, valamint az MNB hatáskörének gyakorlását.
 
 (5) A (3)–(4) bekezdés alkalmazásában a pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatnak minősül minden olyan feladat, amelynek végrehajtásában bekövetkezett hiányosság vagy eltérés kétségessé teszi a pénzforgalmi intézmény pénzforgalmi szolgáltatása vagy az elektronikuspénz-kibocsátó intézmény elektronikus pénz kibocsátása, vagy pénzforgalmi szolgáltatása jogszabályban előírt kötelezettségeinek teljesítését, vagy lényegesen csökkentené jövedelmezőségét, pénzforgalmi szolgáltatásai, elektronikuspénz-kibocsátási tevékenységének megbízhatóságát, folyamatosságát.
 
-(6) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások, a személyi és tárgyi feltételek betartásával és a tőle elvárható gondossággal végezze. A pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
+(6) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások, a személyi és tárgyi feltételek betartásával és a tőle elvárható gondossággal végezze. A pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek haladéktalanul jelentenie kell az MNB részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 
-(7) A Felügyelet a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény (6) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
+(7) Az MNB a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény (6) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
 
 ### Informatikai rendszer védelme
 
@@ -549,7 +544,7 @@ végezhet.
 
 ### II. Fejezet — Engedélyezési eljárás
 
-14. § (1) A Felügyelet engedélye szükséges – a (2)–(4) bekezdésben, valamint a 14/A–14/B. §-ban foglalt eltéréssel – a hitelintézet:
+14. § (1) Az MNB engedélye szükséges – a (2)–(4) bekezdésben, valamint a 14/A–14/B. §-ban foglalt eltéréssel – a hitelintézet:
 
 - a) alapításához;
 - b) egyesüléséhez (beolvadás, összeolvadás), szétválásához;
@@ -574,7 +569,7 @@ végezhet.
 - u) működési kockázat tőkekövetelményének sztenderdizált vagy fejlett mérési módszerrel történő számításához;
 - v) a külön jogszabály alapján partnerkockázati kitettség tőkekövetelményének belső modell módszer szerinti számításához.
 
-(2) A Felügyelet engedélye szükséges a fióktelep formájában működő hitelintézet
+(2) Az MNB engedélye szükséges a fióktelep formájában működő hitelintézet
 
 - a) alapításához,
 - b) működésének megkezdéséhez,
@@ -586,11 +581,11 @@ végezhet.
 - h)
 - i) működésének megszüntetéséhez.
 
-(3) A Felügyelet (1) bekezdés szerinti engedélye nem szükséges hitelintézet fióktelepének az Európai Unió másik tagállamában történő létesítéséhez.
+(3) Az MNB (1) bekezdés szerinti engedélye nem szükséges hitelintézet fióktelepének az Európai Unió másik tagállamában történő létesítéséhez.
 
 (4) A (2) bekezdés szerinti engedély nem szükséges olyan hitelintézet fióktelepe esetén, amelynek székhelye az Európai Unió másik tagállamában van.
 
-(5) Az (1) bekezdés b) és d) pontjában, valamint a 20. § e) pontjában foglalt engedély megadása előtt, ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre az engedélyezési kérelmet benyújtó hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
+(5) Az (1) bekezdés b) és d) pontjában, valamint a 20. § e) pontjában foglalt engedély megadása előtt, ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, az MNB – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre az engedélyezési kérelmet benyújtó hitelintézettel együttesen az összevont alapú felügyelet kiterjed.
 
 14/A. § (1) Ha egy EU-szintű hitelintézeti anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat és annak leányvállalatai vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat és annak leányvállalatai együttesen kérelmezik
 
@@ -599,24 +594,24 @@ végezhet.
 - c) a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának,
 - d) a hitelintézet partnerkockázatának kezeléséről szóló kormányrendelet alapján a partnerkockázati kitettség tőkekövetelményének belső modell módszer szerinti számításának engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak kell benyújtania a székhelye szerinti tagállam illetékes felügyeleti hatóságának.
 
-(2) A kérelem elbírálásában a Felügyelet a 14/B. §-ban foglaltak szerint együttműködik más tagállam illetékes felügyeleti hatóságával.
+(2) A kérelem elbírálásában az MNB a 14/B. §-ban foglaltak szerint együttműködik más tagállam illetékes felügyeleti hatóságával.
 
-14/B. § (1) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézet felügyeletét, akkor a 14/A. § (1) bekezdésében meghatározott engedélykérelem hiánytalan beérkezését követően a Felügyelet
+14/B. § (1) Ha az MNB látja el az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézet felügyeletét, akkor a 14/A. § (1) bekezdésében meghatározott engedélykérelem hiánytalan beérkezését követően az MNB
 
 - a) a kérelmet haladéktalanul továbbítja azon tagállam illetékes felügyeleti hatósága részére, amelyben székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat összevont alapú felügyelete, és
 - b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott tagállami felügyeleti hatóságot a kérelemre vonatkozó vélemény, fenntartás Felügyelet részére történő megküldésének határidejéről (a továbbiakban: többoldalú eljárás).
 
-(2) A Felügyelet a többoldalú eljárás keretében a hiánytalan kérelem beérkezésétől számított hat hónapon belül csak valamennyi, az eljárásban részt vevő tagállami felügyeleti hatóság egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat).
+(2) Az MNB a többoldalú eljárás keretében a hiánytalan kérelem beérkezésétől számított hat hónapon belül csak valamennyi, az eljárásban részt vevő tagállami felügyeleti hatóság egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat).
 
-(3) Amennyiben az eljárásban részt vevő tagállami felügyeleti hatóságok egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő három hónapon belül, az eljárásban részt vevő valamennyi tagállami felügyeleti hatóságnak a többoldalú eljárás során adott véleményére és fenntartására figyelemmel hozza meg a határozatát.
+(3) Amennyiben az eljárásban részt vevő tagállami felügyeleti hatóságok egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, az MNB a többoldalú eljárás lezárultát követő három hónapon belül, az eljárásban részt vevő valamennyi tagállami felügyeleti hatóságnak a többoldalú eljárás során adott véleményére és fenntartására figyelemmel hozza meg a határozatát.
 
-(4) A Felügyelet a határozatát megküldi a többoldalú eljárásban részt vevő valamennyi tagállami illetékes felügyeleti hatóságnak és a kérelmezőnek.
+(4) Az MNB a határozatát megküldi a többoldalú eljárásban részt vevő valamennyi tagállami illetékes felügyeleti hatóságnak és a kérelmezőnek.
 
-(5) Ha az eljárás lefolytatására másik tagállam illetékes felügyeleti hatósága jogosult, és az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézetét a Felügyelet felügyeli, akkor a Felügyelet a hiánytalan kérelem rendelkezésére állását követően, az eljárásra jogosult tagállami felügyeleti hatóság által meghatározott időszakon belül megküldi a 14/A. § (1) bekezdés szerinti kérelemre vonatkozó véleményét, fenntartását.
+(5) Ha az eljárás lefolytatására másik tagállam illetékes felügyeleti hatósága jogosult, és az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézetét az MNB felügyeli, akkor az MNB a hiánytalan kérelem rendelkezésére állását követően, az eljárásra jogosult tagállami felügyeleti hatóság által meghatározott időszakon belül megküldi a 14/A. § (1) bekezdés szerinti kérelemre vonatkozó véleményét, fenntartását.
 
-(6) Ha az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti illetékes tagállami felügyeleti hatóság a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a tagállami felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. A Felügyelet hatáskörébe tartozó szervezet tekintetében a más tagállami felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+(6) Ha az EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti illetékes tagállami felügyeleti hatóság a kérelemről döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. Az MNB a tagállami felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. Az MNB hatáskörébe tartozó szervezet tekintetében a más tagállami felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre az MNB által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
-15. § (1) A Felügyelet engedélye szükséges a (2) bekezdésben foglalt eltérésekkel a pénzügyi vállalkozás
+15. § (1) Az MNB engedélye szükséges a (2) bekezdésben foglalt eltérésekkel a pénzügyi vállalkozás
 
 - a) alapításához,
 - b) tevékenységi körének módosításához,
@@ -625,7 +620,7 @@ végezhet.
 - e) minősített befolyásának megszerzéséhez, illetőleg a minősített befolyás e törvényben meghatározott mértéket elérő növeléséhez,
 - f) pénzügyi szolgáltatási tevékenységének kiemelt közvetítő vagy többes kiemelt közvetítő igénybevételével történő végzéséhez.
 
-(2) A Felügyelet engedélye szükséges a fióktelep formájában működő pénzügyi vállalkozás
+(2) Az MNB engedélye szükséges a fióktelep formájában működő pénzügyi vállalkozás
 
 - a) alapításához,
 - b) tevékenységi körének módosításához,
@@ -639,13 +634,13 @@ végezhet.
 - a) a pénzügyi vállalkozás 1. leányvállalata vagy közös vezetésű vállalata olyan hitelintézetnek, melynek székhelye a pénzügyi vállalkozás székhelyével azonos tagállamban van, vagy 2. leányvállalata vagy közös vezetésű vállalata olyan pénzügyi vállalkozásnak, amely megfelel az 1. pontban meghatározott feltételnek és székhelye a leányvállalatával azonos tagállamban van, valamint
 - b) tevékenységét abban a tagállamban végzi, ahol a székhelye van,
 - c) az anyavállalat a szavazati jog legalább kilencven százalékát gyakorolja,
-- d) az anyavállalat a Felügyeletnek bemutatja a székhely szerinti állam illetékes felügyeleti hatósága igazolását arról, hogy a pénzügyi vállalkozás irányítását óvatos és körültekintő módon látja el,
+- d) az anyavállalat az MNB-nek bemutatja a székhely szerinti állam illetékes felügyeleti hatósága igazolását arról, hogy a pénzügyi vállalkozás irányítását óvatos és körültekintő módon látja el,
 - e) az anyavállalat – az illetékes felügyeleti hatósága hozzájárulásával – egyetemleges felelősséget vállal a pénzügyi vállalkozás kötelezettségéért, és
 - f) a pénzügyi vállalkozás az anyavállalatával összevont felügyelet alatt áll.
 
 (6) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.
 
-15/A. § A Felügyelet engedélye szükséges pénzforgalmi intézmény
+15/A. § Az MNB engedélye szükséges pénzforgalmi intézmény
 
 - a) pénzforgalmi szolgáltatási tevékenységének végzéséhez,
 - b) pénzforgalmi szolgáltatási tevékenységi körének módosításához,
@@ -655,7 +650,7 @@ végezhet.
 - f) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez,
 - g) tőkekövetelményének költség módszerrel vagy irányadó mutató módszerrel történő meghatározásához.
 
-15/B. § A Felügyelet engedélye szükséges elektronikuspénz-kibocsátó intézmény
+15/B. § Az MNB engedélye szükséges elektronikuspénz-kibocsátó intézmény
 
 - a) elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének végzéséhez,
 - b) elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységi körének módosításához,
@@ -672,7 +667,7 @@ végezhet.
 - b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, egyéb tevékenysége a főtevékenységet kiegészíti, vagy a főtevékenység ellátását nem befolyásolja hátrányosan,
 - c) részvénytársaságként vagy részvénytársaság fióktelepeként működik.
 
-(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
+(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Tpt. szerinti elszámolóházi tevékenységet végző szervezet, továbbá hitelintézetek érdek-képviseleti szerve szerezhet.
 
 (4) Ha a pénzforgalmi elszámolóház a kiegészítő pénzügyi szolgáltatást kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében végzi, a kérelmező a 3. § (6) bekezdése szerinti engedélyt akkor is megkaphatja, ha igazolja, hogy – a (2) bekezdés a) pontjától eltérően – legalább százötvenmillió forint jegyzett és befizetett tőkével rendelkezik.
 
@@ -703,7 +698,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - d) a szervezeti felépítésének, az irányítási, döntési és ellenőrzési rendjére vonatkozó, illetőleg a szervezeti és működési szabályzatra vonatkozó tervezet bemutatását, ha ezeket az alapító okirat részletesen nem tartalmazza;
 - e) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kézbesítési megbízottjáról, aki csak Magyarországon bejegyzett ügyvéd, illetve (társas) ügyvédi iroda, vagy a kérelmező magyarországi bankképviselete lehet;
 - f) pénzügyi vállalkozás esetében annak igazolását, hogy a vállalkozás rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint a 18. § (2) bekezdés d)–f), h) és k)–l) pontjában foglaltakat;
-- g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja;
+- g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt az MNB rendelkezésére bocsátja;
 - h) az összevont alapú vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében a hitelintézettel szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a hitelintézet részére átadott személyes adatainak az összevont alapú és a kiegészítő felügyelet ellátása céljából történő kezeléséhez, valamint továbbításához.
 
 (2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő pénzügyi intézményben minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
@@ -716,7 +711,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - f) nem természetes személy esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 - g) nem természetes személy kérelmező esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását, továbbá az összevont alapú felügyelet alá tartozó hitelintézet, befektetési vállalkozás előző évre vonatkozó konszolidált éves beszámolóját, ha konszolidált beszámoló készítésére kötelezett,
 - h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
-- i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- i) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -729,7 +724,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - a) az (1) bekezdés a) és c)–e) pontjában, valamint a (2) bekezdésben foglaltakat,
 - b) a középtávú – az első három évre vonatkozó – üzleti tervet,
 - c) a 18. § (2) bekezdés f) és h) pontjában foglaltakat,
-- d) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást a Felügyelet rendelkezésére bocsátja
+- d) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást az MNB rendelkezésére bocsátja
 
 (7) Alapítási engedély alapján a hitelintézet a banküzem létesítésével kapcsolatos tevékenységet végezhet.
 
@@ -743,16 +738,16 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - f) hitelintézet esetén az alapítónak az előző három gazdálkodási évre vonatkozó, pénzügyi vállalkozás esetén az előző gazdálkodási évre vonatkozó, könyvvizsgáló által hitelesített mérlegét és eredménykimutatását,
 - g) nyilatkozatot arról, hogy a külföldi pénzügyi intézménynek milyen mérlegen kívüli kötelezettségei vannak,
 - h) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett,
-- i) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez,
+- i) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez,
 - j) a kérelmező által folytatott, a székhely szerinti felügyeleti hatóság által engedélyezett 3. § szerinti tevékenységek megjelölését, valamint azokat a helyeket, ahol ezeket a tevékenységeket végzi,
 - k) a fióktelep formájában működő pénzügyi intézmény vezető állású személyének döntési jogkörét, valamint a kérelmező azon testületeit, amelyek hozzájárulása nélkül bizonyos döntések nem érvényesek,
 - l) a székhely szerinti felügyeleti hatóság nyilatkozatát arról, hogy a nem magyar állampolgárságú vezető állású személlyel szemben nem állnak fenn kizáró okok e munkakör betöltésével, illetőleg ellátásával kapcsolatban.
 
 (2) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(3) Fióktelep formájában működő pénzügyi intézmény alapítási engedélyét a Felügyelet abban az esetben adja meg – az (1) bekezdésben és a 17. § (1) bekezdésében meghatározott feltételek teljesülése mellett –, ha
+(3) Fióktelep formájában működő pénzügyi intézmény alapítási engedélyét az MNB abban az esetben adja meg – az (1) bekezdésben és a 17. § (1) bekezdésében meghatározott feltételek teljesülése mellett –, ha
 
-- a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező pénzügyi intézmény székhelye szerinti felügyeleti hatóság között,
+- a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van az MNB és a kérelmező pénzügyi intézmény székhelye szerinti felügyeleti hatóság között,
 - b) a kérelmező pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeknek megfelelő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 - c) a kérelmező pénzügyi intézmény rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - d) a kérelmező pénzügyi intézmény nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
@@ -763,9 +758,9 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### A tevékenységi (működési) engedély iránti kérelem
 
-18. § (1) A hitelintézet működésének – pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenységének – megkezdéséhez a Felügyelet engedélye szükséges.
+18. § (1) A hitelintézet működésének – pénzügyi és kiegészítő pénzügyi szolgáltatási tevékenységének – megkezdéséhez az MNB engedélye szükséges.
 
-(2) A hitelintézetnek a tevékenységi engedély megadása iránti kérelméhez a következőket kell a Felügyelethez benyújtani:
+(2) A hitelintézetnek a tevékenységi engedély megadása iránti kérelméhez a következőket kell az MNB-hez benyújtani:
 
 - a) az induló tőkének a 10. § (1) bekezdése szerinti teljes befizetésére vonatkozó igazolást,
 - b) az a) pont szerinti összeg teljes vagy részleges felhasználása esetén igazolást, illetőleg nyilatkozatot arról, hogy a felhasználás az alapítás, illetőleg a működés megkezdése érdekében történt,
@@ -782,7 +777,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - m)
 - n) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó – a hitelintézet igazgatósága által elfogadott – eljárás rendjét,
 - o) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét, illetőleg a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza.
-- p) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet 97. § (3) bekezdés szerinti engedélye alapján nem csatlakozik az Országos Betétbiztosítási Alaphoz, 1. az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását, 2. az anyavállalatnak a betétesek Magyarországon történő kártalanítására vonatkozó kötelezettségvállalását, 3. a kártalanítás feltételeit, módját, az eljárás menetének rendjét, illetőleg a kártalanítás kifizetését biztosító megállapodásokat.
+- p) harmadik országbeli hitelintézet fióktelepe esetén, ha az az MNB 97. § (3) bekezdés szerinti engedélye alapján nem csatlakozik az Országos Betétbiztosítási Alaphoz, 1. az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását, 2. az anyavállalatnak a betétesek Magyarországon történő kártalanítására vonatkozó kötelezettségvállalását, 3. a kártalanítás feltételeit, módját, az eljárás menetének rendjét, illetőleg a kártalanítás kifizetését biztosító megállapodásokat.
 
 (3) Már működő pénzügyi intézmény, illetve befektetési vállalkozás tevékenységi körének pénzügyi szolgáltatással történő bővítésére vonatkozó engedély iránti kérelméhez benyújtja a tevékenység végzéséhez szükséges személyi és tárgyi feltételek meglétét bizonyító igazolást, valamint a (2) bekezdés d)–f), h), k)–l) és n) pontjában foglaltakat, ha ezek benyújtására korábban még nem került sor.
 
@@ -807,7 +802,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 - p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 - q) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
-- r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (2) Az (1) bekezdés d), e), h)–j) pontjaihoz kapcsolódóan a kérelmezőnek mellékelnie kell azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzforgalmi szolgáltatását igénybe vevők, elektronikuspénz-kibocsátó intézmény esetében az elektronikuspénz-birtokosok érdekeinek védelmét, valamint a pénzforgalmi szolgáltatások végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
@@ -822,23 +817,23 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
 - h) nem természetes személy tulajdonos esetén nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
 - i) a kérelmezővel szoros kapcsolatban álló személy nyilatkozatát arról, hogy a szoros kapcsolatban álló személy, vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend lehetővé teszi a felügyeleti feladatok ellátását,
-- j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (4) A pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátásra jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi, illetve elektronikuspénz-kibocsátó intézmény irányítása Magyarország területén létesített főirodában történik.
 
-(5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
+(5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, az MNB megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
 
-(6) Ha a kérelmező az (1) bekezdés l) és o) pontjában, illetve a (3) bekezdés e) és f) pontjában meghatározott adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
+(6) Ha a kérelmező az (1) bekezdés l) és o) pontjában, illetve a (3) bekezdés e) és f) pontjában meghatározott adatokat nem mellékeli, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
-18/B. § (1) Ha pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítőt kíván igénybe venni, köteles azt a Felügyeletnek a szerződés megkötését követő öt munkanapon belül bejelenteni.
+18/B. § (1) Ha pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítőt kíván igénybe venni, köteles azt az MNB-nek a szerződés megkötését követő öt munkanapon belül bejelenteni.
 
-(2) Pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek pénzforgalmi közvetítői tevékenységet kizárólag az végezhet, akit a Felügyelet az (1) bekezdésben foglalt bejelentést követően a 190. § szerinti nyilvántartásba felvesz és megfelel az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
+(2) Pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek pénzforgalmi közvetítői tevékenységet kizárólag az végezhet, akit az MNB az (1) bekezdésben foglalt bejelentést követően a 190. § szerinti nyilvántartásba felvesz és megfelel az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
 
 (3) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
 - a) a pénzforgalmi közvetítő 3. számú melléklet I. Fejezetében meghatározott azonosító adatait,
 - b) annak igazolását, hogy a pénzforgalmi közvetítő rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel,
-- c) a megbízási szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, a feladatkörében eljáró MNB és a megbízó korlátozás nélkül ellenőrizheti a pénzforgalmi közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket,
+- c) a megbízási szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a feladatkörében eljáró MNB és a megbízó korlátozás nélkül ellenőrizheti a pénzforgalmi közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket,
 - d) a pénzforgalmi közvetítő – amennyiben a pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírások szerinti egyszerűsített ügyfél-átvilágítás alkalmazására nem jogosult – a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatait, eljárásrendjét,
 - e) a pénzforgalmi közvetítő harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása, azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
 - f) természetes személy esetén a büntetlen előéletet igazoló kilencven napnál nem régebbi hatósági erkölcsi bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot,
@@ -847,17 +842,17 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (4) Az (1)–(3) bekezdésen kívül a 32/F. §-ban foglaltak is megfelelően alkalmazandóak, ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény az Európai Unió másik tagállamában kíván pénzforgalmi szolgáltatási tevékenységéhez vagy elektronikuspénz-kibocsátásához megbízási szerződés keretében pénzforgalmi közvetítőt igénybe venni.
 
-(5) A Felügyelet megtagadja a pénzforgalmi közvetítő nyilvántartásba vételét, ha a (3) bekezdésben meghatározott információkat hiányosan vagy nem megfelelő módon nyújtják be, és a hiánypótlásra történő felhívás is sikertelen.
+(5) Az MNB megtagadja a pénzforgalmi közvetítő nyilvántartásba vételét, ha a (3) bekezdésben meghatározott információkat hiányosan vagy nem megfelelő módon nyújtják be, és a hiánypótlásra történő felhívás is sikertelen.
 
 (6) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
 
-(7) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a Felügyeletnek három munkanapon belül bejelenteni a (3) bekezdés c) pontja szerinti megbízási szerződés módosítását.
+(7) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az MNB-nek három munkanapon belül bejelenteni a (3) bekezdés c) pontja szerinti megbízási szerződés módosítását.
 
-(8) A Felügyelet a pénzforgalmi közvetítőt törli a nyilvántartásból, ha
+(8) Az MNB a pénzforgalmi közvetítőt törli a nyilvántartásból, ha
 
 - a) a pénzforgalmi közvetítő nem felel meg a nyilvántartásba vételhez szükséges feltételeknek,
 - b) a tevékenységére vonatkozó szabályokat ismételten vagy súlyosan megszegi, vagy
-- c) a nyilvántartásba vétel a Felügyelet megtévesztésével történt.
+- c) a nyilvántartásba vétel az MNB megtévesztésével történt.
 
 (9) Az elektronikuspénz-kibocsátó intézmény nem bocsáthat ki elektronikus pénzt pénzforgalmi közvetítő útján.
 
@@ -871,17 +866,17 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - d) által folytatni kívánt tevékenységre vonatkozó általános szerződési feltételeket is tartalmazó üzletszabályzatot,
 - e) nyilatkozatát arra vonatkozóan, hogy a független közvetítőként történő működését mikor kívánja megkezdeni,
 - f) nyilatkozatát arról, hogy a jogszabályban meghatározott, illetőleg jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
-- g) teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- g) teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
 (2) Ha a kérelmező többes kiemelt közvetítőként kíván működni, az (1) bekezdésben meghatározottakon kívül a kérelemhez igazolnia kell a 9. § szerinti induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékelnie kell a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
 
-(3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
+(3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott adatot nem igazolja, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
-19. § A 14. § (1) bekezdés h) pontjában és 15. § (1) bekezdés f) pontjában meghatározott esetben az engedély iránti kérelemhez be kell nyújtani az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, valamint a pénzügyi intézmény korlátozás nélkül ellenőrizheti a közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.
+19. § A 14. § (1) bekezdés h) pontjában és 15. § (1) bekezdés f) pontjában meghatározott esetben az engedély iránti kérelemhez be kell nyújtani az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy az MNB, valamint a pénzügyi intézmény korlátozás nélkül ellenőrizheti a közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.
 
-### A Magyar Nemzeti Bank engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése
+### Egyes kiegészítő pénzügyi szolgáltatások engedélyezése
 
-19/A. § (1) Az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatás [3. § (6) bekezdés] engedélyezése iránti kérelemhez mellékelni kell:
+19/A. § (1) A 3. § (1) bekezdés a), b) és c) pontjában foglalt tevékenység engedélyezése iránti kérelemhez mellékelni kell:
 
 - a) a kérelmező létesítő okiratát,
 - b) a kérelmező bejegyzéséről szóló cégbírósági végzést – ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette –, bejegyzett cég esetében három hónapnál nem régebbi cégkivonatot,
@@ -901,7 +896,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) A hitelintézetnek nem kell igazolnia a szolgáltatás engedélyezése iránti eljárásban az (1) bekezdés a)–f) és h)–i) pontjában említett feltételek meglétét.
 
-(4) Ha külföldi vállalkozás fióktelepe útján kíván az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végezni, az (1) bekezdés d)–m) pontjában foglaltakon túlmenően az engedélyezés iránti kérelemhez mellékelni kell:
+(4) Ha külföldi vállalkozás fióktelepe útján kíván az a 3. § (1) bekezdés a), b) és c) pontjában foglalt tevékenységet végezni, az (1) bekezdés d)–m) pontjában foglaltakon túlmenően az engedélyezés iránti kérelemhez mellékelni kell:
 
 - a) a külföldi vállalkozás alapító okiratát;
 - b) a külföldi vállalkozás három hónapnál nem régebbi eredeti cégkivonatát vagy igazolást arról, hogy a külföldi vállalkozást a vállalati (gazdasági) nyilvántartásba bejegyezték;
@@ -915,7 +910,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - j) a fióktelep vezető állású személyének döntési jogkörét, valamint a kérelmező azon testületeit, amelyek hozzájárulása nélkül bizonyos döntések nem érvényesek;
 - k) a székhely szerinti felügyeleti hatóság nyilatkozatát arról, hogy a nem magyar állampolgárságú vezető állású személlyel szemben nem állnak fenn kizáró okok e munkakör betöltésével, illetőleg ellátásával kapcsolatban.
 
-(5) A szolgáltatásnak fióktelep által történő folytatásához a Magyar Nemzeti Bank az engedélyt abban az esetben adja meg – az (1) bekezdés d)–m) pontjában és a (3) bekezdésben meghatározott feltételek teljesülése mellett –, ha
+(5) A szolgáltatásnak fióktelep által történő folytatásához az MNB az engedélyt abban az esetben adja meg – az (1) bekezdés d)–m) pontjában és a (3) bekezdésben meghatározott feltételek teljesülése mellett –, ha
 
 - a) – külföldi pénzügyi intézmény kérelmező esetén – érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező külföldi vállalkozás székhelye szerinti felügyeleti hatóság között;
 - b) a kérelmező külföldi vállalkozás székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal;
@@ -924,7 +919,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - e) a kérelmező külföldi vállalkozás benyújtja a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájáruló nyilatkozatát vagy tudomásulvételét;
 - f) külföldi pénzügyi intézmény kérelmező esetén a kérelmező székhelye szerinti állam jogszabályai biztosítják a pénzügyi intézmények prudens, biztonságos működését.
 
-(6) Már működő fióktelep esetén az engedélyezés iránti kérelemhez – a (3) bekezdésben felsoroltak helyett, ha azokat a Felügyelet vagy az MNB előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, bejegyzett fióktelep esetében három hónapnál nem régebbi cégkivonatot kell becsatolni. Az MNB a kérelmezőt bármikor felhívhatja a (3) bekezdésben meghatározott feltételek igazolására.
+(6) Már működő fióktelep esetén az engedélyezés iránti kérelemhez – a (3) bekezdésben felsoroltak helyett, ha azokat az MNB előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, bejegyzett fióktelep esetében három hónapnál nem régebbi cégkivonatot kell becsatolni. Az MNB a kérelmezőt bármikor felhívhatja a (3) bekezdésben meghatározott feltételek igazolására.
 
 (7) Ha a kérelmező az (1) bekezdés c) pontjában, illetve a (3) bekezdés d) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, az MNB megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja az MNB-t.
 
@@ -955,7 +950,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### Az alapszabály módosításának engedélyezése
 
-20. § A Felügyelet engedélye szükséges a hitelintézetek alapszabályának módosításához a következő esetekben:
+20. § Az MNB engedélye szükséges a hitelintézetek alapszabályának módosításához a következő esetekben:
 
 - a) a cég nevének és székhelyének megváltoztatása,
 - b) a tevékenységi kör módosítása,
@@ -987,9 +982,9 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (4) A fióktelep formájában működő pénzügyi intézmény jogi személlyel, illetve jogi személyiség nélküli gazdasági társasággal nem egyesülhet.
 
-23. § A Felügyeletnek a pénzügyi intézmények egyesüléséhez adott engedélye nem pótolja a Gazdasági Versenyhivatal engedélyét.
+23. § Az MNB-nek a pénzügyi intézmények egyesüléséhez adott engedélye nem pótolja a Gazdasági Versenyhivatal engedélyét.
 
-24. § Pénzügyi intézmények összeolvadása esetén a Felügyelet az alapítás és a működés megkezdésének engedélyezésével kapcsolatos határozatot egy eljárásban is meghozhatja.
+24. § Pénzügyi intézmények összeolvadása esetén az MNB az alapítás és a működés megkezdésének engedélyezésével kapcsolatos határozatot egy eljárásban is meghozhatja.
 
 25. § (1) Hitelintézetek és pénzügyi vállalkozások szétválására az alapításra vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -997,11 +992,11 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### Az engedély megadása
 
-26. § (1) Az engedélyezési eljárás során a Felügyelet, valamint az MNB a kérelemmel összefüggő és rendelkezésre álló okiratokat és információkat gondosan mérlegeli, és meggyőződik arról, hogy az engedély kiadása nem ütközik jogszabályba. A Felügyelet, valamint az MNB az engedélyezési eljárás során az egyes engedélyezési feltételek meglétét a helyszínen is megvizsgálhatja.
+26. § (1) Az engedélyezési eljárás során az MNB a kérelemmel összefüggő és rendelkezésre álló okiratokat és információkat gondosan mérlegeli, és meggyőződik arról, hogy az engedély kiadása nem ütközik jogszabályba. A Felügyelet, valamint az MNB az engedélyezési eljárás során az egyes engedélyezési feltételek meglétét a helyszínen is megvizsgálhatja.
 
-(2) Bank, szakosított hitelintézet alapítási engedélyéhez, tevékenységi (működési) engedélyéhez továbbá bank, szakosított hitelintézet alapszabályának a jegyzett tőke leszállítása miatti módosításához szükséges engedélyhez, valamint bank, szakosított hitelintézet egyesüléséhez szükséges engedélyhez a Felügyelet előzetesen kikéri az MNB véleményét.
+(2)
 
-(3) A Felügyelet a hitelintézet alapítási engedélyének megadásához előzetesen kikéri az Európai Unió másik tagállama érintett, illetékes felügyeleti hatóságának véleményét, ha az alapítani kívánt hitelintézet
+(3) Az MNB a hitelintézet alapítási engedélyének megadásához előzetesen kikéri az Európai Unió másik tagállama érintett, illetékes felügyeleti hatóságának véleményét, ha az alapítani kívánt hitelintézet
 
 - a) az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozás, hitelintézet vagy biztosító leányvállalata,
 - b) az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozás, hitelintézet vagy biztosító anyavállalatának leányvállalata,
@@ -1009,22 +1004,22 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### Az engedély iránti kérelem elutasítása
 
-27. § (1) A Felügyelet az alapítás iránti kérelmet elutasítja, ha a kérelmező
+27. § (1) Az MNB az alapítás iránti kérelmet elutasítja, ha a kérelmező
 
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 - b) által alapítani kívánt pénzügyi intézmény nem felel meg az induló tőkére, a társasági formára, cégformára, a tulajdonlásra, illetőleg az irányító testületekre vonatkozó törvényi követelményeknek,
 - c) devizakülföldi, és nincs kézbesítési megbízottja,
 - d) a hitelintézettel szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé az összevont alapú felügyeleti feladatok ellátását.
 
-(2) A Felügyelet a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 17. § (1) bekezdésében, illetőleg a 17/A. §-ban felsorolt feltételek valamelyike nem teljesül.
+(2) Az MNB a fióktelep alapítására irányuló kérelmet akkor is elutasítja, ha a 17. § (1) bekezdésében, illetőleg a 17/A. §-ban felsorolt feltételek valamelyike nem teljesül.
 
-(3) A tevékenységi engedély iránti kérelmet a Felügyelet elutasíthatja, ha a kérelmező
+(3) A tevékenységi engedély iránti kérelmet az MNB elutasíthatja, ha a kérelmező
 
 - a) esetében az (1) bekezdésben említett valamely elutasítási ok fennáll,
 - b) a szükséges személyi és tárgyi feltételekkel nem rendelkezik,
-- c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.
+- c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá az MNB rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.
 
-27/A. § (1) Az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatásra vonatkozó engedély iránti kérelmet az MNB elutasítja, ha a kérelmező
+27/A. § (1) Az MNB 3. § (2) bekezdés a), b) és c) pontjában foglalt tevékenységre vonatkozó engedély iránti kérelmet az MNB elutasítja, ha a kérelmező
 
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 - b) nem felel meg a jegyzett tőkére, a társasági formára, a tulajdonlásra vonatkozó törvényi követelményeknek,
@@ -1035,116 +1030,99 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - a) a jogszabályban előírt személyi és tárgyi feltételekkel nem rendelkezik,
 - b) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá az MNB rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a működésre vonatkozó jogszabályok és MNB rendeletek előírásainak.
 
-27/B. § A Felügyelet a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére jogosító engedély iránti kérelmét elutasítja, ha a kérelmező
+27/B. § Az MNB a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére jogosító engedély iránti kérelmét elutasítja, ha a kérelmező
 
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
 - b) általa működtetni kívánt pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény nem felel meg az induló tőkére, a szervezeti, személyi feltételekre, a minősített befolyással rendelkező tulajdonosokra vonatkozó követelményeknek,
 - c) által működtetni kívánt pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel szoros kapcsolatban álló személy vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé a felügyeleti feladatok hatékony ellátását,
-- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátási tevékenységre vonatkozó jogszabályi előírásoknak.
+- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá az MNB rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátási tevékenységre vonatkozó jogszabályi előírásoknak.
 
 ### Az alapítási engedély érvényességének határideje
 
-28. § A hitelintézet alapítását engedélyező határozat érvényét veszti, ha a tevékenységi engedély iránti kérelmet a határozat kézhezvételétől számított hat hónapon belül a hitelintézet nem nyújtja be a Felügyelethez. A határidő elmulasztása miatt igazolásnak helye nincs.
+28. § A hitelintézet alapítását engedélyező határozat érvényét veszti, ha a tevékenységi engedély iránti kérelmet a határozat kézhezvételétől számított hat hónapon belül a hitelintézet nem nyújtja be az MNB-hez. A határidő elmulasztása miatt igazolásnak helye nincs.
 
 ### Az engedély visszavonása, visszaadása
 
-29. § (1) A Felügyelet az engedélyt visszavonhatja, ha
+29. § (1) Az MNB az engedélyt visszavonhatja, ha
 
-- a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg,
+- a) az engedélyt az MNB megtévesztésével vagy más jogszabálysértő módon szerezték meg,
 - b) a pénzügyi intézmény – törvény által – tiltott tevékenységet folytat,
 - c) a pénzügyi vállalkozás az alapítási engedély, illetőleg a hitelintézet a tevékenységi engedély kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg,
 - d) a pénzügyi vállalkozás tizenkét hónapon keresztül nem – vagy csak jelentéktelen mértékben – folytat pénzügyi szolgáltatási tevékenységet,
 - e) a pénzügyi intézmény már nem felel meg e törvény vagy – a prudens működésre vonatkozó – más jogszabályban foglalt rendelkezéseknek,
-- f) a pénzügyi intézmény több alkalommal súlyosan megsértette a számvitelre, a független és megbízható irányításra, illetve ellenőrzésre vonatkozó, továbbá az e törvényben, valamint a prudens működésre vonatkozó más jogszabályokban, illetve a Felügyelet határozataiban foglalt előírásokat,
+- f) a pénzügyi intézmény több alkalommal súlyosan megsértette a számvitelre, a független és megbízható irányításra, illetve ellenőrzésre vonatkozó, továbbá az e törvényben, valamint a prudens működésre vonatkozó más jogszabályokban, illetve az MNB határozataiban foglalt előírásokat,
 - g) olyan körülmény áll fenn, amely miatt a pénzügyi intézmény működése súlyosan veszélyezteti vagy sérti a betétesek vagy más ügyfelek érdekeit, akadályozhatja a pénzforgalmat, illetve a pénz- és tőkepiac megfelelő működését,
 - h) a pénzügyi intézmény alapítási vagy tevékenységi engedélyét – 31. §-nak megfelelően – visszaadja,
 - i) a fióktelep engedélyezéséhez kapcsolódó, a 17/A. §-ban foglalt feltételek valamelyike már nem teljesül,
 - j) a 17. § (1) bekezdésének g) pontjában meghatározott információ átadás nem biztosított.
 
-(2) A Felügyelet a fióktelep engedélyét visszavonja, ha a székhely szerinti felügyeleti hatóság a külföldi pénzügyi intézmény engedélyét visszavonta.
+(2) Az MNB a fióktelep engedélyét visszavonja, ha a székhely szerinti felügyeleti hatóság a külföldi pénzügyi intézmény engedélyét visszavonta.
 
-(3) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét a Felügyelet az (1) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
+(3) A pénzügyi intézménynek nem minősülő gazdálkodó szervezet engedélyét az MNB az (1) bekezdésben foglaltak megfelelő alkalmazásával vonhatja vissza.
 
-30. § (1) A Felügyelet a hitelintézet tevékenységi engedélyét – a 29. §-ban felsorolt eseteken felül – akkor is visszavonhatja, ha a hitelintézet
+30. § (1) Az MNB a hitelintézet tevékenységi engedélyét – a 29. §-ban felsorolt eseteken felül – akkor is visszavonhatja, ha a hitelintézet
 
 - a) tevékenységét hat hónapnál hosszabb időre beszüntette,
 - b) esetében fennáll a veszélye annak, hogy nem tud eleget tenni kötelezettségeinek,
 - c) nem tud eleget tenni kötelezettségeinek,
 - d) az Országos Betétbiztosítási Alappal fennálló tagsági jogviszonya kizárással megszűnt, vagy más, betét-, illetve intézményvédelmi alapban fennálló tagsággal együttjáró kötelezettségének nem tesz eleget.
 
-(2) Hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítása kivételével a Felügyelet a tevékenységi engedély visszavonásával egyidejűleg határozatot hoz a pénzügyi intézmény végelszámolásáról vagy kezdeményezi annak felszámolását.
+(2) Hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítása kivételével az MNB a tevékenységi engedély visszavonásával egyidejűleg határozatot hoz a pénzügyi intézmény végelszámolásáról vagy kezdeményezi annak felszámolását.
 
-(3) A Felügyelet visszavonja a hitelintézet tevékenységi engedélyét, ha a bíróság elrendeli a hitelintézet felszámolását.
+(3) Az MNB visszavonja a hitelintézet tevékenységi engedélyét, ha a bíróság elrendeli a hitelintézet felszámolását.
 
-(4) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az MNB elnökének jóváhagyásával vonhatja vissza.
+(4) Hitelintézet tevékenységi engedélyét az MNB a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
 
-30/A. § (1) A Felügyelet a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonja, ha
+30/A. § (1) Az MNB a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonja, ha
 
-- a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg,
+- a) az engedélyt az MNB megtévesztésével vagy más jogszabálysértő módon szerezték meg,
 - b) a pénzforgalmi intézmény már nem felel meg a pénzforgalmi szolgáltatásokra vonatkozó jogszabályi rendelkezéseknek, az elektronikuspénz-kibocsátó intézmény már nem felel meg az elektronikuspénz-kibocsátásra vonatkozó jogszabályi rendelkezéseknek,
 - c) olyan körülmény áll fenn, amely súlyosan veszélyezteti a fizetési rendszer stabilitását, az ügyfelek érdekeit, vagy akadályozza a pénzforgalmat,
 - d) vagyona az ismert hitelezők követeléseinek kielégítésére sem nyújtana fedezetet,
 - e) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény engedélyét visszaadja,
 - f) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény jogosulatlan tevékenységet folytat.
 
-(2) A Felügyelet a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonhatja, ha
+(2) Az MNB a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonhatja, ha
 
 - a) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a tevékenységre jogosító engedély kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg,
 - b) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény hat hónapon keresztül nem folytat tevékenységet.
 
-(3) Az engedély visszavonására irányuló eljárásban – az (1) bekezdés c) pontja tekintetében – az MNB szakhatóságként vesz részt.
+(3)
 
-30/B. § (1) A Felügyelet a független közvetítő működési engedélyét visszavonja, ha a közvetítő
+30/B. § (1) Az MNB a független közvetítő működési engedélyét visszavonja, ha a közvetítő
 
 - a) az e törvényben előírt nyilvántartásba vételi és működési feltételek bármelyikének nem felel meg,
 - b) nyilvántartása, illetve az éves beszámolója nem felel meg a valóságnak,
 - c) az engedély megadásától számított egy éven belül tevékenységét nem kezdte meg, vagy a tevékenységet hat hónapon túl szünetelteti,
 - d) a tevékenysége felfüggesztésének időtartama alatt a jogsértő helyzet megszüntetése érdekében tett felügyeleti intézkedések nem vezettek eredményre.
 
-(2) A Felügyelet a független közvetítő működési engedélyét visszavonhatja, ha a közvetítő
+(2) Az MNB a független közvetítő működési engedélyét visszavonhatja, ha a közvetítő
 
 - a) működése súlyosan vagy ismétlődően megsérti az ügyfelek érdekeit,
 - b) a tevékenységére vonatkozó jogszabályokat ismételten vagy súlyosan megsérti.
 
-30/C. § (1) Az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatásra vonatkozó engedélyt az MNB visszavonja, ha
+30/C. §
 
-- a) azt az MNB megtévesztésével vagy más jogszabályt sértő módon szerezték meg,
-- b) a kiegészítő pénzügyi szolgáltatást nyújtó szolgáltató (a továbbiakban: szolgáltató) törvény által tiltott tevékenységet folytat,
-- c) a szolgáltató már nem felel meg a tevékenységre vonatkozó jogszabály vagy MNB rendelet előírásainak,
-- d) a szolgáltató tevékenységi engedélyét a 31. § (1) bekezdésének megfelelően visszaadja,
-- e) a székhely szerinti felügyeleti hatóság a külföldi vállalkozás engedélyét visszavonta.
+31. § (1) A pénzügyi intézmény – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a tevékenységi engedélyét az MNB-nek akkor adhatja vissza, ha bizonyítja, hogy pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból származó kötelezettsége nincs. Az MNB meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a pénzügyi intézmény vagy a szolgáltató működését – az arra vonatkozó szabályok szerint – köteles folytatni.
 
-(2) Az MNB a szolgáltató engedélyét visszavonhatja, ha
+(2) Pénzügyi holding társaság engedélyét az MNB-nek akkor adhatja vissza, ha bizonyítja, hogy semmilyen kötelezettsége nincs.
 
-- a) a szolgáltató súlyosan megsértette a számvitelre, illetve ellenőrzésre vonatkozó, továbbá a tevékenységre vonatkozó jogszabály vagy MNB rendelet, valamint az MNB és a Felügyelet határozataiban foglalt előírásokat,
-- b) olyan körülmény áll fenn, amely miatt a szolgáltató e törvény hatálya alá tartozó működése súlyosan veszélyezteti vagy sérti az ügyfelek érdekeit, akadályozhatja a pénzforgalmat,
-- c) a szolgáltató az engedély kézhezvételétől számított egy hónapon belül a tevékenységét nem kezdi meg,
-- d) a szolgáltató három hónapon keresztül nem folytat szolgáltatási tevékenységet,
-- e) fennáll a veszélye annak, hogy a szolgáltató nem tud eleget tenni kötelezettségeinek,
-- f) a szolgáltató nem tud eleget tenni kötelezettségeinek,
-- g) a szolgáltató ellen felszámolási vagy végelszámolási eljárás indult,
-- h) fióktelep esetén a 19/A. § (4) bekezdésének a)–b), d)–k) pontjában, valamint (5)–(6) bekezdésében felsorolt feltételek valamelyike már nem teljesül.
-
-31. § (1) A pénzügyi intézmény – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a tevékenységi engedélyét a Felügyeletnek, az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végző engedélyét az MNB-nek akkor adhatja vissza, ha bizonyítja, hogy pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból származó kötelezettsége nincs. A Felügyelet, valamint az MNB meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a pénzügyi intézmény, illetőleg a szolgáltató működését – az arra vonatkozó szabályok szerint – köteles folytatni.
-
-(2) Pénzügyi holding társaság engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy semmilyen kötelezettsége nincs.
-
-(3) Pénzforgalmi intézmény a pénzforgalmi szolgáltatási tevékenységi engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy pénzforgalmi szolgáltatásból származó semmilyen kötelezettsége nincs.
+(3) Pénzforgalmi intézmény a pénzforgalmi szolgáltatási tevékenységi engedélyét az MNB-nek akkor adhatja vissza, ha bizonyítja, hogy pénzforgalmi szolgáltatásból származó semmilyen kötelezettsége nincs.
 
 ### Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény tevékenységi engedélyéhez kapcsolódó különös rendelkezések
 
-32. § A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére, úgy a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül a Felügyeletet erről írásban tájékoztatja.
+32. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére, úgy a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül az MNB-t erről írásban tájékoztatja.
 
-(2) A Felügyelet a – 6/A. § (2)–(4) és 6/C. § (2) és (4) bekezdésén kívüli – egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek előírhatja, hogy az egyéb üzleti tevékenységét a pénzforgalmi szolgáltatási tevékenységétől, illetve elektronikuspénz-kibocsátási tevékenységétől elkülönítetten, külön szervezet keretében végezze, amennyiben ezen egyéb üzleti tevékenység mértéke, jellege, vagy a Felügyelet részére történő átláthatóságának hiánya hátrányosan befolyásolja
+(2) Az MNB a – 6/A. § (2)–(4) és 6/C. § (2) és (4) bekezdésén kívüli – egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek előírhatja, hogy az egyéb üzleti tevékenységét a pénzforgalmi szolgáltatási tevékenységétől, illetve elektronikuspénz-kibocsátási tevékenységétől elkülönítetten, külön szervezet keretében végezze, amennyiben ezen egyéb üzleti tevékenység mértéke, jellege, vagy az MNB részére történő átláthatóságának hiánya hátrányosan befolyásolja
 
 - a) a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzügyi megbízhatóságát, vagy
-- b) a Felügyelet azon képességét, hogy ellássa felügyeleti tevékenységét.
+- b) az MNB azon képességét, hogy ellássa felügyeleti tevékenységét.
 
 (3) A (2) bekezdésben meghatározott esetben a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény engedélyezési eljárására, valamint az állományátruházásra vonatkozó szabályokat is megfelelően alkalmazni kell.
 
 ### Az Európai Unió másik tagállamában történő fióktelep létesítés szabályai
 
-32/A. § (1) A hitelintézet köteles bejelenteni a Felügyeletnek, ha az Európai Unió másik tagállamában fióktelepet kíván létesíteni.
+32/A. § (1) A hitelintézet köteles bejelenteni az MNB-nek, ha az Európai Unió másik tagállamában fióktelepet kíván létesíteni.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
@@ -1155,21 +1133,21 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - e) a fióktelep irányítását ellátó felelős személyek megnevezését,
 - f) a fióktelep címét.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő hitelintézet irányítási struktúrája és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés kézhezvételétől számított három hónapon belül írásban tájékoztatja az érintett Európai Unió másik tagállamának illetékes felügyeleti hatóságát. A tájékoztatást egyidejűleg közli a bejelentő hitelintézettel is.
+(3) Ha az MNB rendelkezésére álló információk szerint a bejelentő hitelintézet irányítási struktúrája és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés kézhezvételétől számított három hónapon belül írásban tájékoztatja az érintett Európai Unió másik tagállamának illetékes felügyeleti hatóságát. A tájékoztatást egyidejűleg közli a bejelentő hitelintézettel is.
 
-(4) A (3) bekezdés szerinti tájékoztatásban a Felügyelet közli a másik tagállam illetékes felügyeleti hatóságával a fióktelepet létesítő hitelintézet szavatoló tőkéjét és tőkekövetelményét, valamint a fióktelep által gyűjtött betétekre vonatkozó betétbiztosítás részletes szabályait.
+(4) A (3) bekezdés szerinti tájékoztatásban az MNB közli a másik tagállam illetékes felügyeleti hatóságával a fióktelepet létesítő hitelintézet szavatoló tőkéjét és tőkekövetelményét, valamint a fióktelep által gyűjtött betétekre vonatkozó betétbiztosítás részletes szabályait.
 
-(5) Ha a Felügyelet a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb három hónapon belül határozatban közli a bejelentő hitelintézettel. A határozatot meg kell indokolni.
+(5) Ha az MNB a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb három hónapon belül határozatban közli a bejelentő hitelintézettel. A határozatot meg kell indokolni.
 
 (6) A (3) bekezdés szerinti tájékoztatás kézhezvételétől számított két hónapon belül a másik tagállam illetékes felügyeleti hatósága írásban tájékoztathatja az érintett hitelintézetet a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről.
 
 (7) A fióktelep a (6) bekezdés szerinti tájékoztatás kézhezvételét követően, illetve a tájékoztatásra rendelkezésre álló két hónapos időtartam eltelte után létrehozható és megkezdheti működését.
 
-(8) Ha a működés során a (2) bekezdés b)–f) pontjaiban meghatározott információkban, illetőleg a fióktelep által gyűjtött betétekre vonatkozó betétbiztosítási feltételekben változás következik be, a hitelintézet legalább egy hónappal a változást megelőzően írásban köteles erről tájékoztatni a Felügyeletet és a másik tagállam illetékes felügyeleti hatóságát.
+(8) Ha a működés során a (2) bekezdés b)–f) pontjaiban meghatározott információkban, illetőleg a fióktelep által gyűjtött betétekre vonatkozó betétbiztosítási feltételekben változás következik be, a hitelintézet legalább egy hónappal a változást megelőzően írásban köteles erről tájékoztatni az MNB-t és a másik tagállam illetékes felügyeleti hatóságát.
 
-(9) A Felügyelet tájékoztatja az Európai Unió másik tagállamának felügyeleti hatóságát, ha a tagállamban fiókteleppel rendelkező hitelintézet tevékenységi engedélyét visszavonta.
+(9) Az MNB tájékoztatja az Európai Unió másik tagállamának felügyeleti hatóságát, ha a tagállamban fiókteleppel rendelkező hitelintézet tevékenységi engedélyét visszavonta.
 
-32/B. § (1) A 15. § (4) bekezdésében meghatározott feltételeknek megfelelő, magyarországi székhelyű pénzügyi vállalkozás köteles bejelenteni a Felügyeletnek, ha az Európai Unió másik tagállamában fióktelepet kíván létesíteni.
+32/B. § (1) A 15. § (4) bekezdésében meghatározott feltételeknek megfelelő, magyarországi székhelyű pénzügyi vállalkozás köteles bejelenteni az MNB-nek, ha az Európai Unió másik tagállamában fióktelepet kíván létesíteni.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
@@ -1180,24 +1158,24 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - e) a fióktelep irányítását ellátó felelős személyek megnevezését,
 - f) a fióktelep címét.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzügyi vállalkozás irányítási struktúrája és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés kézhezvételétől számított három hónapon belül írásban tájékoztatja az érintett tagállam illetékes felügyeleti hatóságát. A tájékoztatást egyidejűleg közli a bejelentő pénzügyi vállalkozással is.
+(3) Ha az MNB rendelkezésére álló információk szerint a bejelentő pénzügyi vállalkozás irányítási struktúrája és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés kézhezvételétől számított három hónapon belül írásban tájékoztatja az érintett tagállam illetékes felügyeleti hatóságát. A tájékoztatást egyidejűleg közli a bejelentő pénzügyi vállalkozással is.
 
-(4) A (3) bekezdés szerinti tájékoztatásban a Felügyelet közli a másik tagállam illetékes felügyeleti hatóságával a fióktelepet létesítő pénzügyi vállalkozás tőkekövetelményét és az anyavállalatának összevont alapú tőkekövetelményét. A tájékoztatáshoz mellékelni kell a Felügyelet igazolását a 15. § (4) bekezdésében foglalt feltételek fennállásáról.
+(4) A (3) bekezdés szerinti tájékoztatásban az MNB közli a másik tagállam illetékes felügyeleti hatóságával a fióktelepet létesítő pénzügyi vállalkozás tőkekövetelményét és az anyavállalatának összevont alapú tőkekövetelményét. A tájékoztatáshoz mellékelni kell az MNB igazolását a 15. § (4) bekezdésében foglalt feltételek fennállásáról.
 
-(5) Ha a Felügyelet a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb három hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A határozatot meg kell indokolni.
+(5) Ha az MNB a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb három hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A határozatot meg kell indokolni.
 
 (6) A (3) bekezdés szerinti tájékoztatás kézhezvételétől számított két hónapon belül a másik tagállam illetékes felügyeleti hatósága írásban tájékoztathatja az érintett pénzügyi vállalkozást a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről.
 
 (7) A fióktelep a (6) bekezdés szerinti tájékoztatás kézhezvételét követően, illetőleg a tájékoztatásra rendelkezésre álló két hónapos időtartam eltelte után megalapítható és megkezdheti működését.
 
-(8) Ha a működés során a (2) bekezdés b)–f) pontjaiban meghatározott információkban változás következik be, a pénzügyi vállalkozás legalább egy hónappal a változást megelőzően írásban köteles erről tájékoztatni a Felügyeletet és a másik tagállam illetékes felügyeleti hatóságát.
+(8) Ha a működés során a (2) bekezdés b)–f) pontjaiban meghatározott információkban változás következik be, a pénzügyi vállalkozás legalább egy hónappal a változást megelőzően írásban köteles erről tájékoztatni az MNB-t és a másik tagállam illetékes felügyeleti hatóságát.
 
-(9) A Felügyelet értesíti az Európai Unió másik tagállamának felügyeleti hatóságát, ha a tagállamban fiókteleppel rendelkező pénzügyi vállalkozás
+(9) Az MNB értesíti az Európai Unió másik tagállamának felügyeleti hatóságát, ha a tagállamban fiókteleppel rendelkező pénzügyi vállalkozás
 
 - a) már nem felel meg a 15. § (4) bekezdésben foglalt feltételeknek, vagy
 - b) tevékenységi engedélyét visszavonta.
 
-32/C. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenysége folytatására az Európai Unió másik tagállamában fióktelepet kíván létesíteni, köteles azt a Felügyeletnek bejelenteni.
+32/C. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenysége folytatására az Európai Unió másik tagállamában fióktelepet kíván létesíteni, köteles azt az MNB-nek bejelenteni.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
@@ -1205,51 +1183,51 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - b) a végezni kívánt szolgáltatás megnevezését,
 - c) a fióktelep szervezeti felépítésére, irányítására, ellenőrzési rendjére vonatkozó dokumentumokat, a fióktelep címét, üzleti tervét, valamint a pénzforgalmi szolgáltatás vagy az elektronikuspénz-kibocsátás üzletágat irányító személy megnevezését.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről, a fióktelep vezető állású személyének nevéről, a fióktelep szervezeti felépítéséről, valamint a fióktelep által végezni kívánt szolgáltatásról. A tájékoztatást egyidejűleg közli a bejelentő pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel.
+(3) Ha az MNB rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről, a fióktelep vezető állású személyének nevéről, a fióktelep szervezeti felépítéséről, valamint a fióktelep által végezni kívánt szolgáltatásról. A tájékoztatást egyidejűleg közli a bejelentő pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel.
 
 ### Határon átnyúló tevékenység végzésének szabályai
 
-32/D. § (1) A hitelintézet, ha határon átnyúló tevékenységként első ízben kíván pénzügyi szolgáltatást, illetőleg kiegészítő pénzügyi szolgáltatást nyújtani az Európai Unió másik tagállamában, a Felügyeletnek előzetesen bejelenti a másik tagállamban végezni kívánt tevékenységeket.
+32/D. § (1) A hitelintézet, ha határon átnyúló tevékenységként első ízben kíván pénzügyi szolgáltatást, illetőleg kiegészítő pénzügyi szolgáltatást nyújtani az Európai Unió másik tagállamában, az MNB-nek előzetesen bejelenti a másik tagállamban végezni kívánt tevékenységeket.
 
-(2) A Felügyelet az (1) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam illetékes felügyeleti hatóságát a hitelintézet tervezett tevékenységéről. A tájékoztatást egyidejűleg közli a bejelentő hitelintézettel is.
+(2) Az MNB az (1) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam illetékes felügyeleti hatóságát a hitelintézet tervezett tevékenységéről. A tájékoztatást egyidejűleg közli a bejelentő hitelintézettel is.
 
-(3) A hitelintézet a tevékenységét a Felügyelet tájékoztatásának kézhezvételét követően kezdheti meg a másik tagállamban.
+(3) A hitelintézet a tevékenységét az MNB tájékoztatásának kézhezvételét követően kezdheti meg a másik tagállamban.
 
 32/E. § (1) A pénzügyi vállalkozás határon átnyúló szolgáltatást az Európai Unió másik tagállamában abban az esetben nyújthat, ha kielégíti a 15. § (4) bekezdésében meghatározott feltételeket.
 
-(2) A pénzügyi vállalkozás, ha határon átnyúló tevékenységként első ízben kíván pénzügyi szolgáltatást, illetőleg kiegészítő pénzügyi szolgáltatást nyújtani az Európai Unió másik tagállamában, előzetesen bejelenti a Felügyeletnek a másik tagállamban végezni kívánt tevékenységeket.
+(2) A pénzügyi vállalkozás, ha határon átnyúló tevékenységként első ízben kíván pénzügyi szolgáltatást, illetőleg kiegészítő pénzügyi szolgáltatást nyújtani az Európai Unió másik tagállamában, előzetesen bejelenti az MNB-nek a másik tagállamban végezni kívánt tevékenységeket.
 
-(3) A Felügyelet a (2) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam illetékes felügyeleti hatóságát a pénzügyi vállalkozás tervezett tevékenységéről. A tájékoztatást egyidejűleg közli a bejelentő pénzügyi vállalkozással is.
+(3) Az MNB a (2) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam illetékes felügyeleti hatóságát a pénzügyi vállalkozás tervezett tevékenységéről. A tájékoztatást egyidejűleg közli a bejelentő pénzügyi vállalkozással is.
 
-(4) A tájékoztatáshoz mellékelni kell a Felügyelet igazolását a 15. § (4) bekezdésében foglalt feltételek fennállásáról.
+(4) A tájékoztatáshoz mellékelni kell az MNB igazolását a 15. § (4) bekezdésében foglalt feltételek fennállásáról.
 
-(5) A pénzügyi vállalkozás a tevékenységét a Felügyelet tájékoztatásának kézhezvételét követően kezdheti meg a másik tagállamban.
+(5) A pénzügyi vállalkozás a tevékenységét az MNB tájékoztatásának kézhezvételét követően kezdheti meg a másik tagállamban.
 
-(6) Ha a pénzügyi vállalkozás már nem felel meg a 15. § (4) bekezdésében meghatározott feltételeknek, a Felügyelet értesíti azon tagállam illetékes felügyeleti hatóságát, ahol a pénzügyi vállalkozás határon átnyúló szolgáltatást nyújt.
+(6) Ha a pénzügyi vállalkozás már nem felel meg a 15. § (4) bekezdésében meghatározott feltételeknek, az MNB értesíti azon tagállam illetékes felügyeleti hatóságát, ahol a pénzügyi vállalkozás határon átnyúló szolgáltatást nyújt.
 
-(7) Ha a Felügyelet a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb egy hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A határozatot meg kell indokolni. A Felügyelet kizárólag abban az esetben tagadhatja meg a tájékoztatás elküldését, ha a 15. § (4) bekezdésében meghatározott feltételek nem állnak fenn.
+(7) Ha az MNB a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb egy hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A határozatot meg kell indokolni. Az MNB kizárólag abban az esetben tagadhatja meg a tájékoztatás elküldését, ha a 15. § (4) bekezdésében meghatározott feltételek nem állnak fenn.
 
-32/F. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenységét az Európai Unió másik tagállamában határon átnyúló szolgáltatásként szándékozik végezni, köteles azt a Felügyeletnek bejelenteni.
+32/F. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenységét az Európai Unió másik tagállamában határon átnyúló szolgáltatásként szándékozik végezni, köteles azt az MNB-nek bejelenteni.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell annak az európai uniós tagállamnak a megnevezését, amelyben a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény határon átnyúló szolgáltatást szándékozik végezni.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről.
+(3) Ha az MNB rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről.
 
-32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, a Felügyelet tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
+32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja az MNB-t, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, az MNB tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
 
 - a) az ügyfelekkel szembeni tájékoztatási kötelezettségekről,
 - b) az üzletszabályzat követelményéről, valamint
 - c) egyes pénzügyi szolgáltatások nyújtásának különös szabályairól.
 
-32/H. § (1) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy székhelye szerinti tagállamban engedélyezett pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény Magyarországon fióktelepet szándékozik létesíteni, határon átnyúló szolgáltatást szándékozik végezni, akkor a Felügyelet tájékoztatja a pénzforgalmi intézményt vagy az elektronikuspénz-kibocsátó intézményt a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről, így különösen az ügyfelek előzetes és utólagos tájékoztatásának, a pénzforgalmi szolgáltatás lebonyolításának és az elektronikus pénz kibocsátásának szabályairól.
+32/H. § (1) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja az MNB-t, hogy székhelye szerinti tagállamban engedélyezett pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény Magyarországon fióktelepet szándékozik létesíteni, határon átnyúló szolgáltatást szándékozik végezni, akkor az MNB tájékoztatja a pénzforgalmi intézményt vagy az elektronikuspénz-kibocsátó intézményt a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről, így különösen az ügyfelek előzetes és utólagos tájékoztatásának, a pénzforgalmi szolgáltatás lebonyolításának és az elektronikus pénz kibocsátásának szabályairól.
 
-(2) Ha a Felügyelet rendelkezésére álló információk szerint az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítői tevékenységet végző közvetítőjével vagy fióktelepe létesítésével kapcsolatban felmerül a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályok megsértése, akkor a Felügyelet köteles erről a székhely szerinti illetékes felügyeleti hatóságot is értesíteni.
+(2) Ha az MNB rendelkezésére álló információk szerint az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítői tevékenységet végző közvetítőjével vagy fióktelepe létesítésével kapcsolatban felmerül a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályok megsértése, akkor az MNB köteles erről a székhely szerinti illetékes felügyeleti hatóságot is értesíteni.
 
 ### Rendszerszinten jelentős fióktelep
 
-32/I. § (1) Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában fióktelepet létesített vagy a Felügyelet a fióktelepet létesítő hitelintézet konszolidáló felügyeleti hatósága, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatósága kérelmére a Felügyelet a kérelmező felügyeleti hatósággal közösen a fióktelepet rendszerszinten jelentős fióktelepnek minősítheti.
+32/I. § (1) Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában fióktelepet létesített vagy az MNB a fióktelepet létesítő hitelintézet konszolidáló felügyeleti hatósága, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatósága kérelmére az MNB a kérelmező felügyeleti hatósággal közösen a fióktelepet rendszerszinten jelentős fióktelepnek minősítheti.
 
-(2) A Felügyelet – a (3) bekezdésben meghatározott szempontok figyelembevétele mellett alapos indoknak minősíthető érvek alapján – kérelmezheti az Európai Unió másik tagállamának hatáskörrel rendelkező konszolidáló felügyeleti hatóságánál vagy ennek hiányában a hitelintézet székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságánál, hogy közösen rendszerszinten jelentős fióktelepnek minősítsék az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepét.
+(2) Az MNB – a (3) bekezdésben meghatározott szempontok figyelembevétele mellett alapos indoknak minősíthető érvek alapján – kérelmezheti az Európai Unió másik tagállamának hatáskörrel rendelkező konszolidáló felügyeleti hatóságánál vagy ennek hiányában a hitelintézet székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságánál, hogy közösen rendszerszinten jelentős fióktelepnek minősítsék az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepét.
 
 (3) A rendszerszinten jelentős minősítésnél az indok alaposságának megállapításakor különösen az alábbi szempontokat kell figyelembe venni:
 
@@ -1257,15 +1235,15 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - b) a hitelintézet tevékenységének felfüggesztése vagy megszüntetése milyen hatást gyakorolna az adott tagállam piacának likviditására és fizetési, elszámolási és kiegyenlítési rendszerére,
 - c) az ügyfélszámot tekintve mekkora a fióktelep mérete és jelentősége az adott tagállam banki vagy pénzügyi rendszerében.
 
-(4) A Felügyelet intézkedik annak érdekében, hogy a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a rendszerszinten jelentős fiókteleppé minősítésről többoldalú eljárás keretében határozatot hozzanak.
+(4) Az MNB intézkedik annak érdekében, hogy a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a rendszerszinten jelentős fiókteleppé minősítésről többoldalú eljárás keretében határozatot hozzanak.
 
-(5) Ha a kérelemről – annak kézhezvételétől számított két hónapon belül – többoldalú eljárás keretében nem hoznak határozatot, akkor ha a fióktelepet Magyarországon létesítették, a Felügyelet újabb két hónapos határidőn belül – az eljárásban részt vevő más tagállam hatáskörrel rendelkező felügyeleti hatóságainak a többoldalú eljárás során adott véleményére és fenntartásaira figyelemmel – egyedül határozhat arról, hogy a fióktelep rendszerszinten jelentősnek minősül.
+(5) Ha a kérelemről – annak kézhezvételétől számított két hónapon belül – többoldalú eljárás keretében nem hoznak határozatot, akkor ha a fióktelepet Magyarországon létesítették, az MNB újabb két hónapos határidőn belül – az eljárásban részt vevő más tagállam hatáskörrel rendelkező felügyeleti hatóságainak a többoldalú eljárás során adott véleményére és fenntartásaira figyelemmel – egyedül határozhat arról, hogy a fióktelep rendszerszinten jelentősnek minősül.
 
-(6) A Felügyelet az (5) bekezdés szerinti határozatát megküldi a többi érintett tagállam hatáskörrel rendelkező felügyeleti hatóságának.
+(6) Az MNB az (5) bekezdés szerinti határozatát megküldi a többi érintett tagállam hatáskörrel rendelkező felügyeleti hatóságának.
 
 (7) A (4) bekezdés szerinti közös határozat, valamint – ha a fióktelepet az Európai Unió másik tagállamában létesítették – a másik tagállam hatáskörrel rendelkező felügyeleti hatósága által fióktelepet rendszerszinten jelentősnek minősítő határozat Magyarországon közvetlenül alkalmazandó és végrehajtható.
 
-32/J. § Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában rendszerszinten jelentős fióktelepet létesített, a Felügyelet értesíti a másik tagállam hatáskörrel rendelkező felügyeleti hatóságát, amennyiben a hitelintézetnél vagy olyan vállalkozásnál, amelyre a hitelintézettel együttesen kiterjed az összevont alapú felügyelet, információt szerez olyan kedvezőtlen fejlemény bekövetkezéséről, amely súlyosan érintheti a hitelintézetet, vagy ha a hitelintézettel szemben kivételes intézkedést alkalmazott, és együttműködik a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a 96/C. § (11) bekezdésében meghatározott feladatok végrehajtása érdekében.
+32/J. § Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában rendszerszinten jelentős fióktelepet létesített, az MNB értesíti a másik tagállam hatáskörrel rendelkező felügyeleti hatóságát, amennyiben a hitelintézetnél vagy olyan vállalkozásnál, amelyre a hitelintézettel együttesen kiterjed az összevont alapú felügyelet, információt szerez olyan kedvezőtlen fejlemény bekövetkezéséről, amely súlyosan érintheti a hitelintézetet, vagy ha a hitelintézettel szemben kivételes intézkedést alkalmazott, és együttműködik a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a 96/C. § (11) bekezdésében meghatározott feladatok végrehajtása érdekében.
 
 ### III. Fejezet — A bankképviseletre vonatkozó sajátos szabályok
 
@@ -1273,7 +1251,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (2) A magyarországi székhellyel nyilvántartott bankképviselet jogi személy, amelyet a cégjegyzékbe be kell jegyezni.
 
-34. § A külföldi székhelyű hitelintézet bankképviseletének Magyarországon történő létesítését a Felügyeletnek be kell jelenteni. A Felügyelet engedélye szükséges magyarországi székhelyű hitelintézet bankképviseletének külföldön történő létesítéséhez és a bankképviselet működésének megkezdéséhez.
+34. § A külföldi székhelyű hitelintézet bankképviseletének Magyarországon történő létesítését az MNB-nek be kell jelenteni. Az MNB engedélye szükséges magyarországi székhelyű hitelintézet bankképviseletének külföldön történő létesítéséhez és a bankképviselet működésének megkezdéséhez.
 
 35. § (1) Magyarországi székhellyel rendelkező hitelintézet külföldi képviseletének létesítésére irányuló engedély iránti kérelemnek tartalmaznia kell
 
@@ -1290,9 +1268,9 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 36. § (1) A bankképviselet vezetője felelős az e törvényben a bankképviseletre meghatározott rendelkezések betartásáért.
 
-(2) A bankképviselet öt munkanapon belül bejelenti a Felügyeletnek a bankképviselet áthelyezését vagy megszüntetését, illetve a képviseletet ellátó személy megváltozását.
+(2) A bankképviselet öt munkanapon belül bejelenti az MNB-nek a bankképviselet áthelyezését vagy megszüntetését, illetve a képviseletet ellátó személy megváltozását.
 
-(3) Ha a bankképviselet a 33. § (1) bekezdésében meghatározottaknak nem felel meg, a Felügyelet a bankképviseletet törli a nyilvántartásából, és egyúttal eltiltja bankképviseleti tevékenységének gyakorlásától.
+(3) Ha a bankképviselet a 33. § (1) bekezdésében meghatározottaknak nem felel meg, az MNB a bankképviseletet törli a nyilvántartásából, és egyúttal eltiltja bankképviseleti tevékenységének gyakorlásától.
 
 ## II. RÉSZ — TULAJDONJOG GYAKORLÁSA, IRÁNYÍTÁSÉS ELLENŐRZÉS
 
@@ -1300,16 +1278,16 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### A minősített befolyás megszerzésének engedélyezése
 
-37. § (1) Köteles a Felügyelettől engedélyt kérni, aki pénzügyi intézményben
+37. § (1) Köteles az MNB-től engedélyt kérni, aki pénzügyi intézményben
 
 - a) minősített befolyást kíván szerezni, vagy
 - b) minősített befolyását úgy kívánja módosítani, hogy az elérje a húsz, a harminchárom vagy a ötven százalékos határértéket.
 
 (2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (2)–(4) bekezdésében meghatározott iratokat.
 
-(3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
+(3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak az MNB engedélyével köthet.
 
-(4) Aki olyan vállalkozásban, amely pénzügyi intézményben minősített befolyással rendelkezik, többségi részesedést kíván szerezni, köteles a szerződéskötést megelőzően a Felügyelettől engedélyt kérni.
+(4) Aki olyan vállalkozásban, amely pénzügyi intézményben minősített befolyással rendelkezik, többségi részesedést kíván szerezni, köteles a szerződéskötést megelőzően az MNB-től engedélyt kérni.
 
 (5) Az (1)–(4) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell
 
@@ -1358,20 +1336,20 @@ a kérelmező, a kérelmező másik ellenőrzött vállalkozásának közvetlen,
 
 gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
-38. § (1) A pénzügyi intézményben minősített befolyással rendelkező személy köteles a Felügyeletnek a szerződéskötést megelőzően két nappal bejelenteni, ha
+38. § (1) A pénzügyi intézményben minősített befolyással rendelkező személy köteles az MNB-nek a szerződéskötést megelőzően két nappal bejelenteni, ha
 
 - a) minősített befolyását teljes egészében meg kívánja szüntetni, vagy
 - b) minősített befolyását úgy kívánja módosítani, hogy az a húsz, harminchárom vagy ötven százalékos határérték alá csökkenjen.
 
-(2) Az (1) bekezdésben meghatározott személy két napon belül köteles a Felügyeletnek bejelenteni, ha új vezető tisztségviselőt választott.
+(2) Az (1) bekezdésben meghatározott személy két napon belül köteles az MNB-nek bejelenteni, ha új vezető tisztségviselőt választott.
 
 (3) A bejelentésnek – az (1) bekezdés b) pontja esetében – tartalmaznia kell a fennmaradó tulajdoni részesedést, a szavazati jog mértékét vagy a jelentős előnyt biztosító szerződés módosítását is.
 
-38/A. § (1) A Felügyelet a 37. § (1) és (3) bekezdésében meghatározott kérelem átvételét a benyújtástól számított két munkanapon belül, írásban igazolja a kérelmező, illetve a befolyással rendelkező felé (a továbbiakban: átvételi igazolás), és egyben tájékoztatja a (2)–(7) bekezdésben meghatározott ügyintézési határidőről. Ez a rendelkezés megfelelően alkalmazandó a hiánypótlás esetében is.
+38/A. § (1) Az MNB a 37. § (1) és (3) bekezdésében meghatározott kérelem átvételét a benyújtástól számított két munkanapon belül, írásban igazolja a kérelmező, illetve a befolyással rendelkező felé (a továbbiakban: átvételi igazolás), és egyben tájékoztatja a (2)–(7) bekezdésben meghatározott ügyintézési határidőről. Ez a rendelkezés megfelelően alkalmazandó a hiánypótlás esetében is.
 
-(2) A Felügyelet az átvételi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
+(2) Az MNB az átvételi igazolás kiállításától számított hatvan munkanapon belül (a továbbiakban: ügyintézési határidő) megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
 
-(3) A Felügyelet az e törvényben meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást, illetve a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
+(3) Az MNB az e törvényben meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást, illetve a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 
 (4) A hiánypótlásra biztosított határidő húsz munkanap.
 
@@ -1382,7 +1360,7 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (6)
 
-(7) A hiánypótlás kérelmező általi megfelelő teljesítését követően a Felügyelet a kérelmezőtől jogosult egyéb tájékoztatást is kérni. Ezen tájékoztatás teljesítésére biztosított határidőt azonban az ügyintézési határidő számításánál figyelembe kell venni.
+(7) A hiánypótlás kérelmező általi megfelelő teljesítését követően az MNB a kérelmezőtől jogosult egyéb tájékoztatást is kérni. Ezen tájékoztatás teljesítésére biztosított határidőt azonban az ügyintézési határidő számításánál figyelembe kell venni.
 
 38/B. § (1) Ha a kérelmező
 
@@ -1390,11 +1368,11 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 - b) anyavállalata az a) pontban foglalt vállalkozásnak, vagy
 - c) ellenőrzött vállalkozása az a) pontban foglalt vállalkozás,
 
-akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intézmény, a befektetési vállalkozás, a biztosító, a viszontbiztosító és az ÁÉKBV-t kezelő vállalkozás székhelye szerinti, hatáskörrel rendelkező érintett felügyeleti hatóságnak.
+akkor az MNB a kérelmet haladéktalanul továbbítja a pénzügyi intézmény, a befektetési vállalkozás, a biztosító, a viszontbiztosító és az ÁÉKBV-t kezelő vállalkozás székhelye szerinti, hatáskörrel rendelkező érintett felügyeleti hatóságnak.
 
-(2) Az érintett felügyeleti hatóságok által a Felügyelet számára megküldött állásfoglalásokat a Felügyelet határozatában ismerteti.
+(2) Az érintett felügyeleti hatóságok által az MNB számára megküldött állásfoglalásokat az MNB határozatában ismerteti.
 
-39. § (1) A Felügyelet a 37. § (1) és (3) bekezdésében meghatározott engedély iránti kérelmet elutasítja, ha a kérelmező (ideértve annak tulajdonosát vagy vezető tisztségviselőjét is)
+39. § (1) Az MNB a 37. § (1) és (3) bekezdésében meghatározott engedély iránti kérelmet elutasítja, ha a kérelmező (ideértve annak tulajdonosát vagy vezető tisztségviselőjét is)
 
 - a) tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása veszélyezteti a pénzügyi intézmény független, megbízható és körültekintő tulajdonosi irányítását,
 - b) üzleti tevékenységének, illetőleg kapcsolatainak jellege, vagy a más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete olyan, hogy a felügyeleti tevékenységet akadályozza,
@@ -1404,45 +1382,45 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 - a) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek,
 - b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége, vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága,
-- c) nem teljesíti a Felügyelet által a hitelintézet számára a helyreállítási tervben megállapított feltételeket,
-- d) szavazati jogának gyakorlását a Felügyelet – a bejelentést megelőző öt éven belül – felfüggesztette,
+- c) nem teljesíti az MNB által a hitelintézet számára a helyreállítási tervben megállapított feltételeket,
+- d) szavazati jogának gyakorlását az MNB – a bejelentést megelőző öt éven belül – felfüggesztette,
 - e) természetes személy esetén a 44. § (4) bekezdésében foglalt kizáró ok áll fenn.
 
-(3) Ha a minősített befolyás engedélyezésének megtagadására okot adó körülmény nem áll fenn, de a természetes személy kérelmező ellen a 44. § (6) bekezdésében meghatározott büntetőeljárás van folyamatban, a Felügyelet az engedélyt a tulajdonos szavazati jogának a büntetőeljárás befejezéséig történő felfüggesztésével adja meg.
+(3) Ha a minősített befolyás engedélyezésének megtagadására okot adó körülmény nem áll fenn, de a természetes személy kérelmező ellen a 44. § (6) bekezdésében meghatározott büntetőeljárás van folyamatban, az MNB az engedélyt a tulajdonos szavazati jogának a büntetőeljárás befejezéséig történő felfüggesztésével adja meg.
 
-(4) Az (1)–(2) bekezdésben meghatározott tény, illetőleg körülmény ellenőrzése érdekében a Felügyelet bármelyik érdekelt féltől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
+(4) Az (1)–(2) bekezdésben meghatározott tény, illetőleg körülmény ellenőrzése érdekében az MNB bármelyik érdekelt féltől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 
-(5) Ha a minősített befolyás megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig, illetve a feltételek meglétének ismételt igazolásáig a tulajdonos szavazati jogának gyakorlását felfüggeszti.
+(5) Ha a minősített befolyás megszerzésének feltételei már nem állnak fenn, az MNB a jogellenes állapot megszüntetéséig, illetve a feltételek meglétének ismételt igazolásáig a tulajdonos szavazati jogának gyakorlását felfüggeszti.
 
 (6) Ha pénzügyi intézmény tulajdonosa szavazati jogát törvény rendelkezése alapján nem gyakorolhatja, szavazati jogát a határozatképesség megállapításánál számításon kívül kell hagyni.
 
-(7) A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak az irányítás megszerzéséhez szükséges engedélyét.
+(7) Az MNB engedélye nem helyettesíti a Gazdasági Versenyhivatalnak az irányítás megszerzéséhez szükséges engedélyét.
 
-39/A. § (1) Ha a Felügyelet a 38/A. §-ban meghatározott ügyintézési határidőn belül a minősített befolyás megszerzésének, illetve a meglévő minősített befolyás mértéke növelésének jóváhagyását nem tagadja meg, a jóváhagyást megadottnak kell tekinteni.
+39/A. § (1) Ha az MNB a 38/A. §-ban meghatározott ügyintézési határidőn belül a minősített befolyás megszerzésének, illetve a meglévő minősített befolyás mértéke növelésének jóváhagyását nem tagadja meg, a jóváhagyást megadottnak kell tekinteni.
 
-(2) Ha a Felügyelet a minősített befolyás megszerzését, illetve a meglévő minősített befolyás mértékének növelését nem tagadja meg, annak lebonyolítására határidőt állapíthat meg, amely nem haladhatja meg a hat hónapot.
+(2) Ha az MNB a minősített befolyás megszerzését, illetve a meglévő minősített befolyás mértékének növelését nem tagadja meg, annak lebonyolítására határidőt állapíthat meg, amely nem haladhatja meg a hat hónapot.
 
-40. § Az előírt engedély iránti kérelem benyújtásának elmulasztása, a kérelem elutasítása, az előírt bejelentési kötelezettség elmulasztása, illetőleg az adatszolgáltatás megtagadása esetén a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.
+40. § Az előírt engedély iránti kérelem benyújtásának elmulasztása, a kérelem elutasítása, az előírt bejelentési kötelezettség elmulasztása, illetőleg az adatszolgáltatás megtagadása esetén a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását az MNB a megfelelő törvényes feltételek biztosításáig megtilthatja.
 
-41. § (1) A szerződéskötést követő harminc napon belül írásban köteles értesíteni a Felügyeletet, aki a pénzügyi intézményben
+41. § (1) A szerződéskötést követő harminc napon belül írásban köteles értesíteni az MNB-t, aki a pénzügyi intézményben
 
 - a) minősített befolyást szerzett,
 - b) minősített befolyását úgy módosította, hogy 1. az eléri a húsz, harminchárom vagy ötven százalékos határértéket, vagy 2. az már nem éri el a húsz, harminchárom vagy ötven százalékos határértéket, vagy
 - c) a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, jelentős előnyöket biztosító megállapodást kötött, vagy az ilyen megállapodást módosította.
 
-(2) A pénzügyi intézmény öt munkanapon belül a Felügyeletet írásban tájékoztatja, ha tudomást szerez a 37–38. §-okban meghatározott arányú részesedés megszerzéséről, elidegenítéséről, illetve módosulásáról.
+(2) A pénzügyi intézmény öt munkanapon belül az MNB-t írásban tájékoztatja, ha tudomást szerez a 37–38. §-okban meghatározott arányú részesedés megszerzéséről, elidegenítéséről, illetve módosulásáról.
 
-41/A. § (1) Köteles a Felügyeletnek előzetesen bejelenteni, aki elektronikuspénz-kibocsátó intézményben
+41/A. § (1) Köteles az MNB-nek előzetesen bejelenteni, aki elektronikuspénz-kibocsátó intézményben
 
 - a) minősített befolyást kíván szerezni, vagy
 - b) minősített befolyását úgy kívánja módosítani, hogy az elérje a húsz, a harminc vagy az ötven százalékos határértéket.
 
-(2) Az elektronikuspénz-kibocsátó intézményben minősített befolyással rendelkező személy köteles előzetesen bejelenteni a Felügyeletnek, ha
+(2) Az elektronikuspénz-kibocsátó intézményben minősített befolyással rendelkező személy köteles előzetesen bejelenteni az MNB-nek, ha
 
 - a) minősített befolyását teljes egészében meg kívánja szüntetni, vagy
 - b) minősített befolyását úgy kívánja módosítani, hogy az a húsz, harminc vagy ötven százalékos határérték alá csökkenjen.
 
-(3) Be kell jelenteni a Felügyeletnek, ha az elektronikuspénz-kibocsátó intézmény egy jogi személynek vagy jogi személyiség nélküli gazdasági társaságnak a leányvállalatává vált, vagy megszűnt annak lenni.
+(3) Be kell jelenteni az MNB-nek, ha az elektronikuspénz-kibocsátó intézmény egy jogi személynek vagy jogi személyiség nélküli gazdasági társaságnak a leányvállalatává vált, vagy megszűnt annak lenni.
 
 (4) A minősített befolyást szerezni kívánó személy bejelentésének tartalmaznia kell:
 
@@ -1453,11 +1431,11 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 - e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 44. § (4) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 44. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot, valamint
 - f) egyéb olyan információkat, melyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van.
 
-(5) Amennyiben a minősített befolyást szerző tevékenysége, illetve az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, úgy a Felügyelet a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tulajdonosok szavazati jogának gyakorlását, addig, amíg a tulajdonos meg nem szünteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+(5) Amennyiben a minősített befolyást szerző tevékenysége, illetve az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, úgy az MNB a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tulajdonosok szavazati jogának gyakorlását, addig, amíg a tulajdonos meg nem szünteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
 
-(6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
+(6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza az MNB a bejelentési kötelezettség elmulasztása esetén is.
 
-(7) Amennyiben a minősített befolyásszerzés a Felügyelet tiltása ellenére következik be, úgy a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.
+(7) Amennyiben a minősített befolyásszerzés az MNB tiltása ellenére következik be, úgy a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását az MNB a megfelelő törvényes feltételek biztosításáig megtilthatja.
 
 ### V. Fejezet — A tulajdonosokra, a vezető testületek tagjairaés a vezető állású személyekre vonatkozó szabályok
 
@@ -1479,27 +1457,27 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 (3) A részvénykönyv mellékleteként nyilván kell tartani a legalább öt százalékot elérő tulajdonosok által a pénzügyi intézményben birtokolt – a 4. számú melléklet szerint számított – közvetett tulajdonának azonosításra alkalmas adatait is. A pénzügyi intézményben ötszázalékos vagy ezt meghaladó tulajdoni hányaddal rendelkező, illetve ilyen hányadot megszerző tulajdonos a pénzügyi intézményben birtokolt közvetett tulajdonát, illetve annak változását – az azonosításra alkalmas adatok egyidejű közlésével – köteles a pénzügyi intézménynek bejelenteni.
 
-(4) A (3) bekezdésben foglalt kötelezettségét nem teljesítő tulajdonos szavazati jogának gyakorlását a kötelezettség teljesítéséig a Felügyelet felfüggeszti.
+(4) A (3) bekezdésben foglalt kötelezettségét nem teljesítő tulajdonos szavazati jogának gyakorlását a kötelezettség teljesítéséig az MNB felfüggeszti.
 
 (5) A részvénytársasági formában működő pénzügyi intézmény vezető állású személye köteles a tulajdonában lévő, a pénzügyi intézmény által kibocsátott részvényét a pénzügyi intézmény igazgatóságának bejelenteni.
 
 ### Közös szabályok
 
-44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
+44. § (1) Az MNB előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
+(2) Az engedélyt megadottnak kell tekinteni, ha az MNB a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, az MNB a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
-(3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
+(3) Az MNB a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
 (4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél és vegyes pénzügyi holding társaságnál nem lehet vezető állású személy az, aki
 
 - a) minősített befolyással rendelkezik (vagy rendelkezett), vagy vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben,
-  - aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
+  - aa) amely esetében a fizetésképtelenséget csak az MNB által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
   - ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
 és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
 
-- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
+- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt az MNB, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
 
@@ -1540,11 +1518,11 @@ kell érteni.
 
 44/C. § (1) A kérelmezőnek kell bizonyítania a jó üzleti hírnevet.
 
-(2) A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a Felügyelet egyéb, pontosan meghatározott iratok (okmányok) benyújtását írhatja elő.
+(2) A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban az MNB egyéb, pontosan meghatározott iratok (okmányok) benyújtását írhatja elő.
 
-(3) A jó üzleti hírnév bizonyításának sikertelenségét a Felügyeletnek határozattal kell megállapítania.
+(3) A jó üzleti hírnév bizonyításának sikertelenségét az MNB-nek határozattal kell megállapítania.
 
-(4) A Felügyelet a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
+(4) Az MNB a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
 ### VI. Fejezet — Felelősségi és képviseleti szabályok
 
@@ -1561,11 +1539,11 @@ együttesen jogosult.
 
 (2) Az (1) bekezdés szerinti együttes aláírási jog – a hitelintézet igazgatósága által jóváhagyott belső szabályzatban rögzített eljárási rend szerint – együttes aláírási jogként átruházható. A hitelintézet ügyfelének kérésére be kell mutatni a hitelintézet nevében kötelezettséget vállalók aláírási jogát meghatározó belső szabályzatot.
 
-48. § A vezető állású személy, illetőleg a pénzügyi intézmény könyvvizsgálója haladéktalanul bejelenti a Felügyeletnek, ha
+48. § A vezető állású személy és a pénzügyi intézmény könyvvizsgálója haladéktalanul bejelenti az MNB-nek, ha
 
-- a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, valamint a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNB tv.), a pénzforgalomról szóló jogszabályok, valamint a devizajogszabályok előírásainak,
+- a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.), a tevékenységére vonatkozó egyéb jogszabályok, valamint a devizajogszabályok előírásainak,
 - b) a pénzügyi intézmény nem tud eleget tenni fizetési kötelezettségeinek, vagy
-- c) bekövetkezett a pénzügyi intézmény alapítási, illetőleg tevékenységi engedélye visszavonásának a 29. §-ban meghatározott oka,
+- c) bekövetkezett a pénzügyi intézmény alapítási vagy tevékenységi engedélye visszavonásának a 29. §-ban meghatározott oka,
 - d) a kiegészítő alárendelt kölcsöntőke visszafizetésekor a pénzügyi intézmény szavatoló tőkéje nem éri el a rá vonatkozó tőkekövetelmény 120%-át,
 - e) a pénzügyi intézmény azért nem fizette vissza a kiegészítő alárendelt kölcsöntőkét, mert ennek következményeként a rá vonatkozó tőkekövetelménynek nem felelne meg.
 
@@ -1579,7 +1557,7 @@ együttesen jogosult.
 
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
-- a) Felügyelettel,
+- a)
 - b) az Országos Betétbiztosítási Alappal, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal szemben,
 - c) MNB-vel,
 - d) nemzetbiztonsági szolgálattal,
@@ -1597,7 +1575,7 @@ együttesen jogosult.
 
 (5) A pénzügyi intézmény és a pénzforgalmi intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
 
-(6) Nem jelenti az üzleti titok sérelmét a Felügyelet vagy az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
+(6) Nem jelenti az üzleti titok sérelmét az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 
 - a) a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés tervezése céljából, vagy
 - b) ha olyan helyzet áll elő, amely potenciálisan veszélyezteti a pénzügyi közvetítőrendszer stabilitását
@@ -1620,7 +1598,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
@@ -1641,11 +1619,11 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
-- a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, amennyiben a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
+- a) az adóhatóság és az MNB nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, amennyiben a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
 - b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. §-ának (8) bekezdése alapján szolgáltat adatot,
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot.
 
-(4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet vagy az MNB helyszíni ellenőrzést folytat.
+(4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB helyszíni ellenőrzést folytat.
 
 (5) A (2) és (3) bekezdés szerint adatkérésre jogosult a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkéréskor megjelölt.
 
@@ -1657,7 +1635,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 - b) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől,
 - c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, amennyiben a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
-(8) A Felügyelet, valamint az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
+(8) Az MNB jogszabályban a pénzügyi intézmény számára előírt adatszolgáltatás során is jogosult banktitokhoz jutni.
 
 (9) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
@@ -1692,18 +1670,18 @@ van összefüggésben.
 - d) a pénzügyi intézmény által felhatalmazott könyvvizsgálóknak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 - e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tulajdonos vagy esetleges jövőbeni tulajdonos által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 - f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
-- g) a Felügyelet által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása 1. statisztikai célra a Központi Statisztikai Hivatal, 2. a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés tervezése céljából az államháztartásért felelős miniszter részére.
+- g) az MNB által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása 1. statisztikai célra a Központi Statisztikai Hivatal, 2. a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés tervezése céljából az államháztartásért felelős miniszter részére.
 - h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
-- i) a külföldi pénzügyi intézmény székhelye szerinti felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, amennyiben a megállapodás tartalmazza az adatok bizalmas kezelésére, illetőleg felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
+- i) a külföldi pénzügyi intézmény székhelye szerinti felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és az MNB között együttműködési megállapodásban rögzített módon történő adattovábbítás, amennyiben a megállapodás tartalmazza az adatok bizalmas kezelésére, illetőleg felhasználására vonatkozó rendelkezést, továbbá az MNB hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 - j) a hitelintézet által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
 - k) e törvény XIV. és XIV/A. fejezetében, a Tpt. XIX/A. és XIX/B. fejezetében, valamint a Bit. Nyolcadik részének III/A. fejezetében foglalt rendelkezések teljesítése érdekében történő adatátadás,
-- l) a Felügyelet által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
+- l) az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 - m) az Országos Betétbiztosítási Alap által külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 - n) a pénzügyi intézmény által vállalt kockázat fedezetét nyújtó harmadik személy részére, a kockázatvállalás alapján fennálló követelés összegére és esedékességére vonatkozó adatszolgáltatás,
 - o) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása
-- p) az MNB részére, írásbeli megkeresés alapján az MNB tv. 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
+- p)
 - q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
-- r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
+- r) az MNB által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
 - s) a pénzügyi intézmény ügyfele által nyilvánosságra hozott állítással összefüggésben a pénzügyi intézmény részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
 - t) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - u) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából pénzügyi intézmény és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltató által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzügyi intézmények és pénzügyi intézménynek nem minősülő pénzforgalmi szolgáltatók részére történő adattovábbítás,
@@ -1727,7 +1705,7 @@ van összefüggésben.
 
 ### VIII. Fejezet — Összeférhetetlenségi szabályok
 
-56. § A vezető állású személy a Felügyeletnek haladéktalanul bejelenti, ha
+56. § A vezető állású személy az MNB-nek haladéktalanul bejelenti, ha
 
 - a) egy másik pénzügyi intézménynél igazgatósági taggá vagy felügyelő bizottsági taggá választják, vagy ilyen tisztségét megszünteti,
 - b) vállalkozásban minősített befolyást szerez, vagy az ilyen befolyását megszünteti,
@@ -1833,7 +1811,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (4) A felügyelő bizottság előzetes egyetértése szükséges a belső ellenőrzési szervezet vezetői és alkalmazottai foglalkoztatásának létesítésével, megszüntetésével kapcsolatos döntések meghozatalához, valamint díjazásuk megállapításához.
 
-(5) A felügyelő bizottság elnöke – a bizottsági ülést követő tíz napon belül – a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetőleg jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
+(5) A felügyelő bizottság elnöke – a bizottsági ülést követő tíz napon belül – az MNB-nek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetőleg jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
 
 (6) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyelő bizottság, a belső ellenőrzési szervezeti egység vezetője, illetőleg a felügyelő bizottság egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
 
@@ -1870,7 +1848,7 @@ a belső szabályzatban meghatározott mértékig.
 (8) A belső ellenőrzés
 
 - a) a jelentését megküldi 1. a felügyelő bizottságnak és az igazgatóságnak, 2. fióktelep esetén az alapító felügyelő bizottságának és igazgatóságának vagy ezek megfelelő szervének; továbbá
-- b) gondoskodik arról, hogy szükség esetén jelentése a Felügyelet rendelkezésére álljon.
+- b) gondoskodik arról, hogy szükség esetén jelentése az MNB rendelkezésére álljon.
 
 (9) A belső ellenőrzési szervezeti egység vezetésével, illetőleg ha az intézmény, pénzforgalmi intézmény csak egy belső ellenőrt alkalmaz, akkor a belső ellenőrzési feladatok ellátásával csak olyan személy bízható meg, aki
 
@@ -1880,7 +1858,7 @@ a belső szabályzatban meghatározott mértékig.
 68. § (1) Hitelintézetnél ügyvezetőnek, illetőleg fióktelep formájában működő hitelintézetnél vezető állású személynek az nevezhető ki, illetőleg az választható meg, aki
 
 - a) megfelel a vezető állású személyekre vonatkozó, a 44. §-ban meghatározott általános követelményeknek;
-- b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
+- b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően az MNB-nek – az előzetes engedély megszerzése érdekében – bejelentették, és az MNB az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
 - c) rendelkezik 1. szakirányú felsőfokú iskolai végzettséggel és legalább négyéves, hitelintézetnél szerzett vezetői gyakorlattal, 2. szakirányú felsőfokú iskolai végzettséggel és legalább ötéves, az MNB-nél, a Felügyeletnél, az Országos Betétbiztosítási Alapnál vagy önkéntes betétbiztosítási, illetve intézményvédelmi alapnál, továbbá ezeknek megfelelő külföldi intézménynél szerzett vezetői gyakorlattal, 3. szakirányú felsőfokú végzettséggel és – vállalkozásnál vagy a közigazgatásban szerzett – legalább hatéves szakirányú vezetői gyakorlattal, vagy 4. nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési társaságnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
 (2) Az (1) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
@@ -1895,7 +1873,7 @@ a belső szabályzatban meghatározott mértékig.
 (4) Pénzügyi vállalkozás ügyvezetőjének az nevezhető ki, aki
 
 - a) megfelel a vezető állású személyekre vonatkozó, a 44. §-ban meghatározott általános követelményeknek;
-- b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
+- b) akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően az MNB-nek – az előzetes engedély megszerzése érdekében – bejelentették, és az MNB az engedélyt megadta, vagy a 44. § (2) bekezdése alapján megadottnak kell tekinteni;
 - c) rendelkezik 1. felsőfokú iskolai végzettséggel, 2. pénzügyi intézménynél, az MNB-nél, a Felügyeletnél vagy az államigazgatásban szerzett legalább hároméves szakmai gyakorlattal, vagy 3. más gazdasági területen szerzett legalább hároméves vezetői gyakorlattal.
 
 (5) A (4) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint a (4) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát
@@ -1912,7 +1890,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (3) A hitelintézeten belül elkülönült szervezeti egységek banktitkot és értékpapírtitkot csak belső szabályzatban meghatározott módon adhatnak át egymásnak. A szabályzatnak biztosítania kell, hogy banktitokhoz és értékpapírtitokhoz csak az jusson hozzá, akinek arra feladata elvégzéséhez szüksége van.
 
-(4) A belső szabályzatot a Felügyeletnek meg kell küldeni.
+(4) A belső szabályzatot az MNB-nek meg kell küldeni.
 
 ### Javadalmazási politika
 
@@ -1975,9 +1953,9 @@ a belső szabályzatban meghatározott mértékig.
 
 71. § (1) A pénzügyi intézmény saját tőkéjének összege nem lehet kevesebb a 9. §-ban előírt legkisebb induló tőke összegénél.
 
-(2) Ha a pénzügyi intézmény saját tőkéjének összege az (1) bekezdésben előírt legalacsonyabb szint alá csökken, a saját tőke feltöltésére a Felügyelet legfeljebb tizennyolc hónapra meghatározott időt biztosíthat.
+(2) Ha a pénzügyi intézmény saját tőkéjének összege az (1) bekezdésben előírt legalacsonyabb szint alá csökken, a saját tőke feltöltésére az MNB legfeljebb tizennyolc hónapra meghatározott időt biztosíthat.
 
-72. § (1) Ha a pénzügyi intézmény saját tőkéje a jegyzett tőke alá csökken, a Felügyelet kötelezheti a pénzügyi intézmény igazgatóságát a közgyűlés összehívására.
+72. § (1) Ha a pénzügyi intézmény saját tőkéje a jegyzett tőke alá csökken, az MNB kötelezheti a pénzügyi intézmény igazgatóságát a közgyűlés összehívására.
 
 (2) Az (1) bekezdésben meghatározott esetben a közgyűlés dönt arról, hogy a pénzügyi intézmény jegyzett tőkéjét leszállítja, vagy a minősített befolyással rendelkező tulajdonosok gondoskodnak arról, hogy a pénzügyi intézmény saját tőkéjének összege legalább a jegyzett tőkére előírt mértéknek megfelelően helyreálljon.
 
@@ -2005,13 +1983,13 @@ a belső szabályzatban meghatározott mértékig.
 - b) be kell mutatnia az aktuális, valamint a felmondást, visszaváltást vagy visszavásárlást követő öt év üzleti terve alapján a tőkekövetelményeknek való megfelelését,
 - c) be kell mutatnia azt, hogy ez a lépés mennyire van összhangban az elkövetkező öt év üzleti tervével, illetve stressztesztekkel igazolnia kell, hogy a felmondást, visszaváltást vagy visszavásárlást követően is képes megfelelni a jövőbeni lehetséges kockázatokból származó tőkekövetelményeknek.
 
-(2) A Felügyelet a felmondáshoz, a visszaváltáshoz, visszavásárláshoz az engedélyt abban az esetben adja meg, ha meggyőződött arról, hogy az nem veszélyezteti a hitelintézet jövőbeni tőkekövetelményeknek való megfelelését.
+(2) Az MNB a felmondáshoz, a visszaváltáshoz, visszavásárláshoz az engedélyt abban az esetben adja meg, ha meggyőződött arról, hogy az nem veszélyezteti a hitelintézet jövőbeni tőkekövetelményeknek való megfelelését.
 
-(3) Ha a Felügyelet az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához az engedélyt árjegyzői funkció betöltéséhez adja meg, a hitelintézet által visszaváltott, visszavásárolt kölcsöntőke nem haladhatja meg az adott kibocsátási sorozat tíz százalékát és a teljes kölcsöntőke kibocsátásának három százalékát.
+(3) Ha az MNB az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához az engedélyt árjegyzői funkció betöltéséhez adja meg, a hitelintézet által visszaváltott, visszavásárolt kölcsöntőke nem haladhatja meg az adott kibocsátási sorozat tíz százalékát és a teljes kölcsöntőke kibocsátásának három százalékát.
 
-(4) A hitelintézet tizenöt nappal korábban köteles bejelenteni a Felügyelet részére, amennyiben szavatoló tőkéjének egy százalékát meghaladó mértékben kíván saját részvényt visszavásárolni, illetve ha az újabb visszavásárlással a visszavásárolt saját részvények szavatoló tőkéhez viszonyított aránya meghaladja az öt százalékot.
+(4) A hitelintézet tizenöt nappal korábban köteles bejelenteni az MNB részére, amennyiben szavatoló tőkéjének egy százalékát meghaladó mértékben kíván saját részvényt visszavásárolni, illetve ha az újabb visszavásárlással a visszavásárolt saját részvények szavatoló tőkéhez viszonyított aránya meghaladja az öt százalékot.
 
-(5) A Felügyelet megtiltja a hitelintézet számára a saját részvény visszavásárlását, amennyiben az veszélyezteti a 76. § (1)–(2) bekezdésében foglalt tőkekövetelmények betartását, ide nem értve a szabályozott piacra bevezetett részvénynek a Tpt. VI/A. Fejezet szerinti kivezetését.
+(5) Az MNB megtiltja a hitelintézet számára a saját részvény visszavásárlását, amennyiben az veszélyezteti a 76. § (1)–(2) bekezdésében foglalt tőkekövetelmények betartását, ide nem értve a szabályozott piacra bevezetett részvénynek a Tpt. VI/A. Fejezet szerinti kivezetését.
 
 ### Általános tartalékképzés
 
@@ -2019,9 +1997,9 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) A hitelintézet a tárgyévi adózott eredmény tíz százalékát köteles általános tartalékba helyezni.
 
-(3) A hitelintézetet kérelmére a Felügyelet az általános tartalékképzés alól mentesítheti, ha a szavatoló tőkéje eléri a 76. § (1)–(2) bekezdésében meghatározott tőkekövetelményének a másfélszeresét, és nincs negatív eredménytartaléka.
+(3) A hitelintézetet kérelmére az MNB az általános tartalékképzés alól mentesítheti, ha a szavatoló tőkéje eléri a 76. § (1)–(2) bekezdésében meghatározott tőkekövetelményének a másfélszeresét, és nincs negatív eredménytartaléka.
 
-(4) A hitelintézet osztalékot, illetőleg részesedést csak akkor fizethet, ha az adott naptári évben a (2) bekezdés szerint általános tartalékot képzett, vagy ha a Felügyelet az általános tartalékképzés alól mentesítette.
+(4) A hitelintézet osztalékot, illetőleg részesedést csak akkor fizethet, ha az adott naptári évben a (2) bekezdés szerint általános tartalékot képzett, vagy ha az MNB az általános tartalékképzés alól mentesítette.
 
 (5) A hitelintézet az általános tartalékot csak a tevékenységéből eredő veszteségek rendezésére használhatja fel.
 
@@ -2034,13 +2012,13 @@ a belső szabályzatban meghatározott mértékig.
 - a) legalább 1. a 76/A. § vagy a 76/B–76/D. § szerint számított – a hitelezésikockázat-mérséklés mértékével csökkentett – kockázattal súlyozott kitettség érték (hitelezési kockázat) nyolc százalékának, a felhígulási kockázat tőkekövetelményének, valamint a kereskedési könyvben és a nem kereskedési könyvben nyilvántartott tételek külön jogszabályban meghatározott partnerkockázati tőkekövetelményének, 2. a külön jogszabályban meghatározottak szerint a kereskedési könyvben nyilvántartott pozíció- és nagykockázatvállalások tőkekövetelményének, 3. a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat miatt felmerülő piaci kockázat tőkekövetelményének, valamint 4. a 76/J. § szerinti működési kockázat tőkekövetelményének összege, és
 - b) nem lehet kevesebb a 9. §-ban – az engedélyezés feltételeként – előírt legkisebb jegyzett tőke összegénél.
 
-(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a 145/A. § szerinti felügyeleti felülvizsgálat keretében a hitelintézet számára – legfeljebb a 153. §-ban rögzített mértékű – többlet-tőkekövetelményt írhat elő.
+(2) Az (1) bekezdés a) pontjától eltérően az MNB a 145/A. § szerinti felügyeleti felülvizsgálat keretében a hitelintézet számára – legfeljebb a 153. §-ban rögzített mértékű – többlet-tőkekövetelményt írhat elő.
 
 (3) A hitelintézetnek az e törvényben foglalt eltéréssel a Bszt. kereskedési könyvre és nagykockázat vállalására vonatkozó szabályait kell alkalmaznia azzal, hogy ahol a Bszt. befektetési vállalkozást említ, azon hitelintézetet kell érteni.
 
 (4)
 
-(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
+(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és az MNB által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni az MNB-nek.
 
 (6)–(9)
 
@@ -2080,7 +2058,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (6) Ha jogszabály másként nem rendelkezik, a kockázattal súlyozott kitettség érték számításakor a kitettséghez száz százalékos kockázati súlyt kell hozzárendelni.
 
-(7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
+(7) A nulla százalékos kockázati súly hozzárendelését a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez az MNB jóváhagyja, ha az említett anyavállalat, leányvállalat vagy vállalkozás
 
 - a) hitelintézet, befektetési vállalkozás, vegyes pénzügyi holding társaság, pénzügyi vállalkozás, befektetési alapkezelő, vagyonkezelő társaság vagy járulékos vállalkozás,
 - b) a hitelintézettel azonos összevont alapú felügyeleti számításokban teljeskörűen kerül figyelembevételre,
@@ -2088,19 +2066,19 @@ a belső szabályzatban meghatározott mértékig.
 - d) magyarországi székhellyel rendelkezik,
 - e) és a hitelintézet között a szavatoló tőke átadásának és a kötelezettség visszafizetésének nincs akadálya.
 
-(8) A nulla százalékos kockázati súly hozzárendelését a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez a Felügyelet jóváhagyja, ha
+(8) A nulla százalékos kockázati súly hozzárendelését a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni – a szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező – kitettséghez az MNB jóváhagyja, ha
 
 - a) a tag a (7) bekezdés a) és d) pontjában foglaltaknak megfelel, valamint a tag és a hitelintézet között a szavatoló tőke átadásának és a kötelezettség visszafizetésének nincs akadálya,
 - b) a hitelintézet és a tag között olyan kötelezettségvállalás áll fenn, amely biztosítja a hitelintézet és a tag azonnali és mindenkori fizetőképességének fenntartását,
 - c) a kölcsönös kötelezettségvállalás lehetővé teszi, hogy az intézményvédelmi rendszer biztosítsa a haladéktalanul rendelkezésre álló forrásokból a szükséges támogatást,
-- d) az intézményvédelmi rendszer egységes, a kockázatok megfigyelését és minősítését lehetővé tevő – a Felügyelet által jóváhagyott – rendszerekkel rendelkezik,
+- d) az intézményvédelmi rendszer egységes, a kockázatok megfigyelését és minősítését lehetővé tevő – az MNB által jóváhagyott – rendszerekkel rendelkezik,
 - e) az intézményvédelmi rendszer saját kockázati értékelést végez, amelyet közöl az egyes tagokkal,
 - f) az intézményvédelmi rendszer évente legalább egyszer összeállítja, és honlapján nyilvánosságra hozza 1. a konszolidált pénzügyi mérlegét, eredménykimutatását, valamint kockázati és helyzet-jelentését az intézményvédelmi rendszer egészére vonatkozóan, vagy 2. az összesített pénzügyi mérlegét, eredménykimutatását, valamint kockázati és helyzet-jelentését az intézményvédelmi rendszer egészére vonatkozóan,
 - g) az intézményvédelmi rendszerbeli tagságát megszüntetni kívánó tag a kilépését huszonnégy hónappal korábban köteles jelezni,
 - h) az intézményvédelmi rendszer tagjai között a szavatoló tőke számítása során a tőkeelemek többszörös számbavétele, valamint a nem megfelelő szavatolótőke-számítás kizárt, és
 - i) az intézményvédelmi rendszernek legalább tíz hitelintézet tagja van és a tagok legalább kilencven százaléka szövetkezeti hitelintézet.
 
-(9) A (8) bekezdés d) pontjában meghatározott rendszert a Felügyelet akkor hagyja jóvá, ha az a tag és az intézményvédelmi rendszer szintjén biztosítja a kockázati helyzet áttekintését és a nemteljesítésből eredő kockázatok nyomon követését, valamint a szükség szerinti beavatkozást. A (8) bekezdés d) pontjában meghatározott rendszert a Felügyelet legalább kétévente felülvizsgálja.
+(9) A (8) bekezdés d) pontjában meghatározott rendszert az MNB akkor hagyja jóvá, ha az a tag és az intézményvédelmi rendszer szintjén biztosítja a kockázati helyzet áttekintését és a nemteljesítésből eredő kockázatok nyomon követését, valamint a szükség szerinti beavatkozást. A (8) bekezdés d) pontjában meghatározott rendszert az MNB legalább kétévente felülvizsgálja.
 
 (10) A (7) és (8) bekezdés alkalmazásában szavatoló tőke átadásnak minősül
 
@@ -2112,9 +2090,9 @@ a belső szabályzatban meghatározott mértékig.
 
 ### Belső minősítésen alapuló módszer
 
-76/B. § (1) A hitelintézet számára a kockázattal súlyozott kitettség értéknek – a 76/A. §-tól eltérő – belső minősítésen alapuló módszerrel történő számítását a Felügyelet akkor engedélyezi, ha a hitelintézet megfelel az e törvényben és a külön jogszabályban meghatározott feltételeknek.
+76/B. § (1) A hitelintézet számára a kockázattal súlyozott kitettség értéknek – a 76/A. §-tól eltérő – belső minősítésen alapuló módszerrel történő számítását az MNB akkor engedélyezi, ha a hitelintézet megfelel az e törvényben és a külön jogszabályban meghatározott feltételeknek.
 
-(2) A hitelintézetnek a belső minősítésen alapuló módszer alkalmazását a Felügyelet kizárólag akkor engedélyezi, ha
+(2) A hitelintézetnek a belső minősítésen alapuló módszer alkalmazását az MNB kizárólag akkor engedélyezi, ha
 
 - a) a hitelintézetnek a kockázatkezelési és minősítési rendszerei megbízhatóak és átfogóak, azaz biztosítják az ügyfél és az ügylet jellemzőinek meghatározását és minősítését, a kockázatok következetes becslését,
 - b) a tőkekövetelmény számításához használt minősítés, a nemteljesítésre és a veszteségre vonatkozó becslés, valamint a minősítéshez és becsléshez kapcsolódó belső eljárások meghatározó szerepet játszanak a kockázatkezelési, döntéshozatali és hitelezési folyamatban, valamint a hitelintézet belső tőkeallokációs folyamatában és a vállalatirányítási rendszerében,
@@ -2128,51 +2106,51 @@ a belső szabályzatban meghatározott mértékig.
 
 (5) A saját nemteljesítéskori veszteségráta, illetőleg hitelegyenértékesítési tényező becslés alkalmazásának engedélyezéséhez a hitelintézetnek a kérelem benyújtását megelőző legalább három éven át lényeges jellemzőit – fő feltételeit, célját megvalósításának fő elemeit, a kategóriákba sorolásokat és elhatárolásokat – tekintve meg kell felelnie a saját nemteljesítéskori veszteségráta, illetőleg hitelegyenértékesítési tényező becslésére vonatkozó minimum követelményeknek.
 
-(6) Ha a belső minősítésen alapuló módszert alkalmazó hitelintézet nem teljesíti a belső minősítésen alapuló módszer feltételeit, illetőleg alkalmazásának követelményeit, akkor a jogszerű működés helyreállításáról kilencven napon belül köteles a Felügyeletnek intézkedési tervet benyújtani.
+(6) Ha a belső minősítésen alapuló módszert alkalmazó hitelintézet nem teljesíti a belső minősítésen alapuló módszer feltételeit, illetőleg alkalmazásának követelményeit, akkor a jogszerű működés helyreállításáról kilencven napon belül köteles az MNB-nek intézkedési tervet benyújtani.
 
 (7) Belső minősítésen alapuló módszer alkalmazása esetén a hitelintézetnek, az anyavállalatának és annak leányvállalatának minden kitettségre a belső minősítésen alapuló módszert kell alkalmaznia.
 
-(8) A (7) bekezdéstől eltérően, a belső minősítésen alapuló módszer alkalmazása fokozatosan is bevezethető – a (9)–(10) bekezdésben meghatározott feltételek teljesülése esetén – a Felügyelet engedélyével
+(8) A (7) bekezdéstől eltérően, a belső minősítésen alapuló módszer alkalmazása fokozatosan is bevezethető – a (9)–(10) bekezdésben meghatározott feltételek teljesülése esetén – az MNB engedélyével
 
 - a) a hitelintézetnek a 76/C. § (1) bekezdés szerinti egyes kitettségi osztályaira és a 76/C. § (1) bekezdés d) pontja szerinti kitettségi osztály külön jogszabályban meghatározott alosztályaira, ugyanazon üzleti egységen belül,
 - b) üzleti egységekre vonatkozóan, vagy
 - c) a saját nemteljesítéskori veszteségráta, illetőleg hitelegyenértékesítési tényező becslés alkalmazásakor a 76/C. § (1) bekezdés a)–c) pontja szerinti kitettség kockázati súlyának meghatározására azzal, hogy a nemteljesítéskori veszteségráta és a hitelegyenértékesítési tényező tekintetében kitettségi osztályonként egyszerre kell áttérni a módszer alkalmazására.
 
-(9) A fokozatos bevezetést a Felügyelet akkor engedélyezi, ha
+(9) A fokozatos bevezetést az MNB akkor engedélyezi, ha
 
 - a) a fokozatosság tekintetében a hitelintézet egységes elveket alkalmaz,
 - b) a fokozatos bevezetés célja nem kizárólag a tőkekövetelmény csökkentése, és
 - c) az engedélyezési kérelem benyújtásakor a hitelintézet a kockázattal súlyozott kitettség értékének legalább az ötven százalékát a belső minősítésen alapuló módszerrel állapítja meg – a 76/D. §-ban meghatározott eltérésekkel –, valamint
 - d) a hitelintézet az engedélyezési kérelemben nyilatkozik arról, hogy az engedély megadásától számított legkésőbb 1. kettő és fél éven belül a c) pontban meghatározott arányt hatvanhét százalékra növeli, a 76/D. §-ban meghatározott eltérésekkel, és 2. öt éven belül a c) pontban meghatározott arányt száz százalékra növeli, a 76/D. §-ban meghatározott eltérésekkel.
 
-(10) A fokozatos bevezetés engedélyezése során a Felügyelet részére az engedélyezési kérelem részeként a hitelintézetnek be kell nyújtania a belső minősítésen alapuló módszer
+(10) A fokozatos bevezetés engedélyezése során az MNB részére az engedélyezési kérelem részeként a hitelintézetnek be kell nyújtania a belső minősítésen alapuló módszer
 
 - a) bevezetésére vonatkozó részletes és megalapozott ütemtervet, valamint
 - b) bevezetésének aktuális helyzetére vonatkozó átfogó és részletes értékelést.
 
 (11) Ha a hitelintézet bármely kitettségi osztályra a belső minősítésen alapuló módszert alkalmazza, akkor a részvényjellegű és részesedések (a továbbiakban együtt: részesedések) kitettségi osztály esetében köteles a belső minősítésen alapuló módszert használni.
 
-(12) A kockázattal súlyozott kitettség érték számításához a belső minősítésen alapuló módszert alkalmazó hitelintézet a Felügyelet engedélyével térhet át a sztenderd módszer alkalmazására
+(12) A kockázattal súlyozott kitettség érték számításához a belső minősítésen alapuló módszert alkalmazó hitelintézet az MNB engedélyével térhet át a sztenderd módszer alkalmazására
 
 - a) egyesülés vagy szétválás esetén, vagy
 - b) ha a hitelintézet által kialakított belső minősítési módszer eredményei félrevezető képet adnak a hitelintézet portfóliójának kockázatosságáról, vagy
 - c) olyan elháríthatatlan, a hitelintézet érdekkörén kívüli, neki fel nem róható esemény esetén, amely megakadályozza a belső minősítésen alapuló módszer alkalmazását.
 
-(13) A saját nemteljesítéskori veszteségráta, illetőleg hitelegyenértékesítési tényező becslést alkalmazó hitelintézet a Felügyelet engedélyével, a (12) bekezdésben rögzített esetekben térhet át a 76/C. § (6) bekezdésének c) pontja szerinti nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező használatára.
+(13) A saját nemteljesítéskori veszteségráta, illetőleg hitelegyenértékesítési tényező becslést alkalmazó hitelintézet az MNB engedélyével, a (12) bekezdésben rögzített esetekben térhet át a 76/C. § (6) bekezdésének c) pontja szerinti nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező használatára.
 
 (14) Ha
 
 - a) a belső minősítésen alapuló módszert alkalmazó hitelintézet sztenderd módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban, vagy
 - b) a 76/C. § (6) bekezdésének b) és d) pontja szerinti módszert alkalmazó hitelintézet a 76/C. § (6) bekezdésének b) és c) pontja szerinti módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban
 
-ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfelelés elérésére vonatkozóan az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül a Felügyeletnek ütemtervet nyújt be.
+ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfelelés elérésére vonatkozóan az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül az MNB-nek ütemtervet nyújt be.
 
 (15) Ha
 
 - a) a sztenderd módszert alkalmazó hitelintézet a belső minősítésen alapuló módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban, vagy
 - b) a 76/C. § (6) bekezdésének b) és c) pontja szerinti módszert alkalmazó hitelintézet a 76/C. § (6) bekezdésének b) és d) pontja szerinti módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban
 
-ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfelelés elérésére vonatkozóan az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül a Felügyeletnek ütemtervet nyújt be.
+ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfelelés elérésére vonatkozóan az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül az MNB-nek ütemtervet nyújt be.
 
 (16) A (8)–(10) és (12)–(15) bekezdésben rögzített követelményeknek az EU-szintű hitelintézeti anyavállalat és EU-szintű pénzügyi holding társaság anyavállalat a 90. § (2) bekezdésben meghatározott vállalkozások vonatkozásában összevont alapon köteles megfelelni.
 
@@ -2256,23 +2234,23 @@ ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfe
 
 ### Külső hitelminősítő szervezet és exporthitel-ügynökség
 
-76/G. § (1) A sztenderd módszer alkalmazása esetén a hitelintézet a kockázati súlyok meghatározásakor a 76/H. § szerinti elismert külső hitelminősítő szervezet hitelminősítését vagy exporthitel-ügynökség – külön jogszabályban rögzítetteknek megfelelő és a Felügyelet által elismert – hitelminősítését is jogosult alkalmazni, ha a hitelintézet a hitelminősítések alkalmazásakor egységes elvek szerint jár el és megfelel a külön jogszabályban meghatározott feltételeknek.
+76/G. § (1) A sztenderd módszer alkalmazása esetén a hitelintézet a kockázati súlyok meghatározásakor a 76/H. § szerinti elismert külső hitelminősítő szervezet hitelminősítését vagy exporthitel-ügynökség – külön jogszabályban rögzítetteknek megfelelő és az MNB által elismert – hitelminősítését is jogosult alkalmazni, ha a hitelintézet a hitelminősítések alkalmazásakor egységes elvek szerint jár el és megfelel a külön jogszabályban meghatározott feltételeknek.
 
 (2) A hitelintézet olyan, elismert külső hitelminősítő szervezet hitelminősítését is használhatja, amely nem a minősítettnek a megrendelésére készült.
 
-76/H. § (1) A Felügyelet kérelemre vagy hivatalból a külső hitelminősítő szervezetet határozatában elismert hitelminősítő szervezetnek minősíti, ha annak minősítési módszertana – a külön jogszabályban foglaltaknak megfelelően – eleget tesz a tárgyilagosság, a függetlenség, a folyamatos felülvizsgálat és az átláthatóság követelményének, valamint a szervezet hitelminősítése megfelel a hitelesség és az átláthatóság követelményének.
+76/H. § (1) Az MNB kérelemre vagy hivatalból a külső hitelminősítő szervezetet határozatában elismert hitelminősítő szervezetnek minősíti, ha annak minősítési módszertana – a külön jogszabályban foglaltaknak megfelelően – eleget tesz a tárgyilagosság, a függetlenség, a folyamatos felülvizsgálat és az átláthatóság követelményének, valamint a szervezet hitelminősítése megfelel a hitelesség és az átláthatóság követelményének.
 
 (1a) Ha egy külső hitelminősítő szervezetet a 1060/2009/EK európai parlamenti és tanácsi rendeletnek megfelelően nyilvántartásba vettek vagy hitelesítettek, úgy kell tekintetni, hogy minősítési módszertana eleget tesz a tárgyilagosság, a függetlenség, a folyamatos felülvizsgálat és az átláthatóság követelményének.
 
-(2) A Felügyelet hivatalból az elismert külső hitelminősítő szervezet elismertnek való minősítésének törléséről határozatot hoz, ha a rendelkezésére álló információk szerint a külső hitelminősítő szervezet már nem felel meg a külön jogszabályban meghatározott feltételeknek.
+(2) Az MNB hivatalból az elismert külső hitelminősítő szervezet elismertnek való minősítésének törléséről határozatot hoz, ha a rendelkezésére álló információk szerint a külső hitelminősítő szervezet már nem felel meg a külön jogszabályban meghatározott feltételeknek.
 
-(3) Az Európai Unió másik tagállamában elismert külső hitelminősítő szervezet kérelemre vagy hivatalból Magyarországon is elismertnek minősül, amelyet a Felügyelet a honlapján közzétesz. A Felügyelet a honlapján közzéteszi, ha a rendelkezésére álló információk szerint az Európai Unió másik tagállamában egy külső hitelminősítő szervezet már nem minősül elismertnek.
+(3) Az Európai Unió másik tagállamában elismert külső hitelminősítő szervezet kérelemre vagy hivatalból Magyarországon is elismertnek minősül, amelyet a Felügyelet a honlapján közzétesz. Az MNB a honlapján közzéteszi, ha a rendelkezésére álló információk szerint az Európai Unió másik tagállamában egy külső hitelminősítő szervezet már nem minősül elismertnek.
 
-76/I. § (1) A Felügyelet – a külön jogszabály szerinti – hitelminősítési besorolásokhoz kérelemre vagy hivatalból határozatban hozzárendeli az elismert külső hitelminősítő szervezet hitelminősítési kategóriáit.
+76/I. § (1) Az MNB – a külön jogszabály szerinti – hitelminősítési besorolásokhoz kérelemre vagy hivatalból határozatban hozzárendeli az elismert külső hitelminősítő szervezet hitelminősítési kategóriáit.
 
-(2) Az elismert külső hitelminősítő szervezet haladéktalanul tájékoztatja a Felügyeletet, ha a hitelminősítési kategóriákba sorolási módszertanában jelentős változás következik be. A tájékoztatás alapján – ha szükséges – a Felügyelet határozatot hoz az (1) bekezdés szerinti hozzárendelés módosításáról.
+(2) Az elismert külső hitelminősítő szervezet haladéktalanul tájékoztatja az MNB-t, ha a hitelminősítési kategóriákba sorolási módszertanában jelentős változás következik be. A tájékoztatás alapján – ha szükséges – az MNB határozatot hoz az (1) bekezdés szerinti hozzárendelés módosításáról.
 
-(3) Az Európai Unió másik tagállamában az (1) bekezdés szerinti hitelminősítési besorolásokhoz hozzárendelt hitelminősítési kategóriákat Magyarországon is alkalmazni lehet, amelyeket a Felügyelet a honlapján közzétesz. A Felügyelet a honlapján közzéteszi, ha a rendelkezésére álló információk szerint az Európai Unió másik tagállamában a hitelminősítési besoroláshoz rendelt hitelminősítési kategóriában változás történt.
+(3) Az Európai Unió másik tagállamában az (1) bekezdés szerinti hitelminősítési besorolásokhoz hozzárendelt hitelminősítési kategóriákat Magyarországon is alkalmazni lehet, amelyeket az MNB a honlapján közzétesz. Az MNB a honlapján közzéteszi, ha a rendelkezésére álló információk szerint az Európai Unió másik tagállamában a hitelminősítési besoroláshoz rendelt hitelminősítési kategóriában változás történt.
 
 ### Működési kockázat
 
@@ -2287,41 +2265,41 @@ számítja ki.
 
 (2) Az alapmutató módszere alapján a működési kockázat tőkekövetelménye a külön jogszabályban meghatározott irányadó mutató tizenöt százaléka.
 
-(3) A sztenderdizált vagy a fejlett mérési módszer alkalmazását a Felügyelet akkor engedélyezi, ha a hitelintézet igazolja a külön jogszabályban meghatározott feltételek teljesítését.
+(3) A sztenderdizált vagy a fejlett mérési módszer alkalmazását az MNB akkor engedélyezi, ha a hitelintézet igazolja a külön jogszabályban meghatározott feltételek teljesítését.
 
-(4) Az alapmutató, a sztenderdizált és a fejlett mérési módszer kombinált használatát a Felügyelet akkor engedélyezi, ha a hitelintézet megfelel a külön jogszabályban meghatározott feltételeknek.
+(4) Az alapmutató, a sztenderdizált és a fejlett mérési módszer kombinált használatát az MNB akkor engedélyezi, ha a hitelintézet megfelel a külön jogszabályban meghatározott feltételeknek.
 
 (5) A sztenderdizált módszer alkalmazása során a hitelintézet a tevékenységeit a külön jogszabályban meghatározott üzletágakra különíti el és az ott meghatározott számítási módszertant alkalmazva kiszámítja az egyes üzletágakra vonatkozó tőkekövetelményeket, amelyek összege a hitelintézet működési kockázatának tőkekövetelménye.
 
-(6) A sztenderdizált módszert alkalmazó hitelintézet a Felügyelet engedélyével a külön jogszabályban rögzített feltételek teljesítése esetén az ott rögzített alternatív mutatót is alkalmazhatja a működési kockázata tőkekövetelményének meghatározása érdekében.
+(6) A sztenderdizált módszert alkalmazó hitelintézet az MNB engedélyével a külön jogszabályban rögzített feltételek teljesítése esetén az ott rögzített alternatív mutatót is alkalmazhatja a működési kockázata tőkekövetelményének meghatározása érdekében.
 
-(7) A sztenderdizált módszert alkalmazó hitelintézet a Felügyelet engedélyével térhet át az alapmutató módszer alkalmazására
+(7) A sztenderdizált módszert alkalmazó hitelintézet az MNB engedélyével térhet át az alapmutató módszer alkalmazására
 
 - a) egyesülés vagy szétválás esetén, vagy
 - b) olyan elháríthatatlan, a hitelintézet érdekkörén kívüli, neki fel nem róható esemény esetén, amely megakadályozza a sztenderdizált módszer alkalmazását.
 
-(8) Az (1) bekezdés c) pontja szerinti, külön jogszabályban meghatározott fejlett mérési módszert alkalmazó hitelintézet a Felügyelet engedélyével térhet át az alapmutató módszer vagy a sztenderdizált módszer alkalmazására
+(8) Az (1) bekezdés c) pontja szerinti, külön jogszabályban meghatározott fejlett mérési módszert alkalmazó hitelintézet az MNB engedélyével térhet át az alapmutató módszer vagy a sztenderdizált módszer alkalmazására
 
 - a) egyesülés vagy szétválás esetén, vagy
 - b) ha annak célja nem kizárólag a tőkekövetelmény csökkentése, vagy
 - c) ha a fejlett mérési módszer eredményei félrevezető képet adnak a hitelintézet működési kockázatáról, vagy
 - d) olyan elháríthatatlan, a hitelintézet érdekkörén kívüli, neki fel nem róható esemény esetén, amely megakadályozza a fejlett mérési módszer alkalmazását.
 
-(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor a Felügyelet a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
+(9) Ha az EU-szintű hitelintézeti anyavállalat és leányvállalatai, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatai együttesen kérelmezik – a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott – egységes rendszerre alapított fejlett mérési módszer alkalmazását, akkor az MNB a működési kockázat kezeléséről és tőkekövetelményéről szóló kormányrendeletben meghatározott feltételek egyedi alapon történő teljesítésétől eltekinthet, ha ezáltal nem sérül az átláthatóság és a kockázatok kezelése, valamint megfelelő a kockázatok megoszlása (diverzifikálása).
 
 (10) Ha
 
 - a) a fejlett mérési módszert alkalmazó hitelintézet sztenderdizált módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban, vagy
 - b) a fejlett mérési módszert alkalmazó hitelintézet alapmutató módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban
 
-ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásakor az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül a Felügyeletnek ütemtervet nyújt be.
+ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásakor az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül az MNB-nek ütemtervet nyújt be.
 
 (11) Ha
 
 - a) a sztenderdizált módszert alkalmazó hitelintézet a fejlett mérési módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban, vagy
 - b) az alapmutató módszert alkalmazó hitelintézet a fejlett mérési módszert alkalmazó hitelintézetben vagy befektetési vállalkozásban
 
-ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásakor az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül a Felügyeletnek ütemtervet nyújt be.
+ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásakor az ellenőrző befolyást szerző hitelintézet az ellenőrző befolyás megszerzését követő száznyolcvan napon belül az MNB-nek ütemtervet nyújt be.
 
 ### A hitelintézet belső tőkemegfelelés értékelési folyamata
 
@@ -2386,7 +2364,7 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 - b) kollektív befektetési értékpapírban fennálló kitettségbe vagy
 - c) egyéb tételbe tartozó kitettségi osztály esetében az ügyletet, az annak alapjául szolgáló eszközöket, vagy mindkettőt az ügylet gazdasági tartalma és az ügylet szerkezetéből eredő kockázatok felmérésével értékeli.
 
-(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
+(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, az MNB – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
 
 80. § A 79. § (1)–(3) bekezdésében foglalt rendelkezéseket nem kell alkalmazni
 
@@ -2443,7 +2421,7 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 
 (7) A (6) bekezdés a) pontja szerinti eljárás esetén a hitelkockázati fedezet elismerhetőségére és kockázatmérséklő hatásának a tőkekövetelmény-számítás során való számszerűsítésére vonatkozó külön jogszabály rendelkezéseit is megfelelően alkalmazni kell.
 
-(8) A hitelintézet a pénzügyi biztosítékok átfogó módszerét, valamint a (6) bekezdés b) pontja szerinti eljárást akkor alkalmazhatja együttesen, ha a hitelezési kockázata tőkekövetelményének meghatározásához a pénzügyi biztosítékok átfogó és egyszerű módszerének együttes alkalmazását a Felügyelet engedélyezte.
+(8) A hitelintézet a pénzügyi biztosítékok átfogó módszerét, valamint a (6) bekezdés b) pontja szerinti eljárást akkor alkalmazhatja együttesen, ha a hitelezési kockázata tőkekövetelményének meghatározásához a pénzügyi biztosítékok átfogó és egyszerű módszerének együttes alkalmazását az MNB engedélyezte.
 
 ### Tulajdonszerzéshez kapcsolódó kockázatvállalás korlátozása
 
@@ -2499,15 +2477,15 @@ alapján megszerzett ingatlanokat hat éven belül el kell idegenítenie.
 
 ha azt az egyéb befektetésektől elkülönítve tartják nyilván, és elkülönítve kezelik.
 
-(4) A hitelintézet a Felügyelet engedélyével európai gazdasági egyesüléssel tagsági jogviszonyt létesíthet.
+(4) A hitelintézet az MNB engedélyével európai gazdasági egyesüléssel tagsági jogviszonyt létesíthet.
 
-(5) A Felügyelet a (4) bekezdés szerinti engedélyt a következő feltételek együttes teljesülése esetén adja meg:
+(5) Az MNB a (4) bekezdés szerinti engedélyt a következő feltételek együttes teljesülése esetén adja meg:
 
 - a) az európai gazdasági egyesülésnek kizárólag olyan vállalkozás a tagja, akire az összevont alapú felügyelet a hitelintézettel együttesen kiterjed,
 - b) az európai gazdasági egyesülés létesítő szerződése alapján végezhető tevékenységek egyike sem veszélyezteti a hitelintézet prudens működésére vonatkozó követelmények teljesülését,
 - c) az európai gazdasági egyesülés létesítő szerződése rendelkezik arról, hogy nincs szükség a többi tag hozzájárulására a hitelintézet tagsági jogviszonyának megszüntetéséhez, ha annak fenntartása jogszabály rendelkezésébe ütközne, vagy arra a tagot a Felügyelet határozatában kötelezné.
 
-(6) A Felügyelet a hitelintézetet – legfeljebb nyolcnapos határidő kitűzésével – kötelezi az európai gazdasági egyesüléssel fennálló tagsági jogviszonya megszüntetésére, ha az engedély megadását követően olyan változás következett be, amelynek következtében az (5) bekezdésben meghatározott engedély megadásának már nem lenne helye, vagy amelynek következtében a tagsági jogviszony fenntartása veszélyezteti a hitelintézet prudens működésére vonatkozó követelményeket.
+(6) Az MNB a hitelintézetet – legfeljebb nyolcnapos határidő kitűzésével – kötelezi az európai gazdasági egyesüléssel fennálló tagsági jogviszonya megszüntetésére, ha az engedély megadását követően olyan változás következett be, amelynek következtében az (5) bekezdésben meghatározott engedély megadásának már nem lenne helye, vagy amelynek következtében a tagsági jogviszony fenntartása veszélyezteti a hitelintézet prudens működésére vonatkozó követelményeket.
 
 ### Eszközök minősítése
 
@@ -2525,13 +2503,13 @@ ha azt az egyéb befektetésektől elkülönítve tartják nyilván, és elkül�
 
 ### Hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás
 
-87/A. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre [76–76/K. §], kockázatok és befektetések korlátozására [77–85. §], az eszközök minősítésére [86–87. §], irányítási rendszerre és kockázatkezelésre [13/D. §], irányításra és ellenőrzésre [44–48. §, 62–69. §], valamint a nyilvánosságra hozatal követelményére [137/A. §] vonatkozó rendelkezéseket, és saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály tekintetében – a Felügyelet határozata szerint – hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.
+87/A. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre [76–76/K. §], kockázatok és befektetések korlátozására [77–85. §], az eszközök minősítésére [86–87. §], irányítási rendszerre és kockázatkezelésre [13/D. §], irányításra és ellenőrzésre [44–48. §, 62–69. §], valamint a nyilvánosságra hozatal követelményére [137/A. §] vonatkozó rendelkezéseket, és saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály tekintetében – az MNB határozata szerint – hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.
 
-87/B. § (1) Ha a pénzügyi vállalkozás igazolja a Felügyelet felé, hogy a 87/A. §-ban foglalt feltételeknek megfelel, akkor a Felügyelet – a kérelem beérkezését követő naptól számított – két hónapon belül határozatot ad ki erről. A Felügyelet a honlapján közzéteszi a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozások listáját.
+87/B. § (1) Ha a pénzügyi vállalkozás igazolja az MNB felé, hogy a 87/A. §-ban foglalt feltételeknek megfelel, akkor az MNB – a kérelem beérkezését követő naptól számított – két hónapon belül határozatot ad ki erről. Az MNB a honlapján közzéteszi a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozások listáját.
 
 (2) A hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás haladéktalanul tájékoztatja a Felügyeletet, ha a 87/A. § szerinti feltételek már nem állnak fenn.
 
-87/C. § A Felügyelet a 87/B. § (1) bekezdés szerinti határozatát visszavonhatja, ha a pénzügyi vállalkozás a Felügyelet intézkedésében, kivételes intézkedésében foglalt határidőn belül nem tesz eleget a 87/A. §-ban rögzített követelményeknek.
+87/C. § Az MNB a 87/B. § (1) bekezdés szerinti határozatát visszavonhatja, ha a pénzügyi vállalkozás az MNB intézkedésében, kivételes intézkedésében foglalt határidőn belül nem tesz eleget a 87/A. §-ban rögzített követelményeknek.
 
 ### XII/A. Fejezet — Pénzforgalmi intézmény prudens működésének szabályai
 
@@ -2544,7 +2522,7 @@ ha azt az egyéb befektetésektől elkülönítve tartják nyilván, és elkül�
 
 összege közül a magasabb érték alá.
 
-(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő.
+(2) Az (1) bekezdés a) pontjától eltérően az MNB a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő.
 
 (3) A pénzforgalmi intézmény szavatoló tőkéjének meghatározására, kiszámítására az 5. számú mellékletet kell megfelelően alkalmazni.
 
@@ -2598,17 +2576,17 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 - d) az irányadó mutató hétmilliárd-ötszázmillió forintnak megfelelő összegtől tizenötmilliárd forintnak megfelelő összegig terjedő hányadának (részének) három százaléka, és
 - e) az irányadó mutató tizenötmilliárd forintnak megfelelő összeget meghaladó hányadának (részének) másfél százaléka.
 
-87/J. § (1) A pénzforgalmi intézmény a költség módszert, valamint az irányadó mutató módszert a Felügyelet engedélyével alkalmazhatja.
+87/J. § (1) A pénzforgalmi intézmény a költség módszert, valamint az irányadó mutató módszert az MNB engedélyével alkalmazhatja.
 
-(2) A Felügyelet a költség módszer, valamint az irányadó mutató módszer alkalmazását akkor engedélyezi, ha bevezetésének célja nem kizárólag a tőkekövetelmény csökkentése.
+(2) Az MNB a költség módszer, valamint az irányadó mutató módszer alkalmazását akkor engedélyezi, ha bevezetésének célja nem kizárólag a tőkekövetelmény csökkentése.
 
 ### Felügyeleti felülvizsgálat
 
-87/K. § (1) A Felügyelet hatósági ellenőrzése keretében felülvizsgálja a pénzforgalmi intézmény pénzforgalmi szolgáltatásokkal kapcsolatos szabályzatait, eljárásait és módszereit. A felülvizsgálatnak ki kell terjednie a pénzforgalmi intézmény kockázatkezelési folyamatának és belső ellenőrzési rendszere működésének értékelésére.
+87/K. § (1) Az MNB hatósági ellenőrzése keretében felülvizsgálja a pénzforgalmi intézmény pénzforgalmi szolgáltatásokkal kapcsolatos szabályzatait, eljárásait és módszereit. A felülvizsgálatnak ki kell terjednie a pénzforgalmi intézmény kockázatkezelési folyamatának és belső ellenőrzési rendszere működésének értékelésére.
 
-(2) Az (1) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a pénzforgalmi intézmény által alkalmazott szabályzatok, eljárások és módszerek, valamint a pénzforgalmi intézmény szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+(2) Az (1) bekezdés szerinti felülvizsgálat és értékelés alapján az MNB-nek meg kell határoznia, hogy a pénzforgalmi intézmény által alkalmazott szabályzatok, eljárások és módszerek, valamint a pénzforgalmi intézmény szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 
-(3) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a pénzforgalmi intézmény mérete, az általa teljesített fizetési műveletének összértéke, tevékenységének jellege alapján határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
+(3) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét az MNB a pénzforgalmi intézmény mérete, az általa teljesített fizetési műveletének összértéke, tevékenységének jellege alapján határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
 
 ### Ügyfélpénzek védelme
 
@@ -2637,7 +2615,7 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 összege közül a magasabb érték alá.
 
-(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a pénzforgalmi tevékenység vonatkozásában a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő, illetve legfeljebb húsz százalékkal alacsonyabb tőkekövetelményt engedélyezhet.
+(2) Az (1) bekezdés a) pontjától eltérően az MNB a pénzforgalmi tevékenység vonatkozásában a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő, illetve legfeljebb húsz százalékkal alacsonyabb tőkekövetelményt engedélyezhet.
 
 (3) Az elektronikuspénz-kibocsátó intézmény szavatoló tőkéjének meghatározására, kiszámítására az 5. számú mellékletet kell megfelelően alkalmazni.
 
@@ -2648,9 +2626,9 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 87/O. § (1) Az átlagosan kinnlevő elektronikus pénz módszer alkalmazásakor az elektronikuspénz-kibocsátó intézmény szavatoló tőkéjének el kell érnie az átlagosan kinnlevő elektronikus pénz két százalékát.
 
-(2) Amennyiben az elektronikuspénz-kibocsátó intézmény a 6/C. § (3) bekezdésében foglalt, az elektronikuspénz-kibocsátáshoz nem kapcsolódó vagy a 6/C. § (2) és (4)–(5) bekezdéseiben megállapított tevékenységek bármelyikét végzi, és a kinnlevő elektronikus pénz mennyisége előre nem határozható meg, a Felügyelet engedélyezi ezen elektronikuspénz-kibocsátó intézmény számára, hogy a szavatolótőke-követelményét egy olyan reprezentatív hányad alapján számítsa ki, mely számítása szerint elektronikus pénz kibocsátására kerül felhasználásra, feltéve hogy ez a reprezentatív hányad a korábbi adatok alapján és a Felügyelet számára reálisan megbecsülhető.
+(2) Amennyiben az elektronikuspénz-kibocsátó intézmény a 6/C. § (3) bekezdésében foglalt, az elektronikuspénz-kibocsátáshoz nem kapcsolódó vagy a 6/C. § (2) és (4)–(5) bekezdéseiben megállapított tevékenységek bármelyikét végzi, és a kinnlevő elektronikus pénz mennyisége előre nem határozható meg, az MNB engedélyezi ezen elektronikuspénz-kibocsátó intézmény számára, hogy a szavatolótőke-követelményét egy olyan reprezentatív hányad alapján számítsa ki, mely számítása szerint elektronikus pénz kibocsátására kerül felhasználásra, feltéve hogy ez a reprezentatív hányad a korábbi adatok alapján és az MNB számára reálisan megbecsülhető.
 
-(3) Amennyiben az elektronikuspénz-kibocsátó intézmény működésének időtartama alapján a (2) bekezdésben meghatározott szavatolótőke-követelménye nem számítható, az üzleti terv által igazolt, tervezett kinnlevő elektronikus pénz alapján kell a kalkulációt elvégezni, figyelemmel a Felügyelet által a tervben kért esetleges kiigazításokra.
+(3) Amennyiben az elektronikuspénz-kibocsátó intézmény működésének időtartama alapján a (2) bekezdésben meghatározott szavatolótőke-követelménye nem számítható, az üzleti terv által igazolt, tervezett kinnlevő elektronikus pénz alapján kell a kalkulációt elvégezni, figyelemmel az MNB által a tervben kért esetleges kiigazításokra.
 
 ### Ügyfélpénzek védelme
 
@@ -2677,7 +2655,7 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 (6) Az (5) bekezdésben meghatározottakon túl biztonságos, alacsony kockázatú eszköz az ÁÉKBV olyan kollektív befektetési értékpapírja, amely kizárólag az (5) bekezdésben meghatározott eszközbe fektet.
 
-(7) Az elektronikuspénz-kibocsátó intézménynek előzetesen tájékoztatnia kell a Felügyeletet a kibocsátott elektronikus pénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
+(7) Az elektronikuspénz-kibocsátó intézménynek előzetesen tájékoztatnia kell az MNB-t a kibocsátott elektronikus pénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
 
 (8) Az elektronikuspénz-kibocsátó intézmény által pénzforgalmi szolgáltatás nyújtása érdekében átvett pénzeszközre a 87/L. §-ban foglaltakat kell alkalmazni.
 
@@ -2739,21 +2717,21 @@ köteles megfelelni.
 
 (3) Ha valamely hitelintézet anyavállalata befektetési vállalkozás, illetve a befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, a Tpt. összevont alapú felügyeletre vonatkozó szabályait kell alkalmazni.
 
-91. § (1) A Felügyelet feladata a 90. § (1) bekezdésében meghatározott, Magyarországon bejegyzett hitelintézet összevont pénzügyi helyzeten alapuló felügyelete.
+91. § (1) Az MNB feladata a 90. § (1) bekezdésében meghatározott, Magyarországon bejegyzett hitelintézet összevont pénzügyi helyzeten alapuló felügyelete.
 
-(2) A Felügyeletnek nem feladata a pénzügyi holding társaság, a vegyes tevékenységű holding társaság, továbbá a külföldi hitelintézet, pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működésének egyedi alapú vizsgálata, elemzése, értékelése.
+(2) Az MNB-nek nem feladata a pénzügyi holding társaság, a vegyes tevékenységű holding társaság, továbbá a külföldi hitelintézet, pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működésének egyedi alapú vizsgálata, elemzése, értékelése.
 
-(3) A Felügyelet az összevont alapú felügyeleti körbe történő bevonás alól – a 90. § (1) bekezdésében meghatározott hitelintézet kérelmére – mentesítheti a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást vagy a járulékos vállalkozást, ha
+(3) Az MNB az összevont alapú felügyeleti körbe történő bevonás alól – a 90. § (1) bekezdésében meghatározott hitelintézet kérelmére – mentesítheti a hitelintézetet, a pénzügyi vállalkozást, a befektetési vállalkozást vagy a járulékos vállalkozást, ha
 
 - a) székhelye olyan harmadik országban van, amelynek jogrendszere nem teszi lehetővé a szükséges adatok, információk átadását,
 - b) bevonása félrevezető eredményre vezetne (így különösen, ha az ellenőrző befolyás vagy részesedési viszony időtartama előre láthatóan nem haladja meg az egy évet),
 - c) bevonása az összevont alapú felügyelet célját tekintve elhanyagolható lenne, mivel mérlegfőösszege és mérlegen kívüli tételeinek a 79. § (4) bekezdése szerint számított összege nem éri el az anyavállalat vagy a részesedési viszonnyal bíró vállalkozás mérlegfőösszegének egy százaléka, illetve a kettőmilliárd-ötszázmillió forint közül a kisebb értéket.
 
-(4) Ha több vállalkozás külön-külön nem, de együttesen eléri a (3) bekezdés c) pontjában meghatározott érték közül a kisebbet, nem tekinthetők elhanyagolható jelentőségűnek, és a Felügyelet nem adhat mentesítést az összevont alapú felügyeleti körbe történő bevonás alól.
+(4) Ha több vállalkozás külön-külön nem, de együttesen eléri a (3) bekezdés c) pontjában meghatározott érték közül a kisebbet, nem tekinthetők elhanyagolható jelentőségűnek, és az MNB nem adhat mentesítést az összevont alapú felügyeleti körbe történő bevonás alól.
 
-(5) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, illetőleg meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
+(5) Ha az MNB dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, illetőleg meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 
-(6) A Felügyelet engedélyezheti, hogy – bár a hitelintézet nem tartozik a 90. § (1) bekezdése alapján összevont alapú felügyelet alá – a hitelintézet anyavállalatának olyan vállalkozásával, amely Magyarországon bejegyzett és ezen anyavállalat ellenőrző befolyása alatt áll vagy a vállalkozásban az anyavállalat részesedési viszonnyal rendelkezik, összevont alapon is, e fejezet előírásai szerint feleljen meg a kockázatvállalási és tőkemegfelelési előírásoknak.
+(6) Az MNB engedélyezheti, hogy – bár a hitelintézet nem tartozik a 90. § (1) bekezdése alapján összevont alapú felügyelet alá – a hitelintézet anyavállalatának olyan vállalkozásával, amely Magyarországon bejegyzett és ezen anyavállalat ellenőrző befolyása alatt áll vagy a vállalkozásban az anyavállalat részesedési viszonnyal rendelkezik, összevont alapon is, e fejezet előírásai szerint feleljen meg a kockázatvállalási és tőkemegfelelési előírásoknak.
 
 ### Az összevont alapú felügyelet alá tartozó hitelintézet prudens működése
 
@@ -2775,9 +2753,9 @@ köteles megfelelni.
 
 (4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga is ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy másik hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban vagy járulékos vállalkozásban (a továbbiakban: többszörös ellenőrző befolyás vagy részesedési viszony), a kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számítását minden, az összevont alapú felügyelet alá tartozó hitelintézetnek, illetőleg a pénzügyi holding társaságnak el kell végeznie.
 
-(5) Többszörös ellenőrző befolyás vagy részesedési viszony esetén a Felügyelet engedélyezheti, hogy a tőkemegfelelési és kockázatvállalási előírásoknak való összevont alapú megfelelés számítását csak a legfelső szinten lévő, összevont alapú felügyelet hatálya alá tartozó hitelintézet, illetőleg pénzügyi holding társaság végezze el.
+(5) Többszörös ellenőrző befolyás vagy részesedési viszony esetén az MNB engedélyezheti, hogy a tőkemegfelelési és kockázatvállalási előírásoknak való összevont alapú megfelelés számítását csak a legfelső szinten lévő, összevont alapú felügyelet hatálya alá tartozó hitelintézet, illetőleg pénzügyi holding társaság végezze el.
 
-(6) A Felügyelet az (5) bekezdés szerinti mentesítést a következő feltételek együttes fennállása esetén adhat:
+(6) Az MNB az (5) bekezdés szerinti mentesítést a következő feltételek együttes fennállása esetén adhat:
 
 - a) a legfelső szinten lévő magyarországi bejegyzésű hitelintézet, illetőleg pénzügyi holding társaság a mentesítendő magyarországi bejegyzésű hitelintézetben ellenőrző befolyással vagy részesedési viszonnyal rendelkezik,
 - b) a legfelső szinten lévő hitelintézet, illetőleg pénzügyi holding társaság a mentesítendő hitelintézetet az összevont alapú kockázatvállalási és tőkemegfelelési számításokba bevonja,
@@ -2788,21 +2766,21 @@ köteles megfelelni.
 
 94. § (1) Az összevont alapú kockázatvállalási és tőkemegfelelési adatok meghatározásához szükséges számítások során az Szmt. szerinti bevonási módszerek alkalmazandók. Az adatok nyilvántartása, meghatározása és a bevonási módszerek tekintetében az Szmt. 10. §-ának (4) bekezdését figyelmen kívül kell hagyni.
 
-(2) A Felügyelet engedélyezheti, hogy a kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számításába az anyavállalat valamely leányvállalatát az Szmt. közös vezetésű vállalkozások konszolidálására vonatkozó szabályai szerint, tőkerészesedésének arányában vonja be, ha szerződés biztosítja, hogy az anyavállalatot kötelezettség csak tulajdoni hányada arányában terheli és a társtulajdonosok pénzügyi helyzete kielégítő.
+(2) Az MNB engedélyezheti, hogy a kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számításába az anyavállalat valamely leányvállalatát az Szmt. közös vezetésű vállalkozások konszolidálására vonatkozó szabályai szerint, tőkerészesedésének arányában vonja be, ha szerződés biztosítja, hogy az anyavállalatot kötelezettség csak tulajdoni hányada arányában terheli és a társtulajdonosok pénzügyi helyzete kielégítő.
 
 (3) A kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számításába a részesedési viszonyban álló hitelintézetet, pénzügyi vállalkozást, befektetési vállalkozást vagy járulékos vállalkozást az Szmt. közös vezetésű vállalkozások konszolidálására vonatkozó szabályai szerint kell bevonni, ha azt egy részesedési viszonnyal rendelkező összevont alapú felügyelet hatálya alá tartozó hitelintézet – egy vagy több – az összevont alapú mérésekbe be nem vont vállalkozással közösen irányítja és kötelezettség csak tulajdoni hányada arányában terheli.
 
 (4) A kockázatvállalási és tőkemegfelelési előírásoknak való összevont alapú megfelelés számításába a részesedési viszonyban álló hitelintézetet, pénzügyi vállalkozást, befektetési vállalkozást vagy járulékos vállalkozást az Szmt. társult vállalkozások konszolidálására vonatkozó szabályai szerint kell bevonni a (2)–(3) bekezdésekben meghatározott eltéréssel.
 
-(5) Ha az ellenőrző befolyás tőkekapcsolat nélkül valósul meg, az összevonás módszerét a Felügyelet állapítja meg.
+(5) Ha az ellenőrző befolyás tőkekapcsolat nélkül valósul meg, az összevonás módszerét az MNB állapítja meg.
 
 (6) Az összevont alapú szavatoló tőke számítása során a szavatoló tőkéből le kell vonni a 91. § (3) bekezdése alapján mentesített vállalkozásban fennálló részesedés könyv szerinti értékét, valamint az ilyen vállalkozás részére nyújtott alapvető kölcsöntőke, járulékos kölcsöntőke és alárendelt kölcsöntőke könyv szerinti értékét.
 
 95. § (1) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet, illetőleg a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, köteles az összevont alapú felügyelet alá tartozó hitelintézet, illetőleg a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt megadni. Ezen egyedi adatot és információt köteles az összevont alapú felügyelet alá tartozó hitelintézet, illetőleg a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezelni.
 
-(2) Az olyan hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó hitelintézet, illetőleg a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, a Felügyelet közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
+(2) Az olyan hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó hitelintézet, illetőleg a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, az MNB közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
 
-(3) A Felügyelet az összevont alapú felügyelettel kapcsolatban felmerülő feladatai ellátása érdekében a következő személyektől is kérhet – közvetlenül vagy az összevont alapú felügyelet alá tartozó hitelintézeten keresztül közvetve – adatot, aki (amely) – ha jogszabály másként nem rendelkezik – köteles azt a Felügyeletnek megadni:
+(3) Az MNB az összevont alapú felügyelettel kapcsolatban felmerülő feladatai ellátása érdekében a következő személyektől is kérhet – közvetlenül vagy az összevont alapú felügyelet alá tartozó hitelintézeten keresztül közvetve – adatot, aki (amely) – ha jogszabály másként nem rendelkezik – köteles azt az MNB-nek megadni:
 
 - a) az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló személy,
 - b) az összevont alapú felügyelet alá tartozó hitelintézet anyavállalatával vagy a hitelintézetben részesedési viszonnyal rendelkező személlyel más szoros kapcsolatban álló személy, és
@@ -2810,7 +2788,7 @@ köteles megfelelni.
 
 (4) Az összevont alapú felügyelet alá tartozó hitelintézetnek, illetőleg a pénzügyi holding társaságnak rendelkeznie kell a felügyelet érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetőleg azok megbízhatóságát biztosító informatikai és belső ellenőrzési rendszerrel.
 
-(5) Ha az összevont alapú felügyelet alá tartozó hitelintézet anyavállalata vegyes tevékenységű holding társaság, akkor a vegyes tevékenységű holding társaság és azon vállalkozások – amelyekre az összevont alapú felügyelet kiterjed – közötti ügyletek felügyelete a Felügyelet feladata. Az összevont alapú felügyelet alá tartozó hitelintézetnek rendelkeznie kell olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az előbb említett ügyletek meghatározására, mérésére és ellenőrzésére, amelyeket a Felügyelet ellenőriz. Ha az ügyletek veszélyeztetik az összevont alapú felügyelet alá tartozó hitelintézet pénzügyi helyzetét, akkor a Felügyelet intézkedést alkalmaz.
+(5) Ha az összevont alapú felügyelet alá tartozó hitelintézet anyavállalata vegyes tevékenységű holding társaság, akkor a vegyes tevékenységű holding társaság és azon vállalkozások – amelyekre az összevont alapú felügyelet kiterjed – közötti ügyletek felügyelete az MNB feladata. Az összevont alapú felügyelet alá tartozó hitelintézetnek rendelkeznie kell olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az előbb említett ügyletek meghatározására, mérésére és ellenőrzésére, amelyeket az MNB ellenőriz. Ha az ügyletek veszélyeztetik az összevont alapú felügyelet alá tartozó hitelintézet pénzügyi helyzetét, akkor az MNB intézkedést alkalmaz.
 
 ### Bejelentési kötelezettség
 
@@ -2820,25 +2798,25 @@ köteles megfelelni.
 
 ### Felügyeleti ellenőrzés
 
-96/A. § (1) A 90. § (1) és (2) bekezdésében meghatározott vállalkozások körében a Felügyelet jogosult – helyszínen kívül, illetőleg helyszínen – ellenőrizni a 90–96. §-ban foglalt rendelkezések betartását.
+96/A. § (1) A 90. § (1) és (2) bekezdésében meghatározott vállalkozások körében az MNB jogosult – helyszínen kívül, illetőleg helyszínen – ellenőrizni a 90–96. §-ban foglalt rendelkezések betartását.
 
-(2) A 95. § (3) bekezdésében meghatározott személyek körében a Felügyelet – helyszínen kívül, illetőleg helyszínen – ellenőrizheti az összevont alapú felügyelettel kapcsolatban felmerülő feladatok ellátása érdekében átadott jelentések, adatok, információk hitelességét.
+(2) A 95. § (3) bekezdésében meghatározott személyek körében az MNB – helyszínen kívül, illetőleg helyszínen – ellenőrizheti az összevont alapú felügyelettel kapcsolatban felmerülő feladatok ellátása érdekében átadott jelentések, adatok, információk hitelességét.
 
-### A Felügyelet nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyelet tekintetében
+### Az MNB nemzetközi együttműködése más országok felügyeleti hatóságaival az összevont alapú felügyelet tekintetében
 
-96/B. § (1) A Felügyelet – harmadik ország felügyeleti hatóságának kérésére – a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén, az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat harmadik ország felügyeleti hatóságának átadhatja, ha a külföldi felügyeleti hatóság megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott információk kezeléséhez.
+96/B. § (1) Az MNB – harmadik ország felügyeleti hatóságának kérésére – a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén, az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat harmadik ország felügyeleti hatóságának átadhatja, ha a külföldi felügyeleti hatóság megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott információk kezeléséhez.
 
-(2) A 96/A. § szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
+(2) A 96/A. § szerinti ellenőrzést az MNB harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján, illetőleg érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
-(3) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A vizsgálat során egyeztet az Európai Bankhatósággal. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+(3) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében az MNB megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A vizsgálat során egyeztet az Európai Bankhatósággal. Az egyeztetést követően az MNB dönt a jogrend megfelelőségéről.
 
-(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és köteles ennek érdekében minden lehetséges intézkedést megtenni.
+(4) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2006/48/EK irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor az MNB látja el az összevont alapú felügyeleti feladatokat, és köteles ennek érdekében minden lehetséges intézkedést megtenni.
 
-(5) A (4) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
+(5) A (4) bekezdésben meghatározott esetben az MNB egyeztet a harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
 
 96/C. § (1) Ha a hitelintézet anyavállalat, akkor az összevont alapú felügyeletet az Európai Unió hitelintézetet engedélyező tagállamának illetékes felügyeleti hatósága látja el.
 
-(2) Ha a hitelintézet anyavállalata pénzügyi holding társaság, akkor az összevont alapú felügyeletet a hitelintézetet engedélyező tagállam illetékes felügyeleti hatósága látja el. Ha a Felügyelet látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi tagállam illetékes felügyeleti hatóságát.
+(2) Ha a hitelintézet anyavállalata pénzügyi holding társaság, akkor az összevont alapú felügyeletet a hitelintézetet engedélyező tagállam illetékes felügyeleti hatósága látja el. Ha az MNB látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi tagállam illetékes felügyeleti hatóságát.
 
 (3) Ha egy magyarországi székhelyű hitelintézet és egy más tagállambeli hitelintézet ugyanazon pénzügyi holding társaság leányvállalata – a (4) bekezdésben foglalt eltéréssel –, az összevont alapú felügyeletet azon tagállam felügyeleti hatósága látja el, amelyben a pénzügyi holding társaságot bejegyezték.
 
@@ -2855,18 +2833,18 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (7) Ha az összevont alapú felügyeletet nem az anyavállalatnak minősülő pénzügyi intézmény felügyeleti hatósága látja el, az anyavállalat felügyeleti hatósága az összevont alapú felügyelet érdekében szükséges információkat az összevont alapú felügyeletet ellátó felügyeleti hatóság számára köteles megadni.
 
-(8) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más tagállam felügyeleti hatóságával szorosan együttműködik.
+(8) Az MNB az összevont alapú felügyeleti feladatok ellátása érdekében más tagállam felügyeleti hatóságával szorosan együttműködik.
 
-(9) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más tagállam felügyeleti hatóságának átadhatja.
+(9) Az MNB az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más tagállam felügyeleti hatóságának átadhatja.
 
-(10) A 96/A. § szerinti ellenőrzést a Felügyelet más tagállam felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
+(10) A 96/A. § szerinti ellenőrzést az MNB más tagállam felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
-(11) Ha a Felügyelet a konszolidáló felügyeleti hatóság, akkor a (7)–(9) bekezdésben rögzítetteken kívül az Európai Unió tagállamának hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
+(11) Ha az MNB a konszolidáló felügyeleti hatóság, akkor a (7)–(9) bekezdésben rögzítetteken kívül az Európai Unió tagállamának hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
 - a) a rendes működés során, ideértve az irányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések [13/D. §] ellenőrzését, a hitelintézetek belső tőkemegfelelési folyamatának [76/K. §] értékelését, a felügyeleti felülvizsgálatot [145/A. §], a nyilvánosságra hozatali követelmények [137/A. §] alkalmazását, valamint a hitelintézettel szemben alkalmazott intézkedéseket,
 - b) szükség esetén az illetékes központi bankok bevonásával a válsághelyzetekre való felkészülés és a válsághelyzetek során, ideértve a hitelintézetek működésében és a pénzügyi piacokon zajló kedvezőtlen folyamatokat is.
 
-(12) A Felügyelet – a XXVII. Fejezetre is tekintettel – minden olyan információt megad a tagállami illetékes felügyeleti hatóságnak, amely
+(12) Az MNB – a XXVII. Fejezetre is tekintettel – minden olyan információt megad a tagállami illetékes felügyeleti hatóságnak, amely
 
 - 1. az összevont felügyelet alá tartozó hitelintézet tulajdonosi szerkezetének feltárását, valamint a hitelintézet illetékes felügyeleti hatóságának azonosítását szolgálja,
 - 2. az összevont felügyelet alá tartozó hitelintézettől származó információk gyűjtésére és ellenőrzésére vonatkozó eljárásokat tartalmazza,
@@ -2874,14 +2852,14 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 - 4. a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának korlátozására vonatkozik, és
 - 5. befolyásolja a másik tagállam illetékes hatóságának felügyelete alá tartozó hitelintézet vagy pénzügyi vállalkozás prudenciális helyzetét.
 
-(13) A Felügyelet kérelemre a (12) bekezdésben rögzítetteken kívül minden olyan információt megad a másik tagállam illetékes felügyeleti hatóságának, amelyet ezen hatóság felügyeleti feladatainak ellátása érdekében szükségesnek tart.
+(13) Az MNB kérelemre a (12) bekezdésben rögzítetteken kívül minden olyan információt megad a másik tagállam illetékes felügyeleti hatóságának, amelyet ezen hatóság felügyeleti feladatainak ellátása érdekében szükségesnek tart.
 
-(14) Ha a Felügyelet egy másik tagállamban székhellyel rendelkező EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
+(14) Ha az MNB egy másik tagállamban székhellyel rendelkező EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor az MNB-nek elsődlegesen ehhez a hatósághoz kell fordulnia.
 
-(15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
+(15) Ha az MNB látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
 
 - a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
-- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely tagállamban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
+- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely tagállamban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre az MNB összevont alapú felügyelete kiterjed, akkor az MNB haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
 
 ### XIV/A. Fejezet
 
@@ -2895,9 +2873,9 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (2) Magyarország területén székhellyel rendelkező hitelintézet külföldön létesített fióktelepére az Alap által nyújtott betétbiztosítás terjed ki, kivéve, ha a fióktelep létesítésének helye szerinti ország szabályai ezt nem teszik lehetővé. Magyarország területén székhellyel rendelkező hitelintézet külföldön létesített fióktelepe önként csatlakozhat az adott ország betétvédelmi rendszeréhez. A hitelintézet a befogadó ország betétvédelmi rendszeréhez történő kötelező vagy önkéntes csatlakozásról, valamint a csatlakozás feltételéről a tudomásszerzéssel, illetve a kérelem benyújtásával egyidőben köteles tájékoztatni az Alapot.
 
-(3) Nem köteles az Alaphoz csatlakozni az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet fióktelepe, ha rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt betétbiztosítással. A Felügyelet engedélye esetén nem köteles csatlakozni az Alaphoz harmadik országbeli hitelintézet fióktelepe, ha a Felügyelet elbírálása szerint rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt biztosítással egyenértékű betétbiztosítással.
+(3) Nem köteles az Alaphoz csatlakozni az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet fióktelepe, ha rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt betétbiztosítással. Az MNB engedélye esetén nem köteles csatlakozni az Alaphoz harmadik országbeli hitelintézet fióktelepe, ha az MNB elbírálása szerint rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt biztosítással egyenértékű betétbiztosítással.
 
-(4) A betétbiztosítás egyenértékűségének (3) bekezdés szerinti elbírálása során a Felügyelet figyelembe veszi különösen:
+(4) A betétbiztosítás egyenértékűségének (3) bekezdés szerinti elbírálása során az MNB figyelembe veszi különösen:
 
 - a) a betétbiztosítással lefedett betétek körét;
 - b) a betétbiztosítással érintett ügyfélkört;
@@ -2908,7 +2886,7 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (5) Ha a fióktelep a (3) bekezdés alapján nem köteles csatlakozni az Alaphoz, önként az Alaphoz csatlakozhat a (7) bekezdésben meghatározott kiegészítő biztosítás érdekében, amennyiben megfelel az Alap tagjaira vonatkozó követelményeknek.
 
-(6) Ha az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet fióktelepe nem rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt betétbiztosítással, köteles csatlakozni az Alaphoz a (7) bekezdésben meghatározott kiegészítő biztosítás érdekében. Ha a Felügyelet elbírálása szerint a harmadik országbeli hitelintézet fióktelepe nem rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt biztosítással egyenértékű betétbiztosítással, akkor köteles csatlakozni az Alaphoz a teljes biztosítás érdekében.
+(6) Ha az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet fióktelepe nem rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt betétbiztosítással, köteles csatlakozni az Alaphoz a (7) bekezdésben meghatározott kiegészítő biztosítás érdekében. Ha az MNB elbírálása szerint a harmadik országbeli hitelintézet fióktelepe nem rendelkezik az Európai Parlament és a Tanács 94/19/EK irányelve által előírt biztosítással egyenértékű betétbiztosítással, akkor köteles csatlakozni az Alaphoz a teljes biztosítás érdekében.
 
 (7) Ha az Alap által nyújtott kártalanítás legmagasabb összege, illetve mértéke, vagy a biztosított betétek köre meghaladja a fióktelepre érvényes betétbiztosítási rendszer által alkalmazott legmagasabb összeget, mértéket vagy a biztosított betétek körét, a fióktelep kérésére az Alap a meghaladó részre kiegészítő biztosítást nyújt, amennyiben a fióktelep csatlakozott az Alaphoz. A kiegészítő biztosítás alapján történő kártalanításra akkor kerülhet sor, ha a fióktelep székhely országának illetékes hatósága értesítést küld az Alap részére a betétek befagyásáról. A kiegészítő kártalanítás kifizetésére egyebekben a 105. § előírásait kell alkalmazni.
 
@@ -2919,7 +2897,7 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 98. § (1) Az Alap feladata
 
 - a)
-- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének a Felügyelet által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
+- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
 - c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 - d) a betétes magyar nyelvű tájékoztatása, illetőleg magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták.
 
@@ -2965,9 +2943,9 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Az Alap által fizetett kártalanítás
 
-101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betétből, valamint azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.
+101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betétből, valamint azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét az MNB a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.
 
-(2) Az Alap a befagyott tőkeösszeg után, valamint azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
+(2) Az Alap a befagyott tőkeösszeg után, valamint azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét az MNB a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
 
 (3)
 
@@ -2995,7 +2973,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (2) A kártalanítás mértékének megállapítása során az ügyfélnek az Alap tagjánál fennálló valamennyi befagyott követelését össze kell számítani. Ha az Alap tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.
 
-(2a) A (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a hitelintézet engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza.
+(2a) A (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a hitelintézet engedélyét az MNB a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza.
 
 (3) Fedezetül szolgáló betét esetén az Alap akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
 
@@ -3013,7 +2991,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Kifizetés az Alapból
 
-105. § (1) Az Alap a betétek befagyása vagy a Felügyeletnek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére a Felügyelet engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
+105. § (1) Az Alap a betétek befagyása vagy az MNB-nek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére az MNB engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
 
 (2) Az Alap köteles legalább két országos napilapban, valamint honlapján közzétenni a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az Alap által közzétett információkat a kártalanítással érintett hitelintézet honlapján is közzé kell tenni.
 
@@ -3066,8 +3044,8 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 (2) Az Alap igazgatótanácsának tagjai:
 
 - a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
-- b) az MNB-nek az MNB elnöke által kijelölt alelnöke,
-- c) a Felügyelet elnöke,
+- b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (7) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
+- c)
 - d) a hitelintézetek érdekképviseleti szervezetei által kijelölt két személy, továbbá
 - e) az Alap ügyvezető igazgatója.
 
@@ -3095,10 +3073,10 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 - l) dönt a kizárásokról,
 - m) határoz a 121. § (6)–(8) bekezdése szerinti megemelt, illetve rendkívüli díjfizetési kötelezettség előírásairól,
 - n)–o)
-- p) javaslatot tesz a Felügyeletnek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
+- p) javaslatot tesz az MNB-nek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
 - q) ellátja az e törvényben meghatározott egyéb feladatokat.
 
-(2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti a Felügyelet szolgáltatásait.
+(2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti az MNB szolgáltatásait.
 
 112. § (1) Az igazgatótanács nevezi ki, és menti fel az ügyvezető igazgatót, valamint gyakorolja felette a munkáltatói jogokat. Az igazgatótanács e jogkörét – a kinevezés és felmentés kivételével – az igazgatótanács elnökére átruházhatja.
 
@@ -3118,12 +3096,12 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Az Alap információellátása
 
-115. § (1) Az Alap a hitelintézettől csak a tevékenysége ellátásához szükséges, a Felügyeletnek vagy az MNB-nek rendelkezésére nem álló adatokat kérhet.
+115. § (1) Az Alap a hitelintézettől csak a tevékenysége ellátásához szükséges, az MNB-nek rendelkezésére nem álló adatokat kérhet.
 
 (2) Az Alap kérésére köteles
 
 - a) a hitelintézet az e törvényben foglaltaknak megfelelően az Alap által meghatározott adatokból,
-- b) a Felügyelet és az MNB a rendelkezésükre álló adatokból
+- b) az MNB a rendelkezésükre álló adatokból
 
 a kért információt megadni.
 
@@ -3131,7 +3109,7 @@ a kért információt megadni.
 
 (4) Az Alap a (2) bekezdésben meghatározott adatokat kizárólag feladatainak ellátása érdekében használhatja fel.
 
-(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az Alap kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az Alap ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
+(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az Alap kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – az MNB a helyszínen ellenőrzi. Az Alap ellenőrzéssel kapcsolatos javaslatát az MNB figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
 (6) A hitelintézet köteles a betétekre és a betétesekre vonatkozó – a 3. számú melléklet I. fejezet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az Alap kérésére öt munkanapon belül átadhatóak legyenek. Közösségi betéteknél a hitelintézet a betétes adatain túlmenően abban az esetben köteles a társasházak és lakásszövetkezetek esetén a lakások számát, építőközösségek és iskolai takarékossági csoportok esetén a közösséget alkotó személyek számát nyilvántartani, ha a betét összege meghaladja a 101. § (1) bekezdésében foglalt összeghatárt.
 
@@ -3177,7 +3155,7 @@ a kért információt megadni.
 
 ### Csatlakozási díj
 
-120. § Az Alaphoz csatlakozó, a Felügyelettől betétgyűjtés végzésére engedélyt kapott hitelintézet – az engedély kézhezvételét követő harminc napon belül – a jegyzett tőkéjének fél százalékával megegyező összeget köteles az Alapba egyszeri csatlakozási díjként befizetni.
+120. § Az Alaphoz csatlakozó, az MNB-től betétgyűjtés végzésére engedélyt kapott hitelintézet – az engedély kézhezvételét követő harminc napon belül – a jegyzett tőkéjének fél százalékával megegyező összeget köteles az Alapba egyszeri csatlakozási díjként befizetni.
 
 ### Éves díjfizetési kötelesség
 
@@ -3193,7 +3171,7 @@ a kért információt megadni.
 
 (6) Ha az adott hitelintézet olyan kockázatos tevékenységet folytat, amely a szabályzat szerint indokolja az emelést, az Alap növelheti a hitelintézet által a tárgyév során fizetendő díjat. Az emelés előtt az Alap
 
-- a) véleményt kér a Felügyelettől és az MNB-től;
+- a) véleményt kér az MNB-től;
 - b) módot ad a hitelintézetnek észrevételei megtételére.
 
 (7) A (6) bekezdés alapján felemelt éves díj nem lépheti túl a hitelintézetnél a tárgyévet megelőző év december 31-én fennálló, biztosított betétállomány három ezrelékét.
@@ -3224,16 +3202,16 @@ a kért információt megadni.
 - d) nyilvántartása nem teszi lehetővé a betétesek kártalanítási jogosultságának egyértelmű megállapítását,
 - e) a betétbiztosítással összefüggő szabályokat megsérti
 
-az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetésére, és egyidejűleg tájékoztatja a Felügyeletet.
+az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetésére, és egyidejűleg tájékoztatja az MNB-t.
 
-(2) A felszólítást követő harminc nap elteltével – ha a hitelintézet az (1) bekezdés szerinti jogsértő magatartást nem szüntette meg – az Alap kezdeményezheti a Felügyeletnél a hitelintézettel szemben intézkedés, bírság alkalmazását, vagy a Felügyelet egyetértésével a hitelintézetet tagjai sorából kizárja legalább tizenkét hónappal az erre vonatkozó intézkedés bejelentése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg a jogsértő magatartást. Az Alap a felügyeleti intézkedés kezdeményezéséről egyidejűleg értesíti az MNB-t.
+(2) Ha a hitelintézet az (1) bekezdés szerinti jogsértő magatartást nem szüntette meg, az Alap a felszólítást követő harminc nap elteltével kezdeményezheti az MNB-nél a hitelintézettel szemben intézkedés, bírság alkalmazását, vagy legalább tizenkét hónappal az erre vonatkozó intézkedés bejelentése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg a jogsértő magatartást, az MNB egyetértésével kizárja a hitelintézetet tagjai sorából.
 
 (3) Kizárás kezdeményezése esetén a hitelintézet tagsága az Alapban az előzetes felszólításban megjelölt határidőt követően megszűnik, kivéve, ha
 
 - a) a hitelintézet meghozta az előírásokhoz való alkalmazkodást vagy szabálytalanság megszüntetését célzó intézkedéseket;
 - b)
 
-125. § A hitelintézet Alapban fennálló tagsága megszűnik, ha a Felügyelet határozata alapján a hitelintézet nem gyűjthet betétet.
+125. § A hitelintézet Alapban fennálló tagsága megszűnik, ha az MNB határozata alapján a hitelintézet nem gyűjthet betétet.
 
 126. § (1) A hitelintézet kizárása vagy a tagsági jogviszony megszüntetése – a (4) bekezdésben foglalt eltéréssel – nem érinti a tagság fennállása alatt a hitelintézetnél elhelyezett betétekre vonatkozó biztosítást.
 
@@ -3243,7 +3221,7 @@ az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetés�
 
 (4) Az Alap – a hitelintézet tagsági viszonyának megszűnését követően – nem fizet kártalanítást azokra a betétekre, amelyekre más ország betétbiztosítása kiterjed.
 
-127. § Az Alap a 124. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet és az MNB-t. Az Alap erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.
+127. § Az Alap a 124. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról az MNB-t. Az Alap erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.
 
 ### XX. Fejezet — Betét- és intézménybiztosításra
 
@@ -3275,15 +3253,15 @@ az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetés�
 - b) a létesítő okirat, valamint
 - c) a tagok névjegyzékének
 
-megküldésével be kell jelenteni a Felügyeletnek.
+megküldésével be kell jelenteni az MNB-nek.
 
-(2) Az engedélyt – a 194. §-tól eltérően – megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő harminc napon belül azt nem utasítja el.
+(2) Az engedélyt – a 194. §-tól eltérően – megadottnak kell tekinteni, ha az MNB a kérelem kézhezvételét követő harminc napon belül azt nem utasítja el.
 
-(3) A Felügyelet az engedélykérelmet csak akkor utasíthatja el, ha a benyújtott iratok nem felelnek meg a jogszabályokban foglalt előírásoknak.
+(3) Az MNB az engedélykérelmet csak akkor utasíthatja el, ha a benyújtott iratok nem felelnek meg a jogszabályokban foglalt előírásoknak.
 
 (4) Az engedély megadását – illetve a (2) bekezdésben meghatározott esetben a határidő lejártát – követő harminc napon belül az önkéntes alap megalapítását – az (1) bekezdésben meghatározott iratok benyújtásával – nyilvántartásba vétel kérése céljából be kell jelenteni az önkéntes alap székhelye szerint illetékes megyei (fővárosi) bíróságnak (a továbbiakban: bíróság).
 
-(5) A nyilvántartásba vételre irányuló kérelmet az önkéntes alap képviseletére jogosult személy nyújtja be. A bíróság a nyilvántartásba vételről nemperes eljárásban, soron kívül határoz. A bíróság a nyilvántartásba vételről szóló határozatát a Felügyeletnek is kézbesíti.
+(5) A nyilvántartásba vételre irányuló kérelmet az önkéntes alap képviseletére jogosult személy nyújtja be. A bíróság a nyilvántartásba vételről nemperes eljárásban, soron kívül határoz. A bíróság a nyilvántartásba vételről szóló határozatát az MNB-nek is kézbesíti.
 
 (6) Az önkéntes alap nyilvántartásba vétele nem tagadható meg, ha az alapítói az e törvényben előírt feltételeknek eleget tettek.
 
@@ -3308,7 +3286,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - i) a tagok díjfizetési rendjét,
 - j) a tagok kilépése, kizárása esetén történő elszámolás rendjét.
 
-(3) Az önkéntes alap létesítő okiratának elfogadásához, valamint a létesítő okirat módosításához, az önkéntes alap megszűnéséhez – a 128/C. § megfelelő alkalmazásával – a Felügyelet jóváhagyása szükséges.
+(3) Az önkéntes alap létesítő okiratának elfogadásához, valamint a létesítő okirat módosításához, az önkéntes alap megszűnéséhez – a 128/C. § megfelelő alkalmazásával – az MNB jóváhagyása szükséges.
 
 ### A tagok névjegyzéke
 
@@ -3367,7 +3345,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - a) az önkéntes alap szerveinek működésével és gazdálkodásával kapcsolatos bármely ügyet megvizsgálhat,
 - b) felhívhatja az igazgatóságot, hogy a jogszabályoknak, a létesítő okiratnak vagy más belső szabályzatnak megfelelően járjon el,
 - c) indítványozhatja az igazgatóság egészének vagy egyes tagjainak felmentését, felelősségre vonását, valamint a közgyűlés rendkívüli összehívását,
-- d) a Felügyelet egyidejűleg történt értesítésével összehívja a közgyűlést, ha az igazgatóság nem tesz eleget erre vonatkozó kötelezettségének,
+- d) az MNB egyidejűleg történt értesítésével összehívja a közgyűlést, ha az igazgatóság nem tesz eleget erre vonatkozó kötelezettségének,
 - e) véleményt nyilvánít a közgyűlés elé terjesztett éves költségvetésről, valamint éves beszámolóról, amely nélkül ezen tárgyakban érvényes határozat nem hozható,
 - f) javaslatot tesz a közgyűlésnek az igazgatósági tagok díjazásának megállapítására.
 
@@ -3402,13 +3380,13 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (2) A határozat megtámadása a határozat végrehajtásának nem akadálya, a bíróság azonban indokolt esetben a végrehajtást felfüggesztheti.
 
-128/N. § (1) Az önkéntes alap törvénysértő határozata esetén a Felügyelet – ha a működés törvényessége másként nem biztosítható – bírósághoz fordulhat. A Felügyelet keresete alapján a bíróság
+128/N. § (1) Az önkéntes alap törvénysértő határozata esetén az MNB – ha a működés törvényessége másként nem biztosítható – bírósághoz fordulhat. Az MNB keresete alapján a bíróság
 
 - a) megsemmisítheti az önkéntes alap törvénysértő határozatát, és szükség szerint új határozat hozatalát rendelheti el,
 - b) a működés törvényességének helyreállítása céljából összehívhatja az önkéntes alap közgyűlését,
 - c) felfüggesztheti az önkéntes alap működését.
 
-(2) Az önkéntes alap tagja (128/M. §), valamint a Felügyelet által indított perek a nyilvántartásba vétel szerinti bíróság hatáskörébe tartoznak
+(2) Az önkéntes alap tagja (128/M. §), valamint az MNB által indított perek a nyilvántartásba vétel szerinti bíróság hatáskörébe tartoznak
 
 129. § (1)–(2)
 
@@ -3420,7 +3398,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (4) Az önkéntes betétbiztosítási alapot felhasználó hitelintézetek a pénzeszközök visszafizetéséig kamatként legalább a jegybanki alapkamatot kötelesek téríteni. A kilépés az önkéntes betétbiztosítási alappal szembeni visszafizetési kötelezettséget nem érinti.
 
-130. § Az önkéntes alap a betétek befagyása miatt, illetve a kifizetés elkerülése érdekében tervezett intézkedéseiről tájékoztatja a Felügyeletet.
+130. § Az önkéntes alap a betétek befagyása miatt, illetve a kifizetés elkerülése érdekében tervezett intézkedéseiről tájékoztatja az MNB-t.
 
 130/A. § (1) Törvény kimondhatja intézményvédelmi integrációs szervezet létrehozását (kötelező intézményvédelmi szervezet).
 
@@ -3489,13 +3467,13 @@ megküldésével be kell jelenteni a Felügyeletnek.
 (2) Az üzleti nyilvántartások vezetésével szemben támasztott követelmények:
 
 - a) tegye lehetővé a pénzügyi intézmény belső ellenőrzését,
-- b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, a Felügyelet és az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
+- b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
 
 (3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek, az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.
 
 (4) A zálogkölcsönzési tevékenységet folytató pénzügyi vállalkozásnak, a pénzforgalmi szolgáltatási tevékenységet folytató vállalkozásnak, valamint a zálogkölcsönzési, illetve pénzforgalmi szolgáltatási tevékenységet kiemelt közvetítői tevékenységként, illetve pénzforgalmi közvetítői tevékenységként közvetítőnek a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység céljára szolgáló elkülönítetten nyilvántartott készpénzállományt vagy az e tevékenység folytatása során birtokába került, a megbízót, illetve az ügyfelet megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.
 
-132. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az arra jogosult testület által elfogadott – könyvvizsgálói záradékot is tartalmazó – éves beszámolót, valamint az adózott eredmény felhasználására vonatkozó határozatot a Felügyeletnek annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év május 31-éig, az összevont (konszolidált) éves beszámolót annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év június 30-áig megküldeni.
+132. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az arra jogosult testület által elfogadott – könyvvizsgálói záradékot is tartalmazó – éves beszámolót, valamint az adózott eredmény felhasználására vonatkozó határozatot az MNB-nek annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év május 31-éig, az összevont (konszolidált) éves beszámolót annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év június 30-áig megküldeni.
 
 (2) A 3. § (2) bekezdésének a) és c) pontjaiban meghatározott kiegészítő pénzügyi szolgáltatásokat végző jogi személy könyvvezetésére és könyvvizsgálatára a 131–137. § rendelkezéseit nem kell alkalmazni.
 
@@ -3528,11 +3506,11 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - c) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele nem haladhatja meg éves nettó árbevételének tíz százalékát,
 - d) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
 
-(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.
+(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást az MNB alkalmazottjának, illetőleg annak közeli hozzátartozójának.
 
 133/A. §
 
-134. § (1) A pénzügyi intézmény által választott könyvvizsgáló a vizsgálatának eredményéről a pénzügyi intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
+134. § (1) A pénzügyi intézmény által választott könyvvizsgáló a vizsgálatának eredményéről a pénzügyi intézménnyel egyidejűleg az MNB-t – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
 - a) a könyvvizsgálói záradék korlátozása vagy megtagadása válhat szükségessé,
 - b) bűncselekmény elkövetésére vagy a pénzügyi intézmény belső szabályzatának súlyos megsértésére, illetőleg az előzőekben említettek súlyos veszélyére utaló körülményeket észlel,
@@ -3541,9 +3519,9 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - e) a pénzügyi intézmény belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg,
 - f) jelentős véleménykülönbség alakult ki közte és a pénzügyi intézmény vezetése között a pénzügyi intézmény fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a pénzügyi intézmény működését lényegesen érintő kérdésekben.
 
-(2) A pénzügyi intézmény összevont (konszolidált) éves beszámolóját felülvizsgáló könyvvizsgáló írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzügyi intézménnyel ellenőrző befolyás miatt szoros kapcsolatban álló vállalkozásnál olyan tényeket állapít meg, amelyek a pénzügyi intézmény folyamatos működését kedvezőtlenül érintik, vagy az (1) bekezdés a), c) pontjában foglaltak fennállására utalnak.
+(2) A pénzügyi intézmény összevont (konszolidált) éves beszámolóját felülvizsgáló könyvvizsgáló írásban haladéktalanul tájékoztatja az MNB-t, ha a pénzügyi intézménnyel ellenőrző befolyás miatt szoros kapcsolatban álló vállalkozásnál olyan tényeket állapít meg, amelyek a pénzügyi intézmény folyamatos működését kedvezőtlenül érintik, vagy az (1) bekezdés a), c) pontjában foglaltak fennállására utalnak.
 
-(3) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel vagy az elektronikuspénz-kibocsátó intézménnyel egyidejűleg a Felügyeletet írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
+(3) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel vagy az elektronikuspénz-kibocsátó intézménnyel egyidejűleg az MNB-t írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
 
 - a) a pénzforgalmi szolgáltatásra és elektronikuspénz-kibocsátásra vonatkozó jogszabályokban foglalt előírások súlyos megsértésére utaló körülményeket észlel,
 - b) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége, illetve az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenysége folyamatos működését, kötelezettségeinek teljesítését nem látja biztosítottnak,
@@ -3552,10 +3530,10 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (4) Az (1) és (3) bekezdésben fel nem sorolt esetekben is
 
-- a) a könyvvizsgáló jogosult 1. a Felügyelettel konzultálni, illetőleg 2. a Felügyeletet a vizsgálat eredményéről tájékoztatni,
-- b) a Felügyelet jogosult a könyvvizsgálótól ennek megállapításairól közvetlenül tájékoztatást kérni és kapni.
+- a) a könyvvizsgáló jogosult 1. az MNB-vel konzultálni, illetőleg 2. az MNB-t a vizsgálat eredményéről tájékoztatni,
+- b) az MNB jogosult a könyvvizsgálótól ennek megállapításairól közvetlenül tájékoztatást kérni és kapni.
 
-135. § A Felügyelet a 151. § (3) bekezdésének k) pontjában meghatározott esetben jogosult arra, hogy a hitelintézetet más könyvvizsgáló választására kötelezze és a könyvvizsgáló pénzügyi intézményi minősítésének visszavonását kezdeményezze.
+135. § Az MNB a 151. § (3) bekezdésének k) pontjában meghatározott esetben jogosult arra, hogy a hitelintézetet más könyvvizsgáló választására kötelezze és a könyvvizsgáló pénzügyi intézményi minősítésének visszavonását kezdeményezze.
 
 136. § (1) A könyvvizsgálónak a hitelintézet éves beszámolójának vizsgálata mellett az alábbiakat is meg kell vizsgálnia:
 
@@ -3563,16 +3541,16 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - b) az előírt és szükséges értékhelyesbítések és leírások elvégzését,
 - c) az előírt és szükséges tartalékok képzésének megtörténtét,
 - d) a szavatoló tőkére, a tőkemegfelelésre, folyamatos fizetőképességre, valamint az egyes pénzügyi szolgáltatásokra vonatkozó szabályok betartását,
-- e) az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint az MNB tv., a pénzforgalomról szóló jogszabályok, a devizajogszabályok, illetve felügyeleti és jegybanki határozatok betartását, valamint
+- e) az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint az MNB tv., tevékenységére vonatkozó egyéb jogszabályok, a devizajogszabályok, illetve felügyeleti és jegybanki határozatok betartását, valamint
 - f) a megfelelő ellenőrzési rendszerek működését.
 
-(2) A könyvvizsgálónak az (1) bekezdésben foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint – a szövetkezeti hitelintézet könyvvizsgálója kivételével – az MNB-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(2) A könyvvizsgáló külön kiegészítő jelentésben rögzíti az (1) bekezdésben foglaltakra vonatkozó megállapításait, és azt legkésőbb a tárgyévet követő év május 31-éig megküldi az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének és az MNB-nek.
 
-137. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+137. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést az MNB számára megküldeni.
 
-(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzügyi intézménynél, a pénzforgalmi intézménynél és az elektronikuspénz-kibocsátó intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
+(2) Az MNB jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzügyi intézménynél, a pénzforgalmi intézménynél és az elektronikuspénz-kibocsátó intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
 
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a pénzügyi intézményt, a pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a Felügyeletnek bemutatni.
+(3) Ha az éves beszámoló jóváhagyását követően jutott az MNB tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, az MNB kötelezheti a pénzügyi intézményt, a pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az MNB-nek bemutatni.
 
 ## V/A. RÉSZ — A NYILVÁNOSSÁGRA HOZATAL KÖVETELMÉNYE
 
@@ -3599,16 +3577,16 @@ nem köteles nyilvánosságra hozni.
 
 (5) A hitelintézetnek nyilatkoznia kell a nyilvánosságra hozatali kötelezettségének teljesítése során a (3) bekezdés b) pontjában meghatározott információ nyilvánosságra hozatalától való tartózkodás tényéről és okáról, valamint a kapcsolódó, védett és bizalmas információnak nem minősülő információt nyilvánosságra kell hoznia.
 
-(6) Az (1) bekezdés szerinti kötelezettségének a hitelintézetnek évente legalább egyszer – az éves beszámoló jóváhagyásától számított tizenöt napon belül – eleget kell tennie. A hitelintézet tevékenységének méretéből és jellegéből adódóan évesnél gyakoribb nyilvánosságra hozatali kötelezettséget is vállalhat, amelyről a honlapján tájékoztatást ad. A hitelintézet – ezen felül – a tudomásra jutástól számított harminc napon belül nyilvánosságra hozza a pénzügyi helyzetét, az irányítási vagy a számviteli rendjét befolyásoló és a belső szabályzatának megfelelően lényegesnek tekintett eseményeket. A nyilvánosságra hozatal keretében a hitelintézet az információkat a honlapján vagy a Felügyelet honlapján megjelenteti, ha a Felügyelet nyújt ilyen szolgáltatást jogszabály szerinti közzétételi kötelezettség teljesítése céljából.
+(6) Az (1) bekezdés szerinti kötelezettségének a hitelintézetnek évente legalább egyszer – az éves beszámoló jóváhagyásától számított tizenöt napon belül – eleget kell tennie. A hitelintézet tevékenységének méretéből és jellegéből adódóan évesnél gyakoribb nyilvánosságra hozatali kötelezettséget is vállalhat, amelyről a honlapján tájékoztatást ad. A hitelintézet – ezen felül – a tudomásra jutástól számított harminc napon belül nyilvánosságra hozza a pénzügyi helyzetét, az irányítási vagy a számviteli rendjét befolyásoló és a belső szabályzatának megfelelően lényegesnek tekintett eseményeket. A nyilvánosságra hozatal keretében a hitelintézet az információkat a honlapján vagy az MNB honlapján megjelenteti, ha az MNB nyújt ilyen szolgáltatást jogszabály szerinti közzétételi kötelezettség teljesítése céljából.
 
-(7) A hitelintézet a (6) bekezdés szerint nyilvánosságra hozott információt a nyilvánosságra hozatallal egyidejűleg megküldi a Felügyeletnek is, amelyet a Felügyelet a honlapján megjelentethet.
+(7) A hitelintézet a (6) bekezdés szerint nyilvánosságra hozott információt a nyilvánosságra hozatallal egyidejűleg megküldi az MNB-nek is, amelyet az MNB a honlapján megjelentethet.
 
-(8) A Felügyelet kérelemre mentesítheti a hitelintézetet a nyilvánosságra hozatali követelmény teljesítése alól, ha a hitelintézet
+(8) Az MNB kérelemre mentesítheti a hitelintézetet a nyilvánosságra hozatali követelmény teljesítése alól, ha a hitelintézet
 
 - a) a számviteli, a tőzsdei, a kibocsátókra vonatkozó vagy más, jogszabály által előírt információt a (6) bekezdés szerint nyilvánosságra hozza, és
 - b) által az a) pontban meghatározott információk tartalmilag megfelelnek a hitelintézet nyilvánosságra hozatali követelményei keretében nyilvánosságra hozandó információknak.
 
-(9) Ha a hitelintézet tevékenysége és a nyilvánosság igénye ezt szükségessé teszi, akkor a Felügyelet a hitelintézetnek előírja
+(9) Ha a hitelintézet tevékenysége és a nyilvánosság igénye ezt szükségessé teszi, akkor az MNB a hitelintézetnek előírja
 
 - a) a (3) bekezdésben meghatározott információ – személyes adatokra, bank- és üzleti titokra vonatkozó szabályok megtartásával történő – nyilvánosságra hozatalát,
 - b) meghatározott információk éves nyilvánosságra hozatalnál gyakoribb nyilvánosságra hozatalát,
@@ -3619,19 +3597,17 @@ nem köteles nyilvánosságra hozni.
 
 ## VI. RÉSZ — A PÉNZÜGYI INTÉZMÉNYEK, PÉNZFORGALMI INTÉZMÉNYEKÉS AZ ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK TEVÉKENYSÉGÉNEK FELÜGYELETE
 
-### XXIII. Fejezet — A Felügyelet
+### XXIII. Fejezet — Az MNB
 
-138. § (1) A Felügyelet hatáskörét és jogállását külön törvény határozza meg.
-
-(2)
+138. §
 
 139. § (1)–(3)
 
-(4) A Felügyelet által nyújtott közigazgatási hatósági eljárások és szolgáltatások igénybevételéért fizetendő díjak körét és mértékét a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben állapítja meg.
+(4)
 
 ### A felügyeleti díj
 
-139/A. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+139/A. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet az MNB részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
 
@@ -3668,13 +3644,13 @@ nem köteles nyilvánosságra hozni.
 
 ### Engedélyezés
 
-140. § A Felügyelet a 3. §-ban és a 14–16. §-ban meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
+140. § Az MNB a 3. §-ban és a 14–16. §-ban meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
 
 141. §
 
 ### Adatszolgáltatás
 
-142. § (1) A hitelintézet igazgatósága a Felügyeletnek és az MNB-nek haladéktalanul – írásban – bejelenti, ha
+142. § (1) A hitelintézet igazgatósága az MNB-nek haladéktalanul – írásban – bejelenti, ha
 
 - a) az azonnali fizetésképtelenség (illikviditás) veszélye következett be,
 - b) a hitelintézet tevékenységi körét érintő veszélyhelyzet – pl. fizetésképtelenség (inszolvencia) – alakul ki,
@@ -3682,21 +3658,21 @@ nem köteles nyilvánosságra hozni.
 - d) fizetéseit megszüntette, illetőleg
 - e) működését – pénzügyi szolgáltatási tevékenységét – megszüntette.
 
-(2) A hitelintézet igazgatósága köteles a Felügyeletnek két munkanapon belül – írásban – bejelenteni
+(2) A hitelintézet igazgatósága köteles az MNB-nek két munkanapon belül – írásban – bejelenteni
 
 - a)
 - b) a jegyzett tőke felemelését vagy leszállítását,
 - c) az egyes pénzügyi szolgáltatási tevékenységek szüneteltetését, korlátozását, megszüntetését,
 
-(3) Fióktelep formájában működő hitelintézet esetén az (1)–(2) bekezdés szerinti bejelentést a fióktelep vezető állású személye teszi meg, valamint a Felügyeletnek és az MNB-nek haladéktalanul – írásban – bejelenti azt is, ha
+(3) Fióktelep formájában működő hitelintézet esetén az (1)–(2) bekezdés szerinti bejelentést a fióktelep vezető állású személye teszi meg, valamint az MNB-nek haladéktalanul – írásban – bejelenti azt is, ha
 
 - a) eszköz fenntartási mutatója száz százalék alá csökkent,
 - b) a külföldi hitelintézet vagy annak bármely államban működő fióktelepe fizetésképtelenné vált,
 - c) a külföldi hitelintézet főirodája, illetőleg székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-143. § A pénzügyi intézmény és magyarországi fióktelepe, a pénzforgalmi intézmény és magyarországi fióktelepe, az elektronikuspénz-kibocsátó intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – az MNB-nek és a Felügyeletnek adatszolgáltatást teljesít.
+143. § A pénzügyi intézmény és magyarországi fióktelepe, a pénzforgalmi intézmény és magyarországi fióktelepe, az elektronikuspénz-kibocsátó intézmény és magyarországi fióktelepe és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként – az MNB-nek adatszolgáltatást teljesít.
 
-144. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
+144. § A pénzügyi intézmény számára az MNB – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
 
 - a) a likviditás,
 - b) a szolvencia,
@@ -3709,11 +3685,11 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 144/A. § A magyarországi bejegyzésű hitelintézet köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett, vagy ezen viszony módosul, illetőleg megszűnik.
 
-145. § A Felügyelet a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbülső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
+145. § Az MNB a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbülső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
 
 ### Felügyeleti felülvizsgálat
 
-145/A. § (1) A Felügyelet felülvizsgálja a hitelintézet tőkemegfelelésével összefüggő szabályzatokat, stratégiákat, eljárásokat és módszereket, valamint értékeli a hitelintézet kockázatait.
+145/A. § (1) Az MNB felülvizsgálja a hitelintézet tőkemegfelelésével összefüggő szabályzatokat, stratégiákat, eljárásokat és módszereket, valamint értékeli a hitelintézet kockázatait.
 
 (2) Az (1) bekezdés szerinti felülvizsgálatnak és értékelésnek a hitel-, piaci- és működési kockázatokon kívül ki kell terjednie:
 
@@ -3724,34 +3700,34 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - e) a hitelportfólió-megoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
 - f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó hitelintézet által végrehajtott stressz-teszt eredményekre,
 - g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre, és
-- h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
+- h) egy olyan mérési vizsgálatra, amelynek keretében az MNB megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
 - i) arra, hogy a hitelintézet által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is.
 
-(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a hitelintézet pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
+(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében az MNB a hitelintézet pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
 
-(3) Az (1)–(2) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a hitelintézet által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a hitelintézet szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+(3) Az (1)–(2) bekezdés szerinti felülvizsgálat és értékelés alapján az MNB-nek meg kell határoznia, hogy a hitelintézet által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a hitelintézet szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 
-(4) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető hitelintézetnél arra is kiterjed, hogy a hitelintézet által elszámolt értékvesztés és képzett céltartalék lehetővé teszik-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
+(4) Az MNB által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető hitelintézetnél arra is kiterjed, hogy a hitelintézet által elszámolt értékvesztés és képzett céltartalék lehetővé teszik-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
 
-(5) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg a Felügyelet azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
+(5) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg az MNB azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
 
-(6) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.
+(6) Az MNB által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.
 
 ### Csoportszintű felügyeleti felülvizsgálat
 
-146. § (1) Ha a Felügyelet a konszolidáló felügyeleti hatóság, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával közösen, mindazon összevont felügyelet alá tartozó vállalkozások csoportszintű kockázatelemzését tartalmazó jelentés a Felügyelet által a többi hatáskörrel rendelkező felügyeleti hatóságnak történő megküldését követő négy hónapon belül írásbeli, indokolt határozatban együtt dönt arról, hogy a csoport szavatolótőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének, kockázati profiljának, és amennyiben pótlólagos tőkekövetelmény előírására kerül sor, annak mértékéről összevont alapon vagy a csoport tagjára nézve. A határozatban figyelembe kell venni a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának leányvállalatról készített kockázatértékeléseit is.
+146. § (1) Ha az MNB a konszolidáló felügyeleti hatóság, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával közösen, mindazon összevont felügyelet alá tartozó vállalkozások csoportszintű kockázatelemzését tartalmazó jelentés az MNB által a többi hatáskörrel rendelkező felügyeleti hatóságnak történő megküldését követő négy hónapon belül írásbeli, indokolt határozatban együtt dönt arról, hogy a csoport szavatolótőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének, kockázati profiljának, és amennyiben pótlólagos tőkekövetelmény előírására kerül sor, annak mértékéről összevont alapon vagy a csoport tagjára nézve. A határozatban figyelembe kell venni a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának leányvállalatról készített kockázatértékeléseit is.
 
-(2) Az (1) bekezdésben foglalt eljárás során a Felügyelet az Európai Bankhatósággal egyeztetést folytathat, és amennyiben a felügyeleti hatóságok közötti egyet nem értés miatt egy másik tagállam hatáskörrel rendelkező felügyeleti hatósága azt kéri, egyeztetést folytat. Az Európai Bankhatóság ajánlását a Felügyeletnek figyelembe kell vennie, vagy indokolnia kell az ettől való jelentős eltérést.
+(2) Az (1) bekezdésben foglalt eljárás során az MNB az Európai Bankhatósággal egyeztetést folytathat, és amennyiben a felügyeleti hatóságok közötti egyet nem értés miatt egy másik tagállam hatáskörrel rendelkező felügyeleti hatósága azt kéri, egyeztetést folytat. Az Európai Bankhatóság ajánlását az MNB-nek figyelembe kell vennie, vagy indokolnia kell az ettől való jelentős eltérést.
 
-(3) Ha a hatóságok az (1) bekezdésben foglalt eljárás során a határozatot négy hónapon belül nem hozzák meg, a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről a leányvállalatok kockázatelemzésének és az Európai Unió tagállamainak hatáskörrel rendelkező felügyeleti hatóságai véleményének figyelembevételével a Felügyelet hozza meg.
+(3) Ha a hatóságok az (1) bekezdésben foglalt eljárás során a határozatot négy hónapon belül nem hozzák meg, a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről a leányvállalatok kockázatelemzésének és az Európai Unió tagállamainak hatáskörrel rendelkező felügyeleti hatóságai véleményének figyelembevételével az MNB hozza meg.
 
-(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak, az EU-szintű pénzügyi holding társaság anyavállalatnak vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak.
+(4) Az MNB a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak, az EU-szintű pénzügyi holding társaság anyavállalatnak vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak.
 
-(5) A Felügyelet a határozat alapjául szolgáló tényállást évente, vagy ha a leányvállalat felügyeletéért felelős illetékes hatóság a pótlólagos tőkekövetelmény előírására vonatkozóan írásban, indokolt esetben kérelmezi, felülvizsgálja. Az utóbbi esetben a felülvizsgálat kétoldalúan is történhet.
+(5) Az MNB a határozat alapjául szolgáló tényállást évente, vagy ha a leányvállalat felügyeletéért felelős illetékes hatóság a pótlólagos tőkekövetelmény előírására vonatkozóan írásban, indokolt esetben kérelmezi, felülvizsgálja. Az utóbbi esetben a felülvizsgálat kétoldalúan is történhet.
 
-(6) Ha nem a Felügyelet a konszolidáló felügyeleti hatóság, a csoport szavatoló tőkéjének megfelelőségére és pótlólagos tőkekövetelményére vonatkozó konszolidáló felügyeleti hatóság által hozott határozat Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a konszolidáló felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. A Felügyelet által felügyelt szervezet tekintetében a csoport szavatoló tőkéjére és pótlólagos tőkekövetelményére vonatkozó másik tagállami hatáskörrel rendelkező felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+(6) Ha nem az MNB a konszolidáló felügyeleti hatóság, a csoport szavatoló tőkéjének megfelelőségére és pótlólagos tőkekövetelményére vonatkozó konszolidáló felügyeleti hatóság által hozott határozat Magyarországon közvetlenül alkalmazandó és végrehajtható. Az MNB a konszolidáló felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. Az MNB által felügyelt szervezet tekintetében a csoport szavatoló tőkéjére és pótlólagos tőkekövetelményére vonatkozó másik tagállami hatáskörrel rendelkező felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre az MNB által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
-(7) Ha nem a Felügyelet a konszolidáló hatóság és a hatóságok négy hónapon belül nem döntenek együttesen a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről, a Felügyelet hoz határozatot a magyarországi székhelyű hitelintézetek pótlólagos tőkekövetelményéről.
+(7) Ha nem az MNB a konszolidáló hatóság és a hatóságok négy hónapon belül nem döntenek együttesen a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről, az MNB hoz határozatot a magyarországi székhelyű hitelintézetek pótlólagos tőkekövetelményéről.
 
 147. § (1)
 
@@ -3767,82 +3743,79 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 ### Az intézkedések, a kivételes intézkedésekés a bírság alkalmazásának közös szabályai
 
-150. § (1) A Felügyelet – az (1a) bekezdésben meghatározott eltéréssel – a pénzügyi intézménnyel, pénzforgalmi intézménnyel és elektronikuspénz-kibocsátó intézménnyel szemben alkalmazott intézkedés és kivételes intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg az MNB-t, valamint – ha a határozat az Alap e törvény szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a pénzügyi intézménynek az Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor, akkor – az Alapot értesíti.
+150. § (1) Ha a határozat az Alap e törvény szerinti feladatainak ellátására kihathat, vagy a határozat meghozatalára a pénzügyi intézménynek az Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor, akkor a határozatnak a pénzügyi intézménnyel történő közlésével egyidejűleg az MNB értesíti az Alapot a pénzügyi intézménnyel szemben alkalmazott intézkedésről, kivételes intézkedésről és a bírság kiszabásáról.
 
-(1a) Ha a Felügyelet megítélése szerint fennáll annak beszélye, hogy a hitelintézet nem fogja betartani az azonnali fizetőképességre vagy a likviditás minimális szintjére vonatkozó előírásokat, haladéktalanul értesíti az MNB-t. Az azonnali fizetőképesség vagy a likviditás minimális szintjére vonatkozó előírások betartását célzó intézkedésekről a Felügyeletnek – annak meghozatala előtt – ki kell kérnie az MNB véleményét. Az MNB a véleményéről haladéktalanul értesíti a Felügyeletet.
+(2) Az MNB akkor is értesíti az Alapot, ha a hitelintézet anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely az Alap e törvény szerinti feladatainak ellátására kihathat.
 
-(2) A Felügyelet akkor is értesíti az MNB-t és az Alapot, ha a hitelintézet anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely az Alap e törvény szerinti feladatainak ellátására kihathat.
+151. § (1) Az MNB-nek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye vagy tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra vagy a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb jogszabályok előírásait vagy a tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen, ha
 
-151. § (1) A Felügyeletnek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, illetőleg tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásait, illetőleg tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen
-
-- a) döntési, illetőleg eljárási szabályzatai nem felelnek meg az előírásoknak, illetőleg a működés során ezeket nem tartja be,
-- b) számviteli, nyilvántartási és ellenőrzési rendszere nem felel meg a mindenkor hatályos jogszabályok rendelkezéseinek,
-- c) határidőben nem tesz eleget a Felügyelettel, a részvényeseivel, az Alappal szemben fennálló adatszolgáltatási, jelentési, illetőleg tájékoztatási kötelezettségének,
-- d) a könyvvizsgálójának tevékenysége nem felel meg a jogszabályi rendelkezéseknek, vagy késedelmesen, pontatlanul tájékoztatja az igazgatóságot, felügyelő bizottságot, illetve a Felügyeletet a pénzügyi intézménynél tapasztalt jogszabálysértésekről, hiányosságokról és egyéb – a prudens működését veszélyeztető – problémákról,
-- e) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelményt,
+- a) a döntési, eljárási szabályzatai nem felelnek meg az előírásoknak vagy a működés során ezeket nem tartja be,
+- b) a számviteli, nyilvántartási és ellenőrzési rendszere nem felel meg a mindenkor hatályos jogszabályok rendelkezéseinek,
+- c) a határidőben nem tesz eleget az MNB-vel, a részvényeseivel, az Alappal szemben fennálló adatszolgáltatási, jelentési vagy tájékoztatási kötelezettségének,
+- d) a könyvvizsgálójának tevékenysége nem felel meg a jogszabályi rendelkezéseknek, vagy késedelmesen, pontatlanul tájékoztatja az igazgatóságot, felügyelőbizottságot, vagy az MNB-t pénzügyi intézménynél tapasztalt jogszabálysértésekről, hiányosságokról és egyéb – a prudens működését veszélyeztető – problémákról,
+- e) a szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében, 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelményt,
 - f) a kockázatvállalásra, a kockázatok megállapítására, elemzésére, értékelésére és behatárolására, a kockázatvállalás ellenőrzésére, a kockázatok kezelésére, továbbá csökkentésére vonatkozó szabályok valamelyikét megsérti,
-- g) elmulasztja a közgyűlésnek a Felügyelet intézkedéseiről történő tájékoztatását,
-- h) ha fennáll annak veszélye, hogy a hitelintézet nem fogja betartani az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat,
+- g) elmulasztja a közgyűlésnek az MNB intézkedéseiről történő tájékoztatását,
+- h) fennáll annak veszélye, hogy a hitelintézet nem fogja betartani az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat,
 - i) nem tesz eleget tartalékképzési kötelezettségének,
-- j) nem teljesíti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt kötelezettségét.
-- k) ha a pénzügyi intézmény nem tesz eleget a 115. § (6) bekezdésében foglalt kötelezettségének.
+- j) nem teljesíti Pmt.-ben előírt kötelezettségét,
+- k) a pénzügyi intézmény nem tesz eleget a 115. § (6) bekezdésében foglalt kötelezettségének.
 
-(2) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155–156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
+(2) Az MNB-nek e törvény, továbbá a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységére vonatkozó egyéb jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155. § és 156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
 - a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
 - b) működése során nem tud folyamatosan megfelelni egyes, az e törvényben meghatározott engedélyezési feltételeknek,
-- c) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelmény hetvenöt százalékát,
-- d) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében rögzített tőkekövetelményt, illetve az adott évben általános tartalékát nem képezte meg,
+- c) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1) és (2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1) és (2) bekezdésében, 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1) és (2) bekezdésében rögzített tőkekövetelmény hetvenöt százalékát,
+- d) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1) és (2) bekezdésében rögzített tőkekövetelményt, illetve az adott évben általános tartalékát nem képezte meg,
 - e) nem rendelkezik elégséges céltartalékkal, illetve eszközei értékelése nem megfelelő és emiatt szavatoló tőkéjét csökkentenie kell az el nem számolt céltartalékképzés, illetve értékvesztés összegével,
-- f) a kockázatvállalásra vonatkozó szabályokat rendszeresen, illetőleg jelentős mértékben megsérti (így például a megfelelő gondosság és körültekintés nélkül vállal kockázatokat),
-- g) könyvvizsgálójának tevékenysége nem felel meg a jogszabályi rendelkezéseknek, a könyvvizsgáló elmulasztja a hitelintézet igazgatóságának, felügyelő bizottságának, illetőleg a Felügyelet tájékoztatását a hitelintézetnél tapasztalt jogszabálysértésekről, hiányosságokról és egyéb – a hitelintézet prudens működését veszélyeztető – problémákról,
-- h) nem tud eleget tenni, vagy határidőben – ismétlődően – nem tesz eleget, a Felügyelettel, az MNB-vel, a részvényeseivel, az Alappal szemben fennálló adatszolgáltatási, jelentési, illetőleg tájékoztatási kötelezettségének,
-- i) akadályozza a Felügyeletet vagy a könyvvizsgálót tevékenységének végzésében,
-- j) az előírt, illetőleg a szükséges szabályzatok, nyilvántartások, informatikai és ellenőrzési rendszerek nélkül működik,
-- k) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
-- l) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést, illetőleg bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
-- m) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt,
-- n) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
+- f) a kockázatvállalásra vonatkozó szabályokat rendszeresen vagy jelentős mértékben megsérti (így például a megfelelő gondosság és körültekintés nélkül vállal kockázatokat),
+- g) nem tud eleget tenni vagy határidőben – ismétlődően – nem tesz eleget, az MNB-vel, a részvényeseivel, az Alappal szemben fennálló adatszolgáltatási, jelentési, vagy tájékoztatási kötelezettségének,
+- h) akadályozza az MNB-t vagy a könyvvizsgálót tevékenységének végzésében,
+- i) az előírt szabályzatok, nyilvántartások, informatikai és ellenőrzési rendszerek nélkül működik,
+- j) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
+- k) az (1) bekezdésben említett előírásokat – az MNB által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
+- l) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt,
+- m) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
 
-(3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
+(3) Az MNB-nek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, vagy kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
-- a) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelmény hatvan százalékát,
-- b) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében rögzített tőkekövetelmény ötven százalékát,
-- c) nem tesz eleget céltartalékképzési, illetve értékvesztés elszámolási kötelezettségének, illetőleg nem rendelkezik elégséges céltartalékkal, illetve elszámolt értékvesztéssel, azaz mérlegen kívüli tételeit és eszközeit nem megfelelően értékelte és emiatt az el nem számolt céltartalékképzés, illetve értékvesztés összegével csökkentett szavatoló tőke következtében fizetőképességi mutatója négy százalék alá csökken,
-- d) az azonnali fizetőképesség, illetőleg a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírások be nem tartásával a hitelintézet likviditásának fenntartását súlyosan veszélyezteti,
-- e) a kockázatvállalásra vonatkozó szabályokat rendszeresen, illetőleg jelentős mértékben megsérti, és ezzel a hitelintézet likviditását, fizetőképességét (szolvenciáját), illetőleg jövedelemtermelő képességét súlyosan veszélyezteti,
+- a) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1) és (2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1) és (2) bekezdésében, 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1) és (2) bekezdésében rögzített tőkekövetelmény hatvan százalékát,
+- b) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1) és (2) bekezdésében rögzített tőkekövetelmény ötven százalékát,
+- c) nem tesz eleget céltartalék-képzési, illetve értékvesztés elszámolási kötelezettségének, vagy nem rendelkezik elégséges céltartalékkal, illetve elszámolt értékvesztéssel, azaz mérlegen kívüli tételeit és eszközeit nem megfelelően értékelte és emiatt az el nem számolt céltartalékképzés, illetve értékvesztés összegével csökkentett szavatoló tőke következtében fizetőképességi mutatója négy százalék alá csökken,
+- d) az azonnali fizetőképesség vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírások be nem tartásával a hitelintézet likviditásának fenntartását súlyosan veszélyezteti,
+- e) a kockázatvállalásra vonatkozó szabályokat rendszeresen vagy jelentős mértékben megsérti, és ezzel a hitelintézet likviditását, fizetőképességét (szolvenciáját) vagy jövedelemtermelő képességét súlyosan veszélyezteti,
 - f) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet folytat rendszeresen,
 - g) működése során nem tud megfelelni az e törvényben meghatározott engedélyezési feltételeknek,
-- h) a szükséges számviteli, vezetői információs, illetőleg belső ellenőrzési rendszer nélkül működik, vagy e rendszerek nem teszik lehetővé a hitelintézet tényleges pénzügyi helyzetének megállapítását,
-- i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet, illetve a betétesek számára,
-- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy a mérleg szerinti eredmény, illetőleg a tőkekövetelmény módosítása céljából,
-- k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
-- l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, illetőleg bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti,
+- h) a szükséges számviteli, vezetői információs, vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a hitelintézet tényleges pénzügyi helyzetének megállapítását,
+- i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet vagy a betétesek számára,
+- j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy a mérleg szerinti eredmény, vagy a tőkekövetelmény módosítása céljából,
+- k) könyvvizsgálója elmulasztja az MNB, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
+- l) az (1) bekezdésben említett előírásokat – az MNB által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül–ismételten megsérti,
 - m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.
 
-(4) A Felügyeletnek a (3) bekezdésen kívül akkor is meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha
+(4) Az MNB-nek a (3) bekezdésen kívül akkor is meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha
 
 - a) a harmadik országbeli hitelintézet fióktelepének eszköz fenntartási mutatója száz százalék alá csökken,
 - b) a külföldi hitelintézet, valamint bármely államban működő fióktelepe fizetésképtelenné vált.
 
-(5) A Felügyelet intézkedést tehet továbbá, ha a harmadik országbeli hitelintézet székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben olyan ok miatt alkalmazott intézkedést, szankciót, amely a fióktelep biztonságos működését érinti.
+(5) Az MNB intézkedést tehet továbbá, ha a harmadik országbeli hitelintézet székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben olyan ok miatt alkalmazott intézkedést, szankciót, amely a fióktelep biztonságos működését érinti.
 
-(6) A Felügyeletnek akkor is meg kell tennie a szükséges intézkedéseket, kivételes intézkedéseket, ha a 145/A. § szerinti felügyeleti felülvizsgálat és értékelés alapján a hitelintézet
+(6) Az MNB-nek akkor is meg kell tennie a szükséges intézkedéseket, kivételes intézkedéseket, ha a 145/A. § szerinti felügyeleti felülvizsgálat és értékelés alapján a hitelintézet
 
 - a) szavatoló tőkéje nem biztosítja a kockázatok fedezetét és megbízható kezelését, vagy
 - b) irányítási rendszere, vállalatirányítási rendszere és kockázatkezelése, belső tőkemegfelelés értékelési folyamata, nagykockázatainak kezelése nem felel meg az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott követelményeknek.
 
-(7) Ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, a Felügyelet a vele szemben alkalmazandó kivételes intézkedés előtt – a (8) bekezdésben meghatározott eltéréssel – előzetesen egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre a hitelintézettel együttesen a 90. § (2) bekezdés szerinti összevont alapú felügyelet kiterjed.
+(7) Ha a hitelintézet összevont alapú felügyelet alá tartozik, illetve a hitelintézetre az összevont alapú felügyelet kiterjed, az MNB a vele szemben alkalmazandó kivételes intézkedés előtt – a (8) bekezdésben meghatározott eltéréssel – előzetesen egyeztet azon tagállam illetékes felügyeleti hatóságával, amelynek székhelyén olyan hitelintézet található, amelyre a hitelintézettel együttesen a 90. § (2) bekezdés szerinti összevont alapú felügyelet kiterjed.
 
-(8) A kivételes intézkedésről szóló határozat meghozatala előtt a Felügyelet nem köteles egyeztetni a másik tagállam illetékes felügyeleti hatóságával, ha az egyeztetéshez szükséges időtartam veszélyezteti a határozat végrehajthatóságát. Ebben az esetben a határozat meghozataláról a Felügyelet a másik tagállam illetékes felügyeleti hatóságát haladéktalanul tájékoztatja.
+(8) A kivételes intézkedésről szóló határozat meghozatala előtt az MNB nem köteles egyeztetni a másik tagállam illetékes felügyeleti hatóságával, ha az egyeztetéshez szükséges időtartam veszélyezteti a határozat végrehajthatóságát. Ebben az esetben a határozat meghozataláról az MNB a másik tagállam illetékes felügyeleti hatóságát haladéktalanul tájékoztatja.
 
 152. §
 
-152/A. § Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet a 145/A. § (2) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva, akkor meg kell tennie a szükséges intézkedéseket.
+152/A. § Ha az MNB a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet a 145/A. § (2) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva, akkor meg kell tennie a szükséges intézkedéseket.
 
 ### Intézkedések
 
-153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
+153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – az MNB a következő intézkedéseket alkalmazza:
 
 - a) a vezető állású személlyel folytatott tárgyalás keretében a pénzügyi intézményt felhívhatja, hogy tegye meg a szükséges intézkedéseket 1. e törvény, illetőleg a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére, 2. pénzügyi helyzetének megőrzésére, illetőleg javítására;
 - b) javaslatot tehet a pénzügyi intézménynek 1. az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 2. üzletszabályzat, illetve belső szabályzat meghatározott határidőn belüli kidolgozására vagy meghatározott szempontok szerinti átdolgozására, 3. ügyvezetési módszereinek megváltoztatására;
@@ -3852,62 +3825,62 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - f) határozattal megállapítja a jogsértés tényét, s egyben elrendeli a jogsértő állapot megszüntetését, illetőleg megtiltja a jogszabályba ütköző magatartás további folytatását;
 - g) kötelezheti a hitelintézetet az irányítási rendszerére, vállalatirányítási rendszerére és kockázatkezelési rendszerére, valamint a belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére.
 
-(2) A 151. § (2) és (6) bekezdése szerinti esetekben a Felügyelet a következő intézkedéseket alkalmazza:
+(2) A 151. § (2) és (6) bekezdése szerinti esetekben az MNB a következő intézkedéseket alkalmazza:
 
 - a) a pénzügyi intézményhez – egy vagy több – helyszíni ellenőrt rendelhet ki;
 - b) kötelezheti a pénzügyi intézményt 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetőleg alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetőleg megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. az okozott kárért való felelősség megállapítása érdekében vizsgálat lefolytatására, és a felelőssel szembeni eljárás kezdeményezésére, 4. a működési költségek csökkentésére, 5. megfelelő nagyságú tartalékok képzésére, 6. az igazgatóság, illetőleg a felügyelő bizottság összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét, 7. helyreállítási terv kidolgozására és végrehajtására, 8. más könyvvizsgáló választására; 9. a 76. § (2) bekezdése szerinti többlet-tőkekövetelmény elérésére azzal, hogy a hitelintézetnek ez a többlet-tőkekövetelménye nem lehet magasabb, mint a 76. § (1) bekezdés szerinti tőkekövetelmény;
 - c) megtilthatja, korlátozhatja vagy feltételhez kötheti 1. az osztalék kifizetését, 2. a vezető tisztségviselők díjainak kifizetését, 3. a pénzügyi intézmény tulajdonosainak kölcsönfelvételét, illetőleg, hogy a hitelintézet részükre kockázatvállalással járó szolgáltatást nyújtson, 4. a tulajdonosok és a vezető tisztségviselők érdekeltségi körébe tartozó vállalkozások részére a pénzügyi intézmény által történő kölcsön nyújtását, 5. a hitel- vagy kölcsönszerződésekben foglalt határidők meghosszabbítását (prolongálását), 6. az egyes pénzügyi szolgáltatási tevékenységek vagy kiegészítő pénzügyi szolgáltatási tevékenységek végzését, 7. új fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
 - d) kötelezheti a hitelintézetet, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a hitelintézet prudenciális követelményeknek való megfelelésével.
 
-(2a) A (2) bekezdés b) pont 9. alpontja szerinti többlettőke-követelmény mértékének meghatározásakor a Felügyeletnek figyelembe kell vennie:
+(2a) A (2) bekezdés b) pont 9. alpontja szerinti többlettőke-követelmény mértékének meghatározásakor az MNB-nek figyelembe kell vennie:
 
 - a) a hitelintézet belső tőkemegfelelés értékelési folyamatának [76/K. §] mennyiségi és minőségi szempontjait,
 - b) a hitelintézet irányítási és kockázatkezelési rendszerének [13/D. §] megfelelőségét és
 - c) a hitelintézetnél végrehajtott felügyeleti felülvizsgálat [145/A. §] eredményét.
 
-(3) Ha a fióktelep formájában működő hitelintézet eszköz fenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszköz fenntartási mutatóra vonatkozó előírásoknak.
+(3) Ha a fióktelep formájában működő hitelintézet eszköz fenntartási mutatója száz százalék alá csökken, az MNB kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszköz fenntartási mutatóra vonatkozó előírásoknak.
 
-154. § A Felügyelet által a 153. § (2) bekezdésének a) pontja alapján kirendelt helyszíni ellenőr jogosult
+154. § Az MNB által a 153. § (2) bekezdésének a) pontja alapján kirendelt helyszíni ellenőr jogosult
 
 - a) a 146. § (3) bekezdésben foglaltaknak megfelelően bármely ellenőrzési tevékenység ellátására;
 - b) megfigyelőként részt venni és felszólalni az ügyvezetés, az igazgatóság vagy a felügyelő bizottság ülésén, illetve a közgyűlésen;
 - c) konzultálni a pénzügyi intézmény könyvvizsgálójával.
 
-155. § (1) Ha a Felügyelet helyreállítási terv elfogadását is szükségesnek tartja, annak kidolgozására legfeljebb harmincnapos határidőt engedélyezhet.
+155. § (1) Ha az MNB helyreállítási terv elfogadását is szükségesnek tartja, annak kidolgozására legfeljebb harmincnapos határidőt engedélyezhet.
 
-(2) Ha a helyreállítási terv elfogadásához, illetve tőkeemelés szükségessége miatt rendkívüli közgyűlés megtartása szükséges, akkor a Felügyelet az (1) bekezdésben meghatározott határidő legfeljebb huszonegy napos meghosszabbítását engedélyezheti. Ha a közgyűlés a tőkeemelésről, illetőleg az alárendelt kölcsöntőke, alapvető kölcsöntőke nyújtásáról határozott, e határozat meghozatalától további legfeljebb tizenöt nap engedélyezhető a tőkeösszeg befizetésére.
+(2) Ha a helyreállítási terv elfogadásához, illetve tőkeemelés szükségessége miatt rendkívüli közgyűlés megtartása szükséges, akkor az MNB az (1) bekezdésben meghatározott határidő legfeljebb huszonegy napos meghosszabbítását engedélyezheti. Ha a közgyűlés a tőkeemelésről, illetőleg az alárendelt kölcsöntőke, alapvető kölcsöntőke nyújtásáról határozott, e határozat meghozatalától további legfeljebb tizenöt nap engedélyezhető a tőkeösszeg befizetésére.
 
-156. § A Felügyelet a pénzügyi intézmény részére a helyreállítási tervben foglaltak végrehajtása érdekében, meghatározott időre, de legfeljebb egy évre a 76. §-ban, valamint a 79–81. §-okban, valamint a 83–85. §-okban foglalt kötelezettségek teljesítése alól felmentést adhat. Ezt a felmentést a Felügyelet egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.
+156. § Az MNB a pénzügyi intézmény részére a helyreállítási tervben foglaltak végrehajtása érdekében, meghatározott időre, de legfeljebb egy évre a 76. §-ban, valamint a 79–81. §-okban, valamint a 83–85. §-okban foglalt kötelezettségek teljesítése alól felmentést adhat. Ezt a felmentést az MNB egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.
 
 ### Kivételes intézkedések
 
-157. § (1) A 151. § (3) bekezdése szerinti esetekben a Felügyelet – a 153. § (2) és (3) bekezdésében megjelölt intézkedéseken túlmenően – a következő, csődeljárást helyettesítő kivételes intézkedéseket alkalmazza:
+157. § (1) A 151. § (3) bekezdése szerinti esetekben az MNB – a 153. § (2) és (3) bekezdésében megjelölt intézkedéseken túlmenően – a következő, csődeljárást helyettesítő kivételes intézkedéseket alkalmazza:
 
-- a) előírhatja 1. a hitelintézet nem banküzemi célú eszközeinek eladását, 2. hogy a pénzügyi intézmény, a pénzforgalmi intézmény a Felügyelet által megállapított határidőn belül és követelményeknek megfelelően – ideértve az eszközök eladását is – rendezze tőkeszerkezetét, 3. a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel a 76. § (1)–(2) bekezdésében meghatározott mértéket meghaladó tőkekövetelmény elérését, amely nem lehet magasabb, mint a 76. § (1) bekezdésében meghatározott tőkekövetelmény értéke;
+- a) előírhatja 1. a hitelintézet nem banküzemi célú eszközeinek eladását, 2. hogy a pénzügyi intézmény, a pénzforgalmi intézmény az MNB által megállapított határidőn belül és követelményeknek megfelelően – ideértve az eszközök eladását is – rendezze tőkeszerkezetét, 3. a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel a 76. § (1)–(2) bekezdésében meghatározott mértéket meghaladó tőkekövetelmény elérését, amely nem lehet magasabb, mint a 76. § (1) bekezdésében meghatározott tőkekövetelmény értéke;
 - b) korlátozhatja, illetőleg megtilthatja a hitelintézet számára 1. a tulajdonosok és a hitelintézet közötti ügyleteket, 2. a betétek és más visszafizetendő források kifizetését, 3. a kötelezettségek vállalását;
 - c) meghatározhatja a hitelintézet által kiköthető kamat legnagyobb mértékét;
 - d) kötelezheti az igazgatóságot a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét; illetőleg
 - e) felügyeleti biztost rendelhet ki a pénzügyi intézményhez és a pénzforgalmi intézményhez;
 - f) visszavonhatja annak a vezető állású személynek a megválasztására, illetőleg a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél és a pénzforgalmi intézménynél más vezető állású személy megválasztását, illetőleg kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
 
-(2) Az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg a Felügyelet felszólíthatja a szükséges intézkedések megtételére a pénzügyi intézmény
+(2) Az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg az MNB felszólíthatja a szükséges intézkedések megtételére a pénzügyi intézmény
 
 - a) részvénykönyvben, szövetkezeti formában működő pénzügyi intézmény esetén tagnyilvántartásban, nyilvántartott tulajdonosai közül az öt százalékot elérő vagy meghaladó közvetlen tulajdoni hányaddal, továbbá
 - b) minősített befolyással
 
 rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalkozás esetében alapítóit.
 
-(3) Harmadik országbeli hitelintézet fióktelepe esetében az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg a Felügyelet értesíti a harmadik országbeli hitelintézetet és annak felügyeleti hatóságát.
+(3) Harmadik országbeli hitelintézet fióktelepe esetében az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg az MNB értesíti a harmadik országbeli hitelintézetet és annak felügyeleti hatóságát.
 
-(4) A Felügyelet a (2) bekezdés szerinti felszólítással egyidejűleg értesíti a pénzügyi intézmény igazgatóságát, felügyelő bizottságát, valamint könyvvizsgálóját, és felszólítja az igazgatóságot a 153. § (2) bekezdésének b) pontjában felsorolt egyes intézkedések haladéktalan megtételére.
+(4) Az MNB a (2) bekezdés szerinti felszólítással egyidejűleg értesíti a pénzügyi intézmény igazgatóságát, felügyelő bizottságát, valamint könyvvizsgálóját, és felszólítja az igazgatóságot a 153. § (2) bekezdésének b) pontjában felsorolt egyes intézkedések haladéktalan megtételére.
 
-(5) Az (1) bekezdés b), c) és e) pontjaiban meghatározott kivételes intézkedéseket – a b) pont 2. alpontjában foglaltak kivételével – a Felügyelet határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt a Felügyelet egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.
+(5) Az (1) bekezdés b), c) és e) pontjaiban meghatározott kivételes intézkedéseket – a b) pont 2. alpontjában foglaltak kivételével – az MNB határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt az MNB egy alkalommal, legfeljebb hat hónapra meghosszabbíthatja.
 
-(6) Az (1) bekezdés b) pontjának 2. alpontjában meghatározott intézkedést a Felügyelet legfeljebb kilencven napra rendelheti el.
+(6) Az (1) bekezdés b) pontjának 2. alpontjában meghatározott intézkedést az MNB legfeljebb kilencven napra rendelheti el.
 
 (7) Nyilvánosan működő részvénytársaság esetében az (1) bekezdés d) pontjának alkalmazásakor a Gt.-től eltérően a közgyűlést annak kezdőnapját huszonegy nappal megelőzően kell összehívni.
 
-(8) Ha a Felügyelet az (1) bekezdés b) pontjának 1–2. alpontjában foglalt kivételes intézkedést alkalmaz, haladéktalanul köteles tájékoztatni az Európai Unió azon tagállamainak felügyeleti hatóságait, amelyekben az intézkedéssel érintett hitelintézet fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
+(8) Ha az MNB az (1) bekezdés b) pontjának 1–2. alpontjában foglalt kivételes intézkedést alkalmaz, haladéktalanul köteles tájékoztatni az Európai Unió azon tagállamainak felügyeleti hatóságait, amelyekben az intézkedéssel érintett hitelintézet fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
 
 158. § (1) A hitelintézet igazgatósága a 157. § (1) bekezdésében meghatározott értesítés kézhezvételét követően haladéktalanul intézkedik aziránt, hogy a tulajdonosok
 
@@ -3917,19 +3890,19 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (2) Ha az (1) bekezdésben felsorolt intézkedések megtörténtek, a tulajdonosok [157. § (2) bekezdése] a hitelintézettel szemben beszámítással nem élhetnek.
 
-(3) A tulajdonosok csak akkor mentesülnek a 157. § (2) bekezdésében szabályozott felszólításhoz fűződő jogkövetkezmények alól, ha részvényeik elidegenítését már a felszólítás kézhezvétele előtt legalább hatvan nappal a Felügyeletnek írásban bejelentették.
+(3) A tulajdonosok csak akkor mentesülnek a 157. § (2) bekezdésében szabályozott felszólításhoz fűződő jogkövetkezmények alól, ha részvényeik elidegenítését már a felszólítás kézhezvétele előtt legalább hatvan nappal az MNB-nek írásban bejelentették.
 
 (4) Az (1)–(2) bekezdésben felsorolt korlátozásokat a hitelintézet igazgatósága addig tartja érvényben, amíg a tulajdonosok az intézkedések megtételére szolgáló okot meg nem szüntetik, vagy a hitelintézet felszámolását a bíróság el nem rendeli.
 
-159. § (1) Ha a pénzügyi intézmény nem tesz eleget a 157. § (1) bekezdésének d) pontja szerinti felügyeleti intézkedésnek, a Felügyelet a cégbíróságnál kezdeményezheti a pénzügyi intézmény közgyűlésének összehívását.
+159. § (1) Ha a pénzügyi intézmény nem tesz eleget a 157. § (1) bekezdésének d) pontja szerinti felügyeleti intézkedésnek, az MNB a cégbíróságnál kezdeményezheti a pénzügyi intézmény közgyűlésének összehívását.
 
-(2) A Felügyeletnek az (1) bekezdés szerinti kérelemben javaslatot kell tennie a közgyűlés összehívásának helyére, idejére, napirendi pontjaira.
+(2) Az MNB-nek az (1) bekezdés szerinti kérelemben javaslatot kell tennie a közgyűlés összehívásának helyére, idejére, napirendi pontjaira.
 
 (3) A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
-160. § A Felügyelet a hatáskörébe tartozó pénzügyi intézmények tulajdonosainak szavazati jogát meghatározott időre, de legfeljebb egy évre a 157. § (1) bekezdésben felsorolt intézkedések mellett felfüggesztheti, ha a tulajdonos tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása a rendelkezésre álló tények alapján veszélyezteti a pénzügyi intézmény megbízható, biztonságos működését; ilyen esetben a határozatképesség megállapításánál a korlátozással érintett szavazatokat figyelmen kívül kell hagyni.
+160. § Az MNB a hatáskörébe tartozó pénzügyi intézmények tulajdonosainak szavazati jogát meghatározott időre, de legfeljebb egy évre a 157. § (1) bekezdésben felsorolt intézkedések mellett felfüggesztheti, ha a tulajdonos tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása a rendelkezésre álló tények alapján veszélyezteti a pénzügyi intézmény megbízható, biztonságos működését; ilyen esetben a határozatképesség megállapításánál a korlátozással érintett szavazatokat figyelmen kívül kell hagyni.
 
-161. § (1) A betétállomány és más visszafizetendő pénzeszköz – az átadó és az átvevő hitelintézet közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az állományátruházáshoz nem szükséges a szerződő fél hozzájárulása. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti engedélyét
+161. § (1) A betétállomány és más visszafizetendő pénzeszköz – az átadó és az átvevő hitelintézet közötti megállapodás alapján – az MNB engedélyével átruházható. Az állományátruházás során a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy az állományátruházáshoz nem szükséges a szerződő fél hozzájárulása. Az MNB engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti engedélyét
 
 (2) Az állományátruházás engedélyezése iránti kérelemnek tartalmaznia kell
 
@@ -3940,28 +3913,28 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) A szerződésállományt átvevő hitelintézet – az engedélyező határozat kézhezvételétől számított harminc napon belül – írásban köteles az átadásról minden érintett szerződő felet értesíteni. Bemutatóra szóló betét vagy értékpapír esetén az értesítést két országos napilapban hirdetményként kell közzétenni.
 
-(4) A Felügyelet az állományátruházás engedélyezését megtagadja, ha az veszélyezteti az átvevő, illetve az átadó hitelintézet által megkötött betétszerződésekben vállalt kötelezettségek teljesítését.
+(4) Az MNB az állományátruházás engedélyezését megtagadja, ha az veszélyezteti az átvevő, illetve az átadó hitelintézet által megkötött betétszerződésekben vállalt kötelezettségek teljesítését.
 
 (5) Az (1)–(4) bekezdésben foglaltak a fizetési művelet érdekében pénzforgalmi intézmény által átvett pénzeszköz szerződéses állományának átruházása esetén is alkalmazandók.
 
-162. § A Felügyelet a 153. §-ban, valamint a 157–160. §-ban meghatározott intézkedéseket, illetőleg kivételes intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten is alkalmazhatja.
+162. § Az MNB a 153. §-ban, valamint a 157–160. §-ban meghatározott intézkedéseket, illetőleg kivételes intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten is alkalmazhatja.
 
-163. § (1) A Felügyelet felügyeleti biztost rendelhet ki, különösen akkor, ha
+163. § (1) Az MNB felügyeleti biztost rendelhet ki, különösen akkor, ha
 
 - a) a pénzügyi intézmény olyan helyzetbe kerül, amelyben fennáll a veszélye, hogy a pénzügyi intézmény nem tud eleget tenni kötelezettségeinek,
 - b) a hitelintézet igazgatósága nem tudja ellátni feladatát és ez veszélyezteti a betétesek érdekeit,
 - c) a hitelintézet számvitelében vagy a belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlenné vált a hitelintézet valódi pénzügyi helyzetének értékelése,
 - d) a pénzforgalmi intézmény olyan helyzetbe kerül, amelyben fennáll a veszélye, hogy nem tud eleget tenni pénzügyi, kiegészítő pénzügyi szolgáltatásból eredő kötelezettségeinek.
 
-(2) A Felügyelet köteles a hitelintézethez felügyeleti biztost kirendelni, ha
+(2) Az MNB köteles a hitelintézethez felügyeleti biztost kirendelni, ha
 
 - a) a hitelintézet szavatoló tőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelményt, és
-  - aa) a Felügyelet kivételes intézkedése ellenére az igazgatóság a közgyűlést nem hívja össze, vagy
-  - ab) a tulajdonos vagy a harmadik országbeli hitelintézet nem képes, illetőleg nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és a Felügyelet határozatában előírt szintre felemelni, vagy
-  - ac) a Felügyelet által jóváhagyott helyreállítási tervben foglaltakat nem, vagy csak jelentős késedelemmel, illetőleg eltérésekkel hajtják végre, vagy
+  - aa) az MNB kivételes intézkedése ellenére az igazgatóság a közgyűlést nem hívja össze, vagy
+  - ab) a tulajdonos vagy a harmadik országbeli hitelintézet nem képes, illetőleg nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és az MNB határozatában előírt szintre felemelni, vagy
+  - ac) az MNB által jóváhagyott helyreállítási tervben foglaltakat nem, vagy csak jelentős késedelemmel, illetőleg eltérésekkel hajtják végre, vagy
 - b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelmény ötven százalékát, vagy
-- c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
-- d) a szövetkezeti hitelintézet működési engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
+- c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja az MNB-t, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
+- d) a szövetkezeti hitelintézet működési engedélyét az MNB a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
 
 (3)
 
@@ -3973,38 +3946,38 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 165. § (1) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(2) Az (1) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
+(2) Az (1) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és az MNB által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
 
-166. § Ha a Felügyelet a 153. § (2) bekezdés c) pont 6. alpontja, a 176/B. § (5) bekezdése és a 181. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való értesítés kézhezvételét követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerben tagsággal rendelkező intézmény javára érkező fizetési megbízásoknak a fizetési rendszer általi elszámolását, kiegyenlítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét, ideértve a Tvt. 9. § (4) bekezdésével kijelölt rendszer vonatkozásában az MNB-t is – és a Tvt. szerinti kijelölt rendszer esetén a kijelölő hatóságot.
+166. § Ha az MNB a 153. § (2) bekezdés c) pont 6. alpontja, a 176/B. § (5) bekezdése és a 181. § (2) bekezdése szerinti intézkedését a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való értesítés kézhezvételét követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerben tagsággal rendelkező intézmény javára érkező fizetési megbízásoknak a fizetési rendszer általi elszámolását, kiegyenlítését átmenetileg vagy véglegesen megtiltani. Az MNB ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
 
 167. §
 
-168. § (1) A hitelintézettel szemben fennálló a 157. § (1) bekezdésének b) pontjában, illetőleg a 158. § (1) bekezdésének a) pontjában említett követelések e törvény szempontjából nem minősülnek befagyott betétnek.Nem minősül befagyott betétnek a Felügyelet 176/B. § (5) bekezdése alapján elrendelt kifizetési tilalma miatt nem kifizethető betét, a végelszámolást kimondó határozat meghozatalától számított tizenöt napig.
+168. § (1) A hitelintézettel szemben fennálló a 157. § (1) bekezdésének b) pontjában, illetőleg a 158. § (1) bekezdésének a) pontjában említett követelések e törvény szempontjából nem minősülnek befagyott betétnek. Nem minősül befagyott betétnek az MNB 176/B. § (5) bekezdése alapján elrendelt kifizetési tilalma miatt nem kifizethető betét, a végelszámolást kimondó határozat meghozatalától számított tizenöt napig.
 
-(2) A 48. § szerinti bejelentésről, illetőleg a 157. § szerinti kivételes intézkedések megtételének szükségességéről a Felügyelet haladéktalanul értesíti az Alapot.
+(2) A 48. § szerinti bejelentésről, illetőleg a 157. § szerinti kivételes intézkedések megtételének szükségességéről az MNB haladéktalanul értesíti az Alapot.
 
 ### Fióktelep és határon átnyúló szolgáltatás felügyelete
 
-168/A. § (1) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény fióktelepe, a pénzügyi intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep, a pénzügyi intézmény működésében, a Felügyelet felszólítja a fióktelepet, a pénzügyi intézményt a szabályellenes helyzet megszüntetésére.
+168/A. § (1) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény fióktelepe, a pénzügyi intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a Magyarországon hatályos előírásokat, illetve az MNB hiányosságot észlel a fióktelep, a pénzügyi intézmény működésében, az MNB felszólítja a fióktelepet, a pénzügyi intézményt a szabályellenes helyzet megszüntetésére.
 
-(2) Ha a fióktelep, a pénzügyi intézmény a felszólításnak nem tesz eleget, a Felügyelet értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, illetőleg kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
+(2) Ha a fióktelep, a pénzügyi intézmény a felszólításnak nem tesz eleget, az MNB értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, illetőleg kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
-(3) A Felügyelet közvetlenül is intézkedhet abban az esetben, ha úgy ítéli meg, hogy a szabályellenes helyzet fennállása súlyosan veszélyezteti a pénzügyi rendszer stabilitását, illetve az ügyfelek érdekeit. A Felügyelet ilyen jellegű intézkedéseit az Európai Bizottság felülvizsgálja és annak jogosságát utólagosan mérlegeli.
+(3) Az MNB közvetlenül is intézkedhet abban az esetben, ha úgy ítéli meg, hogy a szabályellenes helyzet fennállása súlyosan veszélyezteti a pénzügyi rendszer stabilitását, illetve az ügyfelek érdekeit. Az MNB ilyen jellegű intézkedéseit az Európai Bizottság felülvizsgálja és annak jogosságát utólagosan mérlegeli.
 
 ### Pénzforgalmi szolgáltatókra és az elektronikus pénz kibocsátójára vonatkozó különös rendelkezések
 
-168/B. § (1) A Felügyelet az e törvényben és a pénzforgalomról szóló jogszabályokban, felügyeleti határozatban foglalt kötelezettségek sérelme esetén a hitelintézetnek nem minősülő pénzforgalmi szolgáltatóval, elektronikus pénz kibocsátójával szemben – a (2)–(3) bekezdésben meghatározott kivételekkel – a 153. §-ban és 157–160. §-ban meghatározott intézkedéseket, kivételes intézkedéseket alkalmazhatja, valamint bírságot szabhat ki.
+168/B. § (1) Az MNB az e törvényben és a pénzforgalomról szóló jogszabályokban, felügyeleti határozatban foglalt kötelezettségek sérelme esetén a hitelintézetnek nem minősülő pénzforgalmi szolgáltatóval, elektronikus pénz kibocsátójával szemben – a (2)–(3) bekezdésben meghatározott kivételekkel – a 153. §-ban és 157–160. §-ban meghatározott intézkedéseket, kivételes intézkedéseket alkalmazhatja, valamint bírságot szabhat ki.
 
-(2) A 153. § (2) bekezdés c) pontjának 6. alpontjától eltérően a Felügyelet nem tilthatja meg
+(2) A 153. § (2) bekezdés c) pontjának 6. alpontjától eltérően az MNB nem tilthatja meg
 
 - a) a kincstár pénzforgalmi szolgáltatási és elektronikuspénz-kibocsátási tevékenységének,
 - b) a Posta Elszámoló Központot működtető intézmény készpénz-átutalási, fizetési számlára történő készpénz-befizetési, és fizetési számláról történő készpénz-kifizetési tevékenységének végzését.
 
-(3) A Felügyelet a pénzforgalomról szóló jogszabályokban, valamint a felügyeleti határozatban foglalt kötelezettségek sérelme esetén az MNB-vel szemben a 153. § (1) bekezdés a) pontjának 1. alpontjában és b) pontjának 2. alpontjában, valamint f) pontjában meghatározott intézkedéseket alkalmazhatja.
+(3)
 
 ### XXV. Fejezet — Bírságok
 
-169. § (1) A pénzügyi szolgáltatásokra és kiegészítő pénzügyi szolgáltatásokra vonatkozó jogszabályok megsértése esetén a Felügyelet bírságot szabhat ki.
+169. § (1) A pénzügyi szolgáltatásokra és kiegészítő pénzügyi szolgáltatásokra vonatkozó jogszabályok megsértése esetén az MNB bírságot szabhat ki.
 
 (2)–(3)
 
@@ -4024,24 +3997,24 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 176/A. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a Cstv., a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, és a gazdasági társaságokról szóló törvény, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+(2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag az MNB tv.-ben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 
 (3) A (2) bekezdés szerinti nonprofit gazdasági társaságot – ha törvény másként nem rendelkezik – kizárólag pénzügyi intézmény felszámolására, illetve végelszámolására lehet kijelölni.
 
 ### Végelszámolás
 
-176/B. § (1) Pénzügyi intézményre vonatkozóan végelszámolást kimondó határozatot a Felügyelet hozhat.
+176/B. § (1) Pénzügyi intézményre vonatkozóan végelszámolást kimondó határozatot az MNB hozhat.
 
-(2) A Felügyelet végelszámolást kimondó határozatot hoz, ha
+(2) Az MNB végelszámolást kimondó határozatot hoz, ha
 
 - a) a pénzügyi intézmény tevékenységi engedélyét visszavonja, kivéve, ha az engedély visszavonása a 30. § (1) bekezdésének c) pontja alapján történik, vagy
 - b) tudomására jut, hogy a külföldi pénzügyi intézmény alapítási, tevékenységi (működési) vagy a fióktelep formájában működő pénzügyi intézmény alapításra vonatkozó, a külföldi pénzügyi intézmény székhelye szerinti felügyeleti hatóság által kiadott engedélye hatályát veszti.
 
-(3) A Felügyelet végelszámolással történő megszűnést kimondó határozata meghozatalához nem kell beszerezni a Cstv. 8. §-ának (1) bekezdésében meghatározott előzetes egyetértést.
+(3) Az MNB végelszámolással történő megszűnést kimondó határozata meghozatalához nem kell beszerezni a Cstv. 8. §-ának (1) bekezdésében meghatározott előzetes egyetértést.
 
-(4) A Felügyelet a végelszámolást kimondó határozatában kijelöli a végelszámolót, és meghatározza a végelszámolás kezdő időpontját, amely nem lehet korábbi, mint a határozat kelte.
+(4) Az MNB a végelszámolást kimondó határozatában kijelöli a végelszámolót, és meghatározza a végelszámolás kezdő időpontját, amely nem lehet korábbi, mint a határozat kelte.
 
-(5) A Felügyelet a végelszámolást kimondó határozat meghozatalával egyidejűleg – ha a végelszámolás kezdő időpontja későbbi, mint a határozat kelte – felügyeleti biztost rendelhet ki – ha korábban ez nem történt meg –, akinek megbízatása a végelszámoló tevékenységének megkezdéséig tart, és a végelszámolás kezdő időpontjáig teljes körű kifizetési tilalmat rendelhet el.
+(5) Az MNB a végelszámolást kimondó határozat meghozatalával egyidejűleg – ha a végelszámolás kezdő időpontja későbbi, mint a határozat kelte – felügyeleti biztost rendelhet ki – ha korábban ez nem történt meg –, akinek megbízatása a végelszámoló tevékenységének megkezdéséig tart, és a végelszámolás kezdő időpontjáig teljes körű kifizetési tilalmat rendelhet el.
 
 (6) A végelszámolási eljárás befejezésének feltétele annak igazolása, hogy a jogosult számára ki nem fizetett betétek állományátruházása megtörtént.
 
@@ -4057,7 +4030,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (2) Pénzügyi intézmény felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
-(3) A felszámolási eljárás megindításáról – ha azt nem a Felügyelet kezdeményezte – a bíróság soron kívül értesíti a Felügyeletet.
+(3) A felszámolási eljárás megindításáról – ha azt nem az MNB kezdeményezte – a bíróság soron kívül értesíti az MNB-t.
 
 (4)
 
@@ -4067,9 +4040,9 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) A pénzügyi intézménnyel szemben fennálló követelések esetében a Cstv. 46. §-ának (7) bekezdése nem alkalmazható.
 
-179. § (1) Pénzügyi intézmény, illetve a harmadik országbeli pénzügyi intézmény fióktelepe ellen a felszámolási eljárás megindítását kizárólag a Felügyelet kezdeményezheti.
+179. § (1) Pénzügyi intézmény, illetve a harmadik országbeli pénzügyi intézmény fióktelepe ellen a felszámolási eljárás megindítását kizárólag az MNB kezdeményezheti.
 
-(2) A Felügyelet felszámolási eljárást abban az esetben kezdeményez,
+(2) Az MNB felszámolási eljárást abban az esetben kezdeményez,
 
 - a) ha a pénzügyi intézmény tevékenységi engedélyét a 30. § (1) bekezdésének c) pontja alapján vonja vissza, vagy
 - b) fióktelep esetén, ha a Magyarországon fióktelepet működtető külföldi pénzügyi intézmény ellen fizetésképtelenség megállapítására irányuló eljárás indult.
@@ -4085,9 +4058,9 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (2) A felszámolási eljárás megindítása iránti kérelem benyújtásához nem szükséges a Cstv. 8. §-ának (1) bekezdésében meghatározott előzetes egyetértés.
 
-181. § (1) Ha a Felügyelet már a felszámolási eljárás iránti kérelem benyújtását megelőzően felügyeleti biztost rendelt ki, a megbízatás mindaddig tart, amíg a bíróság a felszámolás elrendeléséről szóló határozatában a felszámolót nem rendeli ki.
+181. § (1) Ha az MNB már a felszámolási eljárás iránti kérelem benyújtását megelőzően felügyeleti biztost rendelt ki, a megbízatás mindaddig tart, amíg a bíróság a felszámolás elrendeléséről szóló határozatában a felszámolót nem rendeli ki.
 
-(2) A Felügyelet a felszámolási kérelem benyújtásától a felszámolást elrendelő végzés Cégközlönyben történő megjelenéséig teljes körű kifizetési tilalmat rendelhet el.
+(2) Az MNB a felszámolási kérelem benyújtásától a felszámolást elrendelő végzés Cégközlönyben történő megjelenéséig teljes körű kifizetési tilalmat rendelhet el.
 
 (3) Pénzügyi intézmény felszámolása során a hitelezők a felszámolást elrendelő bírósági végzés közzétételétől számított hatvan napon belül kötelesek követeléseiket bejelenteni.
 
@@ -4105,9 +4078,9 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (5) A kötelező jegybanki tartalékra vonatkozó előírást levelező bankon keresztül teljesítő hitelintézet által elhelyezett kötelező tartalék összege a levelező bank felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.
 
-184. § (1) A felszámolási eljárás során a felszámoló, illetőleg az Alap indokolt kérelme alapján – a felszámolás alatt álló pénzügyi intézmény számára – a Felügyelet a pénzügyi szolgáltatások meghatározott körére ideiglenes tevékenységi engedélyt adhat.
+184. § (1) A felszámolási eljárás során a felszámoló, illetőleg az Alap indokolt kérelme alapján – a felszámolás alatt álló pénzügyi intézmény számára – az MNB a pénzügyi szolgáltatások meghatározott körére ideiglenes tevékenységi engedélyt adhat.
 
-(2) A pénzügyi intézmény felszámolása során az egyezségi eljárásban az egyezség jóváhagyásához a Felügyelet engedélye szükséges akkor, ha az egyezség feltétele a pénzügyi intézmény további működése, hitelintézetként vagy pénzügyi vállalkozásként
+(2) A pénzügyi intézmény felszámolása során az egyezségi eljárásban az egyezség jóváhagyásához az MNB engedélye szükséges akkor, ha az egyezség feltétele a pénzügyi intézmény további működése, hitelintézetként vagy pénzügyi vállalkozásként
 
 (3)
 
@@ -4128,9 +4101,9 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 185/E. § Azon értékpapírokkal kapcsolatos jogok érvényesítésére, amelyek létrejöttéhez vagy átruházásához nyilvántartásba történő bejegyzés, illetőleg számlán történő nyilvántartás szükséges, annak a tagállamnak a joga az irányadó, ahol a nyilvántartást, illetőleg a számlát vezetik.
 
-185/F. § (1) A végelszámolásról vagy a felszámolásról és azok gyakorlati következményeiről a Felügyelet haladéktalanul tájékoztatja az Európai Unió azon tagállamainak felügyeleti hatóságait, amelyekben a végelszámolás vagy a felszámolás alá kerülő hitelintézet fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
+185/F. § (1) A végelszámolásról vagy a felszámolásról és azok gyakorlati következményeiről az MNB haladéktalanul tájékoztatja az Európai Unió azon tagállamainak felügyeleti hatóságait, amelyekben a végelszámolás vagy a felszámolás alá kerülő hitelintézet fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
 
-(2) A végelszámolásról szóló vagy a felszámolót kijelölő bírósági végzés (a továbbiakban: bírósági végzés) Cégközlönyben történő közzétételét követően a Felügyelet soron kívül köteles annak tartalmát magyar nyelven az Európai Közösségek Hivatalos Lapjában, valamint a fióktelep működése, illetőleg a határon átnyúló szolgáltatás helye szerinti tagállam legalább két országos napilapjában közzétenni a 185/G. § (4) bekezdésében meghatározott nyomtatványokon.
+(2) A végelszámolásról szóló vagy a felszámolót kijelölő bírósági végzés (a továbbiakban: bírósági végzés) Cégközlönyben történő közzétételét követően az MNB soron kívül köteles annak tartalmát magyar nyelven az Európai Közösségek Hivatalos Lapjában, valamint a fióktelep működése, illetőleg a határon átnyúló szolgáltatás helye szerinti tagállam legalább két országos napilapjában közzétenni a 185/G. § (4) bekezdésében meghatározott nyomtatványokon.
 
 (3) Minden olyan hitelező, akinek (amelynek) állandó lakóhelye, székhelye, telephelye az Európai Unió másik tagállamában található, követelését az Európai Közösségek Hivatalos Lapjában történő, (2) bekezdés szerinti közzétételt követő 60 napon belül jelentheti be. E hitelezők esetében a (2) bekezdés szerinti közzétételhez fűződnek a Cstv. 28. §-a szerinti közzétételhez kapcsolódó joghatások.
 
@@ -4148,19 +4121,19 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (5) Minden olyan hitelező, akinek (amelynek) állandó lakóhelye, székhelye, telephelye az Európai Unió másik tagállamában található, követelését magyar nyelven köteles benyújtani. Ezen túlmenően követelését saját tagállamának hivatalos nyelvén is benyújthatja, azzal a feltétellel, hogy beadványán a ,,Követelés benyújtása'' címet magyar nyelven kell feltüntetni.
 
-(6) A végelszámoló vagy a felszámoló köteles rendszeresen tájékoztatni a Felügyeletet és a hitelezőket a végelszámolás vagy a felszámolás helyzetéről.
+(6) A végelszámoló vagy a felszámoló köteles rendszeresen tájékoztatni az MNB-t és a hitelezőket a végelszámolás vagy a felszámolás helyzetéről.
 
-(7) A Felügyelet az Európai Unió más tagállamai felügyeleti hatóságainak megkeresésére köteles tájékoztatást adni a végelszámolás vagy a felszámolás helyzetéről.
+(7) Az MNB az Európai Unió más tagállamai felügyeleti hatóságainak megkeresésére köteles tájékoztatást adni a végelszámolás vagy a felszámolás helyzetéről.
 
-185/H. § (1) Ha harmadik ország fióktelepe ellen felszámolási eljárás indul, a Felügyelet értesíti az eljárás megindításáról az Európai Unió azon tagállamainak illetékes hatóságait, amelyekben az a hitelintézet, amelynek fióktelepe felszámolás alatt áll, olyan fiókteleppel rendelkezik, amely szerepel az Európai Közösségek Hivatalos Lapjában évente megjelenő listában.
+185/H. § (1) Ha harmadik ország fióktelepe ellen felszámolási eljárás indul, az MNB értesíti az eljárás megindításáról az Európai Unió azon tagállamainak illetékes hatóságait, amelyekben az a hitelintézet, amelynek fióktelepe felszámolás alatt áll, olyan fiókteleppel rendelkezik, amely szerepel az Európai Közösségek Hivatalos Lapjában évente megjelenő listában.
 
-(2) A Felügyelet, a felszámoló bíróság, a végelszámoló vagy a felszámoló együttműködik az érintett tagállamok illetékes szervezeteivel, tevékenységük összehangolása érdekében.
+(2) Az MNB, a felszámoló bíróság, a végelszámoló vagy a felszámoló együttműködik az érintett tagállamok illetékes szervezeteivel, tevékenységük összehangolása érdekében.
 
 ### XXVII. Fejezet — A Felügyelet adatkezelése
 
 186. § (1) A Felügyelet a törvényben meghatározott hatáskör ellátásához szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
 
-(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény következő adatait:
+(2) Az MNB nyilvántartásba veszi a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény következő adatait:
 
 - a) név, székhely;
 - b) tevékenységi kör, ideértve a pénzforgalmi intézmény engedélyezés alá nem eső egyéb tevékenységeit is;
@@ -4175,13 +4148,13 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - k)
 - l) az a)–k) pontokban felsorolt adatokban történt változások.
 
-(3) A Felügyelet nyilvántartásba veszi:
+(3) Az MNB nyilvántartásba veszi:
 
 - a) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló személy adatait,
 - b) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó hitelintézet anyavállalatával szoros kapcsolatban álló személy adatait,
 - c) a hitelintézet anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a hitelintézet felügyelete érdekében szükségesek.
 
-187. § A Felügyelet határozattal nyilvántartásba veszi a külföldi hitelintézetek bankképviseleteinek a következő adatait:
+187. § Az MNB határozattal nyilvántartásba veszi a külföldi hitelintézetek bankképviseleteinek a következő adatait:
 
 - a) a képviselt hitelintézet neve, székhelye, tevékenységi köre, a tevékenység végzésének helyére vonatkozó adatok;
 - b) a bankképviselet alapításának, engedélyének időpontja;
@@ -4190,7 +4163,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - e) a bankképviselet megnyitásának időpontja;
 - f) az a)–d) pontokban felsorolt adatokban történt változásokat.
 
-188. § (1) A Felügyelet ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a közvetítőkről és a közvetítői alvállalkozókról. A Felügyelet a nyilvántartásban a közvetítők és a közvetítői alvállalkozók következő adatait kezeli:
+188. § (1) Az MNB ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a közvetítőkről és a közvetítői alvállalkozókról. Az MNB a nyilvántartásban a közvetítők és a közvetítői alvállalkozók következő adatait kezeli:
 
 - a) a nevét, székhelyét,
 - b) a tevékenység végzésének helyét,
@@ -4203,13 +4176,13 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
   - ha) a tisztségét,
   - hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatai közül a vezető állású személy nevét, születési helyét, idejét és anyja nevét.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
+(2) Az MNB az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 
-(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy nevét és az (1) bekezdés h) pont ha) alpontja szerinti adatát a Felügyelet a honlapján bárki számára elérhetően, napra készen közzéteszi.
+(3) Az (1) bekezdés a)–g) pontja szerinti adatot, továbbá a vezető állású személy nevét és az (1) bekezdés h) pont ha) alpontja szerinti adatát az MNB a honlapján bárki számára elérhetően, napra készen közzéteszi.
 
-189. § A Felügyelet saját feladatai ellátására szolgáló banktitkot, üzleti titkot és egyéb adatot vagy információt kizárólag az 51. § (2) és (3) bekezdésében megjelölt szerveknek – törvényben meghatározott feladataik ellátásához szükséges mértékben –, valamint nemzetközi együttműködési megállapodásban foglaltak szerint szolgáltathat. A külföldi felügyeleti hatóságtól származó banktitoknak vagy üzleti titoknak minősülő adatot és információt a Felügyelet nem közölheti harmadik féllel. Az ilyen adatot kizárólag a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban foglaltak szerint kezelheti és az érintett külföldi felügyelet hozzájárulásával továbbíthatja. Nem jelenti a banktitok és üzleti titok sérelmét a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
+189. § Az MNB saját feladatai ellátására szolgáló banktitkot, üzleti titkot és egyéb adatot vagy információt kizárólag az 51. § (2) és (3) bekezdésében megjelölt szerveknek – törvényben meghatározott feladataik ellátásához szükséges mértékben –, valamint nemzetközi együttműködési megállapodásban foglaltak szerint szolgáltathat. A külföldi felügyeleti hatóságtól származó banktitoknak vagy üzleti titoknak minősülő adatot és információt az MNB nem közölheti harmadik féllel. Az ilyen adatot kizárólag a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban foglaltak szerint kezelheti és az érintett külföldi felügyelet hozzájárulásával továbbíthatja. Nem jelenti a banktitok és üzleti titok sérelmét a MNB tv. szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
 
-190. § (1) A Felügyelet az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
+190. § (1) Az MNB az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
 
 - a) a pénzügyi intézményeket, pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
 - b) a kiegészítő pénzügyi szolgáltatást végző vállalkozásokat,
@@ -4222,7 +4195,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 - a) a minősített befolyással összefüggésben a minősített befolyás arányát, valamint a befolyás gyakorlását biztosító szerződést,
 - b) a 186. § (3) bekezdésének a)–b) pontja szerinti szoros kapcsolattal összefüggésben a szoros kapcsolat mértékét, valamint a szoros kapcsolat gyakorlását biztosító szerződést,
-- c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
+- c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá az MNB által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 - d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 - e) a hitelintézet belső szabályait, így különösen az alapszabályt, az üzletszabályzatot, az adós vagy hitelminősítési szabályzatot, a fizetőképesség biztosítására vonatkozó szabályzatot, a belső hitelszabályzatot,
 - f) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
@@ -4232,14 +4205,14 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - j) a nagykockázat, belső hitel, kapcsolódó hitel, befektetési korlát és kockázati céltartalék képzés ellenőrzéséhez szükséges adatokat,
 - k) a fióktelep formájában működő hitelintézet esetében az a)–j) pontokon túl az eszközfenntartási mutató ellenőrzéséhez szükséges adatokat.
 
-(3) A (2) bekezdésben megjelölt célok érdekében a 3. számú mellékletben felsoroltakon kívül a Felügyelet a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
+(3) A (2) bekezdésben megjelölt célok érdekében a 3. számú mellékletben felsoroltakon kívül az MNB a pénzügyi intézmény ügyfelének következő személyes adatait kezelheti:
 
 - a) az ügyfél hiteladatait,
 - b) az ügyfél egyéb kockázati adatait,
 - c) az ügyfél betétadatait,
 - d) az ügyfél pénzügyi intézménnyel szembeni követelésre vonatkozó egyéb adatait.
 
-(4) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
+(4) Az MNB engedélye egyúttal a nyilvántartásba vételt is igazolja.
 
 (5)
 
@@ -4247,19 +4220,19 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 191. §
 
-### XXVIII. Fejezet — A Felügyelet eljárása
+### XXVIII. Fejezet — Az MNB eljárása
 
-### A Felügyelet határozatai
+### Az MNB határozatai
 
 192. § (1)
 
 (2)
 
-193. § A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a cégbíróság a Felügyelet értesítése alapján nyolc napon belül a cégjegyzék utolsó rovatába bejegyzi.
+193. § A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a cégbíróság az MNB értesítése alapján nyolc napon belül a cégjegyzék utolsó rovatába bejegyzi.
 
 ### Határidők
 
-194. § A 14. § (1) bekezdés s)–v) pontjában foglalt engedélyezési eljárás során a Felügyelet az érdemi határozatot – a 14/A–14/B. §-ban meghatározott eltéréssel – a hiánytalan kérelem beérkezését követő hat hónapon belül hozza meg.
+194. § A 14. § (1) bekezdés s)–v) pontjában foglalt engedélyezési eljárás során az MNB az érdemi határozatot – a 14/A–14/B. §-ban meghatározott eltéréssel – a hiánytalan kérelem beérkezését követő hat hónapon belül hozza meg.
 
 ### Jogorvoslat
 
@@ -4271,11 +4244,11 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 ### Tájékoztatás
 
-198. § (1) A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát, ideértve a 14. § (1) bekezdésének c) pontja szerinti engedélyét is, haladéktalanul megküldi a cégbíróságnak.
+198. § (1) Az MNB az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát, ideértve a 14. § (1) bekezdésének c) pontja szerinti engedélyét is, haladéktalanul megküldi a cégbíróságnak.
 
-(2) A Felügyelet az engedély iránti kérelmet elutasító jogerős határozatát megküldi a cégbíróságnak.
+(2) Az MNB az engedély iránti kérelmet elutasító jogerős határozatát megküldi a cégbíróságnak.
 
-198/A. § A 3. § (9) és (10) bekezdésében meghatározott ügynökök jegyzékét a Felügyelet félévente honlapján közzéteszi.
+198/A. § A 3. § (9) és (10) bekezdésében meghatározott ügynökök jegyzékét az MNB félévente honlapján közzéteszi.
 
 ## VII. RÉSZ — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -4348,7 +4321,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 ### A betétesek tájékoztatása
 
-204. § (1) A hitelintézet köteles az Alappal, a külföldi betétbiztosító intézménnyel, valamint a XX. fejezetben meghatározott önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az Alap által biztosított betéttípusokról, a biztosítás mértékéről, továbbá – a betétek befagyása vagy a hitelintézet tevékenységi engedélyének a Felügyelet által a 30. § (1) bekezdés b) vagy c) pontja alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 101. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatni. A hitelintézetnek tájékoztatni kell a betétest arról is, hogy a 100. §-ban és a 126. § (4) bekezdésében meghatározott esetekben az Alap által nyújtott biztosítás nem terjed ki a betétre.
+204. § (1) A hitelintézet köteles az Alappal, a külföldi betétbiztosító intézménnyel, valamint a XX. fejezetben meghatározott önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az Alap által biztosított betéttípusokról, a biztosítás mértékéről, továbbá – a betétek befagyása vagy a hitelintézet tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontja alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 101. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatni. A hitelintézetnek tájékoztatni kell a betétest arról is, hogy a 100. §-ban és a 126. § (4) bekezdésében meghatározott esetekben az Alap által nyújtott biztosítás nem terjed ki a betétre.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles megadni.
 
@@ -4421,7 +4394,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - c) az adott kamat-, díj- vagy költségelemre kihatással bíró ok-okozati feltételeket együttesen, tényleges hatásuk arányában kell figyelembe venni;
 - d) díjat vagy költséget évente legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékében lehet emelni.
 
-(5) Az árazási elvek megfelelőségét, valamint az árazási elvek alkalmazásának gyakorlatát a Felügyelet ellenőrzi. Az ellenőrzés során a Felügyelet figyelembe veszi a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény hatálya alá tartozó, a Felügyelet által is elfogadott magatartási kódex rendelkezéseit.
+(5) Az árazási elvek megfelelőségét, valamint az árazási elvek alkalmazásának gyakorlatát az MNB ellenőrzi. Az ellenőrzés során az MNB figyelembe veszi a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény hatálya alá tartozó, az MNB által is elfogadott magatartási kódex rendelkezéseit.
 
 (5a) A fogyasztóval kötött deviza alapú hitel-, vagy kölcsön szerződések esetében a pénzügyi intézmény kizárólag azokat a költségeket és díjakat számíthatja fel devizában, amelyek az adott szerződés teljesítésének és fenntartásának érdekében a deviza forrás megszerzésével közvetlenül kapcsolatban állnak, ide értve a kamat jellegű kezelési költséget és a deviza alapú hitel- vagy kölcsöntartozás mindenkori összegéhez igazodó hitelfedezeti biztosítási szolgáltatással kapcsolatos költséget, amennyiben a hitelintézetet terhelő biztosítási díj is deviza alapú. Nem számolható fel a fogyasztó számára devizában a szerződéskötéssel, a levelezéssel, a kimutatások és igazolások előállításával, az ügyfelek látogatásával, a hitel monitoringgal, a felmondással, a fedezet értékbecslésével és cseréjével, a szerződés módosításával, a nem a deviza alapú hitel- vagy kölcsöntartozás mindenkori összegéhez igazodó hitelfedezeti biztosítási szolgáltatással, továbbá a hitelszerződés ügyintézésével és a kapcsolódó hitelszámla lezárásával kapcsolatos díj és költség.
 
@@ -4513,13 +4486,13 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - b) a pénztári szolgálatra (pénztári szünnap),
 - c) a könyvelésre és a pénztári szolgálatra (könyvelési és pénztári szünnap).
 
-(2) A hitelintézet a bankszünnapot – tizenöt nappal megelőzően – legalább két országos napilapban köteles meghirdetni, valamint a Felügyeletnek és az MNB-nek bejelenteni.
+(2) A hitelintézet a bankszünnapot – tizenöt nappal megelőzően – legalább két országos napilapban köteles meghirdetni, valamint az MNB-nek bejelenteni.
 
-(3) Az (1) bekezdésben meghatározottakon túl a Felügyelet az MNB-vel egyetértésben a hitelintézet kérelmére bankszünnap tartását rendeli el. Az elrendelt bankszünnapok száma évenként három napnál nem lehet több.
+(3) Az (1) bekezdésben meghatározottakon túl az MNB a hitelintézet kérelmére bankszünnap tartását rendeli el. Az elrendelt bankszünnapok száma évenként három napnál nem lehet több.
 
 ### Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 
-215/A. § E törvény, valamint a végrehajtására kiadott jogszabályok a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén a Felügyelet a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
+215/A. § E törvény, valamint a végrehajtására kiadott jogszabályok a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén az MNB a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
 
 ### Panaszkezelés
 
@@ -4541,9 +4514,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (7) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény válaszában tájékoztatja az ügyfelet arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénzügyi intézménynek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény válaszában tájékoztatja az ügyfelet arról, hogy az MNB tv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén MNB-nél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénzügyi intézménynek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
-(9) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+(9) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt az MNB kérésére bemutatja.
 
 (10) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (13) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról
 
@@ -4561,7 +4534,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (14) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
-(15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+(15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és az MNB-nek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 ### XXX. Fejezet — Szövetkezeti hitelintézet
 
@@ -4712,7 +4685,7 @@ esetében kell alkalmazni.
   - bj) valutapénztárosi bizonyítvánnyal (kizárólag pénzváltás közvetítése esetén),
   - bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
   - bl) a ba)–bk) pontokban foglaltakkal egyenértékű szakképesítéssel, vagy
-- c) külön jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával rendelkezik.
+- c) külön jogszabályban meghatározott, az MNB által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával rendelkezik.
 
 (2) Az (1) bekezdés a) pontja alkalmazásában szakirányú felsőfokú végzettségnek minősülnek
 
@@ -4982,12 +4955,12 @@ esetében kell alkalmazni.
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
-- b) a hitelintézet likviditásának minimális szintjére,
+- b)
 - c) az egységesített betéti kamatláb mutató számítására és közzétételére,
-- d) a hitelintézet devizapozícióbeli lejárati összhangjára,
+- d)
 - e) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott pénzügyi szolgáltatási, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységek folytatásához szükséges személyi és tárgyi feltételekre,
 - f) a kereskedési könyvben nyilvántartott pozíció- és nagykockázatvállalások tőkekövetelményére, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat miatt felmerülő piaci kockázat tőkekövetelményére,
-- g) a hitelezési és a felhígulási kockázathoz kapcsolódó kitettség, a kitettség érték, a kockázattal súlyozott kitettség érték, a nemteljesítési valószínűség, a nemteljesítéskori veszteségráta, a hitelegyenértékesítési tényező, a várható veszteség meghatározására, a hitelezési és felhígulási kockázat tőkekövetelményére,
+- g) a hitelezési és a felhígulási kockázathoz kapcsolódó kitettség, a kitettség érték, kockázattal súlyozott kitettség érték – ide nem értve a lakóingatlanok és kereskedelmi ingatlanok kockázati súlyát –, a nemteljesítési valószínűség, a nemteljesítéskori veszteségráta, a hitelegyenértékesítési tényező, a várható veszteség meghatározására, a hitelezési és felhígulási kockázat tőkekövetelményére,
 - h) az elismert külső hitelminősítő szervezettel szembeni követelményekre, és az elismert külső hitelminősítő szervezet és exporthitel-ügynökség hitelminősítésének elismerésére,
 - i) a hitelkockázati fedezet elismerhetőségére és kockázatmérséklő hatásának a tőkekövetelmény-számítás során való számszerűsítésére,
 - j) a működési kockázat kezelésére és tőkekövetelményére,
@@ -5003,11 +4976,13 @@ vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg:
 
-- a)
+- a) a hitelintézetek befektetési szabályzatára,
 - b) a kintlevőségek, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
-- c)–e)
+- c) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
+- d) a belső ellenőrzési rendszerekre, eljárásokra,
+- e)
 - f)–g)
-- h) a Felügyelet közvetítői hatósági képzéssel összefüggő feladataira vonatkozó szabályait, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+- h) a közvetítői hatósági képzésre, a hatósági képzés során szerzett, a pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 - i)
 - j)
 - k)
@@ -5021,15 +4996,9 @@ vonatkozó részletes szabályokat.
 
 vonatkozó részletes szabályokat.
 
-(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(3) Felhatalmazást kap az MNB elnöke arra, hogy rendeletben állapítsa meg a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 
-- a) a hitelintézetek befektetési szabályzatára,
-- b) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat,
-- c) közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire,
-- d) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes pénzügyi szolgáltatások nyújtására vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- e) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére.
-
-(4) Felhatalmazást kap a Felügyelet elnöke, hogy a számviteli szabályozásért felelős miniszterrel egyetértésben a könyvvizsgálók által – a Felügyeletnek évente – a 136. § alapján készítendő külön kiegészítő jelentés szerkezetére és tartalmára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4)
 
 ### Módosuló jogszabályok
 
@@ -5557,7 +5526,7 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 8. Hitelminősítés: külső hitelminősítő szervezet vagy exporthitel-ügynökség saját módszertana által előállított és nyilvánosságra hozott véleménye a hitelminősítés alanyáról, azaz a minősítettről. A hitelminősítés irányulhat adósra (ügyfélre) vagy adósságra (kitettségre). A hitelminősítés eredménye egy szöveges indoklással kibővített értékelés, amely tartalmaz egy betűvel, számmal, jellel, illetőleg ezek kombinációjával megalkotott hitelminősítési kategóriát.
 
-9. Hitelminősítési besorolás: egy egységesített megközelítést támogató, pozitív egész számjegyű jelölés, amely a Felügyelet hozzárendelése által az elismert külső hitelminősítő szervezet hitelminősítési kategóriájához alkalmazandó kockázati súly alkalmazását segíti elő.
+9. Hitelminősítési besorolás: egy egységesített megközelítést támogató, pozitív egész számjegyű jelölés, amely az MNB hozzárendelése által az elismert külső hitelminősítő szervezet hitelminősítési kategóriájához alkalmazandó kockázati súly alkalmazását segíti elő.
 
 10. Hitelminősítési kategória: külső hitelminősítő szervezet által a minősített adóshoz (ügyfélhez) vagy adóssághoz (kitettséghez) rendelt betűből, számból, jelből, illetőleg ezek kombinációjából álló jelölés.
 
@@ -5711,7 +5680,7 @@ c) eredménytartalék, ha negatív,
 
 d) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatolótőke-számítás esetén az évközi negatív eredmény,
 
-e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
+e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy az MNB vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
 
 f) a vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének a 14. pont szerinti korlátozások miatt figyelembe nem vehető része,
 
@@ -5741,19 +5710,19 @@ f) a hitelintézet a jegyzési dokumentáció alapján bármikor jogosult arra, 
 
 g) a jegyzési dokumentációban szereplő osztalék, részesedés, kamat és egyéb kifizetési feltételek olyanok, hogy azok nem akadályozzák a hitelintézet szükség esetén történő feltőkésítését,
 
-h) a Felügyelet a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
+h) az MNB a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
 
-i) a Felügyelet törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
+i) az MNB törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-j) a Felügyelet engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
+j) az MNB engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
 
 k) a hitelintézet köteles törölni az osztalék-, részesedés-, vagy kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-l) a Felügyelet előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+l) az MNB előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást az MNB további feltételekhez kötheti,
 
-m) a Felügyelet az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
+m) az MNB az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
 
-8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok MNB-nek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
 
 9. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe vennie.
 
@@ -5765,17 +5734,17 @@ a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára a
 
 b) a kölcsönszerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet folyamatos működése mellett is a hitelintézet adósságának rendezésébe, és a kölcsönt nyújtó követelése felszámolási eljárás esetén a törlesztések sorrendjében a járulékos kölcsöntőke után áll,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag a Felügyelet engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag az MNB engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
 
 d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok tartalmazhatnak egy vagy több visszaváltási opciót, melynek lehívása kizárólag a hitelintézet döntésétől függ,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt az MNB engedélyezi,
 
-f) a Felügyelet a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
+f) az MNB a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
 
-g) a Felügyelet törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+g) az MNB törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
 
-h) a Felügyelet engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
+h) az MNB engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
 
 i) amennyiben egy határozatlan futamidejű kölcsön, vagy hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok mérsékelt ösztönzést tartalmaznak a visszaváltásra vagy visszavásárlásra, akkor ilyen tőketörlesztés a futamidő első 10 évében nem lehetséges,
 
@@ -5785,7 +5754,7 @@ k) a hitelintézet a kamatfizetést törölheti,
 
 l) a hitelintézet köteles törölni a kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
 
-m) a Felügyelet előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+m) az MNB előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást az MNB további feltételekhez kötheti,
 
 n) ha egy adott évben a k)–m) alpontokban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
 
@@ -5793,7 +5762,7 @@ o) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségén
 
 p) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
-q) a Felügyelet a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
+q) az MNB a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
 
 12. a) Amennyiben a hitelintézet több alapvető, illetve járulékos kölcsöntőkét bocsátott ki, a kölcsöntőke tulajdonosai számára megfelelő tájékoztatást kell adnia a kölcsöntőke adósságrendezésbe való bevonásának lehetőségéről, az adott kölcsöntőke elem kielégítési sorrendben elfoglalt helyéről, valamint a különböző kibocsátású kölcsöntőkék egymáshoz viszonyított helyéről az adósságbevonási, illetve -kielégítési sorrendben.
 
@@ -5803,7 +5772,7 @@ b) Ha az alapvető és járulékos kölcsöntőke különleges célú gazdasági
 
 14. A vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének az alapvető tőkébe történő együttes beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
 
-a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt a Felügyelet előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
+a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt az MNB előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
 
 b) az alapvető tőke együttesen legfeljebb 35%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely határozatlan futamidejű, és amelyhez nem kapcsolódik visszaváltásra vagy visszavásárlásra ösztönző rendelkezés, de az a) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át,
 
@@ -5841,11 +5810,11 @@ a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára a
 
 b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha az MNB engedélyezi a korábbi visszafizetést,
 
 d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt az MNB engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
@@ -5919,7 +5888,7 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 
 9. Az Európai Parlament és a Tanács 2002. december 16-án kelt 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
 
-10. Az Európai Parlament és a Tanács 2009. április 23-i 2009/22/EK irányelve a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, a 2. cikk (1) bekezdés a) pontja [a 153. § (1) bekezdés f) pontja – a Felügyelet eljárásában].
+10. Az Európai Parlament és a Tanács 2009. április 23-i 2009/22/EK irányelve a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, a 2. cikk (1) bekezdés a) pontja [a 153. § (1) bekezdés f) pontja – az MNB eljárásában].
 
 11. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
 
@@ -5937,6 +5906,6 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 
 18. Az Európai Parlament és a Tanács 2011. november 16-án kelt 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról.
 
-II. Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában:
+II. Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg az MNB eljárásában:
 
 Az Európai Parlament és a Tanács 2004. október 27-én kelt 2006/2004/EK rendelete a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (6) bekezdés f) pont [a 153. § (1) bekezdés].

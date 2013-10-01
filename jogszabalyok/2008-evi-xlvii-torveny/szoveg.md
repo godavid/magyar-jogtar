@@ -147,7 +147,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 10. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (2) és a (3) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a Pénzügyi Szervezetek Állami Felügyelete jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.) alapján a Pénzügyi Szervezetek Állami Felügyelete felügyel.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Felügyelet felügyel.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Gazdasági Versenyhivatal jár el, ha a kereskedelmi gyakorlat a gazdasági verseny érdemi befolyásolására alkalmas.
 
@@ -173,7 +173,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (2) Az együttműködést szolgáló adatok és információk átadásának, így különösen a 20. § (3) bekezdésében, illetve a 23. § (2) bekezdésében, a 25. § (3) bekezdésében és a 26. § (2) bekezdésében előírt értesítés megtételének módját a hatóságok együttműködésük keretében állapítják meg.
 
-(3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Pénzügyi Szervezetek Állami Felügyelete együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.
+(3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Felügyelet együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.
 
 ### Az eljárás közös szabályai
 
@@ -200,7 +200,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 19. § A kereskedelmi gyakorlat tisztességtelenségének megállapítására irányuló eljárásra az e törvényben meghatározott eltérésekkel
 
 - a) a fogyasztóvédelmi hatóság eljárása tekintetében a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.),
-- b) a Pénzügyi Szervezetek Állami Felügyeletének eljárása tekintetében a Psztv.,
+- b) a Felügyelet eljárása tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.),
 - c) a Gazdasági Versenyhivatal eljárása tekintetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.)
 
 rendelkezéseit kell alkalmazni.
@@ -217,17 +217,17 @@ rendelkezéseit kell alkalmazni.
 
 (2) Az Fgytv. 49. §-a (1) bekezdésének alkalmazásával a fogyasztóvédelmi hatóság a 16. § szerinti intézkedést is elrendelheti.
 
-### A Pénzügyi Szervezetek Állami Felügyeletének eljárására vonatkozó különös rendelkezések
+### A Felügyelet eljárására vonatkozó különös rendelkezések
 
 22. §
 
-23. § (1) Ha a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) bármely ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Felügyelethez benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a Felügyelet a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezését követő naptól számított harminc napon belül átteszi a Gazdasági Versenyhivatalhoz.
+23. § (1) Ha a Felügyelet bármely ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Felügyelethez benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a Felügyelet a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezését követő naptól számított harminc napon belül átteszi a Gazdasági Versenyhivatalhoz.
 
 (2) A Felügyelet hatáskörének vizsgálata keretében a Felügyelet felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti hatósági eljárás megindításáról, illetve ha bármely ellenőrzése során a tisztességtelen kereskedelmi gyakorlat tilalmának megsértését észleli, a Felügyelet az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
 
-24. § A Psztv. 70. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
+24. § Az MNBtv. 87. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
 
 ### A Gazdasági Versenyhivatal eljárására vonatkozó különös rendelkezések
 
@@ -235,11 +235,11 @@ rendelkezéseit kell alkalmazni.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. §-ának (8) bekezdése szerinti végzést.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – a Pénzügyi Szervezetek Állami Felügyeletét.
+(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
 
 26. § (1) A vizsgáló végzéssel hivatalból vizsgálatot rendel el a tisztességtelen kereskedelmi gyakorlat tilalmát feltételezhetően sértő olyan tevékenység, magatartás vagy állapot észlelése esetén, amely tekintetében e törvény szerint a Gazdasági Versenyhivatal jár el.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti vizsgálat elrendeléséről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – a Pénzügyi Szervezetek Állami Felügyeletét.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti vizsgálat elrendeléséről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
 
 27. § (1) Az elintézési határidő tekintetében a Tpvt. 63. §-ának (1) bekezdését, (2) bekezdésének a) pontját, valamint (5)–(7) bekezdését kell alkalmazni.
 
@@ -251,7 +251,7 @@ rendelkezéseit kell alkalmazni.
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
-28. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2005/29/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a fogyasztóvédelmi hatóság, a Pénzügyi Szervezetek Állami Felügyelete vagy a Gazdasági Versenyhivatal látja el, a 10. §-ban meghatározottak szerint.
+28. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2005/29/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a fogyasztóvédelmi hatóság, a Felügyelet vagy a Gazdasági Versenyhivatal látja el, a 10. §-ban meghatározottak szerint.
 
 (2) A kölcsönös jogsegély során az (1) bekezdés szerinti hatóságok a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően járnak el.
 
@@ -409,7 +409,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 
 (2)
 
-(3) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, a Pénzügyi Szervezetek Állami Felügyelete, a Gazdasági Versenyhivatal és a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
+(3) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, a Felügyelet, a Gazdasági Versenyhivatal és a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) bekezdés, (6) bekezdés e) pont, és melléklet 16. pont [a 27. § (3) bek., a 28. § (1) bek., a 30. § (20) bek., a 31. § (1) bek., a 41. § (16) bek.],
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 28. § (2) bek.],

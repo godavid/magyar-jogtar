@@ -16,12 +16,7 @@ a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról 
 - d)
 - e)
 
-(2) Hatályát veszti
-
-- a) a Fot. VI. Fejezete,
-- b) a Fot. 30. § (1) bekezdés d) pontja,
-- c) az Országos Fogyatékosügyi Tanács szervezetének és működésének részletes szabályairól szóló 67/2001. (IV. 20.) Korm. rendelet és
-- d) az Országos Fogyatékosügyi Tanács szervezetének és működésének részletes szabályairól szóló 67/2001. (IV. 20.) Korm. rendelet módosításáról szóló 6/2011. (II. 11.) Korm. rendelet.
+(2)
 
 11. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2013. június 1-jén lép hatályba.
 
