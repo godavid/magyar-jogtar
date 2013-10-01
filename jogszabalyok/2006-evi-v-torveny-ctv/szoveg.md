@@ -368,7 +368,7 @@ megismerhetők.
 
 (5) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
-(6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Pénzügyi Szervezetek Állami Felügyeletét.
+(6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Magyar Nemzeti Bankot.
 
 25. § (1) A cégjegyzék szükség szerint, valamennyi cég esetében tartalmazza
 
@@ -928,7 +928,7 @@ irányuló eljárás
 
 illetve a cég tájékoztatási kötelezettsége
 
-63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Pénzügyi Szervezetek Állami Felügyelete, az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
+63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Magyar Nemzeti Bank, az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
 
 (2) A korlátolt felelősségű társaság és a részvénytársaság a bejegyzését követően írásbeli képviselete, illetve hivatalos levelezése során – ideértve az elektronikus levelezést is –, valamint a honlapján köteles feltüntetni a céget nyilvántartó cégbíróság nevét, a cég nevét és székhelyét, a cég cégjegyzékszámát, továbbá szükség szerint a cég felszámolására, illetve végelszámolására utaló toldatot. A cég – választása szerint – feltüntetheti a jegyzett tőkéjét is. Ebben az esetben azonban a cégjegyzékben szereplő jegyzett tőke feltüntetése mellett meg kell jelölni annak ténylegesen rendelkezésre bocsátott összegét is.
 
@@ -1285,7 +1285,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) A végelszámoló az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, a végelszámolás alatt álló cég, valamint a hitelezők érdekeinek szem előtt tartásával köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a polgári jogi felelősség általános szabályai szerint felel.
 
-(4a) Ha jogszabály rendelkezése alapján a végelszámolást a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
+(4a) Ha jogszabály rendelkezése alapján a végelszámolást a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél az MNBtv. szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
 
 (5) Ha a végelszámolás alatt álló cég felszámolás alá kerül, és megállapítható, hogy a végelszámoló alapos ok nélkül késlekedett a felszámolási eljárás kezdeményezésével, vagy nem tett meg mindent a hitelezők veszteségeinek csökkentése, illetve a környezeti károk mérséklése a kármentesítés érdekében vagy egyes hitelezőket mások rovására előnyben részesített, a felszámoló vagy a hitelezők keresetére a bíróság arra kötelezi a végelszámolót, hogy a cég vagyonához a károkozás összege mértékéhez igazodó tőke-hozzájárulást teljesítsen. A bíróság ebben az esetben a végelszámoló díját részben vagy egészben megvonhatja.
 
@@ -1790,7 +1790,7 @@ c) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lapp
 
 aa) az alapítási tervezet,
 
-ab) a Pénzügyi Szervezetek Állami Felügyelete által jóváhagyott tájékoztató,
+ab) a Magyar Nemzeti Bank által jóváhagyott tájékoztató,
 
 ac) a részvényjegyzési ív,
 

@@ -306,11 +306,13 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (1) Mindenkinek joga van a gondolat, a lelkiismeret és a vallás szabadságához. Ez a jog magában foglalja a vallás vagy más meggyőződés szabad megválasztását vagy megváltoztatását és azt a szabadságot, hogy vallását vagy más meggyőződését mindenki vallásos cselekmények, szertartások végzése útján vagy egyéb módon, akár egyénileg, akár másokkal együttesen, nyilvánosan vagy a magánéletben kinyilvánítsa vagy kinyilvánítását mellőzze, gyakorolja vagy tanítsa.
 
-(2) Az Országgyűlés sarkalatos törvényben egyházként ismerhet el egyes vallási tevékenységet végző szervezeteket, amelyekkel az állam a közösségi célok érdekében együttműködik. Az egyházak elismerésére vonatkozó sarkalatos törvényi rendelkezésekkel szemben alkotmányjogi panasznak van helye.
+(2) Az azonos hitelveket követők vallásuk gyakorlása céljából sarkalatos törvényben meghatározott szervezeti formában működő vallási közösséget hozhatnak létre.
 
-(3) Az állam és az egyházak, illetve a vallási tevékenységet végző más szervezetek különváltan működnek. Az egyházak és a vallási tevékenységet végző más szervezetek önállóak.
+(3) Az állam és a vallási közösségek különváltan működnek. A vallási közösségek önállóak.
 
-(4) Az egyházakra vonatkozó részletes szabályokat sarkalatos törvény határozza meg. A vallási tevékenységet végző szervezetek egyházként való elismerésének feltételeként sarkalatos törvény huzamosabb idejű működést, társadalmi támogatottságot és a közösségi célok érdekében történő együttműködésre való alkalmasságot írhat elő.
+(4) Az állam és a vallási közösségek a közösségi célok elérése érdekében együttműködhetnek. Az együttműködésről a vallási közösség kérelme alapján az Országgyűlés dönt. Az együttműködésben részt vevő vallási közösségek bevett egyházként működnek. A bevett egyházaknak a közösségi célok elérését szolgáló feladatokban való részvételükre tekintettel az állam sajátos jogosultságokat biztosít.
+
+(5) A vallási közösségekre vonatkozó közös szabályokat, valamint az együttműködés feltételeit, a bevett egyházakat és a rájuk vonatkozó részletes szabályokat sarkalatos törvény határozza meg.
 
 #### VIII. cikk
 
@@ -330,7 +332,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (2) Magyarország elismeri és védi a sajtó szabadságát és sokszínűségét, biztosítja a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit.
 
-(3) A demokratikus közvélemény kialakulásához szükséges megfelelő tájékoztatás, valamint az esélyegyenlőség biztosítása érdekében, politikai reklám médiaszolgáltatásban kizárólag ellenérték nélkül közölhető. Az országgyűlési képviselők általános választásán országos listát, illetve az európai parlamenti képviselők választásán listát állító jelölő szervezetek által és érdekében, az országgyűlési képviselők és az európai parlamenti képviselők választását megelőzően, kampányidőszakban politikai reklám – sarkalatos törvényben meghatározottak szerint – kizárólag közszolgálati médiaszolgáltatások útján, egyenlő feltételek mellett tehető közzé.
+(3) A demokratikus közvélemény kialakulásához választási kampányidőszakban szükséges megfelelő tájékoztatás érdekében politikai reklám médiaszolgáltatásban kizárólag ellenérték nélkül, az esélyegyenlőséget biztosító, sarkalatos törvényben meghatározott feltételek mellett közölhető.
 
 (4) A véleménynyilvánítás szabadságának a gyakorlása nem irányulhat mások emberi méltóságának a megsértésére.
 
@@ -620,7 +622,7 @@ f) ha egy éven keresztül nem vesz részt az Országgyűlés munkájában.
 
 (5) Az Országgyűlés akkor határozatképes, ha az ülésen az országgyűlési képviselőknek több mint a fele jelen van.
 
-(6) Ha az Alaptörvény eltérően nem rendelkezik, az Országgyűlés határozatait a jelen lévő országgyűlési képviselők több mint a felének szavazatával hozza meg. A házszabályi rendelkezések egyes döntések meghozatalát minősített többséghez kötheti.
+(6) Ha az Alaptörvény eltérően nem rendelkezik, az Országgyűlés határozatait a jelen lévő országgyűlési képviselők több mint a felének szavazatával hozza meg. A házszabályi rendelkezések egyes döntések meghozatalát minősített többséghez köthetik.
 
 (7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott rendészeti és fegyelmi jogkört gyakorol.
 
@@ -962,7 +964,7 @@ d) halálával.
 
 a) az Alaptörvénnyel való összhang szempontjából megvizsgálja az elfogadott, de ki nem hirdetett törvényeket;
 
-b) bírói kezdeményezésre soron kívül, de legkésőbb harminc napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;
+b) bírói kezdeményezésre soron kívül, de legkésőbb kilencven napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;
 
 c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott jogszabálynak az Alaptörvénnyel való összhangját;
 
@@ -976,11 +978,11 @@ g) az Alaptörvényben, illetve sarkalatos törvényben meghatározott további 
 
 (3) Az Alkotmánybíróság
 
-a) a (2) bekezdés b), c), e) és f) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes jogszabályt vagy jogszabályi rendelkezést;
+a) a (2) bekezdés b), c) és e) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes jogszabályt vagy jogszabályi rendelkezést;
 
 b) a (2) bekezdés d) pontjában foglalt hatáskörében megsemmisíti az Alaptörvénnyel ellentétes bírói döntést;
 
-c) a (2) bekezdés g) pontjában foglalt hatáskörében megsemmisítheti a nemzetközi szerződésbe ütköző jogszabályt vagy jogszabályi rendelkezést;
+c) a (2) bekezdés f) pontjában foglalt hatáskörében megsemmisítheti a nemzetközi szerződésbe ütköző jogszabályt vagy jogszabályi rendelkezést;
 
 illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 
@@ -1026,13 +1028,13 @@ d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elm
 
 (4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira külön bíróságok létesíthetők.
 
-(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. A bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
+(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
-(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.
 
 (7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.
 
-(8) A bíróságok szervezetének és igazgatásának, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.
+(8) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.
 
 #### 26. cikk
 
@@ -1050,7 +1052,7 @@ d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elm
 
 (3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el. Törvény által meghatározott ügyekben, egyesbíró hatáskörében bírósági titkár is eljárhat, akire e tevékenysége során alkalmazni kell a 26. cikk (1) bekezdését.
 
-(4) Az ésszerű határidőn belüli bírói döntéshez való alapjog érvényesülése és a bíróságok kiegyensúlyozott ügyterhelése érdekében sarkalatos törvényben meghatározottak szerint az Országos Bírósági Hivatal elnöke sarkalatos törvényben meghatározott ügyek tárgyalására az általános illetékességű bíróságtól eltérő, azonos hatáskörű bíróságot jelölhet ki.
+(4)
 
 #### 28. cikk
 
@@ -1208,9 +1210,9 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (5) A (4) bekezdést azon törvényi rendelkezések esetében, amelyek abban az időszakban léptek hatályba, amíg az államadósság a teljes hazai össztermék felét meghaladta, ezen időszak tekintetében akkor is alkalmazni kell, ha az államadósság a teljes hazai össztermék felét már nem haladja meg.
 
-(6) Mindaddig, amíg az államadósság a teljes hazai össztermék felét meghaladja, ha az Alkotmánybíróság, az Európai Unió Bírósága, illetve más bíróság vagy jogalkalmazó szerv döntéséből az állam által teljesítendő olyan fizetési kötelezettség fakad, amelynek teljesítésére a központi költségvetésről szóló törvényben e célra rendelkezésre álló összeg nem elegendő, tartalmában és elnevezésében is kizárólag és kifejezetten az e kötelezettség teljesítéséhez kapcsolódó, a közös szükségletek fedezéséhez való hozzájárulást kell megállapítani.
+(6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
 
-(7) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
+(7)
 
 #### 38. cikk
 
@@ -1238,17 +1240,17 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (1) A Magyar Nemzeti Bank Magyarország központi bankja. A Magyar Nemzeti Bank sarkalatos törvényben meghatározott módon felelős a monetáris politikáért.
 
-(2) A Magyar Nemzeti Bank elnökét és alelnökeit a köztársasági elnök hat évre nevezi ki.
+(2) A Magyar Nemzeti Bank ellátja a pénzügyi közvetítőrendszer felügyeletét.
 
-(3) A Magyar Nemzeti Bank elnöke a Magyar Nemzeti Bank tevékenységéről évente beszámol az Országgyűlésnek.
+(3) A Magyar Nemzeti Bank elnökét és alelnökeit a köztársasági elnök hat évre nevezi ki.
 
-(4) A Magyar Nemzeti Bank elnöke törvényben kapott felhatalmazás alapján, sarkalatos törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.
+(4) A Magyar Nemzeti Bank elnöke a Magyar Nemzeti Bank tevékenységéről évente beszámol az Országgyűlésnek.
 
-(5) A Magyar Nemzeti Bank szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.
+(5) A Magyar Nemzeti Bank elnöke törvényben kapott felhatalmazás alapján, sarkalatos törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.
+
+(6) A Magyar Nemzeti Bank szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.
 
 #### 42. cikk
-
-A pénzügyi közvetítőrendszer felügyeletét ellátó szervre vonatkozó szabályokat sarkalatos törvény határozza meg.
 
 #### 43. cikk
 

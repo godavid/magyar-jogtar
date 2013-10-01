@@ -61,7 +61,7 @@ a bírósági végrehajtásról
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
 - c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
 - d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
-- e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
+- e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
 - f) a bűnügyi zárlatot elrendelő és az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozat,
 - g) az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
 - h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
@@ -125,7 +125,7 @@ a bírósági végrehajtásról
 16. § Végrehajtási lapot állít ki
 
 - a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, továbbá a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző,
-- b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak pénzbírság, eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
+- b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
 - c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék,
 - e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
@@ -185,7 +185,7 @@ a bírósági végrehajtásról
 
 23/A. § (1) Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes járásbíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
 
-(2) Az (1) bekezdéstől eltérően a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben foglalt pénzügyi fogyasztói jogvita esetén a fogyasztó lakóhelye szerint illetékes járásbíróság látja el a Pénzügyi Békéltető Testület kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget végrehajtási záradékkal.
+(2) Az (1) bekezdéstől eltérően a Magyar Nemzeti Bankról szóló törvényben foglalt pénzügyi fogyasztói jogvita esetén a fogyasztó lakóhelye szerint illetékes járásbíróság látja el a Pénzügyi Békéltető Testület kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget végrehajtási záradékkal.
 
 (3) A Budai Központi Kerületi Bíróság a Kormánytisztviselői Döntőbizottság keresettel nem támadott kötelezést tartalmazó határozatát, valamint a Kormánytisztviselői Döntőbizottság keresettel nem támadott határozatával jóváhagyott egyezséget végrehajtási záradékkal látja el.
 
@@ -1437,7 +1437,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 - a) végrehajtó, végrehajtó-helyettes, végrehajtójelölt, végrehajtó egyéb alkalmazottja, végrehajtói iroda, végrehajtói iroda tagja és alkalmazottja,
 - b) az a jogi személy, gazdasági társaság, amelyben az a) pont szerinti személy vagy szervezet többségi befolyással rendelkezik,
-- c) az ügyben eljáró végrehajtónak, végrehajtó-helyettesnek és a végrehajtói iroda tagjának közeli hozzátartozója [Ptk. 685. § b) pont] és élettársa,
+- c) az ügyben eljáró végrehajtónak, végrehajtó-helyettesnek és a végrehajtói iroda tagjának, valamint a végrehajtó és a végrehajtói iroda alkalmazottjának közeli hozzátartozója [Ptk. 685. § b) pont] és élettársa,
 - d) az ügyben eljáró végrehajtást foganatosító bíróság állományába tartozó személy és
 - e) az adós.
 
@@ -2844,11 +2844,23 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a kamara feladata.
 
-(4) A kamara a végrehajtó működését a szervezeti és működési szabályzatában meghatározott ellenőrzési terv szerint végzi, ennek keretében 3 évenként minden végrehajtó tevékenységének átfogó vizsgálatát el kell végezni. A kamara elnöke indokolt esetben írásbeli határozattal bármikor elrendelheti a végrehajtó tevékenységének vizsgálatát, az elrendelés okát meg kell indokolni.
+(4) A kamara a végrehajtó működésének ellenőrzését az igazságügyért felelős miniszter rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében az igazságügyért felelős miniszter rendeletében meghatározott időszakonként minden végrehajtó tevékenységének átfogó vizsgálatát el kell végezni. A kamara elnöke indokolt esetben írásbeli, az elrendelésének okát is tartalmazó határozattal hivatalból elrendelheti a végrehajtó tevékenységének vizsgálatát; a miniszter megkeresésére a vizsgálatot el kell rendelni.
 
 (5) A törvényszéki végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a törvényszék elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
 
-(6) A végrehajtói tevékenység vizsgálatának eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – évente tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – tájékoztatni kell.
+
+230/A. § (1) A kamara elnöke a végrehajtó vizsgálatának elrendelésével egyidejűleg kijelöli a vizsgálatot végző személyeket.
+
+(2) A vizsgálatot végző személy a vizsgálat lefolytatása érdekében a végrehajtó irodájába beléphet, végrehajtói működésével kapcsolatos iratait, nyilvántartásait, pénzügyi bizonylatait megtekintheti, azokról másolatot készíthet, végrehajtó által lefolytatott eljárási cselekményen részt vehet, a kamara nyilvántartásaiból adatot igényelhet és felhívhatja a végrehajtót a vizsgálat tárgyára vonatkozó adatszolgáltatására, tájékoztatás adására.
+
+(3) A végrehajtó köteles a vizsgálatot végző személy felhívásának eleget tenni, a vizsgálat elvégzése érdekében valamennyi rendelkezésére álló adatot, iratot rendelkezésére bocsátani, a helyszíni vizsgálat lefolytatását lehetővé tenni, irodájába a belépést és az iratokba, nyilvántartásokba, pénzügyi bizonylatokba a betekintést biztosítani; ha e kötelezettségének nem tesz eleget, a helyszíni vizsgálaton nem jelenik meg vagy nem nyilatkozik, ez a vizsgálat lefolytatását nem gátolja.
+
+(4) A végrehajtó-helyettes és végrehajtójelölt vizsgálata során megfelelően alkalmazni kell az (1)–(3) bekezdésben foglaltakat azzal, hogy a (3) bekezdésben meghatározott kötelezettség a vizsgált személyt alkalmazó végrehajtót is terheli.
+
+(5) A vizsgálat eredményéről jegyzőkönyvet kell készíteni, amelyet a kamara elnökének és a miniszternek is meg kell küldeni. A miniszter végrehajtó vizsgálata esetében a vizsgálati jegyzőkönyv beérkezését követő 60 napon belül a 239. § (4a) bekezdése szerint jár el vagy fegyelmi feljelentést tesz a végrehajtóval szemben, ha pedig ezen intézkedések megtétele nem szükséges, az iratokat visszaküldi a kamara részére.
+
+(6) A miniszter által vezetett minisztérium képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
 
 231. §
 
@@ -2889,9 +2901,10 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
   - be) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
 - c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás hatálya alatt áll,
-- e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott, a határozat jogerőre emelkedésétől számított 10 évig,
+- e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát a miniszter a 239. § (4a) bekezdése alapján szüntette meg, a határozat jogerőre emelkedésétől számított 10 évig,
 - f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására alkalmatlan, vagy
-- g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen.
+- g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen,
+- h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
 (3)
 
@@ -2931,17 +2944,17 @@ esetén van lehetőség.
 
 236. § (1) A végrehajtó a végrehajtói működése körében, illetőleg az eljárása során okozott kár megtérítéséért a Polgári Törvénykönyv szerint felel.
 
-(2) A károk megtérítésének fedezésére a végrehajtó köteles legalább kétmillió forint értékű felelősségbiztosítást kötni, és azt a végrehajtói működésének tartama alatt fenntartani, vagy a kamaránál legalább kétmillió forint összegű biztosítékot letétbe helyezni.
+(2) A károk megtérítésének fedezésére a végrehajtó köteles legalább húszmillió forint értékű felelősségbiztosítást kötni, és azt a végrehajtói működésének tartama alatt fenntartani, vagy a kamaránál legalább húszmillió forint összegű biztosítékot letétbe helyezni.
 
 (3) A kamara a kár összegét a végrehajtót kártérítés fizetésére kötelező jogerős és végrehajtható bírósági határozat alapján 30 napon belül fizeti meg a károsultnak.
 
-(4) Ügyenként legfeljebb kétmillió forint összegű kártérítést lehet kifizetni a biztosíték összegéből, évente pedig legfeljebb hatmillió forint összegű kár megtérítésére használható fel a biztosíték összege.
+(4) Ügyenként legfeljebb húszmillió forint összegű kártérítést lehet kifizetni a biztosíték összegéből, évente pedig legfeljebb negyvenmillió forint összegű kár megtérítésére használható fel a biztosíték összege.
 
 (5) A kamara a biztosíték összegének befizetéséről igazolást állít ki, a biztosíték összegét pedig erre elkülönített számlán kezeli. A számla megterhelésére csak a kamara szervezeti és működési szabályzatában meghatározott személy adhat megbízást.
 
 (6) Ha a biztosíték összegéből a kamara kifizetést teljesít, a kifizetett összegnek megfelelő összeget a végrehajtónak 30 napon belül be kell fizetnie a kamara számlájára. A végrehajtó szolgálatának megszűnését követő 30. napig a biztosíték fel nem használt összegét a végrehajtó részére vissza kell fizetni, kivéve, ha vele szemben kártérítés megfizetésére irányuló kamarai eljárás, vagy per van folyamatban, ebben az esetben az eljárás befejezését követő 30 napon belül kell a biztosíték megmaradt összegét visszafizetni részére.
 
-237. § (1) A végrehajtó köteles a szolgálatba lépését megelőzően a kamara elnökének, illetve az általa kijelölt személynek bemutatni a bélyegzője lenyomatát, a letéti és elszámolási számlájának nyitásáról szóló fizetésiszámla-szerződést, a felelősségbiztosítási szerződést vagy a biztosíték összegének befizetéséről szóló igazolást és bejelenteni hivatali helyiségének címét.
+237. § (1) A végrehajtó köteles a szolgálatba lépését megelőzően a kamara elnökének, illetve az általa kijelölt személynek igazolni az összeférhetetlenség megszüntetését, bemutatni a bélyegzője lenyomatát, a letéti és elszámolási számlájának nyitásáról szóló fizetésiszámla-szerződést, a felelősségbiztosítási szerződést vagy a biztosíték összegének befizetéséről szóló igazolást és bejelenteni hivatali helyiségének címét.
 
 (2) A kamara elnöke vagy az általa kijelölt személy ellenőrzi a bélyegzőt, a fizetésiszámla-szerződést, felelősségbiztosítási szerződést vagy a biztosíték összegének befizetését, és azt, hogy a végrehajtó hivatali helyisége és annak felszerelése alkalmas-e a hivatás gyakorlására.
 
@@ -2972,11 +2985,14 @@ esetén van lehetőség.
 - a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) pontjában meghatározott körülmény következett be,
 - c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
-- d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés].
+- d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés],
+- e) a végrehajtó a kinevezését követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg.
 
 (4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) pontjaiban meghatározott körülmény állt fenn.
 
-(5) Ha a kamara a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
+(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a 230/A. § alapján lefolytatott átfogó vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
+
+(5) Ha a kamara a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni. Összeférhetetlenség esetén a kamara írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a miniszternek az összeférhetetlenség fennállását.
 
 (6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a miniszter a kamara véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a kamarát.
 
@@ -3063,7 +3079,8 @@ esetén van lehetőség.
 - b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
 - c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett be,
 - d) elhalálozott,
-- e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg.
+- e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
+- f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.
 
 ### Végrehajtójelölt
 
@@ -3088,9 +3105,16 @@ esetén van lehetőség.
 - b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
 - c) a 233. § (2) bekezdés b)–d) pontjában foglalt kizáró ok következett be,
 - d) elhalálozott,
-- e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg.
+- e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
+- f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.
 
 (7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
+
+### Képzési, továbbképzési kötelezettség
+
+241/A. § (1) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt köteles a kamara által szervezett képzésen és továbbképzésen részt venni.
+
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes és végrehajtójelölt részére a kamara által szervezett képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
 
 ### Végrehajtók közös irodája
 
@@ -3171,7 +3195,7 @@ esetén van lehetőség.
 - m) megválasztja a fegyelmi bíróság vizsgálóbiztosait,
 - n) a végrehajtási ügyek intézéséről statisztikai adatgyűjtést és adatszolgáltatást végez,
 - o) az önálló bírósági végrehajtók hatáskörébe tartozó ügyekről a hiteles, pontos és gyors tájékoztatás érdekében felvilágosítást ad a sajtó, a rádió és a televízió részére, és
-- p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek és helyettes bírósági végrehajtók igazolványát,
+- p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványát,
 - q) – a bíróság hatáskörébe tartozó ügyek kivételével – dönt a végrehajtó kizárásáról és új végrehajtó kijelöléséről.
 
 (3) A kamara ellátja a következő feladatokat is:
@@ -3191,7 +3215,7 @@ esetén van lehetőség.
 - c) statisztikai adatszolgáltatásáról,
 - d) működésének vizsgálatáról és a panaszügyek intézéséről.
 
-(5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány, valamint a fegyelmi büntetésként kiszabott pénzbírságok összege fedezi.
+(5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány összege fedezi.
 
 250/A. § (1) A kamara a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés a), d–f) pontjában, a (3) bekezdés d), f), valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -3674,7 +3698,7 @@ kérhetnek adatszolgáltatást.
 
 266. § (1) Fegyelmi vétséget követ el az a 225. § (1) bekezdésében felsorolt személy, aki
 
-- a) e törvényben vagy más jogszabályban meghatározott hivatásbeli kötelességét vétkesen megszegi, illetőleg
+- a) e törvényben vagy más jogszabályban meghatározott hivatásbeli kötelességét vétkesen megszegi vagy elmulasztja, illetőleg
 - b) magatartásával vagy életmódjával a feladatának ellátásához szükséges közbizalmat megingatja, vagy hivatásának tekintélyét csorbítja.
 
 (2) Fegyelmi vétséget követ el az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és az önálló bírósági végrehajtójelölt akkor is, ha vétkes magatartása a kamara iránymutatásában foglaltakat súlyosan sérti, továbbá az önálló bírósági végrehajtó, ha a kamarai tagdíj befizetését elmulasztotta.
@@ -3689,7 +3713,7 @@ kérhetnek adatszolgáltatást.
 - b) írásbeli megrovás,
 - c) a jövőbeni tisztségviseléstől meghatározott ideig történő eltiltás,
 - d) a kamarai tisztségtől való megfosztás,
-- e) 500 000 Ft-ig terjedő pénzbírság,
+- e) 5 000 000 Ft-ig terjedő pénzbírság,
 - f) hivatalvesztés.
 
 (2) A fegyelmi vétséget elkövető végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabható fegyelmi büntetések a következők:
@@ -3698,14 +3722,14 @@ kérhetnek adatszolgáltatást.
 - b) írásbeli megrovás,
 - c) a jövőbeni tisztségviseléstől meghatározott ideig történő eltiltás,
 - d) a kamarai tisztségtől való megfosztás,
-- e) 100 000 Ft-ig terjedő pénzbírság,
+- e) 500 000 Ft-ig terjedő pénzbírság,
 - f) törlés a kamarai névjegyzékből.
 
 (3) Az (1) és (2) bekezdés c), d) és e) pontjában foglalt fegyelmi büntetések más fegyelmi büntetéssel együtt is kiszabhatók.
 
 (4) Ha a fegyelmi vétség a végrehajtó pénzkezelésére vagy díjszabására vonatkozó szabályok megsértésével valósult meg, pénzbüntetést alkalmazni kell.
 
-(5) Az (1) és (2) bekezdés e) pontjában említett pénzbírság összege a kamarát illeti meg.
+(5) Az (1) és (2) bekezdés e) pontjában említett pénzbírság összege az államot illeti meg és azt a bíróság gazdasági hivatala számlájára kell befizetni.
 
 ### A fegyelmi büntetés végrehajtásának felfüggesztése
 
@@ -3771,7 +3795,9 @@ kérhetnek adatszolgáltatást.
 
 (3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végezheti.
 
-(4)
+(4) A fegyelmi bíróság bírái és vizsgálóbiztosai e feladatukat ítélkezési, igazgatási, illetve végrehajtói, kamarai munkájuk mellett látják el, és fegyelmi bírósági tevékenységükkel arányos díjazásra jogosultak. A díjazás részletes szabályait a fegyelmi bírák esetében az Országos Bírósági Hivatal elnöke szabályzatban állapítja meg, a vizsgálóbiztosok esetében pedig a kamara határozza meg.
+
+(5) A fegyelmi bíróság megállapítja ügyrendjét, melyet az Országos Bírói Tanács hagy jóvá és tesz közzé a bíróságok központi internetes honlapján.
 
 275. § (1) Fegyelmi bíróként, illetőleg vizsgálóbiztosként nem járhat el az,
 
@@ -3809,24 +3835,28 @@ kérhetnek adatszolgáltatást.
 
 (3) A fegyelmi eljárást megindító határozatban a fegyelmi tanács – a (4) bekezdésben foglalt eset kivételével – vizsgálatot rendel el, és ennek a lefolytatására vizsgálóbiztost rendel ki.
 
-(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (291. §).
+(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (291. §). A tárgyalást 30 napon belüli időpontra kell kitűzni.
 
 ### Fegyelmi vizsgálat
 
-279. § (1) A vizsgálóbiztos köteles a tényállás megállapításához szükséges körülményeket tisztázni. Ennek érdekében meghallgatja az eljárás alá vont személyt és — szükség esetén — a tanúkat, szakértő közreműködését veheti igénybe, és egyéb bizonyítást végezhet.
+279. § (1) A vizsgálóbiztos köteles a tényállás megállapításához szükséges körülményeket tisztázni. Ennek érdekében a vizsgálóbiztos nyilatkoztatja az eljárás alá vont személyt, tanúkat hallgathat meg, szakértő közreműködését veheti igénybe és egyéb bizonyítást végezhet.
 
-(2) Ha az eljárás alá vont személy a meghallgatáson nem jelent meg, vagy nem nyilatkozott, ez az eljárás lefolytatását nem gátolja.
+(2) A vizsgálóbiztos a fegyelmi vizsgálat során a tényállás megállapítása céljából és ahhoz szükséges mértékben a kamara nyilvántartásaiból adatot igényelhet, az eljárás alá vont személy irodájába beléphet, irataiba, nyilvántartásaiba és pénzügyi bizonylataiba betekinthet.
 
-(3) A vizsgálóbiztos az eljárás eredményéről a fegyelmi tanácsnak írásban jelentést tesz; a jelentést megküldi a miniszternek és a kamarának is.
+(3) Az eljárás alá vont személy – továbbá az eljárás alá vont személyt foglalkoztató végrehajtó – köteles a vizsgálóbiztos felhívásának eleget tenni, a tényállás körülményeinek tisztázása érdekében valamennyi rendelkezésére álló adatról tájékoztatni, irodájába a vizsgálóbiztos belépését biztosítani.
+
+(4) Ha az eljárás alá vont személy (3) bekezdésben foglalt kötelezettségének nem tett eleget, a meghallgatáson nem jelent meg vagy nem nyilatkozott, ez az eljárás lefolytatását nem gátolja, azonban a fegyelmi eljárás során e körülményt szintén értékelni kell. Erre a vizsgálóbiztos figyelmezteti az eljárás alá vont személyt.
+
+(5) A vizsgálóbiztos a kirendelését tartalmazó határozat kézhezvételét követő 30 napon belül a fegyelmi vizsgálat eredményéről a fegyelmi tanácsnak írásban jelentést tesz, és a jelentést megküldi a miniszternek és a kamarának is. A vizsgálóbiztos indokolt kérelmére a fegyelmi tanács a jelentéstételre nyitva álló határidőt egy ízben további 30 nappal meghosszabbíthatja.
 
 ### Az elsőfokú fegyelmi tanács eljárása
 
-280. § A fegyelmi tanács a vizsgálóbiztos jelentését figyelembe véve a következőképpen intézkedik:
+280. § A fegyelmi tanács a vizsgálóbiztos jelentését figyelembe véve, a jelentés beérkezését követő 30 napon belül a következőképpen intézkedik:
 
 - a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaadja a vizsgálóbiztosnak,
 - b) tárgyalás mellőzésével fegyelmi intézkedést hoz,
 - c) az eljárást megszünteti,
-- d) kitűzi a fegyelmi tárgyalást.
+- d) 60 napon belüli időpontra kitűzi a fegyelmi tárgyalást.
 
 281. § (1) A tárgyalásra az eljárás alá vont személyt és képviselőjét, szükség esetén a vizsgálóbiztost meg kell idézni, a minisztert és a kamarát pedig értesíteni kell a tárgyalás időpontjáról.
 
@@ -3848,15 +3878,17 @@ kérhetnek adatszolgáltatást.
 
 ### Fegyelmi határozat
 
-284. § (1) A fegyelmi tanács a tényállást a bizonyítékok egybevetésével állapítja meg, határozatát a bizonyítékok szabad mérlegelésével kialakított meggyőződése alapján hozza meg.
+284. § (1) A fegyelmi tanács a tényállást a bizonyítékok egybevetésével állapítja meg, határozatát a bizonyítékok szabad mérlegelésével kialakított meggyőződése alapján hozza meg. Ha a fegyelmi eljárás tárgyává tett cselekmény miatt a büntetőbíróság jogerős határozatában már megállapította az eljárás alá vont személy felelősségét, a fegyelmi bíróság nem állapíthatja meg, hogy az eljárás alá vont személy nem követte el a terhére rótt cselekményt.
 
 (2) A fegyelmi tanács zárt ülésen tanácskozik és szavaz, határozatait szótöbbséggel hozza. A hivatalvesztés fegyelmi büntetés kimondásához a fegyelmi tanács egyhangú szavazata szükséges.
 
 (3) Elsőként az előadó bíró szavaz, utolsóként a fegyelmi tanács elnöke.
 
-285. § (1) A fegyelmi tanács a határozatában az eljárás alá vont személyt a fegyelmi vétség alól felmenti, vagy vétkességét állapítja meg, és mindkét esetben dönt az eljárási költség viseléséről. Ha a végrehajtó vétkességét a kamarai tagdíj megfizetésének elmulasztása miatt állapították meg, a végrehajtót a tagdíj megfizetésére is kötelezni kell.
+285. § (1) A fegyelmi tanács a határozatában az eljárás alá vont személyt a fegyelmi vétség alól felmenti vagy vétkességét állapítja meg vagy az eljárást megszünteti, és mindegyik esetben dönt az eljárási költség viseléséről. Ha a végrehajtó vétkességét a kamarai tagdíj megfizetésének elmulasztása miatt állapították meg, a végrehajtót a tagdíj megfizetésére is kötelezni kell.
 
-(2) Ha a fegyelmi tanács az eljárás alá vont személy vétkességét állapította meg, és nem mellőzte a fegyelmi büntetés kiszabását [266. § (2) bek.], a határozatnak a fegyelmi büntetést is tartalmaznia kell.
+(2) Ha a fegyelmi tanács az eljárás alá vont személy vétkességét állapította meg, és nem mellőzte a fegyelmi büntetés kiszabását [266. § (3) bek.], a határozatnak a fegyelmi büntetést is tartalmaznia kell.
+
+(2a) Meg kell szüntetni a fegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy végrehajtói szolgálata megszűnt, a végrehajtójelöltek, végrehajtó-helyettesek névjegyzékéből törölték, a 269. §-ban meghatározott idő eltelt vagy a felelősségre vonást kizáró egyéb ok áll fenn. Ha a fegyelmi eljárást azért kell megszüntetni, mert az eljárás alá vont személy végrehajtójelölti, végrehajtó-helyettesi munkaviszonyát megszüntette vagy végrehajtói szolgálatáról lemondott, a fegyelmi bíróság a vétkesség kérdésében határozhat, de fegyelmi büntetést nem szab ki.
 
 (3) A fegyelmi határozatot és indokait a tárgyalás végén ki kell hirdetni.
 
@@ -3882,7 +3914,7 @@ kérhetnek adatszolgáltatást.
 
 ### A másodfokú fegyelmi tanács eljárása
 
-288. § (1) A másodfokú fegyelmi tanács elnöke megvizsgálja, hogy a fellebbezés a jogosulttól származik-e, határidőben nyújtották-e be, és ettől függően a fellebbezést elutasítja, vagy kitűzi a fellebbezési tárgyalást.
+288. § (1) A másodfokú fegyelmi tanács elnöke 30 napon belül megvizsgálja, hogy a fellebbezés a jogosulttól származik-e, határidőben nyújtották-e be, és ettől függően a fellebbezést elutasítja vagy 60 napon belüli időpontra kitűzi a fellebbezési tárgyalást.
 
 (2) A fellebbezési tárgyaláson az előadó bíró ismerteti az ügyet, a fellebbező előadja a fellebbezésében foglaltakat, legvégül az eljárás alá vont személy nyilatkozhat.
 
@@ -3904,11 +3936,11 @@ kérhetnek adatszolgáltatást.
 
 (2) A fegyelmi intézkedésről szóló határozatban e törvénynek megfelelően bármely fegyelmi büntetés kiszabható a hivatalvesztés kivételével.
 
-(3) Ha az eljárás alá vont személy a fegyelmi intézkedésről szóló határozat kézbesítésétől számított 15 napon belül tárgyalás tartását kérte, a fegyelmi intézkedés a hatályát veszti, és az elsőfokú fegyelmi tanács a tárgyalást kitűzi, vagy vizsgálóbiztost rendel ki.
+(3) Ha az eljárás alá vont személy a fegyelmi intézkedésről szóló határozat kézbesítésétől számított 15 napon belül tárgyalás tartását kérte, a fegyelmi intézkedés a hatályát veszti, és az elsőfokú fegyelmi tanács a 15 napon belül a tárgyalást 60 napon belüli időpontra kitűzi, vagy vizsgálóbiztost rendel ki.
 
 ### Felfüggesztés
 
-292. § (1) Az elsőfokú fegyelmi tanács az eljárás alá vont személyt felfüggeszti a hivatalából, ha a büntetőeljárás során az eljárás alá vont személyt letartóztatták, illetőleg ha a fegyelmi vagy a büntetőeljárás során a felfüggesztés más fontos okból indokolt. A felfüggesztésre a feljelentő, valamint a miniszternek vagy a kamarának a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
+292. § (1) Az elsőfokú fegyelmi tanács az eljárás alá vont személyt felfüggeszti a hivatalából, ha a büntetőeljárás során az eljárás alá vont személyt előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el, illetőleg ha a fegyelmi vagy a büntetőeljárás során a felfüggesztés más fontos okból indokolt. A felfüggesztésre a feljelentő, valamint a miniszternek vagy a kamarának a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
 
 (2) Az (1) bekezdésben foglalt indítványról a fegyelmi tanács 15 napon belül határoz. Ha az indítványt a feljelentéssel együtt terjesztették elő, a felfüggesztéssel egyidejűleg a fegyelmi eljárás megindításának kérdésében is dönteni kell.
 
@@ -3937,7 +3969,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi eljárás költsége
 
-295. § (1) A fegyelmi eljárás költségét az állam előlegezi.
+295. § (1) A fegyelmi eljárás költségét – az eljárás alá vont képviseletével felmerült költségek kivétel – az állam előlegezi.
 
 (2) Ha a fegyelmi eljárás során az eljárás alá vont személy vétkességét megállapították, köteles az eljárás költségét — a fegyelmi tanács döntésétől függően — egészen vagy részben az állam javára megtéríteni.
 
@@ -3945,7 +3977,7 @@ kérhetnek adatszolgáltatást.
 
 296. § (1) A fegyelmi bíróság a jogerős határozatát megküldi a miniszternek és a kamarának; ha a törvényszék elnöke tett feljelentést, vagy hivatalvesztés fegyelmi büntetés kiszabására került sor, a törvényszék elnökének is.
 
-(2) A jogerős fegyelmi büntetést a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékében fel kell tüntetni.
+(2) A jogerős fegyelmi büntetést és a 285. § (2a) bekezdése szerinti, vétkességet megállapító határozatot a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékében fel kell tüntetni.
 
 ### A fegyelmi büntetés jogkövetkezményének megszűnése
 
@@ -4086,7 +4118,8 @@ kérhetnek adatszolgáltatást.
 - l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
 - m) a végrehajtó tevékenységével okozott kár fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
 - n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
-- o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat.
+- o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
+- p) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének, magatartásának ellenőrzésére irányuló kamarai vizsgálatok lefolytatására, a vizsgálat területeire és szempontjaira, valamint a fegyelmi eljárás során a vizsgálóbiztos által végzett fegyelmi vizsgálatok lefolytatására vonatkozó részletes szabályokat.
 
 308. §
 
