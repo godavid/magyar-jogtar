@@ -68,7 +68,8 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
   - zsh) ingatlanüzemeltetés: az ingatlan napi működésével és működtetésével összefüggő feladatok ellátása;
   - zsi) minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
   - zsj) hozamgarantált tőke: a pénztártag életjáradékra váltandó egyéni számlaegyenlegének 3. számú mellékletben foglaltak szerint kiszámított legkisebb összege, melyet a Pénztárak Garanciaalapja a szolgáltatás megállapításakor az e törvényben meghatározott feltételek szerint garantál;
-  - zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag jogosult a követelésének részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a zsj) pontban meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére, vagy annak önkéntes kölcsönös nyugdíjbiztosító pénztárnál vezetett tagi számláján történő jóváírására, vagy a társadalombiztosítási nyugdíjrendszerben történő nyilvántartására.
+  - zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag jogosult a követelésének részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a zsj) pontban meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére, vagy annak önkéntes kölcsönös nyugdíjbiztosító pénztárnál vezetett tagi számláján történő jóváírására, vagy a társadalombiztosítási nyugdíjrendszerben történő nyilvántartására;
+  - zsl) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank.
 
 (3) E törvény alkalmazásában tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat.
 
@@ -1396,7 +1397,7 @@ sorolja be.
 
 (7) A pénztár az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a pénztártagnak.
 
-(8) A panasz elutasítása esetén a pénztár válaszában tájékoztatja a pénztártagot arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénztárnak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a pénztár válaszában tájékoztatja a pénztártagot arról, hogy a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNBtv.) szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénztárnak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
 (9) A pénztár a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -1602,7 +1603,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 - a) A pénztár ellen felszámolási eljárásnak van helye, ha a pénztár fizetésképtelen, vagy ha a Felügyelet azt az Mpt. 112/C. § alapján kezdeményezi. A pénztár akkor minősül fizetésképtelennek, ha esedékes elismert kötelezettségeinek 60, illetve a tagok javára vállalt szolgáltatási kötelezettségeinek az esedékességtől számított 90 napon belül nem tesz eleget. A bíróság a felszámolást Felügyelet által kezdeményezett felszámolási eljárásban pénztár fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - b) A pénztár ellen nincs helye csődeljárásnak.
-- c) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+- c) A bíróság a pénztár felszámolójának kizárólag az MNBtv.-ben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 - d) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 
 (2) A felszámolás kezdő időpontjától:
@@ -1873,9 +1874,9 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 ### XI. Fejezet — A pénztárak állami felügyelete
 
-100. § A magánnyugdíjrendszer működését az állam a Pénzügyi Szervezetek Állami Felügyelete útján felügyeli.
+100. § A magánnyugdíjrendszer működését az állam a Felügyelet útján felügyeli.
 
-101. § A pénztárak működésének törvényességi ellenőrzését az ügyészség a rá irányadó szabályok szerint, felügyeletét a Pénzügyi Szervezetek Állami Felügyelete látja el.
+101. § A pénztárak működésének törvényességi ellenőrzését az ügyészség a rá irányadó szabályok szerint, felügyeletét a Felügyelet látja el.
 
 ### A Felügyelet jogállása és feladatköre
 

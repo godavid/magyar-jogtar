@@ -44,36 +44,36 @@ kell érteni.
 - a) részvénytársasági formában működő pénzügyi vállalkozás,
 - b) legalább kétszázmillió forint saját tőkével rendelkezik,
 - c) a hitelreferencia szolgáltatást kizárólagos tevékenységként végzi,
-- d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény vagy befektetési vállalkozás és
+- d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény, befektetési vállalkozás vagy hitelintézetek érdek-képviseleti szerve és
 - e) a hitelinformációs rendszeréhez történő csatlakozási szándékát a referenciaadat-szolgáltatók legalább hetven százaléka kinyilvánította, és ezen referenciaadat-szolgáltatók legalább nyolcvan százalékával rendelkeznek az összes referenciaadat-szolgáltató tárgyévet megelőző év éves beszámolója alapján kiszámított kockázatvállalásának.
 
 (3)
 
-(4) A KHR-t kezelő pénzügyi vállalkozás évente tájékoztatást készít a KHR működéséről, illetve a KHR-ben kezelt adatok alapján a hitelfelvételek számáról, nagyságrendjéről, a szerződéses kötelezettségek teljesítéséről, valamint az eladósodás alakulásáról. E tájékoztatást a KHR-t kezelő pénzügyi vállalkozás évente honlapján közzéteszi, valamint egyidejűleg megküldi a Felügyelet részére.
+(4) A KHR-t kezelő pénzügyi vállalkozás évente tájékoztatást készít a KHR működéséről, illetve a KHR-ben kezelt adatok alapján a hitelfelvételek számáról, nagyságrendjéről, a szerződéses kötelezettségek teljesítéséről, valamint az eladósodás alakulásáról. E tájékoztatást a KHR-t kezelő pénzügyi vállalkozás évente honlapján közzéteszi, valamint egyidejűleg megküldi a Magyar Nemzeti Bank részére.
 
 #### 4. A KHR működtetésére irányuló engedély visszavonása
 
-4. § (1) A Felügyelet a KHR kezelésére vonatkozó engedélyt visszavonja, ha
+4. § (1) A Magyar Nemzeti Bank a KHR kezelésére vonatkozó engedélyt visszavonja, ha
 
 - a) a pénzügyi vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, vagy vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
-- b) a Felügyelet kezdeményezi a pénzügyi vállalkozás felszámolását,
+- b) a Magyar Nemzeti Bank kezdeményezi a pénzügyi vállalkozás felszámolását,
 - c) a pénzügyi vállalkozás nem felel meg a 3. § (2) bekezdésében foglaltaknak.
 
-(2) A Felügyelet a KHR kezelésére vonatkozó engedélyt a Hpt. 29. §-ában foglalt eseteken kívül akkor is visszavonhatja, ha
+(2) A Magyar Nemzeti Bank a KHR kezelésére vonatkozó engedélyt a Hpt. 29. §-ában foglalt eseteken kívül akkor is visszavonhatja, ha
 
 - a) a Hpt.13/C. §-ában meghatározott, az informatikai rendszer biztonságával kapcsolatos szabályozási rendszer előírásainak nem tesz eleget,
 - b) a pénzügyi vállalkozás – az arra jogosult szerv határozatával megállapított módon – súlyosan vagy ismételten megsérti az adatvédelemre vonatkozó jogszabályok előírásait,
-- c) a KHR-t kezelő pénzügyi vállalkozás nem tesz eleget a Felügyelet határozatában foglalt, a jogszerű működés helyreállítására vonatkozó előírásoknak.
+- c) a KHR-t kezelő pénzügyi vállalkozás nem tesz eleget a Magyar Nemzeti Bank határozatában foglalt, a jogszerű működés helyreállítására vonatkozó előírásoknak.
 
-(3) A KHR kezelésére vonatkozó engedély visszavonásával egyidejűleg a Felügyelet köteles a KHR kezelésére egy másik pénzügyi vállalkozást kijelölni, és az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig felügyeleti biztost kirendelni.
+(3) A KHR kezelésére vonatkozó engedély visszavonásával egyidejűleg a Magyar Nemzeti Bank köteles a KHR kezelésére egy másik pénzügyi vállalkozást kijelölni, és az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig felügyeleti biztost kirendelni.
 
-(4) Felügyeleti biztos kirendelése esetén, a felügyeleti biztosra a Hpt. és a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény rendelkezéseit megfelelően kell alkalmazni.
+(4) Felügyeleti biztos kirendelése esetén, a felügyeleti biztosra a Hpt. és a Magyar Nemzeti Bankról szóló törvény rendelkezéseit megfelelően kell alkalmazni.
 
-(5) A (3) bekezdésben meghatározott kijelölés esetén a Felügyelet azt a pénzügyi vállalkozást jelölheti ki a KHR kezelőjeként, amely kötelezettséget vállal arra, hogy a 3. § (2) bekezdésének a)–d) pontjaiban foglalt feltételeknek százhúsz napon belül megfelel.
+(5) A (3) bekezdésben meghatározott kijelölés esetén a Magyar Nemzeti Bank azt a pénzügyi vállalkozást jelölheti ki a KHR kezelőjeként, amely kötelezettséget vállal arra, hogy a 3. § (2) bekezdésének a)–d) pontjaiban foglalt feltételeknek százhúsz napon belül megfelel.
 
-(6) Az a pénzügyi vállalkozás, amelynek a KHR kezelésére vonatkozó engedélyét a Felügyelet visszavonta, köteles az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig kezelt referenciaadatokat az engedély visszavonására vonatkozó határozatban foglalt időpontban átadni annak a pénzügyi vállalkozásnak, amelyet a Felügyelet a KHR új kezelőjeként kijelöl. Az a pénzügyi vállalkozás, amelynek a KHR kezelésére vonatkozó engedélyét a Felügyelet visszavonta, az engedély visszavonására vonatkozó határozatban foglalt határidőtől kezdődően referenciaadatot nem kezelhet.
+(6) Az a pénzügyi vállalkozás, amelynek a KHR kezelésére vonatkozó engedélyét a Magyar Nemzeti Bank visszavonta, köteles az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig kezelt referenciaadatokat az engedély visszavonására vonatkozó határozatban foglalt időpontban átadni annak a pénzügyi vállalkozásnak, amelyet a Magyar Nemzeti Bank a KHR új kezelőjeként kijelöl. Az a pénzügyi vállalkozás, amelynek a KHR kezelésére vonatkozó engedélyét a Magyar Nemzeti Bank visszavonta, az engedély visszavonására vonatkozó határozatban foglalt határidőtől kezdődően referenciaadatot nem kezelhet.
 
-(7) A KHR-t kezelő pénzügyi vállalkozás üzletszabályzatának elfogadásához a Felügyelet jóváhagyása szükséges.
+(7) A KHR-t kezelő pénzügyi vállalkozás üzletszabályzatának elfogadásához a Magyar Nemzeti Bank jóváhagyása szükséges.
 
 #### II. A KHR-BEN TÖRTÉNŐ ADATKEZELÉS SZABÁLYAI
 
@@ -130,7 +130,7 @@ kell érteni.
 
 (6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő öt munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
 
-(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank és a Felügyelet részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
+(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
 
 7. § (1) A 11. és 14. §-ban foglalt rendelkezések alkalmazása során a lejárt és meg nem fizetett tartozás összegének és időtartamának számítását abban az esetben is folyamatosan kell végezni, ha az adatszolgáltatás tárgyát képező szerződésből eredő követelés egy másik referenciaadat-szolgáltató részére átruházásra kerül.
 
@@ -187,7 +187,7 @@ kell érteni.
 
 15. § (1) Az adatszolgáltatás tárgyát képező szerződés előkészítése során a referenciaadat-szolgáltató írásban tájékoztatja a szerződés megkötése ügyében eljáró természetes személyt a KHR-re irányadó szabályokról, a nyilvántartás céljáról, a nyilvántartott személyt megillető jogokról, arról, hogy a KHR által kezelt adatokat csak a törvényben meghatározott célra lehet felhasználni, arról, hogy adatai az 5. § (2) bekezdése szerint átadásra kerülnek, valamint a 11–13. § szerint átadásra kerülhetnek.
 
-(2) Az (1) bekezdés szerinti tájékoztatásnak részét képezi a Felügyelet által a honlapján megjelentetett mintatájékoztató.
+(2) Az (1) bekezdés szerinti tájékoztatásnak részét képezi a Magyar Nemzeti Bank által a honlapján megjelentetett mintatájékoztató.
 
 (3) A 11. § (1) bekezdés szerinti adatátadás tervezett végrehajtását harminc nappal megelőzően a referenciaadat-szolgáltató írásban tájékoztatja a természetes személyt arról, hogy a melléklet II. fejezete 1.1–1.2 pontja szerinti referenciaadatai bekerülnek a KHR-be, ha nem tesz eleget a szerződésben foglalt kötelezettségének.
 
@@ -246,7 +246,7 @@ kell érteni.
 
 (3) A referenciaadat zárolását, a zárolás megszüntetését, illetve a referenciaadat helyesbítését, törlését a bíróság erre vonatkozó jogerős határozatának kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül végre kell hajtani.
 
-(4) A bíróság a referenciaadat módosítására vagy törlésére vonatkozó jogerős határozatát a Felügyeletnek is megküldi.
+(4) A bíróság a referenciaadat módosítására vagy törlésére vonatkozó jogerős határozatát a Magyar Nemzeti Banknak is megküldi.
 
 20. § A 18–20. §-ban foglalt rendelkezések a másodfokú eljárásban is megfelelően irányadók.
 

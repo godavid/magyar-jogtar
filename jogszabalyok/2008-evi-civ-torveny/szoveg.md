@@ -27,26 +27,24 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 - 4. értékpapír: a Tpt.-ben meghatározott fogalom,
 - 5. forgalomba hozatal: a Tpt.-ben meghatározott fogalom,
 - 6. hitelintézet: a Hpt. szerinti hitelintézet, ide nem értve a fióktelep formájában működő hitelintézetet,
-- 7. szabályozott intézmény: a Psztv. 4. §-a szerinti szervezet és személy,
+- 7. szabályozott intézmény: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 39. §-a szerinti szervezet és személy,
 - 8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
 - 9. vezető állású személy: a Hpt.-ben meghatározott fogalom,
 - 10. pénzügyi eszköz: a Bszt. 6. §-ában meghatározott fogalom,
-- 11. MNB rendkívüli likviditási hitele: az MNB tv. 12. § (4) bekezdése szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel
+- 11. MNB rendkívüli likviditási hitele: az MNB tv. 35. §-a szerinti – az MNB tv. 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
 
 ### A SZABÁLYOZOTT INTÉZMÉNYEK HELYZETÉNEK FOLYAMATOS ÉRTÉKELÉSE
 
-3. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) és a Magyar Nemzeti Bank (a továbbiakban: MNB) folyamatosan értékeli a szabályozott intézmények helyzetét, amelyről a (2) bekezdésben meghatározott tartalommal a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter tájékoztatást kérhet.
+3. § (1) A Magyar Nemzeti Bank (a továbbiakban: MNB) folyamatosan értékeli a szabályozott intézmények helyzetét, amelyről a (2) bekezdésben meghatározott tartalommal a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter tájékoztatást kérhet.
 
-(2) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza legalább
+(2) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza legalább az MNB által készített
 
-- a) az MNB által készített
-  - aa) az egyes hitelintézetek pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményekre, pénzügyi piacokra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
-  - ab) a pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek rövid távú likviditási helyzetének értékelését, és
-  - ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
-- b) a Felügyelet által készített
-  - ba) az egyes hitelintézetek szavatoló tőke helyzetéről szóló értékelést,
-  - bb) az egyes pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-  - bc) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+- a) az egyes hitelintézetek pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményekre, pénzügyi piacokra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+- b) a pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek rövid távú likviditási helyzetének értékelését,
+- c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
+- d) az egyes hitelintézetek szavatoló tőke helyzetéről szóló értékelést,
+- e) az egyes pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+- f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
 
 ### A PÉNZÜGYI KÖZVETÍTŐRENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉS BIZTOSÍTÁSA ÉRDEKÉBEN MEGHOZHATÓ INTÉZKEDÉSEK
 
@@ -69,7 +67,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 ### A tőkeemelés és befolyásszerzés szabályai
 
-8. § (1) Az 5. § (1) bekezdésének b) pontjában meghatározott intézkedések meghozatalára a Felügyelet Felügyeleti Tanácsának elnöke és az MNB elnöke együttes javaslata alapján, az e törvényben meghatározottak szerint
+8. § (1) Az 5. § (1) bekezdés b) pontjában meghatározott intézkedések meghozatalára az MNB elnöke javaslata alapján, az e törvényben meghatározottak szerint
 
 - a) a hitelintézet kérelmére vagy egyetértésével, vagy
 - b) hivatalból, a hitelintézet egyetértése nélkül, a 16. § (1) bekezdésében meghatározott esetben
@@ -180,14 +178,14 @@ szóló döntéssel szemben.
 16. § (1) A Kormány rendeletben megállapítja, ha a hitelintézet
 
 - a) húsz munkanapot meghaladóan igénybe veszi az MNB rendkívüli likviditási hitelét a legutolsó, könyvvizsgáló által felülvizsgált, az Szmt. szerinti közbenső mérleg készítésére irányadó szabályoknak megfelelően elkészített beszámoló mérlegfőösszegének öt százalékát meghaladó összegben,
-- b) Felügyelet által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
+- b) MNB által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
 - c)
 
 és a hitelintézet fizetésképtelensége a magyarországi pénzügyi közvetítőrendszer működésében súlyos károkat okozna.
 
 (2) A Kormány az (1) bekezdés szerinti rendeletét hatályon kívül helyezi, ha
 
-- a) a hitelintézet Felügyelet által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
+- a) a hitelintézet MNB által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
 - b) a hitelintézet kilencven egymást követő nap egyikén sem vette igénybe az MNB rendkívüli likviditási hitelét.
 
 (3) A hitelintézet az (1) bekezdés alapján kiadott kormányrendelet hatálybalépését megelőző napra, mint fordulónapra – a kormányrendelet hatálybalépésétől számított kilencven napon belül – az Szmt. szerinti, független könyvvizsgáló által felülvizsgált közbenső mérleget készít.
@@ -314,7 +312,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
 - 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
 - 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
-- 7. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
+- 7.
 - 8. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 - 9. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
 - 10. Tpvt.: a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény,

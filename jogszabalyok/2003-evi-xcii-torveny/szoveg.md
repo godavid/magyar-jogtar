@@ -3749,7 +3749,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (7) Az állami adóhatóság a 2012. január 1-jét megelőző időszakra benyújtott 31. § (2) bekezdése szerinti bevallás adatait és az abban bekövetkezett változásokkal összefüggő, az 52. § (7) bekezdés b) pont bc) alpontjában előírt adatszolgáltatási kötelezettséget a 2011. december 31-én hatályos szabályok alapján teljesíti a magánnyugdíj-pénztár felé.
 
-(8) A Pénzügyi Szervezetek Állami Felügyelete a 2012. január 1-jét megelőző időszakra benyújtott 31. § (2) bekezdése szerinti bevallás adatait és az abban bekövetkezett változásokkal összefüggő, 3. számú melléklet P) pontjában előírt adatszolgáltatási kötelezettséget a 2011. december 31-én hatályos szabályok alapján teljesíti az állami adóhatóság részére. E bekezdés irányadó az állami adóhatóság 52. § (7) bekezdés h) pontja szerinti adatszolgáltatás vonatkozásában is.
+(8) A Magyar Nemzeti Bank a 2011. december 31-én hatályos szabályok alapján szolgáltatja a 2012. január 1-jét megelőző időszakra benyújtott 31. § (2) bekezdése szerinti bevallás adatait és teljesíti az abban bekövetkezett változásokkal összefüggő, 3. számú melléklet P) pontjában előírt adatszolgáltatási kötelezettségét az állami adóhatóság részére. E bekezdés irányadó az állami adóhatóság 52. § (7) bekezdés h) pontja szerinti adatszolgáltatás vonatkozásában is.
 
 (9) A 2012. január 1-jét követően az állami adóhatóság a 72. § (3) bekezdés b) pontjában foglalt hitelező képviseleti minőségéhez kötődő teendőket a 2012. január 1-jét megelőző időszak vonatkozásában látja el.
 

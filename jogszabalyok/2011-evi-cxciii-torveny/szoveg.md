@@ -50,7 +50,7 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
   - c) bármely olyan természetes személy, aki harmadik fél részére szóló, befektetési alapkezelő által nyújtandó befektetési alapkezelési szolgáltatásra vonatkozó kiszervezésre irányuló szerződés alapján közvetlenül részt vesz a befektetési alapkezelés szolgáltatásának nyújtásában;
 - 24. értékpapír: a Tpt.-ben meghatározott fogalom;
 - 25. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után fizet;
-- 26. Felügyelet: a Pénzügyi Szervezetek Állami Felügyelete;
+- 26. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB;
 - 27. felügyeleti hatóság:
   - a) a Felügyelet, illetve
   - b) a külföldi befektetési alapkezelő, kollektív befektetési forma, letétkezelő, vagy tőkepiacokon szolgáltatást nyújtó, prudenciális felügyelet hatálya alá tartozó személy vagy szervezet tevékenységi felügyeletét ellátó külföldi szervezet;
@@ -196,8 +196,8 @@ alá.
 (8) A (2) és (5)–(7) bekezdés esetében
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, nyugdíjpénztárnál
-- b) az MNB-nél, a Felügyeletnél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
+- b) az MNB-nél, a Pénzügyi Szervezetek Állami Felügyeleténél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
+- c) ingatla nalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél, valamint
 - d) az a)–c) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
 
 (9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
@@ -471,7 +471,7 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 #### 13. A befektetési alapkezelő felszámolása
 
-27. § (1) A befektetési alapkezelő felszámolása során a Cstv. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni. Befektetési alapkezelő társaság felszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki.
+27. § (1) A befektetési alapkezelő felszámolása során a Cstv. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni. Befektetési alapkezelő társaság felszámolójának a bíróság kizárólag a Magyar Nemzeti Bankról szóló törvényben meghatározott szervezetek felszámolását végző nonprofit gazdasági társaságot rendelheti ki.
 
 (2) A befektetési alapkezelő felszámolásával kapcsolatos eljárás lefolytatásában a Fővárosi Törvényszék (a továbbiakban ezen alcím tekintetében: törvényszék) kizárólagos illetékességgel rendelkezik.
 
@@ -1834,7 +1834,7 @@ kapja meg; valamint
 
 (2) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn a hatáskörében törvény felhatalmazása alapján eljáró
 
-- a) Felügyelettel, felügyeleti hatósággal,
+- a) felügyeleti hatósággal,
 - b) a Befektető-védelmi Alappal,
 - c) az MNB-vel,
 - d) az Állami Számvevőszékkel,
@@ -1867,7 +1867,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-- a) a hatáskörében eljáró Felügyelettel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az MNB-vel, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
+- a) az MNB-vel, a Befektető-védelmi Alappal, az Országos Betétbiztosítási Alappal, az Állami Számvevőszékkel, a Gazdasági Versenyhivatallal,
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az államháztartásról szóló 1992. évi XXXVIII. törvényben meghatározott kormányzati ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
@@ -1890,7 +1890,7 @@ szemben.
 (5) A (4) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
 - a) azt az ügyfelet vagy számlát, akiről vagy amelyről a (4) bekezdésben megjelölt szerv vagy hatóság az értékpapírtitok kiadását kéri, és
-- b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró MNB vagy a Felügyelet helyszíni ellenőrzést folytat.
+- b) a kért adatok fajtáját és az adatkérés célját, kivéve, ha az MNB helyszíni ellenőrzést folytat.
 
 (6) A (3) és (4) bekezdés szerint adatkérésre jogosult szerv vagy hatóság a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkérésében megjelölt.
 
@@ -1951,11 +1951,12 @@ részére,
 - a) a befektetési alapkezelőre vonatkozó szervezeti, összeférhetetlenségi, üzletviteli és kockázatkezelési követelményekről szóló szabályokat;
 - b) a befektetési alapok befektetési és hitelfelvételi szabályait.
 
-(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
 
-- a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat,
-- b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező ajánlat, vagy megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat,
-- c) az e törvény 131. § (6) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletes szabályokat.
+(3) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
+
+- a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat,
+- b) az e törvény 131. § (6) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletes szabályokat.
 
 ### Hatálybalépés
 

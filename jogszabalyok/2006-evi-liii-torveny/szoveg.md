@@ -14,7 +14,8 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 - d) részben vagy egészben egyedi kormánydöntéssel megítélt támogatásból megvalósítandó,
 - e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító, vagy
 - f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
-- g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó
+- g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó,
+- h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
 
@@ -42,7 +43,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (3) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
 
-(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
 2/B. § (1) A 2/A. § (1) bekezdése szerint kijelölt kormánymegbízott jogosult a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok vezetőjét – a Kormány tagjai, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek kivételével – írásban soron kívüli feladat elvégzésére, vagy mulasztás pótlására utasítani a kiemelt jelentőségű üggyel összefüggő feladatokkal kapcsolatban.
 

@@ -339,7 +339,7 @@ a fogyasztónak nyújtott hitelről
 
 ### Eljárás a fogyasztónak nyújtott hitelre vonatkozó rendelkezések megsértése esetén
 
-27. § (1) E törvény és a végrehajtására kiadott jogszabály rendelkezéseinek betartását a Pénzügyi Szervezetek Állami Felügyelete ellenőrzi, és – ide nem értve a szerződés létrejöttének, érvényességének, joghatásainak és megszűnésének, továbbá a szerződésszegésnek és annak joghatásainak megállapítását, valamint a (2) bekezdésben meghatározott kivétellel – eljár e rendelkezések megsértése esetén.
+27. § (1) E törvény és a végrehajtására kiadott jogszabály rendelkezéseinek betartását a Magyar Nemzeti Bank ellenőrzi, és – ide nem értve a szerződés létrejöttének, érvényességének, joghatásainak és megszűnésének, továbbá a szerződésszegésnek és annak joghatásainak megállapítását, valamint a (2) bekezdésben meghatározott kivétellel – eljár e rendelkezések megsértése esetén.
 
 (2) E törvénynek és a végrehajtására kiadott jogszabálynak a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen a fogyasztók tájékoztatására vonatkozó rendelkezéseinek megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jár el az ott meghatározott szabályok szerint.
 
@@ -362,7 +362,7 @@ a fogyasztónak nyújtott hitelről
 30. § Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) a teljes hiteldíj mutató meghatározására, számítására és közzétételére vonatkozó részletes szabályokat;
-- b) a hitelképesség vizsgálatának részletes szabályait.
+- b) a hitelképesség vizsgálatának részletes szabályait – ide nem értve a jövedelemarányos törlesztőrészletet – továbbá az ingatlan-, gépjárműhitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára vonatkozó szabályokat,
 
 31. § (1) E törvény – a (2)–(3) bekezdésben meghatározott kivétellel – a kihirdetését követő 15. napon lép hatályba.
 

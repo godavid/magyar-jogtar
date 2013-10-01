@@ -111,8 +111,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdésének
 
-- a) a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában – a b) pontban meghatározott kivétellel – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet);
-- b) a) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységek közül a pénzfeldolgozást végző szolgáltatók tekintetében az MNB;
+- a) a)–e) és l) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet);
+- b)
 - c) i) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában az állami adóhatóság;
 - d) g) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 - e) m) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában az e törvény alapján az egyéni ügyvédekre és az ügyvédi irodákra (a továbbiakban: ügyvédekre), valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
@@ -242,7 +242,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 11/A. § (1) A szolgáltató a 6. § (2) bekezdésében meghatározott kötelezettség végrehajtása érdekében a háromszázezer forintot elérő vagy meghaladó összegű ügyleti megbízás teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
 
-(2) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző szolgáltató a készpénzátutalás és a fizetési számlára történő közvetlen – pénzforgalmi szolgáltató igénybevétele nélküli – készpénzbefizetés teljesítésekor, valamint az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén – a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosításokat ide nem értve – a szerződés szerint elvárt díjon felül történő készpénzbefizetés teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
+(2) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző szolgáltató – a háromszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő készpénzátutalás kivételével – a készpénzátutalás és a fizetési számlára történő közvetlen – pénzforgalmi szolgáltató igénybevétele nélküli – készpénzbefizetés teljesítésekor, valamint az 1. § (1) bekezdés c) pontjában meghatározott tevékenységet végző szolgáltató a Bit. 2. számú melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén – a megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosításokat ide nem értve – a szerződés szerint elvárt díjon felül történő készpénzbefizetés teljesítésekor a 7. § (2) bekezdésében és a 9. § (1) bekezdés b) pontjában meghatározott adatokat köteles rögzíteni.
 
 ### Egyszerűsített ügyfél-átvilágítás
 
@@ -351,7 +351,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) A Rendelet 15. cikkének (2) bekezdése által meghatározott „alkalmazásért felelős hatóság” és a (3) bekezdése által meghatározott „illetékes hatóság” a Felügyelet, az MNB vonatkozásában a pénzügyi információs egységként működő hatóság.
 
-(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben (a továbbiakban: Psztv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
+(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
 
 (5) A Rendelet előírásainak megsértése, illetőleg a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 35. § (1) bekezdés b)–e) pontjaiban meghatározott, továbbá a következő intézkedéseket alkalmazza:
 
@@ -570,7 +570,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 34. § (1) Az 5. § a)–c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a felügyeleti tevékenység gyakorlása során biztosítja a szolgáltató e törvény rendelkezéseinek való megfelelését.
 
-(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Psztv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Magyar Nemzeti Bankról szóló törvény rendelkezései szerint jár el.
+(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és az MNBtv. rendelkezései szerint jár el.
 
 (3) A felügyelet ellátása során az 5. § d) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: könyvvizsgálói törvény) rendelkezései szerint jár el.
 

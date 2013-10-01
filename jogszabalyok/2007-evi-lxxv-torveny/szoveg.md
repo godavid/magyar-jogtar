@@ -30,7 +30,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - 1. Audit bizottság: a számviteli jogszabályok szerinti beszámoló készítés és a beszámolóra vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység folyamatát figyelemmel kísérő szerv.
 - 2. Csoportkönyvvizsgáló: az a kamarai tag könyvvizsgáló, könyvvizsgáló cég, aki/amely az összevont (konszolidált) éves beszámoló könyvvizsgálatát végzi.
 - 3. Egyeztető testület: a kamarán belül működtetett állandó fórum, amelynek célja elősegíteni a kamarai tagok egymás közötti, valamint a kamarai tagok és nem kamarai tagok közötti szakmai természetű viták rendezését.
-- 4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a Pénzügyi Szervezetek Állami Felügyelete, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
+- 4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
 - 5. Gazdálkodó: a számvitelről szóló törvényben meghatározott fogalom.
 - 6. Gazdálkodó szervezet: a Polgári Törvénykönyvről szóló törvényben meghatározott fogalom.
 - 7. Gazdálkodó szervezet (szervezet): a gazdálkodó szervezet és a gazdálkodó szervezetnek nem minősülő külföldi illetőségű szervezet.
@@ -2116,7 +2116,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) Az e törvény hatálybalépésekor érvényben lévő, a Kkt. 18. §-a szerinti igazolásokhoz ugyanazon jogok és kötelezettségek kapcsolódnak, mint az e törvény 34. §-a alapján kiállított igazolásokhoz.
 
-(6) Ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég e törvény hatálybalépésekor rendelkezett a 49. § szerinti – érvényes – minősítéssel (szerepelt a kamara vagy a Pénzügyi Szervezetek Állami Felügyelete által e célból vezetett nyilvántartásban), e minősítést az e törvény 50. §-a szerint megszerzett minősítésnek kell tekinteni.
+(6) Ha a kamarai tag könyvvizsgáló, a könyvvizsgáló cég e törvény hatálybalépésekor rendelkezett a 49. § szerinti – érvényes – minősítéssel (szerepelt a kamara vagy a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által e célból vezetett nyilvántartásban), e minősítést az e törvény 50. §-a szerint megszerzett minősítésnek kell tekinteni.
 
 204. § E törvény hatálybalépésének napjától a kamara jogosult a 49. § szerinti minősítések megadására, visszavonására, illetve a kapcsolódó nyilvántartások vezetésére. A 2007. december 31-én folyamatban lévő minősítési eljárásokban (felvétel a névjegyzékbe, törlés a névjegyzékből) a 2007. december 31-én hatályos előírások alapján kell eljárni azzal, hogy az eljárás eredményének megfelelő intézkedéseket a kamara jogosult megtenni.
 

@@ -13,7 +13,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama Magyarország – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
 - b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén a fogalomban történő részvételének feltételeire;
 - c) a biztosítók, a kárrendezési megbízott, kárképviselő, a levelező, a Kártalanítási Számla, a Kártalanítási Alap, a Nemzeti Iroda, a Kártalanítási Szervezet, az Információs Központ, valamint a Magyar Biztosítók Szövetségének (a továbbiakban: MABISZ) e törvényben szabályozott tevékenységére;
-- d) a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) és a vámhatóságnak e törvényben szabályozott tevékenységére.
+- d) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) és a vámhatóságnak e törvényben szabályozott tevékenységére.
 
 2. § E törvény hatálya nem terjed ki:
 
@@ -150,7 +150,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) A biztosító a díjat a flottára kötött szerződés vonatkozásában a biztosítási időszak, illetve tartam kezdő napján alkalmazandó díjtarifa alapján alakítja ki. A biztosító az így megállapított díjat az adott biztosítási időszak alatt nem változtathatja meg.
 
-(3) A biztosító köteles a flottára kötött szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
+(3) A biztosító köteles a flottára kötött szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 (4) Gépjárműflottára a flottához tartozó gépjárművek kategóriáitól és fajtáitól függetlenül határozott tartamú szerződés is köthető.
 
@@ -265,7 +265,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) Ha az üzemben tartó az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a 21. § (4) bekezdésében meghatározott rendelkezéseket kell alkalmazni.
 
-(7) A Kártalanítási Számla kezelője a fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó, a Kártalanítási Számla általi kártérítések és a kártérítésekhez kapcsolódó eljárási költségek alapján egy naptári évre számított – tarifáját gépjármű-kategóriánként, legkésőbb a naptári év végét megelőző negyvenötödik napig a Felügyelet elnöke által meghatározott módon a Felügyelet honlapján meghirdeti, továbbá ezzel egyidejűleg a MABISZ honlapján közzéteszi. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
+(7) A Kártalanítási Számla kezelője a fedezetlenségi díjnak – a díjhirdetést követő naptári évre vonatkozó, a Kártalanítási Számla általi kártérítések és a kártérítésekhez kapcsolódó eljárási költségek alapján egy naptári évre számított – tarifáját gépjármű-kategóriánként, legkésőbb a naptári év végét megelőző negyvenötödik napig a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon a Felügyelet honlapján meghirdeti, továbbá ezzel egyidejűleg a MABISZ honlapján közzéteszi. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa az alkalmazandó.
 
 ### Díjtarifa, díjhirdetés
 
@@ -273,7 +273,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) A szerződő üzemben tartónak a szerződés megkötésekor fennálló közlési vagy együttműködési kötelezettségének megsértése esetén a szerződés díja legkésőbb a kockázatviselés kezdetét követő hatvan napon belül, az üzemben tartó egyidejű értesítése mellett – a szerződéskötéskor fennálló tények figyelembevételével – a kockázatviselés kezdetétől alkalmazandó hatállyal módosítható a biztosítási időszak, illetve tartam kezdőnapján alkalmazandó díjtarifa szerint.
 
-(3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Felügyelet elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
+(3) A biztosító köteles minden egyedi szerződés vonatkozásában egy – a meghirdetés napjától számított hatvannapos időszakon túli – előre meghatározott naptól alkalmazandó díjtarifáját a Magyar Nemzeti Bank elnökének rendeletében meghatározott módon, a Felügyelet honlapján meghirdetni, továbbá a meghirdetés közzétételével egyidejűleg a saját és a MABISZ honlapján közzétenni. Eltérés esetén a Felügyelet honlapján meghirdetett tarifa alkalmazandó.
 
 (4) A biztosító köteles a biztosítási feltételeit és az alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
 
@@ -785,7 +785,7 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a kormány tagja, hogy rendeletben megállapíthassa a biztosítási kötelezettség alól mentes gépjárművek körét, ezek nyilvántartására vonatkozó szabályokat, gépjárművek által okozott károk megtérítését és rendezését végző szerv kijelölését, a szerv működésére vonatkozó szabályokat és a mentesített gépjárművek igazolóeszközzel történő ellátására vonatkozó szabályokat.
 
-(4) Felhatalmazást kap a Felügyelet elnöke, hogy az egyedi szerződésekre vonatkozó díjtarifának, a gépjárműflottára kötött szerződésekre vonatkozó díjtarifának, továbbá fedezetlenségi díj tarifájának a Felügyelet honlapján történő meghirdetésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az egyedi szerződésekre vonatkozó díjtarifának, a gépjárműflottára kötött szerződésekre vonatkozó díjtarifának, továbbá fedezetlenségi díj tarifájának a Felügyelet honlapján történő meghirdetésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

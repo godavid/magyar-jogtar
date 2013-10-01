@@ -40,7 +40,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (5) Lakástakarékpénztár legalább kétmilliárd forint induló tőkével alapítható.
 
-(6) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a működési engedély iránti kérelmet elutasítja, ha a szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően.
+(6) A Magyar Nemzeti Bank (a továbbiakban: MNB) a működési engedély iránti kérelmet elutasítja, ha a szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően.
 
 (7) A módozat tartalmi elemei:
 
@@ -54,11 +54,11 @@ törvényt alkot a lakástakarékpénztárakról.
 
 3/A. § (1) Fióktelep formájában működő lakástakarékpénztárat kizárólag olyan külföldi hitelintézet létesíthet, amely kizárólagos tevékenységként lakáscélú betétek gyűjtésével és lakáscélú hitelek nyújtásával foglalkozik.
 
-(2) Olyan hitelintézet fióktelepének működését, amelynek székhelye nem az Európai Unió tagállamában van, akkor engedélyezi a Felügyelet, ha a kérelmező működése, üzletszabályzata, általános szerződési feltételei megfelelnek e törvény és a kapcsolódó rendeletek előírásainak.
+(2) Olyan hitelintézet fióktelepének működését, amelynek székhelye nem az Európai Unió tagállamában van, akkor engedélyezi az MNB, ha a kérelmező működése, üzletszabályzata, általános szerződési feltételei megfelelnek e törvény és a kapcsolódó rendeletek előírásainak.
 
 (3) Fióktelep formájában működő lakástakarékpénztár a 10. § (1) bekezdésében meghatározott kiutalási összeget a külföldi hitelintézettől függetlenül, elkülönítve állapítja meg az általa kötött szerződések alapján történő befizetések figyelembevételével. Az így megállapított kiutalási összeget kizárólag a fióktelep által kötött szerződések alapján teljesítendő kifizetésekre és e szerződések teljesítése érdekében a lakáskölcsönök nyújtására szükség esetén általa felvett kölcsön tőketörlesztésére és e kölcsönnek a kollektív kamat mértékével meghatározott számított hozamának kifizetésére használhatja fel a 15. § alapján.
 
-(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe esetén a fióktelep létesítésének bejelentésétől számított két hónapon belül a Felügyelet tájékoztatja a székhely állam felügyeleti hatóságát a magyarországi tevékenységvégzés 6–24. §-ban meghatározott feltételeiről.
+(4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe esetén a fióktelep létesítésének bejelentésétől számított két hónapon belül az MNB tájékoztatja a székhely állam felügyeleti hatóságát a magyarországi tevékenységvégzés 6–24. §-ban meghatározott feltételeiről.
 
 4. §
 
@@ -126,7 +126,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 10. § (1) A lakástakarékpénztár a szerződéses összeget és annak részeként a lakáskölcsönt a kiutalási összegből folyósítja. A kiutalási összeg a következő részekből áll: a lakáselőtakarékoskodók által befizetett betétek, a betétekre jóváírt kamatok, a jóváírt állami támogatás és annak kamatai, valamint a már lakáskölcsönt kapott lakáselőtakarékoskodók, illetve kedvezményezettek tőketörlesztései.
 
-(2) A lakás-takarékpénztár a Felügyeletnek haladéktalanul jelentést tesz, ha az adott kiutalási időpontban a kiutalási összegből nem tudja azoknak a lakás-előtakarékoskodóknak a szerződéses összeg kiutalására vonatkozó igényét sem kielégíteni, akik az adott módozat szerinti szerződésben meghatározott minimális megtakarítási hányad 110%-át már megtakarították, elérték a minimális értékszámot és a módozat szerinti minimális megtakarítási időt. Ebben az esetben a lakástakarékpénztár a folyósítandó lakáskölcsön fedezetére az Felügyelet engedélyével kölcsönt is felvehet. Amennyiben a Felügyelet a továbbiakban nem látja biztosítottnak a szerződések teljesíthetőségét, a Hpt. szerinti intézkedéseket tesz, és bírságot szabhat ki.
+(2) A lakás-takarékpénztár az MNB-nek haladéktalanul jelentést tesz, ha az adott kiutalási időpontban a kiutalási összegből nem tudja azoknak a lakás-előtakarékoskodóknak a szerződéses összeg kiutalására vonatkozó igényét sem kielégíteni, akik az adott módozat szerinti szerződésben meghatározott minimális megtakarítási hányad 110%-át már megtakarították, elérték a minimális értékszámot és a módozat szerinti minimális megtakarítási időt. Ebben az esetben a lakástakarékpénztár a folyósítandó lakáskölcsön fedezetére az MNB engedélyével kölcsönt is felvehet. Amennyiben az MNB a továbbiakban nem látja biztosítottnak a szerződések teljesíthetőségét, a Hpt. szerinti intézkedéseket tesz, és bírságot szabhat ki.
 
 11. § (1) A lakástakarékpénztár a megkötött lakás-előtakarékossági szerződés alapján a lakás-előtakarékossági szerződésben rögzítettektől eltérő feltételekkel, hitelvizsgálat és külön kölcsönszerződés megkötését követően legfeljebb a szerződéses összeggel megegyező összegű áthidaló kölcsönt nyújthat a lakás-előtakarékoskodónak, illetve a kedvezményezettnek kizárólag a 8. § (1) bekezdésében meghatározott lakáscélú felhasználásra.
 
@@ -145,15 +145,15 @@ törvényt alkot a lakástakarékpénztárakról.
 12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül kizárólag a következő tevékenységeket végezheti:
 
 - a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
-- b) a lakás-takarékpénztár a Felügyelet engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
+- b) a lakás-takarékpénztár az MNB engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
 - c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosítóintézet részére pénzügyi szolgáltatás közvetítését (ügynöki tevékenységet) végezhet,
 - d) a 10. és a 11. §-ban meghatározott hitelnyújtáshoz kapcsolódóan ingatlanértékelési tevékenységet végezhet.
 
-(2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését a Felügyelet akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be a Felügyelet részére.
+(2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését az MNB akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be az MNB részére.
 
 13. § (1) A lakástakarékpénztár által felvett kölcsönök, illetve az általa kibocsátott hitelviszonyt megtestesítő értékpapírok (a továbbiakban együtt: felvett kölcsönök) állománya a 10. § (2) bekezdésében foglalt eset kivételével nem haladhatja meg a folyósított áthidaló kölcsöneinek állományát. A felvett kölcsönök állománya – beleértve a 10. § (2) bekezdésben foglalt esetet is – a kölcsönfelvételkor, illetve a hitelviszonyt megtestesítő értékpapír kibocsátásakor nem haladhatja meg a betétállomány 40%-át.
 
-(2) A felvett kölcsönök állományának alakulásáról a lakástakarékpénztár a folyamatos adatszolgáltatás körében jelentést tesz a Felügyeletnek.
+(2) A felvett kölcsönök állományának alakulásáról a lakástakarékpénztár a folyamatos adatszolgáltatás körében jelentést tesz az MNB-nek.
 
 14. § A 6. § (1) bekezdésének c) és d) pontja szerinti lakáselőtakarékoskodókkal kötött, érvényben lévő szerződések együttes szerződéses összege az új szerződések megkötésének időpontjában nem haladhatja meg a lakástakarékpénztár előző hónap utolsó napján érvényben lévő összes szerződéséből eredő szerződéses összeg 15%-át.
 
@@ -199,17 +199,17 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) A lakástakarékpénztár köteles általános szerződési feltételeit oly módon meghatározni, hogy azok hosszú távon biztosítsák a lakáselőtakarékoskodók és a lakástakarékpénztár által vállalt kötelezettségek összhangját.
 
-(3) Az általános szerződési feltételek módosításához a Felügyelet engedélye szükséges.
+(3) Az általános szerződési feltételek módosításához az MNB engedélye szükséges.
 
 ### A lakástakarékpénztár felügyelete
 
-19. § (1) A lakástakarékpénztár biztonságos működése és az ügyfeleinek érdekében a Felügyelet a lakástakarékpénztárhoz – a működési engedély kiadásától számított 2 éven belül – ellenőrt nevez ki.
+19. § (1) A lakástakarékpénztár biztonságos működése és az ügyfeleinek érdekében az MNB a lakástakarékpénztárhoz – a működési engedély kiadásától számított 2 éven belül – ellenőrt nevez ki.
 
 (2) Az ellenőr a helyszínen ellenőrzi az általános szerződési feltételek, különösen a hiteligény elbírálására és a szerződéses összeg kiutalására, valamint a lakáskölcsön folyósítására vonatkozó előírások betartását. A lakástakarékpénztár köteles az ellenőr számára a helyszíni ellenőrzést lehetővé tenni, valamint az ellenőrzés során szükséges üzleti könyvekhez, jelentésekhez, adatokhoz való hozzáférést biztosítani.
 
-(3) Az ellenőr a (2) bekezdésben meghatározott ellenőrzés során feltárt jogsértés vagy hiányosság esetén a Felügyeletnél intézkedések megtételét, illetve bírság kiszabását kezdeményezi.
+(3) Az ellenőr a (2) bekezdésben meghatározott ellenőrzés során feltárt jogsértés vagy hiányosság esetén az MNB-nél intézkedések megtételét, illetve bírság kiszabását kezdeményezi.
 
-20. § A lakástakarékpénztár szerződési állományát a Felügyelet engedélyével más lakástakarékpénztárra ruházhatja át.
+20. § A lakástakarékpénztár szerződési állományát az MNB engedélyével más lakástakarékpénztárra ruházhatja át.
 
 ### A lakáselőtakarékosság állami támogatása
 

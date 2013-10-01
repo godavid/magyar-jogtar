@@ -1042,7 +1042,7 @@ A védelem alá eső tisztségek:
 - 11. a titkos információgyűjtést engedélyező bírók,
 - 12. a legfőbb ügyész által az 55. § alapján kijelölt ügyész,
 - 13. a Magyar Nemzeti Bank elnöke és alelnökei,
-- 14. a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei,
+- 14.
 - 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
 
 ### 2. számú melléklet az 1995. évi CXXV. törvényhez

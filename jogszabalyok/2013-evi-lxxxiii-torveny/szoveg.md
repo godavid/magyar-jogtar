@@ -62,7 +62,7 @@ a pénzügyi konglomerátumok kiegészítő felügyeletéről
 - b) a csoporthoz tartozó vállalkozásoknak legalább egyike a biztosítási szolgáltatási ágazathoz és legalább egyike a banki vagy a befektetési szolgáltatási ágazathoz tartozik, és
 - c) a csoport vállalkozásaiban összevontan (konszolidáltan) vagy aggregáltan mért tevékenység mind a biztosítási szolgáltatási, mind a banki vagy befektetési szolgáltatási ágazatban a 4. § (2) vagy 4. § (5) bekezdése alapján meghatározott feltételeknek megfelelően jelentős.
 
-(2) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a többi érintett felügyeleti hatósággal egyetértésben hivatalból dönt arról, hogy a csoport pénzügyi konglomerátumnak minősül.
+(2) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) a többi érintett felügyeleti hatósággal egyetértésben hivatalból dönt arról, hogy a csoport pénzügyi konglomerátumnak minősül.
 
 4. § (1) A csoport tevékenysége elsősorban a pénzügyi ágazatban folyik, ha a csoporton belül a pénzügyi ágazathoz tartozó szabályozott és nem szabályozott vállalkozások mérlegfőösszegeinek összege meghaladja a csoport összesített mérlegfőösszegének negyven százalékát.
 

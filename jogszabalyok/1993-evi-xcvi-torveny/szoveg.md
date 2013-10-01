@@ -12,14 +12,14 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 - a) a természetes személyek elhatározásából, illetve a munkáltató kezdeményezésére munkavállalók által alapított olyan pénztári szervezet, amely tagjai – vagy a pénztártag jogán annak közeli hozzátartozói – részére társadalombiztosítási vagy más szociális ellátást kiegészítő, pótló, illetve – külön törvényben meghatározott feltételek szerint – azt helyettesítő szociális, illetve egészségügyi – egészségvédelmi – szolgáltatást szervez és nyújt,
 - b) a pénztárak által e törvényben foglaltak szerint létrehozott szervezet, valamint a számukra e törvény szerint szolgáltatást nyújtó természetes és jogi személy, valamint jogi személyiség nélküli gazdasági társaság – a 2. § (2) bekezdés d) pontja szerinti szolgáltató – a pénztárak részére végzett tevékenysége tekintetében,
-- c) a pénztárak állami felügyeletét ellátó szerv,
+- c) a pénztárak pénzügyi felügyeletét ellátó szerv (a továbbiakban: Felügyelet),
 - d) természetes személy, aki az e törvény alapján létrehozott pénztári szervezet tagja.
 
 (2) A nemzetközi szerződések hatálya alá tartozó személyekre e törvény rendelkezéseit a nemzetközi szerződésben foglalt eltéréssel kell alkalmazni.
 
 (3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre és az ilyen tevékenységet végző egyéb szervezetekre a biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
-(4) E törvény hatálya és a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) intézkedési jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.
+(4) E törvény hatálya és a Felügyelet intézkedési jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.
 
 ### Fogalmak
 
@@ -137,7 +137,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 6. § (1) A pénztár jogi személy.
 
-(2) A pénztárt a székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz és határozatát a kérelmezővel egyidejűleg kézbesíti az ügyész részére, továbbá megküldi a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet).
+(2) A pénztárt a székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz és határozatát a kérelmezővel egyidejűleg kézbesíti az ügyész részére, továbbá megküldi a Felügyeletnek.
 
 (3) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alakuló közgyűlés időpontjára visszaható hatállyal. A pénztár nyilvántartásba vételének meghiúsulása esetén a felek egymás közötti jogviszonyaira a Polgári Törvénykönyvről szóló többször módosított 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezései az irányadók.
 
@@ -147,7 +147,9 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) Ha a pénztár a nyilvántartásba vétel előtt jogot szerez vagy kötelezettséget vállal, a nyilvántartásba vétel hiányára nem hivatkozhat.
 
-8. § A pénztárak működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másképpen nem biztosítható az ügyészség keresettel a bírósághoz fordulhat. A pénztárak állami felügyeletét e törvény VI. fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.
+8. § (1) A pénztárak működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másképpen nem biztosítható, az ügyészség keresettel a bírósághoz fordulhat.
+
+(2) A pénztárak pénzügyi felügyeletét ellátó szerv feladatait a VI. fejezet alapján a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljárva a Magyar Nemzeti Bank látja el.
 
 9. § (1) A pénztár a 10. § (1) bekezdésében meghatározott tevékenységet a Felügyelet jogerős tevékenységi engedélye birtokában kezdheti meg. A tevékenység engedélyezésének eljárási szabályait a 60—64. §-ok tartalmazzák.
 
@@ -399,7 +401,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - b) az ellenőrző bizottság tagja pénztártagként vagy a munkáltató(k) képviselőjeként az a személy lehet, akivel szemben az a) pontban meghatározott kizáró ok nem áll fenn;
 - c) nem lehet vezető tisztségviselő, valamint a pénztár ügyvezetője (helyettes ügyvezetője) az a személy sem,
   - ca) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosítópénztárban, magánnyugdíj-pénztárban, biztosítóintézetben, pénzügyi intézményben vagy befektetési vállalkozásban, amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét a Felügyelet jogsértés miatt visszavonta, vagy amelynek a felszámolását a bíróság jogerősen elrendelte,
-  - cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet vagy más hatóság a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította.
+  - cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben a Felügyelet vagy más hatóság a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította.
 
 (3) Az igazgatótanács és az ellenőrző bizottság tagjai, ha az alapszabály erre módot ad, díjazásban részesülhetnek a közgyűlés határozatának megfelelően.
 
@@ -430,7 +432,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) A vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak újraválasztása vagy újbóli kinevezése esetén a (2) bekezdés c) pontjában foglaltak ismételt igazolására nincs szükség.
 
-20/B. § (1) Az igazgatótanács tagjának jelölt személy azt, hogy a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tagjának jelölt személy azt, hogy a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből, megválasztását megelőzően a közgyűlés részére hatósági bizonyítvánnyal igazolja. Amennyiben az előzetes igazolásra indokoltan nincs lehetőség, akkor az igazgatótanács, vagy ellenőrző bizottság tagjának választott személy megválasztását követően 30 napon belül hatósági bizonyítvánnyal igazolja a pénztárnak és a felügyeletnek, hogy igazgatótanácsi tag esetén a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tag esetén a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből. Az igazolás időpontjáig a megválasztott igazgatótanácsi, ellenőrző bizottsági tag a testületi döntésekben nem vehet részt. Amennyiben a feltételek fennállásának maradéktalan igazolásra a megválasztást követő 30 napon belül nem kerül sor, akkor az igazgatótanácsi, ellenőrző bizottsági tagság megszűnik.
+20/B. § (1) Az igazgatótanács tagjának jelölt személy azt, hogy a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tagjának jelölt személy azt, hogy a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből, megválasztását megelőzően a közgyűlés részére hatósági bizonyítvánnyal igazolja. Amennyiben az előzetes igazolásra indokoltan nincs lehetőség, akkor az igazgatótanács, vagy ellenőrző bizottság tagjának választott személy megválasztását követően 30 napon belül hatósági bizonyítvánnyal igazolja a pénztárnak és a Felügyeletnek, hogy igazgatótanácsi tag esetén a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tag esetén a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből. Az igazolás időpontjáig a megválasztott igazgatótanácsi, ellenőrző bizottsági tag a testületi döntésekben nem vehet részt. Amennyiben a feltételek fennállásának maradéktalan igazolásra a megválasztást követő 30 napon belül nem kerül sor, akkor az igazgatótanácsi, ellenőrző bizottsági tagság megszűnik.
 
 (2) A vezető tisztségviselői tisztség betöltésének ideje alatt a közgyűlés írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja
 
@@ -576,7 +578,7 @@ képviseli.
 
 (7) A pénztár az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a pénztártagnak.
 
-(8) A panasz elutasítása esetén a pénztár válaszában tájékoztatja a pénztártagot arról, hogy, a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénztárnak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a pénztár válaszában tájékoztatja a pénztártagot arról, hogy, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A pénztárnak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
 (9) A pénztár a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
@@ -1049,7 +1051,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) A pénztár ellen nincs helye csődeljárásnak.
 
-(3) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+(3) A bíróság a pénztár felszámolójának kizárólag az MNBtv. 39. §-ában meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (4) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 
@@ -1404,7 +1406,7 @@ nyújthat.
 
 ### VI. Fejezet — A PÉNZTÁRAK FELETTI FELÜGYELET
 
-53. § A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) jogállását külön törvény határozza meg.
+53. §
 
 54. §
 
@@ -1678,7 +1680,7 @@ nyújthat.
 
 76–77. §
 
-78. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a pénztárak egyes gazdálkodási szabályait, a pénztárak beszámolási és könyvvezetési kötelezettségét, a felügyeleti eljárási szabályokat, a felügyeleti eljárási igazgatási díjak kiszabásának feltételeit, valamint az egészségpénztárak és az önsegélyező pénztárak által finanszírozható szolgáltatások nyújtására, és ezen szolgáltatások szakmai ellenőrzésére vonatkozó egyes szabályokat.
+78. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a pénztárak egyes gazdálkodási szabályait, a pénztárak beszámolási és könyvvezetési kötelezettségét, a felügyeleti eljárási szabályokat, valamint az egészségpénztárak és az önsegélyező pénztárak által finanszírozható szolgáltatások nyújtására, és ezen szolgáltatások szakmai ellenőrzésére vonatkozó egyes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségpénztáraknak az egészségügyi intézményekre vonatkozó működési és üzemeltetési szabályait rendeletben szabályozza.
 
@@ -1688,7 +1690,7 @@ nyújthat.
 
 (5) Felhatalmazást kap a kormány, hogy a nemi hovatartozás szerint eltérő szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát rendeletben szabályozza.
 
-79. § Felhatalmazást kap a Felügyelet elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
+79. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 80. § (1)–(2)
 

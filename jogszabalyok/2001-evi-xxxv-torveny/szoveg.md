@@ -68,7 +68,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (6) A kormány a közigazgatási hatósági eljárásokban és szolgáltatásokban felhasználható elektronikus aláírásokra, az elektronikus aláíráshoz tartozó tanúsítványokra, illetve az azokkal összefüggésben nyújtott elektronikus aláírással kapcsolatos szolgáltatásokra rendeletben – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglalt rendelkezések érvényesítése érdekében – sajátos követelményeket írhat elő.
 
-(7) Jogszabály – az adókötelezettség teljesítésének módját megállapító törvény, a bírósági cégeljárás szabályait megállapító törvény és a jogügyletek biztonságának erősítéséről szóló törvénymódosításokról szóló törvény és a Pénzügyi Szervezetek Állami Felügyelete részére történő adatszolgáltatás teljesítésének módját megállapító jogszabály kivételével – nem teheti elektronikus aláírás felhasználását ügyfél részére kötelezővé.
+(7) Az adókötelezettség teljesítésének módját megállapító törvény, a bírósági cégeljárás szabályait megállapító törvény, a jogügyletek biztonságának erősítéséről szóló törvénymódosításokról szóló törvény és a pénzügyi közvetítőrendszer felügyeletét ellátó szerv részére történő adatszolgáltatás teljesítésének módját megállapító jogszabály kivételével jogszabály nem teheti kötelezővé az elektronikus aláírás felhasználását az ügyfél részére.
 
 (8) Minősített tanúsítványt bármely – a (3)–(4) bekezdés szerinti – bírósági vagy államigazgatási eljárásban el kell fogadni.
 

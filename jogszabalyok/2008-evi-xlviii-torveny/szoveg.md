@@ -216,7 +216,7 @@ vonatkoznak.
 
 ### Eljárás a törvény rendelkezéseinek megsértése esetén
 
-24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (2)–(4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Pénzügyi Szervezetek Állami Felügyelete jár el.
+24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (2)–(4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Felügyelet jár el.
 
 (2) A 12. §-ban és a 13. §-ban foglaltakba ütköző reklám, valamint az e rendelkezésekbe ütköző magatartásra ösztönző magatartási kódex esetén a Gazdasági Versenyhivatal vagy a bíróság jár el a (3) bekezdésben meghatározottak szerint.
 
@@ -238,7 +238,7 @@ vonatkoznak.
 
 (5)
 
-26/A. § (1) A Pénzügyi Szervezetek Állami Felügyelete eljárására az e törvényben meghatározott eltérésekkel a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény rendelkezéseit kell alkalmazni.
+26/A. § (1) A Felügyelet eljárására az e törvényben meghatározott eltérésekkel a Magyar Nemzeti Bankról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 

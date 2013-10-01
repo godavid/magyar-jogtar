@@ -8,7 +8,7 @@ a pénzforgalmi szolgáltatás nyújtásáról
 
 1. § (1) E törvény rendelkezéseit kell alkalmazni a Magyarország területén nyújtott pénzforgalmi szolgáltatásra.
 
-(2) E törvény rendelkezései a Magyar Nemzeti Bankra kizárólag a monetáris politika megvalósításán, valamint a kincstári egységes számla vezetésén kívül végzett pénzforgalmi szolgáltatása tekintetében terjednek ki.
+(2) E törvény rendelkezései a Magyar Nemzeti Bankra a pénzügyi közvetítőrendszer felügyeletével kapcsolatos tevékenysége, továbbá a monetáris politika megvalósításán és a kincstári egységes számla vezetésén kívül végzett pénzforgalmi szolgáltatása tekintetében terjednek ki.
 
 (3) A Magyar Nemzeti Bank által az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság részére vezetett pénzforgalmi számla tekintetében e törvénynek kizárólag a hatósági átutalás és az átutalási végzés alapján történő átutalás lebonyolítására vonatkozó szabályait kell alkalmazni.
 
@@ -97,7 +97,7 @@ vonatkoznak.
   - aa) a szolgáltató cégnevéről és székhelyéről,
   - ab) a szolgáltató – az ügyfél lakóhelye vagy székhelye szerinti EGT-államban székhellyel rendelkező – fióktelepének vagy közvetítőjének címéről,
   - ac) ügyféllel való egyéb kapcsolattartás (ideértve az elektronikus levelezést) címéről, valamint
-  - ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
+  - ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
 - b) a szolgáltatásra vonatkozóan:
   - ba) a szolgáltatás lényeges jellemzőiről,
   - bb) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás teljesítéséhez szükségesek,
@@ -216,7 +216,7 @@ vonatkoznak.
 
 - a) jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal igazolta, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
 - b) a nyilvántartásba még be nem jegyzett jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
-- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó az Adó- és Pénzügyi Ellenőrzési Hivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás vagy az egyéni vállalkozói igazolvány, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
+- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó a Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás vagy az egyéni vállalkozói igazolvány, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
 
 (2) Fizetési számlát a pénzforgalmi szolgáltató akkor nyithat, ha a pénzforgalmi számla nyitására nem kötelezett – a jogi formájára vonatkozó előírások szerint – a létrejöttére, illetve nyilvántartásba vételére vonatkozó okmányokat, iratokat bemutatta.
 

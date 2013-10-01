@@ -4,19 +4,101 @@ a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CC
 
 1–2. §
 
-3. §
+3. § A Kvtv. 11. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A központi költségvetési szervként működő – köznevelési közfeladatot ellátó intézményt fenntartó – felsőoktatási intézményt az általa ellátott köznevelési feladatok tekintetében a 35/B. §-ban és a 35/D. § (1) bekezdésében megállapított támogatások azonos jogcímen és feltételekkel illetik meg.”
 
 4. §
 
-5. §
+5. § A Kvtv. a következő 35/A–35/E. §-sal egészül ki:
+
+„35/A. § (1) Az Országgyűlés a köznevelési közfeladatot ellátó intézményt fenntartó
+
+a) nemzetiségi önkormányzat, egyházi jogi személy, vallási tevékenységet végző szervezet és a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartó részére az általa fenntartott nevelési-oktatási intézményben, pedagógiai szakszolgálati intézményben, vagy gyermekvédelmi intézményben pedagógus-munkakörben, a nevelő-, oktató munkát közvetlenül segítő munkakörben, valamint
+
+b) nem állami felsőoktatási intézmény részére pedagógus-munkakörben, a nevelő-, oktató munkát közvetlenül segítő munkakörben
+
+foglalkoztatottak után átlagbér alapú támogatást állapít meg a 10. melléklet I. pontja szerint.
+
+(2) Az Országgyűlés a nemzetiségi önkormányzat vagy az egyházi jogi személy által fenntartott nevelési-oktatási intézményre és pedagógiai szakszolgálati intézményre tekintettel a nemzetiségi önkormányzat és a bevett egyház részére működési támogatást állapít meg a 10. melléklet II. pontja szerint.
+
+(3) Az Nkt. 97. § (5) bekezdésében meghatározott intézmény nemzetiségi önkormányzat, egyházi jogi személy, vallási tevékenységet végző szervezet és a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartója átlagbér alapú támogatásra és az ilyen intézmény nemzetiségi önkormányzat vagy egyházi jogi személy fenntartója működési támogatásra jogosult.
+
+(4) Az átlagbér alapú támogatás alapja – az óvoda kivételével – az állami köznevelési feladatellátás keretében állami intézményfenntartásra kijelölt szerv (a továbbiakban: állami intézményfenntartó központ) által fenntartott iskolában, kollégiumban, pedagógiai szakszolgálati intézményben pedagógus munkakörben, valamint nevelő-, oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után kifizetett személyi juttatás és járulék.
+
+(5) Az átlagbér alapú támogatás a fenntartott nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben a személyi juttatások és azok járulékai, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel. Az átlagbér alapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakiskolák, szakközépiskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzési törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
+
+(6) Az átlagbér alapú támogatás és a működési támogatás tényleges gyermek-, tanulólétszám szerinti elszámolására a költségvetési évet követő év január 31-éig kormányrendeletben meghatározott módon kerül sor.
+
+(7) Az átlagbér alapú támogatás és a működési támogatás összesített egyenlegének rendezésére a központi költségvetés végrehajtásáról szóló törvényben kerül sor akként, hogy
+
+a) az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézményekben és pedagógiai szakszolgálati intézményekben kimutatott éves összesített működési és felújítási kiadást, valamint a fenntartók működtetéssel és intézményfenntartással kapcsolatos kiadásait csökkenteni kell
+
+aa) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 2. § c) és d) pontja szerinti állami és települési önkormányzati bevételekkel és
+
+ab) az olyan költségvetési támogatás összegével, amelyhez a nemzetiségi önkormányzat és az egyházi jogi személy az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménnyel, pedagógiai szakszolgálati intézménnyel azonos feltételek mellett hozzájuthat és
+
+b) az a) pontban meghatározott számítás eredményének – az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménybe vagy pedagógiai szakszolgálati intézménybe járó – egy gyermekre, tanulóra jutó összegéből a (6) bekezdés szerinti elszámolást is figyelembe véve le kell vonni a kifizetett átlagbér alapú támogatás és működési támogatás egy gyermekre, tanulóra jutó együttes összegét.
+
+(8) A nemzetiségi önkormányzattal kötött köznevelési szerződés erre vonatkozó rendelkezése alapján az oktatásért felelős miniszter a nemzetiségi önkormányzat által fenntartott kislétszámú iskola köznevelési feladatai ellátásának biztosítása érdekében az általa vezetett minisztérium költségvetési fejezetébe tartozó előirányzat terhére az (1)–(3) bekezdésben meghatározottakon túl további támogatást nyújthat a nemzetiségi önkormányzat részére.
+
+35/B. § Az Országgyűlés az óvodai, általános iskolai, középfokú iskolai, kollégiumi étkeztetés támogatására a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzat, nem állami felsőoktatási intézmény, egyházi jogi személy, vallási tevékenységet végző szervezet és az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartó részére az általa biztosított gyermek-, tanulóétkeztetésre tekintettel a 2. melléklet II. pont 3. alpont b) alpontjában meghatározott támogatással azonos összegű és azonos feltételek mellett nyújtott támogatást állapít meg.
+
+35/C. § (1) A Magyarország területén külföldi állam vagy nemzetközi szervezet oktatási programja szerint az oktatásért felelős miniszter engedélye alapján működő nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója az ilyen intézmény által pedagógus-munkakörben foglalkoztatott személy után átlagbér alapú támogatásra jogosult, ha
+
+a) a pedagógus iskolai végzettsége és szakképzettsége megfelel az Nkt.-ban meghatározott képesítési előírásoknak,
+
+b) a külföldi óvoda, a nemzetközi óvoda pedagógiai programja megfelel az Óvodai nevelés országos alapprogramjának, a külföldi iskola, a nemzetközi iskola pedagógiai programja tartalmi szempontból igazodik a Nemzeti alaptantervhez.
+
+(2) Az (1) bekezdés alapján nyújtott átlagbér alapú támogatás megállapításánál a gyermek, tanulólétszámba nem számíthatóak be azok a gyermekek, tanulók, akik után a fenntartó tandíjat szed.
+
+(3) Külföldi állam vagy nemzetközi szervezet által elismert vagy akkreditált köznevelési intézmények esetében a nevelő-, oktató munkát közvetlenül segítők után az Országgyűlés nem biztosít támogatást.
+
+35/D. § (1) A köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzat, nem állami felsőoktatási intézmény, egyházi jogi személy, vallási tevékenységet végző szervezet és az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartó az általános iskola első évfolyamát 2013. szeptember 1-jén elkezdő és 2013. október 1-jén tanulói jogviszonyban álló tanulók létszáma alapján tankönyvtámogatásra jogosult. A támogatás összege 12 000 forint/fő/év.
+
+(2) A bevett egyház az állami iskolában általa szervezett hit- és erkölcstanoktatáshoz kapcsolódóan tankönyvtámogatásra jogosult. A tankönyvtámogatást a bevett egyház a hit- és erkölcstan-oktatásban résztvevő tanulók után veheti igénybe, ha ahhoz olyan tankönyvet alkalmaz, amely a hivatalos tankönyvjegyzéken szerepel. A tankönyvtámogatás fajlagos összege
+
+a) az 1. évfolyamon 980 forint/tanuló,
+
+b) az 5. évfolyamon 1270 forint/tanuló,
+
+c) a hat évfolyammal működő gimnáziumokban a 7. évfolyamon 1580 forint/tanuló.
+
+(3) A bevett egyház az állami iskolában általa szervezett hit- és erkölcstanoktatásra tekintettel a 35/A. § (1) bekezdésében meghatározottakon túl további átlagbér alapú támogatásra jogosult. Az ilyen támogatás szempontjából elismert számított pedagógus létszámot két tizedesjegyre kell megállapítani a hit- és erkölcstan oktatásban részt vevő tanulók 8 fős csoportja után heti 24 órával számolva. A tanulók számának meghatározása a 2013. október 1-jei statisztikai létszám alapján történik.
+
+(4) A (3) bekezdés szerinti támogatás összege havonta 309 900 forint, ami a főiskolai végzettségű Pedagógus I. kategóriába sorolt pedagógus bruttó átlagbére és járuléka.
+
+35/E. § (1) A 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatások kizárólag olyan, a nevelési-oktatási intézményben ellátott, oktatott létszám után vehetők igénybe, amely nevelési-oktatási intézmény alapító okiratában az igényjogosultságot megalapozó tevékenység szerepel, és amely OM azonosítóval rendelkezik.
+
+(2) A 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatások az oktatási azonosító számmal rendelkező tanulók, valamint az óvodai nevelésben és korai fejlesztésben, gondozásban részesülő gyermekek után vehetők igénybe. A sajátos nevelési igényű gyermekek, tanulók után akkor vehető igénybe a támogatás, ha az intézmény alapító okirata meghatározza az Nkt. 4. § 25. pontja szerinti fogyatékosság típusát is.
+
+(3) A 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatások az iskolai rendszerű szakképzésben részt vevő tanulók után tanévenként a tanuló szakképző iskolai képzőhelyen – közismereti, szakmai elméleti és szakmai gyakorlati képzésben – töltött kötelező óraszáma alapján számított létszám alapján igényelhetők a (6) bekezdésben foglaltak figyelembevételével. A szakmai gyakorlati képzésben tanulószerződés alapján részt vevő tanulók esetén csak a közismereti és a szakmai elméleti oktatás kötelező óraszámának arányában vehető figyelembe az érintett tanulók létszáma. A számított létszám meghatározásához alkalmazott arányok megállapítása során a tanévre figyelembe vett tanulói összes kötelező óraszámba be kell számítani az összefüggő szakmai gyakorlat időtartamát is. Ha az előbbiek szerint számítható létszám nem egész szám, a fenntartónként összesített mutatószám meghatározásánál a kerekítés általános szabályait kell alkalmazni.
+
+(4) Ha a szakmai gyakorlati képzést együttműködési megállapodás alapján részben vagy egészben folytató szervezet nem szakképzési hozzájárulásra kötelezett, a szakképző iskola fenntartója a gyakorlati képzés együttműködési megállapodás alapján folyó időarányos részére az iskolai tanműhelyben folyó gyakorlati képzés finanszírozási feltételei szerint jogosult a 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatásra.
+
+(5) Nem igényelhető a 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatás az olyan tanuló után, aki
+
+a) tandíjfizetésre kötelezett,
+
+b) szülői vagy saját kérésre magántanuló vagy más sajátos munkarend szerint tanul,
+
+c) a szakképzési törvény 29. §-a alapján az iskolai szakképzésben való ingyenes részvételre nem jogosult vagy
+
+d) vendégtanulói jogviszonyban áll, kivéve az országos nemzetiségi önkormányzat által fenntartott kiegészítő nemzetiségi oktatás feladatait ellátó intézmény vendégtanulóját.
+
+(6) A 35/A–35/C. §-ban és a 35/D. § (1) bekezdésében meghatározott támogatások igénybevétele és elszámolása a köznevelési statisztikai adatokra és az azt megalapozó tanügyi okmányokra vagy a támogatást megalapozó egyéb okmányokra, analitikus nyilvántartásokra épül. Az igénylésnél és annak elbírálása során figyelembe kell venni az Nkt., a szakképzési törvény, valamint ezek végrehajtási rendeleteiben foglalt előírásokat. Nem korlátozzák az igénybevételt az Nkt.-nak a maximális csoport- vagy osztálylétszám betartására vonatkozó követelményei.
+
+(7) A fenntartó a 35/A. § (1) bekezdése szerinti támogatás teljes összegét annak folyósítását követő 15 napon belül az általa fenntartott nevelési-oktatási intézménynek átadja úgy, hogy az az általa fenntartott valamennyi nevelési-oktatási intézmény kiegyensúlyozott működését egyformán biztosítsa.”
 
 6–9. §
 
-10. §
+10. § A Kvtv. 1. melléklete az 1. melléklet szerint módosul.
 
 11. § A Kvtv. 2. melléklete a 2. melléklet szerint módosul.
 
-12–13. §
+12. § A Kvtv. 5. melléklete a 3. melléklet szerint módosul.
+
+13. § A Kvtv. 8. melléklete a 4. melléklet szerint módosul.
 
 14. § A Kvtv. az 5. melléklet szerinti 10. melléklettel egészül ki.
 
@@ -306,6 +388,66 @@ A Kvtv. 1. melléklet
 
 ### 2. melléklet a 2013. évi CXLIV. törvényhez
 
+1. A Kvtv. 2. melléklet II. pont 1. alpontjának első három sora helyébe a következő rendelkezések lépnek:
+
+|  | „ELŐIRÁNYZAT: | 108 085,5 millió forint |
+| --- | --- | --- |
+|  | ÓVODAPEDAGÓGUSOK ÁTLAGBÉRÉNEK |  |
+|  | ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE: | 2 832 000 forint/számított létszám/év |
+|  | ÓVODAPEDAGÓGUSOK ÁTLAGBÉRÉNEK |  |
+|  | ÉS KÖZTERHEINEK ELISMERT |  |
+|  | PÓTLÓLAGOS ÖSSZEGE |  |
+|  | A 2013/2014. NEVELÉSI ÉVRE: | 263 100 forint/számított létszám/3 hónap |
+|  | ÓVODAPEDAGÓGUSOK NEVELŐ MUNKÁJÁT |  |
+|  | KÖZVETLENÜL SEGÍTŐK ÁTLAGBÉRÉNEK |  |
+|  | ÉS KÖZTERHEINEK ELISMERT ÖSSZEGE: | 1 632 000 forint/számított létszám/év” |
+
+2. A Kvtv. 2. melléklet II. pont 1. alpont b) alpontja helyébe a következő rendelkezés lép:
+
+„b) A számított óvodapedagógus, és az óvodapedagógus nevelő munkáját közvetlenül segítők létszámának meghatározása
+
+Az óvodapedagógus létszám meghatározása a következő képlettel történik:
+
+2012/2013. nevelési évre:
+
+Psz1 = (L1 / Cs) * Feh1 + Vk1
+
+2013/2014. nevelési évre:
+
+Psz2 = (L2/Cs) * Feh2 + Vk2 + Op
+
+ahol:
+
+Psz1; Psz2 = 2012/2013., illetve 2013/2014. nevelési évre számított óvodapedagógusok létszáma, egész számra kerekítve,
+
+L1; L2 = 2012/2013., illetve 2013/2014. nevelési évben szervezett csoport(ok)ban az a) alpont szerinti összes gyermeklétszám,
+
+Cs = az egységes óvodai-bölcsődei, az óvodai nevelési évekre a Kiegészítő szabályok 3. pontja szerint meghatározott csoport átlaglétszám,
+
+Feh1; Feh2 = foglalkozási együttható (két tizedesre kerekítve), azaz
+
+– 2012/2013. nevelési évben a Közokt. tv.-ben, illetve 2013/2014. nevelési évben a Köznev. tv.-ben az átlagos csoportlétszámra meghatározott heti óvodai (egységes óvodai-bölcsődei gondozási), nevelési foglalkoztatási időkeret (órában), és
+
+– 2012/2013. nevelési évben a Közokt. tv.-ben, illetve 2013/2014. nevelési évben a Köznev. tv.-ben meghatározott pedagógus heti kötelező óraszám, illetve kötött munkaidő
+
+hányadosa (az egységes óvoda-bölcsőde esetében is az óvoda-pedagógusok kötelező heti óraszáma, illetve kötött munkaideje alapozza meg a számítást), korrigálva az intézménytípus-együtthatóval,
+
+Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2012/2013., illetve 2013/2014. nevelési évben (két tizedesre kerekítve),
+
+Op = a Köznev. tv. 61. § (3) bekezdése alapján az 500 fő ellátottat elérő, vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma.
+
+A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma a 2012/2013. nevelési évben a Közokt. tv. 1. számú melléklet Első része, a 2013/2014. nevelési évben a Köznev. tv. 2. melléklete és a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető - a Kjt. alapján foglalkoztatott - létszám, de legfeljebb
+
+– 2013. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
+
+– 2013. év utolsó 4 hónapjában az erre az időszakra becsült segítők átlagos száma,
+
+egy tizedesre kerekítve.
+
+Az év végi elszámolás mindkét nevelési év tekintetében a havonta figyelembe vehető, ténylegesen foglalkoztatott segítők átlagos létszáma alapján történik.
+
+A 2013/2014. nevelési évre a gyermek- és ifjúságvédelmi felügyelő vagy gyógypedagógiai asszisztens, a szabadidő-szervező és a pszichopedagógus a segítők létszámában nem vehető figyelembe.”
+
 ### 3. melléklet a 2013. évi CXLIV. törvényhez
 
 A Kvtv. 5. melléklet 2. pontja szerinti táblázat a következő 15a-15c sorokkal egészül ki:
@@ -315,4 +457,167 @@ A Kvtv. 5. melléklet 2. pontja szerinti táblázat a következő 15a-15c sorokk
 | 15b |  | Közoktatási célú humánszolgáltatás és kiegészítő támogatás (20. cím, 2. alcím, 3. jogcím-csoport) |
 | 15c |  | Szociális célú nem állami humánszolgáltatások támogatása (20. cím, 19. alcím, 1. jogcím-csoport) |
 
-### 4–5. melléklet a 2013. évi CXLIV. törvényhez
+### 4. melléklet a 2013. évi CXLIV. törvényhez
+
+A Kvtv. 8. melléklet III. pont 9. alpontja helyébe a következő rendelkezés lép:
+
+„9. A gyermekvédelmi szakellátáshoz kapcsolódó támogatás igénybevételére a következő sajátos szabályok vonatkoznak:
+
+a) ha a gyermekvédelmi szakellátásban részesülő gyermek bölcsődei vagy családi napközi ellátásban vagy gyermek, fiatal felnőtt köznevelési szolgáltatásban részesül, a bölcsődei vagy családi napközi ellátást vagy a köznevelési szolgáltatást biztosító intézmény országos nemzetiségi önkormányzat, egyházi jogi személy vagy nem állami felsőoktatási intézmény fenntartója a feladathoz kapcsolódóan a 35. §, 35/A. § (1) és (2) bekezdése szerinti támogatás, egyéb fenntartója a 35/A. § (1) bekezdése szerinti támogatásra jogosult,
+
+b) az otthont nyújtó ellátásban, utógondozói ellátásban részesülők gondozási napok szerinti nyilvántartását – elhelyezés-típusonként, ellátási szükségletekre bontva – jogszabályban meghatározott szerv vezeti az ellátást nyújtó intézmények adatszolgáltatása alapján,
+
+c) ha a bentlakásos intézmény köznevelési feladatot is ellát, a fenntartó az intézményen belül oktatott tanulók létszáma alapján az ellátott feladathoz kapcsolódóan az országos nemzetiségi önkormányzat, egyházi jogi személy vagy nem állami felsőoktatási intézmény fenntartója a 35/A. § (1) és (2) bekezdése szerinti támogatás, egyéb fenntartója a 35/A. § (1) bekezdése szerinti támogatásra jogosult.”
+
+### 5. melléklet a 2013. évi CXLIV. törvényhez
+
+„10. melléklet a 2012. évi CCIV. törvényhez
+
+A nem állami köznevelési tevékenységek támogatása
+
+I. A PEDAGÓGUS MUNKAKÖRBEN, ILLETVE A NEVELŐ-, OKTATÓ MUNKÁT KÖZVETLENÜL SEGÍTŐ MUNKAKÖRBEN FOGLALKOZTATOTTAK UTÁN JÁRÓ ÁTLAGBÉR ALAPÚ TÁMOGATÁS A 2013/2014. TANÉVBEN 2013. OKTÓBER–DECEMBER HÓNAPOKRA
+
+1. Az átlagbér alapú támogatást
+
+a) óvodában a pedagógus-munkakörben és a nevelő-, oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 2. melléklet II. pont 1. alpontja szerint kell megállapítani,
+
+b) iskolában, kollégiumban, pedagógiai szakszolgálati intézményben
+
+ba) pedagógus-munkakörben foglalkoztatottak után az állami intézményfenntartó központ pedagógus-munkakörben foglalkoztatottjainak és az állami intézményfenntartó központ által fenntartott általános iskolával, középiskolával, szakiskolával, alapfokú művészeti iskolával, kollégiummal 2013. október 1-jén tanulói jogviszonyban álló tanulók tervezett létszáma, valamint a pedagógiai szakszolgálati intézmény által ellátott gyermekek, tanulók átlaglétszáma alapján két tizedre kerekített finanszírozott pedagóguslétszám szerint,
+
+bb) a nevelő-, oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után kormányrendeletben meghatározott elismerhető létszám alapján
+
+kell megállapítani a 2–4. alpontban foglaltak alkalmazásával.
+
+Az egy főre jutó átlagbérnek az iskolánként, kollégiumonként, pedagógiai szakszolgálati intézményenként történő megállapításához az Nkt. 97. § (20a) bekezdésére is figyelemmel számított, az állami intézményfenntartó központ által fenntartott intézményekben intézménytípusonként pedagógus munkakörben, valamint nevelő- és oktatómunkát közvetlenül segítő munkakörben foglalkoztatottak éves személyi juttatását járulékaival együtt el kell osztani az annak megfelelő létszámmal.
+
+2. A pedagógusok, valamint a nevelő-, oktató munkát közvetlenül segítők átlagbére és közterhei elismert összegének meghatározása
+
+a) A pedagógusok átlagbérének és közterheinek elismert összege
+
+aa) általános iskolára 1 001 100 forint/számított létszám,
+
+ab) gimnáziumra 1 032 100 forint/számított létszám,
+
+ac) szakiskolára, nem szakképzési évfolyamon 1 032 100 forint/számított létszám,
+
+ad) szakiskolára, kizárólag szakképzési évfolyamon 1 032 100 forint/számított létszám,
+
+ae) speciális szakiskolára (készségfejlesztő speciális szakiskolára) 1 032 100 forint/számított létszám,
+
+af) szakközépiskolára, nem szakképzési évfolyamon 1 032 100 forint/számított létszám,
+
+ag) szakközépiskolára kizárólag szakképzési évfolyamon 1 032 100 forint/számított létszám,
+
+ah) alapfokú művészeti iskolára zeneművészeti ágon 975 200 forint/számított létszám,
+
+ai) alapfokú művészeti iskolára nem zeneművészeti ágon 975 200 forint/számított létszám,
+
+aj) művészeti szakközépiskolára 1 032 100 forint/számított létszám,
+
+ak) kollégiumra 1 013 500 forint/számított létszám,
+
+al) pedagógiai szakszolgálati intézményre 965 500 forint/számított létszám
+
+am) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményre 1 032 100 forint/számított létszám.
+
+b) A nevelő-, oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 547 700 forint/számított létszám
+
+3. A finanszírozott pedagóguslétszám megállapításához szükséges – az óvoda kivételével – a nevelési-oktatási intézménybe járó, valamint a pedagógiai szakszolgálati intézmény által ellátott gyermekek, tanulók létszámának meghatározása
+
+A gyermek-, tanulólétszám meghatározásánál a nappali oktatás munkarendje szerint oktatott tanulót egy tanulóként, az esti oktatás munkarendje szerint tanulók számát kettővel, a levelező oktatás munkarendje szerint tanulók számát öttel elosztva, a kollégiumban ellátott – nappali oktatás munkarendje szerint oktatott – tanulót egy tanulóként kell figyelembe venni.
+
+Az alapfokú művészetoktatás kivételével a nappali oktatás munkarendje szerint oktatott enyhe értelmi fogyatékos, beszédfogyatékos vagy pszichés fejlődési zavarral küzdő sajátos nevelési igényű tanulót két gyermekként, a mozgásszervi, érzékszervi, középsúlyos értelmi fogyatékos, autizmus spektrum zavarral küzdő vagy halmozottan fogyatékos gyermeket, tanulót három gyermekként kell számításba venni, ha nevelés-oktatásuk a többi gyermekkel, tanulóval együtt történik.
+
+A gyermek és tanuló létszám meghatározása feladatellátási helyenként két tizedesre történik.
+
+4. A finanszírozott pedagógus létszám meghatározásához szükséges, az állami intézményfenntartó központ pedagógus-munkakörben foglalkoztatottjainak és az általa fenntartott iskolával, kollégiummal 2012. október 1-jén tanulói jogviszonyban álló tanulóinak és a pedagógiai szakszolgálati intézmény által ellátott gyermekek, tanulók létszámának aránya köznevelési intézménytípusonként:
+
+a) általános iskolában 11,8 fő tanulónként 1 fő pedagógus,
+
+b) gimnáziumban – beleértve a hat és nyolc évfolyammal működő gimnáziumokat is – 12,5 fő tanulónként 1 fő pedagógus,
+
+c) szakiskolákban, nem szakképzési évfolyamon 11,3 fő tanulónként 1 fő pedagógus,
+
+d) szakiskolában, kizárólag szakképzési évfolyamon 15,9 fő tanulónként 1 fő pedagógus,
+
+e) speciális szakiskolákban 6 fő tanulónként 1 fő pedagógus, készségfejlesztő speciális szakiskolákban 4 fő tanulónként 1 fő pedagógus,
+
+f) szakközépiskolában, nem szakképzési évfolyamon 11,1 fő tanulónként 1 fő pedagógus,
+
+g) szakközépiskolában, kizárólag szakképzési évfolyamon 14,7 fő tanulónként 1 fő pedagógus,
+
+h) alapfokú művészeti iskolában zeneművészeti ágon 19,9 fő tanulónként 1 fő pedagógus,
+
+i) alapfokú művészeti iskolában nem zeneművészeti ágon 78,8 fő tanulónként 1 fő pedagógus,
+
+j) művészeti szakközépiskolában 6 fő tanulónként 1 fő pedagógus,
+
+k) kollégiumban 18,5 fő tanulónként 1 fő pedagógus,
+
+l) pedagógiai szakszolgálati intézményeknél
+
+la) logopédiai ellátás esetén 50 fő gyermek-tanulólétszám alatt 1 fő pedagógus, további 50 gyermek/tanulólétszám esetén további 1-1 fő pedagógus,
+
+lb) nevelési tanácsadás esetén 87 fő gyermek-tanulólétszám alatt 1 fő pedagógus, további 87 gyermek/tanulólétszám esetén további 1-1 fő pedagógus,
+
+lc) gyógytestnevelés esetén 50 fő gyermek-tanulólétszám alatt 1 fő pedagógus, további 50 gyermek/tanulólétszám esetén további 1-1 fő pedagógus,
+
+ld) szakértői bizottság esetén 180 fő gyermek-tanulólétszám alatt 1 fő pedagógus, további 180 gyermek/tanulólétszám esetén további 1-1 fő pedagógus,
+
+le) gyógypedagógiai tanácsadás, korai fejlesztés, oktatás és gondozás, és a fejlesztő nevelés együtt:
+
+|  |  |  |  |  | A | B |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 1 | Gyermek-tanulólétszámig | Pedagóguslétszám főben |
+|  |  |  |  | 2 | 1 | 1 |
+|  |  |  |  | 3 | 2–10 | 2 |
+|  |  |  |  | 4 | 11–20 | 4 |
+|  |  |  |  | 5 | 21–50 | 5 |
+|  |  |  |  | 6 | 51–100 | 6 |
+|  |  |  |  | 7 | 100 felett | 10 |
+
+lf) továbbtanulási, pályaválasztási tanácsadás, konduktív pedagógiai ellátás, iskolapszichológiai, óvodapszichológiai ellátás, kiemelten tehetséges gyermekek, tanulók gondozása együtt:
+
+|  |  |  |  |  | A | B |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 1 | Gyermek-tanulólétszámig | Pedagóguslétszám főben |
+|  |  |  |  | 2 | 0–100 | 2 |
+|  |  |  |  | 3 | 101–500 | 5 |
+|  |  |  |  | 4 | 501–1000 | 7 |
+|  |  |  |  | 5 | 1001–2000 | 9 |
+|  |  |  |  | 6 | 2000 felett | 12 |
+
+m) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben 6 fő tanulónként 1 fő pedagógus,
+
+n) fejlesztő nevelést, oktatást végző gyógypedagógiai, konduktív pedagógiai intézményben 3 fő tanulónként 1 fő pedagógus,
+
+o) a kiegészítő nemzetiségi nevelés-oktatásban 21 fő tanulónként 1 fő pedagógus
+
+után igényelhető az átlagbér alapú támogatás a 2013/2014. tanévre.
+
+Ha az a), b), f), g) és k) alpont szerinti köznevelési intézmény ellát nemzetiségi nevelési-oktatási feladatot, a nemzetiségi nevelési-oktatási feladat tekintetében 8 fő tanulóként 1 fő pedagógust kell figyelembe venni.
+
+A pedagógus létszám meghatározása fenntartónként két tizedesre történik.
+
+II. A NEMZETISÉGI ÖNKORMÁNYZAT, AZ EGYHÁZI JOGI SZEMÉLY ÁLTAL FENNTARTOTT KÖZNEVELÉSI INTÉZMÉNYEK MŰKÖDÉSI TÁMOGATÁSA A 2013/2014. TANÉVBEN 2013. OKTÓBER–DECEMBER HÓNAPOKRA
+
+|  | FAJLAGOS ÖSSZEG: | 40 000 forint/gyermek, tanuló |
+| --- | --- | --- |
+
+A gyermek-, tanulólétszám meghatározásánál a nappali oktatás munkarendje szerint oktatott tanulót egy tanulóként, az esti oktatás munkarendje szerint tanulók számát kettővel, a levelező oktatás munkarendje szerint tanulók számát öttel, az alapfokú művészetoktatásban részesülő tanulót öttel elosztva, a kollégiumban ellátott – a nappali oktatás munkarendje szerint oktatott – tanulót egy tanulóként kell figyelembe venni.
+
+A működési támogatást a 2013. október 1-jei gyermek-, tanulólétszám alapján kell kiszámítani.
+
+III. A NEMZETISÉGI ÖNKORMÁNYZAT, AZ EGYHÁZI JOGI SZEMÉLY ÁLTAL FENNTARTOTT KÖZNEVELÉSI INTÉZMÉNYEK KIEGÉSZÍTŐ TÁMOGATÁSA A 2013/2014. TANÉVBEN 2013. OKTÓBER–DECEMBER HÓNAPOKRA
+
+|  | FAJLAGOS ÖSSZEG: | 8 100 forint/gyermek, tanuló |
+| --- | --- | --- |
+
+A központi költségvetés az új finanszírozási rendszerre való átállás érdekében a nemzetiségi önkormányzat és a bevett egyház jogszabályban meghatározott köznevelési tevékenységére tekintettel a 2013/2014. tanévben 2013. október-december hónapokra a nemzetiségi önkormányzat és a bevett egyház részére elszámolási kötelezettség nélküli egyszeri kiegészítő támogatást biztosít.
+
+Az egyszeri kiegészítő támogatást a 2013. október 1-jei gyermek-, tanulólétszám alapján kell megállapítani.
+
+A gyermek-, tanulólétszám meghatározásánál a nappali oktatás munkarendje szerint oktatott tanulót egy tanulóként, az esti oktatás munkarendje szerint tanulók számát kettővel, a levelező oktatás munkarendje szerint tanulók számát öttel, az alapfokú művészetoktatásban részesülő tanulót öttel elosztva, a kollégiumban ellátott – a nappali oktatás munkarendje szerint oktatott – tanulót egy tanulóként kell figyelembe venni.
+
+”

@@ -99,7 +99,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (2) E § alkalmazásában TEÁOR'08: a gazdasági tevékenységek egységes ágazati osztályozási rendszere az EU tevékenységi osztályozásának, a gazdasági tevékenységek statisztikai osztályozása NACE Rev.2 rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló 2006. december 20-i 1893/2006/EK európai parlamenti és a tanácsi rendelettel létrehozott NACE Rev.2-nek a Központi Statisztikai Hivatal által kiadott 2012. január 1-jén hatályos magyar nyelvű változata.
 
-4/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az Eximbank részére a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
+4/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az Eximbank részére a Magyar Nemzeti Bank engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
 ### II. Fejezet — AZ EXIMBANK ÉS A MEHIB RT. KÖLTSÉGVETÉSI ÉS KORMÁNYZATI KAPCSOLATAI
 
@@ -204,7 +204,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 - d) nem rendelkezik vagy rendelkezett minősített befolyással, illetve nem vezető állású személy vagy nem volt az egy olyan biztosítónál, biztosításközvetítőnél vagy olyan pénzügyi intézménynél, pénzforgalmi intézménynél,
   - da) amely esetében a fizetőképtelenséget kizárólag a biztosító, a biztosításközvetítő, a pénzügyi intézmény vagy a pénzforgalmi intézmény felügyeleti szerve által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósási határozat megállapította, vagy
   - db) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította,
-- e) nem sértette meg súlyosan vagy ismételten a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Felügyelet nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
+- e) nem sértette meg súlyosan vagy ismételten a Magyar Nemzeti Bank felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Magyar Nemzeti Bank nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
 - f) nem tevékenykedik más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, biztosítónál könyvvizsgálóként,
 - g) nem tölt be olyan tisztséget, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 
@@ -223,9 +223,9 @@ szerzett.
 - a) a Btk. XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy
 - b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, vagy az ilyen feladatok általa történ ő ellátását fel kell függeszteni.
 
-(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított 2 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
+(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított 2 munkanapon belül köteles a Magyar Nemzeti Banknak bejelenteni. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
 
-(7) Amennyiben a Felügyelet úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
+(7) Amennyiben a Magyar Nemzeti Bank úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
 
 ### Képviselet, munkaviszony
 

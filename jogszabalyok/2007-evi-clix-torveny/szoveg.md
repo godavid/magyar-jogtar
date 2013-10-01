@@ -10,7 +10,7 @@ a viszontbiztosítókról
 
 - a) Magyarország területén a viszontbiztosítók által végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyarország területén székhellyel rendelkező viszontbiztosító által e törvény felhatalmazása alapján végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre;
 - b) a külföldi viszontbiztosító magyarországi képviselete által folytatott tevékenységre;
-- c) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által ellátott – e törvényben meghatározott – felügyeleti tevékenységre; valamint
+- c) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) – e törvényben meghatározott – tevékenységére; valamint
 - d) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre az összevont alapú, illetőleg a kiegészítő felügyelet kiterjed.
 
 (2) E törvény rendelkezései a belföldi viszontbiztosító külföldön végzett viszontbiztosítási, illetve képviseleti tevékenységére abban az esetben terjednek ki, ha a tevékenység helye szerinti ország jogszabálya eltérően nem rendelkezik.
@@ -125,7 +125,7 @@ a viszontbiztosítókról
 
 6. § (1) Ahol e törvény euróban meghatározott összegről rendelkezik, azon annak az év január 1-jétől december 31-ig tartó időszakára (a továbbiakban: alkalmazási időszak) vonatkozó, forintban meghatározott összegét kell érteni.
 
-(2) Az adott alkalmazási időszakra vonatkozó, forintban meghatározott összeget a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett, az alkalmazási időszakot megelőző naptári év első tíz hónapjára vonatkozó hivatalos napi devizaárfolyamok átlagának alkalmazásával, milliós forintértékre felkerekítve kell kiszámítani.
+(2) Az adott alkalmazási időszakra vonatkozó, forintban meghatározott összeget az alkalmazási időszakot megelőző naptári év első tíz hónapjára és az euró forintra való átszámítására vonatkozó belföldi hivatalos napi árfolyamok átlagának alkalmazásával, a következő milliós forintértékre felkerekítve kell kiszámítani.
 
 ## MÁSODIK RÉSZ — A VISZONTBIZTOSÍTÁS RENDSZERE
 
@@ -893,9 +893,9 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 81. § A viszontbiztosító éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szabályozza.
 
-82. § (1) A viszontbiztosító köteles a közgyűlés által elfogadott – a könyvvizsgálói záradékot tartalmazó, a cégbíróságnál letétbe helyezettel egyező – éves beszámolót, az üzleti jelentést, a közgyűlés jegyzőkönyvét és a hozott határozatokat a mérleg fordulónapjától számított 150 napon belül a Felügyelet és az MNB részére megküldeni.
+82. § (1) A viszontbiztosító köteles a közgyűlés által elfogadott – a könyvvizsgálói záradékot tartalmazó, a cégbíróságnál letétbe helyezettel egyező – éves beszámolót, az üzleti jelentést, a közgyűlés jegyzőkönyvét és a hozott határozatokat a mérleg fordulónapjától számított 150 napon belül a Felügyelet részére megküldeni.
 
-(2) Ha a viszontbiztosító konszolidált éves beszámoló készítésére kötelezett, úgy azt az (1) bekezdés szerinti iratokat mellékelve, a mérleg fordulónapjától számított 180 napon belül kell a Felügyelet és az MNB részére megküldeni.
+(2) Ha a viszontbiztosító konszolidált éves beszámoló készítésére kötelezett, úgy azt az (1) bekezdés szerinti iratokat mellékelve, a mérleg fordulónapjától számított 180 napon belül kell a Felügyelet részére megküldeni.
 
 (3) Az (1)–(2) bekezdésekben meghatározott okiratok valódiságát köteles aláírásával igazolni
 
@@ -1015,7 +1015,7 @@ alapján, az abban foglalt kötelezettség teljesítése érdekében tájékozta
 95. § (1) A 94. §-ban előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) Felügyelettel,
-- b) MNB-vel,
+- b)
 - c) nemzetbiztonsági szolgálattal,
 - d) Állami Számvevőszékkel,
 - e) Gazdasági Versenyhivatallal,
@@ -1294,7 +1294,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 ### A felügyeleti biztos
 
-118. § A felügyeleti biztos kirendelésére és tevékenységére megfelelően alkalmazni kell a Bit. és a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvénynek a felügyeleti biztosra vonatkozó rendelkezéseit.
+118. § A felügyeleti biztos kirendelésére és tevékenységére megfelelően alkalmazni kell a Bit. és a Magyar Nemzeti Bankról szóló törvénynek a felügyeleti biztosra vonatkozó rendelkezéseit.
 
 ### A tevékenység felfüggesztése
 
@@ -1336,7 +1336,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 ### A Felügyelet tájékoztatási kötelezettsége
 
-122. § (1) A Felügyelet az általa kiadott alapítási és viszontbiztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, a Gazdasági Versenyhivatalnak és a biztosítók, viszontbiztosítók szakmai érdek-képviseleti szervezeteinek.
+122. § (1) A Felügyelet az általa kiadott alapítási és viszontbiztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, a cégbíróságnak, a Gazdasági Versenyhivatalnak és a biztosítók, viszontbiztosítók szakmai érdek-képviseleti szervezeteinek.
 
 (2) Ha a Felügyelet a Bit. 195. §-a (1) bekezdésének j), r) s) és t) pontjaiban meghatározott intézkedéseket alkalmazza, ezen eljárásról köteles valamennyi tagállam felügyeleti hatóságát haladéktalanul értesíteni. A Bit. 195. §-a (1) bekezdésének j) pontjában meghatározott intézkedés alkalmazása esetén a Felügyeletnek meg kell jelölnie az intézkedéssel érintett pénzügyi eszközöket.
 

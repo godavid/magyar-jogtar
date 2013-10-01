@@ -402,7 +402,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 (2) Az egyetemes postai szolgáltató az (1) bekezdés alapján nemzetközi postautalvány-szolgáltatást köteles nyújtani. Nemzetközi postautalványnak az a papír alapú nemzetközi viszonylatú készpénzküldési szolgáltatás minősül, amelyet az egyetemes postai szolgáltató az Egyetemes Postaegyesület Alapokmánya alapján megkötött nemzetközi szerződést kihirdető jogszabály vagy ezek rendelkezése szerint megkötött külön megállapodás alapján teljesít.
 
-(3) Nemzetközi postautalvány-szolgáltatás tekintetében nem minősül az üzleti titok sérelmének a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 22. § (1)–(2) bekezdése alapján a pénzügyi információs egységként működő hatóság és a Pénzügyi Szervezetek Állami Felügyelete részére történő adatátadás, továbbá a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett pénzforgalmi szolgáltatója és közvetítő pénzforgalmi szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
+(3) Nemzetközi postautalvány-szolgáltatás tekintetében nem minősül az üzleti titok sérelmének a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 22. § (1) és (2) bekezdése alapján a pénzügyi információs egységként működő hatóság és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére történő adatátadás, továbbá a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett pénzforgalmi szolgáltatója és közvetítő pénzforgalmi szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
 
 (4) Nemzetközi postautalvány-szolgáltatás tekintetében az üzleti titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
@@ -899,7 +899,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - b) a postai szolgáltatások piacával kapcsolatos, felhasználókat érintő ügyekben a külön törvényekben meghatározott hatásköri szabályoknak megfelelően a Nemzeti Fogyasztóvédelmi Hatósággal és a Gazdasági Versenyhivatallal,
 - c) a postai szolgáltatások piacával kapcsolatos, a személyes adatok védelmét érintő ügyekben a Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - d) a 37. § (1) bekezdése alapján az engedély szempontjából figyelembe vett munkajogi jogsértésekkel kapcsolatos ellenőrzési feladatok ellátása érdekében a munkaügyi hatósággal, az állami adóhatósággal, az egyenlő bánásmód követelményének érvényesülését ellenőrző hatósággal, valamint az idegenrendészeti hatósággal,
-- e) a postai szolgáltatásokhoz kapcsolódó pénzforgalmi szolgáltatások vonatkozásában a Pénzügyi Szervezetek Állami Felügyeletével.
+- e) a postai szolgáltatásokhoz kapcsolódó pénzforgalmi szolgáltatások vonatkozásában a Felügyelettel.
 
 (2) A Hatóság a rendezett munkaügyi kapcsolatokra vonatkozó hatósági nyilvántartások adatait – az e törvényben meghatározott kötelezettségekkel összefüggésben – felhasználhatja.
 

@@ -612,6 +612,87 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 61/A. § A Hivatal vizsgálja a földgáz-nagykereskedelmi piacon kialakuló ajánlati és ügyleti árakat, és elemzi ezen árak kialakulásának okait. A vizsgálat lefolytatása érdekében a Hivatal tájékoztatást kérhet az e törvény szerinti engedélyesektől a földgáz-nagykereskedelmi ügyleteik, ajánlataikban érvényesülő árakról, ezen árak kialakítására alapot adó információkról, körülményekről, összefüggésekről. A megküldött adatokat a Hivatal – az üzleti titoknak minősülő adatok bizalmas kezelése mellett – kizárólag a nagykereskedelmi piac működéséről és aktuális helyzetéről készített elemzéshez használhatja fel.
 
+### III/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
+
+### Általános szabályok
+
+61/B. § (1) E fejezet rendelkezéseit kell alkalmazni minden olyan, az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti nagykereskedelmi energiatermékkel összefüggő, az 1227/2011/EU európai parlamenti és tanácsi rendeletben szabályozott cselekményre, amely
+
+- a) Magyarország területén valósul meg, vagy
+- b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
+
+(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az Energiaszabályozók Együttműködési Ügynöksége (a továbbiakban: Ügynökség) által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
+
+(3) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
+
+61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5. és 15. cikke szerinti kötelezettség teljesítését.
+
+(2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+
+(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+
+(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárás jogerős lezárásától számított 5 évig kezeli.
+
+(5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
+
+61/D. § (1) Ha az e fejezetben szabályozott eljárás során a Hivatal azt állapítja meg, hogy az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kötelezett az előírásoknak nem vagy nem megfelelően tesz eleget,
+
+- a) a jogkövetkezményre való utalás mellett felszólítja az előírások betartására, illetve
+- b) a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki.
+
+(2) Bírság kiszabása során a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet rendelkezéseit megfelelően alkalmazni kell.
+
+### A bennfentes információkra vonatkozó közzétételi kötelezettség
+
+61/E. § (1) A szervezett villamosenergia-piaci engedélyes a bennfentes információ közzétételére szolgáló honlap (a továbbiakban: közzétételi honlap) működtetése érdekében szabályzatot készít. A szabályzatot a Hivatal hagyja jóvá.
+
+(2) Az (1) bekezdés szerinti szabályzat legalább
+
+- a) a kidolgozásának, egyeztetésének, módosításának rendjét;
+- b) a közzétételi honlap igénybevételéhez szükséges regisztráció rendjét;
+- c) az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdése alapján a Hivatalnál történő nyilvántartásba vételre kötelezett piaci szereplő által a szervezett villamosenergia-piaci engedélyes részére fizetendő, a közzétételi honlap fejlesztésével és működtetésével kapcsolatban felmerült költségeknek megfelelő mértékű hozzájárulás legmagasabb összegét és megfizetésének módját;
+- d) a közzétételi honlap működtetése során alkalmazandó, adatkezelésre, adatbiztonságra vonatkozó rendelkezéseket;
+- e) a közzétételi honlappal kapcsolatos műszaki, funkcionális követelményeket
+
+tartalmazza.
+
+### Az ellenőrzési eljárás
+
+61/F. § (1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi és 15. cikke szerinti értesítési kötelezettség teljesítését.
+
+(2) Ha a Hivatal az ellenőrzési eljárás hatálya alá tartozó előírás megsértését a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárása során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre az ellenőrzési eljárás szabályai irányadóak.
+
+(3) Ha a piaci szereplő az ellenőrzési eljárás hatálya alá tartozó kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható. Bírság ismételt kiszabása esetén a 61/D. § (2) bekezdése alkalmazandó.
+
+### A nagykereskedelmi piacfelügyeleti eljárás
+
+61/G. § (1) A Hivatal nagykereskedelmi piacfelügyeleti eljárás keretében vizsgálja az 1227/2011/EU európai parlamenti és tanácsi rendelet
+
+- a) 3. cikke szerinti bennfentes kereskedelemre vonatkozó tilalom,
+- b) 4. cikke szerinti bennfentes információ közzétételére vonatkozó kötelezettség, és
+- c) 5. cikke szerinti, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom
+
+megsértését.
+
+(2) A Hivatal a 61/B. § (1) bekezdése szerinti cselekmények vizsgálata céljából jogosult az eljárása alá vont ügyfélre vonatkozó,
+
+- a) a számlaforgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával,
+- b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és a hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával
+
+kapcsolatos adatok megismerésére és kezelésére.
+
+(3) A Hivatal feladatának ellátása érdekében jogosult a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges családi és utónév, születési név és lakcím megismerésére és kezelésére.
+
+(4) A (2)–(3) bekezdésben meghatározott adat igénylésekor a Hivatal köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
+
+(5) A (2) bekezdés b) pontjában meghatározott adat megismeréséhez az ügyész előzetes jóváhagyása szükséges. A jóváhagyást az ügyész abban az esetben tagadja meg, ha a Hivatal a (4) bekezdésben foglaltakat nem valószínűsíti vagy az adatkezelés egyéb törvényi feltételei nem állnak fenn.
+
+(6) A Hivatalnak az elektronikusan vezetett ingatlan-nyilvántartás adatbázisából történő, a nagykereskedelmi piacfelügyeleti eljárás lefolytatásához szükséges lekérdezése tekintetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 70. § (1) bekezdése nem alkalmazható.
+
+61/H. § Ha a Hivatal a 61/G. § (1) bekezdése szerinti tilalmak megsértését ellenőrzési eljárás során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre a nagykereskedelmi piacfelügyeleti eljárás szabályai irányadóak.
+
+61/I. § Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 61/G. § (1) bekezdése szerinti tilalmak megsértése is megvalósult, a Hivatal valamennyi jogsértésre egységes intézkedést is alkalmazhat.
+
 ### IV. Fejezet — FELHASZNÁLÓK, FOGYASZTÓVÉDELEM
 
 ### A felhasználók jogai, felhasználói panaszok
@@ -926,7 +1007,7 @@ földgázrendszerhez való hozzáférés
 
 83. § (1) A Hivatal rendszerfelügyeleti hatáskörében – szükség szerint szakértők bevonásával – ellenőrzi a szállítási rendszerirányító által beterjesztett kapacitás-felülvizsgálat eredményét, valamint az infrastruktúra-fejlesztési javaslatot és vizsgálja az előző fejlesztési tervvel meglévő összhangját. Ha az infrastruktúra-fejlesztési javaslat nem áll összhangban a hazai vagy a közösségi energiapolitikában meghatározott ellátásbiztonsági célokkal, vagy az hátrányosan érinti a nemzetgazdaságot, jogszabálysértő vagy akadályozza a hatásos versenyt, a Hivatal a Kormány tájékoztatása mellett, határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a javaslat módosítására.
 
-(2) Az ellenőrzés során a Hivatal vizsgálja a fejlesztési javaslat összhangját a 715/2009/EK rendelet szerinti közösségi szintű 10 éves hálózatfejlesztési tervvel. Ha kétség merül fel az összhang meglétével kapcsolatban, a Hivatal köteles egyeztetni az Energiaszabályozók Együttműködési Ügynökség létrehozásáról szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) 1. cikkével létrehozott Energiaszabályozók Együttműködési Ügynökségével (a továbbiakban: Ügynökség). Ha a hálózatfejlesztési terv nem áll összhangban a közösségi szintű tízéves hálózatfejlesztési tervvel, jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a terv módosítására. Ha a Hivatal a szállítási rendszerirányítót a kétirányú kapacitásbővítésre vonatkozóan a terv módosítására kötelezi, a szállítási rendszerirányító felszólítására a szállítási rendszerüzemeltető köteles a kétirányú kapacitásbővítésre vonatkozó javaslatát vagy mentesség iránti kérelmét átdolgozni.
+(2) Az ellenőrzés során a Hivatal vizsgálja a fejlesztési javaslat összhangját a 715/2009/EK rendelet szerinti közösségi szintű 10 éves hálózatfejlesztési tervvel. Ha kétség merül fel az összhang meglétével kapcsolatban, a Hivatal köteles egyeztetni az Energiaszabályozók Együttműködési Ügynökség létrehozásáról szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) 1. cikkével létrehozott Ügynökséggel. Ha a hálózatfejlesztési terv nem áll összhangban a közösségi szintű tízéves hálózatfejlesztési tervvel, jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a terv módosítására. Ha a Hivatal a szállítási rendszerirányítót a kétirányú kapacitásbővítésre vonatkozóan a terv módosítására kötelezi, a szállítási rendszerirányító felszólítására a szállítási rendszerüzemeltető köteles a kétirányú kapacitásbővítésre vonatkozó javaslatát vagy mentesség iránti kérelmét átdolgozni.
 
 (3) A Hivatal a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szempontrendszer alapján jóváhagyja a 10 éves fejlesztési tervet és rögzíti az elfogadásának feltételeit. A Hivatal határozatának tartalmaznia kell az egyes beruházásokra vonatkozó műszaki tartalmat, a határidőket, az országok között várhatóan létrejövő költségmegosztást, a Hivatal által indítványozott módosításokat, az egyes beruházásoknak, valamint azok összességének a hazai ellátásbiztonságra gyakorolt hatását. A Hivatal határozatának tartalmaznia kell továbbá a következő három évben megvalósításra javasolt beruházásokat, valamint az előző fejlesztési tervben jóváhagyott beruházások esetleges módosításait.
 
@@ -1663,7 +1744,7 @@ foglalt árat köteles megfizetni.
 - a) a rendszerüzemeltető e törvény szerint engedélyköteles más tevékenységet nem folytathat,
 - b) a rendszerüzemeltető – a szervezett földgázpiaci engedélyest és a szállítási rendszerüzemeltetőt kivéve – nem szerezhet részesedést a saját tevékenységétől eltérő, e törvény szerint engedélyköteles tevékenységet folytató más engedélyesben,
 - c) a rendszerüzemeltetőnek a vezető tisztségviselője, a cégvezetője, a vezető állású munkavállalója, a felügyelőbizottságának – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottságának – tagja, valamint a gazdasági társaság engedélyesi tevékenységet ellátó szervezeti egysége vezetője (a továbbiakban: szervezeti egység vezető) a munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (e fejezet alkalmazásában a továbbiakban együtt: munkaszerződés) foglalt jogait és kötelezettségeit, a munkabérét, az egyéb juttatásait vagy díjazását, valamint munkavégzésének feltételeit, hatásköreit és beszámolási kötelezettségeit oly módon kell kialakítani és rögzíteni, hogy a működést befolyásoló független döntéshozatal, valamint annak során a befolyásmentes és az egyenlő bánásmód követelményének megfelelő eljárás biztosított legyen,
-- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek nem lehet társasági részesedése a rendszerüzemeltetőt kivéve más engedélyesben, annak kapcsolt vállalkozásában, továbbá nem lehet annak vezető tisztségviselője, felügyelőbizottsági – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt,
+- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek – kivéve, ha e törvény eltérően rendelkezik – nem lehet társasági részesedése a rendszerüzemeltetőt kivéve más engedélyesben, annak kapcsolt vállalkozásában, továbbá nem lehet annak vezető tisztségviselője, felügyelőbizottsági – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt,
 - e) a c) pontban meghatározott cégvezetőt, vezető állású munkavállalót és szervezeti egység vezetőt az integrált földgázipari vállalkozás más tagjához nem lehet kirendelni,
 - f) a c) pontban meghatározott vezető tisztségviselő, felügyelőbizottsági – földgázelosztó és földgáztároló engedélyes esetén ügydöntő felügyelőbizottsági – tag, cégvezető és vezető állású munkavállaló a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (e fejezet, valamint a XV. fejezet alkalmazásában a továbbiakban együtt: munkaviszony) megszűnését követő egy éven belül csak a Hivatal jóváhagyásával lehet más engedélyes vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy vezető állású munkavállalója, amely nem érinti a munka törvénykönyvéről szóló 2012. évi I. törvény 228. § (1) bekezdése szerint a munkaviszony megszűnését követő kötelezettség fejében járó ellenértéket.
 
@@ -1808,7 +1889,7 @@ foglalt árat köteles megfizetni.
 
 (6) Amennyiben a Hivatal a 128. § szerinti tanúsítási eljárás eredményeképpen megállapítja, hogy a szállítási rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 121/B–121/G. § és 119/A. § (3) bekezdése nem alkalmazható.
 
-### A független rendszerüzemeltetőre vonatkozó szétválasztási szabályok
+### A független rendszerüzemeltetőre, valamint a vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára és földgáztárolói engedélyesére vonatkozó szétválasztási szabályok
 
 121/I. § (1) A 119/A. § (3) bekezdés alkalmazása vagy az ügyfél erre irányuló kérelme esetén a Hivatal által kijelölésre kerülő független rendszerüzemeltetőnek – az átruházott feladatok jellegétől függően – az alábbi feltételeknek kell megfelelnie:
 
@@ -1830,9 +1911,9 @@ foglalt árat köteles megfizetni.
 
 (4) A szállítóvezeték tulajdonosának felelőssége nem terjed ki a 81. §-ban foglalt fejlesztések tervezésére és a 74. § szerinti hálózati hozzáférések biztosítására.
 
-(5) A vertikálisan integrált vállalkozás részét képező szállítóvezeték tulajdonosának és a földgáztároló engedélyesnek legalább társasági formájukban, valamint szervezeti és döntéshozatali szempontjából függetlennek kell lennie a rendszerüzemeltetéshez nem kapcsolódó egyéb tevékenységektől, legalább a következők szerint:
+(5) A vertikálisan integrált vállalkozás részét képező szállítóvezeték tulajdonosának és földgáztároló engedélyesének legalább társasági formájukban, valamint szervezeti és döntéshozatali szempontjából függetlennek kell lennie a rendszerüzemeltetéshez nem kapcsolódó egyéb tevékenységektől, legalább a következők szerint:
 
-- a) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy nem vehetnek részt az integrált földgázipari vállalkozás azon szervezetében, amely földgáztermelői, földgázelosztói és földgáz-kereskedelmi tevékenység napi üzemviteléért közvetlenül vagy közvetve felelős,
+- a) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy nem vehetnek részt az integrált földgázipari vállalkozás azon szervezetében, amely földgáztermelői vagy földgáz-kereskedelmi tevékenység napi üzemviteléért közvetlenül vagy közvetve felelős,
 - b) a szállítóvezeték tulajdonos és a földgáztároló engedélyes operatív irányítását végző személy munkaszerződésében vagy megbízási szerződésében foglalt jogokat és kötelezettségeket, munkabérét és egyéb juttatásait, munkavégzésének feltételeit és szakmai érdekeit úgy kell meghatározni, hogy feladatai ellátása során biztosítsa számunkra a független cselekvés lehetőségét, és
 - c) a földgáztároló engedélyesnek tényleges, a vertikálisan integrált vállalkozástól független döntéshozatali jogköre van a földgáztároló üzemeltetéséhez, karbantartásához és fejlesztéséhez szükséges eszközöket illetően. Ez nem zárja ki olyan megfelelő koordinációs mechanizmusok létét, amelyek az anyavállalat gazdasági és irányítási felügyeleti jogait biztosítják a leányvállalat befektetett eszközei megtérülésének védelme érdekében,
 - d) a vertikálisan integrált vállalkozás nem adhat a napi üzemvitellel és a földgáztároló létesítmények építésével, illetve felújításával kapcsolatos egyedi döntésekkel kapcsolatos utasításokat, ha azok nem haladják meg a jóváhagyott pénzügyi tervben vagy bármely, azzal egyenértékű eszközben megszabott kereteket, és
@@ -2021,6 +2102,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
 - m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 - n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
+- ny) ellátja a földgázpiacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez;
 - o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
   - oa) a földgázvezetékek és a földgáztárolók kapacitását, a földgázkereskedő rendelkezésre álló gázforrásait, a tárolt földgáz mennyiségeket, és a szállítóvezeték egyensúlyozáshoz rendelkezésre álló eszközeit, gázforrásait,
   - ob) az együttműködő földgázrendszer kapacitásában beálló változásokat,
@@ -2117,10 +2199,31 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 az Európai Unió szerveivel
 
-130. § A Hivatal nemzetközi együttműködésére és az Európai Unió szerveivel való kapcsolatára vonatkozóan a VET. 164–165/C. §-ainak előírásait kell megfelelően alkalmazni azzal, hogy
+130. § A Hivatal nemzetközi együttműködésére és az Európai Unió szerveivel való kapcsolatára vonatkozóan a VET. 164–165/A. §-ának előírásait kell megfelelően alkalmazni azzal, hogy
 
 - a) az Európai Parlament és a Tanács a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/72/EK irányelve alatt a 2009/73/EK irányelv,
 - b) az Európai Parlament és a Tanács a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 714/2009/EK rendelete alatt a 715/2009/EK rendelet értendő.
+
+130/A. § (1) A miniszter megküldi az Európai Bizottság részére a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos, harmadik országgal kötött kormányközi megállapodásokat és azok módosítását.
+
+(2) Ha az (1) bekezdés szerinti kormányközi megállapodás egyéb, a belső energiapiac működésére vagy az Európai Unió energiaellátásnak biztonságával kapcsolatos dokumentumra hivatkozik, a miniszter – a (3)–(4) bekezdésre is figyelemmel – gondoskodik a dokumentum Európai Bizottság részére történő megküldéséről.
+
+(3) A miniszter a (2) bekezdés szerinti dokumentumot bizalmassá minősítheti, ha a dokumentum nyilvánosságra hozatala hátrányosan érintheti az érintett felek tevékenységét. Ebben az esetben a miniszter a dokumentumot – a tagállamok felé továbbítható, bizalmas adatokat nem tartalmazó – összefoglalóval együtt küldi meg az Európai Bizottság részére.
+
+(4) A (3) bekezdés szerinti összefoglaló
+
+- a) a dokumentum tárgyát,
+- b) a dokumentum célját,
+- c) a dokumentum hatályát,
+- d) a szerződő feleket,
+- e) a dokumentum időtartamát, és
+- f) a főbb elemekre vonatkozó információkat
+
+tartalmazza.
+
+130/B. § A miniszter a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos kormányközi megállapodásról vagy e tárgykörben kötött kormányközi megállapodás módosításáról harmadik országgal folytatott tárgyalás előtt vagy során tájékoztathatja az Európai Bizottságot a tárgyalás céljáról, tartalmáról és gondoskodhat a releváns információk megküldéséről. Ha a miniszter tájékoztatja az Európai Bizottságot, részére a tárgyalás előrehaladásáról rendszeresen beszámolni köteles.
+
+130/C. § A miniszter felkérheti az Európai Bizottság képviselőjét a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos tárgyalásokon megfigyelőként történő részvételre.
 
 ### Az Energetikai Állandó Választottbíróság
 
@@ -2130,7 +2233,7 @@ az Európai Unió szerveivel
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- 1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság felső határát,
+- 1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság mértékét,
 - 2. a panaszok engedélyesek általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 - 3. az Üzemi és Kereskedelmi Szabályzat tartalmi követelményeit,
 - 4. a szabályzati bizottság létrehozására és működtetésére vonatkozó szabályokat,
@@ -2181,6 +2284,7 @@ az Európai Unió szerveivel
 - 49. az együttműködő földgázrendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
 - 50. a 994/2010/EU európai parlamenti és tanácsi rendelet 4. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
 - 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
+- 52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése és a 141/C. § alapján felajánlott földgázforrás felhasználása céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat.
 
 132/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -2205,7 +2309,10 @@ az Európai Unió szerveivel
 - 12.
 - 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 - 14. a rendszerüzemeltetők által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait, a felhasználó vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
-- 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
+- 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
+- 16. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
+- 17. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
+- 18. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -2480,7 +2587,7 @@ részére.
 
 (2) Az (1) bekezdés szerinti engedélyesek Mód. 4. törvény hatálybalépésekor hatályos kiszervezési tárgyú szerződései – földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződések kivételével – nem hosszabbíthatók meg. A szerződő felek ezzel ellentétes megállapodása semmis.
 
-(3) Az (1) bekezdés szerinti engedélyesek – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Mód. 4. törvény hatálybalépését követő 6 hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Mód. 4. törvény hatálybalépését követő 6 hónapot követően az (1) bekezdés szerinti engedélyesek kapcsolt vállalkozásához kiszervezett tevékenységgel kapcsolatos költségek az árszabályozás során nem vehetők figyelembe.
+(3) Az (1) bekezdés szerinti engedélyesek – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított hat hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított 6. hónapot követően az (1) bekezdés szerinti engedélyeseknek a kapcsolt vállalkozásaikhoz kiszervezett tevékenységeikkel kapcsolatos költségei az árszabályozás során nem vehetők figyelembe.
 
 146/E. § E törvény Mód. 4. törvénnyel megállapított 100. §-a szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasás – az e törvény 142. § (1) bekezdés szerinti mintaprojektek kivételével – okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.
 
@@ -2548,3 +2655,7 @@ részére.
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4) Ez a törvény a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(5) Ez a törvény a tagállamok és harmadik országok közötti kormányközi energiaügyi megállapodásokra vonatkozó információcsere-mechanizmus létrehozásáról szóló, 2012. október 25-i 994/2012/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.

@@ -49,7 +49,7 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 
 #### 3. Együttműködés a feladatellátás során, adatszolgáltatás
 
-5. § (1) A Hivatal feladatai ellátása során együttműködik a Pénzügyi Szervezetek Állami Felügyeletével, a Gazdasági Versenyhivatallal, a Nemzeti Adó- és Vámhivatallal, a fogyasztóvédelmi hatóságként kijelölt szervezettel és a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal. A Hivatal az együttműködés érdekében együttműködési megállapodást köthet.
+5. § (1) A Hivatal feladatai ellátása során együttműködik a a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankkal, a Gazdasági Versenyhivatallal, a Nemzeti Adó- és Vámhivatallal, a fogyasztóvédelmi hatóságként kijelölt szervezettel és a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetek, személyek ellenőrzését ellátó más hatósággal. A Hivatal az együttműködés érdekében együttműködési megállapodást köthet.
 
 (2) A Hivatal feladatai ellátásához és az integrációs folyamatok előmozdítása érdekében nemzetközi együttműködés keretében a külföldi szabályozó hatóságokkal együttműködési megállapodást köthet, törvény rendelkezései szerint információkat cserélhet.
 

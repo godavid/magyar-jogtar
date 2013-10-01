@@ -243,9 +243,18 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (3) A Hivatal évente jelentést készít a megújuló és a kapcsolt villamosenergia-termelésről, valamint a kötelező átvételi rendszer éves alakulásáról. A Hivatal a jelentést a honlapján közzéteszi.
 
-13. § (1) Minden villamosenergia-kereskedő (kivéve az egyetemes szolgáltatókat az általuk ilyen minőségben értékesített villamos energia mennyiség tekintetében) és a felhasználónak közvetlenül értékesítő termelői engedélyes köteles a külön jogszabályban foglaltaknak megfelelően a felhasználó(i) részére értékesített villamos energia arányában átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval. A villamos energiát importáló felhasználó a külön jogszabályban foglaltaknak megfelelően a saját maga által elfogyasztott villamos energia arányában köteles átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
+13. § (1) Minden villamosenergia-kereskedő és a felhasználónak közvetlenül értékesítő termelői engedélyes köteles a külön jogszabályban foglaltaknak megfelelően a felhasználó(i) részére értékesített villamos energia arányában átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval. A villamos energiát importáló felhasználó a külön jogszabályban foglaltaknak megfelelően a saját maga által elfogyasztott villamos energia arányában köteles átvenni az átvételi kötelezettség alá eső villamos energiát és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
 
-(1c) A szervezett villamosenergia-piaci engedélyes (1b) bekezdés szerinti tevékenysége nem irányulhat haszonszerzésre.
+(1a) Az (1) bekezdés szerinti kötelező átvétel alá eső villamos energia átvétele alól mentesül
+
+- a) az egyetemes szolgáltató,
+- b) az egyetemes szolgáltatónak nem minősülő villamosenergia-kereskedő azon villamosenergia-mennyiség tekintetében, amelyet olyan egyetemes szolgáltatásra jogosult felhasználónak értékesít, amely számára
+  - ba) a villamosenergia-kereskedelmi szolgáltatást a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendelet szerinti árszabásokhoz kötötten, az adott felhasználási helyre vonatkozó egyetemes szolgáltatási díjtételeket meg nem haladó, de legalább egy díjtétel esetében alacsonyabb árakon nyújtja, és
+  - bb) az egyetemes szolgáltatás keretében ellátott felhasználó által igénybe vehető, a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: Vhr.) meghatározott szolgáltatásokat biztosítja.
+
+(1b) Az (1a) bekezdés b) pontja szerinti mentesség igénybevételének feltétele, hogy a villamosenergia-kereskedő az átviteli rendszerirányító részére a mentesség feltételeinek tárgyhónapra vonatkozó fennállásáról legkésőbb a tárgyhónapot megelőző hónap 8. munkanapjáig nyilatkozott. A nyilatkozatban foglaltak teljesülését a Hivatal utólag ellenőrzi, és amennyiben megállapítja, hogy az abban foglaltak nem teljesültek, a villamosenergia-kereskedőt bírsággal sújtja.
+
+(1c) Az (1a) bekezdés b) pont ba) alpontja szerinti alacsonyabb ár díjkedvezmény nyújtásával is biztosítható.
 
 (2) A háztartási méretű kiserőművek üzemeltetői által termelt villamos energiát az adott csatlakozási ponton értékesítő villamosenergia-kereskedő külön jogszabály szerint köteles átvenni.
 
@@ -283,7 +292,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása,
 - o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása,
 - p) az átviteli hálózattal kapcsolatos valamennyi díj, a 714/2009/EK rendelet 13. cikke és az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet (a továbbiakban: 838/2010/EU rendelet) szerinti, az átviteli rendszerüzemeltetők közötti ellentételezési mechanizmus keretében előírt kifizetések teljesítése, és ennek keretében az átviteli rendszerirányítót megillető bevételek, továbbá a szűk keresztmetszetek kezeléséért felszámított díjak beszedése és elszámolása.
-- q) a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: Vhr.) meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása.
+- q) Vhr.-ben meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása.
 
 17. § (1) Az átviteli rendszerirányító
 
@@ -1530,7 +1539,7 @@ biztosítása érdekében
 - a) a hálózati engedélyes e törvény szerint engedélyköteles más tevékenységet nem folytathat;
 - b) a hálózati engedélyes – a szervezett villamosenergia-piaci engedélyest és más hálózati engedélyest kivéve – nem szerezhet részesedést más engedélyesben;
 - c) a hálózati engedélyes vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, felügyelőbizottságának – elosztó esetén ügydöntő felügyelőbizottságának – tagja, valamint az engedélyesi tevékenységet ellátó szervezeti egységének vezetője (a továbbiakban: szervezeti egység vezető) a munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (e fejezet alkalmazásában a továbbiakban együtt: munkaszerződés) foglalt jogait és kötelezettségeit, a munkabérét, az egyéb juttatásait vagy díjazását, valamint a munkavégzésének feltételeit, hatásköreit és beszámolási kötelezettségeit oly módon kell kialakítani és rögzíteni, hogy a hálózati engedélyes működését befolyásoló független döntéshozatal, és annak során a befolyásmentes és az egyenlő bánásmód követelményének megfelelő eljárás biztosított legyen;
-- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek nem lehet társasági részesedése a hálózati engedélyest kivéve más engedélyesben, annak kapcsolt vállalkozásában, nem lehet annak vezető tisztségviselője, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt;
+- d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek – kivéve, ha e törvény eltérően rendelkezik – nem lehet társasági részesedése a hálózati engedélyest kivéve más engedélyesben, annak kapcsolt vállalkozásában, nem lehet annak vezető tisztségviselője, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt;
 - e) a c) pontban meghatározott cégvezetőt, vezető állású munkavállalót és szervezeti egység vezetőt az integrált villamosenergia-ipari vállalkozás más tagjához nem lehet kirendelni;
 - f) a c) pontban meghatározott vezető tisztségviselő, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tag, cégvezető és vezető állású munkavállaló a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) megszűnését követő egy éven belül csak a Hivatal jóváhagyásával lehet más engedélyes vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy vezető állású munkavállalója, mely nem érinti a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti munkaviszony megszűnését követő kötelezettség fejében járó ellenértéket.
 
@@ -1821,6 +1830,87 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 - a)
 - b) határidő tűzésével felhívja nyilatkozattételre és tájékoztatja a beavatkozás lehetőségéről a jogorvoslati eljárásban szerepelt azon érdekelteket, akikre nézve a Hivatal határozata rendelkezést tartalmaz.
+
+### XIII/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
+
+### Általános szabályok
+
+114/A. § (1) E fejezet rendelkezéseit kell alkalmazni minden olyan, az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti nagykereskedelmi energiatermékkel összefüggő, az 1227/2011/EU európai parlamenti és tanácsi rendeletben szabályozott cselekményre, amely
+
+- a) Magyarország területén valósul meg, vagy
+- b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
+
+(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az Ügynökség által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
+
+(3) Az e fejezet alapján lefolytatott eljárások nem érintik az e törvény szerinti engedély megszegésével, illetve az e törvény szerinti engedélyköteles tevékenység engedély nélküli végzésével kapcsolatos egyéb eljárásokat.
+
+114/B. § (1) A Hivatal a 114/E. § szerinti ellenőrzési eljárás és a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5. és 15. cikke szerinti kötelezettség teljesítését.
+
+(2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+
+(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+
+(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárás jogerős lezárásától számított 5 évig kezeli.
+
+(5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
+
+114/C. § (1) Ha az e fejezetben szabályozott eljárás során a Hivatal azt állapítja meg, hogy az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kötelezett az előírásoknak nem vagy nem megfelelően tesz eleget,
+
+- a) a jogkövetkezményre való utalás mellett felszólítja az előírások betartására, illetve
+- b) a Vhr.-ben meghatározott mértékű bírságot szab ki.
+
+(2) Bírság kiszabása esetén a 98. § rendelkezéseit megfelelően alkalmazni kell.
+
+### A bennfentes információkra vonatkozó közzétételi kötelezettség
+
+114/D. § (1) A szervezett villamosenergia-piaci engedélyes a bennfentes információ közzétételére szolgáló honlap (a továbbiakban: közzétételi honlap) működtetése érdekében szabályzatot készít. A szabályzatot a Hivatal hagyja jóvá.
+
+(2) Az (1) bekezdés szerinti szabályzat legalább
+
+- a) a kidolgozásának, egyeztetésének, módosításának rendjét;
+- b) a közzétételi honlap igénybevételéhez szükséges regisztráció rendjét;
+- c) az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdése alapján a Hivatalnál történő nyilvántartásba vételre kötelezett piaci szereplő által a szervezett villamosenergia-piaci engedélyes részére fizetendő, a közzétételi honlap fejlesztésével és működtetésével kapcsolatban felmerült költségeknek megfelelő mértékű hozzájárulás legmagasabb összegét és megfizetésének módját;
+- d) a közzétételi honlap működtetése során alkalmazandó, adatkezelésre, adatbiztonságra vonatkozó rendelkezéseket;
+- e) a közzétételi honlappal kapcsolatos műszaki, funkcionális követelményeket
+
+tartalmazza.
+
+### Az ellenőrzési eljárás
+
+114/E. § (1) A Hivatal ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3. cikk (4) bekezdés b) pontja szerinti jelentéstételi és 15. cikke szerinti értesítési kötelezettség teljesítését.
+
+(2) Ha a Hivatal az ellenőrzési eljárás hatálya alá tartozó előírás megsértését a 114/F–114/H. § szerinti nagykereskedelmi piacfelügyeleti eljárása során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre az ellenőrzési eljárás szabályai irányadóak.
+
+(3) Ha a piaci szereplő az ellenőrzési eljárás hatálya alá tartozó kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható. Bírság ismételt kiszabása esetén a 114/C. § (2) bekezdése alkalmazandó.
+
+### A nagykereskedelmi piacfelügyeleti eljárás
+
+114/F. § (1) A Hivatal nagykereskedelmi piacfelügyeleti eljárás keretében vizsgálja az 1227/2011/EU európai parlamenti és tanácsi rendelet
+
+- a) 3. cikke szerinti bennfentes kereskedelemre vonatkozó tilalom,
+- b) 4. cikke szerinti bennfentes információ közzétételére vonatkozó kötelezettség és
+- c) 5. cikke szerinti, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom
+
+megsértését.
+
+(2) A Hivatal a 114/A. § (1) bekezdése szerinti cselekmények vizsgálata céljából jogosult az (1) bekezdés szerinti nagykereskedelmi piacfelügyeleti eljárása során az ügyfélre vonatkozó,
+
+- a) a számlaforgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával,
+- b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és a hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával
+
+kapcsolatos adatok megismerésére és kezelésére.
+
+(3) A Hivatal feladatának ellátása érdekében jogosult a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges családi- és utónév, születési név és lakcím megismerésére és kezelésére.
+
+(4) A (2)–(3) bekezdésben meghatározott adat igénylésekor a Hivatal köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
+
+(5) A (2) bekezdés b) pontjában meghatározott adat megismeréséhez az ügyész előzetes jóváhagyása szükséges. A jóváhagyást az ügyész abban az esetben tagadja meg, ha a Hivatal a (4) bekezdésben foglaltakat nem valószínűsíti vagy az adatkezelés egyéb törvényi feltételei nem állnak fenn.
+
+(6) A Hivatalnak az elektronikusan vezetett ingatlan-nyilvántartás adatbázisából történő, a nagykereskedelmi piacfelügyeleti eljárás lefolytatásához szükséges lekérdezése tekintetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 70. § (1) bekezdése nem alkalmazható.
+
+114/G. § Ha a Hivatal a 114/F. § (1) bekezdése szerinti rendelkezések megsértését ellenőrzési eljárás során észleli, az eljárás lefolytatására és az alkalmazható intézkedésekre a nagykereskedelmi piacfelügyeleti eljárás szabályai irányadóak.
+
+114/H. § Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 114/F. § (1) bekezdése szerinti rendelkezések megsértése is megvalósult, a Hivatal valamennyi jogsértésre egységes intézkedést is alkalmazhat.
 
 ### XIV. Fejezet — VILLAMOSENERGIA-IPARI ÉPÍTÉSÜGYI HATÓSÁGI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
@@ -2292,11 +2382,13 @@ villamos energia képezi.
 
 (2) A Hivatal az átvett adatokat más részére jogszabályi feltételek fennállása és megkeresés esetén átadhatja.
 
-(2a) A Hivatal az üzleti titoknak minősülő adatot a 162–162/B. §-ban meghatározott hatóságoknak az e törvényben meghatározott együttműködés keretében átadhatja.
+(2a) A Hivatal a Ket. szerinti törvény által védett titoknak minősülő adatot a 162–162/B. §-ban meghatározott hatóságoknak az e törvényben meghatározott együttműködés keretében átadhatja.
 
 (3) A Hivatal gondoskodik az adatkezelés körében a jogosulatlan hozzáférés, közlés, megváltoztatás vagy törlés megelőzéséről, illetőleg megakadályozását biztosító technikai és logikai védelemről.
 
 (4) A Hivatal – a külön jogszabályban meghatározott adatok körére vonatkozóan – adatokat köteles honlapján közzétenni.
+
+(5) A Hivatal köztisztviselői kötelesek megőrizni a feladatkörük ellátása során tudomásukra jutott, a Ket. szerinti védett adatot. Ez a kötelezettség a köztisztviselői jogviszony megszűnését követően is fennmarad.
 
 156. § A Hivatal a tagállamok felügyeleti hatóságainak kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos adatokat. Ha a Hivatal nem tudja átadni a kért információkat, ennek okairól értesíti a megkereső hatáskörrel rendelkező hatóságot.
 
@@ -2357,7 +2449,8 @@ villamos energia képezi.
 - 4. ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, illetve az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket,
 - 5. ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások betartását,
 - 6. vizsgálja az öt évet meghaladó időtartamú szerződéseket a tekintetben, hogy megfelelnek-e a 96. § (1) bekezdésében felsorolt jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek, kivéve, ha ennek vizsgálatára a versenyhatóság rendelkezik hatáskörrel, és
-- 7. meghatározza az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát.
+- 7. meghatározza az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát,
+- 8. ellátja a villamosenergia-piacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez.
 
 (4) A Hivatal a szétválasztási szabályok teljesítésével kapcsolatos feladatai körében:
 
@@ -2443,19 +2536,24 @@ villamos energia képezi.
 
 ### Együttműködés a Gazdasági Versenyhivatallal
 
-162. § (1) A Hivatal és a Gazdasági Versenyhivatal (a továbbiakban: versenyhatóság) a villamosenergia-piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében együttműködik.
+162. § (1) A Hivatal és a Gazdasági Versenyhivatal (a továbbiakban: versenyhatóság) a villamosenergia-piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, az egységes jogalkalmazás előmozdítása, valamint a piacok 1227/2011/EU európai parlamenti és tanácsi rendelet 7. cikke szerinti nyomon követése érdekében együttműködik.
 
 (2) A 110–111. § alkalmazása során a jelentős piaci erővel rendelkező engedélyesek azonosításával és a rájuk vonatkozó kötelezettségek előírásával kapcsolatos eljárásokban a Hivatal megfelelő határidő biztosításával a versenyhatóság szakmai álláspontját tartalmazó véleményét figyelembe veszi, amennyiben attól eltér, annak indokait a határozat indokolásában megjelöli.
 
-(3) A Hivatal és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az üzleti titokhoz fűződő érdekek ne sérüljenek.
+(3) A Hivatal és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
 
 (4) A Hivatal és a versenyhatóság az együttműködésük részletes szabályait megállapodásban rögzítik, és azt a nyilvánosság számára hozzáférhetővé teszik.
 
-### Együttműködés a Pénzügyi Szervezetek Állami Felügyeletével
+### Együttműködés a Magyar Nemzeti Bankkal
 
-162/A. § (1) A Hivatal és a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a szervezett villamosenergia-piac prudens működése, az ott megkötött, lebonyolított és elszámolt ügyletek hatékony hatósági felügyelete, valamint az információáramlás és az egységes jogalkalmazás biztosítása érdekében együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes szabályait megállapodásban rögzítik, és azt közzéteszik.
+162/A. § (1) A Hivatal és a – pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró – Magyar Nemzeti Bank (a továbbiakban: Felügyelet)
 
-(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy az üzleti titokhoz fűződő érdekek ne sérüljenek.
+- a) a szervezett villamosenergia-piac prudens működése, az ott megkötött, lebonyolított és elszámolt ügyletek hatékony hatósági felügyelete, valamint az információáramlás és az egységes jogalkalmazás biztosítása érdekében, továbbá
+- b) az 1227/2011/EU európai parlamenti és tanácsi rendeletben a nemzeti szabályozó hatóság és a hatáskörrel rendelkező pénzügyi hatóság közötti együttműködés területeként meghatározott kérdésekben
+
+együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes szabályait megállapodásban rögzítik és azt közzéteszik.
+
+(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
 
 ### Együttműködés a Nemzeti Adó- és Vámhivatallal
 
@@ -2463,7 +2561,7 @@ villamos energia képezi.
 
 (2) Az együttműködés keretében a Hivatal és a Nemzeti Adó- és Vámhivatal kölcsönösen adatszolgáltatást nyújt egymásnak az (1) bekezdésben meghatározott engedélyesek által határon keresztül ki- és beszállított, valamint belföldön vásárolt és értékesített villamos energia mennyiségéről.
 
-(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az üzleti titokhoz fűződő érdekek ne sérüljenek.
+(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
 
 ### Kapcsolat a fogyasztóvédelmi hatósággal
 
@@ -2529,6 +2627,10 @@ villamos energia képezi.
 
 (5) A Hivatal és a Hivatal eljárásában résztvevő ügyfelek az Európai Bizottságnak a hivatali határozat iránymutatásoknak való megfelelésének további kivizsgálása tárgyában indított eljárása során az Európai Bizottság felhívására jogosultak észrevételeket benyújtani.
 
+165/B. § (1) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet 7. cikk (2) bekezdésében és 16. cikkében meghatározott együttműködés keretében jogosult együttműködési megállapodást kötni az Ügynökséggel és más tagállam nemzeti szabályozó hatóságával.
+
+(2) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak végrehajtása érdekében az Ügynökség, illetve más tagállam nemzeti szabályozó hatósága felé adatot továbbíthat, valamint az Ügynökségtől és más tagállam nemzeti szabályozó hatóságától adat továbbítását kérheti. A Hivatal a részére továbbított adatokat az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak teljesítése érdekében jogosult kezelni.
+
 #### 166–167. §
 
 ### A Hivatal eljárására vonatkozó
@@ -2556,11 +2658,11 @@ villamos energia képezi.
 - e)
 - e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam.
 - f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 30 nap, és
-- g)
+- g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap, amely egy alkalommal három hónappal meghosszabbítható,
 - h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2009/72/EK rendelet 11. cikk (6) bekezdése szerinti eljárási határidejének lejártát követő 2 hónap,
 - i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 45 nap.
 
-(4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a közigazgatási és hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
+(4a) Az elnök a Hivatal (4) bekezdés ba) és bc) pontja szerinti ügyintézési határidejét annak lejárta előtt indokolt esetben – a Ket. általános eljárásjogi szabályaitól eltérően – egy alkalommal 2 hónappal, valamint a panaszt benyújtó ügyfél beleegyezésével további 2 hónappal meghosszabbíthatja.
 
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
 
@@ -2686,7 +2788,8 @@ villamos energia képezi.
 - 44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
 - 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 - 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
-- 47. a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját
+- 47. a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
+- 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat
 
 rendeletben állapítsa meg.
 
@@ -2715,6 +2818,9 @@ rendeletben állapítsa meg.
   - b)
   - c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
   - d)
+- 20. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
+- 21. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
+- 22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit
 
 rendeletben állapítsa meg.
 
@@ -2783,7 +2889,7 @@ rendeletben állapítsa meg.
 
 (15) E törvény hatálybalépését megelőzően kötött uralmi szerződést a 92. § (4) bekezdésben meghatározott engedélyesek 2008. június 30-ig kötelesek megszüntetni, ennek hiányában az érintett felek az uralmi szerződésből fakadó jogokat, illetve kötelezettségeket érvényesen nem gyakorolhatnak, illetve nem teljesíthetnek.
 
-#### 171/A. §
+171/A. § Egyetemes szolgáltatónak nem minősülő villamosenergia-kereskedő esetében a villamos energiával, valamint a földgázellátással összefüggésben egyes törvények módosításáról szóló 2013. évi CXLV. törvénnyel megállapított 13. § (1) bekezdés szerinti kötelező átvétel alá eső villamos energia átvétele alóli mentességet az átviteli rendszerirányító első alkalommal az átvételi kötelezettség alá eső villamos energiának az átviteli rendszerirányító által történő szétosztásáról és a szétosztás során alkalmazható árak meghatározásának módjáról szóló miniszteri rendelet szerinti 2013. november hónapra vonatkozó szétosztás során veszi figyelembe.
 
 172. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően legalább tíz évvel korábban idegen ingatlanon megépült és üzembe helyezett közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben azok elhelyezésére vonatkozó vezetékjog alapítása nem történt meg, vagy a vezetékjogi engedély nem lelhető fel, illetve a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatóságtól e törvény hatálybalépésétől számított hat éven belül kérheti a vezetékjog megállapítását, vagy a vezetékjog bejegyzésére alkalmas határozat kiadását. A vezetékjog fennállását és keletkezésének időpontját a határozatban kell megállapítani. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság jogerős határozata alapján kerülhet sor.
 
@@ -2885,7 +2991,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 178/C. § A Hivatal e törvény rendelkezései alapján hozott – a kötelező átvétel mennyiségét és időtartamát meghatározó – határozataira, amennyiben azok jogerőre emelkedését követően a határozatokban megjelölt kereskedelmi üzembe helyezési időponttól a termelő kereskedelmi üzemét nem kezdte meg, e törvény 91. § (1) és (4) bekezdésének rendelkezéseit kell alkalmazni. Ez a rendelkezés nem vonatkozik e törvény 171. § (6) bekezdése alapján hozott, kötelező átvétel időtartamának meghosszabbítására vonatkozó határozatokra.
 
-178/D. § A VET. 171/A. § szerinti kapcsolt mérlegkör keretében való értékesítési jogosultság 2012. június 30-án megszűnik. A kapcsolt mérlegkör keretében való értékesítési jogosultság megszűnésével kapcsolatos elszámolásra a 171/A. §-t kell alkalmazni.
+#### 178/D. §
 
 178/E. § (1) A 2011. október 1-jét megelőzően létesített magánvezetékek üzemeltetésére e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezéseit kell alkalmazni. Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 74. § (1) bekezdés h) pontjának hatálybalépését megelőzően magánvezeték létesítésére, működtetésére, a vezeték kapacitásának megváltoztatására, valamint működésének szüneteltetésére kiadott engedélyek és a 88. § (4) bekezdésének az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított hatályon kívül helyezését megelőzően kiadott egyszerűsített villamosenergia-kereskedelmi engedélyek az engedélyekben meghatározott ideig hatályban maradnak.
 
@@ -2923,7 +3029,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) Az (1) bekezdés szerinti engedélyesek Mód. 2. törvény hatálybalépésekor hatályos kiszervezési tárgyú szerződései – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződések kivételével – nem hosszabbíthatók meg. A szerződő felek ezzel ellentétes megállapodása semmis.
 
-(3) Az (1) bekezdés szerinti engedélyesek – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Mód. 2. törvény hatálybalépését követő 6 hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Mód. 2. törvény hatálybalépését követő 6. hónapot követően az (1) bekezdés szerinti engedélyesek kapcsolt vállalkozásához kiszervezett tevékenységgel kapcsolatos költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
+(3) Az (1) bekezdés szerinti engedélyesek – a Vhr.-ben meghatározott, kiszervezési tilalom alá nem eső tevékenységekre irányuló szerződéseik kivételével – kötelesek a Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított hat hónapon belül megszüntetni azokat a kiszervezési tárgyú szerződéseiket, amelyeket kapcsolt vállalkozásaikkal kötöttek. A Hivatal által az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyek felülvizsgálata érdekében indított eljárás jogerős lezárásától számított 6. hónapot követően az (1) bekezdés szerinti engedélyeseknek a kapcsolt vállalkozásaikhoz kiszervezett tevékenységeikkel kapcsolatos költségei az árszabályozás során nem vehetők figyelembe.
 
 178/M. § E törvény Mód. 2. törvénnyel megállapított 40. § (4) és (4a) bekezdése szerinti, profil alapú elszámolás esetén a felhasználó kérésére biztosítandó negyedévente történő mérőberendezés-leolvasást – az e törvény 177/A. § (1) bekezdés szerinti mintaprojektek kivételével – az okos mérésre alkalmas mérőberendezéssel történő leolvasás nem váltja ki.
 
@@ -2934,6 +3040,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 178/O. § A Mód. 2. törvénnyel az engedélyesekre megállapított új kötelezettségek engedélyesek általi teljesítésével kapcsolatosan felmerülő költségeket a Hivatal az árszabályozás során nem veszi figyelembe.
 
 178/P. § E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 67. §-ával megállapított 116. § (3) bekezdés e) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+
+178/Q. § A szervezett villamosenergia-piaci engedélyes az e törvénynek a villamos energiával, valamint a földgázellátással összefüggésben egyes törvények módosításáról szóló 2013. évi CXLV. törvény 3. §-ával megállapított 114/D. § (1) bekezdése, valamint 17. §-ával megállapított, a Get. 61/E. § (1) bekezdése szerinti szabályzatot 2013. október 1-jéig küldi meg a Hivatal részére jóváhagyásra.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
@@ -2992,6 +3100,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
 - d) 170. § (1) bekezdés 26. pontja
   - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet és
-  - db) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről szóló 617/2010/EU, Euratom tanácsi rendelet végrehajtásáról szóló 2010. szeptember 21-i, 833/2010/EU, Euratom európai bizottsági rendelet
+  - db) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről szóló 617/2010/EU, Euratom tanácsi rendelet végrehajtásáról szóló 2010. szeptember 21-i, 833/2010/EU, Euratom európai bizottsági rendelet,
+- e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.

@@ -15,7 +15,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - c) a külföldi biztosító, biztosításközvetítő és szaktanácsadó magyarországi képviselete által folytatott tevékenységre;
 - d) kizárólag a kiszervezett tevékenységre a kiszervezett tevékenységet végzőnél;
 - e) Kártalanítási Számla, továbbá a Kártalanítási Alap kezelésével foglalkozó szervezetnek a Számla kezelésével kapcsolatos tevékenységére;
-- f) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által ellátott – e törvényben meghatározott – felügyeleti tevékenységre; valamint
+- f) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) – e törvényben meghatározott – tevékenységére; valamint
 - g) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre az összevont alapú, illetőleg a kiegészítő felügyelet kiterjed.
 
 (2) E törvény rendelkezései a belföldi biztosító, biztosításközvetítő és biztosítási szaktanácsadó külföldön végzett biztosítási, biztosításközvetítői, biztosítási szaktanácsadói, illetve biztosítói, biztosításközvetítői, szaktanácsadói képviseleti tevékenységére kizárólag abban az esetben terjednek ki, ha a tevékenység helye szerinti ország jogszabálya eltérően nem rendelkezik.
@@ -217,7 +217,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 9/A. § (1) Ahol e törvény euróban meghatározott összegről rendelkezik, azon annak az év január 1-jétől december 31-ig tartó időszakára (a továbbiakban: alkalmazási időszak) vonatkozó, forintban meghatározott összegét kell érteni.
 
-(2) Az adott alkalmazási időszakra vonatkozó forintban meghatározott összeget a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett, az alkalmazási időszakot megelőző naptári év első tíz hónapjára vonatkozó hivatalos napi devizaárfolyamok átlagának alkalmazásával, a következő milliós forintértékre felkerekítve kell kiszámítani.
+(2) Az adott alkalmazási időszakra vonatkozó forintban meghatározott összeget az alkalmazási időszakot megelőző naptári év első tíz hónapjára és az euró forintra való átszámítására vonatkozó belföldi hivatalos napi árfolyamok átlagának alkalmazásával, a következő milliós forintértékre felkerekítve kell kiszámítani.
 
 ## MÁSODIK RÉSZ — A BIZTOSÍTÁS RENDSZERE
 
@@ -587,7 +587,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (2) A nyilvántartás egyedi azonosításra nem alkalmas főbb adatait tartalmazó éves jelentést a tárgyévet követő év május 31-ig a Felügyeletnek meg kell küldeni.
 
-(3) A független biztosításközvetítői jelentés szabályait a Felügyelet elnöke rendeletben állapítja meg.
+(3) A független biztosításközvetítői jelentés szabályait a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 45. § A független biztosításközvetítő biztosításközvetítői tevékenysége során
 
@@ -1189,7 +1189,7 @@ köteles foglalkoztatni.
 
 (10) Az (1) bekezdés a)–d) pontjai szerinti egyéb vezetőket – tanácskozási joggal – a biztosító közgyűlésének felelősségi területüket érintő napirendi pontjai tárgyalására meg kell hívni.
 
-(11) A Kártalanítási Számlát, illetve a Kártalanítási Alapot kezelő szervezet a Kártalanítási Számla és a Kártalanítási Alap kezelésével kapcsolatos tevékenység végzésére az (1) bekezdés a)–c) pontjaiban meghatározott egyéb vezetőt köteles alkalmazni.
+(11)
 
 ### A biztosító vezető biztosításmatematikusa (aktuáriusa)
 
@@ -1213,7 +1213,7 @@ köteles foglalkoztatni.
 
 (4) A biztosító vezető biztosításmatematikusa az éves beszámolóval együtt ahhoz kapcsolódóan benyújtja a Felügyeletnek a biztosító éves külön aktuáriusi jelentését.
 
-(5) Az aktuáriusi jelentés tartalmi követelményeit a Felügyelet elnöke rendeletben állapítja meg.
+(5) Az aktuáriusi jelentés tartalmi követelményeit a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 ### A biztosító vezető jogtanácsosa
 
@@ -1422,7 +1422,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 
 (2) A terméktervnek tartalmaznia kell az ügyvezető, a vezető jogtanácsos, a vezető biztosításmatematikus (aktuárius) és az érintett biztosítási ág vezetőjének aláírását.
 
-99. § (1) Az életbiztosítási, baleset- és betegségbiztosítási (egészségbiztosítási) termék díjkalkulációjában, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértékét a Felügyelet elnöke rendeletben állapítja meg.
+99. § (1) Az életbiztosítási, baleset- és betegségbiztosítási (egészségbiztosítási) termék díjkalkulációjában, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértékét a miniszter rendeletben állapítja meg.
 
 (2) A másik tagállamban székhellyel rendelkező biztosító fióktelepe útján, vagy határon átnyúló szolgáltatás keretében terjesztett, az (1) bekezdésben meghatározott termékekre a technikai kamatláb maximális mértékének tekintetében a székhely szerinti tagállam szabályozása az irányadó.
 
@@ -1553,7 +1553,7 @@ a jogszabálysértés, az érdeksérelem, a hiba, illetve a hiányosság megszü
 
 110. § (1) A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait a miniszter rendeletben állapítja meg.
 
-(2) A biztosító kötelező gépjármű-felelősségbiztosítási terméke adatszolgáltatásának szabályait a Felügyelet elnöke rendeletben állapítja meg.
+(2) A biztosító kötelező gépjármű-felelősségbiztosítási terméke adatszolgáltatásának szabályait a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 ## ÖTÖDIK RÉSZ — A BIZTOSÍTÓ TULAJDONOSAIRA, VALAMINT VEZETŐIRE ÉS ALKALMAZOTTAIRA VONATKOZÓ SZABÁLYOK
 
@@ -2076,9 +2076,9 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 146. § A biztosító éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a kormány rendeletben szabályozza.
 
-147. § (1) A biztosító köteles a közgyűlés által elfogadott – a könyvvizsgálói záradékot tartalmazó, a cégbíróságnál letétbe helyezettel egyező – éves beszámolót, az üzleti jelentést, a közgyűlés jegyzőkönyvét és a hozott határozatokat a mérleg fordulónapjától számított 150 napon belül a Felügyelet és az MNB részére megküldeni.
+147. § (1) A biztosító köteles a közgyűlés által elfogadott – a könyvvizsgálói záradékot tartalmazó, a cégbíróságnál letétbe helyezettel egyező – éves beszámolót, az üzleti jelentést, a közgyűlés jegyzőkönyvét és a hozott határozatokat a mérleg fordulónapjától számított 150 napon belül a Felügyelet részére megküldeni.
 
-(2) Ha a biztosító konszolidált éves beszámoló készítésére kötelezett, úgy azt az (1) bekezdés szerinti iratokat mellékelve, a mérleg fordulónapjától számított 180 napon belül kell a Felügyelet és az MNB részére megküldeni.
+(2) Ha a biztosító konszolidált éves beszámoló készítésére kötelezett, úgy azt az (1) bekezdés szerinti iratokat mellékelve, a mérleg fordulónapjától számított 180 napon belül kell a Felügyelet részére megküldeni.
 
 (3) Az (1)–(2) bekezdésekben meghatározott okiratok valódiságát köteles aláírásával igazolni
 
@@ -2230,7 +2230,7 @@ van összefüggésben.
 
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító, biztosításközvetítő és a biztosítási szaktanácsadó az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
+(8) Nem jelenti a biztosítási titok és az üzleti titok sérelmét a felügyeleti ellenőrzési eljárás során az összevont alapú felügyelet esetében a csoportvizsgálati jelentésnek a pénzügyi csoport irányító tagja részére történő átadása.
 
 157/A. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha
 
@@ -2274,7 +2274,7 @@ van összefüggésben.
 163. § (1) A 162. §-ban előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) Felügyelettel,
-- b) MNB-vel,
+- b)
 - c) nemzetbiztonsági szolgálattal,
 - d) Állami Számvevőszékkel,
 - e) Gazdasági Versenyhivatallal,
@@ -2366,9 +2366,9 @@ szemben.
 
 (7) A szolgáltató az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A szolgáltatónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A szolgáltatónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
-(9) A szolgáltató a panaszt és az arra adott választ három évig őrzi meg, és azt a Pénzügyi Szervezetek Állami Felügyeletének kérésére bemutatja.
+(9) A szolgáltató a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyeletnek kérésére bemutatja.
 
 (10) A szolgáltató az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A szolgáltató a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
 
@@ -2410,7 +2410,7 @@ szemben.
 
 171. § (1) A biztosítók, a független biztosításközvetítők és a szaktanácsadók a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesítenek.
 
-(2) A biztosítók belső adatszolgáltatásának rendjét és tartalmát a Felügyelet elnöke rendeletben állapítja meg.
+(2) A biztosítók belső adatszolgáltatásának rendjét és tartalmát a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 172. § A Felügyelet részére a biztosító köteles
 
@@ -2460,7 +2460,7 @@ megküldeni.
 
 180. § (1) Az összevont alapú felügyeleti feladatok ellátása érdekében a Felügyelet – rendszeresen vagy esetenként – jelentést, adatot, illetőleg információt kérhet az összevont alapú felügyelet alá tartozó biztosítótól, amely köteles azt a Felügyeletnek megadni.
 
-(2) A Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a Felügyelet elnöke rendeletben állapítja meg.
+(2) A Felügyelet részére teljesítendő, az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a Magyar Nemzeti Bank elnöke rendeletében állapítja meg.
 
 (3) Az összevont alapú felügyelet alá tartozó biztosítónak rendelkeznie kell az összevont alapú felügyelet ellátásához szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetve azok megbízhatóságát biztosító belső ellenőrzési rendszerrel.
 
@@ -2506,7 +2506,7 @@ megküldeni.
 - e) a viszontbiztosítási tevékenységgel kapcsolatos ügyletek,
 - f) a költségek megosztása.
 
-(3) A biztosító a jegyzett tőkéjének (részjegytőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló, a Felügyelet elnöke által kiadott rendeletben foglaltaknak megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
+(3) A biztosító a jegyzett tőkéjének (részjegytőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló rendeletben foglaltaknak megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
 
 (4) A biztosítónak rendelkeznie kell olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az (1) és (2) bekezdés szerinti ügylet meghatározására, mérésére és ellenőrzésére.
 
@@ -2766,7 +2766,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 ### A Felügyelet tájékoztatási kötelezettsége
 
-206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, az egyesületek nyilvántartását végző törvényszéknek, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdekképviseleti szervezeteinek.
+206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, a cégbíróságnak, az egyesületek nyilvántartását végző törvényszéknek, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdek-képviseleti szervezeteinek.
 
 (2)
 
@@ -2894,7 +2894,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 219. § A biztosító – 126. § (4) bekezdés b) pontjának eleget tevő kölcsönös biztosító egyesület kivételével – felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
-220. § (1) Biztosító felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki, vagy választható meg.
+220. § (1) Biztosító felszámolójának kizárólag az MNBtv. 39. §-ában meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki vagy választható meg.
 
 (2) A felszámolót a 153–165. §-ban előírt titoktartási kötelezettség terheli.
 
@@ -3116,9 +3116,9 @@ rendeletben állapítsa meg.
 235. § Felhatalmazást kap a miniszter, hogy
 
 - a)
-- b) a Felügyelet függő és a független biztosításközvetítői hatósági képzéssel összefüggő feladataira vonatkozó szabályokat, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
+- b) a függő és a független biztosításközvetítői hatósági képzés szabályait, a hatósági képzés során szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító okirat megszerzésének követelményeit, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
 - c) a jelzáloghitelezési tevékenységgel kapcsolatos kockázatok megállapításának, elemzésének, értékelésének, behatárolásának, kezelésének, csökkentésének és a kockázatvállalás ellenőrzésének részletes szabályait,
-- d)
+- d) a technikai kamatláb legnagyobb mértékét,
 - e)
 - f) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 - g) a befektetési egységhez kötött életbiztosítások esetén az ügyfeleknek szóló adatszolgáltatás formáját és tartalmát,
@@ -3131,17 +3131,12 @@ rendeletben állapítsa meg.
 - n)
 - o)
 - p) a biztosításközvetítői és biztosítási szaktanácsadói nyilvántartás működtetésének szabályait,
-- q)
+- q) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 - r)
 
 rendeletben állapítsa meg.
 
-235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy
-
-- a) a technikai kamatláb legnagyobb mértékét,
-- b) a függő és független biztosításközvetítői hatósági képzés részletes szabályait, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire vonatkozó szabályokat,
-- c) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes biztosítási termékekre vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat,
-- d) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező ajánlat tartalmának a szerződés írásba foglalásáig vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
+235/A. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

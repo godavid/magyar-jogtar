@@ -12,7 +12,7 @@ a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztos�
 
 – Felismerve e feladatok teljesítésére irányuló törekvések elősegítésének szükségességét, az Országgyűlés a következő törvényt alkotja:
 
-1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt közfeladatának ellátása érdekében igénylő központi államigazgatási szervnek, illetve a Pénzügyi Szervezetek Állami Felügyeletének.
+1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt közfeladatának ellátása érdekében igénylő központi államigazgatási szervnek, illetve a Magyar Nemzeti Banknak.
 
 2. § (1) Az állami vezető és a kormányhivatal vezetője jelentős társadalmi, vagy gazdasági hatású, és különösen az európai uniós kötelezettségek teljesítését érintő döntések előkészítése érdekében kérheti, hogy az adatkezelő a kezelésében lévő személyes adatról, adótitokról, vagy egyedi statisztikai adatról készített másolatot visszafordíthatatlan módon úgy módosítsa, hogy az az érintettel ne legyen kapcsolatba hozható, és kérheti a személyes vagy bizalmas jellegétől így megfosztott adat 1. § szerinti átadását.
 
