@@ -169,7 +169,49 @@ az egyes rendészeti tárgyú törvények módosításáról
 
 #### 28. A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény módosítása
 
-189–192. §
+189. § A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény a következő 1/A. §-sal egészül ki:
+
+„1/A. § E törvény rendelkezéseit kell alkalmazni a kéményseprő-ipari közszolgáltatás ellátásával, valamint az égéstermékek veszélyeinek csökkentésével összefüggő egyes kérdésekben.”
+
+190. § (1) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 6. § (1) bekezdése a következő e) ponttal egészül ki:
+
+(A közszolgáltatás során a közszolgáltató sormunka keretében időszakonként köteles elvégezni)
+
+„e) a vonatkozó műszaki követelményeknek megfelelő szén-monoxid érzékelő felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését.”
+
+(2) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére időszakonként kell elvégezni az (1) bekezdés a)–e) pontjában foglaltakat.”
+
+191. § (1) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 9. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Az ingatlan tulajdonosa köteles)
+
+„d) a (2) bekezdés c)–f) pontjában és az (5) bekezdésben meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.”
+
+(2) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 9. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+„(5) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezés üzemeltetése esetén
+
+a) a bölcsődei, óvodai vagy iskolai ellátás nyújtására szolgáló,
+
+b) a vendégéjszaka eltöltésére használt,
+
+c) a személyes gondoskodás keretébe tartozó szakosított ellátást nyújtó bentlakásos intézmény céljára szolgáló,
+
+d) a fekvőbeteg-gyógyintézeti ellátásra szolgáló,
+
+e) a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá tartozó
+
+önálló rendeltetési egység használója a tüzelőberendezés helyiségében a vonatkozó műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezés felszerelésére és működtetésére köteles, amennyiben a tüzelőberendezés közösségi térben vagy vele légtér-összeköttetésben lévő helyiségekben van.
+
+(6) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezéssel felszerelt, új építésű épület akkor vehető használatba, ha a tüzelőberendezés helyiségében jogszabályban meghatározott műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezést helyeztek el.”
+
+192. § A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény 13. § (2) bekezdése a következő m) ponttal egészül ki:
+
+(Felhatalmazást kap a településüzemeltetésért felelős miniszter, hogy rendeletben állapítsa meg)
+
+„m) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményeket.”
 
 #### 29. A Magyar Köztársaság Kormánya és a Bosznia-Hercegovinai Köztársaság Kormánya között személyeknek az államhatáron történő átadásáról és átvételéről szóló, Budapesten, 1996. április 21-én aláírt Egyezmény kihirdetéséről szóló 2006. évi XVIII. törvény hatályon kívül helyezése
 

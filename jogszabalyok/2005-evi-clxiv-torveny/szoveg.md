@@ -263,7 +263,7 @@ nyilvántartást vezet.
   - cc) korlátozza vagy megtiltja a hirdetés vagy figyelemfelhívás céljára szolgáló hanghatást okozó eszköz használatát,
 - d) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevékenység végzését, termékkör értékesítését,
 - e) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
-- f) bírságot szab ki, illetve
+- f) közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki, illetve
 - g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
 
 (5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c)–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
