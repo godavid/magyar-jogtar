@@ -19,6 +19,8 @@ Az Országgyűlés a helyi önkormányzati feladatkörbe tartozó kéményseprő
 - 9. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik,
 - 10. sormunka: az a külön megrendelés nélkül, előzetes értesítést követően, rendszeres időközönként végzett közszolgáltatás, amelynek díját további kiszállási díj nem terheli.
 
+1/A. § E törvény rendelkezéseit kell alkalmazni a kéményseprő-ipari közszolgáltatás ellátásával, valamint az égéstermékek veszélyeinek csökkentésével összefüggő egyes kérdésekben.
+
 #### 2. A közszolgáltatási feladat vállalására és felhagyására vonatkozó szabályok
 
 2. § A közszolgáltatás biztosítása:
@@ -82,8 +84,9 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - a) az égéstermék-elvezető ellenőrzését, szükség szerinti tisztítását,
 - b) az égéstermék-elvezető műszaki felülvizsgálatát,
 - c)–d)
+- e) a vonatkozó műszaki követelményeknek megfelelő szén-monoxid érzékelő felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését.
 
-(2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére, kiszállási díj felszámítása nélkül, időszakonként kell elvégezni az (1) bekezdés a)–d) pontjában foglaltakat.
+(2) A közszolgáltató a közszolgáltatás keretében elvégzi az ingatlan tulajdonosa által megrendelt égéstermék-elvezetővel kapcsolatos kötelező műszaki vizsgálatokat. Az időlegesen használt ingatlanok esetében az ingatlan tulajdonosának megrendelésére időszakonként kell elvégezni az (1) bekezdés a)–e) pontjában foglaltakat.
 
 (3) Az (1) és (2) bekezdésben meghatározott feladatok eredményét tartalmazó dokumentum egy példányát a közszolgáltató az ingatlan tulajdonosának, annak távollétében az ingatlan használójának igazolt módon átadja.
 
@@ -128,9 +131,21 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - a) a 6. § (2) bekezdésében meghatározott műszaki vizsgálatokat megrendelni,
 - b) személyes adatait a közszolgáltatónak írásban, igazolható módon bejelenteni,
 - c) a közszolgáltatásért járó díjat megfizetni vagy az ingatlan használójával fennálló megállapodás alapján írásban, igazolható módon a közszolgáltatónak bejelenteni, ha a közszolgáltatásért járó díj megfizetése az ingatlan használóját terheli,
-- d) a (2) bekezdés c)–f) pontjában meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
+- d) a (2) bekezdés c)–f) pontjában és az (5) bekezdésben meghatározott feladatok ellátásáról gondoskodni, ha az ingatlan használója ezt az előírt határidőn belül nem teszi meg.
 
 (4) Az ingatlan tulajdonosa vagy használója a hatósági eljárásokat megelőzően köteles panaszával – igazolható módon – a közszolgáltatóhoz vagy az ellátásért felelős önkormányzathoz fordulni.
+
+(5) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezés üzemeltetése esetén
+
+- a) a bölcsődei, óvodai vagy iskolai ellátás nyújtására szolgáló,
+- b) a vendégéjszaka eltöltésére használt,
+- c) a személyes gondoskodás keretébe tartozó szakosított ellátást nyújtó bentlakásos intézmény céljára szolgáló,
+- d) a fekvőbeteg-gyógyintézeti ellátásra szolgáló,
+- e) a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá tartozó
+
+önálló rendeltetési egység használója a tüzelőberendezés helyiségében a vonatkozó műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezés felszerelésére és működtetésére köteles, amennyiben a tüzelőberendezés közösségi térben vagy vele légtér-összeköttetésben lévő helyiségekben van.
+
+(6) A helyiség légterétől nem független, nyitott égésterű tüzelőberendezéssel felszerelt, új építésű épület akkor vehető használatba, ha a tüzelőberendezés helyiségében jogszabályban meghatározott műszaki követelményeknek megfelelő szén-monoxid-érzékelő berendezést helyeztek el.
 
 #### 5. A közszolgáltatás költségeinek fedezete
 
@@ -216,7 +231,8 @@ kötelező feladata [a továbbiakban az a)–c) pont együtt: a közszolgáltat�
 - i) a közszolgáltatási díjak meghatározásának a közszolgáltatási feladatok tartalmától függő, részletes szabályait,
 - j) a közszolgáltatásról készített éves statisztikai adatlap tartalmi követelményeit,
 - k) az új közszolgáltatói feladatok bevezetésének ütemezését,
-- l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat.
+- l) a közszolgáltatást ellátó szakmunkás szakmai továbbképzésére vonatkozó szabályokat,
+- m) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményeket.
 
 (3) Felhatalmazást kap az ellátásért felelős önkormányzat, hogy a közszolgáltatással kapcsolatban rendeletben állapítsa meg
 
