@@ -70,9 +70,15 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 - b) a pénzbírság,
 - c) a közérdekű munka.
 
-(2) A büntetések önállóan és – a (3) bekezdésben meghatározott kivétellel – egymás mellett is kiszabhatók.
+(2) A büntetések önállóan és – a (3) és (4) bekezdésben meghatározott kivétellel – egymás mellett is kiszabhatók.
 
 (3) A szabálysértési elzárás mellett nem szabható ki közérdekű munka.
+
+(4) E törvény megállapíthatja egyes szabálysértési tényállások esetén
+
+- a) a büntetés, intézkedés kiszabásának további törvényi feltételeit,
+- b) az egyes büntetések, valamint a helyszíni bírság kiszabásának kizártságát,
+- c) a helyszíni eljárásra, valamint a büntetés, intézkedés végrehajtására vonatkozó eltérő szabályokat.
 
 8. § (1) A szabálysértés miatt alkalmazható intézkedések:
 
@@ -1138,7 +1144,7 @@ jelöli ki.
 
 #### 85. Helyszíni idézés, értesítési kötelezettség
 
-101. § (1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, amennyiben a helyszíni bírság kiszabását nem veszi tudomásul, szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.
+101. § (1) Az e törvény szerint helyszíni bírság kiszabására, illetve jogszabály alapján ellenőrzésre jogosult szerv vagy személy a szabálysértési elzárással nem büntethető szabálysértés tetten ért elkövetőjét, ha a helyszíni bírság kiszabását nem veszi tudomásul, vagy ha a helyszíni bírság kiszabása e törvény szerint kizárt, a szabálysértési eljárás azonnali lefolytatása érdekében az elkövetés helye szerint illetékes szabálysértési hatósággal egyeztetett, de legkésőbb öt napon belüli időpontra a helyszínen a szabálysértési hatóság elé idézheti.
 
 (2) A helyszíni bírság kiszabására jogosult szerv vagy személy beszerzi a helyszínen fellelhető, az eljárás lefolytatásához szükséges bizonyítékokat és a helyszínen tartózkodó tanúkat idézi. A beszerzett bizonyítékokról és a tanúkutatás eredményéről feljegyzést készít, amelyben a szabálysértési hatóság által történő döntéshozatalhoz szükséges mértékben részletezi a szabálysértést.
 
@@ -2211,7 +2217,43 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 178. § Aki idegen vadászterületen jogosulatlanul, vad elejtésére használható és arra alkalmas állapotban lévő eszközzel tartózkodik, szabálysértést követ el.
 
+#### 133/A. Tulajdonosi hozzájárulás nélküli építés
+
+178/A. § Aki közterületen a tulajdonos vagy a rendelkezésre jogosult hozzájárulása nélkül építményt épít, szabálysértést követ el.
+
+#### 133/B. Közös szabályok a XXIII. Fejezetben foglalt szabálysértések tekintetében
+
 179. § E törvény XXIII. Fejezetében foglalt szabálysértések miatt szabálysértési elzárás büntetés kiszabásának is helye van.
+
+### XXIII/A. Fejezet — KÖZÉRDEKŰ MUNKÁVAL BÜNTETHETŐ SZABÁLYSÉRTÉSEK
+
+#### 133/C. Életvitelszerű közterületi tartózkodás szabályainak megsértése
+
+179/A. § (1) Aki
+
+- a) a világörökségről szóló törvény szerinti világörökségi területnek minősülő közterületen vagy a helyi önkormányzat (2) bekezdés szerinti rendeletében meghatározott közterületen (a továbbiakban: kijelölt terület) életvitelszerűen tartózkodik, és
+- b) a kijelölt területet a rendőrség, a 39. § (2) bekezdés a), e) és f) pontjában meghatározott személy, illetve – ha a 39. § (3) bekezdésében meghatározott feltételnek megfelel – a 39. § (2) bekezdés g)–i) pontjában meghatározott személy felkérése ellenére nem hagyja el,
+
+szabálysértést követ el.
+
+(2) A helyi önkormányzat, a főváros tekintetében a fővárosi önkormányzat, rendeletében kijelölheti a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében a közterület meghatározott azon részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
+
+(3) A kerületi önkormányzat tulajdonában álló közterület tekintetében a fővárosi önkormányzat rendeletében a kerületi önkormányzat
+
+- a) javaslatára kijelöli, valamint
+- b) véleményének kikérésével kijelölheti
+
+a kerületi önkormányzat tulajdonában álló közterület azon részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
+
+(4) Az (1) bekezdés alkalmazásában életvitelszerű tartózkodásnak tekinthető minden olyan magatartás, amely alapján megállapítható, hogy a kijelölt területen való életvitelszerű tartózkodás a lakó- és tartózkodási hely, valamint egyéb szállásra való visszatérés szándéka nélkül, a kijelölt területen való huzamos tartózkodás érdekében valósul meg, és a kijelölt területen való tartózkodás körülményeiből, vagy a magatartásból arra lehet következtetni, hogy a jellemzően lakóhelyül szolgáló kijelölt területen végzett tevékenységet – így különösen alvás, tisztálkodás, étkezés, öltözködés, állattartás – az elkövető a kijelölt területen rövid időnként visszatérően és rendszeresen végzi.
+
+(5) Az (1) bekezdésben meghatározott szabálysértés miatt az e törvényben foglalt feltételek fennállása esetén közérdekű munka szabható ki. Ha az elkövető a közérdekű munka elvégzését nem vállalja, pénzbírság szabható ki.
+
+(6) A közérdekű munka, valamint a meg nem fizetett pénzbírság végrehajtására az általános szabályokat kell alkalmazni azzal, hogy a pénzbírság közérdekű munkával történő megváltásának nincs helye.
+
+(7) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt elzárás büntetés szabható ki.
+
+(8) Az (1) bekezdésben meghatározott szabálysértés elkövetésén tetten ért személlyel szemben helyszíni bírság kiszabásának nincs helye.
 
 ### XXIV. Fejezet — AZ EMBERI MÉLTÓSÁG, A SZEMÉLYI SZABADSÁG ÉS A KÖZREND ELLENI SZABÁLYSÉRTÉSEK
 
@@ -2445,6 +2487,12 @@ szabálysértést követ el.
 - d) közterületen vagy nyilvános helyen fiatalkorút szándékosan lerészegít,
 
 szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.
+
+#### 154/A. Jogosulatlan közterületi értékesítés
+
+200/A. § (1) Aki közterületen a kereskedelemről szóló törvény szerinti közterületi értékesítést jogosulatlanul végez, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.
 
@@ -2970,6 +3018,8 @@ szabálysértést követ el.
 - i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+
+(4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
 
 #### 205. Hatálybalépés
 
