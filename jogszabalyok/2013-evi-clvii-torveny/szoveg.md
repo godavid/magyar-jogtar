@@ -22,6 +22,6 @@ a Magyar Művészeti Akadémia működésével kapcsolatos egyes kérdésekről
 
 4. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-5. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. mellékletének III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek című táblázat 30. sora, az 56. sorának „Dózsa György út 37.” és „Műcsarnok” szövegrésze.
+5. §
 
 6. § A 2. § (1) és (2) bekezdése, valamint az 5. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
