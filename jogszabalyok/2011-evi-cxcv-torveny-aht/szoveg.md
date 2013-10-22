@@ -410,7 +410,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai esetén az (1) bekezdés szerinti feladatokat a törvényben kijelölt kezelő szerv látja el.
 
-(3) Az elkülönített állami pénzalap kezelését központi költségvetési szerv vagy kivételesen köztestület láthatja el. Az elkülönített állami pénzalap kezelésének kiadásait az elkülönített állami pénzalap költségvetése az elkülönített állami pénzalapot létrehozó törvényben vagy a központi költségvetésről szóló törvényben meghatározott mértékben finanszírozhatja.
+(3) Az elkülönített állami pénzalap kezelését központi költségvetési szerv vagy kivételesen köztestület, továbbá az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság vagy az általa alapított vagy megbízott szervezet láthatja el. Az elkülönített állami pénzalap kezelésének kiadásait az elkülönített állami pénzalap költségvetése az elkülönített állami pénzalapot létrehozó törvényben vagy a központi költségvetésről szóló törvényben meghatározott mértékben finanszírozhatja.
 
 (4) A központi kezelésű előirányzat és a fejezeti kezelésű előirányzat esetén jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával, valamint az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet kijelölhet. Ha e törvény központi kezelésű előirányzat vagy fejezeti kezelésű előirányzat kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
 
