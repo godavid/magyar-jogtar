@@ -8,7 +8,7 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
 
 ### A törvény hatálya
 
-1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
+1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására, valamint a belső piaci információs rendszerben való részvételre e törvény rendelkezéseit kell alkalmazni.
 
 (2) Nem kell alkalmazni e törvény rendelkezéseit
 
@@ -51,7 +51,7 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
 
 2. § E törvény alkalmazásában:
 
-- a) Belső Piaci Információs Rendszer: az Európai Bizottság által üzemeltetett, a szakmai képesítések elismeréséről szóló 2005/36/EK európai parlamenti és tanácsi irányelv, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv végrehajtása céljából az EGT-államok illetékes hatóságai közötti elektronikus adatcserét biztosító adatátviteli rendszer,
+- a) belső piaci információs rendszer: a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: IMI rendelet) 5. cikk a) pontjában meghatározott elektronikus adatátviteli eszköz,
 - b) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 - c) EGT-államban honos vállalkozás: valamely EGT-állam állampolgára mint önálló vállalkozó, továbbá valamely EGT-állam joga szerint létrejött olyan jogi személy vagy jogi személyiséggel nem rendelkező egyéb jogalany, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzletszerű gazdasági tevékenységének fő helye valamely EGT-államban van,
 - d) engedélyezés: bármely olyan hatósági vagy bírósági eljárás, amelynek lefolytatása a szolgáltatási tevékenység megkezdésének, folytatásának vagy igénybevételének jogszabályban előírt feltétele, ha
@@ -421,22 +421,34 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 
 39. § A szolgáltatási tevékenység megkezdésével és folytatásával összefüggő közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-### Belső Piaci Információs Rendszer
+40. § (1) A nemzetközi jogsegélyügyekben, valamint a 45–47. § szerinti eljárásokban a hatóság, a hatósági jogkörben eljáró köztestület és egyéb szervezet (e fejezet alkalmazásában a továbbiakban: hatóság) más EGT-állam illetékes hatóságaival a belső piaci információs rendszeren (a továbbiakban: IMI-rendszer) keresztül, elektronikus úton tart kapcsolatot az IMI rendelet, valamint a Kormány rendeletében meghatározott szabályok szerint.
 
-40. § (1) A nemzetközi jogsegélyügyekben, valamint a 45–47. § szerinti eljárásokban a hatóság, a hatósági jogkörben eljáró köztestület és egyéb szervezet (e fejezet alkalmazásában a továbbiakban: hatóság) a Kormány rendeletében meghatározott szabályok szerint a más EGT-állam illetékes hatóságaival a Belső Piaci Információs Rendszeren keresztül, elektronikus úton tart kapcsolatot.
+(2) Az IMI-rendszer hazai működésének felügyeletét a Kormány rendeletében kijelölt IMI-koordinátorok látják el a Kormány rendeletében meghatározottak szerint.
 
-(2) A Belső Piaci Információs Rendszer hazai működésének felügyeletét a Kormány rendeletében kijelölt IMI-koordinátorok látják el a Kormány rendeletében meghatározottak szerint, és ennek keretében a 2008/49/EK bizottsági határozatnak megfelelően
+41. § (1) Az IMI-rendszerben részt vevő, a Kormány rendeletében meghatározott hatóság az általa törvény alapján kezelt adatok és nyilvántartások tekintetében a más EGT-állam illetékes hatósága általi megkeresésben foglalt kérdések megválaszolása érdekében jogosult az EGT-állam illetékes hatósága által közölt, az előtte folyó eljárásban a tevékenység megkezdése vagy folytatása feltételeinek fennállását igazoló adatok ellenőrzésére.
 
-- a) gondoskodnak a hatóságoknak a Belső Piaci Információs Rendszerhez való hozzáférési jogosultsága kiosztásáról és nyilvántartásáról,
-- b) gondoskodnak a Belső Piaci Információs Rendszer zavartalan hazai alkalmazásáról, szükség esetén megteszik a szükséges intézkedéseket a felmerülő problémák elhárítására,
-- c) szükség esetén segítséget nyújtanak a megkeresések teljesítése során a más EGT-állam hatósága és a magyar hatóság között felmerülő viták rendezésében és gondoskodnak a más EGT-állam hatóságától érkező megkeresésnek az annak teljesítésére hatáskörrel rendelkező hatósághoz való továbbításáról,
-- d) értesítik a más EGT-állam megkeresett illetékes hatósága IMI-koordinátorát, valamint az Európai Bizottságot, ha valamely más EGT-állam illetékes hatósága indokolatlanul nem teljesíti a magyar hatóság megkeresését.
+(2) Az (1) bekezdés szerinti ellenőrzés érdekében a hatóság jogosult a bűnügyi nyilvántartó szervtől arra a tényre vonatkozó adatot igényelni, hogy a bűntettesek nyilvántartásában vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában kezel-e az EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni.
 
-(3) Az IMI-koordinátorok e minőségükben nem jogosultak az eljárásban érintett személyek személyes adatainak megismerésére.
+(3) A hatóság az (1) bekezdésben meghatározott ellenőrzés érdekében jogosult más magyar hatóságtól arra vonatkozó tényadatot igényelni, hogy az általa vezetett nyilvántartásokban kezel-e az EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni a következők tekintetében:
 
-41. § (1) Ha jogszabály meghatározott hatósági eljárásban meghatározza a személyes adatok kezelésének leghosszabb idejét, és az hat hónapnál rövidebb, a hatóság az adatoknak Belső Piaci Információs Rendszerből határidőben való törlése érdekében már a megkeresésében vagy a megkeresésre adott válaszában köteles jelezni az adatok törlésének kötelező határidejét.
+- a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett rendelkezik-e a szükséges engedéllyel, feltételekkel,
+- b) az érintett nem áll-e az ellenőrzéssel érintett tevékenység folytatását megtiltó vagy a tevékenységet meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt,
+- c) az érintettnek nem áll-e fenn lejárt köztartozása, vagy
+- d) az érintett nem áll-e csőd- vagy felszámolási eljárás, végelszámolás vagy más jogutód nélküli megszüntetési eljárás hatálya alatt.
 
-(2) Ha – az (1) bekezdés szerinti eseten kívül – az e fejezet szerinti eljárásban a személyes adatok kezelését hat hónapnál rövidebb határidőn belül meg kell szüntetni, és az adatokat törölni kell, a hatóság megkeresi az Európai Bizottságot, és kéri az adatoknak a Belső Piaci Információs Rendszerből való törlését.
+(4) A hatóság a (2) és a (3) bekezdés alapján, valamint a tevékenység ellenőrzése céljából általa kezelt más adatokból levont következtetéseiről és az ezeket megalapozó adatokról a másik EGT-állam illetékes hatóságát a megkeresésben feltett kérdésekre válaszolva, az ahhoz szükséges körben és mértékben tájékoztatja.
+
+(5) A hatóság az e §-ban meghatározott adatokat más célra nem használhatja fel, adatállományban nem rögzítheti és más szervnek nem továbbíthatja.
+
+41/A. § (1) A Kormány rendeletében kijelölt IMI-koordinátor, valamint az érintett hatóság honlapján, illetve a hatóságnál egyébként alkalmazott módon az IMI-rendszerben történő adatkezelésre vonatkozó, az IMI rendeletben foglalt információkat is tartalmazó általános tájékoztatót tesz közzé
+
+- a) az IMI-rendszerben történő adatkezelés céljáról és jogalapjáról,
+- b) az adatkezelésre és az adatfeldolgozásra jogosult, általa koordinált hatóságok köréről,
+- c) az adatkezelés időtartamáról,
+- d) az adatok megismerésére jogosultak köréről és
+- e) az érintett adatkezeléssel kapcsolatos jogairól és jogorvoslati lehetőségeiről.
+
+(2) Az IMI-rendszerben regisztrált hatóságok honlapjukon kötelesek a fenti külön tájékoztatót vagy a Kormány rendeletében kijelölt delegált IMI-koordinátoruk (1) bekezdés szerinti tájékoztatójára való hivatkozást közzétenni.
 
 ### Más EGT-állam illetékes hatósága megkeresésének teljesítése
 
@@ -488,22 +500,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 47. § Ha a hatóság tudomást szerez valamely szolgáltatónak a szolgáltatási tevékenység folytatásával összefüggő olyan jogsértő magatartásáról, amely Magyarország területén vagy más EGT-államban a szolgáltatás igénybe vevőjének vagy más személynek az életét, testi épségét súlyosan sérti vagy veszélyezteti, vagy amely a környezetben súlyos kárt okoz vagy ilyen kár veszélyével fenyeget, a külön jogszabályban meghatározottak szerint értesíti az Európai Bizottságot és – ha a szolgáltató más EGT-államban letelepedett – a szolgáltató letelepedésének helye szerinti EGT-államot, valamint az érintett többi EGT-államot.
 
-### Adatkezelési szabályok
-
-48. § (1) A szolgáltatás felügyeletét ellátó hatóság a más EGT-állam illetékes hatósága általi megkeresésben foglalt kérdések megválaszolása érdekében jogosult az EGT-állam illetékes hatósága által közölt, az előtte folyó eljárásban a tevékenység megkezdése vagy folytatása feltételeinek fennállását igazoló adatok ellenőrzésére.
-
-(2) Az (1) bekezdés szerinti ellenőrzés érdekében a szolgáltatás felügyeletét ellátó hatóság jogosult a bűnügyi nyilvántartó szervtől arra a tényre vonatkozó adatot igényelni, hogy a bűntettesek nyilvántartásában vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában kezel-e az EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni.
-
-(3) A szolgáltatás felügyeletét ellátó hatóság az (1) bekezdésben meghatározott ellenőrzés érdekében jogosult más hatóságtól arra vonatkozó tényadatot igényelni, hogy az általa vezetett nyilvántartásokban kezel-e az EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni a következők tekintetében
-
-- a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett szolgáltató rendelkezik-e a szükséges engedéllyel, feltételekkel,
-- b) a kérelmező nem áll-e a szolgáltatási tevékenység folytatását megtiltó vagy a szolgáltatási tevékenységet meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt,
-- c) a szolgáltatónak nem áll-e fenn magyarországi lejárt köztartozása, vagy
-- d) a szolgáltató nem áll-e csőd- vagy felszámolási eljárás vagy végelszámolás alatt.
-
-(4) A hatóság a (2) és a (3) bekezdés alapján, valamint a szolgáltatási tevékenység ellenőrzése céljából általa kezelt más adatokból levont következtetéseiről és az ezeket megalapozó adatokról a másik EGT-állam illetékes hatóságát a megkeresésben feltett kérdésekre válaszolva, az ahhoz szükséges körben és mértékben tájékoztatja.
-
-(5) A hatóság az e §-ban meghatározott adatokat más célra nem használhatja fel, adatállományban nem rögzítheti és más szervnek nem továbbíthatja.
+48. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -519,12 +516,14 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 ### A 2006/123/EK irányelv szerinti bejelentési kötelezettségek
 
-51. § A külpolitikáért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
+51. § (1) A külpolitikáért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
 
 - a) a 2006/123/EK irányelv 15. cikk (7) bekezdése alapján a korlátozó követelményeket tartalmazó jogszabálytervezeteknek, továbbá
 - b) a 2006/123/EK irányelv 39. cikk (5) bekezdése alapján a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatókra a 7. §-sal összhangban alkalmazandó jogszabályi követelményeknek és azoknak a 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (3) bekezdése szerinti indokoltságának
 
 az Európai Bizottság részére történő bejelentéséről.
+
+(2) Az (1) bekezdésben említett bejelentési eljárásra a Kormány rendeletében meghatározott szabályok szerint az IMI-rendszeren keresztül kerül sor.
 
 ### Korlátozó követelmények
 
@@ -571,7 +570,7 @@ az Európai Bizottság részére történő bejelentéséről.
 
 ### Az Európai Unió jogának való megfelelés
 
-58. § E törvény – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével és a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő törvénymódosításokról szóló 2009. évi LVI. törvénnyel együtt – a következő uniós jogi aktusok átültetését szolgálja:
+58. § E törvény a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével és a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő törvénymódosításokról szóló 2009. évi LVI. törvénnyel együtt:
 
-- a) az Európai Parlament és Tanács 2006/123/EK (2006. december 12.) irányelve a belsőpiaci szolgáltatásokról,
-- b) a Bizottság 2008/49/EK (2007. december 12.) határozata a belső piaci információs rendszernek (IMI) a személyes adatok védelme tekintetében történő végrehajtásáról.
+- a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, és
+- b) a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.

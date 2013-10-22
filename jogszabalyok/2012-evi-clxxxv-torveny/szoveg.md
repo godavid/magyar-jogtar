@@ -1222,7 +1222,7 @@ rendeletben állapítsa meg.
 
 (2a) A közszolgáltató a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak a (2), (2b), (5) és az (5a) bekezdésben foglalt előírások teljesülését.
 
-(2b) A közszolgáltató részéről a hulladékgazdálkodási közszolgáltatási szerződés megszegésének minősül, ha a (2) és (5) bekezdésben meghatározott kötelezettségét nem teljesíti. A közszolgáltató a fogyasztóvédelmi hatóság által megállapított szerződésszegése esetén minden érintett számlára vonatkozóan számlánként összesen 10 000 forint kötbért köteles fizetni a szerződésszegéssel érintett természetes személynek.
+(2b) A közszolgáltató részéről a hulladékgazdálkodási közszolgáltatási szerződés megszegésének minősül, ha a (2), (5) és (5a) bekezdésben meghatározott kötelezettségét nem teljesíti.
 
 (2c) A (2) bekezdés szempontjából alkalmazott díjnak
 
@@ -1254,7 +1254,9 @@ közszolgáltatási díjat kell tekinteni.
 
 (9) 2013. évre vonatkozóan a közszolgáltató a felügyeleti díjat a Hivatal részére díjfelügyeleti tevékenységéért szeptember 1. napjáig fizeti meg.
 
-(10)–(12)
+(10) Ha a (2) vagy a (2d) bekezdés szerint megállapított díj 2013. július 1-jét követően legalább 10%-kal nem alacsonyabb a 2013. június 30-án alkalmazott díjnál, akkor a közszolgáltató köteles azt legalább annyival csökkenteni, hogy a fizetendő díj a 2013. június 30-án alkalmazott díjnál legalább 10%-kal alacsonyabb legyen.
+
+(11)–(12)
 
 (13) A Hivatal a 47/A. § (2) bekezdése szerinti javaslatát első alkalommal 2014. szeptember 30-ig küldi meg.
 

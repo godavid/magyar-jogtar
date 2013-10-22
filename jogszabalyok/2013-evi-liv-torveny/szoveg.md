@@ -28,6 +28,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 (3) A távhőszolgáltató a kibocsátott számlán köteles jól láthatóan, színes mezőben kiemelve feltüntetni a rezsicsökkentés eredményeképpen jelentkező megtakarítás összegét az elszámolt időszak vonatkozásában, valamint a 2013. január 1-je óta eltelt időszakban.
 
+(4) Az (1) bekezdés szerinti szolgáltatási egységre vonatkozó díjalkalmazási feltételek módosítása sem közvetve, sem közvetlenül nem eredményezheti az (1) bekezdés szerinti szolgáltatási egységre jutó fizetendő összeg növekedését.
+
 4. § (1) A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) 2. § 15. pontjában meghatározott lakossági felhasználók részére, valamint a Vksztv. 64. § (4) bekezdésében meghatározott körben lakossági díjon elszámolt felhasználásra, a Vksztv. 2. § 24. pontjában meghatározott víziközmű-szolgáltatás tekintetében a számlában meghatározott fizetendő szolgáltatási egységre jutó összeg (beleértve az alapdíjat) 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában nem haladhatja meg a 2013. január 31-én jogszerűen alkalmazott díjtételek és egyéb számlaelemek alapján, ugyanazon feltételekkel számított összeg 90%-át.
 
 (2) A szolgáltató egyértelműen, írásban, a kibocsátott számlán szereplő fizetendő összeg vonatkozásában, annak kiküldésével egyidejűleg köteles tájékoztatást nyújtani a lakossági felhasználók részére az (1) bekezdésben foglaltak teljesüléséről.
@@ -38,9 +40,9 @@ Az Országgyűlés annak biztosítása érdekében, hogy a közszolgáltatások 
 
 6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékgazdálkodási közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
 
-7. § (1) A szolgáltató részéről a közszolgáltatási-, közüzemi- vagy az egyetemes szolgáltatási szerződés megszegésének minősül, ha az e törvény 1–4. §-aiban, és 6. §-ában meghatározott kötelezettségét nem teljesíti.
+7. § (1) A szolgáltató részéről a közszolgáltatási-, közüzemi- vagy az egyetemes szolgáltatási szerződés megszegésének minősül, ha az 1–5. §-ban meghatározott kötelezettségét nem teljesíti.
 
-(2) A szolgáltató az (1) bekezdésben meghatározott, a fogyasztóvédelmi hatóság által megállapított szerződésszegése esetén minden érintett számlára vonatkozóan 10 000 forint kötbért köteles fizetni a szerződésszegéssel érintett lakossági fogyasztónak.
+(2) A szolgáltató az (1) bekezdésben meghatározott, a fogyasztóvédelmi hatóság által megállapított szerződésszegése esetén – ha a fogyasztóvédelmi hatóság a szerződésszegést megállapító döntésében a jogsértés súlyosságára tekintettel erről rendelkezik – minden érintett számlára vonatkozóan legfeljebb 10 000 forint kötbért köteles fizetni a szerződésszegéssel érintett lakossági fogyasztónak.
 
 8. § (1) Az e törvényben foglalt lakossági díjakkal és azok tájékoztatásával összefüggő rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el.
 

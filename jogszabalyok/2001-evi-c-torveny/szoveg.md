@@ -304,6 +304,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) A Második rész rendelkezéseit kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek közül valamelyik nem áll fenn.
 
+(3) Az európai közösségi jog hatálya alá tartozó elismerési ügyekben az eljáró hatóságok más EGT-állam hatóságaival a belső piaci információs rendszeren keresztül tartanak kapcsolatot. Az európai közösségi jog hatálya alá tartozó elismeréssel összefüggő közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ában foglalt eltérésekkel kell alkalmazni.
+
 22. § (1) A Harmadik rész rendelkezéseinek alkalmazásával elismert külföldi szakmai képesítéssel rendelkező személy megkezdheti annak a szakmának a magyar állampolgárokkal azonos feltételek mellett történő gyakorlását, amelyre a származási tagállamban felkészült, illetve amelynek gyakorlására a származási tagállamban jogosult. A szakmai képesítés Harmadik rész szerinti elismerése nem jelenti a képzés sikeres elvégzését tanúsító okirat végzettségi szintjének elismerését.
 
 (2) A Harmadik rész szerinti elismerés hatálya nem terjed ki a továbbtanulásra.
