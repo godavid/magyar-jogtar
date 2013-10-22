@@ -2325,6 +2325,8 @@ tartalmazza.
 
 (3) Felhatalmazást kap a miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
 
+(4) Felhatalmazást kap a miniszter, hogy a 141/G. § (1) bekezdése szerinti ajánlattétel napját rendeletben határozza meg.
+
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 - 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
@@ -2520,6 +2522,10 @@ részére.
 141/E. § Ha az egyetemes szolgáltató a 141–141/B. §-ok hatályán kívül eső szerződésben foglalt földgázmennyiséggel látja el a felhasználókat, az árelőkészítés során a Hivatal e szerződést a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendelet szerinti földgáz aktuális árán veszi figyelembe.
 
 141/F. § A volt közüzemi nagykereskedő az egyetemes szolgáltatók ellátására beszerzett földgázt tartalmazó új földgáz kereskedelmi szerződését, valamint a Mód. 2. tv. hatálybalépésekor hatályban lévő, egyetemes szolgáltatók ellátására beszerzett földgázt tartalmazó kereskedelmi szerződések módosítását köteles az aláírást követő 3 munkanapon belül megküldeni a Hivatal részére.
+
+141/G. § (1) Az a földgáztárolói engedélyes, amelynek az egyes törvényeknek a rezsicsökkentés végrehajtásához szükséges módosításáról szóló 2013. évi CLXVII. törvény hatálybalépésekor a tulajdonában van legalább 120 millió m3 mobilgázzá átminősített párnagáz, köteles ajánlatot tenni a 120 millió m3 mobilgázzá átminősített párnagáz könyv szerinti értéken történő értékesítésére az egyetemes szolgáltatók földgáz forrásainak biztosítása érdekében a 141. § (1) bekezdése szerinti, egyetemes szolgáltatási engedéllyel nem rendelkező volt közüzemi nagykereskedő részére, ha az ajánlattétel napját a miniszter rendeletben meghatározta. Az ajánlati kötöttség időtartama 5 munkanap.
+
+(2) Ha az (1) bekezdés szerinti ajánlat nem kerül elfogadásra, a mobilgázzá átminősített párnagázt a földgáztárolói engedélyes az üzletszabályzatában meghatározott módon értékesítheti.
 
 142. § (1) Az okos mérési rendszerek bevezetése érdekében a rendszerüzemeltetők és a VET. szerinti hálózati engedélyesek okos mérésre vonatkozó mintaprojekteket folytathatnak. A mintaprojekt erre a célra létrehozott gazdasági társaság útján (a továbbiakban: projekttársaság) is végezhető akkor, ha a gazdasági társaságban külön-külön vagy együttesen a rendszerüzemeltetők, illetve a VET. szerinti hálózati engedélyesek többségi befolyással rendelkeznek. A (2)–(6) bekezdések előírásait a projekttársaság által végzett mintaprojektekre is alkalmazni kell.
 
