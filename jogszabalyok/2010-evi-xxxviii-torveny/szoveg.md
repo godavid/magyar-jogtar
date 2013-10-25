@@ -237,8 +237,11 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 - a) közjegyző volt, akkor az országos kamarát,
 - b) ügyvéd volt, akkor a Magyar Ügyvédi Kamarát,
 - c) önálló bírósági végrehajtó volt, akkor a Magyar Bírósági Végrehajtói Kamarát,
-- d) igazságügyi szakértő volt, akkor a Magyar Igazságügyi Szakértői Kamarát vagy
-- e) gyám vagy gondnok volt, akkor a gyámhatóságot a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
+- d) igazságügyi szakértő volt, akkor a Magyar Igazságügyi Szakértői Kamarát,
+- e) gyám vagy gondnok volt, akkor a gyámhatóságot,
+- f) szerzői jogi védelem alatt álló alkotás vagy kapcsolódó jogi teljesítmény jogosultja volt, az örökhagyó alkotásaival vagy teljesítményeivel kapcsolatban érintett közös jogkezelő szervezetet vagy – ha ilyen szervezet nem azonosítható – az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetet
+
+a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
 (3) A jegyző vagy a közjegyző a (2) bekezdésben meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 

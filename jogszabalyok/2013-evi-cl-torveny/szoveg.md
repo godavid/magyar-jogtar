@@ -12,7 +12,9 @@ a belső piaci információs rendszer hazai működésével összefüggő egyes 
 
 #### 3. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-9. §
+9. § Az egészségügyről szóló 1997. évi CLIV. törvény 110. §-a a következő (16a) bekezdéssel egészül ki:
+
+„(16a) Amennyiben a (16) bekezdés a) pontjában szereplő megkereső szerv egy EGT-állam hatósága, és a (16) bekezdés a) pontja szerinti megkeresés a belső piaci információs rendszeren keresztül történik, az információcserére a belső piaci információs rendszeren keresztül kerül sor. Amennyiben a működési nyilvántartást vezető szerv a (16) bekezdés a) pontja szerinti kérdésben megkeresést kíván intézni egy EGT-állam hatósága felé, annak intézése a belső piaci információs rendszeren keresztül történik. Az e bekezdés szerinti hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ában foglalt eltérésekkel kell alkalmazni.”
 
 #### 4. Záró rendelkezések
 

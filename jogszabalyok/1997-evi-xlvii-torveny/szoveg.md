@@ -69,7 +69,8 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - w) betegút-szervezés,
 - x) az egészségügyi szolgáltatások minőségének értékelése és fejlesztése, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálata és fejlesztése,
 - y) az egészségügyi rendszer teljesítményének ellenőrzése, mérése és értékelése,
-- z) az egészségügyi ellátásokra jogosult részére a hatásos és biztonságos gyógyszerelés elősegítése, valamint a költséghatékony gyógyszeres terápia kialakítása érdekében.
+- z) az egészségügyi ellátásokra jogosult részére a hatásos és biztonságos gyógyszerelés elősegítése, valamint a költséghatékony gyógyszeres terápia kialakítása érdekében,
+- zs) az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése.
 
 (3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
 
@@ -180,7 +181,7 @@ van szükség, és
 
 14/A. § (1) Gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelése esetén a vényen fel kell tüntetni
 
-- a) az érintett nevét, lakcímét, születési évét, tizenkét éven aluli gyermek esetén születésének évét és hónapját,
+- a) az érintett nevét, lakcímét, születési dátumát,
 - b) társadalombiztosítási támogatással történő rendelés esetén az a) pontban foglaltak mellett az érintett TAJ-számát, betegségének a betegségek nemzetközi osztályozása szerinti kódját (BNO kód), valamint
 - c) közgyógyellátott beteg esetén az a) és b) pontban foglaltak mellett a közgyógyellátási igazolvány számát.
 
@@ -284,7 +285,7 @@ van szükség, és
 
 ### Epidemiológiai vizsgálatok, elemzések, az egészségügyi ellátás tervezése, szervezése, minőség- és teljesítményértékelés
 
-18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükséges egészségügyi adatok, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az ahhoz kapcsolódó TAJ szám, nem, születési dátum és postai irányítószám kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+18. § (1) A szakmai minőségértékelésért felelős szerv a 4. § (2) bekezdés x) pontja szerinti célból – ide nem értve az (5) bekezdésben meghatározott eljárást – jogosult az egészségügyi szolgáltatások minőségének értékeléséhez és fejlesztéséhez, az egészségügyi szolgáltatások értékelési szempontjainak rendszeres felülvizsgálatához és fejlesztéséhez szükségesegészségügyi adatok, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az ahhoz kapcsolódó TAJ szám, nem, születési dátum és postai irányítószám kezelésére. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
 
 (2) A szakmai minőségértékelésért felelős szerv az (1) bekezdés szerinti, azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a szakmai minőségértékelésért felelős szerv minden átadott, az (1) bekezdés szerinti adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja a betegre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kód nem származtatható személyazonosító adatból és nem lehet azzal azonos.
 
@@ -299,6 +300,14 @@ van szükség, és
 19. § (1) A 4. § (2) bekezdés b)–c) és w) pontja szerinti célból az egészségügyért felelős miniszter (a továbbiakban: miniszter) és az irányítása alá tartozó országos szervek és intézetek, a térségi betegút-szervezésért felelős szerv, továbbá az egészségügyi államigazgatási szerv – saját szakterületén, a feladata ellátásához szükséges ideig és mértékben – kezelheti az érintett egészségügyi adatait, valamint – más személyazonosító adattal történő összekapcsolás nélkül – az érintett TAJ-át, nemét, születési dátumát és postai irányítószámát.
 
 (2) Az (1) bekezdésben megjelölt adatokat az ott meghatározott célból az egészségügyi ellátóhálózat, illetve az egészségügyi államigazgatási szerv továbbítja az (1) bekezdés szerinti szervek részére.
+
+### Az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése céljából történő adatkezelés
+
+19/A. § (1) A határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv a 4. § (2) bekezdés zs) pontja szerinti célból – a határon átnyúló egészségügyi ellátáshoz való jogokkal kapcsolatos, a nemzeti kapcsolattartó szerv feladatairól szóló kormányrendeletben meghatározott tájékoztatás megadásáig – kezelheti az érintett nevét, nemét, születési idejét, lakóhelyét, tartózkodási helyét, TAJ-számát, valamint azon egészségügyi adatait, amelyek az érintett határon átnyúló egészségügyi ellátáshoz kapcsolódó jogainak érvényesítéséhez szükségesek.
+
+(2) Az (1) bekezdésben megjelölt adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv – az egészségügyi ellátás igénybevételének elősegítése céljából – továbbíthatja az egészségügyi államigazgatási szerv, illetve az egészségbiztosítási szerv részére.
+
+(3) Az egészségügyi államigazgatási szerv és az egészségbiztosítási szerv a (2) bekezdés szerinti célból az egészségügyi ellátás megszervezéséig kezelheti az érintett (1) bekezdés szerinti adatait.
 
 ### Statisztikai célú adatkezelés
 
@@ -544,7 +553,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - g) az egyes daganatos megbetegedések bejelentési módját, valamint a bejelentési kötelezettség teljesítésének és a bejelentendő adatok gyűjtésének és kezelésének szabályait,
 - h) az elektronikus vényre vonatkozó részletszabályokat,
 - i) a Betegségregiszterre vonatkozó részletes szabályokat,
-- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat,
+- j) a 18. § (1) bekezdés és a 18/A. § szerinti egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására, a kapcsolati kód képzésére vonatkozó részletes szabályokat
 - k) a térségi betegút-szervezésért felelős szerv által a 4. § (2) bekezdés w) pontja szerinti célból, a 19. § (1) bekezdése szerint kezelt egészségügyi adatok körének meghatározására, az adatok átadására, továbbítására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
@@ -557,6 +566,10 @@ rendeletben állapítsa meg.
 rendeletben jelölje ki.
 
 (4) Ez a törvény a foglalkozási megbetegedések európai jegyzékéről szóló 2003/670/EK ajánlásnak való megfelelést szolgálja.
+
+(5) Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(6) Ez a törvény a más tagállamban kiállított orvosi rendelvények elismerésének megkönnyítésére irányuló intézkedésekről szóló 2012. december 20-ai 2012/52/EU bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
 
 ### 1. számú melléklet az 1997. évi XLVII. törvényhez
 

@@ -8,12 +8,13 @@ Az Országgyűlés az Alaptörvényben foglalt elvekből kiindulva, az esélyegy
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya
+1. § (1) E törvény hatálya
 
 - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosított, továbbá egészségügyi szolgáltatás igénybevételére, valamint baleseti ellátásra és szerződés alapján egyes egészségbiztosítási ellátásokra jogosult személyekre,
-- b) a Tbj. szerint társadalombiztosítási járulékot fizető személyekre és szervezetekre,
-- c) az egészségbiztosítási ellátások teljesítésében szerződés alapján részt vevő szolgáltatókra,
-- d) az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott ellátásokra
+- b) az e törvény szerinti határon átnyúló egészségügyi ellátást igénybe vevő uniós betegre,
+- c) a Tbj. szerint társadalombiztosítási járulékot fizető személyekre és szervezetekre,
+- d) az egészségbiztosítási ellátások teljesítésében szerződés alapján részt vevő szolgáltatókra,
+- e) az Egészségbiztosítási Alapból (a továbbiakban: E. Alap) finanszírozott ellátásokra
 
 terjed ki.
 
@@ -63,6 +64,17 @@ terjed ki.
   - pb) az a személy, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
   - pc) a gyám,
   - pd) a nevelőszülő és a helyettes szülő,
+- q) EGT tagállam: az Európai Unió tagállama, az Európai Gazdasági Térségről szóló megállapodásban részes állam, valamint az az állam, amelynek állampolgára a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint EGT állampolgárnak minősül,
+- r) uniós beteg: az 1. § (1) bekezdés a) pontja hatálya alá tartozó személyek kivételével:
+  - ra) a magyar állampolgár és az Európai Unió más tagállamának állampolgára,
+  - rb) a 8/A. § (1) bekezdése szerinti uniós rendeletek értelmében biztosított személy, valamint családtagja és túlélő hozzátartozója,
+  - rc) az Európai Unió más tagállamában egészségügyi ellátásra jogosult személy,
+
+amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendeletek szabályai szerint vesz igénybe,
+
+- s) határon átnyúló egészségügyi ellátás: a tartós ápolási-gondozási egészségügyi szolgáltatások, a szervátültetés céljából történő szervelosztás és szervhez jutás, továbbá a fertőző betegségek elleni közfinanszírozott oltási programok kivételével:
+  - sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós betegnek nyújtott egészségügyi szolgáltatás, vagy
+  - sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
 - t) jövedelem: az egészségbiztosítás pénzbeli ellátásai összegének kiszámításánál az e törvényben meghatározott időszakban a biztosított által elért, a Tbj. 19. § (3) bekezdése szerint fizetendő pénzbeli egészségbiztosítási járulék alapját képező jövedelem.
 
 5/C. § Az 5/B. §-ban meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
@@ -84,6 +96,13 @@ terjed ki.
 8/A. § (1) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személyekre és ellátásokra az uniós rendeletekben meghatározott módon kell alkalmazni.
 
 (2) E törvény rendelkezéseit a nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
+
+8/B. § (1) Az 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátás keretében az uniós betegek a II. fejezet 1–3. címében meghatározott egészségügyi szolgáltatásokra jogosultak.
+
+(2) Ha az uniós beteg a biztosítottal azonos feltételek mellett veszi igénybe az (1) bekezdésben meghatározott ellátást, akkor a biztosítottal azonos jogállás illeti meg azzal, hogy
+
+- a) az ellátásra irányadó, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegű térítési díjat, illetve a II. fejezet 2. címe alá tartozó egészségügyi szolgáltatások esetén bruttó fogyasztói árat fizet, és
+- b) esetében nincs területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltató.
 
 ### Egészségügyi szolgáltatók
 
@@ -220,7 +239,13 @@ terjed ki.
 - a) a beutalóhoz kötött szakellátások esetében a beutaló szerinti egészségügyi szolgáltató,
 - b) a beutalóhoz nem kötött szakellátások esetében a biztosított tekintetében területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltató.
 
+(2a) A beutalóhoz kötött szakellátások esetében az egészségügyi szolgáltató köteles elfogadni az Európai Unió más tagállamában az uniós beteg részére az arra jogosult egészségügyi szakember által kiállított beutalót is, kivéve, ha az az egészségügyi szolgáltató számára nem érthető vagy nem nyújt elég információt a beteg egészségi állapotáról és az ennek alapján orvosilag szükséges beavatkozások köréről.
+
+(2b) A beutalóhoz nem kötött szakellátások esetében az uniós beteg ellátását nem lehet megtagadni arra hivatkozva, hogy vonatkozásában az egészségügyi szolgáltató területi ellátási kötelezettséggel nem rendelkezik.
+
 (3) A biztosított tekintetében területi ellátási kötelezettséggel nem rendelkező egészségügyi szolgáltató a (2) bekezdés a), illetve b) pontja szerinti esetben az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint az ellátást – az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott eset kivételével – megtagadhatja, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását a területen kívüli betegek fogadása veszélyeztetné.
+
+(3a) Az egészségügyi szolgáltató csak akkor tagadhatja meg az uniós beteg ellátását, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását az uniós beteg fogadása veszélyezteti. Az elutasítást ilyen esetben írásban meg kell indokolni.
 
 (4) A szolgálati jogviszonyban álló és egyes külön jogszabályban meghatározott tevékenységet végző biztosítottak külön jogszabályban meghatározott rendben, valamint a fogva tartott személyek külön jogszabályban meghatározott rendben és feltételek szerint jogosultak az egészségügyi szolgáltatás igénybevételére.
 
@@ -527,17 +552,17 @@ kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre 
 
 ### 5. CÍM — Külföldön történő gyógykezelés
 
-27. § (1) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam (a továbbiakban: EGT tagállam) területén kívüli állam (a továbbiakban: harmadik állam) területén átmenetileg tartózkodik munkavállalás, tanulmányok folytatása vagy egyéb jogcímen és a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást – a feltétlenül szükséges mértékig –, továbbá sürgősségi betegszállítást azért vesz igénybe harmadik állam területén lévő tartózkodási helyén, mert annak elmaradása az életét vagy testi épségét súlyosan veszélyezteti, illetve maradandó egészségkárosodáshoz vezetne, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
+27. § (1) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – EGT tagállam területén kívüli állam (a továbbiakban: harmadik állam) területén átmenetileg tartózkodik munkavállalás, tanulmányok folytatása vagy egyéb jogcímen és a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást – a feltétlenül szükséges mértékig –, továbbá sürgősségi betegszállítást azért vesz igénybe harmadik állam területén lévő tartózkodási helyén, mert annak elmaradása az életét vagy testi épségét súlyosan veszélyezteti, illetve maradandó egészségkárosodáshoz vezetne, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
 (2) Amennyiben a biztosított munkáltatója a Tbj. szerinti biztosítási jogviszony fenntartása mellett egybefüggően három hónapot meghaladó időtartamra a biztosítottat harmadik állam területén foglalkoztatja, és ez idő alatt a biztosított, illetve a vele együtt harmadik állam területén tartózkodó eltartott házastársa és gyermeke a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást, továbbá sürgősségi betegszállítást indokoltan vesz igénybe harmadik állam területén lévő tartózkodási helyén, az egészségbiztosító a felmerült és igazolt költségeket, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
-(3) Amennyiben a biztosított az uniós rendeletek óhatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
+(3) A biztosított egészségügyi szolgáltatást vehet igénybe EGT tagállamban az uniós rendeletek rendelkezései szerint, valamint az Európai Unió más tagállamában a határon átnyúló egészségügyi ellátás keretében. Amennyiben a biztosított mind az uniós rendeletek alapján, mind a határon átnyúló egészségügyi ellátás keretében jogosult egészségügyi ellátásra, a biztosított eltérő rendelkezése hiányában az uniós rendeleteket kell alkalmazni.
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
 (5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan harmadik államban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségének 85 százalékát az egészségbiztosító megtéríti. Amennyiben a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségeinek 85 százalékát, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Amennyiben az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
 
-(6) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – EGT tagállam területén a 11. § (1) bekezdésének b) és c) pontjaiban, a 12. § (1) bekezdésében és a 13. § a) és b) pontjaiban meghatározott tervezett ellátást nem az uniós rendeletek alapján vesz igénybe, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség, legfeljebb azonban a tényleges költség mértékének megfelelő összegben megtéríti.
+(6) A határon átnyúló egészségügyi ellátás keretében, ha a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – a II. fejezet 1–3. címében meghatározott egészségügyi szolgáltatásokat vesz igénybe, ugyanolyan jogállással rendelkezik, mintha hasonló helyzetben Magyarországon vett volna igénybe egészségügyi ellátást. Az egészségbiztosító az ellátás hitelt érdemlően igazolt tényleges költségét téríti meg azzal, hogy az egészségbiztosító által fizetendő térítés összege nem haladhatja meg az igénybevétel idején az ellátásra vonatkozó magyarországi közfinanszírozott ellátás belföldi költségének mértékét. A biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – ezen egészségügyi szolgáltatások közül csak előzetes engedély alapján jogosult a külföldi gyógykezelések rendjéről szóló kormányrendeletben meghatározott ellátások igénybevételére. Amennyiben a biztosított olyan ellátást kíván igénybe venni, amely a magyarországi jogszabályok alapján beutalóhoz kötött, a költség megtérítésének további feltétele, hogy a biztosított az ellátásra rendelkezzen az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalóval.
 
 (7) A (3) bekezdéstől eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe, vagy az általa igénybe vett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.
 
@@ -579,7 +604,7 @@ igazolja.
 
 (2) Amennyiben az (1) bekezdés b) pontja szerinti ellátásokat árhoz nyújtott támogatással rendelik, a biztosított a kezelőorvos kérelmére nyilatkozik arról, hogy a kezelőorvoson kívül más orvos által rendelt gyógyászati ellátást az adott naptári évben hány alkalommal vett igénybe, illetve, hogy a kezelőorvoson kívül más orvos a betegségével összefüggésben 30 napon belül milyen gyógyszert, milyen mennyiségben vagy annak kihordási idején belül milyen gyógyászati segédeszközt rendelt számára.
 
-(3) A Közösségi rendelet hatálya alá tartozó személy a Közösségi rendelet szerinti formanyomtatvány, illetve hatósági igazolvány bemutatása esetén jogosult egészségügyi szolgáltatás igénybevételére.
+(3) Az 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátást igénybevevő személy jogosultságát az e törvény végrehajtására kiadott kormányrendeletben meghatározott dokumentummal igazolja.
 
 (4) A biztosított az egészségügyi szolgáltatás igénybevételéhez – ha jogszabály eltérően nem rendelkezik – a Társadalombiztosítási Azonosító Jelet (a továbbiakban: TAJ-szám) igazoló hatósági igazolványát és – amennyiben a biztosított a 14. életévét betöltötte – érvényes, a személyazonosság megállapítására alkalmas igazolványát köteles bemutatni. A biztosított a TAJ-számát a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartásra vonatkozó rendelkezések szerint is igazolhatja.
 
@@ -1606,7 +1631,7 @@ bírálja el és utólag folyósítja.
 - a) a finanszírozási szerződések megkötésére és tartalmára, valamint az egészségügyi szolgáltatások finanszírozására és az Egészségbiztosítási Alapból folyósított pénzeszközök felhasználásának pénzügyi ellenőrzésére, továbbá a kifizetéshez szükséges jóváhagyás esetköreire, jogcímeire vonatkozó szabályok,
 - b) a keresőképesség elbírálásával kapcsolatos eljárás rendjének,
 - c) a gyógyszerek, gyógyászati segédeszközök és a gyógyászati ellátások árához nyújtott támogatás, illetve a gyógyászati segédeszközök javítási és kölcsönzési díjához nyújtott támogatás formájának, alapjának, mértékének megállapítására vonatkozó hatásköri és eljárási szabályok,
-- d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének,
+- d) a külföldön történő gyógykezelés feltételeinek és elszámolási rendjének, valamint az előzetes engedélyhez kötött határon átnyúló egészségügyi ellátások körének és igénybevételi rendjének,
 - e) a beutaló nélkül igénybe vehető szakellátások, a beutalásra jogosult orvosok körének, a beutalási rendnek, a szolgáltató-választás feltételeinek és eljárási szabályainak,
 - f) a magánszemély által jogalap nélkül felvett, igénybe vett ellátás visszatérítése, illetve megtérítése iránti követelés mérséklése, elengedése esetén gyakorolható méltányosság szempontjainak, valamint a kirótt kamat, késedelmi pótlék, mulasztási bírság mérséklése, elengedése során gyakorolható méltányosság szempontjainak,
 - g) az utazási költségekhez nyújtott támogatás mértékének és módjának,
@@ -1713,3 +1738,5 @@ meghatározására.
 83/B. § Ez a törvény az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 83/C. § E törvény 9/A. §-a a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+83/D. § Ez a törvény a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

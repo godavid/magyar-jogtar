@@ -581,7 +581,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (6) A megsemmisítési kérelem visszavonása esetén az eljárást hivatalból folytatni lehet, kivéve, ha a megsemmisítést csak a 10. § vagy a 28. § (1) bekezdésének d) pontja alapján kérték. A Szellemi Tulajdon Nemzeti Hivatala ilyen esetben is a kérelem keretei között, a felek által korábban tett nyilatkozatok és állítások figyelembevételével jár el.
 
-(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a mintaoltalom jogosultja a megsemmisítési eljárásra okot nem adott, és a mintaoltalomról – több mintára adott oltalom esetén legalább az érintett minták vonatkozásában – az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
+(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a mintaoltalom jogosultja a megsemmisítési eljárásra okot nem adott és a mintaoltalomról – több mintára adott oltalom esetén legalább az érintett minták vonatkozásában – a bejelentés napjára visszaható hatállyal, az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
 
 (8) A mintaoltalom megsemmisítését, változtatással való fenntartását vagy korlátozását be kell jegyezni a mintaoltalmi lajstromba (34. §), és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában (35. §).
 
