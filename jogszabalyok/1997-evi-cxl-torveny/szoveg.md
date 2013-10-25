@@ -158,25 +158,27 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
   - cd) országos szakmúzeum,
   - ce) országos múzeum.
 
-38. § (1)–(2)
+38. § (1) A muzeális intézmény alapleltárában szereplő kulturális javak korlátozottan forgalomképesek; elidegenítésükhöz a miniszter engedélye szükséges.
 
-(3)
+(2) A muzeális intézmény az alapleltárában szereplő kulturális javakat külön jogszabályban meghatározottak szerint írásbeli szerződés alapján cserélheti el a gyűjtőkörébe tartozó más kulturális javakkal.
 
-(4) A muzeális intézmények leltárában szereplő kulturális javak korlátozottan forgalomképesek; elidegenítésükhöz a miniszter engedélye szükséges.
+38/A. § (1) A muzeális intézmény vagy fenntartója a kulturális javakat határozott időre szóló, írásbeli szerződés alapján adhatja vagy veheti kölcsön (a továbbiakban: kölcsönzés).
 
-(5) A muzeális intézmény a nyilvántartásában lévő kulturális javakat külön jogszabályban meghatározottak szerint írásbeli szerződés alapján cserélheti el a gyűjtőkörébe tartozó más kulturális javakkal.
+(2) A kulturális javak kölcsönzéséről szóló szerződésnek (a továbbiakban: kölcsönzési szerződés) tartalmaznia kell
 
-(6) A muzeális intézmény a kulturális javakat határozott időre, de legfeljebb öt évre szóló írásbeli szerződés alapján adhatja, illetve veheti kölcsön.
-
-(7) A kulturális javak kölcsönbe adásáról szóló szerződéshez mellékelni kell a kölcsönadott kulturális javak leltári számmal ellátott jegyzékét. A kulturális javak kölcsönbe adásáról szóló szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki.
-
-(8) A kulturális javak kölcsönbe adásáról szóló szerződésnek tartalmaznia kell:
-
-- a) a kölcsönvevő által a kölcsönadott kulturális javaknak biztosítandó állományvédelmi követelményeket, beleértve a klimatikus viszonyokat, a csomagolás és a szállítás feltételeit,
-- b) a kölcsönadott kulturális javak sérülése esetén követendő eljárást,
+- a) a kölcsönvevő által a kölcsönzött kulturális javaknak biztosítandó állományvédelmi követelményeket, beleértve a klimatikus viszonyokat, a csomagolás és a szállítás feltételeit,
+- b) a kölcsönzött kulturális javak sérülése esetén követendő eljárást,
 - c) a kölcsönvevő által nyújtandó vagyonbiztonsági feltételeket, beleértve az esetlegesen szükséges muzeológusi, rendőrségi vagy egyéb fegyveres kíséretet is.
 
-(9) A muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönadásához a miniszter hozzájárulása szükséges. A hozzájárulás megadása során a miniszter azt vizsgálja, hogy a (8) bekezdésben rögzített feltételek fennállnak-e.
+(3) A kölcsönzési szerződéshez mellékelni kell a kölcsönzött kulturális javak leltári számmal ellátott jegyzékét, a kölcsönbe adás időpontjában fennálló fizikai állapotot dokumentáló szakleírással és képi ábrázolással együtt.
+
+(4) A kölcsönzési szerződésben kölcsönzési díj és pénzügyi biztosíték köthető ki. A miniszter állami tulajdonú kulturális javak muzeális intézmények közötti kölcsönzése esetén a kölcsönvevő indokolt kérelmére, a nemzeti kulturális érdekre figyelemmel mentesítést adhat a kölcsönzési díj és a pénzügyi biztosíték megfizetése alól.
+
+(5) muzeális intézmény nyilvántartásában szereplő kulturális javak nem muzeális intézmény számára, továbbá külföldre történő kölcsönzéséhez a miniszter hozzájárulása szükséges. A hozzájárulás megadása során a miniszter vizsgálja a kölcsönzéshez fűződő nemzeti kulturális érdek, valamint a (2) és (3) bekezdésben rögzített feltételek meglétét.
+
+38/B. § A miniszter a nemzeti kulturális érdekre figyelemmel és a széles körű hozzáférés céljait szem előtt tartva határozott időre kijelölheti a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyét.
+
+38/C. § Az állami tulajdonban lévő, jogszabály alapján védett vagy hatósági eljárás során védetté nyilvánított kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
 
 ### Muzeális intézmények működési engedélyének kiadása, módosítása, visszavonása
 
@@ -864,9 +866,7 @@ közigazgatási területére terjed ki.
 - a) büntetlen előéletű, és nem áll muzeális intézményben, nyilvános könyvtárban, közlevéltárban és közművelődési intézményben végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 - b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és szakképesítéssel rendelkezik.
 
-(2) Az (1) bekezdésben meghatározott intézményekben a szakfeladatok ellátása szakképesítéshez kötött.
-
-(3) A szakképesítés alól jogszabályban meghatározott módon felmentés adható.
+(2)–(3)
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
 
@@ -876,7 +876,7 @@ közigazgatási területére terjed ki.
 
 (7)
 
-95. § Az állami és önkormányzati fenntartású muzeális intézményekben, nyilvános könyvtárakban, közlevéltárakban és közművelődési intézményekben magasabb vezető beosztás ellátásával csak szakirányú felsőfokú végzettséggel rendelkező munkavállaló bízható meg.
+95. §
 
 95/A. § (1) Ha jogszabály könyvtári, közművelődési, múzeumi vagy levéltári szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll könyvtári, közművelődési, múzeumi vagy levéltári szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -919,11 +919,11 @@ vehető figyelembe.
 
 95/B. § (1)–(5)
 
-(6) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény vezetője az lehet, aki a 95. §-ban meghatározott szakirányú felsőfokú végzettségen túlmenően államháztartási, vezetési ismeretekkel és vezetői gyakorlattal rendelkezik, továbbá az intézménnyel közalkalmazotti jogviszonyban áll, illetve akivel ilyen jogviszonyt létesítenek.
+(6) Múzeum, országos vagy megyei könyvtár, valamint közművelődési intézmény vezetője az lehet, aki államháztartási és vezetési ismeretekkel, továbbá vezetői gyakorlattal rendelkezik.
 
 (7) A (6) bekezdésben meghatározott államháztartási, vezetési ismeretekkel rendelkezőnek kell tekinteni azt, aki legalább a miniszter által külön jogszabályban meghatározottak szerint akkreditált, vezetői ismereteket nyújtó tanfolyam eredményes elvégzését igazoló okirattal rendelkezik.
 
-(8) A (7) bekezdésben előírt képesítést a 2010. január 1-je után létrejövő új megbízások esetén a megbízást követő 1 éven belül, a 2010. január 1-jén érvényben lévő és még legalább 2 évig tartó megbízások esetében 2011. december 31-ig kell megszerezni. Amennyiben a képesítés megszerzése nem történik meg, a megbízás e törvény erejénél fogva megszűnik.
+(8) A (7) bekezdésben előírt képesítést a vezetői megbízást követő 2 éven belül kell megszerezni.
 
 (9) Az országos és a megyei hatókörű muzeális intézmény, valamint országos vagy megyei könyvtár közgyűjtemény az éves munkatervét gyűjteményfejlesztéssel, gyűjteményfeltárással, kutatással, műtárgyvédelemmel, szolgáltatással, bemutatással kapcsolatos szakmai mutatók alapján készíti el.
 
@@ -997,7 +997,7 @@ vehető figyelembe.
 - h)
 - i) a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
-- k)
+- k) a muzeális intézményben őrzött kulturális javak elidegenítésére, cseréjére és kölcsönzésére, valamint a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére vonatkozó részletes szabályokat,
 - l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézményekre vonatkozó szakfelügyelet rendjét,
 - m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
 - n) a Könyvtárellátási Szolgáltató Rendszer működését,

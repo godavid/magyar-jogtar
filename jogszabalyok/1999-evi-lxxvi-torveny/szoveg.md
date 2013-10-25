@@ -396,9 +396,11 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - a) színpadi mű esetében műkedvelő művészeti csoportok előadásán, kiadott szöveg vagy jogosan használt kézirat alapján, feltéve, hogy ez nem ütközik nemzetközi szerződésbe,
 - b) iskolai oktatás céljára és iskolai ünnepélyeken,
 - c) szociális és időskori gondozás keretében,
-- d) nemzeti ünnepeken tartott ünnepségeken,
+- d)
 - e) vallási közösségek vallásos szertartásain és vallásos ünnepségein,
 - f) magánhasználatra, valamint alkalomszerűen tartott zártkörű összejövetelen.
+
+(1a) Ha az előadás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, a művek előadhatók nemzeti ünnepeken tartott ünnepségeken.
 
 (2) Jövedelemfokozás célját szolgálja a felhasználás, ha alkalmas arra, hogy a felhasználó (pl. üzlet, szórakozóhely) vevőkörét vagy látogatottságát növelje, vagy pedig, ha az üzlethelyiséget látogató vendégek vagy más fogyasztók szórakoztatását szolgálja. Jövedelemszerzésnek minősül különösen a belépődíj szedése, akkor is, ha egyéb elnevezés alatt történik. Díjazásnak minősül a fellépéssel kapcsolatban ténylegesen felmerült és indokolt költségeket meghaladó térítés is.
 
@@ -810,7 +812,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 75. § (1) A 73. § (1) bekezdésében említett felhasználások esetén az előadóművészt megilleti az a személyhez fűződő jog, hogy nevét – a felhasználás jellegétől függően, ahhoz igazodó módon – feltüntessék. Előadóművészek együttese esetében ez a jog az együttes, valamint az együttes vezetője és a főbb közreműködők nevének feltüntetésére terjed ki.
 
-(2) Az előadóművész személyhez fűződő jogát sérti előadásának mindenfajta eltorzítása, megcsonkítása vagy más olyan megváltoztatása vagy megcsorbítása, amely az előadóművész becsületére vagy hírnevére sérelmes.
+(2) Az előadóművész személyhez fűződő jogát sérti előadásának mindenfajta eltorzítása, megcsonkítása, más olyan megváltoztatása vagy az előadással kapcsolatos más olyan visszaélés, amely az előadóművész becsületére vagy hírnevére sérelmes.
 
 ### A hangfelvételek előállítóinak védelme
 
@@ -1034,7 +1036,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - c) a közös jogkezeléssel érintett jogosulti csoport meghatározását,
 - d) a közös jogkezelő szervezetek nyilvántartásának részletes szabályairól szóló kormányrendeletben meghatározott egyéb – a közös jogkezelés céljainak megvalósításához szükséges – adatokat.
 
-(3) A közös jogkezelő szervezetek nyilvántartása a bejegyzett jogok, tények és adatok fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a nyilvántartásba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
+(3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés b)–c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A közös jogkezelő szervezetek nyilvántartását bárki megtekintheti, ahhoz a Hivatal a honlapján elektronikus hozzáférést biztosít. A nyilvántartásban szereplő vagy az onnan törölt adatok nyilvánosak. Ezekről az adatokról bárki feljegyzést készíthet vagy – díj ellenében – hitelesített kivonatot kérhet.
 
@@ -1096,7 +1098,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 92/A. § (1) A közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokban a Hivatal – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokban nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügygondnokra és a közmeghallgatásra vonatkozó szabályait. Ezekben az eljárásokban a Hivatal döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+(2) A közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokban nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügygondnokra és a közmeghallgatásra vonatkozó szabályait. Ezekben az eljárásokban a Hivatal döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
 
 (3) A közös jogkezelő szervezetek nyilvántartására vonatkozó részletes szabályokat kormányrendelet állapítja meg.
 
@@ -1241,7 +1243,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 92/N. § (1) A közös jogkezelő egyesületek felügyeletével kapcsolatos eljárásokban a Hivatal – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A közös jogkezelő egyesületek felügyeletével kapcsolatos eljárásokban nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügygondnokra, a közmeghallgatásra, az ellenőrzési terv és ellenőrzési jelentés készítésére, a helyszíni ellenőrzést megelőző értesítésre vonatkozó, valamint azokat a rendelkezéseit, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból történő – értesítésre és figyelemfelhívásra, a jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozat közzétételére, továbbá az ellenőrzés céljából vezetett nyilvántartásra vonatkoznak. Ezekben az eljárásokban a Hivatal döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+(2) A közös jogkezelő egyesületek felügyeletével kapcsolatos eljárásokban nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügygondnokra, a közmeghallgatásra, az ellenőrzési terv és ellenőrzési jelentés készítésére, a helyszíni ellenőrzést megelőző értesítésre vonatkozó, valamint azokat a rendelkezéseit, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból történő – értesítésre és figyelemfelhívásra, a jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozat közzétételére, továbbá az ellenőrzés céljából vezetett nyilvántartásra vonatkoznak. Ezekben az eljárásokban a Hivatal döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
 
 (3) A közös jogkezelő egyesületek felügyeletére vonatkozó részletes szabályokat kormányrendelet állapítja meg.
 
@@ -1336,7 +1338,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 94/B. § (1) Az ellenkező bizonyításáig azt kell szerzőnek tekinteni, akinek a nevét ilyenként a művön a szokásos módon feltüntették.
 
-(2) Ha az (1) bekezdés nem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet sajátjaként a Hivatalnál önkéntes műnyilvántartásba vetette és ezt közokirattal igazolja. A mű nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
+(2) Ha az (1) bekezdés nem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet sajátjaként a Hivatalnál vezetett – közhitelesnek minősülő – önkéntes műnyilvántartásba vetette és ezt közokirattal igazolja. A mű nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
 
 (3) Ha a (2) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki ezt közös jogkezelő szervezet által a közös jogkezelés alá tartozó művekről, szomszédos jogi teljesítményekről, illetve jogosultakról fenntartott adatbázis alapján kiállított teljes bizonyító erejű magánokirattal igazolja. Ilyen magánokiratot a közös jogkezelő szervezet önként vállalt szolgáltatásként – alapszabályával összhangban – saját tagja számára, a tag kérésére állíthat ki.
 
@@ -1532,7 +1534,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) Felhatalmazást kap a Kormány, hogy az e törvény 38. §-ának (5) bekezdésében szabályozott szabad felhasználás esetében a nyilvánosság egyes tagjaihoz való közvetítés és a számukra történő hozzáférhetővé tétel módját és feltételeit rendelettel meghatározza.
 
-(4) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az ismeretlen vagy az ismeretlen helyen tartózkodó szerző alkotása felhasználásának engedélyezésére vonatkozó eljárás részletes szabályait és az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének, visszatérítésének módját továbbá az ilyen alkotások nyilvántartásának részletes szabályait.
+(4) Felhatalmazást kap a Kormány, hogy az árva mű felhasználásával kapcsolatos részletes szabályokat, a jogosultat megillető megfelelő díjazás feltételeit, a felhasználással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének, visszatérítésének módját, továbbá az árva művek felhasználására vonatkozóan kiadott engedélyek nyilvántartásának részletes szabályait rendeletben állapítsa meg.
 
 (4a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -1545,6 +1547,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - b) a Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, valamint a Hivatal elnöke véleményének kikérésével kiadott rendeletben határozza meg a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a kezelésére, nyilvántartására, visszafizetésére és megfizetésére vonatkozó részletes szabályokat.
+
+(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben, valamint a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével rendeletben szabályozza.
 
 (7) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az igazságügyért felelős miniszterrel egyetértésben – az e törvény 23/A. §-ának (4) bekezdése alapján a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárak körét rendelettel megállapítsa.
 

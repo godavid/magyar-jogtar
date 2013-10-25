@@ -357,6 +357,8 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak; a Szellemi Tulajdon Nemzeti Hivatalának a 30/A. § (1) bekezdésében és a 30/C. §-ban felsorolt kérdésekben hozott határozatait a Fővárosi Törvényszék – a 30/E. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
+(2a) A Szellemi Tulajdon Nemzeti Hivatala a 30/A. § (1) bekezdésében és a 30/C. § (1) bekezdésében felsorolt kérdésekben hozott döntését megváltoztatási kérelem alapján, annak a bírósághoz történő továbbításáig visszavonhatja vagy a megváltoztatási kérelemben foglaltaknak megfelelően módosíthatja, ha megállapítja, hogy döntése jogszabályt sért vagy ha a megváltoztatási kérelemben foglaltakkal egyetért. A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
+
 (3) A 30/A. § (1) bekezdése és a 30/C. § (1) bekezdése szerinti kérelemért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) A kutatás-fejlesztési minősítési eljárások magyar nyelven folynak, a kérelmet magyar nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, a Szellemi Tulajdon Nemzeti Hivatala azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
@@ -415,7 +417,15 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 30/G. § (1) Az adóhatóság az ellenőrzése során – az adózás rendjéről szóló törvény rendelkezései alapján – szakértőként megkeresheti a Szellemi Tulajdon Nemzeti Hivatalát. Ebben az esetben a Szellemi Tulajdon Nemzeti Hivatala szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala szakértői díjazásra nem tarthat igényt.
+(2) Az (1) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala szakértői díjazásra nem tarthat igényt.
+
+(3) Más hatóság vagy bíróság általi megkeresés alapján a Szellemi Tulajdon Nemzeti Hivatala szakértői véleményt ad a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítése, valamint a megkeresésben megjelölt költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetősége kérdésében.
+
+(4) Az (1) és a (3) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban a Szellemi Tulajdon Nemzeti Hivatala további adatok szolgáltatását kérheti a megkereső bíróságtól vagy hatóságtól.
+
+(5) Ha az (1) és a (3) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a Szellemi Tulajdon Nemzeti Hivatala nem rendelkezik, a Szellemi Tulajdon Nemzeti Hivatala megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
+
+(6) A (3) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala díjazására az igazságügyi szakértői tevékenységet végzők díjazására vonatkozó szabályokat kell alkalmazni.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -442,7 +452,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 - g) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket;
 - h) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait.
 
-34/A. § Felhatalmazást kap a Szellemi Tulajdon Nemzeti Hivatal felügyeletét ellátó miniszter, hogy – az adópolitikáért és a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel egyetértésben, a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
+34/A. § Felhatalmazást kap a Szellemi Tulajdon Nemzeti Hivatala felügyeletét ellátó miniszter, hogy – az adópolitikáért és a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel egyetértésben, a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
 
 ### Melléklet a 2004. évi CXXXIV. törvényhez
 
