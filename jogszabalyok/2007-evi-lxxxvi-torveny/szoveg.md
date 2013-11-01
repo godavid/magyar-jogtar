@@ -2199,7 +2199,7 @@ ELJÁRÁSOK
 
 (6) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozás indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával a (2) bekezdés szerinti miniszteri rendelettel összhangban úgy kell meghatározni, hogy az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
-142/A. § (1) A rendszerhasználati díjak szabályozása négyéves árszabályozási ciklusok keretében, éves ármegállapítással történik. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez. Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter a 142. § (2) bekezdés szerinti rendeletben állapítja meg.
+142/A. § (1) A rendszerhasználati díjak szabályozása négyéves árszabályozási ciklusok keretében, az árszabályozási cikluson belül időszakonkénti ármegállapítással történik. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez. Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter a 142. § (2) bekezdés szerinti rendeletben állapítja meg.
 
 (2) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani. A kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakról kiadott rendeletében állapítja meg.
 
@@ -2307,16 +2307,14 @@ ELJÁRÁSOK
 
 finanszírozásához szükséges pénzügyi forrásokat.
 
-(2) Az (1) bekezdésben meghatározott pénzeszközöket
+(2) Az (1) bekezdésben meghatározott pénzeszközöket havonta az átviteli rendszerirányítónak fizeti meg
 
-- a) a rendszerhasználó részére villamos energiát értékesítő 1. egyetemes szolgáltató, 2. kereskedő, 3. termelői engedélyes;
-- b) a közvetlenül a szervezett villamosenergia-piacról, vagy külföldről villamos energiát vásárló rendszerhasználó
-
-az átviteli rendszerirányítónak havonta megfizeti, és azokat továbbhárítja a rendszerhasználó felé.
+- a) a rendszerhasználó részére villamos energiát értékesítő egyetemes szolgáltató, villamosenergia-kereskedő és termelői engedélyes a nem lakossági fogyasztó részére közvetlenül értékesített villamos energia mennyiség tekintetében azzal, hogy azokat továbbhárítja a nem lakossági fogyasztó rendszerhasználó felé, valamint
+- b) a közvetlenül a szervezett villamosenergia-piacról vagy külföldről villamos energiát vásárló, nem lakossági fogyasztó rendszerhasználó.
 
 (3) Az (1) bekezdésben meghatározott célok érdekében az átviteli rendszerirányító által beszedett pénzeszközök nem minősülnek az átviteli rendszerirányító bevételének, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartoznak bele az általános forgalmi adó alapjába az átviteli rendszerirányító azokat más célra nem fordíthatja és köteles azokat egyéb pénzeszközeitől és egymástól is elkülönítetten kezelni. Az átviteli rendszerirányító köteles az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni.
 
-(4) A (2) bekezdés szerint megfizetett (fizetendő) pénzeszközöket az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles a rendszerhasználók részére kiállított számlán külön feltüntetni.
+(4) A (2) bekezdés szerint megfizetett (fizetendő) pénzeszközöket az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles a nem lakossági fogyasztó rendszerhasználók részére kiállított számlán külön feltüntetni.
 
 (5) A (2) bekezdés szerint megfizetett (fizetendő), a rendszerhasználó részére kiállított számlán a (4) bekezdésben meghatározott módon külön feltüntetett pénzeszközök nem minősülnek az egyetemes szolgáltató, a kereskedő és a termelői engedélyes bevételének, azokat kötelesek egyéb pénzeszközeiktől és egymástól is elkülönítetten kezelni. Az egyetemes szolgáltató, a kereskedő és a termelői engedélyes köteles ezeket az elkülönítetten kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát az átviteli rendszerirányítóval szembeni kötelezettségként kimutatni.
 
@@ -2327,11 +2325,11 @@ az átviteli rendszerirányítónak havonta megfizeti, és azokat továbbhárít
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,08 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,17 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,07 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,20 Ft/kWh.
 
-(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 1,31 Ft/kWh.
+(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 1,71 Ft/kWh.
 
 (5) A 147. § (1) bekezdése szerinti pénzeszközök mértékét a következő évre várható finanszírozási igény és az elkülönített számla várható tárgyévi egyenlege alapján kell megállapítani.
 

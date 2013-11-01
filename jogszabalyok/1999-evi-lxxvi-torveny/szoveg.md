@@ -319,7 +319,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 31. § (1) A szerzői jogok a szerző életében és halálától számított hetven éven át részesülnek védelemben.
 
-(2) A hetvenéves védelmi időt a szerző halálát követő év első napjától, szerzőtársak esetében az utoljára elhunyt szerzőtárs halálát követő év első napjától kell számítani.
+(2) A hetvenéves védelmi időt a szerző halálát követő év első napjától, közös művek esetében az utoljára elhunyt szerzőtárs halálát követő év első napjától kell számítani.
 
 (3) Ha a szerző személye nem állapítható meg, a védelmi idő a mű első nyilvánosságra hozatalát követő év első napjától számított hetven év. Ha azonban ez alatt az idő alatt a szerző jelentkezik, a védelmi időt a (2) bekezdés szerint kell számítani.
 
@@ -327,7 +327,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (5) Az együttesen létrehozott mű védelmi ideje a mű első nyilvánosságra hozatalát követő év első napjától számított hetven év.
 
-(6) A filmalkotás védelmi idejét az utoljára elhunyt szerzőjének halálát követő év első napjától kell számítani.
+(6) A filmalkotás védelmi idejét a következő személyek közül utoljára elhunyt személy halálát követő év első napjától kell számítani, függetlenül attól, hogy azok szerzőtársként fel vannak-e tüntetve: a film rendezője, a forgatókönyvíró, a dialógus szerzője és a kifejezetten a filmalkotás céljára készült zene szerzője.
 
 (7) Ha a védelmi időt nem a szerző, illetve az utoljára elhunyt szerző vagy szerzőtárs halálát követő év első napjától kell számítani, és a művet a létrehozását követő év első napjától számított hetven éven belül nem hozzák nyilvánosságra, a mű a továbbiakban nem részesülhet szerzői jogi védelemben.
 
@@ -501,7 +501,13 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 54. § A felhasználási szerződés a jövőre nézve megszűnik a szerződésben megállapított idő elteltével vagy a szerződésben meghatározott körülmények bekövetkeztével, valamint akkor is, ha a védelmi idő eltelt.
 
-55. § A felhasználási szerződésre vonatkozó rendelkezéseket megfelelően alkalmazni kell a szerzői vagyoni jogok átruházására irányuló szerződésekre, valamint az előadóművészi teljesítmények felhasználására vonatkozó szerződésekre is.
+55. § (1) A felhasználási szerződésre vonatkozó rendelkezéseket megfelelően alkalmazni kell a szerzői vagyoni jogok átruházására irányuló szerződésre, valamint – a (2)–(3) bekezdésben foglalt eltérésekkel – az előadóművészi teljesítmények felhasználására és az előadóművészi vagyoni jogok átruházására vonatkozó szerződésre is.
+
+(2) Ha a hangfelvétel forgalomba hozatalát vagy – ha erre nem kerül sor – a nyilvánossághoz közvetítését követő év első napjától számított ötvenedik év elteltével a hangfelvétel-előállító vagy az ő engedélye alapján más személy nem kínálja fel a hangfelvétel többszörözött példányait megfelelő mennyiségben forgalomba hozatalra, vagy nem teszi a hangfelvételt vezeték útján vagy bármely más eszközzel vagy módon úgy a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg, az előadóművész felmondhatja az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződést.
+
+(3) A (2) bekezdésben említett szerződés felmondásának joga akkor gyakorolható, ha a hangfelvétel-előállító az előadóművésznek a szerződés felmondására irányuló szándékáról szóló értesítését követő egy éven belül nem végzi el a (2) bekezdésben meghatározott mindkét felhasználási cselekményt.
+
+(4) Az előadóművész a (2) bekezdésben szabályozott felmondási jogról nem mondhat le.
 
 ### Kiadói szerződés
 
@@ -810,6 +816,12 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) Az előadás sugárzás vagy a nyilvánossághoz történő átvitel céljára készült rögzítésének [26. § (6) bek.] díjazására és a 73. § (1) bekezdésének e) pontjában meghatározott jog gyakorlására a 27. § (3) bekezdésének rendelkezéseit az előadóművészek, illetve közös jogkezelő szervezetük esetében is megfelelően alkalmazni kell.
 
+74/A. § (1) Ha az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződés az előadóművész számára nem ismétlődő díjazásra biztosít jogot, az előadóművész a hangfelvétel-előállítótól éves kiegészítő díjazásra válik jogosulttá a hangfelvétel forgalomba hozatalát vagy – ha erre nem kerül sor – a hangfelvétel nyilvánossághoz közvetítését követő év első napjától számított ötvenedik évet közvetlenül követő minden egyes teljes év vonatkozásában. E díjról az előadóművész nem mondhat le. A jogosultak a kiegészítő díjazás tekintetében fennálló díjigényüket csak közös jogkezelés útján érvényesíthetik.
+
+(2) A hangfelvétel-előállító az (1) bekezdésben meghatározott díjazás kifizetése céljából az ötvenedik év elteltével köteles a díjazás kifizetésének tárgyévét megelőző év során az érintett hangfelvétel többszörözéséből, terjesztéséből és hozzáférhetővé tételéből [76. § (1) bekezdés c) pont] keletkezett és költségekkel nem csökkentett bevétele 20%-ának megfelelő összeget a közös jogkezelő szervezetnek átutalni. A hangfelvétel-előállító köteles a kiegészítő díjazásra jogosult és közös jogkezelő szervezete részére a kiegészítő díjazás felosztásához szükséges tájékoztatást megadni.
+
+(3) Ha az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződés alapján az előadóművész az előadás felhasználásából származó bevételekkel arányos ismétlődő díjazásra jogosult, az előadóművész a hangfelvétel forgalomba hozatalát, vagy – ha erre nem kerül sor – a hangfelvétel nyilvánossághoz közvetítését követő év első napjától számított ötvenedik évet követően díjazásra válik jogosulttá. E díjazás előlegfizetéssel vagy szerződésben meghatározott levonással történő csökkentésére irányuló rendelkezés semmis.
+
 75. § (1) A 73. § (1) bekezdésében említett felhasználások esetén az előadóművészt megilleti az a személyhez fűződő jog, hogy nevét – a felhasználás jellegétől függően, ahhoz igazodó módon – feltüntessék. Előadóművészek együttese esetében ez a jog az együttes, valamint az együttes vezetője és a főbb közreműködők nevének feltüntetésére terjed ki.
 
 (2) Az előadóművész személyhez fűződő jogát sérti előadásának mindenfajta eltorzítása, megcsonkítása, más olyan megváltoztatása vagy az előadással kapcsolatos más olyan visszaélés, amely az előadóművész becsületére vagy hírnevére sérelmes.
@@ -833,6 +845,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 78. § (1) A hangfelvétel forgalomba hozott példányainak nyilvános haszonkölcsönbe adásához, bérbeadásához – a hangfelvételben foglalt mű szerzőjének hozzájárulásán kívül – a hangfelvétel előállítójának, valamint – előadás hangfelvétele esetében – az előadóművésznek a hozzájárulása is szükséges.
 
 (2) Az (1) bekezdésben meghatározott felhasználásért díjazás jár, amelyből a jogosultak – eltérő megállapodásuk hiányában – egyenlő arányban részesednek. A szerzők és az előadóművészek díjigényüket közös jogkezelő szervezeteik útján érvényesíthetik, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le.
+
+78/A. § Ha az előadóművész az előadása rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződést az 55. § (2)–(3) bekezdése alapján felmondja, a hangfelvétel-előállítónak a hangfelvételhez kapcsolódó valamennyi joga megszűnik.
 
 79. § A hangfelvétel előállítóját megilleti az a jog, hogy nevét a hangfelvétel másolatain feltüntessék.
 
@@ -873,16 +887,16 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A védelmi idő
 
-84. § (1) Az e fejezetben szabályozott jogok a következő időtartamokban részesülnek védelemben:
+84. § (1) Az e fejezetben szabályozott teljesítmények – a (2) bekezdésben foglalt eltérésekkel – a következő időtartamokban részesülnek védelemben:
 
-- a) a hangfelvételek és az azokban rögzített előadások a hangfelvétel első forgalomba hozatalát követő év első napjától számított ötven évig, illetve a hangfelvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a hangfelvételt;
-- b) a nem rögzített előadások az előadás megtartását követő év első napjától számított ötven évig;
-- c) a sugárzott műsorok vagy a vezeték útján a nyilvánossághoz átvitt saját műsorok az első sugárzást vagy átvitelt követő év első napjától számított ötven évig;
-- d) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, illetve a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet.
+- a) a nem rögzített előadások az előadás megtartását követő év első napjától számított ötven évig;
+- b) a nem hangfelvételben rögzített előadások a felvétel első forgalomba hozatalát követő év első napjától számított ötven évig vagy a felvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a felvételt;
+- c) a hangfelvételben rögzített előadások a hangfelvétel első forgalomba hozatalát követő év első napjától számított hetven évig vagy a hangfelvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a hangfelvételt;
+- d) a hangfelvételek a hangfelvétel első forgalomba hozatalát követő év első napjától számított hetven évig vagy a hangfelvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a hangfelvételt;
+- e) a sugárzott műsorok vagy a vezeték útján a nyilvánossághoz átvitt saját műsorok az első sugárzást vagy átvitelt követő év első napjától számított ötven évig;
+- f) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, vagy a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet.
 
-(2) Ha a hangfelvételt az elkészítését követő év első napjától számított ötven éven belül nem hozták forgalomba, viszont ezalatt azt a nyilvánossághoz közvetítették, az (1) bekezdés a) pontjában szabályozott időtartamot az első ízben a nyilvánossághoz történő közvetítést követő évet alapul véve kell számítani.
-
-(3) Ha a film nyilvánossághoz közvetítése megelőzi a forgalomba hozatalt, az (1) bekezdés d) pontjában szabályozott időtartamot az első forgalomba hozatalt követő év helyett az első ízben a nyilvánossághoz történő közvetítést követő évet alapul véve kell számítani.
+(2) Az (1) bekezdés b) és f) pontjában szabályozott ötvenéves időtartamot, valamint c) pontjában szabályozott hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a teljesítményt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de a nyilvánossághoz közvetítésére sor került, vagy a nyilvánossághoz közvetítés megelőzi a forgalomba hozatalt. Hangfelvételek esetében [(1) bekezdés d) pont] a hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a hangfelvételt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de ezalatt a nyilvánossághoz közvetítették.
 
 ### XI/A. Fejezet — AZ ADATBÁZISOK ELŐÁLLÍTÓINAK VÉDELME
 
@@ -1504,7 +1518,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) Az (1) bekezdésben említett művekre a 108. § (3)–(9) bekezdéseiben foglalt szabályok megfelelően irányadók azzal, hogy az 1994. évi VII. törvény és e törvény hatálybalépésén, illetve kihirdetésén az (1) bekezdés alkalmazásában a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését, illetve kihirdetését kell érteni.
 
-109. § A 31. § (6) bekezdésében foglalt rendelkezést akkor kell alkalmazni, ha az nem eredményezi a korábban hatályos rendelkezés szerint számított védelmi idő megrövidülését. A 31. § (6) bekezdésében foglalt rendelkezést alkalmazni kell az olyan filmalkotásra is, amelynek védelmi ideje e törvény hatálybalépésekor már eltelt. A 108. § (3)–(9) bekezdéseiben foglalt szabályok ilyen esetben is értelemszerűen irányadók, azzal, hogy az 1994. évi VII. törvény hatálybalépése helyett e törvény hatálybalépését kell érteni.
+109. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését akkor kell alkalmazni, ha az nem eredményezi az e törvény hatálybalépését megelőzően hatályos rendelkezések szerint számított védelmi idő megrövidülését. E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését alkalmazni kell az olyan filmalkotásra is, amelynek védelmi ideje e törvény hatálybalépésekor már eltelt. A 108. § (3)–(9) bekezdését ilyen esetben is alkalmazni kell azzal, hogy az 1994. évi VII. törvény hatálybalépése helyett e törvény hatálybalépését kell érteni.
 
 109/A. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 90. § (2) és (4) bekezdését, valamint 93. § (4)–(6) bekezdését a 2011. január 1-jét követően indult díjszabás-jóváhagyási eljárásokban kell alkalmazni.
 
@@ -1525,6 +1539,14 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 111/C. § (1) E törvénynek a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2008. évi CXII. törvénnyel megállapított 19. § (1) bekezdését a 2009. február 1-jét követően adott felhasználási engedélyekre kell alkalmazni.
 
 (2) A szerzőt a 23/A. § alapján megillető díjat a 2010. december 31-ét követően kölcsönzött műpéldányok nyilvános haszonkölcsönbe adása után kell megfizetni. A szerzőt a 23/A. § alapján megillető díjat 2012-ben kell először felosztani a 23/A. § (4) bekezdése szerinti, 2011. január 1-jétől szolgáltatott adatok alapján.
+
+111/D. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 55. § (2)–(3) bekezdésében, 74/A. § (1)–(3) bekezdésében, 78/A. §-ban, valamint 84. § (1) bekezdés b)–d) pontjában és (2) bekezdésében foglalt rendelkezések azon rögzített előadásokra és hangfelvételekre vonatkoznak, amelyek esetében a védelmi idő 84. § szerinti kezdő napjától számított ötven év 2013. november 1-jéig még nem telt el, valamint azon rögzített előadásokra és hangfelvételekre is, amelyek ezen időpont után születnek.
+
+(2) Ha az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződésben nincs egyértelmű utalás az ellenkezőjére, akkor a 2013. november 1. előtt kötött ilyen szerződés hatályosnak tekintendő azon időponton túl is, amikor az (1) bekezdés szerinti ötven év már eltelt.
+
+(3) Az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött, az előadóművészeket ismétlődő díjazásra jogosító azon szerződéseket [74/A. § (3) bekezdés], amelyeket 2013. november 1. előtt kötöttek, a hangfelvétel nyilvánosságra hozatalát, vagy – ha erre nem kerül sor – a hangfelvétel nyilvánossághoz közvetítését követő év első napjától számított ötvenedik év elteltével az előadóművész javára abban az esetben is módosítani lehet, ha ezt a lehetőséget a felek eredetileg kizárták. Ha a hangfelvétel-előállító és az előadóművész között nem jön létre megállapodás, akkor bármelyik fél a 103. § alapján létrehozott egyeztető testülethez fordulhat.
+
+111/E. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 55. § (2) bekezdésében szabályozott felmondási jog az e törvény hatálybalépése előtt kötött szerződések tekintetében is csak írásban gyakorolható.
 
 ### Felhatalmazások
 
@@ -1563,5 +1585,5 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - e) az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról;
 - f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről;
 - g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joghoz kapcsolódó egyes jogokról;
-- h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes kapcsolódó jogok védelmi idejének összehangolásáról;
+- h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv;
 - i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. (a) és (c) alpontja.

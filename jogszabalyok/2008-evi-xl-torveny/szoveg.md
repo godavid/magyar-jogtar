@@ -1114,9 +1114,11 @@ földgázrendszerhez való hozzáférés
 
 (5) Az üzembe helyező az üzembe helyezés alkalmával köteles a felhasználóval a csatlakozóvezeték és a felhasználói berendezés szakszerű használatát, a gázmérő állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni.
 
-(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – külön jogszabály tartalmazza.
+(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – az iparügyekért felelős miniszter rendelete, a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóságot kormányrendelet tartalmazza.
 
-(7) A fogyasztói főelzáró karbantartása és javítása az elosztó kötelessége, saját költségén.
+(7) A fogyasztói főelzáró karbantartása és javítása, valamint egyetemes szolgáltatásra jogosult felhasználók tekintetében – igénybejelentés esetében – a csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálata a földgázelosztó kötelessége, saját költségén.
+
+(7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
 
 (8) A felhasználó és a szállítási rendszerüzemeltető vagy a földgázelosztó közötti egyéb megállapodás hiányában a szállítási rendszerüzemeltető vagy a földgázelosztó köteles a felhasználó számára az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti fogyasztásmérő berendezést és 100 m3/óra vagy azt meghaladó kapacitásigény esetén a fogyasztásmérő berendezést és az adatátviteli berendezést térítésmentesen biztosítani.
 
@@ -1378,6 +1380,8 @@ foglalt árat köteles megfizetni.
 (4) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény és a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett termelő, valamint e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 
 (4a) A termelő és az e törvény szerinti engedélyes a pénzforgalmi számlájának vezetésével kapcsolatos, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szerint pénzügyi tranzakciós illeték fizetésére kötelezett által tranzakciós illetékkel összefüggésben felszámított díjat (a továbbiakban: tranzakciós díj) nem háríthatja át a vele szerződésben állóra. Ebből következően a tranzakciós díj az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt az engedélyes, illetve a termelő önállóan viseli.
+
+(4b) A földgázelosztó a csatlakozóvezeték vagy a felhasználói berendezés műszaki-biztonsági felülvizsgálatának költségét nem háríthatja át a vele szerződésben állóra. Ebből következően a felülvizsgálat költsége a földgázelosztó által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt a földgázelosztó önállóan viseli.
 
 104. § (1) A hatósági árat legmagasabb árnak kell tekinteni.
 
@@ -2290,6 +2294,8 @@ tartalmazza.
 
 - 1. földgázellátási válsághelyzet fennállása esetén a munkanapok és munkaszüneti napok, valamint az azokkal összefüggő munkavégzés rendjét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok) nyitvatartási idejét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok), továbbá irodaházak, valamint a költségvetési fenntartású intézmények legmagasabb felfűtési hőmérsékletét, a földgázfelhasználás mérséklését szolgáló egyéb intézkedéseket, valamint a földgáz Magyarország területéről történő kiszállítására vonatkozó szerződéskötés feltételeit,
 - 2.
+
+132/B. § Felhatalmazást kap a Kormány, hogy a csatlakozóvezetékek és a felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóságot rendeletben jelölje ki.
 
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
