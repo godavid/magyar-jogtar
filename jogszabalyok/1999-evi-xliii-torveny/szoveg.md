@@ -35,8 +35,8 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 3. § E törvény alkalmazásában
 
-- a) temető: a település igazgatási területén belüli, beépítésre szánt, építési használata szerinti zöldfelületi jellegű különleges terület, amely kegyeleti célokat szolgál, közegészségügyi rendeltetésű, és amelyet az elhunytak eltemetésére, a hamvak elhelyezésére létesítettek és használnak, vagy használtak;
-- b) köztemető: az önkormányzat tulajdonában lévő temető, továbbá az a nem önkormányzati tulajdonban lévő temető is, amelyben az önkormányzat – a temető tulajdonosával kötött megállapodás alapján – a köztemető fenntartására vonatkozó kötelezettségét teljesíti;
+- a) temető: a település közigazgatási területén belüli, beépítésre szánt vagy beépítésre nem szánt, építési használata szerinti zöldfelületi jellegű különleges terület, amely kegyeleti célokat szolgál, közegészségügyi rendeltetésű, és amelyet az elhunytak eltemetésére, a hamvak elhelyezésére létesítettek és használnak, vagy használtak;
+- b) köztemető: az önkormányzat tulajdonában lévő temető, továbbá az a nem önkormányzati tulajdonban lévő temető vagy temetőrész, amelyben az önkormányzat – a temető tulajdonosával kötött megállapodás alapján – a köztemető fenntartására vonatkozó kötelezettségét teljesíti;
 - c) temetkezési emlékhely: a temetőn kívül, különösen templomban, altemplomban, templomkertben, történeti kertben, urnacsarnokházban vagy más építményben és területen lévő, az elhunytak eltemetésére, urnák elhelyezésére és hamvak szétszórására szolgál;
 - d) temetési hely: a temetőben vagy a temetkezési emlékhelyen létesített sírhely, sírbolt, urnafülke, urnasírhely, urnasírbolt, valamint a hamvasztóüzemi építmény területén, ingatlanán létesített urnafülke, urnasírhely. A temetési helyek egyes formái, a temetés módja, továbbá a földben vagy építményben történő elhelyezkedése alapján különböznek egymástól;
 - e) nemzeti sírkert (nemzeti panteon): a Nemzeti Kegyeleti Bizottság által annak minősített temető, hősi temető, hősi temetési hely, továbbá temetkezési emlékhely, kegyeleti emlékhely, temetési helyek összessége;
@@ -77,7 +77,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Temető létesítése, lezárása, megszüntetése, újra-használatbavétele
 
-8. § (1) A temető beépítési előírásait a helyi építési szabályzatban és szabályozási tervben kell meghatározni.
+8. § (1) A temető beépítési előírásait a helyi építési szabályzatban kell meghatározni.
 
 (2) A temető és a temetkezési emlékhely építményei, közművei, egyéb infrastrukturális létesítményei építéséhez, létesítéséhez, bővítéséhez, továbbá a kegyeleti emlékhely létesítéséhez külön jogszabályban előírtak szerint a tulajdonosnak engedélyt kell kérnie.
 
@@ -91,7 +91,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 - d) boncolóhelyiség-csoportot,
 - e) a temető bekerítését vagy élősövénnyel való lehatárolását,
 - f) vízvételi lehetőséget, illemhelyet,
-- g) a temető területének – rendeltetésének és a hely jellegének megfelelő – parkosítását, az utak sorfásítását,
+- g) az utak sorfásítását,
 - h) hulladéktárolót
 
 a kormányrendeletben meghatározottak szerint köteles biztosítani.
@@ -120,23 +120,22 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 14. §
 
-15. § (1) Nemzeti sírkerthez – ezen belül a nemzeti panteonba – tartozó temetőket, hősi temetőket, hősi temetési helyeket, temetkezési emlékhelyeket, kegyeleti emlékhelyeket, temetési helyeket a Nemzeti Kegyeleti Bizottság határozza meg.
+15. § (1) Nemzeti sírkerthez tartozó temetőket, hősi temetőket, hősi temetési helyeket, temetkezési emlékhelyeket, kegyeleti emlékhelyeket, temetési helyeket a Nemzeti Kegyeleti Bizottság határozza meg.
 
 (2) A Nemzeti Kegyeleti Bizottság nevéhez és funkciójához méltó testület.
 
-(3) A Nemzeti Kegyeleti Bizottság feladata különösen
+(3)
 
-- a) a nemzeti sírkertek megteremtésére irányuló kezdeményezések véleményezése;
-- b) a rendelkezési jog gyakorlása a nemzeti sírkertbe tartozó temetési helyek és kegyeleti emlékhelyek tekintetében;
-- c) a megemlékezés módszertanának és gyakorlatának kialakítása;
-- d)
+(4) A Nemzeti Kegyeleti Bizottság feladatait Nemzeti Örökség Intézetén (a továbbiakban: NÖRI) keresztül látja el.
 
-(4) A Nemzeti Kegyeleti Bizottság feladatait Titkárságán (a továbbiakban: Titkárság) keresztül látja el.
-
-(5) A Titkárság feladata különösen
+(5) A NÖRI feladata különösen a nemzeti sírkert vonatkozásában
 
 - a) a nemzeti sírkertbe tartozó temetési helyek nyilvántartásba vétele és nyilvántartása;
 - b) a nemzeti sírkertek fenntartásával kapcsolatos feladatok meghatározása.
+
+(6) A nemzeti sírkertbe tartozó temetési hely – a (7) bekezdésben foglalt kivétellel – mentes a sírhelyre vonatkozó megváltási és újraváltási díj megfizetésének kötelezettsége alól.
+
+(7) Ha a Nemzeti Emlékhely és Kegyeleti Bizottság döntése alapján a nemzeti sírkertbe tartozó sírba új, koporsós betemetés történik, a sírhely egyszeri, újraváltási díját minden egyes új betemetés esetén meg kell fizetni. Ha olyan, nemzeti sírkertbe tartozó sírba temetkeznek, amelyen még érvényes a megváltás, akkor a megváltás kezdetétől az új betemetésig eltelt időszakra eső arányos megváltási díjat kell megfizetni.
 
 ### A temető üzemeltetése
 
@@ -160,7 +159,9 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) Az üzemeltető a temetkezési szolgáltatók tekintetében köteles megtartani az egyenlő bánásmód követelményét.
 
-18. § (1) A temetőben – a kegyeleti jogok gyakorlása céljából – a temetési helyekről az üzemeltető nyilvántartásokat vezet. A sírboltokról szóló nyilvántartás vezetésére a sírbolt könyv, az egyéb temetési helyek nyilvántartására a nyilvántartó könyv szolgál.
+18. § (1) A temetőben – a kegyeleti jogok gyakorlása céljából – a temetési helyekről, befogadó nyilatkozat alapján az elhunytak más temetőbe, temetkezési emlékhelyre történő elhelyezéséről, valamint temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatának tartalma alapján az üzemeltető nyilvántartást vezet. A sírboltokról szóló nyilvántartás vezetésére a sírbolt könyv, az egyéb temetési helyek nyilvántartására a nyilvántartó könyv szolgál.
+
+(1a) A más temetőbe, temetkezési emlékhelyre történő elhelyezésről szóló befogadó nyilatkozat alapján vezetett nyilvántartás és a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatáról vezetett nyilvántartás a következő adatokat tartalmazza: az elhalt természetes személyazonosító adatai, legutolsó lakóhelyének címe, az elhalálozás időpontja, az eltemetés helye vagy a hamvak elhelyezésének helye, valamint a nyilatkozatot tevő személy neve, lakcíme.
 
 (2) A nyilvántartó könyv a következő adatokat tartalmazza: folyószám, a temetés (urnaelhelyezés vagy a hamvak szétszórásának) napja, az elhalt természetes személyazonosító adatai, legutolsó lakóhelyének a címe, az elhalálozás időpontja, a sírhelytábla, sírhelysor, temetési hely száma, valamint az eltemettető, illetve a temetési hely felett rendelkezni jogosult személy neve, lakcíme, és a síremlékre vonatkozó bejegyzések.
 
@@ -170,9 +171,13 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (5) A nyilvántartó könyvbe és a sírbolt könyvbe az eltemettető és a temetési hely felett rendelkezni jogosult személy tekinthet be.
 
-(6) Az üzemeltető a nyilvántartó könyv, illetve a sírbolt könyv adatai alapján a temető nyitvatartási ideje alatt felvilágosítást köteles adni az elhunyt személy temetési helye után érdeklődőnek.
+(6) Az üzemeltető a nyilvántartó könyv és a sírbolt könyv adatai alapján, a más temetőben, temetkezési emlékhelyen történő eltemetés esetén a befogadó nyilatkozatról vezetett nyilvántartás alapján, ezek hiányában az eltemetésre kötelezett személy nyilatkozatáról vezetett nyilvántartás alapján a temető nyitvatartási ideje alatt felvilágosítást ad a kegyeleti jogokat gyakorolni kívánó részére az elhunyt személy temetési helyéről és a hamvak elhelyezkedésének helyéről.
 
-(7) A temető üzemeltetője köteles gondoskodni a nyilvántartó könyvbe, illetve a sírbolt könyvbe bejegyzett (tárolt) személyes adatok biztonságáról.
+(7) A más temetőbe, temetkezési emlékhelyre történt temetés esetén a temető vagy temetkezési emlékhely befogadó nyilatkozatát, valamint a temetőn, temetkezési emlékhelyen kívüli urnaelhelyezés esetén az eltemetésre kötelezett személy nyilatkozatát az eltemettető, az elhunyt közeli hozzátartozója és az ellenőrzést végző hatóság tekintheti meg.
+
+(8) A temetőn, temetkezési emlékhelyen kívüli urnaelhelyezésről kiállított nyilatkozatot és az elhunyt más temetőbe történő áthelyezése alapjául szolgáló befogadó nyilatkozatot a temető fennállásig meg kell őrizni. Ha a temető megszűnik, a nyilatkozatok levéltárban történő elhelyezéséről a temető tulajdonosa gondoskodik.
+
+(9) A temető üzemeltetője köteles a nemzeti sírkertbe tartozó temetési helyek tekintetében a nyilvántartó könyv és a sírbolt könyv adatait a NÖRI részére átadni.
 
 ### A temetés
 
@@ -195,11 +200,22 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 21. § (1) Az elhunytat temetőben vagy temetkezési emlékhelyen létesített temetési helyen kell eltemetni. Hamvasztásos temetés esetén a hamvak urnában helyezhetők el, illetőleg – a kormányrendeletben előírt feltételek szerint – szétszórhatók.
 
-(2) A hamvakat tartalmazó urnát az eltemetésre köteles személynek – kérésére – ki kell adni.
+(2) A hamvakat tartalmazó urnát az eltemetésre köteles személynek az elhunyt végrendelete, ennek hiányában
+
+- a) a temető vagy temetkezési emlékhely befogadó nyilatkozata, vagy
+- b) a hamvak temetőn, temetkezési emlékhelyen kívüli elhelyezése esetén az eltemetésre kötelezett személy teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozatának meglétéről az elhunyt utolsó lakóhelye szerinti, az eltemetésre kötelezett személyek nyilatkozatairól szóló nyilvántartás vezetésére az önkormányzat által kijelölt köztemető igazolása
+
+alapján kell kiadni.
 
 (3) Nem magyar állampolgárságú személyt – kormányrendeletben foglalt feltételek szerint – lehet eltemetni.
 
-22. § (1) A temetési hely felett – a nemzeti sírkertbe tartozó temetési hely kivételével – az rendelkezik, aki megváltotta.
+(4) Az eltemetésre köteles személy nyilatkozata tartalmazza az eltemetésre köteles személy nevét, születési helyét és idejét, anyja születési nevét, nyilatkozattételkori bejelentett lakcímét és a hamvak elhelyezése tervezett helyének címét.
+
+(5) A hamvakat tartalmazó urna temetőn, temetkezési emlékhelyen kívüli elhelyezése esetén az eltemetésre köteles személy nyilatkozatában vállalja, hogy az urnát kegyeleti igényeknek megfelelő körülmények között tárolja és az elhunyt közeli hozzátartozói részére a kegyeleti jog gyakorlásának lehetőségét biztosítja, valamint az elhunyt közeli hozzátartozóit az urna elhelyezésére szolgáló hely címének változásáról tájékoztatja.
+
+(6) Ha az elhunyt végrendelete a hamvak sorsáról nem rendelkezett vagy nincs végrendelet, a hamvak szétszórása esetén az eltemetésre köteles személy nyilatkozatának tartalmaznia kell azon kijelentést, hogy az elhunyt közeli hozzátartozói egyetértenek a hamvak szétszórásának helye, ideje és módja tekintetében.
+
+22. § (1) A temetési hely felett – a nemzeti sírkertbe tartozó temetési hely, valamint a hősi temetési hely kivételével – az rendelkezik, aki megváltotta. Több azonos jogállású örökös esetén – ellenkező megállapodásuk hiányában – a rendelkezési jog kizárólag együttesen gyakorolható.
 
 (2) A rendelkezési jog gyakorlása a temetési helyre helyezhető személyek körének meghatározására, síremlék, sírjel állítására és mindezek gondozására terjed ki.
 
@@ -207,7 +223,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (4) A temetési hely feletti rendelkezési jog időtartamát jogszabály határozza meg, amely hamvasztásos temetés esetében nem lehet kevesebb 10 évnél, egyéb esetekben nem lehet kevesebb 25 évnél.
 
-23. § Temetőn vagy temetkezési emlékhelyen kívül ravatalozni az egészségügyi államigazgatási szervnek az engedélyével lehet.
+23. § Temetőn, temetkezési emlékhelyen kívül holttestet ravatalozni az egészségügyi államigazgatási szerv engedélyével lehet.
 
 24. § (1) Halottat csak külön jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni, vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy példányának megőrzéséről a temető tulajdonosa gondoskodik.
 
@@ -221,9 +237,9 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 - a) a temetésfelvétel,
 - b) az elhunytnak a kegyeleti igényeknek megfelelő temetésre való – az egészségügyi szolgáltató halottkezelési feladatkörébe nem tartozó és az egészségügyi intézmény területén kívül végzett – előkészítése,
-- c) a temetéshez szükséges kellékekkel való ellátás,
+- c) a temetéshez szükséges kellékekkel való ellátás, ideértve az eltemettető felé történő értékesítést is,
 - d) a ravatalozás,
-- e) a búcsúztatás,
+- e)
 - f) sírhelynyitás és visszahantolás,
 - g) a sírba helyezés,
 - h) a halottszállítás,
@@ -235,22 +251,31 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) A temetkezési szolgáltatási tevékenységek teljeskörűen vagy önállóan is végezhetők (a továbbiakban együtt: temetkezési szolgáltatás).
 
-(3) A vallási közösség által végzett vallásos szertartás szerinti búcsúztatás e törvény értelmében nem minősül temetkezési szolgáltatásnak.
+(3) E törvény értelmében nem minősül temetkezési szolgáltatásnak
+
+- a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
+- b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.
 
 26. § (1) Temetkezési szolgáltatási tevékenység kormányrendeletben meghatározott műszaki, közegészségügyi és alapvető kegyeleti, illetve személyi feltételek szerint gyakorolható.
 
 (2) A temetkezési szolgáltató köteles az engedélyezett temetkezési szolgáltatási tevékenységet a kegyeleti jogok betartása mellett, folyamatos rendelkezésre állással ellátni. Tevékenységének gyakorlása során a szolgáltató az 1. §-ban meghatározott alapelvek érvényesülését köteles biztosítani.
 
+(3) A temetkezési szolgáltató az általa kínált szolgáltatások és kellékek árlistáját a honlapján és a temetésfelvételi irodájában olvasható és áttekinthető módon nyilvánosan közzéteszi. A kellék vagy szolgáltatás megrendelése idején közzétett áraktól a megrendelő hátrányára eltérni nem lehet.
+
+(4) Az elhunyt temetéséhez, hamvasztásához szükséges kellékekkel történő ellátásáról a temetkezési szolgáltató köteles és jogosult gondoskodni. A temetkezési szolgáltató a megrendelők által rendelkezésre bocsátott, más temetkezési szolgáltatótól vásárolt kellékek átvételéért külön díjat nem számíthat fel.
+
 27. § (1) A temetkezési szolgáltató a temető, a hamvasztóüzem és a temetkezési emlékhely területén kívül
 
-- a) a temetkezési szolgáltatások közül a temetésfelvételt, az elhunyt temetésre való előkészítését és a temetéshez szükséges kellékekkel történő ellátását, továbbá
-- b) a temetkezési szolgáltatás ellátása során az elhunyt hűtését, a halottszállító jármű tárolását
+- a) a temetkezési szolgáltatások közül a temetésfelvételt, az elhunyt temetésre való előkészítését és a temetéshez szükséges kellékekkel történő ellátását, valamint
+- b) a temetkezési szolgáltatás ellátása során az elhunyt hűtését és a halottszállító jármű tárolását
 
-csak engedélyezett telephelyen végezheti.
+csak temetkezési szolgáltatói telephelyen végezheti.
 
 (2) Egészségügyi intézményben – az egészségügyi igazgatás körébe tartozó, elhalálozással kapcsolatos ügyintézésen kívül – nem lehet temetkezési szolgáltatás céljából telephelyet létesíteni és működtetni. A megrendelés megszerzése érdekében az eltemettető nem befolyásolható sem az intézmények alkalmazottai, sem temetkezési szolgáltató által.
 
-(3)–(5)
+(3) Fekvőbeteg-szakellátást végző egészségügyi intézmény bármely pontjától számított 200 méteres távolságon belül nem lehet temetkezési szolgáltatás, temetkezési szolgáltatás ismertetése vagy temetkezési szolgáltatás közvetítése, valamint temetkezési kellék bemutatása céljából székhelyet vagy telephelyet létesíteni és működtetni. A létesítésre és működtetésre vonatkozó korlátozás nem alkalmazandó abban az esetben, ha a székhely vagy telephely temető, temetkezési emlékhely területén található.
+
+(4)–(5)
 
 (6) Köztemető területén külön jogszabályban meghatározott telepengedély alapján gyakorolható ipari és szolgáltató tevékenység végzésére nem lehet telephelyet létesíteni, és ilyen tevékenységgel létrehozott terméket – a temetéshez szükséges kellékek kivételével – nem lehet forgalmazni.
 
@@ -258,19 +283,19 @@ csak engedélyezett telephelyen végezheti.
 
 ### A temetkezési szolgáltató
 
-29. § (1) Egészségügyi intézményben az orvos, az egészségügyi feladatot ellátó vezetői megbízású alkalmazott, továbbá az egészségügyi feladatot ellátó alkalmazott nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, illetőleg gazdasági társaság tagja, vezető tisztségviselője vagy alkalmazottja.
+29. § (1) Az egészségügyi intézménnyel vagy mentésre feljogosított szervezettel közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a halottak kezelésében, kiadásában érintett alkalmazott vagy vele közös háztartásban élő hozzátartozója nem lehet temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég, gazdasági társaság vezető tisztségviselője, alkalmazottja, vagy – a nyilvánosan működő részvénytársaságot kivéve – tagja.
 
-(2) Az (1) bekezdésben felsoroltak közeli hozzátartozója [Ptk. 685. § b) pontja] nem lehet ugyanabban a megyében temetkezési szolgáltatást végző egyéni vállalkozó, egyéni cég tagja, illetőleg gazdasági társaság vezető tisztségviselője vagy alkalmazottja.
+(2)
 
 30. § (1) Temetkezési szolgáltatási tevékenység a temetkezési szolgáltatást engedélyező hatóság engedélyével folytatható.
 
 (2) A temetkezési szolgáltatási tevékenység folytatását a temetkezési szolgáltatást engedélyező hatóság annak engedélyezi,
 
 - a) aki büntetlen előéletű, és nem áll a temetkezési szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) aki igazolja szakmai alkalmasságát, továbbá megfelelő pénzügyi teljesítőképességét,
+- b) aki igazolja az e törvény végrehajtásáról kiadott kormányrendelet szerinti vagyoni biztosíték rendelkezésre állását,
 - c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 - d) aki írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenség nem áll fenn, és
-- e) akinek gazdálkodó szervezet esetében legalább egy személyesen közreműködő tagja vagy alkalmazottja, egyéni vállalkozó esetében – ha a tevékenységet nem maga látja el – legalább egy foglalkoztatottja rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+- e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek.
 
 (3) A (2) bekezdésben meghatározott követelményeket – a (4) bekezdésben meghatározottakra figyelemmel –
 
@@ -303,7 +328,9 @@ csak engedélyezett telephelyen végezheti.
 
 (3) Ha a gazdasági társaság vagy az egyéni vállalkozó az (1) bekezdés a) pontjában meghatározott adatokat nem igazolja, és nem szerepel a köztartozásmentes adózói adatbázisban, a temetkezési szolgáltatásokat engedélyező hatóság – a pénzügyi teljesítőképesség igazolása céljából – megkeresi az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóságot. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy az alapítónak van-e meg nem fizetett, lejárt köztartozása.
 
-34. § A temetkezési szolgáltatásokat engedélyező hatóság a 30. §-ban meghatározott engedélyt visszavonja, ha megállapítja, hogy kiadásának feltételei már nem állnak fenn.
+34. § (1) Ha a temetkezési szolgáltatásokat engedélyező hatóság megállapítja, hogy a temetkezési szolgáltató a tevékenységére vonatkozó, jogszabályban előírt feltételt nem teljesíti vagy az engedély kiadásának feltételei már nem állnak fenn, az engedélyt haladéktalanul visszavonja.
+
+(2) Ha a hatóság ellenőrzése során azt állapította meg, hogy a temetkezési szolgáltató a hatóságok által előírt kötelezettséget nem tartja be és a kötelezettség betartására felszólító hatósági végzés kézhezvételétől számított 30 napon belül a szolgáltató a felszólításnak nem tesz eleget, a temetkezési szolgáltatásokat engedélyező hatóság – a jogsértés súlyát, jellegét és ismétlődését figyelembe véve – százezer forinttól egymillió forintig terjedő bírságot szab ki. Ha a kötelezettség betartására felszólító végzés kézhezvételétől számított 60 napon belül a temetkezési szolgáltató a jogszabályoknak és hatósági határozatnak megfelelő működést nem állítja helyre, a temetkezési szolgáltatásokat engedélyező hatóság az engedélyt – adott tevékenység, telephely vagy mindkettő vonatkozásában – visszavonja.
 
 ### Halottszállítás
 
@@ -319,9 +346,20 @@ csak engedélyezett telephelyen végezheti.
 
 ### Halotthamvasztás
 
-37. § (1) Hamvasztóüzemi építményt létesíteni vagy átalakítani, felújítani a településrendezési tervnek megfelelően és építési engedély alapján lehet.
+37. § (1) Hamvasztóüzemi építményt létesíteni vagy átalakítani, felújítani a helyi építési szabályzatnak megfelelően és építési engedély birtokában lehet.
 
-(2)
+(2) A hamvasztóüzem köteles az adott következő naptári félévre vonatkozó hamvasztási, valamint a hamvasztással kapcsolatos egyéb szolgáltatási árait, így különösen a kilométerenkénti szállítási díjat, az általa forgalmazott hamvasztó koporsó, urna és urnabetét árait december 1-jéig és június 1-jéig közzétenni. A közzétett árak minden temetkezési szolgáltatóra egységesen alkalmazandóak.
+
+(3) A hamvasztóüzem a szolgáltatásainak igénybevételével összefüggésben a temetkezési szolgáltató részére kifizetést nem teljesíthet.
+
+(4) A hamvasztóüzemben nyilvántartó könyvet kell vezetni, amely tartalmazza
+
+- a) a sorszámot,
+- b) a hamvasztás napját,
+- c) az elhalt nevét, születési helyét és idejét, anyja születési nevét,
+- d) az elhalálozás helyét és idejét,
+- e) az elhaltat az üzembe beszállító szolgáltató nevét, címét, a szállító gépjármű forgalmi rendszámát, az átvétel napját, idejét,
+- f) az urnaátadás idejét, módját, az átadás azonosító adatait vagy az átvevő nevét, címét és aláírását.
 
 38. § (1) Ha a halottvizsgálati bizonyítvány szerint a holttest hamvasztható, a hamvasztást az ország területén működő bármely hamvasztóüzemben el lehet végezni. A hamvaszthatóságot tanúsító halottvizsgálati bizonyítványról az üzem másolatot készít, amit a nyilvántartáshoz csatolva kell megőrizni.
 
@@ -357,19 +395,22 @@ csak engedélyezett telephelyen végezheti.
 
 (3) A szerződés azonnali hatállyal felmondható, ha a gazdálkodó szervezet a (2) bekezdés m) pontjában meghatározott kötelezettségét megszegi.
 
-40. § (1) Az önkormányzat rendelete kötelezővé teheti a köztemetőn belüli, az elhunyt hűtésével, a temetőben erre a célra rendszeresített szállító járművön történő szállításával, továbbá a hamvaknak az erre szolgáló berendezéssel történő szórásával, sírhelynyitással és visszahantolással kapcsolatos feladatok ellátására az üzemeltető szakszemélyzetének és berendezésének igénybevételét (a továbbiakban: az üzemeltető által biztosított szolgáltatás).
+40. § (1) A temető tulajdonosa, köztemető esetén az önkormányzat rendelete kötelezővé teheti a temetőn belüli, az elhunyt hűtésével, ravatalozásával, a temetőben erre a célra rendszeresített szállító járművön történő szállításával, továbbá a hamvaknak az erre szolgáló berendezéssel történő szórásával, urnaelhelyezéssel, sírásással, sírhelynyitással, sírbahelyezéssel, visszahantolással, újratemetéssel és exhumálással kapcsolatos feladatok ellátására az üzemeltető szakszemélyzetének és berendezésének igénybevételét (a továbbiakban: az üzemeltető által biztosított szolgáltatás).
 
 (2) A temető tulajdonosa, köztemető esetén az önkormányzat a temető üzemeltetésével és fenntartásával kapcsolatosan felmerült szükséges és indokolt költségek alapján állapítja meg
 
 - a) a temetési hely, illetőleg az újraváltás díját,
 - b) a temetkezési szolgáltatók kivételével a temetőben vállalkozásszerűen munkát végzők által fizetendő temetőfenntartási hozzájárulás díját,
-- c) a temetői létesítmények, illetve az üzemeltető által biztosított szolgáltatások igénybevételéért a temetkezési szolgáltatók által fizetendő díjat.
+- c) a temetői létesítmények, illetve az üzemeltető által biztosított szolgáltatások igénybevételéért a temetkezési szolgáltatók által fizetendő díjat,
+- d) a temetőbe való behajtás díját.
 
 (3) A (2) bekezdésben meghatározott díjfajtákon belül a köztemetőkre vonatkozó díjak mértékét az önkormányzat rendeletben állapítja meg. A díjmértékeket évente felül kell vizsgálni.
 
 (4) Az egyes díjfajtákon belül a temetőben vállalkozásszerűen munkát végzők által fizetendő temetőfenntartási hozzájárulási díj mértéke az adott évben az egyes sírhelyekre megállapított megváltási díjtételek egyszerű számtani átlagának 5%-át nem haladhatja meg.
 
 (5) A települési önkormányzat képviselő-testülete, fővárosban a közgyűlés a díj megállapításakor kikéri a fogyasztók területileg illetékes érdekképviseleti szerveinek véleményét.
+
+(6) A temető üzemeltetője a szabályzatban megállapított díjakon felül más díjat nem állapíthat meg. Nem szedhető díj a temetőlátogatásért, a temetői utak használatáért és a temetési hely gondozásához igénybe vett vízért.
 
 ### A hősi temetőre, hősi temetési helyre vonatkozó különös szabályok
 
@@ -383,7 +424,7 @@ csak engedélyezett telephelyen végezheti.
 
 (4) A hősi temetési helyre a hősi halott hozzátartozóit a honvédelemért felelős miniszter hozzájárulásával lehet eltemetni, azonban ez a körülmény a sírhely minősítését és jogszabályban biztosított különleges státuszát nem érinti.
 
-(5) A honvédelemért felelős miniszter együttműködik a Nemzeti Emlékhely és Kegyeleti Bizottsággal, különös tekintettel a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely vonatkozásában. A Nemzeti Emlékhely és Kegyeleti Bizottság a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely tekintetében a rendelkezési jogot a honvédelemért felelős miniszter hozzájárulásával gyakorolja.
+(5) A honvédelemért felelős miniszter együttműködik a Nemzeti Emlékhely és Kegyeleti Bizottsággal, valamint a NÖRI-vel, különös tekintettel a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely vonatkozásában. A NÖRI a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely tekintetében a rendelkezési jogot a honvédelemért felelős miniszter hozzájárulásával gyakorolja.
 
 (6) A honvédelemért felelős miniszter az oktatásért felelős miniszterrel együttműködve gondoskodik a hősi temetőhöz, hősi temetési helyhez fűződő nemzeti értéket hordozó örökség megismerését és bemutatását elősegítő oktatási, képzési, ismeretterjesztő programok kidolgozásáról és végrehajtásáról.
 
@@ -408,7 +449,9 @@ csak engedélyezett telephelyen végezheti.
 
 40/E. § A központi költségvetésről szóló törvény a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetében a hősi temető, hősi temetkezési helyre fordítható előirányzatot állapíthat meg, amelyet a honvédelemért felelős miniszter hősi temető, hősi temetési hely létesítésére, ápolására, vagy ehhez kapcsolódó pályázati rendszer működtetése keretében használhat fel.
 
-40/F. § A hősi temető, hősi temetési hely fenntartására, ápolására és megőrzésére e törvény rendelkezéseit nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
+40/F. § (1) A hősi temető, hősi temetési hely fenntartására, ápolására és megőrzésére e törvény rendelkezéseit nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
+
+(2) Hősi temetőre, hősi temetési helyre, hősi halottak földi maradványaira a 35. és 36. §, valamint a 40. § (1) bekezdése nem alkalmazható.
 
 ### Közigazgatási bírság
 
@@ -416,28 +459,37 @@ csak engedélyezett telephelyen végezheti.
 
 (2) Az eljárás lefolytatására az elkövetés helye szerinti fővárosi vagy megyei kormányhivatal jogosult.
 
+### Kegyeleti jog képviselete
+
+40/H. § (1) A betegjogi képviselő az egészségügyről szóló 1997. évi CLIV. törvényben biztosított eljárási jogait a beteg halála után az elhunyt kegyeleti jogainak érvényesülése érdekében – az egészségügyi intézmény működésével kapcsolatban tett panasz tekintetében – gyakorolhatja.
+
+(2) A betegjogi képviselő az elhunyt hozzátartójának megbízása alapján, a hozzátartozó által adott meghatalmazás keretei között segíti a kegyeleti jogok érvényesülését.
+
 ### Felhatalmazások
 
 41. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) az e törvény szerinti temetkezési szolgáltatási tevékenység folytatásának részletes feltételeit, a tevékenységet folytatókra vonatkozó szakmai képesítési követelményeket, a tevékenység gyakorlásának műszaki, kegyeleti, közegészségügyi szabályait, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-- b) a tevékenység ellátására való jogosultság és kötelezettség eseteit, a közköltségen történő temetés, a belföldi és külföldi halottszállítás, a nem magyar állampolgár belföldi eltemetésének és hamvasztásának szabályait;
-- c) a temetőfenntartás és üzemeltetés, a hamvasztóüzemi építmény működési, közegészségügyi szabályait;
+- b) a temetkezési szolgáltatási és temetőüzemeltetési tevékenység ellátására való jogosultság és kötelezettség eseteit, a közköltségen történő temetés, a belföldi és külföldi halottszállítás, a nem magyar állampolgár belföldi eltemetésének és hamvasztásának szabályait, továbbá a hamvak kiadásához szükséges nyilatkozat tartalmát;
+- c) a temetőfenntartás és üzemeltetés, a hamvasztóüzemi építmény létesítési, működési, közegészségügyi szabályait;
 - d) a temetők létesítésével, bővítésével, lezárásával, megszüntetésével és ismételt használatbavételével, valamint az eltemetéssel, a hamvasztással, az urnaelhelyezéssel, hamvak szórásával, a sírnyitással, a rátemetéssel, az exhumálással kapcsolatos részletes rendelkezéseket;
 - e) a temető, a temetkezési emlékhely, továbbá a temetési hely építményei létesítésének építési szabályait;
-- f) a Nemzeti Emlékhely és Kegyeleti Bizottság szervezetére, tagjaira, feladataira, működésére, és Titkárságára vonatkozó szabályokat, továbbá kijelölje a Bizottság létrehozásával és felügyeletével kapcsolatos feladatokat ellátó minisztert;
+- f) a Nemzeti Emlékhely és Kegyeleti Bizottság szervezetére, tagjaira, feladataira, működésére vonatkozó szabályokat, továbbá kijelölje a Bizottság létrehozásával és felügyeletével kapcsolatos feladatokat ellátó minisztert;
 - g) a temetőszabályzat kötelező tartalmi elemeit;
-- h) a Nemzeti Kegyeleti Bizottság javaslatára a ,,Nemzeti Gyásznap'' állandó vagy eseti meghatározására, a gyász nemzeti méretű kifejezésére és megformálására vonatkozó szabályokat.
+- h) a Nemzeti Kegyeleti Bizottság javaslatára a ,,Nemzeti Gyásznap'' állandó vagy eseti meghatározására, a gyász nemzeti méretű kifejezésére és megformálására vonatkozó szabályokat;
+- i) a szociális és köztemetésekhez kapcsolódó hamvasztás legmagasabb díját;
+- j) a szociális temetési helyekre vonatkozó eltérő szabályok, a szociális temetés igénybevételének részletes szabályait;
+- k) a szociális temetés esetén a holttest egészségügyi intézményben történő hűtésének részletes szabályait.
 
 (2)
 
 (3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan – különösen
 
 - a) a temető rendeltetésszerű használatához szükséges egyéb helyi tárgyi és infrastrukturális feltételeket;
-- b) a temető használatának és igénybevételének szabályait;
+- b) a temető, ravatalozó használatának és igénybevételének szabályait;
 - c) a temetési hely gazdálkodási szabályait;
 - d) a sírhely méretezését, sírjelek alkalmazását, a kegyeleti tárgyak, növényzet elhelyezését, a sírgondozás szabályait;
-- e) temetőben a kegyeleti közszolgáltatások feltételeit, a temetési hely megváltási díját, a temetőfenntartási hozzájárulás díját, illetve a létesítmények vállalkozók részéről történő igénybevételének díját;
+- e) temetőben a kegyeleti közszolgáltatások feltételeit, a temetési hely megváltásának és újraváltásának díját, a temetőfenntartási hozzájárulás díját, illetve a létesítmények és az üzemeltető által biztosított szolgáltatások igénybevételének díját;
 - f) a temetési szolgáltatás, illetőleg a temetőben végzett egyéb vállalkozói tevékenységek ellátásának temetői rendjét;
 - g)
 
@@ -458,3 +510,12 @@ csak engedélyezett telephelyen végezheti.
 (3)–(4)
 
 (5) A törvény hatálybalépésekor már működő temetkezési szolgáltatónak a személyes megbízhatóságát, szakmai alkalmasságát és pénzügyi teljesítőképességét a kormányrendeletben meghatározott határidőn belül és az ott meghatározott módon kell igazolnia.
+
+44. § A 27. § (3) bekezdését a 2013. november 1-jén temetkezési szolgáltatás céljából működtetett székhelyre, telephelyre
+
+- a) ha a temetkezési szolgáltató a székhelyül, telephelyül szolgáló ingatlan tulajdonosa, 2015. január 1-jétől,
+- b) ha a temetkezési szolgáltató a székhelyül, telephelyül szolgáló ingatlan hasznosítására más jogcímen jogosult, 2014. február 1-jétől
+
+kell alkalmazni.
+
+45. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

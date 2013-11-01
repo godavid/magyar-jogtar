@@ -20,7 +20,7 @@ a következő törvényt alkotja:
 
 (2) A termőföldre vonatkozó rendelkezéseket — a haszonbérletre e törvényben megállapított szabályok kivételével — alkalmazni kell a mező-, erdőgazdasági művelés alatt álló belterületi földre is.
 
-(3) A tulajdonos kérelmére, illetőleg az ingatlanügyi hatóság megkeresésére az építésügyi hatóság igazolja, hogy a mező-, erdőgazdasági művelés alatt álló belterületi föld kialakított építési teleknek vagy építési területnek minősül-e.
+(3)
 
 (4) E törvény rendelkezéseit a Nemzeti Földalapba tartozó földrészleteket érintően csak akkor kell alkalmazni, ha a Nemzeti Földalapról szóló törvény eltérő szabályokat nem állapít meg.
 

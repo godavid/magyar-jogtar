@@ -235,7 +235,7 @@ A jelen törvény és a törvény mellékleteinek és a Takarékbank Zrt. elfoga
 
 (8) Amennyiben a Takarékbank Zrt. igazgatósága az Integrációs Szervezet igazgatóságának kezdeményezése ellenére – 5 munkanapon belül – nem hozza meg a (4) bekezdés a) pont szerinti vagy a (7) bekezdés a) pont szerinti intézkedést, akkor azt az Integrációs Szervezet igazgatósága is megteheti.
 
-(9)
+(9) A Takarékbank Zrt. szövetkezeti hitelintézet részvényesei kötelesek bankszámlájukat kizárólag a Takarékbank Zrt.-nél vezetni, és le nem kötött pénzeszközeiket a Takarékbank Zrt. által forgalmazott eszközökben tartani.
 
 (10)
 
