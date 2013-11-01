@@ -268,7 +268,7 @@ jogosultak.
 
 (5) Az (1) bekezdés a) pontjában foglalt okból a közút kezelője forgalombiztonsági érdekből a tehergépjárművek közlekedését ideiglenesen korlátozhatja – azok pihenőhelyre történő terelésével vagy félreállításával – mindaddig, amíg a biztonságos közlekedés feltételei helyre nem állnak.
 
-14/A. § (1) A gyorsforgalmi közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
+14/A. § (1) A gyorsforgalmi közúton a közút kezelője balesetveszély esetén a rendőrség, minden más esetben az üzemben tartó vagy a tulajdonos (a továbbiakban e § alkalmazásában együttesen: üzemben tartó) és a rendőrség előzetes értesítésével elszállítással eltávolíthatja vagy eltávolíttathatja azt a járművet, amely a közúti forgalom biztonságát veszélyeztető módon a közút területén olyan helyen vesztegel, ahol a megállás tilos.
 
 (2) A jármű elszállítása során a járműhasználat akadályoztatása folytán a keletkezett kárért a közút kezelőjét nem terheli kártalanítási kötelezettség.
 
@@ -276,7 +276,7 @@ jogosultak.
 
 (4) Az üzemben tartó a közútkezelő utólagos értesítése alapján köteles a járművet az elszállítás és a tárolás igazolt költségeinek megtérítését követően elszállítani. Amennyiben az üzemben tartó ezen kötelezettségének a közútkezelő második értesítését követő 180 napon belül sem tesz eleget, vagy az üzemben tartó 180 napon belül nem állapítható meg, a közútkezelő jogosult a járművet értékesíteni vagy más módon hasznosítani. Amennyiben az elszállított jármű tulajdonosa az értékesítést, vagy más módon történő hasznosítást követő 60 napon belül jelentkezik, részére az értékesítésből, vagy a más módon történő hasznosításból befolyt, a szállítással, a tárolással, és az értékesítéssel kapcsolatban felmerült igazolt költségekkel csökkentett ellenértéket ki kell fizetni.
 
-(5) A gyorsforgalmi közút kezelője, valamint az általa megbízott közreműködő a miniszter által rendeletben meghatározottak szerint, az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat a (4) bekezdésben foglalt határidőig kezelheti.
+(5) A gyorsforgalmi közúton a közút kezelője, valamint az általa megbízott közreműködő a miniszter által rendeletben meghatározottak szerint, az e §-ban foglalt feladatai ellátásához szükséges személy- és járműazonosító adatokat a (4) bekezdésben foglalt határidőig kezelheti.
 
 15. § (1) A miniszter – rendeletben – meghatározott járművek közlekedését a közút kezelőjének hozzájárulásához és díj fizetéséhez kötheti.
 
@@ -658,7 +658,7 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.
 
-20/A. § (1) A közlekedési hatóság által végzett ellenőrzés során, továbbá a 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja szerinti közúti közlekedési ellenőrzés során, amennyiben az ellenőrzést a közút kezelője végzi, csak olyan személy (a továbbiakban: közúti ellenőr) járhat el, aki megfelel a 20/B. §-ban meghatározottaknak, valamint a miniszter rendeletében meghatározott személyi és szakmai alkalmassági feltételeknek, továbbá részt vesz a közúti ellenőrök rendszeres továbbképzésén.
+20/A. § (1) A 20. § (11) bekezdés a) pont ab) alpontja és b) pont bc) alpontja szerinti közúti közlekedési ellenőrzés során, amennyiben az ellenőrzést a közút kezelője végzi, csak olyan személy (a továbbiakban: közúti ellenőr) járhat el, aki megfelel a 20/B. §-ban meghatározottaknak, valamint a miniszter rendeletében meghatározott személyi és szakmai alkalmassági feltételeknek, továbbá részt vesz a közúti ellenőrök rendszeres továbbképzésén.
 
 (2) A közlekedési hatóság a közúti ellenőrökről névjegyzéket vezet, amely tartalmazza a közúti ellenőr
 
@@ -1078,7 +1078,7 @@ nem terjednek ki.
 - a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
 - b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
 
-(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges megtett úttal arányos tarifarendszerű elektronikus útdíjszedési és díjellenőrzési létesítmények kiépítése során építtetőként az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁAK Zrt.) jár el.
+(14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁAK Zrt.) jár el.
 
 29/A. § (1) A közlekedési hatóság az engedély nélküli vagy az engedélytől eltérő útépítés, útmegszüntetés, elbontás esetén, illetve az engedély nélküli forgalomba helyezés esetén az építtetőt határozattal bírság megfizetésére kötelezheti.
 
@@ -1187,7 +1187,7 @@ terjedhet.
 
 (6) Az (1) bekezdésben meghatározott díjak beszedésének feladatait, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését az ÁAK Zrt. látja el. Ennek végrehajtása érdekében a KKK szerződést köt az ÁAK Zrt.-vel.
 
-33/B. § (1) A díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, valamint megfizetésének elmaradása esetén a pótdíj mértékét, a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
+33/B. § (1) A használati díjfizetéssel érintett országos közutakat – ideértve erre irányuló szerződés esetén a 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos közutat is – vagy azok egyes szakaszait, a használati díj, valamint megfizetésének elmaradása esetén a pótdíj mértékét, a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján – a miniszter az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítja meg.
 
 (2)
 
@@ -1203,7 +1203,7 @@ terjedhet.
 
 (7)
 
-(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelők jogosultak.
+(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint az ÁAK Zrt. jogosult.
 
 (9)
 
