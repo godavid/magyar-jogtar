@@ -4013,47 +4013,24 @@ kérhetnek adatszolgáltatást.
 
 (2) E törvény hatálybalépése előtt a korábbi jogszabályok szerint elvégzett eljárási cselekmények megtartják a hatályukat, és jogkövetkezményeik fennmaradnak.
 
-303. § (1) A végrehajtó a (2) és (3) bekezdés szerinti végrehajtási eljárás adósával, kötelezettjével szemben indított (vagy zálogjogosult bekapcsolódásával indult) végrehajtási eljárásban a lakóingatlan kiürítésének foganatosítását a 182/A. §-ban foglalt rendelkezések szerint, a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzés vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelme kézhezvételét követő naptól a 2011. október 1-jéig terjedő időszakot követő időszakra halasztja el.
+303. § (1) A végrehajtó a lakóingatlan kiürítésének foganatosítását – kivéve az ingatlan közös tulajdonának megszüntetése iránti ügyekben értékesített lakóingatlan kiürítését – a 182/A. §-ban foglalt rendelkezések szerint, 2013. évben és a 2014. január 1-jétől a 2014. április 30-áig terjedő időszakban a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzés vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelme kézhezvételét követő naptól a 2014. április 30-áig terjedő időszakot követő időszakra halasztja el.
 
-(2) Az (1) bekezdésben foglaltak alkalmazására
-
-- a) azokban a pénzkövetelés behajtására indult végrehajtási eljárásokban kerül sor, amelyekben az adós lakóingatlanát lakáshitel-szerződésből eredő hiteltartozás és járulékai behajtása érdekében árveréssel, árverésen kívüli, árverés hatályával történő eladással értékesítették vagy került sor az átvételére, és
-- b) azokban a meghatározott cselekmény végrehajtására indult végrehajtási eljárásokban kerül sor, melyekben a lakóingatlan kiürítésének célja lakáshitel-szerződésből eredő kötelezettség teljesítésének kikényszerítése.
-
-(3) Az (1) bekezdésben foglaltak alkalmazására kerül sor – a (2) bekezdésben foglaltakon túlmenően – azokban a végrehajtási eljárásokban is, amelyekben
-
-- a) lakáshitel-szerződésből eredő követelést biztosító zálogszerződésben vagy kezesi kötelezettségvállaló nyilatkozatban foglaltak kikényszerítése a végrehajtás tárgya,
-- b) a (2) bekezdés szerinti eljárás végrehajtást kérője, illetve adósa vagy kötelezettje a lakáshitel-szerződésben vagy zálogszerződésben részes fél jogutódja, vagy
-- c) a végrehajtást kérő a lakáshitel-szerződésben foglalt vételi jog érvényesítésével vagy a lakáshitel-szerződést biztosító zálogjog alapján a zálogtárgy bírósági végrehajtáson kívüli értékesítésével eladott lakóingatlan vevője, vagy további eladása esetén újabb vevője, az adós vagy kötelezett pedig a lakáshitel-szerződés adósa vagy lakáshitel-szerződésből eredő követelést biztosító zálogszerződés kötelezettje.
-
-(4) Ha a (2) és (3) bekezdésben meghatározott követelés behajtásán vagy kötelezettség kikényszerítésén kívül más követelés behajtására is indult végrehajtás az adóssal (kötelezettel) szemben, és ezekben a végrehajtási eljárásokban a tőketartozás összege nem haladja meg összesen a 150 000 forintot, ezekben a végrehajtási eljárásokban sincs helye a lakóingatlan kiürítésének és az (1) bekezdés szerint kell eljárni.
-
-(5) Ha a végrehajtható okiratból nem állapítható meg, hogy a (2) és (3) bekezdés szerinti feltételek fennállnak-e, a végrehajtó ennek megállapítása érdekében beterjeszti az iratokat a végrehajtást foganatosító bírósághoz, amely – a szükséges iratok beszerzését követően – végzéssel határoz arról, hogy a végrehajtási eljárás a (2) és (3) bekezdés hatálya alá tartozik-e.
-
-(6) Ha büntetőügyben hozott jogerős határozat
+(2) Ha büntetőügyben hozott jogerős határozat
 
 - a) megállapította, hogy a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlanban lakó személy az ingatlan tulajdonjogának, használati jogának megszerzése, vagy az ehhez szükséges vagyonnak vagy támogatásnak a megszerzése érdekében bűncselekményt követett el és az elkövetőnek az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesülése óta még három év nem telt el, vagy
-- b) a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlanban lakó személy által elkövetett bűncselekmény miatt a kiürítendő ingatlanra elkobzást vagy vagyonelkobzást rendelt el, a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosítására utasítja a végrehajtót; a kiürítési kötelezettség a kötelezettnek az ingatlanban önálló jogcímen lakó hozzátartozójára is kiterjed.
+- b) a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlanban lakó személy által elkövetett bűncselekmény miatt a kiürítendő ingatlanra elkobzást vagy vagyonelkobzást rendelt el,
 
-(7) A végrehajtó a (6) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyész erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
+a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosítására utasítja a végrehajtót; a kiürítési kötelezettség a kötelezettnek az ingatlanban önálló jogcímen lakó hozzátartozójára is kiterjed.
 
-(8) A bíróság adatigényléssel fordul a bűnügyi nyilvántartó szervhez annak megállapítása érdekében, hogy az indítványban megjelölt személlyel szemben hoztak-e büntetőügyben határozatot, a büntetőügyben eljárt bíróságot pedig megkeresi annak közlése érdekében, hogy hozott-e a (6) bekezdés a) vagy b) pontja szerinti határozatot. A bíróság a beszerzett személyes adatokat a végzés jogerőre emelkedéséig kezeli.
+(3) A végrehajtó a (2) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyész erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
 
-(9) E § alkalmazásában lakáshitel-szerződés: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet III. Egyéb meghatározások 4. pontja szerinti fogyasztóval kötött,
-
-- a) a Hpt. 2. számú melléklet III. Egyéb meghatározások 5.1. pontja szerinti lakáscélú hitel- vagy kölcsönszerződés, valamint az 5.2. pontja szerinti lakáscélú pénzügyi lízingszerződés, továbbá
-- b) ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- vagy kölcsönszerződés, amely esetében az adós a folyósított kölcsön összegét a fedezetként lekötött lakóingatlan vásárlására, építésére, bővítésére, korszerűsítésére, felújítására vagy ezek egy részére fordította, ha a hitelfolyósításkor a hitelösszeg nem haladta meg a 20 millió Ft-ot vagy a lakóingatlannak a lakáshitel-szerződésben meghatározott (vagy ha a lakáshitel-szerződés erről nem rendelkezett, a hitelfolyósításkori) forgalmi értéke a 30 millió Ft-ot.
+(4) A bíróság adatigényléssel fordul a bűnügyi nyilvántartó szervhez annak megállapítása érdekében, hogy az indítványban megjelölt személlyel szemben hoztak-e büntetőügyben határozatot, a büntetőügyben eljárt bíróságot pedig megkeresi annak közlése érdekében, hogy hozott-e a (2) bekezdés a) vagy b) pontja szerinti határozatot. A bíróság a beszerzett személyes adatokat a végzés jogerőre emelkedéséig kezeli.
 
 303/A. § A 187. §-nak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2009. évi XIV. törvénnyel megállapított (1) bekezdés b) pontját az e rendelkezés hatálybalépését követően elkövetett jogszabálysértések esetében kell alkalmazni.
 
-304. § (1) A 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdését azokban a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a kilakoltatás foganatosítására még nem került sor.
+304. § (1) A devizahitelesek megsegítése érdekében szükséges egyes törvények módosításáról szóló 2013. évi CLXXIII. törvény rendelkezéseit azokban a folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a kilakoltatás foganatosítására még nem került sor.
 
-(2) Ha a végrehajtó a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésének napján
-
-- a) már kézhez vette a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzést vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelmét, illetve
-- b) már elhalasztotta a lakóingatlan kiürítését a Vht.-nak a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2010. évi LXXXI. törvénnyel beiktatott 303. §-a vagy a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2011. évi XVIII. törvénnyel megállapított 303. §-a alapján, a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépését követő naptól kezdődően halasztja el.
-
-(3) Azon ügyekben, amelyekben nincs helye a 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdése alapján a lakóingatlan kiürítése ismételt elhalasztásának, 2011. július 1-jét követően kell a lakóingatlan kiürítése iránt intézkedni.
+(2) Ha a végrehajtó a devizahitelesek megsegítése érdekében szükséges egyes törvények módosításáról szóló 2013. évi CLXXIII. törvény hatálybalépésének napján már kézhez vette a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzést vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelmét, a lakóingatlan kiürítését a 303. § alapján a végrehajtó a devizahitelesek megsegítése érdekében szükséges egyes törvények módosításáról szóló 2013. évi CLXXIII. törvény hatálybalépését követő naptól terjedő időszakra halasztja el.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
