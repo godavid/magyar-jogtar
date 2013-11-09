@@ -53,17 +53,17 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (2) A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka alatt svájci frank esetén a 180 HUF/CHF, euró esetén a 250 HUF/EUR, japán jen esetén a 2,5 HUF/JPY árfolyamot alkalmaz. A rögzített árfolyam alkalmazási időszaka
 
 - a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját – ha nem kerül sor közjegyzői okiratba foglalására, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés megkötését – követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
-- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+- b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 180 napot meghaladó késedelembe esik, akkor a késedelem 181. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
 (3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
-(4) A (2) bekezdés b) pontjában, a 2. § (3) bekezdésében és a 3. § (1) bekezdés a) pontjában foglaltak alkalmazása során devizakölcsönből eredő tartozásnak minősül az életbiztosítási szerződéssel kombinált devizakölcsön esetén az életbiztosítási szerződésben, a lakás-előtakarékossági szerződéssel kombinált devizakölcsön esetén a lakás-előtakarékossági szerződésben vállalt, lejárt és nem teljesített fizetési kötelezettségből eredő tartozás is.
+(4) A (2) bekezdés b) pontjában, a 2. § (3) bekezdésében foglaltak alkalmazása során devizakölcsönből eredő tartozásnak minősül az életbiztosítási szerződéssel kombinált devizakölcsön esetén az életbiztosítási szerződésben, a lakás-előtakarékossági szerződéssel kombinált devizakölcsön esetén a lakás-előtakarékossági szerződésben vállalt, lejárt és nem teljesített fizetési kötelezettségből eredő tartozás is.
 
 #### 2. Állami szerepvállalás
 
-2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
+2. § (1) Ha a devizakölcsön – gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés 3. § (1) bekezdése szerinti igénylésekor alkalmazott árfolyamon számított – összege nem haladja meg a devizakölcsön fedezetéül szolgáló lakóingatlan pénzügyi intézmény által fedezetként történt elfogadáskor meghatározott forgalmi értékének a 95%-át és a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
 
-- a) készfizető kezesként felel – a mentesített követelésrész kivételével – a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a rögzített árfolyam alkalmazási időszakának a 2. § (3) bekezdés a) pontjában meghatározott okból történő megszűnésével összefüggésben, a hivatkozott pontban írtaknak megfelelően felmondta,
+- a) készfizető kezesként felel – a mentesített követelésrész, valamint a 4. § (1) bekezdés e) pontja alapján folyósított kölcsön kivételével – a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a rögzített árfolyam alkalmazási időszakának a 2. § (3) bekezdés a) pontjában meghatározott okból történő megszűnésével összefüggésben, a hivatkozott pontban írtaknak megfelelően felmondta,
 - b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a 2. § (3) bekezdés b) pontja szerinti esetekben.
 
 (1a) Ha a gyűjtőszámlahitelhez a 4. § (4a) bekezdése szerinti állami kezességvállalás kapcsolódik, az (1) bekezdés alapján vállalt kezesség kizárólag a 4. § (4a) bekezdés alapján vállalt kezességgel nem fedezett gyűjtőszámlahitelből eredő tartozások tekintetében érvényesíthető.
@@ -73,12 +73,12 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (3) A kezesség érvényesítésére a pénzügyi intézmény akkor jogosult, ha
 
 - a) a készfizető kezesség esetén
-  - aa) a rögzített árfolyam alkalmazási időszakának a hiteladós rögzített árfolyam alkalmazási időszaka alatt beállott 90 napot meghaladó fizetési késedelme miatti megszűnését követő 60 napon belül, vagy
+  - aa) a rögzített árfolyam alkalmazási időszakának a hiteladós rögzített árfolyam alkalmazási időszaka alatt beállott 180 napot meghaladó fizetési késedelme miatti megszűnését követő 60 napon belül, vagy
   - ab) a fedezeti ingatlannal szemben a rögzített árfolyam alkalmazási időszaka alatt megindított végrehajtás miatt, a rögzített árfolyam alkalmazási időszaka alatt
 
 a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta;
 
-- b) az egyszerű kezesség esetén a pénzügyi intézmény a hiteladós rögzített árfolyam alkalmazási időszaka záró időpontját követően beállott 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben ezen időpontot követően megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta és a követelés nem térült meg bírósági végrehajtás útján vagy a zálogtárgy bírósági végrehajtáson kívüli értékesítésével, és ezen eljárások a követelés behajthatatlansága miatt fejeződtek be, vagy kerültek felfüggesztésre.
+- b) az egyszerű kezesség esetén a pénzügyi intézmény a hiteladós rögzített árfolyam alkalmazási időszaka záró időpontját követően beállott 180 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben ezen időpontot követően megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta és a követelés nem térült meg bírósági végrehajtás útján vagy a zálogtárgy bírósági végrehajtáson kívüli értékesítésével, és ezen eljárások a követelés behajthatatlansága miatt fejeződtek be, vagy kerültek felfüggesztésre.
 
 (4) A pénzügyi intézmény a kezesség érvényesítését a jogosultsága megnyílásától számított 180 napon belül kezdeményezheti az állami adóhatóságnál.
 
@@ -94,14 +94,11 @@ a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatko
 
 3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
 
-- a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg a 90 napot,
-- b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt, illetve az ilyen programban való részvételét legkésőbb a rögzített árfolyam alkalmazási időszak kezdő időpontjára megszünteti,
-- c) a devizakölcsönnek a folyósításkor alkalmazott árfolyamon számított forint összege – az (1a) bekezdésben meghatározott eltéréssel – nem haladta meg a 20 millió forintot,
-- d) amennyiben a devizakölcsön fedezetéül szolgáló lakóingatlant több pénzügyi intézmény által alapított jelzálogjog terheli, e zálogjog által biztosított valamennyi követelés tekintetében nem áll fenn 90 napot meghaladó késedelem, és
+- a)–d)
 - e) a devizakölcsön fedezetéül szolgáló lakóingatlanra vezetett végrehajtás nincs folyamatban,
-- f) a pénzügyi lízingszerződésre vonatkozó szerződést a felek 2011. december 15. napja előtt kötötték.
+- f)
 
-(1a) Az (1) bekezdés c) pontjában meghatározott feltételnek nem kell megfelelni, ha a devizakölcsön fedezetéül szolgáló lakóingatlan legalább három gyermek bejelentett lakó- vagy tartózkodási helye.
+(1a)
 
 (2) A rögzített árfolyam alkalmazási időszaka alatt a hiteladós nem állhat más állami fizetéskönnyítő program hatálya alatt.
 
@@ -117,7 +114,7 @@ a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatko
   - ca) a rögzített árfolyam alkalmazási időszaka záró időpontjáig a kamatperiódus kezdő időpontjával érintett hónap első napján érvényes 3 havi BUBOR mindenkor aktuális mértékét,
   - cb) a rögzített árfolyam alkalmazási időszaka záró időpontját követően a futamidő végéig a pénzügyi intézmény által a kapcsolódó devizakölcsön céljával azonos célra nyújtott forinthitelre meghatározott piaci kamat mértékét,
 - d) a hitelbírálat során, valamint a szerződésszerű teljesítése esetén az ügyleti kamaton kívül egyéb járulék és díj jogcímén fizetési kötelezettséget a pénzügyi intézmény a hiteladóssal szemben nem érvényesíthet,
-- e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően 90 napot meg nem haladó késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
+- e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
 - f) a gyűjtőszámlahitel terhére folyósított összegből
   - fa) a mentesített követelésrészt, valamint
   - fb) a legmagasabb árfolyamot meghaladó árfolyam miatt felmerülő törlesztési kötelezettség teljes összegét
@@ -247,7 +244,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 13/A. § Amennyiben a közszférában dolgozó a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 2011. december 30-án hatályos 200/B. §-a szerinti végtörlesztésre jogosult volt, erre vonatkozóan 2011. december 30-ig írásbeli igénybejelentést tett, és ezen igényéről munkáltatóját is tájékoztatta, valamint 2012. szeptember 30-ig gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést köt, részére a magyar állam egyszeri, vissza nem térítendő támogatást nyújt, amelynek mértéke 2012. február 1-je és a rögzített árfolyam alkalmazási időszakának kezdete – de legkésőbb a 2012 júliusában fizetendő törlesztőrészlet esedékessége – közötti időszak alatt esedékes törlesztőrészlete és a Módtv. 1. § (5) bekezdése által megállapított 1. § (2) bekezdés szerinti rögzített árfolyam alapján fizetendő törlesztőrészlete közötti különbség. A támogatást a fennálló devizakölcsön-tartozás előtörlesztésére kell a pénzügyi intézmény részére átutalni. A pénzügyi intézmény a vissza nem térítendő támogatás elszámolására tekintettel előtörlesztési díjat nem számíthat fel.
 
-#### 14. §
+14. § A devizahitelesek megsegítése érdekében szükséges egyes törvények módosításáról szóló 2013. évi CLXXIII. törvény 2. §-ával megállapított 2. § (1) bekezdésében foglaltakat az e rendelkezések hatálybalépése után kezdeményezett gyűjtőszámlahitelre kell alkalmazni.
 
 #### 15–16. §
 

@@ -289,7 +289,7 @@ kapcsolatos feladatok ellátása.
 
 (2) A Hegyközségek Nemzeti Tanácsa az általa elfogadott alapszabály szerint működik. Az alapszabályt a küldöttek együttes ülésen a 14. § (3) bekezdése szerint fogadják el.
 
-(3) A Hegyközségek Nemzeti Tanácsa a tagjai sorából a küldöttek együttes ülésen elnökséget, ennek tagjai közül elnököt és alelnököt választ. A Hegyközségek Nemzeti Tanácsának elnökét a szőlészeti szekcióba, az alelnökét a borászati szekcióba tartozó küldöttek közül kell megválasztani. Az ügyek viteléért felelős tisztségviselő a főtitkár, akit a Hegyközségek Nemzeti Tanácsa pályázat alapján választ meg. A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet, akinek egyebekben a hegybíróval azonos személyi feltételekkel kell rendelkeznie. A főtitkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja.
+(3) A Hegyközségek Nemzeti Tanácsa a tagjai sorából a küldöttek együttes ülésen elnökséget, ennek tagjai közül elnököt és alelnököt választ. Az ügyek viteléért felelős tisztségviselő a főtitkár, akit a Hegyközségek Nemzeti Tanácsa pályázat alapján választ meg. A főtitkár hivatalba lépéséhez a miniszter előzetes jóváhagyása szükséges. A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet, akinek egyebekben a hegybíróval azonos személyi feltételekkel kell rendelkeznie. A főtitkár felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja.
 
 (4) A Hegyközségek Nemzeti Tanácsában a 24. § (2) bekezdése szerint megválasztott tagokból álló szőlészeti és borászati szekció működik.
 
@@ -369,6 +369,10 @@ kapcsolatos feladatok ellátása.
 - i) kiállításokat, borversenyeket, konferenciákat szervez.
 
 (2) A Hegyközségek Nemzeti Tanácsa a nem borvidéki települések vonatkozásában meghatározza az illetékes hegyközséget, valamint a közigazgatási feladatok ellátására kijelöli az illetékes hegybírót, és ezeket az információkat a honlapján közzéteszi.
+
+(3) A Hegyközségek Nemzeti Tanácsa jogszabályban foglalt feladatai ellátása érdekében informatikai rendszert működtet, melynek során jogosult a hegyközségi tagok és az adatszolgáltatásra kötelezettek személyes adatainak kezelésére. Az adatokhoz a hegybírók, a főtitkár, valamint a közigazgatási hatósági ügyben eljáró tisztségviselő számára a hozzáférést biztosítani kell.
+
+(4) A Hegyközségek Nemzeti Tanácsa az általa kezelt adatokból jogszabályban meghatározott tartalommal és módon köteles adatot szolgáltatni – ideértve a hegyközségi tagok és az adatszolgáltatásra kötelezettek személyes adatait is – a borászati hatóságnak.
 
 #### 23. Közös szabályok
 
@@ -455,6 +459,36 @@ jár el.
 (2) A hegyközségeket érintő jogi szabályozást, illetve más kormányzati döntést vagy települési önkormányzati rendelet meghozatalát megelőzően ki kell kérni az illetékes hegyközségi szervezet véleményét és észrevételeire érdemi választ kell adni.
 
 (3) A bortermeléssel kapcsolatos agrárpiaci beavatkozás előtt ki kell kérni a Hegyközségek Nemzeti Tanácsának véleményét.
+
+#### 26/A. Adatkezelési rendelkezések
+
+45/A. § (1) A hegyközség jogosult kezelni
+
+- a) természetes személy tagja, valamint a jogszabály alapján adatszolgáltatásra kötelezett természetes személyek
+  - aa) nevét,
+  - ab) lakcímét,
+  - ac) születési helyét és idejét,
+  - ad) anyja nevét,
+  - ae) adóazonosító jelét vagy adószámát,
+  - af) ügyfél-azonosító számát;
+- b) jogi személy tagja, valamint a jogszabály alapján adatszolgáltatásra kötelezett jogi személyek
+  - ba) cégnevét,
+  - bb) székhelyét, telephelyét, fióktelephelyét,
+  - bc) cégjegyzékszámát,
+  - bd) statisztikai azonosítóját,
+  - be) adószámát,
+  - bf) ügyfél-azonosító számát,
+  - bg) képviselőjének nevét, lakcímét.
+
+(2) A Hegyközségek Nemzeti Tanácsa jogosult kezelni a hegyközségek tagjainak, valamint a jogszabály alapján adatszolgáltatásra kötelezett személyek (1) bekezdésben meghatározott adatait.
+
+(3) A hegyközség az (1) bekezdésben meghatározott adatokat a tagjai tagsági jogainak és kötelezettségeinek teljesítésével összefüggésben jogosult kezelni.
+
+(4) A Hegyközségek Nemzeti Tanácsa az (1) bekezdésben meghatározott adatokat a hegybíró, valamint a Hegyközségek Nemzeti Tanácsa főtitkárának hatáskörébe tartozó közigazgatási hatósági eljárással összefüggésben jogosult kezelni.
+
+(5) A hegyközség, illetve a Hegyközségek Nemzeti Tanácsa az általa kezelt (1) bekezdés szerinti adatokat csak a borászati hatóság, a Nemzeti Adó- és Vámhivatal, valamint a földmérési és térinformatikai államigazgatási szerv részére adhatja át.
+
+(6) A hegyközség az (1) bekezdés szerinti adatokat a hegyközségi tag tagsági jogviszonya megszűnésének évét követő ötödik év végéig jogosult kezelni.
 
 #### 27. Gazdasági tevékenység
 
