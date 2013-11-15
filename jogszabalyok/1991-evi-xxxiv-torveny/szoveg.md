@@ -102,7 +102,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (5) A pályázati kiírásnak szükség esetén tartalmaznia kell a szerencsejáték szervező tevékenységre alapított gazdasági társaságra vonatkozó különös előírásokat (pl. a kibocsátott részvények, illetőleg üzletrészek korlátozott forgalomképességét).
 
-5. § (1) A miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
+(6) A koncessziós szerződést a miniszter a Ktv. 10/C. § (2) bekezdése alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül is megkötheti.
+
+5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén a miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
 
 (2) Koncessziós szerződés e törvény különös rendelkezéseiben meghatározott határozott időtartamra köthető.
 
@@ -653,7 +655,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) A tiszta játékbevételt növeli a tárgyhóban elfogadott borravaló 50%-a.
 
-(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét.
+(3) A szerencsejáték-szervező a tárgyhavi adó összegét úgy állapítja meg, hogy az adóév első napjától a tárgyhó utolsó napjáig a tiszta játékbevételt összesíti, ezután az (1) bekezdésben foglaltak alapján megállapítja a tárgyhavi adó összegét és levonja belőle az adóéven belül a tárgyhónapot megelőző időszakokra megfizetett adó összegét, valamint az általa a tárgyévre megfizetett koncessziós díj egytizenketted részének összegét.
 
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
@@ -762,7 +764,7 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - 8. Nyereményszorzó (odds): a nyeremény kiszámításának a bukmékeri fogadásnál alkalmazott azon eszköze, amely megmutatja, hogy a szervező a feltett tét hányszorosát fogja nyereményként kifizetni a nyertes fogadónak.
 - 9. Lottójáték: az állami adóhatóság által ilyen elnevezéssel engedélyezett, azonos időszakonként szervezett számsorsjáték, amelyben adott számhalmazból előre meghatározott számú elem eltalálása jogosít nyereményre.
 - 10. Totófogadás: olyan totalizatőri rendszerben szervezett fogadás, amelyben a fogadónak a labdarúgó-csapatok mérkőzéseinek eredményét kell eltalálnia.
-- 11. Egység: egy pályázat alapján megkötött koncessziós szerződéssel működtetett egy játékkaszinó.
+- 11. Egység: koncessziós szerződéssel működtetett egy játékkaszinó.
 - 12. Pénzgyűjtő: a tétek és a nyeremények kezelésével megbízott személy.
 - 13. Folyamatosan szervezett szerencsejáték: olyan a törvény különös rendelkezéseiben meghatározott szerencsejáték, amelyre a szerencsejáték szervező engedélye meghatározott időszakon belül többszöri alkalommal történő szerencsejáték szervezést tesz lehetővé.
 - 14. Tiltott szerencsejáték: az e törvény szerint engedélyköteles szerencsejáték, amelyet az állami adóhatóság engedélye nélkül szerveznek.
@@ -783,6 +785,12 @@ fizeti meg az állami adóhatósághoz a felügyeleti díj megfizetéséről sz�
 - 27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 - 28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 - 29. Játékosi egyenleg: távszerencsejáték esetén a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a távszerencsejáték-szervező által vezetett egyenleg.
+- 30. Megbízható szerencsejáték-szervező: az a szerencsejáték-szervező, valamint annak többségi tulajdonosa, amely a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet, és
+  - a) valamennyi közteherre vonatkozó bevallási- és fizetési kötelezettségének eleget tett, és egyszer sem esett harminc napot meghaladó késedelembe;
+  - b) egyik bankszámláján sem volt azonnali beszedési megbízás az adóhatóság részéről, illetve működése során nem indult ellene végrehajtási eljárás;
+  - c) a működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt esetenként öt millió forint összeget meghaladó bírsággal sújtották volna;
+  - d) legalább 10 éven keresztül folytatott szerencsejáték szervezésére irányuló tevékenységet Magyarországon;
+  - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 
 ### Záró rendelkezések
 

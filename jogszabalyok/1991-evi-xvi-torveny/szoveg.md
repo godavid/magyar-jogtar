@@ -22,7 +22,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### A koncessziós pályázat
 
-4. § (1) A koncessziós szerződés megkötésére – szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve ha honvédelmi vagy nemzetbiztonsági érdek a pályázat zártkörű kiírását teszi szükségessé – nyilvános.
+4. § (1) A koncessziós szerződés megkötésére – a szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását, valamint a 10/C. § szerinti megkötését kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve ha honvédelmi vagy nemzetbiztonsági érdek a pályázat zárkörű kiírását teszi szükségessé – nyilvános.
 
 (2) A zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetőleg nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
 
@@ -101,9 +101,23 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (4) Az ágazati törvény alapján megkötött koncessziós szerződésben a felek e törvény 16. §-ában foglaltaktól, továbbá – abban az esetben, ha a koncesszió jogosultja e tevékenységét nem gazdasági társaság útján gyakorolja – e törvény 17. §-ában, valamint 20. §-ában foglaltaktól eltérhetnek.
 
+### A megbízható szerencsejáték-szervezővel megköthető koncessziós szerződésre irányadó különös szabályok
+
+10/C. § (1) Az ágazati törvényben meghatározott megbízható szerencsejáték-szervezővel koncessziós szerződés az e §-ban meghatározottak szerint is köthető.
+
+(2) Az ágazati miniszter mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható szerencsejáték-szervezővel is sor kerülhet.
+
+(3) A szerencsejáték szervezésére irányuló tevékenység végzésére a megbízható szerencsejáték-szervező ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott – egységek település szerinti helyszínét és vállalja, hogy egységenként a mindenkori központi költségvetésről szóló törvényben meghatározott koncessziós díj összege legalább kétszeresének megfelelő összegű éves koncessziós díjat fizet.
+
+(4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel.
+
+(5) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb öt egységet üzemeltethet.
+
+(6) A koncessziós szerződésre és a koncesszió jogosultjára egyebekben e törvény és az Szjtv. rendelkezései irányadóak.
+
 ### A koncessziós szerződés
 
-11. § Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
+11. § Ha a koncessziós szerződés megkötésére nem a 10/C. §-ban foglaltak szerint kerül sor, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
 
 12. § (1)–(2)
 
