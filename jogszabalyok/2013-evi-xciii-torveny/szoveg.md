@@ -20,7 +20,11 @@ az egyes rendészeti tárgyú törvények módosításáról
 
 #### 5. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-10–15. §
+10. §
+
+11–12. §
+
+13–15. §
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -200,7 +204,7 @@ az egyes rendészeti tárgyú törvények módosításáról
 (4) 2014. január 1-jén lép hatályba
 
 - a) a 3–7. §,
-- b) a 10–15. §,
+- b) a 10. § és a 13–15. §,
 - c) a 33–36. §,
 - d) a 41–45. §,
 - e) a 49–51. §,

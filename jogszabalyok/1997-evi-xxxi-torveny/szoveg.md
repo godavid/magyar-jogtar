@@ -2775,18 +2775,23 @@ vonatkozó adatokat kezelhet.
 
 (3) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos nyilvántartást vezet a szolgáltató tevékenységet végző szolgáltatókról, intézményekről, helyettes szülői és nevelőszülői hálózatokról. A nyilvántartás adattartalma nyilvános.
 
+(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult személyről és gondozó családjáról.
+
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
 
 138. § (1) A gyámhatóság a hatáskörébe tartozó ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait, valamint a gyermek és a törvényes képviselő társadalombiztosítási azonosító jelét,
-- b) a 4. § (1) bekezdésének b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
+- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait, valamint társadalombiztosítási azonosító jelét,
+- b) a 4. § (1) bekezdés b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
-- d) az ellátással kapcsolatos döntéseket,
-- e) a jogosultság megállapításához szükséges jövedelmi adatokat,
-- f) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzetének megállapítását, megjelölve a hátrányos, halmozottan hátrányos helyzet megállapításának okát.
+- d) az ellátással kapcsolatos döntéseket, pénzbeli és természetbeni ellátás esetén a pénzbeli és természetbeni ellátás megnevezését, jogcímét, összegét és az ellátás megállapítására, megváltoztatására, megszüntetésére vonatkozó adatokat, a megszüntetés jogcímét, valamint az ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját,
+- e) a jogosultság megállapításához szükséges jövedelmi adatokat.
 
 (1a) Az (1) bekezdés szerinti – a 140. § (1) bekezdés a) pontjába tartozó ellátások tekintetében vezetett – nyilvántartás az (1) bekezdés d) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(1b) A rendszeres gyermekvédelmi kedvezményre való jogosultsággal összefüggő, az (1) bekezdés szerinti adatokat a gyámhatóság rögzíti az Szt. 18/B. § szerinti országos nyilvántartásba. Az országos nyilvántartásba való adatrögzítéskor meg kell adni az eljáró hatóság megnevezését, címét, az ügy számát és az elbírálási azonosítóját. A rendszeres gyermekvédelmi kedvezményre való jogosultsággal összefüggő, az (1) bekezdés szerinti adatok tekintetében a gyámhatóság a nyilvántartás-vezetési kötelezettségét kizárólag az Szt. 18/B. § szerinti országos nyilvántartásba való adatrögzítéssel is teljesítheti.
+
+(1c) A hatóság a folyamatban lévő eljárás során figyelembe vett, a nyilvántartásban nem szereplő személyt az ugyanazon eljárásban figyelembevett, a nyilvántartásban szereplő személyhez kapcsolva rögzíti a nyilvántartásban.
 
 (2) A gyámhatóság nyilvántartást vezet a hatósági intézkedéssel védelembe vett gyermekekről. A nyilvántartás tartalmazza
 
@@ -3222,6 +3227,14 @@ gyermek után az intézményi térítési díj 100%-át,
 
 161/S. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvénnyel megállapított 96. § (13) bekezdése szerinti bejelentést az egyházi fenntartó a 2013. évben július 31-éig teheti meg.
 
+161/U. § (1) Az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 137. § és 138. § rendelkezéseit – a (2)–(4) bekezdésben foglalt kivétellel – a 2013. december 15-ét követően indult ügyekben kell alkalmazni.
+
+(2) A 2013. november 15-ig meghozott döntés alapján jogerősen megállapított, és az adatrögzítés időpontjáig meg nem szüntetett rendszeres gyermekvédelmi kedvezményre vonatkozó, a Gyvt. 138. § (1) bekezdése szerinti adatokat – a (4) bekezdés szerinti eltéréssel – 2013. december 15-ig kell rögzíteni az Szt. 18/B. § szerinti nyilvántartásba. Az országos nyilvántartásba való adatrögzítéskor meg kell adni az eljáró hatóság megnevezését, címét, és az ügy számát.
+
+(3) A 2013. december 16-át megelőzően indult olyan ügyekben, amelyek nem esnek a (2) bekezdés hatálya alá, az adatrögzítést a döntés meghozatalát követő tíz napon belül kell elvégezni.
+
+(4) A (2) és (3) bekezdés alapján rendszeres gyermekvédelmi kedvezménnyel kapcsolatosan rögzített, az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 138. § (1) bekezdése szerinti azon adatokat, amelyeket a Gyvt. 2013. november 14-én hatályos 138. § (1) bekezdése szerint az eljáró hatóság nem tartott nyilván, a (2) és (3) bekezdés szerint rögzített jogosultság időtartama alatt nem kell beszerezni.
+
 ### Felhatalmazás
 
 162. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3251,7 +3264,8 @@ gyermek után az intézményi térítési díj 100%-át,
 - w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 - y) a Biztos Kezdet Gyerekház támogatása igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályait,
-- z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait.
+- z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
+- zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait, valamint a pénzbeli és természetbeni szociális és gyermekvédelmi ellátások országos nyilvántartását vezető szerv kijelölését.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
