@@ -36,7 +36,18 @@ amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatároz
 
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 
-(6) E törvény hatálya nem terjed ki a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny.), a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.), a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.), a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.), a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), valamint a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálya alá tartozó ellátásokra.
+(6) E törvény hatálya nem terjed ki
+
+- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.),
+- b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.),
+- c) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny.),
+- d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.),
+- e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.),
+- f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.),
+- g) a rendszeres gyermekvédelmi kedvezményre jogosultakról a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
+- h) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
+
+hatálya alá tartozó ellátásokra.
 
 (7) A hadigondozottaknak, a hadkötelezettség alapján katonai vagy polgári szolgálatot teljesítőknek és hozzátartozóiknak járó különleges pénzbeli ellátásokról, a nemzeti gondozásról, valamint a foglalkozási rehabilitáció keretében nyújtott ellátásokról külön törvény rendelkezik.
 
@@ -238,46 +249,85 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 ### Adatkezelés
 
-18. § A jegyző a települési önkormányzat és a jegyző feladat- és hatáskörébe tartozó szociális ellátásra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+18. § A jegyző a települési önkormányzat és a jegyző feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátások biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a jogosult természetes személyazonosító adatait;
-- b) a jogosult állampolgárságát, illetőleg bevándorolt, letelepedett vagy menekült jogállását;
-- c) a jogosult belföldi lakó-, illetőleg tartózkodási helyét;
-- d) a jogosult tartására köteles személy természetes személyazonosító adatait;
-- e) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
-- f) a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
-- g) a jogosultság megállapításához szükséges jövedelmi adatokat;
-- h) a jogosult Társadalombiztosítási Azonosító Jelét;
-- i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot;
-- j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
-- k)
+- a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései alapján figyelembe vett más személyek
+  - aa) természetes személyazonosító adatait,
+  - ab) belföldi lakó- vagy tartózkodási helyét,
+  - ac) Társadalombiztosítási Azonosító Jelét;
+- b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+- c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
+- d) a szociális ellátás
+  - da) megnevezését,
+  - db) jogcímét,
+  - dc) összegét,
+  - dd) megállapítására, megváltoztatására, megszűnésére vagy megszüntetésére vonatkozó adatokat,
+  - de) megszűnésének vagy megszüntetésének jogcímét;
+- e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját;
+- f) a szociális ellátás megállapítása során figyelembe vett, egy főre vagy egy fogyasztási egységre jutó jövedelem összegét;
+- g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
+- h) az ápolási díjra jogosult személy adóazonosító jelét;
+- i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
+- j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
+- k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 - l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
   - la) a támogatott szolgáltatást szolgáltatási vagy közüzemi szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
-  - lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot,
-  - lc) a lakásbérlet vagy albérlet igénybevételére irányuló szerződést bérbevevő félként megkötő személy természetes személyazonosító adatait,
-  - ld) a közös költség megfizetésére kötelezett személy természetes személyazonosító adatait.
+  - lb) a lakáscélú kölcsönszerződés adósának és adóstársának a kölcsönt nyújtó pénzintézet általi azonosításához szükséges adatot.
 
 18/A. § A járási hivatal a feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátás biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a jogosult természetes személyazonosító adatait;
-- b) a jogosult állampolgárságát, illetőleg bevándorolt, letelepedett vagy menekült jogállását;
-- c) a jogosult belföldi lakó-, illetőleg tartózkodási helyét;
-- d) a jogosult tartására köteles személy természetes személyazonosító adatait;
-- e) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
-- f) a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
-- g) a jogosultság megállapításához szükséges jövedelmi adatokat;
-- h) a jogosult Társadalombiztosítási Azonosító Jelét;
-- i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot.
+- a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései alapján figyelembe vett más személy
+  - aa) természetes személyazonosító adatait,
+  - ab) belföldi lakó- vagy tartózkodási helyét,
+  - ac) Társadalombiztosítási Azonosító Jelét;
+- b) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+- c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
+- d) a szociális ellátás
+  - da) megnevezését,
+  - db) jogcímét,
+  - dc) összegét,
+  - dd) megállapítására, megváltoztatására, megszűnésére vagy megszüntetésére vonatkozó adatokat,
+  - de) megszűnésének vagy megszüntetésének jogcímét;
+- e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját;
+- f) a szociális ellátás megállapításánál figyelembe vett, egy főre jutó jövedelem összegét;
+- g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
+- h) az ápolási díjra jogosult személy adóazonosító jelét;
+- i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
+- j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét.
 
-19. § (1) A 18–18/A. §-ban szabályozott nyilvántartásból a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, rehabilitációs hatóság, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban: adatigénylésre jogosult szervek) részére – külön törvényben meghatározott feladataik ellátása céljából – eseti megkeresésük alapján továbbíthatók az általuk törvény alapján kezelhető adatok.
+18/B. § (1) A Kormány által kijelölt szerv az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
 
-(1a) A 18. §-ban szabályozott nyilvántartás a 18. § f) pont szerinti adatkör tekintetében, a 18/A. § szerinti nyilvántartás a 18/A. § f) pont szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+- a) az időskorúak járadékáról, az aktív korúak ellátásáról, a lakásfenntartási támogatásról, az ápolási díjról, a közgyógyellátásról és a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, valamint
+- b) az a) pont szerinti ellátásra jogosult, illetve az ellátás megállapítása során e törvény és a rendszeres gyermekvédelmi kedvezmény tekintetében a Gyvt. rendelkezései alapján figyelembe vett személyekről.
+
+(2) Az országos nyilvántartás tartalmazza
+
+- a) az eljáró hatóság – ideértve a Gyvt. szerinti rendszeres gyermekvédelmi kedvezmény megállapítása során eljáró hatóságot is – megnevezését, címét, valamint az ügy számát és elbírálási azonosítóját,
+- b) a 18. § szerinti adatokat,
+- c) a 18/A. § szerinti adatokat,
+- d) a rendszeres gyermekvédelmi kedvezmény tekintetében a Gyvt. 138. § (1) bekezdése szerinti adatokat.
+
+(3) Az országos nyilvántartásba az adatokat az egyes ellátásokkal összefüggésben döntést hozó jegyző vagy a járási hivatal rögzíti. A jegyző rögzíti a települési önkormányzat hatáskörébe tartozó ellátásokkal összefüggő azon adatokat, amelyeket érintően a 18. § szerinti nyilvántartás vezetésének kötelezettsége őt terheli.
+
+(4) A hatóság a folyamatban lévő eljárás során figyelembe vett, a nyilvántartásban nem szereplő személyt az ugyanazon eljárásban figyelembevett, a nyilvántartásban szereplő személyhez kapcsolva rögzíti a nyilvántartásban.
+
+(5) Az eljáró hatóság a 18. § és 18/A. § szerinti nyilvántartás-vezetési kötelezettségét az országos nyilvántartásban szereplő ellátások tekintetében kizárólag az országos nyilvántartásba való bejegyzéssel is teljesítheti.
+
+19. § (1) A 18–18/B. §-ban szabályozott nyilvántartásokból – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban együtt: adatigénylésre jogosult szervek) részére, eseti megkeresésük alapján, törvényben meghatározott feladataik ellátása céljából továbbíthatók az általuk törvény alapján kezelhető adatok.
+
+(1a) A 18/B. § (1) bekezdése szerinti országos nyilvántartásból a 18/B. § (2) bekezdés d) pontja szerinti adatkör tekintetében a Gyvt. 134. § (6) bekezdése szerinti szerveknek szolgáltatható adat.
+
+(1b) Közhiteles hatósági nyilvántartásnak minősül
+
+- a) a 18. §-ban szabályozott nyilvántartás a 18. § d) és e) pontja szerinti adatkör tekintetében,
+- b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adatkör tekintetében, és
+- c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, és az annak megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontja adatkörök tekintetében.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában vagy a 43/B. § alapján ápolási díjban, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a jegyző, illetve a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
 (3) A jegyző az aktív korúak ellátására jogosultak tekintetében a 18. § a)–c), f), valamint h) pontjaiban meghatározott adatokról az állami foglalkoztatási szervet – annak törvényben meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
 
-(4) A jegyző a szolgáltató részére – a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – a 18. § a), c), f) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatokat a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott módon átadja.
+(4) A jegyző a 18. § l) pont la) alpontja szerinti szolgáltató részére – a természetbeni szociális ellátás formájában nyújtott lakásfenntartási támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – a lakásfenntartási támogatásra jogosult személynek a 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatait a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott módon átadja.
 
 20. § (1) A szolgáltató, intézmény vezetője a szolgáltatásra vonatkozó igényt – az (5) bekezdésben foglalt szolgáltatások kivételével – érkezésének napján nyilvántartásba veszi. A nyilvántartás vezetésének célja az e törvényben meghatározott jogok érvényesülésének elősegítése.
 
@@ -338,9 +388,13 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 21. § A 20. és 20/C. §-ban szabályozott nyilvántartásból adat csak az adatigénylésre jogosult szervnek és a jogosultságot megállapító szociális hatáskört gyakorló szervnek szolgáltatható.
 
-22. § Az, akire a 18–18/A. §-ban, 20. §-ban, 20/C. §-ban szabályozott nyilvántartás adatot tartalmaz, a személyére vonatkozó adatok tekintetében a betekintési, a helyesbítési vagy törlési jogának érvényesítése mellett kérheti a jogai gyakorlásához szükséges adatainak közlését a nyilvántartást kezelő szervtől vagy a szociális intézmény vezetőjétől.
+22. § (1) Az, akire a 18–18/B. §-ban, a 20. §-ban vagy a 20/C. §-ban szabályozott nyilvántartás adatot tartalmaz, a személyére vonatkozó adatok tekintetében a betekintési, a helyesbítési vagy törlési jogának érvényesítése mellett kérheti a jogai gyakorlásához szükséges adatainak közlését a nyilvántartást kezelő szervtől vagy a szociális intézmény vezetőjétől.
 
-23. § Ha törvény másként nem rendelkezik, a 18–18/A.,20. és 20/C. § szerinti nyilvántartásokból a szociális ellátásra való jogosultság megszűnésétől számított öt év elteltével — a szolgálati időre jogosító ellátások kivételével — törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
+(2) A 18/B. § szerinti nyilvántartás 18/B. § (2) bekezdés d) pontja szerinti adatainak megismerésére az (1) bekezdésben foglaltakon túl a Gyvt. 142. § (3) bekezdés szerinti személyek jogosultak.
+
+23. § (1) Ha törvény másként nem rendelkezik, a 18–18/B. §, a 20. § vagy a 20/C. § szerinti nyilvántartásokból a szociális ellátásra való jogosultság megszűnésétől számított öt év elteltével – a szolgálati időre jogosító ellátások kivételével – törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
+
+(2) A 18/B. § szerinti nyilvántartásból az adatokat a Kormány által kijelölt szerv törli. A 18/B. § (2) bekezdés d) pontja szerinti adatkör tekintetében a Gyvt. 142. § (1) bekezdése szerint törölhetők az adatok.
 
 24. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat természetes személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
 
@@ -2902,7 +2956,8 @@ kaphatnak.
 - v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
 - w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat;
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
-- y) a 32/D. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését.
+- y) a 32/D. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
+- z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szerv kijelölését.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -3040,6 +3095,14 @@ formájában lehet létrehozni.
 140/R. § A települési önkormányzatnak legkésőbb 2013. december 31-éig kell megalkotnia az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályairól szóló rendeletét.
 
 140/R. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel megállapított 115. § (1) bekezdése alapján a 88. § (1) bekezdés a) és b) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2012. évi intézményi térítési díjjal, a 88. § (1) bekezdés c) pontja szerinti intézmények 2013. évi intézményi térítési díja megegyezik a 2011. évi intézményi térítési díjjal. A fenntartó az intézményi térítési díjat a 2012. évi fogyasztói árnövekedésnek megfelelő mértékben korrigálhatja.
+
+140/T. § (1) Az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 18–19. §, 22. § és 23. § rendelkezéseit – a (2)–(4) bekezdésben foglalt kivétellel – a 2013. december 15-ét követően indult ügyekben kell alkalmazni.
+
+(2) A 2013. november 15-ig meghozott döntés alapján jogerősen megállapított, és az adatrögzítés időpontjáig meg nem szüntetett aktív korúak ellátására, időskorúak járadékára, ápolási díjra, lakásfenntartási támogatásra, valamint közgyógyellátásra vonatkozó, az Szt. 18/B. § (2) bekezdés a)–c) pontja szerinti adatokat – a (4) bekezdés szerinti eltéréssel –2013. december 15-ig kell rögzíteni a 18/B. § szerinti nyilvántartásba.
+
+(3) A 2013. december 16-át megelőzően indult olyan ügyekben, amelyek nem esnek a (2) bekezdés hatálya alá, az adatrögzítést a döntés meghozatalát követő tíz napon belül kell elvégezni.
+
+(4) A (2) és (3) bekezdés alapján történő adatrögzítések során rögzített ellátásokkal kapcsolatos, az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 18. § és 18/A. § szerinti azon adatokat, amelyeket az Szt. 2013. november 14-én hatályos 18. § és 18/A. §-a szerint az eljáró hatóság nem tartott nyilván, az ellátás 2013. december 15-ét követő felülvizsgálata során kell beszerezni és az országos nyilvántartásba, valamint a 18. § és 18/A. § szerinti nyilvántartásokba feltölteni. A közgyógyellátás és a lakásfenntartási támogatás vonatkozásában a (2) és (3) bekezdés szerint rögzített jogosultság időtartama alatt a hiányzó adatokat nem kell beszerezni.
 
 ### Az Európai Unió jogának való megfelelés
 
