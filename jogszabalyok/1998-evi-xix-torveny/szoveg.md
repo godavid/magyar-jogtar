@@ -1546,14 +1546,17 @@ az előzetes letartóztatás indokoltságát felülvizsgálja.
 
 (2) A vádirat benyújtása után elrendelt vagy fenntartott előzetes letartóztatás indokoltságát az (1) bekezdés b) pontjában meghatározott határidőt követően a másodfokú bíróság, ha az eljárás a harmadfokú bíróság előtt folyik, a harmadfokú bíróság legalább hat havonta felülvizsgálja.
 
+(2a) Az (1) és (2) bekezdésben foglaltak szerinti felülvizsgálatnak az eljárás felfüggesztése (266. §) nem akadálya.
+
 (3) Az előzetes letartóztatás megszűnik,
 
 - a) ha annak tartama az egy évet eléri, és a terhelttel szemben három évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban eljárás,
 - b) ha annak tartama a két évet eléri, és a terhelttel szemben öt évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban eljárás,
-- c) ha annak tartama a négy évet eléri, és a terhelttel szemben tizenöt évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban eljárás,
-- d) ha annak tartama – az a)–c) pont alá nem tartozó esetekben – a három évet eléri,
+- c) ha annak tartama – az a)–b) pont alá nem tartozó esetekben – a három évet eléri,
 
 kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott előzetes letartóztatás esetét, továbbá ha az ügyben harmadfokú bírósági eljárás vagy hatályon kívül helyezés folytán megismételt eljárás van folyamatban.
+
+(3a) A (3) bekezdés c) pontjában meghatározott esetben sem szűnik meg az előzetes letartóztatás, ha a vádlottal szemben tizenöt évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban eljárás.
 
 (4) Ha a terhelt az előzetes letartóztatás (3) bekezdés szerinti megszűnését követően elrendelt lakhelyelhagyási tilalom, illetve házi őrizet szabályait megszegi, az előzetes letartóztatása ismét elrendelhető. A lakhelyelhagyási tilalom, illetve a házi őrizet szabályai megszegésének minősül az is, ha a terhelt a mozgását nyomon követő technikai eszköz működését akadályozza. Ebben az esetben az előzetes letartóztatás (3) bekezdés szerinti tartamát az előzetes letartóztatás ismételt elrendelésének napjától kell számítani.
 

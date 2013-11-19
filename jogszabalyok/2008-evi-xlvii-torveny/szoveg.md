@@ -420,7 +420,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 #### Tisztességtelen kereskedelmi gyakorlatok
 
 - 1. Annak valótlan állítása, hogy a vállalkozás magatartási kódex aláírója.
-- 2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság vagy közigazgatási jogkör gyakorlására feljogosított szerv jóváhagyta.
+- 2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy egyéb szervezet jóváhagyta.
 - 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
 - 4. Annak valótlan állítása – akár önmagában az árunak a kereskedelmi kommunikációban való megjelenítése által –, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
 - 5. Áru meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő árut a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).

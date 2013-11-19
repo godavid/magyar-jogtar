@@ -817,7 +817,7 @@ kell helyezni.
 - j) az adókötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében, valamint a pénztári befizetések kedvezménye tekintetében eljáró adóhatósággal,
 - k) a Gazdasági Versenyhivatallal,
 - l) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
-- m) alapvető jogok biztosával, valamint pénzügyi jogok biztosával,
+- m) alapvető jogok biztosával
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
