@@ -1170,7 +1170,8 @@ jogsértés esetén nem mérsékelhető.
 - b) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter, hogy
   - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
   - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
-  - bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat
+  - bc) a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
+  - bd) a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a közszolgáltatók által alkalmazható számlaképet
 
 rendeletben állapítsa meg.
 

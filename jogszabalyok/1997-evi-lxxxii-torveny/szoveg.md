@@ -1460,7 +1460,7 @@ részére.
 - l) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
 - n) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
-- o) alapvető jogok biztosával, valamint pénzügyi jogok biztosával,
+- o) alapvető jogok biztosával
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 

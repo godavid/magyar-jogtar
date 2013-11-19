@@ -1876,8 +1876,10 @@ szemben.
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
-- j) a feladatkörében eljáró országgyűlési biztossal, valamint pénzügyi jogok biztosával,
-- k) a Nemzeti Adatvédelmi és Információszabadság Hatósággal szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megkeresése esetén.
+- j) a feladatkörében eljáró országgyűlési biztossal, valamint
+- k) a Nemzeti Adatvédelmi és Információszabadság Hatósággal
+
+szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megkeresése esetén.
 
 (4) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
 

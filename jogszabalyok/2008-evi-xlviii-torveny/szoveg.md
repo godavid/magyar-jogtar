@@ -151,7 +151,7 @@ vonatkoznak.
 - a) sajtótermék első borítólapjának külső oldalán, illetve – honlap esetén – a nyitó oldalon,
 - b) színházban vagy moziban 20 óra előtt, illetve gyermek-, illetve fiatalkorúak számára készült műsorszámot közvetlenül megelőzően, annak teljes időtartama alatt és közvetlenül azt követően,
 - c) egyértelműen játék céljára szánt terméken és annak csomagolásán, és
-- d) közoktatási és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
+- d) köznevelési és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
 
 19. § (1) Tilos a dohánytermék reklámja.
 
