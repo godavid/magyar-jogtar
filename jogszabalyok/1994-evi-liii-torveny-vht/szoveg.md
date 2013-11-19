@@ -183,7 +183,7 @@ a bírósági végrehajtásról
 
 (3) A bíróság akkor látja el végrehajtási záradékkal a fizetési felszólítást vagy egyezséget, ha az (1) és (2) bekezdésben foglalt feltételeket a munkáltató igazolta.
 
-23/A. § (1) Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes járásbíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
+23/A. § (1) Az ügyben eljárt, a fogyasztóvédelemről szóló törvény szerinti békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes járásbíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
 
 (2) Az (1) bekezdéstől eltérően a Magyar Nemzeti Bankról szóló törvényben foglalt pénzügyi fogyasztói jogvita esetén a fogyasztó lakóhelye szerint illetékes járásbíróság látja el a Pénzügyi Békéltető Testület kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget végrehajtási záradékkal.
 

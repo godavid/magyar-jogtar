@@ -12,13 +12,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 1. § (1) E törvény hatálya – a (2) bekezdésben meghatározott eltéréssel – a vállalkozások azon tevékenységére terjed ki, amely a fogyasztókat érinti vagy érintheti.
 
-(2) E törvény hatálya – a 41–43. § és az 56. § kivételével – nem terjed ki a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) által felügyelt tevékenységet folytató szervezeteknek, személyeknek MNB által felügyelt tevékenységére (a továbbiakban: pénzügyi szolgáltatási tevékenység).
+(2) E törvény hatálya nem terjed ki a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) által felügyelt tevékenységet folytató szervezeteknek, személyeknek MNB által felügyelt tevékenységére (a továbbiakban: pénzügyi szolgáltatási tevékenység).
 
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában:
 
-- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki, illetve amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje; ettől eltérően a pénzügyi jogok biztosára vonatkozó szabályok alkalmazásában a pénzügyi szervezet szolgáltatásait igénybe vevő természetes személy – ideértve az egyéni vállalkozót is – és mikrovállalkozás,
+- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki, illetve amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
 - b) vállalkozás: aki az 1. § szerinti tevékenységet önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében végzi,
 - c) gyártó:
   - ca) a terméknek az Európai Gazdasági Térségben letelepedett üzletszerű előállítója, termelője, helyreállítója vagy felújítója, illetve aki a terméken elhelyezett nevével, védjegyével vagy egyéb megkülönböztető jelzés alkalmazásával önmagát a termék gyártójaként tünteti fel; vagy
@@ -185,7 +185,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### Békéltető testület
 
-18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokról és kötelezettségekről.
+18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
 
 (2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) mellett működő független testület.
 
@@ -524,7 +524,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) Ha a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető jogszabályi rendelkezések megsértése miatti eljárás bíróság hatáskörébe tartozik, az (1) bekezdés szerint keresetindítási jog illeti meg az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
-(3) Az (1)–(2) bekezdés szerinti szervezetek által indított keresetekre a 38. § (3)–(7) bekezdése megfelelően alkalmazandó. Az (1)–(2) bekezdés szerint keresetindításra jogosultak keresetükben a következőket is követelhetik:
+(3) Az (1)–(2) bekezdés szerinti szervezetek által indított keresetekre a 38. § (2)–(6) bekezdése megfelelően alkalmazandó. Az (1)–(2) bekezdés szerint keresetindításra jogosultak keresetükben a következőket is követelhetik:
 
 - a) a jogsértés abbahagyását és a jogsértő eltiltását a további jogsértéstől,
 - b) a sérelmes helyzet megszüntetését és a jogsértést megelőző állapot helyreállítását.
@@ -550,46 +550,11 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) A koncepcióban foglaltakat a gazdaságpolitikai döntések kialakítása, továbbá a nemzetgazdaság bármely ágában megvalósuló végrehajtási tevékenység során érvényre kell juttatni.
 
-41. § (1) A pénzügyi szolgáltatási tevékenységgel kapcsolatos fogyasztói jogok érvényesülésének elősegítése és a pénzügyi kultúra fejlesztése érdekében pénzügyi jogok biztosa tevékenykedik.
+41–42. §
 
-(2) A fogyasztónak joga van a pénzügyi jogok biztosához fordulni.
+42/A. §
 
-42. § (1) A pénzügyi jogok biztosát a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter nevezi ki határozatlan időre, menti fel és gyakorolja felette a munkáltatói jogokat.
-
-(2) A pénzügyi jogok biztosának a megbízása megszűnik:
-
-- a) a lemondásával,
-- b) a felmentésével,
-- c) ha a kinevezéséhez szükséges feltételek már nem állnak fenn,
-- d) az összeférhetetlenségének kimondásával,
-- e) a tisztségétől való megfosztással,
-- f) halálával.
-
-(3) A pénzügyi jogok biztosa 30 napos határidővel lemondhat hivataláról. A lemondását írásban kell közölnie a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel.
-
-(4) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter a pénzügyi jogok biztosát felmenti, ha neki fel nem róható okból 90 napon túlmenően nem képes megbízatásából eredő kötelezettségeinek eleget tenni.
-
-(5) A pénzügyi jogok biztosa összeférhetetlenségét a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter akkor állapítja meg, ha a pénzügyi jogok biztosa megsérti a (6) bekezdésben és a 42/A. § (3) bekezdésben foglaltakat.
-
-(6) A pénzügyi jogok biztosa megbízatása összeegyeztethetetlen minden más állami, önkormányzati, társadalmi és politikai tisztséggel vagy megbízatással. A pénzügyi jogok biztosa más keresőtevékenységet nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, valamint lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
-
-(7) A pénzügyi jogok biztosa vagyonnyilatkozat-tételre kötelezett.
-
-(8) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter megfosztja tisztségétől a pénzügyi jogok biztosát, ha az neki felróható okból 90 napon túlmenően nem tesz eleget megbízatásából eredő kötelezettségeinek, vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közöl.
-
-(9) A pénzügyi jogok biztosára a miniszteri biztosra vonatkozó szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
-
-42/A. § (1) Feladatai végrehajtása során a pénzügyi jogok biztosa független, nem kérhet és nem fogadhat el utasítást a Kormánytól, a Kormány tagjaitól, más államigazgatási szervtől, az Európai Unió intézményeitől, szerveitől és hivatalaitól, a tagállamok kormányaitól vagy bármilyen más szervezettől.
-
-(2) A pénzügyi jogok biztosa nem járhat el olyan ügyben, amelyben tőle pártatlan magatartás tanúsítása nem elvárható. A pénzügyi jogok biztosa köteles ezt a körülményt haladéktalanul írásban jelezni a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszternek, egyidejűleg a fogyasztói beadványt továbbítani az alapvető jogok biztosának, a Pénzügyi Békéltető Testületnek vagy más, hatáskörrel és illetékességgel rendelkező szervnek.
-
-(3) A pénzügyi jogok biztosa nem létesíthet tagsági viszonyt pénzügyi szervezettel. Nem jelenti e tilalom sérelmét, ha a pénzügyi jogok biztosa önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, szövetkezeti hitelintézet vagy biztosító egyesület tagja. A pénzügyi jogok biztosa öröklés kivételével értékpapírt – kivéve állampapírt, letéti jegyet, kollektív befektetési értékpapírt, jelzáloglevelet – vagy egyéb, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 6. §-a szerinti pénzügyi eszközt nem szerezhet. A kinevezése előtt, illetve öröklés útján szerzett értékpapírt, pénzügyi eszközt a pénzügyi jogok biztosa a kinevezésétől, szerzéstől számított három hónapon belül köteles elidegeníteni.
-
-(4) Pénzügyi jogok biztosának olyan, az országgyűlési képviselők választásán választható, 35. életévét betöltött felsőfokú végzettséggel rendelkező magyar állampolgár nevezhető ki, aki a pénzügyi ismeretek és kultúra terjesztésének területén kiemelkedő elméleti tudással vagy szakmai gyakorlattal és pénzügyi termékek fogyasztóinak állampolgári jogait érintő eljárások lefolytatásában, felügyeletében vagy tudományos elméletében jelentős tapasztalatokkal rendelkezik.
-
-(5) Nem lehet a pénzügyi jogok biztosa az, aki kinevezésének időpontját megelőző négy évben országgyűlési képviselő, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, önkormányzati képviselő, polgármester, alpolgármester, nemzetiségi önkormányzat tagja, jegyző, a Magyar Honvédség hivatásos állományú tagja, a rendvédelmi szervek és rendvédelmi feladatot ellátó szervek hivatásos állományú tagja, párt tisztségviselője vagy alkalmazottja volt.
-
-43. § A pénzügyi jogok biztosát működése során a Pénzügyi Jogok Biztosa Hivatala segíti, amelyet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter a minisztérium szervezeti egységeként működtet.
+43. §
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
@@ -692,7 +657,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
-(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg. A fogyasztóvédelmi hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
+(3) Jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
 
 (4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
 
@@ -855,13 +820,13 @@ terjedhet.
 - i) a békéltető testületi tagok kijelölésére,
 - j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 - k) az Európai Fogyasztói Központok Hálózatában való részvételre,
-- l) a fogyasztói csoportok szervezésére és működésére, valamint a fogyasztói csoportokkal kapcsolatos fogyasztóvédelmi hatósági feladatok ellátását végző szerv kijelölésére, annak feladat- és hatáskörére,
+- l) a 2012. január 1-je előtt létrehozott fogyasztói csoportok bejelentésére, működésére, a fogyasztói csoportot működtető vállalkozás által ellátandó feladatokra, az általa teljesítendő adatszolgáltatásra, a fogyasztók befizetéseinek kezelésére, a fogyasztókkal való elszámolásra és a szerződés megszüntetésére
 
 vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
-56. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a pénzügyi jogok biztosa eljárásának, a Pénzügyi Jogok Biztosa Hivatalának feladatai és működésének részletes szabályait rendeletben állapítsa meg.
+56. §
 
 56/A. § (1)
 
@@ -875,7 +840,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (2) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.
 
-56/C. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter az egyes törvényeknek a pénzügyi jogok biztosával összefüggő módosításáról szóló 2012. évi CLXXXVI. törvény hatálybalépését követő 30 napon belül kinevezi a pénzügyi jogok biztosát.
+56/C. §
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -883,7 +848,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 - a)
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
-- c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (7) bekezdése, a 39. § (2) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
+- c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d)
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
 - f)–h)
@@ -894,4 +859,4 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
 
-(3) A 18. § (3) bekezdése és a 38–38/C. § a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 11. és 12. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)
