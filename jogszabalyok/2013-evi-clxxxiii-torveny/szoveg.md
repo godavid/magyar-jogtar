@@ -2,11 +2,7 @@
 
 egyes törvények fogyasztóvédelmi célú módosításáról
 
-1. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki, illetve amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,”
+1. §
 
 2. §
 
@@ -16,21 +12,13 @@ egyes törvények fogyasztóvédelmi célú módosításáról
 
 5–9. §
 
-10. § (1) Az Fgytv. 47. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.”
+10. § (1)
 
 (2)
 
 11–12. §
 
-13. § Az Fgytv. 55. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„l) a 2012. január 1-je előtt létrehozott fogyasztói csoportok bejelentésére, működésére, a fogyasztói csoportot működtető vállalkozás által ellátandó feladatokra, az általa teljesítendő adatszolgáltatásra, a fogyasztók befizetéseinek kezelésére, a fogyasztókkal való elszámolásra és a szerződés megszüntetésére”
-
-(vonatkozó részletes szabályokat rendelettel meghatározza.)
+13. §
 
 14. § (1)
 
@@ -48,58 +36,29 @@ egyes törvények fogyasztóvédelmi célú módosításáról
 
 17–19. §
 
-20. § A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés b) pontja a következő bd) alponttal egészül ki:
-
-(Felhatalmazást kap:
-
-a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszter, hogy)
-
-„bd) a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben a közszolgáltatók által alkalmazható számlaképet”
-
-(rendeletben állapítsa meg.)
+20. §
 
 21. §
 
 22. § (1) Az Fgytv.
 
-- a) 18. § (1) bekezdésében a „fogyasztót megillető jogokról és kötelezettségekről” szövegrész helyébe a „fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban” szöveg,
-- b) 39. § (3) bekezdésében a „38. § (3)–(7) bekezdése” szövegrész helyébe a „38. § (2)–(6) bekezdése” szöveg,
+- a)–b)
 - c)
-- d) 57. § (1) bekezdés c) pontjában a „38. § (7) bekezdése” szövegrész helyébe a „38. § (6) és (8) bekezdése” szöveg, a „39. § (2) bekezdése” szövegrész helyébe a „39. § (2) és (3) bekezdése” szöveg
+- d)
 
 lép.
 
-(2) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 23/A. § (1) bekezdésében a „fogyasztóvédelmi békéltető testület” szövegrész helyébe a „ , a fogyasztóvédelemről szóló törvény szerinti békéltető testület” szöveg, a „tanács kötelező határozatát” szövegrész helyébe a „békéltető testület kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget” szöveg lép.
+(2)
 
 (3)
 
-(4) A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény Melléklete 2. pontjában a „hatóság vagy közigazgatási jogkör gyakorlására feljogosított szerv” szövegrész helyébe a „hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy egyéb szervezet” szöveg lép.
+(4)–(7)
 
-(5) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 18. § (2) bekezdés d) pontjában a „közoktatási és egészségügyi intézményben” szövegrész helyébe a „köznevelési és egészségügyi intézményben” szöveg lép.
-
-(6) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 2. § (1) bekezdésében az „az oktatási jogok biztosa, valamint a pénzügyi jogok biztosa” szövegrész helyébe a „valamint az oktatási jogok biztosa” szöveg lép.
-
-(7) A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés b) pont bc) alpontjában a „részletes szabályokat” szövegrész helyébe a „részletes szabályokat,” szöveg lép.
-
-23. § (1) Hatályát veszti az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 40/B. § (1) bekezdés m) pontjában a „ , valamint pénzügyi jogok biztosával,” szövegrész.
-
-(2) Hatályát veszti a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdés k) pontjában a „ , valamint pénzügyi jogok biztosával” szövegrész.
-
-(3) Hatályát veszti a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 79. § (1) bekezdés o) pontjában a „ , valamint pénzügyi jogok biztosával,” szövegrész.
-
-(4) Hatályát veszti az Fgytv. 1. § (2) bekezdésében az „– a 41–43. § és az 56. § kivételével –” szövegrész.
-
-(5) Hatályát veszti az Fgytv. 41–43. §-a, 56. §-a, 56/C. §-a és 57. § (3) bekezdése.
+23. § (1)–(5)
 
 (6)
 
-(7) Hatályát veszti a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 157. § (1) bekezdés q) pontjában a „ , valamint pénzügyi jogok biztosával” szövegrész.
-
-(8) Hatályát veszti a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 118. § (3) bekezdés j) pontjában a „pénzügyi jogok biztosával,” szövegrész.
-
-(9) Hatályát veszti a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény 149. § (3) bekezdés j) pontjában a „pénzügyi jogok biztosával,” szövegrész.
-
-(10) Hatályát veszti a Pénzügyi Jogok Biztosáról szóló 39/2012. (XII. 20.) NGM rendelet.
+(7)–(10)
 
 24. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő ötödik napon lép hatályba.
 
