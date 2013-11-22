@@ -1407,7 +1407,7 @@ foglalt árat köteles megfizetni.
 - b) kötelezi az engedélyest a rendelkezések megsértésével elért többletbevétel – a többletbevétel realizálása és visszatérítése közötti időszakra vonatkozóan a jegybanki alapkamat tárgyévi éves átlagával megnövelt – összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
 - c) bírságot szabhat ki.
 
-104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj, a csatlakozási díj és az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik, amelynek kezdő időpontja január 1-je. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez, amelynek eredményéről tájékoztatja az érintett engedélyeseket.
+104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj, a csatlakozási díj és az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez, amelynek eredményéről tájékoztatja az érintett engedélyeseket.
 
 (2) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter
 
@@ -1416,7 +1416,7 @@ foglalt árat köteles megfizetni.
 - c) a külön díj esetében a 106. §, és
 - d) az egyetemes szolgáltatás árának esetében a 107. § (3) bekezdése szerinti rendeletben állapítja meg.
 
-(3) A Hivatal a költség-felülvizsgálat megindulására vonatkozó tájékoztatását a következő árszabályozási ciklus kezdetét megelőző év május 15-éig a honlapján nyilvánosságra hozza. A Hivatal az (1) bekezdésben meghatározott díj vagy ár megállapításának részletes keretszabályaira vonatkozó javaslatát a következő árszabályozási ciklus kezdetét megelőző év augusztus 31-ig a honlapján nyilvánosságra hozza, és ezzel egyidejűleg kezdeményezi a miniszternél rendelettel történő kihirdetését.
+(3) A Hivatal az (1) bekezdésben meghatározott díj vagy ár megállapításának szabályaira vonatkozó javaslatát a következő árszabályozási ciklus kezdete előtt legalább 4 hónappal a honlapján nyilvánosságra hozza, és ezzel egyidejűleg kezdeményezi a miniszternél rendelettel történő kihirdetését.
 
 105. § (1) Az együttműködő földgázrendszer használatért a földgáz rendszerhasználati díjak megállapításáról szóló rendeletben meghatározottak szerint
 
@@ -2336,7 +2336,8 @@ tartalmazza.
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 - 1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
-- 2. a csatlakozási díjakat és alkalmazásuk szabályait.
+- 2. a csatlakozási díjakat és alkalmazásuk szabályait,
+- 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -2624,6 +2625,14 @@ részére.
 (9) Az (5) bekezdés szerinti PB-gáz forgalmazó és PB-gáz kiskereskedő az (5) bekezdésben foglaltakról köteles tájékoztatást nyújtani a 108/A. § (6) bekezdésben előírtak szerint.
 
 (10) A (8) és a (9) bekezdés szerinti rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
+
+146/H. § (1) Az a PB-gáz forgalmazó, aki a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak 2013. december 31-ig bejelentette, a 146/G. § (6) bekezdése szerinti adatszolgáltatási kötelezettségének 2014. január 15-ig tesz eleget.
+
+(2) Az (1) bekezdés alapján meghatározott átlagárakat a Hivatal a honlapján 2014. március 1-ig közzéteszi. A közzétett árakat a közzétételt követő naptól kell alkalmazni.
+
+(3) Ha az a PB-gáz forgalmazó, aki a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak bejelentette, az (1) bekezdés szerinti adatszolgáltatás részét képező árakat külföldi devizanemben adja meg, az átlagárak számításakor a Hivatal a Magyar Nemzeti Bank által meghirdetett, 2012. január 1. és 2012. december 31. között irányadó hivatalos devizaárfolyamok átlagát alkalmazza.
+
+146/I. § A Hivatal elnöke által kiadott rendeletben meghatározott, 104/A. § szerinti árszabályozási ciklus kezdőidőpontjáig az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény hatálybalépésekor folyamatban lévő árszabályozási ciklus meghosszabbodik.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
