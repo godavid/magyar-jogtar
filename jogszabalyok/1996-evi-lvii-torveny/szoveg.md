@@ -187,6 +187,8 @@ vonatkozik.
 - d) pénzügyi műveletek nettó nyeresége,
 - e) egyéb üzleti tevékenységből származó bevétel.
 
+24/A. § A Kormány a vállalkozások összefonódását közérdekből – így különösen a munkahelyek megőrzése, az ellátás biztonsága érdekében – nemzetstratégiai jelentőségűnek minősítheti. Az ilyen összefonódáshoz nem kell a Gazdasági Versenyhivatal 24. § szerinti engedélyét kérni.
+
 25. § Nem minősül összefonódásnak a biztosítóintézet, a hitelintézet, a pénzügyi holding társaság, a vegyes tevékenységű holding társaság, a befektetési társaság vagy a vagyonkezelő szervezet átmeneti – legfeljebb egyéves – irányítás- vagy vagyonszerzése, ha annak célja a továbbértékesítés előkészítése és irányítási jogaikat nem, vagy csak az ehhez feltétlenül szükséges mértékben gyakorolják. Ezt az időtartamot a Gazdasági Versenyhivatal kérelemre meghosszabbíthatja, ha a vállalkozás bizonyítja, hogy az elidegenítés egy éven belül nem volt lehetséges.
 
 26. § (1) Érintett vállalkozások az összefonódásban közvetlenül és közvetetten részt vevő vállalkozások.
@@ -1297,7 +1299,7 @@ végrehajtása
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.
 
-#### 97. §
+97. § Felhatalmazást kap a Kormány, hogy a vállalkozások összefonódását rendelettel közérdekből nemzetstratégiai jelentőségűnek minősítse.
 
 98. § Az agrárpiaci rendtartásról szóló 1993. évi VI. törvény 16. §-ának helyébe a következő rendelkezés lép:
 
