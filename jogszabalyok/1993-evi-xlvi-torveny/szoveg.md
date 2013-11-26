@@ -193,11 +193,35 @@ Stt.8. § (1) Statisztikai adatgyűjtéseket
 
 (6) A jogi személy, valamint a gazdasági tevékenységére vonatkozóan a gazdasági tevékenységet folytató természetes személy és jogi személyiséggel nem rendelkező szervezet statisztikai adatszolgáltatási kötelezettségének részletes szabályait, az OST állásfoglalásának figyelembevételével, kormányrendelet állapítja meg.
 
-Vhr.6. § (1) Az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kérdőívének címoldalán és az adatgyűjtést szolgáló egyéb anyagon, számítógépes adatfelvétel esetén annak kísérőjegyzékén, fel kell tüntetni az adatgyűjtő szervezet megnevezését, az adatgyűjtés végrehajtását elrendelő jogszabály számát, ''Az adatszolgáltatás kötelező! Az adatszolgáltatás statisztikai célra történik!'' szövegét, az adatgyűjtés címét, az adatszolgáltatók körét, az adatszolgáltatás gyakoriságát és határidejét és a szerv feltüntetését, amelyhez a kérdőívet továbbítani kell, ,,Az adatszolgáltatás megtagadása, valótlan adatok közlése, valamint a késedelmes adatszolgáltatás büntető, illetőleg szabálysértési eljárást von maga után!'' szöveget, az adatszolgáltatás időpontjának és az adatszolgáltató aláírásának helyét.
+Vhr.6. § (1) Az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kérdőívének címoldalán és az adatgyűjtést szolgáló egyéb anyagon fel kell tüntetni:
 
-(2) Az adatszolgáltatási kötelezettség kizárólag az (1) bekezdésben előírt kérdőíven, illetőleg az annak megfelelő kísérőjegyzékkel ellátott számítógépes adathordozón teljesíthető.
+a) az adatgyűjtő szervezet megnevezését,
 
-(3)
+b) az adatgyűjtés végrehajtását elrendelő jogszabály számát, és ennek alapján annak kötelező jellegét,
+
+c) az adatgyűjtés nyilvántartási számát,
+
+d) az adatgyűjtés címét,
+
+e) az adatszolgáltatók meghatározását,
+
+f) “Az adatszolgáltatás statisztikai célra történik!” szöveget,
+
+g) “Az adatszolgáltatás megtagadása, valótlan adatok közlése, valamint a késedelmes adatszolgáltatás közigazgatási hatósági, szabálysértési eljárást von maga után!” szöveget,
+
+h) a kapcsolódó uniós jogi aktus számát,
+
+i) az adatszolgáltatás határidejét,
+
+j) a szerv feltüntetését, amelyhez a kérdőívet továbbítani kell,
+
+k) az adatszolgáltatók azonosítóit, a kérdőívet kitöltő és jóváhagyó azonosító adatait,
+
+l) az adatszolgáltatás időpontját és
+
+m) papír alapú kérdőív esetén az adatszolgáltató aláírásának helyét.
+
+(2) Az adatszolgáltatási kötelezettség kizárólag az (1) bekezdésben előírt kérdőíven, vagy a 7/A. §-ban meghatározott módon, elektronikus úton teljesíthető.
 
 Stt.8/A. § (1) A jogi személynek, valamint a gazdasági tevékenységet folytató természetes személynek és jogi személyiséggel nem rendelkező szervezetnek statisztikai számjel kiadása céljából be kell jelentkeznie a KSH-nál. A statisztikai számjel a 6. § (2) bekezdése szerinti statisztikai azonosítóból és statisztikai csoportképző adatok kódjából áll.
 
