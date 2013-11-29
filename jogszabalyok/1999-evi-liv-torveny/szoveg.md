@@ -20,13 +20,15 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 3. § (1) A magyar együttműködő szerv a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel, az Európai Unió jogi aktusával létrehozott információs rendszerhez betekintés céljából történő hozzáférés során, valamint a két- és többoldalú nemzetközi szerződésben részes állammal folytatott együttműködése során – ha más jogszabály eltérően nem rendelkezik – a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
 
+(1a) Amennyiben az (1) bekezdés szerinti eljárás olyan késedelemmel jár, amely az együttműködés sikerét veszélyezteti, úgy a magyar együttműködő szerv közvetlenül veszi fel a kapcsolatot a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel azzal, hogy a kapcsolatfelvételről és a megkeresésről az érintett magyar együttműködő szerv 48 órán belül tájékoztatja a NEBEK-et.
+
 (2) Az INTERPOL-lal történő együttműködés során a Rendőrség a szervezet alapszabálya és működési elvei szerint folytat információcserét a tagországokkal és az INTERPOL Főtitkárságával. Az INTERPOL tagság nemzetközi kötelezettségvállalásnak minősül.
 
 (3) Az OLAF közvetlen vagy az OLAF Koordinációs Irodán keresztül történő adatigénylését, illetve az OLAF Koordinációs Iroda jelentéstételi kötelezettségének teljesítése céljából kezdeményezett adatigénylést a NEBEK az e törvényben foglaltak szerint köteles teljesíteni.
 
 (4) A NEBEK ellátja a Schengeni Információs Rendszer Kiegészítő Információinak Cseréjét Biztosító Nemzeti Hatóság (SIRENE Iroda) külön törvényben, illetőleg az Európai Unió jogi aktusában meghatározott feladatait.
 
-(5) A NEBEK a Rendőrség, valamint a Vám- és Pénzügyőrség (a továbbiakban: magyar együttműködő szerv) tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
+(5) A NEBEK a Rendőrség, valamint a Nemzeti Adó- és Vámhivatal tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
 
 4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
@@ -80,6 +82,8 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (4) A NEBEK a rendelkezésére álló adatot és információt a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet szabályai szerint elemzési célra feldolgozhatja.
 
+(5) A magyar együttműködő szerv köteles a NEBEK által készített bűnügyi elemzések és statisztikák elkészítéséhez szükséges, személyazonosításra alkalmatlan statisztikai adatokat szolgáltatni, valamint közreműködni a bűnügyi elemzések és statisztikák elkészítésében.
+
 8. § A NEBEK köteles az érintett személyt – kérelmére – a külön törvényben, az Európai Unió jogi aktusában, illetőleg nemzetközi szerződésben foglaltaknak megfelelően tájékoztatni az általa kezelt vagy továbbított adatairól, illetőleg teljesíteni a helyesbítés iránti kérelmet.
 
 9. § (1) A NEBEK köteles a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet központjába továbbított adatot a külön törvényben, az Európai Unió jogi aktusában, illetőleg nemzetközi szerződésben meghatározott határidőben felülvizsgálni és szükség esetén a törlést elrendelni, valamint jelezni a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet központjának az általa korábban továbbított adatok törlését vagy helyesbítését.
@@ -130,7 +134,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (3) E törvénynek a magyar együttműködő szerv és a Schengeni Információs Rendszer együttműködésére vonatkozó rendelkezései az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyarország számára lehetővé tevő határozatában meghatározott napon lépnek hatályba.
 
-17. § Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a NEBEK jogállását, részletes feladat- és hatáskörét.
+17. §
 
 ### Az Európai Unió jogának való megfelelés
 

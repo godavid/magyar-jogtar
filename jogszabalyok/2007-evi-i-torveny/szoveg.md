@@ -41,17 +41,17 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
   - cc) a cb) pont hatálya alá nem tartozó személy, aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, ügyvezetőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végzi tevékenységét;
 - d) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
 - e) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljeskörűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételéről szóló megállapodásban részes más állam;
-- f) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
+- f) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
 
 ### II. Fejezet — A BEUTAZÁS, VALAMINT A TARTÓZKODÁS JOGA
 
-### A beutazás, valamint a három hónapot meg nem haladó tartózkodás joga
+### A beutazás, valamint a száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodás joga
 
 3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmánnyal, lejárt érvényességű személyazonosító igazolvánnyal vagy beutazás céljából elismert egyéb okmánnyal jogosult beutazni Magyarország területére.
 
-(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy Magyarország területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal jogosult beutazni Magyarország területére.
+(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy Magyarország területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag olyan érvényes úti okmánnyal, amelynek érvényessége legalább három hónappal meghaladja a tervezett távozása időpontját és a megelőző tíz éven belül bocsátották ki, valamint – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodásra jogosító vízummal jogosult beutazni Magyarország területére.
 
-(3) Érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal családtagként jogosult beutazni Magyarország területére az a harmadik ország állampolgárságával rendelkező személy is, aki
+(3) Olyan érvényes úti okmánnyal, amelynek érvényessége legalább három hónappal meghaladja a tervezett távozása időpontját és a megelőző tíz éven belül bocsátották ki, valamint – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal családtagként jogosult beutazni Magyarország területére az a harmadik ország állampolgárságával rendelkező személy is, aki
 
 - a) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik, vagy
 - b) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.
@@ -60,21 +60,21 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (5) A beutazásra a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
 
-(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
-(7) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
+(7) A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-4. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
+4. § (1) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
-(1a) Amennyiben a három hónapot meg nem haladó tartózkodásra jogosító vízumot kérelmező a családi kapcsolatot a beutazás engedélyezése érdekében létesítette, az e törvényben, illetve e törvény végrehajtási rendeletében meghatározott kedvezmények a kérelmezőre nem alkalmazhatóak.
+(1a) Amennyiben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot kérelmező a családi kapcsolatot a beutazás engedélyezése érdekében létesítette, az e törvényben, illetve e törvény végrehajtási rendeletében meghatározott kedvezmények a kérelmezőre nem alkalmazhatóak.
 
-(2) A három hónapot meg nem haladó tartózkodásra jogosító vízum a harmadik ország állampolgárságával rendelkező családtagot többszöri beutazásra és az első beutazás napjától számított bármely hat hónapos időszakban három hónapos tartózkodásra jogosítja.
+(2) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum a harmadik ország állampolgárságával rendelkező családtagot többszöri beutazásra és az első beutazás napjától számított bármely hat hónapos időszakban három hónapos tartózkodásra jogosítja.
 
-5. § A beutazástól számított három hónapot meg nem haladó tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmány, lejárt érvényességű személyazonosító igazolvány vagy beutazás céljából elismert egyéb okmány; a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet Magyarország szociális ellátórendszerére.
+5. § A beutazástól számított kilencven napot meg nem haladó, tervezett tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, továbbá nemzetközi szerződés által meghatározott körben lejárt érvényességű úti okmány, lejárt érvényességű személyazonosító igazolvány vagy beutazás céljából elismert egyéb okmány; a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet Magyarország szociális ellátórendszerére.
 
-### A három hónapot meghaladó tartózkodás joga
+### A száznyolcvan napon belül kilencven napot meghaladó tartózkodás joga
 
-6. § (1) A három hónapot meghaladó tartózkodásra az az EGT-állampolgár jogosult,
+6. § (1) A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra az az EGT-állampolgár jogosult,
 
 - a) akinek tartózkodási célja keresőtevékenység folytatása,
 - b) aki a tartózkodás teljes időtartamára elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, és külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik, vagy
@@ -84,14 +84,14 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (3) Az (1) bekezdés c) pontjában meghatározott feltételeket teljesítő EGT-állampolgárnak a házastársa, valamint eltartott gyermeke jogosult tartózkodásra.
 
-7. § (1) A keresőtevékenységet folytató magyar állampolgárnak a családtagja jogosult a három hónapot meghaladó tartózkodásra.
+7. § (1) A keresőtevékenységet folytató magyar állampolgárnak a családtagja jogosult a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra.
 
-(2) A magyar állampolgárnak az a családtagja is jogosult a három hónapot meghaladó tartózkodásra, aki vagy akire nézve a magyar állampolgár
+(2) A magyar állampolgárnak az a családtagja is jogosult a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra, aki vagy akire nézve a magyar állampolgár
 
 - a) elegendő forrással rendelkezik ahhoz, hogy tartózkodása ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére, és
 - b) külön jogszabályban meghatározottak szerint biztosítási jogviszony keretében jogosult az egészségbiztosítási szolgáltatások igénybevételére, vagy azok fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik.
 
-(3) A kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy részére a három hónapot meghaladó tartózkodás a (2) bekezdésben megállapított feltételek hiányában is engedélyezhető.
+(3) A kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy részére a száznyolcvan napon belül kilencven napot meghaladó tartózkodás a (2) bekezdésben megállapított feltételek hiányában is engedélyezhető.
 
 8. § (1) Az eljáró hatóság engedélyezheti annak a személynek a családtagként történő tartózkodását, aki
 
@@ -186,7 +186,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 - a) a magyar állampolgár családtagja – a házastárs kivételével –, ha megszakítás nélkül legalább egy éve magyar állampolgárral családi életközösségben él,
 - b) a magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatosan fennáll.
 
-(3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére három hónapot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.
+(3) Ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, és Magyarország területére száznyolcvan napon belül kilencven napot meghaladó időre visszatér, az állandó tartózkodási jog megszerzéséhez szükséges időtartam újrakezdődik.
 
 17. § (1) Az ellenkező bizonyításáig a Magyarország területén való megszakítás nélküli tartózkodás első napja a tartózkodás 21. § szerinti bejelentésének vagy a 22. § szerinti tartózkodási kártya kiadása iránti kérelem benyújtásának napja.
 
@@ -240,9 +240,9 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 ### A harmadik ország állampolgárságával rendelkező családtag számára kiadott vízum
 
-20. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
+20. § (1) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
 
-(1a) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
+(1a) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (1b) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
 
@@ -254,15 +254,13 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (2) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során a kérelmező törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
 
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárás tárgyi költségmentes.
+(3) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadására irányuló eljárás tárgyi költségmentes.
 
-### Az EGT-állampolgár három hónapot
-
-meghaladó tartózkodásának bejelentése
+### Az EGT-állampolgár száznyolcvan napon belül kilencven napot meghaladó tartózkodásának bejelentése
 
 és a bejelentést igazoló okmány
 
-21. § (1) Az EGT-állampolgár három hónapot meghaladó tartózkodás esetén – legkésőbb a beutazástól számított kilencvenharmadik napon – köteles a tartózkodását személyes adatainak közlésével bejelenteni. A tartózkodás bejelentésekor be kell mutatni, illetve csatolni kell a tartózkodási feltételek fennállását igazoló – külön jogszabályban meghatározott – okiratokat.
+21. § (1) Az EGT-állampolgár száznyolcvan napon belül kilencven napot meghaladó tartózkodás esetén – legkésőbb a beutazástól számított kilencvenharmadik napon – köteles a tartózkodását személyes adatainak közlésével bejelenteni. A tartózkodás bejelentésekor be kell mutatni, illetve csatolni kell a tartózkodási feltételek fennállását igazoló – külön jogszabályban meghatározott – okiratokat.
 
 (2) Az e törvényben foglalt feltételek igazolása esetén a tartózkodás bejelentéséről szóló igazolást (a továbbiakban: regisztrációs igazolás) az eljáró hatóság azonnal kiállítja.
 
@@ -272,9 +270,9 @@ meghaladó tartózkodásának bejelentése
 
 ### A harmadik ország állampolgárságával
 
-rendelkező családtag három hónapot meghaladó tartózkodási jogát igazoló okmány
+rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát igazoló okmány
 
-22. § (1) A harmadik ország állampolgárságával rendelkező családtag három hónapot meghaladó tartózkodási jogát az eljáró hatóság által kiállított okmány (a továbbiakban: tartózkodási kártya) tanúsítja, amelynek kiadását legkésőbb a beutazástól vagy a tartózkodási jogot megalapozó tény keletkezésétől számított kilencvenharmadik napon kell kérelmezni. A kérelem benyújtásakor be kell mutatni, illetve csatolni kell a tartózkodási feltételek fennállását igazoló – külön jogszabályban meghatározott – okiratokat.
+22. § (1) A harmadik ország állampolgárságával rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát az eljáró hatóság által kiállított okmány (a továbbiakban: tartózkodási kártya) tanúsítja, amelynek kiadását legkésőbb a beutazástól vagy a tartózkodási jogot megalapozó tény keletkezésétől számított kilencvenharmadik napon kell kérelmezni. A kérelem benyújtásakor be kell mutatni, illetve csatolni kell a tartózkodási feltételek fennállását igazoló – külön jogszabályban meghatározott – okiratokat.
 
 (2) Az eljáró hatóság a kérelem benyújtásával egyidejűleg igazolást ad ki, amely tanúsítja a harmadik ország állampolgárságával rendelkező családtag tartózkodási jogát. A 8. § (1) bekezdés alkalmazása esetén az eljáró hatóság a kérelem benyújtásával egyidejűleg igazolást ad ki, amely tanúsítja, hogy a harmadik ország állampolgárságával rendelkező személy tartózkodási jogot igazoló okmány kiállítása iránti kérelmet nyújtott be. Az igazolást három hónapos érvényességgel kell kiállítani, amely a kérelem jogerős elbírálásáig alkalmanként legfeljebb három hónappal meghosszabbítható.
 
@@ -324,7 +322,7 @@ tartózkodási jogát igazoló okmány
 
 (4) Az EGT-állampolgár az elveszett, eltulajdonított, megsemmisült vagy lejárt úti okmánya helyett akkor köteles új úti okmányt beszerezni, ha érvényes személyazonosító igazolvánnyal nem rendelkezik.
 
-29. § A három hónapot meghaladó tartózkodási jogát gyakorló EGT-állampolgár vagy családtag a személyes adatok közlésével köteles bejelenteni
+29. § A száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát gyakorló EGT-állampolgár vagy családtag a személyes adatok közlésével köteles bejelenteni
 
 - a) a vele együtt tartózkodó családtagjának a halálát,
 - b) a névváltoztatást,
@@ -663,7 +661,7 @@ meghosszabbítása
 
 ### Felelősségi szabályok
 
-65. § (1) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, aki vagy amely gazdasági célú személyszállítási tevékenység végzésére jogosult (a továbbiakban: fuvarozó), köteles a szállítást megelőzően megbizonyosodni arról, hogy a harmadik ország állampolgárságával rendelkező családtag rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve három hónapot meg nem haladó tartózkodásra jogosító vízummal.
+65. § (1) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító természetes vagy jogi személy, jogi személyiség nélküli gazdasági társaság, aki vagy amely gazdasági célú személyszállítási tevékenység végzésére jogosult (a továbbiakban: fuvarozó), köteles a szállítást megelőzően megbizonyosodni arról, hogy a harmadik ország állampolgárságával rendelkező családtag rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
 (2) A harmadik ország állampolgárságával rendelkező családtagot légi vagy vízi úton, közúton, illetve vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan utasát hozta, vagy amely köteles őt befogadni, ha
 
@@ -717,7 +715,7 @@ meghosszabbítása
 
 (2) Az e törvényben szabályozott eljárásokban a másodfokon eljáró hatóság által hozott elsőfokú végzésekkel szemben nincs helye fellebbezésnek.
 
-73. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
+73. § (1) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az e törvényben szabályozott kérelemre indult eljárásokban a döntés közlésével felmerülő, az anyanyelv használatával kapcsolatos költségeket az eljáró hatóság viseli, az egyéb eljárási cselekmények elvégzésével felmerülő, az anyanyelv használatával kapcsolatos költséget a kérelmező viseli.
 
@@ -735,7 +733,7 @@ meghosszabbítása
 - d) a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgárok és családtagok nyilvántartása,
 - e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása,
 - f) az úti okmány, a személyazonosító igazolvány vagy a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása;
-- g) a három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
+- g) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
@@ -756,7 +754,7 @@ meghosszabbítása
 
 (2) Az (1) bekezdésben meghatározott adatokat az eljáró hatóság a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási jogát igazoló okmány kiadása iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
-76/B. § (1) Az eljáró hatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
+76/B. § (1) Az eljáró hatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
 
 - a) családi és utónév (nevek);
 - b) születési családi és utónév (nevek);
@@ -906,8 +904,8 @@ meghosszabbítása
 
 (6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
-- a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
-- b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+- a) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+- b) más schengeni állam vízumkiadó hatósága a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
 
@@ -1097,4 +1095,5 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet (22. §, 35. §, 76/A. §, 86. §)
 - e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007/EK európai parlamenti és tanácsi rendelet;
 - f) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
-- g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+- g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének
+- h) a személyek határátlépésére irányadó szabályok közösségi kódexének (továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

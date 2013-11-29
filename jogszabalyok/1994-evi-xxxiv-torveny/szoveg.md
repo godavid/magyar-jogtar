@@ -130,7 +130,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
 
-(4) Nem választható meg a testület tagjává az, aki a megválasztás időpontjában vagy az azt megelőző két évben országgyűlési képviselő, állami vezető, polgármester, párt alkalmazottja vagy tisztségviselője, illetve a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
+(4) Nem választható meg a testület tagjává az, aki a megválasztás időpontjában vagy az azt megelőző két évben állami vezető, polgármester, párt alkalmazottja vagy tisztségviselője, illetve a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
 
 (5) A Testület tagjának megbízatása a megválasztással keletkezik és hat évre szól. A Testület tagja újraválasztható.
 
@@ -1704,7 +1704,7 @@ bírálja el.
 - k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,
 - l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat,
 - m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
-- n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, továbbá feladatai ellátásának részletes szabályait.
+- n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét.
 
 (2)
 

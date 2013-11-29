@@ -26,9 +26,19 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (3) A tűzoltás és a műszaki mentés az e törvényben meghatározott kivételekkel térítésmentes.
 
-(4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.
+(4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok és az önkéntes tűzoltó egyesületek a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.
 
 3. § A hivatásos tűzoltóság, az önkormányzati és a létesítményi tűzoltóság (a továbbiakban együtt: tűzoltóság) a tűz oltása és a műszaki mentés érdekében a személyes szabadságra, a magánlakás sérthetetlenségére és a tulajdonra vonatkozó alkotmányos jogokat – az e törvényben meghatározottak szerint – olyan mértékben korlátozhatja, amely arányban áll az élet, a testi épség és anyagi javak védelmével.
+
+3/A. § (1) Az Országos Tűzvédelmi Szabályzat meghatározza az épületek, építmények létesítési és használati, valamint a tűzoltóságok beavatkozásával kapcsolatos tűzvédelmi követelményeket, az elérendő biztonsági szintet.
+
+(2) A tűzvédelmi műszaki irányelvek kidolgozásáért felelős bizottság kidolgozza az Országos Tűzvédelmi Szabályzatban meghatározott biztonsági szintnek megfelelő egyes műszaki megoldásokat, számítási módszereket tartalmazó tűzvédelmi műszaki irányelveket.
+
+(3) Az Országos Tűzvédelmi Szabályzatban meghatározott biztonsági szint elérhető
+
+- a) tűzvédelmet érintő nemzeti szabvány betartásával,
+- b) a tűzvédelmi műszaki irányelvekben kidolgozott műszaki megoldások, számítási módszerek alkalmazásával, vagy
+- c) a tűzvédelmi műszaki irányelvektől vagy a nemzeti szabványtól részben vagy teljesen eltérő megoldással, ha az azonos biztonsági szintet a tervező igazolja.
 
 ### Értelmező rendelkezések
 
@@ -48,29 +58,31 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - l) tűzvédelmi, biztonságossági követelmény: az építési termék, tűzoltó-technikai termék, tűz- vagy robbanásveszélyes készülék, gép, berendezés tűzvédelmi, biztonságossági tulajdonságát, jellemzőjét megállapító műszaki előírás;
 - m) teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja;
 - n) hivatásos tűzoltóság: tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott, önálló működési területtel rendelkező hivatásos tűzoltóság;
-- o) tűzoltóőrs (tűzőrség): a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
-- p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
+- o) katasztrófavédelmi őrs: a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
+- p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, elsődleges műveleti körzettel rendelkező önkéntes tűzoltóság;
 - q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
-- r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.
+- r) önkéntes tűzoltó egyesület: a tűzmegelőzési, valamint a tűzoltási és műszaki mentési feladatok ellátásában közreműködő vagy részt vevő olyan egyesület, amely alapszabályában ezt tevékenysége céljaként rögzítette;
 - s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése;
 - t) műszaki előírás: műszaki tartalmú alapdokumentum, mely lehet európai uniós jogi aktus, jogszabály, harmonizált, európai vagy nemzeti szabvány, európai műszaki értékelés, nemzeti műszaki értékelés, hatályos építőipari műszaki engedély vagy műszaki irányelv;
-- u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik.
+- u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény építési termékekből meghatározott céllal összeépített olyan eleme, amellyel szemben tűzvédelmi követelmény létezik;
+- v) közreműködő önkéntes tűzoltó egyesület: a vállalt tevékenységi területen tűzoltási, műszaki mentési feladatokban közreműködő egyesület;
+- w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület.
 
 ### A tűzjelzés
 
-5. § (1) Aki tüzet vagy annak közvetlen veszélyét észleli, köteles azt haladéktalanul jelezni a tűzoltóságnak, vagy ha erre nincs lehetősége, a rendőrségnek vagy a mentőszolgálatnak, illetőleg a települési önkormányzat polgármesteri hivatalának (körjegyzőségnek).
+5. § (1) Aki tüzet vagy annak közvetlen veszélyét észleli, köteles azt haladéktalanul jelezni a hívásfogadó központnak, a katasztrófavédelmi igazgatóság műveletirányító ügyeletének vagy a tűzoltóságnak (a továbbiakban: jelzésfogadó), vagy ha erre nincs lehetősége, a rendőrségnek vagy a mentőszolgálatnak, illetőleg a települési önkormányzat polgármesteri hivatalának (közös önkormányzati hivatalnak).
 
 (2) A törvény hatálya alá tartozók a tűz jelzéséhez, a segítségkéréshez híradási eszközüket kötelesek rendelkezésre bocsátani, szükség esetén járműveikkel segítséget nyújtani.
 
-(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (körjegyzőség), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani az állandó készenléti szolgálatot ellátó tűzoltósághoz.
+(3) A rendőrség, a mentőszolgálat, a polgármesteri hivatal (körjegyzőség), a hozzá beérkezett tűzjelzést köteles haladéktalanul továbbítani a jelzésfogadónak.
 
-(4) A telefonon történő tűzjelzés lehetőségét minden településről a működési terület szerinti állandó készenléti jellegű szolgálatot ellátó hivatásos tűzoltóságot, illetve önkormányzati tűzoltóságot riasztó hírközpontba biztosítani kell. A tűzjelzés telefonon történő fogadásának biztosítása, és az ezzel kapcsolatos költségek a hírközpont fenntartóját terhelik.
+(4) A telefonon történő tűzjelzés lehetőségét minden településről a jelzésfogadó részére biztosítani kell. A tűzjelzés telefonon történő fogadásának biztosítása, és az ezzel kapcsolatos költségek a jelzésfogadó fenntartóját terhelik.
 
 (5) Tűzjelzés céljára a településen mindenki által bármikor igénybe vehető nyilvános távbeszélő állomást kell üzemben tartani.
 
-(6) Az állandó készenléti jellegű szolgálatot ellátó tűzoltóságnál az ügyeleti szolgálati helyen távbeszélő és más, attól független hírközlő berendezést kell üzemeltetni. A tűz és káreset jelzésének fogadására összevont ügyelet is létesíthető.
+(6) A jelzésfogadó helyén távbeszélő és más, attól független hírközlő berendezést kell üzemeltetni. A tűz és káreset jelzésének fogadására összevont ügyelet is létesíthető.
 
-(7) A tűzjelzés és az automatikus tűzátjelzés díjtalan és más hívásokkal szemben elsőbbséget élvez.
+(7) A tűzjelzés és az automatikus tűzátjelzés díjtalan és más hívásokkal szemben elsőbbséget élvez. Az automatikus tűzátjelzés fogadásának biztosítása, és az ezzel kapcsolatos költségek a jelzésfogadó fenntartóját, a tűzátjelzéshez szükséges berendezés és átviteli út kialakításával, valamint fenntartásával kapcsolatos költségek a felügyelt létesítmény tulajdonosát terhelik.
 
 ### A tűzoltás
 
@@ -86,7 +98,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - b) magánszemélyeket a tűz oltásában és a mentési munkálatokban az életkoruk, egészségi és fizikai állapotuk alapján elvárható közreműködésre kötelezhet;
 - c) az a) alpontban nem említett jogi személyeket, valamint a magán- és jogi személyek jogi személyiséggel nem rendelkező szervezeteit a tűz oltásában és a mentési munkálatokban való közreműködésre kötelezhet;
 - d) az a)–c) pontban felsoroltak járműveit, eszközeit, felszereléseit, anyagait igénybe veheti;
-- e) elrendelheti a Riasztási és Segítségnyújtási Tervben meghatározott tűzoltóságok riasztását;
+- e) elrendelheti a Műveletirányító Tervben meghatározott tűzoltóságok riasztását;
 - f) igényelheti az e) ponton kívüli tűzoltóságok riasztását;
 - g) a karitatív szervezetek egységeinek közreműködését kérheti;
 - h) elrendelheti, hogy a tűzoltásban résztvevők – az 1. § (2) bekezdésében foglaltakra figyelemmel – magánlakásba, illetőleg jogi személyek, a magánszemélyek és a jogi személyiséggel nem rendelkező szervezetek tulajdonában, használatában, kezelésében álló területre, létesítménybe, épületbe, helyiségbe bontással is behatolhassanak.
@@ -115,6 +127,27 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (2) A tűzoltási és a műszaki mentési eszközök térítés ellenében történő igénybevétele csak a riaszthatóság megtartása mellett történhet.
 
+### Tűz elleni védekezéssel és műszaki mentéssel kapcsolatos adatkezelés
+
+10/A. § (1) A tűzjelzés fogadásakor – a tűzoltási, műszaki mentési, hatósági feladat végrehajtása érdekében – a jelzésfogadó a tudomására jutott vagy a bejelentő által közölt alábbi adatokat rögzíti:
+
+- a) a bejelentő nevét,
+- b) a bejelentő telefonszámát, ennek hiányában lakcímét,
+- c) a bejelentéskor használt telefonszámhoz tartozó előfizető nevét, címét,
+- d) a bejelentő által használt telefonállomás azonosított adatait,
+- e) a hívások rögzített tartalmát, a tűzoltási, műszaki mentési feladatot indokoló esemény helyét és jellegét,a személyi sérülés, haláleset adatait,
+- f) a műveletirányítás által szükségesnek tartott további, személyes adatnak nem minősülő információt.
+
+(2) A tűzoltóság – a tűzoltási, műszaki mentési, hatósági feladat végrehajtása érdekében – a kárhelyszínen tartózkodó, a káresemény tekintetében érdemi információval szolgálni tudó személyek alábbi adatait rögzítheti:
+
+- a) név,
+- b) lakcím,
+- c) egyéb elérhetőség.
+
+(3) Az (1)–(2) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a tűzoltóság 5 évig kezeli.
+
+(4) Az (1) és (2) bekezdés alapján nyilvántartott adat – ha törvény eltérően nem rendelkezik – más szerv részére nem továbbítható.
+
 ### II. Fejezet — A TŰZVÉDELMI HATÓSÁGI FELADATOK
 
 ### Tűzvédelmi hatósági feladatok
@@ -125,20 +158,21 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 12. § (1) Aki
 
-- a) tűzoltó készülékek karbantartása és felülvizsgálata,
-- b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
-- c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
-- d)
-- e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
-- f) tűzvédelmi szakvizsgáztatás tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tűzvédelmi hatóságnak bejelenteni. A bejelentésben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – meg kell jelölni a bejelentő természetes személyazonosító adatait.
+- a) tűzoltó készülékek karbantartásával kapcsolatos,
+- b) a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzoltó technika felülvizsgálatával, javításával összefüggő,
+- c) tűzvédelmi szakvizsgával összefüggő oktatásszervezési,
+- d) tűzvédelmi szakvizsgáztatási
+
+tevékenységet kíván folytatni, köteles az erre irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben, valamint a bejelentésköteles tűzvédelmi szolgáltatási tevékenységek megkezdésének és folytatásának részletes szabályairól szóló jogszabályban meghatározott szabályok szerint a tűzvédelmi hatóságnak bejelenteni.
 
 (2) Az (1) bekezdésben meghatározott tevékenységet csak az folytathat, aki rendelkezik a katasztrófák elleni védekezésért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (3) A tűzvédelmi hatóság az (1) bekezdés szerinti tevékenység végzésére jogosultakról nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza
 
 - a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
-- b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
-- c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.
+- b) a bejelentés előterjesztésének napját,
+- c) a szolgáltatás megkezdésének és befejezésének időpontját vagy a határozatlan időpontra vonatkozó utalást, valamint
+- d) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltó készülék karbantartó szervezet címét.
 
 (3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -152,13 +186,13 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (3) Tűz- vagy robbanásveszélyes készüléket, gépet, berendezést forgalomba hozni, forgalmazni vagy beépíteni akkor lehet, ha az rendelkezik tűzvédelmi megfelelőségi tanúsítvánnyal, amennyiben azt a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokról szóló jogszabály előírja.
 
-(4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet, amellyel szemben műszaki előírás tűzállósági vagy tűzvédelmi követelményt határoz meg, csak úgy építhető be, ha az építményszerkezet műszaki előírásban meghatározott követelményeknek való megfelelősége, az alábbi módok valamelyike szerint igazolt:
+(4) A 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezet műszaki előírásban meghatározott tűzvédelmi követelményeknek való megfelelőségét, az alábbi módok valamelyike szerint kell igazolni:
 
-- a) Magyarországon vagy az Európai Unióban akkreditált vizsgáló laboratórium által elvégzett vizsgálati jelentés vagy az ez alapján kiadott nyilatkozat,
-- b) a vonatkozó EuroCode szabványok alapján elvégzett tűzállósági vagy tűzvédelmi méretezés, a méretezésnek megfelelő kivitelezést igazoló építési napló bejegyzés, vagy
-- c) szakértői intézet vagy akkreditált vizsgáló laboratórium igazolásán alapuló építési napló bejegyzés,
-- d) a jogszabályi előírásoknak való megfelelőséget igazoló építési napló bejegyzés, amennyiben az építményszerkezet tűzvédelmi teljesítményét a jogszabály meghatározza,
-- e) jogszabályban meghatározott esetben az ott meghatározott szakértő nyilatkozata.
+- a) Magyarországon vagy az Európai Unióban akkreditált vizsgáló laboratórium által elvégzett vizsgálati jelentés vagy a vizsgáló laboratórium ez alapján kiadott nyilatkozata,
+- b) a vonatkozó Eurocode szabványok alapján elvégzett tűzállósági vagy tűzvédelmi méretezés, a méretezésnek megfelelő kivitelezést igazoló felelős műszaki vezető építési napló bejegyzése,
+- c) szakértői intézet vagy akkreditált vizsgáló laboratórium igazolása alapján a felelős műszaki vezető építési napló bejegyzése,
+- d) a jogszabályi előírásoknak való megfelelőség igazolására a felelős műszaki vezető építési napló bejegyzése, amennyiben az adott összetételű építményszerkezet tűzvédelmi teljesítményét a jogszabály vagy tűzvédelmi műszaki irányelv meghatározza,
+- e) az e törvény 47. § (2) bekezdés 26. pontja alapján kiadott miniszteri rendeletben meghatározott esetben a tűzvédelmi szakértő vagy a tűzvédelmi tervező nyilatkozata.
 
 (5) Az Európai Unió másik tagállamában vagy Törökországban az ott irányadó előírásoknak megfelelően előállított vagy forgalomba hozott, továbbá az Európai Gazdasági Térségről szóló megállapodásban részes – az előbbiektől eltérő – államban az ott irányadó előírásoknak megfelelően előállított, (1)–(3) bekezdés szerinti termékekre az Európai Közösség létrehozásáról szóló szerződésnek az áruk szabad áramlását biztosító rendelkezéseihez kapcsolódó kölcsönös elismerés alkalmazásáról szóló törvény előírásait kell alkalmazni.
 
@@ -168,7 +202,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (8) Az (1)–(3) bekezdés szerinti termék forgalomba hozatalához, forgalmazásához, beépítéséhez kiadott iratot, uniós jogi aktusokban és magyar jogszabályokban meghatározott módon vissza kell vonni, ha a termék nem felel meg az abban megállapított tulajdonságoknak, feltételeknek.
 
-13/A. § (1) A 13. § (1) és (2) bekezdésben felsorolt termékek tűzvédelmi, biztonságossági követelményeknek való megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
+13/A. § (1) A 13. § (1)–(3) bekezdésében felsorolt termékek tűzvédelmi, biztonságossági követelményeknek való megfelelősége tekintetében a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szerv (a továbbiakban: piacfelügyeleti hatóság) jár el.
 
 (2) Amennyiben a piacfelügyeleti hatóság megállapítja, hogy a rendeltetésszerűen használt 13. § (1)–(3) bekezdése szerinti termék tűzvédelmi szempontból veszélyezteti a biztonságot, megtiltja annak forgalomba hozatalát, forgalmazását, beépítését, felhasználását és piacfelügyeleti bírságot szabhat ki.
 
@@ -186,7 +220,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
-(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely tűzoltóság területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
+(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely, a tűzvizsgálati eljárás lefolytatására jogosult tűzvédelmi hatóság illetékességi területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
 
 (4) A tűzvédelmi hatóság bűncselekmény gyanúja esetén értesíti az illetékes rendőri szervet, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy katona, az illetékes katonai nyomozó hatóságot.
 
@@ -257,9 +291,9 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(5) A kivitelező köteles a tűzvédelmi dokumentációban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
+(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
-(6) A kivitelezőnek a kivitelezési eljárás befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
+(6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
 (7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
 
@@ -271,7 +305,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - b) hatósági ellenőrzés esetén annak időtartama alatt,
 - c) a tűzvédelmi tervezői nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben meghatározott adatokon túl – tartalmazza
+21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza
 
 - a) a természetes személyazonosító adatokat,
 - b) az engedély azonosító számát,
@@ -283,7 +317,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) Jogszabályban meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
 
-(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai tűzvédelmi oktatásáról és éves továbbképzéséről, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
+(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai évenkénti tűzvédelmi oktatásáról, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
 
 (4) A munkáltató azt a munkavállalót, illetőleg a munkavégzésben részt vevő családtagot, aki a tevékenységéhez szükséges tűzvédelmi ismeretekkel, illetőleg az előírt tűzvédelmi szakvizsgával nem rendelkezik, az adott tevékenységgel nem foglalkoztathatja.
 
@@ -316,10 +350,12 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - b) közvetlen utasítással irányítja a tűzoltóság egységeinek a tűzoltási és műszaki mentési feladatokban történő részvételét, az ezzel kapcsolatos felkészítést, jelentéstételt, működési területük elhagyását, továbbá rendkívüli készenléti szolgálatuk elrendelését,
 - c) kezdeményezi a hivatásos tűzoltóság létrehozását, megszüntetését,
 - d) kinevezi és felmenti a tűzoltó parancsnokot, gyakorolja a vele kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket,
-- e) kiadja a tűzoltóságok Szerelési Szabályzatát, a rendkívüli állapotban alkalmazandó Tűzoltási és Műszaki Mentési Szabályzatát, a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és szervezési kategóriába sorolását, és a tűzoltósport versenyszabályzatát,
+- e) kiadja a tűzoltóságok Szerelési Szabályzatát, a rendkívüli állapotban alkalmazandó Tűzoltási és Műszaki Mentési Szabályzatát, a tűzvédelmi műszaki irányelveket, és a tűzoltósport versenyszabályzatát,
 - f) koordinálja és ellenőrzi az önkormányzati tűzoltóságok költségvetés tervezésével kapcsolatos feladatait,
 - g) folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
-- h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.
+- h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét,
+- i) meghatározza a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és azokat a feltételeket, amelyek teljesítése esetén a beavatkozó önkéntes tűzoltó egyesület részére az önállóan végezhető tűzoltási, műszaki mentési feladatok végzésére megállapodás köthető,
+- j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást.
 
 #### 25. §
 
@@ -383,66 +419,76 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 ### Az önkéntes tűzoltó egyesület
 
-33. § (1) Az önkéntes tűzoltó egyesület a településen a tűzmegelőzési, valamint a tűzoltási és műszaki mentési feladatok ellátásában közreműködő egyesület, amely alapszabályában ezt tevékenysége céljaként rögzítette.
+33. § (1) Az önkéntes tűzoltó egyesület tűzmegelőzési, tűzoltási és műszaki mentési tevékenységben való közreműködésére vagy részvételére (a továbbiakban: szaktevékenység) e törvényt kell alkalmazni.
 
-(2) Az önkéntes tűzoltó egyesület tűzmegelőzési, tűzoltási és műszaki mentési tevékenységben való közreműködésére (a továbbiakban: szaktevékenység) e törvényt kell alkalmazni.
+(2) Az önkéntes tűzoltó egyesület szaktevékenysége során a tűzmegelőzés körében tájékoztathatja a lakosságot az időszerű tűzvédelmi feladatokról, a lakosság részére tűzvédelemmel kapcsolatos más információs tevékenységet végezhet.
 
-(3) Az önkéntes tűzoltó egyesület szaktevékenysége során a tűzmegelőzés körében tájékoztathatja a lakosságot az időszerű tűzvédelmi feladatokról, a lakosság részére tűzvédelemmel kapcsolatos más információs tevékenységet végezhet.
+33/A. § (1) A hivatásos katasztrófavédelmi szerv területi szerve és a hivatásos tűzoltóság ellenőrzi az önkéntes tűzoltó egyesület szakmai tevékenységét. Ha az ellenőrzés során hiányosságot tapasztal, az önkéntes tűzoltó egyesületet a hiányosságok pótlására hívja fel.
 
-(4) Az önkéntes tűzoltó egyesület szaktevékenysége során a tűzoltási és műszaki mentési tevékenység körében
+(2) A hivatásos katasztrófavédelmi szerv központi szerve és területi szervei az önkéntes tűzoltó egyesületek részére pályázati úton, valamint egyedi elbírálás alapján pénzbeli és nem pénzbeli juttatást biztosíthatnak.
+
+33/B. § (1) Szaktevékenységet az önkéntes tűzoltó egyesületnek csak olyan nagykorú, cselekvőképes, a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben meghatározott szakmai képesítéssel rendelkező tagja végezhet, aki életkoránál, egészségi, fizikai állapotánál fogva alkalmas és erre önként vállalt kötelezettséget.
+
+(2) A szaktevékenység végzésére vonatkozó kötelezettségvállalást teljes bizonyító erejű magánokiratba kell foglalni, és azt az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjának át kell adni, aki azt visszavonásig őrzi. A kötelezettségvállalást tartalmazó nyilatkozat bármikor, határidő nélkül visszavonható.
+
+(3) Az önkéntes tűzoltó egyesületnek a szaktevékenységet végző tagja mentesíthető részben vagy teljesen a helyi adó megfizetése alól.
+
+(4) Az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjaként azt lehet kijelölni, aki a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben előírt képesítéssel rendelkezik.
+
+(5) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagja önkéntes tűzoltó egyesületben vezető tisztséget nem tölthet be. A hivatásos állomány tagja az önkéntes tűzoltó egyesületben tagsági jogviszonyt létesíthet, amelyet köteles szolgálati elöljárójának írásban bejelenteni. Amennyiben az egyesületi tevékenysége során bármilyen jogcímen díjazásban részesül, úgy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvénynek a más keresőfoglalkozás folytatására vonatkozó szabályai szerint köteles eljárni.
+
+### A közreműködő önkéntes tűzoltó egyesület
+
+33/C. § (1) A közreműködő önkéntes tűzoltó egyesület szaktevékenysége során a tűzoltási és műszaki mentési tevékenység körében
 
 - a) az általa észlelt segélykérést továbbítja a hivatásos tűzoltósághoz vagy az önkormányzati tűzoltósághoz,
 - b) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezéséig minden tőle elvárhatót megtesz a tűz továbbterjedésének megakadályozására, a tűz oltására, a sérült vagy egyébként veszélyben lévő személyek részére történő segítségnyújtásra, a balesetek megelőzésére,
 - c) az eseményt észlelőket a helyszínen maradásra, a helyszínen tartózkodókat az általános segítségnyújtási kötelezettség körében a segítségnyújtásban való közreműködésre kérheti fel,
 - d) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezését követően a tűz oltásában, illetve a műszaki mentésben a tűzoltásvezető intézkedésének megfelelően működik közre.
 
-(5) A hivatásos katasztrófavédelmi szerv területi szerve és a hivatásos tűzoltóság ellenőrzi az önkéntes tűzoltó egyesület szakmai tevékenységét. Ha az ellenőrzés során hiányosságot tapasztal, az önkéntes tűzoltó egyesületet a hiányosságok pótlására hívja fel.
+(2) A közreműködő önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyv (a továbbiakban: Ptk.) az e törvényben foglalt eltérésekkel irányadó.
 
-33/A. (1) Szaktevékenységet az önkéntes tűzoltó egyesületnek csak olyan nagykorú, cselekvőképes, külön jogszabályban meghatározott szakmai képesítéssel rendelkező tagja végezhet, aki életkoránál, egészségi, fizikai állapotánál fogva alkalmas és erre önként vállalt kötelezettséget.
-
-(2) A szaktevékenység végzésére vonatkozó kötelezettségvállalást teljes bizonyító erejű magánokiratba kell foglalni, és azt az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjának át kell adni, aki azt visszavonásig őrzi. A kötelezettségvállalást tartalmazó nyilatkozat bármikor, határidő nélkül visszavonható.
-
-33/B. § (1) Az önkéntes tűzoltó egyesület tagjának a szaktevékenység végzésével kapcsolatos elmaradt jövedelmének és költségeinek megtérítésére az önkéntes tűzoltó egyesület alapszabálya az irányadó.
-
-(2) Az önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) e törvényben foglalt eltérésekkel irányadó.
-
-33/C. § Az önkéntes tűzoltó egyesületnek a szaktevékenységet végző tagja mentesíthető részben vagy teljesen a helyi adó megfizetése alól.
-
-33/D. § Az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjaként azt lehet kijelölni, aki a külön jogszabályban előírt képesítéssel rendelkezik.
-
-33/E. § (1) Az önkéntes tűzoltó egyesület a szaktevékenység végzésére írásban megállapodást köt a hivatásos tűzoltósággal.
+33/D. § (1) A közreműködő önkéntes tűzoltó egyesület a szaktevékenység végzésére írásban megállapodást köt a hivatásos tűzoltósággal.
 
 (2) Az együttműködési megállapodás megkötésének feltétele, hogy
 
-- a) az önkéntes tűzoltó egyesület szaktevékenységet irányító tagja a külön jogszabályban előírt képesítéssel rendelkezik, és
-- b) az egyesület működése egyébként megfelel az e törvényben meghatározott feltételeknek.
+- a) a közreműködő önkéntes tűzoltó egyesület szaktevékenységet irányító tagja a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló miniszteri rendeletben előírt képesítéssel rendelkezik, és
+- b) az közreműködő önkéntes tűzoltó egyesület működése egyébként megfelel az e törvényben meghatározott feltételeknek.
 
-(3) Együttműködési megállapodás határozatlan időre köthető, és azt az önkéntes tűzoltó egyesület az együttműködési megállapodásban meghatározott határidővel írásban indokolás nélkül felmondhatja.
+(3) Együttműködési megállapodás határozatlan időre köthető, és azt a közreműködő önkéntes tűzoltó egyesület az együttműködési megállapodásban meghatározott határidővel írásban indokolás nélkül felmondhatja.
 
 (4) A hivatásos tűzoltóság az együttműködési megállapodást írásban, azonnali hatállyal csak akkor mondhatja fel, ha
 
 - a) az együttműködési megállapodás megkötésének bármely feltétele a továbbiakban már nem áll fenn,
-- b) az önkéntes tűzoltó egyesület a jogszabályokban foglalt előírásokat ismételten vagy súlyosan megsérti.
+- b) a közreműködő önkéntes tűzoltó egyesület a jogszabályokban foglalt előírásokat ismételten vagy súlyosan megsérti.
 
 (5) Az együttműködési megállapodást bármely fél megfelelő indokolással, írásban, azonnali hatállyal felmondhatja, ha a másik fél az együttműködési megállapodásból folyó kötelezettségeit ismételten vagy súlyosan megszegi.
 
-(6) A hivatásos tűzoltóság és az önkéntes tűzoltó egyesület közötti együttműködési megállapodás megkötését, annak megszüntetését a hivatásos tűzoltóság székhelye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervének kell jelenteni.
+(6) A hivatásos tűzoltóság és a közreműködő önkéntes tűzoltó egyesület közötti együttműködési megállapodás megkötését, annak megszüntetését a hivatásos tűzoltóság székhelye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervének kell jelenteni.
 
 (7) Az együttműködési megállapodásra egyebekben a Ptk. az irányadó.
 
-33/F. § (1) Az együttműködési megállapodásban rögzíteni kell
+33/E. § (1) Az együttműködési megállapodásban rögzíteni kell
 
-- a) az önkéntes tűzoltó egyesületnek a szaktevékenység ellátására vonatkozó kötelezettségvállalását, különösen az annak érdekében vállalt szolgálati rendjét, értesíthetőségének módját, szakmai igénybevehetőségének körét, és azt, hogy az önkéntes tűzoltó egyesület a szaktevékenységet milyen földrajzi területen látja el (a továbbiakban: tevékenységi terület),
-- b) tűzoltóság részéről az önkéntes tűzoltó egyesület szaktevékenysége ellátásának elősegítésére vonatkozó kötelezettségvállalást, így különösen a szakmai továbbképzés, gyakorlat szervezését az önkéntes tűzoltó egyesület részére, az időszerű tűzvédelmi feladatokra vonatkozó, az önkéntes tűzoltó egyesület tűzmegelőzési tevékenységéhez, a lakosság tájékoztatásához szükséges adatoknak az önkéntes tűzoltó egyesület rendelkezésre bocsátásának rendjét,
-- c) az önkéntes tűzoltó egyesületet tevékenységi területén keletkezett tűzesetről, műszaki mentésről, katasztrófáról való kölcsönös értesítés rendjét.
+- a) a közreműködő önkéntes tűzoltó egyesületnek a szaktevékenység ellátására vonatkozó kötelezettségvállalását, különösen az annak érdekében vállalt szolgálati rendjét, értesíthetőségének módját, szakmai igénybevehetőségének körét, és azt, hogy a közreműködő önkéntes tűzoltó egyesület a szaktevékenységet milyen földrajzi területen látja el (a továbbiakban: tevékenységi terület),
+- b) a hivatásos tűzoltóság részéről a közreműködő önkéntes tűzoltó egyesület szaktevékenysége ellátásának elősegítésére vonatkozó kötelezettségvállalást, így különösen a szakmai továbbképzés, gyakorlat szervezését a közreműködő önkéntes tűzoltó egyesület részére, az időszerű tűzvédelmi feladatokra vonatkozó, a közreműködő önkéntes tűzoltó egyesület tűzmegelőzési tevékenységéhez, a lakosság tájékoztatásához szükséges adatoknak a közreműködő önkéntes tűzoltó egyesület rendelkezésre bocsátásának rendjét,
+- c) a közreműködő önkéntes tűzoltó egyesületet tevékenységi területén keletkezett tűzesetről, műszaki mentésről, katasztrófáról való kölcsönös értesítés rendjét.
 
-(2) Az önkéntes tűzoltó egyesület a megállapodásban vállalhatja, hogy kivételes esetben – a hivatásos tűzoltóság kérésére – tevékenységi területén kívül is végez szaktevékenységet.
+(2) A közreműködő önkéntes tűzoltó egyesület a megállapodásban vállalhatja, hogy kivételes esetben – a hivatásos tűzoltóság kérésére – tevékenységi területén kívül is végez szaktevékenységet.
 
-(3) Az önkéntes tűzoltó egyesület a szaktevékenység ellátásáért díjazást nem köthet ki.
+(3) A közreműködő önkéntes tűzoltó egyesület a szaktevékenység ellátásáért díjazást nem köthet ki.
 
-(4) A hivatásos tűzoltóság a vele megállapodást kötő tűzoltó egyesületnek támogatást nyújthat.
+(4) A hivatásos tűzoltóság a vele megállapodást kötő közreműködő tűzoltó egyesületnek támogatást nyújthat.
 
-33/G. § Az önkéntes tűzoltó egyesület a működés, a fenntartás, valamint a létesítés, a fejlesztés és felújítás költségeihez pályázatot nyújthat be a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztériumhoz.
+### A beavatkozó önkéntes tűzoltó egyesület
+
+33/F. § (1) A beavatkozó önkéntes tűzoltó egyesületre a közreműködő önkéntes tűzoltó egyesületre vonatkozó szabályokat a (2) bekezdésben és a 33/G. §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A beavatkozó önkéntes tűzoltó egyesület a hivatásos katasztrófavédelmi szerv központi szerve vezetője jóváhagyásával a hivatásos katasztrófavédelmi szerv területi szerve vezetőjével kötött megállapodás alapján – az (1) bekezdés alapján gyakorolt tevékenységen túl – a vállalt tevékenységi területen önállóan végez tűzoltási, műszaki mentési feladatokat.
+
+33/G. § (1) A beavatkozó önkéntes tűzoltó egyesülettel kötött együttműködési megállapodásban az önállóan ellátott szaktevékenység ellátásának módjáról külön kell rendelkezni.
+
+(2) A rendvédelmi szervek kártérítési felelősségéről rendelkező jogszabályokat az önállóan beavatkozó tűzoltó egyesületekre is alkalmazni kell.
 
 ### Az önkormányzati tűzoltóság
 
@@ -450,7 +496,9 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) Az önkormányzati tűzoltóság parancsnokát a hivatásos katasztrófavédelmi szerv területi szerve vezetője egyetértésével a köztestület nevezi ki.
 
-(3) Az önkormányzati tűzoltóság székhelye szerinti települési önkormányzat részére a hivatásos katasztrófavédelmi szerv központi szerve költségvetéséből erre a célra biztosított költségkeret mértékéig az általuk végzett feladattal arányos költségfedezetet biztosítja.
+(3) Az önkormányzati tűzoltóságok részére, az általuk végzett feladattal arányos költségfedezetet a katasztrófák elleni védekezésért felelős miniszter az erre a célra rendelkezésre álló költségvetési keret mértékéig biztosítja.
+
+(4) A hivatásos katasztrófavédelmi szerv központi szerve és területi szervei az önkormányzati tűzoltóság részére pályázati úton, valamint egyedi elbírálás alapján pénzbeli és nem pénzbeli juttatást biztosíthatnak.
 
 ### A létesítményi tűzoltóság
 
@@ -535,7 +583,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (4) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, és a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és balesetbiztosítást kötni.
 
-(5) Az önkormányzati tűzoltóságok létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a székhely szerinti települési önkormányzat, és az önkormányzati tűzoltóság által védett települések önkormányzatai, valamint az általuk végzett feladattal arányosan a hivatásos katasztrófavédelmi szerv központi szervén keresztül a központi költségvetés gondoskodik.
+(5) Az önkormányzati tűzoltóságok létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a székhely szerinti települési önkormányzat, és az önkormányzati tűzoltóság elsődleges műveleti körzete szerinti települések önkormányzatai, valamint az általuk végzett feladattal arányosan a központi költségvetés gondoskodik.
 
 (6) A hivatásos katasztrófavédelmi szerv, valamint az önkormányzati tűzoltóság tagjai, továbbá az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagja a külön jogszabályban előírt képesítés megszerzésére kötelezett.
 
@@ -552,6 +600,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (2) A tűzvédelmi hatóság tűzvédelmi bírságot a jogszabályban előírt tűzvédelmi kötelezettségek megsértése esetén szabhat ki.
 
 (3) A jogerősen kiszabott tűzvédelmi bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A tűzvédelmi bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
+
+(4) A tűzvédelmi bírság helyszíni bírságként is kiszabható.
 
 #### 44. §
 
@@ -572,6 +622,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - e) az országos és a megyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
 
 (6) Az (5) bekezdés a)–b) és e) pontjában említett költségvetési eszközzel a központi katasztrófavédelmi szerv, a c)–d) pontokban foglaltakkal a területi katasztrófavédelmi szerv gazdálkodik.
+
+(7) A hivatásos katasztrófavédelmi szerv központi és területi szervei a tűzmegelőzési célú tevékenységgel összefüggésben államháztartáson belüli és kívüli szervek, valamint háztartások részére reklám- és propagandacéllal kiadványokat, eszközöket biztosíthatnak, továbbá tűzmegelőzési célú, speciális készleteket és eszközöket adományozhatnak.
 
 46/A. § (1) Ha jogszabály tűzvédelmi szakterületen szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a tűzvédelmi hatóság engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
 
@@ -601,7 +653,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - a) a tűzvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a tűzvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-46/C. § (1) A 2011. december 31. napján működő önkéntes tűzoltóságok működési feltételeit a 2011. december 31. napján hatályos szabályok szerint a 34. § (1) bekezdésében foglalt feltételek teljesítéséig, de legfeljebb 2012. április 30. napjáig kell biztosítani.
+46/C. § (1)
 
 (2) A hivatásos katasztrófavédelmi szervezet kialakítása kapcsán 2012. január 1-től az önállóan működő hivatásos tűzoltóságok költségvetési előirányzatokkal, kincstári számlával nem rendelkeznek, kincstári és elemi költségvetést, továbbá elemi költségvetési beszámolót nem készítenek. A működési és fenntartatási előirányzataikat a területileg illetékes megyei hivatásos katasztrófavédelmi szervek költségvetése tartalmazza.
 
@@ -635,8 +687,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - 12. a tűzvédelmi szabályzat általános elveit,
 - 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 - 14. a tűzoltóságok által végezhető szolgáltatások körét és szabályait,
-- 15.
-- 16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
+- 15. a tűzvédelmi megfelelőségi tanúsítvány beszerzésére vonatkozó szabályokat,
+- 16. az európai uniós jogi aktusok, nemzeti, harmonizált, vagy európai szabványok által nem vagy nem teljes körűen szabályozott tűzoltó-technikai termék, építési termékek vonatkozásában a tűzvédelmi, biztonságossági követelményeket,
 - 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 - 18.
 - 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
@@ -644,7 +696,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - 23. a tűzvédelem műszaki követelményeinek megállapítását,
 - 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
-- 26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés szakértői nyilatkozattal történő igazolhatóságának eseteit és módját.
+- 26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés tűzvédelmi szakértői vagy tűzvédelmi tervezői nyilatkozattal történő igazolhatóságának eseteit és módját,
+- 27. a tűzvédelmi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat.
 
 (3)
 
