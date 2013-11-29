@@ -2017,6 +2017,11 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás részére továbbítja.
 
+(2a) Az állami foglalkoztatási szerv a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4a) bekezdés a) pontjában meghatározott kizáró ok fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni
+
+- a) a személyazonosító adatok nyilvántartásából a 151. § (2) bekezdés a) pontjában szereplő adatok közül az aa)–ae) és ag)–ah) alpontban szereplő, az érintett személyre vonatkozó adatokat,
+- b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartásából a 153. § (2) bekezdés b) pontjában szereplő, a szabálysértés megnevezésének, valamint az elkövetés helyének, idejének adatai közül az arra vonatkozó adatokat, hogy az érintett személyt a 247. § c) pontjában meghatározott szabálysértés miatt az adatátvételt megelőző három hónapon belül jogerősen elmarasztalták-e.
+
 (3) A szabálysértési nyilvántartó szerv
 
 - a) a kereskedelmi létesítményből vagy kereskedelmi tevékenység helyéül szolgáló egyéb helyszínről kitiltás hatálya alatt álló személy családi és utónevére, születési helyére és idejére, anyja születési családi és utónevére,
