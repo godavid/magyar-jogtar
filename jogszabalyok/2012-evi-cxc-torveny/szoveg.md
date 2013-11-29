@@ -13,6 +13,10 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 (2) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot a fővárosi önkormányzat kérelme alapján az ingatlan-nyilvántartásba be kell jegyezni. A bejegyzést a fővárosi önkormányzat kezdeményezi, az ingatlan-nyilvántartási eljárás díjmentes. Az érintett ingatlanok helyrajzi számait az 1. melléklet tartalmazza.
 
+1/A. § Budapest Főváros Önkormányzatának az állam tulajdonában álló, Budapest, 76500 helyrajzi számú ingatlan 116091/133627 tulajdoni hányadán (a továbbiakban: ingatlanrész) fennálló vagyonkezelői joga e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével megszűnik.
+
+1/B. § Az ingatlanrész e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével, vagyonkezelési szerződés kötése nélkül, ingyenesen a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésébe kerül.
+
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
 2. § (1)
@@ -135,7 +139,7 @@ d) a 12. § (3) bekezdése szerinti vitás ügyek rendezésének, illetve a fel�
 
 9. § E törvény
 
-- a) 1. §-a és 1. melléklete az Alaptörvény 31. cikk (3) bekezdése, továbbá 38. cikk (1) és (2) bekezdése,
+- a) 1. § (1) bekezdése és 1/B. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése,
 - b) 3. §-a, 6. §-a és 8. §-a az Alaptörvény 31. cikk (3) bekezdése
 
 alapján sarkalatosnak minősül.
@@ -147,7 +151,7 @@ alapján sarkalatosnak minősül.
 | Sorszám | Helyrajzi szám | Tulajdonos |
 | --- | --- | --- |
 | 1. | 76502 (284/170162 tulajdoni hányad) | Magyar Állam |
-| 2. | 76500 (116091/133627 tulajdoni hányad) | Magyar Állam |
+| 2. |  |  |
 | 3. | 25964/1 | Magyar Állam |
 | 4. | 25990/2 | Magyar Állam |
 | 5. | 24314 | Magyar Állam |

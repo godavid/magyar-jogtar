@@ -18,6 +18,8 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
+(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben vesz részt.
+
 (3) Közfoglalkoztató lehet:
 
 - a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
@@ -49,14 +51,14 @@ kerül sor,
 
 (4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
 
-- a) a tanköteles gyermekének mulasztása miatt vele szemben
-  - aa) szabálysértési eljárás van folyamatban, vagy
-  - ab) e szabálysértés miatt három hónapon belül jogerősen elmarasztalták, vagy
+- a) a tanköteles gyermekének mulasztása miatt
+  - aa)
+  - ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmarasztalták, vagy
 - b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti.
 
-(4b) A hivatalból folytatott közigazgatási eljáráshoz a (4a) bekezdés aa) pontjában meghatározott kizárási okról vagy annak hiányáról megkeresésre az általános szabálysértési hatóság, a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) részére.
+(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) részére.
 
-(4c) A (4a) bekezdés ab) pontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a kirendeltség adatot igényelhet a szabálysértési nyilvántartásból.
+(4c) A (4a) bekezdés ab) pontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a kirendeltség adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
 (4d) A kizárás kérdésében első fokon a kirendeltség, másodfokon a munkaügyi központ hatósági határozattal dönt.
 
@@ -131,7 +133,7 @@ vonatkozó szabályai nem alkalmazhatók,
 - b) az Mt. VI., XVII. és XVIII. fejezete nem alkalmazható,
 - c) az Mt. 49. § (2) bekezdése nem alkalmazható,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
-- e) az Mt. 58. §-át azzal az eltéréssel kell alkalmazni, hogy a szerződés módosítása nem irányulhat a közfoglalkoztatási jogviszony 12 hónapon túli meghosszabbítására, valamint a közfoglalkoztatottnak a közfoglalkoztatási szerződésben meghatározott program helyett más típusú közfoglalkoztatási támogatási programba történő áthelyezésére,
+- e)
 - f) az Mt. 59–62. §-a nem alkalmazható,
 - g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak, továbbá a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, amennyiben jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta.
 - h) az Mt. 70. §-a nem alkalmazható,

@@ -18,6 +18,12 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (8) A közérdekű szolgáltató a hulladékgazdálkodási engedélyében, illetve a hulladékgazdálkodási közszolgáltatási engedélyében meghatározott közszolgáltatási területen kívül is végezhet ideiglenes ellátásra irányuló tevékenységet.
 
+(9) Ha a (6) bekezdés szerinti közérdek érvényesítését a (3) bekezdésben meghatározott feltételekkel rendelkező szolgáltatók száma korlátozza, közérdekű szolgáltatóként az ideiglenes szolgáltatáshoz szükséges feltételek megléte esetén kijelölhető az a szolgáltató is, amelyik
+
+- a) hulladékgazdálkodási közszolgáltatási engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
+- b) hulladékgazdálkodási engedély megszerzése érdekében kérelmet nyújtott be, vagy
+- c) korábban hulladékgazdálkodási engedéllyel rendelkezett, de az engedélyének időbeli hatálya a kijelölés időpontját megelőző legfeljebb 60 napon belül szűnt meg.
+
 2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy a hulladékgazdálkodási közszolgáltatás ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
 
 3. § (1) Az állami szerv 1. § (3) bekezdése szerinti hatósági döntéséhez, továbbá a szükségellátás megszervezéséhez szükséges, a környezetvédelmi hatóság, az Országos Hulladékgazdálkodási Ügynökség, valamint a helyi önkormányzat nyilvántartásában szereplő és a rendelkezésére álló adatokat az állami szerv kérésére haladéktalanul szolgáltatja.

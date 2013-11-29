@@ -34,7 +34,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 - k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 - l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – Magyarország területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
-- m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
+- m) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély;
 - n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet;
 - o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
 - p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
@@ -55,29 +55,29 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (2) A magyar menekültügyi hatóság vagy bíróság által ideiglenes védelemben részesített harmadik országbeli állampolgárra a IV. Fejezet nemzeti letelepedési engedélyre vonatkozó, valamint az V. és X. Fejezet rendelkezéseit kell alkalmazni.
 
-### II. Fejezet — A HAT HÓNAPON BELÜL HÁROM HÓNAPOT MEG NEM HALADÓ TARTÓZKODÁS SZABÁLYAI
+### II. Fejezet — A száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodás szabályai
 
 ### Általános szabályok
 
-6. § (1) A harmadik országbeli állampolgár az első beutazástól számított hat hónapon belül három hónapot meg nem haladó (a továbbiakban: három hónapot meg nem haladó) tartózkodás céljából a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt feltételek szerint utazhat be Magyarország területére.
+6. § (1) A harmadik országbeli állampolgár az első beutazástól számított száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodás céljából a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt feltételek szerint utazhat be Magyarország területére.
 
-(2) Három hónapot meg nem haladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki teljesíti az (1) bekezdésben meghatározott feltételeket.
+(2) A kilencven napot meg nem haladó, tervezett időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki teljesíti az (1) bekezdésben meghatározott feltételeket.
 
-7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár három hónapot meg nem haladó tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.
+7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár kilencven napot meg nem haladó, tervezett tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.
 
-7/A. § A három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár, valamint az 539/2001/EK tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként Magyarország területén jogszerűen tartózkodó személy – ha e törvény eltérően nem rendelkezik – a 20. § (1) bekezdés szerinti keresőtevékenységet folytathat.
+7/A. § A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár, valamint az 539/2001/EK tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként Magyarország területén jogszerűen tartózkodó személy – ha e törvény eltérően nem rendelkezik – a 20. § (1) bekezdés szerinti keresőtevékenységet folytathat.
 
-### Három hónapot meg nem haladó tartózkodásra jogosító vízumok
+### A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumok
 
-8. § A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
+8. § A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
-9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
-(2) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
+(2) A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
+(3) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
 
-(4) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
+(4) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen fellebbezésnek van helye.
 
 (5) A fellebbezés tárgyában hozott elutasító döntéssel szemben bírósági felülvizsgálatnak van helye.
 
@@ -89,19 +89,19 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 10–11. §
 
-12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat három hónapot meg nem haladó tartózkodásra jogosító vízumot Magyarország nevében.
+12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot Magyarország nevében.
 
 (2) A vízumkiadásra feljogosított magyar diplomáciai vagy konzuli képviselet más schengeni állam nevében is kiadhat vízumot.
 
-### III. Fejezet — A HÁROM HÓNAPOT MEGHALADÓTARTÓZKODÁS SZABÁLYAI
+### III. Fejezet — A száznyolcvan napon belül kilencven napot meghaladótartózkodás szabályai
 
 ### Általános szabályok
 
-13. § (1) Három hónapot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve három hónapot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki
+13. § (1) Száznyolcvan napon belül kilencven napot meghaladó tartózkodás céljából az a harmadik országbeli állampolgár utazhat be, illetve száznyolcvan napon belül kilencven napot meghaladó időtartamig az a harmadik országbeli állampolgár tartózkodhat Magyarország területén, aki
 
 - a) rendelkezik érvényes úti okmánnyal;
 - b) rendelkezik
-  - ba) három hónapot meghaladó tartózkodásra jogosító vízummal,
+  - ba) száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízummal,
   - bb) tartózkodási engedéllyel,
   - bc) bevándorlási engedéllyel,
   - bd) letelepedési engedéllyel,
@@ -121,15 +121,15 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (3) Az a harmadik országbeli állampolgár, aki rendelkezik valamely, az (1) bekezdés b) pontjában felsorolt engedéllyel, a beutazáskor mentesül az (1) bekezdés c)–g) pontjában foglalt feltételek igazolása alól.
 
-### A három hónapot meghaladó tartózkodásra jogosító vízumok
+### A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízumok
 
-14. § (1) Három hónapot meghaladó tartózkodásra jogosító vízum:
+14. § (1) Száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum:
 
 - a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele vagy a 36. § (1) bekezdése alapján engedélyezett nemzeti letelepedési engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
-- b) szezonális munkavállalási vízum, amely egyszeri vagy többszöri beutazásra és három hónapot meghaladó, de legfeljebb hat hónapos szezonális munkavállalási célú tartózkodásra jogosít;
-- c) nemzeti vízum, amely – nemzetközi szerződés alapján – többszöri beutazásra és három hónapot meghaladó időtartamú tartózkodásra jogosít Magyarország területén.
+- b) szezonális munkavállalási vízum, amely egyszeri vagy többszöri beutazásra és száznyolcvan napon belül kilencven napot meghaladó, de legfeljebb hat hónapos szezonális munkavállalási célú tartózkodásra jogosít;
+- c) nemzeti vízum, amely – nemzetközi szerződés alapján – többszöri beutazásra és száznyolcvan napon belül kilencven napot meghaladó időtartamú tartózkodásra jogosít Magyarország területén.
 
-(2) A három hónapot meghaladó tartózkodásra jogosító vízum érvényességi ideje:
+(2) A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum érvényességi ideje:
 
 - a) az (1) bekezdés a) és b) pontjában meghatározott vízum esetén legfeljebb egy év,
 - b) az (1) bekezdés c) pontjában meghatározott vízum esetén legfeljebb öt év.
@@ -151,7 +151,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 16. § (1) Az érvényes tartózkodási vízummal vagy nemzeti vízummal rendelkező harmadik országbeli állampolgár a vízumban foglalt tartózkodási idő lejártát követően Magyarország területén történő tartózkodásra – ha e törvény másként nem rendelkezik – tartózkodási engedéllyel jogosult.
 
-(2) A tartózkodási engedély három hónapot meghaladó, de legfeljebb kettő év határozott időtartamú tartózkodásra jogosít Magyarország területén.
+(2) A tartózkodási engedély száznyolcvan napon belül kilencven napot meghaladó, de legfeljebb kettő év határozott időtartamú tartózkodásra jogosít Magyarország területén.
 
 (3) A tartózkodási engedély – ha e törvény eltérően nem rendelkezik – két évvel meghosszabbítható.
 
@@ -183,7 +183,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
 
-### A három hónapot meghaladó tartózkodásra vonatkozó különös szabályok
+### A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra vonatkozó különös szabályok
 
 19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
 
@@ -431,7 +431,7 @@ kíván Magyarország területén tartózkodni.
 
 31. § (1) Az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) hatálya alá tartozó, az I. Cikk b) pontjában meghatározott polgári állomány tagjai, valamint az I. Cikk c) pontjában meghatározott hozzátartozók (a továbbiakban: polgári személy) beutazására és tartózkodására – a III. Cikk 3. pontja szerinti státuszuk igazolása esetén – e törvény rendelkezéseit a (2)–(3) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(2) A polgári személy mentesül a három hónapot meghaladó tartózkodásra jogosító vízum beszerzésének kötelezettsége, valamint a 13. § (1) bekezdés e)–g) pontjaiban meghatározott feltételek igazolása alól.
+(2) A polgári személy mentesül a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum beszerzésének kötelezettsége, valamint a 13. § (1) bekezdés e)–g) pontjaiban meghatározott feltételek igazolása alól.
 
 (3) A polgári személlyel szemben indult büntetőeljárásról és annak befejezéséről, valamint kiutasításáról az idegenrendészeti hatóság köteles értesíteni a honvédelemért felelős miniszter által kijelölt szervet, a küldő állam tájékoztatása céljából.
 
@@ -535,7 +535,7 @@ kapott.
 
 - a) az engedélyezés alapjául szolgáló feltételek olyan jelentősen megváltoztak, hogy ez az engedély kiadását már kizárná, feltéve, hogy az engedély kiadásától számítva öt év még nem telt el;
 - b) családi kapcsolatra tekintettel kiadott engedély esetén a házasság az engedély kézhezvételétől számított három éven belül nem a házastárs halála miatt szűnt meg, vagy a harmadik országbeli állampolgár szülői felügyeleti joga megszűnt, kivéve, ha a harmadik országbeli állampolgár már négy éve letelepedettként vagy bevándoroltként Magyarország területén tartózkodik;
-- c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta.
+- c) a harmadik országbeli állampolgár Magyarország területét hat hónapnál hosszabb ideig elhagyta, kivéve, ha a nemzeti letelepedése a 35. § (1) bekezdés e) pontja alapján került engedélyezésre.
 
 (2) Az idegenrendészeti hatóság az engedélyt visszavonja, ha
 
@@ -595,7 +595,7 @@ kapott.
 
 ### A beléptetés megtagadása és a visszairányítás
 
-40. § (1) A határforgalmat ellenőrző hatóság a három hónapot meg nem haladó időtartamú tartózkodás céljából beutazni kívánó harmadik országbeli állampolgár államhatáron történő beléptetését a Schengeni határ-ellenőrzési kódex rendelkezései alapján megtagadja, és – érdekeinek figyelembevételével – visszairányítja
+40. § (1) A határforgalmat ellenőrző hatóság a kilencven napot meg nem haladó, tervezett időtartamú tartózkodás céljából beutazni kívánó harmadik országbeli állampolgár államhatáron történő beléptetését a Schengeni határ-ellenőrzési kódex rendelkezései alapján megtagadja, és – érdekeinek figyelembevételével – visszairányítja
 
 - a) annak az országnak a területére, ahonnan érkezett;
 - b) annak az országnak a területére, amely a harmadik országbeli állampolgárt visszafogadni köteles;
@@ -1100,7 +1100,7 @@ miatt utasított ki.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
-69. § (1) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve három hónapot meg nem haladó tartózkodásra jogosító vízummal.
+69. § (1) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
 (2) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton vagy vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan harmadik országbeli állampolgár utasát hozta, vagy amely köteles őt befogadni, ha
 
@@ -1153,7 +1153,7 @@ miatt utasított ki.
 
 ### A születés bejelentése
 
-74. § Ha a három hónapot meg nem haladó tartózkodásra jogosító vízummal, három hónapot meghaladó tartózkodásra jogosító vízummal, tartózkodási engedéllyel rendelkező, illetve a bevándorolt vagy letelepedett harmadik országbeli állampolgárnak Magyarország területén harmadik országbeli állampolgár gyermeke születik, ennek tényét köteles a következő adatok közlésével bejelenteni:
+74. § Ha a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal, száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízummal, tartózkodási engedéllyel rendelkező, illetve a bevándorolt vagy letelepedett harmadik országbeli állampolgárnak Magyarország területén harmadik országbeli állampolgár gyermeke születik, ennek tényét köteles a következő adatok közlésével bejelenteni:
 
 - a) a gyermek 94. §-ban meghatározott természetes személyazonosító adatai;
 - b) a gyermek úti okmányának azonosító adatai;
@@ -1473,6 +1473,8 @@ szerinti állam vonatkozásában.
 
 részére továbbíthat adatot.
 
+(1a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a szervezett bűnözés elleni koordinációs központnak az utasadatok kockázatelemzéséhez továbbíthat adatot.
+
 (2) Az (1) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
 
 (3) Az adattovábbítási nyilvántartásban szereplő adatokkal kapcsolatos tájékoztatás nemzetbiztonsági és bűnüldözési érdekből megtagadható.
@@ -1656,8 +1658,8 @@ hatályát veszti.
 
 (6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
-- a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
-- b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+- a) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+- b) más schengeni állam vízumkiadó hatósága a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
 
@@ -1716,7 +1718,8 @@ hatályát veszti.
 - f) az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 11b. cikkének (107. §);
 - g) a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet,
 - h) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet,
-- i) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének, valamint
+- i) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet 20–30. cikkének,
 - j) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének;
+- k) a személyek határátlépésére irányadó szabályok közösségi kódexének (a továbbiakban: Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
