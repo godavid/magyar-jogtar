@@ -445,7 +445,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 - c) a b) pontba nem tartozó kifizető az adót, adóelőleget hiánytalanul levonta;
 - d) tételes költségelszámolással költséget, költséghányadot (kivéve a 10 százalék költséghányadot), adóelőleg megállapítása során nem számol, nem számolt el;
 - e) az adóévben belföldi illetőségű volt;
-- f) az adóévben nem volt egyéni vállalkozó;
+- f) az adóévben nem volt egyéni vállalkozó, vagy az egyéni vállalkozói tevékenységét az adóév egészében szüneteltette;
 - g) mezőgazdasági őstermelőként nem köteles adóbevallás, nemleges nyilatkozat benyújtására;
 - h) az adóévben nem választotta fizető-vendéglátó tevékenységére a tételes átalányadózást;
 - i) az adóévben nem szerzett olyan jövedelmet, amely után az adót a magánszemélynek az adóbevallásban kell megállapítania, így különösen nem szerzett ingatlan, vagyoni értékű jog átruházásából származó vagy ellenőrzött tőkepiaci ügyletből származó jövedelmet;
@@ -481,7 +481,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 - a) kizárólag olyan bevallásköteles bevételt szerzett, amelyből kifizető (munkáltató) adót/adóelőleget vont le, és/vagy
 - b) ingó vagyontárgy, ingatlan, vagyoni értékű jog átruházásából származó jövedelem miatt van adókötelezettsége, továbbá
-- c) nem volt egyéni vállalkozó, és
+- c) nem volt egyéni vállalkozó, vagy az egyéni vállalkozói tevékenységét az adóév egészében szüneteltette, és
 - d) mezőgazdasági őstermelői tevékenységéből adóköteles bevétele nem származott, és
 - e) a b) pontban említett eset kivételével, nem a 13. § rendelkezései szerinti (adóhatósági közreműködés nélküli) bevallást köteles benyújtani
 
@@ -491,7 +491,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 
 13. § (1) A magánszemély az adóhatóság közreműködése nélkül elkészített bevallást nyújt be, ha az adóévben
 
-- a) egyéni vállalkozó volt;
+- a) egyéni vállalkozó volt, kivéve, ha az adóév egészében szüneteltette a vállalkozói tevékenységét;
 - b) mezőgazdasági őstermelő volt, és e tevékenységéből adóköteles bevétele származott, kivéve, ha jövedelméről egyszerűsített bevallásban, munkáltatói elszámolásban nemleges nyilatkozatot adott vagy egyébként a bevételből nem kellett jövedelmet megállapítani;
 - c) fizető-vendéglátó tevékenységére tételes átalányadózást választott:
 - d) a megszerzett bármely bevételét terhelő adóelőleg megállapításakor a kifizetőnek (a munkáltatónak) tett nyilatkozatában költség levonását kérte, ide nem értve az e törvény szerint igazolás nélkül elszámolható költség levonására vonatkozó nyilatkozatot;
@@ -960,7 +960,7 @@ azzal, hogy a ca)–cb) pont és a b) pont alapján az átutalás összege az ad
 
 (3) A nyugdíj-előtakarékossági nyilatkozatot a magánszemély a nyugdíj-előtakarékossági számla vezetője által – az adózás rendjéről szóló törvénynek az adókedvezményre jogosító igazolás kiállítására vonatkozó előírásai szerint – kiadott igazolás alapján teheti meg, amely tartalmazza a rendelkezési jogosultság alapjául szolgáló összeget.
 
-(4) Ha az adóévben a magánszemély nyugdíj-előtakarékossági számlája terhére nem-nyugdíjszolgáltatásról rendelkezett,
+(4) Ha az adóévben a magánszemély nyugdíj-előtakarékossági számlája terhére nem-nyugdíjszolgáltatásról rendelkezett (ide nem értve az adóköteles nyugdíjszolgáltatásról való rendelkezést),
 
 - a) az erre az adóévre vonatkozó adóbevallásában nem teheti meg az (1) bekezdés szerinti nyilatkozatot, valamint
 - b) nyugdíj-előtakarékossági nyilatkozat(ok) alapján már átutalt (nyilvántartott adózott követelésállomány esetén a nyilvántartásba vételt követően átutalt) összege(ke)t – a nyugdíj-előtakarékossági számla vezetője által kiadott igazolás alapján – köteles húsz százalékkal növelten az erre az adóévre vonatkozó adóbevallásában bevallani, valamint az adóbevallás benyújtására előírt határidőig megfizetni.
@@ -1695,18 +1695,18 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
 - a) jövedelemként
   - aa) azt – a nyereményalapot meg nem haladó – összeget, amelyet a kifizető a nyereménybetét-számlán jóváírt nyeremény megváltásaként a magánszemélynek jóváír, kifizet;
   - ab) azt a bevételt, amellyel összefüggésben az adózás rendjéről szóló törvény kamatjövedelemre vonatkozó adatszolgáltatási kötelezettséget ír elő;
-  - ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejötte évét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejötte évét követő 10. év elteltével vagy az után következik be;
-  - ad) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejötte évét követő 3. év elteltével vagy az után, de az 5. év elteltét megelőzően következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejötte évét követő 6. év elteltével vagy az után, de a 10. év elteltét megelőzően következik be;
+  - ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 10. év elteltével vagy az után következik be;
+  - ad) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 3. év elteltével vagy az után, de az 5. év elteltét megelőzően következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 6. év elteltével vagy az után, de a 10. év elteltét megelőzően következik be;
 - b) kamatjövedelemként
   - ba) a tevékenységét nem szüneteltető egyéni vállalkozó ilyenként bejelentett pénzforgalmi bankszámláján jóváírt és/vagy tőkésített, egyébként az (1) bekezdés a) pontjában említett, egyéni vállalkozói bevételként elszámolt kamatot;
   - bb) az (1) bekezdés szerinti jövedelmet, ha e törvény külön rendelkezései szerint tartós befektetésből származó jövedelmet kell megállapítani.
 
 (3a) A (3) bekezdés a) pont ac) és ad) alpontja alkalmazásában nem minősül sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak a biztosítás, ha
 
-- a) a biztosítási szerződésre a biztosítás teljes tartama alatt a szerződés szerint elvárt díjon felül díjfizetés (ideértve különösen az eseti, a rendkívüli, a soron kívüli díjat) történt, kivéve, ha a szerződés szerint elvárt díjon felüli díjfizetést a hozzá tartozó biztosítástechnikai tartalékkal vagy díjtartalékkal együtt elkülönítetten tartja nyilván a biztosító; az így elkülönített összegeket – az elvárt díjon felüli díjfizetés időpontját tekintve a szerződés létrejötte időpontjának – az adókötelezettség megállapításakor úgy kell tekinteni, mint önálló biztosítási szerződés szerinti díjat, biztosítástechnikai tartalékot, díjtartalékot,
-- b) a rendszeres díjak növelésének (indexálás) mértéke meghaladja a Központi Statisztikai Hivatal által közzétett, a díjnövelés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét.
+- a) a biztosítási szerződésre a biztosítás teljes tartama alatt a szerződés szerint elvárt díjon felül díjfizetés (ideértve különösen az eseti, a rendkívüli, a soron kívüli díjat) történt, kivéve, ha a szerződés szerint elvárt díjon felüli díjfizetést a hozzá tartozó biztosítástechnikai tartalékkal vagy díjtartalékkal együtt elkülönítetten (vagy a tartalék befizetett díjhoz való egyértelmű hozzárendelésével) tartja nyilván a biztosító; az így elkülönített összegeket – az elvárt díjon felüli díjfizetés időpontját tekintve a szerződés létrejötte időpontjának – az adókötelezettség megállapításakor úgy kell tekinteni, mint önálló biztosítási szerződés szerinti díjat, biztosítástechnikai tartalékot, díjtartalékot,
+- b) a rendszeres díjak (díjelőírások) előző biztosítási évhez viszonyított növekedésének (ideértve az indexálást is) mértéke meghaladja a Központi Statisztikai Hivatal által közzétett, a díjnövekedés évét megelőző második évre vonatkozó éves fogyasztói áremelkedés 30 százalékponttal növelt értékét azzal, hogy a rendszeres díjak növekedése mértékének meghatározásakor a kockázati biztosítás díját figyelmen kívül kell hagyni, továbbá azzal, hogy a biztosítási szerződési feltételekben rögzített események bekövetkezése miatt átmeneti időre lehetővé tett díj-nemfizetés (szüneteltetés, díjmentesítés) időszakára is figyelembe vehető az ezen időszakot megelőző utolsó rendszeres díj alapulvételével a díj-nemfizetési időszak hosszával arányos biztosítási díj.
 
-(3b) A (3a) bekezdés szerinti, sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak nem minősülő biztosításra és az erre a biztosításra történő díjfizetésre a biztosítás teljes tartama alatt – kivéve, ha az utolsó elvárt díjon felüli díjfizetés időpontjától a (3) bekezdés a) pont ac) és ad) alpontjában meghatározott idő már eltelt – nem alkalmazhatók a (3) bekezdés szerinti jövedelemcsökkentő rendelkezések.
+(3b) A (3a) bekezdés szerinti, sem egyszeri díjas biztosításnak, sem rendszeres díjas biztosításnak nem minősülő biztosításra és az erre a biztosításra történő díjfizetésre a biztosítás teljes tartama alatt – kivéve, ha az utolsó elvárt díjon felüli díjfizetés, vagy az utolsó, a törvényi követelményeket ki nem elégítő díjnövekedés időpontjától a (3) bekezdés a) pont ac) és ad) alpontjában meghatározott idő már eltelt – nem alkalmazhatók a (3) bekezdés szerinti jövedelemcsökkentő rendelkezések.
 
 (4) A kamatjövedelem megszerzésének időpontja:
 
@@ -1722,7 +1722,7 @@ a (3)–(9) bekezdések rendelkezéseit, valamint az adózás rendjéről szól�
 
 (6) Az (1) bekezdés ba) alpontjában említett bevételből – ha az az értékpapír megszerzését követően elsőként megszerzett kamat és/vagy hozam – levonható az értékpapír megszerzésére fordított kiadás részeként az értékpapír vételárában az értékpapír szerzéséig megfizetett, az értékpapír feltételei szerint meghatározott, kiszámított felhalmozódott kamat és/vagy hozam azzal, hogy az így levont összeg az (1) bekezdés bb) alpontjában említett esetben az értékpapír átruházásakor, beváltásakor, visszaváltásakor az értékpapír megszerzésére fordított értékként nem vehető figyelembe. A kollektív befektetési értékpapír esetében beváltásnak minősül a befektetési alap átalakulása/beolvadása révén a jogutód alap befektetési jegyére (jegyeire) történő átváltás is, amely esetben az utóbbi(ak) megszerzésre fordított értékének – ha az magasabb a jogelőd alap befektetési jegye megszerzésére fordított értéknél – az átváltásnál figyelembe vett értéket kell tekinteni azzal, hogy az ilyen beváltáskor megállapított adót a későbbiekben az (1) bekezdés bb) pontjának rendelkezése szerint a beváltást követően keletkező kamatjövedelem adójához hozzáadva, azzal együtt, vagy az említett szerzési értéknek a rendelkezés alkalmazásával a bevételt meghaladó részére az adó (2) bekezdés szerinti mértékével számított összeggel csökkentve kell megfizetni.
 
-(6a) Az (1) bekezdés d) pontjának alkalmazása során kockázati biztosítási díjnak kell tekinteni a számviteli jogszabályok szerint elkülönítve kimutatott kockázati biztosítási díjat, vagy – ha a kockázati biztosítás díja nem elkülönített – rendszeres díjfizetésű biztosítási szerződés esetében a díj 10 százalékát, egyszeri díjas biztosítás esetében a díj 1 százalékát. Ha a biztosítói teljesítéssel a biztosítási szerződés nem szűnik meg, a befizetett díjak és az azt csökkenteni rendelt tételek olyan arányban vehetők figyelembe, mint ahogyan a biztosítói teljesítés összege aránylik a biztosítási szerződés – a biztosítói teljesítés időpontjában történő – megszűnése esetén járó biztosítói teljesítés összegéhez. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket, valamint a befizetett díjat csökkentő tételként már figyelembe vett kockázati biztosítási díjat figyelmen kívül kell hagyni a kamatjövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
+(6a) Az (1) bekezdés d) pontjának alkalmazása során kockázati biztosítási díjnak kell tekinteni a számviteli jogszabályok szerint elkülönítve kimutatott kockázati biztosítási díjat (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, utólag levonással érvényesített díjat is), vagy – ha a kockázati biztosítás díja nem elkülönített, akkor is, ha az több kockázatra terjed ki – rendszeres díjfizetésű biztosítási szerződés esetében a díj 10 százalékát, egyszeri díjas biztosítás esetében a díj 1 százalékát. Ha a biztosítói teljesítéssel a biztosítási szerződés nem szűnik meg, a befizetett díjak és az azt csökkenteni rendelt tételek olyan arányban vehetők figyelembe, mint ahogyan a biztosítói teljesítés összege aránylik a biztosítási szerződés – a biztosítói teljesítés időpontjában történő – megszűnése esetén járó biztosítói teljesítés összegéhez. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket, valamint a befizetett díjat csökkentő tételként már figyelembe vett kockázati biztosítási díjat figyelmen kívül kell hagyni a kamatjövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
 
 (7) Az értékpapír-átruházás, -beváltás, -visszaváltás, valamint a kamat és/vagy hozamfizetés, -jóváírás, -tőkésítés nyilvántartási rendszerét úgy kell kialakítani és működtetni, hogy abból az (6) bekezdés rendelkezésének végrehajtásához szükséges minden adat – a dematerializált értékpapír kifizetők közötti áthelyezése esetében kötelezően közlendő adatként – rendelkezésre álljon.
 
@@ -2436,7 +2436,7 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 - a) a közműfejlesztés támogatásának rendjét;
 - b) egyes költségtérítések formáit és a jövedelemadó szempontjából igazolás nélkül elszámolható költségek mértékeit;
-- c) a közlekedési kedvezmények azon körét, amely adómentes természetbeni juttatásnak minősül;
+- c) a közlekedési kedvezmények azon körét, amely adómentes juttatásnak minősül;
 - d) a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának részletes szabályait;
 - e) a mezőgazdasági őstermelői igazolvány kiadásával, visszavonásával, használata jogszerűségének, az abban foglalt adatok valódiságának ellenőrzésével és elektronikus ügyintézésével összefüggő előírásokat;
 - f)
@@ -2684,7 +2684,31 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (4) E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel módosított 1. számú melléklet 8. pont 8.15. alpontját 2012. július 1-jétől alkalmazni lehet.
 
-84/Y. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 1. számú melléklet 4.13. pontjában foglaltakat a 2013. január 1-jétől megszerzett pénzbeli juttatások tekintetében kell alkalmazni.
+84/Y. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezéseit a hatálybalépésük napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni a (2)–(11) bekezdésben foglaltak figyelembevételével.
+
+(2) E törvény
+
+- a) 28. § (2) bekezdése szerinti bevételt szerző magánszemély – a biztosító felhívására – írásban nyilatkozik arról, hogy a 2013. január 1-je előtt megkötött biztosítási szerződésre 2013. január 1-jét megelőzően más személy – nem szerződőként – milyen összegben fizetett az 1. számú melléklet 2013. január 1-jét megelőzően hatályos 6. pont 6.3. alpontja szerinti adómentes díjat, ennek hiányában a magánszemély 2013. január 1-jét megelőzően teljesített saját befizetésének összegével a bevételt nem lehet csökkenteni;
+- b) 65. § (3a) bekezdés b) pontjának alkalmazása során a díjnövekedés mértékét először a 2012. december 31-ét követően kezdődő biztosítási évre vonatkozóan kell vizsgálni;
+- c) 1. számú melléklete 6. pont 6.9. alpontjának alkalmazása során a díjnövekedés mértékét először a 2012. december 31-ét követően kezdődő biztosítási évre vonatkozóan kell vizsgálni, valamint az említett alpont díjfizetés gyakoriságára vonatkozó rendelkezését a 2012. december 31-ét követő első díjfizetéstől (díjelőírástól) kell megfelelően alkalmazni.
+
+(3) A 67/A. § és 67/B. § alkalmazásában nyilvánosan forgalomba hozott értékpapírnak minősül annak a részvénytársaságnak a részvénye, amely 2014. március 14-én nyilvánosan működött, feltéve, hogy a részvénytársaság alapszabályát 2014. március 14-ét követően nem módosították.
+
+(4) A 77/C. §-nak az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezései hatálybalépését megelőzően hatályos rendelkezések alkalmazásában az elismert munkavállalói értékpapír-juttatási program (a továbbiakban: program) keretében értékpapírt szerző magánszemélynek kell tekinteni azt a magánszemélyt is, aki a program nyilvántartásba vételét kezdeményező eljárás megkezdésének időpontjáig a programban részvételi szándékát nem jelezte, azonban az értékpapírt a nyilvántartásba vett program feltételei szerint szerezte, ideértve különösen a 77/C. §-nak az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezései hatálybalépését megelőzően hatályos (19) bekezdés c) és f)–g) pontjában foglalt feltételek teljesítését is.
+
+(5) A 77/C. §-nak az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezései hatálybalépését megelőző napon az elismert munkavállalói értékpapír-juttatási programok nyilvántartásában szereplő munkáltatói értékpapír-juttatási programok keretében juttatott értékpapírok adókötelezettsége megállapítása során a 77/C. §-nak az említett módosítás hatálybalépését megelőző napon hatályos rendelkezéseit alkalmazni lehet.
+
+(6) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 44/C. §-t kizárólag a 2013. december 31-ét követően megkötött nyugdíjbiztosítási szerződésre – ide nem értve a 2014. január 1-je előtt megkötött szerződés módosításával létrejövő nyugdíjbiztosítási szerződést – és annak díjára lehet alkalmazni.
+
+(7) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 65. § (1) bekezdés c) pontját első alkalommal a 2013. december 31-ét követően megszolgált kamatjövedelem juttatására kell alkalmazni.
+
+(8) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 67/B. § (11)–(13) bekezdését a korábban megkötött tartós befektetési szerződésekre is lehet alkalmazni.
+
+(9) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 11/A. § (1) bekezdés f) pontja, 12. § c) pontja,13. § (1) bekezdés a) alpontja, 44/B. § (4) bekezdés, 65. § (3) bekezdés a) pont ac)–ad) alpontja, (3a) bekezdése, (6a) bekezdése, 1. számú melléklet 4. pont 4.27. alpontja, 7. pont 7.15. alpont b) alpontja, 7.25. alpontja, 8. pont 8.21. alpontja, 9. pont 9.5.1. alpont a)–c) alpontja a 2013. január 1-jétől megszerzett jövedelmekre is alkalmazható.
+
+(10) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel módosított 1. számú melléklet 8. pont 8.14. alpontja az adómegállapításhoz való jog elévülési idején belül alkalmazható.
+
+(11) E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított és a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvénnyel módosított 1. számú melléklet 4. pont 4.13. alpontjában foglaltakat a 2013. január 1-jétől megszerzett pénzbeli juttatások tekintetében kell alkalmazni.
 
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
@@ -2904,6 +2928,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
+4.27. a kifizető által független félnek biztosított olyan szolgáltatás, amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy a szolgáltatás nem minősül a magánszemély tevékenysége ellenértékének;
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -3012,7 +3038,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 a) a fogyasztóvédelemről szóló törvényben meghatározott közüzemi szolgáltatás szolgáltatója, valamint a hitelintézet, pénzügyi vállalkozás által – az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – részben vagy egészben elengedett követelés (akkor is, ha az elengedés egyezség keretében történik), feltéve, hogy a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
 
-b) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból származó 10 000 forintot meg nem haladó követelése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
+b) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból, biztosító biztosítási szolgáltatásból származó 20 000 forintot meg nem haladó követelése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak, biztosítónak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
 
 7.16. a nyugdíj-előtakarékossági számla szerint a tulajdonos követelését növelő jóváírás, ha az
 
@@ -3043,6 +3069,8 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 7.23. a Magyar Honvédség hivatásos és szerződéses állományú tagjai részére járó egyenruházati ellátmány terhére, az egyenruházati ellátmány éves összegének legfeljebb 15 százalékáig terjedő összegben adott pénzbeli juttatás;
 
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
+
+7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó az egyéni vállalkozók, az őstermelők esetében agrár csekély összegű (de minimis) támogatásnak minősül.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -3110,7 +3138,7 @@ b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a k�
 
 8.20. a bevett egyház belső szabályában meghatározott tartási kötelezettségből adódó juttatás, ideértve az egyházi jogi személy által a kezelésében levő egyházi üdülőben egyházi személynek nyújtott ingyenes üdülést is, valamint a bejegyzett szerzetesrend közösségében élő magánszemély tagnak a rendtől – egyéni szükségleteinek fedezetére – kapott pénzbeli vagy nem pénzbeli juttatás;
 
-8.21. a kormányrendeletben meghatározott, adómentes természetbeni juttatásnak minősülő, fogyasztói árkiegészítést nem tartalmazó közlekedési kedvezmény;
+8.21. a kormányrendeletben meghatározott, adómentes juttatásnak minősülő, szociálpolitikai menetdíj-támogatást nem tartalmazó közlekedési kedvezmény;
 
 8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából vagy a köznevelési intézmény saját bevételéből
 

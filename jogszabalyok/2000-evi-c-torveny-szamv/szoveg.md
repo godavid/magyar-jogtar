@@ -18,15 +18,15 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 
 (3) A törvény hatálya nem terjed ki az egyéni vállalkozóra, a polgári jogi társaságra, az építőközösségre, továbbá a külföldi székhelyű vállalkozás magyarországi kereskedelmi képviseletére.
 
-2/A. § (1) E törvény hatálya nem terjed ki arra a jogi személyiség nélküli gazdasági társaságra (közkereseti társaság, betéti társaság) és korlátlan mögöttes felelősséggel működő egyéni cégre, amely az üzleti évben (az adóévben) nyilvántartásait az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
+2/A. § (1) E törvény hatálya nem terjed ki arra a jogi személyiség nélküli gazdasági társaságra (közkereseti társaság, betéti társaság) és egyéni cégre, amely az üzleti évben (az adóévben) nyilvántartásait az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
 
-(2) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaság, valamint korlátlan mögöttes felelősséggel működő egyéni cég attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
+(2) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaság, valamint egyéni cég attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
 
-(3) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságra, valamint korlátlan mögöttes felelősséggel működő egyéni cégre a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
+(3) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságra, valamint egyéni cégre a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
 
-(4) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságnak, valamint korlátlan mögöttes felelősséggel működő egyéni cégnek – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
+(4) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti jogi személyiség nélküli gazdasági társaságnak, valamint egyéni cégnek – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
 
-(5) A törvény hatálya alá tartozó jogi személyiség nélküli gazdasági társaság, valamint korlátlan mögöttes felelősséggel működő egyéni cég beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
+(5) A törvény hatálya alá tartozó jogi személyiség nélküli gazdasági társaság, valamint egyéni cég beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
 
 ### Értelmező rendelkezések, fogalmak
 
@@ -314,7 +314,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 
 (9) A beszámolóban rögzített adatoknál forintról devizára, devizáról forintra, illetve devizáról más devizára való áttéréskor, továbbá a gazdasági társaságokról szóló törvényben nem szabályozott átalakulásnál az üzleti év az (5)–(8) bekezdésnek megfelelően határozható meg azzal, hogy – értelemszerűen – a mérlegfordulónap az áttérés, az átalakulás napja.
 
-(10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év az erről szóló végzés jogerőre emelkedésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(10) Üzleti év a vállalkozó felszámolása, végelszámolása, illetve kényszertörlési eljárása esetén az előző üzleti év mérlegfordulónapját követő naptól a felszámolás, a végelszámolás, illetve kényszertörlési eljárása kezdő időpontját megelőző napig – mint mérlegfordulónapig – terjedő időszak. Amennyiben a felszámolás, a végelszámolás úgy fejeződik be, hogy a vállalkozó nem szűnik meg, az eljárás befejezését követő üzleti év a felszámolási, a végelszámolási eljárás befejezésének napját követő naptól a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
 
 (11) A felszámolás, illetve a kényszertörlési eljárás időszaka egy üzleti évnek minősül, függetlenül annak időtartamától.
 
@@ -445,6 +445,8 @@ az előző és a tárgyévi üzleti évben külön-külön több mint 25%-ban az
 (4) A közbenső mérleg fordulónapjára vonatkozóan az analitikus és a főkönyvi nyilvántartásokat nem lehet lezárni, azokat folyamatosan vezetni kell. A mérlegtételek értékelésére vonatkozó (3) bekezdés szerinti korrekciókat az analitikus és főkönyvi nyilvántartásokban nem lehet szerepeltetni, azokat csak a közbenső mérleg elkészítésénél lehet figyelembe venni.
 
 (5) Amennyiben a vállalkozónál a könyvvizsgálat a 155. § szerint kötelező, a könyvvizsgálati kötelezettség a jogszabály által előírt közbenső mérlegre is vonatkozik.
+
+(6) Ha jogszabály a vállalkozó saját tőkéjének évközi megállapításáról, vagy figyelembe vételéről rendelkezik, eltérő jogszabályi rendelkezés hiányában saját tőke alatt a jogszabály előírásainak megfelelő időpontra, mint mérlegfordulónapra elkészített (1)–(5) bekezdés szerinti közbenső mérlegben kimutatott saját tőkét kell érteni.
 
 ### A mérleg tagolása, tételeinek tartalma
 
@@ -745,7 +747,7 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (3) Ha a legutolsó beszámolóval lezárt üzleti év mérlege, illetve a – 21. § szerinti – közbenső mérleg a külön jogszabályban meghatározott időtartamon belül több kifizetés, ügylet alátámasztására is szolgál, a feltételek vizsgálata során azokat együttesen (egybe számítva) kell figyelembe venni.
 
-(4) Átváltoztatható kötvény részvénnyé történő átalakítása során a jegyzett tőke (alaptőke) emelését a kötvénykibocsátás miatti kötelezettség terhére kell végrehajtani az alapító okirat, az alapszabály előírásainak (módosításának) megfelelően, a cégjegyzékbe történt bejegyzés időpontjával.
+(4) Átváltoztatható és átváltozó kötvény részvénnyé történő átalakítása során a jegyzett tőke (alaptőke) emelését a kötvénykibocsátás miatti kötelezettség terhére kell végrehajtani az alapító okirat, az alapszabály előírásainak (módosításának) megfelelően, a cégjegyzékbe történt bejegyzés időpontjával.
 
 41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
 
@@ -775,9 +777,9 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (5) Egyéb hosszú lejáratú kötelezettségként kell kimutatni a lízingbevevőnél a pénzügyi lízingbe vett, beruházásként elszámolt eszköz lízingbeadó (helyette az eladó) által számlázott ellenértékének megfelelő kötelezettséget, valamint az állami vagy önkormányzati vagyon részét képező eszközök – törvényi rendelkezés, illetve felhatalmazás alapján történő – kezelésbevételéhez kapcsolódó kötelezettséget.
 
-(6) A hosszú lejáratra kapott kölcsönöktől elkülönítetten kell kimutatni a részvénnyé átváltoztatható kötvények miatti, továbbá a vállalkozó által kibocsátott egyéb kötvények miatti kötelezettségeket, ha azok nem tartoznak a (7)–(8) bekezdésben foglaltak közé.
+(6) A hosszú lejáratra kapott kölcsönöktől elkülönítetten kell kimutatni a részvénnyé átváltoztatható és átváltozó kötvények miatti, továbbá a vállalkozó által kibocsátott egyéb kötvények miatti kötelezettségeket, ha azok nem tartoznak a (7)–(8) bekezdésben foglaltak közé.
 
-(7) Tartós kötelezettségek kapcsolt vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti kötelezettségeket tartalmazza, amelyeknél – a 3. § (2) bekezdése 7. pontja szerinti hitelezővel kötött szerződés szerint –a pénzértékben kifejezett fizetési kötelezettségek lejárata az egy évet meghaladja, ideértve az átváltoztatható kötvények miatti, továbbá az egyéb kötvénykibocsátásból származó kötelezettségeket is, ha azok pénzügyi rendezése a tárgyévet követő évben még nem esedékes.
+(7) Tartós kötelezettségek kapcsolt vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti kötelezettségeket tartalmazza, amelyeknél – a 3. § (2) bekezdése 7. pontja szerinti hitelezővel kötött szerződés szerint –a pénzértékben kifejezett fizetési kötelezettségek lejárata az egy évet meghaladja, ideértve az átváltoztatható és átváltozó kötvények miatti, továbbá az egyéb kötvénykibocsátásból származó kötelezettségeket is, ha azok pénzügyi rendezése a tárgyévet követő évben még nem esedékes.
 
 (8) Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben mérlegtétel tartalmaz minden olyan egyéb részesedési viszonyban lévő hitelezővel szembeni, egy évnél hosszabb lejáratú kötelezettséget, amely nem tartozik a (7) bekezdés hatálya alá, ha pénzügyi rendezése a tárgyévet követő évben még nem esedékes.
 
@@ -868,7 +870,7 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (9) A bekerülési (beszerzési) érték részét képező – az (1)–(2) és a (4)–(8) bekezdésben felsorolt – tételeket a felmerüléskor, a gazdasági esemény megtörténtekor (legkésőbb az üzembe helyezéskor) kell számításba venni a számlázott, a kivetett összegben. Amennyiben az üzembe helyezésig, a raktárba történő beszállításig a számla, a megfelelő bizonylat nem érkezett meg, a fizetendő összeget az illetékes hatóság nem állapította meg, akkor az adott eszköz értékét a rendelkezésre álló dokumentumok (szerződés, piaci információ, jogszabályi előírás) alapján kell meghatározni. Az így meghatározott érték és a ténylegesen számlázott vagy később módosított fizetendő (kivetett) összeg közötti különbözettel a beszerzési értéket a végleges bizonylatok kézhezvétele időpontjában akkor kell módosítani, ha a különbözet összege az adott eszköz értékét jelentősen módosítja. Amennyiben a különbözet összege jelentősen nem módosítja az adott eszköz bekerülési (beszerzési) értékét, annak összegét a végleges bizonylatok kézhezvétele időpontjában egyéb ráfordításként, illetve egyéb bevételként kell elszámolni.
 
-(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.
+(10) Az eszköz bekerülési (beszerzési, előállítási) értékét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a beszerzőnek a beszerzésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a bekerülési érték módosításaként nem szerepeltetné.
 
 48. § (1) A tárgyi eszköznél értéket növelő bekerülési (beszerzési) értékként kell figyelembe venni a meglevő tárgyi eszköz bővítésével, rendeltetésének megváltoztatásával, átalakításával, élettartamának növelésével összefüggő munka, továbbá az elhasználódott tárgyi eszköz eredeti állaga (kapacitása, pontossága) helyreállítását szolgáló felújítási munka ellenértékét (saját vállalkozásban történt megvalósítása esetén az 51. § szerinti közvetlen önköltség aktivált értékét is).
 
@@ -1401,7 +1403,7 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 
 (3) Az értékesítés nettó árbevételét növelő tételként kell elszámolni a vásárolt és saját termelésű készlet értékesítéséhez, a szolgáltatásnyújtáshoz kapcsolódóan utólag felszámított felár, az eladási árat növelő korrekciók helyesbítő számlában, nyugtában rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a teljesítés időpontjára vonatkozik).
 
-(4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
+(4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
 
 74. § (1) Belföldi értékesítés árbevételeként kell elszámolni a belföldi vevőnek értékesített vásárolt és saját termelésű készlet, valamint a belföldi igénybe vevő részére teljesített szolgáltatás 75. § szerint meghatározott értékét, függetlenül attól, hogy azt forintban, devizában, valutában, termék- vagy szolgáltatásimporttal egyenlítik ki. Belföldi értékesítés árbevételeként kell elszámolni a vámszabad és a tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét, továbbá a vámszabad és a tranzitterületen lévő vállalkozónál a belföldi vállalkozónak, illetve a más vámszabad és tranzitterületen lévő vállalkozónak történő közvetlen értékesítés értékét.
 
@@ -1475,7 +1477,7 @@ amennyiben az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez ka
 
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepe a külföldi székhelyű vállalkozástól, vagy annak más fióktelepétől igénybe vett szolgáltatásokat (ideértve az irányítás átterhelt költségeit, ráfordításait is) a számlázott értéken – jellegének megfelelően – a (3)–(4), illetve a (6) bekezdés szerinti szolgáltatásként köteles az anyagjellegű ráfordítások között kimutatni.
 
-(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt ellenérték-különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.
+(8) A (3)–(4), illetve a (6) bekezdés szerint – jellegének megfelelően – elszámolt költség, ráfordítás értékét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a alapján a szolgáltatást igénybe vevőnek az igénybe vett szolgáltatásra tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában a szolgáltatás igénybe vétele miatti költség, ráfordítás értékének módosításaként nem szerepeltetné.
 
 79. § (1) Személyi jellegű ráfordítások az alkalmazottaknak munkabérként, a szövetkezet tagjainak munkadíjként elszámolt összeg, a természetes személy tulajdonos (tag) személyes közreműködése ellenértékeként kivett összeg, továbbá a személyi jellegű egyéb kifizetések, valamint a bérjárulékok.
 
@@ -1799,7 +1801,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 91. § A kiegészítő mellékletben meg kell adni:
 
 - a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonként bontva;
-- b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), továbbá a kibocsátott átváltoztatható kötvények számát és névértékét;
+- b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), továbbá a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét;
 - c) azokat az összegeket, amelyek az értékelés következtében a társasági adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
 - d) a rendkívüli bevételek és a rendkívüli ráfordítások társasági adóra gyakorolt számszerűsített hatását.
 
@@ -2853,6 +2855,8 @@ a különbözettel.
 - d) a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 - e) az a vállalkozó, amelyik a 4. § (4) bekezdése szerint – a megbízható és valós kép érdekében – a kivételes esetben eltér a törvény előírásaitól.
 
+(5a) A (3) bekezdésben foglaltakat nem alkalmazhatja a tárgyévi üzleti évet követő üzleti évben a vállalkozó, ha a tárgyévi üzleti év mérlegfordulónapján 10 millió forintot meghaladó, 60 napnál régebben lejárt – az adózás rendjéről szóló törvény szerinti – köztartozása van.
+
 (6) Ha kötelező a könyvvizsgálat, akkor a vállalkozó legfőbb szerve az üzleti évről készített éves beszámoló, egyszerűsített éves beszámoló felülvizsgálatára, az abban foglaltak valódiságának és jogszabályszerűségének ellenőrzésére köteles a (7) bekezdésnek megfelelően bejegyzett könyvvizsgálót, könyvvizsgáló céget – az előző üzleti év éves beszámolójának, egyszerűsített éves beszámolójának elfogadásakor, jogelőd nélkül alapított vállalkozónál az üzleti év mérlegfordulónapja előtt – választani.
 
 (7) A (6) bekezdés szerinti könyvvizsgálatra a Magyar Könyvvizsgálói Kamara tagja vagy a Magyar Könyvvizsgálói Kamaránál nyilvántartásba bejegyzett könyvvizsgáló cég választható.
@@ -3087,13 +3091,35 @@ a különbözettel.
 
 (3) Amennyiben az adóhatóság megállapítja, hogy a 154. § (3) bekezdése szerint közzétett éves beszámoló, egyszerűsített éves beszámoló egészében vagy részben nem felel meg e törvény előírásainak, akkor az ilyen beszámolót készítő vállalkozóra az adózás rendjéről szóló törvény szerint mulasztási bírság szabható ki.
 
-### XIII. Fejezet
+### XIII. Fejezet — AZ ORSZÁGOS SZÁMVITELI BIZOTTSÁG
 
-171. §
+### A bizottság létrehozása
 
-172. §
+171. § (1) A számvitel elméletének és alkalmazott módszertani megoldásának fejlesztésére, a törvényben foglalt számviteli alapelvek gyakorlati érvényesülésének elősegítésére a miniszter szakértőkből Országos Számviteli Bizottságot (a továbbiakban: bizottság) hoz létre.
 
-173. §
+(2) A bizottság elnökét és tagjait a miniszter nevezi ki, illetve menti fel.
+
+(3) A miniszter a bizottság tagjainak legalább kétharmadát a szakmai szervezetek javaslata alapján nevezi ki.
+
+### A bizottság feladata
+
+172. § A bizottság feladata:
+
+- a) rendszeresen javaslatokat tesz a miniszter részére e törvény esetleges módosításának kezdeményezésére, számviteli ajánlások felülvizsgálatára vagy újak megalkotására,
+- b) ellátja a 176. § szerinti nemzeti számviteli standardok előkészítésével, elfogadásával, értelmezésével kapcsolatos, a 178. § (1) bekezdés e) pontja szerinti kormányrendeletben meghatározott feladatokat,
+- c) figyelemmel kíséri a számviteli rendszer gyakorlati megvalósulását, a felmerülő problémák megoldására javaslatot ad a miniszter részére,
+- d) rendszeresen javaslatot tesz a könyvvizsgálói feladatok végrehajtását is segítő számviteli ajánlások elkészítésére, felülvizsgálatára,
+- e) a külföldi számviteli szabályozást és gyakorlatot figyelemmel kíséri, azokról a magyar vállalkozókat tájékoztatja.
+
+### A bizottság működése
+
+173. § (1) A bizottság munkáját az elnök irányítja, akinek tevékenységét a titkárság segíti.
+
+(2) A titkársági feladatok ellátásáról a miniszter gondoskodik.
+
+(3) A bizottság a vonatkozó jogszabályok figyelembevételével kialakítja és írásban rögzíti szervezeti és működési rendjét.
+
+(4) A bizottság munkája – a szervezeti és működési rendben szabályozott kivételektől eltekintve – nyilvános.
 
 ### XIV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3205,6 +3231,18 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (32) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel módosított 3. § (3) bekezdés 3. pontját, 25. § (7) bekezdését, 28. § (3) bekezdés d) pontját, 45. § (2a) bekezdését, 46. § (4) bekezdését, 47. § (4) bekezdés e) pontját, 52. § (2) bekezdését, 87. § (5) bekezdését, 3. § (1) bekezdés 2. pontját, (7) bekezdés 2. pontját, 6. § (1) bekezdését, 11. § (2) bekezdését, (3) bekezdését, 117. § (4) bekezdését, 178. § (1) bekezdés b) pontját, 72. § (1) bekezdését, (2) bekezdés c) pontját, 79. § (2) bekezdését, (4) bekezdését, 84. § (7) bekezdés o) pontját, 85. § (3) bekezdés o) pontját, 103. § (2) bekezdés c) pontját, 7. számú mellékletét a 2012. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.
 
+(33) E törvénynek az egyes törvényeknek a távolléti díj számításával és a közpénzek szabályozásával összefüggő módosításáról szóló 2013. évi CIII. törvénnyel megállapított 47. § (10) bekezdését, 73. § (4) bekezdését, valamint 78. § (8) bekezdését a 2013. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.
+
+(34) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 20. § (4) és (5) bekezdését, 37. § (2) bekezdés g) pontját, 39. § (2a) bekezdését, 60. § (4) és (5) bekezdését, 77. § (2) bekezdés b) pontját, 81. § (2) bekezdés b) pontját, valamint a 117. § (1) bekezdését először a 2014. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(35) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 37. § (2) bekezdés g) pontját, 39. § (2a) bekezdését, 60. § (4) és (5) bekezdését, 77. § (2) bekezdés b) pontját, valamint a 81. § (2) bekezdés b) pontját a 2013. évben induló üzleti évről készített beszámolóra is lehet alkalmazni.
+
+(36) Azoknak a szervezeteknek az esetében, amelyek korábban akkreditációval rendelkeztek, e törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 152. § (2a) és (2b) bekezdés rendelkezéseit azok hatálybalépését követő év január 1-től kell alkalmazni.
+
+(37) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 171. § (1) bekezdése alapján a miniszter 2014. április 1-ig gondoskodik az Országos Számviteli Bizottság létrehozásáról.
+
+(38) A 33. § (3) bekezdése szerinti külföldi pénzértékre szóló tartozások 2014. december 31-ig történő, lejárat előtti egyösszegű visszafizetése esetében a 33. § (2) bekezdése szerinti halasztott ráfordítás – a 33. § (4) bekezdése figyelembe vételével számított – összegét a 33. § (3) bekezdésétől eltérően a vállalkozó, saját döntése alapján, a visszafizetés üzleti évében és az azt követő két üzleti évben, három egyenlő részletben is megszüntetheti.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
@@ -3225,6 +3263,8 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (4) Felhatalmazást kap a miniszter arra, hogy – az (1) bekezdés e) pontja szerinti kormányrendelet előírásainak figyelembevételével – a nemzeti számviteli standardokat rendelettel kihirdesse.
 
 (5) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért és a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díjat és a díj megfizetésének részletes szabályait.
+
+(6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréhez nyújtott támogatás elszámolásának részletes szabályait.
 
 ### 1. számú melléklet a 2000. évi C. törvényhez
 
@@ -3392,7 +3432,7 @@ II. Hosszú lejáratú kötelezettségek
 
 1. Hosszú lejáratra kapott kölcsönök
 
-2. Átváltoztatható kötvények
+2. Átváltoztatható és átváltozó kötvények
 
 3. Tartozások kötvénykibocsátásból
 
@@ -3410,7 +3450,7 @@ III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltoztatható kötvények
+– ebből: az átváltoztatható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -3558,7 +3598,7 @@ D. Egy éven belül esedékes kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltoztatható kötvények
+– ebből: az átváltoztatható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -3596,7 +3636,7 @@ I. Hosszú lejáratú kötelezettségek
 
 1. Hosszú lejáratra kapott kölcsönök
 
-2. Átváltoztatható kötvények
+2. Átváltoztatható és átváltozó kötvények
 
 3. Tartozások kötvénykibocsátásból
 

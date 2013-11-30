@@ -76,7 +76,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 4. § (1) A kisadózó vállalkozások tételes adója szerinti adóalanyiság a választás bejelentését követő hónap első napjával jön létre.
 
-(2) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesítheti. Ebben az esetben az adóalanyiság a vállalkozás nyilvántartásba vételének napjával – de legkorábban 2013. január 1-jén – jön létre.
+(2) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesítheti. Ebben az esetben az adóalanyiság a vállalkozás nyilvántartásba vételének napjával vagy – ha az korábbi időpont – a létesítő okirat ellenjegyzésének napjával – de legkorábban 2013. január 1-jén – jön létre.
 
 (3) Nem választhatja az adóalanyiságot az a vállalkozás, amelynek adószámát az adóhatóság a bejelentést megelőző két éven belül törölte, vagy ezen időszakban a vállalkozás adószáma jogerősen fel volt függesztve.
 
@@ -204,7 +204,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 #### 9. Adatszolgáltatási kötelezettség
 
-13. § Az Art. szerinti adózó (ide nem értve az egyéni vállalkozónak nem minősülő magánszemélyt és a kisadózók tételes adójának alanyát) a tárgyévet követő év január hónapra vonatkozó, az Art. 31. § (2) bekezdése szerinti bevallásában adatot szolgáltat az állami adóhatóság részére a kisadózó vállalkozás nevéről, címéről, adószámáról, a kisadózó vállalkozás részére a naptári évben juttatott összegről, továbbá termékértékesítés esetén erről a tényről, szolgáltatásnyújtás esetén a szolgáltatás, szolgáltatások TESZOR számáról, ha annak a költségnek, ráfordításnak, kiadásnak az együttes összege, amely a kisadózó vállalkozások tételes adójának hatálya alá tartozó vállalkozás részére juttatott ellenérték következtében felmerül, a naptári évben meghaladta az 1 millió forintot.
+13. § Az Art. szerinti adózó (ide nem értve az egyéni vállalkozónak nem minősülő magánszemélyt és a kisadózó vállalkozások tételes adójának alanyát) a tárgyévet követő év március 31-ig adatot szolgáltat az állami adóhatóság részére a kisadózó vállalkozás nevéről, címéről, adószámáról, és a kisadózó vállalkozás részére a naptári évben juttatott, a kisadózó vállalkozás bevételének minősülő összegről, ha az meghaladja az 1 millió forintot. Az adatszolgáltatás teljesítése során nem kell figyelembe venni a kisadózó vállalkozás olyan bevételét, melyről a kisadózó vállalkozás nem számlát állított ki.
 
 #### 10. Munkaviszonytól való elhatárolás
 
@@ -451,6 +451,8 @@ együttes összegének a 16 százaléka.
 
 (2) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében az Szja tv.-nek az egyéni vállalkozói tevékenység megszüntetésére vonatkozó előírásai szerint megállapítja a meglévő készletekkel kapcsolatos bevételét. E bevételt a továbbiakban mindaddig adóalapot nem érintő bevételként tartja nyilván, amíg adókötelezettségeit a kisadózó vállalkozások tételes adójára vonatkozó rendelkezések szerint teljesíti vagy az Szja tv. szerinti átalányadózást alkalmaz.
 
+(2a) Ha a kisadózó vállalkozások tételes adóját alkalmazó egyéni vállalkozó a tevékenységét megszünteti, akkor a bevételét növeli az az összeg, amelyet a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében a (2) bekezdésben foglaltak szerint megállapított.
+
 (3) Ha a kisadózó vállalkozások tételes adója szerinti adóalany egyéni vállalkozó az adóévben
 
 - a) egyidejűleg mezőgazdasági őstermelői tevékenységet is folytat, a mindkét tevékenységgel összefüggő költségeket a bevételek arányában meg kell osztania;
@@ -481,7 +483,9 @@ együttes összegének a 16 százaléka.
 (2) Az (1) bekezdés szerinti összeg a beszámoló
 
 - a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
-- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét.
+- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét;
+
+csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett.
 
 (3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és az egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 16 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy egyszerűsített vállalkozói adóról szóló bevallásában elkülönítetten bevall, és három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás vagy egyszerűsített vállalkozói adóról szóló bevallás benyújtására előírt határidőig és az üzleti évet követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése évét követő év február 25-ig – az adóév február 25-ig fizet meg.
 
@@ -517,6 +521,10 @@ együttes összegének a 16 százaléka.
 
 (10) Az adózó 27. § szerinti jogutód nélküli megszűnése esetén a bevallás benyújtásának határideje a megszűnés hónapját követő ötödik hónap utolsó napja.
 
+#### 20/A. Egyszerűsített vállalkozói adó
+
+28/A. § Az egyszerűsített vállalkozói adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény alapján az egyszerűsített vállalkozói adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek az egyszerűsített vállalkozói adó alapját képezik.
+
 #### 21. Számviteli kötelezettségek
 
 29. § Az Szt. rendelkezéseit nem alkalmazó közkereseti társaság, betéti társaság és egyéni cég felszámolása, végelszámolása esetén a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, továbbá a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény szerinti, a felszámolás, a végelszámolás kezdő időpontját megelőző nappal készítendő záróleltárt és zárómérleget az Szt. 2/A. §-ának (4) bekezdése előírásának figyelembevételével készíti el azzal, hogy azt könyvvizsgálóval nem kell ellenőriztetni.
@@ -537,4 +545,12 @@ együttes összegének a 16 százaléka.
 
 31. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 28. § (10) bekezdésének rendelkezéseit azon adózó alkalmazza, amelynek e törvény szerinti adóalanyisága 2013. január 1-jén vagy ezt követően jön létre.
 
-#### 32–34. §
+32. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított, illetve módosított rendelkezéseit a hatálybalépésük napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni a (2)–(3) bekezdésben foglaltak figyelembevételével.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4. § (2) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvény hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 13. §, 20. § (1), (2) bekezdés, (4) bekezdés h) pont, (5) bekezdés f) pont, g) pont, h) pont, (6) bekezdés f) pont, (13) bekezdés c) pont, 26. § (2) bekezdés és 28/A. § rendelkezését a 2013. adóévre vonatkozóan is alkalmazni kell.
+
+(4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 23. § (5) bekezdés rendelkezését a 2013. adóévre az adózó választása szerint alkalmazza.
+
+#### 33–34. §

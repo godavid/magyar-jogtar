@@ -57,6 +57,9 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
   - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év
+
+[a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
+
 - c) egyébként nem adóalanyi minőségben eljáró személy, szervezet sorozat jelleggel építési telket (telekrészt) értékesít.
 
 (5) Nem minősül az (1) bekezdésben említett független formában végzett gazdasági tevékenységnek az a tevékenység, amelyet munkaviszony, munkaviszony jellegű jogviszony vagy olyan munkavégzésre irányuló egyéb jogviszony keretében végeznek, amelyben a jogosult irányítása és felelőssége mellett a kötelezett alárendelt helyzetben van a tevékenység végzése eredményének, díjazásának, valamint egyéb feltételeinek és körülményeinek meghatározásában.
@@ -2555,9 +2558,6 @@ vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezés
 nem térhet el.
 
 (2) Ha a viszonteladó a határnap lejártáig az állami adóhatóságnak másként nem nyilatkozik, választása a határnapot követően az (1) bekezdésben említett megfelelő időtartammal meghosszabbodik.
-
-- a) az (1) bekezdés a) és b) pontjában említett esetben a határnapot követően az ott meghatározott időtartammal meghosszabbodik;
-- b) az (1) bekezdés c) pontjában említett esetben a határnapkor megszűnik.
 
 226. § (1) A 225. § (2) bekezdésének b) pontjában említett határnapra szóló időzítéssel a viszonteladónak a 223. § (3) bekezdésének b) pontja szerint kell eljárnia. Az így megállapított zárókészleten levő termékekre jutó előzetesen felszámított adóra – az adólevonási jog gyakorlása egyéb feltételeinek teljesülésétől függetlenül – adólevonási jogot nem alapíthat, illetőleg ha ezzel a jogával már élt, azt önellenőrzéssel helyesbíti.
 

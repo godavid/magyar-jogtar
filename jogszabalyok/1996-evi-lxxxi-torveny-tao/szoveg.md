@@ -177,7 +177,7 @@ fejében a jogosult által kapott ellenérték;
   - b) alsóbb bajnoki osztályaiban részt vevő (indulási jogot elnyert) sportszervezet abban az esetben, ha az ilyen sportszervezet hivatásos sportolót alkalmaz. Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakosztállyal) működő sportszervezet esetén az e törvényben a hivatásos sportszervezetekre előírt rendelkezéseket csak arra a jogi személy szervezeti egységre (szakosztályra) kell alkalmazni, amelyik az a)–b) pont szerinti versenyrendszerek bajnoki osztályaiban részt vesz.
 - 43/a. látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány: minden olyan, a sportról szóló törvényben meghatározott szabályok szerint működő utánpótlás-nevelés fejlesztését végző alapítvány, amelyik közhasznúnak minősül;
 - 44. látvány-csapatsport támogatása: az adóévben visszafizetési kötelezettség nélkül nyújtott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke az e törvényben meghatározott jogcímeken;
-- 45.
+- 45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;
 - 46. sportcélú ingatlan: az az ingatlan, ingatlanrész, amelynek alapvető, közvetlen és kizárólagos rendeltetése, hogy a sportról szóló törvényben meghatározott sporttevékenységre használják.
 
 ## MÁSODIK RÉSZ — A TÁRSASÁGI ADÓ
@@ -520,7 +520,12 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) Amennyiben a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött szerződésükben olyan ellenértéket alkalmaz, amely a 18. § alapján nem tekinthető szokásos piaci árnak, és ennek eredményeképpen a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság adózás előtti eredménye kisebb, mint a szokásos piaci ár mellett lett volna, úgy a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdés alkalmazásától függetlenül köteles az alkalmazott ellenérték és a szokásos piaci ár különbözete után az adót megállapítani.
 
-(9) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdésben foglalt rendelkezést nem alkalmazhatja a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó, a bevétellel arányos adóalapra.
+(9) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdésben foglalt rendelkezést nem alkalmazhatja
+
+- a) a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó, a bevétellel arányos adóalapra,
+- b) a főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságban fennálló, 10%-ot meghaladó részesedése
+  - ba) értékesítésének adóévi árfolyamnyereségére, és
+  - bb) nem pénzbeli vagyoni hozzájárulásként történő kivezetése következtében elszámolt bevételnek az elszámolt ráfordítást meghaladó részére.
 
 ### Az ingatlannal rendelkező társaság tagjánakadóalapja és az adó mértéke
 
@@ -845,7 +850,8 @@ szélessávú internetszolgáltatást szolgáló beruházás,
   - ab) a személyi jellegű ráfordításaira – azzal, hogy a sportról szóló törvény szerinti hivatásos sportoló részére, valamint az amatőr sportoló részére a sportról szóló törvény szerint díjazásnak nem minősülő, de pénzben kifejezhető vagyoni értékkel bíró támogatásként személyi jellegű ráfordítás nem nyújtható –,
   - ac) az ad) pontban foglaltakra is figyelemmel tárgyi eszköz beruházásra, felújításra,
   - ad) a sportrendezvények biztonságáról szóló külön jogszabályban meghatározott biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztésre,
-  - ae) képzéssel összefüggő feladatokra;
+  - ae) képzéssel összefüggő feladatokra,
+  - af) az amatőr sportszervezetek versenyeztetéssel összefüggő költségeinek támogatására;
 - b) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő amatőr sportszervezet – ideértve a sportról szóló törvényben meghatározott szabályok szerint a szakszövetség tagjaként működő sportiskolát is – részére
   - ba) az utánpótlás-nevelési feladatainak ellátására,
   - bb) a versenyeztetéssel összefüggő költségek támogatására,
@@ -870,7 +876,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
   - ea) a személyi jellegű ráfordításaira – azzal, hogy a sportról szóló törvény szerinti hivatásos sportoló részére, valamint az amatőr sportoló részére a sportról szóló törvény szerint díjazásnak nem minősülő, de pénzben kifejezhető vagyoni értékkel bíró támogatásként személyi jellegű ráfordítás nem nyújtható –,
   - eb) képzéssel összefüggő feladatokra.
 
-(2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+(2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő adóévek adójából, de utoljára a támogatás (juttatás) naptári évét követő hatodik naptári évben lezáruló adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
 (3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
 
@@ -1035,7 +1041,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (4) A (2) és (3) bekezdés alkalmazásakor a külföldről származó jövedelmet e törvény rendelkezései szerint kell megállapítani. Ennek során a külföldről származó jövedelem megállapításánál kell figyelembe venni az e bevétel megszerzéséhez közvetlenül hozzárendelhető költségeket, ráfordításokat, adózás előtti eredményt módosító tételeket. A külföldről származó árbevétel és bevétel összegének az összes árbevétel és bevétel összegéhez viszonyított arányában kell megosztani a külföldről származó jövedelem megszerzéséhez közvetlenül hozzá nem rendelhető – de nem a kizárólag belföldről származó jövedelemhez felmerült – költségeket, ráfordításokat, adózás előtti eredményt növelő, csökkentő tételeket.
 
-(5) A (3) bekezdés szerinti összeget a jövedelem jogcíme szerint és forrásállamonként külön-külön kell meghatározni. Az egyes jövedelmek alapján levont adó nem haladhatja meg a külföldön fizetett (fizetendő), illetve a nemzetközi szerződés alapján külföldön érvényesíthető adó közül a kisebb összeget, nemzetközi szerződés hiányában a jövedelemre külföldön megfizetett (fizetendő) adó ráfordításként elszámolt összegének 90 százalékát, de minden esetben legfeljebb az adott jövedelemre az átlagos adókulcs szerint kiszámított adót. Az átlagos adókulcs az adókedvezményekkel csökkentett társasági adó, osztva az adóalappal; e hányadost két tizedesre kerekítve kell meghatározni.
+(5) A (3) bekezdés szerinti összeget a jövedelem jogcíme szerint és forrásállamonként külön-külön kell meghatározni. Az egyes jövedelmek alapján levont adó nem haladhatja meg a külföldön fizetett (fizetendő), illetve a nemzetközi szerződés alapján külföldön érvényesíthető adó közül a kisebb összeget, nemzetközi szerződés hiányában a jövedelemre külföldön megfizetett (fizetendő) adó összegének 90 százalékát, de minden esetben legfeljebb az adott jövedelemre az átlagos adókulcs szerint kiszámított adót. Az átlagos adókulcs az adókedvezményekkel csökkentett társasági adó, osztva az adóalappal; e hányadost két tizedesre kerekítve kell meghatározni.
 
 (6) A (2)–(5) bekezdés alkalmazásában társasági adónak megfelelő adónak minősül a kapott osztalék alapján külföldön fizetett (fizetendő) adó is.
 
@@ -1310,6 +1316,14 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 (2) Az előadó-művészeti szervezet erre vonatkozó kérelme esetén a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke megállapításánál – az (1) bekezdéstől és e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésétől eltérően – az előadó-művészeti szervezet EGT-tagállamban 2013. évben tartott előadásaiból származó jegybevétele 80%-át kell figyelembe venni.
 
 29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakra benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
+
+29/V. § (1) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 17. § (7) bekezdését az adózó a 2013. adóévi adókötelezettségének megállapítása során választása szerint alkalmazza.
+
+(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22/C. § (1) bekezdés a) pont af) alpontját első ízben a 2011. adóévi adókötelezettségre lehet alkalmazni.
+
+(3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22. § (1), (3) és (4) bekezdését, (6)–(8) bekezdését, 22/C. § (3) bekezdés a) pontját, (3a), (3c) és (4a) bekezdését, a 3. számú melléklet A) rész 12. pontját a 2013. december 31-ét követően nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 22/C. § (2) bekezdését a hatálybalépése napját követően nyújtott támogatásra (juttatásra) kell alkalmazni.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
