@@ -38,7 +38,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (2) Növelő tételek:
 
-- a) a jövedelemre tekintettel külföldön megfizetett (fizetendő), ráfordításként elszámolt adó,
+- a)
 - b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, az ellenérték nélkül átvállalt kötelezettség egyéb vagy rendkívüli ráfordításként az adóévi adózás előtti eredmény terhére elszámolt összege,
 - c) az adóalany jogutódlással (átalakulással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet, a (4) bekezdésben meghatározott kivétellel,
 - d) a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
@@ -233,3 +233,7 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 - b) a 2005. február 17-i 2005/19/EK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról.
 
 (7)
+
+### Átmeneti rendelkezések
+
+18. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 8. § (1)–(6), (8) bekezdését – e törvény eltérő rendelkezése hiányában – első ízben a 2014. adóévi adókötelezettségre kell alkalmazni.

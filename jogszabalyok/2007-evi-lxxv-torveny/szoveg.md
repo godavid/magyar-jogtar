@@ -584,7 +584,7 @@ Isten engem úgy segéljen!”
 
 (6) A minősítés megadásáról igazolást kell adni, és a minősítést rögzíteni kell a kamarai nyilvántartásokban is.
 
-(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön nyilvántartást kell vezetni.
+(7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
 
 (8) A szakmai minősítő vizsga tartalmi követelményeit, az eljárási és az értékelési szabályokat a kamara külön szabályzatban határozza meg. A szakmai minősítő vizsgának legalább részben írásbeli vizsgának kell lennie.
 
@@ -1163,9 +1163,9 @@ szerezte.
 - a) elfogadja a kamara alapszabályát,
 - b) titkos szavazással megválasztja, illetve visszahívja a 119. § a)–c) pontjában meghatározott kamarai tisztségviselőket, a 113. § (1) bekezdésében meghatározott bizottságok tagjait, valamint az elnökség 115. § (4) bekezdése szerinti választott tagjait,
 - c) beszámoltatja az elnökséget és a 113. § (1) bekezdésében meghatározott bizottságok elnökeit,
-- d) elfogadja a kamara éves pénzügyi tervét és az éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
+- d) elfogadja a kamara – egyes területi szervezetek pénzügyi tervét önállóan is tartalmazó – éves pénzügyi tervét és az – egyes területi szervezetek pénzügyi beszámolóját önállóan is tartalmazó – éves pénzügyi beszámolót (annak részeként a számviteli jogszabályok szerinti beszámolót),
 - e) kamarai szabályzatokat alkot,
-- f) meghatározza az elnök, az alelnökök, az elnökség további tagjai, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díját,
+- f) meghatározza személyenként külön-külön az elnök, az alelnökök, az elnökség további tagjai, a területi szervezetek elnökei, a fegyelmi megbízott és a kamara alapszabálya szerint díjazásban részesíthető bizottsági elnökök és tagok díjazását, továbbá a főtitkár és a főtitkári hivatal főkönyvelőjének javadalmazását,
 - g) megállapítja a tagdíjak és a hozzájárulási díjak összegét,
 - h) megállapítja a kötelező könyvvizsgálói felelősségbiztosításra vonatkozó szabályokat,
 - i) ellátja az e törvényben, a kamara alapszabályában és egyéb szabályzataiban hatáskörébe utalt egyéb feladatokat.
@@ -1278,7 +1278,7 @@ szerezte.
 
 (5) A kamara tisztségviselői nem lehetnek egymásnak közeli hozzátartozói. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
 
-(6)
+(6) A kamarai tag könyvvizsgáló legfeljebb két alkalommal töltheti be ugyanazt a tisztséget.
 
 121. § (1) A kamara tisztségviselőjének megbízatása megszűnik, ha
 
@@ -1319,7 +1319,7 @@ szerezte.
 
 125. § A kamara valamely tisztségviselőjének kizárólagos hatáskörébe nem tartozó feladatokat a kamara főtitkára irányítja, hangolja össze. A főtitkár a kamarával munkaviszonyban áll.
 
-126. § (1) A főtitkárt pályázat útján kell kinevezni. Főtitkár az lehet, aki felsőfokú iskolai végzettséggel rendelkezik. Főtitkár lehet az is, aki nem tagja a kamarának.
+126. § (1) A főtitkárt pályázat útján kell kinevezni. Főtitkár az lehet, aki felsőfokú gazdasági iskolai végzettséggel, vagy állam- és jogtudományi doktori képesítéssel, valamint legalább 5 éves igazolt vezetői gyakorlattal rendelkezik. Főtitkár lehet az is, aki nem tagja a kamarának.
 
 (2) A főtitkár ellátja különösen a kamara igazgatási, gazdasági szervezetének irányításával, felügyeletével kapcsolatos feladatokat, igazgatási ügyekben képviseli a kamarát. A főtitkár feladatait részletesen a kamara alapszabályában és önkormányzati szabályzataiban kell meghatározni.
 
@@ -1618,7 +1618,7 @@ finanszírozzák.
 
 (2)
 
-(3) A kamarai tag minőségellenőrök nyilvántartása a minőségellenőrök 33. § (1) bekezdésében meghatározott adatait tartalmazza.
+(3) A kamarai tag minőségellenőrök – közhiteles nyilvántartásnak minősülő – nyilvántartása a minőségellenőrök 33. § (1) bekezdésében meghatározott adatait tartalmazza.
 
 (4) Az (1)–(3) bekezdésben foglalt nyilvántartások vezetésének célja annak hiteles dokumentálása, hogy a minőségellenőr megfelel a törvényben meghatározott feltételeknek. A nyilvántartásban szereplő adatokat a nyilvántartásból történő törlésig a bizottság, illetve a kamara kezeli.
 
@@ -1811,7 +1811,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A záró jelentésre az átvételétől számított nyolc napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a közfelügyeleti hatósághoz kell benyújtani.
 
-(5) A hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
+(5) A közfelügyeleti hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
 (6) A minőségellenőrzés során hozott jogerős határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
 
@@ -1821,7 +1821,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 - b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
 - c) fegyelmi eljárás kezdeményezése.
 
-(8) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a (6) bekezdés szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a hatóság a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
+(8) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a (6) bekezdés szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a közfelügyeleti hatóság a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén fegyelmi eljárást kezdeményez a kamaránál. A fegyelmi eljárás kezdeményezéséről a közfelügyeleti hatóság indokolt esetben értesíti a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
@@ -1993,6 +1993,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) Az (1) bekezdés szerinti feladatainak ellátásához a közfelügyeleti hatóság a kamarától, a közfelügyelet hatálya alá tartozó személyektől, szervezetektől iratot, adatot, információt, nyilatkozatot kérhet, valamint e célból betekinthet irataikba, könyveikbe és adathordozóikba.
 
+(5) A közfelügyeleti hatóság az (1) bekezdésben felsorolt feladatok ellátásához szakértőt vehet igénybe. Szakértőként nem járhat el az, akivel szemben az ellenőrre vonatkozó kizárási ok áll fenn.
+
 190–191. §
 
 191/A. §
@@ -2011,7 +2013,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (6) A közfelügyeleti hatóságnak az éves munkatervének végrehajtásáról szóló beszámolójában ki kell térnie a kamarai minőségbiztosítási rendszer vizsgálata és értékelése, továbbá a minőségellenőrzés során tapasztalt főbb hiányosságokra, és a megtett intézkedésekre.
 
-(7) A (6) bekezdésben foglalt kötelezettség teljesítéséhez a hatóság kérésére a kamara 15 napon belül kiadja a feladat ellátásához szükséges iratokat, dokumentumokat.
+(7) A (6) bekezdésben foglalt kötelezettség teljesítéséhez a közfelügyeleti hatóság kérésére a kamara 15 napon belül kiadja a feladat ellátásához szükséges iratokat, dokumentumokat.
 
 194. § (1) A kamara azon eljárásai tekintetében, amelyekre a közfelügyelet kiterjed, köteles együttműködni a közfelügyeleti hatósággal.
 
@@ -2169,6 +2171,14 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 90. § f) pontját a 2012. január 1-jét követően induló okleveles könyvvizsgálói képzési programok esetében kell alkalmazni.
 
 208/D. § A kamarának a 2013. évre a 185. § szerinti közfelügyeleti díj ötven százalékát kell megfizetnie a közfelügyeleti hatóságnak. A kamara a 2013. évi közfelügyeleti díj vonatkozásában 2013. július 30-ig köteles előleget fizetni a közfelügyeleti hatóság fizetési számlájára. Az előleg összege a 2013. évre fizetendő közfelügyeleti díj – megelőző év adatainak figyelembe vételével kalkulált – várható összegének száz százaléka.
+
+208/E. § A 2013. december 31-én könyvvizsgáló cégként bejegyzett egyéni vállalkozó az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 2. § 14. pontjának, valamint a 34. § (1) bekezdésének 2014. december 31-ig köteles megfelelni. A kamara 2014. december 31-ei hatállyal hivatalból törli a könyvvizsgáló cégek nyilvántartásából az egyéni vállalkozókat. A kamara egyéni vállalkozóknak a könyvvizsgálói cégek nyilvántartásából való törlésére irányuló eljárása díjmentes.
+
+208/F. § A 120. § (6) bekezdése szerinti korlátozás szempontjából annak hatálybalépése előtt betöltött tisztségeket is figyelembe kell venni. A korlátozást a 120. § (6) bekezdés hatálybalépését követő választásokra kell alkalmazni.
+
+208/G. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 111. § f) pontját a hatálybalépését követően megkötött szerződésekre, illetve kinevezésekre kell alkalmazni.
+
+208/H. § Amennyiben e törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 126. § (1) bekezdésének hatálybalépésekor a hivatalban lévő főtitkár nem felel meg a 126. § (1) bekezdésben foglaltaknak, úgy a kamara legkésőbb 2014. december 31-ig gondoskodik olyan főtitkár kinevezéséről, aki megfelel a 126. § (1) bekezdésben foglaltaknak.
 
 ### Az Európai Unió jogának való megfelelés
 

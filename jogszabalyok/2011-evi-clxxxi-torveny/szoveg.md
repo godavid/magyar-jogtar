@@ -36,7 +36,8 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint létrehozott a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapját,
 - j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alapított Munkavállalói Résztulajdonosi Program szervezetet,
 - k) az európai területi együttműködési csoportosulásról szóló törvény szerint alapított európai területi társulást,
-- l) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
+- l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
+- m) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
 
 #### 3. A Polgári perrendtartás alkalmazása
 

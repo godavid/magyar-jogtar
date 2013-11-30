@@ -14,6 +14,8 @@ a szabályozott ingatlanbefektetési társaságokról
   - b) minden olyan személy, akit a szabályozott ingatlanbefektetési elővállalkozás vagy társaság létesítő okirata, vagy a működésre vonatkozó bármely belső szabályzat vezető állású személyként határoz meg,
 - 5. szabályozott ingatlanbefektetési társaság ingatlan-portfoliója: azon ingatlanok összessége, amelyeknek a szabályozott ingatlanbefektetési társaság, valamint amelyeknek a szabályozott ingatlanbefektetési társaság projekttársasága a tulajdonosa.
 - 6. TEÁOR: az e törvény hatályba lépésekor hatályos Gazdasági Tevékenységek Osztályozási Rendszere.
+- 7. Szabad pénzeszköz: a látra szóló és a lekötött bankbetéteknek, az Európai Gazdasági Térségről szóló Megállapodásban részes államok vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállama által kibocsátott állampapíroknak, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapíroknak és az elismert tőkepiacra bevezetett értékpapíroknak a szabályozott ingatlanbefektetési társaság éves beszámolójának mérlegében kimutatott értéke.
+- 8. Elvárt osztalék: a szabályozott ingatlanbefektetési társaság külön jogszabályban meghatározottak szerint osztalékként kifizethető eredményének 90%-a.
 
 3. § (1) Szabályozott ingatlanbefektetési társaság az a nyilvánosan működő részvénytársaság, amely megfelel az e törvényben meghatározott valamennyi feltételnek, és amelyet az állami adóhatóság – a társaság bejelentése alapján – e törvény hatálya alá tartozó szabályozott ingatlanbefektetési társaságként nyilvántartásba vett.
 
@@ -30,8 +32,8 @@ a szabályozott ingatlanbefektetési társaságokról
 tevékenységet végez;
 
 - b) nem állt és a bejelentés időpontjában sem áll végelszámolás, csődeljárás vagy a bíróság által jogerősen elrendelt felszámolás hatálya alatt;
-- c) létesítő okirata alapján a külön jogszabályokban meghatározottak szerint osztalékként kifizethető eredményének legalább 90%-át kifizeti osztalékként a számviteli beszámoló jóváhagyását követő 15 napon belül;
-- d) projekttársaságon, más szabályozott ingatlanbefektetési társaságon, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságon kívül más gazdasági társaságban nem rendelkezik részesedéssel, azzal, hogy szabályozott ingatlanbefektetési társaságban, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságban nem rendelkezhet a jegyzett tőkéhez viszonyítottan több mint 10%-os részesedéssel vagy szavazati joggal;
+- c) létesítő okirata alapján legalább az elvárt osztaléknak megfelelő mértékű osztalékot fizet, a számviteli beszámoló jóváhagyását követő 15 napon belül, azzal, hogy abban az esetben, ha a szabályozott ingatlanbefektetési társaság szabad pénzeszközeinek összege nem éri el a külön jogszabályban meghatározottak szerint osztalékként kifizethető tárgyévi adózott eredményének összegét, akkor a szabad pénzeszközök összegének legalább 90%-át fizeti ki osztalékként;
+- d) projekttársaságon, más szabályozott ingatlanbefektetési társaságon, valamint főtevékenységként épületépítési projekt szervezésével (TEÁOR 4110) foglalkozó gazdasági társaságon kívül más gazdasági társaságban nem rendelkezik részesedéssel, azzal, hogy szabályozott ingatlanbefektetési társaságban nem rendelkezhet több mint 10%-os részesedéssel vagy szavazati joggal;
 - e) kibocsátott részvényeit együttesen legfeljebb összesen 10%-ban tulajdonolják biztosítók és hitelintézetek, valamint amelyben együttesen az összes szavazati jog legfeljebb 10%-át gyakorolják biztosítók és hitelintézetek;
 - f) legalább tízmilliárd forint összegű induló tőkével rendelkezik;
 - g) kizárólag törzsrészvényt bocsát ki, amelyek névértéke nem lehet kevesebb tízezer forintnál;
@@ -79,7 +81,7 @@ tevékenységet végez;
 
 (3) Az állami adóhatóság a szabályozott ingatlanbefektetési társaság, illetve elővállalkozás adózót határozattal törli a szabályozott ingatlanbefektetési társaságok, illetve elővállalkozások nyilvántartásából, ha
 
-- a) a nyilvántartásba vétel feltételei már nem állnak fenn, és azokat az adózó 90 napon belül nem pótolja; vagy
+- a) a nyilvántartásba vétel feltételei már nem állnak fenn, és azokat az adózó 90 napon – a 8. § (5) bekezdése szerinti kötelezettséggel kapcsolatban egy éven – belül nem pótolja;
 - b) a szabályozott ingatlanbefektetési társaság a tevékenységet a nyilvántartásba vételtől számított hat hónapon belül nem kezdi meg vagy hat hónapot meghaladó időtartam alatt nem gyakorolja; vagy
 - c) a társaság a tevékenységére vonatkozó, e törvényben vagy a külön jogszabályban meghatározott előírásokat súlyosan megszegi; vagy
 - d) a társaság a nyilvántartásból való törlését kérelmezi, vagy
@@ -90,7 +92,7 @@ tevékenységet végez;
 
 (5) Az állami adóhatóság ellenőrizheti a nyilvántartásba vett szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a nyilvántartásba vétel feltételeinek való megfelelését. Az ellenőrzés során az (1) bekezdés h) pont szerinti bűnügyi személyes adatot az érintett igazolja. Az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás és társaság vezető állású személyére vonatkozó (1) bekezdés h) pont szerinti bűnügyi személyes adatot a 6. § (1) bekezdés c) pontjában meghatározott feltétel ellenőrzése céljából, a szabályozott ingatlanbefektetési elővállalkozás és társaság ellenőrzésének befejezéséig, illetve a szabályozott ingatlanbefektetési elővállalkozásnak és társaságnak a (6) bekezdés szerinti nyilvántartásból való törléséig kezelheti.
 
-(6) Ha az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás vagy társaság bejelentése alapján vagy hivatalból megállapítja, hogy a nyilvántartásba vétel feltételei már nem állnak fenn, végzésben – 90 napos határidővel – felszólítja a szabályozott ingatlanbefektetési elővállalkozást vagy társaságot azok pótlására. Ha a szabályozott ingatlanbefektetési elővállalkozás vagy társaság a feltételeknek a határidőn belül nem tesz eleget, az állami adóhatóság a nyilvántartásból a határidő leteltét követő nappal törli. A végzés ellen önálló fellebbezésnek van helye.
+(6) Ha az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás vagy társaság bejelentése alapján vagy hivatalból megállapítja, hogy a nyilvántartásba vétel feltételei már nem állnak fenn, végzésben – 90 napos, a 8. § (5) bekezdése szerinti kötelezettséggel kapcsolatban egy éves határidővel – felszólítja a szabályozott ingatlanbefektetési elővállalkozást vagy társaságot azok pótlására. Ha a szabályozott ingatlanbefektetési elővállalkozás vagy társaság a feltételeknek a határidőn belül nem tesz eleget, az állami adóhatóság a nyilvántartásból a határidő leteltét követő nappal törli. A végzés ellen önálló fellebbezésnek van helye.
 
 6. § (1) A szabályozott ingatlanbefektetési elővállalkozásnál és társaságnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
@@ -100,7 +102,7 @@ tevékenységet végez;
 
 (2) Vezetői gyakorlatként a szabályozott ingatlanbefektetési társaság által végezhető tevékenységet végző gazdasági társaságnál, továbbá hitelintézetnél, befektetési vállalkozásnál, befektetési alapkezelőnél, kockázati tőkealap-kezelőnél, biztosítónál, viszontbiztosítónál, más szabályozott ingatlanbefektetési társaságnál vezető tisztségviselőként eltöltött idő vehető figyelembe.
 
-(3) A szabályozott ingatlanbefektetési elővállalkozásnál és társaságnál vezető állású személy nem lehet vezető tisztségviselő hitelintézetnél, befektetési vállalkozásnál, befektetési alapkezelőnél, kockázati tőkealap-kezelőnél, biztosítónál, viszontbiztosítónál, továbbá olyan szabályozott ingatlanbefektetési társaságnál, amelyben az őt korábban vezető állású személyként alkalmazó szabályozott ingatlanbefektetés társaság nem rendelkezik részesedéssel.
+(3) A szabályozott ingatlanbefektetési elővállalkozásnál és társaságnál vezető állású személy nem lehet – kivéve, ha a szavazatok legalább 90%-ával rendelkező részvényesek ettől eltérően döntenek – vezető tisztségviselő hitelintézetnél, befektetési vállalkozásnál, befektetési alapkezelőnél, ingatlanértékelőnél, kockázati tőkealap-kezelőnél, biztosítónál, viszontbiztosítónál, továbbá olyan szabályozott ingatlanbefektetési társaságnál, amelyben az őt korábban vezető állású személyként alkalmazó szabályozott ingatlanbefektetési társaság nem rendelkezik részesedéssel.
 
 7. § A szabályozott ingatlanbefektetési elővállalkozás és társaság a tulajdonába került, illetve a tulajdonából kikerült projekttársaság nevét és adószámát – ezen események bekövetkezésétől számított 15 napon belül – bejelenti az állami adóhatóságnak. A bejelentés alapján az állami adóhatóság a szabályozott ingatlanbefektetési elővállalkozás és társaság tulajdonába került projekttársaságot nyilvántartásba veszi, a szabályozott ingatlanbefektetési elővállalkozás és társaság tulajdonából kikerült projekttársaságot a nyilvántartásából törli.
 
@@ -119,7 +121,7 @@ tevékenységet végez;
 (7) A szabályozott ingatlanbefektetési társaság nem köthet olyan szerződést, nem vállalhat olyan egyoldalú kötelezettséget, amely
 
 - a) az osztalék kifizetését korlátozza,
-- b) az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy részére vételi jogot biztosít.
+- b) az ingatlanportfólióba tartozó ingatlanra vonatkozóan más személy – kivéve a pénzügyi intézményeket – részére vételi jogot biztosít.
 
 (8) A (7) bekezdésben foglaltakkal ellentétes szerződéses kikötés, egyoldalú kötelezettségvállalás semmis.
 
