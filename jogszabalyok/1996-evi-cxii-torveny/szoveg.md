@@ -153,15 +153,15 @@ folytathat.
 - b)–c)
 - d) pénzváltási tevékenység végzésére.
 
-(3) A hitelintézet bank, szakosított hitelintézet vagy szövetkezeti hitelintézet (takarék-, illetőleg hitelszövetkezet) lehet.
+(3) A hitelintézet bank, szakosított hitelintézet illetve részvénytársaság vagy szövetkezet formában működő szövetkezeti hitelintézet lehet.
 
 (4) A bank az a hitelintézet, amely a 3. § (1) bekezdésének a), b) és d) pontjában meghatározott tevékenységet üzletszerűen végzi. Kizárólag bank kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
 (5) A szakosított hitelintézet a rá vonatkozó külön törvényi szabályozásnak megfelelően jogosult tevékenységének végzésére, azzal, hogy nem kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
-(6) A szövetkezeti hitelintézet a 3. § (1) bekezdésének a)–j) pontjában, illetve a 3. § (2) bekezdésének a) és d) pontjában meghatározott tevékenységet végezhet.
+(6) A szövetkezeti hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat külön törvény állapítja meg.
 
-(7) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
+(7)
 
 (8)
 
@@ -288,9 +288,9 @@ végezhet.
 
 ### Szervezeti szabályok
 
-8. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként, pénzforgalmi intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény fióktelepeként, elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény fióktelepeként működhet.
+8. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként vagy részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként, pénzforgalmi intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény fióktelepeként, elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény fióktelepeként működhet.
 
-(2) A részvénytársasági formában működő pénzügyi intézményre, pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre és korlátolt felelősségű társaságként működő pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A részvénytársasági formában működő pénzügyi intézményre, pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre, szövetkezeti hitelintézetekre és korlátolt felelősségű társaságként működő pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő szövetkezeti hitelintézetekre és pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, amelynek székhelye a Magyarország területén található, a főirodáját is Magyarország területén létesíti.
 
@@ -306,7 +306,7 @@ végezhet.
 
 (2) Szakosított hitelintézet a rá vonatkozó külön törvényi szabályozással meghatározott induló tőkével alapítható.
 
-(3) Szövetkezeti hitelintézet legalább kétszázötvenmillió forint induló tőkével alapítható.
+(3)
 
 (4) Pénzügyi vállalkozás – kivéve a pénzügyi holding társaságot és a pénzforgalmi elszámolóházat – legalább ötvenmillió forint induló tőkével alapítható.
 
@@ -1532,7 +1532,7 @@ kell érteni.
 
 47. § (1) Cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a hitelintézet nevében a pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra
 
-- a) részvénytársasági vagy szövetkezeti formában működő hitelintézet esetében két igazgatósági tag, illetve két ügyvezető,
+- a) részvénytársasági formában működő hitelintézet esetében két igazgatósági tag, illetve két ügyvezető
 - b) külföldi hitelintézet fióktelepe esetében két vezető állású személy
 
 együttesen jogosult.
@@ -1558,7 +1558,7 @@ együttesen jogosult.
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a)
-- b) az Országos Betétbiztosítási Alappal, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal szemben,
+- b) az Országos Betétbiztosítási Alappal,
 - c) MNB-vel,
 - d) nemzetbiztonsági szolgálattal,
 - e) Állami Számvevőszékkel,
@@ -1771,7 +1771,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) A hitelintézet igazgatóságában legalább két olyan tagnak kell lennie, aki a hitelintézettel munkaviszonyban áll (a továbbiakban: belső tag).
 
-(3) A szövetkezeti hitelintézet igazgatóságában legalább egy belső tagnak, alapítványi formában működő pénzügyi vállalkozás kuratóriumában legalább egy, az alapítvánnyal munkaviszonyban álló tagnak kell lennie.
+(3) Alapítványi formában működő pénzügyi vállalkozás kuratóriumában legalább egy, az alapítvánnyal munkaviszonyban álló tagnak kell lennie.
 
 63. § (1) A hitelintézet igazgatóságában legalább két olyan igazgatósági tagnak kell lennie, akik a devizajogszabályok alapján devizabelföldinek minősülnek, és – legalább egy éve – állandó belföldi lakóhellyel rendelkeznek.
 
@@ -1835,7 +1835,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (4) A belső ellenőrzési rendszert a hitelintézet által folytatott szolgáltatási tevékenységek sajátosságaival, kiterjedtségével, összetettségével és kockázataival összhangban kell kialakítani.
 
-(5) A szövetkezeti hitelintézet, a pénzügyi vállalkozás és a pénzforgalmi intézmény legalább egy belső ellenőrt foglalkoztat. A szövetkezeti hitelintézet, a pénzügyi vállalkozás és a pénzforgalmi intézmény írásban megállapodhat arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
+(5) A pénzügyi vállalkozás és a pénzforgalmi intézmény legalább egy belső ellenőrt foglalkoztat. A pénzügyi vállalkozás és a pénzforgalmi intézmény írásban megállapodhat arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
 
 (6) A belső ellenőrzés szervezetét, hatáskörét, feladatait, a belső ellenőrrel szemben támasztott szakmai követelményt és eljárási szabályokat belső szabályzatban kell rögzíteni.
 
@@ -1878,7 +1878,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (5) A (4) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint a (4) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát
 
-69. § (1) Részvénytársasági vagy szövetkezeti formában működő hitelintézet ügyvezetését legalább két ügyvezetőnek, harmadik országbeli hitelintézet fióktelepének ügyvezetését legalább két vezető állású személynek, pénzügyi vállalkozás ügyvezetését legalább egy ügyvezetőnek munkaviszony keretében kell ellátnia.
+69. § (1) Részvénytársasági formában működő hitelintézet ügyvezetését legalább két ügyvezetőnek kell ellátnia.
 
 (2) Harmadik országbeli hitelintézet fióktelepe esetén a vezető állású személyek között legalább egy olyan magyar állampolgárságú devizabelföldi személynek kell lennie, aki legalább egy éve állandó belföldi lakóhellyel rendelkezik.
 
@@ -2897,7 +2897,7 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 98. § (1) Az Alap feladata
 
 - a)
-- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
+- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének az MNB által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, vagy az előző szabályok érintése nélkül, amennyiben a szövetkezeti hitelintézet végelszámolásának elhatározására szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T.§ (5) bekezdése alapján kerül sor, a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
 - c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 - d) a betétes magyar nyelvű tájékoztatása, illetőleg magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták.
 
@@ -2991,7 +2991,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Kifizetés az Alapból
 
-105. § (1) Az Alap a betétek befagyása vagy az MNB-nek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére az MNB engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
+105. § (1) Az Alap a betétek befagyása vagy az MNB-nek a 30. § (1) bekezdés b) vagy c) pontja vagy a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/T. § (5) bekezdése alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére az MNB engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
 
 (2) Az Alap köteles legalább két országos napilapban, valamint honlapján közzétenni a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az Alap által közzétett információkat a kártalanítással érintett hitelintézet honlapján is közzé kell tenni.
 
@@ -3012,6 +3012,8 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 (3) Hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az Alap azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az Alapra, de amelyekért a 101. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
 
 (4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az Alapnál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség, a kommunikációs költség, a számítástechnikai költség és a jogi költség.
+
+(5) Az Alap csak azzal a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény szerinti szövetkezeti hitelintézettel szemben érvényesíthet követelést, amelynél a betétet elhelyezték.
 
 ### XVII. Fejezet — Az Alap jogállása és szervezete
 
@@ -3045,7 +3047,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 - a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
 - b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (7) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
-- c)
+- c) a szövetkezeti hitelintézetek Integrációs Szervezetének igazgatósági elnöke által kijelölt személy,
 - d) a hitelintézetek érdekképviseleti szervezetei által kijelölt két személy, továbbá
 - e) az Alap ügyvezető igazgatója.
 
@@ -3494,17 +3496,15 @@ megküldésével be kell jelenteni az MNB-nek.
 
 (4) Az (1) bekezdésben előírtakon túlmenően további követelmény a hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
 
-- a) egyidejűleg legfeljebb öt hitelintézetnél láthat el könyvvizsgálói feladatot, ide nem értve a szövetkezeti hitelintézeteket,
-- b) egyidejűleg legfeljebb tíz szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot,
-- c) egy-egy hitelintézettől származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát,
-- d) az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
+- a) egyidejűleg legfeljebb öt hitelintézetnél láthat el könyvvizsgálói feladatot,
+- b) egy-egy hitelintézettől származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát,
+- c) az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
 
 (5) A hitelintézeti könyvvizsgáló társaságokkal szemben az (1) bekezdésben foglaltakon túlmenően további követelmény, hogy
 
-- a) a könyvvizsgálói társaságon belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt hitelintézetnél láthat el könyvvizsgálói feladatot, ide nem értve a szövetkezeti hitelintézeteket,
-- b) a könyvvizsgálói társaságon belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb tíz szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot,
-- c) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele nem haladhatja meg éves nettó árbevételének tíz százalékát,
-- d) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
+- a) a könyvvizsgálói társaságon belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt hitelintézetnél láthat el könyvvizsgálói feladatot,
+- b) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele nem haladhatja meg éves nettó árbevételének tíz százalékát,
+- c) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
 
 (6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást az MNB alkalmazottjának, illetőleg annak közeli hozzátartozójának.
 
@@ -3791,7 +3791,8 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy a mérleg szerinti eredmény, vagy a tőkekövetelmény módosítása céljából,
 - k) könyvvizsgálója elmulasztja az MNB, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
 - l) az (1) bekezdésben említett előírásokat – az MNB által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül–ismételten megsérti,
-- m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.
+- m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
+- n) működési engedélye a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. tv. alapján visszavonásra kerül.
 
 (4) Az MNB-nek a (3) bekezdésen kívül akkor is meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha
 
@@ -3934,7 +3935,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
   - ac) az MNB által jóváhagyott helyreállítási tervben foglaltakat nem, vagy csak jelentős késedelemmel, illetőleg eltérésekkel hajtják végre, vagy
 - b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelmény ötven százalékát, vagy
 - c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja az MNB-t, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását,
-- d) a szövetkezeti hitelintézet működési engedélyét az MNB a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági vonatkozású jogszabályok módosításáról szóló 2013. évi CXXXV. tv. amelyik a 19. § (3) bekezdés, a 19. § (6) bekezdés, 20. § (3) bekezdés, a 20. § (4) bekezdés alapján visszavonja
+- d)
 
 (3)
 
@@ -3995,7 +3996,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 ### XXVI. Fejezet — Pénzügyi intézmény jogutód nélküli megszűnése
 
-176/A. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a Cstv., a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, és a gazdasági társaságokról szóló törvény, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+176/A. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás valamint a szövetkezeti hitelintézet végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a Cstv., a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, és a gazdasági társaságokról szóló törvény, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben és a 2013. évi CXXXV. törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag az MNB tv.-ben meghatározott szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki.
 
@@ -4049,8 +4050,9 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) A bíróság a felszámolási eljárást
 
-- a) a részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény,
-- b) a fióktelepet működtető külföldi pénzügyi intézmény
+- a) a részvénytársasági formában működő pénzügyi intézmény vagy a szövetkezeti formában működő pénzügyi vállalkozás,
+- b) a szövetkezeti hitelintézet
+- c) a fióktelepet működtető külföldi pénzügyi intézmény
 
 fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
@@ -4536,54 +4538,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és az MNB-nek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
-### XXX. Fejezet — Szövetkezeti hitelintézet
+### XXX. Fejezet
 
-216. § (1) Szövetkezeti formában működő pénzügyi vállalkozást legalább tizenöt tag, szövetkezeti hitelintézetet legalább kétszáz tag alapíthat, illetve működtethet.
-
-(1a) A szövetkezeti hitelintézet működési engedélye kiadásának feltétele, hogy taggá váljon a szövetkezeti hitelintézetek integrációjában és „C” sorozatú elsőbbségi részvénnyel rendelkezzen a Takarékbank Zrt-ben.
-
-(2) Szövetkezeti hitelintézetnek természetes és jogi személyek lehetnek a tagjai, a jogi személyek száma azonban nem haladhatja meg a tagok számának egyharmadát.
-
-(2a) Szövetkezeti hitelintézet esetében a részjegy névértéke nem haladhatja meg a tízezer forintot.
-
-(3) Szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a Magyar Állam, a Magyar Fejlesztési Bank, a kötelező intézményvédelmi szervezet, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.
-
-(4) Szövetkezeti formában működő hitelintézet határozatképtelenség miatt megismételt közgyűlése az eredeti napirendre felvett bármely kérdésben – ide nem értve a részjegy névértékének felemelését – hozhat határozatot.
-
-(4a) Szövetkezeti hitelintézet esetében a tag csak a szövetkezet tagját hatalmazhatja meg a közgyűlésen történő képviseletre azzal, hogy egy tag kizárólag egy további tagot képviselhet.
-
-(5) A szövetkezeti hitelintézetek alapszabályukat vagy alapító okiratukat a kötelező intézményvédelmi szervezet igazgatósága által meghatározott szöveggel fogadják el. Az alapszabály megállapításához, a szövetkezet egyesüléséről való döntéshez és a részjegyek névértékének megváltoztatásához a közgyűlésen jelenlévő tagok felének igenlő szavazata szükséges.
-
-(6) Szövetkezeti hitelintézet esetében a közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót – a közgyűlés napirendi pontjával kapcsolatos iratok kivételével – kötelező valamennyi tagnak megküldeni, valamint az összehívásról hirdetményt közzétenni. A közgyűlési meghívónak és a hirdetménynek tartalmaznia kell, hogy a tag kérésére az iratokat a szövetkezeti hitelintézet hol és mely időpontokban bocsátja rendelkezésre. A közgyűlés által meghozott határozatokról a szövetkezeti hitelintézet valamennyi tagját levélben tájékoztatni kell.
-
-(7) Szövetkezeti hitelintézet esetében a tagok létszámától függetlenül lehetőség van arra, hogy az alapszabály küldöttgyűlés működését írja elő.
-
-(8) A szövetkezeti hitelintézet alapszabályának a cégbíróságon bejegyzett tőke összegét kell tartalmaznia, vagy arra történő egyértelmű utalást, hogy a jegyzett tőke megegyezik az illetékes cégbíróság által vezetett cégjegyzékben jegyzett tőkeként nyilvántartott összeggel.
-
-(9) Szövetkezeti hitelintézet esetében a szövetkezetekről szóló 2006. évi X. törvény 106. §-ának (5) és (8) bekezdését nem kell alkalmazni.
-
-(10) Szövetkezeti hitelintézet esetében a szövetkezetekről szóló 2006. évi X. törvény 20. § (2) bekezdése e) pontját azzal az eltéréssel kell alkalmazni, hogy a szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Takarékbank Zrt. előzetes jóváhagyása szükséges.
-
-216/A. § (1) Ha törvény kivételt nem tesz, a szövetkezeti hitelintézet tagja, illetőleg örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
-
-(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, legfeljebb a megszűnést követő második éves beszámolót megállapító közgyűlés (küldöttgyűlés) napjától számított harmincadik napig a szövetkezet igazgatósága köteles meghosszabbítani a részjegy összegének visszafizetését, ha ennek következtében a szövetkezeti hitelintézet saját tőkéje, illetőleg szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében meghatározott tőkekövetelményt.
-
-(3) A (2) bekezdésben meghatározott esetben – két éven belül – a volt tag, illetőleg örököse (jogutódja) részére azt követően kell esedékessé válásuk sorrendjében a kifizetést teljesíteni, hogy ennek fedezete rendelkezésre áll.
-
-216/B. § (1) Ahol e törvény a jegyzett tőke leszállításához következményeket rendel, ezen következményeket szövetkezeti hitelintézetnél
-
-- a) a veszteségrendezés érdekében végrehajtott leszállítás, valamint
-- b) a (2) bekezdésben szabályozott eltéréssel az adott naptári évben a jegyzett tőke legalább kettő százalékát érintő tőkekivonás
-
-esetében kell alkalmazni.
-
-(2) A 73. § (5) bekezdése tekintetében szövetkezeti hitelintézetnél a tőkekivonás mértékétől függetlenül kell elsődlegesen a negatív értéket elszámolni.
-
-(3) Ha a részjegytőkét veszteségrendezésre kell felhasználni, a közgyűlés (küldöttgyűlés) a részjegyek összegét arányosan csökkenti.
-
-216/C. § Szövetkezeti hitelintézet átalakulása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont, a jogutód lekötött tartalékába kell helyezni.
-
-217. §
+216–217. §
 
 ### XXXI. Fejezet — Elektronikus pénz kibocsátása és visszaváltása
 

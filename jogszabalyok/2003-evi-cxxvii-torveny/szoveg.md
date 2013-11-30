@@ -643,9 +643,20 @@ adókötelezettsége keletkezik, amely egyidejűleg – a 10–11. § rendelkez�
 - c) biztosítja a jövedéki termék ellenőrzésének lehetőségét;
 - d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésében foglalt eltéréssel – e) pontjában, valamint (3) bekezdésében foglaltaknak;
 - e)
-- f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó – egytizenketted részének megfelelő összegben.
+- f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő
+  - fa) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó,
+  - fb) 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén mennyiségére az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómértékkel számított adó,
+  - fc) – az fa) és fb) pontban nem említett – jövedéki termék mennyiségére számított adótartalom
 
-(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adónak – megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
+egytizenketted részének megfelelő összegben.
+
+(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban (a továbbiakban: eseti bejegyzett kereskedő), részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt, beszerzésre kerülő
+
+- a) egyéb ellenőrzött ásványolaj – kivéve a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént – mennyiségére az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel,
+- b) 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén mennyiségére az 52. § (1) bekezdés f) pontja szerinti legmagasabb adómértékkel,
+- c) – az a) és b) pontokban nem említett – jövedéki termék mennyiségére
+
+számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén.
 
 (3) Az (1) bekezdés szerinti bejegyzett kereskedő 25. § szerinti, nem teljesített adófizetési kötelezettségének összege – a (7) bekezdésben foglalt eltéréssel – 50 százalékkal, de legfeljebb 50 millió forinttal haladhatja meg a jövedéki biztosíték összegét, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 
@@ -1603,7 +1614,7 @@ igényelheti.
 - b) a kőolaj-finomító engedélyesének a kőolaj-finomító területén kívül található, ásványolaj tárolására, raktározására alkalmas tárolóra, ahol a betárolt ásványolajtermék kiszerelése, a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése, továbbá egyéb ellenőrzött ásványolajtermék, valamint megfigyelt termék (kivéve: biodízel) előállítása is végezhető külön engedély nélkül, adóraktári engedéllyel (a továbbiakban: finomítói ásványolajraktár);
 - c) az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított halmazállapotú gáz termék előállítására, ahol az előállított gáz termékből megfigyelt termék is előállítható külön engedély nélkül (a továbbiakban: cseppfolyósítottgáz-töltő),
 - d) az 52. § (1) bekezdés g) pontja szerinti vagy egyéb, üzemanyag célra gyártott sűrített gáz halmazállapotú gázterméket előállító töltőállomásra (a továbbiakban: sűrítettgáz-töltő),
-- e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése is végezhető (a továbbiakban: ásványolaj-tároló);
+- e) ásványolaj önálló tárolását végző tárolótelepre, ahol a bioetanol benzinbe és a biodízel gázolajba való közvetlen bekeverése, valamint a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén kiszerelése is végezhető (a továbbiakban: ásványolaj-tároló);
 - f) a (2) bekezdésben foglaltak figyelembevételével – az ásványolaj-adóraktárak, illetve az ásványolaj-adóraktár és a jövedéki engedélyes kereskedő telephelye vagy az adómentes felhasználó üzeme, raktára között kiépített, ásványolaj szállítására létesített, összefüggő csővezetékrendszerre, ideértve Magyarország államhatárát átlépő csővezeték esetén annak belföldre eső szakaszát is (a továbbiakban: terméktávvezeték);
 - g) a bioüzemanyagot vagy – a k) pontban foglalt eltéréssel – tiszta növényi olajat előállító üzemre (a továbbiakban: bioüzemanyag-adóraktár);
 - h) a vegyipari és gyógyszeripari felhasználás során szennyezetté vált ásványolaj önálló tevékenység keretében történő tisztítását, regenerálását végző üzemre, ahol a tisztított (regenerált) és vásárolt ásványolajból egyéb ellenőrzött ásványolaj vagy megfigyelt termék is előállítható külön engedély nélkül, adóraktári engedéllyel (a továbbiakban: ásványolaj-regeneráló üzem),
@@ -1633,7 +1644,7 @@ is adható.f
 - a) a kőolaj-finomítóban legalább atmoszferikus és vákuumdesztillációs technológiai egység, és legalább 50 000 m3,
 - b) a finomítói ásványolajraktárban legalább 10 000 m3,
 - c) a cseppfolyósítottgáz-töltőn legalább 300 m3, a repülőtéri adóraktárban legalább 30 m3,
-- d) az ásványolaj-tárolóban – kivéve a kizárólag az 52. § (1) bekezdés f) pontja szerinti és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént vasúti tartálykocsiban tároló adóraktárt, amennyiben a vasúti tartálykocsi feltöltése a mérésügyi szerv által hitelesített vágánymérleg alkalmazásával történik – legalább 10 000 m3,
+- d) az ásványolaj-tárolóban – kivéve a kizárólag az 52. § (1) bekezdés f) pontja szerinti és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént palackban vagy vasúti tartálykocsiban tároló adóraktárt, amennyiben a vasúti tartálykocsi feltöltése a mérésügyi szerv által hitelesített vágánymérleg alkalmazásával történik – legalább 10 000 m3,
 - e) az ásványolaj-regeneráló üzemben és az egyébásványolaj-gyártó adóraktárban – a (16) és a (17) bekezdésben foglalt eltéréssel – legalább 500 m3,
 - f) a kikötői adóraktárban legalább 100 m3,
 - g)
@@ -1645,7 +1656,7 @@ a (7) bekezdésben foglalt eltéréssel – talajjal egybeépített vagy talajho
 - a) a kőolaj-finomító és a finomítói ásványolajraktár esetén adóraktáranként legalább 200 millió forint, de több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 2 milliárd forint,
 - b) a cseppfolyósítottgáz-töltő esetén adóraktáranként, illetve több adóraktárral rendelkező engedélyes esetében engedélyesenként legalább 80 millió forint,
 - c) a sűrítettgáz-töltő esetén legfeljebb 80 millió forint,
-- d) az ásványolaj-tároló esetén adóraktáranként legalább 200 millió forint, de több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 2 milliárd forint, kivéve az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 80 millió forint,
+- d) az ásványolaj-tároló esetén adóraktáranként legalább 200 millió forint, de több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 2 milliárd forint, kivéve az 52. § (1) bekezdés f) pontja szerinti cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 80 millió forint, és a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogént tároló adóraktárt, mely esetén adóraktáranként 20 millió forint,
 - e) a kikötői adóraktár esetén legfeljebb 200 millió Ft, a repülőtéri adóraktár esetén legalább 10, legfeljebb 200 millió Ft,
 - f) az ásványolaj-regeneráló üzem esetén legalább 60 millió forint,
 - g) egyébásványolaj-gyártó adóraktár esetén – a (16) és a (17) bekezdésben foglalt eltéréssel – legalább 50, legfeljebb 150 millió forint,
@@ -1732,7 +1743,7 @@ talajjal egybeépített vagy talajhoz rögzített, az illetékes hatóság álta
 - a) az éves szinten várhatóan
   - aa) beszerzésre kerülő ásványolaj és megfigyelt termék, illetve – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék előállítása esetén – az alkoholtermék egyhavi átlagos beszerzésének mennyisége, illetve
   - ab) előállításra kerülő megfigyelt termék egyhavi átlagos előállított mennyisége, amennyiben azt nem ásványolajból vagy nem megfigyelt termékből állítják elő, valamint
-- b) az 52. § (1) bekezdésének a) pontjában meghatározott – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve az alkoholtermék esetében a 64. § (2) bekezdése szerinti – alacsonyabb adómérték
+- b) az 52. § (1) bekezdésének a) pontjában meghatározott – az 50. § (4) bekezdés e) pontja szerinti megfigyelt termék, illetve az alkoholtermék esetében a 64. § (2) bekezdése szerinti alacsonyabb, a 2901 10 vámtarifaszámú cseppfolyósított szénhidrogén esetében az 52. § (1) bekezdés f) pontja szerinti legmagasabb – adómérték
 
 alapján számított összeg erejéig, de legfeljebb 60 millió forint összegben kell nyújtani, azzal, hogy a megbízható felhasználói engedélyes esetében a jövedéki biztosíték összege – kérelem alapján – felére csökkenthető, amely további 50%-kal mérsékelhető, amennyiben a megbízható felhasználói engedélyes legalább 5 éve az e törvény szerinti engedéllyel folytatja az (1) bekezdésben megjelölt tevékenységet.
 
@@ -3264,7 +3275,8 @@ határozatban állapítja meg az adót.
 
 - a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 82 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
 - b)
-- c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő adóügyi képviselője nyilvántartásba vételét végző szerv kijelölését.
+- c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő adóügyi képviselője nyilvántartásba vételét végző szerv kijelölését,
+- d) a szárított dohány, illetve fermentált dohány behozatalával, kivitelével, tárolásával illetve birtoklásával kapcsolatos e törvényben nem szabályozott követelményeket, illetve regisztrációs eljárás szabályait.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben határozza meg
 

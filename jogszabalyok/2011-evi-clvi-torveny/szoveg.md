@@ -857,6 +857,16 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (3) Az adóhatóság az adóhiányt, az adóhiány után az adóbírságot, valamint a késedelmi pótlékot a munkavállalót kölcsönvevő munkáltató terhére állapítja meg, ha a 460. § (1) bekezdésben meghatározott kedvezménynek a munkaerő-kölcsönzési tevékenységet jogszerűen folytató munkáltató által történő igénybevétele a munkavállalót kölcsönvevő munkáltató nem jogszerű nyilatkozata, vagy a nyilatkozattétel elmulasztása miatt jogszerűtlen. Nem minősül a nyilatkozattétel elmulasztásának, ha a nyilatkozattételre való felszólításnak a kölcsönvevő munkáltató részére való igazolt kézbesítése és a 460. § (1) bekezdésben meghatározott kedvezmény igénybevétele között kevesebb, mint 15 nap telt el.
 
+464/D. § A tanulmányokat folytató tanuló, hallgató jogviszonyát
+
+- a) a köznevelési intézmény által kiállított tanulói jogviszony-igazolás,
+- b) a felsőoktatási intézmény által kiállított hallgatói jogviszony-igazolás,
+- c) az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
+- d) a közreműködő intézmény által kiadott, a c) pont szerinti diákigazolványra való jogosultságról szóló igazolás,
+- e) az oktatási igazolványokról szóló kormányrendelet szerint a tanköteles kor felső határát az adott tanévben betöltő tanuló esetén az érvényesítő matrica nélküli diákigazolvány
+
+tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvány érvényességi idején belül, az e) pont szerinti esetben a tanévet követő október 31-éig.
+
 ### Más jogszabályok alkalmazása
 
 465. § (1) Az adózó az adóval összefüggő adókötelezettségei teljesítése során az adózás rendjéről szóló törvény rendelkezéseit e fejezet rendelkezéseit figyelembe véve alkalmazza.
@@ -902,6 +912,10 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
   - m) az a)–l) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik;
 - 8. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy.
+- 9. tanulmányokat folytató tanuló, hallgató: az a személy, aki
+  - a) nappali rendszerű oktatás keretében a nemzeti köznevelésről szóló törvény szerinti tanulói jogviszonnyal rendelkezik,
+  - b) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló törvény szerinti nem szünetelő (aktív) hallgatói jogviszonnyal rendelkezik, vagy
+  - c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig.
 
 ### Átmeneti rendelkezések
 
@@ -918,6 +932,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 467/A. § E törvény – egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított – 455. § (2) bekezdés h) pontja és 466. § 7. pont m) alpontja visszamenőlegesen 2012. január 1-jétől alkalmazható.
 
 467/B. § Ha a kifizető a 2013. július 1-jét megelőző adó-megállapítási időszakban a szabad vállalkozási zónákban működő vállalkozások adókedvezményét érvényesítette, az adókedvezményt a 462/E. § 2013. június 30-án hatályos rendelkezései alapján – választás szerint – továbbra is alkalmazhatja.
+
+467/C. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 464/D. § és 466. § 9. pontja visszamenőlegesen 2013. augusztus 29-étől alkalmazható.
 
 ### X. Fejezet — KULTURÁLIS ADÓ
 
