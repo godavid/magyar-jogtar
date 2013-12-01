@@ -50,7 +50,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - d) a gyermek hozzátartozói: a vér szerinti és az örökbe fogadó szülők (a továbbiakban együtt: szülő), a szülő házastársa, a szülő testvére, a nagyszülő, a nagyszülő házastársa, a nagyszülő testvére, a dédszülő, a testvér, a testvér házastársa, a saját gyermek,
 - e) a gyermek közeli hozzátartozói: ha e törvény másképp nem rendelkezik, a szülő, a szülő házastársa, a szülő testvére, a nagyszülő, testvér, a saját gyermek,
 - f) a gyermek tartására köteles személy: a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) 61. §-a (4) bekezdésében és 62. §-a (1) bekezdésében, a Csjt. 69/A. §-ában, valamint a 69/D. § (2) bekezdésében meghatározott személy,
-- g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjóléti alapellátás, illetve a gyermekvédelmi szakellátás keretében – működési engedéllyel – végzett tevékenység, függetlenül a feladatellátás e törvényben nevesített formájától és módjától; a szolgáltató tevékenység célja a gyermekjólétnek, azaz a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének, személyi, vagyoni és egyéb jogainak biztosítása,
+- g) gyermekjóléti és gyermekvédelmi szolgáltató tevékenység: a gyermekjóléti alapellátás, illetve a gyermekvédelmi szakellátás keretében végzett tevékenység, függetlenül a feladatellátás e törvényben nevesített formájától és módjától; a szolgáltató tevékenység célja a gyermekjólétnek, azaz a gyermek testi, értelmi, érzelmi és erkölcsi fejlődésének, személyi, vagyoni és egyéb jogainak biztosítása,
 - h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 - i) ellátás: jogszabályban meghatározott pénzbeli, természetbeni, illetve személyes gondoskodást nyújtó alapellátás és szakellátás,
 - j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
@@ -71,10 +71,10 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
   - sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
   - se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
 
-ha az e törvényben és más jogszabályban meghatározott feltételek szerint, működési engedély alapján gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+ha az e törvényben és más jogszabályban meghatározott feltételek szerint, gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 - t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, bevándorolt, letelepedett, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
-- u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, és tevékenysége működési engedélyköteles. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
+- u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 - v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
 - x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
 - y) családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 5. §-ának a) pontja szerinti nevelési ellátás és iskoláztatási támogatás,
@@ -978,7 +978,7 @@ biztosít.
 
 (10) A családi napközi feladatait önálló szolgáltató vagy legalább három – telephelyként működő – családi napközit magába foglaló családi napközi hálózat biztosítja. Öt, vagy annál több családi napközi fenntartását hálózatba kell szervezni. A hálózatban biztosítani kell a szolgáltatást nyújtók részére a folyamatos szakmai tanácsadást, valamint az ellátottak igényeihez rugalmasan igazodó szolgáltatások összehangolását.
 
-(11) A családi napközi esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a családi napközi működési engedélyében meghatározott férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a működési engedélyben meghatározott férőhelyszámot.
+(11) A családi napközi esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 98. § szerinti – hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) jogerősen bejegyzett férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszámot.
 
 ### Családi gyermekfelügyelet
 
@@ -994,7 +994,7 @@ biztosít.
 
 (6) Családi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
 
-(7) A családi gyermekfelügyelet esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a családi gyermekfelügyelet működési engedélyében meghatározott férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a működési engedélyben meghatározott férőhelyszámot.
+(7) A családi gyermekfelügyelet esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett meghatározott férőhelyszámot.
 
 ### Házi gyermekfelügyelet
 
@@ -1707,16 +1707,16 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 69/C. § (1) A szolgáltatás az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott működési engedélyhez kötött tevékenység.
 
-(2) A működési engedély kiadásáról – a szolgáltató kérelmére – a működést engedélyező szerv dönt.
+(2) A működési engedély kiadásáról – a szolgáltató kérelmére – a szolgáltatást engedélyező szerv dönt.
 
-(3) A működést engedélyező szerv évente legalább egy alkalommal ellenőrzi, hogy a szolgáltatás megfelel-e a jogszabályokban, a működési engedélyben, valamint a szakmai programban foglaltaknak.
+(3) A szolgáltatást engedélyező szerv évente legalább egy alkalommal ellenőrzi, hogy a szolgáltatás megfelel-e a jogszabályokban, a működési engedélyben, valamint a szakmai programban foglaltaknak.
 
-(4) Ha a működést engedélyező szerv
+(4) Ha a szolgáltatást engedélyező szerv
 
 - a) olyan szolgáltatásról szerez tudomást, amely engedély nélkül működik, a szolgáltatót eltiltja a szolgáltatás végzésétől,
 - b) az örökbe fogadható gyermekek vagy a szolgáltatást igénybe vevő személyek súlyos jog- vagy érdeksérelmét észleli, a szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
-(5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában és a minisztérium honlapján történő közzétételéről.
+(5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában és a minisztérium honlapján történő közzétételéről.
 
 ### A szolgáltatást igénybe vevővel kötött megállapodás
 
@@ -2240,35 +2240,68 @@ köteles működtetni.
 
 (5) A települési önkormányzat képviselő-testülete az ellátási szerződés megkötésének, a szerződés módosításának, illetve megszüntetésének jogát nem ruházhatja át.
 
-### A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők működésének engedélyezése
+### Szolgáltatói nyilvántartás és a szolgáltatók, intézmények, hálózatok ellenőrzése
 
-98. § (1) Az e törvényben és a külön jogszabályban meghatározott személyi és tárgyi feltétellel rendelkező bármely, az 5. § s) pontja szerinti személy vagy szervezet folytathat gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet, illetve ennek érdekében intézményt létesíthet, helyettes szülőt foglalkoztathat, illetve helyettes szülői vagy nevelőszülői hálózatot működtethet.
+98. § (1) Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet nyújtó, általa fenntartott szolgáltató, intézmény, hálózat (székhely, telephely) jogerősen be van jegyezve a szolgáltatói nyilvántartásba. Egyes gyermekvédelmi szolgáltató tevékenységek nyújtását jogszabály kizárólagosan állami szerv hatáskörébe utalhatja.
 
-(2) A gyermekvédelmi szolgáltatás keretében nem végezhető olyan szolgáltató tevékenység, amelyet jogszabály kizárólagosan állami szerv hatáskörébe utal.
+(2) A szolgáltatói nyilvántartás tartalmazza
+
+- a) a fenntartó nevét, székhelyét, adószámát és típusát,
+- b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
+- c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők nevét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, speciális vagy különleges hivatásos nevelőszülő esetén az erre vonatkozó adatot, és
+- d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
+
+(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a), c) és d) pontja szerinti adatokat.
+
+(4) A szolgáltatói nyilvántartásból jogerősen törölt és a jogerősen módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
+
+- a) a (2) bekezdés b) pontja szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
+- b) a (2) bekezdés a), c) és d) pontja szerinti adatokat a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
+
+(5) A szolgáltatói nyilvántartás adatai – a (6) bekezdésben meghatározott adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a szolgáltatói nyilvántartást vezető szerv honlapján hozzáférhetők.
+
+(6) A szolgáltatói nyilvántartás adatai közül nem nyilvános
+
+- a) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülők, nevelőszülők neve, az ellátás helye, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek száma, valamint az egyes helyettes szülők, nevelőszülők által végzett szolgáltató tevékenységre vonatkozó egyéb adatok,
+- b) a családok átmeneti otthonának és a gyermekek átmeneti otthonának címe, ha a fenntartó ezt kéri.
+
+(7) A szolgáltatói nyilvántartás nem nyilvános adatait megismerheti, és a szolgáltatói nyilvántartásból nem nyilvános adatot igényelhet a fenntartón és a szolgáltatón, intézményen, hálózaton kívül
+
+- a) a gyámhatóság a jogszabályban meghatározott eljárásának lefolytatása céljából,
+- b) a területi gyermekvédelmi szakszolgáltatást nyújtó intézmény gyermekvédelmi feladatainak ellátása céljából,
+- c) a gyermekjogi képviselő a jogszabályban meghatározott jogvédelmi feladatainak ellátása céljából,
+- d) a szolgáltató, intézmény, hálózat szolgáltatói nyilvántartásba vétele vagy ellenőrzése során hatóságként, szakhatóságként, ellenőrző hatóságként vagy szakértőként eljáró szerv a jogszabályban meghatározott eljárásának lefolytatása céljából,
+- e) az ellátásra köteles helyi önkormányzat és az állam fenntartói feladatait ellátó szerv ellátásszervezési feladataik ellátása céljából,
+- f) a kincstár és az állami támogatást megállapító, folyósító vagy ellenőrző más szerv az állami támogatás megállapítása és ellenőrzése céljából,
+- g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellátása céljából,
+- h) a rendőrség, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
+
+(8) Ha jogszabály kivételt nem tesz, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások során a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott bármely bizonyítási eszköz felhasználható, de jogszabály előírhatja egyes bizonyítási eszközök kötelező alkalmazását.
+
+(9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
+
+- a) a 100/A. §-ban foglaltak szerint gyermekvédelmi igazgatási bírságot szabhat ki,
+- b) kormányrendeletben foglaltak szerint a szolgáltatói nyilvántartás adatait módosíthatja,
+- c) kormányrendeletben foglaltak szerint a szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a szolgáltatói nyilvántartásból törölheti, és kötelezheti a fenntartót a gyermekjóléti, gyermekvédelmi szolgáltató tevékenység megszüntetésére, illetve
+- d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezményeket.
 
 99. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységnek meg kell felelnie az e törvényben és a szakmai szabályokban foglalt követelményeknek.
 
 (2) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében szolgáltatást csak a külön jogszabályban meghatározott képesítésű személy végezhet.
 
-100. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység működési engedélyhez kötött. A működési engedélyezés részletes szabályait külön jogszabály határozza meg.
+100. § (1)–(4)
 
-(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a fővárosi és megyei kormányhivatal szociális és gyámhivatala – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárás illetékmentes.
-
-(3) A működést engedélyező szerv ellenőrzi, hogy a szolgáltató tevékenységet a működési engedélyben és a jogszabályokban foglaltaknak megfelelően végzik-e.
-
-(4) A működést engedélyező szerv – külön jogszabályban foglaltak szerint – a működési engedélyt visszavonja, ha a szolgáltató tevékenység nem felel meg a jogszabályokban, illetve a működési engedélyben foglaltaknak.
-
-(5) Az otthont nyújtó ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a működési engedélyben meghatározott – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át. A helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában ellátottak száma éves átlagban nem haladhatja meg a működési engedélyben meghatározott férőhelyszám 100%-át.
+(5) Az otthont nyújtó ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a szolgáltatói nyilvántartásba jogerősen bejegyzett – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át. A helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában ellátottak száma éves átlagban nem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszám 100%-át.
 
 ### A gyermekvédelmi igazgatási bírság
 
-100/A. § (1) A működést engedélyező szerv vagy a gyámhatóság ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki
+100/A. § (1) A működést engedélyező szerv ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki
 
 - a) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a gyermeknek az e törvényben biztosított jogait megsérti,
 - b) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a tájékoztatási kötelezettséget megszegi, vagy a gyermeket, a szülőt vagy más törvényes képviselőt, az érdek-képviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, a gyermekjogi képviselőhöz vagy más hatósághoz forduljon, vagy az intézményvezető, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
-- c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a külön jogszabály szerinti esetekben nem kéri a működési engedély módosítását, ismételt kiadását, vagy nem teljesíti a működést engedélyező szerv felé fennálló, külön jogszabályban meghatározott bejelentési kötelezettségét,
+- c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a külön jogszabály szerinti esetekben nem kéri a szolgáltatói nyilvántartásba bejegyzett adatok módosítását vagy a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból történő törlését, vagy – ha jogszabály kivételt nem tesz – nem teljesíti a működést engedélyező szerv felé fennálló, külön jogszabályban meghatározott bejelentési kötelezettségét,
 - d) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a gyermekjóléti, gyermekvédelmi szolgáltatás biztosításával jogellenesen hagy fel,
-- e) működésiengedély-köteles gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet működési engedély nélkül végző, illetve ilyen szolgáltatótevékenységet működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen az ellátás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben.
+- e) szolgáltatói nyilvántartásba történő bejegyzéshez kötött gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a szolgáltatói nyilvántartásba történő jogerős bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően végző, illetve ilyen szolgáltatótevékenységet működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen az ellátás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben.
 
 (2) A bírság összegét az eset összes körülményeire, így különösen a jogsértéssel érintett gyermekek számára, a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására és – fenntartóra kiszabott bírság esetén – a bírság megfizetésének az ellátás színvonalára gyakorolt hatására tekintettel kell meghatározni.
 
@@ -2284,11 +2317,7 @@ köteles működtetni.
 
 (8)–(9)
 
-100/B. § A működést engedélyező szerv vagy a gyámhatóság ellenőrzési jogkörében a gyermekvédelmi igazgatási bírság kiszabása helyett vagy mellett
-
-- a) a gyermekjóléti, gyermekvédelmi szolgáltatás engedélyezésével, működtetésével kapcsolatos rendelkezések megsértése esetén a külön jogszabályban meghatározott jogkövetkezményeket alkalmazhatja,
-- b) a fenntartót, működtetőt kötelezheti, hogy a jogsértő személyt küldje az Országos Szociális és Gyermekvédelmi Továbbképzési és Szakvizsga Bizottság által minősített továbbképzésre, illetve
-- c) a jogsértéssel érintettek között egyeztető megbeszélés tartása iránt intézkedhet.
+100/B. §
 
 ### XV. Fejezet — A miniszter feladatai
 
@@ -2489,7 +2518,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (3) A 15. § (1)–(4) bekezdése szerinti ellátásokkal és intézkedésekkel kapcsolatos eljárásokban hirdetményi úton történő közlésnek nincs helye. A 15. § (1)–(4) bekezdése szerinti ellátásokkal és intézkedésekkel kapcsolatos eljárásokban azokban az esetekben, amikor a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint hirdetményi közlésnek lenne helye, kézbesítési ügygondnokot kell kirendelni.
 
-(4) A gyámügyi és gyermekvédelmi eljárásban hozott döntés – a gyermekjóléti és gyermekvédelmi szolgáltatótevékenység működésének engedélyezésével és ellenőrzésével kapcsolatos döntés kivételével – nem nyilvános.
+(4) A gyámügyi és gyermekvédelmi eljárásban hozott döntés – a gyermekjóléti és gyermekvédelmi szolgáltatótevékenység ellenőrzésével kapcsolatos döntés kivételével – nem nyilvános.
 
 128. § (1) A gyámügyi eljárásban meg kell hallgatni a szülőt és más törvényes képviselőt, a gondozót, a korlátozottan cselekvőképes személyt és az ítélőképessége birtokában levő cselekvőképtelen gyermeket, továbbá minden esetben azt, akivel szemben kötelezettséget kívánnak megállapítani, valamint – szükség szerint – a gyermek más közeli hozzátartozóit. A meghallgatást mellőzni lehet, ha a meghallgatás miatti késedelem elháríthatatlan kárral vagy veszéllyel járna.
 
@@ -2717,11 +2746,11 @@ vonatkozó adatokat kezelhet.
   - dd) vagyoni helyzetére vonatkozó adatokat;
 - e) a gyermek törvényes képviselőjének, a válsághelyzetben lévő várandós anya törvényes képviselőjének, a vér szerinti szülő törvényes képviselőjének személyazonosító adatait.
 
-(2) Ha az örökbefogadást elősegítő közhasznú szervezet szolgáltatása megszűnik, e tényről 8 napon belül tájékoztatja a szolgáltatást igénybe vevőt. A tájékoztatásban 30 napos határidő megjelölésével felhívja a szolgáltatást igénybe vevőt a hozzá benyújtott dokumentumok átvételére. Ha a szolgáltatást igénybe vevő a dokumentumokat nem veszi át, úgy ezeket és a tevékenysége során keletkezett iratokat megküldi a működést engedélyező szervnek.
+(2) Ha az örökbefogadást elősegítő közhasznú szervezet szolgáltatása megszűnik, e tényről 8 napon belül tájékoztatja a szolgáltatást igénybe vevőt. A tájékoztatásban 30 napos határidő megjelölésével felhívja a szolgáltatást igénybe vevőt a hozzá benyújtott dokumentumok átvételére. Ha a szolgáltatást igénybe vevő a dokumentumokat nem veszi át, úgy ezeket és a tevékenysége során keletkezett iratokat megküldi a szolgáltatást engedélyező szervnek.
 
-(3) A működést engedélyező szerv az örökbefogadást elősegítő közhasznú szervezet szolgáltatásának további szervezése céljából kezelheti az (1) bekezdés szerinti adatokat. A működést engedélyező szerv az adatkezelés céljának megszűnését követően adatkezelését haladéktalanul megszünteti.
+(3) A szolgáltatást engedélyező szerv az örökbefogadást elősegítő közhasznú szervezet szolgáltatásának további szervezése céljából kezelheti az (1) bekezdés szerinti adatokat. A szolgáltatást engedélyező szerv az adatkezelés céljának megszűnését követően adatkezelését haladéktalanul megszünteti.
 
-(4) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában évente adatot szolgáltat a működést engedélyező szervnek – az örökbefogadást elősegítő közhasznú szervezet tevékenységének ellenőrzése céljából –
+(4) Az örökbefogadást elősegítő közhasznú szervezet az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott formában évente adatot szolgáltat a szolgáltatást engedélyező szervnek – az örökbefogadást elősegítő közhasznú szervezet tevékenységének ellenőrzése céljából –
 
 - a) személyazonosításra alkalmatlan módon az (1) bekezdés a) pontjában foglaltakról,
 - b) az (1) bekezdés b) pontjában foglaltakról.
@@ -2734,6 +2763,19 @@ vonatkozó adatokat kezelhet.
 (6) A 69/D. § (1) bekezdésében foglalt megállapodás megszűnése esetén a benyújtott dokumentumokat a szolgáltatást igénybe vevőnek vissza kell adni.
 
 (7) A közhasznú szervezet adatvédelmi szabályzatot készít, amely nyilvános.
+
+135/B. § (1) A működést engedélyező szerv a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások és a szolgáltatók, intézmények, hálózatok ellenőrzése érdekében a 98. § (4) bekezdés b) pontjában meghatározott időpontig kezelheti
+
+- a) az ellátott gyermekre, fiatal felnőttre vonatkozó, a szolgáltató, intézmény, hálózat, vagy a fenntartó által kezelt, a 135. §-ban meghatározott adatokat,
+- b) családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személynek és helyettesének a személyazonosító adatait, a végzettségére, képzettségére vonatkozó adatait, a 11/A. § (8) bekezdése szerinti kizáró okokra vonatkozó adatait, a gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó adatait, az egészségi állapotára vonatkozó adatait, valamint a gondozás helyén élő más személyek egészségi állapotára vonatkozó adatokat,
+- c) a helyettes szülő és a nevelőszülő személyazonosító adatait, a végzettségére, képzettségére vonatkozó adatait, a 11/A. § (8) bekezdése szerinti kizáró okokra vonatkozó adatait, a gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó adatait, az egészségi állapotára vonatkozó adatait, az ellátási hellyel összefüggő adatait, valamint a helyettes szülővel, nevelőszülővel egy háztartásban élő személyek egészségi állapotára vonatkozó adatokat,
+- d) a b) és c) pontban nem említett, a szolgáltatónál, intézménynél, hálózatnál kötelezően alkalmazandó személy és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személy személyazonosító adatait, a végzettségére, képzettségére vonatkozó adatait, és a 11/A. § (8) bekezdése szerinti kizáró okokra vonatkozó adatait.
+
+(2) Családi napközi és családi gyermekfelügyelet esetén a szolgáltatást nyújtó személy és helyettese, a helyettes szülő, a nevelőszülő, a kötelezően alkalmazandó más személy, és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személy azt a tényt, hogy nem állnak fenn vele szemben a 11/A. § (8) bekezdés a) és d) pontja szerinti kizáró okok,
+
+- a) a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásba történő bejegyzése iránti eljárás során helyettes szülői és nevelőszülői hálózat esetén a működtető és a fenntartó felé, egyéb esetben a működést engedélyező szerv felé hatósági bizonyítvánnyal igazolja,
+- b) adatmódosítás során nem hálózat keretében nyújtott helyettes szülői ellátás esetén, vagy ha a működést engedélyező szerv ezt kéri, a működést engedélyező szerv felé, helyettes szülői és nevelőszülői hálózat esetén a működtető és a fenntartó felé, egyéb esetben a munkáltatói jogkör gyakorlója felé hatósági bizonyítvánnyal igazolja,
+- c) ha a működést engedélyező szerv az ellenőrzés során erre felhívja, a felhívás kézhezvételétől számított húsz napon belül hatósági bizonyítvánnyal igazolja.
 
 136. § (1) A gyermek személyazonosító adatai, továbbá
 
@@ -2773,7 +2815,7 @@ vonatkozó adatokat kezelhet.
 
 (2) A Kormány által kijelölt szerv gondoskodik a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi tevékenységet végző és a külön jogszabályban meghatározott szakképesítéssel rendelkező személy adatai működési nyilvántartásának az Szt.-ben meghatározottak szerinti vezetéséről.
 
-(3) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos nyilvántartást vezet a szolgáltató tevékenységet végző szolgáltatókról, intézményekről, helyettes szülői és nevelőszülői hálózatokról. A nyilvántartás adattartalma nyilvános.
+(3)
 
 (3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult személyről és gondozó családjáról.
 
@@ -2845,7 +2887,7 @@ vonatkozó adatokat kezelhet.
 
 (6) A (2) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
 
-(7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a működési engedélyezésre és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+(7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
 
 140. § (1) A gyámhatóság nyilvántartást vezet
 
@@ -2856,7 +2898,7 @@ vonatkozó adatokat kezelhet.
 
 (2) A Kormány által kijelölt gyámhatóság az ideiglenes hatállyal elhelyezett külföldi állampolgárságú gyermekekről – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – nyilvántartást vezet és az abban szereplő adatokról, valamint az azokban bekövetkezett változásokról rendszeresen tájékoztatja a minisztert. A nyilvántartás tartalmazza a 139. § (1) bekezdésében meghatározott adatokat.
 
-(3) A gyámhatóság egységes nyilvántartást vezet az általa engedélyezett gyermekvédelmi szolgáltatásokról és az ellenőrzéssel kapcsolatos döntésekről. A nyilvántartás adattartalma nyilvános.
+(3) A gyámhatóság egységes nyilvántartást vezet a gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények, hálózatok (székhelyek, telephelyek) ellenőrzésével kapcsolatos döntésekről. A nyilvántartás adattartalma nyilvános.
 
 (4)
 
@@ -2941,7 +2983,7 @@ törölni kell az adatokat.
 
 (2) Szakmai programok meghirdetésével kell elősegíteni a helyi önkormányzat részére meghatározott ellátási formák létrehozásának, valamint olyan mértékű fejlesztésének és korszerűsítésének támogatását, amely lehetővé teszi az önkormányzat az e törvényben előírt kötelezettségének teljesítését.
 
-145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet végző, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
+145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba jogerősen bejegyzett szolgáltató, intézmény vagy hálózat útján gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet folytató, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
 (2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
 
@@ -2952,14 +2994,14 @@ törölni kell az adatokat.
 
 (2b) A (2a) bekezdés szerinti esetben a központi költségvetésről szóló törvényben biztosított támogatás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
 
-- a) a változás a működési engedély módosítását nem teszi szükségessé,
-- b) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+- a) a változás a szolgáltatói nyilvántartásban bejegyzett adatok módosítását nem teszi szükségessé,
+- b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
 
 (2c) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
 - a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntartót,
 - b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
-- c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
+- c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
 - d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól kezdődően, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 
 (3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
@@ -2973,7 +3015,7 @@ törölni kell az adatokat.
 - a) a megszűnt és a létrehozott szolgáltatónál, intézményben ellátott gyermekeknek legalább ötven százaléka azonos, valamint
 - b) a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
 
-(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartó működési engedélyében nem szereplő szolgáltató tevékenység – ide nem értve azt az esetet, ha az új szolgáltató tevékenységet a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám.
+(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartónak a szolgáltatói nyilvántartásban bejegyzett adatai között nem szereplő szolgáltató tevékenység – ide nem értve azt az esetet, ha az új szolgáltató tevékenységet a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám.
 
 (4) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
 
@@ -3235,6 +3277,27 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (4) A (2) és (3) bekezdés alapján rendszeres gyermekvédelmi kedvezménnyel kapcsolatosan rögzített, az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 138. § (1) bekezdése szerinti azon adatokat, amelyeket a Gyvt. 2013. november 14-én hatályos 138. § (1) bekezdése szerint az eljáró hatóság nem tartott nyilván, a (2) és (3) bekezdés szerint rögzített jogosultság időtartama alatt nem kell beszerezni.
 
+161/V. § (1) A 98. §-ban foglaltakon túl gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet folytathat az a fenntartó is, amely 2013. december 1-jét megelőzően kiadott, hatályos működési engedéllyel rendelkezik.
+
+(2) Az (1) bekezdésben meghatározott szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a működés jogszerűsége – különösen a gyermekjóléti, gyermekvédelmi szolgáltató tevékenység után igényelhető, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság – szempontjából a szolgáltatói nyilvántartásba történő jogerős bejegyzés időpontjáig úgy kell tekinteni, mintha be lenne jegyezve a szolgáltatói nyilvántartásba. A szolgáltatói nyilvántartásba bejegyzett szolgáltató, intézmény, hálózat (székhely, telephely) alatt a működési engedéllyel rendelkező szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) is érteni kell.
+
+(3) Ha jogszabály feltételként a szolgáltatói nyilvántartásba történő bejegyzést határozza meg, akkor azon e jogszabályi feltételnek való megfelelés szempontjából
+
+- a) a 2013. december 1-jét megelőző időszakra azt kell érteni,
+- b) a 2013. november 30-át követő időszakra, az (1) bekezdésben meghatározott esetben azt is érteni kell,
+
+hogy a fenntartó működési engedéllyel rendelkezik.
+
+(4) A 2013. november 30-án jogerősen le nem zárt, működési engedély kiadása iránti kérelmeket a szolgáltatói nyilvántartásba történő bejegyzés iránti kérelemként kell elbírálni.
+
+(5) A 2013. november 30-án jogerősen le nem zárt, vagy azt követően, de a szolgáltatói nyilvántartásba történő bejegyzést megelőzően indult, működési engedély módosítása vagy visszavonása iránti eljárás vagy ellenőrzés során a szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) hivatalból be kell jegyezni a szolgáltatói nyilvántartásba, és – a működési engedély módosításának vagy visszavonásának szükségessége esetén – a szolgáltatói nyilvántartás adatainak módosítása, illetve a szolgáltatói nyilvántartásból való törlés iránt kell az eljárást lefolytatni.
+
+(6) A 2013. december 1-jén működési engedéllyel rendelkező, az (5) bekezdésben nem említett szolgáltatókat, intézményeket, hálózatokat (székhelyeket, telephelyeket) a működést engedélyező szerv 2014. június 30-áig hivatalból jegyzi be a szolgáltatói nyilvántartásba.
+
+(7) A 2013. november 30-án hatályos 137. § (3) bekezdése szerinti nyilvántartást az azt vezető szerv a honlapján 2014. június 30-áig – a 2013. november 30-ai állapotnak megfelelően – elérhetővé teszi. A 2013. november 30-án hatályos 137. § (3) bekezdése szerinti nyilvántartás adatait az azt vezető szerv 2019. január 2-án törli.
+
+(8) Ha a működést engedélyező szerv 2013. december 31-éig bejegyzi a szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a szolgáltatói nyilvántartásba, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amely működési engedéllyel rendelkezik. Ha a működést engedélyező szerv 2013. december 31-éig törli a bejegyzett szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a szolgáltatói nyilvántartásból, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amelynek a működési engedélyét visszavonták.
+
 ### Felhatalmazás
 
 162. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3247,14 +3310,14 @@ gyermek után az intézményi térítési díj 100%-át,
 - f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 - g) a személyes adatok kezelésére vonatkozó részletes eljárási szabályokat,
 - h) a helyettes szülői és a nevelőszülői jogviszony egyes kérdéseit,
-- i) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
-- j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a működést engedélyező szerv kijelölését,
+- i) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szolgáltatók, intézmények és hálózatok ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését,
+- j) az örökbefogadást elősegítő magánszervezetek tevékenységét és működésük engedélyezését, továbbá a szolgáltatást engedélyező szerv kijelölését,
 - k) a gyermekvédelmi közvetítői eljárás részletes szabályait,
-- l) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők szakmai ellenőrzésének részletes szabályait,
+- l)
 - m) a gyámhatóság hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
 - n) a gyámhatóság illetékességére vonatkozó szabályokat,
 - o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
-- p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
+- p)
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 - r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárásra, valamint az iskoláztatási támogatás folyósításának felfüggesztésére, a felfüggesztés megszüntetésére és az iskoláztatási támogatás szüneteltetése kezdeményezésére irányuló eljárásra, a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
 - s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
@@ -3284,7 +3347,7 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
-(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.
 
