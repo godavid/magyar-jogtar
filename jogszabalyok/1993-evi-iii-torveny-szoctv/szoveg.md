@@ -384,7 +384,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (5) Az (1) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
 
-(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a működési engedélyezésre és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+(6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 92/K. § szerinti – hatósági nyilvántartására (a továbbiakban: szolgáltatói nyilvántartás) vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárásának a lefolytatása céljából.
 
 21. § A 20. és 20/C. §-ban szabályozott nyilvántartásból adat csak az adatigénylésre jogosult szervnek és a jogosultságot megállapító szociális hatáskört gyakorló szervnek szolgáltatható.
 
@@ -1293,7 +1293,7 @@ nyújtja.
 
 (3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni.
 
-(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a működési engedély visszavonásától számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
+(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a szolgáltatói nyilvántartásból való törléstől számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
 
 57/A. §
 
@@ -1328,7 +1328,7 @@ nyújtja.
 
 (7) A módszertani feladatok ellátására a szociál- és nyugdíjpolitikáért felelős miniszter egyedi támogatást nyújt.
 
-58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a jogerős működési engedéllyel szociális szolgáltatást nyújtó, közfeladatot ellátó egyházi fenntartó és a központi költségvetésről szóló törvény szerinti nem állami fenntartó.
+58/A. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba jogerősen bejegyzett szociális szolgáltató, szociális intézmény útján szociális szolgáltatást biztosító, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
 (2) A 131/A. §-ban nem említett szociális szolgáltatások esetében
 
@@ -1347,15 +1347,15 @@ nyújtja.
 
 (2d) A (2a) bekezdés szerinti esetben – ide nem értve a (2b) bekezdés szerinti nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámát – a központi költségvetésről szóló törvényben biztosított támogatás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
 
-- a) a változás a működési engedély módosítását nem teszi szükségessé,
+- a) a változás a szolgáltatói nyilvántartásba bejegyzett adatok módosítását nem teszi szükségessé,
 - b) a kérelem benyújtását megelőzően is létezett férőhelyet demens betegek bentlakásos intézményi ellátására minősítik át,
-- c) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+- c) a szolgáltatói nyilvántartásba bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé.
 
 (2e) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
 - a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntartót,
 - b) azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
-- c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás vagy átmeneti és tartós ellátást nyújtó férőhelyek egymás közti átminősítése teszi szükségessé,
+- c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amely esetében a szolgáltatói nyilvántartásba bejegyzett adatok módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás vagy átmeneti és tartós ellátást nyújtó férőhelyek egymás közti átminősítése teszi szükségessé,
 - d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
@@ -1703,7 +1703,7 @@ biztosítható.
 
 - a) szociális szolgáltatást nyújtó szolgáltatóval, intézménnyel kötött megállapodás útján,
 - b) más támogatott lakhatást nyújtó fenntartóval együttesen, a közös működtetésre vonatkozó megállapodás alapján (hálózat),
-- c) más, a tevékenységi köre szerinti működési engedéllyel rendelkező szolgáltatást nyújtó szervezettel kötött megállapodás útján,
+- c) más, a tevékenységi köre szerinti működési engedéllyel rendelkező vagy a szolgáltatói nyilvántartásba bejegyzett szervezettel kötött megállapodás útján,
 - d) az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
 
 is biztosíthatja.
@@ -1842,13 +1842,7 @@ vonatkozó előírásoknak.
 
 (3) A fővárosi önkormányzat által fenntartott szakosított ellátást nyújtó intézmények ellátási területe az egész fővárosra kiterjed.
 
-88/A. § (1)–(2)
-
-(3)
-
-(4)
-
-(5) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos jegyzéket vezet a személyes gondoskodást nyújtó szociális intézményekről, szolgáltatókról.
+88/A. §
 
 89. § (1) A települési önkormányzatok ellátási kötelezettsége a település lakosságára, valamint a településen életvitelszerűen tartózkodó hajléktalanokra terjed ki, kivéve, ha az intézményt társulás keretében más önkormányzattal közösen tartják fenn, vagy az intézménnyel nem rendelkező önkormányzattal kötött szerződésben a fenntartó az ellátást más önkormányzat lakosaira kiterjedően is vállalta.
 
@@ -1965,14 +1959,14 @@ rendeletet alkot.
 
 (2)–(4)
 
-(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a szociális hatóság intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
+(5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a működést engedélyező szerv intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 
 - a)
 - b)
-- c) az intézmény alapfeladataiban történő változást – mely új működési engedélyeztetési eljárást tesz szükségessé – nem jelzi a működést engedélyező hatóság felé, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
+- c) fenntartásában lévő szociális intézmény olyan szociális szolgáltatást nyújt, amely nincs jogerősen bejegyezve a szolgáltatói nyilvántartásba, a központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka,
 - d) nem biztosítja a kötelező gyógyszerkészletet vagy gyógyászati segédeszközt, az éves központi költségvetésről szóló törvényben biztosított támogatás nyolc százaléka.
 
-(6) Amennyiben a működést engedélyező hatóság több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
+(6) Amennyiben a működést engedélyező szerv több – az (5) bekezdésben megjelölt – jogszabálysértő körülményt észlel, a központi költségvetésről szóló törvényben biztosított támogatás visszatartásának mértéke legfeljebb az éves központi költségvetésről szóló törvényben biztosított támogatás 15 százaléka.
 
 (7) A visszatartott központi költségvetésről szóló törvényben biztosított támogatás akkor illeti meg az egyházi fenntartót és a nem állami fenntartót, ha a visszatartásra okot adó körülményt megszünteti
 
@@ -2025,27 +2019,42 @@ rendeletet alkot.
 
 92/J. § A Kormány által erre kijelölt szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről a Gyvt. szerint névjegyzéket vezet. A szociális szakmai programok értékelésében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján szociálpolitikai szakértői tevékenység folytatására jogosult, engedéllyel rendelkező szakértő vehet részt.
 
-### VII. CÍM — A szociális szolgáltatások engedélyezése
+### VII. CÍM — Szolgáltatói nyilvántartás és a szolgáltatók, intézmények ellenőrzése
 
-92/K. § (1) Szociális szolgáltatásokat a 4. § (1) bekezdésének m) pontjában meghatározott bármely állami fenntartó, egyházi fenntartó és nem állami fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, illetve szociális intézmény
+92/K. § (1) Szociális szolgáltatást a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha az általa fenntartott szociális szolgáltató, szociális intézmény (székhely, telephely) jogerősen be van jegyezve a szolgáltatói nyilvántartásba.
 
-- a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
-- b) jogerős működési engedéllyel rendelkezik.
+(2) A szolgáltatói nyilvántartás tartalmazza
 
-(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a fővárosi és megyei kormányhivatal szakigazgatási szerveként működő szociális hatóság – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
+- a) a fenntartó nevét, székhelyét, adószámát és típusát,
+- b) a fenntartó és a szociális szolgáltató, szociális intézmény (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
+- c) a szociális szolgáltató, szociális intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás kormányrendeletben meghatározott adatait.
 
-(3) A működést engedélyező szerv ellenőrzi, hogy a szociális szolgáltató, illetve intézmény működése megfelel-e a működési engedélyben és a jogszabályokban foglaltaknak.
+(3) A szolgáltatói nyilvántartás hatósági nyilvántartás, amely közhitelesen tanúsítja a (2) bekezdés a) és c) pontja szerinti adatokat.
 
-(4) A működést engedélyező szerv – külön jogszabályban foglaltak szerint – a működési engedélyt visszavonhatja, és kötelezheti a fenntartót a szociális szolgáltatás abbahagyására, ha működése nem felel meg a jogszabályokban, illetve a működési engedélyben foglaltaknak.
+(4) A szolgáltatói nyilvántartásból jogerősen törölt és a jogerősen módosított adatokat a szolgáltatói nyilvántartás történeti állományába kell helyezni. A történeti állományba helyezett,
+
+- a) a (2) bekezdés b) pont szerinti adatokat a történeti állományba helyezést követő egy év elteltével,
+- b) a (2) bekezdés a) és c) pontja szerinti adatokat a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból való törlését követő tíz év elteltével kell törölni.
+
+(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározottak kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a szolgáltatói nyilvántartást vezető szerv honlapján hozzáférhetők.
+
+(4b) Ha jogszabály kivételt nem tesz, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott bármely bizonyítási eszköz felhasználható, de jogszabály előírhatja egyes bizonyítási eszközök kötelező alkalmazását.
+
+(4c) A szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a működést engedélyező szerv ellenőriz. Ha a szociális szolgáltató, szociális intézmény (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
+
+- a) a VIII. címben foglaltak szerint szociális igazgatási bírságot szabhat ki,
+- b) kormányrendeletben foglaltak szerint a szolgáltatói nyilvántartás adatait módosíthatja,
+- c) kormányrendeletben foglaltak szerint a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásból törölheti, és kötelezheti a fenntartót a szociális szolgáltatások nyújtásának megszüntetésére, illetve
+- d) alkalmazhatja a kormányrendeletben meghatározott egyéb jogkövetkezményeket.
 
 (5) Az intézményben ellátottak száma egyetlen napon sem haladhatja meg
 
-- a) nappali intézmény esetén – a nappali melegedő kivételével – a működési engedélyben meghatározott férőhelyszám száztíz százalékát,
-- b) bentlakásos intézmény esetén a működési engedélyben meghatározott férőhelyszám százöt százalékát, éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a működési engedélyben meghatározott férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a működési engedély módosítását.
+- a) nappali intézmény esetén – a nappali melegedő kivételével – a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszám száztíz százalékát,
+- b) bentlakásos intézmény esetén a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszám százöt százalékát, éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a szolgáltatói nyilvántartásba jogerősen bejegyzett férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a szolgáltatói nyilvántartásba bejegyzett adatok módosítását.
 
-(6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a működési engedélyben meghatározott ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
+(6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a szolgáltatói nyilvántartásba jogerősen bejegyzett ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
 
-(6) A Kormány által kijelölt szerv a működési engedéllyel rendelkező szociális szolgáltatókról, intézményekről nyilvántartást vezet, amelynek adattartalma nyilvános.
+(6)
 
 (7) A működést engedélyező szerv a működés személyi és tárgyi feltételeinek, a működés jogszerűségének, a szociális szolgáltatásra való jogosultság megállapításának, illetőleg az intézményi jogviszonyra vonatkozó szabályok megtartásának ellenőrzése érdekében, az ahhoz szükséges mértékben
 
@@ -2058,9 +2067,9 @@ rendeletet alkot.
 
 92/L. § (1) A működést engedélyező szerv szociális igazgatási bírságot (a továbbiakban: bírság) szabhat ki
 
-- a) szociális szolgáltatást működési engedély nélkül nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
+- a) szociális szolgáltatást a szolgáltatói nyilvántartásba történő jogerős bejegyzés nélkül vagy a szolgáltatói nyilvántartásból történő, végrehajtható törlést követően nyújtó, illetve ilyen szolgáltatást működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen a szolgáltatás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben,
 - b) a fenntartóval, a jogsértés során a fenntartó nevében eljáró személlyel, illetve a szociális szolgáltató, intézmény vezetőjével szemben, ha a fenntartó, illetve a szociális szolgáltató, intézmény az ellátottak e törvényben biztosított valamely jogát megsérti, így különösen, ha az ellátottak, törvényes képviselőik, illetve az ellátotti érdek-képviseleti szervek felé fennálló tájékoztatási, bejelentési kötelezettséget megszegik, az ellátottat vagy az ellátotti érdekképviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, más hatósághoz vagy az ellátottjogi képviselőhöz forduljon, vagy a szociális szolgáltató, intézmény vezetője, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
-- c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a működési engedély módosítását vagy visszavonását,
+- c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a szolgáltatói nyilvántartásba bejegyzett adatok módosítását vagy a szociális szolgáltatónak, szociális intézménynek (székhelynek, telephelynek) a szolgáltatói nyilvántartásból történő törlését,
 - d) ha jogszabály kivételt nem tesz, a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét határidőben nem teljesíti,
 - e) a szociális szolgáltató, intézmény vezetőjével vagy – ha a feltételeket a fenntartó nem biztosítja – a fenntartóval szemben, ha a szociális szolgáltató, intézmény nem nyújtja azokat a szolgáltatásokat, amelyeket az engedélyezett szociális szolgáltatásra vonatkozó jogszabályok alapján nyújtania kell,
 - f) az állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) szociális szolgáltató, intézmény vezetőjével szemben, ha a 94/C. § vagy a 2011. január 1-jét megelőzően hatályos 94/B. § szerinti megállapodás, annak módosítása vagy a szociális szolgáltató, intézmény vezetője által történő megszüntetése jogszabályba ütközik,
@@ -2901,7 +2910,7 @@ járul hozzá.
 - a) a megszűnt és a létrehozott szolgáltató, intézmény ellátottainak legalább ötven százaléka azonos, továbbá
 - b) nappali és bentlakásos intézményi ellátás esetén a megszűnt és a létrehozott intézmény – részben vagy egészben – ugyanabban az ingatlanban működik.
 
-(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartó működési engedélyében nem szereplő szociális szolgáltatás – ide nem értve azt az esetet, ha az új szociális szolgáltatást a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám, illetve ellátható személyek száma.
+(3) A megtérítendő összeg megállapítása során nem vehető figyelembe a korábbi fenntartónak a szolgáltatói nyilvántartásba bejegyzett adatai között nem szereplő szociális szolgáltatás – ide nem értve azt az esetet, ha az új szociális szolgáltatást a korábbi férőhelyek átminősítésével hozták létre – és férőhelyszám, illetve ellátható személyek száma.
 
 (4) Ha a nem állami fenntartó a fenntartásában működő szolgáltatót, intézményt egyházi fenntartónak adja át, vagy a nem állami fenntartó által fenntartott szolgáltató, intézmény megszűnésétől számított tizenkét hónapon belül egyházi fenntartó a (2) bekezdés a)–b) pontjában foglaltaknak megfelelő új szolgáltatót, intézményt hoz létre, a nem állami fenntartó köteles az egyházi kiegészítő támogatás öt évre számított átalányösszegét a központi költségvetésnek megtéríteni. Az átalányösszeg a nem állami fenntartónak a fenntartóváltozást, illetve a szolgáltató, intézmény megszűnését megelőzően járó központi költségvetésről szóló törvényben biztosított támogatás – törtéves működés esetén egész évre számított – összegének és az egyházi kiegészítő támogatás akkor hatályos mértékének szorzata alapján számított összeg ötszöröse. A teljes átalányösszeg megfizetéséig a fenntartóváltozás, illetve az új szolgáltató, intézmény nem engedélyezhető.
 
@@ -2938,7 +2947,7 @@ kaphatnak.
 - c) a Szociálpolitikai Tanács összetételére, megalakítására és működésére vonatkozó részletes szabályokat;
 - d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
 - e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
-- f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
+- f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 - g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 - i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 - j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
@@ -2946,7 +2955,7 @@ kaphatnak.
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
-- o) a szociális intézmények, szolgáltatók országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését;
+- o)
 - p) a támogató szolgáltatás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;
@@ -2975,7 +2984,7 @@ kaphatnak.
 - n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan rászorult személyek földgáz- és távhőszolgáltatáshoz kapcsolódó kiegészítő támogatásának, valamint egyéb fűtési támogatásának szabályait;
 - o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
-(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a működési engedélyezési eljárásban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -3103,6 +3112,27 @@ formájában lehet létrehozni.
 (3) A 2013. december 16-át megelőzően indult olyan ügyekben, amelyek nem esnek a (2) bekezdés hatálya alá, az adatrögzítést a döntés meghozatalát követő tíz napon belül kell elvégezni.
 
 (4) A (2) és (3) bekezdés alapján történő adatrögzítések során rögzített ellátásokkal kapcsolatos, az egyes törvényeknek a szociális és gyermekvédelmi ellátások országos nyilvántartásával összefüggő módosításáról szóló 2013. évi CLVIII. törvénnyel megállapított 18. § és 18/A. § szerinti azon adatokat, amelyeket az Szt. 2013. november 14-én hatályos 18. § és 18/A. §-a szerint az eljáró hatóság nem tartott nyilván, az ellátás 2013. december 15-ét követő felülvizsgálata során kell beszerezni és az országos nyilvántartásba, valamint a 18. § és 18/A. § szerinti nyilvántartásokba feltölteni. A közgyógyellátás és a lakásfenntartási támogatás vonatkozásában a (2) és (3) bekezdés szerint rögzített jogosultság időtartama alatt a hiányzó adatokat nem kell beszerezni.
+
+140/U. § (1) A 92/K. §-ban foglaltakon túl szociális szolgáltatást biztosíthat az a fenntartó is, amely 2013. december 1-jét megelőzően kiadott, hatályos működési engedéllyel rendelkezik.
+
+(2) Az (1) bekezdésben meghatározott szociális szolgáltatót és szociális intézményt (székhelyet, telephelyet) a működés jogszerűsége – különösen a szociális szolgáltatások után igényelhető, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság – szempontjából a szolgáltatói nyilvántartásba történő jogerős bejegyzés időpontjáig úgy kell tekinteni, mintha be lenne jegyezve a szolgáltatói nyilvántartásba.
+
+(3) Ha jogszabály feltételként a szolgáltatói nyilvántartásba történő bejegyzést határozza meg, akkor azon e jogszabályi feltételnek való megfelelés szempontjából
+
+- a) a 2013. december 1-jét megelőző időszakra azt kell érteni,
+- b) a 2013. november 30-át követő időszakra, az (1) bekezdésben meghatározott esetben azt is érteni kell,
+
+hogy a fenntartó működési engedéllyel rendelkezik.
+
+(4) A 2013. november 30-án jogerősen le nem zárt, működési engedély kiadása iránti kérelmeket a szolgáltatói nyilvántartásba történő bejegyzés iránti kérelemként kell elbírálni.
+
+(5) A 2013. november 30-án jogerősen le nem zárt, vagy azt követően, de a szolgáltatói nyilvántartásba történő bejegyzést megelőzően indult, a működési engedély módosítása vagy visszavonása iránti eljárás vagy ellenőrzés során a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) hivatalból be kell jegyezni a szolgáltatói nyilvántartásba, és – a működési engedély módosításának vagy visszavonásának szükségessége esetén – a szolgáltatói nyilvántartás adatainak módosítása, illetve a szolgáltatói nyilvántartásból való törlés iránt kell az eljárást lefolytatni.
+
+(6) A 2013. december 1-jén működési engedéllyel rendelkező, az (5) bekezdésben nem említett szociális szolgáltatókat, szociális intézményeket (székhelyeket, telephelyeket) a működést engedélyező szerv 2014. június 30-áig hivatalból jegyzi be a szolgáltatói nyilvántartásba.
+
+(7) A 2013. november 30-án hatályos, az egyes szociális és munkaügyi tárgyú törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2010. évi XXXIX. törvénnyel megállapított 92/K. § (6) bekezdése szerinti nyilvántartást az azt vezető szerv a honlapján 2014. június 30-áig – a 2013. november 30-ai állapotnak megfelelően – elérhetővé teszi. A 2013. november 30-án hatályos, az egyes szociális és munkaügyi tárgyú törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2010. évi XXXIX. törvénnyel megállapított 92/K. § (6) bekezdése szerinti nyilvántartás adatait az azt vezető szerv 2019. január 2-án törli.
+
+(8) Ha a működést engedélyező szerv 2013. december 31-éig bejegyzi a szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásba, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amely működési engedéllyel rendelkezik. Ha a működést engedélyező szerv 2013. december 31-éig törli a bejegyzett szociális szolgáltatót, szociális intézményt (székhelyet, telephelyet) a szolgáltatói nyilvántartásból, azt a 2013. évre járó, a központi költségvetésről szóló törvényben biztosított támogatásokra és más állami támogatásra való jogosultság szempontjából úgy kell tekinteni, mint amelynek a működési engedélyét visszavonták.
 
 ### Az Európai Unió jogának való megfelelés
 
