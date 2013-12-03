@@ -397,6 +397,8 @@ jelöli ki.
 
 (7) A szabálysértési hatóság kijelöléséről hozott határozat ellen jogorvoslatnak nincs helye.
 
+40/A. § A közigazgatás-szervezésért felelős miniszter a szabálysértési szabályozásért felelős miniszterrel egyetértésben kiadott rendeletében a kormányhivatal illetékességi területén a járási hivatal hatáskörébe tartozó valamennyi vagy egyes szabálysértési ügyekben való eljárásra, valamint a járási hivatal rendes munkaidején túl történő eljárásra az általános illetékességű járási hivataltól eltérő más járási hivatal illetékességét is megállapíthatja.
+
 #### 30. A bíróság hatásköre és illetékessége
 
 41. § (1) Szabálysértési elzárással is büntethető szabálysértés miatt első fokon az elkövetés helye szerint illetékes járásbíróság jár el.
@@ -1004,7 +1006,14 @@ jelöli ki.
 - a) mindaz a költség, amelyet az állam a szabálysértés bizonyítása érdekében a büntetés, illetve az intézkedés végrehajtásának befejezéséig, továbbá a perújítási eljárás során előlegezett,
 - b) az eljárás alá vont személynek, a sértettnek, továbbá az eljárás alá vont személy, illetve a sértett képviselőjének az ügyben felmerült indokolt készkiadása, akkor is, ha azt az állam nem előlegezte,
 - c) a sértett képviselőjének az indokolt készkiadása és díja, akkor is, ha azt az állam nem előlegezte,
-- d) a közérdekű munka büntetés végzéséhez beszerzett foglalkoztathatósági szakvélemény költsége.
+- d) a meg nem fizetett pénzbírság vagy helyszíni bírság közérdekű munkával történő megváltása esetén a közérdekű munka végzéséhez beszerzett foglalkoztathatósági szakvélemény költsége.
+
+(1a) A büntetésként kiszabott közérdekű munka végzéséhez beszerzett foglalkoztathatósági szakvélemény költségét az állam viseli. A szakvélemény költségét
+
+- a) a bíróság által kiszabott közérdekű munka esetén az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság,
+- b) egyéb esetben a büntetést kiszabó szabálysértési hatóság
+
+téríti meg.
 
 (2) A (3) bekezdésben meghatározott kivétellel az eljárás alá vont személy viseli a szabálysértési költséget, ha vele szemben szabálysértés elkövetése miatt joghátrányt alkalmaztak.
 
@@ -1683,13 +1692,13 @@ jelöli ki.
 
 142. § (1) A meg nem fizetett pénzbírság vagy helyszíni bírság – gépjárművezető távollétében kiszabott helyszíni bírság kivételével – közérdekű munkával történő megváltása érdekében az elkövető – a 10. § a) és b) pontjában meghatározott esetek kivételével – a pénzbírság befizetésére rendelkezésre álló határidő lejártát követő harmadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnél. Ennek elmulasztása esetén a meg nem fizetett pénzbírságot, helyszíni bírságot – a 141. § (17) bekezdés kivételével – szabálysértési elzárásra kell átváltoztatni.
 
-(2) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásáról az állami foglalkoztatási szerv gondoskodik. Az állami foglalkoztatási szerv a 144. § (4) és (8) bekezdésében foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani.
+(2) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásáról az állami foglalkoztatási szerv gondoskodik. Az állami foglalkoztatási szerv a 144. § (4), (8) és (11) bekezdésében foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani.
 
 (3) A közérdekű munkát az elkövető hetenként legalább egy napon – a heti pihenőnapon vagy szabadidejében – díjazás nélkül végzi. A munkahellyel a közérdekű munka tartamára nem létesül munkaviszony.
 
 (4) Az állami foglalkoztatási szerv haladéktalanul, de legkésőbb két napon belül értesíti a 141. § (2) és (3) bekezdésben meghatározott hatóságot
 
-- a) arról, ha az elkövető a munkakötelezettségének nem vagy részben tesz eleget, a teljesített munkaórák megjelölésével, valamint
+- a) arról, ha az elkövető a munkakötelezettségének nem vagy részben, vagy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének nem tesz eleget, a teljesített munkaórák megjelölésével, valamint
 - b) arról, hogy az elkövető a foglalkoztathatósági szakvéleményt határidőben nem adta le.
 
 (5) A (4) bekezdésben meghatározott esetben a bíróság a fennmaradó pénzbírság vagy helyszíni bírság összegét elzárásra változtatja át azzal, hogy a pénzbírság, illetve helyszíni bírság összegének számításakor egy óra ledolgozott közérdekű munka nyolcszáz forintnak felel meg.
@@ -1708,7 +1717,7 @@ jelöli ki.
 
 (2) A bíróság által kiszabott közérdekű munkát az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szerv hajtja végre.
 
-(3) Ha az elkövető munkakötelezettségének nem tesz eleget, illetve a foglalkoztathatósági szakvéleményt határidőre nem mutatja be, a közérdekű munkát a bíróság szabálysértési elzárás büntetésre változtatja át, a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatása iránti eljárás szabályainak megfelelő alkalmazásával.
+(3) Ha az elkövető munkakötelezettségének, vagy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének nem tesz eleget, illetve a foglalkoztathatósági szakvéleményt határidőre nem mutatja be, a közérdekű munkát a bíróság szabálysértési elzárás büntetésre változtatja át, a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatása iránti eljárás szabályainak megfelelő alkalmazásával.
 
 (4) A közérdekű munka végrehajtása érdekében az állami foglalkoztatási szerv elsősorban az elkövető lakóhelye vagy tartózkodási helye szerinti település területén működő, vagy olyan közérdekű munka végzésére alkalmas munkahelyet jelöl ki, amelynek a megközelítése – az elkövető lakóhelyétől vagy tartózkodási helyétől – tömegközlekedési eszközzel az egy órát nem haladja meg. A közérdekű munka végrehajtása során az állami foglalkoztatási szerv – a foglalkoztathatósági szakvélemény figyelembevételével, a munkáltató beleegyezésével – foglalkoztatót jelöl ki a közérdekű munka végrehajtásának helyéül.
 
@@ -1727,6 +1736,8 @@ jelöli ki.
 (9) Az állami foglalkoztatási szerv a szabálysértési hatóságot a 142. § (4) bekezdése szerinti esetekben értesíti.
 
 (10) Közérdekű munka kiszabása esetén az elkövető köteles a határozat jogerőre emelkedését követő három munkanapon belül az állami foglalkoztatási szervnél jelentkezni.
+
+(11) Közérdekű munkavégzésre alkalmas munkahely hiányában a munkahely kijelölés ismételt megkísérlése érdekében harminc napon belül ismételt megjelenésre kell felszólítani az elkövetőt.
 
 #### 106/A. A közérdekű munka foglalkoztatói nyilvántartása
 
@@ -3023,6 +3034,8 @@ szabálysértést követ el.
 - i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
+
+(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét rendeletben meghatározza.
 
 (4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
 
