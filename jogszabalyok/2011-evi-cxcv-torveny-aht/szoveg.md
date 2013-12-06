@@ -1301,13 +1301,16 @@ a helyi önkormányzatokért felelős miniszter az a)–c) pont szerinti kötele
 
 (4) A 21. § (6) bekezdésében, 29. § (1) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozatot a Kormány a Magyar Közlönyben közzéteszi.
 
-(5) A Kormány
+(5) A Kormány egyedi határozatának
 
-- a) 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozata
-- b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó egyedi határozata, és
-- c) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott egyedi határozata
+- a) a 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározottak szerint hozott,
+- b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó,
+- c) kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült előirányzat-maradvány felhasználására vonatkozó és
+- d) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott
 
-az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.
+rendelkezése az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.
+
+(6) A kizárólag az (5) bekezdés szerint végrehajtottá vált rendelkezést tartalmazó határozat az (5) bekezdés szerint utoljára végrehajtottá vált rendelkezése végrehajtottá válását követő nappal visszavontnak minősül.
 
 #### 63. Zárszámadás az államháztartás önkormányzati alrendszerében
 
@@ -1507,7 +1510,7 @@ kezelésére.
 
 (3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.
 
-106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat – a személyes adatok kivételével – megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
+106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
 
 #### 70. Adatszolgáltatási kötelezettségek
 
@@ -1621,6 +1624,8 @@ amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törv
 
 (9) A nemzetközi pénzügyi intézményekkel létrejövő szerződéses jogviszonyokban – ideértve a magánszektor beruházásaihoz kapcsolódó szerződésekkel összefüggő egyetértő nyilatkozat kiadását – az államot az államháztartásért felelős miniszter képviseli, amelynek során felel a szerződések előkészítéséért, megkötéséért, módosításáért, megszüntetéséért és a szerződésből eredő kötelezettségek teljesítéséért.
 
+(10) Az Emberi Jogok Európai Bírósága által hozott ítéletek és határozatok alapján az – az Emberi Jogok Európai Bírósága előtti eljárásban az igazságügyért felelős miniszter által képviselt – államot terhelő fizetési kötelezettségek teljesítése során létrejövő polgári jogviszonyokban az államot a kincstár képviseli.
+
 #### 72. Hatályba léptető rendelkezések
 
 110. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2011. december 31-én lép hatályba.
@@ -1653,7 +1658,7 @@ amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törv
 
 (12) Törvény eltérő rendelkezése hiányában a kincstári kör kincstáron kívül forintban vezetett fizetési számláit a számla felett rendelkezni jogosult – az általa foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla és a nemzetbiztonsági szolgálatok alapfeladatai ellátásához szükséges speciális kiadások teljesítéséhez szükséges számla kivételével – e törvény hatálybalépését követő hatvan napon belül köteles megszüntetni és egyenlegét a kincstárnál vezetett fizetési számlára átutalni. E kötelezettség alól – kizárólag az e törvény hatálybalépése napján a kincstáron kívül vezetett fizetési számla esetén – az államháztartásért felelős miniszter a számla felett rendelkezni jogosult hatvan napon belül benyújtott kérelmére kivételesen felmentést adhat.
 
-(13) A kincstári körön kívüli számlatulajdonos – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – 2014. június 30-ig köteles a kincstárnál – ha azzal még nem rendelkezik – forint fizetési számlát nyitni, a nem a kincstárnál forintban vezetett fizetési számláit – a 79. § (3) bekezdésében meghatározott fizetési számlái kivételével – megszünteti, és azok egyenlegét a kincstárnál vezetett fizetési számlájára átutalni. Ha a kincstári körön kívüli számlatulajdonos kincstáron kívül vezetett fizetési számláját az egyes közpénzügyi tárgyú törvényeknek az államháztartás önkormányzati alrendszerét érintő módosításáról, és azok más törvénnyel való összhangjának biztosításáról szóló 2012. évi XVII. törvény hatálybalépése napján folyószámlahitellel terhelt, a körön kívüli számlatulajdonosnak az e bekezdésben meghatározott kötelezettségét a fizetési számla negatív egyenlegének megszűnését követő kilencven napon belül kell teljesítenie. A kincstáron kívül vezetett fizetési számla megszüntetésének kötelezettsége alól az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult 2014. június 30-ig benyújtott kérelmére kivételesen felmentést adhat.
+(13) A kincstári körön kívüli számlatulajdonos – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – 2015. november 30-ig köteles a kincstárnál – ha azzal még nem rendelkezik – forint fizetési számlát nyitni, a nem a kincstárnál forintban vezetett fizetési számláit – a 79. § (3) bekezdésében meghatározott fizetési számlái kivételével – megszünteti, és azok egyenlegét a kincstárnál vezetett fizetési számlájára átutalni. Ha a kincstári körön kívüli számlatulajdonos kincstáron kívül vezetett fizetési számláját az egyes közpénzügyi tárgyú törvényeknek az államháztartás önkormányzati alrendszerét érintő módosításáról, és azok más törvénnyel való összhangjának biztosításáról szóló 2012. évi XVII. törvény hatálybalépése napján folyószámlahitellel terhelt, a körön kívüli számlatulajdonosnak az e bekezdésben meghatározott kötelezettségét a fizetési számla negatív egyenlegének megszűnését követő kilencven napon belül kell teljesítenie. A kincstáron kívül vezetett fizetési számla megszüntetésének kötelezettsége alól az államháztartásért felelős miniszter a fizetési számla felett rendelkezni jogosult 2015. november 30-ig benyújtott kérelmére kivételesen felmentést adhat.
 
 (14) A (13) bekezdésben meghatározott jogi személy fizetési számláját vezető hitelintézet – a 79. § (3) bekezdésében meghatározott számla és az államháztartásért felelős miniszter (13) bekezdés szerinti engedélye alapján kincstáron kívül továbbra is vezethető fizetési számla kivételével – új folyószámlahitel igénybevételét nem biztosíthatja. Ha a (13) bekezdésben meghatározott jogi személy a fizetési számla megszüntetési és átutalási kötelezettségének a (13) bekezdésében meghatározott határnapig, illetve határidőig nem tett eleget, és e határidő alatt az államháztartásért felelős miniszter (13) bekezdés szerinti engedélyét sem mutatta be, a fizetési számlát vezető hitelintézet a (13) bekezdés szerinti határnap elteltét, illetve határidő leteltét követő harminc napon belül az érintett fizetési számláját megszünteti és azok egyenlegét a fizetési számla felett rendelkezni jogosult, ennek hiányában a kincstár által közölt fizetési számlára átutalja.
 
@@ -1670,7 +1675,9 @@ amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törv
 
 (18) A többcélú kistérségi társulások által igénybevett támogatások elszámolása felülvizsgálata megkezdésének határideje – a 60. § (1) bekezdésében foglaltaktól eltérően – a költségvetési évet követő második év június 30-a.
 
-(19)–(22)
+(19) Ha az arra kötelezett a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvény hatálybalépéséig nem tesz eleget a 83. § (6) bekezdés szerinti kötelezettségének, akkor a 2013. év során felfüggesztett támogatásainak összege az adott évben nem folyósítható részére. A 2013. évben így nem folyósított támogatások összege a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklete IX. fejezetének fejezeti tartalékát növeli.
+
+(20)–(22)
 
 (23) A helyi önkormányzat, a helyi nemzetiségi önkormányzat 2011. évben igénybevett hozzájárulásai, támogatásai elszámolásának 60. § szerinti felülvizsgálatára az e törvény 2012. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
@@ -1694,6 +1701,8 @@ amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törv
 (3) A Kormány egyedi határozatával az irányítása alá tartozó fejezetek tekintetében az (1) és (2) bekezdésben meghatározott értékhatártól eltérő mértéket is megállapíthat.
 
 (4) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a Kormány egyedi határozatával megállapíthatja egyes, tárgyévi előirányzattal nem rendelkező programok, beruházások és más fejlesztések tárgyévet követő évet, éveket terhelő kötelezettségvállalásának összegszerű keretét.
+
+111/F. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 109. § (10) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 74.
 
