@@ -204,7 +204,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (2) Az adósságrendezési eljárás alá vont helyi önkormányzat a válságköltségvetéséből – a (3) bekezdésben foglalt feltételek figyelembevételével – az alábbi kiadásokat finanszírozhatja:
 
-- a) az e törvény mellékletében felsorolt, és számára külön törvényben kötelezően előírt feladatok működési kiadásait;
+- a) az 1. mellékletben felsorolt, és számára külön törvényben kötelezően előírt feladatok működési kiadásait;
 - b) a helyi önkormányzatnál vagy az általa fenntartott költségvetési szervnél nyilvántartott olyan pénzeszközök felhasználását, amely pénzeszközök nem a helyi önkormányzatot, illetve az általa foglalkoztatott költségvetési szervet illetik, vagy felettük nem az adósságrendezés alá vont helyi önkormányzat, illetve az általa foglalkoztatott költségvetési szerv rendelkezik, ilyennek minősülnek különösen a 2. § e) pont ec) alpontjában meghatározott pénzeszközök.
 
 (3) A helyi önkormányzat a válságköltségvetéssel nem finanszírozhat olyan egészségügyi, szociális, oktatási intézményt, amelynek kihasználtsága az 50%-ot nem éri el, valamint ahol a közszolgáltatás fajlagos kiadása az előző évi országos átlagot 30%-kal meghaladja, kivéve, ha a településen intézménytípusonként csak egy intézmény üzemel.
@@ -251,13 +251,15 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (2) Az egyezségi tárgyalásról jegyzőkönyvet kell készíteni. Az egyezségi tárgyaláson a hitelezők személyesen vagy képviselőjük útján vehetnek részt. A képviselőknek e minőségüket – erre irányuló külön felhívás nélkül is – igazolniuk kell. Az egyezséghez való hozzájárulást a távollevő hitelezők írásban is megadhatják. Ha a jegyzőkönyv az egyezséget is tartalmazza, a jegyzőkönyvet a két hitelesítőn kívül a 25. § (1) bekezdésében felsoroltak is aláírják.
 
-(3) Egyezség akkor köthető, ha ahhoz az adósságrendezés megindításának időpontjában fennálló követeléssel rendelkező hitelezőknek több mint fele – illetve amennyiben az egyezségi javaslatban a hitelezőket csoportosították, úgy csoportonként legalább a hitelezők fele – hozzájárul, feltéve, ha ezeknek a hitelezőknek az összes követelése eléri az összes bejelentett és nem vitatott hitelezői követelés kétharmadát.
+(3) Egyezség – a (7) bekezdésben foglaltak figyelembevételével – akkor köthető, ha ahhoz az adósságrendezés megindításának időpontjában fennálló követeléssel rendelkező hitelezőknek több mint fele – illetve amennyiben az egyezségi javaslatban a hitelezőket csoportosították, úgy csoportonként legalább a hitelezők fele – hozzájárul, feltéve, ha ezeknek a hitelezőknek az összes követelése – a (7) bekezdés szerinti teljes állami követelést is beleértve – eléri az összes bejelentett és nem vitatott hitelezői követelés kétharmadát.
 
 (4) A (3) bekezdés szerint megkötött egyezség azokra az egyezségkötésre jogosult hitelezőkre is kiterjed, akik az egyezséghez nem járultak hozzá, vagy szabályszerű értesítésük ellenére az egyezség megkötésében nem vettek részt. Az egyezség e hitelezőkre vonatkozóan sem állapíthat meg más feltételeket, mint amelyeket az egyezséghez hozzájáruló hitelezőkre megállapított. Ha a helyi önkormányzat a hitelezőket már az egyezségi javaslatában csoportosította, a megkötött egyezségben a csoporton belüli feltételek nem lehetnek eltérőek.
 
 (5) Az egyezségkötés időpontjában vitatott követeléssel rendelkező hitelezőknek járó, a saját csoportja szerinti kielégítésnek megfelelő összeget elkülönítve kell kezelni. A hitelező az egyezségkötésben nem vehet részt, követelését az egyezség létrejötténél figyelembe vehető követelések (3) bekezdés szerinti számításánál nem kell figyelembe venni, de a követelés elbírálásától függően a kényszeregyezség rá is kihat.
 
 (6) A vitatott követeléssel rendelkező hitelező részére az (5) bekezdés szerint jutó vagyonhányad járulékait – a jogvita jogerős befejezéséig – a vagyonhányaddal együtt külön kell kezelni és végül azzal kiadni, ha a követelés fennállását jogerős bírósági határozat megállapította. A vagyonhányad kezelésével kapcsolatos esetleges költségeket a vagyonhányadból kell fedezni. A vagyon kiadásakor a hitelező részére elszámolást kell átadni a vagyonnal kapcsolatos bevételekről és kiadásokról. Ha utóbb kiderül, hogy a hitelező követelése nem volt jogos, úgy a külön kezelt vagyonhányadot a többi hitelező között kell szétosztani követelésük arányában, teljes kielégítésük erejéig. E szétosztásért a mindenkori jegyző a felelős.
+
+(7) Az egyezség megkötésekor az államnak a helyi önkormányzattal szemben fennálló követelése – az államháztartásért felelős miniszter engedélyével – 50%-os mértékig csökkenthető.
 
 24. § Az egyezséget írásba kell foglalni, amelynek tartalmaznia kell különösen:
 
@@ -346,6 +348,8 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezi, a végzés ellen fellebbezésnek helye nincs.
 
+(4a) Ha a (4) bekezdés szerinti jóváhagyást megelőzően a helyi önkormányzat és hitelezői a hitelezők követelésének kielégítését célzó egyezséget kötnek és az egyezség megfelel a jogszabályoknak, a bíróság az adósságrendezési eljárást végzéssel befejezi. Az egyezségkötésre és a bíróság végzésére a 20. § (3) és (4) bekezdését, a 20/A. §-t, a 22. § (3) és (4) bekezdését, a 22/A–24. §-t, a 25. § (1)–(4) bekezdését, a 26. §-t és a 27. §-t kell alkalmazni.
+
 (5) A bíróság az eljárást befejező végzéssel egyidejűleg a pénzügyi gondnokot e tisztsége alól felmenti, és megállapítja díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter fellebbezhet.
 
 (6) Az adósságrendezési eljárás befejezését a bíróság a Cégközlönyben közzéteszi.
@@ -395,36 +399,38 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) A mód. törvény hatálybalépését követően a képviselő-testület a már elfogadott válságköltségvetését, elfogadott reorganizációs programját és egyezségi javaslatot – a (2) bekezdésben foglaltak figyelembe vételével – módosíthatja.
 
-38–40. §
+38. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 23. § (7) bekezdését és 32. § (4a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban is alkalmazni kell, amelynél a bíróság a vagyonfelosztási javaslatot még nem hagyta jóvá.
+
+39–40. §
 
 ### Melléklet az 1996. évi XXV. törvényhez
 
 #### Az alapvető lakossági szolgáltatások
 
-- 1. A köztemetők létesítése, bővítése, fenntartása, bezárása, megszüntetése, kiürítése, újra használatbavétele, halotthamvasztó üzemeltetése (1991. évi XX. törvény).
-- 2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény).
-- 3. A települési folyékony hulladék leeresztő helyének kijelölése, közcélú ártalmatlanító telep fenntartása (1991. évi XX. törvény).
-- 4. A közterület tisztán tartása, a települési szilárd hulladék gyűjtése, elhelyezése és a lomtalanítási akciókkal kapcsolatos feladatok ellátása (1991. évi XX. törvény,).
-- 5. A települési vízellátás, szennyvízelvezetés, az összegyűjtött szennyvizek tisztítása, a csapadékvíz elvezetése, helyi vízrendezés és vízkárelhárítás, valamint az árvíz- és belvízvédekezés (1995. évi LVII. törvény).
-- 6. A helyi közutak biztonságos közlekedésének, tisztán tartásának, a hó eltakarításának és az út síkosság elleni védekezésének biztosítása, a helyi közút forgalmának biztonságát veszélyeztető helyzet elhárítása (1988. évi I. törvény).
-- 7. A közvilágítási berendezés üzemeltetése (1991. évi XX. törvény).
-- 8. Az állati hullák ártalmatlanná tétele, az emberre egészségügyi szempontból veszélyes, valamint az állatállomány egészségét veszélyeztető, betegség tüneteit mutató, vagy betegségre gyanús ebek és macskák kártalanítás nélküli kiirtása, az ebek veszettség elleni kötelező védőoltásának megszervezése (2005. évi CLXXVI. törvény).
-- 9.
-- 10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (a nemzetiségek jogairól szóló törvény).
-- 11. A többi gyermekkel, tanulóval együtt nevelhető, oktatható testi, érzékszervi, enyhe értelmi, beszéd- és más fogyatékos tanulók ellátása (1993. évi LXXIX. törvény).
-- 12. A kollégiumi és a nemzetiségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzetiségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (a nemzetiségek jogairól szóló törvény).
-- 13. Az egészségügyi intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás, a többi gyermekkel, tanulóval együtt nem foglalkoztatható, illetőleg oktatható testi, érzékszervi, értelmi, beszéd- vagy más fogyatékos gyermekek, tanulók óvodai, iskolai, továbbá kollégiumi ellátása azoknak a tanulóknak, akiknek az állandó lakóhelyén a tankötelezettség végéig nem biztosítottak az iskolai nevelés és oktatás feltételei, a képzési kötelezettség, teljesítéséhez szükséges feltételek, a különbözeti vizsga, vagy évfolyamismétlés nélküli iskolaváltás, a korai fejlesztő tanácsadó és gondozó szolgálat, a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység, a konduktív pedagógiai ellátás, a középiskolai, szakiskolai felvételekkel összefüggő tájékoztató tevékenység, a területi pedagógiai szakmai szolgáltatás (1993. évi LXXIX. törvény).
-- 14. Az egészségügyi alapellátás (háziorvosi, házi gyermekorvosi, fogorvosi) és a védőnői ellátás (1997. évi CLIV. törvény).
-- 15. A járó- és fekvőbeteg-szakellátás, gondozást nyújtó egészségügyi intézmények által ellátott feladatok (1997. évi CLIV. törvény).
-- 16. A személyes gondoskodás keretébe tartozó szociális alapszolgáltatási és gyermekjóléti alapellátások (az étkeztetés, a házi segítségnyújtás, a családsegítés, a gyermekjóléti szolgáltatás, gyermekek napközbeni ellátása, gyermekek átmeneti gondozása) (1993. évi III. törvény, 1997. évi XXXI. törvény).
-- 17. A személyes gondoskodás keretébe tartozó szociális és gyermekvédelmi szakellátás: ápolást, gondozást nyújtó intézmények, rehabilitációs intézmények, nappali ellátást nyújtói intézmények, átmeneti ellátást nyújtó intézmények által ellátott feladatok, otthont nyújtó ellátás, területi gyermekvédelmi szakszolgáltatás, utógondozói ellátás (1993. évi III. törvény, 1997. évi XXXI. törvény).
-- 18. A helyi önkormányzat feladat- és hatáskörébe tartozó szakosított ellátások megszervezése (1993. évi III. törvény).
-- 19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások, a helyi döntésen alapuló ellátások kivételével (időskorúak járadéka, bérpótló juttatás, rendszeres szociális segély, lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, rendkívüli gyermekvédelmi támogatás, óvodáztatási támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
-- 20. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (1990. évi LXV. törvény).
-- 21. A jövedelempótló támogatásban részesülők számára közhasznú (közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez kapcsolódó) foglalkoztatás szervezése (1991. évi IV. törvény, 1993. évi III. törvény).
-- 22.
-- 23. A települési könyvtári ellátás biztosítása (1997. évi CXL. törvény).
-- 24. A fővárosi önkormányzatnál a fővárosi kerületek önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
-- 25. A fővárosi közlevéltár működtetése (1995. évi LXVI. törvény).
-- 26. A megváltozott munkaképességűeket foglalkoztató közhasznú gazdálkodó szervezettel érvényben lévő szerződésből eredő kötelezettségek (1991. évi IV. törvény).
-- 27. Megyei önkormányzat esetében minden olyan feladat, amelyhez az Országgyűlés normatív állami hozzájárulást, felhasználási kötöttséggel járó állami támogatást állapít meg.
+- 1. A kegyeleti közszolgáltatás biztosítása, szociális temetésről való gondoskodás (a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény)
+- 2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)
+- 3. A hulladékgazdálkodási közszolgáltatás ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
+- 4. A közterület tisztán tartása (a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény)
+- 5. A helyi vízrendezés és vízkárelhárítás, az árvíz- és belvízelvezetés, a vízgazdálkodási közszolgáltatás ellátásának biztosítása (a vízgazdálkodásról szóló 1995. évi LVII. törvény)
+- 6. A közműves ivóvízellátással és a közműves szennyvízelvezetéssel és -tisztítással kapcsolatos víziközmű-szolgáltatási feladatok elvégzése (a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény)
+- 7. A helyi közutak tekintetében a közútkezelői feladatok ellátása, a közúthálózat fejlesztése, fenntartása, üzemeltetése, valamint a közúti közlekedéssel összefüggő helyi önkormányzati feladatok ellátása törvény szerint [a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.)]
+- 8. A helyi közutakon, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítását célzó közszolgáltatás [Kkt. és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.)]
+- 9. A közvilágítási berendezés üzemeltetése (a villamos energiáról szóló 2007. évi LXXXVI. törvény)
+- 10. Ismeretlen tulajdonos esetén az állati eredetű melléktermék elszállítása, ártalmatlanná tétele (az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény)
+- 11. Állatvédelmi őrszolgálat, belterületi kóbor állatok befogása, ebösszeírás, az állat életének kioltásával kapcsolatban felmerült igazolt költségek megtérítése (az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény)
+- 12. Az óvodai nevelés, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, valamint a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése [a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) és a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény]
+- 13. Az állammal vagy állami szervvel kötött szerződésben vállalt, a köznevelési intézmény alapító okiratában foglalt feladatainak megfelelő színvonalon és biztonságban történő ellátását szolgáló ingó és ingatlan vagyon működtetése, vagy e vagyon működtetéséhez a törvényben foglaltaknak megfelelően megállapított hozzájárulás megfizetése (Nkt.)
+- 14. Az egészségügyi alapellátás (háziorvosi, házi gyermekorvosi, fogorvosi) és a védőnői ellátás [az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.)]
+- 15. A járóbeteg szakellátást nyújtó egészségügyi intézmények által ellátott feladatok (Eütv.)
+- 16. A személyes gondoskodás keretébe tartozó szociális alapszolgáltatások és gyermekjóléti alapellátások: étkeztetés, házi segítségnyújtás, családsegítés, falugondnoki vagy tanyagondnoki szolgáltatás, nappali ellátás, gyermekjóléti szolgáltatás, gyermekek napközbeni ellátása, gyermekek átmeneti gondozása [a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.), a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.)]
+- 17. Az idős és hajléktalan személyek átmeneti és tartós bentlakásos ellátása (Szoctv.)
+- 18. Azon egyéb szociális alapszolgáltatások, szakosított ellátások és gyermekvédelmi szakellátás megszervezése, amelyeket az önkormányzat az állammal vagy állami szervvel kötött megállapodás, szerződés keretében nyújt (Szoctv. és Gyvt.)
+- 19. A törvényben meghatározott gyermekétkeztetési feladatok (Gyvt.)
+- 20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: foglalkoztatást helyettesítő támogatás, rendszeres szociális segély, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény, óvodáztatási támogatás (Szoctv. és Gyvt.)
+- 21. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.)
+- 22. A helyi közfoglalkoztatás megszervezése [Mötv. és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.)]
+- 23. A települési könyvtári ellátás biztosítása [a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.)]
+- 24. A fővárosi önkormányzatnál a fővárosi kerületek önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (Kultv.)
+- 25. A fővárosi közlevéltár működtetése (a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény)
+- 26. A megváltozott munkaképességűeket foglalkoztató akkreditált szervezettel érvényben lévő szerződésből eredő kötelezettségek (Flt.)
+- 27. Megyei önkormányzat esetében minden olyan feladat, amelyet törvény kötelező feladatként meghatároz.
