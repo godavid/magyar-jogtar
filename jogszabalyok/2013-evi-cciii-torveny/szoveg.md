@@ -8,29 +8,20 @@ a Magyarország 2014. évi központi költségvetését megalapozó egyes törv�
 
 1. § (1)–(2)
 
-(3) A Hartv. 23. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az egyezség megkötésekor az államnak a helyi önkormányzattal szemben fennálló követelése – az államháztartásért felelős miniszter engedélyével – 50%-os mértékig csökkenthető.”
-
-(4) A Hartv. 32. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha a (4) bekezdés szerinti jóváhagyást megelőzően a helyi önkormányzat és hitelezői a hitelezők követelésének kielégítését célzó egyezséget kötnek és az egyezség megfelel a jogszabályoknak, a bíróság az adósságrendezési eljárást végzéssel befejezi. Az egyezségkötésre és a bíróság végzésére a 20. § (3) és (4) bekezdését, a 20/A. §-t, a 22. § (3) és (4) bekezdését, a 22/A–24. §-t, a 25. § (1)–(4) bekezdését, a 26. §-t és a 27. §-t kell alkalmazni.”
+(3)–(4)
 
 (5)
 
-(6) A Hartv. a következő 38. §-sal egészül ki:
-
-„38. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 23. § (7) bekezdését és 32. § (4a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő adósságrendezési eljárásokban is alkalmazni kell, amelynél a bíróság a vagyonfelosztási javaslatot még nem hagyta jóvá.”
+(6)
 
 (7) A Hartv.
 
-- a) 18. § (2) bekezdés a) pontjában az „az e törvény mellékletében” szövegrész helyébe az „az 1. mellékletben” szöveg,
-- b) 23. § (3) bekezdésében az „Egyezség akkor” szövegrész helyébe az „Egyezség – a (7) bekezdésben foglaltak figyelembevételével – akkor” szöveg, az „összes követelése” szövegrész helyébe az „összes követelése – a (7) bekezdés szerinti teljes állami követelést is beleértve – ” szöveg,
+- a)–b)
 - c)–d)
 
 lép.
 
-(8) A Hartv. Melléklete helyébe az 1. melléklet lép.
+(8)
 
 #### 2. A fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló2006. évi CXXXIII. törvény módosítása
 
@@ -42,39 +33,15 @@ lép.
 
 #### 4. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-5. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 10. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Nincs szükség a Kormány hozzájárulására)
-
-„a) a központi költségvetésből nyújtott, európai uniós vagy más nemzetközi szervezettől az önkormányzat által megnyert pályázat önrészének és az így megnyert támogatás előfinanszírozásának biztosítására szolgáló,”
-
-(2) A Gst. 10. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Nincs szükség a Kormány hozzájárulására)
-
-„e) a d) pont szerinti önkormányzat-kategóriákba tartozó önkormányzatok ott leírtak szerinti értékhatárokat meg nem haladó összegű, továbbá az a)–b) pont szerinti, valamint bármely jogi személy által megkötött c) pont szerinti ügyletekhez nyújtott, Áht. szerinti önkormányzati kezesség- és garanciavállalásaihoz.”
+5. § (1)–(2)
 
 (3)
 
-(4) A Gst. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az önkormányzat működési célra a (4a) és (4b) bekezdés szerinti ügyletek kivételével csak likvid hitelt vehet fel.”
-
-(5) A Gst. 10. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) Az önkormányzat a 2012. december 31-e előtt kötött eredeti, illetve ennek megújítását szolgáló, működési célú ügyleteit egyszeri alkalommal, a Kormány előzetes hozzájárulásával, naptári éven túli futamidejű, új adósságmegújító ügylettel vagy ügyletekkel kiválthatja vagy szerződésmódosítással naptári éven túli futamidejű ügyletté alakíthatja. Ezen ügyletek együttes összege nem lehet nagyobb, mint az eredeti ügyletekből 2012. december 31-én fennálló adósság, és ezek hitelkerete nem lehet újra lehívható (rulírozó) jellegű. A Kormány az előzetes hozzájárulást abban az esetben adja meg, ha teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működőképességét veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.”
-
-(6) A Gst. 10. §-a a következő (4b) bekezdéssel egészül ki:
-
-„(4b) Az önkormányzat jogerős és végrehajtható bírósági határozatban foglalt fizetési kötelezettségének teljesítésére a Kormány előzetes hozzájárulásával éven túli futamidejű működési célú hitelt vehet fel. A Kormány az ehhez szükséges előzetes hozzájárulást a (10) bekezdésben meghatározott feltételek teljesülése esetén adja meg.”
+(4)–(6)
 
 (7)
 
-(8) A Gst. 10. § (8a) bekezdése helyébe a következő rendelkezés lép:
-
-„(8a) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha teljesül a (3) bekezdés szerinti feltétel, azzal, hogy e feltétel alkalmazása során az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségét kell érteni.”
-
-(9) A Gst. 10. § (1a) bekezdésében az „adósságmegújító hitel” szövegrész helyébe az „adósságmegújító ügylet” szöveg lép.
+(8)–(9)
 
 (10)
 
@@ -84,51 +51,23 @@ lép.
 
 6. § (1)–(12)
 
-(13) Az Áht. 90. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Kormány egyedi határozatának
-
-a) a 21. § (6) bekezdésében és 33. § (1) bekezdésében meghatározottak szerint hozott,
-
-b) kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználására vonatkozó,
-
-c) kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült előirányzat-maradvány felhasználására vonatkozó és
-
-d) a központi költségvetésről szóló törvényben az előirányzatok átcsoportosításával, módosításával összefüggésben biztosított jogkörében hozott
-
-rendelkezése az adott költségvetési évre vonatkozó központi költségvetésről szóló törvény hatályvesztésének időpontjával végrehajtottnak tekintendő, és az ezt követő nappal visszavontnak minősül.”
-
-(14) Az Áht. 90. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A kizárólag az (5) bekezdés szerint végrehajtottá vált rendelkezést tartalmazó határozat az (5) bekezdés szerint utoljára végrehajtottá vált rendelkezése végrehajtottá válását követő nappal visszavontnak minősül.”
-
-(15) Az Áht. 106/B. §-a helyébe a következő rendelkezés lép:
-
-„106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.”
+(13)–(15)
 
 (16)–(17)
 
 (18)–(20)
 
-(21) Az Áht. 109. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) Az Emberi Jogok Európai Bírósága által hozott ítéletek és határozatok alapján az – az Emberi Jogok Európai Bírósága előtti eljárásban az igazságügyért felelős miniszter által képviselt – államot terhelő fizetési kötelezettségek teljesítése során létrejövő polgári jogviszonyokban az államot a kincstár képviseli.”
-
-(22) Az Áht. 111. §-a a következő (19) bekezdéssel egészül ki:
-
-„(19) Ha az arra kötelezett a Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvény hatálybalépéséig nem tesz eleget a 83. § (6) bekezdés szerinti kötelezettségének, akkor a 2013. év során felfüggesztett támogatásainak összege az adott évben nem folyósítható részére. A 2013. évben így nem folyósított támogatások összege a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 1. melléklete IX. fejezetének fejezeti tartalékát növeli.”
+(21)–(22)
 
 (23)
 
-(24) Az Áht. a következő 111/F. §-sal egészül ki:
-
-„111/F. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 109. § (10) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+(24)
 
 7. § (1)–(2)
 
 (3)
 
-(4) Az Áht. 111. § (13) bekezdésében a „2014. június 30-ig” szövegrész helyébe a „2015. november 30-ig” szöveg lép.
+(4)
 
 8. §
 
@@ -146,11 +85,7 @@ rendelkezése az adott költségvetési évre vonatkozó központi költségvet�
 
 12. § (1)–(5)
 
-(6) Az Szt. 58/A. § (2e) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni)
-
-„b) azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, a szolgáltató vagy az intézmény pályázati úton elnyert európai uniós támogatásban, a Svájci Alap, az EGT Alap, a Norvég Alap támogatásában, vagy költségvetési támogatásban részesül,”
+(6)
 
 (7)
 
@@ -158,11 +93,7 @@ rendelkezése az adott költségvetési évre vonatkozó központi költségvet�
 
 #### 9. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-15. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 145. § (2c) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni)
-
-„b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, a szolgáltató vagy az intézmény pályázati úton elnyert európai uniós támogatásban, a Svájci Alap, az EGT Alap, a Norvég Alap támogatásában, vagy költségvetési támogatásban részesül.”
+15. §
 
 #### 10. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
@@ -352,17 +283,7 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 (6) Ha a jelölt, illetve jelölő szervezet az (5) bekezdésben foglalt kötelezettségét határidőben nem teljesíti, a kincstár a Nemzeti Adó- és Vámhivatalnál kezdeményezi a tartozás adók módjára történő behajtását. A Nemzeti Adó- és Vámhivatal a kincstár kezdeményezésére intézkedik a tartozás adók módjára történő behajtásáról.”
 
-(6) A Kftv. 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg
-
-a) az e törvény szerinti támogatások rendelkezésre bocsátásának módját, valamint a 2. § (2) bekezdése és a 2/A. § (2) bekezdése szerinti megállapodásra vonatkozó szabályokat,
-
-b) a kincstári kártyafedezeti számla és a kincstári kártya használatával kapcsolatos részletes szabályokat,
-
-c) az 1. § szerinti támogatás elszámolásával, ellenőrzésével és a visszafizetési kötelezettséggel összefüggő, illetve annak ellenőrzésével kapcsolatos részletes szabályokat,
-
-d) a 8/C. § szerinti visszafizetési kötelezettséggel összefüggő részletes eljárási szabályokat.”
+(6)
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -407,61 +328,3 @@ d) a 8/C. § szerinti visszafizetési kötelezettséggel összefüggő részlete
 38. §
 
 ### 1. melléklet a 2013. évi CCIII. törvényhez
-
-„1. melléklet az 1996. évi XXV. törvényhez
-
-Az alapvető lakossági szolgáltatások
-
-1. A kegyeleti közszolgáltatás biztosítása, szociális temetésről való gondoskodás (a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény)
-
-2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)
-
-3. A hulladékgazdálkodási közszolgáltatás ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
-
-4. A közterület tisztán tartása (a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény)
-
-5. A helyi vízrendezés és vízkárelhárítás, az árvíz- és belvízelvezetés, a vízgazdálkodási közszolgáltatás ellátásának biztosítása (a vízgazdálkodásról szóló 1995. évi LVII. törvény)
-
-6. A közműves ivóvízellátással és a közműves szennyvízelvezetéssel és -tisztítással kapcsolatos víziközmű-szolgáltatási feladatok elvégzése (a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény)
-
-7. A helyi közutak tekintetében a közútkezelői feladatok ellátása, a közúthálózat fejlesztése, fenntartása, üzemeltetése, valamint a közúti közlekedéssel összefüggő helyi önkormányzati feladatok ellátása törvény szerint [a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.)]
-
-8. A helyi közutakon, valamint a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, tereken, parkokban és egyéb közterületeken járművel történő várakozás biztosítását célzó közszolgáltatás [Kkt. és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.)]
-
-9. A közvilágítási berendezés üzemeltetése (a villamos energiáról szóló 2007. évi LXXXVI. törvény)
-
-10. Ismeretlen tulajdonos esetén az állati eredetű melléktermék elszállítása, ártalmatlanná tétele (az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény)
-
-11. Állatvédelmi őrszolgálat, belterületi kóbor állatok befogása, ebösszeírás, az állat életének kioltásával kapcsolatban felmerült igazolt költségek megtérítése (az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény)
-
-12. Az óvodai nevelés, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, valamint a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése [a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) és a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény]
-
-13. Az állammal vagy állami szervvel kötött szerződésben vállalt, a köznevelési intézmény alapító okiratában foglalt feladatainak megfelelő színvonalon és biztonságban történő ellátását szolgáló ingó és ingatlan vagyon működtetése, vagy e vagyon működtetéséhez a törvényben foglaltaknak megfelelően megállapított hozzájárulás megfizetése (Nkt.)
-
-14. Az egészségügyi alapellátás (háziorvosi, házi gyermekorvosi, fogorvosi) és a védőnői ellátás [az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.)]
-
-15. A járóbeteg szakellátást nyújtó egészségügyi intézmények által ellátott feladatok (Eütv.)
-
-16. A személyes gondoskodás keretébe tartozó szociális alapszolgáltatások és gyermekjóléti alapellátások: étkeztetés, házi segítségnyújtás, családsegítés, falugondnoki vagy tanyagondnoki szolgáltatás, nappali ellátás, gyermekjóléti szolgáltatás, gyermekek napközbeni ellátása, gyermekek átmeneti gondozása [a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.), a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.)]
-
-17. Az idős és hajléktalan személyek átmeneti és tartós bentlakásos ellátása (Szoctv.)
-
-18. Azon egyéb szociális alapszolgáltatások, szakosított ellátások és gyermekvédelmi szakellátás megszervezése, amelyeket az önkormányzat az állammal vagy állami szervvel kötött megállapodás, szerződés keretében nyújt (Szoctv. és Gyvt.)
-
-19. A törvényben meghatározott gyermekétkeztetési feladatok (Gyvt.)
-
-20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: foglalkoztatást helyettesítő támogatás, rendszeres szociális segély, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény, óvodáztatási támogatás (Szoctv. és Gyvt.)
-
-21. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.)
-
-22. A helyi közfoglalkoztatás megszervezése [Mötv. és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.)]
-
-23. A települési könyvtári ellátás biztosítása [a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.)]
-
-24. A fővárosi önkormányzatnál a fővárosi kerületek önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (Kultv.)
-
-25. A fővárosi közlevéltár működtetése (a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény)
-
-26. A megváltozott munkaképességűeket foglalkoztató akkreditált szervezettel érvényben lévő szerződésből eredő kötelezettségek (Flt.)
-
-27. Megyei önkormányzat esetében minden olyan feladat, amelyet törvény kötelező feladatként meghatároz.”
