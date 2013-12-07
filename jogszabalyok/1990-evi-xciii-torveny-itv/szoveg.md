@@ -184,7 +184,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - b) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
 - c) az örökhagyó mostoha- és nevelt gyermeke, mostoha- és nevelőszülője által megszerzett örökrész tiszta értékéből 20 000 000 forint;
 - d) az egy örökösnek jutó ingóörökség 300 000 forint forgalmi értéket meg nem haladó része. Az értékhatár megállapításánál a más címen illetékmentes ingóságot, továbbá az örökhagyó gépjárművének, pótkocsijának értékét, ruházatát és a személyes használatra szolgáló szokásos mértékű vagyontárgyait figyelmen kívül kell hagyni;
-- e)
+- e) az állami vagy helyi önkormányzati fenntartású közgyűjteményből a kulturális javakra vonatkozó jogszabályokban meghatározott eljárás keretében a volt tulajdonos örökösének visszaadott vagyontárgyra vonatkozó, a visszaadás időpontját megelőzően beállt öröklés;
 - f)
 - g) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint az ilyen ingatlanra vonatkozó vagyoni értékű jognak az öröklése, ha az örökös az örökölt ingatlanon a hagyaték jogerős átadásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Lakóházépítési szándékáról az örökös legkésőbb az illetékfizetési meghagyás jogerőre emelkedéséig nyilatkozhat az állami adóhatóságnál;
 - h) az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír megszerzése;
