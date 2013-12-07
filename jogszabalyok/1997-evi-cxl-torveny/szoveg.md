@@ -29,6 +29,8 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - c) műveltségét, készségeit életének minden szakaszában gyarapítsa, közművelődési jogai érvényesítése céljából közösséget hozzon létre, s külön jogszabályban meghatározottak szerint szervezetet alapítson, működtessen,
 - d) e törvény szerint művelődési céljai megvalósításához közművelődési közösségi színteret (a továbbiakban: közösségi színtér), szervező, szervezeti és tartalmi segítséget kapjon.
 
+4/A. § Az állami vagy helyi önkormányzati fenntartású közgyűjteményben őrzött olyan kulturális javakat, amelyek állami tulajdonjogának fennállása minden kétséget kizáró módon nem igazolható, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárás eredményeként térítésmentesen ki kell adni annak a személynek, aki az adott, kulturális javak körébe tartozó tárgyra vonatkozó tulajdonjogát megfelelően valószínűsíti.
+
 ### A törvény hatálya
 
 5. § (1) E törvény hatálya kiterjed:
@@ -981,7 +983,8 @@ vehető figyelembe.
 - i) a közgyűjtemények finanszírozását és központi támogatását,
 - j) a bérpótlék mértékét és az arra jogosultak körét,
 - k) a sajtótermékek kötelespéldányainak szolgáltatását és hasznosítását,
-- l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét.
+- l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
+- m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható.
 
 (2)
 
