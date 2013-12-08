@@ -488,6 +488,8 @@ gyermek mulasztott.
 
 (2) Ha az iskoláztatási támogatás felfüggesztésének (1) bekezdés b) pontja szerinti felülvizsgálata eredményeként a gyámhatóság az iskoláztatási támogatás felfüggesztését megszünteti, és ezzel egyidejűleg intézkedik az iskoláztatási támogatás szüneteltetésének kezdeményezése iránt, az iskoláztatási támogatást a kincstárnak abban az esetben kell ismételten folyósítani, ha az iskoláztatási támogatás szüneteltetésének elrendelésére valamely okból mégsem kerül sor.
 
+50/C. § A 2013. december 31-én gyermekgondozási támogatásban részesülő nevelőszülőnek a nála elhelyezett, nevelésbe vett gyermekre tekintettel megállapított gyermekgondozási támogatásra való jogosultsága 2013. december 31-én a törvény erejénél fogva megszűnik.
+
 51. § Felhatalmazást kap
 
 - a) a Kormány arra, hogy a családtámogatási ellátások igénylésével, megállapításával, folyósításával és a jogalap nélkül felvett ellátások visszafizetésével, megtérítésével, valamint az igényelbíráló szervek adatfeldolgozásával kapcsolatos, továbbá a hatáskör átadásból adódó végrehajtási szabályokat rendeletben szabályozza;
