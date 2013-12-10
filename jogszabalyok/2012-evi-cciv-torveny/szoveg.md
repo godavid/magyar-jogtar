@@ -10,9 +10,9 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2013. évi
 
-- a) bevételi főösszegét 15 325 316,1 millió forintban,
-- b) kiadási főösszegét 16 376 150,9 millió forintban,
-- c) hiányát 1 050 834,8 millió forintban
+- a) bevételi főösszegét 15 460 815,7 millió forintban,
+- b) kiadási főösszegét 16 586 000,1 millió forintban,
+- c) hiányát 1 125 184,4 millió forintban
 
 állapítja meg.
 
@@ -2022,8 +2022,8 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 2 |  |  |  |  |  | Magán és egyéb jogi személyek kártérítése |  |  |  | 117,0 |  | 117,0 |
 |  |  | 3 |  |  |  |  |  | Kormányzati szakpolitikai feladatok |  |  |  | 1 540,0 |  | 1 540,0 |
 |  |  | 4 |  |  |  |  |  | „Friends of Hungary” Alapítvány működtetése |  |  |  | 612,4 |  | 612,4 |
-|  | 41 |  |  |  |  |  | Vagyoni hozzájárulás a 2001. évi XX. tv. 2. § m) pont körében |  |  |  |  | 100 000,0 |  | 100 000,0 |
-|  |  |  |  |  |  | 1-20. cím összesen: |  |  |  |  |  | 415 907,9 | 97 419,9 | 318 488,0 |
+|  | 41 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | 1-20. cím összesen: |  |  |  |  |  | 315 907,9 | 97 419,9 | 218 488,0 |
 | 21 |  |  |  |  |  | Vállalkozások folyó támogatása |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  |  | Egyedi támogatások, ellentételezések |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  | Bányabezárás |  |  |  | 1 000,0 |  |  |
@@ -2032,7 +2032,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 | 22 |  |  |  |  |  | Elektronikus útdíj |  |  |  |  |  |  | 75 000,0 |  |
 | 24 |  |  |  |  |  | K-600 hírrendszer működtetésére |  |  |  |  |  | 55,0 |  |  |
 | 25 |  |  |  |  |  | Peres ügyek |  |  |  |  |  | 800,0 |  |  |
-|  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  | 678 255,1 | 172 419,9 | 318 488,0 |
+|  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  | 578 255,1 | 172 419,9 | 218 488,0 |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2882,7 +2882,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 1 |  |  |  |  |  | Vegyes kiadások |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  | Felszámolásokkal kapcsolatos kiadások |  |  |  | 2 500,0 |  |  |
 |  |  | 5 |  |  |  |  |  | Szanálással kapcsolatos kiadások |  |  |  | 1,0 |  |  |
-|  |  | 6 |  |  |  |  |  | Magán- és egyéb jogi személyek kártérítése |  |  |  | 500,0 |  |  |
+|  |  | 6 |  |  |  |  |  | Magán- és egyéb jogi személyek kártérítése |  |  |  | 35 800,0 |  |  |
 |  |  | 7 |  |  |  |  |  | Védelmi felkészítés előirányzatai |  |  |  |  |  |  |
 |  |  |  | 1 |  |  |  |  |  | Honvédelmi- és gazdasági felkészülés központi kiadásai |  |  | 207,0 |  |  |
 |  |  |  | 2 |  |  |  |  |  | Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása |  |  | 835,0 |  |  |
@@ -2943,7 +2943,8 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  | 2 |  |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  | 11 572,8 |  |  |
 |  | 3 |  |  |  |  |  | Központi Nukleáris Pénzügyi Alap támogatása |  |  |  |  | 13 492,4 |  |  |
 |  | 4 |  |  |  |  |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása |  |  |  |  | 12,3 |  |  |
-|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 877 058,3 | 7 458 924,9 |  |
+|  | 5 |  |  |  |  |  | Szövetkezeti Hitelintézetek Integrációs Alapjának támogatása |  |  |  |  | 135 499,6 |  |  |
+|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 2 047 857,9 | 7 458 924,9 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2971,7 +2972,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  | 2 |  |  |  |  |  | Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai |  |  | 8 550,0 |  |  |
 |  |  | 2 |  |  |  |  |  | Egyéb eszközök vásárlása |  |  |  | 50,0 |  |  |
 |  |  | 4 |  |  |  |  |  | Állami tulajdoni részesedések növekedését eredményező kiadások |  |  |  |  |  |  |
-|  |  |  | 1 |  |  |  |  |  | Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  | 6 450,0 |  |  |
+|  |  |  | 1 |  |  |  |  |  | Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  | 10 000,0 |  |  |
 |  |  |  | 2 |  |  |  |  |  | Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  | 750,0 |  |  |
 |  |  |  | 3 |  |  |  |  |  | Az MVM Zrt. tőkeemelése |  |  | 71 000,0 |  |  |
 |  |  | 5 |  |  |  |  |  | Volt szovjet ingatlanok környezeti kármentesítése |  |  |  | 500,0 |  |  |
@@ -3011,7 +3012,7 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  | 7 |  |  |  |  |  | A Nemzeti Eszközkezelő Zrt. tevékenységével kapcsolatos egyéb kiadások |  |  |  | 1 000,0 |  |  |
 |  | 5 |  |  |  |  |  | Fejezeti tartalék |  |  |  |  | 4 700,0 |  |  |
 |  | 8 |  |  |  |  |  | ÁFA elszámolás |  |  |  |  | 1 000,0 |  |  |
-|  |  |  |  |  |  | XLIII. fejezet összesen: |  |  |  |  |  | 226 390,0 | 102 194,4 |  |
+|  |  |  |  |  |  | XLIII. fejezet összesen: |  |  |  |  |  | 229 940,0 | 102 194,4 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3079,6 +3080,16 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 | 50 |  |  |  |  |  | A Nemzeti Foglalkoztatási Alap függő, átfutó és hitellel kapcsolatos tételei |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  |  | Betétállomány változása |  |  |  |  |  | 26 000,0 |  |
 |  |  |  |  |  |  | LXIII. fejezet összesen: |  |  |  |  |  | 355 140,6 | 355 140,6 |  |
+
+| millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cím | Al-cím szám | Jog-cím-csop. szám | Jog-cím szám | Elő-ir.csop. szám | Kie-meltelőir. szám | Címnév | Al-címnév | Jog-cím-csop.név | Jog-címnév | Elő-ir.csop. név | LXIV. FEJEZET | 2013. évi előirányzat |  |  |
+| Kiemelt előirányzat neve | Kiadás | Bevétel | Támogatás |
+|  |  |  |  |  |  | LXIV. SZÖVETKEZETI HITELINTÉZETEK INTEGRÁCIÓS ALAPJA |  |  |  |  |  |  |  |  |
+| 1 |  |  |  |  |  | Költségvetési támogatás |  |  |  |  |  |  | 135 499,6 |  |
+| 2 |  |  |  |  |  | Szövetkezeti Hitelintézetek Integrációs Szervezete rendelkezésére bocsátott vagyoni hozzájárulás |  |  |  |  |  | 135 000,0 |  |  |
+| 3 |  |  |  |  |  | Működési kiadások |  |  |  |  |  | 499,6 |  |  |
+|  |  |  |  |  |  | LXIV. fejezet összesen: |  |  |  |  |  | 135 499,6 | 135 499,6 |  |
 
 | millió forintban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3322,9 +3333,9 @@ igénylésének, döntési rendszerének, folyósításának, felhasználásána
 |  |  |  |  |  | 5 |  |  |  |  |  | Egyéb működési célú kiadások | 175,0 |  |  |
 |  |  |  |  |  |  | 5. cím összesen: |  |  |  |  |  | 9 139,4 | 424,6 | 8 714,8 |
 |  |  |  |  |  |  | LXXII. fejezet összesen: |  |  |  |  |  | 1 804 273,9 | 1 804 273,9 | 8 714,8 |
-|  |  |  |  |  |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  | 16 376 150,9 |  |  |
-|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 325 316,1 |  |  |
-|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | -1 050 834,8 |  |  |
+|  |  |  |  |  |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  | 16 586 000,1 |  |  |
+|  |  |  |  |  |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  | 15 460 815,7 |  |  |
+|  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  | –1 125 184,4 |  |  |
 
 ### 2. melléklet a 2012. évi CCIV. törvényhez
 
@@ -4812,7 +4823,7 @@ f) Ferihegyi út meghosszabbítása
 
 Az előirányzat a Ferihegyi út meghosszabbítása támogatásának 2013. évi ütemét szolgálja.
 
-Felhatalmazást kap a Kormány európai uniós támogatások felhasználásáért felelős tagja, hogy támogatási szerződést kössön a Fővárosi Önkormányzattal a b) és c) pont szerinti, valamint Budapest Főváros XVII. Rákosmente Önkormányzatával az f) pont szerinti támogatás felhasználásának részletes szabályairól.
+Felhatalmazást kap a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter, hogy támogatási szerződést kössön a Fővárosi Önkormányzattal a b) és c) pont szerinti, valamint Budapest Főváros XVII. Rákosmente Önkormányzatával az f) pont szerinti támogatás felhasználásának részletes szabályairól.
 
 Felhatalmazást kap a vízgazdálkodási szervezetek irányításáért felelős miniszter, hogy a Fővárosi Önkormányzattal támogatási szerződést kössön a d) pont szerinti támogatás felhasználásának részletes szabályairól.
 
