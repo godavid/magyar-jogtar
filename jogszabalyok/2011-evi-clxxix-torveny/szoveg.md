@@ -1143,7 +1143,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (4)
 
-(5) Az Országos Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.
+(5) A Nemzeti Választási Bizottság az eljárása során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását a törvényi feltételek fennállásáról.
 
 (6) Az Országgyűlés elutasító döntésének meghozatalától számított egy éven belül ismételt kérelem nem terjeszthető elő.
 
@@ -1328,7 +1328,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (17) Ha a települési nemzetiségi önkormányzat képviselőjének megbízatása 2011. december 31-ét követően, de e törvénynek az a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezései hatálybalépését megelőzően megszűnt, helyére a szavazatszám szerinti sorrendben következő jelölt lép. Ha nincs ilyen jelölt, a mandátum betöltetlen marad. Ha a betöltetlen mandátumok miatt a képviselők száma három alá csökken, a települési nemzetiségi önkormányzat megszűnik.
 
-(18) Ha a területi vagy az országos nemzetiségi önkormányzat képviselőjének megbízatása 2011. december 2-át követően megszűnt, és a mandátum 2011. december 31-ig nem került betöltésre, a helyére – a listán eredetileg is szereplő jelöltek közül – a jelölő szervezet által megnevezett, ennek hiányában a listán soron következő jelölt lép. A jelölő szervezet a mandátumot szerző jelöltet e törvénynek a Mód. tv. által megállapított rendelkezései hatálybalépését követő 30 napon belül jelentheti be a területi választási bizottságnál vagy az Országos Választási Bizottságnál. Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
+(18) Ha a területi vagy az országos nemzetiségi önkormányzat képviselőjének megbízatása 2011. december 2-át követően megszűnt, és a mandátum 2011. december 31-ig nem került betöltésre, a helyére – a listán eredetileg is szereplő jelöltek közül – a jelölő szervezet által megnevezett, ennek hiányában a listán soron következő jelölt lép. A jelölő szervezet a mandátumot szerző jelöltet e törvénynek a Mód. tv. által megállapított rendelkezései hatálybalépését követő 30 napon belül jelentheti be a területi választási bizottságnál vagy a Nemzeti Választási Bizottságnál. Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
 
 (19) Ha 2011. december 31-ét követően, e törvénynek a Mód. tv. által megállapított rendelkezései hatályba lépéséig a területi vagy az országos nemzetiségi önkormányzat közgyűlése tagjainak száma a testület 2010. évi általános nemzetiségi önkormányzati választáson megválasztható tagjai számának fele alá csökkent, illetve ha a közgyűlést feloszlatták vagy az kimondta feloszlását, időközi választást kell tartani. Az időközi választást e törvénynek a Mód. tv. által megállapított rendelkezései hatályba lépését követő négy hónapon belülre kell kitűzni.
 

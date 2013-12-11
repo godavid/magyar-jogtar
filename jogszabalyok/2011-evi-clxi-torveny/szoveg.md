@@ -643,7 +643,7 @@ indítványozza.
 
 #### 26. Az OBT létszáma, összetétele
 
-88. § (1) Az OBT a bíróságok központi igazgatásának felügyeleti testülete.
+88. § (1) Az OBT a bíróságok központi igazgatásának felügyeleti testülete. Az OBT a felügyeleti feladatai mellett közreműködik a bíróságok igazgatásában.
 
 (2) Az OBT székhelye Budapest.
 
@@ -1386,7 +1386,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (8) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
