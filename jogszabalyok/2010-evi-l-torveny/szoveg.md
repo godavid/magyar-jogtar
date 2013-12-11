@@ -95,7 +95,7 @@ jelöltnek ajánlott.
 
 9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt –, ha
 
-- a) a település nemzetiségi névjegyzékében szerepel,
+- a) a nemzetiségi névjegyzékben szerepel,
 - b) a helyi önkormányzati képviselők és polgármesterek, továbbá a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje, továbbá
 - c) nyilatkozatot tesz arról, hogy
   - ca) a nemzetiség képviseletét vállalja,
@@ -121,6 +121,8 @@ jelöltnek ajánlott.
 
 12. § (1) A polgármestert és a főpolgármestert a települések választópolgárai közvetlenül választják.
 
+(1a) A polgármester és a főpolgármester választásának szavazólapján a választópolgár egy jelöltre szavazhat.
+
 (2) Polgármester, főpolgármester az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
 
 #### 2. Egyéni listás választási rendszer
@@ -133,7 +135,7 @@ jelöltnek ajánlott.
 
 #### 3. A vegyes választási rendszer
 
-14. § Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta.
+14. § Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta. A választás szavazólapján a választópolgár egy jelöltre szavazhat.
 
 15. § (1) A kompenzációs lista és a nemzetiségi kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
 
@@ -166,6 +168,8 @@ jelöltnek ajánlott.
 
 #### 4. A fővárosi közgyűlés tagjainak választása
 
+16/A. § A fővárosi közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
+
 17. § (1) A fővárosi listák a listákra leadott szavazatok arányában kapnak mandátumot.
 
 (2) A mandátum számítás módja:
@@ -184,6 +188,8 @@ jelöltnek ajánlott.
 - b) a közös fővárosi lista, ha a fővárosi listákra leadott érvényes szavazatok tíz százalékát, kettőnél több jelölő szervezet által állított közös fővárosi lista esetében tizenöt százalékát nem érte el. E vonatkozásban összesíteni csak az ugyanazon jelölő szervezetek által összeállított közös fővárosi listákra leadott érvényes szavazatokat lehet.
 
 #### 5. A megyei közgyűlés tagjainak választása
+
+18/A. § A megyei közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
 
 19. § (1) A megyei listák a leadott szavazatok arányában, a 17. § (2) bekezdésében meghatározott számítási mód alapján jutnak mandátumhoz.
 
@@ -249,7 +255,7 @@ jelöltnek ajánlott.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-22. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a lakosságszám-adatot nyilvántartó központi szervet.
+#### 22. §
 
 23. § E törvény a kihirdetése napján lép hatályba, rendelkezéseit a helyi önkormányzati képviselők és a polgármesterek 2010. évi általános választása során kell először alkalmazni.
 

@@ -28,7 +28,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 6. § (1) Az Alkotmánybíróság tagjává megválasztható minden olyan büntetlen előéletű, és az országgyűlési képviselők választásán választható magyar állampolgár, aki
 
 - a) jogász végzettséggel rendelkezik,
-- b) 45. életévét betöltötte, és
+- b) 45. életévét betöltötte, de 70. életévét még nem töltötte be, és
 - c) kiemelkedő tudású elméleti jogász (egyetemi tanár vagy a Magyar Tudományos Akadémia doktora), vagy legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik.
 
 (2) Az (1) bekezdésben meghatározott jogi szakmai gyakorlatot olyan munkakörben kell eltölteni, amely betöltésének feltétele a jogász végzettség.
@@ -87,7 +87,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 15. § (1) Az Alkotmánybíróságban betöltött tagság megszűnik
 
-- a) a 70. életév betöltésével, vagy
+- a)
 - b) a megbízatási időtartam leteltével.
 
 (2) Az Alkotmánybíróságban betöltött tagság megszűnik továbbá
@@ -99,7 +99,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - e) felmentéssel vagy
 - f) kizárással.
 
-(3) Ha az Alkotmánybíróság tagjának megbízatása az (1) bekezdés alapján szűnik meg, az Alkotmánybíróság új tagját a 8. § (1)–(3) bekezdésben foglaltak szerint kell megválasztani. Ha az Országgyűlés az Alkotmánybíróság új tagját a 8. § (3) bekezdésben meghatározott határidőig nem választja meg, az Alkotmánybíróság tagjának megbízatása az utódja hivatalba lépéséig meghosszabbodik. Ha az Alkotmánybíróság több tagjának szűnik meg egyidejűleg a megbízatása, mint ahány tagot az Országgyűlés a határidőig választ, az életkorban fiatalabb tag megbízatása hosszabbodik meg.
+(3)
 
 (4) Ha az Alkotmánybíróság tagjának megbízatása a (2) bekezdés alapján szűnik meg, az Alkotmánybíróság új tagját az Országgyűlés az Alkotmánybíróság volt tagja megbízatásának megszűnésétől számított hatvan napon belül választja meg.
 
@@ -124,7 +124,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - b) neki felróható okból egy évig nem vesz részt az Alkotmánybíróság munkájában, vagy
 - c) a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl.
 
-(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés a)–b) pontja és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet a Magyar Közlönyben közzé kell tenni.
+(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés b) pontja esetében – a megbízatási idő lejártának napjával – és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet a Magyar Közlönyben közzé kell tenni.
 
 #### 4. Az Alkotmánybíróság elnöke és elnökhelyettese
 
@@ -176,7 +176,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 20. § (1) Ha az elnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
 
-(2) Az Alkotmánybíróság volt elnöke, ha e tisztségét legalább két évig betöltötte, és megbízatása a megbízatási időtartam letelte, a 70. életév betöltése vagy felmentése miatt szűnt meg, további hat hónapon, ha megbízatása lemondása miatt szűnt meg, további három hónapon keresztül a havi díjazásának megfelelő összegű juttatásra jogosult, amely nem önálló tevékenységből származó jövedelemnek minősül.
+(2) Az Alkotmánybíróság volt elnöke, ha e tisztségét legalább két évig betöltötte, és megbízatása a megbízatási időtartam letelte vagy felmentése miatt szűnt meg, további hat hónapon, ha megbízatása lemondása miatt szűnt meg, további három hónapon keresztül a havi díjazásának megfelelő összegű juttatásra jogosult, amely nem önálló tevékenységből származó jövedelemnek minősül.
 
 (3) Ha az elnök megbízatása a (2) bekezdésben meghatározott okokból két évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
 
@@ -261,7 +261,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - a) az Alaptörvényben biztosított jogának sérelme következett be, és
 - b) jogorvoslati lehetőségeit már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
 
-(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető az Alaptörvény 24. cikk (2) bekezdés c) pontja, illetve az Alaptörvény VII. cikk (2) bekezdése alapján, ha
+(2) Az (1) bekezdéstől eltérően, az Alkotmánybíróság eljárása kivételesen akkor is kezdeményezhető az Alaptörvény 24. cikk (2) bekezdés c) pontja alapján, ha
 
 - a) az alaptörvény-ellenes jogszabály rendelkezésének alkalmazása vagy hatályosulása folytán közvetlenül, bírói döntés nélkül következett be a jogsérelem, és
 - b) nincs a jogsérelem orvoslására szolgáló jogorvoslati eljárás, vagy a jogorvoslati lehetőségeit az indítványozó már kimerítette.
@@ -303,7 +303,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 33. § (1) Az Országgyűlés népszavazást elrendelő, valamint kötelezően elrendelendő népszavazás elrendelését elutasító határozatát az Alkotmánybíróság az elrendelés vagy elutasítás Alaptörvénnyel való összhangja és törvényessége tekintetében bárki indítványára felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül be kell érkeznie.
 
-(2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság a határozat érdemében csak akkor folytat vizsgálatot, ha az aláírásgyűjtő ív hitelesítése és a népszavazás elrendelése között a körülményekben olyan lényeges változás következett be, amelyet a kérdés hitelesítéséről, illetve az azzal szembeni felülvizsgálati kérelemről hozott döntés során az Országos Választási Bizottság, illetve a Kúria nem vehetett figyelembe, és a döntést érdemben befolyásolhatja.
+(2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság a határozat érdemében csak akkor folytat vizsgálatot, ha az aláírásgyűjtő ív hitelesítése és a népszavazás elrendelése között a körülményekben olyan lényeges változás következett be, amelyet a kérdés hitelesítéséről, illetve az azzal szembeni felülvizsgálati kérelemről hozott döntés során a Nemzeti Választási Bizottság, illetve a Kúria nem vehetett figyelembe, és a döntést érdemben befolyásolhatja.
 
 (3) Az Alkotmánybíróság nem vizsgálja érdemben azt az indítványt, amelyben az indítványozó a népszavazási kérdés tartalmát illető, illetve a hitelesítéssel összefüggő alkotmányossági aggályokra hivatkozik.
 
@@ -511,7 +511,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (6) Az indítvány mellékleteként meg kell küldeni az Alkotmánybíróság részére azokat a dokumentumokat, amelyek az indítványban foglaltakat igazolják.
 
-53. § (1) Az eljárás megindítására vonatkozó írásbeli indítványt közvetlenül az Alkotmánybíróságnál kell előterjeszteni. Az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatára irányuló indítvány beérkezéséről az Alkotmánybíróság haladéktalanul tájékoztatja a köztársasági elnököt és az Országos Választási Bizottságot.
+53. § (1) Az eljárás megindítására vonatkozó írásbeli indítványt közvetlenül az Alkotmánybíróságnál kell előterjeszteni. Az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatára irányuló indítvány beérkezéséről az Alkotmánybíróság haladéktalanul tájékoztatja a köztársasági elnököt és a Nemzeti Választási Bizottságot.
 
 (2) Az (1) bekezdéstől eltérően az alkotmányjogi panasz iránti indítványt – a 26. § (2) bekezdése szerinti eset kivételével – az ügyben első fokon eljárt bíróságnál kell az Alkotmánybírósághoz címezve benyújtani.
 
@@ -699,5 +699,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 (2) Az Alaptörvény 25. cikk (2) bekezdés c) pontja alapján a bírósághoz kell áttenni az e törvény hatálybalépését megelőzően bíró által előterjesztett olyan indítványt, amely előtte folyamatban lévő ügy elbírálása során alkalmazandó jogszabály alkotmányellenességének vizsgálatára irányuló eljárásban önkormányzati rendelet vizsgálatára irányult, és az indítvány tartalmában önkormányzati rendelet más jogszabályba ütközését állítja.
 
 74. § A 26–27. §-ban meghatározott alkotmányjogi panasz eljárás e törvény hatálybalépésekor folyamatban lévő eljárások tekintetében is kezdeményezhető.
+
+74/A. § A 15. § (1) bekezdésének, valamint a 16. § (6) bekezdésének az egyes törvényeknek az Alaptörvény ötödik módosításával összefüggő módosításáról szóló 2013. évi CCVII. törvénnyel megállapított szövegét az Alkotmánybíróság az egyes törvényeknek az Alaptörvény ötödik módosításával összefüggő módosításáról szóló 2013. évi CCVII. törvény hatálybalépésekor megbízatásukat töltő tagjai tekintetében is alkalmazni kell.
 
 75. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét, ahol törvényt említ, azon a törvényerejű rendeletet is érteni kell.
