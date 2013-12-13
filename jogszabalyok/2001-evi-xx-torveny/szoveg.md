@@ -418,3 +418,5 @@ Magyar Követeléskezelő Zrt.
 MFB Invest Befektetési és Vagyonkezelő Zrt.
 
 VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.
+
+MMBF Földgáztároló Zártkörűen Működő Részvénytársaság.
