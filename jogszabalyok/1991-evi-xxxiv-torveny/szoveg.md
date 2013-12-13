@@ -345,7 +345,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (2)
 
-(3) Pénznyerő automata kizárólag játékkaszinóban üzemeltethető. Egy játékkaszinó-egységben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
+(3) Pénznyerő automata kizárólag játékkaszinóban üzemeltethető. Egy játékkaszinó-egységben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat. Egy II. kategóriájú játékkaszinóban legfeljebb 300 pénznyerő automata üzemeltethető.
 
 (4) A pénznyerő automatának
 
@@ -420,6 +420,8 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 
 (12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
+
+(13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb három és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
 
 27/A. § (1) A játékkaszinóban a játékosok vendéglátásához és pénzváltásához szorosan kapcsolódó tevékenységen kívül más tevékenység nem folytatható. Pénzváltási tevékenység, mint kiegészítő pénzügyi szolgáltatás, kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben előírt engedély birtokában végezhető.
 
@@ -589,7 +591,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 30. § (1) E törvény alkalmazása szempontjából a sorsolásos játékoknál nyereményalapnak minősül a kibocsátott sorsjegyek számának és fogyasztói árának szorzata. Folyamatosan szervezett sorsolásos játékok esetében nyereményalapnak minősül a játéktervben jóváhagyott játékra jogosító sorsjegyek számának és fogyasztói árának szorzata.
 
-(2) Az e törvény 16. §-a szerinti sorsolásos játék kivételével a nem folyamatosan szervezett sorsolásos játékok nyereményalapjának legalább 55%-át nyeremények céljára kell fordítani. A folyamatosan szervezett szerencsejátékok esetében az állami adóhatóság engedélyezheti a nyereményeknek meghatározott időszakon belüli halmozódását.
+(2) Az e törvény 16. §-a szerinti sorsolásos játék kivételével a nem folyamatosan szervezett sorsolásos játékok nyereményalapjának legalább 55%-át nyeremények céljára kell fordítani. A folyamatosan szervezett szerencsejátékok esetében az állami adóhatóság engedélyezheti a nyereményeknek meghatározott időszakon belüli halmozódását. Nemzetközi együttműködés keretében szervezett sorsolásos játékok esetében az állami adóhatóság a nyereményre fordítandó összegek halmozódását a közösen kialakított és valamennyi résztvevő által elfogadott játékszabályok szerint engedélyezi.
 
 (3) Az e törvény 21. §-a szerinti sorsjáték havi nyereményalapja a tárgyhóban a játékosok részére értékesített sorsjegyek jóváhagyott játékterv szerinti árának megfelelő tétek összessége. Sorsjáték esetén a nyereményalap legalább 60%-át nyeremények céljára kell fordítani.
 
