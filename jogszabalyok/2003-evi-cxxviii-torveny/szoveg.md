@@ -68,11 +68,11 @@ rendelkezéseit kell alkalmazni.
 
 (4) A 9. § (1) bekezdés szerinti környezetvédelmi hatóság az előzetes vizsgálati eljárásban a nyilvánosság véleményének megismerése érdekében közmeghallgatást tart.
 
-(5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és termőföld, valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
+(5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld), valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
 
 6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának jogerőre emelkedését követően a Kormány rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti rendelet hatálybalépésétől az államot – termőföld esetében a termőföldről szóló törvény szerinti más jogosultakat megelőzően – elővásárlási jog illeti meg az (1) bekezdés szerinti rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
+(2) Az (1) bekezdés szerinti rendelet hatálybalépésétől az államot – föld esetében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti más jogosultakat megelőzően – elővásárlási jog illeti meg az (1) bekezdés szerinti rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 
 (3) Amennyiben az (1) bekezdésben megjelölt rendeletben két változat szerepel és a kihirdetett nyomvonalak egyikére a környezetvédelmi hatóság [9. § (1) bekezdés] a környezeti hatásvizsgálati eljárás alapján a környezetvédelmi engedélyt megadja, a Kormány – az (1) bekezdésben meghatározottaknak megfelelően – a rendeletet a környezetvédelmi engedélyben meghatározott nyomvonal alapján módosítja.
 
@@ -188,7 +188,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (4) A műszaki leírásnak tartalmaznia kell:
 
-- a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a termőföld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
+- a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a föld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
 - b) a tervezett cél-kitermelőhely lehatárolását (közigazgatási egység, helyrajzi szám) és a lehatárolás indokolását,
 - c) az előzetesen elvégzett talajmechanikai kutatás (vizsgálat) eredményét, a fellelt ásványi nyersanyag azonosítását, összetételét,
 - d) a cél-kitermelőhely teleptani, tektonikai, hidrogeológiai, talajmechanikai viszonyainak ismertetését,
@@ -217,7 +217,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 (7) A komplex műveleti tervhez mellékelni kell:
 
 - a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlanhasználatra kötött megállapodás hiteles másolatát,
-- b) termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
+- b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
 - c) az út megépítésére vonatkozó jogerős építési engedélyt.
 - d)
 
@@ -225,7 +225,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (9)
 
-17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű termőföldek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
+17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
 
 (2) A komplex műveleti tervet a bányafelügyelet az (1) bekezdésben meghatározott szempontok figyelembevételével hagyja jóvá. A bányafelügyelet a célkitermelőhelyekről nyilvántartást vezet, és azt a honlapján közzéteszi. A nyilvántartás tartalmazza:
 

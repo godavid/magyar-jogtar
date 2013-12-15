@@ -209,6 +209,8 @@ használhatja fel.
 
 (4) Az agrárkamara a miniszter által rendeletben meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve együttműködői feladatokat lát el.
 
+(5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
+
 13. § Az agrárkamara közfeladatai ellátása érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvény és az agrárkamara alapszabályában rögzített adatgyűjtésre vonatkozó rendelkezéseknek megfelelően tagjairól adatokat gyűjt, valamint azokat kezeli, összesíti és nyilvántartja. Az adatszolgáltatás körét az országos küldöttgyűlés tagjai kétharmadának szavazatával állapítja meg.
 
 #### 1. Az agrárkamara igazgatási jellegű közfeladatai

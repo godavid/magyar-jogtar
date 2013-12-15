@@ -12,45 +12,11 @@ a következő törvényt alkotja:
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya kiterjed az ország területén levő valamennyi termőföldre.
-
-(2)
-
-2. § (1) E törvény a termőföld tulajdonjogának megszerzésére, illetőleg a szerzés tilalmára, a termőföldek használatára, a birtoktagok kialakítására és a földhasználati nyilvántartásra vonatkozó rendelkezéseket állapítja meg.
-
-(2) A termőföldre vonatkozó rendelkezéseket — a haszonbérletre e törvényben megállapított szabályok kivételével — alkalmazni kell a mező-, erdőgazdasági művelés alatt álló belterületi földre is.
-
-(3)
-
-(4) E törvény rendelkezéseit a Nemzeti Földalapba tartozó földrészleteket érintően csak akkor kell alkalmazni, ha a Nemzeti Földalapról szóló törvény eltérő szabályokat nem állapít meg.
-
-(5)–(6)
+1–2. §
 
 ### Fogalommeghatározások
 
-3. § E törvény alkalmazásában
-
-- a) termőföld: az a földrészlet, amelyet a település külterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván;
-- b) tanya: a település külterületén lévő mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás) céljára létesített lakó- és gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó, legfeljebb 6000 m2 területű föld együttese;
-- c) külföldi magánszemély: a nem magyar állampolgár, kivéve a bevándorolt vagy menekültként elismert személyt;
-- d) külföldi jogi személy: a külföldi székhelyű jogi személy vagy az ilyen székhelyű jogi személyiséggel nem rendelkező szervezet;
-- e)
-- f) mező-, erdőgazdasági művelés alatt álló belterületi föld: az a földrészlet, amelyet a település belterületén az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület művelési ágban vagy halastóként tartanak nyilván;
-- g)
-- h) családi gazdaság: legfeljebb 300 hektár nagyságú termőföld (ideértve a mező-, erdőgazdasági művelés alatt álló belterületi földet is) tulajdonával, illetőleg haszonbérletével, használatával rendelkező gazdálkodó család valamennyi termőföldje, az ahhoz tartozó leltárban megjelölt ingatlan és ingó vagyontárgyak (épület, építmény, mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) hasznosításával, legalább egy családtag teljes foglalkoztatásán és a többi családtag közreműködésén alapuló gazdálkodási forma;
-- i) a családi gazdálkodó: a családi gazdaságot a mezőgazdasági igazgatási szerv nyilvántartásába bejegyeztető személy, aki 1. a családi gazdaság vezetőjeként annak tevékenységi körében jogokat szerezhet és kötelezettségeket vállalhat, 2. élethivatásszerűen mezőgazdasági, illetve mezőgazdasági és kiegészítő tevékenységet folytat, 3. mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik vagy ennek hiányában igazolja, hogy legalább 3 éve folytatja a mezőgazdasági, illetve mezőgazdasági és kiegészítő tevékenységét és ebből árbevétele származott, 4. legalább 3 év óta a bejelentett állandó lakhelye a családi gazdaság központjaként megjelölt településen van;
-- j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
-- k) mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, halászat, haltenyésztés, szaporító anyag termesztés, vadgazdálkodás, erdőgazdálkodás, vegyes gazdálkodás;
-- l) kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, elsődleges élelmiszer-feldolgozás, a mezőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás;
-- m) helyben lakó: az a családi gazdálkodó vagy nyilvántartási számmal rendelkező őstermelő, vagy egyéni mezőgazdasági vállalkozó magánszemély, akinek 1. lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik; 2. lakóhelye legalább három éve olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
-- n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;
-- o) önálló vállalkozó: az egyéni vállalkozó, az egyéni cég vagy az önfoglalkoztató;
-- p) önfoglalkoztató: az a magánszemély, aki bármely jogszabály szerint önállóan végezhető és az egyéni vállalkozásról szóló törvény hatálya alá nem tartozó gazdasági tevékenységet végez, ha az egészségbiztosítási, illetőleg a nyugdíjbiztosítási szolgáltatások fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik;
-- q) termőföldnek nem minősülő ingatlan: a termőföldnek nem minősülő földrészlet, egyéb önálló ingatlan;
-- r) elsődleges lakóhely: az a lakás, vagy lakás céljára szolgáló egy vagy több lakóhelyiségből álló épület vagy épületrész, továbbá belterületen lakásépítés céljára kialakított telek, ahol a tagállami állampolgár életvitelszerűen kíván tartózkodni;
-- s) másodlagos lakóhely: az a lakás, vagy lakás céljára szolgáló egy vagy több lakóhelyiségből álló épület, vagy épületrész, továbbá belterületen lakásépítés céljára kialakított telek, ami nem minősül elsődleges lakóhelynek;
-- t) tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára;
-- u) a mezőgazdasági termelők gazdaságátadási támogatása keretében 1. mezőgazdasági termelőtevékenység: növénytermelési, állattenyésztési, vegyes gazdálkodási tevékenység, 2. mezőgazdasági termelő: a gazdaságátadási támogatás bevezetéséről szóló külön jogszabályban meghatározott egyéni vállalkozó, őstermelő, családi gazdálkodó.
+3. §
 
 ### II. Fejezet — A TERMŐFÖLD TULAJDONJOGÁNAK MEGSZERZÉSE
 
@@ -347,30 +313,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 - b) követelheti az el nem vihető berendezéseknek, az általa telepített növényzetnek, valamint a talaj minőségének javítását eredményező talajvédelmi beavatkozásoknak és létesítményeknek a szerződés megszűnésekor megállapítható tényleges értékét;
 - c) köteles a haszonbérbe adóval kötött eltérő megállapodás hiányában az általa létesített ideiglenes jellegű építményt a saját költségén kártalanítási igény nélkül lebontani, illetőleg eltávolítani. E kötelezettség nem teljesítése esetén a bontást, illetőleg az eltávolítást a haszonbérbe adó a kötelezett költségére elvégeztetheti.
 
-21. § (1) A termőföld és tanya haszonbérbe adása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben előhaszonbérleti jog illeti meg:
-
-- a) a volt haszonbérlőt, illetve ha a volt haszonbérlő a tulajdonos hozzájárulásával ültetvényt telepített vagy halastavat létesített, az általa kijelölt személyt feltéve, hogy a haszonbérlet nem a tulajdonos azonnali hatályú felmondása következtében szűnt meg;
-- b) a helyben lakó szomszédot;
-- c) a helyben lakót.
-
-(2) Az (1) bekezdés b)–c) pontjában meghatározott jogosulti csoportokon belül az előhaszonbérleti jog gyakorlásának sorrendje a következő:
-
-- a) a családi gazdálkodó;
-- b) nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó;
-- c)
-
-(3) Az állattartó telep és halastó üzemeltetőjét az ingatlan-nyilvántartásban szántó, rét, legelő, valamint fásított terület művelési ágban nyilvántartott termőföldre – a 21. § (1) bekezdésének a) pontjában foglalt személyekkel azonos sorrendben – előhaszonbérleti jog illeti meg, feltéve hogy
-
-- a) az állattartó telep és halastó a 3. § m) pontjának 1–2. alpontjai szerinti település valamelyikén fekszik, és
-- b) az állattartó telepet és halastavat a haszonbérletre vonatkozó ajánlat közlésének időpontjában, valamint az azt megelőző legalább egy éve folyamatosan működteti.
-
-(4) Az állattartó telep és halastó működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki.
-
-(5) Az (1) bekezdés szerinti előhaszonbérleti jog nem áll fenn közeli hozzátartozók [Ptk. 685. § b) pont] közötti haszonbérleti szerződés esetében, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld haszonbérlete esetén, valamint olyan külterületi földrészlet haszonbérbe adása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
-
-(6) Az (1)–(2) bekezdés szerinti sorrend az előhaszonbérletre jogosultak egymás közötti viszonyában is irányadó.
-
-(7) E § szerinti volt haszonbérlőnek az a magánszemély vagy jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet minősül, aki a haszonbérleti ajánlat tárgyát képező termőföldet vagy tanyát a haszonbérleti ajánlat közlését megelőző egy éven belül – több ilyen személy esetén aki utolsóként – haszonbérelte.
+21. §
 
 ### A haszonbérelhető terület nagysága
 
@@ -627,12 +570,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (6)
 
-81/A. § (1) E törvénynek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvénnyel megállapított 3. § m) és n) pontját, 10. § (1)–(2) és (5) bekezdését azon termőföld vagy tanya esetében kell alkalmazni, amelyekre a vételi vagy haszonbérleti ajánlatot a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló kormányrendelet szerint 2010. szeptember 1-jét követően tették közzé.
-
-(2) Az (1) bekezdés szerinti módon 2010. augusztus 31-éig közzétett
-
-- a) vételi ajánlat esetében a szerződés ingatlanügyi hatósághoz történő benyújtásakor a beadványt – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 44. § (1) bekezdésétől eltérően – a vételi ajánlat közzétételének időpontjában hatályos rendelkezések szerint kell elintézni;
-- b) haszonbérleti ajánlat esetében a szerződés ingatlanügyi hatósághoz történő benyújtásakor a beadványt a haszonbérleti ajánlat közzétételének időpontjában hatályos rendelkezések szerint kell elintézni.
+81/A. §
 
 ### A külföldiek tulajdonszerzésére vonatkozó átmeneti szabályok
 
@@ -656,55 +594,6 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 88/D. § Külföldi magánszemély és jogi személy, vagy jogi személyiség nélküli szervezet – kivéve a tagállami állampolgárt, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személyt, vagy jogi személyiség nélküli szervezetet – termőföldnek nem minősülő védett természeti terület tulajdonjogát nem szerezheti meg.
 
-89. § Ahol jogszabály zártkertre vonatkozó rendelkezést tartalmaz, ott a továbbiakban külterületi fekvést kell érteni.
-
-90. § (1) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa
-
-- a)
-- b) a termőföldnek nem minősülő ingatlanokra vonatkozóan a külföldiek tulajdonszerzésével kapcsolatos szabályokat,
-- c) a földhasználati nyilvántartás részletes szabályait,
-- d)
-- e) a termőföldre vonatkozó, az e törvény, valamint a Ptk. alapján fennálló elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályait,
-- f)
-- g) a családi gazdaságok létrehozására, nyilvántartásba vételére és működtetésére vonatkozó anyagi és eljárási szabályokat,
-- h)
-- i) a mezőgazdasági igazgatási szerv vagy szervek kijelölését.
-
-(2) Felhatalmazást kap a földügyért felelős miniszter, hogy
-
-- a) a 11. § (2) bekezdése szerinti védőtávolságok mértékére és érvényesítésére vonatkozó szabályokat;
-- b) az ingatlanügyi hatóság vagy hatóságok illetékességi területét rendeletben szabályozza;
-- c)
-- d) a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak mértékét, valamint a földhasználati eljárás és a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben;
-- e) a vételi (haszonbérleti) ajánlat hirdetményi úton történő közlésével összefüggő igazgatási jellegű szolgáltatás igazgatási szolgáltatási díjának mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben
-
-rendelettel megállapítsa.
-
-(3)
-
-91. § (1) 2013. január 1-jén fennálló, határozatlan időre vagy 2032. december 30-a után lejáró, határozott időtartamra nem közeli hozzátartozók között szerződéssel alapított haszonélvezeti jog 2033. január 1-jén a törvény erejénél fogva megszűnik.
-
-(2) Az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvénnyel (a továbbiakban: Módtv.) 6. §-ával megállapított 8/A. § (2a) bekezdését és módosított (4) bekezdését 2013. január 1-jén folyamatban levő és megismételt eljárásokban is alkalmazni kell.
-
-(3) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. február 1-jei állapota szerint a teljes területét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a bejegyzett földhasználat alapjául szolgáló szerződés vagy jogosultság megszűnését követően kell alkalmazni.
-
-(4) Az olyan közös tulajdonban álló földrészletet érintően, amelynek a földhasználati nyilvántartás 2013. február 1-jei állapota szerint egy részét egy vagy több földhasználó használja, a 11/B–11/H. §-ban foglalt rendelkezéseket a földrészletnek a bejegyzett földhasználattal nem érintett területére is alkalmazni kell.
-
-(5) A földhasználati nyilvántartásba-vételi eljárásban a 11/B–11/H. §-ban foglalt rendelkezéseket a 2013. február 1. napján, vagy ezt követően megkötött használati megosztásról szóló megállapodások, illetve fölhasználati szerződések esetében kell alkalmazni. A 2013. január 31-ig megkötött használati megosztásról szóló megállapodásokon, illetve földhasználati szerződéseken alapuló földhasználati bejelentéseket a szerződéskötés időpontjában hatályos rendelkezések szerint kell elintézni.
-
-(6) A Módtv. 9. §-ával módosított 12. §-t a Módtv. hatálybalépésekor fennálló haszonbérleti szerződések esetében a Módtv. hatálybalépését követően megkötött módosításra kell alkalmazni.
-
-(7) A Módtv. 11. §-ával megállapított 25/B. § (1)–(1e) bekezdésében, (2), (4) és (4a) bekezdésében foglaltakat az ingatlanügyi hatósághoz a földhasználati nyilvántartásba vétel céljából 2012. december 31-ig beérkezett, de el nem bírált földhasználati bejelentések esetében is alkalmazni kell.
-
-(8) A Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírt bejelentési kötelezettségnek – az ott meghatározottaktól eltérően – 2013. szeptember 30-ig kell eleget tennie annak a földhasználónak, aki 2012. december 31-ig – a földrészletek számától függetlenül – egy hektár vagy annál kisebb nagyságú föld használatát már megkezdte.
-
-(9) Azon földhasználók részére, akik a Módtv. 11. § (1) bekezdésével megállapított 25/B. § (2) bekezdésében előírtaknak megfelelően a földhasználatukat 2013. január 1-jétől a termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi VI. törvény (a továbbiakban: Módtv. 2.) hatálybalépéséig az ingatlanügyi hatóságnak bejelentették, a földhasználati nyilvántartási eljárásért megfizetett igazgatási szolgáltatási díjat a fővárosi és megyei kormányhivatal a Módtv. 2. hatálybalépésétől számított 90 napon belül köteles visszatéríteni, kivéve ha ezen határidőn belül a díj jogszabály alapján már visszafizetésre került.
-
-(10) Az egyes agrár tárgyú törvények módosításáról szóló 2013. évi XXXV. törvény (a továbbiakban: Módtv. 3.) 6. §-ával módosított 11. § (1) bekezdésében foglaltakat – az ingatlan-nyilvántartásról szóló törvényben foglaltaktól eltérően – a Módtv. 3. hatálybalépésekor folyamatban lévő, valamint a megismételt ingatlan-nyilvántartási eljárásokban is alkalmazni kell.
-
-(11) A termőföldről szóló 1994. évi LV. törvény módosításáról szóló 2013. évi CVII. törvénnyel (a továbbiakban: Módtv. 4.) módosított 25/G. § (1) bekezdésében előírt bejelentési kötelezettség azt a földhasználati nyilvántartásba bejegyzett földhasználót terheli, aki a Módtv. 4. hatálybalépéséig
-
-- a) nem tett eleget a Módtv. 14. §-ával megállapított 25/G. § (1) bekezdés szerinti azonosító adatközlési kötelezettségének, és
-- b) 2013. szeptember 30-ig a 25/B. § (2) bekezdés szerinti földhasználati bejelentést sem tesz.
+89–91. §
 
 ### 1–3. számú melléklet az 1994. évi LV. törvényhez

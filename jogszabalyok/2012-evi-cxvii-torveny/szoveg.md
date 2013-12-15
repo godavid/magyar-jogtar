@@ -156,13 +156,11 @@ lép.
 
 76. §
 
-77. § A Hetv. 11. § (4) bekezdése a következő szöveggel lép hatályba:
-
-„(4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerint, elektronikus úton kell kézbesíteni.”
+77. §
 
 78–79. §
 
-80. § A Hetv. 23. § (2) bekezdésében az „a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései szerint” szövegrész az „a Pp.-ben meghatározottak szerint, elektronikus úton” szöveggel, az „a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezésein felül” szövegrész az „a Pp.-ben meghatározottak szerint, elektronikus kézbesítésen felül” szöveggel lép hatályba.
+80. §
 
 #### 30. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 

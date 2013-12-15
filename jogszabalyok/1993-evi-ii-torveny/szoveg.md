@@ -353,7 +353,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 12/I. § A 12/E–12/H. § szerinti eljárások nem minősülnek telekalakítási eljárásnak.
 
-12/J. § Ha közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) alatt – a termőföldről szóló törvényben meghatározott – használati megosztásról szóló megállapodás a tulajdonostársak között fennáll, e megállapodást a megosztási eljárásban úgy kell tekinteni, mintha a tulajdonostársak a kiosztási sorrend egymás közötti meghatározására teljes körű egyezséget kötöttek volna. Ez esetben a megosztási eljárás során nem kell dönteni a megosztás kiindulási helyének és az osztás irányának a meghatározásáról.
+12/J. § Ha közös tulajdon megszüntetésére irányuló eljárás (a továbbiakban: megosztási eljárás) alatt – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott – használati megosztásról szóló megállapodás a tulajdonostársak között fennáll, e megállapodást a megosztási eljárásban úgy kell tekinteni, mintha a tulajdonostársak a kiosztási sorrend egymás közötti meghatározására teljes körű egyezséget kötöttek volna. Ez esetben a megosztási eljárás során nem kell dönteni a megosztás kiindulási helyének és az osztás irányának a meghatározásáról.
 
 12/K. § A közös tulajdonnak az e törvény rendelkezései szerinti megszüntetése következtében létrejött közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni
 
@@ -367,7 +367,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) E törvény alkalmazásában
 
-- a) tanya: a település külterületén levő, eredetileg kisüzemi mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terménytárolás) céljára létesített lakó- és gazdasági épület, illetőleg épületcsoport és a hozzá tartozó termőföld együttese. Az e törvény alkalmazásában használt egyéb fogalmakat a termőföldről szóló 1994. évi LV. törvényben foglaltaknak megfelelően kell alkalmazni;
+- a) tanya: a település külterületén levő, eredetileg kisüzemi mezőgazdasági termelés (növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terménytárolás) céljára létesített lakó- és gazdasági épület, illetőleg épületcsoport és a hozzá tartozó termőföld együttese. Az e törvény alkalmazásában használt egyéb fogalmakat a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben foglaltaknak megfelelően kell alkalmazni;
 - b)
 - c) tanyatulajdonos: e törvény vonatkozásában tanyatulajdonosnak kell tekinteni az ingatlan-nyilvántartásban a tanya e törvény hatálybalépésekor feltüntetett tulajdonosát, annak házastársát, egyeneságbeli rokonát és testvérét.
 

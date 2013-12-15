@@ -43,7 +43,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - c) az energiáról,
 - d) az erdőkről,
 - e) az épített környezet alakításáról és védelméről,
-- f) a termőföldről,
+- f) a mező- és erdőgazdasági hasznosítású földről,
 - g) a halászatról,
 - h) a közlekedésről, közlekedési alágazatonként,
 - i) a katasztrófák megelőzéséről és következményeik elhárításáról,
