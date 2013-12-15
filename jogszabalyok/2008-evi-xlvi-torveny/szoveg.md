@@ -14,7 +14,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 - b) az élelmiszerláncban a lehetséges kockázati tényezők számának csökkentése érdekében – figyelemmel a lakosság egészséges és biztonságos élelmiszerrel való ellátására – a helyi, illetve regionális kistermelői élelmiszer- előállítás és értékesítés elősegítése;
 - c) az állatok egészségének megőrzése, az emberek egészségét is veszélyeztető, valamint nagy gazdasági kárt okozó járványos állatbetegségek megelőzésének és leküzdésének biztosítása, az élő állatok és állati eredetű termékek nemzetközi kereskedelmének biztosításához szükséges garanciák elérése, továbbá az állatgyógyászati termékek biztonságos előállításának, kereskedelmének, felhasználásának biztosítása;
 - d) a növények, növényi termékek megóvása a károsító szervezetektől, valamint a növényvédelemmel kapcsolatos veszélyek megelőzése, illetve elhárítása az ember és az állat egészségét, a környezet és a természet védelmét szolgáló intézkedések elsőbbségének biztosításával, valamint a növényvédelemmel összefüggő biztonsági szabályok betartásával;
-- e) az emberi fogyasztásra kerülő, valamint az élelmiszerek alapanyagául szolgáló, továbbá a takarmányozásra szánt növények szennyezésektől mentes termőföldön történő termesztésének elérése;
+- e) az emberi fogyasztásra kerülő, valamint az élelmiszerek alapanyagául szolgáló, továbbá a takarmányozásra szánt növények szennyezésektől mentes mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földön (a továbbiakban: föld) történő termesztésének elérése;
 - f) az állatok, közvetve az ember egészségét nem veszélyeztető, biztonságos és megfelelő minőségű takarmány felhasználása révén a takarmányfelhasználók érdekeinek, a végső fogyasztók biztonságának védelme, a környezetvédelmi szempontok érvényre jutásának elősegítése;
 - g) haszonállatok tenyésztése során egészséges utódállomány létrehozásának biztosítása.
 
@@ -31,7 +31,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 - e) az állat tartására, tenyésztésére, forgalomba hozatalára, szállítására, levágására, leölésére, gyógykezelésére, egészségi állapotának vizsgálatára, valamint az állatszaporítási létesítmények és technológiák higiéniai körülményeire;
 - f) az engedélyköteles termék, állatgyógyászati termék, külön jogszabály szerint bejelentési kötelezettség mellett forgalomba hozható élelmiszer importálására, előállítására, kiszerelésére, forgalomba hozatalára, tárolására, szállítására, felhasználására, valamint az ezekkel összefüggésben történő szaktanácsadásra;
 - g) az élő állat, növény, ezek szaporítóanyagának, állati vagy növényi terméknek, takarmánynak az ország területére történő behozatalára, az ország területéről történő kivitelére, valamint az ország területén – a leszállás nélküli légi forgalom kivételével – történő átvitelére;
-- h) a termőföld, erdő- és egyéb növényi vegetáció számára alkalmas terület, vagy olyan dolog (eszköz, berendezés) birtoklására, használatára, amelyben növény fenntartható, továbbá az ezeken történő növénytermesztésre, növény, növényi termék hasznosítására (beleértve a legeltetést is), feldolgozására, forgalomba hozatalára, tárolására, szállítására és felhasználására;
+- h) a föld, vagy olyan dolog (eszköz, berendezés) birtoklására, használatára, amelyben növény fenntartható, továbbá az ezeken történő növénytermesztésre, növény, növényi termék hasznosítására (beleértve a legeltetést is), feldolgozására, forgalomba hozatalára, tárolására, szállítására és felhasználására;
 - i) a növényi, valamint állati eredetű melléktermék birtoklására, gyűjtésére, tárolására, ártalmatlanítására, szállítására, kezelésére és forgalomba hozatalára;
 - j) a laboratóriumok tevékenységére, valamint az állatbetegségeket, illetve az élelmiszer-fertőzéseket okozó kórokozókkal folytatott egyes tevékenységekre;
 - k) a növényvédelmi gép, növényvédő szer kijuttatására szolgáló szóróberendezés (a továbbiakban együtt: növényvédelmi gép) forgalomba hozatalára és üzemeltetésére;
@@ -48,7 +48,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 4. § Az élelmiszerlánc hatósági felügyelete kiterjed
 
-- a) a termőföld védelmét szolgáló, a termőföldről szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő tevékenységekre;
+- a) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő tevékenységekre;
 - b) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára, tárolására és felhasználására;
 - c) a növények termesztésére, a növények, növényi termékek és egyéb anyagok hasznosítására, feldolgozására, tárolására, szállítására és forgalomba hozatalára;
 - d) a növényvédelmi gépek forgalomba hozatalára és működtetésére;
@@ -232,7 +232,7 @@ valamint intézkedni annak megsemmisítéséről.
 (3) A termelő, illetve a földhasználó tevékenysége során köteles
 
 - a) az e törvény végrehajtására kiadott jogszabályban számára előírt, a méhek védelmére vonatkozó előírásokat betartani és ezekkel kapcsolatos bejelentési és tájékoztatási kötelezettségének eleget tenni;
-- b) a termőföldet a talaj szennyezését okozó anyagoktól megóvni, a földhasználat során környezetkímélő tápanyag-gazdálkodást folytatni.
+- b) a földet a talaj szennyezését okozó anyagoktól megóvni, a földhasználat során környezetkímélő tápanyag-gazdálkodást folytatni.
 
 (4) A földhasználó köteles az adott év június 30. napjáig az ingatlanon a parlagfű virágbimbójának kialakulását megakadályozni, és ezt követően ezt az állapotot a vegetációs időszak végéig folyamatosan fenntartani.
 
@@ -597,7 +597,7 @@ terheli.
 - a) intézkedik a zárlati és a vizsgálatköteles nem zárlati károsítókon kívüli egyéb, a gazdasági növényekre ártalmas szervezetek okozta különleges veszély vagy erős mértékű fertőzöttség esetén;
 - b) figyelemmel kíséri a gazdaságilag jelentős károsítók előfordulását, terjedését, felszaporodását, az ellenük alkalmazott termelői védekezések területi alakulását és eredményességét;
 - c) előírhatja vagy betilthatja egyes növények szaporításához vagy termesztéséhez meghatározott termesztőközegek felhasználását;
-- d) intézkedik a talajszennyezést eredményező, illetve a nem engedélyezett anyagok termőföldön történő felhasználása, továbbá termőföldön történő lerakása esetén;
+- d) intézkedik a talajszennyezést eredményező, illetve a nem engedélyezett anyagok földön történő felhasználása, továbbá földön történő lerakása esetén;
 - e) ellátja a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal kapcsolatos egyes feladatait;
 - f) engedélyezési vizsgálatokat végez az engedélyköteles termékekkel;
 - g) kérelemre vizsgálja a lejárt felhasználhatósági idejű engedélyköteles termékek minőségét;
@@ -1181,7 +1181,7 @@ esetén.
 63. § (1) Élelmiszerlánc-felügyeleti bírságot kell kiszabni
 
 - a) azzal szemben, aki tevékenységével vagy mulasztásával
-  - aa) a termőföld védelmének a termőföldről szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő;
+  - aa) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben, valamint a termőföld védelméről szóló törvényben nem szabályozott, élelmiszer-biztonsággal összefüggő;
   - ab) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára és felhasználására;
   - ac) a növények termesztése, a növények, növényi termékek és egyéb anyagok hasznosítása, feldolgozása, tárolása, szállítása és forgalomba hozatala növény-egészségügyi szabályainak betartására;
   - ad) növényvédelmi gépek forgalomba hozatalára és működtetésére;
@@ -1518,7 +1518,7 @@ E törvény alkalmazásában:
 - 27. feldolgozott termék: a 852/2004/EK rendelet 2. cikkének o) pontja szerinti fogalom;
 - 28. felhasználó: a végső fogyasztó, valamint az élelmiszert tevékenységéhez felhasználó élelmiszer-vállalkozás;
 - 29. forgalomba hozatal: az élelmiszerek vagy takarmányok tekintetében a 178/2002/EK rendelet 3. cikkének 8. pontja szerinti fogalom, egyéb esetben a termék készentartása eladás céljára, beleértve az eladásra való felkínálását vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint az eladását, forgalmazását vagy átadásának egyéb módját;
-- 30. földhasználó: termőfölddel, erdő vagy egyéb növényi vegetáció számára alkalmas területtel rendelkezik, illetve azt használja, vagy a termőföld hasznosítására kötelezett, vagy olyan dologgal (eszközzel, berendezéssel, tárggyal) rendelkezik, illetve azt használja, amelyben növény fenntartható;
+- 30. földhasználó: földdel rendelkezik, illetve azt használja, vagy a föld hasznosítására kötelezett, vagy olyan dologgal (eszközzel, berendezéssel, tárggyal) rendelkezik, illetve azt használja, amelyben növény fenntartható;
 - 30/A. géntechnológiával módosított szervezet: a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 2. §-ának b) pontja szerinti fogalom;
 - 30/B. gyógynövény termék: olyan vadon termett vagy termesztett – az e törvény végrehajtására kiadott rendeletben meghatározott – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 - 31. gyógyszeres takarmány: olyan takarmány, amely az állatgyógyászati készítményekre vonatkozó jogszabályokban meghatározott anyagot is tartalmaz;

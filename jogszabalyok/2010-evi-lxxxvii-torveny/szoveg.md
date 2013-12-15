@@ -21,16 +21,20 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2c) Az (1) bekezdéstől eltérően nem képezi a Nemzeti Földalap részét a Nemzeti Eszközkezelő Zrt. által az állam javára megvásárolt ingatlan.
 
+(2d) E törvény alkalmazásában föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld.
+
+(2e) E törvény alkalmazásában tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya.
+
 (3) A Nemzeti Földalap rendeltetése:
 
 - a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
 - b) a földárak és -haszonbérek alakulásának befolyásolása;
-- c) a termőföld magánosítása során létrejött, a hatékony mezőgazdasági hasznosításra alkalmatlan birtokszerkezet vidékfejlesztési célokkal összehangolt javításának támogatása, a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
-- d) birtok-összevonási célú, valamint az állattenyésztő telepek működését biztosító önkéntes földcseréhez szükséges termőföld biztosítása;
+- c) a föld magánosítása eredményeként létrejött, a hatékony mezőgazdasági hasznosításra alkalmatlan birtokszerkezet vidékfejlesztési célokkal összehangolt javításának támogatása, a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
+- d) birtok-összevonási célú, valamint az állattenyésztő telepek működését biztosító földcseréhez szükséges föld biztosítása;
 - e) a magántulajdonba került, természetvédelmi oltalom alatt álló területek, valamint a hullámtéri területek, és a mentett oldali vízjárta területek cseréjéhez, továbbá kisajátítás esetén cserével történő kártalanításához, és törvényben meghatározott feladatokhoz földkészlet biztosítása;
 - f) különleges termesztési célok megvalósításához tartalékterületek biztosítása;
 - g) a fennálló földhasználati viszonyok stabilizálása, a további földhasználatok elősegítése;
-- h) a termőföldek művelésben tartásának elősegítése, a mezőgazdasági termelés összehangolása a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás (különösen árterek kialakítása) szempontjaival;
+- h) a földek művelésben tartásának elősegítése, a mezőgazdasági termelés összehangolása a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás (különösen árterek kialakítása) szempontjaival;
 - i) a nem művelt, vagy méretük és kialakításuk miatt gazdaságosan nem művelhető területek hasznosításának állami kezdeményező szereppel történő meggyorsítása;
 - j) az értékes termőhelyen lévő ültetvényterületek megtartásának elősegítése;
 - k) tározók, záportározók kialakításához szükséges terület biztosítása;
@@ -231,18 +235,18 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - e) a Nemzeti Erdőtelepítési Programban foglaltak végrehajtásának támogatása;
 - f) a racionális földtulajdonosi és bérleti rendszer kialakulásának elősegítése;
 - g) a földpiac élénkítése és szabályozása;
-- h) az állattenyésztő telepek működéséhez szükséges termőföld biztosítása;
+- h) az állattenyésztő telepek működéséhez szükséges föld biztosítása;
 - i) a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
 - j) minőségi földcserék lebonyolításának megalapozása;
 - k) termelési-termékstruktúra átalakításának ösztönzése és befolyásolása;
-- l) a mezőgazdasági termelésre leginkább alkalmas termőföldek mezőgazdasági termelési célú hasznosításának előtérbe helyezése;
-- m) a mezőgazdasági termelésre kevésbé alkalmas termőföldek, földterületek más irányú hasznosításának előkészítése, támogatása, esetenként végrehajtása;
+- l) a mezőgazdasági termelésre leginkább alkalmas földek mezőgazdasági termelési célú hasznosításának előtérbe helyezése;
+- m) a mezőgazdasági termelésre kevésbé alkalmas földek más irányú hasznosításának előkészítése, támogatása, esetenként végrehajtása;
 - n) művelési-ág váltás támogatása;
 - o) a nem művelt, vagy méretük és kialakításuk miatt gazdaságosan nem művelhető területek megvételének és hasznosításának állami kezdeményező szereppel történő meggyorsítása;
 - p) a birtoknagyság alkalmassá tétele az európai uniós támogatások lehívhatóságához;
 - q) szociális földprogram és közfoglalkoztatási program támogatása;
 - r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
-- s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes termőföld biztosítás.
+- s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes föld biztosítás.
 
 (4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
 
@@ -289,17 +293,19 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) vagyonkezelésbe adással,
 - d) cserével hasznosítja.
 
-(1a) A termőföldről szóló 1994. évi LV. törvény (a továbbiakban: Tft.) szerinti termőföld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
+(1a) Föld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
-(1b) A Tft.-nek a közös tulajdonban álló termőföldek használatára vonatkozó szabályait – ide nem értve a használati megosztásról szóló megállapodásra vonatkozó rendelkezéseket – nem kell alkalmazni az állam tulajdoni hányadának megfelelő területnek pályáztatás útján történő haszonbérbe adása során.
+(1b) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvénynek a közös tulajdonban álló földek használatára vonatkozó szabályait – ide nem értve a használati megosztásról szóló megállapodásra vonatkozó rendelkezéseket – nem kell alkalmazni az állam tulajdoni hányadának megfelelő területnek pályáztatás útján történő haszonbérbe adása során.
 
-(1c) A haszonbérleti szerződés módosítása során a Tft. 12. § (2) bekezdését az e bekezdésben foglalt eltéréssel – a Tft. 13. §-ában foglalt korlátozásokra figyelemmel – kell alkalmazni. A Nemzeti Földalapba tartozó földrészlethez kötődő olyan közösségi vagy nemzeti forrásból folyósított mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás esetén, ahol jogszabály a támogatás igénybevételének feltételéül meghatározott időszakra üzemeltetési vagy földhasználati kötelezettséget ír elő, a haszonbérleti szerződés az üzemeltetési vagy földhasználati kötelezettség időszakának végéig meghosszabbítható. A haszonbérleti szerződés időtartamának ilyen okból történő meghosszabbítása nem minősül új haszonbérleti jogviszony létesítésének. A haszonbérlet tárgyát képező földrészleten a haszonbérbeadó írásos előzetes engedélyével létesített beruházás esetében a haszonbérlet időtartama mindaddig meghosszabbítható, amíg a beruházás aktivált értékkel bír. A már működő halastavak esetében a haszonbérbeadó előzetes írásbeli engedélyével létesített beruházást követően – függetlenül a beruházás értékétől – a szerződés időtartama legfeljebb tíz évvel hosszabbítható meg.
+(1c) A Nemzeti Földalapba tartozó földrészlethez kötődő olyan európai uniós vagy nemzeti forrásból folyósított mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás esetén, ahol jogszabály a támogatás igénybevételének feltételéül meghatározott időszakra üzemeltetési vagy földhasználati kötelezettséget ír elő, a haszonbérleti szerződés – a mező- és erdőgazdasági földek forgalmáról szóló törvényben foglalt időbeli korlátozásokra figyelemmel – az üzemeltetési vagy földhasználati kötelezettség időszakának végéig meghosszabbítható. A haszonbérlet tárgyát képező földrészleten a haszonbérbeadó írásos előzetes engedélyével létesített beruházás esetében a haszonbérlet időtartama mindaddig meghosszabbítható, amíg a beruházás aktivált értékkel bír, de legalább addig, amíg a jogszabályban előírt, vagy a támogatást folyósító szervvel kötött támogatási szerződésben foglalt üzemeltetési vagy földhasználati kötelezettség fennáll.
+
+(1d) A már működő halastavak esetében a haszonbérbeadó előzetes írásbeli engedélyével létesített beruházást követően – függetlenül a beruházás értékétől – a szerződés időtartama legfeljebb tíz évvel hosszabbítható meg.
 
 (2) Az eladás, a haszonbérbe adás, és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni, valamint előnyben kell részesíteni az élethivatásszerűen mezőgazdasági tevékenységet folytató személyeket.
 
-(3) Az NFA a Nemzeti Földalapba tartozó földrészletet érintően csereszerződést elsősorban birtokösszevonási célú önkéntes földcsere megvalósítása, állattenyésztő telep működésének biztosítása, vagy nemzetgazdasági szempontból kiemelt beruházás megvalósítása céljából köthet.
+(3) Az NFA a Nemzeti Földalapba tartozó földrészletet érintően csereszerződést elsősorban birtokösszevonási célú földcsere megvalósítása, állattenyésztő telep működésének biztosítása, vagy nemzetgazdasági szempontból kiemelt beruházás megvalósítása céljából köthet.
 
-(4) Addig, amíg az NFA a Nemzeti Földalapba került földrészletet az e törvényben meghatározott módon nem tudja hasznosítani, köteles – a termőföld védelméről szóló törvényben meghatározottak szerint – a termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, valamint a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni.
+(4) Addig, amíg az NFA a Nemzeti Földalapba került földrészletet az e törvényben meghatározott módon nem tudja hasznosítani, köteles – a termőföld védelméről szóló törvényben meghatározottak szerint – a föld hasznosítási kötelezettségének teljesítéséről, valamint a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni.
 
 (5) A (4) bekezdésben foglalt feladatok ellátása érdekében a földrészlet e törvény szerinti hasznosításáig, de legfeljebb egy gazdasági évre terjedő időszakra az NFA megbízási szerződést köthet. A megbízási szerződés időtartama meghosszabbítással sem lehet egy gazdasági évnél hosszabb.
 
@@ -322,7 +328,7 @@ követő napon.
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
-(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni.
+(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni. Ha a szerződés tárgyát föld képezi, a szerződés létrejöttére irányuló eljárásban a szerződő félnek, illetve pályázónak nyilatkoznia kell arról, hogy a szerződés létrejöttével nem lépi túl a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot. A nyilatkozathoz az NFA a földről szóló törvény szerinti földhasználati összesítő eredeti vagy hitelesített másolatának becsatolását kérheti.
 
 19/A. § (1) A vagyonkezelői jog alapításához – a (2) bekezdésben meghatározott kivétellel – vagyonkezelési szerződés szükséges.
 
@@ -344,7 +350,7 @@ követő napon.
 
 (4)
 
-(5) Vagyonkezelési szerződés – erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó szerződést kivéve – határozott időtartamra köthető, melynek időtartama legalább 5 év, legfeljebb a Tft.-ben előírt, a termőföldre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
+(5) Vagyonkezelési szerződés – erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó szerződést kivéve – határozott időtartamra köthető, melynek időtartama legalább 5 év, legfeljebb a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
 
 (6) A szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba való bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
 
@@ -356,7 +362,7 @@ követő napon.
 
 (2) Az NFA telekalakítás végrehajtásához szükséges tulajdonjogi változást eredményező szerződést köthet.
 
-(3) Nyilvános pályáztatás mellőzésével haszonbérleti szerződés köthető olyan kizárólagos állami tulajdonban álló gazdálkodó szervezettel, amely főtevékenysége körében a Tft. szerinti mezőgazdasági tevékenységet folytat, valamint az olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet.
+(3) Nyilvános pályáztatás mellőzésével haszonbérleti szerződés köthető olyan kizárólagos állami tulajdonban álló gazdálkodó szervezettel, amely főtevékenysége körében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági tevékenységet folytat, valamint az olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet.
 
 (3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
 
@@ -401,7 +407,7 @@ követő napon.
 
 24/A. § Kisajátítást pótló adásvétel esetében az NFA legfeljebb a földrészlet piaci értékének 150%-áig terjedő összegben vállalhatja a vételár megfizetését.
 
-25. § A Tft. alapján az államot megillető elővásárlási jogot a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló rendeletben meghatározott módon az NFA gyakorolja.
+25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási jogot az ott meghatározott módon az NFA gyakorolja.
 
 26. § (1) A Nemzeti Földalapba tartozó földrészlet eladására, vagyonkezelésére vagy haszonbérletére irányuló pályázati felhívást az NFA hirdeti meg.
 
@@ -420,7 +426,7 @@ követő napon.
 30. § (1) A Nemzeti Földalap körébe tartozó földrészletet érintő szerződés tartalmából közérdekből nyilvános adatnak minősül:
 
 - a) a személyes adatok közül az NFA-val szerződő fél neve, a székhelye vagy lakcíme, az eljáró jogi képviselő neve és székhelye;
-- b) a földrészlet fekvése szerinti település, és a földrészlet helyrajzi száma;
+- b) a szerződés tárgyát képező földrészletnek a fekvése szerinti település megnevezése, helyrajzi száma, területnagysága, továbbá föld esetén a művelési ága és aranykorona értéke;
 - c) az ellenszolgáltatás összege;
 - d) az ellenszolgáltatás teljesítésének határideje, ütemezése;
 - e) a szerződést biztosító mellékkötelezettség megjelölése, és típusától függően annak pénzösszege;

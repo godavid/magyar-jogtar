@@ -477,15 +477,15 @@ alapján kell kiszámítania.
 
 (4) Az ingatlan tulajdonosának a bérleti vagy haszonbérleti szerződés megkötésekor a bérlő vagy haszonbérlő tudomására kell hoznia a 21/E. § szerinti használati korlátozásokat.
 
-(5) Ha a haszonbérlő a (2) bekezdés alapján kártalanításban részesült, egyidejűleg ezen a címen nem jogosult a termőföldről szóló törvény szerinti haszonbér-fizetési kedvezmény igénybevételére.
+(5) Ha a haszonbérlő a (2) bekezdés alapján kártalanításban részesült, egyidejűleg ezen a címen nem jogosult a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény szerinti haszonbér-fizetési kedvezmény igénybevételére.
 
 21/C. § (1) A 21/B. § (1) bekezdése szerinti egyszeri térítés megfizetéséről a vízügyi hatóság határozatában dönt, és a beruházó gondoskodik az egyszeri térítés kifizetéséről.
 
-(2) Az egyszeri térítés alapja a termőföld ingatlan-nyilvántartás szerinti aranykorona-értéke (a továbbiakban: AK). Az egyszeri térítés mértéke e rendelkezés hatálybalépésekor 8000 forint AK-ként. Az egyszeri térítés mértéke évente, január 1-jével növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.
+(2) Az egyszeri térítés alapja a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) ingatlan-nyilvántartás szerinti aranykorona-értéke (a továbbiakban: AK). Az egyszeri térítés mértéke e rendelkezés hatálybalépésekor 8000 forint AK-ként. Az egyszeri térítés mértéke évente, január 1-jével növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.
 
 21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást.
 
-21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő termőföldön:
+21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő földön:
 
 - a) kémiai talajjavításra, öntözési, meliorációs célú beruházásra,
 - b) faiskola létesítésére, vetőmagtermesztésre, szaporítóanyag előállítására,
@@ -499,7 +499,7 @@ alapján kell kiszámítania.
 
 (3) Nem jár kártalanítás a kár azon része után, amely a (2) bekezdésben meghatározott rendelkezések megszegése miatt keletkezett.
 
-(4) A vízkárelhárítási célú tározó területén lévő termőföld művelési ágát megváltoztatni kizárólag a tározó kezelőjének előzetes hozzájárulásával lehet.
+(4) A vízkárelhárítási célú tározó területén lévő föld művelési ágát megváltoztatni kizárólag a tározó kezelőjének előzetes hozzájárulásával lehet.
 
 22. § (1) Az ingatlan tulajdonosa (használója):
 
@@ -520,7 +520,7 @@ alapján kell kiszámítania.
 
 (3) A nagyvízi mederben építményt elhelyezni az érintett folyószakasz mederkezelőjének hozzájárulásával lehet.
 
-(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld más célú hasznosítását, valamint a művelési ág megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
+(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld védelméről szóló törvény szerinti, a termőföld más célú hasznosítását, valamint a föld művelési ágának megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
 
 (5) A folyók, patakok, kisvízfolyások, belvíz- és öntözőcsatornák, tavak, tározók, holtágak parti sávját, továbbá az árvízvédelmi létesítmények védősávját úgy kell használni, hogy azt a meder, illetve létesítmény tulajdonosa (használója) a karbantartási munkák, mérések esetenkénti ellátása céljából a feladataihoz szükséges mértékben, illetve védekezési célból akadálytalanul igénybe vehesse.
 

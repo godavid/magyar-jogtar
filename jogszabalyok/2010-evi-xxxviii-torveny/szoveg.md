@@ -1040,7 +1040,7 @@ végzés ellen.
 
 (4) A 125. § 2011. január 2-án lép hatályba.
 
-(5) A 11. § (4) bekezdése és a 23. § (2) bekezdése 2014. január 1-jén lép hatályba.
+(5) A 11. § (4) bekezdése és a 23. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
 (6) A 122–125. § 2011. január 3-án hatályát veszti.
 

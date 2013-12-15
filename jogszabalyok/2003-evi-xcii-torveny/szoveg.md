@@ -1622,14 +1622,14 @@ kapcsolatos adóztatási feladatok ellátása, ide nem értve a végrehajtási e
 
 - a) a helyi adók,
 - b) a belföldi rendszámú gépjárművek adója,
-- c) a termőföld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása,
+- c) a mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása,
 - d) törvényben meghatározott esetben a magánszemélyt terhelő adók módjára behajtandó köztartozások ügyében.
 
 82. § (1) Helyi adóügyben az az önkormányzati adóhatóság jár el, amelynek önkormányzata a helyi adót bevezette.
 
 (2) Belföldi rendszámú gépjárművek adója ügyében az az önkormányzati adóhatóság (fővárosban a kerületi önkormányzati, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzati adóhatóság) az illetékes, amelynek területén a közúti közlekedési nyilvántartásba bejegyzett adóalany lakóhelye, székhelye, illetőleg telephelye található. Az adóalany személyében bekövetkezett változás az önkormányzati adóhatóság illetékességét a gépjárműadóról szóló törvény szerint változtatja meg.
 
-(3) A termőföld bérbeadásából származó jövedelem adóztatására a föld fekvése szerinti önkormányzati adóhatóság az illetékes.
+(3) A föld bérbeadásából származó jövedelem adóztatására a föld fekvése szerinti önkormányzati adóhatóság az illetékes.
 
 83. §
 
@@ -2320,7 +2320,7 @@ hatósági eljárás.
 - c) a regisztrációs adót,
 - d) új közlekedési eszköznek minősülő személygépkocsinak, illetőleg regisztrációs adó köteles motorkerékpárnak az Európai Közösség más tagállamából történő beszerzése esetén az általános forgalmi adót, ha a vevő általános forgalmiadó-alanynak nem minősülő magánszemély, illetve egyéb szervezet, általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, alanyi adómentességet választó adóalany, mezőgazdasági tevékenységet folytató, különleges jogállást választó adóalany, illetve az egyszerűsített vállalkozói adó alanya.
 
-(2) Az adóhatóság állapítja meg – a helyi iparűzési adó és az adóbeszedéssel megállapított idegenforgalmi adó kivételével – a helyi adókat, továbbá – a termőföld bérbeadásából származó személyi jövedelemadó kivételével – az önkormányzat költségvetése javára más törvény alapján fizetendő adókat (kivetéses adózás).
+(2) Az adóhatóság állapítja meg – a helyi iparűzési adó és az adóbeszedéssel megállapított idegenforgalmi adó kivételével – a helyi adókat, továbbá – a föld bérbeadásából származó személyi jövedelemadó kivételével – az önkormányzat költségvetése javára más törvény alapján fizetendő adókat (kivetéses adózás).
 
 (3) A vagyonszerzési illetéket, továbbá az illetéktörvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adóhatóság állapítja meg (kiszabás). A vagyonszerzési illeték kiszabására irányuló eljárás esetén a határozat meghozatalára nyitva álló határidő 60 nap.
 
@@ -3479,19 +3479,19 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (2) Ha az adózó kizárólag a beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet, illetve építési telek (telekrész) értékesítése miatt válik az általános forgalmi adó alanyává, az állami adóhatóság határozattal állapítja meg az általános forgalmi adóról szóló törvény szerinti adókötelezettséget (kivetéses adózás). Az adózó az értékesítésről az adóhatóságnál e célra rendszeresített nyomtatványon az általános forgalmi adóról szóló törvény szerinti teljesítés időpontját követő 30 napon belül bejelentést tesz. A bejelentés a jogkövetkezmények szempontjából az adóbevallással egyenértékű.
 
-(3) A termőföld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása a föld fekvése szerint illetékes önkormányzati adóhatóság feladata. Az ebből származó valamennyi bevétel az önkormányzat költségvetését illeti meg, és az az önkormányzattól nem vonható el.
+(3) A föld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása a föld fekvése szerint illetékes önkormányzati adóhatóság feladata. Az ebből származó valamennyi bevétel az önkormányzat költségvetését illeti meg, és az az önkormányzattól nem vonható el.
 
-(4) A termőföld bérbeadásából származó – a személyi jövedelemadóról szóló 1995. évi CXVII. törvényben meghatározott – jövedelme adóját a magánszemély megállapítja, továbbá a föld fekvése szerint illetékes önkormányzati adóhatóságnál bevallja és megfizeti (önadózás). A termőföld bérbeadásából származó jövedelem bevallását a magánszemély az erre a célra rendszeresített nyomtatványon a jövedelem megszerzésének évét követő év március 20-áig teljesíti. Amennyiben a magánszemély több önkormányzat illetékességi területén szerez bevételt termőföld bérbeadásából, az adóbevallást és adófizetést önkormányzati adóhatóságonként külön-külön kell teljesíteni. A főváros esetében a föld fekvése szerint illetékes önkormányzati adóhatóság alatt a fővárosi önkormányzat főjegyzőjét kell érteni.
+(4) A föld bérbeadásából származó – a személyi jövedelemadóról szóló 1995. évi CXVII. törvényben meghatározott – jövedelme adóját a magánszemély megállapítja, továbbá a föld fekvése szerint illetékes önkormányzati adóhatóságnál bevallja és megfizeti (önadózás). A föld bérbeadásából származó jövedelem bevallását a magánszemély az erre a célra rendszeresített nyomtatványon a jövedelem megszerzésének évét követő év március 20-áig teljesíti. Amennyiben a magánszemély több önkormányzat illetékességi területén szerez bevételt föld bérbeadásából, az adóbevallást és adófizetést önkormányzati adóhatóságonként külön-külön kell teljesíteni. A főváros esetében a föld fekvése szerint illetékes önkormányzati adóhatóság alatt a fővárosi önkormányzat főjegyzőjét kell érteni.
 
-(5) Ha a termőföld bérbeadásából származó bevétel kifizetőtől származik, az adót a kifizető állapítja meg, vonja le, vallja be, és fizeti meg. Nem terheli a kifizetőt haszonbérbe adás esetén az adómegállapítási kötelezettség, ha a magánszeméllyel az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződést.
+(5) Ha a föld bérbeadásából származó bevétel kifizetőtől származik, az adót a kifizető állapítja meg, vonja le, vallja be, és fizeti meg. Nem terheli a kifizetőt haszonbérbe adás esetén az adómegállapítási kötelezettség, ha a magánszeméllyel az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződést.
 
-(6) A (4) bekezdésben foglaltaktól eltérően nem kell adóbevallást tenni annak a magánszemélynek, akinek termőföld bérbeadásból származó jövedelme kizárólag kifizetőtől származik és a kifizető az adót levonta, vagy a termőföld bérbeadásából származó jövedelme mentes az adó alól.
+(6) A (4) bekezdésben foglaltaktól eltérően nem kell adóbevallást tenni annak a magánszemélynek, akinek föld bérbeadásból származó jövedelme kizárólag kifizetőtől származik és a kifizető az adót levonta, vagy a föld bérbeadásából származó jövedelme mentes az adó alól.
 
-(7) Ha a magánszemélynek termőföld bérbeadásból olyan bevétele, jövedelme keletkezik, amely nem kifizetőtől származik, vagy a kifizető a jövedelem juttatásakor az adót levonni elmulasztotta, vagy a kifizető a bérleti díjat természetben fizette meg, a vagyoni érték után az adót a magánszemély a jövedelem megszerzésének negyedévét követő hó 12-éig fizeti meg.
+(7) Ha a magánszemélynek föld bérbeadásból olyan bevétele, jövedelme keletkezik, amely nem kifizetőtől származik, vagy a kifizető a jövedelem juttatásakor az adót levonni elmulasztotta, vagy a kifizető a bérleti díjat természetben fizette meg, a vagyoni érték után az adót a magánszemély a jövedelem megszerzésének negyedévét követő hó 12-éig fizeti meg.
 
 (8) Ha az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződés ezen időtartam lejárta előtt adófizetési kötelezettséget keletkeztető módon megszűnik, az adót a magánszemély a (4) bekezdésben meghatározott szabályok szerint állapítja meg, vallja be, és fizeti meg.
 
-(9) A kifizető a termőföld bérbeadásából származó jövedelemből levont adót a föld fekvése szerint illetékes önkormányzati adóhatósághoz utalja át a kifizetést követő hó 12. napjáig. A levont adóról a kifizető adóbevallását a föld fekvése szerint illetékes önkormányzati adóhatósághoz az adóévet követő év február 25-éig nyújtja be.
+(9) A kifizető a föld bérbeadásából származó jövedelemből levont adót a föld fekvése szerint illetékes önkormányzati adóhatósághoz utalja át a kifizetést követő hó 12. napjáig. A levont adóról a kifizető adóbevallását a föld fekvése szerint illetékes önkormányzati adóhatósághoz az adóévet követő év február 25-éig nyújtja be.
 
 (10) Ha e törvény a személyi jövedelemadóval összefüggő kötelezettségről rendelkezik, azt a kifizető és a munkáltató – a (11) és (12) bekezdésben foglaltak kivételével – a rá vonatkozó szabályok szerint teljesíti.
 
@@ -3511,7 +3511,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (15)
 
-(16) Az adóév utolsó napján a termőföldről szóló törvény szerinti családi gazdálkodónak minősülő magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében adókötelezettségeit – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági őstermelőre irányadó szabályok szerint teljesíti. A családi gazdálkodó és említett családtagja a családi gazdaság nyilvántartási számát az adózásával összefüggő valamennyi iratán, valamint a törvény alapján adókedvezményt, adómentességet biztosító nyilatkozatán köteles feltüntetni.
+(16) Az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében adókötelezettségeit – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági őstermelőre irányadó szabályok szerint teljesíti. A családi gazdálkodó és említett családtagja a családi gazdaság nyilvántartási számát az adózásával összefüggő valamennyi iratán, valamint a törvény alapján adókedvezményt, adómentességet biztosító nyilatkozatán köteles feltüntetni.
 
 176/A. §
 
@@ -4441,7 +4441,7 @@ A) A kifizető és a munkáltató adatszolgáltatása
 
 A/I.
 
-A/II. A kifizető a termőföld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
+A/II. A kifizető a föld bérbeadásából (földjáradékból) származó jövedelemről és a levont adóról, az adómentesség feltételéül szabott időtartamra kötött, de ezen időtartam lejárta előtt megszűnt haszonbérleti szerződésről és az adókötelessé vált időszakról, valamint a bérbeadott földterület ingatlan-nyilvántartási azonosító adatairól az adatszolgáltatást a földterület fekvése szerint illetékes önkormányzati adóhatósághoz teljesíti. Az adatszolgáltatásban fel kell tüntetni az adólevonás elmaradásának okát (természetben történő bérfizetés). Az adatszolgáltatást a kifizető papíralapú adathordozón az adóévet követő év március 31-éig teljesíti.
 
 B) A biztosítóintézet adatszolgáltatása
 
@@ -4451,11 +4451,11 @@ Az adatszolgáltatást, a kifizetést, illetőleg a rendelkezési jog gyakorlás
 
 C) Az ingatlanügyi hatóság adatszolgáltatása
 
-1. Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzési kérelem beérkezését követő 8 napon belül – az e törvény 21. §-ának (2) bekezdésében meghatározott, kitöltött nyomtatványt mellékelve – adatot szolgáltat az állami adóhatósághoz az illetékkiszabáshoz szükséges birtokában lévő adatokról, valamint ingatlanértékesítés esetén az ingatlan értékesítőjéről és az ingatlanszerződés szerinti értékéről, továbbá termőföld átruházása esetén a termőföld-értékesítés tényéről, az ingatlanhoz kapcsolódó vagyoni értékű jogról ellenérték fejében való lemondás, ilyen jog visszterhes alapítása, átruházása (átengedése), megszüntetése esetén az átruházó (átengedő), e jogot alapító, illetve megszüntető magánszemélyről és e jog szerződés szerinti értékéről. Az ingatlanügyi hatóság az adózó személyi adatait tartalmazó megkeresésre tájékoztatja az adóhatóságot az adózó tulajdonát képező – nyilvántartásában szereplő – valamennyi ingatlan adatáról.
+1. Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzési kérelem beérkezését követő 8 napon belül – az e törvény 21. §-ának (2) bekezdésében meghatározott, kitöltött nyomtatványt mellékelve – adatot szolgáltat az állami adóhatósághoz az illetékkiszabáshoz szükséges birtokában lévő adatokról, valamint ingatlanértékesítés esetén az ingatlan értékesítőjéről és az ingatlanszerződés szerinti értékéről, továbbá föld átruházása esetén a föld-értékesítés tényéről, az ingatlanhoz kapcsolódó vagyoni értékű jogról ellenérték fejében való lemondás, ilyen jog visszterhes alapítása, átruházása (átengedése), megszüntetése esetén az átruházó (átengedő), e jogot alapító, illetve megszüntető magánszemélyről és e jog szerződés szerinti értékéről. Az ingatlanügyi hatóság az adózó személyi adatait tartalmazó megkeresésre tájékoztatja az adóhatóságot az adózó tulajdonát képező – nyilvántartásában szereplő – valamennyi ingatlan adatáról.
 
 2.
 
-3. Az ingatlanügyi hatóság az adómentesség feltételéül szabott időtartamra kötött haszonbérleti szerződés megkötéséről és megszűnéséről annak a földhasználati nyilvántartásba történő bejegyzésétől számított 8 napon belül adatot szolgáltat a termőföld fekvése szerint illetékes önkormányzati adóhatóságnak.
+3.
 
 D) A hitelintézet, pénzforgalmi szolgáltató és a befektetési szolgáltató adatszolgáltatása
 

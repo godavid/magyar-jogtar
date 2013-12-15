@@ -314,7 +314,7 @@ KÜLSŐ OK (VIS MAIOR) MIATTI KÁRESEMÉNYEK KEZELÉSE
   - ab) a termelőtől továbbértékesítés céljából termeltetési szerződés keretében vásárolják fel,
 - b) a családi gazdálkodó a gazdálkodó család tagja által megtermelt mezőgazdasági terményt értékesíti.
 
-22. § Ha a haszonbérlő e törvény szerinti elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, akkor őt a termőföldről szóló törvényben foglaltak alapján haszonbér-mérséklés illeti meg.
+22. § Ha a haszonbérlő e törvény szerinti elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, akkor őt a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben foglaltak alapján haszonbér-mérséklés illeti meg.
 
 23. § (1) A mező- és erdőgazdaságot sújtó időjárási és más természeti jellegű elháríthatatlan külső oknak (vis maior) minősül:
 

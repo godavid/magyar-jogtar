@@ -10,7 +10,11 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 2. § (1)
 
-(2)
+(2) Az Szja tv. 3. § 51. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+
+„51. Termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld.”
 
 (3)
 
@@ -51,7 +55,7 @@ szerint módosul.
 - 6.
 - 7.
 - 8–12.
-- 13.
+- 13. 62/A. § (3) bekezdés b) pontjában az „a termőföldről szóló törvényben meghatározott termőföldnek minősülő földrészlet” szövegrész helyébe az „az a termőföldnek minősülő földrészlet, amely külterületen található” szöveg;
 - 14–16.
 - 17.
 - 18.
@@ -67,9 +71,9 @@ lép.
 - 1.
 - 2.
 - 3–5.
-- 6.
+- 6. 62. § (2) bekezdés c) pontjában az „ , erdő művelési ágú föld” szövegrész;
 - 7.
-- 8.
+- 8. 64. § (2) bekezdésében az „ , erdő művelési ágú földjének” szövegrész és a „fekvő mezőgazdasági művelésű külterületi” szövegrész, 64. § (3) bekezdésében az „ , erdő művelési ágú földjének” szövegrész;
 - 9.
 - 10.
 - 11.
@@ -77,7 +81,11 @@ lép.
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-21. §
+21. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 4. §-a a következő 45. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„45. termőföld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező-, erdőgazdasági hasznosítású föld;”
 
 22–25. §
 
