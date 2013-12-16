@@ -321,13 +321,7 @@ rendeletben állapítsa meg.
 
 120. § (1)–(2)
 
-(3) Az Itv.
-
-- a) 16. § (6) bekezdésében az „a termőföldről szóló törvény szerinti családi gazdálkodó” szövegrész helyébe az „az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély”,
-- b) 16. § (7) bekezdésében az „a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemély” szövegrész helyébe az „az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély”,
-- c) 17. § (1) bekezdés h) és q) pontjában, valamint a 26. § (1) bekezdés s) pontjában az „a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők” szövegrész helyébe az „az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves”
-
-szöveg lép.
+(3)
 
 (4)
 
@@ -337,30 +331,11 @@ szöveg lép.
 
 #### 23. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-122. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 3. § (1) bekezdése a következő j)–l) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
-
-k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
-
-l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.”
-
-(2) A Cstv. 49. §-a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha az értékesítendő vagyonban föld, illetve tanya van, ezek értékesítésére a mező- és erdőgazdasági földek forgalmáról szóló törvényben és végrehajtási rendeletében meghatározott szabályokat kell alkalmazni.”
-
-(3) A Cstv. 4. § (3) bekezdés c) pontjában a „termőföld” szövegrész helyébe a „föld” szöveg lép.
+122. §
 
 #### 24. A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény módosítása
 
-123. § A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény
-
-- a) 12/J. §-ában a „termőföldről szóló” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló”,
-- b) 13. § (2) bekezdés a) pontjában a „termőföldről szóló 1994. évi LV. törvényben” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben”
-
-szöveg lép.
+123. §
 
 #### 25. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
@@ -374,7 +349,7 @@ szöveg lép.
 
 126. § (1) Hatályát veszti a termőföldről szóló 1994. évi LV. törvény
 
-- a) 1–3. §-a;
+- a)
 - b)
 - c)
 - d)
@@ -382,13 +357,13 @@ szöveg lép.
 - f)
 - g)
 - h)
-- i) 21. §-a;
+- i)
 - j)
 - k)
 - l)
-- m) 81/A. §-a;
+- m)
 - n)
-- o) 89–91. §-a;
+- o)
 
 (2)
 
@@ -398,31 +373,15 @@ szöveg lép.
 
 #### 29. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-128. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 3. § (1) bekezdés f) pontjában a „termőföldről” szövegrész helyébe a „mező- és erdőgazdasági hasznosítású földről” szöveg lép.
+128. §
 
 #### 30. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-129. § A vízgazdálkodásról szóló 1995. évi LVII. törvény
-
-- a) 21/B. § (5) bekezdésében a „termőföldről szóló törvény” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény”,
-- b) 21/C. § (2) bekezdésében a „termőföld” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld)”,
-- c) 21/E. § (1) bekezdésében a „termőföldön” szövegrész helyébe a „földön”,
-- d) 21/E. § (4) bekezdésében a „termőföld” szövegrész helyébe a „föld”,
-- e) 24. § (4) bekezdésében az „a termőföld más célú hasznosítását, valamint a művelési ág megváltoztatását” szövegrész helyébe az „a termőföld védelméről szóló törvény szerinti, a termőföld más célú hasznosítását, valamint a föld művelési ágának megváltoztatását”
-
-szöveg lép.
+129. §
 
 #### 31. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-130. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
-
-- a) 3. § 18. pontjában az „a termőföldről szóló törvény szerint családi gazdálkodónak minősülő magánszemélyt” szövegrész helyébe az „az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt”,
-- b) 7. § (1) bekezdés t) pontjában az „a termőföldről szóló törvényben meghatározott mezőgazdasági termelő” szövegrész helyébe az „az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves”,
-- c) 61. § (4) bekezdésében a „termőföldről szóló törvényben meghatározott birtokösszevonási célú önkéntes földcsere” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben meghatározott birtokösszevonási célú földcsere”,
-- d) 1. számú mellékletének 4. pont 4.20. alpontjában az „a termőföldről szóló törvényben meghatározott mezőgazdasági termelő,” szövegrész helyébe az „az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves,”
-- e) 3. számú mellékletének III. pont 1. alpontjában és a 6. számú mellékletének III. pont e) alpontjában az „a termőföldről szóló törvény szerinti családi gazdálkodónak minősülő” szövegrész helyébe az „az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett”
-
-szöveg lép.
+130. §
 
 #### 32. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
@@ -446,38 +405,17 @@ szöveg lép.
 
 135. § (1)–(3)
 
-(4) Az Inytv. 39. § (3) bekezdése a következő i) ponttal egészül ki:
-
-(Nem alkalmas hiánypótlásra a bejegyzés, feljegyzés alapjául szolgáló okirat, és a kérelmet határozattal el kell utasítani, ha ahhoz, hogy bejegyezhető legyen,)
-
-„i) termőföld ingatlan tulajdonjogának megszerzésére irányuló szerződés esetében, a külön jogszabályban a tulajdonjog bejegyzés iránti kérelem benyújtásához előírt, a hirdetményi úton történt közlés megtörténtét igazoló okiratokat, illetve az elővásárlási jogról lemondó nyilatkozatot nem mellékelték vagy a hirdetményi kifüggesztés időtartama nem felel meg a külön jogszabályban foglaltaknak.”
+(4)
 
 (5)–(9)
 
 #### 37. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-136. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.)
-
-- a) 81. § c) pontjában a „termőföld” szövegrész helyébe a „mező- és erdőgazdasági hasznosítású földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld)”,
-- b) 82. § (3) bekezdésében, 125. § (2) bekezdésében, 176. § (3)–(7) bekezdésében és (9) bekezdésében, valamint a 3. számú melléklet A/II. pontjában a „termőföld” szövegrész helyébe a „föld”,
-- c) 176. § (16) bekezdésében az „a termőföldről szóló törvény szerinti családi gazdálkodónak minősülő” szövegrész helyébe az „az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett”,
-- d) 3. számú melléklet C) pont 1. alpontjában a „termőföld átruházása esetén a termőföld-értékesítés” szövegrész helyébe a „föld átruházása esetén a föld-értékesítés”
-
-szöveg lép.
-
-(2) Hatályát veszti az Art. 3. számú melléklet C) pont 3. alpontja.
+136. §
 
 #### 38. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
 
-137. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény
-
-- a) 5. § (5) bekezdésében a „termőföld” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld)”,
-- b) 6. § (2) bekezdésében a „termőföld esetében a termőföldről szóló” szövegrész helyébe a „föld esetében a mező- és erdőgazdasági földek forgalmáról szóló”,
-- c) 17/B. § (4) bekezdés a) pontjában a „termőföld” szövegrész helyébe a „föld”,
-- d) 17/B. § (7) bekezdés b) pontjában a „termőföld” szövegrész helyébe a „termőföld védelméről szóló törvényben meghatározott termőföld”,
-- e) 17/C. § (1) bekezdésében a „termőföldek” szövegrész helyébe a „földek”
-
-szöveg lép.
+137. §
 
 #### 39. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
@@ -485,21 +423,11 @@ szöveg lép.
 
 #### 40. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-139. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény
-
-- a) 1. § e) pontjában a „termőföldön” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású földön (a továbbiakban: föld)”,
-- b) 2. § (2) bekezdés h) pontjában a „termőföld, erdő- és egyéb növényi vegetáció számára alkalmas terület” szövegrész helyébe a „föld”,
-- c) 4. § a) pontjában a „termőföld védelmét szolgáló, a termőföldről szóló” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló”,
-- d) 17. § (3) bekezdés b) pontjában a „termőföldet” szövegrész helyébe a „földet”,
-- e) 37. § (3) bekezdés d) pontjában a „termőföldön” szövegrészek helyébe a „földön”,
-- f) 63. § (1) bekezdés a) pontjának aa) alpontjában „a termőföld védelmének a termőföldről szóló” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló”,
-- g) Melléklet 30. pontjában a „termőfölddel, erdő vagy egyéb növényi vegetáció számára alkalmas területtel” szövegrész helyébe a „földdel”, a „termőföld” szövegrész helyébe a „föld”
-
-szöveg lép.
+139. §
 
 #### 41. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-140. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 20. § (2) bekezdésében az „és a termőföldről szóló törvény” szövegrész helyébe az „ , a mező- és erdőgazdasági földek forgalmáról szóló törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény” szöveg lép.
+140. § (1)
 
 (2)
 
@@ -515,72 +443,27 @@ szöveg lép.
 
 (3)–(4)
 
-(5) A Hetv. 120. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 11. § (4) bekezdése és a 23. § (2) bekezdése 2015. január 1-jén lép hatályba.”
+(5)
 
 #### 43. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-142. § (1) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 1. §-a a következő (2d) és (2e) bekezdéssel egészül ki:
-
-„(2d) E törvény alkalmazásában föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld.
-
-(2e) E törvény alkalmazásában tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya.”
-
-(2) Az Nfatv. 18. § (1a)–(1c) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (1d) bekezdéssel egészül ki:
-
-„(1a) Föld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
-
-(1b) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvénynek a közös tulajdonban álló földek használatára vonatkozó szabályait – ide nem értve a használati megosztásról szóló megállapodásra vonatkozó rendelkezéseket – nem kell alkalmazni az állam tulajdoni hányadának megfelelő területnek pályáztatás útján történő haszonbérbe adása során.
-
-(1c) A Nemzeti Földalapba tartozó földrészlethez kötődő olyan európai uniós vagy nemzeti forrásból folyósított mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás esetén, ahol jogszabály a támogatás igénybevételének feltételéül meghatározott időszakra üzemeltetési vagy földhasználati kötelezettséget ír elő, a haszonbérleti szerződés – a mező- és erdőgazdasági földek forgalmáról szóló törvényben foglalt időbeli korlátozásokra figyelemmel – az üzemeltetési vagy földhasználati kötelezettség időszakának végéig meghosszabbítható. A haszonbérlet tárgyát képező földrészleten a haszonbérbeadó írásos előzetes engedélyével létesített beruházás esetében a haszonbérlet időtartama mindaddig meghosszabbítható, amíg a beruházás aktivált értékkel bír, de legalább addig, amíg a jogszabályban előírt, vagy a támogatást folyósító szervvel kötött támogatási szerződésben foglalt üzemeltetési vagy földhasználati kötelezettség fennáll.
-
-(1d) A már működő halastavak esetében a haszonbérbeadó előzetes írásbeli engedélyével létesített beruházást követően – függetlenül a beruházás értékétől – a szerződés időtartama legfeljebb tíz évvel hosszabbítható meg.”
-
-(3) Az Nfatv. 19. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni. Ha a szerződés tárgyát föld képezi, a szerződés létrejöttére irányuló eljárásban a szerződő félnek, illetve pályázónak nyilatkoznia kell arról, hogy a szerződés létrejöttével nem lépi túl a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot. A nyilatkozathoz az NFA a földről szóló törvény szerinti földhasználati összesítő eredeti vagy hitelesített másolatának becsatolását kérheti.”
+142. § (1)–(3)
 
 (4)
 
-(5) Az Nfatv. 25. §-a helyébe a következő rendelkezés lép:
-
-„25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási jogot az ott meghatározott módon az NFA gyakorolja.”
-
-(6) Az Nfatv. 30. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Földalap körébe tartozó földrészletet érintő szerződés tartalmából közérdekből nyilvános adatnak minősül:)
-
-„b) a szerződés tárgyát képező földrészletnek a fekvése szerinti település megnevezése, helyrajzi száma, területnagysága, továbbá föld esetén a művelési ága és aranykorona értéke;”
-
-(7) Az Nfatv.
-
-- a) 1. § (3) bekezdés c) pontjában a „termőföld magánosítása során” szövegrész helyébe a „föld magánosítása eredményeként”,
-- b) 1. § (3) bekezdés d) pontjában az „önkéntes földcseréhez szükséges termőföld” szövegrész helyébe a „földcseréhez szükséges föld”,
-- c) 1. § (3) bekezdés h) pontjában és a 15. § (3) bekezdés l) pontjában a „termőföldek” szövegrész helyébe a „földek”,
-- d) 15. § (3) bekezdés h) és s) pontjában a „termőföld” szövegrész helyébe a „föld”,
-- e) 15. § (3) bekezdés m) pontjában a „termőföldek, földterületek” szövegrész helyébe a „földek”,
-- f) 18. § (4) bekezdésében a „termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld” szövegrész helyébe a „föld”,
-- g) 20. § (5) bekezdésében a „Tft.-ben előírt, a termőföldre” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre”,
-- h) 21. § (3) bekezdésében a „Tft.” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló törvény”
-
-szöveg lép.
-
-(8) Hatályát veszti az Nfatv. 18. § (3) bekezdésében az „önkéntes” szövegrész.
+(5)–(8)
 
 #### 44. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló2011. évi CLXVIII. törvény módosítása
 
-143. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 22. §-ában a „termőföldről szóló” szövegrész helyébe a „mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló” szöveg lép.
+143. §
 
 #### 45. Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény módosítása
 
-144. § Hatályát veszti az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 77. § és 80. §-a.
+144. §
 
 #### 46. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-145. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 12. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.”
+145. §
 
 #### 47. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
@@ -588,11 +471,7 @@ szöveg lép.
 
 #### 48. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-147. § A hegyközségekről szóló 2012. évi CCXIX. törvény 20. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3) bekezdéssel egészül ki:
-
-„(2) A szőlő termőhelyi kataszterében nyilvántartott szomszédos föld eladása vagy haszonbérbe adása esetén elővásárlási, illetve előhaszonbérleti jog illeti meg a hegyközségi tagot, ha ezen jogának érvényesítését megelőző 24 hónapban folyamatos hegyközségi tagsággal rendelkezett. Szomszédos földnek minősül a közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos szőlő termőhelyi kataszterében nyilvántartott föld. A hegyközségi tagot az elővásárlási jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott elővásárlásra jogosultak sorrendjében a földet használó földművest követően, a helyben lakó szomszéd földművest megelőzően illeti meg. A hegyközségi tagot az előhaszonbérleti jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott előhaszonbérletre jogosultak sorrendjében a volt haszonbérlőt követően, a helyben lakó szomszéd földművest megelőzően illeti meg.
-
-(3) A hegybíró kérelemre, illetve megkeresésre igazolást állít ki arról, hogy az elővásárlási és az előhaszonbérleti jog gyakorlására az arra jogosult által került sor.”
+147. §
 
 #### 49. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
