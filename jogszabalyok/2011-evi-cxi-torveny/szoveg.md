@@ -25,29 +25,37 @@ a védelmére.
 
 (2) Az alapvető jogok biztosa véleményezi a feladat- és hatáskörét érintő jogszabályok tervezetét, a hosszú távú fejlesztési, területrendezési és a jövő nemzedékek életminőségét egyébként közvetlenül érintő terveket és koncepciókat, valamint javaslatot tehet az alapvető jogokat érintő jogszabályok módosítására, megalkotására, illetve nemzetközi szerződés kötelező hatályának elismerésére.
 
-(3) Az alapvető jogok biztosa kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, valamint a kihirdetéstől számított harminc napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát.
+(3) Az alapvető jogok biztosa kezdeményezheti az Alkotmánybíróságnál a jogszabályok Alaptörvénnyel való összhangjának felülvizsgálatát, az Alaptörvény értelmezését, valamint a kihirdetéstől számított harminc napon belül az Alaptörvény és az Alaptörvény módosítása megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények megtartásának vizsgálatát.
 
 (4) Az alapvető jogok biztosa közreműködik a feladat- és hatáskörét érintő nemzetközi szerződések alapján készülő nemzeti jelentések előkészítésében, figyelemmel kíséri és értékeli e szerződések magyar joghatóság alá tartozó érvényesülését.
 
-(5) Az alapvető jogok biztosa tevékenysége során együttműködik azon szervezetekkel, amelyek célja az alapvető jogok védelmének előmozdítása.
+(5) Az alapvető jogok biztosa elősegíti az emberi jogok érvényesülését és védelmét. Ennek során társadalmi tudatformáló, felvilágosító tevékenységet végez és együttműködik azon szervezetekkel és nemzeti intézményekkel, amelyek célja az alapvető jogok védelmének előmozdítása.
 
 3. § (1) Az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese figyelemmel kíséri a jövő nemzedékek érdekeinek érvényesülését, és
 
-- a) rendszeresen tájékoztatja az alapvető jogok biztosát a jövő nemzedékek érdekeinek érvényesülésével kapcsolatos tapasztalatairól,
-- b) felhívja az alapvető jogok biztosának figyelmét a természetes személyek nagyobb csoportját érintő jogsértés veszélyére,
+- a) rendszeresen tájékoztatja az alapvető jogok biztosát, az érintett intézményeket és a nyilvánosságot a jövő nemzedékek érdekeinek érvényesülésével kapcsolatos tapasztalatairól,
+- b) felhívja az alapvető jogok biztosa, az érintett intézmények és a nyilvánosság figyelmét a természetes személyek nagyobb csoportját – különösen a jövő nemzedékeket – érintő jogsértés veszélyére,
 - c) az alapvető jogok biztosának hivatalbóli eljárás megindítását javasolhatja,
 - d) közreműködik az alapvető jogok biztosának vizsgálatában,
-- e) javasolhatja, hogy az alapvető jogok biztosa az Alkotmánybírósághoz forduljon.
+- e) javasolhatja, hogy az alapvető jogok biztosa az Alkotmánybírósághoz forduljon,
+- f) figyelemmel kíséri a fenntartható fejlődés Országgyűlés által elfogadott stratégiájának megvalósulását,
+- g) javaslatot tehet a jövő nemzedékek jogait érintő jogszabályok megalkotására, módosítására, valamint
+- h) nemzetközi tevékenységével elősegíti a jövő nemzedékek érdekeivel kapcsolatos hazai intézményrendszer értékeinek bemutatását.
 
 (2) Az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese figyelemmel kíséri a Magyarországon élő nemzetiségek jogainak érvényesülését, és
 
-- a) rendszeresen tájékoztatja az alapvető jogok biztosát a Magyarországon élő nemzetiségek jogainak érvényesülésével kapcsolatos tapasztalatairól,
-- b) felhívja az alapvető jogok biztosának figyelmét a természetes személyek nagyobb csoportját érintő jogsértés veszélyére,
+- a) rendszeresen tájékoztatja az alapvető jogok biztosát, az érintett intézményeket és a nyilvánosságot a Magyarországon élő nemzetiségek jogainak érvényesülésével kapcsolatos tapasztalatairól,
+- b) felhívja az alapvető jogok biztosa, érintett intézmények és a nyilvánosság figyelmét a nemzetiségeket érintő jogsértés veszélyére,
 - c) az alapvető jogok biztosának hivatalbóli eljárás megindítását javasolhatja,
 - d) közreműködik az alapvető jogok biztosának vizsgálatában,
-- e) javasolhatja, hogy az alapvető jogok biztosa az Alkotmánybírósághoz forduljon.
+- e) javasolhatja, hogy az alapvető jogok biztosa az Alkotmánybírósághoz forduljon,
+- f) véleményezi a Kormány társadalmi felzárkózásról szóló stratégiáját és figyelemmel kíséri a Magyarországon élő nemzetiségeket érintő célkitűzéseinek megvalósulását,
+- g) javaslatot tehet a Magyarországon élő nemzetiségek jogait érintő jogszabályok megalkotására, módosítására, valamint
+- h) nemzetközi tevékenységével elősegíti a Magyarországon élő nemzetiségek érdekeivel kapcsolatos hazai intézményrendszer értékeinek bemutatását.
 
 (3) Ha az alapvető jogok biztosának a helyettese az (1) bekezdés a) pontjában vagy a (2) bekezdés a) pontjában meghatározott feladatkörében tesz javaslatot arra, hogy az alapvető jogok biztosa hivatalból járjon el vagy forduljon az Alkotmánybírósághoz, az alapvető jogok biztosa köteles ennek megfelelően eljárni, vagy az elutasítás indokairól éves beszámolójában az Országgyűlést tájékoztatni.
+
+(4) Tevékenysége során az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese „a jövő nemzedékek szószólója” címet, az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese „a nemzetiségi jogok védelmezője” címet viselheti.
 
 ### II. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ÉS HELYETTESEINEK MEGBÍZATÁSA
 
@@ -80,6 +88,8 @@ a védelmére.
 7. § (1) Az alapvető jogok biztosa a helyettesének a személyére a helyettes megbízatási idejének a lejártát megelőző kilencven napon belül, de legkésőbb a megbízatási idő lejártát megelőző negyvenötödik napon tesz javaslatot.
 
 (2) Ha az alapvető jogok biztosa helyettesének a megbízatása a 17. § (1) bekezdés b)–g) pontjában meghatározott okból szűnt meg, az alapvető jogok biztosa a megbízatás megszűnésétől számított harminc napon belül tesz javaslatot az alapvető jogok biztosa helyettesének a személyére.
+
+(2a) Ha az alapvető jogok biztosa és helyettese megbízatása egyidejűleg szűnik meg, a helyettes személyére az újonnan megválasztott alapvető jogok biztosa a megválasztását követő harminc napon belül tesz javaslatot.
 
 (3) Ha az alapvető jogok biztosa helyettesének javasolt személyt az Országgyűlés nem választja meg, az alapvető jogok biztosa legkésőbb harminc napon belül új javaslatot tesz.
 
@@ -468,7 +478,7 @@ tevékenységét.
 
 (2) A főtitkár államtitkári illetményre és juttatásokra jogosult, naptári évenként negyven munkanap szabadság illeti meg.
 
-(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározott köztisztviselő esetében az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározott köztisztviselő esetében az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. Az Alapvető Jogok Biztosának Hivatala törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
 
 (4) A Szervezeti és Működési Szabályzatban meg kell határozni azon köztisztviselők létszámkeretét, akik az alapvető jogok biztosa helyettesének irányítása alá tartoznak.
 
@@ -511,7 +521,7 @@ tevékenységét.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-46. § E törvény 47. §-a és 49. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+46. § A 2. § (3) bekezdése az Alaptörvény 24. cikk (2) bekezdés g) pontja alapján sarkalatosnak minősül.
 
 #### 17. Módosító rendelkezések
 
