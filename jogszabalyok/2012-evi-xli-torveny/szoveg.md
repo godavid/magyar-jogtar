@@ -666,7 +666,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 - a) azon utazási kedvezmények után, amelynek pénzügyi fedezetére jogszabály más forrást határoz meg,
 - b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitikai céllal nyújt, vagy
-- c) a nevelési-oktatási intézménnyel jogviszonyban álló gyermek, tanuló részére – az állami intézményfenntartó központ (a továbbiakban: Központ) által fenntartott nevelési oktatási intézmények esetében a Központ, egyéb esetben a nevelési-oktatási intézmény, vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
+- c) a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére – az állami intézményfenntartó központ (a továbbiakban: Központ) által fenntartott intézmény esetében a Központ, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
 
 (5) A nemzeti mobil fizetési szervezet általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy annak viszonteladójától megvásárolja.
 

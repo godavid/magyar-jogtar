@@ -245,11 +245,11 @@ Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valós�
 
 (4) Az ellenőrzés során figyelemmel kell lenni az ellenőrzött szerv munkájára. Az ellenőrzést úgy kell megszervezni, hogy az a folyamatos működést ne akadályozza.
 
-Stt.9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
+Stt.9/A. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehajtó szerv kezdeményezésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
 
 (2) A közigazgatási bírság összege 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
-Stt.9/B. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
+Stt.9/B. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehajtó szerv kezdeményezésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
 
 - a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
 - b) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
