@@ -44,6 +44,9 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 - t) átlátható szervezet: a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 3. §-a szerinti átlátható szervezet,
 - u) önkormányzati garancia: az önkormányzati alrendszerben vállalható olyan kötelezettség, ami alapján a garanciavállaló saját költségvetése terhére, szerződésben meghatározott feltételek szerint, a kötelezett nem szerződésszerű teljesítése esetén a jogosultnak fizetést teljesít az előzetesen rögzített összeghatárig,
 - v) önkormányzati kezesség: az önkormányzati alrendszerben a Polgári Törvénykönyvről szóló törvény szerinti kezességnek megfelelően vállalt kötelezettség.
+- x) kormányzati szektor egyenlege: az Európai Unió túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló rendelete alapján számított egyenleg,
+- y) strukturális egyenleg: a kormányzati szektornak a gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege,
+- z) középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló, 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergencia programban a strukturális egyenlegre meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel.
 
 (2) E törvény II. fejezete alkalmazásában jogszabályon, 9. § (1) és (3) bekezdése alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés házszabályi rendelkezéseit is érteni kell.
 
@@ -336,17 +339,27 @@ meghatározott hatáskörök együttesét kell érteni.
 
 #### 11. A központi költségvetés előkészítése
 
-13. § (1) Az államháztartásért felelős miniszter javaslatára a Kormány március 31-ig meghatározza a gazdaság- és pénzügypolitika fő irányait, így különösen az adópolitika és a költségvetési politika céljait, rögzíti az államadósság csökkentésével összhangban álló költségvetési egyenleg célt.
+13. § (1) Az államháztartásért felelős miniszter június 30-áig kidolgozza és az általa vezetett minisztérium honlapján közzéteszi a központi költségvetési tervezés részletes ütemtervét, kereteit, tartalmi követelményeit, így különösen a tervezés során érvényesítendő számszerű és szabályozási követelményeket, a tervezéshez használt dokumentumokat, módszertani elveket, feltevéseket és paramétereket, továbbá az előírt adatszolgáltatások teljesítésének módját.
 
-(2) Az államháztartásért felelős miniszter – az (1) bekezdésben foglaltak szerint – kidolgozza a tervezés részletes ütemtervét és tartalmi követelményeit, így különösen a kiadások felülvizsgálatának irányait, a tervezés során érvényesítendő számszerű és szabályozási követelményeket, a tervezéshez használt dokumentumokat, az előírt adatszolgáltatások teljesítésének módját, valamint a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegeit.
+(2) A fejezetet irányító szerv az (1) bekezdés szerint közzétett tájékoztatóban meghatározottak alapján – a fejezetre nézve megállapított tervezett kiadási főösszeg megtartásával – megtervezi és egyezteti az államháztartásért felelős miniszterrel az általa irányított fejezetbe sorolt költségvetési szerv, központi kezelésű előirányzat és fejezeti kezelésű előirányzat, valamint az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapjai tervezett bevételeit és kiadásait.
 
-(3) A fejezetet irányító szerv az államháztartásért felelős miniszter által meghatározott részletességgel – a fejezetre nézve megállapított tervezett kiadási főösszeg megtartásával – május 31-ig megtervezi az adott fejezetbe sorolt költségvetési szerv, központi kezelésű előirányzat és fejezeti kezelésű előirányzat, valamint az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapjai tervezett bevételeit és kiadásait.
+(3) A központi költségvetésről szóló törvény elkészítéséhez a kormányzati szektorba sorolt egyéb szervezet, valamint a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személy adatszolgáltatást teljesít az államháztartásért felelős miniszternek.
 
-(4) A fejezetet irányító szerv a megtervezett bevételeket és kiadásokat július 31-ig egyezteti az államháztartásért felelős miniszterrel, egyidejűleg tájékoztatást ad a költségvetési bevételeket és a költségvetési kiadásokat befolyásoló jogszabályok, közjogi szervezetszabályozó eszközök, szerződések vagy más kötelezettségek módosításának lehetőségéről, módjáról.
+(4) Az államháztartásért felelős miniszter a (2) bekezdés szerinti egyeztetés és a (3) bekezdés szerinti adatszolgáltatás alapján a 29. § (1) bekezdése szerinti tervszámoknak megfelelően készíti elő a központi költségvetésről szóló törvény tervezetét. A központi költségvetésről szóló törvény tervezete a 29. § (1) bekezdése szerinti tervszámoktól a makrogazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén vagy a Kormány hatáskörén kívül eső más esemény bekövetkezésekor térhet el a változás, illetve az esemény által indokolt mértékben. Az eltérést és annak indokát a központi költségvetésről szóló törvény tervezetének indokolásában ismertetni kell.
 
-(5) A központi költségvetésről szóló törvény elkészítéséhez a kormányzati szektorba sorolt egyéb szervezet, valamint a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személy adatszolgáltatást teljesít az államháztartásért felelős miniszternek.
+13/A. § (1) A központi költségvetési tervezés során a kormányzati szektor egyenlegét az Alaptörvénnyel és az Európai Unió jogával összhangban e törvény rendelkezéseinek megfelelően kell meghatározni.
 
-(6) A (2)–(5) bekezdés alapján az államháztartásért felelős miniszter elkészíti a központi költségvetésről szóló törvényjavaslat tervezetét, amelyet az abban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó önálló törvényjavaslattal együtt a Kormány elé terjeszt.
+(2) A kormányzati szektor egyenlegét úgy kell meghatározni, hogy
+
+- a) a Stabilitási tv. 2. §-a szerinti államadósság-mutató csökkenjen,
+- b) legyen összhangban a középtávú költségvetési cél elérésével, és
+- c) annak hiánya ne haladja meg a bruttó hazai terméknek a Stabilitási tv. 2. § (1) bekezdés b) pontja szerint számított mértékének 3%-át.
+
+(3) A Stabilitási tv. 7. §-ában meghatározott esetben a (2) bekezdés c) pontjában meghatározott követelmény érvényesítésétől átmenetileg el lehet tekinteni, azzal, hogy annak okait a központi költségvetésről szóló törvényjavaslat indokolásában részletesen be kell mutatni.
+
+(4) Az Alaptörvényből és az Európai Unió jogából következő egyenleg számítási módját és az ahhoz szükséges paramétereket az államháztartásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
+
+13/B. § A Kormány évente legalább két alkalommal, az aktuális és a következő három évre vonatkozóan makrogazdasági és költségvetési előrejelzést készít, és azt, valamint annak módszertanát nyilvánosságra hozza. A 13. §-ban és a 29. §-ban meghatározott költségvetési tervezésnek az így készült legfrissebb előrejelzésen kell alapulnia. Az előrejelzések részletszabályait és a közzététel módját a Kormány rendeletben határozza meg.
 
 #### 12. A központi költségvetésről szóló törvény szerkezete, tartalma
 
@@ -442,13 +455,14 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 22. § (1) A Kormány a központi költségvetésről szóló törvényjavaslatot a Stabilitási tv. szerint egyezteti a Költségvetési Tanáccsal.
 
-(2) A Kormány szeptember 30-áig benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
+(2) A Kormány október 15-éig benyújtja az Országgyűlésnek a központi költségvetésről szóló törvényjavaslatot.
 
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
 - a) tájékoztatást ad a több év előirányzatait terhelő programok, beruházások és más fejlesztések későbbi évekre vonatkozó hatásairól,
-- b) bemutatja a költségvetési évet követő három év várható előirányzatainak keretszámait főbb csoportokban, és
-- c) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozóan három évre, a demográfiai folyamatokra és azok hatásaira vonatkozóan ötven évre szóló előrejelzését.
+- b) a 29. § (1) bekezdése szerinti tervszámokkal összhangban, indokolással együtt bemutatja a költségvetési évet követő három év tervezett előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól történő eltérés esetén az eltérés indokait,
+- c) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozó demográfiai folyamatokat és az azok hatásait figyelembevevő ötven évre szóló előrejelzését,
+- d) ismerteti a kormányzati szektor egyenlegére és a strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait.
 
 (4) Az Országgyűlés részére a központi költségvetésről szóló törvényjavaslat benyújtásakor tájékoztatásul be kell mutatni
 
@@ -492,15 +506,16 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 24. § (1) A jegyző, főjegyző, megyei főjegyző (a továbbiakban együtt: jegyző) által elkészített, a következő évre vonatkozó költségvetési koncepciót a polgármester október 31-ig nyújtja be a képviselő-testületnek.
 
-(2) A jegyző által előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
+(2) A jegyző a költségvetési rendelet-tervezetet a 29/A. § szerinti tervszámoknak megfelelően készíti elő. A tervszámoktól csak a külső gazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén térhet el, az eltérést és annak indokát a költségvetési rendelet-tervezet indokolásában ismertetni kell.
 
-(3)
+(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
 
 (4) A költségvetés előterjesztésekor a képviselő-testület részére tájékoztatásul a következő mérlegeket és kimutatásokat kell – szöveges indokolással együtt – bemutatni:
 
 - a) a helyi önkormányzat költségvetési mérlegét közgazdasági tagolásban, előirányzat felhasználási tervét,
-- b) a többéves kihatással járó döntések számszerűsítését évenkénti bontásban és összesítve, és
-- c) a közvetett támogatásokat – így különösen adóelengedéseket, adókedvezményeket – tartalmazó kimutatást.
+- b) a többéves kihatással járó döntések számszerűsítését évenkénti bontásban és összesítve,
+- c) a közvetett támogatásokat – így különösen adóelengedéseket, adókedvezményeket – tartalmazó kimutatást, és
+- d) a 29/A. § szerinti tervszámoknak megfelelően a költségvetési évet követő három év tervezett előirányzatainak keretszámait főbb csoportokban, és a 29/A. § szerinti tervszámoktól történő esetleges eltérés indokait.
 
 #### 16. A helyi önkormányzat átmeneti gazdálkodásának szabályai
 
@@ -553,11 +568,16 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 #### 20. A középtávú tervezés
 
-29. § (1) A Kormány egyedi határozatban állapítja meg a központi költségvetés – a központi költségvetésről szóló törvényben megállapított fejezetek szerinti bontású – bevételeinek és kiadásainak, valamint költségvetési egyenlegének a költségvetési évet követő három évre tervezett összegét, amelyet az államháztartási és makrogazdasági folyamatok alakulása alapján szükség szerint aktualizál.
+29. § (1) A Kormány április 30-áig egyedi határozatban megállapítja a központi költségvetés – a központi költségvetésről szóló törvényben megállapított fejezetek szerinti bontású – bevételeinek és kiadásainak, valamint költségvetési egyenlegének a költségvetési évet követő három évre tervezett összegét. A Kormány ezen határozatában indokolja, ha egy adott év vonatkozásában eltér a megelőző évben az adott évre meghatározott főösszegek valamelyikétől.
 
-(2) A 14. § (3) bekezdés és (4) bekezdés c) és d) pontja szerinti fejezetek, valamint a társadalombiztosítás pénzügyi alapjai kivételével a fejezetet irányító szerv a fejezetre vonatkozó bevételi és kiadási tervszámokat a fejezetbe sorolt költségvetési szervekre, központi kezelésű előirányzatokra, fejezeti kezelésű előirányzatokra, illetve az elkülönített állami pénzalap bevételi és kiadási előirányzataira lebontja.
+(2) A fejezetet irányító szerv vezetője az (1) bekezdés szerinti tervszámok megállapításához a Kormány rendeletében meghatározottak szerint adatot szolgáltat, illetve javaslatot tesz az államháztartásért felelős miniszternek a fejezet költségvetési évet követő három évre vonatkozó szakmai és költségvetési tervéről.
 
-(3) A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás évente, legkésőbb a költségvetési rendelet, határozat elfogadásáig határozatban állapítja meg a Stabilitási tv. 45. § (1) bekezdés a) pontja felhatalmazása alapján kiadott jogszabályban meghatározottak szerinti saját bevételeinek, valamint a Stabilitási tv. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből eredő fizetési kötelezettségeinek a költségvetési évet követő három évre várható összegét.
+29/A. § A helyi önkormányzat, a nemzetiségi önkormányzat és a társulás évente, legkésőbb a költségvetési rendelet, határozat elfogadásáig határozatban állapítja meg
+
+- a) a Stabilitási tv. 45. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott jogszabályban meghatározottak szerinti saját bevételeinek és
+- b) a Stabilitási tv. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből eredő fizetési kötelezettségeinek
+
+a költségvetési évet követő három évre várható összegét.
 
 ### IV. Fejezet — A KÖLTSÉGVETÉS VÉGREHAJTÁSÁNAK ÁLTALÁNOS SZABÁLYAI
 
@@ -690,6 +710,8 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 (4) Az élet- és vagyonbiztonságot veszélyeztető elemi csapás, vagy ennek következményei elhárítása céljából a Kormány e törvény rendelkezéseitől eltérő átmeneti intézkedéseket hozhat, amelyről az Országgyűlés legközelebbi ülésén be kell számolnia. E jogkörében a Kormány az (1) bekezdésben foglaltakon túl a központi költségvetésről szóló törvényben nem szereplő kiadásokat teljesíthet és rendkívüli fizetési kötelezettséget írhat elő.
 
 (5) Az élet- és vagyonbiztonságot veszélyeztető elemi csapás, vagy ennek következményei elhárítása céljából a polgármester e törvény rendelkezéseitől eltérő, a helyi önkormányzat költségvetése körében a (4) bekezdés szerint átmeneti intézkedéseket hozhat, amelyekről a képviselő-testület legközelebbi ülésén be kell számolnia.
+
+40/A. § Ha az Európai Unió Tanácsa vagy az Európai Bizottság az Európai Unió működéséről szóló szerződés 121. cikk (4) bekezdése vagy 126. cikk (6) és (8) bekezdése alapján Magyarországra vonatkozó döntést hoz, figyelmeztetést vagy ajánlást tesz, az államháztartásért felelős miniszter nyilvánosságra hozza az ezzel kapcsolatos álláspontját.
 
 ### V. Fejezet — A GAZDÁLKODÁS SAJÁTOS SZABÁLYAI
 
@@ -1015,6 +1037,8 @@ céljából.
 
 (2) A belső kontrollrendszer létrehozásáért, működtetéséért és fejlesztéséért a költségvetési szerv vezetője felelős az államháztartásért felelős miniszter által közzétett módszertani útmutatók figyelembevételével.
 
+69/A. § A kormányzati szektorba sorolt egyéb szervezetek belső kontrollrendszerére a költségvetési szervek belső kontrollrendszerére vonatkozó szabályokat alkalmazni kell. A Kormány rendeletében a kormányzati szektorba sorolt egyéb szervezetek sajátosságai figyelembevételével azokra nézve a költségvetési szervek belső kontrollrendszerére vonatkozó, e törvényben meghatározott szabályoktól eltérő szabályokat állapíthat meg.
+
 #### 47. Belső ellenőrzés
 
 70. § (1) A belső ellenőrzés kialakításáról, megfelelő működtetéséről és függetlenségének biztosításáról a költségvetési szerv vezetője köteles gondoskodni. A belső ellenőrzést végző személy vagy szervezet tevékenységét a költségvetési szerv vezetőjének közvetlenül alárendelve végzi, jelentéseit közvetlenül a költségvetési szerv vezetőjének küldi meg. Az irányító szerv belső ellenőrzést végezhet
@@ -1296,8 +1320,15 @@ a helyi önkormányzatokért felelős miniszter az a)–c) pont szerinti kötele
 - a) a 22. § (4) bekezdése szerinti mérlegeket és kimutatásokat, az államháztartás költségvetési mérlegében az államháztartás központi alrendszerén belül költségvetési szervek és fejezeti kezelésű előirányzatok, állami vagyon, egyéb központi kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai szerinti bontásban,
 - b) az államháztartás központi alrendszerében a finanszírozási bevételekről és kiadásokról készített összegzést,
 - c) a Stabilitási tv. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot, és kapcsolatát a 479/2009/EK rendelet szerinti kormányzati szektor adósságával,
-- d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát, és
-- e) az állam tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását.
+- d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát,
+- e) az állam tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását,
+- f) a 13. § szerinti tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
+- g) a zárszámadásról szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként,
+- h) a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását,
+- i) a helyi önkormányzatok által kibocsátott garanciák és kezességek állományát, és
+- j) az államháztartás központi alrendszerében és önkormányzati alrendszerében, valamint a kormányzati szektorba sorolt egyéb szervezeteknél a nem teljesítő hitelkövetelések állományát.
+
+(3a) Ha a (3) bekezdés f) pontja szerinti értékelés alapján a tényleges makrogazdasági és költségvetési folyamatok a 13/B. § szerinti előrejelzéstől négy egymást követő évben lényegesen eltérnek, a makrogazdasági és költségvetési előrejelzést alátámasztó módszereket, felvetéseket és vonatkozó paramétereket felül kell vizsgálni, és azt közzé kell tenni.
 
 (4) A 21. § (6) bekezdésében, 29. § (1) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozatot a Kormány a Magyar Közlönyben közzéteszi.
 
@@ -1433,6 +1464,8 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (3) A tervezés, gazdálkodás, zárszámadás során, és az államháztartás információs rendszerében a költségvetési bevételeket és költségvetési kiadásokat azok felmerülési helye szerinti adminisztratív, az államháztartás szakfeladatrendje szerinti funkcionális, és a 6. § (2)–(5) bekezdés szerinti közgazdasági osztályozási rendszerben kell nyilvántartani és bemutatni.
 
+(4) A kincstár a (2) bekezdés szerinti adatok kormányrendeletben meghatározott körét, valamint az adatoknak a nemzeti és regionális számlák európai rendszere szerinti adatokra történő átszámítására vonatkozó útmutatót közzéteszi a honlapján.
+
 #### 68. A törzskönyvi nyilvántartás
 
 104. § (1) A kincstár nyilvántartást vezet a költségvetési szervekről, a helyi önkormányzatokról, a nemzetiségi önkormányzatokról, a társulásokról, a térségi fejlesztési tanácsokról, valamint jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személyekről (a továbbiakban együtt: törzskönyvi jogi személy). A nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
@@ -1532,7 +1565,7 @@ kezelésére.
 
 - 1. a költségvetési szervek alapítására, 10. § (3) bekezdés szerinti besorolására vonatkozó szabályokat, átalakításuk, megszüntetésük részletes szabályait, az alapító és a megszüntető okirat tartalmi kellékeit, az önállóan működő költségvetési szerv gazdálkodásának, az irányítói, középirányítói jogok átadásának, gyakorlásának, és a fejezeti jogosítványokkal felruházott költségvetési szerv jogállásának sajátos szabályait,
 - 2. a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 10. § (5) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat,
-- 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját és a 13. § szerinti feladatok végrehajtásának részletes szabályait,
+- 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját, a 13. § szerinti feladatok végrehajtásának, a középtávú tervezéshez szükséges adatszolgáltatás, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját,
 - 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket,
 - 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
 - 6. az államháztartás önkormányzati alrendszerében az irányító szerv és az általa irányított költségvetési szervek költségvetési bevételei és költségvetési kiadásai között megtervezendő tételeket, a költségvetési koncepció és a költségvetési rendelet, határozat előkészítésének, elfogadásának részletszabályait, a 24. § (4) bekezdés c) pontja szerinti közvetett támogatások további részletezését a költségvetés és a zárszámadás elfogadása során,
@@ -1546,7 +1579,7 @@ kezelésére.
 - 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 - 15. a 49. § szerinti lebonyolító szerv megbízásának, feladatellátásának, elszámoltatásának szabályait, a költségvetési támogatások biztosításának e törvény előírásain felüli további feltételeit, a költségvetési támogatások igénylésének, biztosításának, folyósításának – ide értve a köztartozás-mentesség vizsgálatát is –, felhasználásának, a felhasználásról szóló beszámolásnak, ellenőrzésnek, és a jogosulatlanul igénybe vett költségvetési támogatás visszakövetelésének részletes szabályait, a kincstár által működtetett monitoring rendszerrel kapcsolatos szabályokat, valamint az európai uniós forrásból nyújtott támogatások és az államháztartás alrendszereinek felajánlott külföldi segélyek és adományok felhasználásának információs rendszereit és monitoring szabályait,
 - 16. a 14. § (3) bekezdés szerinti fejezetben meghatározott támogatások igénylésére, az arról történő lemondásra, az évközi módosításra, az igénylés, igénybevétel évközi felülvizsgálatára a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, valamint az 57/A. § (2) bekezdése szerinti kamatok alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettósításban felfüggesztett támogatás visszatérítésének szabályait,
-- 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső ellenőrzési tevékenységre vonatkozó engedéllyel rendelkezőkről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközökkel, a belső kontrolrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
+- 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső ellenőrzési tevékenységre vonatkozó engedéllyel rendelkezőkről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközökkel, a belső kontrolrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, a kormányzati szektorba sorolt egyéb szervezetek belső kontrollrendszerével, az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
 - 18. a 81. § szerinti előirányzat-felhasználási keret tervezésének, megállapításának, megnyitásának, előrehozásának, köztartozás fennállása esetén zárolásának, az államháztartás központi alrendszerébe tartozó költségvetési szerv fizetési számlája – a költségvetési szervet terhelő közterhek megfizetése céljából történő – megterhelésének, továbbá a költségvetési szerv által beszedett központosított bevételek befizetésének szabályait,
 - 19. a fejezeti kezelésű előirányzatok finanszírozási terve elkészítésének szabályait, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai finanszírozási, elszámolási rendjét, az államháztartás önkormányzati alrendszere finanszírozási rendjének részletes szabályait,
 - 20. a 78. § (2) bekezdése szerinti likviditási tervek tartalmát, elkészítésének, aktualizálásának, valamint a 78. § (4) bekezdése szerinti megelőlegezések feltételeinek, a megelőlegezett összeg visszapótlásának szabályait,
@@ -1556,7 +1589,7 @@ kezelésére.
 - 24. a költségvetési beszámolás, az irányító szerv és a beszámolást készítő feladatait, a zárszámadáshoz kapcsolódó adatszolgáltatási feladatokat,
 - 25. az állami kezesség, állami garancia, állami viszontgarancia, kiállítási garancia és kiállítási viszontgarancia vállalásának, módosításának, beváltásának, nyilvántartásának eljárási és részletszabályait,
 - 26. a külföldi követelések értékesítésének szabályait,
-- 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, és az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét,
+- 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, valamint a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat,
 - 28. a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, beszámolásának a kincstári rendszer általános szabályaitól eltérő sajátos szabályait,
 - 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 - 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
@@ -1704,9 +1737,11 @@ amely előirányzatra vonatkozóan az a) és b) pont szerinti szabályokat törv
 
 111/F. § A Magyarország 2014. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2013. évi CCIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 109. § (10) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-#### 74.
+#### 74. Az Európai Unió jogának való megfelelés
 
-#### 112–113. §
+112. § A 13. §, a 13/A. §, a 13/B. §, a 22–24. §, a 29. §, a 29/A. §, a 40/A. §, a 46. alcím, a 90. § (3) bekezdés f) pontja és (3a) bekezdése, valamint a 103. § (4) bekezdése a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+#### 113. §
 
 #### 75.
 
