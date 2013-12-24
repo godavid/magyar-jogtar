@@ -3011,7 +3011,7 @@ különbözetének megtérítése iránti igényt.
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
 - a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás elrendelésének van helye a megbetegedési veszély miatt, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, és
-- b) a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységek, az egészségügyi tevékenységek elvégzéséhez szükséges egészségügyi szakirányú szakmai továbbképzések körét, a szakkiképzési követelményeket, azok szakmai tartalmát, és kijelölje az elvégezhető egészségügyi tevékenységekhez szükséges egészségügyi szakirányú szakmai továbbképzésre és a szakkiképzés lefolytatására jogosított intézmények körét.
+- b) a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységeket, ezen egészségügyi tevékenységek elvégzéséhez szükséges egészségügyi szakkiképzések körét, a szakkiképzési követelményeket, azok szakmai tartalmát és kijelölje a szakkiképzés lefolytatására jogosított intézmények körét.
 
 #### 140. Hatályba léptető rendelkezések
 

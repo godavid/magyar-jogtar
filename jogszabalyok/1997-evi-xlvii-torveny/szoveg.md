@@ -511,6 +511,8 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - b) legalább 2 év joggyakorlattal rendelkező jogi egyetemi végzettségű személy, vagy
 - c) felsőfokú végzettségű, az egészségügyi adatkezelésben legalább 2 év gyakorlatot szerzett személy jelölhető ki.
 
+32/A. § A gyógykezelés érdekében felvett egészségügyi és személyazonosító adatokat tartalmazó, közfinanszírozott egészségügyi szolgáltató által vezetett elektronikus nyilvántartással kapcsolatban szerződés alapján adatfeldolgozást végző adatfeldolgozó szervezet az adatfeldolgozási szerződés megszűnésekor az adatkezelő egészségügyi szolgáltatótól átvett adatállományt köteles díjmentesen, elektronikusan visszaszolgáltatni az adatkezelő rendelkezései szerint.
+
 ### III. Fejezet
 
 33. § (1) Az egészségügyi ellátóhálózaton kívüli intézmény, illetve szerv vagy személy (a továbbiakban: nem egészségügyi intézmény) a feladatai ellátásához szükséges mértékben a 4. § szerinti célból kezelhet egészségügyi és személyazonosító adatot.

@@ -208,7 +208,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 (8) Az 1., 3. és 5. § 2013. május 1-jén lép hatályba.
 
-(9) A 21. § és a 65. § (2) bekezdése 2014. január 1-jén lép hatályba.
+(9) A 21. § és a 65. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
 164. §
 
