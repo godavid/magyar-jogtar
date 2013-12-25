@@ -83,47 +83,7 @@ rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpá
 
 (9) A Városligeti építési szabályzat és a településszerkezeti terv készítése és jóváhagyása során a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 5. § (7) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
 
-8. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. § 11. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet, a Duna-parti építési szabályzat és a Városligeti építési szabályzat.”
-
-(2) Az Étv. 2. §-a a következő 39. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„39. Városligeti építési szabályzat: a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.”
-
-9. § Az Étv. 9/B. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A településrendezés eszközei)
-
-„c) a Duna-parti építési szabályzat és a Városligeti építési szabályzat, amelyet a településszerkezeti terv és a Fővárosi rendezési szabályzat alapján a fővárosi önkormányzat képviselő-testülete dolgoztat ki és állapít meg.”
-
-10. § Az Étv. 14/A. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A főváros településrendezési eszközei)
-
-„d) a fővárosi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a Duna főmedrével közvetlenül határos telkek és a Margitsziget területére megállapított Duna-parti építési szabályzat, valamint a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó területre megállapított Városligeti építési szabályzat.”
-
-11. § Az Étv. a következő 14/C. §-sal és az azt megelőző alcímmel egészül ki:
-
-„A Városligeti építési szabályzat
-
-14/C. § Az építés helyi rendjének biztosítása érdekében a fővárosi önkormányzat a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket Városligeti építési szabályzatban állapítja meg.”
-
-12. § Az Étv. 60. §-a a következő (7b) bekezdéssel egészül ki:
-
-„(7b) A Városligeti építési szabályzat hatálybalépését követően a 14/C. §-ban meghatározott területekre vonatkozóan a Budapest Főváros XIV. kerület Zugló Önkormányzata által elfogadott településrendezési eszközöket nem kell alkalmazni.”
-
-13. § (1) Az Étv. 62. § (7) bekezdése a következő 5. ponttal egészül ki:
-
-(Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg)
-
-„5. a Városligeti építési szabályzatot.”
-
-(2) Nem lép hatályba az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény 23. § (7) bekezdése.
+8–13. §
 
 14. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
