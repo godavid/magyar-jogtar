@@ -82,7 +82,7 @@ a Magyarország 2013. évi központi költségvetését megalapozó egyes törv�
 
 #### 17. Záró rendelkezések
 
-25. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2014. január 2-án hatályát veszti.
+25. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba, és 2015. január 2-án hatályát veszti.
 
 (2) A 21. § (41) bekezdése, a 12. alcím, a 13. alcím 2012. december 31-én lép hatályba.
 

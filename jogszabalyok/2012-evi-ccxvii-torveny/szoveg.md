@@ -28,7 +28,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - i) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) értelmében előírt közszolgáltatási kötelezettség keretében végrehajtott repülés az Európai Unió működéséről szóló szerződés 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet, és
 - j) az olyan légiközlekedési tevékenység, amelynek során a kereskedelmi légiközlekedési üzemben tartó három egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az állam uralkodója és közvetlen családja, állam- és kormányfője, valamint minisztere hivatalos út alkalmával történő szállítása is.
 
-(5) A 16. alcímben foglalt rendelkezések hatálya a 2009/406/EK európai parlamenti és tanácsi határozat 1. mellékletében meghatározott kategóriákból származó szén-dioxid, metán, dinitrogén-oxid, fluorozott szénhidrogének, perfluor-szénhidrogének és kén-hexafluorid tonna széndioxid-egyenértékben kifejezett kibocsátására terjed ki az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló, 2004. február 11-i 280/2004/EK európai parlamenti és tanácsi határozat alapján meghatározottak szerint, az (1) bekezdésben meghatározott üvegházhatású gázok kibocsátásának kivételével.
+(5) A 16. alcímben foglalt rendelkezések hatálya a 2009/406/EK európai parlamenti és tanácsi határozat I. mellékletében meghatározott kategóriákból származó szén-dioxid, metán, dinitrogén-oxid, fluorozott szénhidrogének, perfluor-szénhidrogének, kén-hexafluorid és nitrogén-trifluorid tonna széndioxid-egyenértékben kifejezett kibocsátására terjed ki, az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információknak a nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet alapján meghatározottak szerint, az (1) bekezdésben meghatározott üvegházhatású gázok kibocsátásának kivételével.
 
 #### 2. Értelmező rendelkezések
 
@@ -37,12 +37,12 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 1. adminisztrációért felelős tagállam:
   - a) az adott légi jármű üzembentartó számára az 1008/2008/EK európai parlamenti és tanácsi rendelet rendelkezéseivel összhangban a tagállam által kiadott érvényes üzembentartási engedéllyel rendelkező légi jármű üzembentartó esetében az engedélyt kiadó tagállam,
   - b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb,
-- 2. akkreditált hitelesítő szervezet: a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény (a továbbiakban: Nattv.) szerinti eljárásban a Nemzeti Akkreditáló Testület (a továbbiakban: Testület) által akkreditált vagy nyilvántartásba vett olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
+- 2. akkreditált hitelesítő szervezet: a 600/2012/EU bizottsági rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 - 3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdése alapján kijelölt aukciós platform,
 - 4. ellenőrzési év: a térítésmentes kiosztásra vonatkozó kérelemmel érintett időszak kezdetét 24 hónappal megelőzően véget érő naptári év,
-- 5. európai uniós ügyleti jegyzőkönyv: az 1193/2011/EU bizottsági rendelet 5. cikke szerinti szabványosított elektronikus adatbázis,
+- 5. európai uniós ügyleti jegyzőkönyv: a 389/2013/EU bizottsági rendelet 6. cikke szerinti szabványosított elektronikus adatbázis,
 - 6. égetés: tüzelőanyagok oxidálása, függetlenül az e folyamat révén előállított hő-, elektromos vagy mechanikai energia felhasználási módjától, valamint az ehhez közvetlenül kapcsolódó valamennyi tevékenység, beleértve a hulladékgázok tisztítását,
-- 7. forgalmi jegyzék: az 1193/2011/EU bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
+- 7. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 4. cikke szerinti forgalmi jegyzék,
 - 8. forrásanyag:
   - a) adott tüzelőanyag-típus, nyersanyag vagy termék, amelynek felhasználása vagy előállítása eredményeként egy vagy több kibocsátó forrás üvegházhatást okozó gázokat bocsát ki, vagy
   - b) adott tüzelőanyag-típus, nyersanyag vagy termék, amely szenet tartalmaz és az üvegházhatású gázok kibocsátásának anyagmérleg segítségével történő kiszámítása részét képezi,
@@ -58,7 +58,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 16. kis kibocsátású létesítmény: a 601/2012/EU bizottsági rendelet 47. cikk (2) bekezdés a) vagy b) pontjának megfelelő létesítmény,
 - 17. kis kibocsátónak minősülő légi jármű üzembentartó: a 601/2012/EU bizottsági rendelet 54. cikk (1) bekezdésének megfelelő légi jármű üzembentartó,
 - 18. környezeti információ: a nyilvánosság környezeti információkhoz való hozzáférésének rendjéről szóló jogszabályban meghatározott információ,
-- 19. központi tisztviselő: az 1193/2011/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
+- 19. központi tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
 - 20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
 - 21. légiközlekedési kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére a légi jármű üzembentartó által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tévő forgalomképes vagyoni értékű jog,
 - 22. légiközlekedési új belépő: olyan légi jármű üzembentartó,
@@ -69,15 +69,15 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 - 23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik,
 - 24. létesítmény: minden olyan helyhez kötött műszaki egység, ahol egy vagy több, az 1. melléklet I–XXI. pontjában felsorolt tevékenység vagy bármely más, azzal technológiailag összefüggő tevékenység, valamint az adott telephelyen folytatott tevékenységhez műszakilag kapcsolódó tevékenység folyik, és amely az 1. mellékletben meghatározott üvegházhatású gáz kibocsátását eredményezi vagy arra közvetlenül hatással van,
-- 25. nemzeti tisztviselő: az 1193/2011/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
-- 26. számlatulajdonos: az 1193/2011/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
+- 25. nemzeti tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
+- 26. számlatulajdonos: a 389/2013/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
 - 27. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz,
 - 28. tonnakilométer: a repülés során a légi jármű fedélzetén szállított áruk, postai küldemények, utasok és csomagok összes tömege (együtt: hasznos teher) egy kilométerre szállított tonnája,
 - 29. új belépő: azon létesítmény, amely
   - a) 2011. június 30. után kapott kibocsátási engedélyt,
   - b) 2011. június 30. után bekövetkezett jelentős kapacitásbővítés következtében kapott új kibocsátási engedélyt, vagy
   - c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvény hatálya alá,
-- 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k) és a kén-hexafluorid (SF6), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
+- 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 - 31. üzemeltető: a környezethasználat feltételeit megállapító engedély jogosultja,
 - 32. villamosenergia-termelő: olyan létesítmény, amely 2005. január 1-jén vagy azt követően harmadik fél számára történő értékesítésre szánt villamos energiát termelt, és amelyben az 1. mellékletben felsorolt tevékenységek közül kizárólag tüzelőanyagok égetését végzik,
 - 33. visszaadás: ÜHG-egység elszámolása az üzemeltető vagy légi jármű üzembentartó által saját létesítménye vagy légi járműve hitelesített kibocsátási adatainak terhére,
@@ -156,17 +156,17 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (5) Ha a légi jármű üzembentartó légiközlekedési tevékenysége megszűnik, vagy a tevékenysége az 1. melléklet XXII. pontja alóli kivételnek minősül, azt a bejelentés alapjául szolgáló esemény napjától számított 15 napon belül az energiapolitikáért felelős miniszternek (a továbbiakban: miniszter) és a hatóságnak bejelenti. A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény időpontját és az annak igazolására alkalmas dokumentumot. A tevékenység megszűnésének vagy az 1. melléklet XXII. pontja alóli kikerülésnek napját követő 30 napon belül a légi jármű üzembentartója köteles a tevékenység megszűnésének, e törvény hatálya alóli kikerülésének évére vonatkozóan hitelesített jelentést benyújtani a hatóság részére. Ha a bejelentett eseményre az adott év február 28-ig kerül sor, a jelentés és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
-11. § A 10. § (1)–(2) bekezdés szerinti kibocsátási jelentéseket és tonnakilométer-adatokat tartalmazó jelentéseket akkreditált hitelesítő szervezettel kell hitelesíttetni. Hitelesítő szervezetként a Nattv. szerint a Testület által akkreditált jogi személy vagy jogi személyiség nélküli gazdasági társaság, vagy a Testület által nyilvántartásba vett, más tagállam nemzeti akkreditáló testülete által akkreditált hitelesítő szervezet vehető igénybe.
+11. § A 10. § (1) és (2) bekezdése szerinti kibocsátási jelentéseket és tonnakilométer-adatokat tartalmazó jelentéseket akkreditált hitelesítő szervezettel kell hitelesíttetni.
 
 #### 5. Az ÜHG-egység nyilvántartása, érvényessége, megszűnése
 
-12. § (1) Az ÜHG-egység dematerializált, immateriális, forgalomképes vagyoni értékű jog, amely az 1193/2011/EU bizottsági rendelet 38. cikkében meghatározott módon jön létre.
+12. § (1) Az ÜHG-egység dematerializált, immateriális, forgalomképes vagyoni értékű jog, amely a 389/2013/EU bizottsági rendelet 41. cikkében meghatározott módon jön létre.
 
 (2) Az állam tulajdonában lévő ÜHG-egységek tekintetében a tulajdonosi jogok gyakorlója a miniszter.
 
-(3) A magyar állam tulajdonában lévő és az 1193/2011/EU bizottsági rendelet értelmében a magyar nemzeti tisztviselő által kezelt számlákon lévő ÜHG-egységek nyilvántartásáról a miniszter a jegyzékkezelő útján gondoskodik.
+(3) A magyar állam tulajdonában lévő és a 389/2013/EU bizottsági rendelet értelmében a magyar nemzeti tisztviselő által kezelt számlákon lévő ÜHG-egységek nyilvántartásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
-13. § (1) A magyar állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló törvény és végrehajtására kiadott kormányrendeletek, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) és a végrehajtására kiadott kormányrendeletek tulajdonjog átruházásával, állami vagyon elidegenítésével, a vagyonnal történő rendelkezéssel kapcsolatos szabályait az 1193/2011/EU bizottsági rendeletben, az e törvényben és a végrehajtására kiadott kormányrendeletben foglalt eltéréssel kell alkalmazni.
+13. § (1) A magyar állam tulajdonában lévő ÜHG-egységek esetében az állami vagyonról szóló törvény és végrehajtására kiadott kormányrendeletek, a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) és a végrehajtására kiadott kormányrendeletek tulajdonjog átruházásával, állami vagyon elidegenítésével, a vagyonnal történő rendelkezéssel kapcsolatos szabályait a 389/2013/EU bizottsági rendeletben, az e törvényben és a végrehajtására kiadott kormányrendeletben foglalt eltéréssel kell alkalmazni.
 
 (2)
 
@@ -344,13 +344,19 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (6) Az ÜHG-egységek térítés ellenében történő kiosztása (értékesítése) során az Nvtv. átlátható szervezetre vonatkozó rendelkezéseit nem kell alkalmazni.
 
-26. § (1) A kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a légiközlekedési kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevételnek az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására, a magyar klímapolitika és zöldgazdaság-fejlesztés hatékony megvalósítására, az üvegházhatású gáz nyelők általi eltávolításának növelésére fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról a miniszter az államháztartásról szóló 2011. CXCV. törvény 19. § (2) bekezdésében foglaltaktól eltérően e törvény és a végrehajtására kiadott jogszabályok szerint gondoskodik.
+26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a légiközlekedési kibocsátási egységek magyar állam általi, árverés útján való értékesítéséből származó bevételnek
+
+- a) az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására,
+- b) a magyar klímapolitika és zöldgazdaság-fejlesztés hatékony megvalósítására,
+- c) az üvegházhatású gáz nyelők általi eltávolításának növelésére
+
+fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról az Áht. felhatalmazása alapján kiadott rendelet szerint gondoskodik.
 
 (2) Az (1) bekezdés szerinti előirányzat maradványa a következő években felhasználható.
 
 (3) Az (1) bekezdés szerinti bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek, valamint évente jelentést tesz az Európai Bizottságnak.
 
-27. § A magyar állam tulajdonában lévő ÜHG-egységek értékesítéséből származó bevételek felhasználására vonatkozó részletes szabályokat a Kormány e törvény végrehajtására kiadott rendeletében állapítja meg.
+#### 27. §
 
 28. § Az ÜHG egység mint forgalomképes vagyoni értékű jog az állami vagyonból történő kikerülést (térítésnélküli átadás, értékesítés) követően szabadon átruházható az EGT-megállapodásban részes államokban lakóhellyel rendelkező természetes személyek, székhellyel rendelkező jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, illetve olyan, harmadik állambeli természetes és jogi személyek, jogi személyiséggel nem rendelkező szervezetek között, amelyek harmadik állama elismeri az ÜHG-egységeket.
 
@@ -366,13 +372,21 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 #### 11. A forgalmi jegyzék
 
-30. § (1) Az ÜHG-egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására az 1193/2011/EU bizottsági rendelet V. fejezete szerint a forgalmi jegyzékben és az európai uniós ügyleti jegyzőkönyvben kerül sor.
+30. § (1) Az ÜHG-egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására a 389/2013/EU bizottsági rendelet 2. fejezete szerint a forgalmi jegyzékben és az európai uniós ügyleti jegyzőkönyvben kerül sor.
 
 (2) A forgalmi jegyzékben vezetett magyar nemzeti folyószámla feletti tulajdonosi jogokat a miniszter gyakorolja.
 
-(3) Az 1193/2011/EU bizottsági rendelet szerinti nemzeti tisztségviselőt a Kormány rendeletben jelöli ki. A nemzeti tisztviselő biztosítja a miniszter számára a forgalmi jegyzékhez való folyamatos hozzáférést. A nemzeti tisztviselő az 1193/2011/EU bizottsági rendelet szerint látja el jegyzékkezelői feladatát.
+(3) A 389/2013/EU bizottsági rendelet szerinti nemzeti tisztviselőt a Kormány rendeletben jelöli ki. A nemzeti tisztviselő biztosítja a miniszter számára a forgalmi jegyzékhez való folyamatos hozzáférést. A nemzeti tisztviselő a 389/2013/EU bizottsági rendelet szerint látja el jegyzékkezelői feladatát.
 
-(4) Az 1193/2011/EU bizottsági rendelet szerinti meghatalmazott képviselőt a miniszter jelöli ki.
+(4) A 389/2013/EU bizottsági rendelet szerinti meghatalmazott képviselőt a miniszter jelöli ki.
+
+30/A. § (1) Nem lehet a forgalmi jegyzékben vezetett számla tulajdonosa, meghatalmazott képviselője, illetve további meghatalmazott képviselője olyan személy, aki munkakörének ellátása során a forgalmi jegyzék kezeléséhez kapcsolódó feladatokat lát el.
+
+(2) A nemzeti tisztviselő kétévente ellenőrzi, hogy a számlanyitáskor átadott információk továbbra is hiánytalanok, az ellenőrzéskor naprakészek, pontosak és valósak-e, és felszólítja a számlatulajdonost az esetleges változások megfelelő módon történő bejelentésére.
+
+(3) Legkésőbb 14 nappal a 389/2013/EU rendelet 59. cikk (1) bekezdésében meghatározott intézkedések elfogadása után a nemzeti tisztviselő megküldi a miniszter részére a nemzetközi jogosultsági tábla összeállításához szükséges adatokat.
+
+(4) A nemzeti tisztviselő megőriz valamennyi releváns kiotói folyamatra, naplózási adatra és a kiotói számlák számlatulajdonosaira vonatkozó adatot, amíg az esetleges velük kapcsolatos folyamatban lévő végrehajtási ügyek le nem zárulnak, de legfeljebb a számla lezárását követően tizenöt évig.
 
 #### 12. Az ÜHG-egységek kereskedelmének nyilvánossága
 
@@ -460,7 +474,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 - c) az ÜHG-egységek kiosztásához szükséges részletszabályokat,
 - d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
 - e) a magyar állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
-- f) az ÜHG-egységek értékesítéséből származó bevételek felhasználására, a felhasználás elveire vonatkozó részletes szabályokat,
+- f)
 - g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 - h) a CER és az ERU beszámításának részletes szabályait,
 - i) az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait,
@@ -498,9 +512,7 @@ rendeletben állapítsa meg.
 
 (2) A jelentések hitelesítését a 2013. január 1-je előtti kibocsátások tekintetében a 2012. december 31-én az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenység személyi és szakmai feltételeiről szóló kormányrendelet szerinti névjegyzékbe bejegyzett egyéni hitelesítő és hitelesítő szervezet, továbbá az európai közösségi hitelesítő is végezheti. E kibocsátások tekintetében a hitelesítést a 2012. december 31-ig hatályos szabályok alapján kell elvégezni.
 
-(3) 2013. január 15-ig a hatóság átadja a Testületnek a 2012. december 31-én bejegyzett egyéni hitelesítők, hitelesítő szervezetek és európai közösségi hitelesítők listáját, valamint a rájuk vonatkozó összes, az akkreditálási folyamat lefolytatásához szükséges adat és dokumentáció másolatát.
-
-(4) Ha a bejegyzett egyéni hitelesítők, hitelesítő szervezetek és az európai közösségi hitelesítők a hatóságnál 2013. január 15. és 2013. április 30-a között adatmódosítást jelentenek be, a hatóság az adatok változásáról soron kívül tájékoztatja a Testületet.
+(3)–(4)
 
 (5)
 
@@ -523,9 +535,9 @@ való megfelelést szolgálja.
 (2) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
 
 - a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
-- b) a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti, az uniós kibocsátáskereskedelmi rendszer 2013. január 1-jén kezdődő kereskedési időszakát és azt követő kereskedési időszakait szolgáló uniós kibocsátásiegységforgalmi jegyzék létrehozásáról, valamint a 2216/2004/EK és a 920/2010/EU bizottsági rendelet módosításáról szóló, 2011. november 18-i 1193/2011/EU bizottsági rendelet,
-- c) a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet,
-- d) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
+- b) a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet,
+- c) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
+- d) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
 - e) az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat,
 - f) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat,
 - g) a 2010/2/EU és a 2011/278/EU határozatnak a CO2-kibocsátás-áthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok tekintetében történő módosításáról szóló, 2012. augusztus 17-i 2012/498/EU bizottsági határozat

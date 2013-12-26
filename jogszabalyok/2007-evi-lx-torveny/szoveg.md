@@ -13,7 +13,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 1. Keretegyezmény: az 1995. évi LXXXII. törvénnyel kihirdetett ENSZ Éghajlatváltozási Keretegyezmény;
 - 2. Jegyzőkönyv: a 2007. évi IV. törvénnyel kihirdetett Kiotói Jegyzőkönyv;
 - 3. részes fél: a Keretegyezmény I. mellékletében felsorolt azon részes állam, amely a Jegyzőkönyvet megerősítette;
-- 4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k) és a kén-hexafluorid (SF6);
+- 4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6), és a nitrogén-trifluorid (NF3);
 - 5. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;
 - 6. nyelő: azon létesítmény, valamint maga a biomassza, amely valamilyen üvegházhatású gázt, aeroszol részecskét vagy azok képződését előidéző anyagot képes megkötni a légkörből;
 - 7. nemzetközi rugalmassági mechanizmusok: a részes felek által a Jegyzőkönyvben vállalt üvegházhatású gáz kibocsátás csökkentés elérését szolgáló kiegészítő eszközök, így különösen a nemzetközi együttműködéssel megvalósuló projekttevékenységek, és a nemzetközi kibocsátás-kereskedelem;
@@ -28,7 +28,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 16. kötelezettségvállalási időszak: a Jegyzőkönyv 3. cikk (1) bekezdése alapján meghatározott időszak;
 - 17. igazolt kibocsátás-csökkentési egység (CER): a tiszta fejlesztési mechanizmus eredményeként megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid egyenérték kibocsátására jogosít fel;
 - 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
-- 19. nemzeti forgalmi jegyzék: az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
+- 19. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 2. fejezet 4. cikke szerinti forgalmi jegyzék;
 - 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
 - 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
 - 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység.
@@ -48,31 +48,31 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) A (2) bekezdés c) pontja szerinti nemzeti alkalmazkodási térinformatikai rendszer felállításáról és működtetéséről, a szükséges adatgyűjtésről, valamint a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséről az energiapolitikáért felelős miniszter gondoskodik.
 
+(5) A téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy önkormányzati, továbbá jogszabályban meghatározott közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint ezek ellenőrzése alatt álló természetes vagy jogi személy – a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló törvény rendelkezéseire figyelemmel – a nemzeti alkalmazkodási térinformatikai rendszer működéséhez és a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséhez szükséges adatokat az e törvény végrehajtására kiadott jogszabályban meghatározott eljárási rendben az energiapolitikáért felelős miniszter számára díj- és költségtérítés megállapítása nélkül biztosítja.
+
 ### Az üvegházhatású gázok kibocsátásának nyilvántartása, adatszolgáltatás
 
-4. § (1) A környezetvédelemért felelős miniszter egyetértésben a miniszter, valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
+4. § (1) A környezetvédelemért felelős miniszter egyetértésben a miniszterrel, valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
 
 (2) A Nemzeti Nyilvántartási Rendszer működtetéséhez szükséges adatokkal rendelkező állami szervek és az évi 100 tonna széndioxid-egyenértéket vagy azt meghaladó mennyiségű üvegházhatású gázt kibocsátó szervezetek kötelesek ezen adatokat a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani a külön jogszabályban meghatározottak szerint.
 
 (3) Az ország üvegházhatású gáz kibocsátásának pontosabb előrejelzése érdekében az üvegházhatású gázokat jelentős mennyiségben kibocsátó, illetve nyelő, a külön jogszabályban meghatározott tevékenységek megkezdése előtt a beruházó a tevékenység létrejöttéhez kapcsolódó és a tevékenység következtében létrejövő teljes üvegházhatású gáz kibocsátásra vonatkozó előrejelzést köteles készíteni és erről a Nemzeti Nyilvántartási Rendszert üzemeltető intézményt írásban tájékoztatni.
 
-(4) Az állami meteorológiai szolgálat külön jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2)–(3) bekezdésben meghatározott adatszolgáltatásra, illetve előrejelzésre kötelezett szervezetet, amennyiben az a (2)–(3) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményeire – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
+(4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezetet, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményére – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
 
 (5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a statisztikáról szóló 1993. évi XLVI. törvény vonatkozó rendelkezése szerint egyedi adatnak minősülnek.
 
-### Nemzeti forgalmi jegyzék
+### Forgalmi jegyzék
 
-5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános nemzeti forgalmi jegyzékben történik.
+5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a környezetvédelmi hatóság.
 
-(2) Az (1) bekezdésben meghatározott nemzeti forgalmi jegyzék kezelője a környezetvédelmi hatóság.
+(2) A Magyar Állam kincstári vagyonába tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot a miniszter gyakorolja.
 
-(3) A kiotói egységek átruházásához a nemzeti forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
+(3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
-(4) A Magyar Állam kincstári vagyonába tartozó kiotói egységeket a nemzeti forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot a miniszter gyakorolja.
+(4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
 
-(5) A nemzeti forgalmi jegyzékben számlával rendelkezők külön jogszabályban meghatározott számlavezetési díjat kötelesek fizetni.
-
-(6) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő büntetlen előéletű és nem állhat a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
+(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. A kérelmező köteles hatósági bizonyítvánnyal igazolni, hogy a meghatalmazott képviselőként megnevezett személy e feltételeknek megfelel, vagy csatolni e személy hozzájáruló nyilatkozatát arra vonatkozóan, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
@@ -80,13 +80,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### Nemzeti jelentéstétel
 
-7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, és egyéb éghajlatváltozással kapcsolatos jelentéstételt a miniszter teljesíti a 601/2012/EU bizottsági rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.
+7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, valamint az éghajlatváltozással kapcsolatos egyéb információra vonatkozó jelentéstételt a miniszter teljesíti az 525/2013/EU európai parlamenti és tanácsi rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.
 
 ### A kiotói egységek létrejötte és megszűnése
 
 8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a Magyar Állam kincstári vagyonába tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
-(2) A kiotói egység a nemzeti forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott kötelezettségvállalási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
+(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
@@ -98,13 +98,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
-(4) Egy adott kötelezettségvállalási időszakban a nemzeti forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
+(4) Egy adott kötelezettségvállalási időszakban a forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
 
 (5) A kibocsátható mennyiségi egységek korlátozás nélkül, a kibocsátás-csökkentési egységek, valamint az igazolt kibocsátás-csökkentési egységek az adott kötelezettségvállalási időszak kibocsátható mennyiségének 2,5%-áig a következő kötelezettségvállalási időszakba átvihetők.
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a nemzeti forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
 (8) A kibocsátható mennyiség egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
@@ -174,17 +174,17 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) Az e törvény hatálybalépését megelőzően a környezetvédelemért felelős miniszter által jóváhagyott együttes végrehajtási projekttevékenységek e törvény szerint jóváhagyottnak minősülnek.
 
-(4) Az 5. § (3) bekezdése alapján kibocsátás-csökkentési egységek 2008. január 1-jét követően adhatók ki.
+(4)
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
 - a) az Éghajlatváltozási Stratégia felülvizsgálatához szükséges nemzeti alkalmazkodási térinformatikai rendszer működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás rendjére, az adatok nemzeti alkalmazkodási térinformatikai rendszer keretében történő felhasználásának részletes szabályaira;
 - b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 - c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
-- d) a nemzeti forgalmi jegyzék működésének szabályait;
-- e) a nemzeti forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
+- d) a forgalmi jegyzék működésének szabályait;
+- e) a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
 - f) a nemzetközi jelentések tartalmának és elkészítésének módját;
-- g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, illetve a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét;
+- g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, valamint a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét, a nyilvántartási rendszerhez szükséges adatok körét a személyes adatok kivételével;
 - h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;
 - i) az Európai Közösség kibocsátási egységkereskedelmi rendszerében részt vevő személyek tekintetében a nemzetközi kibocsátás-kereskedelemben való részvételi szabályokat;
 - j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét.
@@ -234,4 +234,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 való megfelelést szolgálja.
 
-(2) E törvény – a végrehajtására kiadott jogszabályokkal együtt – az üvegházhatást okozó gázok Közösségen belüli kibocsátásának nyomon követését szolgáló rendszerről és a Kiotói Jegyzőkönyv végrehajtásáról szóló, 2004. február 11-i 280/2004/EK európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény – a végrehajtására kiadott jogszabályokkal együtt –
+
+- a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet, és
+- b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

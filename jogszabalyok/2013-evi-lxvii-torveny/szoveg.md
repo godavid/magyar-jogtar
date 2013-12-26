@@ -106,6 +106,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 (9) Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni a külön jogszabályban foglalt követelményeknek megfelelő bevallási közreműködőkkel.
 
+(10) Az egyetemes útdíjszolgáltató az úthasználati jogosultság ellenértékének kiegyenlítésére üzemanyagkártya elfogadását biztosíthatja az úthasználók számára. Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni az e törvény végrehajtására kiadott jogszabályban foglaltak szerint az üzemanyagkártya-kibocsátókkal.
+
 7. § (1) Viszonylati jegyet az egyetemes útdíjszolgáltatónál lehet váltani. A viszonylati jegy ellenértékét annak megváltásakor kell kiegyenlíteni.
 
 (2) A viszonylati jegy formájában teljesített bevallást a viszonylati jegyet kibocsátó egyetemes útdíjszolgáltató a viszonylati jegy megváltását követően, azonban annak érvényességi idejét megelőzően továbbítja az útdíjszedőnek, a viszonylati jegynek megfelelő tartalommal.
@@ -120,9 +122,9 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 - a) a Magyar Honvédséget, a Katonai Nemzetbiztonsági Szolgálatot, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti rendvédelmi szerveket és az Országgyűlési Őrséget az általuk üzemben tartott gépjárművek után,
 - b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erőket és a Magyarországon felállított nemzetközi katonai parancsnokságokat hivatali vagy szolgálati gépjárműveik után, valamint az egyéb szervezeteket a nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműveik után,
-- c) az útdíjköteles elemi útszakasz kezelői feladatait ellátó,
-  - ca) koncessziós szerződés alapján működtetett országos közút esetében a koncessziós társaság vagy az általa a közút-üzemeltetési feladatokkal megbízott gazdasági társaság által a közútkezelői feladata ellátása érdekében üzemben tartott gépjárműveket,
-  - cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemben tartott gépjárműveket,
+- c) útdíjköteles elemi útszakasz kezelői feladatait ellátó,
+  - ca) a koncessziós közúton végzett üzemeltetői feladata ellátása érdekében a koncessziós társaság vagy az általa üzemeltetői feladatokkal megbízott gazdasági társaság által üzemeltetett gépjárműveket,
+  - cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
 - d) az útdíjszedőt a feladatait ellátó gépjárművei után,
 - e) a megkülönböztető jelzés használatára jogosultat a Magyarországon kiadott forgalmi rendszámú gépjárművek után, függetlenül attól, hogy a megkülönböztető jelzést az útdíjköteles elemi útszakaszon való haladás közben használják-e,
 - f) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjárművek üzemeltetőit, ezen feladatok ellátása során, továbbá az önkéntes tűzoltó egyesületek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes vagy köteles polgári védelmi egységek tagjait az elrendelt gyakorlat során igénybe vett gépjárművek után,
@@ -192,7 +194,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 14. § Jogosulatlan úthasználatnak minősül – a 9. § szerinti mentesség eseteinek kivételével – , ha:
 
 - a) az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan és nincs hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése,
-- b) a díjfizetésre kötelezett az útdíjköteles elemi útszakaszt a díjkategóriájánál alacsonyabb díjkategóriához tartozó bevallás alapján használja, vagy
+- b) a díjfizetésre kötelezett az útdíjköteles elemi útszakaszt a díj- vagy környezetvédelmi kategóriájánál alacsonyabb díj- vagy környezetvédelmi kategóriához tartozó bevallás alapján használja, vagy
 - c) az útdíjköteles elemi útszakasz használatára az érintett gépjármű vonatkozásában van hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése, de a fedélzeti eszköz szabályszerű működtetésének az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek valamelyike nem teljesül az útdíjköteles elemi útszakaszok használata során, és az útdíjköteles elemi útszakasz használatának megkezdése előtt a díjfizetésre kötelezett elmulasztja viszonylati jegy megváltását az általa használt útdíjköteles elemi útszakaszra vonatkozóan.
 
 15. § (1) A bírság mértékét úgy kell megállapítani, hogy az az előírt díj megfizetésére ösztönözze a díjfizetésre kötelezetteket.
@@ -278,7 +280,7 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 
 #### 11. Egyeztető szerv
 
-23. § (1) Az útdíjszolgáltató és az útdíjszedő egymás közötti – különösen a szerződéskötésre irányuló tárgyalásokkal vagy a már fennálló szerződéses viszonyukkal összefüggésben felmerült – jogvitáiban a bírósági igényérvényesítés előtt a feleknek meg kell kísérelniük a jogvita peren kívüli rendezését az e törvény felhatalmazása alapján kiadott rendeletben kijelölt egyeztető szerv útján.
+23. § (1) Az útdíjszolgáltató és az útdíjszedő egymás közötti útdíjszedéssel kapcsolatos – különösen a szerződéskötésre irányuló tárgyalásokkal vagy a már fennálló szerződéses viszonyukkal összefüggésben felmerült – jogvitáiban a bírósági igényérvényesítés előtt a feleknek meg kell kísérelniük a jogvita peren kívüli rendezését az e törvény felhatalmazása alapján kiadott rendeletben kijelölt egyeztető szerv útján.
 
 (2) A vitában érintett felek a bírósági igényérvényesítést megelőzően kötelesek felkérni az egyeztető szervet, hogy jogvitájukat vizsgálja meg és arra vonatkozóan adjon véleményt. Az egyeztető szerv véleménye a felekre nézve kötelező erővel nem bír.
 

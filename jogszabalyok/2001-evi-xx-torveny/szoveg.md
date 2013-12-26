@@ -399,24 +399,26 @@ HM VERGA Erdőgazdasági Zrt.
 
 ### 2. számú melléklet a 2001. évi XX. törvényhez
 
-Az MFB Zrt. a 8. § (4) bekezdésének b) pontja alapján a következő gazdálkodó szervezetekben rendelkezhet tulajdoni részesedéssel:
+Az MFB Zrt. a 8. § (3) bekezdés b) pontja alapján a következő gazdálkodó szervezetekben rendelkezhet tulajdoni részesedéssel:
 
-Beszállítói Befektetői Zrt.
+MFB-Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság
 
-Corvinus Kockázati Tőkealap-kezelő Zrt.
+CORVINUS Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaság
 
-Corvinus Támogatásközvetítő Zrt.
+Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
 
-Déli Áramlat Magyarország Zrt.
+Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
 
-Kisvállalkozás-fejlesztő Pénzügyi Zrt.
+MAG Magyar Gazdaságfejlesztési Központ Zártkörűen Működő Részvénytársaság
 
-MAG-Magyar Gazdaságfejlesztési Központ Támogatásközvetítő Zrt.
+MKK Magyar Követeléskezelő Zártkörűen Működő Részvénytársaság
 
-Magyar Követeléskezelő Zrt.
+MFB Invest Befektetési és Vagyonkezelő Zártkörűen Működő Részvénytársaság
 
-MFB Invest Befektetési és Vagyonkezelő Zrt.
+MV-Magyar Vállalkozásfinanszírozási Zártkörűen Működő Részvénytársaság
 
-VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.
+Informatikai Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaság
 
-MMBF Földgáztároló Zártkörűen Működő Részvénytársaság.
+MMBF Földgáztároló Zártkörűen Működő Részvénytársaság
+
+EHPSZ Első Hazai Pénzügyi Szolgáltatásfejlesztési Korlátolt Felelősségű Társaság
