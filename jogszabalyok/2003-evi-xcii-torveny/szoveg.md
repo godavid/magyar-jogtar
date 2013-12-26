@@ -3572,7 +3572,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - a) a külön jogszabály szerint pénztárgép használatra kötelezett, vagy
 - b) a külön jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó.
 
-176/H. § (1) A hatósági árat a legmagasabb árnak kell tekinteni.
+176/H. § (1) A hatósági ár a külön jogszabályban rögzített ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
@@ -3580,13 +3580,13 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
+(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba. A hatósági ár a már megkötött szerződésekre is vonatkozik.
 
-(6) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A legmagasabb árat úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
+(6) A hatósági árat úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
 
-(7) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az ár mértékében másképp nem állapodtak meg, és a szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
+(7) A hatósági ártól eltérő árat a szerződésben érvényesen kikötni nem lehet. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
 
-(8) Ha a felek az (1) bekezdés szerinti szolgáltatás ára tekintetében másképp nem állapodtak meg, a legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik.
+(8) A hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
 (9) A hatósági árnak a szerződés megkötése és teljesítése között bekövetkezett megszűnése esetén a szerződést – ha törvény eltérően nem rendelkezik – a kikötött áron kell teljesíteni.
 

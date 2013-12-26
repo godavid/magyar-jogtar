@@ -1407,7 +1407,7 @@ foglalt árat köteles megfizetni.
 - b) kötelezi az engedélyest a rendelkezések megsértésével elért többletbevétel – a többletbevétel realizálása és visszatérítése közötti időszakra vonatkozóan a jegybanki alapkamat tárgyévi éves átlagával megnövelt – összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
 - c) bírságot szabhat ki.
 
-104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj, a csatlakozási díj és az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez, amelynek eredményéről tájékoztatja az érintett engedélyeseket.
+104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj, a csatlakozási díj és az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez,.
 
 (2) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter
 

@@ -902,7 +902,7 @@ rendeletben állapítsa meg.
 
 (3) A 2012. július 15-ét megelőzően létrejött üzemeltetési szerződés időtartamának meghosszabbítása új jogviszony létesítésének minősül.
 
-(4) A víziközmű-szolgáltató az átalánydíjas felhasználási helyen fogyasztásmérő berendezést helyez el 2013. december 31-ig. A felhasználó a fogyasztásmérő berendezés elhelyezése és a közüzemi szerződés módosítása érdekében együttműködik a víziközmű-szolgáltatóval.
+(4) A felhasználó az átalánydíjas felhasználási helyen fogyasztásmérő berendezés elhelyezését legkésőbb 2015. december 31-ig elvégezteti. A víziközmű-szolgáltató a bekötési vízmérő elhelyezését nem tagadhatja meg, ha a felhasználó a bekötési vízmérő elhelyezésének feltételeit teljesítette, valamint ha az új közüzemi szerződés megkötésében a víziközmű-szolgáltatóval együttműködik.
 
 (5) Ha 2012. július 15-én a közműves ivóvízellátás vagy a közműves szennyvízelvezetés és -tisztítás biztosításához szükséges víziközmű-rendszer a közterületen az ingatlanról műszakilag elérhető módon kiépült és műszakilag rendelkezésre áll, az ingatlan tulajdonosa az 55. § szerinti kötelezettségét 2013. július 1-jéig teljesíti.
 

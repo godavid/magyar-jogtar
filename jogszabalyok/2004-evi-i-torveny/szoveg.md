@@ -505,7 +505,10 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 - a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
 - b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át,
-- c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak.
+- c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak,
+- d) az indulási (nevezési) joggal rendelkező sportvállalkozásnak olyan sportegyesület is tagja, mely a sportvállalkozásba tagként belépése és az indulás (nevezés) jogának sportvállalkozásra történő átruházása előtt maga rendelkezett az azonos versenyrendszer azonos bajnoki osztályában az indulási (nevezési) joggal, a sportvállalkozásnak lejárt köztartozása nincs, és a sportvállalkozás legfőbb szerve határozatával az indulási (nevezési) jogot az indulás (nevezés) jogával korábban rendelkező sportegyesület tagra az országos sportági szakszövetség elnöksége előzetes jóváhagyásával átruházza.
+
+(2a) Az országos sportági szakszövetség elnöksége a (2) bekezdés d) pontja szerinti átruházás előzetes jóváhagyását megtagadja, ha az átruházás feltételei nem felelnek meg a jogszabályi előírásoknak és az országos sportági szakszövetség szabályzatában meghatározott feltételeknek.
 
 (3) Ha a sportszervezet általános jogutóddal szűnik meg, az indulási jog az általános jogutódra átszáll. Ha a sportszervezet általános jogutód nélkül szűnik meg, az indulási jog megszűnik.
 
@@ -1389,6 +1392,14 @@ adatokat továbbítja.
 
 (11) A rendőrség az adattovábbítási nyilvántartásba bejegyzett adatot az adatszolgáltatástól számított öt évig kezeli.
 
+### X/A. Fejezet — EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL
+
+76/B. § (1) A fővárosi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése érdekében az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben felsorolt állami tulajdonú sportcélú ingatlanok vagyonkezelőjeként az 1. mellékletben felsorolt jogi személyeket jelöli ki.
+
+(2) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
+
+76/C. § A 76/B. § alapján keletkező vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén lehetséges bármelyik fél részéről.
+
 ### XI. Fejezet — ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
 
 ### Értelmező rendelkezések
@@ -1474,3 +1485,18 @@ adatokat továbbítja.
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
 
 80. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK irányelvnek való megfelelést szolgálja.
+
+### 1. melléklet a 2004. évi I. törvényhez
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
+| 2 | Budapest, 38440/52 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 3 | Budapest, 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 4 | Budapest, 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 5 | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 6 | Budapest, 74333 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 7 | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 8 | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
+| 9 | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
+| 10 | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |

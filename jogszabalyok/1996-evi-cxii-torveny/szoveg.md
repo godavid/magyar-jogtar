@@ -4909,6 +4909,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 234/P. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi XCVIII. törvény 10. §-ával megállapított 101. § (13) bekezdésében foglalt rendelkezéseket a hatálybalépését követően indított kártalanítási eljárásban kell alkalmazni.
 
+234/Q. § 2013. december 31-ig már megképzett általános kockázati céltartalékot vagy annak egy részét – ha az veszteség fedezésére nem kerül felhasználásra – a hitelintézet 2013. december 31-i fordulónappal átvezetheti az eredménytartalékba.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,

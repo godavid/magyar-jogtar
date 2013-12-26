@@ -79,7 +79,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
-- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra és a helyettes államtitkárra, a Miniszterelnökséget vezető államtitkár a helyettes államtitkárra,
+- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra, az államtitkárra és a helyettes államtitkárra, a Miniszterelnökséget vezető államtitkár a helyettes államtitkárra,
 - b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre átruházhatják.
 
 (3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a külpolitikáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az (1) bekezdés p)–s) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a külügyi és a nemzetközi kapcsolatokkal összefüggő, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
@@ -245,7 +245,8 @@ biztonsági feltételeket.
 - e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
 - f) a legfőbb ügyész,
 - g) az alapvető jogok biztosa
-- h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
+- h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
+- i) az Állami Számvevőszék elnöke nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
 
 (4) A minősített adatot kezelő szerv vezetője, valamint a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
 
