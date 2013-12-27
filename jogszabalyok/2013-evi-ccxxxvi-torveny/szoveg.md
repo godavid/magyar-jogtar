@@ -34,9 +34,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 #### 7. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosítása
 
-17. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény a következő 234/Q. §-sal egészül ki:
-
-„234/Q. § 2013. december 31-ig már megképzett általános kockázati céltartalékot vagy annak egy részét – ha az veszteség fedezésére nem kerül felhasználásra – a hitelintézet 2013. december 31-i fordulónappal átvezetheti az eredménytartalékba.”
+17. §
 
 #### 8. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
@@ -64,7 +62,7 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 33. §
 
-34. § Az MFB tv. 2. számú melléklete helyébe a 2. melléklet lép.
+34. §
 
 35–36. §
 
@@ -98,31 +96,11 @@ egyes pénzügyi tárgyú törvények módosításáról
 
 62. § (1)
 
-(2) Az Stv. 33. § (2) bekezdése a következő d) ponttal egészül ki:
-
-[A versenyrendszerben (bajnokságban) való indulás (nevezés) joga nem ruházható át, az erre irányuló szerződés semmis. E rendelkezés alól kivételt képez, ha:]
-
-„d) az indulási (nevezési) joggal rendelkező sportvállalkozásnak olyan sportegyesület is tagja, mely a sportvállalkozásba tagként belépése és az indulás (nevezés) jogának sportvállalkozásra történő átruházása előtt maga rendelkezett az azonos versenyrendszer azonos bajnoki osztályában az indulási (nevezési) joggal, a sportvállalkozásnak lejárt köztartozása nincs, és a sportvállalkozás legfőbb szerve határozatával az indulási (nevezési) jogot az indulás (nevezés) jogával korábban rendelkező sportegyesület tagra az országos sportági szakszövetség elnöksége előzetes jóváhagyásával átruházza.”
-
-(3) Az Stv. 33. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az országos sportági szakszövetség elnöksége a (2) bekezdés d) pontja szerinti átruházás előzetes jóváhagyását megtagadja, ha az átruházás feltételei nem felelnek meg a jogszabályi előírásoknak és az országos sportági szakszövetség szabályzatában meghatározott feltételeknek.”
+(2)–(3)
 
 (4)
 
-(5) Az Stv. a következő X/A. Fejezettel egészül ki:
-
-„X/A. FEJEZET
-
-EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL
-
-76/B. § (1) A fővárosi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése érdekében az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben felsorolt állami tulajdonú sportcélú ingatlanok vagyonkezelőjeként az 1. mellékletben felsorolt jogi személyeket jelöli ki.
-
-(2) Az (1) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
-
-76/C. § A 76/B. § alapján keletkező vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén lehetséges bármelyik fél részéről.”
-
-(6) Az Stv. az 1. melléklettel egészül ki a 3. melléklet szerint.
+(5)–(6)
 
 (7)–(8)
 
@@ -202,15 +180,7 @@ EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJ
 
 #### 33. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-127. § (1) A minősített adat védelméről szóló 2009. évi CLV. törvény 4. § (2) bekezdés a) pontjában az „a közigazgatási államtitkárra” szövegrész helyébe az „a közigazgatási államtitkárra, az államtitkárra” szöveg lép.
-
-(2) A minősített adat védelméről szóló 2009. évi CLV. törvény 13. § (3) bekezdése a következő i) ponttal egészül ki:
-
-(Állami vagy közfeladata ellátásához)
-
-„i) az Állami Számvevőszék elnöke”
-
-[nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.]
+127. §
 
 #### 34. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
@@ -276,7 +246,7 @@ EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJ
 
 175. §
 
-176. § A Magyarország 2013. évi központi költségvetését megalapozó egyes törvények módosításáról szóló 2012. évi CXCVI. törvény 25. § (1) bekezdésében a „2014. január 2-án” szövegrész helyébe a „2015. január 2-án” szöveg lép.
+176. §
 
 177. § (1) Nem lép hatályba az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény (a továbbiakban: Módtv.) 33. § (24) bekezdése.
 
@@ -304,19 +274,7 @@ EGYES FŐVÁROSI ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK VAGYONKEZELŐINEK KIJ
 
 #### 48. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-181. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 176/H. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hatósági ár a külön jogszabályban rögzített ár.”
-
-(2) Az Art. 176/H. § (5)–(8) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba. A hatósági ár a már megkötött szerződésekre is vonatkozik.
-
-(6) A hatósági árat úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
-
-(7) A hatósági ártól eltérő árat a szerződésben érvényesen kikötni nem lehet. A hatósági ár az irányadó akkor is, ha a felek a hatósági árat megállapító jogszabály megsértésével más árban állapodtak meg.
-
-(8) A hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik.”
+181. §
 
 #### 49. Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvény módosítása
 
