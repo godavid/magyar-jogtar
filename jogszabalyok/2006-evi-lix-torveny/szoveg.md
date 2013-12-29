@@ -158,7 +158,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (37) A (21) bekezdés szerinti adóvisszatérítést az előzőek szerint csökkentett adó terhére veheti igénybe a pénzügyi intézmény.
 
-(38) A Hpt. szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
+(38) A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap és tagjai együttesen megfelelnek a Hpt. 76/A. § (8) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
 
 (39) A Hpt. 80. § (1) bekezdés m) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
 
@@ -178,13 +178,32 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (7) Az állami adóhatóság a pénzügyi intézmények különadójára vonatkozóan utólagos adómegállapítás tárgyában hozott határozatában, ha az a pénzügyi intézmények különadója fizetendő összegét módosítja, rendelkezik a különadónak a (2)–(3) bekezdés rendelkezéseinek megfelelő módosításáról is. A jogkövetkezmények megállapításánál az egyik különadóra vonatkozóan megfizetett összeget a másik különadóra megfizetett összegként kell figyelembe venni.
 
+### Hitelintézeti hozzájárulás
+
+4/C. § (1) A hitelintézetnek a 2013. adóévre a Hpt. alapján a már megképzett és 2013. december 31-ei fordulónappal az eredménytartalékba átvezetett általános kockázati céltartalékra tekintettel egyszeri fizetési kötelezettsége keletkezik.
+
+(2) A hitelintézet az (1) bekezdésben meghatározott fizetési kötelezettségét azáltal teljesíti, hogy az általános kockázati céltartalékból az eredménytartalékba – a 2013. december 31-ei fordulónappal – átvezetett összeggel az e fordulónappal lezáruló adóév társasági adóalapja megállapítása során
+
+- a) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao törvény) 6. § (5) bekezdés b) pontjának alkalmazása esetén a jövedelem-(nyereség-)minimumot,
+- b) az a) pont hatálya alá nem tartozó esetben az adózás előtti eredményét
+
+megnöveli.
+
+(3) Az (1) bekezdés szerinti fizetési kötelezettségre tekintettel a 2013. december 31-ei fordulónappal lezáruló adóévben a hitelintézet társasági adóalapja a Tao törvény 6. § (1)–(2), (5)–(10) bekezdése szerint megállapított, a (2) bekezdés szerint módosított összeg, de legalább az általános kockázati céltartalék csökkenéseként elszámolt összeg. A hitelintézet a 2013. december 31-ei fordulónappal lezáruló adóév elhatárolt veszteségét a (2) bekezdés szerint növelő tételként elszámolt összeg figyelembe vétele nélkül állapítja meg.
+
+(4) Az általános kockázati céltartalékra tekintettel keletkezett adóalaprész után a hitelintézet 19 százalékkal állapítja meg a társasági adót.
+
+(5) A hitelintézet a társasági adóalapjából a (2)–(3) bekezdés szerinti rész tekintetében a 2013-ban kezdődő adóévre vonatkozó adóelőleg-kiegészítési kötelezettségét azzal teljesíti, hogy a (2) és (3) bekezdés szerint meghatározott fizetési kötelezettséget 2014. március 10-éig megállapítja, az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton bevallja és egy összegben (társasági adófizetési kötelezettségként) megfizeti.
+
+(6) Az (5) bekezdés szerinti kötelezettség elmulasztása a jogkövetkezmények szempontjából az adófizetési kötelezettség elmulasztásával esik egy tekintet alá, amelynek alapján adóbírság és késedelmi pótlék kiszabásának van helye.
+
 ### Vegyes rendelkezések
 
 5. § (1)
 
 (2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni. A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
 
-(3) A pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságot a 4/A. § (11)–(30) bekezdése alapján az adóévre megillető különadó-visszatérítés vagy adójóváírás összegét a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 26. §-ának (10) bekezdésében meghatározott adóelőleg-kiegészítési kötelezettségének teljesítésekor az adóévi várható fizetendő társasági adójának alapját képező számított adóalap megállapításánál nem köteles figyelembe venni.
+(3) A pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságot a 4/A. § (11)–(30) bekezdése alapján az adóévre megillető különadó-visszatérítés vagy adójóváírás összegét a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a Tao törvény 26. §-ának (10) bekezdésében meghatározott adóelőleg-kiegészítési kötelezettségének teljesítésekor az adóévi várható fizetendő társasági adójának alapját képező számított adóalap megállapításánál nem köteles figyelembe venni.
 
 (4) A magánszemély (a fogyasztó) és a pénzügyi intézmény által a 4/A. §-ban meghatározott különadóalap-csökkentés vagy adóvisszatérítés alapjául szolgáló tartozás-elengedés, szerződésmódosítás
 
@@ -267,3 +286,5 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 (3) A pénzügyi intézmény a 2012-re fizetendő különadó megállapításánál a 4/A. § (6) bekezdés szerint kiszámított különadót – a (4) bekezdésben foglalt feltételekre figyelemmel – csökkenti a 4/A. § (11) bekezdése szerint meghatározott különadó kedvezménynek a 2011-re fizetendő különadót meghaladó összegével.
 
 (4) A pénzügyi intézmény a (3) bekezdés szerint meghatározott összeget késedelmi pótlékkal növelten köteles megfizetni, ha a 2012. december 31-én fennálló – 2011. december 31-ei árfolyamon meghatározott – kkv-hitelállomány összege kisebb, mint a 2011. december 31-én fennálló kkv-hitelállomány és a (2) bekezdés szerint meghatározott összeg együttes összege.
+
+11. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4/C. §-a 2014. december 31-én hatályát veszti.
