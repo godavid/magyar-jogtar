@@ -3250,7 +3250,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (11) Ha az eljárás kezdeményezésekor fennálló eljárási illetékfizetési kötelezettségét a kötelezett felhívás ellenére egyáltalán nem vagy nem teljes mértékben vagy nem a megszabott határidőben teljesítette, a meg nem fizetett illeték 100%-áig terjedő, de legalább 5000 forint és legfeljebb 100 ezer forint mulasztási bírság szabható ki.
 
-(12) Ha az adózó esedékességig az adóévi várható adó összegét – figyelemmel az adóév során megfizetett előleg összegére is – nem fizette meg legalább 90%-os mértékben, a befizetett előleg és az adó 90%-ának különbözete után 20%-ig terjedő mulasztási bírságot fizet.
+(12) Ha az adózó esedékességig az adóévi várható adó összegét – figyelemmel az adóév során megfizetett előleg összegére is – nem fizette meg legalább 90%-os mértékben, a befizetett előleg és az adó 90%-ának különbözete után 20%-ig terjedő mulasztási bírságot fizet. A mulasztási bírság alapjának számítása során figyelmen kívül kell hagyni az adóelőleg-kiegészítés esedékességének napján és a mérlegfordulónapon alkalmazott árfolyam különbsége alapján számított nyereségjellegű árfolyam különbözetet, ha az adóalapot képez.
 
 (13) Az adózó 20%-ig terjedő mértékű bírságot fizet, ha az előző időszak adatai alapján előírt (bevallott) adóelőlegét mérsékelték, és ezért kevesebb adóelőleget fizetett, mint amennyit tényleges eredménye alapján kellett volna. A bírság alapja az előző időszak adatai alapján előírt (bevallott) adóelőleg és a mérsékelt adóelőleg különbözete.
 

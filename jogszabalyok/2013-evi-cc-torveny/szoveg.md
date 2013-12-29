@@ -28,7 +28,37 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 12–14. §
 
-15. §
+15. § (1) Az Szja tv. 77/C. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+
+„(1a) Munkavállalói értékpapír-juttatási programnak (a továbbiakban: program) minősül az olyan juttatási rendszer:
+
+a) amelynek keretében kizárólag a gazdasági társaság vagy annak kapcsolt vállalkozása által kibocsátott értékpapírt lehet szerezni;
+
+b) amelynek keretében kizárólag a gazdasági társaság munkavállalója vagy vezető tisztségviselője szerezhet értékpapírt;
+
+c) amelyet a gazdasági társaság munkavállalói és vezető tisztségviselői között teljeskörűen írásban meghirdetnek;
+
+d) amelyben a gazdasági társaság munkavállalói és vezető tisztségviselői közül a részvételre jogosultak körét nem a munkaköri feladattal kapcsolatos egyéni teljesítménytől függő ismérv határozza meg;
+
+e) amelyben a juttatásra való jogosultság semmilyen módon nem kapcsolódik a munkavállaló, vezető tisztségviselő egyéni teljesítményéhez;
+
+f) amelyben a program szervezője visszavonhatatlan kötelezettséget vállal a programban foglaltak teljesítésére azzal, hogy a juttatás a gazdasági társaság érdekkörébe tartozó, előre meghatározott, a program meghirdetését követően meg nem változtatható, objektív feltételhez köthető;
+
+g) amelyben az adóéven belül részt vevő magánszemélyek legfeljebb 25 százaléka lehet vezető tisztségviselő;
+
+h) amelynek keretében az adóéven belül a vezető tisztségviselők legfeljebb a megszerezhető összes értékpapír együttes névértékének 50 százalékát kitevő együttes névértékű értékpapírt szerezhetnek; és
+
+i) amelynek keretében a gazdasági társaság és a kibocsátó számviteli vezetője, felügyelő-bizottsági tagja és e személyek közeli hozzátartozója a program keretében nem szerezhet értékpapírt.
+
+(1b) Programszervezőként az (1a) bekezdés szerint jár el a külföldi vállalkozás magyarországi fióktelepe, kereskedelmi képviselete.
+
+(1c) A gazdasági társaság (ideértve a külföldi vállalkozás magyarországi fióktelepét, kereskedelmi képviseletét) kapcsolt vállalkozása és annak munkavállalói, vezető tisztségviselői is részt vehetnek a programban. Ebben az esetben az (1a) bekezdésben foglalt feltételeknek az programban részt vevő kapcsolt vállalkozás és annak munkavállalói, vezető tisztségviselői tekintetében is teljesülniük kell.”
+
+(2) Az Szja tv. 77/C. § (24) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Az elismert munkavállalói értékpapír-juttatási program keretében szerzett jövedelemre vonatkozó rendelkezések alkalmazásában:)
+
+„e) a program szervezője: az értékpapír magyarországi juttatását a program alapján megszervező gazdasági társaság, illetve a külföldi vállalkozás magyarországi fióktelepe, kereskedelmi képviselete, a juttatást követően ideértve az előbbiek (gazdasági társaság, külföldi vállalkozás) jogutódját is;”
 
 16. §
 
@@ -55,7 +85,8 @@ szerint módosul.
 - 14–16.
 - 17.
 - 18.
-- 19–20.
+- 19. 77/C. §-t magában foglaló alcím címében az „Az elismert munkavállalói” szövegrész helyébe az „A munkavállalói” szöveg;
+- 20. 77/C. § (1) bekezdés a) pontjában az „értékpapírt elismert” szövegrész helyébe az „értékpapírt munkavállalói értékpapír-juttatási” szöveg, az „az elismert programban” szövegrész helyébe az „a programban” szöveg, b) pontjában az „az elismert program nyilvántartásáról rendelkező határozatban” szövegrész helyébe az „a munkavállalói értékpapír-juttatási program nyilvántartásában” szöveg, (6) bekezdésében, a (15) bekezdés nyitó szövegrészében, (17) bekezdésében, a (18) bekezdés nyitó szövegrészében az „az elismert program” szövegrészek helyébe az „a program” szöveg, a (24) bekezdés nyitó szövegrészében az „Az elismert munkavállalói” szövegrész helyébe az „A munkavállalói” szöveg, (24) bekezdés b) és d) pontjában az „az elismert program” szövegrész helyébe az „a program” szöveg;
 - 21.
 - 22.
 - 23–25.
@@ -70,7 +101,7 @@ lép.
 - 6.
 - 7.
 - 8.
-- 9.
+- 9. 77/C. § (2) bekezdésében az „az elismert program nyilvántartási számát, valamint” szövegrész, 77/C. § (3) bekezdésében az „az elismert program nyilvántartási száma, továbbá” szövegrész, 77/C. § (4) bekezdésében az „az elismert program nyilvántartási számáról,” szövegrész, 77/C. § (5) bekezdésében az „az elismert program nyilvántartási száma, továbbá” szövegrész, 77/C. § (7) bekezdésében az „az elismert program nyilvántartási száma, valamint” szövegrész, 77/C. § (14) bekezdése, 77/C. § (18) bekezdés záró szövegrészében az „elismert” szövegrészek, 77/C. § (19)–(23) bekezdése, 77/C. § (24) bekezdés a) és f) pontja;
 - 10.
 - 11.
 - 12.
@@ -108,14 +139,38 @@ lép.
 
 #### 5. Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosítása
 
-38–39. §
+38. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény (a továbbiakban: Különadó tv.) a következő alcímmel egészül ki:
+
+„Hitelintézeti hozzájárulás
+
+4/C. § (1) A hitelintézetnek a 2013. adóévre a Hpt. alapján a már megképzett és 2013. december 31-ei fordulónappal az eredménytartalékba átvezetett általános kockázati céltartalékra tekintettel egyszeri fizetési kötelezettsége keletkezik.
+
+(2) A hitelintézet az (1) bekezdésben meghatározott fizetési kötelezettségét azáltal teljesíti, hogy az általános kockázati céltartalékból az eredménytartalékba – a 2013. december 31-ei fordulónappal – átvezetett összeggel az e fordulónappal lezáruló adóév társasági adóalapja megállapítása során
+
+a) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao törvény) 6. § (5) bekezdés b) pontjának alkalmazása esetén a jövedelem-(nyereség-)minimumot,
+
+b) az a) pont hatálya alá nem tartozó esetben az adózás előtti eredményét
+
+megnöveli.
+
+(3) Az (1) bekezdés szerinti fizetési kötelezettségre tekintettel a 2013. december 31-ei fordulónappal lezáruló adóévben a hitelintézet társasági adóalapja a Tao törvény 6. § (1)–(2), (5)–(10) bekezdése szerint megállapított, a (2) bekezdés szerint módosított összeg, de legalább az általános kockázati céltartalék csökkenéseként elszámolt összeg. A hitelintézet a 2013. december 31-ei fordulónappal lezáruló adóév elhatárolt veszteségét a (2) bekezdés szerint növelő tételként elszámolt összeg figyelembe vétele nélkül állapítja meg.
+
+(4) Az általános kockázati céltartalékra tekintettel keletkezett adóalaprész után a hitelintézet 19 százalékkal állapítja meg a társasági adót.
+
+(5) A hitelintézet a társasági adóalapjából a (2)–(3) bekezdés szerinti rész tekintetében a 2013-ban kezdődő adóévre vonatkozó adóelőleg-kiegészítési kötelezettségét azzal teljesíti, hogy a (2) és (3) bekezdés szerint meghatározott fizetési kötelezettséget 2014. március 10-éig megállapítja, az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton bevallja és egy összegben (társasági adófizetési kötelezettségként) megfizeti.
+
+(6) Az (5) bekezdés szerinti kötelezettség elmulasztása a jogkövetkezmények szempontjából az adófizetési kötelezettség elmulasztásával esik egy tekintet alá, amelynek alapján adóbírság és késedelmi pótlék kiszabásának van helye.”
+
+39. § A Különadó tv. a következő 11. §-sal egészül ki:
+
+„11. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 4/C. §-a 2014. december 31-én hatályát veszti.”
 
 40. § A Különadó tv.
 
 - a)–d)
-- e)
+- e) 4/A. § (38) bekezdésében az „A Hpt. szerinti” szövegrész helyébe az „A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti” szöveg;
 - f)
-- g)
+- g) 5. § (3) bekezdésében az „a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény” szövegrész helyébe az „a Tao törvény” szöveg;
 - h)–i)
 - j)
 
@@ -248,7 +303,9 @@ lép.
 
 182. § (1)
 
-(2)
+(2) Az Art. 172. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) Ha az adózó esedékességig az adóévi várható adó összegét – figyelemmel az adóév során megfizetett előleg összegére is – nem fizette meg legalább 90%-os mértékben, a befizetett előleg és az adó 90%-ának különbözete után 20%-ig terjedő mulasztási bírságot fizet. A mulasztási bírság alapjának számítása során figyelmen kívül kell hagyni az adóelőleg-kiegészítés esedékességének napján és a mérlegfordulónapon alkalmazott árfolyam különbsége alapján számított nyereségjellegű árfolyam különbözetet, ha az adóalapot képez.”
 
 183. §
 
